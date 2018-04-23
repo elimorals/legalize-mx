@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2017-12-31"
+last_updated: "2018-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -47,7 +47,9 @@ SEGUNDO.- El asunto de mérito, se registró en el Libro de Gobierno de la Prime
 
 Por lo que, en atención a lo expuesto; y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En virtud de lo anteriormente expuesto y derivado del trabajo realizado al seno de la Primera Comisión Permanente de Legislación y Puntos Constitucionales, es de considerarse pertinente la aprobación del Dictamen de la Iniciativa de Ley Orgánica Municipal para el Estado de Hidalgo, presentada por el Lic. Miguel Ángel Osorio Chong, Gobernador Constitucional del Estado, a efecto de mantener la concordancia con lo estipulado en la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Hidalgo y los ordenamientos jurídicos aplicables para los Municipios.
 
@@ -381,9 +383,9 @@ III.- Dos Vocales Ejecutivos uno que asumirá las funciones del Síndico hacenda
 
 IV.- Cinco vocales quienes asumirán las funciones de los regidores, sin importar el número de habitantes del Municipio, independientemente de los vocales ejecutivos.
 
-Cuando la falta absoluta del Ayuntamiento sea en el primer año, el Congreso del Estado, designará un Concejo Municipal Interino y notificará lo actuado al Consejo General del Instituto Estatal Electoral, para que éste convoque, en un plazo de noventa días, a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el periodo.
+Cuando la falta absoluta del Ayuntamiento sea en el primer año, el Congreso del Estado, designará un Concejo Municipal Interino y notificará lo actuado al Consejo General del Instituto Estatal Electoral, para que éste convoque, en un plazo de noventa días, a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período.
 
-Si la falta absoluta del Ayuntamiento, acontece en los dos últimos años, el Congreso del Estado nombrará un Concejo Municipal sustituto que termine el periodo.
+Si la falta absoluta del Ayuntamiento, acontece en los dos últimos años, el Congreso del Estado nombrará un Concejo Municipal sustituto que termine el período.
 
 Si el Congreso del Estado no estuviere en periodo ordinario, la Diputación Permanente lo convocará a sesión extraordinaria para los efectos anteriores.
 
@@ -717,13 +719,21 @@ aa).- Instrumentar y articular, en concordancia con la política nacional y esta
 
 bb).- Incorporar la perspectiva de género en los planes, programas y acciones municipales;
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
 
-cc).- Vigilar y promover el cumplimiento de las obligaciones de Transparencia y Acceso a la Información Pública, conforme a la Ley en la materia; y
+bb Bis).- Determinar las acciones necesarias para formarse y capacitarse en materia de igualdad de género, permitiendo desempeñar sus funciones bajo un enfoque de perspectiva de género.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
 
-dd) Implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establece la ley en la materia.
+cc).- Vigilar y promover el cumplimiento de las obligaciones de Transparencia y Acceso a la Información Pública, conforme a la Ley en la materia;
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+dd).- Implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establece la ley en la materia; y
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+ee).- Proteger de forma integral los Derechos de las Niñas, Niños y Adolescentes.
 
 II.- Asimismo, podrán:
 
@@ -867,9 +877,13 @@ XXVI.- Pesca y Acuacultura;
 
 XXVII.- Desarrollo Rural y atención a pueblos y comunidades Indígenas; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-XXVIII.- Erradicación de la violencia contra las mujeres e igualdad de género.
+XXVIII. Erradicación de la violencia contra las mujeres e igualdad de género; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XXIX. Protección Integral de los Derechos de las Niñas, Niños y Adolescentes.
 
 La concurrencia comprende la elaboración, ejecución y operación de programas, obras, servicios y acciones, de acuerdo con sus capacidades técnicas, administrativas y financieras, conforme a los Convenios de Coordinación que, para tal efecto, se celebren y en los términos que disponga la legislación correspondiente.
 
@@ -2011,11 +2025,17 @@ XVII.- Regulación y vigilancia de toda clase de espectáculos;
 
 XVIII.- Instalaciones propiedad del Municipio destinadas a la actividad deportiva;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
 
-XIX.- Fomento a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres; y
+XIX. Fomento a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres;
 
-XX.- Los demás que los Reglamentos Municipales determinen, según sus condiciones territoriales y socioeconómicas; así como sus capacidades técnicas administrativas y financieras.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XX. Protección Integral de los Derechos de las Niñas, Niños y Adolescentes; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2018)</small>
+
+XXI. Los demás que los Reglamentos Municipales determinen, según sus condiciones territoriales y socioeconómicas; así como sus capacidades técnicas administrativas y financieras.
 
 Estos servicios podrán prestarse con el concurso del Gobierno del Estado, mediante convenio cuando, previa autorización del Ayuntamiento, lo soliciten las autoridades Municipales en términos de Ley.
 
@@ -2523,6 +2543,8 @@ VII. Las demás que le otorguen las Leyes, su Reglamento y demás ordenamientos 
 
 ARTÍCULO 145 NOVENUS.- Las dependencias y organismos de la administración pública municipal, dentro del ámbito de su competencia, participarán con la Instancia Municipal para el Desarrollo de las Mujeres en el diseño, planeación, ejecución y evaluación de los programas, proyectos o acciones, derivadas del ejercicio de las atribuciones legalmente conferidas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE ABRIL DE 2018)</small>
+
 ###### ARTÍCULO 139.
 
 En los Municipios que conforman al Estado, funcionará un Comité de Planeación para el Desarrollo Municipal (COPLADEM) que estará sujeto a lo dispuesto por la Constitución Política del Estado, la Ley Estatal de Planeación y la normatividad Municipal respectiva.
@@ -2611,6 +2633,46 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
+### CAPÍTULO DÉCIMO QUATER. DEL SISTEMA MUNICIPAL DE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 145 DÉCIMUS.- En cada municipio, deberá existir un Sistema Municipal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, presidido por la o el Presidente Municipal y estará integrado por las instancias y organismos municipales vinculados con la protección de los derechos de niñas, niños y adolescentes, contará con una Secretaría Ejecutiva y garantizará la participación de los sectores social y privado, así como de niñas, niños y adolescentes y tendrá por objeto:
+
+I.- La Protección Integral de los Derechos de las Niñas, Niños y Adolescentes; y
+
+II.- Contar con un programa de atención y con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias estatales y federales competentes, a quienes corresponderá coordinar a los servidores públicos municipales, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos, a efecto de que se dé vista a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, de forma inmediata y contará con las atribuciones previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
+
+La persona titular de la Secretaría Ejecutiva del Sistema Municipal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes, deberá contar con experiencia profesional probada en la defensa o promoción de los derechos de las niñas, niños y adolescentes, con diversos grupos de población, conocimientos en materia de Derechos Humanos y en particular de la infancia en áreas correspondientes a su función.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+
+ARTÍCULO 145 UNDÉCIMUS.- El Sistema Municipal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes tendrá las siguientes atribuciones:
+
+I.- Elaborar su Programa Municipal y participar en el diseño del Programa Local;
+
+II.- Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
+
+III.- Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio;
+
+IV.- Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
+
+V.- Recibir quejas y denuncias por violaciones a los derechos contenidos en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, sin perjuicio que ésta pueda recibirla directamente;
+
+VI.- Coadyuvar con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo en relación con las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+
+VII.- Promover con la aprobación del Ayuntamiento, la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
+
+VIII.- Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la Federación y del Estado;
+
+IX.- Coordinarse con las autoridades de los órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo;
+
+X.- Coadyuvar en la integración del sistema de información a nivel estatal de niñas, niños y adolescentes;
+
+XI.- Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; y
+
+XII.- Las demás que establezca el ordenamiento jurídico estatal y aquellas que deriven de los acuerdos que, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo, se asuman en el Sistema Nacional DIF y los Sistemas DIF de Hidalgo.
+
 ### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
 
 ### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
@@ -2623,11 +2685,9 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 ### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
-### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
-
 ## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
 
 ###### ARTÍCULO 146.
 
@@ -2657,7 +2717,7 @@ Seguido el trámite que señala el artículo precedente, el Ayuntamiento, con la
 
 En caso de que se apruebe la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente otorgarlo en concesión en términos de esta Ley.
 
-### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 152.
 
@@ -2763,7 +2823,7 @@ IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestac
 
 ## TÍTULO OCTAVO. DE LA JUSTICIA COTIDIANA
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
+### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
 
 ###### ARTÍCULO 160.
 
@@ -2840,6 +2900,8 @@ IV.- Ordenar la detención que sea competencia de otras autoridades; y
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 V.- No podrán aplicar procedimientos de conciliación en casos de violencia familiar o sexual, en estos casos tienen la obligación de canalizar a las victimas ante las instancias o dependencias correspondientes.
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 164.
 
@@ -3282,3 +3344,15 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 412.- POR EL QUE SE REFORMA EL INCISO V DEL ARTÍCULO 60 Y LAS FRACCIONES X, XI, XIV DEL ARTÍCULO 106 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 427 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES Y LA LEY ORGÁNICA MUNICIPAL, AMBAS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 23 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 428.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
