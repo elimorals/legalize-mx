@@ -4,7 +4,7 @@ identifier: "LSSS"
 country: "mx"
 rank: "ley"
 publication_date: "1976-05-27"
-last_updated: "1976-05-27"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=854&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSSS"
 
 LEY DE SOCIEDADES DE SOLIDARIDAD SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de mayo de 1976.
 
@@ -54,7 +54,9 @@ I.- La creación de fuentes de trabajo.
 
 II.- La práctica de medidas que tiendan a la conservación y mejoramiento de la ecología.
 
-III.- La explotación racional de los recursos naturales.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+III.- La explotación sustentable de los recursos naturales.
 
 IV.- La producción, industrialización y comercialización de bienes y servicios que sean necesarios.
 
@@ -64,9 +66,11 @@ V.- La educación de los socios y de sus familiares en la práctica de la solida
 
 La denominación de la sociedad se formará libremente, pero será distinta de la de cualquier otra sociedad; al emplearse irá siempre seguida de las palabras "Sociedad de Solidaridad Social" o sus abreviaturas "S. de S. S."
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 4o.
 
-Para la constitución de la sociedad se requiere un mínimo de quince socios.
+Para la constitución de la sociedad se requiere un mínimo de cinco socios.
 
 ###### ARTICULO 5o.
 
@@ -100,9 +104,11 @@ X.- Liquidación de la sociedad cuando sea revocada la autorización de funciona
 
 XI.- Las demás estipulaciones que se consideren necesarias para la realización de los objetivos sociales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 7o.
 
-Para el funcionamiento de la sociedad se requerirá autorización previa del Ejecutivo Federal, a través de la Secretaría de la Reforma Agraria, cuando se trate de las industrias rurales y de la Secretaría de Trabajo y Previsión Social en los demás casos.
+Para el funcionamiento de la sociedad se requerirá autorización previa del Ejecutivo Federal, a través de la Secretaría de Desarrollo Agrario, Territorial y Urbano, cuando se trate de las industrias rurales y de la Secretaría del Trabajo y Previsión Social en los demás casos.
 
 Dicha autorización sólo procederá si las bases constitutivas no contravienen lo dispuesto en la presente ley.
 
@@ -246,7 +252,9 @@ Las convocatorias a las asambleas generales, deberán expedirse por el Comité E
 
 Las convocatorias se expedirán en el término previsto en las bases constitutivas y cuando el comité ejecutivo lo considere conveniente. También deberán expedirse cuando el veinticinco por ciento de los socios lo requiera a dicho comité.
 
-La Secretaría de la Reforma Agraria o la Secretaría del Trabajo y Previsión Social, en su caso, podrá convocar a asamblea general cuando lo considere necesario para regular el funcionamiento de la sociedad o cuando no hubiesen expedido la convocatoria el comité ejecutivo o el financiero y de vigilancia, en los casos previstos en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+La Secretaría de Desarrollo Agrario, Territorial y Urbano o la Secretaría del Trabajo y Previsión Social, en su caso, podrá convocar a asamblea general cuando lo considere necesario para regular el funcionamiento de la sociedad o cuando no hubiesen expedido la convocatoria el comité ejecutivo o el financiero y de vigilancia, en los casos previstos en el párrafo anterior.
 
 ###### ARTICULO 21.
 
@@ -334,7 +342,9 @@ La Comisión de Educación se compondrá de tres miembros, que serán designados
 
 La Comisión de Educación, tendrá los siguientes objetivos:
 
-I.- Procurar la educación para la totalidad de los socios, tomando como base los principios que consagra el Artículo 3o. de la Constitución General de la República y la Ley Nacional de Educación para Adultos.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+I.- Procurar la educación para la totalidad de los socios, tomando como base los principios que consagra el Artículo 3o. de la Constitución General de la República y la Ley General de Educación.
 
 II.- La formación de los socios con sentido de la solidaridad social, de la conducta responsable y con espíritu de disciplina e iniciativa.
 
@@ -386,9 +396,11 @@ En caso de pérdidas y previo acuerdo de la asamblea general o de representantes
 
 ### CAPITULO VII. De las Autoridades Competentes
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 34.
 
-La Secretaría de la Reforma Agraria y la Secretaría de Trabajo y Previsión Social, tendrán, además de las facultades que deriven de otros artículos de la presente ley, las siguientes:
+La Secretaría de Desarrollo Agrario, Territorial y Urbano y la Secretaría del Trabajo y Previsión Social, tendrán, además de las facultades que deriven de otros artículos de la presente ley, las siguientes:
 
 I.- Obtener del comité ejecutivo o del financiero y de vigilancia toda clase de informes y datos relativos al funcionamiento de la sociedad o de sus actividades;
 
@@ -416,11 +428,21 @@ En cada declaratoria de exención, que será en todo caso intransferible, se fij
 
 Cuando las sociedades de Solidaridad Social sean autosuficientes, deberán incorporarse al régimen del Seguro Social Obligatorio.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 36.
 
-El Ejecutivo Federal, a través de sus dependencias y mediante disposiciones de carácter concreto para cada sociedad, podrá otorgar, discrecionalmente, los estímulos, franquicias o subsidios necesarios para su eficaz funcionamiento, los cuales podrán ser revocados o cancelados cuando las causas que los motivaron desaparezcan, a juicio fundado de los otorgantes.
+El Ejecutivo Federal, a través de sus dependencias y mediante disposiciones de carácter concreto para cada sociedad, podrá otorgar, discrecionalmente, los estímulos, franquicias o subsidios necesarios para su eficaz funcionamiento, dichos apoyos, podrán ser revocados o cancelados cuando las causas que los motivaron desaparezcan, a juicio fundado de los otorgantes.
 
 Las autoridades federales y los organismos creados por la Federación para la promoción y fomento de la industrialización, transformación y comercialización, deberán asesorar gratuitamente a las sociedades de solidaridad social, cuando sean requeridos para ello.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+En caso, de recibir estímulos, franquicias o subsidios las sociedades deben sujetarse a las disposiciones jurídicas y administrativas aplicables en la materia, así como informar sobre su uso y resultados derivados de los mismos a la Secretaría de Desarrollo Agrario, Territorial y Urbano, la cual llevará para estos fines un registro de las sociedades constituidas y de aquellas que reciban estímulos, franquicias o subsidios públicos para el fomento de sus actividades, garantizando así la transparencia y rendición de cuentas sobre acciones y recursos públicos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+Para dichos fines la Secretaría de Desarrollo Agrario, Territorial y Urbano se allegará del Registro Agrario Nacional.
 
 ###### ARTICULO 37.
 
@@ -444,7 +466,9 @@ II.- Formular un inventario de los activos y pasivos de la sociedad;
 
 III.- Cobrar lo que se deba a la sociedad y pagar lo que ésta adeude;
 
-IV.- Formular el balance final de liquidación, que deberá someterse a la aprobación de la Secretaría de la Reforma Agraria o de la Secretaría de Trabajo y Previsión Social en sus respectivos casos.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+IV.- Formular el balance final de liquidación, que deberá someterse a la aprobación de la Secretaría de Desarrollo Agrario, Territorial y Urbano o de la Secretaría del Trabajo y Previsión Social en sus respectivos casos;
 
 V.- Inscribir de inmediato en el registro nacional de la Secretaría que corresponda que la sociedad de solidaridad social entra en período de liquidación;
 
@@ -481,3 +505,11 @@ UNICO.- La presente Ley entrará en vigor el día siguiente de su publicación e
 México, D. F., 26 de mayo de 1976.- Manuel Ramos Gurrión, D.P.- Enrique González Pedrero, S.P.- Rogelio García González, D.S.- José Castillo Hernández, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiséis días del mes de mayo de mil novecientos setenta y seis.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Carlos Gálvez Betancourt.- Rúbrica.- El Secretario de la Reforma Agraria, Félix Barra García.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Mario Ramón Beteta.- Rúbrica.- El Secretario de Industria y Comercio, José Campillo Sáinz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SOCIEDADES DE SOLIDARIDAD SOCIAL".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
