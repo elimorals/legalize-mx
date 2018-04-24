@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2018-03-09"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -1972,7 +1972,9 @@ X. Promover e impulsar la investigación, conservación y promoción de la histo
 
 XI. Fomentar las relaciones de orden cultural con otros países; facilitar la celebración de convenios de intercambio de educandos en las especialidades de las artes y la cultura universal; y definir la proyección de la cultura mexicana en el ámbito internacional, tanto bilateral como multilateral, con la colaboración de la Secretaría de Relaciones Exteriores;
 
-XII. Promover la producción cinematográfica, de radio y televisión y en la industria editorial temas de interés cultural y artístico y de aquéllas tendientes al mejoramiento cultural y la propiedad del idioma nacional, así como diseñar, promover y proponer directrices culturales y artísticos en dichas producciones;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+XII. Promover la producción cinematográfica, de radio y televisión y en la industria editorial temas de interés cultural y artístico y de aquéllas tendientes al mejoramiento cultural y la propiedad de las lenguas nacionales, así como diseñar, promover y proponer directrices culturales y artísticos en dichas producciones;
 
 XIII. Dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, que transmitan programación con contenido preponderantemente cultural, con exclusión de las que dependan de otras dependencias;
 
@@ -3136,7 +3138,7 @@ Segundo. El Ejecutivo Federal deberá promover la expedición de las disposicion
 
 D.O.F. 9 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -3145,3 +3147,9 @@ Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de l
 Tercero. La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 Cuarto. Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+D.O.F. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 41 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
