@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2018-01-19"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -316,13 +316,15 @@ XXXVIII. Realizar la inspección y vigilancia del cumplimiento de esta Ley, sus 
 
 XXXIX. Determinar las infracciones e imponer las sanciones administrativas que correspondan por incumplimiento o violación a los ordenamientos mencionados en la presente Ley;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2018)</small>
 
-XL. Promover, regular, dirigir e implementar la ejecución de acciones de mitigación y adaptación al cambio climático en materia de pesca y acuacultura sustentables, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, y
+XL. Promover, regular, dirigir e implementar la ejecución de acciones de mitigación y adaptación al cambio climático en materia de pesca y acuacultura sustentables, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2014)</small>
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2018)</small>
 
-XLI. Las demás que expresamente le atribuya esta ley, sus disposiciones reglamentarias, las normas oficiales, así como las demás disposiciones aplicables.
+XLI. Otorgar el Premio a la Pesca y Acuacultura Sustentables, y
+
+XLII. Las demás que expresamente le atribuya esta ley, sus disposiciones reglamentarias, las normas oficiales, así como las demás disposiciones aplicables.
 
 ###### ARTÍCULO 9o.
 
@@ -2106,6 +2108,28 @@ El recurso de revisión se interpondrá directamente ante la unidad administrati
 
 Por lo que se refiere a los demás trámites relativos a la tramitación, sustanciación y resolución del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+## TÍTULO DÉCIMO QUINTO. DEL PREMIO A LA PESCA Y ACUACULTURA SUSTENTABLES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 151.
+
+Se instituye el Premio a la Pesca y Acuacultura Sustentables, con objeto de reconocer y premiar anualmente a personas físicas y morales que se dediquen a estas actividades conforme a lo establecido en la presente Ley, y cuyo esfuerzo destaque en la realización de acciones trascendentes, de innovación, impacto, mejora o buenas prácticas desarrolladas en la pesca o acuacultura sustentables, incluyendo el ordenamiento, conservación, protección, aprovechamiento y restauración de la diversidad de los ecosistemas acuáticos pesqueros y acuícolas, así como la generación e intercambio de conocimiento y comercialización de productos sustentables.
+
+La Secretaría, por conducto de la Comisión Nacional de Acuacultura y Pesca, organizará el premio, en coordinación y colaboración con el Instituto Nacional de Pesca y Acuacultura, con las comisiones en esta materia de ambas Cámaras del H. Congreso de la Unión, así como con las demás instancias públicas y privadas que estime pertinente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+###### ARTÍCULO 152.
+
+El procedimiento para la selección de los acreedores al premio, así como las demás prevenciones que sean necesarias, se establecerá por acuerdo que emita la Secretaría.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -2225,3 +2249,11 @@ D.O.F. 19 DE ENERO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
+
+D.O.F. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría y a las dependencias y entidades que, en su caso, resulten competentes, para el presente ejercicio fiscal y los subsecuentes.
