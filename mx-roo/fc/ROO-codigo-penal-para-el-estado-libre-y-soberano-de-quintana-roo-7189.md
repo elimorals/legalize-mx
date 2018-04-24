@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2018-03-28"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1730,6 +1730,18 @@ Al que por cualquier medio amenace dos o más veces a otro con causarle un daño
 Se debe entender como persona ligada por algún vínculo con el ofendido, a los que tengan algún tipo de parentesco con este último, de acuerdo a lo establecido en los Artículos 826 al 836 del Código Civil para el Estado Libre y Soberano de Quintana Roo.
 
 Este delito se perseguirá previa querella.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2018)</small>
+
+###### ARTICULO 123 Bis.
+
+Se sancionará de uno a cuatro años de prisión y multa de veinte a doscientos días multa a quien lleve a cabo la actividad de cobranza extrajudicial ilegal.
+
+Si utiliza además documentos o sellos falsos, la pena y la sanción económica aumentarán una mitad.
+
+Si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos dispuestos en este Código.
+
+Se entiende por cobranza extrajudicial ilegal el uso de la violencia o la intimidación ilícitos, ya sea personalmente o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en leyes estatales, incluyendo créditos o financiamientos que hayan sido otorgados originalmente por personas dedicadas habitual y profesionalmente a esta actividad, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza. No se considerará como intimidación ilícita informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a éstos cuando éstas sean jurídicamente posibles.
 
 ### CAPITULO VI. DISCRIMINACION
 
@@ -4430,3 +4442,11 @@ P.O. 28 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 150 POR EL QUE SE REFORMA EL ARTÍCULO 133 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 158 POR EL QUE SE ADICIONA EL ARTÍCULO 123 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
