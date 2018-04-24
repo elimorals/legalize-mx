@@ -4,7 +4,7 @@ identifier: "LFFAOSC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2004-02-09"
-last_updated: "2012-04-25"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFFAOSC"
 
 LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 9 de febrero de 2004.
 
@@ -102,7 +102,9 @@ Las organizaciones de la sociedad civil constituidas conforme a las leyes extran
 
 Para los efectos de esta ley, las actividades de las organizaciones de la sociedad civil objeto de fomento son las siguientes:
 
-I. Asistencia social, conforme a lo establecido en la Ley Sobre el Sistema Nacional de Asistencia Social y en la Ley General de Salud;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+I. Asistencia social, conforme a lo establecido en la Ley de Asistencia Social y en la Ley General de Salud;
 
 II. Apoyo a la alimentación popular;
 
@@ -294,7 +296,9 @@ VIII. Otorgamiento de los incentivos fiscales previstos en las leyes de la mater
 
 La Comisión, en coordinación con las dependencias y entidades de la administración pública federal, deberá elaborar y publicar un Informe Anual de las acciones de fomento y de los apoyos y estímulos otorgados a favor de organizaciones de la sociedad civil que se acojan a esta ley.
 
-El informe respectivo, consolidado por la Secretaría de Hacienda y Crédito Público, se incluirá como un apartado específico del Informe Anual que rinde el Ejecutivo al Congreso de la Unión y de la Cuenta Pública, con base en las leyes de Presupuesto, Contabilidad y Gasto Público, de Transparencia y Acceso a la Información, de Fiscalización Superior de la Federación y demás leyes aplicables.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+El informe respectivo, consolidado por la Secretaría de Hacienda y Crédito Público, se incluirá como un apartado específico del Informe Anual que rinde el Ejecutivo al Congreso de la Unión y el de la Cuenta Pública, con base en las leyes de Federal de Presupuesto y Responsabilidad Hacendaria, Federal de Transparencia y Acceso a la Información Pública, de Fiscalización y Rendición de Cuentas de la Federación y demás leyes aplicables.
 
 ### CAPÍTULO CUARTO. Del Registro Federal de las Organizaciones de la Sociedad Civil y del Sistema de Información
 
@@ -384,7 +388,9 @@ En el Registro se concentrará toda la información que forme parte o se derive 
 
 Todas las dependencias y entidades, así como las organizaciones inscritas, tendrán acceso a la información existente en el Registro, con el fin de estar enteradas del estado que guardan los procedimientos del mismo.
 
-Aquellas personas que deseen allegarse de información establecida en el Registro, deberán seguir el procedimiento a que se refiere el Capítulo III del Título Segundo de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+Aquellas personas que deseen allegarse de información establecida en el Registro, deberán seguir el procedimiento a que se refiere el Capítulo I del Título Quinto de la Ley Federal de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 25.
 
@@ -478,7 +484,9 @@ Cuando una organización de la sociedad civil con registro vigente cometa alguna
 
 I. Apercibimiento: en el caso de que la organización haya incurrido por primera vez en alguna de las conductas que constituyen infracciones conforme a lo dispuesto por el artículo anterior, se le apercibirá para que, en un plazo no mayor a treinta días hábiles, contados a partir de la notificación respectiva, subsane la irregularidad;
 
-II. Multa: en caso de no cumplir con el apercibimiento en el término a que se refiere la fracción anterior o en los casos de incumplimiento de los supuestos a que se refieren las infracciones VII, VIII, IX, X, XI, XII y XIII del artículo 30 de esta ley; se multará hasta por el equivalente a trescientos días de salario mínimo general vigente en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+II. Multa: en caso de no cumplir con el apercibimiento en el término a que se refiere la fracción anterior o en los casos de incumplimiento de los supuestos a que se refieren las infracciones VII, VIII, IX, X, XI, XII y XIII del artículo 30 de esta ley; se multará hasta por el equivalente a trescientas unidades de medida y actualización vigente;
 
 III. Suspensión: por un año de su inscripción en el Registro, contado a partir de la notificación, en el caso de reincidencia con respecto a la violación de una obligación establecida por esta ley, que hubiere dado origen ya a una multa a la organización, y
 
@@ -529,3 +537,11 @@ D.O.F. 5 DE AGOSTO DE 2011.
 D.O.F. 25 DE ABRIL DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 14, 24 Y 31 DE LA LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal, a más tardar a los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
