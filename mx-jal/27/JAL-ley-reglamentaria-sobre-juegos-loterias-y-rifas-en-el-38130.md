@@ -4,7 +4,7 @@ identifier: "JAL-ley-reglamentaria-sobre-juegos-loterias-y-rifas-en-el-38130"
 country: "mx"
 rank: "ley"
 publication_date: "1939-11-23"
-last_updated: "1939-11-23"
+last_updated: "2018-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY REGLAMENTARIA SOBRE JUEGOS, LOTERIAS Y RIFAS EN EL ESTADO DE JALISCO
 
-LEY REGLAMENTARIA SOBRE JUEGOS, LOTERIAS Y RIFAS EN EL ESTADO DE JALISCO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNICO DEL DECRETO NÚMERO 26751/LXI/18, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY REGLAMENTARIA SOBRE JUEGOS, LOTERÍAS Y RIFAS EN EL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 23 de noviembre de 1939.
 
@@ -94,3 +96,11 @@ Dado en el Palacio del Poder Ejecutivo del Eetado (sic) a los diez días del mes
 S. B. GONZALEZ.
 
 El Secretario de Gobierno, Víctores (sic) Prieto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26751/LXI/18 QUE ABROGA LA LEY REGLAMENTARIA SOBRE JUEGOS, LOTERÍAS Y RIFAS EN EL ESTADO DE JALISCO”.]
+
+ÚNICO.- El presente decreto iniciará su vigencia un día después de su publicación en el periódico oficial "El Estado de Jalisco".
