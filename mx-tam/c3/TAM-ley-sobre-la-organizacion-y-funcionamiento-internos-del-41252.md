@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2017-06-02"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1255,9 +1255,13 @@ ARTICULO 66 QUATER.
 
 1. El Centro de Estudios de las Finanzas Públicas es el órgano técnico del Congreso del Estado al cual le corresponde:
 
-a) Analizar los aspectos relacionados con las finanzas públicas, tanto del informe anual que rinda el Ejecutivo al Congreso sobre el estado que guarda la administración pública estatal, el Plan Estatal de Desarrollo, así como de los informes que por escrito deban dar cuenta los titulares de sus dependencias con relación a sus respectivos ramos, dando cuenta al Pleno de los trabajos realizados al efecto;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
 
-b) Analizar el Informe Anual de Ejecución del Plan Municipal de Desarrollo de los Ayuntamientos del Estado, y dar cuenta al Pleno de los trabajos realizados al respecto;
+a) Analizar los aspectos relacionados con las finanzas públicas, tanto del informe anual que rinda el Ejecutivo al Congreso sobre el estado que guarda la administración pública estatal, de los aspectos relacionados con las finanzas públicas del Plan Estatal de Desarrollo, de los informes que por escrito deban dar cuenta los titulares de sus dependencias con relación a sus respectivos ramos, dando cuenta a las Comisiones competentes de los trabajos realizados al efecto, así como de las iniciativas de Ley de Ingresos del Estado, de reformas legales relativas a las fuentes de ingresos para el siguiente ejercicio fiscal, Presupuesto de Egresos del Estado y de Leyes de Ingresos de los Municipios;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
+
+b) Analizar los aspectos relacionados con las finanzas públicas del Informe Anual de Ejecución del Plan Municipal de Desarrollo de los Ayuntamientos del Estado, y dar cuenta a las comisiones competentes de los trabajos realizados al respecto;
 
 c) Elaborar análisis, proyecciones y cálculos que le sean requeridos por la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública sobre el tema de finanzas públicas;
 
@@ -1273,17 +1277,25 @@ h) Realizar estudios sobre los temas directamente relacionados con las finanzas 
 
 2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, el Centro contará con la estructura administrativa que se prevea en el Reglamento, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal del instituto deberá contar con un perfil profesional relacionado con los ámbitos académicos y de la investigación.
 
-3. El Coordinador del Centro será nombrado, a propuesta de la Junta de Coordinación Política, y sólo podrá ser removido por el Pleno.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
 
-4. Para ser nombrado Coordinador del Centro de Estudios sobre las Finanzas Públicas se requiere:
+3. La persona titular de la Coordinación del Centro será nombrada, a propuesta de la Junta de Coordinación Política, y sólo podrá ser removida por el Pleno.
 
-a) Ser mexicano;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
+
+4. Para ser titular de la Coordinación del Centro de Estudios sobre las Finanzas Públicas se requiere:
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
+
+a) Ser de nacionalidad mexicana;
 
 b) Estar en pleno goce de sus derechos civiles;
 
 c) No haber sido condenado por delito internacional que ameritara pena privativa de la libertad;
 
-d) Contar con título profesional preferentemente de Licenciado en Economía, en Administración Pública o su equivalente legalmente;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
+
+d) Contar con título profesional preferentemente de Licenciado en Economía, en Administración Pública o su equivalente legalmente expedido;
 
 e) Acreditar haber cursado Maestría en alguna de las materias relacionadas preferentemente con la economía o la investigación; y
 
@@ -3206,3 +3218,11 @@ La Convocatoria para designar a los titulares de los órganos internos de contro
 ###### ARTÍCULO TERCERO.
 
 Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
+
+P.O. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-399 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 66 QUATER, PÁRRAFOS 1, INCISOS A) Y B); 3; Y 4, INCISOS A) Y D), DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTOS INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
