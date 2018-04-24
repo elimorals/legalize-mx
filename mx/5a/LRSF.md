@@ -4,7 +4,7 @@ identifier: "LRSF"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2017-11-30"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRSF"
 
 LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -678,11 +678,17 @@ En el caso de las terminales de carga y de los servicios de transbordo y transva
 
 Los concesionarios y permisionarios fijarán libremente las tarifas, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, eficiencia, competitividad, seguridad y permanencia.
 
-Los concesionarios registrarán previamente ante la Agencia, para su puesta en vigor, las tarifas máximas aplicables a la prestación del servicio público de transporte ferroviario y a la prestación de los servicios diversos, atendiendo a las características específicas de cada servicio, debiendo publicarlas en medios electrónicos. Se exceptúan de lo anterior, aquellas tarifas que sean pactadas mutuamente entre concesionarios y usuarios, las cuales deberán estar disponibles en todo momento a petición de la Agencia.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
 
-Para el caso de los servicios diversos, además de las tarifas aplicables a los mismos y cualquier otro cargo, los concesionarios deberán registrar ante la Agencia el catálogo de dichos servicios y cargos, y sus reglas de aplicación, pudiendo la Agencia, en cualquier momento, solicitar información adicional respecto de la determinación de dichas tarifas.
+Los concesionarios y permisionarios registrarán previamente ante la Agencia, para su puesta en vigor, las tarifas máximas aplicables a la prestación del servicio público de transporte ferroviario, servicios auxiliares y a la prestación de los servicios diversos, atendiendo a las características específicas de cada servicio, debiendo publicarlas en medios electrónicos. Se exceptúan de lo anterior, aquellas tarifas que sean pactadas mutuamente entre concesionarios y usuarios, las cuales deberán estar disponibles en todo momento a petición de la Agencia.
 
-Cualquier modificación a las tarifas máximas de servicios diversos y cargos deberá ser registrada ante la Agencia antes de su aplicación, debiendo el concesionario acompañar la justificación correspondiente. La Agencia podrá emitir recomendaciones respecto de los incrementos propuestos. Asimismo, la Agencia podrá, en cualquier momento, en caso de estimarlo conveniente, solicitar la opinión de la Comisión Federal de Competencia Económica para que proceda en términos de sus facultades.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+Para el caso de los servicios diversos, además de las tarifas aplicables a los mismos y cualquier otro cargo, los concesionarios y permisionarios deberán registrar ante la Agencia el catálogo de dichos servicios y cargos, y sus reglas de aplicación, pudiendo la Agencia, en cualquier momento, solicitar información adicional respecto de la determinación de dichas tarifas.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+
+Cualquier modificación a las tarifas máximas de servicios diversos y cargos deberá ser registrada ante la Agencia antes de su aplicación, debiendo el concesionario o permisionario acompañar la justificación correspondiente. La Agencia podrá emitir recomendaciones respecto de los incrementos propuestos. Asimismo, la Agencia podrá, en cualquier momento, en caso de estimarlo conveniente, solicitar la opinión de la Comisión Federal de Competencia Económica para que proceda en términos de sus facultades.
 
 > <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -913,3 +919,9 @@ D.O.F. 30 DE NOVIEMBRE DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 46 DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
