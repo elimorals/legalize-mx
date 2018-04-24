@@ -4,7 +4,7 @@ identifier: "LASOC"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-02"
-last_updated: "2014-12-19"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LASOC"
 
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -60,9 +60,11 @@ La asistencia social comprende acciones de promoción, previsión, prevención, 
 
 ### Capítulo II. Sujetos de la Asistencia Social
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2018)</small>
+
 ###### Artículo 4.
 
-Tienen derecho a la asistencia social los individuos y familias que por sus condiciones físicas, mentales, jurídicas, o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar.
+Tienen derecho a la asistencia social los individuos y familias que por sus condiciones físicas, mentales, jurídicas, económicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar.
 
 Con base en lo anterior, son sujetos de la asistencia social, preferentemente:
 
@@ -797,3 +799,11 @@ D.O.F. 23 DE ABRIL DE 2013.
 D.O.F. 19 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4 DE LA LEY DE ASISTENCIA SOCIAL”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
