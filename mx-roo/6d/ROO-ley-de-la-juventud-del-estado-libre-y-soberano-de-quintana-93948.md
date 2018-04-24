@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2017-09-25"
+last_updated: "2018-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -1059,13 +1059,19 @@ Las propuestas emanadas del Congreso Juvenil, deberán ser turnadas a la Legisla
 
 La conformación de la Mesa Directiva del Congreso Juvenil y el desarrollo de la Sesión correspondiente, se hará en lo conducente en términos de lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo y el Reglamento para el Gobierno Interior de la Legislatura del Estado.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
+
 ###### Artículo 68.
 
-Cada uno de los participantes del Congreso Juvenil, obtendrán un reconocimiento por parte de la Legislatura, y la distinción de haber formado parte en la vida política de su Estado.
+Cada uno de los participantes del Congreso Juvenil, obtendrá un reconocimiento de la Legislatura del Estado, por la distinción de haber formado parte de la vida política de su Estado. Adicionalmente, recibirán del Poder Legislativo del Estado, un apoyo económico mensual, el cual será calculado considerando el valor diario de la Unidad de Medida y Actualización (UMA), que contribuya a su educación, así como al desarrollo armónico de sus aptitudes y potencialidades, durante un año calendario que comprenderá los meses de enero a diciembre del año posterior a la celebración del Congreso Juvenil en que participen.
+
+El apoyo económico a que refiere el párrafo anterior, será de 12.41 UMA.
+
+Los participantes deberán acreditar que (sic) encuentran cursando sus estudios, mediante constancia de estudios expedida por la autoridad educativa correspondiente y con la boleta de calificaciones respectiva.
 
 ###### Artículo 69.
 
-En los años en los que se lleven a cabo elecciones en el Estado, no se celebrará el Congreso Juvenil.
+(DEROGADO, P.O. 24 DE ABRIL DE 2018)
 
 ###### Artículo 70.
 
@@ -1174,3 +1180,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Por única ocasión el Segundo Parlamento Juvenil a celebrarse en el año dos mil diecisiete se llevará a cabo en el mes que determine la Comisión de Desarrollo Juvenil con Igualdad de Oportunidades, previa modificación de la Convocatoria ya expedida.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 161 POR EL QUE SE REFORMA EL ARTÍCULO 68 Y SE DEROGA EL ARTÍCULO 69, AMBOS DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Por esta única ocasión, se otorgará de manera retroactiva el apoyo a que hace referencia el presente Decreto, a los Congresistas Juveniles participantes del Segundo Congreso Juvenil del Estado de Quintana Roo edición 2017, por lo que el recurso correspondiente a los meses de enero a marzo del 2018, les será entregado de manera conjunta con el apoyo correspondiente al mes de abril del 2018.
+
+TERCERO. De conformidad con el presente decreto, la SEFIPLAN y el IEQROO deberán de hacer los ajustes conducentes a efecto de que el último de los citados cuente con la suficiencia presupuestal para la realización de Congreso Juvenil del año en curso, en cuanto a sus atribuciones.
+
+CUARTO. Se derogan todas las (sic) aquellas disposiciones jurídicas que contravengan al presente decreto.
