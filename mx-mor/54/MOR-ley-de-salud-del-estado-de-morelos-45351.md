@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2018-01-10"
+last_updated: "2018-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -63,9 +63,9 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud;
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
 
-VIII.- Preservar la vida y la protección de la salud humana. Para estos efectos, se entenderá que la vida del ser humano comienza cuando existe un genoma humano diploide en el ovocito y termina con la muerte cerebral o signos de la muerte de conformidad con el artículo 343 de la Ley General de Salud.
+VIII.- Preservar la vida y la protección de la salud humana. Para estos efectos, se entenderá que la vida del ser humano comienza cuando existe un genoma humano diploide en el ovocito y termina con la muerte encefálica o signos de la muerte de conformidad con el artículo 343 de la Ley General de Salud.
 
 ###### Artículo 3.
 
@@ -1777,13 +1777,15 @@ V.- Rabia, peste, brucelosis y otras zoonosis.
 
 En estos casos se coordinará con la Secretaría de Salud y con otras dependencias competentes en esta materia;
 
-VI.- Fiebre amarilla, dengue, y otras enfermedades vírales transmitidas por artrópodos.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
+
+VI.- Fiebre amarilla, dengue, zika y chikungunya y otras enfermedades víralestransmitidas (sic) por artrópodos.
 
 VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo y otras rickettsiosis, leishmaniasis, tripanosomiasis, oncocercosis;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
 
-VIII.- Sífilis, infecciones gonoccócicas y otras infecciones de transmisión sexual;
+VIII. Sífilis, infecciones gonocóccicas (sic), virus del papiloma humano y otrasinfecciones (sic) de transmisión sexual;
 
 IX.- Lepra y mal del pinto;
 
@@ -1851,29 +1853,47 @@ VII.- La inspección de pasajeros que puedan ser portadores de gérmenes así co
 
 VIII.- Las demás que determine esta Ley, su reglamento y la Secretaría de Salud del Gobierno Federal.
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] P.O. 25 DE ABRIL DE 2018)</small>
 
 ###### Artículo 132 Bis.
 
-Las autoridades sanitarias, en sus respectivos ámbitos de competencia, implementarán una estrategia integral de prevención y control del dengue que incluya:
+Las autoridades sanitarias, en sus respectivos ámbitos de competencia, implementarán una estrategia integral de prevención y control del dengue, zika y chikungunya que incluya:
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
 
 I. Desarrollar una campaña sistemática y permanente para la eliminación de criaderos del vector;
 
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+
 II. Disponer de personal idóneo para la integración del equipo de trabajo de la campaña a que se refiere la fracción inmediata anterior, de acuerdo con las normas oficiales mexicanas en la materia;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
 
 III. Realizar visitas o verificaciones sanitarias;
 
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+
 IV. Efectuar la vigilancia epidemiológica, que podrá incluir el uso de un sistema informático que permita ponderar los estudios de ser o prevalencia en la población, monitoreando de manera periódica la presencia del vector, a efecto de implementar técnicas y el procedimiento de análisis de la magnitud de las patologías bajo emergencia, determinando los factores de influencia;
 
-V. Analizar la información recabada, a través del monitoreo periódico, a fin de precisar el procedimiento ante el laboratorio, que permita el manejo adecuado, eficiente y seguro de las técnicas diagnósticas de dengue, incluyendo también aspectos técnico-administrativos y demás actividades relacionadas;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
+
+V. Analizar la información recabada, a través del monitoreo periódico, a fin de precisar el procedimiento ante el laboratorio, que permita el manejo adecuado, eficiente y seguro de las técnicas diagnósticas de dengue, zika y chikungunya incluyendo también aspectos técnico-administrativos y demás actividades relacionadas;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
 
 VI. Fomentar la promoción de la salud;
 
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2015)</small>
+
 VII. Incentivar la participación ciudadana con base en la corresponsabilidad;
 
-VIII. Evaluar los casos aislados para el reconocimiento temprano del dengue, manejo de casos graves de dengue complicado y capacidad de transmitir ese conocimiento a todo el personal del equipo de salud, y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
 
-IX. Coordinar acciones con la Secretaría de Educación, a efecto de llevar a cabo actividades didácticas de participación para la comunidad educativa, relacionadas con la prevención y abordaje de la patología en establecimientos escolares y en los domicilios del alumnado, que impulsen campañas de hogares libres de dengue.
+VIII. Evaluar los casos aislados para el reconocimiento temprano del dengue, zika y chikungunya, manejo de casos graves de dengue complicado y capacidad de transmitir ese conocimiento a todo el personal del equipo de salud, y
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
+
+IX.- Coordinar acciones con la Secretaría de Educación, a efecto de llevar a cabo actividades didácticas de participación para la comunidad educativa, relacionadas con la prevención y abordaje de la patología en establecimientos escolares y en los domicilios del alumnado, que impulsen campañas de hogares libres de dengue, zika y chikungunya.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -2537,7 +2557,9 @@ III.- Los profesionales de las disciplinas para la salud que estén autorizados 
 
 IV.- Los pacientes en espera de algún órgano o tejido, integrados en listas Estatales y Nacional, y
 
-V.- Los casos de muerte cerebral en los términos que precisen las disposiciones reglamentarias, los establecimientos a que se refiere el Artículo 199 de esta Ley y los profesionales de las disciplinas para la salud que intervengan en trasplantes deberán proporcionar la información relativa a las Fracciones I, III, IV y V de este Artículo.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
+
+V.- Los casos de muerte encefálica en los términos que precisen las disposiciones reglamentarias, los establecimientos a que se refiere el Artículo 199 de esta Ley y los profesionales de las disciplinas para la salud que intervengan en trasplantes deberán proporcionar la información relativa a las Fracciones I, III, IV y V de este Artículo.
 
 ###### Artículo 209.
 
@@ -2553,43 +2575,41 @@ La disposición de sangre, componentes sanguíneos y células progenitoras hemat
 
 ### CAPÍTULO III. PÉRDIDA DE LA VIDA
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2018)</small>
+
 ###### Artículo 212.
 
-Para efectos de este Título, la pérdida de la vida ocurre cuando:
+Para efectos de este Título, la pérdida de la vida ocurre cuando se presentan la muerte encefálica o el paro cardíaco irreversible.
 
-I.- Se presente la muerte cerebral, o II.- Se presenten los siguientes signos de muerte:
+La Muerte Encefálica se define como la pérdida irreversible, por causa conocida, de las funciones de todas las estructuras neurológicas intracraneales, tanto de hemisferios cerebrales como de tronco encefálico.
 
-a. La ausencia completa y permanente de conciencia;
-
-b. La ausencia permanente de respiración espontánea;
-
-c. La ausencia de los reflejos del tallo cerebral, y
-
-d. El paro cardiaco irreversible.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2018)</small>
 
 ###### Artículo 213.
 
-La muerte cerebral se presenta cuando existen los siguientes signos:
+La muerte encefálica se determina cuando se verifican los siguientes signos:
 
-I.- Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+I. Ausencia completa y permanente de conciencia;
 
-II.- Ausencia de automatismo respiratorio, y
+II. Ausencia permanente de respiración espontánea, y
 
-III.- Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos. Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
+III. Ausencia de los reflejos del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nocioceptivos.
 
-Los signos señalados en las Fracciones anteriores deberán corroborarse por cualquiera de las siguientes pruebas:
+Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
 
-a.- Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o
+Los signos clínicos de la muerte encefálica deberán corroborarse por cualquiera de las siguientes pruebas:
 
-b.- Electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
+a) Electroencefalograma que demuestre ausencia total de actividad eléctrica, corroborado por un médico especialista, y
+
+b) Angiografía Cerebral o cualquier otro estudio de gabinete que demuestre en forma documental la ausencia permanente de flujo encefálico arterial.
 
 ###### Artículo 214.
 
 No existirá impedimento alguno para que a solicitud o autorización de las siguientes personas:
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2018)</small>
 
-El o la cónyuge, el concubino, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte cerebral comprobada se manifiesten los demás signos de muerte a que se refiere la Fracción II del Artículo 212 de esta Ley.
+El o la cónyuge, el concubino, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme al orden expresado; se prescinda de los medios artificiales que evitan que en aquel que presenta muerte encefálica comprobada se manifiesten los demás signos de muerte a que se refiere el Artículo 213 de esta Ley.
 
 ### CAPÍTULO IV. CADÁVERES
 
@@ -4209,7 +4229,7 @@ SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo, para los
 
 P.O. 5 DE MARZO DE 2014.
 
-DECRETO NÚMERO 1235, POR EL QUE SE ADICIONAN DOS FRACCIONES PARA SER LA XXIV Y LA XXV, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN QUE ERA XXIV, PARA SER XXVI, EN EL APARTADO A) DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN PARA SER LA XII Y SE RECORREN EN SU ORDEN LAS FRACCIONES QUE ERAN XII Y XIII, PARA SER XIII Y XIV, RESPECTIVAMENTE, EN EL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO XI DENOMINADO “ATENCIÓN MATERNO-INFANTIL”, AL TÍTULO TERCERO DENOMINADO “PRESTACIÓN DE LOS SERVICIOS DE SALUD”, CON SIETE ARTÍCULOS PARA SER ARTÍCULO 88 SEPTIES, ARTÍCULO 88 OCTIES, ARTÍCULO 88 NONIES, ARTÍCULO 88 DECIES, ARTÍCULO 88 UNDECIES, ARTÍCULO 88 DUODECIES, Y ARTÍCULO 88 TERDECIES; ASÍ COMO SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 68, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 1235, POR EL QUE SE ADICIONAN DOS FRACCIONES PARA SER LA XXIV Y LA XXV, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN QUE ERA XXIV, PARA SER XXVI, EN EL APARTADO A) DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN PARA SER LA XII Y SE RECORREN EN SU ORDEN LAS FRACCIONES QUE ERAN XII Y XIII, PARA SER XIII Y XIV, RESPECTIVAMENTE, EN EL ARTÍCULO 37; SE ADICIONA UN CAPÍTULO XI DENOMINADO "ATENCIÓN MATERNO-INFANTIL", AL TÍTULO TERCERO DENOMINADO "PRESTACIÓN DE LOS SERVICIOS DE SALUD", CON SIETE ARTÍCULOS PARA SER ARTÍCULO 88 SEPTIES, ARTÍCULO 88 OCTIES, ARTÍCULO 88 NONIES, ARTÍCULO 88 DECIES, ARTÍCULO 88 UNDECIES, ARTÍCULO 88 DUODECIES, Y ARTÍCULO 88 TERDECIES; ASÍ COMO SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 68, TODOS DE LA LEY DE SALUD DEL ESTADO DE MORELOS.
 
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
@@ -4554,3 +4574,11 @@ P.O. 10 DE ENERO DE 2018.
 PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 25 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL SEISCIENTOS POR EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
