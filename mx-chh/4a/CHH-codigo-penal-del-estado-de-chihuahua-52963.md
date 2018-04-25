@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-03-31"
+last_updated: "2018-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2689,7 +2689,9 @@ I. Se cometa con violencia en las personas o en las cosas, o bien, se ejerza és
 
 II. Se cometa en dependencias de un lugar habitado o destinado para habitación.
 
-III. Se cometa quebrantando la fe o seguridad existente entre el sujeto activo y su víctima, en virtud de vínculos de trabajo, hospitalidad, servicio, o enseñanza, habidos entre ellos.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
+
+III. Se cometa quebrantando la fe o seguridad existente entre el sujeto activo y su víctima, en virtud de vínculos de trabajo, hospitalidad, servicio, vecindad o enseñanza, habidos entre ellos.
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -2797,9 +2799,9 @@ II. Si excediera de una pero no de diez cabezas, se aplicará prisión de cuatro
 
 III. Cuando el número de cabezas fuera mayor de diez, se aplicará prisión de seis a quince años y multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2018)</small>
 
-Cuando en el robo concurra alguna de las hipótesis contempladas en las fracciones I, II, III, VI, X o XI del artículo 211 de este Código, la penalidad se aumentará en una cuarta parte. Si concurriera cualquiera de las hipótesis contempladas en las fracciones II o III del artículo 212, la pena a imponer se aumentará en un tercio.
+Cuando en el robo concurra alguna de las hipótesis contempladas en las fracciones I, II, III, VI, X o XI del artículo 211 de este Código, la penalidad se aumentará en una cuarta parte. Si concurriera la hipótesis contemplada en la fracción II del artículo 212 o durante la transportación del ganado, la pena a imponer se aumentará en un tercio.
 
 ###### Artículo 217.
 
@@ -2817,11 +2819,13 @@ II. Si excedieran de diez cabezas, se aplicará prisión de tres a ocho años y 
 
 Las mismas penas a que se refieren los artículos anteriores, se aplicarán a quienes realicen conductas consistentes en:
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
 
-I. Herrar, modificar o destruir los fierros, marcas o señales, o aretes oficiales, que sirvan para identificar la propiedad de semovientes, sin el consentimiento de quien deba otorgarlo.
+I. Herrar, modificar, destruir o retirar los fierros, marcas o señales, aretes oficiales o elementos electromagnéticos autorizados, registrados o reconocidos por la autoridad estatal, que sirvan para identificar la propiedad de semovientes, sin el consentimiento de quien deba otorgarlo.
 
-II. Transportar dolosamente ganado robado.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2018)</small>
+
+II. Transportar o comercializar dolosamente ganado robado.
 
 III. Expedir certificados falsos para obtener guías simulando ventas o hacer uso de dichos certificados.
 
@@ -3067,11 +3071,19 @@ La misma pena señalada en el primer párrafo de este artículo se aplicará al 
 
 A quien a sabiendas de la comisión de un delito y sin haber participado en este, adquiera o reciba el producto del mismo, se le aplicarán de seis meses a cuatro años de prisión y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, o las penas que correspondan al responsable del ilícito encubierto, si estas son más benévolas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ABRIL DE 2018)</small>
+
+Cuando lo adquirido o recibido sea ganado, se le aplicará de dos a cuatro años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2018)</small>
+
 Se aplicará la mitad de las penas arriba señaladas, a quien de acuerdo con las circunstancias en que adquiera o reciba, debió suponer la procedencia ilegítima del objeto.
 
 ###### Artículo 240.
 
-Además de las sanciones que correspondan conforme al artículo anterior, la prisión se aumentará de seis meses a tres años, cuando quien adquiera o reciba la cosa se dedique en forma permanente o habitual a la compraventa de objetos, accesorios o partes usadas.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2018)</small>
+
+Además de las sanciones que correspondan conforme al artículo anterior, la prisión se aumentará de seis meses a tres años, cuando quien adquiera o reciba el objeto o el producto del delito realice esto de forma reiterada, o de manera permanente o habitualmente se dedique a la comercialización de bienes de la misma especie.
 
 ###### Artículo 241.
 
@@ -5200,6 +5212,14 @@ En tanto se constituye el Fondo Estatal de Bienestar Animal del Estado, el ingre
 P.O. 31 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFCOD/0730/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 123, 127, 171 Y 172 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0731/2018 II P.O., POR MEDIO DE CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO".]
 
 ###### ARTÍCULO ÚNICO.
 
