@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-defensoria-publica-del-estado-de-san-luis-potosi-1025
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-17"
-last_updated: "2014-09-17"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 17 de septiembre de 2014.
 
@@ -51,11 +51,15 @@ La presente Ley es de orden público e interés social y tiene por objeto:
 
 I. Sentar las bases de la defensa pública para todas las personas en el Estado ante cualquier autoridad;
 
-II. Regular la prestación del servicio de defensa pública en el Estado para proporcionar obligatoria y gratuitamente defensa en materia penal en los términos de los artículos 20 de la Constitución Política de los Estados Unidos Mexicanos y 18 de la Constitución Política del Estado de San Luis Potosí, consistente en una defensa integral, ininterrumpida, oportuna, técnica y de calidad;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+II. Regular la prestación del servicio de defensa pública en el Estado para proporcionar obligatoria y gratuitamente defensa en materia penal, en los términos de los artículos, 20 de la Constitución Política de los Estados Unidos Mexicanos; y 18 de la Constitución Política del Estado de San Luis Potosí; así como de esta Ley, consistente en una defensa integral, gratuita, ininterrumpida, oportuna, técnica, de calidad, adecuada, y especializada;
 
 III. Establecer los servicios de asesoría jurídica en toda controversia jurisdiccional en asuntos civiles, familiares, administrativos, mercantiles y de amparo, para las personas que por su condición socioeconómica, étnica, geográfica, cultural, de edad, género, o vulnerabilidad lo requieran o lo soliciten;
 
-IV. Representar y asistir jurídicamente a los menores;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+IV. Representar y asistir jurídicamente a las y los adolescentes;
 
 V. Privilegiar la solución de conflictos mediante la aplicación de los mecanismos alternativos de solución de controversias, previstos en las leyes de la materia;
 
@@ -63,7 +67,9 @@ VI. Normar la integración, funcionamiento, competencia y administración de la 
 
 VII. Incluir el enfoque de género, interculturalidad y vulnerabilidad como ejes transversales de sus acciones, vinculándose con las dependencias de Gobierno que resulten necesarias a fin de prestar un servicio integral a sus usuarias o usuarios, y
 
-VIII. Establecer el servicio profesional de carrera para las y los servidores públicos adscritos a la Defensoría Pública del Estado;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+VIII. Establecer el servicio profesional de carrera para las y los servidores públicos adscritos a la Defensoría Pública del Estado.
 
 ###### Artículo 2º.
 
@@ -163,7 +169,9 @@ IV. Comprobar, a través de los medios que establezca el Reglamento de esta Ley,
 
 V. Procurar en su caso, la mediación, o la conciliación de intereses cuando esto sea posible, y levantar los convenios o diligencias correspondientes;
 
-VI. Prestar servicios a los menores a quienes se aplique la Ley de Justicia para Menores del Estado;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+VI. Prestar servicios a las personas a quienes se aplique la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
 VII. Proporcionar el servicio desde la primera actuación del imputado en el proceso hasta la total ejecución de la sentencia;
 
@@ -203,7 +211,9 @@ b) Dirección de Defensoría Pública Penal.
 
 c) Dirección de Defensoría Pública de Personas y Comunidades Indígenas.
 
-d) Dirección Especializada en Justicia para Menores.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+d) Dirección Especializada en el Sistema Integral de Justicia Penal para Adolescentes.
 
 e) Dirección Administrativa.
 
@@ -415,33 +425,47 @@ V. No haber sido condenada o condenado con sentencia definitiva que imponga pena
 
 VI. Tener residencia efectiva en el Estado durante los dos años anteriores al día de su nombramiento.
 
-### Capítulo IV. Dirección Especializada en Justicia para Menores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2018)</small>
+
+### Capítulo IV. Dirección Especializada en el Sistema Integral de Justicia Penal para Adolescentes
 
 ###### Artículo 25.
 
 Objeto
 
-La Dirección especializada en Justicia para Menores, tiene por objeto ofrecer una defensa técnica, patrocino y asesoría legal gratuita a las y los menores a quienes se atribuyen conductas tipificas como delito por la ley de la materia,
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+La Dirección Especializada en el Sistema Integral de Justicia Penal para Adolescentes, tiene por objeto ofrecer una defensa gratuita, ininterrumpida, oportuna, técnica, de calidad, adecuada y especializada, a las y los adolescentes a quienes se atribuyen conductas tipificadas como delito por la ley de la materia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2018)</small>
 
 ###### Artículo 26.
 
-Requisitos para ser directora o director especializado en justicia para menores
+Requisitos para ser directora o director especializado en el Sistema Integral de Justicia Penal para Adolescentes.
 
 Para ser titular de la Dirección, deberá reunir los mismos requisitos que para ser Coordinador General establece el Artículo 18 de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2018)</small>
+
 ###### Artículo 27.
 
-Atribuciones de la directora o director especializado en justicia para menores
+Atribuciones de la directora o director especializado en el Sistema Integral de Justicia Penal para Adolescentes
 
-Son atribuciones del Director Especializado de Justicia para Menores, los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2018)</small>
+
+Son atribuciones de la directora o director especializado en el Sistema Integral de Justicia Penal para Adolescentes, las siguientes:
 
 I. Supervisar el cumplimiento de las obligaciones de las y los servidores públicos adscritos a la Dirección a su cargo;
 
-II. Vigilar que se respeten los derechos y garantías de las y los menores, establecidos en la Constitución Política de los Estados Unidos Mexicanos; Tratados y Convenios Internacionales; la Constitución Política Local, las leyes y reglamentos que de ella emanen, y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+II. Vigilar que se respeten los derechos y garantías de las y los adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos; Tratados y Convenios Internacionales; la Constitución Política Local, las leyes y reglamentos que de ella emanen; la Ley Nacional del Sistema Integral de Justicia Penal para Adolecentes, y demás disposiciones legales aplicables;
 
 III. Acordar sus acciones con la Coordinación General para el mejor cumplimiento de las facultades y atribuciones de la Dirección a su cargo;
 
-IV. Vigilar que se Informe oportunamente a los padres, familiares o tutores, de la situación jurídica de la o el menor, respecto de las resoluciones emitidas por las autoridades y recomendar las acciones tendentes a lograr su inserción en la sociedad;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+IV. Vigilar que se informe oportunamente a los padres, familiares o tutores, de la situación jurídica de la o el adolescente, respecto de las resoluciones emitidas por las autoridades, y recomendar las acciones tendentes a lograr su inserción en la sociedad;
 
 V. Atender y solucionar las quejas que se presenten en contra de las o los defensores y hacerlas del conocimiento del Coordinador General para en su caso proceder en términos de ley, y
 
@@ -475,7 +499,9 @@ V. Vigilar que las y los defensores cumplan con las disposiciones que establecen
 
 Requisitos para ser directora o director de la defensoría pública indígena
 
-Para ser titular de la Dirección de Defensoría Pública Indígena, se requiere cumplir con los mismos requisitos de los titulares de las Direcciones de la Defensoría Pública Social, Penal y de Justicia para Menores, y además deberá hablar suficientemente por lo menos una de las lenguas indígenas del Estado.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+Para ser titular de la Dirección de Defensoría Pública Indígena, se requiere cumplir con los mismos requisitos de los titulares de las direcciones de la Defensoría Pública Social; Penal; y Especializado en el Sistema Integral de Justicia Penal para Adolescentes; y además deberá hablar suficientemente por lo menos una de las lenguas indígenas del Estado.
 
 ### Capítulo VI. Dirección Administrativa
 
@@ -593,7 +619,9 @@ VI. Tener residencia efectiva en el Estado durante los dos años anteriores al d
 
 Sede de subdirecciones regionales
 
-Las subdirecciones regionales tendrán su sede en los municipios señalados en el artículo 15 de esta Ley, en cada una de las zonas geográficas del Estado, con excepción de la Subdirección Especializada en Justicia para Menores, cuya sede será en la zona centro del Estado de San Luis Potosí, y dependerán directamente de la Coordinación General.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+Las subdirecciones regionales tendrán su sede en los municipios señalados en el artículo 15 de esta Ley, en cada una de las zonas geográficas del Estado, con excepción de la Subdirección Especializada en el Sistema Integral de Justicia Penal para Adolescentes, cuya sede será en la zona centro del Estado de San Luis Potosí, y dependerán directamente de la Coordinación General.
 
 ###### Artículo 41.
 
@@ -641,7 +669,9 @@ II. Atender de forma inmediata las solicitudes que le sean turnadas por la direc
 
 III. Atender con profesionalismo, calidad y actitud de servicio a las personas solicitantes de sus servicios;
 
-IV. Guardar estricta confidencialidad sobre la información personal de los usuarios a la que tengan acceso aún después de haberse separado del cargo. La violación al principio de confidencialidad dará lugar a la imposición de los procedimientos y sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+IV. Guardar estricta confidencialidad sobre la información personal de los usuarios a la que tengan acceso aún después de haberse separado del cargo. La violación al principio de confidencialidad dará lugar a la imposición de los procedimientos y sanciones que establece la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí;
 
 V. Abrir un expediente de control de cada uno de los juicios a su cargo, que se integrará con cada una de las promociones, escritos o solicitudes derivados del asunto, así como una síntesis de los acuerdos, avances o resoluciones relevantes;
 
@@ -663,7 +693,9 @@ XIII. Las y los defensores Públicos en materia penal, deberán observar los lin
 
 XIV. Las y los defensores públicos adscritos al área de personas y comunidades indígenas, además de cumplir con los requisitos antes descritos en la representación o defensa deberán observar y cumplir las obligaciones y facultades que se describen en el Reglamento Interior de la Defensoría Pública;
 
-XV. Tratándose de las y los defensores de oficio para menores, deberán acreditar los cursos de capacitación organizados por la Coordinación General de la Defensoría Pública, y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+XV. Tratándose de las y los defensores de oficio especializados en el Sistema de Justicia Penal para Adolescentes, deberán acreditar los cursos de capacitación organizados por la Coordinación General de la Defensoría Pública, y
 
 XVI. Las demás que se deriven de la naturaleza de sus funciones y los que se establezcan en el Reglamento Interior.
 
@@ -679,7 +711,9 @@ II. Haber cumplido por lo menos 25 años de edad a la fecha de su designación;
 
 III. Ser abogada o abogado; o licenciado en derecho, con titulo y cédula profesional expedida por autoridad competente, así como acreditar experiencia en el ejercicio profesional de por lo menos dos años anteriores al día de su nombramiento;
 
-IV. Las y los defensores que se encuentren asignados en materia penal y en justicia para menores, deberán contar con los conocimientos técnicos y especializados en el Sistema de Justicia Penal Adversarial y en Justicia para Menores, respectivamente;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+IV. Las y los defensores que se encuentren asignados en materia penal; y en justicia penal para adolescentes, deberán contar con los conocimientos técnicos y especializados en el Sistema Integral de Justicia Penal para Adolescentes;
 
 V. No haber sido condenada o condenado por sentencia definitiva que imponga pena privativa de libertad por delito doloso, y
 
@@ -747,7 +781,9 @@ Para ser Visitador, se requiere:
 
 I. Haber fungido como Defensor Público de la Defensoría, y
 
-II. Cumplir los mismos requisitos que para ser Director de la Defensoría Pública Penal, Social y de Justicia para Menores.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+II. Cumplir los mismos requisitos que para ser Directora o Director de la Defensoría Pública Penal; Social; y Especializado en Sistema Integral de Justicia Penal para Adolescentes.
 
 ### Capítulo XI. Peritos
 
@@ -1024,3 +1060,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 941.- SE REFORMAN LOS ARTÍCULOS 1°, 12, 14, 25, 26, 27, 30, 40, 44, 45 Y 52 DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
