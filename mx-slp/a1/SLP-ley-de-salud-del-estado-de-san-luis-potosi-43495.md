@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-03-22"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -753,9 +753,13 @@ XII. La atención médica a los adultos mayores en áreas de salud geriátrica;
 
 XIII. El desarrollo y fortalecimiento de programas en materia de prevención y control de las enfermedades de los hombres y, específicamente, de la próstata;
 
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+XIV. Coadyuvar en la detección y prevención oportuna del cáncer de mama, mediante acciones de información que orienten sobre la responsabilidad del autocuidado, a fin de disminuir la prevalencia de los factores de riesgo entre la población, y
+
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2014)</small>
 
-XIV. Las demás que establezca esta Ley o disposiciones legales aplicables.
+XV. Las demás que establezca esta Ley o disposiciones legales aplicables.
 
 ###### ARTICULO 26.
 
@@ -1021,9 +1025,9 @@ La atención materna infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención médica ginecológica de la madre durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
 
-II. La atención de la niña o niño en la vigilancia de su crecimiento y desarrollo, incluyendo la estimulación temprana y la promoción de la vacunación oportuna;
+II. La atención de la niña o niño al nacer, la vigilancia de su crecimiento y desarrollo, incluyendo para ello el tamiz oftalmológico, la estimulación temprana, y la promoción de la vacunación oportuna;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -4398,5 +4402,13 @@ P.O. 22 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 911.- SE REFORMA EL ARTÍCULO 20 TER EN SU FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 942.- SE REFORMA EL ARTÍCULO 51; Y ADICIONA FRACCIÓN AL ARTÍCULO 25 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
