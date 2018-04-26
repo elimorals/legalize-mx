@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2018-01-29"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -37,7 +37,7 @@ NUMERO 261
 
 EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN DECRETAR LA SIGUIENTE:
 
-CODlGO DE FAMILIA PARA EL ESTADO DE SONORA
+CODIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
 # LIBRO PRIMERO
 
@@ -951,7 +951,9 @@ III. Dictar las medidas necesarias para que los cónyuges no se causen perjuicio
 
 IV.- Fijar las reglas para el cuidado de los hijos. Los menores de 7 años quedarán durante el trámite, bajo el cuidado de la madre, salvo que se ponga en peligro su salud física, emocional o mental, en los términos del artículo 130 de este Código.
 
-V. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 2018)</small>
+
+V.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos, siguiendo en su caso las reglas establecidas en el artículo 521 de este Código;
 
 VI. Dictar, en su caso, las medidas precautorias que la ley establece en el supuesto de que la mujer quede encinta; y
 
@@ -1939,7 +1941,7 @@ Artículo. 282.- La persona que haya acogido al menor o incapacitado por un per�
 
 ###### Artículo 283.
 
-Si el tutor o el Ministerio Público o el Procurador de la Defensa del Menor y la Familia, se oponen a la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado, y escuchando siempre al Sistema Estatal para el Desarrollo Integral de la Familia pudiendo suplir el consentimiento cuando la oposición resulte infundada.
+Si el tutor o el Ministerio Público o el Procurador de la Defensa del Menor y la Familia, se oponen a la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado, y escuchando siempre al Sistema Estatal para el desarrollo Integral de la Familia pudiendo suplir el consentimiento cuando la oposición resulte infundada.
 
 ###### Artículo 284.
 
@@ -2747,7 +2749,7 @@ Mientras que se califica la excusa, el Juez nombrará un tutor interino.
 
 ###### Artículo 390.
 
-Si el que teniendo excusa legitima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
+Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
 
 ###### Artículo 391.
 
@@ -3527,9 +3529,27 @@ También deben alimentar a sus parientes, dentro del grado mencionado, que fuere
 
 El adoptante y el adoptado tienen el deber de darse alimentos, en los casos en que lo tienen el padre y los hijos biológicos, transmitiéndose esta obligación al adoptado y a la familia del adoptante, en los casos de adopción plena.
 
-###### Articulo 521.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
 
-El obligado a dar alimentos cumple esta obligación asignando una pensión al acreedor alimentario, o incorporándolo a su familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+###### Artículo 521.
+
+El obligado a dar alimentos cumple esta obligación asignando una pensión al acreedor alimentario, o incorporándolo a su familia. Si el acreedor no tiene asignada tal pensión, o se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos, para cuyo efecto aplicará las siguientes reglas:
+
+I.- El Juez podrá imponer una pensión provisional al deudor alimentario en la misma proporción en que venía haciendo hasta antes de incumplir la obligación, según la información y pruebas que se le proporcione respecto de la (sic) necesidades y nivel de vida que el deudor le haya proporcionado. Si dicha proporción no pudiera determinarse en concepto del Juez, éste atendiendo las demás circunstancias del caso, fijará una pensión del 15% al 60% del sueldo que se conozca del deudor, descontable en la periodicidad y forma que estime conveniente para asegurar su entrega oportuna.
+
+II.- Cuando se desconozca el sueldo del deudor alimentario, o éste no tenga un sueldo o salario fijo, el Juez podrá fijar una cantidad o importe determinado como pensión provisional, basándose en la información y pruebas que el acreedor le proporcione, o él mismo se allegue oficiosamente, sobre la situación económica del deudor, el monto y origen de sus ingresos, bienes y propiedades, así como las necesidades y nivel de vida que le haya proporcionado antes de la demanda, misma cantidad o importe que deberá pagarse en la periodicidad y forma que estime conveniente el Juzgador para asegurar su entrega oportuna.
+
+III.- Si se desconoce el sueldo, salario o ingreso del deudor alimentario, y el acreedor omite expresar claramente la situación económica de aquél, el monto y origen de sus ingresos, bienes y propiedades, así como las necesidades y nivel de vida que le haya proporcionado antes de la demanda, el Juez fijará de inmediato como pensión provisional de veinte Unidades de Medida y Actualización (UMA) mensuales si se trata de un solo acreedor alimentario, y se aumentará en quince Unidades de Medida y Actualización (UMA) por cada acreedor alimentario que exista, y dictará la periodicidad y forma que estime conveniente el Juzgador para asegurar su entrega oportuna.
+
+Para establecer en forma definitiva la pensión alimenticia se aplicarán en lo conducente las reglas establecidas en las fracciones I y II anteriores.
+
+El porcentaje, cantidad o importe, según sea el caso, que imponga el Juez, deberá ser suficiente y, por ende, incluirá la cobertura de los aspectos que el acreedor requiera para su sustento de los señalados como parte de los alimentos de acuerdo con el artículo 513 de este Código.
+
+Lo dispuesto en este artículo será aplicable también para fijar la pensión definitiva por concepto de alimentos.
+
+El porcentaje, cantidad o importe que se fije o conceda, sea provisional o en forma definitiva, podrá aumentarse o disminuirse de acuerdo al cambio de las circunstancias económicas u otros datos que se alleguen a la consideración del Juez para adecuarla a la realidad, pero siempre buscando lograr que sea asequible para el deudor y suficiente para el acreedor.
+
+En todo caso el Juzgador, o Tribunal en su caso, debe considerar que la separación entre el deudor y acreedor alimentarios, provocará que el ingreso económico no sea aprovechado en idénticas condiciones de cuando los mismos deudor y acreedor estaban incorporados juntos en una familia, por lo que la autoridad judicial será consciente de que en algunos casos disminuirá el nivel de vida que tenían cuando integraban familia, por lo que valorará tales circunstancias de cambio para asegurarse que la pensión de alimentos, tanto provisional como definitiva, sea asequible para el deudor y suficiente para el acreedor, de tal manera que uno y otro puedan solventar, aún en ausencia de lujos u opulencia, una calidad de vida esencialmente digna y con los elementos necesarios para su desarrollo personal, examinando cada juicio en particular.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -3875,7 +3895,7 @@ EL SECRETARIO DE GOBIERNO
 
 HECTOR LARIOS CORDOVA
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 11 DE OCTUBRE DE 2010.
 
@@ -3940,3 +3960,15 @@ B.O. 29 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 120, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR Y DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA”.]
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 210, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
