@@ -4,7 +4,7 @@ identifier: "SON-reglamento-del-fondo-para-la-procuracion-de-justicia-del-29739"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-31"
-last_updated: "2003-03-31"
+last_updated: "2018-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO DEL FONDO PARA LA PROCURACION DE JUSTICIA DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, PUBLICADO EN EL P.O. DE 26 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL FONDO PARA LA PROCURACION DE JUSTICIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 31 de marzo de 2003.
 
@@ -284,3 +286,33 @@ El Presente Reglamento entrará en vigor al día siguiente de su publicación en
 Dado en la Sala de Juntas del Fondo para la Procuración de Justicia del Estado de Sonora, en la ciudad de Hermosillo, Sonora, a los 26 días del mes de febrero del 2003.
 
 CONSEJO TÉCNICO.- PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.- PRESIDENTE DEL CONSEJO TÉCNICO DEL FONDO PARA LA PROCURACIÓN DE JUSTICIA DEL ESTADO.- LIC. MIGUEL ANGEL CORTES IBARRA.- RUBRICA.- DIRECTOR DE PROGRAMACIÓN ORGANIZACIÓN Y PRESUPUESTO.- SECRETARIO.- LIC. JOAQUIN TREVIÑO LARA.- RUBRICA.- REPRESENTANTE DE LA SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO.- TESORERO.- LIC. JOSE FEDERICO COTA FELIX.- RUBRICA.- SUBPROCURADOR GENERAL DE CONTROL DE PROCESOS.- VOCAL.- LIC. JOSE FRANCISCO LEYVA GOMEZ.- RUBRICA.- REPRESENTANTE DE LA SECRETARIA DE LA CONTRALORÍA GENERAL DEL ESTADO.- COMISARIO.- C.P. RAFAEL ANGEL VELÁZQUEZ ENCINAS.- RUBRICA.- SUPLENTE DEL DIRECTOR GENERAL DE PRESUPUESTO Y REPRESENTANTE DE LA SECRETARIA DE PLANEACION DEL DESARROLLO Y GASTO PUBLICO.- C.P. MARIA OFELIA FELIX GRIJALVA.- RUBRICA.- DIRECTOR DEL FONDO PARA LA PROCURACIÓN DE JUSTICIA DEL ESTADO DE SONORA.- C.P. FELIPE DE JESÚS QUINTANA GALLEGOS.- RUBRICA.-
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 216, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que crea el Fondo para la Procuración de Justicia del Estado de Sonora y su reglamento, publicados en el Boletín Oficial del Estado de Sonora, el dos de diciembre de mil novecientos noventa y nueve y el treinta y uno de marzo de dos mil tres, respectivamente.
+
+###### ARTÍCULO TERCERO.
+
+Se extingue como órgano de apoyo, con personalidad jurídica y patrimonio propio, el Fondo para la Procuración de justicia del Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos económicos y derechos que integraban el patrimonio del Fondo para la Procuración de Justicia, así como todos aquellos que se continúen recibiendo o estén destinados a recibirse por cuenta de dicho fondo, pasan a formar parte del patrimonio de la Fiscalía General de Justicia del Estado, a efectos de que sean destinados para fines de que se establezcan en las disposiciones generales que se emitan por su titular, las que enunciativamente podrán consistir en el mejoramiento de las actividades de desarrollo institucional, capacitación, estímulos y recompensas al personal, equipamiento, apoyo técnico, gastos de operación y, en general, para el mejoramiento (sic) las funciones de procuración de justicia, para dar cumplimiento adecuado a sus funciones. Se deberá integrar la documentación original que justifique y compruebe el uso y destino de estos recursos. Además en su portal electrónico, mantendrá de manera permanente a disposición del público en general, la información mensual y anual financiera relacionada con el ingreso y la aplicación de los recursos.
+
+###### ARTÍCULO QUINTO.
+
+Los bienes derechos y recursos económicos que a la entrada en vigor del presente decreto se encuentren pendientes de recibir por parte del Fondo para la Procuración de Justicia del Estado de Sonora, así como todos aquellos que en un futuro, con motivo del trámite de averiguaciones previas vigentes debían destinarse a dicho fondo, deberán ser remitidos por las autoridades correspondientes a la Fiscalía General de Justicia del Estado de Sonora, pasando a formar parte de su patrimonio.
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General de Justicia del Estado de Sonora deberá afectar las prevenciones de recursos económicos que resulten necesarios en los casos en que proceda la entrega o devolución de bienes o numerario a favor de los interesados en los casos que corresponda.
