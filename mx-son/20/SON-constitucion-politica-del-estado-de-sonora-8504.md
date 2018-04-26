@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2018-03-22"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -509,19 +509,23 @@ De acuerdo con la Constitución Política de los Estados Unidos Mexicanos, el Es
 
 Economía Pública y Planeación del Desarrollo.
 
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
 
-Artículo 25 A. El Gobierno del Estado está obligado a promover, orientar y conducir el desarrollo económico, social, político y cultural de la población de la Entidad, mediante el fomento del crecimiento económico, del empleo y una más justa distribución del ingreso y la riqueza con la más amplia participación de la sociedad.
+###### Artículo 25-A.
 
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+El Gobierno del Estado está obligado a promover, orientar y conducir el desarrollo económico, social, sustentable, político y cultural de la población de la Entidad, mediante el fomento del crecimiento económico, del empleo y una más justa distribución del ingreso y la riqueza con la más amplia participación de la sociedad.
 
-Artículo 25 B. Los sectores público, privado y social concurrirán con solidaridad en el desarrollo integral del Estado. El sector público bajo el esquema de economía mixta, impulsará por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
 
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+###### Artículo 25-B.
 
-Artículo 25 C. La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de las responsabilidades del Gobierno del Estado y de los Gobiernos Municipales, sobre el desarrollo integral de la entidad, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Sonora.
+Los sectores público, privado y social concurrirán con solidaridad en el desarrollo integral y sustentable del Estado. El sector público bajo el esquema de economía mixta, impulsará por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo.
 
-El Estado considera la planeación del desarrollo como actividad de interés público.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
+
+###### Artículo 25-C.
+
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de las responsabilidades del Gobierno del Estado y de los Gobiernos Municipales, sobre el desarrollo integral y sustentable de la Entidad, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos, y en la Constitución Política del Estado Libre y Soberano de Sonora.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -3924,3 +3928,11 @@ B.O. 22 DE MARZO DE 2018.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado del Estado (sic) de Sonora.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobado (sic) la presente Ley por cuando menos la mitad más uno de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "LEY NÚMERO 188, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado y previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
