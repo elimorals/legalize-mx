@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2018-04-09"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -478,6 +478,18 @@ III.- A la capacitación y fomento para la lactancia materna y amamantamiento, i
 > <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 IV.- Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, sean biológicos o por adopción, o en su caso el tiempo equivalente acordado con la autoridad responsable, en lugar adecuado e higiénico que designe la institución o dependencia.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 26 DE ABRIL DE 2018)</small>
+
+SECCION 2a BIS
+
+DE LA LICENCIA ESPECIAL CON GOCE DE SUELDO POR RAZONES MEDICAS
+
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 2018)</small>
+
+###### Artículo 27 Bis.
+
+Cuando un trabajador derecho-habiente no tenga cónyuge o pareja, y tenga bajo su custodia un hijo menor con una enfermedad que requiera atenciones y cuidados especiales a juicio de un médico especialista, la Junta Directiva del Instituto podrá autorizarle una licencia con goce de sueldo, por tiempo determinado, para efecto de que el propio trabajador brinde los cuidados y atenciones que requiere su hijo menor.
 
 > <small>(REFORMADO, B.O. 11 DE JULIO DE 2011.)</small>
 
@@ -2268,3 +2280,11 @@ B.O. 9 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 211, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a los seis meses contados a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
