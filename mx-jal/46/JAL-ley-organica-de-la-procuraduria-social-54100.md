@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2016-10-11"
+last_updated: "2018-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA PROCURADURIA SOCIAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -73,19 +73,15 @@ a) Representar a la sociedad en los procedimientos de orden e interés público;
 
 b) Procurar la legalidad en los asuntos del orden familiar y civil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
-
-c) Representar y tutelar los derechos e intereses de las personas incapaces, ausentes e ignorados.
+c) Representar y tutelar los derechos e intereses de las personas incapaces, ausentes, desaparecidos e ignorados;
 
 d) (DEROGADO, P.O. 7 DE FEBRERO DE 2009)
 
 e) (DEROGADO, P.O. 7 DE FEBRERO DE 2009)
 
 f) Recibir los avisos que presenten los notarios públicos, en relación con el otorgamiento de testamentos y rendir informes de los mismos, cuando les sean solicitados por autoridad competente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -95,7 +91,9 @@ a) Proporcionar asistencia jurídica gratuita a personas de escasos recursos y d
 
 b) Desempeñar las funciones de conciliación o mediación para la solución de conflictos entre las partes que los soliciten, en los términos de la ley en materia de justicia alternativa;
 
-c) Representar y tutelar los derechos e intereses de las personas incapaces mayores de edad, ausentes e ignorados; y
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+c) Representar y tutelar los derechos e intereses de las personas incapaces mayores de edad, ausentes, desaparecidos e ignorados; y
 
 d) Las demás que establezcan las leyes;
 
@@ -427,11 +425,9 @@ I. Representar a la sociedad en los procedimientos de orden e interés público;
 
 II. Procurar la legalidad en la impartición de justicia en los asuntos en que intervenga en su carácter de representante social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
-
-III. Vigilar y procurar el respeto y pleno ejercicio de los derechos e intereses de las personas incapaces, ausentes e ignoradas en los procedimientos jurisdiccionales en que sean parte, llevando un registro para tales efectos;
+III. Vigilar y procurar el respeto y pleno ejercicio de los derechos e intereses de las personas incapaces, ausentes, desaparecidos e ignoradas en los procedimientos jurisdiccionales en que sean parte, llevando un registro para tales efectos;
 
 IV. (DEROGADA, P.O. 7 DE FEBRERO DE 2009) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 2014);
 
@@ -439,13 +435,9 @@ IV. (DEROGADA, P.O. 7 DE FEBRERO DE 2009) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 
 
 V. Recibir los avisos que presenten los notarios públicos, en relación con el otorgamiento de testamentos y rendir informes de los mismos, cuando les sean solicitados por autoridad competente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 VI. Otorgar asesoría y asistencia legal gratuita a las niñas, niños y adolescentes y a sus representantes legales para la defensa y protección de sus derechos; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -607,7 +599,7 @@ I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civil
 
 II. Tener treinta años de edad al día del nombramiento;
 
-III. Poseer el día de su nombramiento titulo profesional de licenciado en derecho o equivalente, con antigüedad mínima de tres años, expedido por autoridad o institución legalmente facultada para ello;
+III. Poseer el día de su nombramiento título profesional de licenciado en derecho o equivalente, con antigüedad mínima de tres años, expedido por autoridad o institución legalmente facultada para ello;
 
 IV. Tener registrado ante la Dirección de Profesiones del Estado, su título profesional y acreditar por lo menos dos años de experiencia en el ejercicio de alguna de las ramas del derecho afines a los objetivos de la Procuraduría; y
 
@@ -986,3 +978,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26749/LXI/18 QUE REFORMA LOS ARTÍCULOS 3° Y 18 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
