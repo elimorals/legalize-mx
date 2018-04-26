@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-centros-de-educacion-inicial-y-cuidado-infantil-del-9006
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-06"
-last_updated: "2012-10-06"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de octubre de 2012
 
@@ -109,7 +109,9 @@ d) Convenir o acordar con las instituciones de otros ordenes de gobierno, que te
 
 e) Impulsar programas y planes educativos para formar y capacitar recursos humanos en la materia;
 
-f) Llevar el registro y control del padrón único de centros de educación inicial y cuidado infantil que funcionen dentro del territorio del Estado, incluidos los que no tengan fines lucrativos, cuya información deberá compartir con la Secretaría de Salud, para el desarrollo de normas de normas (sic) de higiene escolar, epidemiológicas y para llevar a efecto las atribuciones y competencias derivadas de esta Ley;
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+f) Llevar el registro y control del padrón único de centros de educación inicial y cuidado infantil que funcionen dentro del territorio del Estado, incluidos los que no tengan fines lucrativos, mismo que estará disponible en su sitio web, donde deben aparecer el registro y numero de control de cada CEICI regulado por esta ley, cuya información deberá compartir con la Secretaría de Salud, para el desarrollo de normas de higiene escolar, epidemiológicas y para llevar a efecto las atribuciones y competencias derivadas de esta Ley;
 
 g) Impartir cursos y programas de capacitación y actualización dirigidos al cuidado infantil;
 
@@ -157,9 +159,11 @@ Corresponde al Ejecutivo del Estado, a través de la Secretaría de Salud, verif
 
 Corresponderá al Ejecutivo del Estado, a través de la Secretaría de Educación, supervisar y evaluar la prestación de los servicios educativos que se proporcionen en los centros de educación inicial y cuidado infantil, en los términos de esta Ley y de la Ley de Educación del Estado de San Luis Potosí, cuyo resultado deberá compartir con las dependencias que señala esta Ley para complementar los expedientes de cada CEICI, sin perjuicio de los convenios de coordinación que sobre el particular se celebren con la Federación o con los Municipios.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 9°.
 
-En la prestación de los servicios de cada CEICI se deberá velar porque los infantes adquieran hábitos de higiene, cuidado de la salud, sana convivencia cooperación, aprecio por la dignidad de las personas, cuidado del medio ambiente y la integridad de la familia, respeto a los valores patrios, evitando la discriminación por motivos de raza, religión, grupo étnico, genero o discapacidad, en concordancia con su entorno social, con absoluto respecto a los elementos formativos de estricta incumbencia familiar.
+En la prestación de los servicios de cada CEICI se deberá velar porque los infantes adquieran hábitos de higiene, sana alimentación, cuidado de la salud, sana convivencia, cooperación, aprecio por la dignidad de las personas, cuidado del medio ambiente, la integridad de la familia, respeto a los valores patrios, evitando la discriminación por motivos de raza, religión, grupo étnico, género o discapacidad, en concordancia con su entorno social, todo ello con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
 
 ###### ARTICULO 10.
 
@@ -173,9 +177,13 @@ En todo caso, los servicios de cuidado infantil en cada CEICI incluirán el aseo
 
 El CEICI que acepte niños mayores a tres años, velará por el derecho que tiene el menor a la educación básica obligatoria, establecida en el primer párrafo del artículo 3° de las Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones que establece la legislación en materia educativa.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 13.
 
-Los CEICI estarán obligados a recibir en igualdad de condiciones a niñas y niños con discapacidad no dependientes, el ingreso a los mismos quedará sujeto a la disponibilidad de lugares con que cuenta cada guardería con respecto de la admisión general.
+Los CEICI estarán obligados a recibir en igualdad de condiciones a niñas y niños con discapacidad; el ingreso a los mismos quedará sujeto a la disponibilidad de lugares con que cuenta cada guardería con respecto de la admisión general.
+
+Los CEICI podrán determinar casos de excepción a lo establecido por el párrafo anterior, cuando la aceptación del niño o niña con discapacidad, suponga el deber de hacer modificaciones que excedan lo razonable. En este supuesto de excepción, el CEICI debe entregar a los padres de familia o tutores, un informe justificando la negativa para que, en su caso, las autoridades competentes determinen con base en los criterios de no discriminación por discapacidad, ajustes razonables y el bien superior del menor, si la institución debe aceptar al niño o niña con discapacidad.
 
 ###### ARTICULO 14.
 
@@ -185,9 +193,11 @@ Las instituciones que tengan a su cargo un CEICI en la Entidad, con independenci
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 15.
 
-Los Centros de Educación Inicial y Cuidado Infantil deberán contar como mínimo con: educadora; enfermera; puericultista; trabajador social y dietista o su equivalente; a los cuales se les debe capacitar continuamente.
+Los Centros de Educación Inicial y Cuidado Infantil deberán contar como mínimo con: educadora; enfermera; puericultista; trabajador social; y dietista o su equivalente, a los cuales se les debe capacitar continuamente y deberán contar con certificación oficial para la prestación de servicios en Centros de Educación Inicial y Cuidado Infantil.
 
 ###### ARTICULO 16.
 
@@ -219,9 +229,13 @@ Las autoridades responsables que supervisen y verifiquen el Funcionamiento del C
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 19.
 
-El estado por conducto de la Secretaria General de Gobierno, a través de su Dirección General de Protección Civil, realizara la Inspección y vigilancia de las medidas de seguridad en los centros de educación inicial y cuidado infantil, para que todos los establecimientos cuente con su Unidad Interna de Protección Civil y su programa correspondiente, el cual deberá contemplar forzosamente los simulacros de evacuación.
+El Estado, por conducto de la Secretaría General de Gobierno, a través de su Dirección General de Protección Civil, realizará la inspección y vigilancia de las medidas de seguridad en los centros de educación inicial y cuidado infantil, para que todos los establecimientos cuenten con su Unidad Interna de Protección Civil y su programa correspondiente, el cual deberá contemplar forzosamente los simulacros de evacuación bimestrales, estableciendo para ello rutas y, en su caso, refugios que garanticen la seguridad de los menores y personal de los CEICI ante situación de emergencia.
+
+En los simulacros participarán el personal de los CEICI, así como las niñas y los niños que acuden a los mismos, para lo cual se realizarán sesiones informativas con padres de familia y los menores sobre cómo comportarse ante una emergencia.
 
 ###### ARTICULO 20.
 
@@ -282,6 +296,10 @@ La Licencia de funcionamiento será de duración indefinida, pero se refrendará
 ###### ARTICULO 28.
 
 Las licencias de funcionamiento deberán colocarse en un lugar visible a los usuarios y contendrán los datos del titular, denominación o razón social y tipo de establecimiento del CEICI, su ubicación, el número de Registro Federal de Contribuyentes, el número de control respectivo y la fecha de expedición.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+Tratándose del número de control respectivo deberá exhibirse en la parte frontal superior del CEICI, el número de matrícula correspondiente que otorga la Secretaría de Educación de Gobierno del Estado.
 
 ###### ARTICULO 29.
 
@@ -359,7 +377,9 @@ Las infracciones a esta Ley y sus reglamentos. Según las particulares circunsta
 
 I. Amonestación escrita;
 
-II. Multa desde 50 a 1000 días de salario mínimo general vigente en la zona que se trate;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+II. Multa desde 50 a 1000 veces del valor diario de la unidad de medida y actualización vigente;
 
 III. Clausura temporal del establecimiento hasta por treinta días naturales o hasta que se corrija el hecho que originó la sanción;
 
@@ -572,3 +592,21 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 937.- SE REFORMA EL ARTÍCULO 5° Y ADICIONA AL ARTÍCULO 28 EL PÁRRAFO SEGUNDO DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 938.- SE REFORMAN LOS ARTÍCULOS 9°, 13, 15, 19, Y 40 DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
