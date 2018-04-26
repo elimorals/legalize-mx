@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2018-03-10"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -2059,15 +2059,25 @@ ART. 448 BIS.- Las causales de desocupación previstas en el artículo inmediato
 
 I.- A la presentación de la demanda, el juez procederá a su radicación y en el mismo auto ordenará emplazar a la parte demandada para que ocurra a contestar la demanda dentro del término improrrogable de cinco días, contados a partir del día siguiente al del emplazamiento.
 
-Cuando la demanda se funde en las fracciones III y IV del artículo 448 de este Código, en el mismo proveído, el juez además mandará requerir al arrendatario para que en el acto de la diligencia, compruebe con el recibo correspondiente estar al corriente en el pago de las rentas, o bien para que cubra desde luego su adeudo, o para que, en su caso, exhiba el contrato de arrendamiento en cualquiera de los casos a satisfacción del actor; y de no hacerlo se le prevenga para que, dentro del plazo de cuarenta y cinco días cuando la finca sirva para habitación, giro industrial o mercantil, o dentro del plazo de noventa días, cuando se trate de predios rústicos, proceda a desocuparla, apercibiéndolo de su lanzamiento a su costa, si no lo hace.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
 
-Si en el acto de diligencia, justifica el inquilino, haber pagado la pensión o pensiones según lo convenido; si satisface inmediatamente su adeudo, o exhibe en su caso el contrato de arrendamiento en cualquiera de los casos a satisfacción del actor, se suspenderá la diligencia, asentándose en ella los hechos y agregándose los comprobantes que se exhibieren, o en su caso el pago, para dar cuenta al juez.
+Cuando la demanda se funde en las fracciones, III y IV del artículo 448 de este Código, en el mismo proveído el juez además mandará requerir al arrendatario para que en el acto de la diligencia, compruebe con el recibo correspondiente estar al corriente en el pago de las rentas, o bien para que cubra desde luego su adeudo, o para que, en su caso, exhiba el contrato de arrendamiento en cualquiera de los casos a satisfacción del actor; y de no hacerlo se le prevenga para que, dentro del plazo de cuarenta y cinco días cuando la finca sirva para habitación, giro industrial o mercantil, o dentro del plazo de noventa días cuando se trate de predios rústicos, proceda a desocuparla, apercibiéndolo de su lanzamiento a su costa si no lo hace.
 
-Cuando el inquilino en el momento de la diligencia hubiere realizado el pago o (sic) satisfacción del actor el juez mandará entregar a éste el valor de las pensiones exhibidas y dará por concluido el juicio sin condenación a costas. De igual manera procederá en caso de que el demandado haya justificado a satisfacción del actor estar al corriente en el pago de las rentas, o hubiere exhibido en su caso el contrato de arrendamiento respectivo.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
 
-II.- Contestada la demanda o transcurrido el término para hacerlo, el juez, expresamente, decretaráa (sic) un término común de cinco días para que las partes ofrezcan todas sus pruebas, sin excepción.
+Si en el acto de diligencia el inquilino justifica a plena satisfacción del actor, haber pagado la pensión o pensiones según lo convenido; exhibe el contrato de arrendamiento o bien, satisface inmediatamente su adeudo a menos de que se hubiere demandado también la rescisión del contrato, se suspenderá la diligencia asentándose en ella los hechos y agregándose los comprobantes que se exhibieren o, en su caso, el pago, para dar cuenta al juez.
 
-III.- En el mismo proveído que tenga por ofrecidas las pruebas de las partes, el juez determinará las que se admitan y fijará fecha y hora para que tenga verificativo en una sola audiencia el desahogo de las mismas, excepción hecha de las que por su naturaleza requieran preparación especial, las que deberán concluirse a más tardar el día de la audiencia. En la misma audiencia se llevará a cabo la recepctión (sic) de alegatos por su orden, los que podrán expresarse en forma verbal en un lapso no mayor de quince minutos. Esta audiencia se celebrará dentro de los treinta días siguientes al auto que la señala, y tendrá efectos de citación para sentencia.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+Cuando el inquilino en el momento de la diligencia hubiere realizado el pago a satisfacción del actor, el juez mandará entregar a éste el valor de las pensiones exhibidas y dará por concluido el juicio sin condenación a costas. De igual manera procederá en caso de que el demandado haya justificado a satisfacción del actor estar al corriente en el pago de las rentas, o hubiere exhibido, en su caso, el contrato de arrendamiento respectivo;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+II.- Contestada la demanda o transcurrido el término para hacerlo, el juez, expresamente decretará un término común de cinco días para que las partes ofrezcan todas sus pruebas, sin excepción;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+III.- En el mismo proveído que tenga por ofrecidas las pruebas de las partes, el juez determinará las que se admitan y fijará fecha y hora para que tenga verificativo en una sola audiencia el desahogo de las mismas, excepción hecha de las que por su naturaleza requieran preparación especial, las que deberán concluirse a más tardar el día de la audiencia. En la misma audiencia se llevará a cabo la recepctión (sic) de alegatos por su orden, los que podrán expresarse en forma verbal en un lapso no mayor de quince minutos. Esta audiencia se celebrará dentro de los treinta días siguientes al auto que la señala, y tendrá efectos de citación para sentencia, y
 
 IV.- El juez tendrá un término de cinco días contados a partir del siguiente a la audiencia a que se refiere la fracción anterior para dictar sentencia.
 
@@ -2095,7 +2105,11 @@ ART. 454.- La sentencia dispondrá siempre, cuando se declare procedente el lanz
 
 ART. 455.- La sentencia que decreta el lanzamiento será apelable en el efecto devolutivo, la que lo niegue será apelable en ambos efectos.
 
-ART. 456.- La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquier persona de su familia, doméstico, portero, vecino o agente de policía, pudiéndose romper las cerraduras de las puertas de la casa si fuere necesario. Los muebles u objetos que en ella se encuentren, si no hubiere persona de la familia del demandado que los recoja u otra persona autorizada para ello, se remitirán con inventario, a disposición del Juzgado, a la primera autoridad Municipal del lugar, haciéndose constar este hecho en las actuaciones.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+ART. 456.- La diligencia de lanzamiento se entenderá con el ejecutado o, en su defecto, con cualquier persona de su familia, doméstico, portero, vecino o agente de policía, pudiéndose utilizar el servicio de un cerrajero, o bien romper las cerraduras de las puertas del inmueble si fuere necesario.
+
+Los muebles u objetos que en ella se encuentren, si no estuviese presente el demandado, alguna persona de su familia o autorizada para ello por el juez, y en el caso de que la primera autoridad municipal no cuente con espacio, el actuario podrá poner los bienes y objetos en depósito judicial bajo la responsabilidad del ejecutante si éste lo acepta, en lugar que éste señale para ello, se hará constar el inventario general, y el domicilio de depósito que será asentado en el acta de la diligencia.
 
 ART. 457.- Si el actor lo pide, al ejecutarse el lanzamiento se embargarán y depositarán bienes bastantes para cubrir las pensiones y costas reclamadas. La designación de aquéllos se hará conforme a la Ley. Lo mismo se observará al hacerse el requerimiento de que se habla en este Capítulo.
 
@@ -4061,9 +4075,7 @@ I.- De menores o incapacitados sujetos a patria potestad o a tutela, si son malt
 
 II.- De huérfanos o incapacitados que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
-
-III.- El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus padres o tutores.
+III.- (DEROGADA, P.O. 26 DE ABRIL DE 2018)
 
 ART. 904.- En los casos de la fracción I del artículo anterior, para decretar el depósito será necesario:
 
@@ -4085,17 +4097,11 @@ ART. 908.- Verificado el depósito, en el caso de los artículos que preceden, s
 
 ART. 909.- Inmediatamente que tuviere noticia un juez de que algún huérfano, menor o incapacitado, se hallare en el caso de que habla la fracción II del artículo 903, procederá a depositarlo donde estime conveniente, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género y dispondrá que se provea al interesado de tutor conforme a derecho.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
-
-ART. 910.- En el caso de la Fracción III del Artículo 903, recibida la solicitud de depósito, que deberá ser hecha por escrito, el Juez se trasladará al domicilio del menor y si éste ratifica la solicitud, prevendrá al ascendiente o tutor que designe depositario. Sobre la designación se oirá al menor y si no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición hará el Juez el nombramiento de la persona que estima conveniente.
+ART. 910.- (DEROGADO, P.O. 26 DE ABRIL DE 2018)
 
 ART. 911.- Hecho el nombramiento del depositario el juez practicará el depósito como se dispone en los artículos 906 y 907.
 
-ART. 912.- Durará el depósito mientras se verifique el matrimonio, salvo que el juez niegue la autorización para contraerlo o que la depositada desista de sus pretensiones.
-
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
-
-En los dos últimos casos el Juez volverá al menor a casa de las personas bajo cuya patria potestad se encontraba, extendiéndose la correspondiente diligencia en el expediente formado para el depósito.
+ART. 912.- (DEROGADO, P.O. 26 DE ABRIL DE 2018)
 
 ART. 913.- En las diligencias de que trata este Capítulo se oirá precisamente al Ministerio Público y contra las resoluciones que se dicten no procederá ningún recurso.
 
@@ -5724,6 +5730,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 899.- SE REFORMA EL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 939.- SE DEROGA EN Y LOS ARTÍCULOS, 903 SU FRACCIÓN III, 910, Y 912, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 940.- SE REFORMAN LOS ARTÍCULOS, 448 BIS EN SUS FRACCIONES, I LOS PÁRRAFOS, SEGUNDO, TERCERO Y CUARTO, II, Y III, Y 456, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
