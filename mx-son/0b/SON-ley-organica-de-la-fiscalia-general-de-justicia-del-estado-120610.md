@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1206
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-03-27"
-last_updated: "2017-05-11"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en el Número 25 de la Sección II, del Boletín Oficial del Estado de Sonora, el lunes 27 de marzo de 2017.
 
@@ -1059,11 +1059,25 @@ III.- Los bienes que le sean transferidos para el debido ejercicio y cumplimient
 
 IV.- Los que reciba por concepto de los bienes o productos que enajene y los servicios de capacitación, adiestramiento que preste, así como de otras actividades que redunden en un ingreso propio;
 
-V.- Los bienes que le correspondan de conformidad con la legislación aplicable, que causen abandono, vinculados con la comisión de delitos, así como los que le correspondan por efecto de la extinción de dominio; y
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 2018)</small>
 
-VI.- Los demás que determinen las disposiciones aplicables.
+V.- El producto de los bienes que sean objeto, instrumento u objeto del delito o asegurados y que causen abandono a su favor, de conformidad con (sic) previsto en la legislación aplicable, así como los que le correspondan por efecto de la extinción de dominio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 26 DE ABRIL DE 2018)</small>
+
+VI.- Los bienes, derechos, productos o cualquier clase de recursos económicos que formaban parte del patrimonio del Fondo para la Procuración de Justicia del Estado de Sonora, así como todos aquellos que se continúen recibiendo o estén destinados a recibirse por cuenta de dicho fondo, los que podrán aplicarse a los fines que se determinen mediante disposiciones de carácter general que se emitan por el Fiscal General.
+
+Los lineamientos a que se hace referencia en esta fracción constituirán las reglas para la erogación y aplicación de dichos recursos y en ellos se deberá privilegiar los principios de eficacia, eficiencia, participación ciudadana, transparencia, y rendición de cuentas, y únicamente se podrán aplicar en los siguientes conceptos para fines del mejoramiento de las actividades de desarrollo institucional, capacitación, estímulos y recompensas al personal, equipamiento, apoyo técnico, gastos de operación y, en general, y no podrán destinarse a un fin distinto del mejoramiento de las funciones de procuración de justicia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 26 DE ABRIL DE 2018)</small>
+
+VII.- Los demás que determinen las disposiciones aplicables.
 
 El patrimonio de la Fiscalía General del Estado de Sonora será inembargable e imprescriptible y no será susceptible de ejecución judicial o administrativa.
+
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 2018)</small>
+
+En relación a los recursos establecidos en las fracciones V y VI, para un adecuado ejercicio, control, seguimiento, evaluación y transparencia de estos recursos, serán parte de sus ingresos y egresos contables, debiendo atender las disposiciones y normativas aplicables en materia de rendición de informes y presentación de la cuenta pública ante el Congreso Local, y estarán sujetos a fiscalización de conformidad a la Ley de Fiscalización Superior del Estado de Sonora.
 
 ### CAPÍTULO ÚNICO. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
@@ -1150,3 +1164,31 @@ B.O. 11 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 216, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que crea el Fondo para la Procuración de Justicia del Estado de Sonora y su reglamento, publicados en el Boletín Oficial del Estado de Sonora, el dos de diciembre de mil novecientos noventa y nueve y el treinta y uno de marzo de dos mil tres, respectivamente.
+
+###### ARTÍCULO TERCERO.
+
+Se extingue como órgano de apoyo, con personalidad jurídica y patrimonio propio, el Fondo para la Procuración de justicia del Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos económicos y derechos que integraban el patrimonio del Fondo para la Procuración de Justicia, así como todos aquellos que se continúen recibiendo o estén destinados a recibirse por cuenta de dicho fondo, pasan a formar parte del patrimonio de la Fiscalía General de Justicia del Estado, a efectos de que sean destinados para fines de que se establezcan en las disposiciones generales que se emitan por su titular, las que enunciativamente podrán consistir en el mejoramiento de las actividades de desarrollo institucional, capacitación, estímulos y recompensas al personal, equipamiento, apoyo técnico, gastos de operación y, en general, para el mejoramiento (sic) las funciones de procuración de justicia, para dar cumplimiento adecuado a sus funciones. Se deberá integrar la documentación original que justifique y compruebe el uso y destino de estos recursos. Además en su portal electrónico, mantendrá de manera permanente a disposición del público en general, la información mensual y anual financiera relacionada con el ingreso y la aplicación de los recursos.
+
+###### ARTÍCULO QUINTO.
+
+Los bienes derechos y recursos económicos que a la entrada en vigor del presente decreto se encuentren pendientes de recibir por parte del Fondo para la Procuración de Justicia del Estado de Sonora, así como todos aquellos que en un futuro, con motivo del trámite de averiguaciones previas vigentes debían destinarse a dicho fondo, deberán ser remitidos por las autoridades correspondientes a la Fiscalía General de Justicia del Estado de Sonora, pasando a formar parte de su patrimonio.
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General de Justicia del Estado de Sonora deberá afectar las prevenciones de recursos económicos que resulten necesarios en los casos en que proceda la entrega o devolución de bienes o numerario a favor de los interesados en los casos que corresponda.
