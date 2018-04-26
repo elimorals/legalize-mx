@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2017-12-20"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -129,9 +129,13 @@ La ley regulará la aplicación de mecanismos alternativos de solución de contr
 
 El Poder Judicial es independiente de los demás poderes del Estado. El Ejecutivo garantizará la plena ejecución de las resoluciones judiciales.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2018)</small>
 
-Las sentencias pronunciadas por los tribunales del Estado, solamente afectarán a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se dicten y a sus causahabientes.
+Toda persona tiene derecho al trabajo digno y socialmente útil; la resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de tribunales laborales del Poder Judicial. Antes de acudir a dichos tribunales, los trabajadores y patrones deberán asistir a la instancia de conciliación que corresponda.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+Las sentencias y resoluciones pronunciadas por los tribunales del Estado, solamente afectarán a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se dicten y a sus causahabientes y deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -1793,15 +1797,17 @@ El Congreso del Estado, a efecto de ampliar la información, podrá solicitar la
 
 Todas las Leyes, Decretos y Reglamentos, para su cumplimiento, serán promulgados por el Gobernador del Estado y refrendados por el Secretario de Gobierno o por quien haga sus veces, en los términos de la Ley Orgánica del Poder Ejecutivo.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2018)</small>
 
-#### SECCION SEGUNDA. DE LAS DEPENDENCIAS DEL EJECUTIVO
+#### SECCION SEGUNDA. DE LAS DEPENDENCIAS Y PARAESTATALES DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 80.
 
-Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las Dependencias señaladas en la Ley de la materia, la cual establecerá las atribuciones, forma de organización y facultades de sus Titulares.
+Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las Dependencias y Paraestatales señaladas en la Ley de la materia, la cual establecerá las atribuciones, forma de organización y facultades de sus Titulares.
+
+La función conciliatoria entre trabajadores y patrones estará a cargo del Centro de Conciliación especializado e imparcial, mismo que contará con personalidad jurídica, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, así como patrimonio propio; y se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en la Ley correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1945,7 +1951,9 @@ I.- Iniciar Leyes o decretos relacionados con la impartición de justicia;
 
 II.- Proponer al Congreso del Estado la terna para designación de Consejeros que integrarán el Consejo del Poder Judicial. Los propuestos deberán ser personas que no pertenezcan al Poder Judicial;
 
-III.- Conocer en los juicios civiles y penales, de las instancias y recursos que sean de su competencia de conformidad con las leyes;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+
+III. Conocer en los juicios civiles, penales y laborales, de las instancias y recursos que sean de su competencia de conformidad con las leyes;
 
 IV.- Establecer jurisprudencia en los términos que fije la Ley;
 
@@ -4035,6 +4043,14 @@ Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativo
 
 P.O. 20 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 272, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 272, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 301. QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativos que correspondan de conformidad con los alcances de este Decreto, una vez que se expidan las leyes generales a que se refiere el artículo segundo transitorio del Decreto por el que se reforma y adicionan diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos en materia de justicia laboral, publicado en el Diario Oficial de la Federación el 24 de febrero de 2017.
