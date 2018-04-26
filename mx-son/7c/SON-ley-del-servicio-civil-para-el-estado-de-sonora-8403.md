@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2017-04-27"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -213,11 +213,11 @@ La jornada diaria de trabajo podrá prestarse en una o dos sesiones y dentro de 
 
 Por cada seis días de trabajo, el trabajador disfrutará de un día de descanso, cuando menos, con goce de salario íntegro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 26 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 26.
 
-Las mujeres disfrutarán, con goce de salario íntegro, de un mes de descanso antes de la fecha que aproximadamente se fije para el parto o adopción, y de otros dos meses después del mismo, o de la fecha en que se otorgue legalmente la adopción. Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, sean biológicos o por adopción, o en su caso el tiempo equivalente acordado con la autoridad responsable, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
+Las mujeres disfrutarán, con goce de salario íntegro, de cuatro semanas de descanso antes de la fecha que aproximadamente se fije para el parto o adopción, y de otras diez semanas después del mismo, o de la fecha en que se otorgue legalmente la adopción. Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, sean biológicos o por adopción, o en su caso el tiempo equivalente acordado con la autoridad responsable, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
 > <small>(REFORMADO, B.O. 11 DE JULIO DE 2011)</small>
 
@@ -465,7 +465,7 @@ ARTICULO 42 BIS.- Si al término del plazo de los doce meses señalado en el art
 
 ###### ARTICULO 43.
 
-Se entiende por escalafón el sistema organizado en cada entidad o dependencia, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas. Tratándose de personal docente al servicio del ramo educativo, las permutas serán substituídas por los cambios de adscripción y conforme al reglamento de éstos.
+Se entiende por escalafón el sistema organizado en cada entidad o dependencia, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas. Tratándose de personal docente al servicio del ramo educativo, las permutas serán substituídas (sic) por los cambios de adscripción y conforme al reglamento de éstos.
 
 ###### ARTICULO 44.
 
@@ -1268,3 +1268,11 @@ B.O. 27 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 208, QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 26 DE LA LEY DEL SERVICIO CIVIL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
