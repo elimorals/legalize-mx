@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2017-12-26"
+last_updated: "2018-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -414,6 +414,12 @@ III.- En materia penal del Sistema Acusatorio:
 a).- De los recursos de apelación interpuestos contra las resoluciones dictadas por jueces de control y tribunales de enjuiciamiento en los procesos instruidos por delitos cuyo término medio aritmético de la pena que corresponda exceda de cinco años de prisión, excepto cuando se trate del delito de robo.
 
 En materia penal del Sistema Acusatorio el recurso de apelación interpuesto contra la sentencia deberá ser resuelto por magistrados que no hubieren intervenido en el mismo asunto en etapas anteriores.
+
+> <small>(ADICIONADA [N. DE E. CON SU INCISO], B.O. 26 DE ABRIL DE 2018)</small>
+
+IV.- En materia de extinción de dominio:
+
+a) De los recursos de apelación interpuestos contra sentencias, autos y resoluciones dictados por Jueces competentes en materia de extinción de dominio.
 
 > <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -996,6 +1002,12 @@ Los Juzgados de lo Civil conocerán de las diligencias de jurisdicción voluntar
 Además, los Juzgados de lo Civil conocerán, a elección del actor, de las controversias del orden civil que se susciten sobre el cumplimiento y aplicación de leyes federales o tratados internacionales celebrados por el Estado Mexicano, cuando éstos sólo afecten intereses particulares.
 
 Se exceptúan de lo dispuesto en este artículo, los asuntos de la competencia de los Juzgados de lo Mercantil y de lo Familiar, cuando existan éstos en el Distrito Judicial respectivo.
+
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 2018)</small>
+
+ARTICULO 59 BIS.- El Juez competente en materia de extinción de dominio tendrá jurisdicción en todo el territorio del Estado y residirá en la ciudad de Hermosillo.
+
+El pleno del Supremo Tribunal de Justicia podrá, atendiendo a las necesidades del servicio de impartición de justicia, facultar a otros Jueces en la jurisdicción territorial del Estado para que tengan competencia en materia de extinción de dominio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2790,3 +2802,11 @@ P.O. 26 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 233, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
