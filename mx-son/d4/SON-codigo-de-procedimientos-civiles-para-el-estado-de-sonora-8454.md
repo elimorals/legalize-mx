@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2018-04-09"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -3381,9 +3381,11 @@ III.- Contra terceros aunque no hubieren litigado ni sean causahabientes, en las
 
 IV.- Contra los socios con responsabilidad solidaria respecto de la sentencia que se pronuncie contra la sociedad, condenándola al cumplimiento de obligaciones en favor de terceros, aunque los socios no hayan litigado.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
+
 ###### Art. 355.
 
-Las resoluciones judiciales firmes sobre prestaciones futuras y las dictadas en negocio de alimentos, ejercicio y suspensión de la patria potestad, interdicción, jurisdicción voluntaria, y las demás que prevengan las leyes, sólo tienen autoridad de cosa juzgada, mientras no se alteren o cambien las circunstancias que afecten el ejercicio de la acción que se dedujo en el juicio correspondiente. La sentencia podrá alterarse o modificarse mediante procedimiento posterior, cuando cambien estas circunstancias.
+Las resoluciones judiciales firmes sobre prestaciones futuras y las dictadas en negocio de alimentos, ejercicio y suspensión de la patria potestad, interdicción, jurisdicción voluntaria, y las demás que prevengan las leyes, sólo tienen autoridad de cosa juzgada, mientras no se alteren o cambien las circunstancias que afecten el ejercicio de la acción que se dedujo en el juicio correspondiente. La sentencia podrá alterarse o modificarse mediante juicio principal posterior, cuando cambien estas circunstancias.
 
 ###### Art. 356.
 
@@ -5553,9 +5555,11 @@ Los cónyuges pueden hacerse representar por procuradores; pero el poder deberá
 
 El Ministerio Público tendrá intervención en los juicios de divorcio necesario; pero la facultad para rendir pruebas quedará limitada a ofrecer sólo las que sirvan para el mantenimiento del vínculo.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
+
 ###### Art. 580.
 
-Al admitirse la demanda del divorcio se dictarán provisionalmente y mientras dure el juicio, las disposiciones a que se refiere el artículo 447 del Código Civil. En señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos, no podrá demorarse por el hecho de no tener el juez datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto como se pida. El monto de la pensión puede ser modificado durante el juicio cuando cambien las circunstancias o el juez tenga mayores datos sobre las posibilidades económicas y posición de los cónyuges. A petición de los abuelos, tíos o hermanos mayores, el juez en cualquier tiempo durante el juicio, puede dictar las providencias que se consideren benéficas a los hijos menores.
+Al admitirse la demanda del divorcio se dictarán provisionalmente y mientras dure el juicio, las disposiciones a que se refiere el artículo 521 del Código de Familia para el Estado de Sonora. En señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos, no podrá demorarse por el hecho de no tener el juez datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto como se pida en los términos que prevé el recién mencionado Código de Familia. El monto de la pensión puede ser modificado durante el juicio cuando cambien las circunstancias o el juez tenga mayores datos sobre las posibilidades económicas y posición de deudor o deudores alimentarios, así como necesidades del acreedor o acreedores alimentarios. A petición de los abuelos, tíos o hermanos mayores, el juez en cualquier tiempo durante el juicio, puede dictar las providencias que se consideren benéficas a los hijos menores.
 
 ###### Art. 581.
 
@@ -6723,11 +6727,19 @@ Alimentos provisionales.
 
 En casos de urgente necesidad podrán decretarse alimentos provisionales a quien tenga derecho de exigirlos y contra quien deba pagarlos. En este caso debe acreditarse el título en cuya virtud se piden, las posibilidades de quien deba darlos y la urgencia de la medida. Cuando se pidan por razón del parentesco, deberá acreditarse éste. Si se fundan en testamento, contrato o convenio, debe exhibirse el documento en que consten.
 
+> <small>(ADICIONADO, B.O. 26 DE ABRIL DE 2018)</small>
+
+En estos casos podrán seguirse las reglas establecidas en el artículo 521 del Código de Familia para el Estado de Sonora, pero siempre en el entendido de que el porcentaje, cantidad o importe que se fije o conceda como pensión provisional de alimentos, podrá aumentarse o disminuirse de acuerdo al cambio de las circunstancias económicas u otros datos que se alleguen a la consideración del Juez para adecuarla a la realidad, pero siempre buscando lograr que sea asequible para el deudor y suficiente para el acreedor.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 26 DE ABRIL DE 2018)</small>
+
 ###### Art. 712.
 
-Rendida la justificación a que se refiere el artículo anterior, el juez fijará la suma en que deban consistir los alimentos, mandando abonarlos por meses o quincenas anticipados.
+Rendida la justificación a que se refiere el artículo anterior, el juez fijará el porcentaje sobre el sueldo que se conozca del deudor alimentario, o la cantidad o importe, según el caso, en que deban consistir los alimentos, mandando abonarlos en la periodicidad y forma que estime conveniente para asegurar su entrega oportuna.
 
-Si se piden como medida provisional en un juicio de divorcio, se procederá en la forma prevista por el artículo 447 del Código Civil.
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
+
+Si se piden como medida provisional en un juicio de divorcio, se procederá en la forma prevista por el artículo 521 del Código de Familia para el Estado de Sonora.
 
 La providencia se ejecutará sin necesidad de otorgamiento de caución.
 
@@ -8844,5 +8856,17 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 Los procedimientos sucesorios que se encuentren en trámite a la entrada en vigor de este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
 
 ###### ARTÍCULO TERCERO.
+
+Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 210, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
 
 Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
