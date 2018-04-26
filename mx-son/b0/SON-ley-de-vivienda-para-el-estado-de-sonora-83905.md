@@ -4,7 +4,7 @@ identifier: "SON-ley-de-vivienda-para-el-estado-de-sonora-83905"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-07"
-last_updated: "2017-12-26"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 166 DE VIVIENDA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2011.
 
@@ -375,9 +375,21 @@ V.- Proponer a la Junta de Gobierno para su aprobación, el reglamento interior 
 
 Comisión, así como el programa institucional;
 
-VI.- Presentar ante la Junta de Gobierno, el informe anual de las actividades de la Comisión, así como de la situación que guardan los programas a su cargo; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 26 DE ABRIL DE 2018)</small>
 
-VII.- Las demás que determine esta ley y el reglamento interior de la Comisión.
+VI.- Actuar en cada una de las etapas de los diferentes tipos de procesos de adjudicación de contratos, incluido el dictar fallos, así como ordenar, iniciar y llevar a cabo los procesos de rescisión, suspensión y terminación anticipada de los mismos en términos de la legislación aplicable en la materia, pudiendo delegar estas facultades en uno o más apoderados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 26 DE ABRIL DE 2018)</small>
+
+VII.- Delegar poder general para pleitos y cobranzas, actos de administración, con todas las facultades generales, en uno o más apoderados;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 26 DE ABRIL DE 2018)</small>
+
+VIII.- Presentar ante la Junta de Gobierno, el informe anual de las actividades de la Comisión, así como de la situación que guardan los programas a su cargo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 26 DE ABRIL DE 2018)</small>
+
+IX.- Las demás que determine esta ley y el reglamento interior de la Comisión.
 
 ###### Artículo 17.
 
@@ -1188,3 +1200,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones reglamentarias necesarias para la efectiva aplicación de esta Ley, deberán emitirse por las autoridades correspondientes dentro de un plazo no mayor a 90 días naturales, contado a partir del día en que entre en vigor el presente ordenamiento jurídico.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 213, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 16 DE LA LEY DE VIVIENDA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
