@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2017-11-06"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -737,9 +737,11 @@ IV. La obligatoriedad de los profesionales de la salud, de mantenerse actualizad
 
 V. Las disposiciones de esta ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 64.
 
-Para el ejercicio de actividades profesionales en el campo de la salud y especialidades de la medicina, odontología, optometría, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes y registrados ante la Secretaría.
+Para el ejercicio de actividades profesionales en el campo de la salud y especialidades de la medicina, odontología, optometría, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes y registrados ante la Secretaría.
 
 ###### ARTICULO 65.
 
@@ -3282,3 +3284,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La titular del Ejecutivo del Estado, a través del Secretario del Ramo, deberá de difundir entre las y los sonorenses, el derecho que tienen las mujeres embarazadas de recibir la asistencia médica necesaria, cuando se encuentren ante una urgencia obstétrica independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 209, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA Y DE LA LEY DE PROFESIONES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
