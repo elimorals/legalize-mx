@@ -4,7 +4,7 @@ identifier: "SON-ley-de-profesiones-del-estado-de-sonora-60305"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-18"
-last_updated: "2017-08-03"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE PROFESIONES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de marzo de 2008.
 
@@ -181,9 +181,21 @@ XXII.- Odontología;
 
 XXIII.- Sicología;
 
-XXIV.- Química; y
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 2018)</small>
 
-XXV.- Relaciones Industriales.
+XXIV.- Química;
+
+> <small>(REFORMADA, B.O. 26 DE ABRIL DE 2018)</small>
+
+XXV.- Relaciones Industriales;
+
+> <small>(ADICIONADA, B.O. 26 DE ABRIL DE 2018)</small>
+
+XXVI.- Terapia Física; y
+
+> <small>(ADICIONADA, B.O. 26 DE ABRIL DE 2018)</small>
+
+XXVII.- Patología y sus ramas.
 
 Además de las anteriores, requieren título para su ejercicio todas aquellas profesiones distintas a las señaladas en las fracciones anteriores, incluidas en los planes de estudio impartidos por las instituciones educativas de nivel medio superior y superior establecidas en la Entidad y que formen parte del Sistema Educativo Nacional, siempre que tales profesiones sean de las relacionadas con los conceptos de la salud, el patrimonio, la vida, la seguridad, la educación y la libertad de las personas.
 
@@ -616,3 +628,11 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 209, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE SONORA Y DE LA LEY DE PROFESIONES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
