@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2018-04-20"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1377,6 +1377,12 @@ Al responsable de homicidio calificado se le impondrá de veinticinco a treinta 
 
 A quien cometa homicidio con consentimiento válido del sujeto pasivo se le aplicará de tres a doce años de prisión y de treinta a ciento veinte días multa.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+###### Artículo 141
+
+a.-Al responsable de homicidio en contra de servidores públicos por motivo de sus funciones de seguridad pública, de investigación de delitos, de procuración o administración de justicia en materia penal, de ejecución de penas, de su cónyuge o de sus parientes en línea recta o colateral hasta el cuarto grado o con quien viva en concubinato, se le impondrá de treinta a sesenta años de prisión y de trescientos a seiscientos días multa.
+
 ### CAPÍTULO IV. FEMINICIDIO
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2013)</small>
@@ -1434,6 +1440,12 @@ En caso de tentativa de lesiones, cuando no fuere posible determinar el grado de
 ###### Artículo 150.
 
 Cuando las lesiones sean calificadas, se aumentará la punibilidad de la mitad del mínimo a la mitad del máximo de la que correspondería de acuerdo con los artículos anteriores.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2018)</small>
+
+###### Artículo 150
+
+a.- Al responsable de lesiones en contra de servidores públicos que desempeñen funciones de seguridad pública, de investigación de delitos, de procuración o administración de justicia en materia penal, de ejecución de penas, de su cónyuge o de sus parientes en línea recta o colateral hasta el cuarto grado o con quien viva en concubinato, se aumentará la punibilidad de la mitad del mínimo a la mitad del máximo de la que correspondería de acuerdo con los artículos anteriores.
 
 > <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 27 DE MARZO DE 2009)</small>
 
@@ -3273,7 +3285,7 @@ Si el delito a que se refiere el párrafo anterior, corresponde al robo de vehí
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, aplicación o ejecución de sanciones respecto de delitos, además de las penas a que se refiere este artículo, se le aplicará destitución de aquéllas y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual al de la pena de prisión.
+SI en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, aplicación o ejecución de sanciones respecto de delitos, además de las penas a que se refiere este artículo, se le aplicará destitución de aquéllas y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual al de la pena de prisión.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -3637,7 +3649,7 @@ Artículo Segundo.- Los derechos nacidos al amparo de la disposición a que se r
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 dos mil seis, excepción hecha de las modificaciones a la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, Ley Sobre el Sistema Estatal de Asistencia Social, Ley Orgánica del Ministerio Público del Estado de Guanajuato y Ley Orgánica del Poder Judicial del Estado de Guanajuato, que entrarán en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 12 DE JUNIO DE 2007.
 
@@ -3818,3 +3830,9 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 299, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 303, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 141-A DENTRO DEL CAPÍTULO I, DEL TÍTULO PRIMERO, DE LA SECCIÓN PRIMERA DEL LIBRO SEGUNDO Y 150-A AL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
