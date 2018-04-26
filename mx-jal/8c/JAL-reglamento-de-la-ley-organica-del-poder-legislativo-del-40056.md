@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2017-04-13"
+last_updated: "2018-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -1537,9 +1537,11 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 2. En lo relacionado al Órgano Técnico de Responsabilidades se estará a lo que señale la Ley, la Ley de Responsabilidades, la demás normatividad aplicable; así como los acuerdos emitidos por la Asamblea y los propios de la Comisión de Responsabilidades.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+
 ###### Artículo 126.
 
-1. Dentro del Órgano Técnico de Responsabilidades funcionarán dos áreas, una para atender los asuntos relativos a la responsabilidad política, juicios de procedencia penal de servidores públicos, y la otra que tendrá a su cargo lo relativo a las declaraciones de situación patrimonial de los servidores públicos, al frente de las cuales habrá un jefe de departamento nombrado de conformidad con la Ley y la Ley de Servidores Públicos del Estado de Jalisco y sus municipios.
+1. El Órgano Técnico de Responsabilidades atenderá los asuntos relativos a la responsabilidad política de los servidores públicos y estará integrado por su Director y la jefatura de departamento correspondiente; debiendo ser nombrado el titular de esta última de conformidad con la Ley y la Ley para Servidores Públicos del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 127.
 
@@ -1547,7 +1549,7 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 ###### Artículo 128.
 
-1. Las funciones del área de situación patrimonial de los servidores públicos, será el desahogo y cumplimiento de todo lo relativo al título sexto de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+(DEROGADO, P.O. 26 DE ABRIL DE 2018)
 
 ###### Artículo 129.
 
@@ -2502,3 +2504,21 @@ CUARTO. El personal de apoyo administrativo y técnico de la Contraloría del Co
 La Secretaría General del Congreso deberá proveer el espacio de oficina y el equipamiento necesario para el funcionamiento de la Contraloría, preferentemente de entre los bienes con que cuente el Congreso.
 
 QUINTO. El Contralor del Congreso deberá presentar un proyecto de reglamentación interna de la Contraloría a la Asamblea, con posterioridad a que quede aprobada la reforma legal del Sistema Estatal Anticorrupción.
+
+P.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26827/LXI/18 QUE REFORMA LOS ARTÍCULOS 55, 62-O Y 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, REFORMA EL ARTÍCULO 126 Y DEROGA EL 128 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y EXPIDE EL REGLAMENTO DEL ÓRGANO INTERNO DE CONTROL DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los asuntos que con motivo de esta reforma pasen del Órgano Técnico de Responsabilidades al Órgano Interno de Control, permanecerán en el último trámite que hubieren alcanzado hasta que se incorporen a la jefatura de declaraciones de dicho órgano.
+
+TERCERO. El traslado de las funciones de recibo, revisión y resguardo de las declaraciones de situación patrimonial de los servidores públicos obligados del Congreso del Estado, que con motivo de la presente reforma se trasladen al Órgano Interno de Control del Congreso del Estado, incluirá el traspaso de la Jefatura de departamento correspondiente y del personal de base y mobiliario asignado al Órgano Técnico de Responsabilidades destinado al desahogo de las referidas funciones, a fin de garantizar la recepción oportuna de las declaraciones previstas por la fracción VII del artículo 52 de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; lo anterior sin afectar el desarrollo de las atribuciones y funciones del Órgano Técnico de Responsabilidades.
+
+CUARTO. El archivo correspondiente a las declaraciones de situación patrimonial que con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, el decreto 26435/LXI/17 y del presente decreto, se encontraba bajo resguardo del Órgano Técnico de Responsabilidades, pasará a formar parte del archivo general del Congreso del Estado de Jalisco, quedando su contenido, bajo las reservas previstas por la legislación en materia de transparencia y protección de datos, únicamente a disposición de los órganos internos de control previstos por el artículo 50 de la Ley de Responsabilidades Políticas y Administrativas para efectos de realizar las funciones previstas por la fracción VIII del artículo 52 de la referida Ley.
+
+Para efectos de cumplimentar lo dispuesto en el párrafo anterior, el Órgano Técnico de Responsabilidades deberá realizar la entrega de dicho archivo, debidamente inventariado, a la Secretaría General del Congreso del Estado, previa notificación de dicho acervo y de sujetos obligados omisos en el cumplimiento, a los órganos internos de control responsables de recibir las declaraciones patrimoniales de los sujetos obligados de conformidad con las fracciones I, IV, VI, VII, VIII y X de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, abrogada mediante decreto 26435/LXI/17.
+
+QUINTO. El personal de base adscrito al Órgano Técnico de Responsabilidades y que con motivo de la presente reforma pase a formar parte del Órgano Interno de Control, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral.
+
+SEXTO. De conformidad al artículo segundo transitorio del decreto 26316, se autoriza el traslado de las funciones relativas a los procedimientos de responsabilidad administrativa y a la facultad de recibir las declaraciones patrimoniales correspondientes al Órgano Interno de Control, a partir de la entrada en vigor del presente decreto.
