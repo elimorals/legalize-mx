@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2018-03-28"
+last_updated: "2018-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2018.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -823,7 +823,7 @@ VII.- El comportamiento posterior del imputado en relación con el delito cometi
 
 VIII.- La perspectiva de género, y
 
-XI. Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
+IX. Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
 
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -1169,6 +1169,10 @@ La prescripción es personal y para ella basta el simple transcurso del tiempo s
 
 La prescripción producirá sus efectos aunque no la alegue como excepción el imputado, acusado y sentenciado. El órgano jurisdiccional la suplirá de oficio en todo caso, tan pronto como tenga conocimiento de ella, sea cual fuere el estado del procedimiento.
 
+> <small>(ADICIONADO, D.O. 26 DE ABRIL DE 2018)</small>
+
+Cuando se trate de delitos sexuales, si el sujeto pasivo es una persona menor de edad o no tuviere la capacidad de comprender el significado del hecho o resistirlo, la acción penal será imprescriptible.
+
 ### CAPÍTULO VII. PRESCRIPCIÓN DE LA ACCIÓN PENAL
 
 ###### ARTÍCULO 118.
@@ -1463,8 +1467,6 @@ Al prófugo no se le contará el tiempo que hubiere estado fuera del lugar de re
 
 ### CAPÍTULO II. QUEBRANTAMIENTO DE SANCIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 161.
@@ -1531,21 +1533,15 @@ II.- Cuando la conducta se lleve a cabo por servidores públicos o por personas 
 
 III.- Cuando la conducta se lleve a cabo utilizando equipo o vehículos oficiales, vehículos de servicio de transporte público o mercantil, o aquellos que por sus características sean similares a estos en apariencia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 (ADICIONANDO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2016)
 
 ### CAPÍTULO VI. DELITOS CONTRA EL FUNCIONAMIENTO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 (ADICIONANDO, D.O. 2 DE MAYO DE 2016)
 
 ARTÍCULO 165 QUINQUIES. Se sancionará de uno a cuatro años de prisión y de cien a seiscientos días-multa, a quien dolosa, ilícita y reiteradamente se abstenga de proporcionar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública la información que esté obligado a proporcionar en términos de la Ley del Sistema Estatal de Seguridad Pública, a pesar de ser requerido por el secretario ejecutivo, dentro de los treinta días naturales, salvo justificación fundada.
 
 Se impondrá además, la destitución e inhabilitación por un plazo igual al de la pena impuesta para desempeñarse en otro empleo, puesto, cargo o comisión en el ámbito estatal o municipal en el estado de Yucatán.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 (ADICIONANDO, D.O. 2 DE MAYO DE 2016)
 
@@ -1560,8 +1556,6 @@ III.- Inscriba o registre en la base de datos del personal de las instituciones 
 IV.- Asigne nombramiento oficial de policía, fiscal o perito a persona que no haya sido certificada y registrada en los términos de la Ley del Sistema Estatal de Seguridad Pública.
 
 Si el responsable es o hubiera sido servidor público de las instituciones de seguridad pública, se impondrá hasta una mitad más de la pena correspondiente, además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público del ámbito estatal o municipal en el estado de Yucatán en cualquier orden de gobierno, y en su caso, la destitución.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 (ADICIONANDO, D.O. 2 DE MAYO DE 2016)
 
@@ -1597,8 +1591,6 @@ Las mismas sanciones se impondrán al dueño y al encargado de la vigilancia y c
 
 Estas sanciones se impondrán independientemente de las que correspondan si resultare cometido otro delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 171.
@@ -1616,8 +1608,6 @@ Para efectos de este Código se considera que una persona se encuentra en estado
 Si este delito se comete por conductores de vehículos de transporte escolar o de servicio público de pasajeros, se duplicarán las sanciones señaladas en este artículo.
 
 A quien cometa delito establecido en este artículo se le aplicarán además las sanciones que se mencionan en el artículo 171 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1656,8 +1646,6 @@ A quien sin causa legítima rehusare prestar un servicio de interés público a 
 ###### ARTÍCULO 178.
 
 Se impondrá de tres meses a dos años de prisión y de diez a cuarenta días-multa, a quien sin causa legítima desobedeciere un mandato de la autoridad o se negare a comparecer ante la misma a rendir declaración cuando legalmente se le exija, habiéndose impuesto previamente alguno de los medios de apremio que la autoridad estime conducente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1733,8 +1721,6 @@ IV. (DEROGADA, D.O. 2 DE MAYO DE 2016)
 
 Los responsables de este ilícito responderán, solidaria y mancomunadamente con él o los autores del delito encubierto, de los daños causados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 En el caso de que la persona sea encubridor de un delito que merezca pena alternativa, se le impondrá de tres meses a dos años de prisión o de diez a cuarenta días-multa y de diez a cuarenta días de trabajo en favor de la comunidad.
@@ -1742,8 +1728,6 @@ En el caso de que la persona sea encubridor de un delito que merezca pena altern
 > <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 Este delito se perseguirá por querella de la parte ofendida, cuando el delito principal se persiga por la misma vía.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1757,13 +1741,9 @@ Se aplicará igual sanción a la establecida en el párrafo primero del artícul
 
 Lo dispuesto en la fracción II del artículo 186 de este Código no comprende, a quienes no puedan ser compelidos legítimamente por las autoridades a revelar secreto que se le hubiere confiado en el ejercicio de su profesión, encargo o empleo público y además a los parientes del imputado que se mencionan en el párrafo segundo de la fracción I del artículo 186, así como los que deban respeto, gratitud o tengan estrecha amistad con el propio imputado aunque lo oculten o impidan que se investigue el delito, siempre que no emplearen algún medio que por sí sea delictuoso.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
 
 ### CAPÍTULO VI. VIOLACIÓN A LAS ÓRDENES Y MEDIDAS DE PROTECCIÓN
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -1923,8 +1903,6 @@ No se sancionarán las conductas que tengan un fin de investigación o divulgaci
 
 ### CAPÍTULO II. CORRUPCIÓN DE MENORES E INCAPACES, TRATA DE MENORES Y PORNOGRAFÍA INFANTIL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 208.
@@ -1953,8 +1931,6 @@ Cuando no sea posible determinar con precisión la edad de la víctima, el juez 
 
 Si además de los delitos previstos en este Capítulo resultase cometido otro, se aplicarán las reglas de la acumulación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 209.
@@ -1969,8 +1945,6 @@ Al que emplee a menores de dieciocho años de edad o incapaces en cantinas, bare
 
 Para los efectos del párrafo anterior se considerará como empleado al menor de dieciocho años o incapaz, que por la sola obtención de alimentos, por comisión de cualquier índole o gratuitamente, preste sus servicios en tal lugar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 210.
@@ -1978,8 +1952,6 @@ Para los efectos del párrafo anterior se considerará como empleado al menor de
 A quien promueva, publicite, invite, facilite o gestione por cualquier medio, que persona o personas tengan relaciones sexuales con menores de dieciocho años de edad se le impondrá sanción de cinco a catorce años de prisión y de cien a quinientos días-multa.
 
 Las mismas sanciones se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas viajen al interior o exterior del territorio del Estado y que tenga como propósito, que dichas personas tengan relaciones sexuales con menores de dieciocho años de edad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -2035,8 +2007,6 @@ A quien cometa el delito de lenocinio se le impondrá de uno a siete años de pr
 
 Si el imputado fuera ascendiente, descendiente, cónyuge, concubinario, concubina, hermano, tutor, curador o tuviere cualquier otra autoridad sobre la persona explotada, la prisión será de dos a ocho años y de veinte a ciento sesenta días-multa. Además será privado de todo derecho de familia sobre la persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 215.
@@ -2052,8 +2022,6 @@ ARTÍCULO 216 BIS. (DEROGADO, D.O. 4 DE DICIEMBRE DE 2017)
 ARTÍCULO 216 TER. (DEROGADO, D.O. 4 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO IV. PROVOCACIÓN DE UN DELITO O APOLOGÍA DE ÉSTE O DE ALGÚN VICIO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 217.
 
@@ -2132,8 +2100,6 @@ Si se acredita que quien recibió al menor lo hizo para incorporarlo a su núcle
 Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial, la sanción se aumentará hasta el doble de la prevista en aquél.
 
 A quienes teniendo el ejercicio de los derechos de familia en relación con el ofendido cometan el delito a que se refiere este artículo, además de las sanciones señaladas se les privará de ese derecho.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -2259,8 +2225,6 @@ DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTÍAS DE LAS PERSONAS
 
 La amenaza consiste en hechos concretos capaces de producir un estado de inquietud o de inseguridad en el disfrute de los derechos protegidos por las leyes durante un lapso prolongado, en cuanto aquéllos impliquen el anuncio de un mal cierto y posible pero siempre futuro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 234.
@@ -2337,7 +2301,7 @@ IV.- Utilice medios técnicos de manera oculta, para escuchar u observar, transm
 
 Si la información obtenida se hace del conocimiento de terceros la sanción se incrementará en un tercio de la que le corresponda.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
 ### CAPÍTULO VI. DISCRIMINACIÓN
 
@@ -2391,13 +2355,9 @@ Si el agente pone en libertad a la persona plagiada espontáneamente, dentro de 
 
 ARTÍCULO 243 BIS 1. Este Capítulo, es aplicable en todo lo que no contravenga a lo dispuesto por la Ley General para prevenir y sancionar los Delitos en Materia de Secuestros, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE JULIO DE 2008)</small>
 
 ### CAPÍTULO I. VAGANCIA Y MALVIVENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPÍTULO II. DEL COMERCIO ILÍCITO DE BEBIDAS ALCOHÓLICAS Y LA EBRIEDAD
 
@@ -2443,13 +2403,9 @@ Se impondrá prisión de uno a seis años y de cincuenta a doscientos días-mult
 
 La misma sanción a que se refiere el párrafo anterior se aplicará a quien a sabiendas, permita, induzca, o auspicie la venta ilícita de bebidas alcohólicas así como a quien permita, auspicie, induzca, ordene o realice la venta de bebidas alcohólicas o las distribuya a las personas a que se refiere el párrafo siguiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 Las sanciones a que se refiere el primer párrafo de este artículo se duplicarán cuando el delito de venta o distribución ilícita de bebidas alcohólicas se cometa de manera reiterada, o la venta se realice a menores de dieciocho años aun cuando ésta se efectúe en los establecimientos y horarios autorizados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CUARTO PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2459,21 +2415,13 @@ Se considera ilícita la venta o distribución de bebidas alcohólicas:
 
 I. Cuando se realice sin contar con la autorización o determinación que para ello establezcan las leyes y reglamentos aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 II. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
 IV. Cuando se expendan o suministren para el consumo humano directo, bebidas que contengan alcohol etílico en proporción mayor al cincuenta y cinco por ciento en volumen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 246.
 
@@ -2915,13 +2863,9 @@ II. Estarán obligados a la reparación del daño por sus propios actos y por lo
 
 Se impondrá sanción de seis meses a cinco años de prisión, de cien a trescientos días-multa, estarán obligados a la reparación del daño causado por su acto u omisión y, suspensión de tres meses a un año, a los médicos que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, sin causa justificada y sin aviso oportuno, lo abandonen en su tratamiento o en casos urgentes, así como al facultativo que se negare sin causa justificada a prestar sus servicios a una persona que los necesitare.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 271.
 
 (DEROGADO, D.O. 7 DE DICIEMBRE DE 2010)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2938,8 +2882,6 @@ III. Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cu
 La misma sanción se impondrá a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente recetada por otra que cause daño o sea evidentemente inapropiada al padecimiento para el cual se prescribió.
 
 ### CAPÍTULO III. CALUMNIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3097,7 +3039,7 @@ En el caso de que se actualicen otros delitos con motivo de las conductas a que 
 
 ### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO [N.DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
 
 ###### ARTÍCULO 285.
 
@@ -3118,8 +3060,6 @@ V.- Sin ser testigo, perito o intérprete examinado por la autoridad, faltare a 
 Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de imputado en una investigación o proceso penal, y
 
 VI.- Siendo autoridad, rinda a otra informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3231,8 +3171,6 @@ Cuando las injurias fueren recíprocas el Juez podrá, según las circunstancias
 
 La difamación consiste en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra o afecte su reputación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 El delito de difamación se sancionará con prisión de tres días a dos años o de veinte a doscientos días-multa.
@@ -3261,8 +3199,6 @@ III. Siendo el autor de un escrito presentado o de un discurso pronunciado en lo
 
 Lo prevenido en la fracción III de este artículo no comprende el caso en que, cuando la imputación sea calumniosa, se extienda a personas extrañas al litigio o envuelva hechos que no se relacionan con el negocio de que se trata. Si así fuere, se aplicarán las sanciones correspondientes a los delitos de difamación o calumnia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 298.
@@ -3289,8 +3225,6 @@ II. Presente denuncias o querellas calumniosas, entendiéndose por tales, aquél
 
 III. Para hacer que un inocente aparezca como imputado de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 Aunque se acredite la inocencia del calumniado o que son falsos los hechos en que se apoya la denuncia o querella, no se castigará al imputado si probare plenamente haber tenido alguna justificación bastante para incurrir en error, engaño o violencia física o moral para ello.
@@ -3302,8 +3236,6 @@ Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los
 Cuando haya pendiente un procedimiento relacionado con un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que el juicio termine. En este caso, la prescripción comenzará a correr cuando éste concluya.
 
 ### CAPÍTULO II. ABUSO DE CONFIANZA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3336,8 +3268,6 @@ No servirá de excusa de la difamación o de la calumnia, que el hecho imputado 
 ###### ARTÍCULO 306.
 
 Comete el delito de chantaje el que para obligar a otro a hacer, tolerar o dejar de hacer alguna cosa contra sus propios bienes jurídicos o a entregarle dinero o cualquier otro objeto, amenace con difamarlo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3383,11 +3313,11 @@ A quien ejecute en una persona, sin su consentimiento, un acto lascivo o la obli
 
 Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 26 DE ABRIL DE 2018)</small>
 
 ###### ARTÍCULO 310.
 
-A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de cinco a diez años de prisión y de doscientos a cuatrocientos días-multa. Si se hiciere uso de la violencia física o moral, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
+A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a doce años de prisión y de cuatrocientos a ochocientos días-multa. Si se hiciere uso de la violencia física o moral, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
 
 ### CAPÍTULO VII. ROBO
 
@@ -3420,8 +3350,6 @@ La violación entre cónyuges o entre concubina o concubinario únicamente se pe
 ###### Artículo 315.
 
 Se equipara a la violación y se sancionará con prisión de ocho a veinticinco años, y de doscientos a quinientos días-multa, a quien sin violencia y con fines lascivos tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona menor de quince años de edad o a persona privada de razón o sentido o cuando por enfermedad o cualquier otra causa no pudiera resistir.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -3500,8 +3428,6 @@ II. Al depositario designado por las autoridades competentes, que disponga de la
 > <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
 
 III. A quien haga aparecer como suyo un depósito de garantía económica de un imputado y no le corresponda la propiedad de dicho depósito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -3595,8 +3521,6 @@ El delito de fraude se sancionará de acuerdo con las siguientes reglas:
 
 I. Cuando el valor de lo defraudado no exceda de cien unidades de medida y actualización, se impondrá de seis meses a un año seis meses de prisión o de cuarenta a cien días-multa y de cuarenta a cien días de trabajo en favor de la comunidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 II. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
@@ -3640,8 +3564,6 @@ Se impondrá prisión de tres a ocho años y de cien a quinientos días-multa, a
 Se considera lucro excesivo la obtención de ganancias superiores a la tasa de interés bancaria más alta vigente el día en que se celebre la operación.
 
 Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer párrafo de este artículo serán hasta de una mitad del mínimo y máximo que correspondiere imponer.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3709,8 +3631,6 @@ IV. Cuando exceda de ochocientas unidades de medida y actualización, la sanció
 
 Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 Si ésta no fuere estimable en dinero o por su naturaleza no fuere posible fijar su valor o cantidad, se impondrá como sanción de seis meses a seis años de prisión y de veinte a cien días-multa.
@@ -3740,8 +3660,6 @@ V. Se realice en lugar cerrado.
 VI. Se lleve a cabo durante un incendio, naufragio, inundación u otra calamidad pública, aprovechándose del desorden o confusión que producen, o la consternación que una desgracia privada causa al ofendido o su familia;
 
 VII. Se realice de noche, llevando armas, con fractura, excavación o escalamiento sean los ladrones dos o más;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -3903,13 +3821,9 @@ En caso de tratarse de robo de ganado, sea mayor o menor, o de aves de corral, l
 
 ### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -3939,8 +3853,6 @@ Para la aplicación de las sanciones establecidas en este precepto y en los sigu
 
 Cuando el dueño de una cosa la incendie para defraudar a sus acreedores, para perjudicar a un tercero o para exigir indemnización por el incendio, se le impondrán las sanciones expresadas en el artículo que precede y además de las que correspondan al fraude en su respectivo grado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 350.
@@ -3949,11 +3861,7 @@ Cuando por cualquier medio distinto de los anteriores, se causen daños, destruc
 
 En los casos de daño, destrucción o deterioro de cosa ajena o de cosa propia en perjuicio de tercero causado por animales de cualquier especie, se impondrán las sanciones prevenidas en este artículo, a los que tengan bajo su vigilancia y cuidado a tales animales, sean o no los dueños, siempre que haya dolo. Si los daños se cometieren por culpa del activo, se aplicarán las sanciones previstas para los delitos culposos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(DEROGADO TERCER PÁRRAFO, D.O. 2 DE MAYO DE 2013)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -4029,8 +3937,6 @@ Igualmente, se requerirá querella para la persecución de terceros que hubiesen
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LOS ANIMALES DOMÉSTICOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2013)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
@@ -4048,8 +3954,6 @@ ARTÍCULO 352 BIS.- En el supuesto previsto en el artículo que antecede, no con
 ###### ARTÍCULO 353.
 
 A quien encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera y no diere aviso inmediato a la autoridad u omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrá de uno a seis meses de prisión o de diez a cien días-multa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -4331,15 +4235,11 @@ V. Cuando se practique con el consentimiento de la madre y del padre en su caso 
 
 A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación, se le impondrá prisión de treinta a cuarenta años y será privado de todo derecho de familia sobre los bienes de aquella persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 372 de este Código, sin menoscabo de observar alguna circunstancia que agrave o atenúe las sanciones a que se refieren los capítulos III y IV anteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
 
 ### CAPÍTULO ÚNICO
 
 ### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
@@ -4425,15 +4325,11 @@ En cualquiera de los casos señalados en las fracciones anteriores, el juez podr
 
 Lo dispuesto en el artículo anterior se aplicará sin perjuicio de las medidas y sanciones administrativas que establezcan las leyes correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 406.
 
 Para efectos de este Capítulo, se entenderá por animal doméstico a todo aquel que ha sido criado y condicionado para acompañar al ser humano en su convivencia diaria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
@@ -4455,8 +4351,6 @@ VI.- Realice actos de zoofilia con animales domésticos.
 
 Siempre que existan actos de maltrato o crueldad hacia animales domésticos, la autoridad ministerial o judicial podrá decretar el aseguramiento temporal del animal doméstico maltratado, así como de todos aquellos que pudiera tener bajo su cuidado o resguardo el sujeto activo del delito, en términos de lo dispuesto por el artículo 61 Bis de éste Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 408.
@@ -4464,8 +4358,6 @@ Siempre que existan actos de maltrato o crueldad hacia animales domésticos, la 
 A quien cometa actos de maltrato o crueldad en contra de animales domésticos, que no pongan en peligro la vida éste, se le impondrá una pena de 3 meses a 1 año de prisión y de cincuenta a cien días-multa.
 
 Si los actos de maltrato o crueldad ponen en peligro la vida del animal doméstico; le provocan una incapacidad parcial o total permanente; disminuyen alguna de sus facultades, o el normal funcionamiento de un órgano o miembro, la pena señalada se incrementará hasta en una mitad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
@@ -4809,7 +4701,7 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 
 D.O. 4 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 553/2017 POR EL QUE SE EMITE LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 553/2017 POR EL QUE SE EMITE LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN".]
 
 Primero. Entrada en vigor
 
@@ -4821,11 +4713,11 @@ A partir de la entrada en vigor de este decreto, quedará abrogada la Ley para P
 
 Tercero. Instalación de la comisión intersecretarial
 
-La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán se instalará en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+La Comisión Intersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán se instalará en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
 Cuarto. Expedición del reglamento interno
 
-La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán deberá expedir su reglamento interno en un plazo de ciento ochenta días naturales, contado a partir de su instalación.
+La Comisión Intersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán deberá expedir su reglamento interno en un plazo de ciento ochenta días naturales, contado a partir de su instalación.
 
 D.O. 14 DE FEBRERO DE 2018.
 
@@ -4854,3 +4746,11 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Derogación tácita
 
 Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 26 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 611/2018 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ABUSO SEXUAL”.]
+
+Artículo Único.- Entrada en vigor
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
