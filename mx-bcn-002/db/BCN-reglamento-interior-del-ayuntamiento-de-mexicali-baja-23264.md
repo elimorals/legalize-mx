@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2015-06-19"
+last_updated: "2018-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -47,7 +47,9 @@ SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
 ACUERDO DE CREACION DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI
 
-EXPOSICION DE MOTIVOS...
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Por lo anteriormente expuesto y fundado y en nuestra calidad de integrantes de este Ayuntamiento sometemos a consideración el siguiente Acuerdo de cabildo en el siguiente:
 
@@ -67,11 +69,11 @@ REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI
 
 Objeto.- El presente reglamento tiene por objeto regular las funciones y obligaciones de los Munícipes así como la organización y funcionamiento interior del órgano de gobierno municipal, de conformidad con lo dispuesto por la Ley de Régimen Municipal para el Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 2.
 
-Del Órgano de Gobierno Municipal.- El Ayuntamiento es el órgano de gobierno del Municipio y se integrará por un Presidente Municipal, un Síndico Procurador Municipal, un Síndico Social, y el número de Regidores que conforme a las disposiciones legales aplicables corresponda.
+Del Órgano de Gobierno Municipal.- El Ayuntamiento es el órgano de gobierno del Municipio y se integrará por un Presidente Municipal, un Síndico Procurador, y el número de Regidores que conforme a las disposiciones legales aplicables corresponda.
 
 ###### ARTICULO 3.
 
@@ -107,9 +109,9 @@ VIII. Mantener actualizados los valores catastrales, auxiliándose de la comisi�
 
 IX. Crear organismos descentralizados, fideicomisos, empresas públicas municipales, de participación municipal y participar en empresas privadas, que tengan como objetivo mejorar la atención de los servicios públicos ó la promoción del desarrollo económico o social;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2018)</small>
 
-X.- Aprobar con base en las contribuciones y demás arbitrios que determine anualmente la legislatura, sus Presupuestos de Egresos. Estos presupuestos no podrán contemplar bajo ninguna causa en su elaboración original, como tampoco eventuales modificaciones, la destinación de recursos para cubrir ningún tipo de compensaciones extraordinarias, pago de primas por conclusión de mandato, o estímulo económico alguno, que no sea el exclusivamente definido en la ley como la remuneración correspondiente al Presidente Municipal, Síndico Procurador, Síndico Social y Regidores. Los demás servidores públicos se estarán a lo dispuesto por la Ley del Servicio Civil y demás leyes aplicables.
+X. Aprobar, con base en las contribuciones y demás arbitrios que determine anualmente la Legislatura, sus Presupuestos de Egresos. Estos presupuestos no podrán contemplar bajo ninguna causa en su elaboración original, como tampoco eventuales modificaciones, la destinación de recursos para cubrir ningún tipo de compensaciones extraordinarias, pago de primas por conclusión de mandato, o estímulo económico alguno, que no sea el exclusivamente definido en la ley como la remuneración correspondiente al Presidente Municipal, Síndico Procurador y Regidores. Los demás servidores públicos se estarán a lo dispuesto por la Ley del Servicio Civil y demás leyes aplicables;
 
 XI. Solicitar la expropiación de bienes al Ejecutivo del Estado;
 
@@ -165,7 +167,13 @@ VII.- Cumplir y hacer cumplir las disposiciones normativas derivadas de las leye
 
 VIII.- Ejecutar los planes y programas municipales, implementando los controles presupuestales correspondientes a fin de formular la cuenta pública que será sometida al Congreso del Estado, y
 
-IX.- Todas aquellas que el Ayuntamiento le confiera en los acuerdos específicos que adopte.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2018)</small>
+
+IX.- Otorgar en compañía del Síndico Procurador y el Regidor Coordinador de la Comisión de Gobernación y Legislación el nombramiento de Comisario Social Honorario a los ciudadanos que hayan sido aprobados para ejercer el cargo, de conformidad con lo previsto en el Capítulo Primero del Título Sexto de la Ley de Régimen Municipal para el Estado de Baja California; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ABRIL DE 2018)</small>
+
+X.- Todas aquellas que el Ayuntamiento le confiera en los acuerdos específicos que adopte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -187,29 +195,7 @@ V.- Participar en las sesiones de Cabildo donde ejercerá derecho de voz y voto;
 
 VI.- Las demás que estipulen las leyes y reglamentos.
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2014)</small>
-
-###### ARTICULO 8 Bis.
-
-Atribuciones del Síndico Social.- El Síndico Social tendrá a su cargo la función de procuración de la defensa de los intereses de los habitantes del municipio, por lo que tendrá las siguientes atribuciones:
-
-I.- Participar en la formulación y ejecución de los programas municipales de desarrollo social, vigilando su cabal cumplimiento;
-
-II.- Participar en los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia y hacer públicos sus resultados;
-
-III.- Proponer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
-
-IV.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, con relación a la prestación de servicios públicos municipales;
-
-V.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento;
-
-VI.- Nombrar y remover al personal a su cargo;
-
-VII.- Participar en las sesiones de Cabildo donde ejercerá derecho de voz y voto;
-
-VIII.- Participar en todas las sesiones de las Comisiones con derecho a voz y no a voto; y
-
-IX.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte; así como las demás que estipulen las leyes y reglamentos.
+ARTICULO 8 BIS.- (DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -259,21 +245,21 @@ VI.- Presentar su declaración sobre situación patrimonial, conforme lo estable
 
 #### SECCION III. DE LAS LICENCIAS, AUSENCIAS, INASISTENCIAS Y EXCUSAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 11.
 
-Las licencias del Presidente, Síndico Procurador, Síndico Social y Regidores para separarse del cargo, se otorgarán por el tiempo que se soliciten conforme a lo dispuesto en esta sección.
+Las licencias del Presidente, Síndico Procurador y Regidores para separarse del cargo, se otorgarán por el tiempo que se soliciten conforme a lo dispuesto en esta sección.
 
 ###### ARTICULO 12.
 
 De las licencias del Presidente Municipal.- Las licencias del Presidente Municipal de hasta treinta días hábiles, serán suplidas por el Regidor que acuerde el Ayuntamiento, a propuesta de aquel, en caso de exceder dicho término se llamará al suplente.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 13.
 
-De las licencias del Síndico Procurador y Síndico Social.- Las licencias que soliciten el Síndico Procurador o el Síndico Social, serán cubiertas por sus respectivos suplentes, cuando éstas excedan de treinta días.
+De las licencias del Síndico Procurador.- Las licencias que solicite el Síndico Procurador, serán cubiertas por su suplente cuando éstas excedan de treinta días.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2011)</small>
 
@@ -305,15 +291,15 @@ Si algún miembro del Ayuntamiento conociera de alguna razón que ocasionare su 
 
 En caso de ausencia definitiva de algún integrante del ayuntamiento por motivo de fallecimiento, por haber sido declarado en estado de interdicción o incurra en algunos de los supuestos contemplados por la ley, se llamará a su suplente para que termine el periodo constitucional para el cual fue electo.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
-Si en el caso del Presidente Municipal, del Síndico Procurador o del Síndico Social faltase también el suplente para cubrir la vacante que corresponda, la Legislatura a propuesta del Ejecutivo del Estado designará los sustitutos o en su caso, al Consejo Municipal Sustituto. En el caso de los Regidores, se llevará a cabo este procedimiento solamente si se pone en riesgo el Quórum mínimo para sesionar y que los acuerdos sean válidos.
+Si faltase el suplente del Presidente Municipal o del Síndico Procurador, para cubrir la vacante que corresponda, la Legislatura a propuesta del Ejecutivo del Estado designará los sustitutos o en su caso, al Consejo Municipal sustituto. En el caso de los Regidores, se llevará a cabo este procedimiento solamente si se pone en riesgo el Quórum mínimo para sesionar y que los acuerdos sean válidos.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 16.
 
-De las faltas de los integrantes del Ayuntamiento.- El Síndico Procurador, Síndico Social o los Regidores que sin aviso y sin causa justificada falten a cualquier sesión de Cabildo o de Comisión, serán sancionados con una multa equivalente a un día de la retribución que reciben por el desempeño de su función.
+De las faltas de los integrantes del Ayuntamiento.- El Síndico Procurador o los Regidores que sin aviso y sin causa justificada falten a cualquier sesión de Cabildo o de Comisión, serán sancionados con una multa equivalente a un día de la retribución que reciben por el desempeño de su función.
 
 ###### ARTICULO 17.
 
@@ -453,11 +439,11 @@ A las sesiones reservadas sólo asistirán los integrantes del Cabildo, su Secre
 
 Objeto de la convocatoria.- Para proceder a la celebración de las sesiones de Cabildo, deberá convocarse por escrito a los integrantes del Ayuntamiento, con el objeto de darles a conocer la propuesta del orden del día, fecha y hora en que deberá celebrarse la sesión, y en su caso, el lugar que haya sido declarado recinto oficial para tal efecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 30.
 
-Autoridad Convocante.- Para celebrar sesiones ordinarias, extraordinarias, o solemnes de Cabildo, a petición del Presidente Municipal, o de la Mayoría de los integrantes del Ayuntamiento, la convocatoria será expedida por el Secretario, y notificada al Síndico Procurador, al Síndico Social y Regidores.
+Autoridad Convocante.- Para celebrar sesiones ordinarias, extraordinarias o solemnes de Cabildo, a petición del Presidente Municipal o de la mayoría de los integrantes del Ayuntamiento, la convocatoria será expedida por el Secretario y notificada al Presidente Municipal, Síndico Procurador y Regidores.
 
 Para la celebración de sesiones extraordinarias a solicitud de la mayoría de los integrantes del Ayuntamiento, deberá remitirse al Secretario la solicitud debidamente firmada por todos los interesados.
 
@@ -571,9 +557,9 @@ Derecho de iniciar propuestas de acuerdo.- El derecho de iniciar propuestas de a
 
 Los particulares podrán presentar propuestas de acuerdo, por sí, o por conducto de las organizaciones de que formen parte, a través de la Secretaria del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
-Las propuestas que impliquen la modificación, derogación, abrogación, o adición a la estructura administrativa de la Sindicatura Municipal, o de la Sindicatura Social, así como a las facultades y atribuciones que para estas se establecen en el presente Reglamento, solo podrán aprobarse por mayoría calificada de los integrantes del Ayuntamiento.
+Las propuestas que impliquen la modificación, derogación, abrogación, o adición a la estructura administrativa de la Sindicatura Municipal y a las facultades y atribuciones que para ella se establecen en el Reglamento, sólo podrán aprobarse por mayoría calificada de los integrantes del Ayuntamiento.
 
 ###### ARTICULO 42.
 
@@ -977,7 +963,13 @@ II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para promover 
 
 III.- Dictaminar sobre las reformas a la Constitución Política del Estado Libre y Soberano de Baja California que sean propuestas por el Congreso del Estado;
 
-IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2018)</small>
+
+IV.- Otorgar a través de su Regidor Coordinador, en compañía del Presidente Municipal y Síndico Procurador los nombramientos de Comisario Social Honorario a los ciudadanos que hayan sido aprobados para ejercer el cargo, de conformidad con lo previsto en el Capítulo Primero del Título Sexto de la Ley del Régimen Municipal para el Estado de Baja California, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ABRIL DE 2018)</small>
+
+V.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
 ###### ARTICULO 79.
 
@@ -1263,9 +1255,9 @@ Dispensa de trámite ante las comisiones.- Sólo podrá dispensarse de ser turna
 
 Sesiones de Comisión.- En lo procedente, las reglas de conducción; clasificación; convocatoria; diferimiento, suspensión o receso; acta; análisis y discusión de los asuntos; previstas en el presente Reglamento para las sesiones de Cabildo, serán aplicables a las sesiones de comisión.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
-Las convocatorias para sesiones de comisión se notificarán a todos los Regidores, Síndico Procurador, Síndico Social, y al Departamento de Atención a Cabildo de la Secretaría del Ayuntamiento, acompañadas de copia simple de las propuestas que sean incluidas en las propuestas del orden del día para ser dictaminadas.
+Las convocatorias para sesiones de comisión se notificarán a todos los Regidores, Síndico Procurador y al Departamento de Atención a Cabildo de la Secretaría del Ayuntamiento, acompañadas de copia simple o por medios electrónicos de las propuestas que sean incluidas en el orden del día para ser dictaminadas.
 
 En las sesiones de las comisiones del Ayuntamiento además de los integrantes de las mismas, podrán participar las siguientes personas, pero sólo con derecho a voz:
 
@@ -1335,9 +1327,9 @@ VI.- Puntos de acuerdo.
 
 Los dictámenes de comisión se emitirán por duplicado. Un ejemplar se turnará al Presidente Municipal, o en su caso se presentará en la Secretaría del Ayuntamiento, en los términos del artículo 97 del presente Reglamento. El otro ejemplar será el que se presente en la sesión de Cabildo en la que vaya a discutirse y resolverse.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
-El Secretario de la comisión dictaminadora distribuirá copia simple de los dictámenes aprobados por la comisión, a todos los Regidores, al Síndico Procurador, y al Síndico Social, dentro de las veinticuatro horas siguientes a la conclusión de la sesión en la que hubieren sido aprobados.
+El secretario de la comisión dictaminadora distribuirá copia simple o por medios electrónicos los dictámenes aprobados por la comisión, a todos los Regidores y al Síndico Procurador, dentro de las setenta y dos horas siguientes a la conclusión de la sesión en la que hubieren sido aprobados.
 
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -1574,3 +1566,11 @@ P.O. 22 DE AGOSTO DE 2014.
 P.O. 19 DE JUNIO DE 2015.
 
 ÚNICO: LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 27 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI".]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
