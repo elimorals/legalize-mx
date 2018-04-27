@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2018-04-24"
+last_updated: "2018-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -3393,6 +3393,8 @@ Este delito se perseguirá de oficio.
 
 ### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
+
 ### CAPITULO VIII. DE LA OMISION DE LAS ORDENES DE PROTECCION
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
@@ -3565,17 +3567,19 @@ El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las carac
 
 Se impondrá prisión de uno a cuatro años y suspensión hasta de tres años para ejercer la abogacía, en su caso, y privación definitiva si reincidiere, a quien:
 
-I.- Abandone la defensa o negocio, sin motivo justificado;
+I. Habiendo sido nombrado mandatario en juicio o aceptado el cargo de defensor o asesor jurídico de víctima o el ofendido en un procedimiento penal, se concrete a aceptar el cargo sin realizar gestiones, trámites o promociones relativas a su representación, asesoría o cargo conforme a las leyes procesales aplicables;
 
-II.- Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocio (sic) conexos o acepte el patrocinio de alguno y admita después de la parte contraria en un mismo negocio;
+II. Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos o acepte el patrocinio de alguno y admita después de la parte contraria en un mismo negocio;
 
-III.- A sabiendas alegue hechos falsos o se apoye en leyes inexistentes o derogadas;
+III. A sabiendas alegue hechos falsos o se apoye en leyes inexistentes o normas derogadas;
 
-IV.- Usando cualquier recurso, incidente o medio notoriamente improcedente o ilegal procure dilatar o perder un juicio;
+IV. A sabiendas y fundándose en documentos falsos o sin valor o en testigos falsos ejercite acción u oponga excepciones en contra de otro, ante las autoridades judiciales o administrativas, o
 
-V.- Pida términos para probar lo que notoriamente no puede probar o no ha de aprovechar a su parte, promueva artículos o incidentes que motiven la suspensión del juicio o recursos manifiestamente improcedentes a que de cualquier otra manera procure dilataciones que sean notoriamente ilegales, o
+V. Simule un acto jurídico o un acto o escrito judicial, o altere elementos de prueba y los presente en juicio, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley.
 
-VI.- Como defensor sea particular o de oficio sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del Artículo 20 de la Constitución, sin promover más pruebas ni dirigir al inculpado en su defensa.
+Si es defensor público o asesor jurídico público, se le inhabilitará hasta por tres años para desempeñar otro empleo, cargo o comisión públicos.
+
+Para efectos de la suspensión e inhabilitación señaladas en el párrafo anterior, el juez de la causa solicitará a la Dirección de Profesiones del Estado, suspenda la inscripción del profesionista al Registro Estatal de Profesiones, por el tiempo que dure la pena que en su caso haya sido impuesta.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -4450,3 +4454,11 @@ P.O. 24 DE ABRIL DE 2018.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 157 POR EL QUE SE REFORMA EL ARTÍCULO 235 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
