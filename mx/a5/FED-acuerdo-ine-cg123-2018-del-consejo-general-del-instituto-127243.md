@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg123-2018-del-consejo-general-del-instituto-127243
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-03-22"
-last_updated: "2018-03-22"
+last_updated: "2018-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127243&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-02-28"
 ---
 # ACUERDO INE/CG123/2018 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL QUE CONTIENE LOS CRITERIOS ESPECIFICOS PARA LA DEFINICION DE FORMATOS Y REALIZACION DE LOS TRES DEBATES ENTRE LAS Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPUBLICA DURANTE EL PROCESO ELECTORAL FEDERAL 2017-2018
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 27 DE ABRIL DE 2018, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL QUE CONTIENE LOS CRITERIOS ESPECÍFICOS PARA LA DEFINICIÓN DE FORMATOS Y REALIZACIÓN DE LOS TRES DEBATES ENTRE LAS Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPÚBLICA DURANTE EL PROCESO ELECTORAL FEDERAL 2017-2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2018.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 22 de marzo de 2018.
 
@@ -33,7 +35,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL QUE CONTIENE LOS CR
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -46,6 +48,8 @@ ACUERDO
 PRIMERO. Se aprueban los siguientes temas y subtemas para los debates presidenciales que organizara el Instituto Nacional Electoral:
 
 > <small>[N. DE E. VÉASE TEMAS Y SUBTEMAS EN EL D.O.F. DE 22 DE MARZO DE 2018, PÁGINA 18.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A TEMAS Y SUBTEMAS, EN EL D.O.F. DE 27 DE ABRIL DE 2018, PÁGINA 33.]</small>
 
 SEGUNDO. Se aprueba la duración para los tres debates presidenciales, la cual será de entre 90 y 120 minutos por debate, dependiendo del formato final de cada uno y el número de participantes registrados.
 
@@ -104,3 +108,27 @@ Se aprobó en lo particular retirar el Considerando 23, por nueve votos a favor 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 > <small>[N. DE E. VÉASE ANEXO EN EL D.O.F. DE 22 DE MARZO DE 2018, PÁGINAS DE LA 20 A LA 28.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE ABRIL DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS DIVERSOS INE/CG383/2018 E INE/CG562/2017 CON EL PROPÓSITO DE AJUSTAR EL FORMATO ESPECÍFICO DEL PRIMER DEBATE Y EL CAMBIO DE HORARIO DEL SEGUNDO DEBATE, ADEMÁS SE APRUEBAN LOS FORMATOS ESPECÍFICOS DEL SEGUNDO Y DEL TERCER DEBATE ENTRE LA CANDIDATA Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPÚBLICA, CORRESPONDIENTES AL PROCESO ELECTORAL FEDERAL 2017-2018" QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se modifica el Acuerdo identificado con la clave INE/CG383/2018 a efecto de incluir a un candidato en el formato específico del Primer Debate entre la candidata y los candidatos a la Presidencia de la República, conforme a lo establecido en el presente Acuerdo y en el Anexo I. Ratificándose, lo que no fue materia de modificación.
+
+SEGUNDO. Se modifica el Acuerdo identificado con la clave INE/CG562/2017 a efecto de ajustar el horario para el inicio del Segundo Debate presidencial a las 21:30 horas (horario del centro) del 20 de mayo de 2018.
+
+TERCERO. Se aprueban los formatos específicos del Segundo y del Tercer Debate entre la candidata y los candidatos a la Presidencia de la República, correspondientes al Proceso Electoral Federal 2017-2018, conforme a lo establecido en los considerandos del presente Acuerdo y en los Anexos II, III y IV.
+
+CUARTO. De conformidad con la previsión del considerando 11 del Acuerdo INE/CG123/2018, que contiene los criterios específicos para la definición de formatos y realización de los tres debates entre las y los candidatos a la Presidencia de la República durante el Proceso Electoral Federal 2017-2018, se agrega el subtema “Salud” al Tercer bloque del formato específico del Tercer Debate.
+
+QUINTO. Se instruye a la Coordinación Nacional de Comunicación Social para que, junto con la Dirección Ejecutiva de Administración, realice las gestiones necesarias para materializar la realización, producción y organización de los debates, conforme al formato y reglas aprobadas por este Consejo General.
+
+SEXTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SÉPTIMO. Se instruye al Secretario Ejecutivo del Instituto a realizar las gestiones necesarias para la publicación del contenido del presente Acuerdo en el Diario Oficial de la Federación y en la página de Internet del Instituto Nacional Electoral.
+
+Los anexos podrán ser consultados mediante la liga: https://www.ine.mx/sesion-extraordinaria-del-consejo-general-16-abril-2018/
