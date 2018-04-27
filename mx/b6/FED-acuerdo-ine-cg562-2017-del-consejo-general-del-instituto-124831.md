@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg562-2017-del-consejo-general-del-instituto-124831
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-12-15"
-last_updated: "2017-12-15"
+last_updated: "2018-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124831&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-11-22"
 ---
 # ACUERDO INE/CG562/2017 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LAS REGLAS BASICAS PARA LA REALIZACION DE LOS DEBATES ENTRE LAS Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPUBLICA DURANTE EL PROCESO ELECTORAL FEDERAL 2017-2018, ASI COMO LOS CRITERIOS OBJETIVOS PARA LA SELECCION DE LAS Y LOS MODERADORES
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. 27 DE ABRIL DE 2018, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LAS REGLAS BÁSICAS PARA LA REALIZACIÓN DE LOS DEBATES ENTRE LAS Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPÚBLICA DURANTE EL PROCESO ELECTORAL FEDERAL 2017-2018, ASÍ COMO LOS CRITERIOS OBJETIVOS PARA LA SELECCIÓN DE LAS Y LOS MODERADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2018.
 
 Acuerdo publicado en la Cuarta Sección al Número 13 del Diario Oficial de la Federación, el viernes 15 de diciembre de 2017.
 
@@ -31,7 +33,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITE
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -146,3 +148,31 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 Los anexos podrán ser consultados mediante la liga:
 
 http://www.ine.mx/sesion-ordinaria-del-consejo-general-22-noviembre-2017/)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE ABRIL DE 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS DIVERSOS INE/CG383/2018 E INE/CG562/2017 CON EL PROPÓSITO DE AJUSTAR EL FORMATO ESPECÍFICO DEL PRIMER DEBATE Y EL CAMBIO DE HORARIO DEL SEGUNDO DEBATE, ADEMÁS SE APRUEBAN LOS FORMATOS ESPECÍFICOS DEL SEGUNDO Y DEL TERCER DEBATE ENTRE LA CANDIDATA Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPÚBLICA, CORRESPONDIENTES AL PROCESO ELECTORAL FEDERAL 2017-2018.]</small>
+
+PRIMERO. Se modifica el Acuerdo identificado con la clave INE/CG383/2018 a efecto de incluir a un candidato en el formato específico del Primer Debate entre la candidata y los candidatos a la Presidencia de la República, conforme a lo establecido en el presente Acuerdo y en el Anexo I. Ratificándose, lo que no fue materia de modificación.
+
+SEGUNDO. Se modifica el Acuerdo identificado con la clave INE/CG562/2017 a efecto de ajustar el horario para el inicio del Segundo Debate presidencial a las 21:30 horas (horario del centro) del 20 de mayo de 2018.
+
+TERCERO. Se aprueban los formatos específicos del Segundo y del Tercer Debate entre la candidata y los candidatos a la Presidencia de la República, correspondientes al Proceso Electoral Federal 2017-2018, conforme a lo establecido en los considerandos del presente Acuerdo y en los Anexos II, III y IV.
+
+CUARTO. De conformidad con la previsión del considerando 11 del Acuerdo INE/CG123/2018, que contiene los criterios específicos para la definición de formatos y realización de los tres debates entre las y los candidatos a la Presidencia de la República durante el Proceso Electoral Federal 2017-2018, se agrega el subtema “Salud” al Tercer bloque del formato específico del Tercer Debate.
+
+QUINTO. Se instruye a la Coordinación Nacional de Comunicación Social para que, junto con la Dirección Ejecutiva de Administración, realice las gestiones necesarias para materializar la realización, producción y organización de los debates, conforme al formato y reglas aprobadas por este Consejo General.
+
+SEXTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SÉPTIMO. Se instruye al Secretario Ejecutivo del Instituto a realizar las gestiones necesarias para la publicación del contenido del presente Acuerdo en el Diario Oficial de la Federación y en la página de Internet del Instituto Nacional Electoral.
+
+El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Consejo General celebrada el 16 de abril de 2018, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Doctora Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+Se aprobó en lo particular impactar en el Proyecto de Acuerdo originalmente circulado, el Engrose presentado por la Comisión Temporal encargada de Coordinar la realización de Debates en la Elección Presidencial, así como excluir el Bloque A para el Segundo Debate, por nueve votos a favor de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Doctora Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestro Jaime Rivera Velázquez, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y dos votos en contra de los Consejeros Electorales, Maestra Dania Paola Ravel Cuevas y Doctor José Roberto Ruiz Saldaña.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+Los anexos podrán ser consultados mediante la liga: https://www.ine.mx/sesion-extraordinaria-del-consejogeneral- 16-abril-2018/
