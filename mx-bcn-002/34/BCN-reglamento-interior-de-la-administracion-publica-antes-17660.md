@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2018-04-20"
+last_updated: "2018-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -81,9 +81,13 @@ III.- Los recursos humanos y materiales que les asigne el Presupuesto de Egresos
 
 IV.- El personal de las dependencias y entidades que se determinen por el Presidente Municipal, que se adscribirá a las Delegaciones para la atención de los asuntos competencia de dichas dependencias y entidades, que se generen en las poblaciones de las mismas Delegaciones. Las propuestas de programas y recursos que se asignarán a las oficinas de las dependencias y entidades adscritas a las Delegaciones, se determinarán tomando la opinión de los Consejos Delegacionales y deberán ser conocidos, revisados y aprobados por los Delegados.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
+
 ###### ARTICULO 4.
 
-La Sindicatura Municipal es el órgano de representación legal de los intereses del Ayuntamiento y Municipio, así como de control y vigilancia de la Administración Pública Municipal, por lo que fiscalizará la correcta administración de los bienes y aplicación de los recursos municipales, además de la actuación de los servidores públicos, contando para tal efecto con la estructura administrativa que se establece en el presente Reglamento.
+El Síndico Procurador es el representante jurídico de los intereses del Ayuntamiento, así como el órgano de control y vigilancia de la Administración Pública Municipal, por lo que fiscalizará la correcta administración de los bienes y aplicación de los recursos municipales, además de la actuación de los servidores públicos, vigilará que no se afecten los intereses de los habitantes del municipio por actos de la autoridad municipal, en el ejercicio de las funciones y atribuciones de orden municipal; investigará la actuación de los servidores públicos municipales; sancionará a quienes resulten responsables de la comisión de faltas administrativas de su competencia; y ejercerá autoridad jerárquica sobre todo el personal de la Sindicatura, cuya organización y operación se llevará a cabo conforme a lo establecido en su Reglamento Interno.
+
+La Sindicatura Municipal de Mexicali, Baja California, contará para el ejercicio de sus atribuciones con un presupuesto que en ningún caso podrá ser menor al punto setenta y cinco por ciento del total de los egresos previstos para el Municipio de Mexicali, en el presupuesto correspondiente a cada ejercicio fiscal.
 
 ###### ARTICULO 5.
 
@@ -267,19 +271,17 @@ II.- Se conformará una comisión conjunta del Ayuntamiento entre, la de haciend
 
 III.- Se someterá el dictamen a consideración del Ayuntamiento, que en su caso autorizará la celebración del convenio, o solicitará la modificación del mismo, expresando las razones que tuviere.
 
-### CAPITULO QUINTO. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES Y JEFES DE DEPARTAMENTOS DE LA ADMINISTRACION PUBLICA MUNICIPAL
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2018)</small>
+
+### CAPITULO CUARTO BIS. DEL COMISARIO SOCIAL HONORARIO
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 23.
 
-El Síndico Procurador actuará como representante jurídico del Municipio y Ayuntamiento, en los litigios en que éste sea parte.
+El Comisario Social Honorario, tiene por objeto coadyuvar con el Síndico Procurador en la implementación de las medidas necesarias para la vigilancia de la gestión pública municipal, así como ser la instancia de vinculación entre los ciudadanos y las autoridades municipales, y cuya organización y operación se llevará a cabo conforme a lo establecido en su Reglamento de Operación.
 
-En ejercicio de tal representación, podrá designar delegados o representantes para oír y recibir notificaciones, presentar pruebas y promociones, hacer alegatos, promover recursos y demás medios de defensa.
-
-Podrá también nombrar uno o más apoderados especiales o generales, a fin de que actúen en representación del ayuntamiento ante los órganos jurisdiccionales y administrativos en los que se ventilen los litigios en que éste sea parte o tenga interés, otorgándoles facultades suficientes para la adecuada defensa de los intereses del mismo.
-
-### CAPITULO SEXTO
-
-DEL NOMBRAMIENTO, SUPLENCIA Y EXCUSAS DE LOS SERVIDORES PUBLICOS.
+### CAPITULO QUINTO. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES Y JEFES DE DEPARTAMENTOS DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
 ###### ARTICULO 24.
 
@@ -339,7 +341,9 @@ La Declaración Patrimonial de los Titulares de las Dependencias de la Administr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2009)</small>
 
-### CAPITULO SEPTIMO. DE LAS COORDINACIONES ADMINISTRATIVAS
+### CAPITULO SEXTO
+
+DEL NOMBRAMIENTO, SUPLENCIA Y EXCUSAS DE LOS SERVIDORES PUBLICOS.
 
 ###### ARTICULO 25.
 
@@ -393,7 +397,7 @@ II.- Cuando quien se excuse sea el titular de una dependencia, el Presidente Mun
 
 III.- Cuando el superior jerárquico de un servidor público, tenga conocimiento que alguno de sus subalternos se encuentra impedido legalmente para conocer de algún asunto, le ordenará que proceda conforme a este artículo.
 
-### CAPITULO PRIMERO. DE LAS DEPENDENCIAS Y ORGANOS QUE INTEGRAN LA ADMINISTRACION PUBLICA MUNICIPAL CENTRALIZADA
+### CAPITULO SEPTIMO. DE LAS COORDINACIONES ADMINISTRATIVAS
 
 ###### ARTICULO 29.
 
@@ -425,7 +429,7 @@ XI.- Las demás que le señalen los titulares de la dependencia.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION CENTRALIZADA
 
-### CAPITULO SEGUNDO. DE LA OFICINA DE LA PRESIDENCIA MUNICIPAL
+### CAPITULO PRIMERO. DE LAS DEPENDENCIAS Y ORGANOS QUE INTEGRAN LA ADMINISTRACION PUBLICA MUNICIPAL CENTRALIZADA
 
 ###### ARTICULO 30.
 
@@ -485,7 +489,7 @@ XVII.- Dirección de Desarrollo Rural y Delegaciones.
 
 Las Delegaciones Municipales tendrán la naturaleza de órganos desconcentrados de la Administración Pública Municipal centralizada, y corresponderá al Presidente Municipal por conducto de la Dirección de Desarrollo Rural y Delegaciones, aplicar las políticas para uniformar su actuación y promover el logro de sus objetivos.
 
-### CAPITULO TERCERO. DE LA SECRETARIA DEL AYUNTAMIENTO
+### CAPITULO SEGUNDO. DE LA OFICINA DE LA PRESIDENCIA MUNICIPAL
 
 ###### ARTICULO 32.
 
@@ -629,7 +633,7 @@ V.- Fortalecer y apoyar las actividades deportivas, artísticas y culturales vin
 
 VI.- Establecer mecanismos de atención y fortalecimiento de acciones hacia las personas con discapacidad;
 
-VII.- Promover las captación de recursos que sean destinados al desarrollo de actividades y programas de ayuda a las personas con discapacidad;
+VII.- Promover la captación de recursos que sean destinados al desarrollo de actividades y programas de ayuda a las personas con discapacidad;
 
 VIII.- Recibir y canalizar a las instancias competentes, quejas y sugerencias sobre la atención de las autoridades a las personas con discapacidad;
 
@@ -637,7 +641,7 @@ IX.- Proponer se introduzcan adecuaciones al sistema del transporte público par
 
 X.- Promover la integración laboral de las personas con discapacidad.
 
-### CAPITULO CUARTO. DE LA TESORERIA MUNICIPAL
+### CAPITULO TERCERO. DE LA SECRETARIA DEL AYUNTAMIENTO
 
 ###### ARTICULO 39.
 
@@ -1009,7 +1013,7 @@ ARTICULO 50 TER.- (DEROGADO, P.O. 25 DE ENERO DE 2008)
 
 ARTICULO 50 QUATER.- (DEROGADO, P.O. 25 DE ENERO DE 2008)
 
-### CAPITULO QUINTO. DE LA OFICIALIA MAYOR
+### CAPITULO CUARTO. DE LA TESORERIA MUNICIPAL
 
 ###### ARTICULO 51.
 
@@ -1233,9 +1237,7 @@ X.- Efectuar el control financiero de programas especiales donde tenga participa
 
 XI.- Controlar, custodiar y administrar el archivo de inversión pública municipal conforme a las disposiciones aplicables.
 
-### CAPITULO SEXTO. DE LA DIRECCIÓN DE OBRAS PUBLICAS
-
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
+### CAPITULO QUINTO. DE LA OFICIALIA MAYOR
 
 ###### ARTICULO 59.
 
@@ -1501,7 +1503,9 @@ VI.- Verificar el apego a las disposiciones establecidas por las instancias fede
 
 VII.- Coordinar la administración e integridad de las bases de datos, el mantenimiento de los equipos de cómputo y comunicaciones, y la seguridad de acceso a la red informática municipal.
 
-### CAPITULO SEPTIMO. DE LA DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO SEXTO. DE LA DIRECCIÓN DE OBRAS PUBLICAS
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 66.
 
@@ -1575,7 +1579,7 @@ V.- Llevar a cabo la supervisión relativa al reestablecimiento físico de la in
 
 VI.- Efectuar revisiones de campo para detectar nomenclatura y señalamientos viales en mal estado, a fin de programar su mantenimiento.
 
-### CAPITULO OCTAVO. DE LA DIRECCION DE DESARROLLO URBANO
+### CAPITULO SEPTIMO. DE LA DIRECCION DE SERVICIOS PUBLICOS MUNICIPALES
 
 ###### ARTICULO 71.
 
@@ -1659,9 +1663,7 @@ V.- Instalar sistemas de alumbrado, decoraciones y adornos en la vía pública, 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO NOVENO. DE LA DIRECCION DE ECOLOGIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+### CAPITULO OCTAVO. DE LA DIRECCION DE DESARROLLO URBANO
 
 ###### ARTICULO 78.
 
@@ -1691,7 +1693,9 @@ V.- Instalar sistemas de alumbrado, decoraciones y adornos en la vía pública, 
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
 
-### CAPITULO DECIMO. DE LA DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL
+### CAPITULO NOVENO. DE LA DIRECCION DE ECOLOGIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 85.
 
@@ -1795,9 +1799,7 @@ I.- Aplicar las disposiciones reglamentarias y normativas en materia de preserva
 
 II.- Detectar e intervenir fuentes contaminantes de relevancia a fin de priorizar recursos y dictar las medidas pertinentes para prevenir, corregir y/o subsanar cualquier impacto negativo al ambiente y a la salud pública.
 
-### CAPITULO DECIMO PRIMERO. DE LA DIRECCION DEL HEROICO CUERPO DE BOMBEROS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+### CAPITULO DECIMO. DE LA DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL
 
 ###### ARTICULO 90.
 
@@ -2331,7 +2333,9 @@ XIII.- Establecer coordinación con otras instancias, para promover el desarroll
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE FEBRERO DE 2006)</small>
 
-### CAPITULO DECIMO SEGUNDO. DE LA DIRECCION DE COMUNICACION SOCIAL
+### CAPITULO DECIMO PRIMERO. DE LA DIRECCION DEL HEROICO CUERPO DE BOMBEROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 101.
 
@@ -2425,9 +2429,7 @@ IX.- Desarrollar programas de capacitación y adiestramiento para los integrante
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2004)
 
-### CAPITULO DECIMO TERCERO. DE LA DIRECCION DE RELACIONES PUBLICAS
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2011)</small>
+### CAPITULO DECIMO SEGUNDO. DE LA DIRECCION DE COMUNICACION SOCIAL
 
 ###### ARTICULO 106.
 
@@ -2539,7 +2541,9 @@ IV. Gestionar los requerimientos para el cumplimiento de tareas y programas de t
 
 4.- Coordinación Administrativa; la cual tendrá como funciones las ya insertas, dentro del artículo 29 del presente Reglamento.
 
-### CAPITULO DECIMO CUARTO. DE LA DIRECCION DE FOMENTO DEPORTIVO
+### CAPITULO DECIMO TERCERO. DE LA DIRECCION DE RELACIONES PUBLICAS
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 107.
 
@@ -2573,7 +2577,7 @@ III.- Promover y difundir tanto política, social, económica, cultural y tecnol
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2004)</small>
 
-### CAPITULO DECIMO QUINTO. DE LA DIRECCION DE CULTURA
+### CAPITULO DECIMO CUARTO. DE LA DIRECCION DE FOMENTO DEPORTIVO
 
 ###### ARTICULO 109.
 
@@ -2591,9 +2595,7 @@ III.- Promover y difundir tanto política, social, económica, cultural y tecnol
 
 (DEROGADO, P.O. 7 DE MAYO DE 2004)
 
-### CAPITULO DECIMO SEXTO. DE LA DIRECCION DE DESARROLLO RURAL Y DELEGACIONES
-
-> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ENERO DE 2008)</small>
+### CAPITULO DECIMO QUINTO. DE LA DIRECCION DE CULTURA
 
 ###### ARTICULO 113.
 
@@ -2615,7 +2617,9 @@ VII.- Administrar el Archivo Histórico del Municipio, de conformidad con el reg
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
 
-### CAPITULO DECIMO SEXTO (SIC). DE LAS DELEGACIONES MUNICIPALES
+### CAPITULO DECIMO SEXTO. DE LA DIRECCION DE DESARROLLO RURAL Y DELEGACIONES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 114.
 
@@ -2719,7 +2723,7 @@ II.- Operar las atribuciones que el Reglamento municipal de las Juntas de Mejora
 
 III.- Fomentar y coordinar los esfuerzos de la comunidad para la prestación de servicios públicos y la realización de obras en las Delegaciones Municipales.
 
-### CAPITULO UNICO
+### CAPITULO DECIMO SEXTO (SIC). DE LAS DELEGACIONES MUNICIPALES
 
 ###### ARTICULO 119.
 
@@ -2819,7 +2823,7 @@ XIII.- Administrar el fondo para gastos menores.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAMUNICIPAL
 
-### CAPITULO PRIMERO. NATURALEZA Y FACULTADES
+### CAPITULO UNICO
 
 ###### ARTICULO 123.
 
@@ -2833,13 +2837,17 @@ En los acuerdos de creación de las entidades se deberá prever por lo menos:
 
 I.- Su objeto, las atribuciones con la que contará para cumplirlo;
 
-II.- La integración y facultades de su órgano de gobierno. Este será presidido en todos los casos por el Presidente Municipal, y además de los funcionarios o ciudadanos que se determinen, participarán en el mismo, el Síndico Procurador y por lo menos el Regidor coordinador de la comisión del Ayuntamiento correspondiente;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2018)</small>
+
+II.- La integración y facultades de su órgano de gobierno. Este será presidido en todos los casos por el Presidente Municipal, y además de los funcionarios o ciudadanos que se determinen, participarán en el mismo, el Síndico Procurador, Tesorero Municipal y por lo menos el Regidor coordinador de la comisión del Ayuntamiento correspondiente.
+
+Así mismo, el Síndico Procurador, tendrá la facultad de convocar a la celebración de sesiones ordinarias o extraordinarias de los órganos de gobierno en aquellos casos en que exista omisión por parte de quien tenga dicha atribución en la Entidad, así como en cualquier otro asunto que considere conveniente.
 
 III.- Las facultades y obligaciones de la persona u órgano que actuará como responsable ejecutivo de su administración;
 
 IV.- Los recursos y bienes que integrarán su patrimonio;
 
-V.- El órgano facultado para determinar su estructura orgánica y aprobar su reglamento interior; y ,
+V.- El órgano facultado para determinar su estructura orgánica y aprobar su reglamento interior; y,
 
 VI.- La forma en que se informará al Ayuntamiento sobre los resultados de gestión de la entidad;
 
@@ -2849,267 +2857,55 @@ VII.- La dependencia coordinadora de sector, con la que trabajarán, conforme a 
 
 ## TITULO CUARTO. DE LA SINDICATURA MUNICIPAL
 
-### CAPITULO SEGUNDO. DE LA DIRECCION DE CONTRALORIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+### CAPITULO PRIMERO. NATURALEZA Y FACULTADES
 
 ###### ARTICULO 124.
 
-La Sindicatura Municipal, como órgano de representación legal de los intereses del Ayuntamiento y Municipio, así como de control y vigilancia de la Administración Pública Municipal, fiscalizará la correcta administración de los bienes y aplicación de los recursos municipales, y vigilará y sancionará la actuación de los servidores públicos.
-
-En ningún caso podrá establecérsele un presupuesto que resulte menor al punto setenta y cinco por ciento del total de los egresos previstos para cada ejercicio fiscal, en el Presupuesto de Egresos para el Municipio.
-
-La Sindicatura ejercerá las siguientes atribuciones en relación con las dependencias y entidades:
-
-I.- Vigilar la observancia de las circulares, normas técnicas, instrumentos y procedimientos de control establecidos al ejercicio del gasto público, y a la administración de bienes y recursos municipales;
-
-II.- Implementar acciones de control y evaluación del aprovechamiento de bienes y aplicación de recursos;
-
-III.- Dictaminar los proyectos de normatividad y evaluar los procedimientos de control establecidos para el ejercicio del gasto y la administración de bienes y recursos, exigiendo en su caso la mejora de los mismos, o la implementación de otros que resulten más eficaces;
-
-IV.- Verificar el cumplimiento de la normatividad aplicable en materia de recaudación de contribuciones, ejercicio presupuestal, gasto público y contabilidad gubernamental;
-
-V.- Vigilar la correcta aplicación del Presupuesto de Egresos para el Municipio, así como los de las entidades, y el debido cumplimiento a los presupuestos por programas;
-
-VI.- Realizar revisiones financieras y administrativas, y exigir la implementación de las correcciones que procedan para garantizar la aplicación de los procedimientos de control;
-
-VII.- Aplicar auditorias y evaluaciones, con el objeto de verificar la consecución de los objetivos contenidos en sus programas, el adecuado ejercicio del gasto público, la actuación de los servidores públicos, así como la aplicación de la normatividad que les corresponda.
-
-Las resoluciones de la Sindicatura sólo versarán sobre el cumplimento de las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, por lo que no implicarán la modificación o revocación de los actos administrativos emitidos por las dependencias o entidades;
-
-VIII.- Seleccionar, nombrar, capacitar, controlar, fijar las remuneraciones y remover libremente al personal de confianza de la Sindicatura. La fijación de remuneraciones en todos los casos se hará de acuerdo con las bases fijadas por la Oficialía Mayor;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-IX.- Aplicar a los servidores públicos y a los elementos o miembros pertenecientes a los Cuerpos de Seguridad Pública Municipal las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como en las demás disposiciones legales y ordenamientos normativos;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-X.- Designar a las personas que auxiliarán en la recepción de quejas, denuncias y substanciación de los procedimientos correspondientes en contra de la actuación de servidores públicos y de los elementos o miembros de los Cuerpos de Seguridad Pública Municipal, por incumplimiento a las disposiciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, y demás disposiciones legales y ordenamientos normativos;
-
-XI.- Conocer e investigar de oficio, o por virtud de queja o denuncia, los actos, omisiones o conductas de los servidores públicos que les pueden generar responsabilidades en el ejercicio de su función; instruir los procedimientos correspondientes, y en su caso, aplicar las sanciones que procedan;
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2014)</small>
-
-XII.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias que reciba directamente de la población en general o que le sean turnadas por la Sindicatura Social, respecto al trato que otorguen los servidores públicos en la atención a las personas. La Sindicatura deberá canalizar los reportes que reciba a las dependencias y entidades a las que corresponda atender el asunto del que se trate, y además verificar que se dé dicha atención;
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2004)</small>
-
-XIII.- Operar el registro de situación patrimonial de los servidores públicos municipales y ordenar la publicación, en el Periódico Oficial del Estado de Baja California, de la Declaración Patrimonial de los Titulares de la Administración Pública Centralizada y de igual forma, la del Subdirector de Operación y seguimiento de la Secretaría del Ayuntamiento y del Jefe del Departamento de Recursos Materiales de Oficialía Mayor;
-
-XIV.- Dar a conocer a la autoridad competente, la posible comisión de delitos por parte de los servidores públicos en el ejercicio de sus funciones;
-
-XV.- Verificar que se regularice la propiedad, uso y destino de los bienes municipales;
-
-XVI.- Verificar que la inversión autorizada en materia de obra pública, se ejerza de conformidad con la legislación aplicable;
-
-XVII.- Informar semestralmente al Ayuntamiento sobre las acciones realizadas por la dependencia; y,
-
-XVIII.- En relación a la administración de las entidades, corresponderá a la Sindicatura:
-
-a) Exigir a las (sic) titulares de las entidades, información mensual que incluya, por lo menos un estado de situación financiera y un estado de resultados con sus respectivos anexos;
-
-b) Realizar un examen de las operaciones, documentación, registros y demás evidencias comprobatorias de los ingresos y egresos de la entidad, en el grado y extensión que sea necesario para verificar que la información financiera presentada por sus titulares, refleje en forma veraz y suficiente la situación financiera y los resultados de la misma entidad, y que sean elaborados cumpliendo con los principios de contabilidad generalmente aceptados para el sector gubernamental;
-
-c) Requerir que se inserten en el orden del día de las sesiones del órgano de gobierno, los puntos que crean pertinentes;
-
-d) Convocar a sesiones ordinarias o extraordinarias a los órganos de gobierno, en caso de omisión por parte de quien le corresponda en la entidad, y en cualquier otro caso que lo juzgue conveniente;
-
-e) Integrar quórum, y participar con voz y voto en todas las sesiones de los órganos de gobierno, a las cuales deberá citársele;
-
-f) Verificar que se remitan oportunamente al Congreso del Estado, las cuentas públicas de la entidad, para su revisión, cumpliendo con los requisitos legales que correspondan.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
 ###### ARTICULO 125.
 
-La Sindicatura Municipal para el cumplimiento de sus atribuciones contará con una coordinación administrativa, y tendrá bajo su cargo las siguientes Direcciones:
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2007)</small>
 
-I.- Contraloría;
+### CAPITULO SEGUNDO. DE LA DIRECCION DE CONTRALORIA
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2004)</small>
+###### ARTICULO 126.
 
-II.- Jurídica; y
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
+###### ARTICULO 127.
 
-III.- Fiscalización.
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO TERCERO. DE LA DIRECCION JURIDICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+###### ARTICULO 128.
 
-###### ARTICULO 126.
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
-La Dirección de Contraloría se encargará de vigilar el desempeño y actuación de los servidores públicos de la Administración Pública Municipal, para lo cual desarrollará las siguientes funciones:
+###### ARTICULO 129.
 
-I.-.- (sic) Recibir quejas y denuncias de ciudadanos y autoridades sobre el desempeño de los servidores públicos de la Administración Pública Municipal, pudiendo actuar a petición de parte o de oficio, cuando éstos hayan incumplido con cualquiera de las obligaciones que les impone la Ley de Responsabilidades de los Servidores Públicos del Estado, y los reglamentos municipales que regulen el actuar de dichos servidores públicos;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-II.- Investigar las conductas de los servidores públicos, así como de los elementos pertenecientes a los Cuerpos de Seguridad Pública Municipal, que pudieran generarles una responsabilidad administrativa, instruir los procedimientos correspondientes y aplicar las sanciones que correspondan;
-
-III.- Integrar expediente o documentación que acredite la presunción de la comisión de ilícitos por parte de los servidores públicos municipales para su remisión a las autoridades competentes;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-IV.- Proponer al Síndico Procurador la designación de auxiliares facultados para la recepción de quejas, denuncias y substanciación de los procedimientos administrativos correspondientes, por la actuación de los servidores públicos y de los elementos o miembros de los Cuerpos de Seguridad Pública Municipal;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-V.- Observar y aplicar las disposiciones que le correspondan del Nuevo Reglamento del Servicio de Seguridad Pública del Municipio de Mexicali, Baja California;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-VI.- Desarrollar programas de supervisión y control, con el objeto de vigilar el cumplimiento de las obligaciones de los servidores públicos previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las establecidas a cargo de los elementos o miembros de los Cuerpos de Seguridad Pública en la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, y el Nuevo Reglamento del Servicio de Seguridad Pública para el Municipio de Mexicali, Baja California;
-
-VII.- Levantar actas administrativas cuando algún servidor público municipal incumpla con las obligaciones previstas en las disposiciones legales a que se refiere la fracción anterior;
-
-VIII.- Practicar exámenes médicos para la detección de consumo en exceso de drogas permitidas o ilícitas, por parte de los servidores públicos municipales;
-
-IX.- Solicitar, recibir, registrar, verificar y custodiar las declaraciones de situación patrimonial rendidas por los servidores públicos municipales, de acuerdo a la normatividad aplicable;
-
-X.- Autorizar al personal a su cargo a levantar y firmar actas administrativas, previo oficio de comisión;
-
-XI.- Autorizar a los supervisores a su cargo a levantar y firmar las actas administrativas con motivo de sus funciones como lo prevé el presente reglamento y demás disposiciones de ley;
-
-XII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
-
-XIII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
-
-XIV.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
-
-XV.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
-
-XVI.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
-
-XVII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
-
-XVIII.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
-
-XIX.- (DEROGADA, P.O. 9 DE ABRIL DE 2004)
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-###### ARTICULO 127.
-
-La Dirección de Contraloría para un mejor desempeño de sus atribuciones contará con tres departamentos:
-
-I.- De Responsabilidades Especializado en Servidores Públicos;
-
-II.- De Responsabilidades Especializado en Asuntos de la Dirección de Seguridad pública; y
-
-III.- De Supervisión.
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO CUARTO. DE LA DIRECCION DE FISCALIZACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+ARTICULO 129 BIS.- (DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
-ARTICULO 129 BIS.- La Dirección de Fiscalización se encargará de la vigilancia y control de las dependencias y entidades de la Administración Pública Municipal, revisando y verificando que estas se administren y apliquen los recursos que les sean asignados, con eficiencia, eficacia y honradez, al logro de las metas y objetivos establecidos en sus programas y en cumplimiento de la normatividad aplicable, encargándose de:
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-I.- Ejercer las atribuciones que se establecen a cargo de la Sindicatura en el artículo 124 del presente reglamento, en sus fracciones I, II, III, IV, V, VI, VII, XV, XVI Y XVIII incisos a), b) y f);
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
-
-II.- Elaborar los programas sobre los que se dirigirán las revisiones programáticas y presupuestales, financieras, administrativas y operacionales a las dependencias y entidades;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-III.- Asesorar para la correcta aplicación y debido cumplimiento de la normatividad vigente en materia de ejercicio del gasto público, por parte de las dependencias y entidades;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-IV.- Inspeccionar físicamente las obras públicas que lleven a cabo las dependencias y entidades, para comprobar si las inversiones y gastos autorizados, se han aplicado eficientemente al logro de los objetivos y metas de los programas y subprogramas aprobados;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-V.- Practicar auditorias a las obras públicas que lleven a cabo las diferentes dependencias y organismos ejecutoras de obra;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-VI.- Intervenir en todas las etapas del proceso de licitación de la obra pública, con la finalidad de verificar el debido cumplimiento de la normatividad aplicable;
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-VII.- Asesorar y validar la elaboración de las actas de entrega-recepción y documentación complementaria, cuando tengan lugar cambios de funcionarios; y
-
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2004)</small>
-
-VIII.- Participar en el acto protocolario de firmas de actas de entrega-recepción;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2007)</small>
-
-IX.- Dar seguimiento a las observaciones no solventadas determinadas por el Órgano de Fiscalización Superior del Estado de Baja California, derivadas del examen de las Cuentas Públicas del Ayuntamiento como de los Organismos Paramunicipales, consignadas en los Dictámenes turnados a la Sindicatura Municipal por el Congreso del Estado e informar al mismo en los plazos otorgados;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2007)</small>
-
-X.- Realizar revisiones derivadas de denuncias y quejas ciudadanas a efecto de documentar las actuaciones de los servidores públicos municipales.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-ARTICULO 129 TER.- La Dirección de Fiscalización para un mejor desempeño de sus atribuciones contará con los siguientes departamentos:
-
-I.- Departamento de revisión de Obra Pública; el que tendrá las atribuciones previstas en el artículo 24, fracciones XVI y 129 BIS, fracciones, IV, V, VI;
-
-II.- Departamento de Revisiones Programáticas y Presupuestales; el que tendrá las atribuciones previstas en el artículo 124, fracciones IV, V y VII y artículo 129 BIS fracción III;
-
-III.- Departamento de Revisión de la Administración Central; el que tendrá las atribuciones previstas en el artículo 124, fracciones I, II, III, IV, V, VI, VII, XV Y XVIII incisos a), b) y f) y artículos 129 BIS, fracciones VII y VIII;
-
-IV.- Departamento de Revisiones al Sector Paramunicipal; el que tendrá las atribuciones previstas en el artículo 124, fracciones I, II, III, IV, V, VI, VII XV Y XVIII, incisos a), b) y f), y artículos 129 BIS, fracciones VII y VIII; y
-
-V.- Departamento de Revisiones Especiales; el que tendrá las atribuciones previstas en el artículo 129 BIS, fracciones IX y X.
+ARTICULO 129 TER.- (DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
-
-###### ARTICULO 128.
-
-La Dirección Jurídica se encargará de brindar asesoría y asistencia legal en los litigios en los que sea parte o tenga alguna intervención el Municipio o el Ayuntamiento, para lo cual tendrá las siguientes atribuciones:
-
-I.- Ejercer la representación jurídica del Ayuntamiento, así como de las dependencias y entidades de la Administración Pública Municipal;
-
-II.- Brindar asesoría técnica y patrocinios jurídicos a las dependencias y entidades, así como al Ayuntamiento ante diversas autoridades jurisdiccionales;
-
-III.- Conocer y supervisar las actividades que lleven a cabo las áreas jurídicas de las dependencias y entidades a efecto de establecer criterios y políticas comunes;
-
-IV.- Brindar asesoría y asistencia jurídica a los organismos paramunicipales con el fin de coadyuvar al fortalecimiento de los instrumentos jurídicos que los rigen;
-
-V.- Proporcionar apoyo jurídico a los organismos paramunicipales, en la revisión de las cuentas públicas, ante la Comisión de Hacienda del Congreso del Estado;
-
-VI.- Promover y realizar eventos de capacitación permanentes para los funcionarios municipales acerca de las facultades y atribuciones que el marco normativo municipal les confiere;
-
-VII.- Promover e impulsar, en coordinación con las dependencias y entidades la creación o modificación del marco reglamentario municipal; y
-
-VIII.- Participar en la elaboración de normas técnicas relativas a la regulación y control de los bienes y recursos municipales;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-###### ARTICULO 129.
-
-La Dirección Jurídica para un mejor desempeño de sus atribuciones contará con dos departamentos que son:
-
-I.- De Atención Jurídica, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones de la I a la V; y,
-
-II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el artículo anterior en sus fracciones de la VI a la VIII.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2007)</small>
-
-### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO QUINTO. DE LA DIRECCION DE PLANEACION URBANA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
+### CAPITULO UNICO. DE LA DIRECCION DE PLANEACION URBANA
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
@@ -3193,9 +2989,9 @@ IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-### CAPÍTULO ÚNICO
+### CAPITULO UNICO. DE LA DIRECCION DE ADMINISTRACION URBANA
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 135.
 
@@ -3435,37 +3231,19 @@ XIV.- Realizar inspecciones y verificaciones para la determinación de sanciones
 
 > <small>(DEROGADA SU DENOMINACIÓN, P.O. 21 DE FEBRERO DE 2014)</small>
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 142.
 
-Del Síndico Social.- El Síndico Social tendrá a su cargo la función de procuración de la defensa de los intereses de los habitantes del municipio, ostentando las siguientes atribuciones:
-
-I.- Participar en la formulación y ejecución de los programas municipales de desarrollo social, vigilando su cabal cumplimiento;
-
-II.- Participar en los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia y hacer públicos sus resultados;
-
-III.- Proponer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
-
-IV.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, con relación a la prestación de servicios públicos municipales;
-
-V.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento;
-
-VI.- Nombrar y remover al personal a su cargo; y
-
-VII.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
-
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
 ###### Artículo 143.
 
-La Sindicatura Social para el cumplimiento de sus atribuciones contará con una Coordinación Administrativa; también tendrá bajo su cargo un Departamento de Operación y Seguimiento Social, que auxiliará en el desempeño de sus facultades establecidas en las fracciones I, II, III, IV y V del artículo 142, así como aquellas que le sean encomendadas por el Síndico Social.
-
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
 ###### Artículo 144.
 
-El Departamento de Operación y Seguimiento Social para un mejor desempeño de sus atribuciones contará con una coordinación:
-
-I.- Coordinación de Programas Sociales y Obra Pública, que tendrá encomendado apoyar al Departamento respecto a los temas establecidos en las fracciones I, III y V del artículo 140, y las demás que le sean encomendadas por el Jefe del Departamento. Asimismo la Dirección de Obras Públicas, Tesorería Municipal, Desarrollo Social Municipal, Desarrollo Integral de la Familia, y las demás dependencias municipales que en su momento operen y ejecuten programas sociales, brindarán las facilidades a la Sindicatura Social para lograr su cometido.
+(DEROGADO, P.O. 27 DE ABRIL DE 2018)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -3724,3 +3502,13 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA UNA FRACCIÓN V DEL ARTÍCULO 66 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Comuníquese el presente acuerdo a la Tesorería Municipal así como a la Oficialía Mayor del XXII Ayuntamiento, a efecto de que realicen las modificaciones presupuestales y administrativas pertinentes para la generación y funcionamiento de la Coordinación de Contraloría Social.
+
+TERCERO.- En un período no mayor a 30 días hábiles el Ayuntamiento de Mexicali, Baja California, deberá expedir el Reglamento de Operación del Comisario Social Honorario.
