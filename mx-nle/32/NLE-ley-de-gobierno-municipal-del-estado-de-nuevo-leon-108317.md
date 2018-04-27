@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2018-01-22"
+last_updated: "2018-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -1191,9 +1191,17 @@ XVIII. Proporcionar la información que le soliciten los integrantes del Ayuntam
 
 XIX. Coordinar la edición, publicación y difusión de la Gaceta Municipal;
 
-XX. Auxiliar al Cronista Municipal en sus actividades y proporcionar los insumos necesarios para el desarrollo de su gestión; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2018)</small>
 
-XXI. Las que se señalen en esta Ley, las demás disposiciones legales y los reglamentos del Municipio.
+XX. Auxiliar al Cronista Municipal en sus actividades y proporcionar los insumos necesarios para el desarrollo de su gestión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2018)</small>
+
+XXI. Elaborar con el apoyo y auxilio de las demás dependencias y entidades de la Administración Pública Municipal, un padrón de los lotes baldíos y casas desocupadas que representen un riesgo latente ya sea de inseguridad o insalubridad para los habitantes del Municipio, mismo que tendrá en su resguardo; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ABRIL DE 2018)</small>
+
+XXII. Las que se señalen en esta Ley, las demás disposiciones legales y los reglamentos del Municipio.
 
 #### SECCIÓN II. DE LA TESORERÍA MUNICIPAL
 
@@ -1247,9 +1255,17 @@ XIX. Presentar mensualmente un informe contable y financiero al Ayuntamiento;
 
 XX. Proponer la partida contingente, para hacer frente a la responsabilidad patrimonial del Municipio cuando con su actividad irregular se causen daños a los particulares;
 
-XXI. Poner a disposición de los integrantes del Ayuntamiento, Regidores y Síndicos, el sistema de contabilidad para su consulta, incluyendo el libro auxiliar de mayor, en el que puedan obtener reportes de las diversas operaciones que lleva a cabo la Administración Municipal, así como a los registros de bienes muebles e inmuebles del Municipio; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2018)</small>
 
-XXII. Las demás que le confiere la presente Ley y otros ordenamientos de carácter general.
+XXI. Poner a disposición de los integrantes del Ayuntamiento, Regidores y Síndicos, el sistema de contabilidad para su consulta, incluyendo el libro auxiliar de mayor, en el que puedan obtener reportes de las diversas operaciones que lleva a cabo la Administración Municipal, así como a los registros de bienes muebles e inmuebles del Municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2018)</small>
+
+XXII. Requerir a los propietarios o poseedores de algún lote baldío o casa desocupada, que lleven a cabo la limpieza, desmonte o deshierbe de dichas propiedades e informarles en su caso de las sanciones establecidas en la ley a las que pueden ser acreedores; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE ABRIL DE 2018)</small>
+
+XXIII. Las demás que le confiere la presente Ley y otros ordenamientos de carácter general.
 
 #### SECCIÓN III. DE LA CONTRALORÍA MUNICIPAL
 
@@ -2518,3 +2534,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Los Ayuntamientos que resultaron electos en el proceso electoral del año 2015, concluirán el día 30 de octubre de 2018.
 
 Tercero.- Los Ayuntamientos que resulten electos en el proceso electoral del año 2018, tendrán un periodo constitucional que iniciará el 31 de octubre de 2018 y concluirá el día 29 de septiembre de 2021.
+
+P.O. 27 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 378. SE REFORMAN LAS FRACCIONES XX, XXI Y XXII DEL ARTÍCULO 98; ASÍ COMO LAS FRACCIONES XXI, XXII Y XXIII DEL ARTÍCULO 100 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Municipios del Estado, en un plazo no mayor a 30 días hábiles a la entrada en vigor del presente Decreto, deberán de realizar las modificaciones y en un plazo de 90 días hábiles posteriores a sus reformas, crear el padrón de lotes y casas abandonadas que sean detectadas en el Municipio.
