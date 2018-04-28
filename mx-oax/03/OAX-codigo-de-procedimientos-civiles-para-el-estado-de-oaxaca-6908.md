@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-03-09"
+last_updated: "2018-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2018.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -2851,7 +2851,7 @@ En los casos a que se refiere la fracción I del tercer párrafo del artículo a
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-En el caso de la fracción II del mismo párrafo bastará la petición que realice la parte interesada para que el juez realice la declaración correspondiente la declaración se hará substanciando el artículo con un escrito de cada parte. Los plazos serán tres (sic) días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el Juez, en su caso.
+En el caso de la fracción II del mismo párrafo bastará la petición que realice la parte interesada para que el juez realice la declaración correspondiente la declaración se hará substanciando el artículo con un escrito de cada parte. Los plazos serán tres días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el Juez, en su caso.
 
 ###### Artículo 403.
 
@@ -6705,15 +6705,19 @@ Cuando la solicitud se fundamenta en la existencia de violencia familiar, o para
 
 Contra las medidas provisionales y urgentes que tome el Juez en los casos anteriores, no se admite más recurso que el de responsabilidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE ABRIL DE 2018)</small>
 
 ###### Artículo 963.
 
-El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de niños, niñas y adolescentes, de alimentos y de violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros. Para estos casos el juez deberá decretar las providencias inmediatas y eficaces para que cese la situación irregular, el plazo máximo para dictarlos será de cinco días.
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, personas adultas mayores, personas con discapacidad, alimentos y de violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros. Para estos casos el Juez deberá decretar las providencias inmediatas y eficaces para que cese la situación irregular, el plazo máximo para dictarlos será de cinco días.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2018)</small>
+
+En los procesos familiares donde participen niñas, niños y adolescentes la autoridad judicial deberá prohibir a las personas que presencien las audiencias que difundan los datos personales, audios, videos o imágenes referidas a los mismos. En caso de que las personas incumplan con lo antes señalado, se aplicarán las sanciones de conformidad con la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -7134,3 +7138,15 @@ P.O. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1345.- MEDIANTE EL CUAL SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 54 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 88 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1358.- MEDIANTE EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 963 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1370.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 963 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
