@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-extincion-de-dominio-para-el-estado-de-nayarit-106526"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-27"
-last_updated: "2016-11-08"
+last_updated: "2018-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019, DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2018.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 27 de diciembre de 2014.
 
@@ -91,11 +93,13 @@ IV. En los aspectos relativos a la regulación de bienes, obligaciones y derecho
 
 ### Capítulo II. Extinción de Dominio
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2018)</small>
+
 ###### Artículo 5.
 
 Definición
 
-La extinción de dominio es la pérdida de los derechos sobre los bienes mencionados en esta ley, sin contraprestación ni compensación alguna para su dueño ni para quien se ostente o comporte como tal. La sentencia en la que se declare tendrá por efecto que los bienes se apliquen a favor de los fondos de atención a víctimas y ofendidos del delito, constituidos conforme a las disposiciones aplicables o en su caso al Estado de Nayarit.
+La extinción de dominio es la pérdida de los derechos sobre los bienes mencionados en esta ley, sin contraprestación ni compensación alguna para su dueño ni para quien se ostente o comporte como tal. La sentencia en la que se declare tendrá por efecto que los bienes sobre los que se declare la Extinción de Dominio se aplicarán a favor del Gobierno del Estado de Nayarit.
 
 ###### Artículo 6.
 
@@ -131,7 +135,9 @@ En este supuesto, la acción procederá respecto de los bienes objeto de sucesi�
 
 Procedencia de la extinción de dominio
 
-Procede la extinción de dominio, en los delitos contra la salud en su modalidad de narcomenudeo, previstos en el Capítulo VII, del Título Décimo Octavo, de la Ley General de Salud; trata de personas en los términos previstos en la Ley General para Prevenir, Sancionar y Erradicar los delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; robo de vehículo y secuestro conforme lo dispone (sic) Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que se sustancien ante las autoridades de la entidad; respecto de los siguientes bienes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ABRIL DE 2018)</small>
+
+Procede la extinción de dominio, en los delitos contra la salud en su modalidad de narcomenudeo, previstos en el Capítulo VII, del Título Décimo Octavo, de la Ley General de Salud; trata de personas en los términos previstos en la Ley General para Prevenir, Sancionar y Erradicar los delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; robo de vehículo, secuestro conforme lo dispone (sic) Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y enriquecimiento ilícito, en los casos en que se sustancien ante las autoridades de la entidad; respecto de los siguientes bienes:
 
 I. Aquellos que sean instrumento, objeto o producto del delito o bienes adquiridos con éstos, aun cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió;
 
@@ -185,7 +191,9 @@ El Estado contará con Jueces en materia de extinción de dominio, perteneciente
 
 Habrá Agentes del Ministerio Público con competencia para ejercitar la acción de extinción de dominio, conforme lo disponga el Fiscal General en los términos que establece la Ley Orgánica de la Fiscalía General del Estado de Nayarit.
 
-Esta ley se aplicará a los bienes muebles e inmuebles que se encuentren ubicados en el territorio de la Entidad. Cuando se encuentren situados fuera del mismo, se dará vista a la autoridad competente de dicho lugar.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2018)</small>
+
+Cuando los bienes motivo de la acción se encuentren en una entidad federativa diversa, o en el extranjero, se utilizarán la vía de asistencia jurídica internacional, los demás instrumentos legales que establezcan el Código de Procedimientos Civiles para el Estado de Nayarit, la legislación vigente, los tratados e instrumentos internacionales o, en su defecto la reciprocidad internacional, para la ejecución de las medidas cautelares y la sentencia. Los bienes que se recuperen con base en la cooperación con entidades federativas e internacionales, o el producto de éstos, serán destinados a los fines que establece el artículo 5 de esta Ley.
 
 ### Capítulo II. De las Partes en el Procedimiento
 
@@ -244,6 +252,10 @@ El Ministerio Público, desde la preparación de la acción de extinción de dom
 Para los mismos efectos del párrafo anterior, el Ministerio Público podrá solicitar al juez que decrete precautoriamente alguna de las medidas cautelares previstas en el artículo siguiente.
 
 La medida cautelar deberá dejarse sin efecto, si en quince días hábiles contados a partir de la imposición de éstas, el Ministerio Público no presenta la demanda respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2018)</small>
+
+El demandado o el afectado no podrán ofrecer garantía para obtener el levantamiento de la medida cautelar.
 
 ###### Artículo 19.
 
@@ -365,7 +377,9 @@ IV. Oponer defensas y excepciones, y
 
 V. Plantear las hipótesis de derecho que a su interés convenga.
 
-Contra la acción de extinción de dominio no procede la reconvención.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2018)</small>
+
+Contra la acción de extinción de dominio no procede la reconvención, ni habrá lugar al trámite de excepciones ni de incidentes de previo y especial pronunciamiento.
 
 ###### Artículo 29.
 
@@ -577,11 +591,13 @@ Objeto de la litis
 
 La sentencia de extinción de dominio se ocupará, precisamente, de la acción o las acciones intentadas, las excepciones opuestas y las demás pretensiones deducidas oportunamente. Cuando los puntos litigiosos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2018)</small>
+
 ###### Artículo 48.
 
 Declaración individualizada de aplicación de bienes
 
-Cuando se decrete la procedencia de la acción de extinción de dominio y hayan sido varios los bienes objeto del procedimiento, se deberá declarar individualmente su aplicación a favor de los fondos de atención a víctimas y ofendidos del delito, constituidos conforme a las disposiciones aplicables o en su caso del Estado.
+Cuando se decrete la procedencia de la acción de extinción de dominio y hayan sido varios los bienes objeto del procedimiento, se deberá declarar individualmente su aplicación a favor del Estado o directamente a las personas afectadas con la comisión del delito, conforme a las disposiciones aplicables.
 
 ###### Artículo 49.
 
@@ -719,9 +735,13 @@ Cuando resulte la anulación de la sentencia recurrida, se ordenará la restituc
 
 Ejecución de sentencia y adjudicación de bienes
 
-Una vez que cause ejecutoria la sentencia que resuelva que es procedente la extinción de dominio, el juez ordenará su ejecución y la aplicación de los bienes a favor de los fondos de atención a víctimas y ofendidos del delito, constituidos conforme a las disposiciones aplicables o en su caso al Estado, en los términos de la presente ley y los ordenamientos aplicables.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ABRIL DE 2018)</small>
 
-Los bienes sobre los que sea declarada la extinción de dominio o el producto de su enajenación, serán adjudicados y puestos a disposición del Gobierno del Estado a través de la Secretaría de Administración y Finanzas.
+Una vez que cause ejecutoria la sentencia que resuelva que es procedente la extinción de dominio, el juez ordenará su ejecución y la aplicación de los bienes a favor del Gobierno del Estado y ofendidos del delito si estos acreditaron la propiedad de los bienes dentro del procedimiento, en los términos de la presente ley y los ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2018)</small>
+
+Los bienes sobre los que sea declarada la extinción de dominio o el producto de su enajenación, serán adjudicados y puestos a disposición del Gobierno del Estado a través de la Secretaría de Administración y Finanzas, salvo los ya mencionados en el párrafo anterior de las personas que sean víctimas del delito y hayan acreditado su propiedad dentro del procedimiento.
 
 El Gobierno del Estado no podrá disponer de los bienes, aun y cuando haya sido decretada la extinción de dominio, si en alguna causa penal se ha ordenado la conservación de aquéllos por sus efectos probatorios, siempre que dicho auto o resolución le haya sido notificado previamente.
 
@@ -742,6 +762,12 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Consti
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO."]</small>
 
 P.O. 8 DE NOVIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NAYARIT".]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE NAYARIT".]
 
