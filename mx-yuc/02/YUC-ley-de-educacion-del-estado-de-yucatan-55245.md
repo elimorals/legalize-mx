@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2018-03-28"
+last_updated: "2018-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -240,6 +240,10 @@ XVIII.- Contribuir al desarrollo sostenible por medio de procesos de informació
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
 XIX.- Generar una cultura ambiental a través del conocimiento, la ética y el desarrollo de competencias que posibiliten un aprendizaje sobre la realidad local y alcanzar una mejor comprensión de las causas, consecuencias y posibles soluciones de los problemas ambientales.
+
+> <small>(ADICIONADA, D.O. 30 DE ABRIL DE 2018)</small>
+
+XX.- Promover la educación vial como disciplina consistente en fomentar la creación de hábitos y actitudes en el individuo que le permita comportarse con orden y seguridad en la vía pública.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de los escolares y al tipo, nivel y modalidad de educación que a éstos se imparta.
 
@@ -759,7 +763,9 @@ VI.- Fomente el amor y respeto a nuestra cultura, historia, ecosistema y patrimo
 
 VII.- Haga conciencia de la necesidad del aprovechamiento racional de los recursos naturales y de la protección del ambiente a través de la educación ambiental, basada en los principios de sostenibilidad, interdisciplinariedad, interculturalidad, responsabilidad, respeto por el medio ambiente y participación ciudadana, considerando las problemáticas ambientales actuales y futuras y las características regionales de la entidad, y
 
-VIII.- Preste especial atención a la formación fundamentada en valores tanto morales como cívicos de los educandos.
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2018)</small>
+
+VIII.- Preste especial atención a la formación fundamental en valores tanto morales como cívicos de los educandos y promueva el establecimiento de una nueva y adecuada cultura vial.
 
 ###### Artículo 42.
 
@@ -2330,3 +2336,11 @@ El director general del Instituto para el Desarrollo Profesional Docente del Est
 Quinto. Regulación Consejo Consultivo
 
 La Junta de Gobierno del Instituto para el Desarrollo Profesional Docente del Estado de Yucatán deberá emitir el acuerdo para regular el Consejo Consultivo para el Desarrollo Profesional Docente del Estado de Yucatán dentro de un plazo de ciento ochenta días naturales, contado a partir de su instalación.
+
+D.O. 30 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 613/2018 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN VIAL".]
+
+Artículo único. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el diario oficial del estado.
