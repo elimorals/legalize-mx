@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2016-03-07"
+last_updated: "2018-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2018.
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -89,9 +89,7 @@ XVII.- Regular el Sistema Estatal de Suelo y Reservas Territoriales para el Orde
 
 XVIII.- Determinar las normas generales a las que se sujetará la regularización de la tenencia de la tierra urbana;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
-
-XIX.- Fijar las normas generales de la infraestructura y el equipamiento vial, la movilidad urbana, el tránsito de vehículos y peatones, el uso de la bicicleta como medio de transporte sostenible, alternativo y no contaminante, los estacionamientos públicos comprendiendo bici estacionamientos y el sistema de transporte de carga y de pasajeros en la Entidad;
+XIX.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 XX.- Normar la preservación del patrimonio cultural de los centros de población del Estado;
 
@@ -401,7 +399,7 @@ LXXXIX.- INFRAESTRUCTURA URBANA: los sistemas y redes de organización, distribu
 
 XC.- INTEGRACIÓN URBANÍSTICA: conjunto de elementos que permiten establecer la congruencia e integración funcional de las obras de urbanización o edificación de un área, lote o predio, en relación con los usos o destinos y su estructura y traza urbana, que se determinan para el mismo en el respectivo programa de desarrollo urbano y ordenamiento del territorio y se certificaron en la constancia municipal de compatibilidad urbanística y en su caso, en el dictamen estatal de congruencia urbanística;
 
-XCI.- ITINERARIO: ruta y horarios a que debe sujetarse la prestación del servicio público de transporte colectivo de personas;
+XCI.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 XCII.- IVSOP: el Instituto de Vivienda Social y Ordenamiento de la Propiedad del Estado;
 
@@ -499,7 +497,7 @@ CXXXVIII.- RESTRICCIÓN LATERAL: la distancia que debe dejarse libre de construc
 
 CXXXIX.- RESTRICCIÓN POSTERIOR: la distancia en la cual se restringe la altura o la distancia de la construcción dentro de un lote, con objeto de no afectar la privacidad y el asoleamiento de las propiedades vecinas, medida desde la línea de propiedad de la colindancia posterior;
 
-CXL.- REVISTA VEHICULAR: es la inspección física de las unidades, equipamiento auxiliar o infraestructura de los servicios de transporte público y privado, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
+CXL.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 CXLI.- RIESGO URBANO: la vulnerabilidad a la que puede estar sujeta un centro de población, por fenómenos naturales o derivados de la actividad humana;
 
@@ -507,7 +505,7 @@ CXLII.- RUTA: el recorrido autorizado para la prestación del servicio de transp
 
 CXLIII.- SEGUOT: la Secretaría de Gestión Urbanística y Ordenamiento Territorial de la Administración Pública del Estado;
 
-CXLIV.- SEÑALIZACIÓN VIAL: tableros fijados en postes, marcos, mobiliario y otras estructuras, con leyendas o símbolos estáticos, así como las marcas pintadas o colocadas en el pavimento, guarniciones o estructuras ubicadas dentro de la vialidad urbana o adyacentes a la misma pública o privada, que tienen por objeto regular el tránsito de peatones y vehículos, proporcionar información a los usuarios y controlar su utilización;
+CXLIV.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 CXLV.- SERVICIOS CONEXOS O AUXILIARES: Son todos los bienes muebles o inmuebles de infraestructura que resulten complementarios a la prestación del Servicio Público de Transporte, previstos por este Código y sus reglamentos y que son susceptibles de permiso o concesión a particulares;
 
@@ -713,7 +711,7 @@ II.- Los diferentes tipos de fraccionamientos, desarrollos inmobiliarios especia
 
 III.- Los índices de densidad de población y de edificación habitacional, así como los coeficientes de ocupación, utilización y de construcción del suelo;
 
-IV.- La planeación, organización y control de la movilidad urbana sustentable, infraestructura y equipamiento vial, del tránsito, de los estacionamientos públicos y del sistema de transporte;
+IV.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 V.- La dotación adecuada y suficiente de equipamiento e infraestructura y la debida prestación de servicios urbanos;
 
@@ -877,7 +875,7 @@ I.- Ordenar la elaboración, ejecución, control, revisión y evaluación de los
 
 II.- Aprobar, modificar o cancelar los programas estatales a que se refiere la Fracción anterior y que sean de su competencia;
 
-III.- Ordenar la elaboración, ejecución, control, revisión y evaluación, así como aprobar las políticas y el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos, que comprende la infraestructura vial, el transporte público local de pasajeros y de carga y los estacionamientos, en coordinación con los ayuntamientos y con el apoyo de la SEGUOT, la SICOM, la SMAE, la Secretaría de Gobierno del Estado, la Coordinación Estatal de Planeación y Proyectos y la Secretaría Estatal de Seguridad Pública;
+III.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 IV.- Proponer a los ayuntamientos y, en su caso, el Congreso del Estado, la determinación de provisiones, reservas, usos y destinos de áreas, lotes y predios, de acuerdo a lo previsto en los programas estatales a que se refieren las Fracciones I y II de este Artículo;
 
@@ -899,9 +897,7 @@ XII.- Proporcionar a los ayuntamientos el apoyo técnico necesario para que en e
 
 XIII.- Celebrar con los ayuntamientos de la Entidad convenios para la prestación de servicios públicos, la ejecución de acciones, obras, inversiones y la realización de cualquier otra empresa de beneficio colectivo, según se establezca en los programas de desarrollo urbano, de ordenamiento territorial y de vivienda, de acuerdo a lo dispuesto en la Constitución Política del Estado, en este Código, las leyes y demás disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
-
-XIV.- Fomentar, en coordinación con la Secretaría de Infraestructura y Comunicaciones, la Coordinación Estatal de Planeación y Proyectos y los Ayuntamientos, la planeación y la ejecución de infraestructura y equipamiento de orden público y para beneficio de personas con discapacidad, de grupos vulnerables y ciclistas;
+XIV.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 XV.- Coordinar y concertar con los sectores público, social y privado el financiamiento y/o concesionamiento de obras públicas de infraestructura, equipamiento y servicios urbanos en el Estado;
 
@@ -913,7 +909,7 @@ XVIII.- Promover ante el Ejecutivo Federal la expropiación de terrenos ejidales
 
 XIX.- Otorgar, suspender, rescatar y revocar las concesiones y permisos que le correspondan de acuerdo a lo dispuesto en este Código y demás ordenamientos jurídicos aplicables, con el apoyo de la Secretaría de Gobierno;
 
-XX.- Otorgar, suspender, rescatar o revocar las concesiones o permisos en materia del servicio de transporte público de pasajeros y de carga, con el apoyo de la Secretaría de Gobierno y de la SEGUOT;
+XX.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 XXI.- Expedir la reglamentación estatal para facilitar el cumplimiento de este Código; y
 
@@ -1009,53 +1005,43 @@ b) Unificar los criterios técnicos, jurídicos y administrativos, así como de 
 
 c) Proponer el análisis y evaluación de los programas de rescate, conservación y mejoramiento en zonas y monumentos del patrimonio cultural en el Estado;
 
-XXXIX.- Elaborar, conducir, controlar y evaluar las políticas y el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos, en coordinación con los ayuntamientos, la SICOM, la SMAE, la Secretaría de Gobierno del Estado, la Coordinación Estatal de Planeación y Proyectos y la Secretaría Estatal de Seguridad Pública;
+XXXIX.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XL.- Coordinar con las autoridades federales, estatales y municipales la realización de acciones, obras e inversiones en materia de movilidad urbana sustentable y transporte de carga y de pasajeros de competencia del Gobierno del Estado;
+XL.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLI.- Expedir conforme a las disposiciones jurídicas aplicables, en coordinación con la SICOM, la Secretaría de Gobierno de la Administración Pública Estatal y los ayuntamientos, las normas técnicas y administrativas a que deben sujetarse la construcción y operación de obras, instalaciones y programas para la prestación del servicio público de transporte de pasajeros y de carga de competencia del Gobierno del Estado;
+XLI.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLII.- Estudiar, planear y controlar el servicio público de transporte en todas sus modalidades, el servicio público especializado y el servicio público de estacionamiento y terminales de jurisdicción estatal, sin perjuicio de la competencia de los municipios;
+XLII.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLIII.- Expedir los lineamientos generales para el otorgamiento, suspensión, rescate y revocación de las concesiones y permisos de trasporte público de pasajeros y de carga de competencia estatal, con el apoyo del Consejo Consultivo;
+XLIII.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLIV.- Integrar los expedientes para la tramitación de los permisos y concesiones que otorgue el Gobernador del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción estatal, previo cumplimiento de lo dispuesto en este Código, y remitirlos a la Secretaría de Gobierno del Estado para su trámite conducente;
+XLIV.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLV.- Llevar el Registro de Concesiones, Permisos y Operadores del Servicio Público Local de Transporte de Pasajeros y de Carga en el Estado, en coordinación con la Secretaría de Gobierno y la Secretaría de Seguridad Pública del Estado;
+XLV.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLVI.- Realizar estudios para la optimización del transporte colectivo y dictar y supervisar el cumplimiento de las normas para el mejor aprovechamiento de este;
+XLVI.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLVII.- Recomendar a las autoridades municipales competentes las acciones que en materia de ingeniería vial y movilidad urbana sustentable considere necesarias;
+XLVII.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLVIII.- Diseñar y autorizar las rutas del transporte público, en coordinación con los ayuntamientos, la SICOM, la Secretaría de Seguridad Pública del Estado y la Coordinación Estatal de Planeación y Proyectos, así como determinar las rutas que utilizarán los concesionarios de transporte público en el Estado;
+XLVIII.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLIX.- Realizar las acciones técnicas, jurídicas y operativas necesarias para el debido control y regulación del transporte en el Estado;
+XLIX.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-L.- Establecer las políticas y normas de operación de los paraderos del servicio público de transporte de pasajeros en el Estado; las alternativas de equipamiento de las áreas dedicadas al servicio del transporte, de sitios de transporte público de carga, taxis y autobús, así como las autorizaciones o permisos de cambios de unidades y las frecuencias y horarios de las unidades de transporte de carga y pasajeros, sin perjuicio de la competencia que corresponda a los municipios;
+L.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-LI.- Autorizar, regular y sancionar la publicidad en los vehículos de transporte público y privado en el Estado;
+LI.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-LII.- Otorgar las autorizaciones, permisos y licencias que en materia de transporte público local de pasajeros y de carga sean de su competencia;
+LII.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-LIII.- Supervisar e inspeccionar la debida prestación del servicio público local de transporte de pasajeros y de carga en el Estado;
+LIII.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-LIV.- Promover, organizar e impartir cursos y talleres de capacitación profesional y técnica para concesionarios y operadores del servicio público de transporte de pasajeros y carga de su competencia;
+LIV.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-LV.- Aplicar periódicamente exámenes psicofísicos y médicos en coordinación con la Secretaría de Salud del Gobierno del Estado, a los conductores de los vehículos de los servicios públicos de transporte de pasajeros y de carga de su competencia;
+LV.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-LVI.- Autorizar las tarjetas de prepago o descuento para los usuarios del trasporte público colectivo de pasajeros y celebrar los convenios con los sectores social y privado para su implementación;
+LVI.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-LVII.- Actuar a solicitud de partes, como árbitro y mediadora en los conflictos que se susciten entre los concesionarios o permisionarios o entre estos y los usuarios del transporte público de su competencia;
-
-LVIII.- Asesorar, en coordinación con los ayuntamientos y en su caso, con las procuradurías, a los habitantes de las colonias, barrios, fraccionamientos y condominios en sus problemas relativos a la prestación de servicios urbanos, derivados del incumplimiento del presente Código y demás disposiciones jurídicas aplicables;
-
-LIX.- Conocer y dar trámite en coordinación en su caso, con las procuradurías, a las denuncias populares que se le presenten con base a lo dispuesto en este Código;
-
-LX.- Mediar y conciliar cuando se le solicite, en coordinación en su caso, con los ayuntamientos y las procuradurías, en asuntos, conflictos y controversias entre colonos, adquirentes de lotes, predios y viviendas, condóminos, fraccionadores y promotores de condominios y desarrollos inmobiliarios especiales;
-
-LXI.- Calificar las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y que sean de su competencia;
-
-LXII.- Celebrar los convenios y contratos con los sectores público, social y privado para el debido ejercicio de sus atribuciones y ejecución de los programas de su competencia; y
+LVII.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 LXIII.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 
@@ -1145,9 +1131,9 @@ XXXVII.- Por conducto de las unidades externas de supervisión, en coordinación
 
 XXXVIII.- Dictaminar en coordinación con la SEGUOT, las obras de urbanización en los fraccionamientos previamente a su municipalización y de los desarrollos inmobiliarios especiales, así como de los condominios, antes de entregarse a la administración de los mismos;
 
-XXXIX.- Participar con la SEGUOT en la elaboración, ejecución, control y evaluación de las políticas y el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos, que comprende la infraestructura vial, el transporte público local y los estacionamientos, en coordinación con la SICOM, la Secretaría de Gobierno y la Secretaría de Seguridad Pública del Estado;
+XXXIX.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XL.- Apoyar a la SEGUOT en la elaboración de las normas técnicas y administrativas a que deben sujetarse la construcción y operación de obras, instalaciones y programas para la prestación del servicio público de transporte de competencia del Gobierno del Estado;
+XL.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 XLI.- Instalar el Comité Municipal en los primeros tres meses de iniciar la administración del ayuntamiento;
 
@@ -1159,17 +1145,15 @@ XLIV.- Mediar y conciliar cuando se les solicite, en coordinación en su caso, c
 
 XLV.- Controlar las acciones, obras y servicios que se ejecuten en el municipio para que sean compatibles con la legislación y programas aplicables;
 
-XLVI.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de asentamientos humanos, desarrollo urbano, ordenamiento del territorio, vivienda y transporte en su jurisdicción y de acuerdo con su competencia;
+XLVI.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-XLVII.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
+XLVII.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
 
 XLVIII.- Fungir como miembros propietarios de la Comisión Estatal, de la Comisión de Vivienda y de las comisiones de conurbación intraestatales que se establezcan;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
-
-XLIX.- Prever el uso de la bicicleta en sus Planes de Desarrollo Municipales, así como desarrollar programas de fomento de su uso; y
+XLIX.- (DEROGADA POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
 
@@ -1761,105 +1745,27 @@ El reglamento interior que para el efecto expida el Presidente de la Comisión d
 
 ###### ARTÍCULO 69.
 
-El Consejo Consultivo es un órgano de consulta técnica y de apoyo en materia del transporte de pasajeros y de carga, en vialidades o caminos de jurisdicción local y se integrará por:
-
-I.- Un Presidente, que será el Secretario de Gestión Urbanística y Ordenamiento Territorial de la Administración Pública del Estado;
-
-II.- Un Secretario técnico, que será el Director General de Transporte Público de la SEGUOT;
-
-III.- Cinco vocales, que serán representantes de las secretarías de Gobierno, de Infraestructura y Comunicaciones, de Seguridad Pública, de Medio Ambiente y de Salud de la Administración Pública del Estado;
-
-IV.- Un representante de cada uno de los ayuntamientos del Estado;
-
-V.- Se invitará como vocal al Director General del Centro de la Secretaría de Comunicaciones y Transportes del Gobierno Federal en el Estado;
-
-VI.- Un representante de cada una de las siguientes modalidades del transporte público local:
-
-a) Vehículos de alquiler;
-
-b) Camionetas de carga;
-
-c) Transporte de materiales;
-
-d) Transporte colectivo foráneo;
-
-e) Autobuses urbanos;
-
-f) Transporte de personal; y
-
-g) Transporte escolar.
-
-VII.- Un representante del Colegio de Ingenieros Civiles y del Colegio de Urbanistas del Estado.
-
-Por cada miembro propietario se nombrará un suplente.
-
-Los representantes de los ayuntamientos serán designados por cada uno de los presidentes municipales.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 70.
 
-Los representantes de las organizaciones de prestadores del servicio de transporte público estatal deberán reunir los siguientes requisitos:
-
-I.- Ser mayores de edad;
-
-II.- Ser reconocidos como auténticos prestadores del servicio de transporte público en el Estado;
-
-III.- No ostentar cargo alguno en la mesa directiva de su respectivas organizaciones; y
-
-IV.- Ser de reconocida honorabilidad y solvencia moral.
-
-Los representantes de las organizaciones durarán en su cargo un año y ninguna organización podrá acreditar más de un representante.
-
-La designación de los representantes de las organizaciones de prestadores de servicio de transporte público se hará mediante el sistema de insaculación, observándose las siguientes reglas:
-
-a) En el transcurso del primer mes del año, después de la aprobación de este Código, el Presidente del Consejo Consultivo, convocará a las organizaciones de prestadores de servicio de transporte público estatal reconocidas para que propongan una terna para candidato a representante de su organización, lo que deberá hacer dentro de los tres días siguientes a la fecha de la convocatoria respectiva, en caso contrario, se entenderá que no desean hacer uso de este derecho;
-
-b) El Presidente del Consejo Consultivo, comunicará a las organizaciones lugar, día y hora en que se llevará a cabo el proceso de insaculación; y
-
-c) El día y hora señalados, el Presidente del Consejo Consultivo, asistido del Secretario Técnico, separará las propuestas por tipo de servicio público de transporte, hecho lo cual depositará las boletas que contengan los nombres de los candidatos propuestos en sobre debidamente cerrado. Acto continuo y previa designación de un escrutador se procederá a sacar los sobres depositados, y de acuerdo al orden en que hayan salido se procederá a su apertura, quedando acreditado el primero como representante propietario y el segundo como su respectivo suplente. Se tomará nota del resultado y se tendrán por acreditados de inmediato, expidiéndoles en ese mismo momento su nombramiento respectivo.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 71.
 
-El Presidente del Consejo Consultivo podrá invitar a las sesiones del mismo, con voz pero sin voto, a un participante eventual que considere conveniente, de alguna dependencia o entidad del sector público u organismo del sector privado o social
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 72.
 
-El Consejo Consultivo tendrá las siguientes atribuciones:
-
-I.- Coadyuvar con la SEGUOT en la expedición de los lineamientos generales para el otorgamiento, suspensión, rescate y revocación de las concesiones de transporte de pasajeros y de carga de competencia estatal;
-
-II.- Apoyar a la SEGUOT en la elaboración, ejecución, control y evaluación de las políticas y el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos;
-
-III.- Servir de mecanismo de consulta de los sectores público, social y privado en materia del servicio público de transporte de pasajeros y carga de jurisdicción estatal y municipal;
-
-IV.- Opinar sobre la determinación, aumento y reducción de tarifas por la prestación del servicio público de transporte local de pasajeros y de carga;
-
-V.- Opinar sobre los estudios de fomento, control y necesidad de transporte público local de pasajeros y de carga;
-
-VI.- Coadyuvar en la planeación, diseño y fomento de proyectos de transporte, infraestructura y equipamiento vial;
-
-VII.- Realizar estudios y propuestas sobre la calidad, seguridad, comodidad, funcionalidad y modernidad del transporte público local de pasajeros y de carga;
-
-VIII.- Aprobar su Reglamento Interior;
-
-IX.- Recibir y dar trámite a las solicitudes que presenten los interesados en prestar el servicio concesionado de transporte público; y
-
-X.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 73.
 
-El Consejo Consultivo celebrará sesiones ordinarias y extraordinarias.
-
-Las sesiones ordinarias se celebrarán cuando menos cada tres meses y serán válidas con la asistencia del 50% más uno de sus miembros. Las extraordinarias cuando así lo determine y acuerde el propio Consejo Consultivo o su Presidente.
-
-Unas y otras se celebrarán conforme el orden del día previamente aprobado.
-
-El Presidente del Consejo girará los citatorios correspondientes y el Secretario levantará el acta de la sesión respectiva.
-
-Los acuerdos que tome el Consejo Consultivo serán por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 74.
 
-El reglamento interior que para el efecto expida el Consejo Consultivo, señalará la organización y funcionamiento interno del mismo.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 75.
 
@@ -3605,21 +3511,7 @@ En las áreas ya urbanizadas, donde se ubican coladeras de cualquier índole, so
 
 ###### ARTÍCULO 186.
 
-Las personas con discapacidad tendrán derecho exclusivo a ocupar los espacios de estacionamiento que sean destinados para ellos.
-
-Las autoridades estatales y municipales deberán proporcionar a las personas con discapacidad que utilicen vehículos de motor, un engomado con el logotipo internacional y distintivo que permita conocer, que fue expedido por la autoridad competente para los que tengan vehículo propio o un tarjetón especificando su vigencia y con las mismas características para aquellas personas con discapacidad temporal que ocupen vehículos propios, de alquiler o prestados.
-
-Las autoridades de tránsito, impondrán la misma multa que corresponda al estacionamiento en lugar prohibido, a los infractores que ocupen los espacios destinados a personas con discapacidad.
-
-A efecto de facilitar el estacionamiento de vehículos, de los cuales tengan que descender o ascender personas con discapacidad o adultos mayores, la autoridad vial dispondrá las medidas necesarias, las que inclusive podrán aplicarse en zonas de aparcamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones.
-
-Los estacionamientos de vehículos en la vía pública deberán de contar, en las zonas comerciales, por lo menos con tres espacios por manzana, para el ascenso y descenso de personas con discapacidad.
-
-Dichos espacios deberán diseñarse de acuerdo a los requerimientos específicos y encontrarse claramente señalados como reservados para uso exclusivo.
-
-Fuera del área comercial a que se refiere este Artículo, pero en sitios en que se establezcan oficinas, escuelas, centros recreativos o culturales; o cualquier otro lugar con acceso al público, deberá contar por igual con espacios para el ascenso y descenso exclusivo de personas con discapacidad.
-
-Para tal efecto, deberá contarse, previamente, con la autorización de construcción expedida por las autoridades del ramo, con la finalidad de que estas indiquen el área más adecuada para ello.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 187.
 
@@ -10651,299 +10543,115 @@ IX.- Todas aquellas acciones de urbanización o edificación previstas en los pr
 
 ###### ARTÍCULO 938.
 
-El presente título regulará:
-
-I.- Las acciones tendientes a garantizar a las personas el acceso y aprovechamiento a los servicios de vialidad, tránsito y transporte, en condiciones de higiene, seguridad y continuidad;
-
-II.- La planeación, organización y control de la infraestructura y equipamiento de las vías estatales de comunicación;
-
-III.- Las acciones relativas a la construcción, administración y aprovechamiento de las obras de infraestructura afectas a los servicios de vialidad, tránsito y transporte;
-
-IV.- La compatibilidad de los sistemas de transporte con el desarrollo urbano armónico y la preservación, conservación y restauración del medio ambiente;
-
-V.- Determinar las bases para planear, establecer, regular, administrar y controlar el servicio público de transporte local;
-
-VI.- La procuración de calidad, accesibilidad, seguridad, regularidad, rentabilidad, sustentabilidad, cobertura y eficiencia en el servicio público de transporte local;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
-
-VII.- Las características de la infraestructura del transporte urbano para mejorar la accesibilidad a personas con problemas de movilidad, con discapacidad, adultos mayores y niños;
-
-VIII.- Las características de los vehículos y sus condiciones operativas, necesarias para permitir su circulación, con base en las normas oficiales mexicanas aplicables; y
-
-IX.- Los requisitos y condiciones para establecer y operar servicios conexos.
-
-Constituyen servicios conexos:
-
-a) Las centrales de radio, las del servicio telefónico y las que por cualquier otro medio de comunicación se destinen para coordinar el proceso de solicitud y despacho del servicio público;
-
-b) La instalación de paraderos y cobertizos destinados a los usuarios del servicio público;
-
-c) Los terrenos e instalaciones destinados al depósito de los vehículos del servicio complementario;
-
-d) Los servicios publicitarios y los de promoción visual que se efectúen por medio de o en las unidades del servicio de transporte público; y
-
-e) Los demás que determine la SEGUOT.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 939.
 
-La SEGUOT en coordinación con la SICOM, integrará la planeación territorial y urbanística con la de transporte, desarrollando mecanismos de coordinación y cooperación administrativa, para mejorar la eficiencia de los diferentes sistemas de movilidad sustentable y sostenible, con el objeto de disminuir los efectos negativos de las infraestructuras lineales sobre espacios protegidos, las zonas de conservación y preservación y la fragmentación del territorio.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 940.
 
-El Gobernador del Estado a través del Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos, planificará el transporte y sus infraestructuras, con el objeto de impulsar el desarrollo económico, la competitividad, la seguridad vial y el cambio modal hacia modos más sustentables, como el transporte colectivo y el uso de bicicleta.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ### CAPÍTULO II. De la Movilidad Urbana, Vía Pública, Vialidad, Tránsito Local y Estacionamientos Públicos
 
 ###### ARTÍCULO 941.
 
-La movilidad urbana debe facilitar y garantizar el desarrollo económico del Estado, la calidad de vida de sus habitantes y la protección de su medio ambiente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 942.
 
-El Gobierno del Estado en coordinación con los ayuntamientos introducirán restricciones de tráfico, peatonalización, límites de velocidad, con el objeto de garantizar la seguridad de la población así como conservar y restaurar el medio ambiente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 943.
 
-El Gobierno del Estado planeará el adecuado funcionamiento del servicio público de transporte y promoverá en los términos del Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos, el uso del transporte no motorizado, colaborando con las autoridades municipales en la planeación y ejecución de acciones en favor de peatones y ciclistas que permitan generar las condiciones que conviertan a la bicicleta en un medio de transporte plenamente integrado al sistema vial y establezca las políticas, formas, condiciones y lineamientos para su uso y promoción.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 944.
 
-Vialidad es el conjunto de obras y servicios relacionados con las vías públicas dentro del Estado que tiene por objeto ordenar el tránsito de vehículos y personas, conforme a las determinaciones que emita la autoridad competente, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 945.
 
-Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro Público de la Propiedad y al Instituto Catastral del Estado para que hagan los registros y las cancelaciones respectivas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 946.
 
-Las vías públicas y los demás bienes de uso común o destinados a un servicio público municipal, son bienes de dominio público del municipio, regidos por las disposiciones contenidas en este Código y en la Ley Municipal del Estado.
-
-La determinación de vía pública oficial la realizará el ayuntamiento a través de las constancias de compatibilidad urbanística, números oficiales y derechos de vía, de conformidad con la documentación técnica de los programas aplicables o los estudios que se realicen para tal efecto.
-
-Igualmente, corresponde al ayuntamiento respectivo determinar las secciones oficiales de las calles, conforme a lo previsto en los programas aplicables, así como la cancelación de estas y sus ampliaciones, reducciones o prolongaciones. En el caso de las autorizaciones de fraccionamientos expedidas por la Comisión Estatal, esta determinará las secciones de las calles correspondientes.
-
-Los sobrantes de alineamiento resultantes de la rectificación de una vía pública podrán ser enajenados, aunque tendrán derecho del tanto los propietarios de los predios colindantes. En el caso de que estos sobrantes constituyan el frente de dichos predios, forzosamente se deberán enajenar a ellos, o en su caso permanecerán bajo el dominio municipal.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 947.
 
-Se requiere de permiso o autorización del ayuntamiento para:
-
-I.- Realizar obras, modificaciones o reparaciones en la vía pública;
-
-II.- Ocupar la vía pública con instalaciones de servicio público, comercios semifijos, construcciones provisionales o mobiliario urbano;
-
-III.- Ocupar la vía pública con escombros o materiales de construcción;
-
-IV.- Romper el pavimento o hacer cortes en las banquetas y guarniciones de la vía pública para la ejecución de obras públicas o privadas; y
-
-V.- Construir instalaciones subterráneas en la vía pública.
-
-Podrá otorgarse permiso o autorización para las obras anteriores, señalando en cada caso las condiciones bajo las cuales se conceda, los medios de protección que deberán tomarse, las acciones de restitución y mejoramiento de las áreas verdes y zonas arboladas afectadas, y los horarios en que deban efectuarse.
-
-Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o a pagar su importe cuando el ayuntamiento las realice.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 948.
 
-No se autorizará el uso de las vías públicas en los siguientes casos:
-
-I.- Para aumentar el área de un predio o de una construcción aunque esta sea voladiza;
-
-II.- Para obras, actividades o fines que ocasionen molestias a los vecinos, tales como la producción de polvos, humos, malos olores, gases, ruidos y luces intensas;
-
-III.- Para conducir líquidos por su superficie;
-
-IV.- Para depósito de basura y otros desechos;
-
-V.- Para instalar comercios semifijos en vías primarias y de acceso controlado;
-
-VI.- Para aquellos otros fines que el ayuntamiento considere contrarios al interés público; y
-
-VII.- Aquellos supuestos que establezca la normatividad municipal respectiva.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 949.
 
-Los permisos, autorizaciones o concesiones que el ayuntamiento otorgue para la ocupación, uso y aprovechamiento de las vías públicas o cualesquiera otros bienes de uso común o destinados a un servicio público, no crean ningún derecho real o posesorio.
-
-Los permisos, autorizaciones o concesiones serán siempre revocables, intransferibles y temporales y en ningún caso podrán otorgarse con perjuicio del libre, seguro y expedito tránsito, del acceso a los predios colindantes, de los servicios públicos instalados, o en general, de cualesquiera de los fines a que estén destinadas las vías públicas y los bienes mencionados.
-
-En los permisos que el ayuntamiento expida para la ocupación o uso de la vía pública, se indicará el plazo para retirar las obras o las instalaciones a que se ha hecho referencia.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 950.
 
-Toda persona que ocupe con obras e instalaciones la vía pública, estará obligada a retirarlas por su cuenta cuando el ayuntamiento lo requiera, así como mantener las señales necesarias para evitar accidentes.
-
-Igualmente queda prohibido obstruir el libre tránsito por la vía pública, colocando cercas, bardas, topes, mallas, puertas, cadenas, rieles, mojoneras o cualquier otro obstáculo, salvo lo dispuesto en este Código en lo referente a las urbanizaciones cerradas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 951.
 
-Los escombros, excavaciones o cualquier obstáculo en la vía pública originados por obras públicas o privadas, deberán ser señalados con banderas o letreros en el día y además con señales luminosas durante la noche. Las dimensiones y características de los señalamientos serán fijados por el ayuntamiento. Los daños causados por la falta de señales apropiadas serán reparados por el propietario y/o poseedor de las obras.
-
-Será motivo de sanción a los propietarios, los contratistas y peritos, la violación de este Artículo.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 952.
 
-Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales, aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que el ayuntamiento señale. Si este plazo fuese excedido, el mismo ayuntamiento realizará los trabajos con cargo al propietario y/o poseedor.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 953.
 
-Cuando un predio, edificio o construcción de propiedad particular sea motivo de insalubridad o molestia, el ayuntamiento ordenará al propietario del mismo que haga desaparecer esos motivos en un plazo perentorio, mismo que al ser excedido, dará lugar a que el mismo ayuntamiento ejecute los trabajos necesarios con cargo al propietario y/o poseedor.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 954.
 
-En casos de fuerza mayor, los concesionarios podrán ejecutar de inmediato las obras de emergencia que se requieran, pero estarán obligados a dar aviso y a solicitar la autorización correspondiente en un plazo de tres días, a partir de aquel en que se inicien dichas obras.
-
-Cuando se tenga necesidad de remover o de retirar dichas obras, no estará obligado el ayuntamiento a pagar cantidad alguna y el costo de retiro será a cargo de la empresa o particular correspondiente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 955.
 
-Las obras o instalaciones aéreas y subterráneas deberán apegarse estrictamente a las especificaciones técnicas que establezca el Código Municipal respectivo y/o el Reglamento de Construcciones y estarán bajo la supervisión directa del ayuntamiento.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 956.
 
-El ayuntamiento establecerá la nomenclatura oficial para la denominación de las vías públicas, parques, jardines, plazas y todo espacio público susceptible de recibir denominación.
-
-Previa solicitud, señalará para cada predio que tenga frente a la vía pública un sólo número oficial, que corresponderá a la entrada del mismo.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 957.
 
-La seguridad vial, se sujetará a lo previsto en la Ley de Vialidad del Estado de Aguascalientes, este Código y demás disposiciones jurídicas y administrativas aplicables, y a las políticas establecidas, de acuerdo con las siguientes bases:
-
-I.- La aplicación de políticas que tiendan a una mejor utilización de vialidad, así como del tránsito de personas, vehículos y animales;
-
-II.- Las limitaciones y restricciones que se establezcan con objeto de preservar el ambiente y salvaguardar el orden público en la vialidad;
-
-III.- Las limitaciones y restricciones que se establezcan para el tránsito de vehículos en la vialidad, con objeto de mejorar la circulación y salvaguardar la seguridad de personas y fomentar la seguridad vial;
-
-IV.- La inscripción en el Registro Vehicular, la expedición de placas y tarjetas de circulación y engomados de identificación de los mismos, control de la infraestructura, servicios y elementos inherentes o incorporados a la vialidad, bajo la vigilancia, verificación y supervisión de las autoridades correspondientes, a fin de que reúnan las condiciones y requisitos que establezcan las disposiciones jurídicas y administrativas aplicables;
-
-V.- La determinación de lineamientos para permitir el aprovechamiento de la vialidad, siempre y cuando, se cumpla con las disposiciones aplicables en materia de construcción y diseño, así como las medidas de seguridad para el tránsito de vehículos, peatones y animales;
-
-VI.- El retiro de la vialidad de los vehículos y objetos que ilícitamente obstaculicen, limiten o impidan el uso adecuado de la vialidad o pongan en peligro el tránsito de personas o vehículos;
-
-VII.- El diseño y aplicación de medidas para garantizar la seguridad en los sistemas de transporte público de vía exclusiva, proporcionados por el Estado, ayuntamientos o los particulares;
-
-VIII.- La determinación de lineamientos para permitir el estacionamiento de vehículos en la vialidad y fuera de ella, de acuerdo con el uso de suelo autorizado y las disposiciones aplicables en materia de construcción, así como las medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o peatones, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público;
-
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
-
-IX.- Incluir en el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos: Ciclovías, Bici estacionamientos, el fomento de la infraestructura del transporte colectivo, y la adecuación de la infraestructura arquitectónica adecuada para las personas con discapacidad, en un marco de promover la seguridad vial en el Estado; y
-
-X.- En coordinación con las dependencias respectivas se diseñarán los mecanismos para mejorar la nomenclatura, señalización, infraestructura, servicios y demás elementos inherentes o incorporados a la vialidad. Deberán ser instalados en la forma que mejor garanticen su uso adecuado y la seguridad de los peatones en general y conductores. Las autoridades de desarrollo urbano estatal y municipales, conforme a lo dispuesto en los programas aplicables deberán prever que las autorizaciones de nuevos centros de población, colonias o fraccionamientos, condominios y desarrollos inmobiliarios especiales tengan vialidades primarias y secundarias con camellón central y con circulación en contrasentido.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 958.
 
-Para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social, cuya finalidad sea lícita, es necesario que se dé aviso por escrito al Estado y a las instancias de seguridad pública municipales correspondientes, responsables de ejecutar las labores de vialidad, vigilancia de tránsito y seguridad peatonal, con 48 horas de anticipación a la realización del evento.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 959.
 
-De acuerdo con el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos, la SEGUOT en coordinación con los ayuntamientos determinarán los mecanismos para fomentar el desarrollo de los estacionamientos, pensiones, corralones y confinamientos públicos, para todo tipo de vehículos, privilegiando su ubicación en base a los programas aplicables.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
-
-Deberá instalarse la infraestructura adecuada para brindar servicio de preferencia a las personas con discapacidad, grupos vulnerables y Ciclistas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 960.
 
-Los ayuntamientos promoverán la construcción o habilitación de espacios para estacionamientos, procurando su ubicación en lugares estratégicos, tomando en consideración lo indicado en los programas aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2016)</small>
-
-Tratándose de actividades comerciales, el uso de los cajones de estacionamiento, deberá ser sin costo para el usuario, en los términos previstos por la Ley de Estacionamientos de Vehículos para los Municipios del Estado de Aguascalientes.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2015)</small>
 
 ### CAPÍTULO III. De los Principios del Uso de la Bicicleta
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+ARTÍCULO 960 A.- (DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-ARTÍCULO 960 A.- Se reconocen como principios del uso y promoción de la Bicicleta, los siguientes:
+ARTÍCULO 960 B.- (DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-I.- El derecho al libre tránsito del ser humano con sus propios medios en las vías públicas del territorio estatal;
+ARTÍCULO 960 C.- (DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-II.- El derecho de las personas a acceder a medios de transporte alternativos, en condiciones adecuadas y seguras, con el mínimo impacto ambiental posible;
+ARTÍCULO 960 D.- (DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-III.- El fomento e incentivo del uso de la Bicicleta como medio de transporte saludable y no contaminante;
+ARTÍCULO 960 E.- (DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-IV.- La protección a las personas que usen la Bicicleta como medio de transporte;
+ARTÍCULO 960 F.- (DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
-V.- La adecuación de las políticas públicas en el Estado para generar las condiciones e infraestructuras necesarias que permitan usar la Bicicleta como medio de transporte;
-
-VI.- Organizar un sistema de transporte sostenible, eficiente y democrático;
-
-VII.- Involucrar a la sociedad en el mejoramiento ambiental sobre la movilidad de las personas; y
-
-VIII.- Dar prioridad a los medios de transporte de menor costo económico, social y ambiental.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
-
-ARTÍCULO 960 B.- De conformidad con la disponibilidad presupuestal, todas las dependencias de la administración pública estatal y municipal, deberán contar con Bici estacionamientos.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
-
-ARTÍCULO 960 C.- Los Ayuntamientos del Estado podrán implementar campañas de difusión permanentes de la educación vial que fomenten el uso de la Bicicleta, así como una cultura de respeto a los Ciclistas.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
-
-ARTÍCULO 960 D.- A fin de contribuir al uso más seguro de la Bicicleta en la entidad, se procurará que las vialidades que se construyan o se remodelen, incluyan Ciclovías.
-
-Las Ciclovías se clasifican de la siguiente manera:
-
-I.- Andador peatonal y ciclístico. Vía de circulación compartida por peatones y Ciclistas, ubicada en áreas verdes, camellones, derechos de vía, que pueden carecer de marcas que delimiten áreas de circulación;
-
-II.- Calle compartida ciclística. Vía preferente para la circulación de Ciclistas, compartida con el tránsito automotor, que generalmente cuenta con estacionamiento en vía pública y hasta dos carriles efectivos de circulación por sentido;
-
-III.- Calles de tránsito mixto. Vías destinadas a la circulación de vehículos automotores y bicicletas;
-
-IV.- Carril compartido ciclístico. Carril para la circulación de los Ciclistas, ubicado en el extremo derecho del arroyo vehicular, compartido generalmente con vehículos automotores;
-
-V.- Ciclocarril. Carril en la vialidad, destinado exclusivamente para la circulación de los Ciclistas, delimitado por marcas en el pavimento y ubicado en el extremo derecho del área de circulación de vehículos automotores;
-
-VI.- Vía ciclística. Vía exclusiva para la circulación unidireccional de Bicicletas, en el mismo sentido del tránsito, en caso de ser bidireccional, podrá ubicarse únicamente en camellones, áreas verdes y derechos de vía; y
-
-VII.- Zona de tránsito lento. Área delimitada al interior de barrios, poblados, colonias, fraccionamientos o unidades habitacionales, cuyas vías están diseñadas para reducir la intensidad y velocidad del tránsito, a efecto de que peatones, Ciclistas y conductores de vehículos automotores circulen de manera cómoda y seguir (sic).
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
-
-ARTÍCULO 960 E.- El Consejo de Movilidad estará integrado por:
-
-I.- El titular del Poder Ejecutivo del Estado o la persona que designe, quien fungirá como Presidente;
-
-II.- Un Secretario Ejecutivo, que será el titular de la SEGUOT, o la persona que designe;
-
-III.- Los titulares de las Secretarías de Gobierno, de Seguridad Pública, del Medio Ambiente, de Salud y de Turismo, correspondientes al Poder Ejecutivo del Estado; así como el titular del Instituto del Deporte del Estado de Aguascalientes y el titular del Instituto de Educación del Estado de Aguascalientes, o las personas que éstos designen;
-
-IV.- Los Presidentes Municipales de los once municipios de la Entidad, o las personas que éstos designen;
-
-V.- El Diputado Presidente de la Comisión del Transporte del H. Congreso del Estado y el Diputado Presidente de la Comisión de Planeación, Desarrollo Urbano y Obra Pública, o las personas que éstos designen; y
-
-VI.- Un representante de las asociaciones civiles legalmente constituidas cuyo objeto esté relacionado con la promoción de uso de la Bicicleta como medio de transporte a invitación del Secretario Ejecutivo.
-
-Las personas que, en su caso, sean designadas por los servidores públicos referidos en las Fracciones anteriores, deberán contar con conocimientos en materia de urbanismo o movilidad.
-
-Por acuerdo y a invitación del Consejo de Movilidad podrán participar en los trabajos de ésta, los servidores públicos de los órganos de administración pública federal y los representantes de las asociaciones civiles del Estado, cuya competencia u objeto, según corresponda, tenga relación con los fines de la promoción de uso de la Bicicleta como medio de transporte.
-
-El Secretario Ejecutivo será el responsable de dar cumplimiento a los acuerdos que emanen del Consejo de Movilidad.
-
-El cargo de consejero tendrá carácter honorífico.
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
-
-ARTÍCULO 960 F.- El Consejo de Movilidad tiene las siguientes funciones:
-
-I.- Emitir recomendaciones relacionadas con el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamiento;
-
-II.- Proponer las políticas públicas de uso y promoción de la Bicicleta;
-
-III.- Impulsar estudios sobre el uso de la Bicicleta como medio de transporte;
-
-IV.- Las demás que se establezcan (sic) el presente Código o las disposiciones reglamentarias aplicables;
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
-
-ARTÍCULO 960 G.- El Consejo sesionará ordinariamente dos veces al año y de manera extraordinaria cuando así se requiera.
-
-Las sesiones del Consejo de Movilidad serán de carácter público y se regirán en términos del Reglamento que al efecto emita el propio Consejo de Movilidad.
+ARTÍCULO 960 G.- (DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ### CAPÍTULO IV. De las Carreteras, Caminos y Puentes de Jurisdicción Local
 
@@ -11111,199 +10819,51 @@ Para la utilización en cualquier forma de los derechos de vía en materia del s
 
 ###### ARTÍCULO 981.
 
-Este capítulo tiene como objetivo especificar las modalidades del transporte público local, así como los lineamientos a seguir de cada una de las mismas, con la finalidad de que exista una mayor regulación en este ámbito.
-
-Estas normas serán aplicables a todas las modalidades en materia de transporte público.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 982.
 
-En aquellos casos en que sea necesario transitar por algún tramo o tramos de una carretera o camino federal, se deberá tramitar el permiso correspondiente en los términos de la legislación de la materia.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 983.
 
-Se declara de utilidad pública el servicio de transporte público local de pasajeros y de carga. La prestación del mismo corresponde al Poder Ejecutivo del Estado, quien decidirá si se hace cargo directamente de un servicio determinado o a través de particulares mediante concesión o permiso sujeto al cumplimiento de las disposiciones legales y reglamentarias que lo rigen.
-
-El servicio público de transporte local puede ser:
-
-I.- De carga, con las siguientes modalidades:
-
-a) TRANSPORTE DE CARGA LIGERA Y PESADA: destinado al traslado de mercancías dentro de los límites del territorio estatal, sujetándose a las condiciones de operación que establece este Código y sus normas reglamentarias en vehículos de hasta 3,5 toneladas de peso bruto vehicular y de más de 3,5 toneladas de peso bruto vehicular, respectivamente;
-
-b) TRANSPORTE DE MATERIALES PARA CONSTRUCCIÓN O MATERIALISTA: en vehículos tipo volteo o camiones destinados al acarreo de materiales para la construcción;
-
-c) TRANSPORTE DE LÍQUIDOS: en vehículos con tanque o remolque tipo tanque; y
-
-d) TRANSPORTE DE CARGA ESPECIALIZADA: el que requiere de equipo o condiciones adecuadas a su conservación y protección, así como permiso de la autoridad competente; y
-
-II.- De pasajeros, con las siguientes modalidades:
-
-a) TRANSPORTE URBANO: es aquel que se presta dentro de las zonas urbanas y conurbadas del territorio estatal, en vehículos tipo minibús y autobús de un cupo mínimo de veinte plazas o asientos;
-
-b) TRANSPORTE SUBURBANO: es aquel que se presta de las comunidades rurales hacia las cabeceras municipales y viceversa, o de comunidades intermunicipales dentro del territorio Estatal, en vehículos tipo minibús y autobús de un cupo mínimo de veinte plazas o asientos;
-
-c) TRANSPORTE URBANO Y FORÁNEO EN VEHÍCULOS DE ALQUILER O TAXIS: es aquel que se presta en unidades con un máximo de cuatro pasajeros, las cuales podrán ser con motor de combustión o eléctrico, servicio que se contrata por viaje con origen y destino variables;
-
-d) TRANSPORTE COLECTIVO FORÁNEO: es aquel que se presta en unidades tipo vehículo cerrado con capacidad de hasta 19 pasajeros, con rutas definidas con servicio que une a las áreas suburbanas, zonas conurbadas y comunidades rurales con los principales centros de población del Estado por caminos de jurisdicción local preferentemente; y
-
-e) TRANSPORTE DE PERSONAL: es el que se presta por un permisionario o concesionario, en los siguientes supuestos:
-
-1.- El destinado a traslado de personas de lugares predeterminados cercanos a sus domicilios hacia sus centros de trabajo y viceversa, dentro de los límites del territorio estatal o cuando su destino de transportación se relacione con fines laborales; y
-
-2.- El que se presta o es contratado por corporaciones, industrias, comercios, instituciones, asociaciones o grupos de particulares, para el traslado regular de sus trabajadores, agremiados, asociados o integrantes, en unidades tipo midibús, minibús y autobús en zonas urbanas, conurbadas y rurales, y en vehículo cerrado con 19 plazas exclusivamente en zonas urbanas;
-
-f) TRANSPORTE ESCOLAR: es el destinado al traslado de personas de sus domicilios a sus centros de estudio y viceversa, dentro de los límites del territorio estatal, se presta o es contratado por instituciones educativas, asociaciones de padres de familia o de particulares para el transporte de estudiantes, investigadores o comunidades académicas, en unidades tipo midibús, minibús, autobús y vehículo cerrado con capacidad de hasta 19 pasajeros;
-
-g) TURÍSTICO: es el destinado al traslado de personas exclusivamente hacia aquellos lugares situados dentro de los límites del territorio estatal, que revisten un interés histórico, arqueológico, cultural, arquitectónico o recreativo, dentro del territorio estatal en unidades tipo:
-
-1.- Bicicletas;
-
-2.- Triciclos;
-
-3.- Triciclos automotores;
-
-4.- Motocicletas;
-
-5.- Motonetas adaptadas;
-
-6.- Midibús;
-
-7.- Minibús;
-
-8.- Autobús; y
-
-9.- Vehículo cerrado con capacidad de hasta 19 pasajeros;
-
-h) MIXTO: Es el destinado al traslado de personas y mercancías en un mismo vehículo, con las medidas de seguridad necesarias para el traslado de personas de manera cómoda e higiénica, los vehículos deberán ser camionetas de doble cabina y con capacidad de carga de hasta 750 kg, los cuales podrán circular dentro de los municipios del Estado y zona conurbada.
-
-Las unidades de transporte público en cualquiera de sus modalidades, deberán de contar con moderadores de velocidad, denominados gobernadores, las cuales deberán tener un máximo de 60 km/h, en vehículos que circulen dentro de un centro de población y de 80 km/h en vehículos que circulen en carretera estatal y federal.
-
-Respecto de la capacidad permitida de pasajeros a que se refiere este Artículo, la misma podrá variar atendiendo a las especificaciones del fabricante de los vehículos, previa autorización de la autoridad competente.
-
-El Gobierno del Estado realizará e implementará los programas necesarios, dentro del ámbito de su esfera jurídico-administrativa representada por la administración pública central pertinente, para promover dentro del servicio de transporte público local de pasajeros y de carga, la utilización de vehículos cero emisiones, en beneficio de las políticas ecológicas del Estado, otorgando en su caso subsidios e incentivos para cumplir con ese fin.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 984.
 
-En relación con el servicio público de transporte local, al aplicar este Código y sus reglamentos, el Gobierno del Estado, por conducto de la dependencia facultada, podrá:
-
-I.- Fijar las bases, condiciones y requisitos a que deba sujetarse la prestación del servicio público de transporte local;
-
-II.- Organizar, distribuir, coordinar, supervisar o modificar el servicio, de acuerdo con las necesidades de los usuarios;
-
-III.- Dictar las medidas necesarias tendientes a mantener la eficiencia y la seguridad del servicio;
-
-IV.- Determinar y modificar, cuando sea necesario, las líneas, rutas, recorridos, horarios, frecuencia y demás especificaciones a que deba sujetarse el servicio público de transporte local de pasajeros y de carga;
-
-V.- Fijar horarios para la circulación de vehículos de transporte de pasajeros y de carga y respecto de estos últimos para las maniobras de carga y descarga en las zonas y calles que para tal efecto se autoricen;
-
-VI.- Previa opinión del Consejo Consultivo, determinar las tarifas conforme a las cuales deberá cobrarse el servicio y, en su caso, establecer la forma e instrumentos de medición de tiempo, distancia y otros factores determinantes en la aplicación de las mismas, así como los mecanismos necesarios para el cobro de las tarifas a los usuarios;
-
-VII.- Con la opinión de los ayuntamientos, autorizar según la modalidad del servicio, el funcionamiento de terminales, talleres, paraderos, cierres de circuito, sitios, bases y estacionamientos, así como fijar o cambiar su ubicación e impedir la ocupación de la vía pública para tales usos; solo en casos excepcionales y cuando lo estime procedente, podrá autorizar dicha ocupación;
-
-VIII.- Dictar las medidas necesarias para proteger los derechos de los usuarios y el interés público en la prestación del servicio, así como atender quejas y sugerencias de los mismos;
-
-IX.- Otorgar concesiones y permisos para la prestación del servicio de transporte de pasajeros o de carga, con sujeción a las normas que establece este Código y los reglamentos correspondientes;
-
-X.- Vigilar que los vehículos de transporte privado no presten ningún tipo de servicio público;
-
-XI.- Revocar, cancelar, suspender y rescatar las concesiones y permisos que haya otorgado por las causas previstas en este Código y los reglamentos correspondientes;
-
-XII.- Retirar de la circulación los vehículos con los que se proporcione el servicio público de transporte local cuando no cuenten con la concesión o permiso expedido por la autoridad competente;
-
-XIII.- Retirar de la circulación los vehículos que no cumplan con las medidas de seguridad necesarias para la prestación del servicio público, así como las normas ambientales y disposiciones administrativas de anticontaminantes;
-
-XIV.- Controlar el pago oportuno de las obligaciones económicas a cargo del concesionario o permisionario conforme a las bases de la concesión o permiso;
-
-XV.- Permitir a los concesionarios del transporte público local de pasajeros urbano y suburbano, taxis y colectivo foráneo, portar publicidad en los vehículos, siempre que se ajuste a los requisitos, características o especificaciones establecidos por los reglamentos correspondientes; y
-
-XVI.- Establecer modalidades en la prestación de servicios de autotransporte, solo por el tiempo que resulte estrictamente necesario, de conformidad con los reglamentos respectivos.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 985.
 
-Solo podrán utilizarse para la prestación del servicio público de transporte local, los vehículos o medios de transporte autorizados por este Código, por los reglamentos respectivos o por la SEGUOT.
-
-El vehículo que sea utilizado para el servicio público de transporte en todo tiempo deberá ser un modelo no mayor a los años siguientes:
-
-MODALIDAD AUTO MICRO, VEHÍCU AUTOM CAMIO
-
-BÚS MINI- LO CE ÓVIL NETA
-
-MIDIBÚS RRADO
-
-CON CAPA
-
-CIDAD DE
-
-HASTA 19
-
-PASAJE
-
-ROS
-
-Urbano 10 10 N/A N/A N/A
-
-Taxi N/A N/A N/A 6 N/A
-
-Colectivo Fo N/A N/A 10 N/A N/A
-
-ráneo
-
-Suburbano 15 12 N/A N/A N/A
-
-Personal 15 12 12 N/A N/A
-
-Turístico 15 12 12 N/A N/A
-
-Escolar 15 15 15 N/A N/A
-
-Discapacidad 15 15 15 N/A N/A
-
-Carga N/A N/A N/A N/A 15
-
-Mixto N/A N/A N/A N/A 15
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 986.
 
-Los vehículos del servicio público de transporte local de pasajeros y de carga, en sus diversas modalidades, deberán distinguirse entre sí y de otros medios de transporte particulares, a través de colores específicos para cada modalidad y características que permitan su identificación visual y material inmediata. El vehículo deberá tener señalado en los costados y en la parte trasera el número económico de control asignado.
-
-La Secretaría de Finanzas podrá emitir y asignar placas de circulación para los vehículos destinados al transporte público, mismas que deberán contar con diseño y colores distintivos para cada una de las modalidades contempladas en este Código.
-
-Será atribución del Estado definir los colores y características que deberán reunir los vehículos de transporte público de pasajeros y carga.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 987.
 
-La inspección de las unidades del servicio público de transporte local estará dividida en las siguientes fases:
-
-I.- La revista, misma que consiste en la presentación de las unidades ante la SEGUOT, con el fin de que se compruebe el cumplimiento de las condiciones establecidas para el otorgamiento de un servicio con comodidad y seguridad deberá ser semestral; y
-
-II.- La supervisión permanente del servicio, con la finalidad de verificar el cumplimiento de las disposiciones de este Código y demás ordenamientos, incluyendo la inspección de las terminales y sitios de servicio, de tal forma que se garantice un transporte de calidad, eficacia y seguridad, así como la aplicación, en su caso, de las tarifas autorizadas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 988.
 
-La tarifa que cubra el usuario de un servicio público de transporte local, podrá ser convencional y ajustarse de común acuerdo entre las partes en las modalidades del servicio de carga, personal, turístico, especial, mixto y escolar cuya prestación no está cuantificada mediante tarifa.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 989.
 
-Todo concesionario del servicio público de transporte local podrá celebrar contratos o convenios con otros concesionarios, a fin de hacer transbordos o transferencias de usuarios o de carga; coordinar, enlazar o cambiar los servicios; unificar o combinar el cobro de las contraprestaciones y el boletaje o la documentación que se requiera; compartir terminales, sitios, talleres, almacenes o bodegas, adquirir en común servicios o suministros. Para celebrar dichos contratos o convenios, deberá recabarse en todos los casos la aprobación previa y por escrito de la SEGUOT.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 990.
 
-El Estado cuando preste el servicio público de transporte en el municipio respectivo, podrá celebrar contratos y convenios entre sí o con personas físicas o morales del sector privado para cualquiera de los fines mencionados en el artículo que antecede y seguir el procedimiento que en el mismo se señala.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 991.
 
-Cuando se interrumpa o suspenda un servicio público de transporte local, o no se esté prestando conforme a las disposiciones legales o reglamentarias aplicables, así como en caso fortuito o de fuerza mayor, la SEGUOT podrá durante el tiempo que estime necesario, adoptar cualquiera de las siguientes medidas:
-
-I.- Requerir al concesionario o permisionario para que reanude o corrija el servicio, señalándole un plazo breve para ello;
-
-II.- Proporcionarle provisionalmente ayuda con elementos del Gobierno Estatal o del municipio respectivo;
-
-III.- Sustituir transitoriamente la prestación del servicio; y
-
-IV.- Ordenar la intervención del servicio y al efecto, ocupar la totalidad de los bienes, equipos, instalaciones, locales, vehículos y demás enseres destinados al mismo, sean cuales fuesen su naturaleza y características, además de administrarlo hasta en tanto se restablezca, pudiendo recurrir al auxilio de la fuerza pública en caso de oposición o resistencia de los concesionarios, de sus colaboradores, administradores o legítimos representantes, o de quien se oponga a la intervención.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 992.
 
-Las asociaciones de concesionarios establecidas que se agrupen con la finalidad de mejorar el servicio público de transporte, estarán obligados en todo momento a proporcionar información referente a datos de sus padrones, para tener una mejor comunicación y mejorar la calidad en el servicio.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ## TÍTULO DÉCIMO QUINTO. DE LAS CONCESIONES
 
@@ -11613,589 +11173,203 @@ El servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos,
 
 ###### ARTÍCULO 1022.
 
-El Gobernador del Estado, atendiendo siempre a las necesidades públicas, faculta a la Secretaría de Gobierno para otorgar y revocar las concesiones para la prestación del servicio público de transporte local de pasajeros y de carga. Al Consejo Consultivo corresponde recibir y dar trámite a las solicitudes que presenten los interesados.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1023.
 
-Las concesiones para el servicio público de transporte local podrán otorgarse a:
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
-
-I.- Personas físicas o morales, para el servicio público de transporte de pasajeros urbano, suburbano, foráneo, de personal, turismo, personas con discapacidad y escolar;
-
-II.- Personas físicas, para el servicio público de transporte de pasajeros en vehículos de alquiler. En este caso se asignará como máximo una concesión por persona; y
-
-III.- Personas físicas y morales para el servicio público de transporte de carga;
-
-Podrán introducirse modalidades del servicio diferentes de las que se expresan en las fracciones anteriores, en cuyo caso, podrá otorgarse concesiones para su prestación a personas morales o personas físicas, según lo requiera la naturaleza del servicio, la eficacia del mismo y la necesidad de evitar monopolios o competencias ruinosas.
-
-En las concesiones a que se refiere esta fracción, se establecerán las bases y condiciones específicas que deba cumplir el concesionario y la violación de estas será causa de revocación de dichas concesiones.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1024.
 
-El interesado en obtener concesión para prestar el servicio de transporte público local de pasajeros o de carga, deberá reunir los siguientes requisitos:
-
-I.- Ser mayor de edad;
-
-II.- Tener capacidad técnica y económica y aptitud para prestar personalmente el servicio;
-
-III.- Ser propietario del vehículo objeto de la solicitud de concesión; y
-
-IV.- Acreditar la constitución de la persona moral en el caso de estas, siempre y cuando su objeto principal sea la prestación del servicio público de transporte local.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1025.
 
-El interesado deberá presentar la solicitud respectiva al Consejo Consultivo señalando, además de los datos a que se refiere el Artículo anterior, domicilio en el Estado para ser notificado y el motivo por el que solicita la concesión, acompañando los siguientes documentos:
-
-I.- Escritura constitutiva de la persona moral, en su caso;
-
-II.- Factura o comprobante que acredite la disponibilidad del vehículo o vehículos que, siendo propiedad del solicitante, vayan a ser utilizados en la prestación del servicio público concesionado;
-
-III.- Licencia de la persona que se desempeñará como chofer;
-
-IV.- Constancia de no antecedentes penales por comisión de delitos dolosos de la persona designada como chofer; y
-
-V.- Constancia de no antecedentes penales por comisión de delitos dolosos del solicitante.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1026.
 
-Una vez presentada la solicitud con todos los documentos a que hace referencia el artículo anterior, el Consejo Consultivo se abocará al estudio de la misma, tomando en cuenta el cumplimiento de todos los requisitos exigidos por este Código.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1027.
 
-De entre los solicitantes que sean tomados en cuenta conforme al artículo anterior, se dará preferencia para obtener la concesión, tratándose de personas morales a las integradas con mayoría de trabajadores del ramo de transporte y en caso de personas físicas, a los trabajadores del ramo de transporte.
-
-En caso de que dos o más solicitantes se encuentren en igualdad de condiciones, dentro de un mismo grupo de los previstos en este Artículo, la prioridad se determinará en el orden de presentación de las solicitudes.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1028.
 
-En caso de concurrencia de dos o más personas físicas o morales para obtener concesiones, el otorgamiento se hará a quienes garanticen un mejor servicio en razón de las condiciones de seguridad, experiencia, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1029.
 
-El otorgamiento de la concesión estará sujeto a las necesidades de planeación de la vialidad y de los transportes en el Estado de Aguascalientes, de acuerdo con los estudios que al efecto lleven a cabo las autoridades correspondientes.
-
-El Consejo Consultivo, una vez realizados los estudios de la solicitud, y reunidos los requisitos a que se refiere el presente capítulo, emitirá un dictamen acerca de su procedencia y lo presentará a la Secretaría de Gobierno, quien podrá otorgar la concesión. En caso de ser otorgada, el concesionario deberá pagar los derechos que por tal concepto determine la Ley de Ingresos del Estado.
-
-Cuando de acuerdo con el dictamen no es procedente otorgar la concesión, se reservará la solicitud para que, con preferencia en el orden en que hubiere quedado pendiente, y tomando en consideración entre otros factores la mejor calidad del vehículo, será sometida a consideración del Secretario de Gobierno, por parte del Consejo Consultivo el otorgamiento de la concesión.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1030.
 
-El Consejo Consultivo, vista la procedencia del otorgamiento de una concesión, lo informará al interesado.
-
-De igual manera solicitará al propio interesado que presente para su revisión el vehículo o vehículos que efectuarán el servicio. La autoridad competente se cerciorará de la seguridad, comodidad y calidad del vehículo y comunicará los resultados de dicha revisión al Consejo Consultivo.
-
-El concesionario y las personas autorizadas para auxiliar en la prestación del servicio, deberán someterse a un curso de relaciones humanas en la forma que el Consejo Consultivo indique.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1031.
 
-La concesión que se otorgue tendrá vigencia de tres años a partir de su expedición, pudiendo renovarse de manera subsecuente, siempre y cuando tanto el concesionario como el vehículo reúnan los mismos requisitos que el presente ordenamiento señala para la obtención, este trámite será gratuito.
-
-Anualmente se pagarán los derechos correspondientes por el uso de la concesión en la cantidad que determine la Ley de Ingresos del Estado.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1032.
 
-En el título de concesión se especificará:
-
-I.- El nombre o denominación en su caso del concesionario;
-
-II.- La duración de la concesión, o en su caso, los requisitos que condicionan la vigencia;
-
-III.- El término para iniciar con la prestación del servicio público, el cual no podrá ser mayor a 60 días naturales a partir de la fecha de expedición;
-
-IV.- El número económico asignado al concesionario, el cual deberá estar señalado en el vehículo concesionado en los lugares que para tal efecto establezca la autoridad competente;
-
-V.- En el caso de transporte de pasajeros en vehículos de alquiler y transporte de carga, el sitio asignado como base de servicio;
-
-VI.- La sujeción en su caso al régimen de tarifas o las excepciones al mismo;
-
-VII.- El beneficiario en caso de muerte del titular de la concesión;
-
-VIII.- Las causas de suspensión, cancelación o revocación y caducidad de la concesión o permiso; y
-
-IX.- Prohibición de variar las condiciones de la concesión o permiso, sin la previa autorización de la SEGUOT.
-
-El número económico será único dentro de la modalidad de transporte de que se trate.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1033.
 
-La concesión que se otorgue es personal e intransferible y sólo podrá hacer uso de ella la persona física o moral a quien se hubiere otorgado.
-
-Por lo tanto no podrán prestar el servicio por intermediación de terceros, excepto los trabajadores que contraten para su operación, podrá ser declarado nulo cualquier contrato o convenio que contravenga este precepto.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1034.
 
-Las concesiones solo podrán transmitirse por causa de muerte, con reconocimiento del derecho por parte del titular de la Secretaría de Gobierno en favor de la persona que el concesionario haya designado entre sus familiares o en su defecto a quien mediante juicio sucesorio intestamentario se adjudique dicho derecho.
-
-En caso de comprobada incapacidad física superviniente del concesionario, el titular de la Secretaría de Gobierno podrá autorizar la transmisión de la concesión a la persona que el concesionario proponga de entre sus familiares.
-
-Para tales efectos los concesionarios deberán registrar ante la SEGUOT a las personas que le ayudarán en la prestación del servicio. Así mismo, deberán poner en lugar visible del interior del vehículo el documento con fotografía que acredite a la persona que esté prestando el servicio.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1035.
 
-El documento por el que se otorga la concesión será el único válido para acreditar la existencia de la misma. La simple entrega o transmisión de las placas de circulación de los vehículos destinados a la prestación de los servicios, no surtirá efecto para ese fin.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1036.
 
-La SEGUOT limitará el número de vehículos que pueda poner en servicio una persona moral, tomando en cuenta las necesidades de los usuarios y la capacidad de la empresa, para evitar monopolios o competencias ruinosas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1037.
 
-Cuando se requiera el otorgamiento de concesiones para el establecimiento de una nueva actividad, sistema, línea, ruta o modalidad del servicio público de transporte local o para aumentar el número de vehículos de uno ya establecido, requerirán previamente que se expida y publique una declaratoria de la SEGUOT que señale la necesidad del servicio o de su aplicación.
-
-En la misma declaratoria se convocará a las personas físicas o morales que tengan interés en solicitar las concesiones.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1038.
 
-Los concesionarios del servicio público de transporte local podrán agruparse en personas morales que tengan por objeto mejorar el funcionamiento del mismo, establecer y operar sitios, centrales o terminales, o llevar a cabo otros fines análogos que no se opongan a este Código y demás disposiciones jurídicas aplicables. Podrán asimismo, agruparse con fines referentes a dicho servicio que no tenga carácter preponderantemente económico.
-
-Los miembros de las personas morales que se constituyan conforme a este precepto, deberán reservarse la titularidad de sus concesiones y será nulo todo acto en contrario.
-
-Previamente a la constitución de dichas personas morales, sus estatutos deberán someterse a la aprobación de la SEGUOT quien la otorgará por escrito.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1039.
 
-Para la explotación de la concesión otorgada, deberá utilizarse únicamente el vehículo que se le autorice al concesionario, por lo que si aquel deja de funcionar o se destruye, deberá tramitarse su reposición ante la SEGUOT, la que señalará un plazo prudente para tal efecto. En caso de incumplimiento la concesión perderá sus efectos.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1040.
 
-La solicitud de renovación de concesión o sustitución de vehículo deberá dirigirse a la Secretaría de Gobierno, dentro de los treinta días naturales antes del término de su vigencia.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1041.
 
-La SEGUOT podrá determinar la prestación del servicio mediante el establecimiento de algún sitio, fijando las condiciones y modalidades correspondientes.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1042.
 
-Corresponde a la SEGUOT la vigilancia en la prestación del servicio público y la aplicación de las sanciones que se prevén en el presente Código, con excepción de la consistente en la cancelación de la concesión.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1043.
 
-El servicio público de transporte, en sus diversas clases y modalidades, deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios.
-
-Las concesiones obligan a sus titulares a la prestación directa del servicio.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1044.
 
-Los concesionarios y permisionarios serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
-
-La SEGUOT emitirá las disposiciones reglamentarias aplicables; establecerá las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1045.
 
-La SEGUOT con la opinión de los ayuntamientos, autorizará y modificará las rutas del servicio público de transporte.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1046.
 
-La Secretaría de Gobierno autorizará y modificará el régimen tarifario a que se sujetará la prestación del servicio del Transporte Público de pasajeros y de carga.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1047.
 
-La SEGUOT autorizará y modificará itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1048.
 
-Son obligaciones de los concesionarios del servicio público de transporte local de pasajeros y de carga las siguientes:
-
-I.- Prestar el servicio de manera uniforme, continua y eficiente en los términos señalados en su concesión;
-
-II.- Sujetarse a las disposiciones del presente Código, de los reglamentos aplicables en la materia, del título de concesión, de los manuales, instructivos y circulares que emitan las autoridades competentes;
-
-III.- Prestar el servicio obligatoriamente cuando lo requiera la autoridad competente, en casos de riesgo o desastre, con arreglo a las disposiciones de este Código;
-
-IV.- Prestar el servicio a toda persona que lo solicite, salvo que la autoridad competente se lo impida por violaciones a las disposiciones legales y reglamentarias en materia de protección al medio ambiente, transporte público, tránsito y vialidad;
-
-V.- Sujetarse a los itinerarios, horarios, coberturas geográficas, tarifas, sitios, terminales, frecuencias del servicio, especificaciones de las unidades y de sus equipos en lo que se refiere a las condiciones de comodidad, higiene y seguridad; portando los vehículos en este último caso: equipos, sistemas, dispositivos y demás accesorios que determine la autoridad competente;
-
-VI.- Aceptar la intervención del Gobierno del Estado en la administración del servicio, en los casos en que el concesionario se niegue generalizada, sistemática o permanentemente a prestarlo, o exista una causa de utilidad pública;
-
-VII.- Vigilar que sus conductores y personal relacionado con el servicio que presta, cumpla con las disposiciones legales en materia de vialidad y transporte; así mismo deberán portar en lugar visible en sus unidades un tarjetón de identificación expedido por la autoridad competente, con la finalidad de contar con un formato que reúna los elementos gráficos y de escritura legibles al usuario para la identificación plena del operador;
-
-VIII.- Proporcionar en todo tiempo a las autoridades que le requieran, en su caso, los datos informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
-
-IX.- Renovar los vehículos que rebasen la máxima antigüedad permitida, de acuerdo a lo señalado en el presente Código y en la normatividad reglamentaria;
-
-X.- Mostrar la tarifa autorizada en un lugar visible del vehículo, colocando una calcomanía inalterable que tendrá las dimensiones y leyendas señaladas por la autoridad competente, situándola en los lugares que para tal efecto le sean estipulados;
-
-XI.- Practicar una estricta selección de los conductores, a fin de garantizar la presentación, atención y cortesía que exige el servicio público, obligando al conductor a acatar las normas de urbanismo y demás responsabilidades que tengan relación con su labor;
-
-XII.- Dotar al conductor de moneda fraccionaria suficiente que facilite la devolución del cambio a los usuarios, cuando se trate de transporte de pasajeros;
-
-XIII.- Prestar el servicio con vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones, así como controles gráficos o electrónicos de velocidad máxima establecidos en las normas oficiales correspondientes;
-
-XIV.- Conservar los vehículos que presten el servicio en condiciones adecuadas de presentación y operación, tanto en su estado físico exterior e interior, especificaciones y colores, así como en sus sistemas mecánico y eléctrico. Asimismo, conservar las instalaciones de las terminales o sitios en condiciones de dar un servicio eficiente;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
-
-XV.- La Instalación de dispositivo regulador de velocidad en camiones urbanos, taxis, escolar, de personas con discapacidad y de personal con velocidad no mayor a 60km/h para estas modalidades;
-
-XVI.- Portar en el vehículo y en lugar visible los engomados que la autoridad le otorgue para acreditar que pasó la revisión de cada modalidad;
-
-XVII.- Queda prohibido colocar en los cristales del vehículo, rótulos, carteles y toda clase de objetos que obstruyan la visibilidad del conductor; asimismo, cuando estos se encuentren estrellados o rotos, el propietario del vehículo estará obligado a cambiarlos;
-
-XVIII.- Llevar bitácora de mantenimiento en los vehículos destinados al servicio público en los términos del reglamento;
-
-XIX.- Cumplir con la cromática autorizada para cada modalidad, conservar los vehículos, equipos e instalaciones en óptimas condiciones físicas, en su caso, incorporar las modificaciones que sobre aspectos técnicos que se establezcan en los manuales autorizados y no alterar la estructura original del vehículo sin autorización de la SEGUOT;
-
-XX.- Solicitar autorización para portar publicidad en la unidad de transporte público, de acuerdo al reglamento;
-
-XXI.- Tener vigente la póliza de seguro de responsabilidad civil por daños y perjuicios a usuarios o a terceros en sus personas o bienes y la carga;
-
-XXII.- Permitir y proporcionar la capacitación a los conductores para la prestación de los servicios de transporte;
-
-XXIII.- Las condiciones que deben prevalecer en los vehículos se relacionan a continuación de manera enunciativa y no limitativa:
-
-a) Estado mecánico:
-
-1.- Motor en buenas condiciones, sin emisión de humos y en los niveles contaminantes permitidos;
-
-2.- Llantas en buen estado; y
-
-3.- Sistema de escape con silenciador;
-
-b) Estado físico;
-
-1.- Exterior:
-
-A) Vidrios completos y en buen estado;
-
-B) Carrocería sin golpes, sin láminas sueltas y sin remiendos;
-
-C) Puertas de ascenso y descenso funcionando;
-
-D) Pintura en buen estado; y
-
-E) Número económico de la unidad para su identificación;
-
-2.- Interior;
-
-A) Asientos completos y en buen estado;
-
-B) Estribos y pisos en buen estado y con antiderrapante;
-
-C) Pasamanos completos; y
-
-D) Sin publicidad, propaganda o letreros, salvo que esta fuera previamente aprobada por la autoridad competente.
-
-c) Estado eléctrico:
-
-1.- Luces exteriores e interiores completas y funcionando; y
-
-2.- Timbre para pedir parada.
-
-XXIV.- Someter los vehículos a la revisión físicomecánica y documental con la periodicidad y en los términos que señalen las disposiciones reglamentarias. Para estos efectos, los concesionarios y permisionarios que cuenten con los elementos técnicos conforme a la norma oficial respectiva, podrán realizar la verificación, en términos de las disposiciones secundarias correspondientes;
-
-XXV.- Solicitar autorización previa de la Autoridad competente para sustituir el vehículo o vehículos con que se presta el servicio;
-
-XXVI.- Cumplir con la cromática y demás elementos de identificación de los vehículos, en términos de las disposiciones reglamentarias y administrativas;
-
-XXVII.- Abstenerse de realizar actos que impliquen competencia desleal respecto de otros concesionarios o permisionarios;
-
-XXVIII.- Cooperar con el Estado para el mantenimiento de los caminos, calzadas, avenidas y calles por donde transiten;
-
-XXIX.- Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, admitir como medio de pago de la tarifa el que determine la Autoridad competente, basado en una tarjeta de prepago; así como utilizar, en todos sus vehículos, la tecnología y dispositivos señalados por la misma;
-
-XXX.- Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, prestar el servicio y operar sus unidades de conformidad con las instrucciones que reciban de los Centros de Gestión y Control Común, a través del que será dirigida su actividad diaria en la red integrada de transporte de la que formen parte, con la aprobación de la autoridad competente;
-
-XXXI.- Contar con seguros de viajero o de carga y de daños a terceros para casos de siniestro, ya sea en forma individual o de grupo, contratados con una entidad legalmente constituida;
-
-XXXII.- Resarcir a los usuarios y a los terceros, de los daños físicos o patrimoniales que se les causen con motivo de la prestación del servicio sujeto a concesión o permiso;
-
-XXXIII.- Constituir en tiempo y forma las garantías en los términos establecidos en este Código y sus disposiciones reglamentarias;
-
-XXXIV.- Otorgar capacitación permanente a los conductores del transporte público en cualquiera de sus modalidades, en materias relacionadas con el desempeño de su labor, mediante un mínimo de 3 cursos al año;
-
-XXXV.- Abstenerse de sustituir de forma temporal o definitiva los vehículos registrados para otorgar el servicio, aún y cuando sea por períodos cortos, debido al mantenimiento preventivo y correctivo que se le dé, si no es con la autorización por escrito de la autoridad responsable de su regulación y control;
-
-XXXVI.- No hacer uso de la vía pública para el establecimiento de terminales, sitios o estacionamiento, salvo autorización expresa de la autoridad competente. Asimismo, no deberán causar molestias de ninguna naturaleza a los habitantes o establecimientos contiguos al local o terreno ocupado por las mismas. La ubicación y proyectos de las terminales deberán ser previamente aprobados por la autoridad competente;
-
-XXXVII.- Anotar en cada unidad el número económico y/o de ruta asignada, en el parabrisas derecho y en la parte posterior, en recuadros especiales en el caso del transporte urbano, suburbano, foráneo, de personal y escolar;
-
-XXXVIII.- Proporcionar al conductor el uniforme reglamentario para su uso durante el servicio;
-
-XXXIX.- Prestar el servicio bajo las condiciones que establezca el Ejecutivo del Estado en casos de emergencia, siniestros u otras circunstancias que afecten a la población;
-
-XL.- Registrar a los conductores de transporte público en cualquiera de sus modalidades, ante la autoridad competente, a efecto de que disponga de la tarjeta de identificación correspondiente, la cual deberá ser exhibida en un lugar visible en el interior del vehículo;
-
-XLI.- No permitir que viajen personas en los lugares destinados a la carga;
-
-XLII.- Presentar la revista vehicular en las formas, procedimientos y términos que la SEGUOT determine; los vehículos nuevos quedarán exentos de la revisión aleatoria durante los primero tres años, tomando como base el año del modelo del vehículo, debiendo pagar únicamente los derechos correspondientes; en el caso del transporte de personal y escolar, someter a revista semestral el vehículo utilizado para la prestación del servicio. Para el resto de las modalidades la revista físico-mecánica será anual de manera general;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
-
-XLIII.- Los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las autoridades competentes en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia. Las tarifas deberán establecer los descuentos que en su caso existan para adultos mayores, personas con discapacidad y estudiantes;
-
-XLIV.- Realizar de manera periódica y aleatoria a los conductores exámenes antidopaje con la finalidad de salvaguardar la integridad y seguridad física de los usuarios, así como imponer las sanciones correspondientes a quienes resulten positivo;
-
-XLV.- Si el concesionario con motivo de la concesión, adquiere obligaciones crediticias a favor de un tercero integrante del sistema financiero mexicano o a favor de Gobierno del Estado, en virtud de la celebración de un contrato de crédito con garantía prendaria o instrumento equivalente sobre el vehículo autorizado por la autoridad concedente para prestar el servicio público concesionado, dicho vehículo no podrá ser sustituido si no se cuenta con el consentimiento por escrito del acreedor de que se trate; y
-
-XLVI.- Las demás que señalen este Código y otras disposiciones legales, reglamentarias y administrativas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1049.
 
-Los concesionarios son solidariamente responsables con sus conductores, en los términos de este Código, sus reglamentos y demás disposiciones legales aplicables, de los daños que causan con motivo de la prestación del servicio. Es responsabilidad de los concesionarios del servicio público local de transporte de pasajeros o de carga, que los conductores cumplan con las obligaciones siguientes:
-
-I.- Acatar las siguientes normas de urbanismo:
-
-a) Mantener la imagen y presencia que requiere el servicio público, extremando los cuidados de aseo, tanto en su persona como en su vestido;
-
-b) Dirigirse al usuario con la máxima educación, respeto y cortesía;
-
-c) Respetar las señales de vialidad, evitando realizar maniobras que incomoden o pongan en peligro la seguridad de los pasajeros, de la carga y de los demás conductores;
-
-d) Mantener siempre la apertura y disponibilidad para acatar las disposiciones y políticas que en materia de vialidad y transporte emitan las autoridades competentes;
-
-e) Abstenerse de manejar la unidad en estado de ebriedad o bajo el influjo de algún estupefaciente o psicotrópico, fumar, ingerir bebidas alcohólicas y realizar llamadas telefónicas por celular durante la prestación del servicio;
-
-f) Realizar invariablemente las maniobras de ascenso y descenso de pasajeros, junto a la acera derecha en relación a su sentido de circulación y únicamente en los lugares señalados para tal fin, cuidando de la seguridad de las personas que las realizan, y en caso del transporte de carga ejecutar la carga y descarga tomando las medidas de seguridad necesarias a efecto de no afectar los bienes y la integridad física de las personas;
-
-g) Concentrarse íntegramente en la operación de la unidad, evitando distraerse con personas o en actividades ajenas al servicio, que pongan en peligro la seguridad de los pasajeros o de la carga; así como abstenerse de proliferar palabras altisonantes durante el desempeño de la jornada;
-
-h) Evitar detener el curso de la unidad con fines personales haciendo esperar al usuario o alterar en forma arbitraria la ruta autorizada;
-
-i) Mantener la unidad de servicio en óptimo estado mecánico y de higiene, de tal manera que proporcionen el nivel de servicio y comodidad requerido por los usuarios;
-
-j) Mostrar en el interior de la unidad la información relacionada con: tarifa autorizada, identificación del conductor y número telefónico para quejas y sugerencias; y
-
-k) Mostrar en los asientos de personas con discapacidad, el letrero de uso exclusivo y engomado del logotipo internacional de las personas con discapacidad;
-
-II.- Portar el uniforme de trabajo reglamentario durante el servicio;
-
-III.- Llevar en el vehículo el número de personas autorizadas en la tarjeta de circulación;
-
-IV.- Abstenerse de llevar pasajeros en los estribos de las puertas de ascenso y descenso;
-
-V.- Realizar las paradas para el ascenso y descenso de pasajeros en los lugares señalados para tal fin;
-
-VI.- Prohibir la venta de cualquier tipo de artículos, la práctica de la mendicidad, la realización de actividades artísticas con el objeto de obtener dádivas, cuando todo lo anterior cause molestias al usuario, en el caso del servicio de transporte de pasajeros;
-
-VII.- Prestar el servicio a toda persona que lo solicite, salvo que:
-
-a) El solicitante se encuentre en evidente estado de ebriedad o bajo el influjo de alguna droga o estupefaciente;
-
-b) El usuario escandalice o realice a bordo del vehículo actos contrarios a la moral o buenas costumbres;
-
-c) El usuario ingiera bebidas embriagantes o se suministre alguna droga o estupefaciente;
-
-d) La autoridad competente lo impida por no acatar las disposiciones legales y reglamentarias en materia de protección al medio ambiente, transporte público y tránsito;
-
-e) El usuario solicite un servicio ajeno al transporte público, que implique la contravención de alguna disposición legal;
-
-f) Se trate de carga especializada y el vehículo no reúna las características necesarias para su transportación; y
-
-g) Se trate de transporte de carga de materiales, sustancias o productos cuya posesión o tráfico se encuentre prohibido o limitado por la ley.
-
-En los casos señalados en los incisos b) y c), deberá evitar la permanencia de los pasajeros involucrados, con ayuda de las autoridades de policía y tránsito.
-
-VIII.- Circular con las puertas cerradas y extremar sus precauciones al abrir las mismas, en el caso de vehículos para transporte de pasajeros;
-
-IX.- No abastecer de combustible al vehículo con pasajeros o carga a bordo;
-
-X.- No alterar las tarifas autorizadas;
-
-XI.- Portar la licencia de conducir que corresponda al servicio que presta y que esta se encuentre vigente;
-
-XII.- Exhibir a la vista del pasajero, en el interior de la unidad que maneja, el original de su tarjeta de identificación expedida por la autoridad competente;
-
-XIII.- Asistir a los cursos de capacitación, seguridad y educación vial que promuevan el concesionario o la autoridad competente;
-
-XIV.- Presentarse a la hora establecida para iniciar el servicio y en óptimas condiciones de salud;
-
-XV.- Observar las disposiciones relativas a la carga autorizada de acuerdo a las especificaciones del vehículo. Asimismo traerla cubierta con una lona cuando se puedan ocasionar desprendimientos de la misma, que causen molestias o accidentes a peatones y automovilistas;
-
-XVI.- No utilizar durante el servicio audífonos, radio o discos compactos, estos últimos a un volumen que cause molestias a los usuarios;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
-
-XVII.- Prohibir la ocupación de los asientos destinados para personas con discapacidad, por otras que no lo sean; y
-
-XVIII.- Someterse a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la SEGUOT en los términos del reglamento correspondiente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ### CAPÍTULO V. De los Usuarios
 
 ###### ARTÍCULO 1050.
 
-Los usuarios deben abstenerse de fumar en el interior de las unidades del servicio de transporte de pasajeros en todas sus modalidades.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1051.
 
-Los usuarios no pueden exigir al conductor su ascenso o descenso fuera de los lugares establecidos dentro de la ruta para ese efecto.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1052.
 
-El usuario del servicio de transporte público de pasajeros, debe realizar el pago de la tarifa en el momento en que dicho servicio inicie; en caso de cualquier avería o accidente que le impida llegar a su destino el operador quedará obligado a garantizar su traslado o devolver el importe pagado del viaje.
-
-En el servicio de transporte de carga, los usuarios pueden convenir libremente con los prestadores del servicio las tarifas y formas de pago.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1053.
 
-Son causas justificadas para negar la prestación del servicio de transporte público de pasajeros, al usuario cuando:
-
-I.- Se encuentre notoriamente bajo el efecto de bebidas alcohólicas, estupefacientes o psicotrópicos;
-
-II.- Porte bultos, equipajes, materiales inflamables o animales que puedan, de forma manifiesta, causar molestia o representen un riesgo para los demás usuarios o ensuciar, deteriorar o causar daños al vehículo;
-
-III.- Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la moral, seguridad e integridad de los demás usuarios;
-
-IV.- Solicite el servicio en lugares distintos a los autorizados por la Secretaría;
-
-V.- De manera evidente se perciban alteraciones de la conducta que puedan poner en riesgo la seguridad de los demás usuarios;
-
-VI.- Se solicite transportar un número de personas y equipaje superior al de la capacidad autorizada para el vehículo; y
-
-VII.- En general, cuando pretenda que el servicio se le otorgue contraviniendo las disposiciones legales o reglamentarias.
-
-Tratándose de transporte de carga se podrá negar la prestación del servicio cuando se solicite embarcar materiales que pongan en riesgo la seguridad pública o que el prestador desconozca la naturaleza de la carga.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1054.
 
-El servicio se podrá interrumpir cuando el usuario exija conducirse por vialidad intransitable o bien represente notorio peligro para el usuario o el conductor; o se contravengan las disposiciones en materia de tránsito.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1055.
 
-Los usuarios del Servicio de Transportes Eléctricos y Cero Emisiones deben contratar el servicio en las estaciones y sus zonas de acceso, en el sentido que se encuentre señalado para tal efecto y en las áreas destinadas a ese fin.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1056.
 
-Los ruptores y alarmas, de urgencia y seguridad colocados en andenes, trenes, vehículos de transporte público y Centros de Transferencia Modal, extinguidores de incendio y los teléfonos instalados en andenes solo pueden ser operados por los usuarios en caso de emergencia tales como incendio, accidente corporal grave, y ataques contra la seguridad de las personas y sus bienes.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1057.
 
-Los menores de siete años solo pueden hacer uso del transporte público de pasajeros cuando estén acompañados por persona mayor que se responsabilice de su seguridad.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1058.
 
-Las personas con discapacidad, estudiantes y los adultos mayores, tienen derecho a que se les otorguen exenciones y tarifas preferenciales en el transporte público, previa identificación vigente expedida por instituciones que acrediten tal carácter, conforme a los Acuerdos y Decretos que en su caso se publiquen en Periódico Oficial del Estado.
-
-En el caso de los concesionarios y permisionarios, pueden suscribir acuerdos especiales para garantizar los derechos anteriores.
-
-Las personas invidentes que se desplacen acompañados de perros guías, tendrán acceso con estos a todos los servicios de transporte de pasajeros
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ### CAPÍTULO VI. Del Servicio para el Transporte Público de Terminales
 
 ###### ARTÍCULO 1059.
 
-Para el servicio del transporte público, el equipamiento auxiliar podrá comprender de manera enunciativa y no limitativa los siguientes elementos:
-
-I.- SITIO: Los espacios físicos en la vía pública o en el lugar autorizado por la Secretaría, donde permanezcan temporalmente estacionados los vehículos concesionados o permisionarios, mientras inician el servicio y que permite el ascenso y descenso de pasajeros;
-
-II.- CENTRO DE TRANSFERENCIA MULTIMODAL: Espacio físico fuera de la vía pública con infraestructura y equipamiento auxiliar de transporte, que sirve como conexión de los usuarios entre dos o más rutas o modos de transporte;
-
-III.- CIERRE DE CIRCUITO: El espacio físico autorizado por la SEGUOT en el que inicia o concluye un recorrido del servicio público de transporte eléctrico, sin que este sirva de base;
-
-IV.- ENCIERRO: El local de uso común para el estacionamiento, pernocta y mantenimiento, de los vehículos destinados a la prestación del servicio público de transporte de esta modalidad;
-
-V.- SEÑALÉTICA: El conjunto de elementos cuya función es informar al público sobre la existencia del servicio;
-
-VI.- TERMINAL: El espacio físico fuera de la vía pública autorizado por la Secretaría, donde inicia o termina el servicio público de transporte público;
-
-VII.- ESTACIÓN: Es el espacio físico autorizado por la SEGUOT para realizar ascenso y descenso de usuarios en puntos intermedios de un recorrido con infraestructura confinada;
-
-VIII.- Los elementos inherentes o incorporados para la operación del transporte público; y
-
-IX.- Los demás que establezca la SEGUOT.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1060.
 
-Las terminales del servicio público de transporte de pasajeros urbano, suburbano y foráneo, deberán estar dotadas de:
-
-I.- Casetas para el despacho de unidades;
-
-II.- Andenes;
-
-III.- Carteles informativos sobre las rutas, itinerarios, horarios, frecuencias, tarifas, así como los números telefónicos para sugerencias y quejas;
-
-IV.- Servicios sanitarios;
-
-V.- Equipos de seguridad para la extinción de incendios;
-
-VI.- Equipo de radiocomunicación;
-
-VII.- Áreas de mantenimiento; y
-
-VIII.- Las demás que establezcan las normas vigentes en la materia.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1061.
 
-Los sitios del servicio público de transporte de pasajeros en vehículos de alquiler o taxis, deberán estar dotados de:
-
-I.- Casetas para el despacho de unidades;
-
-II.- Carteles informativos sobre los horarios y tarifas; así como los números telefónicos para sugerencias y quejas;
-
-III.- Servicios sanitarios;
-
-IV.- Equipos de seguridad para la extinción de incendios;
-
-V.- Equipo de radiocomunicación; y
-
-VI.- Las demás que establezcan las normas vigentes en la materia.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1062.
 
-Los sitios del servicio público de transporte de carga ligera, pesada y materialistas deberán estar dotados de:
-
-I.- Casetas para el despacho de unidades;
-
-II.- Carteles informativos sobre los horarios y tarifas, así como los números telefónicos para sugerencias y quejas;
-
-III.- Servicios sanitarios;
-
-IV.- Equipos de seguridad para la extinción de incendios;
-
-V.- Equipo de radiocomunicación; y
-
-VI.- Las demás que establezcan las normas vigentes en la materia.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1063.
 
-En caso de dictaminarse, al efectuar la revisión del vehículo, la necesidad de algún mantenimiento o reparación al mismo, suspenderá el servicio y se concederá un plazo prudente al concesionario para que haga las reparaciones, a efecto de revisarlo nuevamente. En caso de incumplimiento se impondrá multa y suspenderá el servicio de transporte hasta en tanto se corrija la anomalía.
-
-A los concesionarios que no cumplan con la obligación de someter el vehículo a la revista semestral, se les amonestará por escrito para que dentro de los tres días siguientes al aviso, presenten el vehículo a la revisión respectiva y en caso contrario, se informará a la SEGUOT para que determine lo conducente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1064.
 
-Cuando un concesionario transmita conforme a las normas de este código y demás disposiciones jurídicas aplicables, la concesión, no se le podrá otorgar otra de la misma clase hasta que transcurran cinco años desde la fecha de la transmisión.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1065.
 
-Si se revoca una concesión, no se volverá a otorgar otra de la misma clase al concesionario.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1066.
 
-Cuando los bienes que el ayuntamiento respectivo o el Gobierno del Estado hubieren proporcionado al concesionario para su uso, fueran inmuebles, el propio ayuntamiento o el Gobierno del Estado recuperarán estos, así como las obras y mejoras que en los mismos se hayan construido.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1067.
 
-La declaratoria de rescate procederá en los casos y términos establecidos en este Código.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1068.
 
-La vigencia de las concesiones será de tres años y la de los permisos será de seis meses; las cuales podrán ser objeto de prórroga en los términos previstos en este Código.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1069.
 
-Las concesiones y permisos en materia de transporte público no otorgan exclusividad a los concesionarios en la prestación del servicio. La autoridad podrá negar las concesiones cuando puedan originar acaparamiento o acumulación, o contravenir las disposiciones en materia de competencia económica.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1070.
 
-La SEGUOT deberá constituir el Registro Estatal de Transporte el cual tiene por objeto integrar la información relacionada con el transporte y contendrá la información siguiente:
-
-I.- Concesiones y permisos estatales;
-
-II.- Matrículas;
-
-III.- Póliza de seguro vigente;
-
-IV.- Estatutos y representación de concesionarios y permisionarios;
-
-V.- Padrón de operadores;
-
-VI.- Licencias para conducir; y
-
-VII.- Las demás que señale el reglamento correspondiente.
-
-El Registro Estatal de Transporte será público, tendrá efectos declarativos y surtirá efectos contra terceros.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ### CAPÍTULO VII. De la Extinción, Intervención y Rescate de las Concesiones
 
@@ -12439,229 +11613,11 @@ Para lo no previsto en el presente artículo, la SEGUOT o el ayuntamiento respec
 
 ###### ARTÍCULO 1092.
 
-La aplicación de sanciones administrativas por incumplimiento a las obligaciones de los concesionarios, permisionarios y choferes del servicio de transporte en todas sus modalidades, se ajustará a los parámetros siguientes:
-
-I.- Se sancionarán las violaciones al presente Código con amonestación por escrito a los concesionarios o permisionarios del transporte público, en los siguientes casos:
-
-a) Por no mostrar la tarifa autorizada en lugar visible del vehículo, en el caso del transporte público de pasajeros urbano, suburbano y foráneo;
-
-b) Cuando el vehículo en que se presta el servicio no reúna las condiciones adecuadas en su estado físico, interior y exterior; y en sus sistemas mecánico y eléctrico a juicio de la autoridad competente, quien le señalará las anomalías identificadas y le fijará un plazo perentorio para su corrección;
-
-c) Cuando el conductor del transporte de pasajeros por tarifa fija no disponga de moneda fraccionaria suficiente para proporcionar el cambio al usuario;
-
-d) Por hacer uso de la vía pública para el establecimiento de terminales, o que éstas causen molestias a los habitantes o establecimientos aledaños;
-
-e) Por no anotar en la unidad el número económico y/o el número de la ruta asignada, en los lugares que para tal efecto haya señalado la autoridad competente;
-
-f) Cuando el conductor no porte el uniforme de trabajo reglamentario durante el servicio;
-
-g) Cuando el conductor no exhiba a la vista del usuario, en el interior del vehículo que maneja, el original de su tarjeta de identificación expedida por la autoridad competente;
-
-h) Cuando el conductor no acate las normas de urbanismo;
-
-i) Cuando se presenten deficiencias en el cumplimiento de horarios, frecuencias e itinerarios; y
-
-j) Cuando el conductor del transporte de carga no realice las maniobras de carga y descarga extremando las medidas de seguridad;
-
-II.- Se sancionará con multa al incumplimiento de las obligaciones de los choferes:
-
-a) Por efectuar ascenso y descenso de pasaje fuera de los lugares autorizados, multa de cinco a veinte salarios mínimos vigentes en la zona, siempre y cuando esto no ponga en riesgo la seguridad de usuarios y terceros, de ser así, se aplicará el inciso d) de este mismo artículo;
-
-b) Por prestar servicio con mala presentación personal, desaseado y, en su caso, sin el uniforme requerido, multa de tres a veinte salarios mínimos vigentes en la zona;
-
-c) Por tratar en forma irrespetuosa a usuarios y terceros durante la prestación del servicio, multa de cinco a treinta salarios mínimos vigentes en la zona;
-
-d) Por poner en riesgo la seguridad de los usuarios y terceros al operar las unidades con falta de precaución, multa de veintiuno a cien salarios mínimos vigentes en la zona;
-
-e) Por no portar la licencia para conducir vehículos de servicio público, y el gafete de identificación a la vista del usuario, multa de cinco a treinta salarios mínimos vigentes en la zona;
-
-f) Por conducir un vehículo de servicio público sin contar con la licencia respectiva, o ésta sea insuficiente para la modalidad, multa de veinte a cincuenta salarios mínimos;
-
-g) Por no respetar el trato preferencial en la prestación del servicio a los adultos mayores, niños, personas con discapacidad, y mujeres embarazadas, multa de cinco a veinte salarios mínimos vigentes en la zona;
-
-h) Por no acatar las indicaciones de las autoridades en materia de transporte, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que, en su caso, resulte, multa de cinco a veinte salarlos mínimos vigentes en la zona;
-
-i) Por alterar las tarifas o sus reglas de aplicación, multa de cinco a cincuenta salarios mínimos vigentes en la zona. Cuando este hecho sea instruido o con conocimiento del titular de la concesión o permiso, será causal de revocación de los mismos;
-
-j) Por abastecer de combustible a los vehículos del servicio de transporte público con pasaje a bordo de los mismos, multa de cinco a cincuenta salarios mínimos vigentes en la zona;
-
-k) Por negar, sin causa justificada, el servicio público de transporte, multa de cinco a treinta salarios mínimos; para el caso de que se obstaculice, impida o niegue el servicio a adultos mayores, niños, personas con discapacidad, y mujeres embarazadas, la multa será de diez a cincuenta salarios mínimos;
-
-l) Por utilizar teléfonos celulares, o exceder la velocidad permitida, o no acatar las disposiciones de tránsito y vialidad, será sancionado en los términos que establece el inciso d) Fracción I del presente Artículo;
-
-m) Por no respetar los itinerarios autorizados, multa de cinco a treinta salarios mínimos; y
-
-n) Por utilizar el vehículo de servicio público para otros usos diferentes a la prestación del servicio, multa de cinco a treinta salarios mínimos;
-
-III.- Procederá la suspensión de la tarjeta de identificación de chofer cuando:
-
-a) Por insultar o agredir física o verbalmente a los usuarios o terceros;
-
-b) Por tratar en forma irrespetuosa a usuarios y terceros durante la prestación del servicio;
-
-c) Por reincidir en quejas derivadas de no portar el gafete de identificación a la vista del usuario;
-
-d) Por no acatar las indicaciones de las autoridades en materia de transporte, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que, en su caso, resulte; y
-
-e) Por reincidir en quejas derivadas de alterar las tarifas o sus reglas de aplicación;
-
-IV.- Procederá la cancelación de la tarjeta de identificación de chofer cuando:
-
-a) Se encuentre involucrado en la comisión o denuncia de hechos presuntamente delictivos en los que se involucre el servicio, los usuarios o terceros;
-
-b) Por reincidir en quejas derivadas de insultar o agredir física o verbalmente a los usuarios o terceros;
-
-c) Sustraer objetos propiedad de los usuarios en el traslado y posterior a su destino si se percató del olvido del objeto y no se lo haga saber usuario en el momento;
-
-d) Por la conducción de vehículos de transporte público, dentro o fuera del servicio, bajo la influencia de bebidas alcohólicas, enervantes o demás sustancias tóxicas;
-
-e) Por portar arma de fuego, arma blanca u objetos punzo cortantes o contundentes dentro del vehículo en el que se preste el servicio público, dentro y fuera del horario de servicio y que pongan en riesgo la integridad física de los usuarios o terceros;
-
-f) Por prestar el servicio de transporte con la tarjeta de identificación como chofer vencida, falsificada o con el nombre de otro chofer;
-
-g) Cuando por alguna omisión de cuidado al manejo del vehículo de transporte, los pasajeros o terceros sufran daños físicos;
-
-h) Por no regresar los objetos olvidados por los usuarios dentro de los vehículos de transporte a la SEGUOT, cuando por alguna circunstancia se pueda comprobar que tenía conocimiento del olvido del objeto propiedad del usuario;
-
-i) Por reincidir de manera continua el chofer en conductas que generen quejas de los usuarios en cualquiera de las modalidades establecidas en el reglamento de vehículos de alquiler; y
-
-j) Por no acudir de manera reiterada a los citatorios generados por concepto de quejas;
-
-V.- Se sancionara con multa a los titulares de concesiones, permisos o autorizaciones:
-
-a) Por portar un vehículo afecto a una concesión, permiso o autorización para la prestación del servicio público de transporte, publicidad sin la autorización correspondiente, multa de cincuenta a trescientos salarios mínimos;
-
-b) Por no presentarse a la revista vehicular en las fechas y lugares que señale la SEGUOT mediante convocatoria respectiva, multa de cien a doscientos salarios mínimos; en el caso de que presentado el vehículo no haya aprobado la revisión, y siga prestando el servicio, multa de doscientos a trescientos salarios mínimos;
-
-c) Por interrumpir la prestación del servicio en forma injustificada, o sin haber dado aviso a la SEGUOT, o que ésta no lo haya autorizado, multa de cien a trescientos salarios mínimos, y se revocará la concesión, permiso o autorización;
-
-d) Por negarse los titulares de las concesiones, permisos o autorizaciones a proporcionar la información, datos, informes y documentos necesarios para conocer y evaluar la prestación del servicio concesionado o permisionario, multa de cincuenta a cien salarios mínimos para el caso de personas físicas; para personas morales multa de cien a trescientos salarios mínimos;
-
-e) Por modificar o alterar sin autorización de la SEGUOT los itinerarios, rutas, horarios, frecuencias de servicio, terminales, o condiciones autorizadas para la prestación del servicio público de transporte, multa de cincuenta a cien salarios mínimos;
-
-f) Por no portar póliza de seguro vigente a bordo de vehículo afecto a una concesión de servicio público de transporte, multa de cincuenta, a trescientos salarios mínimos; y el vehículo será retirado de la circulación;
-
-g) Por ordenar aplicación de tarifas y reglas de operación no autorizadas por la SEGUOT multa de cincuenta a trescientos salarios mínimos; y el vehículo será retirado de la circulación;
-
-h) Por prestar el servicio público de transporte en vehículos que excedan la antigüedad máxima permitida por este Código, o que se encuentren en malas condiciones mecánicas, físicas o de operación, multa de veinte a cien salarios mínimos, y el vehículo será retirado de la circulación;
-
-i) Por no instalar o mantener fuera de operación los dispositivos para el control de velocidad a que hace referencia el presente Código, multa de veinte a cien salarios mínimos;
-
-j) Por alterar los taxímetros, sistemas de prepago y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas, multa de cincuenta a cien salarios mínimos; y
-
-k) Por cualquier otra violación a las disposiciones del presente Código cuya violación no esté expresamente prevista;
-
-VI.- Las concesiones, permisos o autorizaciones en materia del servicio de transporte público local de pasajes y de carga podrán ser suspendidas por:
-
-a) Por alterar de manera reiterada las tarifas establecidas para la prestación del servicio;
-
-b) Por reincidir en la interposición de multas por no prestar un servicio adecuado y eficiente;
-
-c) Por no acatar las indicaciones de las autoridades en materia de transporte, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que en su caso resulte;
-
-d) Por no realizar las acciones disciplinarias correspondientes a sus choferes en los casos de reincidencia de quejas en contra de estos;
-
-e) Por declarar falsamente en comparecencias ante la SEGUOT con motivo de citaciones por interposición de quejas;
-
-f) El no someter a revisión semestral el vehículo en forma reincidente;
-
-g) El no hacer las reparaciones o no dar el mantenimiento al vehículo cuando así lo determine el Consejo Estatal del Transporte Público, luego de vencido el plazo proporcionado para ello;
-
-h) El no prestar el servicio a quien lo solicite sin causa justificada en forma reiterada y sistemática;
-
-i) El no mantener el vehículo en las condiciones físicas y mecánicas adecuadas para su funcionamiento, vencido el plazo concedido para realizar las reparaciones necesarias;
-
-j) El no ajustarse a las condiciones que sobre cupo, seguridad, higiene, comodidad y eficiencia se determinen, en forma reiterada y sistemática;
-
-k) El no respetar las tarifas que se fijen para el cobro del servicio en forma reiterada y sistemática;
-
-l) El no sustituir el vehículo a efecto de que éste cuente con la antigüedad máxima señalada en el presente Código; y
-
-m) El no cumplir en forma reiterada con las normas en materia de vialidad;
-
-VII.- Además de las causas previstas en el Artículo 1072 de este Código, las concesiones en materia del servicio de transporte público local de pasajes y de carga podrán ser Revocadas por:
-
-a) Por ceder, enajenar o arrendar la concesión;
-
-b) Por adquirir o arrendar los derechos de otra concesión de la misma modalidad que le fue otorgada;
-
-c) Por alterar o modificar en cualquiera de sus partes el título de concesión que le fue otorgado;
-
-d) Violación reiterada y sistemática de tarifas o rutas oficiales en vigor;
-
-e) No iniciar el concesionario la prestación del servicio dentro del plazo de tres meses, contados a partir de la entrega del documento respectivo, salvo que por causas justificadas a juicio del Consejo Consultivo del Transporte Público del Estado éste prorrogue el plazo por una sola vez, por otro período igual como máximo;
-
-f) Por haber sido condenado el concesionario por delito intencional;
-
-g) Porque uno o más miembros de una persona moral concesionaria tenga en ésta, una participación superior al 75%;
-
-h) Reincidir en incumplimiento de horarios, frecuencias, u otras condiciones a que está sujeta la prestación del servicio;
-
-i) Incumplir las disposiciones del Consejo Consultivo del Transporte Público del Estado relativas a la sustitución o reparación de los vehículos e instalaciones para mantener en buen estado de conservación, funcionamiento, seguridad, higiene, presentación y protección ecológica, el vehículo o las instalaciones;
-
-j) Cometer actos imprudenciales el concesionario o empleados a su servicio, que provoquen daños físicos, patrimoniales o morales a cualquier usuario; y
-
-k) No contratar, en su caso, el seguro contra riesgos a que se refiere este Código.
-
-VIII.- Las concesiones, permisos o autorizaciones en materia del servicio de transporte público local de pasajes y de carga podrán ser canceladas por:
-
-a) Por la conducción del vehículo donde presta el servicio de transporte público, dentro o fuera del servicio, bajo la influencia de bebidas alcohólicas, enervantes o demás sustancias tóxicas;
-
-b) Por resultar positivo en exámenes de antidoping practicados por las autoridades correspondientes;
-
-c) Que se encuentre involucrado en la comisión o denuncia de hechos presuntamente delictivos en los que se involucre el servicio, los usuarios o terceros;
-
-d) Por portar armas de fuego, armas blancas, objetos punzo cortantes o contundentes dentro del vehículo en el que se preste el servicio público, dentro y fuera del horario de servicio y que pongan en riesgo la integridad física de los usuarios o terceros;
-
-e) El no acatar la sanción de suspensión cuando ésta sea impuesta;
-
-f) La terminación de la vigencia de la concesión cuando ésta no sea renovada;
-
-g) No reponer el vehículo dentro del plazo concedido para tal efecto por el Consejo Consultivo del Transporte Público, en los casos en que el vehículo deje de funcionar, se destruya o sea de un modelo inadecuado para el servicio;
-
-h) Por ceder o arrendar por cualquier título la concesión otorgada;
-
-i) Por no prestar el servicio bajo las condiciones que establezca el Ejecutivo del Estado en casos de emergencia, siniestros u otras circunstancias que afecten a la población;
-
-j) Por no establecer el servicio dentro del plazo señalado en la concesión, salvo en el caso de fuerza mayor y que la falta de cumplimiento obedezca a factores insuperables, no imputables al concesionario;
-
-k) Por interrupción del servicio en todo o en parte, sin causa justificada y sin la previa autorización de la autoridad competente;
-
-l) Por violar en forma reiterada y sistemática las disposiciones de este Código, no obstante que se le hayan aplicado las sanciones de amonestación, multa y suspensión;
-
-m) Por reincidir en cualquiera de las causas de suspensión; y
-
-n) Por permitir el uso de la concesión a un tercero no autorizado.
-
-Esto sin perjuicio de las demás sanciones que establezca este Código y demás ordenamientos jurídicos aplicables.
-
-En la comisión de las infracciones establecidas en este Código, se considera solidariamente responsable al titular de la concesión, permiso o autorización de que se trate.
-
-La SEGUOT está facultada para imponer la sanción de suspensión, quedando a cargo del Secretario de Gobierno la cancelación o revocación de las concesiones, previo estudio que le presente la SEGUOT.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ###### ARTÍCULO 1093.
 
-A quienes infrinjan las disposiciones contenidas en este Código y en las normas reglamentarias que de ésta se deriven, se les impondrá conjunta o separadamente, cualquiera de las siguientes sanciones:
-
-I.- Multa de diez a mil veces el salario mínimo general diario vigente en el Estado;
-
-II.- Suspensión de los derechos derivados de la concesión hasta por un año;
-
-III.- Revocación de la concesión;
-
-IV.- Cancelación de la Concesión;
-
-V.- Cancelación de la identificación de conductor de vehículos del servicio de transporte;
-
-VI.- Suspensión de la identificación de conductor de vehículos del servicio de transporte hasta por sesenta días naturales; y
-
-VII.- Cancelación de la licencia de chofer por la autoridad competente previa solicitud de la Dirección General de Transporte.
-
-Cuando se cometa alguna de las infracciones establecidas en el presente Código, y existan causas de interés social y orden público, los vehículos que se utilicen para la prestación de los servicios de transporte, podrán ser retenidos por la SEGUOT como garantía del cumplimiento de las sanciones correspondientes.
-
-Las sanciones anteriores se aplicarán sin perjuicio de las de carácter penal y civil que pudieran derivarse de las infracciones cometidas.
-
-La SEGUOT está facultada para imponer la sanción de suspensión, quedando a cargo del Gobernador del Estado la cancelación o revocación de las concesiones, previo estudio que le presente la SEGUOT.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUSCALIENTES, P.O. 30 DE ABRIL DE 2018)
 
 ### CAPÍTULO IV. De las Notificaciones, Procedimientos de Comprobación y de los Medios de Impugnación
 
@@ -13070,3 +12026,105 @@ P.O. 7 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 288.- LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Abroga la Ley de Vialidad del Estado de Aguascalientes, publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994, y todas sus modificaciones.
+
+###### ARTÍCULO TERCERO.
+
+Se Derogan la Fracción XIX del ARTÍCULO 1°; las Fracciones XCI, CXL, CXLIV, del ARTÍCULO 4°; Fracción IV del ARTÍCULO 8°; las Fracciones III, XIV y XX del ARTÍCULO 20; las Fracciones XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI y LVII del ARTÍCULO 22; las Fracciones XXXIX, XL, XLVI, XLVII y XLIX del ARTÍCULO 24; los ARTÍCULOS 69, 70, 71, 72, 73, 74, 186, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 959, 960, 960 A, 960 B, 960 C, 960 D, 960 E, 960 F, 960 G, 981, 982, 983, 984, 985, 986, 987, 988, 989, 990, 991 992, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068, 1069, 1070, 1092 y 1093, del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, publicado en la edición vespertina del Periódico Oficial del Estado, el lunes siete de octubre del dos mil trece y todas sus reformas.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigencia del presente Decreto, todas las referencias que se hagan a la Ley de Vialidad del Estado de Aguascalientes, en ordenamientos jurídicos, decretos, reglamentos, acuerdos, convenios y demás disposiciones jurídicas y reglamentarias se entenderán hechas a la Ley de Movilidad del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones reglamentarias derivadas de la presente Ley así como los manuales o demás instrumentos normativos que se desprendan de este ordenamiento, deberán expedirse dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, incluyendo la normatividad municipal.
+
+###### ARTÍCULO SEXTO.
+
+Dentro de los noventa días hábiles a la entrada en vigor de la presente ley, el Gobernador del Estado, a través de la CMOV, deberá expedir la convocatoria para la creación del Observatorio Ciudadano de Movilidad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes, de conformidad con lo previsto en el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo del Estado, por única ocasión, contará con ciento ochenta días contados a partir de la vigencia de la presente Ley, para expedir el Programa Estatal de Movilidad. Una vez publicado este instrumento estatal, los Municipios contarán con ciento veinte días para expedir su Programa Municipal de Movilidad en los términos señalados. Asimismo, en igual lapso, deberán adaptar sus disposiciones reglamentarias de conformidad con lo señalado en este ordenamiento.
+
+###### ARTÍCULO NOVENO.
+
+Las concesiones otorgadas bajo el imperio de las disposiciones que se derogan, continuarán su vigencia hasta su conclusión en los términos en que fueron otorgadas, de acuerdo con las siguientes reglas:
+
+I. Las obligaciones que esta Ley determina para los concesionarios, permisionarios, titulares de autorizaciones y operadores serán exigibles desde la entrada en vigor de la presente normatividad y su incumplimiento será sancionado en los términos previstos en este Decreto;
+
+II. Las concesiones del transporte colectivo urbano que actualmente se encuentren en su período de vigencia conforme a las disposiciones que se derogan, podrán adherirse inmediatamente al SITMA previsto en esta Ley, siempre que los interesados cumplan con los requisitos señalados por esta normatividad; para lo cual la CMOV generará los programas de integración que resulten necesarios para operar sin demora la transferencia entre ambos sistemas;
+
+III. La persona física que actualmente detente una concesión de transporte colectivo urbano, deberá integrarse en personas morales titulares de las concesiones SITMA, cuando tales entes reúnan los requisitos señalados en esta Ley. En este caso, la titularidad de las concesiones ordinarias para operar el transporte colectivo urbano se extinguirá si se otorga la titularidad de la concesión SITMA a la organización. De no otorgarse la concesión SITMA a la nueva organización, se aplicará la regla contenida en el párrafo primero de este Artículo;
+
+IV. Deberá procurarse que en el transcurso de tres años contados a partir de la entrada en vigor de este ordenamiento, se haya operado la migración de las concesiones del transporte colectivo urbano convencional otorgadas bajo el imperio de las leyes que se derogan, a efecto de que puedan ser integradas al esquema propio del SITMA en caso de ser procedente. Para lo anterior, la CMOV establecerá el Programa de Modernización del Transporte Público para el Estado de Aguascalientes, estableciendo las reglas y mecanismos para dicha transferencia;
+
+V. La CMOV dentro de sus facultades, establecerá las medidas pertinentes para mantener la oferta óptima del servicio que satisfaga las necesidades de movilidad de los usuarios en el sistema de transporte;
+
+VI. Las concesiones y permisos para modalidades distintas del transporte colectivo urbano otorgadas bajo el imperio de las leyes que se derogan, continuarán surtiendo sus efectos hasta su vencimiento natural; en cuyo caso, una vez ocurrido podrán ser renovadas atendiendo al régimen, vigencia, condiciones y modalidades establecidas en esta Ley para las concesiones ordinarias, siempre que se satisfagan los requisitos previstos;
+
+VII. Los trámites para la renovación de las concesiones que actualmente se encuentren en trámite o pendientes de resolución quedarán sin efectos, debiendo iniciarse de acuerdo con las reglas establecidas en la presente normatividad según la modalidad de que se trate; y
+
+VIII. Por única ocasión, los trámites sucesorios y de renovación de concesiones deberán tramitarse por los interesados en el lapso de sesenta días hábiles contados a partir de la entrada en vigor de la presente Ley, en caso contrario, operará la caducidad del derecho de los beneficiarios o interesados para tramitar la sustitución o renovación, la cual deberá realizarse en los términos prevenidos en este ordenamiento.
+
+###### ARTÍCULO DÉCIMO.
+
+Dentro de los siguientes ciento ochenta días a la expedición de la presente normatividad, el Poder Ejecutivo del Estado expedirá el Decreto a través del cual establezca las reglas de operación y funcionamiento del Fondo Estatal de Movilidad.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas de la presente Ley, serán aplicables en lo conducente las que hasta ahora se encuentran vigentes, en la medida en que no contravengan las disposiciones de esta Ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos o expedientes administrativos que se encuentren en trámite al inicio de la vigencia de la presente Ley, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los órganos colegiados de relevancia previstos en esta Ley que requieran expedir por sí o a través de la autoridad competente, su propia normatividad interna, contarán con un período de ciento ochenta días para expedirla, contados a partir de su constitución.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las tarifas preferenciales que se encuentran vigentes al momento de la expedición del presente Decreto continuarán en vigor, hasta en tanto no se expida el instrumento normativo a que hace referencia el Artículo 144 en relación con el 76 de esta Ley.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+La CMOV verificará el cumplimiento de las obligaciones contenidas en la Fracción XIV del Artículo 159, así como en la Fracción XXXIX del Artículo 200 del presente Decreto, el cual se deberá efectuar de manera gradual y progresiva conforme a la renovación de los vehículos o bien hasta lograr la cobertura de al menos un diez por ciento al 30 de septiembre del 2022.
+
+De acuerdo a lo anterior, los vehículos adaptados transitarán prioritariamente por las rutas de mayor circulación, con base en el estudio previo realizado por las autoridades competentes y a la demanda de la población.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Las normas relativas a las cuotas por infracciones a la presente Ley, entrarán en vigor hasta en tanto se expiden las leyes de ingresos de los municipios y del Estado correspondientes al siguiente ejercicio fiscal.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+En el presente decreto, cualquier referencia establecida al Código Urbano del Estado de Aguascalientes, se entenderá hecha al Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, en tanto el primero no inicie su vigencia.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Los edificios públicos que no cuenten con estacionamiento para bicicletas al momento de la publicación del presente decreto, deberán implementarlo a más tardar el 1° de enero de 2020. Los edificios que por ser parte del patrimonio cultural estatal o nacional no sean susceptibles de sufrir modificaciones para dar cumplimiento a esta disposición, ubicarán los estacionamientos en los espacios abiertos de uso público más próximos que ofrezcan condiciones para su colocación.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+Los Poderes del Estado, sus dependencias y entidades, los Órganos Constitucionales del Estado, así como los Ayuntamientos implementarán, en la medida que sus posibilidades presupuestales lo permitan, programas e incentivos para inhibir el uso de automóviles por parte de los servidores públicos y gestionar apoyos o fondos de garantía para facilitar la obtención de créditos para la adquisición de bicicletas.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
