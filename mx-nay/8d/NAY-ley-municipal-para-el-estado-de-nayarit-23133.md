@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2017-06-27"
+last_updated: "2018-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -1157,7 +1157,13 @@ X.- De Desarrollo Económico;
 
 XI.- De Asuntos Constitucionales y Reglamentos; y
 
-XII.- Las demás que determine el Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2018)</small>
+
+XII.- De Transparencia Gubernamental y Protección de Datos Personales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE ABRIL DE 2018)</small>
+
+XIII.- Las demás que determine el Ayuntamiento.
 
 ###### ARTICULO 80.
 
@@ -4202,3 +4208,13 @@ Cuarto. El titular de la Contraloría de cada Municipio, será ratificados (sic)
 Quinto. En tanto se realizan las modificaciones conducentes a los formatos, papelería, sellos y demás documentación que obre en las Direcciones de Contraloría y Desarrollo Administrativo, se seguirá utilizando hasta que dichas Direcciones realicen las adecuaciones conducentes sin exceder 180 días naturales a la entrada del presente Decreto.
 
 Sexto. Las referencias establecidas en otras leyes y disposiciones reglamentarias y administrativas, a la Dirección de Contraloría y Desarrollo Administrativo, se entenderán por realizadas a la Contraloría Municipal y a su titular.
+
+P.O. 30 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 79 DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los ayuntamientos contarán con 60 días naturales para integrar la Comisión Ordinaria de Transparencia Gubernamental y Protección de Datos Personales, así como crear su reglamento.
+
+TERCERO.- Comuníquese a los ayuntamientos del Estado de Nayarit, para los efectos conducentes.
