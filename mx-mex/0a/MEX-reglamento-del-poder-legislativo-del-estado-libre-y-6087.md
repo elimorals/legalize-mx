@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2018-01-08"
+last_updated: "2018-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2018.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -979,9 +979,13 @@ Si la sesión no pudiera efectuarse por falta de quórum, se girará nuevo citat
 
 El diputado que presente una iniciativa se denominará diputado presentante.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2018)</small>
+
 ###### Artículo 69.
 
-Las iniciativas que no provengan de los diputados, serán leídas por uno de los secretarios, sin perjuicio de que puedan darle lectura los dos, o inciuso (sic) los prosecretarios, siempre que sea recomendable por la extensión de aquéllas.
+Las iniciativas que no provengan de los diputados, serán leídas por uno de los secretarios, sin perjuicio de que puedan darle lectura los tres, o incluso los vicepresidentes, siempre que sea recomendable por la extensión de aquéllas.
+
+Se dará lectura a un documento síntesis de las iniciativas presentadas ante el pleno, salvo disposición expresa en otro sentido.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1071,9 +1075,13 @@ Los dictámenes presentados por las comisiones serán firmados por quienes los h
 
 Concluido un dictamen, el presidente de la comisión lo remitirá al Presidente de la Legislatura, quien dispondrá su presentación a la Asamblea.
 
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2018)</small>
+
 ###### Artículo 81.
 
-El diputado encargado de presentar el dictamen a consideración de la Asamblea, le dará lectura y en su caso también a las modificaciones que hubiese tenido el proyecto de ley o decreto; concluida la misma, el Presidente de la Legislatura lo someterá a discusión.
+El diputado encargado de presentar el dictamen a consideración de la Asamblea, le dará lectura únicamente, a la parte introductoria, los antecedentes, y a los puntos resolutivos; y en su caso también a las modificaciones que hubiese tenido el proyecto de ley o decreto; concluida la misma, el Presidente de la Legislatura lo someterá a discusión.
+
+Lo anterior será aplicable, en lo conducente, a las comisiones y comités.
 
 > <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
 
@@ -2566,3 +2574,13 @@ G.G. 8 DE ENERO DE 2018.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 30 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 306.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 69 Y 81 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
