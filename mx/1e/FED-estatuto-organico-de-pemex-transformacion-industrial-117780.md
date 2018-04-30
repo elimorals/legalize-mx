@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-transformacion-industrial-117780"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-30"
-last_updated: "2016-12-30"
+last_updated: "2018-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117780&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-12-22"
 
 ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2016.
 
@@ -81,6 +81,10 @@ II. Azufre: Es un producto que se recupera de los procesos de endulzamiento del 
 
 III. Cadena de Valor: Las actividades de refinación, transformación, procesamiento, importación, exportación, almacenamiento, transporte, distribución, compresión, descompresión, licuefacción, regasificación, comercialización, Expendio al Público, elaboración y venta de Hidrocarburos, Petrolíferos, gas natural y Petroquímicos y servicios relacionados con dichas actividades;
 
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+III BIS. Cogeneración: La producción de energía eléctrica conjuntamente con vapor u otro tipo de Energía térmica secundaria, o ambas; la producción directa o indirecta de energía eléctrica, mediante la Energía térmica no aprovechada en los procesos, o la generación directa o indirecta de energía eléctrica, cuando se utilicen combustibles producidos en los procesos;
+
 IV. Consejeros: Los designados con tal carácter, propietarios y suplentes, de conformidad con el Acuerdo de Creación;
 
 V. Consejo de Administración: El Consejo de Administración de Pemex Transformación Industrial;
@@ -91,9 +95,17 @@ VII. Director Operativo: Titular de una Dirección inmediata inferior a la del D
 
 VIII. Disciplina Operativa: Proceso mediante el cual se describen y establecen las mejores formas probadas de llevar a cabo las actividades inherentes a las operaciones de la empresa, consta de cuatro etapas: disponibilidad, calidad, comunicación y cumplimiento, el proceso asegura altos estándares de desempeño;
 
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+VIII BIS. Eficiencia Energética: Todas las acciones que conlleven a una reducción, económicamente viable, de la cantidad de energía que se requiere para satisfacer las necesidades energéticas de los servicios y bienes que demanda la sociedad, asegurando un nivel de calidad igual o superior;
+
 IX. Empresas Filiales: Aquellas en las que Pemex Transformación Industrial participa, directa o indirectamente, en más del cincuenta por ciento de su capital social, con independencia de que se constituyan conforme a la legislación mexicana o a la extranjera;
 
 X. Empresas Productivas Subsidiarias: Las empresas productivas del Estado subsidiarias de Pemex, con personalidad jurídica y patrimonio propios, sujetas a la conducción central, dirección estratégica y coordinación de Petróleos Mexicanos, de conformidad con el artículo 1 del Acuerdo de Creación;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+X BIS. Energía térmica: Es la energía que se obtiene del poder calórico de la combustión de diferentes combustibles, la cual convierte agua en vapor que se conduce a una turbina acoplada a un generador que produce energía eléctrica;
 
 XI. Entes Participantes: Las personas morales que intervienen en el Modelo Operativo Basado en Administración por Procesos;
 
@@ -102,6 +114,10 @@ XII. Estatuto: El Estatuto Orgánico de Pemex Transformación Industrial;
 XIII. Estructuras de Gobierno para la Mejora de Procesos: Los grupos colegiados que intervienen en el Modelo Operativo Basado en Administración por Procesos, para gestionar la mejora de dichos procesos;
 
 XIV. Expendio al Público: Los que define la Ley de Hidrocarburos en su artículo 4, fracción XIII;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XIV BIS. Generación de energía eléctrica: Producción de energía eléctrica por el consumo de alguna otra forma de energía;
 
 XV. Hidrocarburos: Los que define la Ley de Hidrocarburos en su artículo 4, fracción XX;
 
@@ -144,6 +160,10 @@ XXXIII. Reserva Contractual: Modalidad de prestación del servicio de transporte
 XXXIV. Secretario: El Secretario del Consejo de Administración;
 
 XXXV. Sistema de Control Interno: El conjunto de políticas, principios, normas, procedimientos y mecanismos de verificación y evaluación establecidos conforme a los lineamientos que apruebe el Consejo de Administración de Petróleos Mexicanos, en términos del artículo 56 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XXXV BIS. Sistema de Gestión de la Energía: El establecimiento de métodos y procesos necesarios para mejorar el rendimiento energético incluyendo la eficiencia, uso y consumo, con la finalidad de conducir a reducciones en la emisión de gases de efecto invernadero, el costo de la energía y otros impactos ambientales relacionados;
 
 XXXVI. SSPA: Seguridad Salud y Protección Ambiental, disciplina técnica que vigila y controla la administración de los riesgos a las instalaciones, a las personas, al medio ambiente y la comunidad, y que están relacionados con las operaciones de Pemex;
 
@@ -433,7 +453,9 @@ La interpretación de las reglas de funcionamiento del Consejo de Administració
 
 El Director General, en adición a lo establecido en el artículo 15 del Acuerdo de Creación, tendrá las funciones siguientes:
 
-I. Representar a Pemex Transformación Industrial, para lo cual gozará de las más amplias facultades para pleitos y cobranzas, actos de administración y actos de dominio en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal, y sus correlativos en los Códigos Civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial en términos del artículo 2587 del Código Civil citado, por lo que podrá en forma enunciativa mas no limitativa desistirse, transigir, comprometer en árbitros, absolver y articular posiciones, hacer cesión de bienes, recusar, recibir pagos, realizar los demás actos que expresamente determine la ley, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo. Asimismo, contará con la representación legal y patronal en términos de los artículos 11, 692, 786 y 876, de la Ley Federal del Trabajo. Igualmente estará facultado; para emitir, avalar, suscribir, endosar, librar y negociar títulos de crédito en términos de la Ley General de Títulos y Operaciones de Crédito; asimismo tendrá la naturaleza de encargado de la defensa jurídica de Pemex Transformación Industrial para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables; así como para otorgar y revocar toda clase de poderes generales o especiales;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+I. Representar a Pemex Transformación Industrial, para lo cual gozará de las más amplias facultades para pleitos y cobranzas, actos de administración y actos de dominio, en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial en términos del artículo 2587 del Código Civil citado, por lo que podrá en forma enunciativa más no limitativa desistirse, transigir, comprometer en árbitros, absolver y articular posiciones, hacer cesión de bienes, recusar, recibir pagos, realizar los demás actos que expresamente determine la ley, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo. Asimismo, contará con la representación legal y patronal en términos del artículo 11 de la Ley Federal del Trabajo. Igualmente estará facultado para emitir, avalar, suscribir, endosar, librar y negociar títulos de crédito en términos de la Ley General de Títulos y Operaciones de Crédito; asimismo tendrá la naturaleza de encargado de la defensa jurídica de Pemex Transformación Industrial para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables; así como para otorgar y revocar toda clase de poderes generales o especiales;
 
 II. Dirigir la participación de Pemex Transformación Industrial en la Planeación Estratégica Institucional;
 
@@ -507,11 +529,17 @@ XXXVI. Coordinar el procesamiento del gas natural, líquidos del gas natural y d
 
 XXXVII. Coordinar la comercialización, así como el cumplimiento del marco regulatorio;
 
-XXXVIII. Instruir la implantación del Sistema de Confiabilidad Operativa para asegurar la eficiencia de la operación y mantenimiento de equipos e instalaciones;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XXXVIII. Instruir la implantación del Sistema de Confiabilidad Operativa y del Sistema de Gestión de la Energía, para asegurar la eficiencia de la operación y mantenimiento de equipos e instalaciones;
 
 XXXIX. Dirigir la implantación y vigilar el cumplimiento y desempeño del sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y por las demás disposiciones aplicables;
 
 XL. Coordinar la implementación de los programas de mantenimiento y asegurar la confiabilidad de plantas de proceso, ductos, instalaciones de almacenamiento y servicios principales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XL BIS. Dirigir la planeación energética de los activos de las refinerías, complejos procesadores de gas y centros petroquímicos;
 
 XLI. Proponer al Consejo de Administración la normativa que de acuerdo con el objeto de Pemex Transformación Industrial le corresponda y, en su caso, emitir, modificar, interpretar o dejar sin efectos aquella normativa que sea de su competencia;
 
@@ -533,9 +561,17 @@ XLIX. Llevar con apoyo de la Dirección Jurídica de Pemex, un registro sobre el
 
 L. Delegar funciones y asignar responsabilidades a los servidores públicos de Pemex Transformación Industrial, salvo aquellas que sean indelegables;
 
-LI. Validar la información de Pemex Transformación Industrial, contenida en el informe anual a que se refiere el artículo 113 de la Ley, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-LII. Las demás que sean necesarias para el cumplimiento de su cargo, las que le instruya el Consejo de Administración, el Director General de Pemex, así como aquéllas establecidas en otros artículos del Estatuto y en otras disposiciones aplicables.
+LI. Validar la información de Pemex Transformación Industrial, contenida en el informe anual a que se refiere el artículo 113 de la Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE ABRIL DE 2018)</small>
+
+LII. Dirigir la vigilancia, monitoreo, control de accesos y salidas en las refinerías, complejos procesadores de gas y centros petroquímicos, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica de Pemex, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 30 DE ABRIL DE 2018)</small>
+
+LIII. Las demás que sean necesarias para el cumplimiento de su cargo, las que le instruya el Consejo de Administración, el Director General de Pemex, así como aquéllas establecidas en otros artículos del Estatuto y en otras disposiciones aplicables.
 
 Son indelegables las atribuciones del Director General correspondientes a las funciones señaladas en las fracciones I, II, IV, VI, X, XII, XIII, XIV, XV, XVI, XIX, XXIII, XXIV, XXVI, XXVII, XXIX, XLI, XLVII, XLVIII, L y LI del presente artículo.
 
@@ -565,9 +601,13 @@ El Director General solicitará a la Dirección Jurídica de Pemex el otorgamien
 
 Cada uno de los subdirectores tendrá, en el ámbito de competencia de su respectiva subdirección, las funciones siguientes:
 
-I. Representar a Pemex Transformación Industrial, en el ámbito de sus funciones con facultades para actos de administración, en términos del artículo 2554, segundo párrafo, del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, así como en aquellos otros asuntos que le asigne o delegue expresamente el Director General o su Director Operativo;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-II. Coordinar la implementación de los planes y programas de las estrategias y directrices establecidas por Pemex en materia de Planeación Estratégica Institucional y operativa, seguridad industrial, salud en el trabajo y protección ambiental, disciplina y confiabilidad operacional, gestión de mantenimiento, integridad de infraestructura y mejora del desempeño operativo;
+I. Representar a Pemex Transformación Industrial, en el ámbito de sus funciones con facultades para actos de administración, en términos del artículo 2554, segundo párrafo, del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, y con las facultades especiales de pleitos y cobranzas, para transigir y para recibir pagos, en términos del artículo 2587, fracciones II y VII del Código Civil Federal y sus correlativos en los códigos civiles de las entidades federativas, así como en aquellos otros asuntos que le asigne o delegue expresamente el Director General o su Director Operativo; asimismo tendrá la naturaleza de encargado de la defensa jurídica de Pemex Transformación Industrial para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+II. Coordinar la implementación de los planes y programas de las estrategias y directrices establecidas por Pemex en materia de Planeación Estratégica Institucional y operativa, seguridad industrial, salud en el trabajo y protección ambiental, Eficiencia Energética, disciplina y confiabilidad operacional, gestión de mantenimiento, integridad de infraestructura y mejora del desempeño operativo;
 
 III. Coadyuvar en la elaboración de metas, planes y programas para el diseño y definición de las estrategias de Pemex Transformación Industrial, así como para el seguimiento de su implementación;
 
@@ -641,7 +681,9 @@ XXXVII. Supervisar la aplicación de las condiciones de seguridad del personal, 
 
 XXXVIII. Coadyuvar en el diseño y la implementación de los planes de respuesta a emergencias, programas de prevención de accidentes en derrames de Hidrocarburos, emergencias ambientales, programas de remediación de suelos y aguas y, los demás que en materia de sustentabilidad, seguridad industrial, seguridad operativa y protección al medio ambiente le sean aplicables;
 
-XXXIX. Supervisar la implantación del Sistema de Confiabilidad Operativa para asegurar la eficiencia de la operación y mantenimiento de equipos e instalaciones;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XXXIX. Supervisar la implantación del Sistema de Confiabilidad Operativa y del Sistema de Gestión de la Energía, para asegurar la eficiencia de la operación y mantenimiento de equipos e instalaciones;
 
 XL. Coordinar la implantación, vigilancia y evaluación del desempeño del sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y otras disposiciones aplicables;
 
@@ -685,7 +727,9 @@ Para la realización de sus actividades, los subdirectores se auxiliarán de las
 
 Cada uno de los gerentes tendrá, en el ámbito de su competencia, las funciones siguientes:
 
-I. Representar a Pemex Transformación Industrial, en el ámbito de sus funciones, con facultades para actos de administración, en términos del artículo 2554, segundo párrafo, del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, así como en aquellos otros asuntos que le asignen o deleguen indistintamente y de manera expresa sus superiores jerárquicos;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+I. Representar a Pemex Transformación Industrial, en el ámbito de sus funciones, con facultades para actos de administración, en términos del artículo 2554, segundo párrafo, del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, y con las facultades especiales de pleitos y cobranzas, para transigir y para recibir pagos, en términos del artículo 2587, fracciones II y VII del Código Civil Federal y sus correlativos en los códigos civiles de las entidades federativas, así como en aquellos otros asuntos que le asignen o deleguen indistintamente y de manera expresa sus superiores jerárquicos; asimismo tendrá la naturaleza de encargado de la defensa jurídica de Pemex Transformación Industrial para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables;
 
 II. Implementar y aplicar políticas, estrategias, procesos, iniciativas, proyectos, acciones, metodologías, mecanismos y sistemas en materia de Planeación Estratégica Institucional, portafolio y cartera de inversiones, programación operativa, evaluación del desempeño, desarrollo de proyectos de inversión, regulación, precios, tarifas, contraprestaciones, seguridad industrial, salud en el trabajo, protección ambiental, desarrollo sustentable, eficiencia energética, confiabilidad operacional, mantenimiento, medición y balances de Pemex Transformación Industrial;
 
@@ -757,7 +801,9 @@ XXXV. Implementar las condiciones de seguridad del personal, de los bienes e ins
 
 XXXVI. Coadyuvar en el diseño y la implementación de los planes de respuesta a emergencias, programas de prevención de accidentes en derrames de Hidrocarburos, emergencias ambientales, programas de remediación de suelos y aguas y, los demás que en materia de sustentabilidad, seguridad industrial, seguridad operativa y protección al medio ambiente le sean aplicables;
 
-XXXVII. Implantar el Sistema de Confiabilidad Operativa para asegurar la eficiencia de la operación y mantenimiento de equipos e instalaciones;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XXXVII. Implantar el Sistema de Confiabilidad Operativa y el Sistema de Gestión de la Energía, para asegurar la eficiencia de la operación y mantenimiento de equipos e instalaciones;
 
 XXXVIII. Implantar el sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y otras disposiciones aplicables;
 
@@ -857,7 +903,15 @@ c) Gerencia de Gestión del Mantenimiento y Paros de Planta
 
 d) Gerencia de Ingeniería de Confiabilidad
 
-e) Gerencia de Implementación de Iniciativas de Mejora de Producción
+e) (DEROGADO, D.O.F. 30 DE ABRIL DE 2018)
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 30 DE ABRIL DE 2018)</small>
+
+4. Subdirección de Eficiencia Energética
+
+a) Gerencia de Evaluación y Mejora Energética
+
+b) Gerencia de Optimización y Coordinación Energética
 
 III. Subdirección de Comercialización de Combustibles de Transporte
 
@@ -935,9 +989,13 @@ VIII. Subdirección de Análisis Estratégico
 
 La Dirección Operativa de Producción tendrá las funciones siguientes:
 
-I. Representar a Pemex Transformación Industrial, en los asuntos relacionados con su Dirección Operativa, así como en aquellas responsabilidades o funciones que le asigne o delegue expresamente el Director General, para lo cual gozarán de las más amplias facultades para pleitos y cobranzas, actos de administración y actos de dominio, en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal, y sus correlativos en los Códigos Civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial en términos del artículo 2587 del Código Civil citado, por lo que podrán en forma enunciativa mas no limitativa desistirse, transigir, comprometer en árbitros, absolver y articular posiciones, hacer cesión de bienes, recusar, recibir pagos, realizar los demás actos que expresamente determine la ley, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo. Asimismo, contarán con la representación legal y patronal en términos de los artículos 11, 692, 786 y 876, de la Ley Federal del Trabajo. Igualmente estarán facultados para emitir, avalar, suscribir, endosar, librar y negociar títulos de crédito en términos de la Ley General de Títulos y Operaciones de Crédito; asimismo tendrán la naturaleza de encargados de la defensa jurídica de Pemex Transformación Industrial para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables; así como para otorgar y revocar toda clase de poderes generales o especiales;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-II. Supervisar la implementación de los planes y programas de las estrategias y directrices establecidas por Pemex en materia de Planeación Estratégica Institucional y operativa, seguridad industrial, salud en el trabajo y protección ambiental, disciplina y confiabilidad operacional, gestión de mantenimiento, integridad de infraestructura y mejora del desempeño operativo;
+I. Representar a Pemex Transformación Industrial, en los asuntos relacionados con su Dirección Operativa, así como en aquellas responsabilidades o funciones que le asigne o delegue expresamente el Director General, para lo cual gozará de las más amplias facultades para pleitos y cobranzas, actos de administración y actos de dominio, en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal, y sus correlativos en los Códigos Civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial en términos del artículo 2587 del Código Civil citado, por lo que podrá en forma enunciativa mas no limitativa desistirse, transigir, comprometer en árbitros, absolver y articular posiciones, hacer cesión de bienes, recusar, recibir pagos, realizar los demás actos que expresamente determine la ley, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo. Asimismo, contará con la representación legal y patronal en términos del artículo 11 de la Ley Federal del Trabajo. Igualmente estará facultado para emitir, avalar, suscribir, endosar, librar y negociar títulos de crédito en términos de la Ley General de Títulos y Operaciones de Crédito; asimismo tendrá la naturaleza de encargado de la defensa jurídica de Pemex Transformación Industrial para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables; así como para otorgar y revocar toda clase de poderes generales o especiales;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+II. Supervisar la implementación de los planes y programas de las estrategias y directrices establecidas por Pemex en materia de Planeación Estratégica Institucional y operativa, seguridad industrial, salud en el trabajo y protección ambiental, Eficiencia Energética, disciplina y confiabilidad operacional, gestión de mantenimiento, integridad de infraestructura y mejora del desempeño operativo;
 
 III. Coordinar la elaboración de metas, planes y programas para el diseño y definición de las estrategias de Pemex Transformación Industrial, así como los mecanismos para el seguimiento de su implementación;
 
@@ -1007,7 +1065,9 @@ XXXV. Instruir la aplicación de las condiciones de seguridad del personal, de l
 
 XXXVI. Coadyuvar en el diseño y la implementación de los planes de respuesta a emergencias, programas de prevención de accidentes en derrames de Hidrocarburos, emergencias ambientales, programas de remediación de suelos y aguas y, los demás que en materia de sustentabilidad, seguridad industrial, seguridad operativa y protección al medio ambiente le sean aplicables;
 
-XXXVII. Instruir la implantación, dentro de las áreas a su cargo, del Sistema de Confiabilidad Operacional para asegurar la eficiencia de la operación y mantenimiento de instalaciones;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XXXVII. Instruir la implantación, dentro de las áreas a su cargo, del Sistema de Confiabilidad Operacional y del Sistema de Gestión de la Energía, para asegurar la eficiencia de la operación y mantenimiento de instalaciones;
 
 XXXVIII. Conducir la implantación, vigilancia y evaluación del desempeño del sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y por las demás disposiciones aplicables;
 
@@ -1047,7 +1107,9 @@ LV. Establecer los objetivos, indicadores y metas de los procesos productivos, c
 
 LVI. Dirigir la integración e implementación de la estrategia tecnológica y promover el desarrollo del conocimiento de los procesos productivos, alineado a la Planeación Estratégica Institucional;
 
-LVII. Optimizar el desempeño de los procesos de producción, mantenimiento y servicios técnicos, así como en materia de calidad, salud en el trabajo, seguridad industrial y protección ambiental;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+LVII. Optimizar el desempeño de los procesos de producción, mantenimiento y servicios técnicos, así como en materia de calidad, salud en el trabajo, seguridad industrial y protección ambiental y Eficiencia Energética;
 
 LVIII. Coordinar estrategias para la optimización de costos de producción y la mejora en la calidad de los productos, así como mecanismos que orienten la producción hacia estándares internacionales de eficiencia;
 
@@ -1055,9 +1117,17 @@ LIX. Dirigir la implantación de metodologías y programas de trabajo orientados
 
 LX. Dirigir la administración del presupuesto de operación e inversión, así como instruir mecanismos de control y optimización del gasto;
 
-LXI. Coordinar y dirigir el establecimiento e implantación de las iniciativas de gestión de la confiabilidad y del mantenimiento en las Instalaciones Industriales, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-LXII. Establecer las directrices y difundir la normatividad en materia de mantenimiento y confiabilidad, así como para la operación homologada y la evaluación de los almacenes de materiales, refacciones y equipos de las Instalaciones Industriales.
+LXI. Coordinar y dirigir el establecimiento e implantación de las iniciativas de gestión de la confiabilidad y del mantenimiento en las Instalaciones Industriales;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+LXII. Establecer las directrices y difundir la normatividad en materia de mantenimiento y confiabilidad, así como para la operación homologada y la evaluación de los almacenes de materiales, refacciones y equipos de las Instalaciones Industriales, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+LXIII. Coordinar la vigilancia, monitoreo, control de accesos y salidas en las refinerías, complejos procesadores de gas y centros petroquímicos, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica de Pemex.
 
 Son indelegables las funciones señaladas en las fracciones I, V, VI, VII, XII, XVII, XIX, XXI, XXV, XXVI, XXIX, XL, XLI, XLVII, XLVIII y LII del presente artículo.
 
@@ -1067,7 +1137,9 @@ Son indelegables las funciones señaladas en las fracciones I, V, VI, VII, XII, 
 
 La Subdirección de Producción de Petrolíferos tendrá las funciones siguientes:
 
-I. Coordinar con las áreas de Pemex, la implementación de los programas y sistemas institucionales de Confiabilidad Operacional y SSPA, entre otros en las refinerías;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+I. Coordinar con las áreas de Pemex, la implementación de los programas y sistemas institucionales de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros en las refinerías;
 
 II. Participar en la elaboración de los programas operativos relacionados con el procesamiento de crudo y la producción de Petrolíferos, así como de servicios principales, y coordinar su ejecución en los centros de trabajo;
 
@@ -1083,9 +1155,17 @@ VII. Participar en la integración de las propuestas de programas de confiabilid
 
 VIII. Proponer y dar seguimiento a los proyectos de modernización y eficiencia de las refinerías;
 
-IX. Dirigir y evaluar el desempeño de la operación de los almacenes de materiales, refacciones y equipos de las refinerías, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-X. Coordinar la elaboración de los diagnósticos físico-operativos de las refinerías, así como la evaluación de las libranzas y reparaciones mayores programadas.
+IX. Dirigir y evaluar el desempeño de la operación de los almacenes de materiales, refacciones y equipos de las refinerías;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+X. Coordinar la elaboración de los diagnósticos físico-operativos de las refinerías, así como la evaluación de las libranzas y reparaciones mayores programadas, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XI. Coordinar la vigilancia, monitoreo, control de accesos y salidas en las refinerías, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica de Pemex.
 
 ###### Artículo 47.
 
@@ -1109,7 +1189,9 @@ VIII. Integrar y validar los datos de producción de las refinerías y la reconc
 
 IX. Consolidar la información de seguimiento a la implementación de las estrategias institucionales de los procesos productivos, así como de las propuestas de mejora en las refinerías;
 
-X. Coordinar la ejecución disciplinada de los sistemas institucionales de Confiabilidad Operacional y SSPA, entre otros, así como del proceso de mejora continua;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+X. Coordinar la ejecución disciplinada de los sistemas institucionales de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, así como del proceso de mejora continua;
 
 XI. Participar en el establecimiento de las premisas del sistema de costos de producción, y
 
@@ -1132,6 +1214,14 @@ V. Participar en conjunto con las refinerías en la elaboración de bases de usu
 VI. Asesorar a las refinerías en la ejecución y optimización disciplinada de los procesos de producción de la cadena de valor, la implantación de tecnologías, mejores prácticas operativas, uptime y ventanas operativas;
 
 VII. Coordinar la implementación de las iniciativas estratégicas y proyectos de mejora en las refinerías;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+VII BIS. Participar en la implementación, ejecución y seguimiento de las iniciativas de mejora energética de las refinerías, en conjunto con la Gerencia de Evaluación y Mejora Energética;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+VII TER. Participar en la optimización integral de la energía generada y consumida, en conjunto con la Gerencia de Optimización y Coordinación Energética;
 
 VIII. Proponer y priorizar proyectos e iniciativas que incrementen el valor económico de las refinerías;
 
@@ -1163,7 +1253,9 @@ XX. Participar en el establecimiento de las premisas del sistema de costos de pr
 
 Las Gerencias de las Refinerías Salamanca, Madero, Cadereyta, Minatitlán, Salina Cruz y Tula tendrán las funciones siguientes:
 
-I. Administrar y ejecutar los programas de operación, mantenimiento, confiabilidad, servicios principales, técnicos, de calidad, seguridad industrial, salud en el trabajo y protección ambiental del centro de trabajo;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+I. Administrar y ejecutar los programas de operación, mantenimiento, confiabilidad, servicios principales, técnicos, de calidad, seguridad industrial, salud en el trabajo y protección ambiental y Eficiencia Energética del centro de trabajo;
 
 II. Coordinar la elaboración, integración, implementación, seguimiento, análisis y recomendaciones de mejora de los programas anuales de confiabilidad y mantenimiento;
 
@@ -1185,7 +1277,9 @@ X. Instruir la elaboración de los programas de inventarios y de mantenimiento a
 
 XI. Participar en la estandarización de prácticas y procedimientos de las refinerías, aplicando el proceso de Disciplina Operativa;
 
-XII. Ejecutar de forma disciplinada los sistemas de Confiabilidad Operacional y SSPA, entre otros, así como el proceso de mejora continua;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XII. Ejecutar de forma disciplinada los sistemas de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, así como el proceso de mejora continua;
 
 XIII. Identificar las necesidades de capacitación y certificación de habilidades del personal del centro de trabajo;
 
@@ -1193,9 +1287,17 @@ XIV. Facilitar la operación de las redes de expertos;
 
 XV. Aplicar y dar cumplimiento a leyes, normas y regulaciones que apliquen en el centro de trabajo;
 
-XVI. Coordinar la definición de los requerimientos presupuestales del centro de trabajo en términos de operación, mantenimiento, confiabilidad operacional y SSPA, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-XVII. Elaborar los diagnósticos físico-operativos del centro de trabajo, así como la evaluación de las libranzas y reparaciones mayores programadas.
+XVI. Coordinar la definición de los requerimientos presupuestales del centro de trabajo en términos de operación, mantenimiento, confiabilidad operacional y SSPA;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XVII. Elaborar los diagnósticos físico-operativos del centro de trabajo, así como la evaluación de las libranzas y reparaciones mayores programadas, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XVIII. Supervisar la vigilancia, monitoreo, control de accesos y salidas en las refinerías, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica de Pemex.
 
 #### SECCIÓN TERCERA. DE LA SUBDIRECCIÓN DE PROCESO DE GAS Y PETROQUÍMICOS
 
@@ -1203,7 +1305,9 @@ XVII. Elaborar los diagnósticos físico-operativos del centro de trabajo, así 
 
 La Subdirección de Proceso de Gas y Petroquímicos tendrá las funciones siguientes:
 
-I. Coordinar, con las áreas de Pemex, la implementación de los programas y sistemas institucionales de Confiabilidad Operacional y SSPA, entre otros, en los complejos procesadores de gas y centros petroquímicos;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+I. Coordinar, con las áreas de Pemex, la implementación de los programas y sistemas institucionales de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, en los complejos procesadores de gas y centros petroquímicos;
 
 II. Participar en la elaboración y ejecución de los programas operativos relacionados con el procesamiento de gas y la producción de Petroquímicos, así como de servicios principales y coordinar su ejecución en los centros de trabajo;
 
@@ -1219,9 +1323,17 @@ VII. Participar en la integración de las propuestas de programas de confiabilid
 
 VIII. Proponer y dar seguimiento a los proyectos de modernización y eficiencia de los complejos procesadores de gas y centros petroquímicos;
 
-IX. Dirigir y evaluar el desempeño de la operación de los almacenes de materiales, refacciones y equipos de los complejos procesadores de gas y centros petroquímicos, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-X. Coordinar la elaboración de los diagnósticos físico-operativos de los complejos procesadores de gas y centros petroquímicos, así como la evaluación de las libranzas y reparaciones mayores programadas.
+IX. Dirigir y evaluar el desempeño de la operación de los almacenes de materiales, refacciones y equipos de los complejos procesadores de gas y centros petroquímicos;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+X. Coordinar la elaboración de los diagnósticos físico-operativos de los complejos procesadores de gas y centros petroquímicos, así como la evaluación de las libranzas y reparaciones mayores programadas, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XI. Coordinar la vigilancia, monitoreo, control de accesos y salidas en los complejos procesadores de gas y centros petroquímicos, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica de Pemex;
 
 ###### Artículo 51.
 
@@ -1245,7 +1357,9 @@ VIII. Integrar y validar los datos de producción de los complejos procesadores 
 
 IX. Consolidar la información de seguimiento a la implementación de las estrategias institucionales de los procesos productivos, así como de las propuestas de mejora en los complejos procesadores de gas y centros petroquímicos;
 
-X. Coordinar la ejecución disciplinada de los sistemas institucionales de Confiabilidad Operacional y SSPA, entre otros, así como del proceso de mejora continua;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+X. Coordinar la ejecución disciplinada de los sistemas institucionales de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, así como del proceso de mejora continua;
 
 XI. Participar en el establecimiento de las premisas del sistema de costos de producción, y
 
@@ -1268,6 +1382,14 @@ V. Participar en conjunto con los complejos procesadores de gas y centros petroq
 VI. Asesorar a los complejos procesadores de gas y centros petroquímicos en la ejecución y optimización disciplinada de los procesos de producción de la cadena de valor, la implantación de tecnologías, mejores prácticas operativas, uptime y ventanas operativas;
 
 VII. Coordinar la implementación de las iniciativas estratégicas y proyectos de mejora en los complejos procesadores de gas y centros petroquímicos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+VII BIS. Participar en la implementación, ejecución y seguimiento de las iniciativas de mejora energética de los complejos procesadores de gas y centros petroquímicos, en conjunto con la Gerencia de Evaluación y Mejora Energética;
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+VII TER. Participar en la optimización integral de la energía generada y consumida, en conjunto con la Gerencia de Optimización y Coordinación Energética;
 
 VIII. Proponer y priorizar proyectos e iniciativas que incrementen el valor económico de los complejos procesadores de gas y centros petroquímicos;
 
@@ -1299,7 +1421,9 @@ XX. Participar en el establecimiento de las premisas del sistema de costos de pr
 
 Las Gerencias de los Complejos Procesadores de Gas Ciudad Pemex, Nuevo Pemex, Cactus y Burgos, y la de Proceso de Gas y Petroquímicos Coatzacoalcos tendrán las funciones siguientes:
 
-I. Administrar y ejecutar los programas de operación, mantenimiento, confiabilidad, servicios principales, técnicos, de calidad, seguridad industrial, salud en el trabajo y protección ambiental del centro de trabajo;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+I. Administrar y ejecutar los programas de operación, mantenimiento, confiabilidad, servicios principales, técnicos, de calidad, seguridad industrial, salud en el trabajo y protección ambiental y Eficiencia Energética del centro de trabajo;
 
 II. Coordinar la elaboración, integración, implementación, seguimiento, análisis y recomendaciones de mejora de los programas anuales de confiabilidad y mantenimiento del centro de trabajo;
 
@@ -1321,7 +1445,9 @@ X. Instruir la elaboración de los programas de inventarios y de mantenimiento a
 
 XI. Participar en la estandarización de prácticas y procedimientos de los complejos procesadores de gas y centros petroquímicos, aplicando el proceso de Disciplina Operativa;
 
-XII. Ejecutar de forma disciplinada los sistemas institucionales de Confiabilidad Operacional y SSPA, entre otros, así como del proceso de mejora continua;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XII. Ejecutar de forma disciplinada los sistemas de Confiabilidad Operacional, Gestión de la Energía y SSPA, entre otros, así como el proceso de mejora continua;
 
 XIII. Identificar las necesidades de capacitación y certificación de habilidades del personal del centro de trabajo;
 
@@ -1329,9 +1455,17 @@ XIV. Facilitar la operación de las redes de expertos;
 
 XV. Aplicar y dar cumplimiento de leyes, normas y regulaciones que apliquen al centro de trabajo;
 
-XVI. Coordinar la definición de los requerimientos presupuestales del centro de trabajo en términos de operación, mantenimiento, confiabilidad operacional y SSPA, y
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-XVII. Elaborar los diagnósticos físico-operativos del centro de trabajo, así como la evaluación de las libranzas y reparaciones mayores programadas.
+XVI. Coordinar la definición de los requerimientos presupuestales del centro de trabajo en términos de operación, mantenimiento, confiabilidad operacional y SSPA;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XVII. Elaborar los diagnósticos físico-operativos del centro de trabajo, así como la evaluación de las libranzas y reparaciones mayores programadas, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XVIII. Supervisar la vigilancia, monitoreo, control de accesos y salidas en los complejos procesadores de gas y centros petroquímicos, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica de Pemex.
 
 #### SECCIÓN CUARTA. DE LA SUBDIRECCIÓN DE CONFIABILIDAD Y MANTENIMIENTO
 
@@ -1495,31 +1629,113 @@ X. Participar en el análisis causa raíz de las fallas de los equipos críticos
 
 XI. Estandarizar, homologar y mejorar los procedimientos de mantenimiento aplicando el proceso de Disciplina Operativa.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE ABRIL DE 2018)</small>
+
 ###### Artículo 59.
 
-La Gerencia de Implementación de Iniciativas de Mejora de Producción tendrá las funciones siguientes:
+La Subdirección de Eficiencia Energética tendrá las funciones siguientes:
 
-I. Coordinar y participar en la definición de la cartera de proyectos estratégicos de la Subdirección de Confiabilidad y Mantenimiento, para cumplir con los objetivos de la Dirección Operativa de Producción y los establecidos en el Plan de Negocios de Pemex Transformación Industrial;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-II. Coordinar, integrar, evaluar y jerarquizar las iniciativas de mejora, requeridas por la Dirección Operativa de Producción;
+I. Coordinar, con la participación de las Subdirecciones de Pemex Transformación Industrial, la planeación energética de los activos de las refinerías, complejos procesadores de gas y centros petroquímicos;
 
-III. Coordinar la elaboración de bases de usuario y la ingeniería conceptual de los proyectos estratégicos;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-IV. Gestionar y dar seguimiento a los proyectos de expansión y modernización para mejorar el desempeño y la eficiencia operativa de las Instalaciones Industriales;
+II. Supervisar la asesoría a las refinerías, complejos procesadores de gas y centros petroquímicos en la implantación de mecanismos, sistemas y herramientas que orienten los procesos para la adopción y uso de estándares de Eficiencia Energética;
 
-V. Proponer y evaluar nuevas tecnologías en coordinación con las áreas productivas para mejorar la eficiencia y el desempeño operativo de los procesos y servicios principales de los centros de trabajo;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-VI. Coordinar con la participación de las subdirecciones operativas, la implementación, ejecución y seguimiento de las iniciativas de mejora energética, desarrollo sustentable, seguridad, salud en el trabajo, protección ambiental y optimización, para las Instalaciones Industriales;
+III. Coordinar la asesoría y soporte técnico en la implantación y ejecución del Sistema de Gestión de la Energía y la mejora continua del desempeño energético de las refinerías, complejos procesadores de gas y centros petroquímicos;
 
-VII. Dar seguimiento a la ejecución de proyectos estratégicos, verificando que en su diseño y construcción de la infraestructura se esté desarrollando con base en la normatividad vigente y que permita contar con instalaciones seguras, confiables, rentables y sustentables;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-VIII. Coordinar la interacción entre las subdirecciones operativas, para el desarrollo de proyectos de infraestructura desde la planeación, pruebas, recepción y arranque de las nuevas instalaciones, conforme a los lineamientos establecidos en el Sistema Institucional para el Desarrollo de Proyectos;
+IV. Coordinar y supervisar el proceso de integración, consolidación, validación, jerarquización, aprobación y evaluación de las iniciativas de Cogeneración y Eficiencia Energética, y participar en la definición de la cartera de proyectos estratégicos en la materia;
 
-IX. Validar y participar en la selección de la tecnología y tipo de infraestructura requerida para la definición de nuevos proyectos en las Instalaciones Industriales;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
 
-X. Coordinar, asesorar y apoyar al personal los centros de trabajo de Pemex Transformación Industrial en las actividades previas de gestión de un proyecto, a la recepción, pruebas y arranque de nuevas instalaciones, así como en el entrenamiento y asimilación de la tecnología para la operación y el mantenimiento de las mismas de nuevas instalaciones, y
+V. Coordinar la planeación, evaluación y desarrollo de los proyectos e iniciativas estratégicas y tácticas de Pemex Transformación Industrial, relacionadas con la generación y suministro de energía eléctrica y Energía térmica, en colaboración con las áreas competentes de Pemex Transformación Industrial;
 
-XI. Coordinar ante las dependencias internas y externas correspondientes, la gestión de recursos requeridos para asegurar la ejecución de los proyectos de infraestructura.
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+VI. Coordinar la elaboración de bases de usuario y la ingeniería conceptual de los proyectos y estudios de Eficiencia Energética y Cogeneración;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+VII. Coordinar la generación y suministro de energía eléctrica y Energía térmica, así como la provisión de servicios técnicos y de administración asociados a dichas actividades, y diseñar la estrategia para la comercialización de excedentes de energía;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+VIII. Coordinar la optimización integral de la energía generada y consumida;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+IX. Coordinar el análisis, evaluación del desempeño y costos en materia de Generación de energía eléctrica y Energía térmica, en conjunto con la Subdirección de Análisis Estratégico;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+X. Coordinar, con las Subdirecciones de Pemex Transformación Industrial, la implantación de los proyectos inherentes al cambio climático y Eficiencia Energética;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XI. Supervisar el cumplimiento de las obligaciones y requerimientos en materia de Cogeneración y Eficiencia Energética, en coordinación con las áreas competentes de Pemex Transformación Industrial, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+XII. Coordinar la elaboración de los proyectos de normativa interna en materia de gestión energética.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+###### Artículo 59 Bis.
+
+La Gerencia de Evaluación y Mejora Energética tendrá las funciones siguientes:
+
+I. Revisar y conducir el diagnóstico de desempeño energético de las refinerías, complejos procesadores de gas y centros petroquímicos, con las Gerencias de Ingeniería de Procesos y Mejora Operativa de la Subdirección de Producción de Petrolíferos y la Subdirección de Proceso de Gas y Petroquímicos;
+
+II. Proponer y evaluar el cumplimiento de los indicadores de desempeño energético, los objetivos y metas, establecer la línea base energética de las refinerías, complejos procesadores de gas y centros petroquímicos; así como emitir reportes y recomendaciones de mejora;
+
+III. Asesorar a las refinerías, complejos procesadores de gas y centros petroquímicos en la elaboración de los planes de acción para el cumplimiento de las políticas energéticas del sector, los objetivos, metas de operación y de negocio, resultados e indicadores de desempeño del Sistema de Gestión de la Energía;
+
+IV. Supervisar la conceptualización, evaluación y planeación de proyectos de Cogeneración y de Eficiencia Energética, en colaboración con las áreas competentes de Pemex Transformación Industrial;
+
+V. Validar el informe de rendición de cuentas y evaluación del desempeño energético de las refinerías, complejos procesadores de gas y centros petroquímicos;
+
+VI. Integrar, evaluar y jerarquizar las iniciativas de mejora y Eficiencia Energética, requeridas por las refinerías, complejos procesadores de gas y centros petroquímicos;
+
+VII. Supervisar la elaboración e integración de bases de usuario y la ingeniería conceptual de las iniciativas de mejora energética y los proyectos de Cogeneración de las refinerías, complejos procesadores de gas y centros petroquímicos;
+
+VIII. Supervisar, con la participación de las Gerencias de Ingeniería de Procesos y Mejora Operativa de la Subdirección de Producción de Petrolíferos y de la Subdirección de Proceso de Gas y Petroquímicos, la implementación, ejecución y seguimiento de las iniciativas de mejora energética de las refinerías, complejos procesadores de gas y centros petroquímicos;
+
+IX. Asesorar en la implantación de mecanismos, sistemas y herramientas que orienten a las refinerías, complejos procesadores de gas y centros petroquímicos para la adopción y uso de estándares de Eficiencia Energética;
+
+X. Revisar y proponer nuevas tecnologías y servicios relacionados con la mejora y Eficiencia Energética;
+
+XI. Analizar y evaluar el desempeño y el costo de la Generación de energía eléctrica y Energía térmica de las refinerías, complejos procesadores de gas y centros petroquímicos, y
+
+XII. Integrar los proyectos de normativa interna en materia de gestión energética.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+###### Artículo 59 Ter.
+
+La Gerencia de Optimización y Coordinación Energética tendrá las funciones siguientes:
+
+I. Colaborar en la programación y optimización de las actividades de operación, mantenimiento y de apoyo comercial de las centrales de Cogeneración, con las de Pemex y Empresas Productivas Subsidiarias;
+
+II. Contribuir en la elaboración de los programas operativos mensuales y anuales de las centrales de Cogeneración;
+
+III. Contribuir y orientar en la definición de la cartera de proyectos estratégicos en materia de Cogeneración y Eficiencia Energética;
+
+IV. Consolidar, proponer y dar seguimiento a las recomendaciones de mejora en materia de operación de los generadores de energía eléctrica y Energía térmica;
+
+V. Coordinar el cumplimiento de las obligaciones pactadas en los instrumentos jurídicos suscritos por Pemex Transformación Industrial en materia de Cogeneración;
+
+VI. Proponer y coordinar, con las Gerencias de Ingeniería de Procesos y Mejora Operativa de la Subdirección de Producción de Petrolíferos, de la Subdirección de Proceso de Gas y Petroquímicos y con otros consumidores, la optimización integral de la energía generada y consumida;
+
+VII. Administrar la generación, suministro y comercialización de excedentes de energía, así como la provisión de servicios técnicos y de administración asociados a dichas actividades;
+
+VIII. Coordinar el cumplimiento de las obligaciones y requerimientos de las actividades en materia de Cogeneración y Eficiencia Energética, en coordinación con las áreas competentes de Pemex Transformación Industrial, y
+
+IX. Coordinar y gestionar con la participación de las Subdirecciones de Producción de Petrolíferos, Proceso de Gas y Petroquímicos; Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental y las áreas corporativas competentes, las actividades en materia de certificados de energías limpias y demás beneficios regulatorios.
 
 ### CAPÍTULO TERCERO. DE LA SUBDIRECCIÓN DE COMERCIALIZACIÓN DE COMBUSTIBLES DE TRANSPORTE
 
@@ -1647,7 +1863,9 @@ II. Coordinar la contratación de la capacidad y servicios de transporte, almace
 
 III. Planear y coordinar la actividad comercial derivadas de las asociaciones con terceros;
 
-IV. Diseñar las estrategias relacionadas con la gestión comercial, promoción de infraestructura, inteligencia de mercado y comercialización de energía eléctrica;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+IV. Diseñar las estrategias relacionadas con la gestión comercial, promoción de infraestructura e inteligencia de mercado;
 
 V. Coordinar la elaboración de los programas para la comercialización en los mercados nacional e internacional;
 
@@ -1907,7 +2125,9 @@ V. Revisar que el cumplimiento de los programas de transporte, almacenamiento y 
 
 La Subdirección de Proyectos Industriales tendrá las funciones siguientes:
 
-I. Consolidar y fortalecer el proceso de desarrollo de proyectos cumpliendo con los requerimientos técnicos, de seguridad industrial, salud en el trabajo, desarrollo sustentable, protección ambiental, calidad, maduración y normativos;
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2018)</small>
+
+I. Consolidar y fortalecer el proceso de desarrollo de proyectos cumpliendo con los requerimientos técnicos, de seguridad industrial, salud en el trabajo, desarrollo sustentable, protección ambiental, Eficiencia Energética, calidad, maduración y normativos;
 
 II. Dirigir, coordinar y aprobar la planeación, programación, maduración, ejecución y evaluación de los proyectos;
 
@@ -2359,13 +2579,15 @@ La representación de Pemex Transformación Industrial, estará a cargo del Dire
 
 El Director General, el director operativo, subdirectores y gerentes de Pemex Transformación Industrial acreditarán su representación con el nombramiento respectivo y las funciones que les corresponden de conformidad con este Estatuto.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2018)</small>
+
 ###### Artículo 93.
 
-El Director, subdirectores y gerentes jurídicos adscritos a la Dirección Jurídica de Pemex, serán representantes de Pemex Transformación Industrial, para lo cual deberán otorgarse los poderes correspondientes.
+El Director, subdirectores y gerentes jurídicos adscritos a la Dirección Jurídica de Pemex, tendrán las más amplias facultades para pleitos y cobranzas, incluso las que requieran autorización, poder o cláusula especial, en términos de las disposiciones aplicables para representar a Pemex Transformación Industrial.
 
-En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será representado por el Director Jurídico de Pemex o, en su caso, por quien éste designe.
+La representación del Director General en el juicio de amparo recaerá, indistintamente, en el Director, los subdirectores y gerentes adscritos a la Dirección Jurídica de Pemex.
 
-La Dirección Jurídica de Pemex llevará el registro y control del otorgamiento y revocación de poderes y otros instrumentos notariales de Pemex Transformación Industrial.
+De igual forma, el Director, los subdirectores y gerentes adscritos a la Dirección Jurídica de Pemex, estarán facultados, indistintamente, para actuar como la unidad administrativa encargada de la defensa jurídica de Pemex Transformación Industrial para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables.
 
 ###### Artículo 94.
 
@@ -2379,9 +2601,11 @@ El Director Corporativo de Administración y Servicios, el Subdirector de Admini
 
 Los servidores públicos de Pemex y las demás Empresas Productivas Subsidiarias, que deban realizar actos por cuenta y orden y/o en representación de Pemex Transformación Industrial, o bien, que tengan asignadas responsabilidades en términos del Estatuto Orgánico respectivo, se considerarán mandatarios de ésta con base en los poderes que se les otorguen.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2018)</small>
+
 ###### Artículo 97.
 
-En caso de ausencia temporal del Director General, será suplido por los servidores públicos que designe, quienes deberán ocupar la jerarquía inmediata inferior, o bien, por el Director Operativo de Producción, por el Subdirector de Abasto de Combustibles, por el Subdirector de Comercialización de Combustibles de Transporte, por el Subdirector de Comercialización de Productos y Combustibles Industriales, por el Subdirector de Proyectos Industriales, por el Subdirector de Análisis Estratégico y por el Subdirector de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental, en ese orden.
+En caso de ausencia temporal del Director General, será suplido por los servidores públicos que designe, quienes deberán ocupar la jerarquía inmediata inferior, o bien, por el Director Operativo de Producción, por el Subdirector de Abasto de Combustibles, por el Subdirector de Comercialización de Combustibles de Transporte, por el Subdirector de Comercialización de Productos y Combustibles Industriales, por el Subdirector de Proyectos Industriales, por el Subdirector de Análisis Estratégico, por el Subdirector de Desarrollo Sustentable, Seguridad, Salud en el Trabajo y Protección Ambiental y por el Subdirector de Eficiencia Energética, en ese orden.
 
 ###### Artículo 98.
 
@@ -2430,3 +2654,15 @@ OCTAVO. Las referencias que se hagan en otros instrumentos al área respectiva q
 El presente Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos denominada Pemex Transformación Industrial, fue aprobado por el Consejo de Administración de Pemex Transformación Industrial, con fundamento en el artículo 12, fracción VI del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, en sesión 7 ordinaria celebrada el día 6 de diciembre de 2016, mediante acuerdo número CAEPS-PTRI-024/2016.
 
 Ciudad de México, a 22 de diciembre de 2016.- La Subdirectora de Consultoría Jurídica suplente por ausencia del Titular de la Dirección Jurídica según Acuerdo DG/201606771/2016, Silvia Oropeza Querejeta.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL".]
+
+PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Pemex Transformación Industrial, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de servicios personales.
+
+Las presentes modificaciones al Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, fueron aprobadas por el Consejo de Administración de Pemex Transformación Industrial, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, en sesión 15 ordinaria celebrada el día 13 de abril de 2018, mediante acuerdo número CAEPS-PTRI-004/2018.
