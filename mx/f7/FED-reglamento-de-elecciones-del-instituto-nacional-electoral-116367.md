@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2018-04-20"
+last_updated: "2018-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2018.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -7804,5 +7804,29 @@ El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General c
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 Los anexos podrán ser consultados mediante la liga: https://www.ine.mx/sesion-extraordinaria-urgente-del-consejo-general-28-marzo-2018-segunda/
+
+D.O.F. 30 DE ABRIL DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DE LA "SÍNTESIS DEL ACUERDO DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICA EL ANEXO 19.3 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, RELATIVO A LOS ASPECTOS DE FORMA Y CONTENIDO DE LA LISTA NOMINAL DE ELECTORES PARA SU USO EN LA JORNADA ELECTORAL, ASÍ COMO LA DEVOLUCIÓN A LA MESA DIRECTIVA DE CASILLA DE LOS TANTOS IMPRESOS DE LA LISTA NOMINAL DE ELECTORES".]</small>
+
+PRIMERO. Se modifican los apartados relativos a los aspectos de forma y contenido de la Lista Nominal de Electores para su uso en la Jornada Electoral, así como la devolución a la Mesa Directiva de Casilla de los tantos impresos de la Lista Nominal de Electores, correspondientes al Anexo 19.3 del Reglamento de Elecciones del Instituto Nacional Electoral, de conformidad con el Anexo que forma parte integral del presente Acuerdo, quedando sin efectos el documento aprobado por el Consejo General en los Acuerdos INE/CG860/2016 e INE/CG63/2017 en su punto Segundo.
+
+SEGUNDO. Notifíquese al Secretario Ejecutivo del Instituto Nacional Electoral para que por su conducto se instruyan las acciones correspondientes para incorporar el Anexo que forma parte integral del presente Acuerdo como Anexo 19.3 del Reglamento de Elecciones del Instituto Nacional Electoral.
+
+TERCERO. Infórmese al Consejo General sobre la aprobación referida en el punto Primero del presente Acuerdo, en cumplimiento del artículo 9, párrafo 2 del Reglamento de Comisiones del Consejo General del Instituto Nacional Electoral.
+
+CUARTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores informe a la Comisión Nacional de Vigilancia y a esta Comisión Permanente del Consejo General, sobre las actividades de generación, impresión, entrega, devolución y destrucción de la Lista Nominal de Electores para su uso en la Jornada Electoral.
+
+QUINTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores ejecute, en el ámbito de su competencia, las acciones correspondientes para que las comisiones de vigilancia realicen las actividades de seguimiento y supervisión relacionados con la Lista Nominal de Electores para su uso en la Jornada Electoral en los Centros de Impresión cuyo domicilio se encuentra en Ciudad de México y Guadalajara, Jalisco.
+
+SEXTO. Hágase del conocimiento de la Comisión Nacional de Vigilancia lo aprobado por esta Comisión Permanente del Consejo General.
+
+SÉPTIMO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+OCTAVO. Publíquese el presente Acuerdo en el portal de internet y en la Gaceta del Instituto Nacional Electoral.
+
+NOVENO. Publíquese un extracto del presente Acuerdo en el Diario Oficial de la Federación.
+
+El Acuerdo completo y el Anexo que forma parte integral del mismo, se encuentran disponibles para su consulta en la dirección electrónica: https://www.ine.mx/gaceta-electoral-no-7/.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
