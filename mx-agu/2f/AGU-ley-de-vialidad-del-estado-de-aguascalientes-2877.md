@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2017-07-03"
+last_updated: "2018-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 30 DE ABRIL DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -3216,3 +3218,105 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. DE 30 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 288.- LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Abroga la Ley de Vialidad del Estado de Aguascalientes, publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994, y todas sus modificaciones.
+
+###### ARTÍCULO TERCERO.
+
+Se Derogan la Fracción XIX del ARTÍCULO 1º; las Fracciones XCI, CXL, CXLIV, del ARTÍCULO 4º; Fracción IV del ARTÍCULO 8º; las Fracciones III, XIV y XX del ARTÍCULO 20; las Fracciones XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, XLIX, L, LI, LII, LIII, LIV, LV, LVI y LVII del ARTÍCULO 22; las Fracciones XXXIX, XL, XLVI, XLVII y XLIX del ARTÍCULO 24; los ARTÍCULOS 69, 70, 71, 72, 73, 74, 186, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 959, 960, 960 A, 960 B, 960 C, 960 D, 960 E, 960 F, 960 G, 981, 982, 983, 984, 985, 986, 987, 988, 989, 990, 991, 992, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068, 1069, 1070, 1092 y 1093, del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, publicado en la edición vespertina del Periódico Oficial del Estado, el lunes siete de octubre del dos mil trece y todas sus reformas.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigencia del presente Decreto, todas las referencias que se hagan a la Ley de Vialidad del Estado de Aguascalientes, en ordenamientos jurídicos, decretos, reglamentos, acuerdos, convenios y demás disposiciones jurídicas y reglamentarias se entenderán hechas a la Ley de Movilidad del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones reglamentarias derivadas de la presente Ley así como los manuales o demás instrumentos normativos que se desprendan de este ordenamiento, deberán expedirse dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, incluyendo la normatividad municipal.
+
+###### ARTÍCULO SEXTO.
+
+Dentro de los noventa días hábiles a la entrada en vigor de la presente ley, el Gobernador del Estado, a través de la CMOV, deberá expedir la convocatoria para la creación del Observatorio Ciudadano de Movilidad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes, de conformidad con lo previsto en el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo del Estado, por única ocasión, contará con ciento ochenta días contados a partir de la vigencia de la presente Ley, para expedir el Programa Estatal de Movilidad. Una vez publicado este instrumento estatal, los Municipios contarán con ciento veinte días para expedir su Programa Municipal de Movilidad en los términos señalados. Asimismo, en igual lapso, deberán adaptar sus disposiciones reglamentarias de conformidad con lo señalado en este ordenamiento.
+
+###### ARTÍCULO NOVENO.
+
+Las concesiones otorgadas bajo el imperio de las disposiciones que se derogan, continuarán su vigencia hasta su conclusión en los términos en que fueron otorgadas, de acuerdo con las siguientes reglas:
+
+I. Las obligaciones que esta Ley determina para los concesionarios, permisionarios, titulares de autorizaciones y operadores serán exigibles desde la entrada en vigor de la presente normatividad y su incumplimiento será sancionado en los términos previstos en este Decreto;
+
+II. Las concesiones del transporte colectivo urbano que actualmente se encuentren en su período de vigencia conforme a las disposiciones que se derogan, podrán adherirse inmediatamente al SITMA previsto en esta Ley, siempre que los interesados cumplan con los requisitos señalados por esta normatividad; para lo cual la CMOV generará los programas de integración que resulten necesarios para operar sin demora la transferencia entre ambos sistemas;
+
+III. La persona física que actualmente detente una concesión de transporte colectivo urbano, deberá integrarse en personas morales titulares de las concesiones SITMA, cuando tales entes reúnan los requisitos señalados en esta Ley. En este caso, la titularidad de las concesiones ordinarias para operar el transporte colectivo urbano se extinguirá si se otorga la titularidad de la concesión SITMA a la organización. De no otorgarse la concesión SITMA a la nueva organización, se aplicará la regla contenida en el párrafo primero de este Artículo;
+
+IV. Deberá procurarse que en el transcurso de tres años contados a partir de la entrada en vigor de este ordenamiento, se haya operado la migración de las concesiones del transporte colectivo urbano convencional otorgadas bajo el imperio de las leyes que se derogan, a efecto de que puedan ser integradas al esquema propio del SITMA en caso de ser procedente. Para lo anterior, la CMOV establecerá el Programa de Modernización del Transporte Público para el Estado de Aguascalientes, estableciendo las reglas y mecanismos para dicha transferencia;
+
+V. La CMOV dentro de sus facultades, establecerá las medidas pertinentes para mantener la oferta óptima del servicio que satisfaga las necesidades de movilidad de los usuarios en el sistema de transporte;
+
+VI. Las concesiones y permisos para modalidades distintas del transporte colectivo urbano otorgadas bajo el imperio de las leyes que se derogan, continuarán surtiendo sus efectos hasta su vencimiento natural; en cuyo caso, una vez ocurrido podrán ser renovadas atendiendo al régimen, vigencia, condiciones y modalidades establecidas en esta Ley para las concesiones ordinarias, siempre que se satisfagan los requisitos previstos;
+
+VII. Los trámites para la renovación de las concesiones que actualmente se encuentren en trámite o pendientes de resolución quedarán sin efectos, debiendo iniciarse de acuerdo con las reglas establecidas en la presente normatividad según la modalidad de que se trate; y
+
+VIII. Por única ocasión, los trámites sucesorios y de renovación de concesiones deberán tramitarse por los interesados en el lapso de sesenta días hábiles contados a partir de la entrada en vigor de la presente Ley, en caso contrario, operará la caducidad del derecho de los beneficiarios o interesados para tramitar la sustitución o renovación, la cual deberá realizarse en los términos prevenidos en este ordenamiento.
+
+###### ARTÍCULO DÉCIMO.
+
+Dentro de los siguientes ciento ochenta días a la expedición de la presente normatividad, el Poder Ejecutivo del Estado expedirá el Decreto a través del cual establezca las reglas de operación y funcionamiento del Fondo Estatal de Movilidad.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas de la presente Ley, serán aplicables en lo conducente las que hasta ahora se encuentran vigentes, en la medida en que no contravengan las disposiciones de esta Ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los recursos o expedientes administrativos que se encuentren en trámite al inicio de la vigencia de la presente Ley, seguirán hasta su conclusión apegándose a las formas y procedimientos de los ordenamientos jurídicos que les dieron origen.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los órganos colegiados de relevancia previstos en esta Ley que requieran expedir por sí o a través de la autoridad competente, su propia normatividad interna, contarán con un período de ciento ochenta días para expedirla, contados a partir de su constitución.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las tarifas preferenciales que se encuentran vigentes al momento de la expedición del presente Decreto continuarán en vigor, hasta en tanto no se expida el instrumento normativo a que hace referencia el Artículo 144 en relación con el 76 de esta Ley.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+La CMOV verificará el cumplimiento de las obligaciones contenidas en la Fracción XIV del Artículo 159, así como en la Fracción XXXIX del Artículo 200 del presente Decreto, el cual se deberá efectuar de manera gradual y progresiva conforme a la renovación de los vehículos o bien hasta lograr la cobertura de al menos un diez por ciento al 30 de septiembre del 2022.
+
+De acuerdo a lo anterior, los vehículos adaptados transitarán prioritariamente por las rutas de mayor circulación, con base en el estudio previo realizado por las autoridades competentes y a la demanda de la población.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Las normas relativas a las cuotas por infracciones a la presente Ley, entrarán en vigor hasta en tanto se expiden las leyes de ingresos de los municipios y del Estado correspondientes al siguiente ejercicio fiscal.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+En el presente decreto, cualquier referencia establecida al Código Urbano del Estado de Aguascalientes, se entenderá hecha al Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, en tanto el primero no inicie su vigencia.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Los edificios públicos que no cuenten con estacionamiento para bicicletas al momento de la publicación del presente decreto, deberán implementarlo a más tardar el 1º de enero de 2020. Los edificios que por ser parte del patrimonio cultural estatal o nacional no sean susceptibles de sufrir modificaciones para dar cumplimiento a esta disposición, ubicarán los estacionamientos en los espacios abiertos de uso público más próximos que ofrezcan condiciones para su colocación.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+Los Poderes del Estado, sus dependencias y entidades, los Órganos Constitucionales del Estado, así como los Ayuntamientos implementarán, en la medida que sus posibilidades presupuestales lo permitan, programas e incentivos para inhibir el uso de automóviles por parte de los servidores públicos y gestionar apoyos o fondos de garantía para facilitar la obtención de créditos para la adquisición de bicicletas.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
