@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transito-y-vialidad-del-estado-de-yucatan-79786"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-22"
-last_updated: "2011-12-19"
+last_updated: "2018-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Gobierno del Estado de Yucatán, el martes 22 de febrero de 2011.
 
@@ -35,7 +35,9 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S: .
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 Por todo lo expuesto y fundado, los integrantes de las comisiones permanentes de Puntos Constitucionales y Gobernación; y la de Desarrollo Urbano, Vivienda e Infraestructura, en el estudio, análisis y dictamen de la iniciativa de Ley de Tránsito y Vialidad del Estado de Yucatán, nos pronunciamos a favor con los razonamientos y adecuaciones planteadas. En tal virtud, con fundamento en los artículos 30, fracciones V de la Constitución Política, 18 y 43, fracción I de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -847,11 +849,13 @@ El Reglamento establecerá las disposiciones necesarias para la aplicación de l
 
 ### Capítulo I. De la Educación Vial del Estado
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DEL SEGUNDO PÁRRAFO PASÓ A FORMAR PARTE DEL ACTUAL PRIMER PÁRRAFO.]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE ABRIL DE 2018)</small>
+
 ###### Artículo 68.
 
-La Secretaría diseñará y ejecutará un programa educativo, que tenga por objeto mejorar el uso de las vialidades, de evitar accidentes en éstas y de promover la cultura vial entre los sectores de la población.
-
-El programa educativo, a que se refiere el párrafo anterior deberá contener los objetivos, estrategias y acciones encaminadas a lograr su objeto, mediante la implementación de mecanismos de coordinación entre las autoridades estatales y municipales, con la activa participación de los sectores sociales.
+La Secretaría diseñará y ejecutará un programa especial de educación vial, que tenga por objeto mejorar el uso de las vialidades, de evitar accidentes en éstas y de promover la cultura vial entre los sectores de la población. El programa especial de educación vial al que se refiere el párrafo anterior deberá contener los objetivos, estrategias y acciones encaminadas a lograr su objeto, mediante la implementación de mecanismos de coordinación entre las autoridades estatales y municipales, con la activa participación de los sectores sociales; este programa servirá como un instrumento que orientará los planes y programas en materia de educación vial en los niveles de educación básica y media superior.
 
 El Reglamento dispondrá el contenido, formas de participación y términos en que habrá de llevarse a cabo la elaboración, ejecución y evaluación del programa.
 
@@ -1138,3 +1142,11 @@ Se derogan todas las disposiciones legales de igual o menor rango que se opongan
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado deberá expedir las disposiciones reglamentarias conducentes, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor de este Decreto.
+
+D.O. 30 DE ABRIL DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 613/2018 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN VIAL”.]
+
+Artículo único. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el diario oficial del estado.
