@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2016-11-16"
+last_updated: "2018-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-12"
 
 BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2018.
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -133,9 +133,9 @@ VII. Determinar la adscripción de cada uno de los servidores públicos del Inst
 
 VII bis. Acordar los cambios de adscripción de los servidores públicos del Instituto que estime procedentes, a petición de parte interesada o por necesidades del servicio;
 
-> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2018)</small>
 
-VIII. Enviar las quejas que se presenten en contra de los defensores públicos y asesores jurídicos y demás servidores al Consejo de la Judicatura Federal, con la finalidad de que en su caso se investigue su probable responsabilidad;
+VIII. Enviar las quejas, denuncias, inconformidades u otras similares que se presenten en contra de los defensores públicos, asesores jurídicos y demás servidores del Instituto al Consejo de la Judicatura Federal, con la finalidad de que se investigue su probable responsabilidad.
 
 IX. Presentar denuncias penales ante el Ministerio Público de la Federación, en los casos en que la conducta de los servidores públicos del Instituto, pueda implicar la comisión de algún delito, independientemente de las sanciones aplicables a dichos servidores, en los ámbitos laboral y administrativo de responsabilidades;
 
@@ -323,9 +323,9 @@ VIII. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2016)
 
 IX. Coordinar a las Delegaciones y a las Direcciones de Prestación de los Servicios de Defensa Penal y de Asesoría Jurídica en la supervisión documental de los expedientes de control, a cargo de cada defensor público y asesor jurídico; y,
 
-> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2018)</small>
 
-X. Integrar cuadernos de antecedentes y vigilancia que, en su caso, se relacionen con las inconformidades que se reciban; o, con las quejas que sean enviadas al Consejo de la Judicatura Federal.
+X. Conservar copia de las quejas, denuncias, inconformidades u otras similares que sean enviadas al Consejo de la Judicatura Federal, así como el acuse de recibo correspondiente.
 
 #### SECCION QUINTA. De la Unidad de Apoyo Operativo
 
@@ -1293,9 +1293,11 @@ Es obligación del defensor público y del asesor jurídico, informar a esta uni
 
 En caso de incumplimiento, se hará requerimiento por escrito al servidor público responsable, con copia a su expediente personal; de continuar sin atender lo solicitado se procederá a informar a la Dirección General para los efectos que procedan.
 
+> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2018)</small>
+
 ###### Artículo 62.
 
-Cuando se advierta irregularidad o falta grave en el desempeño de la función, por parte del servidor público evaluado, que se encuentre dentro de los supuestos establecidos para determinar alguna responsabilidad administrativa o incumplimiento de obligaciones laborales, según sea el caso, el Director General del Instituto, ordenará la tramitación del procedimiento correspondiente, y una vez concluido, propondrá al Consejo de la Judicatura Federal, las sanciones o correcciones disciplinarias que a su juicio deban imponerse.
+Cuando se advierta de oficio irregularidad o falta grave en el desempeño de la función, por parte del servidor público evaluado, que se encuentre dentro de los supuestos establecidos para determinar alguna responsabilidad administrativa, se turnará el caso al Consejo de la Judicatura Federal. Si se trata del incumplimiento de obligaciones laborales se procederá en dicho ámbito.
 
 ## TITULO SEPTIMO. Del servicio civil de carrera
 
@@ -1834,3 +1836,9 @@ D.O.F. 16 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DE LAS “BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA”.]
 
 ÚNICO.- Las presentes modificaciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
+
+D.O.F. 2 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, ÓRGANO AUXILIAR DEL CONSEJO DE LA JUDICATURA FEDERAL, CORRESPONDIENTE A LA SESIÓN ORDINARIA DEL DÍA DOCE DE ABRIL DE DOS MIL DIECIOCHO, QUE MODIFICA DIVERSOS ARTÍCULOS DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO”.]
+
+TRANSITORIO.- Las presentes modificaciones entrarán en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
