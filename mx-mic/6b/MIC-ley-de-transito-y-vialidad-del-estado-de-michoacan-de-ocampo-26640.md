@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2016-12-29"
+last_updated: "2018-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2018.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -349,9 +349,13 @@ DE LA REGULACIÓN GENERAL DE TRÁNSITO Y VIALIDAD EN EL ESTADO.
 
 ### CAPÍTULO PRIMERO. DE LOS VEHÍCULOS
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
+
 ###### Artículo 20.
 
-Para los efectos de esta Ley y su reglamento, se entiende por vehículo, el medio impulsado por un motor o forma distinta de tracción o propulsión, en el cual se lleve a cabo la transportación de personas o carga en general, utilizando las vías públicas en el Estado.
+Para los efectos de esta Ley y su Reglamento, se entiende por vehículo, el medio de transporte de personas o cosas, impulsado por un motor eléctrico o de combustión interna igual o mayor a los 49 centímetros cúbicos que sean utilizados para circular sobre las vías de comunicación estatales.
+
+Todos los vehículos deberán ser registrados en los términos de la presente Ley exceptuando de ello a las bicicletas tradicionales o eléctricas.
 
 ###### Artículo 21.
 
@@ -493,9 +497,11 @@ El registro de los vehículos se acreditará mediante la tarjeta de circulación
 
 Los vehículos registrados en el extranjero podrán circular libremente en el Estado, si lo hacen de manera temporal y el vehículo cuente con placas y tarjeta de circulación o su equivalente de su país de origen.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
+
 ###### Artículo 43.
 
-No se podrá suspender la circulación a ningún vehículo, salvo en los casos de infracciones flagrantes que se detecten y que determine el reglamento.
+No se podrá suspender la circulación a ningún vehículo, salvo por mandato judicial, cuando en el vehículo no se porte en ese momento con algún documento oficial, como placa, tarjeta o permiso de circulación, que corresponda al vehículo, en los casos de flagrancia delictiva o que se ponga en riesgo a la sociedad por conducir bajo el influjo indebido de drogas o bebidas alcohólicas.
 
 ###### Artículo 44.
 
@@ -525,11 +531,13 @@ El Gobernador del Estado, como resultado de convenios o actos de cooperación qu
 
 ### CAPÍTULO SEXTO. DE LAS PLACAS DE LOS VEHÍCULOS
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
+
 ### CAPÍTULO PRIMERO. DE LA EDUCACIÓN E INFORMACIÓN VIAL
 
 ###### Artículo 48.
 
-Las placas de circulación que requieren los vehículos registrados de conformidad con las disposiciones de esta Ley y su reglamento, serán expedidas por la Tesorería.
+Las placas de circulación que requieren los vehículos registrados de conformidad con las disposiciones de esta Ley y su Reglamento, serán expedidas por el ente recaudador.
 
 ###### Artículo 49.
 
@@ -609,6 +617,8 @@ El Gobernador del Estado, a través de la Secretaría y los municipios en sus á
 
 ### CAPÍTULO PRIMERO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
+
 ###### Artículo 55.
 
 Son aplicables en materia de protección al medio ambiente, además de las disposiciones legales de la materia, esta Ley y su reglamento.
@@ -631,13 +641,19 @@ DE LAS SANCIONES Y RECURSOS DE TRÁNSITO Y VIALIDAD EN EL ESTADO.
 
 ###### Artículo 58.
 
-A quienes infrinjan las disposiciones contenidas en esta Ley y su reglamento, se les impondrá en forma separada o conjunta, las sanciones siguientes:
+A quienes infrinjan las disposiciones contenidas en esta Ley y su Reglamento, se les impondrá en forma separada o conjunta, las sanciones siguientes:
 
-I. Multa;
+I. Amonestación;
 
-II. Retiro y aseguramiento del vehículo; y,
+II. Multa;
 
-III. Suspensión o cancelación de la licencia o permiso provisional.
+III. Retención, o en su caso, aseguramiento del vehículo automotor, en los casos de flagrancia delictiva o que se ponga en riesgo a la sociedad por conducir bajo el influjo de drogas o bebidas alcohólicas, cuando en el vehículo no se porte en ese momento con algún documento oficial, como placa, tarjeta o permiso de circulación, que corresponda al vehículo; y,
+
+IV. Suspensión o cancelación, sea temporal o definitiva, de la licencia o permiso provisional.
+
+Bajo ninguna circunstancia se podrá retener de forma alguna licencia, tarjeta de circulación, placa o vehículo como medio de garantía de pago de la multa impuesta por infringir esta Ley o los reglamentos Estatal o Municipales de Tránsito y Vialidad.
+
+La boleta de infracción se levantará por triplicado, entregando el original al sujeto infractor en caso de estar presente o dejándola sobre el parabrisas del vehículo con el cual se cometió la infracción, remitiendo una copia de ésta a la autoridad administrativa donde se encuentra registrado el vehículo, fincando un crédito fiscal a cargo del titular del vehículo registrado y en favor de la autoridad emisora de la infracción respectiva, el cual deberá ser pagado dentro de los quince días hábiles siguientes a su emisión o al momento de realizar cualquier trámite respecto del vehículo con el cual se cometió la infracción.
 
 ###### Artículo 59.
 
@@ -669,13 +685,17 @@ Las causales de suspensión o cancelación de los derechos otorgados por esta Le
 
 Son causas de remisión de vehículos al depósito, las determinadas en el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
+
 ###### Artículo 65.
 
-Cuando el conductor de un vehículo sea sorprendido prestando cualquier servicio público de transporte de personas o de carga en general, que requiera de concesión o de permiso, el vehículo será retirado de la vía pública y remitido a un depósito. En caso de utilizar en la carrocería colores, números económicos y cualquier otra característica propia de los vehículos autorizados, se procederá a despintarlo, debiendo el infractor cubrir la totalidad de los gastos que se originen por estas acciones, sin perjuicio de las multas que procedan.
+Cuando el conductor de un vehículo sea sorprendido prestando cualquier servicio público de transporte de personas o de carga en general, que requiera de concesión o de permiso, o bien, utilizando en la carrocería colores, números económicos y cualquier otra característica propia de los vehículos autorizados, se procederá a la aplicación de las sanciones contenidas en esta Ley y en sus reglamentos.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
 
 ###### Artículo 66.
 
-La aplicación de sanciones como multa, retiro o aseguramiento de vehículos, corresponderá a la Dirección; la de suspensión o cancelación de derechos consignados en esta Ley corresponderá al Gobernador del Estado.
+La aplicación de las sanciones previstas en esta Ley, corresponderá a la Dirección; la suspensión o cancelación de derechos consignados en esta Ley corresponderá al Gobernador del Estado.
 
 ###### Artículo 67.
 
@@ -693,9 +713,11 @@ El pago de las multas, deberá efectuarse en las oficinas recaudadoras correspon
 
 La Tesorería y la Dirección en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas por infracciones en que haya incurrido.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2018)</small>
+
 ###### Artículo 71.
 
-El conductor a quien se levante una infracción o aquel cuyo vehículo haya sido retirado de la vía pública y depositado en un local destinado por las autoridades para esa finalidad, podrá inconformarse en los términos que señala esta Ley y su reglamento.
+El conductor o propietario del vehículo que tenga alguna inconformidad con el proceder de la autoridad, podrá impugnarla en los términos que señala esta Ley y su Reglamento.
 
 ###### Artículo 72.
 
@@ -822,3 +844,13 @@ P.O. 29 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 257 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 59 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 560 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 20, 43, 48, 58, 65, 66 Y 71 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado y las autoridades municipales, en el ámbito de sus respectivas competencias, contará (sic) con un término de sesenta días hábiles a partir de la entrada en vigor del presente Decreto, para adecuar sus respectivos reglamentos.
