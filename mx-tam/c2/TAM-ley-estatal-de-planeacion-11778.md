@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "2007-12-27"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY ESTATAL DE PLANEACION
 
-LEY ESTATAL DE PLANEACION
+LEY ESTATAL DE PLANEACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -73,7 +73,9 @@ II.- La preservación y el perfeccionamiento del Régimen Democrático, Republic
 
 III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría en todos los aspectos de la calidad de vida, para lograr una sociedad más igualitaria;
 
-IV.- El respeto irrestricto de las garantías individuales y de las libertades y derechos sociales y políticos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
+
+IV.- El respeto irrestricto de los derechos humanos y de las libertades y derechos sociales y políticos;
 
 V.- El fortalecimiento del Pacto Federal y del Municipio Libre, para lograr un desarrollo equilibrado del Estado; y
 
@@ -618,3 +620,11 @@ P.O. 27 DE DICIEMBRE DE 2007.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. El Consejo Económico y Social se conformará e instalará dentro de los 90 días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-398 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE IMPRENTA Y DE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
