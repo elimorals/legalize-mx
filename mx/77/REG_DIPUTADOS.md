@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2018-03-13"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -662,13 +662,13 @@ IV. Realizar actos protocolarios o diplomáticos.
 
 1. La Cámara abrirá con validez sus sesiones, cuando esté integrado el quórum, de acuerdo a lo que dispone el artículo 63 de la Constitución.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2018)</small>
 
-2. Durante la Sesión, el quórum sólo se verificará mediante las votaciones nominales.
+2. Si durante la presentación y desahogo de un dictamen, algún legislador solicita la verificación del quórum, el Presidente procederá a comprobarlo de inmediato.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2018)</small>
 
-3. Una vez iniciada la Sesión, esta sólo se suspenderá si se comprueba la falta de quórum en alguna votación nominal. En este caso, el Presidente declarará un receso hasta por quince minutos. Si al término del mismo se verificara que no existe quórum, levantará la Sesión.
+3. Si se comprueba la falta de quórum, el Presidente declarará un receso hasta por quince minutos. Si al término del mismo se verificara que no existe quórum, levantará la Sesión.
 
 ###### Artículo 47.
 
@@ -4033,3 +4033,9 @@ D.O.F. 13 DE MARZO DE 2018.
 Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Cámara de Diputados contará con un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto para expedir el Reglamento respectivo.
+
+D.O.F. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS NUMERALES 2 Y 3 DEL ARTÍCULO 46 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
