@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2017-05-20"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -327,9 +327,15 @@ XII. Promover el desarrollo de la agroindustria que fortalezca la actividad pecu
 
 XIII. Fomentar la conservación, reproducción, mejora, desarrollo y protección de la biodiversidad genética de las especies pecuarias, incluyendo la ganadería diversificada, con el fin de lograr su aprovechamiento sustentable;
 
-XIV. Fomentar y facilitar el acceso a productores y organizaciones ganaderas a programas de financiamiento para el desarrollo de la actividad pecuaria, y
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
 
-XV. Las demás disposiciones que señalen las leyes y reglamentos aplicables.
+XIV. Fomentar y facilitar el acceso a productores y organizaciones ganaderas a programas de financiamiento para el desarrollo de la actividad pecuaria;
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2018)</small>
+
+XV. Fomentar el apoyo a los productores pecuarios locales por medio de las adquisiciones de ganado y sus productos derivados, en términos de la Ley de Adquisiciones del Estado de San Luis Potosí, y
+
+XVI. Las demás disposiciones que señalen las leyes y reglamentos aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -525,7 +531,11 @@ XII. Elaborar y ejecutar proyectos pecuarios a corto, mediano y largo plazo, en 
 
 XIII. Gestionar ante el Ejecutivo Estatal y Federal la ejecución de acciones tendientes a promover el desarrollo pecuario;
 
-XIV. Las demás que señalen las Leyes, reglamentos y normatividad aplicable.
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2018)</small>
+
+XIV. Fomentar el apoyo a los productores pecuarios locales por medio de las adquisiciones de ganado y sus productos derivados, en términos de la Ley de Adquisiciones del Estado de San Luis Potosí, y
+
+XV. Las demás que señalen las Leyes, reglamentos y normatividad aplicable.
 
 ###### ARTÍCULO 20.
 
@@ -2064,3 +2074,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 947.- SE REFORMA EL ARTÍCULO 11; Y ADICIONA UNA FRACCIÓN A LOS ARTÍCULOS 11 Y 19 DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
