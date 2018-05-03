@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-sonorense-de-la-juventud-9629
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-05"
-last_updated: "2013-09-05"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE LA JUVENTUD DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE MAYO DE 2018.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 5 de septiembre de 2013.
 
@@ -403,9 +403,11 @@ La relación de trabajo entre el Instituto y sus trabajadores se regirá por la 
 
 ### CAPÍTULO IX. DE LA SUPLENCIA DE FUNCIONARIOS
 
+> <small>(REFORMADO, B.O. 3 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 30.
 
-Durante las ausencias temporales del Director General, el despacho y la resolución de los asuntos del Instituto, estarán a cargo del titular de la unidad administrativa que corresponda.
+Durante las ausencias temporales del titular de la Dirección General, por cualquiera que sea el motivo, el despacho y la resolución de los asuntos del Instituto, estarán a cargo del titular de la Dirección Operativa y de Enlace Institucional.
 
 ###### ARTÍCULO 31.
 
@@ -490,3 +492,13 @@ GILDARDO ANTONIO RAMIREZ OSUNA
 Titular del Órgano de Control y Desarrollo Administrativo
 
 CONTRALOR INTERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE REFORMA EL ARTÍCULO 30 DEL REGLAMENTO INTERIOR”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de la publicación en el Boletín Oficial del Gobierno del Estado.
