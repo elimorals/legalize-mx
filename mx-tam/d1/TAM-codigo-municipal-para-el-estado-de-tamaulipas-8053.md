@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2017-06-08"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -379,7 +379,9 @@ Un Ayuntamiento podrá ser suspendido cuando promueva, acuerde o ejecute:
 
 I.- Violaciones graves o sistemáticas a los presupuestos, planes o programas que afecten los intereses del Municipio, del Estado o de la Federación.
 
-II.- Violaciones graves y sistemáticas a las garantías de los gobernados.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
+
+II.- Violaciones graves y sistemáticas a los derechos humanos de los gobernados.
 
 III.- Conductas que alteren el orden público y la paz social, o coaliciones con otro Ayuntamiento para el mismo efecto.
 
@@ -803,7 +805,9 @@ XV.- Vigilar el cumplimiento del plan de desarrollo municipal y los programas qu
 
 XVI.- Someter al Ejecutivo del Estado, para su aprobación, el programa municipal de desarrollo urbano y las declaratorias de provisiones, usos, reservas y destinos de áreas y predios.
 
-XVII.- Disponer de la fuerza pública del Municipio para asegurar, cuando las circunstancias lo demanden, las garantías individuales, la conservación del orden y la tranquilidad pública.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
+
+XVII.- Disponer de la fuerza pública del Municipio para asegurar, cuando las circunstancias lo demanden, los derechos humanos, la conservación del orden y la tranquilidad pública.
 
 XVIII.- Dar cuenta al Gobierno del Estado de todo acontecimiento que afecte la buena marcha del gobierno y administración municipal, y de todo suceso que perturbe el orden público y la paz social.
 
@@ -6114,3 +6118,11 @@ P.O. 8 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-398 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE IMPRENTA Y DE LA LEY ESTATAL DE PLANEACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
