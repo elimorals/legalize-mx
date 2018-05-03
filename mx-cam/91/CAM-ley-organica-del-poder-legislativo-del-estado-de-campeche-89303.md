@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2017-12-21"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,61 @@ state: "CAM"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
+LEY DE INGRESOS PARA EL MUNICIPIO DE AJACUBA, HIDALGO, CORRESPONDIENTE AL EJERCICIO FISCAL 2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
+Ley publicada en el Alcance Trece del Número 52 del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 2022.
 
-FERNANDO EUTEMIO ORTEGA BERNES, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-Que el H. Congreso Constitucional del Estado Libre y Soberano de Campeche, me ha dirigido el siguiente:
+###### Artículo 17.
 
-DECRETO
+Los derechos por servicios de certificaciones, legalizaciones y expedición de copias certificadas se determinarán conforme a lo dispuesto por los artículos 100 al 102 de la Ley de Hacienda para los Municipios, debiéndose pagar conforme a las siguientes cuotas:
 
-La LX Legislatura del Congreso del Estado de Campeche decreta:
+Cuota fija $
 
-Número 242
+Certificación de documentos de actos o
 
-ÚNICO.- Se expide una nueva Ley Orgánica del Poder Legislativo del Estado de Campeche para quedar como sigue:
+hechos jurídicos o civiles.
 
-LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
+Certificación y expedición de copias 91.40
+
+Expedición de constancias de documentos que
+
+obren en los archivos municipales (Por foja) 88.80
+
+Expedición de constancias en general 88.80
+
+Certificación y expedición de copias foráneas 109.70
+
+(NOTA: EL 24 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+BÚSQUEDA EN ARCHIVO DE ANTECEDENTES POR PERIODO
+
+ANUAL O FRACCIÓN, DOCUMENTO O FECHA 88.80
+
+Certificado de registro en el padrón catastral y
+
+valor fiscal 261.30
+
+Certificado de no adeudo fiscal. 70.00
+
+Costo de tarjeta y/o boleta predial. N/A
+
+Copia simple de documento digitalizado. 85.70
+
+Registro de compra-venta de ganado 52.30
+
+Contrato de arrendamiento entre particulares 88.80
+
+Actas informativas Juzgado Conciliador 62.70
+
+Convenio Juzgado Conciliador 52.30
+
+Cédula Catastral 239.40
+
+La primera copia certificada del acta de nacimiento será expedida sin costo por las autoridades municipales.
 
 ### Capítulo Primero. Disposiciones Generales
 
