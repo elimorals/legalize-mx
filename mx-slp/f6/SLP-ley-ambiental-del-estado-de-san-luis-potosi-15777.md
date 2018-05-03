@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2018-03-22"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -381,7 +381,15 @@ XXXV. Inspeccionar las obras o actividades que lo requieran y sancionar en los c
 
 XXXVI. Elaborar para su aprobación, las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo;
 
-XXXVII. Aprobar las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
+
+XXXVII. Aprobar las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo, mediante las siguientes acciones:
+
+a) Establecer un monitoreo constante sobre el estado que guardan las áreas naturales protegidas existentes.
+
+b) Expedir convocatorias de manera periódica para atender solicitudes de creación de nuevas áreas naturales, que requieran de dicha protección.
+
+c) Vigilar las áreas naturales de jurisdicción estatal, que cuenten con su correspondiente plan de manejo;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -1999,17 +2007,27 @@ III. Se trate de instalaciones que pretendan ubicarse en fraccionamientos indust
 
 En los casos anteriores, la autoridad competente, una vez recibido el informe preventivo, podrá requerir en un plazo de diez días, aclaraciones, rectificaciones o ampliaciones al contenido del informe, suspendiéndose el término que restare para concluir el procedimiento.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE MAYO DE 2018)</small>
 
-ARTICULO 123 BIS. Analizado el informe preventivo, y en su caso, complementada la información requerida, la autoridad competente determinará en un plazo no mayor de veinte días naturales contados a partir de la recepción del informe:
+ARTICULO 123 BIS. Analizado el informe preventivo y, en su caso, complementada la información requerida, la autoridad competente determinará en un plazo no mayor de treinta días hábiles contados a partir de la recepción del informe:
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 I. Que se encuentra en los supuestos anteriormente señalados y que, por lo tanto, puede realizar la obra o actividad en los términos propuestos, sujetándose a las condiciones que para tal efecto se establezcan;
 
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 II. Que se requiere la presentación de una manifestación de impacto ambiental, en alguna de sus modalidades;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 III. Negar la autorización en caso de que exista alguna de las causales de negativa previstas en el artículo 127 BIS de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 Tratándose de informes preventivos en los que los impactos de las obras o actividades a que se refieren, se encuentren totalmente regulados por las normas oficiales mexicanas, transcurrido el plazo a que se refiere este artículo, sin que la Secretaría haga la notificación correspondiente, se entenderá que dichas obras o actividades podrán llevarse a cabo en la forma en la que fueron proyectadas y de acuerdo con las mismas normas.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe preventivo, pretendiendo se aplique la afirmativa ficta, se entenderá que el ingreso del procedimiento para la autorización del informe preventivo es inexistente, independientemente de las sanciones previstas en esta Ley.
 
@@ -2081,13 +2099,19 @@ V. La Secretaría agregará las observaciones realizadas por los interesados al 
 
 Al realizar la evaluación del impacto ambiental, la autoridad competente se sujetará, entre otros aspectos, a lo que establezcan los programas de ordenamiento ecológico del territorio, a los programas de desarrollo urbano, a las declaratorias de áreas naturales protegidas, sus programas de manejo, a las normas aplicables y las demás disposiciones jurídicas que resulten aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE MAYO DE 2018)</small>
 
-ARTICULO 127 BIS. Una vez presentada la manifestación de impacto ambiental, la Secretaría iniciará el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su reglamento y las normas oficiales mexicanas aplicables, e integrará el expediente respectivo en un plazo no mayor de diez días.
+ARTICULO 127 BIS. Una vez presentada la manifestación de impacto ambiental, la Secretaría iniciará el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su reglamento y las normas oficiales mexicanas aplicables, e integrará el expediente respectivo en un plazo no mayor de diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 Asimismo, para la autorización a que se refiere este artículo, la Secretaría deberá evaluar los posibles efectos de dichas obras o actividades, en el o los ecosistemas de que se trate, considerando el conjunto de elementos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 La Secretaría una vez presentada una manifestación de impacto ambiental, notificará de ello al municipio correspondiente donde se pretenda llevar a cabo la obra o actividad, en un término de cinco días hábiles, a fin de que manifieste lo que a su interés convenga, situación que deberá llevar a cabo en un plazo de cinco días hábiles contados a partir de la notificación correspondiente; una vez transcurrido dicho plazo sin que el municipio hubiese manifestado algo al respecto, se entenderá que no existe objeción o comentarios al proyecto presentado.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 Una vez evaluada la manifestación de impacto ambiental, la Secretaría emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
 
@@ -2105,7 +2129,11 @@ c) Exista falsedad en la información proporcionada por los promoventes, respect
 
 d) Se funde en duda técnica en virtud de que en los estudios presentados no aparezca demostrada la tecnología o mecanismos propuestos para evitar, mitigar o reducir los efectos que sobre el ambiente pueda causar la obra o actividad; o bien, cuando ésta consista en la aplicación de tecnologías novedosas cuyos resultados sobre el ambiente no hayan sido probados y documentados.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
 La Secretaría podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, en aquellos casos expresamente señalados en el reglamento de la presente Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
 La resolución de la Secretaría, en caso de ser positiva, sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
 
@@ -2119,7 +2147,9 @@ ARTICULO 127 QUATER. La Secretaría podrá solicitar aclaraciones, rectificacion
 
 En caso de que la información complementaria solicitada no se haya proporcionado en tiempo y forma, la Secretaría desechará el trámite.
 
-Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la autoridad requiera de un plazo mayor para su evaluación, este se podrá ampliar hasta por treinta días naturales adicionales, siempre que se justifique conforme a lo dispuesto en el reglamento de la presente Ley, circunstancia que deberá notificarse al solicitante.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
+
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la autoridad requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por treinta días hábiles adicionales, siempre que se justifique conforme a lo dispuesto en el reglamento de la presente Ley, circunstancia que deberá notificarse al solicitante.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2606,6 +2636,22 @@ La autoridad correspondiente podrá otorgar al infractor la opción en pagar la 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
 Los ayuntamientos podrán solicitar a la Secretaría de Finanzas de Gobierno del Estado, de manera análoga en los términos del artículo 35 del Código Fiscal del Estado y sus reglamentos, la devolución de la multa aplicada por cualquier infracción contenida en las diversas disposiciones normativas ambientales, siempre y cuando se acredite ante la Secretaría de Ecología y Gestión Ambiental, haber realizado una inversión por la misma cantidad o mayor a esta, para la ejecución de acciones, proyectos e inversiones en infraestructura, que permitan a la vez solventar la sanción impuesta, así como el mejoramiento, protección, conservación o restauración del medio ambiente; la resolución que apruebe el reintegro debe tener la condición de que el recurso devuelto se utilice en acciones y/o proyectos de la misma naturaleza.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2018)</small>
+
+ARTICULO 160 BIS. Cuando el infractor al que se le ha aplicado una multa en materia ambiental, se decida para su pago por la opción de la inversión equivalente a que se refiere el párrafo cuarto del artículo 160 de esta Ley, deberá solicitarlo por escrito donde debe expresar lo siguiente:
+
+I. Detallar las actividades a realizar;
+
+II. Especificar el monto a invertir, el cual no debe ser menor a la multa impuesta;
+
+III. Señalar los lugares, sitios o establecimientos donde se realizarán las acciones;
+
+IV. Calendarizar las acciones a realizar, señalando fecha de inicio y conclusión;
+
+V. Describir los beneficios ambientales o de otro tipo que se vayan a generar, y
+
+VI. Señalar la forma de garantizar la obligación, optando por alguna de las formas previstas por el numeral 136 del Código Fiscal del Estado de San Luis Potosí.
 
 ###### ARTICULO 161.
 
@@ -3200,3 +3246,27 @@ P.O. 22 DE MARZO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 944.- SE REFORMA EL ARTÍCULO 7° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 945.- SE REFORMA LOS ARTÍCULOS 123 BIS, 127 BIS Y 127 QUÁTER DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 946.- SE REFORMA EN EL TÍTULO DÉCIMO SEGUNDO, EN SU CAPÍTULO III, EL ARTÍCULO 160 BIS A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas (sic) disposiciones que opongan a este Decreto.
