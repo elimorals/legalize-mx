@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2017-12-14"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -1095,9 +1095,13 @@ El Instituto Potosino de Cultura Física y Deporte establecerá los requisitos, 
 
 Para efectos del presente Ordenamiento se considera beca deportiva, a la prestación económica mensual que otorga el Estado, municipio o institución educativa de carácter público o privado al deportista de la Entidad, por un ciclo anual, derivado del análisis de continuidad con que ha destacado en su especialidad.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 107.
 
-Las becas deportivas se otorgarán únicamente a deportistas oriundos del Estado, o que tengan su residencia, o realicen sus estudios en el mismo, y que no participen en el deporte profesional; como reconocimiento a su dedicación, desempeño y logros deportivos, con la finalidad de promover la continuidad de la práctica del deporte, así como el crecimiento de talentos deportivos y de alto rendimiento.
+Las becas deportivas se otorgarán únicamente a deportistas oriundos del Estado, o que tengan su residencia, o realicen sus estudios en el mismo, que no participen en el deporte profesional, y que representen al Estado o a los municipios, en competencias a nivel Estatal y Nacional, como reconocimiento a su dedicación, desempeño y logros deportivos, con la finalidad de promover la continuidad de la práctica del deporte, así como el crecimiento de talentos deportivos y de alto rendimiento.
+
+Los requisitos establecidos por el Instituto Potosino de Cultura Física y Deporte para la solicitud de una beca, deberán estar en su página de internet, donde se precisen con claridad las bases o lineamientos para su otorgamiento, para que todo aquel deportista que represente al Estado o municipio conozca lo necesario para tramitarla.
 
 ###### ARTÍCULO 108.
 
@@ -1394,3 +1398,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 943.- SE REFORMA EL ARTÍCULO 107 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
