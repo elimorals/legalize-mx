@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-imprenta-8297"
 country: "mx"
 rank: "ley"
 publication_date: "1925-10-28"
-last_updated: "1925-10-28"
+last_updated: "2018-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE IMPRENTA
 
-LEY DE IMPRENTA
+LEY DE IMPRENTA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas, los días 28 y 31 de octubre de 1925.
 
@@ -63,9 +63,11 @@ VII.- Ofender o ultrajar a los representantes de los Poderes Ejecutivo y Judicia
 
 VIII.- Publicar o propalar como ciertas noticias falsas o adulteradas con el propósito de perturbar la paz o la tranquilidad de la República o de cualquier punto de ella.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
+
 ###### Artículo 3o.
 
-Para ejercitar el derecho de manifestar las ideas, y por lo tanto, para poder gozar de las garantías que consagran los artículos 6o y 7o de la Constitución General de la República y las prescripciones de esta Ley, los autores ó editores se constituirán en responsables de sus producciones o ediciones calzando aquellas con su firma y éstas con su respectivo pié de imprenta en el caso de no indicar el nombre del autor y de que la publicación no se haga en un periódico que tenga responsable. Cualquier producción que no esté sujeta a los requisitos anteriores, no gozará de las garantías de esta Ley y las autoridades administrativas o judiciales podrán dictar medidas para impedir la circulación o representación.
+Para ejercitar el derecho de manifestar las ideas, y por lo tanto, para poder gozar de los derechos humanos que consagran los artículos 6° y 7° de la Constitución Política de los Estados Unidos Mexicanos y las prescripciones de esta Ley, los autores o editores se constituirán en responsables de sus producciones o ediciones calzando aquellas con su firma y éstas con su respectivo pie de imprenta en el caso de no indicar el nombre del autor y de que la publicación no se haga en un periódico que tenga responsable. Cualquier producción que no esté sujeta a los requisitos anteriores, no gozará de los derechos de esta Ley y las autoridades administrativas o judiciales podrán dictar medidas para impedir la circulación o representación.
 
 ###### Artículo 4o.
 
@@ -674,3 +676,13 @@ Cd. Victoria, Tamps, Septiembre 29 de 1925.- M. Tárrega, Diputado Presidente.- 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en Nuevo Laredo, Tamps; residencia transitoria del Poder Ejecutivo, a los doce días del mes de octubre de mil novecientos veinticinco.- E. PORTES GIL.- El Secretario General de Gobierno, Enrique Medina.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXlll-398 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE IMPRENTA Y DE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
