@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2017-12-21"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -575,7 +575,9 @@ XIV. La Comisión de Procuración e Impartición de Justicia;
 
 XV. La Comisión de Seguridad Pública y Protección a la Comunidad;
 
-XVI. La Comisión de Derechos Humanos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
+
+XVI. Comisión de Derechos Humanos y de Asuntos de Familia
 
 XVII. La Comisión de Pesca;
 
@@ -2244,6 +2246,14 @@ QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administra
 P.O. 21 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 237 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 44, LOS ARTÍCULOS 51, 57, 58, 59, 106, 107, 109, EL PÁRRAFO PRIMERO DEL ARTÍCULO 110, LOS ARTÍCULOS 111 Y 169 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 264 POR EL QUE “SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
