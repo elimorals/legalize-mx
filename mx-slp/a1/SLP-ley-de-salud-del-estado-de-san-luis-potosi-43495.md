@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-04-26"
+last_updated: "2018-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -2663,9 +2663,11 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 No se permitirá la construcción o adaptación de edificios para albergue o explotación de animales dentro de las zonas urbanas, excepción hecha de las construcciones destinadas a parques zoológicos, o bien para actividades transitorias tales como: ferias o exposiciones, las cuales deberán sujetarse a las disposiciones reglamentarias respectivas.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 200.
 
-No se permitirá la existencia de animales en edificios y terrenos sin construir en zonas urbanas, con excepción de pequeñas especies domésticas, que cuenten con alojamiento adecuado y siempre que no causen molestias a las personas.
+Queda prohibido el alojamiento de animales en azoteas o balcones, en edificios y terrenos construidos y sin construir en zonas urbanas, con excepción de mascotas, mismas que deberán contar con la atención adecuada y condiciones de higiene que establezcan las normas aplicables para su subsistencia, además de que no causen molestias a las personas.
 
 ###### ARTICULO 201.
 
@@ -4410,5 +4412,13 @@ P.O. 26 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 942.- SE REFORMA EL ARTÍCULO 51; Y ADICIONA FRACCIÓN AL ARTÍCULO 25 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 948.- SE REFORMA EL ARTÍCULO 200 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
