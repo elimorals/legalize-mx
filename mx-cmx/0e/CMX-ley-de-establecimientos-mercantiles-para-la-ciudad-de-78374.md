@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2017-08-02"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MAYO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -296,7 +296,9 @@ VII. Evitar aglomeraciones en la entrada principal y salidas de emergencia que o
 
 Las salidas de emergencia deberán estar debidamente señaladas al interior de los establecimientos mercantiles, y cuando las características del mismo lo permitan deberán ser distintas al acceso principal de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
 
-VIII. Permitir el libre acceso a personas ciegas o débiles visuales acompañadas de un perro guía, el cual deberá contar con bozal;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2018)</small>
+
+VIII. Todo Perro de Asistencia, Perros de Servicio, Perros Guía, Perro de Señal, Perro de Servicio para niños del Espectro Autista, Perro de Alerta Médica; y cualquier otra categoría que pueda surgir para el auxilio y salvaguarda humana, tendrá acceso libre e irrestricto al Espacio Público, establecimientos mercantiles, instalaciones y transportes individuales o colectivos, sean de carácter público o privado, siempre que vaya acompañado de la persona a la que asiste.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -1645,3 +1647,11 @@ SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México para su conoci
 TERCERO. Para efectos de la presente ley, los lavados de "autos" se entenderán como lavados de "vehículos".
 
 CUARTO. Se instruye al Gobierno de la Ciudad de México a llevar a cabo la actualización de normas regulatorias y vinculantes al presente decreto en un término no mayor a 60 días.
+
+G.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
