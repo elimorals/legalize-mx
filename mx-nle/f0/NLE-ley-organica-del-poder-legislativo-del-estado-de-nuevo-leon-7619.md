@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2017-03-15"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2025
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2018.
 
-Ley publicada en la Primera Sección del Número 68 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2024.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+EL CIUDADANO LIC. SOCRATES C. RIZZO GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-> <small>(F. DE E., P.O. 20 DE ENERO DE 2025)</small>
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+
+DECRETO NUM. 80
+
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
 ## TITULO PRIMERO. DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
@@ -565,11 +569,11 @@ La organización y funcionamiento del Congreso por lo que corresponde a Debates,
 
 ### CAPITULO II. DE LA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 4 DE MAYO DE 2018)</small>
 
 ###### Artículo 52.
 
-La Directiva es el órgano de dirección del Pleno del Congreso. Es responsable de la conducción de las sesiones del Pleno del Poder Legislativo, tiene las atribuciones señaladas en la presente Ley y en el Reglamento para el Gobierno Interior del Congreso. Se integra por un Presidente, que será el Presidente del Congreso, dos Vicepresidentes y dos Secretarios. La Presidencia del Congreso será rotativa entre los Grupos Legislativos, de acuerdo a su representación en el mismo. El primer año de ejercicio constitucional la ocupará un diputado del Grupo Legislativo de mayoría absoluta o de mayoría, el segundo año de ejercicio constitucional un diputado del Grupo Legislativo que sea la primera minoría, y el tercer año de ejercicio constitucional un diputado del Grupo Legislativo que sea la segunda minoría. En cada caso, uno de los Vicepresidentes y uno de los Secretarios deberán pertenecer a Grupos Legislativos distintos al del diputado que ocupe la Presidencia. Los integrantes de la Directiva durarán un año en el cargo.
+La Directiva es el órgano de dirección del Pleno del Congreso. Es responsable de la conducción de las sesiones del Pleno del Poder Legislativo, tiene las atribuciones señaladas en la presente Ley y en el Reglamento para el Gobierno Interior del Congreso. Se integra por un Presidente, que será el Presidente del Congreso, dos Vicepresidentes y dos Secretarios. La Presidencia del Congreso será rotativa entre los Grupos Legislativos, de acuerdo a su representación en el mismo. El primer año de ejercicio constitucional la ocupará un diputado del Grupo Legislativo que sea la primera minoría, el segundo año de ejercicio constitucional un diputado del Grupo Legislativo que sea de mayoría absoluta o de mayoría, y el tercer año de ejercicio constitucional será a propuesta de la Comisión de Coordinación y Régimen Interno. En cada caso, uno de los Vicepresidentes y uno de los Secretarios deberán pertenecer a Grupos Legislativos distintos al del diputado que ocupe la Presidencia. Los integrantes de la Directiva durarán un año en el cargo.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -729,7 +733,9 @@ II.- Grupo Legislativo de mayoría: El Grupo Legislativo que sin estar comprendi
 
 III.- Primer minoría, segunda minoría, tercer minoría, y subsecuentes: Los Grupos Legislativos que después del Grupo Legislativo de mayoría absoluta o del de mayoría, tengan mayor cantidad de integrantes, en orden decreciente, respectivamente.
 
-Con el único efecto de integrar, organizar y dar funcionalidad a la Comisión de Coordinación y Régimen Interno, si dos o más Grupos Legislativos tienen el mismo número de Diputados, la referencia para la denominación correspondiente será, la cantidad de votos obtenidos por el conjunto de integrantes de cada Grupo Legislativo que se encuentre en la situación de empate, en las elecciones constitucionales en que fueron electos. Fuera de esta Comisión y frente a cualquier instancia, en caso de empate, la denominación atenderá al número de Diputados que componen cada Grupo Legislativo, reflejando fielmente su representación real en el Congreso, pudiendo en consecuencia, existir dos o más Grupos Legislativos bajo la misma denominación, sin menoscabo del nombre correspondiente al origen partidista de sus miembros en los términos del artículo 40 de esta Ley.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2018)</small>
+
+Con el único efecto de integrar, organizar y dar funcionalidad a la Comisión de Coordinación y Régimen Interno, si dos o más Grupos Legislativos tienen el mismo número de Diputados, la referencia para la denominación correspondiente será, el número de Diputados de Mayoría Relativa del conjunto de integrantes de cada Grupo Legislativo que se encuentre en la situación de empate y si persiste el empate por la cantidad de votos obtenidos por el conjunto de integrantes de cada Grupo Legislativo, en las elecciones constitucionales en que fueron electos. Fuera de esta Comisión y frente a cualquier instancia, en caso de empate, la denominación atenderá al número de Diputados que componen cada Grupo Legislativo, reflejando fielmente su representación real en el Congreso, pudiendo en consecuencia, existir dos o más Grupos Legislativos bajo la misma denominación, sin menoscabo del nombre correspondiente al origen partidista de sus miembros en los términos del artículo 40 de esta Ley.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -769,7 +775,7 @@ a) Forman parte de esta Comisión:
 
 3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 b) Los cargos en la Comisión de Coordinación y Régimen Interno serán ocupados de acuerdo a lo siguiente:
 
@@ -1180,6 +1186,10 @@ I. Mantener actualizado el listado de Acuerdos Aprobados por el Pleno del Congre
 II. Solicitar, por conducto de su Presidente, a las autoridades competentes, la respuesta de los Acuerdos enviados para la atención, información o intervención de diversas problemáticas, cuando transcurra un tiempo prudente, posterior a la aprobación del Acuerdo; e
 
 III. Informar cada mes al Pleno del Congreso del seguimiento y situación que guardan los Acuerdos enviados a las autoridades federales, estatales o municipales, para la atención, información o intervención, conforme a sus atribuciones, de diversas problemáticas.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
+
+IV. Proporcionar a la Oficialía Mayor el estatus del listado de los Acuerdos que sean aprobados por el Pleno del Congreso, especificando si han sido respondidos o no por la autoridad aludida y que sean publicados en la página oficial del Congreso del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1683,260 +1693,6 @@ b) Impresión imagen 4.00
 
 XXXIII. Constancia de antecedentes administrativos. 104.00
 
-###### ARTÍCULO 103.
-
-Las multas que se impongan a los contribuyentes conforme a los ordenamientos legales aplicables, se regirán conforme a las siguientes disposiciones:
-
-I. Las multas para las conductas a sancionar previstas en el artículo 313, fracciones I, II y III de la Ley de Movilidad para el Estado de Aguascalientes, conforme a lo dispuesto en el artículo 224 del Reglamento de Movilidad y Seguridad Vial del Municipio de Aguascalientes, serán las siguientes serán las siguientes:
-
-1.- Infracciones que se cometen por conductores de vehículos automotores:
-
-a) Cuando la infracción sea una falta LEVE, el infractor se hará acreedor a una multa de 1 (uno) a 3 (tres) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-b) Tratándose de faltas MEDIA, el conductor se hará acreedor a una multa de 4 (cuatro) a 7 (siete) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-c) Por infracciones consideradas como faltas GRAVES, se impondrá una multa de 8 (ocho) a 10 (diez) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-2.- Infracciones que se cometan por conductores de motocicletas:
-
-a) Cuando la infracción sea una falta LEVE, el infractor se hará acreedor a una multa de 1 (uno) a 2 (dos) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-b) Tratándose de faltas MEDIA, el conductor se hará acreedor a una multa de 3 (tres) a 5 (cinco) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-c) Por infracciones consideradas como faltas GRAVES, se impondrá una multa de 6 (seis) a 8 (ocho) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-3.- Infracciones que se cometan por conductores de bicicletas:
-
-a) Cuando la infracción sea una falta LEVE, el infractor se hará acreedor a una multa de medio a 1 (una) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-b) Tratándose de faltas MEDIA, el conductor se hará acreedor a una multa de 1 (uno) a (dos) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-c) Por infracciones consideradas como faltas GRAVES, se impondrá una multa de 3 (tres) a 4 (cuatro) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-II. Para aquellos conductores que cometan alguna de las faltas consideradas como MUY GRAVES, de las contempladas en el artículo 313, fracción IV, inciso a), numeral 1 e, inciso b) numerales 1 y 2 de la Ley de Movilidad del Estado de Aguascalientes, conforme a lo dispuesto en el artículo 224 del Reglamento de Movilidad y Seguridad Vial del Municipio de Aguascalientes, se harán acreedores a la siguiente sanción:
-
-a) Infracciones que se cometan por conductores de vehículos automotores, el infractor se hará acreedor a una multa de 10 (diez) a 20 (veinte) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-b) Infracciones que se cometan por conductores de motocicletas, el infractor se hará acreedor a una multa de 9 (nueve) a 15 (quince) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-c) Infracciones que se cometan por conductores de bicicletas, el infractor se hará acreedor a una multa de 5 (cinco) a 6 (seis) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-III. Por obstruir o estacionarse en bahías, rampas o espacios para uso exclusivo de personas discapacitadas con cualesquiera de los vehículos indicados en los numerales 1 y 2 de la fracción 1) del presente Artículo, el infractor se hará acreedor a una multa de 20 (veinte) a 50 (cincuenta) veces el valor diario de la Unidades de Medida y Actualización vigente, en términos del artículo 313, fracción IV, inciso a), numeral 4 de la Ley de Movilidad para el Estado de Aguascalientes, conforme a lo dispuesto en el artículo 224 del Reglamento de Movilidad y Seguridad Vial del Municipio de Aguascalientes
-
-En los casos en que una bicicleta o triciclo obstruya o se estacione en bahías, rampas o espacios para uso exclusivo de personas discapacitadas, el infractor se hará acreedor a una multa de 7 (siete) a 15 (quince) veces el valor diario de la Unidades de Medida y Actualización vigente, al ser considerada como una falta MUY GRAVE de acuerdo a lo dispuesto en el artículo 313, fracción IV, inciso a), numeral 3 de la Ley de Movilidad para el Estado de Aguascalientes.
-
-IV. Por no obedecer los límites de velocidad y la infracción se genere mediante el uso de los dispositivos electrónicos por parte de la autoridad conforme a lo previsto en el artículo 103 fracción VII del Reglamento de Movilidad del Municipio de Aguascalientes, el infractor se hará acreedor a una multa de 8 (ocho) a 10 (diez) veces el valor diario de la Unidades de Medida y Actualización vigente, de conformidad con lo dispuesto por el Artículo 313, fracción III, inciso a), numeral 29 de la Ley de Movilidad del Estado de Aguascalientes, conforme a lo dispuesto en el artículo 224 del Reglamento de Movilidad y Seguridad Vial del Municipio de Aguascalientes.
-
-V. Por circular, invadir o estacionarse en las ciclo vías, con cualesquiera de los vehículos indicados en los numerales 1 y 2 de la fracción I del presente Artículo, el infractor se hará acreedor a una multa de 8 (ocho) a 10 (diez) veces el valor diario de la Unidades de Medida y Actualización vigente, tratándose de vehículos automotores; y de 6 (seis) a 8 (ocho) veces el valor diario de la Unidades de Medida y Actualización vigente, para el caso de motocicletas. Lo anterior en términos del artículo 65 de la Ley de Movilidad del Estado de Aguascalientes vigente.
-
-VI. Independientemente de la clasificación anterior, por conducir cualesquiera de los vehículos indicados en los numerales 1 y 2 de la Fracción I, en estado de ebriedad o bajo el efecto de estupefacientes, psicotrópicos u otras sustancias tóxicas, el infractor se hará acreedor a una multa de 50 (cincuenta) a 150 (ciento cincuenta) veces el valor diario de la Unidades de Medida y Actualización vigente, en términos de los artículos 292 y 313 fracción IV, inciso a), numeral 3 de la Ley de Movilidad del Estado de Aguascalientes, conforme a lo dispuesto en el artículo 224 del Reglamento de Movilidad y Seguridad Vial del Municipio de Aguascalientes.
-
-En el caso de conducir bicicletas en estado de ebriedad o bajo el efecto de estupefacientes, psicotrópicos u otras sustancias tóxicas, el infractor se hará acreedor a una multa de 20 (veinte) a 50 (cincuenta) veces el valor diario de la Unidades de Medida y Actualización vigente, en términos de lo dispuesto por el Artículo 313 de la Ley de Movilidad del Estado de Aguascalientes vigente.
-
-VII. Por conducir un vehículo de motor particular y manipule objetos electrónicos al conducir o utilice teléfono celular sin dispositivo manos libres, se impondrá una multa de 20 (veinte) a 50 (cincuenta) veces el valor diario de la Unidades de Medida y Actualización vigente, lo anterior en términos a lo dispuesto en el artículo 313, fracción IV, inciso a), numeral 1), de la Ley de Movilidad para el Estado de Aguascalientes, conforme a lo dispuesto en el artículo 224 del Reglamento de Movilidad y Seguridad Vial del Municipio de Aguascalientes.
-
-Al conductor de vehículos mercantiles, públicos, transportes escolares, de materiales o residuos tóxicos o peligrosos de emergencia, de seguridad privada, u oficial de cualquier ente de gobierno, ya sea de orden federal, estatal o municipal, que conduzca, manipule objetos electrónicos al conducir o utilice teléfono celular, se le impondrá una multa de 50 (cincuenta) a 150 (ciento cincuenta) veces el valor diario de la Unidades de Medida y Actualización vigente.
-
-Con independencia de lo previsto en la fracción IV inciso a) numeral 1 del artículo 313 de la Ley de Movilidad del Estado de Aguascalientes, se impondrá una sanción que oscila de 50 (cincuenta) a 100 (cien) veces el valor diario de la Unidades de Medida y Actualización vigente, al conductor de vehículo que conduzca con licencia suspendida dentro del Municipio de Aguascalientes.
-
-VIII. En los casos previstos en las fracciones I, II, III, V y VII del presente Artículo, si la multa se paga dentro de los 20 (veinte) días naturales siguientes, contados a partir de la fecha en que se cometa la infracción, la Secretaría de Finanzas Públicas Municipales podrá aplicar un descuento de hasta el 50% (cincuenta por ciento) sobre la cantidad líquida que corresponda a la multa determinada por la propia Secretaría. A partir del vigésimo primer día natural siguiente y hasta el sexagésimo día natural siguiente a la fecha de que se haya cometido la infracción, el descuento indicado será de hasta el 30% (treinta por ciento).
-
-El descuento a que se refiere el párrafo anterior, sólo será aplicable, por única vez, en el mismo ejercicio fiscal, tratándose de las conductas que a continuación se establecen, siempre y cuando se realice el pago dentro de los plazos señalados.
-
-A) Por exceder el límite de velocidad establecido en términos a lo dispuesto en el artículo 313, fracción III, inciso a), numeral 29 sub fracciones i, ii y iii de la Ley de Movilidad del Estado de Aguascalientes, incluyendo la infracción que se genere mediante el uso de los dispositivos electrónicos por parte de la autoridad conforme a lo previsto en la fracción VII artículo 137 del Reglamento de Movilidad y Seguridad Vial del Municipio de Aguascalientes.
-
-B) Por no obedecer el alto cuando lo indique un semáforo o cualquier señal o dispositivo colocado en la vía pública, de acuerdo a lo establecido en los artículos 313, fracción III, inciso a), numeral 7, de la Ley de Movilidad de Estado de Aguascalientes.
-
-C) Se dé a la fuga después de provocar o intervenir en un accidente en términos de lo dispuesto en el artículo 192, fracción III del Reglamento de Movilidad y Seguridad Vial del Municipio de Aguascalientes.
-
-No será aplicable descuento alguno en los casos que la multa sea impuesta por:
-
-a) Conducir en estado de ebriedad;
-
-b) Conducir bajo los efectos de estupefacientes, psicotrópicos u otras substancias tóxicas:
-
-c) Conducir con aliento alcohólico:
-
-d) Conducir a velocidad inmoderada arriba de los límites permitidos en los ordenamientos de tránsito y vialidad y que como resultado se provoquen accidentes viales;
-
-e) Efectuar competencias de arrancones en la vía pública;
-
-f) Realizar actos de acrobacia en la vía pública.
-
-IX. Multas que se impongan por infracción a las disposiciones de carácter administrativo contenidas en los ordenamientos legales y/o reglamentos cuya aplicación corresponda al Municipio.
-
-X. Se impondrá una multa consistente en el pago del doble valor establecido en el Tabulador de Daños a Especies Vegetales a que se refiere el presente artículo 103, fracción XXI, numeral B., inciso c) de la presente Ley, a toda persona física o moral que sea detectada ocasionando daños en forma total o parcial a las especies vegetales sin contar con la autorización correspondiente.
-
-XI. Las multas que se impongan por cometer Faltas de Policía, se podrán sancionar con montos que van de 3 (tres) a 150 (ciento cincuenta) veces el valor diario de la Unidad de Medida y Actualización (UMA), tomándose en consideración el tipo de falta que se cometió, la reincidencia que pudiese llegar a tener el infractor, así como la peligrosidad del detenido, de conformidad con lo previsto en los artículos 46 y 52 del Reglamento de Justicia Cívica para el Municipio de Aguascalientes.
-
-XII. Participación en la recaudación de multas federales, estatales o de otros municipios. Los aprovechamientos que por el cobro de estas multas correspondan al Municipio, se percibirán de conformidad con el Convenio de Colaboración Administrativa en Materia Fiscal Federal y/o los convenios que al efecto se celebren.
-
-Las multas que imponga el Municipio por infracción a las disposiciones legales y reglamentarias que no sean de carácter fiscal, podrán ser destinadas a cubrir los gastos de operación e inversión de las dependencias encargadas de aplicar o vigilar el cumplimiento de las disposiciones cuya infracción dio lugar a la imposición de la multa, cuando dicho destino así se establezca en las disposiciones legales aplicables.
-
-XIII. Las multas que se impongan a los contribuyentes por infracciones a la legislación urbana se cuantificarán de conformidad con lo siguiente:
-
-INFRACCIÓN MONTO A
-
-PAGAR
-
-EN UMA
-
-1. Por la falta de lona de identificación de la obra. 5 a 10
-
-2. Por no atender citatorio para comparecer ante la
-
-Secretaría de Desarrollo Urbano del Municipio. 5 a 10
-
-3. Por no contar con bitácora y/o planos autorizados
-
-en la obra. 13 a 20
-
-4. Construcción de banqueta, guarnición y pavimento,
-
-sin el permiso correspondiente. 24 a 30
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NUMERAL 5 DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-5. Por INSULTAR Y/O amenazar a los inspectores o autoridades
-
-municipales, en el ejercicio de sus funciones públicas. 100 a 150
-
-6. Por tener material o escombro en la vía pública sin el
-
-permiso correspondiente de la Secretaría. 15 a 20
-
-7. Falta de visitas a la obra y firma de bitácora correspondiente,
-
-por parte del perito responsable. 15 a 20
-
-8. No tramitar la constancia de habitabilidad o terminación
-
-de obra dentro de los 15 días posteriores a la conclusión
-
-de la misma. 15 a 20
-
-9. Por abrir zanja, romper el pavimento o guarniciones,
-
-modificación de banqueta y/o ejecutar construcciones e
-
-instalaciones en vía pública sin autorización,
-
-independientemente de la obligación de reparar el daño. 35 a 45
-
-10. Invasión u obstrucción de la vía pública sin licencia
-
-correspondiente, independientemente de la liberación de la
-
-misma. 30 a 40
-
-11. Por tirar escombro en los lugares no autorizados por la
-
-Secretaría. 30 a 40
-
-12. Por no atender requerimiento para ejecutar obras
-
-y reparaciones en su propiedad, como limpieza de
-
-fincas y predios baldíos y construcción de contra bardas. 50 a 70
-
-13. Demolición de obras de construcción en general
-
-sin licencia. 100 a 150
-
-14. Hacer caso omiso de las órdenes o recomendaciones
-
-hechas al infractor. 100 a 150
-
-15. Por dar al inmueble un uso del suelo diferente al autorizado. 100 a 150
-
-16. Por obstruir los cajones de estacionamiento habilitados
-
-para el servicio. 100 a 150
-
-17. Realizar actividades relativas al giro o uso de suelo
-
-en la vía pública sin autorización. 100 a 150
-
-18. Por no respetar restricciones y/o observaciones
-
-indicadas en la licencia de construcción o la constancia
-
-de alineamiento y compatibilidad urbanística, independientemente
-
-de la obligación de regularizar la situación. 305 a 320
-
-19. Por demolición o afectación de fincas de valor
-
-histórico o arquitectónico. 610 a 630
-
-20. Construir sin respetar el proyecto autorizado
-
-con la licencia. 305 a 320
-
-21. Por no respetar el estado de suspensión o clausura
-
-de la obra. 305 a 320
-
-22. Por construir sin licencia de construcción, el infractor
-
-deberá pagar adicionalmente a los derechos municipales,
-
-por la licencia de regularización de su construcción, el importe
-
-que corresponda al 25% (veinticinco por ciento) del monto
-
-de esos derechos, calculados con base en la superficie
-
-construida sin licencia.
-
-23. Por colocar anuncios permanentes estructurales sin licencia
-
-correspondiente. 500 a 550
-
-24. Por colocar anuncios permanentes semiestructurales
-
-sin licencia correspondiente. 200 a 250
-
-25. Por colocar anuncios permanentes adosados sin licencia
-
-correspondiente. 100 a 150
-
-26. Por colocar anuncios temporales sin el permiso
-
-correspondiente. 50 a 70
-
-27. Por no retirar el anuncio de la vía pública o terreno
-
-particular. 75 a 100
-
-28. Por colocar mobiliario urbano sin autorización por unidad. 50 a 70
-
-29. Por colocar estación terrena para telecomunicaciones
-
-sin constancia de alineamiento y compatibilidad urbanística. 400 a 450
-
-30. Por instalar antena (plato o disco) adosado a estación
-
-terrena sin la autorización correspondiente. 200 a 250
-
-31. Por instalación de estación terrena de telecomunicaciones
-
-en zona prohibida 500 a 550
-
-32. Por falsedad de datos en trámites relacionados con la
-
-autorización de licencia de construcción o la constancia
-
-de alineamiento de estaciones de telecomunicación 200 a 250
-
-33. Por colocar publicidad en la antena 250 a 300
-
-34. Por no contar con la placa de identificación en la
-
-estructura de la antena 15 a 20
-
-XIV. a XXXVII.- [...]
-
 ## TÍTULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 96.
@@ -2237,9 +1993,17 @@ Primero.- El presente Decreto entra en vigor al día siguiente al de su publicac
 
 Segundo.- El H. Congreso del Estado de Nuevo León, deberá hacer las adecuaciones necesarias a sus procedimientos, en un plazo no mayor a 60 días hábiles, a partir de la entrada en vigor del presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+P.O. 15 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-498 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 88 SEGUNDO PÁRRAFO Y 93 SEGUNDO PÁRRAFO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 236. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 65 FRACCIÓN VII; EL NOMBRE DEL CAPÍTULO II DEL TÍTULO QUINTO Y POR ADICIÓN LOS ARTÍCULOS 122 BIS; 122 BIS 1; Y 122 BIS 2 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR ADICIÓN DE UNA FRACCIÓN IV AL ARTÍCULO 78 BIS 1 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 380. SE REFORMA POR MODIFICACIÓN DEL PRIMER PÁRRAFO DEL ARTÍCULO 52 Y POR MODIFICACIÓN AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 61 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-504 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 38 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
 
