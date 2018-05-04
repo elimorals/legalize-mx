@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-12799
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-20"
-last_updated: "2018-04-20"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE MAYO DE 2018 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SEGUNDA PARTE DEL PERIÓDICO OFICIAL DEL 4 DE MAYO DE 2018.]</small>
 
 Ley publicada en la Cuarta Parte al Número 80 del Periódico Oficial del Estado de Guanajuato, el viernes 20 de abril de 2018.
 
@@ -1035,6 +1035,8 @@ No se podrán solicitar cargos adicionales ni diferentes a los aquí señalados.
 
 Diferimiento y suspensión del fallo
 
+> <small>(F. DE E., P.O. 4 DE MAYO DE 2018)</small>
+
 ###### Artículo 64.
 
 El ente público convocante emitirá un dictamen de evaluación que servirá como fundamento para el fallo, en el que se harán constar los resultados de la evaluación de las propuestas y las razones que hubo para admitirlas o desecharlas.
@@ -1103,7 +1105,7 @@ Procedimientos de contratación diversos a la licitación pública
 
 ###### Artículo 68.
 
-El ente público convocante, dentro de los quince días hábiles siguientes al acto de presentación y apertura de las propuestas emitirá, con base en el dictamen de evaluación a que se refiere esta Ley, el fallo de la licitación. Este plazo se podrá diferir hasta diez días hábiles por causas justificadas, informando a los participantes de tal decisión.
+El ente público convocante, dentro de los quince días hábiles siguientes al acto de presentación y apertura de las propuestas emitirá, con base en el dictamen de evaluación a que se refiere esta Ley, el fallo de la licitación. Este plazo se podrá diferir hasta quince días hábiles por causas justificadas, informando a los participantes de tal decisión.
 
 El fallo podrá suspenderse por el tiempo que sea necesario, siempre que medie causa justificada, en los términos del reglamento.
 
