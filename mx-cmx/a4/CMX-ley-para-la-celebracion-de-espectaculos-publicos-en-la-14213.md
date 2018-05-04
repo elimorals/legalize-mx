@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2017-11-02"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -47,8 +47,6 @@ LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL
 ###### Artículo 1o.
 
 Las disposiciones de la presente Ley son de orden e interés públicos y tienen por objeto regular la celebración de Espectáculos públicos en el Distrito Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -136,8 +134,6 @@ III. Expedir acuerdos y circulares en los que se consignen lineamientos y criter
 
 IV. Las demás que le confiera la Ley y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 6o
@@ -170,8 +166,6 @@ V. Vigilar el funcionamiento de las Comisiones de Espectáculos Públicos a que 
 
 VI. Las demás que le confiere la Ley y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 8o.
@@ -190,19 +184,13 @@ IV. Instruir a los verificadores facultados de vigilar el cumplimiento de esta L
 
 V. Aplicar las medidas de seguridad a que se refiere esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 VI. Aplicar las sanciones previstas en esta Ley y en sus disposiciones reglamentarias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 VII. Notificar a la Secretaría de Protección Civil sobre la realización de un espectáculo público con aforo mayor a quinientas personas, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -276,8 +264,6 @@ XVI. Vigilar que durante la celebración del Espectáculo público se conserve e
 
 XVII. Contar con el Programa Especial de Protección Civil a que alude la Ley de Protección Civil para el Distrito Federal y su Reglamento, cuando éste se requiera para la celebración del Espectáculo público de que se trate;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 10 DE DICIEMBRE DE 2008)</small>
 
 XVII Bis. Informar al espectador de manera escrita, visual y/o sonora al inicio de la celebración de cada Espectáculo Público, cualquiera que sea su giro, sobre las medidas de seguridad en materia de protección civil con las que cuenta el establecimiento mercantil o el lugar en el que se desarrolla, así como avisar sobre la señalización de salidas de emergencia, las zonas de seguridad y los procedimientos a seguir en caso de que ocurra una emergencia, siniestro o desastre.
@@ -329,6 +315,12 @@ V. Espectáculo Circense y
 VI. Espectáculos masivos, cualquiera que sea su tipo, cuando el número de espectadores sea superior a 2,500 personas.
 
 Su celebración se sujetará a lo ordenado por la Ley, los reglamentos específicos que se deriven de ésta para cada tipo de Espectáculo público y las demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 13 Bis.
+
+Queda prohibida la celebración de espectáculos públicos o privados, incluyendo los espectáculos a domicilio, fijos o itinerantes, con cualquier especie de mamíferos marinos, así como el uso de mamíferos marinos con fines económicos de manejo, adiestramiento, entretenimiento y terapia.
 
 ###### Artículo 14.
 
@@ -399,8 +391,6 @@ III. Los horarios y fechas en que se pretenda llevar a cabo;
 IV. El precio de las localidades que se expenderán, y
 
 V. El aforo autorizado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1034,8 +1024,6 @@ II. Las demás que se señalen en los Reglamentos correspondientes.
 
 ### CAPÍTULO I. De la Verificación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 75.
@@ -1047,8 +1035,6 @@ Corresponde a las Delegaciones y a la Secretaría de Protección Civil, en el á
 La contravención a las disposiciones de la Ley dará lugar a la imposición de medidas de seguridad, sanciones económicas, clausura del establecimiento mercantil, suspensión del Espectáculo público, y revocación de oficio del permiso correspondiente, según sea el caso, de conformidad con las siguientes disposiciones.
 
 ### CAPÍTULO II. De las Medidas de Seguridad
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1080,7 +1066,7 @@ Para la fijación de las sanciones, se tomará en cuenta la gravedad de la infra
 
 Las sanciones económicas deberán fijarse entre el mínimo y máximo establecido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN TRANSITORIO ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE ADICONAN (SIC), DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 4 DE MAYO DE 2018, TODAS AQUELLAS REFERENCIAS REALIZADAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO SE ENTENDERÁN HECHAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, EN TANTO SE MODIFIQUEN LOS ARTÍCULOS QUE A AQUELLA HACEN MENCIÓN LAS PRESENTES LEYES.]</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1088,7 +1074,7 @@ Las sanciones económicas deberán fijarse entre el mínimo y máximo establecid
 
 Se sancionará con el equivalente de 50 a 100 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones III, V y XII; 35 fracciones IV y V; 43 fracción IV; 49 fracción III y 52, de la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN TRANSITORIO ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE ADICONAN (SIC), DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 4 DE MAYO DE 2018, TODAS AQUELLAS REFERENCIAS REALIZADAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO SE ENTENDERÁN HECHAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, EN TANTO SE MODIFIQUEN LOS ARTÍCULOS QUE A AQUELLA HACEN MENCIÓN LAS PRESENTES LEYES.]</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1096,19 +1082,17 @@ Se sancionará con el equivalente de 50 a 100 veces la Unidad de Cuenta de la Ci
 
 Se sancionará con el equivalente de 100 a 200 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones II, IV, VI, X, XIII, XVIII, XX, XXI, XXIII, XXIV, XXV y XXVI; 16, 35 fracciones I, II y III; 44, 45, 47, 49 fracciones I, II y IV; 50, 51, 53 y 58 último párrafo, de la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE MAYO DE 2018)</small>
 
 ###### Artículo 82.
 
-Se sancionará con el equivalente de 200 a 400 veces la Unidad de Cuenta de la Ciudad de México vigente, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones I, VII, VIII, XI, XIV, XV, XVI, XVII Bis, XIX y XXII; 15, 17, 18, 33, 37 fracción I; 48, 54, 55 y 60 de la Ley.
+Se sancionará con el equivalente de 2000 a 4000 veces la unidad de medida y actualización, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 12 fracciones I, VII, VIII, XI, XIV, XV, XVI, XVII Bis, XIX y XXII; 13 bis; 15, 17, 18, 33, 37 fracción I; 48, 54, 55 y 60 de la Ley.
 
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2014)</small>
 
 Se sancionará con el equivalente de 9,000 a 12,000 días multa por violaciones a lo dispuesto en la fracción XI Bis del artículo 12.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN TRANSITORIO ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE ADICONAN (SIC), DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 4 DE MAYO DE 2018, TODAS AQUELLAS REFERENCIAS REALIZADAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO SE ENTENDERÁN HECHAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, EN TANTO SE MODIFIQUEN LOS ARTÍCULOS QUE A AQUELLA HACEN MENCIÓN LAS PRESENTES LEYES.]</small>
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1120,13 +1104,11 @@ Las violaciones a esta Ley no previstas en los artículos que anteceden se sanci
 
 En caso de reincidir en alguna de las infracciones sancionadas económicamente por la Ley, se aplicará el doble de la multa impuesta originalmente, y en caso de que el infractor incurriera por tercera ocasión en la misma falta, procederá además la clausura de las instalaciones y revocación de oficio del permiso, según sea el caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE MAYO DE 2018)</small>
 
 ###### Artículo 85.
 
-Sin perjuicio de la aplicación de las sanciones pecuniarias a que se refiere este Capítulo, la Delegación, o en su caso, la Secretaría de Protección Civil, suspenderá la realización de Espectáculos públicos y clausurará las instalaciones en donde se lleven a cabo, en los siguientes casos:
+Sin perjuicio de la aplicación de las sanciones pecuniarias a que se refiere este Capítulo, las Demarcaciones Territoriales, o en su caso, la Secretaria de Protección Civil, suspenderá la realización de espectáculos públicos, masivos y privados, y clausurará las instalaciones en donde se lleven a cabo, en los siguientes casos:
 
 I. Por no presentar el Aviso o por carecer del Permiso necesarios para la celebración de un Espectáculo público, según sea el caso;
 
@@ -1150,6 +1132,10 @@ X. Por manifestar datos falsos en la solicitud de Permiso para presentar un Espe
 
 XI. Cuando con motivo de la celebración de un Espectáculo público se ponga en peligro la seguridad, salubridad u orden públicos, o la integridad de los Participantes y Espectadores.
 
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+
+XII. Por incumplir lo establecido en el artículo 13 bis de la presente Ley.
+
 ###### Artículo 86.
 
 En los casos a que se refieren las fracciones I, II, III, IV, V, VII, IX y XI, del artículo anterior, el estado de clausura será permanente, y podrá ser levantado únicamente cuando haya desaparecido el motivo que hubiera dado lugar a su imposición.
@@ -1166,15 +1152,11 @@ En los casos a que se refieren las fracciones I, II, III, IV, V, VI, IX y XI del
 
 La Clausura o suspensión inmediata de establecimientos mercantiles y Espectáculos públicos se sujetará al siguiente procedimiento:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
 I. Se iniciará cuando la Delegación, o en su caso, la Secretaría de Protección Civil, detecte que se actualiza alguno de los supuestos señalados en el artículo anterior, por medio de visitas de verificación, análisis documental o queja ciudadana, citando a los Titulares del Permiso, mediante notificación personal, con excepción de lo señalado en el artículo 98 de la Ley, en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que considere pertinentes, dentro de las 24 horas siguientes a la notificación;
 
 II. Lo relativo a la notificación, las pruebas y el desahogo de la audiencia, se sujetará a lo dispuesto por los artículos 93 a 95 y 98 a 101 de la Ley, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1220,8 +1202,6 @@ En los casos no previstos en el artículo anterior, la Delegación no podrá rev
 
 ### CAPÍTULO IV. De la Revocación de Oficio de los Permisos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 92.
@@ -1229,8 +1209,6 @@ En los casos no previstos en el artículo anterior, la Delegación no podrá rev
 El procedimiento de revocación de oficio de los permisos para la celebración de Espectáculos públicos, se iniciará cuando la Delegación, o en su caso, la Secretaría de Protección Civil, detecte a través de visitas de verificación, análisis documental o queja ciudadana, que el Titular ha incurrido en alguna de las causas de revocación de oficio que establece esta Ley, citándolo mediante notificación personal en la que se le hagan saber las causas que originaron la instauración del procedimiento, requiriéndolo para que comparezca a hacer valer lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes, dentro de los dos días hábiles siguientes a la notificación.
 
 En la cédula de notificación se expresará el lugar, día y hora en que se verificará la audiencia de pruebas y alegatos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1302,7 +1280,7 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a dieciocho de di
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY]</small>
 
 G.O. 21 DE ENERO DE 2005.
 
@@ -1395,3 +1373,19 @@ c) Especialidad y
 d) Evento que se cubre.
 
 Segundo.- El presente proyecto de decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICONAN (SIC), DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Los establecimientos dedicados a la celebración de espectáculos públicos o privados, incluyendo los espectáculos a domicilio, fijos o itinerantes, con cualquier especie de mamíferos marinos, así como el uso y el de mamíferos marinos con fines económicos de manejo, adiestramiento, entretenimiento y terapia, contarán con un plazo mínimo de 3 meses hasta seis meses después de la entrada en vigor del presente Decreto para evaluar a los ejemplares y resguardarlos con base a la normatividad vigente que para tales efectos determine la Secretaría del Medio Ambiente y Recursos Naturales, o bien trasladarlos a santuarios que tengan manejo de mamíferos marinos, previo estudio de la reubicación de ejemplares, en cuyo caso se deberá evaluar el hábitat de destino y las condiciones de los ejemplares, en los términos señalados en la normatividad federal vigente.
+
+###### ARTÍCULO TERCERO.
+
+Todas aquellas referencias realizadas a la Unidad de Cuenta de la Ciudad de México se entenderán hechas a la Unidad de Medida y Actualización, en tanto se modifiquen los artículos que a aquella hacen mención las presentes leyes.
