@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-desarrollo-economico-813
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-04"
-last_updated: "2011-03-04"
+last_updated: "2018-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 4 de marzo de 2011.
 
@@ -472,3 +474,23 @@ SECRETARIO GENERAL DE GOBIERNO
 ALEJANDRO MUNGARAY LAGARDA
 
 SECRETARIO DE DESARROLLO ECONÓMICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO ECONÓMICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+ARTÍCULO SEGUNDO Se abroga el Reglamento Interno (sic) Secretaría de Desarrollo Económico, publicado en el Periódico Oficial del Estado de fecha 4 de marzo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Desarrollo Económico, a partir de la entrada en vigor del presente reglamento deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+###### ARTÍCULO CUARTO.
+
+La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
