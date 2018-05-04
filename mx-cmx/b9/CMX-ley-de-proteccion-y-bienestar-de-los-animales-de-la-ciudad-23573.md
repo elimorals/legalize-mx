@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2017-06-27"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MAYO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -120,9 +120,9 @@ IV. Deportivos;
 
 V. Adiestrados;
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2018)</small>
 
-VI. Guía;
+VI. Perros de Asistencia.
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -182,281 +182,293 @@ Las autoridades del Distrito Federal deben auxiliar a las federales para aplicar
 
 Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental del Distrito Federal, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección a los animales en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
 
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
 
-I. Animal: Ser vivo no humano, pluricelular, sintiente, consciente, constituido por diferentes tejidos, con un sistema nervioso especializado que le permita moverse y reaccionar de manera coordinada ante los estímulos;
-
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2017)</small>
-
-II. Animal abandonado o en situación de abandono: El que queda sin el cuidado o protección de sus propietarios o poseedores, poniendo en riesgo su integridad física o vida así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-III. Animal adiestrado: Los animales que son entrenados por personas debidamente autorizadas por autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto que éstos realicen funciones de vigilancia, protección, guardia detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, terapia, asistencia, entretenimiento y demás acciones análogas;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-IV. Animal deportivo: Los animales utilizados en la práctica de algún deporte;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-V. Animal Doméstico: El animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de este para su subsistencia y que no se trate de animales silvestres;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-V Bis. Animal en Exhibición. Todos aquellos que se encuentran en cautiverio en zoológicos y espacios similares de propiedad pública o privada;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-V Bis 1. Animal para venta: Todo aquel destinado al comercio en los establecimientos autorizados para tal efecto;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-VI. Animal feral: El animal doméstico que al quedar fuera del control del ser humano se establecen en el hábitat de la vida silvestre, así como sus descendientes nacidos en este hábitat;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-VII. Animal guía: Los animales que son utilizados o adiestrados para ayudar al desarrollo de las personas con cualquier tipo de discapacidad;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-VIII. Animal para abasto: Animales cuyo destino final es el sacrificio para el consumo de su carne o derivados;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-IX. Animal para espectáculos. Los animales, que son utilizados para o en un espectáculo público o privado, fijo o itinerante, bajo el adiestramiento del ser humano, o en la práctica de algún deporte;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-X. Animal para la investigación científica: Animal que es utilizado para la generación de nuevos conocimientos, por instituciones científicas y de enseñanza superior;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XI. Animal para monta, carga y tiro: Los caballos, yeguas, ponis, burros, mulas, asnos, reses, sus mezclas y demás análogos que son utilizados por el ser humano para transportar personas o productos o para realizar trabajos de tracción y/o que su uso reditúe beneficios económicos a su propietario, poseedor o encargado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XI Bis. Animal de compañía: Todo animal mantenido por el humano para su acompañamiento y que vive bajo sus cuidados, sin riesgo para su vida y la de la comunidad;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XI Bis 1. Animal en adopción: Aquel animal en condiciones de ser entregado a otra persona para que esta asuma la responsabilidad de su cuidado;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XII. Animal Silvestre.- Especies no domésticas sujetas a procesos evolutivos y que se desarrollan ya sea en su hábitat, o poblaciones e individuos de éstas que se encuentran bajo el control del ser humano;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XII Bis. Agencia: Agencia de Atención Animal de la Ciudad de México;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XIII. Asociaciones protectoras de animales. Las asociaciones de asistencia privada, organizaciones no gubernamentales y legalmente constituidas, con conocimiento sobre el tema que dediquen sus actividades a la asistencia, protección y bienestar de los animales, deberán inscribirse en el Registro de la Secretaría, presentando sus Actas Constitutivas, su objeto social y las autorizaciones, como Asociación Civil, en términos de la normatividad aplicable;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XIV. Autoridad competente: La autoridad federal y las del Distrito Federal a las que se les otorguen facultades expresas en esta ley, reglamentos y demás ordenamientos jurídicos aplicables;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XV. Aves de presa: Aves carnívoras depredadoras y que pueden ser adiestradas;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XVI. Aves urbanas: Conjunto de especies de aves que habitan en libertad en el área urbana;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XVI Bis. Animales para Zooterapia. Son aquellos que conviven con una persona o con un grupo humano, con fines terapéuticos, para algún tipo de enfermedades neurológicas, psicológicas o siquiátricas, entre otras;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XVII. Bienestar Animal: Estado en que el animal tiene satisfechas sus necesidades de salud, de comportamiento y fisiológicas frente a cambios en su ambiente, generalmente impuestos por el ser humano;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XVII Bis. Bozal: Estructura de cuero o plástico, tipo cesto utilizado para cubrir el hocico de un animal que le impide morder, pero lo suficientemente abierto para permitirle respirar;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XVIII. Campañas: Acción pública realizada de manera periódica por alguna autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concienciación entre la población para la protección y el trato digno y respetuoso a los animales;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XVIII Bis. Certificados de Compra. Las constancias de venta, expedidas por los propietarios de comercios legalmente constituidos, en los que consten: número de identificación del animal; raza, edad; nombre del propietario, teléfono y el domicilio habitual del animal; así como el microchip;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XVIII Bis 1. Centros de Atención Canina y Felina: Todos los establecimientos operados por la Secretaría de Salud que llevan a cabo actividades orientadas a la prevención y control de la rabia en perros y gatos, a que hace referencia el inciso a), fracción I, del artículo 175 de la Ley de Salud del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XIX. Centros de control animal, asistencia y zoonosis. Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados, o ferales, que pueden ofrecer los servicios de esterilización, orientación y clínica a los animales de la ciudadanía que así lo requieran, centros antirrábicos y demás que realicen acciones análogas;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XIX Bis. Centro Hospitalario de Asistencia para la Atención y Protección de los Animales del Distrito Federal. Dependiente de la Secretaría de Salud del Distrito Federal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XIX Bis 1. Clínicas Veterinarias en las Demarcaciones Territoriales: Los establecimientos públicos para el servicio de atención veterinaria de perros y gatos, a que hace referencia el inciso b), fracción I, del artículo 175 de la Ley de Salud del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XX. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinan las normas oficiales mexicanas y las normas ambientales;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXI. Crueldad: Acto de brutalidad, sádico o zoofílico contra cualquier animal, ya sea por acción directa o por negligencia;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XXI Bis. Criador: La persona física o moral que realiza las actividades de reproducción, selección o crianza para el mejoramiento y fomento zootécnico de los animales;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XXI Bis 1. Criadero: Lugar destinado a la reproducción y crianza con fines de venta, cuya actividad se encuentra regulada por esta Ley y demás legislación aplicable;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXII. Delegación: Los órganos político-administrativos en cada una de las demarcaciones territoriales del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXIII. Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la habitual;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXIV. Espacios idóneos en la vía pública: Las áreas verdes, vías secundarias, espacios públicos y áreas comunes;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXIV Bis. Fauna. Es el conjunto de animales, característicos de una región, que viven y se desarrollan en un mismo hábitat;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXIV Bis 1. Hábitat. Es un espacio del Medio Ambiente físico, en el que se desarrollan organismos, especies, población o comunidades de animales, en un determinado tiempo;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXIV Bis 2. Insectos productores. Especies biológicas clasificados como insectos, que por sus propias características generan materias primas, de utilidad para el hombre, produciendo miel, cera y pigmentos, que son empleados para consumo animal o humano y para producción artesanal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
-
-XXIV Bis 3. Establecimiento comercial autorizado: Todo aquel local o inmueble utilizado para el comercio de animales de compañía, que cumple con los requisitos legales para su funcionamiento;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXV. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades del Distrito Federal en las materias de la presente Ley;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXVI. Ley: La Ley de Protección a los Animales del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXVII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que, de acuerdo a su especie pueden realizar los animales sin que se comprometa su estado de bienestar;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXVIII. Maltrato. Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal o afectar gravemente su salud, así como la sobreexplotación de su trabajo;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXVIII Bis. Actitud Permanente y de Respeto para los Animales. Que incluye todas y cada una de las disposiciones, contenidas en esta Ley y en otros ordenamientos análogos, con disposiciones normativas, para evitar el dolor, la angustia o el desamparo, durante su propiedad, posesión, captura, desarrollo, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXIX. Mascota: ejemplar de una especie doméstica o silvestre utilizado como compañía y recreación para el ser humano;
+I. Acuario: Una instalación, espacio o recipiente fijo abierto al público capaz de contener agua y dotado de los componentes mecánicos que hacen posible la recreación de ambientes subacuáticos de agua dulce, marina o salobre y alberga flora y fauna correspondiente a esos ambientes, como peces, invertebrados y plantas.
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2017)</small>
 
-XXIX Bis. Mecanismo de identificación: Aquel dispositivo adquirido por quien se ostente como tenedor responsable, con la mejor tecnología accesible y disponible que sea de utilidad para el registro gratuito de animales de compañía;
+II. Animal: Ser vivo no humano, pluricelular, sintiente, consciente, constituido por diferentes tejidos, con un sistema nervioso especializado que le permita moverse y reaccionar de manera coordinada ante los estímulos;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2017)</small>
+
+III. Animal abandonado o en situación de abandono: El que queda sin el cuidado o protección de sus propietarios o poseedores, poniendo en riesgo su integridad física o vida así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+IV. Animal adiestrado: Los animales que son entrenados por personas debidamente autorizadas por autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto que éstos realicen funciones de vigilancia, protección, guardia detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, terapia, asistencia, entretenimiento y demás acciones análogas;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+V. Animal deportivo: Los animales utilizados en la práctica de algún deporte;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+VI. Animal Doméstico: El animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de este para su subsistencia y que no se trate de animales silvestres;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+VI BIS. Animal en Exhibición. Todos aquellos que se encuentran en cautiverio en zoológicos y espacios similares de propiedad pública o privada;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
-XXIX Bis 1. Medicina Preventiva: Acciones llevadas a cabo por Médicos Veterinarios Zootecnistas en legal ejercicio de su profesión encaminadas a mantener la salud integral de los animales;
+VI BIS 1. Animal para venta: Todo aquel destinado al comercio en los establecimientos autorizados para tal efecto;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXX. Normas ambientales: Las normas ambientales para el Distrito Federal en materia de protección a los animales;
+VII. Animal feral: El animal doméstico que al quedar fuera del control del ser humano se establecen en el hábitat de la vida silvestre, así como sus descendientes nacidos en este hábitat;
+
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2018)</small>
+
+VIII. Perro de Asistencia y sus clasificaciones: el adiestrado individualmente en instituciones y centros especializados, nacionales o del extranjero, para llevar a cabo actividades de apoyo a personas con discapacidad física, mental y sensorial;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXXI. Personal capacitado: Personas que prestan sus servicios y que cuentan con conocimientos y capacitación suficiente para la protección de los animales y cuyas actividades estén respaldadas por la autorización expedida por la autoridad competente;
+IX. Animal para abasto: Animales cuyo destino final es el sacrificio para el consumo de su carne o derivados;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+X. Animal para espectáculos. Los animales, que son utilizados para o en un espectáculo público o privado, fijo o itinerante, bajo el adiestramiento del ser humano, o en la práctica de algún deporte;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+
+X BIS. Perro de Asistencia en proceso de entrenamiento: el que acompañado por un adiestrador debidamente acreditado por institución o centro especializado, nacional o del extranjero, se encuentra haciendo uso del Espacio Público, establecimientos mercantiles y transportes, sean de carácter público o privado, para reforzar las habilidades para las que fue adiestrado y reconocer entornos específicos;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXXII. Plaga: Población excesiva de alguna especie animal que tiene un efecto dañino sobre el medio ambiente, otras poblaciones animales, o el ser humano;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXXII Bis. Prevención. Conjunto de acciones y medidas programáticas, con el propósito de evitar la transmisión de enfermedades propias de las especies a los seres humanos o a los animales, procurando permanentemente la conservación del equilibrio ecológico;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXXII Bis 1. Perros de Pelea. Especie de canidos con características genéticas, que los hacen proclives al ataque; generalmente entrenados;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXXII Bis 2. Pelea de Perros. Espectáculo público o privado, en el que se enfrentan perros con características específicas, que azuzados, generan crueldad entre los animales;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XXXII Bis 3. Procedimientos Eutanásicos. Sacrificio de los animales, bajo responsiva de médico veterinario, con métodos humanitarios, con aplicación de inyección de barbitúricos, por inhalación, para realizar el sacrificio y de este modo sufra lo menos posible;
+XI. Animal para la investigación científica: Animal que es utilizado para la generación de nuevos conocimientos, por instituciones científicas y de enseñanza superior;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXXIII. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+XII. Animal para monta, carga y tiro: Los caballos, yeguas, ponis, burros, mulas, asnos, reses, sus mezclas y demás análogos que son utilizados por el ser humano para transportar personas o productos o para realizar trabajos de tracción y/o que su uso reditúe beneficios económicos a su propietario, poseedor o encargado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
-XXXIII Bis. Registro Único de Animales de Compañía de la Ciudad de México: El registro gratuito en diferentes modalidades que se determinen en (sic) Reglamento. Lo anterior derivado de la adquisición de un animal de compañía, o el registro que se haga durante las campañas masivas en materia de vacunación, antirrábicas, sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización que lleven a cabo las autoridades de la Ciudad de México, en el cual constarán los datos de identificación las personas físicas o morales que posean un animal de compañía, el registro se apoyará de todas las instancias de Gobierno que manejen datos de animales de compañía, aplicándose la legislación en materia de protección de datos personales;
+XII BIS. Animal de compañía: Todo animal mantenido por el humano para su acompañamiento y que vive bajo sus cuidados, sin riesgo para su vida y la de la comunidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XII BIS 1. Animal en adopción: Aquel animal en condiciones de ser entregado a otra persona para que esta asuma la responsabilidad de su cuidado;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXXIV. Reglamento: El Reglamento de la Ley de Protección a los Animales del Distrito Federal;
+XIII. Animal Silvestre.- Especies no domésticas sujetas a procesos evolutivos y que se desarrollan ya sea en su hábitat, o poblaciones e individuos de éstas que se encuentran bajo el control del ser humano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XIII BIS. Agencia: Agencia de Atención Animal de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Asociaciones protectoras de animales. Las asociaciones de asistencia privada, organizaciones no gubernamentales y legalmente constituidas, con conocimiento sobre el tema que dediquen sus actividades a la asistencia, protección y bienestar de los animales, deberán inscribirse en el Registro de la Secretaría, presentando sus Actas Constitutivas, su objeto social y las autorizaciones, como Asociación Civil, en términos de la normatividad aplicable;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXXV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, utilizando métodos físicos o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
+XV. Autoridad competente: La autoridad federal y las del Distrito Federal a las que se les otorguen facultades expresas en esta ley, reglamentos y demás ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XVI. Aves de presa: Aves carnívoras depredadoras y que pueden ser adiestradas;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XVII. Aves urbanas: Conjunto de especies de aves que habitan en libertad en el área urbana;
 
 > <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-XXXV Bis. Salud. El equilibrio armónico, biológico, psicológico y social, de las especies y del hombre, representado por la ausencia de enfermedades y el pleno ejercicio de sus facultades;
+XVII BIS. Animales para Zooterapia. Son aquellos que conviven con una persona o con un grupo humano, con fines terapéuticos, para algún tipo de enfermedades neurológicas, psicológicas o siquiátricas, entre otras;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXXVI. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal;
+XVIII. Bienestar Animal: Estado en que el animal tiene satisfechas sus necesidades de salud, de comportamiento y fisiológicas frente a cambios en su ambiente, generalmente impuestos por el ser humano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XVIII BIS. Bozal: Estructura de cuero o plástico, tipo cesto utilizado para cubrir el hocico de un animal que le impide morder, pero lo suficientemente abierto para permitirle respirar;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXXVII. Secretaría de Salud: La Secretaría de Salud del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
-
-XXXVIII. Seguridad Pública: La Secretaría de Seguridad Pública del Distrito Federal;
+XIX. Campañas: Acción pública realizada de manera periódica por alguna autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concienciación entre la población para la protección y el trato digno y respetuoso a los animales;
 
 > <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
-XXXVIII Bis. Sobrepoblación Canina y Felina. Existencia desproporcional y en exceso de especies domésticas que causan desequilibrio zoológico y ambiental.
+XIX BIS. Certificados de Compra. Las constancias de venta, expedidas por los propietarios de comercios legalmente constituidos, en los que consten: número de identificación del animal; raza, edad; nombre del propietario, teléfono y el domicilio habitual del animal; así como el microchip;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XIX BIS 1. Centros de Atención Canina y Felina: Todos los establecimientos operados por la Secretaría de Salud que llevan a cabo actividades orientadas a la prevención y control de la rabia en perros y gatos, a que hace referencia el inciso a), fracción I, del artículo 175 de la Ley de Salud del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XX. Centros de control animal, asistencia y zoonosis. Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados, o ferales, que pueden ofrecer los servicios de esterilización, orientación y clínica a los animales de la ciudadanía que así lo requieran, centros antirrábicos y demás que realicen acciones análogas;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XX BIS. Centro Hospitalario de Asistencia para la Atención y Protección de los Animales del Distrito Federal. Dependiente de la Secretaría de Salud del Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XX BIS 1. Clínicas Veterinarias en las Demarcaciones Territoriales: Los establecimientos públicos para el servicio de atención veterinaria de perros y gatos, a que hace referencia el inciso b), fracción I, del artículo 175 de la Ley de Salud del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XXXIX. Sufrimiento: La carencia de bienestar animal causada por diversos motivos que pone en riesgo la salud, integridad o vida del animal;
+XXI. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinan las normas oficiales mexicanas y las normas ambientales;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XL. Trato digno y respetuoso: Las medidas que esta Ley, su reglamento, las normas ambientales y las normas oficiales mexicanas establecen para evitar dolor o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+XXII. Crueldad: Acto de brutalidad, sádico o zoofílico contra cualquier animal, ya sea por acción directa o por negligencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XXII BIS. Criador: La persona física o moral que realiza las actividades de reproducción, selección o crianza para el mejoramiento y fomento zootécnico de los animales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XXII BIS 1. Criadero: Lugar destinado a la reproducción y crianza con fines de venta, cuya actividad se encuentra regulada por esta Ley y demás legislación aplicable;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XLI. Vivisección: Realizar un procedimiento quirúrgico a un animal vivo en condiciones asépticas y bajo los efectos de un anestésico apropiado, considerando en todo momento el bienestar del animal, con el objeto de ampliar los conocimientos acerca de los procesos patológicos y fisiológicos de los animales y los humanos; y
+XXIII. Delegación: Los órganos político-administrativos en cada una de las demarcaciones territoriales del Distrito Federal;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
-XLII. Zoonosis: Enfermedad transmisible de los animales a los seres humanos.
+XXIV. Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la habitual;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXV. Espacios idóneos en la vía pública: Las áreas verdes, vías secundarias, espacios públicos y áreas comunes;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXV BIS. Fauna. Es el conjunto de animales, característicos de una región, que viven y se desarrollan en un mismo hábitat;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXV BIS 1. Hábitat. Es un espacio del Medio Ambiente físico, en el que se desarrollan organismos, especies, población o comunidades de animales, en un determinado tiempo;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXV BIS 2. Insectos productores. Especies biológicas clasificados como insectos, que por sus propias características generan materias primas, de utilidad para el hombre, produciendo miel, cera y pigmentos, que son empleados para consumo animal o humano y para producción artesanal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XXV BIS 3. Establecimiento comercial autorizado: Todo aquel local o inmueble utilizado para el comercio de animales de compañía, que cumple con los requisitos legales para su funcionamiento;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXVI. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades del Distrito Federal en las materias de la presente Ley;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXVII. Ley: La Ley de Protección a los Animales del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXVIII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que, de acuerdo a su especie pueden realizar los animales sin que se comprometa su estado de bienestar;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXIX. Maltrato. Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal o afectar gravemente su salud, así como la sobreexplotación de su trabajo;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXIX BIS. Actitud Permanente y de Respeto para los Animales. Que incluye todas y cada una de las disposiciones, contenidas en esta Ley y en otros ordenamientos análogos, con disposiciones normativas, para evitar el dolor, la angustia o el desamparo, durante su propiedad, posesión, captura, desarrollo, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXX. Mascota: ejemplar de una especie doméstica o silvestre utilizado como compañía y recreación para el ser humano;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2017)</small>
+
+XXX BIS. Mecanismo de identificación: Aquel dispositivo adquirido por quien se ostente como tenedor responsable, con la mejor tecnología accesible y disponible que sea de utilidad para el registro gratuito de animales de compañía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XXX BIS 1. Medicina Preventiva: Acciones llevadas a cabo por Médicos Veterinarios Zootecnistas en legal ejercicio de su profesión encaminadas a mantener la salud integral de los animales;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXI. Normas ambientales: Las normas ambientales para el Distrito Federal en materia de protección a los animales;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXII. Personal capacitado: Personas que prestan sus servicios y que cuentan con conocimientos y capacitación suficiente para la protección de los animales y cuyas actividades estén respaldadas por la autorización expedida por la autoridad competente;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXIII. Plaga: Población excesiva de alguna especie animal que tiene un efecto dañino sobre el medio ambiente, otras poblaciones animales, o el ser humano;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXIII BIS. Prevención. Conjunto de acciones y medidas programáticas, con el propósito de evitar la transmisión de enfermedades propias de las especies a los seres humanos o a los animales, procurando permanentemente la conservación del equilibrio ecológico;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXIII BIS 1. Perros de Pelea. Especie de canidos con características genéticas, que los hacen proclives al ataque; generalmente entrenados;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXIII BIS 2. Pelea de Perros. Espectáculo público o privado, en el que se enfrentan perros con características específicas, que azuzados, generan crueldad entre los animales;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXIII BIS 3. Procedimientos Eutanásicos. Sacrificio de los animales, bajo responsiva de médico veterinario, con métodos humanitarios, con aplicación de inyección de barbitúricos, por inhalación, para realizar el sacrificio y de este modo sufra lo menos posible;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXIV. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
+
+XXXIV BIS. Registro Único de Animales de Compañía de la Ciudad de México: El registro gratuito en diferentes modalidades que se determinen en (sic) Reglamento. Lo anterior derivado de la adquisición de un animal de compañía, o el registro que se haga durante las campañas masivas en materia de vacunación, antirrábicas, sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización que lleven a cabo las autoridades de la Ciudad de México, en el cual constarán los datos de identificación las personas físicas o morales que posean un animal de compañía, el registro se apoyará de todas las instancias de Gobierno que manejen datos de animales de compañía, aplicándose la legislación en materia de protección de datos personales;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXV. Reglamento: El Reglamento de la Ley de Protección a los Animales del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+
+XXXV BIS. Registro de Perros de Asistencia: instrumento creado y administrado por la Secretaría de Salud, en el que se integran los datos de los ejemplares, sus usuarios y usuarias. En caso de menores de edad o incapaces, de quien jurídicamente los represente;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXVI. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, utilizando métodos físicos o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXVI BIS. Salud. El equilibrio armónico, biológico, psicológico y social, de las especies y del hombre, representado por la ausencia de enfermedades y el pleno ejercicio de sus facultades;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXVII. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXVIII. Secretaría de Salud: La Secretaría de Salud del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XXXIX. Seguridad Pública: La Secretaría de Seguridad Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+
+XXXIX BIS. Sobrepoblación Canina y Felina. Existencia desproporcional y en exceso de especies domésticas que causan desequilibrio zoológico y ambiental.
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XL. Sufrimiento: La carencia de bienestar animal causada por diversos motivos que pone en riesgo la salud, integridad o vida del animal;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XLI. Trato digno y respetuoso: Las medidas que esta Ley, su reglamento, las normas ambientales y las normas oficiales mexicanas establecen para evitar dolor o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XLII. Vivisección: Realizar un procedimiento quirúrgico a un animal vivo en condiciones asépticas y bajo los efectos de un anestésico apropiado, considerando en todo momento el bienestar del animal, con el objeto de ampliar los conocimientos acerca de los procesos patológicos y fisiológicos de los animales y los humanos; y
+
+> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+
+XLIII. Zoonosis: Enfermedad transmisible de los animales a los seres humanos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -1220,6 +1232,14 @@ Quedan exceptuadas de las disposiciones establecidas en la fracción IX del pres
 
 Las excepciones que establece el párrafo inmediato anterior, respecto a Corridas de Toros, Novillos, Jaripeos, Charreadas, Carrera de Caballos o Perros; espectáculos de adiestramiento y entretenimiento familiar, en que sean víctimas de abuso o maltrato los animales; se atenderá a petición de parte o denuncia ciudadana, ante el Juzgado Cívico correspondiente o autoridad competente. Los actos de zoofilia, podrán ser denunciados ante las instancias judiciales correspondientes competentes.
 
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+
+XXIII. La utilización de mamíferos marinos, cualquiera que sea la especie en actividades de espectáculo, manejo, adiestramiento, entretenimiento y terapia; y
+
+> <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
+
+XXIV. Celebrar espectáculos públicos o privados, fijos, incluyendo los espectáculos a domicilio o itinerantes, con cualquier especie de mamíferos marinos.
+
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 26.
@@ -1390,11 +1410,79 @@ Cuando el perro o gato no cuente con mecanismo de identificación, se procederá
 
 La posesión de una mascota de vida silvestre requiere de autorización de las autoridades administrativas competentes. Si su propietario(a), poseedor(a) o encargado(a) no cumplimenta esta disposición o permite que deambule libremente en la vía pública sin tomar las medidas y precauciones a efecto de no causar daño físico a terceras personas, será sancionado en términos de esta Ley y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2018)</small>
 
 ###### Artículo 34.
 
-Los animales guía, o aquellos que por prescripción médica deban acompañar a alguna persona tienen libre acceso a todos los lugares y servicios públicos.
+Todo Perro de Asistencia tiene acceso libre e irrestricto al Espacio Público, establecimientos mercantiles, instalaciones, o transportes, individuales o colectivos, sean de carácter público o privado, siempre que vaya acompañado de la persona a la que asiste. Esta disposición aplica igualmente al Perro de Asistencia en proceso de entrenamiento.
+
+Los Perros de Asistencia no serán considerados como animales de compañía, a efecto de los reglamentos o disposiciones para la vivienda de renta o bajo régimen de condominio, y para los padrones respectivos.
+
+Los Perros de Asistencia tendrán acceso libre al área de trabajo de su usuario o usuaria. Esta medida aplica por igual a los centros escolares.
+
+Al usuario o usuaria de los Perros de Asistencia, no se le podrá exigir en ningún momento el uso de bozal en su ejemplar.
+
+Los Perros de Asistencia podrán acceder a hospitales, públicos y privados, con excepción de las zonas restringidas por disposiciones higiénico sanitarias, siempre y cuando el usuario o usuaria del ejemplar no pueda ser auxiliado individualmente por algún familiar o el centro hospitalario no disponga de personal para dar el apoyo necesario.
+
+La persona, institución, establecimiento mercantil, instalación y transporte, colectivo o individual, sea de carácter público o privado, que niegue el acceso, la permanencia o el uso de un servicio o cobre por ello una tarifa adicional cuando se incluya un Perro de Asistencia, se hará acreedor a una multa de cincuenta a doscientas Unidades de Cuenta vigentes en el Distrito Federal, independientemente de los delitos que se configuren por la negativa a prestar servicios que se ofrecen al público en general.
+
+Ninguna persona debe tocar o interrumpir a un Perro de Asistencia que esté de servicio, en espera o reposando, salvo que su usuario o usuaria lo autoricen.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 34 Bis.
+
+La Secretaría de Salud concentrará los datos de los usuarios y usuarias de un Perro de Asistencia, conforme al artículo 34 TER, creará el registro correspondiente y expedirá una identificación oficial, individual e intransferible, por persona y ejemplar.
+
+La Secretaría de Salud podrá suscribir Convenios de Colaboración con las dependencias y entidades de la Administración Pública del Distrito Federal, con la finalidad de coadyuvar en la captación del Registro de Perros de Asistencia.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 34 Ter.
+
+Todo Perro de Asistencia debe quedar inscrito en el registro a cargo de la Secretaría de Salud, y es obligación del usuario o usuaria o de quien jurídicamente represente a menores o incapaces que hagan uso de estos ejemplares, proporcionar para lo consecuente los siguientes datos:
+
+I. Nombre, fecha de nacimiento, sexo, domicilio particular, y número de teléfono de la persona que hace uso del ejemplar;
+
+II. Nombre, edad, sexo, raza y clasificación del ejemplar;
+
+III. Acreditación de la institución o centro especializado, nacional o del extranjero, que haya llevado a cabo el adiestramiento del ejemplar, y
+
+IV. Nombre, Cédula Profesional y un número de teléfono para contacto inmediato del Médico Veterinario encargado de la salud del ejemplar.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 34 Quater.
+
+Los usuarios o usuarias de un Perro de Asistencia, además de cumplir con las disposiciones de la presente Ley, su Reglamento, y otros ordenamientos jurídicos aplicables, tienen obligación de:
+
+I. Portar para su apoyo la credencial emitida por la Secretaría de Salud, con el objeto de constar que el ejemplar responde a las características de su adiestramiento;
+
+II. Llevar al ejemplar a revisión médico veterinaria cuando menos tres veces al año, o tantas veces como lo requiera;
+
+III. Respetar y cumplir el calendario de medicina preventiva establecido por el Médico Veterinario encargado de la salud del ejemplar, mismo que incluirá:
+
+IV. Desparasitación interna y externa cada seis meses o antes si fuera necesario;
+
+V. Las vacunaciones correspondientes, y
+
+VI. Limpieza dental.
+
+VII. Brindar al ejemplar la atención higiénica y estética que requiera y mantenerlo cepillado;
+
+VIII. Acreditar que el ejemplar tiene implantada la identificación electrónica o microchip, y documentar el código que lo identifica unívocamente;
+
+IX. Respetar estrictamente la dieta y horarios de alimentación del ejemplar;
+
+X. Respetar el periodo de recuperación del ejemplar cuando no se encuentre en condiciones aptas para desempeñar su actividad, y así lo indique el Médico Veterinario encargado de su salud, y
+
+XI. Permitir al ejemplar periodos de juego conforme a su adiestramiento, así como de descanso en lugar confortable y seguro, manteniendo en todo momento su control y cuidado.
+
+Todo Perro de Asistencia, independientemente de su sexo, debe estar esterilizado.
+
+> <small>(ADICIONADO, G.O. 4 DE MAYO DE 2018)</small>
+
+Artículo 34 Quintus.- La Secretaría de Salud, creará y administrará un Padrón de las instituciones o centros nacionales que se dediquen al adiestramiento de Perros de Asistencia.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1424,13 +1512,13 @@ La prestación del servicio de monta recreativa requiere autorización de la Del
 
 Las autoridades delegacionales deberán implantar acciones tendientes a la regulación del crecimiento de poblaciones de aves urbanas empleando sistemas adecuados conforme a los principios de trato digno y respetuoso contenidos en la presente Ley, y en su caso logrando la reubicación de las parvadas, cuando sea posible.
 
-> <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE MAYO DE 2018)</small>
 
 ###### Artículo 39.
 
-Para el otorgamiento de autorizaciones para el mantenimiento de mascotas silvestres y el funcionamiento de establecimientos comerciales, ferias, exposiciones, espectáculos públicos, centros de enseñanza y de investigación que manejen animales, deberán contar con un programa de bienestar animal, de conformidad con lo establecido en el reglamento de la presente Ley, además de los requisitos establecidos en las leyes correspondientes.
+Para el otorgamiento de autorizaciones para el mantenimiento de mascotas silvestres en centros de enseñanza y de investigación que manejen animales, deberán contar con un programa de bienestar animal, de conformidad con lo establecido en el reglamento de la presente Ley, además de los requisitos establecidos en las leyes correspondientes.
 
-Para la celebración de espectáculos públicos fijos con mamíferos marinos, la autorización correspondiente estará sujeta al cumplimiento de lo dispuesto en la Ley General de Vida Silvestre, las normas oficiales mexicanas, las normas ambientales y las disposiciones que establezca el reglamento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 4 DE MAYO DE 2018)</small>
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -1756,9 +1844,11 @@ Las sanciones por las infracciones cometidas por la violación a las disposicion
 
 I. Corresponde a la Secretaría de Salud, en el ámbito de su respectiva competencia, siguiendo el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer sin perjuicio de las sanciones reguladas, en otras Legislaciones aplicables, multas de ciento cincuenta a trescientos veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto a los artículos 24, Fracciones II, III, 25 Fracción XIV, 46, 47, 49, 50, 52 y 53 de la presente Ley.
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE MAYO DE 2018)</small>
 
-II. Corresponde a las Delegaciones, a través de su respectiva Dirección General Jurídica y de Gobierno, en el ámbito de sus respectivas competencias, observando el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer, sin perjuicio de las sanciones reguladas en otras Legislaciones, aplicables las sanciones siguientes:
+II. Corresponde a las Demarcaciones Territoriales, a través de su respectiva Dirección General Jurídica y de Gobierno, en el ámbito de sus competencias, observando el procedimiento regulado por el artículo 56 párrafo primero, de la presente Ley, imponer, sin perjuicio de las sanciones reguladas en otras Legislaciones, aplicables las sanciones siguientes:
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 a) Amonestación. Para quienes incumplan con el primer párrafo del artículo 15 de está Ley y por violaciones a lo dispuesto por el artículo 31 de este ordenamiento.
 
@@ -1766,9 +1856,9 @@ a) Amonestación. Para quienes incumplan con el primer párrafo del artículo 15
 
 b) Multa de 1 a 150 veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto por los artículos 25, fracciones III, VI, VII, XII, XIII y XV, 27, 27 Bis, 28 Bis, 28 Bis 1, 32, 36, 37, 40, 41, 42, 43, 45, 45 Bis, 54 y 55 de la presente Ley.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2018)</small>
 
-c) Multa de 150 a 300 veces la Unidad de Cuenta de la Ciudad de México vigente, por violaciones a lo dispuesto por el artículo 25, Fracción II de la presente Ley.
+c) Multa de 1500 a 3000 veces la unidad de medida y actualización, por violaciones a lo dispuesto por el artículo 25, Fracción II, XXIII y XXIV de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2171,3 +2261,27 @@ NOVENO. En materia de manejo de restos y cadáveres de animales, así como la di
 DÉCIMO. La Agencia de Atención Animal, determinará los mecanismos necesarios para integrar en el Registro Único de Animales de Compañía de la Ciudad de México los mecanismos vigentes del Registro de Animales de Compañía (LOCATEL)
 
 DÉCIMO PRIMERO.- La Secretaría de Salud de la Ciudad de México y las Demarcaciones Territoriales en un lapso de 365 días, deberán establecer los acuerdos de coordinación necesarios que faculten la participación de la Agencia de Atención Animal en la funciones de los Centros de Atención Canina y Felina y en las Clínicas Veterinarias en las Demarcaciones Territoriales y análogos, para poder conocer, establecer, analizar, implementar y ejecutar las políticas públicas de protección y cuidado animal a que se refiere las fracciones XII, XIII y XIV del artículo 73 del presente Decreto.
+
+G.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICONAN, DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO Y DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL DISTRITO FEDERAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Los establecimientos dedicados a la celebración de espectáculos públicos o privados, incluyendo los espectáculos a domicilio, fijos o itinerantes, con cualquier especie de mamíferos marinos, así como el uso y el de mamíferos marinos con fines económicos de manejo, adiestramiento, entretenimiento y terapia, contarán con un plazo mínimo de 3 meses hasta seis meses después de la entrada en vigor del presente Decreto para evaluar a los ejemplares y resguardarlos con base a la normatividad vigente que para tales efectos determine la Secretaría del Medio Ambiente y Recursos Naturales, o bien trasladarlos a santuarios que tengan manejo de mamíferos marinos, previo estudio de la reubicación de ejemplares, en cuyo caso se deberá evaluar el hábitat de destino y las condiciones de los ejemplares, en los términos señalados en la normatividad federal vigente.
+
+###### ARTÍCULO TERCERO.
+
+Todas aquellas referencias realizadas a la Unidad de Cuenta de la Ciudad de México se entenderán hechas a la Unidad de Medida y Actualización, en tanto se modifiquen los artículos que a aquella hacen mención las presentes leyes.
