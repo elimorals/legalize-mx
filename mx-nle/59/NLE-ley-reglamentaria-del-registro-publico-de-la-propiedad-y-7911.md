@@ -4,7 +4,7 @@ identifier: "NLE-ley-reglamentaria-del-registro-publico-de-la-propiedad-y-7911"
 country: "mx"
 rank: "ley"
 publication_date: "1972-01-22"
-last_updated: "2017-01-18"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 22 de enero de 1972.
 
@@ -581,9 +581,11 @@ Los derechos por la prestación del servicio público del Registro, se causarán
 
 El Registro Público de la Propiedad coordinará sus actividades con la Dirección General de Catastro y la Tesorería General del Estado, tanto para la debida formación de los censos de propiedad como para la oportuna recaudación de los impuestos.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 77o.
 
-Para los efectos del Registro, el Estado se dividirá en nueve Distritos, a saber: El primero, en Monterrey, y comprende los Municipios de: Monterrey, Abasolo, Apodaca, Ciénega de Flores, Gral. Escobedo, Gral. Zuazua, Hidalgo, Mina, Pesquería, Salinas Victoria, Santa Catarina, San Nicolás de los Garza, Garza García, Villa del Carmen, Villa de García y Guadalupe; el segundo, en Cadereyta Jiménez, y comprende los Municipios de: Cadereyta Jiménez, Los Ramones y Villa de Juárez; el tercero, en Linares, y comprende los Municipios de: Linares y Hualahuises; el cuarto, en Doctor Arroyo, y comprende los Municipios de: Doctor Arroyo, Aramberri, General Zaragoza y Mier y Noriega; el quinto, en Cerralvo, y comprende los Municipios de: Cerralvo, Agualeguas, Doctor González, General Treviño, Higueras, Marín, Melchor Ocampo y Parás; el sexto, en Villaldama, y comprende los Municipios de: Villaldama, Anáhuac, Bustamante, Congregación Colombia, Lampazos de Naranjo, Sabinas Hidalgo y Vallecillo; el séptimo, en Montemorelos, y comprende los Municipios de: Montemorelos, Allende, General Terán, Los Rayones y Villa de Santiago; el octavo, en Galeana, y comprende los Municipios de: Galeana e Iturbide, y el noveno, en China, y comprende los Municipios de: China, Dr. Coss, General Bravo, Los Aldamas y Los Herreras.
+Para los efectos del Registro, el Estado se dividirá en nueve Distritos, a saber: El primero, en Monterrey, y comprende·los Municipios de: Monterrey, Abasolo, Apodaca, Ciénega de Flores, General Escobedo, General Zuazua, Hidalgo, Mina, Pesquería, Salinas Victoria, Santa Catarina, Santiago, San Nicolás de los Garza, San Pedro Garza García, El Carmen, García y Guadalupe; el segundo, en Cadereyta Jiménez, y comprende los Municipios de: Cadereyta Jiménez, Juárez y Los Ramones; el tercero, en Linares, y comprende los Municipios de: Linares y Hualahuises; el cuarto, en Doctor Arroyo, y comprende los Municipios de: Doctor Arroyo, Aramberri, General Zaragoza y Mier y Noriega; el quinto, en Cerralvo, y comprende los Municipios de: Cerralvo, Agualeguas, Doctor González, General Treviño, Higueras, Marín, Melchor Ocampo y Paras; el sexto, en·Villaldama, y comprende los Municipios de: Villaldama, Anáhuac, Bustamante, Lampazos de Naranjo, Sabinas Hidalgo y Vallecillo; el séptimo, en Montemorelos, y comprende los Municipios de:·Montemorelos, Allende, General Terán y Los Rayones; el octavo, en Galeana, y comprende los Municipios de: Galeana e Iturbide, y el noveno, en China, y comprende los Municipios de: China, Doctor Coss, General Bravo, Los Aldamas y Los Herreras.
 
 ## TRANSITORIOS
 
@@ -638,3 +640,11 @@ Primero.- El presente Decreto entrará en vigor el día primero de enero de 2017
 Segundo.- Los avisos, inscripciones, escrituras, y demás trámites llevados a cabo previo a la entrada en vigor del presente decreto se sujetarán a los plazos, términos y condiciones vigentes al momento de su realización.
 
 Tercero.- El primer informe a que (sic) referencia el segundo párrafo del artículo 138 de la Ley del Notariado del Estado de Nuevo León deberá presentarse durante el mes de agosto de 2017.
+
+P.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 379. SE REFORMA EL ARTÍCULO 77 DE LA LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrara en vigor a los 60 días naturales posteriores a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales que contravengan al presente Decreto.
