@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2017-12-27"
+last_updated: "2018-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -598,6 +598,88 @@ VIII. Impulsar, en coordinación con los municipios, la prevención y el control
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2014)</small>
 
 IX. Difundir en los entornos familiar, escolar, laboral y comunitario la alimentación correcta.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 37 Bis.
+
+Se crea el Consejo Estatal sobre Nutrición y Combate al Sobrepeso y Obesidad, como una comisión interinstitucional y de carácter multidisciplinario de la administración pública estatal.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 37 Bis 1.
+
+El Consejo Estatal sobre Nutrición y Combate al Sobrepeso y Obesidad tendrá por objeto, promover, apoyar y recomendar las acciones en materia de nutrición y combate al sobrepeso y obesidad.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 37 Bis 2.
+
+El Consejo Estatal sobre Nutrición y Combate al Sobrepeso y Obesidad estará integrado de la forma siguiente:
+
+I. Un Presidente, que será el Titular del Ejecutivo Estatal;
+
+II. Un Secretario, que recaerá en el Secretario de Salud;
+
+III. Como Vocales, los titulares de las siguientes dependencias:
+
+a) Secretaría de Educación Pública y Cultura;
+
+b) Secretaría de Desarrollo Social;
+
+c) Secretaría de Economía;
+
+d) Secretaría de Agricultura y Ganadería;
+
+e) Secretaría de Pesca y Acuacultura;
+
+f) Servicios de Salud de Sinaloa;
+
+g) Sistema para el Desarrollo Integral de la Familia; y
+
+h) Instituto Sinaloense de Cultura Física y Deporte;
+
+IV. Un Diputado o Diputada integrante de la Comisión de Salud y Asistencia Social del Congreso del Estado;
+
+V. Tres Presidentes Municipales, representantes de la (sic) zonas Norte, Centro y Sur del Estado; y
+
+VI. A invitación del Titular del Ejecutivo Estatal, un representante de cada uno de los sectores social, privado y académico.
+
+Podrán participar como invitados, médicos, nutriólogos, psicólogos, trabajadores sociales y afines, así como el sector social y privado de productores, procesadores y expendedores de alimentos para el consumo humano.
+
+Sus integrantes tendrán derecho a voz y voto, cada integrante propietario designará su suplente.
+
+El cargo de los integrantes de la Comisión será de carácter honorífico, por lo que no percibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 37 Bis 3.
+
+El Consejo Estatal sobre Nutrición y Combate al Sobrepeso y Obesidad sesionará conforme lo establezca su reglamento interior.
+
+El Presidente de dicho Consejo podrá ser suplido en las sesiones por el Secretario.
+
+Por cada representante, se designará a un suplente que lo sustituirá durante sus faltas.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2018)</small>
+
+###### Artículo 37 Bis 4.
+
+Para el cumplimiento de su objeto, el Consejo Estatal de Nutrición y Combate al Sobrepeso y Obesidad, tendrá las siguientes funciones:
+
+I. Coadyuvar en la formulación de planes, programas y acciones de nutrición y combate al sobrepeso y obesidad, así como en la vigilancia, control y evaluación de los mismos;
+
+II. Difundir, entre la población en general y en particular la escolar (sic) de educación básica, la importancia de una alimentación saludable y del combate al sobrepeso y la obesidad;
+
+III. Promover la concertación de acciones entre las instituciones de los sectores público, social y privado que lleven a cabo tareas relacionadas con la nutrición y combate al sobrepeso y obesidad;
+
+IV. Difundir los resultados y el impacto de planes, programas y acciones de prevención y control de la nutrición y combate al sobrepeso y obesidad;
+
+V. Promover, apoyar y participar en eventos científicos, relacionados con la nutrición y combate al sobrepeso y obesidad; y
+
+VI. Las demás que se establezcan en esta Ley y las disposiciones normativas aplicables.
+
+La estructura, funcionamiento y demás atribuciones del Consejo Estatal de Nutrición y Combate al Sobrepeso y Obesidad estarán regulados por su Reglamento Interior.
 
 ### CAPÍTULO V. DE LOS EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -3134,3 +3216,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los noventa días siguientes a la entrada en vigor de la misma y realizar las modificaciones reglamentarias correspondientes a efecto de que las autoridades sanitarias estatales cumplan con las obligaciones contenidas en este Decreto.
 
 TERCERO. La Secretaría de Salud conforme a la suficiencia presupuestal asignada en (sic) Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el ejercicio fiscal del año 2018, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 409 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN LOS ARTÍCULOS 37 BIS, 37 BIS 1, 37 BIS 2, 37 BIS 3, Y 37 BIS 4 A LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Poder Ejecutivo del Estado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior del Consejo Estatal de Nutrición y Combate al Sobrepeso y Obesidad.
+
+TERCERO. El Consejo Estatal sobre Nutrición y Combate al Sobrepeso y Obesidad deberá ser integrado dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
