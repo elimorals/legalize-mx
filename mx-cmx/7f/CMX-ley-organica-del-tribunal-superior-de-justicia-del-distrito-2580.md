@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2017-03-23"
+last_updated: "2018-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "1996-01-09"
 ---
 # LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO QUINTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 4 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE MAYO DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -5025,3 +5025,39 @@ SEXTO. En un término de seis meses, contados a partir de la entrada en vigor de
 SÉPTIMO. El Tribunal Superior de Justicia de la Ciudad de México, por conducto de su Centro de Justicia Alternativa, continuará con los programas de formación de mediadores comunitarios así como en el diseño y consolidación de los programas delegacionales de mediación comunitaria en coordinación con la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales.
 
 OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su promulgación y publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- De conformidad con el artículo Décimo Primero Transitorio de la Constitución Política de la Ciudad de México, la presente Ley entrará en vigor el uno de junio del año dos mil diecinueve, con excepción a las relativas al Consejo Judicial Ciudadano y el Consejo de la Judicatura, que iniciarán su vigencia el uno de octubre de dos mil dieciocho.
+
+CUARTO.- Las normas relativas a la Sala Constitucional empezarán su vigencia el uno de enero del año dos mil diecinueve.
+
+QUINTO.- Al momento de la entrada en vigor de la Ley Orgánica del Poder Judicial de la Ciudad de México, quedarán abrogadas la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y los ordenamientos legales contrarios al presente Decreto.
+
+SEXTO.- El Tribunal Superior de Justicia de la Ciudad de México, contará con 180 días naturales a partir de la entrada en vigor de este Decreto, para adecuar su estructura a lo establecido en la presente Ley.
+
+SÉPTIMO.- Los transitorios contenidos en los decretos publicados en la Gaceta Oficial del Distrito Federal el veinticuatro de abril de dos mil tres y nueve de junio de dos mil catorce, permanecerán vigentes para regular al correspondiente fondo de retiro, por tratarse de derechos adquiridos.
+
+OCTAVO.- En tanto no entre en vigencia la Unidad de Medida y Actualización se entenderá que se tendrá por válida la Unidad de Cuenta de la Ciudad de México.
+
+NOVENO.- En lo referente al sistema jurídico de los pueblos y barrios originarios de la Ciudad de México, se estará a lo que disponga la Ley reglamentaria que emita el primer Congreso de la Ciudad de México.
+
+DÉCIMO.- Las personas trabajadoras del Poder Judicial de la Ciudad de México conservaran los derechos adquiridos que deriven de la aplicación del orden jurídico que los rija al momento de entrar en vigor las disposiciones en la materia de la Constitución.
+
+Las personas trabajadoras de los órganos públicos de la Ciudad de México que hasta el 31 de diciembre de 2019 se encuentren incorporados al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, continuarán sujetos al mismo régimen de seguridad social.
+
+Corresponde al Tribunal Laboral del Poder Judicial la impartición de la Justicia Laboral de acuerdo con lo establecido en el Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
+
+DÉCIMO PRIMERO.- El Poder Judicial de la Ciudad de México conservará su denominación, atribuciones y estructura hasta en tanto no entre en vigor la presente Ley.
+
+DÉCIMO SEGUNDO.- El Poder Judicial de la Ciudad de México recibirá los bienes y los recursos humanos y materiales que estén a cargo del mismo.
+
+DÉCIMO TERCERO.- En tanto no entre en vigor disposición normativa que supla lo relativo a la materia de cuantía, se estará a lo dispuesto a lo que establece el Código de Procedimientos Civiles para el Distrito Federal.
+
+DÉCIMO CUARTO.- El Poder Legislativo de la Ciudad de México expedirá las leyes de la función judicial sobre las disposiciones que entraran en vigor a partir del 1 de Octubre de 2019, y aquellas necesarias para adecuar lo relativo a la Justicia Alternativa.
