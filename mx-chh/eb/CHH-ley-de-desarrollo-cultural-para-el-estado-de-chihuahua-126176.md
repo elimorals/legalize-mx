@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-cultural-para-el-estado-de-chihuahua-126176"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-03"
-last_updated: "2018-02-03"
+last_updated: "2018-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2018.
 
 Ley publicada en el Número 10 del Periódico Oficial de Chihuahua, el sábado 3 de febrero de 2018.
 
@@ -103,7 +103,9 @@ I. Cultura: El conjunto de los rasgos distintivos espirituales y materiales, int
 
 II. Derecho a la cultura: Es el reconocimiento que tiene toda persona para participar en la vida cultural de su comunidad, a crear, expresar, acceder, proteger, asociarse y auto adscribirse libremente a la cultura. Puede ejercerse de manera individual o en asociación con otros, dentro de una comunidad o grupo, incluye la relación con el lenguaje, la tierra y los recursos naturales.
 
-III. Desarrollo cultural: Es el proceso articulado y transversal, a través del cual se instrumentan políticas y programas dirigidos a fomentar y estimular la creatividad y la participación activa de la población en todos los ámbitos y dimensiones de la cultura en sus sentidos patrimonial, artístico, de identidad, de diversidad e interculturalidad, que promueve la creatividad de los ciudadanos basada en sus propios principios y valores culturales, contribuye a satisfacer las necesidades y a mejorar la calidad de vida de una población diversa y plural, que fortalece los principios democráticos, el respeto al ejercicio pleno de los derechos culturales; y garantiza el acceso a los bienes y servicios culturales.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2018)</small>
+
+III. Desarrollo cultural: Es el proceso articulado y transversal a través del cual se instrumentan políticas y programas dirigidos a fomentar y estimular la creatividad y la participación activa de la población en todos los ámbitos y dimensiones de la cultura en sus sentidos patrimonial, artístico, de identidad, de diversidad e interculturalidad, que promueve la creatividad de los ciudadanos, basada en sus propios principios y valores culturales, contribuye a satisfacer las necesidades y a mejorar la calidad de vida de una población diversa y plural, que fortalece los principios democráticos, el respeto al ejercicio pleno de los derechos culturales y garantiza el acceso a los bienes y servicios culturales y a la protección, conservación y salvaguarda del patrimonio cultural.
 
 IV. Diversidad cultural: Multiplicidad de formas en que se expresan las culturas de los grupos y sociedades. Estas expresiones se transmiten dentro y entre los grupos y las sociedades.
 
@@ -121,7 +123,9 @@ X. Multiculturalidad: Es la coexistencia de diferentes culturas en un mismo espa
 
 XI. Patrimonio cultural: Es el producto de la creatividad humana que debe ser protegido, preservado, realzado y transmitido a las generaciones futuras como testimonio de la experiencia y de las aspiraciones humanas. Como producción humana está íntimamente articulado con el medio natural, por lo que adquiere singularidad territorial y paisajística para los habitantes del Estado, ya sea por su valor y significado, con relevancia arqueológica, histórica, artística, antropológica, paleontológica, tradicional, arquitectónica, urbana, científica, tecnológica, lingüística. El patrimonio cultural está integrado por tres grandes rubros: el material, inmaterial y natural y/o biocultural.
 
-XII. Patrimonio biocultural: Está conformado por recursos naturales bióticos intervenidos, en distintos niveles de intensidad por el manejo diferenciado y el uso de los recursos naturales, según diversas manifestaciones y prácticas culturales en diversos agro-ecosistemas tradicionales, potenciando la biodiversidad domesticada con sus respectivos recursos fitogenéticos desarrollados y/o adaptados localmente.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2018)</small>
+
+XII. Patrimonio Biocultural: Es el conocimiento, innovaciones y prácticas de los pueblos originarios y comunidades rurales que abarca desde los recursos genéticos que se desarrollan relacionados con la alimentación y medicina tradicional, hasta los paisajes que crean. Sus componentes interactúan estrechamente ligados a través de la práctica diaria, a la cosmovisión, las creencias, mitos, leyendas de origen con la naturaleza y su biodiversidad y son mantenidos a través de generaciones como valores culturales. El patrimonio biocultural es fundamental para el bienestar de los pueblos originarios, las comunidades de productores locales y la sociedad en general.
 
 XIII. Políticas públicas: Son acciones de gobierno con objetivos de interés público que surgen de decisiones sustentadas en un proceso de diagnóstico y análisis de factibilidad, para la atención efectiva de problemas públicos específicos, en donde participa la ciudadanía en la definición de problemas y soluciones.
 
@@ -774,3 +778,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecisiete días del mes de enero del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/EXLEY/0750/2018 II P.O. LEY PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA Y REFORMAS A LA LEY DE DESARROLLO CULTURAL Y AL CÓDIGO PENAL, AMBOS ORDENAMIENTOS PARA EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- Se abroga la Ley de Patrimonio Cultural del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 17 del 28 de febrero de 2001.
+
+Todos los actos jurídicos, administrativos o de cualquier índole que se hubieran creado bajo las bases normativas de la abrogada Ley de Patrimonio Cultural, incluidas en su caso las declaratorias de Patrimonio Cultural de cualquier tipo, quedan válidas y vigentes y se entenderán ahora en lo que resulte aplicable respecto a la Ley para la Protección del Patrimonio Cultural del Estado de Chihuahua, creada mediante el presente Decreto, y en todo caso se harán las adecuaciones reglamentarias, administrativas o presupuestales a que hubiera lugar para armonizar lo que sea necesario respecto a la misma.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- La integración del Consejo Consultivo Ciudadano de Patrimonio Cultural deberá quedar constituida dentro de los tres meses posteriores a la entrada en vigor de la presente Ley. El Consejo deberá emitir su respectivo reglamento dentro de los tres meses posteriores a su constitución.
+
+CUARTO.- El Ejecutivo del Estado deberá expedir los reglamentos de la presente Ley dentro de los 180 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO.- Para la presupuestación del Fondo de Patrimonio Cultural, se deberán atender a los lineamientos y plazos establecidos en los artículos 33 y 41 de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, según se actualice el supuesto normativo.
