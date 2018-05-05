@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-04-25"
+last_updated: "2018-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3061,7 +3061,15 @@ Las mismas penas se aplicarán al que destruya, altere o provoque pérdida de in
 
 Podrá aumentarse la pena señalada hasta el doble, según la gravedad del daño que resulte, si no puede reponerse el expediente, la información a que se refiere el párrafo anterior, ni suplirse la falta del documento.
 
-La misma pena señalada en el primer párrafo de este artículo se aplicará al que dolosamente cause destrucción o deterioro de un bien mueble o inmueble público o cultural del Estado.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2018)</small>
+
+La misma pena señalada en el primer párrafo de este artículo se aplicará al que dolosamente cause destrucción o deterioro de un bien mueble o inmueble del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2018)</small>
+
+###### Artículo 238. Bis.
+
+Se aplicará prisión de seis meses a seis años y de setecientos cincuenta a mil doscientos cincuenta días multa, al que cause destrucción o deterioro de un bien mueble o inmueble protegido o declarado Patrimonio Cultural del Estado.
 
 ### CAPÍTULO II. EJERCICIO ILEGAL DEL SERVICIO PÚBLICO
 
@@ -5219,8 +5227,24 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 25 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0731/2018 II P.O., POR MEDIO DE CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFCOD/0731/2018 II P.O., POR MEDIO DE CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/EXLEY/0750/2018 II P.O. LEY PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA Y REFORMAS A LA LEY DE DESARROLLO CULTURAL Y AL CÓDIGO PENAL, AMBOS ORDENAMIENTOS PARA EL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- Se abroga la Ley de Patrimonio Cultural del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 17 del 28 de febrero de 2001.
+
+Todos los actos jurídicos, administrativos o de cualquier índole que se hubieran creado bajo las bases normativas de la abrogada Ley de Patrimonio Cultural, incluidas en su caso las declaratorias de Patrimonio Cultural de cualquier tipo, quedan válidas y vigentes y se entenderán ahora en lo que resulte aplicable respecto a la Ley para la Protección del Patrimonio Cultural del Estado de Chihuahua, creada mediante el presente Decreto, y en todo caso se harán las adecuaciones reglamentarias, administrativas o presupuestales a que hubiera lugar para armonizar lo que sea necesario respecto a la misma.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- La integración del Consejo Consultivo Ciudadano de Patrimonio Cultural deberá quedar constituida dentro de los tres meses posteriores a la entrada en vigor de la presente Ley. El Consejo deberá emitir su respectivo reglamento dentro de los tres meses posteriores a su constitución.
+
+CUARTO.- El Ejecutivo del Estado deberá expedir los reglamentos de la presente Ley dentro de los 180 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO.- Para la presupuestación del Fondo de Patrimonio Cultural, se deberán atender a los lineamientos y plazos establecidos en los artículos 33 y 41 de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, según se actualice el supuesto normativo.
