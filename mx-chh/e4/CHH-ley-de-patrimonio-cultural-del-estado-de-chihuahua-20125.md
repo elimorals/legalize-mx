@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-patrimonio-cultural-del-estado-de-chihuahua-20125"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-28"
-last_updated: "2017-02-22"
+last_updated: "2018-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 28 de febrero del 2001.
 
@@ -1370,3 +1370,19 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 5 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/EXLEY/0750/2018 II P.O. LEY PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE CHIHUAHUA Y REFORMAS A LA LEY DE DESARROLLO CULTURAL Y AL CÓDIGO PENAL, AMBOS ORDENAMIENTOS PARA EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- Se abroga la Ley de Patrimonio Cultural del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 17 del 28 de febrero de 2001.
+
+Todos los actos jurídicos, administrativos o de cualquier índole que se hubieran creado bajo las bases normativas de la abrogada Ley de Patrimonio Cultural, incluidas en su caso las declaratorias de Patrimonio Cultural de cualquier tipo, quedan válidas y vigentes y se entenderán ahora en lo que resulte aplicable respecto a la Ley para la Protección del Patrimonio Cultural del Estado de Chihuahua, creada mediante el presente Decreto, y en todo caso se harán las adecuaciones reglamentarias, administrativas o presupuestales a que hubiera lugar para armonizar lo que sea necesario respecto a la misma.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- La integración del Consejo Consultivo Ciudadano de Patrimonio Cultural deberá quedar constituida dentro de los tres meses posteriores a la entrada en vigor de la presente Ley. El Consejo deberá emitir su respectivo reglamento dentro de los tres meses posteriores a su constitución.
+
+CUARTO.- El Ejecutivo del Estado deberá expedir los reglamentos de la presente Ley dentro de los 180 días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO.- Para la presupuestación del Fondo de Patrimonio Cultural, se deberán atender a los lineamientos y plazos establecidos en los artículos 33 y 41 de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, según se actualice el supuesto normativo.
