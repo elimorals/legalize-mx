@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-y-fomento-del-patrimonio-cultural-del-21708"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-02"
-last_updated: "2017-07-03"
+last_updated: "2018-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 2 de julio de 2001.
 
@@ -405,9 +405,11 @@ Para que las medidas de protección que prevé esta Ley puedan ser aplicadas, se
 
 Para considerar si un bien es susceptible de ser declarado como patrimonio cultural en el Estado, éste deberá reunir los requisitos establecidos en el Título Segundo de esta Ley.
 
+REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2018)
+
 ###### ARTICULO 24.
 
-Cualquier persona interesada podrá promover ante el Titular del Poder Ejecutivo y a los Ayuntamientos el establecimiento de la declaratoria para que un bien sea considerado como patrimonio cultural.
+El Congreso del Estado o cualquier persona interesada podrá promover ante el Titular del Poder Ejecutivo y a los Ayuntamientos el establecimiento de la declaratoria para que un bien sea considerado como patrimonio cultural.
 
 Para los efectos a que se refiere el párrafo anterior, los interesados deberán presentar junto con su petición los documentos e investigaciones que justifiquen la solicitud.
 
@@ -1078,3 +1080,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 291.- SE REFORMA EL ARTÍCULO 24 DE LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
