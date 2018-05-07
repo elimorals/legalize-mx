@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2018-04-09"
+last_updated: "2018-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -83,7 +83,9 @@ V.- Asignaciones Presupuestales: Las previsiones de Gasto Público, aprobado med
 
 VI.- Autoridades Fiscalizadoras: Son aquellas facultadas para vigilar y revisar Gasto Público en el ámbito de sus competencias federal, estatal o municipal, entre otras se pueden considerar como tales: la Auditoria Superior de la Federación, la Secretaría de la Función Pública del Poder Ejecutivo Federal; así como el Órgano Superior de Fiscalización del Estado, instancias competentes de los Poderes Legislativo y Judicial del Estado y de los órganos Autónomos, la Secretaria de Fiscalización y Rendición de Cuentas del Gobierno del Estado, la CEPLAP así como las Contralorías Municipales;
 
-VII.- CEPLAP: Coordinación Estatal de Planeación y Proyectos;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+
+VII.- CPLAP: Coordinación General de Planeación y Proyectos
 
 VIII.- Clasificaciones: Es el orden y la distribución de las Asignaciones Presupuestales con el fin de sistematizar la orientación del Gasto Público, registrar y analizar su estructura, conforme a las diferentes formas vigentes para presentar las previsiones de recursos públicos, manteniendo los criterios de la armonización contable;
 
@@ -115,9 +117,9 @@ XXI.- Estructura Presupuestal: Herramienta técnica que tiene por objeto present
 
 XXII.- Evaluación del Desempeño: El seguimiento y la evaluación sistemática de los Programas Presupuestarios de los Ejecutores de Gasto, que permite la valoración objetiva del desempeño de las políticas públicas a través de la verificación del cumplimiento de metas y objetivos con base en indicadores estratégicos y de gestión;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
 
-XXIII.- Excedentes Fiscales: Ingresos excedentes por los Recursos Fiscales Ordinarios que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos del Estado y en la Ley de Ingresos de los Municipios;
+XXIII.- Ingresos Excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos del Estado y en la Ley de Ingresos de los Municipios;
 
 XXIV.- Gasto Comprometido: El momento contable del gasto que refleja la aprobación por autoridad competente de un acto administrativo u otro instrumento jurídico que formaliza una relación jurídica con terceros para la adquisición de bienes y servicios o ejecución de obras y servicios relacionados con las mismas. En el caso de las obras a ejecutarse y servicios relacionados con las mismas o de bienes y servicios a recibirse durante varios ejercicios, el compromiso será registrado por la parte que se ejecutará o recibirá durante cada ejercicio;
 
@@ -147,7 +149,9 @@ XXXIV.- Ley de Ingresos del Estado: La Ley de Ingresos del Estado de Aguascalien
 
 XXXV.- Ley de Ingresos de los Municipios: La Ley de Ingresos de los Municipios, para el ejercicio fiscal correspondiente, aprobada por el Congreso;
 
-XXXVI.- Metodología del Marco Lógico: Es la herramienta desarrollada por la CEPLAP o las COMUPLA, de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+
+XXXVI.- Metodología del Marco Lógico: Es la herramienta desarrollada por la CPLAP o las COMUPLA, de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
 
 XXXVII.- Órganos Autónomos: Las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Aguascalientes, a los que se asignen recursos del Presupuesto de Egresos en el ramo autónomo que les corresponde;
 
@@ -267,13 +271,17 @@ LXXIV.- Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a lo
 
 LXXV.- Sistema de Alertas: La publicación hecha por la Secretaría de Hacienda y Crédito Público sobre los indicadores de endeudamiento del Estado y los Municipios;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
 
-LXXVI.- Techo de Financiamiento Neto: El definido como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios; y
+LXXVI.- Techo de Financiamiento Neto: El definido como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
 
-LXXVII.- Transferencias federales etiquetadas: Las definidas como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios.
+LXXVII.- Transferencias federales etiquetadas: Las definidas como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2018)</small>
+
+LXXVIII.- Cuenta Pública: El documento a que se refiere el Artículo 27, Fracción V de la Constitución Política del Estado de Aguascalientes.
 
 ###### Artículo 4°.
 
@@ -437,9 +445,17 @@ VI.- En su caso, las previsiones de gasto necesarias para hacer frente a los com
 
 Las Leyes de Ingresos y los Presupuestos de Egresos del Estado deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativas de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
 
-En el caso de los Municipios se deberá observar lo establecido en el Capítulo II, Titulo II de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sin perjuicio de lo dispuesto en el párrafo anterior, en todo caso se deberá atender lo dispuesto en la normatividad que regula la planeación estatal y municipal del desarrollo.
+En los casos en que el Estado apruebe su Ley de Ingresos y Presupuesto de Egresos, después de la publicación de la Ley de Ingresos de la Federación y el Presupuesto de Egresos de la Federación, las estimaciones de participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la Ley de Ingresos de la Federación y en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+Para aquellas Transferencias federales etiquetadas, cuya distribución por Entidad Federativa no se encuentre disponible en el Presupuesto de Egresos de la Federación, el Estado podrá realizar una estimación con base en los Criterios Generales de Política Económica, el monto nacional y la distribución realizada en ejercicios fiscales anteriores.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+En el caso de los Municipios se deberá observar lo establecido en el Capítulo II, Titulo II de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sin perjuicio de lo dispuesto en el párrafo segundo, en todo caso se deberá atender lo dispuesto en la normatividad que regula la planeación estatal y municipal del desarrollo.
 
 ###### Artículo 17.
 
@@ -727,7 +743,9 @@ En caso de que los ajustes anteriores no sean suficientes para compensar la dism
 
 La Ley de Ingresos y el Presupuesto de Egresos del Estado o, en su caso, la Ley de Ingresos del Municipio, podrán ser objeto de ampliación por parte de la Secretaría o las Tesorerías, según corresponda, no siendo necesaria la autorización del Congreso en los siguientes casos:
 
-I.- Se presenten Excedentes Fiscales;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+
+I.- Se presenten Ingresos Excedentes;
 
 II.- Incremento de los fondos de aportaciones federales previstos en el Capítulo V de la Ley de Coordinación Fiscal, así como de los subsidios, transferencias y reasignaciones por convenio transferidos por el Gobierno Federal de conformidad a lo establecido en el Presupuesto de Egresos de la Federación;
 
@@ -735,27 +753,39 @@ III.- El saldo del ejercicio fiscal anterior no corresponda al que se previó pa
 
 IV.- Incrementos en los montos del servicio de la deuda pública motivados por el movimiento de los mercados financieros, en base a los términos y condiciones negociados;
 
-V.- En los casos señalados en el Artículo siguiente.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+
+V.- En los casos señalados en el Artículo 41 de la Ley.
 
 Tratándose del Presupuesto de Egresos del Municipio, se estará a los requisitos que establezcan las normas vigentes y aplicables.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
-
-Toda propuesta de aumento o creación de gasto de los Presupuestos de Egresos del Estado o de los Municipios, deberá acompañarse con la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
+Toda propuesta de aumento o creación de gasto de los Presupuestos de Egresos, del Estado o de los Municipios, deberá acompañarse con la correspondiente fuente de ingresos distinta al financiamiento o compensarse con reducciones en otras previsiones de gasto.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
 
 No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes. El Gobierno del Estado y los Municipios deberán revelar en la cuenta pública y en los informes que periódicamente entreguen al Congreso, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 40 Bis.
 
-Los Excedentes Fiscales, derivados de Ingresos de libre disposición del Estado o de los Municipios, deberán ser destinados a los siguientes conceptos:
+Los Ingresos Excedentes derivados de Ingresos de libre disposición del Estado o de los Municipios, deberán ser destinados a los siguientes conceptos:
 
-I. Por lo menos el 50 por ciento para la amortización anticipada de la Deuda Pública en los términos de la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2018)</small>
+
+l. Para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para desastres naturales y de pensiones, conforme a lo siguiente:
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+a) Cuando el Estado o los Municipios se clasifiquen en un nivel de endeudamiento elevado, de acuerdo al Sistema de Alertas, cuando menos el 50 por ciento; o
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+b) Cuando el Estado o los Municipios se clasifiquen en un nivel de endeudamiento en observación; de acuerdo al Sistema de Alertas, cuando menos el 30 por ciento; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 27 DE FEBRERO DE 2017)</small>
 
 II. En su caso, el remanente para:
 
@@ -763,7 +793,17 @@ a) Inversión pública productiva, a través de un fondo que se constituya para 
 
 b) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición de ejercicios subsecuentes.
 
-Los Excedentes Fiscales derivados de Ingresos de libre disposición del Estado o de los Municipios, podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando el Estado o los Municipios se clasifiquen en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas implementado por la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
+
+Los Ingresos Excedentes derivados de Ingresos de libre disposición del Estado o de los Municipios, podrán destinarse a los rubros mencionados en el presente Artículo, sin limitación alguna, siempre y cuando el Estado o los Municipios se clasifiquen en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+Cuando el Estado o los Municipios se clasifiquen en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, podrá utilizar hasta un 5 por ciento de los recursos a los que se refiere el presente Artículo, para cubrir Gasto corriente.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+Tratándose de Ingresos de libre disposición que se encuentren destinados a un fin específico en términos de las leyes, no resultarán aplicables las disposiciones establecidas en el presente Artículo.
 
 ###### Artículo 41.
 
@@ -825,21 +865,25 @@ II.- Los calendarios de ministraciones presupuestales.
 
 En el mismo período señalado en el párrafo anterior, la Secretaría comunicará a las Dependencias del Ejecutivo, las Asignaciones Presupuestales autorizadas.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 46.
 
-Para el ejercicio del Gasto Público será indispensable la previa formalización de los pedidos, contratos o cualquier otro acto jurídico o administrativo análogo, en los que se disponga la obligación de efectuar un pago con cargo a los presupuestos aprobados, debiéndose observar las disposiciones siguientes:
+Para el ejercicio del Gasto Público será indispensable la previa formalización de los pedidos, contratos o cualquier otro acto jurídico o administrativo análogo, en los que se disponga la obligación de efectuar un pago con cargo a los presupuestos aprobados.
+
+Aprobado el Presupuesto de Egresos correspondiente, para el ejercicio del gasto, el Estado y los Municipios deberán observar las disposiciones siguientes:
 
 I. Sólo podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria, identificando la fuente de ingresos;
 
-II. Podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos del Estado o Presupuesto de Egresos del Municipio con cargo a los Ingresos excedentes que obtengan y con la autorización previa de la Secretaría, Tesorería Municipal o sus equivalentes;
+II. Podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos del Estado o Presupuesto de Egresos del Municipio con cargo a los Ingresos Excedentes que obtengan y con la autorización previa de la Secretaría, Tesorería Municipal o sus equivalentes.
 
-III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil;
+En las erogaciones con cargo a Ingresos Excedentes derivados de Ingresos de libre disposición, se deberá observar además lo dispuesto en el Artículo 40 Bis de la Ley;
+
+III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil y la Ley de Protección Civil para el Estado de Aguascalientes. De igual forma, no se requerirá realizar un análisis costo y beneficio, cuando el gasto de inversión se destine a la atención prioritaria de desastres naturales y sea financiado con Ingresos de libre disposición.
 
 Para los propósitos señalados en el párrafo anterior, el Gobierno del Estado o cada Municipio deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública productiva del Estado o de los Municipios. Estarán exceptuados de lo anterior, los Municipios con menos de 200 mil habitantes de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
 
-Tratándose de proyectos de Inversión pública productiva que se (sic) pretendan contratar los Ejecutores del Gasto bajo un esquema de Proyectos de Prestación de Servicios o de Asociación Público-Privada, deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
+Tratándose de proyectos de Inversión pública productiva que pretendan contratar los Ejecutores del Gasto bajo un esquema de Proyectos de Prestación de Servicios o de Asociación Público-Privada, deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
 
 Dichas evaluaciones deberán ser públicas a través de las páginas oficiales de Internet de la Secretaría, Tesorería Municipal o sus equivalentes.
 
@@ -889,11 +933,11 @@ Para los efectos de este Artículo, se entenderá que el Estado, los Municipios 
 
 La Secretaría podrá realizar Reasignaciones de conformidad con las reglas contenidas en el Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 49.
 
-Una vez concluido el ejercicio fiscal en el cual se generaron los Excedentes Fiscales que correspondan, según la Ley de Ingresos del Estado, las economías generadas por las Dependencias del Ejecutivo con motivo del ejercicio eficiente y eficaz del gasto público; el saldo del ejercicio fiscal anterior señalado en la Fracción III del Artículo 40 de la Ley; y los recursos mencionados en el Artículo 41 de la Ley, así como de los ingresos excedentes que perciban las Entidades del Ejecutivo respecto de los previstos en la Ley de Ingresos del Estado de dicho ejercicio fiscal, deberán transmitirse por la Secretaría, sin incluir los provenientes de las aportaciones federales y las Reasignaciones por Convenio, al fondo señalado en el Artículo 49 Bis.
+Una vez concluido el ejercicio fiscal en el cual se generaron los Ingresos Excedentes que correspondan, según la Ley de Ingresos del Estado, las economías generadas por las Dependencias del Ejecutivo con motivo del ejercicio eficiente y eficaz del gasto público; el saldo del ejercicio fiscal anterior señalado en la Fracción III del Artículo 40 de la Ley; y los recursos mencionados en el Artículo 41 de la Ley, así como de los Ingresos Excedentes que perciban las Entidades del Ejecutivo respecto de los previstos en la Ley de Ingresos del Estado de dicho ejercicio fiscal, deberán destinarse por la Secretaría, sin incluir los provenientes de las aportaciones federales y las Reasignaciones por Convenio, al fondo señalado en el Artículo 49 Bis.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -903,7 +947,9 @@ La Secretaría en su carácter de fideicomitente único de la Administración P�
 
 I.- De los diversos conceptos en los términos del Artículo 49 de la Ley;
 
-II.- De las Entidades del Ejecutivo en los términos del Artículo 41 de la Ley, así como por los ingresos excedentes que perciban respecto de los previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente. Quedan exceptuados los ingresos excedentes que obtengan los fideicomisos públicos considerados como Entidades del Ejecutivo, cuya naturaleza sea el desarrollo inmobiliario o económico;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+
+II.- De las Entidades del Ejecutivo en los términos del Artículo 41 de la Ley, así como por los Ingresos Excedentes que perciban respecto de los previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, a excepción de los Ingresos Excedentes que provengan de Ingresos de libre disposición y los que obtengan los fideicomisos públicos considerados como Entidades del Ejecutivo, cuya naturaleza sea el desarrollo inmobiliario o económico;
 
 III.- De los Ingresos que obtenga el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes por la enajenación de inmuebles; y
 
@@ -1187,9 +1233,11 @@ A la Secretaría de Fiscalización y Rendición de Cuentas, así como a los órg
 
 Los servidores públicos de los Ejecutores de Gasto están obligados a proporcionar a dichas Autoridades Fiscalizadoras, en el ámbito de su competencia, todos los documentos, datos e informes que les soliciten.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
+
 ###### Artículo 76.
 
-La información contenida en los informes de avance de gestión financiera así como de la Cuenta Pública se publicará dentro de los siguientes ocho días a que sea entregada al Congreso, en el Periódico Oficial del Estado por la Secretaría o por la autoridad competente del Municipio de que se trate.
+La información contenida en los informes de avance de gestión financiera así como de la Cuenta Pública se publicará en los medios oficiales de difusión del Estado dentro de los 45 días naturales siguientes a que sea entregada al Congreso por la Secretaría, o por la autoridad competente del Municipio de que se trate. Además, cada uno de los poderes del Estado, los Municipios y los Órganos Autónomos, deberán difundir la información correspondiente en su página de Internet dentro de los treinta días naturales siguientes a su presentación.
 
 ### CAPÍTULO IV. De los Medios Electrónicos
 
@@ -1277,7 +1325,7 @@ Los recursos que reciba la Secretaría de Finanzas del Estado, en términos del 
 
 P.O. 27 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 64.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 64.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1303,11 +1351,13 @@ El porcentaje a que hace referencia el Artículo 22 Quáter de la Ley de Presupu
 
 El registro de proyectos de Inversión pública productiva y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el Artículo 46, Fracción III, segundo párrafo y la Fracción V, segundo párrafo, respectivamente de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, deberá estar en operación a más tardar el 1o. de enero de 2018.
 
-###### ARTÍCULO SEXTO.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2018)</small>
 
-Los Excedentes Fiscales derivados de Ingresos de libre disposición a que hace referencia el Artículo 40 Bis, fracción I de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+###### ARTICULO SEXTO.
 
-En lo correspondiente al último párrafo del Artículo 14 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, adicionalmente podrán destinarse a Gasto Corriente hasta el ejercicio fiscal 2018 los Excedentes Fiscales derivados de Ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
+Los Ingresos Excedentes derivados de Ingresos de libre disposición a que hace referencia el Artículo 40 Bis, fracción I de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -1323,7 +1373,7 @@ Se Derogan todas las disposiciones jurídicas que se opongan a lo establecido en
 
 P.O. 26 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 250.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 71 DE LA LEY DE PRESUPESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 250.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 71 DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1344,3 +1394,17 @@ Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan 
 ###### ARTÍCULO TERCERO.
 
 A la fecha de entrada en vigor del presente Decreto, todas la menciones a la Ley de Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes, previstas en otras legislaciones, así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Asociaciones Público- Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes.
+
+P.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 286.- SE REFORMAN LOS ARTÍCULOS 3°, 16, 40, 40 BIS, 46, 49, 49 BIS, 76; Y EL PRIMER PÁRRAFO DEL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO NÚMERO 64 DE LA LXIII LEGISLATURA. SE ADICIONAN LOS ARTÍCULOS 3°, 16, 40 BIS. SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO NÚMERO 64 DE LA LXIII LEGISLATURA, DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTICULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado; a excepción del tercer párrafo del Artículo 40 Bis de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, entrará en vigor a partir del 01 de enero de 2019.
+
+Para efectos del cuarto párrafo del Artículo 40 Bis de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios sólo se considerarán los Ingresos de libre disposición destinados a un fin específico en términos de las leyes, aquellos que al día 31 de enero de 2018 se encuentren vigentes.
+
+###### ARTICULO SEGUNDO.
+
+En lo correspondiente al segundo párrafo del Artículo 40 Bis de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, adicionalmente podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos exentes derivados de Ingresos de libre disposición, siempre y cuando el Estado o los Municipios se clasifiquen en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
