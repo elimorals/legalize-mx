@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2018-04-16"
+last_updated: "2018-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1267,7 +1267,7 @@ III.- El parentesco de consanguinidad en línea recta, en la línea colateral ig
 
 IV.- El parentesco de afinidad en línea recta sin limitación alguna. El parentesco civil entre los pretendientes; también se encuentra impedido para el matrimonio el adoptado con los descendientes del adoptante mientras dure el vínculo;
 
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V.- (DEROGADA, P.O. 7 DE MAYO DE 2018)
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
@@ -2015,11 +2015,11 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 
 DEL DIVORCIO.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 288.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
+El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa, siempre que no se encuentre en el supuesto señalado en Artículo 297 de este Código.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
@@ -2137,23 +2137,37 @@ En cualquier momento del trámite incidental referido en el primer párrafo de e
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio. En caso de que no se haya decretado el divorcio, los herederos del cónyuge que fallezca tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 296.
 
-El Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, esté imposibilitado para trabajar o carezca de bienes, y que durante el matrimonio se haya dedicado preponderantemente a las labores del hogar y al cuidado de los hijos. En este caso, los alimentos se fijarán tomando en cuenta las siguientes circunstancias:
+El Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, esté imposibilitado para trabajar o carezca de bienes, y que durante el matrimonio se haya dedicado preponderantemente a las labores del hogar y al cuidado de los hijos. En este caso, los alimentos se fijarán tomando en cuenta los principios señalados en el Artículo 323 de este Código, así como las siguientes circunstancias:
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
 
 I.- La edad y el estado de salud de los cónyuges;
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
 II.- Su calificación profesional y posibilidad de acceso a un empleo;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
 
 III.- Duración del matrimonio y dedicación pasada y futura a la familia;
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
 IV.- Colaboración con su trabajo en las actividades del cónyuge;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
 
 V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
 VI.- Las demás obligaciones que tenga el cónyuge deudor.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE JUNIO DE 2015)</small>
 
 En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos previsto en este Artículo, se extingue cuando el acreedor:
 
@@ -2333,9 +2347,11 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 DE LOS ALIMENTOS.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
+
 ###### Artículo 323.
 
-La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
+La obligación alimentaria es personalísima, subsidiaria, imprescriptible, irrenunciable, intransigible, incompensable, inembargable, intransferible, recíproca, puesto que quien los da tiene a su vez el derecho de pedirlos, y a prorrata entre los obligados de manera solidaria.
 
 ###### Artículo 324.
 
@@ -2991,11 +3007,11 @@ Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de 
 
 (DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 422.
 
-Las adopciones se sujetarán al procedimiento de jurisdicción voluntaria, y las oposiciones aludidas en el Artículo 421 se tramitarán como incidentes dentro del expediente de jurisdicción voluntaria.
+Las adopciones se sujetarán al procedimiento de jurisdicción voluntaria contemplado en el Capítulo Sexto, Título Décimo Cuarto del Código de Procedimientos Civiles, y las oposiciones aludidas en el Artículo 421 deberán tramitarse antes de la audiencia única, en la que deberán ser resueltas de plano.
 
 ###### Artículo 423.
 
@@ -7439,7 +7455,9 @@ Son incapaces de heredar por testamento o por intestado:
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
 
-II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena de prisión, aun cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+
+II.- EI que haya presentado contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, denuncia o querella infundada contra el autor de la sucesión;
 
 III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
@@ -12925,7 +12943,9 @@ DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR.
 
 El arrendador está obligado, aunque no haya pacto expreso:
 
-I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; si no hubo convenio expreso, para aquel a que por su misma naturaleza estuviere destinada; así como en condiciones que ofrezcan al arrendatario la higiene y seguridad del inmueble;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+
+I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias, al corriente en el pago de los servicios públicos básicos y accesorios vinculados a la cosa arrendada, y en estado de servir para el uso convenido; si no hubo convenio expreso, para aquel a que por su misma naturaleza estuviere destinada; así como en condiciones que ofrezcan al arrendatario la higiene y seguridad del inmueble;
 
 II.- A conservar la cosa arrendada en el mismo estado durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 
@@ -12985,9 +13005,11 @@ Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, p
 
 El arrendador responde de los vicios o defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiere conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la disminución de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
+
 ###### Artículo 2293.
 
-Si al terminar el arrendamiento hubiere algún saldo a favor del arrendatario, el arrendador deberá devolverlo inmediatamente, a no ser que tenga algún derecho que ejercitar contra aquel; en este caso depositará judicialmente el saldo referido.
+Si al terminar el arrendamiento hubiere algún saldo a favor del arrendatario, el arrendador deberá devolverlo inmediatamente, salvo que exista adeudo en el pago de los servicios públicos básicos, así como obligaciones accesorias pendientes que el arrendatario haya contraído vinculadas a la cosa arrendada y que corresponda su pago al arrendatario, por lo que una vez cubierto lo anterior, se depositará judicialmente el saldo restante.
 
 ###### Artículo 2294.
 
@@ -13015,13 +13037,17 @@ I.- A satisfacer la renta en la forma y tiempo convenidos;
 
 II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
 
-III.- A servirse de manera licita de la cosa, solamente para el uso convenido conforme a la naturaleza y destino de ella; y
+III.- A servirse de manera licita de la cosa, solamente para el uso convenido conforme a la naturaleza y destino de ella;
 
-(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008) (F. DE E., P.O. 1 DE DICIEMBRE DE 2008)
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
 
-IV.- A proporcionar al arrendador al momento de celebrar el contrato, copia de su identificación oficial y comprobante de domicilio, así como los del fiador u obligado solidario y representante legal en su caso; si el arrendatario es extranjero, deberá proporcionar al arrendador copia de la documentación oficial que acredite su estancia legal en el país.
+IV.- A proporcionar al arrendador al momento de celebrar el contrato, copia de su identificación oficial y comprobante de domicilio, así como los del fiador u obligado solidario y representante legal en su caso; si el arrendatario es extranjero, deberá proporcionar al arrendador copia de la documentación oficial que acredite su estancia legal en el país; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2018)</small>
+
+V.- En su caso, a realizar el pago de los servicios públicos y de las obligaciones accesorias que el arrendatario haya contraído vinculadas a la cosa arrendada.
 
 ###### Artículo 2297.
 
@@ -17199,7 +17225,7 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 16 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -17208,3 +17234,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Sistema Local de Protección, adecuará sus lineamientos con el presente Decreto, en un plazo no mayor de 90 días naturales, contados a partir de la publicación del mismo.
+
+P.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 290.- SE REFORMAN LOS ARTÍCULOS 288, 296, 323, 422, 1228, 2283, 2293 Y 2296; SE ADICIONA EL ARTÍCULO 2296 Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 153 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
