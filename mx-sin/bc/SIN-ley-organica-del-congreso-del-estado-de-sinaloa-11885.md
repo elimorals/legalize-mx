@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2017-12-20"
+last_updated: "2018-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -829,7 +831,9 @@ XXI. De Equidad, Género y Familia;
 
 XXII. De Protocolo y Régimen Orgánico Interior;
 
-XXIII. De Participación Ciudadana;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+
+XXIII. De Transparencia, Anticorrupción y Participación Ciudadana;
 
 XXIV. De Honor y Disciplina Parlamentaria;
 
@@ -859,21 +863,27 @@ El Pleno del Congreso del Estado, acordará por mayoría de los Diputados presen
 
 Los Integrantes de las Comisiones Permanentes durarán en su cargo por el término establecido para el ejercicio constitucional de la Legislatura correspondiente y sólo podrán ser removidos por causa grave mediante acuerdo de la Asamblea.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 70.
 
 Las Comisiones Permanentes, tendrán la competencia que se derive de su denominación en relación a las áreas respectivas de la Administración Pública Estatal y en su caso a la materia de su conocimiento. En el ejercicio de sus funciones podrán dar seguimiento a los programas correspondientes, realizar trabajos de coordinación, así como analizar y dictaminar las iniciativas de Ley y de Decreto, y de participar en las deliberaciones de la Asamblea de acuerdo con las disposiciones de esta Ley.
 
-Las reuniones de las Comisiones serán privadas, pero podrán celebrar, si así lo acuerdan, reuniones públicas con propósitos de información y audiencia.
+Las reuniones de las Comisiones serán públicas.
 
-A las reuniones de las Comisiones asistirán sus miembros, las personas convocadas para informarlas y los Diputados que lo deseen. En sus deliberaciones sólo podrán participar los Diputados del Congreso y únicamente votarán los miembros de la respectiva Comisión.
+Éstas también podrán celebrar reuniones públicas de información y audiencia cuando lo consideren pertinente.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+A las reuniones de las Comisiones podrán asistir sus miembros, las personas convocadas para informarlas, los Diputados que lo deseen y el público en general siempre que la capacidad de la sala en que se celebre la reunión respectiva lo permita. En sus deliberaciones sólo podrán participar los Diputados del Congreso y únicamente votarán los miembros de la respectiva Comisión o Comisiones. Para tales efectos el Presidente o Presidentes de las Comisiones que se encuentren reunidas acordarán las medidas necesarias para la celebración de la reunión respectiva, observando la normatividad en materia de protección civil y seguridad.
 
-Las Comisiones Permanentes presentarán en la última sesión de cada período ordinario de sesiones un informe escrito, por el que se dé cuenta del uso que hayan hecho de sus atribuciones y de los asuntos que les hayan sido turnados por la Mesa Directiva.
+La asistencia del público en general estará sujeta a la capacidad de la sala en que se celebre la reunión respectiva; asimismo, se deberá guardar el debido orden y el público asistente deberá de abstenerse de tomar parte del debate y de realizar manifestaciones de ningún género, presentarse armados, bajo el aparente influjo de alguna sustancia tóxica o enervante; embozado o pretendan introducir objetos extraños sin someterlos a su inspección por el personal encargado. En caso de contravenir esta disposición, el Presidente o Presidentes de las Comisiones que se encuentren reunidas solicitarán se retire del lugar la persona o personas que hayan infringido dichas disposiciones, y de ser necesario requerirá el apoyo de la fuerza pública. Si las disposiciones ordenadas por el Presidente o Presidentes no bastaren para mantener el orden en las reuniones, de inmediato levantará la sesión pública y podrá continuarla con carácter privada.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2003)</small>
+Las reuniones de las Comisiones serán transmitidas en vivo o diferidas, en la página electrónica oficial del Congreso del Estado o en las diferentes plataformas digitales con que cuente el mismo, en la medida en que los medios técnicos y presupuestales lo permitan; asimismo, bajo dichos parámetros los Presidentes de las Comisiones podrán solicitar la habilitación de una sala alterna donde el público en general que no pueda ingresar a la sala donde se esté celebrando una reunión, puedan seguirla a través de la reproducción en vivo en los medios habilitados para tal efecto.
 
 Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de las Comisiones de Honor y Disciplina Parlamentaria e Instructora.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+ARTICULO 70 BIS.- Las Comisiones Permanentes presentarán en la última sesión de cada período ordinario de sesiones un informe escrito, por el que se dé cuenta del uso que hayan hecho de sus atribuciones y de los asuntos que les hayan sido turnados por la Mesa Directiva.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 147, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2008, LA ESTRUCTURA DEL PRESENTE ARTÍCULO HA SIDO MODIFICADA.</small>
 
@@ -2462,3 +2472,15 @@ SEGUNDO. Dentro del plazo de sesenta días naturales posteriores a la fecha de p
 TERCERO. Se deroga el Acuerdo Número 21, de fecha cuatro de noviembre del año dos mil once y todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO. La persona que a la fecha de la entrada en vigor del presente Decreto ocupe la titularidad del Órgano Interno de Control continuará en sus funciones hasta que la Junta de Coordinación Política proponga un nuevo nombramiento al Pleno y esté aprobado por el mismo.
+
+P.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 454 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 67, Y EL ARTÍCULO 70; Y SE ADICIONA EL ARTÍCULO 70 BIS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su aprobación, salvo lo establecido en el siguiente artículo.
+
+SEGUNDO. La reforma del artículo 70 y adición del artículo 70 Bis previstas en (sic) presente Decreto, entrarán en vigor a partir del 1 de agosto de 2018, con la finalidad de que se realicen las adecuaciones técnicas y presupuestales correspondientes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa”.
+
+CUARTO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
