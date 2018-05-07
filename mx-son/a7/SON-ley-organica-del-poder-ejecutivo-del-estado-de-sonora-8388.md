@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2017-02-17"
+last_updated: "2018-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 2018.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -837,7 +837,9 @@ I.- Planear, organizar, coordinar, instrumentar, difundir y aplicar en las depen
 
 II.- Establecer, integrar, normar, organizar, coordinar, dirigir, ejecutar y evaluar los instrumentos y procedimientos de control en la Administración Pública Estatal;
 
-III.- Coordinarse con los órganos de control y desarrollo administrativo, o sus correlativos de los Poderes Legislativo y Judicial del Estado, de los Poderes de la Federación, así como de los municipios del Estado, para el eficaz cumplimiento de sus atribuciones;
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+
+III.- Coordinarse con los órganos internos de control, o sus correlativos de los Poderes Legislativo y Judicial del Estado, de los Poderes de la Federación, municipios del Estado y Organismos Autónomos, para el eficaz cumplimiento de sus atribuciones;
 
 IV.- Promover el fortalecimiento de los órganos de control y evaluación gubernamental de los municipios;
 
@@ -915,7 +917,9 @@ II.- Realizar las funciones en materia de control de los recursos federales que 
 
 III.- Evaluar el desempeño de las dependencias y entidades en la ejecución de sus programas, acciones, objetivos y metas, a fin de mejorar su actuación en el cumplimiento de los mismos;
 
-IV.- Designar a los enlaces con las dependencias para el ejercicio permanente de las atribuciones de control a su cargo;
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+
+IV.- Designar a los órganos internos de control de las dependencias y entidades paraestatales para el ejercicio permanente de las atribuciones de control a su cargo;
 
 > <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -929,9 +933,21 @@ VII.- Controlar, verificar, fiscalizar y evaluar el cumplimiento normativo, en s
 
 VIII.- Instrumentar y operar los sistemas para el seguimiento, registro, control y vigilancia de las operaciones que en las materias de obras públicas y servicios relacionados con las mismas, adquisiciones, arrendamientos y servicios de cualquier naturaleza, lleve a cabo la Administración Pública Estatal, así como tramitar y resolver las inconformidades que presenten las personas que hubiesen participado en los procedimientos de licitación y contratación de las mismas;
 
-IX.- Recibir para su registro, control y demás efectos legales las declaraciones de situación patrimonial de los servidores públicos del Estado, así como verificar su veracidad y practicar las investigaciones que resulten necesarias, conforme a la normatividad aplicable; y
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
 
-X.- Conocer, investigar y, en su caso, sancionar los actos, omisiones o conductas imputables a los servidores públicos del Poder Ejecutivo del Estado, que constituyan responsabilidades administrativas, en términos de la ley en la materia y, de ser necesario, formular las denuncias correspondientes ante el Ministerio Público o ante las autoridades que se estimen competentes, prestándoles la colaboración que le fuere requerida.
+IX.- Recibir para su registro, control y demás efectos legales las declaraciones de situación patrimonial de los servidores públicos del Estado, así como verificar su veracidad y practicar las investigaciones que resulten necesarias, conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+
+X.- Prevenir, investigar, substanciar, resolver, y en su caso, sancionar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas no graves en los términos previstos de la Ley Estatal de Responsabilidades, por sí, o por conducto de los órganos internos de control que correspondan a cada dependencia o entidad de la administración pública estatal; y cuando se trate de faltas administrativas graves, investigar y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa hasta la conclusión de la audiencia inicial, y en el momento procesal oportuno enviar los autos originales del expediente a la sala especializada en materia anticorrupción y responsabilidades administrativas del Tribunal de Justicia Administrativa; asimismo, presentar las denuncias por hechos que las leyes señalen como delitos ante la Fiscalía General, la Fiscalía Especializada en Combate a la Corrupción o ante las autoridades competentes, prestando la colaboración que le fuera requerida en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2018)</small>
+
+XI.- Vigilar, en colaboración con las autoridades que integren los Comités Coordinador de los Sistemas Nacional Anticorrupción y del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal; y
+
+> <small>(ADICIONADA, B.O. 7 DE MAYO DE 2018)</small>
+
+XII.- Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de Servicio Profesional de Carrera en la Administración Pública Estatal.
 
 D. En materia de participación social y vinculación:
 
@@ -1833,21 +1849,27 @@ Los manuales como instrumentos de apoyo administrativo contendrán información 
 
 Los manuales de organización, de procedimientos y de atención al público deberán formalmente expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior de la entidad.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE MAYO DE 2018)</small>
 
-### CAPITULO IV. DEL CONTROL, VIGILANCIA Y EVALUACION DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
+### CAPITULO IV. DEL CONTROL, VIGILANCIA Y EVALUACION DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 57.
 
-Las funciones de control y evaluación de las entidades paraestatales estarán a cargo de los órganos de control y desarrollo administrativo, los cuales dependerán jerárquica, administrativa y funcionalmente de la Secretaría de la Contraloría General.
+Las funciones de prevención, control y evaluación de las dependencias y entidades paraestatales estarán a cargo de los órganos internos de control, los cuales dependerán jerárquica, administrativa y funcionalmente de la Secretaría de la Contraloría General.
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 Los Comisarios Públicos Oficiales y Comisarios Públicos Ciudadanos, designados por la Secretaría de la Contraloría General, ejercerán las funciones de vigilancia de las entidades paraestatales.
 
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 El Comisario Público Ciudadano percibirá los estímulos que se fijen anualmente en el presupuesto de egresos de la Secretaría de la Contraloría General.
 
-Los titulares de los órganos de control y desarrollo administrativo y los Comisarios Públicos, participarán con voz en las reuniones de los órganos de gobierno de las entidades.
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
+
+Los titulares de los órganos internos de control y los Comisionarios Públicos, participarán con voz en las reuniones de los órganos de gobierno de las entidades.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1855,15 +1877,15 @@ Los titulares de los órganos de control y desarrollo administrativo y los Comis
 
 Los comisarios públicos, que serán propietarios y suplentes, evaluarán el desempeño general y por funciones de los organismos descentralizados; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General del Estado les asigne específicamente conforme a las leyes.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 59.
 
-Los órganos de control y desarrollo administrativo realizarán las funciones de control y evaluación de la gestión pública de las entidades paraestatales, de conformidad con lo dispuesto en el reglamento correspondiente y con los lineamientos que emita la Secretaría de la Contraloría General.
+Los órganos internos de control realizarán las funciones de prevención, control y evaluación de la gestión pública de las dependencias y entidades paraestatales, de conformidad con lo dispuesto en el reglamento correspondiente y con los lineamientos que emita la Secretaría de la Contraloría General.
 
-La Secretaría de la Contraloría General cubrirá las remuneraciones del personal de los órganos de control y desarrollo administrativo con cargo al presupuesto de las entidades paraestatales respectivas, las cuales proveerán lo necesario para tal efecto.
+La Secretaría de la Contraloría General cubrirá las remuneraciones del personal de los órganos internos de control con cargo al presupuesto de las entidades paraestatales respectivas, las cuales proveerán lo necesario para tal efecto.
 
-Asimismo, las entidades paraestatales proveerán los recursos materiales, servicios generales e instalaciones físicas adecuadas necesarios para el funcionamiento de los órganos de control y desarrollo administrativo y proporcionarán la colaboración técnica y toda la información que se requiera para el cumplimiento de sus atribuciones.
+Asimismo, las dependencias y entidades paraestatales proveerán los recursos materiales, servicios generales e instalaciones físicas adecuadas necesarias para el funcionamiento de los órganos internos de control y proporcionarán la colaboración técnica y toda la información que se requiera para el cumplimiento de sus atribuciones.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -2428,3 +2450,15 @@ La Secretaría Técnica y de Atención Ciudadana tendrá un plazo improrrogable 
 ###### ARTÍCULO QUINTO.
 
 Toda disposición jurídica que faculte o atribuya funciones a la Secretaría Técnica del Ejecutivo se entenderá conferida a la Secretaría Técnica y de Atención Ciudadana.
+
+B.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 222, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones que se le confieran a los órganos de control y desarrollo administrativo se entenderán conferidas a los órganos internos de control.
