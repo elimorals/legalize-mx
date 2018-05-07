@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2017-05-22"
+last_updated: "2018-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -214,6 +214,10 @@ La prevención, atención y rehabilitación de las personas con discapacidad con
 ###### Artículo 10.
 
 El Estado implementará políticas públicas destinadas a la integración social de las personas con discapacidad, atendiendo a las características particulares de sus necesidades, para ello, deberá considerar como criterios de prioridad el grado de discapacidad, nivel socio económico de la persona y su etnia.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+Asimismo, promoverá una cultura de prevención y atención integral de la discapacidad y de las enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y de las personas con enfermedades en situación terminal, en las diferentes etapas de la vida, mediante tareas de sensibilización, educación, difusión e integración, con base en las leyes generales y estatales vigentes.
 
 ###### Artículo 11.
 
@@ -1026,3 +1030,13 @@ P.O. 22 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 180 QUE REFORMA LAS FRACCIONES XXVI Y XXVII DEL ARTÍCULO 5, ARTÍCULO 58 Y FRACCIONES III Y IV DEL ARTÍCULO 59; Y SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 5, Y LA FRACCIÓN V AL ARTÍCULO 59, DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DEL HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
+
+P.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 429 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD Y DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD, AMBAS DEL ESTADO DE HIDALGO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. El Ejecutivo Estatal contemplará una partida especial para el cumplimiento del presente Decreto, en los presupuestos para el ejercicio de cada año fiscal, a partir de su entrada en vigor.
+
+Tercero. El Ejecutivo Estatal expedirá los reglamentos y normatividad administrativa aplicable para el cumplimiento del presente Decreto, a más tardar 180 días a partir de su publicación en el Periódico Oficial.
