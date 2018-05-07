@@ -4,7 +4,7 @@ identifier: "BCS-estatuto-organico-del-sistema-estatal-para-el-desarrollo-118370
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-10"
-last_updated: "2017-01-10"
+last_updated: "2018-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 2018.
 
 Estatuto publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 10 de enero de 2017.
 
@@ -241,11 +241,19 @@ XXVIII. Ejercer directamente cualquier facultad de las que correspondan a las á
 
 XXIX. Las demás que establezcan las disposiciones legales aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE MAYO DE 2018)</small>
+
 ###### Artículo 13.
 
-A la Directora General del SEDIF corresponderán originalmente la representación, trámite y resolución de todos los asuntos del mismo y podrá conferir sus facultades delegables a servidores públicos subalternos, sin perjuicio de su ejercicio directo, auxiliándose de las Direcciones, así como de la Procuraduría de Protección de Niñas, Niños y Adolescentes, y de las Coordinaciones básicas siguientes:
+A la Directora General del SEDIF corresponderán originalmente la representación, trámite y resolución de todos los asuntos del mismo y podrá conferir sus facultades delegables a servidores públicos subalternos, sin perjuicio de su ejercicio directo, auxiliándose de la Subdirección General, Direcciones, así como de la Procuraduría de Protección de Niñas, Niños y Adolescentes, y de las Coordinaciones básicas siguientes:
 
-A. DIRECCION DE ADMINISTRACIÓN
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE MAYO DE 2018)</small>
+
+A. SUBDIRECCIÓN GENERAL
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 7 DE MAYO DE 2018)</small>
+
+A BIS. DIRECCIÓN DE ADMINISTRACIÓN
 
 I. Subdirección Administrativa.
 
@@ -337,6 +345,10 @@ I. Departamento de Fiscalización y Supervisión.
 
 II. Departamento de Evaluación.
 
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2018)</small>
+
+E BIS. DE LA DIRECCIÓN DE GESTIÓN CIUDADANA
+
 F. COORDINACIONES:
 
 I. JURÍDICA
@@ -359,9 +371,45 @@ a).- Departamento de Elaboración de Proyectos.
 
 b).- Departamento de Obra Civil.
 
-## TÍTULO CUARTO. DE LAS ATRIBUCIONES GENERICAS DE LAS DIRECCIONES Y DE LAS COORDINACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE MAYO DE 2018)</small>
+
+## TÍTULO CUARTO. DE LAS ATRIBUCIONES GENERICAS DE LA SUBDIRECCIÓN GENERAL, DIRECCIONES Y DE LAS COORDINACIONES
+
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 14.
+
+Corresponderá a la Subdirección General, auxiliar al Director General del SEDIF en el desarrollo de las facultades delegables que este, específicamente le indique y que se encuentren señaladas en el artículo 37 de la Ley y 12 de este Estatuto Orgánico, así mismo será el enlace entre este con las Direcciones y Coordinaciones de Área; Será nombrado por la Directora General del SEDIF y deberá ser ratificado por la Junta de Gobierno; además tendrá las siguientes facultades:
+
+I. Planear, establecer, coordinar y evaluar las acciones de las áreas administrativas de su adscripción;
+
+II. Proponer al Director General de SEDIF los proyectos de acuerdos de instancia o recomendación que se estime necesario formular a las autoridades, conforme a lo previsto en la Ley y este Estatuto Orgánico;
+
+III. Establecer y vigilar la operación del registro de denuncias, quejas, juicios, recomendaciones, solicitudes, convenios y, en general, de las actuaciones jurídicas en que el SEDIF intervenga;
+
+IV. Dirigir y controlar los servicios de representación judicial, gestoría administrativa y asesoramiento que se presten a los sujetos de asistencia social;
+
+V. Hacer del conocimiento de la autoridad competente la inobservancia de las disposiciones de las leyes de asistencia social que puedan dar lugar a infracciones o faltas administrativas y, en general, el incumplimiento de las obligaciones y responsabilidades de los servidores públicos y de los empleados encargados de la administración de justicia;
+
+VI. Formular denuncias ante las autoridades competentes, de los hechos que pudieran ser constitutivos de delitos relacionados con el SEDIF;
+
+VII. Calificar las excusas e impedimentos que presenten los servidores públicos de la institución para inhibirse del conocimiento y trámite de los asuntos de su competencia;
+
+VIII. Coordinarse con las Direcciones de Área, en su caso, para elaborar ante COPLADEBCS el Programa sectorial derivado del Plan Estatal de Desarrollo.
+
+IX. Coordinar con las Direcciones de Área la implementación, evaluación y seguimiento de los objetivos, metas, actividades e indicadores de impacto social del Programa sectorial derivado del Plan Estatal de Desarrollo.
+
+X. Coordinar con las Direcciones de Área la elaboración del Informe de Gobierno, así como el Informe de la Presidenta del SEDIF.
+
+XI. Dar seguimiento a los acuerdos de las sesiones del Subcomité Especial de la Familia Sudcaliforniana.
+
+XII. Participar como enlace de SEDIF con instituciones y dependencias en el ámbito de su responsabilidad.
+
+XIII. Ejercer las demás facultades que determinen otras disposiciones legales y administrativas, así como las que le confiera el Director General.
+
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2018)</small>
+
+###### Artículo 14 Bis.
 
 Al frente de cada Dirección habrá un Director que será nombrado por la Directora General del SEDIF, que deberá ser ratificado por la Junta de Gobierno.
 
@@ -371,11 +419,17 @@ En el desempeño de sus funciones serán auxiliados por los Subdirectores, Coord
 
 Corresponden a las Direcciones las siguientes facultades comunes:
 
-I. Acordar con la Directora General del SEDIF el despacho de los asuntos relevantes de las áreas a su cargo;
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
 
-II. Desempeñar las funciones y comisiones que la Directora General del SEDIF les delegue y encomiende e informarle sobre el desarrollo de sus actividades, así como establecer estrategias y mecanismos de integración e interrelación institucional que promuevan el óptimo desarrollo y cumplimiento de sus responsabilidades;
+I. Acordar con la Subdirección General del SEDIF el despacho de los asuntos relevantes de las áreas a su cargo;
 
-III. Formular las políticas, planes, programas y presupuestos que les correspondan y someterlos a consideración de la Directora General del SEDIF para su autorización;
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+
+II. Desempeñar las funciones y comisiones que la Directora General del SEDIF les delegue y encomiende e informarle a través de la Subdirección General, sobre el desarrollo de sus actividades, así como establecer estrategias y mecanismos de integración e interrelación institucional que promuevan el óptimo desarrollo y cumplimiento de sus responsabilidades;
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+
+III. Formular las políticas, planes, programas y presupuestos que les correspondan y a través de la Subdirección General someterlos a consideración de la Directora General del SEDIF para su autorización;
 
 IV. Participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Estatal de Desarrollo, en su ámbito de responsabilidad;
 
@@ -383,7 +437,9 @@ V. Colaborar en la elaboración de propuestas de proyectos de Normas Oficiales M
 
 VI. Coadyuvar en la realización, promoción, difusión y publicación de estudios e investigaciones en el ámbito de su competencia con la participación, en su caso, de los sectores público, privado, social y académico;
 
-VII. Someter a la aprobación de la Directora General del SEDIF, las políticas y disposiciones normativas necesarias para la operación del mismo;
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+
+VII. Someter a la aprobación de la Directora General del SEDIF, a través de la Subdirección General las políticas y disposiciones normativas necesarias para la operación del mismo;
 
 VIII. Planear, organizar, dirigir y controlar el funcionamiento de las áreas a su cargo;
 
@@ -403,7 +459,13 @@ XV. Promover y vigilar que, en la atención y resolución de los asuntos de su c
 
 XVI. Coordinar los procesos de administración documental de las áreas a su cargo;
 
-XVII. Administrar los recursos humanos, materiales y técnicos de las áreas a su cargo, estableciendo medidas para su optimización y racionalización; y
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XVIII.]</small>
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+
+XVII. Las demás que establezcan las disposiciones legales aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos y las que le asigne (sic) Directora General del SEDIF directamente y/o a través de la Subdirección General, dentro de la esfera de sus atribuciones.
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN XVII.]</small>
 
 XVIII. Las demás que establezcan las disposiciones legales aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos y las que le asigne el (sic) Directora General del SEDIF, dentro de la esfera de sus atribuciones.
 
@@ -565,9 +627,9 @@ VIII. Proponer propuestas de anteproyecto de Normas Oficiales Mexicanas en mater
 
 IX. Coordinar los estudios e investigaciones en materia de servicios asistenciales e integración social, rehabilitación y atención integral a personas con discapacidad;
 
-X. Participar en coordinación y colaboración con los sectores público, social y privado, en programas asistenciales en materia de servicios asistenciales e integración social, de salud, rehabilitación y atención integral a personas con discapacidad;
+X. (DEROGADA, B.O. 7 DE MAYO DE 2018)
 
-XI. Participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Estatal de Desarrollo, en su ámbito de competencia;
+XI. (DEROGADA, B.O. 7 DE MAYO DE 2018)
 
 XII. Colaborar en el diseño y desarrollo de modelos de atención integral, orientados a la prestación de servicios asistenciales y atención a personas con discapacidad;
 
@@ -859,6 +921,30 @@ XVIII. Con el apoyo de sus Departamentos, organizar y asistir a las sesiones de 
 
 XIX. Las demás que le encomienden expresamente las Leyes, Reglamentos y las que le asigne el Director General, dentro de la esfera de sus atribuciones.
 
+> <small>(ADICIONADO, B.O. 7 DE MAYO DE 2018)</small>
+
+###### Artículo 34 Bis.
+
+Corresponden a la Dirección de Gestión Ciudadana, las siguientes facultades:
+
+I. Establecer y supervisar las políticas y estrategias de cooperación interinstitucional en materia de asistencia social y gestión ciudadana.
+
+II. Asesorar y apoyar a la Directora General del SEDIF en las funciones que le competan, en el seguimiento de políticas públicas de asistencia social;
+
+III. Atender, orientar, gestionar, canalizar y dar seguimiento a las peticiones de los sujetos de la asistencia social, así como operar el proceso de la gestión ciudadana del SEDIF;
+
+IV. Participar en coordinación y colaboración con los sectores público, social y privado, en programas asistenciales en materia de servicios asistenciales e integración social, de salud, rehabilitación y atención integral a personas con discapacidad;
+
+V. Participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Estatal de Desarrollo, en su ámbito de competencia;
+
+VI. En materia de gestión ciudadana, evaluar, clasificar y dar seguimiento a los acuerdos, disposiciones y compromisos adoptados por el SEDIF en el ejercicio de sus atribuciones y obligaciones.
+
+VII. Se coordinará con las diferentes Direcciones del SEDIF, dependencias o entidades de la Administración Pública Estatal y Municipal, para la adecuada gestión de las demandas ciudadanas y de los acuerdos de la Directora General del SEDIF;
+
+VIII. Informar periódicamente a la Directora General del SEDIF sobre el trabajo y los avances que se logren en la gestión Ciudadana; y
+
+IX. Las demás que le encomiende la Directora General del SEDIF y las que le señalen las disposiciones legales aplicables.
+
 ### Capítulo VI. DE LA COORDINACIÓN JURIDICA
 
 ###### Artículo 35.
@@ -921,15 +1007,21 @@ Al frente de la Coordinación de Comunicación Social y Relaciones Publicas, hab
 
 En el desempeño de sus funciones, La Coordinación de Comunicación Social y Relaciones Publicas, será auxiliado por Jefes de Departamento y por el demás personal que sea necesario.
 
-Artículo 53 (SIC).- Corresponde a la Coordinación de Comunicación Social y Relaciones Publicas, las siguientes facultades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE MAYO DE 2018)</small>
 
-I. Establecer y supervisar las políticas y estrategias de cooperación interinstitucional en materia de asistencia social, atención ciudadana, comunicación social, asuntos nacionales e internacionales y relaciones públicas del SEDIF;
+###### Artículo 37 Bis.
 
-II. Asesorar y apoyar al (sic) Directora General del SEDIF en las funciones que le competan, en el seguimiento de políticas públicas de asistencia social;
+Corresponde a la Coordinación de Comunicación Social y Relaciones Públicas, las siguientes facultades:
+
+> <small>(REFORMADA, B.O. 7 DE MAYO DE 2018)</small>
+
+I. Establecer y supervisar las políticas y estrategias de cooperación interinstitucional en materia de comunicación social, asuntos nacionales e internacionales y relaciones públicas del SEDIF;
+
+II. (DEROGADA, B.O. 7 DE MAYO DE 2018)
 
 III. Planear y coordinar las relaciones que deba establecer el (sic) Directora General del SEDIF con los diferentes sectores y representantes;
 
-IV. Atender, orientar, gestionar, canalizar y dar seguimiento a las peticiones de los sujetos de la asistencia social, así como operar el proceso de la atención ciudadana del SEDIF;
+IV. (DEROGADA, B.O. 7 DE MAYO DE 2018)
 
 V. Formular y proponer al (sic) Directora General el programa de comunicación social del SEDIF, para someterlo a la autorización de las instancias correspondientes;
 
@@ -951,7 +1043,9 @@ XXIII. Las demás que le encomienden expresamente las Leyes, Reglamentos y las q
 
 ### Capítulo VIII. DE LA COORDINACIÓN DE PROYECTOS ESTRATÉGICOS
 
-Artículo 38 (SIC).- Al frente de la Coordinación de Proyectos Estratégicos, habrá un Coordinador o Coordinadora, será nombrado por la Directora General del SEDIF, y dependerá directamente de la misma.
+###### Artículo 38.
+
+Al frente de la Coordinación de Proyectos Estratégicos, habrá un Coordinador o Coordinadora, será nombrado por la Directora General del SEDIF, y dependerá directamente de la misma.
 
 En el desempeño de sus funciones, La Coordinación de Proyectos Estratégicos será auxiliado (sic) por Jefes de Departamento y por el demás personal que sea necesario.
 
@@ -1044,3 +1138,15 @@ Secretario de Trabajo y Previsión Social del Gobierno del Estado de Baja Califo
 Mtro. Erasmo Palemón Alamilla Villeda
 
 Procurador General de Justicia del Gobierno del Estado de Baja California Sur.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. Las Presentes reformas entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por el área administrativa a la que se les haya trasferido.
+
+TERCERO. Las dependencias encargadas de la administración de los recursos humanos materiales y financieros, deberán tramitar los cambios presupuestales y administrativos necesarios para el cumplimiento de las presentes reformas.
