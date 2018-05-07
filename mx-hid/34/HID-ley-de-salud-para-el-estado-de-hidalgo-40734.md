@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2017-09-25"
+last_updated: "2018-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -164,6 +164,10 @@ XXVII.- El control sanitario de la disposición de órganos, tejidos y sus compo
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
 
 XXVIII.- El tratamiento integral del dolor;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2018)</small>
+
+XXVIII Bis.- Los cuidados paliativos a las personas enfermas en situación terminal.
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -405,7 +409,9 @@ El Estado podrá celebrar con la Federación, acuerdos de coordinación a fin de
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-## TITULO CUARTO
+## TITULO TERCERO BIS. PREVENCION Y CONTROL DE ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS Y DE LAS PERSONAS ENFERMAS EN SITUACION TERMINAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
 
 ### CAPITULO I BIS. PROFESIONALES, TÉCNICOS Y AUXILIARES
 
@@ -413,7 +419,7 @@ El Estado podrá celebrar con la Federación, acuerdos de coordinación a fin de
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-## TITULO QUINTO. VIGILANCIA SANITARIA
+## TITULO CUARTO
 
 ### CAPÍTULO II BIS. DE LAS INSTITUCIONES EDUCATIVAS QUE EXPENDAN ALIMENTOS
 
@@ -1171,7 +1177,9 @@ En estos establecimientos, se garantizará el respeto a los derechos humanos y a
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2008)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO I. DEFINICIONES
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 142 Bis 1.
 
@@ -1187,7 +1195,9 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO II. DERECHOS DE LAS PERSONAS CON ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS Y DE LAS PERSONAS ENFERMAS EN SITUACION TERMINAL
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 142 Bis 2.
 
@@ -1267,7 +1277,9 @@ En el caso de que a cualquiera de dichas instituciones públicas o privadas haya
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2017)</small>
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO III. OBLIGACIONES DEL PERSONAL MEDICO TRATANTE EN RELACION CON LAS PERSONAS QUE PADECEN ENFERMEDADES EN SITUACION TERMINAL
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
 
 ###### Artículo 142 Ter.
 
@@ -1303,17 +1315,133 @@ V (SIC).- Las demás que directa o indirectamente contribuyan al fomento de la s
 
 Artículo 142 Sexties.- La atención y tratamiento de los trastornos mentales deberá brindarse con un enfoque de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios, respetando los principios de igualdad, la prohibición de discriminación, el derecho a la privacidad ya (sic) la autonomía Personal y la prohibición de tratos inhumanos y degradantes.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2018)</small>
+
+## TITULO QUINTO. VIGILANCIA SANITARIA
+
+### CAPITULO IV
+
+DERECHOS ESPECIFICOS DE LAS PERSONAS CON ENFERMEDADES RARAS NO INFECTO-CONTAGIOSAS CRONICAS O CRONICO-DEGENERATIVAS.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+###### Artículo 142 Septies.
+
+Para los efectos de este título, se entenderá por:
+
+I.- Cuidados paliativos: Los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en situación terminal, con enfermedades crónicas, degenerativas o crónico-degenerativos que no respondan a tratamientos curativos y que requieren atención de aspectos psicológicos sociales y espirituales, y a sus familiares;
+
+II.- Enfermedad crónica: Aquella de larga duración y por lo general de progresión lenta. Tiene una o más de las siguientes características: es permanente, deja discapacidad residual, es causado por una alteración patológica irreversible, requiere especial entrenamiento en pacientes para rehabilitación o requiere un periodo largo de supervisión, observación o cuidado;
+
+III.- Enfermedad degenerativa: Aquella en la que existe deterioro de una estructura o función de los tejidos del organismo o relacionado con ellos o elementos anatómicos con cambios químicos de la sustancia componente con pérdida de los caracteres y funciones esenciales. Estado caracterizado por deterioro de las facultades físicas y mentales. Deterioro de los tejidos con el correspondiente fallo funcional como resultado de una lesión o de una enfermedad. El proceso puede avanzar hasta un estado irreversible y causar la muerte de los tejidos;
+
+IV.- Enfermedad rara: Aquella cuya prevalencia es inferior a cinco casos por cada 10 mil personas y que puede derivar de cuestiones genéticas;
+
+V.- Enfermedad en situación terminal: Todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para la persona enferma sea menor a seis meses;
+
+VI.- Enfermedades no Infecto-Contagiosas: Aquellas que no son producidas por agentes microbianos, por lo tanto, no pueden transmitirse;
+
+VII.- Medios extraordinarios: Los que constituyen una carga demasiado grave para la persona enferma y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+VIII.- Medios ordinarios: Los que son útiles para conservar la vida de la persona enferma en situación terminal o para curarla, sin que le constituyan una carga grave o desproporcionada a los beneficios que se pueden obtener; y
+
+IX.- Obstinación Terapéutica: La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
+
+### CAPITULO I. AUTORIZACIONES
+
+###### Artículo 142 Octies.
+
+Las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y las personas con enfermedades en situación terminal, tienen los siguientes derechos:
+
+I. Recibir atención médica integral en las instituciones de Salud, según sea su elección;
+
+II. Ingresar por solicitud propia o persona legalmente facultado para ello, a las instituciones de salud cuando requieran atención médica;
+
+III. Recibir atención por personal capacitado en el tratamiento (sic) enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y en la atención de las personas con enfermedades en situación terminal;
+
+IV. Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
+
+V. Recibir un trato digno, respetuoso y profesional por parte del personal de las instituciones de salud, las que deben procurar preservar su calidad de vida;
+
+VI. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca, con la clara distinción de los límites entre el tratamiento curativo y el tratamiento paliativo;
+
+VII. Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
+
+VIII. Solicitar al personal médico, la administración de medicamentos que mitiguen el dolor;
+
+IX. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
+
+X. Optar por recibir los cuidados paliativos en un domicilio particular, cuando se determine dentro del plan de cuidados paliativos;
+
+XI. Designar a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, no pueda expresar su voluntad, lo haga en su representación;
+
+XII. Recibir los servicios espirituales, cuando lo solicite personalmente, su familia, representante legal o persona de su confianza; y
+
+XIII. Los demás que las leyes señalen.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2018)</small>
+
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+
+###### Artículo 142 Nonies.
+
+El personal médico tratante en las instituciones de salud, tanto del sector público como del privado, sin menoscabo de lo señalado en la Ley General de Salud vigente, tendrán las siguientes obligaciones:
+
+I. Informar oportunamente y de manera respetuosa al o la paciente, que su enfermedad es terminal, así como su expectativa de vida;
+
+II. Informar pertinentemente a la persona enferma en situación terminal y en su caso, a quien tenga la facultad de conformidad con la ley aplicable, que no existe tratamiento curativo para su padecimiento;
+
+III. Proporcionar la información del historial médico personal y la referente al padecimiento que él o la paciente requiera, así como la que el personal médico considere necesaria, para que la persona enferma en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados, al tiempo que se garantiza su derecho a tener una muerte digna, cuando la enfermedad haya entrado en situación terminal;
+
+IV. Pedir el consentimiento informado de la persona enferma en situación terminal, por escrito, ante dos testigos, a efecto de recibir los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+V. Informar a la persona enferma en situación terminal o a la persona autorizada, sobre las opciones que existan de cuidados paliativos;
+
+VI. Respetar la decisión de la persona enferma en situación terminal o de la persona autorizada, en cuanto al tratamiento y cuidados paliativos, una vez que se le haya explicado en términos sencillos, las consecuencias de su decisión;
+
+VII. Procurar las medidas mínimas necesarias para preservar la calidad de vida de las personas enfermas en situación terminal;
+
+VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala la normatividad aplicable, evitando, sin que exista duda razonable, la obstinación terapéutica o la aplicación de medidas extraordinarias;
+
+IX. Hacer saber a la persona enferma, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad, tiene posibles efectos secundarios;
+
+X. Solicitar, cuando lo estime conveniente o por decisión de la persona enferma, una segunda opinión a otro médico, cuando su diagnóstico sea una enfermedad terminal; y
+
+XI. Las demás que las leyes señalen.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2018)</small>
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+###### Artículo 142 Decies.
+
+Las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas, sin menoscabo de los derechos plasmados en el artículo 142 Septies y la normatividad aplicable, tendrán los siguientes derechos:
+
+I. A la prevención y detección precoz a través de los análisis los (sic) correspondientes cuando exista la sospecha por parte del personal médico de estar en presencia de una enfermedad rara no infecto-contagiosa crónica o crónico-degenerativa;
+
+II. Al apoyo y transferencia para el tránsito entre atención primaria y atención especializada, canalizando al o la paciente a las Unidades Médicas correspondientes;
+
+III. A la información y participación que garanticen al o la paciente un asesoramiento genético apropiado, para que cuente con toda la información médica disponible en relación con su padecimiento, que le permita la toma de decisiones razonadas y el respeto a estas;
+
+IV. A recibir el tratamiento terapéutico o paliativo adecuado a su padecimiento, con pleno conocimiento de las consecuencias y alcances, brindado por parte del personal médico;
+
+V. A participar en programas de fomento y apoyo de las terapias avanzadas y de la investigación;
+
+VI. A tener acceso en las Unidades de Rehabilitación, cuando su tratamiento considere la opción de ser rehabilitado;
+
+VII. A no ser objeto de discriminación de ningún tipo por motivo de su enfermedad y ser tratado en irrestricto apego a su dignidad; y
+
+VIII. Los demás que le confieran la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2018)</small>
+
+Artículo 142 Undecies.- En casos de urgencia médica y que exista incapacidad de las personas con enfermedades raras no infecto-contagiosas crónicas o crónico-degenerativas y de las personas enfermas en situación terminal, para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por dos integrantes del personal médico autorizado en términos de las disposiciones aplicables.
+
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
-
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
-
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
-
-### CAPITULO IV. DE LOS RECURSOS ADMINISTRATIVOS
-
-### CAPITULO V. PRESCRIPCIÓN
 
 ###### Artículo 143.
 
@@ -1373,6 +1501,8 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la Autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los Convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
+
 ###### Artículo 155.
 
 La Secretaría de Salud podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
@@ -1429,6 +1559,8 @@ La Autoridad Sanitaria competente emitirá la resolución que corresponde al con
 
 La revocación tendrá efectos de clausura definitiva, de prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
 ###### Artículo 163.
 
 Corresponde a la Secretaría de Salud la interpretación y ejecución de esta Ley y demás disposiciones que se dicten con base en ella.
@@ -1458,6 +1590,8 @@ La Autoridad Sanitaria podrá encomendar a sus verificadores además actividades
 ###### Artículo 169.
 
 Las visitas de verificación se ajustarán a lo dispuesto por la Ley Estatal del Procedimiento Administrativo.
+
+### CAPITULO IV. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### Artículo 170.
 
@@ -1556,6 +1690,8 @@ Si el dictamen resultara que el bien asegurado es nocivo, se podrá determinar, 
 ###### Artículo 181.
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general de cualquier predio, se ordenará, observando la garantía de audiencia y legalidad y previo dictamen pericial, cuando a juicio de la Autoridad Sanitaria, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
+
+### CAPITULO V. PRESCRIPCIÓN
 
 ###### Artículo 182.
 
@@ -1864,3 +2000,13 @@ P.O. 25 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 213 QUE REFORMA EL ARTÍCULO 175 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 429 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD Y DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD, AMBAS DEL ESTADO DE HIDALGO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. El Ejecutivo Estatal contemplará una partida especial para el cumplimiento del presente Decreto, en los presupuestos para el ejercicio de cada año fiscal, a partir de su entrada en vigor.
+
+Tercero. El Ejecutivo Estatal expedirá los reglamentos y normatividad administrativa aplicable para el cumplimiento del presente Decreto, a más tardar 180 días a partir de su publicación en el Periódico Oficial.
