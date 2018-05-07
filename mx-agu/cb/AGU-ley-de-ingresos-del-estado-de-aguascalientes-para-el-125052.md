@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-125052"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2017-12-22"
-last_updated: "2018-04-16"
+last_updated: "2018-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1 DE ENERO DE 2018.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el viernes 22 de diciembre de 2017.
 
@@ -221,7 +219,7 @@ Por el uso o goce de bienes y por la prestación de servicios de las Autoridades
 
 Por el uso o goce de bienes y por la prestación de servicios de las Autoridades de la Secretaría de Desarrollo Rural y Agroempresarial, se causarán y pagarán los derechos correspondientes, de conformidad con las leyes respectivas y aplicando las siguientes tarifas:
 
-l. Por la renta de maquinaria pesada:
+I. Por la renta de maquinaria pesada:
 
 1) D6N caterpillar, por hora 700
 
@@ -251,7 +249,7 @@ II. Renta de stands Expo-Agroalimentaria:
 
 6) Stand a Estados invitados GRATUITO
 
-lll. Renta de stands Expo-Agro Festival de las Calaveras:
+III. Renta de stands Expo-Agro Festival de las Calaveras:
 
 1) Renta stand tipo "A" 2,000
 
@@ -277,7 +275,7 @@ VII. El titular de la Secretaría de Desarrollo Rural y Agroempresarial está fa
 
 Por la prestación de servicios a que se refiere el Artículo 74 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
 
-l. Copia simple o digitalización de documentos, por página 1
+I. Copia simple o digitalización de documentos, por página 1
 
 II. Copia certificada de documentos, por página 27
 
@@ -479,7 +477,7 @@ Los servicios prestados por el Sistema para el Desarrollo Integral de la Familia
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 152 A LA 160.]</small>
 
-> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE ABRIL DE 2018, PÁGINA 13.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 16 DE ABRIL DE 2018, PÁGINA 13.]</small>
 
 El Director General del Fideicomiso podrá otorgar tarifa especial conforme a las facultades establecidas en los reglamentos normativos aplicables del Fideicomiso Complejo Tres Centurias.
 
@@ -490,6 +488,8 @@ Las renta de espacios, conceptos y tarifas establecidas en los numerales son má
 El Fideicomiso, a través de su Director General y autorización del Comité Técnico del Fideicomiso Complejo Tres Centurias, podrá realizar acciones eventuales con el fin de promocionar los diferentes espacios del Complejo Tres Centurias.
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 160 A LA 165.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 7 DE MAYO DE 2018, PÁGINAS DE LA 5 A LA 8.]</small>
 
 ## TÍTULO SÉPTIMO. DE LAS DISPOSICIONES FINALES
 
@@ -706,3 +706,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se faculta a la Secretaría de Finanzas de (sic) Gobierno del Estado, para que dentro de los sesenta días naturales a la publicación del presente Decreto, elabore y publique el documento denominado Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales.
+
+P.O. 7 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 287.- SE DEROGAN INCISOS DE LA FRACCIÓN XI DEL ARTÍCULO 26, Y SE ADICIONAN INCISOS, A LA FRACCIÓN XI DEL ARTÍCULO 26 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2018 DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
