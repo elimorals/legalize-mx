@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-social-93455
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-22"
-last_updated: "2017-06-09"
+last_updated: "2018-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INCLUSIÓN Y DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 8 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
@@ -1629,7 +1631,7 @@ P.O. 24 DE MARZO DE 2017.
 
 P.O. 9 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -1637,10 +1639,18 @@ SEGUNDO. Los asuntos pendientes al entrar en vigor el presente Decreto y que con
 
 TERCERO. La Subsecretaría de Desarrollo Social de la Región Laguna contará con un o una Titular y los recursos humanos, materiales y financieros que le sean autorizados conforme a las disposiciones legales aplicables.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1198.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I DEL ARTÍCULO 8, Y LA FRACCIÓN II DEL ARTÍCULO 9; SE ADICIONA UNA FRACCIÓN XVII DEL ARTÍCULO 6 RECORRIÉNDOSE LA SUBSECUENTE, TODAS DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+P.O. 8 DE MAYO DE 2018.
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE INCLUSIÓN Y DESARROLLO SOCIAL”.]
 
-SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 13 DE MARZO DE 2021.
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado N° 24 primera sección, de fecha 22 de marzo de 2013 y sus subsecuentes reformas, que continuarán en vigor, hasta en tanto no se lleve a cabo la entrega recepción a la dependencia o entidad que asumirá sus atribuciones.
+
+TERCERO. Cuando en el presente Reglamento se dé una denominación nueva o distinta a alguna de las unidades administrativas cuyas funciones estén establecidas por el Reglamento anterior o cualquier otra disposición legal, dichas atribuciones se entenderán conferidas a las unidades administrativas que determine este Reglamento.
+
+CUARTO. Cuando alguna de las dependencias conforme a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, el 19 de noviembre de 2017, pase a la Secretaría de Inclusión y Desarrollo Social, el traspaso se hará incluyendo los recursos humanos, materiales y financieros que tenga asignados para el ejercicio de sus atribuciones.
+
+QUINTO. En un plazo no mayor a ciento veinte días naturales posteriores a la entrada en vigor el presente Reglamento, deberán de expedirse las adecuaciones a las Reglas de Operación, Lineamientos y demás disposiciones reglamentarias y administrativas internas, que resulten necesarias para su armonización con el presente Reglamento en tanto, se seguirán aplicando las vigentes en lo que no se oponga al presente Reglamento.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor (sic) presente Reglamento serán desahogados por las unidades administrativas correspondientes de las dependencias que asuman la competencia para ello conforme al presente Reglamento y se regirán por las disposiciones que se encontraban vigentes al momento que dio inició su substanciación.
