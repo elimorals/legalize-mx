@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2018-05-03"
+last_updated: "2018-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -284,7 +284,9 @@ d) Socios o empresas de las que el diputado o diputada formen o hayan formado pa
 
 XIV. Adecuar todas sus conductas a los ordenamientos respectivos y evitar que los recursos económicos, humanos, materiales y telemáticos, de que disponga para el ejercicio de su cargo, se destinen a otros fines;
 
-XV. Mantener un vínculo permanente con sus representados, a través de una oficina de enlace legislativo en el distrito o circunscripción para el que haya sido electo;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2018)</small>
+
+XV. Mantener un vínculo permanente con sus representados, a través de una oficina física y/o virtual de enlace legislativo en el distrito o circunscripción para el que haya sido electo.
 
 XVI. Presentar un Informe anual sobre el desempeño de sus labores, ante los ciudadanos de su distrito o circunscripción, del cual deberá enviar una copia a la Conferencia, para su publicación en la Gaceta;
 
@@ -688,7 +690,9 @@ II. En caso de votación nominal no vote o no manifieste su abstención en al me
 
 I. Enfermedad u otros motivos de salud,
 
-II. Gestación y maternidad, y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2018)</small>
+
+II. Gestación, maternidad, y paternidad, y
 
 III. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa Directiva, el Coordinador o alguna comisión a la que pertenezca.
 
@@ -698,7 +702,9 @@ III. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa 
 
 ###### Artículo 49.
 
-1. La justificación de inasistencia por enfermedad, motivos de salud, gestación y maternidad deberá tramitarse ante la Mesa Directiva, con una constancia médica avalada por los servicios médicos de la Cámara.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2018)</small>
+
+1. La justificación de inasistencia por enfermedad, motivos de salud, gestación y maternidad o paternidad deberá tramitarse ante la Mesa Directiva, con una constancia médica avalada por los servicios médicos de la Cámara.
 
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
@@ -2582,7 +2588,11 @@ III. Podrá obtener reportes en materia regulatoria, social y de opinión públi
 
 ###### Artículo 177.
 
-1. En el proceso legislativo de dictamen, la comisión deberá convocar al diputado o diputada federal iniciante, a efecto de ampliar la información acerca de su propuesta. Si éste no asistiere continuará el proceso de dictamen.
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2018)</small>
+
+1. A partir del momento en que una comisión o comisiones reciban una iniciativa y hasta antes de que se emita el dictamen correspondiente, la diputada o diputado iniciante, podrán ejercer el derecho de remitir por escrito información complementaria y adicional que se encuentre directamente relacionada con el objeto de la iniciativa presentada, y que haya surgido con posterioridad a su admisión por la Mesa Directiva.
+
+Con independencia de lo previsto en el párrafo anterior, en el proceso legislativo de dictamen, la comisión deberá convocar a la diputada o diputado iniciante, a efecto de ampliar la información acerca de su propuesta. Si éste no asistiere continuará el proceso de dictamen.
 
 2. La comisión por mayoría absoluta podrá acordar la realización de audiencias públicas o reuniones, en las que consulte:
 
@@ -2596,9 +2606,9 @@ IV. A las cámaras, consejos y organizaciones sociales conocedoras del tema que 
 
 V. Las opiniones de los ciudadanos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2018)</small>
 
-3. El Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, con cinco días de anticipación a la Reunión en que se discuta y se vote. Tratándose de una iniciativa preferente se deberá circular con un mínimo de veinticuatro horas previas a su discusión y votación.
+3. El Presidente de la Junta Directiva deberá circular vía electrónica la propuesta de dictamen entre sus integrantes, con cinco días de anticipación a la reunión en que se discuta y se vote. Tratándose de una iniciativa preferente se deberá circular con un mínimo de veinticuatro horas previas a su discusión y votación.
 
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
@@ -2792,7 +2802,9 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 I. Enfermedad u otros motivos de salud;
 
-II. Gestación y maternidad;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2018)</small>
+
+II. Gestación, maternidad, y paternidad;
 
 III. La asistencia a Reunión de otra comisión de la que sea integrante o cuando no sea integrante, pero se discuta un asunto del que sea autor;
 
@@ -3792,6 +3804,86 @@ VII. Extender invitaciones, en acuerdo con el Presidente y la Junta, para recibi
 
 1. Para ingresar al Servicio de Carrera se deberán cumplir los requisitos que establece el Estatuto, independientemente del régimen jurídico contractual de los trabajadores de la Cámara.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE MAYO DE 2018)</small>
+
+### CAPITULO VI. Del Sistema de Evaluación de Diputados
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2018)</small>
+
+###### Artículo 284 Bis.
+
+1. La Cámara de Diputados contará con un Sistema de Evaluación de Diputados que tendrá como objeto, valorar el desempeño del trabajo legislativo de todas las diputadas y los diputados integrantes de la legislatura.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2018)</small>
+
+###### Artículo 284 Ter.
+
+1. El Sistema de Evaluación de Diputados se deberá difundir permanentemente en el sitio electrónico de la Cámara y las conclusiones de las evaluaciones serán actualizadas al término de cada periodo de sesiones.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2018)</small>
+
+###### Artículo 284 Quáter.
+
+1. La evaluación del desempeño de los trabajos legislativos se deberá realizar mediante elementos de evaluación que contengan y ponderen todas las actividades y encomiendas que desarrollan los legisladores en el ejercicio de su cargo, de conformidad con los derechos, prerrogativas, facultades, atribuciones y obligaciones previstas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, en este Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2018)</small>
+
+###### Artículo 284 Quinquies.
+
+1. El Sistema de Evaluación de Diputados se implementará a través de un Consejo Coordinador que fungirá como órgano colegiado institucional y de participación ciudadana de carácter consultivo, informativo y de colaboración en materia de evaluación legislativa de los diputados y sus decisiones se aprobarán por consenso.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2018)</small>
+
+###### Artículo 284 Sexies.
+
+1. El Consejo Coordinador del Sistema de Evaluación de Diputados se integra de la siguiente forma:
+
+I. El presidente de la Mesa Directiva de la Cámara de Diputados, quien será el presidente del Consejo;
+
+II. Un representante de cada grupo parlamentario y un representante de los diputados independientes;
+
+III. El Secretario General;
+
+IV. El Secretario de Servicios Parlamentarios, quien fungirá como Secretario Técnico;
+
+V. El titular de la Unidad de Transparencia;
+
+VI. El titular del Centro de Estudios de Derecho e Investigaciones Parlamentarias;
+
+VII. El titular del Centro de Estudios Sociales y de Opinión Pública;
+
+VIII. Hasta cinco representantes de instituciones de educación superior;
+
+IX. Hasta cinco representantes de organizaciones de la sociedad civil, y
+
+X. Hasta cinco representantes de organizaciones del sector productivo.
+
+2. Los integrantes del Consejo a que se refiere la fracción II, deberán ser designados por acuerdo de la Junta de Coordinación Política.
+
+3. La Conferencia para la Dirección y Programación de los Trabajos Legislativos acordará por consenso la elección de los integrantes del Consejo a que se refieren las fracciones VIII, IX y X, los cuales tendrán una participación honorífica por un periodo de un año con posibilidad de ser ratificados para periodos subsecuentes.
+
+4. A excepción del Presidente y del Secretario Técnico, los integrantes del Consejo podrán designar a un suplente que cubra su representación en las reuniones a las que no pueda asistir.
+
+5. Se podrá invitar a las reuniones del Consejo Coordinador a personas expertas en materia de evaluaciones, a un representante de la Auditoría Superior de la Federación, a representantes de instituciones publicas, representantes de instituciones educativas y de investigación, a representantes de organismos internacionales y a representantes de diversos sectores de la sociedad, cuando se traten asuntos relacionados con sus especialidades o cuya experiencia profesional sea útil para que participen emitiendo opiniones, aportando información o colaborando con acciones que le competen al Consejo.
+
+> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2018)</small>
+
+###### Artículo 284 Septies.
+
+1. El Sistema de Evaluación de Diputados se normará por criterios que para tales efectos expida el Consejo Coordinador del Sistema, mismos que deberán contener por lo menos lo siguiente:
+
+I. Los principios rectores del Sistema de Evaluación de Diputados;
+
+II. El catálogo de los elementos cualitativos y cuantitativos, así como los componentes, parámetros e indicadores que se considerarán para realizar la evaluación;
+
+III. El método de la evaluación;
+
+IV. Los plazos y la periodicidad para realizar cada etapa de las evaluaciones y su difusión;
+
+V. Los medios de difusión de los resultados de las evaluaciones, y
+
+VI. Los lineamientos y directrices que se seguirán para mejorar el desempeño de la Cámara de Diputados.
+
 ## TITULO NOVENO. De las Reformas al Reglamento
 
 ###### Artículo 285.
@@ -4039,3 +4131,37 @@ D.O.F. 3 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS NUMERALES 2 Y 3 DEL ARTÍCULO 46 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN CAPÍTULO VI AL TÍTULO OCTAVO DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DEL SISTEMA DE EVALUACIÓN".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La instalación del Consejo Coordinador del Sistema de Evaluación de Diputados deberá realizarse en un plazo no mayor a dos meses, contados a partir de la aprobación del presente Decreto.
+
+Tercero. El Consejo Coordinador del Sistema de Evaluación de Diputados deberá expedir los criterios a que se refiere el artículo 284 Septies en un plazo no mayor a sesenta días contados a partir de su instalación.
+
+D.O.F. 8 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL NUMERAL 1 DEL ARTÍCULO 177 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL NUMERAL 3 DEL ARTÍCULO 177 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 8, NUMERAL 1, FRACCIÓN XV DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
