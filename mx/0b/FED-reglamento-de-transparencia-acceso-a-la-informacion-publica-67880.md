@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-acceso-a-la-informacion-publica-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-06"
-last_updated: "2012-02-08"
+last_updated: "2018-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67880&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-03-31"
 ---
 # REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DE LA CAMARA DE DIPUTADOS
 
+> <small>[N. DE E. DE COMFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA UNIÓN, PUBLICADO EN EL D.O.F. DE 8 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de abril de 2009.
 
@@ -1736,3 +1738,19 @@ D.O.F. 8 DE FEBRERO DE 2012.
 Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Una vez que haya entrado en vigor el presente Decreto, la Junta de Coordinación Política de la Cámara de Diputados, por única vez, propondrá para su elección al Pleno en un solo acto, una lista de tres personas que reúnan los requisitos que el Reglamento establece para la elección de los Consejeros fundadores del Consejo.
+
+D.O.F. 8 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA UNIÓN".]
+
+Primero.- El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Cámara de Diputados, publicado en el Diario Oficial de la Federación el 6 de abril de 2009, sin perjuicio de lo siguiente: Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Reglamento, se sustanciarán conforme a la normatividad vigente al momento de su presentación.
+
+Tercero.- El Comité de Transparencia se integrará dentro de los treinta días naturales siguientes a la aprobación del presente Reglamento.
+
+Cuarto.- La Cámara de Diputados nombrará al Titular y el suplente de la Unidad de Transparencia dentro de los treinta días naturales siguientes a la aprobación del presente Reglamento.
+
+El actual Titular de la Unidad de Transparencia continuará en funciones, hasta en tanto no se lleve a cabo los nombramientos referidos en el párrafo anterior. De igual manera, en tanto no se realice el nombramiento de su suplente, las funciones del suplente del Secretario Ejecutivo del Comité serán ejercidas por el Titular del órgano rector.
+
+Quinto.- La implementación del presente Reglamento no comprometerá la erogación de mayores recursos que los presupuestados a la Cámara de Diputados en el Presupuesto de Egresos para el 2018, y por tanto se recurrirá a ajustes, ahorros y reasignaciones para ello.
