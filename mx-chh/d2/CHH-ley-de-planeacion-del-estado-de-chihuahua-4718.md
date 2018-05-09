@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-planeacion-del-estado-de-chihuahua-4718"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-04"
-last_updated: "2016-10-03"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -61,15 +61,19 @@ V.- Las bases para la concertación de acciones con los sectores social y privad
 
 La planeación deberá llevarse a cabo, como medio para el eficaz desempeño de la responsabilidad del Gobierno del estado y de los Gobiernos Municipales, sobre el desarrollo integral de la entidad, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política del Estado Libre y Soberano de Chihuahua.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley, se entiende por planeación del desarrollo, la ordenación racional y sistemática de las acciones de las diversas instancias de gobierno, con la participación de los sectores social y privado, a fin de transformar la realidad socioeconómica de la entidad, y elevar la calidad de vida de su población.
+Para los efectos de esta Ley, se entiende por planeación para el desarrollo, la ordenación racional y sistemática de las acciones de las diversas instancias de gobierno con la participación de los sectores social y privado, a fin de transformar la realidad socioeconómica de la entidad, y elevar la calidad de vida de su población.
 
-Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades, tiempos de ejecución y se evaluarán resultados.
+Mediante la planeación se fijarán prioridades, objetivos, estrategias, indicadores y metas en los ámbitos político, social, económico, cultural y ambiental; se asignarán recursos, responsabilidades, tiempos de ejecución y se evaluarán resultados.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 4o.
 
-Al Titular del Poder Ejecutivo del Estado, le corresponde conducir la planeación estatal del desarrollo con la participación democrática de los sectores social y privado, mediante los mecanismos de coordinación, concertación e inducción, en su caso, de acuerdo a lo establecido en la presente Ley.
+Al Titular del Poder Ejecutivo del Estado, le corresponde conducir la planeación estatal para el desarrollo con la participación democrática de los sectores social y privado, mediante los mecanismos de coordinación, concertación e inducción, en su caso, de acuerdo a lo establecido en la presente Ley.
 
 ### CAPITULO II. SISTEMA ESTATAL DE PLANEACION DEMOCRATICA
 
@@ -81,9 +85,13 @@ El Sistema Estatal de Planeación Democrática, se vinculará con el Sistema Nac
 
 Los elementos integrantes del Sistema Estatal de Planeación Democrática serán:
 
-I.- Un proceso de planeación democrática, que permita, a través de la formulación de planes y programas, articular las demandas sociales y traducirlas en decisiones y acciones de gobierno; así como la participación de los sectores social y privado en la formulación, instrumentación, control y evaluación de los mismos.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2018)</small>
 
-II.- Una estructura institucional, constituida por el Comité de Planeación para el Desarrollo del Estado de Chihuahua, a través del cual participarán las dependencias federales, estatales y municipales en la formulación, instrumentación, control y evaluación de los planes y programas, así como por los foros de consulta popular, en las diferentes etapas del proceso de planeación.
+I. Un proceso de planeación democrática, que permita, a través de la formulación de planes y programas, articular las demandas sociales y traducirlas en decisiones y acciones de gobierno; así como la participación de los sectores social y privado en la formulación, instrumentación, control y evaluación de los mismos. Este proceso deberá velar por el respeto a los derechos humanos, los derechos de los pueblos indígenas, la no discriminación, un medio ambiente sano y la interculturalidad en el estado.
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2018)</small>
+
+II. Una estructura institucional, constituida por el Comité de Planeación para el Desarrollo del Estado de Chihuahua, a través del cual participarán las dependencias federales, estatales y municipales en la formulación, instrumentación, control y evaluación de los planes y programas, así como por los foros de consulta ciudadana, en las diferentes etapas del proceso de planeación.
 
 III.- Una infraestructura de apoyo, conformada por las instituciones sociales y privadas que, de acuerdo a los requerimientos del desarrollo económico y social del Estado y a su ámbito de acción, integren sus esfuerzos mediante su participación concertada o inducida dentro del Sistema.
 
@@ -94,6 +102,10 @@ El Sistema Estatal de Planeación Democrática se plasmará en los siguientes do
 I.- A Nivel Estatal:
 
 A) El Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+A BIS) El Plan Estatal de Seguridad Pública.
 
 B) Los programas de mediano plazo:
 
@@ -133,11 +145,13 @@ A) Al Gobernador del Estado le compete:
 
 1.- Presidir el Comité de Planeación para el Desarrollo del Estado.
 
-2.- Aprobar y publicar el Plan Estatal de Desarrollo.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2003)</small>
+2.- Remitir el Plan Estatal de Desarrollo y el Plan Estatal de Seguridad Pública al Congreso del Estado, para su examen y aprobación.
 
-3.- Remitir el Plan Estatal de Desarrollo al Congreso del Estado, para su examen y opinión.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
+3.- Publicar el Plan Estatal de Desarrollo y el Plan Estatal de Seguridad Pública en el Periódico Oficial del Estado.
 
 4.- Convenir con el Ejecutivo Federal, los Ayuntamientos y los Sectores Social y Privado su participación, en el proceso de planeación del desarrollo del Estado de Chihuahua.
 
@@ -151,17 +165,31 @@ B) A la Coordinación Ejecutiva del Gabinete le compete:
 
 3.- Verificar periódicamente, la relación que guarden los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Estatal, así como los resultados de su ejecución, con los objetivos del Plan Estatal.
 
-4.- Realizar las tareas de control y seguimiento físico-financiero de la inversión estatal y concertada con otros órdenes de gobierno.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
-5.- Coordinar las actividades, que en materia de investigación y asesoría para la planeación, realicen las dependencias y entidades de la Administración Pública Estatal.
+4. Verificar el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo, a través de los indicadores de impacto que puedan evidenciar el progreso hacia la reducción de las brechas de desigualdad y el abatimiento de los desequilibrios regionales, y rendir cuentas a la ciudadanía sobre el avance de este cumplimiento, mediante el mecanismo que se disponga para tal fin.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
-C) A la Secretaría de Economía le compete:
+5. Articular a las diversas áreas de planeación de las dependencias y entidades de la Administración Pública Estatal respecto a las dinámicas, mecanismos y funcionamiento en materia de planeación, orientado al cumplimiento de las prioridades de planeación del Estado.
 
-1.- Apoyar al Comité de Planeación para el Desarrollo del Estado de Chihuahua, en el establecimiento de los mecanismos de concertación con los sectores social y privado, para la instrumentación del Plan y sus Programas.
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
 
-2.- Participar en la definición de la política industrial, turística y comercial de la Entidad.
+B BIS) A la Fiscalía General del Estado le compete:
+
+1. Coordinar la formulación del Plan Estatal de Seguridad Pública, con apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal que tengan atribuciones de seguridad pública y procuración de justicia.
+
+2. Establecer los mecanismos de concertación con los sectores social y privado para llevar a cabo la implementación del Plan Estatal de Seguridad Pública.
+
+3. Verificar el cumplimiento e instrumentación del Plan Estatal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
+C) A la Secretaría de Innovación y Desarrollo Económico le compete:
+
+1. Apoyar al Comité de Planeación para el Desarrollo del Estado de Chihuahua, en el establecimiento de los mecanismos de concertación con los sectores social y privado, para la instrumentación del Plan Estatal de Desarrollo y sus Programas.
+
+2. Participar en la definición de la política industrial, turística y de servicios de la Entidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
@@ -171,9 +199,25 @@ D) A la Secretaría de Hacienda le compete:
 
 2.- Proyectar y calcular los ingresos del Gobierno del Estado, tomando en cuenta las necesidades de recursos y la utilización del crédito público del Estado y los Municipios, para la ejecución del Plan Estatal y sus Programas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
 
-E) A la Dirección General de Desarrollo Municipal le compete:
+3.- Realizar las tareas de control y seguimiento físico-financiero de la inversión estatal y concertada con otros órdenes de Gobierno.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+4.- Definir, dentro del proceso de programación-presupuestación, la orientación de los recursos del Convenio Único de Desarrollo, hacia la consecución de los objetivos plasmados en el Plan Estatal y Municipales de Desarrollo, así como de los programas que de ellos se deriven.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+5.- La elaboración de los Programas Operativos Anuales, del Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+6.- Dar seguimiento a los avances de los programas derivados del Plan Estatal de Desarrollo y a los indicadores de gestión y desempeño de las dependencias y entidades de la Administración Pública Estatal, con base en el Sistema de Evaluación del Desempeño, y rendir cuentas a la ciudadanía sobre el avance de este cumplimiento, mediante el mecanismo que se disponga para tal fin.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE MAYO DE 2018)</small>
+
+E) A la Secretaría de Desarrollo Municipal le compete:
 
 Coordinar la formulación de los planes municipales de desarrollo, con apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal Y Municipal integradas en los Comités Regionales, del Comité de Planeación para el Desarrollo del Estado de Chihuahua.
 
@@ -191,6 +235,10 @@ F) A las Dependencias de la Administración Pública Estatal les compete:
 
 6.- Verificar periódicamente, la relación que guarden los programas y presupuestos de las entidades paraestatales del sector que coordinen, así como los resultados de su ejecución, con los objetivos y prioridades de los programas sectoriales, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso, los programas respectivos.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+7.- Elaborar un mecanismo de seguimiento a su gestión, a través de indicadores de gestión o desempeño, definiendo líneas base validadas, verificables y medibles.
+
 G) A las entidades de la Administración Pública Paraestatal les compete:
 
 1.- Participar en la elaboración de los programas sectoriales, presentando las propuestas que procedan en relación a sus funciones y objetivos.
@@ -201,15 +249,21 @@ G) A las entidades de la Administración Pública Paraestatal les compete:
 
 4.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del programa institucional.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+5.- Elaborar un mecanismo de seguimiento a su gestión, a través de indicadores de gestión o desempeño, definiendo líneas base validadas, verificables y medibles.
+
 H) Al Comité de Planeación para el Desarrollo del Estado de Chihuahua le compete:
 
 1.- Coordinar las actividades de la Planeación Estatal de Desarrollo.
 
 2.- La formulación, actualización, instrumentación, control y evaluación del Plan Estatal de Desarrollo y de los Programas Especiales, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Estatal y Federal, de los Gobiernos Municipales, así como los planteamientos y propuestas de los sectores social y privado, buscando su congruencia con el Plan Nacional de Desarrollo y los programas de mediano plazo.
 
-3.- Definir, dentro del proceso de programación-presupuestación, la orientación de los recursos del Convenio Unico de Desarrollo, hacia la consecución de los objetivos plasmados en el plan estatal y municipales de desarrollo, así como de los programas que de ellos se deriven.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
-4.- La elaboración de los Programas Operativos Anuales, del Plan Estatal de Desarrollo.
+3.- Establecer un mecanismo de modificación del Plan Estatal de Desarrollo, el cual se realizará al término del tercer año de gobierno de la Administración en curso.
+
+4.- (DEROGADO, P.O. 9 DE MAYO DE 2018)
 
 5.- Las demás que le señalen las Leyes, Reglamentos y Convenios.
 
@@ -245,13 +299,13 @@ C) A los Comités Regionales, del Comité de Planeación para el Desarrollo del 
 
 ### CAPITULO III. PARTICIPACION SOCIAL EN LA PLANEACION DEMOCRATICA
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 9o.
 
-En el ámbito del Sistema Estatal de Planeación Democrática, tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización, ejecución, control y evaluación del Plan Estatal de Desarrollo y de los Planes Municipales de Desarrollo y los demás programas a que se refiere esta Ley.
+En el ámbito del Sistema Estatal de Planeación Democrática, tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización, ejecución, control y evaluación del Plan Estatal de Desarrollo, del Plan Estatal de Seguridad Pública y de los Planes Municipales de Desarrollo y los demás programas a que se refiere esta Ley.
 
-Asimismo, tendrá lugar la participación de los pueblos y comunidades indígenas, a fin de que ejerzan su derecho al consentimiento libre, previo e informado.
+La participación social deberá contar con representación de organizaciones de la sociedad civil, iniciativa privada, sector social, sector académico, delegados federales, pueblos indígenas, representación municipal y ciudadanía en general, a través de foros, consultas públicas, buzones físicos y electrónicos, reuniones con expertos y demás mecanismos de participación que se consideren necesarios.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
@@ -261,79 +315,117 @@ En el Sistema Estatal de Planeación Democrática, deberán preverse la organiza
 
 En cuanto a la participación de los pueblos y comunidades indígenas, se considerará el ejercicio al consentimiento libre, previo e informado, con respeto a sus tiempos y de conformidad con lo que establece la ley de Derechos de los Pueblos Indígenas del Estado de Chihuahua y demás ordenamientos aplicables.
 
-### CAPITULO IV. PLAN ESTATAL DE DESARROLLO Y PROGRAMAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+### CAPITULO IV. PLANES ESTATALES DE DESARROLLO Y DE SEGURIDAD PUBLICA Y PROGRAMAS
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 11.
 
-El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de un plazo de seis meses, contado a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponda, aun cuando podrá contener consideraciones y proyecciones de largo plazo.
+Los Planes Estatales de Desarrollo y de Seguridad Pública deberán elaborarse y remitirse, dentro de un plazo de seis meses, contado a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del período constitucional que le corresponda, aun cuando podrá contener consideraciones y proyecciones de largo plazo.
 
-El Plan precisará los objetivos estatales, estrategias y prioridades de desarrollo integral del Estado; determinará los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán, al conjunto de las actividades económicas y sociales; contendrá previsiones, sobre los recursos que serán asignados para el cumplimiento de sus fines, a través del programa operativo analizado y regirá el contenido de los programas que se deriven del Plan, y lineamientos generales que fijen acciones para el ejercicio de los derechos de los pueblos y comunidades indígenas, de conformidad con lo establecido en las leyes en la materia.
+El Plan Estatal de Desarrollo precisará los objetivos, estrategias y prioridades para el desarrollo integral del Estado; determinará los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de las actividades económicas y sociales; contendrá previsiones sobre los recursos que serán asignados para el cumplimiento de sus fines, a través del programa operativo anualizado y regirá el contenido de los programas que se deriven del Plan Estatal de Desarrollo, y lineamientos generales que fijen acciones para el ejercicio de los derechos de los pueblos y comunidades indígenas, de conformidad con lo establecido en las leyes en la materia.
 
-La categoría de Plan, queda reservada exclusivamente para el Plan Estatal de Desarrollo y para los Planes Municipales.
+Así mismo, las políticas públicas que se establezcan deberán contemplar la importancia de trabajar con sujetos sociales prioritarios por cuestiones de vulnerabilidad, tales como niñas, niños y adolescentes, jóvenes, personas adultas mayores, mujeres, pueblos indígenas, personas jornaleras, migrantes y personas con discapacidad, esto con la finalidad de darle un rostro humano a toda la actividad y objetivos de desarrollo que el gobierno establezca.
+
+El Plan Estatal de Desarrollo deberá contener además previsiones de largo plazo que trasciendan las metas sexenales, la inclusión y alineación con los instrumentos internacionales suscritos por el Estado Mexicano a fin de cumplir con los convenios nacionales e internacionales a los que se comprometa este en materia de desarrollo, así como la integración de lineamientos de carácter regional según las necesidades de desarrollo de su entorno socioeconómico.
+
+El Plan Estatal de Seguridad Pública contendrá los objetivos, estrategias y prioridades de Seguridad Pública y Procuración de Justicia basados en el concepto de Seguridad Humana, y que sean incluyentes, equitativos y con un irrestricto respeto a los derechos humanos, para el desarrollo integral de todas las regiones del Estado.
+
+Ambos Planes deberán sujetarse a los Objetivos de Desarrollo Sostenible de la Organización de las Naciones Unidas, con la finalidad de lograr una visión unificada sobre las prioridades que aceleren el desarrollo con una visión integral.
+
+La categoría del Plan, queda reservada exclusivamente para los Planes Estatales de Desarrollo y de Seguridad Pública y para los Planes Municipales.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 12.
 
-Del plan se derivarán los programas sectoriales, regionales, institucionales y especiales que deban ser elaborados conforme a este capítulo.
+Del Plan Estatal de Desarrollo se derivarán los programas sectoriales, regionales, institucionales y especiales que deban ser elaborados conforme a este capítulo. Los programas sectoriales e institucionales deberán elaborarse, aprobarse y publicarse dentro de un plazo de tres meses posteriores al envío del Plan Estatal de Desarrollo al H. Congreso del Estado. Los programas regionales y especiales podrán ser elaborados en cualquier momento posterior a dicha presentación, de acuerdo a las prioridades y necesidades del Estado.
+
+Los Programas de Mediano Plazo atenderán los objetivos establecidos en el Plan Estatal de Desarrollo, así como a los Objetivos de Desarrollo Sostenible de la Organización de las Naciones Unidas, para lograr un desarrollo equilibrado y equitativo.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 13.
 
-Los programas sectoriales, se sujetarán a las previsiones contenidas en el Plan y especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Contendrán asimismo, estimaciones de recursos y determinaciones sobre instrumentos y, responsables de su ejecución.
+Los programas sectoriales, se sujetarán a las previsiones contenidas en el Plan Estatal de Desarrollo y especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Contendrán asimismo, estimaciones de recursos y determinaciones sobre instrumentos y, responsables de su ejecución.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 14.
 
-Los programas regionales, se referirán a las regiones que se consideren prioritarias o estratégicas, en función de los objetivos fijados en el Plan y cuya extensión territorial represente el ámbito jurisdiccional de dos o más municipios.
+Los programas regionales, se referirán a las regiones que se consideren prioritarias o estratégicas, en función de los objetivos fijados en el Plan Estatal de Desarrollo y cuya extensión territorial represente el ámbito jurisdiccional de dos o más Municipios.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 15.
 
-Los programas institucionales, que deban elaborar las entidades de la Administración Pública Paraestatal, se sujetarán a las previsiones contenidas en el Plan, en el programa sectorial correspondiente y a las normas jurídicas que regulen su organización y funcionamiento.
+Los programas institucionales, que deban elaborar las entidades de la Administración Pública Paraestatal, se sujetarán a las previsiones contenidas en el Plan Estatal de Desarrollo, en el programa sectorial correspondiente y a las normas jurídicas que regulen su organización y funcionamiento.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 16.
 
-Los programas especiales, se sujetarán a las prioridades del desarrollo integral del Estado, fijadas en el Plan o a las actividades relacionadas con dos o más dependencias coordinadas del sector.
+Los programas especiales, se sujetarán a las prioridades del desarrollo integral del Estado, fijadas en el Plan Estatal de Desarrollo o a las actividades relacionadas con dos o más dependencias coordinadas del sector.
 
 ###### ARTICULO 17.
 
 Los programas sectoriales, regionales, especiales e institucionales deberán ser congruentes entre sí, regirán las actividades de la Administración Pública en su conjunto y servirán de orientación para la integración de los programas operativos anuales, de los Anteproyectos de Presupuestos de Egresos del Estado, de la Federación y de los Municipios, conforme a la Legislación aplicable.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 18.
 
-El Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales de la Administración Pública Estatal, deberán ser sometidas por el Comité de Planeación para el Desarrollo del Estado a la consideración y aprobación del Gobernador del Estado.
+Los Planes Estatales de Desarrollo y de Seguridad Pública y los programas sectoriales, regionales y especiales de la Administración Pública Estatal, deberán ser sometidos por el Comité de Planeación para el Desarrollo del Estado a la consideración y aprobación del Gobernador del Estado.
 
-Los programas institucionales, deberán ser sometidos por el órgano de gobierno de la entidad paraestatal de que se trate, a la aprobación del titular de la dependencia coordinadora del sector.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
+Los programas institucionales, deberán ser sometidos por el órgano de gobierno de la entidad paraestatal de que se trate, a la aprobación del titular de la dependencia coordinadora del sector, y posteriormente deberán ser sometidos por el Comité de Planeación para el Desarrollo del Estado a la consideración y aprobación del Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior, corresponderá a la Coordinación Ejecutiva de Gabinete.
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 19.
 
-El Plan y los programas, una vez aprobados, serán obligatorios para las dependencias de la Administración Pública Estatal, en el ámbito de sus respectivas competencias.
+Los Planes y los programas, una vez aprobados, serán obligatorios para las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias.
 
-Conforme a las disposiciones legales que resulten aplicables, la obligatoriedad del Plan y los programas se hará extensiva a las entidades paraestatales.
+Conforme a las disposiciones legales que resulten aplicables, la obligatoriedad de los Planes y los programas se hará extensiva a las entidades paraestatales.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 20.
 
-El Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+Los Planes Estatales de Desarrollo y de Seguridad Pública y los programas sectoriales, regionales y especiales deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 21.
 
-El Plan y los programas sectoriales, serán revisados con la periodicidad que determinen las disposiciones reglamentarias.
+Los Planes y los programas sectoriales, serán revisados con la periodicidad que determinen las disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 22.
 
-La coordinación en la ejecución del Plan y los programas, deberá proponerse a los Gobiernos Federal y Municipales a través de los convenios respectivos.
+La coordinación en la ejecución de los Planes y los programas deberá proponerse a los Gobiernos Federal y Municipales a través de los convenios respectivos.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 23.
 
-El Gobernador del Estado, al informar ante el Congreso sobre el estado general que guarda la Administración Pública Estatal, hará mención expresa de las decisiones y medidas adoptadas para la ejecución del Plan Estatal de Desarrollo y de los programas que de él se deriven.
+El Gobernador del Estado, al informar ante el Congreso sobre el estado general que guarda la Administración Pública Estatal, hará mención expresa de las decisiones y medidas adoptadas para la ejecución de los Planes Estatales de Desarrollo y de Seguridad Pública y de los programas que de él se deriven.
 
-El contenido de las cuentas públicas del Estado, deberá relacionarse, en lo conducente, con la evaluación de los resultados del Plan, a fin de permitir al Congreso del Estado el análisis de las mismas, con relación a los objetivos y prioridades de la planeación estatal referentes a las materias objeto de dichos documentos.
+El contenido de las cuentas públicas del Estado, deberá relacionarse, en lo conducente, con la evaluación de los resultados de los Planes, a fin de permitir al Congreso del Estado el análisis de las mismas, con relación a los objetivos y prioridades de la planeación estatal referentes a las materias objeto de dichos documentos.
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 24.
 
-El Gobernador del Estado, al enviar al Congreso del Estado las Iniciativas de Leyes de Ingresos y los Proyectos del Presupuesto de Egresos, hará mención de su relación con los objetivos y prioridades del Plan Estatal y sus programas.
+El Gobernador del Estado, al enviar al Congreso del Estado las iniciativas de Leyes de Ingresos y los Proyectos del Presupuesto de Egresos, hará mención de su relación con los objetivos y prioridades de los Planes Estatales de Desarrollo y de Seguridad Pública y sus programas.
 
 ### CAPITULO V. PLANES MUNICIPALES DE DESARROLLO Y SUS PROGRAMAS
 
@@ -391,7 +483,9 @@ Para los efectos del artículo anterior, el Ejecutivo Estatal podrá convenir co
 
 I.- Su participación en la planeación estatal, a través de la presentación de las propuestas que estimen pertinentes.
 
-II.- Los procedimientos de coordinación entre las Autoridades Estatales, Federales y Municipales para propiciar la planeación del desarrollo integral del Estado, y su congruencia con la planeación nacional y municipal, así como para promover la participación de los sectores social y privado en las actividades de planeación.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2018)</small>
+
+II.- Los procedimientos de coordinación entre las Autoridades Estatales, Federales y Municipales para propiciar la Planeación para el desarrollo integral del Estado, y su congruencia con la planeación nacional y municipal, así como para promover la participación de los sectores social y privado en las actividades de planeación.
 
 III.- Los lineamientos metodológicos para la realización de las actividades de planeación en el ámbito de su jurisdicción.
 
@@ -407,9 +501,11 @@ El Ejecutivo Estatal ordenará la publicación en el Periódico Oficial del Gobi
 
 ### CAPITULO VII. CONCERTACION E INDUCCION
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 38.
 
-El Ejecutivo Estatal, las entidades de la Administración Pública Paraestatal y los Ayuntamientos, podrán concertar la realización de las acciones previstas en el Plan y los programas que se deriven de éste, con las representaciones de los grupos sociales o con los particulares e interesados.
+El Ejecutivo Estatal, las entidades de la Administración Pública Paraestatal y los Ayuntamientos, podrán concertar la realización de las acciones previstas en los Planes y los programas que se deriven de estos, con las representaciones de los grupos sociales o con los particulares e interesados.
 
 ###### ARTICULO 39.
 
@@ -427,11 +523,11 @@ Las políticas que norman el ejercicio de las atribuciones que las Leyes confier
 
 ### CAPITULO VIII. RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 42.
 
-Los Servidores Públicos del Gobierno del Estado, que en ejercicio de sus funciones, contravengan las disposiciones de esta Ley, las que de ella se deriven o los objetivos y prioridades de los Planes Estatal y Municipales, así como de los programas de desarrollo, se estará a lo previsto en el la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-Las sanciones a los Servidores Públicos Municipales, serán acordadas por el Ayuntamiento y ejecutadas por el Presidente Municipal.
+En los casos de los Servidores Públicos del Gobierno del Estado, que en ejercicio de sus funciones, contravengan las disposiciones de esta Ley, las que de ella se deriven o los objetivos y prioridades de los Planes Estatales y Municipales, así como de los programas de desarrollo, se estará a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### ARTICULO 43.
 
@@ -572,3 +668,11 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 9 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0745/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
