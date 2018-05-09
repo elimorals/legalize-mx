@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2018-01-25"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2018.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -381,7 +381,13 @@ VIII. Establecer con la aprobación de la Presidencia, políticas, normas, crite
 
 IX. Atender las necesidades administrativas de la Comisión, considerando la administración de los recursos referidos en la fracción anterior;
 
-X. Coordinar la elaboración, el desarrollo y la implantación de los instrumentos administrativos necesarios para la adecuada organización y funcionamiento del Organismo;
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2018)</small>
+
+X. Coordinar la elaboración, el desarrollo, la implantación y actualización permanente de los métodos, instrumentos administrativos y procedimientos de trabajo necesarios para la adecuada organización y funcionamiento del Organismo;
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2018)</small>
+
+X Bis. Elaborar y actualizar las estructuras organizacionales y sistemas administrativos;
 
 XI. Analizar, evaluar y proponer tecnología de vanguardia en procesos electrónicos, informativos y de comunicación, para mantener la actualización del Organismo, proporcionando las herramientas necesarias para cubrir los requerimientos operativos del personal;
 
@@ -389,9 +395,15 @@ XII. Operar, evaluar y mantener actualizados los sistemas de información electr
 
 XIII. Expedir copias certificadas de los documentos relacionados con los asuntos de su competencia y del cumplimiento de sus atribuciones;
 
-XIV. Formular y proponer a la Presidencia las adecuaciones necesarias en el ejercicio del presupuesto, como son ampliaciones líquidas y no líquidas, traspasos externos, así como la apertura de cuentas bancarias y el uso de la banca electrónica; y
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2018)</small>
 
-XV. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
+XIV. Formular y proponer a la Presidencia las adecuaciones necesarias en el ejercicio del presupuesto, como son ampliaciones líquidas y no líquidas, traspasos externos, así como la apertura de cuentas bancarias y el uso de la banca electrónica;
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2018)</small>
+
+XV. Coordinar el contenido y diseño del Portal Institucional; y
+
+XVI. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
 
 Atribuciones de la Dirección de Recursos Humanos
 
@@ -401,7 +413,7 @@ Corresponde a la Dirección de Recursos Humanos:
 
 I. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre la Comisión y sus servidores públicos en materia laboral;
 
-II. Integrar el anteproyecto del presupuesto anual del capítulo relativo a los “Servicios Personales” en coordinación con la Dirección de Recursos Financieros, así como participar en la vigilancia y control de su ejercicio;
+II. Integrar el anteproyecto del presupuesto anual del capítulo relativo a los "Servicios Personales" en coordinación con la Dirección de Recursos Financieros, así como participar en la vigilancia y control de su ejercicio;
 
 III. Formular y actualizar el catálogo general de puestos, cédulas de identificación de puestos, tabulador de sueldos y cédula de prestaciones salariales;
 
@@ -427,9 +439,9 @@ XIII. Controlar la asistencia y puntualidad de acuerdo a la normatividad aplicab
 
 XIV. Participar como secretario técnico de la Comisión de Seguridad y Salud en el Trabajo;
 
-XV. Revisar y actualizar permanentemente en coordinación con las áreas competentes los métodos, instrumentos y procedimientos de trabajo;
+XV. (DEROGADA, G.G. 9 DE MAYO DE 2018)
 
-XVI. Elaborar y actualizar las estructuras organizacionales y sistemas administrativos;
+XVI. (DEROGADA, G.G. 9 DE MAYO DE 2018)
 
 XVII. Proponer a la Dirección General de Administración y Finanzas la actualización de las Condiciones Generales de Trabajo y vigilar su aplicación;
 
@@ -525,9 +537,15 @@ IX. Instalar los sistemas, programas, equipos y redes necesarios en las distinta
 
 X. Desarrollar la implementación, mantenimiento y actualización de los bancos de información;
 
-XI. Investigar, analizar y determinar respecto de las tendencias de las tecnologías de la información, así como de las comunicaciones y su vigencia, para su aplicación acorde a las necesidades en la materia; y
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2018)</small>
 
-XII. Las demás que se desprendan de las disposiciones legales aplicables y las que expresamente le sean conferidas por su superior jerárquico.
+XI. Investigar, analizar y determinar respecto de las tendencias de las tecnologías de la información, así como de las comunicaciones y su vigencia, para su aplicación acorde a las necesidades en la materia;
+
+> <small>(ADICIONADA, G.G. 9 DE MAYO DE 2018)</small>
+
+XII. Proponer y ejecutar en su caso, lineamientos, reglas y criterios para el desarrollo y actualización del Portal Institucional del Organismo; y
+
+XIII. Las demás que se desprendan de las disposiciones legales aplicables y las que expresamente le sean conferidas por su superior jerárquico.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE JULIO DE 2017)</small>
 
@@ -651,7 +669,7 @@ VIII. Elaborar el proyecto de informe anual de actividades de la Presidencia, de
 
 IX. Realizar las funciones relativas a las obligaciones en materia de transparencia, información pública y protección de datos personales, establecidas en las leyes de la materia;
 
-X. Proponer y ejecutar en su caso, lineamientos, reglas y criterios en materia de información y actualización de la página web del Organismo;
+X. (DEROGADA, G.G. 9 DE MAYO DE 2018)
 
 XI. Proponer y ejecutar, en su caso, lineamientos, reglas y criterios para el diseño de las aplicaciones gráficas institucionales;
 
@@ -1616,3 +1634,19 @@ G.G. 25 DE ENERO DE 2018.
 Primero.- Publíquese este Acuerdo en el periódico oficial “Gaceta del Gobierno” del Estado de México, así como en la “Gaceta de Derechos Humanos”, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
 Segundo.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta de Gobierno” del Estado de México.
+
+G.G. 9 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. 04/2018-11, POR EL QUE SE REFORMA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, CON LA TRANSFERENCIA DE LA FUNCIÓN DE ORGANIZACIÓN Y MÉTODOS A LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS”.]
+
+Primero.- Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la "Gaceta de Derechos Humanos", órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+Segundo.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
+
+G.G. 9 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. 04/2018-11, POR EL QUE SE REFORMA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, CON LA TRANSFERENCIA DE LA FUNCIÓN DE ORGANIZACIÓN Y MÉTODOS A LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS”.]
+
+Primero.- Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la "Gaceta de Derechos Humanos", órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+Segundo.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
