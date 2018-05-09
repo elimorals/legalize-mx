@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2017-07-15"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -269,9 +269,15 @@ V. Proporcionar a los turistas toda clase de facilidades e informes inherentes a
 
 VI. Observar estricta disciplina en el desempeño de sus funciones;
 
-VII. Solicitar la entrega de documentos inherentes a la conducción y tránsito de vehículos, retirar los vehículos de circulación; así como ordenar la detención de conductores en los casos en que así lo disponga esta Ley y sus reglamentos; y
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2018)</small>
 
-VIII. Las demás que les impongan la presente Ley o los reglamentos respectivos.
+VII. Solicitar la entrega de documentos inherentes a la conducción y tránsito de vehículos, retirar los vehículos de circulación; así como ordenar la detención de conductores en los casos en que así lo disponga esta Ley y sus reglamentos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2018)</small>
+
+VIII. Realizar su actividad a través de un patrullaje preventivo en el área de adscripción asignada, evitando a toda costa la molestia innecesaria al conductor, por lo que deberá, al realizarlo, permanecer en todo momento en lugares visibles con las torretas encendidas; y
+
+IX. Las demás que les impongan la presente Ley o los reglamentos respectivos.
 
 ###### Artículo 16.
 
@@ -1549,7 +1555,7 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 
 ###### ARTÍCULO SEXTO.
 
-Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración o a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administracióno a la Secretaría de Finanzas, se entenderá citada a la Secretaría de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
 
 P.O. 23 DE AGOSTO DE 2008.
 
@@ -1811,7 +1817,15 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 
 P.O. 15 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLEY/0341/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA."]
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0341/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0738 II P.O., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 15 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
