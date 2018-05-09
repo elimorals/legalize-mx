@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-05-05"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2083,13 +2083,15 @@ Si la enfermedad padecida fuera incurable, o la víctima fuera la pareja habitua
 
 ###### Artículo 158.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE MAYO DE 2018)</small>
 
-Se impondrán de uno a seis años de prisión y de sesenta a ciento veinte días multa, a la persona que prive a otra de su libertad personal.
+Se impondrán de dos a seis años de prisión y de sesenta a ciento veinte días multa, a la persona que prive a otra de su libertad personal.
 
 Si el agente espontáneamente libera a la víctima dentro de los tres días siguientes al de la privación de la libertad, la pena de prisión será de la mitad de la prevista.
 
-La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de edad o mayor de sesenta años o, por cualquier circunstancia, la víctima esté en situación de vulnerabilidad física o mental respecto del agente.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
+La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de edad o mayor de sesenta años, sea cometida por razón de género o, por cualquier circunstancia, la víctima esté en situación de vulnerabilidad física o mental respecto del agente.
 
 ### CAPÍTULO III
 
@@ -2326,6 +2328,12 @@ Las penas a que se refiere el presente artículo, se aumentarán en una mitad cu
 A quien por cualquier medio, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho al consumo de bebidas embriagantes o sustancias tóxicas para que adquiera los hábitos del alcoholismo o la farmacodependencia, o a formar parte de una asociación delictuosa o de la delincuencia organizada, se le impondrá pena de seis meses a tres años de prisión y de trescientos a mil días de multa.
 
 Cuando de la práctica reiterada del activo, el pasivo del delito adquiera los hábitos del alcoholismo o la farmacodependencia, o forme parte de una asociación delictuosa o de la delincuencia organizada las penalidades podrán aumentarse hasta en un tanto más.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+###### Artículo 181 Bis.
+
+Se le impondrá de seis meses a cuatro años de prisión y de cien a mil días de multa, a quien por medio del lucro, organice o realice eventos o reuniones en inmuebles propiedad de los particulares, en los cuales personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta, consuman estupefacientes o psicotrópicos sin que medie prescripción médica, o bebidas embriagantes.
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
@@ -5248,3 +5256,19 @@ TERCERO.- La integración del Consejo Consultivo Ciudadano de Patrimonio Cultura
 CUARTO.- El Ejecutivo del Estado deberá expedir los reglamentos de la presente Ley dentro de los 180 días hábiles posteriores a la entrada en vigor de la presente Ley.
 
 QUINTO.- Para la presupuestación del Fondo de Patrimonio Cultural, se deberán atender a los lineamientos y plazos establecidos en los artículos 33 y 41 de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua, según se actualice el supuesto normativo.
+
+P.O. 9 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFCOD/0739/2018 II P.O., POR MEDIO DEL CUAL SE ADICIONA EL ARTÍCULO 181 BIS AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0740/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 158 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
