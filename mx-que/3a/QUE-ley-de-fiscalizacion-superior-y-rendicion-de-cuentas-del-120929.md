@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-120929
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-18"
-last_updated: "2017-04-18"
+last_updated: "2018-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 18 de abril de 2017.
 
@@ -66,6 +66,10 @@ II. Autonomía de gestión: la facultad de la ESFEQ para decidir sobre su organi
 III. Autonomía técnica: la facultad de la ESFEQ para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;
 
 IV. Cuenta Pública: el informe anual que sobre su gestión financiera rinden al Poder Legislativo, los entes públicos en los términos establecidos en la Ley General de Contabilidad Gubernamental y los acuerdos del Consejo Nacional de Armonización Contable (CONAC), la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y los manuales, oficios y circulares emitidos por la ESFEQ en los términos que ésta establezca, para efectos de la fiscalización superior;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2018)</small>
+
+IV Bis. Entes fiscalizadores: las autoridades federales o estatales que, en términos de las disposiciones legales están facultadas para llevar a cabo la fiscalización de recursos públicos;
 
 V. Entes públicos: los Poderes Ejecutivo, Legislativo y Judicial, los órganos constitucionales autónomos, las entidades de la Administración Pública Estatal y Municipal, los municipios, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados;
 
@@ -485,6 +489,14 @@ La información, documentación o consideraciones aportadas por las entidades fi
 
 Dentro de los 30 días posteriores a la conclusión del plazo a que se refiere el artículo que antecede, la ESFEQ enviará a la Legislatura un reporte final sobre las recomendaciones correspondientes a la Cuenta Pública en revisión, detallando la información a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+###### Artículo 40 Bis.
+
+Tratándose de la fiscalización de Participaciones Federales, los Entes fiscalizadores, en los resultados preliminares, finales, en el Informe Individual y en el pronunciamiento sobre la no atención a las acciones promovidas en el Informe Individual, deberán identificar, en los términos de las disposiciones locales aplicables, las atribuciones y facultades de los servidores públicos que intervengan en las posibles irregularidades.
+
+Si con motivo de la fiscalización de Participaciones Federales, los Entes fiscalizadores, determinan la presunta procedencia del fincamiento de daños o perjuicios, o ambos, a la Hacienda pública estatal o municipal, o al patrimonio de los entes públicos, los referidos Entes fiscalizadores deberán acreditar plenamente el daño o el perjuicio, sustentando, bajo su estricta responsabilidad, dicha determinación con los soportes documentales y el dictamen correspondiente que al efecto suscriba el personal actuante, debiendo razonar y especificar el valor que le otorgó a cada una de las pruebas que con la finalidad de desvirtuar el referido fincamiento le hayan sido presentadas por las Entidades fiscalizadas.
+
 ###### Artículo 41.
 
 La ESFEQ, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante la Legislatura, o los Informes de Presunta Responsabilidad Administrativa ante el Órgano interno de control competente, en los términos de lo dispuesto en esta Ley.
@@ -586,6 +598,12 @@ V. Presentar las denuncias de juicio político ante la Legislatura que, en su ca
 Las denuncias penales de hechos presuntamente ilícitos y las denuncias de juicio político, deberán presentarse por parte de la ESFEQ cuando se cuente con los elementos que establezcan las leyes en dichas materias.
 
 Las resoluciones del Tribunal podrán ser recurridas por la ESFEQ a través del recurso de revisión previsto en la Ley de Responsabilidades Administrativas del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+
+###### Artículo 52 Bis.
+
+Cuando los daños y perjuicios contra la hacienda pública o al patrimonio de los entes públicos deriven de una actitud culposa del servidor público, la Entidad fiscalizada podrá resarcir el monto de los daños y perjuicios correspondientes, haciendo uso de Ingresos de libre disposición o Disponibilidades con que cuente. Lo anterior, sin perjuicio de que el órgano interno de control de la misma Entidad fiscalizada, lleve a cabo los procedimientos de ley que procedan en materia de responsabilidades administrativas de los servidores públicos que intervinieron en el daño o perjuicio causado.
 
 ###### Artículo 53.
 
@@ -852,3 +870,13 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan la presente Ley.
