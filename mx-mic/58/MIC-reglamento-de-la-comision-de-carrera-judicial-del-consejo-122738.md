@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-comision-de-carrera-judicial-del-consejo-12273
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-06-26"
-last_updated: "2017-08-28"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA COMISIÓN DE CARRERA JUDICIAL DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE AGOSTO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el lunes 26 de Junio de 2017.
 
@@ -307,7 +305,9 @@ IV. Todos los demás que, a consideración del Consejo, se establezcan en la con
 
 Todos los aspirantes que cumplan con los requisitos establecidos en las bases de la convocatoria al concurso, previamente a su inscripción, se someterán a un examen de preselección que tendrá por objeto evaluar sus conocimientos generales y elegir a los que obtengan calificaciones más altas para cubrir el cupo máximo del concurso o, en su caso, del curso de formación inicial.
 
-El examen de preselección se realizará a través de un cuestionario escrito previamente aprobado por el Comité, a propuesta del Instituto, cuyo contenido versará sobre materias técnicas y jurídicas generales; su calificación mínima aprobatoria será establecida por el Consejo, a propuesta del Instituto, y será dada a conocer en la respectiva convocatoria. Para la práctica de los exámenes de preselección no se permitirá que los aspirantes utilicen ningún tipo de material de apoyo.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+
+El examen de preselección se realizará a través de evaluaciones escritas u orales previamente aprobadas por el Comité, a propuesta del Instituto, cuyo contenido versará sobre materias técnicas y jurídicas generales; la calificación mínima aprobatoria será determinada por el Consejo, a propuesta del Instituto, y será establecida en la respectiva convocatoria. La modalidad y dinámica de los exámenes de preselección también se especificarán en la convocatoria correspondiente.
 
 El Consejo, atendiendo a las necesidades del servicio, podrá prescindir de la realización del examen de preselección, con excepción de los concursos abiertos, en los que siempre deberá practicarse.
 
@@ -886,3 +886,13 @@ Morelia, Michoacán de Ocampo, a 21 veintiuno de junio de 2017 dos mil diecisiet
 Rúbricas. Lic. Marco Antonio Flores Negrete Consejero Presidente; Lic. Rafael Argueta Mora, Consejero; Lic. Armando Pérez Gálvez, Consejero; Mtro. Jaime del Río Salcedo, Consejero; Lic. Eli Rivera Gómez, Consejero; Lic. Soledad Alejandra Ornelas Farfán, Secretaria Ejecutiva. Seis firmas ilegibles. Doy fe.
 
 Se expide la presente para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Morelia, Michoacán, a 23 veintitrés de junio de 2017 dos mil diecisiete. Doy Fe. (Firmado).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 29 DEL REGLAMENTO DE LA COMISIÓN DE CARRERA JUDICIAL”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Segundo. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en la página de internet del Poder Judicial del Estado.
+
+Tercero. La presente reforma entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
