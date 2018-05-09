@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2017-12-19"
+last_updated: "2018-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -457,11 +457,9 @@ X. Custodiar los documentos que constituyan valores del Estado, cuando su resgua
 
 XI. Ejercer las facultades que en materia de deuda pública le confieran las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2018)</small>
 
-XII. Liberar los recursos y realizar los pagos correspondientes a las dependencias, órganos adscritos y desconcentrados del Poder Ejecutivo del Estado, conforme a los programas y con cargo a sus presupuestos aprobados.
-
-Los titulares de las dependencias y los ejecutores de gasto a que se refiere el artículo 54 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, generarán la solicitud u orden de pago, conforme a la normatividad aplicable, bajo su más estricta responsabilidad, a efecto de que la Secretaría de Planeación y Finanzas pueda realizar los pagos a que se refiere esta fracción;
+XII. Dar cumplimiento a las autorizaciones de pago que realicen los ejecutores de gasto a que se refiere la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, de conformidad con lo establecido en la misma, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables;
 
 XIII. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos que procedan;
 
@@ -1996,3 +1994,11 @@ XVII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto
 XVIII. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
 Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 9 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO¨.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan la presente Ley.
