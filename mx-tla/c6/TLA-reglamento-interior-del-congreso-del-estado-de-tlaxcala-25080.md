@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2018-01-26"
+last_updated: "2018-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:10 DE MAYO DE 2018.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -97,11 +97,11 @@ El tratamiento que recibirá el Congreso será el de "Congreso del Estado de Tla
 
 En la sesión de clausura del último período ordinario de sesiones de la legislatura que concluye sus trabajos, el Pleno del Congreso nombrará a la comisión permanente, que también fungirá como comisión instaladora de la Legislatura entrante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] P.O. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 6.
 
-Para cumplir lo previsto en el artículo 15 de la Ley Orgánica, la Comisión Instaladora se reunirá en junta previa a la preparatoria, a más tardar el día veintiséis de diciembre del año de la elección para:
+Para cumplir lo previsto en el artículo 15 de la Ley Orgánica, la Comisión Instaladora se reunirá en junta previa a la preparatoria, a más tardar el día veinticinco de agosto del año de la elección para:
 
 I. Recibir, a través de la Secretaría Parlamentaria del Congreso, las constancias de mayoría y de asignación proporcional expedidas por los organismos electorales competentes y, en su caso, las resoluciones de los tribunales electorales relativas a la elección de diputados;
 
@@ -111,11 +111,11 @@ II. Entregar las credenciales de identificación y los pases de acceso a los dip
 
 III. Citar a los diputados electos, por conducto de la Secretaría Parlamentaria, a la Junta Preparatoria, previa a la instalación de la legislatura entrante.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 7.
 
-El día treinta de diciembre del año de la elección, a las diecisiete horas, los diputados electos, se reunirán en el recinto oficial para celebrar Junta Preparatoria, previa presentación de los documentos citados en las fracciones I y II del artículo anterior; la secretaría a su vez lo informará oportunamente a los secretarios de la comisión instaladora, quienes elaborarán la lista de presentes y lo informarán al presidente para el efecto que declare la existencia del quórum legal.
+El día veintinueve de agosto del año de la elección, a las diecisiete horas, los diputados electos, se reunirán en el recinto oficial para celebrar Junta Preparatoria, previa presentación de los documentos citados en las fracciones I y II del artículo anterior; la secretaría a su vez lo informará oportunamente a los secretarios de la comisión instaladora, quienes elaborarán la lista de presentes y lo informarán al presidente para el efecto que declare la existencia del quórum legal.
 
 ### Capítulo II. Del Inicio de la Legislatura
 
@@ -207,11 +207,15 @@ El Pleno del Congreso se erigirá en colegio electoral según los casos y proced
 
 Durante los recesos del año legislativo funcionará una Comisión Permanente compuesta de un presidente, dos secretarios y un vocal, los que serán electos por el Pleno mediante cédula y a mayoría de votos, de acuerdo con lo previsto en la Ley.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 18.
 
-La Comisión Permanente funcionará en los períodos siguientes: Del treinta de abril al treinta y uno de julio y del dieciséis de diciembre al catorce de enero del año siguiente.
+La Comisión Permanente funcionará en los períodos siguientes:
+
+I. del dieciséis de diciembre, de la anualidad de inicio del año legislativo, al catorce de enero, de la anualidad de conclusión del mismo, y
+
+II. Del treinta y uno de mayo al veintinueve de agosto, ambas fechas de la anualidad de conclusión del año legislativo.
 
 ###### Artículo 19.
 
@@ -241,9 +245,13 @@ Para que las sesiones de la Comisión Permanente tengan quórum, se requiere la 
 
 La Comisión Permanente adoptará sus resoluciones por mayoría de votos de sus miembros presentes, en caso de empate el presidente de la misma tendrá el voto de calidad.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
+
 ###### Artículo 26.
 
-Bajo la dirección de la Comisión permanente se elegirá la Mesa Directiva que presidirá el periodo extraordinario al cual se convoque.
+Bajo la dirección de la Comisión permanente se elegirá la Mesa Directiva que presidirá la sesión extraordinaria o el periodo ordinario o extraordinario de sesiones a los cuales convoque.
+
+Para los efectos del párrafo anterior, cuando se traté de la Comisión Permanente cuyo encargo concluya previo al inicio de un periodo ordinario de sesiones de la misma legislatura, estará facultada para dirigir el nombramiento de la Mesa Directiva en la sesión de inicio de aquel.
 
 ### Capítulo III. De la Mesa Directiva
 
@@ -255,7 +263,9 @@ I. Se integra por un presidente, un vicepresidente, dos secretarios y dos prosec
 
 II. Sus integrantes serán electos, de entre los diputados que no tengan el carácter de coordinador de grupo parlamentario;
 
-III. La elección se hará en la sesión previa a la iniciación de un período ordinario o extraordinario por mayoría de votos, emitidos mediante cédula;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2018)</small>
+
+III. La elección se hará al inicio de la sesión extraordinaria a la que se haya convocado o con la que comience un período ordinario o extraordinario de sesiones, por el voto de las dos terceras partes de los integrantes de la Legislatura, mediante votación por cédula;
 
 IV. Para su funcionamiento se requerirá la presencia del presidente y los secretarios, o quienes los sustituyan en términos de este Reglamento, y
 
@@ -339,7 +349,9 @@ I. Convocar a nombre del presidente a los integrantes de la Comisión a sesiones
 
 II. Entregar los citatorios con la debida anticipación en los términos previstos en este Reglamento;
 
-III. Redactar las actas de reuniones de la Comisión, y recabar las firmas correspondientes de los participantes;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2018)</small>
+
+III. Redactar las actas de sesiones y reuniones de la Comisión, y recabar las firmas correspondientes de los participantes;
 
 IV. Dar seguimiento a los Acuerdos de la Comisión;
 
@@ -983,39 +995,53 @@ VI. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne
 
 #### Sección Tercera. Procedimiento
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MAYO DE 2018)</small>
+
 ###### Artículo 63.
 
-Al recibir las comisiones los asuntos que les turnen, su presidente acusará el recibo correspondiente con copia para los demás integrantes de la comisión, citándolos a una reunión privada en la que se dará a conocer el contenido del asunto recibido, se designará por turno al diputado que actuará como ponente y se acordará el procedimiento a seguir para obtener la información necesaria que permita la elaboración del dictamen correspondiente. En caso de falta de ponente, se nombrará a quien lo sustituya.
+Al recibir las comisiones los asuntos que les turnen, su presidente acusará el recibo correspondiente con copia para los demás integrantes de la comisión, citándolos a una sesión privada en la que se dará a conocer el contenido del asunto recibido, se designará por turno al diputado que actuará como ponente y se acordará el procedimiento a seguir para obtener la información necesaria que permita la elaboración del dictamen correspondiente. En caso de falta de ponente, se nombrará a quien lo sustituya.
 
 Si el caso lo permite, podrán realizarse consultas y foros de participación social, así como comparecencias de los particulares y de los Servidores Públicos relacionados con el asunto.
 
-Las demás reuniones de las comisiones deberán ser públicas, salvo que el asunto requiera tratarse en privado, previo acuerdo unánime de los integrantes de la comisión.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
+
+Las demás sesiones de las comisiones deberán ser públicas, salvo que el asunto requiera tratarse en privado, previo acuerdo unánime de los integrantes de la comisión.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 64.
 
-Las comisiones se reunirán mediante convocatoria de su presidente dada a conocer con veinticuatro horas de anticipación durante los períodos de sesiones, ordinarias y cuarenta y ocho horas durante los recesos, salvo casos de urgencia.
+Las comisiones sesionarán mediante convocatoria de su presidente, dada a conocer con una anticipación de veinticuatro horas, durante los períodos ordinarios de sesiones, y de cuarenta y ocho horas durante los recesos, salvo casos de urgencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 65.
 
-Las convocatorias a reuniones se entregarán con la anticipación mínima señalada en el Artículo anterior, según sea el caso e incluirá lo siguiente:
+Las convocatorias a sesiones contendrán, por lo menos, lo siguiente:
 
 I. Proyecto de orden del día, y
 
 II. Fecha, hora y lugar de su realización.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
+
 ###### Artículo 66.
 
-El presidente de cada comisión convocará a una reunión por lo menos una vez al mes, así mismo podrá hacerlo a solicitud de cualquier integrante de la misma. Si a la reunión no concurre el presidente, uno de los vocales presidirá la reunión.
+El presidente de cada comisión convocará a una sesión por lo menos una vez al mes, así mismo podrá hacerlo a solicitud de cualquier integrante de la misma. Si a la sesión no concurre el presidente, uno de los vocales la presidirá.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 67.
 
-El quórum de las reuniones de las comisiones será de simple mayoría; si pasados treinta minutos de la hora señalada no se integrare el quórum, podrán sesionar con los diputados presentes. Sus resoluciones serán tomadas por simple mayoría y en caso de empate el presidente tendrá el voto de calidad.
+El quórum de las sesiones de las comisiones será de simple mayoría; si pasados treinta minutos de la hora señalada no se integrare el quórum, podrán sesionar con los diputados presentes. Sus resoluciones serán tomadas por simple mayoría y en caso de empate el presidente tendrá el voto de calidad.
 
-Los presidentes de comisión informarán al presidente de la Mesa Directiva de las faltas de los diputados, para los efectos previstos en la Ley.
+Los presidentes de comisión informarán al presidente de la Mesa Directiva de las faltas y retardos de los diputados, para los efectos previstos en la Ley.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
 
 ###### Artículo 68.
 
-Las actas de las reuniones de las comisiones serán elaboradas por el Secretario Técnico de cada una de ellas y firmadas por el presidente y los vocales integrantes de las mismas.
+Las actas de las sesiones de las comisiones serán elaboradas por el Secretario Técnico de cada una de aquellas y firmadas por el presidente y los vocales integrantes de las mismas.
 
 ###### Artículo 69.
 
@@ -1047,9 +1073,31 @@ Las comisiones, por medio de su presidente, podrán solicitar a las oficinas pub
 
 Concluidos los trabajos de la comisión, el responsable de la redacción, lo entregará al presidente de la comisión, para que éste convoque a la sesión de su lectura, justificación y explicación por el autor o autores.
 
-Los legisladores que no hubieran estado presentes en la reunión de comisión, podrán adherirse mediante su firma al dictamen o resolución correspondiente, sin que este acto justifique su inasistencia.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
+
+Los legisladores que no hubieran estado presentes en la sesión de comisión, podrán adherirse mediante su firma al dictamen o resolución correspondiente, sin que este acto justifique su inasistencia.
 
 La discusión y aprobación del dictamen ocurrirá en sesión diferente.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2018)</small>
+
+###### Artículo 75 Bis.
+
+Las comisiones podrán emitir acuerdos internos para atender aquellos asuntos que se les hayan turnado y consideren que deba prevenirse a los promoventes, disponer lo necesario para complementar la información o documentación recibida; así como los que carezcan de materia o aquellos cuyo seguimiento y resolución, en su caso, interesa sólo al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2018)</small>
+
+###### Artículo 75 Ter.
+
+Todo Acuerdo Interno deberá estar fundado y motivado, en función de criterios normativos, financieros, operativos, técnicos o de otra índole que consideren las Comisiones.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2018)</small>
+
+###### Artículo 75 Quater.
+
+Al aprobarse el Acuerdo lnterno deberá ser firmado por la mayoría de los Diputados integrantes de la Comisión, y se entregará a quien deba cumplirlo.
+
+Si mediante Acuerdo Interno se diera por concluido el trámite de un expediente parlamentario, se le comunicará a la Secretaría Parlamentaria, para los efectos conducentes.
 
 ###### Artículo 76.
 
@@ -1067,9 +1115,11 @@ Las comisiones que dictaminen un número mayor a cincuenta expedientes parlament
 
 Si alguna Comisión no emite el dictamen dentro del término o prórroga señalados para tal efecto, el presidente de la Mesa Directiva en sesión privada le requerirá a que lo presente en la pública siguiente; en caso contrario, se procederá a nombrar nueva comisión para el despacho de ese expediente.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
+
 ###### Artículo 78.
 
-Cualquier diputado del Congreso puede asistir sin voto a las juntas de las comisiones y exponer libremente en ellas su parecer sobre el asunto en estudio.
+Cualquier diputado del Congreso puede asistir sin voto a las sesiones y reuniones de las comisiones y exponer libremente en ellas su parecer sobre el asunto en estudio.
 
 ###### Artículo 79.
 
@@ -1089,15 +1139,19 @@ Las comisiones, durante el receso, estudiarán y dictaminarán las iniciativas q
 
 Si por motivo de su competencia debiera turnarse un asunto a dos o más comisiones estas podrán dictaminar conjuntamente, en caso de que haya acuerdo en su proposición.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MAYO DE 2018)</small>
+
 ###### Artículo 83.
 
-Cuando trabajen comisiones unidas, la presidencia de las reuniones será rotativa en los términos que lo acuerden las mismas.
+Cuando trabajen comisiones unidas, la presidencia de las sesiones será rotativa en los términos que lo acuerden las mismas.
 
 Los Acuerdos serán tomados por mayoría de votos de los presentes, en caso de empate el presidente en turno tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2018)</small>
+
 ###### Artículo 84.
 
-Sólo con autorización del presidente de la Mesa Directiva, las comisiones podrán reunirse en horas en que el Pleno sesione; sin embargo, se podrá ordenar la suspensión de la reunión si el Pleno requiriese la comparecencia de los diputados respectivos.
+Sólo con autorización del presidente de la Mesa Directiva, las comisiones podrán sesionar en horas en que el Pleno sesione; sin embargo, se podrá ordenar la suspensión de la sesión de Comisión o comisiones si el Pleno requiriese la comparecencia de los diputados respectivos.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
@@ -1990,3 +2044,15 @@ El presente Decreto entrará en vigor una vez aprobado por el Pleno del Congreso
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 10 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 142.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TLAXCALA Y DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al momento de su aprobación, con excepción de las reformas a los artículos 4 y 16 de la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala, y a los diversos 6, 7 y 18 del Reglamento Interior del Congreso del Estado de Tlaxcala, las cuales entrarán en vigor el día veinte de agosto del año dos mil dieciocho.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
