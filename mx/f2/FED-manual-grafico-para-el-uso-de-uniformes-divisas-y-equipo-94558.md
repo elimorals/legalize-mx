@@ -4,7 +4,7 @@ identifier: "FED-manual-grafico-para-el-uso-de-uniformes-divisas-y-equipo-94558"
 country: "mx"
 rank: "manual"
 publication_date: "2013-06-11"
-last_updated: "2013-06-11"
+last_updated: "2018-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94558&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2013-05-29"
 ---
 # MANUAL GRAFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
 > <small>N. DE E. SE SUGIERE CONSULTAR EL ARCHIVO ACROBAT QUE CONTIENE LAS FOTOGRAFÍAS E IMÁGENES QUE REFIERE EL PRESENTE MANUAL.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2018 (ABROGADO).
 
 Manual publicado en la Segunda y Tercera Sección del Diario Oficial de la Federación, el martes 11 de junio de 2013.
 
@@ -3774,3 +3774,15 @@ En aquellos casos en que no se especifique la materia prima con que se confeccio
 293. De conformidad con el artículo 16 del Reglamento de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, el personal en situación de retiro cuando porte cualquier uniforme, deberá emplear las Divisas correspondientes al grado que se les confirió en el activo, en términos de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea mexicanos.
 
 México, Distrito Federal, a los veintinueve días del mes de mayo de dos mil trece.- El Secretario de la Defensa Nacional, General Salvador Cienfuegos Zepeda.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Primero.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Manual Gráfico para el Uso de Uniformes, Divisas y Equipo del Ejército y Fuerza Aérea Mexicanos, que se divulga mediante el presente acuerdo, abroga el Manual Grafico para el uso de Uniformes, Divisas y Equipo del Ejército y Fuerza Aérea Mexicanos, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+
+Tercero.- La publicación del Manual en comento, cuya consulta es a través de la liga precisada en líneas anteriores, surte los efectos jurídicos respectivos.
