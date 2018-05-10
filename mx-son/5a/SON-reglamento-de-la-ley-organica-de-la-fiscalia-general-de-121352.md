@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-fiscalia-general-de-121352"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-02"
-last_updated: "2018-04-09"
+last_updated: "2018-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2018.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el martes 2 de mayo de 2017.
 
@@ -2273,13 +2273,51 @@ I. Análisis de inteligencia criminal: reuniendo información sobre organizacion
 
 II. Análisis Investigativo Criminal: generando procedimientos destinados a crear un perfil del delincuente basado en las características de los delitos que cometiera; para su localización, detención y su Procesamiento Penal.
 
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 133.
 
-La Dirección General de la Fiscalía Especializada en Procuración de Justicia para Adolescentes; tendrá a su cargo Unidades Especializadas en Procuración de Justicia para Adolescentes en los Distritos Judiciales de San Luis Rio Colorado, Caborca, Navojoa, Nogales, Ciudad Obregón, Hermosillo, Guaymas y Agua Prieta; así como las siguientes Unidades de carácter itinerante:
+La Dirección General de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores; tendrá a su cargo las siguientes Unidades del Ministerio Público:
 
-I. Unidad Itinerante de Agentes Especializados del Ministerio Público para el seguimiento y liquidación del Sistema de Justicia Penal Tradicional, en materia de Procuración de Justicia para Adolescentes; y
+I. Unidad Administrativa de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores;
 
-II. Unidad Itinerante de Agentes Especializados del Ministerio Público para el Sistema de Justicia Penal Acusatorio, en materia de Procuración de Justicia para Adolescentes.
+II. Unidad de Agentes Especiales de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores;
+
+III. Unidad de Procuración de Justicia para Adolescentes, de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores; y,
+
+IV. Unidad Especializada en Narcomenudeo y Corrupción de Menores, de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores.
+
+Los Agentes del Ministerio Público adscritos a la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores designados como Titulares de las presentes Unidades, tendrán carácter de Agentes del Ministerio Público Coordinador.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2018)</small>
+
+ARTÍCULO 133 BIS.- La Dirección General de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores; tendrá a su cargo las siguientes Agencias del Ministerio Público Especializadas:
+
+I. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en la Ciudad de Agua Prieta, Sonora;
+
+II. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en la Ciudad de Caborca, Sonora;
+
+III. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en la Ciudad de Guaymas, Sonora;
+
+IV. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en la Ciudad Nogales, Sonora;
+
+V. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en la Ciudad de San Luis Rio Colorado, Sonora;
+
+VI. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en la Ciudad de Navojoa, Sonora;
+
+VII. Agencia Primera del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en la Ciudad de Hermosillo, Sonora;
+
+VIII. Agencia Segunda del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en la Ciudad de Hermosillo, Sonora;
+
+IX. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores con sede en Ciudad Obregón, Sonora;
+
+X. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes, Narcomenudeo y Corrupción de Menores con sede en la Ciudad de Hermosillo, Sonora;
+
+XI. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes, Narcomenudeo y Corrupción de Menores con sede en Ciudad Obregón, Sonora;
+
+XII. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes, Narcomenudeo y Corrupción de Menores, Itinerante; y,
+
+XIII. Agencia del Ministerio Público Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores, del Sistema de Justicia Penal Tradicional; con sede en la Ciudad de Hermosillo, Sonora.
 
 ###### ARTÍCULO 134.
 
@@ -2732,3 +2770,11 @@ B.O. 9 DE ABRIL DE 2018.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su expedición, independientemente de la fecha de su publicación, que deberá ser en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las Carpetas de Investigación que correspondan y que actualmente se encuentren en trámite en la Fiscalía General, se resolverán conforme a las disposiciones en el presente Acuerdo.
+
+B.O. 10 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ARTÍCULO 133, ASÍ COMO SE ADICIONA EL ARTÍCULO 133 BIS; DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su expedición; independientemente la fecha de su publicación, que deberá ser en el Boletín Oficial del Gobierno del Estado; en un plazo no mayor a 15 días hábiles contados a partir (sic) expedición de este.
+
+SEGUNDO.- Dentro del plazo de 15 días hábiles contados a partir de la entrada en vigor de presente Acuerdo, Oficialía Mayor realizará las acciones necesarias para que la Dirección General de Recursos Humanos, actualice administrativamente las comisiones y/o nombramientos que el Fiscal General expida en favor de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores.
