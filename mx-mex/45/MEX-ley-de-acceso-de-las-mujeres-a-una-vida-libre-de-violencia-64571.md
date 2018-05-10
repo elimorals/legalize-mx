@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2017-11-30"
+last_updated: "2018-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MAYO DE 2018.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -841,6 +841,10 @@ XXV. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
 XXVI. Proveer los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran el Sistema Estatal y el Programa Estatal; y
 
+> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2018)</small>
+
+XXVI Bis. Crear Unidades de Igualdad de Género y Erradicación de la Violencia al interior de las dependencias del Poder Ejecutivo y sus organismos auxiliares, en términos de lo previsto en el Capítulo Noveno Bis de la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México; y
+
 XXVII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
 ###### Artículo 41.
@@ -1257,7 +1261,9 @@ Corresponde al Poder Judicial:
 
 I. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y del acceso de las mujeres a la justicia y la aplicación de la presente Ley;
 
-II. Crear una instancia que institucionalice, en el Poder Judicial, la perspectiva de género; impulsar la especialización en violencia de género contra las mujeres, en Derechos Humanos de las mujeres y en la materia de esta Ley al personal del poder judicial encargado de la impartición de justicia;
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2018)</small>
+
+II. Crear una instancia que institucionalice, en el Poder Judicial, la perspectiva de género; impulsar la especialización en violencia de género contra las mujeres, en Derechos Humanos de las mujeres y en la materia de esta Ley al personal del poder judicial encargado de la impartición de justicia, observando en lo conducente, lo previsto en el Capítulo Noveno Bis de la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México;
 
 > <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -1302,6 +1308,10 @@ VIII. Apoyar los programas de reeducación integral para las personas agresoras 
 IX. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres y las niñas;
 
 X. Apoyar la creación de las Unidades de Atención de las víctimas de violencia garantizando que la atención a las mujeres y niñas indígenas sea realizada por mujeres y en su propia lengua;
+
+> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2018)</small>
+
+X Bis. Crear Unidades de Igualdad de Género y Erradicación de la Violencia, en términos de lo previsto en el Capítulo Noveno Bis de la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México;
 
 XI. Apoyar la creación de refugios seguros para las víctimas;
 
@@ -1736,3 +1746,15 @@ Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 10 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO Y DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las dependencias del Ejecutivo y sus organismos auxiliares, los Poderes Legislativo y Judicial, los organismos autónomos y los municipios, crearán las Unidades de Igualdad de Género y Erradicación de la Violencia con base a la suficiencia presupuestal correspondiente.
+
+CUARTO. Las autoridades estatales y municipales realizarán las adecuaciones normativas necesarias para el cumplimiento del presente Decreto.
