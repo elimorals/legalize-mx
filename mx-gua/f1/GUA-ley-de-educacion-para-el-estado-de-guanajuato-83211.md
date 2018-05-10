@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2017-10-19"
+last_updated: "2018-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -1421,7 +1421,9 @@ XIII. Contribuir a la formación integral de los educandos;
 
 XIV. Establecer, en coordinación con las entidades de la administración pública y organismos involucrados, las estrategias y apoyos necesarios para la formación y vivencia de valores de la comunidad educativa, así como la evaluación coordinada con criterio científico de los resultados;
 
-XV. Establecer los mecanismos de coordinación y colaboración entre las dependencias y entidades de la administración pública para la implementación de los programas preventivos y correctivos de salud;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2018)</small>
+
+XV. Establecer los mecanismos de coordinación y colaboración entre las dependencias y entidades de la administración pública para la implementación de los programas preventivos y correctivos de salud, así como aquellos que tengan como finalidad la promoción de la cultura de la donación de órganos y tejidos;
 
 XVI. Implementar programas en materia de seguridad para los alumnos de los planteles escolares, en el interior y exterior de los mismos y en coordinación con las autoridades y dependencias en materia de seguridad pública;
 
@@ -2722,3 +2724,9 @@ Artículo Primero. El presente decreto entrará en vigor el día siguiente al de
 Artículo Segundo. El Ejecutivo del Estado adecuará los reglamentos y demás disposiciones normativas necesarias para el cumplimiento de esta reforma, en un término que no exceda de noventa días, contados a partir de la entrada en vigor del presente decreto.
 
 Artículo Tercero. Con base en lo dispuesto en la fracción II-1 del artículo 22, contenido en el presente Decreto, las autoridades educativas podrán coordinarse con otras instituciones para implementar planes de emergencia y acciones afirmativas dirigidas a atender a las personas en situación de vulnerabilidad a las que se refiere el último párrafo del mismo artículo.
+
+P.O. 10 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 304 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 80 FRACCIÓN XV DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
