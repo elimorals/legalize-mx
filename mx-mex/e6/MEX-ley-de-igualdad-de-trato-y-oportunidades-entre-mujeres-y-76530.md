@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2014-12-16"
+last_updated: "2018-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE MAYO DE 2018.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -533,9 +533,37 @@ X. Fomentar la incorporación a la educación de las personas que en razón de s
 
 XI. Establecer medidas educativas destinadas al reconocimiento y enseñanzas del papel de las mujeres en la historia.
 
-### CAPÍTULO DÉCIMO. EL MODELO DE EQUIDAD Y GÉNERO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 10 DE MAYO DE 2018)</small>
 
-### CAPITULO DÉCIMO PRIMERO. DE LA VIGILANCIA
+### CAPÍTULO NOVENO BIS. DE LAS UNIDADES DE IGUALDAD DE GÉNERO Y ERRADICACIÓN DE LA VIOLENCIA
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2018)</small>
+
+###### Artículo 34 Bis.
+
+Las dependencias del Ejecutivo, sus organismos auxiliares, los Poderes Legislativo y Judicial, organismos autónomos y municipios crearán Unidades de Igualdad de Género y Erradicación de la Violencia, mediante criterios transversales, que tengan por objeto implementar e institucionalizar la perspectiva de género y fungir como órgano de consulta y asesoría en la instancia correspondiente.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2018)</small>
+
+###### Artículo 34 Ter.
+
+Son atribuciones de las Unidades de Igualdad de Género y Erradicación de la Violencia, las siguientes:
+
+I. Promover y vigilar que sus planes, programas y acciones sean realizados con perspectiva de género;
+
+II. Generar acciones con perspectiva de género que garanticen el acceso de las mujeres a una vida libre de violencia, promuevan la igualdad, el empoderamiento de las mujeres, el respeto a los derechos humanos y la eliminación de la discriminación;
+
+III. Dar cumplimiento a los instrumentos internacionales, nacionales y estatales en materia de derechos humanos garantizando en todo momento la igualdad de trato y oportunidades entre mujeres y hombres; así como prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el ámbito de su competencia;
+
+IV. Coadyuvar en la elaboración de sus presupuestos con perspectiva de género, con la finalidad de incorporar acciones relacionadas con la materia;
+
+V. Informar periódicamente, en el marco del Sistema Estatal, los resultados de la ejecución de sus planes y programas, con el propósito de integrar y rendir el informe anual correspondiente;
+
+VI. Ser el primer punto de contacto para los casos de acoso y hostigamiento sexual; y
+
+VII. Las demás que se establezcan en otras disposiciones jurídicas.
+
+### CAPÍTULO DÉCIMO. EL MODELO DE EQUIDAD Y GÉNERO
 
 ###### Artículo 35.
 
@@ -545,7 +573,7 @@ I. Definir los lineamientos de gestión con perspectiva de género; y
 
 II. Establecer las bases para el asesoramiento, adecuación y capacitación por parte de las instancias externas a la administración pública que en su caso validen los conocimientos con perspectiva de género.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LAS RESPONSABILIDADES
+### CAPITULO DÉCIMO PRIMERO. DE LA VIGILANCIA
 
 ###### Artículo 36.
 
@@ -554,6 +582,8 @@ En el ámbito de su respectiva competencia, la Comisión de Derechos Humanos del
 ###### Artículo 37.
 
 La Comisión de Derechos Humanos del Estado de México, podrá recibir quejas, formular recomendaciones y presentar informes especiales en la materia objeto de esta Ley.
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS RESPONSABILIDADES
 
 ###### Artículo 38.
 
@@ -610,3 +640,15 @@ G.G. 16 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 309.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO Y DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las dependencias del Ejecutivo y sus organismos auxiliares, los Poderes Legislativo y Judicial, los organismos autónomos y los municipios, crearán las Unidades de Igualdad de Género y Erradicación de la Violencia con base a la suficiencia presupuestal correspondiente.
+
+CUARTO. Las autoridades estatales y municipales realizarán las adecuaciones normativas necesarias para el cumplimiento del presente Decreto.
