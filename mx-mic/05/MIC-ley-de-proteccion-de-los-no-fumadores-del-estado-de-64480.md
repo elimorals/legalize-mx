@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-de-los-no-fumadores-del-estado-de-64480"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-07"
-last_updated: "2016-12-29"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE PROTECCION DE LOS NO FUMADORES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE MlCHOACÁN DE OCAMPO
+LEY DE PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
-Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacan, el viernes 7 de noviembre de 2008.
+Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 7 de noviembre de 2008.
 
 LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -41,7 +41,7 @@ NÚMERO 28
 
 Se expide la Ley de Protección de los No Fumadores del Estado de Michoacán de Ocampo, para quedar como sigue:
 
-LEY DE PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE MlCHOACÁN DE OCAMPO
+LEY DE PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -63,9 +63,13 @@ III. Proteger los derechos de los no fumadores a vivir y convivir en espacios ci
 
 IV. Establecer políticas públicas saludables a, través de mecanismos, programas y acciones de difusión para la prevención y control del consumo de productos del tabaco;
 
-V. Promover una cultura de respeto para la convivencia entre no fumadores y fumadores;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VI. Establecer en los sectores público, privado y social, políticas saludables en espacios cien por ciento libres de humo de tabaco;
+V. Promover una cultura de respeto para los espacios cien por ciento libres de humo de tabaco, establecidos en esta Ley;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VI. Establecer en los sectores público, privado y social, políticas saludables para la protección contra la exposición al humo de tabaco;
 
 VII. Instituir medidas y acciones en niños y jóvenes, para el desarrollo de una cultura de prevención sobre el tabaquismo, en coordinación con otras entidades u organismos competentes; y,
 
@@ -75,37 +79,85 @@ VIII. Diseñar los lineamientos generales para la elaboración de la reglamentac
 
 Para efectos de la presente ley se entiende por:
 
-l. Ley: La Ley de Protección de los No Fumadores del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-II. Estado: El Estado de Michoacán de Ocampo;
+I. Autoridad Sanitaria: El Gobernador del Estado, la Secretaría de Salud del Estado, la Comisión Estatal para la Protección contra Riesgos Sanitarios y los Ayuntamientos en los términos de los acuerdos o convenios suscritos en materia de salud y en aquellas materias del ámbito de su competencia;
 
-III. Autoridad Sanitaria: La Secretaría de Salud del Estado de Michoacán de Ocampo y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-IV. Construcciones: Toda edificación o local público o privado que se destine al comercio, enseñanza, recreación o trabajo;
+II. COEPRIS: A la Comisión Estatal para la Protección contra Riesgos Sanitarios;
 
-V. Denuncia Ciudadana: La Queja hecha ante la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VI. Espacio cien por ciento libre de humo de tabaco:
+III. Construcciones: Aquella edificación o local público o privado que se destine al comercio, enseñanza, recreación o trabajo;
 
-Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto del tabaco;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VII. Humo de tabaco: Las emisiones originadas por encender o consumir cualquier producto de tabaco;
+IV. Denuncia Ciudadana: La queja hecha ante la autoridad competente por cualquier persona, respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás normas aplicables;
 
-VIII. Productos del tabaco: Cualquier sustancia o bien manufacturado, preparado total o en parte, utilizando como materia prima, hojas de tabaco y destinado a ser fumado, chupado, mascado o utilizado como rapé; y,
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-Secretaría: La Secretaría de Salud del Estado de Michoacán de Ocampo.
+V. Espacio al aire libre para fumar: Aquel que no tiene techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y que la estructura sea permanente o temporal;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VI. Espacio cien por ciento libre de humo de tabaco: Aquella área física cerrada con acceso al público o todo lugar de trabajo o de transporte público, o en todo sitio de concurrencia colectiva, así como las puertas de acceso a los mismos, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto del tabaco;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VII. Estado: Al Estado Libre y Soberano de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VIII. Fumador: A la persona que inhala y exhala, intencionadamente, productos de la combustión del tabaco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+IX. Fumar: Al acto de inhalar y exhalar humo de un producto de tabaco, incluyendo el hecho de estar en posesión o control de un producto de tabaco en combustión que genere emisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+X. Humo de tabaco: Al que se desprende de un cigarrillo o de otros productos de tabaco, generalmente en combinación con el humo exhalado por las personas que fuman;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XI. Ley: La ley de Protección de los No Fumadores del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XII. Productos del tabaco: Cualquier sustancia o bien manufacturado, preparado total o en parte, utilizando como materia prima, hojas de tabaco y destinado a ser fumado, chupado, mascado o utilizado como rapé;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XIII. Secretaría: A la Secretaría de Salud del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XIV. Vehículo de transporte público: Aquel vehículo individual o colectivo utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, así como para regularmente obtener una remuneración; incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XV. Verificador: Al servidor público designado por la autoridad sanitaria competente, cuya función es practicar visitas de verificación para cerciorarse del cumplimiento de esta Ley y demás disposiciones normativas en la materia; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XVI. Visitas de verificación: El acto de autoridad sanitaria competente, mediante el cual se realiza la vigilancia respecto al cumplimiento de esta Ley y demás disposiciones normativas en la materia.
 
 ## TÍTULO SEGUNDO. ATRIBUCIONES DE LA AUTORIDAD
 
 ### Capítulo Primero. De las Competencias y Atribuciones
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 4.
 
-La aplicación de esta Ley y sus reglamentos estará a cargo de la Secretaría, la que deberá coordinar sus acciones con los ayuntamientos; la Secretarías de Gobierno; de Seguridad Pública; de Educación; de Urbanismo y Medio Ambiente; de la Mujer; de los Jóvenes; de Cultura; la Dirección de Tránsito Estatal y las direcciones de Tránsito municipales; la Procuraduría General de Justicia del Estado; los sistemas para el Desarrollo Integral de la Familia; la Comisión Coordinadora del Transporte Público de Michoacán; y otras autoridades competentes, para el cumplimiento de los objetivos de esta Ley, en el ámbito de su respectivas competencias.
+La aplicación de esta Ley y sus reglamentos estará a cargo de la Secretaría a través de la COEPRIS, la que deberá coordinar sus acciones con las dependencias y entidades que integran la Administración Pública, Federal, Estatal y Municipal en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 5.
 
-El Titular del Poder Ejecutivo del Estado, a través de las instancias administrativas correspondientes en sus respectivos ámbitos de competencia, se encargará de velar por el cumplimiento de la presente Ley y ejercerá las funciones de inspección y vigilancia en la aplicación de la presente.
+El Titular del Poder Ejecutivo del Estado a través de las instancias administrativas correspondientes en sus respectivos ámbitos de competencia, se encargarán de velar por el cumplimiento de la presente Ley y ejercerán las funciones de vigilancia de conformidad con la presente Ley y su Reglamento.
 
 ###### ARTÍCULO 6.
 
@@ -117,9 +169,17 @@ II. Los funcionarios, propietarios, administradores o responsables y empleados d
 
 III. Las asociaciones de padres de familia de las escuelas e institutos públicos y privados;
 
-IV. Los usuarios de los establecimientos, oficinas o industrias; y,
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-V. Los colegios de profesionistas de todas las disciplinas de la salud, y las organizaciones de la sociedad civil cuyo campo de acción tenga que ver con temas de educación, sanidad y desarrollo humano.
+IV. Los usuarios de los establecimientos, oficinas o industrias;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+V. Los colegios de profesionistas de todas las disciplinas de la salud; y,
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VI. La sociedad civil organizada.
 
 ###### ARTÍCULO 7.
 
@@ -135,7 +195,9 @@ IV. La orientación a la población sobre los daños a la salud por el consumo d
 
 V. Diseñar el manual de letreros, señalamientos preventivos, informativos o restrictivos, que serán colocados en espacios estratégicos, interiores y exteriores, en las construcciones para prevenir el consumo de productos del tabaco y establecer las prohibiciones pertinentes, mismos que deberán contener iconografía relativa a los daños y consecuencias del tabaquismo;
 
-VI. Realizar en conjunto con la iniciativa privada, campañas permanentes de información, concientización y difusión para prevenir el uso, consumo de productos del tabaco y la exposición a su humo;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VI. Realizar en conjunto con la iniciativa privada y la sociedad civil organizada, campañas permanentes de información, concientización y difusión para prevenir el uso, consumo de productos del tabaco y la exposición a su humo;
 
 VII. Deberá impulsar la participación de la comunidad para la prevención y atención del tabaquismo;
 
@@ -171,7 +233,7 @@ V. Formular y desarrollar a través del Comité Municipal contra las Adicciones 
 
 VI. Vigilar y hacer cumplir en la esfera de su competencia, el presente ordenamiento legal, además, dar parte al Ministerio Público cuando el caso así lo requiera o supletoriamente a la autoridad competente;
 
-VII. Acreditar a los verificadores municipales sanitarios de acuerdo a su estructura orgánica administrativa y los voluntarios que deseen participar, previa capacitación de la función que desarrollarán, cumpliendo con los ordenamientos legales correspondientes; y,
+VII. (DEROGADA, P.O. 11 DE MAYO DE 2018)
 
 VIII. Las demás atribuciones jurídicas aplicables.
 
@@ -203,7 +265,9 @@ V. El fortalecimiento institucional para la vigilancia sobre el cumplimiento de 
 
 Los tratamientos para la atención del tabaquismo comprenderán los programas y acciones tendientes a:
 
-I. Apoyar institucionalmente a la población que desee abandonar el hábito de consumir tabaco;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+I. Apoyar institucionalmente a la población que desee abandonar el consumo de tabaco;
 
 II. Establecer las facilidades médicas y psicológicas para la atención de los pacientes que sufran de este padecimiento y que deseen iniciar tratamiento;
 
@@ -229,9 +293,11 @@ La información a que se refiere este artículo deberá integrarse a los sistema
 
 ### Capítulo Primero. Prohibiciones
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 14.
 
-Queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco en los lugares siguientes:
+Queda prohibido a cualquier persona consumir o tener encendido cualquier producto del tabaco o cualquiera que simule la acción de fumar en los espacios cien por ciento libres de humo de tabaco.
 
 I. En construcciones cerradas como cines, bibliotecas, teatros, salas de conferencias, centros culturales, museos, salas de exposición, auditorios, entre otros a los que tenga acceso el público en general;
 
@@ -253,17 +319,29 @@ IX. Ascensores y elevadores;
 
 X. Instalaciones destinadas a la práctica de algún deporte, actividad recreativa o de esparcimiento públicas y privadas; y,
 
-XI. En cualquier otro lugar con acceso al público que en forma expresa la Autoridad Sanitaria determine decretar como espacio cien por ciento libre de humo de tabaco.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XI. En cualquier otro lugar con acceso al público que en forma expresa la Autoridad Sanitaria determine decretar como espacio cien por ciento libre de humo de tabaco; y,
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XII. Recintos de los parques infantiles y áreas o zonas de juego para la infancia, entendiendo por tales los espacios al aire libre acotados que contengan equipamiento o acondicionamientos destinados específicamente para el juego y esparcimiento de menores.
+
+(REPUBLICADO, P.O. 11 DE MAYO DE 2018)
 
 En dichos lugares se fijará en el interior y en el exterior los letreros, logotipos y emblemas que establezca la Secretaría.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 15.
 
-En las universidades o instituciones de educación superior, en las construcciones con licencia de tipo comercial o recreación con acceso al público que cuenten o no con espacios exteriores al aire libre, podrán establecerse zonas exclusivas para fumar o bien declararse espacio cien por ciento libres de humo del tabaco.
+En los establecimientos con licencia de tipo comercial o recreación con acceso al público, podrán existir zonas exclusivas para fumar previo cumplimiento a los requisitos establecidos en el Reglamento de la Ley.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 16.
 
-Los propietarios, administradores o responsables de una construcción, estarán obligados a hacer respetar lo dispuesto en la presente Ley en sus respectivas áreas de responsabilidad.
+Los propietarios, administradores o responsables de los espacios cien por ciento libres de humo de tabaco, estarán obligados a hacer respetar lo dispuesto en la presente Ley en sus respectivas áreas de responsabilidad.
 
 ###### ARTÍCULO 17.
 
@@ -275,9 +353,11 @@ En todas las construcciones se colocarán en un lugar visible letreros que indiq
 
 La Autoridad Sanitaria y las dependencias señaladas en la presente Ley ejercerán las funciones de inspección y vigilancia en el ámbito de sus competencias.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
-Cualquier ciudadano o responsable de cualquier institución que detecte que una o varias personas están actuando de manera contraria a lo establecido por esta Ley, deberá dar aviso a la brevedad posible a las autoridades competentes, a efecto de que se ordene su cumplimiento y se actúe conforme lo establece el presente ordenamiento.
+Cualquier ciudadano responsable de cualquier establecimiento cien por ciento libre de humo de tabaco que detecte que una o varias personas están actuando de manera contraria a lo establecido por esta Ley, deberá dar aviso a la brevedad posible a las autoridades competentes, a efecto de que se ordene su cumplimiento y se actúe conforme lo establece el Reglamento de esta Ley.
 
 ###### ARTÍCULO 20.
 
@@ -289,7 +369,7 @@ II. Ordenar visitas de verificación en los establecimientos, empresas y oficina
 
 III. Sancionar, según su ámbito de competencia, a los propietarios, poseedores o responsables de establecimientos, empresas, locales o conductores de vehículos contemplados en esta Ley que no cumplan con las restricciones señaladas;
 
-IV. Sancionar a los particulares que, al momento de la visita, hayan sido encontrados consumiendo productos del tabaco en los lugares en que se encuentre prohibido, siempre y cuando se les invite a modificar su conducta y se nieguen a hacerlo;
+IV. (DEROGADA, P.O. 11 DE MAYO DE 2018)
 
 V. Designar y capacitar a los verificadores sanitarios de acuerdo a lo establecido en la presente normatividad; y,
 
@@ -297,11 +377,7 @@ VI. Las demás que le otorgue la Ley y demás disposiciones jurídicas aplicable
 
 ###### ARTÍCULO 21.
 
-Los verificadores designados por la autoridad sanitaria serán de dos tipos:
-
-I. Verificador sanitario. Es todo trabajador designado por la Secretaría y los ayuntamientos los cuales tendrán las funciones de desarrollar acciones de información, orientación, educación, inspección y verificación sanitaria de las disposiciones de esta Ley y las demás disposiciones normativas aplicables; y,
-
-II. Verificador voluntario o auxiliar. Toda persona acreditada por una autoridad sanitaria que de manera honorífica le interese participar en la inspección y vigilancia de los preceptos de esta Ley, desarrollará las funciones de información y orientación, en caso de observar algún incumplimiento, deberá levantar un reporte y notificarlo por cualquier medio a la autoridad competente.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 22.
 
@@ -309,65 +385,49 @@ La verificación sanitaria y el levantamiento de actas circunstanciadas, son fac
 
 La autoridad sanitaria que reciba la denuncia ciudadana salvaguardará la identidad e integridad de la persona que la realizó.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 23.
 
-La inspección y vigilancia de la aplicación del presente ordenamiento se llevará a cabo mediante visitas de inspección, a través de verificadores designados por la Autoridad Sanitaria quienes deberán realizar las respectivas diligencias de conformidad con las disposiciones de esta Ley y demás ordenamientos aplicables.
+La vigilancia de la aplicación del presente ordenamiento y su Reglamento, se llevará a cabo en los términos previstos en el Título Quinto, Capítulo Único de la Ley de Salud del Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 24.
 
-El personal autorizado, previo a iniciar la inspección o verificación sanitaria requerirá la presencia del visitado o su representante legal, de no encontrarse ninguno de éstos, se entenderá la diligencia con el encargado o persona que se encuentre en el lugar, al cual le exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, precisando el objeto de la visita, el alcance y disposiciones legales que la fundamenten, requiriéndole para que en el acto de la diligencia designe dos testigos.
-
-En caso de negativa o si el designado no acepta desempeñarse como testigo no invalidará los efectos de la inspección o verificación sanitaria y el personal autorizado lo hará constar en el acta administrativa que al efecto se levante.
-
-La persona con quien se atienda la inspección o verificación sanitaria estará obligada a permitir al personal autorizado, el acceso al lugar o áreas sujetas a inspección o verificación sanitaria, en los términos previstos en la orden escrita, así como proporcionar toda clase de datos requeridos que conduzcan al cumplimiento de esta Ley y demás disposiciones aplicables.
+Cuando los establecimientos no cumplan con las disposiciones establecidas en esta Ley y su Reglamento o representen un riesgo importante para la salud, los verificadores deberán aplicar alguna de las medidas de seguridad previstas en la Ley de Salud del Estado de Michoacán de Ocampo y sujetarse al procedimiento previsto por la misma Ley.
 
 ###### ARTÍCULO 25.
 
-La Autoridad Sanitaria podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección y verificación sanitaria cuando alguna o algunas personas obstaculicen o se opongan a la práctica de estos actos administrativos, independiente de las sanciones a que se haga acreedor con motivo de dicha oposición.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 26.
 
-En toda visita el verificador deberá identificarse ante el propietario, posesionario o responsable con la credencial vigente expedida por la autoridad que lo acredite legalmente para desempeñar dicha función.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 27.
 
-Los verificadores practicarán la visita dentro de las veinticuatro horas siguientes a la expedición de la orden, se levantará acta circunstanciada por triplicado en la que se harán constar en forma completa los hechos u omisiones que se hubiesen presentado durante el desarrollo de ésta, en la que se asentará, además:
-
-I. Nombre, denominación o razón social del visitado;
-
-II. Hora, fecha y domicilio;
-
-III. Nombre y cargo de las personas que participaron en la visita sanitaria;
-
-IV. Manifestación de cualquier índole del visitado, si quisiera hacerla; y,
-
-V. Firma de los que intervinieron en la verificación.
-
-Una copia legible del acta quedará en poder de la persona con quien se haya entendido la diligencia; el original y la copia restante se entregará (sic) a la autoridad competente.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 28.
 
-El verificador comunicará al visitado si existen omisiones en el cumplimiento de cualquiera de las obligaciones a su cargo ordenadas en esta Ley o en las disposiciones que de ella emanen y se procederá a firmar el acta por las personas que en ella intervinieron.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 29.
 
-Concluido el acto de inspección sanitaria por la autoridad correspondiente, en caso de haberse encontrado alguna irregularidad se comunicará tal, para que dentro del término de tres días hábiles contados a partir de que surta efectos esta notificación, la afectada manifieste por escrito lo que a su derecho convenga, exhibiendo las pruebas que considere pertinentes ante la Autoridad Sanitaria que haya practicado la verificación.
-
-Para efectos de esta Ley, las notificaciones surtirán sus efectos al siguiente día hábil al que hubieran sido realizadas.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 30.
 
-Transcurrido el término a que se refiere el artículo anterior y desahogadas las pruebas, la autoridad emitirá la resolución administrativa definitiva, dentro de los dos días hábiles siguientes, misma que contendrá una relación sucinta de los hechos, las disposiciones legales y administrativas aplicables al objeto de la verificación sanitaria, la valoración de las pruebas ofrecidas por el interesado si las hubiere, así como los puntos resolutivos, en los que se señalarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 31.
 
-Los verificadores sanitarios supervisarán el cumplimiento de las medidas ordenadas en los términos de la resolución respectiva y en caso de subsistir la infracción deberán reportarlo a efecto de que la Autoridad Sanitaria provea lo conducente, tendiente a la inmediata y eficaz ejecución de las medidas ordenadas.
-
-Cuando se imponga como sanción la clausura temporal, el personal autorizado para ejecutarla, procederá a levantar el acta de la diligencia, siguiendo para ello los lineamientos administrativos establecidos para las inspecciones o verificaciones sanitarias.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 32.
 
-Cuando se presente denuncia ciudadana en contra de cualquier persona que consuma o encienda cualquier producto de consumo del tabaco dentro de una vivienda, la Autoridad Sanitaria ante quien se presente, podrá citar de inmediato a las partes a una audiencia de conciliación con la finalidad de dirimir la controversia suscitada por ese hecho, mediante acuerdo de mutuo consentimiento y en beneficio de los afectados.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ## TÍTULO CUARTO
 
@@ -409,13 +469,21 @@ V. El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-I. De setenta hasta cien veces el valor diario de la Unidad de Medida y Actualización, a quien consuma o tenga encendido cualquier producto de tabaco en las construcciones y espacios cien por ciento libres de humo de tabaco; y,
+I. De diez hasta cien Unidades de Medida y Actualización, a quien incumpla con el Manual de señalamientos y avisos para prevenir el consumo de productos de tabaco que emita la Secretaría en los términos de esta Ley y su Reglamento;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-II. De dos mil hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización, a quien siendo propietarios, administradores o responsables de una construcción o un espacio cien por ciento libre de humo de tabaco o de lo señalado en el artículo 14 de la presente Ley, permita el consumo o tener encendido cualquier producto del mismo.
+II. De cien hasta mil Unidades de Medida y Actualización, cuando se encuentren evidencia al incumplimiento del artículo 14 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+III. De mil hasta cuatro mil Unidades de Medida y Actualización, a quien incumpla con las especificaciones técnicas de las zonas exclusivas para fumar establecidas en la Ley y el Reglamento; y,
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+IV. De mil hasta cinco mil Unidades de Medida y Actualización, a quien siendo propietarios, administradores o responsables de un espacio cien por ciento libre de humo de tabaco, permita el consumo o tener encendido cualquier producto del mismo.
 
 ###### ARTÍCULO 37.
 
@@ -435,9 +503,11 @@ Se sancionará con arresto hasta por 36 horas de acuerdo con lo estipulado en el
 
 Los verificadores sanitarios estarán sujetos a la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Michoacán de Ocampo.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 41.
 
-En todo lo relativo a los procedimientos para la aplicación de las sanciones, procederá el recurso de revisión, aplicándose supletoriamente lo establecido en las disposiciones del Código de Justicia Administrativa del Estado de Michoacán de Ocampo.
+En todo lo relativo a los procedimientos para la aplicación de las sanciones, procederá el recurso de revisión, el cual se interpondrá bajo el procedimiento que señala la Ley de Salud del Estado de Michoacán de Ocampo.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -492,3 +562,13 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 554.- SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 2, LOS ARTÍCULOS 3, 4 Y 5, LAS FRACCIONES IV Y V DEL ARTÍCULO 6, LA FRACCIÓN VI DEL ARTÍCULO 7, LA FRACCIÓN I DEL ARTÍCULO 12, LOS ARTÍCULOS 14, 15, 16, 19, 23, 24, 36 Y 41; SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 6; Y SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 8, LA FRACCIÓN IV DEL ARTÍCULO 20 Y LOS ARTÍCULOS 21, 25, 26, 27, 28, 29, 30, 31 Y 32 DE LA LEY DE PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud, actualizará en un término de cuarenta días el Reglamento de la Ley de Protección de los No Fumadores del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese del presente Decreto, al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos conducentes.
