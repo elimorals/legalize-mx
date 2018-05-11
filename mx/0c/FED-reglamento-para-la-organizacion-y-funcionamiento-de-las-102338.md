@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-organizacion-y-funcionamiento-de-las-102338"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-09-10"
-last_updated: "2015-01-23"
+last_updated: "2018-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102338&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-08-20"
 
 REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 10 de septiembre de 2014.
 
@@ -458,3 +458,19 @@ D.O.F. 23 DE ENERO DE 2015.
 SEGUNDO. Publíquese en el Diario Oficial de la Federación y en el sitio de Internet del Instituto.
 
 TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MAYO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Reglamento para la Organización y Funcionamiento de las Comisiones del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, el cual entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento para la Organización y Funcionamiento de las Comisiones del Instituto Federal de Acceso a la Información y Protección de Datos, publicado en el Diario Oficial de la Federación el diez de septiembre de dos mil catorce.
+
+TERCERO. Se abroga el Acuerdo ACT-PUB/11/02/2015.05, por el que se aprueban los Criterios para conformar los Programas Anuales de Trabajo de las Comisiones Permanentes.
+
+CUARTO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo y su anexo se publiquen en el Diario Oficial de la Federación.
+
+QUINTO. Se instruye a la Secretaría Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo junto con su anexo, se publiquen en el portal de internet del Instituto.
+
+SEXTO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
