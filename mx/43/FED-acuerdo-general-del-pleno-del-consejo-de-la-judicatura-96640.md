@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2017-11-30"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -105,9 +105,9 @@ XIII. Presidente: Consejero Presidente del Consejo;
 
 XIV. Reglamento conjunto de transparencia: Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; y
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones, direcciones generales, Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, así como las Unidades de Transparencia, y de Investigación de Responsabilidades Administrativas, la Dirección para el Trámite de Solicitudes de Acceso a la Información, el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo, y demás que sean autorizadas por el Pleno.
+XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, secretarías técnicas de Comisiones, direcciones generales, Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, así como las Unidades de Transparencia, y de Investigación de Responsabilidades Administrativas, la Dirección para el Trámite de Solicitudes de Acceso a la Información, el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo, y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -273,9 +273,9 @@ VI. Vigilar el funcionamiento de los órganos auxiliares;
 
 VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los Consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal y de Investigación de Responsabilidades Administrativas, directores generales, titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno.
+VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Investigación de Responsabilidades Administrativas, de directores generales, titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -313,13 +313,9 @@ XVI. Suscribir los nombramientos de los servidores públicos comprendidos en los
 
 XVII. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 XVIII. Definir, por conducto de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las directrices de los programas en dichas materias;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -343,8 +339,6 @@ III. Dirección General de Asuntos Jurídicos;
 
 IV. Dirección General de Comunicación Social;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
 V. Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
@@ -353,13 +347,17 @@ V. Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internaciona
 
 VI. Dirección General de la Presidencia;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VII. Unidad de Investigación de Responsabilidades Administrativas; y
+VII. Unidad de Investigación de Responsabilidades Administrativas;
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VIII. Las demás que determine el Pleno.
+VIII. Unidad de Implementación de la Reforma en materia de Justicia Laboral; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+
+IX. Las demás que determine el Pleno.
 
 ### CAPÍTULO TERCERO. DE LOS DEMÁS CONSEJEROS
 
@@ -1093,7 +1091,7 @@ II. Los demás que determine el Pleno.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 60.
 
@@ -1201,25 +1199,25 @@ La Unidad de Enlace Legislativo representará al Consejo ante el Congreso de la 
 
 La operación y funcionamiento de la Unidad de Enlace Legislativo se llevará a cabo de conformidad con los lineamientos que se emitan.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL
+### CAPÍTULO SÉPTIMO
+
+DE LAS SECRETARÍAS EJECUTIVAS, COORDINACIONES Y UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; Y DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA
 
 ###### Artículo 67.
 
-Al frente de cada una de las secretarías ejecutivas, de las coordinaciones y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, afín a las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
+Al frente de cada una de las secretarías ejecutivas, de las coordinaciones y de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, afín a las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+En el caso de los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de las secretarías ejecutivas de Administración; de Finanzas y Servicios Personales; de Vigilancia, Información y Evaluación; de los coordinadores y de los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, el título deberá estar relacionado con sus funciones.
 
-En el caso de los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de las secretarías ejecutivas de Administración; de Finanzas y Servicios Personales; de Vigilancia, Información y Evaluación; de los coordinadores y del Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, el título deberá estar relacionado con sus funciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 68.
 
-Los secretarios ejecutivos, los coordinadores, y el Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, tendrán las siguientes atribuciones:
+Los secretarios ejecutivos, los coordinadores, y los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral tendrán las siguientes atribuciones:
 
 I. Representar a la unidad administrativa que corresponda;
 
@@ -1275,11 +1273,11 @@ XVII. Definir, revisar y ser responsables de los contenidos e información, que 
 
 XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 69.
 
-Las secretarías ejecutivas, las coordinaciones y la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
+Las secretarías ejecutivas, las coordinaciones y las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -1289,9 +1287,9 @@ Las ausencias temporales o definitivas de los titulares de áreas administrativa
 
 I. Las de los secretarios ejecutivos por cualquier otro servidor público que designe la Comisión respectiva, o el Pleno cuando la ausencia sea mayor a quince días; y
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-II. La de los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal, de Investigación de Responsabilidades Administrativas, de los órganos auxiliares y de las coordinaciones, así como de los directores generales y del Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
+II. La de los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Investigación de Responsabilidades Administrativas, de los órganos auxiliares y de las coordinaciones, así como de los directores generales y del Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
 
 En los casos de ausencias que ameriten la suplencia, es obligación de los titulares de las áreas administrativas dar aviso al Pleno, al Presidente o a la Comisión respectiva, según corresponda, a efecto de que se haga la designación correspondiente.
 
@@ -1329,7 +1327,7 @@ El servidor público designado ejercerá las atribuciones propias del cargo.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-#### SECCIÓN SEXTA. DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL
+#### SECCIÓN SEXTA. DE LAS UNIDADES PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL; Y DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
@@ -2349,7 +2347,7 @@ III. Secretaría Técnica del Comité de Acceso a la Información y Protección 
 
 IV. Unidad de Enlace del Consejo.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS ÓRGANOS AUXILIARES EN LO PARTICULAR
 
@@ -2392,6 +2390,42 @@ XII. Coordinar las acciones necesarias para la implementación del Sistema Integ
 > <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL, D.O.F. 11 DE NOVIEMBRE DE 2016)</small>
 
 XIII. Las demás que le confieran el Pleno y las Comisiones.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 98 Bis.
+
+La Unidad de Implementación de la Reforma en materia de Justicia Laboral estará encargada de coordinar las acciones necesarias para la planeación y prospectiva, capacitación, difusión, estudios y proyectos normativos, reorganización institucional y digital, programación, asignación, ejecución y comprobación del presupuesto, y seguimiento necesarios para la implementación de la reforma en materia de justicia laboral.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 98 Ter.
+
+Corresponde al titular de la Unidad de Implementación de la Reforma en materia de Justicia Laboral, lo siguiente:
+
+I. Proporcionar el apoyo y asistencia técnica que requiera el Pleno y los Consejeros en particular, con motivo de la implementación de la reforma en materia de justicia laboral en el Poder Judicial de la Federación;
+
+II. Elaborar y ejecutar, en coordinación con las áreas administrativas competentes, los estudios, análisis y propuestas de diseño, planeación y ejecución de los planes, programas y acciones necesarios para la implementación de la reforma en materia de justicia laboral;
+
+III. Elaborar y emitir opiniones técnicas de asuntos en materia de justicia laboral en el Poder Judicial de la Federación;
+
+IV. Dar seguimiento a los planes, programas y acciones necesarias para la implementación de la reforma en materia de justicia laboral;
+
+V. Solicitar a las áreas administrativas del Consejo la información institucional que requiera con motivo de la implementación de la reforma en materia de justicia laboral;
+
+VI. Proponer al Instituto de la Judicatura las necesidades de capacitación para la implementación de la reforma en materia de justicia laboral en el Poder Judicial de la Federación;
+
+VII. Coordinar las acciones necesarias con diversas instituciones públicas para la implementación de la reforma en materia de justicia laboral en el Poder Judicial de la Federación;
+
+VIII. Emitir opiniones consultivas al Congreso de la Unión o a sus Cámaras, en los temas relativos a la conformación de las normas procesales de competencia para el Poder Judicial de la Federación, en materia de justicia laboral;
+
+IX. Fungir como enlace y representante ante las instituciones públicas para la implementación de la reforma en materia de justicia laboral;
+
+X. Someter a la consideración del Pleno y, en su caso, de la Comisión competente los proyectos de acuerdos generales, manuales, procedimientos relacionados con las atribuciones de dicha unidad administrativa y demás instrumentos normativos;
+
+XI. Rendir los informes que sean requeridos a la Unidad, por los órganos competentes del Consejo; y
+
+XII. Las demás que establezcan el Pleno y las Comisiones.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
@@ -3507,9 +3541,9 @@ VIII. Representar al Consejo en los asuntos jurídicos que le encomiende el Plen
 
 IX. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción XI del artículo 81 de la Ley, se deba suspender en sus cargos a magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
 
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-X. Intervenir, en representación del Consejo, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal, y de Investigación de Responsabilidades Administrativas, y órganos auxiliares, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del Pleno, transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
+X. Intervenir, en representación del Consejo, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Investigación de Responsabilidades Administrativas, y órganos auxiliares, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del Pleno, transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
 
 > <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -3933,13 +3967,13 @@ XXI. Elaborar las propuestas de prórroga de las plazas de adscripción temporal
 
 XXII. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular del área administrativa u órgano jurisdiccional, o implementar el trámite correspondiente previa verificación de la existencia de recursos presupuestales disponibles;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal, y de Investigación de Responsabilidades Administrativas, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, respecto del personal a su cargo;
+XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Investigación de Responsabilidades Administrativas, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, respecto del personal a su cargo;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal, y de Investigación de Responsabilidades Administrativas, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
+XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; y de Investigación de Responsabilidades Administrativas, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
 
 XXV. Operar, los cambios de rango de sueldo autorizados de las plazas de subdirector de área y jefe de departamento, a solicitud de los titulares de las áreas administrativas correspondientes, previo cumplimiento de las disposiciones establecidas;
 
@@ -4445,9 +4479,9 @@ III. Entregar los asuntos que ingresen por su conducto a las diferentes áreas a
 
 IV. Enviar la documentación oficial dirigida al interior de la República al Servicio Postal Mexicano, o entregarla al Servicio de Mensajería que remitan las áreas del Edificio Sede;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
-V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+V. Entregar documentación oficial en domicilios particulares y oficiales cuando así lo solicite el Pleno, las Comisiones, los Consejeros, las secretarías ejecutivas, la Coordinación de Seguridad del Poder Judicial de la Federación o las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -5099,13 +5133,11 @@ Toda licencia deberá solicitarse por escrito ante el área administrativa corre
 
 La autorización de la licencia será por escrito, con copia dirigida a la Secretaría Ejecutiva de Finanzas y Servicios Personales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 231.
 
-Las licencias con o sin goce de sueldo, hasta por treinta días de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, directores generales, Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno serán resueltas por el Presidente; las que excedan de este término será el Pleno quien resuelva.
+Las licencias con o sin goce de sueldo, hasta por treinta días de los secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; y de Implementación de la Reforma en materia de Justicia Laboral, directores generales, Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno serán resueltas por el Presidente; las que excedan de este término será el Pleno quien resuelva.
 
 ###### Artículo 232.
 
@@ -6172,3 +6204,13 @@ CUARTO. Las menciones que la Ley General de Responsabilidades Administrativas ha
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 SEXTO. Los procedimientos en trámite a la entrada en vigor del presente Acuerdo se continuarán hasta su conclusión con las disposiciones jurídicas con las que dieron inicio.
+
+D.O.F. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DE LA UNIDAD DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Finanzas y Servicios Personales; y de Administración, por conducto de las unidades administrativas competentes que les estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para el cumplimiento del presente Acuerdo.
