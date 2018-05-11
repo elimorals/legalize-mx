@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2017-04-25"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -979,9 +979,13 @@ II. Registrar su nacimiento ante la oficialía de registro civil correspondiente
 
 III. Brindarles una educación asegurando que cursen en igualdad de oportunidades, los niveles de la educación básica y media superior;
 
-IV. Protegerlos de toda forma de violencia, maltrato, agresión, perjuicio, daño, abuso, venta, trata de personas, explotación o cualquier acto que atente contra su integridad física, psicológica o menoscabe su desarrollo integral;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-V. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia familiar, creando condiciones de bienestar que propicien un entorno afectivo y comprensivo que garantice el ejercicio de sus derechos conforme a la presente Ley y demás disposiciones jurídicas aplicables;
+IV. Protegerlos de toda forma de violencia familiar incluida la alienación parental, maltrato, agresión, perjuicio, daño, abuso, venta, trata de personas, explotación o cualquier acto que atente contra su integridad física, psicológica o menoscabe su desarrollo integral;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+V. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia familiar, incluida la alienación parental, crear condiciones de bienestar que propicien un entorno afectivo y comprensivo que garantice el ejercicio de sus derechos conforme a la presente Ley y demás disposiciones jurídicas aplicables;
 
 VI. Dar en consonancia con la evolución de sus facultades, la dirección y orientación apropiada a niñas, niños y adolescentes;
 
@@ -1754,3 +1758,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Una vez entrado en vigor el presente Decreto, el Sistema para el Desarrollo Integral de la Familia Michoacana realizará un ajuste presupuestal para implementar programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, a partir del Presupuesto de Egresos para el ejercicio fiscal 2018, deberá hacer las previsiones presupuestarias para la implementación de los programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 559 POR EL QUE SE “REFORMA EL ARTÍCULO 58 FRACCIONES IV Y V DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
