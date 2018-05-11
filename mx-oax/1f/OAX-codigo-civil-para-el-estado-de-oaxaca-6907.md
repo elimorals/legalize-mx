@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-04-13"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -168,6 +168,36 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 ###### Artículo 24.
 
 Las personas de ambos sexos que no han cumplido dieciocho años, son menores de edad, la mayor edad comienza a los dieciocho años.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 24 Bis.
+
+La identidad es un derecho de las personas. Se consideran medios para acreditar la identidad aquellos documentos públicos ya sea en original o copia certificada, expedidos por autoridades competentes, de manera enunciativa y no limitativa (sic) los siguientes:
+
+I En caso de menores de edad:
+
+a) Acta de nacimiento.
+
+b) Carta de naturalización.
+
+c) Credencial con fotografía expedida por autoridades educativas que cuenten con autorización o reconocimiento de validez oficial.
+
+II En caso de los mayores de edad:
+
+a) Credencial para votar expedida por el Instituto Nacional Electoral.
+
+b) Pasaporte.
+
+c) Matricula consular mexicana.
+
+d) Licencia para conducir.
+
+e) Cartilla militar.
+
+f) Carta de naturalización.
+
+g) Cédula profesional.
 
 ## TITULO SEGUNDO. De las personas morales
 
@@ -522,6 +552,16 @@ X. El nombre, edad, ocupación, domicilio y nacionalidad de la persona distinta 
 ###### Artículo 69.
 
 Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, salvo sentencia judicial definitiva en contrario, se asentarán como progenitores a los cónyuges.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Tratándose del registro de un menor cuyos padres sean concubinos, y uno de ellos fallezca, para asentar el nombre de ambos progenitores en el acta de nacimiento, se deberá presentar:
+
+I. Certificado de nacimiento de la niña o niño.
+
+II. Acta o certificado de defunción del progenitor o progenitora.
+
+III. Dos testigos que les conste la relación de concubinato de los progenitores.
 
 > <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2017)</small>
 
@@ -16239,4 +16279,10 @@ P.O. 13 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1357.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
 
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1413.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
