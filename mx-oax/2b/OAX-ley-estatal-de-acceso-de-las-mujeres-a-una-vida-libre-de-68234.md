@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2017-12-08"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -49,7 +49,9 @@ Los objetivos de la Ley son:
 
 I. Incorporar en las políticas públicas del Estado y sus Municipios los principios, instrumentos, programas, mecanismos y acciones, para garantizar a las mujeres el acceso a una vida libre de violencia de género;
 
-II. Prevenir, atender, sancionar y erradicar las conductas políticas, sociales y culturales que justifican y alientan la violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+II. Prevenir, atender, sancionar y erradicar las conductas políticas, sociales y culturales que justifican y alientan la violencia de género contra las mujeres; a fin de propiciar un estilo de relaciones humanas basadas en el respeto de sus derechos fundamentales de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado Mexicano;
 
 III. Instrumentar acciones permanentes de información y sensibilización en los municipios del Estado, con el propósito de prevenir la violencia de género contra las mujeres;
 
@@ -63,15 +65,25 @@ VII. Unificar criterios de intervención institucional en la prevención y detec
 
 VIII. Favorecer la recuperación de las mujeres víctimas de violencia de género y la construcción de un nuevo proyecto de vida basado en el pleno goce de todos sus derechos;
 
-IX. Asegurar la concurrencia, alineación y optimización de recursos e instrumentos destinados a prevenir, atender, sancionar y erradicar la violencia de género; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-X. Las demás que señale esta ley, su reglamento y otras disposiciones legales aplicables.
+IX. Asegurar la concurrencia, alineación y optimización de recursos e instrumentos destinados a prevenir, atender, sancionar y erradicar la violencia de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+X. Generar una cultura de legalidad y de denuncia de actos violentos contra mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XI. Las demás que señale esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
 El titular del Poder Ejecutivo Estatal asignará en el proyecto de Presupuesto de Egresos del Estado, una partida destinada al cumplimiento de los objetivos de la presente Ley
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 3.
 
-La aplicación de esta Ley, en el ámbito de sus respectivas competencias, corresponde a:
+La aplicación de la presente Ley corresponde y obliga a las y los servidores públicos de los poderes Legislativo, Ejecutivo y Judicial; a los Ayuntamientos, así como de los órganos autónomos y organismos descentralizados, quienes expedirán la reglamentación correspondiente y tomarán las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, incluyendo la plena seguridad e integridad personal.
 
 I. Los tres Poderes del Estado;
 
@@ -131,9 +143,17 @@ XIII. Discriminación: Exclusión o restricción hacia las mujeres, que tenga po
 
 XIV. Alimentos: Comprenden la comida, el vestido, habitación y asistencia en caso de enfermedad;
 
-XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadío de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del disfrute pleno de sus derechos y libertades; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XVI. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres.
+XV. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del disfrute pleno de sus derechos y libertades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XVI. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y/o privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2018)</small>
+
+XVII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres.
 
 ###### Artículo 7.
 
@@ -147,9 +167,13 @@ III. Violencia patrimonial: Es cualquier acto u omisión que menoscabe el patrim
 
 IV. Violencia económica: Es toda acción u omisión del agresor que afecte la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar sus ingresos económicos, así como la percepción de un salario menor por igual trabajo dentro de un mismo centro laboral;
 
-V. Violencia sexual: Es cualquier acto que degrade o dañe el cuerpo o la sexualidad de la víctima y que por tanto atente contra su libertad, dignidad e integridad física o psicológica. Es una expresión de abuso de poder que implica el sometimiento femenino al agresor, al denigrar a las mujeres y concebirla como objeto;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VI. Violencia feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres; y
+V. Violencia Sexual.- Cualquier acto realizado por la persona agresora que degrade, dañe o atente contra el cuerpo y/o la sexualidad de la víctima; puede consistir en: la imposición mediante violencia física o psicológica de relaciones sexuales, incluso la ejercida por el cónyuge o la pareja sentimental; la explotación o comercio sexual; el acoso u hostigamiento sexual; el empleo de mujeres sin su consentimiento y de niñas en pornografía; los delitos contra la libertad sexual e integridad de las personas señalados en el Código Penal para el Estado Libre y Soberano de Oaxaca, y todos los abusos, agresiones y conductas que atenten o limiten el derecho a la libertad, dignidad, integridad y desarrollo físico y sexual de las mujeres;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VI. Violencia feminicida.- Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos. En los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en feminicidio u otras formas de muerte violenta de mujeres;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -177,15 +201,21 @@ I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especi
 
 II. Brindar servicios reeducativos integrales y especializados al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y los patrones machistas que generaron su violencia;
 
-III. Evitar que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
+III. Prohibir que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+IV. Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
 
 V. Proteger los derechos de la víctima y vigilar que el agresor garantice la reparación del daño;
 
 VI. Ordenar la separación y alejamiento del agresor con respecto a la víctima; y
 
-VII. Favorecer la instalación y el mantenimiento de Unidades de Atención Integral para las víctimas y Refugios para ellas, sus hijas e hijos, así como centros reeducativos para agresores.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VII. Favorecer la instalación y el mantenimiento de unidades de atención integral y refugios para las víctimas y sus hijas e hijos, así como centros reeducativos para agresores. La información sobre la ubicación de los refugios será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo (sic) violencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -267,23 +297,31 @@ v) Impedir u obstaculizar los derechos de asociación y afiliación en los parti
 
 ### Capítulo Tercero. En el Ámbito Laboral y Docente
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 12.
 
-Violencia en los ámbitos laboral y docente, se ejerce por las personas que tienen un vínculo laboral, docente o similar con la víctima, independientemente de la relación jerárquica. Consiste en actos u omisiones de abuso de poder que dañan la autoestima, salud, integridad, libertad y seguridad de la víctima, impidiendo su desarrollo y trato igualitario. En esta modalidad queda incluido el hostigamiento sexual cometido en un solo evento o en una serie de eventos que en su conjunto causen daño a la víctima.
+Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2015)</small>
+Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 13.
 
-Violencia en el ámbito laboral, es la negativa ilegal de contratación a la víctima o de respetar su permanencia o condiciones generales de trabajo, la descalificación de la actividad realizada, las amenazas, la intimidación, las humillaciones, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la Ley General de Salud, y todo tipo de explotación y discriminación por razón de género.
+Violencia en el ámbito laboral, es la negativa ilegal de contratación a la víctima o de respetar su permanencia o condiciones generales de trabajo, la descalificación de la actividad realizada, las amenazas, la intimidación, las humillaciones, la percepción de un salario menor por igual trabajo, desempeño y jornada dentro de un mismo centro laboral, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la Ley General de Salud, y todo tipo de explotación y discriminación por condición de género, así como la falta de respeto a las condiciones generales de trabajo por la exigencia de pruebas de gravidez, imposición de requisitos sexistas en la forma de vestir, exclusión de género en ciertos cargos por edad de conformidad con la ley Federal del Trabajo.
 
 ###### Artículo 14.
 
 Violencia en el ámbito docente, son los actos u omisiones discriminatorios que atenten contra la integridad física, sexual y psicológica de las alumnas por razón de su sexo, edad, condición social, limitaciones o características físicas, las cuales son infligidas por el personal docente o administrativo de los centros educativos.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 15.
 
-El hostigamiento sexual es el asedio, acoso o demanda de favores de naturaleza sexual para sí o para un tercero, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el ámbito familiar, doméstico, docente, laboral u otro.
+El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos familiar, doméstico, laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+
+El Acoso Sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ###### Artículo 16.
 
@@ -291,11 +329,21 @@ El Estado y los Municipios en el ámbito de sus atribuciones tomarán medidas pa
 
 I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia de género;
 
-II. Asegurar la aplicación de sanciones a los hostigadores sexuales;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-III. Promover y difundir en la sociedad que el hostigamiento sexual es un delito; y
+II. Asegurar la aplicación de sanciones a los hostigadores y acosadores sexuales;
 
-IV. Instrumentar programas que brinden servicios reeducativos integrales para víctimas y agresores.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+IV. Instrumentar programas que brinden servicios reeducativos integrales para víctimas y agresores; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+V. Diseñar planes y programas que promuevan la igualdad salarial entre mujeres y hombres.
 
 ###### Artículo 17.
 
@@ -307,11 +355,17 @@ II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros 
 
 III. Crear procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para sancionar estos ilícitos e inhibir su comisión;
 
-IV. Evitar que el nombre de la víctima se haga público;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-V. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de hostigamiento sexual; y
+IV. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar la escuela o trabajo;
 
-VI. Imponer en el ámbito de sus competencias, sanciones administrativas a los servidores públicos que sean omisos en recibir o dar curso a las quejas por hostigamiento sexual.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+V. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de hostigamiento o acoso sexual; e
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VI. Implementar e imponer sanciones administrativas en el ámbito de sus competencias, a los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y/o dar curso a una queja.
 
 ### Capítulo Cuarto. En el Ámbito Social o en la Comunidad
 
@@ -371,15 +425,21 @@ II. Preventivas; y
 
 III. De naturaleza Civil.
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Las órdenes de protección de emergencia y preventivas deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan y dejaran de surtir efectos una vez que la autoridad competente determine que el riesgo o peligro de la víctima ha disminuido o desaparecido.
 
 ###### Artículo 26.
 
 Son órdenes de protección de emergencia las siguientes:
 
-I. Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-II. Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+I. Desocupación inmediata por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+II. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
 III. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad; y
 
@@ -404,6 +464,14 @@ V. Entrega inmediata de objetos de uso personal y documentos de identidad de la 
 VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la Víctima en el momento de solicitar el auxilio; y
 
 VII. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 27 Bis.
+
+Las órdenes de protección de emergencia y preventivas podrán ser otorgadas por los Agentes del Ministerio Público de la Fiscalía General del Estado de Oaxaca con competencia en el territorio donde resida la víctima, para lo cual las victimas podrán acudir directamente, aun sin que exista un proceso jurisdiccional previo.
+
+Para el caso de órdenes de protección que dependen de un proceso jurisdiccional, serán competentes las autoridades que conozcan de aquél.
 
 ###### Artículo 28.
 
@@ -435,9 +503,11 @@ Serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los ju
 
 Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 31.
 
-de Género Las (sic) personas mayores de 12 años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de 12 años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes, quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales o en su caso por conducto de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -531,15 +601,17 @@ I. El Ejecutivo del Estado, quien lo presidirá o el funcionario que éste desig
 
 II. La Secretaria General de Gobierno, quien estará a cargo de la Secretaría Ejecutiva del Sistema;
 
-III. El Instituto de la Mujer Oaxaqueña, quien estará a cargo de la Secretaría Técnica del Sistema;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+III. La Secretaría de la Mujer Oaxaqueña, quien estará a cargo de la Secretaría Técnica del Sistema Estatal;
 
 IV. El Honorable Tribunal Superior de Justicia del Estado;
 
 V. El Honorable Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VI. La Fiscalía General del Estado;
+VI. La Fiscalía General del Estado de Oaxaca;
 
 VII. La Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -553,7 +625,9 @@ XI. La Secretaría de Administración;
 
 XII. La Secretaría de Asuntos Indígenas;
 
-XIII. La Comisión para la Defensa de los Derechos Humanos del Estado;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XIII. La Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
 
 XIV. El Instituto Estatal de Educación Pública de Oaxaca;
 
@@ -595,7 +669,9 @@ Son atribuciones del Consejo:
 
 I. Planear y coordinar acciones correspondientes al objeto del Sistema, atendiendo los principios rectores de la presente Ley;
 
-II. Diseñar y aprobar el Programa así como evaluar semestralmente los resultados de la aplicación del mismo;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+II. Diseñar y aprobar el Programa así como evaluar trimestralmente los resultados de la aplicación del mismo;
 
 III. Incorporar acciones afirmativas con carácter programático para lograr la igualdad de oportunidades entre mujeres y hombres y eliminar las brechas entre ambos géneros;
 
@@ -817,13 +893,17 @@ X. Realizar campañas de información con énfasis en la protección integral de
 
 XI. Impulsar la suscripción de acuerdos de concertación entre las diferentes instancias públicas o privadas, para el cumplimento (sic) de los objetivos de esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XII. Implementar y operar la "Alerta Rosa" en todo el territorio del Estado, y;
+XII. Implementar y operar la "Alerta Rosa" en todo el territorio del estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XIII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
+XIII. Educar en los derechos humanos a las mujeres en su lengua materna; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XIV. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
 
 ###### Artículo 55.
 
@@ -837,9 +917,17 @@ III. Impulsar la especialización en violencia de género contra las mujeres, en
 
 IV. Informar sobre los procedimientos judiciales en materia de violencia de género contra las mujeres;
 
-V. Sensibilizar y capacitar en materia de violencia contra las mujeres a los Magistrados, Jueces, Visitadores, Secretarios Judiciales de Acuerdo, de Estudio y Cuenta, Ejecutores de sala y juzgados, así como los demás servidores públicos; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VI. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+V. Sensibilizar y capacitar en materia de violencia contra las mujeres a los Magistrados, Jueces, Visitadores, Secretarios Judiciales de Acuerdo, de Estudio y Cuenta, Ejecutores de Sala y Juzgados, así como los demás servidores públicos;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VI. Informar a la Fiscalía General del Estado de Oaxaca de las órdenes de protección que otorgue para que esta les pueda dar vigilancia e integre el registro correspondiente; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 56.
 
@@ -851,7 +939,7 @@ II. Aprobar en el presupuesto anual de egresos del Gobierno del Estado, recursos
 
 III. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] [N. DE E. REPUBLICADO], P.O. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 57.
 
@@ -879,13 +967,55 @@ VIII. Promover la cultura de denuncia de la violencia contra las mujeres garanti
 
 IX. Informar al Consejo sobre la ejecución de las actividades de su competencia contenidas en el Programa;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-X. Evaluar, analizar y, en su caso, realizar la activación del Programa "Alerta Rosa" en el Estado, y;
+X. Evaluar, analizar y, en ·su caso, realizar la activación del programa "Alerta Rosa” en el Estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XI. Las demás que esta Ley y otras disposiciones aplicables le señalen.
+XI. Otorgar órdenes de protección en los términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XII. Llevar un registro de las órdenes de protección que otorgue, así como la que dicten los jueces y tribunales, vigilar su cumplimiento y perseguir penalmente su incumplimiento;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XIII. Participar en la elaboración de protocolos para la atención de denuncias de hostigamiento, abuso y violencia sexual en las instituciones educativas públicas y privadas del estado;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XIV. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de investigación del delito y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+
+c) Incorporación de la perspectiva de género en los servicios periciales;
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XV. Crear un sistema de datos de los delitos cometidos en contra de mujeres, el cual deberá contener los hechos de los que se tenga conocimiento, lugar de ocurrencia, especificando la tipología del delito, características de la víctima y del sujeto activo, relación entre el sujeto activo y pasivo, índice de incidencia y reincidencia, consignación, sanción, reparación del daño y demás información necesaria. Este sistema se deberá tomar en cuenta para definir políticas y acciones en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XVI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XVII. Crear una base estatal de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel estatal, la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada.
+
+La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XVIII. Mantener información actualizada en su página de internet con los datos generales de las mujeres y niñas que se encuentran desaparecidas; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XIX. Las demás que esta Ley y otras disposiciones aplicables le señalen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -1057,13 +1187,17 @@ VIII. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan
 
 IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-X. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+X. Coadyuvar y participar en la operación y ejecución del programa “Alerta Rosa” en todo el estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XI. Las demás previstas para el cumplimiento de la presente Ley.
+XI. Colaborar con la Fiscalía General del Estado de Oaxaca, en la vigilancia del cumplimiento de las órdenes de protección que otorgue esta o los jueces y tribunales; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XII. Las demás previstas para el complimiento de la presente Ley.
 
 ###### Artículo 62.
 
@@ -1089,7 +1223,9 @@ I. Establecer políticas transversales con perspectiva de género que garanticen
 
 II. Vigilar de forma permanente que las condiciones en su fuente de trabajo no expongan a las mujeres a la Violencia Laboral;
 
-III. Establecer mecanismos para erradicar el hostigamiento sexual a las mujeres en los centros laborales, y aplicar procedimientos administrativos para sancionar al agresor;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+III. Establecer mecanismos para erradicar el hostigamiento y/o acoso sexual a las mujeres en los centros laborales, y aplicar procedimientos administrativos para sancionar al agresor;
 
 IV. Vigilar la aplicación de políticas de gobierno para la promoción y protección de los derechos laborales de mujeres menores de edad en términos de la legislación laboral aplicable y la Presente Ley;
 
@@ -1185,13 +1321,17 @@ XIX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 XX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XXI. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+XXI. Coadyuvar y participar en la operación y ejecución del programa "Alerta Rosa” en todo el estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XXII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+XXII. Promover y participar en la elaboración e instrumentación de protocolos para la atención de denuncias de hostigamiento, abuso, acoso y violencia sexual en las instituciones educativas públicas y privadas del estado; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XXIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -1337,13 +1477,17 @@ VIII. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan
 
 IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-X. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en sus respectivos territorios, y;
+X. Coadyuvar y participar en la operación y ejecución del programa “Alerta Rosa” en sus respectivos territorios;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XI. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+XI. Prohibir en su demarcación territorial la colocación de publicidad que genere y/o difunda violencia de género; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ## TÍTULO IV. DE LA PREVENCIÓN DE LA VIOLENCIA, ATENCIÓN INTEGRAL A SUS VÍCTIMAS Y REEDUCACIÓN A LOS AGRESORES
 
@@ -1451,7 +1595,9 @@ VIII. Las demás previstas en esta Ley.
 
 Las víctimas tendrán los derechos siguientes:
 
-I. Ser tratadas con respeto a su dignidad;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
 
 II. Contar con protección inmediata y efectiva por parte de las autoridades;
 
@@ -1529,7 +1675,9 @@ La permanencia de las víctimas en los Refugios no podrá ser mayor a tres meses
 
 Los agresores podrán optar por acudir voluntariamente a un Centro de Reeducación para obtener atención especializada tendiente a eliminar las conductas violentas.
 
-Estarán obligados a asistir a dichos centros, cuando sea ordenado por autoridad judicial.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
+El agresor deberá asistir obligatoriamente a los programas de reeducación integral en el Centro de Reeducación, cuando así sea determinado por mandato de autoridad competente en la aplicación de la presente Ley.
 
 ###### Artículo 91.
 
@@ -1620,3 +1768,9 @@ P.O. 8 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. A partir de la entrada en vigor de la (sic) presente, el Comité Estatal del Programa "Alerta Rosa" en un plazo no mayor de sesenta días deberá emitir los lineamientos correspondientes.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1372.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
