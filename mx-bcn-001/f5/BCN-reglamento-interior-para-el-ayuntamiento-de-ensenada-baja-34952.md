@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-03-16"
+last_updated: "2018-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1603,11 +1603,17 @@ Atribuciones;
 
 I.- Dictaminar respecto de los proyectos de Reglamentos y disposiciones normativas de observancia general en materia de seguridad, prevención de la delincuencia, tránsito, transporte público y bomberos.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para eficientar el servicio de seguridad pública para regular el funcionamiento de los sistemas de tránsito y transporte; y
+II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para eficientar el servicio de seguridad pública y para regular el funcionamiento de los sistemas de tránsito y transporte;
 
-III.- Dictaminar respecto de los proyectos de convenios por los que el Ayuntamiento deba participar institucionalmente con otros órdenes de gobierno en asuntos de seguridad pública.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+III.- Dictaminar respecto de los proyectos de convenios por los que el Ayuntamiento deba participar institucionalmente con otros órdenes de gobierno en asuntos de seguridad pública; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+IV.- Vigilar las asignaciones de agentes policiacos para la protección, custodia e integridad física a funcionarios públicos; así como solicitar un informe semestral de los asignaciones correspondientes, a la Dirección de Seguridad Pública.
 
 COMISION DE PLANEACION Y DESARROLLO ECONOMICO.
 
@@ -2334,3 +2340,9 @@ P.O. 16 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 114 FRACCIÓN IX, 124 Y 127 SEPTER DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- LA REFORMA A LOS ARTÍCULOS 114 FRACCIÓN IX, 124 Y 127 SEPTER DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 122, Y ADICIONA EL ARTÍCULO 142 BIS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA".]
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publiación en el Periódico Oficial del Estado y/o en la Gaceta Municipal de Ensenada.
