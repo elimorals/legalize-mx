@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-obras-publicas-para-el-estado-y-municipios-de-nuevo-1104
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-22"
-last_updated: "2011-12-19"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE OBRAS PÚBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de octubre de 1997.
 
@@ -47,7 +47,17 @@ LEY DE OBRAS PUBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
 La presente Ley es de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, adjudicación, contratación, ejecución y control en materia de obra pública y los servicios relacionados con la misma, que realicen el Estado o los Municipios; sus organismos públicos descentralizados y desconcentrados, las empresas de participación estatal mayoritaria, las sociedades o asociaciones asimiladas a éstas y los fideicomisos públicos, así como las que se realicen total o parcialmente con recursos públicos.
 
-En todo lo no previsto por esta ley, será aplicable la Ley de Administración Financiera para el Estado, la Ley Orgánica de la Administración Pública para el Estado, la Ley Orgánica de la Administración Pública Municipal del Estado, los Códigos Civil y de Procedimientos Civiles vigentes en el Estado, y en lo conducente, la legislación en materia de Desarrollo Urbano en el Estado.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
+En todo lo no previsto por esta Ley, será aplicable la Ley de Administración Financiera para el Estado, la Ley Orgánica de la Administración Pública para el Estado, la Ley de Gobierno Municipal del Estado de Nuevo León, los Códigos Civil y de Procedimientos Civiles vigentes en el Estado, y en lo conducente, la legislación en materia de Desarrollo Urbano en el Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+El Estado y los Municipios garantizarán la protección, conservación, restauración y recuperación del patrimonio histórico y cultural de la entidad y municipios.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+El Ejecutivo del Estado procurará destinar al menos el 1% de los recursos asignados para la obra pública de infraestructura que ejerza directamente el Gobierno del Estado en el Presupuesto de Egresos de cada año.
 
 ###### Artículo 2o.
 
@@ -1632,3 +1642,17 @@ P.O. 19 DE DICIEMBRE DE 2011.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento en que se solicitaron.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 387. SE ADICIONA UN CAPÍTULO XIII QUE COMPRENDERÁ LOS ARTÍCULOS DEL 83 AL 87, DENOMINADO DEL FONDO, A LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; TAMBIÉN SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 2°; SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 3°; ASÍ MISMO SE ADICIONAN LAS FRACCIONES XIII Y XIV, DEL ARTÍCULO 3, TODOS DE LA LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN, Y SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 1° DE LA LEY DE OBRAS PÚBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan a la presente Ley.
+
+Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la normatividad con la que se promovieron.
+
+Cuarto.- El Fideicomiso deberá constituirse en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente Decreto.
+
+Quinto.- El Ejecutivo del Estado a través de la Secretaría de Finanzas y Tesorería General del Estado, además de observar los criterios y bases a que refiere el artículo 85 de (sic) Ley del Patrimonio Cultural del Estado de Nuevo León del presente Decreto, fijará los lineamientos y las reglas de operación de Fideicomiso antes del lanzamiento de la convocatoria.
