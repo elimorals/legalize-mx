@@ -4,7 +4,7 @@ identifier: "QUE-codigo-urbano-del-estado-de-queretaro-88087"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-31"
-last_updated: "2018-03-30"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "QUE"
 
 CÓDIGO URBANO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LAS PÁGINAS14180 Y 14181 DEL PERIÓDICO OFICIAL DEL 11 DE MAYO DE 2018.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de mayo de 2012.
 
@@ -75,11 +77,19 @@ XII. Los lineamientos para que las autoridades del Estado y los Municipios, coad
 
 XIII. Las reglas para que las autoridades del Estado y los Municipios, colaboren con las dependencias competentes en la protección del patrimonio natural;
 
-XIV. Las bases bajo las cuales se regirán los organismos operadores y administradores de los sistemas de agua potable, alcantarillado, saneamiento y disposición de aguas residuales, tratadas y servicios relacionados con éstos;
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XV. Los lineamientos generales de regulación de las aguas de jurisdicción estatal, así como para la prestación de los servicios de agua potable, drenaje sanitario y pluvial, saneamiento, recuperación y reuso de las aguas residuales y servicios relacionados con éstos; y
+XIV. La accesibilidad universal como condición en la que un entorno es plenamente accesible a todos los individuos, sin importan (sic) si estos sufren de alguna discapacidad motriz que dificulta su desplazamiento;
 
-XVI. Las bases bajo las cuales se realizará la entrega y recepción de la infraestructura de los desarrollos inmobiliarios a los organismos correspondientes en materia de agua y electricidad para su operación y mantenimiento, de conformidad con la normatividad aplicable.
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XV. Los elementos de accesibilidad universal que los sectores público y privado deberán implementar en la infraestructura y el equipamiento urbano;
+
+XVI. Las bases bajo las cuales se regirán los organismos operadores y administradores de los sistemas de agua potable, alcantarillado, saneamiento y disposición de aguas residuales, tratadas y servicios relacionados con éstos;
+
+XVII. Los lineamientos generales de regulación de las aguas de jurisdicción estatal, así como para la prestación de los servicios de agua potable, drenaje sanitario y pluvial, saneamiento, recuperación y reuso de las aguas residuales y servicios relacionados con éstos; y
+
+XVIII. Las bases bajo las cuales se realizará la entrega y recepción de la infraestructura de los desarrollos inmobiliarios a los organismos correspondientes en materia de agua y electricidad para su operación y mantenimiento, de conformidad con la normatividad aplicable.
 
 ###### Artículo 2.
 
@@ -103,9 +113,13 @@ VIII. La realización, ejecución, conservación y mantenimiento de obras de inf
 
 IX. Garantizar la seguridad de las personas mediante la delimitación de zonas de riesgo y el establecimiento de polígonos de protección y amortiguamiento de dichas instalaciones;
 
-X. La conservación, restauración, mejoramiento y recuperación del patrimonio urbano, arqueológico, histórico, cultural y arquitectónico en el Estado, previo permiso y bajo la dirección del Instituto Nacional de Antropología e Historia, de conformidad con la Ley Federal sobre Monumentos, Zonas Arqueológicos, Artísticos e Históricos; y
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XI. La reubicación de la población asentada en zonas de riesgo, derechos de vía y zonas de restricción, en superficies o predios aptos para el desarrollo urbano.
+X. Asegurar la accesibilidad universal;
+
+XI. La conservación, restauración, mejoramiento y recuperación del patrimonio urbano, arqueológico, histórico, cultural y arquitectónico en el Estado, previo permiso y bajo la dirección del Instituto Nacional de Antropología e Historia, de conformidad con la Ley Federal sobre Monumentos, Zonas Arqueológicos, Artísticos e Históricos; y
+
+XII. La reubicación de la población asentada en zonas de riesgo, derechos de vía y zonas de restricción, en superficies o predios aptos para el desarrollo urbano.
 
 ###### Artículo 3.
 
@@ -505,17 +519,21 @@ V. Vialidad;
 
 VI. Transporte;
 
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+
+VII. Accesibilidad universal;
+
 > <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-VII. Equipamiento;
+VIII. Equipamiento;
 
 > <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-VIII. Ejecución y operación de servicios públicos; y
+IX. Ejecución y operación de servicios públicos; y
 
 > <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
 
-IX. Pluvial.
+X. Pluvial.
 
 ###### Artículo 31.
 
@@ -1499,9 +1517,11 @@ Los desarrolladores deberán garantizar la existencia de una fuente de abastecim
 
 Asimismo, garantizarán la existencia o construcción de las instalaciones de agua potable, agua recuperada, agua tratada, drenaje sanitario y drenaje pluvial, así como la instalación de tomas domiciliarias para cada uno de los lotes o unidades privativas originados por la autorización del desarrollo inmobiliario, además de la infraestructura que sea exigida por la autoridad competente en términos de lo previsto por el Título Sexto de este Código.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 134.
 
-Los desarrollos inmobiliarios deberán contar, según su naturaleza, con los servicios urbanos indispensables, tales como áreas destinadas a estacionamiento vehicular, a actividades comerciales, de recreo y de vigilancia en la extensión necesaria, cuando deban existir una o varias de estas áreas a juicio de la autoridad competente.
+Los desarrollos inmobiliarios deberán contar, según su naturaleza, con los servicios urbanos indispensables que aseguren la accesibilidad universal, así como con áreas destinadas a estacionamiento vehicular, a actividades comerciales, de recreo y de vigilancia en la extensión necesaria, cuando deban existir una o varias de estas áreas a juicio de la autoridad competente.
 
 ###### Artículo 135.
 
@@ -1533,13 +1553,19 @@ Por especies nativas se entienden aquellos organismos vegetales propios de un si
 
 El desarrollador está obligado a la introducción de plantas de especies nativas de la región para el equipamiento urbano del fraccionamiento, por lo menos en un 70% de la superficie; para la selección de las plantas, deberá tomar en consideración el catálogo de especies nativas, con que para tal efecto cuente la Secretaría de Desarrollo Sustentable.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 138 Ter.
+
+El desarrollador está obligado a garantizar la accesibilidad universal.
+
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 ###### Artículo 139.
 
 Los desarrollos inmobiliarios se clasifican, por su uso y densidad de población en:
 
-l. Habitacional Campestre;
+I. Habitacional Campestre;
 
 II. Habitacional Residencial;
 
@@ -1603,9 +1629,15 @@ En caso que el desarrollador no realice las obras de urbanización en el plazo m
 
 Cuando en los desarrollos inmobiliarios sea necesario generar una vialidad en propiedad privada, a fin de tener acceso al mismo, el desarrollador deberá presentar ante la autoridad competente, el proyecto ejecutivo y presupuesto para su autorización y aceptación de la transmisión gratuita de la vialidad, previo reconocimiento que se haga de las mismas.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 148.
 
-El desarrollador será responsable del mantenimiento y conservación del desarrollo inmobiliario, así como la prestación de servicios, en tanto se realiza la entrega y recepción de las obras de urbanización del mismo a la autoridad correspondiente o a los condóminos, cuando se trate de este tipo de desarrollos.
+El desarrollador será responsable del mantenimiento y conservación del desarrollo inmobiliario, así como de la prestación de servicios, en tanto se realiza la entrega y recepción de las obras de urbanización del mismo a la autoridad municipal correspondiente.
+
+Por lo que corresponde al servicio de energía eléctrica, servicio hidrosanitario y de agua potable de cada vivienda o, en su caso, de cada unidad privativa, serán cubiertos por quien realice el consumo particular.
+
+Cuando se trate de condominios se estará a lo establecido en el Capítulo Séptimo del Título Tercero del presente Código.
 
 ###### Artículo 149.
 
@@ -1638,6 +1670,10 @@ En los desarrollos inmobiliarios podrán constituirse Comités de Vigilancia Vec
 ###### Artículo 152.
 
 Para los efectos de este Código, se entiende por infraestructura urbana las redes por las que se comunican personas y bienes, entre las que se encuentran las viales, hidráulicas, sanitarias, pluviales; eléctricas y de voz y datos.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Las obras de urbanización deberán contener áreas para el adecuado desplazamiento de peatones, en los que, en tratándose de vialidades primarias, se contemplen banquetas que tengan por lo menos 1.80 metros de ancho libres de cualquier obstáculo; en las demás vialidades, las banquetas deberán tener por lo menos 1.20 metros de ancho libres de cualquier obstáculo; también deberán contemplar rampas para personas con discapacidad e infraestructura ciclista.
 
 Por equipamiento urbano se entiende los edificios y espacios públicos, a través de los cuales se brindan diversos servicios tales como educación, salud, cultura, recreación, deporte, abasto, transporte, administración pública, seguridad, comercio y servicios públicos en general.
 
@@ -1823,7 +1859,9 @@ El desarrollador deberá cubrir ante la autoridad estatal o municipal en su caso
 
 En el caso de solicitud de renovación de licencia para ejecución de obras de urbanización, por no estar concluidas en el termino de vigencia concedida en la licencia a renovar, el desarrollador deberá cubrir los derechos de supervisión, los que se calcularán sobre las obras faltantes para la conclusión del desarrollo, debiendo concederse plazo para su conclusión, en términos de lo dispuesto por el artículo 146 de este Código.
 
-El presupuesto de las obras de urbanización deberá contener los conceptos de preliminares de despalme y trazo, drenaje sanitario, drenaje e infraestructura pluvial, agua potable, tomas domiciliarias, terracerías, pavimentos, guarniciones, banquetas, electrificación, iluminación, señalización, áreas verdes y otros, debiendo referirse a la etapa, sección o fase que se va a desarrollar.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
+El presupuesto de las obras de urbanización deberá contener los conceptos de preliminares de despalme y trazo, drenaje sanitario, drenaje e infraestructura pluvial, agua potable, tomas domiciliarias, terracerías, pavimentos, guarniciones, pasos peatonales, rampas para el adulto mayor y personas con discapacidad, infraestructura ciclista, electrificación, iluminación, señalización, áreas verdes y otros, debiendo referirse a la etapa, sección o fase que se va a desarrollar.
 
 También deberá incluir, en su caso, los presupuestos y proyectos de las obras de cabecera como son, entre otros, el acceso carretero, vía de enlace, líneas de conducción de agua potable, drenaje sanitario, drenaje pluvial, planta de tratamiento e instalaciones especiales necesarias para el tipo de desarrollo inmobiliario que genere la autosuficiencia del mismo, de conformidad con las condicionantes que se le hayan impuesto en las autorizaciones, que para el proyecto sean emitidas por las autoridades competentes.
 
@@ -2117,7 +2155,7 @@ El desarrollador podrá obtener autorización provisional para venta de lotes, a
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2015)</small>
 
-l. Contar con la Licencia de Ejecución de Obras de Urbanización;
+I. Contar con la Licencia de Ejecución de Obras de Urbanización;
 
 II. Tener un avance mínimo del treinta por ciento en las obras de urbanización del fraccionamiento, etapa, sección o fase, asentado en la bitácora de las obras de urbanización;
 
@@ -2339,7 +2377,9 @@ La constitución del régimen de propiedad en condominio es el acto jurídico fo
 
 El régimen de propiedad en condominio se constituirá de acuerdo a la reglamentación municipal correspondiente.
 
-La unidad condominal podrá constituirse con independencia del número de edificios, plantas de cada edificio o construcción, número de casas, departamentos, pisos, locales, naves, lotes de terreno delimitados o lotes de terreno que integren cada uno de los condominios que forman el conjunto, y del tipo de condominios integrados.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
+La unidad condominal podrá constituirse con independencia del número de edificios, plantas de cada edificio o construcción, número de casas, departamentos, pisos, locales, naves, lotes de terreno delimitados o lotes de terreno que integren cada uno de los condominios que forman el conjunto y del tipo de condominios integrados; sin embargo, tratándose de condominios de uso habitacional, el número máximo de unidades privativas será de 240.
 
 Una vez constituido y autorizado por la autoridad municipal correspondiente, se inscribirá en el Registro Público de la Propiedad y del Comercio de la entidad.
 
@@ -2363,11 +2403,13 @@ VI. La autorización, por parte de la autoridad municipal correspondiente, de la
 
 VII. Plazo de iniciación de las obras y plazo aproximado de terminación de las mismas;
 
-VIII. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de gravamen y responsabilidad fiscal;
+> <small>(F. DE E., P.O. 11 DE MAYO DE 2018)</small>
 
-IX. La documentación que acredite la autorización y transmisión de las áreas de donación a favor del Municipio; y
+VIII. La documentación que acredite la autorización y transmisión de las áreas de donación a favor del Municipio; y
 
-X. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de responsabilidad fiscal.
+> <small>(F. DE E., P.O. 11 DE MAYO DE 2018)</small>
+
+IX. Los documentos que acrediten la propiedad del inmueble en que se constituirá el condominio, el que deberá encontrarse libre de responsabilidad fiscal.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2018)</small>
 
@@ -2572,6 +2614,10 @@ Cuando se construya un condominio en un predio urbanizado, cuyo proyecto no requ
 ###### Artículo 237.
 
 La Declaratoria del régimen de propiedad en condominio, es el documento jurídico administrativo emitido por autoridad municipal correspondiente, que describe al condominio que se autoriza, así como las condiciones que deberá cumplir el desarrollador, entre las que se incluyen áreas de transmisión gratuita, pago de impuestos y derechos.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Tratándose de condominio de uso habitacional, éste tendrá un máximo de 240 unidades privativas.
 
 Los requisitos para emitir la Declaratoria del régimen de propiedad en condominio estarán a lo dispuesto en el Reglamento Municipal correspondiente.
 
@@ -3817,7 +3863,9 @@ VII. Para cualquier otro fin contrario al interés público.
 
 Los permisos o concesiones que los Municipios otorguen para la ocupación, uso y aprovechamiento de las vías públicas o cualesquiera otros bienes de uso común o destinados a un servicio público, no crean ningún derecho real o posesorio.
 
-Los permisos o concesiones serán siempre temporales y en ningún caso podrán otorgarse con perjuicio al libre, seguro y expedito tránsito de vehículos y de personas; así como al acceso a predios colindantes, a servicios públicos instalados y, en general, cualquier fin a que estén destinadas las vías públicas y los bienes mencionados.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Los permisos o concesiones serán siempre temporales y en ningún caso podrán otorgarse con perjuicio a la accesibilidad universal y, en general, cualquier fin a que estén destinadas las vías públicas y los bienes mencionados.
 
 Los derechos por el aprovechamiento de la vía pública deberán ser cubiertos conforme lo establezca la Ley de Hacienda de los Municipios del Estado de Querétaro.
 
@@ -3903,15 +3951,23 @@ III. Las de seguridad y protección relacionadas con el tránsito de vehículos 
 
 IV. Las de ornato, seguridad y protección, además del empedrado, banquetas, guarniciones y demás elementos que equipan las vías públicas;
 
-V. Las de agua potable, alcantarillado sanitario y alcantarillado pluvial;
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VI. Las instalaciones necesarias para dotar a los centros de población de alumbrado público o para mejorar el ya existente;
+V. Las de construcción de rampas de discapacidad;
 
-VII. Las de electrificaciones necesarias para dotar a los centros de población de fluido eléctrico o para mejorar las ya existentes;
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VIII. Las obras de regeneración urbana de aquellas zonas a los centros de población que se requieran para su reactivación económica, social y urbanística, tales como la construcción de estacionamientos públicos, mercados públicos, plazas, jardines, parques e instalaciones deportivas o similares; y
+VI. Las de infraestructura ciclista;
 
-IX. Cualquier otro tipo de obras o servicios relacionados con la misma, tendientes a la integración y mejoramiento de los centros de población.
+VII. Las de agua potable, alcantarillado sanitario y alcantarillado pluvial;
+
+VIII. Las instalaciones necesarias para dotar a los centros de población de alumbrado público o para mejorar el ya existente;
+
+IX. Las de electrificaciones necesarias para dotar a los centros de población de fluido eléctrico o para mejorar las ya existentes;
+
+X. Las obras de regeneración urbana de aquellas zonas a los centros de población que se requieran para su reactivación económica, social y urbanística, tales como la construcción de estacionamientos públicos, mercados públicos, plazas, jardines, parques e instalaciones deportivas o similares; y
+
+XI. Cualquier otro tipo de obras o servicios relacionados con la misma, tendientes a la integración y mejoramiento de los centros de población.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -5762,3 +5818,21 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Los Municipios, deberán adecuar o emitir sus disposiciones reglamentarias de conformidad con la presente Ley.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 148 Y 216, Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 237 DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO, EN MATERIA DE ACCESIBILIDAD UNIVERSAL”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
