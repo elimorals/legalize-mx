@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-124687"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-05"
-last_updated: "2017-12-05"
+last_updated: "2018-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124687&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-27"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de diciembre de 2017.
 
@@ -49,6 +49,10 @@ I. Actividades Reguladas: Las actividades previstas en la Ley de Hidrocarburos;
 
 II. Categoría: El conjunto de bienes, servicios o arrendamientos que tienen características en común y que pertenecen al mismo mercado proveedor;
 
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+II Bis. Comité Ejecutivo del MOBAP: Grupo colegiado encargado de establecer las directrices para la operación del MOBAP y las estrategias para la mejora, documentación y evaluación de los procesos;
+
 III. Consejeros: Los designados con tal carácter, propietarios y suplentes;
 
 IV. Consejo de Administración: El Consejo de Administración de Petróleos Mexicanos;
@@ -73,7 +77,9 @@ XIII. Ley: La Ley de Petróleos Mexicanos;
 
 XIV. Marcas Compartidas: Son aquéllas cuando en una actividad de mercadotecnia participan conjuntamente alguna marca de Pemex con otras marcas de diferentes compañías;
 
-XV. MOBAP: El Modelo Operativo Basado en Administración por Procesos, coordina los procesos de Pemex y sus Empresas Productivas Subsidiarias con un enfoque transversal, a fin de alinearlos a los objetivos, misión y visión institucionales;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XV. MOBAP: El Modelo Operativo Basado en Administración por Procesos, cuyo objeto es coordinar los procesos de Pemex y sus Empresas Productivas Subsidiarias con un enfoque transversal, a fin de mejorar su desempeño y alinearlos a los objetivos, misión y visión institucionales, estandarizando las prácticas de negocio de Pemex;
 
 XVI. Pemex: Petróleos Mexicanos;
 
@@ -165,7 +171,9 @@ X. Emitir la normativa interna de aplicación obligatoria para Pemex y, en su ca
 
 XI. Representar y, en su caso, designar a los servidores públicos y mandatarios que representarán los intereses o participación accionaria de Pemex ante las asambleas de accionistas, órganos de administración, o equivalentes en las Empresas Filiales, y en aquéllas otras en las que se tenga una participación minoritaria, de conformidad con lo establecido por el Consejo de Administración;
 
-XII. Establecer el MOBAP en Pemex y sus Empresas Productivas Subsidiarias;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XII. Establecer el MOBAP en Pemex y sus Empresas Productivas Subsidiarias y su Comité Ejecutivo. La integración del Comité Ejecutivo del MOBAP y su operación se realizará conforme lo determine el Director General y su funcionamiento se establecerá en las reglas de operación correspondientes;
 
 XIII. Establecer el sistema institucional para las Inversiones Vinculadas a la Cadena de Valor;
 
@@ -241,7 +249,9 @@ XX. Proporcionar a la Subdirección Económico-Financiera el cálculo de las con
 
 XXI. Dirigir al interior de su área la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos;
 
-XXII. Liderar los procesos de negocio que le sean asignados, e informar de su desempeño al comité ejecutivo de Pemex;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XXII. Liderar los procesos de negocio que le sean asignados, optimizar su desempeño, mejorar su eficiencia e informar de su estado y sus indicadores al Comité Ejecutivo del MOBAP;
 
 XXIII. Alinear las actividades propias de sus áreas al MOBAP, en coordinación con lo que establezcan las instancias competentes e instrumentar las mejoras y cambios en los procesos;
 
@@ -309,7 +319,9 @@ XVIII. Presentar a la Dirección Corporativa de Administración y Servicios, el 
 
 XIX. Dirigir al interior de su área la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos;
 
-XX. Liderar los procesos de negocio que le sean asignados, e informar de su desempeño al comité ejecutivo de Pemex;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XX. Liderar los procesos de negocio que le sean asignados, optimizar su desempeño, mejorar su eficiencia e informar de su estado y sus indicadores al Comité Ejecutivo del MOBAP;
 
 XXI. Alinear las actividades propias de sus áreas al MOBAP, en coordinación con lo que establezcan las instancias competentes e instrumentar las mejoras y cambios en los procesos;
 
@@ -855,11 +867,21 @@ X. Auditoría Interna
 
 1. Gerencia de Auditoría a Pemex
 
-2. Gerencia de Auditoría a Filiales, Legalidad, Tecnologías de Información y Enlace con Instancias Revisoras
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
-3. Delegación en Exploración y Producción
+2. Gerencia de Auditoría a Filiales, Legalidad y Tecnologías de Información
 
-4. Delegación en Transformación Industrial
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+3. Gerencia de Enlace con Instancias Revisoras
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+4. Delegación en Exploración y Producción
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+5. Delegación en Transformación Industrial
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN CORPORATIVA DE PLANEACIÓN, COORDINACIÓN Y DESEMPEÑO
 
@@ -1959,33 +1981,69 @@ XXIII. Coordinar la implantación de políticas, estrategias, procesos, iniciati
 
 La Subdirección de Presupuesto tendrá las funciones siguientes:
 
-I. Formular la propuesta de presupuesto de Pemex y sus Empresas Productivas Subsidiarias, acorde al proyecto de programa operativo y financiero anual de trabajo y el Plan de Negocios;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-II. Coordinar las acciones para obtener la aprobación de la propuesta de presupuesto de Pemex y sus Empresas Productivas Subsidiarias;
+I. Coordinar y establecer las estrategias en materia presupuestal de Pemex y sus Empresas Productivas Subsidiarias;
 
-III. Coordinar el ejercicio del presupuesto aprobado de Pemex y sus Empresas Productivas Subsidiarias;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-IV. Autorizar y gestionar las adecuaciones al presupuesto de Pemex y sus Empresas Productivas Subsidiarias;
+II. Definir, coordinar y supervisar la planeación, programación, difusión, seguimiento, control y soporte del presupuesto y su ejercicio en Pemex y sus Empresas Productivas Subsidiarias;
 
-V. Controlar y evaluar la formulación y el ejercicio del presupuesto, así como coordinar las acciones necesarias para el cumplimiento de la meta anual de balance financiero;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VI. Coordinar la integración y presentación de los informes a que hace referencia el artículo 102, fracción VI, de la Ley, los relativos a los programas y proyectos de inversión y demás información en materia presupuestaria que solicite el Consejo de Administración y autoridades;
+III. Formular la propuesta de presupuesto de Pemex y sus Empresas Productivas Subsidiarias, acorde al proyecto de programa operativo y financiero anual de trabajo y el Plan de Negocios;
 
-VII. Coordinar la formulación del escenario indicativo consolidado de las metas de balance financiero de Pemex y de sus Empresas Productivas Subsidiarias;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VIII. Coordinar la elaboración de proyecciones de flujo de efectivo a partir de la gestión de información operativa de Pemex y sus Empresas Productivas Subsidiarias, y
+IV. Coordinar las acciones para obtener la aprobación del proyecto de presupuesto y presupuesto de Pemex y sus Empresas Productivas Subsidiarias;
 
-IX. Coordinar los servicios de soporte en materia presupuestal y determinar sus controles, en Pemex y sus Empresas Productivas Subsidiarias.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+V. Coordinar la asignación y el ejercicio del presupuesto aprobado de Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Autorizar y gestionar las adecuaciones al presupuesto de Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VII. Controlar y evaluar la formulación y el ejercicio del presupuesto de Pemex y sus Empresas Productivas Subsidiarias, así como coordinar las acciones necesarias para el cumplimiento de la meta anual de balance financiero;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VIII. Coordinar la integración y presentación de los informes a que hace referencia el artículo 102, fracción VI, de la Ley, relativos a los programas y proyectos de inversión y demás información en materia presupuestaria de Pemex y sus Empresas Productivas Subsidiarias, que solicite el Consejo de Administración y autoridades, así como las instancias internas o externas;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+IX. Coordinar la integración de la información presupuestal y reportar a la Secretaría de Hacienda y Crédito Público la Cuenta de la Hacienda Pública consolidada de Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+X. Coordinar la formulación del escenario indicativo consolidado de las metas de balance financiero de Pemex y de sus Empresas Productivas Subsidiarias;
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XI. Coordinar la elaboración de proyecciones de flujo de efectivo a partir de la gestión y consolidación de información operativa de Pemex y sus Empresas Productivas Subsidiarias, así como la integración de la información presupuestal con el flujo de efectivo observado, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XII. Coordinar los servicios de soporte en materia presupuestal y determinar sus controles en Pemex y sus Empresas Productivas Subsidiarias.
 
 ###### Artículo 70.
 
 La Gerencia de Programación y Análisis Financiero tendrá las funciones siguientes:
 
-I. Elaborar los programas financieros en devengable y flujo de efectivo a partir de la gestión de información operativa para la integración y adecuaciones al presupuesto de Pemex y sus Empresas Productivas Subsidiarias;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-II. Estimar y dar seguimiento a los ingresos propios de Pemex y sus Empresas Productivas Subsidiarias, que se establecen en la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
+I. Elaborar los programas financieros en devengable y flujo de efectivo, a partir de la gestión y consolidación de información operativa, para la integración y adecuaciones al presupuesto de Pemex y sus Empresas Productivas Subsidiarias;
 
-III. Elaborar el escenario indicativo consolidado de metas de balance financiero para el año que se presupuesta, así como la proyección financiera de largo plazo de Pemex y sus Empresas Productivas Subsidiarias, alineado a la Planeación Estratégica Institucional;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+II. Elaborar el escenario indicativo consolidado de metas de balance financiero para el año que se presupuesta, así como la proyección financiera de largo plazo de Pemex y sus Empresas Productivas Subsidiarias, alineado a la Planeación Estratégica Institucional;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+III. Estimar y dar seguimiento a los ingresos propios y a la meta de balance financiero de Pemex y sus Empresas Productivas Subsidiarias, que se establecen en la Ley de Ingresos y el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente;
 
 IV. Elaborar las proyecciones financieras pro forma y de flujo de efectivo, bajo distintos escenarios de planeación, de Pemex y sus Empresas Productivas Subsidiarias;
 
@@ -1993,9 +2051,17 @@ V. Determinar el impacto financiero derivado del comportamiento de variables ope
 
 VI. Determinar la capacidad financiera y evaluar la factibilidad presupuestal del portafolio de inversiones, programas operativos y de mantenimiento de Pemex y sus Empresas Productivas Subsidiarias;
 
-VII. Determinar el impacto financiero y presupuestal de los modelos de negocio que implementen Pemex y sus Empresas Productivas Subsidiarias, y
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VIII. Identificar desviaciones a los compromisos en materia presupuestal y proponer acciones correctivas.
+VII. Determinar el impacto financiero y presupuestal de los modelos de negocio que implementen Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VIII. Identificar desviaciones a los compromisos en materia presupuestal y proponer acciones correctivas, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+IX. Proyectar escenarios operativos para la planeación y programación presupuestal de corto y largo plazo de Pemex y sus Empresas Productivas Subsidiarias, conforme a las metas de balance financiero.
 
 ###### Artículo 71.
 
@@ -2005,17 +2071,29 @@ I. Integrar, consolidar y evaluar el cumplimiento del presupuesto de Pemex y sus
 
 II. Dar seguimiento a las metas de balance financiero de Pemex y sus Empresas Productivas Subsidiarias, así como proponer las acciones para su cumplimiento;
 
-III. Administrar los mecanismos de control presupuestal de Pemex y sus Empresas Productivas Subsidiarias;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-IV. Administrar y actualizar los catálogos presupuestales de Pemex y sus Empresas Productivas Subsidiarias, y
+III. Establecer y administrar los mecanismos y metodologías para el control presupuestal de Pemex y sus Empresas Productivas Subsidiarias;
 
-V. Integrar y consolidar los informes a que hace referencia el artículo 102, fracción VI, de la Ley, con relación a la información presupuestal de Pemex y sus Empresas Productivas Subsidiarias.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+IV. Administrar y actualizar los catálogos presupuestales de Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+V. Integrar y consolidar los informes a que hace referencia el artículo 102, fracción VI, de la Ley, con relación a la información presupuestal de Pemex y sus Empresas Productivas Subsidiarias, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Integrar y consolidar la información presupuestaria para la presentación a la Secretaría de Hacienda y Crédito Público de la Cuenta de la Hacienda Pública consolidada de Pemex y sus Empresas Productivas Subsidiarias.
 
 ###### Artículo 72.
 
 La Gerencia de Presupuestación tendrá las funciones siguientes:
 
-I. Integrar el presupuesto y gestionar las adecuaciones presupuestales de Pemex y sus Empresas Productivas Subsidiarias;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+I. Gestionar e integrar el proyecto y presupuesto de Pemex y sus Empresas Productivas Subsidiarias, así como su calendario y las adecuaciones presupuestales;
 
 II. Integrar e informar el avance del programa anual de inversiones de Pemex y sus Empresas Productivas Subsidiarias, por estructura programática;
 
@@ -2023,17 +2101,33 @@ III. Asignar los recursos presupuestarios de operación e inversión de Pemex y 
 
 IV. Integrar y consolidar los informes a que hace referencia el artículo 102, fracción VI, de la Ley, con relación al presupuesto y las adecuaciones al mismo, de Pemex y sus Empresas Productivas Subsidiarias;
 
-V. Gestionar el catálogo de programas presupuestarios de conformidad con la estructura programática para el registro financiero, en los procesos de integración y autorización del presupuesto, y
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VI. Elaborar los oficios de liberación de inversiones de Pemex y sus Empresas Productivas Subsidiarias.
+V. Gestionar, analizar y actualizar el catálogo de programas presupuestarios, de conformidad con la estructura programática para el registro financiero, en los procesos de integración y autorización del presupuesto;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Elaborar los oficios de liberación de inversiones de Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VII. Validar la disponibilidad presupuestal de Pemex y sus Empresas Productivas Subsidiarias para comprometer recursos plurianuales y, en su caso, de aquellas solicitudes cuya vigencia inicie en el ejercicio fiscal siguiente, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VIII. Gestionar y actualizar la cartera de programas, proyectos de inversión y programas transversales de Pemex y sus Empresas Productivas Subsidiarias, así como la consolidación y reporte de su avance ante la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 73.
 
 La Gerencia de Soporte al Proceso Presupuestal tendrá las funciones siguientes:
 
-I. Consolidar los requerimientos en materia de presupuesto de la Subdirección;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-II. Implementar los controles en materia de presupuesto, evaluar su funcionamiento y proponer ajustes a los mismos;
+I. Consolidar los requerimientos en materia de soporte presupuestal de Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+II. Implementar los mecanismos de control y administración funcional de los sistemas centrales del ámbito presupuestal en Pemex y sus Empresas Productivas Subsidiarias, así como las acciones de mejora que deriven de la evaluación correspondiente;
 
 III. Implantar los catálogos presupuestales solicitados por las áreas de Pemex y sus Empresas Productivas Subsidiarias, y
 
@@ -2453,6 +2547,10 @@ XVII. Contribuir en la determinación del valor económico de las Empresas Produ
 
 XVIII. Supervisar la conservación y custodia de la documentación soporte del registro contable de las Empresas Productivas Subsidiarias.
 
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+Las funciones previstas en este artículo deberán ser ejercidas de conformidad a lo dispuesto en el Estatuto, para las subdirecciones de Presupuesto, de Contabilidad y Fiscal, de Tesorería, de Administración de Riesgos y Aseguramiento, y Económico-Financiera, áreas rectoras en Pemex y sus Empresas Productivas Subsidiarias, en la materia de competencia de dichas subdirecciones.
+
 ###### Artículo 91.
 
 La Gerencia de Finanzas Exploración y Producción tendrá las funciones siguientes:
@@ -2869,7 +2967,9 @@ VIII. Dirigir la aplicación de políticas o disposiciones y acciones relativas 
 
 IX. Dirigir los trabajos de los cuerpos colegiados en materia de Procura y Abastecimiento en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-X. Dirigir, emitir y suscribir convocatorias, evaluaciones económicas, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios; así como coordinar la terminación, la suspensión o rescisión de los mismos, para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE MAYO DE 2018)</small>
+
+X. Dirigir, emitir y suscribir convocatorias, evaluaciones económicas, fallos, dictámenes o cualquier otro acto relacionado con los procedimientos de contratación, contratos y convenios; así como coordinar la terminación o la rescisión de los mismos, para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
 
 La Dirección Operativa de Procura y Abastecimiento realizará las contrataciones de adquisiciones, arrendamientos, servicios y obras y demás funciones señaladas en el párrafo anterior, a través de las áreas de la propia Dirección, a nombre y en representación de las Empresas Productivas Subsidiarias y, en su caso, de las Empresas Filiales;
 
@@ -2927,7 +3027,9 @@ IV. Integrar y dar seguimiento al programa anual de adquisiciones, arrendamiento
 
 V. Diseñar y proponer las estrategias de Categorías de soporte de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-VI. Elaborar los análisis de mercado que determine el Director Operativo de Procura y Abastecimiento, y
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Elaborar el perfil de la industria para Categorías y los análisis de mercado que determine el Director Operativo de Procura y Abastecimiento, y
 
 VII. Proponer los esquemas de vinculación entre el proceso de Procura y Abastecimiento y el proceso financiero.
 
@@ -2949,9 +3051,17 @@ VI. Instrumentar la evaluación del proceso de Procura y Abastecimiento para Pem
 
 VII. Asesorar a usuarios vinculados a la solución tecnológica que soporte el proceso de Procura y Abastecimiento;
 
-VIII. Instrumentar la integración del proceso de Procura y Abastecimiento con el resto de los procesos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-IX. Proponer los niveles de servicio del proceso de Procura y Abastecimiento.
+VIII. Instrumentar la integración del proceso de Procura y Abastecimiento con el resto de los procesos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+IX. Proponer los niveles de servicio del proceso de Procura y Abastecimiento, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+X. Realizar las gestiones para la aplicación de la reserva de tratados de libre comercio.
 
 ###### Artículo 108.
 
@@ -2965,13 +3075,25 @@ III. Estructurar el perfil de las Categorías para Pemex, sus Empresas Productiv
 
 IV. Identificar las características de las Categorías para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-V. Elaborar los análisis de mercado para Categorías que determine el Director Operativo de Procura y Abastecimiento;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VI. Desarrollar estrategias de Categorías para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+V. Elaborar el perfil de la industria para Categorías que determine el Director Operativo de Procura y Abastecimiento;
 
-VII. Proponer estrategias para las Categorías para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-VIII. Dar seguimiento a las estrategias de las Categorías para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
+VI. Desarrollar estrategias para Categorías de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VII. Proponer estrategias para las Categorías para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VIII. Dar seguimiento a las estrategias de las Categorías para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+IX. Verificar que las solicitudes de contratación asociadas a Categorías se encuentren alineadas a la estrategia aprobada.
 
 #### SECCIÓN QUINTA. DE LA COORDINACIÓN DE DESARROLLO Y RELACIÓN CON PROVEEDORES Y CONTRATISTAS
 
@@ -3071,11 +3193,15 @@ La Gerencia de Ingeniería de Costos tendrá las funciones siguientes:
 
 I. Atender las solicitudes de elaboración de los mecanismos para la atención y autorización de los precios unitarios extraordinarios, ajustes de precios o costos; costos indirectos; gastos no recuperables; así como los que deriven de la atención de reclamos, controversias y conciliaciones;
 
-II. Evaluar y autorizar los precios unitarios extraordinarios de las contrataciones de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+II. Revisar y autorizar los precios unitarios extraordinarios de las contrataciones de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 III. Autorizar los factores de ajustes de precios o costos de las contrataciones de Pemex; sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-IV. Revisar y determinar los costos indirectos de las contrataciones de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales; conforme a las estipulaciones contenidas en los instrumentos jurídicos;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+IV. Revisar y determinar los costos indirectos de los contratos vigentes celebrados por Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 V. Revisar y autorizar los costos para los gastos no recuperables de las contrataciones de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
@@ -3099,7 +3225,7 @@ III. Coordinar la participación para la integración y actualización del progr
 
 IV. Coordinar la elaboración y evaluación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras de exploración, producción, perforación y servicios;
 
-V. Coordinar, en el ámbito de su competencia, la elaboración del modelo de contratación para las contrataciones de exploración, producción, perforación y servicios;
+V. (DEROGADA, D.O.F. 11 DE MAYO DE 2018)
 
 VI. Coordinar las evaluaciones económica y comercial de las propuestas presentadas en las contrataciones de adquisiciones, arrendamientos, servicios y obras para exploración, producción, perforación y servicios;
 
@@ -3121,7 +3247,9 @@ IV. Emitir y suscribir convocatorias, fallos o realizar cualquier otro acto rela
 
 V. Suscribir, en el ámbito de su competencia, los actos relacionados con la terminación y rescisión de los contratos y convenios;
 
-VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras, incluyendo, en el ámbito de su competencia, la elaboración de modelos de contratación, la identificación de los riesgos inherentes al procedimiento, así como las bases de contratación para procedimientos de contratación para mantenimiento, confiabilidad y logística marina;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras para mantenimiento, confiabilidad y logística marina, de conformidad con la normativa aplicable;
 
 VII. Participar en la integración del programa anual de adquisiciones, arrendamientos, servicios y obras de mantenimiento, confiabilidad y logística marina; así como coordinar y dar seguimiento a los procedimientos de contratación que deriven de dicho programa;
 
@@ -3145,7 +3273,9 @@ IV. Emitir y suscribir convocatorias, fallos o realizar cualquier otro acto rela
 
 V. Suscribir, en el ámbito de su competencia, los actos relacionados con la terminación y rescisión de los contratos y convenios;
 
-VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras, incluyendo, en el ámbito de su competencia, la elaboración de modelos de contratación, la identificación de los riesgos inherentes al procedimiento, así como las bases de contratación para procedimientos de contratación para producción y, en su caso, mantenimiento, confiabilidad y logística terrestre;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras para producción y, en su caso, mantenimiento, confiabilidad y logística terrestre, de conformidad con la normativa aplicable;
 
 VII. Participar en la integración del programa anual de adquisiciones, arrendamientos, servicios y obras de producción y, en su caso, de mantenimiento, confiabilidad y logística terrestre; así como coordinar y dar seguimiento a los procedimientos de contratación que deriven de dicho programa;
 
@@ -3169,7 +3299,9 @@ IV. Emitir y suscribir convocatorias, fallos o realizar cualquier otro acto rela
 
 V. Suscribir, en el ámbito de su competencia, los actos relacionados con la terminación y rescisión de los contratos y convenios;
 
-VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras, incluyendo, en el ámbito de su competencia, la elaboración de modelos de contratación, la identificación de los riesgos inherentes al procedimiento, así como las bases de contratación de contrataciones para servicios a la explotación y perforación;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras para servicios a la explotación y perforación, de conformidad con la normativa aplicable;
 
 VII. Participar en la integración del programa anual de adquisiciones, arrendamientos, servicios y obras para servicios a la explotación y perforación; así como coordinar y dar seguimiento a los procedimientos de contratación que deriven de dicho programa;
 
@@ -3197,7 +3329,9 @@ VI. Emitir y suscribir convocatorias, fallos o realizar cualquier otro acto rela
 
 VII. Suscribir, en el ámbito de su competencia, los actos relacionados con la terminación y rescisión de los contratos y convenios;
 
-VIII. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras, incluyendo, en el ámbito de su competencia la elaboración de modelos de contratación, incluyendo la identificación de los riesgos inherentes al procedimiento, así como las bases de contratación para procedimientos de contratación;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VIII. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras, de conformidad con la normativa aplicable;
 
 IX. Participar en la integración del programa anual de adquisiciones, arrendamientos, servicios y obras de exploración y producción, así como coordinar y dar seguimiento a los procedimientos de contratación que deriven de dicho programa;
 
@@ -3223,7 +3357,7 @@ III. Coordinar la participación para la integración y actualización del progr
 
 IV. Coordinar la elaboración y evaluación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras de transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
-V. Coordinar, en el ámbito de su competencia, la elaboración del modelo de contratación para las contrataciones de transformación industrial, etileno, logística, cogeneración y fertilizantes;
+V. (DEROGADA, D.O.F. 11 DE MAYO DE 2018)
 
 VI. Coordinar las evaluaciones económica y comercial de las propuestas presentadas en las contrataciones de adquisiciones, arrendamientos, servicios y obras para transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
@@ -3241,11 +3375,15 @@ II. Programar y controlar la gestión, así como la resolución de asuntos en ma
 
 III. Realizar las evaluaciones comerciales y económicas de las propuestas presentadas en las contrataciones de obras y servicios relacionados con las mismas, para proyectos de transformación industrial, etileno, logística, cogeneración y fertilizantes;
 
-IV. Emitir y suscribir convocatorias, fallos o realizar cualquier otro acto relacionado con los procedimientos de contratación de obras y servicios; así como celebrar los contratos derivados de dichos procedimientos y sus convenios modificatorios a nombre y representación de Pemex Transformación Industrial; Pemex Logística; Pemex Cogeneración y Servicios; Pemex Fertilizantes; Pemex Etileno y, en su caso, Empresas Filiales;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+IV. Emitir y suscribir convocatorias, fallos o realizar cualquier otro acto relacionado con los procedimientos de contratación de obras y servicios relacionados con las mismas de transformación industrial, etileno, logística, cogeneración y fertilizantes; así como celebrar los contratos derivados de dichos procedimientos y sus convenios modificatorios a nombre y representación de Pemex Transformación Industrial; Pemex Logística; Pemex Cogeneración y Servicios; Pemex Fertilizantes; Pemex Etileno y, en su caso, Empresas Filiales;
 
 V. Suscribir, en el ámbito de su competencia, los actos relacionados con la terminación y rescisión de los contratos y convenios;
 
-VI. Administrar y ejecutar los procedimientos de contratación de obras y servicios relacionados con las mismas, incluyendo, en el ámbito de su competencia, la elaboración de modelos de contratación, la identificación de los riesgos inherentes al procedimiento, así como las bases de contratación para procedimientos de contratación para proyectos de transformación industrial, etileno, logística, cogeneración y fertilizantes;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Administrar y ejecutar los procedimientos de contratación de obras y servicios relacionados con las mismas para proyectos de transformación industrial, etileno, logística, cogeneración y fertilizantes, de conformidad con la normativa aplicable;
 
 VII. Participar en la integración del programa anual de adquisiciones, arrendamientos, servicios y obras para proyectos de transformación industrial, etileno, logística, cogeneración y fertilizantes y dar seguimiento a los procedimientos de contratación que deriven de dicho programa;
 
@@ -3269,7 +3407,9 @@ IV. Emitir y suscribir convocatorias, fallos o realizar cualquier otro acto rela
 
 V. Suscribir, en el ámbito de su competencia, los actos relacionados con la terminación y rescisión de los contratos y convenios;
 
-VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, y servicios, incluyendo, en el ámbito de su competencia, la elaboración de modelos de contratación, la identificación de los riesgos inherentes al procedimiento, así como las bases de contratación de contrataciones para producción, comercialización y confiabilidad de transformación industrial, etileno, logística, cogeneración y fertilizantes;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, y servicios, para producción, comercialización y confiabilidad de transformación industrial, etileno, logística, cogeneración y fertilizantes, de conformidad con la normativa aplicable;
 
 VII. Participar en la integración del programa anual de adquisiciones, arrendamientos, servicios y obras de producción, comercialización y confiabilidad para transformación industrial, etileno, logística, cogeneración y fertilizantes; así como coordinar y dar seguimiento a los procedimientos de contratación que deriven de dicho programa;
 
@@ -3293,7 +3433,7 @@ III. Coordinar la participación para la integración y actualización del progr
 
 IV. Coordinar la elaboración y evaluación de las estrategias de contratación de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud;
 
-V. Coordinar, en el ámbito de su competencia, la elaboración del modelo de contratación para las contrataciones para servicios de soporte y de salud;
+V. (DEROGADA, D.O.F. 11 DE MAYO DE 2018)
 
 VI. Coordinar las evaluaciones económica y comercial de las propuestas presentadas en las contrataciones de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud;
 
@@ -3315,7 +3455,9 @@ IV. Emitir y suscribir convocatorias, fallos o realizar cualquier otro acto rela
 
 V. Suscribir, en el ámbito de su competencia, los actos relacionados con la terminación y rescisión de los contratos y convenios;
 
-VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras, incluyendo, en el ámbito de su competencia, la elaboración de modelos de contratación, la identificación de los riesgos inherentes al procedimiento, así como las bases de contratación para procedimientos de contratación para servicios de soporte y de salud;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+VI. Administrar y ejecutar los procedimientos de contratación de adquisiciones, arrendamientos, servicios y obras para servicios de soporte y de salud, de conformidad con la normativa aplicable;
 
 VII. Participar en la integración del programa anual de adquisiciones, arrendamientos, servicios y obras de servicios de soporte y de salud; así como coordinar y dar seguimiento a los procedimientos de contratación que deriven de dicho programa;
 
@@ -4827,6 +4969,8 @@ IV. Realizar las actividades necesarias para el cumplimiento de las resoluciones
 
 V. Cumplir con sus reglas de operación interna, así como con las demás que se acuerden en el seno de la misma.
 
+> <small>(DEROGADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ## TÍTULO SÉPTIMO. DEL MODELO OPERATIVO BASADO EN ADMINISTRACIÓN POR PROCESOS
 
 ###### Artículo 187.
@@ -5015,9 +5159,17 @@ XIV. Informar o dar vista de los asuntos en los que, derivado del ejercicio de s
 
 XV. Dirigir la revisión de los mecanismos de control interno y gestión de riesgos, así como, evaluar la suficiencia, confiabilidad, razonabilidad, eficacia y eficiencia del Sistema de Control Interno y, de ser necesario, proponer adecuaciones a los controles;
 
-XVI. Dirigir la participación en la atención de los procesos de entrega-recepción y de rendición de cuentas en Pemex y sus Empresas Productivas Subsidiarias, y
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
 
-XVII. Las demás que sean necesarias para el ejercicio de su cargo, así como las que le encomiende el Consejo de Administración, el Comité de Auditoría, y las que establezcan otras disposiciones aplicables.
+XVI. Dirigir la participación en la atención de los procesos de entrega-recepción y de rendición de cuentas en Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XVII. Remitir a la Dirección Jurídica las solicitudes de presentación de denuncias que se deriven del ejercicio de las funciones de auditoría, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XVIII. Las demás que sean necesarias para el ejercicio de su cargo, así como las que le encomiende el Consejo de Administración, el Comité de Auditoría, y las que establezcan otras disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DE LAS DELEGACIONES
 
@@ -5027,7 +5179,9 @@ Las Delegaciones de la Auditoría Interna, tendrán dentro de las Empresas Produ
 
 La Delegación en Exploración y Producción, tendrá como ámbito de competencia, cada una de las Empresas Productivas Subsidiarias siguientes, denominadas: Pemex Exploración y Producción y, Pemex Perforación y Servicios.
 
-La Delegación en Transformación Industrial, tendrá como ámbito de competencia, cada una de las Empresas Productivas Subsidiarias siguientes, denominadas: Pemex Transformación Industrial; Pemex Logística; Pemex Fertilizantes; Pemex Etileno y, Pemex Cogeneración y Servicios.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+La Delegación en Transformación Industrial, tendrá como ámbito de competencia, cada una de las Empresas Productivas Subsidiarias siguientes, denominadas: Pemex Transformación Industrial; Pemex Logística; Pemex Fertilizantes, y Pemex Etileno.
 
 #### SECCIÓN TERCERA. DE LAS GERENCIAS
 
@@ -5065,7 +5219,7 @@ XIV. Suscribir los requerimientos de información y documentación a terceros pa
 
 XV. Coordinar la participación en la atención de los procesos de entrega-recepción y de rendición de cuentas de Pemex y sus Empresas Productivas Subsidiarias;
 
-XVI. Participar en la revisión de la atención de requerimientos para la solventación de observaciones derivadas de auditorías practicadas a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, por parte de la Auditoría Superior de la Federación o cualquier instancia revisora externa;
+XVI. (DEROGADA, D.O.F. 11 DE MAYO DE 2018)
 
 XVII. Someter a consideración del Auditor Interno, los casos en que se solicitará a la Dirección Jurídica la presentación de las denuncias a que haya lugar;
 
@@ -5073,7 +5227,13 @@ XVIII. Asesorar, en el ámbito de su competencia, a las áreas de la Auditoría 
 
 XIX. Las demás que sean necesarias para el ejercicio de su cargo, así como las que le encomiende el Consejo de Administración, el Comité de Auditoría, el Auditor Interno, y las que establezcan otras disposiciones aplicables.
 
-Serán indelegables las funciones de los delegados y gerentes de la Auditoría Interna a que se refieren las fracciones II, V, VI, XIV y XVII, del presente artículo.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+Serán indelegables las funciones de los delegados y gerentes de la Auditoría Interna a que se refieren las fracciones II, V, XIV y XVII, del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+A la Gerencia de Enlace con Instancias Revisoras le corresponderá, en lo conducente, el ejercicio de las funciones establecidas en las fracciones IV, XII, XIV, XVIII y XIX, del presente artículo.
 
 ###### Artículo 211.
 
@@ -5097,31 +5257,101 @@ VIII. Coordinar en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, E
 
 IX. Consolidar las propuestas de normativa interna en materia de Auditoría Interna.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 212.
 
-La Gerencia de Auditoría a Filiales, Legalidad, Tecnologías de Información y Enlace con Instancias Revisoras, tendrá las funciones siguientes:
+La Gerencia de Auditoría a Filiales, Legalidad y Tecnologías de Información, tendrá las funciones siguientes:
 
-I. Coordinar las acciones de seguimiento a los dictámenes emitidos por auditores externos;
+I. Verificar la observancia de los lineamientos que regulan el ejercicio de los derechos que como propietario o accionista, correspondan a Pemex o Empresas Productivas Subsidiarias en Empresas Filiales, la actuación de los empleados que funjan como representantes, y los mandatarios que ejerzan los derechos correspondientes y la información que deberán presentar al Consejo de Administración, así como los demás aspectos que el propio Consejo determine para efectos de transparencia y rendición de cuentas de las inversiones de Pemex en dichas empresas;
 
-II. Verificar la observancia de los lineamientos que regulan el ejercicio de los derechos que como propietario o accionista, correspondan a Pemex o Empresas Productivas Subsidiarias en Empresas Filiales, la actuación de los empleados que funjan como representantes, y los mandatarios que ejerzan los derechos correspondientes y, la información que deberán presentar al Consejo de Administración, así como los demás aspectos que el propio Consejo determine para efectos de transparencia y rendición de cuentas de las inversiones de Pemex en dichas empresas;
+II. Evaluar el uso y aprovechamiento de las Tecnologías de Información en los procesos sustantivos y de soporte de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-III. Evaluar el uso y aprovechamiento de las Tecnologías de Información en los procesos sustantivos y de soporte de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+III. Verificar los requerimientos funcionales, técnicos y normativos de Tecnologías de Información, en los procesos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-IV. Verificar los requerimientos funcionales, técnicos y normativos de los sistemas de información;
+IV. Revisar la gestión de las Empresas Filiales;
 
-V. Apoyar la coordinación entre la Auditoría Superior de la Federación o cualquier instancia revisora externa y las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, con el propósito de prevenir la formulación de observaciones;
+V. Evaluar, en el ámbito de su competencia, el cumplimiento de las disposiciones legales, normativas y contractuales, y la adopción de las mejores prácticas internacionales;
 
-VI. Coadyuvar con las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en el cumplimiento de la atención de requerimientos para la solventación de observaciones derivadas de la ejecución de auditorías practicadas por la Auditoría Superior de la Federación o cualquier instancia revisora externa;
+VI. Evaluar, en el ámbito de su competencia, la administración de los riesgos y los controles en los procesos, funciones y actividades;
 
-VII. Realizar, conjuntamente con las Delegaciones y Gerencias de la Auditoría Interna, el seguimiento de la atención por las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, de las observaciones emitidas por la Auditoría Superior de la Federación o cualquier instancia revisora externa, y
+VII. Examinar, en los procesos sustantivos y de soporte, la defensa de los intereses de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-VIII. Informar al Auditor Interno de las irregularidades encontradas en el ejercicio de la función de coordinación de enlace con la Auditoría Superior de la Federación o con cualquier instancia revisora externa, así como de las deficiencias o desviaciones detectadas en la operación de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
+VIII. Verificar la eficacia de los mecanismos de seguridad informática implementados para la salvaguarda de los activos de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+IX. Verificar la existencia de planes de contingencia y recuperación en caso de desastres, así como de los mecanismos alternos para la protección e integridad de la información por parte de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como constatar su operación y eficacia;
+
+X. Verificar la eficacia, integridad, confiabilidad y disponibilidad de los sistemas y aplicaciones de Tecnologías de Información de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+XI. Evaluar los sistemas que desarrollen o adquieran Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en relación con la alineación a las estrategias corporativas establecidas;
+
+XII. Evaluar que se cuente con un inventario actualizado de licenciamiento y sistemas de tecnologías de Información;
+
+XIII. Verificar la eficacia, integridad, confiabilidad y protección de la infraestructura de Tecnologías de Información;
+
+XIV. Evaluar la alineación de la infraestructura de Tecnologías de Información a las estrategias de negocio;
+
+XV. Verificar la operación, mantenimiento y disponibilidad de la infraestructura que soporta la prestación de servicios de Tecnologías de Información;
+
+XVI. Evaluar que se cuente con un inventario actualizado de la infraestructura informática propia o de terceros;
+
+XVII. Evaluar la eficacia de los instrumentos normativos que se aplican en los procesos en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+XVIII. Coordinar, al interior de la Auditoría Interna, el cumplimiento de las obligaciones de transparencia;
+
+XIX. Evaluar la eficacia, confiabilidad y oportunidad de los mecanismos que se aplican en Pemex y sus Empresas Productivas Subsidiarias, en materia de solicitudes de información;
+
+XX. Intervenir en las actas administrativas que correspondan a la Auditoría Interna, en materia archivística en Pemex;
+
+XXI. Coordinar la atención de los requerimientos en los procedimientos de responsabilidad que se remitan a la Auditoría Interna, en materia de filiales, legalidad y Tecnologías de Información;
+
+XXII. Verificar, en materia de control interno, el cumplimiento de la normativa aplicable a las Empresas Filiales, así como apoyar en la elaboración de la opinión sobre el estado que guarda el Sistema de Control Interno respecto de dichas empresas;
+
+XXIII. Verificar la alineación de la operación y las actividades de las Empresas Filiales al Plan de Negocios;
+
+XXIV. Identificar las acciones que promuevan la mejora de la calidad de las actividades de auditoría interna, y
+
+XXV. Investigar e impulsar la adopción de las mejores prácticas en los servicios de auditoría y en las materias objeto de las auditorías en beneficio del negocio.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 212 Bis.
+
+La Gerencia de Enlace con Instancias Revisoras tendrá las funciones siguientes:
+
+I. Coordinar y dar seguimiento a la atención de los requerimientos de información que formulen a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, la Auditoría Superior de la Federación, los auditores externos o cualquier otra instancia fiscalizadora;
+
+II. Coordinar la atención de requerimientos en materia de auditoría interna, derivados de acciones de debida diligencia de terceros hacia Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+
+III. Coadyuvar en la función de enlace entre las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, ante la Auditoría Superior de la Federación o cualquier otra instancia fiscalizadora;
+
+IV. Coordinar el seguimiento para la atención de las acciones promovidas con motivo de las auditorías realizadas por la Auditoría Superior de la Federación;
+
+V. Dar seguimiento a la atención, por parte de las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, de las acciones derivadas de los resultados emitidos por los auditores externos;
+
+VI. Asesorar a las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en la atención y aclaración de las acciones promovidas derivadas de la ejecución de auditorías practicadas por la Auditoría Superior de la Federación o cualquier otra instancia revisora externa;
+
+VII. Coordinar con Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, la planeación y ejecución de las auditorías o revisiones por parte de la Auditoría Superior de la Federación o cualquier instancia revisora externa;
+
+VIII. Implementar mecanismos de control e información de seguimiento a la atención de requerimientos a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, por parte de la Auditoría Superior de la Federación;
+
+IX. Asesorar a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en la solventación de observaciones derivadas de las auditorías practicadas por la Auditoría Superior de la Federación o los auditores externos;
+
+X. Asesorar a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en la atención de los requerimientos de la Auditoría Superior de la Federación o cualquier instancia revisora externa;
+
+XI. Elaborar y comunicar al Auditor Interno y, en su caso, a las áreas auditadas, los reportes estadísticos y de resultados que deriven de las auditorías practicadas a Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, por la Auditoría Superior de la Federación o cualquier instancia revisora externa;
+
+XII. Solicitar la ampliación de plazo para la atención de requerimientos, cuando así lo soliciten las áreas de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y
+
+XIII. Representar al Auditor Interno en los actos de inicio, ejecución y cierre de auditorías practicadas por la Auditoría Superior de la Federación.
 
 #### SECCIÓN CUARTA. DE LA SUPLENCIA EN LA AUDITORÍA INTERNA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 213.
 
-En su ausencia, el Auditor Interno será suplido por el Gerente de Auditoría a Pemex o por el Gerente de Auditoría a Filiales, Legalidad, Tecnologías de Información y Enlace con Instancias Revisoras, en ese orden.
+En su ausencia, el Auditor Interno será suplido por el Gerente de Auditoría a Pemex, por el Gerente de Auditoría a Filiales, Legalidad y Tecnologías de Información o por el Gerente de Enlace con Instancias Revisoras, en ese orden.
 
 Las ausencias de los delegados y gerentes, serán suplidas por el servidor público designado por escrito por el Auditor Interno.
 
@@ -5162,3 +5392,15 @@ DÉCIMO. Los directores corporativos y titulares de las áreas de Petróleos Mex
 El presente Estatuto Orgánico de Petróleos Mexicanos, fue aprobado por el Consejo de Administración de Petróleos Mexicanos, con fundamento en el artículo 13 fracción XVI de la Ley de Petróleos Mexicanos, en sesión ordinaria 923 celebrada el día 17 de noviembre de 2017, mediante acuerdo número CA-110/2017.
 
 Ciudad de México, a 27 de noviembre de 2017.- El Director Jurídico de Petróleos Mexicanos, Jorge Eduardo Kim Villatoro.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS”.]
+
+PRIMERO. La presente modificación al Estatuto Orgánico de Petróleos Mexicanos entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Delegación en Transformación Industrial de la Auditoría Interna atenderá, en el ámbito de su competencia, los asuntos relacionados con auditoría en Pemex Cogeneración y Servicios hasta su conclusión, en virtud del proceso de liquidación de dicha Empresa Productiva Subsidiaria.
+
+TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de servicios personales.
