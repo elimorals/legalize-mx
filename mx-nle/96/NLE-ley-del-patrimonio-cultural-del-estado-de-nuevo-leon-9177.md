@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2017-12-15"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -507,6 +507,10 @@ N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECR
 
 La Secretaría de Desarrollo Social del Estado, elaborará un catálogo que contenga la descripción de las tradiciones, costumbres, trajes típicos o cualquiera otra manifestación, que por sus características merezca ser adscrita al Patrimonio Cultural.
 
+### CAPITULO XIII. DEL FONDO
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 69.
 
 La imposición de sanciones administrativas compete al Ayuntamiento respectivo, con independencia de las que en su caso determine la autoridad judicial.
@@ -589,6 +593,50 @@ I.- Los propietarios de los inmuebles involucrados en las citadas violaciones; y
 
 II.- Quienes ordenen o hayan ordenado las acciones constitutivas de la violación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2018)</small>
+
+###### ARTICULO 83.
+
+El Gobierno del Estado, a través de la Secretaria de Finanzas y Tesorería General del Estado, constituirá un fondo en la Ley de Egresos de cada año, cuyo objeto será la protección, conservación, restauración y recuperación del patrimonio histórico y cultural del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+###### ARTICULO 84.
+
+El Fondo en mención se manejará a través de un Fideicomiso, mismo que será presidido por el Presidente de CONARTE, el cual tendrá la facultad de recibir ingresos de Fundaciones y particulares para enriquecer las acciones de conservación, recuperación y mantenimiento.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+###### ARTICULO 85.
+
+El Comité Técnico del Fideicomiso administrará el fondo a que refiere el artículo anterior para ello cada año lanzará una Convocatoria Pública, para establecer las obras a las que se les asignará el recurso.
+
+En la Convocatoria se establecerán el lugar y la fecha de recepción de las solicitudes, además de las bases y requisitos que deberán de acreditar para la ejecución de las obras de protección, restauración, conservación y recuperación del patrimonio histórico y cultural del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+###### ARTICULO 86.
+
+El comité a que refiere el artículo anterior estar (sic) integrado por un presidente que será el titular de CONARTE, un secretario técnico que será un servidor público designado por este último y seis vocales que serán los titulares o quien ellos designen de la Secretaría de Finanzas y Tesorería General del Estado, la Secretaría de Infraestructura y la Secretaría de Educación, así como tres ciudadanos que serán propuestos por el Gobernador del Estado y que deberán de ser de reconocida trayectoria dentro del ámbito histórico, artístico y cultural del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+###### ARTICULO 87.
+
+Los recursos que integran el fondo se asignarán de conformidad con los criterios y bases siguientes:
+
+I.- La asignación de los apoyos se dará cada año, de conformidad con los recursos que al efecto se determine en el presupuesto anual del Gobierno del Estado;
+
+a) La priorización y rescate de elementos históricos de gran relevancia para el Estado.
+
+b) La solicitud de los interesados a acceder al Fondo previa convocatoria pública y abierta que expida el Fideicomiso, mismo que será en base a los proyectos que al efecto se presenten;
+
+c) La ejecución de proyectos que protejan, conserven y restauren el patrimonio cultural del Estado; y
+
+d) Incrementar el patrimonio cultural del Estado;
+
+II.- Los recursos del fondo en ningún momento se entregarán para la realización de proyectos cuya ejecución genere utilidades o beneficios para personas morales o físicas que tengan objeto de lucro.
+
 TRANSITORIOS:
 
 PRIMERO:- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -634,3 +682,17 @@ P.O. 15 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 309 SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 74 DE LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 387. SE ADICIONA UN CAPÍTULO XIII QUE COMPRENDERÁ LOS ARTÍCULOS DEL 83 AL 87, DENOMINADO DEL FONDO, A LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN; TAMBIÉN SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 2°; SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 3°; ASÍ MISMO SE ADICIONAN LAS FRACCIONES XIII Y XIV, DEL ARTÍCULO 3, TODOS DE LA LEY QUE CREA EL CONSEJO PARA LA CULTURA Y LAS ARTES DE NUEVO LEÓN, Y SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 1° DE LA LEY DE OBRAS PÚBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan a la presente Ley.
+
+Tercero.- Todos los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la normatividad con la que se promovieron.
+
+Cuarto.- El Fideicomiso deberá constituirse en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente Decreto.
+
+Quinto.- El Ejecutivo del Estado a través de la Secretaria de Finanzas y Tesorería General del Estado, además de observar los criterios y bases a que refiere el artículo 85 de (sic) Ley del Patrimonio Cultural del Estado de Nuevo León del presente Decreto, fijará los lineamientos y las reglas de operación de Fideicomiso antes del lanzamiento de la convocatoria.
