@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2016-10-05"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -1125,19 +1125,87 @@ Artículo 60 Bis XII.- El Director de Control Disciplinario deberá reunir los m
 
 Artículo 60 Bis XIII.- La Dirección de Control Disciplinario contará con el personal jurídico y administrativo que determine el Pleno del Consejo de la Judicatura.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE MAYO DE 2018)</small>
+
+Sección 9ª.
+
+DE LA DIRECCIÓN JURÍDICA
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Artículo 60 Bis XIV. La Dirección Jurídica es un órgano del Consejo de la Judicatura, que será el encargado de atender, representar, tramitar, asesorar y apoyar en los asuntos jurídicos, o procedimientos judiciales o administrativos que se le encomienden, así como de tener la calidad de enlace de información para garantizar el adecuado ejercicio de las atribuciones en materia de transparencia y acceso a la información pública, en los términos de las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Artículo 60 Bis XV. La Dirección Jurídica tendrá las siguientes atribuciones:
+
+I. Atender, representar, tramitar y apoyar en los asuntos jurídicos o procedimientos judiciales de amparo, laborales, administrativos o de acceso a la información del Pleno del Consejo de la Judicatura o de la Dirección de Administración y Tesorería, cuando estos sean parte o tengan algún interés;
+
+II. Elaborar y revisar las bases, contratos, convenios o acuerdos del Pleno del Consejo de la Judicatura o de la Dirección de Administración y Tesorería, cuando estos sean parte;
+
+III. Formular denuncias de hechos o querellas en representación de la institución;
+
+IV. Resolver y apoyar las consultas técnico-jurídicas que, por escrito, se soliciten por la Dirección de Administración y Tesorería o de sus áreas;
+
+V. Orientar, asesorar y apoyar en gestiones que requieran los órganos auxiliares o áreas administrativas, para la atención de trámites ante todo tipo de autoridades, siempre y cuando estén vinculadas y sean prioritarias para la función de estos;
+
+VI. Evaluar el cumplimiento normativo de las políticas, manuales de organización, lineamientos, así como cualquier otro instrumento que sea aplicable a las funciones propias de la administración;
+
+VII. Garantizar el cumplimiento de la normativa aplicable en las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y contratación de obra;
+
+VIII. Llevar el registro, sistematización y resguardo de los documentos jurídicos que contengan derechos y obligaciones para el Pleno del Consejo de la Judicatura o sus áreas;
+
+IX. Emitir opinión y brindar asesoría jurídica, cuando se lo soliciten por escrito, a cualquiera de los órganos auxiliares o áreas dependientes del Consejo de la Judicatura;
+
+X. Participar, como secretario técnico, en el Comité de Operaciones Patrimoniales;
+
+XI. Suscribir los documentos y, en su caso, expedir copia certificada de cualquiera que obre en su poder o en los archivos de la Dirección de Administración y Tesorería o de sus áreas;
+
+XII. Proponer a la Dirección de Administración y Tesorería las directrices, normas, procedimientos y criterios técnico-jurídicos para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y contratación de obra;
+
+XIII. Tener la calidad de enlace de información para garantizar el adecuado ejercicio de las atribuciones en materia de transparencia y acceso a la información pública, en los términos de las leyes de la materia;
+
+XIV. Recibir, atender, capturar, ordenar, analizar y tramitar hasta su conclusión o cuando causen estado, las solicitudes de acceso de la información pública que sean presentadas;
+
+XV. Dar orientación a los solicitantes de información pública, de datos o de localización de información de las páginas oficiales o respecto de cuáles son las autoridades competentes para atender sus solicitudes;
+
+XVI. Determinar la procedencia del trámite relacionado con el examen de algún objeto, documento o cualquier otra forma de registro y verificar los términos para su desahogo, pudiendo comisionar a personal a su cargo, para la realización de dicho acto;
+
+XVII. Designar de entre el personal a su cargo, a quien se encargará de llevar a cabo las notificaciones de las determinaciones relacionadas con las solicitudes de acceso a la información o cualquier otra;
+
+XVIII. Proponer al Comité de Transparencia y Acceso a la Información las políticas, lineamientos o procedimientos internos que aseguren una mayor eficiencia en la gestión de las solicitudes de acceso a la información pública;
+
+XIX. Llevar un control y formar un expediente, preferentemente electrónico, de las solicitudes de información pública;
+
+XX. A petición del Presidente o del Pleno del Consejo de la Judicatura, dar seguimiento a los planes y programas en materia de transparencia y acceso a la información pública;
+
+XXI. En los casos en que así proceda, entregar la información requerida por el solicitante, previo pago de los derechos respectivos o previa presentación de los dispositivos que sean necesarios para tal efecto;
+
+XXII. Elaborar y llevar un control y registro de los acuerdos mediante los cuales se determine la clasificación de información como reservada, confidencial o inexistente, conforme a las leyes de la materia;
+
+XXIII. Promover acciones para fortalecer la cultura de la transparencia judicial;
+
+XXIV. En coordinación con el Instituto de la Judicatura, organizar cursos, talleres, seminarios, diplomados y difusión en materia de transparencia, acceso a la información y protección de datos personales; y,
+
+XXV. Las que se determinen en alguna otra disposición general que sea aplicable, o las que sean encomendadas por la Presidencia o el Pleno del Consejo de la Judicatura.
+
 ### CAPITULO VIII (SIC). DE LA ADMINISTRACIÓN Y TESORERIA
 
 ###### Artículo 61.
 
 El Consejo de la Judicatura contará con un órgano de administración y tesorería que se denominará Dirección de Administración y Tesorería, y tendrá como función principal ejercer el presupuesto aprobado en la Ley de Egresos del Estado y realizará la administración de acuerdo a las disposiciones legales aplicables y a las instrucciones emitidas por el Pleno; adquirirá los bienes y servicios, y tendrá a su cargo la infraestructura judicial y el recurso humano que garantice la integridad, transparencia y seguridad dentro de la normatividad y procedimientos establecidos en el Poder Judicial; así como intervenir en todos los actos jurídicos que afectan al presupuesto; controlar los registros de bienes muebles e inmuebles del Poder Judicial y cuidar su mantenimiento; suministrar los recursos materiales y proporcionar los servicios a los órganos jurídicos y unidades administrativas; elaborar los programas de capacitación y adiestramiento al personal administrativo y vigilar el cumplimiento de las obligaciones de fiscalización y compromisos contraídos ante otros poderes del Estado.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 62.
 
-La Dirección de Administración y Tesorería se integrará con: un Director y Coordinadores: Jurídico, de Finanzas, de Recursos Humanos, de Adquisiciones y Servicios, de Obras, de Calidad y de Mantenimiento, jefes de departamento y demás personal técnico y administrativo que apruebe el Pleno, de acuerdo con la disponibilidad presupuestal y, además, para el debido funcionamiento y prevención interna de la Dirección de Administración y Tesorería, en la aplicación de los recursos establecidos en la Ley de Egresos del Estado, se integrará un Comité de Operaciones Patrimoniales, cuyas atribuciones están determinadas en el presente Reglamento.
+La Dirección de Administración y Tesorería se integrará con: un Director y Coordinadores: de Finanzas, de. Recursos Humanos, de Adquisiciones y Servicios, de Obras, de Calidad y de Mantenimiento, jefes de departamento y demás personal técnico y administrativo que apruebe el Pleno, de acuerdo con la disponibilidad presupuestal y; además, para el debido funcionamiento y prevención interna de la Dirección de Administración y Tesorería, en la aplicación de los recursos establecidos en la Ley de Egresos del Estado, se integrará un Comité de Operaciones Patrimoniales, cuyas atribuciones están determinadas en el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE AGOSTO DE 2009)</small>
 
 Los Coordinadores tendrán las siguientes atribuciones:
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2009)</small>
 
 a).- Coordinador de Finanzas:
 
@@ -1151,6 +1219,8 @@ IV.- Elaborar, analizar y presentar trimestralmente para su aprobación el ante 
 
 V.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
 
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2009)</small>
+
 b).- Coordinador de Recursos Humanos:
 
 I.- Coordinar la administración de recursos humanos, supervisando que se proporcione oportunamente a todas las áreas del Poder Judicial del Estado, el servicio y apoyo en lo que se refiere a contratación de personal, pago de nómina, pago de prestaciones, registro de puntualidad y asistencia y pago de finiquitos;
@@ -1158,6 +1228,8 @@ I.- Coordinar la administración de recursos humanos, supervisando que se propor
 II.- Diseñar planes y programas para la capacitación del personal administrativo, y;
 
 III.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2009)</small>
 
 c).- Coordinador de Adquisiciones y Servicios.
 
@@ -1168,6 +1240,8 @@ II.- Dirigir y coordinar todos los eventos sociales, culturales, deportivos y de
 III.- Elaborar, planear y ejecutar programas de prevención general contra accidentes o desastres naturales, ello en conjunto con la Dirección de Protección Civil del Estado, y;
 
 IV.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2009)</small>
 
 d).- Coordinador de Obras:
 
@@ -1185,11 +1259,9 @@ VII.- Atender y dar seguimiento a las solicitudes técnicas que reporten los usu
 
 VIII.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
 
-e).- Coordinador Jurídico:
+e).- (DEROGADO, P.O. 11 DE MAYO DE 2018)
 
-I.- Actuar y asesorar jurídicamente a la administración del Poder Judicial del Estado, proponiendo los criterios de interpretación administrativa de las disposiciones jurídicas que norman su funcionamiento, actualizar permanentemente las bases normativas y representarlas en defensa de sus intereses y patrimonio, y
-
-II.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2009)</small>
 
 f).- Coordinador de Calidad:
 
@@ -1208,6 +1280,8 @@ VI.- Presentar a la Dirección, en septiembre de cada año, un programa anual, p
 VII.- Diseñar planes y programas para la capacitación del personal administrativo.
 
 VIII.- Las demás que indiquen las leyes, reglamentos, acuerdos generales o la Dirección de Administración y Tesorería.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2009)</small>
 
 g).- Coordinador de Mantenimiento:
 
@@ -1263,7 +1337,9 @@ XVII.- Dirigir y coordinar todos los eventos -sociales, culturales, deportivos y
 
 XVIII.- Las demás que por acuerdo del Pleno, del Presidente, de las Comisiones del Consejo y en otras disposiciones jurídicas le sean encomendadas.
 
-DEL COMITÉ PARA EL CONTROL DE OPERACIONES PATRIMONIALES.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2018)</small>
+
+DEL COMITÉ DE OPERACIONES PATRIMONIALES
 
 Artículo 63 bis I.- El Comité para el Control de Operaciones Patrimoniales es de naturaleza técnica consultiva, y funge como auxiliar del Consejo de la Judicatura del Poder Judicial, coadyuvando en el establecimiento de criterios que regulen la aplicación de los recursos públicos destinados a las adquisiciones, servicios, obras, arrendamientos, enajenaciones, permutas, donaciones, comodatos, concesiones de bienes inmuebles, así como todas aquellas cuestiones en las que se vea involucrado el patrimonio y presupuesto del Poder Judicial.
 
@@ -1299,23 +1375,27 @@ Artículo 63 bis V.- El Comité será presidido por el Director de Administraci�
 
 En las sesiones intervendrá un comisario, que será el titular de la Contraloría Interna. Su función es la de vigilar el exacto cumplimiento de los requisitos y modalidades que impone estas bases y demás leyes aplicables, para el desarrollo de las sesiones y la toma de acuerdos.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
 Artículo 63 bis VI.- El Comité estará integrado por:
 
-I. Director de Administración y Tesorería del Consejo de la Judicatura;
+I. La Dirección de Administración y Tesorería;
 
-II. Coordinador de Adquisiciones, Servicios y Obras;
+II. La Dirección Jurídica;
 
-III. Coordinador de Finanzas; y,
+III. La Contraloría Interna;
 
-IV. Contralor Interno;
+IV. La Coordinación de Adquisiciones y Servicios y de Obras, según corresponda; y,
 
-V. Coordinador Jurídico.
+V. La Coordinación de Finanzas.
+
+A las sesiones podrán asistir, como representantes de los integrantes, personas que ocupen el nivel jerárquico inmediato inferior al del titular. En todo caso, el titular de cada área deberá designar por escrito a su respectivo suplente.
 
 Artículo 63 bis VII.- Si por la naturaleza de algún asunto a tratar se requiere la presencia de un servidor público no enunciado en el artículo anterior, el Comité procederá a invitarlo a la sesión.
 
-Artículo 63 Bis VIII.- La presentación de los asuntos se hará por medio del Coordinador Jurídico, por lo que si alguna área del Poder Judicial tuviere algún asunto que exponer, deberá hacer llegar a la citada coordinación la documentación necesaria para ello con, por lo menos, ocho días naturales de anticipación a la fecha de la sesión, para la orden del día respectivo.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Artículo 63 Bis VIII.- La presentación de los asuntos se hará por medio de la Dirección Jurídica. Si algún área del Poder Judicial tuviere algún asunto que exponer, para incluirse en la orden del día respectiva, deberá hacerlo llegar a la citada Dirección, acompañado de la documentación correspondiente, por lo menos, con cinco días hábiles de anticipación a la fecha de la sesión.
 
 Artículo 63 bis IX.- La convocatoria para las sesiones del Comité para el Control de Operaciones Patrimoniales deberá hacerse por lo menos con dos días hábiles de anticipación, recabándose la constancia de recibido, y conteniendo:
 
@@ -2472,3 +2552,9 @@ P.O. 5 DE OCTUBRE DE 2016.
 PRIMERO: Vigencia. El presente Acuerdo General, entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial del Estado.
 
 SEGUNDO: Publicación. Se ordena la publicación del presente Acuerdo General, por una sola vez, en el Periódico Oficial del Estado, en el Boletín Judicial del Estado, así como en el portal electrónico oficial del Poder Judicial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 11 DE MAYO DE 2018.
+
+> <small>[N. DE E. TRASITORIO DEL ACUERDO GENERAL 3/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA, POR EL CUAL SE REFORMA EL REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN, POR ADICIÓN DE LA SECCIÓN 9ª, DENOMINADA “DE LA DIRECCIÓN JURÍDICA” AL CAPÍTULO VI, LLAMADO "DE LOS ORGANOS AUXILIARES DEL CONSEJO", QUE COMPRENDERÁ LOS ARTÍCULOS 60 BIS XIV Y 60 BIS XV; MODIFICACIÓN DE LOS ARTÍCULOS 62, PRIMER PÁRRAFO, 63 BIS VI, Y 63 BIS VIII; Y POR DEROGACIÓN DEL INCISO E), DEL ARTÍCULO 62”.]</small>
+
+Primero: Vigencia. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Estado, para su mayor difusión publíquese en el Periódico Oficial del Estado.
