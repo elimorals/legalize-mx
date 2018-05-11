@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2018-03-26"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -465,9 +465,9 @@ XX.- Resolver en los términos convenientes para la comunidad, los casos de conc
 
 XXI.- Elaborar y presentar ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año la iniciativa de Ley de Ingresos Municipales que deberá regir durante el año fiscal siguiente.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XXII.- Remitir al Congreso del Estado a más tardar el último día hábil del mes de febrero, la Cuenta Pública Municipal del año anterior para su revisión y fiscalización. El Congreso del Estado publicará en su portal de internet la cuenta pública municipal, para facilitar su consulta pública.
+XXII. Presentar por conducto del Presidente Municipal al Órgano Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública del año anterior, a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos establecidos legalmente. Asimismo, entregar los informes y demás datos que les sean solicitados de conformidad con lo establecido en las leyes aplicables.
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -667,7 +667,7 @@ Así como, participar en coordinación con el Gobierno Estatal y Federal en el m
 
 > <small>(ADICIONADA, P.O. 26 DE MARZO DE 2018)</small>
 
-LXXXII.- Las demás qué les señalen las leyes y reglamentos municipales.
+LXXXII.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -1109,53 +1109,55 @@ I.- Cumplir y hacer cumplir en el Municipio la presente Ley, las leyes y demás 
 
 II.- Planear, programar, presupuestar, coordinar y evaluar el desempeño de las unidades administrativas, de la administración pública municipal que se creen por acuerdo del Ayuntamiento en cumplimiento de esta ley;
 
-III.- Convocar y presidir con voz y voto de calidad las sesiones del Cabildo y ejecutar los acuerdos y decisiones del mismo;
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-IV.- Promulgar y publicar en la gaceta municipal o en el Periódico Oficial del Gobierno del Estado los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, así como los planes y programas de desarrollo municipal; publicados que sean remitirlos a los Poderes del Estado y al Archivo General del Estado;
+III.- Presentar al Órgano Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública Municipal del año anterior a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos que se establezcan legalmente.
+
+IV.- Convocar y presidir con voz y voto de calidad las sesiones del Cabildo y ejecutar los acuerdos y decisiones del mismo;
+
+V.- Promulgar y publicar en la gaceta municipal o en el Periódico Oficial del Gobierno del Estado los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, así como los planes y programas de desarrollo municipal; publicados que sean remitirlos a los Poderes del Estado y al Archivo General del Estado;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2011)</small>
 
-V.- Expedir de manera inmediata los nombramientos de los agentes municipales y de policía, una vez obtenido el resultado de la elección;
+VI.- Expedir de manera inmediata los nombramientos de los agentes municipales y de policía, una vez obtenido el resultado de la elección;
 
-VI.- Asumir la representación jurídica del ayuntamiento en los litigios, a falta de Síndico o cuando el Síndico o Síndicos estén ausentes o impedidos legalmente para ello;
+VII.- Asumir la representación jurídica del ayuntamiento en los litigios, a falta de Síndico o cuando el Síndico o Síndicos estén ausentes o impedidos legalmente para ello;
 
-VII.- Informar a la población en sesión pública y solemne que deberá celebrarse dentro de los primeros quince días del mes de diciembre de cada año, sobre el estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-En los Municipios que se rigen por usos y costumbres, los informes a que se refiere esta fracción, se realizarán en las fechas y de acuerdo a la que sus tradiciones determinen;
-
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
-
-VIII.- Proponer al ayuntamiento los proyectos de Ley de Ingresos y Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a los presupuestos realizados por las comisiones de conformidad con la fracción VII del artículo 55 de esta Ley;
+VIII.- Informar a la población en sesión pública y solemne que deberá celebrarse dentro de los primeros quince días del mes de diciembre de cada año, sobre el estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio. En los Municipios que se rigen por usos y costumbres, los informes a que se refiere esta fracción, se realizarán en las fechas y de acuerdo a la que sus tradiciones determinen;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
-IX.- Vigilar la recaudación de ingresos en todos los ramos de la administración pública municipal, con apego a lo dispuesto en la Ley de Ingresos Municipales, inspeccionar los fondos de la hacienda pública municipal, supervisar que la inversión de los recursos municipales se hagan con estricto apego al presupuesto de egresos y a las leyes correspondientes y a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, y en su caso, autorizar los estados financieros del Municipio;
+IX.- Proponer al ayuntamiento los proyectos de Ley de Ingresos y Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a los presupuestos realizados por las comisiones de conformidad con la fracción VII del artículo 55 de esta Ley;
 
-X.- Proponer al Ayuntamiento las comisiones en las que deben actuar sus integrantes;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+X.- Vigilar la recaudación de ingresos en todos los ramos de la administración pública municipal, con apego a lo dispuesto en la Ley de Ingresos Municipales, inspeccionar los fondos de la hacienda pública municipal, supervisar que la inversión de los recursos municipales se hagan con estricto apego al presupuesto de egresos y a las leyes correspondientes y a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, y en su caso, autorizar los estados financieros del Municipio;
+
+XI.- Proponer al Ayuntamiento las comisiones en las que deben actuar sus integrantes;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-XI.- Proponer a consideración del Ayuntamiento para su aprobación los nombramientos del Secretario, Tesorero, Responsable de la Obra Pública y Contralor Interno Municipal. Los demás servidores públicos serán nombrados directamente por el Presidente Municipal;
+XII.- Proponer a consideración del Ayuntamiento para su aprobación los nombramientos del Secretario, Tesorero, Responsable de la Obra Pública y Contralor Interno Municipal. Los demás servidores públicos serán nombrados directamente por el Presidente Municipal;
 
-XII.- Ejecutar, administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano, la zonificación, la creación de reservas territoriales, el otorgamiento de licencias y permisos para uso de suelo y construcción, así como los mecanismos que se requieran para la adecuada conducción del desarrollo urbano;
+XIII.- Ejecutar, administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano, la zonificación, la creación de reservas territoriales, el otorgamiento de licencias y permisos para uso de suelo y construcción, así como los mecanismos que se requieran para la adecuada conducción del desarrollo urbano;
 
-XIII.- Elaborar el Plan Municipal de Desarrollo dentro de los seis primeros meses de su administración, así como los programas anuales de obras y servicios públicos y someterlos al Ayuntamiento para su aprobación;
+XIV.- Elaborar el Plan Municipal de Desarrollo dentro de los seis primeros meses de su administración, así como los programas anuales de obras y servicios públicos y someterlos al Ayuntamiento para su aprobación;
 
-XIV.- Promover y vigilar la organización e integración del Concejo de Desarrollo Social Municipal;
+XV.- Promover y vigilar la organización e integración del Concejo de Desarrollo Social Municipal;
 
-XV.- Promover la integración del Concejo Municipal de Protección Civil;
+XVI.- Promover la integración del Concejo Municipal de Protección Civil;
 
-XVI.- Informar durante las sesiones ordinarias del Ayuntamiento sobre el estado que guarda la administración municipal y del avance de sus programas;
+XVII.- Informar durante las sesiones ordinarias del Ayuntamiento sobre el estado que guarda la administración municipal y del avance de sus programas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XVII.- Recepcionar los recursos provenientes de los Fondos de Participaciones, Aportaciones, que le corresponda al Municipio, así como los asignados en el Decreto de Presupuesto de Egresos de la Federación, Programas, Convenios o Subsidios Federales, vigilando la correcta administración de los mismos, así como del patrimonio municipal
-
-Para lo cual deberá notificar a la Secretaría de Finanzas las cuentas bancarias productivas específicas receptoras y administradoras de los recursos señalados en el párrafo anterior.
+XVIII.- Recepcionar los recursos provenientes de los Fondos de Participaciones, Aportaciones, que le corresponda al Municipio, así como los asignados en el Decreto de Presupuesto de Egresos de la Federación, Programas, Convenios o Subsidios Federales, vigilando la correcta administración de los mismos, así como del patrimonio municipal;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-XVIII.- Expedir licencias, permisos, autorizaciones o refrendos, previa presentación del Registro Federal de Contribuyentes, cuando se trate de funcionamiento o instalación de comercios, diversiones, bailes y espectáculos públicos, previo dictamen de las comisiones respectivas.
+XIX.- Expedir licencias, permisos, autorizaciones o refrendos, previa presentación del Registro Federal de Contribuyentes, cuando se trate de funcionamiento o instalación de comercios, diversiones, bailes y espectáculos públicos, previo dictamen de las comisiones respectivas.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1165,45 +1167,45 @@ Tratándose de solicitudes de expedición de licencias para el funcionamiento de
 
 Cuando no se cuente con la autorización de la Comisión antes citada, se negará la expedición de licencia, además de notificar de lo anterior a la Comisión Nacional Bancaria y de Valores para los efectos legales que correspondan.
 
-XIX.- Expedir licencias a establecimientos que expendan bebidas alcohólicas, las que de concederse tendrán siempre el carácter de temporales, previa autorización del Cabildo y con apego a la Ley Estatal de Salud;
+XX.- Expedir licencias a establecimientos que expendan bebidas alcohólicas, las que de concederse tendrán siempre el carácter de temporales, previa autorización del Cabildo y con apego a la Ley Estatal de Salud;
 
-XX.- Resolver sobre las peticiones de los particulares en materia de permisos para el aprovechamiento y comercio en las vías públicas, con aprobación del Cabildo, las que de concederse, tendrán siempre el carácter de temporales y revocables y no serán gratuitas;
+XXI.- Resolver sobre las peticiones de los particulares en materia de permisos para el aprovechamiento y comercio en las vías públicas, con aprobación del Cabildo, las que de concederse, tendrán siempre el carácter de temporales y revocables y no serán gratuitas;
 
-XXI.- Proponer al Ayuntamiento al Concejal que deba sustituirlo en sus ausencias no mayores de quince días, o en las sesiones ordinarias que le encomiende;
+XXII.- Proponer al Ayuntamiento al Concejal que deba sustituirlo en sus ausencias no mayores de quince días, o en las sesiones ordinarias que le encomiende;
 
-XXII.- Crear en el primer año de su gestión administrativa un organismo que se denominará Comité Municipal del Sistema para el Desarrollo Integral de la Familia, y en las Agencias Municipales se denominará Subcomité Municipal del Sistema para el Desarrollo Integral de la Familia;
+XXIII.- Crear en el primer año de su gestión administrativa un organismo que se denominará Comité Municipal del Sistema para el Desarrollo Integral de la Familia, y en las Agencias Municipales se denominará Subcomité Municipal del Sistema para el Desarrollo Integral de la Familia;
 
-XXIII.- Visitar periódicamente las Agencias Municipales y de Policía y todos los demás centros de población urbanos, suburbanos y de naturaleza agraria que conformen el territorio municipal, con el objeto de verificar la eficaz prestación de los servicios públicos municipales y recibir las demandas de la población, para proponer al Cabildo las medidas de solución conducentes;
+XXIV.- Visitar periódicamente las Agencias Municipales y de Policía y todos los demás centros de población urbanos, suburbanos y de naturaleza agraria que conformen el territorio municipal, con el objeto de verificar la eficaz prestación de los servicios públicos municipales y recibir las demandas de la población, para proponer al Cabildo las medidas de solución conducentes;
 
-XXIV.- Desempeñar las funciones de Registro Civil cuando en su ámbito territorial no exista éste, en los términos del Código Civil para el Estado Libre y Soberano de Oaxaca y del reglamento de la materia;
+XXV.- Desempeñar las funciones de Registro Civil cuando en su ámbito territorial no exista éste, en los términos del Código Civil para el Estado Libre y Soberano de Oaxaca y del reglamento de la materia;
 
-XXV.- Tener bajo su mando, la Policía Preventiva Municipal en los términos del reglamento correspondiente y de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca y las leyes de la materia;
+XXVI.- Tener bajo su mando, la Policía Preventiva Municipal en los términos del reglamento correspondiente y de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca y las leyes de la materia;
 
-XXVI.- Nombrar y remover a los demás servidores de la administración pública municipal, y expedir los nombramientos respectivos;
+XXVII.- Nombrar y remover a los demás servidores de la administración pública municipal, y expedir los nombramientos respectivos;
 
-XXVII.- Ejercer las facultades que le confiere el artículo 12 de la Ley General de Sociedades Cooperativas;
+XXVIII.- Ejercer las facultades que le confiere el artículo 12 de la Ley General de Sociedades Cooperativas;
 
-XXVIII.- Autorizar los documentos de compraventa de ganado y los permisos para degüello; y
+XXIX.- Autorizar los documentos de compraventa de ganado y los permisos para degüello; y
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
-XXIX.- Celebrar acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
+XXX.- Celebrar acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 2015)</small>
 
-XXX.- Celebrar convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos;
+XXXI.- Celebrar convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos;
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-XXXI.- Tramitar y resolver las solicitudes de aclaración a que se refiriere el artículo 34 del Código Fiscal Municipal del Estado de Oaxaca; y
+XXXII.- Tramitar y resolver las solicitudes de aclaración a que se refiriere el artículo 34 del Código Fiscal Municipal del Estado de Oaxaca; y
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XXXII.- Atender los requerimientos de Información del Contralor Interno Municipal y de los Comités de contraloría social, los cuales habrán de crearse en el primer año de ejercicio.
+XXXIII.- Atender los requerimientos de información del Contralor Interno Municipal y de los Comités de contraloría social, los cuales habrán de crearse en el primer año de ejercicio.
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
-XXXIII.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
+XXXIV.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
 ###### ARTÍCULO 69.
 
@@ -1709,7 +1711,9 @@ El Municipio tendrá a su cargo la prestación, explotación, administración y 
 
 I.- Asistencia social en el ámbito de su competencia;
 
-II.- Registro Civil, a través de su Presidente Municipal; en términos del artículo 68 fracción XXIV, de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+II.- Registro Civil, a través de su Presidente Municipal; en términos del artículo 68 fracción XXV, de esta Ley;
 
 III.- Embellecimiento y conservación de los poblados, centros urbanos y obras de interés social; y
 
@@ -3135,6 +3139,14 @@ P.O. 16 DE FEBRERO DE 2018.
 
 P.O. 26 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM 1342.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES LXXX Y LXXXI Y SE ADICIONA LA FRACCIÓN LXXXII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM 1342.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES LXXX Y LXXXI Y SE ADICIONA LA FRACCIÓN LXXXII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO”.]
 
 ÚNICO. El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1472.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
