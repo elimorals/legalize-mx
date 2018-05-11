@@ -4,7 +4,7 @@ identifier: "LFPCCS"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2007-06-15"
-last_updated: "2007-06-15"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCCS"
 
 LEY FEDERAL DE PRODUCCION, CERTIFICACION Y COMERCIO DE SEMILLAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de junio de 2007.
 
@@ -152,7 +152,9 @@ IX. Promover la producción de semillas, dando prioridad a la de los cultivos co
 
 X. Promover y aceptar donativos, aportaciones, asignaciones y demás recursos para el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas;
 
-XI. Promover y apoyar la conformación y consolidación de organizaciones, asociaciones y empresas productoras y distribuidoras de semillas;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2018)</small>
+
+XI. Promover y apoyar la conformación y consolidación de organizaciones, asociaciones y empresas nacionales productoras y distribuidoras de semillas;
 
 XII. Promover y coordinar el establecimiento y operación del Sistema Nacional de Semillas y administrar el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas;
 
@@ -344,7 +346,9 @@ Las prioridades para la investigación que se establezcan en el Programa Naciona
 
 Para la utilización de los recursos provenientes del Fondo, de acuerdo a lo establecido en el párrafo anterior, será necesaria la presentación de proyectos específicos sujetos a un proceso de selección y evaluación conforme a los términos de referencia y reglas de operación que establezca la Secretaría.
 
-En los programas para el desarrollo de la investigación, capacitación, extensión y vinculación en materia de semillas, se incluirá, entre otros aspectos, la formación de recursos humanos, la creación y fortalecimiento de la capacidad nacional en materia de semillas, la generación de nuevas y mejores variedades vegetales acordes a las demandas del mercado y los requerimientos agronómicos, el aprovechamiento de variedades de uso común sobresalientes, así como al desarrollo de métodos de análisis, conservación, calificación y tecnología de semillas.
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+En los programas para el desarrollo de la investigación, capacitación, extensión y vinculación en materia de semillas, se incluirá, entre otros aspectos, la formación de recursos humanos y redes de conocimiento para la generación de empresas semilleras nacionales con apoyo de Instituciones de Enseñanza Superior y Tecnológica y Centros de Investigación, la creación y fortalecimiento de la capacidad nacional en materia de semillas, la generación de nuevas y mejores variedades vegetales acordes a las demandas del mercado y los requerimientos agronómicos, el aprovechamiento de variedades de uso común sobresalientes, así como al desarrollo de métodos de análisis, conservación, calificación y tecnología de semillas.
 
 ###### Artículo 19.
 
@@ -603,3 +607,11 @@ e) Los bienes que formen parte de la liquidación, serán enajenados prioritaria
 México, D.F., a 26 de abril de 2007.- Dip. María Elena Alvarez Bernal, Vicepresidenta.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. María Eugenia Jiménez Valenzuela, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 4 Y 18 DE LA LEY FEDERAL DE PRODUCCIÓN, CERTIFICACIÓN Y COMERCIO DE SEMILLAS”]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
