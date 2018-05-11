@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2017-12-29"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -1945,11 +1945,11 @@ VI. Tratándose de asentamientos humanos establecidos en tierras de régimen eji
 
 VII. Las autorizaciones de regularización que expidan los ayuntamientos, se tipificarán como fraccionamientos habitacionales urbanos de tipo popular y de urbanización progresiva.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 119.
 
-Cuando para proceder a una regularización de un asentamiento humano irregular, sólo falte cubrir el requisito de entregar las áreas de donación y no existan terrenos baldíos en el asentamiento o sean insuficientes, las mismas o el faltante, según corresponda, se podrán convenir con el Ayuntamiento, para su pago a valor comercial o la entrega de la superficie correspondiente en ubicación distinta al asentamiento.
+Cuando para proceder a una regularización de un asentamiento humano irregular, sólo falte cubrir el requisito de entregar las áreas de donación y no existan terrenos baldíos en el asentamiento o sean insuficientes las mismas o el faltante, según corresponda, se podrá convenir con el Ayuntamiento, la entrega de la superficie correspondiente, en ubicación distinta al asentamiento.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
@@ -3665,11 +3665,11 @@ La construcción de vivienda multifamiliar o edificios habitacionales dentro de 
 
 Las construcciones en los desarrollos en condominio, además de cumplir con lo dispuesto en el párrafo anterior, deberán respetar lo previsto en este Código, en cuanto a las densidades y características de las obras, continuidad de vialidades existentes y las previstas en los programas de desarrollo urbano, así como a la extensión de las áreas libres, de estacionamiento y de uso común.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 297.
 
-Las áreas de donación en los conjuntos habitacionales, fraccionamientos habitacionales de cualquier tipo, condominios con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial, industrial y cementerios no podrán ser objeto de enajenación, salvo en los casos previstos en el presente Código.
+Las áreas de donación en los conjuntos habitacionales, fraccionamientos habitacionales de cualquier tipo, condominios con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial, industrial y cementerios, en ningún caso podrán ser objeto de enajenación.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2013)</small>
 
@@ -3681,21 +3681,15 @@ Las características que deberán cumplir las áreas de donación para equipamie
 
 I. Ubicarse dentro del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial, industrial o cementerio;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-II. Integrar un solo polígono, cuando la superficie no rebase los 5,000 metros cuadrados, y en caso de ser mayor, se determinará por la dependencia municipal en función del uso que se le pretenda dar por el Ayuntamiento, para lo cual deberá observar:
+II. Entregarse en una misma superficie las que correspondan al Gobierno Municipal, igualmente las que correspondan al Gobierno del Estado, pero además, ambas superficies deberán quedar integradas en un solo polígono.
 
-a. Las disposiciones de los programas de desarrollo urbano de la zona en que se localice;
+En aquéllos supuestos de que las áreas de donación deban entregarse en lugar distinto al fraccionamiento, igualmente serán integradas en un solo polígono las áreas de donación en favor del Gobierno Municipal y las áreas de donación en favor del Gobierno Estatal. Estos terrenos deberán destinarse a servicios de asistencia social, educación, salud, cultura o deporte;
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-b. Las necesidades de equipamiento urbano de la población que habitará en la zona en donde se ubique;
-
-c. Las determinaciones técnicas del Sistema Normativo de Equipamiento Urbano;
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
-
-III. Preferentemente al centro geométrico del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial o industrial;
+III. Quedar al centro geométrico del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial o industrial;
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
@@ -4071,7 +4065,7 @@ i) Caseta de vigilancia.
 
 Este tipo de fraccionamientos deberán ubicarse fuera de los límites del área urbana, siendo factible su establecimiento en las zonas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos tipo campestres podrán autorizarse fuera de los límites del centro de población, siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría y en sentido positivo, de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
 
-En este caso el Ayuntamiento podrá recibir las áreas de donación en especie o determinarle el valor comercial, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente, cuyo objetivo será la creación de un fideicomiso para la adquisición de reserva territorial municipal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 322.
 
@@ -4091,7 +4085,7 @@ IV. Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado
 
 Este tipo de fraccionamientos se deberán ubicar fuera de los límites de las áreas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos rústicos tipo granja se podrán autorizar siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría, en sentido positivo de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
 
-En este caso el Ayuntamiento podrá recibir las áreas de donación en especie o determinarle el valor comercial, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente, cuyo objetivo será la creación de un fideicomiso para la adquisición de reserva territorial municipal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE MAYO DE 2018)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2016)</small>
 
@@ -4189,7 +4183,7 @@ i. Placas de nomenclatura, señalamientos viales y de tránsito en los cruces de
 
 j. Caseta de vigilancia.
 
-En este caso el Ayuntamiento podrá recibir el área de donación en especie o determinarle el valor comercial, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente, para la creación de un fideicomiso para la adquisición de reserva territorial municipal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 327.
 
@@ -4231,11 +4225,13 @@ Quedan exentos de las donaciones señaladas en las fracciones anteriores los cas
 
 Las superficies de donación para equipamiento urbano y para áreas verdes, estatales o municipales, se entregarán en los lugares y áreas que de acuerdo al tipo de fraccionamiento o condominio autorizado le sean señalados, debidamente urbanizadas y mediante escritura pública inscrita en el Registro Público de la Propiedad Raíz y del Comercio que costeará el interesado.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 330.
 
-En el caso de nuevos condominios habitacionales, comerciales o industriales de estructura horizontal, vertical o mixto en lotes de fraccionamientos que sean compatibles, que hayan sido establecidos con anterioridad, que hubiesen satisfecho la obligación de donar o pagar terrenos para equipamiento urbano o de donar terrenos para áreas verdes y que se ajusten a las determinaciones sobre el uso y la densidad habitacional del suelo que señalen los programas de desarrollo urbano vigentes para cada caso, no estarán obligados a hacer las donaciones a que se refiere el artículo precedente. La comprobación de haber satisfecho lo anterior, será acreditada por la autoridad estatal o municipal, por medios fehacientes y verificables.
+En el caso de nuevos condominios habitacionales, comerciales o industriales de estructura horizontal, vertical o mixto en lotes de fraccionamientos que sean compatibles, que hayan sido establecidos con anterioridad, que cumplieron con la obligación de donar terrenos para equipamiento urbano o de donar terrenos para áreas verdes y que se ajusten a las determinaciones sobre el uso y la densidad habitacional del suelo que señalen los programas de desarrollo urbano vigentes para cada caso, no están obligados a hacer las donaciones a que se refiere el artículo precedente. La comprobación de haber satisfecho lo anterior, será acreditada por la autoridad estatal o municipal, por medios fehacientes y verificables.
+
+En los supuestos de que no existan las áreas de donación para equipamiento urbano, en razón de que en su momento no se acreditó ese requisito, se deberán de entregar estos terrenos en un lugar distinto del mismo.
 
 ### Capítulo II. De las Autorizaciones
 
@@ -4337,11 +4333,9 @@ De las autorizaciones que se otorguen, la Dependencia Municipal remitirá una co
 
 El Ayuntamiento, cuando el caso así lo requiera, al otorgar autorizaciones para el establecimiento de Desarrollos, fijará con base en los ordenamientos aplicables, las zonas de restricción, que por ser usual en ciertas colonias y poblaciones o por reglamentación, los fraccionadores deban dejar hacia las vías públicas o colindancias.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
 ###### ARTÍCULO 342.
 
-Si el área de donación Estatal o Municipal destinada para equipamiento urbano, de cualquier tipo de Desarrollo, con excepción de las destinadas para áreas verdes, fuere menor a una superficie de mil metros cuadrados, podrá determinarse el valor comercial de la misma, a efecto de que el propietario lo pague a la Secretaría de Finanzas y Administración o a la Tesorería Municipal correspondiente. Este recurso deberá ser destinado para la creación de un fideicomiso para la adquisición de reserva territorial Estatal o Municipal según corresponda. En la integración y operatividad del fideicomiso se deberá garantizar la participación ciudadana.
+(DEROGADO, P.O. 11 DE MAYO DE 2018)
 
 ###### ARTÍCULO 343.
 
@@ -5570,5 +5564,11 @@ QUINTO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado,
 P.O. 29 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 413 POR EL QUE “SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 2, LA FRACCIÓN III DEL ARTÍCULO 39, LA FRACCIÓN VIII DEL ARTÍCULO 281 BIS, LA FRACCIÓN VI DEL ARTÍCULO 281 TER, LA FRACCIÓN II DEL ARTÍCULO 288, EL INCISO I) DE LA FRACCIÓN IV DEL ARTÍCULO 321, LA FRACCIÓN IV DEL ARTÍCULO 322, EL ARTÍCULO 342, LA FRACCIÓN IV DEL ARTÍCULO 349, LA FRACCIÓN II DEL ARTÍCULO 428, EL PRIMER PÁRRAFO DEL ARTÍCULO 444 Y LA FRACCIÓN IV DEL ARTÍCULO 446 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 555.- SE REFORMAN LOS ARTÍCULOS 119, 297 Y 330; Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 321, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 322, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 326 Y EL ARTÍCULO 342 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
