@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2017-12-08"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 19 DE JUNIO DE 2017.
 
@@ -375,6 +375,16 @@ La Secretaría de Salud auxiliará, cuando lo soliciten los estados, en las acci
 La Secretaria de Salud promoverá la participación, en el sistema nacional de salud, de los prestadores de servicios de salud, de los sectores público, social y privado, de sus trabajadores y de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+
+(NOTA: EL 21 DE SEPTIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE SEPTIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+ARTICULO 10 BIS.- El Personal médico y de enfermería que forme parte del Sistema Nacional de Salud, podrán ejercer la objeción de conciencia y excusarse de participar en la prestación de servicios que establece esta Ley.
+
+Cuando se ponga en riesgo la vida del paciente o se trate de una urgencia médica, no podrá invocarse la objeción de conciencia, en caso contrario se incurrirá en la causal de responsabilidad profesional.
+
+El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8835,3 +8845,19 @@ D.O.F. 8 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 79 DE LA LEY GENERAL DE SALUD".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 10 BIS A LA LEY GENERAL DE SALUD".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+(NOTA: EL 21 DE SEPTIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2018, DECLARÓ LA INVALIDEZ DEL TRANSITORIO SEGUNDO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE SEPTIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+SEGUNDO.- LA SECRETARÍA TENDRÁ UN PLAZO DE 90 DÍAS NATURALES POSTERIORES A LA PUBLICACIÓN DE ESTE DECRETO PARA EMITIR LAS DISPOSICIONES Y LINEAMIENTOS NECESARIOS PARA EL EJERCICIO DE ESTE DERECHO EN LOS CASOS QUE ESTABLECE LA LEY.
+
+(NOTA: EL 21 DE SEPTIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2018, DECLARÓ LA INVALIDEZ DEL TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE SEPTIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+TERCERO.- EL CONGRESO DE LA UNIÓN Y LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS, EN EL ÁMBITO DE SUS RESPECTIVAS COMPETENCIAS, REALIZARÁN LAS MODIFICACIONES LEGISLATIVAS CONFORME A LO DISPUESTO EN EL PRESENTE DECRETO, DENTRO DE LOS 180 DÍAS NATURALES SIGUIENTES A SU ENTRADA EN VIGOR.
+
+Cuarto.- Las acciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con los recursos financieros, humanos y materiales con los que actualmente cuente la Secretaría de Salud.
