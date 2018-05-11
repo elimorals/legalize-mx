@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2016-12-01"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -45,6 +45,22 @@ LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES.
 ###### Artículo 1o.
 
 El Escudo, la Bandera y el Himno Nacionales, son los Símbolos Patrios de los Estados Unidos Mexicanos. La presente Ley es de orden público y regula sus características y difusión, así como el uso del Escudo y de la Bandera, los honores a esta última y la ejecución del Himno.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 1o. Bis.
+
+Para efectos de la presente Ley, se entenderá por:
+
+I. Autoridades: a los entes públicos que integran a los poderes Ejecutivo, Legislativo y Judicial de los tres órdenes de gobierno, así como los entes públicos que conforme a las disposiciones jurídicas de dichos órdenes de gobierno les confieren autonomía de éstos;
+
+II. Instituciones: a las personas morales que no sean Autoridades;
+
+III. Uso Oficial: a la utilización de los Símbolos Patrios por las Autoridades;
+
+IV. Abanderamiento: a la entrega oficial de la Bandera Nacional a las Autoridades e Instituciones;
+
+V. Autoridad Encargada de Abanderar: al representante del Poder Ejecutivo de la Federación, de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
 
 ### CAPITULO SEGUNDO. De las características de los Símbolos Patrios
 
@@ -76,39 +92,47 @@ La letra y música del Himno Nacional son las que aparecen en el capítulo espec
 
 Toda reproducción del Escudo Nacional deberá corresponder fielmente al modelo a que se refiere el Artículo 2o. de esta Ley, el cual no podrá variarse o alterarse bajo ninguna circunstancia.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 6o.
 
-Con motivo de su uso en monedas, medallas oficiales, sellos, papel oficial y similares, en el Escudo Nacional sólo podrán figurar, por disposiciones de la Ley o de la Autoridad, las palabras "Estados Unidos Mexicanos", que formarán el semicírculo superior.
+Las Autoridades podrán hacer Uso Oficial del Escudo Nacional sin autorización de la Secretaría de Gobernación. Asimismo, las Instituciones y personas físicas, previa autorización de la Secretaría de Gobernación y apegándose estrictamente a lo establecido en los artículos 2o. y 5o. de la presente Ley, podrán reproducir el Escudo Nacional cuando contribuya al culto y respeto de dicho Símbolo Patrio, así como a difundir su origen, historia y significado.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2008)</small>
-
-El Escudo Nacional sólo podrá figurar en los vehículos que use el Presidente de la República, en el papel de las dependencias de los Poderes Federales y Estatales, así como de las municipalidades, pero queda prohibido utilizarlo para documentos particulares. El Escudo Nacional sólo podrá imprimirse y usarse en la papelería oficial, por acuerdo de la autoridad correspondiente apegándose estrictamente a lo establecido por los artículos 2o. y 5o. de la presente Ley.
+Cuando las Autoridades hagan Uso Oficial del Escudo Nacional en monedas, medallas, sellos, papel, edificios, vehículos y sitios de Internet, en la reproducción de dicho Símbolo Patrio sólo se podrán inscribir las palabras "Estados Unidos Mexicanos", las cuales deben formar un semicírculo superior en relación con el Escudo Nacional.
 
 ### CAPITULO CUARTO. Del Uso, Difusión y Honores de la Bandera Nacional
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 7o.
 
-Previa autorización de la Secretaría de Gobernación, las autoridades, las instituciones o agrupaciones y los planteles educativos, podrán inscribir en la Bandera Nacional sus denominaciones, siempre que esto contribuya al culto del Símbolo Patrio. Queda prohibido hacer cualquiera otra inscripción en la Bandera Nacional.
+Las Autoridades podrán inscribir su denominación en la Bandera Nacional, siempre que ello contribuya al culto y respeto de dicho Símbolo Patrio, no invada el Escudo Nacional y el ejemplar se apegue estrictamente a lo establecido en el artículo 3o. de la presente Ley.
+
+Las Instituciones, previa autorización de la Secretaría de Gobernación, podrán inscribir su denominación o razón social en la Bandera Nacional conforme a lo establecido en el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 8o.
 
-Corresponde a la Secretaría de Gobernación promover y regular el abanderamiento de las instituciones públicas y de las agrupaciones privadas legalmente constituidas.
+Corresponde a la Secretaría de Gobernación promover y regular, a través de lineamientos, el Abanderamiento, en términos de esta Ley y su Reglamento.
 
 ###### Artículo 9o.
 
 En festividades cívicas o ceremonias oficiales en que esté presente la Bandera Nacional, deberán rendírsele los honores que le corresponden en los términos previstos en esta Ley y los Reglamentos aplicables; honores que, cuando menos, consistirán en el saludo civil simultáneo de todos los presentes, de acuerdo con el Artículo 14 de esta misma Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 10.
 
-El 24 de febrero se establece solemnemente como Día de la Bandera. En este día se deberán transmitir programas especiales de radio y televisión destinados a difundir la historia y significación de la Bandera Nacional. En esta fecha, los poderes de los tres órdenes de gobierno realizarán jornadas cívicas en conmemoración, veneración y exaltación de la Bandera Nacional.
+El 24 de febrero se establece solemnemente como Día de la Bandera. En este día se deberán transmitir programas especiales de radio y televisión destinados a difundir la historia y significación de la Bandera Nacional. En esta fecha, las Autoridades realizarán jornadas cívicas en conmemoración, veneración y exaltación de la Bandera Nacional.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 11.
 
-En las instituciones de las dependencias y entidades civiles de la Administración Pública Federal, de los gobiernos de los Estados y de los Municipios se rendirán honores a la Bandera Nacional en los términos de esta Ley y con carácter obligatorio los días 24 de febrero, 15 y 16 de septiembre y 20 de noviembre de cada año, independientemente del izamiento del lábaro patrio que marca el calendario del artículo 18, acto que podrá hacerse sin honores.
+En los inmuebles de las Autoridades que por sus características lo permitan, se deberán rendir honores a la Bandera Nacional con carácter obligatorio los días 24 de febrero, 15 y 16 de septiembre y 20 de noviembre de cada año.
 
-Las instituciones públicas y agrupaciones legalmente constituidas, podrán rendir honores a la Bandera Nacional, observándose la solemnidad y el ritual que se describen en esta Ley. En estas ceremonias se deberá interpretar, además, el Himno Nacional.
+Las Autoridades y las Instituciones podrán rendir honores a la Bandera Nacional, observando la solemnidad y el ritual descrito en los artículos 9o., 12, 14 y 42 de esta Ley y su Reglamento. En dichos honores se deberá interpretar el Himno Nacional.
 
 ###### Artículo 12.
 
@@ -122,301 +146,243 @@ La Bandera Nacional saludará, mediante ligera inclinación, sin tocar el suelo,
 
 El saludo civil a la Bandera Nacional se hará en posición de firme, colocando la mano derecha extendida sobre el pecho, con la palma hacia abajo, a la altura del corazón. Los varones saludarán, además con la cabeza descubierta. El Presidente de la República, como Jefe Supremo de las fuerzas armadas, la saludará militarmente.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 15.
 
-En las fechas declaradas solemnes para toda la Nación, deberá izarse la Bandera Nacional, a toda o a media asta, según se trate de festividad o duelo, respectivamente, en escuelas, templos y demás edificios públicos, así como en la sede de las representaciones diplomáticas y consulares de México. Todas las naves aéreas y marítimas mexicanas, portarán la Bandera Nacional y la usarán conforme a las Leyes y Reglamentos aplicables.
+En los edificios sede de las Autoridades y de las representaciones diplomáticas y consulares de México en el extranjero, así como en los edificios de las Autoridades e Instituciones que presten servicios educativos y médicos y en las oficinas migratorias, aduanas, capitanías de puerto, aeropuertos, y en plazas públicas que las propias Autoridades determinen dentro de su territorio, deberá izarse la Bandera Nacional en las fechas establecidas en el artículo 18 de esta Ley y conforme a dicha disposición. Todas las naves aéreas y marítimas mexicanas portarán la Bandera Nacional y la usarán conforme a las Leyes y Reglamentos aplicables.
 
-Las autoridades educativas Federales, Estatales y Municipales, dispondrán que en las instituciones de enseñanza elemental, media y superior, se rindan honores a la Bandera Nacional los lunes, al inicio de labores escolares o a una hora determinada en ese día durante la mañana, así como al inicio y fin de cursos.
+En los edificios de las Autoridades e Instituciones que prestan servicios educativos, deberá rendirse honores a la Bandera Nacional los lunes, al inicio de las labores escolares o en una hora que las propias Autoridades e Instituciones determinen en ese día, así como al inicio y fin del ciclo escolar.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 16.
 
-La Bandera Nacional se izará diariamente en los edificios sede de los Poderes de la Unión, en las oficinas de Migración, Aduanas, Capitanías de Puerto, Aeropuertos internacionales; en las Representaciones diplomáticas y consulares en el extranjero y en el asta monumental de la Plaza de la Constitución de la Capital de la República.
+En los edificios y lugares a que se refiere el primer párrafo del artículo 15 de esta Ley, la Bandera Nacional permanecerá izada todos los días del año, salvo en casos fortuitos o de fuerza mayor.
 
 ###### Artículo 17.
 
 Las Banderas para los inmuebles a que se refieren los artículos anteriores, tendrán las dimensiones y la conservación adecuadas a su uso y dignidad, y se confiarán al cuidado del personal que para el efecto se designe, el cual vigilará que en las fechas correspondientes sean izadas y arriadas puntualmente, con los honores relativos, en donde fuere posible.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 18.
 
-En los términos del artículo 15 de esta Ley, la Bandera Nacional deberá izarse:
+En los edificios y lugares a que se refiere el primer párrafo del artículo 15 de esta Ley, la Bandera Nacional deberá izarse:
 
-a) A toda asta en las siguientes fechas y conmemoraciones:
+I. A toda asta en las fechas y conmemoraciones siguientes:
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+1. 16 de enero:
 
-16 de enero:
+Aniversario del nacimiento de Mariano Escobedo, en 1826;
 
-Aniversario del nacimiento de Mariano Escobedo, en 1826.
+2. 21 de enero:
 
-21 de enero:
+Aniversario del nacimiento de Ignacio Allende, en 1769;
 
-Aniversario del nacimiento de Ignacio Allende, 1779.
+3. 26 de enero:
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+Aniversario del nacimiento de Justo Sierra Méndez, en 1848;
 
-26 de enero:
+4. 1 de febrero:
 
-Aniversario del nacimiento de Justo Sierra Méndez, en 1848.
+Apertura del segundo período de sesiones ordinarias del Congreso de la Unión;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 3 DE FEBRERO DE 2006)</small>
+5. 5 de febrero:
 
-1 de febrero:
+Aniversario de la promulgación de las Constituciones de 1857 y 1917;
 
-Apertura del segundo periodo de sesiones ordinarias del Congreso de la Unión.
+6. 19 de febrero:
 
-5 de febrero:
+"Día del Ejército Mexicano";
 
-Aniversario de la promulgación de las Constituciones de 1857 y 1917.
+7. 24 de febrero:
 
-19 de febrero:
+"Día de la Bandera";
 
-"Día del Ejército Mexicano".
+8. 1o. de marzo:
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+Aniversario de la proclamación del Plan de Ayutla, en 1854;
 
-24 de febrero:
+9. 18 de marzo:
 
-“Día de la Bandera”.
+Aniversario de la Expropiación Petrolera, en 1938;
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+10. 21 de marzo:
 
-1o. de marzo:
+Aniversario del nacimiento de Benito Juárez, en 1806;
 
-Aniversario de la proclamación del Plan de Ayutla.
+11. 26 de marzo:
 
-15 de marzo: (DEROGADO, D.O.F. 3 DE FEBRERO DE 2006)
+Día de la Promulgación del Plan de Guadalupe, en 1913;
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+12. 2 de abril:
 
-18 de marzo:
+Aniversario de la Toma de Puebla, en 1867;
 
-Aniversario de la Expropiación Petrolera, en 1938.
+13. 1o. de mayo:
 
-21 de marzo:
+"Día del Trabajo";
 
-Aniversario del nacimiento de Benito Juárez en 1806.
+14. 5 de mayo:
 
-26 de marzo:
+Aniversario de la Victoria sobre el Ejército Francés en Puebla, en 1862;
 
-Día de la Promulgación del Plan de Guadalupe.
+15. 8 de mayo:
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+Aniversario del nacimiento de Miguel Hidalgo y Costilla, iniciador de la Independencia de México, en 1753;
 
-2 de abril:
+16. 15 de mayo:
 
-Aniversario de la Toma de Puebla, en 1867.
+Aniversario de la Toma de Querétaro, por las Fuerzas de la República, en 1867;
 
-15 de abril: (DEROGADO, D.O.F. 9 DE MAYO DE 1995)
+17. 1o. de junio:
 
-1o. de mayo:
+"Día de la Marina Nacional";
 
-"Día del Trabajo".
+18. 21 de junio:
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+Aniversario de la Victoria de las armas nacionales sobre el Imperio, en 1867;
 
-5 de mayo:
+19. 13 de agosto:
 
-Aniversario de la Victoria sobre el Ejército Francés en Puebla, en 1862.
+Aniversario de la firma de los Tratados de Teoloyucan, en 1914;
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+20. 19 de agosto:
 
-8 de mayo:
+Aniversario de la instalación de la Suprema Junta Nacional Americana de Zitácuaro, en 1811;
 
-Aniversario del nacimiento, en 1753, de Miguel Hidalgo y Costilla, iniciador de la Independencia de México.
+21. 1o. de septiembre:
 
-15 de mayo:
+Apertura del primer período de sesiones ordinarias del Congreso de la Unión;
 
-Aniversario de la Toma de Querétaro, por las Fuerzas de la República, en 1867.
+22. 11 de septiembre:
 
-1o. de junio:
+Aniversario de la Victoria sobre el Ejército Español en Tampico, en 1829;
 
-"Día de la Marina Nacional".
+23. 14 de septiembre:
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+Incorporación del estado de Chiapas al Pacto Federal, en 1824;
 
-21 de junio:
+24. 15 de septiembre:
 
-Aniversario de la Victoria de las armas nacionales sobre el Imperio, en 1867.
+Conmemoración del Grito de Independencia;
 
-> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2014)</small>
+25. 16 de septiembre:
 
-13 de agosto:
+Aniversario del inicio de la Independencia de México, en 1810;
 
-Aniversario de la firma de los Tratados de Teoloyucan, en 1914.
+26. 27 de septiembre:
 
-> <small>(ADICIONADO, D.O.F. 17 DE ENERO DE 2012)</small>
+Aniversario de la Consumación de la Independencia, en 1821;
 
-19 de agosto:
+27. 30 de septiembre:
 
-Aniversario de la instalación de la Suprema Junta Nacional Americana de Zitácuaro, en 1811.
+Aniversario del nacimiento de José María Morelos, en 1765;
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+28. 12 de octubre:
 
-1o. de septiembre:
+"Día de la Raza" y Aniversario del Descubrimiento de América, en 1492;
 
-Apertura del primer periodo de sesiones ordinarias del Congreso de la Unión.
+29. 22 de octubre:
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+Aniversario de la constitución del Ejército Insurgente Libertador, en 1810;
 
-11 de septiembre:
+30. 23 de octubre:
 
-Aniversario de la Victoria sobre el Ejército Español en Tampico, en 1829.
+"Día Nacional de la Aviación";
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+31. 24 de octubre:
 
-14 de septiembre:
+"Día de las Naciones Unidas";
 
-Incorporación del estado de Chiapas al Pacto Federal.
+32. 30 de octubre:
 
-15 de septiembre:
+Aniversario del nacimiento de Francisco I. Madero, en 1873;
 
-Conmemoración del Grito de Independencia.
+33. 6 de noviembre:
 
-16 de septiembre:
+Conmemoración de la promulgación del Acta Solemne de la Declaratoria de Independencia de la América Septentrional por el Primer Congreso de Anáhuac sancionada en el Palacio de Chilpancingo, en 1813;
 
-Aniversario del inicio de la Independencia de México, en 1810.
+34. 20 de noviembre:
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+Aniversario del inicio de la Revolución Mexicana, en 1910;
 
-27 de septiembre:
+35. 23 de noviembre:
 
-Aniversario de la Consumación de la Independencia, en 1821.
+"Día de la Armada de México";
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+36. 29 de diciembre:
 
-30 de septiembre:
+Aniversario del nacimiento de Venustiano Carranza, en 1859, y
 
-Aniversario del nacimiento de José María Morelos, en 1765.
+37. Los días de clausura de los periodos de sesiones ordinarias del Congreso de la Unión.
 
-12 de octubre:
+II. A media asta en las fechas y conmemoraciones siguientes:
 
-"Día de la Raza" y Aniversario del Descubrimiento de América, en 1492.
+1. 14 de febrero:
 
-> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+Aniversario de la muerte de Vicente Guerrero, en 1831;
 
-22 de octubre:
+2. 22 de febrero:
 
-Aniversario de la constitución del Ejército Insurgente Libertador, en 1810.
+Aniversario de la muerte de Francisco I. Madero, en 1913;
 
-23 de octubre:
+3. 28 de febrero:
 
-"Día Nacional de la Aviación".
+Aniversario de la muerte de Cuauhtémoc, en 1525;
 
-24 de octubre:
+4. 10 de abril:
 
-"Día de las Naciones Unidas".
+Aniversario de la muerte de Emiliano Zapata, en 1919;
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+5. 21 de abril:
 
-30 de octubre:
+Aniversario de la gesta heroica de la Defensa del Puerto de Veracruz, en 1914;
 
-Aniversario del nacimiento de Francisco I. Madero, en 1873
+6. 2 de mayo:
 
-1o. de noviembre: (DEROGADO, D.O.F. 9 DE MAYO DE 1995)
+Conmemoración de la muerte de los pilotos de la Fuerza Aérea Expedicionaria Mexicana, Escuadrón 201, en 1945;
 
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2013)</small>
+7. 21 de mayo:
 
-6 de noviembre:
+Aniversario de la muerte de Venustiano Carranza, en 1920;
 
-Conmemoración de la promulgación del Acta Solemne de la Declaratoria de Independencia de la América Septentrional por el Primer Congreso de Anáhuac sancionada en el Palacio de Chilpancingo, en 1813.
+8. 22 de mayo:
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+Aniversario de la muerte de Mariano Escobedo, en 1902;
 
-20 de noviembre:
+9. 17 de julio:
 
-Aniversario del inicio de la Revolución Mexicana, en 1910.
+Aniversario de la muerte del General Álvaro Obregón, en 1928;
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
+10. 18 de julio:
 
-23 de noviembre:
+Aniversario de la muerte de Benito Juárez, en 1872;
 
-"Día de la Armada de México".
+11. 30 de julio:
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1991)</small>
+Aniversario de la muerte de Miguel Hidalgo y Costilla, en 1811;
 
-29 de diciembre:
+12. 12 de septiembre:
 
-Aniversario del nacimiento de Venustiano Carranza, en 1859.
+Conmemoración de la gesta heroica del Batallón de San Patricio, en 1847;
 
-Los días de clausura de los periodos de sesiones ordinarias del Congreso de la Unión.
+13. 13 de septiembre:
 
-b) A media asta en las siguientes fechas y conmemoraciones:
+Aniversario del sacrificio de los Niños Héroes de Chapultepec, en 1847;
 
-14 de febrero:
+14. 2 de octubre:
 
-Aniversario de la muerte de Vicente Guerrero en 1831.
+Aniversario de los caídos en la lucha por la democracia de la Plaza de las Tres Culturas en Tlatelolco, en 1968;
 
-22 de febrero:
+15. 7 de octubre:
 
-Aniversario de la muerte de Francisco I. Madero en 1913.
+Conmemoración del sacrificio del senador Belisario Domínguez, en 1913, y
 
-28 de febrero:
+16. 22 de diciembre:
 
-Aniversario de la muerte de Cuauhtémoc en 1525.
-
-10 de abril:
-
-Aniversario de la muerte de Emiliano Zapata en 1919.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
-
-21 de abril:
-
-Aniversario de la gesta heroica de la Defensa del Puerto de Veracruz.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2005)</small>
-
-2 de mayo:
-
-Conmemoración de la muerte de los pilotos de la Fuerza Aérea Expedicionaria Mexicana, Escuadrón 201 en 1945.
-
-21 de mayo:
-
-Aniversario de la muerte de Venustiano Carranza en 1920.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
-
-22 de mayo:
-
-Aniversario de la muerte de Mariano Escobedo, en 1902.
-
-17 de julio:
-
-Aniversario de la muerte del General Alvaro Obregón en 1928.
-
-18 de julio:
-
-Aniversario de la muerte de Benito Juárez en 1872.
-
-30 de julio:
-
-Aniversario de la muerte de Miguel Hidalgo y Costilla en 1811.
-
-> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2006)</small>
-
-12 de septiembre:
-
-Conmemoración de la gesta heroica del Batallón de San Patricio en 1847.
-
-13 de septiembre:
-
-Aniversario del sacrificio de los Niños Héroes de Chapultepec, en 1847.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2011)</small>
-
-2 de octubre:
-
-Aniversario de los caídos en la lucha por la democracia de la Plaza de las Tres Culturas en Tlatelolco, en 1968.
-
-7 de octubre:
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2011)</small>
-
-Conmemoración del sacrificio del senador Belisario Domínguez, en 1913.
-
-22 de diciembre:
-
-Aniversario de la muerte de José María Morelos en 1815.
+Aniversario de la muerte de José María Morelos, en 1815.
 
 ###### Artículo 19.
 
@@ -424,7 +390,7 @@ En acontecimientos de excepcional importancia para el país, el Presidente de la
 
 ###### Artículo 20.
 
-En los casos a que se refieren los artículos anteriores, con la salvedad de lo dispuesto para instalaciones militares, planteles educativos y embarcaciones en el artículo 15, la Bandera Nacional será izada a las ocho horas y arriada a las dieciocho.
+(DEROGADO, D.O.F. 11 DE MAYO DE 2018)
 
 ###### Artículo 21.
 
@@ -438,43 +404,49 @@ Cuando una Bandera Nacional sea condecorada, la insignia respectiva se le prende
 
 En los actos oficiales de carácter internacional que se efectúen en la República, sólo podrán izarse o concurrir las banderas de los países con los que el Gobierno Mexicano sostenga relaciones diplomáticas, y se les tributarán los mismos honores que a la Bandera Nacional. En actos internacionales de carácter deportivo, cultural o de otra naturaleza, en que México sea país sede, podrán izarse o concurrir aún las banderas de los países con los que México no mantenga relaciones diplomáticas, con apego al ceremonial correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 23 Bis.
+
+En los eventos deportivos de carácter internacional que se celebren dentro del territorio nacional, el Abanderamiento y la ejecución del Himno Nacional, así como el uso de la Bandera Nacional, se ajustarán a lo previsto en el presente ordenamiento y a su Reglamento.
+
 ###### Artículo 24.
 
 Cuando a una ceremonia concurran la Bandera Nacional y una o más banderas de países extranjeros, se harán primero los honores a la Nacional y, en seguida, a las demás, en el orden que corresponda.
 
 La Bandera Nacional ocupará el lugar de honor cuando estén presentes una o más banderas extranjeras.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 25.
 
-En la entrega oficial de Bandera a organizaciones o instituciones civiles, el personal de la corporación o de la institución que la reciba, tomará la formación adecuada al lugar donde se efectúe la ceremonia, y observará, según el caso, las siguientes reglas:
+Para el Abanderamiento se observará lo siguiente:
 
-I.- Si la entrega tiene lugar a campo abierto, formará en línea de tres filas en orden de revista; si es grupo montado, en línea de secciones por tres, en el lugar que se ordene.
+I. La Autoridad Encargada de Abanderar tomará la Bandera Nacional y se dirigirá al representante de la Autoridad o Institución quien recibirá el Símbolo Patrio, de conformidad con lo siguiente:
 
-II.- Si la ceremonia se efectúa en un salón, patio o cualquier otro sitio que no reúna las condiciones necesarias para las formaciones antes indicadas, el personal de la organización o instituto podrá adaptarse a las características del lugar.
+"Ciudadanos (o jóvenes, niños, alumnos, o la denominación o razón social que corresponda a la Autoridad o Institución): Vengo, en nombre de México, a encomendar a su patriotismo, esta Bandera que simboliza su independencia, su honor, sus instituciones y la integridad de su territorio. ¿Protestan honrarla y defenderla con lealtad y constancia?".
 
-III.- Si hay banda de guerra, se mandará tocar "Atención", a cuyo toque, el abanderado, escoltado por cuatro miembros designados con anterioridad, se colocará frente al encargado de entregar la Bandera, quien será recibido por una comisión especial presidida por el director o representante de la organización o institución. Si no hubiere banda de guerra, los toques serán sustituidos por las órdenes de "Atención" y "Escolta": "Paso Redoblado";
-
-IV.- Enseguida, el encargado tomará la Bandera de manos de uno de sus ayudantes, la desplegará y se dirigirá al personal de la organización o instituto, en los siguientes términos:
-
-"Ciudadanos (o jóvenes, niños, alumnos, o la indicación nominativa que corresponda de la organización o institución, sindicato, etc.): Vengo, en nombre de México, a encomendar a vuestro patriotismo, esta Bandera que simboliza su independencia, su honor, sus instituciones y la integridad de su territorio. ¿Protestáis honrarla y defenderla con lealtad y constancia?"
-
-Los componentes de la organización o institución contestarán:
+La escolta de la Autoridad o Institución abanderada contestará:
 
 "Sí, protesto".
 
-El encargado proseguirá:
+La Autoridad Encargada de Abanderar proseguirá:
 
-"Al concederos el honor de ponerla en vuestra manos, la Patria confía en que, como buenos y leales mexicanos, sabréis cumplir vuestra protesta", y
+"Al concederles el honor de ponerla en sus manos, la Patria confía en que, como buenos y leales mexicanos, sabrán cumplir su protesta", y
 
-V.- Finalmente entregará la Bandera al Director o representante, quien la pasará al abanderado. Si hay banda de música y de guerra, tocarán, simultáneamente el Himno Nacional y "Bandera", a cuyos acordes el abanderado con su escolta, pasará a colocarse al lugar más relevante del recinto o local. En caso de que no haya banda de guerra, solamente se tocará o cantará el Himno Nacional.
+II. Realizada la protesta a que se refiere la fracción anterior, la Autoridad Encargada de Abanderar entregará la Bandera Nacional al representante de la Autoridad o Institución para recibirla, quien a su vez la pasará al abanderado de la escolta. Si hay banda de música y de guerra tocarán simultáneamente el Himno Nacional y "Bandera", a cuyos acordes el abanderado con su escolta pasará a colocarse al lugar más relevante del recinto o local. En caso de que no haya banda de guerra solamente se tocará o cantará el Himno Nacional.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 26.
 
-Si hubiere varias instituciones que deben recibir la Bandera en una misma ceremonia, se procederá de acuerdo con el artículo anterior y en orden alfabético de su denominación.
+Cuando haya varias Autoridades o Instituciones que reciban la Bandera Nacional en un Abanderamiento, éstas deben proceder de conformidad con lo previsto en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 27.
 
-Cuando el personal de una organización o instituto desfile con su bandera, el abanderado se colocará el portabandera, de modo que la cuja caiga sobre su cadera derecha; introducirá el regatón del asta en la cuja y con la mano derecha a la altura del hombro, mantendrá la Bandera y cuidará que quede ligeramente inclinada hacia adelante, evitando siempre que la Bandera toque el suelo.
+Cuando las escoltas de las Autoridades o Instituciones desfilen con la Bandera Nacional, el abanderado se colocará la portabandera, de modo que la cuja caiga sobre su cadera derecha e introducirá el regatón de la asta en la cuja y con la mano derecha a la altura del hombro mantendrá la Bandera Nacional y cuidará que quede ligeramente inclinada hacia adelante, evitando siempre que toque el suelo.
 
 ###### Artículo 28.
 
@@ -492,13 +464,29 @@ Cuando dos grupos que lleven la Bandera Nacional se encuentren sobre la marcha, 
 
 El vehículo que use el Presidente de la República podrá llevar la Bandera Nacional. En el extranjero, los Jefes de Misión Diplomática podrán portar, en asta, la Bandera Nacional en el vehículo que utilicen.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 32.
 
-Los particulares podrán usar la Bandera Nacional en sus vehículos, exhibirla en sus lugares de residencia o de trabajo. En estos casos la Bandera podrá ser de cualquier dimensión y con el escudo impreso en blanco y negro. El particular observará el respeto que corresponde al símbolo nacional y tendrá cuidado en su manejo y pulcritud.
+Las personas físicas podrán usar la Bandera Nacional en sus vehículos o exhibirla en sus lugares de residencia o de trabajo, siempre y cuando observen el respeto que corresponde a dicho Símbolo Patrio. En estos casos, la Bandera Nacional podrá ser de cualquier dimensión.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 32 Bis.
+
+Las personas físicas e Instituciones no podrán usar la Bandera Nacional para promover su imagen, bienes o servicios.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 33.
 
-Los ejemplares de la Bandera Nacional destinados al comercio, deberán satisfacer las características de diseño y proporcionalidad establecidas en el artículo 3o.
+Los ejemplares de la Bandera Nacional destinados al comercio deben apegarse a lo establecido en el artículo 3o. de este ordenamiento. No se podrán comercializar los ejemplares de la Bandera Nacional que contengan las inscripciones realizadas conforme al artículo 7o. de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 33 Bis.
+
+Los accesorios en que se reproduzcan la Bandera o el Himno Nacionales para efectos comerciales, deberán cumplir con los requisitos que establezca el Reglamento de esta Ley, de conformidad con lo previsto en la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2010)</small>
 
@@ -534,31 +522,45 @@ En la ceremonia de transmisión del Poder Ejecutivo Federal, una vez que el Pres
 
 El canto, ejecución, reproducción y circulación del Himno Nacional, se apegarán a la letra y música de la versión establecida en la presente Ley. La interpretación del Himno se hará siempre de manera respetuosa y en un ámbito que permita observar la debida solemnidad.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 39.
 
-Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente en composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de publicidad comercial o de índole semejante. Se prohibe cantar o ejecutar los himnos de otras naciones, salvo autorización expresa del representante diplomático respectivo y de la Secretaría de Gobernación.
+Queda estrictamente prohibido alterar la letra o música del Himno Nacional y ejecutarlo total o parcialmente con composiciones o arreglos. Asimismo, se prohíbe cantar o ejecutar el Himno Nacional con fines de lucro.
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+Para cantar o ejecutar los himnos de otras naciones en territorio nacional, se deberá tramitar la autorización correspondiente ante la Secretaría de Gobernación, sin perjuicio de lo que señalen las disposiciones de cada país.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 39 Bis.
 
-Los pueblos y las comunidades indígenas podrán ejecutar el Himno Nacional, traducido a la lengua que en cada caso corresponda. Para tales efectos, se faculta al Instituto Nacional de Lenguas Indígenas para realizar las traducciones correspondientes, las cuales deberán contar con la autorización de la Secretaría de Gobernación y de la Secretaría de Cultura.
+Los pueblos y las comunidades indígenas podrán cantar el Himno Nacional, traducido a la lengua que en cada caso corresponda.
 
-Los pueblos y comunidades indígenas podrán solicitar a las secretarías de Gobernación y de Cultura la autorización de sus propias traducciones del Himno Nacional. La Secretaría de Gobernación llevará el registro de las traducciones autorizadas.
+Los pueblos y comunidades indígenas, a través de sus autoridades o representantes, podrán solicitar a la Secretaría de Gobernación la autorización de sus propias traducciones del Himno Nacional, previo dictamen del Instituto Nacional de Lenguas Indígenas. La Secretaría de Gobernación llevará el registro de las traducciones autorizadas.
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+El Instituto Nacional de Lenguas Indígenas podrá asesorar a los pueblos y comunidades indígenas en las traducciones que realicen del Himno Nacional a sus lenguas.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 40.
 
-Todas las ediciones o reproducciones del Himno Nacional requerirán autorización de las secretarías de Gobernación y de Cultura. Los espectáculos de teatro, cine, radio y televisión, que versen sobre el Himno Nacional y sus autores, o que contengan motivos de aquél, necesitarán de la aprobación de las Secretarías de Gobernación y Cultura, según sus respectivas competencias. Las estaciones de radio y de televisión podrán transmitir el Himno Nacional íntegro o fragmentariamente, previa autorización de la Secretaría de Gobernación, salvo las transmisiones de ceremonias oficiales.
+Las ediciones o reproducciones del Himno Nacional deberán apegarse estrictamente a la letra y partitura de la música establecida en los artículos 57 y 58 de esta Ley.
+
+Cualquier persona física o moral, que realice una exhibición sobre el Himno Nacional o sus autores, o que tengan motivos de aquél, ya sea en espectáculos de teatro, cine, radio, televisión u otros homólogos, necesitarán de la autorización de las secretarías de Gobernación y Cultura, conforme a sus respectivas competencias.
+
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 41.
 
-Del tiempo que por Ley le corresponde al Estado en las frecuencias de la radio y en los canales de televisión, en los términos legales de la materia, se incluirá en su programación diaria al inicio y cierre de las transmisiones la ejecución del Himno Nacional y en el caso de la televisión, simultáneamente la imagen de la Bandera Nacional. El número de estrofas que deberán ser entonadas será definido por la Secretaría de Gobernación.
+Los concesionarios de uso comercial, público y social que presten servicios de radiodifusión a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión están obligados a transmitir, dentro de los tiempos del Estado, el Himno Nacional a las seis y veinticuatro horas y, en el caso de la televisión, además, simultáneamente la imagen de la Bandera Nacional.
 
 ###### Artículo 42.
 
 El Himno Nacional sólo se ejecutará, total o parcialmente, en actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo, y para rendir honores tanto a la Bandera Nacional como al Presidente de la República. En estos dos últimos casos, se ejecutará la música del coro, de la primera estrofa y se terminará con la repetición de la del coro.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+En los eventos deportivos organizados en territorio nacional por las asociaciones o sociedades deportivas a que se refiere la Ley General de Cultura Física y Deporte, podrán rendir honores a la Bandera Nacional con la interpretación del Himno Nacional de manera previa a la realización de dichos eventos. Los honores deberán realizarse de manera respetuosa y solemne.
 
 ###### Artículo 43.
 
@@ -572,13 +574,13 @@ Durante solemnidades cívicas en que conjuntos corales entonen el Himno Nacional
 
 La demostración civil de respeto al Himno Nacional se hará en posición de firme. Los varones, con la cabeza descubierta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
 
 ###### Artículo 46.
 
-Es obligatoria la enseñanza del Himno Nacional en todos los planteles de educación preescolar, primaria y secundaria.
+Es obligatoria la enseñanza del Himno Nacional en todas las escuelas de educación básica.
 
-Cada año las autoridades educativas convocarán a un concurso de coros infantiles sobre la interpretación del Himno Nacional, donde participen los alumnos de enseñanza elemental y secundaria del Sistema Educativo Nacional.
+Cada año las autoridades educativas señaladas en la Ley General de Educación convocarán a un concurso de coros infantiles sobre la interpretación del Himno Nacional, donde participen los alumnos de educación básica del Sistema Educativo Nacional.
 
 ###### Artículo 47.
 
@@ -598,9 +600,11 @@ La Secretaría de Relaciones Exteriores, previa consulta con la Secretaría de G
 
 El uso del Escudo y la Bandera Nacionales, así como la ejecución del Himno Patrio por las fuerzas armadas del país, se regirá por las leyes, reglamentos y disposiciones respectivas.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 51.
 
-El Poder Ejecutivo Federal, los gobernadores de los Estados y los Ayuntamientos de la República, deberán promover, en el ámbito de sus respectivas esferas de competencia, el culto a los símbolos nacionales.
+El Poder Ejecutivo de la Federación, de las entidades federativas o de los municipios y demarcaciones territoriales de la Ciudad de México, deberán promover, en el ámbito de sus respectivas competencias, el culto a los Símbolos Patrios.
 
 ###### Artículo 52.
 
@@ -622,7 +626,9 @@ Las autoridades educativas dictarán las medidas para que en todas las instituci
 
 Cuando se requiera destruir alguna réplica de la Bandera Nacional, se hará mediante la incineración, en acto respetuoso y solemne, de conformidad con las especificaciones que el reglamento correspondiente determine.
 
-### CAPITULO SEPTIMO. Competencias y Sanciones
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE MAYO DE 2018)</small>
+
+### CAPÍTULO SÉPTIMO. Competencias, Infracciones y Sanciones
 
 > <small>(REFORMADO, D.O.F. 9 DE MAYO DE 1995)</small>
 
@@ -630,9 +636,77 @@ Cuando se requiera destruir alguna réplica de la Bandera Nacional, se hará med
 
 Compete a la Secretaría de Gobernación vigilar el cumplimiento de esta Ley; en esa función serán sus auxiliares todas las autoridades del país. Queda a cargo de las autoridades educativas vigilar su cumplimiento en los planteles educativos. Lo anterior se llevará a cabo de conformidad con los reglamentos correspondientes.
 
+> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 56.
 
-Las contravenciones a la presente Ley que no constituyan delito conforme a lo previsto en el Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal, pero que impliquen desacato o falta de respeto a los Símbolos Patrios, se castigarán, según su gravedad y la condición del infractor, con multa hasta por el equivalente a doscientas cincuenta veces el salario mínimo, o con arresto hasta por treinta y seis horas. Si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a mil veces el salario mínimo. Procederá la sanción de decomiso para los artículos que reproduzcan ilícitamente el Escudo, la Bandera, o el Himno Nacionales.
+Constituyen infracción a esta Ley las conductas siguientes:
+
+I. Alterar o modificar las características de la Bandera Nacional establecidas en el artículo 3o. de esta Ley;
+
+II. Utilizar el Escudo Nacional sin la autorización a que se refiere el artículo 6o. de esta Ley;
+
+III. Inscribir en la Bandera Nacional la denominación o razón social de las Instituciones sin la autorización a que se refiere el segundo párrafo del artículo 7o. de esta Ley;
+
+IV. Comercializar ejemplares de la Bandera Nacional que contengan cualquier tipo de inscripciones, incluyendo las previstas por el artículo 7o. de esta Ley;
+
+V. Omitir rendir honores a la Bandera Nacional en términos del artículo 11 de esta Ley;
+
+VI. Inscribir en la Bandera Nacional el nombre de personas físicas o Instituciones para promover su imagen, bienes o servicios en contravención de lo señalado en el artículo 32 Bis de esta Ley;
+
+VII. Portar la banda presidencial;
+
+VIII. Alterar la letra o música del Himno Nacional que establecen los artículos 57 y 58 de esta Ley, y ejecutarlo total o parcialmente en composiciones o arreglos, en contravención de lo previsto en el artículo 39 del presente ordenamiento;
+
+IX. Cantar o ejecutar el Himno Nacional con fines de lucro, en contravención de lo previsto en el artículo 39 de esta Ley;
+
+X. Cantar o ejecutar los himnos de otras naciones, sin la autorización a que se refiere el segundo párrafo del artículo 39 de esta Ley, y
+
+XI. Omitir la transmisión del Himno Nacional en los tiempos del Estado, en términos del artículo 41 de esta Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 56 Bis.
+
+El procedimiento para imponer las sanciones a las infracciones a que se refiere el artículo anterior, se tramitará en términos del Título Cuarto de la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 56 Ter.
+
+Las infracciones a la presente Ley serán impuestas y sancionadas por la Secretaría de Gobernación considerando los criterios siguientes:
+
+I. La gravedad de la conducta constitutiva de la infracción;
+
+II. Los daños o perjuicios ocasionados a los Símbolos Patrios por la conducta constitutiva de la infracción, que denigren sus características, uso y difusión;
+
+III. La intención de la acción u omisión constitutiva de la infracción, que denigre sus características, uso y difusión;
+
+IV. La capacidad económica y grado de instrucción del infractor, y
+
+V: La reincidencia, en su caso, de la conducta constitutiva de la infracción.
+
+Se consideran graves las infracciones a que se refieren las fracciones I, II, IV, VI, VII y IX del artículo 56 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+###### Artículo 56 Quáter.
+
+Las sanciones señaladas en esta Ley son aplicables sin perjuicio de la responsabilidad administrativa, civil o penal de quienes incurran en ellas.
+
+> <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 2018)</small>
+
+Artículo 56 Quintus.- A los infractores de la presente Ley, se les podrá imponer una o varias de las sanciones siguientes:
+
+I. Amonestación con apercibimiento;
+
+II. Multa de hasta diez mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
+
+III. Multa adicional a la prevista en la fracción anterior de hasta diez mil veces el valor de la Unidad de Medida y Actualización, por cada día que persista la infracción;
+
+IV. Arresto hasta por treinta y seis horas, y
+
+V. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 CAPITULO ESPECIAL
 
@@ -744,17 +818,13 @@ Al sonoro rugir del cañón.
 
 La música oficial del Himno Nacional es la siguiente: (N. DE E., PARA CONSULTAR LA MUSICA A QUE REFIERE EL PRESENTE ARTICULO, VEASE D.O.F. 8 DE FEBRERO DE 1984)
 
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
-
 ###### Artículo 59.
 
-En encuentros deportivos de cualquier índole, que se celebren dentro del territorio nacional, el abanderamiento y la ejecución del Himno Nacional, así como el uso de la propia Bandera, se ajustarán a las determinaciones del reglamento respectivo.
-
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+(DEROGADO, D.O.F. 11 DE MAYO DE 2018)
 
 ###### Artículo 60.
 
-Los accesorios en que se reproduzcan, para efectos comerciales, la Bandera o el Himno Nacionales, deberán cumplir con los requisitos que determine el reglamento respectivo, con arreglo a los preceptos de este ordenamiento.
+(DEROGADO, D.O.F. 11 DE MAYO DE 2018)
 
 ## TRANSITORIOS
 
@@ -802,15 +872,15 @@ DECRETO POR EL QUE SE ADICIONA UN ARTICULO 39 BIS.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
+D.O.F. 3 DE FEBRERO DE 2006.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
 D.O.F. 7 DE DICIEMBRE DE 2005.
 
 DECRETO POR EL QUE SE REFORMA EL ARTICULO 46.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE FEBRERO DE 2006.
-
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 2 DE JUNIO DE 2006.
 
@@ -887,3 +957,13 @@ D.O.F. 1 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN LAS FECHAS 16 DE ENERO "ANIVERSARIO DEL NACIMIENTO DE MARIANO ESCOBEDO", EN 1826 AL INCISO A) Y 22 DE MAYO "ANIVERSARIO DE LA MUERTE DE MARIANO ESCOBEDO", EN 1902 AL INCISO B) DEL ARTÍCULO 18 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal expedirá el Reglamento de esta Ley, en un plazo que no excederá los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- Los procedimientos o trámites administrativos iniciados con anterioridad a la entrada en vigor del presente Decreto, serán resueltos conforme a las disposiciones aplicables vigentes al momento en que éstos iniciaron.
