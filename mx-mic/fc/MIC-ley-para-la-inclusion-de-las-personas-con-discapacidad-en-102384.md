@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2016-12-29"
+last_updated: "2018-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -181,15 +181,49 @@ XI. Solicitar información al Poder Ejecutivo, Legislativo, Judicial, los gobier
 
 XII. Las demás que le confiera los ordenamientos jurídicos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 7.
 
-Los gobiernos municipales, en el ámbito de su competencia les corresponden:
+Son atribuciones de las autoridades municipales, en materia de protección e integración de personas con discapacidad:
 
 I. Expedir reglamentos y bandos, las normas urbanísticas y arquitectónicas que faciliten el acceso y desplazamiento a las personas con discapacidad;
 
-II. Apoyar, orientar e incentivar las acciones que emprendan las instituciones, asociaciones y grupos de los sectores social y privado, con el fin de promover el desarrollo e integración social de las personas con discapacidad; y,
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-III. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
+II. Apoyar, orientar e incentivar las acciones que emprendan las instituciones, asociaciones y grupos de los sectores social y privado, con el fin de promover el desarrollo e integración social de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+III. Coadyuvar para que las construcciones o modificaciones de edificios e infraestructura urbana y arquitectónica cumplan con los planes y programas de desarrollo urbano, con la Norma Oficial Mexicana y las diversas leyes y reglamentos en la materia para que se adecuen a las necesidades de las personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+IV. Desarrollar un programa permanente de eliminación y modificación de barreras físicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+V. Promover y apoyar la realización de actividades deportivas y culturales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+VI. Orientar y apoyar a las personas con discapacidad de escasos recursos, en la obtención de prótesis, órtesis, ayudas técnicas, medicinas, becas, traslados y apoyos económicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+VII. Incorporar, de manera preferente a las personas con discapacidad, para ser beneficiario de los programas sociales, de acuerdo a la normatividad de los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+VIII. Canalizar a las personas con discapacidad a las instituciones públicas y privadas, para su debida atención;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+IX. Realizar un censo de personas con discapacidad domiciliadas en el municipio a fin de tener un registro actualizado para conocer sus necesidades; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2018)</small>
+
+X. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 8.
 
@@ -407,9 +441,11 @@ V. La inclusión a la vida social y al sistema de trabajo que permita a la perso
 
 VI. Informar, orientar y capacitar a los padres de familia o tutores de las personas con discapacidad considerando que este núcleo es el primer y más importante referente para su desarrollo físico, emocional, intelectual y social.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2018)</small>
+
 ###### Artículo 33.
 
-Para garantizar el derecho a la educación la Secretaría de Educación le corresponderá:
+Para garantizar el derecho a la educación a la Secretaría de Educación le corresponderá:
 
 I. Promover el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en los planteles, centros educativos, guarderías o del personal docente o administrativo del Sistema Educativo Estatal;
 
@@ -455,7 +491,9 @@ XXI. Fomentar programas de becas económicas a personas con discapacidad, con el
 
 XXII. Programar y ejecutar permanentemente en coordinación con instituciones u organizaciones especializadas cursos de capacitación, actualización y sensibilización en materia de discapacidad y prevención de la misma, dirigidos a los padres de familia, personal docente y administrativo de sus centros educativos;
 
-XXIII. Realizar las adecuaciones necesarias a las instalaciones educativas, a fin de garantizar el libre acceso y tránsito de los estudiantes y docentes con discapacidad;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+
+XXIII. Realizar las adecuaciones necesarias en cada una de las instalaciones educativas de la Entidad, a fin de garantizar el libre acceso y tránsito de los estudiantes y docentes con discapacidad; colocar señales, letreros de fácil comprensión y donde sea necesario en sistema braille;
 
 XXIV. Proporcionar a los estudiantes con discapacidad mobiliario, materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes certificados de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas con discapacidad visual y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad, incluyendo el material necesario en la lengua indígena de la región; y,
 
@@ -1114,3 +1152,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 558.- SE REFORMAN LOS ARTÍCULOS 7 Y 33 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
