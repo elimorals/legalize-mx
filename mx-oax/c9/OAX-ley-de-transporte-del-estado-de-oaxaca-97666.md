@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transporte-del-estado-de-oaxaca-97666"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2013-12-09"
+last_updated: "2018-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPORTE DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -145,7 +145,7 @@ Las dependencias y entidades de la administración pública estatal deberán bri
 
 ###### ARTÍCULO 8.
 
-El Gobernador del Estado aprobará, a propuesta de la Secretaría, el Programa Sectorial de Transporte y Movilidad como instrumento rector de la política del Estado en materia de transporte, así como de la movilidad de las personas en general, (sic)
+El Gobernador del Estado aprobará, a propuesta de la Secretaría, el Programa Sectorial de Transporte y Movilidad como instrumento rector de la política del Estado en materia de transporte, así como de la movilidad de las personas en general,
 
 En el Programa se considerarán todas las medidas administrativas y operativas para garantizar el adecuado funcionamiento del servicio de transporte, en función del máximo aprovechamiento de las vialidades, con la obligación de garantizar tanto al usuario como al peatón, las mejores condiciones de seguridad para su libre tránsito.
 
@@ -179,7 +179,7 @@ III. Los instrumentos que garanticen la coordinación entre los distintos planes
 
 IV. Las estrategias para la movilidad sustentable del Estado;
 
-V. El impacto económico, social y ecológico de las estrategias a implementar, y (sic)
+V. El impacto económico, social y ecológico de las estrategias a implementar, y
 
 VI. La ubicación y forma de operación de las siguientes infraestructuras especializadas;
 
@@ -1395,13 +1395,17 @@ Las licencias de conducir expedidas por la Secretaría serán del siguiente tipo
 
 Tipo "A".- Que autoriza a su titular a conducir motocicletas y vehículos similares;
 
-Tipo “B”.- Que autoriza a su titular a conducir los vehículos clasificados como de transporte privado de pasajeros que no excedan de quince asientos o de carga, cuyo peso no exceda de tres y media toneladas;
+Tipo "B".- Que autoriza a su titular a conducir los vehículos clasificados como de transporte privado de pasajeros que no excedan de quince asientos o de carga, cuyo peso no exceda de tres y media toneladas;
 
-Tipo “C”.- Que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la Licencia Tipo “B”, los vehículos clasificados como del servicio público y especial de transporte de pasajeros;
+Tipo "C".- Que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la Licencia Tipo "B", los vehículos clasificados como del servicio público y especial de transporte de pasajeros;
 
-Tipo “D”.- Que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la Licencia Tipo “C”, los vehículos del servicio especial de transporte de carga, y
+Tipo "D".- Que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la Licencia Tipo "C", los vehículos del servicio especial de transporte de carga, y
 
-Tipo “E”.- Que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la Licencia Tipo “C”, los vehículos de seguridad pública, salvamento y rescate.
+Tipo "E".- Que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la Licencia Tipo "C", los vehículos de seguridad pública, salvamento y rescate.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Para la expedición de licencias de conducir por primera vez, se otorgarán previa aprobación del examen teórico y pago de derechos. El examen será aplicado por la Secretaría.
 
 ###### ARTÍCULO 153.
 
@@ -1498,6 +1502,10 @@ La persona moral que preste o permita la prestación con vehículos de su propie
 Al conductor de vehículos del transporte privado o del servicio público o especial de transporte que conduzca bajo el efecto de bebidas alcohólicas o de alguna otra droga, le serán suspendidos los derechos derivados de la licencia de conducir hasta por ciento ochenta días.
 
 La misma sanción corresponderá para aquellos conductores que hayan participado en accidentes viales con saldo de heridos o muertos, con responsabilidad declarada por la autoridad judicial competente.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
+Igual sanción se aplicará para aquellos conductores que hayan participado en actos de violencia física en agravio de otros conductores de transporte público o privado.
 
 Para el cumplimiento de lo dispuesto en los párrafos anteriores, la Secretaría se coordinará con las dependencias competentes.
 
@@ -1602,3 +1610,17 @@ Tlalixtac de Cabrera, Centro, Oax., a 02 de diciembre del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO NÚM. 1415.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 11 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1444.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
