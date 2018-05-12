@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2018-03-24"
+last_updated: "2018-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -1211,7 +1211,11 @@ XX.- Establecer mecanismos de monitoreo que permitan visibilizar y sancionar la 
 
 XXI.- Asegurar la adecuada implementación de la NOM-007-SSA2-1993 mediante la difusión de su contenido y el monitoreo de su implementación y acatamiento por todos los profesionales de la salud; y
 
-XXII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2018)</small>
+
+XXII.- Procurar la adecuada implementación de la NOM-046-SSA2-2005, así como todas las normas oficiales mexicanas aplicables vigentes y sus reformas, mediante el fomento de su contenido por todos los profesionales de la salud; y
+
+XXIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
 
@@ -1313,7 +1317,7 @@ XIII.- Integrar un archivo que contenga los antecedentes, circunstancias, accion
 
 XIV.- Implementar programas de capacitación que forme el apego a los principios de legalidad, honradez, profesionalismo y eficacia, en la atención a las mujeres receptoras de violencia;
 
-XV.- Proporcionar a los cuerpos policíacos capacitación y formación en materia de género, violencia, discriminación y derechos humanos de las mujeres; y
+XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia de género, violencia, discriminación y derechos humanos de las mujeres; y
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
@@ -1816,3 +1820,9 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NO. 311 "POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 15; EL PÁRRAFO PRIMERO DEL ARTÍCULO 16; LAS FRACCIONES III Y IV DEL ARTÍCULO 31; Y ASIMISMO SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 18, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA SIN VIOLENCIA PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 481 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 15 DE LA LEY DE SALUD DEL ESTADO DE COLIMA; SE ADICIONA LA FRACCIÓN XXII, PASANDO A LA ACTUAL XXII A SER XXIII, AL ARTÍCULO 60 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA; SE REFORMAN LAS FRACCIONES II Y III, ASIMISMO SE ADICIONA UNA FRACCIÓN IV, TODAS DEL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
