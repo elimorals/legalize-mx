@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-88637"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-22"
-last_updated: "2012-06-22"
+last_updated: "2018-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 12 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el viernes 22 de junio de 2012.
 
@@ -1282,3 +1284,31 @@ Tlalixtac de Cabrera, Centro, Oax., a 15 de junio del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1459.- MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga la Ley para Prevenir Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos en el Estado de Oaxaca, aprobada mediante decreto número 1251 de fecha 6 de junio de 2012 y publicada el 22 de junio de 2012.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía a la presente Ley vigentes en el Estado.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca, contará con el plazo de sesenta días, contados a partir de la entrada en vigor de la presente Ley, para crear la Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas.
+
+QUINTO. El ejecutivo del Estado establecerá un fondo para la protección y asistencia a las víctimas de los delitos previstos en la presente Ley.
+
+Hasta en tanto no se integre el Fondo a que se refiere la presente Ley se seguirá aplicando el Fondo de Ayuda, Asistencia y Reparación Integral en el Estado de Oaxaca al que se refiere la Ley de Victimas del Estado de Oaxaca.
+
+SEXTO. La Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas, una vez creada, contará con el término de noventa días para elaborar su Reglamento Interno.
+
+SÉPTIMO. La Fiscalía General del Estado contará con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar su Fiscalía Especializada para la investigación del delito de trata de personas, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
+
+OCTAVO. Las disposiciones relativas a los delitos a que se refiere esta Ley previstas en el Código Penal para el Estado Libre y Soberano de Oaxaca vigentes hasta la entrada en vigor de la presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+NOVENO. La Fiscalía General del Estado de Oaxaca, capacitará a su personal en materia de planeación de investigación dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+DÉCIMO. La Fiscalía General del Estado de Oaxaca, contará con el término de ciento ochenta días naturales para la implementación de los programas a que se refiere esta Ley, en coordinación con la Secretaría General de Gobierno y demás entes intervinientes.
