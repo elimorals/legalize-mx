@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2017-12-04"
+last_updated: "2018-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -1068,3 +1068,25 @@ P.O. 4 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca, para efectos de publicidad y difusión.
+
+P.O. 12 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1454.- MEDIANTE EL CUAL APRUEBA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor el día 13 de noviembre del año 2018. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca para efectos de su publicidad y difusión.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Legislativo del Estado de Oaxaca aprobada mediante el Decreto 316, publicada el 4 de noviembre de 1995. Se derogan así mismo todas las disposiciones legales que se opongan a la presente Ley.
+
+TERCERO. Los Manuales de Organización y Procedimientos correspondientes a la nueva estructura administrativa del Congreso del Estado establecida en esta Ley, serán elaborados por la Oficialía Mayor y la Tesorería del Congreso del Estado dentro de los 45 días posteriores a su aprobación. Una vez elaborados, serán turnados a la Comisión Permanente de Estudios Legislativos, para efectos de su dictaminación y aprobación por parte del Pleno, mismos que deberán ser aprobados antes del término de la Sexagésima Tercera Legislatura.
+
+Por lo que hace a los recursos humanos, materiales y financieros asignados a la Oficialía Mayor y Tesorería del Congreso del Estado, se transferirán a las Secretarías de Servicios Parlamentarios y Secretaría de Servicios Administrativos, respectivamente, estableciéndose al efecto los mecanismos administrativos necesarios para realizar el proceso de transición y reestructuración administrativa respetándose los derechos laborales del personal adscrito a dichas oficinas.
+
+CUARTO. Los Centros de Estudio iniciaran su funcionamiento a partir de que se disponga de la suficiencia presupuestaria para tal efecto, debiendo el Congreso adoptar las medidas necesarias para tal efecto, de conformidad con la normatividad aplicable.
+
+La Junta de Coordinación Política de conformidad con lo dispuesto por la presente Ley, procederá a la designación de los nuevos titulares de los Órganos Técnicos del Congreso del Estado, con excepción de los funcionarios del Órgano de Fiscalización Superior del Estado de Oaxaca.
+
+QUINTO. La Sexagésima Cuarta Legislatura del Congreso del Estado Libre y Soberano de Oaxaca, contará con un término máximo de 45 días posteriores a su instalación, para realizar la designación de los Titulares de las diversas Secretarias y áreas correspondientes a la nueva estructura administrativa del Congreso del Estado, en términos de lo dispuesto en la presente ley.
+
+En este caso y únicamente para los efectos legales relativos al proceso de instalación de la Legislatura, se entenderán asumidas por la Oficialía Mayor del Congreso del Estado, las facultades establecidas en la presente ley y su reglamento para la Secretaría de Servicios Parlamentarios y Secretaría de Servicios Administrativos, hasta en tanto, se realizan las designaciones de los servidores públicos correspondientes.
+
+SEXTO. Por lo que refiere al Canal del Congreso, este entrará en funciones hasta en tanto se realicen las previsiones presupuestales necesarias para tal efecto, así como existan los recursos humanos y tecnológicos necesarios para tal efecto.
