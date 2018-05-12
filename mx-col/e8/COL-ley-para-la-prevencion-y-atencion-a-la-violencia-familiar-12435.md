@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-12435
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-14"
-last_updated: "2018-03-24"
+last_updated: "2018-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de febrero de 1998.
 
@@ -641,7 +641,7 @@ C) Violencia sexual.- Es cualquier acto que degrada o daña al cuerpo y/o la sex
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
-D) Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la persona receptora de violencia familiar, se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores , derechos patrimoniales y puede abarcar los daños a los bienes comunes o propios de la persona receptora de violencia
+D) Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la persona receptora de violencia familiar, se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales y puede abarcar los daños a los bienes comunes o propios de la persona receptora de violencia
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
@@ -737,11 +737,17 @@ b).- Educativo: Para influir en la flexibilización de los roles sexuales y asum
 
 c).- Protector: Para garantizar la integridad, seguridad física y jurídica de la persona receptora de violencia mediante la aplicación irrestricta de la ley; la suplencia de la queja y el otorgamiento de las órdenes de protección que le permita la reorganización de su vida.
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2018)</small>
 
-II.- Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo, y se abstendrá de asumir entre sus criterios de solución patrones estereotipados de comportamientos o prácticas sociales y culturales, basadas en conceptos de inferioridad o de subordinación entre las personas; y
+II.- Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo, y se abstendrá de asumir entre sus criterios de solución patrones estereotipados de comportamientos o prácticas sociales y culturales, basadas en conceptos de inferioridad o de subordinación entre las personas;
 
-III.- Se basará en modelos psicoterapéuticos adecuados y específicos para personas con perfiles definidos, y programas susceptibles de evaluación.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2018)</small>
+
+III.- Se basará en modelos psicoterapéuticos adecuados y específicos para personas con perfiles definidos, y programas susceptibles de evaluación; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2018)</small>
+
+IV.- Se basará en los criterios a observar en la detección, prevención, atención médica y la orientación que se proporciona a las y los usuarios de los servicios de salud en general y en particular a quienes se encuentren involucrados en situaciones de violencia familiar o sexual, establecidos en la NOM-046-SSA2-2005, así como todas las normas oficiales mexicanas aplicables vigentes y sus reformas.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -787,7 +793,7 @@ La Agencia del Ministerio Público Especializada y la Defensoría de Oficio en s
 
 III. Canalizar de inmediato, dependiendo de su propia competencia, a alguna institución de salud, al Consejo Estatal para la Prevención y Atención a la Violencia Familiar y/o a la Procuraduría General de Justicia en el Estado; cuando la persona indique que ha sufrido golpes, heridas o cualquier daño físico aunque éste no sea visible, o de tipo emocional, que requiera intervención médica, sin perjuicio de que le sea proporcionada la atención urgente necesaria. También, cuando la persona exprese temor de sufrir agresiones probablemente graves en su persona o sus familiares o encontrarse en estado de riesgo; y
 
-IV. Cuando la persona esté en condiciones de proporcionar información, el servidor público,.recabará los datos iniciales dejando constancia de las gestiones y canalizaciones realizadas, con la firma de la persona receptora, para el seguimiento del caso y demás efectos señalados en el segundo párrafo del artículo 5° de la presenté ley.
+IV. Cuando la persona esté en condiciones de proporcionar información, el servidor público, recabará los datos iniciales dejando constancia de las gestiones y canalizaciones realizadas, con la firma de la persona receptora, para el seguimiento del caso y demás efectos señalados en el segundo párrafo del artículo 5° de la presenté ley.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -985,7 +991,7 @@ Los jueces que conozcan de Órdenes de Protección, rendirán a la Secretaría G
 
 El supuesto a que se refiere el inciso b), de la fracción I del artículo 25, constituye por sí el delito de violencia familiar, que será sancionado con prisión de uno a cinco años y multa hasta por 60 unidades.
 
-… (sic)
+... (sic)
 
 ###### ARTICULO 51.
 
@@ -1052,3 +1058,9 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL " DECRETO NO. 468 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 35, DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación debiéndose publicar en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2018.
+
+[N. DE E TRANSITORIO DEL “DECRETO NO. 481 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 15 DE LA LEY DE SALUD DEL ESTADO DE COLIMA; SE ADICIONA LA FRACCIÓN XXII, PASANDO A LA ACTUAL XXII A SER XXIII, AL ARTÍCULO 60 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA; SE REFORMAN LAS FRACCIONES II Y III, ASIMISMO SE ADICIONA UNA FRACCIÓN IV, TODAS DEL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
