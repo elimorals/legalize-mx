@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2017-02-22"
+last_updated: "2018-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 12 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -2459,41 +2461,35 @@ Los procedimientos y recursos administrativos relacionados con las materias de e
 
 El Ejecutivo del Estado expedirá los reglamentos a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
 
-TRANSITORIOS:
+DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los 12 días del mes de mayo del año dos mil cinco.
 
-###### ARTÍCULO PRIMERO.
+DIPUTADO PRESIDENTE
 
-Esta ley entrará en vigor a los 60 días hábiles siguientes a los de su publicación en el Periódico Oficial del Estado.
+CÉSAR HORACIO DUARTE JÁQUEZ
 
-###### ARTÍCULO SEGUNDO.
+DIPUTADO SECRETARIO
 
-Se abroga la Ley Ecológica para el Estado de Chihuahua, publicada en el Periódico Oficial del Estado, en fecha 09 de octubre de 1991.
+MANUEL ARTURO NARVÁEZ NARVÁEZ
 
-###### ARTÍCULO TERCERO.
+DIPUTADO SECRETARIO
 
-Se derogan todas aquellas disposiciones legales en el Estado de Chihuahua que se opongan a la presente Ley.
+RUBÉN AGUILAR GIL
 
-###### ARTÍCULO CUARTO.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubieren iniciado bajo la vigencia de la que se abroga, se tramitarán y resolverán conforme a las disposiciones de dicha Ley.
+En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, al primer día del mes de junio del año dos mil cinco.
 
-###### ARTÍCULO ÚNICO.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+LIC. JOSE REYES BAEZA TERRAZAS.
 
-P.O. 4 DE AGOSTO DE 2010.
+EL SECRETARIO GENERAL DE GOBIERNO
 
-###### ARTÍCULO ÚNICO.
+LIC. FERNANDO RODRIGUEZ MORENO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 14 DE AGOSTO DE 2010.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 25 DE SEPTIEMBRE DE 2010.
+P.O. 10 DE DICIEMBRE DE 2008.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2537,39 +2533,43 @@ SEXTO.- Los propietarios, administradores o responsables contarán con 90 días 
 
 P.O. 13 DE ENERO DE 2010.
 
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
 ###### ARTÍCULO QUINTO.
 
-El Ejecutivo del Estado expedirá los reglamentos a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
-
-DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los 12 días del mes de mayo del año dos mil cinco.
-
-DIPUTADO PRESIDENTE
-
-CÉSAR HORACIO DUARTE JÁQUEZ
-
-DIPUTADO SECRETARIO
-
-MANUEL ARTURO NARVÁEZ NARVÁEZ
-
-DIPUTADO SECRETARIO
-
-RUBÉN AGUILAR GIL
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, al primer día del mes de junio del año dos mil cinco.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-LIC. JOSE REYES BAEZA TERRAZAS.
-
-EL SECRETARIO GENERAL DE GOBIERNO
-
-LIC. FERNANDO RODRIGUEZ MORENO.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 10 DE DICIEMBRE DE 2008.
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
 
 ###### ARTÍCULO SEXTO.
 
@@ -2613,20 +2613,6 @@ DECRETO NÚMERO 288/2011 II P.O., POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ART
 
 ###### ARTÍCULO PRIMERO.
 
-La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE NOVIEMBRE DE 2011.
-
-###### ARTÍCULO PRIMERO.
-
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
@@ -2637,9 +2623,25 @@ P.O. 29 DE OCTUBRE DE 2011.
 
 DECRETO NÚMERO 370/2011 II P.O., POR EL QUE SE ADICIONAN LOS ARTÍCULOS 5, CON UNA FRACCIÓN LXII; 7, CON UNA FRACCIÓN XXVII, Y 142, CON UN PÁRRAFO SEGUNDO; SE REFORMAN LOS ARTÍCULOS 7, FRACCIONES XX, XXIV Y XXVI; 9, FRACCIÓN XXIII, INCISO C); 142, PRIMER PÁRRAFO; 145, FRACCIÓN II, Y 150 BIS, TODOS DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA.
 
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial del Estado, y su aplicación quedará sujeta a las disposiciones del Reglamento del Programa de Verificación Vehicular.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Ejecutivo del Estado deberá expedir el Reglamento del Programa de Verificación Vehicular dentro de los noventa días posteriores al inicio de la vigencia del presente Decreto.
+
 ###### ARTÍCULO TERCERO.
 
-El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+Si a la entrada en vigor del presente Decreto, algún municipio se encuentra ejerciendo, por sí o mediante concesión, la verificación de emisiones contaminantes de fuentes móviles, continuarán realizándolo de acuerdo con su normatividad, la que deberá ajustarse al Reglamento del Programa de Verificación Vehicular.
+
+P.O. 4 DE JULIO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2655,11 +2657,13 @@ P.O. 21 DE JUNIO DE 2014.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial del Estado, y su aplicación quedará sujeta a las disposiciones del Reglamento del Programa de Verificación Vehicular.
+Esta Ley entrará en vigor a los 180 días hábiles siguientes a su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-El Titular del Ejecutivo del Estado deberá expedir el Reglamento del Programa de Verificación Vehicular dentro de los noventa días posteriores al inicio de la vigencia del presente Decreto.
+El Ejecutivo del Estado expedirá el reglamento a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
+
+P.O. 22 DE AGOSTO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2677,18 +2681,6 @@ P.O. 29 DE JUNIO DE 2016.
 
 ###### ARTÍCULO PRIMERO.
 
-Esta Ley entrará en vigor a los 180 días hábiles siguientes a su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-El Ejecutivo del Estado expedirá el reglamento a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
-
-P.O. 22 DE AGOSTO DE 2015.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 1 P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
-
-###### ARTÍCULO PRIMERO.
-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
@@ -2697,19 +2689,31 @@ Todas aquellas personas que se encuentran inscritas en el Registro Estatal de Pr
 
 P.O. 3 DE OCTUBRE DE 2016.
 
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0003/2016 1 P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
 ###### ARTÍCULO TERCERO.
 
-Si a la entrada en vigor del presente Decreto, algún municipio se encuentra ejerciendo, por sí o mediante concesión, la verificación de emisiones contaminantes de fuentes móviles, continuarán realizándolo de acuerdo con su normatividad, la que deberá ajustarse al Reglamento del Programa de Verificación Vehicular.
-
-P.O. 4 DE JULIO DE 2012.
+Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
 
 ###### ARTÍCULO CUARTO.
 
-Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+
+Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
 
 ###### ARTÍCULO QUINTO.
 
-Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO SEXTO.
 
@@ -2783,26 +2787,24 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
 
-###### ARTÍCULO PRIMERO.
+P.O. 12 DE MAYO DE 2018.
 
-El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/EXLEY/0707/2018 IX P.E. LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA”.]
 
-###### ARTÍCULO SEGUNDO.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+SEGUNDO.- Se abroga la Ley de Equilibrio Ecológico y Protección al Medio Ambiente del Estado de Chihuahua, publicada en el Periódico Oficial del Estado el 8 de junio de 2005.
 
-###### ARTÍCULO TERCERO.
+TERCERO.- Se derogan todas aquellas disposiciones legales, en las que se opongan a las del presente Decreto.
 
-Se autoriza al Poder Ejecutivo para que las partidas asignadas, los recursos materiales, así como el personal adscrito a la Dirección General de Desarrollo Municipal, dependiente de la Secretaría General de Gobierno, se transfieran a la Secretaría de Desarrollo Municipal y, en su caso, se asignen recursos financieros, materiales y humanos, necesarios para su funcionamiento.
+CUARTO.- Los procedimientos y recursos administrativos relacionados con las materias de este Decreto, que se hubieren iniciado bajo la vigencia de la Ley que se abroga, se tramitarán y resolverán conforme a las disposiciones de dicha Ley.
 
-###### ARTÍCULO CUARTO.
+QUINTO.- El Ejecutivo del Estado expedirá los reglamentos a que se refiere este Decreto, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
 
-Se abroga la Ley del Instituto Chihuahuense de la Cultura.
+SEXTO.- Mientras se expidan las disposiciones reglamentarias de este
 
-Se autoriza al Poder Ejecutivo para que (sic) Instituto Chihuahuense de la Cultura se transforma (sic) en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+Decreto, seguirán en vigor las que hayan regido hasta ahora, en lo que no lo contravengan las disposiciones aplicables.
 
-A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Instituto Chihuahuense de la Cultura, se entenderán referidas a la Secretaría de Cultura.
+SÉPTIMO.- Los Ayuntamientos deberán adecuar sus normas, reglamentos, ordenanzas, bandos de policía y buen gobierno y demás disposiciones aplicables, a las disposiciones contenidas en la presente Ley.
 
-###### ARTÍCULO QUINTO.
-
-Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+OCTAVO.- Hasta en tanto los Ayuntamientos no adecúen las normas, ordenanzas, y reglamentos bandos de policía y buen gobierno, para regular las materias que de acuerdo con la presente Ley sean de competencia municipal, corresponderá al Estado la aplicación de estas disposiciones en coordinación con las autoridades municipales correspondientes.
