@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6876
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-09"
-last_updated: "2015-10-01"
+last_updated: "2018-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 
@@ -547,9 +547,9 @@ I. Promover la revisión de los sistemas fiscales para reducir los factores que 
 
 II. Fomentar la incorporación a la educación y formación de las personas que en razón de su sexo están relegadas;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2018)</small>
 
-III. Fomentar el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos, especialmente;
+III. Vigilar y fomentar el derecho al ascenso, a la estabilidad en el empleo y a todas las prestaciones y otras condiciones de servicio, así como a la formación profesional y la capacitación; de igual forma, que no sean vulnerados en razón de sexo o discapacidad, cualquiera que éste sea;
 
 IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral;
 
@@ -868,3 +868,9 @@ P.O. 22 DE NOVIEMBRE DE 2014.
 P.O. 1 DE OCTUBRE DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 482 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 31 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
