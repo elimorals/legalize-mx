@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2017-12-04"
+last_updated: "2018-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "OAX"
 ---
 # REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA, PUBLICADO EN EL P.O. DE 12 DE MAYO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 13 DE NOVIEMBRE DE 2018.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -1754,3 +1756,17 @@ P.O. 4 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca, para efectos de publicidad y difusión.
+
+P.O. 12 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1455.- MEDIANTE EL CUAL APRUEBA EL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor el día 13 de noviembre del año 2018. Publíquese en el Periódico Oficial del Gobierno del Estado para efectos de publicidad y difusión.
+
+SEGUNDO. Se abroga el Reglamento Interior del Congreso aprobado mediante el Decreto 317, publicado el 4 de noviembre de 1995. Se derogan así mismo todas las disposiciones legales que se opongan al presente Reglamento.
+
+TERCERO. Se abrogan los acuerdos parlamentarios relativos a régimen interno que haya aprobado el Pleno antes de la fecha de vigencia del presente Reglamento.
+
+CUARTO. La Mesa Directiva y la Junta de Coordinación Política, tendrán a su cargo los procedimientos de divulgación y capacitación del contenido del presente Reglamento entre y los diputados, y el personal del Congreso.
+
+QUINTO. Al momento de entrada en vigor del presente Reglamento, quedarán sin efecto todos los acuerdos parlamentarios previos, que hayan sido aprobados por la Legislatura, y que contravengan lo dispuesto en el presente Reglamento.
