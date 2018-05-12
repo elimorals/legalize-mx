@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2017-08-26"
+last_updated: "2018-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -90,6 +90,10 @@ VII.- Garantizar el acceso a los servicios de salud a los menores de edad, las m
 Para los efectos de la presente Ley, se entenderá por:
 
 I.- Atención médica, al conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud, la cual podrá apoyarse de medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto expida la Secretaría de Salud;
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+Se entiende por grupos vulnerabilizados, a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores, hombres con afecciones mentales y personas que se encuentran en situación de calle, de emergencia o desastre.
 
 II.- Asistencia social:
 
@@ -465,6 +469,10 @@ IV.- Colaborar al bienestar social de la población, apoyando a las institucione
 
 Así mismo, procurar la atención y tratamiento para los sujetos generadores de violencia intrafamiliar, evitando la reproducción de patrones conductuales que coloquen en estado de vulnerabilidad a amplios sectores de la sociedad;
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+Para efectos de la presente fracción los prestadores de servicios de salud podrán apoyarse en las Guías de Práctica Clínica y los medios electrónicos de acuerdo con las normas oficiales mexicanas que se encuentren vigentes, así como sus reformas y sean aplicables relativas a la detección, prevención, atención médica y la orientación que se proporciona a las y los usuarios de los servicios de salud en general y en particular a quienes se encuentren involucrados en situaciones de violencia familiar o sexual.
+
 V.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al adecuado crecimiento físico y mental de la niñez;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
@@ -649,89 +657,17 @@ X. La prevención y atención médica integral de las infecciones de transmisió
 
 ### CAPITULO II. SALUD MENTAL
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+ARTICULO 20 BIS 4.- (DEROGADO, P.O. 12 DE MAYO DE 2018)
 
-ARTICULO 20 BIS 4.- La salud mental, se define como el bienestar psíquico que experimenta de manera consciente una persona, como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, que le permiten el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación, de manera que pueda contribuir a su comunidad.
+ARTICULO 20 BIS 5.- (DEROGADO, P.O. 12 DE MAYO DE 2018)
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+ARTICULO 20 BIS 6.- (DEROGADO, P.O. 12 DE MAYO DE 2018)
 
-ARTICULO 20 BIS 5.- Toda persona que habite o transite en el Estado de Colima, independientemente de su edad, género, condición social, condiciones de salud, religión, identidad étnica, orientación sexual o cualquiera otro, tienen derecho a la salud mental.
+ARTICULO 20 BIS 7.- (DEROGADO, P.O. 12 DE MAYO DE 2018)
 
-El Gobierno del Estado, las dependencias e instituciones públicas, sociales y privadas, en el ámbito de sus respectivas competencias, tienen la obligación de garantizar el cumplimiento de este derecho, mediante una política transversal, con respeto a los derechos humanos y con un enfoque de género.
+ARTICULO 20 BIS 8.- (DEROGADO, P.O. 12 DE MAYO DE 2018)
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
-
-ARTICULO 20 BIS 6.- El núcleo familiar desempeña una función esencial en el desarrollo de las potencialidades de las personas con trastornos mentales, para ello deberá:
-
-I.- Proporcionar apoyo, cuidados, educación, protección a la salud, alimentación suficiente y adecuada;
-
-II.- Respetar los principios de autonomía individual, independencia, igualdad, no discriminación y todos aquellos que garanticen la igualdad en el ejercicio de sus derechos;
-
-III.- Recibir apoyo por parte del Gobierno del Estado, para el desarrollo de actividades que promuevan la integración y el desarrollo de sus integrantes;
-
-IV.- Recibir capacitación y orientación por parte de las instituciones públicas, sociales y privadas; y
-
-V.- Participar en actividades culturales, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con algún trastorno mental.
-
-Corresponde a la Secretaría, proporcionar a las personas que integren el núcleo familiar, debida asistencia, asesoría, orientación, capacitación y adiestramiento necesario para enfrentar dicha enfermedad.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
-
-ARTICULO 20 BIS 7.- Además de los derechos a que se refiere el artículo 20 Bis 5, las personas usuarias de los servicios de salud mental, tendrán derecho:
-
-I.- Al acceso oportuno y adecuado a los servicios de salud mental;
-
-II.- A la toma de decisiones relacionadas con su atención y tratamiento;
-
-III.- A la atención médica en el momento que lo solicite y, en su caso, a ser atendido en las instancias de salud del segundo y tercer nivel de atención, para completar su proceso de tratamiento y rehabilitación;
-
-IV.- A ser informado sobre las campañas, planes, programas y servicios que proporcione el Gobierno del Estado y las instituciones sociales y privadas en materia de salud mental;
-
-V.- A conservar la confidencialidad de la información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de los participantes en estudios;
-
-VI.- A que se informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del programa, campaña o tratamiento que reciba la persona usuaria, en caso de que sea menor de edad o incapaz. Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y comunidades para adolescentes, así como a grupos vulnerables;
-
-VII.- A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas;
-
-VIII.- A solicitar su diagnóstico diferencial, a recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reinserción al ámbito social y productivo, conservando su integridad psicológica, incluyendo a pacientes que hayan estado recluidos en un hospital o pabellón penitenciario psiquiátrico o establecimiento especializado en adiciones (sic);
-
-> <small>(REFORMADA P.O. 26 DE OCTUBRE DE 2013)</small>
-
-IX.- A ser ingresado a algún centro de internamiento mental por prescripción médica, como último recurso terapéutico, cuando presente conductas o acciones que puedan causarle daño físico inmediato o inminente a sí mismo, a terceros o a la propiedad, y únicamente en los casos donde la severidad de los síntomas y signos así lo indiquen. El internamiento se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determinen la autoridad competente y las disposiciones jurídicas aplicables;
-
-X.- A ser egresado del centro de internamiento mental, sólo cuando el médico tratante considere que puede continuar su tratamiento en forma ambulatoria y que ya no exista el riesgo que su conducta o acciones puedan causarle daño físico inmediato o inminente, así mismo, a terceros o la propiedad;
-
-XI.- A la rehabilitación que le permita la reinserción familiar, laboral y comunitaria;
-
-XII.- A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional;
-
-XIII.- A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral; y
-
-XIV.- A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo disposición contraria en este y demás ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
-
-ARTICULO 20 BIS 8.- El profesional de salud mental tiene la obligación de estar debidamente acreditado para ejercer sus funciones, lo que incluye al menos, tener Cédula Profesional, Título Profesional y, en su caso, certificados de especialización expedidos y registrados por las autoridades educativas competentes, con la finalidad de que el usuario corrobore que es un especialista en la materia de salud mental.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
-
-ARTICULO 20 BIS 9.- Corresponden a la Secretaría, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
-
-I.- Elaborar el Programa de Salud Mental para el Estado de Colima, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas y en esta Ley, fomentando la participación de los sectores social y privado;
-
-II.- Implementar de manera formal y sistemática, programas en materia de salud mental, con un enfoque de derechos humanos y perspectiva de género;
-
-III.- Diseñar y ejecutar de manera permanente en los medios de difusión masiva, campañas educativas para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención, en coordinación con las dependencias e instituciones competentes;
-
-IV.- Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Colima, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la rehabilitación;
-
-V.- Fijar, con pleno respeto a la autonomía municipal, los lineamientos de coordinación para que los ayuntamientos, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social;
-
-VI.- Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento y rehabilitación de los problemas de salud, así como en la prestación de los servicios de salud mental;
-
-VII.- Coordinarse con la Secretaría del Trabajo y Previsión Social del Estado de Colima, a efecto de establecer acciones para que las personas con trastornos mentales, previa valoración y certificación médica emitida por la Secretaría, puedan acceder a fuentes de trabajo; y
-
-VIII.- Las demás acciones que contribuyan a la promoción fomento (sic) de la salud mental de la población.
+ARTICULO 20 BIS 9.- (DEROGADO, P.O. 12 DE MAYO DE 2018)
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
@@ -915,11 +851,143 @@ IV.- La vigilancia de actividades ocupacionales que puedan poner en riesgo la sa
 
 ARTÍCULO 20 BIS 27.- En materia de higiene escolar, las escuelas que brinden educación especializada para las personas con trastornos del espectro autista, deberán apegarse a las normas oficiales para proteger su salud.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2018)</small>
+
+### CAPITULO IV. DE LA SALUD MENTAL
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 28.- La salud mental se define como el bienestar biopsicosocial que experimenta de manera consciente una persona, como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, que le permiten el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación, de manera que pueda contribuir a su comunidad.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 29.- El presente capítulo tiene por objeto:
+
+l. Regular las bases y modalidades, para garantizar el acceso a los servicios de salud mental en el Estado, con un enfoque de derechos humanos;
+
+ll. Establecer los mecanismos adecuados para la promoción, prevención, evaluación, diagnóstico, tratamiento, rehabilitación y fomento de la salud mental en instituciones de salud pública del Estado, así como para personas físicas o morales de los sectores social y privado, que coadyuven en la prestación de servicios en los términos y modalidades establecidas en la presente Ley;
+
+III. Definir los mecanismos y lineamientos para promover la participación de la población, en el desarrollo de los programas de salud mental del Estado; y
+
+IV. Las demás que le señalen otras leyes y disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 30.- Toda persona que habite o transite en el Estado, independientemente de su edad, género, condición social, condiciones de salud, religión, identidad étnica, orientación sexual o cualquiera otro, tienen derecho a la salud mental.
+
+El Gobierno del Estado, las dependencias e instituciones públicas, sociales y privadas, en el ámbito de sus respectivas competencias, tienen la obligación de garantizar el cumplimiento de este derecho, mediante una política transversal, con respeto a los derechos humanos y con un enfoque de género.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 31.- El núcleo familiar desempeña una función esencial en el desarrollo de las potencialidades de las personas con trastornos mentales, para ello deberá:
+
+I.- Proporcionar apoyo, cuidados, educación, protección a la salud, alimentación suficiente y adecuada;
+
+II.- Respetar los principios de autonomía individual, independencia, igualdad, no discriminación y todos aquellos que garanticen la igualdad en el ejercicio de sus derechos;
+
+III.- Recibir apoyo por parte del Gobierno del Estado, para el desarrollo de actividades que promuevan la integración y el desarrollo de sus integrantes;
+
+IV.- Recibir capacitación y orientación por parte de las instituciones públicas, sociales y privadas; y
+
+V.- Participar en actividades culturales, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con algún trastorno mental.
+
+Corresponde a la Secretaría, proporcionar a las personas que integren el núcleo familiar, debida asistencia, asesoría, orientación, capacitación y adiestramiento necesario para enfrentar dicha enfermedad.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 32.- Además de los derechos previstos en esta Ley, las personas usuarias de los servicios de salud mental, tendrán derecho:
+
+I.- Al acceso oportuno y adecuado a los servicios de salud mental;
+
+II.- A la toma de decisiones relacionadas con su atención y tratamiento, siempre y cuando su estado mental lo permita;
+
+III.- A la atención médica en el momento que lo solicite y, en su caso, a ser atendido en la instancia de salud del primer y segundo nivel de atención, para completar su proceso de tratamiento y rehabilitación;
+
+IV.- A ser informado sobre las campañas, planes, programas y servicios que proporcione el Gobierno del Estado y las instituciones sociales y privadas en materia de salud mental;
+
+V.- A conservar la confidencialidad de la información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de los participantes en estudios;
+
+VI.- A que se Informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del programa, campaña o tratamiento que reciba la persona usuaria, en caso de que sea menor de edad o incapaz. Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y comunidades para adolescentes, así como a grupos vulnerables;
+
+VII.- A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas;
+
+VIII.- A solicitar su diagnóstico diferencial, a recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reinserción al ámbito social y productivo, conservando su integridad psicológica, incluyendo a pacientes que hayan estado recluidos en un hospital o pabellón penitenciario psiquiátrico o establecimiento especializado en adiciones (sic);
+
+IX.- A ser ingresado a alguna unidad de salud mental por prescripción médica, como último recurso terapéutico, cuando presente conductas o acciones que puedan causarle daño físico inmediato o inminente así mismo, a terceros o a la propiedad, y únicamente en los casos donde la severidad de los síntomas y signos así lo indiquen. El internamiento se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determinen la autoridad competente y las disposiciones jurídicas aplicables;
+
+X.- A ser egresado de la unidad de salud mental, sólo cuando el médico tratante considere que puede continuar su tratamiento en forma ambulatoria y que ya no exista el riesgo que su conducta o acciones puedan causarle daño físico inmediato o inminente, así mismo, a terceros o la propiedad;
+
+XI.- A la rehabilitación que le permita la reinserción familiar, laboral y comunitaria;
+
+XII.- A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional;
+
+XIII.- A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral; y
+
+XIV.- A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo disposición contraria en este y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 33.- El profesional de salud mental tiene la obligación de estar debidamente acreditado para ejercer sus funciones, lo que incluye al menos, tener Cédula Profesional, Título Profesional y, en su caso, certificados de especialización expedidos y registrados por las autoridades educativas competentes, con la finalidad de que el usuario corrobore que es un especialista en la materia de salud mental.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 34.- Corresponden a la Secretaría, en el ámbito de su competencia, sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, las siguientes acciones:
+
+l.- Elaborar el Programa de Salud Mental para el Estado de Colima, conforme a los lineamientos establecidos en la Ley General de Salud, las Normas Oficiales Mexicanas y en esta Ley, fomentando la participación de los sectores social y privado;
+
+II.- Implementar de manera formal y sistemática, programas en materia de salud mental, con un enfoque de derechos humanos y perspectiva de género;
+
+III.- Diseñar y ejecutar de manera permanente en los medios de difusión masiva, campañas educativas para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención, en coordinación con las dependencias e instituciones competentes;
+
+IV.- Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Colima, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la rehabilitación;
+
+V.- Fijar, con pleno respeto a la autonomía municipal, los lineamientos de coordinación para que los ayuntamientos, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social;
+
+VI.- Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento, rehabilitación y seguimiento de los problemas de salud, así como en la prestación de los servicios de salud mental;
+
+VII.- Coordinarse con la Secretaría del Trabajo y Previsión Social del Estado de Colima, a efecto de establecer acciones para que las personas con trastornos mentales, puedan acceder y conservar su fuente de trabajo;
+
+VIII.- Las demás acciones que contribuyan a la promoción (sic) fomento de la salud mental de la población.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 35.- La Secretaría al momento de brindar atención de la Salud Mental, buscará dar prioridad a los grupos vulnerabilizados.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 36.- Para la atención de la salud mental, la Secretaría, en coordinación con la Dirección del centro de reinserción social, implementará acciones en materia de salud mental, a través de las áreas competentes.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 37.- Para la promoción de la salud mental, el Gobierno del Estado deberá:
+
+I. Dar a conocer las acciones que procuran una vida saludable a través de actividades educativas, recreativas y cívicas;
+
+II. Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo, y colaborar en el desarrollo de las mismas, cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable;
+
+III. Participar en las acciones de atención a personas afectadas en situación de emergencia o desastre en el Estado; y
+
+IV. Elaborar, difundir y llevar a cabo los programas de salud mental; así como contribuir en su aplicación cuando sea requerido por otras instancias de gobierno o instituciones, de acuerdo con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 38.- Las Instituciones de salud mental públicas, sociales o privadas, deberán:
+
+I. Abstenerse de todo tipo de discriminación sobre la base de la disfuncionalidad, velando por que la voluntad de la persona con trastorno mental prevalezca, atendiendo en todo momento al respeto de los derechos humanos (sic) las personas internadas;
+
+II. Evitar su aislamiento, permitiendo en todo momento la visita de sus familiares o persona que ejerza la legítima representación, previa autorización del médico tratante;
+
+III. Garantizar la confidencialidad de los datos de los pacientes;
+
+IV. Contar con personal necesario, capacitado y especializado para proporcionar de manera eficiente atención integral de las personas con algún trastorno mental de acuerdo con la enfermedad específica que padezcan y el grado de avance que contengan;
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2018)</small>
+
+ARTICULO 20 BIS 39.- Todo prestador de servicios de salud mental de los sectores público, social y privado, en caso de que observe algún tipo de lesión, discriminación, maltrato o cualquier otro signo que presuma la comisión de un delito en la persona que tenga algún trastorno mental, deberá de dar aviso inmediato al Ministerio Público correspondiente.
 
 ## TITULO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 21.
 
@@ -965,7 +1033,7 @@ La Secretaría expedirá las normas técnicas a que quedará sujeto el control s
 
 La Secretaría publicará en el Periódico Oficial, las normas técnicas en materia de salubridad local y, en caso de considerarlo necesario, las resoluciones que dicte sobre la revocación de las autorizaciones sanitarias.
 
-### CAPITULO III. CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 27.
 
@@ -983,7 +1051,7 @@ La Secretaría verificará que los mercados y centros de abasto, sean provisiona
 
 Los administradores, vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénico-sanitarias para el debido mantenimiento de sus locales y a sujetar el ejercicio de los mismos a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. CONSTRUCCIONES
 
 ###### ARTICULO 30.
 
@@ -1017,7 +1085,7 @@ Cuando los edificios, locales, construcciones o terrenos presenten un peligro, p
 
 Los propietarios o poseedores de los negocios establecidos en edificios o locales, están obligados a ejecutar las obras sanitarias que se requieran para cumplir con las disposiciones de higiene que establezca esta Ley, reglamentos y demás disposiciones relativas.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 38.
 
@@ -1037,7 +1105,7 @@ La aprobación de las solicitudes de conservación, refrigeración, exhumación 
 
 Para el traslado de cadáveres humanos se estará a lo dispuesto por la Ley General.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 41.
 
@@ -1073,7 +1141,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 Los Ayuntamientos proveerán y colocarán depósitos de basura en los parques, jardines, paseos y en otros lugares de la vía pública; además, realizarán el aseo y mantenimiento de los mismos, cada vez que sea necesario.
 
-### CAPITULO VII. AGUA POTABLE
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 46.
 
@@ -1121,7 +1189,7 @@ Queda a cargo del municipio, en el ámbito de su competencia, las actividades de
 
 La Secretaría podrá verificar en cualquier tiempo, el cumplimiento de la presente Ley y demás disposiciones legales aplicables.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE
 
 ###### ARTICULO 57.
 
@@ -1149,7 +1217,7 @@ Queda prohibido que los desechos que conduzcan los caños sean vertidos en ríos
 
 La infracción a esta disposición se sancionará de conformidad con los ordenamientos legales aplicables.
 
-### CAPITULO IX. ZONAS DE TOLERANCIA Y PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 63.
 
@@ -1177,7 +1245,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Los establecimientos que se encuentren en el supuesto del artículo anterior, la Secretaría podrá ordenar la desocupación de los mismos siguiendo el procedimiento correspondiente.
 
-### CAPITULO X. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. ZONAS DE TOLERANCIA Y PROSTITUCION
 
 ###### ARTICULO 67.
 
@@ -1205,7 +1273,7 @@ II.- A las personas que padezcan de alguna enfermedad sexualmente transmisible u
 
 La autoridad municipal determinará los lugares donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 71.
 
@@ -1231,7 +1299,7 @@ Tratándose de casos graves, de emergencia o cuando así lo requiera el tratamie
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS PUBLICOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 73.
 
@@ -1241,7 +1309,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local dicte la Secretaría.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS PUBLICOS
 
 ###### ARTICULO 75.
 
@@ -1251,23 +1319,7 @@ Para los efectos de esta Ley, se entiende por centro de reunión y espectáculos
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas que en materia de salubridad local emita la Secretaría.
 
-### CAPITULO XIII BIS. ESTABLECIMIENTOS DEDICADOS A LA CIRUGIA ESTETICA, PLASTICA Y RECONSTRUCTIVA
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
-
-ARTICULO 80 BIS.- La cirugía plástica, estética y reconstructiva, relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, o con efectos antienvejecimiento, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por especialistas en cirugía plástica, estética y reconstructiva certificados de conformidad a la Ley General de Salud.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
-
-ARTICULO 80 BIS 1.- Las sociedades, asociaciones, colegios o federaciones de especialistas dedicados a la cirugía plástica, estética y reconstructiva, deberán poner a disposición de la Secretaría de Salud del Estado un listado que contenga los nombres, y datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos certificados referido en este capítulo, y será de conocimiento público sus certificados o títulos de especialización vigentes, así como el o los procedimientos médico-quirúrgicos que lleven a cabo.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
-
-ARTICULO 80 BIS 2.- El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en la Ley General de Salud y su reglamento, las Normas Oficiales Mexicanas que se encuentren vigentes y sean aplicables relativas a las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada, las normas técnicas correspondientes y lo que establezca esta ley. Corresponde a la autoridad sanitaria ejercer el control sanitario de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
-
-ARTICULO 80 BIS 3.- La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS
 
 ###### ARTICULO 77.
 
@@ -1291,9 +1343,25 @@ El funcionamiento de los establecimientos señalados en este capítulo deberá a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 2015)</small>
 
-### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIII BIS. ESTABLECIMIENTOS DEDICADOS A LA CIRUGIA ESTETICA, PLASTICA Y RECONSTRUCTIVA
 
-### CAPITULO XV. TRANSPORTE PUBLICO
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+ARTICULO 80 BIS.- La cirugía plástica, estética y reconstructiva, relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, o con efectos antienvejecimiento, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por especialistas en cirugía plástica, estética y reconstructiva certificados de conformidad a la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+ARTICULO 80 BIS 1.- Las sociedades, asociaciones, colegios o federaciones de especialistas dedicados a la cirugía plástica, estética y reconstructiva, deberán poner a disposición de la Secretaría de Salud del Estado un listado que contenga los nombres, y datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos certificados referido en este capítulo, y será de conocimiento público sus certificados o títulos de especialización vigentes, así como el o los procedimientos médico-quirúrgicos que lleven a cabo.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+ARTICULO 80 BIS 2.- El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en la Ley General de Salud y su reglamento, las Normas Oficiales Mexicanas que se encuentren vigentes y sean aplicables relativas a las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada, las normas técnicas correspondientes y lo que establezca esta ley. Corresponde a la autoridad sanitaria ejercer el control sanitario de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
+
+ARTICULO 80 BIS 3.- La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
+
+### CAPITULO XIV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 81.
 
@@ -1313,7 +1381,7 @@ En caso de que estos establecimientos cuenten con servicios complementarios como
 
 La autoridad sanitaria competente, de conformidad con esta Ley y otras disposiciones legales aplicables, realizará el control sanitario a dichos establecimientos.
 
-### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO XV. TRANSPORTE PUBLICO
 
 ###### ARTICULO 85.
 
@@ -1323,7 +1391,7 @@ Para los efectos de esta Ley, se entiende por medio de transporte todo aquel veh
 
 Las unidades que circulen por uno o más municipios del Estado, deberán cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables.
 
-### CAPITULO XVII. CENTROS ANTIRRABICOS
+### CAPITULO XVI. GASOLINERIAS (SIC) Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 87.
 
@@ -1333,23 +1401,7 @@ Para los efectos de esta Ley, se entiende por gasolinería (sic) y estaciones de
 
 Los establecimientos a que se refiere este capítulo deberán contar con las instalaciones higienico-sanitarias que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XVIII. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
-
-ARTICULO 92 BIS.- Para los efectos de esta Ley, se entiende por casas, edificios y, en general, cualquier inmueble de dominio público o privado, a los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
-
-ARTICULO 92 BIS 1.- Los propietarios o poseedores de cualquiera de los establecimientos señalados en el artículo anterior, estarán obligados a conservar las condiciones higiénico-sanitarias de los mismos, en los términos que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes, so pena de las acciones sanitarias preventivas de seguridad a fin de garantizar la salud pública, independientemente de las medidas y sanciones aplicables por esta Ley.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
-
-ARTICULO 92 BIS 2.- La Secretaría verificará que los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano, cumplan con las condiciones higiénico-sanitarias que determine esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
-
-En caso de incumplimiento por parte de los propietarios o poseedores de dichos establecimientos, la Secretaría, llevará a cabo las acciones sanitarias preventivas necesarias para corregir las anomalías existentes o detectadas a través del procedimiento señalado en la fracción IV del artículo 121 de esta Ley.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
+### CAPITULO XVII. CENTROS ANTIRRABICOS
 
 ###### ARTICULO 89.
 
@@ -1395,6 +1447,24 @@ Las autoridades competentes mantendrán campañas permanentes de orientación a 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2007)</small>
 
+### CAPITULO XVIII. CASAS, EDIFICIOS Y, EN GENERAL, CUALQUIER INMUEBLE DE DOMINIO PUBLICO O PRIVADO
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
+
+ARTICULO 92 BIS.- Para los efectos de esta Ley, se entiende por casas, edificios y, en general, cualquier inmueble de dominio público o privado, a los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
+
+ARTICULO 92 BIS 1.- Los propietarios o poseedores de cualquiera de los establecimientos señalados en el artículo anterior, estarán obligados a conservar las condiciones higiénico-sanitarias de los mismos, en los términos que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes, so pena de las acciones sanitarias preventivas de seguridad a fin de garantizar la salud pública, independientemente de las medidas y sanciones aplicables por esta Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2007)</small>
+
+ARTICULO 92 BIS 2.- La Secretaría verificará que los establecimientos destinados como casa habitación, centros de trabajo, bodegas y, cualquier otro tipo de inmueble rústico o urbano, cumplan con las condiciones higiénico-sanitarias que determine esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+
+En caso de incumplimiento por parte de los propietarios o poseedores de dichos establecimientos, la Secretaría, llevará a cabo las acciones sanitarias preventivas necesarias para corregir las anomalías existentes o detectadas a través del procedimiento señalado en la fracción IV del artículo 121 de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
+
 ### CAPITULO XIX. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL CONSUMO DE TABACO
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
@@ -1431,11 +1501,9 @@ III. Efectos del abuso de éstas sustancias en los ámbitos familiar, social, ed
 
 IV. Los demás casos que ameriten su estudio y Análisis.
 
-### CAPITULO I. AUTORIZACIONES
-
 ## TITULO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 93.
 
@@ -1467,7 +1535,7 @@ Requieren de autorización sanitaria bajo la modalidad de permiso, los proyectos
 
 Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autoridad sanitaria competente en los términos de las disposiciones generales aplicables; asimismo, se regirán por lo que determine la legislación y disposiciones correspondientes.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE LAS AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 100.
 
@@ -1513,7 +1581,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La revocación surtirá efectos de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 107.
 
@@ -1547,7 +1615,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 112.
 
@@ -1657,7 +1725,7 @@ En el caso de los productos muestreados en procedimientos de muestreo o verifica
 
 ## TITULO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 125.
 
@@ -1741,7 +1809,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud de las personas.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 133.
 
@@ -1821,7 +1889,7 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 
 Impuesto el arresto, se hará del conocimiento a la autoridad correspondiente a efecto de que proceda a su ejecución.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 141.
 
@@ -1895,7 +1963,7 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente lo hará del conocimiento del Ministerio Público; lo anterior, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 151.
 
@@ -1972,6 +2040,8 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 ###### ARTICULO 162.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 163.
 
@@ -2116,3 +2186,15 @@ P.O. 26 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 342 POR EL QUE SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 16 DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 481 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 15 DE LA LEY DE SALUD DEL ESTADO DE COLIMA; SE ADICIONA LA FRACCIÓN XXII, PASANDO A LA ACTUAL XXII A SER XXIII, AL ARTÍCULO 60 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA; SE REFORMAN LAS FRACCIONES II Y III, ASIMISMO SE ADICIONA UNA FRACCIÓN IV, TODAS DEL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN A LA VIOLENCIA FAMILIAR”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 484 POR EL QUE SE APRUEBA REFORMAR, DEROGAR Y ADICIONAR DIVERSOS ARTÍCULOS A LA LEY DE SALUD DEL ESTADO DE COLIMA, EN MATERIA DE SALUD MENTAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
