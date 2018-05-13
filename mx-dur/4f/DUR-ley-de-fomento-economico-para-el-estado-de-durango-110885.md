@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2018-04-12"
+last_updated: "2018-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -80,6 +80,10 @@ VII. Fomentar el uso de tecnologías para el manejo adecuado del medio ambiente 
 VIII. Promover la cultura emprendedora, para impulsar la constitución de nuevas micro, pequeñas y medianas empresas y la consolidación de las ya existentes.
 
 IX. Establecer las bases para la operación del Sistema Duranguense de Apertura Rápida de Empresas en el Estado y sus Municipios.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2018)</small>
+
+X. Promover acciones para facilitar el acceso al financiamiento a empresarias y emprendedoras en igualdad de condiciones; evitando formas de discriminación que transgredan los derechos de las personas en su incorporación al mercado y la sana competencia.
 
 ###### ARTÍCULO 4.
 
@@ -189,7 +193,9 @@ XVI. Proponer al Consejo para el Desarrollo el Programa anual de promoción del 
 
 XVII. Promover la participación de los municipios, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, considerando las necesidades, el potencial y vocación productiva de cada región.
 
-XVIII. Colaborar con la Secretaría de Desarrollo Social del Gobierno del Estado, para la implementación de programas de desarrollo empresarial a grupos en situación de vulnerabilidad.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2018)</small>
+
+XVIII. Colaborar con la Secretaría de Desarrollo Social del Gobierno del Estado, para la implementación de programas de desarrollo empresarial a grupos en situación de vulnerabilidad, en especial para aquellos que se encuentren adicionalmente en situación de vulnerabilidad, por su condición de género.
 
 XIX. Establecer, en coordinación con el órgano encargado de la evaluación de políticas públicas, los mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las empresas y emprendedores, en la reglamentación respectiva.
 
@@ -1716,3 +1722,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- La Secretaría de Desarrollo Económico, deberá elaborar las reformas al Reglamento de la Ley de Fomento Económico para el Estado de Durango que deriven del presente Decreto, en un plazo que no excederá de 03 meses contados a partir del inicio de su vigencia.
+
+P.O. 13 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 371.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. Las reformas a esta Ley entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
