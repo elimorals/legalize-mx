@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-gobierno-digital-del-estado-de-durango-101264"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-16"
-last_updated: "2015-12-31"
+last_updated: "2018-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL GOBIERNO DIGITAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2018.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 16 de febrero de 2014.
 
@@ -187,7 +187,9 @@ II. Un Secretario Ejecutivo que será el Titular de Innovación Gubernamental;
 
 III. Siete Vocales, que serán:
 
-a) El Presidente en turno de la Mesa Directiva del Congreso del Estado;
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2018)</small>
+
+a) El Presidente de la Comisión de Ciencia, Tecnología e Innovación del Congreso del Estado;
 
 b) El Magistrado Presidente del Tribunal Superior de Justicia del Estado;
 
@@ -219,9 +221,11 @@ Los miembros de la Comisión tendrán derecho a voz y voto. Por cada miembro tit
 
 Los cargos de miembros de la Comisión serán honoríficos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2018)</small>
+
 ###### Artículo 11.
 
-El Presidente podrá invitar a las sesiones de la Comisión a representantes de otros órganos de la Administración Pública Estatal o Federal, de los Ayuntamientos y de los Poderes Legislativo y Judicial, sólo con derecho a voz.
+El Presidente podrá invitar a las sesiones de la Comisión a representantes de otros órganos de la Administración Pública Estatal o Federal, de los Ayuntamientos, del Poder Legislativo y del Poder Judicial, sólo con derecho a voz.
 
 La organización y funcionamiento de la Comisión que se refiere el presente Capítulo, deberá apegarse a lo dispuesto en el reglamento de la presente ley.
 
@@ -584,3 +588,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
+
+P.O. 13 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 372.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DEL GOBIERNO DIGITAL DEL ESTADO DE DURANGO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
