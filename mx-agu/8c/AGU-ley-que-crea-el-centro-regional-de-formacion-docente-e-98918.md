@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-centro-regional-de-formacion-docente-e-98918"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-19"
-last_updated: "2014-02-19"
+last_updated: "2018-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY QUE CREA EL CENTRO REGIONAL DE FORMACION DOCENTE E INVESTIGACION EDUCATIVA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL INSTITUTO DE PROFESIONALIZACIÓN PARA EL DOCENTE DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 14 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL CENTRO REGIONAL DE FORMACIÓN DOCENTE E INVESTIGACIÓN EDUCATIVA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE MAYO DE 2018 (ABROGADA).
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 19 de febrero de 2014.
 
@@ -366,3 +368,25 @@ Salvador Dávila Montoya,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 17 de febrero de 2014.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.-Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 296.- LEY ORGÁNICA DEL INSTITUTO DE PROFESIONALIZACIÓN PARA EL DOCENTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que Crea el Centro Regional de Formación Docente e Investigación Educativa, publicada en el Periódico Oficial del Estado de Aguascalientes el 19 de febrero de 2014, en virtud del Decreto Número 34 de la Sexagésima Segunda Legislatura del H. Congreso del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+La creación del organismo público descentralizado, denominado Instituto de Profesionalización para el Docente del Estado de Aguascalientes, así como la designación del Director General previstos en la presente Ley, se realizarán una vez que existan las disponibilidades presupuestales federales correspondientes, de igual forma la Secretaría de Finanzas de Gobierno del Estado quedará facultada a realizar cualquier reasignación de recursos con el fin de dotar a dicho órgano descentralizado del personal e infraestructura necesaria para su adecuado funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento que regule las funciones del organismo que con éste Decreto se crea, se emitirá por la Junta de Gobierno en un término de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
