@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-sociedad-del-114795"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-23"
-last_updated: "2017-10-02"
+last_updated: "2018-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de mayo de 2016.
 
@@ -95,41 +95,45 @@ I. Acceso Abierto. Se entenderá el acceso a través de una plataforma digital y
 
 II. CONACYT.- Al Consejo Nacional de Ciencia y Tecnología;
 
-III. Desarrollo Tecnológico.- El proceso de aplicación del conocimiento para la adaptación al cambio de tecnología en la producción de bienes o servicios y la transformación de la tecnología de punta aumentando la exportación en excelencia de los productos, con el fin de cumplir con los objetivos y con los estándares más altos de calidad, como la certificación de una ventaja competitiva ante los competidores, utilidad y costo del bien o servicio producido o generado;
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
 
-IV. Director General.- El titular del organismo descentralizado denominado Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
+III. Consejo.- Al Consejo Consultivo en Ciencia, Tecnología, Innovación y Sociedad del Conocimiento;
 
-V. Estado.- El Estado de Aguascalientes;
+IV. Desarrollo Tecnológico.- El proceso de aplicación del conocimiento para la adaptación al cambio de tecnología en la producción de bienes o servicios y la transformación de la tecnología de punta aumentando la exportación en excelencia de los productos, con el fin de cumplir con los objetivos y con los estándares más altos de calidad, como la certificación de una ventaja competitiva ante los competidores, utilidad y costo del bien o servicio producido o generado;
 
-VI. Estatuto Interno.- El Estatuto Interno del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, como ordenamiento expedido por la Junta de Gobierno que dispone la organización y funcionamiento de dicho Instituto y de sus órganos de Gobierno, Dirección y Consulta;
+V. Director General.- El titular del organismo descentralizado denominado Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
 
-VIl. IDSCEA.- Al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
+VI. Estado.- El Estado de Aguascalientes;
 
-VIII. Innovación.- Uso de tecnologías avanzadas; la transformación de una idea en un producto determinado, en uno nuevo o mejorado; la transformación de una tecnología en otra de mayor utilidad;
+VII. Estatuto Interno.- El Estatuto Interno del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, como ordenamiento expedido por la Junta de Gobierno que dispone la organización y funcionamiento de dicho Instituto y de sus órganos de Gobierno, Dirección y Consulta;
 
-IX. Investigación Científica y Tecnológica.- Aquélla que abarca la actividad científica, básica y aplicada en todas las áreas del conocimiento, así como aquella actividad tecnológica;
+VIII. IDSCEA.- Al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
 
-X. Investigador.- Profesional adscrito a las instituciones comprendidas en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, o en el padrón que establezca el IDSCEA, que ostenta un nivel académico reconocido nacionalmente de: Licenciatura, Especialidad, Maestría o Doctorado y que ejecuta acciones orientadas a la creación, aplicación e innovación de conocimientos, productos procesos o métodos, o participa en la gestión, difusión, divulgación y enseñanza de conocimientos e informa de los resultados y/o avances de una investigación;
+IX. Innovación.- Uso de tecnologías avanzadas; la transformación de una idea en un producto determinado, en uno nuevo o mejorado; la transformación de una tecnología en otra de mayor utilidad;
 
-XI. Junta de Gobierno.- El órgano máximo de gobierno del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
+X. Investigación Científica y Tecnológica.- Aquélla que abarca la actividad científica, básica y aplicada en todas las áreas del conocimiento, así como aquella actividad tecnológica;
 
-XII. Ley.- Ley de Ciencia, Tecnología, Innovación y Sociedad del Conocimiento para el Estado de Aguascalientes;
+XI. Investigador.- Profesional adscrito a las instituciones comprendidas en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, o en el padrón que establezca el IDSCEA, que ostenta un nivel académico reconocido nacionalmente de: Licenciatura, Especialidad, Maestría o Doctorado y que ejecuta acciones orientadas a la creación, aplicación e innovación de conocimientos, productos procesos o métodos, o participa en la gestión, difusión, divulgación y enseñanza de conocimientos e informa de los resultados y/o avances de una investigación;
 
-XIII. Museo.- Descubre Museo Interactivo de Ciencias y Tecnología de Aguascalientes;
+XII. Junta de Gobierno.- El órgano máximo de gobierno del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
 
-XIV. Plan.- El Plan Rector del Sistema Estatal para la Gestión del Conocimiento;
+XIII. Ley.- Ley de Ciencia, Tecnología, Innovación y Sociedad del Conocimiento para el Estado de Aguascalientes;
 
-XV. RED.- La red científica y tecnológica es la asociación formal o informal, articulada horizontalmente de instituciones, investigadores y demás integrantes de la comunidad científica, que interactúan atendiendo a un interés científico y tecnológico común;
+XIV. Museo.- Descubre Museo Interactivo de Ciencias y Tecnología de Aguascalientes;
 
-XVI. REICyTEA (Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes).- El documento oficial que contiene los datos de los investigadores de las instituciones de educación media y superior; centros de investigación instituciones o dependencias ejecutoras o financiadoras de acciones científicas y tecnológicas e instituciones u organismos dedicados a la difusión interna y externa o divulgación científica y tecnológica;
+XV. Plan.- El Plan Rector del Sistema Estatal para la Gestión del Conocimiento;
 
-XVII. RENIECYT.- Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas;
+XVI. RED.- La red científica y tecnológica es la asociación formal o informal, articulada horizontalmente de instituciones, investigadores y demás integrantes de la comunidad científica, que interactúan atendiendo a un interés científico y tecnológico común;
 
-XVIII. Sujetos.- Las instituciones, centros, organismos, empresas o personas físicas de los sectores social y privado dedicados a la investigación científica y tecnológica preferentemente en el Estado;
+XVII. REICyTEA (Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes).- El documento oficial que contiene los datos de los investigadores de las instituciones de educación media y superior; centros de investigación instituciones o dependencias ejecutoras o financiadoras de acciones científicas y tecnológicas e instituciones u organismos dedicados a la difusión interna y externa o divulgación científica y tecnológica;
 
-XIX. Usuarios.- Entes susceptibles a ser beneficiados por la adquisición de innovación y/o investigaciones científicas y tecnológicas, ya sean personas físicas o morales; y
+XVIII. RENIECYT.- Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas;
 
-XX. Vinculación.- A la relación formal y estructurada de intercambio científico, innovación y tecnología en todas las áreas del conocimiento con el objeto avanzar (sic) en el desarrollo de la ciencia, innovación y tecnología, así como el coadyuvar a la solución de problemas concretos que permitan tener información suficiente y oportuna para la toma de decisiones de todos los sectores económicos y áreas estratégicas, y la atención de las necesidades tecnológicas para el pleno desarrollo del conocimiento en el Estado.
+XIX. Sujetos.- Las instituciones, centros, organismos, empresas o personas físicas de los sectores social y privado dedicados a la investigación científica y tecnológica preferentemente en el Estado;
+
+XX. Usuarios.- Entes susceptibles a ser beneficiados por la adquisición de innovación y/o investigaciones científicas y tecnológicas, ya sean personas físicas o morales; y
+
+XXI. Vinculación.- A la relación formal y estructurada de intercambio científico, innovación y tecnología en todas las áreas del conocimiento con el objeto (sic) avanzar en el desarrollo de la ciencia, innovación y tecnología, así como el coadyuvar a la solución de problemas concretos que permitan tener información suficiente y oportuna para la toma de decisiones de todos los sectores económicos y áreas estratégicas, y la atención de las necesidades tecnológicas para el pleno desarrollo del conocimiento en el Estado.
 
 ###### Artículo 5°.
 
@@ -179,7 +183,9 @@ VI. Asesorar en materia de innovación a las entidades y dependencias de la Admi
 
 VIl. Proponer a la Junta de Gobierno las prioridades, los lineamientos programáticos y los criterios de asignación del gasto para ciencia y tecnología que deberán tomar en cuenta las dependencias y entidades de la Administración Pública Estatal en sus anteproyectos de programa y presupuesto;
 
-VIII. Participar en la programación anual del gasto, en base a los anteproyectos de presupuesto del Estado que elaboren las dependencias y entidades de la Administración Pública Estatal para apoyar la innovación, la investigación científica y el desarrollo tecnológico, a fin de asegurar su congruencia global con las políticas, prioridades, lineamientos programáticos y criterios de asignación del gasto definidos, mediante la armonización de acciones con la Coordinación Estatal de Planeación y Proyectos;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+VIII. Participar en la programación anual del gasto, en base a los anteproyectos de presupuesto del Estado que elaboren las dependencias y entidades de la Administración Pública Estatal para apoyar la innovación, la investigación científica y el desarrollo tecnológico, a fin de asegurar su congruencia global con las políticas, prioridades, lineamientos programáticos y criterios de asignación del gasto definidos, mediante la armonización de acciones con la Coordinación General de Planeación y Proyectos;
 
 IX. Promover la participación de la comunidad científica y de los sectores público, social y privado en el desarrollo de programas y proyectos de fomento a la innovación y al desarrollo tecnológico;
 
@@ -283,7 +289,9 @@ La Junta de Gobierno es el órgano máximo del IDSCEA y se integra por:
 
 I. El Secretario General de Gobierno, quien lo presidirá;
 
-II. Un Diputado integrante de la Comisión de Ciencia y Tecnología del Congreso del Estado; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+II. El Diputado Presidente de la Comisión de Ciencia y Tecnología del Congreso del Estado; y
 
 III. Los titulares de las Dependencias y Entidades siguientes:
 
@@ -291,9 +299,13 @@ A) Secretaría de Finanzas;
 
 B) Secretaría de Desarrollo Económico;
 
-C) Coordinación Estatal de Planeación y Proyectos;
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
-D) Oficialía Mayor; y
+C) Coordinación General de Planeación y Proyectos;
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
+D) Secretaría de Administración; e
 
 E) Instituto de Educación.
 
@@ -341,9 +353,17 @@ XII. Aprobar y modificar la estructura básica de la entidad de acuerdo con el m
 
 XIII. Conocer, analizar, realizar observaciones y emitir recomendaciones del informe anual que rinda el Director General sobre la gestión y funcionamiento del IDSEA;
 
-XIV. Fomentar la comunicación, relación e intercambio con entidades y órganos de otras administraciones que tengan objetivos similares; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-XV. Las demás que establezca la presente Ley, el Estatuto Interno y demás disposiciones aplicables.
+XIV. Fomentar la comunicación, relación e intercambio con entidades y órganos de otras administraciones que tengan objetivos similares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2018)</small>
+
+XV. Atender y responder a las recomendaciones emitidas por el Consejo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2018)</small>
+
+XVII (SIC). Las demás que establezca la presente Ley, el Estatuto Interno y demás disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -383,9 +403,23 @@ La Junta de Gobierno celebrará sesiones ordinarias en forma trimestral, de conf
 
 La convocatoria a las sesiones deberá notificarse por escrito a todos sus integrantes, con un mínimo de cinco días hábiles de anticipación, salvo que se trate de sesiones extraordinarias que podrán convocarse, cuando menos con 24 horas de anticipación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 21.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de cuando menos, la mitad más uno de sus de sus integrantes, entre los que deberá estar el Presidente o su suplente. En segunda convocatoria, la Junta de Gobierno podrá sesionar con los integrantes que asistan.
+Tratándose de sesiones ordinarias, la Junta de Gobierno sesionará válidamente con la asistencia de cuando menos, la mitad más uno de sus integrantes, entre los que deberá estar el Presidente.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+En caso de no estar completo el quórum de Ley para llevar a cabo la sesión, se convocará por segunda ocasión a los miembros integrantes de la misma dentro de las 48 horas siguientes.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+En la segunda convocatoria, la Junta de Gobierno podrá sesionar con los integrantes asistentes.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Tratándose de sesiones extraordinarias la Junta de Gobierno podrá sesionar con los miembros integrantes asistentes debiendo estar presente el Presidente.
 
 ###### Artículo 22.
 
@@ -399,13 +433,77 @@ Los acuerdos se asentarán en un Acta, que será suscrita por el Presidente y Se
 
 La Junta de Gobierno puede crear las comisiones internas de trabajo, permanentes o transitorias, que juzgue pertinentes para el mejor desempeño de sus atribuciones.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE MAYO DE 2018)</small>
+
+### CAPÍTULO SEGUNDO-A. Del Consejo Consultivo
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Artículo 24 A.- Para el mejor cumplimiento del objeto del organismo se integrará un Consejo Consultivo en Ciencia, Tecnología, Innovación y Sociedad del Conocimiento, como órgano asesor y de consulta permanente de la Junta de Gobierno, del IDSCEA y del Director General
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Artículo 24 B.- El Consejo se integra por:
+
+I. El Director General, quien lo presidirá;
+
+II. Un representante que será designado por cada uno de los Institutos y Universidades siguientes:
+
+A) Instituto Tecnológico de Aguascalientes;
+
+B) Instituto Tecnológico El Llano Aguascalientes;
+
+C) Instituto Tecnológico de Pabellón de Arteaga;
+
+D) Universidad Autónoma de Aguascalientes;
+
+E) Universidad Politécnica de Aguascalientes;
+
+F) Universidad Tecnológica de Aguascalientes; y
+
+G) Universidad Tecnológica del Norte de Aguascalientes.
+
+Los integrantes de la Fracción II deberán ser académicos y/o estudiantes que tengan relación directa con el estudio de la Ciencia, Tecnología e Innovación, y cumplir para su designación con los requisitos que establece el Artículo 14 de la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes. De igual forma durarán tres años en el encargo, sin posibilidad de reelección, y el mismo será honorífico.
+
+Para la designación de los integrantes de la Fracción II, las Instituciones y Universidades deberán emitir una convocatoria y llevar un proceso de selección que se apegue a los principios de legalidad, transparencia, imparcialidad, no discriminación, equidad, independencia y máxima publicidad; así como informar sobre la misma al Director General.
+
+El Consejo contará con un Secretario de Actas de entre sus integrantes, mismo (sic) será designado mediante el voto mayoritario de estos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Artículo 24 C.- El Consejo tendrá por función el emitir recomendaciones para la Junta de Gobierno y/o al IDSCEA, en razón de lo siguiente:
+
+I. Proponer mejoras sobre las políticas públicas y programas de apoyo a la investigación científica, el desarrollo tecnológico y la innovación; así como coadyuvar con la Junta de Gobierno en su evaluación;
+
+II. Proponer áreas y acciones prioritarias en materia de investigación científica, desarrollo tecnológico, innovación, formación de investigadores, difusión del conocimiento científico y tecnológico y cooperación técnica internacional;
+
+III. Analizar, estudiar y proponer mejoras sobre las disposiciones legales en la materia, así como formular sugerencias sobre Reformas y/o Adiciones a las mismas;
+
+IV. Revisar y presentar las propuestas de los diversos sectores de la sociedad, que deseen emitir alguna propuesta o sugerencia en materia de ciencia, tecnología e innovación; y verificar que se hagan llegar a los interesados para su atención o solución;
+
+V. Formular sugerencias tendientes a vincular el desarrollo tecnológico y la innovación en el sector productivo y de servicios, así como la vinculación entre la investigación científica y la educación conforme a los lineamientos que esta misma Ley y otros ordenamientos establecen; y
+
+VII (SIC). Las demás que le soliciten la Junta de Gobierno y/o el IDSCEA.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Artículo 24 D.- El Consejo celebrará sesiones ordinarias en forma trimestral, de conformidad al calendario aprobado internamente en la última sesión celebrada en el año anterior, pudiendo convocar por conducto del Presidente a reuniones extraordinarias cuantas veces sea necesario.
+
+La convocatoria a las sesiones deberá notificarse por escrito a todos sus integrantes, con un mínimo de cinco días hábiles de anticipación, salvo que se trate de sesiones extraordinarias que podrán convocarse, cuando menos con 24 horas de anticipación.
+
+El Consejo sesionará válidamente con la asistencia de cuando menos, la mitad más uno de sus de sus (sic) integrantes, entre los que deberá estar el Presidente. En segunda convocatoria, el Consejo podrá sesionar con los integrantes que asistan.
+
+Las recomendaciones del Consejo se tomarán por mayoría de votos; en caso de empate, el Presidente cuenta con voto de calidad.
+
+Los acuerdos se asentarán en un Acta, que será suscrita por el Presidente y el Secretario de Actas del Consejo, siendo éste último el responsable del resguardo de la misma.
+
 ### CAPÍTULO TERCERO. De la Dirección General
 
-### CAPÍTULO CUARTO. Del Órgano de Vigilancia
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 25.
 
-El Instituto estará a cargo de un Director General, que será designado y removido libremente por el Gobernador del Estado, que cuenta con las facultades y obligaciones que le otorgan la presente Ley, la Junta de Gobierno, las leyes y demás ordenamientos que resulten aplicables.
+El Instituto estará a cargo de un Director General, que cuenta con las facultades y obligaciones que le otorgan la presente Ley, la Junta de Gobierno, las leyes y demás ordenamientos que resulten aplicables.
 
 ###### Artículo 26.
 
@@ -413,9 +511,21 @@ Para ser Director General, además de cumplir con los requisitos establecidos en
 
 I. Contar con una residencia mínima de 2 años en el Estado;
 
-II. Ser persona de reconocida solvencia moral, contar con título y cédula profesional, tener un modo honesto de vivir y la capacidad necesaria para desempeñar el cargo, cuyo ejercicio requiere conocimientos y experiencia en materia administrativa, y en las áreas científicas o tecnológicas; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-III. No estar impedido, conforme a las disposiciones legales vigentes.
+II. Ser persona de reconocida solvencia ética, contar con título y cédula profesional y tener un modo honesto de vivir;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+III. Contar con la capacidad necesaria para desempeñar el cargo, cuyo ejercicio requiere conocimientos y experiencia en materia administrativa;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+IV. Tener conocimiento, experiencia y haber realizado acciones en las áreas científicas o tecnológicas; y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+V. Tener la nacionalidad mexicana en pleno ejercicio de sus derechos.
 
 ###### Artículo 27.
 
@@ -451,7 +561,9 @@ XIV. Ejecutar los acuerdos tomados por la Junta de Gobierno e informarle de su c
 
 XV. Recabar la información pertinente y los elementos estadísticos sobre las funciones del IDSCEA, para mejorar su desempeño;
 
-XVI. Auxiliar al Presidente emitiendo la convocatoria a sesión ordinaria o extraordinaria de la Junta de Gobierno, previo acuerdo y autorización del Presidente de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XVI. Presentar a la Junta de Gobierno las recomendaciones que emita el Consejo;
 
 XVII. Realizar las tareas editoriales, de difusión y de promoción, relacionadas con el objeto, programas y acciones del IDSCEA;
 
@@ -469,7 +581,27 @@ XXII. Las demás que le confieren la presente Ley, la Junta de Gobierno y otras 
 
 El Director General para el ejercicio de las atribuciones conferidas y el despacho de los asuntos de su competencia, contará de manera subordinada con las unidades administrativas y servidores públicos que le autorice la Junta de Gobierno, de acuerdo con las necesidades de los servicios que proporciona y de la disposición presupuestaria.
 
-### CAPÍTULO PRIMERO. Del Financiamiento
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Artículo 28 A.- Son facultades y atribuciones del Secretario Técnico las siguientes:
+
+I.- Asistir a las sesiones de la Junta de Gobierno, con voz pero sin voto;
+
+II.- Formular la Convocatoria para cada sesión, en la que se entregará el orden del día que previamente apruebe el Presidente y hacerla llegar cuando así se ordene;
+
+III.- Levantar acta circunstanciada de cada sesión que celebre la Junta de Gobierno, las que asentará en el libro autorizado por el Secretario General de Gobierno del Estado;
+
+IV.- Recabar las firmas de los asistentes al margen y al calce del acta de la sesión de la Junta de Gobierno;
+
+V.- Requerir al área de la Junta de Gobierno información correspondiente a la preparación y exhibición del material documentado que deba presentarse en cada sesión. Del material que se exhiba integrará un cuaderno para cada uno de los miembros titulares;
+
+VI.- Elaborar, firmar y enviar los citatorios para los integrantes de la Junta de Gobierno que deban asistir a la sesión;
+
+VII.- Auxiliar administrativamente en la celebración de las sesiones de la Junta de Gobierno; y
+
+VIII.- Certificar las actas que se aprueben en las sesiones de la Junta de Gobierno.
+
+### CAPÍTULO CUARTO. Del Órgano de Vigilancia
 
 ###### Artículo 29.
 
@@ -487,7 +619,7 @@ Para el cumplimiento de las funciones del Comisario Público, la Junta de Gobier
 
 ## TÍTULO TERCERO. DEL FINANCIAMIENTO, LOS FONDOS Y LOS ESTÍMULOS FISCALES
 
-### CAPÍTULO SEGUNDO. De Los Fondos
+### CAPÍTULO PRIMERO. Del Financiamiento
 
 ###### Artículo 32.
 
@@ -551,6 +683,14 @@ IV. Promover y estimular la creación equipamiento, mantenimiento y preservació
 
 Las reasignaciones de recursos de un proyecto que por necesidades del servicio requiera ser aplicadas a otro, deberá realizarse por la Junta de Gobierno previa solicitud fundada y motivada del Director General del IDSCEA.
 
+### CAPÍTULO SEGUNDO. De Los Fondos
+
+###### Artículo 40.
+
+El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo de la investigación científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones científicas y tecnológicas; realización de proyectos específicos de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como otorgar estímulos y reconocimientos a investigadores y expertos en tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2017)</small>
+
 ### CAPÍTULO TERCERO. Estímulos Fiscales
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
@@ -561,17 +701,9 @@ Dicho estímulo fiscal consistirá en reconocer un 25% de los gastos efectuados 
 
 Para los efectos del presente Artículo, se consideran como gastos e inversiones realizados en el ejercicio, en materia de investigación, desarrollo de tecnología y ciencia, aquellos que acrediten el cumplimiento de los Lineamientos que expida la Secretaría de Finanzas del Gobierno del Estado, y que a su vez estén destinados exclusivamente a las actividades estipuladas en el Artículo 38 de la presente Ley.
 
-###### Artículo 40.
-
-El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo de la investigación científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones científicas y tecnológicas; realización de proyectos específicos de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos de investigadores o centros de investigación, así como otorgar estímulos y reconocimientos a investigadores y expertos en tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2017)</small>
-
-### CAPÍTULO PRIMERO. De la Divulgación, Difusión y Fomento de la Cultura Científica
-
 ## TÍTULO CUARTO. INSTRUMENTOS DE APOYO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
 
-### CAPÍTULO SEGUNDO. De la Formación de Recursos Humanos
+### CAPÍTULO PRIMERO. De la Divulgación, Difusión y Fomento de la Cultura Científica
 
 ###### Artículo 41.
 
@@ -595,9 +727,17 @@ IV. Promover la producción de materiales cuya finalidad sea la divulgación del
 
 Para incrementar la divulgación y difusión científica, tecnológica e innovación en el Estado, el IDSCEA impulsará y apoyará logística y económicamente la realización de seminarios, coloquios, veranos, cursos, congresos y ferias de investigación y desarrollo.
 
-### CAPÍTULO TERCERO. Del Plan Rector del Sistema Estatal para la Gestión del Conocimiento
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE MAYO DE 2018)</small>
 
-### CAPÍTULO CUARTO. Del Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes
+### CAPÍTULO PRIMERO-A. De las Jornadas de Divulgación de la Cultura Científica
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Artículo 43 A.- El Gobierno del Estado, a través del IDSCEA llevará a cabo Jornadas de Divulgación de la Cultura Científica e Innovación Tecnológica, con el objetivo de propagar el conocimiento y fomentar la investigación en materia de ciencia y tecnología, en los niveles de educación básica, media superior y superior en el Estado.
+
+Para la adecuada realización de las Jornadas de Divulgación de la Cultura Científica e Innovación Tecnológica, así como la maximización de la cultura científica en el Estado, el IDSCEA atenderá a lo dispuesto en el Capítulo Tercero del presente Título.
+
+### CAPÍTULO SEGUNDO. De la Formación de Recursos Humanos
 
 ###### Artículo 44.
 
@@ -615,7 +755,7 @@ III. Promover programas de apoyo y becas para la realización de estudios de pos
 
 IV. Apoyar la integración de las comunidades científica y tecnológica del Estado.
 
-### CAPÍTULO PRIMERO. De las Relaciones entre la Investigación y el Sector Productivo
+### CAPÍTULO TERCERO. Del Plan Rector del Sistema Estatal para la Gestión del Conocimiento
 
 ###### Artículo 46.
 
@@ -639,7 +779,7 @@ IV. El análisis de la situación del Estado respecto de los principales indicad
 
 V. El planteamiento de las acciones, medidas y esfuerzos a realizar a mediano y largo plazo, por parte de los sectores público, privado, científico y académico para que el Estado alcance niveles de desarrollo económico y social mediante la aplicación de conocimientos e innovaciones tecnológicas equiparables a los de los países de la economía del conocimiento.
 
-### CAPÍTULO SEGUNDO. De las Relaciones entre la Investigación y la Educación
+### CAPÍTULO CUARTO. Del Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes
 
 ###### Artículo 48.
 
@@ -667,7 +807,7 @@ Las bases proveerán lo necesario para que el REICyTEA favorezca la vinculación
 
 ## TÍTULO QUINTO. DE LA VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
 
-### CAPÍTULO TERCERO. De la Coordinación y Desconcentración
+### CAPÍTULO PRIMERO. De las Relaciones entre la Investigación y el Sector Productivo
 
 ###### Artículo 51.
 
@@ -769,7 +909,7 @@ En cada caso se determinará la forma y condiciones en que el IDSCEA recuperará
 
 Los apoyos a que se refiere el Artículo anterior se otorgarán por un tiempo determinado, de acuerdo con el contenido y los objetivos del proyecto; y se mantendrán mientras se demuestre la viabilidad técnica y económica del proyecto.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. De las Relaciones entre la Investigación y la Educación
 
 ###### Artículo 57.
 
@@ -787,6 +927,8 @@ El Gobierno del Estado, a través del IDSCEA reconocerá los logros sobresalient
 
 El Gobierno del Estado, a través del IDSCEA, promoverá ante los sectores social y privado, la creación de centros, grupos, consorcios y redes de investigación y desarrollo tecnológico para el fomento de la investigación científica y tecnológica y la solución de problemas en el sector productivo.
 
+### CAPÍTULO TERCERO. De la Coordinación y Desconcentración
+
 ###### Artículo 61.
 
 El Ejecutivo del Estado, a través del IDSCEA, podrá suscribir convenios de coordinación, integración, cooperación y colaboración con los Municipios, con el Gobierno Federal y con los Gobiernos de otros Estados, o con Instituciones Públicas o Privadas de Investigación y Enseñanza a fin de establecer programas y apoyos específicos de carácter local para impulsar la desconcentración de la investigación científica y tecnológica.
@@ -798,6 +940,8 @@ En los convenios a que se refiere el párrafo anterior se determinarán los obje
 El IDSCEA convendrá con las entidades y dependencias de la administración pública federal, estatal o municipal a efecto de lograr acciones coordinadas que fomenten las actividades en ciencia y tecnología.
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 63.
 
@@ -870,3 +1014,19 @@ El presente Decreto entrará en vigor el 1º de enero de 2018.
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Finanzas del Gobierno del Estado deberá expedir los Lineamientos a que se refiere el Artículo 40 A, en un plazo máximo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 298 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Estado establecerá a partir del año 2019 una partida presupuestal con la finalidad de llevar a cabo las Jornadas materia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Consultivo materia del presente Decreto deberá instalarse en un plazo no mayor a ciento veinte días naturales, y la emisión de su Reglamento deberá presentarse dentro de los sesenta días naturales siguientes a su instalación.
