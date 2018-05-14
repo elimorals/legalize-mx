@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-del-estado-de-baja-47668"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-28"
-last_updated: "2016-10-31"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2018.
 
 Código publicado en Extraordinario del Boletín Oficial de Estado de Baja California Sur, el miércoles 28 de diciembre de 2005.
 
@@ -3191,695 +3191,327 @@ El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando 
 
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
-## Titulo VI. Del juicio de nulidad
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO ÚNICO DEL ARTÍCULO TERCERO DEL DECRETO 2530, LAS DEROGACIONES AL PRESENTE TÍTULO ENTRARÁN EN VIGOR UNA VEZ QUE COBRE VIGENCIA LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR, SALVO PARA LOS JUICIOS QUE SE ENCUENTREN EN TRÁMITE ANTE LA AUTORIDAD QUE CORRESPONDA.]</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
+
+## Título VI. Del juicio de nulidad
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 ### Capitulo primero. Disposiciones generales
 
 ###### Artículo 246.
 
-Los juicios que se promuevan ante el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, se substanciarán y resolverán con arreglo al procedimiento que el presente Código determina. A falta de disposición expresa, se aplicarán supletoriamente las prevenciones establecidas en el Código de Procedimientos Civiles del Estado de Baja California Sur; en su defecto, el Código Fiscal de la Federación y su Reglamento.
-
-En el caso de que la resolución impugnada afecte los intereses jurídicos de dos o más personas, y éstas promuevan conjuntamente juicio de nulidad, en el escrito inicial de la demanda deberán indicar el nombre del que se designe como representante común que será elegido de entre ellas mismas, y si no lo hicieren el magistrado designará con tal carácter a cualquiera de los interesados al admitir la demanda.
-
-Cuando la resolución recaída a un recurso administrativo no satisfaga el interés jurídico del recurrente y éste la controvierta, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúe afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 247.
 
-En los juicios de nulidad que se tramiten ante el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, no habrá lugar a condenación de costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 248.
 
-Toda promoción deberá ser firmada por quien la formule, sin este requisito, se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, aplicándose al respecto las disposiciones del Código de Procedimientos Civiles del Estado de Baja California Sur.
-
-No procederá la gestión de negocios, quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada, a más tardar, en la fecha de la presentación de la demanda o de la contestación.
-
-El poder especial para asunto o asuntos determinados, sólo podrá otorgarse a Licenciado en Derecho con título debidamente registrado, en los términos de la Ley Reglamentaria de los Artículos 3º y 5º de la Constitución Política de los Estados Unidos Mexicanos, en la Dirección General de Profesiones de la Secretaría de Educación Pública del Gobierno Federal o en la Coordinación de Servicios Profesionales de la Secretaría de Educación Pública del Gobierno del Estado de Baja California Sur.
-
-Los particulares o sus representantes dentro del juicio contencioso administrativo podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones, quienes podrán hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos.
-
-La representación de las autoridades corresponderá a la unidad administrativa encargada de su defensa jurídica, según lo disponga el Ejecutivo del Estado en el Reglamento o Decreto Respectivo, o conforme lo establezcan las disposiciones locales.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 249.
 
-Las diligencias que deban practicarse fuera del local del Tribunal, podrán encomendarse a alguno de los Secretarios o Actuarios del mismo Tribunal.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
-Cuando deban practicarse en lugar distinto, podrán encomendarse a los jueces de primera instancia del ramo civil o mixto de la jurisdicción, quienes estarán obligados a diligenciar los exhortos respectivos en los términos señalados en el Código de Procedimientos Civiles del Estado de Baja California Sur.
-
-En caso de incumplimiento a la obligación anterior dentro del plazo señalado, el Magistrado del Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur podrá solicitar al Magistrado Presidente del Tribunal Superior de Justicia del propio Estado, reconvenga o sancione a los jueces que hayan sido omisos en la diligenciación de los exhortos referidos.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-La sanción que se aplique, en su caso, consistirá en multa de diez y hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 ### Capitulo segundo. Del procedimiento
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección I. Disposiciones generales
 
 ###### Artículo 250.
 
-Serán partes en el procedimiento:
-
-I. El demandante;
-
-II. El demandado. Tendrán este carácter:
-
-a).- La autoridad que dicte, ordene, ejecute o trate de ejecutar el acto, resolución o trámite el procedimiento impugnado, o la que legalmente la sustituya;
-
-b).- El particular a quien favorezca la resolución cuya nulidad demande la autoridad administrativa.
-
-III. El tercero que dentro del procedimiento administrativo aparezca como titular de un derecho incompatible con el que pretenda el demandante;
-
-IV. El titular de la dependencia o entidad de la Administración Pública Estatal o Municipal, de la que dependa la autoridad mencionada en la fracción II de este artículo. En todo caso, la Secretaría de Finanzas será parte en los juicios en que se controviertan los actos de autoridades Municipales coordinadas, emitidos con fundamento en convenios o acuerdos en materia de coordinación e ingresos estatales.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 251.
 
-Las autoridades que figuren como parte en los juicios de nulidad, podrán acreditar delegados en las audiencias, con facultades para rendir pruebas, producir alegatos e interponer recursos.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección II. De las notificaciones y términos
 
 ###### Artículo 252.
 
-Toda resolución debe notificarse a más tardar el tercer día hábil siguiente a aquel en que el expediente haya sido turnado al actuario para ese efecto, y se asentará la razón respectiva a continuación de la misma resolución.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Al actuario que no cumpla con esta obligación, y con las demás obligaciones que se le establezcan en este código, se le impondrá una multa de 2 veces el valor diario de la Unidad de Medida y Actualización, con perjuicio de ser destituido, sin responsabilidad para el Estado, en el caso de reincidencia.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 253.
 
-En las notificaciones, el actuario asentará razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 254.
 
-Las notificaciones deberán hacerse directamente a los interesados, a sus representantes legales o a los autorizados en los términos de éste Código, en el local que ocupe el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, si las personas a quienes deba notificarse se presentan dentro de las veinticuatro horas siguientes a aquella en que se haya dictado la resolución. Cuando el particular no se presente se hará por lista autorizada que se fijará en sitio visible del local que ocupe el Tribunal, tomando en cuenta las excepciones del siguiente artículo.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 255.
 
-En el caso de que el particular no se presente al local que ocupa el Tribunal dentro del plazo señalado en el artículo anterior de este Código, las notificaciones se efectuarán personalmente o por correo certificado con acuse de recibo, siempre y cuando se trate de las siguientes resoluciones:
-
-I. La que admita o deseche la demanda, su ampliación y la contestación de ambas;
-
-II. La que señale día, lugar y hora para el desahogo de la prueba pericial, en su caso;
-
-III. La que tenga por contestada la demanda, cuando se impugne una negativa ficta o cuando el actor no conozca los fundamentos de la resolución, sino hasta que se conteste la demanda. En este caso, se acompañará copia de la contestación de la resolución que se notifica;
-
-IV. La de sobreseimiento y la de sentencia;
-
-V. La que mande emplazar a un tercero o citar a los testigos;
-
-VI. El requerimiento de un acto a la parte que deba cumplirlo;
-
-VII. La que admita o deseche un recurso;
-
-VIII. La que señale día y hora para el desahogo de una audiencia;
-
-IX. Aquellas que el Magistrado estime necesario.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 256.
 
-La lista a que se refiere el artículo 254 de este Código deberá contener: El nombre de la persona a quien se notifique, el número de expediente en que la notificación se haga y, una síntesis de la parte dispositiva de la resolución correspondiente. En los autos se hará constar la fecha de la fijación de la lista.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 257.
 
-Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
-
-Tratándose de las autoridades, las resoluciones que se dicten en los juicios que se tramiten ante el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, se deberán de notificar en todos los casos, únicamente a la unidad administrativa a la que en términos de las disposiciones legales aplicables le corresponda la representación en juicio de la autoridad señalada en la fracción IV del artículo 250 de este Código.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 258.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueren hechas. En los casos de notificaciones por lista se tendrá como fecha de notificación la del día en que se hubiese fijado.
-
-La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
-
-Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 259.
 
-Las notificaciones que no fueren hechas en la forma que establecen las disposiciones relativas de este Código serán nulas de pleno derecho. Las partes perjudicadas podrán pedir dentro del término de tres días contados a partir de que se conoció el hecho, en incidente de previo y especial pronunciamiento, que se declare su nulidad, la que una vez declarada, dará lugar a la reposición del mismo, desde el punto o actuación en que se incurrió en la violación correspondiente.
-
-Si se admite la promoción, se dará vista a las partes por el término de tres días para que expongan lo que a su derecho convenga; transcurrido dicho plazo se dictará resolución.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Si se declarare la nulidad de la notificación, se impondrá una multa de cinco a diez veces el valor diario de la Unidad de Medida y Actualización, al servidor público, sin que exceda el
-
-30% de su sueldo mensual, o actuario responsable, mismo que en caso de reincidencia podrá ser destituido de su cargo.
-
-Las promociones de nulidad, notoriamente infundadas, se desecharán de plano.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 260.
 
-El cómputo de los plazos se sujetará a las reglas siguientes:
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
-I. Empezarán a correr a partir del día siguiente a aquel en que surta efectos la notificación;
-
-II. Si están fijados en días, se computarán sólo los hábiles entendiéndose por éstos aquellos en que se encuentren abiertas al público las oficinas del Tribunal Unitario Contencioso Administrativo del Estado de Baja California Sur durante el horario normal de labores. La existencia de personal de guardia no habilita los días en que se suspendan las labores;
-
-III. Si están señalados en períodos o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día del plazo o la fecha determinada es inhábil, el término se prorrogará hasta el siguiente día hábil;
-
-IV. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario se entenderá en el primer caso que el plazo vence el mismo día del mes de calendario posterior a aquel en que se inició y en el segundo caso, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. Cuando no exista el mismo día en los plazos que se fijen por mes, éste se prorrogará hasta el primer día hábil del siguiente mes de calendario.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección III. De los impedimentos, excusas y recusaciones
 
 ###### Artículo 261.
 
-El Magistrado del Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur estará impedido para conocer de las causas administrativas cuando:
-
-I. Obre parentesco consanguíneo dentro del cuarto grado en línea colateral por consaguinidad (sic); civil sin limitación de grado; o por afinidad dentro del segundo grado de alguna de las partes de sus abogados patronos o de sus representantes o autorizados;
-
-II. Si tiene interés personal en el negocio;
-
-III. Si hubiese sido abogado, procurador, apoderado o asesor legal en el mismo;
-
-IV. Si hubiese dictado la resolución impugnada, intervenido con cualquier carácter en la emisión de la misma o en su ejecución;
-
-V. Si figura como parte en un juicio similar pendiente de resolución;
-
-VI. Si tiene amistad o enemistad manifiesta con alguna de las partes, de sus abogados, patronos o de sus representantes autorizados;
-
-VII. Encontrarse en una situación análoga o más grave de las mencionadas, que afecten su imparcialidad.
-
-Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que se refiere este artículo.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 262.
 
-El Magistrado tiene el deber de excusarse del conocimiento de los negocios cuando ocurra alguno de los impedimentos señalados en el artículo anterior, debiendo expresar concretamente en qué consiste el impedimento. No serán admisibles las excusas voluntarias.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 263.
 
-Cuando exista excusa del Magistrado conocerá del negocio el Pleno del Tribunal Superior de Justicia del Estado. Dentro de un plazo de 3 días, el Magistrado, enviará un informe al Pleno del Tribunal Superior de Justicia del Estado, manifestando la causa del impedimento, el cual calificará la excusa y de ser procedente conocerá del asunto.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 264.
 
-Las partes podrán, acompañando las pruebas pertinentes, recusar, en cualquier estado del juicio hasta el momento de la celebración de la audiencia final, al magistrado cuando se encuentre en alguno de los casos de impedimento señalados en este Código. Interpuesta la recusación, el magistrado recusado procederá conforme lo dispone el artículo anterior.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 265.
 
-La resolución que decida la recusación o excusa es irrevocable. Si se declara improcedente o no probada la causa de la misma, se impondrá al recusante, una multa equivalente de 100 a 150 veces el valor diario de la Unidad de Medida y Actualización.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección IV. De los casos de improcedencia y del sobreseimiento
 
 ###### Artículo 266.
 
-Es improcedente el juicio de nulidad ante el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur:
-
-I. Contra actos, resoluciones o procedimientos que no afecten los intereses jurídicos del actor;
-
-II. Contra actos, resoluciones o procedimientos que sean materia de otro juicio que se encuentre pendiente de resolución en el Tribunal, o haya sido materia de sentencia pronunciada por el mismo Tribunal, siempre que hubiere identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
-
-III. Contra actos, resoluciones o procedimientos consentidos expresa o tácitamente, entendiéndose por este último, aquel en el que no se promovió el juicio dentro de los plazos señalados por este Código;
-
-IV. Contra actos, resoluciones o procedimientos respecto de los cuales establezca este Código o una Ley Fiscal Especial, algún recurso, medio de defensa ante las autoridades administrativas, o deban ser revisadas de oficio por virtud del cual pueden ser modificadas, revocadas o nulificadas, aún cuando la parte interesada no la hubiere hecho valer oportunamente, con excepción de aquellos cuya interposición sea optativa;
-
-V. Contra resoluciones, actos o procedimientos administrativos que estén o hayan sido impugnados en un procedimiento judicial;
-
-VI. Cuando no exista resolución o acto impugnado;
-
-VII. Cuya impugnación no corresponda conocer al Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur;
-
-VIII. Cuando no se hagan valer conceptos de impugnación;
-
-IX. En los demás casos en que la improcedencia resulte de alguna disposición derivada de una ley fiscal o administrativa especial.
-
-La procedencia del juicio debe ser examinada de manera oficiosa por el Tribunal.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 267.
 
-Procede el sobreseimiento del juicio:
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
-I. Cuando el demandante se desista del juicio, o que este muera y su pretensión sea intransmisible;
-
-II. Cuando durante el juicio, la autoridad deje sin efecto el acto impugnado, apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior;
-
-III. Cuando el demandado, cualquiera que sea el estado en que se encuentre el juicio, no sea afectado por acto procesal en el plazo de 300 días, incluyendo los inhábiles;
-
-IV. En los demás casos en que por disposición legal, se tenga impedimento para emitir resolución en cuanto al fondo del asunto.
-
-El sobreseimiento del Juicio puede ser total o parcial.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección V. De la demanda
 
 ###### Artículo 268.
 
-La demanda deberá formularse por escrito, presentarse directamente ante el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, o enviarse por correo certificado con acuse de recibo dentro de los treinta días hábiles siguientes a aquel en que haya surtido efectos la notificación de la resolución impugnada cuando el demandante tenga su domicilio fuera del lugar donde esté la sede del Tribunal, siempre que el envío se efectúe en el lugar en que reside el demandante o en caso de que no exista oficina postal, desde la del lugar más próximo a dicho domicilio, con excepción de los siguientes casos:
-
-I. Si el demandante reside en el extranjero y no tiene representante en el Estado, el término para iniciar el juicio será de sesenta días;
-
-II. Cuando se pida la nulidad de una resolución favorable a un particular, la demanda deberá presentarse dentro de los cinco años siguientes a la fecha en que sea notificada la resolución, salvo que dicha resolución haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar la nulidad en cualquier época, pero los efectos de la sentencia, en caso de nulificarse la resolución favorable, sólo se retrotraerá a los 5 años anteriores a la presentación de la demanda;
-
-III. En los casos de negativa ficta, el interesado no está obligado a interponer la demanda dentro del término a que se refiere este artículo, pudiendo presentarla en cualquier tiempo mientras no se dicte resolución expresa y siempre que haya transcurrido el plazo que señala el artículo 60 de este Código;
-
-IV. Cuando la ley especial que regule el procedimiento señale otro plazo;
-
-V. Cuando el perjudicado fallezca durante el plazo a que se refiere este artículo, se suspenderá el término hasta que haya sido designado albacea. En los casos de incapacidad o de declaración de ausencia, hasta que la autoridad competente dicte la resolución correspondiente designando representante del desaparecido o ausente.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 269.
 
-El escrito de demanda deberá contener:
-
-I. El nombre del demandante y el domicilio que señale para recibir notificaciones, que será siempre de la Ciudad Capital del Estado de Baja California Sur;
-
-II. El nombre y domicilio del particular demandado, cuando el juicio sea promovido por la autoridad administrativa, y los del tercero interesado, cuando lo haya;
-
-III. La resolución, acto o procedimiento que impugne y la autoridad o autoridades demandadas;
-
-IV. Los conceptos de impugnación;
-
-V. Los hechos y los fundamentos de derecho en que se apoya la demanda;
-
-VI. Las pruebas que el actor se proponga rendir; cuando ofrezca prueba pericial o testimonial, el actor deberá indicar los nombres de los peritos o testigos y acompañar el escrito que contenga los puntos o cuestionario que los peritos deban contestar. Para el examen de los testigos, será necesario acompañar a la demanda los pliegos, cuestionarios o interrogatorios por escrito, y firmados por el demandante, para los efectos de la fracción III del articulo 294;
-
-VII. Lo que se pida, señalando en caso de solicitar una sentencia en condena, las cantidades o actos cuyo cumplimiento se demanda.
-
-Se presentará una copia de la demanda y sus anexos, para cada una de (sic) partes.
-
-Cuando se omita el nombre del demandante o los datos precisados en las fracciones III y IV, el magistrado desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones II, V, VI y VII, el magistrado requerirá al promovente para que señale dentro del termino de tres días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
-
-En el supuesto de que no se señale domicilio para recibir notificaciones del demandante o se desconozca el domicilio del tercero, las notificaciones relativas se efectuarán por lista autorizada, que se fijará en el sitio visible del propio tribunal.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 270.
 
-Los particulares o sus representantes legales, que soliciten la suspensión de la ejecución del acto impugnado deberán cumplir con los siguientes requisitos:
-
-I. Se podrá solicitar en el escrito de demanda;
-
-II. Por escrito presentado en cualquier tiempo, hasta que se dicte sentencia;
-
-III. Garantizará el interés fiscal por alguna de las formas que establece este Código;
-
-En el auto que acuerde la solicitud de suspensión de la ejecución del acto impugnado, se podrá decretar la suspensión provisional de la ejecución.
-
-Contra el auto que decrete o niegue la suspensión provisional no procederá recurso alguno.
-
-El magistrado dentro del término máximo de tres días, dictará sentencia interlocutoria que decrete o niegue la suspensión definitiva;
-
-Cuando la ejecución o inejecución del acto impugnado pueda ocasionar perjuicios al interés general, se denegará la suspensión solicitada.
-
-Cuando sea procedente la suspensión o inejecución del acto impugnado, pero con ella se pueda ocasionar daños o perjuicios a la otra parte o a terceros, se concederá al particular si otorga garantía bastante para reparar el daño e indemnizar por los perjuicios que con ello pudieran causar si no se obtiene sentencia favorable en el juicio de nulidad;
-
-Tratándose de la solicitud de suspensión de la ejecución contra el cobro de contribuciones, procederá la suspensión, previo depósito de la cantidad que se adeude ante la Secretaria de Finanzas o tesorerías municipales.
-
-El depósito no se exigirá cuando se trate del cobro de sumas que excedan de la posibilidad del actor según apreciación del magistrado, o cuando previamente se haya constituido la garantía del interés fiscal ante la autoridad exactora, o cuando se trate de persona distinta del causante obligado directamente al pago; en este último caso, se asegurará el interés fiscal por cualquiera de los medios de garantía permitidos por el artículo 172 del presente Código.
-
-Mientras no se dicte sentencia, el Tribunal podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 271.
 
-El demandante tendrá derecho a ampliar la demanda dentro de los diez días hábiles siguientes a aquel en que haya surtido efectos la notificación de la contestación, únicamente en los siguientes casos:
-
-I. Cuando se demanda una negativa ficta;
-
-II. Cuando el actor no conozca los fundamentos de la resolución impugnada, sino hasta que la demanda esté contestada;
-
-III. Cuando con motivo de la contestación, se introduzcan cuestiones no conocidas por el actor al presentar su demanda;
-
-IV. Contra el acto principal del que derive el impugnado, así como su notificación cuando se den a conocer en la contestación;
-
-V. Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, en este supuesto, si el demandante afirma conocer el acto, la impugnación contra la notificación la hará valer en la demanda, manifestando la fecha en que lo conoció, si manifiesta que no conoce el acto lo expresará en la demanda, señalando la autoridad a quien se lo atribuye. En este último caso la autoridad al contestar la demanda acompañara constancia del acto administrativo impugnado y de su notificación.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 272.
 
-El promovente deberá acompañar al escrito de su demanda:
-
-I. Los documentos que justifiquen su personalidad cuando no gestione en nombre propio, a menos que compruebe que dicha personalidad le ha sido reconocida en el procedimiento dentro del cual haya emanado la resolución que se impugna;
-
-II. Igualmente deberá presentar el documento en que conste la resolución o acto impugnado, o señalar el archivo o lugar en que se encuentre;
-
-III. En el caso que impugne una resolución negativa ficta, deberá acompañarse una copia, en la que obre el sello de recepción, de la instancia no resuelta expresamente por la autoridad;
-
-IV. En el caso de que se ofrezca la prueba pericial, deberá acompañarse el cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandante;
-
-V. Del mismo modo debe acompañarse el interrogatorio para el desahogo de la prueba testimonial, el que debe ir firmado por el demandante;
-
-VI. Por último se deberán acompañar las pruebas documentales que se ofrezcan.
-
-VII. La constancia de la notificación del acto impugnado. Cuando no se haya recibido constancia de notificación o la misma hubiere sido practicada por correo, así se hará constar en el escrito de demanda, señalando la fecha en que dicha notificación se practicó. Si la demandada al contestar la demanda hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, el magistrado concederá a la actora el término de tres días para que la desvirtúe. Si durante dicho término no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de la notificación de la referida resolución.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 273.
 
-Cuando se alegue que el acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, se estará a las reglas siguientes:
-
-I. Si el demandante afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer en la demanda, en la que manifestará la fecha en que lo conoció.
-
-En caso de que también impugne el acto administrativo, los conceptos de nulidad se expresarán en la demanda, conjuntamente con los que se formulen contra la notificación.
-
-II. Si el actor manifiesta que no conoce el acto administrativo que pretende impugnar, así lo expresará en su demanda, señalando la autoridad a quien atribuye el acto, su notificación o su ejecución. En este caso, al contestar la demanda, la autoridad acompañará constancia del acto administrativo y de su notificación, mismos que el actor podrá combatir mediante ampliación de la demanda;
-
-III. El Tribunal estudiará los conceptos de nulidad expresados contra la notificación, previamente al examen de la impugnación del acto administrativo.
-
-Si resuelve que no hubo notificación o que fue ilegal, considerará que el actor fue sabedor del acto administrativo desde la fecha en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, se hubiese formulado contra dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada, y como consecuencia de ello la demanda fue presentada extemporáneamente, sobreseerá el juicio en relación con el acto administrativo combatido.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 274.
 
-Si la demanda fuere obscura, irregular o no reúne los requisitos del artículo 269 de este Código, el magistrado deberá prevenir al actor para que la aclare, corrija o complemente, de acuerdo con los artículos anteriores, dentro del término de 3 días. Si dentro de este término no se subsanan las irregularidades señaladas, la demanda será desechada de plano.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 275.
 
-Se notificará a las autoridades demandadas la resolución por la que se desecha la demanda, remitiéndoles copia de ésta si la hubiere.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección VI. De la contestación
 
 ###### Artículo 276.
 
-Admitida la demanda, se correrá traslado con la misma y sus anexos a las partes, emplazándolas para que la contesten dentro de los treinta días hábiles siguientes a aquel en que surta efectos el emplazamiento. El plazo para contestar la ampliación de la demanda será de diez días hábiles contados a partir de aquel en que surta efectos la notificación del acuerdo que admita la ampliación. Si no se produce la contestación a tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
-
-La contestación de la demanda y en su caso de la ampliación deberá ser presentada directamente al Tribunal, o enviarse por correo certificado con acuse de recibo, si la parte demandada tiene su domicilio fuera de la sede del Tribunal.
-
-Cuando los demandados fueren varios, el término para contestar les correrá individualmente.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 277.
 
-El demandado en su contestación y en la contestación de la ampliación de la demanda, expresará:
-
-I. Las cuestiones de previo y especial pronunciamiento;
-
-II. Las consideraciones que a su juicio impidan que se emita decisión en cuanto al fondo o demuestren que no ha nacido o se ha extinguido, el derecho en que el demandante apoya su demanda;
-
-III. La refutación de los conceptos de impugnación, refiriéndose concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos o negándolos, expresando los que ignora por no ser propios o exponiendo como ocurrieron;
-
-IV. Los argumentos y fundamentos de derecho por medio de los cuales se demuestra la ineficacia de los conceptos de impugnación aplicables para apoyar la validez del acto, resolución o procedimiento impugnado;
-
-V. Las pruebas que se proponga rendir; cuando se trate de pruebas pericial o testimonial, indicará los nombres de los peritos o testigos y acompañará los escritos que contengan los puntos o cuestionario, o interrogatorios para el desahogo de las pruebas, sin estos señalamientos se tendrán por no ofrecidas dichas pruebas.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 278.
 
-El demandado deberá adjuntar a su contestación:
-
-I. Copias de la misma y de los documentos que acompañe para cada una de las partes;
-
-II. El documento en que acredite su personalidad cuando el demandante sea un particular y no gestione en nombre propio;
-
-III. El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandado;
-
-IV. En su caso, la ampliación del cuestionario para el desahogo de la pericial ofrecida por el demandante;
-
-V. Las pruebas documentales que ofrezca.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 279.
 
-La omisión de la presentación de las copias de los documentos mencionados en el artículo anterior, dará lugar a que el magistrado requiera al demandado para que exhiba las copias necesarias dentro del plazo de tres días, apercibiéndoles de que se tendrá por no contestada la demanda en caso de incumplimiento.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 280.
 
-Se presumirán ciertos los hechos que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas resulten desvirtuados, en los siguientes casos:
-
-I. Cuando no se produzca la contestación dentro del plazo a que alude el artículo 276 de este Código;
-
-II. Cuando la contestación no se refiera completamente a los hechos afirmados por el actor, solamente por lo que se refiere a los hechos propios del demandado;
-
-III. Cuando sin causa justificada el demandado no exhiba la prueba que le haya sido requerida.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 281.
 
-En la contestación de la demanda, no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
-
-En caso de negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
-
-Hasta antes del cierre de la instrucción, la autoridad demandada podrá allanarse a las pretensiones del demandante o revocar la resolución impugnada.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 282.
 
-Cuando haya contradicciones en cuanto a los fundamentos de derecho e interpretación entre la contestación de la autoridad que dicte u ordene, realice, ejecute o trate de ejecutar la resolución o procedimiento impugnado y la dada por el Secretario de Finanzas y en su caso de los tesoreros municipales, únicamente se tomará en cuenta, respecto a esas contradicciones lo expuesto por la propia Secretaría de Finanzas o la tesorería municipal.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 283.
 
-Dentro del mismo plazo de treinta días, el tercero interesado y el coadyuvante, podrán apersonarse en el juicio mediante un escrito respecto al cual será aplicable lo dispuesto en los artículos anteriores.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 284.
 
-En los juicios que se tramiten ante el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, sólo se admitirán los incidentes de previo y especial pronunciamiento, que serán los siguientes: los relativos a la acumulación de autos, nulidad de actuaciones y la recusación por causas de impedimento; igualmente los relativos a la interrupción del juicio por causa de muerte, incapacidad o declaratoria de ausencia del actor, así como lo relativo a nulidad de notificaciones.
-
-Todas las cuestiones diversas a las anteriores, se reservarán para la sentencia.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-El Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, impondrá sanción de 100 a 150 veces el valor diario de la Unidad de Medida y Actualización, al actor o demandante que promueva cualquier incidente que resulte notoriamente frívolo e improcedente.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 285.
 
-Procede la acumulación de dos o más juicios pendientes de resolución en los casos en que:
-
-I. Las partes sean las mismas y se invoquen idénticos agravios;
-
-II. Siendo diferentes las partes e invocándose distintos agravios, el acto impugnado sea uno mismo o se impugnen varias partes del mismo acto;
-
-III. Independientemente de que las partes y los agravios sean o no diversos, se impugnen actos que sean unos antecedentes o consecuencia de los otros.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 286.
 
-La acumulación se tramita de oficio o a petición de parte ante el Tribunal en el juicio que se haya promovido primero, en el escrito se hará relación de los autos y se rendirán alegatos. El Tribunal dentro de los diez días hábiles siguientes dictará la resolución que corresponda.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 287.
 
-Entre tanto se resuelve sobre la acumulación, se suspenderá el procedimiento en los juicios respectivos.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 288.
 
-Las solicitudes de acumulación notoriamente infundadas, se desecharán de plano. Decretada la acumulación, se agregarán todos los autos para ser resueltos en una misma sentencia.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 289.
 
-Los particulares podrán promover el incidente de suspensión de la ejecución, cuando la autoridad ejecutora niegue la suspensión, rechace la garantía ofrecida, o reinicie la ejecución, acompañando copia de los documentos en que se haga constar el ofrecimiento y, en su caso, otorgamiento de la garantía, así como de la solicitud de suspensión presentada ante la autoridad ejecutora y, si hubiere, la documentación en que conste la negativa de suspensión, el rechazo de la garantía o el reinicio de la ejecución. Este incidente podrá promoverse hasta antes de dictarse la resolución que ponga fin a la instancia ante el Tribunal. Mientras no se dicte la misma, el tribunal podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
-
-Con los mismos trámites a que se refiere el párrafo anterior, las autoridades fiscales podrán impugnar el otorgamiento de la suspensión cuando no se ajuste a la ley.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 290.
 
-En el auto que admita el incidente anterior, el magistrado ordenará correr traslado a la autoridad a quien se impute el acto, pidiéndole un informe que deberá rendir dentro del término de tres días, si la autoridad no rinde el informe y si éste no se refiere a los hechos que le impute el promovente, se tendrán éstos por ciertos.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
-Dentro de los cinco días hábiles siguientes a partir de que se haya recibido el informe, o de que haya vencido el término para presentarlo, el magistrado dictará resolución en la que decrete o niegue la suspensión o decida sobre la garantía ofrecida.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Si la autoridad no da cumplimiento a la orden de suspensión o de admisión de la garantía, el tribunal declarará la nulidad de las actuaciones realizadas con violación a la misma e impondrá a la autoridad renuente una multa de una a tres veces el valor diario de la Unidad de Medida y Actualización, elevado al mes.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección VII. De las pruebas
 
 ###### Artículo 291.
 
-En los juicios que se promuevan ante El Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, serán admisibles toda clase de pruebas, excepción la de confesión de autoridad mediante absolución de posiciones y la petición de informes, salvo que éstos se limiten a hechos que obren en documentos que obren en poder de las autoridades.
-
-No se considerarán comprendidas en la prohibición anterior, la petición de informes a las autoridades fiscales respecto de hechos que consten en sus expedientes o de documentos agregados a ellos, ni los casos en que se demande la nulidad de la resolución dictada al decidir acerca de una consulta.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia y haya sido notificada legalmente a las partes. En este caso, el magistrado instructor ordenará dar vista a la contraparte para que en el plazo de tres días exprese lo que a su derecho convenga.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 292.
 
-El magistrado tendrá facultad para ordenar la práctica de cualquier diligencia que tenga relación con los puntos controvertidos o para acordar la exhibición de cualquier documento.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 293.
 
-Cuando se planteen cuestiones de carácter técnico, científico o artístico el Tribunal, de oficio, podrá acordar que se rinda la prueba pericial.
-
-Al admitirse la prueba, se prevendrá a las demás partes, para que nombren al perito que les corresponda y adicionen el cuestionario con lo que les interese.
-
-Los peritos deben tener titulo en la especialidad a la que pertenezca la cuestión sobre la que ha de oírse su parecer, si estuviere legalmente reglamentada. Si no lo estuviere, podrá ser nombrada cualquier persona entendida a criterio del Tribunal.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 294.
 
-En el supuesto en que proceda de oficio, el Tribunal nombrará al perito, preferentemente del Tribunal de lo Contencioso Administrativo del Estado de Baja California Sur o de los adscritos a las dependencias públicas del estado o de los municipios, siempre y cuando reúnan los requisitos a que se refiere el artículo 291 de este Código.
-
-Los peritos así nombrados no podrán rehusar el cargo, salvo causa justificada que se acredite fehacientemente ante el Tribunal o en los casos de los impedimentos a que se refiere este Código.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 295.
 
-Al ofrecerse la prueba pericial, la parte oferente indicará la materia sobre la que deba versar, nombrará a su perito y exhibirá el cuestionario respectivo.
-
-Los peritos nombrados por las partes serán presentados por éstas al Tribunal dentro de los 10 días hábiles siguientes al en que surta efectos la notificación del acuerdo en que se les haya tenido como tales, a manifestar la aceptación y protesta de desempeñar su cargo conforme a la ley. Si el perito de la parte que ofreció la prueba no acude o no acepta el cargo dentro de ese plazo, la parte oferente perderá el derecho de presentarlo posteriormente o nombrar otro perito, teniéndosele por desistida de la prueba.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 296.
 
-En el desahogo de la prueba pericial se observaran las disposiciones siguientes:
-
-I. Los peritos previa aceptación del cargo, rendirán y ratificaran su dictamen, en el plazo de diez días, con el apercibimiento a la parte que lo propuso de que únicamente se consideraran los dictámenes rendidos dentro del plazo fijado;
-
-II. El Tribunal dictará las medidas necesarias para hacer comparecer a los peritos;
-
-III. El Tribunal y las partes podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con el dictamen que presenten;
-
-IV. Por única vez, y por causa justificada, comunicada al Tribunal antes de vencer los plazos mencionados en este artículo, las partes podrán solicitar la sustitución de su perito, señalando el nombre y el domicilio de la nueva persona propuesta;
-
-V. En el caso de que existan diferencias en los dictámenes presentados por los peritos, en alguno o algunos de los puntos esenciales sobre los que verse la prueba pericial, dichas diferencias se razonarán, en forma cuidadosa, se fundarán y motivarán al resolver el asunto, sin necesidad de nombrar perito tercero en discordia.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 297.
 
-La recepción de las pruebas se hará en el acuerdo de admisión de la demanda, ampliación de la misma, o en el de admisión de la contestación y en su caso de la ampliación de la contestación. En lo no previsto, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado de Baja California Sur:
-
-Cuando entre las pruebas ofrecidas y aceptadas se encuentren la confesional, la testimonial y la pericial, se aplicarán las siguientes reglas:
-
-I. El magistrado en el mismo acuerdo de admisión de la demanda o de la contestación y en su caso de la respectiva ampliación, dictará las medidas necesarias para su desahogo, señalando día y hora en que tendrá verificativo la audiencia en donde se desahoguen dichas pruebas. El magistrado, cuando a su juicio deba presidir la diligencia y lo permita la naturaleza de ésta, señalará lugar, día y hora para el desahogo de la prueba pericial pudiendo pedir a los peritos todas las aclaraciones que estime conducentes y exigirles la práctica de nuevas diligencias;
-
-II. En la audiencia a que se refiere la fracción anterior se realizará la aceptación y ratificación del cargo de perito y se calificarán las posiciones;
-
-III. Cuando la persona que deba absolver posiciones radique fuera de la ciudad y no tenga en ésta, constituido apoderado con facultad para absolverla, la diligencia se encomendará al Juzgado de Primera Instancia del Ramo Civil que corresponda;
-
-IV. La impugnación de los documentos puede hacerse desde la contestación de la demanda, hasta el día de la celebración de la audiencia;
-
-V. La prueba pericial se desahogará en la audiencia. El perito tercero será designado por el magistrado; cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer, preferentemente, en una institución fiduciaria;
-
-VI. No será impedimento para intervenir como testigo, el hecho de desempeñar un empleo o cargo público;
-
-VII. Para el examen de los testigos se presentarán los interrogatorios por escrito. Las preguntas serán formuladas verbal y directamente por las partes; tendrán relación directa con los puntos controvertidos, y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más que un hecho.
-
-El magistrado deberá cuidar de que se cumplan estas condiciones, impidiendo preguntas que las contraríen.
-
-VIII. La protesta y examen de los testigos se hará en presencia de las partes que concurriere (sic). Interrogará el promovente de la prueba y, a continuación, los demás litigantes.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 298.
 
-El magistrado calificará las preguntas y repreguntas en todos los casos, aún cuando la prueba haya de desahogarse en lugar distinto de la sede del Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 299.
 
-Se apreciará la resolución impugnada tal como aparezca autorizada por la autoridad, con las excepciones a que se refiere el artículo 298 de este Código.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 300.
 
-Se presumirán válidos los actos, resoluciones y procedimientos de la autoridad administrativa no impugnados de manera expresa en la demanda, o aquellos respecto de los cuales, aunque impugnados, no se allegaren elementos de prueba bastante para acreditar su ilegalidad.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 301.
 
-La valoración de las pruebas se hará de acuerdo con las siguientes disposiciones:
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
-I. Harán prueba plena la confesión expresa de las partes, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero, si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
-
-Tratándose de actos derivados de las facultades de comprobación de las autoridades fiscales del Estado o de los municipios, se presumirán legalmente afirmados los hechos que constan en las actas respectivas, salvo prueba en contrario.
-
-II. El valor probatorio de los dictámenes periciales y de la testimonial, así como de las demás pruebas quedará a la prudente apreciación del Tribunal;
-
-III. Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, el tribunal adquiera convicción distinta acerca de los hechos materia del juicio, podrá no sujetarse a los preceptos del presente Código, pero deberá entonces fundar cuidadosamente esta parte de la sentencia;
-
-IV. El Tribunal podrá invocar los hechos notorios.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección VIII. Del cierre de la instrucción
 
 ###### Artículo 302.
 
-El magistrado, diez días después de que haya concluido la sustanciación del juicio y no existiere ninguna cuestión pendiente que impida su resolución, notificará por lista a las partes que tienen un término de cinco días para formular alegatos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
-Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con alegatos o sin ellos, quedará cerrada la instrucción, sin necesidad de declaratoria expresa.
-
-Se estudiarán, aún de oficio, los sobreseimientos que procedan respecto de las cuestiones que impidan se emita una decisión en cuanto al fondo, y se dictará la resolución que corresponda.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 #### Sección IX. De la sentencia
 
 ###### Artículo 303.
 
-Instruido el proceso y declarados vistos los autos, se dictará sentencia.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 304.
 
-Serán causa de anulación de una resolución o de un procedimiento administrativo:
-
-I. La incompetencia del funcionario o empleado que haya dictado el acuerdo, realizado el acto o que haya tramitado el procedimiento impugnado;
-
-II. La omisión o incumplimiento de las formalidades que legalmente debe revestir la resolución o el procedimiento impugnado;
-
-III. Vicios del procedimiento que afecten las defensas del particular y trasciendan al sentido del acto impugnado;
-
-IV. La violación de la disposición aplicada, o no haberse aplicado la disposición debida;
-
-V. El desvío de poder, tratándose de resoluciones administrativas dictadas en el ejercicio de facultades discrecionales.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 305.
 
-Las sentencias del Tribunal, se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos de la resolución impugnada, la demanda y su contestación; en sus puntos resolutivos, expresará con claridad los actos o procedimientos cuya nulidad se declare, aquellos que modifique a aquellos o cuya validez se reconozca.
-
-Cuando se hagan valer diversas causales de ilegalidad, la sentencia o resolución deberá examinar primero aquellos que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios de procedimiento, la misma deberá señalar en qué forma afectaron las defensas del particular y trascendieron al sentido de la resolución.
-
-El magistrado podrá corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación.
-
-En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 306.
 
-La sentencia definitiva podrá:
-
-I. Reconocer la validez de la resolución impugnada;
-
-II. Declarar la nulidad de la resolución impugnada;
-
-III. Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales;
-
-IV. Declarar la existencia de un derecho subjetivo y condenar al cumplimiento de una obligación, así como declarar la nulidad de la resolución impugnada.
-
-Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, deberá cumplirse en un plazo de cuatro meses contados a partir de que la sentencia quede firme. Dentro del (sic) mismo términos deberá emitir la resolución definitiva, aun cuando hayan transcurrido los plazos señalados en los artículos 75, 80 y 98 de este código.
-
-En los casos (sic) se interponga recurso se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
-
-Siempre que se dé alguno de los supuestos previstos en las fracciones II y III del artículo 304 de este código, el Tribunal Unitario de lo Contencioso Administrativo del Estado declarará la nulidad para el efecto de que se reponga el procedimiento o se emita una nueva resolución; en los demás casos también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 307
 
-Cuando la sentencia declare la nulidad, y salvo que se limite a mandar reponer el procedimiento o reconocer la ineficacia del acto, en los casos en que la autoridad haya demandado la anulación de una resolución favorable a un particular, indicará los términos conforme a los cuales debe dictar nueva resolución la autoridad fiscal.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 308.
 
-Cuando se estime contradictoria, ambigua u obscura una sentencia definitiva del Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, se podrá promover por cualquiera de las partes por una sola vez su aclaración dentro de los diez días siguientes a aquel en que surta efectos su notificación.
-
-La instancia deberá señalar la parte de sentencia cuya aclaración se solicita, debiéndose resolver (sic) el Tribunal en un plazo de cinco días siguientes a la fecha en que fue interpuesta.
-
-La aclaración no admite recurso alguno y se reputará parte de la sentencia recurrida y su interposición interrumpe el término para su impugnación.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 309.
 
-En los casos de incumplimiento de sentencia firme o sentencia interlocutoria que hubiese otorgado la suspensión definitiva, la parte afectada podrá ocurrir en queja, por una sola vez, ante el Tribunal, de acuerdo con las siguientes reglas:
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
-I. Procederá contra los siguientes actos:
-
-a) La resolución que repita indebidamente la resolución anulada o que incurra en exceso o en defecto, cuando dicha resolución se dicte en cumplimiento de una sentencia;
-
-b) Cuando la autoridad omita dar cumplimiento a la sentencia, para lo cual deberá haber transcurrido el plazo previsto en ley;
-
-c) Si la autoridad no da cumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado en el juicio de nulidad.
-
-II. Se interpondrá por escrito ante el Tribunal, dentro de los diez días siguientes al día en que surte efectos la notificación del acto o la resolución que lo provoca. En el supuesto previsto en el inciso b) de la fracción anterior, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
-
-En dicho escrito se expresaran las razones por las que se considera que hubo exceso o defecto en el cumplimiento de la sentencia, repetición de la resolución anulada, o bien se expresará la omisión en el cumplimiento de la sentencia de que se trate.
-
-El Tribunal pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el Magistrado resolverá dentro de cinco días.
-
-III. En el caso de que haya repetición de la resolución anulada, el Magistrado hará la declaratoria correspondiente, dejando sin efectos la resolución repetida y la notificará al funcionario responsable de la repetición, ordenándole que se abstenga de incurrir en nuevas repeticiones.
-
-La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que ordene el acto o lo repita, para que proceda jerárquicamente y el Tribunal impondrá una multa de treinta a noventa días de salario normal del funcionario, tomando en cuenta el nivel jerárquico, la reincidencia y la importancia del daño causado por el incumplimiento.
-
-IV. Si el Tribunal resuelve que hubo exceso o defecto en el cumplimiento de la sentencia, dejará sin efectos la resolución que provocó la queja y concederá al funcionario responsable veinte días para que dé el cumplimiento debido al fallo, señalando la forma y términos precisados en la sentencia, conforme a los cuales deberá cumplir;
-
-V. Si el Tribunal resuelve que hubo omisión total en el cumplimiento de la sentencia, concederá al funcionario responsable veinte días para que dé cumplimiento al fallo. En este caso, además se procederá en los términos del párrafo segundo de la fracción III de este artículo;
-
-VI. Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución, si se solicita ante la autoridad ejecutora y se garantiza el interés fiscal en los términos del artículo 184.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución definitiva, se le impondrá una multa de veinte a ciento veinte veces el valor diario de la Unidad de Medida y Actualización. Existiendo resolución definitiva, si el Tribunal considera que la queja es improcedente, se ordenará instruirla como juicio.
-
-VII. Tratándose del incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado, la queja se interpondrá por escrito ante el magistrado, en cualquier momento.
-
-En dicho escrito se expresarán las razones por las que se considera que se ha dado el incumplimiento a la suspensión otorgada, y si los hay, los documentos en que consten las actuaciones de la autoridad en que pretenda la ejecución del acto.
-
-El magistrado pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia interlocutoria que hubiese otorgado la suspensión definitiva, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el magistrado resolverá dentro de cinco días.
-
-Si el Tribunal resuelve que hubo incumplimiento de la suspensión otorgada, declarará la nulidad de las actuaciones realizadas en violación a la suspensión.
-
-La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que incumpla la suspensión decretada, para que proceda jerárquicamente y el Tribunal impondrá al funcionario responsable o autoridad renuente, una multa equivalente a un mínimo de quince días de su salario, sin exceder del equivalente a cuarenta y cinco días del mismo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE MAYO DE 2018)</small>
 
 ### Capitulo Tercero. Del recurso de reclamación
 
 ###### Artículo 310.
 
-El recurso de reclamación procederá en contra de las resoluciones del Tribunal Unitario de lo Contencioso Administrativo que admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba; las que decreten o nieguen el sobreseimiento del juicio o aquéllas que admitan o rechacen la intervención del tercero. La reclamación se interpondrá dentro de los diez días siguientes a aquél en que surta efectos la notificación de que se trate.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 311.
 
-Interpuesto el recurso a que se refiere el artículo anterior, se ordenará correr traslado a la contraparte por el término de diez días para que exprese lo que a su derecho convenga y sin más trámite el Magistrado resolverá en el término de cinco días.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 312.
 
-Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiere cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
+(DEROGADO, B.O. 14 DE MAYO DE 2018)
 
 T R A N S I T O R I O S
 
@@ -3965,7 +3597,7 @@ RUBRICA
 
 B.O. 11 DE MARZO DE 2008.
 
-ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Boja California Sur.
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 6 DE JUNIO DE 2011.
 
@@ -3988,3 +3620,9 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2530 SE EXPIDE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL ARTÍCULO 118 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE DEROGA EL TÍTULO VI DEL CÓDIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- La presente derogación entrará en vigor una vez que cobre vigencia la Ley de Procedimiento Contencioso Administrativo para el Estado de Baja California Sur, salvo para los juicios que se encuentren en trámite ante la autoridad que corresponda.
