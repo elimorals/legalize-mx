@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2018-05-07"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -129,6 +129,10 @@ III.- Persona con discapacidad.- Toda aquélla que, por razones congénitas o ad
 
 IV.- Accesibilidad.- Combinación de elementos constructivos y operativos que permiten a cualquier persona con discapacidad entrar, desplazarse, salir, orientarse y comunicarse con un uso seguro, autónomo y cómodo en los espacios construidos, en mobiliario y equipo;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+IV Bis.- Deporte Adaptado. Todas aquellas disciplinas deportivas que han sido adecuadas y reglamentadas para que puedan ser practicadas por las personas con algún tipo de discapacidad;
+
 V.- Transversalidad.- Instrumentación de acciones y políticas públicas cuya relevancia del tema corresponda a dos o más secretarías, entes administrativos o ámbitos de Gobierno, con lo cual, cada uno de ellos, actúa en el marco de su responsabilidad, pero siempre de forma coordinada, a efecto de optimizar sus acciones y resultados;
 
 VI.- Progresividad.- Es un elemento inherente a la obligación que tienen autoridades y, en su caso, particulares para realizar todas aquellas acciones previstas y emanadas en la presente Ley, tratados internacionales y demás disposiciones jurídicas aplicables, el cual consiste en el empleo paulatino y el aumento del máximo de sus recursos disponibles, a efecto de que se llegue a cumplir cabalmente con tales obligaciones;
@@ -168,6 +172,10 @@ XXII.- Rehabilitación.- Proceso de duración limitada y con un objetivo definid
 XXIII.- Sistema de Escritura Braille.- Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil, por los ciegos o débiles visuales;
 
 XXIV.- Educación Especial.- Conjunto de servicios, programas, orientación y recursos educativos especializados, puestos a disposición de las personas que presenten algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XXIV Bis.- Educación Inclusiva.- Aquella que propicia la implementación de ajustes razonables para la inclusión de las personas con discapacidad en los planteles de educación, mediante la aplicación de sistemas, métodos, técnicas y materiales específicos que propicien su autonomía y participación plena en igualdad de condiciones como parte de la comunidad;
 
 XXV.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con las mismas oportunidades y posibilidades que el resto de la población;
 
@@ -385,9 +393,11 @@ V.- Coadyuvar en el financiamiento de prótesis, órtesis u otras ayudas funcion
 
 Toda persona con discapacidad tiene derecho a asistir a una institución o centro educativo para obtener educación, instrucción, capacitación o formación; siendo obligación del Estado garantizar una política de fomento de la educación y del proceso educativo, adecuado para las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 37.
 
-La educación pública y la privada, deberán incluir a las personas con discapacidad, incorporando las innovaciones y adecuaciones curriculares necesarias para permitir y facilitar su acceso a los cursos y niveles existentes, proporcionándoles la enseñanza complementaria que requieran, para asegurar su permanencia y progreso. Así mismo (sic), se deberán adecuar los espacios físicos de acceso y recreativos en las escuelas, con el fin de contribuir al desarrollo integral de las personas con discapacidad.
+La educación pública y la privada, será inclusiva, incorporando las innovaciones y adecuaciones curriculares necesarias para permitir y facilitar el acceso a los cursos y niveles existentes, proporcionando la enseñanza complementaria que requieran las personas con discapacidad, para asegurar su permanencia y progreso, así mismo propiciará la autosuficiencia que les permita tener una participación plena en igualdad de condiciones. Además, se deberán adecuar los espacios físicos de acceso y recreativos en las escuelas, con el fin de contribuir al desarrollo integral de las personas con discapacidad.
 
 ###### Artículo 38.
 
@@ -407,9 +417,17 @@ IV.- Fomentar la capacitación en el uso del lenguaje de señas; en la enseñanz
 
 V.- Garantizar el acceso de las personas sordas o con discapacidad auditiva a la educación bilingüe, misma que, comprende la enseñanza a través de la lengua de señas y el idioma castellano;
 
-VI.- Incluir programas permanentes relativos a las personas con discapacidad, en todos sus niveles y modalidades; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-VII.- Utilizar los medios técnicos, didácticos y nuevas tecnologías que faciliten el aprendizaje de las personas con discapacidad.
+VI.- Incluir programas permanentes relativos a las personas con discapacidad, en todos sus niveles y modalidades;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+VII.- Utilizar los medios técnicos, didácticos y nuevas tecnologías que faciliten el aprendizaje de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+VIII.- Promover la aplicación de sistemas, métodos, técnicas y materiales específicos que propicien la autosuficiencia de las personas con discapacidad.
 
 ###### Artículo 40.
 
@@ -593,9 +611,11 @@ Las instancias y entidades públicas competentes en materia cultural deberán fo
 
 Así mismo (sic), se generarán programas que promuevan el desarrollo de las habilidades, aptitudes y potencial artístico, creativo e intelectual de las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 68.
 
-Las instancias Estatales y Municipales competentes en materia deportiva, deberán garantizar el derecho de las personas con discapacidad al deporte, a través de la realización de programas, el desarrollo de políticas y acciones deportivas que fomenten su inclusión e integración.
+Las instancias Estatales y Municipales competentes en materia deportiva, deberán garantizar el derecho de las personas con discapacidad al deporte, a través de la realización de programas, el desarrollo de políticas y acciones deportivas que fomenten su inclusión e integración, además deberán promover y apoyar el deporte adaptado.
 
 ###### Artículo 69.
 
@@ -1040,3 +1060,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Ejecutivo Estatal contemplará una partida especial para el cumplimiento del presente Decreto, en los presupuestos para el ejercicio de cada año fiscal, a partir de su entrada en vigor.
 
 Tercero. El Ejecutivo Estatal expedirá los reglamentos y normatividad administrativa aplicable para el cumplimiento del presente Decreto, a más tardar 180 días a partir de su publicación en el Periódico Oficial.
+
+P.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 433 POR EL QUE SE QUE (SIC) REFORMA DIVERSAS DISPOSICIONES DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
