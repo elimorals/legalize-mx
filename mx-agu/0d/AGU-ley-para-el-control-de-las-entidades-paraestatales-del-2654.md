@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2011-10-31"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 28 DE MAYO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 123 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -53,9 +53,15 @@ Las disposiciones contenidas en la presente Ley son de orden público e interés
 
 Son entidades paraestatales los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos a que se refiere la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
 
-Son:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
 
-I.- Organismos descentralizados las entidades creadas por ley o decreto del Congreso del Estado con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
+Para efecto de lo dispuesto en el párrafo anterior, se entenderán como entidades paraestatales a las siguientes:
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+I.- Organismos descentralizados:
+
+Las entidades creadas por Ley o Decreto del Congreso del Estado con personalidad jurídica y patrimonio propio, cualquiera que sea la estructura legal que adopten;
 
 II.- Empresas de participación estatal mayoritaria, aquellas en las que:
 
@@ -73,31 +79,35 @@ Aquellos en los que el fideicomitente sea la Administración Pública Centraliza
 
 Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 4o.
 
-Las entidades paraestatales deberán proporcionar a las demás entidades, la información y datos que les soliciten, así como los que les requiera la Secretaría de Fiscalización y Rendición de Cuentas y el Órgano Superior de Fiscalización del Estado, respecto de las cuentas públicas que les sean presentadas.
+Las entidades paraestatales deberán proporcionar a las demás entidades, la información y datos que les soliciten, así como los que les requiera la Contraloría del Estado y el Órgano Superior de Fiscalización del Estado, respecto de las cuentas públicas que les sean presentadas.
 
 ###### ARTICULO 5o.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto y de los fines y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y en las demás que se relacionen con la Administración Pública y que no se opongan a ésta.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 6o.
 
-La Secretaría de Fiscalización y Rendición de Cuentas publicará anualmente en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública.
+La Contraloría del Estado publicará anualmente, durante el primer trimestre del año, en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 7o.
 
-Las infracciones a esta Ley serán sancionadas en los términos que legalmente correspondan atendiendo al régimen de responsabilidades de los servidores públicos.
+Las infracciones a esta Ley serán sancionadas en los términos que legalmente correspondan atendiendo al régimen de responsabilidades administrativas de los servidores públicos.
 
 ### CAPITULO II. De los Organismos Descentralizados
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 8o.
 
-En las leyes o decretos relativos que se expidan por el Congreso del Estado para la creación de un organismo descentralizado se establecerá:
+En las Leyes o Decretos relativos que se expidan por el Congreso del Estado para la creación de un organismo descentralizado se establecerá:
 
 I.- La denominación del organismo,
 
@@ -121,9 +131,13 @@ VI.- Las facultades y obligaciones del Organo de Gobierno, señalando cuáles de
 
 VII.- Las facultades y obligaciones del Director General, quien tendrá la representación legal del organismo,
 
-VIII.- Sus órganos de Vigilancia así como sus facultades, y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-IV (Sic).- El régimen laboral a que se sujetarán las relaciones de trabajo.
+VIII.- Su Órgano Interno de Control y Evaluación, así como sus facultades; y
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+IX.- El régimen laboral a que se sujetarán las relaciones de trabajo.
 
 El Organo de Gobierno deberá establecer las bases de organización así como las facultades y funciones que correspondan a las distintas áreas que integren el organismo.
 
@@ -131,11 +145,11 @@ Las disposiciones anteriores deberán inscribirse en el Registro Público de Ent
 
 En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación, debiendo la Ley o Decreto respectivo fijar la forma y términos de su extinción y liquidación.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 9o.
 
-Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista del interés público, la Secretaría de Fiscalización y Rendición de Cuentas propondrá al Ejecutivo la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista del interés público, la Contraloría del Estado propondrá al Gobernador del Estado la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ###### ARTICULO 10.
 
@@ -169,7 +183,7 @@ El propio Organo de Gobierno sesionará válidamente con la asistencia de por lo
 
 Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 14.
 
@@ -184,6 +198,10 @@ III.- No encontrarse en alguno de los impedimentos para ser miembro del Organo d
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2011)</small>
 
 Los servidores públicos del primer nivel jerárquico inferior al de Director General, serán designados y removidos por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Para la designación de los servidores públicos que sean Titulares de la Autoridad Auditora; la Autoridad Investigadora; y, Autoridad Substanciadora y Resolutora, que integren el Órgano Interno de Control y Evaluación, se deberá seguir el procedimiento establecido en el Artículo 45 A de esta Ley.
 
 ###### ARTICULO 15.
 
@@ -223,13 +241,13 @@ Son empresas de participación estatal mayoritaria las que se mencionan en el Ar
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo expuesto en la legislación aplicable, deberán sujetarse a los términos que se consignan en este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 19.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con su objeto o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía y del interés público, la Secretaría de Fiscalización y Rendición de Cuentas propondrá al Ejecutivo la enajenación de la participación estatal o en su caso su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública, se procederá en los términos del artículo 5° de esta Ley.
+Cuando alguna empresa de participación estatal mayoritaria no cumpla con su objeto o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía y del interés público, la Contraloría del Estado propondrá al Gobernador del Estado la enajenación de la participación estatal o en su caso su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública, se procederá en los términos del artículo 5o de esta Ley.
 
-En los casos en que se acuerde la enajenación, en igualdad de condiciones y respetando los términos de las leyes y de los estatutos correspondientes, los trabajadores organizados de la empresa tendrán preferencia para adquirir los títulos, representativos del capital de los que sea titular el Gobierno.
+En los casos en que se acuerde la enajenación, en igualdad de condiciones y respetando los términos de las Leyes y de los Estatutos correspondientes, los trabajadores organizados de la empresa tendrán preferencia para adquirir los títulos, representativos del capital de los que sea titular el Gobierno.
 
 ###### ARTICULO 20.
 
@@ -245,9 +263,9 @@ Los Directores Generales o sus equivalentes de las empresas de participación es
 
 La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y legislación correspondiente.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
-La Secretaría de Fiscalización y Rendición de Cuentas intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
+La Contraloría del Estado intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
 ### CAPITULO IV. De los Fideicomisos Públicos
 
@@ -257,7 +275,9 @@ La Secretaría de Fiscalización y Rendición de Cuentas intervendrá a fin de s
 
 Los fideicomisos públicos que se establezcan en los términos del artículo 2 de la presente Ley, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, que tengan como propósito auxiliar al Ejecutivo mediante la realización de actividades prioritarias y se encuentren coordinados por las Dependencias del Ejecutivo según lo acuerde el Gobernador del Estado, serán los que se consideren entidades paraestatales conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado y quedarán sujetos a las disposiciones de esta Ley
 
-El Ejecutivo Estatal a través de la Secretaría de Fiscalización y Rendición de Cuentas, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, y contará con un Director General designado por el Gobernador del Estado, quien actuará como delegado fiduciario especial de la Institución fiduciaria.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
+El Ejecutivo Estatal a través de la Contraloría del Estado, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, y contará con un Director General designado por el Gobernador del Estado, quien actuará como delegado fiduciario especial de la Institución fiduciaria.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
@@ -275,11 +295,13 @@ En los contratos constitutivos de fideicomisos del Poder Ejecutivo, se deberá r
 
 ### CAPITULO V. Inscripción de Entidades Paraestatales
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 26.
 
-Las entidades paraestatales deberán inscribirse en el Registro Público respectivo que llevará la Dirección General del Registro Público de la Propiedad.
+Las entidades paraestatales deberán inscribirse en el Registro Público respectivo que llevará la Dirección General del Registro Público de la Propiedad y del Comercio del Estado.
 
-Los Directores Generales o quienes realicen funciones similares en las entidades paraestatales, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Los Directores Generales o quienes realicen funciones similares en las entidades paraestatales, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTICULO 27.
 
@@ -321,11 +343,11 @@ III.- Los efectos que causen sus actividades en el ámbito sectorial, así como 
 
 IV.- Los rasgos más destacados de su organización para la producción o distribución de los bienes y prestación de servicios que ofrece.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 31.
 
-Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación, al Plan Estatal de Desarrollo, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas en la Ley de Ingresos y en el Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal de que se trate. Dentro de tales directrices las entidades formularán sus programas institucionales a corto, mediano y largo plazo.
+Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación del Desarrollo Estatal y Regional del Estado de Aguascalientes, al Plan Sexenal de Gobierno del Estado, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas en la Ley de Ingresos y en el Presupuesto de Egresos del Estado del ejercicio fiscal de que se trate. Dentro de tales directrices las entidades paraestatales formularán sus programas institucionales a corto, mediano y largo plazo.
 
 ###### ARTICULO 32.
 
@@ -335,11 +357,11 @@ El programa institucional constituye la asunción de compromisos en términos de
 
 Los presupuestos de las entidades se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 34.
 
-En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca el Presupuesto de Egresos del Gobierno del Estado. En caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gasto establezca el Presupuesto de Egresos del Estado. En caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
@@ -349,11 +371,11 @@ La entidad paraestatal manejará y erogará sus recursos propios por medio de su
 
 Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría de Finanzas, en los términos que se fijen en los presupuestos de egresos anuales, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 36.
 
-Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que se establezca en la Ley de Ingresos del Gobierno del Estado en la que deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero, así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios de suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que se establezca en la Ley de Ingresos del Estado en la que deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero, así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios de suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
 
@@ -381,9 +403,9 @@ I.- Establecer en congruencia con los programas sectoriales, las políticas gene
 
 II.- Aprobar los programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
-En lo tocante a los presupuestos y a los programas financieros, remitirlos a la Secretaría de Finanzas del Estado, para que sean incluidos en el Proyecto de Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado.
+En lo tocante a los presupuestos y a los programas financieros, remitirlos a la Secretaría de Finanzas del Estado, para que sean incluidos en el proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado,
 
 III.- Fijar y ajustar los precios de bienes y servicios que produzca o preste la entidad paraestatal con excepción de los de aquéllos que se determinen por acuerdo del Ejecutivo,
 
@@ -399,9 +421,9 @@ VII.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y progr
 
 VIII.- Aprobar la estructura básica de la organización de la entidad paraestatal y las modificaciones que procedan a la misma. Aprobar asimismo las facultades y funciones que correspondan a las distintas áreas de la entidad,
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-IX.- Proponer al Ejecutivo por conducto de la Secretaría de Fiscalización y Rendición de Cuentas, los convenios de fusión con otras entidades,
+IX.- Proponer al Ejecutivo por conducto de la Contraloría del Estado, los convenios de fusión con otras entidades paraestatales,
 
 X.- Autorizar la creación de comités de apoyo,
 
@@ -409,7 +431,9 @@ X.- Autorizar la creación de comités de apoyo,
 
 XI.- Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad paraestatal que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones,
 
-XII.- Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario quien podrá ser miembro o no del mismo, así como designar o remover a propuesta del Director General de la entidad al Prosecretario del citado órgano de gobierno, quien podrá ser o no miembro de dicho órgano de gobierno o de la entidad,
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XII.- Nombrar y remover a propuesta de su Presidente, al Secretario, quien podrá ser miembro o no del Órgano de Gobierno o de la entidad paraestatal,
 
 XIII.- Aprobar la constitución de reservas y aplicación de las utilidades de las entidades paraestatales,
 
@@ -419,9 +443,9 @@ XV.- Analizar y aprobar en su caso, los informes periódicos que rinda el Direct
 
 XVI.- Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, y
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-XVII.- Aprobar las normas y bases para negociar convenios cuando terceros tengan adeudos a favor de la entidad paraestatal y fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Fiscalización y Rendición de Cuentas.
+XVII.- Aprobar las normas y bases para negociar convenios cuando terceros tengan adeudos a favor de la entidad paraestatal y fuere notoria la imposibilidad práctica de su cobro, informando a la Contraloría del Estado.
 
 ###### ARTICULO 42.
 
@@ -453,19 +477,31 @@ XI.- Establecer los mecanismos de evaluación que destaquen la eficiencia y efic
 
 XII.- Ejecutar los acuerdos que dicte el Organo de Gobierno,
 
-XIII.- Suscribir, en su caso, los contratos colectivos o individuales que regulen las relaciones laborales de la entidad con sus trabajadores, y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-XIV.- Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
+XIII.- Suscribir, en su caso, los contratos colectivos o individuales que regulen las relaciones laborales de la entidad con sus trabajadores,
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XIV.- Expedir certificaciones de los documentos que obren en los archivos de la entidad paraestatal,
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XV.- Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos Internos de Control y Evaluación de la entidad paraestatal se realicen de acuerdo con las disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XVI.- Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
 
 ### CAPITULO VII. Del Control y Evaluación
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 43.
 
-El Órgano de Vigilancia de las entidades paraestatales estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
+El Órgano Interno de Control y Evaluación tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de la entidad paraestatal; estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
 
-Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Fiscalización y Rendición de Cuentas les asigne específicamente conforme la ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General deberán proporcionar la información que solicite el Comisario Público de la entidad paraestatal correspondiente y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
+Los Comisarios Públicos evaluarán el desempeño general y por funciones de la entidad paraestatal, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General deberán proporcionar la información que solicite el Comisario Público de la entidad paraestatal correspondiente y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
 
 ###### ARTICULO 44.
 
@@ -477,53 +513,177 @@ II.- Los Directores Generales definirán las políticas de instrumentación de l
 
 III.- Los demás servidores públicos de la entidad responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 45.
 
-Los órganos internos de control serán parte integrante de la estructura de la entidad paraestatal. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad, desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de Fiscalización y Rendición de Cuentas, de acuerdo con las siguientes bases:
+Los Órganos Internos de Control y Evaluación tienen a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la entidad paraestatal, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+
+Serán parte de la estructura orgánica de la entidad paraestatal y contarán con las autoridades necesarias para el cumplimiento de sus atribuciones en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; Ley Orgánica de la Administración Pública del Estado de Aguascalientes; Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios; Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios; ésta Ley y demás normatividad aplicable.
+
+Los Órganos Internos de Control y Evaluación dirigirán sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado y de acuerdo con las siguientes bases:
 
 I.- Dependerán del Director General de la entidad paraestatal,
 
-II.- Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía, y
+II.- Realizarán sus actividades con independencia y autonomía,
 
-III.- Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control, efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables, presentarán al Director General, al Organo de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizadas.
+III.- Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control, efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables, presentarán al Director General, al Órgano de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizadas, y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+IV.- Conocerán, tramitarán, substanciarán y en su caso resolverán el procedimiento de responsabilidad administrativa, en términos de lo establecido por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+ARTICULO 45 A.- Para el ejercicio de sus funciones, el Órgano Interno de Control y Evaluación, se conformará de la siguiente manera:
+
+I. Autoridad Auditora;
+
+II. Autoridad Investigadora; y
+
+III. Autoridad Substanciadora y Resolutora.
+
+Los Titulares de dichas Autoridades serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+
+El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+En caso de urgente necesidad, con el objeto de atender situaciones con términos de vencimiento, el Director General, bajo su estricta responsabilidad, designará directamente al servidor público responsable de ejercer las funciones de alguna de las Autoridades del Órgano Interno de Control, siempre y cuando dicha designación no exceda de 30 días, plazo durante el cual deberá realizarse el procedimiento de designación establecido en el segundo párrafo del presente Artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+ARTICULO 45 B.- Las funciones de las Autoridades que integran al Órgano Interno de Control y Evaluación serán las siguientes:
+
+A. Autoridad Auditora:
+
+I. Elaborar, someter a consideración de la Junta de Gobierno y ejecutar el programa anual de auditorías a las diversas áreas que conforman la entidad paraestatal;
+
+II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de la entidad paraestatal;
+
+III. Presentar ante la Autoridad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman la entidad paraestatal;
+
+IV. Coordinar las acciones a fin de verificar que las áreas que conforman la entidad paraestatal cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado de Aguascalientes;
+
+V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la Ley de la materia;
+
+VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la entidad paraestatal sobre el correcto ejercicio del gasto público;
+
+VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
+
+VIII. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
+
+IX. Expedir certificaciones de los documentos que obren en los archivos de la entidad paraestatal;
+
+X. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente; y
+
+XI. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+B. Autoridad Investigadora:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a la entidad paraestatal y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos a la entidad paraestatal, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+III. La investigación por la presunta responsabilidad de faltas administrativas iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+IV. En la investigación, podrá solicitar información o documentación a cualquier autoridad, persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de la entidad paraestatal correspondiente o bien, referidas a faltas de particulares en relación con la entidad paraestatal;
+
+VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a la entidad paraestatal o de particulares que puedan constituir responsabilidades administrativas de acuerdo a la normativa aplicable, autorizando con su firma los acuerdos e informes;
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de la entidad paraestatal esto particulares (sic), habilitando para ello al personal del área correspondiente;
+
+VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+
+IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Autoridad Substanciadora y Resolutora adscrita a la propia entidad paraestatal;
+
+X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XIII. Ordenar medidas de apremio y dictar medidas cautelares;
+
+XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XVI. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
+
+XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+XIX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+C. Autoridad Substanciadora y Resolutora:
+
+I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos de la entidad paraestatal, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+
+Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos de la entidad paraestatal.
+
+Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+
+En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+
+II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+
+III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, ratificar las mismas;
+
+IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+
+V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+VII. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
+
+VIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
+
+IX. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+X. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+XII. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones; y
+
+XII (SIC). Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 46.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los Comisarios Públicos que designe el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los Órganos Internos de Control y Evaluación y contarán con los Comisarios Públicos que designe el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
 
 Los fideicomisos públicos a que se refiere esta Ley, se ajustarán en lo que sea compatible con lo dispuesto por ella.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 47.
 
-La Secretaría de Fiscalización y Rendición de Cuentas, podrá realizar visitas y auditorías a las entidades paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el Artículo 44 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido, todo lo anterior sin detrimento de las facultades legales que correspondan al Órgano Superior de Fiscalización del Estado.
+La Contraloría del Estado, podrá realizar visitas y auditorías a las entidades paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el Artículo 44 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido, todo lo anterior sin detrimento de las facultades legales que correspondan al Órgano Superior de Fiscalización del Estado.
 
 ###### ARTICULO 48.
 
 En aquellos casos en los que el Organo de Gobierno, Consejo de Administración o el Director General no dieren cumplimiento a las obligaciones legales que se les atribuyen a este ordenamiento, el Ejecutivo del Estado por conducto de las dependencias competentes actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 49.
 
-En los fideicomisos públicos y en aquellas empresas en que el Poder Ejecutivo participe con la suscripción del 25 al 50% del capital, el control y evaluación de los mismos estará a cargo del Comisario Público que designe el Gobernador del Estado, quién escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
+En los fideicomisos públicos y en aquellas empresas en que el Poder Ejecutivo participe con la suscripción del 25% al 50% del capital, el control y evaluación de los mismos estará a cargo del Comisario Público que designe el Gobernador del Estado, quién escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
 
-> <small>(REFORMADO. P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 50.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Fiscalización y Rendición de Cuentas, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal.
+El Ejecutivo del Estado por conducto de la Contraloría del Estado, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal.
 
-> <small>(REFORMADO. P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 51.
 
-La enajenación de los títulos representativos del capital social propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emita la Secretaría de Finanzas. La Secretaría de Fiscalización y Rendición de Cuentas vigilará el debido cumplimiento de esta disposición.
+La enajenación de los títulos representativos del capital social propiedad del Gobierno del Estado o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emita la Secretaría de Finanzas del Estado. La Contraloría del Estado vigilará el debido cumplimiento de esta disposición.
 
 ## TRANSITORIOS
 
@@ -638,3 +798,27 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+P.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 297.- SE REFORMAN LOS ARTÍCULOS 2°, 4°, 6°, 7°, 8°, 9°, 19, 22, 23, 26, 31, 34, 36, 41, 42, 43, 45, 46, 47, 49, 50 Y 51; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 14; UNAS FRACCIONES XV Y XVI AL ARTÍCULO 45 A; Y UN ARTÍCULO 45 B, A LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Contraloría del Estado deberá expedir, en un término no mayor a 90 días contados a partir de la entrada en vigor, los Lineamientos relativos al funcionamiento de los Órganos Internos de Control y Evaluación.
+
+###### ARTÍCULO TERCERO.
+
+Las Entidades Paraestatales de la Administración Pública Estatal deberán expedir las reformas y adiciones a sus respectivas disposiciones reglamentarias en un periodo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Contraloría del Estado deberá publicar en el Periódico Oficial del Estado de Aguascalientes en un término no mayor a 30 días contados a partir de la entrada en vigencia del presente Decreto, la relación de las entidades paraestatales que formen parte de la Administración Pública correspondiente del año en curso.
+
+###### ARTÍCULO QUINTO.
+
+Quedan sin efecto todas aquellas disposiciones que se contrapongan con el presente Decreto.
