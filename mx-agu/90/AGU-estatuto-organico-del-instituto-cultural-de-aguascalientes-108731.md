@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-cultural-de-aguascalientes-1087
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-22"
-last_updated: "2018-01-22"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -33,7 +33,9 @@ INSTITUTO CULTURAL DE AGUASCALIENTES
 
 JUNTA DIRECTIVA DEL INSTITUTO CULTURAL DE AGUASCALIENTES, en ejercicio de las facultades y atribuciones que nos confieren los artículos 39 fracción I de la Ley de Cultura del Estado de Aguascalientes, así como el segundo párrafo del Artículo 8° y la fracción VIII del Artículo 41 de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, tiene a bien expedir el ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES, al tenor de los siguientes:
 
-C O N S I D E R A N D O S:…
+C O N S I D E R A N D O S:
+
+[...]
 
 Por lo anteriormente expuesto y fundado, y dado que es indispensable contar con recursos materiales y humanos en la atención y tratamiento del cumplimiento de la Ley de Cultura del Estado de Aguascalientes, se expide el siguiente:
 
@@ -75,53 +77,47 @@ Tiene a su cargo la preservación, investigación, fomento y difusión de las di
 
 Para ello se sirve de programas de educación, investigación, edición, difusión y promoción, tanto como de programas de estímulo y financiamiento que inciden en la conservación del patrimonio cultural e histórico, el fomento y consolidación de la creatividad artística y la participación ciudadana.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 4°.
 
-Para el cumplimiento de sus objetivos y el ejercicio de sus atribuciones y funciones, el Instituto contará con la siguiente estructura:
+Para el estudio, planeación, y ejercicio de las atribuciones y funciones de los asuntos de su competencia, el Instituto contará con la siguiente estructura orgánica:
 
-I. Órganos de Administración:
+I. Órganos de Gobierno: Responsables del gobierno, administración y operación del Instituto, y son:
 
-a. Junta Directiva; y
+a. La Junta Directiva; y
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+b. La Dirección General;
 
-b. Dirección General
+II. Unidades Administrativas: Dependientes de la Dirección General, y responsables de la ejecución de las políticas públicas y de la operación de las atribuciones del Instituto para el debido cumplimiento de su objeto, y son:
 
-II. Direcciones de Área:
+a. Dirección de Administración;
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+b. Dirección de Enseñanza Artística y Casas de la Cultura;
 
-a. Dirección de Administración
+c. Dirección de Promoción y Difusión;
 
-b. (DEROGADO, P.O. 22 DE ENERO DE 2018)
+d. Dirección de la Orquesta Sinfónica de Aguascalientes; y
 
-c. (DEROGADO, P.O. 22 DE ENERO DE 2018)
+e. Dirección de (sic) Universidad de las Artes.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
+III. Órganos de apoyo: Órganos de consulta, asesoría y normativos para el debido cumplimiento del objeto del Instituto, y son:
 
-d. Dirección de Enseñanza Artística y Casas de la Cultura.
-
-e. Dirección de Promoción y Difusión.
-
-f. Dirección de la Orquesta Sinfónica de Aguascalientes.
-
-III. Universidad de las Artes:
-
-a. Dirección de Universidad de las Artes.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2018)</small>
-
-IV. Órganos de apoyo.
-
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2018)</small>
-
-a. Consejo Técnico de Directores.
+a. Consejo Técnico de Directores; y
 
 b. Comités Técnicos.
 
+IV. Órganos de Control y Evaluación: Son los responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
+
+a. Órgano de Vigilancia; y
+
+b. Órgano Interno de Control.
+
 ## TÍTULO II. DE LA ESTRUCTURA Y ORGANIZACIÓN DEL INSTITUTO
 
-### CAPÍTULO I. Órganos Encargados de la Administración del Instituto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2018)</small>
+
+### CAPÍTULO I. Órganos de Gobierno del Instituto
 
 #### SECCIÓN PRIMERA. La Junta Directiva
 
@@ -281,11 +277,15 @@ A las sesiones de la Junta Directiva, previa invitación del Presidente, podrán
 
 De igual manera podrán participar con voz pero sin voto el Director General y el Comisario Público.
 
-#### SECCIÓN SEGUNDA. El Director General
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2018)</small>
+
+#### SECCIÓN SEGUNDA. Dirección General
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 18.
 
-El Director General será designado por el Gobernador del Estado de conformidad con la Ley de Cultura, y tendrá a su cargo la representación, ejecución de los acuerdos de la Junta Directiva, conducción técnica y administrativa del Instituto. Tiene las facultades conferidas en la Ley para el Control de las Entidades Paraestatales, la Ley de Cultural (sic), este Estatuto Orgánico, las que le otorgue la Junta Directiva, y demás disposiciones legales aplicables.
+El titular de la Dirección General será designado por el Gobernador del Estado de conformidad con la Ley de Cultura, y tendrá a su cargo la representación, ejecución de los acuerdos de la Junta Directiva, conducción técnica y administrativa del Instituto. Tiene las facultades conferidas en la Ley para el Control de las Entidades Paraestatales, la Ley de Cultura, este Estatuto Orgánico, las que le otorgue la Junta Directiva, y demás disposiciones legales aplicables.
 
 ###### Artículo 19.
 
@@ -325,9 +325,19 @@ XIII. Expedir constancias, certificados y diplomas, previa autorización de las 
 
 XIV. Otorgar descuentos, prórrogas y condonación de adeudos a todas aquellas personas sujetas a una relación de carácter contractual con el Instituto, debiendo fundar y motivar la causa de acuerdo a las disposiciones normativas que para tal efecto expida la Junta Directiva;
 
-XV. Expedir los nombramientos del personal adscrito al Instituto, que le correspondan; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-XVI. Las demás que le confiera la Junta Directiva y las disposiciones legales aplicables.
+XV. Expedir los nombramientos del personal adscrito al Instituto, que le correspondan;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XVI. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación de este Instituto se realicen de acuerdo con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XVII. Rendir los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, ante la Junta de Gobierno, con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales; y
+
+XVIII. Las demás que le confiera la Junta Directiva y las disposiciones legales aplicables.
 
 ###### Artículo 21.
 
@@ -413,7 +423,7 @@ V. Dirección de Promoción y Difusión;
 
 VI. Dirección de la Orquesta Sinfónica de Aguascalientes; y
 
-VII. Dirección de Universidad de las Artes.
+VII. Dirección de (sic) Universidad de las Artes.
 
 ###### Artículo 25.
 
@@ -471,7 +481,9 @@ XVII. Establecer mecanismos y recomendaciones de carácter general para una adec
 
 XVIII. Difundir y vigilar el cumplimiento de las políticas, normas, criterios, sistemas y procedimientos en materia administrativa y presupuestal establecidos en el Instituto;
 
-XIX. Proporcionar a la Secretaría de Fiscalización y Rendición de Cuentas del Estado, así como a cualquier otro organismo que ejerza funciones de fiscalización, control y vigilancia, toda la información y documentación que le sea requerida;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XIX.- Proporcionar a la Contraloría del Estado, así como a cualquier otro organismo que ejerza funciones de fiscalización, control y vigilancia, toda la información y documentación que le sea requerida;
 
 XX. Elaborar el anteproyecto de presupuesto de egresos, propuesta de ingresos y en su caso, las justificaciones para obtener las ampliaciones presupuestales requeridas;
 
@@ -889,7 +901,9 @@ II. Elegir a sus autoridades administrativas; y
 
 III. Disponer de sus recursos para satisfacer los fines que le son propios de acuerdo con la Ley de Cultura, su Estatuto y Reglamentos.
 
-### CAPÍTULO III. Disposiciones Generales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2018)</small>
+
+### CAPÍTULO III. De la Designación, Remoción y Suplencia
 
 ###### Artículo 44.
 
@@ -911,9 +925,15 @@ El ingreso de personal docente, y académico, se llevará a cabo mediante concur
 
 El Director General, en ausencias temporales de hasta 30 días, será suplido por el Director de Administración.
 
-###### Artículo 48.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
 
-Las ausencias temporales de hasta 30 días, de los Directores de Área del Instituto, podrán ser cubiertas por la persona que éstos designen, siempre y cuando cuenten con la aprobación del Director General.
+###### Articulo 48.
+
+Las ausencias temporales o accidentales de hasta 30 días, de los Directores de Área del Instituto, podrán ser cubiertas por la persona que éstos designen, siempre y cuando cuenten con la aprobación del Director General.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Para el caso de los Titulares de las Unidades que integran el Órgano Interno de Control, se estará con lo previsto en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
 
 ###### Artículo 49.
 
@@ -957,173 +977,159 @@ La Junta Directiva, a propuesta de su Presidente o cuando menos de la tercera pa
 
 A su vez las Direcciones de área podrán apoyarse en los Comités Técnicos relacionados con sus atribuciones, mismos que se conformarán por miembros del propio Instituto, y en su caso con miembros de la ciudadanía cuando así se considere necesario, siempre que la Junta Directiva autorice su constitución.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE ENERO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2018)</small>
 
-## TÍTULO III. ÓRGANOS DE CONTROL Y VIGILANCIA
+## TÍTULO III. ÓRGANOS DE CONTROL Y EVALUACIÓN
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 55.
 
-La responsabilidad de los órganos de control y vigilancia del Instituto se ajustará a los siguientes lineamientos:
+La responsabilidad de los Órganos de Control y Evaluación del Instituto se ajustará a los siguientes lineamientos:
 
 I. La Junta Directiva controlará la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas; deberá atender los informes que en materia de control y auditoría les sean turnados y vigilará la implantación de las medidas correctivas a que hubiere lugar;
 
 II. El Director General definirá las políticas de instrumentación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectaren y presentará a la Junta Directiva informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento; y
 
-III. Los demás servidores públicos de la entidad responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-### CAPÍTULO II. Del Órgano de Control
+III. Los demás servidores públicos del Instituto responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2018)</small>
+
+### CAPÍTULO II. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 56.
 
-El órgano de control es parte integrante de la estructura del Instituto, sus acciones tienen por objeto apoyar la función directiva y promover el mejoramiento de la gestión de la entidad, y será desempeñado por medio de la figura del Contralor Interno.
+El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno del Instituto, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 57.
 
-El Contralor Interno, será designado y removido por el Gobernador del Estado, quien escuchará las propuestas que le formule la Secretaría de Fiscalización y Rendición de Cuentas del Estado, y deberá cumplir con los siguientes requisitos:
+Para el ejercicio de sus funciones, el Órgano Interno de Control contará con la siguiente estructura:
 
-I.- Tener título de Contador Público, Licenciado en Administración o áreas afines.
+I. Unidad Auditora.- Es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno.
 
-II.- Tener experiencia en procesos de auditoría, control interno, elaboración de manuales de procedimientos y conocimientos básicos de derecho;
+II. Unidad Investigadora.- Es la encargada de recibir las denuncias y elaborar en su caso el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, la cual gozará de independencia en el ejercicio de sus funciones.
 
-III.- Contar con capacidad de liderazgo, toma de decisiones, manejo de personal, negociación, manejo de conflictos y comunicación; y
+III. Unidad Substanciadora y Resolutora.- Es la encargada de dirigir y conducir el procedimiento de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, la cual gozará de independencia en el ejercicio de sus funciones.
 
-IV.- Contar con reconocida capacidad profesional y honorabilidad.
+Los Titulares de dichas Unidades serán designados en los mismos términos que lo son para el Comisario Público, de conformidad con la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
+El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 58.
 
-El Contralor Interno del Instituto depende directamente del Director General, y contará con las siguientes atribuciones, facultades y obligaciones:
+Las funciones de las Unidades que integran al Órgano Interno de Control serán las siguientes:
 
-I.- Realizar sus actividades de acuerdo a reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía;
+A. Unidad Auditora:
 
-II.- Examinar y evaluar los sistemas, mecanismos y procedimientos de control interno;
+I. Elaborar y ejecutar, con aprobación del Director General, el programa anual de auditorías a las diversas áreas que conforman al Instituto;
 
-III.- Efectuar revisiones y auditorías internas del Instituto;
+II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del Instituto;
 
-IV.- Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
+III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman el Instituto;
 
-V.- Presentar al Director General, a la Junta Directiva y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizadas;
+IV. Coordinar las acciones a fin de verificar que las áreas que conforman el Instituto cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado de Aguascalientes;
 
-VI.- Recibir las quejas que le sean turnadas y que puedan constituir violación de derechos humanos;
+V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la Ley de la materia;
 
-VII.- Aplicar las sanciones correspondientes a los servidores públicos por el indebido ejercicio de sus funciones;
+VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte del Instituto sobre el correcto ejercicio del gasto público;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
 
-VIII.- Sujetar su actuación a los lineamientos que para tal efecto emita la Secretaría de Fiscalización y Rendición de Cuentas;
+VIII. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente; y
 
-IX.- Acordar y resolver los asuntos de la competencia de la Contraloría Interna a su cargo;
+X. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+B. Unidad Investigadora:
 
-X.- Ordenar las diligencias necesarias para comprobar el cumplimiento de las disposiciones legales en el ejercicio de las funciones de los servidores públicos del Instituto;
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos al Instituto y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al Instituto, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-XI.- Requerir a las direcciones, o unidad que resulte aplicable, la información, documentación y su colaboración para el cumplimiento de sus funciones y atribuciones;
+III. La investigación por la presunta responsabilidad de faltas administrativas iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+IV. En la investigación, podrá solicitar información o documentación a cualquier autoridad, persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
 
-XII.- Someter a consideración del titular de la Secretaría de Fiscalización y Rendición de Cuentas los asuntos que así lo ameriten;
+V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos del Instituto o bien, referidas a faltas de particulares en relación con al (sic) Instituto;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos al Instituto o de particulares que puedan constituir responsabilidades administrativas de acuerdo a la normativa aplicable, autorizando con su firma los acuerdos e informes;
 
-XIII.- Practicar auditorías, revisiones, visitas de inspección y verificación a las distintas direcciones, o unidades que resulten aplicables que se requieran para verificar la eficacia, economía y eficiencia de las operaciones de éstas, la confiabilidad de su información financiera y operacional y el debido cumplimiento de las leyes, reglamentos y políticas aplicables.
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos del Instituto esto particulares (sic), habilitando para ello al personal del área correspondiente;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
 
-XIV.- Informar al Director General y a la Secretaría de Fiscalización y Rendición de Cuentas sobre los resultados de las auditorías, revisiones y visitas de inspección o verificación efectuadas para que se tomen las medidas pertinentes de carácter preventivo y correctivo;
+IX. Concluída la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita al Instituto;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-XV.- Vigilar la aplicación oportuna de las medidas correctivas y recomendaciones derivadas de las auditorías y/o revisiones practicadas;
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
 
-XVI.- Identificar, investigar y determinar las responsabilidades de los servidores públicos en relación con las auditorías practicadas, así como imponer las sanciones administrativas a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+XIII. Ordenar medidas die apremio y dictar medidas cautelares;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
 
-XVII.- Recibir, atender, radicar, llevar el registro y substanciar los procedimientos de quejas y denuncias que sean formuladas en contra de servidores públicos del Instituto, y practicar investigaciones sobre sus actos a fin de fincar en su caso, la responsabilidad a que haya lugar, imponer las sanciones que procedan, turnar los asuntos a la Secretaría de Fiscalización y Rendición de Cuentas que le sean requeridos o que por su interés o trascendencia así lo ameriten, así como dar vista a la autoridad que corresponda de acuerdo a su competencia de los asuntos que pudiera derivar responsabilidad penal;
+XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XVI. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
 
-XVIII.- Dictar las resoluciones en los recursos de revocación interpuestos por los servidores públicos, respecto de la imposición de sanciones administrativas, así como realizar la defensa jurídica de las resoluciones que emita ante las diversas instancias jurisdiccionales;
+XVII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XVIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
-XIX.- Vigilar que la actuación de los servidores públicos sea en estricto apego a la legislación aplicable, así como el cumplimiento exacto de las disposiciones que expida la Secretaría de Fiscalización y Rendición de Cuentas, y en los casos de infracción normativa, iniciar el procedimiento administrativo correspondiente;
+C. Unidad Substanciadora y Resolutora:
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
+I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Unidad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del Instituto, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves; no graves y de particulares.
 
-XX.- Recibir, substanciar y resolver las inconformidades expuestas por los actos derivados de cumplimiento o incumplimiento de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, y realizar cuando lo considere conveniente, investigaciones de oficio a partir de las inconformidades de que haya conocido, en términos de dicho ordenamiento;
+Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos del Instituto.
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
 
-XXI.- Tramitar y resolver los procedimientos administrativos correspondientes e imponer las sanciones o multas a quienes infrinjan las disposiciones contenidas en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios;
+En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
 
-XXII.- Dar trámite a los recursos que se hagan valer en contra de las resoluciones de inconformidades, así como en contra de las resoluciones por las que se impongan sanciones o multas a quienes infrinjan las disposiciones contenidas en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios e inhabilitaciones a proveedores en términos de la citada legislación;
+III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, ratificar las mismas;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
 
-XXIII.- Vigilar y hacer cumplir la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, así como la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en los casos de proveedores participantes en los procedimientos de adquisiciones, arrendamientos y prestaciones de servicios dentro del Instituto;
+V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
 
-XXIV.- Realizar por sí, o por conducto de los notificadores que designe, las notificaciones de resoluciones, determinaciones o de acuerdos que se dicten en los procedimientos administrativos y medios de impugnación que correspondan al ámbito de atribuciones de la Contraloría Interna;
+VII. Rendir informe trimestral a la Junta Directiva, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+VIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera; y
 
-XXV.- Atender y sustanciar los procedimientos que inicien las diversas direcciones, áreas y unidades administrativas del Instituto;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XXVI.- Solicitar a la Dirección General Jurídica de la Secretaría de Fiscalización y Rendición de Cuentas, la asesoría jurídica necesaria para dar cabal cumplimiento a las atribuciones, facultades y obligaciones a su cargo;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XXVII.- Intervenir y fungir como testigo de calidad en el levantamiento de actas de Entrega-Recepción por cambio de titulares, hasta el nivel de Jefe de Departamento y de aquel personal que maneje valores, bienes y recursos materiales, financieros y humanos, o que sea considerado como de confianza de conformidad con la Ley Federal del Trabajo;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XXVIII.- Asistir y participar en los procedimientos de adquisiciones y prestación de servicios en los términos de lo establecido por la Ley de la materia;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XXIX.- Vigilar el cumplimiento exacto de las políticas, lineamientos y disposiciones que expida la Secretaría de Fiscalización y Rendición de Cuentas;
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XXX.- Certificar y en su caso expedir copias de los documentos que obren en los archivos de la Contraloría Interna;
-
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XXXI.- Atender en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas los requerimientos de las autoridades fiscalizadoras como el Órgano Superior de Fiscalización, la Secretaría de la Función Pública y la Auditoría Superior de la Federación; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE OCTUBRE DE 2016)</small>
-
-XXXII.- Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, así como las que otorgue la Secretaría de Fiscalización y Rendición de Cuentas; el Director General del Instituto, o la Junta Directiva.
+IX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
 ### CAPÍTULO III. Del Órgano de Vigilancia
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 59.
 
-El órgano de vigilancia estará integrado por un Comisario Público Propietario y un Suplente, designados y removidos por el Gobernador del Estado, de acuerdo a la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades del Instituto, estará integrado por un Comisario Público Propietario y un Suplente, designados y removidos por el Gobernador del Estado en los términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 60.
 
-El Comisario Público Propietario tendrá las siguientes facultades y obligaciones:
+El Comisario Público, sin perjuicio de las tareas que la Contraloría del Estado le asigne de acuerdo a la normatividad aplicable a la materia, tendrá las siguientes facultades y obligaciones:
 
 I. Intervenir en las sesiones de la Junta Directiva, emitiendo dictamen sobre los informes periódicos que rinda el Director General;
 
@@ -1246,3 +1252,23 @@ Los acuerdos, circulares y demás disposiciones emitidas previamente a la entrad
 ###### ARTÍCULO TERCERO.
 
 Las diversas Direcciones, contarán con un plazo de treinta días naturales para asumir las atribuciones que les han sido señaladas en las reformas al Estatuto Orgánico y que a la fecha se encuentren siendo atendidas por otras áreas.
+
+P.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se ordena inscribir las presentes reformas y adiciones al Estatuto Orgánico del Instituto Cultural de Aguascalientes en el Registro Público de la Propiedad y del Comercio en el Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto Cultural de Aguascalientes deberá hacer las modificaciones correspondientes a su manual de organización y operación en un término de 90 días a partir de la entrada en vigor del presente documento.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta Directiva deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días de su publicación.
