@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-justicia-administrativa-para-el-estado-de-baja-44512"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2016-10-31"
+last_updated: "2018-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCS"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 14 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2018 (ABROGADA).
 
-Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005
+Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
 VICTOR MANUEL LIZÁRRAGA PERAZA, SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO DEL GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
@@ -181,7 +183,7 @@ b) Quien se apersone en el juicio como coadyuvante de las autoridades administra
 
 ###### Artículo 13.
 
-Las partes podrán autorizar a toda persona con capacidad legal, para oír y recibir notificaciones en su nombre, con facultades para interponer recursos, ofrecer y rendir pruebas a sí como alegar en la audiencia de ley.
+Las partes podrán autorizar a toda persona con capacidad legal, para oír y recibir notificaciones en su nombre, con facultades para interponer recursos, ofrecer y rendir pruebas a sí (sic) como alegar en la audiencia de ley.
 
 Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, deberán litigar unidas y bajo una misma representación. El representante común estará facultado para actuar en los términos del párrafo anterior.
 
@@ -301,7 +303,7 @@ El Magistrado que teniendo impedimento para conocer de un negocio no haga la man
 
 ###### Artículo 26.
 
-Las partes en juicio podrán, dentro del término de ocho días a partir de que comparezcan ante la Sala Administrativa, denunciar cualquiera de los impedimentos a que se refiere el articulo 23 de esta Ley.
+Las partes en juicio podrán, dentro del término de ocho días a partir de que comparezcan ante la Sala Administrativa, denunciar cualquiera de los impedimentos a que se refiere el artículo 23 de esta Ley.
 
 ###### Artículo 27.
 
@@ -737,7 +739,7 @@ II. (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
 
 ###### Artículo 73.
 
-Cuando haya causado ejecutoria una sentencia favorable a un particular, la Sala Unitaria Administrativa lo comunicará por oficio dentro de los tres días siguientes alas autoridades demandadas para su debido cumplimiento, previniéndolas para que informen sobre el cumplimiento que den a la sentencia respectiva.
+Cuando haya causado ejecutoria una sentencia favorable a un particular, la Sala Unitaria Administrativa lo comunicará por oficio dentro de los tres días siguientes a las autoridades demandadas para su debido cumplimiento, previniéndolas para que informen sobre el cumplimiento que den a la sentencia respectiva.
 
 > <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -828,3 +830,19 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2530 SE EXPIDE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL ARTÍCULO 118 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE DEROGA EL TÍTULO VI DEL CÓDIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. La presente Ley entrará en vigor, para efectos de la aplicación por el Poder Judicial del Estado de Baja California Sur, en términos del último párrafo del artículo primero de la presente Ley, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Para la aplicación por parte del Tribunal de Justicia Administrativa del Estado de Baja California Sur, previa a la publicación que refiere el párrafo anterior entrará en vigor al día siguiente de la publicación del Acuerdo de Instalación a que refiere el Artículo Segundo Transitorio, Apartado A, del Decreto 2464, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el 17 de julio del 2017, mediante el cual se reforman y adicionan los Decretos 2427 y 2449, que refieren a reformas y adiciones a la Constitución Política del Estado de Baja California Sur y a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, respectivamente.
+
+SEGUNDO.- A partir de la entrada en vigor de la presente Ley, conforme el Artículo Transitorio anterior, se abroga la Ley de Justicia Administrativa para el Estado de Baja California Sur, por lo que las leyes que remitan a esos preceptos se entenderán referidos a los correspondientes de la Ley de Procedimiento Contencioso Administrativo para el Estado de Baja California Sur, con la salvedad establecida en el Artículo Cuarto Transitorio de este Decreto.
+
+TERCERO.- Quedan sin efectos las disposiciones legales que contravengan o se opongan a lo preceptuado en esta Ley.
+
+CUARTO.- Los juicios que se encuentren en trámite ante la Sala Unitaria de Justicia Administrativa del Tribunal Superior de Justicia del Estado de Baja California Sur, al momento de que se emita el Acuerdo de Instalación del Tribunal de Justicia Administrativa que refiere el Artículo Primero Transitorio del presente Decreto, serán tramitados ante dicha instancia hasta su total conclusión, aplicando la Ley de Justicia Administrativa para el Estado de Baja California Sur, que estará vigente para efectos de la tramitación y conclusión de dichos juicios.
+
+QUINTO.- Una vez que se encuentre instalado el Tribunal de Justicia Administrativa del Estado de Baja California Sur en términos del segundo párrafo del Artículo Primero Transitorio del presente Decreto, éste conocerá de los Juicios contenciosos derivados de los recursos administrativos sustanciados con las leyes y reglamentos vigentes, previo a la entrada en vigor de la Ley de Procedimiento Contencioso Administrativo para el Estado de Baja California Sur.
