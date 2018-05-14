@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-administrativas-del-estado-y-122425"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-27"
-last_updated: "2017-06-27"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, UNA VEZ PUBLICADO EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2018.
 
 Ley publicada en el Extraordinario No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -661,7 +661,7 @@ A los particulares que se encuentren en situación especial conforme al presente
 
 ###### Artículo 74.
 
-Para el caso de Faltas administrativas no graves, las facultades de la Contraloría General, la Contraloría Municipal, de los Órganos internos de control o las Unidades de Responsabilidades Administrativas, para imponer las sanciones prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
+Para el caso de Faltas administrativas no graves, las facultades de laContraloría General, la Contraloría Municipal, de los Órganos internos de control o las Unidades de Responsabilidades Administrativas, para imponer las sanciones prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
 
 Cuando se trate de Faltas administrativas graves o Faltas de particulares, el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
 
@@ -689,7 +689,7 @@ III. Destitución de su empleo, cargo o comisión, y
 
 IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
 
-La ContraloríaGeneral, la Contraloría Municipal, los Órganos internos de control o las Unidades de Responsabilidades Administrativas, podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la Falta administrativa no grave.
+La Contraloría General, la Contraloría Municipal, los Órganos internos de control o las Unidades de Responsabilidades Administrativas, podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la Falta administrativa no grave.
 
 La suspensión del empleo, cargo o comisión que se imponga podrá ser de uno a treinta días naturales.
 
@@ -1073,9 +1073,11 @@ Las partes deberán señalar expresamente el alcance de las autorizaciones que c
 
 Tratándose de personas jurídicas y/o morales estas deberán comparecer en todo momento a través de sus representantes legales, o por las personas que estos designen, pudiendo, asimismo, designar autorizados en términos de este artículo.
 
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 118.
 
-En lo que no se oponga a lo dispuesto en el procedimiento de responsabilidad administrativa, será de aplicación supletoria lo dispuesto en la Ley de Procedimiento Contencioso Administrativo en vigor en la Entidad, según corresponda.
+En lo que no se oponga a lo dispuesto en el procedimiento de responsabilidad administrativa, serán de aplicación supletoria, en su orden, lo dispuesto en la Ley de Procedimiento Contencioso Administrativo y el Código de Procedimientos Civiles, ambos para el Estado de Baja California Sur.
 
 ###### Artículo 119.
 
@@ -1846,3 +1848,11 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2530 SE EXPIDE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL ARTÍCULO 118 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE DEROGA EL TITULO VI DEL CÓDIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
