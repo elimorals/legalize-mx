@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2016-12-31"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -211,6 +211,10 @@ XXXVIII.- Suelo urbanizado: Las zonas, áreas o predios de un centro de poblaci�
 
 XXXIX.- Suelo urbanizable: Las zonas, áreas o predios que se reserven para la expansión o el crecimiento de los asentamientos humanos, conforme a los programas que integran el Sistema;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XXXIX BIS.- Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
+
 XL.- Usos: Los fines particulares a que podrán dedicarse determinadas zonas o predios en el Territorio del Estado;
 
 XLI.- Vía pública: El inmueble de dominio público y uso común destinado al libre tránsito, inalienable e imprescriptible;
@@ -395,6 +399,10 @@ VIII.- Fomentar la organización y participación ciudadana en la formulación, 
 
 IX.- Promover y realizar acciones e inversiones para la conservación, mejoramiento y crecimiento de los asentamientos humanos de conformidad con los programas de desarrollo urbano;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+IX BIS.- Promover y ejecutar acciones para prevenir y, mitigar el riesgo de los asentamientos humanos y aumentar la Resiliencia de los mismos ante fenómenos naturales y antropogénicos;
+
 X.- Proponer al Ejecutivo la fundación de centros de población, de conformidad con las disposiciones aplicables;
 
 XI.- Participar, en los términos de la Ley General de Asentamientos Humanos y de la presente Ley, en la ordenación y regulación de las zonas conurbadas y metropolitanas interestatales que abarquen todo o parte de su territorio;
@@ -511,9 +519,17 @@ IV.- Los plazos para la formulación de pronósticos, así como la determinació
 
 V.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+V BIS.- Los criterios, mecanismos, objetivos e indicadores en materia de Resiliencia que deberán observar los órdenes de gobierno en la elaboración de sus programas previstos en el artículo 10 de esta Ley; y
+
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 VI.- La evaluación del plan que abroga o modifica, en su caso.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+ARTICULO 13 BIS.- Los programas de Desarrollo Urbano y Ordenamiento Territorial, deberán considerar las normas oficiales mexicanas emitidas en la materia, las medidas y criterios en materia de Resiliencia previstos en el programa nacional de ordenamiento territorial y desarrollo urbano y en los atlas de riesgos para la definición de los Usos del suelo, Destinos y Reservas.
 
 ### CAPITULO TERCERO. DE LA COORDINACION DE AUTORIDADES EN LOS FENOMENOS DE CONURBACION Y METROPOLIZACION
 
@@ -1031,7 +1047,13 @@ IV.- La adquisición, asignación o destino de inmuebles para el sector público
 
 V.- La determinación de las condiciones de ubicación y construcción de vivienda, infraestructura y equipamiento de los centros de población;
 
-VI.- La regularización de la tenencia de la tierra urbana y de las construcciones; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+VI.- La regularización de la tenencia de la tierra urbana y de las construcciones;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+VI BIS.- La prevención, mitigación y Resiliencia ante los riesgos y los efectos del cambio climático;
 
 VII.- Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación, mejoramiento y crecimiento.
 
@@ -2536,3 +2558,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 434 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
