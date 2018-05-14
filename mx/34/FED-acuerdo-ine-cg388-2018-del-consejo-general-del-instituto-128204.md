@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg388-2018-del-consejo-general-del-instituto-128204
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-04-27"
-last_updated: "2018-04-27"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128204&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-04-16"
 ---
 # ACUERDO INE/CG388/2018 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS DIVERSOS INE/CG383/2018 E INE/CG562/2017 CON EL PROPOSITO DE AJUSTAR EL FORMATO ESPECIFICO DEL PRIMER DEBATE Y EL CAMBIO DE HORARIO DEL SEGUNDO DEBATE, ADEMAS SE APRUEBAN LOS FORMATOS ESPECIFICOS DEL SEGUNDO Y DEL TERCER DEBATE ENTRE LA CANDIDATA Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPUBLICA, CORRESPONDIENTES AL PROCESO ELECTORAL FEDERAL 2017-2018
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 14 DE MAYO DE 2018, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS DIVERSOS INE/CG383/2018 E INE/CG562/2017 CON EL PROPÓSITO DE AJUSTAR EL FORMATO ESPECÍFICO DEL PRIMER DEBATE Y EL CAMBIO DE HORARIO DEL SEGUNDO DEBATE, ADEMÁS SE APRUEBAN LOS FORMATOS ESPECÍFICOS DEL SEGUNDO Y DEL TERCER DEBATE ENTRE LA CANDIDATA Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPÚBLICA, CORRESPONDIENTES AL PROCESO ELECTORAL FEDERAL 2017-2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2018.
 
 Acuerdo publicado en la Cuarta Sección al Número 22 del Diario Oficial de la Federación, el viernes 27 de abril de 2018.
 
@@ -31,7 +33,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIF
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -62,3 +64,29 @@ Se aprobó en lo particular impactar en el Proyecto de Acuerdo originalmente cir
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 Los anexos podrán ser consultados mediante la liga: https://www.ine.mx/sesion-extraordinaria-del-consejo-general-16-abril-2018/
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE MAYO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA DESIGNACIÓN DE LAS PERSONAS QUE FUNGIRÁN COMO MODERADORES DEL SEGUNDO DEBATE A LA PRESIDENCIA DE LA REPÚBLICA DEL PROCESO ELECTORAL FEDERAL 2017-2018, ASÍ COMO LA MODIFICACIÓN A LA ESCALETA CONTENIDA EN EL ANEXO III DEL ACUERDO INE/CG388/2018, A FIN DE INCLUIR A LOS MODERADORES DESIGNADOS.]</small>
+
+PRIMERO. Se determina que el número de moderadores para el Segundo Debate Presidencial será de dos, por tanto, se designan a las personas siguientes:
+
+- Yuriria Sierra Solorio.
+
+- León Krauze Turrent.
+
+Las personas designadas cumplen con los requisitos establecidos en el Acuerdo INE/CG562/2017, por el que se emitieron las reglas básicas para la realización de los debates entre las y los candidatos a la Presidencia de la República durante el Proceso Electoral Federal 2017-2018, así como los criterios objetivos para la selección de las y los moderadores
+
+SEGUNDO. Se aprueba la modificación a la escaleta del Segundo Debate presidencial contenida en el Anexo II del Acuerdo INE/CG388/2018, para incluir a las dos personas designadas como moderadores. La escaleta modificada está contenida en el Anexo I que forma parte integral del presente Acuerdo.
+
+TERCERO. Se instruye a la Comisión Temporal encargada de coordinar la realización de debates en la elección presidencial a revisar la posibilidad de aumentar la bolsa de tiempo por candidatura en los segmentos de discusión libre entre la y los candidatos en hasta 30 segundos para que la o el candidato pueda cerrar la idea que está exponiendo o terminar de contestar alguna pregunta, así como la posibilidad de dejar los micrófonos abiertos en los mismos segmentos durante un tiempo razonable, siendo la o el moderador quien señale que el tiempo está por agotarse o se ha agotado.
+
+CUARTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+QUINTO. Se instruye al Secretario Ejecutivo del Instituto a realizar las gestiones necesarias para la publicación del contenido del presente Acuerdo en el Diario Oficial de la Federación y en la página de Internet del Instituto Nacional Electoral.
+
+[...]
+
+Los anexos podrán ser consultados mediante la liga: https://www.ine.mx/sesion-ordinaria-del-consejogeneral-25-abril-2018/
