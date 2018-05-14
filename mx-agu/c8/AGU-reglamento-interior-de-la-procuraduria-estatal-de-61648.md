@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-procuraduria-estatal-de-61648"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2008-06-16"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO INTERIOR DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2008.
 
@@ -84,6 +84,14 @@ b) Dirección de Inspección y Vigilancia Ambiental;
 
 c) Dirección Administrativa.
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+III. Órganos de Control y Evaluación:
+
+a) Órgano de Vigilancia; y
+
+b) Órgano Interno de Control.
+
 ###### Artículo 5°.
 
 Cada Unidad Administrativa, para el despacho de sus asuntos contará en su caso con la estructura de Coordinaciones, Departamentos, Responsables de Area, Asesores, Asistentes y demás personal auxiliar que apruebe la Junta de Gobierno y que sean necesarios para el buen desarrollo de las funciones que le tenga encomendadas.
@@ -94,19 +102,37 @@ Cada Unidad Administrativa, para el despacho de sus asuntos contará en su caso 
 
 La Junta de Gobierno, tendrá a su cargo la programación estratégica de la Procuraduría, la supervisión de la marcha de la misma y el control de sus actividades, para lo cual deberá definir en los programas anuales de operación, los objetivos, metas, prioridades y estrategias de la Procuraduría, así como garantizar la conexión del proceso de programación con los de presupuestación, evaluación y control.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 7°.
 
-La Junta de Gobierno será el Organo Rector de la Procuraduría y se integrará, por:
+La Junta de Gobierno será el Órgano Rector de la Procuraduría y se integrará, por:
 
-I. El Gobernador del Estado o por el servidor público que él designe;
+I. El Titular del Poder Ejecutivo del Estado o por el servidor público que él designe;
 
-II. Los titulares de cada una de las Secretarías de Desarrollo Social, Obras Públicas, Desarrollo Económico y Planeación y Desarrollo Regional;
+II. El Titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
-III. Un Diputado integrante de la Comisión del Medio Ambiente y Recursos Naturales, a propuesta de esta Comisión y designado por el Pleno Legislativo.
+III. El Titular de la Secretaría de Seguridad Pública;
 
-IV. Dos ciudadanos que gocen de buena reputación y que cuenten con conocimientos y experiencia comprobada en las materias relacionadas con las funciones de la Procuraduría, quienes serán nombrados conforme al procedimiento de designación para el nombramiento del Procurador, previsto en la Ley de la Procuraduría.
+IV. El Titular de la Secretaría de Obras Públicas;
 
-Cada integrante de la Junta de Gobierno salvo los mencionados en la fracción IV del presente artículo, tendrá su respectivo suplente, debiendo notificar por escrito al Presidente y al Secretario Técnico para su conocimiento. Sólo los suplentes autorizados podrán participar en las sesiones de la Junta de Gobierno en representación de los titulares propietarios.
+V. El Titular de la Secretaría de Desarrollo Económico;
+
+VI. El Titular de la Coordinación General de Planeación y Proyectos;
+
+VII. Un Diputado integrante de la Comisión del Medio Ambiente y Recursos Naturales, a propuesta de esta Comisión y designado por el Pleno Legislativo; y
+
+VIII. Tres Representantes ciudadanos quienes deberán contar con conocimientos y experiencia en las materias relacionadas con las funciones de la Procuraduría:
+
+a) Un representante de la Universidad Autónoma de Aguascalientes, relacionado con la materia ambiental;
+
+b) El Presidente o un representante del Colegio de Biólogos; y
+
+c) El Presidente o quien éste designe del Consejo Coordinador Empresarial.
+
+Cada integrante de la Junta de Gobierno salvo los mencionados en la fracción VII del presente artículo, tendrá su respectivo suplente, debiendo notificar por escrito al Presidente y al Secretario Técnico para su conocimiento. Sólo los suplentes autorizados podrán participar en las sesiones de la Junta de Gobierno en representación de los titulares propietarios.
+
+Los ciudadanos a que se refiere la Fracción VII serán nombrados por un periodo de cuatro años, su designación se realizará por sus cuerpos colegiados o su equivalente.
 
 Los integrantes de la Junta de Gobierno ostentarán el cargo a título honorífico.
 
@@ -116,21 +142,15 @@ El Gobernador del Estado o el funcionario que designe en su representación, ten
 
 ###### Artículo 9°.
 
-Para ser miembro de la Junta de Gobierno se requiere:
-
-I. Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
-
-II. Ser de reconocida honorabilidad y competencia; y
-
-III. Ser designados por la autoridad competente.
-
-Los miembros de la Junta de Gobierno no podrán ser al mismo tiempo servidores públicos de la Procuraduría.
+(DEROGADO, P.O. 14 DE MAYO DE 2018)
 
 ###### Artículo 10.
 
 En la preparación y desarrollo de las sesiones, así como en la vigilancia del seguimiento de los acuerdos adoptados, la Junta de Gobierno se auxiliará de un Secretario Técnico, quien levantará las actas y comunicará las determinaciones y acuerdos a todos los miembros de la Junta de Gobierno, el que tendrá la obligación de asistir a todas las sesiones que ésta celebre.
 
-El Procurador fungirá como Secretario de la Junta de Gobierno, con voz pero sin voto.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
+La Junta de Gobierno nombrará y removerá a propuesta del Presiente al Secretario Técnico en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, quien solo tendrá derecho a voz.
 
 ###### Artículo 11.
 
@@ -152,9 +172,11 @@ VII. Aprobar el nombramiento, promoción y remoción de los funcionarios de la P
 
 VIII. Las demás que le señalen las disposiciones legales y reglamentarias.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 12.
 
-La Junta de Gobierno sesionará de manera ordinaria en los meses de febrero, mayo, agosto y noviembre y de manera extraordinaria cada vez que su presidente lo estime necesario o haya petición en tal sentido de la mayoría de sus miembros.
+La Junta de Gobierno sesionará de manera ordinaria cada tres meses y de forma extraordinaria cada vez que su Presidente lo estime necesario o haya petición en tal sentido de la mayoría de sus miembros, y tomará sus decisiones por mayoría de votos de los integrantes presentes.
 
 Para la validez de las sesiones se requerirá cuando menos de la asistencia de la mitad más uno de sus integrantes, las decisiones serán tomadas por mayoría de votos de los presentes, teniendo el presidente el voto de calidad en caso de empate.
 
@@ -360,9 +382,19 @@ X. Entregar nombramientos y oficios de comisión al personal de inspección y vi
 
 XI. Crear y nombrar a los integrantes de las comisiones internas y externas necesarias para el buen funcionamiento de la Procuraduría.
 
-XII. Dirigir y coordinar los esfuerzos de la estructura orgánica de la Procuraduría; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
-XIII. Las demás que le señalen las disposiciones legales y reglamentarias.
+XII. Dirigir y coordinar los esfuerzos de la estructura orgánica de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XIII. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación de esta Procuraduría se realicen de acuerdo con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XIV. Rendir los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, ante la Junta de Gobierno, con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales; y
+
+XV. Las demás que le señalen las disposiciones legales y reglamentarias.
 
 #### SECCIÓN SEGUNDA. De las Unidades de Apoyo del Procurador
 
@@ -658,6 +690,152 @@ Los Coordinadores y Directores serán suplidos en sus ausencias temporales o acc
 
 Los Jefes de Departamento y demás personal de la Procuraduría serán suplidos en sus ausencias temporales menores a quince días, por el servidor público de la jerarquía inmediata inferior que ellos mismos señalen, si la ausencia es mayor será suplido por quien designe el Coordinador o Director correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE MAYO DE 2018)</small>
+
+### CAPÍTULO IX. De los Órganos de Control y Evaluación
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+###### Artículo 41.
+
+Los órganos de Control y Evaluación son los responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
+
+a) Órgano de Vigilancia; y
+
+b) Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+###### Artículo 42.
+
+El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de la entidad; estará integrado por un Comisario Público Propietario y un Suplente, designados en los términos y condiciones establecidos por la Ley para el Control de las Entidades Paraestatales.
+
+Los Comisarios Públicos evaluarán el desempeño general y por funciones de la Procuraduría, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado les asigne específicamente conforme a la normatividad aplicable.
+
+Para el cumplimiento de las funciones citadas el (sic) Junta de Gobierno y el Procurador deberán proporcionar la información que solicite el Comisario Público y el Órgano Superior de Fiscalización del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+###### Artículo 43.
+
+El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la entidad paraestatal, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+###### Artículo 44.
+
+Para el ejercicio de sus funciones, el Órgano Interno de Control contará con las siguientes unidades:
+
+I. Unidad Auditora;
+
+II. Unidad Investigadora; y
+
+III. Unidad Substanciadora y Resolutora.
+
+Los titulares de las Unidades del Órgano Interno de Control serán designados en los mismos términos que lo son para el Comisario Público de conformidad con la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+EI servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+###### Artículo 45.
+
+La Unidad Auditora tendrá las siguientes facultades:
+
+I. Elaborar y ejecutar, con aprobación del Procurador, el programa anual de auditorías a las diversas áreas que conforman la Procuraduría;
+
+II. Realizar, auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de la Procuraduría;
+
+III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman la Procuraduría;
+
+IV. Coordinar las acciones a fin de verificar que las áreas que conforman la Procuraduría cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado de Aguascalientes;
+
+V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la Ley de la materia;
+
+VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la Procuraduría sobre el correcto ejercicio del gasto público;
+
+VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
+
+VIII. Rendir informe trimestral a la Junta de Gobierno, a través del Procurador, sobre el estado que guardan los asuntos de su competencia;
+
+IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente; y
+
+X. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+###### Artículo 46.
+
+La Unidad Investigadora tendrá las siguientes facultades:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a la Procuraduría y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos a la Procuraduría, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+III. La investigación por la presunta responsabilidad de faltas administrativas iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+IV. En la investigación, podrá solicitar información o documentación a cualquier autoridad, persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de la Procuraduría o bien, referidas a faltas de particulares en relación con la Procuraduría;
+
+VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a la Procuraduría o de particulares que puedan constituir responsabilidades administrativas de acuerdo a la normativa aplicable, autorizando con su firma los acuerdos e informes;
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de la Procuraduría o a los particulares, habilitando para ello al personal del área correspondiente;
+
+VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+
+IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita a la Procuraduría;
+
+X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XIII. Ordenar medidas de apremio y dictar medidas cautelares;
+
+XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XI. (Sic) Rendir informe trimestral a la Junta de Gobierno, a través del Procurador, sobre el estado que guardan los asuntos de su competencia;
+
+XVI. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+XVII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+
+###### Artículo 47.
+
+La Unidad Substanciadora y Resolutora tendrá las siguientes facultades:
+
+I. Admitir El informe de presunta responsabilidad administrativa, emitido por la Unidad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos de la Procuraduría, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+
+Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos de la Procuraduría.
+
+Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+
+En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+
+II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+
+III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, ratificar las mismas;
+
+IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+
+V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+VII. Rendir informe trimestral a la Junta de Gobierno, a través del Procurador, sobre el estado que guardan los asuntos de su competencia;
+
+VIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera; y
+
+IX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
 T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
@@ -683,3 +861,25 @@ SUFRAGIO EFECTIVO, NO REELECCION.
 Ing. Jorge Humberto Zamarripa Díaz,
 
 PROCURADOR ESTATAL DE PROTECCION AL AMBIENTE EN EL ESTADO DE AGUASCALIENTES Y SECRETARIO TECNICO DE LA JUNTA DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE: REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se ordena inscribir las presentes reformas y adiciones al Reglamento Interior de la Procuraduría en el Registro Público de la Propiedad y del Comercio en el Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría deberá hacer las modificaciones correspondientes a su manual de organización y operación en un término de 90 días a partir de la entrada en vigor del presente documento.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta de Gobierno deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días de su publicación.
