@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-anticorrupcion-de-aguascalientes-121265
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2017-05-15"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de mayo de 2017.
 
@@ -167,7 +165,9 @@ III.- EI diseño, aprobación y promoción de la política estatal en la materia
 
 IV.- El diseño, aprobación y promoción de las políticas integrales en materia de combate a los hechos de corrupción; fiscalización y control de los recursos públicos; prevención, control y disuasión de las faltas administrativas;
 
-V.- Aprobar la metodología de los indicadores para la evaluación a que se refieren las (sic) Fracción III, con base en la propuesta que le someta a consideración la Secretaría Ejecutiva;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+V.- Aprobar la metodología de los indicadores para la evaluación a que se refiere la Fracción III, con base en la propuesta que le someta a consideración la Secretaría Ejecutiva;
 
 VI.- Tener acceso y requerir información, adecuada y oportuna para el mejor desempeño de sus funciones, a las autoridades; respecto del cumplimiento de la política estatal y las demás políticas integrales implementadas, así como recabar datos, observaciones y propuestas requeridas para su evaluación, revisión o modificación de conformidad con los indicadores generados para tales efectos;
 
@@ -205,7 +205,9 @@ II.- El Titular del Órgano Superior de Fiscalización del Estado;
 
 III.- El Titular de la fiscalía Especializada en Combate a la Corrupción;
 
-IV- El Titular de la Secretaría de Fiscalización y Rendición de Cuentas del Estado;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+IV.- El Titular de la Contraloría del Estado;
 
 V- El Presidente de la Sala Administrativa del Poder de Justicia del Estado;
 
@@ -249,7 +251,9 @@ X.- Aquellas que prevén las reglas de funcionamiento y organización interna de
 
 El Comité Coordinador Estatal se reunirá en sesión ordinaria cada tres meses. El Secretario Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por escrito, por la mayoría de los integrantes de dicho Comité Coordinador.
 
-Para que el Comité Coordinador pueda sesionar es necesario que esté presente la mitad más uno de sus integrantes.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
+Para que el Comité Coordinador pueda sesionar es necesario que esté presente la mitad más uno de los integrantes contemplados de la Fracción I a la VII, del Artículo 10 de la presente Ley.
 
 Para el desahogo de sus sesiones, el Comité Coordinador podrá invitar a los representantes del Sistema Nacional y de los demás Sistemas Estatales; así como a los representantes de los Órganos Internos de Control, de los entes públicos, y de las organizaciones de la sociedad civil, que estime necesario para el desarrollo de sus atribuciones.
 
@@ -295,7 +299,9 @@ Los integrantes del Comité de Participación Ciudadana serán nombrados conform
 
 I.- El Congreso del Estado constituirá una Comisión de Selección integrada por nueve mexicanos, residentes del Estado, por un período de tres años;
 
-II.- La Comisión Ordinaria Legislativa de Postulaciones expedirá la convocatoria respectiva, noventa días naturales antes del término del encargo de los miembros (sic) Comisión de Selección en funciones, la cual deberá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+
+II.- La Comisión Ordinaria Legislativa de Postulaciones expedirá la convocatoria respectiva, noventa días naturales antes del término del encargo de los miembros de la Comisión de Selección en funciones, la cual deberá:
 
 a) Convocar a las instituciones de educación superior y de investigación del Estado, para proponer candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, para su respectivo registro, en un plazo no mayor de quince días naturales, para seleccionar a cinco miembros basándose en los elementos decisorios plasmados en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción; y
 
@@ -369,7 +375,9 @@ X.- Opinar o proponer, a través de su participación en la Comisión Ejecutiva,
 
 XI.- Proponer mecanismos de articulación entre organizaciones de la sociedad civil, la academia y grupos ciudadanos;
 
-XII.- Proponer reglas y procedimientos mediante los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar a la Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado, o al Órgano Superior de Fiscalización del Estado;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+XII.- Proponer reglas y procedimientos mediante los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar a la Contraloría del Estado, o al Órgano Superior de Fiscalización del Estado;
 
 XIII.- Opinar sobre el programa anual de trabajo del Comité Coordinador;
 
@@ -579,7 +587,9 @@ XII.- Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboraci�
 
 La Secretaría Ejecutiva contará con un Órgano de Control Interno, cuyo titular y estructura será designado en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, así como de su Reglamento Interno y demás disposiciones jurídicas aplicables.
 
-La Secretaría de Fiscalización y Rendición de Cuentas de Gobierno del Estado y el Órgano Interno de Control de la Secretaría Ejecutiva, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos de las materias siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+
+La Contraloría del Estado y el Órgano Interno de Control de la Secretaría Ejecutiva, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos de las materias siguientes:
 
 I.- Presupuesto;
 
@@ -603,7 +613,9 @@ Son integrantes del Sistema Local:
 
 I.- El Órgano Superior de Fiscalización del Estado;
 
-II.- La Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado, y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+II.- La Contraloría del Estado, y
 
 III.- Las Contralorías Municipales, o sus órganos encargados del control interno, de conformidad con sus disposiciones de carácter general, bandos y reglamentos.
 
@@ -617,11 +629,13 @@ II.- Informar al Comité Coordinador sobre los avances en la fiscalización de r
 
 Todos los Entes públicos fiscalizadores y fiscalizados deberán apoyar en todo momento al Sistema Estatal de Fiscalización para la implementación de mejoras para la fiscalización de los recursos locales y municipales.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 39.
 
-El Sistema Estatal de Fiscalización contará con un Comité Rector conformado por los titulares del Órgano Superior de Fiscalización del Estado, la Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado y siete miembros rotatorios de las contralorías Municipales, o sus órganos encargados del control interno, de conformidad con sus disposiciones de carácter general, bandos y reglamentos, que serán elegidos por periodos de dos años, por consenso de la propia Secretaría y el Órgano Superior de Fiscalización del Estado.
+El Sistema Estatal de Fiscalización contará con un Comité Rector conformado por los titulares del Órgano Superior de Fiscalización del Estado, la Contraloría del Estado y siete miembros rotatorios de las contralorías Municipales; o sus órganos encargados del control interno, de conformidad con sus disposiciones de carácter general, bandos y reglamentos, que serán elegidos por periodos de dos años, por consenso de la propia Contraloría y el órgano Superior de Fiscalización del Estado.
 
-El Comité Rector será presidido de manera rotativa cada año, por el Auditor Superior del Estado y el titular de la Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado; y en suplencia entrará de uno, entrará el otro.
+El Comité Rector será presidido de manera rotativa cada año, por el Auditor Superior del Estado y el titular de la Contraloría del Estado; y en suplencia entrará (sic) de uno, entrará el otro.
 
 ###### Artículo 40.
 
@@ -685,13 +699,17 @@ Los integrantes del Sistema Estatal de Fiscalización celebrarán reuniones ordi
 
 ### CAPÍTULO II. La Participación Estatal en el Sistema Nacional de Fiscalización
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 48.
 
-El órgano Superior de Fiscalización del Estado de Aguascalientes y la Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado, participarán coordinadamente, en el ámbito de sus respectivas competencias, en el Sistema Nacional de Fiscalización.
+El órgano Superior de Fiscalización del Estado de Aguascalientes y la Contraloría del Estado, participarán coordinadamente, en el ámbito de sus respectivas competencias, en el Sistema Nacional de Fiscalización.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 49.
 
-Como miembros del Sistema Nacional de Fiscalización, el Órgano Superior de Fiscalización y la Secretaría de Fiscalización y Rendición de Cuentas del Estado de Aguascalientes tendrán como obligaciones las siguientes:
+Como miembros del Sistema Nacional de Fiscalización, el Órgano Superior de Fiscalización y la Contraloría del Estado tendrán como obligaciones las siguientes:
 
 I.- Crear un sistema electrónico en términos del Título Cuarto de la Ley General, que permita ampliar la cobertura e impacto de la fiscalización de los recursos federales, estatales y municipales, mediante la construcción de un modelo de coordinación entre la Secretaría Ejecutiva, el Estado y los municipios;
 
@@ -711,7 +729,9 @@ VIII.- Elaborar y adoptar un manual de referencia que contenga criterios general
 
 IX.- Emitir información relevante en los reportes de auditoría y fiscalización, con lenguaje sencillo y accesible, que contribuya a la toma de decisiones públicas, la mejora de la gestión gubernamental, ya que el ciudadano común conozca cómo se gasta el dinero de sus impuestos, así como la máxima publicidad en los resultados de fiscalización;
 
-X.- Atender a través de sus titulares o a quien en su suplencia establezcan sus reglamentos interiores, a las reuniones ordinarias y extraordinarias que se convoquen, a fin de dar seguimiento al cumplimiento de los objetivos y acciones planteadas en la presente Ley y la Ley General. Para ello, podrá valerse de los de los (sic) medios digitales y de presencia virtual que consideren pertinentes; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+X.- Atender a través de sus titulares o a quien en su suplencia establezcan sus reglamentos interiores, a las reuniones ordinarias y extraordinarias que se convoquen, a fin de dar seguimiento al cumplimiento de los objetivos y acciones planteadas en la presente Ley y la Ley General. Para ello, podrá valerse de los medios digitales y de presencia virtual que consideren pertinentes; y
 
 XI.- Seguir la normatividad que el Comité Rector del Sistema Nacional de Fiscalización establezca para su funcionamiento.
 
@@ -721,9 +741,11 @@ Todos los entes públicos fiscalizadores y fiscalizados deberán apoyar en todo 
 
 Todos los entes públicos fiscalizadores y fiscalizados del Estado y los Municipios, deberán apoyar en todo momento al Sistema Nacional de Fiscalización para la implementación de mejoras para la fiscalización de los recursos federales y locales.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 50.
 
-Cuando el Órgano Superior de Fiscalización del Estado y/o la Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado, sean elegidas como miembros rotatorios que forman parte del Comité Rector del Sistema Nacional de Fiscalización, en términos del Artículo 39 de la Ley General, dicha representación le corresponderá a sus respectivos titulares o a quien en su suplencia establezcan sus reglamentos interiores.
+Cuando el Órgano Superior de Fiscalización del Estado y/o la Contraloría del Estado, sean elegidas como miembros rotatorios que forman parte del Comité Rector del Sistema Nacional de Fiscalización, en términos del Artículo 39 de la ley General, dicha representación le corresponderá a sus respectivos titulares o a quien en su suplencia establezcan sus reglamentos interiores.
 
 ## TÍTULO CUARTO. LA PLATAFORMA DIGITAL ESTATAL Y SU PARTICIPACIÓN EN LA PLATAFORMA DIGITAL NACIONAL
 
@@ -761,19 +783,25 @@ Los integrantes del Sistema Estatal promoverán la publicación de la informaci�
 
 EI Sistema Nacional establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la Plataforma Digital Estatal, promoviendo la homologación de procesos y la simplicidad del uso de los sistemas electrónicos por parte de los usuarios.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 54.
 
-El Sistema de Información de Evolución Patrimonial, Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, a que hace referencia la Fracción I del Artículo 52 de esta Ley, así como el Sistema de Información de los Servidores Públicos que intervengan en Procedimientos de Contrataciones Públicas, a que hace referencia la Fracción II del Artículo 52 de esta Ley, operarán en los términos de esta Ley y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+El Sistema de Información de Evolución Patrimonial, Declaración de Intereses y Constancia de Presentación de Declaración Fiscal, a que hace referencia la Fracción I del Artículo 52 de esta Ley, así como el Sistema de Información de los Servidores Públicos que intervengan en Procedimientos de Contrataciones Públicas, a que hace referencia la Fracción II del Artículo 52 de esta Ley, operarán en los términos de esta ley y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 El Sistema de Información Pública de Contrataciones a que hace referencia la Fracción VI del Artículo 52 de esta Ley, contará con la información pública que remitan las autoridades competentes al Comité Coordinador a solicitud de éste, para el ejercicio de sus funciones y los objetivos de esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 55.
 
-El Sistema de Información Estatal de Servidores públicos y particulares sancionados, a que hace referencia la Fracción III del Artículo 52 de esta Ley, tiene como finalidad que las sanciones impuestas a Servidores públicos y particulares por la comisión de faltas administrativas en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y hechos de corrupción en términos de la legislación penal, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.
+El Sistema de Información Estatal de Servidores públicos y particulares sancionados, a que hace referencia la Fracción III del Artículo 52 de esta Ley, tiene como finalidad que las sanciones impuestas a Servidores públicos y particulares por la comisión de faltas administrativas en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y hechos de corrupción en términos de la legislación penal, queden inscritas dentro del mismo y su consulta deberá estar al alcance de las autoridades cuya competencia lo requiera.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
 
 ###### Artículo 56.
 
-Las sanciones impuestas por faltas administrativas graves serán del conocimiento público cuando éstas contengan impedimentos o inhabilitaciones para ser contratados como Servidores públicos o como prestadores de servicios o contratistas del sector público, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+Las sanciones impuestas por faltas administrativas graves serán del conocimiento público cuando éstas contengan impedimentos o inhabilitaciones para ser contratados como Servidores públicos o como prestadores de servicios o contratistas del sector público, en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 Los registros de las sanciones relativas a responsabilidades administrativas no graves, quedarán registradas para efectos de eventual reincidencia, pero no serán públicas.
 
@@ -837,7 +865,9 @@ La Fiscalía Especializada en Combate a la Corrupción contará con las siguient
 
 I.- Participar como integrante en el Comité Coordinador, atendiendo las bases establecidas en la Constitución Política del Estado de Aguascalientes y en la presente Ley;
 
-II.- Conocer y dar trámite a las denuncias que presente tanto el Órgano Superior de Fiscalización, como la Secretaría de Fiscalización y Rendición de Cuentas y los órganos de control interno de los entes públicos, cuando detecten alguna irregularidad provocada por hechos de corrupción de acuerdo a la normatividad;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+
+II.- Conocer y dar trámite a las denuncias que presente tanto el Órgano Superior de Fiscalización, como la Contraloría del Estado y los órganos de control interno de los entes públicos, cuando detecten alguna irregularidad provocada por hechos de corrupción de acuerdo a la normatividad;
 
 III.- Nombrar, previo acuerdo con el Fiscal General del Estado, al personal capacitado para el debido cumplimiento de sus funciones, conforme a lo previsto en el Presupuesto de Egresos correspondiente;
 
@@ -900,6 +930,12 @@ Las ausencias temporales del Fiscal Especializado en Combate a la Corrupción se
 El Fiscal Especializado en Combate a la Corrupción presentará anualmente al Fiscal General del Estado un informe sobre las actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la normatividad Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, y demás disposiciones aplicables en la materia. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal y al Congreso del Estado.
 
 Asimismo, elaborará un anteproyecto de presupuesto para que el Fiscal General del Estado lo integre al proyecto de presupuesto anual de egresos de la Fiscalía General, en términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 274.- SE REFORMAN LOS ARTÍCULOS 9°, 10, 13, 18, 21, 36, 37, 39 Y 48, EL PRIMER PÁRRAFO Y LA FRACCIÓN X DEL ARTÍCULO 49; LOS ARTÍCULOS 50, 54, 55, 56 Y 64 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -970,5 +1006,9 @@ María del Carmen Máyela Macías Alvarado,
 DIPUTADA SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 5 de mayo de 2017.- Martín Orozco Sandoval.- Rúbrica.- EI Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2018.
 
 ## TRANSITORIOS
