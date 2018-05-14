@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2015-del-pleno-del-consejo-de-la-106271"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-03-04"
-last_updated: "2018-02-23"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106271&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-24"
 
 ACUERDO GENERAL 2/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 4 de marzo de 2015.
 
@@ -103,9 +103,11 @@ Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en lo
 
 La jurisdicción territorial de los órganos jurisdiccionales del Centro comprenderá el Estado de Zacatecas, con la totalidad de sus municipios.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 7/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Calle Lateral número 1202, Colonia Cerro del Gato, Ciudad Gobierno, código postal 98160, Zacatecas, Zacatecas.
+El domicilio del Centro de Justicia será el ubicado en calle Tiro de la Esperanza 202 entre derecho de la vía antigua Carretera a Fresnillo y derecho de vía del Ferrocarril, código postal 98160, Ciudad Administrativa en Zacatecas, Zacatecas.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
@@ -368,3 +370,19 @@ XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia 
 XXVI. a XXXVIII. …”
 
 TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS, CON RESIDENCIA EN ZACATECAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el quince de mayo de dos mil dieciocho, con excepción de lo dispuesto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en Zacatecas, deberá colocar avisos en lugares visibles en relación con el cambio de domicilio.
+
+CUARTO. Se reforma el artículo 7, párrafo primero, del Acuerdo General 2/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Zacatecas, para quedar como sigue:
+
+“Artículo 7. El domicilio del Centro de Justicia será el ubicado en calle Tiro de la Esperanza 202 entre derecho de la vía antigua Carretera a Fresnillo y derecho de vía del Ferrocarril, código postal 98160, Ciudad Administrativa en Zacatecas, Zacatecas.
+
+…”
