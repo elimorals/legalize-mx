@@ -4,7 +4,7 @@ identifier: "GUA-ley-reglamentaria-de-la-fraccion-xv-del-articulo-88-de-la-22069
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-03"
-last_updated: "2001-08-03"
+last_updated: "2018-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY REGLAMENTARIA DE LA FRACCION XV DEL ARTICULO 88 DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO -- ANTES LEY REGLAMENTARIA DE LA FRACCION XV DEL ARTICULO 89 DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO --
 
-LEY REGLAMENTARIA DE LA FRACCION XV DEL ARTICULO 89 DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO
+LEY REGLAMENTARIA DE LA FRACCIÓN XV DEL ARTÍCULO 88 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el 3 de agosto de 2001.
 
@@ -37,15 +37,19 @@ DECRETO NÚMERO 45.
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-LEY REGLAMENTARIA DE LA FRACCIÓN XV DEL ARTÍCULO 89 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2018)</small>
+
+LEY REGLAMENTARIA DE LA FRACCIÓN XV DEL ARTÍCULO 88 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO
 
 ## TÍTULO PRIMERO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+
 ###### Artículo 1°.
 
-El Pleno del Supremo Tribunal de Justicia del Estado es competente para conocer de las controversias legales y de las acciones de inconstitucionalidad a que se refiere el artículo 89 fracción XV de la Constitución Política del Estado.
+El pleno del Supremo Tribunal de Justicia del Estado es competente para conocer de las controversias legales y de las acciones de inconstitucionalidad a que se refiere el artículo 88 fracción XV de la Constitución Política para el Estado de Guanajuato.
 
 ###### Artículo 2°.
 
@@ -438,3 +442,11 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 305, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DE LA LEY REGLAMENTARIA DE LA FRACCIÓN XV DEL ARTÍCULO 89 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO, Y EL ARTÍCULO 1°".]
+
+Artículo Único. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
