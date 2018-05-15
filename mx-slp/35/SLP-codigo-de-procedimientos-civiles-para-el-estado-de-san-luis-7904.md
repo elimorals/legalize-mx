@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2018-04-26"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -2067,9 +2067,9 @@ Cuando la demanda se funde en las fracciones, III y IV del artículo 448 de este
 
 Si en el acto de diligencia el inquilino justifica a plena satisfacción del actor, haber pagado la pensión o pensiones según lo convenido; exhibe el contrato de arrendamiento o bien, satisface inmediatamente su adeudo a menos de que se hubiere demandado también la rescisión del contrato, se suspenderá la diligencia asentándose en ella los hechos y agregándose los comprobantes que se exhibieren o, en su caso, el pago, para dar cuenta al juez.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-Cuando el inquilino en el momento de la diligencia hubiere realizado el pago a satisfacción del actor, el juez mandará entregar a éste el valor de las pensiones exhibidas y dará por concluido el juicio sin condenación a costas. De igual manera procederá en caso de que el demandado haya justificado a satisfacción del actor estar al corriente en el pago de las rentas, o hubiere exhibido, en su caso, el contrato de arrendamiento respectivo;
+Cuando el inquilino en el momento de la diligencia hubiere realizado el pago a satisfacción del actor el juez mandará entregar a éste el valor de las pensiones exhibidas y ordenará la conclusión del juicio y la condenación a costas. De igual manera procederá en caso de que el demandado haya justificado a satisfacción del actor estar al corriente en el pago de las rentas, o hubiere exhibido, en su caso, el contrato de arrendamiento respectivo;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
 
@@ -5746,6 +5746,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 940.- SE REFORMAN LOS ARTÍCULOS, 448 BIS EN SUS FRACCIONES, I LOS PÁRRAFOS, SEGUNDO, TERCERO Y CUARTO, II, Y III, Y 456, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 952.- SE REFORMA EL ARTÍCULO 448 BIS EN SU FRACCIÓN I EL PÁRRAFO CUARTO, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
