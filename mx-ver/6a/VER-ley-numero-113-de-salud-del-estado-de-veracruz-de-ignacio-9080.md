@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2017-12-21"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -525,9 +525,9 @@ VI Bis.- La atención de los enfermos en situación terminal.
 
 VII.- La prevención y control de las enfermedades bucodentales.
 
-> <small>(REFORMADA, G.O. 15 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2018)</small>
 
-VIII. La disponibilidad de medicamentos en todos los niveles de atención a la población, disponibilidad de sangre a través de puestos de sangrado y centros de transfusión en hospitales de segundo y tercer nivel y cualquier otro insumo esencial para la salud.
+VIII.- La disponibilidad y otorgamiento de medicamentos y material de curación en todos los niveles de atención a la población, con base en los cuadros básicos y catálogos de medicamentos y material de curación regulados por el Consejo de Salubridad General aplicable al sector salud y en los catálogos de la institución proveedora del servicio; disponibilidad de sangre a través de puestos de sangrado y centros de transfusión en hospitales de segundo y tercer nivel y cualquier otro insumo esencial para la salud.
 
 IX.- La promoción del mejoramiento de la nutrición.
 
@@ -543,9 +543,11 @@ El Gobierno del Estado, de conformidad con las disposiciones legales aplicables,
 
 El Gobierno del Estado convendrá con el Gobierno Federal, los términos en que las dependencias y entidades del Estado que presten servicios de salud, deban participar en la elaboración del mencionado cuadro básico.
 
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 32.
 
-El Gobierno del Estado coadyuvará con las autoridades federales competentes para que se garantice a la población del Estado la disponibilidad de medicamentos esenciales.
+El Gobierno del Estado coadyuvará con las autoridades federales competentes para que se garantice a la población del Estado la disponibilidad y otorgamiento de medicamentos y material de curación según corresponda a nivel de atención de la unidad prestadora de servicio, con base en los cuadros básicos y catálogos de medicamentos y material de curación regulados por el Consejo de Salubridad General aplicable al Sector Salud, así como estar incluidos en los catálogos de la institución proveedora del servicio.
 
 ###### ARTICULO 33.
 
@@ -1690,6 +1692,10 @@ III.- Brindarán la atención médica que se requiera a las personas que realice
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
 
 A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos, que no se ajusten al control que dispongan el Gobierno Estatal y los municipios, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan, en los términos de esta Ley.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2018)</small>
+
+Queda prohibido a los establecimientos y a los responsables o empleados de los mismos, vender o suministrar substancias inhalantes con efectos psicotrópicos a menores de edad o incapaces, mediante cualquier forma; la violación a esta disposición será sancionada conforme a lo dispuesto en el Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
 TITULO DECIMOPRIMERO
 
@@ -3528,3 +3534,19 @@ G.O. 21 DE DICIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 631 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 632 QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 160 DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
