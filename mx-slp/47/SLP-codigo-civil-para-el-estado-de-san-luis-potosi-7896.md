@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2017-10-21"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -8315,13 +8315,21 @@ ART. 2317.- En el caso del artículo anterior, si el predio fuere urbano, el arr
 
 ART. 2318.- Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
 
-ART. 2319.- El arrendador puede exigir la rescisión del contrato:
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-I.- Por la falta de pago de la renta en los términos prevenidos en los artículos 2281 y 2284. Cesará esta causa de rescisión si al contestar la demanda hace el pago;
+ART. 2319.- El arrendador puede exigir la rescisión del contrato por las siguientes causas:
 
-II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2254;
+I.- La falta de pago de la renta en los términos prevenidos en los artículos 2281 y 2284;
 
-III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2310.
+II.- El uso del bien arrendado en contravención a lo dispuesto en la fracción III del artículo 2254;
+
+III.- El subarriendo de la cosa en contravención a lo dispuesto en el artículo 2310;
+
+IV.- Los daños causados al bien arrendado, imputables al arrendatario;
+
+V.- La modificación del bien arrendado, sin contar con el consentimiento expreso del arrendador, y
+
+VI.- La falta de pago de servicios públicos derivados del bien arrendado por más de dos meses o, el tiempo que, en su caso, acuerden las partes cuando se haya comprometido a realizarlo el arrendatario.
 
 ART. 2320.- En los casos del artículo 2274 el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total, y aún cuando fuere parcial, si la reparación durare más de dos meses.
 
@@ -10516,3 +10524,11 @@ P.O. 21 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 951.- SE REFORMA EL ARTÍCULO 2319, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
