@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-el-deposito-legal-para-la-preservacion-21375"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-04"
-last_updated: "2000-10-04"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,8 @@ state: "SLP"
 # LEY QUE ESTABLECE EL DEPOSITO LEGAL PARA LA PRESERVACION DEL PATRIMONIO BIBLIOGRAFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSI
 
 LEY QUE ESTABLECE EL DEPOSITO LEGAL PARA LA PRESERVACION DEL PATRIMONIO BIBLIOGRAFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSI
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2018.
 
 TEXTO ORIGINAL.
 
@@ -113,9 +115,11 @@ En los casos de omisión al cumplimiento del depósito legal, la institución de
 
 Si en ese término no se cumple con la obligación de entrega, la misma institución mediante informe justificado comunicará la persistencia de la omisión a la Secretaría de Educación del Gobierno del Estado, para que esta a su vez, lo haga del conocimiento de la Secretaría de Finanzas, a efecto de que imponga las sanciones a que hubiere lugar, conforme a la disposición legal aplicable.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 10.
 
-Los autores, editores y productores que incumplan con la obligación del depósito legal, desatendiendo los requerimientos para ello, serán acreedores a una multa de dos veces el precio de venta al público del material omitido. En el caso de obras de distribución gratuita, la sanción no será menor de tres, ni mayor de cinco días de salario mínimo general vigente, de acuerdo a la importancia del material.
+Los autores, editores y productores que incumplan con la obligación del depósito legal, desatendiendo los requerimientos para ello, serán acreedores a una multa de dos veces el precio de venta al público del material omitido. En el caso de obras de distribución gratuita, la sanción no será menor de tres, ni mayor de cinco días de la unidad de medida y actualización vigente, de acuerdo a la importancia del material.
 
 ###### ARTICULO 11.
 
@@ -154,3 +158,13 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 955. SE REFORMAN LOS ARTÍCULOS 61 Y 62 DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 40 DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y, SE REFORMA EL ARTÍCULO 10 DE LA LEY QUE ESTABLECE EL DEPÓSITO LEGAL PARA LA PRESERVACIÓN DEL PATRIMONIO BIBLIOGRÁFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
