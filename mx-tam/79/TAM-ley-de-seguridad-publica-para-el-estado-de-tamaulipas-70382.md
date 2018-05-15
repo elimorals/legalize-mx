@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2017-12-21"
+last_updated: "2018-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -79,9 +79,9 @@ VIII. Ejecutar las medidas impuestas por las autoridades judiciales competentes 
 
 IX. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-X. Determinar las sanciones y estímulos a que se hagan acreedores los integrantes de las instituciones de seguridad pública preventiva, en términos de la presente ley y el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado de Tamaulipas.
+X. Determinar las sanciones y estímulos a que se hagan acreedores los integrantes de las instituciones de seguridad pública preventiva, en términos de la presente ley y el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas.
 
 ###### ARTICULO 2.
 
@@ -103,9 +103,9 @@ X. Determinar las sanciones y estímulos a que se hagan acreedores los integrant
 
 1. Para los efectos de esta ley, la seguridad pública es una función a cargo del Estado y sus Municipios que tiene como fines salvaguardar la integridad y derechos de las personas, y preservar las libertades, el orden y la paz públicos, y comprende la prevención especial y general de los delitos, la sanción de las infracciones administrativas y la reinserción social del individuo, que se realizará en los diversos ámbitos de competencia por conducto de las instituciones policiales, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes y para brindar auxilio y protección a la población en caso de accidentes, desastres o cualquier contingencia que atente contra la seguridad de los individuos.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-2. El servicio de seguridad pública estatal en la entidad se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, la Ley de Coordinación del Sistema de Seguridad Pública del Estado, esta ley, el Reglamento Interior de la Secretaría de Seguridad Pública, el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado de Tamaulipas y las demás disposiciones jurídicas aplicables.
+2. El servicio de seguridad pública estatal en la entidad se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, la Ley de Coordinación del Sistema de Seguridad Pública del Estado, esta ley, el Reglamento Interior de la Secretaría de Seguridad Pública, el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas y las demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 4.
 
@@ -329,9 +329,9 @@ XXXIII. Administrar el porte colectivo estatal de armas y suscribir las credenci
 
 XXXIV. Formular a los Presidentes Municipales las recomendaciones que estime pertinentes para el mejoramiento de la seguridad pública en sus municipios;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-XXXV. Establecer la instancia idónea para la defensa legal, en todas sus etapas procesales, de los integrantes de las instituciones de seguridad de su competencia que, con motivo del ejercicio de sus atribuciones, se vieran implicados en asuntos jurídicos; asimismo, deberá disponer que sin demora alguna sean cubiertos en su totalidad los montos que por concepto de fianza, gastos que genere su defensa en el proceso, e inclusive, los correspondientes a la reparación del daño, si fuere el caso, con recursos de la administración estatal, sin afectar, en lo más mínimo, los recursos de los servidores públicos implicados. Al efecto, preverá lo que corresponda ante la dependencia estatal competente;
+XXXV. Coadyuvar con la instancia competente en la defensa legal de los servidores públicos de la Secretaría de Seguridad Pública que, con motivo del ejercicio de sus atribuciones, se vieran implicados en asuntos jurídicos; asimismo, deberá disponer que sin demora alguna sean cubiertos en su totalidad los montos que por concepto de fianza, gastos que genere su defensa en el proceso, e inclusive, los correspondientes a la reparación del daño, si fuere el caso, con recursos de la administración estatal, sin afectar, en lo más mínimo, los recursos de los servidores públicos implicados. Al efecto, preverá lo que corresponda ante la dependencia estatal competente;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
@@ -491,7 +491,9 @@ La Secretaría de Seguridad Pública es la dependencia encargada de la función 
 
 1. A fin de lograr el pleno cumplimiento de los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, por parte de los integrantes de las instituciones preventivas estatales y municipales de seguridad pública, así como de los servidores públicos a ellas adscritos, el Centro Estatal de Evaluación y Control de Confianza aplicará los procedimientos de evaluación y control de confianza para la permanencia en el servicio activo, de los integrantes y servidores públicos de las Instituciones Policiales.
 
-2. Asimismo, la Dirección de Asuntos Internos verificará el cumplimiento de las obligaciones de los integrantes de las instituciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad Pública.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
+2.- Asimismo, la Dirección de Asuntos Internos verificará el cumplimiento de las obligaciones de los integrantes de las instituciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad Pública. De igual forma conocerá de quejas y denuncias, incluso anónimas, con motivo de faltas administrativas o infracciones disciplinarias cometidas por los integrantes de las instituciones, preservando la reserva de las actuaciones.
 
 3. El Órgano de Control Interno de la Contraloría Gubernamental adscrito a la Secretaría, tendrá las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
@@ -1269,7 +1271,9 @@ Para la liquidación o extinción de la Universidad se requerirá de las mismas 
 
 1. El Estado y los Municipios, con base en sus posibilidades presupuestales, establecerán el Servicio Profesional de Carrera Policial, con carácter obligatorio y permanente, para asegurar la profesionalización de sus integrantes.
 
-2. La estructura, funciones y procedimientos del Servicio Profesional de Carrera Policial, se sujetarán a lo previsto en el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
+2. La estructura, funciones y procedimientos del Servicio Profesional de Carrera Policial, se sujetarán a lo previsto en el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -1287,13 +1291,13 @@ Para la liquidación o extinción de la Universidad se requerirá de las mismas 
 
 Se considerará policía de carrera, al integrante que haya aprobado los cursos de formación, actualización, especialización y profesionalización establecidos en el plan de estudios de la Universidad de Seguridad y Justicia de Tamaulipas, tratándose de las instituciones de seguridad pública estatales y municipales, y que acredite tres años de permanencia, por lo menos, en el servicio de la institución respectiva.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-###### ARTICULO 42.
+###### ARTÍCULO 42.
 
-1. El otorgamiento de los grados en la escala jerárquica para las instituciones de seguridad pública del Estado y los Municipios, se sujetará a las condiciones y procedimientos que señale el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado.
+1.- El otorgamiento de los grados en la escala jerárquica para las instituciones de seguridad pública del Estado y los Municipios, se sujetará a las condiciones y procedimientos que señale el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas.
 
-2. No podrá concederse un grado a integrante alguno de las instituciones de seguridad pública, si no se ha ostentado el inmediato inferior y cumplir además los requisitos de capacidad, eficacia y antigüedad que exija el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado.
+2.- No podrá concederse un grado a integrante alguno de las instituciones de seguridad pública, si no se ha ostentado el inmediato inferior y cumplir además los requisitos de capacidad, eficacia y antigüedad que exija el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2012)</small>
 
@@ -1721,9 +1725,9 @@ Las anteriores disposiciones podrán ser complementadas por otras que dicte el C
 
 ###### ARTICULO 89.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-1. Los correctivos disciplinarios y sanciones a que se hagan acreedores los integrantes de las instituciones de seguridad pública estatales y municipales, se aplicarán cuando desacaten los principios de actuación y las obligaciones que la presente ley establezca, sin perjuicio de la responsabilidad administrativa y penal que prevean otros ordenamientos legales.
+1. Los correctivos disciplinarios y sanciones a que se hagan acreedores los integrantes de las instituciones de seguridad pública estatales y municipales, se aplicarán cuando desacaten los principios de actuación y las obligaciones que la presente ley y demás ordenamientos legales aplicables establezcan, sin perjuicio de la responsabilidad administrativa y penal que prevean otros ordenamientos legales, en virtud de lo cual, no se suspenderán las investigaciones en la Dirección de Asuntos Internos ni el procedimiento administrativo en el Consejo de Desarrollo Policial.
 
 2. Previo a la aplicación de las sanciones e infracciones se respetará la garantía de audiencia del infractor.
 
@@ -1917,7 +1921,9 @@ VI. Todas aquellas que sean permitidas por la ley.
 
 3. La resolución se notificará personalmente al presunto infractor, ya sea en la oficina del Consejo, o en el domicilio que hubiere señalado para oír y recibir notificaciones. En el caso de que el presunto infractor no hubiere señalado domicilio, la notificación se realizará por instructivo que se publicará en lugar visible de las instalaciones del Consejo.
 
-4. Contra la resolución procederá el recurso de reconsideración, el cual deberá interponerse por escrito en un término de cinco días, contados a partir de la notificación de la resolución, debiendo expresarse los agravios correspondientes. El Consejo emitirá resolución dentro de un plazo de tres días y la notificará en la forma prevista en este artículo.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
+4. Contra la resolución procederá el recurso de reconsideración, el cual deberá interponerse por escrito en un término de diez días naturales, contados a partir de la notificación de la resolución, debiendo expresarse los agravios correspondientes. El Consejo emitirá resolución dentro de un plazo de tres días y la notificará en la forma prevista en este artículo.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -1931,11 +1937,11 @@ Las resoluciones que dicte el Pleno del Consejo deberán estar debidamente funda
 
 Los acuerdos dictados durante el procedimiento serán firmados por el Presidente del Consejo y autentificados por el Secretario.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 103.
 
-En las actuaciones que se practiquen en los procedimientos a que se refiere este título, también se observarán las disposiciones conducentes del Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado, y lo no previsto en ambos ordenamientos, se aplicará de manera supletoria el Código Nacional de Procedimientos Penales.
+En las actuaciones que se practiquen en los procedimientos a que se refiere este título, también se observarán las disposiciones conducentes del Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas, y lo no previsto en ambos ordenamientos, se aplicará de manera supletoria el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -2230,3 +2236,15 @@ El valor de la Unidad de Medida y Actualización, será determinado conforme el 
 ###### ARTÍCULO SEXTO.
 
 Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIII-413 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO 3, FRACCIÓN X; 3, PÁRRAFO 2; 13, FRACCIÓN XXXV; 19, PÁRRAFO 2; 39, PÁRRAFO 2; 42; 89, PÁRRAFO 1; 100, PÁRRAFO 4 Y 103, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
