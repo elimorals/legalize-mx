@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2018-03-22"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -679,9 +679,11 @@ III. Cuando el valor de lo dañado exceda de mil quinientas veces del valor diar
 
 Las sanciones pecuniarias previstas en el artículo anterior, se aplicarán sin perjuicio de la responsabilidad que resulte de acuerdo a la legislación penal aplicable.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 67.
 
-Para estimar la cuantía del daño a un bien cultural inmueble, se atenderá únicamente al valor intrínseco del bien dañado, pero si por alguna circunstancia no fuere estimable en dinero, o si por su naturaleza no fuese posible fijar su valor, la sanción pecuniaria será de cincuenta a tres mil días de salario mínimo vigente en el Estado.
+Para estimar la cuantía del daño a un bien cultural inmueble, se atenderá únicamente al valor intrínseco del bien dañado, pero si por alguna circunstancia no fuere estimable en dinero, o si por su naturaleza no fuese posible fijar su valor, la sanción pecuniaria será de cincuenta a tres mil días de la unidad de medida y actualización vigente.
 
 ###### ARTICULO 68.
 
@@ -768,5 +770,13 @@ P.O. 22 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 913.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 955. SE REFORMAN LOS ARTÍCULOS 61 Y 62 DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 40 DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y, SE REFORMA EL ARTÍCULO 10 DE LA LEY QUE ESTABLECE EL DEPÓSITO LEGAL PARA LA PRESERVACIÓN DEL PATRIMONIO BIBLIOGRÁFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
