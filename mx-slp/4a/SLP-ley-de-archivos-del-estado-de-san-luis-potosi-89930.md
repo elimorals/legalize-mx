@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-archivos-del-estado-de-san-luis-potosi-89930"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2012-10-20"
+last_updated: "2018-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,6 +23,8 @@ state: "SLP"
 
 LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ
 
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
 Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
@@ -31,7 +33,9 @@ DECRETO 1157
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 La creación de la Ley de Archivos del Estado de San Luis Potosí, aunada a la conservación y difusión de acervos contenidos en los archivos históricos, así como el promover su investigación, ayudará a la creación y consolidación de la memoria colectiva, que será base en la construcción de la identidad de los potosinos y funcionará como un cohesionador social que promueva los valores sociales que deben de prevalecer en el Estado y así promover e impulsar su desarrollo.
 
@@ -701,25 +705,45 @@ El producto de las multas se integrará al patrimonio de la CEGAIP y se destinar
 
 Las sanciones que imponga la CEGAIP son independientes a las establecidas por otros ordenamientos, y se aplicarán de acuerdo a los siguientes supuestos:
 
-I. Al servidor público que incumpla cualquiera de las disposiciones de esta Ley, se le sancionará con cincuenta a quinientos días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-II. Todo servidor público que al separarse de su empleo, cargo o comisión, omita la entrega de algún documento y/o registro, será sancionado con quinientos a mil días de salario mínimo vigente en el Estado;
+I. Al servidor público que incumpla cualquiera de las disposiciones de esta Ley, se le sancionará con cincuenta a quinientos días de la unidad de medida y actualización vigente;
 
-III. Los sujetos obligados que no cuenten con las instalaciones adecuadas para el resguardo de sus archivos administrativos e históricos, serán sancionados con quinientos a mil días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-IV. El servidor público que maneje documentos o registros históricos, que por dolo o negligencia les causen daño o los mutilen, será sancionado con quinientos a mil quinientos días de salario mínimo vigente en el Estado;
+II. Todo servidor público que al separarse de su empleo, cargo o comisión, omita la entrega de algún documento y/o registro, será sancionado con quinientos a mil días de la unidad de medida y actualización vigente;
 
-V. El servidor público que con dolo o negligencia destruya o extravíe documentos, será sancionado con quinientos a mil días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-VI. Quien intervenga en la restauración de documentos históricos, sean servidores públicos o particulares, que valiéndose de esta actividad altere la información contenida en los mismos para beneficio o perjuicio propio o de un tercero, será sancionado con quinientos a mil días de salario mínimo vigente en el Estado;
+III. Los sujetos obligados que no cuenten con las instalaciones adecuadas para el resguardo de sus archivos administrativos e históricos, serán sancionados con quinientos a mil días de la unidad de medida y actualización vigente;
 
-VII. La eliminación de documentos públicos se realizará con estricto apego a lo establecido por esta Ley y reglamentos respectivos. Quien infrinja sus disposiciones estará atentando contra el Acervo Documental Propiedad del Estado y será sancionado con multa de quinientos a mil días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-VIII. Los usuarios de los Archivos Administrativos que marquen o mutilen documentos, serán sancionados con multa de quinientos a mil días de salario mínimo vigente en el Estado;
+IV. El servidor público que maneje documentos o registros históricos, que por dolo o negligencia les causen daño o los mutilen, será sancionado con quinientos a mil quinientos días de la unidad de medida y actualización vigente;
 
-IX. Los usuarios de los Archivos Administrativos e Históricos que destruyan, extravíen o sustraigan algún documento, serán sancionados con quinientos a mil días de salario mínimo vigente en el Estado, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-X. Queda fuera del comercio, y por ende prohibida la enajenación de los documentos y registros del Acervo Documental Propiedad del Estado, por lo que se sancionará a quien incurra en la falta con multa de mil a tres mil días de salario mínimo vigente en el Estado.
+V. El servidor público que con dolo o negligencia destruya o extravíe documentos, será sancionado con quinientos a mil días de la unidad de medida y actualización vigente;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
+
+VI. Quien intervenga en la restauración de documentos históricos, sean servidores públicos o particulares, que valiéndose de esta actividad altere la información contenida en los mismos para beneficio o perjuicio propio o de un tercero, será sancionado con quinientos a mil días de la unidad de medida y actualización vigente;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
+
+VII. La eliminación de documentos públicos se realizará con estricto apego a lo establecido por esta Ley y reglamentos respectivos. Quien infrinja sus disposiciones estará atentando contra el Acervo Documental Propiedad del Estado y será sancionado con multa de quinientos a mil días de la unidad de medida y actualización vigente;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
+
+VIII. Los usuarios de los Archivos Administrativos que marquen o mutilen documentos, serán sancionados con multa de quinientos a mil días de la unidad de medida y actualización vigente;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
+
+IX. Los usuarios de los Archivos Administrativos e Históricos que destruyan, extravíen o sustraigan algún documento, serán sancionados con quinientos a mil días de la unidad de medida y actualización vigente, y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
+
+X. Queda fuera del comercio, y por ende prohibida la enajenación de los documentos y registros del Acervo Documental Propiedad del Estado, por lo que se sancionará a quien incurra en la falta con multa de mil a tres mil días de la unidad de medida y actualización vigente.
 
 ###### ARTICULO 62.
 
@@ -729,9 +753,13 @@ I. Amonestación privada;
 
 II. Amonestación pública;
 
-III. Multa de cincuenta a quinientas veces el salario mínimo general vigente en el Estado, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-IV. Multa de quinientas un a mil veces el salario mínimo general vigente en el Estado.
+III. Multa de cincuenta a quinientas veces de la unidad de medida y actualización vigente, y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
+
+IV. Multa de quinientas un a mil veces de la unidad de medida y actualización vigente.
 
 Todos los casos de incumplimiento de las determinaciones de la CEGAIP, se harán del conocimiento del superior jerárquico para los efectos de las responsabilidades a que haya lugar.
 
@@ -808,3 +836,21 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 954. SE REFORMAN LOS ARTÍCULOS 61 Y 62 DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 955. SE REFORMAN LOS ARTÍCULOS 61 Y 62 DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 40 DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y, SE REFORMA EL ARTÍCULO 10 DE LA LEY QUE ESTABLECE EL DEPÓSITO LEGAL PARA LA PRESERVACIÓN DEL PATRIMONIO BIBLIOGRÁFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
