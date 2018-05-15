@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-estatal-anticorrupcion-de-san-luis-potosi-12181
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2017-05-25"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado Libre y Soberano de San Luis Potosí, el jueves 25 de mayo de 2017.
 
@@ -349,9 +349,11 @@ La audiencia de designación deberá llevarse a cabo dentro de los cinco días h
 
 En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días hábiles y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 20.
 
-En la misma forma que los integrantes numerarios, serán nombrados los integrantes supernumerarios, pudiendo elegirse también dentro de la lista de los propuestos como numerarios. Los integrantes supernumerarios tendrán las funciones que les asigne la ley y sustituirán, en el orden en que hayan sido nombrados por la Comisión de Selección, a aquéllos integrantes numerarios en sus faltas temporales y, provisionalmente, en las absolutas. En este último caso, los integrantes supernumerarios permanecerán en el desempeño del cargo hasta que tome posesión el integrante numerario nombrado para cubrir la vacante.
+En la misma forma que los integrantes numerarios, serán nombrados los integrantes supernumerarios, pudiendo elegirse también dentro de la lista de los propuestos como numerarios; en su caso, en la conformación del Comité de Participación Ciudadana se observará la equidad de género. Los integrantes supernumerarios tendrán las funciones que les asigne la ley y sustituirán, en el orden en que hayan sido nombrados por la Comisión de Selección, a aquéllos integrantes numerarios en sus faltas temporales y, provisionalmente, en las absolutas. En este último caso, los integrantes supernumerarios permanecerán en el desempeño del cargo hasta que tome posesión el integrante numerario nombrado para cubrir la vacante.
 
 Sólo los integrantes supernumerarios que ejerzan como numerarios formarán parte del Comité de Participación Ciudadana. Este podrá llamar a los integrantes supernumerarios que requiera y asignarles sus funciones.
 
@@ -846,3 +848,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 953.- SE REFORMA EL ARTÍCULO 20 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
