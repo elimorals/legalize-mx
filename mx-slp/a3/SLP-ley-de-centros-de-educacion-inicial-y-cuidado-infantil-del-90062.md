@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-centros-de-educacion-inicial-y-cuidado-infantil-del-9006
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-06"
-last_updated: "2018-04-26"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de octubre de 2012
 
@@ -377,9 +377,9 @@ Las infracciones a esta Ley y sus reglamentos. Según las particulares circunsta
 
 I. Amonestación escrita;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-II. Multa desde 50 a 1000 veces del valor diario de la unidad de medida y actualización vigente;
+II. Multa desde 50 a 1000 días de la unidad de medida y actualización vigente;
 
 III. Clausura temporal del establecimiento hasta por treinta días naturales o hasta que se corrija el hecho que originó la sanción;
 
@@ -610,3 +610,11 @@ P.O. 26 DE ABRIL DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 955. SE REFORMAN LOS ARTÍCULOS 61 Y 62 DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 40 DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y, SE REFORMA EL ARTÍCULO 10 DE LA LEY QUE ESTABLECE EL DEPÓSITO LEGAL PARA LA PRESERVACIÓN DEL PATRIMONIO BIBLIOGRÁFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
