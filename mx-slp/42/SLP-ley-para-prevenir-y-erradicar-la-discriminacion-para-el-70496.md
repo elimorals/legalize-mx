@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2013-04-06"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -31,13 +31,13 @@ C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y S
 
 DECRETO 853
 
-LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSl, DECRETA:
+LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
 EXPOSICION DE MOTIVOS.
 
 UNICO. Se expide la LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION PARA EL ESTADO DE SAN LUIS POTOSI, para quedar como sigue
 
-LEY PARA PREVENlR Y ERRADICAR LA DlSCRlMlNACION PARA EL ESTADO DE SAN LUIS POTOSI
+LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION PARA EL ESTADO DE SAN LUIS POTOSI
 
 ## TITULO I. DISPOSICIONES GENERALES
 
@@ -69,17 +69,21 @@ Queda prohibida toda forma de discriminación motivada por el origen étnico, na
 
 Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana, y un retroceso a su propia condición, que deben combatirse.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 7°.
 
-Para los efectos de esta Ley se entiende por discriminación, toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, la lengua, las ideologías, las creencias religiosas, las opiniones, las preferencias sexuales, el estado civil; el trabajo desempeñado, las costumbres, la raza, o cualquier otra, tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
+Para los efectos de esta Ley se entiende por discriminación, toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
 
 Asimismo, se entenderá como discriminación la xenofobia y el antisemitismo en cualquiera de sus manifestaciones.
 
 De igual forma, se considerará discriminatoria toda ley y todo acto, que siendo de aplicación idéntica para todas las personas, produzca consecuencias que perjudiquen a las personas o grupos que se encuentren en situación de vulnerabilidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 8°.
 
-Ningún órgano público, federal, estatal o municipal, autoridad, servidor público, persona física o moral, realizará actos o conductas que discriminen a cualquier persona, por lo que, para efectos de esta Ley, de forma enunciativa, más no limitativa, se consideran conductas discriminatorias aquéllas que en razón del origen étnico, de la edad, del género, de la discapacidad, de la condición social o legal, de la nacionalidad o calidad migratoria, de las condiciones de salud, de la religión, de las opiniones, de las preferencias sexuales, del estado civil o cualquier otra que atente contra la dignidad humana, ejecuten las siguientes acciones:
+Nadie, sea órgano público, federal, estatal o municipal, autoridad, servidor público, persona física o moral, podrá realizar actos o conductas discriminatorias en contra de persona alguna. De manera enunciativa más no limitativa, se consideran actos o conductas discriminatorias, las siguientes:
 
 I. Impedir el acceso a la educación pública o privada, así como a becas e incentivos para la permanencia en los centros educativos, en los términos de las disposiciones aplicables;
 
@@ -159,11 +163,17 @@ XXXVI. Impedir o negar la participación pública, especialmente en áreas de sa
 
 XXXVII. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales por razón de tener tatuajes en el cuerpo;
 
-No se considerará discriminación cuando el solicitante o trabajador, no reúna los requisitos o calificaciones necesarias para desempeñar, permanecer o ascender en el empleo, y
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
+No se considerará discriminación cuando el solicitante o trabajador, no reúna los requisitos o calificaciones necesarias para desempeñar, permanecer o ascender en el empleo;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2018)</small>
+
+XXXVIII. Solicitar antecedentes penales como condicionante para el acceso o ejercicio de algún derecho, y
 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2013)</small>
 
-XXXVIII. En general, cualquier otra conducta que atente contra la dignidad de la persona.
+XXXIX. En general, cualquier otra conducta que atente contra la dignidad de la persona.
 
 ## TITULO SEGUNDO (SIC). DE LAS ACCIONES DE PREVENCION Y LAS AUTORIDADES COMPETENTES
 
@@ -308,3 +318,11 @@ P.O. 6 DE ABRIL DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 950.- SE REFORMAN LOS ARTÍCULOS 7 Y 8; Y ADICIONA AL ARTÍCULO 8 UNA FRACCIÓN, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
