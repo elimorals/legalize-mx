@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-875-de-transparencia-y-acceso-a-la-informacion-11666
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-29"
-last_updated: "2017-12-19"
+last_updated: "2018-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 29 de septiembre de 2016.
 
@@ -2451,7 +2451,9 @@ A. El Órgano Interno de Control tendrá las siguientes atribuciones:
 
 I. Organizar y coordinar el sistema de control y evaluación del Instituto, así como inspeccionar el manejo y custodia del gasto público e ingresos del mismo y su congruencia con el presupuesto de egresos;
 
-II. Vigilar que las normas, procedimientos administrativos y contables se apliquen eficientemente, conforme a los lineamientos establecidos por las leyes de la materia y los principios de contabilidad generalmente aceptados;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2018)</small>
+
+II. Vigilar que las normas, procedimientos administrativos y contables se apliquen eficientemente, conforme a los lineamientos establecidos por las leyes de la materia y los postulados básicos de contabilidad gubernamental;
 
 III. Vigilar el cumplimiento de los convenios que se firmen entre el Instituto y las dependencias federales, estatales o municipales, así como con otros organismos y asociaciones;
 
@@ -3830,5 +3832,13 @@ G.O. 19 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 371 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA ANTICORRUPCIÓN".]
 
 Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 633 QUE REFORMA LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 115 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
