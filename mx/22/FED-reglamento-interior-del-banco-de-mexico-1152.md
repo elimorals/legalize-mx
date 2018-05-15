@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2017-08-15"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -77,7 +77,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS UNIDADES], D.O.F. 15 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SUS UNIDADES], D.O.F. 15 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 4o.
 
@@ -118,6 +118,8 @@ Dirección de Análisis sobre Precios, Economía Regional e Información
 Dirección de Apoyo a las Operaciones
 
 Dirección de Asuntos Internacionales
+
+Dirección de Ciberseguridad
 
 Dirección de Comunicación
 
@@ -457,11 +459,25 @@ A esta Dirección General estarán adscritas las Direcciones de Sistemas de Pago
 
 ARTICULO 15 BIS.- (DEROGADO, D.O.F. 6 DE MAYO DE 2011)
 
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2018)</small>
 
-ARTICULO 15 BIS 1.- La Dirección General de Tecnologías de la Información tendrá las atribuciones señaladas en los artículos 18 Bis y 29 de este Reglamento:
+ARTICULO 15 BIS 1.- La Dirección General de Tecnologías de la Información tendrá, además de las atribuciones que se establecen en el presente artículo, las señaladas en los artículos 18 Bis, 29 y 29 Bis de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Coordinación de la Información y de Sistemas.
+A esta Dirección General estarán adscritas las Direcciones de Ciberseguridad, Coordinación de la Información y de Sistemas, así como la Gerencia de Seguridad de Tecnologías de la Información.
+
+La Gerencia de Seguridad de Tecnologías de la Información tendrá las atribuciones siguientes:
+
+I. Definir las acciones para proteger la infraestructura de tecnologías de información y fortalecer el desarrollo seguro de sistemas del Banco, de conformidad con la estrategia de protección tecnológica institucional.
+
+II. Implementar, en coordinación con las áreas del Banco, las acciones institucionales en materia de seguridad informática de conformidad con la estrategia de protección tecnológica institucional.
+
+III. Administrar el sistema de gestión de seguridad tecnológica de los procesos operativos del Banco.
+
+IV. Participar en los procesos de selección de tecnologías y mecanismos de seguridad informática del Banco.
+
+V. Supervisar el cumplimiento de las disposiciones señaladas en la fracción VIII del artículo 29 Bis, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades y los intermediarios financieros en materia de seguridad de la información. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
+
+VI. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
 
 > <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -697,9 +713,9 @@ I. Promover la generación eficaz de la información en las diferentes unidades 
 
 II. Evaluar, coordinar y opinar sobre la contribución de las diferentes áreas del Banco a los sistemas de información;
 
-> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2018)</small>
 
-III. Elaborar y someter a autorización del Comité de Transparencia, por una parte, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco y, por otra parte, los criterios específicos en materia de organización y conservación de archivos, así como de los expedientes que contengan información y documentación clasificada como reservada y confidencial, de conformidad con lo dispuesto por la Ley Federal de Archivos y cualquier otra normatividad aplicable en la materia;
+III. Elaborar y someter a autorización del Comité de Transparencia los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco; los criterios específicos en materia de organización y conservación de archivos, datos personales y expedientes que contengan información y documentación clasificada como reservada y confidencial, así como los criterios específicos y mecanismos para la gestión, control y cumplimiento de los plazos aplicables para el bloqueo y supresión de datos personales, de conformidad con lo dispuesto por la legislación aplicable en dichas materias;
 
 > <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
 
@@ -1363,7 +1379,27 @@ IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y s
 
 V. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2002)
 
-ARTICULO 29 BIS.- (DEROGADO, D.O.F. 31 DE OCTUBRE DE 2013)
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2018)</small>
+
+ARTICULO 29 BIS.- La Dirección de Ciberseguridad tendrá las atribuciones siguientes:
+
+I. Establecer políticas, lineamientos y estrategias institucionales para fortalecer la seguridad de la información que gestiona el Banco, así como todos los sistemas que soportan la operación y procesos del Banco.
+
+II. Presentar al Comité de Tecnologías y Seguridad de la Información, propuestas de normatividad interna para fortalecer la seguridad de la información y, en caso de obtener su aprobación, emitir las normas correspondientes.
+
+III. Coordinar, a través del Comité de Tecnologías y Seguridad de la Información, la implementación de las políticas y lineamientos establecidos en la fracción I anterior.
+
+IV. Colaborar con las Direcciones de Control Interno y de Administración de Riesgos, respectivamente, en la evaluación y seguimiento de las actividades realizadas por las unidades administrativas en cumplimiento a la normatividad referida en la fracción II anterior.
+
+V. Evaluar el efecto que tiene en la seguridad de la información, las acciones que tomen las unidades administrativas para instrumentar las políticas y lineamientos referidos de la fracción I anterior.
+
+VI. Acceder a cualquier tipo de información del Banco para el ejercicio de la atribución señalada en la fracción IV anterior, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, sistemas y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información relativa sobre declaración de situación patrimonial de servidores públicos del Banco, ni a la referente a los procesos y procedimientos de los mencionados servidores. Asimismo, los expedientes médicos de los servidores públicos y pensionados del Banco, así como sus derechohabientes solo podrán consultarse con autorización previa y por escrito del Gobernador.
+
+VII. Representar al Banco de México en foros especializados y ante otras autoridades, en temas relacionados con seguridad de la información.
+
+VIII. Participar en el diseño, elaboración y, en su caso, expedición de disposiciones en materia de seguridad de la información, aplicables a las entidades e intermediarios financieros en el ámbito de las atribuciones del Banco de México; así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones.
+
+IX. Proporcionar la información y documentación que requieran la Gerencia de Seguridad de Tecnologías de la Información y la Dirección de Regulación y Supervisión, para realizar la evaluación, supervisión y seguimiento de las disposiciones señaladas en la fracción anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -1645,89 +1681,115 @@ La Dirección de Control Interno y la Gerencia de Control Normativo, en el ámbi
 
 ARTICULO 30 BIS 4.- (DEROGADO, D.O.F. 5 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 31.
 
 El Comité de Transparencia tendrá las atribuciones siguientes:
 
-I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
+I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información.
 
-II. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia, realicen los titulares de las unidades administrativas del Banco, así como notificar a dichos titulares las resoluciones adoptadas para esos efectos;
+II. Coordinar, supervisar y realizar, de conformidad con las disposiciones aplicables, las acciones necesarias para garantizar en el Banco el derecho a la protección de los datos personales, e instituir los procedimientos internos para asegurar la mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de los mencionados datos.
 
-III. De conformidad con la normatividad aplicable en materia de transparencia de la información, ordenar, en su caso, a las unidades administrativas del Banco que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, expongan, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones;
+III. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia, realicen los titulares de las unidades administrativas del Banco, así como aquellas en las que se niegue por cualquier causa el ejercicio de los derechos de acceso, rectificación, cancelación u oposición al tratamiento de datos personales, y notificar a las referidas unidades administrativas las resoluciones adoptadas.
 
-IV. Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
+IV. De conformidad con la normatividad aplicable en materia de transparencia de la información, ordenar, en su caso, a las unidades administrativas del Banco que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, expongan, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones.
 
-V. Promover la capacitación y actualización de los trabajadores adscritos a la Unidad de Transparencia;
+V. Establecer políticas, programas y criterios para facilitar la obtención de información y el ejercicio del derecho de acceso a la información, así como aquellos criterios específicos que resulten necesarios para la mejor observancia de las disposiciones en materia de protección de datos personales, y supervisar su aplicación.
 
-VI. Establecer programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para los servidores públicos del Banco;
+VI. Promover la capacitación y actualización de los trabajadores adscritos a la Unidad de Transparencia.
 
-VII. Recabar y enviar al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con los lineamientos que este expida, los datos necesarios para la elaboración del informe anual que este deba presentar conforme a las disposiciones legales aplicables;
+VII. Establecer programas de capacitación y actualización en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para los servidores públicos del Banco.
 
-VIII. Solicitar y autorizar la ampliación del plazo de reserva de la información en términos de la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable;
+VIII. Recabar y enviar al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con los lineamientos que este expida, los datos necesarios para la elaboración del informe anual que este deba presentar conforme a las disposiciones legales aplicables.
 
-IX. Establecer a propuesta de la Dirección de Coordinación de la Información, por una parte, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco y, por otra parte, los criterios específicos en materia de organización y conservación de archivos, así como de los expedientes que contengan información y documentación clasificada como reservada y confidencial, de conformidad con lo dispuesto por la Ley Federal de Archivos y cualquier otra normatividad aplicable en la materia;
+IX. Solicitar y autorizar la ampliación del plazo de reserva de la información en términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad aplicable.
 
-X. Aprobar los formatos de solicitudes de acceso a la información que elabore la Unidad de Transparencia;
+X. Establecer a propuesta de la Dirección de Coordinación de la Información, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco; los criterios específicos en materia de organización y conservación de archivos, datos personales y expedientes que contengan información y documentación clasificada como reservada y confidencial, así como los criterios específicos y mecanismos para la gestión, control y cumplimiento de los plazos aplicables para el bloqueo y supresión de datos personales, de conformidad con lo dispuesto por la legislación federal en materia de archivos, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y cualquier otra normatividad aplicable en dichas materias.
 
-XI. Establecer los costos de reproducción y envío a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables en esa materia;
+XI. Aprobar los formatos de solicitudes de acceso a la información y para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales que, en su caso, elabore la Unidad de Transparencia.
 
-XII. Elaborar las reglas necesarias para su operación;
+XII. Establecer los costos de reproducción y envío a que se refiere la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables en esas materias.
 
-XIII. Invitar a sus sesiones a aquellos funcionarios del Banco que pudieran auxiliarle en el desahogo de los asuntos que en las mismas se traten, y
+XIII. Elaborar las reglas necesarias para su operación.
 
-XIV. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública y de la Ley Federal de Archivos, así como de cualquier otra normatividad aplicable en materia de transparencia y acceso a la información pública, protección de datos personales y archivos.
+XIV. Invitar a sus sesiones a aquellos funcionarios del Banco que pudieran auxiliarle en el desahogo de los asuntos que en las mismas se traten.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+XV. Supervisar, en coordinación con las áreas o unidades administrativas competentes, el cumplimiento de las medidas, controles y acciones previstas en el documento de seguridad.
+
+XVI. Aprobar las políticas, programas, medidas, documentos, controles, mecanismos, procedimientos, esquemas de mejores prácticas, planes de trabajo, informes y demás acciones que las unidades administrativas competentes sometan a su consideración a través de la Unidad de Transparencia, para el cumplimiento de los principios y deberes previstos en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables en esa materia.
+
+XVII. Dar seguimiento y cumplimiento a las resoluciones emitidas por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+XVIII. Por conducto de la Unidad de Transparencia, dar vista al órgano de investigación de responsabilidades a fin de que actúe en su ámbito de competencia.
+
+XIX. Aprobar el formato de clausulado que, en su caso, será incluido en los contratos o instrumentos jurídicos que se pretenda celebrar, con la finalidad de formalizar la transferencia de datos personales y la relación con terceros encargados de tratarlos.
+
+XX. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública, de la Ley Federal de Transparencia y Acceso a la Información Pública, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y de la legislación federal relativa a archivos, así como de cualquier otra normatividad aplicable a las materias referidas.
+
+Las unidades administrativas deberán dar cumplimiento a las disposiciones y resoluciones que emita el Comité de Transparencia, en el ámbito de su competencia.
+
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2018)</small>
 
 ARTICULO 31 BIS.- La Unidad de Transparencia tendrá las atribuciones siguientes:
 
-I. Recabar y difundir la información pública que debe darse a conocer en medios electrónicos a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable en la materia, así como propiciar que las unidades administrativas correspondientes la actualicen periódicamente;
+I. Recabar y difundir la información pública que debe darse a conocer en medios electrónicos a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable en la materia, así como propiciar que las unidades administrativas correspondientes la actualicen periódicamente.
 
-II. Recibir y dar trámite a las solicitudes de acceso a la información, de conformidad con las disposiciones aplicables;
+II. Recibir y dar trámite a las solicitudes de acceso a la información, y gestionar las correspondientes al ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, de conformidad con las disposiciones aplicables.
 
-III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
+III. Auxiliar y orientar a los particulares en la elaboración de solicitudes de acceso a la información, y a los titulares de datos personales que lo requieran, con relación al ejercicio del derecho a la protección de dichos datos personales, así como, en su caso, respecto de los sujetos obligados competentes conforme a la normatividad aplicable.
 
-IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información, y el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, de conformidad con las disposiciones aplicables.
 
-V. Efectuar las notificaciones a los solicitantes;
+V. Efectuar las notificaciones que conforme a las disposiciones en materia de transparencia, acceso a la información y protección de datos personales deban hacerse a los solicitantes y titulares de datos personales.
 
-VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan la mayor eficiencia en la gestión de las solicitudes de acceso a la información y las relativas a los derechos de acceso, rectificación, cancelación y oposición en materia de datos personales, conforme a la normatividad aplicable.
 
-VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información y para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales.
 
-VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, y costos de reproducción y envío;
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, y costos de reproducción y envío.
 
-IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad.
 
-X. Fomentar la transparencia y accesibilidad al interior del Banco;
+X. Fomentar, promover y difundir, al interior del Banco, la transparencia y accesibilidad, así como la cultura de protección de datos personales.
 
-XI. Hacer del conocimiento de la autoridad competente, la probable responsabilidad de trabajadores del Banco por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública y en las demás disposiciones aplicables en la materia;
+XI. Hacer del conocimiento de la autoridad competente, la probable responsabilidad de trabajadores del Banco por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y en las demás disposiciones aplicables en esas materias.
 
-XII. Promover acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente;
+XII. Promover acuerdos con instituciones públicas especializadas que pudieran auxiliarle para atender solicitudes de información, o las relativas al ejercicio de derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, en lenguas indígenas, braille o cualquier otro formato, para garantizar condiciones de accesibilidad.
 
-XIII. Suscribir con los demás sujetos obligados de conformidad con las disposiciones aplicables en materia de transparencia y acceso a la información pública, acuerdos o programas con fines de cooperación respecto de dicha materia;
+XIII. Suscribir con los demás sujetos obligados, de conformidad con las disposiciones aplicables en materia de transparencia, acceso a la información pública y protección de datos personales, acuerdos o programas con fines de cooperación respecto de dichas materias.
 
-XIV. Recibir y dar respuesta a los requerimientos, observaciones, recomendaciones y criterios que realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables en la materia;
+XIV. Recibir y dar respuesta a los requerimientos, observaciones, recomendaciones y criterios que realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables en la materia.
 
-XV. Recibir las denuncias sobre el incumplimiento a las obligaciones de transparencia a que se refiere la normatividad aplicable en materia de transparencia y acceso a la información pública, y remitirla al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables;
+XV. Recibir las denuncias sobre el presunto incumplimiento a las obligaciones de transparencia o en materia de protección de datos personales a que se refiere la normatividad aplicable y remitirlas al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables.
 
-XVI. Realizar todos los actos necesarios para dar cumplimiento a las resoluciones que emita el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y emitir el informe correspondiente en términos de las disposiciones en la materia;
+XVI. Realizar todos los actos necesarios para dar cumplimiento a las resoluciones que emita el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y emitir el informe correspondiente en términos de las disposiciones en la materia.
 
-XVII. Recibir los recursos de revisión que presenten los particulares y remitirlos al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con la normatividad aplicable en materia de transparencia y acceso a la información pública;
+XVII. Recibir los recursos de revisión que le presenten y remitirlos al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con la normatividad aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
 
-XVIII. Solicitar, de manera fundada y motivada, al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la ampliación del plazo para dar cumplimiento a la resolución de que se trate emitida por el citado Instituto, de conformidad con la normatividad aplicable en materia de transparencia y acceso a la información pública;
+XVIII. Solicitar, de manera fundada y motivada, al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la ampliación del plazo para dar cumplimiento a la resolución de que se trate emitida por el citado Instituto, de conformidad con la normatividad aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
 
-XIX. Proponer al Comité de Transparencia los costos de reproducción y envío a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables;
+XIX. Proponer al Comité de Transparencia los costos de reproducción y envío a que se refiere la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables.
 
-XX. Poner a disposición del público, de manera gratuita, los formatos para solicitar información, así como equipo de cómputo en las instalaciones que indique el propio Banco, con objeto de que los interesados puedan obtener la información pública que se requiera;
+XX. Poner a disposición del público, de manera gratuita, los formatos para solicitar información, o para ejercer los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, así como equipo de cómputo, en las instalaciones que indique el propio Banco, con el mismo objeto.
 
-XXI. Proponer al Comité de Transparencia, la aprobación de los formatos de las solicitudes de acceso a la información que al efecto elabore;
+XXI. Proponer al Comité de Transparencia la aprobación de los formatos de las solicitudes de acceso a la información y las relativas al ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, que en su caso elabore.
 
-XXII. Certificar los extractos o copias que contengan la información solicitada por el interesado, cuando éste último así lo solicite, y
+XXII. Certificar los extractos o copias que contengan la información o datos solicitados por el interesado o titular de datos personales, según corresponda, cuando así lo solicite.
 
-XXIII. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública y de cualquier otra normatividad aplicable en materia de transparencia y acceso a la información pública, así como de protección de datos personales.
+XXIII. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, y establecer procedimientos para recibir y responder dudas y quejas de los titulares de datos personales.
+
+XXIV. Asesorar a las unidades administrativas del Banco en materia de protección de datos personales, y coordinar con estas las acciones que deban implementarse en el Banco para el cumplimiento de los principios y deberes previstos en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables en esa materia. Lo anterior, sin perjuicio de lo previsto en el artículo 28, fracción XI, de este Reglamento.
+
+XXV. Atender y dar seguimiento, con la asesoría de la Dirección Jurídica, a los Recursos de Revisión que promuevan los particulares en materia de acceso a la información y protección de datos personales.
+
+XXVI. Establecer mecanismos para asegurar que los datos personales se entreguen a las personas autorizadas para tal efecto conforme a la ley de la materia.
+
+XXVII. Informar al solicitante, titular de datos personales o su representante, según corresponda, el monto de los costos a cubrir por la reproducción y envío de información o datos personales, y en su caso exceptuar el pago de los mismos atendiendo a las circunstancias socioeconómicas del interesado, en términos de las disposiciones normativas aplicables.
+
+XXVIII. Poner en práctica los programas de capacitación y actualización que apruebe el Comité de Transparencia para los servidores públicos del Banco, en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, y realizar las gestiones y trámites correspondientes ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+XXIX. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública, de la Ley Federal de Transparencia y Acceso a la Información Pública, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y de cualquier otra normatividad aplicable en esas materias.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -2614,3 +2676,11 @@ D.O.F. 15 DE AGOSTO DE 2017.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Todas las referencias hechas en las disposiciones emitidas por el Banco de México a la Dirección de Programación y Distribución de Efectivos, se entenderán hechas a la Dirección de Programación y Distribución de Efectivo.
+
+D.O.F. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
