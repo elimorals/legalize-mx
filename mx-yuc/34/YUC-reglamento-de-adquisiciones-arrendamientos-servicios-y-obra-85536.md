@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-adquisiciones-arrendamientos-servicios-y-obra-855
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-27"
-last_updated: "2015-03-12"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "YUC"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE MAYO DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de enero de 2012.
 
 CON FUNDAMENTO EN LOS ARTÍCULOS 16 PRIMER PÁRRAFO, 64 Y 69 FRACCIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y 1, 3 PRIMER PÁRRAFO, 15, 21 Y 30 FRACCIÓN XIII DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN Y,
 
-C O N S I D E R A N D O:.
+C O N S I D E R A N D O:
+
+[...]
 
 En consecuencia, y con fundamento en las citadas disposiciones constitucionales y legales, el Pleno del Tribunal Superior de Justicia del Estado de Yucatán expide el siguiente:
 
@@ -65,7 +67,13 @@ VII. Bienes muebles: todo aquello que siendo susceptible de apropiación, pueda 
 
 VIII. Comité de Adquisiciones: el Comité de Adquisiciones, Arrendamientos, Servicios y Obra Pública del Tribunal Superior de Justicia del Estado de Yucatán;
 
-IX. Contrato: acuerdo de voluntades escrito, manifestado en común entre en (sic) Tribunal y el proveedor, que se obligan en virtud del mismo, regulando sus relaciones relativas a una adjudicación.
+> <small>(ADICIONADA, D.O. 15 DE MAYO DE 2018)</small>
+
+VIII Bis. Conflicto de interés: la posible afectación del desempeño imparcial y objetivo de las funciones de los servidores públicos en razón de intereses personales, familiares o de negocios;
+
+> <small>(REFORMADA, D.O. 15 DE MAYO DE 2018)</small>
+
+IX. Contrato: acuerdo de voluntades escrito, manifestado en común entre el Tribunal y el proveedor, en el que se obligan en virtud del mismo, regulando sus relaciones relativas a una adjudicación;
 
 X. Contrato abierto: contrato por medio del cual se estipula un rango de montos máximos y mínimos dentro del cual se otorgará la prestación de servicios o adquisiciones;
 
@@ -163,9 +171,17 @@ III. Vocales: Los Magistrados Presidentes de cada Sala del Tribunal, en el caso 
 
 Únicamente el Presidente y los Vocales del Comité de Adquisiciones tendrán derecho a voz y voto.
 
-A las sesiones deberán asistir con derecho a voz, pero sin voto, el titular de la Unidad de Administración, los de las áreas solicitantes, los asesores técnicos u otros invitados cuya intervención considere necesaria el Comité de Adquisiciones.
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
 
-En todo caso, el Titular del Departamento de Contraloría revisará minuciosamente las convocatorias, bases, procedimientos y todos los actos previos al fallo y estará presente en las sesiones, vigilando que se lleven a cabo cumpliendo con las disposiciones legales y normativas aplicables.
+A las sesiones deberán asistir con derecho a voz, pero sin voto, los titulares de las áreas solicitantes, los asesores técnicos u otros invitados cuya intervención considere necesaria el Comité de Adquisiciones, única y exclusivamente para el desahogo de los asuntos de la orden del día para los que fueron convocados, proporcionándoles previamente la información necesaria. El titular de la Unidad de Administración, en su carácter de responsable de las contrataciones, será considerado invitado permanente.
+
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
+En todo caso, el Titular del Departamento de Contraloría Interna revisará minuciosamente las convocatorias, bases, procedimientos y todos los actos previos al fallo y estará presente en las sesiones, vigilando que se lleven a cabo cumpliendo con las disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+La Unidad de Asuntos Jurídicos y Sistematización de Precedentes participará en los procedimientos de contratación pública con el carácter de asesor, con el objeto de que las áreas responsables de la contratación se apeguen al marco jurídico y normativo aplicable.
 
 Atribuciones del Comité de Adquisiciones
 
@@ -253,6 +269,16 @@ El Comité de Adquisiciones funcionará conforme a las disposiciones siguientes:
 
 I. Sesionará las veces que fueren necesarias para el cumplimiento de sus funciones y atribuciones, previa convocatoria que formule por escrito el Presidente o el Secretario Ejecutivo, con tres días hábiles de anticipación, tratándose de las sesiones ordinarias y con veinticuatro horas de anticipación en el caso de las extraordinarias, precisándose en la convocatoria día, hora y lugar en que se celebrará la sesión, así como el orden del día correspondiente;
 
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+La invitación para participar en los actos de los procedimientos de contratación deberá ser entregada por escrito o de manera electrónica en los plazos señalados en el párrafo anterior, remitiendo la convocatoria y las bases de licitación de manera escrita o electrónica, según lo determine quien expida aquella.
+
+> <small>(ADICIONADA, D.O. 15 DE MAYO DE 2018)</small>
+
+I Bis. El órgano interno de control y el área jurídica participarán en las sesiones del Comité de Adquisiciones en las que se lleve a cabo la dictaminación de las adjudicaciones directas y presentación de informes, así como en los actos de apertura de proposiciones y fallos, las cuales podrán hacer observaciones de manera fundada y motivada en los propios actos, con el objeto de que sean corregidas o subsanadas de inmediato, debiendo de hacerse constar las mismas en las actas que se levanten para tal efecto, sin perjuicio de que dichas observaciones se puedan realizar por escrito al servidor público responsable de la contratación.
+
+Dichas observaciones deberán resguardarse en los expedientes de las contrataciones y de no ser corregidas o subsanadas prevaleciendo la probable falta administrativa, será considerada como una conducta dolosa, de iniciarse un procedimiento disciplinario, salvo que se justifique a satisfacción del Departamento de Contraloría Interna las razones y fundamentos por las cuales se actúa en el sentido observado.
+
 II. Para la validez de las sesiones se requerirá de la presencia de cuatro de los integrantes de los miembros con derecho a voto, debiendo en todo caso estar presente el Presidente y el Secretario Ejecutivo;
 
 III. Para la validez de las decisiones del Comité de Adquisiciones, se requiere el voto aprobatorio de la mayoría de los integrantes asistentes a la sesión. En caso de empate, el Presidente tendrá voto de calidad;
@@ -315,21 +341,37 @@ El Tribunal se abstendrá de celebrar cualquier tipo de operación o contrato en
 
 I. Las que desempeñen un empleo, cargo o comisión en el Tribunal, o bien, las sociedades de las que dichas personas formen parte;
 
-II. Las inhabilitadas para desempeñar un empleo, cargo o comisión en el Tribunal o bien las sociedades en que dichas personas formen parte;
+> <small>(ADICIONADA, D.O. 15 DE MAYO DE 2018)</small>
 
-III. Aquellas en que cualquier miembro del Comité de Adquisiciones, tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge, sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el miembro del Comité de Adquisiciones o las personas antes referidas formen parte o hayan formado parte;
+I Bis. Las que con motivo de su desempeño en un empleo, cargo o comisión en un ente público diverso al Tribunal puedan colocarse en un conflicto de intereses con la formalización del contrato;
+
+> <small>(REFORMADA, D.O. 15 DE MAYO DE 2018)</small>
+
+II. Las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, o bien las sociedades en que dichas personas formen parte;
+
+> <small>(REFORMADA, D.O. 15 DE MAYO DE 2018)</small>
+
+III. Aquellas en que cualquier miembro del Comité de Adquisiciones, tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge, sus parientes consanguíneos, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el miembro del Comité de Adquisiciones o las personas antes referidas formen parte o hayan formado parte;
 
 IV. Aquellos proveedores que, por causas imputables a ellos mismos, el Tribunal les hubiere rescindido administrativamente más de un contrato cualquiera que sea la causa o motivo;
 
-> <small>(REFORMADA, D.O. 6 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, D.O. 15 DE MAYO DE 2018)</small>
 
-V. Las que se encuentren inhabilitadas por resolución de los órganos de control interno del Poder Judicial, de la Secretaría de la Contraloría General del Estado de Yucatán o por el órgano o instancia con funciones equivalentes en el orden federal;
+V. Las que se encuentren inhabilitadas para participar en adquisiciones, arrendamientos, servicios u obras públicas por las autoridades competentes;
+
+> <small>(ADICIONADA, D.O. 15 DE MAYO DE 2018)</small>
+
+V Bis. Las que se encuentren en la situación de operaciones presuntamente inexistentes y listados definitivos a que se refiere el artículo 69-B del Código Fiscal de la Federación;
 
 VI. Las que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores o que alguna resolución judicial las haya condenado por delito o incumplimiento de contrato;
 
 VII. Aquellas que por sí mismas ó a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte, y
 
 VIII. Las que celebren contratos sin estar facultadas para hacer uso de derechos de propiedad intelectual.
+
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+La verificación de los supuestos anteriores correrá a cargo de la Unidad de Administración a través de la revisión de las bases de datos y archivos con que cuente el Tribunal, de los sistemas específicos de la Plataforma Digital Nacional a que se refiere la Ley General del Sistema Nacional Anticorrupción, la página electrónica del Servicio de Administración Tributaria y demás fuentes de acceso público que pudieran contener la información de que se trate, para lo cual se levantará la constancia de verificación correspondiente.
 
 Suficiencia presupuestal
 
@@ -367,9 +409,11 @@ Los montos que determinen la procedencia de cada uno de los procedimientos previ
 
 Abstención de marcas
 
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 21.
 
-El Comité, en sus adjudicaciones deberá abstenerse de manejar marcas o dirigir la adquisición con especificaciones que no permitan participación en igualdad de circunstancias de proveedores o prestadores de servicios, salvo los casos debidamente justificados por convenir al interés social.
+El Comité de Adquisiciones, en sus adjudicaciones, deberá abstenerse de manejar marcas o dirigir la adquisición con especificaciones que no permitan la participación en igualdad de circunstancias de proveedores o prestadores de servicios, salvo los casos debidamente justificados. Para lo anterior, deberá acreditarse que no existen otra u otras marcas alternativas de los bienes requeridos o las existentes no puedan ser sustituidas, en virtud de que, entre otras causas, exista razón técnica o jurídica que obligue a la utilización de una marca determinada, o bien la utilización de una marca distinta pueda ocasionar, entre otros aspectos, un daño a los equipos o maquinaria que requieran dichos bienes, o una pérdida económica, costo adicional o menoscabo al patrimonio del Tribunal.
 
 Prohibiciones de fraccionar adjudicaciones
 
@@ -378,6 +422,36 @@ Prohibiciones de fraccionar adjudicaciones
 Para la adquisición, arrendamiento de algún bien o contratación de servicios, queda prohibido el fraccionamiento de compras ó adquisiciones.
 
 Se entenderá que se fraccionan las compras o adquisiciones, cuando se realicen en forma subsecuente o repetitiva, en intervalos de tiempo menores de seis meses, y se refieran a bienes, insumos o servicios que tengan naturaleza semejante.
+
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+Servidores públicos que participan en contrataciones públicas
+
+ARTÍCULO 22 BIS. Los nombres y adscripción de los servidores públicos que intervengan en la tramitación, atención y resolución de los procedimientos establecidos en el presente Reglamento serán registrados y puestos a disposición de todo público por el Director de la Unidad de Administración en la forma y términos que determinen las leyes aplicables, así como en el portal de internet del Tribunal.
+
+La disposición anterior incluirá los nombres y adscripción de quienes intervengan como asesores en los referidos procedimientos, independientemente de que ejerzan un empleo, cargo o comisión en el servicio público o que ejerzan su asesoría por contrato de prestación de servicios, los cuales serán considerados como servidores públicos para este efecto.
+
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+Protocolo de actuación
+
+ARTÍCULO 22 TER. Los servidores públicos que intervengan en la tramitación, atención y resolución de los procedimientos establecidos en el presente Reglamento deberán cumplir lo establecido en el protocolo de actuación en materia de contrataciones públicas emitido por la instancia competente, lo cual será supervisado y controlado por el Departamento de Contraloría Interna del Tribunal.
+
+Además, dichos servidores públicos, en su caso, aplicarán los formatos que se utilizarán para que los particulares formulen un manifiesto de vínculos o relaciones de negocios, personales o familiares, así como de posibles conflictos de interés, bajo el principio de máxima publicidad y en los términos de la normatividad aplicable en materia de transparencia.
+
+Cuando los servidores públicos que intervengan en la tramitación, atención y resolución de los procedimientos establecidos en el presente Reglamento tengan conocimiento de la actualización de conflicto de interés o impedimento legal informarán tal situación al jefe inmediato o al Comité de Adquisiciones, en su caso, solicitando sean excusados de participar en cualquier forma en la atención, tramitación o resolución de los mismos.
+
+Será obligación del jefe inmediato determinar y comunicarle al servidor público, a más tardar cuarenta y ocho horas antes del plazo establecido para atender el asunto en cuestión, los casos en que no sea posible abstenerse de intervenir en los asuntos, así como establecer instrucciones por escrito para la atención, tramitación o resolución imparcial y objetiva de dichos asuntos.
+
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+Manifiesto de particulares
+
+ARTÍCULO 22 QUÁTER. Previo a la celebración de contratos de adquisiciones, arrendamientos o servicios, la Unidad de Administración deberá cerciorarse que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un conflicto de interés, en los formatos que al efecto se autoricen.
+
+Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Departamento de Contraloría Interna, previo a la celebración del acto en cuestión. En caso de que el proveedor sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad.
+
+Se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
 #### Sección Segunda. De la adjudicación directa
 
@@ -407,13 +481,27 @@ Procedimiento
 
 Cuando se lleven a cabo operaciones de adquisiciones a través de adjudicación directa, se observará el siguiente procedimiento:
 
-I. La Unidad de Administración realizará un informe, que presentará al Comité de Adquisiciones, que debe contener los razonamientos que determinan el caso de adjudicación directa como tal y tres cotizaciones de los mejores proveedores en la materia, para lo anterior, se deberán tomar en cuenta el tiempo de entrega, los precios y su vigencia, la calidad y el servicio.
+> <small>(REFORMADA, D.O. 15 DE MAYO DE 2018)</small>
+
+I. La Unidad de Administración realizará un informe, que presentará al Comité de Adquisiciones, que debe contener los razonamientos que determinan el caso de adjudicación directa como tal y tres cotizaciones de los mejores proveedores en la materia, para lo anterior, se deberán tomar en cuenta la calidad, los precios y su vigencia, tiempos de entrega y el servicio. En todo caso, se deberán contemplar las garantías a que se refieren los artículos 35 fracción II y 52 fracción VII de este Reglamento;
+
+> <small>(ADICIONADA, D.O. 15 DE MAYO DE 2018)</small>
+
+I Bis. Para adjudicaciones directas cuyo monto individual sin incluir impuestos, sea igual o mayor a 1,200 veces el valor diario de la unidad de medida y actualización, será requisito otorgar la garantía a que se refiere el artículo 35 fracción III de este Reglamento;
 
 II. El Comité revisará minuciosamente el informe que realice la Unidad de Administración, respecto de la determinación de adjudicación directa y procederá a rechazarla o aprobarla;
 
 III. La Unidad de Administración procederá a notificar al proveedor designado, dentro de los cinco días hábiles siguientes, para que éste, en un plazo de tres días hábiles recoja la orden de compra o el contrato. Si no lo hace en dicho término, se cancelará la orden de compra o el contrato, y
 
 IV. La Unidad de Administración, por conducto de su titular, efectuará el pago correspondiente, una vez hecha la compra y entregada en las condiciones estipuladas en la solicitud, expidiendo una constancia de que se hizo la verificación de que lo consignado en la orden de compra o en el contrato y la factura sea lo mismo.
+
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+Adjudicación por caso fortuito o fuerza mayor
+
+ARTÍCULO 24 BIS. El Presidente del Tribunal, en conjunto con el Director de la Unidad de Administración, podrán autorizar adjudicaciones directas hasta por el monto fijado de conformidad con el artículo 20 de este Reglamento, cuando por caso fortuito o de fuerza mayor exista impedimento para someter el asunto al Comité de Adquisiciones y con el retardo se ponga en peligro la implementación u operación de los fines, programas, planes o funcionamiento del Tribunal. Lo anterior, será informado al Comité de Adquisiciones dentro de los treinta días naturales siguientes al momento en que se efectúe la operación.
+
+Al informe se anexará el dictamen y demás documentación soporte que justifique el caso fortuito o de fuerza mayor que originó la excepción y la opción de adjudicación.
 
 #### Sección Tercera. De la adjudicación por Invitación restringida a cuando menos 3 proveedores
 
@@ -511,7 +599,13 @@ XVII. Las indemnizaciones por no sostenimiento de ofertas adjudicadas;
 
 XVIII. La indicación de que estarán impedidas las personas físicas o morales que se encuentran en los supuestos del artículo 16 del presente Reglamento;
 
-XIX. El señalamiento de que es requisito estar inscrito en el padrón de proveedores del Tribunal, y
+> <small>(REFORMADA, D.O. 15 DE MAYO DE 2018)</small>
+
+XIX. El señalamiento de que es requisito estar inscrito en el padrón de proveedores del Tribunal previo a la adjudicación del contrato;
+
+> <small>(ADICIONADA, D.O. 15 DE MAYO DE 2018)</small>
+
+XIX Bis. El señalamiento de que tratándose de personas morales que hayan implementado una política de integridad, deberán manifestar los elementos con que cuentan en términos de lo establecido en el artículo 25 de la Ley General de Responsabilidades Administrativas, para los efectos del artículo 21 de la Ley de Responsabilidades Administrativas del Estado de Yucatán, y
 
 XX. Los demás requisitos y condiciones que estime pertinentes el Comité de Adquisiciones.
 
@@ -599,6 +693,10 @@ VI. La omisión de la firma de algún proveedor no invalidará el contenido, efe
 
 En esta reunión, el Comité de Adquisiciones, al realizar el análisis de las propuestas, a su juicio, puede declarar desierto el procedimiento, cuando las ofertas no cumplan con cualquiera de los principios a que se refiere este documento o sean contrarias a los intereses del Tribunal.
 
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+El acto de entrega y apertura de propuestas será presencial, de tal suerte que los licitantes deberán presentar sus proposiciones personalmente o por conducto de quien legalmente los represente y por escrito, en sobre cerrado.
+
 Evaluación y análisis de propuestas
 
 ###### ARTÍCULO 37.
@@ -675,6 +773,22 @@ Será requisito indispensable para la adjudicación del proveedor, que éste se 
 
 La Unidad de Administración llevará el Padrón de Proveedores del Tribunal, por conducto del Departamento de Servicios Generales y Mantenimiento, y clasificará a las personas inscritas de acuerdo con su actividad.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O. 15 DE MAYO DE 2018)</small>
+
+Se podrán realizar contrataciones con proveedores no inscritos en el padrón a que se refiere este artículo, cuando:
+
+I. La operación no rebase de 500 veces el valor diario de la unidad de medida y actualización, sin incluir impuestos;
+
+II. No se transgreda la prohibición de fraccionar;
+
+III. Entre los proveedores inscritos no se encuentre alguno que ofrezca los bienes o servicios en las condiciones en que se requieren, y
+
+IV. Se actualice un evento imprevisible y la demora en la contratación ponga en peligro la implementación u operación de los fines, programas, planes o funcionamiento del Tribunal.
+
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+Los referidos supuestos serán justificados en el informe suscrito por el Director de la Unidad de Administración.
+
 Requisitos de inscripción en el Padrón de Proveedores
 
 > <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
@@ -687,13 +801,21 @@ I. Las personas físicas:
 
 a) Presentar solicitud en el formato que apruebe la Unidad de Administración del Tribunal;
 
-b) Acompañar copias certificadas de acta de nacimiento y credencial de elector con fotografía y copias simples de su Clave Única de Registro Poblacional y de su Cédula de Identificación Fiscal;
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
 
-c) Hacer constar por escrito la actividad o rama de servicios con la que pretenda dar servicio al Tribunal; su dirección fiscal detallada y el nombre y teléfono de la persona que fungirá como contacto de la persona física con el Tribunal;
+b) Acompañar copias certificadas de acta de nacimiento e identificación oficial con fotografía y copia simple de su Clave Única de Registro de Población;
 
-d) Presentar copia simple del comprobante fiscal autorizado que expide para comprobar sus operaciones mercantiles, el cual debe cumplir con los requisitos que establezcan las disposiciones legales y normativas aplicables a la materia;
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
 
-e) Presentar copia simple de su declaración anual de impuestos y su respectivo acuse de recibo, de las que se desprenda que se encuentra al corriente en el cumplimiento de sus obligaciones fiscales, y
+c) Hacer constar por escrito, en el formato autorizado, la actividad o rama de servicios con la que pretenda dar servicio al Tribunal; su dirección fiscal detallada y el domicilio para oír y recibir notificaciones; el domicilio de sus sucursales, y el nombre y teléfono de la persona que fungirá como contacto de la persona física con el Tribunal;
+
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
+d) Acompañar copia simple de la cédula de identificación fiscal o constancia de registro fiscal, así como la opinión del cumplimiento de obligaciones fiscales vigente, emitida en sentido positivo por el Servicio de Administración Tributaria;
+
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
+e) Presentar la información de los contratos de adquisiciones, arrendamientos o servicios que acreditan la experiencia del interesado, y su historial en materia de contrataciones y su cumplimiento con el sector público y privado, el cual contendrá la información de los contratos de adquisiciones, arrendamientos y servicios, formalizados con las dependencias y entidades, así como la relativa a rescisiones, aplicación de penas convencionales y deductivas, ejecución de garantías y sanciones impuestas de los últimos dos años, y
 
 f) Proporcionar la documentación complementaria que sea solicitada por el Comité de Adquisiciones.
 
@@ -701,41 +823,63 @@ II. Las personas morales:
 
 a) Presentar solicitud en el formato que apruebe la Unidad de Administración del Tribunal;
 
-b) Acompañar copias certificadas de su acta constitutiva y de las modificaciones que pudiera tener, debidamente inscritas en el Registro Público de la Propiedad y del Comercio; de la personalidad de su representante legal; de la identificación de dicho representante, así como copia simple de la Cédula de Identificación Fiscal de la persona moral;
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
 
-c) Hacer constar por escrito la actividad o rama de servicios con la que pretenda dar servicio al Tribunal, la cual deberá encuadrarse dentro de su objeto social; la dirección fiscal detallada en donde se encuentra ubicada la administración central de la empresa, y en su caso, de cada una de sus sucursales; así como el nombre y teléfono de la persona que fungirá como contacto de la persona moral con el Tribunal;
+b) Acompañar copias certificadas de su acta constitutiva y de las modificaciones que pudiera tener, debidamente inscritas en el Registro Público de la Propiedad y del Comercio; copias certificadas de la personalidad de su representante legal y de su identificación oficial con fotografía;
 
-d) Presentar copia simple del comprobante fiscal autorizado que expide para comprobar sus operaciones mercantiles, el cual debe cumplir con los requisitos que establezcan las disposiciones legales y normativas aplicables a la materia;
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
 
-e) Presentar copia simple de su declaración anual de impuestos y su respectivo acuse de recibo, de las que se desprenda que se encuentra al corriente en el cumplimiento de sus obligaciones fiscales, y
+c) Hacer constar por escrito, en el formato autorizado, la actividad o rama de servicios con la que pretenda dar servicio al Tribunal, la cual deberá encuadrarse dentro de su objeto social; la dirección fiscal detallada en donde se encuentra ubicada la administración central de la empresa; el domicilio para oír y recibir notificaciones; el domicilio de sus sucursales; así como el nombre y teléfono de la persona que fungirá como contacto de la persona moral con el Tribunal;
+
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
+d) Acompañar copia simple de la cédula de identificación fiscal o constancia de registro fiscal de la persona moral, así como la opinión del cumplimiento de obligaciones fiscales vigente, emitida en sentido positivo por el Servicio de Administración Tributaria;
+
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
+e) Presentar la información de los contratos de adquisiciones, arrendamientos o servicios que acreditan la experiencia del interesado, y su historial en materia de contrataciones y su cumplimiento con el sector público y privado, el cual contendrá la información de los contratos de adquisiciones, arrendamientos y servicios, formalizados con las dependencias y entidades, así como la relativa a rescisiones, aplicación de penas convencionales y deductivas, ejecución de garantías y sanciones impuestas de los últimos dos años, y
 
 f) Proporcionar la documentación complementaria que sea solicitada por el Comité de Adquisiciones.
 
-Los requisitos señalados en los incisos e) de las fracciones I y II de este artículo no serán exigidos cuando se acredite que por la fecha del alta en el Registro Federal de Contribuyentes no se ha generado tal obligación, en cuyo caso se deberá presentar la última declaración presentada y su respectivo acuse de recibo, en su caso.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O. 15 DE MAYO DE 2018)</small>
 
 Las personas físicas y morales podrán exhibir las copias certificadas a que se refiere este artículo adjuntando copias simples de las mismas, para que, previo cotejo del Secretario Ejecutivo, les sean devueltas las certificaciones de referencia.
 
 Procedencia de inscripción
 
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 46.
 
-El Comité de Adquisiciones, dentro de un término que no exceda de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción correspondiente. En caso de negativa, se deberá notificar explicando las causas de la misma.
+El Comité de Adquisiciones, dentro de un término que no exceda de quince días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción correspondiente, previa dictaminación de la Unidad de Asuntos Jurídicos y Sistematización de Precedentes respecto del cumplimiento de los requisitos fijados.
+
+Cuando el interesado presente de manera incompleta o errónea los requisitos a que se refiere el artículo anterior, el Comité de Adquisiciones deberá requerirlo, por una sola vez, para que en un plazo de hasta cinco días hábiles, subsane las omisiones o errores detectados, con el apercibimiento que de no desahogar la prevención en los términos indicados, la solicitud será desechada.
+
+Desahogado el requerimiento, el Comité de Adquisiciones resolverá sobre la inscripción dentro de los quince días hábiles siguientes.
+
+En caso de negativa, se deberá notificar explicando las causas de la misma, y señalando que dicha determinación se dicta sin perjuicio de que el interesado solicite nuevamente la inscripción.
+
+La prevención establecida en el presente artículo procederá respecto de las solicitudes realizadas por las personas físicas o morales que se encuentren participando en procedimientos de adjudicación mediante invitación restringida o licitación pública, que soliciten su registro en el padrón de proveedores; sin embargo, la falta de inscripción oportuna traerá como consecuencia la descalificación del interesado en el procedimiento correspondiente.
 
 > <small>(REFORMADO, D.O. 6 DE AGOSTO DE 2013)</small>
 
 Vigencia del registro en el Padrón de Proveedores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 47.
 
-El registro en el Padrón de Proveedores tendrá vigencia de tres años fiscales. Los proveedores que deseen continuar inscritos, deberán solicitar su renovación durante el mes de diciembre del último año en que tiene vigencia su registro, mediante la presentación de escrito, bajo protesta de decir verdad, en el que manifieste que prevalecen las mismas condiciones conforme a las que se registró; sin perjuicio de comunicar en cualquier tiempo los cambios que afecten el giro o su actividad.
+El registro en el Padrón de Proveedores tendrá vigencia de cinco años fiscales. Los proveedores que deseen continuar inscritos, deberán solicitar su renovación por otros cinco años durante el mes de diciembre del último año en que tenga vigencia su registro, mediante la presentación de escrito, bajo protesta de decir verdad, en el que manifieste que prevalecen las mismas condiciones conforme a las que se registró, acompañando la opinión del cumplimiento de obligaciones fiscales vigente, emitida en sentido positivo por el Servicio de Administración Tributaria; sin perjuicio de comunicar en cualquier tiempo al Tribunal, las modificaciones relativas a su capacidad técnica y administrativa, económica o de su actividad, cuando tales circunstancias puedan implicar un cambio en su clasificación.
 
 El Pleno del Tribunal, el Comité de Adquisiciones o la Unidad de Administración, en cualquier tiempo, podrán solicitar al proveedor inscrito en el Padrón la información o documentación que consideren necesaria.
 
 Suspensión del registro en el Padrón de Proveedores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 48.
 
-Procederá la suspensión del registro en el Padrón de Proveedores, por parte del Comité de Adquisiciones, hasta por el término de veinticuatro meses, en los casos en que el proveedor:
+Procederá la suspensión del registro en el Padrón de Proveedores, por parte del Comité de Adquisiciones, de tres a veinticuatro meses, en los casos en que el proveedor:
 
 I. Se niegue a dar las facilidades necesarias para que el Comité de Adquisiciones y el Departamento de Contraloría ejerzan sus facultades de comprobación, inspección y vigilancia;
 
@@ -745,9 +889,11 @@ III. No sostenga la propuesta económica en un concurso a través de licitación
 
 Cancelación del registro en el Padrón de Proveedores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 49.
 
-El Comité de Adquisiciones podrá cancelar el registro de un proveedor en el padrón y negar su renovación en el mismo, en los siguientes casos:
+El Comité de Adquisiciones podrá cancelar el registro de un proveedor en el padrón y negar su renovación en el mismo, por un periodo de uno a cinco años, en los siguientes casos:
 
 I. Si se comprueba que el proveedor actuó con dolo o mala fe en cualquier acto relacionado con el Tribunal;
 
@@ -803,6 +949,20 @@ Modificación de los contratos
 
 Por caso fortuito o fuerza mayor, o por causas atribuibles al Tribunal o Comité de Adquisiciones, éstos podrán modificar los contratos a efecto de prorrogar la fecha o plazo para la entrega de los bienes o la prestación de los servicios. En este supuesto deberá formalizarse el convenio modificatorio respectivo, no procediendo la aplicación de penas convencionales por atraso. Tratándose de causas imputables al Tribunal o Comité de Adquisiciones, no se requerirá de la solicitud del proveedor.
 
+> <small>(ADICIONADO, D.O. 15 DE MAYO DE 2018)</small>
+
+Terminación anticipada
+
+ARTÍCULO 53 BIS. El Tribunal, previa recomendación del Comité de Adquisiciones, podrá dar por terminado anticipadamente un contrato en los siguientes supuestos:
+
+I. Cuando concurran razones de interés general;
+
+II. Cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al Tribunal, y
+
+III. Cuando se determine la nulidad de los actos que dieron origen al contrato, con motivo de la resolución del recurso de inconformidad.
+
+En estos supuestos el Tribunal rembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
+
 Rescisión y cancelación
 
 ###### ARTÍCULO 54.
@@ -831,7 +991,9 @@ III. Suspensión o cancelación en el Registro de Proveedores, y
 
 IV. Las demás previstas en este Reglamento y las que considere el Comité de Adquisiciones.
 
-Las sanciones podrán ser impuestas por el Comité de Adquisiciones de manera conjunta o separada.
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
+Las sanciones serán impuestas por el Comité de Adquisiciones mediante el procedimiento previsto en el contrato o pedido formalizado y podrán ser aplicadas de manera conjunta o separada. Las sanciones serán ejecutadas por el Director de la Unidad de Administración o la unidad competente.
 
 Recurso de Inconformidad
 
@@ -861,9 +1023,11 @@ El Departamento de Contraloría, en el ejercicio de sus facultades, podrá verif
 
 Conservación de documentos
 
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 61.
 
-La Unidad de Administración deberá conservar en forma ordenada y sistemática toda la documentación comprobatoria de los procedimientos de adquisiciones, arrendamientos y contratación de servicios, cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
+La Unidad de Administración deberá conservar en forma ordenada y sistemática toda la documentación comprobatoria de los procedimientos de adquisiciones, arrendamientos y contratación de servicios, cuando menos por un lapso de ocho años, contados a partir de la fecha de su recepción.
 
 Responsabilidad de las unidades
 
@@ -873,9 +1037,11 @@ Sin perjuicio de la supervisión que ejerza el Departamento de Contraloría, cad
 
 Irregularidades
 
+> <small>(REFORMADO, D.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 63.
 
-En el momento de que el Departamento de Contraloría o alguna área administrativa detectara alguna irregularidad por parte de algún proveedor, lo notificará en un plazo no mayor de veinticuatro horas, por medio de un informe al Comité de Adquisiciones, para su análisis conjunto y, en su caso, previo procedimiento, imposición de las sanciones correspondientes.
+En el momento de que el Departamento de Contraloría Interna o alguna área administrativa detectara alguna irregularidad por parte de algún proveedor, lo notificará en un plazo no mayor de veinticuatro horas, por medio de un informe al Comité de Adquisiciones, para su análisis conjunto y, en su caso, previo procedimiento, imposición de las sanciones a que se refiere el artículo 56 de este Reglamento.
 
 Casos no previstos
 
@@ -968,3 +1134,33 @@ El presente Acuerdo General entrará en vigor al día siguiente de su aprobació
 ###### ARTÍCULO SEGUNDO.
 
 Se instruye al titular de la Unidad de Administración del Tribunal Superior de Justicia para que notifique el presente Acuerdo General a las personas físicas o morales inscritas en el Padrón de Proveedores del referido ente durante el año 2012.
+
+D.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO OR08-180419-24 DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y OBRA PÚBLICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Verificación de supuestos
+
+Artículo segundo. En tanto comienzan a operar los sistemas específicos de la Plataforma Digital Nacional a que se refiere la Ley General del Sistema Nacional Anticorrupción, la Unidad de Administración realizará la verificación de los supuestos establecidos en el artículo 16 fracciones II y V en los sistemas informáticos de acceso público administrados por la Secretaría de la Función Pública del Gobierno Federal.
+
+Protocolo de actuación
+
+Artículo tercero. En tanto el Comité Coordinador del Sistema Nacional Anticorrupción expide el protocolo de actuación en contrataciones públicas a que se refiere el artículo 22 Ter, los servidores públicos que intervengan en la tramitación, atención y resolución de los procedimientos establecidos en el presente Reglamento deberán observar, en lo conducente, lo establecido en el Anexo Primero del “Acuerdo por el que se expide el protocolo de actuación en materia de contrataciones públicas, otorgamiento y prórroga de licencias, permisos, autorizaciones y concesiones”, publicado en el Diario Oficial de la Federación el 20 de agosto de 2015, emitido por la Secretaría de la Función Pública del Gobierno Federal, que se encuentre vigente.
+
+El citado protocolo de actuación únicamente aplicará a aquellas contrataciones públicas cuyo monto rebase el equivalente a trescientas veces el valor diario de la unidad de medida y actualización sin incluir impuestos, en la fecha en que se efectúe la operación.
+
+Ampliación del registro en el padrón de proveedores
+
+Artículo cuarto. Las personas físicas y morales que a la entrada en vigor del presente acuerdo cuenten con registro vigente en el padrón de proveedores del Tribunal ampliarán su vigencia hasta cumplir cinco años fiscales.
+
+Divulgación
+
+Artículo quinto. Se instruye a la persona titular de la Secretaría Ejecutiva del Comité de Adquisiciones para que comunique la versión consolidada del Reglamento de Adquisiciones, Arrendamientos Servicios y Obra pública del Tribunal Superior de Justicia, así como el anexo del protocolo a que se refiere el artículo anterior, a los servidores públicos que intervienen en la tramitación, atención y resolución de los procedimientos de adjudicación, e igualmente gestione su difusión a través de la página electrónica del Tribunal.
+
+Derogación tácita
+
+Artículo sexto. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Acuerdo General.
