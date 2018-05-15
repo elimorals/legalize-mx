@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2018-03-22"
+last_updated: "2018-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,45 +21,21 @@ state: "SLP"
 ---
 # LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE ESTABLECEN LAS CARACTERÍSTICAS GENERALES QUE DEBE CUMPLIR EL SISTEMA DEL VOTO ELECTRÓNICO POR INTERNET PARA LAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO DEL INSTITUTO NACIONAL ELECTORAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, PUBLICADO EN EL D.O.F. DE 20 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS “LINEAMIENTOS PARA EL DESARROLLO DEL SISTEMA DEL VOTO ELECTRÓNICO POR INTERNET PARA MEXICANOS RESIDENTES EN EL EXTRANJERO”, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2019 (ABROGADO).
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
-Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2016.
+C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG770/2016.
+DECRETO 360
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS “LINEAMIENTOS PARA EL DESARROLLO DEL SISTEMA DEL VOTO ELECTRÓNICO POR INTERNET PARA MEXICANOS RESIDENTES EN EL EXTRANJERO”, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-ANTECEDENTES
+...
 
-[…]
-
-CONSIDERANDO
-
-[...]
-
-En razón de lo expuesto y con fundamento en los artículos 35, fracciones I y II y 41, párrafo segundo, Base V, Apartado A, párrafos primero y segundo de la Constitución Política de los Estados Unidos Mexicanos; 1, párrafo 1; 9, párrafo 1; 30, párrafo 1; 208, párrafo 1; 229, párrafos 1, 2 y 3; 330, párrafo 1, incisos a), b) y c); 339 párrafo 1 y 5; 341, párrafos 1, 2 y 3; 343, párrafos 2 y 3; 345, párrafo 1; 354, párrafo 2 y Décimo Tercero Transitorio de la Ley General de Instituciones y Procedimientos Electorales; 4, párrafo 1, fracción I, Apartado A, inciso a); 5, párrafo 1, inciso w), y 66, párrafo 1, inciso w) del Reglamento Interior del Instituto Nacional Electoral; 1, párrafo 1; 100; 101, párrafos 1 y 2; 102, párrafos 1 y 2, y Séptimo Transitorio del Reglamento de Elecciones del Instituto Nacional Electoral, este Consejo General del Instituto Nacional Electoral en ejercicio de sus facultades, emite los siguientes:
-
-ACUERDOS
-
-PRIMERO. Se aprueban los “Lineamientos para el desarrollo del Sistema del Voto Electrónico por Internet para Mexicanos Residentes en el Extranjero”, a propuesta de la Junta General Ejecutiva, contenidos en el Anexo que se acompaña al presente Acuerdo y forma parte integral del mismo.
-
-SEGUNDO. Se aprueba que el sistema que se desarrollará en términos de los Lineamientos aprobados en el Punto de Acuerdo Primero, se utilizará hasta que este Consejo General determine, en su caso, el uso de la modalidad del voto electrónico por internet para los mexicanos residentes en el extranjero y una vez que se cumplan los requisitos contemplados en el Artículo Décimo Tercero Transitorio de la Ley General de Instituciones y Procedimientos Electorales.
-
-TERCERO. Se aprueba que la operación del Sistema Informático de Voto Electrónico por Internet para Mexicanos Residentes en el Extranjero estará a cargo del Instituto Nacional Electoral para su uso en las elecciones federales y, a su vez, en las elecciones locales de las entidades federativas cuya legislación local contempla la votación de los mexicanos residentes en el extranjero.
-
-CUARTO. Se instruye a las Direcciones Ejecutivas y a las Unidades Técnicas de este Instituto, para que en el ámbito de sus atribuciones, realicen las gestiones necesarias para dar cabal cumplimiento al presente Acuerdo.
-
-QUINTO. Se instruye a la Junta General Ejecutiva, para que adopte las medidas administrativas necesarias para proveer de los recursos que permitan dar cumplimiento a lo aprobado en el presente Acuerdo.
-
-SEXTO. Se aprueba que los Lineamientos referidos en el Punto Primero del presente Acuerdo, sean contemplados en términos de lo dispuesto en el Artículo Octavo Transitorio del Reglamento de Elecciones del Instituto Nacional Electoral.
-
-SÉPTIMO. El presente Acuerdo entrará en vigor el día de su aprobación por parte de este Consejo General.
-
-OCTAVO. Publíquese el presente Acuerdo y su respectivo Anexo en el Diario Oficial de la Federación y en la Gaceta del Instituto Nacional Electoral.
+LEY DE PROTECCION DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSI
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -119,9 +95,7 @@ XIII. Patrimonio cultural tangible: es el conjunto de bienes materiales muebles 
 
 XIV. Patrimonio cultural intangible: es el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
-
-XV. CONGRESO: el Honorable Congreso del Estado;
+XV. (DEROGADA, P.O. 22 DE MARZO DE 2018)
 
 > <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -341,9 +315,7 @@ e) INDEPI.
 
 f) La Universidad Autónoma de San Luis Potosí.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2015)</small>
-
-g) Dos representantes del CONGRESO.
+g) (DEROGADO, P.O. 22 DE MARZO DE 2018)
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -463,33 +435,29 @@ VIII. Proponer reconocimientos o estímulos por méritos o acciones destacadas, 
 
 Las propuestas de declaratorias podrán realizarlas de manera conjunta o independiente, las autoridades e instituciones estatales y municipales, los organismos auxiliares, así como los particulares.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-###### ARTICULO 33.
+###### ARTÍCULO 33.
 
-Las propuestas a que se refiere el artículo anterior deberán ser presentadas ante el CONGRESO, o la SECULT.
+Las propuestas a que se refiere el artículo anterior deberán ser presentadas ante la SECULT, misma que las turnará a la COTEPAC para su opinión correspondiente, y una vez que ésta se manifieste al respecto, la SECULT elaborará el proyecto de decreto administrativo, para someterlo a la consideración del titular del Ejecutivo del Estado.
 
-En el caso del CONGRESO, se turnará a la comisión respectiva, para iniciar el proceso legislativo detallado en su Ley Orgánica, y en su Reglamento para el Gobierno Interior del mismo, solicitando la opinión técnica respectiva a la COTEPAC.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-En el caso de la SECULT, la turnará a la COTEPAC para su opinión correspondiente, y una vez que ésta se manifieste al respecto, la SECULT elaborará el proyecto de decreto administrativo para someterlo a la consideración del titular del Ejecutivo del Estado.
+###### ARTÍCULO 34.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+El titular del Ejecutivo Estatal tiene la facultad para decretar declaratorias de patrimonio cultural, sobre los bienes contemplados en el artículo 7° de esta Ley; y sólo el Ejecutivo tendrá la facultad de revocarlas.
 
-###### ARTICULO 34.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-El titular del Ejecutivo Estatal; y el CONGRESO, tienen la facultad para decretar declaratorias de patrimonio cultural, sobre los bienes contemplados en el artículo 7° de esta Ley; y sólo el Ejecutivo tendrá la facultad de revocarlos.
+###### ARTÍCULO 35.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
+El titular del Ejecutivo del Estado, mediante decreto, administrativo expedirá la declaratoria correspondiente, que deberá publicarse en el Periódico Oficial del Estado; asimismo, lo notificará en forma personal al interesado o solicitante; a los organismos responsables de su cuidado; y a los posibles afectados que tengan interés jurídico. En caso de ignorarse nombre o domicilio de éstos últimos, surtirá efectos de notificación personal la citada publicación oficial.
 
-###### ARTICULO 35.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2018)</small>
 
-El titular del Ejecutivo del Estado; y el CONGRESO, mediante Decreto, Administrativo; y Legislativo, respectivamente, expedirán las declaratorias correspondientes, que deberán publicarse en el Periódico Oficial del Estado; asimismo, lo notificarán en forma personal al interesado o solicitante; a los organismos responsables de su cuidado; y a los posibles afectados que tengan interés jurídico. En caso de ignorarse nombre o domicilio de éstos últimos, surtirá efectos de notificación personal la citada publicación oficial.
+###### ARTÍCULO 36.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2015)</small>
-
-###### ARTICULO 36.
-
-En el Decreto, Administrativo, o Legislativo, que corresponda, se ordenará la inscripción de la declaratoria, en el Registro Estatal del Patrimonio Cultural, a cargo de la SECULT y, en su caso, indicarse su asociación con el bien inmueble a que pertenecen o pertenecieron.
+En el decreto administrativo se ordenará la inscripción de la declaratoria en el Registro Estatal del Patrimonio Cultural, a cargo de la SECULT y, en su caso, indicarse su asociación con el bien inmueble a (sic) que pertenecen o pertenecieron.
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2011)</small>
 
@@ -695,19 +663,27 @@ IV. Los técnicos o profesionistas autores de proyectos, directores de obras o a
 
 De conformidad con lo preceptuado en este Ordenamiento, al que por voluntad propia y sin la autorización de la autoridad competente, realice trabajos materiales por excavación, remoción o por cualquier otro medio que dañe, destruya o deteriore el patrimonio tangible en el Estado, la sanción pecuniaria que señala la fracción III del artículo 63 de esta ley, se calculará de la siguiente manera:
 
-I. Cuando el valor de lo dañado no exceda de ciento cincuenta veces el salario mínimo general vigente en el Estado, se impondrá una sanción pecuniaria de ciento cincuenta a trescientos días de salario mínimo vigente en la Entidad;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
-II. Cuando el valor de lo dañado exceda de ciento cincuenta días el salario mínimo general vigente en el Estado, pero no de mil quinientas, se impondrá una sanción pecuniaria de trescientos a dos mil días de salario mínimo vigente en la Entidad, y
+I. Cuando el valor de lo dañado no exceda de ciento cincuenta veces del valor diario de la unidad de medida de actualización, se impondrá una sanción pecuniaria de ciento cincuenta a trescientas veces del valor diario de la unidad de medida de actualización;
 
-III. Cuando el valor de lo dañado exceda de mil quinientas veces el salario mínimo general vigente en el Estado, se impondrá una sanción pecuniaria de dos mil días de salario mínimo vigente y hasta por el valor del daño causado.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+II. Cuando el valor de lo dañado exceda de ciento cincuenta veces del valor diario de la unidad de medida de actualización, pero no de mil quinientas, se impondrá una sanción pecuniaria de trescientos a dos mil veces del valor diario de la unidad de medida de actualización, y
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+
+III. Cuando el valor de lo dañado exceda de mil quinientas veces del valor diario de la unidad de unidad de medida de actualización, se impondrá una sanción pecuniaria de dos mil veces del valor diario de la unidad de unidad de medida de actualización y hasta por el valor del daño causado.
 
 ###### ARTICULO 66.
 
 Las sanciones pecuniarias previstas en el artículo anterior, se aplicarán sin perjuicio de la responsabilidad que resulte de acuerdo a la legislación penal aplicable.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 67.
 
-Para estimar la cuantía del daño a un bien cultural inmueble, se atenderá únicamente al valor intrínseco del bien dañado, pero si por alguna circunstancia no fuere estimable en dinero, o si por su naturaleza no fuese posible fijar su valor, la sanción pecuniaria será de cincuenta a tres mil días de salario mínimo vigente en el Estado.
+Para estimar la cuantía del daño a un bien cultural inmueble, se atenderá únicamente al valor intrínseco del bien dañado, pero si por alguna circunstancia no fuere estimable en dinero, o si por su naturaleza no fuese posible fijar su valor, la sanción pecuniaria será de cincuenta a tres mil días de la unidad de medida y actualización vigente.
 
 ###### ARTICULO 68.
 
@@ -789,6 +765,8 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
+P.O. 22 DE MARZO DE 2018.
+
 ## TRANSITORIOS
 
 PRIMERO. La aplicación de las disposiciones contenidas en el Título IV “De las Auditorías” de los Lineamientos señalados en el Punto Primero del presente Acuerdo, se realizará una vez que este Consejo General, determine en su caso que el Voto Electrónico por Internet para Mexicanos Residentes en el Extranjero tenga carácter vinculante, tomando en consideración los plazos mínimos, tanto en procedimientos administrativos como de ejecución, que se requieren para realizar una auditoría con los alcances definidos en los citados Lineamientos y emitir el Dictamen correspondiente.
@@ -824,3 +802,17 @@ QUINTO. El presente Acuerdo y los Lineamientos que establecen las característic
 SEXTO. Se instruye a la Secretaría Ejecutiva a efecto de que haga de conocimiento el presente Acuerdo y su Anexo, a las Direcciones Ejecutivas y Unidades Técnicas del Instituto Nacional Electoral, así como a los Organismos Públicos Locales.
 
 SÉPTIMO. Publíquese el presente Acuerdo y su respectivo Anexo en la Gaceta Electoral, en el Portal de Internet del Instituto Nacional Electoral y en el Diario Oficial de la Federación.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 913.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 955. SE REFORMAN LOS ARTÍCULOS 61 Y 62 DE LA LEY DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 40 DE LA LEY DE CENTROS DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y, SE REFORMA EL ARTÍCULO 10 DE LA LEY QUE ESTABLECE EL DEPÓSITO LEGAL PARA LA PRESERVACIÓN DEL PATRIMONIO BIBLIOGRÁFICO Y DOCUMENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
