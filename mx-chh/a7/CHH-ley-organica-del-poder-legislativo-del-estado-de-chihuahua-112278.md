@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2018-03-14"
+last_updated: "2018-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -536,6 +536,10 @@ La Junta de Coordinación Política tomará sus decisiones por consenso. En el c
 ###### ARTÍCULO 64.
 
 Las ausencias de las o los diputados integrantes de la Junta de Coordinación Política, serán suplidas, en el caso de las coordinadoras o coordinadores, por su subcoordinadora o subcoordinador; y las de la Secretaría Técnica, por quien designe su Titular.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2018)</small>
+
+Quienes ocupen la subcoordinación de Grupo Parlamentario podrán ejercer el derecho al voto únicamente en caso de ausencia justificada de las o los coordinadores.
 
 ###### ARTÍCULO 65.
 
@@ -2440,3 +2444,9 @@ P.O. 14 DE MARZO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO LXV/RFLEY/0772/2018 II P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 64 UN SEGUNDO PÁRRAFO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
