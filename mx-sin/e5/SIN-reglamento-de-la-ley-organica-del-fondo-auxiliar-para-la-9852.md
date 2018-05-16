@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-organica-del-fondo-auxiliar-para-la-9852"
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-08-12"
-last_updated: "2014-04-11"
+last_updated: "2018-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Sinaloa, el lunes 12 de agosto de 1985
 
@@ -69,13 +69,69 @@ La administración del Fondo quedará sujeta básicamente a lo que sobre la mate
 
 El sistema administrativo y contable del Fondo quedará centralizado en la oficina de su domicilio, sin perjuicio de las modificaciones que a dicho sistema impongan las circunstancias o necesidades para hacerlo más efectivo.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 4o.
 
-Los depósitos en dinero o valores recibidos por cualquier órgano o dependencia del Poder Judicial del Estado, se documentarán mediante la forma denominada Recibo de Caja y deberán remitirse a la mayor brevedad posible a las oficinas del Fondo acompañados de una copia del mismo. El original del recibo de caja se entregará al depositante y una copia de aquél permanecerá en el archivo de la dependencia que reciba el depósito.
+El Fondo contará con el Sistema Informático para la Recepción y Entrega de Valores, en lo sucesivo SIREV, mediante el cual se administrarán los depósitos en dinero o valores que ordenaren los órganos jurisdiccionales.
+
+Los depósitos destinados al Fondo por los conceptos regulados por la normativa en vigor, se podrán realizar a través de certificado de depósito u otro instrumento diseñado por SIREV. Este último se denominará Orden de Depósito, y deberá contener, por lo menos, los siguientes datos:
+
+a) Tipo de operación;
+
+b) Fecha de emisión;
+
+c) Nombre de la institución bancaria;
+
+d) Número de emisora;
+
+e) Número de expediente, toca o asunto;
+
+f) Órgano jurisdiccional que lo expide;
+
+g) Importe;
+
+h) Concepto;
+
+i) Nombre del depositante; y,
+
+j) Referencia alfanumérica.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 5o.
 
-Las entregas o reintegros de depósitos al beneficiario o depositante, se documentarán mediante forma denominada Recibo de Entrega y los mismos se efectuarán por la misma dependencia ante la cual se hubiere constituido el depósito, siempre y cuando dicha entrega se haya acordado por escrito en el expediente judicial correspondiente, conforme a lo correspondiente por el Artículo 4 de la Ley Orgánica, procurando en caso foráneo que el envío del importe se haga por el medio más rápido disponible.
+Los retiros del Fondo que ordenaren los órganos jurisdiccionales, se realizarán mediante el formato diseñado por SIREV. Este último se denominará Solicitud de Devolución, y deberá contener, por lo menos, los siguientes datos:
+
+a) Pecha de solicitud;
+
+b) Folio;
+
+c) Órgano jurisdiccional que lo expide;
+
+d) Número de expediente o asunto;
+
+e) Número de orden de depósito;
+
+f) Concepto;
+
+g) Ramo;
+
+h) Acuerdo;
+
+i) Importe;
+
+j) Nombre del beneficiario;
+
+k) Forma de devolución;
+
+l) Firma de conformidad; y,
+
+m) Firma de autorizado de quien corresponda.
+
+Los retiros podrán efectuarse mediante transferencia electrónica a cuenta bancaria, o en su caso, a través de orden de pago. En ambos supuestos deberán utilizarse los formatos que el propio Fondo establezca a través de SIREV.
+
+Dichos trámites deberán realizarse ante el órgano jurisdiccional en el que se hubiese constituido el depósito, emitiéndose por parte su (sic) titular orden por escrito mediante la cual se instruya al Fondo para que realice el reintegro al beneficiario o depositante, conforme a lo dispuesto por el artículo 4 de la Ley Orgánica del Fondo.
 
 ###### ARTICULO 6o.
 
@@ -286,5 +342,13 @@ LIC. MARTHA B. DE PALAZUELOS
 P.O. 11 DE ABRIL DE 2014.
 
 PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Comuníquese a los Jueces de Primera Instancia, Magistrados de Circuito y dependencias administrativas del Poder Judicial del Estado, para su conocimiento.
+
+P.O. 16 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4 Y 5 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Comuníquese a los Jueces de Primera Instancia, Magistrados de Circuito y dependencias administrativas del Poder Judicial del Estado, para su conocimiento.
