@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-05-09"
+last_updated: "2018-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -4347,11 +4347,11 @@ I. Si el recurso es forestal y la cantidad es de hasta cuatro metros cúbicos, o
 
 II. Si excediera de cuatro metros cúbicos, o su equivalente en producto transformado, se aplicarán de seis a doce años de prisión y multa de doscientos a dos mil veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
-
 ###### Artículo 359.
 
-Al que sin contar con la autorización de la autoridad competente, o contraviniendo los términos en que ésta se haya concedido, acopie, almacene, transforme, trafique, comercialice o aproveche recursos forestales maderables, no maderables o sus derivados, se le aplicarán las penas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2018)</small>
+
+Al que sin contar con la autorización de la autoridad competente, o contraviniendo los términos en que ésta se haya concedido, acopie, almacene, transforme, trafique, comercialice, transporte o aproveche recursos forestales maderables, no maderables o sus derivados, se le aplicarán las penas siguientes:
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
@@ -5268,6 +5268,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0740/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 158 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0765/2018 II P.O., POR MEDIO DE CUAL SE REFORMA EL ARTÍCULO 359 DEL CÓDIGO PENAL DEL ESTADO".]
 
 ###### ARTÍCULO ÚNICO.
 
