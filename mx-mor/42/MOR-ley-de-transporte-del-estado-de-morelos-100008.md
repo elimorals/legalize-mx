@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2017-12-31"
+last_updated: "2018-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2018 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -57,7 +59,9 @@ I. Bases, al lugar del cual sale o llega el transporte público concesionado con
 
 II. Concesión, al título que a través de un acto administrativo otorga el Gobernador Constitucional del Estado de Morelos a personas físicas o morales, y que confiere el derecho de explotar y operar los Servicios de Transporte Público;
 
-III. Concesionario, a la persona física o moral titular de una concesión;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+III. Concesionario, a la Persona Jurídica Individual o Persona Jurídica Colectiva titular de una concesión, por haber cubierto los requisitos para ello;
 
 IV. Conductor, a la persona que guía un vehículo cualesquiera que sean las características técnicas de este;
 
@@ -77,7 +81,9 @@ XI. Operativo, al acto administrativo por el que la Secretaría de Movilidad y T
 
 XII. Parada, al lugar donde obligatoriamente se detienen los vehículos del Servicio Transporte Público para realizar sólo labores de ascenso y descenso de pasajeros;
 
-XIII. Permisionario, a la persona física y moral titular de un permiso;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+XIII. Permisionario, a la Persona Jurídica Individual o Persona Jurídica Colectiva titular de un permiso;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -86,6 +92,14 @@ XIV. Permiso de conducir, a la autorización otorgada a particulares para operar
 XV. Permiso particular, a la autorización otorgada a particulares para operar los Servicios de Transporte Particular de Carga, la cual es otorgada por el Titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal;
 
 XVI. Permiso, a la autorización hecha a persona física o moral que otorga el Titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal para la prestación del Servicio de Transporte Privado;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2018)</small>
+
+XVI BIS. Persona Jurídica Individual, es todo ser humano desde la concepción hasta la muerte, titular de derechos y obligaciones;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2018)</small>
+
+XVI TER. Persona Jurídica Colectiva, es toda agrupación de personas individuales dotada de personalidad jurídica, titular de derechos y obligaciones;
 
 XVII. Registro Público de Transporte, al Registro Público Estatal de Transporte;
 
@@ -131,9 +145,11 @@ La Secretaría tiene jurisdicción en todo el territorio del Estado, ejerciendo 
 
 El Transporte de personas y de carga, que no sean de competencia Federal, se regirán por las disposiciones de esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
 ###### Artículo 6.
 
-La prestación del Servicio de Transporte Público corresponde originariamente al Estado, quien podrá prestarlo directamente o concesionarlo, mediante concurso público, a personas físicas o morales, de conformidad con lo establecido por la presente Ley.
+La prestación del Servicio de Transporte Público corresponde originariamente al Estado, quien podrá prestarlo directamente o concesionarlo, mediante concurso público, a personas jurídicas individuales o colectivas, de conformidad y con las excepciones establecidas por la presente Ley.
 
 ###### Artículo 7.
 
@@ -253,9 +269,9 @@ XVII. Diseñar y establecer en su caso, las políticas y criterios para el estab
 
 XVIII. Proponer las cuotas, tasas y tarifas fiscales aplicables en materia de derechos por los servicios que proporcione la Secretaría en el ejercicio de sus atribuciones, así como los aprovechamientos respectivos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
 
-XIX. Suscribir y expedir los gafetes de los operadores debidamente acreditados del Servicio de Transporte Público;
+XIX. Suscribir y expedir el Tarjetón del Servicio de Transporte Público;
 
 XX. Regular, inspeccionar y vigilar el Servicio de Transporte Público y Privado en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo a efecto de garantizar que el servicio público se preste en los términos y condiciones autorizados legalmente;
 
@@ -283,7 +299,9 @@ XXXI. Declarar, previo procedimiento la revocación, cancelación y caducidad, d
 
 XXXII. Organizar los servicios emergentes de transporte público, cuando las circunstancia lo ameriten en coordinación con las autoridades correspondientes;
 
-XXXIII. Convocar por instrucciones del Gobernador Constitucional del Estado de Morelos, a concurso público para el otorgamiento de concesiones para la prestación del Servicio de Transporte Público en cualquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+XXXIII. Convocar por instrucciones del Gobernador Constitucional del Estado de Morelos, a concurso público para el otorgamiento de concesiones para la prestación del Servicio de Transporte Público en cualquiera de sus modalidades; así como autorizar las cesiones de derechos entre particulares, cuando procedan en términos de la Ley;
 
 XXXIV. Evaluar y dictaminar sobre el otorgamiento de concesiones y de permisos para la prestación del Servicio de Transporte Público;
 
@@ -525,35 +543,31 @@ Los Ayuntamientos, podrán emitir opinión al Programa Estatal de Desarrollo del
 
 ### CAPÍTULO SEGUNDO. DE LAS ZONAS DE TRÁNSITO CONTROLADO
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2018)</small>
 
 ###### Artículo 26 Bis.
 
-Para efectos de esta Ley, las zonas de tránsito controlado son sistemas de control y regulación del tránsito en zonas urbanas específicas de las ciudades.
+Para efectos de esta Ley, las áreas de tránsito controlado son sistemas de control y regulación del tránsito en zonas específicas, sean urbanas, metropolitanas o rurales.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
 
 Estas zonas serán determinadas por la Secretaría, conjuntamente con otras autoridades estatales y municipales competentes, de conformidad con la normativa aplicable.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-P(ADICIONADO, P.O. 22 DE JULIO DE 2016)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2018)</small>
 
 ###### Artículo 26 Ter.
 
-Las zonas de tránsito controlado comprenderán los siguientes aspectos:
+Las vialidades de tránsito en las áreas que se aluden comprenderán los siguientes aspectos:
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2016)</small>
 
 I. Priorización del tránsito peatonal, mediante la ejecución de programas y proyectos que incentiven la infraestructura peatonal, integrando los conceptos de accesibilidad universal;
 
-II. Regulación de la operación de los sistemas de transporte, considerando los sistemas no motorizados y, en su caso, la interconexión de modos de transporte, y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+II. Regulación de la operación de los Sistemas de Transporte, considerando los sistemas no motorizados y, en su caso, la interconexión de modos de transporte, proveyendo para ello, las que se indiquen en los artículos 32 y 33 de la presente Ley, podrán prestar el servicio por las vías alternativas, incluyendo las colonias rurales nacientes, y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2016)</small>
 
 III. Las demás que determine el Reglamento.
 
@@ -579,7 +593,9 @@ IV. El Secretario de Obras Públicas;
 
 V. El Secretario de Economía;
 
-VI. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+VI. El Fiscal General del Estado;
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
 
@@ -595,13 +611,17 @@ XI. El Delegado del Centro de la Secretaría de Comunicaciones y Transportes Mor
 
 XII. Un representante de cada una de las Cámaras, cuyos estatutos estén ligados con la actividad económica que regula esta Ley;
 
-XIII. Un representante de los concesionarios y permisionarios estatales por modalidad de transporte de cada Delegación, que tenga la Dirección General de Transporte, y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+XIII. Un representante de los concesionarios y permisionarios estatales por modalidad de transporte de cada Delegación, que estén debidamente reconocidos ante la Dirección General de Transporte, y
 
 XIV. A invitación expresa del Secretario la autoridad municipal cuando los asuntos a tratar tengan injerencia en su territorio.
 
 El Gobernador Constitucional del Estado de Morelos presidirá el Consejo y tendrá voto de calidad; y el Secretario de Movilidad y Transporte fungirá como Secretario Técnico del Consejo Consultivo del Transporte.
 
-Los funcionarios a que se refieren las fracciones I, II, III, V, VI, VIII y X, tendrán voz y voto en las Sesiones del Consejo, los demás integrantes sólo voz. Los integrantes del Consejo a que se refiere la fracción XII, ejercerán su representación por un lapso no mayor a dos años.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
+Los sujetos a que se refieren las fracciones I, II, III, V, VI, VIII, X y XIII, tendrán voz y voto en las Sesiones del Consejo, los demás integrantes sólo voz. Los integrantes del Consejo a que se refiere la fracción XII, ejercerán su representación por un lapso no mayor a dos años.
 
 ###### Artículo 29.
 
@@ -737,63 +757,43 @@ Los funcionarios que contravengan lo establecido en el presente artículo, será
 
 ### CAPÍTULO CUARTO. DEL SISTEMA INTEGRADO DE TRANSPORTE MASIVO
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
 
 ###### Artículo 38 Bis.
 
-Corresponde a la Secretaría la planeación del desarrollo de la movilidad y el transporte, atendiendo a políticas y proyectos sustentables que produzcan la mayor satisfacción de los usuarios y la minimización de las externalidades negativas, considerando un Sistema que atienda, de manera integral y masiva, los desplazamientos de las personas.
+Corresponde a la Secretaría la planeación del desarrollo de la movilidad y el transporte, atendiendo a políticas públicas, proyectos sustentables y sostenibles, que produzcan la mayor satisfacción y atención de los usuarios, para lo cual otorgará a los concesionarios y permisionarios las mejores condiciones para brindar el mejor servicio posible a la ciudadanía.
 
-Se entiende como transporte masivo el que permite el traslado de mayor número de usuarios en tiempos cortos y largos trayectos, con visión regional y conurbada, cuyas características en la prestación del servicio sean la seguridad, la comodidad y la confiabilidad, utilizando vehículos adecuados para tener emisiones contaminantes atmosféricas reducidas.
+Se entenderá como Sistema de Transporte Público a la conceptualización del artículo 54 de esta Ley, con la finalidad de trasladar al mayor número de usuarios en tiempos cortos y largos trayectos, con visión conurbada, cuyas características en la prestación del servicio sean la seguridad, la comodidad y la confiabilidad, utilizando vehículos adecuados que utilicen combustibles extraídos de las fuentes renovables o que preferentemente sean amigables y sustentables con el medio ambiente.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+La Secretaría de Movilidad y Transporte del Gobierno del Estado de Morelos, deberá homologar los años de vida útil de los vehículos con la normativa federal, pero tomando en cuenta las características físicas-geográficas-terrestres y de urbanidad propias para el Estado de Morelos; para lo cual, en su caso, se procurará fomentar e incentivar recursos para la renovación o adquisición de unidades nuevas.
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
 
 ###### Artículo 38 Ter.
 
-El Sistema Integrado de Transporte Masivo fungirá como medio de coordinación de la Secretaría con las autoridades y dependencias federales, con la inclusión de los sectores social y privado, que coadyuven a desarrollar un servicio accesible a la mayoría de la población, que tenga como objetivos:
+La Secretaría fungirá como medio de coordinación entre el Sistema de Transporte Público con las autoridades y dependencias de los tres órdenes y niveles de gobierno para lograr los fines a que se refiere el artículo que antecede; para lo cual de manera enunciativa más no limitativa cuenta con las siguientes atribuciones:
 
-I. Gestionar proyectos de infraestructura de transporte masivo con alta rentabilidad social, en sus diversas modalidades, que permitan acciones de cofinanciamiento con las autoridades locales, propiciando la participación de la inversión privada, y
+I. Gestionar proyectos de infraestructura de transporte con alta rentabilidad social, en sus diversas modalidades, que permitan acceder a créditos de instituciones financieras o comerciales, de desarrollo, fiduciarias o inversión privada;
 
-II. Promover el fortalecimiento institucional de las autoridades locales en materia de planeación, regulación y administración de sistemas integrados de transporte público urbano, conurbado, metropolitano y suburbano.
+II. Promover el fortalecimiento institucional de las autoridades locales en materia de planeación, regulación y administración del Sistema de Transporte Público;
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+III. Promover la creación de fideicomisos del ramo del transporte, de carácter o con recursos cuyo origen sea privado, cuya regulación y funcionamiento estará sujeto a la normativa de la materia, con el fin de que se generen beneficios para los concesionarios, permisionarios y cualquier otra persona relacionada con el Sistema del Transporte Público, según el fin que se determine en la creación del propio fideicomiso, y
 
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+IV. Las demás que determine la normativa aplicable.
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
 
 ###### Artículo 38 Quater.
 
-El Sistema Integrado de Transporte Masivo se establecerá mediante los siguientes elementos mínimos:
+El Sistema de Transporte Público considerará los siguientes elementos mínimos:
 
-I. Infraestructura y equipamiento de transporte masivo, y
+I. Las bases, paradas, terminales y los servicios auxiliares del transporte o cualquier infraestructura que se requiera, y
 
-II. Unidades vehiculares especializadas.
+II. Las unidades vehiculares adecuadas que utilicen preferentemente combustibles extraídos de las fuentes renovables, que sean amigables y sustentables con el medio ambiente para tener bajas emisiones contaminantes atmosféricas.
 
-Adicionalmente, en este Sistema podrá contarse con otros elementos, tales como el sistema de telemetría y los mecanismos de pago o prepago de los servicios; lo anterior en los términos que al efecto señale el Reglamento.
+Para estos efectos se entiende que son fuentes renovables aquéllas que por su naturaleza o mediante un aprovechamiento adecuado se consideran inagotables, tales como la energía solar en todas sus formas; la energía eólica; la energía hidráulica tanto cinética como potencial, de cualquier cuerpo de agua natural o artificial; la energía de los océanos en sus distintas formas; la energía geotérmica, y la energía proveniente de la biomasa o de los residuos o biocombustibles. Asimismo, se considera generación la conversión sucesiva de la energía de las fuentes renovables en otras formas de energía.
 
-Para el funcionamiento y operación del Sistema Integrado de Transporte Masivo, la Secretaría y los sectores social y privado podrán constituir fondos cuyos recursos serán administrados y operados a través de uno o varios fideicomisos, mismos que deberán contar con un Comité Técnico, estando obligados, cuando menos, a:
-
-I. Administrar cautelosamente los recursos, a fin de permitir el cumplimiento efectivo de sus fines;
-
-II. Crear mecanismos e incentivos para nutrirse de recursos, y
-
-III. Realizar las previsiones necesarias a fin de procurarse solvencia.
-
-Los recursos de los fideicomisos se aplicarán para los fines que se determinen en el instrumento que los constituya y rija.
+Adicionalmente, podrá contarse con otros elementos, tales como el sistema de telemetría y los mecanismos de pago o prepago de los servicios; lo anterior enl os (sic) términos que al efecto señale el Reglamento.
 
 ## TÍTULO SEXTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE
 
@@ -847,9 +847,11 @@ Para efectos de la presente Ley se entenderá por concesión, el Título que a t
 
 Para el otorgamiento de concesiones, el Gobernador Constitucional del Estado de Morelos, a través del Secretario, deberá publicar en el Periódico Oficial del Estado, conjuntamente con la Convocatoria, la Declaratoria de necesidades respectiva, que justifique el incremento de las concesiones existentes de acuerdo con la modalidad de que se trate.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
 ###### Artículo 46.
 
-El Gobernador Constitucional del Estado de Morelos, otorgará las concesiones mediante concurso público siguiendo el procedimiento establecido en la presente Ley y su Reglamento; a excepción de las referidas en los artículos 35 de esta Ley, las que podrá otorgar directamente sin someterse a concurso; siempre y cuando se cumplan los requisitos que marca este ordenamiento.
+El Gobernador Constitucional del Estado de Morelos otorgará las concesiones mediante concurso público siguiendo el procedimiento establecido en la presente Ley y su Reglamento; a excepción de las referidas en los artículos 35, 62 y 63 de esta Ley, las que podrá otorgar a través de la Secretaría sin someterse a concurso, siempre y cuando se cumplan los requisitos que marca este ordenamiento.
 
 ###### Artículo 47.
 
@@ -885,9 +887,13 @@ e) Acreditar una residencia en el Estado de por lo menos 5 años anteriores a la
 
 f) No tener antecedentes de revocación o declaratoria de nulidad de concesión del Servicio de Transporte Público;
 
-g) Participar en el concurso público que para tal efecto se convoque conforme a las bases que se señalen en la Convocatoria respectiva;
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
 
-h) Presentar a la Secretaría, por conducto de la Dirección General de Transporte la solicitud con todos los requisitos que en la misma se consignen, dentro del plazo que se señale en la convocatoria, aceptando como respuesta a su petición, el fallo que se publique en el periódico oficial del Estado y en uno de los diarios de mayor circulación en la Entidad, y
+g) Participar en el concurso público que para tal efecto se convoque conforme a las bases que se señalen en la Convocatoria respectiva, excepto cuando la concesión derive de una cesión en términos de la Ley.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
+h) Presentar a la Secretaría, por conducto de la Dirección General de Transporte la solicitud con todos los requisitos que en la misma se consignen, dentro del plazo que se señale en la convocatoria, aceptando como respuesta a su petición, el fallo que se publique en el periódico oficial del Estado y en uno de los diarios de mayor circulación en la Entidad; o bien, en los plazos a que se refiere el artículo 64 de la Ley, en tratándose de cesiones de las concesiones, y
 
 i) Someterse al estudio socioeconómico que al efecto practique la Dirección General de Transporte con el objeto de verificar la acreditación de la capacidad económica para la prestación del servicio.
 
@@ -907,9 +913,11 @@ III. Para Organismos Auxiliares de la Administración Pública Estatal y Municip
 
 Las concesiones que se otorguen para el Servicio de Transporte Público sin itinerario fijo, se otorgarán únicamente a personas físicas, dando preferencia a operadores del transporte público que acrediten 5 años de antigüedad como operadores.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2018)</small>
+
 ###### Artículo 49.
 
-Las concesiones se otorgarán a los concursantes que garanticen la prestación del Servicio de Transporte Público en las mejores condiciones, atendiendo en su orden a los siguientes criterios:
+Las concesiones se otorgarán a quienes garanticen la prestación del Servicio de Transporte Público en las mejores condiciones, atendiendo en su orden a los siguientes criterios:
 
 I. Ofrezcan mejor calidad en el equipo destinado al servicio;
 
@@ -925,7 +933,9 @@ IV. En caso de coincidencia se preferirá a las personas físicas o morales de o
 
 V. En caso de existir nuevamente igualdad de condiciones, se preferirá a las personas físicas o morales vinculadas y con domicilio en las regiones o zonas que habrán de abarcar los servicios; y
 
-VI. Tratándose de personas morales, se otorgará a la Empresa que acredite que realizará una mayor y mejor inversión para prestar en condiciones óptimas el servicio concursado, comprendiendo en ello, la capacitación del personal, la calidad de las unidades, los servicios y obras accesorias.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+VI. Tratándose de personas jurídicas colectivas, se otorgará a la que acredite que realizará una mayor y mejor inversión para prestar en condiciones óptimas el servicio concursado, comprendiendo en ello, la capacitación del personal, la calidad de las unidades, los servicios y obras accesorias.
 
 ###### Artículo 50.
 
@@ -939,7 +949,13 @@ III. Hubiesen sido sancionados por prestar el Servicio de Transporte Público en
 
 IV. Les hubiesen sido revocada la licencia de conducir o la certificación expedida por la Secretaría, por infracciones a las disposiciones de tránsito o transporte;
 
-V. Hayan enajenado bajo cualquier figura jurídica o hayan cedido o transferido sus derechos bajo cualquier forma o denominación, aún de forma simulada;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+V. Hayan enajenado bajo cualquier figura jurídica o hayan cedido o transferido
+
+(sic) sus derechos bajo cualquier forma o denominación, sin ajustarse a lo exigido
+
+(sic) para el efecto por la Ley, aún de forma simulada;
 
 VI. Sean Secretarios, Subsecretarios o Directores de Dependencias de la Administración Pública Estatal; miembros de Órganos de Gobierno, Titulares y Directores de Entidades de la Administración Pública Federal o Municipal; integrantes del Cabildo de los Ayuntamientos; Servidores Públicos de la Secretaría de Movilidad y Transporte del Estado, Diputados Locales y Federales, Senadores, Jueces y Magistrados del Poder Judicial del Estado, así como los Titulares y Directores de los órganos autónomos, y
 
@@ -953,45 +969,27 @@ El Gobernador Constitucional del Estado de Morelos, se abstendrá de otorgar nue
 
 El otorgamiento de una concesión obliga a proteger de manera efectiva a los usuarios de cualquier riesgo que puedan sufrir con motivo de la prestación del mismo. Bajo ninguna circunstancia podrá un vehículo concesionado, realizar el servicio si carece de un seguro contratado con institución registrada ante la Comisión Nacional de Seguros y Fianzas o fondo de garantía que cubra cualquier siniestro que pudiera presentarse con relación a las personas o la carga o bien los daños que se pudieran causar a terceros.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
 ###### Artículo 53.
 
-El Gobernador Constitucional del Estado de Morelos, evitará el monopolio del transporte, en consecuencia, las personas físicas no podrán ser titulares de más de tres concesiones; en el caso de las personas morales, será necesario que haya cuando menos un socio por cada tres concesiones, cada socio deberá limitar sus aportaciones a la explotación de tres vehículos, sin perjuicio de las sumas que fuere necesario aportar para el establecimiento de los servicios auxiliares del transporte. La misma limitación deberá observarse durante el término de vigencia de la sociedad y, por tanto, ningún socio podrá aumentar su participación social ni adquirir acciones de la sociedad concesionaria en una proporción que exceda a la autorizada en este artículo. Tratándose de personas físicas, la concesión que en su favor expida el Gobernador Constitucional del Estado de Morelos, será explotada con un sólo vehículo.
+El Gobernador Constitucional del Estado de Morelos, evitará el monopolio del transporte, en consecuencia, las Personas Jurídicas Individuales no podrán ser titulares de más de tres concesiones; en el caso de las Personas Jurídicas Colectivas, será necesario que haya cuando menos un socio por cada tres concesiones, cada socio deberá limitar sus aportaciones a la explotación de tres vehículos, sin perjuicio de las sumas que fuere necesario aportar para el establecimiento de los servicios auxiliares del transporte. La misma limitación deberá observarse durante el término de vigencia de la sociedad y, por tanto, ningún socio podrá aumentar su participación social, ni adquirir acciones de la sociedad concesionaria en una proporción que exceda a la autorizada en este artículo. Tratándose de Personas Jurídicas Individuales, la concesión que en su favor expida el Gobernador Constitucional del Estado de Morelos, será explotada con un sólo vehículo.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
 
 ###### Artículo 54.
 
-Las personas físicas titulares de concesiones, preferentemente morelenses en términos de la presente Ley, podrán incorporarse o conformarse en personas morales constituidas como empresas, con la aportación en goce al equivalente de su concesión; la disolución de la asociación se realizará de acuerdo a lo establecido en la normativa aplicable.
+Las Personas Jurídicas Individuales, preferentemente morelenses, podrán incorporarse, conformarse o constituirse en Personas Jurídicas Colectivas en términos de la legislación de la materia, con la aportación de su concesión.
 
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+La disolución de las Personas Jurídicas Colectivas se realizará de acuerdo a lo establecido en la normativa aplicable.
 
 ###### Artículo 54 Bis.
 
-La concesión para la prestación del servicio en zonas metropolitanas y corredores troncales de transporte masivo, únicamente se otorga a las personas morales constituidas en empresas que cumplan los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia, el tipo de sociedad, objeto social exclusivo para transporte y sus servicios auxiliares, personalidad jurídica y razón social con la que obtuvo la concesión, así como el número de accionistas y capital social.
-
-(NOTA 1: EL 23 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 94/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-(NOTA 2: EL 22 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, TEMAS 1 Y 2, Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 95/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y DOS POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE MARZO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+(DEROGADO, P.O. 16 DE MAYO DE 2018)
 
 ###### Artículo 54 Ter.
 
-La concesión otorgada a las personas morales constituidas en empresas, autoriza y ampara la cantidad de vehículos que arrojen los estudios de factibilidad realizados en la zona donde habrá de prestarse el servicio de transporte público de pasajeros con o sin itinerario fijo.
+(DEROGADO, P.O. 16 DE MAYO DE 2018)
 
 ###### Artículo 55.
 
@@ -1009,7 +1007,9 @@ El Título de Concesión contendrá como mínimo, lo siguiente:
 
 I. Motivación y fundamento legal aplicable;
 
-II. El nombre y datos del titular, se trate de persona física o moral;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+II. El nombre y datos del titular, se trate de Persona Jurídica Individual o Persona Jurídica Colectiva;
 
 III. Número de Concesión;
 
@@ -1081,23 +1081,29 @@ d) Seguro o en su caso, fondo de garantía que ampare la responsabilidad civil p
 
 ### CAPÍTULO TERCERO. DE LA NULIDAD DE LA CESIÓN DE DERECHOS DEL TÍTULO DE CONCESIÓN
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
 ###### Artículo 62.
 
-Las concesiones otorgadas a personas físicas, se consideran como patrimonio familiar del concesionario, por lo que no son objeto de comercio, ni de cesión de derechos de ningún tipo, salvo las excepciones establecidas en esta Ley, por lo que no podrán transmitirse en forma total o parcial los derechos derivados de las mismas y su transmisión será nula de pleno derecho.
+Las concesiones otorgadas a personas Jurídicas Individuales y Colectivas, sólo podrán ser cedidas a petición del concesionario a otra persona que reúna los requisitos que prevé esta Ley para su otorgamiento y previo pago de los derechos respectivos, solicitud que deberá realizarse ante la Secretaría, quien resolverá lo conducente.
 
-La violación a lo establecido en el presente artículo dará lugar a la revocación del título de concesión por parte de la Secretaría, sin perjuicio de aplicar al infractor las sanciones que correspondan.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2018)</small>
 
 ###### Artículo 63.
 
-El titular de la concesión del Servicio de Transporte Público, en tratándose de persona física, sólo en vida, podrá nombrar a un beneficiario en caso de incapacidad física o mental, ausencia declarada judicialmente o muerte a fin de que la Secretaría, en cualquiera de los supuestos designe al beneficiario como titular de la concesión.
+El titular de la concesión del Servicio de Transporte Público, entratándose (sic) de Persona Jurídica Individual, sólo en vida podrá nombrar a un beneficiario en caso de incapacidad física o mental, ausencia declarada judicialmente o muerte a fin de que la Secretaría, en cualquiera de los supuestos designe al beneficiario como titular de la concesión.
 
 El beneficiario, designado por el concesionario, no deberá contar con más de tres concesiones a su favor y deberá reunir los requisitos exigidos para el otorgamiento de la concesión.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
 
 ###### Artículo 64.
 
 El beneficiario a que se refiere el artículo anterior, deberá solicitar a la Secretaría, la sustitución a su favor como titular de la concesión, dentro de los tres meses siguientes a la declaración de incapacidad, ausencia o muerte del titular.
 
 Recibida la solicitud, la Secretaría cuenta con tres meses para resolver lo conducente.
+
+Lo previsto en los párrafos anteriores aplicará para los casos a que se refiere el artículo 62 de la Ley, con la diferencia de que el plazo para la solicitud se contará a partir de que se realice la cesión respectiva.
 
 ###### Artículo 65.
 
@@ -1199,7 +1205,9 @@ II. Por inscribir en el vehículo destinado a la prestación del servicio de tra
 
 Procede la revocación de las concesiones en los siguientes casos:
 
-I. Pretender transmitir los derechos derivados de la concesión;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2018)</small>
+
+I. Pretender transmitir los derechos derivados de la concesión, sin que se cumplan los extremos previstos en la Ley;
 
 II. Por utilizar documentación falsa o elementos de circulación en vehículo distinto al autorizado;
 
@@ -1603,7 +1611,9 @@ El concesionario deberá contar en cada uno de los vehículos autorizados para l
 
 A fin de garantizar los principios de generalidad, regularidad, seguridad y eficiencia en la prestación del Servicio de Transporte Público, los concesionarios deberán sustituir los vehículos autorizados para la prestación del servicio con la periodicidad que señale el Reglamento de esta Ley y el Título de Concesión.
 
-Los vehículos autorizados para la prestación del Servicio de Transporte Público de pasajeros, se ajustarán a los lineamientos que la Secretaría emita respecto de aspectos técnicos, de mantenimiento, conservación, renovación, de seguridad, capacidad, comodidad, así como a las condiciones de accesibilidad para personas discapacitadas, adultos mayores, mujeres en período de gestación. En ningún caso podrá prestarse el Servicio de Transporte Público de pasajeros con vehículos cuyo año o modelo sea superior a 10 años.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
+Los vehículos autorizados para la prestación del Servicio de Transporte Público de pasajeros, se ajustarán a los lineamientos que la Secretaría emita respecto de aspectos técnicos, de mantenimiento, conservación, renovación, de seguridad, capacidad, comodidad, así como a las condiciones de accesibilidad para personas discapacitadas, adultos mayores, mujeres en período de gestación.
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE LOS OPERADORES DEL TRANSPORTE PÚBLICO
 
@@ -1739,9 +1749,11 @@ El procedimiento se sustanciara con la participación de las partes que tendrán
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2018)</small>
+
 ###### Artículo 110.
 
-Las tarifas y sus reglas de aplicación, serán determinadas por el Secretario, de acuerdo a la clase de servicio, rutas e itinerarios del transporte público en sus distintas modalidades, atendiendo a la necesidad y rentabilidad del servicio, al interés público y la capacidad de pago de los usuarios, teniendo la obligación de revisarlas anualmente, tomándose en consideración la opinión del Consejo Consultivo del Transporte. Las tarifas se publicarán en el Periódico Oficial del Estado y en dos de los diarios de mayor circulación en la Entidad, para conocimiento de los usuarios cuando menos con tres días de anticipación a su entrada en vigor. Los prestadores del servicio deberán exhibir en forma permanente y en lugares visibles de sus vehículos, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa autorizada del servicio de que se trate.
+Las tarifas y sus reglas de aplicación, serán determinadas por el Secretario, de acuerdo a la clase de servicio, rutas e itinerarios del transporte público en sus distintas modalidades, atendiendo a la necesidad y rentabilidad del servicio, al interés público y la capacidad de pago de los usuarios, teniendo la obligación de revisarlas cuando menos una vez al año, de conformidad a las peticiones que por escrito le soliciten los representantes de los gremios del transporte debidamente reconocidos ante el Consejo Consultivo de Transporte. Las tarifas se publicarán en el Periódico Oficial del Estado y en dos de los diarios de mayor circulación en la Entidad, para conocimiento de los usuarios cuando menos con tres días de anticipación a su entrada en vigor. Los prestadores del servicio deberán exhibir en forma permanente y en lugares visibles de sus vehículos, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa autorizada del servicio de que se trate.
 
 En la publicación y exhibición permanente de la tarifa autorizada, deberá incluirse la exención del pago a los niños menores de tres años y personas con discapacidad o bien aplicarles el cincuenta por ciento de descuento del pago, así como el descuento del cincuenta por ciento del pago a personas adultas mayores que presenten su credencial del INAPAM.
 
@@ -1913,9 +1925,11 @@ La Secretaría calificará la infracción que resulte, de conformidad con la may
 
 La Secretaría atendiendo a la gravedad de la falta, que deberá ser calificada por la misma, podrá imponer las sanciones previstas en el presente ordenamiento a los concesionarios, permisionarios y operadores del transporte público en cualquiera de sus modalidades, que infrinjan lo previsto en la presente Ley y su Reglamento. Igualmente, podrán imponer sanciones a aquellos que presten el servicio en cualquiera de sus modalidades careciendo de concesión, permiso o con placas metálicas de identificación del servicio de transporte en vehículo distinto al autorizado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2018)</small>
+
 ###### Artículo 133.
 
-Se sancionará las violaciones a esta Ley y su Reglamento con amonestación o, en su caso, con multa prevista en el artículo 130, fracciones I y III, a los operadores del transporte público, permisionarios y concesionarios, en su caso, que presten el Servicio de Transporte Público en los siguientes casos:
+Se sancionará las violaciones a esta Ley y su Reglamento con amonestación o, en su caso, con multa prevista en el artículo 130, fracciones I yIV (sic), a los operadores del transporte público, permisionarios y concesionarios, en su caso, que presten el Servicio de Transporte Público en los siguientes casos:
 
 I. Por no mostrar la tarifa autorizada en lugar visible del vehículo, en el caso del Servicio de Transporte Público de pasajeros con itinerario fijo;
 
@@ -1935,9 +1949,11 @@ VIII. Cuando se presenten deficiencias en el cumplimiento de horarios, frecuenci
 
 IX. Cuando el operador del transporte público no realice las maniobras de ascenso y descenso de pasajeros en las paradas autorizadas para ello.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2018)</small>
+
 ###### Artículo 134.
 
-Se sancionará las violaciones a la Ley y su Reglamento con multa que se refiere el artículo 130, fracción III, a los concesionarios, permisionarios y operadores, en su caso, que presten el Servicio de Transporte Público en los siguientes casos:
+Se sancionará las violaciones a la Ley y su Reglamento con multa que se refiere el artículo 130, fracción IV, a los concesionarios, permisionarios y operadores, en su caso, que presten el Servicio de Transporte Público en los siguientes casos:
 
 I. Por aplicación de tarifas que no hayan sido autorizadas;
 
@@ -2230,3 +2246,27 @@ NOVENA. Derivado de las consecuencias ocasionadas por el sismo ocurrido el 19 de
 En ese orden, se autoriza al Titular del Poder Ejecutivo Estatal para que, en virtud de las atribuciones conferidas en el "Decreto número mil trescientos setenta y tres.- por el que se crea a la Entidad Paraestatal denominada "Sistema Integrado de Transporte Masivo"; y se autoriza al Titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación", realice las acciones conducentes para suspender o postergar el inicio de vigencia u operatividad de dicho organismo auxiliar, hasta en tanto se cuente con la disponibilidad presupuestaria para ello. Para lo anterior, deberá tomar las previsiones respectivas por cuanto al "Decreto por el que se determina la naturaleza jurídica como Organismo Público Descentralizado, y demás particularidades para la operación, de la Entidad Paraestatal denominada "Sistema Integrado de Transporte Masivo".
 
 DÉCIMA. En caso de que en el ejercicio fiscal se determine la cancelación de la asignación establecida en el artículo 58 BIS-9, párrafo primero, de la Ley General de Hacienda del Estado de Morelos para el Fondo de Competitividad y Promoción del Empleo, la diversa asignación que corresponda al Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, en términos del artículo 26, fracción II, de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos, se reducirá de acuerdo a los montos y porcentajes efectuados para el primero de los fondos citados.
+
+P.O. 16 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL OCHOCIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Con relación al Decreto Número Mil Trescientos Setenta y Tres, por el que se crea a la Entidad Paraestatal denominada "Sistema Integrado de Transporte Masivo"; y se autoriza al titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación, publicado en el Periódico Oficial "Tierra y Libertad", número 5486, de 05 de abril de 2017, deberá estarse a lo previsto en la Disposición Sexta Transitoria del Decreto Número Dos Mil Trescientos Cincuenta y Dos y en la Disposición Transitoria Novena del Decreto Número Dos Mil Trescientos Cuarenta y Nueve, publicados en el Periódico Oficial "Tierra y Libertad", números 5552 y 5565, el 23 de noviembre y 31 de diciembre de 2017, respectivamente.
+
+CUARTA. El Poder Ejecutivo Estatal, en virtud del presente Decreto, tomará las medidas a que haya lugar respecto del "Decreto por el que se establecen diversas medidas administrativas con relación a la implementación del Sistema Integrado de Transporte Masivo Previsto por la Ley de Transporte del Estado de Morelos", publicado en el Periódico Oficial "Tierra y Libertad", número 5423, el14 (sic) de agosto de 2016.
+
+QUINTA. El Titular del Poder Ejecutivo Estatal deberá realizar las modificaciones correspondientes a los instrumentos administrativos necesarios, a efecto de adecuar sus disposiciones jurídicas realizadas por virtud del presente Decreto; sin que ello implique dejar sin efectos las acciones realizadas previamente al amparo de las disposiciones jurídicas que se derogan o abrogan por virtud del presente Decreto.
+
+SEXTA. La Secretaría de Movilidad y Transporte del Gobierno del Estado de Morelos, en un plazo improrrogable de 180, días contados a partir de la publicación del presente Decreto, deberá homologar los años de vida útil de los vehículos con la normativa federal, pero tomando en cuenta las características físicas- geográficas-terrestres y de urbanidad propias para el estado de Morelos.
+
+SÉPTIMA. La Secretaría de Movilidad y Transporte del Gobierno del Estado de Morelos, en un plazo improrrogable de 180 días, contados a partir de la publicación del presente Decreto, deberá reformar el Reglamento de Transporte para el Estado de Morelos para hacer realizable la reforma a la Ley, pudiendo contar con la opinión del gremio del transporte público.
+
+OCTAVA. Se faculta por única ocasión al Gobernador Constitucional del Estado de Morelos o a quien él designe, para que con posterioridad a la conclusión del proceso electoral ordinario 2018, otorgue la extensión de las concesiones o permisos pendientes por el periodo de dos años para aquellos concesionarios o permisionarios que acrediten haber cubierto la obligación de pago con documento respectivo.
+
+NOVENA. La cesión de las concesiones que por virtud del presente Decreto se posibilitan, de conformidad con lo señalado en su artículo 62, deberán realizarse con posterioridad a la conclusión del proceso electoral ordinario 2018.
+
+DÉCIMA. Se derogan todas aquellas disposiciones que contravengan en lo dispuesto al presente Decreto.
