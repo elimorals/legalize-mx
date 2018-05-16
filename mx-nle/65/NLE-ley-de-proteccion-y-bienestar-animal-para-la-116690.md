@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2016-09-28"
+last_updated: "2018-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -1051,6 +1051,12 @@ VI. Pago de todos los gastos erogados por el depositario de los ejemplares decom
 
 VII. Además de las sanciones aplicables al caso concreto, se podrá imponer como sanción la realización del trabajo comunitario que determine la autoridad competente.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2018)</small>
+
+Independientemente de la sanción aplicable en los términos de esta ley, en los casos de maltrato o crueldad contra los animales domésticos en los términos del Código Penal de (sic) Estado de Nuevo León, la autoridad que tenga conocimiento, dará aviso al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2018)</small>
+
 Para imponer las sanciones señaladas la autoridad competente considerará la gravedad de la conducta, si existe reincidencia, los daños y perjuicios causados a terceros en sus bienes o sus personas; los beneficios económicos obtenidos por el infractor, la intención con la cual fue cometida y los antecedentes, circunstancias y situación socioeconómica del infractor y de los afectados.
 
 ###### Artículo 129.
@@ -1116,3 +1122,15 @@ MANUEL ENRIQUE DE LA O CAVAZOS
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 ROBERTO RUSSILDI MONTELLANO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MAYO DE 2018.
+
+[N, DE E. TRANSITORIOS DEL “DECRETO NÚM. 394. SE REFORMA POR MODIFICACIÓN DE UN SEGUNDO PÁRRAFO Y ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 128 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEON”.]
+
+Primero.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el periódico oficial del estado de Nuevo León.
+
+Segundo.- La Secretaría promoverá en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, las modificaciones requeridas para la aplicación de las disposiciones modificadas de esta Ley.
+
+Tercero.- Las autoridades municipales promoverán, en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones modificadas de esta Ley.
