@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-sistema-para-el-desarrollo-integral-817
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-28"
-last_updated: "2011-05-28"
+last_updated: "2018-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL ESTADO DE SAN LUIS POTOSI
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL ESTADO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 28 de mayo de 2011.
 
@@ -415,7 +417,7 @@ XX. Apoyar a la ejecución de programas sectoriales mediante la elaboración de 
 
 XXI. Proporcionar asesoría, capacitación y apoyo técnico en materia de su competencia a los Ayuntamientos o Sistemas Municipales para el Desarrollo Integral de la Familia, así como a la Instituciones de Asistencia Privadas;
 
-XXII. Vigilar que en la atención y resolución de los asuntos de su competencia, se cumplan las políticas y lineamientos dictados por la Presidencia de la Junta Directiva y/o Dirección General su superior jerárquico, los ordenamientos legales y demás .disposiciones normativas aplicables;
+XXII. Vigilar que en la atención y resolución de los asuntos de su competencia, se cumplan las políticas y lineamientos dictados por la Presidencia de la Junta Directiva y/o Dirección General su superior jerárquico, los ordenamientos legales y demás disposiciones normativas aplicables;
 
 XXIII. Coordinarse con las demás Direcciones del Organismo para el mejor despacha de los asuntos de su Dirección;
 
@@ -525,7 +527,7 @@ II. Ejecutar, coordinar, proponer y verificar el cumplimiento de las políticas,
 
 III. Ejecutar y controlar los movimientos bancarios, así como verificar movimientos de las cuentas de este Organismo.
 
-IV .Llevar el sistema de contabilidad del Organismo alineado al Sistema de Información Administrativa Financiera Estatal.
+IV. Llevar el sistema de contabilidad del Organismo alineado al Sistema de Información Administrativa Financiera Estatal.
 
 V. Contabilizar y controlar los ingresos diversos del Organismo.
 
@@ -731,11 +733,11 @@ II. Establecer las políticas en materia alimentaría, desarrollo familiar y com
 
 III. Conducir estudios e investigaciones para la detección, registro y diagnóstico de población vulnerable sujeta a la aplicación de programas y modelos de asistencia alimentaría, desarrollo familiar y comunitario; así como definir las metas y alcances de los programas en el ámbito de su competencia.
 
-IV. Establecer las normas, políticas y lineamientos para la .operación y evaluación de los programas alimentarios y de desarrollo familiar y comunitario del Organismo, que permitan medir su impacto en la población beneficiaria de los mismos;
+IV. Establecer las normas, políticas y lineamientos para la operación y evaluación de los programas alimentarios y de desarrollo familiar y comunitario del Organismo, que permitan medir su impacto en la población beneficiaria de los mismos;
 
 V. Instrumentar estrategias, programas y acciones en materia alimentaría y de desarrollo comunitario de carácter estatal orientados a mejorar las condiciones de vida de la población beneficiaria de los mismos;
 
-VI. Definir índices y criterios para la identificación y calificación de beneficiarios de apoyo alimentario y de acciones de desarrollo familiar .y comunitario por parte del Organismo e integrar los padrones de beneficiarios correspondientes;
+VI. Definir índices y criterios para la identificación y calificación de beneficiarios de apoyo alimentario y de acciones de desarrollo familiar y comunitario por parte del Organismo e integrar los padrones de beneficiarios correspondientes;
 
 VII. Ordenar la realización de análisis técnicos de aportes nutricios y calóricos que garanticen la calidad de los productos y la efectividad de los programas alimentarios a cargo del Organismo, así como acciones de orientación alimentaría sobre el valor nutricional de productos y de hábitos alimentarios de higiene;
 
@@ -767,7 +769,7 @@ II. Ejecutar y Supervisar el cumplimiento de los procedimientos establecidos por
 
 III. Realizar, dirigir y evaluar los sistemas y procedimientos para el presupuesto y funcionamiento de las áreas bajo su responsabilidad e instrumentar las medidas conducentes para el adecuado cumplimiento de sus objetivos, previo acuerdo del Director de Área,
 
-IV. Controlar el abastecimiento del Almacén de Insumos Alimentarios, para la realización de las funciones del Organismo, enviando mensualmente a la Dirección de Área los informes del funcionamiento del Almacén y que contenga entrada y salida de insumos, así .como lo que existe en Inventarios.
+IV. Controlar el abastecimiento del Almacén de Insumos Alimentarios, para la realización de las funciones del Organismo, enviando mensualmente a la Dirección de Área los informes del funcionamiento del Almacén y que contenga entrada y salida de insumos, así como lo que existe en Inventarios.
 
 V. Realizar la inspección visual de los productos recibidos, así como verificar las condiciones físicas y sanitarias del equipo de transporte, vigilar que las actividades de desembarque cumplan con los lineamientos establecidos en cuanto a cantidad, calidad, tiempo y destino.
 
@@ -819,7 +821,7 @@ XI. Elaborar y mantener actualizados el manual de organización y los procedimie
 
 XII. Desempeñar las comisiones que la Presidencia de la Junta Directiva, Dirección General o el Director de área le delegue o encomiende así como mantenerlo informad (sic) sobre el desarrollo de las mismas.
 
-XIII. Las demás que señalen otras disposiciones legales o la encomiende el Director de Desarrollo Comunitario y Asistencia Alimentaría, (sic)
+XIII. Las demás que señalen otras disposiciones legales o la encomiende el Director de Desarrollo Comunitario y Asistencia Alimentaría,
 
 ###### ARTÍCULO 29.
 
@@ -861,7 +863,7 @@ XVII. Elaborar y mantener actualizados el manual de organización y los procedim
 
 XVIII. Desempeñar las comisiones que la Presidencia de la Junta Directiva, Dirección General o el Director de área le delegue o encomiende así como mantenerlo informad (sic) sobre el desarrollo de las mismas.
 
-XIX. Las demás que señalen otras disposiciones legales o la encomiende el Director de Desarrollo Comunitario y Asistencia Alimentaría, (sic)
+XIX. Las demás que señalen otras disposiciones legales o la encomiende el Director de Desarrollo Comunitario y Asistencia Alimentaría,
 
 ### CAPITULO XI. DE LAS COORDINACIONES REGIONALES
 
@@ -907,7 +909,7 @@ XX (SIC). Asesorar, capacitar y dar seguimiento al proceso de constitución lega
 
 XXI. Mantener permanentemente informado al Subdirector de Coordinaciones Regionales acerca del desarrollo y resultado obtenido de las actividades,
 
-XXII. Las demás que señalen otras disposiciones legales o la encomiende el Subdirector de Coordinaciones Regionales, previa autorización del Director de Desarrollo Comunitario y Asistencia Alimentaría, (sic)
+XXII. Las demás que señalen otras disposiciones legales o la encomiende el Subdirector de Coordinaciones Regionales, previa autorización del Director de Desarrollo Comunitario y Asistencia Alimentaría,
 
 ### CAPITULO XII. DE LA DIRECCIÓN DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD
 
@@ -1201,7 +1203,7 @@ XIV. Gestionar recursos en apoyo a los organismos descentralizados del DIF Estat
 
 XV. Coordinar el Sistema de Registro de Vinculación Institucional en Línea de la Coordinación Estatal par (sic) el Desarrollo Municipal (CEDEM), y éste Sistema, para conocer sobre las actividades en que se contemple la participación de los Sistemas Municipales DIF.
 
-XVI. Desempeñar las funciones y comisiones que el Director General le delegue o encomiende, así como mantenerlo informado sobre el desarrollo de las mismas; y (sic)
+XVI. Desempeñar las funciones y comisiones que el Director General le delegue o encomiende, así como mantenerlo informado sobre el desarrollo de las mismas; y
 
 XVII. Elaborar y mantener actualizados los manuales de organización y procedimientos correspondientes a la dirección;
 
@@ -1309,29 +1311,29 @@ IV. Subprocuraduría Regional Huasteca: Con sede en el Municipio de Ciudad Valle
 
 ###### ARTÍCULO 44.
 
-Los Delegados Regionales auxiliaran al Subprocurador correspondiente en el ejercicio de sus funciones; coordinando las actividades y supervisando el cumplimiento de las determinaciones en los Municipios que se le encomienden; informando en todo momento al Subprocurador de los trabajos que se realicen; (sic)
+Los Delegados Regionales auxiliaran al Subprocurador correspondiente en el ejercicio de sus funciones; coordinando las actividades y supervisando el cumplimiento de las determinaciones en los Municipios que se le encomienden; informando en todo momento al Subprocurador de los trabajos que se realicen;
 
 ###### ARTÍCULO 45.
 
-El Área de Trabajo Social atenderá de manera inmediata las denuncias recibidas en las que se encuentren en riesgo la seguridad, integridad o dignidad de los menores, personas con discapacidad y las personas que lo requieran; realizara las investigaciones necesarias levantando los informes detallados y elaborando los estudios necesarios para la debida y oportuna integración de los expedientes que forman parte de los trámites administrativos o judiciales; (sic)
+El Área de Trabajo Social atenderá de manera inmediata las denuncias recibidas en las que se encuentren en riesgo la seguridad, integridad o dignidad de los menores, personas con discapacidad y las personas que lo requieran; realizara las investigaciones necesarias levantando los informes detallados y elaborando los estudios necesarios para la debida y oportuna integración de los expedientes que forman parte de los trámites administrativos o judiciales;
 
 ###### ARTÍCULO 46.
 
-El Área de Psicología otorgara entrevistas, terapias, consultas, aplicar (sic) exámenes y pruebas psicológicas, emitirá dictámenes para integrar los trámites administrativos o judiciales y realizara todas aquellas diligencias necesarias para la atención de los menores, personas con discapacidad y las personas que así lo requieran y atenderá a los solicitantes de adopción, realizando el estudio psicológico correspondiente y emitiendo la valoración respectiva; (sic)
+El Área de Psicología otorgara entrevistas, terapias, consultas, aplicar (sic) exámenes y pruebas psicológicas, emitirá dictámenes para integrar los trámites administrativos o judiciales y realizara todas aquellas diligencias necesarias para la atención de los menores, personas con discapacidad y las personas que así lo requieran y atenderá a los solicitantes de adopción, realizando el estudio psicológico correspondiente y emitiendo la valoración respectiva;
 
 ###### ARTÍCULO 47.
 
-El Área Jurídica concederá asesoría y patrocinio jurídico en materia familiar de manera gratuita a las personas que así lo soliciten integrando debidamente los expedientes, promoviendo los trámites judiciales y administrativos, dentro del ámbito de su competencia, presentando denuncias ante el Ministerio Público de los hechos constitutivos de delitos de los cuales tengan conocimiento en el ejercicio de sus funciones; (sic)
+El Área Jurídica concederá asesoría y patrocinio jurídico en materia familiar de manera gratuita a las personas que así lo soliciten integrando debidamente los expedientes, promoviendo los trámites judiciales y administrativos, dentro del ámbito de su competencia, presentando denuncias ante el Ministerio Público de los hechos constitutivos de delitos de los cuales tengan conocimiento en el ejercicio de sus funciones;
 
 ###### ARTÍCULO 48.
 
-El Área de Adopciones proporcionara la información necesaria para la adopción al solicitante, entregara solicitudes de adopción, y enviara a los solicitantes a efecto de ser evaluados psicológicamente, realizara estudios socioeconómicos e integrara los expedientes para su revisión ante el Consejo de Adopciones; y llevara a cabo el (sic) programas mediante los cuales se apoya durante el embarazo y nacimiento a madres que quieren dar en adopción a sus hijos; (sic)
+El Área de Adopciones proporcionara la información necesaria para la adopción al solicitante, entregara solicitudes de adopción, y enviara a los solicitantes a efecto de ser evaluados psicológicamente, realizara estudios socioeconómicos e integrara los expedientes para su revisión ante el Consejo de Adopciones; y llevara a cabo el (sic) programas mediante los cuales se apoya durante el embarazo y nacimiento a madres que quieren dar en adopción a sus hijos;
 
 ###### ARTÍCULO 49.
 
 Corresponde al Subdirector del Centro de Atención integral a la Violencia Familiar:
 
-I. Verificar el cumplimiento de los objetivos del .Centro de atención Integral a la Violencia familiar.
+I. Verificar el cumplimiento de los objetivos del Centro de atención Integral a la Violencia familiar.
 
 II. Realizar campañas y programas de Prevención de Violencia Familiar y supervisar las actividades de los mismos y recursos utilizados.
 
@@ -1367,7 +1369,7 @@ I. Una coordinación de atención cuyo objetivo será atender de manera integral
 
 II. Una coordinación de prevención cuyo objetivo será coordinar las actividades de prevención de la violencia familiar y del fomento a la cultura del buen trato, del (sic) a fin de concientizar a la población sobre las formas de evitar la violencia familiar y el abuso sexual infantil;
 
-III. Una coordinación de atención a grupos cuyo objetivo será planear, dirigir y supervisar la atención a los grupos de reflexión a fin de contribuir a que la sociedad aprenda nueva (sic) formas no violentas de relacionarse, (sic)
+III. Una coordinación de atención a grupos cuyo objetivo será planear, dirigir y supervisar la atención a los grupos de reflexión a fin de contribuir a que la sociedad aprenda nueva (sic) formas no violentas de relacionarse,
 
 ###### ARTÍCULO 51.
 
@@ -1401,7 +1403,7 @@ Así mismo, apoyará la función directiva, promoviendo el mejoramiento de gesti
 
 ###### ARTÍCULO 56.
 
-El Director General del Organismo, en sus ausencias temporales menores de quince días será suplido por el Director de Área que para tal efecto designe la Presidencia de la Junta Directiva, y en las ausencias mayores de quince días, será suplido por el Director de Área designado por acuerdo de la Junta Directiva; (sic)
+El Director General del Organismo, en sus ausencias temporales menores de quince días será suplido por el Director de Área que para tal efecto designe la Presidencia de la Junta Directiva, y en las ausencias mayores de quince días, será suplido por el Director de Área designado por acuerdo de la Junta Directiva;
 
 ###### ARTÍCULO 57.
 
@@ -1536,3 +1538,21 @@ DIRECTOR GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL EST
 DR. FERNANDO RAMIREZ ANDRADE
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia, publicado en el Periódico Oficial del Estado con fecha 28 de mayo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expiden los manuales que este Reglamento menciona, el titular del ramo queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular.
