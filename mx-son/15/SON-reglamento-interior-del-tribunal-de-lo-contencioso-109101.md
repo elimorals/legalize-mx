@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-tribunal-de-lo-contencioso-109101"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-07-02"
-last_updated: "2015-07-02"
+last_updated: "2018-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SALA SUPERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 17 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 2 de julio de 2015.
 
@@ -850,3 +852,17 @@ LIC. EDGARDO CASTRO LAURA.
 SECRETARIO GENERAL DE ACUERDOS Y PROYECTOS.
 
 Acta de Sesión Plenaria Administrativa número 07, celebrada el día cinco de junio del dos mil quince, que firman los que en ella intervinieron: Magistrados y Secretario General de Acuerdos y Proyectos, del Tribunal de lo Contencioso Administrativo del Estado de Sonora.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 17 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SALA SUPERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SONORA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación, en el Boletín Oficial del gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Sonora, aprobado en Sesión de (sic) Pleno Administrativa número 7, celebrada el cinco de Junio de dos mil quince y publicada en el Boletín Oficial del Gobierno del Estado de Sonora, No. 1, Sección II, de fecha 2 de julio del año dos mil quince.
