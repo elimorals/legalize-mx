@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2017-06-29"
+last_updated: "2018-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -97,11 +97,11 @@ En consecuencia, quedan abolidas la pena de muerte, la esclavitud o servidumbre 
 
 Se reconoce y garantiza a toda persona el derecho a la integridad física, psíquica y sexual, y a una vida libre de violencia en los ámbitos público y privado. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda clase de violencia o abuso, físico, psíquico o sexual, especialmente en contra de mujeres, menores de edad, personas con discapacidad, adultos mayores y grupos o etnias indígenas.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2018)</small>
 
 ###### Artículo 5.
 
-Todas las personas son iguales ante la ley y gozan de los mismos derechos. En consecuencia, queda prohibido todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social o de salud, religión, opiniones, preferencias políticas o sexuales, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Todas las personas son iguales ante la ley y gozan de los mismos derechos. En consecuencia, queda prohibido todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social o de salud, religión, opiniones, preferencias políticas, orientación sexual, identidad de género, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -787,7 +787,9 @@ Son obligaciones de todo ciudadano y ciudadana duranguense:
 
 I. Inscribirse en los padrones de contribuyentes del Estado y de su Municipio; inscribirse en los padrones electorales; y proporcionar información en los procesos censales en los términos que determinen las leyes.
 
-II. Votar en las elecciones y tomar parte en los mecanismos de democracia participativa en los términos que señale la ley.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2018)</small>
+
+II. Votar en las elecciones y tomar parte en los mecanismos de democracia participativa en los términos que señale la ley; los ciudadanos duranguenses que residan en el extranjero podrán ejercer su derecho al voto para la elección del Gobernador del Estado, de conformidad con las disposiciones legales en la materia;
 
 III. Desempeñar los cargos de elección popular de la Federación, del Estado y de los municipios, que en ningún caso serán gratuitos, ni renunciables.
 
@@ -1143,7 +1145,9 @@ e) Citar, a solicitud de la Comisión de Derechos Humanos del Estado, a las auto
 
 f) Recabar informes sobre todos los ramos de administración pública del Estado y de los municipios, cuando lo estime necesario para el mejor ejercicio de las funciones de la Legislatura.
 
-g) Llevar un registro del patrimonio de los servidores públicos.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2018)</small>
+
+g) Llevar un registro del patrimonio de los servidores públicos en los casos que proceda;
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -1301,7 +1305,9 @@ La Entidad de Auditoría Superior del Estado es el órgano del Congreso del Esta
 
 En trabajos de planeación de las auditorías, la Entidad de Auditoría Superior del Estado, podrá solicitar información del ejercicio en curso, respecto de procesos concluidos; así mismo, podrá solicitar de manera casuística y concreta información de ejercicios anteriores al de la cuenta pública en revisión, sin que ello implique la apertura de la Cuenta Pública aprobada. Las observaciones y recomendaciones que se emitan, solo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
 
-A la Entidad de Auditoría Superior del Estado, corresponderá, en los términos de la ley, tramitar el registro correspondiente en la Plataforma Digital Nacional, de las declaraciones patrimoniales, fiscales y de intereses que reciba de los servidores públicos.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2018)</small>
+
+A la Entidad de Auditoría Superior del Estado, corresponderá, en los términos de la ley, tramitar el registro correspondiente en la Plataforma Digital Nacional, de las declaraciones patrimoniales, fiscales y de intereses que reciba de los servidores públicos en los casos que prevea la ley.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2513,17 +2519,15 @@ Los servidores públicos están obligados a pagar los daños y perjuicios que ca
 
 ### Capítulo III. De las responsabilidades de los servidores públicos
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 163.
 
 La transparencia en el ejercicio de la función pública tiene por objeto el fortalecimiento del régimen democrático, combatir la corrupción, y construir un Estado eficaz en el cumplimiento de sus fines esenciales.
 
 Son mecanismos del Sistema Estatal de Rendición de Cuentas, el informe de gestión gubernamental y la cuenta pública.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2018)</small>
 
-Estarán obligados a presentar las declaraciones de situación fiscal, patrimonial y de intereses, bajo protesta de decir verdad y ante la Entidad de Auditoría Superior del Estado todos los Servidores Públicos, en los términos que disponga la legislación aplicable.
+Estarán obligados a presentar las declaraciones de situación fiscal, patrimonial y de intereses, bajo protesta de decir verdad y ante la Secretaría responsable del Control Interno del Poder Ejecutivo o el órgano de control interno que corresponda todos los Servidores Públicos, en los términos que disponga la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -2681,7 +2685,11 @@ En el caso de la Cuenta Pública que remita el Ejecutivo sólo se podrá ampliar
 
 ###### Artículo 173.
 
-El Gobernador del Estado, los secretarios de despacho y los subsecretarios, los recaudadores de rentas, el Fiscal General y los vicefiscales, los diputados, los magistrados, los consejeros de la judicatura, los jueces, los consejeros o comisionados y los secretarios ejecutivos y técnicos de los órganos constitucionales autónomos, los presidentes, regidores, síndicos, tesoreros y secretarios de los ayuntamientos, así como todos los demás servidores públicos que determine la ley de responsabilidades, deberán presentar ante la Entidad de Auditoría Superior del Estado, bajo protesta de decir verdad, una declaración pública anual de su estado patrimonial, la que deberá contener: una relación escrita de sus bienes inmuebles, valores, depósitos en numerario, acciones de sociedad, bonos o títulos financieros, vehículos y en general, los bienes que integran su patrimonio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE MAYO DE 2018)</small>
+
+El Gobernador del Estado, los secretarios de despacho y los subsecretarios, los recaudadores de rentas, el Fiscal General y los vicefiscales, los diputados, los magistrados, los consejeros de la judicatura, los jueces, los consejeros o comisionados y los secretarios ejecutivos y técnicos de los órganos constitucionales autónomos, los presidentes, regidores, síndicos, tesoreros y secretarios de los ayuntamientos, así como todos los demás servidores públicos que determine la ley de responsabilidades, deberán presentar ante la autoridad que corresponda, bajo protesta de decir verdad, una declaración pública anual de su estado patrimonial, la que deberá contener: una relación escrita de sus bienes inmuebles, valores, depósitos en numerario, acciones de sociedad, bonos o títulos financieros, vehículos y en general, los bienes que integran su patrimonio.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 La autoridad encargada de recibir las declaraciones de situación patrimonial, deberá hacer pública la lista de aquellos servidores públicos que no la hubieren presentado.
 
@@ -3837,7 +3845,7 @@ CUARTO.- La Comisión Permanente será instalada, una vez que la presente reform
 
 P.O. 16 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 119.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 119.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
 
 Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
 
@@ -3861,7 +3869,7 @@ Los titulares de los órganos a los que se refiere el presente Decreto, que se e
 
 Séptimo.- El Congreso del Estado en los términos que previene la legislación federal y local aplicable procederá, a iniciar el procedimiento para la designación del Consejo de Participación Ciudadana; el Ejecutivo de la misma manera, deberá proponer al titular de la Fiscalía Especializada en Combate a la Corrupción, en ambos casos ello sucederá en un termino no mayor a 90 días, en el cual deberá estar integrado el Sistema Local Anticorrupción.
 
-Octavo.- Las declaraciones de situación patrimonial, fiscal y de intereses de los Servidores Públicos a los que alude el presente Decreto serán presentadas ante la Entidad de Auditoria Superior del Estado en la fecha que al efecto señale la legislación aplicable.
+Octavo.- (DEROGADO, P.O. 17 DE MAYO DE 2018)
 
 Noveno.- Se deroga el Artículo Octavo Transitorio del Decreto 540, expedido por la LXV Legislatura, publicado en el Periódico Oficial del Estado Número. 69 de fecha 29 de agosto de 2013.
 
@@ -3872,3 +3880,37 @@ P.O. 29 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 17 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 210 POR EL CUAL SE REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La obligación ciudadana contenida en el presente decreto se ejercerá por primera vez en la elección para Gobernador del Estado que se celebre en el año 2022.
+
+TERCERO.- El Congreso del Estado deberá adecuar la legislación correspondiente al ejercicio de la obligación contenida en este decreto, en un plazo que no exceda de 2 años a partir de la entrada en vigor del mismo.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 17 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 211.- POR EL QUE SE REFORMA EL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 17 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 212.- POR EL CUAL SE REFORMA EL INCISO G DE LA FRACCIÓN II DEL ARTÍCULO 82; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 85, SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 163, SE REFORMA EL ARTÍCULO 173, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado deberá expedir la legislación que corresponda a fin de dar cumplimiento al presente decreto en un plazo que no exceda de 60 días a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Tratándose de municipios que no cuenten con las tecnologías de la información y comunicación necesarias para cumplir lo anterior, podrán emplearse formatos impresos, siendo responsabilidad de los Órganos internos de control y Secretaría encargada del control interno del Poder Ejecutivo verificar que dichos formatos sean digitalizados e incluir la información que corresponda en el sistema de evolución patrimonial y de declaración de intereses, procediendo en términos del artículo 34 de la Ley General de Responsabilidades Administrativas.
+
+CUARTO.- Las declaraciones patrimoniales que hayan sido presentadas ante la Entidad de Auditoría Superior del Estado antes del 18 de julio de 2017 permanecerán en custodia de dicha instancia.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
