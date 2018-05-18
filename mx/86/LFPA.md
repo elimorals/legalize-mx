@@ -4,7 +4,7 @@ identifier: "LFPA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-08-04"
-last_updated: "2017-05-02"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2570&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPA"
 
 LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de agosto de 1994.
 
@@ -486,9 +486,7 @@ ART. 69.- Las dependencias podrán, de conformidad con las disposiciones aplicab
 
 ### Capítulo primero. Disposiciones generales
 
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-A.- Las disposiciones de este título se aplicarán a los actos, procedimientos y resoluciones de la administración pública federal centralizada y de los organismos descentralizados de la administración pública federal en términos del segundo párrafo del artículo 1 de esta Ley, a excepción de los actos, procedimientos o resoluciones de las Secretarías de la Defensa Nacional y de Marina.
+ART. 69-A.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
 > <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
@@ -496,11 +494,9 @@ ART. 69-B.- Cada dependencia y organismo descentralizado creará un Registro de 
 
 Los registros de personas acreditadas deberán estar interconectados informáticamente y el número de identificación asignado por una dependencia u organismo descentralizado será obligatorio para las demás.
 
-Para efectos de esta Ley, por trámite se entiende cualquier solicitud o entrega de información que las personas físicas o morales del sector privado hagan ante una dependencia u organismo descentralizado, ya sea para cumplir una obligación, obtener un beneficio o servicio o, en general, a fin de que se emita una resolución, así como cualquier documento que dichas personas estén obligadas a conservar, no comprendiéndose aquella documentación o información que sólo tenga que presentarse en caso de un requerimiento de una dependencia u organismo descentralizado.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-C.- Los titulares de las dependencias u órganos administrativos desconcentrados y directores generales de los organismos descentralizados de la administración pública federal podrán, mediante acuerdos generales publicados en el Diario Oficial de la Federación, establecer plazos de respuesta menores dentro de los máximos previstos en leyes o reglamentos y no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía la información correspondiente.
+ART. 69-C.- (DEROGADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2000)</small>
 
@@ -536,191 +532,45 @@ Las normas reglamentarias del expediente electrónico empresarial desarrollarán
 
 El Gobierno Federal, a través de la Secretaría de Economía, podrá celebrar convenios con los Estados y Municipios del país que deseen incorporarse al sistema electrónico de apertura y operación de empresas que se ha mencionado en los párrafos anteriores.
 
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-D.- Los titulares de las dependencias y los directores generales de los organismos descentralizados de la administración pública federal designarán a un servidor público con nivel de subsecretario u oficial mayor, como responsable de:
-
-I. Coordinar el proceso de mejora regulatoria en el seno de la dependencia u organismo descentralizado correspondiente, y supervisar su cumplimiento;
-
-II. Someter a la opinión de la Comisión Federal de Mejora Regulatoria, al menos cada dos años, de acuerdo con el calendario que éste establezca, un programa de mejora regulatoria en relación con la normatividad y trámites que aplica la dependencia u organismo descentralizado de que se trate, así como reportes periódicos sobre los avances correspondientes, y
-
-III. Suscribir y enviar a la Comisión Federal de Mejora Regulatoria, en los términos de esta Ley, los anteproyectos de leyes, decretos legislativos y actos a que se refiere el artículo 4 y las manifestaciones respectivas que formule la dependencia u organismo descentralizado correspondiente, así como la información a inscribirse en el Registro Federal de Trámites y Servicios.
-
-La Comisión Federal de Mejora Regulatoria hará públicos los programas y reportes a que se refiere la fracción II así como las opiniones que emita al respecto.
+ART. 69-D.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 ### Capítulo segundo. De la Comisión Federal de Mejora Regulatoria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+ART. 69-E.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-ART. 69-E.- La Comisión Federal de Mejora Regulatoria, órgano administrativo desconcentrado de la Secretaría de Economía, promoverá la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad. Para ello la Comisión contará con autonomía técnica y operativa, y tendrá las siguientes atribuciones:
+ART. 69-F.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-I. Revisar el marco regulatorio nacional, diagnosticar su aplicación y elaborar para su propuesta al Titular del Ejecutivo Federal, proyectos de disposiciones legislativas y administrativas y programas para mejorar la regulación en actividades o sectores económicos específicos;
-
-> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-II. Dictaminar los anteproyectos a que se refiere el artículo 69-H y las manifestaciones de impacto regulatorio correspondientes;
-
-> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-III. Llevar el Registro Federal de Trámites y Servicios;
-
-> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-IV. Opinar sobre los programas de mejora regulatoria de las dependencias y los organismos descentralizados de la administración pública federal;
-
-> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-V. Brindar asesoría técnica en materia de mejora regulatoria a las dependencias y organismos descentralizados de la administración pública federal, así como a los estados y municipios que lo soliciten, y celebrar convenios para tal efecto;
-
-> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-VI. Celebrar acuerdos interinstitucionales en materia de mejora regulatoria, en los términos de la Ley sobre Celebración de Tratados;
-
-> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-VII. Expedir, publicar y presentar ante el Congreso de la Unión un informe anual sobre el desempeño de las funciones de la Comisión y los avances de las dependencias y organismos descentralizados en sus programas de mejora regulatoria, y
-
-> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-VIII. Las demás que establecen esta Ley y otras disposiciones.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-F.- La Comisión contará con un consejo que tendrá las siguientes facultades:
-
-I. Ser enlace entre los sectores público, social y privado para recabar las opiniones de dichos sectores en materia de mejora regulatoria;
-
-II. Conocer los programas de la Comisión así como los informes que presente el director general, y
-
-III. Acordar los asuntos que se sometan a su consideración.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-El consejo estará integrado por los titulares de las Secretarías de Economía quien lo presidirá, de Hacienda y Crédito Público, de la Función Pública y de Trabajo y Previsión Social, así como de la Consejería Jurídica del Ejecutivo Federal.
-
-Serán invitados permanentes del consejo el Gobernador del Banco de México, el Presidente de la Comisión Federal de Competencia, el Procurador Federal del Consumidor, los demás servidores públicos que establezca el Titular del Ejecutivo Federal, y al menos cinco representantes del sector empresarial y uno de cada uno de los sectores académico, laboral y agropecuario a nivel nacional.
-
-El consejo operará en los términos del reglamento interno que al efecto expida.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-G.- La Comisión tendrá un director general, quien será designado por el Titular del Ejecutivo Federal y dirigirá y representará legalmente a la Comisión, adscribirá las unidades administrativas de la misma, expedirá sus manuales, tramitará el presupuesto aprobado, delegará facultades en el ámbito de su competencia, interpretará lo previsto en el título tercero A de esta Ley para efectos administrativos y tendrá las demás facultades que le confieran esta Ley y otras disposiciones.
-
-El director general deberá ser profesional en materias afines al objeto de la Comisión, tener treinta años cumplidos y haberse desempeñado en forma destacada en cuestiones profesionales, del sector empresarial, de servicio público o académicas relacionadas con el objeto de la Comisión.
+ART. 69-G.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 ### Capítulo tercero. De la manifestación de impacto regulatorio
 
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+ART. 69-H.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-ART. 69-H.- Cuando las dependencias y los organismos descentralizados de la administración pública federal, elaboren anteproyectos de leyes, decretos legislativos y actos a que se refiere el artículo 4, los presentarán a la Comisión, junto con una manifestación de impacto regulatorio que contenga los aspectos que dicha Comisión determine, cuando menos treinta días hábiles antes de la fecha en que se pretenda emitir el acto o someterlo a la consideración del Titular de Ejecutivo Federal.
+ART. 69-I.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-Se podrá autorizar que la manifestación se presente hasta en la misma fecha en que se someta el anteproyecto al Titular del Ejecutivo Federal o se expida la disposición, según corresponda, cuando el anteproyecto pretenda modificar disposiciones que por su naturaleza deban actualizarse periódicamente, y hasta veinte días hábiles después, cuando el anteproyecto pretenda resolver o prevenir una situación de emergencia. Se podrá eximir la obligación de elaborar la manifestación cuando el anteproyecto no implique costos de cumplimiento para los particulares. Cuando una dependencia u organismo descentralizado estime que el anteproyecto pudiera estar en uno de los supuestos previstos en este párrafo, lo consultará con la Comisión, acompañando copia del anteproyecto, la cual resolverá en definitiva sobre el particular, salvo que se trate de anteproyecto que se pretenda someter a la consideración del Titular del Ejecutivo Federal, en cuyo caso la Consejería Jurídica decidirá en definitiva, previa opinión de la Comisión.
+ART. 69-J.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-No se requerirá elaborar manifestación en el caso de tratados, si bien, previamente a su suscripción, se solicitará y tomará en cuenta la opinión de la Comisión.
+ART. 69-K.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-I.- Cuando la Comisión reciba una manifestación de impacto regulatorio que a su juicio no sea satisfactoria, podrá solicitar a la dependencia u organismo descentralizado correspondiente, dentro de los diez días hábiles siguientes a que reciba dicha manifestación, que realice las ampliaciones o correcciones a que haya lugar. Cuando a criterio de la Comisión la manifestación siga siendo defectuosa y el anteproyecto de que se trate pudiera tener un amplio impacto en la economía o un efecto sustancial sobre un sector específico, podrá solicitar a la dependencia u organismo descentralizado respectiva que con cargo a su presupuesto efectúe la designación de un experto, quien deberá ser aprobado por la Comisión. El experto deberá revisar la manifestación y entregar comentarios a la Comisión y a la propia dependencia u organismo descentralizado dentro de los cuarenta días hábiles siguientes a su contratación.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-J.- La Comisión, cuando así lo estime, podrá emitir y entregar a la dependencia u organismo descentralizado correspondiente un dictamen parcial o total de la manifestación de impacto regulatorio y del anteproyecto respectivo, dentro de los treinta días hábiles siguientes a la recepción de la manifestación, de las ampliaciones o correcciones de la misma o de los comentarios de los expertos a que se refiere el artículo anterior, según corresponda.
-
-El dictamen considerará las opiniones que en su caso reciba la Comisión de los sectores interesados y comprenderá, entre otros aspectos, una valoración sobre si se justifican las acciones propuestas en el anteproyecto, atendiendo a lo dispuesto en el primer párrafo del artículo 69-E.
-
-Cuando la dependencia u organismo descentralizado promotora del anteproyecto no se ajuste al dictamen mencionado, deberá comunicar por escrito las razones respectivas a la Comisión, antes de emitir o someter el anteproyecto a la consideración del Titular del Ejecutivo Federal, a fin de que la Comisión emita un dictamen final al respecto dentro de los cinco días hábiles siguientes.
-
-El Consejero Jurídico del Ejecutivo Federal para someter los anteproyectos a consideración del Ejecutivo, deberá recabar y tomar en cuenta la manifestación así como, en su caso, el dictamen de la Comisión.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-K.- La Comisión hará públicos, desde que los reciba, los anteproyectos y manifestaciones de impacto regulatorio, así como los dictámenes que emita y las autorizaciones y exenciones previstas en el segundo párrafo del artículo 69-H. Lo anterior, salvo que, a solicitud de la dependencia u organismo descentralizado responsable del anteproyecto correspondiente, la Comisión determine que dicha publicidad pudiera comprometer los efectos que se pretenda lograr con la disposición, en cuyo caso la Comisión hará pública la información respectiva cuando se publique la disposición en el Diario Oficial de la Federación; también se aplicará esta regla cuando lo determine la Consejería Jurídica, previa opinión de la Comisión, respecto de los anteproyectos que se pretendan someter a la consideración del Ejecutivo Federal.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-L.- La Secretaría de Gobernación publicará en el Diario Oficial de la Federación, dentro de los siete primeros días hábiles de cada mes, la lista que le proporcione la Comisión de los títulos de los documentos a que se refiere el artículo anterior.
-
-La Secretaría de Gobernación no publicará en el Diario Oficial de la Federación los actos a que se refiere el artículo 4 que expidan las dependencias o los organismos descentralizados de la administración pública federal, sin que éstas acrediten contar con un dictamen final de la Comisión o la exención a que se refiere el segundo párrafo del artículo 69-H, o que no se haya emitido o emitirá dictamen alguno dentro del plazo previsto en el primer párrafo del artículo 69-J.
+ART. 69-L.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 ### Capítulo cuarto. Del Registro Federal de Trámites y Servicios
 
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+ART. 69-M.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-ART. 69-M.- La Comisión llevará el Registro Federal de Trámites y Servicios, que será público, para cuyo efecto las dependencias y los organismos descentralizados de la administración pública federal, deberán proporcionarle la siguiente información, para su inscripción, en relación con cada trámite que aplican:
+ART. 69-N.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-I. Nombre del trámite;
+ART. 69-O.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-II. Fundamentación jurídica;
+ART. 69-P.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-III. Casos en los que debe o puede realizarse el trámite;
-
-IV. Si el trámite debe presentarse mediante escrito libre o formato o puede realizarse de otra manera;
-
-V. El formato correspondiente, en su caso, y su fecha de publicación en el Diario Oficial de la Federación;
-
-VI. Datos y documentos específicos que debe contener o se deben adjuntar al trámite, salvo los datos y documentos a que se refiere el artículo 15;
-
-VII. Plazo máximo que tiene la dependencia u organismo descentralizado para resolver el trámite, en su caso, y se aplica la afirmativa o negativa ficta;
-
-VIII. Las excepciones a lo previsto en el artículo 15-A, en su caso;
-
-IX. Monto de los derechos o aprovechamiento aplicables, en su caso, o la forma de determinar dicho monto;
-
-X. Vigencia de los permisos, licencias, autorizaciones, registros y demás resoluciones que se emitan;
-
-XI. Criterios de resolución del trámite, en su caso;
-
-XII. Unidades administrativas ante las que se puede presentar el trámite;
-
-XIII. Horarios de atención al público;
-
-XIV. Números de teléfono, fax y correo electrónico, así como la dirección y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas, y
-
-XV. La demás información que se prevea en el reglamento de esta ley o que la dependencia u organismo descentralizado considere que pueda ser de utilidad para los interesados.
-
-La Comisión podrá eximir, mediante acuerdo publicado en el Diario Oficial de la Federación, la obligación de proporcionar la información a que se refiere este artículo, respecto de trámites específicos que se realizan exclusivamente por personas físicas, cuando éstos no se relacionen con el establecimiento o desarrollo de una actividad empresarial.
-
-No será obligatorio proporcionar la información relativa a los trámites que se realicen en los procedimientos de contratación que lleven a cabo las dependencias.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-N.- La información a que se refiere el artículo anterior deberá entregarse a la Comisión en la forma en que dicho órgano lo determine y la Comisión deberá inscribirla en el Registro, sin cambio alguno, dentro de los cinco días hábiles siguientes.
-
-Las dependencias y los organismos descentralizados de la administración pública federal, deberán notificar a la Comisión cualquier modificación a la información inscrita en el Registro, dentro de los diez días hábiles siguientes a que entre en vigor la disposición que fundamente dicha modificación.
-
-Las unidades administrativas que apliquen trámites deberán tener a disposición del público la información que al respecto esté inscrita en el Registro.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-O.- La información a que se refiere el artículo 69-M, fracciones III a X, deberá estar prevista en leyes, reglamentos, decretos o acuerdos presidenciales o, cuando proceda, en normas oficiales mexicanas o acuerdos generales expedidos por las dependencias o los organismos descentralizados de la administración pública federal, que aplican los trámites.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-P.- La legalidad y el contenido de la información que se inscriba en el Registro será de estricta responsabilidad de las dependencias y los organismos descentralizados de la administración pública federal, que proporcionen dicha información y la Comisión sólo podrá opinar al respecto. En caso de discrepancia entre la Comisión y la dependencia u organismo descentralizado correspondiente, decidirá en definitiva la Consejería Jurídica del Ejecutivo Federal, y se modificará, en su caso, la información inscrita.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
-
-ART. 69-Q.- Las dependencias y los organismos descentralizados de la administración pública federal, no podrán aplicar trámites adicionales a los inscritos en el Registro, ni aplicarlos en forma distinta a como se establezcan en el mismo, a menos que se trate de trámites:
-
-I. Previstos en ley o reglamentos emitidos por el Ejecutivo Federal en ejercicio de la facultad prevista en el artículo 89, fracción I, de la Constitución. En este caso, salvo por lo dispuesto en la fracción II, sólo serán exigibles a los interesados aquellos datos y documentos específicos que, no estando inscritos en el Registro, estén previstos en ley o en los reglamentos citados;
-
-II. Que las dependencias y los organismos descentralizados de la administración pública federal, apliquen dentro de los sesenta días hábiles siguientes a que haya entrado en vigor la disposición en la que tengan su fundamento o que modifique su aplicación;
-
-III. Respecto de los cuales se pueda causar perjuicio a terceros con interés jurídico;
-
-IV. Cuya no aplicación pueda causar un grave perjuicio. En este supuesto, la dependencia u organismo descentralizado correspondiente requerirá la previa aprobación de la Comisión, y podrá ordenar la suspensión de la actividad a que esté sujeta el trámite a que hubiere lugar, o
-
-V. Que los interesados presenten para obtener una facilidad o un servicio. En estos supuestos, sólo serán exigibles a los interesados aquellos datos y documentos específicos que, no estando inscritos en el Registro, estén previstos en las disposiciones en que se fundamenten.
-
-En los casos a que se refieren las fracciones I, III, IV y V las dependencias y organismos descentralizados deberán notificar a la Comisión, simultáneamente a la aplicación de los trámites correspondientes, la información a inscribirse o modificarse en el Registro.
+ART. 69-Q.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
 ## TITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
@@ -746,25 +596,23 @@ ART. 70-A.- Es causa de responsabilidad el incumplimiento de esta Ley y serán a
 
 I. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, incumpla por dos veces lo dispuesto en el artículo 17;
 
-II. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, por dos veces no notifique al responsable a que se refiere el artículo 69-D, de la información a modificarse en el Registro Federal de Trámites y Servicios respecto de trámites a realizarse por los particulares para cumplir una obligación, dentro de los cinco días hábiles siguientes a que entre en vigor la disposición que fundamente dicha modificación;
+II. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-III. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, no entregue al responsable a que se refiere el artículo 69-D, los anteproyectos de actos a que se refiere el artículo 4 y las manifestaciones correspondientes, para efectos de lo dispuesto en el artículo 69-H;
+III. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-IV. Al servidor público responsable del Diario Oficial de la Federación que por cinco veces incumpla lo previsto en el artículo 69-L;
+IV.(DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-V. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, incumpla lo previsto en el artículo 69-N, tercer párrafo;
+V. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-VI. Al servidor público que, en un mismo empleo, cargo o comisión, exija cinco veces trámites, datos o documentos adicionales a los previstos en el Registro Federal de Trámites y Servicios, en contravención a lo dispuesto en el artículo 69-Q;
+VI. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-VII. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, no cumpla con lo dispuesto en el último párrafo del artículo 69-Q;
+VII. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-VIII. Al servidor público competente de la Comisión Federal de Mejora Regulatoria que, a solicitud escrita de un interesado, no ponga a su disposición la información prevista en el artículo 69-K dentro de los cinco días hábiles siguientes a que se reciba la solicitud correspondiente, y
+VIII. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-IX. Al servidor público competente de la Comisión Federal de Mejora Regulatoria que incumpla lo dispuesto en el artículo 69-N, primer párrafo.
+IX. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
-
-La Comisión Federal de Mejora Regulatoria informará a la Secretaría de la Función Pública de los casos que tenga conocimiento sobre algún incumplimiento a lo previsto en esta Ley y su reglamento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ART. 71.- Sin perjuicio de lo establecido en las leyes administrativas, en caso de reincidencia se duplicará la multa impuesta por la infracción anterior, sin que su monto exceda del doble del máximo.
 
@@ -981,3 +829,9 @@ D.O.F. 2 DE MAYO DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+D.O.F. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE MEJORA REGULATORIA Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
