@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-03-09"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 18 DE MAYO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2018.]</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -248,6 +248,8 @@ II.- Integrarse y formar parte de las comisiones ordinarias y extraordinarias qu
 III.- Obtener del Presidente Municipal, información, datos o antecedentes relativos a los servicios de las diferentes dependencias del órgano ejecutivo, que resulten necesarios para el desarrollo de su función, y
 
 IV.- Las demás relativas a su función, que el propio Ayuntamiento establezca en su reglamentación interna o de gobierno o por virtud de los acuerdos respectivos.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 2018)</small>
 
 En el ejercicio de sus funciones, los regidores deberán de abstenerse a dar órdenes e instrucciones a los funcionarios, comisionados y demás servidores públicos, comunicando al presidente municipal cualquier asunto relativo a las dependencias del órgano ejecutivo.
 
@@ -997,4 +999,6 @@ P.O. 9 DE MARZO DE 2018.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Los ayuntamientos del estado dispondrán de setenta días para modificar los reglamentos interiores.
+> <small>(F. DE E., P.O. 18 DE MAYO DE 2018)</small>
+
+SEGUNDO.- Los Ayuntamientos del Estado dispondrán de sesenta días para modificar los reglamentos interiores.
