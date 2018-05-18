@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-regularizacion-de-asentamientos-humanos-118098"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2017-01-13"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES, PREDIOS URBANOS, PREDIOS RÚSTICOS, PREDIOS FAMILIARES Y PREDIOS SOCIALES DEL ESTADO DE QUERÉTARO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el viernes 13 de enero de 2017.
 
@@ -165,7 +165,7 @@ III. Que la conformación del Asentamiento Humanos Irregular, tenga una antigüe
 
 IV. Contar con al menos dos sistemas de infraestructura urbana en el Asentamiento Humano Irregular. En caso de no ser así, la autoridad correspondiente podrá diferir el cumplimiento de este requisito, si considera viable la dotación de servicios;
 
-V. Que exista un dictamen de factibilidad por parte de las autoridades competentes, para coadyuvar en la dotación de servicios básicos e infraestructura;
+V. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
 VI. Que la superficie del predio origen que lo conforma, se encuentre libre de procesos administrativos, judiciales, gravámenes que afecten o puedan afectar el derecho de posesión o de propiedad del mismo;
 
@@ -295,7 +295,9 @@ II. Establecer con la asociación las bases para la dotación de sistemas de inf
 
 III. En su caso gestionar recursos federales, estatales y municipales, a fin de regularizar los Asentamientos Humanos Irregulares.
 
-La SEDESOQ, la Autoridad Municipal o a quien se faculte para ello, en el ámbito de su respectiva competencia, estarán autorizados para administrar las aportaciones que realicen los poseedores para el pago de derechos, gastos administrativos, notariales y demás que se deriven del programa de regularización, titulación y escrituración de los asentamientos humanos irregulares.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
+La SEDESOQ, la Autoridad Municipal o a quienes éstos faculten para ello, en el ámbito de sus respectivas competencias, estarán autorizados para administrar las aportaciones, que de conformidad a las disposiciones jurídicas aplicables, en su caso, realicen los poseedores por concepto de pago de derechos, gastos administrativos, notariales o los demás que se deriven del programa de regularización, titulación y escrituración de los asentamientos humanos irregulares.
 
 Si el propietario del predio materia regularización no quiere otorgar el poder notarial mencionado en la fracción I del presente artículo, la autoridad substanciadora o entidad correspondiente podrá solicitar y promover ante el Poder Ejecutivo del Estado, la expropiación del predio, para continuar y concluir la substanciación y resolución del procedimiento.
 
@@ -311,7 +313,9 @@ II. Acudir a las reuniones informativas que deriven del procedimiento de regular
 
 III. Conducirse siempre con verdad ante la autoridad substanciadora;
 
-IV. Cubrir los costos de los derechos fiscales que, en su caso, se generen con los procedimientos establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+IV. Cubrir los costos de los derechos fiscales que, en su caso, se generen con el procedimiento materia de este Título, y conforme a lo dispuesto en las disposiciones jurídicas aplicables;
 
 V. Suscribir y cumplir los contratos y convenios que deriven del procedimiento de regularización; y
 
@@ -609,7 +613,9 @@ IV. Datos de inscripción del predio;
 
 V. El escrito deberá tener la firma autógrafa del promovente quien, en caso de no saber firmar, estampará su huella digital.
 
-Para la expedición de los certificados, el promovente pagará al Registro Público de la Propiedad y del Comercio del Estado de Querétaro, los derechos correspondientes de conformidad con la Ley de Hacienda del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
+Para la expedición de los certificados, el promovente pagará al Registro Público de la Propiedad y del Comercio del Estado de Querétaro los derechos correspondientes, conforme a lo dispuesto en las disposiciones jurídicas aplicables.
 
 ###### Artículo 50.
 
@@ -639,11 +645,15 @@ En la promoción inicial, se expresarán las medidas y colindancias del predio q
 
 Satisfechas las formalidades y los requisitos previstos en el presente título, el juez estudiará las solicitudes y dictará la resolución conducente, misma que deberá contener los datos de identificación del predio a regularizar y la referencia de las constancias procesales por las que se dio publicidad al procedimiento, para que los interesados lo conocieran.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 55.
 
-La resolución judicial que determine la regularización una vez que cause ejecutoria, se tendrá como título de propiedad y de inmediato se ordenará su inscripción en la oficina del Registro Público de la Propiedad y del Comercio del Estado de Querétaro, que corresponda.
+Una vez que cause ejecutoria la resolución judicial que determine la regularización, se tendrá ésta como título de propiedad y de inmediato se ordenará su inscripción en la oficina del Registro Público de la Propiedad y del Comercio del Estado de Querétaro que corresponda.
 
-Una vez que la Dirección Jurídica reciba el título de propiedad a que se refiere el párrafo anterior, procederá a solicitar a la oficina de Catastro del Estado, la actualización de las claves catastrales necesarias para el debido ordenamiento de estas últimas, así como para el pago de las contribuciones respectivas, a cargo del promovente.
+No será necesaria la protocolización de la resolución judicial señalada en el párrafo anterior.
+
+Una vez que la Dirección Jurídica reciba el título de propiedad a que se refiere el primer párrafo del presente artículo, procederá a solicitar a la oficina de Catastro del Estado la actualización de las claves catastrales necesarias, para el debido ordenamiento de estas últimas, así como para el pago de las contribuciones respectivas, a cargo del promovente.
 
 ###### Artículo 56.
 
@@ -663,9 +673,13 @@ Los encargados del Registro Público de la Propiedad y del Comercio del Estado d
 
 En caso de que la superficie del predio a regularizar, o del predio origen donde se ubica la fracción a regularizar, sean incompatibles con el asiento registral, la Dirección de Catastro en el Estado, emitirá una Constancia de Información Catastral, que, junto con el plano catastral, permita acreditar la existencia física del inmueble a regularizar; con esto el Registro Público de la Propiedad y del Comercio procederá a realizar la inscripción correspondiente.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 60.
 
-El procedimiento especial para la regularización de predios urbanos y rústicos, no causará impuesto o derecho alguno de carácter estatal o municipal por motivos de la traslación de dominio, salvo los establecidos por la Dirección del Registro Público de la Propiedad y del Comercio del Estado de Querétaro, y por la Dirección de Catastro del Estado, los cuales serán pagados por el promovente. No será necesaria la protocolización de la declaratoria judicial dictada en los términos de la presente Ley.
+El procedimiento materia del presente Título, no causará impuesto o derecho alguno de carácter municipal por motivos de la traslación de dominio, siempre y cuando el Ayuntamiento del Municipio respectivo así lo determine.
+
+El pago de los derechos por los servicios prestados por la Dirección de Catastro Estatal y la Dirección del Registro Público de la Propiedad y del Comercio del Estado de Querétaro, y demás causados con motivo de este procedimiento, se realizará conforme lo dispuesto en las disposiciones jurídicas aplicables.
 
 ### Capítulo Séptimo. De la Suspensión o terminación del Procedimiento
 
@@ -733,7 +747,13 @@ IX. Los polígonos que al interior del predio se hayan lotificado con fines de v
 
 X. Que cada uno de los predios individuales a titular, deberá reunir las características mínimas de espacios habitables, en los términos de la Ley de Vivienda, y contar con una superficie mínima de 60 metros cuadrados;
 
-XI. Que previo a remitir el dictamen de viabilidad quienes habiten el predio familiar deberán constituirse en una asociación civil o comité para que una vez emitidas las escrituras, se establezcan las bases para el cuidado, mantenimiento y administración de las áreas comunes, para una mejor convivencia.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XI. Que previo a remitir el dictamen de viabilidad, quienes habiten el predio familiar, se hayan constituido en una asociación civil o comité para que, una vez emitidas las escrituras, se establezcan las bases para el cuidado, mantenimiento y administración de las áreas comunes para una mejor convivencia; y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XII. Que sean poseídos por personas en condiciones de pobreza o marginación y que éstas no sean propietarias de otro inmueble.
 
 ###### Artículo 70.
 
@@ -775,9 +795,15 @@ III. Las áreas consideradas como de uso común;
 
 IV. Los predios que se encuentren ubicados en un asentamiento humano irregular;
 
-V. Los predios que tengan un gravamen; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-VI. Los predios que se encuentren sujetos a algún procedimiento judicial, contencioso o administrativo;
+V. Los predios que tengan un gravamen;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+VI. Los predios cuyos poseedores no sean personas en condiciones de pobreza o marginación o que éstas sean propietarias de otro inmueble; y
+
+VII. Los predios que se encuentren sujetos a algún procedimiento judicial, contencioso o administrativo;
 
 Aquellas personas que posean dos o más predios sin escritura, sólo podrán tramitar la escrituración de uno de ellos.
 
@@ -893,15 +919,15 @@ Satisfechas las formalidades del artículo anterior, la autoridad encargada del 
 
 #### Sección Quinta. Del expediente técnico jurídico administrativo
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 81.
 
-Emitido el Acuerdo de inicio de procedimiento de escrituración, la autoridad encargada del programa, procederá a la integración del expediente técnico jurídico administrativo, a cuyo efecto realizará las siguientes acciones:
+Emitido el Acuerdo de inicio de procedimiento de escrituración, la autoridad encargada del programa procederá a la integración del expediente técnico jurídico administrativo, a cuyo efecto realizará las siguientes acciones:
 
-I. Solicitar, coordinar y supervisar la realización de los trabajos técnicos necesarios para obtener documental y gráficamente las características topográficas, medidas y colindancias del inmueble en su conjunto y del lote en lo individual, para la conformación del expediente técnico jurídico administrativo requerido por las dependencias correspondientes;
+I. Solicitará, coordinará y supervisará la realización de los trabajos técnicos necesarios para obtener documental y gráficamente las características topográficas, medidas y colindancias del inmueble en su conjunto, así como del lote en lo individual, para la conformación del expediente técnico jurídico administrativo requerido por las dependencias correspondientes; y
 
-II. Solicitar el avalúo correspondiente del inmueble a escriturar; y
-
-III. Las demás acciones que se requieran para obtener la información y elementos necesarios para tener por acreditados los requisitos establecidos.
+II. Las demás acciones que se requieran para obtener la información y elementos necesarios para tener por acreditados los requisitos establecidos.
 
 ### Capítulo Cuarto. De la escrituración
 
@@ -933,13 +959,17 @@ Una vez emitidos los documentos referidos en el artículo 82 de la presente Ley,
 
 Las instancias sustanciadoras de los procedimientos materia de la presente Ley, tendrán la facultad para que se emita a su favor, los poderes notariales necesarios, para efectos de regularización y para el cumplimiento del objeto del mismo ordenamiento legal.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 85.
 
-Los bienes inmuebles, que se regularicen con la presente Ley, y cuyo valor de avalúo catastral no exceda de hasta doce mil veces la Unidad de Medida y Actualización causarán por concepto de impuestos o derecho alguno de carácter estatal o municipal por motivos de la traslación de dominio, será el de una vez el valor inicial diario de dicha Unidad.
+Los procedimientos materia de esta Ley, no causarán impuesto o derecho alguno de carácter municipal, por motivos de la traslación de dominio, siempre y cuando el Ayuntamiento del Municipio respectivo así lo determine.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 86.
 
-Los servicios prestados por la Dirección de Catastro Estatal y la Dirección del Registro Público de la Propiedad y del Comercio del Estado de Querétaro, en aplicación de la presente Ley, no generarán pago de derecho alguno; de igual manera, las publicaciones de los acuerdos de cabildo de la regularización de los Asentamientos Humanos a regularizar conforme a ésta Ley, estarán exentos del pago de derechos de publicación en el Periódico Oficial de Gobierno del Estado “La Sombra de Arteaga”.
+Para el pago de los derechos por los servicios prestados por la Dirección de Catastro Estatal y la Dirección del Registro Público de la Propiedad y del Comercio del Estado de Querétaro, con motivo de los procedimientos materia de esta Ley, se estará a lo dispuesto en las disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -1002,3 +1032,13 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES, PREDIOS URBANOS, PREDIOS RÚSTICOS, PREDIOS FAMILIARES Y PREDIOS SOCIALES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
