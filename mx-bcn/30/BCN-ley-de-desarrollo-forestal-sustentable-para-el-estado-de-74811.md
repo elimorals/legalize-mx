@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-74811"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-30"
-last_updated: "2018-03-09"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MAYO DE 2018 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE MAYO DE 2018.]</small>
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 30 de abril de 2010.
 
@@ -345,27 +345,27 @@ VI. Un representante del sector académico, designado en los términos del Regla
 
 VII. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental.
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
 
 VIII. Un representante de la Secretaría de Medio Ambiente y Recursos Naturales;
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
 
 IX. Un representante de la Comisión Nacional Forestal;
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
 
 X. Un representante de la Comisión Nacional de Áreas Naturales Protegidas;
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
 
 XI. Un representante de la Procuraduría Federal de Protección al Ambiente
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
 
 Los representantes del gobierno federal deberán abstenerse de votar cuando por la naturaleza de las sesiones y/o los asuntos representen conflicto de interés con sus funciones de gobierno.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
 
 El Consejo contará con un Secretario Técnico designado por el Presidente, de entre el personal de la propia secretaría, quien deberá contar con nivel de Director de Área por lo menos.
 
@@ -395,7 +395,7 @@ VII. Cualquier otro que considere el Consejo.
 
 Los invitados a las sesiones, en términos del presente artículo participarán en las mismas con voz pero sin voto.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2018)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
 
 ARTÍCULO 19 BIS.- La Secretaría, promoverá la interacción de este Consejo con los demás Consejos Estatales Forestales.
 
@@ -743,4 +743,6 @@ P.O. 9 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 200 MEDIANTE EL CUAL SE APRUEBA (SIC) LAS REFORMAS AL ARTÍCULO 19 DE LA LEY DE DESARROLLO FORESTAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
-PRIMERO. La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+> <small>(F. DE E., P.O. 18 DE MAYO DE 2018)</small>
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
