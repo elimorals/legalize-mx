@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2016-09-30"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -65,7 +65,9 @@ I.- Alteraciones del desarrollo: a todos aquellos factores, eventos, conductas y
 
 II.- Carnet: a la Tarjeta Carnet Joven;
 
-III.- Comisión: a la Comisión de Juventud y Deporte del Congreso del Estado;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+III.- Comisión: a la Comisión encargada de los temas de Juventud en el Congreso del Estado;
 
 IV.- Consejo: Consejo Estatal de Atención a la Juventud;
 
@@ -669,6 +671,22 @@ Toda la información que se concentre en la Red, deberá actualizarse en forma p
 
 Los Municipios, en el ámbito de su competencia, coadyuvarán a la integración y actualización de la Red.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2018)</small>
+
+ARTÍCULO 65 BIS.- Para el cumplimiento de los fines de la Red, así como el fortalecimiento de la Política y del Programa Estatal de Atención a la Juventud, el Instituto, en colaboración y coordinación con las instituciones municipales de la juventud de los Ayuntamientos, organizarán y desarrollarán los trabajos de la Audiencia Pública Juvenil, la cual será convocada, de manera enunciativa mas no limitativa, por lo menos una vez al año.
+
+La audiencia pública juvenil es un mecanismo de democracia participativa para la inclusión, consulta y participación de los jóvenes como parte de las prácticas de Gobierno Abierto. El Estado y los Municipios procurarán la participación más amplia posible de los jóvenes de la entidad en los trabajos de las audiencias públicas juveniles.
+
+Los resultados obtenidos por el desarrollo permanente de las audiencias públicas juveniles serán considerados para:
+
+I. El cumplimiento a la participación de los jóvenes en el diseño, planeación, programación, ejecución, seguimiento y evaluación de las políticas, planes, programas y acciones dirigidas a la juventud que estipula la fracción III del artículo 55 de la presente ley;
+
+II. La elaboración del informe que se integra al Sistema Estatal respecto a la situación que guarda el tema de la juventud en el Estado, previsto en el artículo 60 de la presente Ley;
+
+III. La recepción de las propuestas y opiniones de los jóvenes establecidas por el artículo 63 de la presente Ley para la elaboración del Programa Estatal; y
+
+IV. La integración de la información con la cual debe contar la Red prevista en el artículo anterior.
+
 ### CAPÍTULO QUINTO. DEL CONSEJO ESTATAL DE ATENCIÓN A LA JUVENTUD
 
 ###### ARTÍCULO 66.
@@ -703,7 +721,9 @@ I.- Un Presidente, que será el Director del Instituto;
 
 II.- Un Secretario técnico, designado por el Director del Instituto;
 
-III.- El Presidente de la Comisión de Juventud y Deporte del Poder Legislativo;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+III.- El Presidente de la Comisión.
 
 IV.- Un representante de la Secretaría General de Gobierno;
 
@@ -1145,6 +1165,10 @@ El Director fungirá como Secretario Técnico de la Junta Directiva con voz pero
 
 En representación de la Dirección de Control y Evaluación Gubernamental participara un Comisario Público quien tendrá derecho a voz pero no a voto.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2018)</small>
+
+A la junta Directiva podrá participar como invitado permanente, un parlamentario juvenil, designado por el parlamento, quien tendrá derecho a voz pero no a voto.
+
 ###### ARTÍCULO 86.
 
 En cada sesión se levantará acta, la cual, previa aprobación de la misma en la sesión siguiente, será firmada por quien la haya presidido y por el Secretario Técnico así como por aquellos que hayan participado y así quieran hacerlo.
@@ -1321,9 +1345,11 @@ Lo relativo al funcionamiento y operación del Carnet será regulado por el Regl
 
 ### CAPÍTULO CUARTO. DEL PARLAMENTO DE LA JUVENTUD
 
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] P.O. 18 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 104.
 
-El Parlamento es un espacio de expresión política de los jóvenes, promovido por el Congreso del Estado de Baja California, a través de la Comisión de Juventud y Deporte.
+El Parlamento es un espacio de expresión política de los jóvenes, promovido por el Congreso del Estado de Baja California, a través de la Comisión que para tales efectos determine.
 
 Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opiniones y propuestas sobre los temas y problemas que consideren de mayor impacto en la sociedad y en la vida de la juventud Bajacaliforniana.
 
@@ -1333,11 +1359,11 @@ Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opini
 
 La Comisión, en coordinación y colaboración con el Instituto, cada tres años programará la instalación del Parlamento, la cual se llevará a cabo en la sede del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 106.
 
-Para la instalación del Parlamento, la Comisión de Juventud y Deporte designará los integrantes del Comité Organizador, los cuales serán cargos honoríficos.
+Para la instalación del Parlamento, la Comisión designará los integrantes del Comité Organizador, los cuales serán cargos honoríficos.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
 
@@ -1490,3 +1516,19 @@ SEGUNDO.- Dentro de un plazo no mayor al de seis meses, el Instituto de la Juven
 P.O. 30 DE SEPTIEMBRE DE 2016.
 
 ÚNICO: Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 228 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4 FRACCIÓN III, 68 FRACCIÓN III, 85, 104 Y 106 DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los 90 días siguientes al inicio de la vigencia del presente Decreto, se deberán adecuar los Reglamentos de la Ley de la Juventud del Estado de Baja California, así como el Reglamento Interno del Parlamento de la Juventud del Estado de Baja California.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 230 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 65 BIS A LA LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez publicado en el Periódico Oficial, el Ejecutivo del Estado así como los Ayuntamientos tendrán un plazo de 60 días hábiles para adecuar sus reglamentos a fin de dar cumplimiento al presente Decreto.
