@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "2012-05-22"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,15 +20,15 @@ issue_date: "1988-11-25"
 ---
 # REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL-
 
-REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
+REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE MAYO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 22 DE MAYO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MAYO DE 2018)</small>
 
-Reglamento de Prestaciones de la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal.
+Reglamento de Prestaciones de la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno de la Ciudad de México.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -198,7 +198,7 @@ IV. Los trabajadores a lista de raya del Gobierno que hubieren prestado servicio
 
 V. Cuando se hubieren prestado servicios con interrupciones con más de seis meses antes o después del 01 de enero de 1962, los trabajadores o al fallecer estos, sus familiares derechohabientes, podrán solicitar que la institución adicione el período de tiempo interrumpido al nuevo período cotizado, para así tener derecho a pensión, o correspondiendo ésta, para incrementar su antigüedad, pagando previamente las cuotas especiales relativas al preríodo (sic) de tiempo no cotizado.
 
-> <small>(F. DE E., G.O. 17 DE NOVIEMBRE DE1997)</small>
+> <small>(F. DE E., G.O. 17 DE NOVIEMBRE DE 1997)</small>
 
 El período de tiempo cotizado con anterioridad a la interrupción deberá reconocerse, independientemente del pago de cuotas especiales antes señalado.
 
@@ -212,7 +212,7 @@ Para efecto del cómputo de los años de servicios y de cotización, sin deméri
 
 La cuantía de las pensiones aumentará simultáneamente y en la misma proporción en que se incremente el salario mínimo general para el Distrito Federal.
 
-Los pensionados tendrán derecho a una graficación anual equivalente en número de días a la concedida a los trabajadores en activo, según el monto de su pensión. Esta gratificación deberá pagarse un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero del siguiente año.
+Los pensionados tendrán derecho a una graficación (sic) anual equivalente en número de días a la concedida a los trabajadores en activo, según el monto de su pensión. Esta gratificación deberá pagarse un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero del siguiente año.
 
 ### CAPITULO V. Sueldo, Cuotas Pensionarias y Cotizaciones
 
@@ -372,7 +372,7 @@ Si el que promueve el cobro no fuera familiar derechohabiente del finado, estar�
 
 ###### ARTICULO 38.
 
-El trámite de las pensiones podrán realizarse por el propio interesado; por un representante que éste designe mediante carta-poder, o por gestores sindicales debidamente acreditados.
+El trámite de las pensiones podrán (sic) realizarse por el propio interesado; por un representante que éste designe mediante carta-poder, o por gestores sindicales debidamente acreditados.
 
 ###### ARTICULO 39.
 
@@ -1435,3 +1435,11 @@ G.O. 22 DE MAYO DE 2012.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su Publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su entrada en vigor.
+
+G.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA Y ADECUA LA DENOMINACIÓN DE LOS ORDENAMIENTOS JURÍDICOS QUE RIGEN EL ACTUAR DE ÉSTA ENTIDAD, QUE A CONTINUACIÓN SE TRANSCRIBEN, A SABER: ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL, REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL Y REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL, PARA QUEDAR COMO ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO, REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO Y REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para todos los efectos a que haya lugar.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación.
