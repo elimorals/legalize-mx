@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2018-04-20"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3073,11 +3073,9 @@ II.- Violencia psicológica: toda acción u omisión reiterada, ejecutada por cu
 
 La comisión de este delito se perseguirá de oficio por la Representación Social.
 
-> <small>[N. DE E. DEL ANÁLISIS A ESTE PÁRRAFO, SE ADVIERTE QUE FUE REFORMADO TAMBIÉN POR DECRETO 541, PUBLICADO EN LA SECCIÓN I DEL P.O. DE 9 DE SEPTIEMBRE DE 2016, PÁGINA 5; Y SESIONADO EL 4 DE AGOSTO DE 2016 QUE A LA LETRA DICE: “Cuando exista reincidencia por parte del activo, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad o quien no tenga la capacidad de comprender el significado del hecho, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación, o proceso alternativo de solución a las Víctimas de Violencia familiar.”]</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
-
-Cuando exista reincidencia por parte del activo, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del Juez de Control o Tribunal de Enjuiciamiento se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad o quien no tenga la capacidad de comprender el significado del hecho, a quien tenga el ejercicio de ésta, por resolución judicial.
+Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad o adulto mayor, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad, adulto mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación, o proceso alternativo de solución a las Víctimas de Violencia familiar.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -5683,6 +5681,12 @@ P.O. 20 DE ABRIL DE 2018.
 
 P.O. 20 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 210 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 158 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 210 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 158 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 209 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 242 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
