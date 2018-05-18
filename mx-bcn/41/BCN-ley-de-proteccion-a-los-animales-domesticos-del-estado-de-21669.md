@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2016-07-29"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -305,9 +305,27 @@ Los animales desnutridos, enfermos, heridos o con lesiones de las llamadas matad
 
 A los animales destinados al tiro o a la carga deberá proporcionárseles alimentación y agua, de acuerdo a las condiciones de trabajo a que sean sometidos.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 37.
 
 Los animales a que se refieren los artículos 32, 33, 34, 35 y 36, sólo podrán ser atados durante la prestación de su trabajo y puestos en descanso en lugares a cubierto del sol y la lluvia.
+
+El propietario, poseedor o encargado de animales para la monta, carga, tiro y labranza deberá además cumplir con las siguientes obligaciones:
+
+I. Los animales de carga, tiro y monta, no tendrán una vida laboral mayor a 15 años, considerando en dicho cómputo su edad fisiológica, siempre y cuando gocen de salud para el desempeño de dichas actividades, empezando estas no antes de los 3 años.
+
+II. Deberán proporcionar al animal los tratamientos veterinarios necesarios para que mantenga una condición saludable.
+
+III. Proporcionar al equino la atención y el paseo necesario para ejercitarse según su función zootécnica;
+
+IV. Los animales utilizados para vehículos de tracción animal, deberán recibir suficiente alimentos y agua por lo menos tres veces al día así mismo, deberán recibir descanso después de su jornada de trabajo, la cual no se reiniciara antes de transcurridas por lo menos 14 horas de descanso.
+
+V. Los animales en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones, no podrán ser utilizados para carga, tiro o monta;
+
+VI. Queda prohibido para la carga, tiro o monta, el uso de crías de menores a tres años de edad o de hembras en el periodo próximo al parto, entendiendo por este el último tercio de la gestación.
+
+VII. Los animales utilizados para carga, tiro o monta que se utilicen en las zonas conurbadas o recreativas con calles empedradas o asfaltadas deberán ser necesariamente herrados con el tipo de herraduras y accesorios adecuados que no implique que el animal se resbale al trasladarse o se le dificulte el pose y movimiento de sus pezuñas para su traslado y tiro del carro, carretón o carreta. Será obligatorio también al mantenimiento de dicho herraje con la frecuencia que en cada caso sea requerida para garantizar su salud y bienestar, así como el uso de vendas para quinos de trabajo y de descanso.
 
 ###### ARTICULO 38.
 
@@ -608,3 +626,9 @@ P.O. 29 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 510 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 48 Y 49 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 213 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 37 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
