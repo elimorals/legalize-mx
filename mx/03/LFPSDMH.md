@@ -4,7 +4,7 @@ identifier: "LFPSDMH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2016-01-12"
-last_updated: "2016-01-12"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111064&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPSDMH"
 
 LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 12 de enero de 2016.
 
@@ -106,9 +106,11 @@ El Ministerio Público de la Federación y el Poder Judicial de la Federación, 
 
 ## TÍTULO SEGUNDO. DE LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS, PETROLÍFEROS O PETROQUÍMICOS Y DEMÁS ACTIVOS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 8.
 
-Se sancionará con pena de 15 a 25 años de prisión y multa de 15,000 a 25,000 días de salario mínimo vigente en el lugar de los hechos a quien:
+Se sancionará con pena de 20 a 30 años de prisión y multa de 20,000 a 25,000 veces el valor de la Unidad de Medida y Actualización vigente a quien:
 
 I. Sustraiga hidrocarburos, petrolíferos o petroquímicos, de ductos, vehículos, equipos, instalaciones o activos, sin derecho y sin consentimiento de asignatarios, contratistas, permisionarios, distribuidores o de quien pueda disponer de ellos con arreglo a la ley.
 
@@ -126,17 +128,27 @@ III. Altere o adultere hidrocarburos, petrolíferos o petroquímicos sin derecho
 
 Las conductas descritas en el presente artículo se sancionarán de la siguiente manera:
 
-a) Cuando la cantidad sea menor o equivalente a 300 litros, se impondrá de 2 a 4 años de prisión y multa de 2,000 a 4,000 días de salario mínimo vigente en el lugar de los hechos.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-b) Cuando la cantidad sea mayor a 300 litros pero menor o equivalente a 1,000 litros, se impondrá de 4 a 8 años de prisión y multa de 4,000 a 8,000 días de salario mínimo vigente en el lugar de los hechos.
+a) Cuando la cantidad sea menor o equivalente a 300 litros, se impondrá de 4 a 6 años de prisión y multa de 4,000 a 6,000 veces el valor de la Unidad de Medida y Actualización vigente.
 
-c) Cuando la cantidad sea mayor a 1,000 litros pero menor a 2,000 litros, se impondrá de 8 a 12 años de prisión y multa de 8,000 a 12,000 días de salario mínimo vigente en el lugar de los hechos.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-d) Cuando la cantidad sea igual o mayor a 2,000 litros, con pena de 10 a 15 años de prisión y multa de 10,000 a 15,000 días de salario mínimo vigente en el lugar de los hechos.
+b) Cuando la cantidad sea mayor a 300 litros pero menor o equivalente a 1,000 litros, se impondrá de 6 a 10 años de prisión y multa de 6,000 a 10,000 veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+c) Cuando la cantidad sea mayor a 1,000 litros pero menor a 2,000 litros, se impondrá de 10 a 12 años de prisión y multa de 10,000 a 14,000 veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+d) Cuando la cantidad sea igual o mayor a 2,000 litros, con pena de 12 a 17 años de prisión y multa de 12,000 a 17,000 veces el valor de la Unidad de Medida y Actualización vigente.
 
 Para los efectos de los supuestos señalados en la fracción III incisos a), b) y c) del presente artículo deberá mediar querella del órgano regulador o parte agraviada.
 
-En caso de no poder cuantificarse el volumen de los hidrocarburos, petrolíferos o petroquímicos, objeto de las conductas descritas en las fracciones I, II y III, se impondrá de 10 a 15 años de prisión y multa de 10,000 a 15,000 días de salario mínimo vigente en el lugar de los hechos, siempre que se acredite que por las condiciones en que se encuentra contenido dicho volumen, se presuma que se trata de cantidades mayores a los 2,000 litros.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+En caso de no poder cuantificarse el volumen de los hidrocarburos, petrolíferos o petroquímicos, objeto de las conductas descritas en las fracciones I, II y III, se impondrá de 12 a 17 años de prisión y multa de 12,000 a 17,000 veces el valor de la Unidad de Medida y Actualización vigente, siempre que se acredite que por las condiciones en que se encuentra contenido dicho volumen, se presuma que se trata de cantidades mayores a los 2,000 litros.
 
 ###### Artículo 10.
 
@@ -148,43 +160,59 @@ a) Se realice en plataformas y demás instalaciones en altamar, propiedad o en u
 
 b) Utilice información o datos obtenidos ilícitamente sobre el funcionamiento de la operación, instalaciones, actividades, movimientos del personal o vehículos de asignatarios, contratistas, permisionarios o distribuidores.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 11.
 
-Se sancionará de 5 a 10 años de prisión y multa de 5,000 a 10,000 días de salario mínimo vigente en el lugar de los hechos, al que invada las áreas de exclusión a bordo de una embarcación y que utilice bandera o matrícula apócrifa simulando su propiedad a favor de algún asignatario, contratista, permisionario, distribuidor o naviero.
+Se sancionará de 10 a 15 años de prisión y multa de 7,000 a 12,000 veces el valor de la Unidad de Medida y Actualización vigente, al que invada las áreas de exclusión a bordo de una embarcación y que utilice bandera o matrícula apócrifa simulando su propiedad a favor de algún asignatario, contratista, permisionario, distribuidor o naviero.
 
 ###### Artículo 12.
 
 Al que sustraiga sin derecho y sin consentimiento de la persona que puede disponer de ellos con arreglo a la ley, bienes muebles afectos y característicos para la operación de la industria petrolera, susceptibles de ser utilizados en cualquiera de las conductas tipificadas por esta Ley, propiedad de asignatarios, contratistas, permisionarios o distribuidores, se le aplicará la pena siguiente:
 
-I. Hasta 3 años de prisión y multa hasta de 150 días de salario mínimo vigente en el lugar de los hechos, cuando el valor de lo robado no exceda de cien veces el salario.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-II. De 3 a 6 años de prisión y multa de 150 hasta 270 días de salario mínimo vigente en el lugar de los hechos, cuando exceda de cien veces el salario, pero no de quinientas.
+I. Hasta 5 años de prisión y multa hasta de 200 veces el valor de la Unidad de Medida y Actualización vigente, cuando el valor de lo robado no exceda de cien veces el valor de la Unidad de Medida y Actualización vigente.
 
-III. De 6 a 15 años de prisión y multa de 270 hasta 750 días de salario mínimo vigente en el lugar de los hechos, cuando exceda de quinientas veces el salario.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+II. De 5 a 8 años de prisión y multa de 200 hasta 320 veces el valor de la Unidad de Medida y Actualización vigente, cuando exceda de cien veces el valor de la Unidad de Medida y Actualización vigente, pero no de quinientas.
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+III. De 8 a 17 años de prisión y multa de 320 hasta 800 veces el valor de la Unidad de Medida y Actualización vigente, cuando exceda de quinientas veces el mismo.
 
 Si se ejecutare con violencia, se aplicarán las reglas de la acumulación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 13.
 
-Se sancionará de 1 a 5 años de prisión y multa de 4,000 a 7,000 días de salario mínimo vigente en el lugar de los hechos, a cualquier servidor público que en el ejercicio de sus funciones o con motivo de ellas, tenga conocimiento de la probable comisión de algún delito materia de esta Ley y no lo denuncie ante la autoridad competente.
+Se sancionará de 3 a 7 años de prisión y multa de 6,000 a 9,000 veces el valor de la Unidad de Medida y Actualización vigente, a cualquier servidor público que en el ejercicio de sus funciones o con motivo de ellas, tenga conocimiento de la probable comisión de algún delito materia de esta Ley y no lo denuncie ante la autoridad competente.
 
 Lo anterior, independientemente de las sanciones aplicables conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 14.
 
-Se sancionará de 6 a 10 años de prisión y multa de 6,000 a 10,000 días de salario mínimo vigente en el lugar de los hechos, al que comercialice o transporte hidrocarburos, petrolíferos o petroquímicos, cuando no contengan los marcadores o las demás especificaciones que para estos productos establezca la autoridad competente, determinados en la documentación que así lo prevea.
+Se sancionará de 8 a 12 años de prisión y multa de 8,000 a 12,000 veces el valor de la Unidad de Medida y Actualización vigente, al que comercialice o transporte hidrocarburos, petrolíferos o petroquímicos, cuando no contengan los marcadores o las demás especificaciones que para estos productos establezca la autoridad competente, determinados en la documentación que así lo prevea.
 
 La misma pena se impondrá a quien sin derecho y sin consentimiento de asignatarios, contratistas, permisionarios, distribuidores o de quien pueda disponer de ellos con arreglo a la ley, sustraiga, altere, modifique o destruya los marcadores a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 15.
 
-Se impondrá de 4 a 6 años de prisión y multa de 4,000 a 6,000 días de salario mínimo vigente en el lugar de los hechos, al arrendatario, propietario o poseedor o a quien se ostente como tal, de algún predio donde exista una derivación clandestina o toma clandestina y tenga conocimiento de esta situación y no lo denuncie a las autoridades correspondientes.
+Se impondrá de 6 a 8 años de prisión y multa de 6,000 a 8,000 veces el valor de la Unidad de Medida y Actualización vigente, al arrendatario, propietario o poseedor o a quien se ostente como tal, de algún predio donde exista una derivación clandestina o toma clandestina y tenga conocimiento de esta situación y no lo denuncie a las autoridades correspondientes.
 
-Se impondrá de 7 a 14 años de prisión y multa de 7,000 a 14,000 días de salario mínimo vigente a quien, con conocimiento de que se lleve a cabo algún delito objeto de la presente Ley, facilite, colabore o consienta que lo realice en su propiedad o no lo denuncie a las autoridades correspondientes.
+Se impondrá de 9 a 16 años de prisión y multa de 9,000 a 16,000 veces el valor de la Unidad de Medida y Actualización vigente, a quien con conocimiento de que se lleve a cabo algún delito objeto de la presente Ley, facilite, colabore o consienta que lo realice en su propiedad o no lo denuncie a las autoridades correspondientes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 16.
 
-Se impondrá de 3 a 6 años de prisión y multa de 3,000 a 6,000 días de salario mínimo vigente en el lugar de los hechos, a quien:
+Se impondrá de 5 a 8 años de prisión y multa de 5,000 a 8,000 veces el valor de la Unidad de Medida y Actualización vigente, a quien:
 
 I. Enajene o suministre gasolinas o diésel con conocimiento de que está entregando una cantidad inferior desde 1.5 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro.
 
@@ -194,9 +222,11 @@ III. Enajene o suministre gas natural, con conocimiento de que está entregando 
 
 Para los efectos de los supuestos señalados en este artículo deberá mediar querella del órgano regulador o de parte ofendida.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 17.
 
-Se impondrá pena de 10 a 18 años de prisión y multa de 10,000 a 18,000 días de salario mínimo vigente en el lugar de los hechos, a quien:
+Se impondrá pena de 12 a 20 años de prisión y multa de 12,000 a 20,000 veces el valor de la Unidad de Medida y Actualización vigente, a quien:
 
 I. Altere los sistemas de medición en posesión o al servicio de los asignatarios, contratistas, permisionarios o distribuidores, con conocimiento que producirá un daño o afectación a la normal operación de los mismos.
 
@@ -206,13 +236,17 @@ II. Permita o realice el intercambio o sustitución de otras sustancias por hidr
 
 III. Realice cualquier sustracción o alteración de ductos, equipos, instalaciones o activos de la industria petrolera, sin derecho y sin consentimiento de la persona que legalmente pueda autorizarlo.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 18.
 
-Se impondrá pena de 15 a 25 años de prisión y multa de 15,000 a 25,000 días de salario mínimo vigente en el lugar de los hechos, a quien directa o indirectamente reciba, recaude o aporte fondos económicos o recursos de cualquier naturaleza, a sabiendas que serán utilizados para cometer alguna conducta tipificada en esta Ley.
+Se impondrá pena de 17 a 25 años de prisión y multa de 17,000 a 27,000 veces el valor de la Unidad de Medida y Actualización vigente, a quien directa o indirectamente reciba, recaude o aporte fondos económicos o recursos de cualquier naturaleza, a sabiendas que serán utilizados para cometer alguna conducta tipificada en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 19.
 
-Se sancionará de 8 a 12 años de prisión y multa de 8,000 a 12,000 días de salario mínimo vigente en el lugar de los hechos, a quien obligue o intimide mediante coerción, amenaza o cualquier tipo de violencia, a quien preste sus servicios o realice cualquier actividad para asignatarios, contratistas, permisionarios, distribuidores u órganos reguladores, con el propósito de llevar a cabo cualquier conducta tipificada en esta Ley.
+Se sancionará de 10 a 14 años de prisión y multa de 10,000 a 14,000 veces el valor de la Unidad de Medida y Actualización vigente, a quien obligue o intimide mediante coerción, amenaza o cualquier tipo de violencia, a quien preste sus servicios o realice cualquier actividad para asignatarios, contratistas, permisionarios, distribuidores u órganos reguladores, con el propósito de llevar a cabo cualquier conducta tipificada en esta Ley.
 
 ###### Artículo 20.
 
@@ -277,3 +311,11 @@ Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del pr
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 8; 9; 11; 12; 13; 14; 15; 16; 17; 18 Y 19 DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
