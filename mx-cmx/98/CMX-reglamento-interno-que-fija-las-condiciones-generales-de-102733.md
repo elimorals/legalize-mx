@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-que-fija-las-condiciones-generales-de-102733
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-10"
-last_updated: "2014-10-10"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102733&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,15 +20,17 @@ issue_date: "2014-09-29"
 ---
 # REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO -- ANTES -- REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISION PARA LOS TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISIÓN PARA LOS TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
+REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE MAYO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 10 de octubre de 2014.
 
 El C.P. Pedro Montaño Romero, Director General, con fundamento en lo dispuesto por los artículos 87 y 88 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional, una vez satisfecho el requisito a que se contrae el primero de los preceptos citados relativo y aprobado por el H. Consejo Directivo de la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal (CAPTRALIR), en la Primera Sesión Ordinaria de dos mil catorce; expide el presente:
 
-Reglamento Interno que fija las Condiciones Generales de Trabajo de los Empleados de la Caja de Previsión para los Trabajadores a Lista de Raya del Gobierno del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MAYO DE 2018)</small>
+
+Reglamento Interno que fija las Condiciones Generales de Trabajo de los Empleados de la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno de la Ciudad de México
 
 ## TITULO I
 
@@ -1635,3 +1637,13 @@ EL DIRECTOR GENERAL DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA D
 C.P. PEDRO MONTAÑO ROMERO
 
 (Firma)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA Y ADECUA LA DENOMINACIÓN DE LOS ORDENAMIENTOS JURÍDICOS QUE RIGEN EL ACTUAR DE ÉSTA ENTIDAD, QUE A CONTINUACIÓN SE TRANSCRIBEN, A SABER: ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL, REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL Y REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL, PARA QUEDAR COMO ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO, REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO Y REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para todos los efectos a que haya lugar.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación.
