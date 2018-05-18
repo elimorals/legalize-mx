@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2018-03-13"
+last_updated: "2018-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -201,8 +201,6 @@ IV.- Sendos representantes de las Secretarías de Relaciones Exteriores, de Agri
 
 Por cada representante propietario, será designado un suplente, quien asistirá a las sesiones de la Junta de Gobierno en ausencia del primero, con todas las facultades y derechos que a éste correspondan.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 7 Bis 1.
@@ -216,8 +214,6 @@ Artículo 7o BIS 2.- Corresponde al Director General del Instituto el ejercicio 
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 El Director General del Instituto expedirá, mediante Acuerdos publicados en el Diario Oficial, las reglas y especificaciones para la presentación de las solicitudes, así como los procedimientos, criterios, lineamientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares, incluyendo las reglas generales para la gestión de trámites a través de medios de comunicación electrónica.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
@@ -705,7 +701,9 @@ Cuando proceda el otorgamiento de la patente, se comunicará por escrito al soli
 
 El interesado tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refieren los artículos 44, 50, 55 y 57 de esta Ley, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.
 
-El plazo a que se refiere el párrafo anterior, se contará a partir del día siguiente al del vencimiento del plazo de dos meses previsto en los artículos antes referidos.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+El plazo a que se refiere el párrafo anterior, se contará a partir del día hábil siguiente al del vencimiento del plazo de dos meses previsto en los artículos antes referidos.
 
 La solicitud se tendrá por abandonada si el solicitante no da cumplimiento a los requerimientos formulados, dentro del plazo inicial o en el adicional previsto en este artículo; o no presenta el comprobante de pago de las tarifas correspondientes.
 
@@ -985,29 +983,51 @@ Ningún interesado, en ningún caso, podrá revelar o usar el secreto industrial
 
 ### Capítulo I. De las Marcas
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 87.
 
-Los industriales, comerciantes o prestadores de servicios podrán hacer uso de marcas en la industria, en el comercio o en los servicios que presten. Sin embargo, el derecho a su uso exclusivo se obtiene mediante su registro en el Instituto.
+Cualquier persona, física o moral, podrá hacer uso de marcas en la industria, en el comercio o en los servicios que presten. Sin embargo, el derecho a su uso exclusivo se obtiene mediante su registro en el Instituto.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 88.
 
-Se entiende por marca a todo signo visible que distinga productos o servicios de otros de su misma especie o clase en el mercado.
+Se entiende por marca, todo signo perceptible por los sentidos y susceptible de representarse de manera que permita determinar el objeto claro y preciso de la protección, que distinga productos o servicios de otros de su misma especie o clase en el mercado.
 
 ###### Artículo 89.
 
 Pueden constituir una marca los siguientes signos:
 
-I.- Las denominaciones y figuras visibles, suficientemente distintivas, susceptibles de identificar los productos o servicios a que se apliquen o traten de aplicarse, frente a los de su misma especie o clase;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+I.- Las denominaciones, letras, números, elementos figurativos y combinaciones de colores, así como los signos holográficos;
 
 II.- Las formas tridimensionales;
 
-III.- Los nombres comerciales y denominaciones o razones sociales, siempre que no queden comprendidos en el artículo siguiente, y
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+III.- Los nombres comerciales y denominaciones o razones sociales, siempre que no queden comprendidos en el artículo siguiente;
 
-IV.- El nombre propio de una persona física, siempre que no se confunda con una marca registrada o un nombre comercial publicado.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+IV.- El nombre propio de una persona física, siempre que no se confunda con una marca registrada o un nombre comercial publicado;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+V.- Los sonidos;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+VI.- Los olores;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+VII.- La pluralidad de elementos operativos; elementos de imagen, incluidos, entre otros, el tamaño, diseño, color, disposición de la forma, etiqueta, empaque, la decoración o cualquier otro que al combinarse, distingan productos o servicios en el mercado, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+VIII.- La combinación de los signos enunciados en las fracciones I a VI del presente artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1015,75 +1035,141 @@ IV.- El nombre propio de una persona física, siempre que no se confunda con una
 
 No serán registrables como marca:
 
-I.- Las denominaciones, figuras o formas tridimensionales animadas o cambiantes, que se expresan de manera dinámica, aún cuando sean visibles;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-II.- Los nombres técnicos o de uso común de los productos o servicios que pretenden ampararse con la marca, así como aquellas palabras que, en el lenguaje corriente o en las prácticas comerciales, se hayan convertido en la designación usual o genérica de los mismos;
+I.- Los nombres técnicos o de uso común de los productos o servicios que pretenden distinguirse con la marca, así como aquellas palabras, denominaciones, frases, o elementos figurativos que, en el lenguaje corriente o en las prácticas comerciales, se hayan convertido en elementos usuales o genéricos de los mismos;
 
-III.- Las formas tridimensionales que sean del dominio público o que se hayan hecho de uso común y aquellas que carezcan de originalidad que las distinga fácilmente, así como la forma usual y corriente de los productos o la impuesta por su naturaleza o función industrial;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+II.- Las formas tridimensionales que sean del dominio público o que se hayan hecho de uso común y aquellas que carezcan de distintividad; así como la forma usual y corriente de los productos o servicios, o la impuesta por su naturaleza o funcionalidad;
 
-IV.- Las denominaciones, figuras o formas tridimensionales que, considerando el conjunto de sus características, sean descriptivas de los productos o servicios que traten de protegerse como marca. Quedan incluidas en el supuesto anterior las palabras descriptivas o indicativas que en el comercio sirvan para designar la especie, calidad, cantidad, composición, destino, valor, lugar de origen de los productos o la época de producción;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+III.- Los hologramas que sean del dominio público y aquellos que carezcan de distintividad;
 
-V.- Las letras, los dígitos o los colores aislados, a menos que estén combinados o acompañados de elementos tales como signos, diseños o denominaciones, que les den un carácter distintivo;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-VI.- La traducción a otros idiomas, la variación ortográfica caprichosa o la construcción artificial de palabras no registrables;
+IV.- Los signos que, considerando el conjunto de sus características, sean descriptivos de los productos o servicios que pretenden distinguir. Quedan incluidos en el supuesto anterior, los signos descriptivos o indicativos que en el comercio sirvan para designar la especie, calidad, cantidad, composición, destino, valor, lugar de origen o la época de producción de los productos o servicios;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-VII.- Las que reproduzcan o imiten, sin autorización, escudos, banderas o emblemas de cualquier país, Estado, municipio o divisiones políticas equivalentes, así como las denominaciones, siglas, símbolos o emblemas de organizaciones internacionales, gubernamentales, no gubernamentales o de cualquier otra organización reconocida oficialmente, así como la designación verbal de los mismos;
+V.- Las letras, los dígitos o los colores aislados, a menos que estén combinados o acompañados de otros signos que les den un carácter distintivo;
 
-VIII.- Las que reproduzcan o imiten signos o sellos oficiales de control y garantía adoptados por un estado, sin autorización de la autoridad competente, o monedas, billetes de banco, monedas conmemorativas o cualquier medio oficial de pago nacional o extranjero;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-IX.- Las que reproduzcan o imiten los nombres o la representación gráfica de condecoraciones, medallas u otros premios obtenidos en exposiciones, ferias, congresos, eventos culturales o deportivos, reconocidos oficialmente;
+VI.- La traducción, la variación ortográfica caprichosa o la construcción artificial de palabras no registrables, así como la transliteración de signos no registrables;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+VII.- Los signos que, sin autorización, reproduzcan o imiten: escudos, banderas o emblemas de cualquier país, estado, municipio o divisiones políticas equivalentes; así como, las denominaciones, siglas, símbolos, emblemas o cualquier otro signo de instrumentos internacionales, organizaciones internacionales, gubernamentales, no gubernamentales o cualquier otra organización reconocida oficialmente; así como la designación verbal de los mismos;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+VIII.- Las que reproduzcan o imiten signos o sellos oficiales de control y garantía adoptados por un Estado, sin autorización de la autoridad competente, o monedas, billetes de banco, monedas conmemorativas o cualquier medio oficial de pago nacional o extranjero;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+IX.- Los signos que reproduzcan o imiten los nombres, signos o la representación gráfica de condecoraciones, medallas u otros premios obtenidos en exposiciones, ferias, congresos, eventos culturales o deportivos, reconocidos oficialmente;
 
 > <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-X.- Las zonas geográficas, propias o comunes, y los mapas, así como las denominaciones de poblaciones, los gentilicios, nombres y adjetivos, cuando indiquen la procedencia de los productos o servicios y puedan originar confusión o error en cuanto a su procedencia. Quedan incluidas las que se acompañen de expresiones tales como "género", "tipo", "manera", "imitación", “producido en”, “con fabricación en” u otras similares que creen confusión en el consumidor o impliquen competencia desleal relacionada con la misma.
+X.- Las zonas geográficas, propias o comunes, y los mapas, así como las denominaciones de poblaciones, los gentilicios, nombres y adjetivos, cuando indiquen la procedencia de los productos o servicios y puedan originar confusión o error en cuanto a su procedencia. Quedan incluidas las que se acompañen de expresiones tales como "género", "tipo", "manera", "imitación", "producido en", "con fabricación en" u otras similares que creen confusión en el consumidor o impliquen competencia desleal relacionada con la misma.
 
-XI.- Las denominaciones de poblaciones o lugares que se caractericen por la fabricación de ciertos productos, para amparar éstos, excepto los nombres de lugares de propiedad particular, cuando sean especiales e inconfundibles y se tenga el consentimiento del propietario;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+XI.- Las denominaciones de origen, indicaciones geográficas, denominaciones o signos de lugares, que se caractericen por la fabricación o producción de ciertos productos o la prestación de ciertos servicios; así como aquellos que se acompañen de expresiones tales como: "género", "tipo", "manera", "imitación", “producido en”, “con fabricación en” u otras similares que creen confusión en el consumidor o impliquen competencia desleal;
 
-XII.- Los nombres, seudónimos, firmas y retratos de personas, sin consentimiento de los interesados o, si han fallecido, en su orden, del cónyuge, parientes consanguíneos en línea recta y por adopción, y colaterales, ambos hasta el cuarto grado;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+XII.- Los nombres de lugares de propiedad particular, cuando sean especiales e inconfundibles y que se caractericen por la producción de determinados productos o el ofrecimiento de determinados servicios, sin el consentimiento del propietario;
 
-XIII.- Los títulos de obras intelectuales o artísticas, así como los títulos de publicaciones y difusiones periódicas, los personajes ficticios o simbólicos, los personajes humanos de caracterización, los nombres artísticos y las denominaciones de grupos artísticos; a menos que el titular del derecho correspondiente lo autorice expresamente;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
-XIV.- Las denominaciones, figuras o formas tridimensionales, susceptibles de engañar al público o inducir a error, entendiéndose por tales las que constituyan falsas indicaciones sobre la naturaleza, componentes o cualidades de los productos o servicios que pretenda amparar;
+XIII.- Los nombres, apellidos, apelativos o seudónimos de personas que hayan adquirido tal prestigio, reconocimiento o fama que al usarse puedan crear un riesgo de asociación, inducir al error, confusión o engaño al público consumidor, salvo que se trate de dicha persona o exista consentimiento expreso de la misma o de quien tenga el derecho correspondiente;
 
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-XV.- Las denominaciones, figuras o formas tridimensionales, iguales o semejantes a una marca que el Instituto estime o haya declarado notoriamente conocida en México, para ser aplicadas a cualquier producto o servicio.
+Asimismo, no serán registrables como marca, la imagen, la voz identificable, el retrato y las firmas de personas, sin su consentimiento expreso, o si han fallecido, de quien tenga el derecho correspondiente;
 
-Este impedimento procederá en cualquier caso en que el uso de la marca cuyo registro se solicita:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
-a) Pudiese crear confusión o un riesgo de asociación con el titular de la marca notoriamente conocida; o
+XIV.- Los nombres o denominaciones idénticas o semejantes en grado de confusión a los títulos de obras literarias o artísticas, así como tampoco la reproducción o imitación de los elementos de dichas obras; cuando, en ambos casos, tengan tal relevancia o reconocimiento que puedan ser susceptibles de engañar al público o inducir a error por creer infundadamente que existe alguna relación o asociación con dichas obras, salvo que el titular del derecho correspondiente lo autorice expresamente.
 
-b) Pudiese constituir un aprovechamiento no autorizado por el titular de la marca notoriamente conocida; o
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-c) Pudiese causar el desprestigio de la marca notoriamente conocida; o
+Asimismo, no será registrable como marca la reproducción, ya sea total o parcial, de obras literarias o artísticas, sin la autorización correspondiente del titular del derecho de autor.
 
-d) Pudiese diluir el carácter distintivo de la marca notoriamente conocida.
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-Este impedimento no será aplicable cuando el solicitante del registro sea titular de la marca notoriamente conocida, y
+Tampoco serán registrables como marca aquellos personajes de ficción o simbólicos, ni los personajes humanos de caracterización que tengan tal relevancia o reconocimiento, excepto en aquellos casos que sea solicitado por el titular del derecho correspondiente o por un tercero con el consentimiento de éste;
 
-> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-XV bis.- Las denominaciones, figuras o formas tridimensionales, iguales o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado famosa en términos del capítulo II BIS, para ser aplicadas a cualquier producto o servicio.
+XV.- Los signos susceptibles de engañar al público o inducir a error. Entendiéndose por tales, los que constituyan falsas indicaciones sobre: la naturaleza, componentes, cualidades o el origen empresarial, de los productos o servicios que pretenden distinguir;
 
-Este impedimento no será aplicable cuando el solicitante del registro sea titular de la marca famosa.
+XV bis.- (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
-XVI.- Una marca que sea idéntica o semejante en grado de confusión a otra en trámite de registro presentada con anterioridad o a una registrada y vigente, aplicada a los mismos o similares productos o servicios. Sin embargo, sí podrá registrarse una marca que sea idéntica a otra ya registrada, si la solicitud es planteada por el mismo titular, para aplicarla a productos o servicios similares, y
+XVI.- Los signos iguales o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado notoriamente conocida en México, en términos del Capítulo II BIS, del Título Cuarto, para ser aplicadas a cualquier producto o servicio, cuando la marca cuyo registro se solicita pudiese:
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-XVII.- Una marca que sea idéntica o semejante en grado de confusión, a un nombre comercial aplicado a una empresa o a un establecimiento industrial, comercial o de servicios, cuyo giro preponderante sea la elaboración o venta de los productos o la prestación de los servicios que se pretendan amparar con la marca, y siempre que el nombre comercial haya sido usado con anterioridad a la fecha de presentación de la solicitud de registro de la marca o la de uso declarado de la misma. Lo anterior no será aplicable, cuando la solicitud de marca la presente el titular del nombre comercial, si no existe otro nombre comercial idéntico que haya sido publicado.
+a) Crear confusión o un riesgo de asociación con el titular de la marca notoriamente conocida;
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+b) Constituir un aprovechamiento no autorizado por el titular de la marca notoriamente conocida;
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+c) Causar el desprestigio de la marca notoriamente conocida, o
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+d) Diluir el carácter distintivo de la marca notoriamente conocida.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Este impedimento no será aplicable cuando el solicitante del registro sea titular de la marca notoriamente conocida;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+XVII.- Los signos idénticos o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado famosa en términos del Capítulo II BIS, del Título Cuarto; para ser aplicadas a cualquier producto o servicio.
+
+Este impedimento no será aplicable cuando el solicitante del registro sea titular de la marca famosa;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+XVIII.- Los signos idénticos o semejantes en grado de confusión, a una marca en trámite de registro presentada con anterioridad, o a una registrada y vigente, aplicada a los mismos o similares productos o servicios. Quedan incluidos aquellos que sean idénticos a otra marca ya registrada o en trámite por el mismo titular, para distinguir productos o servicios idénticos;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+XIX.- Los signos que sean idénticos o semejantes en grado de confusión, a un nombre comercial aplicado a una empresa o a un establecimiento industrial, comercial o de servicios, cuyo giro preponderante sea la elaboración o venta de los productos o la prestación de los servicios que se pretendan amparar con la marca, y siempre que el nombre comercial haya sido usado con anterioridad a la fecha de presentación de la solicitud de registro de la marca o la de uso declarado de la misma. Lo anterior no será aplicable, cuando la solicitud de marca la presente el titular del nombre comercial, si no existe otro nombre comercial idéntico que haya sido publicado;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+XX.- El nombre propio de una persona física que sea idéntico o semejante en grado de confusión a una marca en trámite de registro presentada con anterioridad o a una registrada y vigente, o un nombre comercial publicado, aplicado a los mismos o similares productos o servicios;
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+XXI.- Los signos que reproduzcan o imiten denominaciones o elementos que hagan referencia a variedades vegetales protegidas, así como las razas de animales, que puedan causar confusión en el público consumidor respecto de los productos o servicios a distinguir, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+XXII.- Los signos solicitados de mala fe. Se entiende por mala fe, entre otros casos, cuando el registro se solicite de manera contraria a los buenos usos, costumbres y prácticas en el sistema de propiedad industrial, el comercio, o la industria; o que se pretenda obtener un beneficio o ventaja indebida en perjuicio de su legítimo titular.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+No será aplicable lo dispuesto por las fracciones I, II, III, IV, V y VI del presente artículo, cuando la marca haya adquirido, para los productos o servicios para los cuales se solicita, un carácter distintivo derivado del uso que se hubiere hecho en el comercio.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+No será aplicable lo dispuesto por la fracción II, cuando la forma tridimensional haya adquirido un carácter distintivo del uso que se hubiere hecho en el comercio, entendiendo que no es admisible que la forma inherente a su naturaleza o funcionalidad adquiera distintividad.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+No será aplicable lo dispuesto por las fracciones XVIII, XIX y XX por cuanto hace a las marcas semejantes en grado de confusión del presente artículo, cuando se exhiba el consentimiento expreso, por escrito, de conformidad con el reglamento de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1137,49 +1223,165 @@ Para proteger posteriormente un producto o servicio diverso con una marca ya reg
 
 El registro de marca tendrá una vigencia de diez años contados a partir de la fecha de presentación de la solicitud y podrá renovarse por períodos de la misma duración.
 
-### Capítulo II. De las Marcas Colectivas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+### Capítulo II. De las Marcas Colectivas y de Certificación
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 96.
 
-Las asociaciones o sociedades de productores, fabricantes, comerciantes o prestadores de servicios, legalmente constituidas, podrán solicitar el registro de marca colectiva para distinguir, en el mercado, los productos o servicios de sus miembros respecto de los productos o servicios de terceros.
+Podrán solicitar el registro de una marca colectiva las asociaciones o sociedades de productores, fabricantes o comerciantes de productos, o prestadores de servicios, legalmente constituidas, para distinguir, en el mercado, los productos o servicios de sus miembros siempre que éstos posean calidad o características comunes entre ellos y diversas respecto de los productos o servicios de terceros.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 97.
 
-Con la solicitud de marca colectiva se deberán presentar las reglas para su uso.
+Los miembros de la asociación o sociedad titular de la marca colectiva podrán usar junto con ésta, el término “Marca Colectiva Registrada”.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 97 BIS.- Con la solicitud de marca colectiva se deberán presentar las reglas para su uso, que contendrán lo siguiente:
+
+I.- El nombre de la asociación o sociedad que será titular de la marca;
+
+II.- La representación de la marca;
+
+III.- Los productos o servicios a que se aplicará la marca;
+
+IV.- Las características o cualidades comunes de los productos o servicios;
+
+V.- Los procesos de elaboración, producción, empaque, embalaje o envasado;
+
+VI.- La indicación de que la marca no podrá ser transmitida a terceras personas y de que su uso quedará reservado a los miembros de la asociación o sociedad;
+
+VII.- Los mecanismos de control del uso de la marca y del cumplimiento de las reglas de uso;
+
+VIII.- Las sanciones para el caso de incumplimiento de las reglas de uso;
+
+IX.- La indicación sobre el ejercicio de las acciones legales de protección, y
+
+X.- Las demás que estime pertinentes el solicitante.
+
+En el caso de la fracción IX del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos contra terceros.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 97 BIS 1.- La marca colectiva no será objeto de licencia, ni podrá ser transmitida a terceras personas, quedando su uso reservado a los miembros de la asociación o sociedad.
+
+Las marcas colectivas se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 98.
 
-La marca colectiva no podrá ser transmitida a terceras personas y su uso quedará reservado a los miembros de la asociación.
+Se entiende por marca de certificación un signo que distingue productos y servicios cuyas cualidades u otras características han sido certificadas por su titular, tales como:
 
-Las marcas colectivas se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
+I.- Los componentes de los productos;
+
+II.- Las condiciones bajo las cuales los productos han sido elaborados o los servicios prestados;
+
+III.- La calidad, procesos u otras características de los productos o servicios, y
+
+IV.- El origen geográfico de los productos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE JUNIO DE 2005)</small>
 
 ### Capítulo II BIS.. De las Marcas Notoriamente Conocidas y Famosas
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-Artículo 98 BIS.- Para efectos de su estimación o declaración por el Instituto, se entenderá que una marca es notoriamente conocida en México, cuando un sector determinado del público o de los círculos comerciales del país, conoce la marca como consecuencia de las actividades comerciales desarrolladas en México o en el extranjero por una persona que emplea esa marca en relación con sus productos o servicios o bien, como consecuencia de la promoción o publicidad de la misma.
+Artículo 98 BIS.- La marca de certificación podrá estar conformada por el nombre de una zona geográfica o que contenga dicho nombre, u otra indicación conocida por hacer referencia a la citada zona, que identifique un producto como originario de la misma, cuando determinada calidad, reputación, u otra característica del producto sea imputable fundamentalmente a su origen geográfico.
+
+En el caso de indicaciones geográficas nacionales protegidas como marcas de certificación, se entenderá que éstas son bienes de dominio del poder público de la Federación.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 98 BIS 1.- Podrá solicitar el registro cualquier persona moral, siempre y cuando no desarrolle una actividad empresarial que implique el suministro de productos o la prestación del servicio de la misma naturaleza o tipo que aquella certifica.
+
+Cuando la marca de certificación se constituya por una indicación geográfica nacional, sólo podrán solicitar el registro:
+
+I.- Las personas morales que directamente se dediquen a la extracción, producción o elaboración del producto que se pretenda amparar;
+
+II.- Las cámaras o asociaciones de fabricantes o productores vinculados con el producto que se pretenda amparar con la indicación;
+
+III.- Las dependencias o entidades del Gobierno Federal, y
+
+IV.- Los gobiernos de las Entidades de la Federación en cuyo territorio o zona geográfica se extraiga, produzca o elabore el producto que se pretenda amparar.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 98 BIS 2.- La solicitud de registro de una marca de certificación deberá acompañarse de las reglas para su uso, en las que se indique:
+
+I.- Los productos o servicios a los que se aplicará la marca;
+
+II.- La representación de la marca;
+
+III.- Las especificaciones técnicas que definan los caracteres particulares del producto o servicio tales como el origen de las materias primas, las condiciones de producción, su procedimiento de transformación, sus características físicas, químicas, tóxicas, bacteriológicas o de utilización, su composición o etiquetado;
+
+IV.- El procedimiento de comprobación de los caracteres específicos señalados en la fracción anterior;
+
+V.- Las modalidades y periodicidad con que se deberán ejercer los controles de calidad sobre la producción del bien en sus diversas etapas, así como en la transformación y comercialización del mismo;
+
+VI.- El régimen de sanciones para el caso de incumplimiento de las reglas de uso;
+
+VII.- La indicación de que la marca no podrá ser objeto de licencia;
+
+VIII.- La indicación sobre el ejercicio de las acciones legales de protección;
+
+IX.- En su caso, el grado de concordancia de las reglas para su uso con las Normas Oficiales Mexicanas, Normas Mexicanas o cualquier otra norma o lineamiento internacional, y
+
+X.- Las demás que estime pertinentes el solicitante.
+
+Las reglas antes señaladas permitirán el acceso a cualquier persona que cumpla con las mismas.
+
+En el caso de la fracción VIII del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos contra terceros.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 98 BIS 3.- La marca de certificación no será objeto de licencia, quedando su uso reservado a las personas que cumplan con las condiciones determinadas en las reglas para su uso.
+
+Las marcas de certificación se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 98 BIS 4.- El titular de una marca de certificación autorizará su uso a toda persona cuyo producto o servicio cumpla con las condiciones determinadas en las reglas para su uso.
+
+Solo los usuarios autorizados podrán usar junto con la marca de certificación, el término “Marca de Certificación Registrada”.
+
+En caso de las marcas de certificación que protejan indicaciones geográficas nacionales se deberá estar a las disposiciones establecidas en el Título Quinto, Capítulo III, De la Autorización para su Uso.
+
+Artículo 98 BIS 5.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
+
+Artículo 98 BIS 6.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
+
+Artículo 98 BIS 7.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
+
+Artículo 98 BIS 8.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
+
+Artículo 98 BIS 9.- (DEROGADO, D.O.F. 18 DE MAYO DE 2018)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE MAYO DE 2018)</small>
+
+### CAPÍTULO II BIS. De las Marcas Notoriamente Conocidas y Famosas
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 98 TER.- Para efectos de su estimación o declaración por el Instituto, se entenderá que una marca es notoriamente conocida en México, cuando un sector determinado del público o de los círculos comerciales del país, conoce la marca como consecuencia de las actividades comerciales desarrolladas en México o en el extranjero por una persona que emplea esa marca en relación con sus productos o servicios o bien, como consecuencia de la promoción o publicidad de la misma.
 
 Para efectos de su estimación o declaración por el Instituto, se entenderá que una marca es famosa en México, cuando sea conocida por la mayoría del público consumidor.
 
 A efecto de demostrar la notoriedad o fama de la marca, podrán emplearse todos los medios probatorios permitidos por esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-Artículo 98 BIS 1.- La declaratoria o cualquiera de sus actualizaciones constituyen un acto administrativo por medio del cual el Instituto declara, con base en los elementos de prueba aportados, que las condiciones por virtud de las cuales una marca es notoriamente conocida o famosa, subsisten al tiempo en que el acto se emite.
+Artículo 98 TER 1.- La declaratoria o cualquiera de sus actualizaciones constituyen un acto administrativo por medio del cual el Instituto declara, con base en los elementos de prueba aportados, que las condiciones por virtud de las cuales una marca es notoriamente conocida o famosa, subsisten al tiempo en que el acto se emite.
 
-Los impedimentos previstos en el artículo 90 fracciones XV y XV bis, para la protección de marcas notoriamente conocidas o famosas, se aplicarán con independencia de que éstas se encuentren registradas o declaradas.
+Los impedimentos previstos en el artículo 90, fracciones XVI y XVII, para la protección de marcas notoriamente conocidas o famosas, se aplicarán con independencia de que éstas se encuentren registradas o declaradas.
 
-Sin embargo, para que el titular de una marca pueda obtener declaratoria, la misma debe estar registrada en México y amparar los productos o servicios en los que la marca originó su notoriedad o fama.
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
-
-Artículo 98 BIS 2.- Para efectos de obtener la declaratoria de notoriedad o fama, el solicitante deberá aportar, entre otros, los siguientes datos:
+Artículo 98 TER 2.- Para efectos de obtener la declaratoria de notoriedad o fama, el solicitante aportará los siguientes datos:
 
 I. El sector del público integrado por los consumidores reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley.
 
@@ -1187,89 +1389,77 @@ II. Otros sectores del público diversos a los consumidores reales o potenciales
 
 III. Los círculos comerciales integrados por los comerciantes, industriales o prestadores de servicios relacionados con el género de productos o servicios, que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley.
 
-IV. La fecha de primer uso de la marca en México y en su caso en el extranjero.
+IV. La fecha de primer uso de la marca en México y, en su caso, en el extranjero.
 
-V. El tiempo de uso continuo de la marca en México y en su caso en el extranjero.
+V. El tiempo de uso continuo de la marca en México y, en su caso, en el extranjero.
 
-VI. Los canales de comercialización en México y en su caso en el extranjero.
+VI. Los canales de comercialización en México y, en su caso, en el extranjero.
 
-VII. Los medios de difusión de la marca en México y en su caso en el extranjero.
+VII. Los medios de difusión de la marca en México y, en su caso, en el extranjero.
 
-VIII. El tiempo de publicidad efectiva de la marca en México y en su caso en el extranjero.
+VIII. El tiempo de publicidad efectiva de la marca en México y, en su caso, en el extranjero.
 
-IX. La inversión realizada durante los 3 últimos años en publicidad o promoción de la marca en México y en su caso en el extranjero.
+IX. La inversión realizada durante los tres últimos años en publicidad o promoción de la marca en México y, en su caso, en el extranjero.
 
 X. El área geográfica de influencia efectiva de la marca.
 
-XI. El volumen de ventas de los productos o los ingresos percibidos por la prestación de los servicios amparados bajo la marca, durante los últimos 3 años.
+XI. El volumen de ventas de los productos o los ingresos percibidos por la prestación de los servicios amparados bajo la marca, durante los últimos tres años.
 
 XII. El valor económico que representa la marca, en el capital contable de la compañía titular de ésta o conforme a avalúo que de la misma se realice.
 
-XIII. Los registros de la marca en México y en su caso en el extranjero.
+XIII. Las franquicias y licencias que respecto a la marca hayan sido otorgadas.
 
-XIV. Las franquicias y licencias que respecto a la marca hayan sido otorgadas.
+XIV. El porcentaje de la participación de la marca en el sector o segmento correspondiente del mercado.
 
-XV. El porcentaje de la participación de la marca en el sector o segmento correspondiente del mercado.
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
-
-Artículo 98 BIS 3.- El Instituto presumirá, salvo prueba en contrario, que las condiciones que originaron la declaratoria o sus actualizaciones, subsisten por un período de cinco años a partir de la fecha de su expedición; en consecuencia, durante dicho período deberá aplicar según corresponda, el impedimento previsto en artículo 90 fracción XV o el previsto en la fracción XV bis, de manera expedita.
+Artículo 98 TER 3.- El Instituto presumirá, salvo prueba en contrario, que las condiciones que originaron la declaratoria o sus actualizaciones, subsisten por un período de cinco años a partir de la fecha de su expedición; en consecuencia, durante dicho período deberá aplicar según corresponda, el impedimento previsto en el artículo 90, fracción XVI o el previsto en la fracción XVII, de manera expedita.
 
 La declaratoria podrá actualizarse en cualquier tiempo, a petición de quien tenga interés jurídico, siempre que acredite que las condiciones que le dieron origen subsisten a la fecha de la solicitud respectiva.
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-Artículo 98 BIS 4.- La solicitud de declaración de notoriedad o fama se hará por escrito con las formalidades que para las solicitudes y promociones están señaladas en esta Ley y su Reglamento, a la que se acompañarán los elementos probatorios que funden la petición y en la que se expresará cuando menos lo siguiente:
+Artículo 98 TER 4.- La solicitud de declaración de notoriedad o fama se hará por escrito con las formalidades que para las solicitudes y promociones están señaladas en esta Ley y su reglamento, a la que se acompañarán los elementos probatorios que funden la petición y en la que se expresará cuando menos lo siguiente:
 
-I. Nombre, nacionalidad, domicilio, teléfono, fax y correo electrónico del solicitante y en su caso de su apoderado;
+I. Nombre, nacionalidad, domicilio, teléfono y correo electrónico del solicitante y, en su caso, de su apoderado, y
 
-II. La marca y el número de registro que le corresponde, y
+II. Los documentos y elementos probatorios que se acompañan a la solicitud.
 
-III. Los documentos y elementos probatorios que se acompañan a la solicitud.
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
-
-Artículo 98 BIS 5.- Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los elementos, datos y documentos aportados.
+Artículo 98 TER 5.- Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los elementos, datos y documentos aportados.
 
 Si a juicio del Instituto, éstos no satisfacen los requisitos legales o resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, se prevendrá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de cuatro meses.
 
 Si el solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud será desechada.
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-Artículo 98 BIS 6.- Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá la declaratoria correspondiente.
+Artículo 98 TER 6.- Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá la declaratoria correspondiente.
 
 En caso de que el Instituto niegue el otorgamiento de la declaratoria, lo notificará por escrito al solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos.
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-Artículo 98 BIS 7.- Las resoluciones sobre declaratorias de notoriedad o fama deberán ser publicadas en la Gaceta.
+Artículo 98 TER 7.- Las resoluciones sobre declaratorias de notoriedad o fama serán publicadas en la Gaceta.
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-Artículo 98 BIS 8.- Procederá la nulidad de la declaratoria:
+Artículo 98 TER 8.- Procederá la nulidad de la declaratoria cuando:
 
-Cuando se haya otorgado en contravención a las disposiciones de este Capítulo.
+I.- Se haya otorgado en contravención a las disposiciones de esta Ley, y
 
-Cuando las pruebas en las que se sustente la declaratoria sean falsas.
-
-Cuando se haya otorgado con base en una incorrecta valoración de las pruebas.
-
-Cuando se hubiese concedido a quien no tuviera derecho de obtenerla.
+II.- Se hubiese concedido a quien no tuviera derecho a obtenerla.
 
 Las declaraciones administrativas de nulidad se harán por el Instituto, a petición de quien tenga interés jurídico y acredite los supuestos en los que funda su solicitud.
 
-Cuando el o los registros marcarios que sirvieron de base para emitir la declaratoria, se nulifiquen, caduquen o cancelen, la declaratoria perderá su valor probatorio.
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
-
-Artículo 98 BIS 9.- Para efectos de su transmisión, la declaratoria se considerará ligada al o los registros marcarios que le dieron origen.
+Artículo 98 TER 9.- Para efectos de su transmisión, la declaratoria se considerará ligada al o los registros marcarios que le dieron origen.
 
 ### Capítulo III. De los Avisos Comerciales
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
-
-### Capítulo IV. De los Nombres Comerciales
 
 ###### Artículo 99.
 
@@ -1299,9 +1489,7 @@ El registro de un aviso comercial tendrá una vigencia de diez años a partir de
 
 Los avisos comerciales se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
 
-### Capítulo V. Del Registro de Marcas
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+### Capítulo IV. De los Nombres Comerciales
 
 ###### Artículo 105.
 
@@ -1341,25 +1529,29 @@ En la transmisión de una empresa o establecimiento se comprenderá el derecho d
 
 El nombre comercial se regirá en lo que sea aplicable y no haya disposición especial, por lo establecido en esta Ley para las marcas.
 
-### Capítulo VI. De las Licencias y la Transmisión de Derechos
+### Capítulo V. Del Registro de Marcas
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 113.
 
 Para obtener el registro de una marca deberá presentarse solicitud por escrito ante el Instituto con los siguientes datos:
 
-I.- Nombre, nacionalidad y domicilio del solicitante;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+I.- Nombre y domicilio del solicitante;
 
-II.- El signo distintivo de la marca, mencionando si es nominativo, innominado, tridimensional o mixto;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+II.- La representación del signo que constituya la marca;
 
-III.- La fecha de primer uso de la marca, la que no podrá ser modificada ulteriormente, o la mención de que no se ha usado. A falta de indicación se presumirá que no se ha usado la marca;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-IV.- Los productos o servicios a los que se aplicará las marca (sic), y
+III.- La fecha de primer uso de la marca en México o, en su caso, la mención de que no se ha usado. A falta de indicación se entenderá que no se ha usado la marca;
+
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+IV.- Los productos o servicios específicos a los que se aplicará la marca, y
 
 V.- Los demás que prevenga el reglamento de esta Ley.
 
@@ -1369,11 +1561,9 @@ V.- Los demás que prevenga el reglamento de esta Ley.
 
 A la solicitud de registro de marca deberá acompañarse el comprobante del pago de las tarifas correspondientes al estudio de la solicitud, registro y expedición del título, así como los ejemplares de la marca cuando sea innominada, tridimensional o mixta.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
-
 ###### Artículo 115.
 
-En los ejemplares de la marca que se presenten con la solicitud no deberán aparecer palabras o leyendas que puedan engañar o inducir a error al público. Cuando la solicitud se presente para proteger una marca innominada o tridimensional, los ejemplares de la misma no deberán contener palabras que constituyan o puedan constituir una marca, a menos de que se incluya expresamente reserva sobre la misma.
+(DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1397,31 +1587,43 @@ III.- Que dentro de los tres meses siguientes a la presentación de la solicitud
 
 IV.- (DEROGADA, D.O.F. 2 DE AGOSTO DE 1994)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
 ###### Artículo 119.
 
 Recibida la solicitud, el Instituto procederá a su publicación en la Gaceta, a más tardar en los diez días hábiles siguientes a su recepción, y efectuará un examen de forma de la misma, así como de la documentación exhibida, para comprobar si se cumplen los requisitos que previene esta Ley y su reglamento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 120.
 
-Cualquier persona que considere que la solicitud publicada se encuentra en alguno de los supuestos previstos en los artículos 4o. y 90 de esta Ley podrá oponerse a su registro, dentro del plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la publicación respectiva.
+El Instituto otorgará un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la publicación en la Gaceta del Instituto, para que cualquier tercero que tenga interés, se oponga a la solicitud de registro o publicación por considerar que ésta incurre en los supuestos previstos en los artículos 4o. y 90 de esta Ley.
 
-La oposición deberá presentarse por escrito, acompañada de la documentación que se estime conveniente, así como del comprobante de pago de la tarifa correspondiente.
+La oposición deberá presentarse por escrito, acompañarse de las pruebas respectivas, así como del comprobante de pago de la tarifa correspondiente.
 
-La oposición a la solicitud no suspenderá el trámite, ni atribuirá a la persona que la hubiere presentado el carácter de interesado, tercero o parte. Tampoco prejuzgará sobre el resultado del examen de fondo que realice el Instituto sobre la solicitud.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-Transcurrido el plazo a que se refiere el primer párrafo del presente artículo, el Instituto publicará en la Gaceta, a más tardar en los diez días hábiles siguientes, un listado de las solicitudes en las cuales se haya presentado oposición al registro.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-El solicitante podrá manifestar por escrito lo que a su derecho convenga en relación con las causas, impedimentos o anterioridades citadas en la oposición, dentro del plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la publicación respectiva.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-La oposición así como las manifestaciones del solicitante podrán ser consideradas por el Instituto durante el examen de fondo de la solicitud.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 120 BIS.- Transcurrido el plazo a que se refiere el primer párrafo del artículo 120, el Instituto notificará al solicitante a través de la Gaceta sobre las oposiciones recibidas, otorgándole un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar por escrito lo que a su derecho convenga en relación con la oposición y, en su caso, presente pruebas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 120 BIS 1.- Para el trámite de la oposición se admitirán toda clase de pruebas con excepción de la confesional y testimonial, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias a la moral y al derecho.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 120 BIS 2.- Transcurrido el plazo a que se refiere el artículo 120 BIS de esta Ley, y desahogadas las pruebas, las actuaciones se pondrán a disposición del solicitante y de las personas que hubieren presentado oposiciones para que, en su caso, formulen por escrito alegatos en un plazo de dos días, los cuales serán tomados en cuenta por el Instituto. Una vez transcurrido dicho plazo se procederá sin mayor trámite al examen de fondo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Artículo 120 BIS 3.- La oposición al registro o publicación de una solicitud no suspenderá el trámite, ni tampoco prejuzgará sobre el resultado del examen de fondo que realice el Instituto sobre la solicitud.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1445,11 +1647,11 @@ Si la solicitud o la documentación exhibida no cumple con los requisitos legale
 
 Artículo 122 BIS.- El interesado tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refiere el artículo anterior, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.
 
-El plazo adicional, se contará a partir del día siguiente al del vencimiento del plazo de dos meses previsto en el artículo 122 anterior.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+El plazo adicional, se contará a partir del día hábil siguiente al del vencimiento del plazo de dos meses previsto en el artículo 122 anterior.
 
 La solicitud se tendrá por abandonada si el solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
@@ -1467,11 +1669,15 @@ III.- Ser objeto de la publicación a la que se refiere el artículo 119 de esta
 
 En este supuesto, se considerará como fecha de presentación aquella en la que se solicite el nuevo trámite.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 124.
 
-Si el impedimento se refiere a la existencia de uno o varios registros de marcas idénticas o similares en grado de confusión sobre los cuales exista o se presente procedimiento de nulidad, caducidad o cancelación, a petición de parte o de oficio, el Instituto suspenderá el trámite de la solicitud hasta que se resuelva el procedimiento respectivo.
+El Instituto suspenderá el trámite de una solicitud de registro o publicación cuando la solicitud contenga un impedimento que se refiera a la existencia de uno o varios registros o publicaciones de uno o varios nombres comerciales, idénticos o similares en grado de confusión, sobre los cuales exista o se presente procedimiento de declaración administrativa de nulidad, caducidad o cancelación del o los registros o cesación de los efectos del nombre comercial.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Este supuesto procederá de oficio o a petición de quien inicie o haya iniciado la solicitud de declaración administrativa correspondiente, dentro del plazo establecido en el oficio de impedimento respectivo; o bien, cuando se presente el procedimiento a que se refiere el artículo 178 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1481,23 +1687,21 @@ Concluido el trámite de la solicitud y satisfechos los requisitos legales y reg
 
 En caso de que el Instituto niegue el registro de la marca, lo comunicará por escrito al solicitante, expresando los motivos y fundamentos legales de su resolución.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+El Instituto dictará la resolución que corresponda a las oposiciones recibidas, expresando los motivos y fundamentos legales de su resolución.
 
-En su caso el Instituto comunicará por escrito al oponente de la solicitud los datos del título expedido o los de la resolución que negó el registro, según corresponda.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 126.
 
-El Instituto expedirá un título por cada marca, como constancia de su registro. El título un ejemplar de la marca y en el mismo se hará constar:
+El Instituto expedirá un título por cada marca, como constancia de su registro. El título comprenderá la representación de la marca y en el mismo se hará constar:
 
 I.- Número de registro de la marca;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-II.- Signo distintivo de la marca, mencionando si es nominativa, innominada, tridimensional o mixta;
+II.- El signo que constituye la marca;
 
 III.- Productos o servicios a que se aplicará la marca;
 
@@ -1505,9 +1709,17 @@ IV.- Nombre y domicilio del titular;
 
 V.- Ubicación del establecimiento, en su caso;
 
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
 VI.- Fechas de presentación de la solicitud; de prioridad reconocida y de primer uso, en su caso; y de expedición, y
 
-VII.- Su vigencia.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+VII.- Vigencia.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Sólo podrán permitirse cambios en el título de una marca para corregir errores evidentes o de forma. Los cambios autorizados deberán ser publicados en la Gaceta.
 
 ###### Artículo 127.
 
@@ -1518,6 +1730,18 @@ Las resoluciones sobre registros de marcas y sus renovaciones deberán ser publi
 ###### Artículo 128.
 
 La marca deberá usarse en territorio nacional, tal como fue registrada o con modificaciones que no alteren su carácter distintivo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+El titular de una marca deberá declarar ante el Instituto, acompañando el pago de la tarifa correspondiente el uso real y efectivo de la marca.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Dicha declaración se deberá presentar durante los tres meses posteriores, contados a partir de que se cumpla el tercer año de haberse otorgado el registro.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Si el titular no declara el uso, el registro caducará de pleno derecho.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1539,35 +1763,43 @@ La declaratoria correspondiente se publicará en el Diario Oficial.
 
 Si una marca no es usada durante tres años consecutivos en los productos o servicios para los que fue registrada, procederá la caducidad de su registro, salvo que su titular o el usuario que tenga concedida licencia inscrita la hubiese usado durante los tres años consecutivos inmediatos anteriores a la presentación de la solicitud de declaración administrativa de caducidad, o que existan circunstancias surgidas independientemente de la voluntad del titular de la marca que constituyan un obstáculo para el uso de la misma, tales como restricciones a la importación u otros requisitos gubernamentales aplicables a los bienes o servicios a los que se aplique la marca.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 131.
 
-La ostentación de la leyenda "marca registrada", las siglas "M.R." o el símbolo ®, sólo podrá realizarse en el caso de los productos o servicios para los cuales dicha marca se encuentre registrada.
+Las leyendas "Marca Registrada", “Marca Colectiva Registrada” o “Marca de Certificación Registrada”, las siglas "M.R." o el símbolo ®, sólo podrán usarse para los productos o servicios para los cuales dicha marca se encuentre registrada.
 
 ###### Artículo 132.
 
 (DEROGADO, D.O.F. 2 DE AGOSTO DE 1994)
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 133.
 
-La renovación del registro de una marca deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia del registro. Vencido este plazo sin que se presente la solicitud de renovación, el registro caducará.
+La renovación del registro de una marca deberá solicitarse por el titular acompañando el pago de la tarifa correspondiente, declarando el uso real y efectivo de la marca.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+La solicitud se presentará dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Vencido este plazo sin que se presente la solicitud de renovación, el registro caducará de pleno derecho.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Los registros que se encuentren en el plazo de seis meses posteriores a la terminación de su vigencia, se considerarán como impedimento para el registro de un signo en términos de lo establecido por el artículo 90 fracciones XVIII y XIX de esta Ley.
 
 ###### Artículo 134.
 
-La renovación del registro de una marca sólo procederá si el interesado presenta el comprobante del pago de la tarifa correspondiente y manifiesta, por escrito y bajo protesta de decir verdad, usar la marca en por lo menos uno de los productos o servicios a los que se aplique y no haber interrumpido dicho uso por un plazo igual o mayor al contemplado en el artículo 130 de esta Ley, sin causa justificada.
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+(DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
 ###### Artículo 135.
 
-Si una misma marca se encuentra registrada para proteger determinados productos o servicios, bastará que proceda la renovación en alguno de dichos registros para que su uso surta efectos y beneficie a todos los registros, previa presentación del comprobante de pago de las tarifas correspondientes.
+(DEROGADO, D.O.F. 18 DE MAYO DE 2018)
 
-### Capítulo VII. De la Nulidad, Caducidad y cancelación de Registro
+### Capítulo VI. De las Licencias y la Transmisión de Derechos
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1681,15 +1913,17 @@ Podrá solicitarse mediante una sola promoción la inscripción de transferencia
 
 Cuando se dé la fusión de personas morales se entenderá que existe una transmisión de los derechos sobre marcas registradas, salvo estipulación en contrario.
 
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 145.
 
-Para efectos de su transmisión, se considerarán ligados los registros de las marcas de un mismo titular, cuando dichas marcas sean idénticas y amparen similares productos o servicios, o bien sean semejantes en grado de confusión y se apliquen a los mismos o similares productos o servicios.
+Para efectos de su transmisión, se considerarán ligados los registros o solicitudes en trámite de las marcas de un mismo titular, cuando éstas sean idénticas y amparen similares productos o servicios, o bien sean semejantes en grado de confusión y se apliquen a los mismos o similares productos o servicios.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 146.
 
-Cuando el titular de registros de dos o más marcas ligadas, considere que no existirá confusión en caso de que alguna de ellas fuera utilizada por otra persona, para los productos o servicios a que se aplica dicha marca, podrá solicitar que sea disuelta la liga impuesta. El Instituto resolverá en definitiva lo que proceda.
+Cuando el titular de registros o solicitudes en trámite de dos o más marcas ligadas, considere que no existirá confusión en caso de que alguna de ellas fuera utilizada por otra persona, para los productos o servicios a que se aplica dicha marca, podrá solicitar que sea disuelta la liga impuesta. El Instituto resolverá en definitiva lo que proceda.
 
 ###### Artículo 147.
 
@@ -1711,9 +1945,9 @@ Cuando se solicite la inscripción de alguna transmisión de marca registrada o 
 
 El Instituto negará la inscripción de una licencia o transmisión de derechos cuando el registro de la marca no se encuentre vigente.
 
-### Capítulo I. Disposiciones Comunes
+### Capítulo VII. De la Nulidad, Caducidad y cancelación de Registro
 
-> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 151.
 
@@ -1727,11 +1961,21 @@ II.- La marca sea idéntica o semejante en grado de confusión, a otra que haya 
 
 III.- El registro se hubiera otorgado con base en datos falsos contenidos en su solicitud;
 
-IV.- Se haya otorgado por error, inadvertencia, o diferencia de apreciación, existiendo en vigor otro que se considere invadido, por tratarse de una marca que sea igual o semejante en grado de confusión y que se aplique a servicios o productos iguales o similares; y
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-V.- El agente, el representante, el usuario o el distribuidor del titular de una marca registrada en el extranjero, solicite y obtenga el registro a su nombre de ésta u otra similar en grado de confusión, sin el consentimiento expreso del titular de la marca extranjera. En este caso el registro se reputará como obtenido de mala fe.
+IV.- Se haya otorgado por error, inadvertencia, o diferencia de apreciación, existiendo en vigor otro que se considere invadido, por tratarse de una marca que sea igual o semejante en grado de confusión y que se aplique a servicios o productos iguales o similares;
 
-Las acciones de nulidad que se deriven del presente artículo podrán ejercitarse dentro de un plazo de cinco años, contado a partir de la fecha en que surta sus efectos la publicación del registro en la Gaceta, excepto las relativas a las fracciones I y V que podrán ejercitarse en cualquier tiempo y a la fracción II que podrá ejercitarse dentro del plazo de tres años.
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+V.- El agente, el representante, el usuario o el distribuidor del titular, o cualquier otra persona que haya tenido relación con el titular, directa o indirecta, de una marca registrada en el extranjero, solicite y obtenga el registro, de ésta u otra semejante en grado de confusión, a su nombre sin el consentimiento expreso del titular de la marca extranjera, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+VI.- Se haya obtenido de mala fe.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Las acciones de nulidad previstas en las fracciones II, III y IV del presente artículo podrán ejercitarse dentro de un plazo de cinco años, contado a partir de la fecha en que surta sus efectos la publicación del registro en la Gaceta. Las relativas a las fracciones I, V y VI podrán ejercitarse en cualquier tiempo.
 
 ###### Artículo 152.
 
@@ -1739,9 +1983,13 @@ El registro caducará en los siguientes casos:
 
 I.- Cuando no se renueve en los términos de esta Ley, y
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-II.- Cuando la marca haya dejado de usarse durante los tres años consecutivos inmediatos anteriores a la solicitud de declaración administrativa de caducidad, salvo que exista causa justificada a juicio del Instituto.
+II.- Cuando la marca haya dejado de usarse durante los tres años consecutivos inmediatos anteriores a la solicitud de declaración administrativa de caducidad, salvo que exista causa justificada a juicio del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+III.- Cuando no se realice la declaratoria de uso real y efectivo en términos del artículo 128 de esta Ley.
 
 ###### Artículo 153.
 
@@ -1753,11 +2001,11 @@ Procederá la cancelación del registro de una marca, sí su titular ha provocad
 
 El titular de una marca registrada podrá solicitar por escrito, en cualquier tiempo, la cancelación de su registro. El Instituto podrá requerir la ratificación de la firma de la solicitud, en los casos que establezca el reglamento de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 155.
 
-La declaración de nulidad, caducidad o cancelación del registro de una marca, se hará administrativamente por el Instituto de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación. La caducidad a la que se refiere la fracción I del artículo 152 de esta Ley, no requerirá de declaración administrativa por parte del Instituto.
+La declaración de nulidad, caducidad o cancelación del registro de una marca, se hará administrativamente por el Instituto de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación. La caducidad a la que se refieren las fracciones I y III del artículo 152 de esta Ley, no requerirá de declaración administrativa por parte del Instituto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE MARZO DE 2018)</small>
 
@@ -1765,7 +2013,7 @@ La declaración de nulidad, caducidad o cancelación del registro de una marca, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE MARZO DE 2018)</small>
 
-### Capítulo II. Del Trámite de la Declaración de Protección
+### Capítulo I. Disposiciones Comunes
 
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
@@ -1839,73 +2087,9 @@ Además de las publicaciones previstas en este Título, se publicarán en la Gac
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE MARZO DE 2018)</small>
 
-### Capítulo III. De la Autorización para su Uso
+### Capítulo II. Del Trámite de la Declaración de Protección
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 14.- La autorización para usar una denominación de origen o indicación geográfica deberá ser solicitada ante el Instituto y se otorgará a toda persona física o moral que cumpla con los siguientes requisitos:
-
-I.- Que directamente se dedique a la extracción, producción o elaboración, de los productos protegidos por la denominación de origen o indicación geográfica;
-
-II.- Que realice tal actividad dentro del territorio o zona geográfica determinado en la declaración;
-
-III.- Que, en su caso, cumpla con las Normas Oficiales Mexicanas establecidas conforme a las leyes aplicables, respecto de los productos de que se trate, y
-
-IV.- Los demás que señale la declaración.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 15.- La solicitud para obtener una autorización de uso de denominación de origen o indicación geográfica deberá contener los datos y acompañarse de los documentos que señale el reglamento de esta Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 16.- Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los datos y documentos aportados. En caso de que se satisfagan los requisitos legales procederá su otorgamiento.
-
-Si los documentos presentados no satisfacen los requisitos o resultan insuficientes, se requerirá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo improrrogable de dos meses.
-
-Si el solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud se considerará abandonada.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 17.- Los efectos de la autorización para usar una denominación de origen o indicación geográfica durarán diez años, contados a partir de la fecha de presentación de la solicitud en el Instituto y podrán renovarse por períodos de la misma duración.
-
-La renovación deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia de la autorización. Vencido este plazo sin que se presente la solicitud de renovación, la autorización caducará.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 18.- El usuario autorizado estará obligado a usar la denominación de origen o indicación geográfica protegida, tal y como aparezca en la declaración correspondiente, así como a aplicar la leyenda "Denominación de Origen Protegida" o "Indicación Geográfica Protegida" o las siglas "D.O.P" o "I.G.P.", según corresponda, a los productos amparados por éstas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 19.- La denominación de origen o indicación geográfica podrá usarse en publicidad, documentación comercial, empaques, embalajes, envases o sobre los propios productos en que sea aplicada o de cualquier otra manera con propósitos comerciales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 20.- El uso ilegal de la denominación de origen o indicación geográfica protegida será sancionado, incluyendo los casos en que venga acompañada de expresiones tales como "género", "tipo", "manera", "imitación", "producido en", "con fabricación en" u otras similares que creen confusión en el consumidor o impliquen competencia desleal.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 21.- Se entenderá que una denominación de origen o indicación geográfica protegida se encuentra en uso, cuando los productos que ésta distingue lleven incorporada, aplicada, reproducida o grabada por cualquier medio, la denominación o indicación protegida; cuando los productos sean destinados para la exportación, o cuando los productos hayan sido puestos en el comercio o se encuentran disponibles en el mercado en el país en la cantidad y del modo que corresponde a los usos y costumbres en el comercio.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 22.- En caso de que la denominación de origen o indicación geográfica protegida no sea usada en la forma establecida por la declaración o esta Ley, el Instituto procederá a la cancelación de la autorización de uso.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 23.- El derecho a usar una denominación de origen o indicación geográfica protegida podrá ser transmitido por el usuario autorizado en los términos de la legislación común. Dicha transmisión deberá ser inscrita en el Instituto para que pueda producir efectos en perjuicio de terceros, previa comprobación de que el nuevo usuario cumple con las condiciones y requisitos establecidos en esta Ley para obtener el derecho a usarlas. La transmisión surtirá efectos a partir de su inscripción.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 24.- El usuario autorizado de una denominación de origen o indicación geográfica protegida podrá a su vez, mediante convenio, permitir el uso de ésta, únicamente a quienes distribuyan o vendan los productos de sus marcas. El convenio deberá inscribirse en el Instituto para que produzca efectos en perjuicio de terceros, a partir de dicha inscripción.
-
-El convenio deberá contener una cláusula en la que se establezca la obligación del distribuidor o comercializador de cumplir con los requisitos establecidos en las fracciones III y IV del artículo 165 BIS 14 y los previstos en el reglamento de esta Ley. En caso de que el distribuidor o comercializador no cumpliere con esta obligación, procederá la cancelación de la inscripción.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
-
-Artículo 165 BIS 25.- El usuario autorizado por el Instituto deberá inscribir ante el mismo, los cambios de nombre, denominación o razón social o transformación de régimen jurídico, así como los cambios de domicilio que correspondan, en los términos previstos en el reglamento de esta Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 13 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
 
 ###### Artículo 165.
 
@@ -2041,6 +2225,74 @@ Si la solicitud se presenta a petición de parte interesada, ésta deberá conte
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 13 DE MARZO DE 2018)</small>
 
+### Capítulo III. De la Autorización para su Uso
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 14.- La autorización para usar una denominación de origen o indicación geográfica deberá ser solicitada ante el Instituto y se otorgará a toda persona física o moral que cumpla con los siguientes requisitos:
+
+I.- Que directamente se dedique a la extracción, producción o elaboración, de los productos protegidos por la denominación de origen o indicación geográfica;
+
+II.- Que realice tal actividad dentro del territorio o zona geográfica determinado en la declaración;
+
+III.- Que, en su caso, cumpla con las Normas Oficiales Mexicanas establecidas conforme a las leyes aplicables, respecto de los productos de que se trate, y
+
+IV.- Los demás que señale la declaración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 15.- La solicitud para obtener una autorización de uso de denominación de origen o indicación geográfica deberá contener los datos y acompañarse de los documentos que señale el reglamento de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 16.- Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los datos y documentos aportados. En caso de que se satisfagan los requisitos legales procederá su otorgamiento.
+
+Si los documentos presentados no satisfacen los requisitos o resultan insuficientes, se requerirá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo improrrogable de dos meses.
+
+Si el solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud se considerará abandonada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 17.- Los efectos de la autorización para usar una denominación de origen o indicación geográfica durarán diez años, contados a partir de la fecha de presentación de la solicitud en el Instituto y podrán renovarse por períodos de la misma duración.
+
+La renovación deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia de la autorización. Vencido este plazo sin que se presente la solicitud de renovación, la autorización caducará.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 18.- El usuario autorizado estará obligado a usar la denominación de origen o indicación geográfica protegida, tal y como aparezca en la declaración correspondiente, así como a aplicar la leyenda "Denominación de Origen Protegida" o "Indicación Geográfica Protegida" o las siglas "D.O.P" o "I.G.P.", según corresponda, a los productos amparados por éstas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 19.- La denominación de origen o indicación geográfica podrá usarse en publicidad, documentación comercial, empaques, embalajes, envases o sobre los propios productos en que sea aplicada o de cualquier otra manera con propósitos comerciales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 20.- El uso ilegal de la denominación de origen o indicación geográfica protegida será sancionado, incluyendo los casos en que venga acompañada de expresiones tales como "género", "tipo", "manera", "imitación", "producido en", "con fabricación en" u otras similares que creen confusión en el consumidor o impliquen competencia desleal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 21.- Se entenderá que una denominación de origen o indicación geográfica protegida se encuentra en uso, cuando los productos que ésta distingue lleven incorporada, aplicada, reproducida o grabada por cualquier medio, la denominación o indicación protegida; cuando los productos sean destinados para la exportación, o cuando los productos hayan sido puestos en el comercio o se encuentran disponibles en el mercado en el país en la cantidad y del modo que corresponde a los usos y costumbres en el comercio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 22.- En caso de que la denominación de origen o indicación geográfica protegida no sea usada en la forma establecida por la declaración o esta Ley, el Instituto procederá a la cancelación de la autorización de uso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 23.- El derecho a usar una denominación de origen o indicación geográfica protegida podrá ser transmitido por el usuario autorizado en los términos de la legislación común. Dicha transmisión deberá ser inscrita en el Instituto para que pueda producir efectos en perjuicio de terceros, previa comprobación de que el nuevo usuario cumple con las condiciones y requisitos establecidos en esta Ley para obtener el derecho a usarlas. La transmisión surtirá efectos a partir de su inscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 24.- El usuario autorizado de una denominación de origen o indicación geográfica protegida podrá a su vez, mediante convenio, permitir el uso de ésta, únicamente a quienes distribuyan o vendan los productos de sus marcas. El convenio deberá inscribirse en el Instituto para que produzca efectos en perjuicio de terceros, a partir de dicha inscripción.
+
+El convenio deberá contener una cláusula en la que se establezca la obligación del distribuidor o comercializador de cumplir con los requisitos establecidos en las fracciones III y IV del artículo 165 BIS 14 y los previstos en el reglamento de esta Ley. En caso de que el distribuidor o comercializador no cumpliere con esta obligación, procederá la cancelación de la inscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
+
+Artículo 165 BIS 25.- El usuario autorizado por el Instituto deberá inscribir ante el mismo, los cambios de nombre, denominación o razón social o transformación de régimen jurídico, así como los cambios de domicilio que correspondan, en los términos previstos en el reglamento de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 13 DE MARZO DE 2018)</small>
+
 ### Capítulo IV. De la Cesación de los Efectos de las Declaraciones y de las Autorizaciones de Uso
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE MARZO DE 2018)</small>
@@ -2082,10 +2334,6 @@ La caducidad a que se refiere la fracción II del artículo anterior, no requeri
 ### Capítulo V. Del Reconocimiento a las Denominaciones de Origen e Indicaciones Geográficas Protegidas en el Extranjero
 
 > <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2018)</small>
-
-### Capítulo I. Reglas Generales de los Procedimientos
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 166.
 
@@ -2317,7 +2565,7 @@ El titular del registro de un esquema de trazado podrá demandar daños y perjui
 
 ## TITULO SEXTO. De los Procedimientos Administrativos
 
-### Capítulo II. Del Procedimiento de Declaración Administrativa
+### Capítulo I. Reglas Generales de los Procedimientos
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2327,11 +2575,19 @@ Toda solicitud o promoción dirigida al Instituto, con motivo de lo dispuesto en
 
 Los documentos que se presenten en idioma diferente deberán acompañarse de su traducción al español.
 
-> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 180.
 
-Las solicitudes y promociones deberán ser firmadas por el interesado o su representante y estar acompañadas del comprobante de pago de la tarifa correspondiente, en su caso. La falta de firma de la solicitud o promoción producirá su desechamiento de plano; en el caso de la falta de pago de la tarifa, el Instituto requerirá al promovente, otorgándole un plazo de cinco días hábiles por única vez, para que subsane su omisión, y sólo en caso de que el particular no atienda el apercibimiento, desechará de plano la solicitud o promoción.
+Las solicitudes y promociones deberán ser firmadas por el interesado o su representante y, en su caso, estar acompañadas del comprobante de pago de la tarifa correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+La falta de firma de la solicitud o promoción producirá su desechamiento de plano.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Ante la falta del comprobante de pago, el Instituto requerirá, por única ocasión, al solicitante para que exhiba el pago de las tarifas que correspondan en un plazo de cinco días hábiles. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud o promoción será desechada de plano.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2351,8 +2607,6 @@ IV.- En los casos no comprendidos en la fracción II, mediante poder otorgado co
 
 En cada expediente que se tramite deberá acreditarse la personalidad del solicitante o promovente; sin embargo, bastará con una copia simple de la constancia de registro, si el poder se encuentra inscrito en el registro general de poderes establecido por el Instituto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
 
 Para acreditar la personalidad en las solicitudes de registro de marca, marca colectiva, aviso comercial y publicación de nombre comercial; sus renovaciones; inscripciones de licencias de uso o transmisiones; cambio de domicilio del solicitante o titular, o cambio de ubicación del establecimiento, bastará que en la solicitud el mandatario manifieste por escrito, bajo protesta de decir verdad, que cuenta con facultades para llevar a cabo el trámite correspondiente, siempre y cuando se trate del mismo apoderado desde su inicio hasta su conclusión.
@@ -2365,15 +2619,23 @@ Si con posterioridad a la presentación de la solicitud interviene un nuevo mand
 
 Cuando una solicitud o promoción sea presentada por varias personas, se deberá designar en el escrito quién de ellos será el representante común. De no hacerse esto, se entenderá que el representante común es la primera persona de las nombradas.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 183.
 
-En toda solicitud, el promovente deberá señalar domicilio para oír y recibir notificaciones dentro del territorio nacional y deberá comunicar al Instituto cualquier cambio del mismo. En caso de que no se dé el aviso de cambio de domicilio, las notificaciones se tendrán por legalmente realizadas en el domicilio que aparezca en el expediente.
+En toda solicitud, el promovente deberá señalar domicilio para oír y recibir notificaciones dentro del territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-En los procedimientos de declaración administrativa previstos en la presente ley, las resoluciones de trámite y definitivas dictadas dentro de los mismos, así como todas aquellas dictadas en procedimientos seguidos en rebeldía, podrán ser notificadas a las partes por estrados en el instituto y mediante publicación en la Gaceta, cuando no haya sido posible realizarla en el domicilio al que se refiere el párrafo anterior.
+El Instituto notificará a través de la Gaceta todas las resoluciones, requerimientos y demás actos que emita, relacionados con el trámite de patentes, registros y publicaciones nacionales, así como los relativos a la conservación de derechos, salvo los expedientes que se encuentren en el supuesto previsto en el artículo 186 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+En los procedimientos de declaración administrativa previstos en la presente Ley, incluyendo aquellos seguidos en rebeldía, las resoluciones de trámite y definitivas dictadas podrán ser notificadas a las partes por estrados en el Instituto y mediante publicación en la Gaceta, cuando no haya sido posible realizarla en el domicilio al que se refiere el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+El promovente deberá comunicar al Instituto cualquier cambio en el domicilio para oír y recibir notificaciones. En caso de que no se dé aviso, las notificaciones que se practiquen se tendrán por legalmente realizadas en el domicilio que aparezca en el expediente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2381,7 +2643,9 @@ En los procedimientos de declaración administrativa previstos en la presente le
 
 En los plazos fijados por esta Ley en días, se computarán únicamente los hábiles; tratándose de términos referidos a meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles.
 
-Los plazos empezarán a correr al día siguiente de la notificación respectiva. Las publicaciones en Gaceta surtirán efectos de notificación en la fecha que en la propia Gaceta se indique o, en su defecto, al día siguiente de aquél en que se ponga en circulación.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+Los plazos empezarán a correr al día hábil siguiente de la notificación respectiva. Las publicaciones en Gaceta surtirán efectos de notificación en la fecha que en la propia Gaceta se indique o, en su defecto, al día hábil siguiente de aquél en que se ponga en circulación.
 
 ###### Artículo 185.
 
@@ -2401,7 +2665,7 @@ Se exceptúa de lo anterior a la información que sea de carácter oficial o la 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
-### Capítulo III. Del Recurso de Reconsideración
+### Capítulo II. Del Procedimiento de Declaración Administrativa
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2629,9 +2893,9 @@ Artículo 199 BIS 7.- El solicitante sólo podrá utilizar la documentación rel
 
 Artículo 199 BIS 8.- En los procedimientos de declaración administrativa de infracción, el Instituto buscará en todo momento conciliar los intereses de los involucrados.
 
-### Capítulo I. De la Inspección
+### Capítulo III. Del Recurso de Reconsideración
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 200.
 
@@ -2651,7 +2915,9 @@ Sí la resolución que emita el Instituto niega la procedencia del recurso se co
 
 ## TITULO SEPTIMO. De la Inspección, de las Infracciones y Sanciones Administrativas y de los Delitos
 
-### Capítulo II. De las Infracciones y Sanciones Administrativas
+### Capítulo I. De la Inspección
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 203.
 
@@ -2783,9 +3049,7 @@ a) La donación de los bienes a dependencias y entidades de la Administración P
 
 b) La destrucción de los mismos.
 
-### Capítulo III. De los Delitos
-
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
+### Capítulo II. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 213.
 
@@ -2805,9 +3069,9 @@ V.- Usar, sin consentimiento de su titular, una marca registrada o semejante en 
 
 VI.- Usar, dentro de la zona geográfica de la clientela efectiva o en cualquier parte de la República, en el caso previsto por el artículo 105 de esta Ley, un nombre comercial idéntico o semejante en grado de confusión, con otro que ya esté siendo usado por un tercero, para amparar un establecimiento industrial, comercial o de servicios del mismo o similar giro;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
 
-VII.- Usar como marcas las denominaciones, signos, símbolos, siglas o emblemas a que se refiere el artículo 4o. y las fracciones VII, VIII, IX, XII, XIII, XIV y XV del artículo 90 de esta Ley;
+VII.- Usar como marcas las denominaciones, signos, símbolos, siglas o emblemas a que se refiere el artículo 4o. y las fracciones VII, VIII, IX, XII, XIII, XIV, XV, XVI, XVII y XX del artículo 90 de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2923,7 +3187,7 @@ XXXI.- Usar la traducción o transliteración de una denominación de origen o i
 
 > <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
-XXXII.- Producir, almacenar, transportar, distribuir o vender productos idénticos o semejantes a los que se encuentren protegidos por una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, utilizando cualquier tipo de indicación o elemento que cree confusión en el consumidor sobre su origen o calidad, tales como "género", "tipo", "manera", "imitación”, “producido en”, “con fabricación en” u otras similares, y
+XXXII.- Producir, almacenar, transportar, distribuir o vender productos idénticos o semejantes a los que se encuentren protegidos por una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, utilizando cualquier tipo de indicación o elemento que cree confusión en el consumidor sobre su origen o calidad, tales como "género", "tipo", "manera", "imitación", "producido en", "con fabricación en" u otras similares, y
 
 > <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2018)</small>
 
@@ -3010,6 +3274,10 @@ Artículo 221 BIS.- La reparación del daño material o la indemnización de da�
 ###### Artículo 222.
 
 Si del análisis del expediente formado con motivo de la investigación por infracción administrativa el Instituto advierte la realización de hechos que pudieran constituir alguno de los delitos previstos en esta Ley, así lo hará constar en la resolución que emita.
+
+### Capítulo III. De los Delitos
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 223.
 
@@ -3320,3 +3588,11 @@ Quinto.- Las solicitudes de denominaciones de origen que se encuentren en trámi
 Sexto.- Una solicitud de una denominación de origen en trámite podrá transformarse en una de indicación geográfica, si cumple con los requisitos que se establecen en el presente Decreto y presenta la solicitud de transformación, a la que se refiere su artículo 165 BIS 3, en el plazo de 2 meses contados a partir de la entrada en vigor.
 
 Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado al Instituto Mexicano de la Propiedad Industrial para el presente ejercicio fiscal y los subsecuentes que correspondan.
+
+D.O.F. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA PROPIEDAD INDUSTRIAL".]
+
+Primero.- El presente Decreto entrará en vigor a los sesenta días hábiles siguientes a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las solicitudes de registro de marca o aviso comercial o publicación de nombre comercial, incluyendo las oposiciones que se hayan presentado, que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones vigentes al momento de su presentación.
