@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2018-03-28"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -399,11 +399,17 @@ XXXIV. Impulsar la participación ciudadana para la atención de necesidades soc
 
 XXXV. Vigilar la observancia y aplicación de las disposiciones contenidas en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXXVI. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
 
-XXXVII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+XXXVI. Organizar y supervisar a las policías de tránsito del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y los convenios respectivos;
 
-XXXVIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
+
+XXXVII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
+
+XXXVIII. Supervisar y controlar el tránsito vehicular y peatonal, conforme lo disponga la ley y los convenios respectivos;
 
 XXXIX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
@@ -1869,11 +1875,11 @@ XII. Coordinar el registro estatal de personal, armamento y equipo de todos los 
 
 XIII. Proponer al Ejecutivo el nombramiento del Director de la Policía Estatal Preventiva;
 
-XIV. Organizar y supervisar a las policías de tránsito del estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y los convenios respectivos;
+XIV. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
-XV. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos;
+XV. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
-XVI. Supervisar y controlar el tránsito vehicular y peatonal, conforme lo disponga la ley y los convenios respectivos;
+XVI. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
 XVII. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del orden, así como preservar la libertad, el orden y la paz públicos;
 
@@ -2464,3 +2470,17 @@ P.O. 28 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Dentro de los treinta días naturales siguientes de la publicación del presente Decreto, la Secretaría de Administración y Finanzas del Gobierno del Estado deberá impulsar las adecuaciones presupuestales que resulten necesarias.
+
+TERCERO. Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones necesarias a las disposiciones reglamentarias que resulten aplicables.
+
+CUARTO. A la entrada en vigor del presente Decreto, la Secretaría de Seguridad Pública realizará las acciones conducentes para permitir el traspaso de los recursos humanos, materiales, técnicos y financieros que correspondan al objeto del mismo, a la Secretaría General de Gobierno, de conformidad con los acuerdos de transferencia que al efecto disponga el titular del Poder Ejecutivo.
+
+QUINTO. Los servidores públicos adscritos a la Secretaría de Seguridad Pública que habrán de asignarse a la Secretaría General de Gobierno no resultarán afectados en sus derechos laborales adquiridos.
