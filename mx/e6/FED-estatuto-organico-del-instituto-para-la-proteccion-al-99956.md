@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-99956"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-03-27"
-last_updated: "2016-09-15"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-03-19"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de marzo de 2014.
 
@@ -239,13 +239,13 @@ El Secretario Adjunto de Administración y Presupuesto será suplido en sus ause
 
 El Director General de Finanzas será suplido en sus ausencias por el titular de la Dirección General Adjunta de Planeación Financiera, o por el titular de la Dirección General Adjunta de Tesorería, en el orden indicado.
 
-El Director General de Seguimiento de Instituciones y Análisis será suplido en sus ausencias por el titular de la Dirección General Adjunta de Modelos de Información y Análisis, o por el titular de la Dirección General Adjunta de Seguimiento de Instituciones “A”, o por el titular de la Dirección General Adjunta de Seguimiento de Instituciones “B”, en el orden indicado.
+El Director General de Seguimiento de Instituciones y Análisis será suplido en sus ausencias por el titular de la Dirección General Adjunta de Modelos de Información y Análisis, o por el titular de la Dirección General Adjunta de Seguimiento de Instituciones "A", o por el titular de la Dirección General Adjunta de Seguimiento de Instituciones "B", en el orden indicado.
 
 El Director General de Resoluciones Bancarias será suplido en sus ausencias por el titular de la Dirección General Adjunta de Métodos de Resolución, o por el titular de la Dirección General Adjunta de Seguimiento de Resoluciones Bancarias, en el orden indicado.
 
 > <small>(REFORMADO, D.O.F. 15 DE MARZO DE 2016)</small>
 
-El Director General de Visitas de Inspección será suplido en sus ausencias por el titular de la Dirección General Adjunta de Análisis e Inspección “A”, por el titular de la Dirección General Adjunta de Análisis e Inspección “B”, o por el titular de la Dirección General Adjunta de Análisis e Inspección “C”, en el orden indicado.
+El Director General de Visitas de Inspección será suplido en sus ausencias por el titular de la Dirección General Adjunta de Análisis e Inspección "A", por el titular de la Dirección General Adjunta de Análisis e Inspección "B", o por el titular de la Dirección General Adjunta de Análisis e Inspección "C", en el orden indicado.
 
 El Director General de Administración y Seguimiento de Activos será suplido en sus ausencias por el titular de la Dirección General Adjunta de Administración de Activos, o por el titular de la Dirección General Adjunta de Análisis y Seguimiento de Activos, en el orden indicado.
 
@@ -257,9 +257,9 @@ El Director General Jurídico de lo Contencioso será suplido en sus ausencias p
 
 El Director General Jurídico de Normatividad y Consulta será suplido en sus ausencias por el titular de la Dirección General Adjunta Jurídica de Normatividad y Consulta, o por el titular de la Dirección General Adjunta Jurídica de Contrataciones Administrativas y Procedimientos Legales, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
 
-El Director General Adjunto de Administración será suplido en sus ausencias por el titular de la Dirección de Recursos Materiales y Servicios Generales, o por el titular de la Dirección de Remuneraciones y Programas Institucionales, en el orden indicado.
+El Director General Adjunto de Administración será suplido en sus ausencias por el titular de la Dirección de Recursos Materiales y Servicios Generales, o por el titular de la Dirección de Programas Institucionales y Control Documental, en el orden indicado.
 
 El Director General Adjunto de Presupuesto y Contabilidad será suplido en sus ausencias por el titular de la Dirección de Programación y Presupuesto, o por el titular de la Dirección de Contabilidad Financiera, en el orden indicado.
 
@@ -269,7 +269,9 @@ El Director General de Planeación Estratégica y Procesos será suplido en sus 
 
 El Director General de Comunicación Social y Relaciones Institucionales será suplido en sus ausencias por el titular de la Dirección de Información, por el titular de la Dirección de Difusión, o por el titular de la Dirección de Análisis, en el orden indicado.
 
-El Director General de Tecnologías de la Información será suplido en sus ausencias por el titular de la Dirección de Infraestructura Tecnológica, por el titular de la Dirección de Sistemas, o por el titular de la Dirección de Gestión de Tecnologías de la Información, en el orden indicado.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+El Director General de Tecnologías de la Información será suplido en sus ausencias por el titular de la Dirección de Infraestructura Tecnológica, por el titular de la Dirección de Sistemas, o por el titular de la Dirección de Seguridad y Cumplimiento de Tecnologías de la Información y Comunicaciones, en el orden indicado.
 
 El servidor público que ejerza la facultad prevista en este artículo deberá indicar que actúa en los términos de esta disposición.
 
@@ -969,7 +971,7 @@ Corresponde al titular de la Dirección General Adjunta de Administración, el e
 
 I. Elaborar y aplicar políticas y lineamientos en materia de recursos materiales, adquisiciones y expedientes documentales o Libros Blancos del Instituto;
 
-II. Efectuar el pago de las remuneraciones al personal del Instituto y la aplicación de descuentos y retenciones autorizadas conforme a la normativa aplicable; efectuar los pagos que se deriven por concepto de seguridad social, impuestos y seguros, entre otros, relativos al personal del Instituto, y llevar a cabo la suspensión de pago, de conformidad con las incidencias que le remita la Dirección General Adjunta de Recursos Humanos;
+II. (DEROGADA, D.O.F. 18 DE MAYO DE 2018)
 
 III. Integrar y desarrollar en el ámbito de su competencia los programas y acciones institucionales en materia de modernización, innovación, transparencia, simplificación y productividad que establezcan las autoridades correspondientes;
 
@@ -1011,7 +1013,9 @@ III. Celebrar cualquier tipo de convenio, en representación del Instituto en su
 
 IV. Celebrar, en representación del Instituto, contratos o convenios con institutos, universidades, escuelas, asociaciones, colegios, personas físicas y personas morales para los cursos, programas, asesorías, seminarios y lo relativo a la capacitación y desarrollo del personal y de beneficios a los trabajadores del Instituto;
 
-V. Para efectos del pago de las remuneraciones al personal del Instituto y la aplicación de descuentos y retenciones autorizadas conforme a la normativa aplicable, enviar las incidencias correspondientes a la Dirección General Adjunta de Administración, relativos al personal del Instituto, y determinar la suspensión de pago;
+> <small>(REFORMADA, D.O.F. 18 DE MAYO DE 2018)</small>
+
+V. Efectuar el pago de las remuneraciones al personal del Instituto y la aplicación de descuentos y retenciones autorizadas conforme a la normativa aplicable; los pagos que se deriven por concepto de seguridad social, impuestos y seguros, entre otros, relativos al personal del Instituto, y llevar a cabo la suspensión de pago, de conformidad con las incidencias correspondientes;
 
 VI. Coordinar la elaboración y modificaciones de las condiciones generales de trabajo que rigen las relaciones laborales del Instituto, para ser aprobadas por la Junta de Gobierno, e implementar y vigilar su cumplimiento y actualización, así como representar a éste ante las autoridades del trabajo y en materia de seguridad social, sin perjuicio de las atribuciones conferidas a otras unidades administrativas;
 
@@ -1298,3 +1302,17 @@ PRIMERO.- Las presentes reformas al Estatuto Orgánico del Instituto para la Pro
 SEGUNDO.- Las unidades administrativas a que se refiere el presente Acuerdo, deberán realizar los ajustes que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
 
 TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
+
+D.O.F. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO”.]
+
+PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor del presente Acuerdo y que, conforme a éste, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones abrogadas, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+TERCERO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Acuerdo, pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose de conformidad con el ámbito de facultades que a cada una corresponda.
+
+CUARTO.- Las unidades administrativas a que se refiere el presente Acuerdo, deberán realizar los ajustes que correspondan en las disposiciones y documentos aplicables a su adscripción y funcionamiento.
+
+QUINTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
