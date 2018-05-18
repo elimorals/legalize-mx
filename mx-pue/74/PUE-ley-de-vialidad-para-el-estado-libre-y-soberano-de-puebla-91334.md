@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2017-12-29"
+last_updated: "2018-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -71,91 +71,205 @@ Para la aplicación, interpretación y efectos de la presente Ley, se entiende p
 
 I. Automovilista: Al conductor de vehículos destinados al uso particular o privado, cuya capacidad de carga no exceda de 3.5 toneladas, no preste servicios al público y por consiguiente no reciba remuneración alguna;
 
-II. Bloqueo: Al cierre temporal o indefinido de las vialidades;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-III. Chofer de transporte público: Al conductor de vehículos destinados al servicio público de transporte, sin menoscabo que pueden conducir cualquier otro tipo de vehículos de uso particular, excepto los destinados al servicio de transporte mercantil;
+II. Boleta de infracción: Documento por el cual se hace constar alguna violación a la presente Ley o su Reglamento;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+III. Bloqueo: Al cierre temporal o indefinido de las vialidades;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
 IV. Chofer de transporte mercantil: Al conductor de vehículos destinados al servicio de transporte mercantil, sin menoscabo que puedan conducir cualquier otro tipo de vehículos de uso particular, excepto los destinados al servicio público de transporte;
 
-V. Ciclistas: A los conductores de bicicletas, triciclos sin motor y otros vehículos similares que sean de propulsión humana;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-VI. Ciclovía: A la infraestructura con señalización, para la circulación exclusiva de ciclistas;
+V. Chofer de transporte público: Al conductor de vehículos destinados al servicio público de transporte, sin menoscabo que pueden conducir cualquier otro tipo de vehículos de uso particular, excepto los destinados al servicio de transporte mercantil;
 
-VII. Conductor: A toda persona que maneje un vehículo de propulsión humana o mecánica en cualquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-VIII. Corredor de Transporte público de pasajeros: Aquél que forma parte integral del Sistema de Transporte Público Masivo, y opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados;
+VI. Ciclista: A la Persona que conduce un vehículo de tracción humana a través de pedales. Se considera ciclista también a aquella persona que conduce bicicleta asistida por motor eléctrico, siempre y cuando ésta desarrolle velocidades de hasta 30 kilómetros por hora;
 
-IX. Crucero o intersección: Lugar donde se unen dos o más vías públicas;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-X. Depósito vehicular oficial: Al lugar destinado para resguardo y custodia de los vehículos que están a disposición de la autoridad que corresponda;
+VII. Ciclovía: A la infraestructura con señalización, para la circulación exclusiva de ciclistas;
 
-XI. Dirección: A la Dirección de Vialidad de la Secretaría de Seguridad Pública del Estado de Puebla;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XII. Director: Al Director de Vialidad del Estado de Puebla;
+VIII. Conductor: A toda persona que maneje un vehículo de propulsión humana o mecánica en cualquiera de sus modalidades;
 
-XIII. Elementos Incorporados a la Vialidad: A todos aquellos objetos adicionados a la vialidad, que no forman parte intrínseca de la misma:
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XIV. Elementos Inherentes a la Vialidad: A todos aquellos objetos que forman parte intrínseca de la vialidad;
+IX. Corredor de transporte público de pasajeros: Aquél que forma parte integral del Sistema de Transporte Público Masivo, y opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados;
 
-XV. Estacionamiento: Al espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XVI. Estado: Al Estado Libre y Soberano de Puebla;
+X. Crucero o intersección: Lugar donde se unen dos o más vías públicas;
 
-XVII. Gobierno: Al Gobierno del Estado;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XVIII. Gobernador: Al Titular del Poder Ejecutivo del Estado;
+XI. Depósito vehicular oficial: Al lugar destinado para resguardo y custodia de los vehículos que están a disposición de la autoridad que corresponda;
 
-XIX. Hecho de Tránsito: Al suceso vial que de manera intencional o por impericia, negligencia o descuido, vulnera la vida, la integridad física y/o el patrimonio de las personas o del Estado;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XX. Infraestructura: A la vía de comunicación para la conducción del tránsito vehicular y que está integrada por calles, avenidas, pasos a desnivel o entronques, caminos, carreteras, autopistas, puentes y sus servicios auxiliares, dentro de las zonas de Jurisdicción del Estado de Puebla;
+XII. Dirección: A la Dirección de Vialidad de la Secretaría de Seguridad Pública del Estado de Puebla;
 
-XXI. Licencia: Al documento expedido por autoridad competente, en cualquiera de sus modalidades, que autoriza a personas mayores de edad, previo cumplimiento de determinados requisitos, a conducir un vehículo automotor;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-La autoridad competente podrá emitir licencias provisionales para aquellas personas menores de dieciocho años, que cubran los requisitos que la normatividad aplicable indique.
+XIII. Director: Al Director de Vialidad del Estado de Puebla;
 
-XXII. Manifestación: A la concentración humana generalmente al aire libre, incluyéndose en esta la marcha y plantón;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXIII. Marcha: A cualquier desplazamiento de un conjunto de individuos por la vialidad hacia un lugar determinado;
+XIV. Dispositivos o medios tecnológicos: Equipo electromecánico, eléctrico, análogo, digital u óptico, incluyendo radares, cinemómetros u otros instrumentos de innovación tecnológica que permitan la detección e identificación de infracciones y conductas en el tránsito de vehículos automotores;
 
-XXIV. Motociclistas: A los conductores de motonetas, bicicletas con motor de combustión interna y motocicletas de dos, tres o cuatro ruedas con transmisión de cadena o de flecha;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXV. Nomenclatura: Al conjunto de elementos y objetos visuales que se colocan en la vialidad para indicar los nombres de las colonias, pueblos, barrios, vías y espacios públicos del Estado, con el propósito de su identificación y rápida ubicación;
+XV. Elementos incorporados a la vialidad: A todos aquellos objetos adicionados a la vialidad, que no forman parte intrínseca de la misma;
 
-XXVI. Particular: A la persona física o moral que al amparo del registro correspondiente ante la autoridad competente, satisface sus necesidades de transporte, siempre que tengan como fin el desarrollo de sus actividades personales o el cumplimiento de su objeto social;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXVII. Pasajero: A la persona que se encuentra a bordo de un vehículo y que no tiene el carácter de conductor;
+XVI. Elementos inherentes a la vialidad: A todos aquellos objetos que forman parte intrínseca de la vialidad;
 
-XXVIII. Peatón: A la persona que transita a pie por la vía pública, incluidas aquéllas que tienen una discapacidad;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXIX. Persona con discapacidad: A aquella persona que por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+XVII. Estacionamiento: Al espacio físico o lugar utilizado para detener, custodiar y/o guardar un vehículo por tiempo determinado;
 
-XXX. Plantón: Al grupo de individuos que se congrega y permanece cierto tiempo en un lugar público determinado con una finalidad;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXXI. Policía vial: Al elemento de la Dirección y de las unidades administrativas que atienden la seguridad vial en el Estado de Puebla, para los efectos de la presente Ley entiéndase también como policía de vialidad y autoridad vial;
+XVIII. Estado: Al Estado Libre y Soberano de Puebla;
 
-XXXII. Reglamento. Reglamento de la Ley de Vialidad del Estado Libre y Soberano de Puebla;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXXIII. Seguridad vial: Al conjunto de medidas tendentes a preservar la integridad física y patrimonial de las personas, así como el orden y paz públicos, con motivo de su tránsito por las vías públicas, y que forma parte de la seguridad pública;
+XIX. Gobierno: Al Gobierno del Estado;
 
-XXXIV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXXV. Secretaría: A la Secretaría de Seguridad Pública del Estado;
+XX. Gobernador: Al Titular del Poder Ejecutivo del Estado;
 
-XXXVI. Secretario: Al Secretario de Seguridad Pública del Estado de Puebla;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXXVII. Señalización Vial: Al conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan en la vialidad;
+XXI. Hecho de tránsito: Al suceso vial que de manera intencional o por impericia, negligencia o descuido, vulnera la vida, la integridad física y/o el patrimonio de las personas o del Estado;
 
-XXXVIII. Tránsito: A toda acción o efecto de trasladarse de un lugar a otro por la vía pública;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XXXIX. Usuario: A la persona que hace uso del servicio público de transporte de pasajeros o de carga, en cualquiera de sus modalidades del equipamiento auxiliar de éstos y de las vialidades;
+XXII. Infracción: La conducta que transgrede alguna disposición establecida en la presente Ley y su Reglamento, y que tiene como consecuencia una sanción administrativa;
 
-XL. Vehículo: A todo aquel mecanismo que se usa para transportar personas o carga, sea de propulsión humana o mecánica;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XLI. Vía: Aquélla que se integra de un conjunto de elementos cuya función es permitir el tránsito de vehículos y peatones, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad;
+XXIII. Infraestructura: A la vía de comunicación para la conducción del tránsito vehicular y que está integrada por calles, avenidas, pasos a desnivel o entronques, caminos, carreteras, autopistas, puentes y sus servicios auxiliares, dentro de las zonas de Jurisdicción del Estado de Puebla;
 
-XLII. Vialidad: Conjunto de infraestructuras que conforman las vías de comunicación terrestre de jurisdicción estatal, por las que se desarrolla el tránsito de peatones y vehículos; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-XLIII. Vía pública: Calles, avenidas, camellones, pasajes y en general, todo espacio de dominio público y uso común, que por disposición de la autoridad o por razón del servicio, está destinado al tránsito de personas, vehículos, semovientes u otros objetos, así como los corredores de transporte público de pasajeros.
+XXIV. Jerarquía de la Movilidad: Política pública que considera el nivel de vulnerabilidad de los usuarios, los beneficios que genera cada modo de transporte y su contribución a la productividad, otorgando la prioridad en la utilización del espacio vial en el siguiente orden: personas con movilidad limitada y peatones, ciclista, usuarios del servicio de trasporte público de pasajeros, prestadores del servicio de trasporte público de pasajeros, prestadores del servicio de transporte de carga y usuarios de transporte automotor particular;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXV. Licencia: Al documento expedido por autoridad competente, en cualquiera de sus modalidades, que autoriza a personas mayores de edad, previo cumplimiento de determinados requisitos, a conducir un vehículo automotor.
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+La autoridad competente podrá emitir licencias provisionales para aquellas personas menores de dieciocho años, que cubran los requisitos que la normatividad aplicable indique;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXVI. Manifestación: A la concentración humana generalmente al aire libre, incluyéndose en esta la marcha y plantón;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXVII. Marcha: A cualquier desplazamiento de un conjunto de individuos por la vialidad hacia un lugar determinado;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXVIII. Motociclistas: A los conductores de motonetas, bicicletas con motor de combustión interna y motocicletas de dos, tres o cuatro ruedas con transmisión de cadena o de flecha;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXIX. Movilidad: Capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXX. Nomenclatura: Al conjunto de elementos y objetos visuales que se colocan en la vialidad para indicar los nombres de las colonias, pueblos, barrios, vías y espacios públicos del Estado, con el propósito de su identificación y rápida ubicación;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXXI. Particular: A la persona física o moral que al amparo del registro correspondiente ante la autoridad competente, satisface sus necesidades de transporte, siempre que tengan como fin el desarrollo de sus actividades personales o el cumplimiento de su objeto social;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXXII. Pasajero: A la persona que se encuentra a bordo de un vehículo y que no tiene el carácter de conductor;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXXIII. Peatón: A la persona que transita a pie por la vía pública, incluidas aquellas que tienen una discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
+
+XXXIV. Persona con discapacidad: Aquella persona que por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXXV. Persona con movilidad limitada: Aquella persona que de forma temporal o permanente debido a enfermedad, edad, accidente, operación quirúrgica, genética o alguna otra condición, realiza un desplazamiento lento, difícil o desequilibrado. Este concepto incluye a niños, niñas, adolescentes y adultos que transitan con ellos o ellas, mujeres en periodo de gestación, adultos mayores, personas con equipaje o paquetes que impidan su adecuado traslado, así como a la persona que la acompaña en dicho desplazamiento;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXXVI. Plantón: Al grupo de individuos que se congrega y permanece cierto tiempo en un lugar público determinado con una finalidad;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXXVII. Policía vial: Al elemento de la Dirección y de las unidades administrativas que atienden la seguridad vial en el Estado de Puebla, para los efectos de la presente Ley entiéndase también como policía de vialidad y autoridad vial;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXXVIII. Reglamento: Reglamento de la Ley de Vialidad del Estado Libre y Soberano de Puebla;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XXXIX. Sanción: La consecuencia jurídica de la conducta infractora;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XL. Secretaría: A la Secretaría de Seguridad Pública del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLI. Secretario: Al Secretario de Seguridad Pública del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLII. Seguridad vial: Al conjunto de medidas tendentes a preservar la integridad física y patrimonial de las personas, así como el orden y paz públicos, con motivo de su tránsito por las vías públicas, y que forma parte de la seguridad pública;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLIII. Señalización Vial: Al conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan en la vialidad;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLIV. Tránsito: A toda acción o efecto de trasladarse de un lugar a otro por la vía pública;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLV. UMA: La Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLVI. Usuario: A la persona que hace uso del servicio público de transporte de pasajeros o de carga, en cualquiera de sus modalidades del equipamiento auxiliar de éstos y de las vialidades;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLVII. Vehículo: A todo aquel mecanismo que se usa para transportar personas o carga, sea de propulsión humana o mecánica;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLVIII. Vía: Aquélla que se integra de un conjunto de elementos cuya función es permitir el tránsito de vehículos y peatones, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XLIX. Vía pública: Calles, avenidas, camellones, pasajes y en general, todo espacio de dominio público y uso común, que por disposición de la autoridad o por razón del servicio, está destinado al tránsito de personas, vehículos, semovientes u otros objetos, así como los corredores de transporte público de pasajeros, y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+L. Vialidad: Conjunto de infraestructuras que conforman las vías de comunicación terrestre de jurisdicción estatal, por las que se desarrolla el tránsito de peatones y vehículos.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -243,9 +357,17 @@ I. La aplicación de acciones tendientes a un mejor aprovechamiento de la vialid
 
 II. El establecimiento de límites y restricciones reglamentarias, con el objeto de salvaguardar la integridad y seguridad de las personas;
 
-III. El retiro de la vialidad de los vehículos y objetos que ilícitamente obstaculicen, limiten o impidan el uso adecuado de la vialidad o pongan en peligro el tránsito de personas o vehículos; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-IV. La determinación de lineamientos para permitir el estacionamiento de vehículos en la vialidad y fuera de ella, de acuerdo con los lineamientos establecidos con el uso de suelo autorizado, así como las medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o peatones, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público.
+III. El retiro de la vialidad de los vehículos y objetos que ilícitamente obstaculicen, limiten o impidan el uso adecuado de la vialidad o pongan en peligro el tránsito de personas o vehículos;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+IV. La determinación de lineamientos para permitir el estacionamiento de vehículos en la vialidad y fuera de ella, de acuerdo con los lineamientos establecidos con el uso de suelo autorizado, así como las medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o peatones, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público, y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+V. La priorización y promoción en la población para la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de accidentes encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia; asimismo, prevenir conflictos de tránsito, desmotivar el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado y el reconocimiento y respeto a la jerarquía de la movilidad.
 
 ###### ARTÍCULO 14.
 
@@ -307,25 +429,91 @@ IV. Cumplir con las disposiciones de la presente Ley, su Reglamento y demás ord
 
 Los peatones tienen los siguientes derechos y obligaciones:
 
-I. Preferencia de paso al transitar por la vía pública;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-II. Denunciar ante la autoridad competente alguna irregularidad alusiva al uso de la vialidad, así como la falta o mal estado de la señalización vial;
+l. Transitar en una movilidad urbana libre, segura, incluyente y accesible, así como de zonas seguras designadas para la misma; y a la disposición de áreas de aparcamiento que no afecten su fluidez;
 
-III. Deberán transitar por las banquetas de las vías públicas;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-IV. Cruzar las vías por las esquinas o zonas marcadas para tal efecto;
+II. Preferencia de paso sobre los vehículos en todos los cruceros o zonas de paso peatonales y al transitar por la vía pública;
 
-V. Utilizar puentes y pasos peatonales para cruzar la vía pública;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-VI. Obedecer las indicaciones de los policías viales y autoridades de vialidad;
+III. Denunciar ante la autoridad competente alguna irregularidad alusiva al uso de la vialidad, así como la falta o mal estado de la señalización vial;
 
-VII. Respetar los semáforos, dispositivos tecnológicos y las señales utilizadas para regular el tránsito vehicular;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-VIII. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con discapacidad o que imposibilite el estacionamiento o circulación de vehículos en la vía pública; y
+IV. Transitar por las banquetas de las vías públicas;
 
-IX. Abstenerse de entorpecer la marcha de columnas militares, escolares, cívicas y otro tipo de eventos similares.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-Adicionalmente a los derechos que corresponden a los peatones en general, las personas con discapacidad tendrán preferencia de paso en todos los cruceros o zonas de paso peatonal; asimismo se deberá brindarles las facilidades necesarias para que puedan abordar las unidades de transporte público.
+V. Cruzar las vías por las esquinas o zonas marcadas para tal efecto;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+VI. Utilizar puentes y pasos peatonales para cruzar la vía pública;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+VII. Obedecer las indicaciones de los policías viales, promotores voluntarios de seguridad vial y señalamientos;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+VIII. Respetar los semáforos, dispositivos tecnológicos y las señales utilizadas para regular el tránsito vehicular;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+IX. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con discapacidad o que imposibilite el estacionamiento o circulación de vehículos en la vía pública, y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+X. Abstenerse de entorpecer la marcha de columnas militares, escolares, cívicas y otro tipo de eventos similares.
+
+Adicionalmente a los derechos que corresponden a los peatones en general, las personas con discapacidad o movilidad limitada tendrán preferencia de paso en todos los cruceros o zonas de paso peatonal; asimismo se deberá brindarles las facilidades necesarias para que puedan abordar las unidades de transporte público.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2018)</small>
+
+###### ARTÍCULO 18 Bis.
+
+Los ciclistas tienen los siguientes derechos y obligaciones:
+
+A) Derechos:
+
+l. Contar con una movilidad segura y preferencial en términos de la jerarquía de movilidad prevista en la presente Ley;
+
+II. Disponer de las vías públicas destinadas para su tránsito;
+
+III. Contar con áreas de estacionamiento seguro en vía pública, así como en inmuebles públicos y privados;
+
+IV. Preferencia sobre el tránsito vehicular siempre y cuando:
+
+a) Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía;
+
+b) Se encuentren cruzando una vía en la que los vehículos deban dar vuelta a la derecha para entrar a otra vía, y
+
+c) Los vehículos deban circular o cruzar una ciclovía y en ésta haya ciclistas circulando.
+
+B) Obligaciones:
+
+l. Circular con la responsabilidad de utilizar los espacios designados para tal efecto, respetar las indicaciones de la autoridad correspondiente, así como los señalamientos y dispositivos que regulen la circulación vial compartida o la exclusiva; asimismo respetar los espacios de circulación o accesibilidad peatonal y dar preferencia a las personas con discapacidad y al peatón;
+
+II. Evitar circular en los carriles centrales de las vías de acceso vehicular controlado;
+
+III. Transitar en el sentido de la circulación vehicular y utilizar el carril de extrema derecha de circulación;
+
+IV. Rebasar sólo por el carril izquierdo y circular entre carriles únicamente cuando el tránsito esté detenido, debiendo colocarse en un lugar visible para poder reiniciar su marcha;
+
+V. Contar con aditamentos luminosos o bandas fluorescentes en su persona que les permitan ser visibles para los otros usuarios de la vía, cuando circulen en horario nocturno o existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad;
+
+VI. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo y la mano;
+
+VII. No llevar paquetes u objetos que excedan la dimensión del manubrio o vehículo que se conduzca (ancho), en el caso de exceder las dimensiones de largo será recomendado utilizar una banderola o algún elemento visible que permita al resto de los usuarios la identificación de la dimensión;
+
+VIII. No conducir bajo los efectos del alcohol, enervantes, estupefacientes, psicoactivos o cualquier otro que produzca efectos similares, y
+
+IX. No sujetarse a otros vehículos en movimiento.
+
+Los ciclistas que no cumplan con estas obligaciones, serán amonestados verbalmente por los policías viales y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -333,7 +521,9 @@ Los conductores de vehículos tienen prohibido lo siguiente:
 
 I. Circular sobre banquetas, camellones, andadores, ciclovías y demás rutas peatonales;
 
-II. Circular en carriles de contraflujo y de uso exclusivo en términos de la presente Ley y sus reglamentos;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+II. Circular en sentido contrario y en carriles de uso exclusivo en términos de la presente Ley y su Reglamento;
 
 III. Invadir los pasos peatonales marcados con rayas para cruces de las vías públicas, así como en las intersecciones con las mismas;
 
@@ -427,13 +617,19 @@ II. Tomar las medidas necesarias para dar a conocer de manera oportuna las rutas
 
 III. Realizar todas aquellas acciones que sean necesarias para garantizar la seguridad vial en el Estado.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 21.
 
-Las autoridades viales podrán utilizar dispositivos tecnológicos, tales como los medios fotográficos, de video y demás que permitan verificar el cumplimiento de las disposiciones de la presente Ley y su Reglamento, así como las conductas contrarias a los mismos.
+Las autoridades viales podrán utilizar dispositivos o medios tecnológicos que permitan verificar el cumplimiento de las disposiciones de la presente Ley y su Reglamento, así como las conductas contrarias a los mismos.
 
 ### CAPÍTULO IV. DEL USO EXTRAORDINARIO DE LA VIALIDAD
 
-ARTÍCULO 21 (SIC).- Las autoridades en materia de vialidad no podrán limitar el tránsito de peatones y vehículos, atendiendo a lo establecido en el artículo 11 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 18 DE MAYO DE 2018)</small>
+
+###### ARTÍCULO 21 Bis.
+
+Las autoridades en materia de vialidad no podrán limitar el tránsito de peatones y vehículos, atendiendo a lo establecido en el artículo 11 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Se entiende como uso extraordinario de la vialidad, a la realización de desfiles, caravanas, manifestaciones, peregrinaciones o cualquier otro tipo de concentración humana de carácter político, religioso, deportivo, recreativo o social, cuya finalidad sea lícita y que pueda perturbar el tránsito en la vialidad, la paz y tranquilidad de la población; las autoridades operativas de vialidad tendrán la obligación de brindar las facilidades necesarias para la manifestación pública, de los grupos o individuos que den aviso a las autoridades correspondientes, por escrito, por lo menos con 72 horas de anticipación a la realización de la misma, a fin de dar cumplimiento a lo establecido en la presente Ley. Quedando exceptuado de lo previsto en el presente artículo todo aquel supuesto jurídico que constituya un delito o una infracción administrativa establecidas en las leyes correspondientes.
 
@@ -597,11 +793,13 @@ El Estado, a través de quien corresponda, podrá suscribir convenios con el obj
 
 Para los efectos de esta Ley se entiende por infracción, la conducta que transgrede alguna disposición establecida en la presente Ley y su Reglamento, y que tiene como consecuencia una sanción administrativa.
 
-A los particulares que cometan una conducta descrita como infracción, se les dará a conocer por cualquier medio de comunicación, la sanción administrativa a la que se hicieron acreedores, a través del documento oficial expedido por autoridad competente.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
+A los particulares que cometan una conducta descrita como infracción a esta Ley o su Reglamento, se les dará a conocer la sanción administrativa a la que se harán acreedores, a través del documento oficial expedido por autoridad competente, siguiendo las formalidades señaladas en el Código de Procedimientos Civiles del Estado.
 
 ###### ARTÍCULO 50.
 
-Para los efectos de esta Ley y su Reglamento se entiende por sanción la consecuencia jurídica de la conducta infractora.
+(DEROGADO, P.O. 18 DE MAYO DE 2018)
 
 ###### ARTÍCULO 51.
 
@@ -617,15 +815,33 @@ Para la imposición de las sanciones establecidas en el presente artículo, las 
 
 Toda conducta infractora deberá constar por escrito, en los formatos oficiales que para tal efecto establezcan las autoridades de vialidad, debiendo contener la descripción de la conducta cometida, así como la o las disposiciones legales vulneradas. El documento oficial donde se haga constar las circunstancias señaladas con anterioridad, se hará del conocimiento al presunto infractor, por cualquier medio de comunicación, a efecto de brindar certeza jurídica al particular y se proceda al pago correspondiente de la sanción o a la presentación del recurso de inconformidad, dando cumplimiento a los requisitos establecidos en el Reglamento.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2018)</small>
+
+###### ARTÍCULO 52 Bis.
+
+Para los efectos del cobro de las sanciones derivadas por conductas que violen disposiciones de la presente Ley y su Reglamento, captadas por cualquier dispositivo o medio tecnológico, tendrá el carácter de responsable solidario el propietario del vehículo con el que se cause la infracción, en atención a la responsabilidad objetiva en la que incurre, garantizando con ello el debido cumplimiento a las disposiciones legales de la materia.
+
+El cobro de las sanciones referidas en el párrafo que antecede puede efectuarse de manera indistinta, al infractor o al responsable solidario.
+
 ###### ARTÍCULO 53.
 
 El procedimiento a través del cual se impondrán las sanciones por conductas que violen disposiciones de la presente Ley y su Reglamento, captadas por cualquier dispositivo o medio tecnológico, será el siguiente:
 
-I. Las actas contendrán el nombre y domicilio del propietario del vehículo de conformidad con el Registro Vehicular correspondiente; placa, marca y modelo del vehículo; lugar, fecha y hora en que fue cometida la infracción; descripción de la infracción cometida y la especificación de las disposiciones violadas, así como nombre y firma de la autoridad facultada para imponer la sanción.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-II. La prueba física que arroje el dispositivo tecnológico en la cual conste la conducta infractora se contendrá en el acta de infracción, y
+I. Las boletas de infracción contendrán el nombre y domicilio del propietario del vehículo de conformidad con el Registro Vehicular correspondiente; placa, marca y modelo del vehículo; lugar, fecha y hora en que fue cometida la infracción; descripción de la infracción cometida y la especificación de las disposiciones violadas, así como nombre y firma de la autoridad facultada para imponer la sanción;
 
-III. Se notificará dicha acta de infracción en el domicilio de la persona que aparezca como propietario del vehículo.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+II. La prueba física que arroje el dispositivo tecnológico en la cual conste la conducta infractora se contendrá en la boleta de infracción, y
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+III. Se notificará dicha boleta de infracción en el domicilio de la persona que aparezca como propietario del vehículo.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2018)</small>
+
+Para efectos de este artículo y tratándose de vehículos registrados en otra Entidad Federativa, las autoridades viales podrán implementar acciones para la identificación del vehículo con el que se cometió la conducta infractora y proceder a su detención para notificar la boleta de infracción respectiva, conforme al procedimiento que se determine en el Reglamento.
 
 ### CAPÍTULO II. DEL RECURSO DE INCONFORMIDAD
 
@@ -686,3 +902,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
