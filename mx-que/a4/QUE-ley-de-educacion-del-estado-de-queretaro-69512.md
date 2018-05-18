@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2017-03-03"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -45,9 +45,9 @@ LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
 Esta Ley es de orden público e interés social. Tiene por objeto regular la educación que imparta el Estado, sus municipios, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios.
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
 
-Todo individuo tiene derecho a recibir educación de calidad, teniendo acceso al sistema educativo nacional, en igualdad de oportunidades, con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, teniendo las mismas oportunidades de acceso al sistema educativo nacional, en igualdad de oportunidades, con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 ###### Artículo 2.
 
@@ -737,7 +737,9 @@ Las autoridades educativas locales y municipales, en el ámbito de sus competenc
 
 Las autoridades educativas del Estado y de los municipios, tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
 
-Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo o que enfrentan condiciones económicas y sociales de desventaja en términos de lo dispuesto (sic) este ordenamiento y demás leyes aplicables.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
+Dichas medidas estarán dirigidas, de manera preferente a los grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencial (sic) sexual, creencias religiosas o prácticas culturales, en términos de lo dispuesto en este ordenamiento y demás leyes aplicables.
 
 A tal efecto, las autoridades educativas del Estado y de los municipios, procurarán celebrar actos jurídicos para formalizar la colaboración y coordinación con el Instituto, relacionadas con las atribuciones que conciernen a dicho órgano constitucional, en el diseño e implementación de evaluaciones que contribuyan a mejorar la calidad de los aprendizajes de los educandos, con especial atención a los diversos grupos regionales, a minorías culturales y lingüísticas y a quienes tienen algún tipo de discapacidad.
 
@@ -1850,3 +1852,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. El número de albergues escolares rurales en el Estado en ningún caso podrá ser inferior a los existentes al año 2016. De la misma manera, el presupuesto destinado para su funcionamiento no podrá ser inferior a lo asignado para el ejercicio fiscal 2016.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 1 Y 32 DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
