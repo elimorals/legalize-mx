@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-ejercicio-de-las-profesiones-para-el-estado-de-baja-259
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-06"
-last_updated: "2006-08-11"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 6 de septiembre de 2002.
 
@@ -89,7 +89,9 @@ X.- Reglamento.- El reglamento que derive de la presente Ley;
 
 XI.- Reincidencia.- Se considera reincidente al infractor que cometa dos o más infracciones a la presente Ley o su Reglamento;
 
-XII.- Servicio Social.- Se entiende por servicio social, el trabajo de carácter temporal y gratuito, que presten y ejecuten los profesionistas y los estudiantes, en interés de la Sociedad y del Estado; y,
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+XII.- Servicio Social.- Se entiende por servicio social, la actividad de carácter temporal, y gratuito, el cual podrá ser remunerado en los términos de las disposiciones que se dicten, mismo que prestaran y ejecutaran los profesionistas y los estudiantes en los sectores público, privado o social, en interés de la Sociedad y del Estado; y,
 
 XIII.- Título Profesional.- El documento expedido por instituciones del Estado o descentralizadas, y por instituciones particulares que tengan reconocimiento de validez oficial de estudios, a favor de la persona que haya concluido los estudios correspondientes.
 
@@ -145,7 +147,9 @@ VII.- Para tal efecto, el Departamento contará con el apoyo que corresponda, de
 
 VIII.- Expedir a los profesionistas su Registro Profesional Estatal para el ejercicio profesional en el Estado y para su identidad en todas sus actividades profesionales;
 
-IX.- (DEROGADA, P.O. 11 DE AGOSTO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
+
+IX.- Requerir a las Asociaciones de Profesionistas registrados ante el departamento, para la prestación de Servicio Social Profesional, mediante convocatoria que emita;
 
 X.- Publicar en el Periódico Oficial del Estado y en los diarios de mayor circulación en el mismo; las resoluciones de registro de Títulos profesionales y las denegatorias de inscripción de los mismos, así como las que emita respecto de suspensiones o cancelaciones del registro para el ejercicio profesional;
 
@@ -175,9 +179,13 @@ XVIII.- Gestionar ante la Secretaría de Educación Pública, el trámite para l
 
 XIX.- Gestionar ante la Secretaría de Educación Pública, el trámite para la expedición de la Cédula Personal con efectos de patente para el ejercicio profesional, previo pago de los derechos correspondientes;
 
-XX.- (DEROGADA, P.O. 11 DE AGOSTO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
 
-XXI.- Las demás que contemple esta Ley y su Reglamento.
+XX.- Publicar en su página institucional, y en el Periódico Oficial del Estado, el calendario de actividades del Servicio Social Profesional de las Asociaciones de Profesionistas registradas ante el departamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
+
+XXI.- Publicar en su página institucional, el listado de Profesionistas y Asociaciones profesionistas que cumplan con el Servicio Social Profesional, previsto por esta Ley y su Reglamento, así como entregar los reconocimientos respectivos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2006)</small>
 
@@ -571,7 +579,9 @@ III.- Guardar el secreto profesional respecto a la información de que disponga,
 
 IV.- Señalar en su publicidad o papelería particular, su nombre completo, profesión que ejerce y cualquier otro estudio de nivel educativo superior en su caso, y número de registro (sic) de su Registro Profesional Estatal o autorización respectiva;
 
-V.- Cumplir con diligencia la prestación del servicio social conforme a los lineamientos de esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+V.- Cumplir con la prestación del Servicio Social Profesional, conforme a los lineamientos de esta Ley y su Reglamento.
 
 VI.- Exhibir su Título profesional, constancia o certificado que acrediten estudios de nivel educativo superior, en lugar visible del establecimiento en que habitualmente ejerce la profesión;
 
@@ -605,6 +615,10 @@ El servicio social profesional se prestará en comunidades de escasos recursos, 
 
 Las Asociaciones de Profesionistas y sus afiliados, así como aquellos profesionistas independientes que hayan prestado servicio social profesional en atención a los acuerdos o convenios celebrados con alguna dependencia o entidad de gobierno, recibirán de éstas una constancia de reconocimiento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2018)</small>
+
+Cuando las asociaciones de Profesionistas realicen servicio social profesional en cumplimiento a su Plan de Trabajo en beneficio de comunidades vulnerables, dicha acción será reconocida mediante constancia otorgada por el departamento.
+
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2006)</small>
 
 ###### ARTÍCULO 27.
@@ -617,9 +631,13 @@ El servicio social de los estudiantes, quedará al cuidado y responsabilidad de 
 
 Todos los estudiantes de las profesiones a que se refiere esta Ley, deberán prestar su servicio social.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 29.
 
-(DEROGADO, P.O. 11 DE AGOSTO DE 2006)
+El Departamento, publicará en su página institucional, y en el Periódico Oficial del Estado, el calendario de actividades del Servicio Social Profesional de las Asociaciones de Profesionistas el primer bimestre del año.
+
+El Departamento de manera anual en coordinación con las Asociaciones de Profesionista (sic), promoverá y ofrecerá el otorgamiento de Servicio Social Profesional a la sociedad, por las asociaciones registradas ante el departamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2006)</small>
 
@@ -633,9 +651,11 @@ II.- Lista de los afiliados que en el año inmediato anterior prestaron servicio
 
 III.- El programa anual para el ejercicio del servicio social profesional, especificando las acciones profesionales que se pretenden ejecutar.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 31.
 
-(DEROGADO, P.O. 11 DE AGOSTO DE 2006)
+El Departamento en el mes de enero, realizará convocatoria a los Profesionistas y Asociaciones profesionistas, para prestar servicio social profesional anual a la sociedad, promovido (sic) el Departamento en coordinación con las Asociaciones de Profesionistas.
 
 ### CAPITULO IX. DE LAS ASOCIACIONES DE PROFESIONISTAS
 
@@ -741,9 +761,11 @@ XV.- Elaborar su respectivo Código de ética que lo regule; y,
 
 XVI.- Los demás que esta Ley y su reglamento les confieran.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 38.
 
-(DEROGADO, P.O. 11 DE AGOSTO DE 2006)
+El Departamento, vigilará y supervisará el cumplimiento del Servicio Social Profesional, a que se hayan comprometido las Asociaciones de Profesionistas en sus programas de trabajo, así como la realización de un evento anual en el que se brinde Servicio Social Profesional, promovido por el Departamento.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2006)</small>
 
@@ -1152,3 +1174,25 @@ Los Registros Profesionales Estatales que con anterioridad con la reforma a esta
 ###### ARTÍCULO CUARTO.
 
 El Departamento de Profesiones tendrá 120 días naturales a partir de la entrada en vigor de la presente reforma, para que haga las adecuaciones administrativas necesarias.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 238 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 9, 23, 26, 29, 31 Y 38 DE LA LEY DE EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, dentro de los 180 días naturales siguientes a la entrada en vigor de la presente reforma, realizará las modificaciones necesarias al Reglamento de la Ley de Ejercicio de las Profesiones para el Estado de Baja California, así como hacer las adecuaciones administrativas necesarios (sic) para el cumplimiento de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Educación y Bienestar Social y el Departamento de Profesiones, realizarán las previsiones presupuestales y programáticas necesarias para el cumplimiento de la presente reforma.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 240 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XII DEL ARTÍCULO 3, DE LA LEY DE EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
