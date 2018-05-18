@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-de-vialidad-para-el-estado-libre-y-95370"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-17"
-last_updated: "2016-10-14"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 17 de julio de 2013.
 
@@ -47,129 +47,45 @@ REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 El presente ordenamiento es de observancia general en las vías de comunicación de jurisdicción estatal y tiene por objeto reglamentar la Ley de Vialidad para el Estado Libre y Soberano de Puebla para proveer su exacta aplicación y cumplimiento.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 2.
 
-Para efectos del presente Reglamento, se entenderá por:
+Para efectos del presente Reglamento, además de lo establecido en la Ley de Vialidad para el Estado Libre y Soberano de Puebla, se entenderá por:
 
-I. Automovilista: Al conductor de vehículos destinados al uso particular o privado, cuya capacidad de carga no exceda de 3.5 toneladas, no preste servicios al público y por consiguiente no reciba remuneración alguna;
+I. Banqueta: A la porción de una vía destinada al tránsito de personas, generalmente comprendida entre el arroyo de circulación de vehículos y el alineamiento de las propiedades;
 
-II. Banqueta: A la porción de una vía destinada al tránsito de personas, generalmente comprendida entre el arroyo de circulación de vehículos y el alineamiento de las propiedades;
+II. Carril exclusivo: Al extremo de la superficie de rodamiento de una vialidad, que conforme a la demanda del servicio, es destinado para el uso exclusivo de las unidades de transporte público y de vehículos de emergencia;
 
-III. Carril exclusivo: Al extremo de la superficie de rodamiento de una vialidad, que conforme a la demanda del servicio, es destinado para el uso exclusivo de las unidades de transporte público y de vehículos de emergencia;
+III. Dictamen de impacto vial: Al estudio que tiene como fin determinar los alcances potenciales en materia de seguridad vial y tránsito, de algún proyecto de desarrollo comercial, industrial, residencial o cualquier otro que modifique la infraestructura vial;
 
-IV. Chofer particular: Al conductor de automóviles y vehículos análogos, pick up y panel, del servicio particular, cuya capacidad de carga sea menor de 3.5 toneladas;
+IV. Escolares: A los alumnos de instituciones educativas de cualquier nivel;
 
-V. Chofer de transporte público: Al conductor de vehículos destinados al servicio público de transporte, sin menoscabo que pueden conducir cualquier otro tipo de vehículos de uso particular, excepto los destinados al servicio de transporte mercantil;
+V. Ley de Vialidad: A la Ley de Vialidad para el Estado Libre y Soberano de Puebla;
 
-VI. Chofer de transporte mercantil: Al conductor de vehículos destinados al servicio de transporte mercantil, sin menoscabo que puedan conducir cualquier otro tipo de vehículos de uso particular, excepto los destinados al servicio de público (sic) de transporte;
+VI. Mecanismos para regular el tránsito: A los dispositivos electromecánicos que sirven para regular y dirigir el tránsito de vehículos y peatones;
 
-VII. Ciclista: A los conductores de bicicletas, triciclos sin motor y otros vehículos similares que sean de propulsión humana;
+VII. Programa de alcoholímetro: Al programa operativo permanente y aleatorio desarrollado por la Dirección con la finalidad de prevenir hechos de tránsito ocasionados por la ingesta inmoderada de alcohol;
 
-VIII. Ciclovía: A la infraestructura con señalización, para la circulación exclusiva de ciclistas;
+VIII. Promotor voluntario de seguridad vial: A la persona que sin ser personal adscrito a la Dirección, ha sido capacitado para regular el tránsito en una zona determinada por razones de riesgo para escolares;
 
-IX. Conductor: A toda persona que maneje un vehículo de propulsión humana o mecánica en cualquiera de sus modalidades;
+IX. Señales de protección: A las señales que realizan los promotores voluntarios de seguridad vial tendentes a garantizar la seguridad en zonas escolares;
 
-X. Corredor de transporte público de pasajeros: Aquél que forma parte integral del sistema de transporte público masivo y opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados;
+X. Sustancias Toxicas o Peligrosas: A los productos químicos cuya fabricación, procesado, distribución, uso y eliminación representan un riesgo para la salud humana y el medio ambiente;
 
-XI. Crucero o intersección: Al lugar donde se unen dos o más vías públicas;
+XI. Tarjeta de circulación: Al documento expedido por autoridad competente, en el cual se describen los datos generales del vehículo correspondiente;
 
-XII. Depósito vehicular oficial: Al lugar destinado para resguardo y custodia de los vehículos que están a disposición de la autoridad que corresponda;
+XII. Transporte: A los vehículos destinados al servicio de transporte particular, público o mercantil;
 
-XIII. Dictamen de impacto vial: Al estudio que tiene como fin determinar los alcances potenciales en materia de seguridad vial y tránsito, de algún proyecto de desarrollo comercial, industrial, residencial o cualquier otro que modifique la infraestructura vial;
+XIII. Vehículos de paso preferencial o emergencia: A los vehículos que cumplen funciones de seguridad o urgencia, sean éstos de instituciones públicas o privadas, y que están identificados y autorizados por autoridad competente como tales;
 
-XIV. Dirección: A la Dirección de Vialidad de la Secretaría de Seguridad Pública del Estado de Puebla;
+XIV. Vehículos de servicio público de transporte colectivo de pasajeros: A los vehículos con los que se lleva a cabo de manera continua, uniforme, regular y permanente, el traslado de pasajeros en la infraestructura vial, para satisfacer necesidades de la comunidad y en el cual los usuarios cubrirán como contraprestación la tarifa previamente autorizada, en virtud de concesiones o permisos expedidos por autoridad competente;
 
-XV. Director: Al Director de Vialidad de la Secretaría de Seguridad Pública del Estado de Puebla;
+XV. Vehículos de transporte mercantil: A los vehículos que prestan el servicio mercantil por el tipo de actividad comercial que desarrollan sus propietarios, prestan un servicio a terceros o el que llevan a cabo sus propietarios como parte de sus actividades comerciales y están regulados y controlados mediante autorización expedida por la autoridad competente de conformidad con las leyes aplicables;
 
-XVI. Escolares: A los alumnos de instituciones educativas de cualquier nivel;
+XVI. Vehículos particulares: A los vehículos destinados al servicio particular o privado de sus propietarios, los cuales pueden ser indistintamente de pasajeros o de carga;
 
-XVII. Estacionamiento: Al espacio físico o lugar utilizado para detener, custodiar o guardar un vehículo por tiempo determinado;
-
-XVIII. Estado: Al Estado Libre y Soberano de Puebla;
-
-XIX. Gobierno: Al Gobierno del Estado;
-
-XX. Gobernador: Al Titular del Poder Ejecutivo del Estado;
-
-XXI. Hecho de Tránsito: Al suceso vial que de manera intencional o por impericia, negligencia o descuido, vulnera la vida, la integridad física y/o el patrimonio de las personas o del Estado;
-
-XXII. Infracción: A la conducta que transgrede alguna disposición establecida en la Ley de Vialidad y en el presente Reglamento, y que tiene como consecuencia una sanción administrativa;
-
-XXIII. Infraestructura: A la vía de comunicación para la conducción del tránsito vehicular y que está integrada por calles, avenidas, pasos a desnivel o entronques, caminos, carreteras, autopistas, puentes y sus servicios auxiliares, dentro de las zonas de jurisdicción del Estado de Puebla;
-
-XXIV. Ley de Vialidad: A la Ley de Vialidad para el Estado Libre y Soberano de Puebla;
-
-XXV. Licencia o Licencia para conducir: Al documento expedido por autoridad competente, en cualquiera de sus modalidades, para conducir un vehículo automotor;
-
-XXVI. Mecanismos para regular el tránsito: A aquellos dispositivos electromecánicos que sirven para regular y dirigir el tránsito de vehículos y peatones;
-
-XXVII. Motociclistas: A los conductores de motonetas, bicicletas con motor de combustión interna y motocicleta de dos, tres o cuatro ruedas con transmisión de cadena o de flecha;
-
-XXVIII. Particular: A la persona física o moral que al amparo del registro correspondiente ante la autoridad competente, satisface sus necesidades de transporte, siempre que tengan como fin el desarrollo de sus actividades personales o el cumplimiento de su objeto social;
-
-XXIX. Pasajero: A la persona que se encuentra a bordo de un vehículo y que no tiene el carácter de conductor;
-
-XXX. Peatón: A la persona que transita a pie por la vía pública, incluidas aquéllas que tienen una discapacidad;
-
-XXXI. Policía vial: Al elemento de la Dirección y de las unidades administrativas que atienden la seguridad vial en el Estado de Puebla, entiéndase también como policía de vialidad y autoridad vial;
-
-XXXII. Primer cuadro de la ciudad: A la zona delimitada por vías públicas internas, destinadas a la circulación local predominante;
-
-XXXIII. Programa de alcoholímetro: Al programa operativo permanente y aleatorio desarrollado por la Dirección con la finalidad de prevenir hechos de tránsito ocasionados por la ingesta inmoderada de alcohol;
-
-XXXIV. Promotor voluntario de seguridad vial: A aquella persona que sin ser personal adscrito a la Dirección, ha sido capacitado para regular el tránsito en una zona determinada por razones de riesgo para escolares;
-
-XXXV. Reglamento: Al Reglamento de la Ley de Vialidad para el Estado Libre y Soberano de Puebla;
-
-XXXVI. Salario mínimo: Al salario mínimo general vigente en el Estado, al momento de la comisión de la infracción;
-
-XXXVII. Secretaría: A la Secretaría de Seguridad Pública del Estado;
-
-XXXVIII. Secretario: Al Secretario de Seguridad Pública del Estado;
-
-XXXIX. Seguridad Vial: Al conjunto de medidas tendentes a preservar la integridad física y patrimonial de las personas, así como el orden y paz públicos, con motivo de su tránsito por las vías públicas, y que forma parte integrante de la seguridad pública;
-
-XL. Señales de protección: A aquellas que realizan los promotores voluntarios de seguridad vial tendentes a garantizar la seguridad en zonas escolares;
-
-XLI. Señalización vial: Al conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan en la vialidad;
-
-XLII. Sustancias Toxicas o Peligrosas: A los productos químicos cuya fabricación, procesado, distribución, uso y eliminación representan un riesgo para la salud humana y el medio ambiente;
-
-XLIII. Tarjeta de circulación: Al documento expedido por autoridad competente, en el cual se describen los datos generales del vehículo correspondiente;
-
-XLIV. Tránsito: A toda acción o efecto de trasladarse de un lugar a otro por la vía pública;
-
-XLV. Transporte: A los vehículos destinados al servicio de transporte particular, público o mercantil;
-
-XLVI. Usuario: A la persona que hace uso del servicio público de transporte de pasajeros o de carga, en cualquiera de sus modalidades del equipamiento auxiliar de éstos y de las vialidades;
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
-
-XLVII. Vehículo: A todo aquel mecanismo que se usa para transportar personas, sea de propulsión humana o mecánica;
-
-XLVIII. Vehículos de paso preferencial o emergencia: A aquellos vehículos que cumplen funciones de seguridad o urgencia, sean éstos de instituciones públicas o privadas, y que están identificados y autorizados por autoridad competente como tales;
-
-XLIX. Vehículos de servicio público de transporte: A aquellos vehículos con los que se lleva a cabo de manera continua, uniforme, regular y permanente, el traslado de pasajeros en la infraestructura vial, para satisfacer necesidades de la comunidad y en el cual los usuarios cubrirán como contraprestación la tarifa previamente autorizada, en virtud de concesiones o permisos expedidos por autoridad competente;
-
-L. Vehículos de transporte mercantil: A aquellos vehículos que prestan el servicio mercantil por el tipo de actividad comercial que desarrollan sus propietarios, prestan un servicio a terceros o el que llevan a cabo sus propietarios como parte de sus actividades comerciales y están regulados y controlados mediante autorización expedida por la autoridad competente de conformidad con las leyes aplicables;
-
-LI. Vehículos particulares: A los destinados al servicio particular o privado de sus propietarios, los cuales pueden ser indistintamente de pasajeros o de carga;
-
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
-
-LI Bis. Vehículo Pesado o de carga: Aquéllos que tienen una capacidad de carga superior a los tres mil kilogramos de peso;
-
-LII. Vía: A aquélla que se integra de un conjunto de elementos cuya función es permitir el tránsito de vehículos y peatones, así como facilitar la comunicación entre las diferentes áreas o zonas de actividad;
-
-LIII. Vía de acceso controlado: A aquella vía pública que presenta dos o más secciones centrales y laterales, en un solo sentido con separador central, accesos y salidas sin cruces a nivel, controlados o no por semáforos;
-
-LIV. Vialidad: Al conjunto de infraestructuras que conforman las vías de comunicación terrestre de jurisdicción estatal, por las que se desarrolla el tránsito de peatones y vehículos;
-
-LV. Vía primaria: A aquella vía pública que por sus dimensiones, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
-
-LVI. Vía Pública: A las calles, avenidas, camellones, pasajes y en general, todo espacio de dominio público y uso común, que por disposición de la autoridad o por razón del servicio, está destinado al tránsito de personas, vehículos, semovientes u otros objetos, así como los corredores de transporte público de pasajeros; y
-
-LVII. Vía secundaria: A aquella vía pública que permite la circulación al interior de la colonias (sic), barrios y pueblos, callejones, callejuelas, rinconadas, cerradas, privadas y caminos de terracería.
+XVII. Vehículo Pesado o de carga: A los vehículos que tienen una capacidad de carga superior a los tres mil kilogramos de peso;
 
 ###### Artículo 3.
 
@@ -383,19 +299,37 @@ I. Andar en las banquetas de las vías públicas;
 
 II. Cruzar las vías públicas en las esquinas o zonas marcadas para tal efecto;
 
-III. Utilizar siempre los puentes peatonales para cruzar la vía pública;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+III. Utilizar puentes y pasos peatonales para cruzar la vía pública;
 
 IV. Tomar las precauciones necesarias al transitar, en caso de no existir semáforo, para no provocar accidentes;
 
-V. Obedecer las indicaciones de los policías viales, los semáforos y la señalización vial para regular el tránsito; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-VI. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con discapacidad o que imposibilite el estacionamiento o circulación de vehículos en la vía pública.
+V. Obedecer las indicaciones de los policías viales, de los promotores voluntarios de seguridad vial, de los semáforos y la señalización vial para regular el tránsito;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+VI. Abstenerse de colocar obstáculos que impidan el tránsito peatonal, el desplazamiento o acceso de personas con movilidad limitada o que imposibiliten el estacionamiento o circulación de vehículos en la vía pública, y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2018)</small>
+
+VII. Dar preferencia de paso y asistir a aquellos que utilicen ayudas técnicas.
 
 Los peatones menores de diez años de edad deben ir acompañados de una persona adulta, tomados de la mano al cruce de las calles. Los adultos mayores o cualquier otra persona que esté impedida para conducirse sola en las vías públicas, podrá ser asistida por una persona, animal o utilizar cualquier medio técnico o electrónico que la ciencia aporte para su traslado.
 
-### CAPÍTULO IV. DE LOS ESCOLARES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE MAYO DE 2018)</small>
 
-### CAPÍTULO V. DE LAS NORMAS GENERALES DE CIRCULACIÓN
+### CAPÍTULO III BIS. DE LOS CICLISTAS
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2018)</small>
+
+###### Artículo 13 Bis.
+
+Atendiendo a lo establecido en la Ley, los ciclistas, podrán circular en todas las vialidades; y tendrán derecho a utilizar un carril completo del arroyo vehicular, en caso de que no haya ciclovía.
+
+### CAPÍTULO IV. DE LOS ESCOLARES
 
 ###### Artículo 14.
 
@@ -415,7 +349,7 @@ Los centros educativos deben contar con lugares especiales, para que se efectúe
 
 Los conductores de vehículos de transporte escolar que se detengan en la vía pública para efectuar maniobras de ascenso y descenso, deben poner en funcionamiento las luces intermitentes de advertencia del vehículo y tomar las debidas precauciones para no provocar accidentes.
 
-### CAPÍTULO VI. DE LA CIRCULACIÓN DE BICICLETAS, MOTOCICLETAS Y OTROS VEHÍCULOS ANÁLOGOS
+### CAPÍTULO V. DE LAS NORMAS GENERALES DE CIRCULACIÓN
 
 ###### Artículo 18.
 
@@ -481,9 +415,13 @@ Queda prohibido a los conductores, lo siguiente:
 
 I. Circular sobre banquetas, camellones, andadores, ciclo vías y vías peatonales;
 
-II. Circular en carriles de contra flujo y de uso exclusivo en términos del presente Reglamento;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-III. Invadir los pasos peatonales marcados con rayas para cruces de las vías públicas, así como en las intersecciones con las mismas;
+II. Circular en sentido contrario o en carriles de uso exclusivo;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+III. Invadir los pasos peatonales marcados para cruces de las vías públicas, así como en las intersecciones con las mismas;
 
 IV. Circular en reversa más de diez metros, salvo que no sea posible circular hacia adelante;
 
@@ -765,7 +703,9 @@ I. Placas proporcionadas por las autoridades competentes, las cuales deben:
 
 a) Colocarse invariablemente en las partes anterior y posterior de los automóviles, camiones y autobuses, en los lugares expresamente diseñados para ellas y, para el caso de motocicletas, en la parte posterior;
 
-b) Encontrarse libres de sustancias o materiales que dificulten o impidan su visibilidad, no estar remachadas, soldadas al vehículo o llevar distintivos u objetos;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
+b) Mantenerse en buen estado de conservación y libres de: rótulos, micas oscuras, sistemas anti-radares, detector de radares de velocidad, sustancias o materiales que dificulten o impidan su visibilidad, remaches o soldaduras al vehículo;
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
 
@@ -833,13 +773,15 @@ II. Reúnan las condiciones sanitarias y de higiene necesarias, sujetándose a l
 
 La Dirección podrá tomar las medidas que juzgue necesarias en caso fortuito o de fuerza mayor para dirigir el flujo vehicular en las vías públicas.
 
-### CAPÍTULO VII. DE LA CIRCULACIÓN DEL TRANSPORTE DE VEHÍCULOS PESADOS O DE CARGA Y DE SUSTANCIAS TÓXICAS Y PELIGROSAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO VI. DE LA CIRCULACIÓN DE MOTOCICLETAS Y DEMÁS VEHÍCULOS ANÁLOGOS
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 37.
 
-Los ciclistas y motociclistas, estarán sujetos a las siguientes obligaciones:
+Los motociclistas, estarán sujetos a las siguientes obligaciones:
 
 I. Circular en el sentido de la vía;
 
@@ -849,25 +791,33 @@ III. Llevar a bordo sólo el número de personas para el que exista asiento disp
 
 IV. Usar casco y cerciorarse de que los acompañantes también lo porten;
 
-V. Los motociclistas deben rebasar sólo por el carril izquierdo;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-VI. Las bicicletas deben tener aditamentos reflejantes y los motociclistas deben circular con las luces encendidas;
+V. Rebasar únicamente por el carril izquierdo;
 
-VII. Los ciclistas deben mantenerse a la extrema derecha de la vía pública sobre la que transiten y rebasar con cuidado a vehículos estacionados; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+VI. Circular con las luces encendidas;
+
+VII. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
 VIII. Las demás que establezca el presente Reglamento y le sean aplicables en lo conducente.
 
-Lo dispuesto en el presente artículo se aplicará, en lo conducente, a los conductores de vehículos análogos a bicicletas o motocicletas.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
+Lo dispuesto en el presente artículo se aplicará, en lo conducente, a los conductores de vehículos análogos a motocicletas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 38.
 
-Se prohíbe a los ciclistas y motociclistas:
+Se prohíbe a los motociclistas:
 
 I. Circular por vías públicas en donde no lo permita la señalización vial, a excepción que las autoridades competentes determinen horarios y días permitidos en dichas vialidades;
 
 II. Circular entre carriles o hileras adyacentes de vehículos exceptuando a las motopatrullas;
 
-III. Circular dos o más ciclistas en posición paralela dentro de un mismo carril, exceptuando a las motocicletas;
+III. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
 IV. Llevar a un pasajero en un lugar intermedio entre la persona que conduce y el manubrio de la motocicleta o en cualquier otro distinto a los instalados de fábrica para tal efecto;
 
@@ -877,17 +827,21 @@ VI. Transitar sobre las banquetas y áreas reservadas al uso exclusivo de peaton
 
 VII. Circular menores de dieciséis años de edad en motocicletas de cualquier tipo en la vía pública;
 
-VIII. Circular menores de doce años de edad, en bicicletas de cualquier tipo en la vía pública;
+VIII. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
 IX. Transportar carga cuando el vehículo no esté acondicionado para ello, o afecte la estabilidad y visibilidad del conductor; y
 
-X. Circular tratándose de bicicletas por la vía pública cuando exista ciclo vía adyacente.
+X. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
-Lo dispuesto en el presente artículo se aplicará, en lo conducente, a los conductores de vehículos análogos a bicicletas o motocicletas.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
+Lo dispuesto en el presente artículo se aplicará, en lo conducente, a los conductores de vehículos análogos a motocicletas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO VIII. DE LA CIRCULACIÓN DE LOS VEHÍCULOS DESTINADOS AL SERVICIO PÚBLICO DE TRANSPORTE Y TRANSPORTE MERCANTIL
+### CAPÍTULO VII. DE LA CIRCULACIÓN DEL TRANSPORTE DE VEHÍCULOS PESADOS O DE CARGA Y DE SUSTANCIAS TÓXICAS Y PELIGROSAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 39.
 
@@ -1035,7 +989,7 @@ Cuando por alguna circunstancia de emergencia se requiera estacionar el vehícul
 
 Cuando lo anterior suceda en horario nocturno, el conductor debe colocar triángulos de seguridad, tanto en la parte delantera como trasera de la unidad, a una distancia que permita a otros conductores tomar las precauciones necesarias.
 
-### CAPÍTULO IX. DE LOS HECHOS DE TRÁNSITO Y DE LA RESPONSABILIDAD CIVIL
+### CAPÍTULO VIII. DE LA CIRCULACIÓN DE LOS VEHÍCULOS DESTINADOS AL SERVICIO PÚBLICO DE TRANSPORTE Y TRANSPORTE MERCANTIL
 
 ###### Artículo 46.
 
@@ -1077,7 +1031,7 @@ II. Instalar o utilizar televisores o pantallas de proyección de cualquier tipo
 
 III. Usar radios, grabadoras y equipo de sonido en general, a tal grado que sea audible en el exterior de la unidad.
 
-### CAPÍTULO X. DEL PROCEDIMIENTO DE INFRACCIÓN
+### CAPÍTULO IX. DE LOS HECHOS DE TRÁNSITO Y DE LA RESPONSABILIDAD CIVIL
 
 ###### Artículo 50.
 
@@ -1119,7 +1073,7 @@ IV. En caso de fallecimiento, no mover del lugar el cuerpo y el o los vehículos
 
 V. Retirar el o los vehículos accidentados para despejar la vía pública, una vez que las autoridades competentes lo determinen.
 
-### CAPÍTULO XI. DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO X. DEL PROCEDIMIENTO DE INFRACCIÓN
 
 ###### Artículo 54.
 
@@ -1138,6 +1092,26 @@ V. Llenarán la boleta de infracción, de la cual extenderá una copia al intere
 VI. En caso que el infractor no esté presente en el momento en que se levante la boleta de infracción o se niegue a recibirla, la copia de ésta se dejará en un lugar visible del vehículo; y
 
 VII. Podrán retener, en el orden indicado, como medida de seguridad: la licencia de conducir, tarjeta de circulación o placa de circulación. En caso de no contar con ninguno de dichos elementos, se procederá a la retención del vehículo.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2018)</small>
+
+###### Artículo 54 Bis.
+
+Tratándose de los conductores de un vehículo registrado en otra Entidad Federativa, que cometan o hayan cometido una infracción a la Ley de Vialidad o al presente Reglamento, captada por cualquier dispositivo o medio tecnológico, cuando por estos mismos medios sea identificado el vehículo circulando en vías de jurisdicción estatal, los policías de vialidad procederán de la siguiente manera:
+
+I. Indicarán al conductor detener la marcha de su vehículo;
+
+II. Se identificarán mediante credencial oficial con su nombre, que lo acredite como policía vial;
+
+III. Señalarán al conductor, que el vehículo que conduce presenta uno o más registros de infracción cometida y captada por un dispositivo o medio tecnológico;
+
+IV. Solicitarán al conductor mostrar la licencia de conducir y la tarjeta de circulación;
+
+V. Emitirán la boleta de infracción de conformidad con el artículo 57 del presente Reglamento, procediendo a su notificación, entregando la misma al interesado;
+
+VI. Al momento de entregar al conductor la boleta de infracción, le informará sobre la posibilidad de recibir el pago de la misma a través de terminal electrónica, con cargo a tarjeta de crédito o débito, y
+
+VII. En caso de que el conductor no realice al momento el pago de la infracción, en términos de lo señalado en la fracción anterior, se aplicarán las medidas de seguridad señaladas en este Reglamento.
 
 ###### Artículo 55.
 
@@ -1183,9 +1157,11 @@ d) Clase, marca y uso a que esté destinado el vehículo.
 
 e) Nombre, número de placa y firma del policía vial que levante la boleta de infracción.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 57.
 
-Las boletas de infracción captadas a través de dispositivos tecnológicos deberán contener para su validez:
+Las infracciones captadas a través de dispositivos o medios tecnológicos deberán constar en boletas de infracción, mismas que para su validez deberán contener:
 
 I. Número de placa o matrícula del vehículo;
 
@@ -1203,13 +1179,11 @@ VII. Fotografía, grabación o registro con el que se demuestre la conducta infr
 
 VIII. Nombre y firma de la autoridad vial.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 58.
 
-Cuando se trate de infracciones a la Ley de Vialidad y al presente Reglamento captadas por cualquier dispositivo o medio tecnológico, ésta debe ser notificada al propietario del vehículo, quien será en todo caso responsable solidario para efectos del cobro de la infracción.
-
-En caso de notificaciones por correo certificado, cuando no sea posible notificar al propietario del vehículo en el domicilio señalado, se realizará una segunda visita por parte del servicio de correspondencia; no obstante lo anterior, si no es posible recabarse la firma del destinatario, se atenderá la diligencia con quien en su nombre lo reciba o si éstos no se encuentran en el domicilio, se levantará constancia de ello.
-
-Para efectos de este artículo, en el caso de vehículos registrados en otro Estado, según las prevenciones que existan con relación a la coordinación fiscal, las infracciones podrán ser puestas a disposición y aplicación de la Entidad Federativa correspondiente.
+Sin perjuicio de lo establecido en el artículo 54 BIS del presente Reglamento, en el caso de vehículos registrados en otro Estado, según las disposiciones que existan con relación a la coordinación fiscal, las infracciones que hayan sido cometidas podrán ser puestas a disposición para su aplicación por las autoridades de la Entidad Federativa correspondiente.
 
 ###### Artículo 59.
 
@@ -1235,7 +1209,7 @@ Para la devolución de los vehículos remitidos al encierro, será indispensable
 
 A los policías de vialidad que violen lo preceptuado en este Reglamento o que en aplicación del mismo remitan un vehículo a un depósito sin causa, se les iniciará el procedimiento correspondiente, en términos de las disposiciones aplicables.
 
-### CAPÍTULO XII. DE LA TECNOLOGÍA EN MATERIA DE VIALIDAD
+### CAPÍTULO XI. DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 62.
 
@@ -1285,31 +1259,47 @@ VII. Las demás atenuantes o agravantes que pudieran incidir.
 
 Las faltas y transgresiones a las disposiciones de la Ley de Vialidad y de este Reglamento se sancionarán de conformidad con el tabulador de infracciones al que se refiere el artículo siguiente, con:
 
-I. Amonestación verbal, o
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
 
-II. Multa, misma que será cuantificada en salarios mínimos.
+I. Amonestación, y
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+II. Multa, misma que será cuantificada conforme al valor de la UMA.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 65.
 
-La imposición de la sanción señalada para cada falta de manera específica y con las equivalencias ordenadas, se hará en términos del siguiente tabulador:
+La imposición de la sanción señalada para cada infracción de manera específica y con las equivalencias ordenadas, se hará en términos del siguiente tabulador:
 
-> <small>[N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DEL 17 DE JULIO DE 2013, PAGINAS DE LA 29 A LA 39.]</small>
+> <small>[N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DEL 17 DE JULIO DE 2013, PÁGINAS DE LA 29 A LA 39.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 19 DE JULIO DE 2013, PÁGINA 4; 31 DE DICIEMBRE DE 2015, PÁGINAS DE LA 3 A LA 15; 14 DE OCTUBRE DE 2016, PÁGINA 4.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 19 DE JULIO DE 2013, PÁGINA 4; 31 DE DICIEMBRE DE 2015, PÁGINAS DE LA 3 A LA 15; 14 DE OCTUBRE DE 2016, PÁGINA 4; P.O. DE 18 DE MAYO DE 2018, PÁGINAS DE LA 6 A LA 15.]</small>
 
-###### ARTÍCULO 66.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
 
-Las sanciones impuestas por faltas y transgresiones a las disposiciones de la Ley de Vialidad y del presente Reglamento serán pagadas en:
+Cuando cualquiera de las infracciones señaladas en los apartados 17, 29, 30, 36, 38, 48, 58, 81 y 152 del tabulador, sea captada por primera vez a través de dispositivos o medios tecnológicos, se otorgará el descuento del 100% de la multa por única ocasión.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MAYO DE 2018)</small>
+
+###### Artículo 66.
+
+Las sanciones impuestas por infracciones a las disposiciones de la Ley de Vialidad y del presente Reglamento serán pagadas en:
 
 I. Cajas recaudadoras de la Secretaría de Finanzas y Administración;
 
 II. Centros autorizados para este fin; o
 
-III. Con el policía vial que impuso la infracción cuando cuente con dispositivos tecnológicos para el cobro con tarjeta de débito o crédito, con autorización del propietario de la tarjeta.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+III. Con el policía vial que impuso la infracción cuando cuente con terminal electrónica para el cobro con tarjeta de débito o crédito, con autorización del propietario de la tarjeta.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MAYO DE 2018)</small>
 
 ###### Artículo 67.
 
-El infractor tendrá un plazo de veinte días hábiles, contados a partir de la fecha de su expedición o, en su caso, de notificación de la boleta de infracción para realizar el pago.
+El infractor tendrá un plazo de veinte días hábiles, contados a partir de la fecha de la notificación de la boleta de infracción para realizar el pago.
 
 La boleta de infracción será válida por el mismo término, en sustitución de la licencia de conducir, tarjeta de circulación o placa del vehículo.
 
@@ -1317,11 +1307,15 @@ La boleta de infracción será válida por el mismo término, en sustitución de
 
 El pago de las multas estará sujeto a lo siguiente:
 
-I. Cuando se pague la multa dentro de los cinco días hábiles siguientes contados a partir de su expedición, tendrá un descuento del cincuenta por ciento;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+I. Cuando se pague la multa dentro de los cinco días hábiles siguientes contados a partir de su notificación, se cubrirá únicamente el cincuenta por ciento de la misma;
 
 II. Después de los cinco sin exceder de diez días hábiles la reducción será del veinticinco por ciento;
 
-III. Cuando el infractor rebase el límite de velocidad permitido en la vía pública, no aplicarán las fracciones I y II del presente artículo, únicamente tendrá un descuento del veinticinco por ciento si el pago se realiza dentro de los diez días hábiles a partir de su notificación;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+III. Cuando el infractor rebase el límite de velocidad permitido en la vía pública, no aplicarán las fracciones I, II y VII del presente artículo, únicamente tendrá un descuento del veinticinco por ciento si el pago se realiza dentro de los diez días hábiles a partir de su notificación;
 
 IV. Si el pago se realiza del undécimo al vigésimo día hábil no se concederá descuento alguno;
 
@@ -1329,13 +1323,15 @@ V. Después de vencido el término, se sujetará a lo establecido en las disposi
 
 VI. No se aplicará descuento alguno al infractor que conduzca en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca efectos similares; y
 
-VII. Si el infractor paga en el momento en el cual se le impone la infracción al policía vial, haciendo uso de los instrumentos tecnológicos se aplicará la sanción mínima y el descuento del cincuenta por ciento.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
+VII. Si el infractor paga en el momento en el que se le impone la infracción, haciendo uso de una terminal electrónica, el policía vial aplicará la sanción mínima y le será aplicado el descuento del cincuenta por ciento.
 
 ###### Artículo 69.
 
 Las autoridades de vialidad estatal, dentro de las setenta y dos horas siguientes a que tengan conocimiento de una infracción que sea motivo de suspensión o cancelación de licencias, lo harán del conocimiento de las autoridades competentes para los efectos correspondientes.
 
-### CAPÍTULO XIII. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XII. DE LA TECNOLOGÍA EN MATERIA DE VIALIDAD
 
 ###### Artículo 70.
 
@@ -1371,23 +1367,25 @@ Las multas impuestas por la autoridad vial y que previamente hayan sido corrobor
 
 Las infracciones por exceder los límites de velocidad captadas a través de cualquier dispositivo o medio tecnológico a que se refiere este Reglamento, se sancionarán de la siguiente manera:
 
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2018)</small>
+
 NÚMERO DE INFRACCIÓN SANCIÓN
 
-a) PRIMERA 7 a 14 Días de Salario Mínimo Vigente, con
+A) Primera 4 a 8 UMA vigente,
 
-un beneficio de reducción del 100%.
+con un beneficio de
 
-b) SEGUNDA 7 a 14 Días de Salario Mínimo Vigente
+descuento del 100%.
 
-c) TERCERA 8 a 16 Días de Salario Mínimo Vigente
+B) Segunda 7 a 14 UMA vigente
 
-d) CUARTA 9 a 18 Días de Salario Mínimo Vigente
-
-e) QUINTA Y SUBSECUENTES 10 a 20 Días de Salario Mínimo Vigente
+C) Tercera y subsecuentes 10 a 20 UMA vigente
 
 ###### Artículo 75.
 
 Para los efectos del presente Capítulo, el titular de la Secretaría instruirá se integre una base de información que contendrá los datos de identificación de los infractores, para efectos del cobro de las multas señaladas en el artículo anterior.
+
+### CAPÍTULO XIII. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 76.
 
@@ -1473,11 +1471,11 @@ Sólo se admitirán las pruebas ofrecidas antes de la celebración de la audienc
 
 La audiencia y la recepción de pruebas serán públicas.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
+
 ###### Artículo 85.
 
 El Director deberá emitir resolución definitiva, dentro de los quince días hábiles siguientes a la celebración de la audiencia.
-
-Transcurrido dicho término, sin que se dicte resolución expresa al recurso, se entenderá revocado el acto impugnado.
 
 ###### Artículo 86.
 
@@ -1538,3 +1536,11 @@ P.O. 14 DE OCTUBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones normativas que se contrapongan al contenido del presente Decreto.
+
+P.O. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se dejan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
