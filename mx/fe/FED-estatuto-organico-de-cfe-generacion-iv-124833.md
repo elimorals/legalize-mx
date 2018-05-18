@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-iv-124833"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-15"
-last_updated: "2018-01-24"
+last_updated: "2018-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124833&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2016-03-29"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 2017.
 
@@ -957,6 +955,22 @@ Durante las ausencias del Coordinador de Producción, será suplido, indistintam
 
 El Director General acreditará su representación en términos del nombramiento respectivo y las funciones que le corresponden de conformidad con este Estatuto y demás ordenamientos legales aplicables; en tanto que, el Coordinador de Producción, los Subgerentes, Jefes de Departamento, Jefe de Unidad y Superintendentes, con base en lo que establezca el presente Estatuto, teniendo en todo caso, la facultad legal para representar a CFE Generación IV, ante cualquier dependencia, entidades y organismos, órganos desconcentrados, instituciones, autoridades administrativas y judiciales, así como presentar promociones en su nombre, en toda clase de procedimientos administrativos y judiciales, de cualquier fuero y materia, en la República Mexicana.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE MAYO DE 2018)</small>
+
+## TÍTULO VIII. De la Unidad de Responsabilidades
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+###### ARTÍCULO 33.
+
+La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE GENERACIÓN IV las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2018)</small>
+
+###### ARTÍCULO 34.
+
+La Unidad de Responsabilidades en CFE GENERACIÓN IV contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
+
 ## TRANSITORIO
 
 ÚNICO. El presente Estatuto Orgánico entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -966,3 +980,11 @@ El presente Estatuto fue aprobado y expedido por el Consejo de Administración d
 > <small>(F. DE E., D.O.F. 24 DE ENERO DE 2018)</small>
 
 En la Ciudad de México, a los cuatro días del mes de diciembre de dos mil diecisiete.- El Director General de CFE Generación IV, Juan Antonio Fernández Correa, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación IV, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS "ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN IV, PUBLICADO EL 15 DE DICIEMBRE DE 2017".]
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
