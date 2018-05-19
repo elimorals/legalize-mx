@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2017-11-08"
+last_updated: "2018-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2018.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -177,6 +177,10 @@ Los organismos públicos autónomos mencionados en el presente artículo, contar
 
 Quienes ocupen la titularidad de los Órganos Internos de Control serán propuestos y designados por el Congreso del Estado, con el voto de las dos terceras partes de las y los diputados presentes. Durarán en su encargo siete años. Los requisitos que deberán reunir para su designación se establecerán en la ley.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2018)</small>
+
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la infancia. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ###### Art. 5o.
@@ -229,9 +233,9 @@ Cuando se atribuya la realización de una conducta tipificada como delito por la
 
 El Sistema Estatal de Justicia para Adolescentes se regirá por los principios de interés superior del adolescente, protección integral y respeto a sus derechos específicos que por su condición de personas en desarrollo les han sido reconocidos, formación integral y reinserción en su familia y en la sociedad.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2018)</small>
 
-Las medidas sancionadoras impuestas por la realización de una conducta tipificada como delito por la ley penal, deberán ser racionales y proporcionales a la conducta y corresponderá su aplicación al área especializada del Poder Judicial del Estado, previo procedimiento acusatorio oral, contradictorio, continuo, concentrado y expedito. La ejecución de las medidas sancionadoras corresponderá al Poder Ejecutivo.
+Las medidas sancionadoras impuestas por la realización de una conducta tipificada como delito por la ley penal, deberán ser racionales y proporcionales a la conducta y corresponderá su aplicación al área especializada del Poder Judicial del Estado, previo procedimiento acusatorio oral, contradictorio, continuo, concentrado y expedito. En todas las resoluciones se deberá dejar patente que el interés superior de la niñez es una consideración primordial, señalando la forma en que se ha examinado y ponderado el mismo, así como la importancia que se le ha atribuido a la decisión judicial. La ejecución de las medidas sancionadoras corresponderá al Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2859,6 +2863,10 @@ C.- Fomento de la educación física.
 
 D.- Fortalecer la participación social en la educación en todos los niveles y modalidades.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2018)</small>
+
+E.- La promoción de la educación ambiental y la conservación del entorno.
+
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 X.- En materia de salubridad, salud y asistencia social:
@@ -2982,6 +2990,10 @@ C) Coadyuvará en la Seguridad Escolar y contribuirá a la mejor convivencia hum
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
 D) Será intercultural a fin de propiciar el establecimiento de relaciones sociales horizontales, encaminadas al entendimiento y enriquecimiento de las diferentes culturas, tanto en lo personal como en lo colectivo.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2018)</small>
+
+E) Fomentará el cuidado y la conservación del medio ambiente, para el desarrollo sustentable y bienestar de las y los chihuahuenses, contribuyendo al respeto del derecho a un medio ambiente sano y la prevención del daño y deterioro ambiental.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -4978,3 +4990,19 @@ P.O. 8 DE NOVIEMBRE DE 2017.
 PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el computo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFCNT/0399/2017 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 6° Y SE ADICIONA EL ARTÍCULO 4° CON UN ÚLTIMO PÁRRAFO, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFCNT/0705/2018 IX P.E., POR MEDIO DEL CUAL SE ADICIONAN LOS ARTÍCULOS 138 FRACCIÓN IX CON UN INCISO E) Y 144 CON UN INCISO E) AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
