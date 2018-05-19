@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2017-10-21"
+last_updated: "2018-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2018.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -9107,23 +9107,17 @@ En el momento de la entrega, deberá liquidarse el pago al permisionario por los
 
 La Secretaría General de Gobierno, tendrá en todo momento la facultad de revisar y/o inspeccionar las instalaciones donde se preste el servicio de depósito vehicular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 1637-R.
 
-En el supuesto de que el Ministerio Publico determine que los vehículos presuntamente abandonados, no hayan sido empleados en la comisión de algún delito, según lo establecido por el artículo 68 de la Ley de Vialidad y Tránsito para el Estado de Chihuahua, así como en los casos de vehículos robados que hayan sido recuperados, previo al envío a un depósito vehicular y su puesta en disposición para la Secretaría de Hacienda, esta verificará en el padrón vehicular el nombre del propietario del bien presuntamente abandonado, ordenándosele notificar que el vehículo se encuentra a su disposición y señalando el domicilio del depósito vehicular en el que se encuentre.
+Dentro de los diez días hábiles siguientes posteriores a la vista que realice la Dirección de Vialidad y Tránsito, en términos del artículo 68 de la Ley de Vialidad y Tránsito para el Estado de Chihuahua, el Agente del Ministerio Público emitirá una declaratoria de existencia o inexistencia delictiva respecto del bien mueble que se trate. En caso de no encontrarse registrado antecedente delictivo alguno, en un plazo no mayor a los veinte días hábiles pondrá a disposición de la Secretaría de Hacienda, adjuntando la información de identificación del vehículo automotor, antecedentes de inexistencia de historial delictivo, así como los datos del depósito vehicular autorizado en el que se encuentre.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
+La Secretaría de Hacienda por su parte, una vez recibida la información descrita en el párrafo anterior, en un plazo no mayor a los diez días hábiles siguientes a la puesta a disposición, deberá notificar a la persona interesada señalando el domicilio del depósito vehicular en el que se encuentre. Cuando se desconozcan datos del propietario del bien involucrado, se ordenará la notificación en el Periódico Oficial del Estado, así como en uno de los de mayor circulación en la localidad que se trate, en los términos propuestos por el artículo 138 del Código de Procedimientos Civiles del Estado.
 
-Cuando se desconozca el propietario y su domicilio, se notificará mediante publicación en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate.
+Si después de haberse agotado este procedimiento y en el término de treinta días hábiles el propietario no se presenta a recogerlo, será emitida una declaratoria de abandono a favor del Estado que deberá ser publicada en el Periódico Oficial del Estado y en uno de los de mayor circulación en la localidad que se trate, en la que se señale un plazo perentorio de veinte días hábiles para que el interesado acuda a recuperarlo bajo el apercibimiento de que, de no realizarlo, se procederá a su remate.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
-
-Transcurrido un año contado a partir de la notificación referida en el párrafo anterior, sin que el propietario o poseedor del vehículo se presente a recogerlo, será emitida una declaratoria de abandono a favor del Estado, que deberá ser publicada en el Periódico Oficial del Estado y en uno de mayor circulación en la localidad que se trate, en la que se señale un plazo perentorio de treinta días para que el interesado acuda a recuperarlo, bajo el apercibimiento que de no realizarlo, se procederá a su remate.
-
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
-
-Agotado el procedimiento anterior, el permisionario tendrá prelación sobre el monto en que se adjudiquen los mismos, para que le sea liquidado el gasto operativo que el depósito de los bienes le representó; en este supuesto, deberá efectuarse el cálculo conforme a la tarifa autorizada.
+Agotado el procedimiento anterior y hecho el remate correspondiente, el permisionario tendrá prelación sobre el monto en que se adjudiquen los mismos, para que le sea liquidado el gasto operativo que el depósito de los bienes le representó; en este supuesto, deberá efectuarse el cálculo conforme a la tarifa autorizada.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2013)</small>
 
@@ -11142,3 +11136,11 @@ P.O. 21 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFCOD/0403/2017 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFCOD/0752/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 1637-R DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
