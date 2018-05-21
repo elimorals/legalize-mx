@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-de-la-comision-de-transparencia-del-h-40168"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-09"
-last_updated: "2004-07-09"
+last_updated: "2018-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE TRANSPARENCIA DEL H. CONGRESO DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL COMITÉ DE TRANSPARENCIA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISION DE TRANSPARENCIA DEL H. CONGRESO DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de julio de 2004.
 
@@ -280,3 +282,13 @@ JOSÉ JUAN ELIZONDO ESPARZA
 DIP. SECRETARIO
 
 JORGE HUMBERTO PADILLA OLVERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 382. POR EL QUE SE EXPIDE EL REGLAMENTO INTERNO DEL COMITÉ DE TRANSPARENCIA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Nuevo León.
+
+Segundo.- Se abroga el Reglamento Interno de la Comisión de Transparencia del H. Congreso del Estado, publicado en el Periódico Oficial número 88 del 09 de julio de 2004.
