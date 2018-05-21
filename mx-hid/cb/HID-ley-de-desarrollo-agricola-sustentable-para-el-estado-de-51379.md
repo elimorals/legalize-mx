@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2016-12-31"
+last_updated: "2018-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -129,6 +129,12 @@ III.- Los fabricantes, proveedores y distribuidores de insumos agrícolas; y
 
 IV.- Las demás personas físicas y morales del sector social y privado, que realicen actividades directas o de apoyo al desarrollo rural o participen en la producción agrícola, dando prioridad a los proyectos de las mujeres campesinas, comunidades indígenas, jóvenes, personas de la tercera edad, jornaleros y personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2018)</small>
+
+ARTICULO 4 BIS.- Esta ley reconoce los derechos de las mujeres campesinas, por lo que la Secretaría fomentará su empoderamiento por medio del acceso a capacitación y asesoría, así como a las medidas, programas e instrumentos económicos para el pleno e igualitario ejercicio de sus derechos como productoras rurales.
+
+La Secretaría fomentará el desarrollo económico inclusivo y sostenible, que permita a las productoras rurales el bienestar de sus familias y comunidades, procurando que puedan intervenir en el diseño, la aplicación y el seguimiento de políticas de programas de desarrollo rural.
+
 ### CAPITULO II. DE LAS ATRIBUCIONES
 
 ###### ARTICULO 5.
@@ -151,9 +157,17 @@ V.- Inspeccionar y vigilar el cumplimiento de esta Ley, su Reglamento y demás l
 
 VI.- Imponer las sanciones, infracciones y medidas de seguridad que correspondan, así como denunciar ante las Autoridades competentes los delitos en materia agrícola;
 
-VII.- Desarrollar programas de rescate genético de los productos agrícolas, así como su supervisión y control de calidad, de especies naturales y agrícolas; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
-VIII.- Las demás que señale la presente Ley, su Reglamento y demás disposiciones legales aplicables.
+VII.- Desarrollar programas de rescate genético de los productos agrícolas, así como su supervisión y control de calidad, de especies naturales y agrícolas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2018)</small>
+
+VIII.- Priorizar dentro de sus acciones y programas, el aprovechamiento sustentable de las tierras de temporal, considerando las características del cambio climático, la regularidad de los ciclos pluviales y demás condiciones naturales favorables a la producción agrícola, con el objeto de un adecuado y oportuno aprovechamiento de los recursos de que se dispongan para la agricultura de temporal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MAYO DE 2018)</small>
+
+IX.- Las demás que señale la presente Ley, su Reglamento y demás disposiciones legales aplicables.
 
 ###### ARTICULO 7.
 
@@ -240,6 +254,10 @@ Sistema Estatal de Información Agropecuaria: Organismo de información agrícol
 Subcomité Municipal Agropecuario: Organo colegiado de planeación sectorial Municipal.
 
 SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2018)</small>
+
+Tierras de Temporal: Aquellas en que la humedad necesaria para que las semillas cultivadas desarrollen su ciclo vegetativo proviene directa y exclusivamente de la precipitación pluvial.
 
 ### CAPITULO V. DE LA COORDINACION Y CONCERTACION
 
@@ -1013,7 +1031,7 @@ En la resolución administrativa correspondiente se señalarán o en su caso, ad
 
 Dentro de los 5 días hábiles que sigan al vencimiento del plazo otorgado al infractor, para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la Autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas, en los términos del requerimiento respectivo.
 
-Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la Autoridad competente podrá imponer además de la sanción o sanciones que procedan, conforme al Artículo 98 de esta Ley, una multa adicional que no exceda de los limites máximos señalados en dicho precepto.
+Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la Autoridad competente podrá imponer además de la sanción o sanciones que procedan, conforme al Artículo 98 de esta Ley, una multa adicional que no exceda de los límites máximos señalados en dicho precepto.
 
 En los casos en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas, en los plazos ordenados por la Secretaría, siempre y cuando el infractor no sea reincidente y no se trate de alguno de los supuestos previstos en el Artículo 94 de esta Ley, ésta podrá revocar o modificar la sanción o sanciones impuestas.
 
@@ -1248,3 +1266,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 435 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
