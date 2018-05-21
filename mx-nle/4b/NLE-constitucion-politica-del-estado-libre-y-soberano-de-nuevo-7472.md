@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2018-04-04"
+last_updated: "2018-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1317,7 +1317,7 @@ Los decretos que sólo interesen a persona determinada se tendrán por publicado
 
 ###### Art. 77.
 
-Se publicarán las leyes usando esta fórmula: …
+Se publicarán las leyes usando esta fórmula:
 
 "N_______,Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, a todos sus habitantes hago saber: Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
@@ -3515,11 +3515,11 @@ Para que las adiciones o reformas propuestas sean aprobadas, y se tengan como pa
 
 Para las adiciones o reformas a que se refieren los artículos anteriores se guardarán las mismas reglas que quedan prescritas respecto de las leyes comunes, excepto el derecho de observaciones que no podrá ejercer el Gobernador, según la fracción III del art. 86.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2018)</small>
 
 ###### Art. 152.
 
-Las Leyes a que se refieren los Artículos 45, 63 Fracción XIII, 94, 95 y 118, son Constitucionales y en su reforma guardarán las mismas reglas que en las de cualquier Artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
+Las Leyes a que se refieren los artículos 45, 63 fracciones XIII, XIII bis, 94, 95 y 118, son Constitucionales y en su reforma guardarán las mismas reglas que en las de cualquier Artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo periodo en que sean propuestas, si así lo acordare el Congreso.
 
 (REUBICADO [N. DE E. ANTES TÍTULO XII], P.O. 1 DE ABRIL DE 2009)
 
@@ -4861,7 +4861,7 @@ P.O. 31 DE OCTUBRE DE 2003.
 
 DECRETO NÚMERO 12, QUE REFORMA EL ARTÍCULO 57.
 
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE OCTUBRE DE 2003.
 
@@ -5323,7 +5323,7 @@ Quinto.- En caso de que algún Magistrado del Tribunal Superior de Justicia rati
 
 P.O. 4 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 361. SE REFORMA POR ADICIÓN DE LOS PÁRRAFOS NOVENO Y DÉCIMO A LA FRACCIÓN XLIII DEL ARTÍCULO 63; LA FRACCIÓN XXII DEL ARTÍCULO 85 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 94 ADICIONÁNDOSE LAS FRACCIONES I, II, Y UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 361. SE REFORMA POR ADICIÓN DE LOS PÁRRAFOS NOVENO Y DÉCIMO A LA FRACCIÓN XLIII DEL ARTÍCULO 63; LA FRACCIÓN XXII DEL ARTÍCULO 85 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 94 ADICIONÁNDOSE LAS FRACCIONES I, II, Y UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -5336,3 +5336,9 @@ Cuarto.- Los servidores públicos de base que se encuentren prestando sus servic
 Quinto.- Las autoridades competentes y las Juntas de Conciliación y Arbitraje, seguirán conociendo los procedimientos, expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo hasta su total conclusión o baja. Conforme a la estrategia de conclusión del sistema que se determine.
 
 Sexto.- La Secretaría de Finanzas y Tesorería General del Estado, en el Presupuesto de Egresos de cada año destinará los recursos materiales y presupuestales necesarios para la operación del Centro Estatal de Conciliación Laboral y deberá ajustar el Presupuesto del Poder Judicial del Estado para la Operación del Tribunal Local Laboral.
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 401. SE REFORMA EL ARTÍCULO 152 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
