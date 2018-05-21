@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-04-02"
+last_updated: "2018-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -279,7 +279,9 @@ IV. Preservar y fomentar la educación, cultura, la recreación y el deporte ent
 
 V. Promover el desarrollo urbano y la planeación de todos los centros de población del Municipio.
 
-VI. Promover y organizar la participación ciudadana para cumplir con los planes y programas municipales.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
+
+VI. Promover y organizar la participación ciudadana para cumplir con los planes y programas municipales y que estos sean evaluados por la Instancia Técnica de Evaluación a que refiere el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, con base en el sistema de evaluación del desempeño que establezca el H. Ayuntamiento;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
@@ -293,9 +295,9 @@ IX. Normar directa y libremente las materias de su competencia.
 
 X. Promover la igualdad sustantiva entre mujeres y hombres mediante el aceleramiento de la igualdad de género, la no discriminación y la no violencia en contra de las mujeres y cualquier persona por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad sexo-genérica, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
-XI. Fomentar la participación ciudadana en la observación, vigilancia y evaluación de la calidad en la gestión pública municipal.
+XI. Fomentar la participación ciudadana en la observación, vigilancia y evaluación de la calidad en la gestión pública municipal, con la finalidad de que por la Instancia Técnica de Evaluación a que refiere el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, evalué que los recursos económicos se administren con eficiencia, eficacia, economía, transparencia y honradez a fin de lograr los objetivos a los que estén destinados;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -3271,9 +3273,9 @@ Departamento de Acuerdos.
 
 Departamento de Proyectos y Resoluciones.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
-IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO.
+IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
 Coordinación Administrativa.
 
@@ -3299,6 +3301,8 @@ Coordinación Jurídico-Legislativa.
 
 Departamento de Asuntos de Honor y Justicia.
 
+Unidad de Derechos Humanos.
+
 Dirección de Justicia Municipal.
 
 Departamento de Servicios Médicos, Psicología y Trabajo Social.
@@ -3315,7 +3319,7 @@ Departamento de Mercados y Estacionamientos.
 
 Departamento de Áreas Comerciales.
 
-Coordinación Municipal de Protección Civil.
+Coordinación Municipal de Protección Civil
 
 Departamento de Inspección y Capacitación.
 
@@ -3371,7 +3375,7 @@ Departamento de Contabilidad.
 
 Departamento de Cuenta Pública.
 
-(REFORMADA, P.O. 13 DE ENERO DE 2014) (REPUBLICADA, P.O. 20 DE MARZO DE 2017)
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
 XI.- SECRETARÍA DE OBRAS PÚBLICAS.
 
@@ -3388,6 +3392,8 @@ Departamento de Compras.
 Departamento de Administración y Finanzas.
 
 Departamento de Informática.
+
+Departamento de Almacenes y Taller Mecánico.
 
 Dirección de Planeación y Proyectos de Obra.
 
@@ -3412,10 +3418,6 @@ Dirección de Conservación y Mantenimiento de Obra.
 Departamento de Infraestructura Urbana.
 
 Departamento de Conservación y Mantenimiento.
-
-Departamento de Parque de Maquinaria y almacén.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017)</small>
 
 Coordinación General de Obras Públicas
 
@@ -4431,9 +4433,9 @@ XV. Promover la participación de la sociedad en las políticas públicas a trav
 
 XVI. Fomentar la participación de los ciudadanos en los asuntos públicos mediante la promoción de la cultura de la legalidad;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
-XVII. Apoyará en la gestión y logística necesaria encomendada por el Consejo de la Ciudad para realizar las acciones, desarrollar mecanismos y eventos tendientes a evaluar, medir y fortalecer las políticas públicas municipales;
+XVII. Apoyará a la Instancia Técnica de Evaluación a que refiere el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, en la gestión y logística necesaria encomendada por el Consejo de la Ciudad para realizar las acciones, desarrollar mecanismos y eventos tendientes a evaluar, medir y fortalecer las políticas públicas municipales con la finalidad de emitir propuestas y recomendaciones en materia de control y evaluación de la Administración Pública Municipal;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -4461,15 +4463,21 @@ Corresponde al Órgano Interno de Control del Municipio de Aguascalientes, el de
 
 I. Evaluar el Sistema de Control Interno en la administración pública municipal.
 
-II. Vigilar el control de los recursos patrimoniales del Municipio de Aguascalientes.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
-III. Fijar, en su caso, las normas internas de carácter obligatorio necesarias para el ejercicio del control administrativo y contable.
+II. Revisar y vigilar que el registro y control de los recursos presupuestales, financieros y patrimoniales de las Dependencias y Entidades del Municipio, se lleve de conformidad con la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones en la materia vigentes.
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
+
+III. Revisar y vigilar el ejercicio del presupuesto de los recursos financieros de las Dependencias y Entidades, coadyuvando en coordinación con la Secretaría de Finanzas Públicas y el Instituto Municipal de Planeación, a la planeación orientada a resultados, al sistema de evaluación del desempeño y el desarrollo de la agenda institucional de la administración Municipal.
 
 IV. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados.
 
 V. Practicar auditorias, revisiones, visitas e inspecciones a las dependencias y entidades de la administración pública municipal como empresas paramunicipales, fideicomisos y organismos públicos descentralizados.
 
-VI. Vigilar el cumplimiento por parte de las dependencias y entidades municipales de las normas jurídicas y administrativas que rigen su funcionamiento.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
+
+VI. Vigilar el cumplimiento por parte de las dependencias y entidades municipales de las normas jurídicas y administrativas que rigen su funcionamiento, especialmente en materia de contabilidad gubernamental, presupuesto y responsabilidad hacendaria, disciplina financiera, transparencia gubernamental y especifica del ámbito de su desempeño;
 
 VII. Investigar de oficio o en atención a las quejas, denuncias y a los hechos o elementos detectados en las auditorias, revisiones y visitas de verificación, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa.
 
@@ -4483,7 +4491,13 @@ XI. Ejecutar las funciones establecidas en este Código y en la legislación Fed
 
 XII. Designar a su personal que auditará a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño.
 
-XIV (SIC). Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine el Órgano Interno de Control, Delegados de la propia ante las dependencias de la administración pública municipal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2018)</small>
+
+XIII. Informar al Presidente Municipal y al Síndico de Hacienda sobre los resultados de la evaluación de la gestión institucional y de la auditoria del desempeño que emitan los órganos de control y/o fiscalización respecto de la gestión de las dependencias y entidades de la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
+
+XIV. Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine el Órgano Interno de Control, delegados ante las dependencias y entidades de la administración pública municipal;
 
 XV. Dictar las disposiciones que requiera el Órgano Interno de Control para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el presente Código.
 
@@ -4653,7 +4667,17 @@ II. Rendir informe de las funciones desempeñadas al Cabildo, al Presidente Muni
 
 III. Cumplir estrictamente con las disposiciones legales y administrativas que rigen su organización y funcionamiento.
 
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
+
+IV. Organizar, dirigir, controlar y evaluar la operación y funcionamiento de sus respectivas áreas.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2018)</small>
+
+IV A. Planear, diseñar y programar, las políticas públicas, programas, proyectos y estrategias de sus respectivas áreas, alineadas al Plan de Desarrollo Municipal y en coordinación con el Instituto Municipal de Planeación.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2018)</small>
+
+IV B. Medir y evaluar el desempeño de las políticas públicas, programas, proyectos y estrategias en coordinación con la Instancia Técnica de Evaluación a que refiere el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, y atender las recomendaciones derivadas de las evaluaciones del desempeño.
 
 V. Formular y proponer al Presidente Municipal, los proyectos de planes y programas que les correspondan.
 
@@ -4757,9 +4781,13 @@ XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública
 
 XVII. Planear, ordenar y ejecutar todas las acciones que tengan relación con la verificación en la aplicación de la normatividad que en materia municipal establezcan las Leyes, el Código Municipal, Reglamentos y demás disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2018)</small>
 
-XVIII. Las demás que señale (sic) ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
+XVIII. Tener bajo su mando la Unidad de Derechos Humanos, encargada de atender y dar seguimiento a las quejas que presenten los usuarios de los servicios municipales, así como los servidores públicos adscritos a cualquier dependencia municipal cuando se presuma la comisión de alguna violación a sus derechos humanos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE MAYO DE 2018)</small>
+
+XIX. Las demás que señale la ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -4785,51 +4813,89 @@ APARTADO NOVENO
 
 De la Secretaría de Finanzas Públicas
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 108.
 
 Corresponde a la Secretaría de Finanzas Públicas lo siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+I. Llevar a cabo la administración financiera y tributaria de la Hacienda Municipal;
 
-I. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones que le señala la Ley que en materia municipal expidan los Poderes Legislativos tanto Federal como del Estado.
+II. Administrar los recursos financieros municipales con eficiencia, eficacia y economía de conformidad con el Presupuesto de Egresos aprobado por el Ayuntamiento;
 
-II. Realizar las funciones, ejercer las facultades y cumplir con las obligaciones que le señala la Ley de Hacienda del Municipio de Aguascalientes, el presente Código y las demás disposiciones legales aplicables.
+III. Administrar y Gestionar el Sistema de Contabilidad Gubernamental en Coordinación con las diversas Dependencias y / o entidades de la Administración Pública Municipal, de conformidad con lo establecido en la normatividad en la materia;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+IV. Elaborar, revisar, analizar y firmar la información en la cuenta pública mensual con el fin de tomar medidas preventivas y correctivas, de conformidad con el artículo 12 del Código Municipal de Aguascalientes;
 
-III. Administrar y Gestionar el Sistema de Contabilidad Gubernamental en Coordinación con las diversas Dependencias y / o entidades de la Administración Pública Municipal de conformidad con lo establecido en la normatividad en la materia.
+V. Emitir opinión técnica jurídica de las iniciativas que afecten la Hacienda Pública Municipal y en cuanto al impacto presupuestal;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2015)</small>
+VI. Ejercer las atribuciones derivadas de convenios fiscales que celebre el Municipio con los gobiernos federal o estatal, así como gestionar cuando proceda, la reorientación de los mismos, acorde a los Planes y Programas municipales en coordinación con las dependencias y entidades competentes;
 
-IV. Llevar a cabo el análisis de la información contenida en la cuenta pública mensual con el fin de tomar medidas correctivas.
+VII. Determinar en cantidad liquida las contribuciones y aprovechamientos que se hubieren omitido por los contribuyentes;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+VIII. Constituir Provisiones de conformidad con lo establecido en la Ley General de Contabilidad Gubernamental;
 
-V. Emitir y mantener actualizado el Manual de Lineamientos y Políticas Generales para el Control de los Recursos.
+IX. Recaudar directamente el importe de los impuestos, derechos, aprovechamientos, productos, contribuciones especiales y otros ingresos a cargo de los contribuyentes;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+X. Reducir o condonar, por acuerdo del Presidente Municipal, las multas impuestas por la contravención a los reglamentos, normas y acuerdos de carácter municipal;
 
-VI. Emitir y mantener actualizado el Manual de Contabilidad.
+XI. Ejercer la facultad económico-coactiva mediante el procedimiento administrativo de ejecución, respetando las formalidades esenciales del procedimiento contenidas en la normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+XII. Autorizar el pago diferido o en parcialidades de los créditos fiscales, mediante garantía de su importe y accesorios legales;
 
-VII. Revisar y Firmar la Cuenta de la Hacienda Pública del Municipio.
+XIII. Autorizar la recepción de las garantías que se otorguen para suspender el procedimiento administrativo de ejecución y, en el caso de autorización para pagar en parcialidades un crédito fiscal, aprobar la sustitución de las citadas garantías y cancelarlas cuando proceda;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+XIV. Cancelar los créditos fiscales, en los casos previstos por la normatividad aplicable;
 
-VIII. Constituir Provisiones de conformidad con lo establecido en la Ley General de Contabilidad Gubernamental.
+XV. Resolver las solicitudes de devolución de contribuciones, productos y aprovechamientos, cuando se pruebe que se enteraron por error aritmético o por pago indebido;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+XVI. Realizar una labor de difusión y orientación fiscal, así como proporcionar asesoría a los particulares cuando la soliciten, en la interpretación y aplicación de las leyes tributarias en el ámbito de competencia municipal;
 
-IX. Proporcionar a la Secretaría de Administración toda la información que se deba publicar de conformidad con la normatividad en la materia.
+XVII. Declarar la extinción de créditos fiscales y de las facultades de las autoridades fiscales municipales para determinarlos y liquidarlos, en los casos y con las condiciones que determina la normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+XVIII. Vigilar que se recauden, concentren y custodien los créditos fiscales a cargo de los contribuyentes;
 
-X. Formular y emitir en los lineamientos para definir la Estructura Presupuestal en coordinación con el Instituto Municipal de Planeación.
+XIX. Cuidar de los recursos que por cualquier concepto ingresen al Municipio, ya sea por cuenta propia o ajena;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+XX. Establecer los mecanismos de difusión para que las dependencias conozcan los procedimientos y mecanismos emitidos por la Secretaría de Finanzas Públicas;
 
-XI. Las demás que le señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXI. Elaborar el proyecto de presupuesto de egresos sobre la base de las propuestas del Instituto Municipal de Planeación en materia de presupuestación programática y las propuestas de las demás dependencias y entidades del Municipio, considerando la estimación de los ingresos del siguiente ejercicio fiscal, y en estricto apego a los principios de la normatividad vigente en materia de contabilidad gubernamental, disciplina financiera y transparencia gubernamental y demás disposiciones vigentes en la materia;
+
+XXII. Consolidar el presupuesto basado en Resultados, y en su caso proponer, en coordinación con el Instituto Municipal de Planeación, iniciativas de presupuesto base cero o multianuales, que respondan a las necesidades de la planeación y desarrollo del Municipio;
+
+XXIII. Elaborar anualmente, en conjunto con la Secretaría de Administración, la clasificación administrativa y con el Instituto Municipal de Planeación, la clasificación programática del gasto público por dependencia;
+
+XXIV. Revisar los anteproyectos del presupuesto de egresos de cada una de las dependencias municipales proponiendo aumentos o disminuciones a sus asignaciones, considerando los planes, programas y proyectos municipales y en estricto apego a los principios de la normatividad vigente en materia de contabilidad gubernamental, disciplina financiera y transparencia gubernamental, respetando la facultad de cada dependencia de elaborar el anteproyecto del presupuesto de egresos;
+
+XXV. Realizar ajustes a los anteproyectos de presupuesto de egresos de las dependencias, cuando estos no se apeguen a los criterios emitidos por la Secretaría de Finanzas Públicas;
+
+XXVI. Planear y controlar el flujo de efectivo, a fin de asegurar la congruencia entre los ingresos y los egresos que tenga el Municipio, así como diseñar, elaborar, desarrollar y ejecutar la estrategia para el logro de las finanzas sanas;
+
+XXVII. Llevar a cabo inspecciones y valuaciones de los predios que conforman el Catastro Municipal, para mantener actualizados los archivos, el padrón de contribuyentes, así como de aquellos predios que la ley señala como exentos de pago;
+
+XXVIII. Realizar inspecciones para verificar la transparencia en la recaudación de los ingresos y de los procesos de egresos;
+
+XXIX. Ordenar la intervención de las taquillas de espectáculos públicos cuando los sujetos pasivos no cumplan con las disposiciones de la normatividad aplicable;
+
+XXX. Ordenar la clausura de los establecimientos, cuando no se cumpla con el pago de las contribuciones de conformidad con la normatividad aplicable;
+
+XXXI. Supervisar que se efectúe el registro contable de los impuestos, derechos, productos, aprovechamientos y demás ingresos públicos municipales, que se hayan recaudado de conformidad a la normatividad aplicable;
+
+XXXII. Establecer y supervisar los mecanismos para que los recursos recaudados, se depositen de manera expedita y sin menoscabo de la Hacienda Pública Municipal en las instituciones financieras correspondientes;
+
+XXXIII. Verificar que el gasto de las dependencias municipales se encuentre debidamente comprobado, de conformidad con los requisitos señalados en el Manual de Lineamientos para el Control de los Recursos de las Dependencias y Entidades del Municipio de Aguascalientes, en lo relativo a las atribuciones de la Secretaría de Finanzas;
+
+XXXIV. Enviar al Congreso del Estado de Aguascalientes, la cuenta pública en la fecha establecida en la Constitución Política del Estado de Aguascalientes, y en la Ley de Fiscalización Superior del Estado de Aguascalientes;
+
+XXXV. Llevar el registro y control sistematizado de la deuda pública y la contabilidad gubernamental del Municipio de acuerdo a la normatividad aplicable, informando al Ayuntamiento el estado que guarda la misma trimestralmente o cuando así lo requiera;
+
+XXXVI. Delegar facultades y autorizar a servidores públicos de la Secretaría de Finanzas Municipal, para el despacho y vigilancia de los asuntos que sean de su competencia;
+
+XXXVII. Autorizar a los Servidores Públicos encargados de realizar el desahogo del procedimiento administrativo de ejecución;
+
+XXXVIII. Proponer y gestionar la actualización de las disposiciones reglamentarias relacionadas con las actividades de la Secretaría de Finanzas Públicas, que incidan de manera positiva en el logro de finanzas sanas y la eficiencia y eficacia administrativa; y
+
+XXXIX. Las demás previstas en la normatividad o (sic) le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO
 
@@ -27588,6 +27654,30 @@ P.O. 2 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DE LA "REFORMA AL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 ÚNICO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ARTÍCULO 98, FRACCIÓN XI DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Secretaría de Finanzas y la Secretaría de Administración, llevarán a cabo todos los actos legales y administrativos que se susciten con motivo de la presente reforma.
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 6°, 102, 104, 106 Y 108 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Secretaría de Finanzas y la Secretaría de Administración; llevarán a cabo todos los actos legales y administrativos que se susciten con motivo de la presente reforma.
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA A LOS ARTÍCULOS 98, PÁRRAFO CUARTO EN SU FRACCIÓN IX, 107 FRACCIÓN XVIII Y SE LE ADICIONA UNA FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; APROBACIÓN DEL REGLAMENTO DE LA UNIDAD DE DERECHOS HUMANOS DEL MUNICIPIO DE AGUASCALIENTES".]
+
+PRIMERO.- La presente reforma y expedición de Reglamento, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La elección de la persona que ocupará por primera vez el cargo de Titular de la Unidad de Derechos Humanos del Municipio de Aguascalientes, deberá realizarse dentro de los sesenta días contados a partir de la fecha de entrada en vigor de las presentes reformas y del Reglamento que se expide.
 
 ###### ARTICULO UNICO.
 
