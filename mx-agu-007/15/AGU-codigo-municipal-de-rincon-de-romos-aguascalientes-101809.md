@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-rincon-de-romos-aguascalientes-101809"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-28"
-last_updated: "2017-11-13"
+last_updated: "2018-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de julio de 2014.
 
@@ -2133,7 +2133,9 @@ g) Coordinadora de Grupos de la tercera edad; e
 
 h) Instancia Infantil.
 
-V. Contraloría Municipal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE MAYO DE 2018)</small>
+
+V. Órgano Interno de Control:
 
 a) Subcontralor;
 
@@ -2142,6 +2144,18 @@ c) (Sic) Departamento de Transparencia;
 d) Departamento de Auditorias; y
 
 e) Departamento jurídico.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2018)</small>
+
+f) Departamento de investigación
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2018)</small>
+
+g) Departamento de Substanciación
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2018)</small>
+
+h) Departamento de Resolución
 
 VI. Delegados y Comisarios Municipales (Autoridades Honorarias Auxiliares):
 
@@ -2673,7 +2687,13 @@ XII. Intervenir y participar en el ejercicio de la tutela de menores, a solicitu
 
 XIII. Las demás que les sean señaladas en este Código, la Ley Municipal para el Estado de Aguascalientes y las demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO V. De la Contraloría Municipal
+> <small>[N. DE E. SE SUGIERE CONSULTAR LAS PÁGINAS 81 Y 83, P.O. 21 DE MAYO DE 2018.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2018)</small>
+
+### CAPÍTULO V. Del Órgano Interno de Control
+
+> <small>[N. DE E. SE ADVIERTE QUE ESTE PÁRRAFO ES REPUBLICADO, VÉASE PÁGINA 83, P.O. 21 DE MAYO DE 2018.]</small>
 
 ###### ARTÍCULO 234.
 
@@ -2697,33 +2717,43 @@ VIII.- Supervisar que las adquisiciones de bienes y servicios que realice el Mun
 
 IX.- Vigilar que las obras realizadas por el Municipio, directamente o con participación de terceros se ajuste a las especificaciones fijadas;
 
-X.- Exigir con oportunidad el cumplimento de responsabilidades de los servidores públicos del Municipio;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
-XI.- Emitir las observaciones y las recomendaciones con carácter obligatorio que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente;
+X.- Investigar de Oficio o en atención de las quejas, denuncias y a los hechos o elementos detectados en las auditorias, revisiones y visitas de verificación, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa;
 
-XII.- Fincar pliegos preventivos de responsabilidades a las unidades administrativas y organismos públicos descentralizados, cuando detecten irregularidades por actos u omisiones de los servidores públicos, en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y recursos económicos propios o transferidos.
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2018)</small>
 
-XIII.- Atender las quejas de los vecinos relativas al cumplimiento de contratos y convenios celebrados con el Municipio;
+XI.- Calificar las faltas de los servidores públicos municipales así como las de los particulares que impliquen presuntas responsabilidades administrativas;
 
-XIV.- Exigir que los recursos de las obras se realicen de acuerdo a lo estipulado en la Ley de Obra Pública Estatal y Federal;
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2018)</small>
 
-XV.- Dictaminar la cuenta de Hacienda Pública del Municipio así como de sus organismos públicos descentralizados;
+XII.- Substanciar y Resolver el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-XVI.- Organizar y controlar el registro de las declaraciones patrimoniales de los servidores públicos municipales en los términos de la ley;
+XIII.- Emitir las observaciones y las recomendaciones con carácter obligatorio que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente;
 
-XVII.- Recopilar y procesar información que sea de su competencia;
+XIV.- Fincar pliegos preventivos de responsabilidades a las unidades administrativas y organismos públicos descentralizados, cuando detecten irregularidades por actos u omisiones de los servidores públicos, en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y recursos económicos propios o transferidos;
 
-XVIII.- Preparar informes de evaluación y seguimiento de los asuntos en que intervenga;
+XV.- Atender las quejas de los vecinos relativas al cumplimiento de contratos y convenios celebrados con el Municipio;
 
-XIX.- Informar al Presidente Municipal de los resultados y avances en el cumplimiento de sus atribuciones;
+XVI.- Exigir que los recursos de las obras se realicen de acuerdo a lo estipulado en la Ley de Obra Pública Estatal y Federal;
 
-XX.- Turnar a las diferentes unidades administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
+XVII.- Dictaminar la cuenta de Hacienda Pública del Municipio así como de sus organismos públicos descentralizados;
 
-XXI.- Interpretar para efectos administrativos de este Código la Legislación Federal, Estatal y Municipal, únicamente en lo relativo a cuestiones técnicas de carácter financiero y de vigilancia de los recursos municipales, así como de sistemas de control administrativo y contable, así como de sistemas para prevenir actos ilícitos por parte de los servidores públicos y trabajadores del Municipio;
+XVIII.- Organizar y controlar el registro de las declaraciones patrimoniales de los servidores públicos municipales en los términos de la ley;
 
-XXII.- Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega Recepción de la Administración Pública Municipal, que previene el presente Código.
+XIX.- Recopilar y procesar información que sea de su competencia;
 
-XXIII.- Las demás que expresamente le señalen las Leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento por conducto del Presidente Municipal.
+XX.- Preparar informes de evaluación y seguimiento de los asuntos en que intervenga;
+
+XXI.- Informar al Presidente Municipal de los resultados y avances en el cumplimiento de sus atribuciones;
+
+XXII.- Turnar a las diferentes unidades administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
+
+XXIII.- Interpretar para efectos administrativos de este Código la Legislación Federal, Estatal y Municipal, únicamente en lo relativo a cuestiones técnicas de carácter financiero y de vigilancia de los recursos municipales, así como de sistemas de control administrativo y contable, así como de sistemas para prevenir actos ilícitos por parte de los servidores públicos y trabajadores del Municipio;
+
+XXIV.- Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega Recepción de la Administración Pública Municipal, que previene el presente Código.
+
+XXV.- Las demás que expresamente le señalen las Leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ### CAPÍTULO VI. De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
@@ -17396,3 +17426,15 @@ P.O. 13 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA Y ADICIÓN AL CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS”.]
 
 UNICO.- la presente modificación entrará en vigor a partir de su aprobación en cabildo.
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL, EN SUS ARTÍCULOS 208 Y 234, REFERENTES A LA CONTRALORÍA MUNICIPAL”.]
+
+PRIMERO.- La presente reforma, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Tesorería Municipal y la Dirección de Administración; deberán llevar a cabo 0todos (sic) los actos legales y administrativos a efecto de que el Órgano Interno de Control del Municipio de Rincón de Romos, cuente con sus respectivas claves programáticas, presupuesto correspondientes (sic) y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, asimismo, para que todos los bienes que actualmente posea la contraloría municipal pasen al nuevo órgano, a efecto de que éste cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisiciones de bienes y servicios, arrendamientos, gasto fijo y corriente, asó (sic) como todas y cada una de las erogaciones correspondientes.
+
+TERCERO.- Se faculta al Titular del Órgano Interno de Control del Municipio de Rincón de Romos, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la substanciación de los procedimientos con antelación a la vigencia de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+CUARTO.- Las referencias a la Contraloría Municipal o a su titular contenidas en este Código, así como en otras disposiciones reglamentarias, administrativas, contractuales o en procedimientos de responsabilidades de servidores públicos que se hayan iniciado con la Ley de Responsabilidades de Servidores Públicos del Estado de Aguascalientes, se entenderán hechas al Órgano Interno de Control y a su titular, según corresponda.
