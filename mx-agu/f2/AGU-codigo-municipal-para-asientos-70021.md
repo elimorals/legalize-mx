@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-asientos-70021"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-09-07"
-last_updated: "2014-05-26"
+last_updated: "2018-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de septiembre de 2009.
 
@@ -2223,247 +2223,269 @@ Cada una de las dependencias administrativas integrantes de la Administración P
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 224.
 
-LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CONTARÁN CON LAS SIGUIENTES UNIDADES ADMINISTRATIVAS:
+Las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
 
-I. DE LA OFICINA DEL PRESIDENTE MUNICIPAL:
+I. De la oficina del Presidente Municipal:
 
-A) SECRETARÍA PARTICULAR;
+a) Secretaría Particular;
 
-B) SECRETARIA.
+b) Secretaria.
 
-II. DE LA SECRETARÍA DEL H. AYUNTAMIENTO:
+c) Sindicatura Municipal
 
-A) DIRECCIÓN DE ASUNTOS JURÍDICOS;
+d) Coordinador de Asesores
 
-B) DEPARTAMENTO DE REGLAMENTOS Y LICENCIAS;
+(Asesores de área)
 
-C) DEPARTAMENTO DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS:
+II. De la Secretaría del H. Ayuntamiento:
 
-D) JUECES CALIFICADORES;
+a) Dirección Jurídica;
 
-E) DELEGADOS Y COMISARIOS.
+b) Departamento de Reglamentos y Licencias;
 
-III. DESARROLLO INTEGRAL DE LA FAMILIA:
+c) Departamento de Comunicación Social:
 
-A) PRESIDENTA HONORARIA;
+d) Departamento de Salud;
 
-B) DIRECTOR GENERAL;
+e) Departamento de Instancia de la Mujer;
 
-C) DEPARTAMENTO DE PROGRAMAS GUBERNAMENTALES;
+f) Departamento de Gestión Social;
 
-D) DEPARTAMENTO DE PSICOLOGÍA;
+g) Jueces Calificadores;
 
-E) TRABAJADORA SOCIAL;
+h) Coordinación de Delegaciones y Casas Ciencia
 
-F) COORDINADORA DE GRUPOS DE LA TERCERA EDAD;
+i) Delegados y Comisarios.
 
-G) INTENDENCIA.
+1. Delegaciones:
 
-IV. CONTRALORÍA MUNICIPAL:
+a) Villa Juárez;
 
-A) DEPARTAMENTO DE TRANSPARENCIA;
+b) Pilotos,
 
-B) DEPARTAMENTO DE AUDITORIAS.
+c) Adolfo López Mateos
 
-V. DELEGACIONES Y COMISARIAS MUNICIPALES
+d) Guadalupe de Atlas, y
 
-I. DELEGACIONES:
+e) Ciénega Grande
 
-a) VILLA JUÁREZ;
+2. Comisarias Municipales por Delegaciones:
 
-b) GUADALUPE DE ATLAS;
+a) Delegación Villa Juárez
 
-c) PILOTOS;
+1. Amarillas de Esparza
 
-d) ADOLFO LÓPEZ MATEOS; Y
+2. Charco Azul
 
-e) CIÉNEGA GRANDE.
+3. Colonia San Pedro
 
-II. COMISARIAS MUNICIPALES POR DELEGACIONES:
+4. El Llavero
 
-A) DELEGACIÓN VILLA JUÁREZ
+5. El Polvo
 
-1. AMARILLAS
+6. El Tule
 
-2. CHARCO AZUL
+7. Jilotepec
 
-3. COLONIA SAN PEDRO
+8. La Dichosa
 
-4. EL LLAVERO
+9. Molinos
 
-5. EL POLVO
+10. Pino Suárez
 
-6. EL TULE
+11. San José del Río
 
-7. JILOTEPEC
+12. San Rafael de Ocampo
 
-8. LA DICHOSA
+13. San Vicente
 
-9. MOLINOS
+14. Viudas de Poniente
 
-10. PINO SUÁREZ
+b) Delegación Pilotos
 
-11. SAN JOSÉ DEL RÍO
+1. Bajío de los Campos
 
-12. SAN RAFAEL DE OCAMPO
+2. Colonia Emancipación
 
-13. SAN VICENTE
+3. El Epazote
 
-14. VIUDAS DE PONIENTE
+4. El Salitre
 
-B) DELEGACIÓN GUADALUPE DE ATLAS
+5. Francisco Villa
 
-1. BIMBALETES ATLAS
+6. La Esperanza
 
-2. BIMBALETES AGUASCALIENTES
+7. Las Adjuntas
 
-3. JARILLAS
+8. Las Fraguas
 
-4. NORIAS DEL BORREGO
+9. Las Negritas
 
-5. COLONIA LAS TORRES DE GPE.
+10. Ojo de Agua de los Sauces
 
-C) DELEGACIÓN PILOTOS
+11. San José del Tulillo
 
-1. BAJÍO DE LOS CAMPOS
+12. Tanque de Guadalupe
 
-2. COLONIA EMANCIPACIÓN
+13. Tanque Viejo
 
-3. EL EPAZOTE
+14. Tinajuela
 
-4. EL SALITRE
+c) Delegación Adolfo López Mateos
 
-5. FRANCISCO VILLA
+1. Caldera
 
-6. LA ESPERANZA
+2. Charco Prieto (Palomar)
 
-7. LAS ADJUNTAS
+3. Clavellinas
 
-8. LAS FRAGUAS
+4. Gorriones
 
-9. LAS NEGRITAS
+5. Ojo de Agua de Rosales
 
-10. OJO DE AGUA DE LOS SAUCES
+6. San Antonio de los Martínez
 
-11. SAN JOSÉ DEL TULILLO
+7. Tepetatillo
 
-12. TANQUE DE GUADALUPE
+d) Delegación Guadalupe de Atlas
 
-13. TANQUE VIEJO
+1. Bimbaletes Atlas
 
-14. TINAJUELA
+2. Bimbaletes
 
-D) DELEGACIÓN ADOLFO LÓPEZ MATEOS
+3. Jarillas
 
-1. CALDERA
+4. Norias del Borrego
 
-2. CHARCO PRIETO (PALOMAR)
+5. Colonia los Torres
 
-3. CLAVELLINAS
+e) Delegación Ciénega Grande
 
-4. GORRIONES
+1. La Gloria
 
-5. OJO DE AGUA DE ROSALES
+2. Lázaro Cárdenas
 
-6. SAN ANTONIO DE LOS MARTÍNEZ
+3. Los Encinos
 
-7. TEPETATILLO
+4. Crisóstomos
 
-E) DELEGACIÓN CIÉNEGA GRANDE
+5. San Gil
 
-1. LA GLORIA
+6. Colonia Calles
 
-2. LÁZARO CÁRDENAS
+7. Colonia Gómez Portugal
 
-3. LOS ENCINOS
+III. Desarrollo Integral de la Familia:
 
-4. CRISÓSTOMOS
+a) Presidenta Honoraria;
 
-5. SAN GIL
+b) Dirección del Dif Municipal;
 
-6. COLONIA CALLES
+c) Departamento de Programas Gubernamentales;
 
-7. COLONIA GÓMEZ PORTUGAL
+d) Departamento de Psicología;
 
-VI. TESORERÍA MUNICIPAL:
+e) Trabajadora Social;
 
-A) CONTADOR GENERAL;
+f) Coordinadora de Grupos de la tercera edad;
 
-B) ÁREA CONTABLE DE EGRESOS;
+IV. Contraloría Municipal:
 
-C) ÁREA CONTABLE DE INGRESOS;
+a) Departamento de Transparencia;
 
-D) ÁREA DE CATASTRO;
+b) Departamento de Control Interno y Auditorias.
 
-VII. DIRECCIÓN DE SERVICIOS PÚBLICOS MUNICIPALES Y ECOLOGÍA:
+V. Tesorería Municipal:
 
-A) SUBDIRECCIÓN DE SERVICIOS PÚBLICOS MUNICIPALES;
+a) Contador General;
 
-B) DEPARTAMENTO DE ATENCIÓN AL PÚBLICO Y CALIDAD DE LOS SERVICIOS;
+b) Área Contable de Egresos;
 
-C) ÁREA DE ASEO PÚBLICO;
+c) Área Contable de Ingresos;
 
-D) ÁREA DE ALUMBRADO PÚBLICO;
+d) Área de Catastro;
 
-E) PARQUES Y JARDINES;
+VI. Dirección de Servicios Públicos Municipales:
 
-F) ADMINISTRACIÓN Y MANTENIMIENTO DE SERVICIOS;
+a) Departamento de Atención al Público y Calidad de los Servicios;
 
-G) ÁREA DE MANTENIMIENTO DE VIALIDADES E INFRAESTRUCTURA URBANA;
+b) Departamento de Parques y Jardines;
 
-H) ÁREA DE ECOLOGÍA.
+c) Departamento de Alumbrado público;
 
-VIII. DIRECCIÓN DE DESARROLLO SOCIAL:
+d) Departamento de Limpia;
 
-A) DEPARTAMENTO DE PROGRAMAS GUBERNAMENTALES;
+e) Departamento de Rastros;
 
-B) DEPARTAMENTO DE PROMOCIÓN DEL DEPORTE;
+f) Departamento de Panteones;
 
-C) SUBDIRECCIÓN DE DESARROLLO AGROPECUARIO.
+g) Encargado de Píe Mostrenco
 
-IX. OFICIALÍA MAYOR ADMINISTRATIVA:
+VII. Dirección de Desarrollo Social, Económico y Rural:
 
-A) DEPARTAMENTO DE RECURSOS HUMANOS;
+a) Departamento Desarrollo Social;
 
-B) DEPARTAMENTO DE INFORMÁTICA;
+b) Departamento de Desarrollo Económico;
 
-C) DEPARTAMENTO DE PATRIMONIO, COMPRAS Y SUMINISTROS DE MATERIAL;
+c) Departamento de Desarrollo Rural.
 
-D) ÁREA DE CONTROL VEHICULAR;
+VIII. Oficialía Mayor:
 
-E) ÁREA DE EVENTOS ESPECIALES.
+a) Dirección de Recursos Humanos y Materiales;
 
-X. DIRECCIÓN DE OBRAS PÚBLICAS Y PLANEACIÓN:
+b) Departamento de Recursos Humanos;
 
-A) DEPARTAMENTO DE COSTOS Y PRECIOS UNITARIOS;
+c) Departamento de Recursos Materiales
 
-B) DEPARTAMENTO DE PLANEACIÓN Y DESARROLLO URBANO;
+d) Departamento de Sistemas;
 
-C) DEPARTAMENTO DE PROYECTOS Y SUPERVISIÓN DE OBRAS;
+e) Área de Patrimonio, compras y suministros de material;
 
-D) ÁREA ADMINISTRATIVA Y DE CONCERTACIÓN.
+f) Área de Parque Vehicular;
 
-XI. DIRECCIÓN DE AGUA POTABLE Y ALCANTARILLADO:
+IX. Dirección de Planeación y Obras Públicas:
 
-A) DEPARTAMENTO OPERATIVO;
+a) Subdirección de Planeación y Obras Públicas;
 
-B) DEPARTAMENTO ADMINISTRATIVO Y DE INGRESOS;
+b) Departamento de Planeación y Desarrollo urbano;
 
-C) DEPARTAMENTO DE CULTURA DEL AGUA.
+c) Departamento de obras públicas;
 
-XII. DIRECCIÓN DE SEGURIDAD PÚBLICA Y VIALIDAD:
+X. Dirección de Agua Potable, Alcantarillado y Ecología:
 
-A) SUBDIRECCIÓN DE SEGURIDAD PÚBLICA;
+a) Departamento de Agua Potable y Alcantarillado;
 
-B) DEPARTAMENTO DE TRÁNSITO Y VIALIDAD;
+b) Departamento de Ecología;
 
-C) DEPARTAMENTO DE PROTECCIÓN CIVIL.
+c) Área de Cultura del Agua.
 
-TODOS LOS FUNCIONARIOS QUE OSTENTEN ESTOS CARGOS DE LA ADMINISTRACIÓN MUNICIPAL TENDRÁN DERECHO A PERCIBIR LA REMUNERACIÓN QUE PARA TAL EFECTO SE FIJE EN LAS LEYES DE LA MATERIA O EN LOS ACUERDOS QUE SE EXPIDAN POR EL CABILDO.
+XI. Dirección de Seguridad Pública y Vialidad:
+
+a) Subdirección de Seguridad Pública;
+
+b) Departamento de Tránsito y Vialidad;
+
+c) Departamento de Prevención al Delito
+
+XII. Coordinación de Protección Civil
+
+a) Departamento de Protección Civil
+
+b) Departamento de Bomberos
+
+XIII. Dirección de Educación, Cultura y Deportes
+
+a) Departamento de Educación
+
+b) Departamento de Cultura
+
+c) Departamento de deportes
+
+I. Dirección de Turismo
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
@@ -14013,7 +14035,7 @@ SÍNDICO MUNICIPAL
 
 Lic. Ernesto Rangel Silva.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.]</small>
 
 P.O. 26 DE OCTUBRE DE 2009.
 
@@ -14030,3 +14052,9 @@ P.O. 26 DE MAYO DE 2014.
 PRIMERO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
 
 SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA ASIENTOS QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ARTÍCULO 224 DEL CÓDIGO MUNICIPAL PARA ASIENTOS".]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]</small>
