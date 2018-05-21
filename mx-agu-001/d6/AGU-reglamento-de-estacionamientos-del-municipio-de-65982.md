@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estacionamientos-del-municipio-de-65982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-12"
-last_updated: "2016-10-24"
+last_updated: "2018-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,962 +23,998 @@ state: "AGU"
 ---
 # REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES
+ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE OCTUBRE DE 2008.
 
-Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2009.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
-ING. FRANCISCO GABRIEL ARELLANO ESPINOSA, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los artículos 16, 38, fracciones I y II de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que el Honorable Ayuntamiento 2008-2010, tuvo a bien aprobar el Reglamento de Estacionamientos del Municipio de Aguascalientes, de conformidad con el siguiente
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-D E C R E T O:
+ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
 
-###### ARTÍCULO ÚNICO.
+CONSIDERANDO
 
-Se expide el Reglamento de Estacionamientos del Municipio de Aguascalientes, para quedar como sigue:
+PRIMERO.- En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina de los tribunales de Circuito y juzgados de Distrito, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
 
-### CAPÍTULO I. Disposiciones Generales
+SEGUNDO.- El artículo 17 de la Constitución Federal establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes;
 
-###### Artículo 1°.
+TERCERO.- El artículo 94, párrafo sexto de la Constitución Política de los Estados Unidos Mexicanos y los artículos 81, fracciones IV, VI, XX y XXIV; y 144 de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal, determinar, el número y los límites territoriales de los Circuitos en que se divida el territorio de la República Mexicana, así como el número, delimitación territorial y, en su caso, especialización por materia, de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito en cada uno de los mencionados Circuitos. Asimismo, que cada uno de los circuitos comprenderá los distritos judiciales cuyo número y límites territoriales determine el Consejo de la Judicatura Federal, y que en cada distrito deberá establecerse cuando menos un juzgado;
 
-El presente Reglamento tiene por objeto regular las actividades relacionadas con el servicio de recepción, guarda, protección y devolución de vehículos automotores en lugares públicos o privados en el Municipio, con fundamento en los artículos 115, fracciones II y III, inciso i), de la Constitución Política de los Estados Unidos Mexicanos, 66 y 68 de la Constitución Política del Estado de Aguascalientes y 175, fracción V, 222 y 595, fracción XIX, del Código Urbano del Estado de Aguascalientes, 17 y cuarto transitorio de la Ley de Estacionamientos de Vehículos para los Municipios del Estado de Aguascalientes.
+CUARTO.- Para regular los temas antes señalados se encuentra vigente el Acuerdo General 23/2001, publicado en el Diario Oficial de la Federación el veinticinco de abril de dos mil uno, relativo a la determinación del número y límites territoriales de los circuitos en que se divide el territorio de la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito, el cual sustituyó al Acuerdo General 16/1998, de veinte de mayo de mil novecientos noventa y ocho;
 
-###### Artículo 2°.
+QUINTO.- Con motivo de la creación de órganos jurisdiccionales y su especialización, así como la creación de nuevos Circuitos y su delimitación territorial por parte del Pleno del Consejo de la Judicatura Federal, el referido Acuerdo General 23/2001 ha sido reformado en múltiples ocasiones durante un lapso de más de cuatro años, además de que desde la vigencia del mismo, se han creado nuevos municipios que es necesario incorporar a ese tipo de normatividad; por lo que se hace evidente la necesidad de emitir uno nuevo que lo sustituya y actualice.
 
-La aplicación del presente Reglamento les compete, en el ámbito de sus atribuciones, a las siguientes autoridades:
+En consecuencia, con fundamento en las disposiciones constitucionales y legales citadas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
 
-I. Al H. Ayuntamiento;
+ACUERDO
 
-II. Al Presidente Municipal;
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-III. Al Secretario del H. Ayuntamiento y Director General de Gobierno;
+PRIMERO.- El territorio de la República se divide en treinta Circuitos, cuya circunscripción territorial es la siguiente:
 
-IV. Al Secretario de Desarrollo Urbano;
+I.- PRIMER CIRCUITO: Distrito Federal.
 
-V. Al Síndico Procurador del H. Ayuntamiento;
+II.- SEGUNDO CIRCUITO: Estado de México.
 
-VI. Al Director de Mercados, Estacionamientos y Áreas Comerciales;
+III.- TERCER CIRCUITO: Estados de Jalisco y Colima.
 
-VII. Al Director de Tránsito Municipal;
+IV.- CUARTO CIRCUITO: Estado de Nuevo León.
 
-VIII. Al Director de la Unidad Municipal de Protección Civil; y
+V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
 
-IX. A los demás funcionarios públicos en quien delegue funciones el Presidente Municipal y el Secretario del H. Ayuntamiento y Director General de Gobierno, sin perjuicio de las disposiciones legales y reglamentarias aplicables en la materia.
+VI.- SEXTO CIRCUITO: Estado de Puebla.
 
-###### Artículo 3°.
+VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
-El servicio de estacionamientos es un servicio público no estratégico, de conformidad con los artículos 79, 80 y 81 de la Ley Municipal para el Estado de Aguascalientes.
+VIII.- OCTAVO CIRCUITO: Estado de Coahuila y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
-Dicho servicio comprenderá el servicio de estacionamientos públicos o privados, parquímetros públicos o privados, pensiones y todos aquellos servicios establecidos en el presente Reglamento.
+IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
 
-###### Artículo 4°.
+X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
 
-Corresponde a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, autorizar las actividades relacionadas con la prestación del servicio público de estacionamiento, tomando en cuenta, en el caso de estacionamientos nuevos, los requisitos establecidos en el presente ordenamiento.
+XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-Sólo podrán brindar la prestación del servicio público de estacionamiento las personas que para ello hayan sido autorizadas, en los términos y condiciones establecidas en el presente Reglamento, respetando las cuotas establecidas por el H. Ayuntamiento.
+XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
 
-### CAPÍTULO II. De la Clasificación del Servicio Público de Estacionamiento
+XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
-###### Artículo 5°.
+XIV.- DECIMOCUARTO CIRCUITO: Estados de Yucatán y Campeche.
 
-Los estacionamientos que se encuentren en el Municipio de Aguascalientes se clasificarán en:
+XV.- DECIMOQUINTO CIRCUITO: Estado de Baja California y municipio de San Luis Río Colorado del Estado de Sonora.
 
-I. Estacionamiento Privado: Aquellas áreas destinadas a la guarda de vehículos, en todo tipo de vivienda, así como para cubrir necesidades propias de instituciones educativas, comerciales, empresas o de los particulares, siempre y cuando el servicio otorgado sea gratuito y controlado por cualquier medio.
+XVI.- DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
 
-II. Estacionamiento Público: Aquellos inmuebles de propiedad pública o privada, destinados en forma principal, parcial o total, a la prestación al público en general del servicio de recepción, guarda y devolución de vehículos, a cambio del pago de la tarifa autorizada para tal efecto.
+XVII.- DECIMOSEPTIMO CIRCUITO: Estado de Chihuahua.
 
-###### Artículo 6°.
+XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
 
-Los estacionamientos públicos se clasifican:
+XIX.- DECIMONOVENO CIRCUITO: Estado de Tamaulipas.
 
-I. Atendiendo al órgano que lo presta, en:
+XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
 
-a. Estacionamiento Municipal: Todo aquel estacionamiento que sea propiedad del Municipio de Aguascalientes o administrado por éste.
+XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 
-b. Estacionamiento Público en el Municipio: Todo aquel estacionamiento que no sea propiedad del Municipio de Aguascalientes y que se encuentre dentro de éste.
+XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
-II. Atendiendo a sus instalaciones, en:
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-a. De Primera: Todo aquel inmueble que cuente con estructura, techumbre o techo y pisos de concreto o asfalto, así como topes de contención para vehículos en la totalidad de sus cajones.
+XXIII.- VIGESIMO TERCER CIRCUITO: Estado de Zacatecas.
 
-b. De Segunda: Todo aquel inmueble con techumbre sólo en el área de cajones, con piso de concreto, asfalto, pavimento, grava o empedrado, así como topes de contención para vehículos por lo menos en el cincuenta por ciento de sus cajones.
+XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
-c. De Tercera: Todo aquel inmueble que pueda utilizarse como estacionamiento, que tenga piso de asfalto, concreto, grava o empedrado, y que se encuentre cercado al menos por malla metálica de 2.10 metros de altura a su alrededor.
+XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
 
-Todos los estacionamientos, independientemente de su clasificación, deberán cumplir con las disposiciones establecidas en el presente Reglamento, el Código Municipal de Aguascalientes y las demás disposiciones jurídicas aplicables.
+XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
 
-III. Atendiendo al tipo de servicio, en:
+XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 
-a. De autoservicio: Todo aquel estacionamiento en el cual, el cliente conduce su automóvil hasta el cajón en que quedará estacionado de manera definitiva, quedándose el cliente con la posesión de las llaves de su vehículo.
+XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
-b. De acomodadores: Todo aquel estacionamiento en el cual, el cliente conduce su automóvil hasta la entrada del lugar o giro comercial al que se dirige y entrega la posesión del automóvil a una persona que se encargará de dirigirlo al estacionamiento público o privado autorizado para tal efecto.
+XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
-IV. Atendiendo a su temporalidad, en:
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-a. Definitivos: Todo aquel estacionamiento que funciona con la intención de seguirlo haciendo de manera indefinida. Todas las reglas generales contenidas en este Reglamento, se entenderán aplicables a este tipo de estacionamientos, a menos que expresamente se señale lo contrario.
+XXX.- TRIGESIMO CIRCUITO: Estado de Aguascalientes.
 
-b. Eventuales: Todo aquel estacionamiento que funciona únicamente para dar este tipo de servicio público en eventos especiales o por cierta temporalidad.
+SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
 
-V. Atendiendo a la cuota que cobrará, en:
+I.- PRIMER CIRCUITO:
 
-a. Cobro por hora: Aquellos que cobren por hora su servicio, otorgando una tolerancia de 5 minutos a los usuarios del estacionamiento.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 59/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE SEPTIEMBRE DE 2006)</small>
 
-b. Cobro por pensión: Aquellos que cobren su servicio de estacionamiento por pensión periódica.
+1.- Cincuenta y seis tribunales colegiados especializados: diez en materia penal, diecisiete en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
 
-VI. Atendiendo a su ubicación, en:
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 60/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE SEPTIEMBRE DE 2006)</small>
 
-a. Superficial: Todo aquel estacionamiento que se encuentre construido y ubicado sobre el nivel del suelo.
+2.- Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-b. Subterráneo: Todo aquel estacionamiento que se encuentre construido y ubicado, aún parcialmente, bajo el nivel del suelo.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL DEL 70/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE NOVIEMBRE DE 2006)</small>
 
-c. Mixto: Todo aquel estacionamiento en el cual se actualicen las dos subclasificaciones inmediatas anteriores.
+3.- Sesenta y siete juzgados de distrito en el Distrito Federal, especializados: dieciocho en materia de procesos penales federales, catorce de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil, y seis en materia de trabajo, todos con sede en el Distrito Federal.
 
-e (sic). Vertical: Todo aquel estacionamiento que cuente con dos o más pisos en los que se preste el servicio.
+II.- SEGUNDO CIRCUITO:
 
-f. Horizontal: Todo aquel estacionamiento que cuente con una sola planta en la que se preste el servicio.
+1.- Doce tribunales colegiados especializados: cuatro en materia penal, cuatro en materia civil y uno en materia de trabajo, con residencia en Toluca y tres tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez.
 
-VII. Respecto a su duración, en:
+2.- Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Nezahualcóyotl.
 
-a. Establecimiento público con servicio de pensión: Todo aquel estacionamiento que brinde servicio de recepción, guarda, protección y devolución de vehículos las 24 horas.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 33/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE AGOSTO DE 2008)</small>
 
-b. Establecimiento público sin servicio de pensión: Todo aquel estacionamiento que brinde servicio de recepción, guarda, protección y devolución de vehículos por hora en un horario previamente delimitado.
+3.- Veintitrés juzgados de Distrito en el Estado de México: seis especializados en materia de procesos penales federales y cinco especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; ocho juzgados de Distrito mixtos con sede en Naucalpan de Juárez y cuatro con sede en Nezahualcóyotl.
 
-### CAPÍTULO III. De la Prestación del Servicio Público de Estacionamiento
+III.- TERCER CIRCUITO:
 
-###### Artículo 7°.
+1.- Trece tribunales colegiados especializados: dos en materia penal, cuatro en materia administrativa, cinco en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
 
-El servicio público de estacionamiento que se preste a los particulares diferente al de las calles, avenidas y demás vialidades, se realizará en inmuebles construidos o acondicionados especialmente para ello, en cuya construcción, instalación y conservación se acatarán las disposiciones del presente ordenamiento y demás disposiciones jurídicas aplicables.
+2.- Cuatro tribunales unitarios con residencia en Guadalajara.
 
-Dentro del perímetro de la zona de monumentos históricos, en los términos del artículo 1262 del Código Municipal de Aguascalientes, únicamente pueden funcionar los estacionamientos clasificados como de primera y de segunda, de acuerdo a lo dispuesto por el artículo 6° del presente Reglamento.
+3.- Diecinueve juzgados de Distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; cinco en materia administrativa y de trabajo y cinco en materia civil, todos con residencia en Guadalajara.
 
-###### Artículo 8°.
+4.- Dos juzgados de Distrito en el Estado de Colima, con sede en la ciudad del mismo nombre.
 
-La prestación del servicio público de estacionamiento en locales habilitados para tal efecto, podrá realizarse por cualquier persona física o moral, previa autorización por medio de licencia o concesión que le otorgue la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, cuya vigencia será de un año.
+IV.- CUARTO CIRCUITO:
 
-La licencia o concesión para la prestación del servicio de estacionamientos públicos o parquímetros en el Municipio, se sujetará a lo previsto en el presente Reglamento, así como lo que determinen las demás disposiciones jurídicas aplicables.
+1.- Once tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y tres en materia de trabajo, todos con residencia en Monterrey.
 
-La licencia o concesión para la prestación del servicio de estacionamiento no podrá cederse a terceros. Sólo podrá cederse la licencia en caso de muerte del titular de la misma, al beneficiario que expresamente éste designe en ésta y durante su vigencia.
+2.- Dos tribunales unitarios con residencia en Monterrey.
 
-###### Artículo 9°.
+3.- Doce juzgados de Distrito especializados en el Estado de Nuevo León: cinco en materia penal, tres en materia administrativa y cuatro en materias civil y de trabajo, todos con residencia en Monterrey.
 
-La solicitud para obtener la licencia o concesión para la prestación del servicio público de estacionamiento, se presentará por escrito, en los formatos existentes para tal efecto, ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
+V.- QUINTO CIRCUITO:
 
-La referida solicitud deberá acompañarse en original y copia, en su caso, de:
+1.- Cinco tribunales colegiados especializados: tres en materias penal y administrativa; y dos en materia civil y de trabajo, todos con residencia en Hermosillo.
 
-I. Identificación oficial con fotografía del solicitante o, en su caso, el acta constitutiva correspondiente y la debida acreditación del representante legal o, en su defecto, las copias certificadas correspondientes;
+2.- Cinco tribunales unitarios con sede en Hermosillo.
 
-II. La documentación que acredite la propiedad o posesión del predio o local que se destinará como estacionamiento;
+3.- Diez juzgados de Distrito en el Estado de Sonora: cuatro con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
 
-III. La clasificación que corresponda al estacionamiento, de acuerdo a los criterios establecidos por el artículo 6° de este Reglamento;
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 11/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2007)</small>
 
-IV. Croquis de la ubicación del predio o local que se destinará como estacionamiento;
+VI.- SEXTO CIRCUITO:
 
-V. El proyecto ejecutivo del estacionamiento, con su respectiva licencia de construcción, que contendrá como mínimo los planos arquitectónicos del estacionamiento, así como la ubicación de las entradas, las salidas y las respectivas casetas de cobro;
+1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en San Andrés Cholula.
 
-VI. Constancia de alineamiento y compatibilidad urbanística expedida por la Secretaría de Desarrollo Urbano Municipal, que acredite el uso de suelo autorizado;
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 16/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE ABRIL DE 2008)</small>
 
-VII. Documento en el que la Dirección de la Unidad Municipal de Protección Civil apruebe las medidas de seguridad con que cuente el establecimiento;
+2.- Dos tribunales unitarios con sede en San Andrés Cholula.
 
-VIII. Licencia sanitaria correspondiente;
+3.- Diez juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+VII.- SEPTIMO CIRCUITO:
 
-IX. Presentar copia certificada de la póliza de seguro contra siniestros, incendios, daños y/o robo de vehículos, en los términos del presente Reglamento;
+> <small>(REFORMADO POR EL PUNTO DECIMOSEXTO DEL ACUERDO GENERAL 15/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2007)</small>
 
-X. Documento que acredite el pago de los derechos que corresponda, emitido por la Secretaría de Finanzas Públicas Municipales;
+1.- Siete tribunales colegiados especializados: dos en materias penal y de trabajo y dos en materia administrativa, con residencia en Boca del Río; dos tribunales colegiados en materia civil y uno en materias penal y de trabajo con sede en Xalapa.
 
-XI. Deberá señalar un domicilio para oír y recibir notificaciones; y
+2.- Dos tribunales unitarios con residencia en Boca del Río.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 68/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE NOVIEMBRE DE 2006)</small>
 
-XII. Contar con la firma del solicitante; y
+3.- Trece juzgados de Distrito en el Estado de Veracruz: tres con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+VIII.- OCTAVO CIRCUITO:
 
-XIII. Presentar alta en la Secretaria de Hacienda y Crédito Público, en el caso de renovación, la solicitud deberá contar con los requisitos de las fracciones II, III, VII, IX y X.
+1.- Cinco tribunales colegiados: tres con residencia en Torreón y dos con sede en Saltillo.
 
-Si faltare alguno de los requisitos, será aplicable la prevención establecida en los artículos 24 y 43 de la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+2.- Dos tribunales unitarios con sede en Torreón.
 
-###### Artículo 10.
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 61/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2006)</small>
 
-Una vez verificado que la solicitud reúne los requisitos señalados en el artículo anterior, la Dirección de Mercados, Estacionamientos y Áreas Comerciales deberá emitir, a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, un dictamen fundado y motivado, dentro de los cinco días hábiles siguientes a la recepción de la solicitud, respecto de la procedencia o no del otorgamiento de la licencia o concesión. Dentro de los cinco días hábiles siguientes a la recepción del dictamen citado, el Secretario del H. Ayuntamiento y Director General de Gobierno resolverá (sic) la procedencia o improcedencia de la solicitud tomando en cuenta dicho dictamen. La Dirección de Mercados, Estacionamientos y Áreas Comerciales deberá notificar de dicha resolución al solicitante, en el domicilio que para tal efecto sea señalado en la solicitud correspondiente, dentro de los cinco días hábiles siguientes a la emisión de la resolución de referencia.
+3.- Ocho juzgados de distrito en el Estado de Coahuila: dos con residencia en Saltillo, uno con sede en Piedras Negras, uno con residencia en Monclava y cuatro en La Laguna, con sede en Torreón.
 
-Asimismo, si el permisionario o concesionario realizan las adecuaciones necesarias a su establecimiento, en cualquier momento podrá solicitar el cambio de categoría del estacionamiento a la Secretaria del H. Ayuntamiento y Dirección General de Gobierno, la cual, por medio de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, realizará la inspección del establecimiento. En un término de 10 días hábiles posteriores a la solicitud del cambio de categoría del estacionamiento, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, notificará al particular la procedencia o improcedencia de la solicitud, tomando en cuenta el cumplimiento de las disposiciones del presente Reglamento.
+IX.- NOVENO CIRCUITO:
 
-###### Artículo 11.
+1.- Tres tribunales colegiados con residencia en San Luis Potosí.
 
-Las cuotas que el autorizado deberá pagar por la licencia o concesión que se le otorgue para la prestación del servicio público de estacionamiento, serán fijadas en la Ley de Ingresos del Municipio de Aguascalientes del ejercicio fiscal que corresponda.
+2.- Un tribunal unitario con sede en San Luis Potosí.
 
-### CAPÍTULO IV. Del Funcionamiento de los Establecimientos Dedicados a la Prestación del Servicio Público de Estacionamiento
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 4/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE FEBRERO DE 2008)</small>
 
-###### Artículo 12.
+3.- Seis juzgados de Distrito en el Estado de San Luis Potosí: cinco con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
 
-La Dirección de Mercados, Estacionamientos y Áreas Comerciales estará facultado para asignar la categoría, que conforme al tipo de estacionamiento le corresponda a dicho establecimiento, así como el cupo máximo de vehículos del mismo.
+X.- DECIMO CIRCUITO:
 
-El servidor público que asigne una categoría que no corresponda o que beneficie indebidamente al permisionario o al concesionario, será sujeto de responsabilidad conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+1.- Tres tribunales colegiados con residencia en Villahermosa.
 
-###### Artículo 13.
+2.- Dos tribunales unitarios con sede en Villahermosa.
 
-Para la prestación del servicio público de estacionamiento, los titulares de la licencia estarán obligados a:
+3.- Cuatro juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
 
-I. Contar con las autorizaciones y permisos vigentes expedidos por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales;
+4.- Tres juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
 
-II. Respetar las cuotas máximas de cobro que le fueron autorizadas por el H. Ayuntamiento, de acuerdo a la categoría del estacionamiento que le corresponda;
+XI.- DECIMOPRIMER CIRCUITO:
 
-III. Mantener el inmueble permanentemente aseado y en condiciones aptas para la prestación del servicio, según su categoría;
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 39/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-IV. En caso de emergencia evidente o decretada por autoridad competente, deberán abrirse todas las salidas del estacionamiento sin la cobranza de tarifa alguna, deslindándose al operador del servicio de cualquier responsabilidad a que fuere sujeto, consecuencia directa de la apertura de todas las salidas del estacionamiento sin el control correspondiente;
+1.- Cuatro tribunales colegiados especializados: uno en materia penal, dos en materias administrativa y de trabajo, y uno en materia civil, todos con residencia en Morelia.
 
-V. Sujetarse al horario autorizado por el Municipio;
+2.- Dos tribunales unitarios con sede en Morelia.
 
-VI. Contar, como mínimo, con las características de un estacionamiento de tercera, conforme a lo dispuesto por el artículo 6°, fracción II, del presente Reglamento;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 67/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2006)</small>
 
-VII. Reservar, para uso exclusivo de personas discapacitadas, un cajón de estacionamiento por cada 25 cajones existentes en el estacionamiento correspondiente, hasta un límite de 75 cajones. Excediendo esta cantidad, habrá uno por cada 50 cajones adicionales de estacionamiento y hasta 250 cajones. Excediendo esta cantidad, habrá uno por cada 80 cajones. Dichos cajones deberán estar lo más cercano posible a las puertas de ingreso al estacionamiento;
+3.- Nueve juzgados de Distrito en el Estado de Michoacán: seis con residencia en Morelia y tres con sede en Uruapan.
 
-VIII. Vigilar y controlar que los cajones de estacionamiento especial para personas discapacitadas, sean exclusivamente utilizados por estas personas, evitando que un usuario no discapacitado utilice dichos cajones, debiendo dar aviso a la autoridad municipal correspondiente;
+XII.- DECIMOSEGUNDO CIRCUITO:
 
-IX. Expedir boletos o contraseñas a los usuarios por cada vehículo;
+1.- Cuatro tribunales colegiados con residencia en Mazatlán.
 
-X. Colocar una leyenda al ingreso del estacionamiento y en un lugar visible sobre el cupo máximo disponible para el estacionamiento, el horario de servicio autorizado, la cuota de cobro, la categoría asignada al estacionamiento y si cuenta o no con póliza de seguro vigente contra incendios, daños, robos y/o cualquier tipo de siniestro;
+2.- Dos tribunales unitarios con sede en Mazatlán.
 
-XI. En caso de estacionamientos públicos con servicio de pensión, el prestador deberá contar con póliza de seguro vigente contra incendios, daños, robos y/o cualquier tipo de siniestro, para garantizar cualquier incidente que pudiere sufrir cualquier vehículo en su guarda. Dicho prestador deberá formular declaración expresa de hacerse responsable directamente de los daños y robos parciales que sufran los automóviles bajo su guarda, por los objetos que se dejen dentro del vehículo, siempre y cuando el usuario haya dejado constancia, mediante inventario, de la situación que guarda el vehículo al momento de su ingreso al estacionamiento, debiendo ser colocada esta leyenda a la entrada de dichos estacionamientos y en lugar visible para los usuarios. Para acreditar lo anterior, se deberá presentar, ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales, original y copia de la póliza de seguro y el recibo actualizado que justifique el pago de dicha póliza a la compañía aseguradora, además de los boletos o contraseñas que contengan la manifestación de responsabilidad para el caso de robo parcial;
+3.- Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
 
-XII. Tomar las precauciones y medidas necesarias para evitar que se cause daño a los vehículos mientras se encuentren en el estacionamiento, para lo cual se deberá contar con herramientas y aditamentos de protección tales como extinguidores o hidrantes, botes areneros, palas, señalamiento de cajones, de entrada y de salida, así como de velocidad máxima permitida;
+XIII.- DECIMOTERCER CIRCUITO:
 
-XIII. Prestar el servicio a toda persona que lo solicite, dentro del horario autorizado para ello, aplicando las restricciones previstas por las disposiciones jurídicas aplicables a aquellas que pretendan utilizarlo para un fin peligroso o ilícito. Cuando tenga conocimiento de la realización de una actividad ilícita, deberá dar notificación a la autoridad correspondiente;
+1.- Tres tribunales colegiados con residencia en Oaxaca.
 
-XIV. Portar, tanto el prestador como quien lo represente y sus empleados, una identificación visible al público, que contenga: Nombre completo, fotografía, cargo y razón social del estacionamiento para el que trabaja;
+2.- Dos tribunales unitarios con sede en Oaxaca.
 
-XV. Sujetarse al cupo de los cajones de estacionamiento que haya autorizado la Dirección de Mercados, Estacionamientos y Áreas Comerciales. También deberá hacer de conocimiento del usuario de que en caso que éste no encuentra cajón disponible, podrá retirarse del estacionamiento dentro de los siguientes 10 minutos a su ingreso, sin cobro alguno;
+3.- Ocho juzgados de Distrito en el Estado de Oaxaca: seis con residencia en Oaxaca y dos con sede en Salina Cruz.
 
-XVI. En los estacionamientos que no cuenten con acomodadores, en ningún caso, podrán solicitar las llaves del vehículo al propietario del mismo;
+XIV.- DECIMOCUARTO CIRCUITO:
 
-XVII. Contar con un registro del personal que labore en el estacionamiento;
+> <small>(REFORMADO POR EL PUNTO DECIMOQUINTO DEL ACUERDO GENERAL 14/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2007)</small>
 
-XVIII. Expedir comprobante de pago cuando el usuario expresamente lo solicite;
+1.- Tres tribunales colegiados especializados: uno en materias penal y administrativa, uno en materias civil y administrativa y uno en materias de trabajo y administrativa, todos con residencia en Mérida.
 
-XIX. Deberá contar con las medidas de seguridad mínimas que le marque la Dirección de la Unidad Municipal de Protección Civil;
+2.- Un tribunal unitario con sede en Mérida.
 
-XX. El estacionamiento deberá estar drenado de acuerdo con la categoría del estacionamiento;
+3.- Cuatro juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida.
 
-XXI. Deberán tener carriles separados, debidamente señalados, para la entrada y salida de los vehículos, con una anchura mínima del arroyo de dos metros cincuenta centímetros cada uno;
+4.- Dos juzgados de Distrito en el Estado de Campeche, con sede en la ciudad del mismo nombre.
 
-XXII. Deberán tener una caseta de control para el público con superficie mínima de dos metros cuadrados;
+XV.- DECIMOQUINTO CIRCUITO:
 
-XXIII. Las construcciones para estacionamiento tendrán una altura libre mínima de dos metros diez centímetros;
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 34/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2008)</small>
 
-XXIV. Señalar claramente el espacio para cada vehículo;
+1.- Cinco tribunales colegiados con residencia en Mexicali.
 
-XXV. Se deberá disponer de una distancia de cuando menos seis metros entre el límite del cajón y el límite del predio o el límite del cajón contiguo. Esta distancia podrá reducirse según el ángulo de inclinación del diseño de los cajones, en la medida que faciliten una maniobra cómoda y segura del vehículo;
+2.- Siete tribunales unitarios: tres con sede en Mexicali y cuatro con residencia en Tijuana.
 
-XXVI. Los encargados del servicio público de estacionamiento no serán responsables de la conservación y cuidado de los animales o bienes perecederos que se encuentren al interior del vehículo; y
+3.- Dieciséis juzgados de Distrito en el Estado de Baja California: seis con sede en Mexicali, ocho con residencia en Tijuana y dos con sede en Ensenada.
 
-XXVII. Las demás que contemplen las disposiciones jurídicas aplicables.
+XVI.- DECIMOSEXTO CIRCUITO:
 
-###### Artículo 14.
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 52/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2007)</small>
 
-Los días y horarios dentro de los cuales se prestará el servicio público de estacionamiento serán autorizados por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
+1.- Cinco tribunales colegiados especializados: dos en materias administrativa y de trabajo, dos en materias civil y de trabajo y uno en materia penal con residencia en Guanajuato, Guanajuato.
 
-### CAPÍTULO V. De las Tarifas
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 45/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2008)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2016)</small>
+2.- Tres tribunales unitarios con sede en Guanajuato.
 
-###### Artículo 15.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 35/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE AGOSTO DE 2008)</small>
 
-A más tardar el 10 de abril de cada año, serán determinadas y aprobadas por el H. Ayuntamiento de Aguascalientes, con base a la propuesta emitida por la Comisión Consultiva de Tarifas de Estacionamientos, las siguientes tarifas:
+3.- Ocho juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y tres con residencia en Celaya.
 
-I.- Las tarifas máximas por hora de los estacionamientos públicos de la primera, segunda y tercera categorías;
+XVII.- DECIMOSEPTIMO CIRCUITO:
 
-II.- Las tarifas máximas de los estacionamientos públicos de primera, segunda y tercera categorías que se cobren en los eventos especiales y durante el periodo de la Feria Nacional de San Marcos;
+1.- Cinco tribunales colegiados: cuatro especializados, dos en materias penal y administrativa; y dos en materias civil y de trabajo, todos con residencia en la ciudad de Chihuahua; así como un mixto, con sede en Juárez.
 
-III.- Las tarifas máximas por día de los estacionamientos públicos de primera, segunda y tercera categorías que presten el servicio de pensión;
+2.- Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Juárez.
 
-IV.- Las tarifas máximas por hora de los parquímetros;
+3.- Diez juzgados de Distrito en el Estado de Chihuahua: cinco con residencia en la ciudad del mismo nombre y cinco con sede en Juárez.
 
-V.- Las tarifas de las calcomanías que exenten a los usuarios de parquímetros de depositar monedas en éstos;
+XVIII.- DECIMOCTAVO CIRCUITO:
 
-VI.- Las tarifas máximas por hora de los estacionamientos públicos de la primera, segunda y tercera categorías que cuenten con póliza de seguros; y
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 75/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2006)</small>
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
+1.- Tres tribunales colegiados con residencia en Cuernavaca.
 
-VII.- Las tarifas máximas por hora de los estacionamientos públicos ubicados dentro de un Centro Comercial, que serán diferenciadas atendiendo a las categorías contenidas en la fracción II del artículo 6° del presente Reglamento.
+2.- Un tribunal unitario con sede en Cuernavaca.
 
-La Comisión Consultiva de Tarifas de Estacionamientos tendrá la obligación de proponer las tarifas de las diferentes categorías de los estacionamientos públicos. La primera, segunda o tercera categoría del estacionamiento público de que se trate será determinada por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, atendiendo a la clasificación del artículo 6° del presente ordenamiento. Todo estacionamiento público deberá estar categorizado por dicha Dirección.
+3.- Cinco juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
 
-Las propuestas de tarifas que haga la Comisión Consultiva de Tarifas de Estacionamientos al H. Ayuntamiento, deberán estar siempre fundadas y motivadas en la realidad comercial del servicio, en las leyes de la oferta y la demanda y buscando siempre promover la inversión y mejora cualitativa y cuantitativa de los estacionamientos públicos que operan en el Municipio.
+XIX.- DECIMONOVENO CIRCUITO:
 
-Dichas propuestas podrán ser modificadas total o parcialmente por el H. Ayuntamiento.
+1.- Seis tribunales colegiados: cuatro especializados, dos en materias administrativa y civil; y dos en materias penal y de trabajo, todos con residencia en Ciudad Victoria; así como dos mixtos, con sede en Reynosa, Tamaulipas.
 
-Las tarifas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, vigentes en tanto no se aprueben nuevas tarifas por parte del propio H. Ayuntamiento.
+2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
-###### Artículo 16.
+3.- Once juzgados de Distrito en el Estado de Tamaulipas: tres con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Matamoros, dos con residencia en Reynosa y dos con sede en Tampico.
 
-La Comisión Consultiva de Tarifas de Estacionamientos estará integrada por:
+XX.- VIGESIMO CIRCUITO:
 
-I.- El Presidente Municipal, quien la presidirá y tendrá el voto de calidad, en caso de empate;
+1.- Tres tribunales colegiados con residencia en Tuxtla Gutiérrez.
 
-II.- El Director de Mercados, Estacionamientos y Áreas Comerciales de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, quien fungirá como Secretario Técnico;
+2.- Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
 
-III.- El Secretario del H. Ayuntamiento y Director General de Gobierno;
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 5/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE FEBRERO DE 2008)</small>
 
-IV.- El Secretario de Finanzas Públicas Municipales;
+3.- Nueve juzgados de Distrito en el Estado de Chiapas: dos especializados en materia de procesos penales federales, con residencia en Cintalapa de Figueroa; siete juzgados de Distrito mixtos: cinco con sede en Tuxtla Gutiérrez y dos con residencia en Tapachula.
 
-V.- Tres Regidores del H. Ayuntamiento de Aguascalientes, siendo éstos los Presidentes de las Comisiones Permanentes de Mercados, Rastros y Estacionamientos, la de Control Reglamentario y Espectáculos y la de Gobernación, respectivamente;
+XXI.- VIGESIMO PRIMER CIRCUITO:
 
-VI.- El Director de Tránsito Municipal de la Secretaría de Seguridad Pública y Tránsito Municipal;
+1.- Cuatro tribunales colegiados especializados: dos en materias civil y de trabajo, con residencia en Chilpancingo; y dos tribunales colegiados en materias penal y administrativa, con sede en Acapulco.
 
-VII.- Un Representante de la Dirección de la Unidad Municipal de Protección Civil;
+2.- Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
 
-VIII.- Un Representante de los propietarios de Estacionamientos, designado por la Cámara Local de Comercio; y
+3.- Ocho juzgados de Distrito en el Estado de Guerrero: dos con residencia en Chilpancingo, cinco con sede en Acapulco y uno con residencia en Iguala.
 
-IX.- Un Representante de la Procuraduría Federal del Consumidor. Mismo que contará con derecho a voz pero no con derecho a voto.
+XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
-La Comisión podrá sesionar con el 50 por ciento de los miembros más uno, previa citación del Secretario Técnico.
+1.- Tres tribunales colegiados con residencia en Querétaro.
 
-Los integrantes de la Comisión podrán nombrar a sus respectivos suplentes. Las decisiones que tome la Comisión serán por mayoría de votos.
+2.- Un tribunal unitario con sede en Querétaro.
 
-###### Artículo 17.
+3.- Cuatro juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
 
-El cobro del servicio por hora, independientemente del tipo de estacionamiento que se trate, otorgando una tolerancia de 5 minutos a los usuarios de los estacionamientos.
+XXIII.- VIGESIMO TERCER CIRCUITO:
 
-Cuando los ejes de un vehículo que utilice un estacionamiento público, excedan la cantidad de dos cajones, el prestador del servicio podrá cobrar por cada eje excedente al par, un 50% adicional al de la tarifa autorizada para dicho estacionamiento, por cada hora.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-El estacionamiento que cuente con póliza de seguro vigente contra incendios, daños, robos y/o cualquier tipo de siniestro, al menos por la cantidad de 5,000 salarios mínimos generales vigentes en el Estado de Aguascalientes, de acuerdo a su categoría, podrán acceder a la tarifa que para su efecto establezca el H. Ayuntamiento.
+1.- Un tribunal colegiado con residencia en Zacatecas.
 
-En los eventos especiales y durante el periodo de la Feria Nacional de San Marcos existirán dos cuotas especiales para cada una de las tres categorías del artículo 6°, fracción II, mismas que serán las siguientes:
+2.- Un tribunal unitario con sede en Zacatecas.
 
-1.- La cuota especial por día: Se cobrará cuando un auto ingrese al estacionamiento, independientemente del tiempo que permanezca dentro del mismo, no pudiendo exceder de 24 horas. Una vez excediendo dicho tiempo se le cobrará nuevamente la cuota especial.
+3.- Dos juzgados de Distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y uno con sede en Guadalupe.
 
-2.- La cuota especial por hora: Se cobrará por cada hora que el auto permanezca dentro del estacionamiento.
+4.- (DEROGADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)
 
-El conductor del vehículo tendrá derecho a elegir la cuota que se le cobrará, al momento de ingresar al estacionamiento, según sus necesidades. Su elección será inobjetable e irrenunciable.
+XXIV.- VIGESIMO CUARTO CIRCUITO:
 
-Los autorizados para brindar el servicio de estacionamiento público sólo podrán cobrar dicha cuota especial cuando éstos cuenten con los permisos para eventos especiales o para la Feria Nacional de San Marcos.
+1.- Un tribunal colegiado con residencia en Tepic.
 
-En el caso de estacionamientos que presten el servicio de pensión, el cobro será por día de servicio.
+2.- Un tribunal unitario con sede en Tepic.
 
-###### Artículo 18.
+3.- Tres juzgados de Distrito en el Estado de Nayarit, con residencia en Tepic.
 
-Los boletos o contraseñas deberán imprimirse de acuerdo con los lineamientos que determine la Dirección de Mercados, Estacionamientos y Áreas Comerciales, debiendo contener como mínimo:
+XXV.- VIGESIMO QUINTO CIRCUITO:
 
-I. La descripción del vehículo por su marca, modelo, color y número de placas, excluyendo a los estacionamientos que cuenten con aparatos automáticos expedidores de boletos;
+1.- Un tribunal colegiado con residencia en Durango.
 
-II. Fecha y hora de entrada y salida;
+2.- Un tribunal unitario con sede en Durango.
 
-III. El teléfono y la dirección de la oficina municipal encargada de recibir las quejas y denuncias de los usuarios;
+3.- Tres juzgados de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre.
 
-IV. Los derechos y obligaciones mínimas del usuario y del concesionario, así como la notificación de que, en caso de abandono por más de treinta días, el permisionario dará aviso a la Dirección de Mercados, Estacionamientos y Áreas Comerciales y, a su vez, al Agente del Ministerio Público competente, para que se proceda de conformidad a lo señalado por la (sic) Código Civil del Estado de Aguascalientes;
+XXVI.- VIGESIMO SEXTO CIRCUITO:
 
-V. En el caso de los estacionamientos con acomodadores, se deberá agregar una leyenda que establezca que la propina es de carácter opcional, así como un espacio para anotar el nombre del acomodador; y
+1.- Un tribunal colegiado con residencia en La Paz.
 
-VI. Si el estacionamiento cuenta con seguro o no y, en caso de contar con seguro, especificar la cobertura de éste.
+2.- Un tribunal unitario con sede en La Paz.
 
-### CAPÍTULO VI. De los Lugares para Estacionamiento en la Vía Pública Regulada por Parquímetros
+3.- Dos juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz.
 
-###### Artículo 19.
+XXVII.- VIGESIMO SEPTIMO CIRCUITO:
 
-En el Municipio de Aguascalientes, el estacionamiento de vehículos en la vía pública es libre en principio y para beneficio de todos sus habitantes, pero en las zonas de mayor afluencia de usuarios del servicio de estacionamiento, el Municipio cobrará el uso de esos lugares mediante la instalación de parquímetros, para el efecto de que sean utilizados dichos espacios por el mayor número de personas, cobrando por ese servicio la cuota que establezca el H. Ayuntamiento a más tardar el 30 de enero de cada año.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 74/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE NOVIEMBRE DE 2006)</small>
 
-Se entenderá por parquímetro el aparato mediante el cual se realiza el cobro de determinados espacios de estacionamiento por cierto tiempo en los lugares que para tal efecto establezca el H. Ayuntamiento.
+1.- Dos tribunales colegiados con residencia en Cancún.
 
-El H. Ayuntamiento determinará las zonas en las cuales se instalarán parquímetros de acuerdo a la demanda, para lo cual solicitará la opinión de la Dirección de Tránsito de la Secretaría de Seguridad Pública y Tránsito Municipal, así como de la Secretaría de Desarrollo Urbano Municipal.
+2.- Un tribunal unitario con sede en Cancún.
 
-###### Artículo 20.
+3.- Cuatro juzgados de Distrito en el Estado de Quintana Roo, uno con residencia en Chetumal y tres con sede en Cancún.
 
-Las zonas donde se determine la instalación de parquímetros, deberán estar debidamente señaladas con pintura blanca, delimitando el espacio correspondiente a cada vehículo de la siguiente forma:
+XXVIII.- VIGESIMO OCTAVO CIRCUITO:
 
-I. En parquímetros sencillos o unitarios, con el poste y el límite del espacio, mediante una "L", delimitándolo con el arroyo de la calle;
+1.- Un tribunal colegiado con residencia en Tlaxcala.
 
-II. En parquímetros dobles o base mancuerna, entre el poste y el límite del espacio, mediante una "T" que indicará el límite de cada uno de ellos en el arroyo de la calle;
+2.- Un tribunal unitario con sede en Tlaxcala.
 
-III. Las dimensiones del cajón por parquímetro será de 5.0 metros hasta 7.0 metros por 2.4 metros en cordón y 5.0 metros por 2.4 metros hasta 3 metros en batería; y
+3.- Dos juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
 
-IV. El parquímetro deberá contener una indicación expresa que señale el cajón al que corresponde.
+XXIX.- VIGESIMO NOVENO CIRCUITO:
 
-###### Artículo 21.
+1.- Dos tribunales colegiados con residencia en Pachuca.
 
-En casos excepcionales y previo permiso de la Dirección de Tránsito de la Secretaría de Seguridad Pública y Tránsito Municipal, podrá autorizarse el estacionamiento de los vehículos de carga en zonas con parquímetros, lo anterior no exime de realizar el pago por el uso del mismo.
+2.- Un tribunal unitario con sede en Pachuca.
 
-###### Artículo 22.
+3.- Tres juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
 
-El H. Ayuntamiento, previa opinión de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, clasificará las zonas de parquímetros de acuerdo a la demanda de espacios para estacionamiento, con el objeto de tener un mayor control en las áreas de vigilancia, recaudación y mantenimiento.
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-###### Artículo 23.
+XXX.- TRIGESIMO CIRCUITO:
 
-Para comodidad del usuario de parquímetros, el H. Ayuntamiento, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, pondrá a la venta calcomanías, que exente al usuario solamente de no depositar monedas en los parquímetros. La vigencia de las calcomanías será hasta por seis meses.
+1.- Dos tribunales colegiados con residencia en Aguascalientes.
 
-###### Artículo 24.
+2.- Un tribunal unitario con sede en Aguascalientes.
 
-Las calcomanías señaladas en el artículo anterior podrán adquirirse en los lugares que el H. Ayuntamiento determine y quienes las adquieran deberán colocarlas en el extremo izquierdo inferior del parabrisas del vehículo, para su fácil localización.
+3.- Tres juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
-###### Artículo 25.
+TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
 
-El H. Ayuntamiento tendrá a su cargo la planeación, ejecución, administración y control de los servicios públicos de tránsito, las calles y su equipamiento, así como el servicio público de parquímetros, mismos que, para su mejor funcionamiento podrán ser prestados por el Municipio, de acuerdo con el Código Municipal de Aguascalientes y las demás disposiciones jurídicas aplicables.
+I.- PRIMER CIRCUITO: Distrito Federal.
 
-### CAPÍTULO VII. Del Servicio Público de Estacionamiento con Acomodadores
+II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en materia penal, en materia administrativa, en materia civil y en materia de trabajo, es el Estado de México.
 
-###### Artículo 26.
+Por lo que toca a los tribunales unitarios con residencia en Toluca, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
 
-Quienes busquen operar el servicio de estacionamiento público con acomodadores, deberá presentar a la Dirección de Mercados, Estacionamientos y Áreas Comerciales una solicitud especial, en la cual deberán quedar claramente asentados y cubiertos los siguientes datos y requisitos:
+En cuanto al tribunal unitario con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
 
-I. Nombre, domicilio, número telefónico e identificación oficial con fotografía del solicitante o, en su caso, el acta constitutiva correspondiente y la debida acreditación del representante legal, que desee tener acceso a la prestación de este tipo de servicio;
+III.- TERCER CIRCUITO: Estados de Colima y Jalisco.
 
-II. En caso de contar o haber contado con otros permisos o autorizaciones para prestar servicio de estacionamiento con acomodadores, deberá documentar el historial que tuviera como prestador de este servicio en los últimos 2 años, incluyendo datos de los permisos otorgados, revocados y/o suspendidos;
+IV.- CUARTO CIRCUITO: Estado de Nuevo León.
 
-III. Identificación oficial con fotografía, licencia de conducir, número de seguro social y, si la tuviere, su historial como acomodador de las personas que fungirán como acomodadores en el estacionamiento. Además, todos los conductores deberán contar con la acreditación o gafete expedido por la Dirección de Mercados, Estacionamientos y Áreas Comerciales;
+V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
 
-IV. Identificación del domicilio, en un plano detallado, del lugar en el que se prestará el servicio de estacionamiento con acomodadores y el nombre del negocio, comercio o evento asociado a dicho domicilio, incluyendo un proyecto detallado que señale claramente el lugar donde se estacionarán los vehículos y el lugar preciso en el cual los clientes deberán de entregar y recoger sus vehículos;
+VI.- SEXTO CIRCUITO: Estado de Puebla.
 
-V. Señalamiento de todos los cajones de estacionamiento que se utilizarán, bien en diverso estacionamiento público o en terreno de propiedad privada, que deberá tener las condiciones de al menos un estacionamiento de tercera categoría, de acuerdo al artículo 6°, fracción II, inciso c, del presente Reglamento, así como el documento, contrato o convenio que demuestre la capacidad legal para utilizar dichos cajones y un proyecto de la ruta que se usará para llevar y regresar los carros, desde el lugar en que se recogen hasta su respectivo cajón y viceversa;
+VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
-VI. Una descripción detallada de la caseta de los acomodadores, su método de operación, las medidas de seguridad que se utilizarán para salvaguardar las llaves de los vehículos y los uniformes o distintivos que serán portados por los acomodadores.
+VIII.- OCTAVO CIRCUITO: Respecto de los tribunales colegiados con residencia en Torreón, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en La Laguna, con sede en Torreón, Coahuila.
 
-VII. Los datos de la póliza de seguro contratada, una copia de la misma y del recibo que ampare su pago, la cual deberá de garantizar por automóvil recibido la responsabilidad civil, robo total o parcial, incendios, siniestros y daños al mismo, cuando menos por la cantidad de 5,000 días de salario mínimo general vigente en el Estado de Aguascalientes al momento de solicitar el permiso o su renovación. Dicho seguro se destinará a cubrir, primeramente, el deducible de cualquier vehículo asegurado, y únicamente se cubrirán los gastos totales y hasta por el máximo de la cantidad amparada, del automóvil que sea objeto de robo o siniestro, cuando éste carezca de seguro o cuando la cantidad amparada por el seguro sea insuficiente; y
+En cuanto a los tribunales colegiados con residencia en Saltillo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Coahuila, con sedes en Saltillo, Piedras Negras y Monclova.
 
-VIII. La solicitud deberá estar firmada por la persona física o moral propietaria del giro comercial o establecimiento en el cual se prestará el servicio de estacionamiento con acomodadores, misma que se obligará solidariamente de cualquier responsabilidad con el prestador del servicio de estacionamiento con acomodadores.
+IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
 
-###### Artículo 27.
+X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
 
-Todas las licencias para el funcionamiento de los estacionamientos con acomodadores se emitirán por periodos máximos de un año fiscal. Dichas licencias nunca excederán del año fiscal en el cual sean emitidos.
+XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-###### Artículo 28.
+XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
 
-La Dirección de Mercados, Estacionamientos y Áreas Comerciales, en un plazo no mayor a cinco días hábiles contados a partir de la presentación de la solicitud, emitirá dictamen donde valorará, la solicitud para operar el servicio de estacionamiento con acomodadores o, en su caso, la renovación del permiso solicitado, donde proporcionará los elementos para que el Secretario del H. Ayuntamiento y Director General de Gobierno emita el permiso correspondiente, debiendo tomar en cuenta las siguientes condiciones:
+XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
-I. Que los antecedentes y el contexto del servicio de estacionamiento con acomodadores que se solicita es tal, que su funcionamiento no pondrá en riesgo la salud y la seguridad de los usuarios, de los vecinos, ni de los peatones en general;
+XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
 
-II. Que el número de cajones de estacionamiento garantizados por el estacionamiento público o privado acondicionado para tal efecto, será suficiente para asegurar que los automóviles de los usuarios que se sirvan utilizar dicho servicio no serán estacionados en los arroyos viales de circulación o en cualquier lugar distinto al acordado;
+XV.- DECIMOQUINTO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora.
 
-III. Que la ruta vehicular propuesta y la ubicación de los cajones exclusivos de recepción y entrega de vehículos, particularmente en relación con cualquier otro estacionamiento con servicio de acomodadores cercano, no creará una problemática de congestionamiento vehicular en la zona propuesta para el funcionamiento del estacionamiento con acomodadores;
+En relación con los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
 
-IV. Que la operación propuesta no causará, de manera excesiva, ruidos, disturbios, contaminación o cualquier otra clase de molestia a los vecinos y deberá ser compatible con el uso de suelo de la zona en la que pretende funcionar;
+En cuanto a los tribunales unitarios con residencia en Tijuana será la misma que la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
 
-V. Que la solicitud propuesta no contravenga ninguna disposición de carácter federal, estatal o municipal, y sea concordante con el Plan Municipal de Desarrollo del Municipio de Aguascalientes;
+XVI.- DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
 
-VI. Que el solicitante de la licencia no haya hecho ninguna declaración falsa o dolosamente imprecisa en su solicitud;
+XVII.- DECIMOSEPTIMO CIRCUITO: Respecto de los tribunales colegiados con sede en Chihuahua, será igual a la establecida para los juzgados de Distrito en la referida ciudad.
 
-VII. Que la operación propuesta ayudará a resolver los existentes o posibles problemas de estacionamiento dentro de la zona y fomentará la utilización de lotes baldíos o terrenos inutilizados; y
+En cuanto al tribunal colegiado con residencia en Juárez, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en esa sede.
 
-VIII. La operación propuesta es viable para ser utilizada por las personas con impedimentos físicos o discapacitados.
+En relación con los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de Distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
 
-###### Artículo 29.
+Por lo que hace a los tribunales unitarios con residencia en Juárez, será la misma que la establecida para los juzgados de Distrito en el Estado de Chihuahua, con sede en la citada ciudad.
 
-Una vez que obtenga su permiso, el prestador del servicio de estacionamiento con acomodadores estará obligado a:
+XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
 
-I. Recibir y entregar el vehículo en el área designada y autorizada para tal efecto;
+XIX.- DECIMONOVENO CIRCUITO: La jurisdicción territorial de los tribunales colegiados con sede en Ciudad Victoria, será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la citada ciudad y en la de Tampico.
 
-II. Respetar la capacidad autorizada de vehículos y, bajo ninguna circunstancia, utilizar la vía pública para estacionar los automóviles recibidos;
+En cuanto a los tribunales colegiados con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
 
-III. Tener debidamente señalado el precio por el servicio de estacionamiento con acomodadores, en el lugar en el cual se reciben y entregan los vehículos;
+La jurisdicción territorial del tribunal unitario con sede en Ciudad Victoria será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en Tampico.
 
-IV. Mantener el área permanentemente aseada y en condiciones aptas para la prestación del servicio de estacionamiento, incluyendo los espacios exclusivos para recoger y entregar los vehículos que puedan encontrarse en la vía pública;
+Por cuanto hace al tribunal unitario con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
 
-V. Que el personal llevará a cabo sus actividades debidamente uniformado, limpio, sobrio, desintoxicado y fuera del influjo de cualquier estupefaciente;
+En relación con el tribunal unitario con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
 
-VI. Capacitar permanentemente al personal en las áreas relativas a la prestación del servicio;
+En lo referente al tribunal unitario con residencia en Nuevo Laredo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con residencia en dicha ciudad.
 
-VII. Expedir los boletos o contraseñas a los usuarios bajo los lineamientos que determine la Dirección de Mercados, Estacionamientos y Áreas Comerciales, mismos que deberán contener como mínimo:
+XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
 
-a) Nombre o razón social de la empresa.
+XXI.- VIGESIMO PRIMER CIRCUITO: Respecto de los tribunales colegiados es el Estado de Guerrero.
 
-b) Descripción del vehículo por marca, tipo, modelo, color, número de placas y estado físico que guarde.
+En cuanto al tribunal unitario con residencia en Chilpancingo, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Guerrero, con sede en dicha ciudad y en Iguala.
 
-c) Dirección del lugar donde se resguardará el vehículo.
+En relación al tribunal unitario con residencia en Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Guerrero, con residencia en la citada ciudad.
 
-d) Fecha y hora de ingreso.
+XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
-e) Clave expedida por la Dirección de Mercados, Estacionamientos y Áreas Comerciales que identifique al empleado que atendió el servicio.
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-f) Declaración expresa de hacerse responsable de los daños que sufran los vehículos bajo su resguardo y de los objetos previamente inventariados que se encuentren en su interior.
+XXIII.- VIGESIMO TERCER CIRCUITO: El Estado de Zacatecas.
 
-g) Informar a los usuarios de la existencia de una fianza o póliza de seguro, en garantía por el pago por responsabilidad civil objetiva, robo, incendio, siniestro o daños al vehículo que sufra durante su resguardo, aclarando que, en los vehículos asegurados, dicha fianza o seguro sólo se utilizará para cubrir el respectivo deducible.
+XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
-VIII. Portar el autorizado y sus empleados una identificación visible al público que contenga nombre completo, fotografía, clave de identificación, cargo y razón social del autorizado en el servicio de acomodadores. La vigencia de la referida identificación deberá ser acorde con la vigencia del permiso y será autorizada y sellada por la Dirección de Mercados, Estacionamientos y Áreas Comerciales;
+XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
 
-IX. Colocar, en la vía pública y a manera de información para los usuarios, las banderolas metálicas como señalamientos del servicio de estacionamiento con acomodadores previamente autorizados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales;
+XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
 
-X. Tener un vigilante en cada uno de los estacionamientos públicos o privados en los cuales se estacionen los automóviles recibidos;
+XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 
-XI. Contar con medidas de seguridad, tales como extinguidores, señalamientos, botes areneros y palas, atendiendo a los términos de la autorización otorgada;
+XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
-XII. Conservar las credenciales autorizadas de identificación de los empleados, cuando éstos no se encuentren en servicio, y facilitarlas a la autoridad municipal para su supervisión y vigilancia cuando así se le requiera, debiendo entregarlas a la Dirección de Mercados, Estacionamientos y Áreas Comerciales cuando el trabajador deje en definitiva el empleo, en un término máximo de tres días hábiles a partir de que ocurra tal circunstancia;
+XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
-XIII. Presentar denuncia ante la Procuraduría General de Justicia del Estado de Aguascalientes y remitir copia de la misma a la Dirección de Mercados, Estacionamientos y Áreas Comerciales, en caso de pérdida o robo de dichas credenciales;
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-XIV. Contar con el original de la autorización correspondiente para la prestación del servicio;
+XXX.- TRIGESIMO CIRCUITO: Estado de Aguascalientes.
 
-XV. Contar con póliza de seguro vigente contra incendios, siniestros, robo total, daño y responsabilidad civil respecto de los vehículos recibidos, además de que serán responsables directos de cualquier robo parcial que pudiere sufrir cualquier vehículo en su guarda. Dicho prestador deberá formular declaración expresa de hacerse responsables directamente de los daños y robos parciales que sufran los automóviles bajo su guarda, siempre y cuando el usuario haya dejado constancia, mediante inventario, de la situación que guarda el vehículo al momento de su ingreso al estacionamiento. Para acreditar lo anterior, se deberá presentar, ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales, original y copia de la póliza de seguro y el recibo actualizado que justifique el pago de dicha póliza a la compañía aseguradora, además de los boletos o contraseña que contengan la manifestación expresa de asumir la responsabilidad en el caso de robo parcial;
+CUARTO.- La jurisdicción territorial de los juzgados de Distrito es la siguiente:
 
-XVI. Responsabilizarse por los objetos que se dejen dentro del vehículo, siempre y cuando el usuario haya hecho del conocimiento de tal circunstancia al encargado del estacionamiento, mediante inventario al ingresar a éste, debiendo ser colocada esta leyenda a la entrada de dichos estacionamientos y en lugar visible para los usuarios;
+I.- PRIMER CIRCUITO:
 
-XVII. Elaborar un inventario detallado donde se describa el estado físico del vehículo, tanto en el exterior como en el interior del mismo, el cual deberá ser firmado por el usuario entregándosele copia del inventario al mismo; y
+Los juzgados de Distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
 
-XVIII. Respetar la capacidad autorizada de vehículos y, bajo ninguna circunstancia, utilizar la vía pública para estacionar los automóviles recibidos.
+II.- SEGUNDO CIRCUITO:
 
-###### Artículo 30.
+Los juzgados de Distrito en materia de procesos penales federales en el Estado de México y los juzgados de Distrito en materias de amparo y de juicios civiles federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Xalatlaco, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
 
-La acreditación de los acomodadores se solicitará en la Dirección de Mercados, Estacionamientos y Áreas Comerciales, mediante escrito acompañado de identificación oficial con fotografía, licencia de conducir y comprobante de domicilio de la persona que lo solicite. Dicha solicitud será contestada por la Dirección en un sentido favorable o negativo, según sea el caso, dentro de los cinco días hábiles siguientes a la solicitud realizada. La Dirección deberá guardar registro de todas las acreditaciones emitidas. La acreditación tendrá una vigencia de un año a partir de la fecha de su expedición.
+Los juzgados de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Santa María Tonatitla, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
 
-###### Artículo 31.
+Los juzgados de Distrito en el Estado de México, con residencia en Nezahualcóyotl, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad.
 
-Los usuarios del servicio de estacionamiento con acomodadores están obligados a reportar las fallas mecánicas y eléctricas, golpes en la carrocería, rayones y daños en cristales o espejos del vehículo estacionado, así como el inventario de los objetos dejados en su interior, y los permisionarios de este tipo de servicio están obligados a notificar esta obligación a todos sus clientes.
+III.- TERCER CIRCUITO:
 
-Los boletos o contraseñas que otorguen los prestadores de este servicio deben expresar dicha obligación, además de una leyenda que claramente especifique que la propina no tiene carácter de obligatoria.
+Los juzgados de Distrito en el Estado de Jalisco, con residencia en Guadalajara y Puente Grande, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-###### Artículo 32.
+Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-La Dirección de Mercados, Estacionamientos y Áreas Comerciales llevará un registro del personal que labore en los servicios de estacionamiento con acomodadores, para lo cual los permisionarios deberán hacer de su conocimiento, dentro de los tres días hábiles siguientes, los movimientos de altas y bajas de su personal, así como sus domicilios, cargo que desempeñan, historial como acomodadores y su número de licencia de chofer anexando copia de la misma.
+IV.- CUARTO CIRCUITO:
 
-### CAPÍTULO VIII. De los Estacionamientos Públicos en Centros o Plazas Comerciales
+Los juzgados de Distrito en el Estado de Nuevo León, con residencia en Monterrey, ejercerán jurisdicción territorial en el distrito judicial que conforma el territorio de la propia entidad federativa.
 
-###### Artículo 33.
+V.- QUINTO CIRCUITO:
 
-Los estacionamientos públicos ubicados en centros o plazas comerciales, se sujetarán a las siguientes reglas particulares, sin perjuicio de las reglas generales previstas en el presente Reglamento:
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Pesqueira y Yécora.
 
-I. Cobrarán, en su caso, de acuerdo a la tarifa máxima aplicable determinada por el H. Ayuntamiento, de acuerdo con el procedimiento establecido en el artículo 15 del presente ordenamiento, pudiendo, en su caso, exentar del pago a los usuarios del estacionamiento;
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de Altar, Atil, Benjamín Hill, Caborca, Cucurpe, General Plutarco Elías Calles, Imuris, Magdalena, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
 
-II. Podrán aplicar las políticas de descuentos que los establecimientos decidan, además de las que señalen los permisos otorgados; y
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario y San Ignacio Río Muerto.
 
-III. Contar como mínimo con un vigilante por cada 200 cajones de estacionamiento, quienes además deberán dirigir el tráfico vehicular de tal forma que siempre se dé preferencia al peatón.
+El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
 
-### CAPÍTULO IX. De los Estacionamientos que Presten Servicios a los Usuarios de Giros Comerciales, Hoteleros, Restauranteros o Centros de Diversión
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 11/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 2007)</small>
 
-###### Artículo 34.
+VI.- SEXTO CIRCUITO:
 
-Los estacionamientos destinados a prestar el servicio a usuarios de establecimientos hoteleros, restauranteros, centros de diversión o giros comerciales, deberán contar con permiso expedido por la Dirección de Mercados, Estacionamientos y Áreas Comerciales y se sujetarán a las siguientes reglas particulares, sin perjuicio de las reglas generales establecidas en el presente Reglamento y las demás disposiciones aplicables.
+Los Juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-###### Artículo 35.
+VII.- SEPTIMO CIRCUITO:
 
-Para la prestación del servicio de estacionamientos que presten servicio a los usuarios de establecimientos con giros comerciales, hoteleros, restauranteros o centros de diversión, deberán:
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, San Rafael, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
 
-I. Cumplir con los requisitos establecidos en el artículo 13, fracciones I, III, IV, V, VI, VII, VIII, XVI, XVII, XX, XXI, XXII, XXIV, XXV y XXVI del presente Reglamento;
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Alvarado, Amatitlán, Angel R. Cabada, Boca del Río, Carlos A. Carrillo, Catemaco, Cosamaloapan, Cotaxtla, Chacaltianguis, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Paso de Ovejas, Playa Vicente, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Ursulo Galván y Veracruz.
 
-II. Contar como mínimo con un vigilante por cada 200 cajones de estacionamiento, quienes además deberán dirigir el tráfico vehicular de tal forma que siempre se de preferencia al peatón; y
+El Juzgado de Distrito en el Estado de Veracruz, con sede en Córdoba, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acultzingo, Amatlán de los Reyes, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Coetzala, Córdoba, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huiloapan de Cuauhtémoc, Ixhuatlancillo, Ixtaczoquitlán, La Perla, Los Reyes, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Paso del Macho, Rafael Delgado, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tehuipango, Tequila, Texhuacán, Tezonapa, Tlaquilpa, Tlilapan, Tomatlán, Xoxocotla, Yanga y Zongolica.
 
-III. Las demás que contemplen las disposiciones jurídicas aplicables.
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cerro Azul, Citlaltépetl, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, El Higo, Huayacocotla, Llamatlán, Ixcatepec, Ixhuatlán de Madero, Naranjos Amatlán, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Temapache, Tempoal, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán.
 
-El dueño del establecimiento hotelero, restaurantero o centro de diversión será responsable de cualquier percance por incendios, daños, robos o cualquier tipo de siniestro a los vehículos de los usuarios de dicho establecimiento. En caso de suscitarse una controversia al respecto, se procederá en los términos de la legislación civil o penal vigente y aplicable.
+Los juzgados de Distrito en el Estado de Veracruz, con sede en Poza Rica, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Castillo de Teayo, Cazones de Herrera, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo.
 
-###### Artículo 36.
+VIII.- OCTAVO CIRCUITO:
 
-En caso de que la prestación del servicio de estacionamientos relacionados con giros comerciales, hoteleros, restauranteros o centros de diversión, sea por medio de acomodadores, deberán acatar las disposiciones del artículo 30 del presente Reglamento.
+Los juzgados de Distrito en el Estado de Coahuila, con residencia en Saltillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
 
-### CAPÍTULO X. De los Estacionamientos Públicos en Eventos Especiales y Durante La Feria Nacional de San Marcos
+El juzgado de Distrito en el Estado de Coahuila, con residencia en Piedras Negras, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuña, Allende, Guerrero, Hidalgo, Jiménez, Juárez, Morelos, Múzquiz, Nava, Piedras Negras, Progreso, Sabinas, San Juan de Sabinas, Villa Unión y Zaragoza.
 
-###### Artículo 37.
+El juzgado de Distrito en el Estado de Coahuila, con residencia en Monclova, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Candela, Castaños, Cuatrociénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada.
 
-Los estacionamientos públicos en eventos especiales o durante la Feria Nacional de San Marcos, son aquellos inmuebles, de propiedad pública o privada, destinados en forma principal, parcial o total, a la prestación al público en general del servicio de recepción, guarda, protección y devolución de vehículos, a cambio del pago de la tarifa autorizada y que, como mínimo, tengan piso de asfalto, concreto, grava o empedrado, y que se encuentre cercado al menos por malla metálica de 2.10 metros de altura a su alrededor, los cuales solicitarán un permiso especial para que puedan ser utilizados como estacionamientos públicos, durante eventos especiales, tales como exposiciones, juegos de fútbol, juegos básquetbol, corridas de toros, festivales, conciertos u otros eventos similares, así como en zonas que, a juicio de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, tienen alta demanda de estacionamiento y cuyo beneficio de los permisos especiales será el derecho de cobrar las tarifas máximas para eventos especiales y durante la Feria Nacional de San Marcos, aprobadas por el H. Ayuntamiento.
+Los juzgados de Distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
 
-El permiso para eventos especiales o durante la Feria Nacional de San Marcos, podrá ser otorgado sin perjuicio del permiso que se tenga para funcionar como estacionamiento público.
+IX.- NOVENO CIRCUITO:
 
-Los estacionamientos de primera, segunda y tercera categorías sólo podrán cobrar las tarifas máximas de los eventos especiales y durante la Feria Nacional de San Marcos, mientras cuenten con los permisos especiales expedidos para tal efecto por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+Los juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Ciudad Fernández, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Rioverde, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierranueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
 
-###### Artículo 38.
+El juzgado de Distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo y Xilitla.
 
-La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá otorgar la autorización especial para la prestación del servicio público de estacionamiento en eventos especiales o durante el periodo de la Feria Nacional de San Marcos, siempre y cuando, el solicitante cumpla con los siguientes requisitos:
+X.- DECIMO CIRCUITO:
 
-I. Presentar la solicitud correspondiente, por escrito, ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales. Dicha solicitud deberá ser presentada con un mínimo de cinco días hábiles de anticipación a la fecha del evento especial y quince días hábiles antes del comienzo de la Feria Nacional de San Marcos en caso de que quiera operar durante ésta, en donde precisará los días de duración del mismo, así como la cantidad de cajones que habilitará dentro del estacionamiento público eventual;
+Los juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2009)</small>
+Los juzgados de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
-II. Presentar una fianza o póliza de seguro de responsabilidad civil de estacionamientos, que cubra siniestros, robo total y/o daños a unidades o vehículos, al menos por el diez por ciento de los cajones autorizados al estacionamiento y determinando un sublímite de cobertura por el monto equivalente a 2,000 días de salario mínimo general vigente en el Estado de Aguascalientes por cajón;
+XI.- DECIMOPRIMER CIRCUITO:
 
-III. Presentar la documentación que acredite la posesión o propiedad del inmueble que se pretenda habilitar para funcionar como estacionamiento público eventual;
+Los juzgados de Distrito en el Estado de Michoacán, con residencia en Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Zacapu, Zináparo, Zinapécuaro y Zitácuaro.
 
-IV. Determinar la clasificación del estacionamiento, de acuerdo a los criterios establecidos por el artículo 6° del presente Reglamento;
+Los juzgados de Distrito en el Estado de Michoacán, con residencia en Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tinguindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Ziracuaretiro.
 
-V. Presentar el croquis de la ubicación del inmueble que se destinará como estacionamiento, misma ubicación que deberá estar dentro del perímetro designado para tal efecto por la Dirección de Mercados, Estacionamientos y Áreas Comerciales. Dicho perímetro se publicará por lo menos con 15 días hábiles de anticipación al evento, en las oficinas de esa Dirección. En el caso de la Feria Nacional de San Marcos, el perímetro se publicará por lo menos con 30 días hábiles de anticipación al comienzo de la misma, en el Periódico Oficial del Estado de Aguascalientes;
+XII.- DECIMOSEGUNDO CIRCUITO:
 
-VI. Presentar el proyecto ejecutivo del estacionamiento, que contendrá como mínimo los planos arquitectónicos del estacionamiento, la ubicación de las entradas, las salidas y las respectivas casetas de cobro;
+Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Culiacán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Culiacán y Navolato.
 
-VII. Presentar constancia de alineamiento y compatibilidad urbanística expedida por la Secretaría de Desarrollo Urbano Municipal, acreditando el uso de suelo autorizado para tal efecto;
+Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
 
-VIII. Presentar copia de la identificación oficial del solicitante; y
+Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
 
-IX. Cumplir con los requerimientos que, al respecto le solicite la Dirección de Mercados, Estacionamientos y Áreas Comerciales, de acuerdo a la funcionalidad del inmueble.
+XIII.- DECIMOTERCER CIRCUITO:
 
-Por ningún motivo, se otorgará por anticipado ningún permiso, si no ha cumplido con la solicitud, la documentación y el procedimiento correspondiente.
+Los juzgados de Distrito en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de Distrito con residencia en Salina Cruz.
 
-###### Artículo 39.
+Los juzgados de Distrito en el Estado de Oaxaca, con residencia en Salina Cruz, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Asunción Ixtaltepec, Ciudad Ixtepec, Chauites, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero, Reforma de Pineda, Salina Cruz, San Blás Atempa, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Mateo del Mar, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mixtepec (Distrito 22), San Pedro Pochutla, San Pedro Tapanatepec, Santa María Colotepec, Santa María Chimalapa, Santa María Guienagati, Santa María Huatulco, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Tonameca, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Lachiguiri, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
 
-Una vez reunidos los requisitos que señala el artículo anterior y de ser aprobada la solicitud correspondiente por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, se procederá a otorgar la licencia para el funcionamiento como estacionamiento público eventual, dos días hábiles antes para eventos especiales y cinco días hábiles antes del periodo de la Feria Nacional de San Marcos, el cual tendrá validez únicamente durante la vigencia del evento para el cual fue autorizado o durante el periodo de la Feria, previo pago de los derechos que establece la Ley de Ingresos del Municipio de Aguascalientes para el ejercicio fiscal que corresponda.
+XIV.- DECIMOCUARTO CIRCUITO:
 
-La aprobación de los permisos quedará supeditada a la aprobación del perímetro de la Feria Nacional de San Marcos por parte del H. Ayuntamiento.
+Los juzgados de Distrito en el Estado de Yucatán, con residencia en Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-###### Artículo 40.
+Los juzgados de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-La prestación del servicio de estacionamientos públicos en eventos especiales o durante la Feria Nacional de San Marcos, deberá cumplir con todos los requisitos establecidos en el artículo 13 del presente Reglamento. En caso de que la prestación de dicho servicio sea por medio de acomodadores, dichos establecimientos deberán acatar las disposiciones del artículo 30 del presente Reglamento.
+XV.- DECIMOQUINTO CIRCUITO:
 
-###### Artículo 41.
+Los juzgados de Distrito en el Estado de Baja California, con residencia en Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Mexicali del Estado de Baja California y por el municipio de San Luis Río Colorado del Estado de Sonora.
 
-En todo momento y en especial en los eventos especiales, así como durante el periodo de la Feria Nacional de San Marcos, queda prohibido apartar lugares de estacionamiento en la vía pública, permitir el estacionamiento de automóviles en lugares no permitidos o cobrar una cuota sin la autorización para prestar el servicio de estacionamiento.
+Los juzgados de Distrito en el Estado de Baja California, con residencia en Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Playas de Rosarito, Tecate y Tijuana.
 
-Además de la sanción establecida en el presente Reglamento, quienes incurran en esta conducta serán remitidos por los elementos de seguridad pública y tránsito municipal a la Dirección de Justicia Municipal para que los jueces municipales procedan en los términos del Código Municipal de Aguascalientes y demás disposiciones jurídicas aplicables.
+Los juzgados de Distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
 
-### CAPÍTULO XI. De los Vehículos Abandonados en Estacionamientos Públicos
+XVI.- DECIMOSEXTO CIRCUITO:
 
-###### Artículo 42.
+Los juzgados de Distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Allende, Atarjea, Cuerámaro, Doctor Mora, Dolores Hidalgo, Guanajuato, Huanímaro, Irapuato, Pueblo Nuevo, Romita, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Tierra Blanca, Victoria y Xichú.
 
-Los vehículos dados en guarda en un estacionamiento público se presumirán abandonados cuando el propietario o poseedor no lo reclame dentro de los quince días naturales siguientes a la fecha de su ingreso, siempre y cuando el servicio no se haya contratado por un tiempo mayor. Transcurrido el plazo antes señalado, el concesionario o permisionario reportará por escrito dicha situación a la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
+Los juzgados de Distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Pénjamo, Purísima del Rincón, San Felipe, San Francisco del Rincón y Silao.
 
-###### Artículo 43.
+Los juzgados de Distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salamanca, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarímoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
 
-El H. Ayuntamiento, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, solicitará la intervención de la Dirección de Tránsito Municipal, a efecto de que el vehículo abandonado sea remitido a la pensión municipal, con el fin de que se lleve a cabo el procedimiento establecido en el Reglamento de la Pensión Municipal, en el caso de los vehículos abandonados que ingresen a ésta.
+XVII.- DECIMOSEPTIMO CIRCUITO:
 
-###### Artículo 44.
+Los juzgados de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
 
-En caso de que el propietario del vehículo se presentare a reclamar el mismo en el estacionamiento público, el encargado del estacionamiento estará obligado a informarle que su vehículo se encuentra en la pensión municipal.
+Los juzgados de Distrito en el Estado de Chihuahua, con sede en Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxedis G. Guerrero.
 
-### CAPÍTULO XII. De las Normas Mínimas en Materia de Tránsito y Vialidad en los Estacionamientos Públicos
+XVIII.- DECIMOCTAVO CIRCUITO:
 
-###### Artículo 45.
+Los juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-En todos los estacionamientos públicos, independientemente de su clasificación y de su categoría, se deberán seguir los siguientes lineamientos:
+XIX.- DECIMONOVENO CIRCUITO:
 
-I. El permisionario o concesionario deberá colocar todos los señalamientos viales necesarios para asegurar la circulación segura de los vehículos dentro del estacionamiento, tales como:
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Antiguo Morelos, Bustamante, Casas, El Mante, Gómez Farías, Güemez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tula, Victoria, Villagrán y Xicoténcatl.
 
-a) Señalamientos que indiquen el sentido de la circulación.
+Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Nuevo Laredo.
 
-b) Señalamientos que indiquen el alto.
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Matamoros, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
 
-c) Señalamientos que indiquen la máxima velocidad permitida.
+Los juzgados de Distrito en el Estado de Tamaulipas, con sede en Reynosa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
 
-d) Señalamientos que indiquen la cesión y/o preferencia de paso a vehículos y peatones.
+Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
 
-e) Señalamientos que indiquen la altura máxima.
+XX.- VIGESIMO CIRCUITO:
 
-f) Señalamientos que indiquen la entrada y salida de vehículos.
+Los juzgados de Distrito de procesos penales federales en el Estado de Chiapas, con sede en Cintalapa de Figueroa y los juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenajapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
 
-g) Señalamientos que indiquen las rutas de evacuación.
+Los juzgados de Distrito en el Estado de Chiapas, con residencia en Tapachula, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acacoyahua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
 
-h) Las demás que se consideren necesarias para garantizar la seguridad de los usuarios del estacionamiento, a juicio de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
+XXI.- VIGESIMO PRIMER CIRCUITO:
 
-II. El permisionario o concesionario deberá establecer rampas y accesos para personas con discapacidad; y
+Los juzgados de Distrito en el Estado de Guerrero, con residencia en Chilpancingo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acatepec, Ahuacotzingo, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Cochoapa el Grande, Copanatoyac, Cualac, Chilapa de Alvarez, Chilpancingo, Eduardo Neri, General Heliodoro Castillo, Huamuxtitlán, Iliatenco, José Joaquín de Herrera, Leonardo Bravo, Malinaltepec, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
 
-III. El permisionario o concesionario deberá permitir el acceso de las autoridades competentes, en todo momento, cuando así sea necesario o se presente algún hecho vial dentro de las instalaciones del estacionamiento.
+Los juzgados de Distrito en el Estado de Guerrero, con sede en Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Juchitán, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Marquelia, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
 
-###### Artículo 46.
+El juzgado de Distrito en el Estado de Guerrero, con residencia en Iguala, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
 
-Los conductores deberán, dentro del estacionamiento:
+XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
-I. Circular a una velocidad máxima de 20 kilómetros por hora;
+Los juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-II. Ceder, en todo momento, el paso al peatón;
+XXIII.- VIGESIMO TERCER CIRCUITO:
 
-III. Utilizar el cinturón de seguridad;
+Los juzgados de Distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y otro con sede en Guadalupe, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-IV. Respetar las señales de tránsito;
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-V. Obedecer los señalamientos hechos por las autoridades competentes, en los casos que así lo amerite o en casos de emergencia o cuando se susciten hechos viales dentro de las instalaciones del estacionamiento;
+XXIV.- VIGESIMO CUARTO CIRCUITO:
 
-VI. No hacer uso indebido del claxon; y
+Los juzgados de Distrito en el Estado de Nayarit, con residencia en Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-VII. Las demás obligaciones que sean aplicables del Reglamento de Tránsito del Municipio de Aguascalientes.
+XXV.- VIGESIMO QUINTO CIRCUITO:
 
-### CAPÍTULO XIII. De la Inspección y Vigilancia
+Los juzgados de Distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
 
-###### Artículo 47.
+XXVI.- VIGESIMO SEXTO CIRCUITO:
 
-La Dirección de Mercados, Estacionamientos y Áreas Comerciales, la Dirección de Tránsito Municipal y la Secretaría de Desarrollo Urbano, serán las encargadas de inspeccionar y vigilar el cumplimiento de este Reglamento.
+Los juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-###### Artículo 48.
+XXVII.- VIGESIMO SEPTIMO CIRCUITO:
 
-La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, podrá en cualquier momento:
+El juzgado de Distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
 
-I. Ordenar y practicar las visitas de inspección y vigilancia de los estacionamientos públicos, áreas de influencia de los parquímetros, estacionamientos exclusivos, así como las áreas autorizadas para el servicio de estacionamiento con acomodadores y lugares permitidos para funcionar como estacionamiento público eventual con o sin acomodadores, para asegurarse del cumplimiento del presente Reglamento y los acuerdos del H. Ayuntamiento relativas a las licencias y concesiones, así como las que especialmente se dicten para mejorar la prestación del servicio, el buen trato a los usuarios y a sus vehículos, así como la conservación y limpieza de los espacios destinados a la prestación del servicio;
+Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
 
-II. Vigilar que los bienes y espacios incorporados al servicio público de estacionamiento estén destinados exclusivamente a sus fines;
+XXVIII.- VIGESIMO OCTAVO CIRCUITO:
 
-III. Aplicar las sanciones y medidas de seguridad que se derivan del presente Reglamento;
+Los juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-IV. Revocar las autorizaciones y permisos cuando exista causa justificada para llevar ello, en los términos de las disposiciones jurídicas aplicables;
+XXIX.- VIGESIMO NOVENO CIRCUITO:
 
-V. Clausurar temporal o definitivamente cualquier estacionamiento cuando se incumplan las disposiciones del presente Reglamento y demás disposiciones jurídicas aplicables.
+Los juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-###### Artículo 49.
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL 29/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2008)</small>
 
-Todo servidor público asignado a la inspección y vigilancia del servicio público de estacionamiento, deberá llevar a cabo sus actividades plenamente identificado, mediante credencial u oficio que lo acredite para esta labor o comisión.
+XXX.- TRIGESIMO CIRCUITO:
 
-Los autorizados para la prestación del servicio público regulado por el presente Reglamento, deberán permitir al personal de supervisión que realice sus funciones y proporcionarles la documentación y datos que le soliciten. Para los actos de inspección y vigilancia se estará a lo dispuesto por el Código Municipal de Aguascalientes y la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+Los juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-Para efectos de inspección, vigilancia y notificación, todos los días y horas serán hábiles para efectos del presente Reglamento.
+(ADICIONADA POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 21/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE SEPTIEMBRE DE 2008) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2008)
 
-### CAPÍTULO XIV. De las Infracciones, Medidas de Seguridad y Sanciones a los Estacionamientos Públicos
+XXXI.- Los Jueces de Distrito en Materia Penal del Primero, Segundo y Tercer Circuito, y los Mixtos con sede en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales, conforme al turno que les corresponda.
 
-###### Artículo 50.
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 52/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
 
-Serán consideradas como infracciones las conductas violatorias a lo dispuesto por los artículos 13, 18, 30 y demás que contengan obligaciones del presente Reglamento. Tales infracciones deberán ser sancionadas por la Dirección de Mercados, Estacionamientos y Áreas Comerciales de conformidad a lo señalado en el presente capítulo.
+QUINTO.- Se contará con:
 
-###### Artículo 51.
+1. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
 
-Se entenderá por medidas de seguridad, la adopción y ejecución de las acciones que dicten las autoridades competentes para vigilar el cumplimiento del presente Reglamento, encaminadas a evitar las infracciones y daños que puedan cometerse o causarse por el establecimiento de estacionamientos para cualquier tipo de vehículos.
+2. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, cinco tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
 
-Las medidas de seguridad que se decreten son de inmediata ejecución, tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan, hasta que el particular cuente con los permisos, autorizaciones o concesiones correspondientes.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 56/2008 DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2008)</small>
 
-###### Artículo 52.
+3. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por cinco juzgados de Distrito Auxiliares, un tribunal unitario Auxiliar y dos tribunales colegiados Auxiliares.
 
-Se considerarán como medidas de seguridad:
+4. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, el cual se integrará por siete juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
 
-I. La suspensión de obras y servicios;
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 53/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE OCTUBRE DE 2008)</small>
 
-II. La clausura temporal, total o parcial del estacionamiento;
+5. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, el cual se integrará por un juzgado de Distrito Auxiliar, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
 
-III. La desocupación total o parcial de inmuebles;
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 54/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2008)</small>
 
-IV. La prohibición del uso de cierto equipo; y
+6. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, el cual se integrará por tres juzgados de Distrito Auxiliares, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
 
-V. La advertencia pública, mediante el empleo de medios publicitarios u oficiales, sobre cualquier irregularidad en el establecimiento y funcionamiento de estacionamientos de cualquier tipo;
+Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.
 
-VI. Cualquier prevención que tienda a lograr los fines señalados en el artículo anterior.
+SEXTO.- El Pleno y la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, interpretarán y resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente acuerdo.
 
-###### Artículo 53.
+SEPTIMO.- Los asuntos que como consecuencia de la entrada en vigor de este acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal de Circuito o juzgado de Distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
 
-Todas las sanciones previstas en el presente capítulo son independientes a la clausura de la que pudiere ser objeto el estacionamiento público respectivo. Además, son independientes de las sanciones establecidas por la Procuraduría Federal del Consumidor, así como las establecidas por la Ley Federal sobre Metrología y Normalización.
+## TRANSITORIOS
 
-###### Artículo 54.
+PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-En caso de cometer dos faltas en un término de seis meses, se aplicará el doble de la sanción correspondiente.
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-###### Artículo 55.
+TERCERO.- Queda sin efecto el Acuerdo General 23/2001, publicado en el Diario Oficial de la Federación, el veinticinco de abril de dos mil uno. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
 
-En caso de cometer tres faltas en un término de seis meses, se procederá a la cancelación de la autorización otorgada y, en consecuencia, la clausura definitiva de dicho estacionamiento.
+CUARTO.- Los acuerdos generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente acuerdo y que se refieran a la determinación del número, límites territoriales de los circuitos y distritos judiciales, así como respecto al número, límites territoriales y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito, se integrarán a este acuerdo general para efectos de su actualización.
 
-###### Artículo 56.
+QUINTO.- Las modificaciones en la conformación municipal que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente acuerdo general, serán analizadas por el Consejo de la Judicatura Federal y en su caso, las variaciones relativas a que haya lugar se efectuarán en acuerdos generales que se integren a este acuerdo.
 
-Serán sancionados con una multa de 5 a 15 veces el salario mínimo general vigente para el Estado de Aguascalientes, las conductas que se enumeran en las siguientes fracciones, siguiendo el procedimiento previsto en el artículo 110 del Reglamento de Tránsito del Municipio de Aguascalientes:
+EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, fue aprobado por el Pleno del propio Consejo, en sesión de veintitrés de agosto de dos mil seis, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a veintitrés de agosto de dos mil seis.- Conste.- Rúbrica.
 
-I. Omitir el pago correspondiente por el servicio de parquímetros, de acuerdo al tiempo utilizado;
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
-II. Hacer uso de otros objetos, monedas o tarjetas diferentes a las especificadas en el aparato de parquímetro;
+D.O.F. 13 DE SEPTIEMBRE DE 2006.
 
-III. Dañar o hacer mal uso del parquímetro, sin perjuicio de la acción penal que pudiera ejercerse por tratarse de un daño al patrimonio municipal;
+PRIMERO.- Este acuerdo entrará en vigor el diecisiete de septiembre de dos mil seis.
 
-IV. Ocupar dos o más espacios para estacionarse;
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-V. Obstaculizar o impedir las acciones de inspección o sanción conforme al presente Reglamento;
+D.O.F. 18 DE SEPTIEMBRE DE 2006.
 
-VI. Limitar el ingreso de monedas al parquímetro; y
+ACUERDO GENERAL 59/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-VII. Cobrar, sin derecho, una cuota por permitir el estacionamiento de automóviles en la vía pública.
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
-La Dirección de Tránsito Municipal tendrá la facultad de colocar candados inmovilizadores o enviar a la pensión municipal a todos aquellos vehículos que incurran en cualquiera de las infracciones contenidas en las fracciones I, IV y V del presente artículo.
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-###### Artículo 57.
+D.O.F. 18 DE SEPTIEMBRE DE 2006.
 
-Cualquier persona, permisionario o concesionario que preste el servicio de estacionamiento, independientemente de su clasificación, será sancionada por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, con una multa de 5 a 15 días de salario mínimo general vigente en el Estado de Aguascalientes, cuando no cumplan con las siguientes obligaciones:
+ACUERDO GENERAL 60/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-I. Sujetarse al horario de servicio autorizado por el Municipio, el que deberá ser visible al público;
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
-II. Vigilar y controlar que los cajones de estacionamiento especial para personas discapacitadas, sean exclusivamente utilizados por estas personas, evitando que un usuario no discapacitado utilice dichos cajones, debiendo dar aviso a la Dirección de Tránsito Municipal;
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-III. Tomar las precauciones y medidas necesarias para evitar que se cause daño a los vehículos mientras se encuentren en el estacionamiento, así como contar con herramientas y aditamentos de protección tales como extinguidores o hidrantes, botes areneros, palas, señalamiento de cajones, de entrada y salida, así como de velocidad máxima permitida;
+D.O.F. 3 DE NOVIEMBRE DE 2006.
 
-IV. Prestar el servicio a toda persona que lo solicite, dentro del horario autorizado para ello, aplicando las restricciones previstas por las disposiciones jurídicas aplicables a aquellas que pretendan utilizarlo para un fin peligroso o ilícito. Cuando tenga conocimiento de la realización de una actividad ilícita, deberá dar notificación a la autoridad competente;
+ACUERDO GENERAL 68/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-V. Portar el permisionario o concesionario o quien lo represente, así como sus empleados, una identificación visible al público, que contenga: nombre completo, fotografía, cargo y razón social del estacionamiento para el que trabaja;
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-VI. Colocar una leyenda al ingreso del estacionamiento y en un lugar visible sobre el cupo máximo disponible para el estacionamiento, horario autorizado, cuota de cobro, categoría del estacionamiento y si cuenta o no con póliza de seguro;
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-VII. Expedir comprobante de pago, cuando el usuario expresamente lo solicite;
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Veracruz, con sede en Córdoba, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
 
-VIII. Contar con un registro del personal que labore en el estacionamiento;
+D.O.F. 3 DE NOVIEMBRE DE 2006.
 
-IX. Se deberá disponer de una distancia de cuando menos seis metros entre el límite del cajón y el límite del predio o límite del cajón opuesto. Esta distancia podrá reducirse según el ángulo de inclinación del diseño de los cajones en la medida que faciliten una maniobra cómoda y segura del vehículo.
+ACUERDO GENERAL 69/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-###### Artículo 58.
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-Cualquier persona, permisionario o concesionario que preste el servicio de estacionamiento, independientemente de su clasificación, serán sancionados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales con una multa de 16 a 30 días de salario mínimo general vigente en el Estado de Aguascalientes, cuando no cumplan con las siguientes obligaciones:
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-I. Reservar un cajón de estacionamiento para personas discapacitadas por cada 25 cajones o menos existentes en el estacionamiento público correspondiente, hasta un límite de 75 cajones. Excediendo esta cantidad, habrá un cajón para discapacitados por cada 50 cajones adicionales de estacionamiento y hasta 250 cajones. Excediendo esta cantidad, habrá un cajón para discapacitados por cada 80 cajones. Dichos cajones deberán estar lo más cercano posible a las puertas de ingreso al establecimiento;
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en materia de trabajo en el Distrito Federal, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
 
-II. Expedir boletos o contraseñas a los usuarios por cada vehículo;
+D.O.F. 6 DE NOVIEMBRE DE 2006.
 
-III. Sujetarse al cupo que haya autorizado la Dirección de Mercados, Estacionamientos y Áreas Comerciales;
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-IV. En los estacionamientos que no cuenten con acomodadores, no se deberán solicitar o aceptar las llaves del vehículo al propietario;
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-V. Cumplir con los requisitos de los boletos o contraseñas que determine la Dirección de Mercados, Estacionamientos y Áreas Comerciales;
+TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos atenderán la situación laboral del personal adscrito al Juzgado Séptimo de Distrito en el Estado de Michoacán, con residencia en Morelia, en los términos establecidos en el Dictamen por el que se autorizó su traslado a Morelia, Michoacán.
 
-VI. Señalar claramente el espacio para cada vehículo; y
+CUARTO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Michoacán, con sede en Morelia, con motivo del traslado del Juzgado Séptimo de Distrito en el Estado de Michoacán, con residencia en Uruapan a Morelia.
 
-VII. Deberá contar con las medidas de seguridad mínimas que le marque la Dirección de la Unidad Municipal de Protección Civil.
+D.O.F. 17 DE NOVIEMBRE DE 2006.
 
-###### Artículo 59.
+ACUERDO 70/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-Serán sancionados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales con la clausura temporal de la autorización, permiso o concesión para prestar el servicio de estacionamientos por ocho días naturales a cualquier autorizado, permisionario o concesionario que preste el servicio de estacionamiento y que no cumpla con las siguientes obligaciones:
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-I. Contar con las autorizaciones y permisos vigentes expedidos por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-II. En caso de emergencia evidente o decretada por autoridad competente, abrir todas las salidas del estacionamiento sin la cobranza de tarifa alguna, deslindándose al operador del servicio de cualquier responsabilidad a que fuere sujeto, consecuencia directa de la apertura de todas las salidas del estacionamiento sin el control correspondiente;
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito de amparo en materia penal en el Distrito Federal, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
 
-III. Contar, como mínimo, con las características del establecimiento de un estacionamiento de tercera categoría conforme a lo dispuesto por el artículo 6°, fracción II, del presente Reglamento;
+D.O.F. 17 DE NOVIEMBRE DE 2006.
 
-IV. Interrumpir el servicio sin causa justificada o sin la autorización expresa de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, por más de noventa días naturales;
+ACUERDO 71/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-V. Transmitir, enajenar, gravar o afectar la autorización o los derechos de ésta;
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-VI. Deberán tener carriles separados, debidamente señalados, para la entrada y salida de los vehículos, con una anchura mínima del arroyo de dos metros cincuenta centímetros cada uno;
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-VII. Deberán tener una caseta de control para el público con superficie mínima de dos metros cuadrados;
+D.O.F. 17 DE NOVIEMBRE DE 2006.
 
-VIII. Las construcciones para estacionamiento tendrán una altura libre mínima de dos metros con diez centímetros;
+ACUERDO 72/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-IX. Respetar las cuotas de cobro que le fueron asignadas, de acuerdo con la categoría del estacionamiento;
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-X. En caso de estacionamiento público con servicio de pensión, el autorizado deberá contar con póliza de seguro vigente contra incendios, daños, robos y/o cualquier tipo de siniestro, para garantizar cualquier incidente que pudiere sufrir cualquier vehículo en su guarda. Dicho prestador deberá formular declaración expresa de hacerse responsable directamente de los daños y robos parciales que sufran los automóviles bajo su guarda, por los objetos que se dejen dentro del vehículo, siempre y cuando el usuario haya dejado constancia, mediante inventario, de la situación que guarda el vehículo al momento de su ingreso al estacionamiento;
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-XI. En el caso de los estacionamientos públicos con servicio de pensión, el autorizado deberá responsabilizarse por los objetos que se dejen dentro del vehículo, siempre y cuando el usuario haya hecho del conocimiento de tal circunstancia al encargado del estacionamiento, mediante inventario al ingresar a éste, debiendo ser colocada esta leyenda a la entrada de dichos estacionamientos y en lugar visible para los usuarios; y
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Órganos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Naucalpan de Juárez, con motivo del inicio de funciones del Juzgado Decimoprimero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez.
 
-XII. Las demás que contemplen las disposiciones jurídicas aplicables, el Código Municipal de Aguascalientes y el presente Reglamento.
+D.O.F. 24 DE NOVIEMBRE DE 2006.
 
-###### Artículo 60.
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-Sin perjuicio de las sanciones previstas en los artículos 57, 58 y 59, cualquier persona que preste el servicio de estacionamiento por medio de acomodadores, independientemente de su clasificación, serán sancionados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, con una multa de 5 a 15 días de salario mínimo general vigente en el Estado de Aguascalientes, cuando no cumplan con las siguientes obligaciones:
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-I. Recibir y entregar el vehículo en el área designada y autorizada para tal efecto;
+TERCERO.- Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los tribunales colegiados del Vigésimo Séptimo Circuito, con motivo del inicio de funciones del nuevo órgano jurisdiccional.
 
-II. Tener debidamente señalado el precio por el servicio de estacionamiento con acomodadores, en el lugar en el cual se reciben y entregan los vehículos;
+D.O.F. 30 DE NOVIEMBRE DE 2006.
 
-III. Emplear personal competente que lleve a cabo sus actividades debidamente uniformado, limpio, sobrio, desintoxicado y sin el influjo de cualquier estupefaciente;
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-IV. Capacitar permanentemente al personal en las áreas relativas a la prestación del servicio;
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-V. Portar el autorizado, permisionario o concesionario y sus empleados una identificación visible al público, que contenga nombre completo, fotografía, clave de identificación, cargo y razón social del autorizado en el servicio de acomodadores;
+D.O.F. 9 DE MARZO DE 2007.
 
-VI. Colocar, en la vía pública, a manera de información para los usuarios, las banderolas metálicas como señalamientos del servicio de estacionamiento con acomodadores, previamente autorizados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales;
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
-VII. Contar con medidas de seguridad, tales como extinguidores, señalamientos, botes areneros y palas, atendiendo a los términos de la autorización otorgada;
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-VIII. El autorizado deberá formular declaración expresa de hacerse responsable directo de los daños y robos parciales que sufran los automóviles bajo su guarda, siempre y cuando el usuario haya dejado constancia, mediante inventario de la situación que guarda el vehículo al momento de su ingreso al estacionamiento;
+D.O.F. 23 DE MARZO DE 2007.
 
-IX. Conservar las credenciales autorizadas de identificación de los empleados, cuando éstos no se encuentren en servicio y facilitarlas a la autoridad municipal para su supervisión y vigilancia cuando así se le requiera, debiendo entregarlas a la Dirección de Mercados, Estacionamientos y Áreas Comerciales cuando el trabajador deje en definitiva el empleo, en un término máximo de tres días hábiles a partir de que ocurra tal circunstancia;
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
-X. Presentar denuncia ante la Procuraduría General de Justicia del Estado de Aguascalientes y remitir copia de la misma a la Dirección de Mercados, Estacionamientos y Áreas Comerciales, en caso de pérdida o robo de las credenciales mencionadas en la fracción anterior; y
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-XI. Elaborar un inventario detallado donde se describa el estado físico del vehículo, tanto en el exterior como en el interior del mismo, el cual deberá ser firmado por el usuario entregándose copia del inventario al mismo.
+D.O.F. 15 DE MAYO DE 2007.
 
-###### Artículo 61.
+ACUERDO 14/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-Sin perjuicio de las sanciones previstas en los artículos 57, 58 y 59, cualquier persona que preste el servicio de estacionamiento por medio de acomodadores, independientemente de su clasificación, serán sancionados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales con una multa de 16 a 30 días de salario mínimo general vigente en el Estado de Aguascalientes, cuando no cumplan con las siguientes obligaciones:
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-I. Respetar la capacidad autorizada de vehículos y, bajo ninguna circunstancia, utilizar la vía pública para estacionar los automóviles recibidos;
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-II. Expedir boletos o contraseñas a los usuarios bajo los lineamientos que determine la Dirección de Mercados, Estacionamientos y Áreas Comerciales;
+D.O.F. 15 DE MAYO DE 2007.
 
-III. Tener un vigilante en cada uno de los estacionamientos públicos o privados en los cuales se estacionen los automóviles recibidos.
+ACUERDO 15/2007 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-###### Artículo 62.
+PRIMERO.- Este Acuerdo General entrará en vigor el día de su aprobación.
 
-Serán sancionados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales con la clausura temporal de la autorización, permiso o concesión para prestar el servicio de estacionamientos por ocho días naturales, sin perjuicio de las sanciones de los artículos 57, 58 y 59, a cualquier persona que preste el servicio de estacionamientos por medio de acomodadores, independientemente de su clasificación, cuando no cumplan con las siguientes obligaciones:
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-I. Deberá contar con póliza de seguro vigente contra incendios, siniestros, robo total, daño y responsabilidad civil, además de que serán responsables directos de cualquier robo parcial que pudiere sufrir cualquier vehículo en su guarda.
+TERCERO.- Queda sin efecto la medida ordenada en el Acuerdo CCNO/13/2002, publicado en el Diario Oficial de la Federación el veintiséis de marzo de dos mil dos, y todas aquellas disposiciones dictadas con anterioridad, en lo que se opongan a éste Acuerdo.
 
-II. El autorizado, permisionario o concesionario deberá responsabilizarse por los objetos que se dejen dentro del vehículo, siempre y cuando el usuario haya hecho del conocimiento de tal circunstancia al encargado del estacionamiento, mediante inventario elaborado al ingresar a éste, debiendo ser colocada esta leyenda a la entrada de dichos estacionamientos y en lugar visible para los usuarios; y
+D.O.F. 12 DE NOVIEMBRE DE 2007.
 
-III. Contar con el original de la autorización correspondiente para la prestación del servicio.
+PRIMERO.- Este acuerdo entrará en vigor el día el (sic) de su aprobación.
 
-###### Artículo 63.
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-Cualquier persona, permisionario o concesionario que preste el servicio de estacionamiento a usuarios de establecimientos con giros comerciales, hoteleros, restauranteros o centros de diversión serán sancionados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, con una multa de 5 a 15 días de salario mínimo general vigente en el Estado de Aguascalientes, cuando no cumplan con las siguientes obligaciones:
+D.O.F. 28 DE NOVIEMBRE DE 2007.
 
-I. Contar con los requisitos establecidos en el artículo 13, fracciones V y VIII, del presente Reglamento.
+PRIMERO.- Este acuerdo entrará en vigor el día uno de diciembre de dos mil siete.
 
-###### Artículo 64.
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-Cualquier persona, permisionario o concesionario que preste el servicio de estacionamiento a usuarios de establecimientos con giros comerciales, hoteleros, restauranteros o centros de diversión serán sancionados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, con una multa de 16 a 30 días de salario mínimo general vigente en el Estado de Aguascalientes, cuando no cumplan con las siguientes obligaciones:
+D.O.F. 14 DE FEBRERO DE 2008.
 
-I. Contar con los requisitos establecidos en el artículo 13, fracciones VI, XVI y XVII, del presente Reglamento;
+ACUERDO 4/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO IX, NUMERO 3.
 
-II. Contar como mínimo con un vigilante por cada 200 cajones de estacionamiento, quienes además deberán dirigir el tráfico vehicular de tal forma que siempre se dé preferencia al peatón.
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-###### Artículo 65.
+SEGUNDO.- La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre.
 
-Cualquier persona, permisionario o concesionario que preste el servicio de estacionamiento a usuarios de establecimientos hoteleros, restauranteros, centros de diversión o giros comerciales, serán sancionados por la Dirección de Mercados, Estacionamientos y Áreas Comerciales con la clausura temporal de la autorización, permiso o concesión para prestar el servicio de estacionamientos por ocho días naturales, cuando no se cumplan con los requisitos establecidos en el artículo 13, fracciones I, IV, VI, VII, XX, XXI, XXII, XXIV, XXV y XXVI del presente Reglamento.
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-###### Artículo 66.
+D.O.F. 14 DE FEBRERO DE 2008.
 
-Sin perjuicio de las sanciones previstas en los artículos 57, 58 y 59, serán sancionados, por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, con multa de 16 a 30 días de salario mínimo general vigente para el Estado de Aguascalientes a cualquier estacionamiento público comercial que preste el servicio de estacionamiento, que no cumpla con las obligaciones previstas en el artículo 33 del presente ordenamiento.
+ACUERDO 5/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XX, NUMERO 3
 
-###### Artículo 67.
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-Sin perjuicio de las sanciones previstas en los artículos 57, 58 y 59, serán sancionados, por la Dirección de Mercados, Estacionamientos y Áreas Comerciales, con multa de 10 a 30 días de salario mínimo general vigente para el Estado de Aguascalientes a cualquier estacionamiento público que no cumpla con las obligaciones previstas en el artículo 45 del presente ordenamiento.
+SEGUNDO.- La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez.
 
-###### Artículo 68.
+TERCERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-Los conductores que incumplan con las obligaciones establecidas en el artículo 46 del presente Reglamento serán sancionados, por los elementos de seguridad pública y tránsito municipal, con multa de 5 a 25 días de salario mínimo general vigente para el Estado de Aguascalientes.
+D.O.F. 14 DE ABRIL DE 2008.
 
-### CAPÍTULO XV. Del Recurso de Revisión
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-###### Artículo 69.
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-Las resoluciones que dicte la Dirección de Mercados, Estacionamientos y Áreas Comerciales para la aplicación de este Reglamento, podrán ser impugnadas por los afectados mediante el recurso de revisión, a efecto de que se confirmen, revoquen o modifiquen los actos administrativos que se reclamen.
+D.O.F. 21 DE ABRIL DE 2008.
 
-###### Artículo 70.
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
-Si la persona a quien se le imputa una infracción al presente Reglamento considera que no ha incurrido en ella, podrá inconformarse por escrito ante el Secretario del H. Ayuntamiento y Dirección General de Gobierno, dentro de los diez días hábiles siguientes al de la fecha de la notificación del acto impugnado.
+SEGUNDO. La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Tribunales Unitarios del Sexto Circuito, con residencia en San Andrés Cholula, Puebla.
 
-###### Artículo 71.
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-La interposición del recurso de revisión podrá suspender el acto reclamado, si a juicio de la autoridad no es en perjuicio de la colectividad o si no se contravienen disposiciones jurídicas de orden público. En caso de que la autoridad no otorgue la suspensión, el acto impugnado subsistirá en tanto no se resuelva el recurso.
+D.O.F. 30 DE ABRIL DE 2008.
 
-###### Artículo 72.
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-Una vez interpuesto el recurso de revisión, se recibirán, del recurrente, las pruebas que aporte a la interposición del recurso y éstas deberán desahogarse en el acto, dictándose la resolución procedente dentro de los 10 días hábiles siguientes a su interposición, salvo causas de fuerza mayor. La resolución podrá confirmar, revocar o modificar los actos administrativos reclamados. Contra la resolución que se dicte, resolviendo el recurso hecho valer, no procede recurso alguno.
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-###### Artículo 73.
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
-La resolución que se dicte, resolviendo el recurso de revisión deberá cumplirse en los términos emitidos.
+D.O.F. 11 DE JUNIO DE 2008.
 
-###### Artículo 74.
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-Cuando el infractor no haga uso del recurso de revisión dentro del término de 10 días que le concede este Reglamento, se le tendrá por conforme con las sanciones, resoluciones o negativas que le hubieren sido determinadas.
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-###### Artículo 75.
+D.O.F. 27 DE JUNIO DE 2008.
 
-Lo no dispuesto por el presente capítulo, quedará dispuesto por el Código Municipal de Aguascalientes y las demás disposiciones jurídicas aplicables.
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
-T R A N S I T O R I O S:
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+D.O.F. 4 DE AGOSTO DE 2008.
 
-SEGUNDO.- Todos los permisos para prestar el servicio de estacionamiento otorgados y que se otorguen, deberán ajustarse a las disposiciones del presente Reglamento, a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ACUERDO GENERAL 34/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XV, NUMERO 1.
 
-TERCERO.- Todos los permisionarios o concesionarios que soliciten por primera vez o renueven su permiso para el año de 2009, deberán cumplir con todas las disposiciones del presente Reglamento a más tardar el día 31 de marzo del año 2009.
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
-CUARTO.- Se derogan los artículos 807, 808, 809, 811, 812, 813, 819, 820, 821, 822, 824, 825, 1401, 1402, 1403, 1404 del Código Municipal de Aguascalientes.
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-Lo anterior para el conocimiento de la ciudadanía.
+D.O.F. 4 DE AGOSTO DE 2008.
 
-Dado en el salón de Cabildo por el Honorable Ayuntamiento del Municipio de Aguascalientes en la Sesión Ordinaria celebrada el día cinco de enero del año dos mil nueve.
+ACUERDO GENERAL 35/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO XVI, NUMERO 3.
 
-Ing. Francisco Gabriel Arellano Espinosa, Presidente Municipal de Aguascalientes; Regidores: Imelda Catalina Azcona Reynoso, Antonio Bernal Cisneros, Jorge Etien Brand Romo, Abel Hernández Palos, Jesús Armando López Velarde Campa, Enrique López Hernández, J. Jesús López Martínez, Bertha Mares Ríos, J. Refugio Muñoz de Luna, Maria Esther Pérez Pardo, José Luís Proa de Anda, Luís Armando Salazar Mora, Ma. Leticia Sígala García, Patricia Valadez Bustamante, Juan Carlos Zapata Montoya; Síndico de Hacienda, Marco Aurelio Díaz Díaz; Síndico Procurador, Félix Eloy Reyna Rendón; Lic. Adrián Ventura Dávila, Secretario del H. Ayuntamiento, rúbricas.
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
-Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se dé publicidad para su debido cumplimiento. 6 de enero de 2009.- Ing. Francisco Gabriel Arellano Espinosa.- Rúbrica.
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
+TERCERO. Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de Guanajuato, con sede en Celaya, con motivo del inicio de funciones del Juzgado Octavo de Distrito en el Estado de Guanajuato, con residencia en Celaya.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
+D.O.F. 5 DE AGOSTO DE 2008.
 
-P.O. 20 DE ABRIL DE 2009.
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
-###### ARTÍCULO ÚNICO.
+SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+TERCERO. Se faculta a la Comisión de Creación de Nuevos Organos para emitir acuerdos relativos a la exclusión de turno de nuevos asuntos a los juzgados de Distrito en el Estado de México, con sede en Nezahualcóyotl, con motivo del inicio de funciones del Juzgado Decimosegundo de Distrito en el Estado de México, con residencia en Nezahualcóyotl.
 
-P.O. 9 DE ABRIL DE 2012.
+D.O.F. 15 DE AGOSTO DE 2008.
 
-## [N. DE E. TRANSITORIO DEL ACUERDO DE “REFORMA AL ARTÍCULO 15 DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
-[EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]
+SEGUNDO. La Dirección General de Estadística y Planeación Judicial determinará, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Tribunales Unitarios del Decimosexto Circuito, con residencia en Guanajuato, Guanajuato.
 
-P.O. 19 DE SEPTIEMBRE DE 2016.
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-## [N. DE E. TRANSITORIO DE MODIFICACIONES AL "REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES".]
+D.O.F. 5 DE SEPTIEMBRE DE 2008.
 
-ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-P.O. 24 DE OCTUBRE DE 2016.
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página de internet del Consejo de la Judicatura Federal.
 
-## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, TÍTULO SEGUNDO, DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIOS Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA, REFORMAS AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DEL AGUASCALIENTES."]
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2008)</small>
 
-ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
+TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de distrito que se estén tramitando en los Tribunales Colegiados de Circuito en los que se trate de determinar a cuál órgano corresponde el conocimiento de una causa relacionada con lo previsto en la fracción XXXI que se adiciona al acuerdo general 57/2006 del Pleno del Consejo de la Judicatura Federal, se resolverán en los términos de este acuerdo.
+
+CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 3 DE OCTUBRE DE 2008.
+
+ACUERDO GENERAL 52/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE OCTUBRE DE 2008.
+
+ACUERDO GENERAL 53/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL PUNTO QUINTO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 10 DE OCTUBRE DE 2008.
+
+ACUERDO GENERAL 54/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 10 DE OCTUBRE DE 2008.
+
+ACUERDO GENERAL 56/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO QUINTO.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 27/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los Organos Jurisdiccionales que lo Integrarán.
