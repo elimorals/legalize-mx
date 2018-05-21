@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estacionamientos-del-municipio-de-65982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-12"
-last_updated: "2016-10-24"
+last_updated: "2018-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2009.
 
@@ -233,9 +233,13 @@ V. Sujetarse al horario autorizado por el Municipio;
 
 VI. Contar, como mínimo, con las características de un estacionamiento de tercera, conforme a lo dispuesto por el artículo 6°, fracción II, del presente Reglamento;
 
-VII. Reservar, para uso exclusivo de personas discapacitadas, un cajón de estacionamiento por cada 25 cajones existentes en el estacionamiento correspondiente, hasta un límite de 75 cajones. Excediendo esta cantidad, habrá uno por cada 50 cajones adicionales de estacionamiento y hasta 250 cajones. Excediendo esta cantidad, habrá uno por cada 80 cajones. Dichos cajones deberán estar lo más cercano posible a las puertas de ingreso al estacionamiento;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
 
-VIII. Vigilar y controlar que los cajones de estacionamiento especial para personas discapacitadas, sean exclusivamente utilizados por estas personas, evitando que un usuario no discapacitado utilice dichos cajones, debiendo dar aviso a la autoridad municipal correspondiente;
+VII. Reservar, para uso exclusivo de personas discapacitadas, adultos mayores y mujeres embarazadas un cajón de estacionamiento por cada 25 cajones existentes en el estacionamiento correspondiente, hasta un límite de 75 cajones. Excediendo esta cantidad, habrá uno por cada 50 cajones adicionales de estacionamiento y hasta 250 cajones. Excediendo esta cantidad, habrá uno por cada 80 cajones. Dichos cajones deberán estar lo más cercano posible a las puertas de ingreso al estacionamiento;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2018)</small>
+
+VIII. Vigilar y controlar que los cajones de estacionamiento especial para personas discapacitadas, adultos mayores y mujeres embarazadas, sean exclusivamente utilizados por estas personas, evitando que un usuario que no se encuentre en esas condiciones utilice dichos cajones, debiendo dar aviso a la autoridad municipal correspondiente;
 
 IX. Expedir boletos o contraseñas a los usuarios por cada vehículo;
 
@@ -982,3 +986,9 @@ P.O. 24 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, TÍTULO SEGUNDO, DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIOS Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA, REFORMAS AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DEL AGUASCALIENTES."]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
+
+P.O. 21 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 13 DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Aguascalientes.
