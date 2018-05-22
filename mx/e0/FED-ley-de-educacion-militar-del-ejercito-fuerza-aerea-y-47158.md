@@ -4,7 +4,7 @@ identifier: "FED-ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-47158"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-23"
-last_updated: "2005-12-23"
+last_updated: "2018-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47158&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-12-16"
 ---
 # LEY DE EDUCACION MILITAR DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES LEY DE EDUCACION MILITAR DEL EJERCITO Y FUERZA AEREA MEXICANOS --
 
-LEY DE EDUCACION MILITAR DEL EJERCITO Y FUERZA AEREA MEXICANOS
+LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2005.
 
@@ -41,9 +41,11 @@ LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE MAYO DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular la Educación que imparte la Secretaría de la Defensa Nacional, orientada al conocimiento y aplicación de la ciencia y el arte militar, así como otras afines a las necesidades del Ejército y Fuerza Aérea Mexicanos.
+La presente Ley tiene por objeto regular la Educación que imparte la Secretaría de la Defensa Nacional, orientada al conocimiento y aplicación de la ciencia y el arte militar, así como otras afines a las necesidades del Ejército y Fuerza Aérea Mexicanos, aplicable en igualdad de oportunidades y de trato entre mujeres y hombres.
 
 La aplicación de esta Ley corresponde a la Secretaría de la Defensa Nacional, por conducto de la Dirección General de Educación y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
@@ -239,9 +241,11 @@ La evaluación del proceso educativo estará dirigida a diagnosticar el cumplimi
 
 #### SECCIÓN PRIMERA. DE LOS ASPIRANTES NACIONALES
 
+> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2018)</small>
+
 ###### Artículo 28.
 
-El proceso de admisión a las Instituciones de Educación Militar se señalará en el reglamento respectivo de esta Ley.
+El proceso de admisión a las Instituciones de Educación Militar se señalará en el reglamento respectivo de esta Ley, en el que se deberá promover la igualdad de oportunidades entre mujeres y hombres.
 
 ###### Artículo 29.
 
@@ -366,3 +370,11 @@ SEGUNDO.- Se abrogan todas las disposiciones que se opongan a la presente Ley.
 México, D.F., a 10 de noviembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Yolanda E. González Hernández, Secretaria.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 Y 28 DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
