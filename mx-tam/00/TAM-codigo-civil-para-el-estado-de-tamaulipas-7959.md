@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2017-12-15"
+last_updated: "2018-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2018.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -288,6 +288,10 @@ ART. 59.- El acta de nacimiento se extenderá con asistencia de dos testigos que
 En el caso de no exhibirse el mencionado certificado, se tomará al margen del acta la impresión digital del presentado.
 
 Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil deberá asentar como domicilio del nacido el Municipio donde haya acontecido.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2018)</small>
+
+En todos los casos que se requiera, el Oficial del Registro Civil está obligado a registrar en el acta de nacimiento el nombre solicitado, con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -6437,7 +6441,7 @@ IV.- Tratándose de bienes sujetos al régimen de propiedad en condominio, se ap
 
 V.- Los notarios deberán cerciorarse del cumplimiento de este artículo previamente a la autorización de la escritura de compra-venta;
 
-VI.- Si la compra-venta se celebra en contravención a lo dispuesto en el presente artículo , el arrendatario interesado puede hacer valer la acción de retracto consignando a favor del adquirente el precio de la enajenación, y de esa manera se subrogará en todos los derechos y obligaciones de dicho adquirente.
+VI.- Si la compra-venta se celebra en contravención a lo dispuesto en el presente artículo, el arrendatario interesado puede hacer valer la acción de retracto consignando a favor del adquirente el precio de la enajenación, y de esa manera se subrogará en todos los derechos y obligaciones de dicho adquirente.
 
 En caso de que el arrendatario no dé el aviso a que se refieren las fracciones II y III de este artículo caducará su derecho.
 
@@ -10350,3 +10354,11 @@ P.O. 15 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-414 MEDIANTE EL CUAL SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 59 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
