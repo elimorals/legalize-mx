@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-orden-mexicana-de-la-medalla-de-honor-897"
 country: "mx"
 rank: "reglamento"
 publication_date: "1953-12-12"
-last_updated: "2010-10-25"
+last_updated: "2018-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=897&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1953-12-09"
 ---
 # REGLAMENTO DE LA ORDEN MEXICANA DE LA MEDALLA DE HONOR BELISARIO DOMINGUEZ DEL SENADO DE LA REPUBLICA
 
-REGLAMENTO DE LA MEDALLA DE HONOR BELISARIO DOMINGUEZ
+REGLAMENTO DE LA MEDALLA DE HONOR BELISARIO DOMÍNGUEZ
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2018.
 
 Reglamento publicado en el Diario Oficial de la Federación, el 12 de diciembre de 1953.
 
@@ -65,17 +65,29 @@ La Orden Mexicana de la Medalla de Honor "Belisario Domínguez" del Senado de la
 
 El Senado de la República convocará cada año a la Cámara de Diputados del Congreso de la Unión, a la Suprema Corte de Justicia de la Nación, a las Secretarías de Estado, las Legislaturas de los Estados, la Asamblea Legislativa del Distrito Federal, los órganos autónomos, las universidades y centros de estudios del país, las organizaciones sociales, o cualesquiera otras instituciones representativas de los sectores de la sociedad mexicana, para que presenten candidatos capaces de merecer tan preciada recompensa.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2018)</small>
 
 ###### ARTICULO QUINTO.
 
-El registro de postulaciones se realizará a partir del día primero de enero y hasta el veintiuno de septiembre de cada año.
+La convocatoria deberá ser pública y deberá indicar la dirección electrónica y postal a donde se deberá de enviar la información correspondiente
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2009)</small>
+Asimismo, dicha convocatoria estará acompañada con un formato de inscripción, el cual deberá contener como mínimo el nombre de la persona que ha de postularse y los motivos que lo hagan acreedor ha (sic) dicho galardón.
+
+La Comisión de Postulaciones, previamente a la convocatoria diseñará el formato de inscripción.
+
+Bajo el principio de máxima publicidad, las postulaciones recibidas deberán ser publicadas en la Gaceta del Senado.
+
+El registro de postulaciones quedará comprendido entre los días primero y treinta de marzo de cada año.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2018)</small>
 
 ###### ARTICULO SEXTO.
 
-El dictamen de la Comisión de Postulaciones dará cuenta de la discusión de los méritos de las personas postuladas y deberá ser propuesto al Pleno del Senado de la República una vez concluido el período de postulaciones. La condecoración de la Orden Mexicana de la Medalla de Honor “Belisario Domínguez” del Senado de la República se otorgará en cada caso por acuerdo tomado en sesión pública celebrada a más tardar el día primero de octubre del año de su entrega.
+Una vez concluido el periodo de registro de postulaciones, la Comisión de Postulaciones emitirá el dictamen correspondiente, el cual deberá de dar cuenta de todas las personas postuladas.
+
+Para la elaboración del dictamen y evaluación de las postulaciones se deberá atender el principio de no discriminación.
+
+El dictamen emitido por la Comisión de Postulaciones se someterá a discusión y aprobación del Pleno del Senado de la República a más tardar el 1 de octubre de cada año.
 
 ###### ARTICULO SEPTIMO.
 
@@ -119,7 +131,7 @@ En el año 2010, la Medalla Belisario Domínguez del Senado de la República pod
 
 Sala de Comisiones de la H. Cámara de Senadores. México, D.F., a 25 de noviembre de 1953.- Lic. Julio Serrano Castro.- Gral. Rafael E. Melgar.- Lic. Luis I. Rodríguez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 D.O.F. 29 DE ABRIL DE 2009.
 
@@ -128,3 +140,11 @@ D.O.F. 29 DE ABRIL DE 2009.
 D.O.F. 25 DE OCTUBRE DE 2010.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS QUINTO Y SEXTO DEL REGLAMENTO DE LA MEDALLA DE HONOR BELISARIO DOMÍNGUEZ”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contrapongan al presente Decreto.
