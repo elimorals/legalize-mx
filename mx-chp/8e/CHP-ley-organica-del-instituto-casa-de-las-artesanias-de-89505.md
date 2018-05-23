@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-casa-de-las-artesanias-de-89505"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-08"
-last_updated: "2015-04-15"
+last_updated: "2018-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DEL INSTITUTO CASA DE LAS ARTESANÍAS DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 8 de agosto de dos mil doce.
 
@@ -67,47 +67,43 @@ Para el ejercicio de sus funciones se auxiliará de las Dependencias y Organismo
 
 ### Capítulo II. De las Atribuciones
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2018)</small>
+
 ###### Artículo 4°.
 
 Para el cumplimiento de su objeto el Instituto tendrá como atribuciones generales, entre otras, las siguientes:
 
-I. Rescatar, fomentar y organizar la actividad artesanal y productos agroindustriales en el Estado.
+I. Rescatar, fomentar y organizar la actividad artesanal y productos regionales en el Estado.
 
-II. Fomentar el diagnóstico situacional comunitario en materia de artesanías y productos agroindustriales, para lograr la espontánea y efectiva producción de los artesanos y/o empresarios.
+II. Fomentar el diagnóstico situacional comunitario en materia de artesanías y productos regionales, para lograr la espontánea y efectiva producción de los artesanos y de las micro, pequeñas y medianas empresas del Estado.
 
-III. Preservar, promover y desarrollar las actividades artesanales y agroindustriales, en los municipios del Estado para conservar el patrimonio cultural de sus habitantes, respetando sus usos y costumbres, así como fomentar la participación social estimulando la creación de micro y pequeñas empresas.
+III. Preservar, promover, proteger, impulsar y desarrollar las actividades artesanales y regionales, en los municipios del Estado para conservar el patrimonio cultural artesanal de sus habitantes, respetando sus usos y costumbres, así como fomentar la participación social estimulando las creaciones de micro, pequeñas y medianas empresas.
 
 IV. Incentivar y fomentar la asistencia técnica y administrativa, así como, establecer programas de estímulo y financiamiento regulados en las leyes, para las organizaciones y grupos de productores y artesanos del Estado.
 
-> <small>(REFORMADA, P. O. 15 DE ABRIL DE 2015)</small>
-
-V. Desarrollar y promover los productos artesanales y agroindustriales chiapanecos, así como aquellos certificados que ostenten el sello distintivo de la marca México Chiapas Original, previa segmentación del mercado, a través del sistema de tiendas y/o diferentes canales de distribución.
+V. Desarrollar y promover los productos artesanales y regionales chiapanecos, así como aquellos certificados que ostenten el sello distintivo de la marca México Chiapas Original, previa segmentación del mercado, a través del sistema de tiendas y/o diferentes canales de distribución.
 
 VI. Fomentar, organizar, difundir, celebrar y participar en eventos en los que los artesanos y productores del Estado y de otras entidades de la República Mexicana, intercambien técnicas y experiencias en materia artesanal y en la elaboración de productos regionales, para lograr el posicionamiento y la exportación de los mismos en los diferentes mercados.
 
-VII. Dirigir y administrar los establecimientos de distribución y exhibición de artesanías y productos agroindustriales.
+VII. Dirigir y administrar los establecimientos de distribución y exhibición de artesanías y productos regionales.
 
-> <small>(REFORMADA, P. O. 15 DE ABRIL DE 2015)</small>
+VIII. Establecer mecanismos de posicionamiento, promoción, difusión y distribución de artesanías y productos regionales en el ámbito municipal, estatal, nacional e internacional para mejorar el nivel de vida de los artesanos y de los micro, pequeños y medianos empresarios del Estado.
 
-VIII. Establecer mecanismos de posicionamiento, promoción, difusión ydistribución (sic) de artesanías y productos agroindustriales en el ámbito municipal, estatal, nacional e internacional para mejorar el nivel de vida de los empresarios y artesanos del Estado.
+IX. Coordinar la ejecución de acciones en materia de capacitación a grupos de artesanos y a los micro, pequeños y medianos empresarios a través de convenios con diversos organismos públicos de los tres ámbitos de gobierno, así como con diversas organizaciones privadas.
 
-IX. Coordinar la ejecución de acciones en materia de capacitación a través de convenios con diversos organismos públicos de los tres ámbitos de gobierno, así como con diversas organizaciones privadas.
+X. Desarrollar y fomentar acciones que permitan detectar a productores y/o prestadores de servicios con potencial para acceder al distintivo.
 
-X. Otorgar franquicias y/o concesiones para la instalación del sistema de tiendas.
+XI. Realizar acciones que permitan canalizar a las empresas interesadas, previo análisis del Instituto, ante los diversos organismos del sector público y privado, a fin de aumentar la competitividad de las artesanías y productos regionales.
 
-XI. Desarrollar y fomentar acciones que permitan detectar a productores y/o prestadores de servicios con potencial para acceder al distintivo.
+XII. Implementar los mecanismos necesarios para la certificación de los empresarios, artesanos, productos y servicios que cumplan con las especificaciones y requisitos del Consejo Regulador de la Marca Chiapas.
 
-XII. Realizar acciones que permitan canalizar a las empresas interesadas, previo análisis del Instituto, ante los diversos organismos del sector público y privado, a fin de aumentar la competitividad de las artesanías y productos agroindustriales.
+XIII. Fomentar la innovación en las artesanías y productos regionales que así lo requieran con la finalidad de ofrecer calidad y variedad, respetando sus orígenes, iconografía, símbolos y raíces culturales.
 
-XIII. Implementar los mecanismos necesarios para la certificación de los empresarios, artesanos, productos y servicios que cumplan con las especificaciones y requisitos del Consejo Regulador de la Marca Chiapas.
+XIV. Adquirir, enajenar, arrendar y adecuar bienes muebles, inmuebles, instalaciones y equipo necesario para el desarrollo de sus objetivos y metas.
 
-XIV. Fomentar la innovación en las artesanías y productos agroindustriales que así lo requieran con la finalidad de ofrecer calidad y variedad, respetando sus orígenes y raíces culturales.
+XV. Celebrar todos los actos jurídicos necesarios para el cumplimiento de su creación, objetivos y metas.
 
-XV. Adquirir, enajenar, arrendar y adecuar bienes muebles, inmuebles, instalaciones y equipo necesario para el desarrollo de sus objetivos y metas.
-
-XVI. Celebrar todos los actos jurídicos que sean necesarios para el cumplimiento de sus objetivos y metas.
-
-XVII. Los demás asuntos que le corresponda, en los términos de las leyes aplicables, su reglamento interior y los que instruya el Titular del Poder Ejecutivo del Estado.
+XVI. Los demás asuntos que le correspondan, en los términos de la legislación aplicable, la Ley de Desarrollo y Protección a la actividad artesanal en el Estado de Chiapas y el Reglamento Interior del Instituto Casa de las Artesanías de Chiapas, así como los que instruya el Titular del Poder Ejecutivo del Estado.
 
 ### Capítulo III. Del Patrimonio y Domicilio Legal del Instituto
 
@@ -129,7 +125,13 @@ V. El recurso obtenido de la celebración o contratación de financiamientos con
 
 VI. La Marca "México Chiapas Original", marcas colectivas, denominaciones de origen y cualquier derecho de propiedad intelectual, industrial o cualquier otro derecho real sobre bienes no tangibles, así como los productos que de estos se obtengan en su explotación o cualquier otra actividad relacionada con estos bienes que genere un ingreso al instituto.
 
-VII. En general todos los recursos que se obtengan en beneficio del instituto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2018)</small>
+
+VII. La colección oficial de trajes típicos, regionales y autóctonos y la colección de piezas artesanales de las distintas ramas existentes que forman parte del Museo del Instituto, así como el acervo que se encuentra bajo resguardo de la Dirección de Eventos, Ferias y Exposiciones Artesanales utilizados para exhibiciones, son inalienables e inembargables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2018)</small>
+
+VIII. En general todos los recursos que se obtengan en beneficio del instituto.
 
 ###### Artículo 6°.
 
@@ -179,13 +181,19 @@ f) Instituto del Café de Chiapas.
 
 g) Consejo Estatal para las Culturas y las Artes de Chiapas.
 
-IV. Invitados permanentes:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MAYO DE 2018)</small>
 
-a) Secretaría de Hacienda.
+h). Secretaría de Hacienda.
 
-b) Secretaría de la Función Pública.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MAYO DE 2018)</small>
 
-c) Diputado titular de la Comisión de Artesanías del Congreso del Estado.
+i). Secretaría de la Contraloría General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MAYO DE 2018)</small>
+
+j). Presidente de la Comisión de Artesanías del Congreso del Estado.
+
+IV. (DEROGADA, P.O. 23 DE MAYO DE 2018)
 
 > <small>(REFORMADO, P. O. 15 DE ABRIL DE 2015)</small>
 
@@ -221,7 +229,9 @@ Son atribuciones de la Junta de Gobierno del Instituto:
 
 I. Establecer y aprobar los programas y políticas generales de trabajo que anualmente le sean presentados por la Dirección General, que oriente las actividades del Instituto, definiendo las prioridades a las que debe sujetarse.
 
-II. Aprobar los proyectos y planes anuales para el desarrollo de las funciones del Instituto, encaminados al posicionamiento, promoción, difusión, comercialización y distribución de las artesanías y productos regionales del Estado.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2018)</small>
+
+II. Aprobar los proyectos y planes anuales para el desarrollo de las funciones del Instituto, encaminados al posicionamiento, preservación, promoción, difusión, comercialización y distribución de las artesanías y productos regionales del Estado.
 
 III. Aprobar los estados financieros y presupuesto anual, así como los informes generales y especiales que rinda la Dirección General del Instituto.
 
@@ -474,3 +484,11 @@ Artículo Tercero.- Las referencias que en otros instrumentos jurídicos, normat
 Artículo Cuarto.- El Instituto Casa de las Artesanías de Chiapas, deberá emitir su Reglamento Interior de conformidad con los términos fijados en la presente ley, en un lapso no mayor a noventa días hábiles contados a partir de la fecha de publicación del presente Decreto.
 
 Artículo Quinto.- Los derechos sobre la Marca y el sello distintivo México Chiapas Original que hasta la entrada en vigor del presente Decreto, pertenecían a la titularidad del Instituto Casa Chiapas, serán transferidos a la titularidad del Instituto Casa de las Artesanías de Chiapas previa realización de los trámites legales correspondientes.
+
+P.O. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 209 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO CASA DE LAS ARTESANÍAS DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
