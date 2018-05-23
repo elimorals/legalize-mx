@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-participacion-ciudadana-del-estado-de-nayarit-92282"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2012-12-22"
+last_updated: "2018-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2018.
 
 Ley publicada en la Sección Décima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -529,7 +529,9 @@ XI. Reformas o leyes respecto de las cuales haya obligación de legislar por par
 
 Para que pueda ser admitida a trámite legislativo una Iniciativa Popular ante el Congreso del Estado se requiere:
 
-I. Se compruebe, mediante los nombres, firmas y claves de las credenciales de elector de los promoventes que se agreguen al escrito, que la iniciativa se encuentra apoyada por cuando menos el 5% de ciudadanos inscritos en la lista nominal, cuyo cotejo realizará La Junta Estatal Ejecutiva a petición del Congreso.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2018)</small>
+
+I. Se compruebe, mediante los nombres, firmas y claves de las credenciales de elector de los promoventes que se agreguen al escrito, que la iniciativa se encuentra apoyada por cuando menos el 1.5% de ciudadanos inscritos en la lista nominal, cuyo cotejo realizará La Junta Estatal Ejecutiva a petición del Congreso.
 
 El referido cotejo podrá hacerse de forma aleatoria, adoptando para éste, técnicas de muestreo que tengan aceptación científica comprobada, para esta función podrá apoyarse en instituciones académicas o autoridades especializadas en esta materia.
 
@@ -716,3 +718,13 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Armando García Jiménez, Presidente.- Rúbrica.- Dip. Fátima del Sol Gómez Montero, Secretaria.- Rúbrica.- Dip. María Dolores Porras Domínguez, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintidós días del mes de diciembre del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 39 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE NAYARIT”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Los Ayuntamientos del Estado de Nayarit, deberán de realizar en un plazo no mayor a noventa días a partir de la publicación de este Decreto, las modificaciones pertinentes a efecto de promover la participación ciudadana y garantizar el derecho de iniciativa popular en sus potestades reglamentarias.
