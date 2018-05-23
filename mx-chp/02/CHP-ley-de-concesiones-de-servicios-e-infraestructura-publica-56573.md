@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-concesiones-de-servicios-e-infraestructura-publica-56573
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-16"
-last_updated: "2013-12-27"
+last_updated: "2018-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 16 de mayo de 2007.
 
@@ -35,7 +35,7 @@ La Sexagésima Segunda Legislatura Constitucional del Honorable Congreso del Est
 
 Considerando
 
-..
+[...]
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir la siguiente:
 
@@ -135,7 +135,13 @@ XI. Constituir un Consejo Consultivo, integrado por los titulares de las depende
 
 XII. Asesorar a los ayuntamientos en las distintas etapas del proceso que derive en una concesión, cuando éstos lo soliciten.
 
-XIII. Las demás que le confieran la presente Ley y su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2018)</small>
+
+XIII. Emitir las invitaciones correspondientes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2018)</small>
+
+XIV. Las demás que le confieran la presente Ley y su Reglamento.
 
 ###### Artículo 9.
 
@@ -157,7 +163,13 @@ V. Rescatar, por causas de utilidad pública y mediante indemnización, el servi
 
 VI. Dictar las demás resoluciones que extingan la concesión, cuando así resulte procedente de conformidad a las disposiciones en esta Ley y a lo establecido en el título-concesión.
 
-VII. Realizar todas aquellas otras que señale la presente Ley y demás disposiciones aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2018)</small>
+
+VII. Autorizar la emisión de invitaciones.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2018)</small>
+
+VIII. Realizar todas aquellas otras que señale la presente Ley y demás disposiciones aplicables en la materia.
 
 ###### Artículo 11.
 
@@ -185,7 +197,13 @@ X. Formular el proyecto de resolución de extinción de la concesión y someterl
 
 XI. Aplicar el contenido de la presente Ley, su Reglamento y demás disposiciones normativas que a la materia resulten aplicables.
 
-XII. Las demás que le confieran la presente Ley y su Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2018)</small>
+
+XII. Emitir las invitaciones correspondientes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2018)</small>
+
+XIII. Las demás que le confieran la presente Ley y su Reglamento.
 
 ###### Artículo 12.
 
@@ -249,11 +267,13 @@ IV. Aquellas a quienes se les haya revocado una concesión o bien, cuando se enc
 
 V. Las demás que por cualquier causa se encuentren impedidas por disposición de esta Ley y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2018)</small>
 
 ###### Artículo 20.
 
-Las concesiones podrán otorgarse a través de licitación pública o por adjudicación directa.
+Las concesiones podrán otorgarse a través de licitación pública, adjudicación directa e invitación restringida.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 Los procedimientos para otorgar las concesiones por cualquiera de las formas señaladas en el párrafo que antecede, se ajustarán a los procedimientos establecidos en esta Ley y su Reglamento.
 
@@ -358,6 +378,88 @@ Para otorgar la concesión según el procedimiento de adjudicación directa, se 
 Se solicitará al interesado en obtener la concesión de que se trate, que presente propuesta técnica para la prestación del servicio u objeto de la concesión, según lo dispuesto por esta Ley, dándole a conocer previamente las necesidades del Estado o Municipio según corresponda, a efecto de que pueda la Secretaría o dependencia municipal estudiar y analizar la conveniencia de otorgarle la concesión.
 
 El o los interesados en obtener la concesión, deberán presentar la propuesta técnica a que se refiere el párrafo anterior, de acuerdo a lo dispuesto en la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2018)</small>
+
+###### Artículo 25 Quater.
+
+Se otorgarán concesiones mediante invitación restringida, en los siguientes supuestos:
+
+I. No existan opciones suficientes para desarrollar los activos necesarios o para prestar el servicio concesionado, o bien, que en el mercado sólo exista un posible oferente, o se trate de una persona que posea la titularidad exclusiva de patentes, derechos de autor, u otros derechos exclusivos.
+
+II. Se realice con fines exclusivamente de seguridad o procuración de justicia, o su contratación mediante licitación pública ponga en riesgo la seguridad del Estado o del Municipio de que se trate.
+
+III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, cuantificables y comprobables.
+
+IV. Se haya extinguido una concesión otorgada a través de licitación pública, antes de su inicio, en cuyo caso, la concesión podrá otorgarse a la empresa que corresponda al licitante que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en los costos con la concesión extinguida no sea superior al 10%.
+
+V. Se realice una licitación pública que haya sido declarada desierta en dos o más ocasiones.
+
+VI. Se trate de la sustitución de un concesionario, por la actualización de alguna de las causas previstas en el artículo 31 del presente ordenamiento, de una concesión cuya ejecución se encuentre en marcha.
+
+El Ejecutivo o el Ayuntamiento según se trate, al otorgar la concesión por invitación restringida, deberá emitir dictamen en donde se acredite que la concesión otorgada se encuentra en cualesquiera de los supuestos previstos en el presente artículo, expresando el o los criterios en los que funda su determinación, pudiendo ser éstos economía, eficiencia, imparcialidad u honradez, que permitirán asegurar las mejores condiciones para el Estado o municipio, según se trate.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2018)</small>
+
+###### Artículo 25 Quinquies.
+
+El dictamen respecto a que el otorgamiento de la concesión se encuentra en alguno de los supuestos establecidos en el artículo anterior; de la procedencia del otorgamiento y, en su caso, de las circunstancias particulares que ameriten una adjudicación directa, será responsabilidad de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2018)</small>
+
+Artículo 25 Sexties.- Los procedimientos de invitación restringida y de adjudicación directa, deberán de legalidad (sic) sujetarse a los principios, objetividad e imparcialidad, transparencia e igualdad de condiciones, así como prever las medidas para que los recursos públicos se administren con eficiencia, eficacia, transparencia y honradez.
+
+Salvo lo expresamente previsto en este Capítulo, las disposiciones previstas para la licitación pública serán aplicables a los procedimientos de invitación restringida y de adjudicación directa en lo que no se contraponga a los mismos.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2018)</small>
+
+###### Artículo 25 Septies.
+
+El procedimiento de invitación restringida se sujetará a lo siguiente:
+
+I. Los licitantes deberán contar con capacidad de respuesta inmediata y desarrollar actividades comerciales o profesionales directamente relacionadas con el objeto de la concesión.
+
+II. El número mínimo de invitados será de tres.
+
+III. La presentación y apertura de propuestas se llevará a cabo en un acto público.
+
+IV. Incluirá los plazos para la presentación de las propuestas.
+
+V. Establecerá el sistema de evaluación de las propuestas, aplicándose lo dispuesto en esta Ley para la evaluación de propuestas presentadas en una licitación pública.
+
+VI. Las propuestas cuya oferta económica no represente un beneficio para la Entidad o Ayuntamiento, serán desechadas.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2018)</small>
+
+###### Artículo 25 Octies.
+
+Las bases para la invitación restringida que emita la Secretaría, se pondrán a disposición de los interesados, cinco días hábiles posteriores a su emisión, siendo responsabilidad exclusiva de los interesados, adquirirlas oportunamente durante este periodo, las bases contendrán, en lo aplicable, lo siguiente:
+
+I. Forma en que se deberá acreditar la existencia y personalidad jurídica del licitante.
+
+II. Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, que deberá celebrarse al séptimo día hábil del inicio de la emisión, siendo optativa la asistencia de los interesados a las reuniones que, en su caso se realicen, considerándose aceptadas las aclaraciones para aquellos que no asistan, comunicándoles conforme a esta Ley.
+
+III. Precisar que será requisito el que los interesados, entreguen junto con la propuesta técnica, una carta declaratoria en la que señalen: A) Bajo protesta de decir verdad, tener el giro y la infraestructura administrativa y de servicios objeto de la concesión; B) Aceptar visita de inspección a sus instalaciones; C) Bajo protesta de decir verdad, no encontrarse en alguno de los supuestos establecidos por el artículo 19 de la Ley; D) Manifestar aceptación de todos los puntos señalados en las bases; y, E) Manifestar la aceptación de cualquier variación en el número de los bienes solicitados hasta en un 20% a la alza o un 10% a la baja, manteniendo el costo originalmente ofertado.
+
+IV. Fecha, hora y lugar para la presentación y apertura de las propuestas técnicas y económicas, que deberá realizarse en día hábil y como mínimo a los diez días hábiles contados a partir del día de la emisión de las bases; proposiciones que deberán presentarse en idioma español.
+
+V. Indicaciones para la presentación de garantía de cumplimiento.
+
+VI. Fecha, hora y lugar para la realización del fallo y condiciones para el otorgamiento de la concesión.
+
+VII. Manifestación de que el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún interesado ha acordado con otro u otros elevar los precios de los bienes o servicios, o cualquier otro acuerdo que tenga como fin, obtener una ventaja sobre los demás interesados, será causa de descalificación.
+
+VIII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los interesados, podrán ser negociadas.
+
+IX. La indicación de manera particular de los requerimientos de carácter técnico y demás circunstancias pertinentes que habrá de considerar la Secretaría para la adjudicación del pedido o contrato correspondiente, utilizando los siguientes criterios: A) De la propuesta: 1. La calidad (especificaciones, características funcionales y valor técnico). 2. La mejor oferta económica. 3. El plazo de entrega. 4. La asistencia técnica. 5. La rentabilidad. B) Del interesado: 1. Capacidad técnica. 2. Capacidad financiera. 3. Infraestructura.
+
+X. Descripción completa de los bienes o servicios, información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; presentación de constancias de verificación; especificaciones y normas de calidad que, en su caso, sean aplicables; dibujos; esquemas, presentación de muestras y pruebas de laboratorio que en su caso deban realizarse y, de ser posible, método para ejecutarlas; período de garantía y demás condiciones técnicas requeridas.
+
+XI. Plazo para operación y puesta en servicio.
+
+XII. La indicación de si se otorgará anticipo, en cuyo caso deberá señalarse el porcentaje respectivo y el momento que se entregará.
+
+XIII. Indicar las causas por las cuales será descalificado un interesado participante.
 
 ### Capítulo Quinto. Del título y del plazo de la concesión
 
@@ -602,3 +704,11 @@ P.O. 27 DE DICIEMBRE DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 211 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto. El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cumplimiento al presente Decreto.
