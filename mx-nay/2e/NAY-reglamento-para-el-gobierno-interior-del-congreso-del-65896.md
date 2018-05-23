@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2018-04-20"
+last_updated: "2018-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2018.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -39,9 +39,13 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2018)</small>
+
 ###### Artículo 1.
 
-El presente reglamento establece las disposiciones aplicables a la organización, administración y funcionamiento interno del Congreso, así como a los actos y procedimientos legislativos, conforme a lo establecido por la Constitución General, la particular del Estado y la Ley Orgánica del Poder Legislativo del Estado de Nayarit.
+El presente ordenamiento tiene por objeto reglamentar la organización, administración y funcionamiento interno del Congreso, así como los actos y procedimientos legislativos, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit y la Ley Orgánica del Poder Legislativo del Estado de Nayarit.
+
+En la aplicación de este Reglamento se observarán los principios de austeridad, racionalidad, eficacia, eficiencia, rendición de cuentas, transparencia, legalidad, honestidad, economía, sustentabilidad y sostenibilidad.
 
 ###### Artículo 2.
 
@@ -3553,7 +3557,9 @@ I. Establecer, coordinar y dirigir las políticas, normas y criterios técnicos 
 
 II. Planear, programar, coordinar, dirigir y controlar los procesos para la administración de los recursos en materia de bienes y servicios, protección civil, servicios generales y seguridad, así como la administración de los inmuebles;
 
-III. Controlar y vigilar la administración de los recursos materiales, el sistema de abasto y suministro de los bienes e insumos, así como proporcionar los servicios generales por unidad responsable;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2018)</small>
+
+III. Controlar y vigilar la administración y uso eficiente de los recursos materiales, el sistema de abasto y suministro de los bienes e insumos, así como proporcionar los servicios generales por unidad responsable;
 
 IV. Supervisar los procedimientos de adquisiciones de muebles, equipos y materiales de oficina para el buen funcionamiento de las dependencias del Congreso, y realizar el trámite correspondiente;
 
@@ -3581,9 +3587,15 @@ XV. Proponer y ejecutar las acciones del programa de protección civil del Congr
 
 XVI. Formular y presentar a la Oficialía Mayor los estudios administrativos, los manuales de organización y de procedimientos administrativos de las áreas que proporcionan los servicios generales, así como en materia de adquisiciones;
 
-XVII. Dar curso a la correspondencia que emita el Congreso, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2018)</small>
 
-XVIII. Las demás que le asigne el Titular de la Oficialía Mayor.
+XVII.- Promover en colaboración con los titulares de las dependencias y demás funcionarios del Congreso, la eliminación del uso de productos desechables.
+
+XVIII.- Dar curso a la correspondencia que emita el Congreso, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2018)</small>
+
+XIX.- Las demás que le asigne el Titular de la Oficialía Mayor
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
@@ -4628,3 +4640,13 @@ P.O. DE 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGAR (SIC) DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO, EN MATERIA DE SUSTENTABILIDAD Y REDUCCIÓN DEL USO DE PRODUCTOS DESECHABLES".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Las dependencias administrativas y técnicas del Honorable Congreso del Estado de Nayarit, deberán tomar las acciones necesarias para reducir el uso del uso (sic) de papel.
+
+Tercero.- Las dependencias administrativas y técnicas del Honorable Congreso del Estado de Nayarit, deberán tomar las acciones necesarias para eliminar el uso en el recinto, de productos de plásticos no biodegradable (sic), como son popotes, bolsas de plástico, platos, cucharas, vasos desechables y unicel.
