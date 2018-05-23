@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interno-del-consejo-consultivo-del-instituto-de-4688
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-12"
-last_updated: "2005-10-12"
+last_updated: "2018-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERNO DEL CONSEJO CONSULTIVO DEL INSTITUTO DE PLANEACION Y DESARROLLO URBANO DEL MUNICIPIO DE CENTRO, TABASCO
 
-REGLAMENTO INTERNO DEL CONSEJO CONSULTIVO DEL INSTITUTO DE PLANEACION Y DESARROLLO URBANO DEL MUNICIPIO DE CENTRO, TABASCO
+REGLAMENTO INTERNO DEL CONSEJO CONSULTIVO DEL INSTITUTO DE PLANEACIÓN Y DESARROLLO URBANO DEL MUNICIPIO DE CENTRO, TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2018.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 12 de octubre de 2005.
 
@@ -327,9 +327,11 @@ XIV. Las demás que le señale el Consejo o el Presidente del mismo.
 
 ### CAPÍTULO VI (SIC). DE LAS SESIONES DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 23.
 
-Las sesiones del Consejo serán de carácter ordinarias y extraordinarias; las sesiones ordinarias se celebrarán en forma bimestral, estableciéndose la fecha por sus miembros. Las sesiones extraordinarias serán acordadas cuando así se requiera o lo amerite el asunto a tratar.
+Las sesiones del Consejo Consultivo serán de carácter ordinarias y extraordinarias. Las sesiones ordinarias se celebrarán en forma semestral estableciéndose la fecha por sus miembros. Las sesiones extraordinarias serán acordadas cuando así se requiera o lo amerite el asunto a tratar.
 
 ###### ARTICULO 24.
 
@@ -506,3 +508,17 @@ C.P. JORGE LORENZO BARRAGÁN LANZ
 DIP. FED. SUP. DR. PEDRO GUTIÉRREZ GUTIÉRREZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 9316 POR EL QUE SE REFORMA EL ARTÍCULO 23 DEL REGLAMENTO INTERNO DEL CONSEJO CONSULTIVO DEL INSTITUTO DE PLANEACIÓN Y DESARROLLO URBANO DEL MUNICIPIO DE CENTRO, TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan los acuerdos de Cabildo, así como todas las disposiciones reglamentarias, circulares, acuerdos administrativos y demás disposiciones normativas que contravengan el contenido de la presente reforma.
