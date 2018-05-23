@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2018-04-13"
+last_updated: "2018-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -1342,11 +1342,19 @@ Artículo 127
 
 ### CAPITULO TERCERO. DE SU JUNTA DIRECTIVA
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2018)</small>
+
 Artículo 128
 
 1. Conforme a los artículos 91 y 104 de la Ley, la Junta Directiva de cada comisión se constituye con un presidente y dos secretarios.
 
 2. Los integrantes de las juntas directivas deben formar parte de distintos grupos parlamentarios, en atención a los criterios de pluralidad, equidad de género, proporcionalidad, experiencia e idoneidad.
+
+3. Una vez instalada, si por cualquier circunstancia hubiere cambios en su conformación, ninguna comisión podrá permanecer sin presidente por más de treinta días hábiles.
+
+4. Cuando en el transcurso de la Legislatura una comisión quede sin presidente, el grupo parlamentario al que pertenecía el presidente anterior, notificará dentro de los quince días hábiles siguientes a la vacante, a la Mesa, señalando la propuesta de quien lo sustituya.
+
+5. De no recibir el aviso a que hace referencia el párrafo anterior a los treinta días de la vacante, la Mesa hará un exhorto al grupo parlamentario correspondiente, y de transcurrir quince días hábiles más, hará un exhorto mediante publicación en la Gaceta Parlamentaria. De no atenderse este exhorto, la Mesa aceptará propuestas de otros grupos parlamentarios y las someterá a consideración del pleno.
 
 Artículo 129
 
@@ -1518,7 +1526,9 @@ Artículo 138
 
 Artículo 139
 
-1. Las reuniones de las comisiones son ordinarias y extraordinarias. Para las primeras se emite convocatoria al menos con cuarenta y ocho horas previas a su realización, mediante la publicación respectiva en la Gaceta y el envío directo a cada integrante.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2018)</small>
+
+1. Las reuniones de las comisiones son ordinarias y extraordinarias. Para las primeras se emite convocatoria con una anticipación mínima de setenta y dos horas, mediante la publicación en la Gaceta, y el envío directo a cada integrante.
 
 2. Durante los recesos del Senado, las reuniones ordinarias se convocan cuando menos con cinco días de anticipación.
 
@@ -1647,6 +1657,22 @@ Artículo 151
 2. Si resulta empate por segunda vez, se trata el asunto en una reunión posterior, previo acuerdo de la comisión.
 
 3. Si el empate persiste en la segunda reunión de la comisión, se informa de ello a la Mesa para justificar el retraso en la presentación del dictamen o para los efectos conducentes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2018)</small>
+
+4. Las Presidencias de las Comisiones Unidas deberán, atendiendo a lo establecido en el numeral 3 del artículo 178, elaborar el proyecto de dictamen, considerando las opiniones, argumentos o estudios que presenten los integrantes de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2018)</small>
+
+5. El dictamen de Comisiones Unidas deberá estar firmado por todos los senadores integrantes presentes. Los que lo hayan rechazado podrán adherir al dictamen sus votos particulares.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2018)</small>
+
+6. El dictamen que aprueben las Comisiones Unidas deberá ser uno sólo, aprobado por el voto mayoritario de los senadores presentes de cada una de las comisiones.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2018)</small>
+
+7. En caso de empate en Comisiones Unidas, se someterá el dictamen a una segunda ronda de votación; si después de esta persiste el empate, se enviará a la Mesa Directiva a efecto de que someta el dictamen al pleno.
 
 Artículo 152
 
@@ -2440,7 +2466,9 @@ VIII. Realizar las designaciones y conocer de las renuncias y licencias que le c
 
 IX. (DEROGADA, D.O.F. 14 DE MARZO DE 2017)
 
-X. Autorizar convenios amistosos y resolver, en su caso, los conflictos sobre límites entre entidades federativas; y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2018)</small>
+
+X. Autorizar los convenios amistosos que, sobre sus respectivos límites celebren las entidades federativas; y
 
 XI. Realizar las demás funciones y actividades que le atribuyan de manera exclusiva la Constitución y las leyes.
 
@@ -2688,15 +2716,19 @@ Artículo 263 (DEROGADO, D.O.F. 14 DE MARZO DE 2017)
 
 Artículo 264 (DEROGADO, D.O.F. 14 DE MARZO DE 2017)
 
-#### SECCION NOVENA. DE LA AUTORIZACION DE CONVENIOS Y DE SOLUCION DE CONFLICTOS SOBRE LIMITES ENTRE ENTIDADES FEDERATIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE MAYO DE 2018)</small>
+
+#### SECCIÓN NOVENA. DE LA AUTORIZACIÓN DE CONVENIOS AMISTOSOS SOBRE LÍMITES ENTRE ENTIDADES FEDERATIVAS
 
 Artículo 265
 
-1. La intervención del Senado en materia de límites entre entidades federativas está a lo dispuesto en los artículos 46 y 76, fracciones X y XI, de la Constitución, la ley reglamentaria correspondiente y este Reglamento.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2018)</small>
+
+1. La intervención del Senado en materia de límites entre entidades federativas está a lo dispuesto en los artículos 46 y 76, fracción X, de la Constitución, la ley reglamentaria correspondiente y este Reglamento.
 
 2. Los convenios amistosos que presentan las entidades federativas para su aprobación por el Senado, son turnados por el Presidente de la Mesa a la comisión competente.
 
-3. A falta de acuerdo, el Senado resuelve en forma definitiva los conflictos de límites entre entidades federativas que así lo solicitan.
+3. (DEROGADO, D.O.F. 23 DE MAYO DE 2018)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -2916,7 +2948,7 @@ II. Proponer al Pleno las reglas para la integración y el funcionamiento de las
 
 III. Proponer al Pleno, en consulta con la Junta de Coordinación Política, la Agenda Internacional del Senado para cada año de ejercicio legislativo;
 
-IV Aprobar, con base en las propuestas que le presenta la Junta, las delegaciones que participan con la representación del Senado en eventos internacionales;
+IV. Aprobar, con base en las propuestas que le presenta la Junta, las delegaciones que participan con la representación del Senado en eventos internacionales;
 
 V. Proponer al Pleno los acuerdos relacionados con la participación del Senado en organismos interparlamentarios o en la formación de grupos de amistad;
 
@@ -3204,7 +3236,9 @@ III. Los informes o documentos que remitan los senadores a título personal se p
 
 Artículo 309
 
-1. De conformidad con el artículo 133 de la Ley, el Senado tiene un órgano oficial denominado “Diario de los Debates”, donde consta la siguiente información de las sesiones del Pleno:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2018)</small>
+
+1. De conformidad con el artículo 142 de la Ley, el Senado tiene un órgano oficial denominado “Diario de los Debates”, donde consta la siguiente información de las sesiones del Pleno:
 
 I. Lugar, fecha y hora del inicio y término de cada sesión;
 
@@ -3212,27 +3246,31 @@ II. Carácter de la sesión;
 
 III. Declaratoria de quórum;
 
-IV. Orden del Día;
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2018)</small>
 
-V. Nombre del Presidente y de quienes presidan la sesión durante su desarrollo;
+IV. Sumario;
 
-VI. Copia fiel del acta de la sesión anterior;
+V. Orden del Día;
 
-VII. Transcripción de los debates en el orden en que se realizan;
+VI. Nombre del Presidente y de quienes presidan la sesión durante su desarrollo;
 
-VIII. Intervenciones de los senadores en tribuna y desde los escaños;
+VII. Copia fiel del acta de la sesión anterior;
 
-IX. Textos leídos;
+VIII. Transcripción de los debates en el orden en que se realizan;
 
-X. Textos no leídos cuya inserción ordenan el Presidente o el Pleno;
+IX. Intervenciones de los senadores en tribuna y desde los escaños;
 
-XI. Documentos a los que se dé turno;
+X. Textos leídos;
 
-XII. Propuestas y resoluciones aprobadas;
+XI. Textos no leídos cuya inserción ordenan el Presidente o el Pleno;
 
-XIII. Dictámenes y votos particulares; y
+XII. Documentos a los que se dé turno;
 
-XIV. Resultado de las votaciones.
+XIII. Propuestas y resoluciones aprobadas;
+
+XIV. Dictámenes y votos particulares; y
+
+XV. Resultado de las votaciones.
 
 2. El Diario de los Debates se publica dentro de los cinco días hábiles posteriores al término de la sesión, en medio impreso y en la página electrónica del Senado en Internet.
 
@@ -3274,7 +3312,7 @@ CUARTO. Se derogan las Reglas Provisionales y disposiciones económicas del Sena
 
 Dado en el salón de sesiones de la Cámara de Senadores a los veintidós días del mes de abril de dos mil diez.- Sen. Carlos Navarrete Ruiz, Presidente.- Rúbrica.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Rúbrica.- Sen. Ricardo García Cervantes, Vicepresidente.- Rúbrica.- Sen. Arturo Núñez Jiménez, Vicepresidente.- Rúbrica.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbrica.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbrica.- Sen. Adrián Rivera Pérez, Secretario.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 D.O.F. 20 DE DICIEMBRE DE 2010.
 
@@ -3360,10 +3398,44 @@ D.O.F. 6 DE ABRIL DE 2018.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-D.O.F. 13 DE ABRIL DE 2018.
+D.O. F. 13 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 212, 214 Y 217 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Artículo Primero. El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+D.O.F. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 230, 265 Y LA DENOMINACIÓN DE LA SECCIÓN NOVENA DEL CAPÍTULO SEGUNDO DEL TÍTULO OCTAVO, DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+D.O.F. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS NUMERALES 4, 5, 6 Y 7 AL ARTÍCULO 151 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+ÚNICO: El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 139 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+ÚNICO: El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 128 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a los ciento veinte días siguientes de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 309 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
