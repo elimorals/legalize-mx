@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2017-11-30"
+last_updated: "2018-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -642,6 +642,10 @@ Para la prestación del servicio de autotransporte de pasajeros, los permisionar
 
 La operación y explotación de terminales de pasajeros, se llevará a cabo conforme a los términos establecidos en el Reglamento correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2018)</small>
+
+Las terminales de origen y destino de pasajeros deberán contar, al menos, con instalaciones para el ascenso, espera y descenso de pasajeros, así como con instalaciones sanitarias de uso gratuito para los pasajeros, de conformidad con el reglamento correspondiente.
+
 ### CAPITULO III. TERMINALES INTERIORES DE CARGA
 
 ###### ARTICULO 54.
@@ -1133,3 +1137,11 @@ D.O.F. 30 DE NOVIEMBRE DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 24 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 53 DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal deberá adecuar sus normas reglamentarias y disposiciones administrativas de la materia de conformidad con el presente Decreto, en un plazo no mayor a noventa días naturales a la entrada en vigor del presente Decreto.
