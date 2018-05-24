@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bibliotecas-del-estado-y-municipios-de-san-luis-89500"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2018-03-13"
+last_updated: "2018-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre de 2012.
 
@@ -89,9 +89,9 @@ VII. Colección especial: acervo bibliográfico, hemerográfico o de material de
 
 VIII. Coordinación Estatal de Bibliotecas Públicas: órgano dependiente de la Secretaría de Educación de Gobierno del Estado, instituido con el fin de coordinar el funcionamiento de la Red Estatal de Bibliotecas Públicas, en cumplimiento de las obligaciones que establece al Estado, la Ley General de Bibliotecas, y las que deriven de los convenios de coordinación con los gobiernos federal, y municipales;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2018)</small>
 
-IX. Dirección General de Bibliotecas (DGB): institución dependiente del Consejo Nacional para la Cultura y las Artes, que tiene sustento jurídico en la Ley General de Bibliotecas, y opera a nivel federal la Red Nacional de Bibliotecas Públicas;
+IX. Dirección General de Bibliotecas (DGB): institución dependiente de la Secretaría de Cultura Federal, que tiene sustento jurídico en la Ley General de Bibliotecas, y opera a nivel federal la Red Nacional de Bibliotecas Públicas;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
@@ -105,9 +105,9 @@ XI. Ley General de Bibliotecas: documento normativo que tiene por objeto la dist
 
 XII. Red Estatal de Bibliotecas: Es la red de bibliotecas públicas del Estado;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2018)</small>
 
-XIII. Red Nacional de Bibliotecas: conjunto de bibliotecas públicas que operan a nivel nacional, coordinada por la Dirección General de Bibliotecas, dependiente del Consejo Nacional para la Cultura y las Artes, y
+XIII. Red Nacional de Bibliotecas: conjunto de bibliotecas públicas que operan a nivel nacional, coordinada por la Dirección General de Bibliotecas, dependiente de la Secretaría de Cultura Federal, y
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
 
@@ -164,6 +164,10 @@ Dichos entes de gobierno deberán desarrollar programas para la actualización d
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 Asimismo, para el enriquecimiento del acervo de las bibliotecas públicas, podrán gestionar la adquisición de obras mediante donación, dando prioridad a aquéllas dedicadas al conocimiento de la historia y cultura del Estado; de la cultura indígena y sus lenguas con presencia en la Entidad; y de autores potosinos; con la finalidad de integrar y robustecer la colección local.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2018)</small>
+
+Se deberá impulsar en las bibliotecas el establecimiento, equipamiento, mantenimiento y actualización permanente de un área de servicios de cómputo.
 
 ## TITULO TERCERO. DE LA RED ESTATAL DE BIBLIOTECAS PUBLICAS
 
@@ -402,5 +406,13 @@ P.O. 13 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 905.- SE ADICIONAN LOS ARTÍCULOS, 21 Y 22, DE LA LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 960.- SE REFORMA EL ARTÍCULO 2° Y ADICIONA AL ARTÍCULO 6° EL PÁRRAFO QUINTO, DE LA LEY DE BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
