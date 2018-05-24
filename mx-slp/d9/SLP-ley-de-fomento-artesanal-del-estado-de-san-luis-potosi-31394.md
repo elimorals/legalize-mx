@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-artesanal-del-estado-de-san-luis-potosi-31394"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-24"
-last_updated: "2017-10-31"
+last_updated: "2018-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de mayo de 2003.
 
@@ -131,7 +131,9 @@ III. Impulsar la investigación y adopción de nuevas técnicas y diseños relac
 
 IV. Aprovechar los medios masivos de comunicación para difundir la actividad artesanal del Estado, y los productos derivados de ésta;
 
-V. Organizar, capacitar, apoyar y asesorar técnica y financieramente, en forma directa o coordinada con otras instancias públicas o privadas, a los artesanos para que se integren en micro o pequeñas empresas artesanales;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2018)</small>
+
+V. Organizar, capacitar, apoyar y asesorar técnica y financieramente, en forma directa o coordinada con otras instancias públicas o privadas, a los artesanos para que se integren en micro o pequeñas empresas artesanales; así como para la obtención de financiamientos públicos y privados, y las formas de comercialización de sus productos a nivel local, nacional e internacional;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -283,7 +285,9 @@ I. Un Presidente, que será el Director General de la Casa;
 
 II. Un Secretario, que será designado por el Presidente, y
 
-III. Nueve vocales; cuatro de los cuales serán representantes de la organización de artesanos; tres miembros de la comunidad académica, cultural y artística vinculada a la actividad artesanal; y dos representantes de las dependencias o entidades de la administración pública estatal o municipal, relacionadas directa o indirectamente con el renglón artesanal.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2018)</small>
+
+III. Nueve vocales; dos de los cuales serán representantes de la organización de artesanos; dos de los cuales serán representantes de los artesanos de las comunidades indígenas; tres miembros de la comunidad académica, cultural y artística vinculada a la actividad artesanal; y dos representantes de las dependencias o entidades de la administración pública estatal o municipal, relacionadas directa o indirectamente con el renglón artesanal.
 
 ###### ARTICULO 19.
 
@@ -573,6 +577,12 @@ III. Promover y desarrollar la obra artesanal de las comunidades como reconocimi
 
 IV. Promover y propiciar la creación de museos de artesanías o comunitarios, a través de organizaciones no gubernamentales y sociedad civil en general; y apoyar en los ya existentes la preservación, difusión y promoción de las piezas artesanales de las culturas del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2018)</small>
+
+###### ARTICULO 42.
+
+Los ayuntamientos, a través del Departamento de Cultura Municipal, preservarán, incentivarán y promoverán el desarrollo artesanal del municipio, destinando los recursos necesarios para tal efecto, logrando con ello la comercialización de las obras artesanales, en el mercado local, regional, estatal, nacional e internacional, instrumentando los programas necesarios para estos fines, en coordinación con las autoridades competentes en la materia.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -605,7 +615,7 @@ LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 5 DE ABRIL DE 2011.
 
@@ -626,3 +636,11 @@ P.O. 31 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 959.- SE REFORMAN LOS ARTÍCULOS 8° Y 18; Y ADICIONA EL ARTÍCULO 42 DE LA LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
