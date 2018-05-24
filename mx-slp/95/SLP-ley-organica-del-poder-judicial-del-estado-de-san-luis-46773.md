@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2018-03-22"
+last_updated: "2018-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -1359,11 +1359,11 @@ X. Las demás que determinen las leyes y los correspondientes reglamentos y acue
 
 ### CAPITULO V. De los Organos Auxiliares
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 97.
 
-Para su adecuado funcionamiento, el Consejo de la Judicatura contará con los siguientes órganos auxiliares: el Instituto de Estudios Judiciales; la Visitaduría Judicial; la Contraloría del Poder Judicial del Estado; la Dirección Jurídica, la Unidad de Estadística y Seguimiento; y el Centro Estatal de Mediación y Conciliación.
+Para su adecuado funcionamiento, el Consejo de la Judicatura contará con los siguientes órganos auxiliares: el Instituto de Estudios Judiciales, Promoción, y Desarrollo de los Derechos Humanos; la Visitaduría Judicial; la Contraloría del Poder Judicial del Estado; la Dirección Jurídica; la Unidad de Estadística y Seguimiento; y el Centro Estatal de Medición y Conciliación.
 
 ###### ARTICULO 98.
 
@@ -1515,7 +1515,9 @@ De toda visita de inspección deberá levantarse acta circunstanciada, en la cua
 
 El acta de la visita se levantará por triplicado, uno de cuyos ejemplares se entregará al titular del órgano visitado, y el original al Consejo de la Judicatura, para que determine lo que corresponda.
 
-### CAPITULO IV. Del Instituto de Estudios Judiciales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2018)</small>
+
+### CAPITULO IV. Instituto de Estudios Judiciales, Promoción, y Desarrollo de los Derechos Humanos
 
 ###### ARTICULO 119.
 
@@ -1559,9 +1561,11 @@ VIII. Las demás que le encomiende el Consejo de la Judicatura.
 
 El Instituto llevará a cabo cursos de preparación para los exámenes correspondientes, a las distintas categorías que componen la carrera judicial.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 124.
 
-El Instituto contará con el área de investigación, la cual tendrá como función primordial realizar los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
+El Instituto de Estudios Judiciales, Promoción, y Desarrollo de los Derechos Humanos contará con dos áreas de investigación; una que tendrá como función primordial realizar los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado; y la segunda, especializada en género y derechos humanos, teniendo como función la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado en esta materia.
 
 ### CAPITULO V. De la Oficialía de Partes Común
 
@@ -2448,5 +2452,13 @@ P.O. 22 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 910.- SE REFORMA EL ARTÍCULO 152 EN SU FRACCIÓN II, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 958.- SE REFORMAN LOS ARTÍCULOS 97 Y 124 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
