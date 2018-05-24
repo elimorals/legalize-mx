@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2017-12-28"
+last_updated: "2018-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1029,6 +1029,10 @@ f) Servicios de Bibliotecas, que comprende los de: acervo de libros; hemeroteca;
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2017)</small>
 
 3. La Cámara contará también, en el ámbito de la Secretaría General y adscritos a la Secretaría de Servicios Parlamentarios, con los centros de estudios de las finanzas públicas; de estudios de derecho e investigaciones parlamentarias; de estudios sociales y de opinión pública; de estudios para el desarrollo rural sustentable y la soberanía alimentaria, y de estudios para el logro de la igualdad de género.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2018)</small>
+
+4. El centro de estudios de derecho e investigaciones parlamentarias, contará en su estructura con una Dirección para desarrollar estudios de transparencia, rendición de cuentas y políticas anticorrupción.
 
 ###### ARTICULO 50.
 
@@ -2799,3 +2803,13 @@ D.O.F. 28 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN NUMERAL 4 AL ARTÍCULO 49 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La implementación del presente Decreto no comprometerá la erogación de recursos adicionales a los presupuestados a la Cámara de Diputados y por tanto no se recurrirá a reasignación de ellos.
+
+Tercero. Se derogan las disposiciones que contravengan el presente Decreto.
