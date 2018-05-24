@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2017-12-31"
+last_updated: "2018-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -59,13 +59,17 @@ III. Integrar el Sistema Estatal de Seguridad Pública, que contribuirá con el 
 
 IV. Establecer las bases mínimas a que estarán sujetas las instituciones de seguridad pública estatal y municipal.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 2°.
 
-La seguridad pública es una función a cargo del Gobierno Estatal y los municipios, que tiene como fines salvaguardar la integridad y derechos de las personas; así como preservar las libertades, el orden y la paz; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y persecución de los delitos, además la reinserción social del individuo en términos de esta Ley.
+La seguridad pública es una función a cargo del Gobierno Estatal y los municipios, que tiene como fines salvaguardar la integridad y derechos de las personas; así como preservar las libertades, el orden y la paz; comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y persecución de los delitos, además la reinserción social del sentenciado en términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
 
 El Gobierno Estatal y los municipios en coordinación con la Federación, desarrollarán políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de éstos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
 
 Además de los fines que estipula el párrafo primero de este artículo, la seguridad pública tiene como propósito hacer efectiva la seguridad ciudadana prevista en las leyes respectivas.
 
@@ -75,9 +79,11 @@ Además de los fines que estipula el párrafo primero de este artículo, la segu
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional; se regirán por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos previstos en la Constitución Federal. Deberán fomentar la participación ciudadana y rendir cuentas en términos de ley y demás normas aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 3°.
 
-La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las instituciones policiales, del Ministerio Público, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás instancias que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las instituciones policiales, de la fiscalía General del Estado, de las instancias encargadas de aplicar las infracciones administrativas, de la supervisión de medidas cautelares, de suspensión condicional del procedimiento, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que, en razón de sus atribuciones, deban contribuir directa o indirectamente al objeto de esta Ley.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
 
@@ -111,7 +117,9 @@ VII. Director: el titular de la Dirección General de Seguridad Pública del Est
 
 VIII. Elemento de seguridad pública: Los integrantes de los cuerpos de seguridad pública que ostenten ese carácter mediante nombramiento o instrumento jurídico equivalente, expedido por autoridad competente;
 
-IX. Instituciones de seguridad pública: instituciones policiales, de procuración de justicia, del sistema penitenciario, y dependencias encargadas de la seguridad pública a nivel local y municipal;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2018)</small>
+
+IX. Instituciones policiacas: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y, en general, todas las instancias encargadas de la seguridad pública a nivel local y municipal, que realicen funciones similares;
 
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1421,6 +1429,12 @@ El servicio de llamadas de emergencia 066; y el servicio de denuncia anónima 08
 
 El sistema de información sobre seguridad pública se integrará entre otros, con los siguientes registros: de personal de seguridad pública; de armamento y equipo; de informe policial homologado; estadísticas sobre seguridad; administrativo de detenciones; y de las empresas de seguridad privada.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2018)</small>
+
+###### ARTICULO 93 Bis.
+
+Se clasifica como reservada la información contenida en todas y cada una de las bases de datos del sistema, y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados, y las demás necesarias para la operación del Sistema, cuya consulta es exclusiva de las instituciones de seguridad pública que estén facultadas en cada caso, a través de los servidores públicos que cada Institución designe, por lo que el público no tendrá acceso a la información que en ellos se contenga.
+
 ### Capítulo II. Del Informe Policial Homologado
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
@@ -1593,11 +1607,27 @@ La base de datos deberá contar, por lo menos, con reporte de la ficha de identi
 
 El Estado y los ayuntamientos establecerán los instrumentos para constituir un sistema de información en materia de seguridad pública y criminalística. Se integrará, para este efecto, una base común de datos aportados por las áreas encargadas e invocadas en materia de seguridad pública, entre otras fuentes, y en virtud de la coordinación, se comunicará la información necesaria a las áreas competentes, así como al Sistema Nacional de Seguridad Pública, para facilitar las labores de planeación que correspondan.
 
-### Capítulo I. Del Régimen Disciplinario
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE MAYO DE 2018)</small>
+
+### Capítulo VI. Del Registro de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2018)</small>
+
+###### ARTICULO 110 Bis.
+
+Las autoridades competentes estatales y municipales participarán en el mantenimiento permanente y actualización del Registro Nacional de Medidas Cautelares y Soluciones Alternas y de Terminación Anticipada, el cual incluirá por lo menos lo siguiente:
+
+I. Las medidas cautelares impuestas a un imputado, fecha de inicio y término, delitos por los que se impuso la medida y, en su caso, incumplimiento o modificación de la misma;
+
+II. Los acuerdos reparatorios que se realicen, especificando el nombre de las partes que lo realizan, el tipo de delito, la autoridad que los sancionó, su cumplimiento o incumplimiento;
+
+III. La suspensión condicional, el proceso aprobado por el juez de control, especificando los nombres de las partes, el tipo del delito, las condiciones impuestas por el Juez, y su cumplimiento o incumplimiento, y
+
+IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito, y la sanción impuesta.
 
 ## TITULO DECIMO. DEL REGIMEN DISCIPLINARIO
 
-### Capítulo II. De las Correcciones y Sanciones Disciplinarias
+### Capítulo I. Del Régimen Disciplinario
 
 ###### ARTICULO 111.
 
@@ -1613,7 +1643,7 @@ Los cuerpos de seguridad pública municipales deberán expedir sus propios regí
 
 Las sanciones que se impongan por las instituciones de seguridad pública, son independientes de las que correspondan por responsabilidades patrimoniales, penales o administrativas en que incurran los integrantes de las instituciones policiales, de conformidad con la legislación aplicable.
 
-### Capítulo III. De las Comisiones
+### Capítulo II. De las Correcciones y Sanciones Disciplinarias
 
 ###### ARTICULO 112.
 
@@ -1691,7 +1721,7 @@ Las instituciones de seguridad pública establecerán normas y procedimientos pa
 
 En su caso, las quejas o denuncias podrán servir como base para la solicitud de inicio de procedimiento disciplinario ante la Comisión.
 
-### Capítulo IV. Del Procedimiento
+### Capítulo III. De las Comisiones
 
 ###### ARTICULO 119.
 
@@ -1773,7 +1803,7 @@ V. Aplicar los medios de apremio previstos en esta Ley, y
 
 VI. Las demás que le señalen la presente Ley y demás disposiciones legales que de ella deriven.
 
-### Capítulo Único
+### Capítulo IV. Del Procedimiento
 
 ###### ARTICULO 126.
 
@@ -1919,7 +1949,7 @@ Para lo no previsto en el presente capítulo, se aplicará de manera supletoria,
 
 ## TITULO DECIMO PRIMERO. DEL APOYO EN MATERIA ECOLOGICA
 
-### Capitulo Único
+### Capítulo Único
 
 ###### ARTICULO 135.
 
@@ -1949,7 +1979,7 @@ Los cuerpos de seguridad pública del Estado deberán hacer del conocimiento de 
 
 ## TITULO DECIMO SEGUNDO. DE LA PREVENCION DEL DELITO Y LA PARTICIPACION CIUDADANA
 
-### Capítulo Único
+### Capitulo Único
 
 ###### ARTICULO 141.
 
@@ -2047,8 +2077,6 @@ La dependencia fijará la forma y número de efectivos en que dichos servicios s
 
 ### Capítulo Único
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
-
 ###### ARTICULO 147.
 
 (DEROGADO, P.O. 15 DE MARZO DE 2017)
@@ -2069,7 +2097,7 @@ La dependencia fijará la forma y número de efectivos en que dichos servicios s
 
 ### Capítulo Único
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 150.
 
@@ -2343,6 +2371,10 @@ El Programa estatal y su actualización deberán publicarse en el Periódico Ofi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
 
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
+
 ###### ARTICULO 176.
 
 Para efectos de esta Ley se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Federal, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado Mexicano, en términos de la Ley de Seguridad Nacional.
@@ -2494,5 +2526,13 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 863.- SE REFORMAN ARTÍCULOS, 10, 15, 16, 44, 47, 48, 107, Y 156 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia simultáneamente a la entrada en vigor de las leyes secundarias a que refiere el Decreto Legislativo No. 0705, publicado en el Periódico Oficial del Estado "Plan de San Luis", el 2 de octubre de 2017, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 961.- SE REFORMA LOS ARTÍCULOS 2°, 3° Y 5°; Y ADICIONA EL ARTÍCULO 93 BIS Y 110 BIS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
