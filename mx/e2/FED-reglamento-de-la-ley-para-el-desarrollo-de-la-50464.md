@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-para-el-desarrollo-de-la-50464"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2018-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50464&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-05-18"
 
 REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 24 de mayo de 2006.
 
@@ -37,15 +37,19 @@ REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUE�
 
 El presente ordenamiento tiene por objeto reglamentar la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
 
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2018)</small>
+
 ###### Artículo 2.
 
-La aplicación de este Reglamento corresponde a la Secretaría de Economía, por conducto de la Subsecretaría para la Pequeña y Mediana Empresa, sin perjuicio de las atribuciones que en términos de la Ley, el presente Reglamento y otros ordenamientos jurídicos deben ser ejercidas directamente por el Secretario de Economía o que estén asignadas a otras dependencias y entidades de la Administración Pública Federal.
+La aplicación de este Reglamento corresponde a la Secretaría de Economía, por conducto del Instituto Nacional del Emprendedor, sin perjuicio de las atribuciones que, en términos de la Ley, el presente Reglamento y otros ordenamientos jurídicos deben ser ejercidas directamente por el Secretario de Economía o que estén asignadas a otras dependencias y entidades de la Administración Pública Federal.
 
 ###### Artículo 3.
 
 Para los efectos del presente Reglamento se aplicarán las definiciones establecidas en el artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa. Asimismo, se entenderá por:
 
-I. Secretariado Técnico: El órgano técnico y administrativo del Consejo, y
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+I. Secretario Técnico: El Presidente del INADEM, en términos del artículo 19 de la Ley, y
 
 II. Sistema General de Información y Consulta para la Planeación sobre los Sectores Productivos y Cadenas Productivas: la información de los sectores productivos y cadenas productivas, que se registra, integra, organiza, actualiza y difunde, a través de instrumentos tecnológicos.
 
@@ -101,7 +105,9 @@ II. Las líneas estratégicas para el desarrollo empresarial deberán comprender
 
 III. Los mecanismos y esquemas para ejecutar las líneas estratégicas deberán considerar, cuando menos, las estimaciones de recursos y la determinación sobre los instrumentos y responsables de su ejecución, y
 
-IV. El seguimiento periódico de la evolución y desempeño de los beneficios previstos en la Ley se realizarán por conducto del Consejo, que podrá apoyarse, entre otras, por la Comisión lntersecretarial de Política Industrial, atendiendo a lo dispuesto en el artículo 36 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+IV. El seguimiento periódico de la evolución y desempeño de los beneficios previstos en la Ley se realizarán por conducto del Consejo, que podrá apoyarse en otras instancias competentes, atendiendo a lo dispuesto en el artículo 36 de este Reglamento.
 
 #### Sección II. De los programas de fomento y la concertación de acciones
 
@@ -117,15 +123,21 @@ I. Las bases de coordinación del Sector Público para el desarrollo de la compe
 
 II. Las bases para la asesoría, promoción y apoyo para la ejecución de los Programas que implemente la Secretaría;
 
-III. Las bases para el acopio, organización, análisis y difusión de la información regional, estatal y municipal que se integre al Sistema General de Información y Consulta para la Planeación sobre los Sectores Productivos y Cadenas Productivas;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+III. Las bases para el acopio, organización, análisis y difusión de la información regional, de las Entidades Federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México que se integre al Sistema General de Información y Consulta para la Planeación sobre los Sectores Productivos y Cadenas Productivas;
 
 IV. El establecimiento y promoción de mecanismos que fomenten el desarrollo de proveedores y distribuidores del Sector Público y los Sectores, y
 
-V. Las demás que la Secretaría acuerde con los gobiernos de los Estados o del Distrito Federal o, en su caso, de los Municipios.
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+V. Las demás acciones e instrumentos de apoyo a las MIPYMES que la Secretaría acuerde con los gobiernos de las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2018)</small>
 
 ###### Artículo 12.
 
-Para la celebración de convenios de coordinación con los gobiernos de los Estados, del Distrito Federal y de los Municipios, se procurará que éstos cuenten con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones y actividades que asuman.
+Para la celebración de convenios de coordinación con los gobiernos de las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, se procurará que éstos cuenten con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones y actividades que asuman.
 
 ###### Artículo 13.
 
@@ -147,7 +159,9 @@ III. Coordinar e impulsar la participación directa del Sector Público y los Se
 
 IV. Establecer los criterios, metodologías, procedimientos e indicadores para evaluar anualmente el desarrollo de la competitividad de las MIPYMES;
 
-V. Promover y fomentar con los Estados, el Distrito Federal y los Municipios, la adopción de las políticas y acciones previstas en la Ley;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+V. Promover y fomentar con las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, la adopción de las políticas y acciones previstas en la Ley;
 
 VI. Diseñar, coordinar y ejecutar el Sistema General de Información y Consulta para la Planeación sobre los Sectores Productivos y Cadenas Productivas;
 
@@ -159,7 +173,9 @@ IX. Proponer y promover la revisión de trámites y del marco jurídico aplicabl
 
 X. Crear, diseñar, instrumentar y operar los apoyos para la innovación y desarrollo tecnológico de las MIPYMES, y
 
-XI. Evaluar y dar seguimiento a los compromisos que se asuman en los convenios de coordinación que sean suscritos con los gobiernos de los Estados, del Distrito Federal y de los municipios.
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+XI. Evaluar y dar seguimiento a los compromisos que se asuman en los convenios de coordinación que sean suscritos con los gobiernos de las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México.
 
 ### Capítulo Tercero. Del Sistema Nacional para el Desarrollo de la Competitividad de las MIPYMES
 
@@ -229,7 +245,7 @@ Para el adecuado cumplimiento de su objeto, corresponderá al Consejo:
 
 I. Fungir como instancia de consulta para la planeación del desarrollo de la competitividad de las MIPYMES;
 
-II Formular y analizar las propuestas sobre las políticas, Programas, instrumentos, esquemas, mecanismos y actividades para el desarrollo de la competitividad de las MIPYMES;
+II. Formular y analizar las propuestas sobre las políticas, Programas, instrumentos, esquemas, mecanismos y actividades para el desarrollo de la competitividad de las MIPYMES;
 
 III. Analizar las propuestas del Sector Público y de los Sectores para el desarrollo de la competitividad de las MIPYMES;
 
@@ -259,9 +275,11 @@ El Consejo emitirá los lineamientos de operación y funcionamiento del mismo y 
 
 #### Sección II. Del Secretario Técnico
 
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2018)</small>
+
 ###### Artículo 23.
 
-El Presidente del Consejo propondrá a dicho órgano colegiado la designación del funcionario de la Subsecretaría para la Pequeña y Mediana Empresa que fungirá como Secretario Técnico, para su aprobación, cuyo nivel no podrá ser inferior al de Director General o su equivalente.
+El Consejo, a propuesta de su Presidente, aprobará la designación de un funcionario del INADEM que ejercerá las funciones de Secretario Técnico, en caso que el Presidente del INADEM asuma las funciones de Presidente del Consejo. Dicho servidor público del INADEM deberá tener nivel de Director General o su equivalente, de conformidad con el penúltimo y último párrafos del artículo 18 de la Ley.
 
 ###### Artículo 24.
 
@@ -281,7 +299,9 @@ VI. Someter a la consideración del Consejo los informes ejecutivos que rindan l
 
 VII. Establecer mecanismos de coordinación con los secretarios técnicos de los Consejos Estatales para el desempeño de sus funciones;
 
-VIII. Fungir como órgano consultivo, asesor y de colaboración del Consejo;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+VIII. Asesorar y apoyar a los miembros del Consejo en el cumplimiento de sus funciones, a solicitud de los mismos;
 
 IX. Instrumentar los mecanismos que promuevan y faciliten la comunicación y vinculación con los Consejos Estatales;
 
@@ -331,13 +351,21 @@ Los Grupos de Trabajo desarrollarán sus trabajos en términos de los lineamient
 
 Para el adecuado cumplimiento de su objeto, corresponderá a los Consejos Estatales:
 
-I. Proponer al Consejo los estudios e investigaciones en materia de desarrollo de la competitividad de las MIPYMES a nivel regional y desarrollar los del ámbito estatal y municipal;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
 
-II. Elaborar las propuestas en los ámbitos regional, estatal y municipal sobre las políticas, Programas, instrumentos, esquemas, mecanismos y actividades para el desarrollo de la competitividad de las MIPYMES;
+I. Proponer al Consejo los estudios e investigaciones en materia de desarrollo de la competitividad de las MIPYMES a nivel regional y desarrollar los del ámbito estatal, municipal y de las demarcaciones territoriales de la Ciudad de México;
 
-III. Atender las propuestas que realicen los Municipios para el desarrollo de la competitividad de las MIPYMES;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
 
-IV. Analizar y determinar los mecanismos estatales de consulta transparente y oportuna a los Sectores, y
+II. Elaborar las propuestas en los ámbitos regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México, sobre las políticas, Programas, instrumentos, esquemas, mecanismos y actividades para el desarrollo de la competitividad de las MIPYMES;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+III. Atender las propuestas que realicen los Municipios y las demarcaciones territoriales de la Ciudad de México, para el desarrollo de la competitividad de las MIPYMES;
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+IV. Analizar y determinar los mecanismos de las entidades federativas de consulta transparente y oportuna a los Sectores, y
 
 V. Las demás que le encomiende el Consejo.
 
@@ -353,7 +381,9 @@ El Secretario Técnico de cada uno de los Consejos Estatales que se constituyan,
 
 I. Establecer mecanismos de coordinación con el Secretario Técnico del Consejo para el desempeño de sus funciones;
 
-II. Integrar las propuestas que realicen los Municipios y los Sectores para el desarrollo de la competitividad de las MIPYMES;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+II. Integrar las propuestas que realicen los Municipios, las demarcaciones territoriales de la Ciudad de México y los Sectores para el desarrollo de la competitividad de las MIPYMES;
 
 III. Instrumentar los mecanismos que promuevan y faciliten la comunicación y vinculación con el Consejo;
 
@@ -411,7 +441,9 @@ XI. Programas de apoyo para promover la creación de negocios y fortalecer la op
 
 XII. Aplicaciones informáticas de utilidad para las MIPYMES, particularmente aquellas orientadas a promover la competitividad de sus procesos productivos, administrativos y operativos, así como de comercialización nacional e internacional de los productos y servicios de las MIPYMES;
 
-XIII. Información mensual con base en los datos de altas y bajas de patrones y movimiento de empleo del Instituto Mexicano del Seguro Social, sobre el desenvolvimiento de cada sector y rama de actividad de las MIPYMES por estado, que permita monitorear su desarrollo;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2018)</small>
+
+XIII. Información mensual con base en los datos de altas y bajas de patrones y movimiento de empleo del Instituto Mexicano del Seguro Social, sobre el desenvolvimiento de cada sector y rama de actividad de las MIPYMES por entidad federativa, que permita monitorear su desarrollo;
 
 XIV. Normas, fuentes y servicios de apoyo a la innovación tecnológica, y
 
@@ -423,9 +455,11 @@ Para el registro, integración, organización, actualización y difusión de la 
 
 Asimismo, podrá suscribir acuerdos de carácter internacional para la realización de las actividades previstas en el presente artículo, de conformidad con las disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2018)</small>
+
 ###### Artículo 35.
 
-La Secretaría, establecerá las acciones necesarias para que la información contenida en el Sistema General de Información y Consulta para la Planeación sobre los Sectores Productivos y Cadenas Productivas sea pública, sin más restricciones de la que sea reservada o confidencial.
+La Secretaría, establecerá las acciones necesarias para que la información contenida en el Sistema General de Información y Consulta para la Planeación sobre los Sectores Productivos y Cadenas Productivas sea pública, de conformidad con la normatividad vigente aplicable en materia de transparencia y acceso a la información pública, y de protección de datos personales.
 
 ### Capítulo Séptimo. Del seguimiento y la evaluación del desarrollo de la competitividad de las MIPYMES
 
@@ -462,3 +496,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, José Luis Luege Tamargo.- Rúbrica.- El Secretario de Energía, Fernando de Jesús Canales Clariond.- Rúbrica.- El Secretario de Economía, Sergio Alejandro García de Alba Zepeda.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Francisco Javier Mayorga Castañeda.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Francisco Javier Salazar Sáenz.- Rúbrica.- El Secretario de Turismo, Rodolfo Elizondo Torres.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
