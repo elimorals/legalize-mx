@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-cultura-fisica-y-deporte-para-el-estado-de-sinaloa-11471
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2016-05-18"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 18 de mayo de 2016.
 
@@ -97,9 +97,17 @@ IX. La distinción entre las diversas manifestaciones o modalidades del deporte 
 
 X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
 
-XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte; y
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2018)</small>
 
-XII. La existencia de una adecuada cooperación a nivel estatal es necesaria para el desarrollo equilibrado de la cultura física y deporte.
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2018)</small>
+
+XII. La existencia de una adecuada cooperación a nivel estatal es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2018)</small>
+
+XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 La presente Ley reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el sector estudiantil, al deporte para personas con discapacidad y al deporte para personas adultas mayores en plenitud.
 
@@ -393,19 +401,23 @@ XIX. Otorgar el registro correspondiente a las Asociaciones y Sociedades que en 
 
 XX. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SIEDE;
 
-XXI. Recibir apoyos económicos, técnicos y materiales para el desarrollo de sus objetivos, sin contravenir las disposiciones legales aplicables al caso concreto;
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2018)</small>
 
-XXII. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público estatal y la asignación de los recursos para los mismos fines;
+XXI. Promoverá con las autoridades correspondientes acciones para la lucha contra el dopaje en el deporte, la prevención de la violencia y el fomento de la cultura de paz en el deporte;
 
-XXIII. Procurar incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan;
+XXII. Recibir apoyos económicos, técnicos y materiales para el desarrollo de sus objetivos, sin contravenir las disposiciones legales aplicables al caso concreto;
 
-XXIV. Impulsar en coordinación con las autoridades competentes en materia de seguridad pública, la práctica de actividades de cultura física-deportiva recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
+XXIII. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público estatal y la asignación de los recursos para los mismos fines;
 
-XXV. Formular en coordinación con las autoridades competentes y organizaciones sociales y privadas en materia de integración social para personas con discapacidad, programas para promover la cultura física y deporte entre las personas con discapacidad;
+XXIV. Procurar incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan;
 
-XXVI. Celebrar los contratos y convenios que sean necesarios para el ejercicio de sus atribuciones y que le permitan cumplir con el objeto para el cual fue creada; y
+XXV. Impulsar en coordinación con las autoridades competentes en materia de seguridad pública, la práctica de actividades de cultura física-deportiva recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
 
-XXVII. Las demás que les otorgue la Ley General, la presente Ley, su Reglamento, las demás disposiciones legales aplicables y las que se requieran para el mejor desarrollo del deporte estatal.
+XXVI. Formular en coordinación con las autoridades competentes y organizaciones sociales y privadas en materia de integración social para personas con discapacidad, programas para promover la cultura física y deporte entre las personas con discapacidad;
+
+XXVII. Celebrar los contratos y convenios que sean necesarios para el ejercicio de sus atribuciones y que le permitan cumplir con el objeto para el cual fue creada; y
+
+XXVIII. Las demás que les otorgue la Ley General, la presente Ley, su Reglamento, las demás disposiciones legales aplicables y las que se requieran para el mejor desarrollo del deporte estatal.
 
 ###### Artículo 25.
 
@@ -845,9 +857,11 @@ El ISDE en coordinación con la SEPyC y los municipios planificará y promociona
 
 Es de interés público la construcción, remodelación, ampliación, adecuación, mantenimiento, conservación y recuperación de las instalaciones que permitan atender adecuadamente las demandas que requiera el desarrollo de la activación física, cultura física y el deporte, promoviendo para este fin, la participación de los sectores social y privado en el territorio estatal.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2018)</small>
+
 ###### Artículo 70.
 
-La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando las opiniones de las asociaciones deportivas que correspondan, así como los requerimientos de construcción y seguridad determinados en las Normas Oficiales Mexicanas correspondientes, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
+La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando las opiniones de las asociaciones deportivas que correspondan, así como los requerimientos de construcción y seguridad determinados en las Normas Oficiales Mexicanas correspondientes, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público y deberán contar con al menos un botiquín de primeros auxilios al alcance de todas las personas.
 
 ###### Artículo 71.
 
@@ -1100,6 +1114,10 @@ Con estricto respeto a las disposiciones y procedimientos previstos en las leyes
 ###### Artículo 110.
 
 Los deportistas, entrenadores, técnicos, directivos y demás personas en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Local, con estricto apego a los lineamientos establecidos por la Comisión Especial Contra la Violencia en el Deporte a que hace referencia la Ley General, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las asociaciones deportivas estatales y nacionales respectivas.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2018)</small>
+
+La Comisión Local, fomentará y realizará campañas de divulgación y de sensibilización en contra de la violencia, así como de propiciar la cultura de paz con el fin de conseguir que el deporte sea un referente de integración y convivencia social.
 
 ###### Artículo 111.
 
@@ -1418,3 +1436,11 @@ C. GERARDO O. VARGAS LANDEROS
 Secretario de Desarrollo Social y Humano
 
 C. JUAN ERNESTO MILLÁN RIETSCH
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 449 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE SINALOA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el periódico oficial “El Estado de Sinaloa”.
