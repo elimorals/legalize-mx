@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-intercultural-del-56108"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-08"
-last_updated: "2007-06-08"
+last_updated: "2018-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 25 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 8 de junio de 2007.
 
@@ -390,3 +392,15 @@ PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente instrumento.
 
 Dado en el salón de usos múltiples de la Universidad Intercultural del Estado de Puebla, a los veintidós días del mes de marzo de dos mil siete.- El Director de Actualización, Capacitación y Superación Profesional y Encargado de Despacho de la Dirección de Vinculación Científica y Tecnológica de la SEP en el Estado.-INGENIERO REINALDO GIL VÉLEZ.- Rúbrica.- Coordinador de Organismos Educativos por Convenio de la Dirección de Presupuesto de la SFA.- LICENCIADO JOSÉ RODOLFO FLORES ROJAS.- Rúbrica.- Consultora Programa Seguridad Alimentaria de la SDR.- INGENIERA ANA LOURDES FLORES TLAXCALTECA.- Rúbrica.- Promotor Microrregional de la CEDIPI.- CIUDADANO ANTELMO SÁNCHEZ DlEGO.- Rúbrica.- Apoyo Técnico de la Oficina de Servicios Federales de Apoyo a la Educación en el Estado.- INGENIERO FERNANDO VELÁSQUEZ VALDÉS.- Rúbrica.- Coordinadora General de Educación Intercultural y Bilingüe de la SEP Federal.- MAESTRA SYLVIA SCHMELKES DEL VALLE.- Rúbrica-Secretario del H. Ayuntamiento de Huehuetla.- PROFESOR LUCAS GARCÍA PÉREZ.- Rúbrica.- Rector de la Universidad Intercultural del Estado de Puebla.- MAESTRO VICENTE LUNA PATRICIO.- Rúbrica.- Subdelegado de la SEDECAP en el Sector Educativo.- CONTADOR PÚBLICO ENRIQUE BUSTOS LÓPEZ.- Rúbrica .- Apoyo Académico de la Dirección de Educación Superior Universitaria y Tecnológica de la SEP en el Estado.- MAESTRO JESÚS AGUlLA JUÁREZ.- Rúbrica.- Director del Desarrollo Rural Municipal de Huehuetla.- INGENIERO ERNESTO MIGUEL CASTRO ROMANO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERCULTURAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Universidad Intercultural del Estado de Puebla de fecha ocho de junio de dos mil siete.
+
+TERCERO. Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
