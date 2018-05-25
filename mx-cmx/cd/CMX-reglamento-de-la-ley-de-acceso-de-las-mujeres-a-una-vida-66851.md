@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-acceso-de-las-mujeres-a-una-vida-66851"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-26"
-last_updated: "2009-02-26"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66851&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-24"
 
 REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MAYO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 26 de febrero de 2009.
 
@@ -42,7 +42,11 @@ El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Le
 
 Para efectos de este Reglamento se entenderá por:
 
-I. Coordinación: La Coordinación Interinstitucional referida en el Título Cuarto de la Ley;
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2018)</small>
+
+I. Coordinación: Al Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres, que establece el Reglamento Interior de la Administración Pública del Distrito Federal, y que realizará las funciones de Coordinación Interinstitucional previstas en el Título Cuarto, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Distrito Federal y del Capítulo III de este Reglamento.
+
+La primera y última sesión será presidida por la persona titular de la Jefatura de Gobierno.
 
 II. Comités: Los Comités de Trabajo señalados en el artículo 47 de la Ley;
 
@@ -533,3 +537,13 @@ PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. - El presente Reglamento entrará en vigor al día siguiente de su publicación.
 
 Dado en la residencia oficial del Jefe de Gobierno, en el Distrito Federal, a los veinticuatro días del mes de febrero del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, JESÚS ARTURO AISPURO CORONEL.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y DEL REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
