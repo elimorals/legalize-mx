@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2013-del-pleno-del-consejo-de-la-96784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-06"
-last_updated: "2017-12-08"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-11-28"
 ---
 # ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL]
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de diciembre de 2013.
 
@@ -71,9 +73,9 @@ III. Construcción de infraestructura, y
 
 IV. La adquisición de equipamiento necesario.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
 
-La constitución del Fideicomiso no implicará la creación de estructura administrativa en el Consejo. La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de sus unidades administrativas, vigilará la correcta aplicación del Acuerdo, la operación del Fideicomiso, así como los actos tendientes al cumplimiento de los fines y el resultado de los mismos.
+La constitución del Fideicomiso no implicará la creación de estructura administrativa en el Consejo. Las Secretarías Ejecutivas de Administración, y de Finanzas y Servicios Personales, en el ámbito de sus respectivas competencias, vigilarán la correcta aplicación del Acuerdo, la operación del Fideicomiso, así como los actos tendientes al cumplimiento de los fines y el resultado de los mismos.
 
 ###### Artículo 3.
 
@@ -111,9 +113,9 @@ XI. Reglas de Operación: Instrumento aprobado por el Comité Técnico que tiene
 
 XII. Secretario: Persona designada por el Comité Técnico por mayoría simple de sus integrantes, a propuesta de su Presidente, como Secretario de éste y de la Unidad de Evaluación de Proyectos; y
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
 
-XIII. Unidad: Unidad de Evaluación de Proyectos, integrada por el Consejero de la Judicatura que designe el Pleno; el Secretario Ejecutivo de Creación de Nuevos Órganos; y el Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
+XIII. Unidad: Unidad de Evaluación de Proyectos, integrada por el Secretario Ejecutivo de Creación de Nuevos Órganos y el Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal.
 
 ### Capítulo II. Del Patrimonio
 
@@ -137,11 +139,11 @@ Los ingresos que se generan por concepto de enajenación de bienes muebles, por 
 
 El registro contable correspondiente será responsabilidad de la Dirección General de Programación y Presupuesto.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
 
 ###### Artículo 6.
 
-La Dirección General de Programación y Presupuesto solicitará a la Dirección General de Tesorería que transmita al patrimonio del Fideicomiso los ingresos que corresponden a éste. Dicha transferencia se realizará en un plazo no mayor a cinco días hábiles. De ello informará a la Secretaría Ejecutiva de Finanzas y Servicios Personales para que ésta ejecute las acciones que resulten procedentes. El Fiduciario deberá otorgar recibo por separado de estas entregas en la fecha de su recepción.
+La Dirección General de Programación y Presupuesto solicitará a la Dirección General de Tesorería que transmita al patrimonio del Fideicomiso los ingresos que corresponden a éste. Dicha transferencia se realizará en un plazo no mayor a cinco días hábiles, contados a partir del día hábil siguiente de la solicitud. De ello informará a la Secretaría Ejecutiva de Finanzas y Servicios Personales para que ésta ejecute las acciones que resulten procedentes. El Fiduciario deberá otorgar recibo por separado de estas entregas en la fecha de su recepción.
 
 ### Capítulo III. Del Comité Técnico
 
@@ -151,9 +153,9 @@ La Dirección General de Programación y Presupuesto solicitará a la Dirección
 
 El Fideicomiso contará con un Comité Técnico conformado por los consejeros integrantes del Pleno y será presidido por el Presidente del Consejo. El Presidente autorizará el orden del día de los asuntos listados, convocará a sesión ordinaria o extraordinaria y dirigirá los debates.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
 
-Asistirán como invitados permanentes con voz pero sin voto los titulares de la Contraloría del Poder Judicial de la Federación; de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos; de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y de la Dirección General de Asuntos Jurídicos a efecto de brindar asesoría al Comité Técnico en el ámbito de sus respectivas competencias.
+Asistirán como invitados permanentes con voz pero sin voto los titulares de la Contraloría del Poder Judicial de la Federación; de la Secretaría Ejecutiva de Creación de Nuevos Órganos; de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y de la Dirección General de Asuntos Jurídicos a efecto de brindar asesoría al Comité Técnico en el ámbito de sus respectivas competencias.
 
 Podrá invitarse a participar en las sesiones del Comité Técnico con voz pero sin voto a los servidores públicos del Consejo cuyas atribuciones se encuentren relacionadas con los fines del Fideicomiso.
 
@@ -229,7 +231,9 @@ Las sesiones del Comité Técnico, serán ordinarias o extraordinarias, las deci
 
 Las sesiones ordinarias se realizarán al menos una vez al mes.
 
-Con independencia de los demás asuntos que integren el orden del día correspondiente, el Secretario de Actas presentará un informe mensual con el seguimiento de los acuerdos previamente adoptados.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
+
+Con independencia de los demás asuntos que integren el orden del día correspondiente, el Secretario presentará un informe mensual con el seguimiento de los acuerdos previamente adoptados.
 
 El Comité Técnico podrá sesionar válidamente en términos de lo dispuesto por el artículo 74 de la Ley Orgánica del Poder Judicial de la Federación.
 
@@ -263,13 +267,15 @@ VII. Acuerdo de cada uno de los asuntos indicando los votos emitidos y su sentid
 
 La Unidad contará con las funciones siguientes:
 
-I. Presentar propuestas sobre los proyectos que se pretendan financiar con cargo a los recursos fideicomitidos;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
 
-II. Someter a consideración del Comité Técnico sus propuestas, a través del Secretario, en la sesión inmediata posterior del referido Comité;
+I. Emitir opinión respecto de los proyectos que se pretendan financiar con cargo a los recursos del Fideicomiso, previamente a que sean sometidos al análisis, discusión y, en su caso, autorización del Comité Técnico;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+II. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)
 
-III. Hacer el seguimiento de los proyectos autorizados por el Comité Técnico, en coordinación con la Secretaría Ejecutiva de Finanzas y Servicios Personales;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
+
+III. Hacer el seguimiento de los proyectos autorizados por el Comité Técnico, en coordinación con la Secretaría Ejecutiva de Administración;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE OCTUBRE DE 2016)</small>
 
@@ -283,13 +289,13 @@ V. Las demás que determine el Comité Técnico.
 
 La cancelación a que se refiere la fracción IV del presente artículo, será presentada a la Unidad por las áreas operativas quienes serán las responsables de las valoraciones técnicas y financieras de las propuestas correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
 
 ###### Artículo 12 Ter.
 
-La Unidad sesionará de acuerdo a las necesidades que se presenten. Las decisiones se tomarán por mayoría de votos, por lo que es necesario que estén presentes al menos dos de sus integrantes. El Secretario tendrá, respecto de la Unidad, las funciones que le confiere el artículo 9, fracciones I, II, V y VI de este Acuerdo.
+La Unidad sesionará de acuerdo a las necesidades que se presenten. Las decisiones se tomarán por unanimidad, por lo que es necesario que estén presentes los dos integrantes. El Secretario tendrá, respecto de la Unidad, las funciones que le confiere el artículo 9, fracciones I, II, V y VI de este Acuerdo.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+El titular de la unidad administrativa que corresponda, deberá someter a la consideración de la Unidad los puntos para acuerdo relativos a los proyectos que se pretendan financiar con cargo a los recursos del Fideicomiso, solicitando su opinión favorable.
 
 En cada sesión de la Unidad, se levantará acta que contendrá los mismos requisitos establecidos en el artículo 12 de este Acuerdo.
 
@@ -323,11 +329,11 @@ Los recursos del Fideicomiso no quedarán sujetos a los requisitos establecidos 
 
 Para dar cumplimiento a los fines del Fideicomiso, el Consejo llevará a cabo los procedimientos de contratación de conformidad con el Acuerdo General en materia administrativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
 
 ###### Artículo 17.
 
-Los proyectos que se pretendan financiar con cargo a los recursos fideicomitidos, deberán presentarse al Comité Técnico, con la propuesta de la Unidad, para su análisis, discusión y, en su caso, aprobación. Dichos proyectos contendrán por lo menos los elementos siguientes:
+Los proyectos que se pretendan financiar con cargo a los recursos del Fideicomiso, deberán presentarse al Comité Técnico con la opinión favorable de la Unidad, para su análisis, discusión y, en su caso, aprobación. Dichos proyectos contendrán por lo menos los elementos siguientes:
 
 I. Justificación y descripción del proyecto;
 
@@ -353,6 +359,10 @@ El Director General de Programación y Presupuesto, podrá también llevar a cab
 
 Las ampliaciones o reducciones de recursos se realizarán a petición expresa y justificada por parte de las áreas administrativas respecto de los proyectos que les hayan autorizado, lo cual se informará al Fiduciario para su actualización y, al Comité Técnico en su siguiente sesión, a través del Secretario.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
+
+Tratándose de ampliaciones que rebasen el 20% del presupuesto autorizado o se trate de incrementos superiores a $1,000,000.00 (Un millón de pesos 00/100 M.N.), deberán ser autorizadas por el Comité Técnico a solicitud expresa y justificada de las unidades administrativas a las que se les haya autorizado el proyecto. Si la ampliación es autorizada se le deberá informar al Fiduciario para su actualización, la comunicación será a través del Secretario.
+
 ### Capítulo VI. De la transparencia y rendición de cuentas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
@@ -365,9 +375,9 @@ La Secretaría Ejecutiva de Finanzas y Servicios Personales será la responsable
 
 La Dirección General de Programación y Presupuesto en auxilio del Comité Técnico, recibirá los estados financieros que presente la Fiduciaria, analizará su información, y en su caso, los aprobará para su presentación al Comité Técnico.
 
-> <small>(REFORMADO, D.O.F. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
 
-En caso de que no sean aprobados los regresará a la Fiduciaria con las observaciones para que vuelvan a ser formulados.
+En caso de que la Dirección General de Programación y Presupuesto tuviera observaciones, las hará del conocimiento del Fiduciario para que sean atendidas.
 
 ### Capítulo VII. Disposiciones finales
 
@@ -375,7 +385,9 @@ En caso de que no sean aprobados los regresará a la Fiduciaria con las observac
 
 El Contralor del Poder Judicial de la Federación, en el ámbito de sus atribuciones y por conducto de la Dirección General de Auditoría, deberá:
 
-I. Fiscalizar permanente de (sic) los ingresos y egresos del patrimonio del Fideicomiso, y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 25 DE MAYO DE 2018)</small>
+
+I. Fiscalizar permanentemente los ingresos y egresos del patrimonio del Fideicomiso; y
 
 II. Las demás que correspondan conforme a las disposiciones legales aplicables.
 
@@ -518,6 +530,14 @@ OCTAVO. Las secretarías ejecutivas de Administración; y de Finanzas y Servicio
 D.O.F. 8 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, RESPECTO DE LA DESIGNACIÓN DEL SECRETARIO DEL COMITÉ".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 25 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
