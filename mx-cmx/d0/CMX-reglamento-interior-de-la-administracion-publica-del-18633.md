@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2018-03-23"
+last_updated: "2018-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MAYO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -876,7 +876,9 @@ I. De Gobierno y Seguridad Pública, integrado por las Secretarías de, Gobierno
 
 II. De Desarrollo Económico Sustentable, integrado por las Secretarías de, Desarrollo Económico; Trabajo y Fomento al Empleo, y de Turismo;
 
-III. De Equidad y Desarrollo Social, integrado por las Secretarías de, Desarrollo Social; Salud; Desarrollo Rural y Equidad para las Comunidades; el Instituto de las Mujeres y la Procuraduría Social;
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2018)</small>
+
+III. De Igualdad Sustantiva y Violencia contra las Mujeres, integrado por las Secretarías de Gobierno, Desarrollo Social, Seguridad Pública, Trabajo y Fomento al Empleo, Salud, Educación, Cultura, Desarrollo Urbano y Vivienda, Procuraduría General de Justicia, Consejería Jurídica y de Servicios Legales, el Instituto de las Mujeres, la Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia del Distrito Federal y los dieciséis Órganos Político Administrativos.
 
 > <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -20807,3 +20809,11 @@ G.O. 23 DE MARZO DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto, así como la derogación de los artículos 205, 206 y 207 del Reglamento Interior de la Administración Público (sic) del Distrito Federal entraran en vigor el 1º de Abril de 2018.
+
+G.O. 25 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL Y DEL REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
