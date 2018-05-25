@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-rural-sustentable-del-estado-de-sinaloa-96789
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2017-01-02"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección de la Edición Extraordinaria del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -755,6 +755,46 @@ En el marco del Programa Especial, el Gobierno del Estado establecerá apoyos ot
 
 El ser sujeto de estos apoyos, no limita a los grupos prioritarios, el acceso a otros programas.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2018)</small>
+
+Dichos apoyos dispondrán acciones e instrumentos orientados, entre otros, a los siguientes propósitos:
+
+l. Impulsar la productividad mediante el acceso a activos, tales como insumos, equipos, implementos y especies pecuarias;
+
+II. Otorgar apoyos que incrementen el patrimonio productivo de las familias que permitan aumentar la eficiencia del trabajo humano;
+
+III. Aumentar el acceso a tecnologías productivas apropiadas a las condiciones agroecológicas y socioeconómicas de las unidades, a través del apoyo a la transferencia y adaptación tecnológica;
+
+IV. Contribuir al aumento de la productividad de los recursos disponibles en especial del capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, el extensionismo, en particular la necesaria para el manejo integral y sostenible de las unidades productivas y la asistencia técnica integral;
+
+V. Mejorar la dieta y la economía familiar mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
+
+VI. Apoyar el establecimiento y desarrollo de empresas rurales para integrar procesos de industrialización, que permitan dar valor agregado a los productos;
+
+VII. Mejorar la articulación de la cadena producción-consumo y diversificar las fuentes de ingreso;
+
+VIII. Promover la diversificación económica con actividades y oportunidades no agropecuarias de carácter manufacturero y de servicios;
+
+IX. El fortalecimiento de las instituciones sociales rurales, fundamentalmente aquéllas fincadas en la cooperación y la asociación con fines productivos;
+
+X. El acceso ágil y oportuno a los mercados financieros de insumos, productos, laboral y de servicios;
+
+XI. Promover el aprovechamiento sustentable de los recursos naturales de uso colectivo; y,
+
+XII. La producción y desarrollo de mercados para productos no tradicionales.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2018)</small>
+
+Los apoyos que se otorguen a mujeres vinculadas al sector rural deberán atender los siguientes lineamientos:
+
+l. Otorgar la posibilidad de complementar las actividades rurales productivas con actividades paralelas de educación auspiciadas, para la conclusión de la educación básica;
+
+II. Contar con un componente de capacitación en materia de equidad de género para toda la población integrante de las unidades económicas rurales;
+
+III. Incorporar elementos de difusión permanente de información para el combate a cualquier tipo de violencia por razón de género; y,
+
+IV. Promover la integración de las mujeres en sociedades y empresas productivas mediante la capacitación y el otorgamiento preferente de créditos y microcréditos.
+
 ### CAPÍTULO IV. DE LOS JORNALEROS AGRÍCOLAS
 
 ###### Artículo 61.
@@ -1284,3 +1324,11 @@ P.O. 2 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 60 QUE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 9 Y LA FRACCIÓN X AL ARTÍCULO 18 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 253 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN LOS PÁRRAFOS TERCEROS Y CUARTO AL ARTÍCULO 60 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado deberá contemplar las partidas presupuestales necesarias en la Ley de Ingresos y Presupuesto de Egresos del Estado, para el Ejercicio Fiscal correspondiente para el cumplimiento del presente Decreto.
