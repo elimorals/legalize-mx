@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-establece-el-catalago-de-pueblos-y-comunidades-127043"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-09"
-last_updated: "2018-03-09"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE ESTABLECE EL CATÁLAGO DE PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
 
 Ley publicada en el No. 31 del Periódico Oficial del Estado de Sinaloa, el viernes 9 de marzo de 2018.
 
@@ -62,6 +62,8 @@ Para el reconocimiento de las prácticas culturales de una localidad o població
 Se reconocen y declaran como pueblos y comunidades indígenas del Estado las siguientes:
 
 > <small>[N. DE E. VÉASE CATÁLOGO EN EL P.O. DE 9 DE MARZO DE 2018, PÁGINAS DE LA 10 A LA 19.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL CATÁLOGO, P.O. 25 DE MAYO DE 2018, PÁGINA 26.]</small>
 
 ###### Artículo 4.
 
@@ -104,3 +106,9 @@ GONZALO GÓMEZ FLORES
 El Secretario de Desarrollo Social
 
 RAÚL CARRILLO CASTAÑOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MAYO DE 2018.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
