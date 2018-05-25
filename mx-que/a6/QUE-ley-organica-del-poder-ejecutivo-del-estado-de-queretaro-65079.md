@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2018-05-09"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -579,7 +579,9 @@ IX. Participar, por conducto de su Titular, como integrante del Comité Coordina
 
 X. Designar y remover, para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamentales (sic), a los comisarios públicos de los órganos de vigilancia de las Entidades, así como normar y controlar su desempeño;
 
-XI. Designar y remover a los titulares de los órganos internos de control de las Dependencias del Poder Ejecutivo y sus Entidades, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales y Estatales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE MAYO DE 2018)</small>
+
+XI. Designar y remover a los titulares de los órganos internos de control de las Dependencias del Poder Ejecutivo y sus Entidades, quienes dependerán funcional y normativamente de la Secretaría de la Contraloría, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales y Estatales.
 
 Los titulares de los órganos internos de control de las dependencias del Poder Ejecutivo y sus Entidades, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
 
@@ -2002,3 +2004,11 @@ P.O. 9 DE MAYO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan la presente Ley.
+
+P.O. 25 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
