@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-para-el-1229
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-08"
-last_updated: "2018-01-23"
+last_updated: "2018-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "COA"
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MAYO DE 2018.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de agosto de 2017.
 
@@ -1029,7 +1031,9 @@ T R A N S I T O R I O S
 
 Artículo Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-Artículo Segundo. Se abroga la Ley que crea el Consejo Estatal de Ciencia y Tecnología y el Fomento a la Investigación Científica y el Desarrollo Tecnológico del Estado de Coahuila, publicada en el Periódico Oficial del Estado el 22 de octubre de 2002.
+> <small>(F. DE E., P.O. 25 DE MAYO DE 2018)</small>
+
+Artículo Segundo. Se abroga la Ley que crea el Consejo Estatal de Ciencia y Tecnología y el Fomento a la Investigación Científica y el Desarrollo Tecnológico del Estado de Coahuila, publicada en el Periódico Oficial del Estado el 25 de octubre de 2002.
 
 Artículo Tercero. Dentro de los seis meses siguientes a la entrada en vigor de este Decreto, el COECYT expedirá las bases de organización y funcionamiento del Sistema Estatal de Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación, el Programa Especial de Innovación, Ciencia y Tecnología y su Estatuto Orgánico.
 
