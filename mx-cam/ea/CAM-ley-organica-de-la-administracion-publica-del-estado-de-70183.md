@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2017-07-13"
+last_updated: "2018-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -1477,7 +1477,9 @@ VI. Formular, fomentar, coordinar y ejecutar políticas y programas en materia l
 
 VII. Promover y procurar el equilibrio de los factores de la producción, teniendo como eje rector el impulso de una cultura laboral basada en el diálogo y la concertación, de conformidad con las disposiciones legales aplicables;
 
-VIII. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2018)</small>
+
+VIII. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo y poner a su disposición la información que soliciten para el cumplimiento de sus funciones; enfatizando la vigilancia del cumplimiento para que Empresas y Patrones en la Entidad, otorguen el derecho de Seguridad Social y Vivienda al trabajador.
 
 IX. Promover y aplicar los programas y normas que determinen la estrategia y el desarrollo de la productividad, la capacitación, el adiestramiento y la seguridad e higiene en el trabajo que requieran los sectores productivos del Estado, en coordinación con la autoridad federal del trabajo y con la participación de los sectores patronal, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito con las dependencias y entidades de la administración pública estatal;
 
@@ -2276,3 +2278,11 @@ Cuarto.- El Gobernador del Estado realizará las adecuaciones a los Reglamentos 
 Quinto.- Por única ocasión, el actual titular de la Secretaría de la Controlaría permanecerá en su encargo por el tiempo que haya sido nombrado sin necesidad de ser ratificado ante el Congreso del Estado.
 
 Sexto.- El Ejecutivo Estatal, en un plazo no mayor a 90 días, deberá hacer las modificaciones pertinentes en la Ley de la Administración Pública Paraestatal del Estado de Campeche y someterlas al Congreso Estatal.
+
+P.O. 25 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 268 POR EL QUE "SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
