@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2018-03-22"
+last_updated: "2018-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -73,11 +73,17 @@ VII. Estimular la creación cultural y artística de los potosinos y habitantes 
 
 VIII. Preservar y difundir el patrimonio cultural del Estado de San Luis Potosí, conforme a las leyes vigentes en la materia;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2018)</small>
 
-IX. Vincular la cultura al desarrollo educativo, social, turístico y económico del Estado, fortaleciendo la cohesión comunitaria, la cultura de paz y el cuidado del medio ambiente, y
+IX. Vincular la cultura al desarrollo educativo, social, turístico y económico del Estado, fortaleciendo la cohesión comunitaria, la cultura de paz y el cuidado del medio ambiente;
 
-X. Propiciar el predominio del interés general, sobre el interés particular.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2018)</small>
+
+X. Propiciar el predominio del interés general, sobre el interés particular, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2018)</small>
+
+XI. Reconocer y garantizar el derecho a la identidad cultural de los individuos.
 
 ###### ARTICULO 4º.
 
@@ -113,35 +119,39 @@ XII. Espacio cultural independiente: espacio gestionado por una asociación civi
 
 XIII. Gestor cultural: es toda aquella persona que, partiendo de una valoración o de un diagnóstico, coadyuva en la conformación y concreción de proyectos de desarrollo cultural de una comunidad, a través de una serie de diligencias orientadas a la obtención de apoyos para la ejecución de los mismos;
 
-XIV. Industrias culturales: conjunto de empresas cuya finalidad es la producción, distribución, difusión, promoción y reproducción de productos culturales y artísticos, actividades que tienen como base los derechos de la propiedad intelectual, con fines comerciales. Las industrias culturales se refieren a las casas editoras, productoras discográficas, escénicas y cinematográficas, de video y productos multimedia, entre otras;
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2018)</small>
 
-XV. Infraestructura cultural: conjunto de instalaciones y espacios físicos, así como su equipamiento y recursos materiales, en que se ofrece a la población los servicios y el acceso a los bienes culturales;
+XIV. Identidad cultural: sentido de coincidencia de una persona con un determinado grupo o cultura, en la medida en que es afectado por su pertenencia a la misma;
 
-XVI. Instituciones públicas: organizaciones fundamentales del estado con diferente vocación, que incluyen dentro de su misión, la promoción y difusión de la cultura;
+XV. Industrias culturales: conjunto de empresas cuya finalidad es la producción, distribución, difusión, promoción y reproducción de productos culturales y artísticos, actividades que tienen como base los derechos de la propiedad intelectual, con fines comerciales. Las industrias culturales se refieren a las casas editoras, productoras discográficas, escénicas y cinematográficas, de video y productos multimedia, entre otras;
 
-XVII. Organismos privados, son aquéllas agrupaciones que pertenecen a la iniciativa privada, comprometidas con el desarrollo cultural. Tienen como función principal apoyar, promover y difundir la producción artística y cultural, a través de cualquier aportación económica o en especie;
+XVI. Infraestructura cultural: conjunto de instalaciones y espacios físicos, así como su equipamiento y recursos materiales, en que se ofrece a la población los servicios y el acceso a los bienes culturales;
 
-XVIII. Organizaciones de la sociedad civil: agrupaciones de diversa vocación que incluyen en su misión, la promoción y difusión de la cultura;
+XVII. Instituciones públicas: organizaciones fundamentales del estado con diferente vocación, que incluyen dentro de su misión, la promoción y difusión de la cultura;
 
-XIX. Organizaciones independientes: son aquéllas integradas por creadores o grupos de éstos, cuya formación obedece a la difusión, promoción, creación e investigación de la cultura; siendo ajenas a las instituciones públicas u organismos privados;
+XVIII. Organismos privados, son aquéllas agrupaciones que pertenecen a la iniciativa privada, comprometidas con el desarrollo cultural. Tienen como función principal apoyar, promover y difundir la producción artística y cultural, a través de cualquier aportación económica o en especie;
 
-XX. Patrimonio cultural del Estado de San Luis Potosí: expresiones culturales tangibles e intangibles producidas en el Estado de San Luis Potosí, contempladas en la competencia normativa de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos, y en la Ley de Protección al Patrimonio Cultural del Estado;
+XIX. Organizaciones de la sociedad civil: agrupaciones de diversa vocación que incluyen en su misión, la promoción y difusión de la cultura;
 
-XXI. Política cultural: principios, programas, proyectos y, en general, todas las acciones que el Estado de San Luis Potosí realice con el fin de propiciar el desarrollo de la cultura, en sus distintas manifestaciones;
+XX. Organizaciones independientes: son aquéllas integradas por creadores o grupos de éstos, cuya formación obedece a la difusión, promoción, creación e investigación de la cultura; siendo ajenas a las instituciones públicas u organismos privados;
 
-XXII. Promoción cultural: apoyo económico, técnico, profesional y logístico que se proporciona de manera sistemática, planificada y organizada, encaminado a la realización de actividades culturales y artísticas, en cualquier ámbito y sector de la sociedad;
+XXI. Patrimonio cultural del Estado de San Luis Potosí: expresiones culturales tangibles e intangibles producidas en el Estado de San Luis Potosí, contempladas en la competencia normativa de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos, y en la Ley de Protección al Patrimonio Cultural del Estado;
 
-XXIII. Promotor cultural: toda persona física o moral cuya labor consiste en organizar, estimular, difundir, financiar, comercializar y promover cualquier tipo de manifestación cultural y artística;
+XXII. Política cultural: principios, programas, proyectos y, en general, todas las acciones que el Estado de San Luis Potosí realice con el fin de propiciar el desarrollo de la cultura, en sus distintas manifestaciones;
 
-XXIV. Sistema de información Cultural: base de datos disponible en: internet, de acceso libre y en permanente actualización, que concentra la información respecto a la infraestructura cultural, planes y programas de trabajo, legislación vigente, estadísticas y diagnósticos culturales, producción editorial, catálogo de creadores y su obra artística;
+XXIII. Promoción cultural: apoyo económico, técnico, profesional y logístico que se proporciona de manera sistemática, planificada y organizada, encaminado a la realización de actividades culturales y artísticas, en cualquier ámbito y sector de la sociedad;
 
-XXV. Secult: Secretaría de Cultura del Gobierno del Estado de San Luis Potosí;
+XXIV. Promotor cultural: toda persona física o moral cuya labor consiste en organizar, estimular, difundir, financiar, comercializar y promover cualquier tipo de manifestación cultural y artística;
 
-XXVI. SEGE: Secretaría de Educación del Gobierno del Estado;
+XXV. Sistema de información Cultural: base de datos disponible en: internet, de acceso libre y en permanente actualización, que concentra la información respecto a la infraestructura cultural, planes y programas de trabajo, legislación vigente, estadísticas y diagnósticos culturales, producción editorial, catálogo de creadores y su obra artística;
 
-XXVII. Trabajadores de la cultura: aquéllos investigadores, promotores y personal técnico y administrativo, que labora en las instituciones o industrias culturales, y
+XXVI. Secult: Secretaría de Cultura del Gobierno del Estado de San Luis Potosí;
 
-XXVIII. UNESCO: Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura.
+XXVII. SEGE: Secretaría de Educación del Gobierno del Estado;
+
+XXVIII. Trabajadores de la cultura: aquéllos investigadores, promotores y personal técnico y administrativo, que labora en las instituciones o industrias culturales, y
+
+XXIX. UNESCO: Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -167,9 +177,11 @@ VI. Las instituciones coadyuvantes.
 
 Además de las autoridades señaladas en el artículo anterior; también serán coadyuvantes dentro del ámbito de su competencia, en la aplicación de la presente Ley, las dependencias y entidades de la administración pública estatal, y Federal.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2018)</small>
 
-Las autoridades encargadas de la aplicación de esta Ley se coordinarán entre sí, para elaborar los programas de desarrollo cultural del Estado de San Luis Potosí, así como para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Entidad, abarque a todos sus municipios, individuos, comunidades y grupos sociales.
+###### ARTÍCULO 8.
+
+Las autoridades encargadas de la aplicación de esta Ley se coordinarán entre sí, para elaborar los programas de desarrollo cultural del Estado de San Luis Potosí, así como para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Entidad abarque a todos sus municipios, individuos, comunidades y grupos sociales, procurando fomentar la igualdad de género, no discriminación, inclusión social, justicia, solidaridad, respeto y responsabilidad social.
 
 ### CAPITULO II. De sus Atribuciones
 
@@ -830,3 +842,11 @@ P.O. 22 DE MARZO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 962.- SE REFORMA (SIC) LOS ARTÍCULOS 3 Y 8; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 3 Y 5 DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
