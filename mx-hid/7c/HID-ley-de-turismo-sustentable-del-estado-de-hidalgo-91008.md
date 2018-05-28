@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2016-05-23"
+last_updated: "2018-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -279,6 +279,10 @@ XXVII.- Diseñar y publicar la Guía del Inversionista Turístico del Estado de 
 
 XXVIII.- Promover e impulsar estrategias institucionales para el desarrollo del turismo de convenciones y visitantes, así como de segmentos como el turismo de salud, de naturaleza, cinegético, de aventura, religioso, el turismo social, entre otros, que generen una afluencia de turistas al Estado;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2018)</small>
+
+XXVIII Bis.- Fomentar la inclusión digital en los establecimientos que ofrezcan un servicio turístico.
+
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
 XXIX.- Promover e impulsar estrategias para desarrollar el Turismo sustentable en los Pueblos y Comunidades indígenas del Estado, protegiendo los recursos naturales y el patrimonio natural y cultural de los territorios que habitan;
@@ -477,7 +481,7 @@ La Comisión Ejecutiva es una comisión intersecretarial, que tiene como objeto 
 
 ###### Artículo 21.
 
-La Comisión Ejecutiva será presidida .por el Titular del Ejecutivo Estatal y en sus ausencias será sustituido por el titular de la Secretaría; estará integrada por representantes de las Dependencias y Entidades relacionadas con la actividad turística, conforme a lo que establezcan las disposiciones reglamentarias.
+La Comisión Ejecutiva será presidida por el Titular del Ejecutivo Estatal y en sus ausencias será sustituido por el titular de la Secretaría; estará integrada por representantes de las Dependencias y Entidades relacionadas con la actividad turística, conforme a lo que establezcan las disposiciones reglamentarias.
 
 ###### Artículo 22.
 
@@ -1030,3 +1034,11 @@ P.O. 23 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 657 QUE REFORMA EL ARTÍCULO 41; LAS FRACCIONES I Y V DEL ARTÍCULO 46; Y SE ADICIONA EL NUMERAL 3, AL INCISO B) DE LA FRACCIÓN XXII, DEL ARTÍCULO 5; Y EL ARTÍCULO 28 BIS, DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 437.- QUE ADICIONA LA FRACCIÓN XXVIII BIS AL ARTÍCULO 7 DE LA LEY DE TURISMO SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
