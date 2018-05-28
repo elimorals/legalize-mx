@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2018-05-14"
+last_updated: "2018-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 28 DE MAYO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2018.]</small>
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -199,9 +199,9 @@ III.- No encontrarse en alguno de los impedimentos para ser miembro del Organo d
 
 Los servidores públicos del primer nivel jerárquico inferior al de Director General, serán designados y removidos por el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+(ADICIONADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
 
-Para la designación de los servidores públicos que sean Titulares de la Autoridad Auditora; la Autoridad Investigadora; y, Autoridad Substanciadora y Resolutora, que integren el Órgano Interno de Control y Evaluación, se deberá seguir el procedimiento establecido en el Artículo 45 A de esta Ley.
+Para la designación de los servidores públicos que sean Titulares de la Autoridad Auditora; la Autoridad Investigadora; y la Autoridad Substanciadora y Resolutora, que integren el Órgano Interno de Control, se deberá seguir el procedimiento establecido en el Artículo 45 A de esta Ley.
 
 ###### ARTICULO 15.
 
@@ -431,9 +431,9 @@ X.- Autorizar la creación de comités de apoyo,
 
 XI.- Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad paraestatal que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones,
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+(REFORMADA, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
 
-XII.- Nombrar y remover a propuesta de su Presidente, al Secretario, quien podrá ser miembro o no del Órgano de Gobierno o de la entidad paraestatal,
+XII.- Nombrar y remover a propuesta de su Presidente, al Secretario y, a propuesta del Director General al Prosecretario, quienes podrán ser miembros o no del Órgano de Gobierno o de la entidad paraestatal,
 
 XIII.- Aprobar la constitución de reservas y aplicación de las utilidades de las entidades paraestatales,
 
@@ -485,9 +485,9 @@ XIII.- Suscribir, en su caso, los contratos colectivos o individuales que regule
 
 XIV.- Expedir certificaciones de los documentos que obren en los archivos de la entidad paraestatal,
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+(ADICIONADA, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
 
-XV.- Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos Internos de Control y Evaluación de la entidad paraestatal se realicen de acuerdo con las disposiciones legales aplicables, y
+XV.- Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación de la entidad paraestatal se realicen de acuerdo con las disposiciones legales aplicables, y
 
 > <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -495,11 +495,11 @@ XVI.- Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás
 
 ### CAPITULO VII. Del Control y Evaluación
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+(REFORMADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
 
 ###### ARTICULO 43.
 
-El Órgano Interno de Control y Evaluación tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de la entidad paraestatal; estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de la entidad paraestatal; estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
 
 Los Comisarios Públicos evaluarán el desempeño general y por funciones de la entidad paraestatal, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General deberán proporcionar la información que solicite el Comisario Público de la entidad paraestatal correspondiente y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
 
@@ -513,15 +513,17 @@ II.- Los Directores Generales definirán las políticas de instrumentación de l
 
 III.- Los demás servidores públicos de la entidad responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+(REFORMADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
 
 ###### ARTICULO 45.
 
-Los Órganos Internos de Control y Evaluación tienen a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la entidad paraestatal, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+Los Órganos Internos de Control tienen a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la entidad paraestatal, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
 
 Serán parte de la estructura orgánica de la entidad paraestatal y contarán con las autoridades necesarias para el cumplimiento de sus atribuciones en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; Ley Orgánica de la Administración Pública del Estado de Aguascalientes; Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios; Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios; ésta Ley y demás normatividad aplicable.
 
-Los Órganos Internos de Control y Evaluación dirigirán sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado y de acuerdo con las siguientes bases:
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2018)</small>
+
+Los Órganos Internos de Control dirigirán sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado y de acuerdo con las siguientes bases:
 
 I.- Dependerán del Director General de la entidad paraestatal,
 
@@ -531,9 +533,9 @@ III.- Examinarán y evaluarán los sistemas, mecanismos y procedimientos de cont
 
 IV.- Conocerán, tramitarán, substanciarán y en su caso resolverán el procedimiento de responsabilidad administrativa, en términos de lo establecido por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables a la materia.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+(ADICIONADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
 
-ARTICULO 45 A.- Para el ejercicio de sus funciones, el Órgano Interno de Control y Evaluación, se conformará de la siguiente manera:
+ARTICULO 45 A.- Para el ejercicio de sus funciones, el Órgano Interno de Control, se conformará de la siguiente manera:
 
 I. Autoridad Auditora;
 
@@ -547,9 +549,9 @@ El servidor público que ejerza la función de Autoridad Substanciadora y Resolu
 
 En caso de urgente necesidad, con el objeto de atender situaciones con términos de vencimiento, el Director General, bajo su estricta responsabilidad, designará directamente al servidor público responsable de ejercer las funciones de alguna de las Autoridades del Órgano Interno de Control, siempre y cuando dicha designación no exceda de 30 días, plazo durante el cual deberá realizarse el procedimiento de designación establecido en el segundo párrafo del presente Artículo.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2018)</small>
+(ADICIONADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
 
-ARTICULO 45 B.- Las funciones de las Autoridades que integran al Órgano Interno de Control y Evaluación serán las siguientes:
+ARTICULO 45 B.- Las funciones de las Autoridades que integran al Órgano Interno de Control serán las siguientes:
 
 A. Autoridad Auditora:
 
@@ -569,7 +571,9 @@ VII. Llevar a cabo las acciones necesarias para la implementación de las Normas
 
 VIII. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
 
-IX. Expedir certificaciones de los documentos que obren en los archivos de la entidad paraestatal;
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2018)</small>
+
+IX. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
 
 X. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente; y
 
@@ -601,7 +605,9 @@ XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autorid
 
 XII. Habilitar días y horas inhábiles para la práctica de diligencias;
 
-XIII. Ordenar medidas de apremio y dictar medidas cautelares;
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2018)</small>
+
+XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
 
 XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
 
@@ -647,13 +653,15 @@ XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramita
 
 XII. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones; y
 
-XII (SIC). Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+> <small>(F. DE E., P.O. 28 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
+XIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
 
 ###### ARTICULO 46.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los Órganos Internos de Control y Evaluación y contarán con los Comisarios Públicos que designe el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los Órganos Internos de Control y contarán con los Comisarios Públicos que designe el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
 
 Los fideicomisos públicos a que se refiere esta Ley, se ajustarán en lo que sea compatible con lo dispuesto por ella.
 
