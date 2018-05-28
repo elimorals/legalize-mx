@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-237-que-crea-el-consejo-veracruzano-de-79219"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-02"
-last_updated: "2011-02-02"
+last_updated: "2018-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 237 QUE CREA EL CONSEJO VERACRUZANO DE ARMONIZACION CONTABLE DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 237 QUE CREA EL CONSEJO VERACRUZANO DE ARMONIZACION CONTABLE DEL ESTADO DE VERACRUZ
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 642 QUE REGULA LA INTEGRACIÓN Y EL FUNCIONAMIENTO DEL CONSEJO VERACRUZANO DE ARMONIZACIÓN CONTABLE, PUBLICADA EN LA G.O. DE 28 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY NUMERO 237 QUE CREA EL CONSEJO VERACRUZANO DE ARMONIZACIÓN CONTABLE DEL ESTADO DE VERACRUZ
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MAYO DE 2018 (ABROGADA).
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 2 de febrero de 2011.
 
@@ -122,3 +124,21 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 642 QUE REGULA LA INTEGRACIÓN Y EL FUNCIONAMIENTO DEL CONSEJO VERACRUZANO DE ARMONIZACIÓN CONTABLE”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley que crea el Consejo Veracruzano de Armonización Contable publicada en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el 2 de febrero de 2011, así como las diversas que se opongan a la presente Ley.
+
+Tercero. Se derogan las diversas disposiciones administrativas emitidas por el Consejo Veracruzano de Armonización Contable que se opongan a la presente Ley.
+
+Cuarto. Para todos los efectos legales y administrativos a que haya lugar, el Consejo Veracruzano de Armonización Contable a que se refiere la Ley que crea el Consejo Veracruzano de Armonización Contable, será sustituido por el Consejo de la presente Ley.
+
+Quinto. El presidente del Consejo deberá instalar el órgano colegiado a que se refiere esta Ley en un plazo máximo de treinta días hábiles a partir del siguiente día de su publicación a efecto de que en lo sucesivo sesione con regularidad.
+
+Sexto. Una vez instalado el Consejo, el presidente del mismo, deberá informar tal circunstancia al secretario técnico del Consejo Nacional para todos los efectos administrativos a que haya lugar.
