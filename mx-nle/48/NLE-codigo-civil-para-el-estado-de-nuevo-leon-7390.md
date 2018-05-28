@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2018-03-28"
+last_updated: "2018-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1719,7 +1719,7 @@ El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y ac
 
 ###### Art. 178.
 
-El Contrato de Matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes. A falta de régimen expresamente señalado, se estará ujeto al régimen de separación de bienes, y en ningún caso; los bienes adquiridos antes del matrimonio, el importe de la venta de los bienes propios, los adquiridos por herencia, donación o por cualquier otro título gratuito, los productos y los que se obtengan por su reinversión, formarán parte de la sociedad conyugal, salvo que expresamente se pacte lo contrario en las capitulaciones matrimoniales.
+El Contrato de Matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes. A falta de régimen expresamente señalado, se estará sujeto al régimen de separación de bienes, y en ningún caso; los bienes adquiridos antes del matrimonio, el importe de la venta de los bienes propios, los adquiridos por herencia, donación o por cualquier otro título gratuito, los productos y los que se obtengan por su reinversión, formarán parte de la sociedad conyugal, salvo que expresamente se pacte lo contrario en las capitulaciones matrimoniales.
 
 ###### Art. 179.
 
@@ -2193,11 +2193,9 @@ El divorcio puede ser incausado o por mutuo consentimiento. Es incausado cuando 
 
 (DEROGADO, P.O. 14 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
-
 ###### Art. 269.
 
-El divorcio en cualquiera de sus formas solo podrá pedirse pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 28 DE MAYO DE 2018)
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2227,9 +2225,9 @@ La falta o deficiente presentación de la propuesta de convenio a que se refiere
 
 Procederá el divorcio administrativo cuando ambos consortes convengan en divorciarse y sean mayores de edad, tengan más de un año de casados, no tengan hijas o hijos o teniéndolos estos sean mayores de edad y no sean incapaces, carezcan de bienes, o que de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron o tratándose de separación de bienes hubieren acordado la compensación que uno dará al otro, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijas o hijos menores de 30 años o incapaces sin importar la edad, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijas o hijos menores de edad o incapaces sin importar la edad, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -2237,11 +2235,11 @@ Los consortes que no se encuentren en el caso previsto en los anteriores párraf
 
 (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 274.
 
-Se sobreseerá el procedimiento de divorcio cuando durante su trámite muera uno de los cónyuges.
+Se sobreseerá el procedimiento de divorcio cuando muera uno de los cónyuges antes de que cause ejecutoria la sentencia de divorcio.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2255,11 +2253,11 @@ La reconciliación de los cónyuges pone término al divorcio en cualquier estad
 
 La persona que no quiera pedir el divorcio incausado cuando su cónyuge padezca una enfermedad crónica o incurable que sea, además, contagiosa o hereditaria que ponga en riesgo la salud del cónyuge o de los demás miembros de la familia o por haber sido declarado el estado de interdicción mediante sentencia que haya causado ejecutoria, podrá solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, con conocimiento de causa, podrá decretar esa suspensión, aplicando todas las medidas de naturaleza cautelar necesarias para tal efecto, quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 277.
 
-En la sentencia de divorcio incausado el juez declarará que, de no existir convenio entre los progenitores respecto de la custodia y convivencia en relación a sus hijas e hijos menores o incapaces, quedan obligados para con estos y cualquier cuestión al respecto, podrá ejercitarse a través de la vía incidental o en juicio autónomo según las circunstancias del caso, a fin de que el juez resuelva lo conducente en los términos de este Código y el Código de Procedimientos Civiles para el Estado.
+En la sentencia de divorcio incausado el juez declarará que, de no existir convenio entre los progenitores ni sentencia firme que defina respecto de la custodia y convivencia en relación a sus hijos menores o incapaces, quedan obligados para con estos y cualquier cuestión al respecto, podrá ejercitarse a través de la vía incidental o en juicio autónomo según las circunstancias del caso, a fin de que el juez resuelva lo conducente en los términos de este Código y el Código de Procedimientos Civiles para el Estado.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -2267,23 +2265,29 @@ En la sentencia de divorcio incausado el juez declarará que, de no existir conv
 
 Al decretarse el divorcio incausado se declarará que la obligación alimentaria subsiste para los padres en relación con sus hijas e hijos; la pensión alimenticia en caso de no quedar establecida en la sentencia de divorcio, se fijará y asegurará en la vía incidental o el juicio autónomo a elección del acreedor, excepto lo establecido en el Artículo 285 de este Código.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 279.
 
-En la resolución en la cual se decrete el divorcio incausado, el juez declarará que él o la ex cónyuge podrá tener derecho a alimentos, cuando demuestre en la vía incidental los extremos del artículo 311 de este Código, así como que durante su matrimonio se dedicó preponderantemente a las labores del hogar y al cuidado de las hijas e hijos si los hubiere, esté imposibilitado para trabajar o carezca de bienes suficientes para su subsistencia.
+En la resolución en la cual se decrete el divorcio incausado, el juez declarará la extinción del derecho de alimentos entre los cónyuges; sin embargo, también declarará que él o la ex cónyuge que durante su matrimonio se dedicó preponderantemente a las labores del hogar y al cuidado de los hijos si los hubiere, podrá tener derecho a una pensión compensatoria que le permita vivir dignamente, la cual perdurará hasta que se encuentre en condiciones de subsistir por sí mismo, pero en ningún caso podrá exceder del tiempo que duró el matrimonio.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+Este derecho podrá reclamarse en la vía incidental una vez declarado el divorcio. En la determinación de la capacidad económica del deudor, deberán estimarse sus nuevos gastos familiares y deberá darse prioridad al derecho de alimentos de todos sus hijos.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 280.
 
-La resolución incidental que decrete subsistente el derecho alimentario a que se refiere el artículo anterior, determinará su monto, forma y duración de pago acorde a lo dispuesto en este Código.
+Para la definición del derecho, monto y duración de la pensión compensatoria habrán de considerarse los extremos previstos en el artículo 311 de este Código y, en especial, todas las condiciones particulares del ex cónyuge acreedor en cuanto a sus posibilidades reales de subsistir por sí mismo o el tiempo que le llevará hacerlo, entre ellas, su edad, estado de salud, capacitación o experiencia laboral, grado profesional o técnico adquirido, si tiene o no hijos menores de edad a su cuidado, así como la oferta de trabajo existente en el lugar de su residencia.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+De recibir una compensación patrimonial conforme el artículo 288 de este código, ésta habrá de considerarse al ponderar la necesidad de fijar la pensión compensatoria, su monto y duración, de manera que el Juez habrá de analizar el monto de aquella compensación patrimonial para resolver si torna innecesaria la fijación de una pensión compensatoria.
+
+En su caso, igual estudio habrá de realizarse para reducir o cancelar la pensión compensatoria ya fijada.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 281.
 
-Quien reclame el derecho a los alimentos que regulan los artículos anteriores, tendrá la presunción de necesitarlos y podrá solicitar al juez que le fije prudencialmente una pensión alimenticia provisional.
+Quien reclame el derecho a la pensión compensatoria que regulan los artículos anteriores, tendrá la presunción de necesitarla y podrá solicitar al juez que le fije prudencialmente una pensión provisional.
 
 Si la contraparte la desvirtúa y se hubiere pagado en todo o en parte dicha pensión, el juez ordenará en la sentencia incidental que se le reintegre lo que hubiere otorgado más el interés legal correspondiente y dará conocimiento del Ministerio Público, para los efectos a que hubiere lugar.
 
@@ -2329,11 +2333,19 @@ Decretado el divorcio incausado, se procederá conforme a las disposiciones de l
 
 Para el caso de que existan bienes afectos al patrimonio familiar deberá estarse a lo dispuesto en el artículo 739 fracción VI de este Código.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 288.
 
-En los casos de divorcio incausado de los matrimonios bajo el régimen de separación de bienes, si uno de los cónyuges fuera el que se dedicó preponderantemente a las labores del hogar o al cuidado de las hijas o hijos, y no hubiere generado bienes o en su caso, habiéndolos generado estos no alcancen la proporción equivalente en valor a los generados por el otro, deberá el juez decretar una compensación para aquel cónyuge, bajo los principios de equidad y solidaridad, misma que podrá ser hasta del cincuenta por ciento del valor de dichos bienes.
+Cuando el matrimonio se hubiere contraído bajo el régimen de separación de bienes, en caso de divorcio incausado, él o la ex cónyuge que durante el matrimonio se dedicó preponderantemente a las labores del hogar y/o al cuidado de los hijos y no adquirió bienes propios o los conseguidos no alcanzan el valor de los obtenidos por su ex cónyuge podrá tener derecho a una compensación patrimonial por un monto de hasta el cincuenta por ciento del valor de los bienes que aquél adquirió durante el matrimonio.
+
+No se consideran para este efecto los bienes adquiridos antes del matrimonio, ni los frutos o el importe de la venta de éstos; tampoco los adquiridos por herencia, donación o por cualquier otro título gratuito.
+
+El derecho y, en su caso, el monto de la compensación patrimonial será definido en la vía incidental una vez declarado el divorcio, bajo los principios de equidad y solidaridad.
+
+La determinación respectiva será tomada en cada caso atendiendo a las particularidades de la dinámica familiar vivida, para lo cual será considerada la duración del matrimonio, la intensidad o el tiempo dedicado a las labores del hogar, el costo de oportunidad perdido, los beneficios ya recibidos durante el matrimonio, el valor total de los bienes adquiridos, menos el importe, en su caso, de las deudas contraídas, así como el nivel socioeconómico de la familia desde la celebración del matrimonio hasta su disolución.
+
+La cantidad definida como compensación patrimonial podrá ser pagada en una sola exhibición, en pagos diferidos o mediante la entrega de bienes que en valor equivalgan ese monto. El Juzgador valorará la que mayormente convenga a los ex cónyuges en función a sus condiciones particulares y al tipo de activo patrimonial respectivo, con el fin de que la decisión cumpla su función resarcitoria; pero sin causar una afectación innecesaria al capital, manejo y, en su caso, la continuación de las actividades empresariales, comerciales o profesionales del deudor, buscando sea proporcional con la afectación a resarcir.
 
 ###### Art. 288 Bis.
 
@@ -2431,11 +2443,11 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 La obligación de dar alimentos es recíproca. El que los dá tiene a su vez el derecho de pedirlos.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 302.
 
-Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale. Los concubinos también están obligados a darse alimentos cuando carezcan de ingresos o bienes propios suficientes para subsistir y estén imposibilitados para trabajar.
+Los cónyuges deben darse alimentos mientras esté vigente el matrimonio. Los concubinos también están obligados a darse alimentos cuando carezcan de ingresos o bienes propios suficientes para subsistir y estén imposibilitados para trabajar.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -2573,7 +2585,7 @@ VI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
 En cualquiera de los supuestos anteriores, de cambiar las circunstancias que originaron la suspensión, podrá reclamarse en la vía incidental atendiendo la necesidad de quien los reclama y la posibilidad de quien debe otorgarlos.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 320 Bis.
 
@@ -2583,19 +2595,41 @@ I.- En caso de ingratitud del acreedor hacia el deudor y en los supuestos conten
 
 II.- Cuando el alimentista sea condenado por violencia familiar en contra de quien debía proporcionarlos;
 
-III.- Tratándose del divorcio, salvo los casos de excepción que establece este Código;
+III.- Entre cónyuges, una vez que cause ejecutoria la resolución que decreta el divorcio;
 
 IV.- Cuando el acreedor contraiga nupcias o se una con fines semejantes al matrimonio; y
 
 V.- Por resolución judicial.
 
-Acreditado en forma plena, cualquiera de los supuestos anteriores a través de acción autónoma, la pensión alimenticia se cancelará y el derecho se perderá en definitiva, salvo en aquellos casos en que la sentencia de divorcio hubiere la declaración respectiva.
+Acreditado en forma plena, cualquiera de los supuestos anteriores a través de acción autónoma, la pensión alimenticia se cancelará y el derecho se perderá en definitiva; excepto en caso de la fracción III, en cuyo caso, será en la propia sentencia de divorcio en la que se declare la extinción del derecho alimentario conforme lo previsto en el artículo 279 de este código.
+
+Si existiera una pensión de alimentos entre los cónyuges, para cancelarla bastará acompañar la sentencia de divorcio respectiva, sin necesidad de tramitación de juicio o incidente al respecto.
+
+El nacimiento y, en su caso, extinción, del derecho a recibir la pensión compensatoria en caso de divorcio incausado, también estará sujeta a los mismos supuestos aquí previstos.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 320 Bis 1.
 
 La suspensión o la cesación de la obligación de dar alimentos sólo afectará al que hubiere dado lugar a ello, continuando vigente la obligación de dar alimentos que el deudor alimentista tuviere con sus demás acreedores alimentistas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2018)</small>
+
+Art. 320 Bis II.- La pensión compensatoria se extinguirá:
+
+I.- Por la muerte del acreedor o del deudor.
+
+II.- Cuando la capacidad económica del acreedor mejore y deje de justificarse la prestación; o cuando el deudor carezca de medios para cumplirla.
+
+III.- En caso de ingratitud del acreedor hacia el deudor y en los supuestos contenidos en el artículo 1213 de este Código;
+
+IV.- Por matrimonio del acreedor o por convivencia con fines semejantes al matrimonio con otra persona;
+
+V.- Cuando el deudor se oponga o dificulte la convivencia entre el deudor y sus hijos;
+
+VI.- Cuando la necesidad de la pensión dependa de la conducta viciosa o de la falta de aplicación al trabajo del deudor, mientras subsistan estas causas; y
+
+VII.- Por el vencimiento del plazo por el que se estableció.
 
 ###### Art. 321.
 
@@ -2831,17 +2865,17 @@ Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los her
 
 Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de una hija o hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquél en que la hija o el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por la hija o hijo en la posesión de la herencia.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 334.
 
-Si la viuda, la divorciada, o aquélla cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 158, la filiación de la hija o hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la mujer viuda, divorciada, o aquélla cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias; la filiación del hijo que naciere después de celebrado el nuevo matrimonio se establecerá conforme a las reglas siguientes:
 
 I.- Se presume que la hija o hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
 II.- Se presume que la hija o hijo es del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
 
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que la hija o hijo sea del marido a quien se atribuye;
+El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye; y
 
 III.- La hija o hijo se presume nacido fuera del matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
 
@@ -7809,9 +7843,11 @@ La prescripción negativa se verifica por el solo transcurso del tiempo fijado p
 
 Fuera de los casos de excepción, se necesita el lapso de diez años, contados desde que una obligación puede exigirse, para que se extinga el derecho de pedir su cumplimiento.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
+
 ###### Art. 1157.
 
-La obligación de dar alimentos es imprescriptible.
+La obligación de dar alimentos es imprescriptible. El derecho a reclamar una pensión compensatoria o una compensación patrimonial derivada de un divorcio incausado prescribe en el segundo año de que causó ejecutoria la sentencia de divorcio.
 
 ###### Art. 1158.
 
@@ -17642,6 +17678,16 @@ P.O. 28 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 371. SE REFORMAN LOS ARTÍCULOS 2300, 2301, 2308, 2378 Y 2384; SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 2306, UNA FRACCIÓN IV AL ARTÍCULO 2319, UNA FRACCIÓN IX AL ARTÍCULO 2377, ASÍ COMO LOS ARTÍCULOS 2384 BIS, 2384 BIS I, 2384 BIS II Y 2384 BIS III DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 392. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 272 EN SU SEGUNDO PÁRRAFO, 274, 277, 279, 280, 281, 288, 302, 320 BIS, 334 Y 1157; ADICIÓN DE UN ARTÍCULO 320 BIS II Y SE DEROGA EL ARTÍCULO 269 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
+
+Tercero.- Los asuntos en trámite serán resueltos conforme a las normas vigentes al momento en que fueron iniciados.
 
 ###### ARTICULO TERCERO.
 
