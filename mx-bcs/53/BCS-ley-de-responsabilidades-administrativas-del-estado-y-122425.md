@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-administrativas-del-estado-y-122425"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-27"
-last_updated: "2018-05-14"
+last_updated: "2018-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE MAYO DE 2018.
 
 Ley publicada en el Extraordinario No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -1819,7 +1819,13 @@ Los procedimientos administrativos iniciados con anterioridad a la entrada en vi
 
 Quinto.- A la fecha de entrada en vigor de la presente Ley, todas las menciones relativas a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, se entenderán referidas a esta Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, que contiene este Decreto.
 
-Una vez entrada en vigor esta Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y hasta en tanto la autoridad competente determine los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno, presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley, se utilicen en el Estado.
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2018)</small>
+
+Una vez entrada en vigor esta Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción determina los formatos para la presentación de las declaraciones de situación patrimonial y de intereses, los servidores públicos de todos los órdenes de gobierno las presentarán en los formatos magnéticos, electrónicos o impresos que se utilicen en el ámbito federal.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2018)</small>
+
+Las autoridades del Estado y Municipios facultadas para aplicar la presente Ley, en cuanto a los servidores públicos obligados a presentar declaración, adoptarán y aplicarán los criterios contenidos en el acuerdo o acuerdos que se emitan en relación a la obligación de presentar las declaraciones de situación patrimonial y de interés por el Comité Coordinador del Sistema Nacional Anticorrupción, hasta en tanto no esté conformado el Comité Coordinador del Sistema Estatal Anticorrupción.
 
 Sexto.- Con la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur quedará abrogada la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, así como todas aquellas disposiciones que se opongan a lo previsto en la Ley que contiene este Decreto, con excepción de lo previsto en el Título Segundo relativo al "Procedimiento ante el Congreso del Estado en Materia de Juicio Político y Declaración de Procedencia" de la Ley que se abroga, en tanto se expide una nueva ley en la materia.
 
@@ -1856,3 +1862,9 @@ B.O. 14 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2530 SE EXPIDE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL ARTÍCULO 118 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE DEROGA EL TITULO VI DEL CÓDIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 28 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2535 SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO 2448 EXPEDIDO EN FECHA 22 DE JUNIO DE 2017 POR EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, POR EL CUAL SE EXPIDE LA "LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR", PUBLICADA EN EL BOLETÍN OFICIAL EXTRAORDINARIO NÚMERO 23 DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR DE FECHA 27 DE JUNIO DE 2017".]
+
+UNICO.- El presente Decreto entrara en vigor el día de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
