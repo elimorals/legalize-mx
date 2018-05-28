@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-847-de-prevencion-y-gestion-integral-de-residuos-404
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-28"
-last_updated: "2018-02-22"
+last_updated: "2018-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MAYO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 28 de junio de 2004.
 
@@ -69,9 +69,21 @@ IX. Fomentar la innovación tecnológica, la eficiencia ecológica y la competit
 
 X. Establecer un sistema de información relativa a la generación y gestión integral de los residuos sólidos urbanos y de manejo especial, así como de sitios contaminados y remediados;
 
-XI. Llevar a cabo la verificación del cumplimiento de esta Ley y de las disposiciones que de ella deriven, e imponer las medidas de seguridad y sanciones que correspondan; y
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2018)</small>
 
-XII. Brindar certeza jurídica a la participación privada en la gestión integral de los residuos.
+XI. Llevar a cabo la verificación del cumplimiento de esta Ley y de las disposiciones que de ella deriven, e imponer las medidas de seguridad y sanciones que correspondan;
+
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2018)</small>
+
+XII. Brindar certeza jurídica a la participación privada en la gestión integral de los residuos;
+
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2018)</small>
+
+XIII. La transición paulatina al uso de materiales biodegradables, y con esto prohibir gradualmente el uso de bolsas y popotes de plástico en cualquier establecimiento mercantil para prestar sus servicios ubicado en territorio veracruzano; y
+
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2018)</small>
+
+XIV. Sancionar gradualmente a los establecimientos mercantiles que para prestar sus servicios en territorio veracruzano utilicen bolsas o popotes de plástico no biodegradables.
 
 ###### Artículo 2.
 
@@ -205,7 +217,9 @@ XIX. Someter a consideración de la SEMARNAT los programas para el establecimien
 
 XX. Coadyuvar a promover la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
 
-XXI. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales; y
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2018)</small>
+
+XXI. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento e integrar los resultados al sistema de información ambiental y de recursos naturales;
 
 > <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2018)</small>
 
@@ -215,13 +229,25 @@ XXII. Promover y aplicar en colaboración con las autoridades municipales instru
 
 XXIII. Suscribir convenios o acuerdos de coordinación y asesoría con la Federación y los gobiernos municipales para la creación de centros de acopio y la implementación de sistemas de reciclaje de residuos de poliestireno expandido;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, G.O. 28 DE MAYO DE 2018)</small>
 
-XXIV. Elaborar y publicar en el Portal Oficial de la Secretaría, guías de separación de residuos, específicas a cada material, que incluyan las empresas autorizadas para su manejo y la dirección de los centros de acopio; y
+XXIV. Elaborar y publicar en el portal oficial de la Secretaría, guías de separación de residuos, específicas a cada material, que incluyan las empresas autorizadas para su manejo y la dirección de los centros de acopio;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE MAYO DE 2018)</small>
 
-XXV. Las demás atribuciones que se establezcan en esta Ley, las Normas Oficiales Mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+XXV. Prevenir, controlar y abatir la contaminación para el uso de bolsas de plástico de uso único, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final;
+
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2018)</small>
+
+XXVI. Verificar que las bolsas de plástico que se entreguen cumplan con los criterios y normas de producción y consumo sustentable de reducción, reciclaje y reutilización, de modo que garanticen la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de estos productos plásticos, promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables;
+
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2018)</small>
+
+XXVII. Regular la entrega para transportación, carga o traslado del consumidor final a título gratuito, de manera onerosa, o con motivo de cualquier acto comercial, bolsas de plástico que no estén sujetas a los criterios y normas para la producción y el consumo sustentable; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 28 DE MAYO DE 2018)</small>
+
+XXVIII. Las demás atribuciones que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 5.
 
@@ -464,6 +490,26 @@ Cada Ayuntamiento se ajustará a la clasificación de residuos señalada en la l
 ###### Artículo 23.
 
 Las autoridades correspondientes en materia de residuos sólidos urbanos y de manejo especial promoverán y aplicarán incentivos al cumplimiento de las disposiciones contenidas en este ordenamiento, de conformidad con la Ley Estatal de Protección Ambiental y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2018)</small>
+
+Artículo 23 bis. Además de las atribuciones establecidas en el artículo 4, la Secretaría tendrá a su cargo la implementación de un programa adecuado de sustitución y alternativas viables para reemplazar las bolsas de plástico por bolsas degradables o biodegradables, bajo el siguiente esquema de seguimiento:
+
+I. Informar al público de manera adecuada, así como llevar a cabo campañas de asistencia gratuita para capacitar a los compradores en general, sobre las posibles alternativas con las que podrán sustituir las bolsas de plástico no degradables o no biodegradables;
+
+II. Realizar campañas de difusión y concientización hacia la población sobre las ventajas que tendrá para su salud y el medio ambiente en general, el uso racional de material degradable o biodegradable, para el envase, contención y movilización de los productos que adquieran en los diferentes establecimientos;
+
+III. Promover campañas de concientización entre los propietarios de establecimientos y empresas relacionadas con la comercialización de los productos, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y desarrollo sustentable; y
+
+IV. Promover el otorgamiento de estímulos e incentivos a quienes realicen acciones tendientes a la sustitución y aportación de alternativas viables para reemplazar las bolsas de plástico por bolsas degradables o biodegradables con el fin de procurar la protección, aprovechamiento sustentable, preservación y restauración del equilibrio ecológico.
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2018)</small>
+
+###### Artículo 23 Ter.
+
+La utilización de bolsas de plástico sólo se permitirá en caso de que sean creadas bajo procedimientos tecnológicos que les den la calidad de biodegradables.
+
+Los establecimientos mercantiles y comerciales podrán utilizar las bolsas de plástico cuando, por cuestiones de salubridad, se destinen para almacenar, empacar o conservar alimentos, mercancía o insumos, y no resulte factible el uso de un material sustituto.
 
 ### CAPÍTULO II. MANEJO DE RESIDUOS
 
@@ -1008,3 +1054,21 @@ G.O. 22 DE FEBRERO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 643 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 644 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo de ciento ochenta días, los ayuntamientos del estado de Veracruz de Ignacio de la Llave deberán adecuar sus Reglamentos en materia ambiental, estableciendo gradualmente la prohibición del uso de bolsas y popotes de plástico en establecimientos mercantiles para la prestación de sus servicios.
