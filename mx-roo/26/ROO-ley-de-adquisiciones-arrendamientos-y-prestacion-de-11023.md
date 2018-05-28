@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-adquisiciones-arrendamientos-y-prestacion-de-11023"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-15"
-last_updated: "2016-02-29"
+last_updated: "2018-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 15 de Febrero de 1995.
 
@@ -469,6 +469,22 @@ XIV.- Cuando se trate de adquisiciones provenientes de personas físicas o moral
 
 XV.- Cuando se trate de servicios profesionales prestados por personas físicas.
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2018)</small>
+
+XVI.- Cuando se trate de servicios prestados por empresas de los sectores bancario o bursátil, relativos a operaciones de adquisición de divisas, valores, productos y activos financieros; la celebración de contratos de fideicomiso; los servicios financieros; los prestados por agencias calificadoras; los de estructuración financiera, colocación de valores, recaudación, administración de fondos y demás operaciones previstas por la Ley General de Títulos y Operaciones de Crédito o se trate de aquellos casos cuyo procedimiento de contratación se encuentra regulado en forma específica por otras disposiciones legales; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2018)</small>
+
+XVII.- Cuando la contratación mediante licitación pública ponga en riesgo la seguridad pública del Estado o municipios, en los términos de las leyes de la materia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVII, P.O. 28 DE MAYO DE 2018]</small>
+
+No quedan comprendidos en el supuesto a que se refiere esta fracción los requerimientos administrativos que tengan los sujetos de esta Ley.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVII, P.O. 28 DE MAYO DE 2018]</small>
+
+Se consideran requerimientos administrativos aquellos bienes o servicios que no estén relacionados con la preservación de la seguridad pública.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1998)</small>
 
 El comité a que se refiere el artículo 15 de esta Ley, en un plazo que no excederá de quince días naturales contados a partir de la fecha en que se hubiese autorizado la operación, lo hará del conocimiento del Organo de Control acompañando la documentación que justifique la autorización.
@@ -812,3 +828,11 @@ P.O. 29 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales que contravengan al presente decreto.
+
+P.O. 28 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 200 DE LA XV LEGISLATURA DEL CONGRESO DEL ESTADO, POR EL QUE SE ADICIONAN LAS FRACCIONES XVI Y XVII AL PÁRRAFO PRIMERO DEL ARTÍCULO 33 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE QUINTANA ROO.”]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
