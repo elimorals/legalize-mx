@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2017-12-31"
+last_updated: "2018-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -358,6 +358,10 @@ XXVIII. Promover la vinculación de las instituciones educativas con el sector p
 XXIX. Vigilar el estricto cumplimiento por parte de las empresas establecidas en el Estado, de lo ordenado en el apartado A, fracción XII, párrafos tercero y cuarto del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 23 de la Ley General de Educación en cuanto al establecimiento de escuelas, y llevar a cabo la dirección administrativa de los planteles que emanan de dicho cumplimiento;
 
 XXX. Promover la mejora continua de los procesos académicos y administrativos del Sistema Educativo Estatal;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2018)</small>
+
+XXX BIS. Implementar de manera progresiva y acorde con las capacidades presupuestales, talleres de orientación vocacional en el nivel medio superior, empleando las distintas plataformas disponibles, para que las y los jóvenes puedan elegir la carrera o profesión que mejor se adapte a sus intereses, aptitudes y posibilidades de desarrollo; además de brindarles herramientas para acceder a apoyos que les permitan continuar una carrera en condiciones de equidad social.
 
 XXXI. Canalizar a la instancia correspondiente, los casos detectados por personal docente y directivo, de estudiantes con problemas de salud física, mental o de violencia escolar en el centro educativo, en su familia o en su comunidad;
 
@@ -1396,3 +1400,9 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 323 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436 QUE ADICIONA LA FRACCIÓN XXX BIS AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
