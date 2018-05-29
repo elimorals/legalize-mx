@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2017-12-26"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -221,7 +221,9 @@ XLVI. Reservas: Áreas de un centro de población que serán utilizadas para su 
 
 XLVII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
-XLVIII. Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+XLVIII. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
 XLIX. Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
 
@@ -539,9 +541,11 @@ IX. Las demás funciones que determinen los ayuntamientos.
 
 Los reglamentos y demás disposiciones municipales establecerán las normas y lineamientos particulares para la integración, operación y funcionamiento de los Institutos Municipales de Planeación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2018)</small>
+
 ###### Artículo 15.
 
-La Secretaría por conducto de la Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza, tendrá las siguientes atribuciones:
+La Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza, tendrá las siguientes atribuciones:
 
 I. Recibir y canalizar ante las autoridades competentes, las denuncias, quejas y demandas de la ciudadanía por la inobservancia de la legislación, normas y reglamentos de desarrollo urbano a que se refiere este ordenamiento, y darle el seguimiento correspondiente;
 
@@ -3595,7 +3599,9 @@ I. La documentación que acredite fehacientemente la propiedad o legítima poses
 
 II. La constancia de libertad de gravámenes expedida por la Oficina del Registro Público que corresponda;
 
-III. En su caso, la autorización del impacto ambiental que expida la Secretaría, conforme a las disposiciones aplicables de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+III. En su caso, la autorización del impacto ambiental que expida la Secretaría de Medio Ambiente, conforme a las disposiciones aplicables de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza;
 
 IV. La licencia de uso o destino de suelo;
 
@@ -4124,3 +4130,27 @@ EL SECRETARIO DE GOBIERNO
 JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 14, LAS FRACCIONES IX Y X DEL ARTÍCULO 18; EL ARTÍCULO 29 Y EL ARTÍCULO 30, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN EL ARTÍCULO 3; LA FRACCIÓN IX DEL ARTÍCULO 6; LA FRACCIÓN II DEL ARTÍCULO 7; EL PRIMER PÁRRAFO DEL ARTÍCULO 62; LA FRACCIÓN I Y LOS INCISOS B Y C DE LA FRACCIÓN III DEL ARTÍCULO 65; LA FRACCIÓN XII DEL ARTÍCULO 66 QUÁTER Y EL ARTÍCULO 69 DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE MODIFICAN LA FRACCIÓN XLVIII DEL ARTÍCULO 4; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; Y LA FRACCIÓN III DEL ARTÍCULO 281 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto, se regirán por las disposiciones que se encontraban vigentes al momento que dio inició su substanciación.
+
+Los asuntos que se presenten para nuevo trámite, así como aquellos a los que hace referencia el párrafo anterior, serán tramitados por las unidades administrativas que corresponda.
+
+TERCERO. Las áreas que conforme al presente decreto deberán ser transferidas de una dependencia a otra, conservarán las estructuras y facultades establecidas en los respectivos reglamentos interiores, permaneciendo vigentes y en funcionamiento las disposiciones que las regulan hasta en tanto se expidan las reformas correspondientes.
+
+CUARTO. La transferencia de las áreas que implica el presente decreto, deberá realizarse en un plazo no mayor a 90 días contados a partir de su publicación, mediante la entrega recepción correspondiente.
+
+QUINTO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto deberán adecuarse en un plazo no mayor de 180 días a partir de la entrada en vigor del presente decreto.
+
+SEXTO. En un plazo no mayor de un año contado a partir de la entrada en vigor de este decreto, se deberá efectuar la armonización del marco jurídico estatal correspondiente.
+
+SÉPTIMO. Las autorizaciones, permisos y licencias expedidas conforme a las disposiciones aplicables durante la vigencia de la ley que se reforma, continuarán vigentes hasta la conclusión del término con el que fueron otorgadas.
+
+OCTAVO. Toda referencia a la Secretaría de Infraestructura y Transporte que haga alguna disposición legal o administrativa, así como a la Secretaría de Medio Ambiente y Desarrollo Urbano, en materia de asentamientos humanos, ordenamiento territorial y/o desarrollo urbano, deberá entenderse hecha a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
