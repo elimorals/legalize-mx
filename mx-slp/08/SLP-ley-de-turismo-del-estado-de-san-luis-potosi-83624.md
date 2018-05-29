@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2017-05-20"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -126,6 +126,10 @@ XXIV. Registro nacional de turismo: es el catálogo público de prestadores de s
 XXV. Reglamento: reglamento de la Ley de Turismo del Estado de San Luis Potosí;
 
 XXVI. Reglamento de la Ley General: el reglamento de la Ley General de Turismo;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2018)</small>
+
+XXVI BIS. Ruta Turística: es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona, y se marca sobre el terreno o aparece en los mapas;
 
 XXVII. Secretaría: la Secretaría de Turismo del Estado de San Luis Potosí;
 
@@ -343,11 +347,15 @@ XVI. Promover el uso adecuado del idioma nacional en la denominación de estable
 
 XVII. Tomar en consideración las opiniones, usos y costumbres de las comunidades indígenas de los lugares en que se encuentren asentadas, en los casos en que se desarrollen en las mismas proyectos que les afecten;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
-XVIII. Establecer y celebrar anualmente la semana de turismo municipal, en la cual se promoverá el municipio a nivel local, regional, nacional e internacional, con el propósito de generar derrama económica en el mismo, en la cual deberá participar activamente, la ciudadanía, las instituciones educativas, culturales, deportivas y de seguridad pública, y
+XVIII. Establecer y celebrar anualmente la semana de turismo municipal, en la cual se promoverá el municipio a nivel local, regional, nacional e internacional, con el propósito de generar derrama económica en el mismo, en la cual deberá participar activamente, la ciudadanía, las instituciones educativas, culturales, deportivas y de seguridad pública;
 
-XIX. Las demás que esta Ley y otros ordenamientos le señalen.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2018)</small>
+
+XIX. Llevar a cabo por sí mismos o en coordinación con municipios vecinos, la creación de rutas turísticas a fin de impulsar y desarrollar actividades económicas que los posicione como una zona reconocida por sus características particulares, cualesquiera que éstas sean. En los municipios donde exista presencia de comunidades indígenas, será necesario la promoción del respeto y protección de sus conceptos culturales de naturaleza y cosmovisión, en apego a lo que establece la fracción anterior, y
+
+XX. Las demás que esta Ley y otros ordenamientos le señalen.
 
 ###### ARTICULO 10.
 
@@ -1148,5 +1156,13 @@ P.O. 20 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0627.- SE REFORMA EL ARTÍCULO 9° DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 963.- SE REFORMA EL ARTÍCULO 9° Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 4° Y 9° DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
