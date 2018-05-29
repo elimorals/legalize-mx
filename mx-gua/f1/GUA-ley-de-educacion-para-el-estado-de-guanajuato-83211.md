@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2018-05-10"
+last_updated: "2018-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -1905,6 +1905,10 @@ Organismo responsable de la infraestructura física educativa
 
 La construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio de la educación pública en el Estado, se realizará por conducto del organismo constituido para tal efecto.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2018)</small>
+
+Asimismo, los diagnósticos y pronósticos relacionados con la infraestructura física educativa y definirá las acciones de prevención en materia de seguridad sísmica y estructural de los inmuebles e instalaciones destinados al servicio educativo, de conformidad con la Ley General de Infraestructura Física Educativa.
+
 Normativa y coordinación
 
 ###### Artículo 124.
@@ -2728,5 +2732,11 @@ Artículo Tercero. Con base en lo dispuesto en la fracción II-1 del artículo 2
 P.O. 10 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 304 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 80 FRACCIÓN XV DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 306 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 123 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
