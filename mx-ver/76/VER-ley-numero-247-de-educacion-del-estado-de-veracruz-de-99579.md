@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2018-02-22"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -1401,25 +1401,39 @@ En el caso de los maestros de educación indígena que no tengan licenciatura co
 
 ### CAPÍTULO XII. DE LA EDUCACIÓN ESPECIAL
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2018)</small>
+
 ###### Artículo 127.
 
-La educación especial tendrá como finalidad brindar apoyo psicopedagógico a individuos con discapacidades transitorias o definitivas, así como a aquellos con capacidades y aptitudes sobresalientes. Asimismo, procurará atender a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género para que se integren al medio escolar regular, a la comunidad y al trabajo productivo, y al goce de los derechos humanos que reconoce esta ley y las demás disposiciones constitucionales y legales aplicables.
+La educación especial tendrá como objetivo identificar, prevenir y eliminar las barreras para el aprendizaje y la participación social, plena y efectiva de las personas con discapacidades transitorias o definitivas, con Trastorno del Espectro Autista, con dificultades severas de aprendizaje, de conducta o de comunicación y con aptitudes sobresalientes; por tanto, deberá atender a las y los educandos en un contexto educativo, social y laboral incluyente, fundamentado en los principios de respeto, equidad, igualdad sustantiva, perspectiva de género, no discriminación en garantía del ejercicio de los derechos humanos que reconoce esta ley y las demás disposiciones constitucionales y legales aplicables.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2018)</small>
 
 ###### Artículo 128.
 
-La educación especial incluye la orientación a los padres o tutores, así como a los maestros y personal de escuelas de educación básica regular que atiendan alumnos con necesidades especiales de educación.
+La educación especial incluye la orientación, asesoría y acompañamiento a madres, padres o tutores, maestras, maestros, alumnas y alumnos de educación básica regular y con requerimientos de educación especial; por tanto, el Estado fortalecerá la formación, capacitación, actualización de personal docente para la proyección de sus competencias.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE MAYO DE 2018)</small>
 
 ###### Artículo 129.
 
-Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, la educación especial procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de personas con discapacidad, con Trastorno del Espectro Autista, con dificultades severas de aprendizaje, de conducta o de comunicación y con aptitudes sobresalientes, se favorecerá su inclusión en los planteles de educación básica o en los servicios de educación especial escolarizados, acorde a sus necesidades específicas.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2018)</small>
+
+Se realizarán propuestas de intervención inclusivas que incorporen ajustes razonables a los propósitos y contenidos de la educación básica, así como métodos, técnicas, estrategias, materiales específicos de apoyo que garanticen a las y los alumnos, potenciar el desarrollo y aprendizaje para su autónoma integración e inclusión plenas, a la vida educativa, social y laboral.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2018)</small>
 
 ###### Artículo 130.
 
-Para la identificación y atención educativa de los alumnos con capacidades y aptitudes sobresalientes, se estará a las disposiciones y lineamientos de la autoridad educativa federal, relativos a la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, así como de la media superior y la superior.
+Para la identificación y atención educativa de los alumnos con aptitudes sobresalientes, se estará a las disposiciones y lineamientos de la autoridad educativa federal, relativos a la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los niveles de educación básica, así como de la media superior y la superior.
+
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2018)</small>
 
 ###### Artículo 131.
 
-Las autoridades educativas estatales podrán suscribir convenios con la autoridad educativa federal, así como con instituciones de educación superior, a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a alumnos con capacidades y aptitudes sobresalientes.
+Las autoridades educativas estatales podrán suscribir convenios con la autoridad educativa federal, así como con instituciones de educación superior, a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a alumnos con aptitudes sobresalientes.
 
 ###### Artículo 132.
 
@@ -2036,3 +2050,11 @@ G.O. 22 DE FEBRERO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 647 QUE REFORMA LOS ARTÍCULOS 127, 128, 129, 130, 131 Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 129 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
