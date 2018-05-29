@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-turismo-para-el-estado-de-guanajuato-y-sus-municipios-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-24"
-last_updated: "2014-12-09"
+last_updated: "2018-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -111,17 +111,21 @@ XIII. Turismo Alternativo: La categoría de turismo que tiene como fin realizar 
 
 XIV. Turismo Cultural: Son aquellos viajes turísticos que realizan las personas motivados por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o a un grupo social de un destino;
 
-XV. Turismo Gastronómico: Es aquél que tiene como objetivo que el turista conozca y experimente la diversidad culinaria que existe en el Estado, a través de la promoción de los distintos platillos típicos, productos, eventos gastronómicos, restaurantes y lugares específicos de degustación;
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2018)</small>
 
-XVI. Turismo Industrial: Desplazamientos motivados por el interés hacia la tecnología y la actividad industrial que se desarrolla en un lugar, y que tiene por finalidad elevar el nivel cultural del individuo facilitando nuevos conocimientos, experiencias y encuentros;
+XV. Turismo Deportivo: Es aquél cuya principal motivación es participar directamente o como espectador en alguna actividad deportiva; aprovechando de manera sustentable los recursos naturales, así como la infraestructura turística y deportiva del Estado de Guanajuato;
 
-XVII. Turismo de Salud: Actividad que se genera por aquellas personas que buscan el mejoramiento de la salud, rehabilitación o relajación a través de servicios que ofrezcan los prestadores de servicios turísticos en la materia;
+XVI. Turismo Gastronómico: Es aquél que tiene como objetivo que el turista conozca y experimente la diversidad culinaria que existe en el Estado, a través de la promoción de los distintos platillos típicos, ·productos, eventos gastronómicos, restaurantes y lugares específicos de degustación;
 
-XVIII. Turismo Social: El segmento turístico destinado a satisfacer las necesidades de cualquier persona que desee viajar en condiciones de economía, seguridad y comodidad;
+XVII. Turismo Industrial: Desplazamientos motivados por el interés hacia la tecnología y la actividad industrial que se desarrolla en un lugar, y que tiene por finalidad elevar el nivel cultural del individuo facilitando nuevos conocimientos, experiencias y encuentros;
 
-XIX. Turista: La persona que viaja temporalmente dentro del territorio del Estado y fuera de su lugar de residencia habitual, que utilice alguno de los servicios turísticos a que se refieren las normas de la materia; y
+XVIII. Turismo de Salud: Actividad que se genera por aquellas personas que buscan el mejoramiento de la salud, rehabilitación o relajación a través de servicios que ofrezcan los prestadores de servicios turísticos en la materia;
 
-XX. Zona de Desarrollo Turístico Sustentable: Aquellas áreas del Estado que por sus características geográficas, gastronómicas, naturales, históricas, culturales, religiosas o típicas, constituyan un atractivo turístico o representen un potencial para el desarrollo de la actividad en beneficio de sus poblaciones locales, por lo que requieren acciones de planeación, protección y ejecución.
+XIX. Turismo Social: El segmento turístico destinado a satisfacer las necesidades de cualquier persona que desee viajar en condiciones de economía, seguridad y comodidad;
+
+XX. Turista: La persona que viaja temporalmente dentro del territorio del Estado y fuera de su lugar de residencia habitual, que utilice alguno de los servicios turísticos a que se refieren las normas de la materia; y
+
+XXI. Zona de Desarrollo Turístico Sustentable: Aquellas áreas del Estado que por sus características geográficas, gastronómicas, naturales, históricas, culturales, religiosas o típicas, constituyan un atractivo turístico o representen un potencial para el desarrollo de la actividad en beneficio de sus poblaciones locales, por lo que requieren acciones de planeación, protección y ejecución.
 
 Derecho al turismo sustentable
 
@@ -161,7 +165,9 @@ VI. Empresas de sistemas de intercambio de servicios turísticos;
 
 VII. Establecimientos de arte popular y productos típicos del Estado; y
 
-VIII. Sitios donde se realicen actividades educativas y culturales que atiendan al turista.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+VIII. Sitios donde se realicen actividades deportivas, educativas y culturales que atiendan al turista.
 
 ### Capítulo II. Autoridades
 
@@ -673,11 +679,33 @@ Prestadores de servicios de salud
 
 Los prestadores de servicios relacionados con el turismo de salud se sujetarán a los lineamientos y disposiciones establecidos en la Ley General de Salud, Ley de Salud del Estado, Normas Oficiales y demás legislación sanitaria aplicable para tal efecto.
 
-### Capítulo XV. Educación y Capacitación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2018)</small>
+
+### Capítulo XV. Turismo Deportivo
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2018)</small>
+
+Impulso a actividades deportivas
+
+###### Artículo 37 Nonies.
+
+La Secretaría, conjuntamente con la Comisión de Deporte del Estado de Guanajuato, Ayuntamientos y los organismos públicos, los sectores social y privado relacionados con la cultura física y el deporte, impulsará la celebración de actividades deportivas tendientes a incrementar la afluencia de turismo hacia el Estado, con el fin de que los destinos sedes logren competitividad y sustentabilidad.
+
+En lo relativo a las actividades deportivas se estará a lo dispuesto por la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2018)</small>
+
+Coadyuvancia
+
+###### Artículo 37 Decies.
+
+Los prestadores de servicios y organizadores de actividades deportivas deberán tramitar ante las instancias competentes los permisos, licencias y autorizaciones de conformidad con la normatividad vigente; la Secretaría, la Comisión de Deporte del Estado de Guanajuato y, en su caso, los Ayuntamientos podrán coadyuvar en los trámites respectivos.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XV], P.O. 29 DE MAYO DE 2018)
+
+### Capítulo XVI. Educación y Capacitación
 
 Promoción de programas de formación y capacitación
-
-### Capítulo XVI. Instrumentos de la Planeación Turística
 
 ###### Artículo 38.
 
@@ -693,11 +721,13 @@ Vinculación de la capacitación a las necesidades del sector
 
 La Secretaría promoverá la adecuación y vinculación de la formación y capacitación turística a las necesidades del sector y la industria turística, y fomentará la especialización y certificación de profesionales y técnicos en el sector turístico.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+
 Capacitación de prestadores de servicios turísticos
 
 ###### Artículo 40.
 
-La Secretaría y los ayuntamientos promoverán entre los prestadores de servicios turísticos la capacitación a su personal, con el fin de lograr la competitividad de la actividad turística y profesionalización del sector.
+La Secretaría y los ayuntamientos promoverán entre los prestadores de servicios turísticos la capacitación de su personal, orientada a las características de las líneas de producto y demanda, la certificación de competencias laborales y fortalecimiento de la especialización del capital humano, con el fin de lograr la competitividad de la actividad turística y la profesionalización del sector.
 
 Impulso a la cultura turística
 
@@ -727,9 +757,9 @@ Conformación de la Red
 
 La Red de Instituciones de Educación Superior vinculadas al sector turístico y gastronómico del estado de Guanajuato se conformará con las instituciones educativas públicas y privadas que ofrezcan programas con reconocimiento de validez oficial en las distintas ramas del turismo y gastronomía. La organización y funcionamiento de la Red se establecerá en el Reglamento de la presente Ley.
 
-### Capítulo XVII. Prestadores de Servicios
+(REUBICADO [N. DE E. ANTES CAPÍTULO XVI], P.O. 29 DE MAYO DE 2018)
 
-Derechos de los prestadores de servicios
+### Capítulo XVII. Instrumentos de la Planeación Turística
 
 #### Sección Primera. Sistema Estatal de Información
 
@@ -809,9 +839,11 @@ Uso del Inventario Turístico Estatal
 
 La Secretaría utilizará el Inventario Turístico Estatal como una herramienta para la planeación, promoción y competitividad del sector turístico en la Entidad.
 
-### Capítulo XVIII. Turistas
+(REUBICADO [N. DE E. ANTES CAPÍTULO XVII], P.O. 29 DE MAYO DE 2018)
 
-Derechos de los turistas
+### Capítulo XVIII. Prestadores de Servicios
+
+Derechos de los prestadores de servicios
 
 ###### Artículo 53.
 
@@ -853,9 +885,11 @@ Garantía para el turista
 
 En caso de incumplimiento de los servicios pactados por parte del prestador, éste tendrá la obligación de reembolsar, bonificar o compensar la suma correspondiente al servicio incumplido, o bien, a prestar otro servicio de la misma calidad o equivalente a elección del turista afectado.
 
-### Capítulo XIX. Verificación
+(REUBICADO [N. DE E. ANTES CAPÍTULO XVIII], P.O. 29 DE MAYO DE 2018)
 
-Facultades de verificación
+### Capítulo XIX. Turistas
+
+Derechos de los turistas
 
 ###### Artículo 56.
 
@@ -921,19 +955,21 @@ Autoridades competentes de resolver
 
 La Secretaría y los ayuntamientos por conducto de la unidad que al efecto designen, deberán recibir las quejas en contra de autoridades y prestadores de servicios turísticos, con la finalidad de remitirlas a la autoridad competente para su resolución; o, en su caso, atenderlas de conformidad con sus atribuciones y los convenios que al efecto suscriban en los términos de la Ley General de Turismo.
 
-### Capítulo XX. Sanciones
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIX], P.O. 29 DE MAYO DE 2018)
 
-Autoridad facultada para sancionar
+### Capítulo XX. Verificación
+
+Facultades de verificación
 
 ###### Artículo 59.
 
 La Secretaría llevará a cabo la verificación del cumplimiento de las obligaciones a cargo de los prestadores de servicios turísticos en los términos del acuerdo de colaboración que para el efecto celebre con la Secretaria de Turismo.
 
-### Capítulo XXI. Disposiciones Complementarias
+(REUBICADO [N. DE E. ANTES CAPÍTULO XX], P.O. 29 DE MAYO DE 2018)
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+### Capítulo XXI. Sanciones
 
-Seguridad, auxilio y asistencia de los turistas
+Autoridad facultada para sancionar
 
 ###### Artículo 60.
 
@@ -947,7 +983,13 @@ Responsabilidades
 
 Los servidores públicos que contravengan las disposiciones de esta Ley, serán sancionados de conformidad con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin perjuicio de las demás responsabilidades a que haya lugar en el ejercicio de sus funciones.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2014)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2014) (REUBICADO [N. DE E. ANTES CAPÍTULO XXI], P.O. 29 DE MAYO DE 2018)
+
+### Capítulo XXII. Disposiciones Complementarias
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
+Seguridad, auxilio y asistencia de los turistas
 
 ###### Artículo 62.
 
@@ -1016,3 +1058,13 @@ Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al
 Adecuación del Reglamento de la Ley
 
 Artículo Segundo. El Ejecutivo del Estado adecuará el Reglamento de la Ley de Turismo para el Estado de Guanajuato y sus Municipios, en un término de noventa días, contados a partir de inicio de la vigencia del presente Decreto.
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 307 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN EL ARTÍCULO 3, ADICIONANDO UNA FRACCIÓN XV, RECORRIENDO LAS FRACCIONES SUBSECUENTES EN SU ORDEN, EL ARTÍCULO 6, FRACCIÓN VIII Y EL ARTÍCULO 40; Y SE ADICIONA UN CAPÍTULO XV DENOMINADO “TURISMO DEPORTIVO” CON LOS ARTÍCULOS 37 NONIES Y 37 DECIES, RECORRIENDO LOS CAPÍTULOS SUBSECUENTES EN SU ORDEN DE LA LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; Y SE REFORMA EL ARTÍCULO 18, ADICIONANDO UNA FRACCIÓN XVIII, RECORRIENDO LAS FRACCIONES SUBSECUENTES EN SU ORDEN DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO.”]
+
+Inicio de la vigencia
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
