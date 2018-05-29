@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2018-01-02"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -77,7 +77,9 @@ VIII. Comisión Interinstitucional: la que se integra por la Comisión de Derech
 
 IX. Convención. Convención sobre los Derechos de las Personas con Discapacidad;
 
-X. Discriminación por motivos de discapacidad. Cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos: político, económico, social, educativo, religioso, cultural, civil, deportivo, de comunicación o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+X. Discriminación por motivos de discapacidad. Cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos: político, económico, social, laboral, educativo, religioso, cultural, civil, deportivo, de comunicación o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
 
 XI. Diseño universal. El diseño de productos, entornos, infraestructura, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
 
@@ -93,7 +95,9 @@ XV. Estenografía proyectada. Oficio y técnica de transcribir un monólogo o un
 
 XVI. Estimulación temprana. Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales, afectivas y de socialización, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
-XVII. Igualdad de oportunidades. Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, económico, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+XVII. Igualdad de oportunidades. Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, laboral, social, económico, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
 
 XVIII. Inclusión. Reconocimiento al derecho que tiene (sic) todos los niños, las niñas, adolescentes, jóvenes, adultos y adultos mayores a una vida de calidad en igualdad de oportunidades, que considere y respete las diferentes capacidades y necesidades, costumbres, etnia, idioma, discapacidad, edad, intereses, nivel socio económico, motivaciones y experiencias diferentes, enmarcando que cada persona tiene sus propias características. Parte de un modelo social que plantea una cultura que no discrimina por acción u omisión y que encuentra en la diversidad de la población, la posibilidad de avanzar hacia una sociedad más tolerante, equitativa, sustentable y democrática;
 
@@ -159,7 +163,9 @@ a) Promover el goce y ejercicio pleno de los derechos de las personas con discap
 
 b) Promover la accesibilidad en la infraestructura física de instalaciones públicas y privadas, así como los recursos técnicos, materiales y humanos necesarios para la atención segura y accesible de la población con discapacidad atendiendo la modalidad de trato preferencial.
 
-c) Promover la elaboración, publicación y difusión de estudios, investigaciones, obras y materiales sobre el desarrollo e inclusión social, económico, político y cultural de las personas con discapacidad;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+
+c) Promover la elaboración, publicación y difusión de estudios, investigaciones, obras y materiales sobre el desarrollo e inclusión social, laboral, económica, política y cultural de las personas con discapacidad;
 
 d) Promover y fomentar la cultura de la dignidad y respeto de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización;
 
@@ -171,7 +177,9 @@ g) Difundir y dar seguimiento al cumplimiento de las obligaciones contraídas co
 
 h) Celebrar acuerdos de colaboración con organismos públicos y privados, municipales, estatales y nacionales, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
 
-i) Suscribir convenios con el sector gubernamental y los sectores productivos y empresariales, para que se otorguen descuentos, facilidades económicas o administrativas en la adquisición de bienes y servicios públicos o privados, a las personas con discapacidad o sus familias;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+
+i) Suscribir convenios con el sector gubernamental y los sectores productivos y empresariales, para que se proporcionen oportunidades laborales, y se otorguen descuentos, facilidades económicas o administrativas en la adquisición de bienes y servicios públicos o privados, a las personas con discapacidad o sus familias;
 
 j) Promover la armonización de Leyes y Reglamentos a nivel federal, estatal o municipal, respecto de las disposiciones establecidas en la Convención sobre los Derechos de las Personas con Discapacidad;
 
@@ -187,9 +195,13 @@ Las personas con discapacidad gozarán de todos los derechos que establece el or
 
 Las medidas contra la discriminación consisten en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, incomunicado, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
 
-Las acciones afirmativas positivas consisten en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, social y cultural.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
 
-La Administración Pública Estatal y los municipios, en el ámbito de su competencia, impulsarán el derecho a la igualdad de oportunidades de las personas con discapacidad, a través del establecimiento de medidas contra la discriminación y acciones afirmativas positivas que permitan la integración social de las personas con discapacidad. Será prioridad de la Administración Pública Estatal y de los municipios, adoptar medidas de acción afirmativa positiva para aquellas personas con discapacidad que sufren un grado mayor de discriminación, como son las mujeres, las personas con discapacidad con grado severo, las que viven en el área rural, o bien, las que no pueden representarse a sí mismas.
+Las acciones afirmativas positivas consisten en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, laboral, social y cultural.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+
+La Administración Pública Estatal y los municipios, en el ámbito de su competencia, impulsarán el derecho a la igualdad de oportunidades de las personas con discapacidad, a través del establecimiento de medidas contra la discriminación y acciones afirmativas positivas que permitan la integración social y laboral de las personas con discapacidad. Será prioridad de la Administración Pública Estatal y de los municipios, adoptar medidas de acción afirmativa positiva para aquellas personas con discapacidad que sufren un grado mayor de discriminación, como son las mujeres, las personas con discapacidad con grado severo, las que viven en el área rural, o bien, las que no pueden representarse a sí mismas.
 
 ###### Artículo 5°.
 
@@ -227,7 +239,9 @@ Son facultades del Titular del Poder Ejecutivo del Estado en materia de esta ley
 
 I. Elaborar un plan especial para la inclusión y desarrollo de personas con discapacidad estableciendo políticas públicas acorde a las obligaciones derivadas de los tratados internacionales y a la Ley General para la Inclusión de Personas con Discapacidad, así como las acciones necesarias para dar cumplimiento a los programas nacionales;
 
-II. Fomentar que las dependencias y entidades de la administración pública estatal trabajen en favor de la inclusión social y económica de las personas con discapacidad en el marco de las políticas públicas en la materia;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+II. Fomentar que las dependencias y entidades de la administración pública estatal trabajen en favor de la inclusión laboral, social y económica de las personas con discapacidad en el marco de las políticas públicas en la materia;
 
 III. Proponer en el proyecto de Presupuesto de Egresos del Estado las partidas correspondientes para la aplicación y ejecución de los programas estatales dirigidos a las personas con discapacidad;
 
@@ -237,11 +251,15 @@ V. Incluir en los programas para el desarrollo urbano del Estado, las adecuacion
 
 VI. Promover el otorgamiento de estímulos fiscales a personas físicas o morales que realicen acciones a favor de las personas con discapacidad.
 
-VII. Instruir a las dependencias y entidades del Gobierno del Estado a que instrumenten acciones en favor de la inclusión social y económica de las personas con discapacidad en el marco de las políticas públicas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+VII. Instruir a las dependencias y entidades del Gobierno del Estado a que instrumenten acciones en favor de la inclusión laboral, social y económica de las personas con discapacidad en el marco de las políticas públicas;
 
 VIII. Promover la consulta y participación de las personas con discapacidad, personas físicas o morales y las organizaciones de la sociedad civil en la elaboración y aplicación de políticas, legislación y programas, con base en la presente ley;
 
-IX. Impulsar la adopción de acciones afirmativas orientadas a evitar y compensar las desventajas de una persona con discapacidad para participar plenamente en la vida política, económica, social y cultural;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+IX. Impulsar la adopción de acciones afirmativas orientadas a evitar y compensar las desventajas de una persona con discapacidad para participar plenamente en la vida política, económica, laboral, social y cultural;
 
 X. Impulsar la participación solidaria de la sociedad y la familia en la preservación, y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad, y
 
@@ -385,7 +403,9 @@ El Estado instrumentará incentivos fiscales a las empresas que apoyen el equipa
 
 La Secretaría del Trabajo, implementará convenios con empresas para el desarrollo de estrategias de formación en el trabajo, y para desarrollar programas tendientes a la capacitación y actualización continua para y en el trabajo de personas con discapacidad.
 
-Así mismo, las autoridades estatales y municipales competentes convocarán a las organizaciones no gubernamentales, a los empresarios y sus representantes, los sindicatos, el sector social y el Sistema de Desarrollo Integral de la Familia y Protección de Derechos del Estado, para que creen e impulsen programas de capacitación e integración laboral para personas con discapacidad, que por alguna razón no tuvieran otra opción para integrarse o capacitarse para el trabajo.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+
+Así mismo, las autoridades estatales y municipales competentes convocarán a las organizaciones gubernamentales y no gubernamentales, a los empresarios y sus representantes, los sindicatos, el sector social y el Sistema de Desarrollo Integral de la Familia y Protección de Derechos del Estado, para que creen e impulsen programas de capacitación e integración laboral para personas con discapacidad, que por alguna razón no tuvieran otra opción para integrarse o capacitarse para el trabajo.
 
 ###### Artículo 21°.
 
@@ -507,9 +527,11 @@ I. Vigilar la aplicación de la Norma Oficial Mexicana NOM-001 -SSA2- 1993, que 
 
 II. Lograr la accesibilidad universal en la vía pública, en base a las normas internacionales y nacionales en cuanto a su diseño y señalización.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+
 ###### Artículo 31°.
 
-Las empresas privadas deberán contar con facilidades arquitectónicas para sus trabajadores con alguna discapacidad.
+Las empresas privadas y oficinas gubernamentales deberán contar con facilidades arquitectónicas para sus trabajadores con alguna discapacidad.
 
 ###### Artículo 32°.
 
@@ -1027,7 +1049,9 @@ I. Para las infracciones leves, multa equivalente de 10 a 50 veces el valor diar
 
 II. Para las infracciones graves, multa equivalente de 51 a 100 veces el valor diario de la unidad de medida y actualización; y
 
-III. Para las infracciones muy graves, multa equivalente de 100 a 300 veces el valor diario de la unidad de medida y actualización.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+III. Para las infracciones muy graves, multa equivalente de 100 a 300 veces el valor diario de la unidad de medida y actualización. En el caso que la infracción consista en el supuesto señalado en el artículo 93 fracción III, y que derivado de ese daño físico, el perro guía pierda la vida o se prive en definitiva de sus facultades para la prestación del servicio, la sanción será de 200 a 600 veces el valor diario de la unidad de medida y actualización.
 
 El monto de dinero obtenido de estas sanciones será destinado a la realización de programas en beneficio o atención a personas con discapacidad.
 
@@ -1302,3 +1326,15 @@ P.O. 2 DE ENERO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26.- SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN LAS FRACCIONES X Y XVII DEL ARTÍCULO 2°; EL INCISO C) E INCISO I) DEL ARTÍCULO 3°; LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 4°; LAS FRACCIONES II, VII Y IX DEL ARTÍCULO 6°; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 20° Y EL PÁRRAFO 31° DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 94 DE LA LEY PARA (SIC) DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
