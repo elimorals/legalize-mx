@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2017-12-19"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -249,7 +249,9 @@ El Jefe de Oficina del Ejecutivo tendrá el carácter de Secretario del Consejo 
 
 Para ser titular de las secretarías del ramo se requiere:
 
-I. Ser ciudadano coahuilense por nacimiento, o ser padre o madre de coahuilense por nacimiento y en este caso, tener residencia efectiva de cinco años anteriores a la designación; o ser ciudadano mexicano con una residencia en el Estado de diez años previos a su nombramiento;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+I. Ser ciudadano mexicano por nacimiento;
 
 II. Tener pleno uso y goce de sus derechos políticos, y
 
@@ -307,9 +309,13 @@ VII. Secretaría de Desarrollo Rural;
 
 VIII. Secretaría de Inclusión y Desarrollo Social;
 
-IX. Secretaría de Infraestructura y Transporte;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
-X. Secretaría de Medio Ambiente y Desarrollo Urbano;
+IX. Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+X. Secretaría de Medio Ambiente;
 
 XI. Secretaría de Fiscalización y Rendición de Cuentas;
 
@@ -885,51 +891,73 @@ XX. Tener a su cargo el Secretariado Ejecutivo del Sistema Estatal para la Garan
 
 XXI. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 29.
 
-A la Secretaría de Infraestructura y Transporte le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer políticas para determinar la idoneidad de obras públicas de infraestructura para el Estado, así como para la licitación y contratación de la misma;
+I. Formular, ejecutar y evaluar en el ámbito de su competencia las políticas públicas en materia de desarrollo urbano, ordenamiento territorial, obras públicas, transporte y vivienda;
 
-II. Formular y dirigir la ejecución de los planes y programas de obras públicas e infraestructura en la entidad, con el uso de las tecnologías y los sistemas de construcción disponibles que permitan una mayor eficiencia del aprovechamiento del erario, así como decretar la idoneidad de la obra por construir;
+II. Coordinar y gestionar la inversión pública en infraestructura estatal y proponer políticas para determinar la idoneidad de obras públicas, así como para la licitación y contratación de las mismas;
 
-III. Construir y conservar las obras públicas y la infraestructura de la red de carreteras y vías de comunicación de jurisdicción del Estado y las que se le asignen vía convenios;
+III. Formular y dirigir la ejecución de los planes y programas de obras públicas e infraestructura en la entidad, con el uso de las tecnologías y los sistemas de construcción disponibles que permitan una mayor eficiencia del aprovechamiento del erario, así como decretar la idoneidad de la obra por construir;
 
-IV. Brindar la asesoría técnica a las dependencias y entidades, así como a los municipios que lo soliciten, para la planeación, proyección, contratación, ejecución y supervisión de obras públicas y la conservación de las mismas;
+IV. Construir y conservar las obras públicas y la infraestructura de la red de carreteras y vías de comunicación de jurisdicción del Estado y las que se le asignen vía convenios;
 
-V. Licitar y adjudicar contratos de obra pública, así como supervisar y vigilar el cumplimiento a la normatividad vigente y los requisitos técnicos de los proyectos;
+V. Brindar la asesoría técnica a las dependencias y entidades, así como a los municipios que lo soliciten, para la planeación, proyección, contratación, ejecución y supervisión de obras públicas y la conservación de las mismas;
 
-VI. Integrar y mantener actualizado el inventario de la infraestructura de vías de comunicación de jurisdicción estatal;
+VI. Licitar y adjudicar contratos de obra pública, así como supervisar y vigilar el cumplimiento a la normatividad vigente y los requisitos técnicos de los proyectos;
 
-VII. Proponer la concesión en la construcción, administración, operación y conservación de carreteras y caminos de cuota de competencia local;
+VII. Realizar las acciones técnicas y jurídicas tendientes a la adquisición, expropiación, ocupación temporal, limitación de dominio o servidumbre administrativa de bienes inmuebles o derechos de propiedad necesarios para la ejecución de infraestructura y liberación de derecho de vía; así como integrar y mantener actualizado el inventario de los mismos;
 
-VIII. Participar en los procesos de expropiación de inmuebles por causas de utilidad pública;
+VIII. Proponer la concesión en la construcción, administración, operación y conservación de carreteras y caminos de cuota de competencia local;
 
 IX. Supervisar la operación de aeropuertos y aeropistas a cargo del Gobierno del Estado;
 
-X. Formular, ejecutar y evaluar el Programa Especial de Transporte y Movilidad Sustentable y proponer sus modificaciones, así como brindar asesoría y apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los programas municipales de transporte y movilidad sustentable;
+X. Realizar las acciones necesarias tendientes a que el servicio público de transporte se realice con eficiencia, calidad y seguridad para los usuarios;
 
-XI. Realizar las acciones necesarias tendientes a que el servicio público de transporte se realice con eficiencia, calidad y seguridad para los usuarios;
+XI. Regular, organizar, orientar, aprobar, controlar y en su caso modificar la prestación de los servicios públicos de transporte de competencia estatal con la finalidad de alcanzar el objetivo en materia de movilidad sustentable;
 
-XII. Regular, organizar, orientar, aprobar, controlar y en su caso modificar la prestación de los servicios públicos de transporte de competencia estatal con la finalidad de alcanzar el objetivo en materia de movilidad sustentable;
+XII. Promover la celebración de convenios con los municipios para concurrir o compartir funciones que corresponda a éstos en materia de desarrollo urbano, movilidad y transporte público;
 
-XIII. Promover la celebración de convenios con los municipios para concurrir o compartir funciones que corresponda a éstos en materia de movilidad y transporte público;
+XIII. Normar y supervisar el adecuado funcionamiento del transporte público de competencia estatal, así como otorgar, renovar, prorrogar y cancelar las concesiones y permisos que les correspondan;
 
-XIV. Normar y supervisar el adecuado funcionamiento del transporte público de competencia estatal, así como otorgar, renovar, prorrogar y cancelar las concesiones y permisos que les correspondan;
+XIV. Expedir, en coordinación con la dependencia competente, las placas y demás documentos de identificación relacionados con la circulación de los vehículos destinados al servicio público de transporte en el Estado;
 
-XV. Expedir, en coordinación con la dependencia competente, las placas y demás documentos de identificación relacionados con la circulación de los vehículos destinados al servicio público de transporte en el Estado;
+XV. Promover una amplia cultura vial a través de programas innovadores en esta materia;
 
-XVI. Promover una amplia cultura vial a través de programas innovadores en esta materia;
+XVI. Expedir, en coordinación con la dependencia competente, las licencias de conducir en el Estado;
 
-XVII. Expedir, en coordinación con la dependencia competente, las licencias de conducir en el Estado;
+XVII. Promover y apoyar en coordinación con los municipios, el ordenamiento territorial y el desarrollo urbano sustentable de los asentamientos humanos y los centros de población del Estado;
 
-XVIII. Imponer las sanciones que procedan por la infracción a los ordenamientos legales correspondientes, y
+XVIII. Promover la creación de reservas territoriales estratégicas y demás acciones necesarias para la construcción de vivienda, obras públicas, vialidades y áreas verdes;
 
-XIX. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+XIX. Formular, actualizar, ejecutar y evaluar los programas estatales de Ordenamiento Territorial y Desarrollo Urbano, de Transporte y Movilidad Sustentable y de Vivienda, así como brindar asesoría y apoyo que le sea requerido por las autoridades municipales de la entidad para la formulación e instrumentación de los programas municipales en estas materias;
+
+XX. Formular y emitir los dictámenes de congruencia de los programas y planes de desarrollo urbano municipal, así como los dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
+
+XXI. Promover y otorgar, asesoría y asistencia técnica, a las autoridades municipales, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de desarrollo urbano, infraestructura y equipamiento urbano;
+
+XXII. Participar en el ámbito de su competencia, en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo urbano, metropolitano, regional e intermunicipal que establezca el Plan Estatal de Desarrollo y los Programas de Desarrollo Urbano aplicables;
+
+XXIII. Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos federales y estatales que se dispongan para tal efecto;
+
+XXIV. Promover y/o efectuar acciones tendientes a la regularización de la tenencia de la tierra urbana y rústica, y de los asentamientos humanos en coordinación con las dependencias o entidades competentes; así como tomar las medidas para subsanar los que ilegalmente ocurran;
+
+XXV. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos;
+
+XXVI. Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa;
+
+XXVII. Imponer las sanciones que procedan por la infracción a los ordenamientos legales correspondientes, y
+
+XXVIII. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 30.
 
-A la Secretaría de Medio Ambiente y Desarrollo Urbano le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Medio Ambiente, le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y conducir en el ámbito de su competencia las políticas públicas en materia de recursos naturales, equilibrio ecológico, saneamiento ambiental, vida silvestre, protección y restauración ecológica y recursos forestales;
 
@@ -937,89 +965,55 @@ II. Promover el ordenamiento ecológico del territorio estatal, en coordinación
 
 III. Impulsar políticas transversales en la administración pública para fomentar en la comunidad la formación de actitudes y valores de protección ambiental y de conservación del patrimonio natural;
 
-IV. Evaluar y dictaminar, en el ámbito de su competencia, las manifestaciones de impacto ambiental de proyectos de desarrollo que le presenten; resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con consecuencias ambientales;
+IV. Evaluar el impacto ambiental de las obras y actividades que sean competencia del Estado; resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con consecuencias ambientales;
 
-V. Prevenir la contaminación del ambiente, dictar las medidas para su control y conducir la política estatal de combate al cambio climático;
+V. Dirigir las políticas estatales en materia de prevención y control de la contaminación del ambiente;
 
-VI. Integrar y actualizar el inventario de todas las fuentes fijas de contaminación en la entidad;
+VI. Coordinar la política estatal de cambio climático;
 
-VII. Establecer las políticas en materia de reciclaje o disposición final de residuos; y promover y coadyuvar con las autoridades municipales la construcción y mantenimiento de los centros de confinamiento de residuos;
+VII. Integrar y actualizar el inventario de todas las fuentes fijas de contaminación que sean de competencia estatal en la entidad;
 
-VIII. Regular la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas;
+VIII. Establecer las políticas en materia de manejo integral de residuos de manejo especial; y promover y coadyuvar con las autoridades municipales la construcción y mantenimiento de los centros de confinamiento de residuos;
 
-IX. Proponer el establecimiento de áreas naturales protegidas y promover para su administración y vigilancia, la participación de autoridades federales, municipales, universidades, centros de investigación y la sociedad civil;
+IX. Regular la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas;
 
-X. Proyectar, construir y conservar obras de defensa que sirvan para la preservación y mejoramiento de terrenos;
+X. Proponer el establecimiento de áreas naturales protegidas y promover para su administración y vigilancia, la participación de autoridades federales, municipales, universidades, centros de investigación y la sociedad civil;
 
-XI. Diseñar y operar los programas que eviten la destrucción por incendios de la riqueza forestal del Estado, con acciones de cultura, prevención, detección oportuna, atención inmediata y coordinación de las diversas autoridades;
+XI. Proyectar, construir y conservar obras de defensa que sirvan para la preservación y mejoramiento de terrenos;
 
-XII. Proponer y opinar sobre el establecimiento y levantamiento de vedas forestales y de caza y pesca;
+XII. Diseñar y operar los programas que eviten la destrucción por incendios de la riqueza forestal del Estado, con acciones de cultura, prevención, detección oportuna, atención inmediata y coordinación de las diversas autoridades;
 
-XIII. Evaluar la calidad del ambiente y promover el sistema de información ambiental, en coordinación con las instancias correspondientes;
+XIII. Proponer y opinar sobre el establecimiento y levantamiento de vedas forestales y de caza y pesca;
 
-XIV. Promover el desarrollo y uso de las tecnologías para la protección y en su caso, el aprovechamiento sustentable de los ecosistemas, así como para el uso de fuentes alternativas de energía;
+XIV. Evaluar la calidad del ambiente y promover el sistema de información ambiental, en coordinación con las instancias correspondientes;
 
-XV. Dirigir estudios, trabajos y servicios meteorológicos y climatológicos, y colaborar en la elaboración de los estudios hidrológicos e hidrogeológicos;
+XV. Promover el desarrollo y uso de las tecnologías para la protección y en su caso, el aprovechamiento sustentable de los ecosistemas, así como para el uso de fuentes alternativas de energía;
 
-XVI. Coordinar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el uso sustentable de recursos naturales;
+XVI. Dirigir estudios, trabajos y servicios meteorológicos y climatológicos, y colaborar en la elaboración de los estudios hidrológicos e hidrogeológicos;
 
-XVII. Regular la conservación de las corrientes, lagos y lagunas de jurisdicción estatal, la protección de cuencas alimentadoras y las obras de corrección torrencial, así como controlar los ríos y demás corrientes de jurisdicción estatal y ejecutar las obras de defensa contra inundaciones, en coordinación con las instancias correspondientes;
+XVII. Coordinar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el uso sustentable de recursos naturales;
 
-XVIII. Coadyuvar con las autoridades municipales en el diseño de programas que garanticen la prestación de los servicios públicos en condiciones que protejan, y en su caso, remedien el medio ambiente;
+XVIII. Regular la conservación de las corrientes, lagos y lagunas de jurisdicción estatal, la protección de cuencas alimentadoras y las obras de corrección torrencial, así como controlar los ríos y demás corrientes de jurisdicción estatal y ejecutar las obras de defensa contra inundaciones, en coordinación con las instancias correspondientes;
 
-XIX. Promover la determinación de criterios para el establecimiento de los estímulos fiscales y financieros para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
+XIX. Coadyuvar con las autoridades municipales en el diseño de programas que garanticen la prestación de los servicios públicos en condiciones que protejan, y en su caso, remedien el medio ambiente;
 
-XX. Integrar proyectos autofinanciables o susceptibles de concesión en materia de medio ambiente;
+XX. Promover la determinación de criterios para el establecimiento de los estímulos fiscales y financieros para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
 
-XXI. Formular, ejecutar y evaluar las políticas generales de desarrollo urbano y ordenamiento territorial;
+XXI. Integrar proyectos autofinanciables o susceptibles de concesión en materia de medio ambiente;
 
-XXII. Participar con los municipios en las políticas que garanticen una mejor calidad para los asentamientos humanos y un uso del suelo eficiente y sustentable;
+XXII. Regular el aprovechamiento y abastecimiento de cuerpos de agua de competencia estatal, y apoyar a las instancias municipales en la prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento de conformidad con las disposiciones aplicables;
 
-XXIII. Promover, apoyar y vigilar el desarrollo urbano sustentable de las diversas comunidades y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos, con estricto apego al artículo 115 de la Constitución Federal;
+XXIII. Coordinar a los organismos estatales que ofrezcan el servicio de agua potable y alcantarillado, y en su caso, convenir con uno o más municipios la prestación de servicios en áreas metropolitanas;
 
-XXIV. Promover la creación de reservas territoriales estratégicas y demás acciones necesarias para la construcción de vivienda, obras públicas, vialidades y áreas verdes;
+XXIV. Promover políticas e implementar acciones de coordinación institucional que propicien el mejoramiento, operación y uso eficiente de los sistemas de agua potable, drenaje, alcantarillado y saneamiento en zonas urbanas y rurales;
 
-XXV. Formular, ejecutar y evaluar el Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial, los planes parciales y proponer sus modificaciones, así como prestar la asesoría y el apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e instrumentación de los planes de desarrollo urbano municipal y de centros de población;
+XXV. Asesorar y otorgar la asistencia técnica para la creación y funcionamiento de los organismos descentralizados estatales y municipales, cuando estos últimos lo soliciten, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, de conformidad a la legislación aplicable en la materia;
 
-XXVI. Formular y emitir los dictámenes de congruencia de los programas de desarrollo urbano municipal, de centros de población y parciales, así como de aquellas acciones que impacten el territorio;
+XXVI. Favorecer las buenas prácticas en materia de cuidado del agua, ahorro y uso responsable de la misma y contribuir en la remediación de este líquido;
 
-XXVII. Formular y emitir los dictámenes de impacto urbano de los proyectos y obras públicas y privadas en los términos que fijen las disposiciones legales aplicables;
+XXVII. Aplicar las disposiciones relativas a la protección y trato digno de los animales, dentro de la esfera de su competencia, y
 
-XXVIII. Promover y otorgar, asesoría y asistencia técnica, a las autoridades municipales, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de desarrollo urbano, infraestructura y equipamiento urbano;
-
-XXIX. Promover un desarrollo urbano ordenado de las comunidades y centros de población del Estado, así como fomentar y fortalecer la organización de grupos y sectores sociales a través de comisiones orientadas a estudiar y plantear soluciones en la materia;
-
-XXX. Participar en el ámbito de su competencia, en la elaboración, planeación, ejecución, regulación y evaluación de las políticas, estrategias, programas y proyectos de inversión, en materia de desarrollo urbano, metropolitano, regional e intermunicipal que establezca el Plan Estatal de Desarrollo y los Programas de Desarrollo Urbano aplicables;
-
-XXXI. Promover la celebración de convenios con los municipios para concurrir o compartir funciones que correspondan a éstos, en materia de desarrollo urbano;
-
-XXXII. Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos federales y estatales que se dispongan para tal efecto;
-
-XXXIII. Regular el aprovechamiento y abastecimiento de cuerpos de agua de competencia estatal, y apoyar a las instancias municipales en la prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento de conformidad con las disposiciones aplicables;
-
-XXXIV. Coordinar a los organismos estatales que ofrezcan el servicio de agua potable y alcantarillado, y en su caso, convenir con uno o más municipios la prestación de servicios en áreas metropolitanas;
-
-XXXV. Promover políticas e implementar acciones de coordinación institucional que propicien el mejoramiento, operación y uso eficiente de los sistemas de agua potable, drenaje, alcantarillado y saneamiento en zonas urbanas y rurales;
-
-XXXVI. Asesorar y otorgar la asistencia técnica para la creación y funcionamiento de los organismos descentralizados estatales y municipales, cuando estos últimos lo soliciten, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, de conformidad a la legislación aplicable en la materia;
-
-XXXVII. Favorecer las buenas prácticas en materia de cuidado del agua, ahorro y uso responsable de la misma y contribuir en la remediación de este líquido;
-
-XXXVIII. Efectuar acciones tendientes a la regularización de la tenencia de la tierra en coordinación con los municipios;
-
-XXXIX. Promover el estudio y análisis de la condición jurídica en que se encuentran los diversos fraccionamientos y asentamientos que existen en el Estado, así como tomar las medidas para corregir los que ilegalmente ocurran;
-
-XL. Promover y vigilar en coordinación con los ayuntamientos del Estado, el ordenamiento territorial y el desarrollo sostenible de los asentamientos humanos;
-
-XLI. Coordinar las acciones tendientes a la regularización de la tenencia de la tierra urbana y rústica;
-
-XLII. Promover, apoyar y vigilar la ejecución de los programas de regularización de la tenencia de la tierra, con la participación que corresponda a las entidades y municipios competentes;
-
-XLIII. Promover la planeación en materia de vivienda y la inversión en ésta, el equipamiento y servicios urbanos;
-
-XLIV. Establecer y vigilar el cumplimiento de los programas de adquisición de vivienda en coordinación, en su caso, con los ayuntamientos y promover el acceso a las personas, principalmente a aquellas que se encuentren en situación de vulnerabilidad, a una vivienda digna y decorosa, y
-
-XLV. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+XXVIII. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
 ###### ARTÍCULO 31.
 
@@ -1137,9 +1131,13 @@ II. Vigilar en el ámbito de su competencia, y coadyuvar con las autoridades com
 
 III. Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales aplicables;
 
-IV. Promover e instrumentar, políticas y acciones para el acceso y permanencia al trabajo digno, que fomenten la igualdad entre mujeres y hombres, así como la inclusión de las personas en situación de vulnerabilidad laboral;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
-V. Diseñar y dirigir programas de fomento al empleo, mediante la capacitación y adiestramiento para el trabajo y la vinculación con el sector productivo;
+IV. Promover e instrumentar, políticas y acciones para el acceso y permanencia al trabajo digno, que fomenten la igualdad entre mujeres y hombres, así como la inclusión de las personas con discapacidad y personas en situación de vulnerabilidad laboral;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
+
+V. Diseñar y dirigir programas de fomento al empleo, mediante la capacitación y adiestramiento para el trabajo y la vinculación al sector productivo, incluyendo a las personas con discapacidad, propiciando su integración en el ámbito laboral tanto en empresas como en oficinas gubernamentales;
 
 VI. Fomentar y apoyar la organización social para el trabajo y el autoempleo;
 
@@ -1272,3 +1270,33 @@ EL SECRETARIO DE GOBIERNO
 JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26.- SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN LAS FRACCIONES X Y XVII DEL ARTÍCULO 2°; EL INCISO C) E INCISO I) DEL ARTÍCULO 3°; LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 4°; LAS FRACCIONES II, VII Y IX DEL ARTÍCULO 6°; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 20 Y EL ARTÍCULO 31° DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 14, LAS FRACCIONES IX Y X DEL ARTÍCULO 18; EL ARTÍCULO 29 Y EL ARTÍCULO 30, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN EL ARTÍCULO 3; LA FRACCIÓN IX DEL ARTÍCULO 6; LA FRACCIÓN II DEL ARTÍCULO 7; EL PRIMER PÁRRAFO DEL ARTÍCULO 62; LA FRACCIÓN I Y LOS INCISOS B Y C DE LA FRACCIÓN III DEL ARTÍCULO 65; LA FRACCIÓN XII DEL ARTÍCULO 66 QUÁTER Y EL ARTÍCULO 69 DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE MODIFICAN LA FRACCIÓN XLVIII DEL ARTÍCULO 4; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; Y LA FRACCIÓN III DEL ARTÍCULO 281 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto, se regirán por las disposiciones que se encontraban vigentes al momento que dio inició su substanciación.
+
+Los asuntos que se presenten para nuevo trámite, así como aquellos a los que hace referencia el párrafo anterior, serán tramitados por las unidades administrativas que corresponda.
+
+TERCERO. Las áreas que conforme al presente decreto deberán ser transferidas de una dependencia a otra, conservarán las estructuras y facultades establecidas en los respectivos reglamentos interiores, permaneciendo vigentes y en funcionamiento las disposiciones que las regulan hasta en tanto se expidan las reformas correspondientes.
+
+CUARTO. La transferencia de las áreas que implica el presente decreto, deberá realizarse en un plazo no mayor a 90 días contados a partir de su publicación, mediante la entrega recepción correspondiente.
+
+QUINTO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto deberán adecuarse en un plazo no mayor de 180 días a partir de la entrada en vigor del presente decreto.
+
+SEXTO. En un plazo no mayor de un año contado a partir de la entrada en vigor de este decreto, se deberá efectuar la armonización del marco jurídico estatal correspondiente.
+
+SÉPTIMO. Las autorizaciones, permisos y licencias expedidas conforme a las disposiciones aplicables durante la vigencia de la ley que se reforma, continuarán vigentes hasta la conclusión del término con el que fueron otorgadas.
+
+OCTAVO. Toda referencia a la Secretaría de Infraestructura y Transporte que haga alguna disposición legal o administrativa, así como a la Secretaría de Medio Ambiente y Desarrollo Urbano, en materia de asentamientos humanos, ordenamiento territorial y/o desarrollo urbano, deberá entenderse hecha a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
