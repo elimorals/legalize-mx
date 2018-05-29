@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2017-12-26"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2018.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -146,6 +146,10 @@ El uso y disfrute colectivo de los recursos naturales por las comunidades indíg
 > <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
 
 El estado y los municipios en el ámbito de sus respectivas competencias reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, y a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, impulsarán el respeto y conocimiento de las diversas culturas existentes en la entidad, y combatirán toda forma de discriminación.
+
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2018)</small>
+
+Corresponde al Estado promover y proteger el patrimonio cultural y natural de las comunidades de afrodescendientes radicados en la Entidad, a través de la implementación de las políticas públicas pertinentes.
 
 REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)
 
@@ -1453,7 +1457,7 @@ IV. Presidir la sesión pública y solemne convocada para el solo efecto de decl
 
 V. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia y tomarles la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen; así como conceder o negar las solicitudes de licencia o renuncia que le sometan dichos servidores públicos;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -12792,3 +12796,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que lo contravengan y se harán los ajustes necesarios en las leyes respectivas para su correcta implementación.
 
 Tercero. Todos los magistrados del Poder Judicial del Estado continuarán en el desempeño de su cargo por el plazo que para cada uno corresponda de acuerdo a su nombramiento, acatando las normas establecidas en la propia Constitución, con la calidad de magistrados propietarios y en igualdad de derechos y condiciones.
+
+G.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 646 QUE ADICIONA UN PÁRRAFO SÉPTIMO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
