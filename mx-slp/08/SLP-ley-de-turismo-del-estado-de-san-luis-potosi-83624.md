@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2017-05-20"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1132 +21,2446 @@ state: "SLP"
 ---
 # LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN EL 29 DE ENERO DE 2024.]</small>
 
-Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
-DECRETO 744
+SALVADOR JARA GUERRERO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
+El H. Congreso del Estado, se ha servido dirigirme el siguiente:
 
-EXPOSICION DE MOTIVOS
+DECRETO
 
-[...]
+EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
 
-Todo lo expuesto, conforme a las circunstancias que adquiere el turismo como sector prioritario para favorecer la inversión pública y privada, es congruente con los avances de la tecnología y las exigencias ciudadanas de mejorar el servicio turístico que promueven las instituciones públicas, concentrando su objetivo, en favorecer una mejor prestación del mismo a las personas que desean hacer de San Luis Potosí, un remanso y punto de llegada.
+NÚMERO 344
 
-LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
+###### ARTÍCULO ÚNICO.
 
-## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+Se expide la Ley Orgánica del Poder Judicial del Estado de Michoacán, para quedar como sigue:
 
-### Capítulo Unico
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-###### ARTICULO 1°.
+## Título Primero. Disposiciones Generales
 
-Las disposiciones de esta Ley son de orden público y de interés general; y tienen por objeto regular la prestación de los servicios turísticos, las atribuciones de las autoridades, la actividad de los particulares, y la coordinación entre los sectores, público, social y privado en el Estado de San Luis Potosí, para el fomento y promoción de la actividad turística en la Entidad.
+### Capítulo Único
 
-###### ARTICULO 2°.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-La aplicación de la presente Ley corresponde al Ejecutivo del Estado, a través de la Secretaría de Turismo en el Estado, y a los ayuntamientos, en el ámbito de sus respectivas competencias.
+###### Artículo 1.
 
-###### ARTICULO 3°.
+Esta ley tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado. Los órganos jurisdiccionales de dicha administración conocerán de asuntos civiles, extinción de dominio, mercantiles en jurisdicción concurrente, familiares, laborales, penales, de justicia integral para adolescentes del fuero común y, en su caso, de los acuerdos reparatorios o convenios que resulten de los mecanismos alternativos de solución de controversias, promoviendo su uso de acuerdo con la legislación en la materia. Conocerán de asuntos del orden federal, cuando la ley los faculte expresamente para ello.
 
-Esta Ley tiene por objeto:
+###### Artículo 2.
 
-I. Planificar, formular y establecer las políticas en materia de turismo;
+Para efectos de esta ley se entenderá como:
 
-II. Promover y fomentar la actividad turística;
+I. CEDETIC: Centro de Desarrollo de Tecnologías de Información y Comunicación;
 
-III. Garantizar el reconocimiento y el ejercicio de derechos y obligaciones de turistas y prestadores de servicios turísticos;
+II. Congreso: Congreso del Estado de Michoacán de Ocampo;
 
-IV. Propiciar la profesionalización de la actividad turística;
+III. Consejo: Consejo del Poder Judicial del Estado de Michoacán;
 
-V. Fomentar la sana competencia de los prestadores de servicios turísticos;
+IV. Consejero: Integrante del Consejo;
 
-VI. Definir la competencia de los sujetos, así como la coordinación entre los mismos, y
+V. Constitución: Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
-VII. Verificar el cumplimiento de la Ley y la imposición de sanciones.
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2018)</small>
 
-###### ARTICULO 4°.
+VI. Contraloría interna: Órgano de control;
 
-Para los efectos de la presente Ley se entenderá por:
+VII. Estado. Estado Libre y Soberano de Michoacán de Ocampo;
 
-I. Actividades Turísticas: las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio, recreación, placer, descanso y otros motivos;
+VIII. Ley: Ley Orgánica del Poder Judicial del Estado de Michoacán;
 
-II. Area natural protegida: aquellas zonas del territorio estatal sobre las que la Nación o el Estado ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieren ser preservadas y están sujetas al régimen previsto en las leyes aplicables en la materia;
+IX. Magistrado: Integrante del Pleno y titular de alguna de las salas civiles o penales;
 
-III. Atlas turístico: es el registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y, en general, todas aquellas zonas y áreas territoriales del desarrollo del turismo;
+X. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-IV. Consejo consultivo estatal: el Consejo integrado por representantes de los prestadores de los servicios turísticos y las dependencias involucradas en el sector turístico;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
 
-V. Consejos consultivos regionales municipales: son aquéllos que estarán integrados por uno o varios municipios del Estado de San Luis Potosí;
+XI. Pleno: Máximo órgano colegiado de carácter jurisdiccional que se integra y funciona con los Magistrados penales y civiles, así como su Presidente;
 
-VI. Cultura turística: el conjunto de conocimientos y valores, relativos a generar, propiciar y fortalecer la participación de las personas en la búsqueda de mejores condiciones para hacer posible la actividad turística de manera sustentable;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-VII. Equipo técnico específico: todos aquellos artículos indispensables para la práctica de una especialidad en turismo de aventura, cuya función principal es brindar al usuario márgenes de seguridad y comodidad para realizar la actividad;
+XII. Poder Judicial: El Poder Judicial del Estado de Michoacán;
 
-VIII. Estado: el Estado Libre y Soberano de San Luis Potosí;
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-IX. Estudio de capacidad de carga: es aquél que realiza la Secretaría y que contempla el nivel de aprovechamiento turístico de una zona determinada, de acuerdo a lo señalado en el Reglamento de esta Ley;
+XIII. Procedimientos en línea: Sustanciación de los procedimientos del proceso o juicio por medios electrónicos;
 
-X. Fideicomiso: el Fideicomiso Público de Inversión y Administración para el Desarrollo del Turismo en el Estado, responsable de implementar, asesorar y financiar los planes, programas y acciones de promoción turística del Estado;
+XIV. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia; y,
 
-XI. Guía especializado: persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específica, según lo establecido en las normas correspondientes;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-XII. Ley: la Ley de Turismo del Estado Libre y Soberano de San Luis Potosí;
+XV. Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelven la apelación y los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento y jueces de ejecución de sanciones.
 
-XIII. Ley General: la Ley General de Turismo;
+###### Artículo 3.
 
-XIV. Ley Orgánica: ley Orgánica de la Administración Pública del Estado de San Luis Potosí;
+Son órganos del Poder Judicial:
 
-XV. Normas: normas oficiales mexicanas;
+I. El Pleno;
 
-XVI. Patrimonio turístico: el conjunto de bienes y servicios de cualquier naturaleza que generan el interés de los turistas por sus características y valores naturales, históricos, culturales, estéticos o simbólicos, y que deben ser conservados y protegidos para el disfrute de las presentes y futuras generaciones;
+II. El Consejo;
 
-XVII. Planta turística: es el conjunto de elementos materiales, necesarios para la realización de la actividad turística;
+III. Las Salas;
 
-XVIII. Prestador de servicios de turismo de aventura: persona física o moral que legalmente ofrece servicios especializados para la realización de cualquier actividad recreativa, que involucren un nivel de habilidades a superar, en donde se participa de la armonía con el medio ambiente, respetando los recursos naturales y patrimonio cultural;
+IV. Los Juzgados;
 
-XIX. Prestadores de servicios turísticos: las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
 
-XX. Programa sectorial: programa Sectorial de Turismo del Estado de San Luis Potosí;
+V. Los Tribunales de enjuiciamiento;
 
-XXI. Promoción turística: el conjunto de actividades, estrategias y acciones de comunicación persuasiva, que tienen por objeto dar a conocer en los ámbitos regional, nacional e internacional los atractivos turísticos, el patrimonio turístico y los servicios turísticos del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
 
-XXII. Recursos turísticos: son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística;
+VI. El Centro Estatal de Justicia Alternativa y Restaurativa; y,
 
-XXIII. Registro estatal de turismo: es el catálogo público de prestadores de servicios turísticos del Estado de San Luis Potosí;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2018)</small>
 
-XXIV. Registro nacional de turismo: es el catálogo público de prestadores de servicios turísticos en el país, el cual constituye el mecanismo por el que el Ejecutivo Federal y las entidades federativas podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera;
+VII. La Contraloría Interna.
 
-XXV. Reglamento: reglamento de la Ley de Turismo del Estado de San Luis Potosí;
+###### Artículo 4.
 
-XXVI. Reglamento de la Ley General: el reglamento de la Ley General de Turismo;
+Las sedes del Poder Judicial son inviolables, sus titulares velarán por ello, pudiendo solicitar el auxilio de la fuerza pública para hacerla valer.
 
-XXVII. Secretaría: la Secretaría de Turismo del Estado de San Luis Potosí;
+## Título Segundo. Supremo Tribunal de Justicia
 
-XXVIII. Secretaría de Turismo: la Secretaría de Turismo del Gobierno Federal;
+### Capítulo Primero. Integración
 
-XXIX. Servicios turísticos: los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
+###### Artículo 5.
 
-XXX. Sistema de Información Turística: mecanismo para integrar los recursos, características y participantes de la actividad turística, que permitirá sistematizar y actualizar el Registro Estatal de Turismo;
+Son órganos auxiliares de la administración de justicia en el Estado:
 
-XXXI. Trabajadores turísticos: son aquellas personas físicas que prestan sus servicios en materia turística de manera subordinada, y por el cual devengan un salario o perciben una remuneración económica;
+I. La Secretaría de Seguridad Pública del Estado;
 
-XXXII. Turismo alternativo: los viajes que tienen como fin realizar actividades recreativas en contacto directo con la naturaleza y las expresiones culturales que le envuelven, con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales. El turismo alternativo incluye lo que precisan las fracciones XXXIII a XXXVIII de este artículo;
+II. El Registro Civil;
 
-XXXIII. Ecoturismo: producto turístico dirigido a los turistas que disfrutan de la historia natural, y que desean apoyar y participar activamente en la conservación del medio ambiente, realizando viajes que tienen como fin el realizar actividades recreativas de apreciación y conocimiento de la naturaleza, a través del contacto con la misma, generando beneficios económicos, ofreciendo oportunidades y alternativas de empleo;
+III. El Registro Público de la Propiedad;
 
-XXXIV. Turismo de aventura: viajes que tienen como fin realizar actividades recreativas, asociadas a desafíos impuestos por la naturaleza, respetando el patrimonio natural, cultural, turístico e histórico;
+IV. El Consejo Técnico para la Integración del Adolescente;
 
-XXXV. Turismo rural: viajes que tienen como fin el realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la conservación de los ambientes en los que habitan;
+V. Los médicos legistas;
 
-XXXVI. Turismo de reuniones: es el segmento de turismo relacionado con los congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares;
+VI. Los intérpretes y peritos;
 
-XXXVII. Turismo social: actividad encaminada a que los habitantes de cualquier nivel socioeconómico, accedan a los atractivos turísticos de su país, Estado o región;
+VII. Los síndicos e interventores de concursos, quiebras y suspensión de pagos;
 
-XXXVIII. Turismo sustentable: aquél que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquél que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y aquél, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
+VIII. Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
 
-XXIX (SIC). Turista: la persona que viaja temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población, y
+IX. Los cuerpos de policía del Estado y de los municipios;
 
-XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico.
+X. Los auxiliares de vigilancia comunitaria en aquellos distritos jurisdiccionales con presencia de comunidades indígenas;
 
-## TITULO SEGUNDO. DE LAS AUTORIDADES; Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES
+XI. Los traductores interpretes en lenguas, culturas y sistemas normativos indígenas; y,
 
-### Capítulo I. De las Autoridades
+XII. Los demás a quienes las leyes les confieran este carácter.
 
-###### ARTICULO 5°.
+Los auxiliares estarán obligados a desempeñar las funciones que les encomienden los órganos de la administración de justicia, y sus superiores tendrán el deber de facilitarles el ejercicio de las mismas.
 
-Son autoridades en materia de turismo en el Estado:
+### Capítulo Segundo. Pleno del Supremo Tribunal de Justicia
 
-I. El Ejecutivo del Estado, a través de la Secretaría de Turismo;
+###### Artículo 6.
 
-II. El Secretario de Turismo, y
+Las personas e instituciones privadas, deben prestar, de conformidad con las disposiciones legales aplicables, la colaboración que se requiera por los jueces y Magistrados en el cumplimiento de sus funciones jurisdiccionales.
 
-III. Los ayuntamientos.
+###### Artículo 7.
 
-### Capítulo II. De las Atribuciones de las Autoridades
+El Supremo Tribunal de Justicia, es el máximo órgano jurisdiccional del Poder Judicial y está integrado, por diecinueve Magistrados. Funcionará en Pleno y en salas. Las salas residirán en la Ciudad de Morelia, con la competencia que les asigne esta Ley. Las salas serán designadas por materia y número ordinal.
 
-###### ARTICULO 6°.
+###### Artículo 8.
 
-Son atribuciones del Ejecutivo del Estado las siguientes:
+Para la elección de los Magistrados, el Consejo realizará la evaluación de los aspirantes e integrará y enviará al Congreso la propuesta mediante el procedimiento siguiente:
 
-I. Establecer la política de programación, planeación turística del Estado, bajo los criterios de competitividad y de desarrollo equilibrado para el Estado;
+I. Publicará convocatoria abierta en el Periódico Oficial, en el portal de internet del Poder Judicial y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
 
-II. Determinar los mecanismos para la conservación, protección, promoción de los recursos y atractivos turísticos en el Estado;
+II. Los nombres de los aspirantes registrados serán publicados en el portal de internet del Poder Judicial y en un diario de circulación estatal, a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa, formule y haga llegar al Consejo observaciones sobre los participantes, acompañando las pruebas que acrediten su dicho;
 
-III. Determinar las bases de coordinación de las facultades concurrentes entre el Ejecutivo Federal y los municipios, así como la participación de los sectores social y privado;
+III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Consejo, la cual consistirá en exámenes, escritos u orales sobre los aspectos que con más frecuencia se somete a conocimiento de los juzgadores, considerando problemas, normativa, jurisprudencia y cuestiones doctrinales aceptadas generalmente; así como resolver un caso práctico, atendiendo a las soluciones posibles y resultado;
 
-IV. Celebrar convenios con la Federación, y las entidades federativas, para la mejor prestación de los servicios turísticos;
+IV. El Consejo garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y,
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+V. El Consejo remitirá al Congreso la lista, acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que éste designe de entre los tres con más alta calificación.
 
-V. Establecer las estrategias y mecanismos para mejorar la oferta turística estatal, considerando las características de cada zona del Estado para potenciar el atractivo turístico de cada una de ellas;
+###### Artículo 9.
 
-VI. Fomentar la modernización de la actividad turística en el Estado;
+El Consejo integrará un expediente de los Magistrados con la información que deberá incluir los aspectos siguientes:
 
-VII. Optimizar la calidad y competitividad de los servicios turísticos de la Entidad;
+I. El informe y la estadística de los asuntos de su competencia, incluyendo el cumplimiento de los plazos y términos que la ley señala para cada asunto;
 
-VIII. Establecer las políticas para los lineamientos, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros en la actividad turística;
+II. El desarrollo profesional, capacitación y actualización;
 
-IX. Aprobar el Programa Sectorial de Turismo;
+III. Informe de los amparos interpuestos en contra de sus resoluciones y el estado que guardan; y,
 
-X. Prever la exacta observancia de la presente Ley, y
+IV. Las quejas o denuncias interpuestas en su contra y en su caso, las resoluciones recaídas a ellas.
 
-XI. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
+Estos aspectos darán lugar al dictamen de evaluación del desempeño ético y profesional, que se turnará junto con el expediente, al Congreso, noventa días naturales anteriores a la fecha en que concluya el primero y, en su caso, el segundo de los ejercicios constitucionales de los Magistrados, cuyo término constitucional esté por concluir para efectos de su reelección o cuando el Congreso las solicite.
 
-###### ARTICULO 7°.
+El Consejo podrá realizar las observaciones correspondientes, haciéndolas saber al Magistrado para su corrección o solución. En los casos previstos en el artículo 77 de la Constitución, se dará vista de inmediato al Congreso.
 
-El Secretario de Turismo tendrá las siguientes atribuciones:
+###### Artículo 10.
 
-I. Tener la representación legal de la Secretaría, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley, excepto las de dominio; así como otorgar y revocar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
+Los Magistrados que integren el Supremo Tribunal de Justicia que se encuentren en la condición de retiro forzoso al que la Constitución se refiere, gozarán de un haber por retiro siendo éste de la forma siguiente: en el primer año de retiro gozarán del cien por ciento del sueldo neto que obtengan los Magistrados en activo, en el segundo año el ochenta por ciento, en el tercero el sesenta por ciento, en el cuarto el cuarenta y en el quinto último el veinte por ciento.
 
-II. Presentar los planes y programas que en materia de turismo deban implementarse en el Estado, en el ámbito de su competencia, así como aquellas necesarias para la ejecución de las funciones que la Federación transfiera al Gobierno del Estado;
+Cuando el Magistrado que haya cumplido diez años como tal y tenga más de treinta años de servicio al Poder Judicial, incluidos los de Magistrado podrá solicitar el retiro Voluntario teniendo derecho a esta prestación.
 
-III. Supervisar las acciones que se llevan a cabo en ejecución de los planes y programas de la Secretaría;
+El desempeño de cualquier actividad laboral dentro del Poder Judicial generará la inmediata suspensión del goce del haber por retiro.
 
-IV. Coordinar las actividades técnicas, administrativas y financieras de la Secretaría, para lograr una mayor eficiencia, eficacia y economía de la misma;
+El haber por retiro es independiente de las prestaciones, fondo de ahorro o cualquier derecho laboral que corresponda a los magistrados.
 
-V. Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento de la Secretaría;
+## Título Tercero. Juzgados y Tribunales
 
-VI. Gestionar y obtener, conforme a la legislación aplicable, el recurso económico para obras;
+### Capítulo Tercero. Presidente del Supremo Tribunal de Justicia
 
-VII. Autorizar las erogaciones correspondientes del presupuesto, y las extraordinarias;
+###### Artículo 11.
 
-VIII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y con sectores social y privado, para el trámite y atención de asuntos de interés común;
+El Pleno del Supremo Tribunal de Justicia funcionará con los Magistrados que integran Sala y su Presidente, y bastará la presencia de la mitad más uno de ellos para que pueda sesionar. El Magistrado electo Consejero no integrará Pleno.
 
-IX. Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con esta Ley;
+###### Artículo 12.
 
-X. Elaborar el proyecto de reglamento interior de la Secretaría y sus modificaciones; así como los manuales de organización y de procedimientos;
+Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán una vez por quincena y las extraordinarias, cuando lo soliciten por lo menos ocho Magistrados o lo juzgue necesario el Presidente por la urgencia o gravedad de los asuntos.
 
-XI. Nombrar, promover, remover y suspender al personal a su cargo, señalando sus adscripciones, funciones y remuneraciones correspondientes, conforme al presupuesto aprobado y el Reglamento Interior;
+###### Artículo 13.
 
-XII. Aplicar las sanciones que establece esta Ley por las infracciones que se cometan y que sean competencia de la Secretaría, y
+Por cada sesión se levantará acta que firmarán el Presidente, los Magistrados que hubiesen ocurrido a ella y el Secretario General de Acuerdos.
 
-XIII. Las demás que le señalen esta Ley, su Reglamento, y el Reglamento Interior.
+### Capítulo Cuarto. Secretario General de Acuerdos
 
-###### ARTICULO 8°.
+###### Artículo 14.
 
-La Secretaría, además de las que le confiere la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí, tendrá las siguientes atribuciones:
+Corresponde al Pleno del Supremo Tribunal de Justicia conocer de los asuntos siguientes:
 
-I. Aplicar las políticas públicas dirigidas al turismo;
+I. La elección del Presidente del Supremo Tribunal de Justicia y del Presidente sustituto;
 
-II. Proyectar y promover el desarrollo de la infraestructura turística;
+II. Nombramiento del Secretario General de Acuerdos, a propuesta del Presidente;
 
-III. Impulsar el fortalecimiento de la competitividad turística del Estado de San Luis Potosí;
+III. Las cuestiones y conflictos de competencia que se presenten entre jueces de primera instancia, menores, de primera instancia y menores, del Estado y otro Estado o del Distrito Federal;
 
-IV. Proporcionar orientación y asistencia a los turistas;
+IV. Las excusas del Presidente del Supremo Tribunal, propuestas durante la tramitación de los asuntos de la competencia del Pleno;
 
-V. Difundir información de atractivos turísticos, servicios y prestadores de servicios turísticos, a través de los medios de comunicación impresos, electrónicos, cibernéticos o cualquier otro;
+V. Las excusas y recusaciones de los Magistrados del Supremo Tribunal, en los asuntos de la competencia del Pleno;
 
-VI. Informar y orientar a los prestadores de servicios turísticos en materia de normatividad, acceso a financiamiento y estímulos, participación en los programas y reconocimientos de la Secretaría;
+VI. Las excusas extraordinarias que planteen los jueces de primera instancia, en asuntos del orden penal;
 
-VII. Recabar y solicitar datos estadísticos por cualquier medio a turistas, prestadores de servicios turísticos, autoridades o a cualquier persona u organización, a fin de obtener información que permita a la Secretaría proponer acciones y programas que mejoren la calidad de la infraestructura, el patrimonio y los servicios turísticos e impulsen con ello la afluencia de turistas;
+VII. Las controversias que se susciten entre las Salas del Supremo Tribunal de Justicia sobre jurisdicción, competencia, acumulación, excusas y recusaciones;
 
-VIII. El diseño, la estandarización y la supervisión de la colocación de la nomenclatura turística, de acuerdo a sus características correspondientes, señalados en el Reglamento;
+VIII. La autorización a los jueces del Estado a sostener competencias con los jueces y tribunales de otros estados, de la Federación, del Distrito Federal y con las juntas de conciliación y arbitraje, así como con tribunales autónomos, federales y locales;
 
-IX. Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en el Estado;
+IX. La elección del Consejero del Poder Judicial correspondiente a los Magistrados;
 
-X. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación para el desarrollo turístico del Estado;
+X. Del recurso de reclamación contra las providencias o acuerdos del Presidente del Supremo Tribunal, dictados durante la tramitación de los asuntos de la competencia del Pleno;
 
-XI. Promover y reconocer todos los tipos de turismo que puedan desarrollarse y aprovecharse en el Estado;
+XI. La expedición y modificación de su reglamento interior;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+XII. Aprobar, a propuesta del Consejo, la política salarial del Poder Judicial;
 
-XII. Proyectar y ejecutar, en coordinación con los ayuntamientos, planes que tengan como objetivo la incorporación y permanencia en el Programa Pueblos Mágicos. Así como en la participación de recursos federales del Programa de Desarrollo Regional Turístico Sustentable y Pueblos Mágicos que lleva anualmente la Secretaría de Turismo;
+XIII. La aprobación del proyecto anual de Presupuesto de Egresos que someta a su consideración el Consejo;
 
-XIII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y con sectores social y privado, para el trámite y atención de asuntos de interés común;
+XIV. La adscripción de los Magistrados cuando se elija nuevo Presidente y Consejero, teniendo en cuenta su especialización o experiencia profesional, dando cuenta al Consejo;
 
-XIV. Promocionar en el extranjero la riqueza turística del Estado;
+XV. Recibir las quejas que se presenten en contra de los integrantes del Consejo, realizar las actuaciones o diligencias para mejor proveer y, en su caso, enviar al Congreso del Estado la información correspondiente para efectos de lo establecido en el Título Cuarto de la Constitución;
 
-XV. Fomentar la participación de inversiones extranjeras con programas turísticos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XVI. Gestionar ante el Ejecutivo del Estado y los ayuntamientos, el otorgamiento de estímulos fiscales a los prestadores de servicios turísticos que se encuentren inscritos en el Registro Estatal de Turismo, conforme a las disposiciones legales aplicables;
+XVI. Cualquier otro asunto de la competencia del Supremo Tribunal, cuyo conocimiento no corresponda a las salas del mismo, ni al Consejo, por disposición expresa de ley;
 
-XVII. Promover, fomentar e impulsar los distintos segmentos y programas de turismo de manera incluyente con el sector social y privado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XVIII. Impulsar con programas a las empresas que prestan los servicios de turismo Aventura por el buen funcionamiento del mismo;
+XVII. Las recusaciones con causa en asuntos de carácter laboral, de los jueces especializados en materia laboral; y,
 
-XIX. Vigilar que los prestadores del turismo accesible cuenten con los mecanismos de los mismos para las personas con discapacidad;
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XX. Otorgar un reconocimiento anual a las personas físicas o morales que destaquen en la calidad de la prestación de los servicios turísticos en el Estado;
+XVIII. Las demás que le asignen la Constitución y las leyes.
 
-XXI. Promover en coordinación con las instituciones públicas o privadas, la difusión de la oferta turística;
+###### Artículo 15.
 
-XXII. Impartir la capacitación turística al sector, a través del fomento, apoyo y asesoría técnica;
+La resolución de los asuntos se hará conforme lo disponga el Reglamento Interior, de acuerdo al procedimiento siguiente:
 
-XXIII. Aplicar y proveer programas de investigación en materia de capacitación y educación turística, a efecto de desarrollar una cultura turística estatal;
+I. La presentación al Pleno del proyecto de resolución, deberá ser dentro de los treinta días hábiles siguientes al día en que se turne al Magistrado o Magistrados relatores;
 
-XXIV. Implementar programas y acciones encaminadas a la estructuración de un sistema de capacitación a los trabajadores de la industria turística;
+II. Las resoluciones se tomarán por mayoría de votos; el Presidente tendrá el voto de calidad en caso de empate y los Magistrados que disientan podrán formular voto particular, mismo que engrosará la resolución; y,
 
-XXV. Regular y coordinar la inscripción de los prestadores de servicios turísticos en el Registro Estatal de Turismo;
+III. En caso de que el proyecto no se apruebe, y el Magistrado relator acepte las adiciones o reformas propuestas por la mayoría, él mismo redactará la resolución en los términos de la discusión; de no aceptarlas, se designará a un Magistrado de la mayoría para que la redacte.
 
-XXVI. Planear, programar y proponer la participación de la Secretaría en la realización de eventos promocionales de carácter regional, nacional e Internacional, tendientes a difundir y promover la oferta de atractivos y servicios turísticos del Estado;
+###### Artículo 16.
 
-XXVII. Proponer y aplicar políticas para la participación de la Secretaría en bolsas, ferias, disposiciones y eventos que se celebren en el país y en el extranjero;
+El Presidente del Supremo Tribunal de Justicia tendrá la representación jurídica y oficial del Poder Judicial.
 
-XXVIII. Coordinar la programación de caravanas promocionales a desarrollar en el territorio estatal;
+Cada tres años los magistrados integrantes del Pleno del Supremo Tribunal de Justicia elegirán de entre ellos a su Presidente, sin posibilidad de reelección para el periodo inmediato posterior.
 
-XXIX. Coordinarse regionalmente con dependencias gubernamentales relacionadas con el turismo y con los sectores, privado y social, a efecto de captar congresos y convenciones para celebrarse en el Estado, para lo que se gestionarán los apoyos necesarios;
+La elección tendrá lugar el último jueves del mes de febrero del año que corresponda. En la misma sesión se designará al Presidente sustituto.
 
-XXX. Atender la demanda social relacionada con el acceso a los espacios turísticos, recreativos y deportivos;
+### Capítulo Quinto. De las Salas del Supremo Tribunal de Justicia
 
-XXXI. Diseñar y elaborar materiales gráficos y audiovisuales de promoción e información sobre los atractivos turísticos del Estado;
+###### Artículo 17.
 
-XXXII. Proponer y aplicar las políticas concernientes a la investigación, actualización y utilización de la información turística estatal, y
+El Presidente del Supremo Tribunal de Justicia tendrá las atribuciones siguientes:
 
-XXXIII. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
+I. Convocar y presidir las sesiones del Pleno del Supremo Tribunal de Justicia y conservar en ellas el orden y dirigir los debates;
 
-###### ARTICULO 9°.
+II. Tramitar los asuntos de la competencia del Pleno del Supremo Tribunal, y turnar dentro de los cinco días siguientes a la recepción, los expedientes entre sus integrantes para que formulen los correspondientes proyectos de resolución. En caso de que el Presidente estime dudoso o trascendente algún trámite, designará a un Magistrado relator para que someta un proyecto de resolución a la consideración del Pleno, a fin de que éste determine lo procedente;
 
-Son atribuciones de los ayuntamientos:
+III. Ejecutar los acuerdos del Supremo Tribunal de Justicia y llevar la correspondencia oficial de éste;
 
-I. Elaborar el Programa de Fomento Turístico Municipal, cuando las condiciones y características propias del municipio de que se trate lo ameriten, y que deberá ser acorde a lo dispuesto en los planes de Desarrollo Estatal, y Municipal;
+IV. Distribuir entre las salas los asuntos que sean de su competencia;
 
-II. Difundir los programas turísticos;
+V. Informar al Consejo de las vacantes de los Magistrados y jueces para los efectos conducentes;
 
-III. Proporcionar a la Secretaría las cifras y datos que le solicite en materia turística;
+VI. Nombrar y remover a los servidores públicos adscritos a la Presidencia del Supremo Tribunal;
 
-IV. Vigilar y dar mantenimiento en coordinación con la Secretaría, a la infraestructura turística para que se conserve y mantenga en buenas condiciones;
+VII. Rendir, el tercer jueves del mes de febrero de cada año ante y en nombre del Pleno y del Consejo, el informe pormenorizado del estado que guarda la administración de justicia, respecto del año inmediato anterior. A este acto asistirán el Gobernador y los diputados del Congreso;
 
-V. Organizar, en coordinación con la Secretaría, la implementación de cursos, seminarios o talleres, y la celebración de congresos, encuentros o seminarios para la capacitación y adiestramiento del personal de los prestadores de servicios turísticos;
+VIII. Proponer al Pleno el nombramiento del Secretario General de Acuerdos; y,
 
-VI. Propiciar el aprovechamiento sustentable del territorio municipal en favor del turismo;
+IX. Las demás que determinen las leyes.
 
-VII. Fomentar y preservar las áreas susceptibles de constituirse en atractivo turístico;
+###### Artículo 18.
 
-VIII. Colaborar en los términos que establezca la ley de la materia, con el gobierno Federal y entidades federativas, en el rescate y conservación de los sitios turísticos ubicados dentro de la región de que se trate;
+Las partes interesadas podrán reclamar las providencias y acuerdos que el Presidente del Supremo Tribunal de Justicia dicte durante la tramitación de los asuntos de la competencia del Pleno, siempre que la reclamación se presente por escrito, con motivo fundado, y dentro de los tres días hábiles siguientes a aquél en que se haya hecho la notificación respectiva. Presentando el escrito, se dictará la resolución dentro del término de quince días hábiles. Las providencias y acuerdos que el Presidente dicte durante la tramitación de los asuntos de su competencia, no admitirá recurso alguno.
 
-IX. Participar con el Gobierno Federal, así como con los prestadores de servicios turísticos, en la constitución de fondos de fomento turístico;
+###### Artículo 19.
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+En su informe anual de labores, el Presidente del Supremo Tribunal de Justicia dará a conocer los puntos más importantes de las actividades realizadas por el Poder Judicial, durante el período respectivo, con relación al movimiento de todos los asuntos jurisdiccionales que se tramiten en sus diversas materias; de mediación, conciliación y negociación; tesis sustentadas por jueces y Magistrados; deficiencias de la legislación que hayan sido observadas por Magistrados y jueces; iniciativas de leyes presentadas al Congreso por el Supremo Tribunal, movimiento del personal encargado de administrar justicia, y aplicación de las partidas del Presupuesto de Egresos, así como de las actividades del Consejo durante el periodo que abarque el informe.
 
-X. Proponer al Ejecutivo del Estado la Declaratoria de Zonas de Desarrollo Turístico; así como participar con la Secretaría en la planeación y diseño de proyectos que tengan como fin la declaratoria de incorporación al Programa Pueblos Mágicos y su permanencia;
+## Título Cuarto. Centro Estatal de Justicia Alternativa del Poder Judicial
 
-XI. Vigilar que la publicidad, instalaciones, equipos fijos o móviles, o cualquier otro objeto, no demeriten el aspecto típico o el estilo arquitectónico de las poblaciones;
+### Capítulo Sexto. Secretario de Acuerdos y Proyectista de Sala
 
-XII. Establecer y operar el Sistema de Información Turística Municipal;
+###### Artículo 20.
 
-XIII. Contribuir en la elaboración y actualización del Atlas Turístico de México;
+La Presidencia del Supremo Tribunal de Justicia tendrá los servidores públicos que se autoricen en el Presupuesto de Egresos.
 
-XIV. Elaborar y actualizar el Atlas Turístico del Estado;
+###### Artículo 21.
 
-XV. Establecer medidas adicionales de protección y auxilio para el turista;
+El Secretario General de Acuerdos del Supremo Tribunal de Justicia tendrá las atribuciones siguientes:
 
-XVI. Promover el uso adecuado del idioma nacional en la denominación de establecimientos y expresiones turísticas;
+I. Fungir como secretario de acuerdos del Pleno y de la Presidencia del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
+II. Practicar las diligencias que se le ordenen en los negocios cuyo conocimiento corresponda al Pleno del Supremo Tribunal de Justicia;
 
-XVII. Tomar en consideración las opiniones, usos y costumbres de las comunidades indígenas de los lugares en que se encuentren asentadas, en los casos en que se desarrollen en las mismas proyectos que les afecten;
+III. Concurrir a las sesiones del Pleno del Supremo Tribunal de Justicia, redactar las actas y cuidar que éstas sean firmadas y archivadas;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
+IV. Firmar, conjuntamente con el Presidente y los Magistrados del Supremo Tribunal de Justicia, el acta de la sesión de Pleno;
 
-XVIII. Establecer y celebrar anualmente la semana de turismo municipal, en la cual se promoverá el municipio a nivel local, regional, nacional e internacional, con el propósito de generar derrama económica en el mismo, en la cual deberá participar activamente, la ciudadanía, las instituciones educativas, culturales, deportivas y de seguridad pública, y
+V. Guardar bajo su responsabilidad los expedientes, registros y demás documentos de los asuntos de la competencia del Pleno del Supremo Tribunal de Justicia;
 
-XIX. Las demás que esta Ley y otros ordenamientos le señalen.
+VI. Cumplir los acuerdos e instrucciones del Presidente del Supremo Tribunal de Justicia;
 
-###### ARTICULO 10.
+VII. Autorizar con su firma las resoluciones y actuaciones del Pleno y del Presidente del Supremo Tribunal de Justicia, con arreglo a las leyes;
 
-En aquellos municipios con actividad turística significativa, los ayuntamientos podrán integrar sus propios Consejos Consultivos Turísticos, con la participación de los representantes de los sectores públicos, social y privado locales, de conformidad con la legislación aplicable y con el auxilio de la Secretaría, los que serán presididos por el presidente municipal o el funcionario que éste designe.
+VIII. Recibir los escritos dirigidos al Supremo Tribunal de Justicia, asentando en ellos tanto el día y hora en que se reciban, como los nombres y apellidos de quienes los presenten, recabando, cuando proceda, la ratificación correspondiente y hacer el turno respectivo;
 
-## TITULO TERCERO. DEL PROGRAMA SECTORIAL DE TURISMO; DEL SISTEMA DE INFORMACION TURISTICA; Y DEL REGISTRO ESTATAL DE TURISMO
+IX. Dar cuenta al Presidente del Supremo Tribunal de Justicia con los escritos que reciba, dentro de las veinticuatro horas hábiles siguientes a la de su presentación. En caso de urgencia, le informará de inmediato;
 
-### Capítulo I. Del Programa Sectorial de Turismo
+X. Redactar la correspondencia oficial conforme a lo acordado por el Presidente del Supremo Tribunal de Justicia;
 
-###### ARTICULO 11.
+XI. Fijar fuera de su oficina, en lugar visible y de fácil acceso, la lista de las resoluciones del Pleno o de la Presidencia del Supremo Tribunal de Justicia que deban ser notificadas con arreglo a las leyes procesales; así como enviar al CEDETIC, para su publicación;
 
-La Secretaría será la dependencia responsable de planear, establecer, coordinar y ejecutar la política turística, con objeto de impulsar el crecimiento y desarrollo del turismo en el Estado de San Luis Potosí, a través del Programa Sectorial.
+XII. Expedir copias simples o certificadas de los documentos que obren bajo su custodia en las oficinas del Supremo Tribunal de Justicia, cuya expedición no esté encomendada a otros servidores públicos;
 
-###### ARTICULO 12.
+XIII. Reunir los datos necesarios para redactar el proyecto de informe anual del Presidente del Supremo Tribunal de Justicia;
 
-La Secretaría ejecutará el Programa Sectorial que se sujetará a los objetivos y metas establecidas para el sector, de acuerdo al Plan Estatal de Desarrollo. Dicho programa deberá enviarse para su publicación en el Periódico Oficial del Estado.
+XIV. Llevar la estadística judicial;
 
-###### ARTICULO 13.
+XV. Compilar la jurisprudencia; y,
 
-La Secretaria llevará un diagnóstico y un pronóstico de la situación del turismo en el Estado, y aplicará las políticas, objetivos y metas a corto, mediano y largo plazo de la actividad turística, con observancia a lo que establezcan los instrumentos jurídicos, administrativos y de política económica que sean aplicables.
+XVI. Las demás que le señale esta ley y los reglamentos que expida el Supremo Tribunal de Justicia.
 
-La Secretaría al aplicar el programa, las políticas, objetivos y prioridades que regirán a la actividad turística, procurará investigar las características de la demanda y los atractivos turísticos naturales y culturales con que cuenta cada ruta o región en el Estado.
+###### Artículo 22.
 
-### Capítulo II. Del Sistema de Información Turística
+El Secretario General de Acuerdos del Supremo Tribunal de Justicia tendrá fe pública en el ejercicio de sus funciones.
 
-###### ARTICULO 14.
+### Capítulo Séptimo. Oficial, Notificador, Escribiente y Archivista de Sala
 
-La Secretaría y los prestadores de servicios turísticos crearán un sistema integral de información, que permita conocer los recursos, características y participantes de la actividad turística, así como integrar y actualizar el Registro Estatal de Turismo.
+###### Artículo 23.
 
-###### ARTICULO 15.
+Para ser Secretario General de Acuerdos se requiere:
 
-Para la integración y actualización del Sistema Integral de Información Turística, las dependencias y entidades de la administración pública estatal y municipal, así como los prestadores de servicios turísticos, y los sectores social y privado relacionados con la actividad turística, deberán proporcionar los informes que para el efecto les requiera la Secretaría.
+I. Ser ciudadano mexicano en ejercicio de sus derechos;
 
-###### ARTICULO 16.
+II. No haber sido condenado ni estar sujeto a proceso por delito doloso; y,
 
-Los datos y estadísticas captados por medio del Sistema Integral de Información Turística, deberán editarse y publicarse por lo menos cada seis meses en la forma y a través de los medios que la Secretaría estime necesarios, a fin de proporcionar a los prestadores de servicios turísticos y demás dependencias y entidades de la administración pública, información confiable para fortalecer los procesos de planeación de los sectores público y privado.
+III. Tener título de licenciado en derecho con una antigüedad de al menos cinco años.
 
-### Capítulo III. Del Registro Estatal de Turismo
+###### Artículo 24.
 
-###### ARTICULO 17.
+El Supremo Tribunal de Justicia funcionará con nueve salas civiles y nueve penales.
 
-En el Registro Estatal de Turismo quedarán inscritos los prestadores de servicios turísticos, los establecimientos en que se ofrezcan sus servicios y las características de éstos.
+###### Artículo 25.
 
-###### ARTICULO 18.
+Las Salas estarán integradas por un Magistrado y contarán al menos:
 
-Los prestadores de servicios turísticos que se inscriban en el Registro Estatal de Turismo, tendrán los siguientes beneficios:
+I. Secretario de Acuerdos;
 
-I. Ser incluidos en los catálogos, directorios y guías que elabore la Secretaría;
+II. Secretario Proyectista;
 
-II. Difundir la categoría que corresponda a la calidad de sus servicios;
+III. Oficial;
 
-III. Participar en los programas de promoción y fomento que lleve a cabo la Secretaría;
+IV. Notificador;
 
-IV. Participar en los programas de capacitación turística que promueva o lleve a cabo la Secretaría, y
+V. Escribiente; y,
 
-V. Recibir el apoyo institucional de la Secretaría, siempre y cuando sea solicitado, para el beneficio común del sector turístico.
+VI. Demás personal que acuerde el Consejo ajustándose al presupuesto.
 
-###### ARTICULO 19.
+###### Artículo 26.
 
-El Registro Estatal de Turismo contendrá en cada caso, los siguientes datos:
+Son atribuciones de los magistrados de Sala:
 
-I. Nombre y domicilio de la persona física o moral que prestará el servicio;
+I. Conocer, en Segunda Instancia de los asuntos que la ley les encomiende;
 
-II. Lugar y domicilio en que se prestan los servicios;
+II. Tener a su cargo al personal de la Sala y poner en conocimiento del Consejo las irregularidades cometidas;
 
-III. Fecha de apertura del establecimiento turístico;
+III. Asistir a las sesiones del Pleno y no desintegrar el quórum, sin causa justificada; y,
 
-IV. Tipo de los servicios que se prestan y su categoría conforme a las normas aplicables, y
+IV. Desempeñar las demás funciones que les confieran las leyes.
 
-V. La demás información que la Secretaría estime necesaria para fines de difusión.
+###### Artículo 27.
 
-## TITULO CUARTO. DE LA PLANTA TURISTICA; Y DE LAS ZONAS DE DESARROLLO TURISTICO SUSTENTABLE
+Las salas civiles, conocerán de:
 
-### Capítulo I. De la Planta Turística
+I. Los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia en materia civil, familiar, mercantil y de extinción de dominio;
 
-###### ARTICULO 20.
+II. El recurso de revocación en términos de ley;
 
-La Secretaría por medio de programas de inversión, asistencia técnica, asesoría y financiamiento propios o de cualquier otra instancia federal o particular, impulsará y realizará la construcción, renovación y mejora de la Planta e infraestructura turística que forme parte del patrimonio turístico.
+III. El recurso de apelación contra los laudos que se dicten en los asuntos que puedan comprometerse en árbitros conforme a la ley;
 
-Asimismo, las personas físicas y morales propietarias de bienes muebles e inmuebles donde se desarrollen actividades turísticas, deberán mantener en buenas condiciones la infraestructura de dichos bienes, previendo su accesibilidad, disfrute y adecuación a las necesidades de personas con discapacidad, para lo cual deberán contar con los mecanismos especiales, espacios, productos y materiales para que su estancia y actividades sean placenteras, en los términos que señale el Reglamento.
+IV. Los juicios de responsabilidad civil que se promuevan contra los servidores públicos del Poder Judicial derivados de actividades relacionadas con la función jurisdiccional;
 
-###### ARTICULO 21.
+V. Las cuestiones y conflictos de competencia que se susciten entre los jueces de primera instancia, menores de diverso distrito judicial, de primera instancia y menores, pertenecientes al Estado;
 
-La Secretaría impulsará y realizará la renovación y mejora de la Planta Turística, a través de asistencia técnica y de asesoramiento financiero.
+VI. La revisión de oficio de sentencias dictadas en juicio sobre rectificación de actas del estado civil y sobre nulidad de matrimonio;
 
-###### ARTICULO 22.
+VII. Las recusaciones con causa tanto en asuntos de derecho civil, mercantil y familiar, de los jueces civiles y familiares;
 
-La Secretaría, a través de la realización de estudios sociales y de mercado, así como de la consulta al Registro Estatal de Turismo, estimulará y promoverá entre la iniciativa privada y el sector social, la creación y operación de cadenas productivas y redes de valor en torno a los desarrollo (sic) turísticos nuevos y existentes, con el fin de impulsar la economía local y buscar el desarrollo regional.
+VIII. Los conflictos que con motivo de excusas y recusaciones sin causa se susciten tanto en asuntos civiles como de lo familiar, entre los jueces civiles, familiares o mixtos, así como los que deriven de excusas en materia mercantil; y,
 
-### Capítulo II. De las Zonas de Desarrollo Turístico Sustentable
+IX. Las excusas y recusaciones con causa de los titulares de otras salas, tanto en asuntos de derecho civil, mercantil y familiar, en orden ascendente. Si se trata del Magistrado con el número ordinal más alto, conocerá el de la Sala que inicie la numeración ordinal.
 
-###### ARTICULO 23.
+## Título Quinto. Consejo
 
-La Secretaría con la participación de las dependencias y entidades competentes, regulará, administrará y vigilará las Zonas de Desarrollo Turístico Sustentable.
+### Capítulo Primero. División Territorial
 
-###### ARTICULO 24.
+###### Artículo 28.
 
-La Secretaría impulsará y propondrá la creación de Zonas de Desarrollo Turístico Sustentable, en las que por sus condiciones particulares sean propicias para el desarrollo del turismo en el Estado.
+Las salas penales conocerán, por turno, de los asuntos siguientes:
 
-###### ARTICULO 25.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-La Secretaría en coordinación con las dependencias, las entidades del Estado y los municipios estarán a cargo de regular, administrar y vigilar las Zonas de Desarrollo Turístico Sustentable, identificando en los sitios que lo requieran, el Estudio de Capacidad de Carga.
+I. De los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento en materia penal tanto de adultos como de adolescentes y de los jueces de ejecución de sanciones;
 
-###### ARTICULO 26.
+II. El recurso de revocación en términos de ley;
 
-La Secretaría para elaborar la propuesta de Declaratoria de Zona de Desarrollo Turístico Sustentable, deberá tomar la opinión del Consejo Consultivo Estatal y los Consejos Consultivos Regionales, así como de los municipios, con base en los programas municipales de desarrollo urbano.
+III. De las cuestiones de competencia, acumulación, excusas y recusaciones con causa; y de revisión extraordinaria; y,
 
-La Secretaría, en coordinación con las autoridades competentes, deberá realizar un estudio de viabilidad, impacto y crecimiento económico de la zona que se pretende declarar como de desarrollo turístico.
+IV. Del recurso de revisión contra sentencias que hayan causado ejecutoria.
 
-La propuesta de declaratoria también deberá contener los motivos que la justifican y la delimitación geográfica de la zona.
+###### Artículo 29.
 
-###### ARTICULO 27.
+El Secretario de Acuerdos de Sala, tendrá las facultades y obligaciones siguientes:
 
-Las Zonas de Desarrollo Turístico Sustentable se clasificarán en:
+I. Cuidar que los demás empleados asistan con puntualidad al despacho y cumplan con sus deberes, poniendo en conocimiento de su superior las faltas que notaren;
 
-I. Prioritarias: aquéllas que por sus características naturales, ecológicas, históricas o culturales, constituyan un atractivo turístico que coadyuve al crecimiento económico de una zona, o bien, aquélla que cuente con la potencialidad para desarrollar actividades turísticas, y
+II. Recibir los escritos que se dirijan a la Sala y dar cuenta de ellos al Magistrado;
 
-II. Saturadas: aquéllas que requieran limitar el crecimiento de la actividad turística por alguna de las siguientes circunstancias:
+III. Intervenir en todas las diligencias que practique el Magistrado;
 
-a) Por sobrepasar el límite máximo de la oferta turística que, teniendo en cuenta el número de servicios turísticos por habitante o densidad de población, se determine en el Reglamento.
+IV. Redactar las resoluciones que determine el Magistrado;
 
-b) Por registrar una demanda que por su afluencia o tipo de actividad turística, genere situaciones incompatibles con el cuidado y protección del medio ambiente natural y cultural.
+V. Formar y autorizar la lista de las resoluciones que se dicten, de la cual conservarán una copia en el archivo y enviarán otra a la Secretaría General de Acuerdos del Supremo Tribunal;
 
-La declaratoria de Zona de Desarrollo Turístico Saturada implicará la evaluación de la expedición de nuevas autorizaciones o permisos para prestar los servicios turísticos señalados en esta Ley, dicha declaratoria continuará vigente únicamente hasta que desaparezcan las circunstancias que hayan motivado su expedición, según declaratoria del Estado.
+VI. Asentar en los expedientes las razones y certificaciones que procedan, sin necesidad de mandato judicial;
 
-## TITULO QUINTO. DE LA PROFESIONALIZACION DE LA ACTIVIDAD TURISTICA
+VII. Guardar los escritos, expedientes y resoluciones que por su naturaleza o por disposición de la ley, no deban ser conocidos antes de practicarse alguna actuación;
 
-### Capítulo I. De la Capacitación de los Prestadores de Servicios Turísticos
+VIII. Controlar el sello de la Sala y hacer uso de él de acuerdo con sus atribuciones;
 
-###### ARTICULO 28.
+IX. Redactar la correspondencia oficial conforme a los acuerdos que reciban de su superior y dirigir las labores de la oficina;
 
-La capacitación turística es una actividad prioritaria para la eficaz prestación de los servicios turísticos.
+X. Expedir las copias simples que soliciten las partes en los negocios y autorizar las certificadas que se expidan por mandato judicial;
 
-###### ARTICULO 29.
+XI. Tener a su cargo y bajo su responsabilidad el archivo de la Sala;
 
-La Secretaría participará en la elaboración de programas de capacitación y adiestramiento destinados a los trabajadores de los prestadores de servicios turísticos, con el objetivo de incrementar la calidad y competitividad de los servicios turísticos que se presten en el Estado.
+XII. Cuidar que el oficial asiente en los libros de registro, los datos que procedan;
 
-###### ARTICULO 30.
+XIII. Reunir los datos estadísticos necesarios para los informes que deban proporcionarse;
 
-La Secretaría realizará diagnósticos o estudios que apoyen los programas de capacitación para el desarrollo de la prestación de los servicios turísticos.
+XIV. Encargarse del despacho en los términos de esta ley;
 
-###### ARTICULO 31.
+XV. Sancionar con su firma las resoluciones y actuaciones del Magistrado; y,
 
-La Secretaría, en colaboración con las dependencias y entidades del Estado, los municipios, autoridades federales, organismos internacionales, los sectores privado y sociales, sean nacionales o internacionales, organizará la implementación de cursos, diplomados, seminarios o talleres, y la celebración de congresos o encuentros, para la capacitación y adiestramiento en y para la actividad turística, evaluando periódica y sistemáticamente los resultados.
+XVI. Las demás que determinen las leyes, los reglamentos o el Magistrado.
 
-###### ARTICULO 32.
+###### Artículo 30.
 
-La Secretaría participará en el diseño de la capacitación de los prestadores de servicio para las personas con discapacidad, con respecto a la accesibilidad y demás cuestiones relacionadas con el cumplimiento a las obligaciones derivadas de la presente Ley.
+El Secretario Proyectista de Sala elaborará los proyectos de resolución que le encomiende el Magistrado, con la anticipación necesaria para que se revisen y pronuncien dentro de los plazos previstos por la Ley.
 
-###### ARTICULO 33.
+###### Artículo 31.
 
-La Secretaría promoverá las acciones de coordinación y formulará recomendaciones en la elaboración de planes y programas de estudios con las instancias educativas competentes, para que se promueva a través de libros de texto o cualquier otro medio didáctico, el significado de la actividad turística, su importancia para el Estado, y para la formación de profesionales y asesores en esta actividad.
+El Oficial de Sala tendrá las facultades y obligaciones siguientes:
 
-###### ARTICULO 34.
+I. Cumplimentar las resoluciones del Magistrado, cuando ello deba tener lugar fuera del local de la Sala y no esté encomendado especialmente a otro empleado;
 
-La Secretaría podrá solicitar a la dependencia competente, el registro de las instituciones educativas establecidas en el Estado, dedicadas a la especialización en las diferentes ramas de la actividad y servicios turísticos, reconocidas oficialmente, con el objeto de informar a los prestadores de servicios turísticos, sobre la validez oficial y el nivel académico de dichas instituciones educativas.
+II. Llevar los libros de registro, anotando en ellos los datos que sean necesarios; y,
 
-###### ARTICULO 35.
+III. Realizar las demás actividades que le encomiende el Magistrado o el Secretario de Acuerdos.
 
-La Secretaría diseñará y aplicará los programas de capacitación, y se coordinará con la Secretaría de Turismo, dependencias federales, estatales y municipales, así como con organismos de los sectores social y privado, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística, tanto a prestadores de servicios turísticos, como a servidores públicos.
+###### Artículo 32.
 
-### Capítulo II. De la Educación, Cultura y Reconocimientos
+Al notificador de Sala corresponde hacer los emplazamientos, notificaciones personales, citaciones y ejecutar las resoluciones que se le ordenen, en los asuntos de que conozcan las salas; así como también los que sean de la competencia del Pleno, para cuyo efecto el Presidente comisionará a cualquiera de ellos, conforme a la materia de que se trate.
 
-###### ARTICULO 36.
+###### Artículo 33.
 
-Los programas de capacitación deberán incluir políticas públicas en materia de educación turística.
+Al escribiente de Sala le corresponde redactar los oficios y tomar los dictados que le encomienden el secretario y el notificador, auxiliar al secretario en la elaboración y publicación de las listas de acuerdos, así como realizar las actividades administrativas que le encomiende el titular.
 
-###### ARTICULO 37.
+###### Artículo 34.
 
-La Secretaría podrá celebrar convenios con instituciones educativas con reconocimiento oficial, que ofrezcan estudios relacionados con el turismo, con la finalidad de permitir a los alumnos que presten su servicio social, que realicen prácticas profesionales o que participen en proyectos o eventos de la Secretaría.
+Al archivista de Sala o escribiente que haya sido designado con esa actividad, le corresponde organizar los expedientes, foliarlos, sellarlos, rotularlos, mantenerlos en buen estado, resguardarlos bajo la vigilancia del secretario, proporcionar los expedientes a los usuarios y las demás que el secretario o el titular le encomiende.
 
-###### ARTICULO 38.
+###### Artículo 35.
 
-Los prestadores de servicios turísticos y la Secretaría transmitirán a sus funcionarios y trabajadores la importancia del turismo, así como las normas, principios y valores que rigen en materia turística.
+Para los efectos de la impartición y administración de justicia en Primera Instancia, el Estado se divide en los distritos judiciales de: Apatzingán, Ario, Arteaga, Coahuayana, Coalcomán, Hidalgo, Huetamo, Jiquilpan, La Piedad, Lázaro Cárdenas, Los Reyes, Maravatío, Morelia, Pátzcuaro, Puruándiro, Sahuayo, Tacámbaro, Tanhuato, Uruapan, Zacapu, Zamora, Zinapécuaro y Zitácuaro.
 
-###### ARTICULO 39.
+### Capítulo Segundo. Primera Instancia
 
-La Secretaría coadyuvará, a través de políticas públicas, a la promoción y fomento de la cultura turística por medio de programas y campañas que impulsen el desarrollo y la prestación de los servicios turísticos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-###### ARTICULO 40.
+###### Artículo 36.
 
-La Secretaría con la finalidad de reconocer, distinguir e incentivar públicamente a los prestadores de servicios turísticos, otorgará el Premio Turístico Estatal a quienes se hayan destacado en cualquiera de los siguientes casos:
+Los distritos judiciales comprenden los municipios siguientes:
 
-I. El desarrollo de la actividad turística;
+I. Distrito de Apatzingán: Aguililla, Apatzingán, Buenavista, Múgica, Parácuaro y Tepalcatepec;
 
-II. La calidad de los servicios turísticos prestados a los turistas;
+II. Distrito de Ario: Ario, Churumuco, La Huacana y Nuevo Urecho;
 
-III. La contribución al fomento, cuidado y protección del patrimonio cultural, artístico y turístico;
+III. Distrito de Arteaga: Arteaga y Tumbiscatío;
 
-IV. La promoción del Estado como destino turístico;
+IV. Distrito de Coahuayana: Aquila y Coahuayana;
 
-V. La protección del medioambiente, y
+V. Distrito de Coalcomán: Coalcomán de Vázquez Paliares y Chinicuila;
 
-VI. La innovación tecnológica en la prestación de los servicios turísticos.
+VI. Distrito de Hidalgo: Hidalgo e Irimbo;
 
-###### ARTICULO 41.
+VII. Distrito de Huetamo: Huetamo, San Lucas y Tiquicheo de Nicolás Romero;
 
-El reconocimiento a que se refiere el artículo anterior será entregado por el Ejecutivo del Estado anualmente. El Reglamento establecerá sus características, condiciones y requisitos para su otorgamiento.
+VIII. Distrito de Jiquilpan: Chavinda, Jiquilpan, Marcos Castellanos, Pajacuarán, Venustiano Carranza y Villamar;
 
-## TITULO SEXTO. DE LOS SERVICIOS TURISTICOS
+IX. Distrito de La Piedad: Churintzio, La Piedad, Numarán, Penjamillo, Tlazazalca y Zináparo;
 
-### Capítulo I. Del Turismo Social
+X. Distrito de Lázaro Cárdenas: Lázaro Cárdenas;
 
-###### ARTICULO 42.
+XI. Distrito de Los Reyes: Cotija, Los Reyes, Peribán, Tingüindín y Tocumbo;
 
-El turismo social comprende todos aquellos programas, mecanismos y acciones que instrumente la Secretaría, a través de los cuales contribuya a hacer accesibles los servicios turísticos para su descanso, integración familiar y esparcimiento a las personas con discapacidad y de escasos recursos económicas (sic), que tienen acceso limitado a disfrutar del patrimonio y los servicios turísticos.
+XII. Distrito de Maravatío: Áporo, Contepec, Epitacio Huerta, Maravatío, Senguio y Tlalpujahua;
 
-###### ARTICULO 43.
+XIII. Distrito de Morelia: Acuitzio, Copándaro, Cuitzeo, Charo, Chucándiro, Huandacareo, Huiramba, Lagunillas, Madero, Morelia, Santa Ana Maya, Tarímbaro y Tzitzio;
 
-La Secretaría podrá concertar acuerdos con los prestadores de servicios turísticos para lograr una oferta razonable de paquetes, planes y circuitos turísticos a precios y condiciones adecuadas, que fortalezcan el desarrollo del turismo social.
+XIV. Distrito de Pátzcuaro: Erongarícuaro, Pátzcuaro, Quiroga, Salvador Escalante y Tzintzuntzan;
 
-###### ARTICULO 44.
+XV. Distrito de Puruándiro: Angamacutiro, Huaniqueo, José Sixto Verduzco, Morelos y Puruándiro;
 
-La Secretaría concertará con los sectores social y privado su participación en programas, que hagan posible el cumplimiento de los objetivos turísticos en beneficio de los diferentes sectores que integran la población en general, y desarrollará en conjunto con el sector privado y social, acciones específicas para la atención de los grupos vulnerables.
+XVI. Distrito de Sahuayo: Briseñas, Régules y Sahuayo;
 
-###### ARTICULO 45.
+XVII. Distrito de Tacámbaro: Carácuaro, Nocupétaro, Tacámbaro y Turicato;
 
-La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social, que tengan por objeto la prestación de servicios turísticos accesibles a la población. Asimismo, promoverá la conjugación de esfuerzos para mejorar la atención y el desarrollo de aquellos lugares en que pueda ser susceptible elevar el nivel de vida de sus habitantes, mediante su participación en la actividad turística.
+XVIII. Distrito de Tanhuato: Tanhuato, Vista Hermosa y Yurécuaro;
 
-### Capítulo II. Del Turismo Infantil
+XIX. Distrito de Uruapan: Charapan, Gabriel Zamora, Nahuatzen, Paracho, Nuevo Parangaricutiro, Tancítaro, Taretan, Tingambato, Uruapan y Ziracuaretiro;
 
-###### ARTICULO 46.
+XX. Distrito de Zacapu: Coeneo, Jiménez, Panindícuaro y Zacapu;
 
-Las autoridades en materia de turismo pondrán especial énfasis en el impulso a la cultura turística infantil.
+XXI. Distrito de Zamora: Cherán, Chilchota, Ecuandureo, Ixtlán, Jacona, Purépero, Tangamandapio, Tangancícuaro y Zamora;
 
-###### ARTICULO 47.
+XXII. Distrito de Zinapécuaro: Álvaro Obregón, Indaparapeo, Queréndaro y Zinapécuaro; y,
 
-Para la consecución de lo establecido en el artículo anterior, las autoridades turísticas, en coordinación con las autoridades educativas y prestadores de servicios turísticos, desarrollarán y promoverán la creación y mantenimiento de espacios y actividades turísticas para la población infantil.
+XXIII. Distrito de Zitácuaro: Angangueo, Juárez, Jungapeo, Ocampo, Susupuato, Tuxpan, Tuzantla y Zitácuaro.
 
-###### ARTICULO 48.
+###### Artículo 37.
 
-La Secretaría concertará con los prestadores de servicios turísticos, descuentos y planes especiales para infantes, con el fin de fomentar la visita e incrementar la participación de los mismos.
+Para el Sistema de Justicia Penal Acusatorio y Oral, las regiones judiciales están integradas de la manera siguiente:
 
-###### ARTICULO 49.
+I. Apatzingán, que se integrará con los distritos judiciales de Apatzingán y Coalcomán;
 
-En los espacios y actividades destinados al turismo infantil, los prestadores de servicios turísticos deberán contar con personal expresamente capacitado para garantizar la seguridad de los infantes, que hagan uso de las instalaciones y actividades a ellos reservadas.
+II. Lázaro Cárdenas, que se integrará con los distritos judiciales de Arteaga, Coahuayana y Lázaro Cárdenas;
 
-### Capítulo III. Del Turismo de Aventura
+III. Morelia, que se integrará con los distritos judiciales de Morelia, Pátzcuaro y Zinapécuaro;
 
-###### ARTICULO 50.
+IV. Uruapan, que se integrará con los distritos judiciales de Ario, Tacámbaro y Uruapan;
 
-La Secretaría impulsará y promoverá el turismo de aventura, el cual comprende todos aquellos viajes que tienen como fin realizar actividades recreativas asociadas a desafíos impuestos por la naturaleza, en condiciones adecuadas de seguridad, dentro de las cuales se clasifican entre otras, buceo, rapel, ciclismo de montaña, descenso en ríos.
+V. Zamora, que se integrará con los distritos judiciales de Jiquilpan, La Piedad, Los Reyes, Puruándiro, Sahuayo, Tanhuato, Zacapu y Zamora; y,
 
-Las dependencias y las entidades de la administración pública del Estado, coordinarán y promoverán sus esfuerzos entre ellas, y con las de los gobiernos municipales, e impulsarán acciones con los sectores social y privado, para el fomento del turismo de aventura.
+VI. Zitácuaro, que se integrará con los distritos judiciales de Hidalgo, Huetamo, Maravatío, Zitácuaro.
 
-###### ARTICULO 51.
+###### Artículo 38.
 
-Las empresas que se dediquen a prestar sus servicios para desarrollar turismo de aventura, deberán contar con el permiso de funcionamiento, y cumplir con los requisitos establecidos en el Reglamento derivado de la presente Ley.
+En cada uno de los distritos y regiones judiciales habrá el número de juzgados de Primera Instancia que determine el Consejo, previa valoración de las necesidades en cada uno de éstos y de acuerdo al presupuesto disponible.
 
-###### ARTICULO 52.
+El Consejo también podrá habilitar a jueces de control y tribunales de enjuiciamiento que sean itinerantes en todo el Estado, cuando así se requiera.
 
-Las empresas que obtengan el permiso de funcionamiento deberán cumplir en forma permanente, con las condiciones de operación establecidas en la normatividad vigente y demás ordenamientos legales relativos a la regulación de la prestación del servicio, por lo que para este fin la Secretaría realizará en forma periódica, visitas de verificación en los términos establecidos en la presente Ley y su Reglamento.
+###### Artículo 39.
 
-###### ARTICULO 53.
+Los juzgados de Primera Instancia conocerán de todos los negocios que no sean de la competencia de los juzgados menores o comunales. El Consejo determinará las materias de que conocerá cada uno, pudiendo determinar la existencia de juzgados mixtos, de instrucción, así como jueces de oralidad en las materias civil, familiar, mercantil y laboral, cuando la carga de trabajo especializado de la materia lo requiera y lo permita el presupuesto.
 
-El prestador de servicios turísticos y el turista estarán obligados a respetar el medio ambiente en el que se desarrollen las actividades de turismo de aventura, para lo cual deberán apegarse a lo establecido en las leyes aplicables en la materia.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
-### Capítulo IV. De la Accesibilidad a los Servicios Turísticos
+En oralidad civil y familiar podrá haber jueces de instrucción y oralidad o solamente éstos, los que conocerán de los asuntos previstos en los artículos 40 y 41, en los términos de los códigos de procedimientos civiles y familiar. Cuando solamente existan jueces de oralidad, estos conocerán también de las etapas procesales previstas para el Juez de instrucción.
 
-###### ARTICULO 54.
+En materia penal la primera instancia corresponde además a los juzgados de control y a los tribunales de enjuiciamiento, los que el Consejo podrá determinar que sean itinerantes.
 
-La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes de la administración pública del Estado, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad, de acuerdo a la ley aplicable en la materia.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
-###### ARTICULO 55.
+También son jueces de primera instancia los jueces de control y tribunal de enjuiciamiento en justicia penal para adolescentes y los de ejecución de sanciones penales.
 
-Los prestadores de servicios turísticos deberán proveer lo necesario, para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+Son Jueces de primera instancia los jueces especializados en materia laboral.
 
-###### ARTICULO 56.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-La Secretaría y los ayuntamientos vigilarán que las disposiciones establecidas en el presente capítulo se cumplan.
+###### Artículo 39 Bis.
 
-### Capítulo V. De la Cultura Turística
+Los jueces de oralidad en las materias civil, penal, familiar, mercantil y laboral, tendrán fe pública, en todas aquellas audiencias y diligencias orales que les corresponda presidir con motivo de sus funciones en esta modalidad.
 
-###### ARTICULO 57.
+###### Artículo 40.
 
-La Secretaría, en coordinación con los ayuntamientos, promoverán y fomentarán entre la población aquellos programas y actividades que promuevan la cultura turística, con el fin de crear el conocimiento de los beneficios de la actividad.
+Los juzgados de Primera Instancia que conozcan de la materia civil u oral civil serán competentes para los asuntos siguientes:
 
-###### ARTICULO 58.
+I. Los actos prejudiciales y de jurisdicción voluntaria, no relacionados con el derecho familiar;
 
-La Secretaría en conjunto con la Secretaría de Educación de Gobierno del Estado, promoverá programas que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional y extranjero.
+II. Los juicios sucesorios, cualquiera que sea su naturaleza, y de las cuestiones que con ellos se vinculen, excepto las relacionadas con la desafectación de los bienes del patrimonio de familia;
 
-###### ARTICULO 59.
+III. Los juicios de petición de herencia, impugnación de testamento o de la capacidad para heredar, así como de todos aquellos que sean acumulables a los juicios sucesorios conforme a las disposiciones del Código de Procedimientos Civiles, excepto los relacionados con el patrimonio de familia;
 
-La Secretaría en coordinación con la Secretaría Estatal de Cultura, establecerá programas que tengan como finalidad fomentar y promover la cultura del Estado, dichos programas deberán ser difundidos entre los prestadores de servicios turísticos en la Entidad.
+IV. Las acciones sobre bienes inmuebles, comprendidas tanto las que se refieran a la propiedad, a la posesión plenaria, a la prescripción positiva o a cualquier otro derecho real, como las que tengan por objeto discutir la validez o nulidad de las informaciones ad perpetuam para suplir título escrito de dominio o la posesión de un derecho real, siempre que dichas acciones no estén relacionadas con el patrimonio de familia;
 
-### Capítulo VI. Del Turismo Deportivo
+V. Las acciones reales o personales sobre bienes muebles, cuando no deban conocer de ellas los juzgados de lo familiar;
 
-###### ARTICULO 60.
+VI. Los de carácter contencioso, común o concurrente, cuya competencia no sea del conocimiento exclusivo de los juzgados de lo familiar;
 
-La Secretaría impulsará y promoverá el turismo deportivo, segmento que abre nuevas oportunidades para las economías nacionales y locales, y son una fuente adicional de empleos y de ingresos, que incentivan la infraestructura y promueven sus atractivos turísticos.
+VII. Los concursos de deudor no comerciante;
 
-###### ARTICULO 61.
+VIII. Los interdictos, excepto los relacionados con la posesión del estado civil;
 
-Para la consecución de lo establecido en el artículo anterior, las autoridades turísticas en coordinación con las autoridades deportivas, realizarán esfuerzos para crear programas y acciones dirigidas al desarrollo de productos turísticos específicos como triatlón, golf, maratón, carreras de aventura, torneos de pesca, natación, cinegéticos, buceo y automovilismo, entre otros, con el fin de que los destinos sedes logren obtener competitividad, sustentabilidad, calidad y rentabilidad.
+IX. Las reconvenciones, pero solamente de aquellas que se refieran a cuestiones de las que les corresponda conocer conforme a las disposiciones de este artículo;
 
-### Capítulo VII. Del Turismo Médico
+X. Los exhortos, suplicatorias, requisitorias y despachos cuya diligencia no esté reservada a los juzgados de lo familiar; y,
 
-###### ARTICULO 62.
+XI. Los demás que ésta u otras leyes no reserven a los juzgados de lo familiar, menores o comunales.
 
-La Secretaría incentivará y promoverá el turismo médico; el objetivo de esta política pública es impulsar el consumo de servicios médicos por la población nacional e internacional, generando mayores inversiones y empleos para el Estado, impulsando la capacidad actual y futura de la infraestructura médica del Estado; aprovechando las ventajas competitivas, los costos de los servicios médicos más atractivos, y la capacidad de ofrecer servicios complementarios de turismo como hoteles de categoría turística, servicios personalizados anteriores y posteriores al procedimiento médico.
+###### Artículo 41.
 
-### Capítulo I. De la Prestación de Servicios Turísticos
+Los juzgados de Primera Instancia que conozcan de lo familiar u oral familiar serán competentes para los asuntos siguientes:
 
-### Capítulo II. De los Turistas
+I. Los actos prejudiciales y de jurisdicción voluntaria;
 
-## TITULO SEPTIMO. DE LA PRESTACION DE SERVICIOS TURISTICOS; Y LOS TURISTAS
+II. Los que tengan por objeto acciones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, curatela, adopción, divorcio, ausencia y presunción de muerte, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen;
 
-### Capítulo I. De la Promoción y Difusión
+III. Los interdictos sobre posesión del estado civil, para que se mantenga o restituya en ella a quien la disfrute;
 
-###### ARTICULO 63.
+IV. Los relativos al régimen de bienes en el matrimonio, al patrimonio de familia, al parentesco, a los alimentos, a la paternidad y maternidad, a la patria potestad, a la interdicción, a la capacidad de la persona y a cualesquiera otra acción del estado civil, inclusive las derivadas del parentesco, de la patria potestad, del estado de interdicción, de la tutela, de la curatela, de la ausencia y de la presunción de muerte;
 
-Toda persona tiene derecho a disfrutar del turismo como una expresión del crecimiento sostenido de su tiempo libre, descanso y esparcimiento. Las autoridades fortalecerán y facilitarán el cumplimiento de este derecho, así como su observancia en la formulación, ejecución, evaluación y vigilancia de los planes, programas y acciones públicas en las materias de la ley; en la prestación de servicios turísticos, las relaciones entre quien los proporcione y quien los reciba, se observarán las disposiciones legales aplicables, sin que para ello existan discriminaciones de raza, sexo, credo político o religioso, nacionalidad o condición social.
+V. Las reconvenciones, pero únicamente de aquellas que versen sobre cuestiones de las que les corresponda conocer conforme a las disposiciones de este artículo;
 
-###### ARTICULO 64.
+VI. Los exhortos, suplicatorias, requisitorias o despachos, relacionados con el Derecho Familiar;
 
-Las relaciones entre los prestadores de servicios turísticos y el turista se regirán por lo que las partes convengan, observándose la presente Ley, la Ley Federal de Protección al Consumidor, y las demás disposiciones que resulten aplicables.
+VII. Los que afecten los derechos de menores, incapacitados y en general, de los que se refieran a cuestiones familiares que reclamen la intervención judicial; y,
 
-###### ARTICULO 65.
+VIII. Los demás que ésta u otras leyes no se reserven a los juzgados menores o comunales.
 
-Los requisitos para ser prestador de servicios se fijarán en el Reglamento de esta Ley, atendiendo a los siguientes principios:
+## Título Sexto. Órganos Internos
 
-I. No deberán constituir barreras a la entrada de nuevos participantes en la prestación de estos servicios en razón de profesión o de capital, y
+### Capítulo Tercero. Juzgados Especializados en Justicia Penal para Adolescentes
 
-II. Sólo se establecerán garantías a cargo de los prestadores de servicios turísticos, cuando sea necesario asegurar su debida operación con objeto de proteger al turista. Las garantías que se fijen no deberán constituir una carga económica excesiva para el prestador, y serán establecidas a juicio de la Secretaría y de acuerdo a cada caso particular.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
-###### ARTICULO 66.
+###### Artículo 42.
 
-Los prestadores de servicios turísticos tendrán los siguientes derechos:
+Los juzgados de primera instancia que conozcan de materia mercantil serán competentes para los siguientes asuntos:
 
-I. Conocer los planes y programas elaborados por la Secretaría, con el propósito de incrementar y fomentar el turismo;
+I. Los juicios ejecutivos;
 
-II. Ser incluidos en los programas y acciones de promoción y difusión turística que realice la Secretaría, siempre y cuando cumplan con la presente Ley y su Reglamento;
+II. Los juicios ordinarios;
 
-III. Solicitar y recibir de la Secretaría, capacitación y asesoramiento técnico destinado al mejoramiento de los servicios turísticos, de acuerdo con los planes y programas elaborados por está, y
+III. Los procedimientos judiciales de ejecución de garantías otorgados mediante prenda sin trasmisión de posesión y del fideicomiso de garantía;
 
-IV. Los demás que se señalen por esta Ley y su reglamento.
+IV. El reconocimiento y ejecución de laudos arbitrales;
 
-###### ARTICULO 67.
+V. Los medios preparatorios de juicio;
 
-Son obligaciones de los prestadores de servicios turísticos:
+VI. Las providencias precautorias;
 
-I. Aquellas señaladas en la Ley General, por lo que se refiere a la actividad turística realizada en el territorio estatal;
+VII. Los incidentes que deriven de asuntos mercantiles;
 
-II. Proporcionar a los turistas información clara, cierta y detallada respecto de las características, precios, tarifas y promociones de los servicios turísticos, así como las condiciones de su comercialización;
+VIII. Las reconvenciones;
 
-III. Contar con medidas de seguridad informáticas necesarias para realizar la contratación de sus servicios turísticos, cuando se realice por medios cibernéticos;
+IX. Las tercerías; y,
 
-IV. Proporcionar en los términos contratados, los bienes y servicios que se ofrezcan al turista;
+X Los demás asuntos mercantiles de jurisdicción concurrente.
 
-V. Respetar los precios y tarifas registrados ante la dependencia normativa;
+Lo anterior, siempre y cuando no sean competencia en atención a la cuantía de los juzgados menores y comunales.
 
-VI. Expedir copia detallada de los consumos realizados;
+###### Artículo 43.
 
-VII. Respetar las reservaciones que hagan los usuarios, en los términos y condiciones que hayan sido contratadas;
+En oralidad mercantil, los juzgados de Primera Instancia que conozcan de ésta serán competentes para los siguientes asuntos:
 
-VIII. Capacitar a su personal;
+I. Los juicios orales;
 
-IX. Cumplir con las disposiciones que le sean aplicables de acuerdo a la normatividad aplicable al servicio y a la del sector;
+II. Las reconvenciones, tercerías e incidentes que deriven de estos; y,
 
-X. Proporcionar a la Secretaría datos e información estadística que ésta le solicite, en relación con la actividad turística;
+III. Los demás asuntos mercantiles que determine el Consejo.
 
-XI. Realizar su publicidad sin alteración o falseamiento de los hechos históricos, o las manifestaciones de la cultura;
+###### Artículo 44.
 
-XII. Emplear destacadamente el idioma nacional en las leyendas en que anuncien al público su razón social, denominación o los servicios que prestan, sin perjuicio del uso de otros idiomas;
+Los juzgados de Primera Instancia que conozcan de la materia penal serán competentes para todos los delitos que no correspondan a los juzgados menores o comunales, así como de los recursos y demás diligencias que les encomiende la normatividad procesal penal aplicable.
 
-XIII. Tener en cada establecimiento, a la vista del público, los reglamentos interiores aprobados por las autoridades competentes;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XIV. Velar por los intereses y seguridad de los turistas;
+###### Artículo 44 Bis.
 
-XV. Mantener en las mejores condiciones de higiene y eficacia los locales, instalaciones y equipos que se ofrezcan al turista, de conformidad con la legislación aplicable;
+Los juzgados de primera instancia especializados en materia laboral, conocerán de todos aquellos conflictos que el artículo 123, apartado A, fracción XXXI, de la Constitución Política de los Estados Unidos Mexicanos, que (sic) no tenga reservados como competencia del Poder Judicial de la Federación.
 
-XVI. Proporcionar la información que les soliciten las autoridades competentes, en todo lo relativo a los servicios que presten;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XVII. Cuando presten servicios relacionados con el turismo de aventura o cualquier otra actividad cuya práctica represente algún riesgo para la integridad física de sus usuarios, deberán contar con personal calificado y capacitado, así como proporcionar al usuario el equipo adecuado conforme a las normas oficiales vigentes, y
+###### Artículo 44 Ter.
 
-XVIII. Las demás que les señalen esta Ley, su Reglamento, y demás leyes aplicables en el Estado.
+Los Juzgados de primera instancia especializados en materia laboral, se integrarán con un juez, un secretario instructor y los secretarios.
 
-### Capítulo II. Del Fideicomiso para el Desarrollo del Turismo
+Así como los empleados que estime conveniente el Consejo, conforme a la Ley Federal de Trabajo y de acuerdo a su capacidad presupuestal.
 
-###### ARTICULO 68.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-Los turistas, con independencia de los derechos que les asisten como consumidores, tendrán en los términos previstos en esta Ley, los siguientes derechos:
+###### Artículo 44 Quater.
 
-I. No ser discriminado en la realización de las actividades y servicios turísticos;
+El número de juzgados especializados en materia laboral, así como su competencia territorial, será determinada por el Consejo según la necesidad y capacidad presupuestal disponible.
 
-II. Recibir información útil, precisa, veraz y detallada, con carácter previo, sobre todas y cada una de las condiciones de prestación de los servicios turísticos y, en su caso, el precio de los servicios;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
 
-III. Obtener los bienes y servicios turísticos en las condiciones contratadas;
+###### Artículo 44 Quinquies.
 
-IV. Obtener los documentos que acrediten los términos de su contratación, y en cualquier caso, las correspondientes facturas o comprobantes fiscales legalmente emitidas;
+Las Funciones del Secretario Instructor serán dentro de la fase escrita del procedimiento y hasta antes de la Audiencia Preliminar, dictando los siguientes acuerdos:
 
-V. Recibir del prestador de servicios turísticos, los bienes y servicios de calidad acordes con la naturaleza y cantidad de la categoría que ostente el establecimiento elegido;
+I. Admitir o prevenir la demanda y en su caso subsanarla conforme a las normas del trabajo;
 
-VI. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente;
+II. Ordenar la notificación del demandado;
 
-VII. Formular quejas y denuncias de la prestación de los servicios turísticos, y
+III. Ordenar las vistas, traslados y notificaciones;
 
-VIII. Los demás derechos reconocidos por las disposiciones federales y del Estado, aplicables a la materia.
+IV. Admitir y en su caso proveer respecto de las pruebas ofrecidas para acreditar las excepciones y defensas;
 
-###### ARTICULO 69.
+V. Dictar las providencias precautorias contempladas en la Ley; y,
 
-Se consideran obligaciones de los turistas:
+VI. Las demás que el Juez ordené, así como las contempladas en la Ley Federal del Trabajo.
 
-I. Observar las normas de higiene y convivencia social para la adecuada utilización de los servicios y el patrimonio turístico;
+###### Artículo 45.
 
-II. Abstenerse de cometer cualquier acto contrario a lo establecido en las leyes y reglamentos, así como propiciar conductas que puedan ser ofensivas o discriminatorias contra cualquier persona o comunidad;
+Los juzgados de Primera Instancia, excepto los del sistema penal acusatorio y oral, se integran por:
 
-III. Respetar los reglamentos de uso y régimen interior de los servicios turísticos;
+I. Un Juez;
 
-IV. Efectuar el pago de los servicios prestados en el momento de la presentación de la factura o, en su caso, en el tiempo y lugar convenidos, sin que el hecho de presentar una reclamación o, queja exima del citado pago;
+II. Secretario de Acuerdos;
 
-V. Respetar el entorno natural y cultural de los sitios en que realice sus actividades turísticas; y
+III. Secretario Proyectista;
 
-VI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+IV. Actuario;
 
-## TITULO OCTAVO. DE LA PROMOCION Y DIFUSION DE LA ACTIVIDAD TURISTICA; Y DEL FIDEICOMISO PARA EL DESARROLLO DEL TURISMO
+V. Escribiente; y,
 
-### Capítulo I. De la Integración del Consejo Consultivo Estatal
+VI. El demás personal que permita el presupuesto.
 
-###### ARTICULO 70.
+El Secretario de Acuerdos, el Secretario Proyectista y el Actuario de Juzgado tendrán, en lo conducente, las mismas facultades y obligaciones que su homólogo de una Sala.
 
-La promoción y difusión turística se realizará con bases técnicas que permitan incrementar la captación del turismo.
+### Capítulo Cuarto. Juzgados Menores
 
-###### ARTICULO 71.
+###### Artículo 46.
 
-La Secretaría promoverá con la participación de las instituciones involucradas, la realización de festivales, exposiciones, ferias turísticas, eventos deportivos, artísticos, culturales y los demás que se orienten a la difusión de los atractivos y destinos turísticos.
+En el sistema penal acusatorio y oral, habrá:
 
-###### ARTICULO 72.
+I. Tribunal de alzada;
 
-En los eventos que señala el artículo anterior, procurará que se otorguen reconocimientos a los prestadores de servicios turísticos que se destaquen por su interés, creatividad, inversión, atención y promoción de la actividad turística en el Estado, y por la calidad de sus servicios, de acuerdo a la convocatoria que para el efecto se expida.
+II. Juez de Control;
 
-###### ARTICULO 73.
+III. Tribunal de enjuiciamiento;
 
-La promoción y difusión de atractivos y servicios turísticos que ofrezca el Estado, se realizará en coordinación con los fideicomisos de promoción turística y las oficinas que se encuentren vinculadas con el sector.
+IV. Juez de Ejecución de Sanciones; y,
 
-###### ARTICULO 74.
+V. Director de Gestión del Sistema de Justicia Penal acusatorio y oral.
 
-Cuando se trate de inversiones en el sector turístico, la Secretaría podrá, en apego a las disposiciones legales que correspondan, proponer al titular del Ejecutivo del Estado, otorgue incentivos fiscales para la inversión turística en la Entidad.
+###### Artículo 47.
 
-###### ARTICULO 75.
+Son atribuciones del Juez de Control:
 
-Corresponde a la Secretaría la promoción turística del Estado, en el ámbito local, nacional, e internacional.
+I. Resolver sobre la aplicación, suspensión, modificación, sustitución o cancelación de las medidas cautelares de carácter real o personal que les sean solicitados por quien esté legitimado para ello;
 
-###### ARTICULO 76.
+II. Presidir las audiencias que legalmente le corresponda y asumir las decisiones atinentes al caso;
 
-Los municipios deberán promover la actividad turística en su demarcación territorial, en el marco del Programa Sectorial y de los programas municipales.
+III. Sustanciar y resolver los medios de impugnación que la ley prevé;
 
-En el caso de la promoción internacional, ésta se llevará a cabo en coordinación con las autoridades federales en la materia.
+IV. Acordar, sustanciar y decidir las solicitudes de suspensión condicional del proceso;
 
-###### ARTICULO 77.
+V. Resolver lo conducente respecto a los acuerdos asumidos en justicia alternativa y restaurativa;
 
-La Secretaría expedirá los lineamientos técnicos para el diseño y la producción de las campañas publicitarias del turismo del Estado.
+VI. Ordenar la incorporación de personas intervinientes en el proceso penal al programa de protección que establece la ley;
 
-###### ARTICULO 78.
+VII. Instruir, sustanciar y decidir el procedimiento abreviado;
 
-La marca turística del Estado, así como las de las regiones, centro, huasteca, altiplano, y media, son elementos gráficos que identifican a la Entidad como destino turístico en el ámbito local, nacional, e internacional.
+VIII. Calificar y asumir la decisión que corresponda en los casos de detención en flagrancia o caso urgente;
 
-La Secretaría promoverá el uso de las marcas turísticas en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
+IX. Vigilar que se respeten los derechos constitucionales del inculpado y de la víctima u ofendido;
 
-###### ARTICULO 79.
+X. Admitir de los recursos en particular; y,
 
-En la promoción turística y material promocional que edite la Secretaría, se dará preferencia a aquellos prestadores de servicios turísticos que:
+XI. Las demás que le asignen las leyes o reglamentos.
 
-I. En sus productos, servicios e instalaciones, así como en sus materiales gráficos y audiovisuales, utilicen las marcas turísticas del Estado, y
+###### Artículo 48.
 
-II. Cooperen periódicamente con la información estadística solicitada, de acuerdo al giro de su establecimiento.
+Son atribuciones del Tribunal de enjuiciamiento:
 
-###### ARTICULO 80.
+I. Desahogar la audiencia del juicio oral desde el momento en que se declare legalmente instalado el Tribunal, hasta aquél en que el presidente declare cerrados los debates y se proceda a la fase de deliberación;
 
-La promoción turística que realice la Secretaría deberá ser nacional e internacional, y comprenderá, entre otras, las siguientes actividades, estrategias y acciones:
+II. Deliberar para determinar si se encuentra probado el hecho, si se considera o no probada la responsabilidad del acusado; la determinación de la sanción aplicable y, en su caso, la reparación del daño;
 
-I. La participación de la Secretaría y de los prestadores de servicios turísticos en eventos, congresos y exposiciones turísticas nacionales e internacionales;
+III. Emitir el fallo correspondiente;
 
-II. La publicación y distribución de libros, revistas, folletos y otros materiales audiovisuales o electrónicos, dedicados a la difusión de los atractivos turísticos, el patrimonio turístico, las categorías del turismo y los servicios turísticos del Estado, a nivel nacional e internacional;
+IV. Desahogar la audiencia en la que sean leídos los puntos resolutivos de la sentencia y dicha resolución sea explicada por el presidente del Tribunal de enjuiciamiento;
 
-III. El apoyo a los eventos que de manera anual organice la Secretaría para la promoción del Estado;
+V. Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a ellos y a los demás intervinientes de la audiencia, corrigiendo en el acto las faltas que se cometieren; y
 
-IV. La promoción del Estado como destino para la inversión turística entre inversionistas nacionales y extranjeros;
+VI. Las demás que le asignen las leyes o reglamentos.
 
-V. Programas de certificación; y promoverá la excelencia en la gestión de los hoteles y restaurantes cuyos estándares de servicio y características arquitectónicas y gastronómicas, reflejen y promuevan la riqueza de la cultura mexicana;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2017)</small>
 
-VI. La difusión de las marcas, imagen y servicios turísticos, así como los atractivos turísticos del Estado, en medios de comunicación masiva, y
+A. Son atribuciones del Presidente del Tribunal de enjuiciamiento:
 
-VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva para incrementar la imagen, los flujos turísticos, la estadía y el gasto de los turistas en el Estado.
+I. Verificar que se haya citado oportunamente a las partes e intervinientes a la audiencia de debate;
 
-###### ARTICULO 81.
+II. Verificar la presencia de los demás jueces, de las partes, de los testigos, peritos o intérpretes que deban participar en el debate, así como la existencia de los objetos y documentos que deban exhibirse en él;
 
-La Secretaría determinará el sitio de internet oficial del Estado, para la información y promoción turística estatal. La dirección electrónica del sitio de internet deberá aparecer en todos los materiales de promoción y oficiales de la Secretaría, para garantizar la uniformidad y confiabilidad de la información.
+III. Declarar abierta la audiencia de debate advirtiendo al inculpado y al público sobre la importancia del significado de lo que en ella va a ocurrir;
 
-### Capítulo II. De las Atribuciones del Consejo Consultivo Estatal
+IV. Presidir el debate en todo su desarrollo y, en su caso, decretar los recesos que correspondan;
 
-###### ARTICULO 82.
+V. Decretar los recesos de la audiencia del juicio oral indicando la fecha y hora en que continuará el debate;
 
-El Fideicomiso Público de Inversión y Administración para el Desarrollo del Turismo en el Estado, tiene como función primordial implementar, asesorar y financiar los planes, programas y acciones de promoción turística del Estado.
+VI. Emitir de manera verbal, fundada y motivada las decisiones indispensables para el correcto desahogo de la audiencia de debate;
 
-###### ARTICULO 83.
+VII. Dirigir el debate y ordenar las lecturas pertinentes, hacer las advertencias que correspondan, exigir las ratificaciones solemnes y moderar la discusión en audiencia de debate;
 
-Son finalidades del Fideicomiso:
+VIII. Ordenar la suspensión de la audiencia del debate cuando las circunstancias así lo justifiquen;
 
-I. Contribuir a la realización oportuna y eficaz de los programas de promoción turística de la Secretaría, con la anticipación que requieren las campañas, temporadas y eventos turísticos;
+IX. Ordenar la detención del inculpado y levantar el acta respectiva en los casos en que durante la audiencia de debate se cometa algún delito;
 
-II. Implementar programas para promover, fomentar y mejorar la actividad turística y la imagen del Estado, a través de la elaboración y difusión de campañas de promoción y publicidad nacional e internacional;
+X. Presidir la deliberación;
 
-III. Evaluar la viabilidad de los proyectos antes de que se sometan a la consideración de su Comité Técnico;
+XI. Impedir intervenciones y derivaciones impertinentes que no conduzcan al esclarecimiento de la verdad en el desahogo de la audiencia de debate;
 
-IV. Apoyar a la Secretaría en el desarrollo de los programas para promocionar, fomentar y mejorar la actividad turística estatal, a través de la elaboración y difusión de campañas de promoción y publicidad turística nacional e internacional;
+XII. Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a él y a los demás intervinientes de la audiencia, corrigiendo en el acto las faltas que se cometieren;
 
-V. Llevar registros contables periódicos de las operaciones celebradas, observando la normatividad vigente en la materia;
+XIII. Aplicar los medios de apremio autorizados por la ley;
 
-VI. Atender las auditorías de organismos gubernamentales y privados facultados para ello;
+XIV. Leer los resolutivos y explicar la sentencia en la audiencia respectiva;
 
-VII. Emitir estados financieros e informes de actividades, y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-VIII. En general, todas aquellas que permitan la realización de sus finalidades.
+XV. Instruir los recursos que se promuevan en contra de la sentencia pronunciada en la audiencia del juicio oral;
 
-## TITULO NOVENO. DEL CONSEJO CONSULTIVO ESTATAL; Y LOS CONSEJOS CONSULTIVOS REGIONALES MUNICIPALES
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2017)</small>
 
-### Capítulo III. De la Integración de los Consejos Consultivos Regionales Municipales
+XVI. Remitir los registros de las causas penales donde la sentencia no sea impugnada a la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial, para que conozca de los mismos respecto de la responsabilidad oficial; y,
 
-###### ARTICULO 84.
+XVII. Las demás que le asignen las leyes o reglamentos.
 
-El Consejo Consultivo Estatal es un órgano auxiliar del titular del Ejecutivo, y tendrá a su cargo el estudio y discusión de los servicios de turismo de la Entidad, y recomendar las acciones conducentes para su prestación.
+El Presidente del Tribunal de enjuiciamiento será asignado de entre los tres jueces que integren dicho tribunal de forma sucesiva por cada audiencia por la Dirección de Gestión del Sistema de Justicia Penal Acusatorio y Oral.
 
-###### ARTICULO 85.
+B. Son atribuciones del relator:
 
-El Consejo estará integrado de la siguiente manera:
+I. Asentar los elementos necesarios para la elaboración de la resolución correspondiente;
 
-I. El Secretario de Turismo, quien lo presidirá, y contará con sus vocales que serán los representantes del sector involucrado, así como de autoridades, todos tendrán voz y voto; serán:
+II. Dar cuenta a los integrantes del tribunal de los elementos asentados para la deliberación; y,
 
-a) El representante de la Cámara de Comercio del Estado.
+III. Elaborar el testimonio escrito de la resolución de forma sucinta.
 
-b) El representante de la Asociación de Hoteles y Moteles en el Estado.
+El Relator del tribunal de juicio oral será asignado de entre los tres jueces que integren dicho tribunal de forma sucesiva por cada audiencia por la Dirección de Gestión del Sistema de Justicia Penal Acusatorio y Oral.
 
-c) El representante de los restauranteros y alimentos condimentados en el Estado.
+###### Artículo 49.
 
-d) El Secretario de Comunicaciones y Transportes.
+En cada región judicial habrá el número de jueces de ejecución que determine el Consejo, acorde a su presupuesto.
 
-e) El Secretario de Educación.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
-f) El Secretario de Desarrollo Urbano, Vivienda y Obras Públicas.
+### Capítulo Quinto. Juzgados Comunales
 
-g) El Secretario de Ecología y Gestión Ambiental.
+###### Artículo 50.
 
-h) El Secretario de Seguridad Pública.
+Al Juez de ejecución le corresponde vigilar y garantizar jurisdiccionalmente el estricto cumplimiento de las normas que regulan la ejecución de las penas y medidas de seguridad en materia penal tanto de adultos como de adolescentes.
 
-i) El Secretario de Cultura de San Luis Potosí.
+###### Artículo 51.
 
-j) El Secretario de Desarrollo Agropecuario y Recursos Hidráulicos.
+Son atribuciones de los jueces de ejecución las siguientes:
 
-k) El Secretario de Desarrollo Social y Regional.
+I. Garantizar el efectivo cumplimiento de las sanciones penales, sean o no privativas de la libertad y de la prisión preventiva;
 
-l) El Director de la Junta Estatal de Caminos.
+II. Controlar la aplicación de los sustitutivos de prisión impuestos por el Juez competente y resolver sobre la adecuación de la pena de prisión y, en su caso, sobre la libertad condicional;
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2017)</small>
+III. Hacer efectivas las multas y cauciones impuestas en la sentencia;
 
-m) El director del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí.
+IV. Resolver las controversias que se susciten entre autoridades y personas internas;
 
-n) El Director General de Protección Civil Estatal.
+V. Declarar la extinción de las sanciones sean o no privativas de la libertad, y medidas de seguridad en los términos previstos por el código penal aplicable;
 
-ñ) El Delegado de la Secretaría de la Reforma Agraria.
+VI. Conocer y resolver los incidentes y recursos previstos en la ley, o los que se regulen en otras disposiciones jurídicas de la materia;
 
-o) El Delegado de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+VII. Resolver sobre las propuestas de otorgamiento de la libertad condicional que formule el titular de la Subsecretaría de Prevención y Reinserción Social del Estado;
 
-p) El Delegado de la Comisión Nacional del Agua.
+VIII. Resolver sobre las solicitudes de rehabilitación de derechos, funciones o empleo, en los términos del código penal aplicable y la ley;
 
-q) El Delegado de la Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-r) El Delegado de la Financiera Rural.
+IX. Dar fe de sus propias actuaciones, como la tienen los jueces de control de garantías y de juicio oral, en los términos de la normatividad adjetiva aplicable;
 
-s) El Delegado del Instituto Nacional de Antropología e Historia;
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2017)</small>
 
-II. Un secretario técnico, que será el Secretario de Desarrollo Económico, quien asistirá a las sesiones del Consejo, con voz y voto;
+X. Remitir los expedientes de ejecución del sistema penal tradicional o los registros de las carpetas de ejecución del sistema acusatorio y oral que resuelvan de manera definitiva, de conformidad con la Ley aplicable, que no hayan sido recurridas, a la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial, para que conozca de los mismos respecto de la responsabilidad oficial; y,
 
-III. El director general o su equivalente del área de la Secretaría, según el tema que se trate en la sesión;
+XI. Las demás que les encomienden las disposiciones normativas aplicables.
 
-Los cargos de este Consejo serán honoríficos, por lo que las personas que los desempeñen no devengarán compensación alguna.
+Para los efectos de este artículo el Juez de ejecución podrá solicitar la colaboración necesaria de cualquier autoridad.
 
-Por cada integrante del Consejo Consultivo Estatal, se nombrará un suplente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2017)</small>
 
-### Capítulo IV. De las Funciones de los Consejos Consultivos
+###### Artículo 52.
 
-###### ARTICULO 86.
+La administración de los juzgados y tribunales de enjuiciamiento en materia penal tanto de adultos como de adolescentes, así como de ejecución de sanciones, estará a cargo de la Dirección de Gestión del Sistema de Justicia Penal Acusatorio y Oral, cuya función esencial será planificar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión que permita desarrollar con efectividad en todo el territorio del Estado, el sistema de justicia de que se trate, la cual tendrá las atribuciones siguientes:
 
-El Consejo tendrá las siguientes atribuciones:
+I. Dirigir los trabajos y supervisar el desempeño del personal de apoyo;
 
-I. Analizar permanentemente las condiciones del servicio de los prestadores, recomendando y validando los programas y acciones de carácter técnico y financiero, para mejorar la prestación del servicio;
+II. Vigilar la correcta y eficiente aplicación de los recursos asignados al sistema de gestión; y,
 
-II. Proponer al titular del Ejecutivo del Estado, programas y acciones de carácter técnico y financiero convenientes para mejorar la prestación de los servicios turísticos en la Entidad;
+III. Las demás que le asignen las leyes o reglamentos.
 
-III. Llevar un registro de los principales indicadores y estadísticas en materia del servicio de turismo;
+###### Artículo 53.
 
-IV. Establecer mecanismos de coordinación, comunicación e intercambio de Información, con entidades públicas y privadas relacionadas con el servicio turístico en el Estado;
+Para cumplir sus funciones, la Dirección de Gestión del Sistema de Justicia Penal Acusatorio y Oral contará con administradores de sala y el personal de apoyo que el Consejo le asigne, atendiendo a las necesidades del servicio y a las posibilidades presupuestales.
 
-V. Opinar sobre la elaboración del Programa Sectorial de Turismo;
+Para efectos de este artículo, se entenderá por sala el espacio físico, los recursos materiales y humanos necesarios para la celebración de las audiencias de ley.
 
-VI. Conocer las opiniones y recomendaciones de los Consejos Consultivos Regionales Municipales, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo, y
+El administrador de sala se encargará de organizar lo necesario para las audiencias, de tal forma que el día de la misma se cuente con todos los elementos para que esta se desarrolle debidamente.
 
-VII. Vigilar la aplicación de los métodos de control y evaluación del servicio.
+### Capítulo Único. Del Centro Estatal de Justicia Alternativa y sus Unidades de Atención
 
-###### ARTICULO 87.
+###### Artículo 54.
 
-El Presidente del Consejo tendrá las siguientes atribuciones:
+Cuando en un mismo distrito se establezcan dos o más tribunales de Primera Instancia, cada uno de ellos, si tienen competencia penal, estará de turno durante dos semanas para conocer de las causas que se presenten en ese lapso.
 
-I. Representar legalmente al Consejo;
+Cuando tengan competencia para conocer de asuntos civiles, familiares o mercantiles, las demandas se les distribuirán equitativamente, siguiendo el orden de su presentación.
 
-II. Convocar a reunión a sus integrantes;
+Para estos efectos, tendrán una oficina común que recibirá las consignaciones o las demandas; las registrará por orden numérico riguroso y las turnará de inmediato al tribunal que corresponda.
 
-III. Proponer el orden del día de las sesiones, y
+El mismo turno existirá para la diligencia de exhortos y para conocer de los asuntos que por excusa, recusación o incompetencia provengan de otro tribunal.
 
-IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo.
+###### Artículo 55.
 
-### Capítulo I. De la Verificación
+Corresponde a los juzgados de primera instancia del sistema tradicional, además de las señaladas por el artículo 89 de la Constitución, las obligaciones siguientes:
 
-###### ARTICULO 88.
+I. Conocer y resolver los asuntos de su competencia; y
 
-Se integrarán los consejos consultivos regionales municipales que conocerán de los aspectos técnicos y económicos, inherentes al servicio de turismo en todas sus modalidades, con el fin de emitir a las autoridades las opiniones correspondientes en dicha materia.
+II. Cumplir y hacer que el personal bajo su mando, cumpla con sus facultades y obligaciones.
 
-###### ARTICULO 89.
+###### Artículo 56.
 
-El Consejo Consultivo Regional Municipal se integrará de la siguiente forma:
+Los jueces de primera instancia deberán someterse para su ingreso a concurso de oposición de conformidad con lo establecido en esta ley, durarán en su encargo tres años y sólo podrán ser removidos en los términos de la normatividad aplicable.
 
-I. Un Presidente que será designado por los presidentes municipales involucrados en el Consejo Consultivo Regional Municipal;
+### Capítulo Primero. Disposiciones Generales
 
-II. Un secretario técnico, que será designado por los presidentes municipales involucrados en el Consejo Consultivo Regional Municipal;
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
 
-III. El director o representante de turismo municipal, designado por los presidentes municipales involucrados en el Consejo Consultivo Regional;
+###### Artículo 57.
 
-IV. El delegado regional de la Secretaría, o la persona que éste designe;
+El Juez, en caso de retiro forzoso, tendrá derecho al haber por retiro señalado por la Constitución, en los mismos términos que los magistrados, teniendo como referencia el sueldo neto que obtengan los jueces en activo.
 
-V. Un representante por cada una de las cámaras de la industria, comercio, y servicios, constituidas en la región, y
+###### Artículo 58.
 
-VI. Un representante de las instituciones educativas de la región.
+La justicia especializada para adolescentes contará con:
 
-A invitación expresa del Presidente podrán participar en las sesiones del Consejo, los representantes de los sectores públicos y privados, estatales y municipales, y las personas que por su experiencia y conocimientos puedan aportar importante colaboración al desarrollo de los trabajos del Consejo.
+I. Tribunal de alzada;
 
-En caso de ausencia del Presidente del Consejo, será el secretario técnico quien ejerza las atribuciones que le correspondan a aquél. El resto de los miembros del Consejo designarán a su suplente, quien fungirá como titular en caso de ausencia de éste, y deberán estar legalmente acreditados en los registros de la secretaria técnica del Consejo.
+II. Juez de Control; y,
 
-Los consejos consultivos regionales, a través de su representante, se coordinarán con la Secretaría para formular opiniones y propuestas respecto a cualquier problema en esta materia, en la región o municipio que corresponda.
+III. Tribunal de enjuiciamiento.
 
-### Capítulo II. De las Infracciones y Sanciones
+Tendrán la competencia que señala la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
-###### ARTICULO 90.
+Su número, denominaciones y circunscripciones territoriales las determinará el Consejo, acorde a las posibilidades presupuestales.
 
-El Consejo Consultivo Estatal, y los consejos consultivos regionales municipales, tendrán las siguientes funciones:
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
-I. Analizar permanentemente las condiciones del servicio de turismo en todas sus modalidades, en el ámbito estatal, regional y municipal, proponiendo programas, estudios y acciones de carácter técnico y financiero para mejorar la prestación;
+###### Artículo 59.
 
-II. Conocer, analizar y emitir la opinión que al efecto le solicite la Secretaría, para el otorgamiento de nuevos centros turísticos;
+Las funciones para los jueces de control y Tribunal de enjuiciamiento unitario, serán las mismas que las establecidas para el sistema penal acusatorio y oral, establecidas en los artículos 47 y 48 de esta misma Ley, aplicando las reglas especiales para adolescentes que marca la Ley de la materia.
 
-III. Promover entre los prestadores de servicios turísticos fórmulas económicas y administrativas, que garanticen la calidad, accesibilidad, rentabilidad, eficiencia y seguridad en la prestación de dicho servicio;
+### Capítulo Segundo. Atribuciones del Consejo
 
-IV. Promover entre la población la cultura de los servicios turísticos en la región y municipio;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
-V. Promover ante las instancias correspondientes, los programas y acciones que tengan como fin la creación, ampliación o modificación de los servicios turísticos, para impulsar la seguridad y eficiencia del mismo, en el ámbito de su jurisdicción;
+###### Artículo 60.
 
-VI. Proponer métodos de control y evaluación del servicio;
+(DEROGADO, P.O. 4 DE MAYO DE 2017)
 
-VII. Conocer y llevar a través del secretario técnico, un registro de los indicadores y estadísticas en materia del servicio de turismo regional y municipal, correspondiente a sus respectivos territorios;
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
 
-VIII. Promover mecanismos de coordinación, comunicación e intercambio de información con las entidades públicas y privadas relacionadas con el servicio turístico, y
+###### Artículo 61.
 
-IX. Las demás que procedan conforme a la normatividad vigente.
+Remitir los registros de las causas penales, de las sentencias no impugnadas, a la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial, para que conozca de los mismos respecto de la responsabilidad oficial.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
+### Capítulo Tercero. Presidente del Consejo
+
+###### Artículo 62.
+
+Los jueces de control y de Tribunal de enjuiciamiento en justicia penal para adolescentes deberán cumplir con requisitos suficientes de especialización en la materia, conforme a los criterios de formación que establezca el Consejo, además de los señalados por la Constitución y esta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
+### Capítulo Cuarto. Comisiones del Consejo
+
+### Capítulo Quinto. Comisión de Administración
+
+## Título Séptimo. Procedimientos
+
+### Capítulo Sexto. Comisión de Carrera Judicial
+
+###### Artículo 63.
+
+Los jueces de control y de Tribunal de enjuiciamiento en justicia penal para adolescentes deberán someterse para su ingreso a concurso de oposición de conformidad con lo establecido en esta ley y el reglamento específico, durarán en su encargo tres años y solo podrán ser removidos en los términos de la normatividad aplicable.
+
+###### Artículo 64.
+
+En cada distrito judicial habrá el número de juzgados menores que determine el Consejo, de acuerdo a las posibilidades presupuestarias.
+
+Los juzgados menores estarán a cargo de un Juez con título de Licenciado en Derecho que percibirá sueldo por su cargo.
+
+Tendrá competencia en cuanto al territorio en todo el Distrito Judicial a que correspondan y residirán en la cabecera de éste.
+
+###### Artículo 65.
+
+Los juzgados menores tendrán competencia para conocer y resolver:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. En materia civil, los juicios civiles cuya cuantía no exceda de mil veces el valor diario de la Unidad de Medida y Actualización. Se exceptúan las cuestiones del orden familiar, propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, de los posesorios, de los interdictos y los que versen sobre estado y condición de las personas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. En materia mercantil, de los juicios mercantiles cuya cuantía no exceda de mil veces el valor diario de la Unidad de Medida y Actualización; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. En materia penal del sistema tradicional, de los delitos que tengan como sanción apercibimiento; caución de no ofender; pena alternativa; multa, cuando ésta no exceda del importe de cien veces el valor diario de la Unidad de Medida y Actualización vigente en el momento y lugar en que se cometió el delito; prisión, cuando ésta no exceda de tres años, excepto de los delitos de rebelión, motín o conspiración. Además de la diligencia de exhortos, requisitorias o despachos que reciban y sean de su competencia; y, de los demás asuntos que les encomienden las leyes.
+
+###### Artículo 66.
+
+Los jueces menores deberán someterse para su ingreso a concurso de oposición de conformidad con lo establecido en esta ley y el reglamento específico; durarán en su encargo tres años.
+
+###### Artículo 67.
+
+El Consejo del Poder Judicial podrá ratificarlos por periodos iguales, previo dictamen de evaluación de su desempeño, tomando en consideración además los siguientes elementos:
+
+I. Los resultados de las visitas de inspección;
+
+II. Los cursos de actualización y especialización acreditados de manera fehaciente, durante los últimos tres años;
+
+III. Las sanciones que en su caso se le hubieren impuesto; y,
+
+IV. Los demás que el Consejo estime pertinentes.
+
+### Capítulo Séptimo. Comisión de Vigilancia y Disciplina
+
+###### Artículo 68.
+
+Los juzgados menores contarán con el personal siguiente:
+
+I. Un Juez; y,
+
+II. Los demás servidores públicos que determine el Consejo, conforme a las posibilidades presupuestarias.
+
+Estos últimos servidores públicos tendrán, en lo conducente, las mismas facultades y obligaciones que sus homólogos de un Juzgado de Primera Instancia.
+
+###### Artículo 69.
+
+El Consejo determinará el establecimiento de juzgados comunales, su extensión territorial y límites; en los municipios con población indígena, atendiendo a la composición pluricultural del Estado.
+
+## Título Octavo. Personal del Poder Judicial
+
+### Capítulo Primero. Personal del Poder Judicial
+
+###### Artículo 127.
+
+Para ser servidor público del Poder Judicial, se requiere:
+
+I. Ser mexicano en ejercicio de sus derechos; y
+
+II. No haber sido condenado por delito doloso en sentencia ejecutoriada.
+
+###### Artículo 128.
+
+El personal de carrera judicial, el de justicia alternativa y restaurativa y el de gestión del Sistema de Justicia Penal acusatorio y oral, debe contar con cédula profesional afín a las funciones que desempeñe.
+
+Los servidores públicos del Poder Judicial estarán impedidos para pertenecer a grupos o asociaciones que pudieren generar un conflicto de interés en sus funciones. Sí podrán asociarse con sus pares.
+
+Los servidores públicos del Poder Judicial deberán presentar declaración patrimonial según lo disponga la ley en la materia.
+
+###### Artículo 129.
+
+Los secretarios, actuarios, y oficiales del Poder Judicial tendrán fe pública en el ejercicio de sus cargos y podrán requerir el auxilio de la fuerza pública para hacer cumplir las determinaciones judiciales.
+
+###### Artículo 130.
+
+Las diligencias que hayan de practicarse fuera de las oficinas de los juzgados se harán por los jueces, secretarios o actuarios que se comisionen al efecto.
+
+###### Artículo 131.
+
+Los nombramientos que expidan las autoridades del Poder Judicial no podrán recaer en sus cónyuges, parientes consanguíneos en línea recta sin limitación de grados, colaterales dentro del cuarto grado y afines dentro del segundo.
+
+###### Artículo 132.
+
+Para que un servidor público del Poder Judicial pueda abandonar la residencia del Tribunal o dependencia a que esté adscrito o dejar de desempeñar en horario de trabajo las funciones o las labores a su cargo, deberá obtener la licencia correspondiente, de lo contrario será sujeto a lo que dispongan las leyes respectivas.
+
+###### Artículo 133.
+
+El abandono de empleo consiste en la inasistencia a las labores por más de tres días consecutivos sin causa justificada. Deberá hacerse constar en acta circunstanciada e iniciarse el procedimiento respectivo.
+
+###### Artículo 134.
+
+Los magistrados, jueces y titulares de cualquier dependencia del Poder Judicial serán responsables de que los empleados desempeñen sus labores con eficiencia, orden y compostura otorgando a quienes se distingan en sus observancias notas laudatorias, notificando al Consejo para su incorporación a la hoja de servicio.
+
+En el caso de incurrir en falta, notificarán a la Comisión de Vigilancia y Disciplina.
+
+###### Artículo 135.
+
+Los servidores públicos recibirán y entregarán las oficinas por inventario, levantando acta por cuadruplicado que firmarán los entrantes y salientes, con el secretario si lo tuvieren. En ellas se especificará la entrega de expedientes, libros, mobiliario, valores y demás objetos.
+
+Un ejemplar se conservará en el archivo de la dependencia de que se trate, otro deberá remitirse a la Secretaría Ejecutiva del Consejo, otro a la Contraloría Interna y el último se dará a la persona que sea substituida.
+
+###### Artículo 136.
+
+El servidor público del Poder Judicial que sea declarado formalmente preso o vinculado a proceso penal, será suspendido en el ejercicio de su cargo por el Consejo. Si la sentencia firme fuera absolutoria, el servidor público podrá presentarse a reanudar sus labores dentro de los tres días hábiles siguientes al en que aquella cause ejecutoria; sin perjuicio de los emolumentos que debió haber percibido durante el periodo, si no lo hace, o si la sentencia fuera condenatoria, cesarán definitivamente los efectos de su nombramiento.
+
+###### Artículo 137.
+
+Los jueces del Estado, al quedar firmes las sentencias mencionadas en el artículo anterior, darán aviso de ello al Consejo, siempre que tengan conocimiento de que el sentenciado es servidor público del Poder Judicial.
+
+###### Artículo 138.
+
+La falta de este aviso no exime al servidor público suspendido de la obligación de presentarse a reanudar sus labores en los términos que señala esta ley.
+
+### Capítulo Segundo. Ausencias, Licencias, Sustituciones y Renuncias
+
+###### Artículo 139.
+
+Son ausencias accidentales cuando el servidor público, por causa de fuerza mayor o caso fortuito, no acude a su trabajo sin licencia previa.
+
+###### Artículo 140.
+
+Son ausencias temporales, las motivadas por licencia, suspensión de empleo, vacaciones e incapacidad por gravidez o enfermedad.
+
+###### Artículo 141.
+
+Son ausencias definitivas, las originadas por renuncia, abandono de empleo, destitución, muerte, retiro, jubilación o pensión.
+
+###### Artículo 142.
+
+Todo servidor público que deba ausentarse temporalmente deberá contar con licencia otorgada en los términos de este capítulo. En toda solicitud de licencia deberán expresarse por escrito las razones que la motivan.
+
+###### Artículo 143.
+
+Para que una solicitud de licencia proceda, quien la solicita deberá tener, por lo menos, seis meses ininterrumpidos de servicio.
+
+###### Artículo 144.
+
+Las licencias serán sin goce de sueldo y sólo podrán ser concedidas hasta por seis meses, y comprenderán siempre el cargo y la adscripción.
+
+Las licencias se podrán prorrogar cuando se acredite, previo a su vencimiento, que sigue vigente la causa que la motivó.
+
+Las licencias que se otorguen al personal sindicalizado, se sujetarán a las condiciones generales de trabajo.
+
+###### Artículo 145.
+
+El Consejo otorgará hasta dos licencias en un año y que en su conjunto no sumen más de seis meses, salvo lo dispuesto en el artículo anterior.
+
+Toda licencia deberá concederse por escrito, en la que se hará constar la calificación de las razones aducidas en la solicitud.
+
+###### Artículo 146.
+
+Concluido el plazo de una licencia, si el interesado no se presenta al desempeño de sus labores en los siguientes tres días, quedará sin efecto su nombramiento.
+
+###### Artículo 147.
+
+Las licencias de magistrados, jueces y consejeros que no excedan de quince días, serán concedidas por el Presidente del Supremo Tribunal de Justicia o del Consejo, según el caso.
+
+La autorización a que se refiere este artículo no será concedida al mismo tiempo a más de tres magistrados, salvo cuando resulte imprescindible que un número mayor de dichos servidores públicos tenga que ausentarse para desempeñar alguna comisión relacionada con sus funciones.
+
+###### Artículo 148.
+
+Las licencias de los Magistrados y Consejeros, cuando excedan de quince días, pero no de noventa, serán acordadas por el Pleno del Supremo Tribunal de Justicia o del Consejo, según el caso, y quedará encargado del despacho el Secretario de Acuerdos que cumpla con los requisitos, o en su caso, quien el Consejo determine.
+
+###### Artículo 149.
+
+Las licencias de los demás servidores públicos del Poder Judicial que no excedan de diez días hábiles en el transcurso de un año, podrán ser concedidas con goce de sueldo, por el titular del órgano jurisdiccional o de la dependencia que corresponda, dando aviso a la Secretaría de Administración. Las que excedan de diez días serán acordadas por el Consejo sin goce de sueldo.
+
+###### Artículo 150.
+
+Concluida la licencia de un Magistrado y este no se reintegre, sin causa justificada, se declarará vacante la sala y el Consejo informará de inmediato al Congreso para que haga una nueva elección. El Magistrado que sea electo ejercerá el cargo hasta concluir el periodo constitucional respectivo.
+
+Igual procedimiento seguirá el Consejo tratándose de uno de sus miembros.
+
+###### Artículo 151.
+
+Los Magistrados, en sus ausencias accidentales, serán suplidos por los secretarios de acuerdos, quienes continuarán con la tramitación de los asuntos, incluyendo la audiencia final o la citación para sentencia, no así para resolver cuestiones incidentales o definitivas, salvo la concesión de libertad provisional bajo caución y cualquier otro trámite que repercuta directamente sobre la libertad del procesado.
+
+Para las ausencias temporales de los Magistrados que excedan de quince días el Presidente del Supremo Tribunal de Justicia, acordará la distribución de los asuntos entre los Magistrados del ramo.
+
+En el sistema penal acusatorio y oral, la ausencia accidental de un Magistrado será suplida por el Magistrado siguiente en número.
+
+###### Artículo 152.
+
+Cuando algún servidor público, con excepción de Magistrados y Consejeros, sea designado o electo para ocupar otro cargo público de la Federación, del Estado o del Municipio que no sea de base, tendrá derecho a que el Consejo le conceda licencia sin goce de sueldo por el tiempo que dure el nuevo nombramiento, siempre que no sea mayor al de su nombramiento en el Poder Judicial.
+
+En el caso de Magistrado o Consejero la licencia será concedida por el Congreso en términos de la Constitución.
+
+Cuando a algún servidor público se le designe o elija para ocupar otro cargo dentro del propio Poder Judicial que no sea de base, se le concederá la licencia correspondiente.
+
+###### Artículo 153.
+
+Las ausencias del Presidente del Supremo Tribunal de Justicia, se suplirán de acuerdo a las reglas siguientes:
+
+I. Por el Presidente sustituto electo por el Pleno, si la ausencia fuere menor a noventa días o siendo mayor por causa razonablemente justificada; si fuere mayor a ese término sin causa justificada, el Pleno nombrará a un nuevo Presidente para que ocupe el cargo hasta el fin del periodo;
+
+II. Cuando en las ausencias temporales y en las causas de impedimento del Presidente del Supremo Tribunal de Justicia falte también el Presidente sustituto, será suplido por el Magistrado de mayor antigüedad en el Tribunal y si hubiere dos o más con la misma antigüedad, el que tenga mayor tiempo en el servicio dentro del Poder Judicial;
+
+III. Quien supla al Presidente del Supremo Tribunal de Justicia también lo suplirá en su carácter de Presidente del Consejo; y,
+
+IV. El Presidente sustituto continuará adscrito a su Sala.
+
+###### Artículo 154.
+
+Las ausencias accidentales y temporales hasta por seis meses de los siguientes servidores públicos, se suplirán de acuerdo a las reglas siguientes:
+
+I. Las del Secretario General de Acuerdos del Supremo Tribunal; por quien cumpliendo los requisitos designe el Presidente del Supremo Tribunal de Justicia;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+II. Las del Juez, en el sistema tradicional penal y en los juzgados civiles y laborales por el secretario de Acuerdos; y en los que hubiere dos o más, por el de mayor antigüedad en el servicio; en tanto que en el sistema penal acusatorio y oral lo será el que designe el Consejo;
+
+III. Las del Secretario de Acuerdos y del Actuario de Sala, por el Oficial de la misma;
+
+IV. Las del Oficial de Sala, por el Escribiente que determine el Magistrado;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+V. Las del secretario, por otro de ellos si hubiere dos o más; si sólo hubiere uno, por el actuario; y, a falta de éste, por uno de los escribientes con mayor antigüedad en el servicio. La suplencia del secretario instructor se hará en los mismos términos señalados en esta fracción.
+
+VI. Las del actuario y notificador en el sistema tradicional, por el escribiente de mayor antigüedad; y,
+
+VII. Las de los demás servidores públicos del Poder Judicial, por quien designe el Consejo.
+
+###### Artículo 155.
+
+Si el Secretario que sustituye al Juez es Licenciado en Derecho, podrá ser autorizado por el Consejo para dictar resoluciones incidentales y también aquellas que pongan fin a la instancia.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En el caso de que el secretario no sea Licenciado en Derecho, sólo podrá ser autorizado para dictar resoluciones que pongan fin a la instancia en los casos de desistimiento, perdón del ofendido o de su representante legítimo y cuando el Ministerio Público formule conclusiones no acusatorias, en el sistema penal tradicional, juzgados civiles, familiares y laborales.
+
+El Secretario actuará con otro de igual categoría, si lo hubiere; con el Actuario y a falta de éstos, con al menos dos testigos de asistencia.
+
+###### Artículo 156.
+
+Las renuncias de los magistrados y consejeros se presentarán ante el Congreso para que resuelva lo conducente. Las de los jueces y servidores públicos del Poder Judicial se presentarán ante el Consejo, el que calificará y resolverá lo procedente.
+
+### Capítulo Tercero. Impedimentos
+
+###### Artículo 157.
+
+Los magistrados, jueces y consejeros están impedidos para conocer y resolver por las causas siguientes:
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
+
+II. Tener amistad íntima o enemistad manifiesta con alguno de los interesados, sus representantes, patronos o defensores;
+
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes, en los grados que expresa la fracción I de este artículo;
+
+IV. Haber presentado querella o denuncia el servidor público, su cónyuge o sus parientes, en los grados que expresa la fracción I, en contra de alguno de los interesados;
+
+V. Tener pendiente el servidor público, su cónyuge o sus parientes, en los grados que expresa la fracción I de este artículo, un juicio contra alguno de los interesados o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
+
+VI. Haber sido procesado el servidor público, su cónyuge o parientes, en los grados expresados en la misma fracción I, en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes, patronos o defensores;
+
+VII. Estar pendiente de resolución un asunto que hubiese promovido como particular, semejante a aquél que le es sometido para su conocimiento o tenerlo su cónyuge o sus parientes en los grados expresados en la fracción I, de este artículo;
+
+VIII. Tener interés personal en el asunto donde alguno de los interesados sea Juez, árbitro o arbitrador;
+
+IX. Asistir, durante la tramitación del asunto, a convite que le diere o costeare alguno de los interesados, tener mucha familiaridad o vivir en familia con alguno de ellos;
+
+X. Aceptar presentes o servicios de alguno de los interesados;
+
+XI. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes, patronos o defensores, o amenazar de cualquier modo a alguno de ellos;
+
+XII. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
+
+XIII. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
+
+XIV. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XV. Ser cónyuge o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
+
+XVI. Haber sido Juez o Magistrado en el mismo asunto, en otra instancia;
+
+XVII. Haber sido Agente del Ministerio Público, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados; y,
+
+XVIII. Cualquier otra análoga a las anteriores.
+
+### Capítulo Cuarto. Vacaciones y Días Inhábiles
+
+###### Artículo 158.
+
+Corresponde al Consejo a propuesta de la Comisión de Administración, establecer el horario de trabajo, el calendario anual de labores y los periodos vacacionales de los servidores públicos, de acuerdo al Reglamento respectivo.
+
+###### Artículo 159.
+
+Los servidores públicos disfrutarán de dos períodos de vacaciones al año, de diez días hábiles cada uno, los cuales serán determinados por acuerdo del Consejo.
+
+###### Artículo 160.
+
+Al determinar los períodos vacacionales, se tomarán las medidas necesarias para que en los tribunales que tramiten asuntos penales no se suspendan totalmente las labores y en ninguno se deje de atender los negocios urgentes.
+
+###### Artículo 161.
+
+Las labores se suspenderán los sábados y domingos, los días de descanso que señalen las leyes y los que determine el Consejo.
+
+El Consejo dictará los acuerdos necesarios para que no se suspendan las diligencias que se hayan decretado, así como para que se practiquen aquellas en que hubiere causa urgente que las exija.
+
+### Capítulo Octavo. Secretarios del Consejo
+
+###### Artículo 70.
+
+Los jueces comunales, dentro de su jurisdicción civil, tendrán competencia para conocer y resolver de:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+l. Juicios civiles cuya cuantía no exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización. Se exceptúan las cuestiones de propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, de los posesorios, de los interdictos y los que versan sobre estado y condición de las personas;
+
+II. Diligencias de consignación, incluso las de pensión alimenticia; y,
+
+III. Mediación y conciliación de conflictos en materia civil siempre que la cuantía de los mismos no exceda de lo señalado en la fracción I de este artículo.
+
+###### Artículo 71.
+
+Los jueces comunales, dentro de su jurisdicción familiar, tendrán competencia para conocer y resolver de:
+
+I. Matrimonios celebrados conforme a los usos y costumbres de las comunidades en donde ejerzan su jurisdicción, así como de la disolución de los mismos;
+
+II. Diligencias para suplir la autorización de quienes ejerzan la patria potestad de los menores para contraer matrimonio y, en su caso, para otorgar dispensa de edad;
+
+III. Separación de personas como acto prejudicial;
+
+IV. Custodia, educación y cuidado de los hijos;
+
+V. Diligencias de jurisdicción voluntaria, para acreditar el concubinato y dependencia económica;
+
+VI. Requerimiento del cónyuge para su reincorporación al domicilio conyugal;
+
+VII. Preliminares de consignación, atendiendo al monto señalado en la fracción I del artículo anterior y a las obligaciones periódicas; y,
+
+VIII. Mediación y conciliación de conflictos en materia familiar, siempre que se trate de asuntos en los que tengan competencia.
+
+###### Artículo 72.
+
+Los jueces comunales, dentro de su jurisdicción mercantil, tendrán competencia para conocer y resolver:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+l. De los juicios mercantiles cuya cuantía no exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización; y,
+
+II. De la mediación y conciliación de conflictos en materia mercantil que no excedan de lo señalado en la fracción anterior.
+
+###### Artículo 73.
+
+Los jueces comunales, dentro de su jurisdicción penal, tendrán competencia para conocer y resolver de los delitos que tengan como sanción:
+
+I. Amonestación y Apercibimiento;
+
+II. Caución de no ofender;
+
+III. Pena alternativa;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Multa, cuando ésta no exceda del importe de cien veces el valor diario de la Unidad de Medida y Actualización vigente en el momento y lugar en que se cometió el delito; y,
+
+V. Prisión, cuando ésta no exceda de un año.
+
+El Juez comunal podrá intervenir en el proceso conciliatorio previo a la querella, tratándose de delitos que se persigan a petición de la parte ofendida, y de aquellos en que los interesados decidan someterse a la conciliación siempre y cuando no se trate de los que la ley califique como graves o se afecte sensiblemente a la sociedad. El Juez comunal deberá procurar la conciliación entre el ofendido y el inculpado en cualquier etapa del proceso, hasta antes de pronunciar el fallo, de la diligencia de exhortos, requisitorias o despachos que reciban y sean de competencia; y de los demás asuntos que les encomienden las leyes.
+
+###### Artículo 74.
+
+Los jueces comunales resolverán en única instancia los conflictos que surjan entre personas pertenecientes a esas comunidades, aplicando sus usos, costumbres, tradiciones y prácticas jurídicas cuando haya aceptación expresa de las partes, salvaguardando los derechos fundamentales que establecen las constituciones federal y estatal, y las leyes que de ellas emanen.
+
+###### Artículo 75.
+
+Además de los requisitos establecidos en el artículo 91 de la Constitución, los jueces comunales deberán cumplir los siguientes:
+
+I. Saber leer y escribir;
+
+II. Acreditar el dominio de la lengua indígena correspondiente a la región de que se trate; y,
+
+III. Aprobar el concurso de oposición de conformidad con lo establecido en esta ley y en el reglamento respectivo.
+
+###### Artículo 76.
+
+Los jueces comunales durarán en su encargo tres años. El Consejo podrá ratificarlos por periodos iguales, previo dictamen de evaluación de su desempeño. Para la ratificación de los jueces comunales, el Consejo tomará en consideración, además, los siguientes elementos;
+
+I. Los resultados de las visitas de inspección;
+
+II. Los cursos de actualización y especialización acreditados, durante los últimos tres años;
+
+III. No haber sido sancionado por falta que haya ameritado suspensión en el cargo, con motivo de una queja de carácter administrativo; y,
+
+IV. Los demás que el Consejo estime pertinentes.
+
+###### Artículo 77.
+
+Los juzgados comunales contarán con el personal siguiente:
+
+I. Un Juez; y,
+
+II. Los demás servidores públicos que determine el Consejo, conforme a las posibilidades presupuestarias.
+
+Estos últimos servidores públicos tendrán, en lo conducente, las mismas facultades y obligaciones que sus homólogos de un Juzgado de Primera Instancia.
+
+###### Artículo 78.
+
+El Centro Estatal de Justicia Alternativa, es un órgano dependiente del Poder Judicial, que tiene como su principal función la de proporcionar los servicios de mecanismos alternativos, para la solución de controversias y conflictos, de manera gratuita.
+
+###### Artículo 79.
+
+El Centro Estatal de Justicia Alternativa tendrá las atribuciones siguientes:
+
+I. Prestar los servicios de información y orientación gratuita sobre los mecanismos alternativos; y,
+
+II. Intervenir, mediante los mecanismos alternativos en las controversias que le planteen directamente los particulares, o las que le remitan los órganos jurisdiccionales.
+
+###### Artículo 80.
+
+El Centro Estatal, estará integrado por:
+
+I. Un director;
+
+II. Seis coordinadores regionales; y,
+
+III. Facilitadores, en el número que el Consejo determine, de acuerdo a las necesidades y a las posibilidades presupuestales.
+
+El director, los coordinadores regionales y facilitadores, serán designados de acuerdo a esta ley y a la normatividad aplicable.
+
+###### Artículo 81.
+
+El Centro Estatal de Justicia Alternativa estará a cargo de un director, mismo que será propuesto por el Presidente, mediante una terna, al Consejo quien lo designará. Durará en su encargo tres años.
+
+### Capítulo Primero. Instituto de la Judicatura
+
+###### Artículo 105.
+
+El Instituto de la Judicatura como auxiliar de la Comisión de Carrera Judicial, estará a cargo de un Director nombrado por el Consejo y tendrá como atribuciones las siguientes:
+
+I. Capacitar, especializar, actualizar y formar a los servidores públicos del Poder Judicial;
+
+II. Compilar, sistematizar y publicar la jurisprudencia;
+
+III. Realizar investigación y capacitar sobre temas jurídicos relacionados con la función jurisdiccional, derecho positivo, doctrina y jurisprudencia;
+
+IV. Reforzar el conocimiento práctico de los procesos jurisdiccionales, desarrollando habilidades y técnicas de análisis, argumentación e interpretación que permitan mejorar la actuación jurisdiccional;
+
+V. Convocar a congresos, cursos, diplomados, seminarios, para los servidores públicos y público en general;
+
+VI. Proponer la firma de convenios con instituciones docentes, de investigación y capacitación, para proyectos conjuntos;
+
+VII. Editar, publicar y difundir la actividad de desarrollo e investigación jurídica del Poder Judicial;
+
+VIII. La conservación del acervo bibliográfico y del archivo histórico; y,
+
+IX. Las demás que el Consejo, la Comisión y el reglamento le señalen.
+
+###### Artículo 106.
+
+La organización y funcionamiento del Archivo Histórico dependerá del Instituto de la Judicatura; y, le corresponderá la conservación de los documentos que de acuerdo con la ley de la materia, tengan un interés para el Estado por haberse asentado en éstos un precedente judicial con valor histórico.
+
+###### Artículo 82.
+
+Son requisitos para ser director o coordinador regional:
+
+I. Ser de nacionalidad mexicana;
+
+II. No haber sido condenado por delito doloso;
+
+III. Contar con título profesional preferentemente de licenciado en derecho;
+
+IV. Ser mayor de edad, en pleno ejercicio de sus derechos;
+
+V. Contar con una experiencia mínima de tres años en el ejercicio de su profesión;
+
+VI. Contar con conocimientos y reconocimientos en justicia alternativa y procesos restaurativos; y,
+
+VII. No haber sido Magistrado o Consejero del Poder Judicial dentro de los cinco años previos al de su designación.
+
+###### Artículo 83.
+
+El Centro Estatal de Justicia Alternativa prestará sus servicios conforme a sus posibilidades presupuestarias.
+
+## Título Noveno. Responsabilidades de los Servidores Públicos del Poder Judicial
+
+### Capítulo Primero. Sujetos
+
+###### Artículo 162.
+
+Los Magistrados y los Consejeros podrán ser privados de su encargo en los términos del Título Cuarto de la Constitución.
+
+###### Artículo 163.
+
+El Pleno o el Consejo según el caso, informarán al Congreso inmediatamente cuando conozca de hechos fundados que puedan constituir causa de responsabilidad que amerite la destitución de un Consejero o Magistrado y le allegará los elementos que fundamenten y motiven su informe.
+
+###### Artículo 164.
+
+Los demás servidores públicos serán responsables en los términos de esta ley y de la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios.
+
+El Consejo conocerá y resolverá imponiendo, en su caso, las sanciones correspondientes a los servidores públicos, cuando incurran en causas de responsabilidad, dando vista al Ministerio Público en caso de probable delito.
+
+### Capítulo Segundo. Causas de Responsabilidad
+
+###### Artículo 165.
+
+Son causas de responsabilidad de los servidores públicos del Poder Judicial, las faltas siguientes:
+
+I. Solicitar o recibir por sí o por interpósita persona dinero, valores, servicios o cualquier otra dádiva o aceptar una promesa para hacer u omitir algo lícito o ilícito relacionado con sus funciones;
+
+II. Dirigir, asesorar o aconsejar a las personas en todos los negocios judiciales;
+
+III. No ordenar oportunamente la libertad de los detenidos, cuando ésta haya sido decretada conforme a la ley;
+
+IV. Dilatar maliciosamente los emplazamientos, notificaciones, embargos o diligencias de cualquier clase que les fueren encomendadas;
+
+V. Embargar o asegurar bienes de persona o corporación que no sea la designada en el auto respectivo, si en el momento de la diligencia se les demuestra que esos bienes son de tercero; o ejecutar, maliciosamente, lanzamiento de persona o corporación distinta a la señalada en el mandamiento correspondiente;
+
+VI. Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial;
+
+VII. Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+
+VIII. Desempeñar otros cargos para los que estén impedidos con arreglo a la ley, o realizar actividades docentes o administrativas en las horas de labores; y
+
+IX. Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, tráfico de influencia o cualquier acción que genere o implique subordinación.
+
+Tratándose de magistrados y consejeros deberá darse vista al Congreso.
+
+###### Artículo 166.
+
+Serán causa de sanción en los términos de esta ley, en función de su gravedad, las siguientes faltas:
+
+I. Demorar indebidamente el despacho de los negocios o las labores propias de sus cargos;
+
+II. Dictar resoluciones o trámites innecesarios que sólo tiendan a dilatar el procedimiento;
+
+III. Demorar injustificadamente el envío de los autos o testimonios para el trámite de los recursos de apelación y de queja;
+
+IV. Decretar un embargo o su ampliación sin que se reúnan los requisitos legales;
+
+V. Hacer a las partes, por cédula o instructivo, emplazamientos, notificaciones o citaciones fuera del lugar designado en autos; o no cerciorarse, en el caso de los emplazamientos, de que el interesado vive en la casa donde se practique la diligencia;
+
+VI. No excusarse de conocer negocios para los cuales tengan impedimento legal;
+
+VII. Abandonar la residencia de la Sala o del Juzgado al que esté adscrito, o dejar de desempeñar las funciones o las labores que tenga a su cargo, sin la autorización respectiva o sin causa justificada;
+
+VIII. No asistir a sus labores, llegar tarde a las oficinas respectivas o ausentarse de ellas durante el horario de trabajo, sin causa justificada;
+
+IX. Revelar indebidamente información proveniente de los asuntos que se tramitan en el Poder Judicial;
+
+X. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento o sobre el que eventualmente deba conocer;
+
+XI. Impedir o entorpecer en los procedimientos judiciales que las partes ejerzan los derechos que la ley les asigne;
+
+XII. No asentar oportunamente en autos las certificaciones que procedan de oficio o por mandato judicial;
+
+XIII. Desobedecer las resoluciones u órdenes legítimas de sus superiores; no atenderlas con la debida oportunidad, o no guardar respeto a aquéllos en el ejercicio de sus funciones;
+
+XIV. No dar cuenta, dentro del término legal, con las promociones y documentos dirigidos a su superior;
+
+XV. No informar a sus inmediatos superiores de las faltas que cometan los empleados subalternos en el desempeño de su cargo;
+
+XVI. No permitir el examen de los expedientes, sin causa justificada, a las personas que puedan consultarlos con arreglo a la ley;
+
+XVII. No Informar al Consejo de las faltas de sus subalternos, cuando sean de su conocimiento;
+
+XVIII. Intervenir en los resultados de los concursos de oposición y ejercer presión sobre el Consejo para que el nombramiento recaiga en persona determinada; y,
+
+XIX. Las demás que determine la ley.
+
+### Capítulo Tercero. Sanciones
+
+###### Artículo 167.
+
+Las sanciones aplicables a los servidores públicos del Poder Judicial serán las establecidas en la ley estatal en materia de responsabilidades de los servidores públicos.
+
+###### Artículo 168.
+
+Las sanciones previstas en esta ley se aplicarán con independencia de las sanciones penales que pudieran resultar, para lo cual cuando el Consejo aprecie la realización de un tipo penal dará vista al Ministerio Público; salvo que éstos se imputen a Magistrados, en cuyo caso se estará a lo dispuesto por el artículo 105 de la Constitución.
+
+###### Artículo 169.
+
+Con independencia de si la queja o denuncia da o no lugar a una sanción, la Comisión de Vigilancia y Disciplina dictará las providencias oportunas para la corrección inmediata del hecho que dio origen a la queja o denuncia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 170.
+
+Si el Consejo determina que la imputación fue interpuesta con dolo, se impondrá al quejoso, su representante o ambos, una multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de interponerse la queja.
+
+###### Artículo 171.
+
+Siempre que se impongan sanciones, se informará por escrito al área administrativa para los efectos correspondientes.
+
+###### Artículo 172.
+
+Las sanciones serán impuestas por el Consejo y ejecutadas por quien este determine de conformidad con la ley estatal en materia de responsabilidades de los servidores públicos.
+
+###### Artículo 173.
+
+Las sanciones serán recurribles en los términos de la ley estatal en materia de responsabilidades de los servidores públicos.
+
+###### Artículo 174.
+
+Las multas impuestas por los órganos jurisdiccionales y administrativos del Poder Judicial, se considerarán créditos fiscales y se harán efectivas a través de la autoridad hacendaria del Estado sin perjuicio de que estimarse pertinente se de vista con lo actuado al ministerio público, el importe de las multas ingresará al Fondo Auxiliar para la Administración de Justicia.
+
+### Capítulo Cuarto. Procedimiento Administrativo de Responsabilidad
+
+###### Artículo 175.
+
+Los magistrados y consejeros sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución.
+
+También se procederá en los términos del párrafo anterior cuando los propios servidores públicos violen lo previsto en el artículo 77 constitucional, imponiéndose además como sanción la pérdida de las prestaciones y beneficios que les correspondan y las señaladas por la comisión de delitos contra la administración de la justicia.
+
+###### Artículo 176.
+
+El procedimiento para determinar las responsabilidades de los servidores públicos del Poder Judicial se regirá por lo dispuesto en la ley estatal en materia de responsabilidades de los servidores públicos y, en todo lo que no se oponga, por lo dispuesto en esta ley.
+
+Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+
+###### Artículo 177.
+
+El Consejo, tratándose de faltas de los servidores públicos, a excepción de magistrados y consejeros será competente para conocer de las responsabilidades y aplicar las sanciones a que se refiere en esta ley.
+
+###### Artículo 178.
+
+Toda queja deberá dirigirse al Presidente del Consejo, en donde se registrará la fecha y hora de recepción, así como los documentos que se anexen.
+
+Se dará cuenta de la misma a la Comisión de Vigilancia y Disciplina dentro del término de tres días hábiles siguientes al de su recepción.
+
+###### Artículo 179.
+
+La queja deberá ir acompañada de elementos probatorios suficientes para establecer la existencia de la falta administrativa y la responsabilidad del servidor público de que se trate, de lo contrario, el Consejo la declarará infundada.
+
+###### Artículo 180.
+
+Las quejas deberán contener los requisitos siguientes;
+
+I. Señalar domicilio para oír y recibir notificaciones en el lugar sede del Consejo, y en su caso, el nombre de la persona o personas autorizadas para recibirlas. En caso de no señalar domicilio, cualquier notificación se correrá por lista que será publicada en estrados; y,
+
+II. Nombre y firma del quejoso. La falta de la firma del quejoso dará lugar a que se deseche de plano la queja, sin necesidad de requerimiento previo.
+
+###### Artículo 181.
+
+Tratándose de los documentos justificativos de los hechos materia de queja, los mismos se anexarán al escrito mediante el cual se formule, salvo que no se tengan a su disposición o por cualquier otra causa no se puedan aportar, en que se precisará la causa, para que de considerarse justificada se manden recabar por la comisión o se otorgue plazo para su exhibición previamente a la admisión de la queja.
+
+Asimismo, se deberá anexar al escrito de queja una copia fotostática legible a simple vista tanto del escrito de queja como de los documentos que se le anexen, para cada uno de los servidores públicos en contra de los cuales se formule, la que se entregará a éstos al hacerles saber la iniciación del procedimiento administrativo de responsabilidad y requerirles para que rindan su informe justificado una vez admitida la queja.
+
+###### Artículo 182.
+
+Una vez admitida la queja por la Comisión de Vigilancia y Disciplina se entregará una copia simple del auto respectivo, del escrito inicial y sus anexos a la persona señalada como responsable, en el domicilio de la dependencia en que trabaje o en el domicilio en que resida o en el lugar en que se encuentre y se le emplazará, para que en el plazo de cinco días hábiles contados a partir de la recepción de tales documentos, rinda su informe justificado.
+
+En dicho informe, los servidores públicos, deberán señalar domicilio para recibir notificaciones en el lugar sede del Consejo, y en su caso, el nombre de la persona o personas autorizadas para recibirlas; de no hacerlo, todas las notificaciones se le practicarán mediante la publicación de la lista de resoluciones pronunciadas, en los estrados, hasta en tanto se subsane esta omisión. De igual manera será para quienes omitan rendir en tiempo el informe a que se hace alusión.
+
+###### Artículo 183.
+
+Cuando la notificación se haga mediante la publicación de edicto, el plazo para la rendición del informe justificado será de treinta días naturales contados a partir del día siguiente al último de la publicación.
+
+###### Artículo 184.
+
+La Comisión de Vigilancia y Disciplina, tendrá las siguientes facultades:
+
+I. Desahogar y valorar todos los medios de prueba para determinar si existen elementos o no para iniciar procedimiento administrativo de responsabilidad;
+
+II. Asentar las certificaciones que se requieran en motivo del desahogo de las pruebas;
+
+III. Certificar las copias de los documentos que se requieran; y,
+
+IV. Proponer al Consejo:
+
+a) El desechamiento de la queja por ser infundada; y,
+
+b) La resolución del procedimiento de responsabilidad.
+
+###### Artículo 185.
+
+La Comisión podrá ordenar la práctica de todas aquellas actuaciones o diligencias para mejor proveer.
+
+###### Artículo 186.
+
+En los casos en que se encuentren en trámite varios procedimientos administrativos de responsabilidad en contra de una misma persona, una vez que se haga saber la iniciación de éstos se decretará su acumulación de oficio o a petición de parte del más reciente al más antiguo.
+
+Cuando alguno de los procedimientos acumulados quede en estado de resolución esta se suspenderá, hasta en tanto todos se encuentren en esta etapa, suspendiéndose para ello el término de los treinta días.
+
+La acumulación tendrá como finalidad, que cada procedimiento se siga en todas sus etapas procesales por separado, pero que todos se resuelvan en una misma sentencia.
+
+###### Artículo 187.
+
+Las resoluciones que se pronuncien dentro del procedimiento administrativo de responsabilidad, se notificarán a las partes personalmente, por instructivo o mediante la publicación de la lista de resoluciones pronunciadas, siguiéndose para tal efecto las formalidades previstas en el Código de Procedimientos Civiles para el Estado, por conducto del notificador del Consejo o de quienes tengan facultades para ello.
+
+###### Artículo 188.
+
+Cuando se reconozca la comisión de una falta administrativa y con motivo de la misma, se sustancie un procedimiento administrativo de responsabilidad, esta circunstancia se deberá tomar en cuenta en beneficio del servidor público en contra de quien se hubiere instruido, al determinar la sanción.
+
+### Capítulo Quinto. Excitativas de Justicia
+
+###### Artículo 189.
+
+El Pleno conocerá de las excitativas de justicia, las que tienen por objeto compeler a jueces y magistrados para que administren pronta y cumplida justicia, cuando hayan dejado transcurrir, sin causa justificada, los términos legales sin dictar las resoluciones que correspondan.
+
+En caso de una excitativa de justicia contra un Magistrado, éste se deberá excusar del conocimiento de la misma en Pleno.
+
+###### Artículo 190.
+
+Las excitativas de justicia contra jueces y Magistrados se promoverán por quien tenga interés jurídico en que se dicte la resolución o su representante legítimo, ante la presidencia del Pleno, de lo contrario, se desechará de plano.
+
+###### Artículo 191.
+
+El Presidente del Pleno pedirá informe con justificación a los servidores públicos de que se trate y les señalará un término que no excederá de cinco días hábiles para que lo rindan. La falta de informe establece la presunción de ser cierta la omisión motivo de la excitativa, y se sancionará conforme a lo dispuesto en esta Ley en materia de responsabilidad.
+
+Concluido el término para rendir el informe, el Presidente del Pleno dictará dentro de los tres días hábiles siguientes, proyecto de dictamen fundado y motivado, pudiendo practicar cualquier diligencia que considere pertinente para mejor proveer, quien dará cuenta al Pleno para su resolución.
+
+### Capítulo Segundo. Contraloría Interna
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
+###### Artículo 107.
+
+Para auxiliarse en las funciones de control administrativo, el Consejo contará con una Contraloría Interna que tendrá a su cargo la vigilancia control y evaluación administrativa del Poder Judicial. Igualmente llevará el registro y seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial. Corresponde a la Contraloría vigilar que la administración del presupuesto del Poder Judicial sea eficaz, honesta y ajustada a la normatividad aplicable, informando del resultado de las auditorías y revisiones que practique al Consejo.
+
+El Reglamento Interior determinará los procedimientos y demás atribuciones que le correspondan al Órgano Interno de Control.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2018)</small>
+
+###### Artículo 108.
+
+La Contraloría Interna coadyuvará con la Comisión de Vigilancia y Disciplina. El Contralor será designado por el Pleno del Consejo y ratificado por el Congreso con el voto de las dos terceras partes de los diputados presentes, durará en su encargo cinco años y no podrá ser reelecto, será removido en los términos y por las causas previstas en la Constitución y en la normatividad de la materia, estará adscrito administrativamente a la Presidencia y tendrá las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de la normativa administrativa por parte de los servidores públicos del Poder Judicial;
+
+II. Realizar auditorías sobre administración, finanzas, planeación y aplicación de la normatividad;
+
+III. Llevar el seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial a través de declaraciones patrimoniales obligatorias;
+
+IV. Participar en todos aquellos actos que en materia de contratación, adquisición y arrendamiento de bienes y servicios se establezcan en la normativa vigente;
+
+V. Verificar el cumplimiento de las normas y reglamentos en materia de contratación, pago y movimiento de personal, arrendamientos, enajenaciones, adquisiciones, conservación, uso y destino de los recursos;
+
+VI. Formular observaciones y recomendaciones con base a las auditorías al Consejo;
+
+VII. Realizar visitas de inspección y vigilancia; y,
+
+VIII. Las demás que le señalen las leyes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 23 DE JULIO DE 2018)</small>
+
+El Consejo realizará la evaluación de los aspirantes, integrará y enviará al Congreso la designación mediante el procedimiento siguiente:
+
+I. Publicará convocatoria abierta en el Periódico Oficial, en su portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
+
+II. Los nombres de los aspirantes registrados serán publicados en su portal de internet y en un diario de circulación estatal a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa formule y haga llegar al Consejo observaciones sobre los participantes, acompañando las pruebas que acrediten su dicho;
+
+III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Consejo, la cual consistirá en exámenes, escritos u orales sobre los aspectos relacionados con la materia del cargo a que aspira, considerando problemas y normativa;
+
+IV. El Consejo garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y,
+
+V. El Consejo remitirá al Congreso la designación, acompañada del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
+###### Artículo 109.
+
+Cuando derivado del ejercicio de las funciones de la Contraloría Interna, se presuma la existencia de responsabilidad, será sancionado de conformidad con la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+
+Artículo 109 bis. Para ser titular del Órgano de Control se deberán cumplir los siguientes requisitos:
+
+(NOTA: EL 30 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2018 Y SU ACUMULADA 69/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Ser mexicano POR NACIMIENTO, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener más de treinta años de edad, el día de la designación;
+
+III. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
+
+IV. No haber sido condenado por delito doloso;
+
+V. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
+
+VI. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación; y,
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación;
+
+###### Artículo 84.
+
+La administración, vigilancia y disciplina del Poder Judicial, está a cargo del Consejo, en los términos que establece la Constitución y esta Ley. El Consejo posee autonomía técnica y de gestión. El control sobre la fiscalización de los ingresos y egresos estará a cargo de la Contraloría Interna.
+
+###### Artículo 85.
+
+El Consejo se integra con cinco miembros, en los términos del artículo 67 de la Constitución. Dichos servidores públicos se denominan Consejeros.
+
+Las sesiones serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán al menos una vez al mes y las extraordinarias, cuando lo solicite la mayoría de sus integrantes o lo juzgue necesario el Presidente por la urgencia o gravedad de los asuntos.
+
+### Capítulo Tercero. Centro de Desarrollo de Tecnologías de Información y Comunicaciones
+
+###### Artículo 110.
+
+El Centro de Desarrollo de Tecnologías de Información y Comunicación, dependerá del Consejo, lo tendrá a su cargo la Comisión de Administración y su Director será nombrado por el Consejo a propuesta de su Presidente.
+
+###### Artículo 111.
+
+El CEDETIC tendrá a su cargo:
+
+I. La administración de los proyectos de tecnologías de información y comunicaciones;
+
+II. El respaldo digital de las audiencias y sesiones del Pleno, de los órganos jurisdiccionales y del Consejo;
+
+III. El sistema de asignación de causas y notificaciones;
+
+IV. El sistema de informática;
+
+V. El archivo judicial;
+
+VI. El mantenimiento de las redes y equipos de cómputo a fin de apoyar el desempeño eficiente de las actividades del Poder Judicial; y,
+
+VII. Las demás que los reglamentos y manuales le encomienden.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 112.
+
+En el Archivo Judicial se recopilará, administrará y respaldará digitalmente la información siguiente:
+
+I. Todos los expedientes y registros de los asuntos del orden civil, mercantil, familiar, laboral y penal concluido por las salas y juzgados;
+
+II. Los expedientes o registros en materia, civil, mercantil o familiar en los que se haya dejado de promover por más de noventa días;
+
+III. Los expedientes o registros en materia laboral en los que se haya dejado de promover por el término que establece la Ley Federal del Trabajo;
+
+IV. Un ejemplar de cada número del Diario Oficial de la Federación, del Periódico Oficial, así como de las leyes, decretos y reglamentos expedidos por las autoridades estatales; y,
+
+V. Los demás documentos que las leyes y el reglamento respectivo determinen.
+
+Esta información se regirá bajo los principios y condiciones señalados en la normatividad de acceso a la información pública y la comprendida en la normatividad en materia de archivos.
+
+El reglamento respectivo determinará la forma y términos de los registros, índices y libros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 113.
+
+Los expedientes o registros en papel depositados en el Archivo Judicial y que carezcan de valor histórico conforme a los criterios establecidos en la legislación en materia de archivos y el reglamento respectivo, por tratarse de juicios o procesos definitivamente concluidos, en materia laboral, civil, mercantil, familiar y penal, así como aquellos en que se hubiere desechado la demanda, se destruirán pasados seis meses a partir de que se haya determinado que carece de valor histórico. De esta información se mantendrá su respaldo digital.
+
+Los expedientes o registros de los juicios o procesos concluidos en papel, que no se encuentren en ninguno de los supuestos establecidos en la fracción anterior serán analizados por una comisión de especialistas, quienes realizarán un dictamen de cada expediente, en el que determinarán cuáles son susceptibles de ser destruidos, por carecer de valor histórico. De esta información se mantendrá su respaldo digital.
+
+###### Artículo 86.
+
+De los Consejeros uno es el Presidente del Supremo Tribunal de Justicia, quien lo preside; uno electo por el Congreso; uno designado por el Gobernador del Estado; un Magistrado y un Juez de Primera Instancia, ambos electos por sus pares. Los consejeros no podrán ser reelectos para el periodo inmediato siguiente.
+
+Los consejeros designados por sus pares magistrados o jueces, al término de su encargo regresarán a desempeñar su respectiva función jurisdiccional en los términos de su designación.
+
+###### Artículo 87.
+
+La elección del Consejero por sus pares Magistrados se hará en los siguientes términos:
+
+I. El Presidente del Supremo Tribunal de Justicia convocará a una sesión extraordinaria de Pleno para el único efecto de elección del Consejero;
+
+II. En la sesión extraordinaria los Magistrados Integrantes del Pleno elegirán, mediante votación secreta, al Consejero, por mayoría de votos de los presentes; y,
+
+III. El Pleno informará al Congreso el resultado de la elección.
+
+### Capítulo Cuarto. Central de Comunicaciones Procesales
+
+###### Artículo 114.
+
+A los actuarios y notificadores de salas y tribunales corresponde hacer los emplazamientos, notificaciones personales, citaciones y ejecutar las resoluciones que se les ordenen, en los asuntos de que conozcan las salas y tribunales; así como también los que sean de la competencia del Pleno; para tal efecto, las comisiones que correspondan a los actuarios se hará conforme a la asignación que realice la Central de Comunicaciones Procesales.
+
+Existirá una oficina de la Central de Comunicaciones Procesales cuyo funcionamiento se regirá por los reglamentos y manuales que al efecto se expidan.
+
+###### Artículo 88.
+
+La elección del Consejero por sus pares jueces de primera instancia se hará en los siguientes términos:
+
+I. El Consejo insaculará de entre los jueces de primera instancia a tres de ellos para que constituyan un Comité encargado del desarrollo del procedimiento. No podrá formar parte de este Comité quien pretenda ser electo Consejero y de salir insaculado deberá excusarse;
+
+II. El Consejo emitirá convocatoria para elegir Consejero, misma que será publicada por lo menos diez días previos a la elección en el Periódico Oficial y en el CEDETIC. La convocatoria señalará un plazo de tres días para el registro de aspirantes; así como el día y la hora en que se llevará a cabo la votación;
+
+III. Recibidas las solicitudes de registro de aspirantes, el Comité en los dos días siguientes calificará el cumplimiento de los requisitos constitucionales y notificará al interesado de su aceptación o rechazo. La lista de aspirantes registrados se publicará inmediatamente en el CEDETIC;
+
+IV. Queda prohibido a los aspirantes la realización de actividades tendientes a promover el voto a su favor por sí o por interpósita persona. El Comité al notificar la aceptación del registro apercibirá al aspirante de lo anterior y que, de resultar electo, no representa a quienes lo eligen;
+
+V. El voto será electrónico y a distancia, emitido a través del CEDETIC en la fecha y durante el tiempo que señale la convocatoria. El Comité garantizará la secrecía y seguridad del voto;
+
+VI. El voto será obligatorio y la elección será válida cuando en ella participen al menos las dos terceras partes de los jueces de primera instancia; y,
+
+VII. Cerrada la votación, el Comité realizará el cómputo de los votos y declarará en su caso válido el procedimiento; y electo al aspirante que haya recibido el mayor número de votos. Para el caso de empate el Comité convocará a una segunda votación, entre los mismos candidatos, que se celebrará al tercer día. De persistir el empate el Comité declarará ganador de entre los aspirantes que hayan empatado, a quien tenga mayor antigüedad como Juez.
+
+###### Artículo 89.
+
+Los Consejeros, con excepción del Presidente del Consejo, rendirán protesta ante el Congreso.
+
+Concluidos los procedimientos de elección o designación se notificará al Congreso, quien los convocará para este efecto. Rendida la protesta, el Congreso informará al Presidente del Consejo.
+
+### Capítulo Primero. Carrera Judicial
+
+###### Artículo 115.
+
+El ingreso, permanencia y promoción de los servidores públicos del Poder Judicial se hará mediante la Carrera Judicial, en la que se considerarán la capacidad, eficiencia, preparación, disciplina, probidad y antigüedad.
+
+###### Artículo 116.
+
+El ingreso y promoción para las categorías que conforman la Carrera Judicial, se realizarán invariablemente mediante concurso de oposición.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 117.
+
+La Carrera Judicial está integrada por las siguientes categorías:
+
+I. Juez de Primera Instancia;
+
+II. Secretario de Acuerdos de Sala;
+
+III. Secretario Proyectista de Sala;
+
+IV. Secretario de Acuerdos de Juzgado;
+
+V. Secretario Instructor;
+
+VI. Secretario Proyectista de Juzgado;
+
+VII. Oficial de Sala;
+
+VIII. Jueces menores o comunales;
+
+IX. Actuario o Notificador; y,
+
+X. Escribiente.
+
+###### Artículo 90.
+
+Son atribuciones del Consejo
+
+I. Conducir la administración, vigilancia y disciplina del Poder Judicial;
+
+II. Conocer de los impedimentos de los Consejeros en los casos que establece esta ley;
+
+III. Determinar y adoptar todas aquellas medidas que estime convenientes para la buena marcha de la administración de justicia;
+
+IV. Expedir sus reglamentos, así como los acuerdos generales y específicos que fueren necesarios para el adecuado ejercicio de sus atribuciones;
+
+V. Tomar la protesta constitucional a los jueces, previo a la toma de posesión de su cargo;
+
+VI. Integrar y enviar al Congreso la lista de aspirantes a Magistrados;
+
+VII. Presentar ante el Congreso los informes que le sean solicitados sobre el desempeño ético y profesional del Magistrado para que determine si debe o no ser reelecto;
+
+VIII. Crear órganos, áreas o dependencias según las necesidades de trabajo y de acuerdo al presupuesto;
+
+IX. Autorizar, cuando sea necesario y con base en la información estadística, la contratación de personal auxiliar para evitar el rezago en los órganos de la administración de justicia;
+
+X. Ordenar a la Contraloría Interna la práctica de revisiones y auditorías a los órganos y dependencias del Poder Judicial;
+
+XI. En el supuesto que establece el Artículo 75 de la Constitución, proponer al Congreso la designación de los Magistrados del Supremo Tribunal de Justicia;
+
+XII. Proponer al Pleno, por conducto del Presidente, y a partir de la estructura orgánica autorizada, la política salarial para regular el sistema de remuneraciones y prestaciones, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad;
+
+XIII. Aprobar el proyecto anual de Presupuesto de Egresos del Poder Judicial y someterlo a consideración del Pleno del Supremo Tribunal de Justicia, quince días antes de enviarse al Poder Ejecutivo para el procedimiento de ley;
+
+XIV. Manejar y operar los recursos del fondo para la administración de justicia de acuerdo a la ley correspondiente;
+
+XV. Informar al Congreso respecto de las renuncias que presenten los Magistrados y los miembros del Consejo;
+
+XVI. Resolver respecto de las renuncias de los jueces y demás servidores públicos del Poder Judicial;
+
+XVII. Cumplir con sus atribuciones en materia de bienes asegurados, objetos del delito y las evidencias incorporadas a juicio, conforme a la ley;
+
+XVIII. Solicitar al Congreso la destitución del Magistrado que se encuentre en los supuestos del artículo 77 de la Constitución. Para este efecto el Consejo allegará al Congreso los elementos que fundamenten y motiven su petición;
+
+(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE NOVIEMBRE DE 2023) (F. DE E., P.O. 29 DE ENERO DE 2024)
+
+XIX. Determinar el número y, en su caso, especialización por materia de los Juzgados de Primera Instancia en cada uno de los distritos y regiones judiciales, así como en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, de conformidad con sus posibilidades presupuestarias;
+
+XX. Nombrar, adscribir y readscribir a los jueces de primera instancia de conformidad con los requisitos, procedimientos y criterios establecidos en esta ley y en la Constitución, así como determinar el procedimiento para cubrir sus faltas temporales o absolutas;
+
+XXI. Determinar el nombramiento, adscripción, readscripción y el número de jueces menores, así como el procedimiento para cubrir sus faltas temporales o absolutas;
+
+XXII. Determinar el nombramiento, adscripción, readscripción y el número de jueces comunales, así como el procedimiento para cubrir sus faltas temporales o absolutas;
+
+XXIII. Determinar el nombramiento de los coordinares regionales del Centro Estatal de Justicia Alternativa y Restaurativa;
+
+XXIV. Cambiar la residencia de los tribunales de Primera Instancia, menores y Comunales, así como de las unidades regionales y distritales del Centro Estatal de Justicia Alternativa y Restaurativa;
+
+XXV. Sancionar a los jueces, y demás servidores públicos del Poder Judicial y en su caso, denunciar los hechos al Ministerio Público;
+
+XXVI. Nombrar y remover a los titulares de las dependencias administrativas que no sean competencia del Pleno;
+
+XXVII. Designar al Secretario Ejecutivo a propuesta del Presidente;
+
+XXVIII. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo;
+
+XXIX. Establecer las bases, desarrollar y cuidar el cumplimiento y eficacia de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia;
+
+XXX. Proporcionar los medios necesarios para la formación, capacitación y actualización de los servidores públicos del Poder Judicial;
+
+XXXI. Supervisar que la aplicación y evaluación de los exámenes de oposición que se practiquen a los aspirantes de nuevo ingreso o para promoverse a categorías superiores, se realicen con imparcialidad, objetividad y rigor académico;
+
+XXXII. Practicar visitas de inspección a las salas, a los juzgados de apelación especializados en justicia integral para adolescentes, los juzgados de primera instancia, menores, comunales, al Centro Estatal de Justicia Alternativa y Restaurativa y a sus unidades regionales y distritales, así como a las dependencias administrativas del Poder Judicial;
+
+XXXIII. Vigilar el funcionamiento del Archivo Judicial. Así como la integración, mejoramiento y conservación del acervo de la biblioteca del Poder Judicial;
+
+XXXIV. Conceder licencias en los términos previstos en esta ley;
+
+XXXV. Fijar el horario de trabajo, el calendario anual de labores y los periodos de vacaciones de los servidores públicos del Poder Judicial;
+
+XXXVI. Informar al Congreso cuando algún Magistrado se encuentre en los supuestos previstos en el Artículo 78 de la Constitución;
+
+XXXVII. Conocer, dictaminar y determinar sobre el retiro forzoso de los jueces, cuando cumplan setenta años de edad o padezcan incapacidad física o mental permanente para el desempeño de su encargo;
+
+XXXVIII. Formar y actualizar los registros de las cédulas de los profesionales en derecho que funjan como abogados ante el Supremo Tribunal de Justicia conforme a la Ley de Orgánica de la Defensoría de Oficio y la Ley de Profesiones;
+
+XXXIX. Determinar el haber por retiro de los Magistrados y jueces conforme a lo previsto por esta ley;
+
+XL. Emitir la convocatoria para que los jueces de primera instancia elijan al Juez que formará parte del Consejo;
+
+XLI. Publicar sus resoluciones y acuerdos en los estrados y en el portal de internet del Poder Judicial, incluyendo los votos particulares;
+
+XLII. Nombrar al personal del Consejo de conformidad con las posibilidades presupuestales;
+
+XLIII. Ejercer su presupuesto, administrar sus bienes muebles e inmuebles así como realizar adquisiciones, arrendamientos, enajenaciones y contratación de obras o servicios, de conformidad con la legislación en la materia;
+
+XLIV. Administrar el Fondo Auxiliar para la Administración de Justicia y realizar las aportaciones correspondientes de conformidad con la legislación aplicable;
+
+XLV. Ejercer las atribuciones que le correspondan en materia de responsabilidades de los servidores públicos del Poder Judicial; y,
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+
+XLVI. Elaborar, implementar y operar la reglamentación de los procedimientos en línea, conforme a las necesidades del Poder Judicial y de acuerdo con la disponibilidad presupuestal; y,
+
+XLVII. Las demás que le confiera esta ley y otros ordenamientos.
 
 ## TITULO DECIMO. DE LA VERIFICACION; LAS INFRACCIONES Y SANCIONES
 
-###### ARTICULO 91.
+### Capítulo Segundo. Concurso de Oposición
 
-La Secretaría, a fin de comprobar que se han acatado las disposiciones de esta Ley y su Reglamento y, en su caso, imponer las sanciones por infracción a dichas disposiciones, así como para denunciar la posible comisión de delitos y proporcionar información a otras autoridades, estará facultada para ordenar la práctica de visitas de verificación a los prestadores de servicios turísticos, así como para requerirles los datos, documentos o informes que estime necesarios.
+###### Artículo 118.
 
-Del mismo modo, podrá allegarse las pruebas necesarias para denunciar ante el Ministerio Público, la posible comisión de delitos relacionados con la prestación de servicios turísticos.
+Los concursos de oposición para el ingreso y promoción dentro de las categorías señaladas en precedentes, se sujetarán al siguiente procedimiento:
 
-Para la imposición de sanciones, las actuaciones que practique la Secretaría y los procedimientos respectivos, se apegará a lo dispuesto por la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+I. El Consejo, de acuerdo con el reglamento correspondiente, emitirá convocatoria por lo menos treinta días naturales previos a la fecha señalada para la realización del concurso de oposición respectivo, la que será publicada en el portal de Internet del Poder Judicial; tratándose de aspirantes de las fracciones I, II y III del artículo anterior, deberá ser publicada además en el Periódico Oficial y en uno de los principales diarios de circulación estatal;
 
-###### ARTICULO 92.
+II. En la convocatoria deberá especificarse la categoría que se concursa; el periodo en que tendrá verificativo el curso de preparación; el lugar, el día y la hora en que se llevarán a cabo los exámenes; el tiempo concedido para desahogar los mismos, así como el plazo, lugar y requisitos para la inscripción; y, en general, todos los demás elementos que se estimen necesarios;
 
-Si del resultado de la (sic) visitas de verificación se detecta el incumplimiento de las disposiciones contenidas en la presente Ley, a cargo de los prestadores de bienes y servicios turísticos, la Secretaría efectuará lo conducente a fin de determinar la sanción que, en su caso, corresponda.
+III. Al momento de la inscripción los aspirantes recibirán las bases de valoración del concurso de oposición;
 
-###### ARTICULO 93.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
 
-El incumplimiento de lo dispuesto por esta Ley y su Reglamento, por parte de los prestadores de bienes y servicios turísticos, constituirá infracción y, a juicio de la Secretaría, se podrán imponer, indistintamente, las siguientes correcciones disciplinarias:
+III Bis. Los concursos para jueces de primera instancia incluirán un apartado sobre control difuso de constitucionalidad, convencionalidad, perspectiva de género, interés superior de niñas, niños y adolescentes, así como mecanismos alternativos de solución de conflictos y controversias;
 
-I. Amonestación;
+IV. De entre los aspirantes que hayan aprobado el concurso de oposición se elegirá a quienes hayan obtenido el mejor resultado, quienes integrarán la lista de reserva para la designación en el caso de las vacantes que se vayan generando; y,
 
-II. Apercibimiento, y
+V. En el caso de que ninguno de los aspirantes obtuviera calificación aprobatoria, se declarará desierto el concurso y se procederá a emitir una nueva convocatoria.
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2017)</small>
+La Comisión de Carrera Judicial dictaminará sobre el resultado de los concursos de oposición e informará de ellos al Consejo para que resuelva.
 
-III. Multa de diez hasta cien unidades de medida y actualización vigente.
+Todo procedimiento relativo al concurso de oposición será gratuito y no se podrán solicitar más requisitos que los dispuestos en ley.
 
-Tratándose de quejas presentadas por los turistas contra prestadores de servicios turísticos, la Secretaría las turnará a la Procuraduría Federal de Protección al Consumidor, la que conocerá de su recepción, desahogo y resolución y, en su caso, arbitraje y sanción, en los términos de la Ley de Protección al Consumidor.
+###### Artículo 119.
 
-Asimismo, si de las quejas presentadas por los turistas se derivan infracciones a diversas disposiciones legales por parte de los prestadores de servicios turísticos, la Secretaría las turnará a las autoridades competentes.
+Las bases de valoración para el concurso de oposición deberán considerar lo siguiente:
 
-###### ARTICULO 94.
+I. Las calificaciones obtenidas en los exámenes practicados;
 
-La multa podrá duplicarse en caso de reincidencia; entendiéndose como tal para los efectos de esta Ley, cada una de las subsecuentes infracciones a una misma disposición legal o reglamentaria, cometida dentro de los dos años siguientes a la fecha de la resolución a la que se hizo constar la infracción procedente, siempre y cuando ésta no hubiere sido desvirtuada.
+II. El expediente personal, en el caso de que el aspirante sea servidor público del Poder Judicial;
 
-###### ARTICULO 95.
+III. El grado académico, así como los diversos cursos de actualización y especialización; y,
 
-En el caso de las infracciones de carácter continuo si el infractor persiste en la contravención, se le podrá sancionar con dos tantos del importe de la multa, aplicables diariamente hasta que se allane al cumplimiento de la disposición infringida.
+IV. La trayectoria profesional del aspirante.
 
-###### ARTICULO 96.
+###### Artículo 91.
 
-La Secretaría al imponer las sanciones deberá fundarlas y motivarlas debidamente y, en todo caso, tomará en cuenta la gravedad de la infracción, las condiciones económicas del infractor y la reincidencia, si la hubiere.
+El Presidente del Supremo Tribunal de Justicia lo será también del Consejo y tendrá las atribuciones siguientes:
 
-###### ARTICULO 97.
+I. Dirigir los debates y conservar el orden de las sesiones;
 
-Todos los hechos que se conozcan con motivo del ejercicio de las facultades de verificación, los que consten en la documentación e información en poder de la Secretaría, los que proporcionen otras autoridades, así como los datos e informes aportados por turistas y cualesquier otras personas, podrán servir para motivar la imposición de sanciones.
+II. Firmar las resoluciones y acuerdos del Consejo;
 
-###### ARTICULO 98.
+III. Recibir quejas sobre demoras y faltas en el despacho de los asuntos, y turnarlos, en su caso, a la comisión correspondiente;
 
-Las multas que imponga la Secretaría a los prestadores de servicios turísticos, por infracciones a esta Ley y su Reglamento, se considerarán créditos fiscales.
+IV. Convocar a las sesiones ordinarias y extraordinarias cuando así lo crea conveniente o a petición de dos Consejeros, con al menos veinticuatro horas de anticipación, adjuntando el orden del día y la documentación correspondiente;
 
-###### ARTICULO 99.
+V. Proponer al Consejo las medidas que estime convenientes para la buena marcha de la administración de justicia, así como para que ésta sea expedita, pronta y cumplida;
 
-Tratándose de multas impuestas a propietarios de establecimientos dedicados a la prestación de servicios turísticos, los adquirentes sucesivos de los mismos, tendrán responsabilidad objetiva respecto de dichas multas, pero, a su vez, podrán repetir en contra del anterior propietario.
+VI. Celebrar convenios con universidades, organismos públicos o privados, nacionales o del extranjero, para que auxilien en la investigación, formación, capacitación y actualización de los miembros del Poder Judicial, así como para obtener los permisos o autorizaciones a efecto de impartir estudios relacionados con la función jurisdiccional;
 
-###### ARTICULO 100.
+VII. Elaborar el proyecto de presupuesto de egresos del Poder Judicial y someterlo al Consejo, al menos diez días antes a aquel en que se envíe al Pleno;
 
-Para hacer efectivas las multas deberá girarse oficio a la Secretaría de Finanzas del Estado. Cumplimentada la multa, la oficina recaudadora rendirá informe a la Secretaría con los datos correspondientes que acrediten su recepción.
+VIII. Celebrar acuerdos y convenios de colaboración con instituciones públicas o privadas, tendientes a una mayor profesionalización y capacitación de los servidores públicos del Poder Judicial;
 
-###### ARTICULO 101.
+IX. Despachar la correspondencia del Consejo;
 
-La Secretaría, sin perjuicio de las sanciones que procedan conforme a esta Ley y su Reglamento, hará del conocimiento de las autoridades correspondientes, los hechos u omisiones que pudieran constituir algún delito.
+X. Proponer al Consejo la integración de sus comisiones transitorias;
 
-###### ARTICULO 102.
+XI. Fungir como titular de la administración del Poder Judicial y proponer al Consejo los nombramientos de los titulares de las dependencias administrativas del Poder Judicial;
 
-Contra los actos y resoluciones dictados por la Secretaría, procederán el recurso de revisión previsto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+XII. Nombrar y remover a los servidores públicos adscritos a la Presidencia del Consejo y a las dependencias administrativas del Poder Judicial;
+
+XIII. Dirigir, controlar y vigilar las centrales de comunicaciones procesales;
+
+XIV. Conceder licencias a los servidores públicos del Supremo Tribunal de Justicia y del Consejo;
+
+XV. Vigilar el funcionamiento de los órganos auxiliares del Consejo;
+
+XVI. Dictar las medidas que estime pertinentes para que en las oficinas del Poder Judicial se cumpla con el horario de trabajo, y en general todas aquellas que exijan el buen servicio y la disciplina, inclusive las urgentes en los asuntos administrativos de la competencia del Consejo. En este último caso, las medidas tendrán el carácter de provisionales hasta que el Consejo resuelva en definitiva lo que proceda;
+
+XVII. Pedir a los Magistrados, jueces y secretarios, para una revisión administrativa justificada, copia de actuaciones o los expedientes relativos; cuidando que en estos casos no se interrumpan los términos legales ni el regular procedimiento dentro de los expedientes;
+
+XVIII. Aumentar temporalmente el número de servidores públicos o empleados de los órganos del Poder Judicial, cuando así se requiera;
+
+XIX. Legalizar la firma de los servidores públicos del Poder Judicial, cuando la ley exija este requisito;
+
+XX. Informar al Gobernador y al Congreso de las vacantes que se produzcan en el Consejo y que deban ser cubiertas por ellos mediante sus respectivos nombramientos; y,
+
+XXI. Las demás que le confieran las leyes y reglamentos.
+
+###### Artículo 92.
+
+El Consejo contará con aquellas comisiones permanentes o transitorias que determine. Son comisiones permanentes la de Administración, la de Carrera Judicial y la de Vigilancia y Disciplina.
+
+Las comisiones se integran por tres Consejeros, quienes eligen a su Presidente que durará en su encargo un año y sólo podrá ser reelecto por una ocasión. Ninguna estará integrada en su totalidad por Consejeros que tengan su origen en un mismo Poder. Tendrán su reglamento, que será aprobado por el Consejo.
+
+El Presidente del Consejo lo será también de la Comisión de Administración.
+
+### Capítulo Tercero. Adscripción y Ratificación de Jueces
+
+###### Artículo 120.
+
+Para la adscripción de jueces, se estará al resultado del concurso de oposición y los criterios de Carrera Judicial.
+
+###### Artículo 121.
+
+Se ratificará a los jueces por periodos iguales, previo dictamen de evaluación de su desempeño, en el que se habrá de determinar si el mismo se realiza con eficiencia, eficacia, diligencia, celeridad y oportunidad, tomando en consideración, además los elementos siguientes:
+
+I. Los resultados de las visitas de inspección;
+
+II. Los cursos de actualización y especialización durante el período;
+
+III. Las sanciones que, en su caso, se le hubieren impuesto; y
+
+IV. Los demás que se estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2023)</small>
+
+El Consejo, a través del Instituto de la Judicatura, impartirá cursos de actualización obligatorios para jueces sobre control difuso de constitucionalidad y convencionalidad, perspectiva de género, interés superior de niñas, niños y adolescentes, y de mecanismos alternativos de solución de conflictos y controversias.
+
+###### Artículo 122.
+
+El procedimiento iniciará con el informe de los integrantes de la Comisión de Carrera Judicial al Pleno, con tres meses de anticipación, sobre los nombres, adscripciones y fechas de los juzgadores designados por el período de tres años.
+
+Recibido el informe de la Comisión y analizado, el Pleno acordará el inicio del procedimiento, notificándose de esto al juzgador del que se trate.
+
+###### Artículo 123.
+
+Dentro de los cinco días hábiles siguientes al de la recepción de la constancia de notificación al juzgador, la Comisión ordenará los requerimientos siguientes:
+
+I. A la Secretaría de Administración para que remita copia certificada del expediente personal del juzgador, e informe, en su caso, sobre las sanciones impuestas al mismo, con motivo de quejas de carácter administrativo presentadas durante el período, así como los procedimientos en trámite y el estado que éstos guardan;
+
+II. A la Comisión de Vigilancia y Disciplina, para que informe del resultado de las visitas practicadas a los órganos jurisdiccionales donde haya estado adscrito el juzgador durante el período;
+
+III. Al Instituto de la Judicatura, para que informe sobre la asistencia del juzgador a los cursos de capacitación atinentes a su materia, convocados durante el periodo, así como su participación en calidad de docente en las actividades programadas por el mismo;
+
+IV. Al Departamento de Estadística, para que informe sobre la estadística de los órganos jurisdiccionales donde haya estado adscrito el juzgador durante el periodo;
+
+V. A la Contraloría para que remita constancia sobre la situación patrimonial del juzgador al inicio del período y durante su última declaración patrimonial; y,
+
+VI. Al juzgador para que informe de su propio desempeño durante el periodo y, en su caso, exhiba los documentos correspondientes a los grados académicos, cursos y otras actividades de capacitación en las que haya participado durante el período, diferentes a las organizadas por el Instituto.
+
+###### Artículo 124.
+
+Se ordenará que se fije en un lugar visible en los juzgados donde hubiese estado adscrito el juzgador, durante el periodo a evaluar, un extracto del acuerdo de inicio del procedimiento, indicando a los litigantes y público en general que tienen un plazo de diez días hábiles para que manifiesten por escrito ante la Comisión su parecer sobre la administración del juzgado y, en su caso, hacer llegar las constancias que estimen pertinentes para acreditar lo manifestado.
+
+Los titulares de las oficinas requeridas por la Comisión, así como el propio juzgador, deberán remitir ésta dentro de los cinco días hábiles siguientes al de la recepción del requerimiento.
+
+###### Artículo 125.
+
+Recibida la información requerida y transcurrido el plazo señalado, la Comisión designará a uno de sus integrantes para que elabore el proyecto de dictamen que ratifique o no al juzgador.
+
+El plazo para la elaboración del proyecto de dictamen no podrá ser mayor a diez días hábiles y se computará a partir de la designación del Consejero redactor.
+
+###### Artículo 126.
+
+Una vez elaborado el proyecto de dictamen, se remitirá al Pleno, a fin de que éste se pronuncie sobre la ratificación o no ratificación del juzgador.
+
+El Juez no ratificado, cuando resulte legalmente procedente, será readscrito al cargo que desempeñaba en el Poder Judicial antes de su nombramiento.
+
+###### Artículo 93.
+
+Las resoluciones de las comisiones se toman por mayoría de votos de sus integrantes, quienes no pueden abstenerse de votar sino cuando tengan impedimento legal. Las comisiones califican las excusas e impedimentos de sus miembros.
+
+En todos aquellos casos en que no es posible la resolución de un asunto en comisiones, su conocimiento y resolución pasará al Consejo.
+
+###### Artículo 94.
+
+Las comisiones someterán al Consejo los proyectos y acuerdos que formulen, conforme a sus atribuciones, para los efectos correspondientes.
+
+###### Artículo 95.
+
+La Comisión está encargada de controlar, dirigir, y vigilar, las funciones de administración y finanzas, estadística administrativa, recursos humanos, adquisición de bienes y servicios, arrendamientos, servicios generales y la organización y funcionamiento del CEDETIC, además de las que le encomiende el Consejo, la ley y el reglamento respectivo.
+
+El CEDETIC, tendrá la organización y funciones que determine el reglamento.
+
+Esta Comisión elaborará un informe desglosado del ejercicio presupuestal anual, mismo que será público y que presentará para su conocimiento al Consejo y al Pleno el primer jueves de febrero de cada año.
+
+Sin perjuicio de lo anterior la Comisión deberá publicar en el portal de Internet del Poder Judicial informes trimestrales desglosados del ejercicio presupuestal.
+
+###### Artículo 96.
+
+La Comisión está encargada de la administración y desarrollo de la carrera judicial, así como de la capacitación, formación, actualización y especialización del personal judicial, a través del Instituto de la Judicatura, además de las que le encomiende el Consejo, la ley y el reglamento respectivo.
+
+La Comisión tendrá bajo su cargo la investigación, el acervo bibliográfico, el archivo histórico y las tareas editoriales del Poder Judicial, auxiliada por el Instituto de la Judicatura.
+
+El Consejo expedirá el Reglamento del Instituto de la Judicatura.
+
+###### Artículo 97.
+
+La Comisión de Vigilancia y Disciplina está encargada de las funciones de Visitaduría Judicial y, de conocer de las responsabilidades de los servidores públicos del Poder Judicial. Las funciones de disciplina no podrán ser delegadas por los Consejeros.
+
+Las visitas de inspección serán realizadas conforme a un protocolo de visita por los Consejeros o por el personal técnico que designe la Comisión.
+
+De las visitas realizadas se dará cuenta al Pleno del Consejo.
+
+Los Consejeros para la función de responsabilidad oficial, podrán auxiliarse del personal técnico necesario.
+
+El proyecto de protocolo de visita será elaborado por la Comisión y aprobado por el Consejo, debiendo contener los aspectos particulares a evaluar en cada órgano jurisdiccional o área administrativa.
+
+###### Artículo 98.
+
+Las visitas de inspección ordinarias, se realizarán por lo menos una vez al año y las extraordinarias, por acuerdo de esta Comisión o del Consejo.
+
+###### Artículo 99.
+
+Corresponde a la Comisión de Vigilancia, por conducto de su Presidente, formular y proponer al Consejo los criterios generales de evaluación periódica de los juicios iniciados, en trámite y concluidos dentro del Poder Judicial, basados por lo menos en los criterios de rendimiento, eficiencia, eficacia y profesionalismo; asimismo, deberá llevar el control de las evaluaciones y verificar la autenticidad de los datos que se proporcionen en los informes estadísticos correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2017)</small>
+
+###### Artículo 100.
+
+Los jueces de primera instancia del sistema tradicional, enviarán oportunamente a la Comisión de Vigilancia y Disciplina, para los efectos de la responsabilidad oficial, los procesos penales concluidos por resolución que no haya sido recurrida.
+
+Los jueces del sistema acusatorio y oral ordenarán el envío de los registros que resuelvan de manera definitiva las controversias puestas a su consideración para efectos de la responsabilidad oficial, que no hayan sido recurridas; de igual forma lo harán los jueces de control y de Tribunal de enjuiciamiento en justicia penal para adolescentes.
+
+Los jueces de ejecución de sanciones penales remitirán los expedientes de ejecución del sistema penal tradicional o los registros de las carpetas de ejecución del sistema acusatorio y oral que resuelvan de manera definitiva de conformidad con la Ley aplicable que no hayan sido recurridas a la Comisión de Vigilancia y Disciplina del Consejo del Poder Judicial, para que conozca de los mismos respecto de la responsabilidad oficial.
+
+###### Artículo 101.
+
+El Consejo contará con un Secretario Ejecutivo y un Secretario de Administración que serán designados por el Consejo a propuesta de su Presidente.
+
+###### Artículo 102.
+
+Para ser Secretario Ejecutivo del Consejo y Secretario de Administración del Poder Judicial se deberán reunir los mismos requisitos que para ser Secretario General de Acuerdos; con excepción de que en tratándose del Secretario de Administración el título profesional deberá ser en un área afín a la administración.
+
+###### Artículo 103.
+
+El Secretario Ejecutivo del Consejo, tendrá como funciones y obligaciones las siguientes:
+
+I. Fungir como Secretario de Acuerdos del Consejo y de su Presidencia;
+
+II. Tramitar los asuntos del Consejo y turnar los expedientes entre sus integrantes para su atención;
+
+III. Practicar las diligencias que le sean ordenadas por el Consejo o por sus comisiones;
+
+IV. Controlar el registro de las sesiones del Consejo;
+
+V. Firmar, conjuntamente con el Presidente del Consejo y los Consejeros, el acta de la sesión del Consejo;
+
+VI. Guardar bajo su responsabilidad los registros, expedientes y documentos de los asuntos de competencia del Consejo;
+
+VII. Cumplir los acuerdos e instrucciones del Presidente del Consejo;
+
+VIII. Actualizar en el sistema la lista de las resoluciones del Consejo o de la Presidencia que deban ser notificadas con apego a la ley; y,
+
+IX. Las demás que le confiera la ley, el reglamento y el Consejo mediante acuerdo.
+
+Las ausencias temporales y accidentales del Secretario ejecutivo serán suplidas por ministerio de ley por el notificador del Consejo.
+
+###### Artículo 104.
+
+El Secretario de Administración, auxiliará a la Comisión de Administración, y tendrá como funciones y obligaciones las siguientes:
+
+I. Controlar, dirigir y vigilar las funciones de administración, contabilidad, estadística administrativa, personal y servicios generales;
+
+II. Vigilar e informar a la Comisión sobre el cumplimiento de las disposiciones legales y estatutarias que rijan las relaciones entre el Poder Judicial y sus trabajadores;
+
+III. Auxiliar al Presidente en el despacho de los asuntos administrativos;
+
+IV. Tramitar los nombramientos, remociones, renuncias y licencias de los servidores públicos;
+
+V. Proveer a las salas, juzgados y demás oficinas los elementos y materiales de trabajo necesarios para el desempeño de sus funciones;
+
+VI. Adquirir los bienes y contratar los servicios que se requieran para el mejor desempeño, conforme a lo determinado por el Consejo y la reglamentación respectiva;
+
+VII. Levantar y mantener actualizado el inventario de recursos materiales;
+
+VIII. Llevar el control del ejercicio presupuestal; y,
+
+IX. Las demás que señale el Consejo, las leyes y reglamentos.
 
 ## TRANSITORIOS
 
-PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Primero. El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-SEGUNDO. Se abroga la Ley de Turismo publicada en el Periódico Oficial del Estado el 14 de marzo del año 2002; así como todas aquellas disposiciones que se opongan a la presente Ley.
+Segundo. Se abroga la Ley Orgánica del Poder Judicial del Estado de Michoacán de Ocampo publicada mediante Decreto número 132, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 15 de febrero de 2007.
 
-TERCERO. El Ejecutivo del Estado expedirá el Reglamento de esta Ley, en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor de la misma.
+Tercero. Los reglamentos que con motivo de esta ley, se requieran serán expedidos por el Poder Judicial en un plazo de noventa días siguientes a la publicación del presente Decreto. En tanto se expidan los reglamentos a los que se hace mención, seguirán aplicándose los vigentes en lo conducente en lo que no se opongan a lo señalado en el presente Decreto.
 
-Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+Cuarto. Hasta en tanto el Supremo Tribunal de Justicia del Estado de Michoacán, conforme a su presupuesto realice las adecuaciones correspondientes para la creación de juzgados especializados en las diversas materias, excepto penal y justicia para adolescentes, serán competentes para conocer de las mismas, los juzgados de primera instancia en materia civil o familiar según corresponda.
 
-D A D O en el Salón de Sesiones del Honorable Congreso del Estado, el veintidós de septiembre de dos mil once.
+Quinto. En tanto entre en vigencia el Sistema de Justicia Penal Acusatorio, de manera gradual en todo el territorio, seguirán funcionando simultáneamente los juzgados con jurisdicción penal, hasta que se agoten los expedientes del sistema tradicional.
 
-Diputado Presidente: Xavier Azuara Zúñiga; Diputado Primer Secretario: José Luis Martínez Meléndez; Diputada Segunda Secretaria: Griselda Alvarez Oliveros. (Rúbricas).
+Sexto. Lo relativo al sistema acusatorio y oral en materia penal entrará en vigor de acuerdo a la normatividad aplicable.
 
-Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
+El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
-D A D O en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los veintiún días del mes de octubre de dos mil once.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 30 treinta días del mes de octubre de 2014 dos mil catorce.
 
-El Gobernador Constitucional del Estado
+ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRECTIVA, DIP. ALFONSO JESÚS MARTÍNEZ ALCÁZAR.- PRIMER SECRETARIO, DIP. JOSÉ ELEAZAR APARICIO TERCERO.- SEGUNDA SECRETARIA, DIP. DANIELA DE LOS SANTOS TORRES.- TERCER SECRETARIO, DIP. CÉSAR MORALES GAYTÁN. (Firmados).
 
-Dr. Fernando Toranzo Fernández
+En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veinte días del mes de noviembre del año 2014 dos mil catorce.
 
-(Rúbrica)
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO, MTRO.
 
-El Secretario General de Gobierno
-
-Lic. Marco Antonio Aranda Martínez
-
-(Rúbrica)
+JAIME DARÍO OSEGUERA MÉNDEZ. (Firmados).
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 18 DE OCTUBRE DE 2016.
+P.O. 29 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0405.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 6°, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 65 FRACCIONES I, II Y III; 70 FRACCIÓN I, 72 FRACCIÓN I, 73 PÁRRAFO PRIMERO FRACCIÓN IV Y 170 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-P.O. 30 DE MARZO DE 2017.
+###### ARTÍCULO SEGUNDO.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0595.- SE REFORMA EL ARTÍCULO 85 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado ''Plan de San Luis".
+###### ARTÍCULO TERCERO.
 
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
 
-P.O. 13 DE ABRIL DE 2017.
+###### ARTÍCULO CUARTO.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0607.- SE REFORMA (SIC) LOS ARTÍCULOS 81, 129 Y 132 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; ASI MISMO EL ARTÍCULO 93 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS 61 Y 68 DE LA LEY PARA LA REGULARIZACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ, Y LOS ARTÍCULOS 37, 38, Y 40 DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL”.]
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+P.O. 4 DE MAYO DE 2017.
 
-SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 347 POR EL QUE "SE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 2, LA FRACCIÓN I DEL ARTÍCULO 28, LA FRACCIÓN XV DEL ARTÍCULO 48, EL PÁRRAFO SEGUNDO Y CUARTO DEL ARTÍCULO 39; LA FRACCIÓN IX DEL ARTÍCULO 51, LOS ARTÍCULOS 50, 52, 58, 59, 61, 62, 63 Y 100; SE ADICIONA LAS FRACCIONES XII Y XIII AL ARTÍCULO 2, EL ARTÍCULO 39 BIS, UNA FRACCIÓN XVI RECORRIENDO EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 48, UNA FRACCIÓN X RECORRIENDO EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 51; Y SE DEROGA EL ARTÍCULO 60, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
-P.O. 13 DE MAYO DE 2017.
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0626.- SE REFORMAN LOS ARTÍCULOS 8° Y 9° DE LA LEY DE TURISMO DEL ESTADO".]
+P.O. 23 DE JULIO DE 2018.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 611 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, 84, 107, 108 Y 109; SE ADICIONA UNA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 2 Y EL ARTÍCULO 109 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
-SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-P.O. 20 DE MAYO DE 2017.
+SEGUNDO. El Consejo General de Instituto Electoral de Michoacán; el Pleno del Tribunal Electoral del Estado de Michoacán; el Pleno del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y el Consejo de la Comisión Estatal de Derechos Humanos, contarán con sesenta días naturales a partir de la entrada en vigor del presente Decreto para remitir al Congreso el listado, acompañado del expediente debidamente foliado y pormenorizado de los cinco aspirantes mejores evaluados, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos, el examen practicado y su resultado, para que el Congreso designe a quien deba ocupar el cargo de titular del Órgano Interno de Control.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0627.- SE REFORMA EL ARTÍCULO 9° DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
+El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+TERCERO. El Poder Judicial del Estado de Michoacán, el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
 
-SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+P.O. 26 DE OCTUBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 357 POR EL QUE “SE ADICIONAN LA FRACCIÓN XIII RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 2 Y LA FRACCIÓN XLVI AL ARTÍCULO 90, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN”.]
+
+UìNICO (SIC). El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 61 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1, 14 FRACCIONES XVI Y XVII, EL PRIMER PÁRRAFO DEL ARTÍCULO 39, 39 BIS, 112, 113 PRIMER PÁRRAFO, 117, 154 FRACCIONES II Y V; Y EL ARTÍCULO 155 PÁRRAFO SEGUNDO; Y, SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 14, EL QUINTO PÁRRAFO AL ARTÍCULO 39, LOS ARTÍCULOS 44 BIS, 44 TER, 44 QUÁTERY 44 QUINQUIES, TODOS DE LA LEY ÓRGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN, PARA QUEDAR COMO SIGUEN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los Juzgados Laborales en el Estado de Michoacán de Ocampo, iniciarán funciones el día 1 de mayo del año 2022.
+
+Tercero. El Consejo del Poder Judicial del Estado tendrá a su cargo la determinación del número de Juzgados de Primera Instancia especializados en materia laboral, su integración, así como su competencia territorial, la instalación de los mismos será de forma gradual primeramente en aquellas regiones con alta incidencia de procesos laborales y de acuerdo a la disponibilidad presupuestaria.
+
+Cuarto. La selección del personal de los Juzgados Laborales del Estado, se hará respetando el principio de paridad de género y las convocatorias, de carácter público y abierto, del poder Judicial del Estado. En la oportuna temporalidad establecida en el artículo segundo transitorio del presente Decreto.
+
+Quinto. El Poder Judicial del Estado, deberá armonizar su reglamentación al presente Decreto, en un término no mayor a 60 días naturales, a partir de su publicación.
+
+Sexto. El Poder Ejecutivo Estatal y el H. Congreso del Estado de Michoacán de Ocampo realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros para el ejercicio fiscal 2021 que permitan el cumplimiento del presente Decreto.
+
+P.O. 5 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 380 POR EL QUE "SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 118 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 121, AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Judicial del Estado de Michoacán deberá armonizar su reglamentación en un término no mayor a 90 noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE OCTUBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 465 POR EL QUE “SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 90 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO MICHOACÁN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Director General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+
+Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
+
+Para tal efecto y conforme al principio de prioridad de la niñez y adolescencia, se autoriza a los poderes Ejecutivo y Judicial de Michoacán, así como a las autoridades y organismos autónomos referidos en el presente Decreto, realizar las modificaciones conducentes en materia administrativa, reglamentaria y presupuestaria para dar cumplimiento al presente Decreto.
+
+El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Michoacán y su Secretaría de Gobierno, dispondrán realizar las adecuaciones reglamentarias, administrativas y presupuestales necesarias para la adscripción de los Centros de Atención y Justicia para Niñas, Niños y Adolescentes en dicha dependencia. Igualmente, la Fiscalía General de Justicia, la Comisión Estatal de los Derechos Humanos, la Comisión Estatal de Atención a Víctimas y Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como las secretarías de Seguridad Pública y de Salud del Gobierno del Estado y el Sistema Estatal DIF realizarán las adecuaciones reglamentarias, administrativas y presupuestales necesarias para prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, conforme al presente Decreto.
+
+Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
+
+Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
+
+P.O. 24 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 465.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 90 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXVIII DEL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 70, 71, 73 Y 77 , SE ADICIONA EL CAPÍTULO XXX BIS DENOMINADO: CENTROS DE ATENCIÓN Y JUSTICIA PARA NIÑAS, NIÑOS Y ADOLESCENTES, Y LOS ARTÍCULOS 89 BIS, 89 TER Y 89 QUÁTER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO CUARTO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 37 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9° DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEXTO.- SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO.- ARTÍCULO SÉPTIMO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6° DE LA LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACÁN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2024)</small>
+
+Segundo. La Secretaría de Gobierno coordinará los trabajos interinstitucionales a efecto de que el Centro de Atención y Justicia para Niñas, Niños y Adolescentes de la ciudad de Morelia comience a operar a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. El Gobernador del Estado deberá designar al Coordinador General a la entrada en funciones de este Centro, que será el encargado de la administración general de todos aquellos Centros al interior del Estado conforme se disponga en los lineamientos de coordinación a que alude el siguiente transitorio.
+
+Se deberán emitir lineamientos de coordinación que acuerden los titulares de los poderes, organismos autónomos, entidades y dependencias que forman parte del Centro, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, sin menoscabo de la normatividad reglamentaria que se expida por cada autoridad para su personal y funciones.
+
+Para tal efecto y conforme al principio de prioridad de la niñez y adolescencia, se autoriza a los poderes Ejecutivo y Judicial de Michoacán, así como a las autoridades y organismos autónomos referidos en el presente Decreto, realizar las modificaciones conducentes en materia administrativa, reglamentaria y presupuestaria para dar cumplimiento al presente Decreto.
+
+El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Michoacán y su Secretaría de Gobierno, dispondrán realizar las adecuaciones reglamentarias, administrativas y presupuestales necesarias para la adscripción de los Centros de Atención y Justicia para Niñas, Niños y Adolescentes en dicha dependencia. Igualmente, la Fiscalía General de Justicia, la Comisión Estatal de los Derechos Humanos, la Comisión Estatal de Atención a Víctimas y Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como las secretarías de Seguridad Pública y de Salud del Gobierno del Estado y el Sistema Estatal DIF realizarán las adecuaciones reglamentarias, administrativas y presupuestales necesarias para prestar sus servicios en los Centros de Atención y Justicia para Niñas, Niños y Adolescentes, conforme al presente Decreto.
+
+Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
+
+Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
