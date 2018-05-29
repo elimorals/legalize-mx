@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2017-12-26"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -51,11 +51,11 @@ Se considerará vivienda digna y decorosa aquella que cuente con los servicios b
 
 Para los efectos de este artículo se entenderá por servicios básicos los de agua potable, energía eléctrica y drenaje.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 3.
 
-En lo no previsto por esta ley y demás disposiciones que de ella se deriven, serán de aplicación supletoria la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila de Zaragoza; la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza; la Ley de Población y Desarrollo Municipal para el Estado de Coahuila de Zaragoza; la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza, las disposiciones del derecho común y demás disposiciones que resulten aplicables y no se contrapongan al presente ordenamiento.
+En lo no previsto por esta ley y demás disposiciones que de ella se deriven, serán de aplicación supletoria la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Coahuila de Zaragoza; la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza; la Ley de Población y Desarrollo Municipal para el Estado de Coahuila de Zaragoza; la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza, las disposiciones del derecho común y demás disposiciones que resulten aplicables y no se contrapongan al presente ordenamiento.
 
 ###### ARTÍCULO 4.
 
@@ -87,9 +87,9 @@ VII. Política Estatal de Vivienda. El conjunto de acciones, medidas, lineamient
 
 VIII. Reglamento. El Reglamento de la Ley de Vivienda para el Estado de Coahuila de Zaragoza;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
-IX. Secretaría. La Secretaría de Inclusión y Desarrollo Social;
+IX. Secretaría. Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -107,9 +107,9 @@ Las autoridades encargadas de la aplicación de esta ley son:
 
 I. El Titular del Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
-II. La persona titular de la Secretaría de Inclusión y Desarrollo Social;
+II. La persona titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
 III. La Comisión, y
 
@@ -727,11 +727,11 @@ Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorpo
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA COMISIÓN ESTATAL DE VIVIENDA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 62.
 
-Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Inclusión y Desarrollo Social y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
+Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -775,9 +775,9 @@ VI. Los demás que adquiera por cualquier título.
 
 Para su funcionamiento, la Comisión contará con una Junta de Gobierno que será su máxima autoridad, y se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
-I. Una Presidencia, que será ocupada por quien sea titular de la Secretaría de Inclusión y Desarrollo Social;
+I. Una Presidencia, que será ocupada por quien sea titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
 II. Una Secretaría Técnica, encabezada por quien sea titular de la Dirección General de la Comisión;
 
@@ -785,13 +785,13 @@ III. Por cinco vocales del sector público que serán las y los titulares de:
 
 a) La Secretaría de Finanzas;
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
 
-b) La Secretaría de Infraestructura y Transporte;
+b) La Secretaría de Inclusión y Desarrollo Social;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
 
-c) La Secretaría de Medio Ambiente y Desarrollo Urbano;
+c) La Secretaría de Medio Ambiente;
 
 d) La Dirección General de la Comisión Estatal para la Regulación de la Tenencia de la Tierra Urbana y Rústica de Coahuila;
 
@@ -901,9 +901,9 @@ X. Presentar cada mes a la Presidencia de la Junta de Gobierno, el informe de de
 
 XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Comisión y presentar a la Junta de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicho órgano;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
-XII. Proporcionar la información y dar acceso a la documentación que le soliciten la dependencia a la que se encuentre adscrita, la Secretaría de Medio Ambiente y Desarrollo Urbano, la Secretaría de Finanzas, la Secretaría de Fiscalización y Rendición de Cuentas, el auditor externo, así como a la Auditoría Superior del Estado, para el cumplimiento de sus funciones;
+XII. Proporcionar la información y dar acceso a la documentación que le soliciten la dependencia a la que se encuentre adscrita, la Secretaría de Medio Ambiente, la Secretaría de Finanzas, la Secretaría de Fiscalización y Rendición de Cuentas, el auditor externo, así como a la Auditoría Superior del Estado, para el cumplimiento de sus funciones;
 
 XIII. Proponer a la Junta de Gobierno, en su caso, las Reglas de Operación, manuales de organización, lineamientos y demás disposiciones de carácter interno;
 
@@ -953,9 +953,11 @@ IV. Las pruebas que en su caso ofrezca el denunciante.
 
 La denuncia se tramitará y resolverá de conformidad con lo establecido en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 69.
 
-Los servidores públicos del Estado y municipios que realicen acciones con motivo de la materia que regula esta ley y que a través de ellas, utilicen indebidamente su posición, para beneficiarse o favorecer a terceros, serán sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, sin perjuicio de las acciones civiles o penales que, en su caso, procedan.
+Los servidores públicos del Estado y municipios que realicen acciones con motivo de la materia que regula esta ley y que a través de ellas, utilicen indebidamente su posición, para beneficiarse o favorecer a terceros, serán sancionados conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas, sin perjuicio de las acciones civiles o penales que, en su caso, procedan.
 
 T R A N S I T O R I O S
 
@@ -1132,3 +1134,25 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28.- SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 14, LAS FRACCIONES IX Y X DEL ARTÍCULO 18; EL ARTÍCULO 29 Y EL ARTÍCULO 30, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN EL ARTÍCULO 3; LA FRACCIÓN IX DEL ARTÍCULO 6; LA FRACCIÓN II DEL ARTÍCULO 7; EL PRIMER PÁRRAFO DEL ARTÍCULO 62; LA FRACCIÓN I Y LOS INCISOS B Y C DE LA FRACCIÓN III DEL ARTÍCULO 65; LA FRACCIÓN XII DEL ARTÍCULO 66 QUÁTER Y EL ARTÍCULO 69 DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE MODIFICAN LA FRACCIÓN XLVIII DEL ARTÍCULO 4; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; Y LA FRACCIÓN III DEL ARTÍCULO 281 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto, se regirán por las disposiciones que se encontraban vigentes al momento que dio inició su substanciación.
+
+Los asuntos que se presenten para nuevo trámite, así como aquellos a los que hace referencia el párrafo anterior, serán tramitados por las unidades administrativas que corresponda.
+
+TERCERO. Las áreas que conforme al presente decreto deberán ser transferidas de una dependencia a otra, conservarán las estructuras y facultades establecidas en los respectivos reglamentos interiores, permaneciendo vigentes y en funcionamiento las disposiciones que las regulan hasta en tanto se expidan las reformas correspondientes.
+
+CUARTO. La transferencia de las áreas que implica el presente decreto, deberá realizarse en un plazo no mayor a 90 días contados a partir de su publicación, mediante la entrega recepción correspondiente.
+
+QUINTO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto deberán adecuarse en un plazo no mayor de 180 días a partir de la entrada en vigor del presente decreto.
+
+SEXTO. En un plazo no mayor de un año contado a partir de la entrada en vigor de este decreto, se deberá efectuar la armonización del marco jurídico estatal correspondiente.
+
+SÉPTIMO. Las autorizaciones, permisos y licencias expedidas conforme a las disposiciones aplicables durante la vigencia de la ley que se reforma, continuarán vigentes hasta la conclusión del término con el que fueron otorgadas.
+
+OCTAVO. Toda referencia a la Secretaría de Infraestructura y Transporte que haga alguna disposición legal o administrativa, así como a la Secretaría de Medio Ambiente y Desarrollo Urbano, en materia de asentamientos humanos, ordenamiento territorial y/o desarrollo urbano, deberá entenderse hecha a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
