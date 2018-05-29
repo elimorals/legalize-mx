@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cultura-fisica-y-deporte-del-estado-de-guanajuato-124178
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-03"
-last_updated: "2017-11-03"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2018, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.]</small>
-
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Ley publicada en la Cuarta Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 3 de noviembre de 2017.
 
@@ -457,33 +455,37 @@ XVI. Promover el otorgamiento de créditos y becas para deportistas y entrenador
 
 XVII. Promover coordinadamente con la Secretaría de Salud, la Secretaría de Educación y la Secretaría de Innovación, Ciencia y Educación Superior el impulso de programas académicos y de salud enfocados a la educación física, la cultura física, el deporte y demás ciencias aplicables;
 
-XVIII. Proponer los lineamientos y mecanismos para prevenir la violencia en cualquier evento de carácter deportivo, en los términos de la Ley General de Cultura Física y Deporte;
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2018)</small>
 
-XIX. Certificar la capacitación de profesionales y promotores para el fomento del deporte y la cultura física;
+XVIII. Promover coordinadamente con la Secretaría de Turismo del Estado, Ayuntamientos y los organismos públicos, los sectores social y privado relacionados con la cultura física y el deporte, el impulso al turismo deportivo;
 
-XX. Establecer, operar y mantener actualizado el Registro, en coordinación con el RENADE;
+XIX. Proponer los lineamientos y mecanismos para prevenir la violencia en cualquier evento de carácter deportivo, en los términos de la Ley General de Cultura Física y Deporte;
 
-XXI. Gestionar recursos técnicos, humanos y materiales para una adecuada preparación y desempeño de las diferentes selecciones representativas en eventos deportivos locales, nacionales e internacionales;
+XX. Certificar la capacitación de profesionales y promotores para el fomento del deporte y la cultura física;
 
-XXII. Asesorar a las personas que desarrollan actividades relacionadas con el deporte que tengan un fin preponderantemente económico, así como emitir recomendaciones a los organismos municipales y ayuntamientos con la finalidad de que en las instalaciones deportivas privadas que se encuentran en los municipios cuenten con personal inscrito en el Registro y capacitado en estas materias;
+XXI. Establecer, operar y mantener actualizado el Registro, en coordinación con el RENADE;
 
-XXIII. Implementar acciones para promover el deporte social en el Estado;
+XXII. Gestionar recursos técnicos, humanos y materiales para una adecuada preparación y desempeño de las diferentes selecciones representativas en eventos deportivos locales, nacionales e internacionales;
 
-XXIV. Publicar su presupuesto, programas y sistemas de evaluación a través del Periódico Oficial del Gobierno del Estado de Guanajuato;
+XXIII. Asesorar a las personas que desarrollan actividades relacionadas con el deporte que tengan un fin preponderantemente económico, así como emitir recomendaciones a los organismos municipales y ayuntamientos con la finalidad de que en las instalaciones deportivas privadas que se encuentran en los municipios cuenten con personal inscrito en el Registro y capacitado en estas materias;
 
-XXV. Cumplir y aplicar los acuerdos, políticas, planes y programas que en materia de cultura física y deporte implemente el SINADE y tengan obligatoriedad para Guanajuato;
+XXIV. Implementar acciones para promover el deporte social en el Estado;
 
-XXVI. Integrar el Sistema Estatal, para promover y fomentar el desarrollo de la cultura física y deporte;
+XXV. Publicar su presupuesto, programas y sistemas de evaluación a través del Periódico Oficial del Gobierno del Estado de Guanajuato;
 
-XXVII. Asesorar al Titular del Poder Ejecutivo del Estado y a los ayuntamientos en la definición de estrategias en proyectos de cultura física y deporte;
+XXVI. Cumplir y aplicar los acuerdos, políticas, planes y programas que en materia de cultura física y deporte implemente el SINADE y tengan obligatoriedad para Guanajuato;
 
-XXVIII. Establecer instrumentos y procedimientos para identificar y seleccionar a talentos deportivos;
+XXVII. Integrar el Sistema Estatal, para promover y fomentar el desarrollo de la cultura física y deporte;
 
-XXIX. Promover y fomentar el otorgamiento de apoyos a talentos deportivos y deportistas de alto rendimiento;
+XXVIII. Asesorar al Titular del Poder Ejecutivo del Estado y a los ayuntamientos en la definición de estrategias en proyectos de cultura física y deporte;
 
-XXX. Promover programas especiales que amplíen las opciones de la cultura física y deporte a grupos vulnerables y personas con discapacidad; y
+XXIX. Establecer instrumentos y procedimientos para identificar y seleccionar a talentos deportivos;
 
-XXXI. Las demás que señalen las leyes y disposiciones jurídicas aplicables.
+XXX. Promover y fomentar el otorgamiento de apoyos a talentos deportivos y deportistas de alto rendimiento;
+
+XXXI. Promover programas especiales que amplíen las opciones de la cultura física y deporte a grupos vulnerables y personas con discapacidad; y
+
+XXXII. Las demás que señalen las leyes y disposiciones jurídicas aplicables.
 
 Patrimonio de la CODE
 
@@ -1480,3 +1482,15 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 GUSTAVO RODRÍGUEZ JUNQUERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 307 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN EL ARTÍCULO 3, ADICIONANDO UNA FRACCIÓN XV, RECORRIENDO LAS FRACCIONES SUBSECUENTES EN SU ORDEN, EL ARTÍCULO 6, FRACCIÓN VIII Y EL ARTÍCULO 40; Y SE ADICIONA UN CAPÍTULO XV DENOMINADO "TURISMO DEPORTIVO" CON LOS ARTÍCULOS 37 NONIES Y 37 DECIES, RECORRIENDO LOS CAPÍTULOS SUBSECUENTES EN SU ORDEN DE LA LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; Y SE REFORMA EL ARTÍCULO 18, ADICIONANDO UNA FRACCIÓN XVIII, RECORRIENDO LAS FRACCIONES SUBSECUENTES EN SU ORDEN DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de la vigencia
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
