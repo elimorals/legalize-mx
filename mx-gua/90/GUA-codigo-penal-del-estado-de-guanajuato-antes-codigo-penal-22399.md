@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2018-04-26"
+last_updated: "2018-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -857,7 +857,7 @@ VI.- El pago del valor de las obras necesarias para introducir los servicios bá
 
 c.- Son terceros obligados a la reparación del daño:
 
-l.- Los tutores y los custodios por los delitos de quienes se hallaren bajo su autoridad y guarda;
+I.- Los tutores y los custodios por los delitos de quienes se hallaren bajo su autoridad y guarda;
 
 II.- Las personas físicas o las personas jurídicas colectivas por los delitos que cometan culposamente sus obreros, aprendices, jornaleros, empleados o artesanos, con motivo o en el desempeño de sus servicios;
 
@@ -2373,7 +2373,7 @@ a.- A quien empleando cualquier medio y sin el consentimiento de quien legalment
 
 Las sanciones se aumentarán de una mitad del mínimo a una mitad del máximo de las señaladas en el párrafo anterior cuando el sujeto activo:
 
-l.- Se valga de la homonimia para usurpar la identidad.
+I.- Se valga de la homonimia para usurpar la identidad.
 
 II.- Se aproveche la igualdad física o genética con el sujeto pasivo.
 
@@ -2455,11 +2455,9 @@ Se aplicará esta última sanción en caso de incesto entre hermanos.
 
 En el caso previsto en el primer párrafo, además, se privará a los ascendientes de los derechos de patria potestad.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
 ###### Artículo 219.
 
-Se equipara al incesto y se castigará de uno a cuatro años de prisión y de diez a cuarenta días multa, a quien tenga relaciones sexuales con los descendientes de su pareja, a quienes se aplicará la mitad de estas sanciones.
+(DEROGADO, P.O. 29 DE MAYO DE 2018)
 
 ### CAPÍTULO IV. RESPONSABILIDAD MÉDICA
 
@@ -3285,7 +3283,7 @@ Si el delito a que se refiere el párrafo anterior, corresponde al robo de vehí
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-SI en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, aplicación o ejecución de sanciones respecto de delitos, además de las penas a que se refiere este artículo, se le aplicará destitución de aquéllas y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual al de la pena de prisión.
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, aplicación o ejecución de sanciones respecto de delitos, además de las penas a que se refiere este artículo, se le aplicará destitución de aquéllas y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual al de la pena de prisión.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -3834,5 +3832,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 26 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 303, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 141-A DENTRO DEL CAPÍTULO I, DEL TÍTULO PRIMERO, DE LA SECCIÓN PRIMERA DEL LIBRO SEGUNDO Y 150-A AL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 308, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 219 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
