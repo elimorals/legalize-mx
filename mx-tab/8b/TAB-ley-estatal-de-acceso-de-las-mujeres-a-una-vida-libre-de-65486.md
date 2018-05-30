@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-65486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-20"
-last_updated: "2017-04-19"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2008.
 
@@ -1051,9 +1051,11 @@ Artículo. 63. Los Centros de Refugio Temporal para Mujeres Víctimas de Violenc
 
 Las autoridades estatales en coordinación con los ayuntamientos deberán disponer dentro de sus dependencias de lo necesario de acuerdo a sus respectivos presupuestos de egresos para llevar a cabo medidas de atención a mujeres víctimas de violencia, consistentes en servicios médicos, psicológicos y jurídicos, de calidad y gratuitos.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2018)</small>
+
 ###### Artículo 58.
 
-La atención en materia de violencia en contra de las mujeres deberá ser prestada por personal profesional y especializado, continuamente capacitado en materia de equidad de género.
+La atención en materia de violencia en contra de las mujeres deberá ser prestada por personal profesional y especializado, continuamente capacitado en materia de igualdad de género.
 
 ###### Artículo 59.
 
@@ -1214,3 +1216,11 @@ P.O. 19 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO 085 POR EL QUE "SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 8 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE "SE REFORMA EL ARTÍCULO 46 (SIC) DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
