@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2018-05-29"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -2975,9 +2975,9 @@ A quien dé o haga promesas, dádivas o ventajas a un servidor público para que
 
 Al servidor público que disponga de un bien que hubiere recibido en razón de su cargo, se le impondrá de dos a diez años de prisión y de veinte a cien días multa; así como destitución del empleo o cargo e inhabilitación por el mismo término de la pena privativa de libertad impuesta.
 
-### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO URBANO
+### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO TERRITORIAL
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 249.
 
@@ -3107,17 +3107,33 @@ A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de 
 
 Al servidor público que dolosamente, con motivo de sus funciones exceda el límite de sus potestades o atribuciones, en detrimento de un particular o de la función pública, se le impondrá de dos a ocho años de prisión, de veinte a ochenta días multa, destitución del empleo o cargo e inhabilitación hasta por seis años.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2018)</small>
+
 ### CAPÍTULO I. DELITOS ELECTORALES
 
 ###### Artículo 262.
 
-A quien promueva, induzca o aliente la formación o construcción de asentamientos humanos irregulares, causando un perjuicio público por sí o por interpósita persona; o al que fraccione, enajene o se comprometa a enajenar en forma fraccionada o en lotes, un terreno urbano o rústico, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades competentes, o cuando existiendo éste no se hayan satisfecho los requisitos de tal permiso, se le impondrá de tres a nueve años de prisión y de cien a mil días multa.
+A quien promueva, induzca o aliente la formación o establecimiento de asentamientos humanos irregulares, causando un perjuicio público por sí o por interpósita persona; o al que fraccione, enajene o se comprometa a enajenar en forma fraccionada o en lotes, un terreno urbano o rústico, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades competentes, o cuando existiendo éste no se hayan satisfecho los requisitos de tal permiso, se le impondrá de tres a nueve años de prisión y de cien a mil días multa.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 Cuando se trate de servidores públicos y se encuentre en cualquiera de los supuestos de este artículo, la pena se aumentará en un medio, y la destitución del empleo o cargo e inhabilitación de uno a diez años para desempeñar cualquier función pública.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 En todo caso, la reparación del daño referida en la fracción VI del artículo 99-b deberá ser pagada a la administración pública municipal del lugar en donde se ubique el inmueble.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2018)</small>
+
+###### Artículo 262 Bis.
+
+A quien propicie, induzca, permita o se beneficie de la ocupación irregular de áreas urbanizadas y las que se consideren no urbanizables en los centros de población, de conformidad con la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, así como la Ley General de Protección Civil y el Código Territorial para el Estado y los Municipios de Guanajuato, se le impondrá una pena de tres a nueve años de prisión y de cien a mil días multa.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2018)</small>
+
+###### Artículo 262 Ter.
+
+A quien autorice la ejecución de construcciones susceptibles de ser ocupadas por personas que se ubiquen en zonas de riesgo de conformidad con lo establecido en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, así como la Ley General de Protección Civil, el Código Territorial para el Estado y los Municipios de Guanajuato, se le impondrá una pena de cinco a diez años de prisión y de cien a mil días multa.
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 2 DE NOVIEMBRE DE 2001, SE APRECIA LA EXISTENCIA DE ESTE CAPÍTULO.
 
@@ -3838,5 +3854,11 @@ Artículo Único. El presente Decreto entrará en vigencia al día siguiente al 
 P.O. 29 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 308, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 219 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 309 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO XIV DEL TÍTULO SEGUNDO, DEL LIBRO SEGUNDO Y EL ARTÍCULO 262; Y SE ADICIONAN LOS ARTÍCULOS 262-BIS Y 262-TER DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
