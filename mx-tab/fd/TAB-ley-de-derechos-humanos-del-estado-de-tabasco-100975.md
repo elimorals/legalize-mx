@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-derechos-humanos-del-estado-de-tabasco-100975"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-09"
-last_updated: "2014-05-09"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tabasco, el viernes 9 de mayo de 2014.
 
@@ -395,7 +395,9 @@ En los casos a que se refiere el segundo párrafo del artículo 4 de esta Ley, a
 
 El Consejo Consultivo estará integrado por siete consejeros. El titular de la Comisión los (sic) será también del Consejo Consultivo, los demás miembros del mismo serán honorarios.
 
-En su conformación deberá considerarse criterios de equidad de género. Cuando menos uno de los integrantes deberá ser representante de un grupo vulnerable.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2018)</small>
+
+En su conformación deberá considerarse criterios de igualdad de género. Cuando menos uno de los integrantes deberá ser representante de un grupo vulnerable.
 
 ###### Artículo 27.
 
@@ -457,9 +459,11 @@ En caso de ausencia definitiva de un Consejero, el Congreso elegirá un substitu
 
 #### Sección Primera. Disposiciones Comunes en los Procedimientos de Elección
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
+
 ###### Artículo 31.
 
-En los procedimientos de consulta pública, el Congreso del Estado considerará los principios de legalidad, independencia, imparcialidad, transparencia, pluralidad, equidad de género y no discriminación.
+En los procedimientos de consulta pública, el Congreso del Estado considerará los principios de legalidad, independencia, imparcialidad, transparencia, pluralidad, igualdad de género y no discriminación.
 
 Los procedimientos de consulta pública de elección, tendrán las siguientes premisas comunes:
 
@@ -1070,3 +1074,13 @@ SECRETARIO DE GOBIERNO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE “SE REFORMA, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 26, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 31, DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
