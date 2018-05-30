@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2017-12-30"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1777,9 +1777,13 @@ También podrán contestar toda demanda que tenga por objeto disputarle la condi
 
 337.- La filiación de los hijos nacidos fuera del matrimonio resulta, con relación a la madre, del solo hecho del nacimiento. Respecto del padre sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
 
-338.- Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2018)</small>
 
-339.- El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de éste, sin la autorización judicial.
+338.- Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2018)</small>
+
+339.- El menor de edad puede reconocer a un hijo con el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de este, con la autorización judicial.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -1899,7 +1903,7 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 A)
 
-(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)..
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
@@ -13132,6 +13136,14 @@ E) Modificar las capitulaciones matrimoniales, previo consentimiento de las pers
 P.O. 30 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0419/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0751/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 338 Y 339 DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
