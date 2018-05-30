@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2017-11-18"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -365,7 +365,7 @@ Los miembros del Ayuntamiento, el secretario del mismo, directores, así como lo
 
 Los miembros del Ayuntamiento entrarán en funciones el 5 de octubre del año de la elección y durarán en su encargo tres años.
 
-El Ayuntamiento residirá en la cabecera del Municipio respectivo. Sólo por acuerdo del Cabildo y con la aprobación de la Legislatura local, el Ayuntamiento podrá establecerse en otro lugar, comprendido dentro de los límites territoriales del Municipio.
+El Ayuntamiento residirá en la cabecera del Municipio respectivo. Solo por acuerdo del Cabildo y con la aprobación de la Legislatura local, el Ayuntamiento podrá establecerse en otro lugar, comprendido dentro de los límites territoriales del Municipio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -639,7 +639,7 @@ VIII. Establecer exenciones o subsidios respecto de las contribuciones estableci
 
 IX. Imponer sanciones administrativas por violaciones a los reglamentos municipales, que excedan los límites o excepciones a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
 
-X. Cambiar la clasificación de las plazas o cargos de confianza, a de base, durante los últimos ocho meses de su período constitucional; y
+X. Cambiar la clasificación de las plazas o cargos de confianza, a de base, durante los últimos ocho meses de su periodo constitucional; y
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -721,7 +721,7 @@ El Ayuntamiento celebrará sesiones cuantas veces sea necesario para el oportuno
 
 Con las salvedades que señala este artículo, los acuerdos de los ayuntamientos se tomarán por mayoría de votos y en caso de empate, quien los presida tendrá voto de calidad.
 
-Requieren el voto de las dos terceras partes de los integrantes de los ayuntamientos, los acuerdos del Cabildo que afecten el patrimonio inmobiliario municipal y los que autoricen actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento.
+Requieren el voto de las dos terceras partes de los integrantes de los ayuntamientos, los acuerdos del Cabildo que afecten el patrimonio inmobiliario municipal y los que autoricen actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -817,7 +817,9 @@ XII. De Participación Social y Atención Ciudadana;
 
 XIII. De Atención a Grupos Vulnerables, Adultos Mayores y Personas con Características Especiales;
 
-XIV. De Equidad y Género; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+XIV. De Igualdad de Género; y
 
 XV. Aquéllas que de manera permanente o temporal determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
@@ -1153,7 +1155,7 @@ II. Formular y someter a la aprobación del Ayuntamiento el Bando de Policía y 
 
 III. Elaborar los planes y programas municipales de acuerdo a las leyes respectivas, así como el presupuesto de ingresos y egresos, sometiéndolos a la consideración del Ayuntamiento. Debiendo además publicar en el Periódico Oficial del Estado y en todo el Municipio por el medio de comunicación impreso que considere idóneo, el Plan Municipal de Desarrollo y el Programa Operativo Anual, de inicio de un periodo Constitucional, el primero, dentro de los primeros ciento veinte días naturales de su mandato, y posteriormente el Programa Operativo Anual, dentro de los primeros noventa días de cada ejercicio fiscal anual, publicando también de manera trimestral los resultados de sus revisiones y, en su caso, sus adecuaciones.
 
-Tratándose del presupuesto de egresos correspondiente al primer año del ejercicio de un nuevo período constitucional, dentro de los sesenta días siguientes de iniciado el mismo, y conforme la previsión de los ingresos, el presidente municipal podrá solicitar al Cabildo, la aprobación de la modificación, y en su caso, la ampliación del presupuesto asignado por la administración anterior, para el ejercicio de que se trate, a fin de dar cumplimiento al Plan Municipal de Desarrollo y al Programa Operativo Anual de ese año, así como a los demás objetivos y metas que se pretendan alcanzar;
+Tratándose del presupuesto de egresos correspondiente al primer año del ejercicio de un nuevo periodo constitucional, dentro de los sesenta días siguientes de iniciado el mismo, y conforme la previsión de los ingresos, el presidente municipal podrá solicitar al Cabildo, la aprobación de la modificación, y en su caso, la ampliación del presupuesto asignado por la administración anterior, para el ejercicio de que se trate, a fin de dar cumplimiento al Plan Municipal de Desarrollo y al Programa Operativo Anual de ese año, así como a los demás objetivos y metas que se pretendan alcanzar;
 
 IV. Ejecutar los planes y programas municipales a que hace referencia la fracción anterior, así como llevar los controles presupuestales correspondientes para formular la cuenta pública, que será sometida a la Legislatura local por medio del Ayuntamiento;
 
@@ -1471,7 +1473,7 @@ I. Planear, programar, organizar y coordinar el sistema de control y evaluación
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-II. Implementar las normas de control, fiscalización, contabilidad y auditoría que deben observar las dependencias, órganos v organismos municipales, conforme a los lineamientos que determine el Comité Rector del Sistema Nacional de Fiscalización por conducto del Órgano Superior de Fiscalización del Estado;
+II. Implementar las normas de control, fiscalización, contabilidad y auditoría que deben observar las dependencias, órganos y organismos municipales, conforme a los lineamientos que determine el Comité Rector del Sistema Nacional de Fiscalización por conducto del Órgano Superior de Fiscalización del Estado;
 
 III. Vigilar el cumplimiento de las políticas y de los programas establecidos por el Ayuntamiento, así como de las normas mencionadas en la fracción anterior;
 
@@ -1907,7 +1909,9 @@ VI. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que l
 
 Artículo 94 bis. A la Dirección de Atención a las Mujeres corresponde el despacho de los siguientes asuntos:
 
-I.- Elaborar los diagnósticos municipales con respecto a la equidad de género;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+I.- Elaborar los diagnósticos municipales con respecto a la igualdad de género;
 
 II.- Promover la perspectiva de género mediante la participación de las mujeres en la toma de decisiones respecto del diseño de los planes y los programas de gobierno municipal;
 
@@ -1915,7 +1919,9 @@ III.- Presentar a la Dirección de Programación, propuesta de acciones a favor 
 
 IV.- Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades de las dependencias de gobierno estatal, federal, así como organizaciones no gubernamentales;
 
-V.- Impulsar acciones para difundir la equidad entre los géneros y el respeto a los derechos de las mujeres;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+V.- Impulsar acciones para difundir la igualdad entre los géneros y el respeto a los derechos de las mujeres;
 
 VI.- Fomentar el empleo y la aplicación de programas para la obtención de créditos que permitan a las mujeres contar con recursos para incorporarse a la actividad productiva del municipio;
 
@@ -2069,15 +2075,15 @@ El Sistema Municipal de Protección Civil será presidido por el Presidente Muni
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
-En materia de protección civil, el Presidente Municipal tendrá, además de las que establece la Ley de la materia, las siguientes facultades y obligaciones:
+En materia de protección civil, el Presidente Municipal tendrá, además de las que establece la ley de la materia, las siguientes facultades y obligaciones:
 
 I. Presidir el Sistema Municipal de Protección Civil;
 
-II. Ordenar la elaboración del Programa y Plan de Emergencia Municipal de Protección Civil y someterlo al Pleno del Consejo Municipal de Protección Civil que señala la Ley, para su análisis y aprobación, en su caso;
+II. Ordenar la elaboración del Programa y Plan de Emergencia Municipal de Protección Civil y someterlo al Pleno del Consejo Municipal de Protección Civil que señale la Ley, para su análisis y aprobación, en su caso;
 
 III. Instalar el Consejo Municipal de Protección Civil;
 
-IV. Contemplar en su Presupuesto de Egresos de cada ejercicio fiscal una partida para la prevención y auxilio de la población ante una emergencia o desastre;
+IV. Contemplar en el Presupuesto de Egresos de cada ejercicio fiscal una partida para la prevención y auxilio de la población ante una emergencia o desastre;
 
 V. Establecer comunicación permanente con autoridades estatales en la materia, en situaciones normales y ante emergencias o desastres;
 
@@ -2627,7 +2633,7 @@ La ubicación de los panteones se determinará o autorizará por los ayuntamient
 
 ###### Artículo 155.
 
-La inhumación, exhumación, rehinumación o cremación de cadáveres, sólo podrá realizarse en los panteones a que se refiere este capítulo, previo el cumplimiento de los requisitos que señalen las leyes y reglamentos aplicables.
+La inhumación, exhumación, rehinumación (sic) o cremación de cadáveres, sólo podrá realizarse en los panteones a que se refiere este capítulo, previo el cumplimiento de los requisitos que señalen las leyes y reglamentos aplicables.
 
 ###### Artículo 156.
 
@@ -2875,7 +2881,7 @@ VI. La comisión o comisiones competentes, podrán solicitar y allegarse toda la
 
 VII. En caso de considerar que el Ayuntamiento se encuentra efectivamente imposibilitado para prestar el servicio o función planteada en la solicitud, el dictamen deberá especificar si el Estado asumirá en forma total o parcial la función, servicio o servicios que correspondan, las condiciones y la temporalidad bajo las que se prestarán. En caso de ser en sentido negativo, deberá contener las consideraciones, razonamientos y fundamentos que den lugar a tal resolución;
 
-VIII. El Congreso del Estado, deberá resolver la solicitud planteada en un término no mayor a quince días naturales contados a partir del desahogo de la última prueba. En caso de que el Congreso se encontrare en receso, se convocará a período extraordinario para el desahogo del caso concreto;
+VIII. El Congreso del Estado, deberá resolver la solicitud planteada en un término no mayor a quince días naturales contados a partir del desahogo de la última prueba. En caso de que el Congreso se encontrare en receso, se convocará a periodo extraordinario para el desahogo del caso concreto;
 
 IX. En caso de declararse la procedencia de la solicitud, la resolución deberá prever lo necesario para que la función o servicio público de que se trate se transfiera al Estado de manera ordenada, conforme al programa de transferencia que acuerden las partes, en un plazo de noventa días contados a partir de la notificación de la resolución. De igual forma, deberá establecerse el carácter temporal del ejercicio o prestación de la función o servicio municipal, con el objeto de que el Municipio realice las acciones necesarias para ejercer directamente dichas facultades; y
 
@@ -3385,7 +3391,7 @@ h) Facultad del Ayuntamiento para ocupar temporalmente el servicio público e in
 
 i) Cláusula de reversión, en su caso;
 
-j) Nombre y firma del presidente municipal y del síndico que fungirán como autoridades facultadas para expedir el título-concesión; y
+j) Nombre y firma del presidente municipal y del sindico que fungirán como autoridades facultadas para expedir el título-concesión; y
 
 k) Las demás disposiciones que establezca el reglamento correspondiente y las que acuerde el Ayuntamiento.
 
@@ -3757,7 +3763,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Los Ayuntamientos de los Municipios del Estado, deberán realizar los ajustes administrativos y presupuestales necesarios para el funcionamiento de la Dirección de Protección Ambiental y Desarrollo Sustentable, a partir del inicio del ejercicio 2009, debiendo establecer la partida presupuestal correspondiente dentro de su presupuesto de egresos.
+Los Ayuntamientos de los Municipios del Estado, deberán realizar los ajustes administrativos y presupuestales necesarios para el funcionamiento de la Dirección de Protección Ambiental y Desarrollo Sustentable, a partir del inicio del ejercicio fiscal 2009, debiendo establecer la partida presupuestal correspondiente dentro de su presupuesto de egresos.
 
 P.O. 24 DE DICIEMBRE DE 2008.
 
@@ -3950,3 +3956,11 @@ QUINTO.- Las obligaciones derivadas de las reformas materia del presente Decreto
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SÉPTIMO.- Conforme a lo establecido en el Decreto por el que se expiden la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa, publicado el 18 de julio de 2016 en el Diario Oficial de la Federación y a lo dispuesto en el presente Decreto, los procedimientos de responsabilidades administrativas iniciados por autoridades del Estado de Tabasco y sus municipios con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables en la materia vigentes al momento de su inicio.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE “SE REFORMAN LA FRACCIÓN XIV DEL ARTÍCULO 58 (SIC), Y LAS FRACCIONES I Y V DEL ARTÍCULO 94 BIS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
