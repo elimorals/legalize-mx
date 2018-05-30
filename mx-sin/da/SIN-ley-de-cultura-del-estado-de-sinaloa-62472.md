@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-cultura-del-estado-de-sinaloa-62472"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-13"
-last_updated: "2016-05-16"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CULTURA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 13 de agosto de 2008.
 
@@ -625,9 +625,11 @@ Se declara de utilidad pública e interés social la investigación, protección
 
 El Ejecutivo Estatal, en los términos de la presente Ley, diseñará e instrumentará un régimen especial de protección para los bienes culturales tangibles e intangibles no sujetos a la protección de la legislación federal y con independencia de su fecha de creación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
+
 ###### Artículo 50.
 
-El régimen especial de protección del patrimonio cultural e histórico, tendrá por objeto desarrollar un plan de manejo que propicie acciones y obras tendientes a su protección, conservación, recuperación, restauración y difusión. Para tal efecto, además de los señalados en el artículo 189 de la Ley de Desarrollo Urbano del Estado de Sinaloa, se consideran patrimonio cultural e histórico los siguientes:
+El régimen especial de protección del patrimonio cultural e histórico, tendrá por objeto desarrollar un plan de manejo que propicie acciones y obras tendientes a su protección, conservación, recuperación, restauración y difusión. Para tal efecto, además de los señalados en la Ley de la materia de ordenamiento territorial y desarrollo urbano, se consideran patrimonio cultural e histórico los siguientes:
 
 I. Sitios de interés histórico: conjunto de inmuebles, espacios urbanos o naturales vinculados con la historia social, política, religiosa, económica o cultural del Estado;
 
@@ -668,6 +670,16 @@ La Declaratoria deberá publicarse en el Periódico Oficial "El Estado de Sinalo
 ###### Artículo 53.
 
 Los bienes muebles e inmuebles declarados bajo el régimen especial de protección, estarán sujetos a la salvaguarda del Estado únicamente en lo que respecta a su valor cultural e histórico, sin detrimento de las facultades que sobre ellos puedan ejercer sus propietarios o poseedores.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2018)</small>
+
+###### Artículo 53 Bis.
+
+Con respecto a los bienes muebles e inmuebles declarados bajo el régimen especial de protección, los autores de los mismos tendrán derecho de preferencia para realizar las labores de protección, conservación, recuperación, restauración y difusión a que se refiere el artículo 50 de esta ley, así como las que señala la Ley en materia de ordenamiento territorial y desarrollo urbano.
+
+En caso de encontrarse imposibilitados dichos autores para realizar dichas acciones, se les deberá tomar en cuenta para proporcionar asesoría para tales efectos.
+
+En términos de la Ley en materia de ordenamiento territorial y desarrollo urbano, las autoridades estatales y municipales en las actividades anteriormente descritas, promoverán la participación de institutos, juntas, comités, colegios, patronatos u organismos que tengan como fin la defensa, protección, acrecentamiento y recuperación del patrimonio cultural urbano del Estado.
 
 ###### Artículo 54.
 
@@ -731,7 +743,7 @@ V. Estimular su creatividad artesanal y artística;
 
 VI. Otorgar premios, estímulos o reconocimientos a quienes se distingan en la preservación, promoción, difusión e investigación de la cultura indígena de la entidad;
 
-VIl. Promover las actividades de concertación pertinentes para unificar programas, cuando las manifestaciones culturales y artísticas indígenas se produzcan en varios municipios del Estado;
+VII. Promover las actividades de concertación pertinentes para unificar programas, cuando las manifestaciones culturales y artísticas indígenas se produzcan en varios municipios del Estado;
 
 VIII. Reconocer el derecho de los pueblos indígenas a practicar y revitalizar sus tradiciones y costumbres culturales. Ello incluye el derecho a mantener, proteger y desarrollar las manifestaciones pasadas, presentes y futuras de sus culturas, como lugares arqueológicos e históricos, utensilios, diseños, ceremonias, tecnologías, artes visuales e interpretativas y literaturas;
 
@@ -820,3 +832,9 @@ P.O. 16 DE MAYO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 384 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
