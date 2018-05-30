@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2015-06-12"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2018.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -1132,7 +1132,7 @@ IV. Pago de cuotas para la constitución y fomento de sociedades cooperativas y 
 
 V. Pago de pensiones alimenticias en favor de acreedores alimentarios, decretado por la autoridad competente.
 
-En caso de que el trabajador deje de prestar sus servicios en el centro de trabajo, el patrón deberá informar a la autoridad jurisdiccional competente y los (sic) acreedores alimentarios tal circunstancia, dentro de los cinco días hábiles siguientes a la fecha de la terminación de la relación laboral;
+En caso de que el trabajador deje de prestar sus servicios en el centro de trabajo, el patrón deberá informar a la autoridad jurisdiccional competente y los acreedores alimentarios tal circunstancia, dentro de los cinco días hábiles siguientes a la fecha de la terminación de la relación laboral;
 
 VI. Pago de las cuotas sindicales ordinarias previstas en los estatutos de los sindicatos.
 
@@ -1214,7 +1214,7 @@ Lo anterior, a excepción de que el patrón hubiese obtenido de la Junta de Conc
 
 ###### Artículo 122.
 
-El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite objeción (sic) de los trabajadores.
+El reparto de utilidades entre los trabajadores deberá efectuarse dentro de los sesenta días siguientes a la fecha en que deba pagarse el impuesto anual, aun cuando esté en trámite objeción de los trabajadores.
 
 Cuando la Secretaría de Hacienda y Crédito Público aumente el monto de la utilidad gravable, sin haber mediado objeción de los trabajadores o haber sido ésta resuelta, el reparto adicional se hará dentro de los sesenta días siguientes a la fecha en que se notifique la resolución. Sólo en el caso de que ésta fuera impugnada por el patrón, se suspenderá el pago del reparto adicional hasta que la resolución quede firme, garantizándose el interés de los trabajadores.
 
@@ -2890,9 +2890,11 @@ II. La disminución importante y reiterada del volumen de ingresos, salvo que co
 
 ### CAPITULO VII. Trabajo de maniobras de Servicio Público en zonas bajo Jurisdicción Federal
 
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
+
 ###### Artículo 265.
 
-Las disposiciones de este capítulo se aplican al trabajo de maniobras de servicio público de carga, descarga, estiba, desestiba, alijo, chequeo, atraque, amarre, acarreo, almacenaje y trasbordo de carga y equipaje, que se efectúe a bordo de buques o en tierra, en los puertos, vías navegables, estaciones de ferrocarril y demás zonas bajo jurisdicción federal, al que se desarrolle en lanchas para prácticos, y a los trabajos complementarios o conexos.
+Las disposiciones de este capítulo se aplican al trabajo de maniobras de servicio público de carga, descarga, estiba, desestiba, alijo, chequeo, pilotaje o practicaje, amarre, acarreo, almacenaje y transbordo de carga y equipaje, que se efectúe a bordo de buques o en tierra, en los puertos, vías navegables, estaciones de ferrocarril y demás zonas bajo jurisdicción federal, al que se desarrolle en lanchas para prácticos, y a los trabajos complementarios o conexos.
 
 ###### Artículo 266.
 
@@ -3670,7 +3672,7 @@ II.- Acatar las órdenes de las personas designadas para impartir el adiestramie
 
 III.- Cumplir las disposiciones internas de la Unidad Médica Receptora de Residentes de que se trate, en cuanto no contraríen las contenidas en esta Ley;
 
-IV.- Asistir a las conferencias de teoría (sic) sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
+IV.- Asistir a las conferencias de teoría sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
 
 V.- Permanecer en la Unidad Médica Receptora de Residentes, en los términos del artículo siguiente; y
 
@@ -6244,7 +6246,7 @@ En los procedimientos a que se refiere este Capítulo se observarán las normas 
 
 > <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
 
-I. Para que pueda sesionar el Consejo de Representantes de la Comisión Nacional será necesario que ocurra (sic) el cincuenta y uno por ciento del total de sus miembros, por lo menos;
+I. Para que pueda sesionar el Consejo de Representantes de la Comisión Nacional será necesario que ocurra el cincuenta y uno por ciento del total de sus miembros, por lo menos;
 
 II. Si uno o más representantes de los trabajadores o de los patrones deja de concurrir a alguna sesión, se llamará a los suplentes; si éstos no concurren a la sesión para la que fueron llamados, el Presidente de la Comisión dará cuenta al Secretario del Trabajo y Previsión Social para que haga la designación de la persona o personas que deban integrar la Comisión en sustitución de los faltistas;
 
@@ -11395,3 +11397,9 @@ Décimo Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor
 D.O.F. 12 DE JUNIO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 265 DE LA LEY FEDERAL DEL TRABAJO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
