@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1108
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2017-12-09"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 16 de diciembre de 2015.
 
@@ -59,9 +59,9 @@ LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNI
 
 La presente Ley es de orden público, y tiene por objeto reglamentar los artículos 36, fracciones VII, X, XII, XXIV y XXXIX, 41, 51, fracción VII, 65, fracciones V, VI y VII, 66, 73, 75 y 76 de la Constitución Política del Estado Libre y Soberano de Tabasco, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos. Lo anterior, de conformidad con los criterios generales de responsabilidad hacendaria y financiera establecidos para todos los entes públicos locales y municipales en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, para el manejo sostenible de sus finanzas públicas.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2018)</small>
 
-El Estado de Tabasco, sus municipios y los respectivos entes públicos en cada orden de gobierno, cumplirán con los ordenamientos señalados en el párrafo anterior y las disposiciones de esta Ley, debiendo observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas y equidad de género. Adicionalmente, los Entes Públicos del Estado y los Municipios cumplirán, respectivamente, con las Reglas de Disciplina Financiera establecidas en los Capítulos I y II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, de conformidad con la normatividad contable aplicable.
+El Estado de Tabasco, sus municipios y los respectivos entes públicos en cada orden de gobierno, cumplirán con los ordenamientos señalados en el párrafo anterior y las disposiciones de esta Ley, debiendo observar que la administración de los recursos se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas e igualdad de género. Adicionalmente, los Entes Públicos del Estado y los Municipios cumplirán, respectivamente, con las Reglas de Disciplina Financiera establecidas en los Capítulos I y II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, de conformidad con la normatividad contable aplicable.
 
 Los ejecutores de gasto cumplirán las disposiciones de esta Ley aun en la administración de los recursos que no pierden su carácter federal, siempre y cuando las mismas no se contrapongan expresamente con lo dispuesto en la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación, los demás ordenamientos jurídicos aplicables y, en su caso, con lo convenido con el Gobierno Federal.
 
@@ -1720,3 +1720,11 @@ Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relati
 DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente del Fondo de Fomento Municipal con respecto a 2013, y el año en que se efectúe el cálculo, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, que a la entrada en vigor del presente decreto le corresponda a los municipios, se distribuirá en términos de lo dispuesto en el artículo 16 Quáter de la presente Ley.
 
 DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1 DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
