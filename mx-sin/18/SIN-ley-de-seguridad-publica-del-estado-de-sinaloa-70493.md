@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2016-12-28"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -259,9 +259,17 @@ VI. Ordenar los estudios y aprobar los planes y programas estatales, regionales 
 
 VII. Presidir el Consejo Estatal de Seguridad Pública del Estado de Sinaloa;
 
-VIII. Proveer en la esfera administrativa a la exacta observancia de las disposiciones de la presente ley y las demás aplicables; y,
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
 
-IX. Las demás que le confiera la presente ley y otros ordenamientos aplicables.
+VIII. Proveer en la esfera administrativa, a la exacta observancia de las disposiciones de la presente ley y las demás aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2018)</small>
+
+IX. Realizar en coordinación con los Ayuntamientos, organismos y autoridades competentes, campañas educativas permanentes que induzcan a reducir la posesión, portación y uso de armas de cualquier tipo, así como aquéllas encaminadas a concientizar a la población sobre el uso de juguetes bélicos que induzcan a conductas violentas. Dichas campañas se realizarán a través de periódicos, revistas, radio, televisión, cinematógrafos, conferencias y otros medios de difusión pertinentes, así como en las instituciones educativas, principalmente de tipo básico y medio superior; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2018)</small>
+
+X. Las demás que le confiera la presente Ley y otros ordenamientos aplicables.
 
 ###### Artículo 11.
 
@@ -285,9 +293,17 @@ III. Promover la participación de los distintos sectores sociales de la poblaci
 
 IV. Expedir la reglamentación que contenga las disposiciones jerárquicas, de estructura normativa, operativas, administrativas, principios de organización y funcionamiento, de organización territorial, mandos administrativos y operativos, patrullaje, vigilancia, dirección y disciplina del régimen interno de la Policía Preventiva Municipal, con sujeción a las disposiciones contenidas en esta Ley y acatando lo concerniente al Desarrollo Policial previsto en la Ley General del Sistema Nacional de Seguridad Pública;
 
-V. Establecer sistemas y mecanismos para la evaluación y control de confianza, y los procesos de profesionalización y desarrollo policial para la selección, ingreso, formación, permanencia, reconocimiento, régimen disciplinario, terminación del servicio, registro y certificación de los integrantes de las instituciones de seguridad pública del ámbito municipal; y,
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
 
-VI. Ejercer las demás facultades que le confieren esta Ley y otros ordenamientos aplicables.
+V. Establecer sistemas y mecanismos para la evaluación y control de confianza, y los procesos de profesionalización y desarrollo policial para la selección, ingreso, formación, permanencia, reconocimiento, régimen disciplinario, terminación del servicio, registro y certificación de los integrantes de las instituciones de seguridad pública del ámbito municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2018)</small>
+
+VI. Participar y colaborar con el Gobierno del Estado y las autoridades competentes, en la realización de campañas educativas permanentes que induzcan a reducir la posesión, la portación y el uso de armas de cualquier tipo, así como aquéllas encaminadas a concientizar a la población sobre el uso de juguetes bélicos que induzcan a conductas violentas; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MAYO DE 2018)</small>
+
+VII. Ejercer las demás facultades que le confiere esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 14.
 
@@ -3948,3 +3964,9 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 364 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
