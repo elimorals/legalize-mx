@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-la-contraloria-del-9167
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-23"
-last_updated: "2013-01-23"
+last_updated: "2018-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de enero de 2013.
 
@@ -944,3 +946,23 @@ EL SECRETARIO DE LA CONTRALORÍA
 C.P. JOSE ENRIQUE FÉLIX IÑESTA Y MONMANY
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA”.]
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los 05 días hábiles siguientes de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de la Contraloría deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría de la Contraloría, publicado en el Periódico Oficial “Tierra y Libertad”, número 5061, de 23 de enero de 2013, así como se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente instrumento; no obstante los procedimientos administrativos de responsabilidad y todas las actuaciones que se encuentran en trámite deberán ajustarse hasta su conclusión definitiva, a la normativa vigente al momento en que iniciaron, en términos de la Disposición Transitoria Tercera de la Ley de Responsabilidades Administrativas para el Estado de Morelos.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 11, fracción XXXV, y 18, fracción XXIII, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de la Contraloría del Poder Ejecutivo Estatal, dentro del plazo de 05 días hábiles a que se refiere la Disposición Transitoria Primera de la entrada en vigor del presente instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este Decreto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de la Contraloría deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por el Secretario de la Contraloría.
