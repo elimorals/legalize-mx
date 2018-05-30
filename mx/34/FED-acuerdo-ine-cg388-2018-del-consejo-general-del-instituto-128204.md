@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg388-2018-del-consejo-general-del-instituto-128204
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-04-27"
-last_updated: "2018-05-14"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128204&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2018-04-16"
 ---
 # ACUERDO INE/CG388/2018 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS DIVERSOS INE/CG383/2018 E INE/CG562/2017 CON EL PROPOSITO DE AJUSTAR EL FORMATO ESPECIFICO DEL PRIMER DEBATE Y EL CAMBIO DE HORARIO DEL SEGUNDO DEBATE, ADEMAS SE APRUEBAN LOS FORMATOS ESPECIFICOS DEL SEGUNDO Y DEL TERCER DEBATE ENTRE LA CANDIDATA Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPUBLICA, CORRESPONDIENTES AL PROCESO ELECTORAL FEDERAL 2017-2018
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 14 DE MAYO DE 2018, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 30 DE MAYO DE 2018, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS DIVERSOS INE/CG383/2018 E INE/CG562/2017 CON EL PROPÓSITO DE AJUSTAR EL FORMATO ESPECÍFICO DEL PRIMER DEBATE Y EL CAMBIO DE HORARIO DEL SEGUNDO DEBATE, ADEMÁS SE APRUEBAN LOS FORMATOS ESPECÍFICOS DEL SEGUNDO Y DEL TERCER DEBATE ENTRE LA CANDIDATA Y LOS CANDIDATOS A LA PRESIDENCIA DE LA REPÚBLICA, CORRESPONDIENTES AL PROCESO ELECTORAL FEDERAL 2017-2018
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2018.
 
 Acuerdo publicado en la Cuarta Sección al Número 22 del Diario Oficial de la Federación, el viernes 27 de abril de 2018.
 
@@ -90,3 +90,29 @@ QUINTO. Se instruye al Secretario Ejecutivo del Instituto a realizar las gestion
 [...]
 
 Los anexos podrán ser consultados mediante la liga: https://www.ine.mx/sesion-ordinaria-del-consejogeneral-25-abril-2018/
+
+D.O.F. 30 DE MAYO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA DESIGNACIÓN DE LAS PERSONAS QUE FUNGIRÁN COMO MODERADORES DEL TERCER DEBATE A LA PRESIDENCIA DE LA REPÚBLICA DEL PROCESO ELECTORAL FEDERAL 2017-2018, ASÍ COMO LA MODIFICACIÓN A LA ESCALETA CONTENIDA EN EL ANEXO IV DEL ACUERDO INE/CG388/2018, A FIN DE INCLUIR A LOS MODERADORES DESIGNADOS”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se determina que el número de moderadores para el Tercer Debate Presidencial será de tres, por tanto, se designan a las personas siguientes:
+
+* Gabriela Warkentin de la Mora
+
+* Leonardo Antonio Curzio Gutiérrez
+
+* Carlos Puig Soberón
+
+Las personas designadas cumplen con los requisitos establecidos en el Acuerdo INE/CG562/2017, por el que se emitieron las reglas básicas para la realización de los debates entre las y los candidatos a la Presidencia de la República durante el Proceso Electoral Federal 2017-2018, así como los criterios objetivos para la selección de las y los moderadores
+
+SEGUNDO. Se aprueba la modificación a la escaleta del Tercer Debate Presidencial contenida en el Anexo IV del Acuerdo INE/CG388/2018, para incluir a las tres personas designadas como moderadores. La escaleta modificada está contenida en el Anexo I que forma parte integral del presente Acuerdo.
+
+TERCERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+CUARTO. Se instruye al Secretario Ejecutivo del Instituto a realizar las gestiones necesarias para la publicación del contenido del presente Acuerdo en el Diario Oficial de la Federación y en la página de Internet del Instituto Nacional Electoral.
+
+[...]
+
+Los anexos podrán ser consultados mediante la liga: https://www.ine.mx/sesion-extraordinaria-del-consejo-general-11-mayo-2018/)
