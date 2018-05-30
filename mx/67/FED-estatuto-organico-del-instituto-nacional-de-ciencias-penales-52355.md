@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ciencias-penales-52
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-05"
-last_updated: "2016-12-27"
+last_updated: "2018-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-21"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de diciembre de 2006.
 
@@ -109,33 +109,57 @@ Cuando la Junta de Gobierno lo estime pertinente, podrá invitar a participar en
 
 La Junta ejercerá sus atribuciones conforme a la Ley Federal de las Entidades Paraestatales y su Reglamento, al Decreto por el que se crea el Instituto Nacional de Ciencias Penales, al presente Estatuto y demás normas aplicables.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018]
 
 ###### Artículo 7.
 
-La Junta de Gobierno tendrá, en forma indelegable, además de las previstas en las disposiciones legales aplicables, las atribuciones siguientes:
+La Junta de Gobierno tendrá, en forma indelegable, además de las previstas en las disposiciones legales aplicables las atribuciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 I. Establecer las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto;
 
-II. Expedir el Estatuto Orgánico del Instituto Nacional de Ciencias Penales y demás reglamentos del Instituto;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+II. Expedir el Estatuto Orgánico del Instituto Nacional de Ciencias Penales y demás reglamentos del Instituto, así como revisar y, en su caso, autorizar sus modificaciones;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 III. Aprobar el presupuesto del Instituto, de conformidad con las disposiciones legales aplicables;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 IV. Aprobar, en su caso, los informes que rinda el Director General del Instituto;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 V. Aprobar los nombramientos de profesores e investigadores que le sean propuestos por el Director General del Instituto, quien podrá hacer designaciones provisionales de profesores e investigadores para atender compromisos inmediatos del Instituto y cumplir con sus atribuciones. Dichas designaciones quedarán sujetas a la aprobación definitiva de la Junta;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 VI. Fijar y ajustar los costos de los bienes y servicios que preste el Instituto;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 VII. Expedir las normas para los casos en los que el Director General pueda disponer de los activos fijos del Instituto, que no correspondan a las operaciones propias del objeto del mismo;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 VIII. Aprobar anualmente, previo informe de los Comisarios y dictamen de los Auditores Externos, los estados financieros del Instituto;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 IX. Aprobar la estructura básica de la organización del Instituto y sus modificaciones, de conformidad con las disposiciones legales aplicables;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 X. Aprobar el nombramiento o la remoción de los Secretarios Generales y Directores del Instituto, así como los sueldos y demás prestaciones, conforme a las asignaciones globales del presupuesto de gasto corriente autorizados por la propia Junta y las disposiciones legales y administrativas aplicables a las entidades en la materia. El Director General podrá hacer designaciones provisionales de Secretarios Generales y de Directores del Instituto, las cuales quedarán sujetas a la aprobación definitiva de la Junta de Gobierno;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 XI. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen, precisamente, a los fines señalados, conforme a las instrucciones del Coordinador Sectorial;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 XII. Aprobar, con apoyo en la legislación aplicable, las normas y bases para conciliar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro de conformidad con lo dispuesto por el artículo 58 de la Ley Federal de las Entidades Paraestatales;
 
@@ -146,6 +170,8 @@ XIII. Aprobar las convocatorias, los planes y programas de estudios, así como s
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
 XIV. Aprobar la celebración de convenios con el Consejo Nacional de Ciencia y Tecnología, para establecer fondos sectoriales en términos del artículo 25 de la Ley de Ciencia y Tecnología, y
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 XV. Las demás que le confieran las leyes, los reglamentos, el Decreto de Creación y el presente Estatuto.
 
@@ -213,7 +239,9 @@ II. Validar los planes y programas de estudios y sus actualizaciones, así como 
 
 III. Emitir opinión respecto de los nombramientos de los profesores e investigadores;
 
-IV. Proponer al Director General del Instituto a los investigadores que pueden integrar el Comité de Investigación;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+IV. Designar a los investigadores que integrarán el Comité de investigación, a propuesta del Director General;
 
 V. Expresar recomendaciones y observaciones que permitan mejorar el ejercicio y cumplimiento de las atribuciones del Comité de Investigación;
 
@@ -279,17 +307,17 @@ III. Realizar actividades específicas de acuerdo con las necesidades del Instit
 
 ### CAPITULO V. DEL COMITE DE INVESTIGACION
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 22.
 
-El Comité de Investigación es la instancia de evaluación del servicio de carrera de los investigadores del Instituto Nacional de Ciencias Penales. Su objeto es determinar y aplicar los criterios de ingreso, permanencia, promoción y terminación del servicio aplicables a los investigadores del Instituto.
+El Comité de Investigación es la instancia superior del Sistema de Investigadores del Instituto Nacional de Ciencias Penales. Su objeto es conocer de todos los asuntos relacionados con el Sistema y determinar las líneas de investigación institucionales.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 23.
 
-El Comité se integrará conforme a lo dispuesto por el Reglamento del Personal de Investigación del Instituto Nacional de Ciencias Penales. Los investigadores que lo conformen deberán gozar de reconocido prestigio académico; haber realizado investigación científica de tiempo completo en México o en el extranjero, en dependencias, entidades o instituciones de educación superior o centros de investigación de los sectores público, privado o social; contar con amplia experiencia en el ámbito de la investigación y cumplir cabalmente con los criterios de evaluación señalados por el Reglamento del Personal de Investigación.
+El Comité se integrará conforme a lo dispuesto por el Reglamento de Investigación del Instituto Nacional de Ciencias Penales. Los investigadores que lo conformen deberán ser miembros activos del Sistema Nacional de Investigadores del Consejo Nacional de Ciencia y Tecnología, con amplio prestigio y experiencia en el ámbito de la investigación científica, en México o en el extranjero.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -297,23 +325,23 @@ El Comité se integrará conforme a lo dispuesto por el Reglamento del Personal 
 
 El titular de la Dirección de Investigación fungirá como Secretario permanente del Comité y manejará la correspondencia y el archivo. Asimismo, levantará las actas del Comité, las que deberán ser firmadas por los miembros presentes e informará sobre el cumplimiento de las mismas.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 25.
 
-El Comité tendrá las atribuciones que establezca el Reglamento del Personal de Investigación del Instituto Nacional de Ciencias Penales y deberá rendir un informe, al menos, dos veces al año al Consejo Académico.
+El Comité tendrá las atribuciones que establezca el Reglamento de Investigación del Instituto Nacional de Ciencias Penales y deberá rendir un informe semestral al Consejo Académico.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 26.
 
-El Comité celebrará sesiones ordinarias cada tres meses. Podrán celebrarse sesiones extraordinarias a juicio del Presidente del Comité a petición de, cuando menos, la mayoría simple de sus miembros. Para la celebración de las reuniones, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario del Comité y recibidos por los miembros de éste con una anticipación no menor de cinco días hábiles. En caso de que la reunión no pueda llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes.
+El Comité sesionará tres veces al año de forma ordinaria y las que sean necesarias mediante sesiones extraordinarias a solicitud de los integrantes del propio Comité. Para la celebración de las reuniones, la convocatoria deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por la Secretaría Técnica del Comité con tres días de anticipación, por lo menos. En caso de sesiones extraordinarias la convocatoria y la documentación deberán enviarse con veinticuatro horas de anticipación, por lo menos.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 27.
 
-El Comité sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros y sus decisiones se tomarán por mayoría simple de votos de los concurrentes. Sólo podrán votar los miembros presentes sin que, por ningún motivo, puedan computarse los votos escritos de aquellos que no concurran a las sesiones. Las votaciones serán nominales, a menos que el Director General del Instituto pida que sean económicas, secretas o por cédula. El Presidente tiene voto de calidad en caso de empate.
+El Comité sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros y sus decisiones se tomarán por mayoría simple de votos. Sólo podrán votar los miembros presentes sin que, por ningún motivo, puedan computarse los votos escritos de aquellos que no asistan a las sesiones. El Presidente tiene voto de calidad en caso de empate.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -369,7 +397,9 @@ XII. Formular el proyecto de presupuesto del Instituto y someterlo a la aprobaci
 
 XIII. Establecer mecanismos de evaluación y control del desempeño del Instituto;
 
-XIV. Nombrar, entre los candidatos que le proponga el Consejo Académico, a los investigadores que integrarán el Comité de Investigación. El Director General podrá removerlos libremente;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+XIV. Proponer al Consejo Académico, para su designación, a los investigadores que integrarán el Comité de Investigación;
 
 XV. Proponer a la Junta de Gobierno el nombramiento de los profesores e investigadores del Instituto. Además, podrá hacer designaciones provisionales de profesores e investigadores para atender compromisos inmediatos del Instituto y cumplir con sus atribuciones. Dichas designaciones provisionales quedarán sujetas a la aprobación definitiva de la Junta;
 
@@ -377,7 +407,13 @@ XVI. Presidir el Consejo Académico y el Comité de Investigación;
 
 XVII. Proponer a la Junta de Gobierno la aprobación de las convocatorias, los planes y programas de estudios, así como sus respectivas actualizaciones, y
 
-XVIII. Las demás que le encomienden las leyes, los reglamentos, el Decreto de Creación, el presente Estatuto y la Junta de Gobierno, de acuerdo con sus atribuciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE MAYO DE 2018)</small>
+
+XVIII. Proponer e implementar las políticas y actividades de comunicación social y diseño gráfico del Instituto, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE MAYO DE 2018)</small>
+
+XIX. Las demás que le encomienden las leyes, los reglamentos, el Decreto de creación, el presente Estatuto y la Junta de Gobierno, de acuerdo a sus atribuciones.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -401,15 +437,23 @@ III. Dirección de Investigación;
 
 IV. Dirección de Educación Continua;
 
-V. Dirección de Publicaciones;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
-VI. Dirección de Educación a Distancia;
+V. Dirección de Publicaciones y Biblioteca;
+
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+VI. Dirección de Tecnologías de Información, Comunicación y Educación a Distancia;
 
 VII. Dirección de Administración, y
 
 VIII. Dirección Jurídica.
 
 Asimismo, contará con el personal académico, administrativo y las unidades que sean necesarias para el cumplimiento de las funciones que tiene asignadas.
+
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2018)</small>
+
+El Instituto contará con un Órgano Interno de Control que se regirá conforme a lo dispuesto en el Capítulo V de este Estatuto.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -437,7 +481,9 @@ I. Coordinar y supervisar las tareas de las Direcciones de Posgrado, Capacitaci�
 
 II. Planear, programar, organizar, dirigir y evaluar las acciones de los cursos de Especialidad, Maestría y Doctorado;
 
-III. Programar la elaboración de los proyectos de investigación, de conformidad con el Reglamento del Personal de Investigación y los lineamientos que establezca la Junta de Gobierno y el Director General del Instituto;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+III. Programar la elaboración de los proyectos de investigación, de conformidad con el Reglamento de Investigación y los lineamientos que establezca la Junta de Gobierno y el Director General del Instituto;
 
 IV. Planear, ejecutar, supervisar y evaluar, de acuerdo con el Director General, el Programa Anual de Capacitación del Personal de la Procuraduría General de la República en lo que al Instituto Nacional de Ciencias Penales corresponda;
 
@@ -489,7 +535,9 @@ XVIII. Llevar a cabo todas aquellas funciones que le confiera o encomiende el De
 
 Son funciones de la Secretaría General de Extensión las siguientes:
 
-I. Coordinar y supervisar las tareas de las Direcciones de Educación Continua, Publicaciones y de Educación a Distancia;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+I. Coordinar y supervisar las tareas de las Direcciones de Educación Continua, Publicaciones y Biblioteca y de Tecnologías de Información, Comunicación y Educación a Distancia;
 
 II. Proponer los contenidos temáticos en materia de cursos, diplomados, seminarios, talleres y otras actividades académicas no escolarizadas;
 
@@ -505,11 +553,15 @@ VII. Proponer, coordinar y supervisar los programas de Educación a Distancia qu
 
 VIII. Proponer la firma de convenios con instituciones similares, nacionales o extranjeras y con organizaciones diversas para la elaboración de proyectos conjuntos y/o asesoría;
 
-IX. Supervisar las áreas de Biblioteca y Librería del Instituto;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
-X. Instrumentar, coordinar y evaluar las políticas de comunicación social que impulse el Instituto, según lo establezca la Junta de Gobierno o el Director General, y
+IX. Supervisar las áreas de Biblioteca y Librería del Instituto, y
 
-XI. Llevar a cabo todas aquellas funciones que le confiera o encomiende el Decreto de Creación, el presente Estatuto, la Junta de Gobierno, las disposiciones aplicables y el Director General del Instituto.
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+X. Llevar a cabo todas aquellas funciones que confiera o encomiende el Decreto de Creación, el presente Estatuto, la Junta de Gobierno, las disposiciones aplicables y el Director General del Instituto.
+
+XI. (DEROGADA, D.O.F. 30 DE MAYO DE 2018)
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -597,7 +649,9 @@ III. Proponer, coordinar y supervisar las actividades de investigación interins
 
 IV. Proponer y dar seguimiento, en coordinación con el Comité de Investigación, a las medidas tendentes al establecimiento y el mantenimiento de la planta de investigadores del Instituto Nacional de Ciencias Penales;
 
-V. Llevar a cabo el registro, seguimiento y control de informes de las investigaciones realizadas, de acuerdo a lo que establezca el Reglamento del Personal de Investigación y conforme a los lineamientos que determine el Comité de Investigación;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+V. Llevar a cabo el registro, seguimiento y control de informes de las investigaciones realizadas, de acuerdo a lo que establezca el Reglamento de Investigación y conforme a los lineamientos que determine el Comité de Investigación;
 
 VI. Rendir los informes que le sean solicitados, respecto de los resultados cualitativos y cuantitativos del trabajo de los investigadores;
 
@@ -635,65 +689,115 @@ VII. Coordinar la tramitación de los reconocimientos y acreditaciones en las ac
 
 VIII. Establecer intercambios académicos con instituciones nacionales y extranjeras para el desarrollo de las actividades que le son conferidas;
 
-IX. Proponer la firma de convenios de colaboración con instituciones nacionales y extranjeras, en el ámbito de las Ciencias Penales;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
-X. Administrar la Biblioteca Celestino Porte Petit;
+IX. Proponer la firma de convenios de colaboración con instituciones nacionales y extranjeras, en el ámbito de las Ciencias Penales, y
 
-XI. Participar en la negociación de acuerdos interbibliotecarios que firme el Instituto Nacional de Ciencias Penales con otras instituciones;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
-XII. Coordinar y supervisar las actividades de diseño gráfico para los proyectos institucionales, y
+X. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
 
-XIII. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
+XI. (DEROGADA, D.O.F. 30 DE MAYO DE 2018)
+
+XII. (DEROGADA, D.O.F. 30 DE MAYO DE 2018)
+
+XIII. (DEROGADA, D.O.F. 30 DE MAYO DE 2018)
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION DE PUBLICACIONES
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 41.
 
-Son funciones de la Dirección de Publicaciones:
+Son funciones de la Dirección de Publicaciones y Biblioteca:
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 I. Editar y publicar libros y revistas especializados en Ciencias Penales y temas afines, particularmente las que sean resultado de la labor de investigación y docencia del Instituto Nacional de Ciencias Penales;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 II. Elaborar y organizar el programa anual de publicaciones;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 III. Ejecutar los convenios de coedición que celebre el Instituto Nacional de Ciencias Penales con instituciones nacionales y extranjeras;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 IV. Participar en el Comité Editorial de la Procuraduría General de la República;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 V. Coadyuvar con la Dirección de Educación Continua en la organización de eventos para la presentación de las obras que publique el Instituto Nacional de Ciencias Penales;
 
-VI. Coordinar y supervisar la venta y distribución de publicaciones editadas por el Instituto y de otras editoriales especializadas en Ciencias Penales con las que se establezcan convenios de comercialización, y
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
-VII. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
+VI. Coordinar y supervisar, de manera directa o a través de un tercero, la venta y distribución de publicaciones editadas por el Instituto y de otras editoriales especializadas en Ciencias Penales con las que se establezcan convenios de comercialización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 30 DE MAYO DE 2018)</small>
+
+VII. Administrar la Biblioteca Celestino Porte Petit;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+VIII. Participar en la negociación de acuerdos interbibliotecarios que firme el Instituto con otras instituciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 30 DE MAYO DE 2018)</small>
+
+IX. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION DE EDUCACION A DISTANCIA
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 42.
 
-Son funciones de la Dirección de Educación a Distancia:
+Son funciones de la Dirección de Tecnologías de Información, Comunicación y Educación a Distancia:
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 I. Planear, ejecutar y evaluar la plataforma de tecnologías para brindar educación a distancia, video bajo demanda, transmisión en vivo por internet, materiales y servicios educativos multimedia;
 
-II. Instrumentar, coordinar y evaluar los programas de radio o televisión en los que participe el Instituto;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+II. Planear, difundir y ejecutar programas académicos de cursos, diplomados, especialidades y maestrías en modalidades E-Learning y Aula Virtual;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 III. Elaborar y ejecutar el programa anual en materia de tecnologías de la información y educación;
 
-IV. Establecer vínculos con instituciones públicas y privadas a fin de desarrollar, capacitar o asesorar actividades en materia de tecnologías de la educación;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+IV. Establecer vínculos y convenios de colaboración académica con instituciones públicas y privadas a fin de desarrollar, capacitar o asesorar actividades en materia de Ciencias Penales y tecnologías de la educación;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 V. Mantener actualizada a la comunidad académica del Instituto sobre las innovaciones tecnológicas, avances en la informática y sus aplicaciones en las disciplinas relacionadas con las Ciencias Penales;
 
-VI. Planear, diseñar, actualizar, innovar y operar los servicios que proporcione el Instituto Nacional de Ciencias Penales a través de internet, tales como sitios web, micrositios, blogs y redes sociales que sean utilizadas para fines educativos y de difusión de las Ciencias Penales;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
-VII. Coordinar el sistema de lectura óptica de evaluaciones de profesores y alumnos, en coordinación con las unidades académicas del Instituto, y
+VI. Planear, diseñar, actualizar, innovar y operar los servicios que proporcione el Instituto a través de internet, tales como sitios web, micrositios y redes sociales que sean utilizadas para fines educativos y de difusión de las Ciencias Penales;
 
-VIII. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+VII. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de telefonía, telecomunicaciones, informática, internet e infraestructura electrónica y tecnologías de información y comunicaciones;
+
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+VIII. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de seguridad informática y comunicaciones empleando, en su caso, servicios de terceros;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+IX. Desarrollar e implementar el programa de mantenimiento preventivo y correctivo y reemplazo de los equipos de telefonía, telecomunicaciones, informática, internet, e infraestructura electrónica del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+X. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -763,11 +867,11 @@ XIII. Las demás que le encomiende el Director General del Instituto.
 
 ### CAPITULO V. DEL ORGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 45.
 
-El titular del Organo Interno de Control será designado en términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal. El Organo Interno de Control tendrá las atribuciones que le confieren la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables.
+El titular del Órgano Interno de Control será designado en términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal. El Órgano Interno de Control tendrá las atribuciones que le confieren la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -887,17 +991,33 @@ III. Aprobar la reforma con el voto de, por lo menos, dos tercios de los miembro
 
 El Comité de Transparencia del Instituto será la instancia máxima en transparencia, acceso a la información, protección de datos personales y archivo. Deberá coordinar y supervisar las acciones en la materia de conformidad con lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 56.
 
 El Comité de Transparencia se integrará por:
 
-I. El titular de la Unidad de Transparencia, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
-II. El Director de Administración, quien fungirá como Secretario Técnico, y
+I. El Titular de la Unidad de Transparencia, quien lo presidirá;
 
-III. El Titular del Órgano Interno de Control en el Instituto.
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+II. El Director de Administración, quien fungirá como Secretario Técnico;
+
+> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+III. El Titular del Órgano Interno de Control en el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+IV. El Director de Tecnologías de Información, Comunicación y Educación a Distancia, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
+
+V. La unidad a la que el Director General asigne las actividades de Comunicación Social, en términos de los artículos 31, fracción XVIII y 32, segundo párrafo de este Estatuto.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
 Por cada integrante del Comité, habrá un suplente, quien deberá tener la jerarquía inmediata inferior a dicho titular. No podrá ser subordinado de algún otro miembro del Comité.
 
@@ -942,5 +1062,13 @@ D.O.F. 27 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES”.]
 
 Artículo Primero. Las presentes reformas y adiciones al Estatuto Orgánico del Instituto Nacional de Ciencias Penales fueron aprobadas por la H. Junta de Gobierno en su Primera Sesión Extraordinaria, celebrada el 13 de diciembre de 2016, y entrarán en vigor al día siguiente de su aprobación por la misma.
+
+Artículo Segundo. Se instruye al Director General del Instituto realizar los trámites necesarios para la publicación de las presentes reformas, adiciones y derogaciones al Estatuto Orgánico en el Diario Oficial de la Federación. Los actos que realicen las diversas áreas del Instituto, previos a la fecha de publicación, podrán estar fundados en los artículos anteriores a las reformas y adiciones al Estatuto Orgánico aprobadas en este acto por la Junta de Gobierno.
+
+D.O.F. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS, ADICIONES Y DEROGACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES”.]
+
+Artículo Primero. Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto Nacional de Ciencias Penales fueron aprobadas por la H. Junta de Gobierno en su Primera Sesión Extraordinaria de 2018, celebrada el 3 de abril de 2018, y entrarán en vigor al día siguiente de su aprobación por la misma.
 
 Artículo Segundo. Se instruye al Director General del Instituto realizar los trámites necesarios para la publicación de las presentes reformas, adiciones y derogaciones al Estatuto Orgánico en el Diario Oficial de la Federación. Los actos que realicen las diversas áreas del Instituto, previos a la fecha de publicación, podrán estar fundados en los artículos anteriores a las reformas y adiciones al Estatuto Orgánico aprobadas en este acto por la Junta de Gobierno.
