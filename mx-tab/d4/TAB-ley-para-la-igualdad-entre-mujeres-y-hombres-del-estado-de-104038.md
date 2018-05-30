@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1040
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-19"
-last_updated: "2014-11-19"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 19 de noviembre de 2014.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LOS SIGUIENTES:
 
-ANTECEDENTES...
+ANTECEDENTES
+
+[...]
 
 DÉCIMO SEXTO.- Que en virtud de lo anterior, estando facultado el Honorable Congreso del Estado Libre y Soberano de Tabasco, conforme a lo establecido en artículo 36, fracción I, de la Constitución local, para expedir, reformar, adicionar, leyes y decretos para la mejor administración de la entidad, así como para autorizar la contratación de empréstitos. Ha tenido a bien emitir el siguiente:
 
@@ -69,7 +71,9 @@ Los principios rectores de esta Ley son:
 
 I. La igualdad de trato y oportunidades entre mujeres y hombres;
 
-II. La equidad de género;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+II. La igualdad de género;
 
 III. El respeto a la dignidad humana;
 
@@ -319,7 +323,9 @@ VI. El Instituto del Deporte;
 
 VII. El Instituto Estatal de la Juventud;
 
-VIII. La Presidencia de la Comisión Orgánica de Equidad y Género del Congreso del Estado; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+VIII. La Presidencia de la Comisión Ordinaria de Igualdad de Género del Congreso del Estado; y
 
 IX. La Presidencia del Tribunal Superior de Justicia del Estado;
 
@@ -497,7 +503,9 @@ X. Fomentar la incorporación a la educación de las personas que en razón de s
 
 XI. Establecer medidas educativas destinadas al reconocimiento y enseñanzas del papel de las mujeres en la historia.
 
-### CAPÍTULO DÉCIMO. EL MODELO DE EQUIDAD Y GÉNERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2018)</small>
+
+### CAPÍTULO DÉCIMO. EL MODELO DE IGUALDAD DE GÉNERO
 
 ###### Artículo 28.
 
@@ -576,3 +584,13 @@ SECRETARIO DE GOBIERNO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE “SE REFORMAN, LA FRACCIÓN II DEL ARTÍCULO 5, LA FRACCIÓN VII DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 17, Y LA DENOMINACIÓN DEL CAPÍTULO DÉCIMO, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
