@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-del-articulo-6-parrafo-primero-de-la-110392"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-04"
-last_updated: "2015-11-04"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110392&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2015-10-29"
 
 LEY REGLAMENTARIA DEL ARTÍCULO 6o., PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DEL DERECHO DE RÉPLICA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR TREINTA DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 4 de noviembre de 2015.
 
@@ -119,9 +117,9 @@ Los promoventes con capacidad de ejercicio podrán actuar por sí o por medio de
 
 Tratándose de transmisiones en vivo por parte de los prestadores de servicios de radiodifusión o que presten servicios de televisión y audio restringidos, si el formato del programa lo permitiera y a juicio del medio de comunicación es procedente la solicitud presentada por la persona legitimada para ejercer el derecho de réplica, ésta realizará la rectificación o respuesta pertinente durante la misma transmisión, en la extensión y términos previstos en esta Ley.
 
-(NOTA: EL 1 DE FEBRERO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 122/2015 Y SUS ACUMULADAS 124/2015 Y 125/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS 90 DÍAS NATURALES SIGUIENTES A DICHA PUBLICACIÓN, PLAZO DENTRO DEL CUAL EL CONGRESO DE LA UNIÓN DEBERÁ LEGISLAR PARA SUBSANAR EL VICIO ADVERTIDO, EN LOS TÉRMINOS PRECISADOS EN EL APARTADO VII DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
-Cuando no se actualice el supuesto previsto en el párrafo anterior, la persona que desee ejercer el derecho de réplica deberá presentar ante el sujeto obligado, EN UN PLAZO NO MAYOR A CINCO DÍAS HÁBILES, CONTADOS A PARTIR DEL SIGUIENTE AL DE LA PUBLICACIÓN O TRANSMISIÓN DE LA INFORMACIÓN QUE SE DESEA RECTIFICAR O RESPONDER, un escrito que contenga lo siguiente:
+Cuando no se actualice el supuesto previsto en el párrafo anterior, la persona que desee ejercer el derecho de réplica deberá presentar ante el sujeto obligado, en un plazo no mayor a quince días hábiles, contados a partir del siguiente al de la publicación o transmisión de la información que se desea rectificar o responder, un escrito que contenga lo siguiente:
 
 I. Nombre del peticionario;
 
@@ -376,3 +374,11 @@ Artículo Segundo.- Se adiciona ...
 México, D.F., a 13 de octubre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Juan Manuel Celis Aguirre, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de octubre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10 DE LA LEY REGLAMENTARIA DEL ARTÍCULO 6o., PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DERECHO DE RÉPLICA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
