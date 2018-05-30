@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-estatal-de-las-mujeres-24848"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-22"
-last_updated: "2006-09-12"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 22 de diciembre de 2001.
 
@@ -45,9 +45,11 @@ LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y de observancia general en todo el Estado de Tabasco, y tiene por objeto la equidad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos de las disposiciones constitucionales y secundarias vigentes.
+La presente ley es de orden público y de observancia general en todo el Estado de Tabasco, y tiene por objeto la igualdad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos de las disposiciones constitucionales y secundarias vigentes.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2005)</small>
 
@@ -83,15 +85,19 @@ Perspectiva de Género: Concepto que se refiere a la metodología y los mecanism
 
 Son sujetos de los derechos que esta ley garantiza todas las mujeres mexicanas, tabasqueñas y en su caso, extranjeras que se encuentren en el territorio del Estado; y las tabasqueñas que se encuentren fuera de el; sin importar origen étnico, edad, estado civil, idioma, lengua o dialecto, cultura, condición social, religión o discapacidad; quienes podrán participar en los programas, servicios y acciones que se deriven del presente ordenamiento.
 
-###### Articulo 5.
+###### Artículo 5.
 
 El Instituto tendrá por objeto:
 
 I. Proteger, promover y difundir el respeto a los derechos humanos de las mujeres consagrados en la Constitución Política de los Estados Unidos Mexicanos y los tratados y convenciones internacionales ratificados por México;
 
-II. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de equidad;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
 
-III. Diseñar y evaluar políticas públicas con perspectiva de género que permitan la equidad entre hombres y mujeres;
+II. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de igualdad;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+III. Diseñar y evaluar políticas públicas con perspectiva de género que permitan la igualdad entre hombres y mujeres;
 
 IV. Coordinar a través del trabajo transversal con las dependencias y demás entidades de la administración pública la implementación y ejecución de políticas públicas estatales con perspectiva de género;
 
@@ -99,7 +105,9 @@ IV. Coordinar a través del trabajo transversal con las dependencias y demás en
 
 IV Bis. Impulsar campañas educativas dentro de los Centros de Internamiento para Adolescentes sujetos del Sistema Integral de Justicia, a las mujeres que se encuentren privadas de su libertad;
 
-V. Propiciar la participación de diversos actores de la sociedad, incluyendo la iniciativa privada para promover mayor equidad entre hombres y mujeres;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+V. Propiciar la participación de diversos actores de la sociedad, incluyendo la iniciativa privada para promover mayor igualdad entre hombres y mujeres;
 
 VI. Promover los mecanismos de participación de las Mujeres en la vida económica, social, cultural y política del Estado, y
 
@@ -109,7 +117,9 @@ VII. Ejecutar las acciones legales necesarias para asegurar la igualdad de oport
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones específicas:
 
-I. Diseñar e impulsar la aplicación de las políticas, estrategias, programas y acciones para promover y procurar la igualdad de oportunidades entre ambos géneros y la plena equidad en el ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+I. Diseñar e impulsar la aplicación de las políticas, estrategias, programas y acciones para promover y procurar la igualdad de oportunidades entre ambos géneros y la plena igualdad en el ejercicio de sus derechos;
 
 II. Participar en la incorporación de la perspectiva de género ante las instancias competentes en la expectativa de programación y presupuestación de egresos del gobierno estatal y los gobiernos municipales;
 
@@ -313,7 +323,9 @@ II. Tener cuando menos 25 años de edad cumplidos el día de la designación;
 
 III. Haber obtenido título profesional en grado de licenciatura, debidamente registrado;
 
-IV. Contar preferentemente con experiencia administrativa, en materia de equidad y género y las causas de las mujeres;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+IV. Contar preferentemente con experiencia administrativa, en materia de igualdad de género y las causas de las mujeres;
 
 V. Ser persona de reconocido prestigio moral y profesional, y
 
@@ -321,11 +333,11 @@ VI. Que no ostente, ni hubiere desempeñado, dos años antes, como mínimo, carg
 
 ### CAPITULO IV. DEL CONSEJO CONSULTIVO Y DEL CONSEJO SOCIAL DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 15.
 
-El Consejo Consultivo será un órgano asesor y de apoyo del Instituto, estará integrado por un grupo plural de veinticinco mujeres, nombradas de la siguiente manera: cinco por las integrantes de la Legislatura a propuesta de la Comisión de Equidad y Género en la Cámara de Diputados; una representante de los municipios designada por el Presidente Municipal, del área de atención a la mujer, así como representantes de instituciones académicas de la entidad propuestas al Consejo Directivo para su designación.
+El Consejo Consultivo será un órgano asesor y de apoyo del Instituto, estará integrado por un grupo plural de veinticinco mujeres, nombradas de la siguiente manera: cinco por las integrantes de la Legislatura a propuesta de la Comisión de Igualdad de Género en la Cámara de Diputados; una representante de los municipios designada por el Presidente Municipal, del área de atención a la mujer, así como representantes de instituciones académicas de la entidad propuestas al Consejo Directivo para su designación.
 
 Los integrantes del Consejo Consultivo no serán considerados como servidores públicos del Gobierno del Estado, por lo que sus cargos serán honoríficos; durarán en su encargo dos años, pudiendo permanecer un segundo período.
 
@@ -335,7 +347,9 @@ El propio Consejo Consultivo determinará su estructura, organización y funcion
 
 El Consejo Consultivo colaborará con el Instituto en los casos siguientes:
 
-I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al Programa Estatal para la igualdad de oportunidades y no discriminación contra las mujeres y en los demás asuntos en materia de equidad de género y mujeres que sean sometidos a su consideración;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al Programa Estatal para la igualdad de oportunidades y no discriminación contra las mujeres y en los demás asuntos en materia de igualdad de género y mujeres que sean sometidos a su consideración;
 
 II. Impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta ley;
 
@@ -345,11 +359,11 @@ IV. Apoyar el fortalecimiento de las organizaciones de mujeres y de las que trab
 
 V. Las demás que determine el estatuto orgánico del Instituto, su Reglamento Interior y las demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
 
 ###### Artículo 17.
 
-El Consejo Social será un órgano honorífico de análisis, evaluación y seguimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres en el marco de esta ley. Este se integrará por un número de veinte mujeres representativas de los sectores públicos, privados y sociales que se hayan distinguido por sus tareas a favor del impulso a la equidad de género, quienes serán propuestas por las organizaciones representativas de la defensa de los derechos de las mujeres al Consejo Directivo para su designación.
+El Consejo Social será un órgano honorífico de análisis, evaluación y seguimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres en el marco de esta ley. Este se integrará por un número de veinte mujeres representativas de los sectores públicos, privados y sociales que se hayan distinguido por sus tareas a favor del impulso a la igualdad de género, quienes serán propuestas por las organizaciones representativas de la defensa de los derechos de las mujeres al Consejo Directivo para su designación.
 
 Los integrantes del Consejo Social durarán en su encargo dos años, pudiendo permanecer un segundo período.
 
@@ -361,7 +375,9 @@ El Consejo Social colaborará con el Instituto en los casos siguientes:
 
 I. Dar seguimiento al cumplimiento de las políticas públicas, programas, proyectos y acciones que se emprendan en beneficio de las mujeres, en el marco de esta ley;
 
-II. Vigilar, ante las instancias competentes, el cumplimiento de los compromisos del estado mexicano, a nivel nacional e internacional, relacionados con la equidad de género y las mujeres;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+II. Vigilar, ante las instancias competentes, el cumplimiento de los compromisos del estado mexicano, a nivel nacional e internacional, relacionados con la igualdad de género y las mujeres;
 
 III. Elaborar y presentar al Consejo Directivo los informes de evaluación en las materias objeto de esta ley;
 
@@ -405,9 +421,11 @@ El Instituto, en la aplicación del erario, queda sometido estrictamente a las l
 
 ### CAPITULO VII. DE LA COLABORACIÓN DE LOS PODERES ESTATALES
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2018)</small>
+
 ###### Artículo 23.
 
-El Instituto solicitará a las y los titulares de las dependencias y entidades de la administración pública estatal y de los órganos de procuración e impartición de justicia y del representante legal del poder legislativo, la información pertinente en materia de equidad de género y de las mujeres, así como su colaboración dentro de las vías de su competencia, en la elaboración, ejecución y seguimiento del Programa para la Igualdad de Oportunidades y no Discriminación contra las Mujeres.
+El Instituto solicitará a las y los titulares de las dependencias y entidades de la administración pública estatal y de los órganos de procuración e impartición de justicia y del representante legal del poder legislativo, la información pertinente en materia de igualdad de género y de las mujeres, así como su colaboración dentro de las vías de su competencia, en la elaboración, ejecución y seguimiento del Programa para la Igualdad de Oportunidades y no Discriminación contra las Mujeres.
 
 ### CAPÍTULO VIII. DEL CONTROL Y EVALUACIÓN
 
@@ -492,3 +510,11 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE "SE REFORMAN, EL ARTÍCULO 1, LAS FRACCIONES II, III Y V DEL ARTÍCULO 5, LA FRACCIÓN I DEL ARTÍCULO 6, LA FRACCIÓN IV DEL ARTÍCULO 14, EL PRIMER PÁRRAFO DEL ARTÍCULO 15, LA FRACCIÓN I DEL ARTÍCULO 16, EL PRIMER PÁRRAFO DEL ARTÍCULO 17, LA FRACCIÓN II DEL ARTÍCULO 18, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 23 DE LA LEY QUE CREA EL INSTITUTO ESTATAL DE LAS MUJERES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
