@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2018-03-07"
+last_updated: "2018-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -997,9 +997,9 @@ XXIX. Disponer el uso temporal de los planteles educativos oficiales para alberg
 
 XXX.- Participar en coordinación con la Secretaría de Gobierno y la institución encargada de cultura en la realización de los actos cívicos que organice el Gobierno del Estado, de acuerdo con el calendario oficial. De igual forma, con todas aquellas dependencias, unidades, instituciones u organizaciones cuyo objeto sea el fomento de la cultura cívica y democrática;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
 
-XXXI. Impulsar y promover en los planteles educativos y áreas administrativas de la Secretaría la política transversal para la equidad de género;
+XXXI. Impulsar y promover en los planteles educativos y áreas administrativas de la Secretaría la política transversal para la igualdad de género;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -1065,7 +1065,9 @@ XII. Fomentar la participación de instituciones académicas, de investigación,
 
 XIII. Llevar a cabo los programas de desarrollo social vinculados a la transformación socioeconómica de las comunidades indígenas y grupos en situación de marginación del Estado, en coordinación con las Secretarías de Gobierno y de Educación, procurando la participación de las etnias y de los núcleos involucrados;
 
-XIV. Incorporar en los programas de desarrollo social lo conducente a atender las políticas transversales orientadas a la atención de grupos vulnerables, tales como adultos mayores, discapacitados, mujeres en desventajas, población indígenas, entre otros, así como promover al interior del sector la política de equidad de género;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
+
+XIV. Incorporar en los programas de desarrollo social lo conducente a atender las políticas transversales orientadas a la atención de grupos vulnerables, tales como adultos mayores, discapacitados, mujeres en desventajas, poblaciones indígenas, entre otros, así como promover al interior del sector la política de igualdad de género;
 
 XV. Fortalecer las actividades de desarrollo social en las zonas marginadas y la capacitación del personal responsable de este tipo de servicios, para atender y canalizar adecuadamente a la población vulnerable, como los adultos mayores y los discapacitados;
 
@@ -1173,9 +1175,9 @@ XXI. Instrumentar los programas de salud vinculados a la transformación socioec
 
 XXII. Atender los criterios y orientaciones conducentes a la participación del sector en la integración del Padrón Único de Beneficiarios que administra y opera la Secretaría de Desarrollo Social;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
 
-XXIII. Incorporar en los programas de salud lo conducente a atender las políticas transversales orientadas a la atención de grupos vulnerables tales como adultos mayores, discapacitados y madres solteras, así como promover al interior del sector, la política de equidad de género;
+XXIII. Incorporar en los programas de salud lo conducente a atender las políticas transversales orientadas a la atención de grupos vulnerables tales como adultos mayores, discapacitados y madres solteras, así como promover al interior del sector, la política de igualdad de género;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -2308,3 +2310,11 @@ Los lineamientos para la implementación y operación del SETyS, deberán emitir
 CUARTO.- El Consejo Estatal deberá quedar instalado dentro de los ciento ochenta días naturales siguientes a la fecha de entrada en vigor del Reglamento.
 
 QUINTO.- Las menciones contenidas en otras leyes, reglamentos y, en general en cualquier disposición respecto a la Secretaría de Administración, cuyo nombre se modifica por virtud de este Decreto, se entenderán referidas a la Secretaría de Administración e Innovación Gubernamental.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE "SE REFORMAN, LA FRACCIÓN XXXI DEL ARTÍCULO 30, LA FRACCIÓN XIV DEL ARTÍCULO 31 Y LA FRACCIÓN XXIII DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
