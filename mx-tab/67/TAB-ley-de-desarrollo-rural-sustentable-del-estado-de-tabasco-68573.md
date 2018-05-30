@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-rural-sustentable-del-estado-de-tabasco-68573
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-29"
-last_updated: "2017-07-05"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Suplemento F del Periódico Oficial del Estado de Tabasco, el miércoles 29 de abril de 2009.
 
@@ -287,9 +287,11 @@ V. Fomentar el aprovechamiento sustentable de los recursos naturales productivos
 
 VI. Mejorar la cantidad y la calidad de los servicios a la población.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
+
 ###### Artículo 11.
 
-Los programas y acciones de desarrollo rural sustentable que efectúe el Ejecutivo Estatal y en los que se coordine con los gobiernos federal y municipales se llevarán a cabo bajo los criterios de equidad social y de género, integralidad, productividad y sustentabilidad y atenderán de manera diferenciada y prioritaria a las regiones y zonas con mayor rezago social y económico, mediante el impulso a las actividades del medio rural, el incremento a la inversión productiva, el fomento a la diversificación de oportunidades de empleo e ingreso y la promoción de vínculos entre los ámbitos rural y urbano para facilitar a los agentes de la sociedad rural el acceso a los apoyos que requiere su actividad productiva, así como a los servicios para su bienestar.
+Los programas y acciones de desarrollo rural sustentable que efectúe el Ejecutivo Estatal y en los que se coordine con los gobiernos federal y municipales se llevarán a cabo bajo los criterios de equidad social y de igualdad de género, integralidad, productividad y sustentabilidad y atenderán de manera diferenciada y prioritaria a las regiones y zonas con mayor rezago social y económico, mediante el impulso a las actividades del medio rural, el incremento a la inversión productiva, el fomento a la diversificación de oportunidades de empleo e ingreso y la promoción de vínculos entre los ámbitos rural y urbano para facilitar a los agentes de la sociedad rural el acceso a los apoyos que requiere su actividad productiva, así como a los servicios para su bienestar.
 
 Para lo anterior, el Estado promoverá lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los instrumentos de política de desarrollo social y de población a cargo de las dependencias y entidades de la administración pública federal competentes, del Estado, y de los municipios.
 
@@ -1369,7 +1371,9 @@ Las instituciones que concurren en el Sistema Estatal de Financiamiento Rural, a
 
 En la medida en que el Estado desarrolle y consolide el Sistema Estatal de Financiamiento Rural, limitará a lo indispensable su participación en la prestación de servicios financieros directos al público, concentrándose en actividades de fomento y prestación de servicios financieros a las instituciones del Sistema Nacional de Financiamiento Rural, evitando crear competencia a dichas instituciones. El Sistema Estatal de Información para el Desarrollo Rural Sustentable incluirá información oportuna sobre montos y mecanismos de financiamiento, de acuerdo con lo que establezca la Comisión Intersecretarial Estatal con la participación del Consejo Estatal.
 
-Los programas gubernamentales rurales con componentes financieros, establecerán su área de influencia; políticas financieras; criterios de equidad de género; apoyo a grupos vulnerables, personas de la tercera edad, población indígena y las demás que establezca la Comisión Intersecretarial Estatal, con la participación del Consejo Estatal.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2018)</small>
+
+Los programas gubernamentales rurales con componentes financieros, establecerán su área de influencia; políticas financieras; criterios de igualdad de género; apoyo a grupos vulnerables, personas de la tercera edad, población indígena y las demás que establezca la Comisión Intersecretarial Estatal, con la participación del Consejo Estatal.
 
 El Gobierno Estatal impulsará la participación de las instituciones del Sistema Estatal de Financiamiento Rural en la prestación de servicios de crédito, ahorro, seguros, transferencia de remesas, servicios de pagos y la aportación de capital de riesgo al sector, que podrán incluir, entre otras:
 
@@ -1695,9 +1699,11 @@ La Comisión Intersecretarial Estatal, con la participación del Consejo Estatal
 
 ### CAPÍTULO XIV. DEL BIENESTAR SOCIAL Y LA ATENCIÓN PRIORITARIA A LAS ZONAS DE MARGINACIÓN
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2018)</small>
+
 ###### Artículo 156.
 
-Los programas del Ejecutivo Estatal, impulsarán una adecuada integración de los factores del bienestar social como son la salud, la seguridad social, la educación, la alimentación, la vivienda, la equidad de género, la atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos indígenas, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
+Los programas del Ejecutivo Estatal, impulsarán una adecuada integración de los factores del bienestar social como son la salud, la seguridad social, la educación, la alimentación, la vivienda, la igualdad de género, la atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos indígenas, la cultura y la recreación; mismos que deberán aplicarse con criterios de igualdad.
 
 Para el desarrollo de estos programas, el Ejecutivo del Estado, mediante convenios con los gobiernos municipales, fomentará el Programa Estatal Concurrente, conjuntamente con la organización social, para coadyuvar a superar la pobreza, estimular la solidaridad social, el mutualismo y la cooperación. Para los efectos del referido programa, de manera enunciativa y no restrictiva, de acuerdo con las disposiciones constitucionales y la legislación aplicable, se seguirán los lineamientos siguientes:
 
@@ -2134,3 +2140,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE "SE REFORMAN, EL PRIMER PÁRRAFO DEL ARTÍCULO 11, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 120, EL PRIMER PÁRRAFO DEL ARTÍCULO 156, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
