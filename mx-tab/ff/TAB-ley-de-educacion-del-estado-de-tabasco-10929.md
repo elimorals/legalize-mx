@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2017-07-05"
+last_updated: "2018-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -149,9 +149,9 @@ XX.- Promover la difusión de información sobre los impactos, vulnerabilidad y 
 
 XXI.- Fomentar el hábito de la lectura entre los tabasqueños;
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2018)</small>
 
-XXII.- Fomentar y promover en los educandos de los niveles básico, medio superior y superior, el respeto por los derechos de las mujeres y la enseñanza de la equidad de género.
+XXII.- Fomentar y promover en los educandos de los niveles básico, medio superior y superior, el respeto por los derechos de las mujeres y la enseñanza de la igualdad de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -2490,3 +2490,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 30 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 196 POR EL QUE “SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
