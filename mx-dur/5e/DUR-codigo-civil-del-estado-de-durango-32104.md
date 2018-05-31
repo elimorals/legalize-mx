@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2017-12-31"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1519,9 +1519,9 @@ En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges
 
 ART. 284.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse con persona distinta sino después de dos años, a contar desde que se efectuó el divorcio.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 31 DE MAYO DE 2018)</small>
 
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio con persona distinta, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE MAYO DE 2018)</small>
 
 ART. 285.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrán si no hubiere existido dicho juicio.
 
@@ -3853,7 +3853,9 @@ ART. 859.- Es lícito a cualquiera persona apropiarse los enjambres que no hayan
 
 ART. 860.- No se entiende que las abejas han abandonado la colmena cuando se han posado en predio propio del dueño, o éste las persigue llevándolas a la vista.
 
-ART. 861.- Los animales feroces que se escaparen del encierro en que los tengan sus dueños, podrán ser destruidos o capturados por cualquiera. Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que hubieren ocasionado.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
+ART. 861.- Los animales potencialmente peligrosos y los animales domésticos de compañía que se escaparen del encierro en que los tengan sus dueños, podrán ser capturados por cualquiera. Así mismo cuando causen un daño a terceros, en su persona o en sus bienes, su Propietario, Poseedor o Encargado según sea el caso, será responsable del pago de daños y perjuicios que hubieran ocasionado.
 
 ART. 862.- La apropiación de los animales domésticos se rige por las disposiciones contenidas por el Título de los bienes mostrencos.
 
@@ -10263,7 +10265,9 @@ De la extinción de las inscripciones.
 
 ART. 2907.- Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
 
-ART. 2908.- Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
+ART. 2908.- Las inscripciones pueden cancelarse por consentimiento de las partes, por resolución del titular del Registro Público de la Propiedad o por sentencia judicial.
 
 ART. 2909.- La cancelación de las inscripciones podrá ser total o parcial.
 
@@ -10271,7 +10275,9 @@ ART. 2910.- Podrá pedirse y deberá ordenarse en su caso, la cancelación total
 
 I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
 
-II.- Cuando se extinga también por completo el derecho inscrito;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+II.- Cuando se extinga o prescriba el derecho inscrito, en los términos de los artículos 1121, 1137 y 1138 de este Código. En el caso de prescripción, la solicitud de cancelación de la inscripción se formulara ante el Registro Público de la Propiedad, quien resolverá lo conducente. La Ley Reglamentaria del Registro Público de la Propiedad dispondrá el procedimiento a seguir.
 
 III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
 
@@ -10679,8 +10685,32 @@ TERCERO.- Se derogan todas aquellas disposiciones legales y administrativas que 
 
 P.O. 31 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 350.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV, DEL TÍTULO NOVENO DEL LIBRO PRIMERO, ASÍ COMO LOS ARTÍCULOS 1184, 1193, 1194, 1387, FRACCIONES III Y IV, 1401, 1402 Y 1418, DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO."]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 350.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV, DEL TÍTULO NOVENO DEL LIBRO PRIMERO, ASÍ COMO LOS ARTÍCULOS 1184, 1193, 1194, 1387, FRACCIONES III Y IV, 1401, 1402 Y 1418, DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO.”]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 377.- POR EL CUAL SE DEROGA EL PÁRRAFO PENÚLTIMO DEL ARTÍCULO 284 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 378.- POR EL CUAL SE REFORMA EL ARTÍCULO 861 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 383.- QUE CONTIENE REFORMAS Y ADICIONES A LOS ARTÍCULOS 2908 Y 2910 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente ordenamiento.
