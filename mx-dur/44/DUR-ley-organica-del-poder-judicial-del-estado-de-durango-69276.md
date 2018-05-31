@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2017-11-16"
+last_updated: "2018-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -173,7 +173,7 @@ I. Dictar resoluciones de manera oportuna, fundada y motivada, con sujeción a l
 
 II. Concurrir, participar y votar, cuando corresponda, en las sesiones a las que sean convocados por los presidentes de los órganos a los que pertenezcan;
 
-III. Formular los proyectos de resolución que recaigan a los expedientes que les sean turnados para tal efecto por él Pleno del Tribunal Superior de Justicia;
+III. Formular los proyectos de resolución que recaigan a los expedientes que les sean turnados para tal efecto por el Pleno del Tribunal Superior de Justicia;
 
 IV. Discutir y votar los proyectos de resolución que sean sometidos a su consideración en las sesiones de sus correspondientes órganos;
 
@@ -193,7 +193,11 @@ X. Proponer a los servidores públicos de su adscripción como candidatos a reci
 
 XI. Informar al Consejo de la Judicatura de las irregularidades u omisiones graves que adviertan en los procedimientos sometidos a su conocimiento, en que hayan incurrido los jueces y demás servidores públicos del Poder Judicial del Estado, con el fin de que en su caso, se inicie el procedimiento respectivo; y
 
-XII. Las demás que expresamente les confiere esta ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XII. En el caso de acceso a la justicia para personas con discapacidad, emitir sus resoluciones e incluso efectuar adaptaciones de procedimiento aplicando los ajustes razonables correspondientes, especialmente cuando se trate de casos donde se involucren indígenas, mujeres y menores de edad con discapacidad, cumpliendo con las disposiciones de la legislación competente en la materia; y
+
+XIII. Las demás que expresamente les confiere esta ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. DEL PLENO
 
@@ -729,7 +733,11 @@ XVI. Fungir como jurado en los concursos de oposición cuando así lo disponga e
 
 XVII. Proponer a los servidores públicos de su adscripción como candidatos a recibir estímulos y recompensas; y
 
-XVIII. Las demás que las leyes le señalen o le sean delegadas por los órganos superiores.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XVIII. En el caso de acceso a la justicia para personas con discapacidad, emitir resoluciones e incluso efectuar adaptaciones de procedimiento, aplicando los ajustes razonables correspondientes, especialmente cuando se trate de casos donde se involucren indígenas, mujeres y menores de edad con discapacidad, cumpliendo con las disposiciones de la legislación competente en la materia; y
+
+XIX. Las demás que las leyes le señalen o le sean delegadas por los órganos superiores.
 
 ###### ARTÍCULO 42.
 
@@ -1355,7 +1363,11 @@ XLVII. Elaborar a propuesta del Presidente, el Plan Trianual de Desarrollo Estra
 
 XLVIII. Desempeñar cualquiera otra función que esta ley o el Tribunal Superior de Justicia por acuerdo del Pleno le encomiende; y
 
-XLIX. Las demás que le confieran las leyes u otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XLIX. Emitir acuerdos para que el Poder Judicial garantice el acceso a la justicia para las personas con discapacidad, tomando en cuenta las disposiciones del Protocolo de Actuación para quienes imparten Justica en casos que involucren Derechos de Personas con Discapacidad, elaborado por la Suprema Corte de Justicia de la Nación; y
+
+L. Las demás que le confieran las leyes u otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 88.
 
@@ -3471,7 +3483,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulad
 
 P.O. 5 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 69.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
+## [N.DE E. TRANSITORIOS DEL “DECRETO NO. 69.- QUE CONTIENE REFORMAS A DIVERSOS ARTICULOS DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
@@ -3540,3 +3552,11 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 381.- QUE CONTIENE REFORMAS Y ADICIONES A LOS ART. 5, 41 Y 87 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
