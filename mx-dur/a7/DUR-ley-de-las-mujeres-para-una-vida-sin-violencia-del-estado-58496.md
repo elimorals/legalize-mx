@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2017-11-19"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -251,33 +251,61 @@ La violencia contra las mujeres en el ámbito laboral, son todos los actos u omi
 
 Constituye violencia en contra de las mujeres en el ámbito escolar todas aquellas acciones u omisiones que dañen la autoestima de las alumnas con actos de discriminación por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, su situación académica, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos, realizada por alumnos, docentes, personal directivo o administrativo, los prefectos, los intendentes, entre otros integrantes de la institución académica.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
 
 ###### Artículo 11 Bis.
 
-Constituye violencia en contra de las mujeres en el ámbito público todas aquellas acciones u omisiones que impidan a las mujeres el efectivo ejercicio de sus derechos políticos electorales, en sus vertientes de su derecho a votar y ser votadas y el ejercicio de la función o cargo público para el que fueron electas o designadas.
+Constituye violencia política contra las mujeres, cualquier acto u omisión que cause daño de cualquier índole, o que, en virtud de la fortaleza de las mujeres, no causándolo, tenga el objetivo de impedir, limitar, amedrentar, desprestigiar, ridiculizar o excluir a una o varias mujeres del ejercicio de sus derechos políticos electorales, como pueden ser: su acceso a los espacios de poder público y al debate de la toma de decisiones, o marginarla de la conformación de órganos de representación popular, o que desista o abandone su actividad política o afectarla en el ejercicio de su encargo público.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2018)</small>
 
 ###### Artículo 11 Ter.
 
-Son actos de violencia política hacia las mujeres:
+Se consideran actos de violencia política hacia las mujeres entre otros:
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
 
 a) Limitar sin justificación el ejercicio de sus derechos para contender en los procesos internos de sus institutos políticos, con la finalidad de que no logren acceder a una candidatura, o en los procesos interpartidarios para ocupar un cargo o cartera dentro de su instituto político;
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+
 b) Proporcionar información incompleta, falsa o errónea de datos personales de las mujeres candidatas a cargo de elección popular, al Instituto Electoral y de Participación Ciudadana del Estado de Durango o de los Consejos Municipales del propio Instituto, con la finalidad de impedir el registro o anular sus candidaturas;
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
 
 c) Limitar, retener o retrasar, sin justificación, la entrega de recursos para el financiamiento de las campañas electorales;
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+
 d) Coartar o impedir las facultades inherentes en la Constitución y los ordenamientos jurídicos, para proteger sus derechos frente a los actos que violenten o eviten el ejercicio de su representación política;
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
 
 e) Impedir o restringir el ejercicio de sus derechos político-electorales, mediante la aplicación de sanciones sin motivación o fundamentación, contraviniendo las formalidades esenciales del procedimiento, sin respetar la presunción de inocencia ni el derecho humano al debido proceso legal;
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2017)</small>
+
 f) Publicar o revelar información personal, privada o falsa, con el objetivo de difamar o menoscabar su dignidad humana, con la finalidad de obtener con o sin su consentimiento, la remoción, renuncia o licencia al cargo electo o en ejercicio;
 
-g) Proporcionar u ocultar, mediante el engaño, información que induzca al ejercicio ilícito de sus funciones de representación política; y
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
 
-h) Obligar, intimidar o amenazar a suscribir documentos, a colaborar en proyectos o adoptar decisiones en contra de su voluntad o del interés público, en función de su representación política.
+g) Proporcionar u ocultar, mediante el engaño, información que induzca al ejercicio ilícito de sus funciones de representación política;
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
+h) Obligar, intimidar o amenazar a suscribir documentos, a colaborar en proyectos o adoptar decisiones en contra de su voluntad o del interés público, en función de su representación política;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+i) Asignar responsabilidades de género que tengan como resultado la limitación del ejercicio de la función político publica;
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+j) Divulgar o revelar información personal y privada de las mujeres candidatas, electas, designadas o en el ejercicio de funciones político-publicas, con el objetivo de menoscabar su dignidad como seres humanos y utilizar la misma para obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan; y
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+k) Restrinjir (sic) el uso de la palabra, en las sesiones u otras reuniones y su participación en comisiones, comités y otras instancias inherentes a su cargo, conforme a la reglamentación establecida.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
@@ -455,7 +483,9 @@ Cuando la víctima sea mayor de 12 años de edad podrá solicitar a las autorida
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán prestar a las víctimas la atención siguiente:
 
-I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+I. Fomentar la adopción, aplicación de acciones, programas y protocolos por medio de los cuales se brinde protección integral y especializada para las ofendidas, así como la aplicación de programas específicamente diseñados para la prestación de servicios integrales para el presunto agresor o agresora.
 
 II. Promover la atención a víctimas por parte de las diversas instituciones de salud públicas o privadas que brinden atención y servicio;
 
@@ -463,9 +493,17 @@ III. Proporcionar a las víctimas la atención especializada médica, psicológi
 
 IV. Proporcionar un refugio seguro a las víctimas y sus hijos;
 
-V. Informar a la autoridad competente de los casos de violencia contra las mujeres que ocurran en las instituciones educativas, de salud o cualquier otra donde se brinden atención o servicios a las mujeres, ya sean del sector público o privado; y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
-VI. Garantizar la seguridad e integridad física de las víctimas que denuncian a través de las instituciones de procuración de justicia y de seguridad pública, y solicitar o decretar las medidas de protección en los casos en que exista un riesgo objetivo para su vida o integridad corporal.
+V. Informar a la autoridad competente de los casos de violencia contra las mujeres que ocurran en las instituciones educativas, de salud o cualquier otra donde se brinden atención o servicios a las mujeres, ya sean del sector público o privado;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+VI. Garantizar la seguridad e integridad física de las víctimas que denuncian a través de las instituciones de procuración de justicia y de seguridad pública, y solicitar o decretar las medidas de protección en los casos en que exista un riesgo objetivo para su vida o integridad corporal; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+VII. Difundir y dar seguimiento a la observancia del Código de Ética para los Servidores Públicos del Poder Ejecutivo del Estado de Durango y las Reglas de Integridad para el Ejercicio de la Función Pública y al Protocolo para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual, en las Dependencias del Gobierno del Estado de Durango.
 
 En el ejercicio de los derechos tutelados en la presente ley, la víctima contará con información suficiente e inteligible para orientar sus decisiones; en caso de tratarse de mujeres indígenas, éstas serán asistidas gratuitamente en todo tiempo por intérpretes que tengan conocimiento de su lengua y cultura.
 
@@ -1011,19 +1049,35 @@ X. Vigilar que los medios de comunicación no promuevan imágenes estereotipadas
 
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
-XI Vigilar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables;
+XI. Vigilar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables;
 
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
 
 XII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
-XIII. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley; y
+XIII. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
 
-XIV. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
+XIV. Establecer políticas públicas y protocolos que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XV. Difundir entre la población las figuras delictivas del hostigamiento y el acoso sexual;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XVI. Diseñar programas que brinden servicios integrales especializados para ofendidas y presunto o presunta generador de violencia;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XVII. Difundir y dar seguimiento a la observancia del Código de Ética para los Servidores Públicos del Poder Ejecutivo del Estado de Durango y las Reglas de Integridad para el Ejercicio de la Función Pública y al Protocolo para la Prevención, Atención y Sanción del Hostigamiento Sexual y Acoso Sexual, en las dependencias del Gobierno del Estado de Durango; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2018)</small>
+
+XVIII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1662,3 +1716,27 @@ El reglamento respectivo deberá adecuarse a la presente Ley en un término no m
 ###### ARTÍCULO TERCERO.
 
 Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven de la presente Ley, se cubrirán con cargo a las partidas presupuestales relacionadas con la atención a las mujeres del presupuesto autorizado para cada ejercicio fiscal de las dependencias y entidades estatales y municipales involucradas, las cuales harán las debidas previsiones en la planeación y programación de los subsecuentes presupuestos de egresos del Estado y los municipios, respectivamente.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 373.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 374.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE MUJERES PARA UNA VIDA SIN VIOLENCIA".]
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
