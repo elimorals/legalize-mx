@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "2017-03-05"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -2015,9 +2015,11 @@ Si el Juez encontrare que el emplazamiento no se hizo correctamente, mandará re
 
 Se presumirán confesados los hechos de la demanda que se deje de contestar.- Sin embargo, se tendrá por contestada en sentido negativo cuando se trate de asuntos que afecten las relaciones familiares, el estado civil de las personas, cuestiones de arrendamiento de fincas urbanas para habitación cuando el demandado sea el inquilino y en los casos en que el amplazamiento (sic) se hubiere hecho por edictos.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 272.
 
-El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; y se dará translado (sic) del escrito al actor, para que conteste en el término de seis días, observándose respecto de éste y del demandado las mismas reglas que quedan establecidas en los artículos 265 y siguientes.
+El demandado que oponga reconvención o compensación lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de nueve días.
 
 ###### ARTICULO 272-A.
 
@@ -7054,3 +7056,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 375.- POR EL QUE SE REFORMA EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
