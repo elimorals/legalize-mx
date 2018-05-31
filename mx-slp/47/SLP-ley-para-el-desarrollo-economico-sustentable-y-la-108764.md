@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2017-04-27"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -375,7 +375,7 @@ La cancelación de la inscripción en el Padrón procederá a petición de la em
 
 El Ejecutivo del Estado, a través de la Secretaría, sin perjuicio de las disposiciones fiscales y administrativas que establezcan las leyes respectivas, promoverá las siguientes acciones:
 
-l. En materia de instrumentos financieros:
+I. En materia de instrumentos financieros:
 
 a) Realizar convenios con el sector privado.
 
@@ -453,9 +453,17 @@ XIV. Den empleo a adultos mayores;
 
 XV. Fomenten la integración de cadenas productivas;
 
-XVI. Sustituyan importaciones mediante la adquisición de insumos, componentes, servicios o productos que se generen en el Estado, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
-XVII. Realicen nuevas inversiones, o amplíen sus instalaciones, generando con su actividad nuevos empleos permanentes.
+XVI. Sustituyan importaciones mediante la adquisición de insumos, componentes, servicios o productos que se generen en el Estado;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XVII. Realicen nuevas inversiones, o amplíen sus instalaciones, generando con su actividad nuevos empleos permanentes, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XVIII. Generen nuevas fuentes de empleos bien remunerados para connacionales repatriados.
 
 ### CAPÍTULO IX. Del Procedimiento para Otorgar Incentivos
 
@@ -513,9 +521,17 @@ XVI. Sustitución de las importaciones;
 
 XVII. Fomento de las alianzas estratégicas con inversionistas regionales;
 
-XVIII. Desarrollo de los proveedores de insumos regionales, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
-XIX. Fomento de la cooperación con el sector educativo, en lo relativo a formación y capacitación de técnicos y profesionistas.
+XVIII. Desarrollo de los proveedores de insumos regionales;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XIX. Fomento de la cooperación con el sector educativo, en lo relativo a formación y capacitación de técnicos y profesionistas, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XX. Número de empleos de nueva creación, y remuneración promedio para connacionales repatriados.
 
 ###### ARTÍCULO 39.
 
@@ -856,5 +872,13 @@ P.O. 27 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0613.- SE REFORMA Y ADICIONA LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ."]
 
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 964.- SE REFORMAN LOS ARTÍCULOS 33, Y 38 DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
