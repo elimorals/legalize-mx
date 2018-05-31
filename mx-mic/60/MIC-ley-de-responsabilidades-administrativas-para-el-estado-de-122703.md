@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-administrativas-para-el-estado-de-1227
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de julio de 2017.
 
@@ -1749,6 +1749,10 @@ SEGUNDO. Se derogan los capítulos I, II, VI y VII de la Ley de Responsabilidade
 
 TERCERO. Los procedimientos iniciados con anterioridad a la entrada en vigencia de la presente Ley, se seguirán sustanciando con la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios, publicada mediante Decreto 337 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 14 de octubre del año 2014.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+CUARTO. Los servidores públicos que antes de la entrada en vigor de la presente Ley no se encontraban obligados a la presentación de la declaración de situación patrimonial y de intereses, quedarán obligados a presentarlas dentro de los 40 cuarenta días hábiles siguientes, a que el Comité Coordinador del Sistema Estatal Anticorrupción emita de manera oficial los formatos que se aplicarán para la presentación de dichas declaraciones, con los datos actualizados a la fecha de su presentación, debiendo cumplir en lo sucesivo con el resto de las obligaciones que esta Ley impone a los sujetos obligados en materia de declaración patrimonial y de intereses.
+
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 06 seis días del mes de Junio de 2017 dos mil diecisiete.
@@ -1758,3 +1762,13 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 06 seis días del mes de julio del año 2017 dos mil diecisiete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2018.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE ADICIONA UN ARTÍCULO TRANSITORIO CUARTO AL DECRETO 368 POR EL QUE SE EXPIDE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
