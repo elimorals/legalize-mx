@@ -4,7 +4,7 @@ identifier: "LSPM"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-24"
-last_updated: "2015-06-04"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=307&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSPM"
 
 LEY DEL SERVICIO POSTAL MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 24 de diciembre de 1986.
 
@@ -64,13 +64,11 @@ ORGANISMO.- El Organismo Descentralizado denominado Servicio Postal Mexicano.
 
 Los actos relativos a la prestación del servicio público de correos y de los servicios diversos a que se refiere esta Ley son de competencia federal.
 
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2018)</small>
+
 ###### ARTICULO 4o.
 
-El Gobierno Federal, por conducto del Organismo, tendrá a su cargo la recepción, transportación y entrega de la correspondencia, así como la planeación, establecimiento, conservación, operación, organización y administración de los servicios diversos contenidos en esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2015)</small>
-
-El Organismo utilizará para la continuidad y modernización del Servicio Postal Mexicano, tecnologías de la información y comunicación gestionando nuevos productos y servicios que permitan de acuerdo con los estándares de eficiencia y calidad del mercado nacional, agilizar la recepción, transportación y entrega de correspondencia, así como de la prestación de los diversos servicios a que se refiere esta Ley.
+El Gobierno Federal, por conducto del Organismo, tendrá a su cargo la recepción, transportación y entrega de la correspondencia, así como de los servicios diversos de recepción, transportación y entrega de envíos distintos a la correspondencia a que se refiere el artículo 2o., por sí o a través de asociaciones públicas o privadas aprovechando el uso de las tecnologías de la información y comunicaciones. De igual forma, tendrá a su cargo la planeación, establecimiento, conservación, operación, organización y administración de los servicios diversos contenidos en esta Ley.
 
 ###### ARTICULO 5o.
 
@@ -617,3 +615,9 @@ D.O.F. 26 DE MARZO DE 2010.
 D.O.F. 4 DE JUNIO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4o. DE LA LEY DEL SERVICIO POSTAL MEXICANO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
