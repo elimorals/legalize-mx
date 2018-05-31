@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2015-del-pleno-del-consejo-de-la-110607"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2017-12-14"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110607&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-11-20"
 
 ACUERDO GENERAL 48/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN CINTALAPA DE FIGUEROA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2018.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
@@ -119,9 +119,11 @@ Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en lo
 
 El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro.
 
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MAYO DE 2018)</small>
+
 ###### Artículo 6.
 
-La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Chiapas, con la totalidad de sus municipios.
+La jurisdicción territorial de los Juzgadores del Centro comprenderá los siguientes municipios: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Ángel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larráinzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
 
 ###### Artículo 7.
 
@@ -462,3 +464,51 @@ SEGUNDO. Los asuntos que se encuentren ingresados en los Tribunales Unitarios Pr
 TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para, en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en el artículo 17, segundo párrafo y el Transitorio TERCERO del Acuerdo General 48/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa.
+
+D.O.F. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 11/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TAPACHULA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciocho, con excepción de lo dispuesto en los párrafos siguientes:
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
+
+El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Vigésimo Circuito con residencia en Cintalapa de Figueroa, Chiapas, para conocer, en el orden numérico de su denominación, de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+Los Tribunales Unitarios indicados precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como Tribunales Unitarios de Circuito.
+
+TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17, último párrafo y transitorio SEGUNDO del presente Acuerdo.
+
+CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015, del Pleno del Consejo de la Judicatura Federal, mediante el cual se habilita a los Jueces de Distrito de los Centros de Justicia Penal Federal para que ejerzan funciones de ejecución de sanciones penales.
+
+QUINTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
+
+SEXTO. Se reforma el artículo 6 del Acuerdo General 48/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, para quedar como sigue:
+
+“Artículo 6. La jurisdicción territorial de los Juzgadores del Centro comprenderá los siguientes municipios: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Ángel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larráinzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.”
+
+SÉPTIMO. Se adicionan las fracciones VI Bis al numeral QUINTO BIS; y II Bis y II Ter al numeral QUINTO TER del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“QUINTO BIS. ...
+
+I. a VI. …
+
+VI Bis. El Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Tapachula.
+
+VII. a XXXVIII. …
+
+QUINTO TER. …
+
+I. a II. ...
+
+II Bis. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, cuya jurisdicción territorial comprenderá los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Ángel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larráinzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago El Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán; todos ellos del Estado de Chiapas.
+
+II Ter. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia en Tapachula, cuya jurisdicción territorial comprenderá los municipios de: Acacoyagua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán; todos ellos del Estado de Chiapas.
+
+III. a XIII. …”
+
+OCTAVO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
