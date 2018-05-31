@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-fideicomiso-publico-denominado-50895"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-22"
-last_updated: "2012-10-08"
+last_updated: "2018-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO PÚBLICO DENOMINADO "OPERADORA DE PROYECTOS ESTRATÉGICOS DEL ESTADO DE SONORA"
 
-ÚLTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2018.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 22 de junio del 2006.
 
@@ -77,9 +77,9 @@ VII. Reglamento: El Reglamento Interior del Fideicomiso Público Denominado "Ope
 
 Para el cumplimiento de su objeto, la Operadora contará con un Comité Técnico que será la máxima autoridad, un Director General y las siguientes unidades administrativas:
 
-I.- Coordinación Técnica de Desarrollo de Proyectos;
+I. (DEROGADA, B.O. 31 DE MAYO DE 2018.)
 
-II.- Dirección de Arquitectura e Imagen Urbana;
+II. (DEROGADA, B.O. 31 DE MAYO DE 2018.)
 
 III.- Dirección de Análisis y Gestión Financiera;
 
@@ -213,7 +213,7 @@ III. Aquellas que le confiera el Comité Técnico o el presente Reglamento.
 
 Los demás miembros integrantes del Comité Técnico, así como los vocales de la iniciativa privada, tendrán las siguientes funciones:
 
-l. Asistir a las sesiones del Comité Técnico;
+I. Asistir a las sesiones del Comité Técnico;
 
 II. Procurar, dentro del ámbito de su competencia, la ejecución de las decisiones que tome el Comité Técnico;
 
@@ -259,53 +259,11 @@ XII. Aquellas que requiera para el mejor desempeño de las anteriores atribucion
 
 El Director General, de conformidad con las disposiciones aplicables, podrá contratar la asesoría externa que se requiera para la adecuada ejecución y desarrollo de los proyectos a cargo de la Operadora. Para tal efecto, deberá celebrar los contratos de prestación de servicios correspondientes, con aquellas personas físicas o morales que acrediten capacidad técnica en su área, en base a los procedimientos, criterios y lineamientos generales que habrán de seguirse para la selección y, en su caso, contratación de asesoría externa.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE OCTUBRE DE 2012)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 31 DE MAYO DE 2018.)</small>
 
 ### CAPÍTULO III BIS. DE LAS ATRIBUCIONES DE LA COORDINACIÓN TÉCNICA Y DE DESARROLLO DE PROYECTOS
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
-
-ARTÍCULO 20 BIS.- La Coordinación Técnica y de Desarrollo de Proyectos, estará adscrita a la Dirección General y le corresponden la conducción técnica y operativa de las unidades administrativas que estén bajo su adscripción, y será responsable ante el Director General de su correcto funcionamiento. Le corresponden las siguientes atribuciones genéricas:
-
-l.- Coordinar las acciones tendientes a identificar y apoyar nuevos proyectos detonadores del desarrollo urbano y de infraestructura en general;
-
-II.- Establecer relaciones con inversionistas estatales, nacionales y extranjeros a fin de promover hacia la entidad una mayor afluencia de inversiones en proyectos de infraestructura en general;
-
-III.- Brindar y gestionar apoyo técnico para la planeación estratégica y operativa de proyectos de inversión en bienes inmuebles que contribuyan al desarrollo de los proyectos estratégicos para el Estado de Sonora;
-
-IV.- Planear, coordinar, ejecutar, supervisar y evaluar en el ámbito de su competencia, el proceso de construcción de las obras de infraestructura que en su caso, se lleven a cabo por parte de la Operadora;
-
-V.- Participar de acuerdo a su competencia, en las licitaciones públicas de las obras públicas que en su caso, se lleven a cabo por parte de la Operadora;
-
-VI.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas que se le adscriban, de acuerdo con los lineamientos que fije el Director General;
-
-VII.- Coordinar acciones con las demás Unidades Administrativas correspondientes de la Operadora, cuando resulte necesario para alcanzar el óptimo desarrollo de las acciones que sean competencia de la Operadora;
-
-VIII.- Acordar con el Director General de la Operadora, el despacho de los asuntos encomendados a las Unidades Administrativas adscritas a la Coordinación, e informarle oportunamente sobre el estado que guardan los mismos;
-
-IX.- Dictar las medidas necesarias para la modernización administrativa y mejora regulatoria de las Unidades Administrativas adscritas a la Coordinación;
-
-X.- Participar, en la esfera de su competencia, en la elaboración de los programas a cargo de la Operadora;
-
-XI.- Participar en la definición de políticas, lineamientos y criterios que se requieran para la formulación, revisión, actualización, seguimiento y evaluación de los programas y proyectos estratégicos que de ellos se deriven y de los correspondientes Programas Operativos Anuales;
-
-XII.- Formular e integrar el anteproyecto de Presupuesto de Egresos por Programas que corresponda a la Coordinación y verificar, una vez aprobado el mismo, su correcta y oportuna ejecución por parte de las Unidades Administrativas bajo su responsabilidad;
-
-XIII.- Proporcionar la información, los datos y la cooperación técnica que le sean solicitada, de conformidad con las políticas establecidas por el Director General;
-
-XIII.- Suscribir los documentos relativos al ejercicio de sus atribuciones y de aquellos que le sean señaladas por delegación o le correspondan por suplencia;
-
-XIV.- Evaluar y verificar periódicamente los resultados de las actividades de la Coordinación a su cargo, en función de los objetivos y prioridades definidos en los programas que se encuentren bajo su responsabilidad y adoptar, en su caso, las medidas necesarias para corregir las desviaciones que se hubieren detectado;
-
-XV.- Apoyar la coordinación y las tareas de planeación sectorial que correspondan a la Operadora, en el seno de los comités que existan para tal efecto;
-
-XVI.- Formular cuando así proceda, el Programa Anual de Obras Públicas y Servicios, señalado en el penúltimo párrafo del artículo 17 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora;
-
-XVII.- Fungir como área ejecutora de obras y Secretario Ejecutivo, en el Comité de Obras Públicas y Servicios de la Operadora;
-
-XVIII.- Recibir en acuerdo a los funcionarios y empleados adscritos a la Subsecretaría y conceder audiencias a los particulares, de conformidad con las políticas definidas al respecto;
-
-XIX.- Las demás que le señale el Director General, o le confieran otras disposiciones legales aplicables.
+ARTÍCULO 20 BIS.- (DEROGADO, B.O. 31 DE MAYO DE 2018.)
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -341,35 +299,17 @@ VII. Someter a la consideración de su superior jerárquico los proyectos de mod
 
 VIII. Atender al público en los asuntos de la competencia de la unidad administrativa respectiva, y
 
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+VIII Bis. Expedir, cuando proceda, copias certificadas de las constancias existentes en los archivos de la unidad administrativa a su cargo, así como de los documentos originales que tenga ante su vista, previo cotejo de los mismos y copia certificada que quede para constancia en el archivo de la unidad administrativa correspondiente;
+
 IX. Desempeñar las demás atribuciones que les confieran las distintas disposiciones legales y reglamentarias vigentes o les encomiende el Director General.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
-
 ###### ARTÍCULO 22.
 
-La Dirección de Arquitectura e Imagen Urbana estará adscrita a la Coordinación Técnica y de Desarrollo de Proyectos, y le corresponden las siguientes atribuciones:
-
-I.- Identificar zonas estratégicas dentro del Estado de Sonora, donde su ágil transformación urbana propicie un impacto social y económico en beneficio de la comunidad;
-
-II.- Planear, evaluar, gestionar, realizar, dirigir, supervisar y promover todos aquellos proyectos urbano-arquitectónicos que representen un beneficio para la comunidad en general;
-
-III.- Solicitar la información que se requiere a todas aquellas instancias del Poder Ejecutivo y demás órdenes de Gobierno, que por naturaleza de sus funciones estén directa o indirectamente vinculadas con la ejecución de proyectos de revitalización en imagen urbana;
-
-IV.- Ejecutar y supervisar por instrucciones de su superior jerárquico, los proyectos ejecutivos de obra de los diferentes proyectos estratégicos que realice la Operadora. Igualmente ser enlace de coordinación entre las diferentes instancias públicas y privadas que se involucran en la elaboración de dichos proyectos ejecutivos;
-
-V.- Gestionar con todos los sectores de la comunidad directa o indirectamente beneficiada por los proyectos de imagen urbana realizados por la Operadora, su aportación económica, en especie o ambas, al proyecto especifico a realizarse en la misma;
-
-VI.- Proponer al Coordinador la celebración de convenios con instancias públicas y privadas cuyas propias actividades se realicen en beneficio de la ejecución de los proyectos de revitalización en imagen urbana que se realicen a través de la Operadora;
-
-VII.- Someter a consideración del Coordinador los proyectos de imagen urbana que están próximos a realizarse o ejecutarse; así como proponerle la contratación de despachos profesionales especializados en los diferentes ramos participantes en cada proyecto para que de esta manera sean cumplidos los objetivos establecidos en cada uno de ellos;
-
-VIII.- Fungir como área responsable de la contratación de obras públicas y servicios, en el Comité de Obras Públicas y Servicios de la Operadora;
-
-IX.- Brindar asesoría técnica para la planeación estratégica y operativa de los proyectos que se ejecutan en las distintas comunidades del Estado de Sonora, considerando sus potenciales culturales, naturales, turísticos y económicos, y
-
-X.- Las demás que le confieren las disposiciones legales aplicables y su superior jerárquico dentro de la esfera de sus atribuciones.
+(DEROGADO, B.O. 31 DE MAYO DE 2018.)
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
@@ -393,41 +333,115 @@ VII.- Operar los programas o fondos de apoyo asignados a la Operadora que permit
 
 VIII.- Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MAYO DE 2018)</small>
 
-###### ARTÍCULO 24.
+###### Artículo 24.
 
-La Dirección de Proyectos Regionales, estará adscrita a la Coordinación Técnica y de Desarrollo de Proyectos, y le corresponden las siguientes atribuciones:
+La Dirección de Proyectos Regionales, estará adscrita a la Dirección General y le corresponden las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 I.- Promover y coordinar el seguimiento a proyectos de Infraestructura detonadores con impacto en más de un Municipio del Estado o, de alta especialidad técnica;
 
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 II.- Coordinar la ejecución y supervisión de proyectos de infraestructura con participación mayoritaria de los gobiernos federal y municipal, en términos de los convenios correspondientes;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 III.- Coordinar y dar seguimiento en el ámbito de su competencia, a proyectos de infraestructura carretera, portuaria y aeroportuaria donde la Operadora tenga alguna participación;
 
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 IV.- Coordinar y apoyar a las áreas ejecutoras de infraestructura de los Ayuntamientos de los Municipios del Estado, en los proyectos estratégicos y detonadores que realicen conjuntamente con la Operadora, en términos de los convenios correspondientes;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 V.- Proponer ante las instancias correspondientes de los tres niveles de gobierno, el desarrollo y mejora de la infraestructura para cruces fronterizos en el Estado, y
 
-VI.- Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE MAYO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+VI. Coordinar las acciones en el área de ingeniería tendientes a identificar y apoyar nuevos proyectos detonadores del desarrollo urbano y de infraestructura en general;
 
-###### ARTÍCULO 25.
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
 
-La Dirección de Promoción de Productos inmobiliarios estará adscrita a la Dirección General, y le corresponden las siguientes atribuciones:
+VII. Participar con las demás Direcciones en el Establecimiento de relaciones con inversionistas estatales, nacionales y extranjeros a fin de promover hacia la entidad una mayor afluencia de inversiones en proyectos de infraestructura en general;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+VIII. Brindar y gestionar apoyo técnico para la planeación estratégica y operativa de proyectos de inmuebles que contribuyan al desarrollo de los proyectos estratégicos para el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+IX. Planear, coordinar, ejecutar, supervisar y evaluar en el ámbito de su competencia, el proceso de construcción de las obras de infraestructura que en su caso, se lleven a cabo por parte de la Operadora;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+X. Participar de acuerdo a su competencia, en las licitaciones públicas de las obras públicas que en su caso, se lleven a cabo por parte de la Operadora;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+XI. Planear, programar, organizar, dirigir, controlar y evaluar las acciones que en el área de ingeniería realicen las Unidades Administrativas, de acuerdo con los lineamientos que fije el Director General;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+XII. Coordinar acciones con las demás Unidades Administrativas correspondientes de la Operadora, cuando resulte necesario para alcanzar el óptimo desarrollo de las acciones que sean competencia de la Operadora;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+XIII. Evaluar y verificar periódicamente los resultados de las actividades de la Dirección a su cargo, en función de los objetivos y prioridades definidos en los programas que se encuentren bajo su responsabilidad y adoptar, en su caso, las medidas necesarias para corregir las desviaciones que se hubieren detectado;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+XIV. Apoyar la coordinación y las tareas de planeación sectorial que correspondan a la Operadora, en el seno de los comités que existan para tal efecto;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+XV. Formular cuando así proceda, el Programa Anual de Obras Públicas y Servicios, señalado en el penúltimo párrafo del artículo 17 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+XVI. Fungir como área supervisora y coordinadora de obras, en el Comité de Obras Públicas y Servicios de la Operadora;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+XVII. Recibir en acuerdo a los funcionarios y empleados adscritos a la Secretaría y conceder audiencias a los particulares, de conformidad con las políticas definidas al respecto;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 31 DE MAYO DE 2018)</small>
+
+XVIII. Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 25.
+
+La Dirección de Promoción de Productos Inmobiliarios, estará adscrita a la Dirección General y le corresponden las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 I.- Identificar predios susceptibles de desarrollarse por parte de la Operadora;
 
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 II.- Promover el control, conservación, administración y protección del patrimonio inmobiliario de la Operadora y de sus fideicomisos auxiliares;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 III.- Negociar, coordinar y preparar las operaciones inmobiliarias de la Operadora y de sus fideicomisos auxiliares, hasta antes de la suscripción de los contratos y convenios correspondientes;
 
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 IV.- Integrar y mantener actualizado el inventario del patrimonio inmobiliario de la Operadora y de sus fideicomisos auxiliares;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 V.- Verificar y mantener actualizado el registro de operaciones inmobiliarias realizadas por la Operadora o cualquiera de sus fideicomisos auxiliares;
 
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 VI.- Promover en coordinación con la Dirección de Asuntos Jurídicos y Normatividad y ante la Comisión Estatal de Bienes y Concesiones, la regularización de inmuebles susceptibles de desarrollarse por parte de la Operadora o por parte de sus fideicomisos auxiliares, y
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 VII.- Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
 
@@ -460,6 +474,10 @@ X.- Dar seguimiento ante quien corresponda, a la regularización de inmuebles su
 XI.- Dar seguimiento a las acciones de tipo jurídico, encomendadas a abogados patronos en las que sea parte de la Operadora o sus fideicomisos auxiliares;
 
 XII.- Elaborar el proyecto del Reglamento Interior de la Operadora y sus modificaciones, y
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2018)</small>
+
+XII Bis.- Fungir como Titular de la Unidad de Transparencia, conforme al artículo 58 de la Ley número 90, de Transparencia y Acceso a la Información Pública del Estado de Sonora.
 
 XIII.- Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
 
@@ -682,3 +700,13 @@ De igual forma, todos los asuntos que se encuentren en trámite iniciados por al
 ###### ARTÍCULO TERCERO
 
 Los manuales de organización y de procedimientos, deberán adecuarse dentro de los sesenta días posteriores a la publicación del presente Decreto. En tanto se realicen las adecuaciones pertinentes a los referidos manuales, el Director General de la Operadora queda facultado para resolver las cuestiones que se presenten sobre el particular.
+
+B.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL FIDEICOMISO PÚBLICO DENOMINADO “OPERADORA DE PROYECTOS ESTRATÉGICOS DEL ESTADO DE SONORA*”.]
+
+Artículo Primero.- El presente Acuerdo que reforma, deroga y adiciona diversa disposiciones del Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Todos aquellos proyectos que hayan sido aprobados por el Comité Técnico, con antelación a la entrada en vigor del presente Reglamento, estarán a cargo y serán ejecutados, de conformidad con el mismo por el Director General.
+
+Artículo Tercero.- Los manuales de organización y de procedimientos, deberán adecuarse dentro de los sesenta días posteriores a la publicación del presente Decreto. En tanto se realicen las adecuaciones pertinentes a los referidos manuales, el Director General de la Operadora queda facultado para resolver las cuestiones que se presenten sobre el particular.
