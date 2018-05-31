@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2017-12-31"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -819,7 +819,7 @@ Este beneficio no se concederá a los sentenciados por los delitos considerados 
 
 Concepto y duración.
 
-El trabajo obligatorio como pena tiene como objeto la reparación del daño a la víctima u ofendido. Tendrá lugar como sanción sustitutiva a la privativa de libertad, cuando el sentenciado acredite que con su empleo podrá cubrir el importe decretado por la autoridad judicial, en la forma y términos establecidos en la ley.
+El trabajo obligatorio como pena tiene como objeto la reparación del daño a la víctima u ofendido. Tendrá lugar como sanción sustitutiva a la privativa de libertad, cuando el sentenciado acredite qué con su empleo podrá cubrir el importe decretado por la autoridad judicial, en la forma y términos establecidos en la ley.
 
 ### CAPÍTULO VII. RELEGACIÓN
 
@@ -1721,9 +1721,13 @@ Al que prive de la vida a otro en riña se le impondrá la mitad o cinco sextos 
 
 A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientas cuarenta a tres mil seiscientas veces la Unidad de Medida y Actualización.
 
-Cuando el homicidio tenga características propias de feminicidio se impondrá de veinte a sesenta años de prisión y de mil quinientas veces la Unidad de Medida y Actualización de multa.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
 
-En el caso de feminicidio, si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, se impondrán de treinta a sesenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientas veinte veces la Unidad de Medida y Actualización.
+Cuando el homicidio tenga características propias de feminicidio se impondrá de cuarenta a sesenta años de prisión y de dos mil ochocientos ochenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización de multa.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
+En el caso de feminicidio, si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, se impondrán de cuarenta y cinco a sesenta años de prisión y multa de tres mil doscientos cuarenta a cuatro mil trecientos veinte veces la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -1842,6 +1846,10 @@ VI. Que entre la víctima y el sujeto activo exista o haya existido una relació
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
 
 VII. Entre el activo y la víctima hubo o haya existido una relación laboral, docente o cualquier otro que implique confianza, subordinación o superioridad.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+En el caso de la fracción VI se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 
 ### CAPÍTULO IV. ABORTO
 
@@ -2581,6 +2589,10 @@ IV. Prisión de seis a doce años y multa de cuatrocientas treinta y dos a ochoc
 
 Para estimar la cuantía de los daños se atenderá al valor comercial de la cosa dañada, al momento de producirse el hecho, pero si por alguna circunstancia no fuera estimable en dinero o si por su naturaleza no fuera posible fijar su valor, se aplicarán de seis meses a cinco años de prisión y multa de treinta y seis a trescientas sesenta veces la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MAYO DE 2018)</small>
+
+En caso de reincidencia la pena se incrementará hasta una tercera parte de la que se le haya impuesto en la primera ocasión.
+
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
 ###### Artículo 207.
@@ -2589,9 +2601,11 @@ Se impondrá prisión de cinco a diez años y multa de trescientas sesenta a set
 
 Se impondrá de cinco a diez años de prisión y multa de trescientas sesenta a setecientas veinte veces la Unidad de Medida y Actualización, al que ponga en peligro o cause daños a bienes de valor científico, artístico, cultural, de servicio público, bosques, selvas, pastos o cultivos de cualquier género.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2018)</small>
+
 ###### Artículo 208.
 
-Si los daños se cometen mediante piritas de signos o grabados, mensajes o dibujos sobre bienes muebles o inmuebles ajenos o propios, que no estén bajo la posesión legal de quien está facultado para otorgarlo conforme a la ley, se aplicarán a su autor las penas del artículo 206.
+Si los daños se cometen utilizando composiciones químicas o naturales, o por cualquier sustancia o por cualquier medio plasme signos, códigos, mensajes, figuras, dibujos o cualquier otra representación, en bienes muebles o inmuebles, sin consentimiento del dueño o de quien legítimamente posea la cosa, modificando su apariencia original se aplicarán a su autor las penas del artículo 206 del presente Código.
 
 Si este delito se comete en bienes de dominio público o que por su valor histórico o arquitectónico se le declaró como parte del acervo cultural del estado o de los municipios, la pena antes señalada se aumentará hasta en una mitad más.
 
@@ -2673,11 +2687,17 @@ XXII. Quien valiéndose de la ignorancia o de las malas condiciones económicas 
 
 XXIII. Quien para obtener algún lucro para sí o para un tercero, por cualquier medio accese, entre o se introduzca a los sistemas o programas de informática del sistema financiero e indebidamente realice operaciones, transferencias o movimientos de dinero o valores en perjuicio de persona alguna, independientemente de que los recursos no salgan de la institución;
 
-XXIV. Quien con ánimo de lucro por si o por interpósita persona, cause perjuicio a otro al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, cualquiera que sea su régimen de propiedad, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes o cuando existiendo el permiso no se hallan satisfecho los requisitos en él señalados. Esta conducta se sancionará aún en el caso de falta de pago total o parcial.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
-Para los efectos penales se entiende por fraccionar la división de terrenos en lotes; y,
+XXIV. Quien con ánimo de lucro por sí o por interpósita persona, cause perjuicio a otro al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, cualquiera que sea su régimen de propiedad, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes o cuando existiendo el permiso no se hallan satisfecho los requisitos en él señalados. Esta conducta se sancionará aún en el caso de falta de pago total o parcial. Para los efectos penales se entiende por fraccionar la división de terrenos en lotes;
 
-XXV. Quien se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XXV. Quien se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores; y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XXVI. Al que reciba dinero, valores o cualquier otra cosa por concepto de ahorro o inversión y ofrezca a cambio el ingreso a un sistema formal o informal de ahorro o de inversión en el que se generaría a favor del ahorrador o inversor intereses o rendimientos de lo entregado, cuando no haga entrega de los intereses o rendimientos pactados, así como de la cantidad ahorrada o invertida, en el plazo pactado.
 
 ###### Artículo 212.
 
@@ -2702,6 +2722,12 @@ IV. De cuatro a ocho años de prisión y multa de doscientas ochenta y ocho a qu
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
 
 V. De seis a doce años de prisión y multa de cuatrocientos treinta (sic) dos a ochocientas sesenta y cuatro veces la Unidad de Medida y Actualización, cuando el valor de lo defraudado exceda de tres mil quinientas veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 212 Bis.
+
+Comete el delito de fraude familiar el que en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, ceda, transfiera o adquiera a nombre de terceros bienes, se le aplicará sanción de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta veces la Unidad de Medida y Actualización.
 
 ###### Artículo 213.
 
@@ -3423,7 +3449,7 @@ DELITOS CONTRA EL AMBIENTE Y LOS RECURSOS NATURALES
 
 > <small>(REFORMADO EN SU NUMERACIÓN, P.O. 30 DE MAYO DE 2013)</small>
 
-### CAPÍTULO I. PORNOGRAFÍA CON PERSONAS MENORES DE EDAD O QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+### CAPÍTULO I. DELITO DE PORNOGRAFÍA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -3617,11 +3643,13 @@ En caso de que se haga uso de métodos que provoquen un grave sufrimiento al ani
 
 Se impondrá de tres meses a tres años de prisión y doscientos a cuatrocientos días multa, a la persona que organice, promueva, difunda, realice peleas de perros, con o sin apuestas o, las permita en su propiedad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2018)</small>
 
 SUBTÍTULO SÉPTIMO
 
-DELITOS QUE ATENTAN CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD, DERIVADO DE LA DIGNIDAD HUMANA
+DELITOS QUE ATENTAN CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD DERIVADO DE LA DIGNIDAD HUMANA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2018)</small>
 
 ### CAPÍTULO V. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
 
@@ -3634,6 +3662,22 @@ Al que por cualquier medio procure, facilite o induzca a una persona menor de ed
 Se impondrán las mismas penas a quien financie, elabore, reproduzca, comercialice, distribuya, arriende, exponga, publicite o difunda el material a que se refieren las acciones anteriores.
 
 No constituye este delito el empleo de los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 276 Bis.
+
+A quien posea, obtenga, ofrezca, almacene o facilite por cualquier medio fotografías, videos o imágenes seductoras o insinuantes de menores de dieciocho años o de personas que no tienen capacidad para comprender el significado del hecho, con el objeto de divulgarlas en redes sociales se le impondrán de cuatro a ocho años de prisión y multa de doscientos ochenta y ocho a quinientos setenta y seis veces la Unidad de Medida y Actualización.
+
+Se impondrá las mismas penas a quien reproduzca, comparta o comercialice el material a que se refiere las acciones anteriores.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 276 Ter.
+
+A quien obtenga de persona mayor de edad, material con contenido erótico sexual y sin su consentimiento lo divulgue original o alterado, se le impondrá una pena de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta veces la Unidad de Medida y Actualización.
+
+De los supuestos anteriores, además de las penas establecidas se decomisaran las imágenes o videos, materia del delito para su destrucción y se obligará al sentenciado a eliminarlo de cualquier red de internet en la que se haya publicado.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -3817,7 +3861,7 @@ Se impondrá hasta la mitad de las penas previstas en el artículo anterior, a l
 
 > <small>(DEROGADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO I. TRATA DE PERSONAS
+### CAPÍTULO I. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
 ###### Artículo 296.
 
@@ -3887,9 +3931,13 @@ En los casos que exista desistimiento por parte de la víctima, podrá prevalece
 
 A los hermanos y a los ascendientes o descendientes consanguíneos en línea recta, que con conocimiento de su parentesco tengan cópula entre sí se les impondrá prisión o tratamiento en libertad de uno a seis años y multa de setenta y dos a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2018)</small>
+
 SUBTÍTULO DÉCIMO
 
-DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
+DELITOS CONTRA LA DIGNIDAD, LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2018)</small>
 
 ### CAPÍTULO II. SABOTAJE
 
@@ -3906,6 +3954,28 @@ DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 ###### Artículo 305.
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 305 Bis.
+
+Comete el delito de cobranza ilegítima quien con la intención de requerir el pago de una deuda ya sea propia del deudor, o quien funja como referencia o aval, utilice cualquier medio ilícito, o efectúe actos de hostigamiento, o intimidación, o amenazas de cualquier índole, o actos de molestia al deudor, sin mediar orden emanada de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 305 Ter.
+
+Se sancionará de uno a cuatro años de prisión y multa de setenta y dos a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, a quien lleve la actividad de cobranza extrajudicial ilegal.
+
+Si en la comisión del delito se utilizara documentos o sellos falsos, la pena y la sanción económica aumentaran una mitad.
+
+Si se incurre en usurpación de funciones o de profesión se aplicarán las reglas del concurso de delitos señalados en el presente Código.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 305 Quater.
+
+No se considerará como intimidación ilícita, informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de acciones legales en contra del deudor, aval, obligado solidario o cualquier relacionado con estos, cuando estas sean jurídicamente posibles.
 
 ### CAPÍTULO III. REBELIÓN
 
@@ -5097,9 +5167,9 @@ III. Al que ante la autoridad, diere una nacionalidad falsa o que sin derecho pa
 
 Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de pruebas que hagan probable su responsabilidad, se le impondrán de uno a cinco años de prisión y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización.
 
-### CAPÍTULO V. USO INDEBIDO DE LLAMADAS TELEFONICAS
+### CAPÍTULO V. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA Y DE DENUNCIA
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
 
 ###### Artículo 394.
 
@@ -5239,11 +5309,29 @@ IV. Al médico que certifique falsamente que una persona tiene una enfermedad u 
 
 V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad al traducir o descifrar un documento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2018)</small>
+
 ###### Artículo 406.
 
-Al que por cualquier medio de comunicación y sin existir razón que lo justifique, envíe mensajes o realice llamadas de alerta o emergencia a un sistema de respuesta de llamada telefónica, de emergencia o su equivalente, se le impondrá de tres a seis meses de prisión o multa (sic) dieciocho a treinta y seis veces la Unidad de Medida y Actualización.
+Se entiende por número de emergencia, aquellos números telefónicos proporcionados por las autoridades en materia de seguridad pública, protección civil, bomberos, cruz roja o cualquier número telefónico destinado a atender emergencias en la población.
 
-Si con la llamada o mensaje se produce un daño, se altera del (sic) orden público o se distrae el estado de fuerza de la autoridad, se impondrán de uno a cuatro años (sic) prisión y multa de setenta y dos a doscientas ochenta y ocho veces la Unidad de Medida y Actualización.
+Se entiende por uso indebido de número de emergencia, al que utilice los números telefónicos de emergencia definidos en el párrafo anterior para dar un aviso que resulte falso y que provoque la movilización o presencia de personal de emergencia.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 406 Bis.
+
+Al que haga uso indebido de los números de emergencias se le impondrá de seis meses a dos años de prisión y multa de treinta y seis a ciento cuarenta y cuatro veces la Unidad de Medida y Actualización.
+
+Se aumentará hasta dos terceras parte (sic) de la pena, si con la llamada o mensaje en falso se produce un daño, se altera el orden público o se distrae el estado de fuerza de la autoridad; además de condenar al infractor a la reparación de los daños ocasionados y la indemnización de los perjuicios.
+
+Del mismo modo en caso de reincidencia se aumentará hasta dos terceras partes de la pena, en cada uno de sus supuestos sancionados en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+###### Artículo 406 Ter.
+
+Cuando las llamadas o mensajes falsos las realicen menores de edad se sancionará con servicios en beneficio de la comunidad de acuerdo a lo establecido en el Código de Justicia para Menores Infractores en el Estado de Durango.
 
 ## TÍTULO SEXTO. DELITOS ELECTORALES
 
@@ -5906,6 +5994,62 @@ Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al
 P.O. 31 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 352.- QUE CONTIENE REFORMA AL ARTÍCULO 150 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 376.- POR EL QUE SE REFORMA EL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 379.- REFORMAS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 380.- REFORMAS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 382.- QUE CONTIENE REFORMAS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 384.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 385.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 386.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
