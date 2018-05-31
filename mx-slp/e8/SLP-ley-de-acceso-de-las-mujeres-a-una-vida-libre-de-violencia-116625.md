@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1166
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-17"
-last_updated: "2018-02-10"
+last_updated: "2018-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 17 de septiembre de 2016.
 
@@ -56,6 +56,18 @@ La presente Ley es de orden público, interés social y observancia general. Tie
 Para efectos de la interpretación de la presente Ley, se entiende por:
 
 I. Acciones afirmativas: las medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, aplicables en tanto subsista la discriminación, desigualdad de trato y oportunidades de las mujeres respecto a los hombres;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+I BIS. Agravio Comparado: el daño, menoscabo, no reconocimiento, impedimento de goce o ejercicio de los derechos de las mujeres, a causa de la sola vigencia o aplicación de una norma o política pública, que transgrede sus derechos humanos, que puede actualizarse cuando un ordenamiento jurídico vigente y/o política pública contenga alguno de los siguientes supuestos:
+
+a) Que contenga distinciones, restricciones o disposiciones específicas que discriminen a las mujeres y las niñas, siempre y cuando no cumplan con los principios de igualdad, legalidad, idoneidad, necesidad y proporcionalidad.
+
+b) Que propicie o incremente la brecha de desigualdad entre mujeres y hombres, al brindar un trato desigual frente al acceso y ejercicio de los derechos humanos universales.
+
+c) Que contravenga o no cumpla con los estándares establecidos en el derecho internacional de los derechos humanos.
+
+d) Que el resultado discrimine o profundice la desigualdad entre mujeres y hombres;
 
 II. Agresor: la persona que inflige cualquier tipo de violencia contra las mujeres;
 
@@ -107,9 +119,9 @@ V. Violencia física: cualquier acto material, no accidental, que inflige daño 
 
 V BIS. Violencia Institucional: actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. El estado y los municipios tienen la obligación de organizar el aparato gubernamental en el ámbito de sus competencias, de manera tal que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia. Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencia, el estado y los municipios deben prevenir, atender, investigar, sancionar y reparar el daño que les inflige;
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
-VI. Violencia laboral: la negativa ilegal a contratar a la víctima, o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, y todo tipo de discriminación por condición de género;
+VI. Violencia laboral: la negativa ilegal a contratar a la víctima, o a respetar su permanencia, sus oportunidades de ascenso o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la solicitud o requerimiento de presentar certificado médico de no embarazo para el ingreso, permanencia o ascenso en el empleo o para el ejercicio o disfrute de cualquier otro derecho laboral, la explotación y todo tipo de discriminación por condición de género;
 
 VII. Violencia obstétrica: es todo abuso, acción u omisión intencional, negligente y dolosa que lleve a cabo el personal de salud, de manera directa o indirecta, que dañe, denigre, discrimine, o de un trato deshumanizado a las mujeres durante el embarazo, parto o puerperio; que tenga como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad. Puede expresarse en:
 
@@ -139,11 +151,55 @@ e) Proporcionar al Instituto Nacional Electoral, datos falsos o información inc
 
 f) Divulgar o revelar información personal y privada de las mujeres candidatas, electas, designadas, o en ejercicio de sus funciones político-públicas, con el objetivo de menoscabar su dignidad como seres humanos, y utilizar la misma para obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan;
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+g) Cualquier conducta que implique amenazas, difamación, desprestigio, burlas, ofensas, insultos, descalificación, calumnias, hostigamiento, acoso, hostigamiento sexual, acoso sexual, presión, persecución, coacción, vejación, discriminación, o privación de la libertad, sin importar el medio utilizado, encaminada a la limitación o restricción del ejercicio de la función político-pública, o del ejercicio de derechos ciudadanos para ocupar cargos públicos y/o ejercer funciones públicas.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+h) Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales, o inducir al ejercicio indebido de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+i) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+j) Difundir información falsa relativa a las funciones político-públicas, con el objetivo de desprestigiar su gestión y obtener contra su voluntad la renuncia y/o licencia al cargo que ejercen o postulan.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+k) Impedir o restringir su reincorporación al cargo tras hacer uso de licencia justificada.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+l) Restringir o impedir el uso de acciones constitucionales y legales para proteger sus derechos frente a los actos, o evitar el cumplimiento de las resoluciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+m) Imponer sanciones injustificadas, impidiendo o restringiendo sus derechos políticos.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+n) Discriminar a las mujeres electas, designadas o en el ejercicio de la función político-pública, por encontrarse en estado de embarazo, impidiendo o negando el ejercicio de su mandato o el goce de sus derechos sociales reconocidos por ley o los que le correspondan.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+ñ) Presionar o inducir a las mujeres en el ejercicio de la función político-pública a renunciar a su encargo;
+
 X. Violencia psicológica: todo acto u omisión que daña la estabilidad psicológica y que conlleva a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
 XI. Violencia sexual: cualquier acto que degrada o daña el cuerpo o la sexualidad de la víctima, o ambas, que atenta contra su libertad, dignidad, seguridad sexual e integridad física, que implica el abuso de poder y la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
 
-XII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XII. Violencia en el noviazgo: todo acto u omisión intencional, dirigido a dominar, someter, controlar o dañar a las mujeres, durante o después de una relación de noviazgo. Para los efectos de esta fracción por noviazgo se entiende: la relación sentimental voluntaria entre dos personas por tiempo indefinido, más allá de la amistad;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XIII. Violencia contra el derecho a la libre elección de cónyuge o pareja: toda acción u omisión, sea o no por conveniencia, tradición, costumbre, o práctica cultural, que limite, vulnere o restrinja el derecho de las mujeres a elegir libre, informada y voluntariamente a su cónyuge o pareja, y
+
+XIV. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### ARTÍCULO 4°.
 
@@ -157,7 +213,9 @@ III. Laboral y docente: todo acto u omisión ejercida en abuso de poder por pers
 
 IV. Mediático o publicitario: toda publicación de mensajes e imágenes estereotipados que, a través de cualquier medio de comunicación o publicidad, ya sea impresos, o electrónicos, de manera directa o indirecta, promuevan la explotación de mujeres, niñas y adolescentes, atenten contra su dignidad y fomenten la desigualdad entre mujeres y hombres, por lo que se prohíbe la difusión de dichas publicaciones. La observancia de la presente disposición será vigilada por las autoridades competentes, y
 
-V. Social: los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+V. Comunitario: los actos u omisiones, individuales o colectivos, que transgreden o limiten los derechos fundamentales de las mujeres, sobre todo aquellas en condición de vulnerabilidad, y que propician su denigración, discriminación, marginación o exclusión en lugares públicos o de acceso público.
 
 ###### ARTÍCULO 5°.
 
@@ -191,7 +249,13 @@ l. Ser tratadas con respeto a su integridad y derechos humanos;
 
 II. Gozar del ejercicio pleno de sus derechos;
 
-III. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, su libertad o seguridad o la de las víctimas indirectas;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+III. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, su libertad o seguridad o la de las víctimas indirectas, en los términos de la Ley General de Víctimas; Ley de Atención a Víctimas para el Estado de San Luis Potosí; Ley para la Proteccion de Personas que Intervienen en el Proceso Penal en el Estado de San Luis Potosí, y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+III BIS. Ser informadas cuando su agresor, encontrándose en prisión preventiva o compurgando una pena, alcance su libertad; lo anterior a efecto de contar con las medidas de protección correspondientes;
 
 IV. Recibir las medidas de protección que procedan cuando se trate de asuntos del orden penal y que contempla la Ley de Protección a Personas que Intervienen en el Procedimiento Penal;
 
@@ -229,7 +293,9 @@ El Ejecutivo Estatal y los ayuntamientos de la Entidad incluirán en sus respect
 
 El Poder Judicial del Estado facilitará, a través de sus áreas competentes, a las instituciones encargadas de elaborar investigaciones y estadísticas en materia de violencia de género, los indicadores que permitan conocer los índices de violencia contra las mujeres en el ámbito civil, familiar y penal, y faciliten el monitoreo de las tendencias socio-jurídicas del fenómeno de la violencia de género.
 
-Asimismo, establecerá un programa de capacitación permanente al personal que lleva a cabo labores jurisdiccionales, sobre el derecho con perspectiva de género en la administración e impartición de justicia.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
+Asimismo, establecerá un programa de capacitación permanente al personal que lleva a cabo labores jurisdiccionales, sobre el derecho con perspectiva de género en la administración e impartición de justicia, promoviendo la certificación de competencias de dicho personal.
 
 ###### ARTÍCULO 11.
 
@@ -301,7 +367,15 @@ XII. Centro de Atención Integral a Víctimas;
 
 XIII. Centro de Justicia para las Mujeres, y
 
-XIV. Las personas que representen las organizaciones civiles estatales relacionadas con la materia, que se integrarán al mismo por invitación del propio Sistema. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XIV. Consejo Estatal Electoral y de Participación Ciudadana;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XV. Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado, y
+
+XVI. Las personas que representen las organizaciones civiles estatales relacionadas con la materia, que se integrarán al mismo por invitación del propio Sistema. En ningún caso, las organizaciones invitadas podrán rebasar la mitad del número de dependencias, entidades e instituciones públicas integrantes del Sistema.
 
 ###### ARTÍCULO 15.
 
@@ -343,7 +417,9 @@ XI. Presentar de manera anual y oportunamente al Ejecutivo Estatal, el proyecto 
 
 XII. Fomentar e impulsar la creación de refugios para las víctimas, conforme al modelo de atención diseñado en la presente Ley;
 
-XIII. Promover programas de información y prevención en la materia, en todas las regiones del Estado, considerando las variables socioculturales;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XIII. Promover programas de información y prevención en la materia, en todas las regiones del Estado, considerando las características de los grupos de desventaja, así como las variables socioculturales;
 
 XIV. Impulsar programas reeducativos integrales de los agresores, y canalizarlos a los centros de rehabilitación para agresores a que se refiere esta Ley, en los casos en que sea necesario;
 
@@ -407,17 +483,23 @@ XV. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Procuraduría General de Justicia del Estado:
 
-I. Capacitar a la policía investigadora, y a todo el personal encargado de la procuración de justicia para atender, con perspectiva de género, respeto a los derechos humanos de las mujeres y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+I. Capacitar a los agentes del ministerio público, peritos, policía investigadora, y a todo el personal encargado de la procuración de justicia para atender, con perspectiva de género, respeto a los derechos humanos de las mujeres y de conformidad con los protocolos especializados, los casos de violencia contra las mujeres;
 
 II. Establecer un área específica especializada en la atención de delitos que impliquen violencia contra las mujeres;
 
 III. Proporcionar a las víctimas, orientación y asesoría para su eficaz atención y protección, así como la información integral sobre las instituciones públicas o privadas encargadas de su atención;
 
-IV. Dictar las medidas necesarias para que las mujeres víctimas de violencia reciban en caso necesario, atención médica de emergencia e intervención en crisis;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+IV. Dictar las medidas necesarias para que las mujeres víctimas de violencia reciban atención médica y psicológica de urgencia; debiendo, en su caso, dar la atención especializada cuando se trate de mujeres víctimas de violencia que se encuentren embarazadas, con alguna discapacidad, sean menores de edad, migrantes, o indígenas;
 
 V. Informar en caso de considerarlo necesario, a las mujeres víctimas de violencia, sobre la posibilidad de obtener protección en un refugio o enlace de los mismos;
 
-VI. Llevar a cabo programas de difusión para dar a conocer y concientizar a la sociedad, que el hostigamiento, el acoso y las demás clases de violencia sexual son delitos que sanciona la ley penal; y campañas tendientes a la prevención de estas conductas;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+VI. Llevar a cabo programas de difusión para dar a conocer y concientizar a la sociedad, sobre los tipos de violencia que se presentan contra las mujeres y que se constituyen en delitos que sanciona el código penal, tales como el feminicidio, la trata de personas, el hostigamiento sexual, el acoso sexual y demás clases de violencia sexual, la violencia familiar, por señalar algunos; y realizar campañas para la prevención de estas conductas;
 
 VII. Integrar en el ámbito de su competencia, información estadística sobre casos de violencia contra las mujeres, y proporcionar al Sistema Estatal y a las instancias encargadas de realizar estadísticas, las referencias sobre el número de víctimas atendidas;
 
@@ -441,7 +523,11 @@ En todos los casos deberá reservarse de proporcionar los nombres, domicilios y 
 
 XII. Proporcionar al Banco Estatal de Información sobre la Violencia contra las Mujeres, información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres así como a las demás instancias encargadas de realizar estadísticas, y
 
-XIII. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+XIII. Promover, a través de la Fiscalía Especializada para la Atención de Delitos Electorales, el respeto de los derechos humanos político electorales de las mujeres, y
+
+XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO III. Secretaría de Cultura
 
@@ -525,7 +611,11 @@ XVII. Garantizar, mediante acciones, que la educación que se imparte en el Esta
 
 XVIII. Desarrollar modelos de intervención para detectar la violencia contra las alumnas en albergues y centros educativos, y
 
-XIX. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XIX. Realizar, en coordinación con el Instituto de las Mujeres del Estado, campañas de prevención de la violencia en el noviazgo, entre la población de adolescentes y jóvenes estudiantes de la Entidad, y
+
+XX. Las demás previstas para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO VI. Secretaría de Salud
 
@@ -563,7 +653,9 @@ II. A los Servicios de Salud en el Estado:
 
 a) Brindar por medio de las unidades médicas de los Servicios de Salud, la atención médica y psicológica integral e interdisciplinaria con perspectiva de género a las víctimas. Aquellas unidades que no cuenten con el personal necesario, brindarán la atención de emergencia que se requiera, y canalizarán a las mujeres víctimas a las unidades que puedan otorgar la atención necesaria.
 
-b) Garantizar el cumplimiento e implementación de la Norma Oficial Mexicana 190-SSA 1-1999, y la prestación de servicios de salud, aplicando los criterios para la atención médica de la violencia familiar; así como de las demás normas oficiales vigentes en materia de violencia contra las mujeres, y la instalación de mecanismos de supervisión y evaluación de su efectividad.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
+b) Garantizar el cumplimiento e implementación de la Norma Oficial Mexicana “046-SSA2-2005. Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención”, así como de las demás normas oficiales vigentes en materia de violencia contra las mujeres, y la instalación de mecanismos de supervisión y evaluación de su efectividad.
 
 c) Establecer programas y servicios profesionales eficaces en las unidades de segundo nivel de atención médica, con horario de veinticuatro horas, para la atención de la violencia contra las mujeres.
 
@@ -579,7 +671,11 @@ h) Asegurar que en la prestación de los servicios de salud sean respetados los 
 
 i) Capacitar al personal de los servicios de salud con la finalidad de que detecten la violencia contra las mujeres.
 
-j) Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+j) Implementar acciones de sensibilización, capacitación y actualización, dirigidas al personal médico, administrativo y de salud, para identificar y canalizar a las mujeres con discapacidad víctimas de violencia.
+
+k) Las demás previstas para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO VII. Secretaría de Seguridad Pública
 
@@ -607,7 +703,9 @@ VII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría del Trabajo y Previsión Social:
 
-l. Establecer programas y desarrollar acciones, que promuevan y fortalezcan el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales, apegándose a las facultades que le atribuyen las disposiciones legales y reglamentarias aplicables a la materia laboral;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+I. Establecer programas y desarrollar acciones, que promuevan y fortalezcan el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales, la igualdad de oportunidades entre mujeres y hombres, y la no discriminación contra las mujeres, apegándose a las facultades que le atribuyen las disposiciones legales y reglamentarias aplicables a la materia laboral;
 
 II. Brindar asesoría jurídica a las mujeres víctimas de acoso u hostigamiento sexual en su trabajo, o cualquier otra clase de violencia laboral, para la presentación de las denuncias respectivas ante las autoridades competentes;
 
@@ -619,7 +717,11 @@ V. Promover campañas para que las empresas, sindicatos y centros laborales, imp
 
 VI. Implementar mecanismos que favorezcan la erradicación de conductas de hostigamiento y acoso sexual en centros laborales privados y públicos, mediante acuerdos y convenios con las empresas y sindicatos, y
 
-VII. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+VII. Diseñar políticas y programas con perspectiva de género de carácter integral enfocadas en la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres, así como el respeto y observancia de los derechos humanos, y
+
+VIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO IX. Instituto de las Mujeres del Estado
 
@@ -641,7 +743,9 @@ VI. Evaluar las medidas de prevención, atención y erradicación, con base en l
 
 VII. Llevar a cabo de manera sistemática y permanente, campañas de concientización y sensibilización social, tendientes a reivindicar la dignidad e igualdad de las mujeres en todos los ámbitos de la vida;
 
-VIII. Ejecutar campañas para la prevención de conductas de hostigamiento y acoso sexual, así como de otras que constituyan violencia contra las mujeres, tales como la trata de personas, la corrupción de menores, y la violación, entre otras;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+VIII. Ejecutar campañas para la prevención de la violencia en el noviazgo, el hostigamiento y acoso sexual, así como de otras conductas que constituyan violencia contra las mujeres, tales como la trata de personas, la corrupción de menores, y la violación, entre otras;
 
 IX. Promover la reeducación libre de estereotipos, y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria, a través de mecanismos de difusión en medios de comunicación masiva;
 
@@ -665,7 +769,15 @@ XVIII. Exhortar a los medios de comunicación para que realicen jornadas de cero
 
 XIX. Fomentar, a través de los mecanismos y medios idóneos, y atendiendo a las características regionales, la cultura de denuncia de la violencia contra las mujeres, y
 
-XX. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XX. Coadyuvar en la formación de liderazgos políticos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+XXI. Impulsar mecanismos de promoción, protección y respeto de los derechos político electorales de las mujeres, y
+
+XXII. Las demás previstas para el cumplimiento de esta Ley.
 
 ### CAPÍTULO X. Sistema Estatal para el Desarrollo Integral de la Familia del Estado
 
@@ -737,11 +849,27 @@ X. Celebrar convenios de cooperación, coordinación y concertación en la mater
 
 XI. Los demás asuntos que, en materia de violencia contra las mujeres, les conceda esta Ley u otros ordenamientos legales.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MAYO DE 2018)</small>
+
+### CAPÍTULO XIII. Consejo Estatal Electoral y de Participación Ciudadana
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+ARTÍCULO 29 BIS. Corresponde al Consejo Estatal Electoral y de Participación Ciudadana, en el ámbito de sus atribuciones:
+
+I. Prevenir, atender, sancionar y, en su caso, erradicar la violencia política contra las mujeres;
+
+II. Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos de las mujeres;
+
+III. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política en razón de género; la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
+
+IV. Capacitar a todo su personal, así como al que labora en las comisiones distritales y comités municipales, e integrantes de mesas directivas de casilla, para prevenir y, en su caso, erradicar la violencia política en razón de género, y
+
+V. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. Órdenes de Protección
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 30.
 
@@ -775,7 +903,7 @@ XIII. Diseñar un modelo integral de atención a los derechos de las mujeres, qu
 
 ## TÍTULO SEXTO. MEDIDAS DE PROTECCIÓN
 
-### CAPÍTULO II. Alerta de Violencia de Género contra las Mujeres
+### CAPÍTULO I. Órdenes de Protección
 
 ###### ARTÍCULO 31.
 
@@ -787,9 +915,19 @@ l. El Ministerio Público;
 
 II. Los jueces de primera instancia;
 
-III. Los jueces familiares, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+III. Los jueces familiares;
 
 IV. Los jueces menores.
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+V. El Consejo Estatal Electoral y de Participación Ciudadana, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+VI. El Tribunal Electoral del Estado.
 
 Los jueces auxiliares podrán dictar en auxilio de las víctimas, las medidas de emergencia y preventivas que establece esta Ley, de manera provisional, debiendo dar aviso de las mismas de manera inmediata al Juez menor, familiar o de primera instancia más cercano a su comunidad, a efecto de que ratifique o revoque las mismas.
 
@@ -799,9 +937,17 @@ Las órdenes de protección que consagra la presente Ley son personalísimas e i
 
 l. De emergencia;
 
-II. Preventivas, y
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
-III. De naturaleza civil.
+II. Preventivas;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+III. De naturaleza civil, y
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+
+IV. De naturaleza político-electoral.
 
 Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de setenta y dos horas, y deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan.
 
@@ -819,27 +965,37 @@ III. Prohibición al probable responsable de acercarse al domicilio, lugar de tr
 
 IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+ARTÍCULO 33 BIS. Son medidas de protección de naturaleza político electoral, en forma enunciativa y no limitativa, las siguientes:
+
+I. Ordenar la entrega de documentos de identidad o que acrediten el estatus de aspirante, precandidata, candidata o electa a un cargo de elección popular, o designada para el ejercicio de un cargo público;
+
+II. Ordenar la entrega de los recursos a que se tenga derecho para el financiamiento de campañas electorales;
+
+III. Ordenar se permita el acceso y permanencia en el domicilio donde deba rendirse protesta al cargo público, sea de elección popular o de designación, así como al lugar donde deba desempeñarse la función pública;
+
+IV. Ordenar al agresor abstenerse de cometer actos de violencia política y de género, encaminados a afectar el pleno ejercicio del cargo publico de la víctima;
+
+V. Ordenar la incorporación o reincorporación de la víctima a su cargo;
+
+VI. Ordenar la separación temporal del agresor de su cargo hasta en tanto la autoridad competente, no determine o declare la inexistencia de los actos de violencia política denunciados;
+
+VII. Ordenar la entrega a la víctima de documentos solicitados en tiempo y forma, y éstos le hayan sido negados sin causa justificada, y
+
+VIII. Ordenar la entrega de recursos a los que la víctima tenga derecho, cuando éstos no le hayan sido ministrados en tiempo y forma sin causa justificada.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
 ###### ARTÍCULO 34.
 
-Son órdenes de protección preventivas, las siguientes:
+Corresponde a las autoridades jurisdiccionales competentes, valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior, con motivo de los juicios o procesos que, en materia civil, familiar, penal o electoral, se estén ventilando en los tribunales competentes.
 
-I. Retención y aseguramiento de armas de fuego propiedad del agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
-
-Es aplicable lo anterior a las armas punzocortantes y punzocontundentes o cualquiera otra que, independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
-
-II. Elaboración (sic) inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
-
-III. Acceso al uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
-
-IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
-
-V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos, y
-
-VI. Acceso a servicios reeducativos integrales especializados y gratuitos, con perspectiva de género, al agresor, en instituciones públicas debidamente acreditadas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 35.
 
-Corresponderá a las autoridades administrativas y judiciales en el ámbito de sus respectivas competencias, otorgar las órdenes emergentes y preventivas que establece la presente Ley, debiendo tomar en consideración:
+Corresponderá a las autoridades administrativas y jurisdiccionales, en el ámbito de sus respectivas competencias, otorgar las órdenes emergentes y preventivas que establece la presente Ley, debiendo tomar en consideración:
 
 l. El riesgo o peligro inminente o existente;
 
@@ -875,13 +1031,17 @@ Corresponde a las autoridades jurisdiccionales competentes, valorar las órdenes
 
 Las personas menores de dieciocho años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes.
 
-Atendiendo al interés superior del menor, las órdenes de protección preventivas podrán ser solicitadas por cualquier persona que tenga conocimiento del riesgo en que éste se encuentre.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
 
-### CAPÍTULO I. Atención a las Víctimas
+Atendiendo al interés superior de la niñez, las órdenes de protección preventivas podrán ser solicitadas por cualquier persona que tenga conocimiento del riesgo en que éste se encuentre; y, en caso de estar en riesgo su integridad física o psicológica, la autoridad las emitirá de oficio.
+
+### CAPÍTULO II. Alerta de Violencia de Género contra las Mujeres
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 39.
 
-El Ejecutivo del Estado podrá solicitar al Gobierno Federal, a través de la Secretaría de Gobernación, la declaratoria de alerta de violencia de género contra las mujeres, cuando:
+La Alerta de Violencia de Género es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad. El Ejecutivo del Estado podrá solicitar al Gobierno Federal, a través de la Secretaría de Gobernación, que se emita dicha declaratoria, cuando:
 
 l. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en el territorio del Estado, o en algún municipio en lo particular, y la sociedad así lo reclame;
 
@@ -923,7 +1083,7 @@ d) La verificación de los hechos y la publicidad de la verdad.
 
 ## TÍTULO SÉPTIMO. ATENCIÓN A LAS VÍCTIMAS Y DE LOS REFUGIOS
 
-### CAPÍTULO II. Refugios para las Víctimas de Violencia
+### CAPÍTULO I. Atención a las Víctimas
 
 ###### ARTÍCULO 42.
 
@@ -967,7 +1127,7 @@ IX. En los casos de violencia familiar, las mujeres que tengan hijas o hijos pod
 
 Quien haya ejercido violencia contra las mujeres deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente. En todos los demás casos en que no exista mandato de autoridad, se procurará sensibilizar y orientar al agresor, para que acuda a instituciones que presten servicios reeducativos en la materia.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. Refugios para las Víctimas de Violencia
 
 ###### ARTÍCULO 45.
 
@@ -1057,7 +1217,13 @@ Todas las dependencias, entidades, instituciones, y organismos públicos y priva
 
 El Instituto, y la Secretaría de Seguridad Pública del Estado, presupuestarán en tiempo y forma los recursos necesarios para la operación y funcionamiento del Banco Estatal de Información sobre la Violencia contra las Mujeres.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2018)</small>
+
+ARTÍCULO 53 BIS. El Instituto publicará trimestralmente la información general y estadística actualizada sobre los casos de violencia contra las mujeres, contenida en el Banco Estatal de Información sobre la Violencia contra las Mujeres.
+
 ## TÍTULO NOVENO. CENTROS DE REHABILITACIÓN PARA AGRESORES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 54.
 
@@ -1118,3 +1284,11 @@ P.O. 10 DE FEBRERO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se deroga toda disposición que se oponga al presente Decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 967.- SE REFORMAN LOS ARTÍCULOS 2°, 3°, 4°, 7°, 10, 14, 16, 18, 21, 22, 24, 25, 31, 32, 34, 35, 38 Y 39 Y ADICIONAN 29 BIS, 33 BIS, Y 53 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
