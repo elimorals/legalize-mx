@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2017-04-13"
+last_updated: "2018-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -35,11 +35,11 @@ DECRETO 667
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS...
 
 Todo lo anterior, conforme a las circunstancias de la vida moderna, es congruente con los avances de la tecnología y las exigencias de mejorar el transporte público, para la mejor prestación del mismo a los ciudadanos de los diversos sectores de la población.
 
-LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSI
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -147,11 +147,13 @@ V. Los sistemas de transporte público, en coordinación con las autoridades cor
 
 Se entiende como formación del elemento humano, la capacitación para la prestación del servicio de transporte público de pasajeros, y las acciones que tengan como fin impulsar el desarrollo de los conocimientos, habilidades y destrezas, dirigidas a los concesionarios, permisionarios, operadores, usuarios y ciudadanos en general, bajo los siguientes lineamientos:
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
-I. Las autoridades del transporte público deberán impulsar de manera anual, programas de capacitación y acciones de desarrollo del personal, así como la evaluación de las aptitudes y actitudes de los operadores del servicio, a fin de que adquieran y actualicen las destrezas necesarias para el mejor desempeño de su actividad;
+I. Las autoridades del transporte público deberán impulsar de manera semestral, programas de capacitación y acciones de desarrollo del personal, así como la evaluación de las aptitudes y actitudes de los operadores del servicio, a fin de que adquieran y actualicen las destrezas necesarias para el mejor desempeño de su actividad;
 
-II. Los concesionarios y permisionarios deberán conocer y actualizar los derechos y obligaciones derivados de la concesión o permiso otorgado. Asimismo, mantenerse actualizados en el conocimiento de los avances tecnológicos y administrativos en la materia;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+
+II. Los concesionarios y permisionarios deberán conocer y actualizar los derechos y obligaciones derivados de la concesión o permiso otorgado cada seis meses. Asimismo, mantenerse actualizados en el conocimiento de los avances tecnológicos y administrativos en la materia, cuando sea necesario;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
 
@@ -213,8 +215,6 @@ II. Ayuntamientos: a los ayuntamientos del Estado de San Luis Potosí;
 
 III. Bahía: al espacio delimitado en la vía pública para el ingreso y salida de los vehículos de transporte público, para el servicio de ascenso y descenso de pasaje;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 18 DE JULIO DE 2015)</small>
 
 III Bis. Carril confinado: superficie de rodamiento en la vía pública con dispositivos que delimitan su perímetro, para el uso preferente o exclusivo de los servicios públicos de transporte;
@@ -232,8 +232,6 @@ VI. Concesionario: a la persona física o moral que, en virtud de una concesión
 VII. Consejo: al Consejo Estatal de Transporte Público;
 
 VIII. Consejo municipal: al Consejo Municipal de Transporte Público;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2015)</small>
 
@@ -316,8 +314,6 @@ XXXVI. Servicio público de transporte: prestación del servicio de transporte p
 XXXVII. Servicios auxiliares: a los bienes muebles o inmuebles de infraestructura, complementarios a la prestación del servicio de transporte público, previstos por esta Ley y su Reglamento, susceptibles de permiso o concesión a particulares;
 
 XXXVIII. Servicio particular de transporte: a la actividad en virtud de la cual las personas físicas o morales satisfacen sus necesidades de transporte de pasajeros o de carga, que tengan como fin el desarrollo de actividades particulares o el cumplimiento de su objetivo social y que no se ofrece al público en general;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE JULIO DE 2015)</small>
 
@@ -493,7 +489,7 @@ VIII. Las demás que determinen esta Ley y su Reglamento.
 
 El servicio de transporte público en el Estado de San Luis Potosí para los efectos de esta Ley, se clasifica en los siguientes sistemas:
 
-l. Sistemas de transporte de pasajeros, y
+I. Sistemas de transporte de pasajeros, y
 
 II. Sistemas de transporte de carga.
 
@@ -507,8 +503,6 @@ a) Colectivo: servicio sujeto a itinerario fijo que se presta en zonas urbanas, 
 
 b) Colectivo de primera clase: servicio sujeto a itinerarios fijos que se presta en zonas urbanas, con vehículos con capacidad de veintisiete y hasta cuarenta y cinco asientos, quedando prohibido admitir pasajeros adicionales al número de asientos con que cuenta la unidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2015)</small>
 
 1. Colectivo masivo: servicio que se presta en un corredor de transporte público mediante autobuses de control delantero y motor trasero con transmisión automática, de entrada baja, piso bajo o piso alto con capacidad de hasta 165 pasajeros pudiendo ser articulado.
@@ -516,8 +510,6 @@ b) Colectivo de primera clase: servicio sujeto a itinerarios fijos que se presta
 c) Automóvil de alquiler en sitio: es el que se presta a través de vehículos con capacidad de hasta cinco pasajeros, incluido el operador; con tarifas previamente autorizadas según la distancia de recorrido; obligados a iniciar su servicio a partir de su sitio o base de servicio, sin que pueda aceptar pasaje distinto al que solicitó el servicio, hasta su retorno al sitio o base a la que pertenecen; el número de unidades de cada sitio será determinado por la Secretaría de Comunicaciones y Transportes, en razón de la demanda existente y la temporalidad de la misma.
 
 d) Automóvil de alquiler de ruleteo: es aquél que se presta a través de vehículos con capacidad hasta de cinco pasajeros, incluido el operador; con tarifas autorizadas según distancia, sin aceptar pasaje distinto hasta el término del recorrido convenido, y le estará prohibido ofrecer y efectuar el servicio en los sitios o bases de servicio de automóvil de alquiler en sitio, o en las zonas de influencia de los mismos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2015)</small>
 
@@ -661,9 +653,11 @@ b) Que la concesión permanezca y haya sido explotada sin la interrupción desde
 
 c) Que el titular de la concesión, así como el que pretende adquirirla, soliciten la respectiva autorización por escrito y bajo protesta de decir verdad.
 
-En caso de otorgarse la autorización previo cumplimiento de los requisitos, deberán celebrar el contrato de cesión de derechos respectivo ante fedatario público.
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, P.O. 31 DE MAYO DE 2018)</small>
 
-Cualquier tipo de operación que se realice sin previa autorización del titular del Ejecutivo del Estado, será nula de pleno derecho; sin menoscabo de lo que se dispone en el artículo 55 de la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2018)</small>
+
+Cualquier tipo de operación que se realice sin previa autorización del Ejecutivo del Estado, será nula de pleno derecho; sin menoscabo de lo que se dispone en el artículo 55 de la presente Ley.
 
 Los concesionarios que sean autorizados para ceder sus derechos de acuerdo a lo establecido en la fracción III de este artículo, no podrán, en ningún caso, volver a ser sujetos para el otorgamiento de otra concesión.
 
@@ -693,7 +687,7 @@ El otorgamiento de concesiones en los casos a que se refiere esta Ley, se realiz
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-l. El titular del Ejecutivo convocará mediante una publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis", y en el portal de internet de la Secretaría, dicha publicación se hará con no menos de cuarenta y cinco días de anticipación a la fecha fijada para la celebración del concurso;
+I. El titular del Ejecutivo convocará mediante una publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis", y en el portal de internet de la Secretaría, dicha publicación se hará con no menos de cuarenta y cinco días de anticipación a la fecha fijada para la celebración del concurso;
 
 II. La convocatoria deberá contener:
 
@@ -1305,8 +1299,6 @@ III. En relación a los esquemas tarifarios, los concesionarios y operadores se 
 
 a) Utilizar los esquemas, aditamentos y equipamiento auxiliar que, previa opinión del Consejo Estatal de Transporte, determine el titular del Ejecutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 b). Aplicar en estricto apego las tarifas vigentes.
@@ -1333,7 +1325,7 @@ A fin de preservar el medio ambiente y evitar el desequilibrio ecológico que pu
 
 ARTICULO 71 BIS. Las Empresas de Redes de Transporte deberán contar con registro ante la Secretaría, cuya vigencia será anual; dicho registro estará sujeto a los requisitos siguientes:
 
-l. Exhibir acta constitutiva debidamente registrada en el Instituto Registral y Catastral del Estado de San Luis Potosí;
+I. Exhibir acta constitutiva debidamente registrada en el Instituto Registral y Catastral del Estado de San Luis Potosí;
 
 II. Suscribir con el Poder Ejecutivo del Estado un convenio para la constitución de un fondo público económico, al que deberán aportar un 1.5% del monto efectivamente cobrado por cada viaje iniciado en el Estado de San Luis Potosí, por los prestadores del servicio a través de Empresas de Redes de Transporte que se encuentren debidamente registrados en la plataforma propiedad de la Empresa de Redes de Transporte, o promocionada por la misma, cuyos recursos se destinarán para el desarrollo de políticas públicas en materia de movilidad;
 
@@ -1345,7 +1337,7 @@ IV. Informar a la Secretaría los estándares de calidad y operación con que lo
 
 ARTICULO 71 TER. Las Empresas de Redes de Transporte, tendrán las obligaciones siguientes:
 
-l. Asegurar que el servicio que presten acate los estándares de calidad y operación que hayan informado a la Secretaría;
+I. Asegurar que el servicio que presten acate los estándares de calidad y operación que hayan informado a la Secretaría;
 
 II. Solicitar la renovación de su registro cuando menos treinta días previo a su vencimiento;
 
@@ -2045,8 +2037,6 @@ II. Proponer al titular del Ejecutivo del Estado, programas y acciones de carác
 
 III. Llevar un registro de los principales indicadores y estadísticas en materia del servicio de transporte público;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
 V. Establecer mecanismos de coordinación, comunicación e intercambio de Información, con entidades públicas y privadas relacionadas con el servicio de transporte público;
@@ -2054,8 +2044,6 @@ V. Establecer mecanismos de coordinación, comunicación e intercambio de Inform
 VI. Opinar sobre la elaboración del Programa Estatal de Transporte;
 
 VII. Gestionar ante los tres órdenes de gobierno, los programas y acciones que tengan como fin la creación, ampliación o modificación de las vías de comunicación, para impulsar la seguridad y eficiencia de este servicio;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2736,3 +2724,19 @@ P.O. 13 DE ABRIL DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 965.- SE REFORMA EL ARTÍCULO 6 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de 2019, previa publicación (sic) el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 966.- SE REFORMA EL ARTÍCULO 35 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
