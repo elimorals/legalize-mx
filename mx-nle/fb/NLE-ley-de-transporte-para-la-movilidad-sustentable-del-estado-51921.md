@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2017-01-02"
+last_updated: "2018-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -553,9 +553,17 @@ a) Los diferentes sistemas del Servicio Estatal de Transporte, deberán, de mane
 
 b) La capacitación de los conductores será obligatoria y podrá ser impartida por cualquier empresa o sindicato inscrito en el padrón que para el efecto lleve la Agencia;
 
-c) Los conductores de los sistemas comprendidos en el Servicio Estatal de Transporte serán sometidos a exámenes médicos y de aptitud física según las disposiciones y procedimientos establecidos en el Reglamento; y
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
-d) Los sistemas de transporte incluirán programas de seguridad pública y protección civil. Dichas acciones deberán ser convenidas con las autoridades correspondientes.
+c) Los conductores de los sistemas comprendidos en el Servicio Estatal de Transporte serán sometidos a exámenes médicos y de aptitud física según las disposiciones y procedimientos establecidos en el Reglamento;
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+d) Los sistemas de transporte incluirán programas de seguridad pública y protección civil. Dichas acciones deberán ser convenidas con las autoridades correspondientes; y
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+e) Las Autoridades Estatales son responsables de implementar planes y programas con perspectiva de género, que garanticen la prevención del acoso, así como el hostigamiento sexual, en las distintas modalidades del servicio público de transporte.
 
 Esta fracción no aplicará al SITCA.
 
@@ -2078,3 +2086,9 @@ Primero.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 Segundo.- El Poder Ejecutivo realizará las adecuaciones necesarias al Reglamento de la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León, derivado del presente Decreto en un plazo no mayor a 60 días hábiles, contados a partir de su entrada en vigor.
 
 Tercero.- Se derogan todas las disposiciones que contravengan a lo contemplado en el presente Decreto.
+
+P.O. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 395. SE REFORMA EL ARTÍCULO 18 POR MODIFICACIÓN DE LOS INCISOS C) Y D) Y POR ADICIÓN DE UN INCISO E) A SU FRACCIÓN TERCERA DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
