@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-el-otorgamiento-de-prestaciones-de-la-114703"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-04-19"
-last_updated: "2017-06-06"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCION DE PENSIONES CIVILES DEL ESTADO DE MICHOACAN
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2018 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 19 de abril de 2016.
 
@@ -59,9 +61,21 @@ Las controversias que surjan en la aplicación de la Ley y el presente Reglament
 
 Para los efectos del párrafo anterior, en lo no previsto por la Ley y el presente Reglamento se aplicará supletoriamente:
 
-I. El Código de Justicia Administrativa del Estado de Michoacán de Ocampo; y,
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2018)</small>
 
-II. El Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo.
+I. La Ley del Seguro Social y sus Reglamentos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+II. El Código Civil para el Estado de Michoacán;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+III. El Código de Procedimientos Civiles para el Estado de Michoacán; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+IV. El Código de Justicia Administrativa del Estado de Michoacán de Ocampo.
 
 ###### Artículo 3°.
 
@@ -69,7 +83,9 @@ Para los efectos del presente Reglamento se entenderá por:
 
 I. Aportación: Al pago de las cantidades que los sujetos obligados y los servidores públicos deben realizar a favor de la Dirección de Pensiones, de conformidad con la Ley;
 
-II. Cantidades actualizadas: A las cantidades mencionadas conforme al artículo 17 «A» del Código Fiscal de la Federación, más la tasa de interés ponderada que en ese momento obtenga la Dirección de Pensiones en las inversiones que realice a la fecha del incumplimiento referido por el lapso que medie entre la fecha que debió realizarse el entero y la fecha en que éste se efectúe;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
+
+II. Cantidades Actualizadas: A las cantidades mencionadas conforme al artículo 17 «A» del Código Fiscal de la Federación, más la tasa de recargos determinada en la Ley de Ingresos del Estado de cada ejercicio correspondiente, aplicando el procedimiento establecido en el Código Fiscal del Estado.
 
 III. Cédula de Identificación y Designación de Beneficiarios: Al documento en el cual se anotarán los datos de identificación de los servidores públicos, pensionados o jubilados y sus beneficiarios;
 
@@ -103,6 +119,10 @@ XVII. Deudor solidario: La persona que está obligada legalmente a satisfacer un
 
 XVIII. Solicitante: A toda persona que solicita el otorgamiento de una prestación señalada en la ley o el presente Reglamento.
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2018)</small>
+
+XIX. Trabajador Temporal: Aquel o a quien se les otorga nombramiento para obra o tiempo determinado.
+
 ### CAPÍTULO SEGUNDO. DE LAS APORTACIONES AL FONDO DE PENSIONES
 
 ###### Artículo 4°.
@@ -125,9 +145,11 @@ Cuando el servidor público labore jornadas reducidas y su remuneración se dete
 
 En ningún caso la Dirección de Pensiones, aceptará aportaciones si no vienen acompañadas de la información de las nóminas ordinarias y adicionales correspondientes, en las que consten las percepciones salariales que se tomaron como base para determinar tales cotizaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 8°.
 
-Cuando la Dirección de Pensiones detecte omisión o defecto en las aportaciones, podrá en cualquier momento solicitar y exigir al sujeto obligado el pago de la aportación omitida o de la diferencia resultante, en cantidades actualizadas.
+Cuando la Dirección de Pensiones detecte diferencias o falta de pago en las aportaciones señaladas en el artículo 22 de la Ley, podrá en cualquier momento solicitar y exigir al sujeto obligado el pago de la aportación omitida o de la diferencia resultante, en cantidades actualizadas señaladas en la fracción II del artículo 3° del presente Reglamento.
 
 Igualmente, en cualquier momento podrá la Dirección de Pensiones rechazar o regresar aportaciones que se pretendan realizar o que se hayan realizado errónea o indebidamente, ya sea porque su monto sea excesivo o porque no se ajusten a las disposiciones de la Ley y del presente Reglamento, o por cualquier otra razón o circunstancia que hagan improcedente la aportación de que se trate.
 
@@ -215,9 +237,13 @@ Si, presentada la solicitud de la prestación, y antes de ser otorgada, fallece 
 
 ### CAPÍTULO CUARTO. DE LOS PRÉSTAMOS
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 25.
 
-La Dirección de Pensiones podrá conceder a los servidores públicos y a los jubilados y pensionados por jubilación, vejez o invalidez, préstamos Hipotecarios, de Garantía Real y de Corto Plazo, conforme a la disponibilidad financiera de la propia Dirección de Pensiones. La Junta Directiva, determinará anualmente en lo general, los montos máximos que habrán de ejercerse en las diferentes modalidades de préstamos.
+La Dirección de Pensiones podrá conceder a los servidores públicos y a los jubilados y pensionados por vejez o invalidez, préstamos Hipotecarios en cualquiera de sus modalidades y de Corto Plazo, conforme a la disponibilidad financiera de la propia Dirección de Pensiones. La Junta Directiva, determinará anualmente en lo general, los montos máximos que habrán de ejercerse en las diferentes modalidades de préstamos considerando los criterios que determine anualmente la Junta Directiva.
+
+El otorgamiento de préstamos hipotecarios de los trabajadores temporales, estarán sujetos al análisis de la Dirección de Pensiones y al acuerdo respectivo de la Junta Directiva.
 
 ###### Artículo 26.
 
@@ -231,15 +257,15 @@ En caso de que el servidor público, pensionado o jubilado cuente con un adeudo 
 
 El servidor público, pensionado o jubilado podrá solicitar por escrito un nuevo préstamo a la par de un tipo de préstamo vigente distinto al solicitado. Si la suma de ambos descuentos superan el 50% del salario base de cotización deberá comprobar ingresos adicionales permanentes al salario base de cotización previo apoyo de su representación sindical cuando esto proceda.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE JUNIO DE 2018)</small>
 
-Los préstamos a la par entre modalidades del de garantía hipotecaria, solamente se otorgarán cuando uno de ellos sea de liquidez y la suma total del monto de ambos préstamos no supere la cantidad de $600,000.00 (Seiscientos mil pesos 00/100 M.N.), salvo acuerdo de la Junta Directiva.
+Para los servidores públicos, los préstamos a la par entre modalidades de garantía hipotecaria, se otorgarán cuando uno de ellos sea de liquidez y que su destino sea para la adquisición de vivienda; la suma total del monto de ambos préstamos no superará la cantidad de $600,000.00 (Seiscientos mil pesos 00/100 M.N.), salvo acuerdo de la Junta Directiva.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
 ###### Artículo 29.
 
-Los préstamos de corto plazo y de liquidez otorgados por la Dirección de Pensiones a sus servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo, sin necesidad de autorización de la Junta Directiva; para los préstamos con garantía hipotecaria del resto de las modalidades, la renovación podrá ser posible cuando haya transcurrido la mitad del plazo al que fue pactado y se encuentren cubiertos los abonos correspondientes a dicho periodo.
+Los préstamos de corto plazo otorgados por la Dirección de Pensiones a los servidores públicos, pensionados o jubilados, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo, sin necesidad de autorización de la Junta Directiva; para los préstamos hipotecarios en sus diferentes modalidades, la renovación podrá realizarse cuando haya transcurrido la mitad del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo.
 
 ###### Artículo 30.
 
@@ -251,9 +277,11 @@ Los servidores públicos que causen baja al servicio del Gobierno del Estado, o 
 
 Todos los préstamos otorgados por la Dirección de Pensiones a los servidores públicos, serán garantizados en primer lugar, mediante garantía del total de las aportaciones a que se refiere el artículo 22 de la Ley, las que en caso de mora de tres o más quincenas consecutivas, serán aplicadas al adeudo sin necesidad de requerimiento o aviso previo, aún y cuando se encuentren activos como servidores públicos; debiendo el deudor pagar las cantidades actualizadas de acuerdo al contrato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 32.
 
-Si por baja u otras causas graves a juicio de la Dirección de Pensiones, el servidor público no pudiere cubrir los abonos provenientes del préstamo de corto plazo, garantía real, hipotecario podrá concedérsele, previa solicitud a la Dirección de Pensiones, un plazo de espera de seis meses, en los casos siguientes:
+Si por baja u otras causas graves a juicio de la Dirección de Pensiones, el servidor público no pudiere cubrir los abonos provenientes del préstamo de corto plazo e hipotecario en cualquiera de sus modalidades, podrá concedérsele, previa solicitud a la Dirección de Pensiones, un plazo de espera de seis meses, en los siguientes casos:
 
 I. Cuando la cantidad que se adeude a la fecha de la solicitud sea el equivalente a las aportaciones recibidas a la misma fecha, el plazo de espera se podrá otorgar sin restricción alguna;
 
@@ -297,9 +325,11 @@ Si por baja u otras causas graves, tales como: el diagnostico de una invalidez t
 
 Los montos máximos, las tasas de interés y seguro de los préstamos se aplicaran de acuerdo con la ley y de conformidad con lo señalado en el presente Reglamento, modificándose cuando fuere conveniente para el debido funcionamiento de la Dirección de Pensiones y fortalecimiento de su fondo.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 39.
 
-El préstamo hipotecario y de garantía real no excederá del 90% del valor comercial fijado al inmueble garante, a menos que el interesado proporcione otras garantías adicionales suficientes para garantizar el excedente.
+El préstamo hipotecario en cualquiera de sus modalidades no excederá del 90% del valor comercial fijado al inmueble garante, a menos que el interesado proporcione otras garantías adicionales suficientes para garantizar el excedente.
 
 ###### Artículo 40.
 
@@ -339,11 +369,13 @@ La Dirección de Pensiones podrá otorgar préstamos hipotecarios a los servidor
 
 Para los jubilados o pensionados por vejez o invalidez que no cuenten con más de 65 años de edad al presentar la solicitud de préstamo hipotecario, el monto a otorgar será de hasta $80,000.00 ochenta mil pesos 00/100 M.N
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
 ###### Artículo 44.
 
-En la modalidad de construcción o mejoramiento de vivienda el préstamo será entregado en una sola exhibición, solo si el 90% del valor del inmueble es superior al monto otorgado.
+En la modalidad de construcción o mejoramiento de vivienda, el préstamo será entregado en una ministración, siempre y cuando el 90% del valor del inmueble sea superior a la cantidad entregada, en caso de que el inmueble no garantice el préstamo solicitado, se otorgará en ministraciones, según corresponda.
+
+La Dirección de Pensiones vigilará mediante supervisión de obra, que el importe del préstamo sea invertido para lo cual fue solicitado, quedando a cargo del Servidor Público los gastos que se originen por motivo de las supervisiones de acuerdo con las tarifas de supervisión que acuerde la Junta Directiva.
 
 ###### Artículo 45.
 
@@ -373,7 +405,9 @@ b) Copia de la escritura de propiedad del inmueble dado en garantía;
 
 c) Certificado de libertad de gravamen original expedido por el Registro Público de la Propiedad Raíz y del Comercio, a 10 o 20 años de acuerdo con la fecha de celebración de la escritura del inmueble; podrá recibirse el certificado con gravámenes, siempre y cuando sean de préstamos otorgados por la Dirección de Pensiones liquidados o vigentes;
 
-d) Copia del número oficial, reciente expedido por la autoridad municipal o pago de predial a excepción de la modalidad de pago a terceros;
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+d) Copia de la constancia del número reciente, expedido por la autoridad municipal o pago de predial;
 
 e) Avalúo de la propiedad (vigencia 2 años); emitido por perito valuador autorizado por la Comisión Nacional Bancaria y de Valores o por la Secretaría de Finanzas y Administración con la copia de acreditación de perito valuador vigente;
 
@@ -386,6 +420,10 @@ h) Copia del acta de matrimonio;
 i) Copia de acta de nacimiento; y,
 
 j) Copia de identificación oficial (Credencial de Elector, pasaporte vigente, cédula profesional o cartilla militar).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2018)</small>
+
+k) Copia de la clabe interbancaria vigente a nombre del solicitante.
 
 II. Del Deudor solidario (En su caso):
 
@@ -493,19 +531,23 @@ Por aprobación de la Junta Directiva los préstamos generarán un interés anua
 
 #### SECCIÓN TERCERA. DEL PRÉSTAMO A CORTO PLAZO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 63.
 
-Los préstamos a corto plazo se harán a los contribuyentes del fondo, conforme a las disposiciones siguientes:
+Los préstamos a corto plazo se harán a los servidores públicos, conforme a las disposiciones siguientes:
 
 I. A quienes hayan cubierto a la Dirección de Pensiones las aportaciones a que se refiere el artículo 22 de la Ley, cuando menos por seis meses;
 
 II. Mediante garantía del total de dichas aportaciones, las que en caso de mora de tres o más quincenas consecutivas, serán aplicadas al adeudo sin necesidad de requerimiento o aviso previo, aún y cuando se encuentren como servidores públicos, debiendo el deudor pagar la cantidad actualizada;
 
-III. El préstamo podrá sobrepasar el monto de las aportaciones otorgándole hasta un mes adicional de su último sueldo de cotización, cuando el servidor público tuviere una antigüedad de cuatro a ocho años once meses y quince días de servicio;
+III. (DEROGADA, P.O. 1 DE JUNIO DE 2018)
 
-IV. El préstamo podrá sobrepasar el monto de las aportaciones otorgándole hasta dos meses adicionales de su último sueldo de cotización, cuando el servidor público tuviere una antigüedad de nueve o más años de servicio;
+IV. (DEROGADA, P.O. 1 DE JUNIO DE 2018)
 
-V. En caso de ser insuficiente lo señalado en las fracciones anteriores III y IV, la diferencia se garantizará en forma solidaria con el aval de uno o dos servidores públicos contribuyentes al fondo; de conformidad con el artículo 31 fracción IV de la Ley;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
+
+V. En caso de ser insuficiente las aportaciones al fondo de pensiones, la diferencia se garantizará en forma solidaria con el aval de uno o dos servidores públicos contribuyentes al fondo; de conformidad con el artículo 31 fracción IV de la Ley;
 
 VI. Los pensionados o jubilados con excepción de las pensiones derivadas tendrán derecho a préstamos personales a corto plazo, hasta por el importe de cuatro meses de la jubilación o pensión que les corresponda; y,
 
@@ -521,7 +563,9 @@ II. Copia de identificación oficial (Credencial de elector, pasaporte vigente, 
 
 III. Copia de comprobante de domicilio actualizado; y,
 
-IV. Copia de la tarjeta bancaria, en caso de transferencia.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
+
+IV. Copia de la clabe interbancaria vigente a nombre del solicitante
 
 ###### Artículo 65.
 
@@ -531,9 +575,11 @@ El monto de los préstamos de corto plazo, será de tal manera que los abonos pa
 
 El plazo para devolución no será mayor de 24 meses y el pago del préstamo se hará quincenalmente.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 67.
 
-Los préstamos a corto plazo causarán un interés mínimo del 12 % anual global, el que podrá ser revisado anualmente y modificado por acuerdo de la Junta Directiva, cuando las condiciones económicas así lo requieran, pero no rebasará el tipo de interés que cobren las instituciones bancarias en préstamos similares, más un 1% para servidores públicos y el 0.50% para jubilados y pensionados para la constitución del fondo de seguro para este tipo de préstamos, de conformidad con lo dispuesto por el artículo 44 de la Ley.
+Los préstamos a corto plazo causarán un interés mínimo del 12% anual global; el que podrá ser revisado anualmente y modificado por acuerdo de la Junta Directiva, cuando las condiciones económicas así lo requieran, pero no rebasará el tipo de interés que cobren las instituciones bancarias en préstamos similares, más un 1% para servidores públicos y el 0.50% para jubilados y pensionados, ambos sobre el capital del préstamo otorgado, para la constitución del fondo de seguro para este tipo de préstamos, de conformidad con lo dispuesto por el artículo 44 de la Ley.
 
 #### SECCIÓN PRIMERA. PENSIÓN POR VIUDEZ
 
@@ -543,23 +589,27 @@ Los préstamos a corto plazo causarán un interés mínimo del 12 % anual global
 
 La Dirección de Pensiones constituye un fondo especial de seguro con la finalidad de liquidar los préstamos que quedaren insolutos al fallecer el servidor público, jubilado o pensionado a quien se hubiere otorgado.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 69.
 
-Para los efectos de la constitución del fondo de seguro en sus diversas modalidades los servidores públicos, pensionados o jubilados aportaran el siguiente porcentaje anual global calculado sobre el monto total del préstamo otorgado:
+Para los efectos de la constitución del fondo de seguro en sus diversas modalidades los servidores públicos, pensionados o jubilados aportarán el siguiente porcentaje sobre el capital del préstamo otorgado:
 
-Hipotecario Garantía real Corto plazo
+Hipotecario Corto Plazo
 
-Servidores Públicos 2% 1% 1%
+Servidores Públicos 2% 1%
 
-Pensionados o Jubilados 2% 1% 0.50%
+Pensionistas y Jubilados 2% 0.50%
 
 ###### Artículo 70.
 
 La Dirección de Pensiones de conformidad con lo establecido en el artículo 44 de la Ley, liquidará los préstamos que quedaran insolutos al fallecer el servidor público, pensionado o jubilado a quien se hubiera otorgado.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 71.
 
-En ningún caso habrá lugar a la devolución de las aportaciones que los acreditados hagan para constituir el fondo a que se refiere este concepto.
+En ningún caso habrá lugar a la devolución o la bonificación de las aportaciones que los servidores públicos hagan para constituir el fondo a que se refiere este concepto.
 
 ###### Artículo 72.
 
@@ -575,7 +625,9 @@ No operará el beneficio del fondo de seguro:
 
 I. En caso de suicidio del acreditado o lesiones autoinflingidas;
 
-II. Cuando al solicitar el crédito hipotecario, de garantía real o a corto plazo, se padezca una enfermedad en periodo terminal; y,
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2018)</small>
+
+II. Cuando al solicitar el crédito hipotecario en cualquiera de sus modalidades o a corto plazo, se padezca una enfermedad en periodo terminal; y
 
 III. Cuando el acreditado no se encuentre al corriente en el pago de sus parcialidades en los términos establecidos en el contrato respectivo.
 
@@ -583,15 +635,19 @@ III. Cuando el acreditado no se encuentre al corriente en el pago de sus parcial
 
 Para la comprobación del suicidio, las lesiones autoinfligidas y el padecimiento de enfermedades terminales, la Dirección de Pensiones podrá allegarse de todos los elementos de prueba necesarios.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 76.
 
-Deberán de adecuarse los procedimientos administrativos en las áreas involucradas para que todo afiliado que solicite un préstamo hipotecario, de garantía real y a corto plazo manifieste por escrito, que no tiene conocimiento de padecer ninguna enfermedad terminal.
+Deberán de adecuarse los procedimientos administrativos en las áreas involucradas para que todo afiliado que solicite un préstamo hipotecario en cualquiera de sus modalidades y a corto plazo, manifieste por escrito que no tiene conocimiento de padecer de ninguna enfermedad terminal.
 
 ### CAPÍTULO SEXTO. DE LAS JUBILACIONES Y PENSIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 77.
 
-En el otorgamiento de jubilaciones y pensiones se tomará como base para calcular el monto de una jubilación o pensión, el equivalente al salario regulador del servidor público, salvo lo contemplado en el artículo cuarto transitorio de la Ley, promediando el salario base de cotización de los últimos tres años es decir las últimas 72 aportaciones recibidas de manera quincenal al fondo de pensiones, con un monto máximo diario de pensión o jubilación de hasta los veinte salarios mínimos generales vigentes.
+En el otorgamiento de jubilaciones y pensiones se tomará como base para calcular el monto de una jubilación o pensión, el equivalente al salario regulador del servidor público, salvo lo contemplado en el artículo cuarto transitorio de la Ley, promediando el salario base de cotización de los últimos tres años, es decir las últimas 72 aportaciones recibidas de manera quincenal al fondo de pensiones, con un monto máximo diario de pensión o jubilación de hasta veinte veces el valor diario de la Unidad de Medida y Actualización Vigente.
 
 Los pensionados o jubilados que se encuentren en el supuesto que marca el artículo 65 de la Ley, de inmediato deberán reintegrar las cantidades actualizadas percibidas indebidamente.
 
@@ -715,7 +771,9 @@ II. Por orfandad; y,
 
 III. Por ascendencia.
 
-El derecho al pago de la pensión por fallecimiento se generará a partir de la fecha en que sea presentada la solicitud y requisitos a la Dirección de Pensiones, para su autorización por la Junta Directiva; y se tomara como base para determinar el otorgamiento de pensión, el equivalente al salario regulador del servidor público fallecido promediando del salario base de cotización los últimos 3 años, es decir, las últimas 72 aportaciones recibidas de manera quincenal al fondo de pensiones, salvo lo contemplado en el artículo 4º Transitorio de la Ley, con un con un (sic) monto máximo diario de pensión de hasta los veinte salarios mínimos generales vigentes para el área geográfica donde se encuentra ubicada la ciudad de Morelia.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+El derecho al pago de la pensión por fallecimiento se generará a partir de la fecha que sea presentada la solicitud y requisitos a la Dirección de Pensiones, para su autorización por la Junta Directiva; y se tomará como base para determinar el otorgamiento de pensión, el equivalente al salario regulador del servidor público fallecido, promediando del salario base de cotización los últimos 3 años, es decir, las 72 aportaciones recibidas de manera quincenal al fondo de pensiones, salvo lo contemplado en el artículo cuarto transitorio de la Ley, con un monto máximo diario de pensión de hasta veinte veces el valor diario de la Unidad de Medida y Actualización Vigente.
 
 Para el caso del fallecimiento de un pensionado o jubilado, el monto de su último pago realizado por este concepto, se tomará como base para el otorgamiento de la pensión derivada.
 
@@ -1104,3 +1162,31 @@ TERCERO. Los servidores públicos que antes de la entrada en vigor de la present
 CUARTO. Se deja sin efectos todas las menciones que dentro del presente Reglamento se hagan del crédito o préstamo de garantía real, pero aquellos que a la fecha de entrada en vigor de la presente reforma se encuentren vigentes, la Dirección continuará descontando las amortizaciones hasta su finiquito.
 
 QUINTO. La Dirección procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
+
+P.O. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL OTORGAMIENTO DE PRESTACIONES DE LA DIRECCIÓN DE PENSIONES CIVILES DEL ESTADO DE MICHOACÁN".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los préstamos a que se refiere el artículo 63 del presente Reglamento, se harán a los servidores públicos conforme a las disposiciones siguientes:
+
+A partir del primero de septiembre y hasta el treinta y uno de diciembre del año 2018, el préstamo para los servidores públicos, excepto para trabajadores temporales, podrá sobrepasar el monto de las aportaciones en los términos siguientes:
+
+a) Se otorgará hasta una quincena adicional de su último sueldo de cotización, cuando el servidor público tuviere una antigüedad de cuatro a ocho años once meses y quince días de servicio.
+
+b) Se otorgará hasta un mes adicional de su último sueldo de cotización, cuando el servidor público tuviere una antigüedad de nueve o más años de servicio.
+
+###### ARTÍCULO TERCERO.
+
+Hasta el día primero de septiembre del año 2018, los préstamos hipotecarios otorgados en su modalidad de liquidez, podrán renovarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido y se encuentren cubiertos los abonos correspondientes a dicho periodo.
+
+Asimismo, hasta la fecha señalada en el párrafo anterior, se podrán otorgar préstamos a la par entre modalidades de garantía hipotecaria, solamente cuando uno de ellos sea de liquidez y la suma total del monto de ambos préstamos no supere la cantidad de $600,000.00 (Seiscientos mil pesos 00/100 M.N.); en casos excepcionales se estará a lo que acuerde la Junta Directiva.
+
+###### ARTÍCULO CUARTO.
+
+La Dirección de Pensiones procederá a realizar las modificaciones administrativas necesarias y difundirá todo lo relacionado con el contenido de la presente reforma, hará las comunicaciones legales a que haya lugar y observará su debido cumplimiento.
