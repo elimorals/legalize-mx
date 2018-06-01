@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2017-12-22"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2018.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 22 DE DICIEMBRE DE 2017.
 
@@ -698,9 +698,9 @@ a) Tres meses, tratándose de la exportación.
 
 b) Tres días, tratándose de mercancías explosivas, inflamables, contaminantes, radiactivas o corrosivas, así como de mercancías perecederas o de fácil descomposición y de animales vivos.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2018)</small>
 
-Los plazos a que se refiere este inciso, serán de hasta 45 días, en aquellos casos en que se cuente con instalaciones para el mantenimiento y conservación de las mercancías que se trate.
+Los plazos a que se refiere este inciso, serán de hasta 45 días, en aquellos casos en que se cuente con instalaciones para el mantenimiento y conservación de las mercancías de que se trate, excepto tratándose de petrolíferos, cuyo plazo será de hasta 15 días naturales.
 
 c) Dos meses, en los demás casos.
 
@@ -810,7 +810,9 @@ Para los efectos de las fracciones I y II de este artículo, el Servicio de Admi
 
 En el caso de exportación de mercancías que hubieran sido importadas en los términos del artículo 86 de esta Ley, así como de las mercancías que hubieran sido importadas temporalmente y que retornen en el mismo estado, susceptibles de ser identificadas individualmente, debe indicarse la información relativa a los números de serie, parte, marca, modelo o, en su defecto, las especificaciones técnicas o comerciales necesarias para identificar las mercancías y distinguirlas de otras similares, cuando dichos datos existan. Esta información deberá consignarse en la información transmitida electrónicamente relativa al valor comercial.
 
-No se exigirá la transmisión electrónica de la información relativa al valor y demás datos de comercialización de las mercancías en las importaciones y exportaciones, efectuadas por embajadas, consulados o miembros del personal diplomático y consular extranjero, las relativas a energía eléctrica, las de petróleo crudo, gas natural y sus derivados cuando se hagan por tubería o cables, así como cuando se trate de menajes de casa.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+No se exigirá la transmisión electrónica de la información relativa al valor y demás datos de comercialización de las mercancías en las importaciones y exportaciones, efectuadas por embajadas, consulados o miembros del personal diplomático y consular extranjero, así como cuando se trate de menajes de casa.
 
 Se deberá imprimir en el pedimento, el código de barras o usar otros medios de control, con las características que establezca el Servicio de Administración Tributaria mediante reglas.
 
@@ -2326,7 +2328,9 @@ Las mercancías importadas temporalmente por las maquiladoras o empresas con pro
 
 I. Hasta por dieciocho meses, en los siguientes casos:
 
-a) Combustibles, lubricantes y otros materiales que se vayan a consumir durante el proceso productivo de la mercancía de exportación.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+a) Lubricantes y otros materiales que se vayan a consumir durante el proceso productivo de la mercancía de exportación, excepto tratándose de petrolíferos.
 
 b) Materias primas, partes y componentes que se vayan a destinar totalmente a integrar mercancías de exportación.
 
@@ -2355,6 +2359,10 @@ En los casos en que residentes en el país les enajenen productos a las maquilad
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Las mercancías que hubieran sido importadas temporalmente de conformidad con este artículo deberán retornar al extranjero o destinarse a otro régimen aduanero en los plazos previstos. En caso contrario, se entenderá que las mismas se encuentran ilegalmente en el país, por haber concluido el régimen de importación temporal al que fueron destinadas.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+Los petrolíferos son mercancías que no podrán ser objeto de este régimen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -2776,6 +2784,10 @@ Por los faltantes de las mercancías destinadas al régimen previsto en este art
 
 Podrán introducirse al país a través del régimen previsto en este artículo, la maquinaria y el equipo que se requiera para la elaboración, transformación o reparación de mercancías en recinto fiscalizado, siempre que se pague el impuesto general de importación y se cumplan las regulaciones y restricciones no arancelarias aplicables a este régimen.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+Los petrolíferos son mercancías que no podrán ser objeto de este régimen.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ### Capítulo VII. Recinto Fiscalizado Estratégico
@@ -2817,6 +2829,10 @@ IV. Los desperdicios no retornados no causarán contribuciones siempre que se de
 Para destinar las mercancías al régimen de recinto fiscalizado estratégico, se deberá tramitar el pedimento respectivo o efectuar el registro a través de medios electrónicos que señale el Servicio de Administración Tributaria mediante reglas, determinando las contribuciones y cuotas compensatorias que correspondan.
 
 A partir de la fecha en que las mercancías nacionales o nacionalizadas queden bajo este régimen, se entenderán exportadas definitivamente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+Los petrolíferos son mercancías que no podrán ser objeto de este régimen.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -4360,7 +4376,7 @@ Comete la infracción relacionada con la obligación de llevar los sistemas de c
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
-###### ARTICULO 185-B.
+###### Artículo 185-B.
 
 Se aplicará una multa de $18,540.00 a $37,110.00 a quienes cometan la infracción relacionada con la obligación de llevar los sistemas de control de inventarios prevista en el artículo 185-A de esta Ley.
 
@@ -4648,7 +4664,7 @@ Lo dispuesto en este artículo no será aplicable cuando se den los supuestos de
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
-###### ARTICULO 200.
+###### Artículo 200.
 
 Cuando el monto de las multas que establece esta Ley esté relacionado con el de los impuestos al comercio exterior omitidos, con el valor en aduana de las mercancías y éstos no pueden determinarse, se aplicará a los infractores una multa de $62,210.00 a $82,950.00.
 
@@ -4961,3 +4977,19 @@ IV. Lo dispuesto en la regla 1.9.21., la modificación de la regla 1.9.3., y la 
 V. Lo dispuesto en las tablas de las reglas 3.4.2., y 3.7.4., entrará en vigor el 1 de enero de 2015.
 
 VI. La derogación de la regla 3.7.28. aplicará a partir del 1 de julio de 2015.
+
+D.O.F. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DE LA FEDERACIÓN, DE LA LEY ADUANERA, DEL CÓDIGO PENAL FEDERAL Y DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes transitorios.
+
+Segundo. Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Tercero. Las obligaciones derivadas de la reforma al artículo 28, fracción I, apartado B del Código Fiscal de la Federación, deberán cumplirse una vez que surtan efectos las autorizaciones que emita el Servicio de Administración Tributaria en términos de dicho precepto. Para tales efectos, el Servicio de Administración Tributaria dará a conocer en su página de Internet el momento en que surtan efectos las autorizaciones referidas. Las reglas de carácter general a que se refiere la citada disposición, deberán emitirse a más tardar 90 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Para efectos de la emisión de las reglas relativas a los controles volumétricos y los dictámenes emitidos por los laboratorios de prueba o ensayo a que se refiere el artículo 28, fracción I, apartado B, segundo párrafo del Código Fiscal de la Federación, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía.
+
+Cuarto. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.
+
+Quinto. Para efectos de lo dispuesto en el artículo 22 de la Ley del Impuesto sobre la Renta vigente o de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
