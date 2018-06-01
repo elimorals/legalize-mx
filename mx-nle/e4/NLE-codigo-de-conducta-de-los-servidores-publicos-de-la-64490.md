@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-de-la-64490"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-11-07"
-last_updated: "2008-11-07"
+last_updated: "2018-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
-CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de noviembre de 2008.
 
-El Pleno de la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León, con fundamento en lo dispuesto por el artículo 10, fracción XV, así como en la fracción V, inciso a), del articulo 104 de la ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y el diverso 87, que establece a dicha Comisión, como un órgano constitucionalmente autónomo; y,
+El Pleno de la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León, con fundamento en lo dispuesto por el artículo 10, fracción XV, así como en la fracción V, inciso a), del artículo 104 de la ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y el diverso 87, que establece a dicha Comisión, como un órgano constitucionalmente autónomo; y,
 
 C O N S I D E R A N D O
 
@@ -35,7 +37,7 @@ En la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo 
 
 La responsabilidad que tenemos como servidores públicos es muy grande, con las acciones y decisiones que tomamos, incidimos directamente en la salva guarda de derechos fundamentales humanos de la sociedad, como lo son, el derecho de acceso a la información pública gubernamental, la protección de sus datos personales, y su derecho a la privacidad. Por ello, es necesario enfrentar nuestro actuar diario, con un irrestricto cumplimiento de las Leyes, pero también, con la observancia de valores éticos y de integridad.
 
-El presente Código de Conducta, integra un conjunto de valores que los servidores públicos de esta Comisión, promovemos y defendemos. Con este documento, queremos establecer de forma muy clara y precisa, cuáles son los principios y reglas de actuación, que rigen y orientan nuestro ejercicio en situaciones especificas que se presenten, propiciando así una plena vocación de servicio público en beneficio de la colectividad, donde impere invariablemente una conducta digna que responda a las necesidades de la sociedad.
+El presente Código de Conducta, integra un conjunto de valores que los servidores públicos de esta Comisión, promovemos y defendemos. Con este documento, queremos establecer de forma muy clara y precisa, cuáles son los principios y reglas de actuación, que rigen y orientan nuestro ejercicio en situaciones específicas que se presenten, propiciando así una plena vocación de servicio público en beneficio de la colectividad, donde impere invariablemente una conducta digna que responda a las necesidades de la sociedad.
 
 De ese modo, crear un entorno de transparencia en la realización de nuestras acciones, constituye una alta prioridad para todos los que conformamos este órgano autónomo, lo cual encontramos plasmado en este Código.
 
@@ -168,3 +170,19 @@ LIC. LUZ AMPARO SALVA MORÍN
 Comisionada Supernumerario en su carácter de Secretario de Actas
 
 LA PRESENTE HOJA DE FIRMAS FORMA PARTE INTEGRAL DEL CÓDIGO DE CONDUCTA DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN, APROBADO EN SESIÓN EXTRAORDINARIA DEL PRIMER AÑO DE ACTIVIDADES DE LA MISMA, DE FECHA 31-TREINTA Y UNO DE OCTUBRE DE 2008-DOS MIL OCHO, QUE VA EN 08-OCHO HOJAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA COMISIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- El presente Código de Conducta deberá publicarse en el Periódico Oficial del Estado de Nuevo León.
+
+TERCERO.- Se abroga el Código de Conducta de los Servidores Públicos de la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 07 de noviembre de 2008.
+
+CUARTO.- Hágase del conocimiento de todos los servidores públicos de la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León y se exhorte a su fiel cumplimiento y observancia, así como de la sociedad en general a través de la página de internet de la Comisión www.ctainl.org.mx.
+
+QUINTO.- Gírese las instrucciones pertinentes, para el exacto cumplimiento del presente acuerdo.
