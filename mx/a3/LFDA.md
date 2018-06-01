@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "2016-01-13"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -1724,6 +1724,24 @@ Las acciones civiles que se ejerciten se fundarán, tramitarán y resolverán co
 
 Para el ejercicio de las acciones derivadas de la presente Ley y su Reglamento no será necesario agotar ningún procedimiento ni acción previa como condición para el ejercicio de dichas acciones.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+###### Artículo 213 Bis.
+
+Los titulares de los derechos reconocidos por esta Ley, sus representantes o las sociedades de gestión colectiva que los representen podrán solicitar a los Tribunales Federales y/o Tribunales de los Estados y/o de la Ciudad de México, el otorgamiento y ejecución de las siguientes medidas precautorias para prevenir, impedir o evitar la violación a sus derechos patrimoniales a los que se refiere el artículo 27 de esta Ley:
+
+I. La suspensión de la representación, comunicación y/o ejecución públicas;
+
+II. El embargo de las entradas y/o ingresos que se obtengan ya sea antes o durante la representación, comunicación y/o ejecución públicas;
+
+III. El aseguramiento cautelar de los instrumentos materiales, equipos o insumos utilizados en la representación, comunicación o ejecución públicas, y
+
+IV. Cuando las medidas previstas en las fracciones anteriores no sean suficientes para prevenir o evitar la violación de los derechos de autor, se decretará el embargo de la negociación mercantil.
+
+En los supuestos previstos en las fracciones anteriores, se deberá exhibir garantía suficiente para responder por los posibles daños y perjuicios de conformidad con lo establecido en el Reglamento de la Ley. Estas medidas perderán vigencia con el cumplimiento de la obligación.
+
+Al menos setenta y dos horas antes de presentar la solicitud judicial, el titular deberá dar aviso por escrito al posible infractor de la violación a sus derechos.
+
 ###### Artículo 214.
 
 En todo juicio en que se impugne una constancia, anotación o inscripción en el registro, será parte el Instituto y sólo podrán conocer de él los tribunales federales.
@@ -1731,6 +1749,10 @@ En todo juicio en que se impugne una constancia, anotación o inscripción en el
 ###### Artículo 215.
 
 Corresponde conocer a los Tribunales de la Federación de los delitos relacionados con el derecho de autor previstos en el Título Vigésimo Sexto del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+Los titulares del derecho de autor de obras musicales, sus representantes o las sociedades de gestión colectiva a las que hayan confiado la administración de sus derechos, podrán solicitar a la autoridad judicial competente, el otorgamiento de las medidas precautorias previstas en esta Ley.
 
 ###### Artículo 216.
 
@@ -2327,3 +2349,9 @@ Tercero. A partir del inicio de las precampañas y hasta el día de la jornada e
 D.O.F. 13 DE ENERO DE 2016.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN UN ARTÍCULO 213 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 215 DE LA LEY FEDERAL DEL DERECHO DE AUTOR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
