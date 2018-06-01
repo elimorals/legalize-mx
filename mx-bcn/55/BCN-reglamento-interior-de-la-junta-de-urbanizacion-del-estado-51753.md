@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-junta-de-urbanizacion-del-estado-5175
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2013-03-08"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,239 +21,75 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACION DEL ESTADO
 
-CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE ECONOMÍA DE TAMAULIPAS
+REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
 
-Código publicado en el Número Extraordinario 17 del Periódico Oficial del Estado de Tamaulipas, el lunes 24 de julio de 2023.
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
-CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERES DE LA SECRETARÍA DE ECONOMÍA
+EUGENIO ELORDUY WALTHER, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49 FRACCIONES I Y XVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, Y CON FUNDAMENTO EN LOS ARTÍCULOS 3 Y 9, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-Índice
+CONSIDERANDO
 
-CONTENIDO
+[...]
 
-Mensaje de la Persona Titular de la Secretaría de Economía
+OCTAVO.- Que el presente Reglamento atiende a estrategias de organización y coordinación, a criterios de optimización de recursos para una mejor productividad, y a principios de responsabilidad y control mediante diversas medidas que vigilen el sistema administrativo, así como la eficiencia y congruencia de sus objetivos con el servicio público en todos los niveles de su estructura jerárquica, por lo que se expide el siguiente:
 
-Riesgos Éticos
-
-Objeto
-
-Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Economía
+REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACIÓN DEL ESTADO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-El presente Código, es un instrumento de observancia obligatoria y aplicación general para toda persona que desempeñe un empleo, cargo, comisión o función en la Secretaría de Economía del Gobierno del Estado de Tamaulipas, sin importar el régimen de contratación.
+El presente ordenamiento tiene por objeto reglamentar la organización y funcionamiento de la Junta de Urbanización del Estado, como organismo público descentralizado de la Administración Pública Estatal, estableciendo las atribuciones de las unidades administrativas que la conforman, las facultades y obligaciones de sus funcionarios, y la manera de suplir a éstos en sus ausencias temporales.
 
-El Código, es un conjunto de principios éticos tendientes a reforzar la actuación de todo el personal de la Secretaría de Economía, en apego y respeto a las leyes, a los principios, valores y reglas de integridad inscritas en el Código de Ética del Poder Ejecutivo del Estado de Tamaulipas.
+La Junta de Urbanización del Estado tiene a su cargo el despacho de los asuntos expresamente señalados en la Ley de Urbanización del Estado de Baja California.
 
 ###### Artículo 2.
 
-Para la mejor comprensión del presente Código, se establece el siguiente glosario:
-
-a) Comité de Ética, Conducta y Prevención de Conflictos de Interés.- Órgano de consulta y asesoría especializada integrada al interior de la Secretaría de Economía.
-
-b) Compromiso.- Obligación contraída mediante acuerdo de voluntades.
-
-c) Deberes Generales.- Son los compromisos, obligaciones y mandatos que la sociedad impone en un ámbito específico a las personas, y cuyo cumplimiento reafirma el compromiso ético, legal y moral de los individuos para con el resto.
-
-d) Normatividad.- Conjunto de leyes, decretos, reglamentos, acuerdos, lineamientos, manuales y demás instrumentos jurídicos que establecen el marco de actuación al que debe ajustarse la Secretaría de Economía.
-
-e) Misión.- Conjunto de objetivos y propósitos que debe cumplir una persona o institución.
-
-f) Visión.- Capacidad de visualizar los resultados de un proceso específico.
+La Junta de Urbanización del Estado planeará, programará y conducirá sus actividades en apego a los objetivos, políticas y estrategias contenidas en el Plan Estatal de Desarrollo, en la Ley de Urbanización del Estado de Baja California, en la Ley de las Entidades Paraestatales del Estado de Baja California, en los programas y presupuestos encomendados a dicha entidad paraestatal y en las demás disposiciones aplicables.
 
 ###### Artículo 3.
 
-Los compromisos y deberes generales de observancia de la Secretaría de Economía son:
+Para los efectos de este Reglamento se entiende por:
 
-I. Sobre el Conocimiento y Aplicación de la Normatividad
+I. La Junta: a la Junta de Urbanización del Estado;
 
-Compromiso. El personal de la Secretaría de Economía, en el desempeño de su empleo, cargo, comisión o función, debe conducir su actuar de manera ética, con responsabilidad, transparencia, probidad, disciplina, rendición de cuentas e integridad, atendiendo a todos los valores establecidos en el Código de Ética del Poder Ejecutivo del Estado de Tamaulipas, en apego a los principios de legalidad, honradez y el respeto a la dignidad.
+II. Director General: al titular de la Junta de Urbanización del Estado;
 
-Debemos.
+III. Ley: a la Ley de Urbanización del Estado de Baja California;
 
-- Evitar actos de corrupción o interpretar la normatividad a favor o conveniencia, para buscar obtener beneficios personales, o que afecten a la población usuaria o el funcionamiento de la Secretaría.
+IV. Ley de las Entidades Paraestatales: a la Ley de las Entidades Paraestatales del Estado de Baja California; y,
 
-II. Desempeño del cargo público
-
-Compromiso. El personal de la Secretaría de Economía debe dirigir su actuar de manera correcta, bajo los principios de honestidad, legalidad, transparencia e imparcialidad, en el desempeño del empleo, cargo, comisión o función, a fin de evitar la obtención de beneficios personales de tipo económico, privilegios, favores sexuales o de cualquier índole, con el fin de beneficiar o perjudicar a terceras personas, pues de lo contrario estaríamos afectando la confianza y certidumbre de la sociedad.
-
-Debemos.
-
-- Evitar colocarse en situaciones que pudiesen representar un potencial conflicto de intereses institucionales y particulares.
-
-- Evitar solicitar o aceptar personalmente o a través de otra persona, dinero, regalos, favores o cualquier otra contraprestación a cambio de otorgar información, agilizar o autorizar algún trámite, licencia, permiso o concesión o adquisición de un bien o servicio.
-
-- Evitar dilaciones injustificadas en el desempeño de las funciones encomendadas.
-
-III. Uso Racional y Responsable de los Recursos Públicos
-
-Compromiso. El personal de la Secretaría de Economía debe utilizar los bienes, instalaciones, recursos humanos y financieros de la Secretaría, para cumplir con la misión de la misma, adoptando criterios de racionalidad, austeridad, disciplina y ahorro presupuestario.
-
-Observar "cero tolerancia" a la corrupción, influyentísimo (sic), compras o viáticos fuera de la normatividad, y en su caso, denunciar los actos de corrupción en que se vea involucrado el personal de la Secretaría de Economía.
-
-Debemos.
-
-- Evitar la omisión de declarar, en los actos en que se tenga intervención, los posibles conflictos de interés, negocios y transacciones comerciales que de alguna manera haya tenido con personas u organizaciones inscritas en el Padrón de Proveedores.
-
-- Evitar la sustracción o plagio de bienes, servicios y/o programas propiedad de la Secretaría para fines personales.
-
-IV. Uso Transparente y Responsable de la Información Interna
-
-Compromiso. El personal de la Secretaría de Economía debe ofrecer a la sociedad los mecanismos adecuados para el acceso libre y transparente de la información generada en la Secretaría, siempre y cuando, ésta no se encuentre reservada por razones legales o bien, por respeto a la privacidad de terceras personas, en apego a la ley.
-
-Debemos.
-
-- Evitar la sustracción, destrucción, ocultamiento o utilización indebida de información bajo nuestro resguardo.
-
-- Abstenerse de utilizar información oficial, que busque beneficios particulares y/o favorezca a terceras personas.
-
-V. Respeto a los Derechos Humanos
-
-Compromiso. El personal de la Secretaría de Economía debe promover, respetar, proteger y garantizar en el ejercicio de nuestras funciones los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
-
-Debemos.
-
-- Evitar la exclusión, trato diferenciado, negarse u omitir la realización de un trámite o servicio, motivado por razones discriminatorias, o cualquier otra que atente a la dignidad humana y anule o menoscabe los derechos y libertades de las personas.
-
-- Evitar situaciones que puedan poner en riesgo la vida e integridad del personal.
-
-VI. Cumplir las funciones con Perspectiva de Género, atendiendo a los principios de Igualdad, Justicia y no Discriminación
-
-Compromiso. El personal de la Secretaría de Economía debe practicar una cultura de respeto y de igualdad de oportunidades entre mujeres y hombres. Las diferencias por motivo de género, ideología o nivel jerárquico no son obstáculo para el desarrollo profesional y personal en la Secretaría.
-
-Debemos.
-
-- Evitar que se limite o impida la participación en los procesos de ingreso, permanencia, capacitación, audiencia y ascenso laboral, por factores de discriminación o cualquier otra que atente a la dignidad humana.
-
-- Evitar usar un lenguaje que ofenda la dignidad humana.
-
-- Evitar la promoción y/o ejercicio de violencia, rechazo, burla, injuria, persecución y/o exclusión.
-
-VII. Mantener un Ambiente Laboral Sano, Libre de Hostigamiento y Acoso Sexual
-
-Compromiso. El personal de la Secretaría de Economía, durante el desempeño de su empleo, cargo, comisión o función, debe conducirse en forma digna, evitando expresiones ofensivas, adoptar comportamientos, usar lenguaje o realizar acciones de hostigamiento y acoso sexual en la dependencia, y en los distintos ambientes en que se desenvuelve el personal.
-
-Debemos.
-
-- Eliminar las conductas discriminatorias y de violencia, para que los principios de democracia, equidad, tolerancia y respeto sean cabalmente aplicados en pro de las personas.
-
-- Evitar contacto físico innecesario, sugestivo o de naturaleza sexual.
-
-- Evitar lenguaje o señas sugerentes en doble sentido que menoscaben la integridad del personal, o tengan connotaciones agresivas, intimidatorias u hostiles.
-
-VIII. Atención a Quejas y Denuncias
-
-Compromiso. El personal de la Secretaría de Economía debe promover la creación de una cultura responsable de atención a las solicitudes de servicios, quejas, denuncias y su seguimiento respectivo a la autoridad competente, ofrecer a toda persona un trato respetuoso, imparcial y equitativo, y en caso de resultar procedente, dar el seguimiento, atención y respuesta oportuna a la ciudadanía.
-
-Debemos.
-
-- Evitar que se entorpezca o se retarde la correcta atención de una petición, queja o denuncia, sobre todo por negligencia, descuido o desinterés.
-
-IX. Salud, Higiene, Seguridad y Mejoramiento Ecológico
-
-Compromiso.- El personal de la Secretaría de Economía, debe implementar y promover acciones tendientes a preservar su salud, higiene, seguridad e integridad física, apegadas a la normatividad en materia ecológica y contribuir con su mejoramiento.
-
-Debemos.
-
-- Evitar conductas que afecten la imagen de la dependencia en que se labora.
-
-- Evitar el enrarecimiento de la calidad del aire, derivado del uso del tabaco, en las áreas de trabajo y el medio ambiente.
+V. Reglamento: al Reglamento Interior de la Junta de Urbanización del Estado.
 
 ### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
 
 ###### Artículo 4.
 
-Acciones de Difusión.- El personal de la Secretaría de Economía es el principal promotor de los valores, principios y conductas, por lo que tenemos la obligación de dar difusión del presente Código en nuestras áreas respectivas, así como fomentar un ambiente de confianza y armonía donde el personal pueda reportar sus inquietudes.
-
-El Comité garantizará la difusión, promoción y conocimiento del Código de Conducta entre las personas servidoras públicas de la dependencia o entidad, para lo cual aprovecharán el uso de los medios de comunicación interna, así como a través de infografías, banners, publicaciones u otros medios, generando la evidencia documental correspondiente de las actividades realizadas.
+La Junta estará regida por una Junta Directiva, que será el órgano máximo y rector de la entidad, la cual estará integrada de conformidad con lo dispuesto en la Ley.
 
 ###### Artículo 5.
 
-Acciones de Prevención. El Conflicto de interés, es la posible afectación del desempeño imparcial y objetivo de las funciones de los servidores públicos en razón de intereses personales, familiares o de negocios, en donde pueda beneficiarse con motivo de su encargo, a su cónyuge, parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, terceros con los que tenga relaciones profesionales, laborales, de negocios, socios o sociedades antes referidas, formen o hayan formado parte, entre otros casos análogos.
+La Junta Directiva tendrá como ámbito de competencia, las atribuciones que expresamente le confieren la Ley, y demás disposiciones aplicables.
 
 ###### Artículo 6.
 
-El conflicto de interés se clasifica en tres tipos:
-
-- Potencial.- Surge cuando los intereses privados de la o el servidor público, son susceptibles de provocar que en el futuro éste incurra en un conflicto de interés real.
-
-- Aparente.- Existe apariencia de que los intereses privados de la o el servidor público pueden influir indebidamente en el desempeño de sus obligaciones. Aunque realmente no sea el caso, puede generar sospechas que dañe la imagen y credibilidad de la o el servidor público.
-
-- Real.- Se actualiza la situación que confronta las obligaciones derivadas de servicio público con intereses privados.
+Los integrantes de la Junta Directiva estarán en funciones por todo el tiempo que duren en su cargo y, una vez que éste concluya, serán sustituidos automáticamente por la persona que lo ocupe.
 
 ###### Artículo 7.
 
-El conflicto de interés se convierte en falta administrativa o delito, cuando la persona que se encuentre en esta situación no se abstenga o excuse de intervenir en el asunto.
+El cargo de integrante de la Junta Directiva será de carácter honorífico, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño.
 
-#### Sección I. Ámbito de aplicación y obligatoriedad
+#### SECCIÓN I. DE LAS SESIONES
 
 ###### Artículo 8.
 
-El personal de la Secretaría de Economía, a efecto de prevenir un conflicto de interés, tiene las siguientes obligaciones:
-
-1.- Cuando tenga interés personal, familiar o de negocios, debe:
-
-a) Excusarse de intervenir en la atención, tramitación o resolución de asuntos.
-
-b) Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese, rescisión de contrato o sanción de la o el servidor público.
-
-c) Abstenerse de aprovechar la posición que su empleo le confiere para inducir a que otra u otro servidor público efectúe, retrase u omita realizar algún acto de su competencia.
-
-En este caso, deberá informar por escrito a su superior inmediato, para que le instruya sobre quien atenderá dicho trámite.
-
-2.- Abstenerse de solicitar, aceptar o recibir dinero, bienes en precio inferior al del mercado, donaciones, servicios o empleos de personas vinculadas, reguladas o supervisadas.
-
-Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión.
-
-3.- Abstenerse de adquirir bienes inmuebles que pueden incrementar su valor por obras o inversiones públicas o privadas, que haya autorizado o conocido con motivo de su empleo.
-
-Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión.
-
-4.- Establecer medidas preventivas al momento de ser informado como superior jerárquico, de un conflicto de interés.
-
-Cuando un superior jerárquico se entere de que la o el servidor público bajo su cargo se encuentra en situación de conflicto de interés, podrá tomar las siguientes medidas:
-
-En un conflicto de interés potencial, supervisar con mecanismos de monitoreo y auditoría constante para detectar el momento en que el conflicto de interés, por algún cambio de circunstancia o contexto de la o el servidor público, se vuelva uno real.
-
-En un conflicto de interés aparente:
-
-- Dialogar con la o el servidor público;
-
-- Pedir aclaraciones o declaraciones públicas para evitar malentendidos;
-
-- Mitigar las circunstancias que puedan conllevar al interés real;
-
-- Evitar que la o el servidor público participe en el proceso; y
-
-- Anular el procedimiento en riesgo que genere un conflicto de interés real.
-
-En un conflicto de interés real:
-
-- Analizar los hechos para aclarar la situación real;
-
-- Excluir o separar a la persona en cuestión del procedimiento, o gestionar esta acción cuando no se tengan facultades para ello;
-
-- Cambiar el reparto de funciones y responsabilidades del personal, o gestionar esta acción cuando no se tengan facultades para ello;
-
-- Cancelar, en última instancia, el procedimiento; y
-
-- Sugerir que se venda el negocio, acciones o propiedades.
-
-5.- El personal que deje de desempeñar su empleo, cargo, comisión o función deberá observar, hasta un año después de haber concluido sus funciones, lo siguiente:
-
-a) En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función desempeñada, para sí o para las personas con quien tenga interés personal, familiar o de negocios; y
-
-b) No usar en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público.
+La Junta Directiva celebrará sesiones ordinarias y extraordinarias, previa convocatoria del Presidente de la misma, integrándose el quórum con la presencia de la mayoría de sus miembros, entre los que deberá estar presente el Presidente o la persona que éste designe como suplente, sujetando los trabajos al orden del día previamente establecido en la convocatoria.
 
 ###### Artículo 9.
 
-La interpretación para efectos administrativos, así como la consulta, asesoría, atención y solución de los casos no previstos en el presente Código, corresponde a la persona titular de la Presidencia del Comité, la cual puede solicitar la opinión de las personas integrantes del Comité.
-
-En la interpretación y aplicación del presente Protocolo, se deberán considerar los derechos expresados en la Constitución Política de los Estados Unidos Mexicanos, así (sic) los principios, valores y reglas de integridad definidos en el Código de Ética del Poder Ejecutivo del Estado de Tamaulipas
+La celebración de las sesiones ordinarias de la Junta Directiva, se llevará a cabo con una periodicidad que no excederá de 3 meses, y la de las sesiones extraordinarias, cuando haya asuntos que por su naturaleza lo amerite.
 
 ###### Artículo 10.
 
@@ -285,7 +121,7 @@ El Comisario designado por el Contralor General del Estado, el Director General 
 
 La Junta Directiva, cuando así lo estime conveniente, podrá establecer comisiones de estudio, mesas técnicas o grupos de trabajo con carácter de permanentes o transitorios.
 
-#### Sección II. Glosario de Términos
+#### SECCIÓN II. DE LA PRESIDENCIA
 
 ###### Artículo 16.
 
@@ -303,7 +139,7 @@ V. Analizar, tramitar y, en su caso, resolver lo no previsto en el presente Regl
 
 VI. Las demás que le otorgue el presente Reglamento, la Junta Directiva y las disposiciones aplicables.
 
-#### Sección III. Conductas de las personas servidoras publicas
+#### SECCIÓN III. DE LA SECRETARÍA TÉCNICA
 
 ###### Artículo 17.
 
@@ -331,7 +167,7 @@ VIII. Convocar a sesiones ordinarias o extraordinarias, previa instrucción del 
 
 IX. Las demás que le señale la Junta Directiva, para el adecuado desarrollo de las sesiones.
 
-#### Sección IV. Acciones de Difusión y Prevención de conductas que puedan constituir conflictos de interés
+#### SECCIÓN IV. DE LOS INTEGRANTES
 
 ###### Artículo 18.
 
@@ -363,9 +199,9 @@ a. Unidad de Planeación;
 
 b. Departamento Jurídico; y,
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
-c. Unidad de Contraloría Interna.
+c. Órgano Interno de Control.
 
 II. Subdirección de Obras y Proyectos:
 
@@ -395,37 +231,25 @@ a. Coordinación Financiera y Administrativa.
 
 Se adscriben directamente a la Dirección General, la Subdirección de Obras y Proyectos, la Subdirección de Recaudación, y la Subdirección Financiera y Administrativa.
 
-#### Sección V. Instancia encargada de la interpretación, consulta y asesoría. Anexo 1.- Carta Compromiso
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
 
-Mensaje de la persona Titular de la Secretaría de Economía
+###### Artículo 19 Bis.
 
-El Gobierno de Tamaulipas, encabezado por el C. Gobernador del Estado, Dr. Américo Villarreal Anaya, ha manifestado que, tiene entre sus prioridades brindar un ambiente adecuado, transparente y legal, para que las personas que busquen oportunidades se desarrollen, generando reconocimiento, respeto y protección a la dignidad humana.
+Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Junta, contará con un Comité de Transparencia y una Unidad de Transparencia, las cuales se organizaran y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
-En ese contexto, la Secretaría de Economía conduce su actuar institucional bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez e imparcialidad, ajustando su comportamiento con confianza, cooperación, equidad de género, igualdad, no discriminación y respeto a los derechos humanos.
+La Unidad de Transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
 
-Por lo que, se prevé que, el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Economía, sea un marco de referencia en la administración 2022-2028, ya que las acciones de la Secretaría, son fundamentales para la transformación y desarrollo social, así como en el servicio público.
+#### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
-Riesgos Éticos
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
-
-La MISIÓN de la Secretaría es contribuir al Desarrollo Económico Sostenible de Tamaulipas, con un sentido humanista, que integre a las acciones de gobierno, las iniciativas de empresarios, académicos, trabajadores y sociedad civil organizada para incrementar la competitividad regional, impulsar la promoción de inversiones dirigida a la conformación de clústeres industriales, crear ambientes propicios en el desarrollo de emprendedores, de la micro, pequeña y mediana empresa tamaulipeca, para generar empleos en condiciones de igualdad que favorezcan el mejoramiento del nivel de vida de las familias tamaulipecas.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
-
-Y tiene como VISIÓN coordinar las políticas públicas para el desarrollo económico sostenible en Tamaulipas a partir de la implementación de programas y proyectos coordinados con los actores económicos y sectores sociales, que impulsen la competitividad de sus regiones, la llegada de nuevas inversiones, así como para impulsar el emprendimiento, las micro, pequeñas y medianas empresas consolidadas en los mercados locales e internacionales para una mayor generación de empleos formales y un mejor bienestar de los habitantes del estado.
-
-Objeto
-
-El Código de Conducta es un instrumento rector en el que se especifican de manera puntual, la forma en que las personas servidoras públicas de la Secretaría de Economía, aplicarán los principios, valores y reglas de integridad, con el objeto de fomentar y garantizar la ética en el servicio público, para el correcto, honorable y adecuado cumplimiento de sus atribuciones, en apego al Código de Ética del Poder Ejecutivo del Gobierno del Estado de Tamaulipas, evitando cualquier acto de corrupción o conflicto de intereses.
-
-En ese contexto, con la facultad que se le confiere a la Secretaría de Economía, en términos de los artículos 11 numerales 2, 3 y 4, y 29 de la Ley Orgánica de la Administración Pública del Estado, y en los Lineamientos y la Guía para la Elaboración y Actualización del Código de Conducta y Prevención de Conflictos de Interés de las Dependencias y Entidades de la Administración Pública Estatal, publicados en (sic) Periódico Oficial del Estado, edición Vespertina número 63 de fecha 25 de mayo del 2023, se ha tenido a bien aprobar el siguiente Acuerdo por el que se expide:
-
-CÓDIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA SECRETARÍA (SIC) ECONOMÍA
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 20.
 
 La Dirección General estará a cargo de un Director General, quien ejercerá las facultades y obligaciones que expresamente señalan los artículos 19 y 29 de la Ley, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+Corresponde al Director General designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
 ###### Artículo 21.
 
@@ -437,11 +261,11 @@ a. Unidad de Planeación;
 
 b. Departamento Jurídico; y
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
-c. Unidad de Contraloría Interna.
+c. Órgano Interno de Control.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 22.
 
@@ -461,7 +285,13 @@ VI. Coadyuvar a mejorar la eficiencia y calidad de los servicios de las unidades
 
 VII. Participar con las unidades administrativas de la Junta en la elaboración y administración de proyectos; y,
 
-VIII. Las demás atribuciones que le confieran el Director General y las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+VIII. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+IX. Las demás atribuciones que le confieran el Director General y las disposiciones aplicables.
 
 ###### Artículo 23.
 
@@ -491,43 +321,47 @@ XI. Promover la protocolización notarial de actos relativos a las facultades de
 
 XII. Las demás atribuciones que le confiera el Director General y las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
 ###### Artículo 24.
 
-Corresponde a la Unidad de Contraloría Interna la atención y trámite de las siguientes atribuciones:
+El Órgano Interno de Control de la Junta para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
 
-I. Efectuar revisiones directas y selectivas a las unidades administrativas de la Junta, tendientes a comprobar la veracidad de su información financiera y verificar que las operaciones sean congruentes con los procesos aprobados de planeación, programación y presupuestación;
+I.- Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Junta y las demás que rigen la administración pública estatal;
 
-II. Verificar el correcto funcionamiento de sus unidades administrativas, respecto de la administración de los recursos humanos, materiales y financieros;
+II.- Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Junta;
 
-III. Informar al titular de la Junta sobre los resultados de las revisiones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+III.- Revisar que las operaciones presupuestales que realice la Junta se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
 
-IV. Revisar el cumplimiento de normas, políticas, sistemas, procedimientos y mecanismos relativos a la operación de la Junta;
+IV.- Requerir a las unidades administrativas de la Junta que correspondan el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorias verificaciones y revisiones, así como formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
 
-V. Revisar la suficiencia y efectividad de los sistemas, mecanismos y procedimientos de control interno existentes;
+V.- Informar al titular de la Junta sobre los resultados de las revisiones, auditorias y verificaciones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
 
-VI. Formular al Subdirector correspondiente, en su ámbito de competencia, recomendaciones y sugerencias resultantes de auditorías practicadas, en congruencia con las necesidades de la Junta, así como dar el seguimiento a la solventación respectiva;
+VI.- Asistir a reuniones del Subcomité de Adquisiciones de la Junta, y vigilar que las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios y obra pública, equipamiento, suministros y servicios de la Junta se realicen con apego a las leyes en la materia;
 
-VII. Proporcionar a la Dirección de Control y Evaluación Gubernamental, los elementos de juicio suficientes, así como la documentación necesaria, cuando se presuma la comisión de ilícitos por parte de servidores públicos adscritos a la Junta, para la correcta aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
+VII.- Requerir a terceros que hubieran contratado bienes o servicios con la Junta la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-VIII. Presentar a la Junta Directiva, y al Contralor General del Estado, para su aprobación, su programa anual de trabajo;
+VIII.- Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
 
-IX. Asistir a reuniones del Comité Técnico de Adquisiciones y vigilar que los procedimientos de contratación de adquisiciones, arrendamientos y servicios, así como los de obra pública, equipamiento, suministros y servicios de la Junta, se realicen con apego a las leyes en la materia;
+IX.- Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental, las políticas para simplificar y homogeneizar sus funciones;
 
-X. Rendir informe trimestral de actividades al Director General de la Junta, y al Contralor General del Estado;
+X.- Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Junta cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
 
-XI. Recibir y turnar a la Dirección de Control y Evaluación Gubernamental, los escritos que presenten los interesados con motivo de cualquier acto del procedimiento de contratación que contravenga las disposiciones legales vigentes;
+XI.- Requerir a los servidores públicos de la Junta información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
 
-XII. Atender los requerimientos que le formule Contraloría General del Estado, derivados de las funciones que tiene encomendadas;
+XII.- Atender los requerimientos que le formule el Secretario de la Contrataría y Transparencia Gubernamental, a través del Director de Auditoria Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
 
-XIII. Conocer, investigar, desahogar y resolver procedimientos administrativos sobre actos u omisiones a cargo de los servidores públicos, que de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado, le competan;
+XIII.- Coadyuvar en el programa de actualización del marco de actuación de la Junta en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen; y
 
-XIV. Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a los servidores públicos de la Junta, cuando se estime conveniente; y,
+XIV.- Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
 
-XV. Las demás atribuciones que le confieran las disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
 
-#### Sección I. Ámbito de aplicación y obligatoriedad
+###### Artículo 24 Bis.
+
+El Órgano Interno de Control contará con el personal y recursos necesarios, a fin de garantizar la independencia en el ejercicio de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+#### SECCIÓN II. DE LA SUBDIRECCIÓN DE OBRAS Y PROYECTOS
 
 ###### Artículo 25.
 
@@ -553,7 +387,13 @@ IX. Dirigir y coordinar las actividades concernientes a las estimaciones, desde 
 
 X. Participar en los actos de entrega-recepción de las obras contratadas por la Junta, verificando que reúnan las condiciones pactadas en los actos jurídicos celebrados para tales efectos; y,
 
-XI. Las demás atribuciones que le confieran el Director General y las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+XI. Integrar y administrar los expedientes técnicos de las obras y servicios que contrate la Junta conforme a la normatividad aplicable y a los lineamientos establecidos, así como formar la unidad de concentración documental para salvaguardar y controlar los mismos; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+XII. Las demás atribuciones que le confieran el Director General y las disposiciones aplicables.
 
 ###### Artículo 26.
 
@@ -567,21 +407,17 @@ c. Coordinación de Obras; y,
 
 d. Coordinación Técnica Zona Costa.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 27.
 
 Corresponde a la Coordinación de Proyectos y Seguimiento la atención y trámite de las siguientes atribuciones:
 
-I. Integrar y administrar los expedientes técnicos de las obras y servicios que contrate la Junta conforme a la normatividad aplicable y a los lineamientos establecidos, así como formar la unidad de concentración documental para salvaguardar y controlar los mismos;
+I.- Coordinar la elaboración, revisión y validación de los expedientes técnicos para la aprobación de recursos financieros para la ejecución de obras y proyectos;
 
-II. Vigilar el cumplimiento a las normas y especificaciones técnicas para la licitación, contratación y supervisión de obras públicas y servicios relacionados con las mismas, que ejecute la Junta;
+II.- Coordinar la elaboración, revisión, validación y seguimiento a los estudios y proyectos correspondientes a las obras que pretenda ejecutar la Junta; y,
 
-III. Coordinar la elaboración de las actas de entrega-recepción de las obras contratadas por la Junta, verificando que reúnan las condiciones pactadas en los actos jurídicos celebrados para tales efectos;
-
-IV. Coordinar la elaboración, revisión y validación de los expedientes técnicos para la aprobación de recursos financieros para la ejecución de obras y proyectos;
-
-V. Coordinar la elaboración, revisión, validación y seguimiento a los estudios y proyectos correspondientes a las obras que pretenda ejecutar la Junta; y,
-
-VI. Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
+III.- Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
 
 ###### Artículo 28.
 
@@ -631,11 +467,75 @@ III. Realizar los trabajos concernientes a las estimaciones, desde su recepción
 
 IV. Verificar que las obras que se ejecuten cumplan con el proyecto, lineamientos, normas generales de control de calidad y especificaciones con las que fueron contratadas por la Junta;
 
-V. Participar en las juntas de coordinación con diferentes autoridades y organismos que intervienen en la realización de las obras que realice la Junta; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
 
-VI. Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
+V. Revisar la factibilidad de las propuestas de obras a ejecutar por el organismo en la zona costa, para evaluar las áreas donde se ejecutarán las obras de acuerdo a las prioridades de las zonas;
 
-#### Sección II. Glosario de Términos
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
+
+VI. Coordinar a los promotores para la entrega de acuerdos de aprobación en diferentes áreas de la zona costa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+VII. Coordinar con el área de Participación Ciudadana y los comités de obra, la generación de un padrón de asistentes beneficiados por las obras, así como sus requerimientos adicionales en el área de la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+VIII. Coordinar con el área de Obras y Proyectos una vez alcanzado el porcentaje, el arranque de las obras para avisar a los vecinos en tiempo y forma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+IX. Coordinar con el área de Participación Ciudadana la conformación de los expedientes adjuntando la documentación necesaria de acreditación de beneficiarios de las obras para elaborar los acuerdos de aprobación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+X. Atender y canalizar al área de Recaudación a los beneficiados de las obras para que puedan ser sujetos de los apoyos con los que cuenta como los estudios socioeconómicos, descuentos, plazos y solicitudes para otorgar descuentos a adultos mayores o el incremento en los plazos de pago para los beneficiados por las obras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XI. Coordinar los operativos de traslado de la caja móvil a las colonias con el área de Recaudación en la Coordinación de Recuperación de Cartera y con los comités de obra;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XII. Informar en la reunión de vecinos en coordinación con el área de Obras de la zona, los cuidados que los ejecutores de la obra y los beneficiarios de la misma deben tener al realizarse la obra, así como difundir y explicar las obligaciones y derechos previstos en las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XIII. Canalizar y atender las quejas de los beneficiados de las obras para dar seguimiento oportuno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XIV. Integrar los reportes sobre los avances en los procesos de aprobación de las obras en coordinación con las áreas de Recaudación, Participación Ciudadana y de Obras y Proyectos para su entrega semanal y mensual al Director General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XV. Coordinarse con las dependencias que corresponda, en todos los aspectos que se relacionen con los procesos de aprobación de recursos y cierre programático y presupuestal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XVI. Actualizar en el Sistema de Inversión Pública los avances físicos de los proyectos y obras aprobados a la Junta de Urbanización en la zona costa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XVII. Coordinar la elaboración de acuerdos de aprobación con la Coordinación de Derramas y validar los proyectos concluidos que elabore el organismo de las obras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XVIII. Dar seguimiento a la ejecución de los proyectos de las obras y coordinar todos los trabajos que se realizan en la zona costa relacionados con los supervisores de obra, contratistas, fichas técnicas, estimaciones, convenios de diferimiento y adicionales, así como realizar reportes semanales y mensuales en porcentaje de avance, tanto en el área de Obras y Proyectos, como con el área de Participación Ciudadana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XIX. Integrar los informes mensuales y en su caso justificaciones del programa operativo anual de las acciones correspondientes a la zona costa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XX. Participar en las juntas de coordinación con diferentes autoridades y organismos que intervienen en la realización de las obras que realice la Junta; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XXI. Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
+
+#### SECCIÓN III. DE LA SUBDIRECCIÓN DE RECAUDACIÓN
 
 ###### Artículo 31.
 
@@ -689,7 +589,7 @@ Corresponde a la Coordinación de Participación Ciudadana la atención y trámi
 
 I. Implementar los procesos de participación ciudadana, en estricto apego a lo previsto en la Ley;
 
-II. Atender las peticiones de los beneficiarios de las obras y, en su caso, canalizarlas a la Subdirección de Recaudación o área de apoyo correspondiente;
+II. (DEROGADA, P.O. 8 DE MARZO DE 2013)
 
 III. Diseñar e instrumentar acciones de apoyo y mejoramiento en las áreas de participación social, para lograr ejecución de las obras que lleve a cabo la Junta; y,
 
@@ -785,7 +685,7 @@ XVI. Intervenir en todos los actos tendientes a la expedición y firma de certif
 
 XVII. Las demás atribuciones que le confiera el superior inmediato y las disposiciones aplicables.
 
-#### Sección III. Conductas de las personas servidoras publicas
+#### SECCIÓN IV. DE LA SUBDIRECCIÓN FINANCIERA Y ADMINISTRATIVA
 
 ###### Artículo 36.
 
@@ -859,7 +759,7 @@ IX. Las demás atribuciones que le confieran el superior inmediato y las disposi
 
 ### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES
 
-#### Sección IV. Acciones de difusión y prevención de conductas que puedan constituir conflictos de interés
+#### SECCIÓN I. DEL DIRECTOR GENERAL
 
 ###### Artículo 39.
 
@@ -883,7 +783,7 @@ VI. Delegar sus facultades en los funcionarios, que de conformidad al ámbito de
 
 El Director General para la mejor distribución y despacho de los asuntos de su competencia, podrá delegarlos en sus funcionarios subalternos, sin perder por ello la posibilidad del ejercicio directo, ni la facultad de revocación.
 
-#### Sección V. Instancia encargada de la interpretación, consulta y asesoría
+#### SECCIÓN II. DE LOS SUBDIRECTORES
 
 ###### Artículo 41.
 
@@ -953,42 +853,58 @@ Las ausencias temporales de los Subdirectores que no excedan de quince días, se
 
 Las ausencias temporales de los Jefes de Departamento y Coordinadores de Área que no excedan de quince días, serán suplidas por los servidores públicos de jerarquía inmediata inferior que designen para tal efecto, con conocimiento de ello al Director General; y en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director General.
 
-## TRANSITORIOS
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
 
-PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### Artículo 45 Bis.
 
-SEGUNDO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
-ATENTAMENTE.- SECRETARIA DE ECONOMÍA.- NINFA CANTÚ DEANDAR.- Rúbrica.
+## ARTÍCULOS TRANSITORIOS
 
-Anexo 1. Carta Compromiso
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Carta Compromiso Yo C. (Nombre de la persona servidora pública) servidor público adscrito a la Secretaría de Economía del Gobierno del Estado de Tamaulipas, MANIFIESTO que he LEÍDO Y COMPRENDIDO el Código de Ética del Poder Ejecutivo del Estado de Tamaulipas, las Reglas de Integridad para el Ejercicio de la Función Pública, y el Código de Conducta y Prevención de Conflictos de Interés de la Secretaría de Economía, y demás Procedimientos y Protocolos emitidos por el Comité.
+SEGUNDO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
 
-Los cuales establecen el marco ético y la guía de conducta que estoy obligado a observar en el desarrollo de mi empleo, cargo o comisión, por lo cual ME COMPROMETO A CUMPLIRLOS Y APLICARLOS; así como a DENUNCIAR ante la instancia correspondiente cualquier acto en el que se observe un incumplimiento a los mismos haciéndolo con responsabilidad y respeto.
+De conformidad con lo dispuesto por el artículo 49, fracción I, de la Constitución Política del Estado Libre y Soberano de Baja California, imprimase y publíquese el presente Reglamento para su debido cumplimiento y observancia.
 
-Por lo anterior, estoy de acuerdo en que deberé ceñir mi comportamiento a lo establecido por los documentos mencionados en el primer párrafo de esta carta, consciente de las posibles sanciones y responsabilidades en que pudiera incurrir en caso de su incumplimiento.
+Dado en el Poder Ejecutivo del Estado, en la Ciudad de Mexicali, Baja California, a los veintiséis días del mes de julio de 2006.
 
-Cd. Victoria, Tamaulipas, a (día) de (mes) de (año).
+GOBERNADOR DEL ESTADO
 
-A t e n t a m e n t e
+EUGENIO ELORDUY WALTHER
 
-Nombre de la persona servidora pública
+SECRETARIO GENERAL DE GOBIERNO
 
-Puesto
+BERNARDO H. MARTÍNEZ AGUIRRE
 
-Número de empleado
+SECRETARIO DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+ARTURO ESPINOZA JARAMILLO
 
-P.O. 10 DE SEPTIEMBRE DE 2024.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMA EL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE ECONOMÍA”.]
+P.O. 25 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto no se modifiquen los manuales administrativos de conformidad a este Decreto, el Director General de la Junta de Urbanización del Estado de Baja California, queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+P.O. 8 DE MARZO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto no se modifiquen los manuales administrativos de conformidad a este Reglamento, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+P.O. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE MODIFICAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeña, hasta en tanto no se autorice en el presupuesto de egresos del ejercicio fiscal 2019, los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 24 BIS de la presente reforma.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2018.
