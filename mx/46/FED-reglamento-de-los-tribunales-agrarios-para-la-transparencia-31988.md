@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-los-tribunales-agrarios-para-la-transparencia-319
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-20"
-last_updated: "2003-06-20"
+last_updated: "2018-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31988&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-06-10"
 ---
 # REGLAMENTO DE LOS TRIBUNALES AGRARIOS PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION
 
-REGLAMENTO DE LOS TRIBUNALES AGRARIOS PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LOS TRIBUNALES AGRARIOS Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F. DE 1 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LOS TRIBUNALES AGRARIOS PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 20 de junio de 2003.
 
@@ -242,3 +244,17 @@ SEGUNDO.- Este Reglamento entrará en vigor el día siguiente al de su publicaci
 TERCERO.- Una vez hecha la publicación a que se refiere el artículo anterior quedarán sin efecto, y se abrogan, los "Acuerdos de Carácter General" emitidos por este Tribunal y a que se refiere el artículo 61 de la Ley, por lo que esta información se deberá actualizar en la página web de los Tribunales Agrarios.
 
 Así lo aprobó el Tribunal Superior Agrario en sesión celebrada el diez de junio del año dos mil tres y, por tanto, firman los Magistrados que lo integran, con el Secretario General de Acuerdos, que autoriza y da fe.- El Magistrado Presidente, Ricardo García Villalobos Gálvez.- Rúbrica.- Los Magistrados Numerarios: Luis O. Porte Petit Moreno, Rodolfo Veloz Bañuelos, Marco V. Martínez Guerrero, Luis Angel López Escutia.- Rúbricas.- El Secretario General de Acuerdos, Humberto J. Quintana Miranda.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LOS TRIBUNALES AGRARIOS Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. Publíquese el presente reglamento en el Diario Oficial de la Federación, en el Boletín Judicial Agrario y en la página de internet de los Tribunales Agrarios.
+
+SEGUNDO. Este Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Una vez hecha la publicación a que se refiere el artículo anterior queda abrogado el Reglamento de los Tribunales Agrarios para la transparencia y acceso a la información publicado en el Diario Oficial el 20 de junio de 2003, así como cualquier disposición de igual o menor jerarquía que se oponga al presente ordenamiento.
+
+CUARTO. Así lo aprobó el Tribunal Superior Agrario en sesión celebrada el veinticuatro de mayo de dos mil dieciocho y, por tanto, firman los Magistrados que lo integran, con el Subsecretario General de Acuerdos, en funciones de Secretario General de Acuerdos, que autoriza y da fe. -
