@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-junta-de-urbanizacion-del-estado-5175
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2013-03-08"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
 EUGENIO ELORDUY WALTHER, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49 FRACCIONES I Y XVI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, Y CON FUNDAMENTO EN LOS ARTÍCULOS 3 Y 9, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 OCTAVO.- Que el presente Reglamento atiende a estrategias de organización y coordinación, a criterios de optimización de recursos para una mejor productividad, y a principios de responsabilidad y control mediante diversas medidas que vigilen el sistema administrativo, así como la eficiencia y congruencia de sus objetivos con el servicio público en todos los niveles de su estructura jerárquica, por lo que se expide el siguiente:
 
@@ -197,9 +199,9 @@ a. Unidad de Planeación;
 
 b. Departamento Jurídico; y,
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
-c. Unidad de Contraloría Interna.
+c. Órgano Interno de Control.
 
 II. Subdirección de Obras y Proyectos:
 
@@ -229,6 +231,14 @@ a. Coordinación Financiera y Administrativa.
 
 Se adscriben directamente a la Dirección General, la Subdirección de Obras y Proyectos, la Subdirección de Recaudación, y la Subdirección Financiera y Administrativa.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+###### Artículo 19 Bis.
+
+Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Junta, contará con un Comité de Transparencia y una Unidad de Transparencia, las cuales se organizaran y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La Unidad de Transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
+
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
@@ -236,6 +246,10 @@ Se adscriben directamente a la Dirección General, la Subdirección de Obras y P
 ###### Artículo 20.
 
 La Dirección General estará a cargo de un Director General, quien ejercerá las facultades y obligaciones que expresamente señalan los artículos 19 y 29 de la Ley, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+Corresponde al Director General designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
 ###### Artículo 21.
 
@@ -247,9 +261,9 @@ a. Unidad de Planeación;
 
 b. Departamento Jurídico; y
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
-c. Unidad de Contraloría Interna.
+c. Órgano Interno de Control.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2011)</small>
 
@@ -271,7 +285,13 @@ VI. Coadyuvar a mejorar la eficiencia y calidad de los servicios de las unidades
 
 VII. Participar con las unidades administrativas de la Junta en la elaboración y administración de proyectos; y,
 
-VIII. Las demás atribuciones que le confieran el Director General y las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+VIII. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+IX. Las demás atribuciones que le confieran el Director General y las disposiciones aplicables.
 
 ###### Artículo 23.
 
@@ -301,41 +321,45 @@ XI. Promover la protocolización notarial de actos relativos a las facultades de
 
 XII. Las demás atribuciones que le confiera el Director General y las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
 
 ###### Artículo 24.
 
-Corresponde a la Unidad de Contraloría Interna la atención y trámite de las siguientes atribuciones:
+El Órgano Interno de Control de la Junta para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
 
-I. Efectuar revisiones directas y selectivas a las unidades administrativas de la Junta, tendientes a comprobar la veracidad de su información financiera y verificar que las operaciones sean congruentes con los procesos aprobados de planeación, programación y presupuestación;
+I.- Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Junta y las demás que rigen la administración pública estatal;
 
-II. Verificar el correcto funcionamiento de sus unidades administrativas, respecto de la administración de los recursos humanos, materiales y financieros;
+II.- Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Junta;
 
-III. Informar al titular de la Junta sobre los resultados de las revisiones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+III.- Revisar que las operaciones presupuestales que realice la Junta se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
 
-IV. Revisar el cumplimiento de normas, políticas, sistemas, procedimientos y mecanismos relativos a la operación de la Junta;
+IV.- Requerir a las unidades administrativas de la Junta que correspondan el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorias verificaciones y revisiones, así como formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
 
-V. Revisar la suficiencia y efectividad de los sistemas, mecanismos y procedimientos de control interno existentes;
+V.- Informar al titular de la Junta sobre los resultados de las revisiones, auditorias y verificaciones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
 
-VI. Formular al Subdirector correspondiente, en su ámbito de competencia, recomendaciones y sugerencias resultantes de auditorías practicadas, en congruencia con las necesidades de la Junta, así como dar el seguimiento a la solventación respectiva;
+VI.- Asistir a reuniones del Subcomité de Adquisiciones de la Junta, y vigilar que las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios y obra pública, equipamiento, suministros y servicios de la Junta se realicen con apego a las leyes en la materia;
 
-VII. Proporcionar a la Dirección de Control y Evaluación Gubernamental, los elementos de juicio suficientes, así como la documentación necesaria, cuando se presuma la comisión de ilícitos por parte de servidores públicos adscritos a la Junta, para la correcta aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
+VII.- Requerir a terceros que hubieran contratado bienes o servicios con la Junta la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
 
-VIII. Presentar a la Junta Directiva, y al Contralor General del Estado, para su aprobación, su programa anual de trabajo;
+VIII.- Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
 
-IX. Asistir a reuniones del Comité Técnico de Adquisiciones y vigilar que los procedimientos de contratación de adquisiciones, arrendamientos y servicios, así como los de obra pública, equipamiento, suministros y servicios de la Junta, se realicen con apego a las leyes en la materia;
+IX.- Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoria Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental, las políticas para simplificar y homogeneizar sus funciones;
 
-X. Rendir informe trimestral de actividades al Director General de la Junta, y al Contralor General del Estado;
+X.- Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Junta cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
 
-XI. Recibir y turnar a la Dirección de Control y Evaluación Gubernamental, los escritos que presenten los interesados con motivo de cualquier acto del procedimiento de contratación que contravenga las disposiciones legales vigentes;
+XI.- Requerir a los servidores públicos de la Junta información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
 
-XII. Atender los requerimientos que le formule Contraloría General del Estado, derivados de las funciones que tiene encomendadas;
+XII.- Atender los requerimientos que le formule el Secretario de la Contrataría y Transparencia Gubernamental, a través del Director de Auditoria Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
 
-XIII. Conocer, investigar, desahogar y resolver procedimientos administrativos sobre actos u omisiones a cargo de los servidores públicos, que de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado, le competan;
+XIII.- Coadyuvar en el programa de actualización del marco de actuación de la Junta en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen; y
 
-XIV. Requerir, de acuerdo a la naturaleza de sus funciones, información y documentación a los servidores públicos de la Junta, cuando se estime conveniente; y,
+XIV.- Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
 
-XV. Las demás atribuciones que le confieran las disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+###### Artículo 24 Bis.
+
+El Órgano Interno de Control contará con el personal y recursos necesarios, a fin de garantizar la independencia en el ejercicio de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 #### SECCIÓN II. DE LA SUBDIRECCIÓN DE OBRAS Y PROYECTOS
 
@@ -363,7 +387,13 @@ IX. Dirigir y coordinar las actividades concernientes a las estimaciones, desde 
 
 X. Participar en los actos de entrega-recepción de las obras contratadas por la Junta, verificando que reúnan las condiciones pactadas en los actos jurídicos celebrados para tales efectos; y,
 
-XI. Las demás atribuciones que le confieran el Director General y las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+XI. Integrar y administrar los expedientes técnicos de las obras y servicios que contrate la Junta conforme a la normatividad aplicable y a los lineamientos establecidos, así como formar la unidad de concentración documental para salvaguardar y controlar los mismos; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JUNIO DE 2018)</small>
+
+XII. Las demás atribuciones que le confieran el Director General y las disposiciones aplicables.
 
 ###### Artículo 26.
 
@@ -377,21 +407,17 @@ c. Coordinación de Obras; y,
 
 d. Coordinación Técnica Zona Costa.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 27.
 
 Corresponde a la Coordinación de Proyectos y Seguimiento la atención y trámite de las siguientes atribuciones:
 
-I. Integrar y administrar los expedientes técnicos de las obras y servicios que contrate la Junta conforme a la normatividad aplicable y a los lineamientos establecidos, así como formar la unidad de concentración documental para salvaguardar y controlar los mismos;
+I.- Coordinar la elaboración, revisión y validación de los expedientes técnicos para la aprobación de recursos financieros para la ejecución de obras y proyectos;
 
-II. Vigilar el cumplimiento a las normas y especificaciones técnicas para la licitación, contratación y supervisión de obras públicas y servicios relacionados con las mismas, que ejecute la Junta;
+II.- Coordinar la elaboración, revisión, validación y seguimiento a los estudios y proyectos correspondientes a las obras que pretenda ejecutar la Junta; y,
 
-III. Coordinar la elaboración de las actas de entrega-recepción de las obras contratadas por la Junta, verificando que reúnan las condiciones pactadas en los actos jurídicos celebrados para tales efectos;
-
-IV. Coordinar la elaboración, revisión y validación de los expedientes técnicos para la aprobación de recursos financieros para la ejecución de obras y proyectos;
-
-V. Coordinar la elaboración, revisión, validación y seguimiento a los estudios y proyectos correspondientes a las obras que pretenda ejecutar la Junta; y,
-
-VI. Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
+III.- Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
 
 ###### Artículo 28.
 
@@ -827,6 +853,12 @@ Las ausencias temporales de los Subdirectores que no excedan de quince días, se
 
 Las ausencias temporales de los Jefes de Departamento y Coordinadores de Área que no excedan de quince días, serán suplidas por los servidores públicos de jerarquía inmediata inferior que designen para tal efecto, con conocimiento de ello al Director General; y en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director General.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+###### Artículo 45 Bis.
+
+Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -862,3 +894,17 @@ P.O. 8 DE MARZO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- En tanto no se modifiquen los manuales administrativos de conformidad a este Reglamento, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+P.O. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE MODIFICAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeña, hasta en tanto no se autorice en el presupuesto de egresos del ejercicio fiscal 2019, los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 24 BIS de la presente reforma.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2018.
