@@ -4,7 +4,7 @@ identifier: "LFPSDMH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2016-01-12"
-last_updated: "2018-05-18"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111064&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPSDMH"
 
 LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 12 de enero de 2016.
 
@@ -46,9 +46,11 @@ LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROC
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de aplicación en todo el territorio nacional en Materia de Fuero Federal; tiene por objeto establecer los delitos en particular y sanciones que serán aplicables en materia de hidrocarburos, petrolíferos o petroquímicos y demás activos.
+La presente Ley es de orden público y de aplicación en todo el territorio nacional en Materia de Fuero Federal; tiene por objeto establecer los delitos en particular y sanciones que serán aplicables en materia de hidrocarburos, petrolíferos o petroquímicos y demás activos, así como establecer las medidas necesarias para prevenir la comisión de los mismos o suspender sus efectos.
 
 ###### Artículo 2.
 
@@ -282,6 +284,18 @@ VI. Celebrar Convenios de Colaboración Generales y Específicos para cumplir co
 
 VII. Las demás acciones conducentes en términos de las disposiciones aplicables en el marco del Sistema Nacional de Seguridad Pública.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+###### Artículo 22 Bis.
+
+Cuando la Comisión Reguladora de Energía en el ámbito de sus atribuciones y con motivo de la supervisión, vigilancia y verificación de las actividades reguladas, previstas en la Ley de los Órganos Reguladores Coordinados en Materia Energética, en la Ley de Hidrocarburos, así como en las disposiciones reglamentarias y regulatorias que al efecto se expidan, advierta que una persona realiza actividades reguladas sin permiso o no acredite la adquisición lícita de los Hidrocarburos, Petrolíferos o Petroquímicos, podrá imponer las siguientes medidas de prevención consistentes en:
+
+I. Clausurar temporal, total o parcialmente, inhabilitar o inmovilizar equipos, instalaciones, vehículos o sistemas, según corresponda, y
+
+II. Ordenar la suspensión temporal del suministro, del servicio o de la actividad.
+
+La imposición de medidas de prevención se realizará de manera independiente a los procedimientos de sanción que puedan iniciarse conforme a las leyes aplicables.
+
 ###### Artículo 23.
 
 La información o datos sobre el funcionamiento de las operaciones, instalaciones, actividades, movimientos del personal o vehículos de asignatarios, contratistas o permisionarios que se vinculen con las actividades previstas en el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, será considerada información de Seguridad Nacional en términos de la Ley en la materia. Lo anterior, sin perjuicio de las obligaciones establecidas en la legislación aplicable en materia de transparencia y acceso a la información pública.
@@ -319,3 +333,19 @@ D.O.F. 18 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 8; 9; 11; 12; 13; 14; 15; 16; 17; 18 Y 19 DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DE LA FEDERACIÓN, DE LA LEY ADUANERA, DEL CÓDIGO PENAL FEDERAL Y DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes transitorios.
+
+Segundo. Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Tercero. Las obligaciones derivadas de la reforma al artículo 28, fracción I, apartado B del Código Fiscal de la Federación, deberán cumplirse una vez que surtan efectos las autorizaciones que emita el Servicio de Administración Tributaria en términos de dicho precepto. Para tales efectos, el Servicio de Administración Tributaria dará a conocer en su página de Internet el momento en que surtan efectos las autorizaciones referidas. Las reglas de carácter general a que se refiere la citada disposición, deberán emitirse a más tardar 90 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Para efectos de la emisión de las reglas relativas a los controles volumétricos y los dictámenes emitidos por los laboratorios de prueba o ensayo a que se refiere el artículo 28, fracción I, apartado B, segundo párrafo del Código Fiscal de la Federación, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía.
+
+Cuarto. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.
+
+Quinto. Para efectos de lo dispuesto en el artículo 22 de la Ley del Impuesto sobre la Renta vigente o de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
