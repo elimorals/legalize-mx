@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2017-12-29"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2018.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2017.
 
@@ -1430,11 +1430,23 @@ Las personas físicas que no se encuentren en los supuestos del párrafo primero
 
 Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, estarán a lo siguiente:
 
-I. La contabilidad, para efectos fiscales, se integra por los libros, sistemas y registros contables, papeles de trabajo, estados de cuenta, cuentas especiales, libros y registros sociales, control de inventarios y método de valuación, discos y cintas o cualquier otro medio procesable de almacenamiento de datos, los equipos o sistemas electrónicos de registro fiscal y sus respectivos registros, además de la documentación comprobatoria de los asientos respectivos, así como toda la documentación e información relacionada con el cumplimiento de las disposiciones fiscales, la que acredite sus ingresos y deducciones, y la que obliguen otras leyes; en el Reglamento de este Código se establecerá la documentación e información con la que se deberá dar cumplimiento a esta fracción, y los elementos adicionales que integran la contabilidad.
+> <small>(REFORMADA [N. DE E. CON SUS APARTADOS], D.O.F. 1 DE JUNIO DE 2018)</small>
 
-Tratándose de personas que enajenen gasolina, diesel, gas natural para combustión automotriz o gas licuado de petróleo para combustión automotriz, en establecimientos abiertos al público en general, deberán contar con los equipos y programas informáticos para llevar los controles volumétricos. Se entiende por controles volumétricos, los registros de volumen que se utilizan para determinar la existencia, adquisición y venta de combustible, mismos que formarán parte de la contabilidad del contribuyente.
+I. Para efectos fiscales, la contabilidad se integra por:
 
-Los equipos y programas informáticos para llevar los controles volumétricos serán aquellos que autorice para tal efecto el Servicio de Administración Tributaria, los cuales deberán mantenerse en operación en todo momento.
+A. Los libros, sistemas y registros contables, papeles de trabajo, estados de cuenta, cuentas especiales, libros y registros sociales, control de inventarios y método de valuación, discos y cintas o cualquier otro medio procesable de almacenamiento de datos, los equipos o sistemas electrónicos de registro fiscal y sus respectivos registros, además de la documentación comprobatoria de los asientos respectivos, así como toda la documentación e información relacionada con el cumplimiento de las disposiciones fiscales, la que acredite sus ingresos y deducciones, y la que obliguen otras leyes; en el Reglamento de este Código se establecerá la documentación e información con la que se deberá dar cumplimiento a esta fracción, y los elementos adicionales que integran la contabilidad.
+
+B. Tratándose de personas que fabriquen, produzcan, procesen, transporten, almacenen, incluyendo almacenamiento para usos propios, distribuyan o enajenen cualquier tipo de hidrocarburo o petrolífero, además de lo señalado en el apartado anterior, deberán contar con los equipos y programas informáticos para llevar controles volumétricos, así como con dictámenes emitidos por un laboratorio de prueba o ensayo, que determinen el tipo de hidrocarburo o petrolífero, de que se trate, y el octanaje en el caso de gasolina. Se entiende por controles volumétricos de los productos a que se refiere este párrafo, los registros de volumen, objeto de sus operaciones, incluyendo sus existencias, mismos que formarán parte de la contabilidad del contribuyente.
+
+Los equipos y programas informáticos para llevar los controles volumétricos serán aquéllos que autorice para tal efecto el Servicio de Administración Tributaria, los cuales deberán mantenerse en operación en todo momento.
+
+Los contribuyentes a que se refiere este apartado están obligados a asegurarse de que los equipos y programas informáticos para llevar controles volumétricos operen correctamente en todo momento. Para tal efecto, deberán adquirir dichos equipos y programas, obtener los certificados que acrediten su correcta operación y funcionamiento, así como obtener los dictámenes de laboratorio señalados en el primer párrafo de este apartado, con las personas que para tales efectos autorice el Servicio de Administración Tributaria.
+
+Los proveedores de equipos y programas para llevar controles volumétricos o para la prestación de los servicios de verificación de la correcta operación y funcionamiento de los equipos y programas informáticos, así como los laboratorios de prueba o ensayo para prestar los servicios de emisión de dictámenes de las mercancías especificadas en el primer párrafo de este apartado, deberán contar con la autorización del Servicio de Administración Tributaria, de conformidad con las reglas de carácter general que al efecto éste emita.
+
+El Servicio de Administración Tributaria revocará las autorizaciones a que se refieren los párrafos anteriores, cuando en los supuestos previstos en las reglas señaladas en el párrafo anterior, se incumpla con alguna de las obligaciones establecidas en la autorización respectiva o en este Código.
+
+Las características técnicas de los controles volumétricos y los dictámenes de laboratorio a que se refiere este apartado, deberán emitirse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, tomando en consideración las Normas Oficiales Mexicanas relacionadas con hidrocarburos y petrolíferos expedidas por la Comisión Reguladora de Energía.
 
 II. Los registros o asientos contables a que se refiere la fracción anterior deberán cumplir con los requisitos que establezca el Reglamento de este Código y las disposiciones de carácter general que emita el Servicio de Administración Tributaria.
 
@@ -1486,7 +1498,13 @@ Los contribuyentes podrán comprobar la autenticidad de los comprobantes fiscale
 
 En el caso de las devoluciones, descuentos y bonificaciones a que se refiere el artículo 25 de la Ley del Impuesto sobre la Renta, se deberán expedir comprobantes fiscales digitales por Internet.
 
-El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer facilidades administrativas para que los contribuyentes emitan sus comprobantes fiscales digitales por medios propios, a través de proveedores de servicios o con los medios electrónicos que en dichas reglas determine. De igual forma, a través de las citadas reglas podrá establecer las características de los comprobantes que servirán para amparar el transporte de mercancías.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer facilidades administrativas para que los contribuyentes emitan sus comprobantes fiscales digitales por medios propios, a través de proveedores de servicios o con los medios electrónicos que en dichas reglas determine. De igual forma, a través de las citadas reglas podrá establecer las características de los comprobantes que servirán para amparar el transporte de mercancías, así como de los comprobantes que amparen operaciones realizadas con el público en general.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+Tratándose de actos o actividades que tengan efectos fiscales en los que no haya obligación de emitir comprobante fiscal digital por Internet, el Servicio de Administración Tributaria podrá, mediante reglas de carácter general, establecer las características de los documentos digitales que amparen dichas operaciones.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -2418,7 +2436,9 @@ V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar que 
 
 a) Las relativas a la expedición de comprobantes fiscales digitales por Internet y de presentación de solicitudes o avisos en materia del registro federal de contribuyentes;
 
-b) Las relativas a la operación de las máquinas, sistemas y registros electrónicos, que estén obligados a llevar conforme lo establecen las disposiciones fiscales;
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+b) Las relativas a la operación de las máquinas, sistemas, registros electrónicos y de controles volumétricos, que estén obligados a llevar conforme lo establecen las disposiciones fiscales;
 
 c) La consistente en que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos;
 
@@ -2442,11 +2462,19 @@ VIII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
 IX. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+X. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el número de operaciones que deban ser registradas como ingresos y, en su caso, el valor de los actos o actividades, el monto de cada una de ellas, así como la fecha y hora en que se realizaron, durante el periodo de tiempo que dure la verificación.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, D.O.F. 1 DE JUNIO DE 2018]</small>
+
+La visita a que se refiere esta fracción deberá realizarse conforme al procedimiento previsto en las fracciones I a V del artículo 49 de este Código.
+
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2018)</small>
 
-En el caso de que la autoridad fiscal esté ejerciendo las facultades de comprobación previstas en las fracciones II, III, IV y IX de este artículo y en el ejercicio revisado se disminuyan pérdidas fiscales o se compensen saldos a favor, se podrá requerir al contribuyente dentro del mismo acto de comprobación la documentación comprobatoria con la que acredite de manera fehaciente el origen y procedencia ya sea de la pérdida fiscal o del saldo a favor, independientemente del ejercicio en que se haya originado la misma, sin que dicho requerimiento se considere como un nuevo acto de comprobación.
+En el caso de que la autoridad fiscal esté ejerciendo las facultades de comprobación previstas en las fracciones II, III, IV y IX de este artículo y en el ejercicio revisado se disminuyan pérdidas fiscales, se acrediten o compensen saldos a favor o pago de lo indebido o se apliquen estímulos o subsidios fiscales, se podrá requerir al contribuyente dentro del mismo acto de comprobación la documentación comprobatoria con la que acredite de manera fehaciente el origen y procedencia de dichos conceptos, según se trate, independientemente del ejercicio en que se hayan originado los mismos, sin que dicho requerimiento se considere como un nuevo acto de comprobación.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2960,6 +2988,30 @@ Cuando se comprueben hechos diferentes la autoridad fiscal podrá volver a revis
 
 La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros; en los datos aportados por los particulares en las declaraciones complementarias que se presenten, o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, a menos que en este último supuesto la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, cuando habiéndolo objetado, el incidente respectivo haya sido declarado improcedente.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+###### Artículo 53-D.
+
+En relación con las facultades de comprobación previstas en el artículo 42, fracciones III, V y VI de este Código, las autoridades fiscales podrán auxiliarse de terceros para la toma de muestras o para el análisis, identificación o cuantificación de bienes o mercancías de difícil identificación o manejo.
+
+La toma de muestras se desarrollará conforme al procedimiento siguiente:
+
+I. Se realizará por triplicado, salvo que no sea posible por su naturaleza o volumen.
+
+Todas las muestras deben ser idénticas, si existen variedades en los bienes o mercancías, se tomarán muestras de cada uno de ellos;
+
+II. La autoridad fiscal asignará el número de registro que corresponda a las muestras obtenidas.
+
+Cada uno de los recipientes que contengan las muestras obtenidas deberá contener el número de muestra asignado conforme a lo previsto en esta fracción, así como el nombre del bien o mercancía de que se trate.
+
+Una muestra se utilizará para su análisis, otra quedará bajo custodia de la autoridad fiscal que haya participado en la diligencia de la toma de muestra y la tercera será entregada al contribuyente, su representante legal o la persona con quien se haya entendido dicha diligencia, y
+
+III. La autoridad fiscal levantará acta de muestreo.
+
+La autoridad fiscal notificará el resultado correspondiente al interesado antes del levantamiento de la última acta parcial o de la emisión de la resolución a que se refiere el artículo 42, fracción V, inciso b) de este Código, a fin de que éste pueda aportar pruebas y formular los alegatos que a su derecho convenga en el plazo establecido en los artículos 46, fracción IV, segundo párrafo o 49, fracción VI de este Código, según corresponda.
+
+Los terceros que auxilien a las autoridades fiscales en los términos de este artículo, deberán cumplir los requisitos y apegar su actuación a lo establecido en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### Artículo 54.
@@ -3015,6 +3067,10 @@ III. A partir de la información que proporcionen terceros a solicitud de las au
 IV. Con otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación.
 
 V. Utilizando medios indirectos de la investigación económica o de cualquier otra clase.
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+VI. Considerando los ingresos y el valor de los actos o actividades comprobados de conformidad con la fracción X del artículo 42 de este Código, para lo cual se sumará el monto diario que representen en el periodo verificado, según corresponda, y se dividirá entre el número total de días verificados. El resultado así obtenido será el promedio diario de ingresos brutos o del valor de los actos o actividades, respectivamente, que se multiplicará por el número de días que comprenda el periodo o ejercicio sujeto a revisión para la determinación presuntiva a que se refiere este artículo.
 
 ###### Artículo 57.
 
@@ -3488,6 +3544,44 @@ Las personas físicas o morales que hayan dado cualquier efecto fiscal a los com
 
 En caso de que la autoridad fiscal, en uso de sus facultades de comprobación, detecte que una persona física o moral no acreditó la efectiva prestación del servicio o adquisición de los bienes, o no corrigió su situación fiscal, en los términos que prevé el párrafo anterior, determinará el o los créditos fiscales que correspondan. Asimismo, las operaciones amparadas en los comprobantes fiscales antes señalados se considerarán como actos o contratos simulados para efecto de los delitos previstos en este Código.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+###### Artículo 69-B Bis.
+
+La autoridad podrá presumir que se efectuó la transmisión indebida de las pérdidas fiscales, cuando del análisis de la información con que cuenta en sus bases de datos, identifique que el contribuyente que tenga derecho a la disminución de esas pérdidas fiscales fue parte de una reestructuración, escisión o fusión de sociedades, o bien, de un cambio de accionistas y, como consecuencia de ello, dicho contribuyente deje de formar parte del grupo al que perteneció.
+
+La presunción señalada en el párrafo anterior podrá llevarse a cabo por la autoridad, siempre que advierta que el contribuyente que obtuvo o declaró pérdidas fiscales, haya actualizado cualquiera de los siguientes supuestos:
+
+I. Obtenga pérdidas fiscales en alguno de los tres ejercicios fiscales siguientes al de su constitución en un monto mayor al de sus activos y que más de la mitad de sus deducciones derivaron de operaciones realizadas con partes relacionadas.
+
+II. Obtenga pérdidas fiscales con posterioridad a los tres ejercicios fiscales declarados siguientes al de su constitución, derivadas de que más de la mitad de sus deducciones son resultado de operaciones entre partes relacionadas y las mismas se hubieren incrementado en más de un 50 por ciento respecto de las incurridas en el ejercicio inmediato anterior.
+
+III. Disminuya en más del 50 por ciento su capacidad material para llevar a cabo su actividad preponderante, en ejercicios posteriores a aquél en el que declaró la pérdida fiscal, como consecuencia de la transmisión de la totalidad o parte de sus activos a través de reestructuración, escisión o fusión de sociedades, o porque dichos activos se hubieren enajenado a partes relacionadas.
+
+IV. Obtenga pérdidas fiscales y se advierta la existencia de enajenación de bienes en la que se involucre la segregación de los derechos sobre su propiedad sin considerar dicha segregación al determinar el costo comprobado de adquisición.
+
+V. Obtenga pérdidas fiscales y se advierta la modificación en el tratamiento de la deducción de inversiones previsto en la Ley del Impuesto sobre la Renta, antes de que se haya realizado al menos el 50 por ciento de la deducción.
+
+VI. Obtenga pérdidas fiscales y se adviertan deducciones cuya contraprestación esté amparada con la suscripción de títulos de crédito y la obligación adquirida se extinga mediante una forma de pago distinta a las previstas para efectos de las deducciones en la Ley del Impuesto sobre la Renta.
+
+Para efectos de lo dispuesto en este artículo, se entenderá por grupo, lo que al efecto establezca la Ley del Impuesto sobre la Renta, y por actividad preponderante, lo que al efecto establezca el Reglamento de este Código.
+
+Para efectos de lo dispuesto en el primer párrafo de este artículo, la autoridad fiscal notificará al contribuyente que obtuvo la pérdida fiscal a través de su buzón tributario, con objeto de que en un plazo de veinte días manifieste lo que a su derecho convenga y aporte la documentación e información que considere pertinente para desvirtuar los hechos que llevaron a la autoridad a notificarlo.
+
+Tratándose de contribuyentes que cuyo registro federal de contribuyentes se encuentre cancelado, la notificación se llevará a cabo con el contribuyente que sea titular de los derechos y obligaciones de la sociedad. En caso de que los derechos y obligaciones a su vez se encuentren transmitidos a otro contribuyente, la notificación se hará con el último titular de tales derechos y obligaciones.
+
+La autoridad fiscal valorará las pruebas y defensas hechas valer por el contribuyente en un plazo que no excederá de seis meses, contado a partir de que venza el plazo a que se refiere el cuarto párrafo del presente artículo y notificará a través de buzón tributario la resolución mediante la cual se señale si el contribuyente desvirtuó o no, los hechos que llevaron a la autoridad a notificarlo. La autoridad fiscal dentro de los primeros diez días del mencionado plazo de seis meses podrá requerir información adicional al contribuyente a fin de que se le proporcione a más tardar dentro de los diez días siguientes a aquel en que surta efectos la notificación del requerimiento de información.
+
+En contra de la resolución que emita la autoridad fiscal de conformidad con este artículo procederá recurso de revocación.
+
+La autoridad publicará en la página de Internet del Servicio de Administración Tributaria y en el Diario Oficial de la Federación, un listado de los contribuyentes que no hayan desvirtuado los hechos que se les imputan y que por tanto, se encuentran definitivamente en la situación a que se refiere el primer párrafo de este artículo. En ningún caso se publicará este listado antes de los treinta días posteriores a la notificación de la resolución a que se refiere este artículo.
+
+La publicación a que se refiere el párrafo anterior, tiene como efecto confirmar la transmisión indebida de las pérdidas fiscales obtenidas por el contribuyente que las generó, así como la improcedencia de su disminución por el contribuyente que corresponda.
+
+Cuando los contribuyentes que hubieren disminuido indebidamente pérdidas fiscales corrijan su situación fiscal dentro de los treinta días siguientes a la publicación del listado a que se refiere este artículo, podrán aplicar las tasas de recargos por prórroga determinada conforme a la Ley de Ingresos de la Federación por el plazo que corresponda.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, cuando el contribuyente no hubiere corregido su situación fiscal, la autoridad estará en posibilidad de ejercer sus facultades de comprobación en términos del artículo 42, fracción IX de este Código. Lo anterior, sin perjuicio de las sanciones que en su caso procedan en términos de este Código, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO II. De los Acuerdos Conclusivos
@@ -3954,9 +4048,15 @@ XXIII. No proporcionar la información a que se refiere el penúltimo párrafo d
 
 XXIV. No proporcionar la constancia a que se refiere la fracción II del artículo 55 de la Ley del Impuesto sobre la Renta.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 1 DE JUNIO DE 2018)</small>
 
-XXV. No dar cumplimiento a lo dispuesto en el artículo 28, fracción I de este Código, o que los controles volumétricos presenten alguna de las inconsistencias en su funcionamiento y medición que el Servicio de Administración Tributaria defina mediante reglas de carácter general.
+XXV. No dar cumplimiento a lo dispuesto en el artículo 28, fracción I de este Código.
+
+Se considerará como agravante en la comisión de la infracción cuando se dé cualquiera de los siguientes supuestos:
+
+a) No contar con el dictamen o el certificado a que se refiere el artículo 28, fracción I, apartado B de este Código.
+
+b) No contar con los controles volumétricos, no tenerlos en operación o contando con aquéllos, se lleven a cabo en contravención con lo dispuesto en el artículo 28, fracción I, apartado B de este Código.
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -4234,9 +4334,13 @@ XXIII. De $15,080.00 a $27,640.00, a la establecida en la fracción XXIII.
 
 XXIV. De $5,260.00 a $10,520.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2018)</small>
 
-XXV. De $35,040.00 a $61,330.00 para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+XXV. De $35,000.00 a $61,500.00, para la establecida en la fracción XXV.
+
+Cuando en la infracción se identifique alguna de las agravantes mencionadas en el artículo 81, fracción XXV, incisos a) o b) de este Código, la multa prevista en el primer párrafo de esta fracción se aumentará desde $1,000,000 hasta $3,000,000.
+
+En el caso de reincidencia, la sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4330,15 +4434,17 @@ II. No llevar algún libro o registro especial a que obliguen las leyes fiscales
 
 III. Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalan; llevarla en lugares distintos a los señalados en dichas disposiciones.
 
-IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos.
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos, con identificación incorrecta de su objeto o fuera de los plazos respectivos, así como registrar gastos inexistentes.
 
 V. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 VI. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2018)</small>
 
-VII. No expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por Internet de sus actividades cuando las disposiciones fiscales lo establezcan, o expedirlos sin que cumplan los requisitos señalados en este Código, en su Reglamento o en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, así como no atender el requerimiento previsto en el quinto párrafo del artículo 29 de este Código, para proporcionar el archivo electrónico del comprobante fiscal digital por Internet.
+VII. No expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por Internet de sus actividades cuando las disposiciones fiscales lo establezcan, o expedirlos sin que cumplan los requisitos señalados en este Código, en su Reglamento o en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria; no entregar o no poner a disposición la representación impresa de dichos comprobantes, cuando ésta le sea solicitada por sus clientes, así como no expedir los comprobantes fiscales digitales por Internet que amparen las operaciones realizadas con el público en general, o bien, no ponerlos a disposición de las autoridades fiscales cuando éstas los requieran.
 
 VIII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
@@ -4479,6 +4585,10 @@ XV. De $12,080.00 a $120,760.00 a la comprendida en la fracción XVII.
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 XVI. De $13,280.00 a $75,890.00, a la señalada en la fracción XVIII.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+Cuando se trate de alguna de las infracciones señaladas en las fracciones I, II, IV y XVIII del artículo 83 de este Código y la autoridad fiscal tenga conocimiento de que el contribuyente respecto de los mismos hechos ha sido condenado por sentencia firme por alguno de los delitos previstos en los artículos 222 y 222 Bis del Código Penal Federal, la multa se aumentará en un monto del 100 por ciento al 150 por ciento de las cantidades o del valor de las dádivas ofrecidas con motivo del cohecho.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -5490,6 +5600,18 @@ V. Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin present
 
 Para los efectos de esta fracción, se entiende que el contribuyente desaparece del local en donde tiene su domicilio fiscal cuando la autoridad acuda en tres ocasiones consecutivas a dicho domicilio dentro de un periodo de doce meses y no pueda practicar la diligencia en términos de este Código.
 
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+VI. A quien mediante cualquier medio físico, documental, electrónico, óptico, magnético o de cualquier otra clase de tecnología, suplante la identidad, representación o personalidad de un contribuyente.
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+VII. A quien otorgue su consentimiento para llevar a cabo la suplantación de su identidad.
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+VIII. Incite a una persona física a inscribirse en el registro federal de contribuyentes para utilizar sus datos de forma indebida.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 No se formulará querella si, quien encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes de que ésta lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares que tenga manifestados al registro federal de contribuyentes en el caso de la fracción V.
@@ -5502,9 +5624,9 @@ I. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 II. Registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2018)</small>
 
-III. Oculte, altere o destruya total o parcialmente los sistemas y registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar.
+III. Oculte, altere o destruya total o parcialmente los libros sistemas o registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar o, estando obligado a tenerlos no cuente con ellos.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -5518,13 +5640,29 @@ V. Sea responsable de omitir la presentación por más de tres meses, de la decl
 
 VI. Por sí, o por interpósita persona, divulgue, haga uso personal o indebido, a través de cualquier medio o forma, de la información confidencial que afecte la posición competitiva proporcionada por terceros a que se refieren los artículos 46, fracción IV y 48, fracción VII de este Código.
 
-> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2016)</small>
+VII. (DEROGADA, D.O.F. 1 DE JUNIO DE 2018)
 
-VII. No cuente con los controles volumétricos de gasolina, diésel, gas natural para combustión automotriz o gas licuado de petróleo para combustión automotriz, según sea el caso, a que hace referencia la fracción I del artículo 28 de este Código, los altere o los destruya.
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+VIII. Asiente con información falsa o de manera inadecuada las operaciones o transacciones contables, fiscales o sociales, o que cuente con documentación falsa relacionada con dichos asientos.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2018)</small>
+
+###### Artículo 111 Bis.
+
+Se impondrá sanción de 3 a 8 años de prisión a quien:
+
+I. No mantenga los controles volumétricos, o contando con éstos, se lleven a cabo en contravención con lo dispuesto en el artículo 28, fracción I, apartado B de este Código.
+
+II. Carezca, altere, inutilice o destruya los equipos y programas informáticos destinados a llevar a cabo los controles volumétricos a que hace referencia el artículo 28, fracción I, apartado B de este Código.
+
+III. Realice, permita o entregue a la autoridad, registros falsos, que induzcan al error, incompletos, o inexactos en los controles volumétricos a que hace referencia el artículo 28, fracción I, apartado B de este Código.
+
+Para proceder penalmente por este delito será necesario que previamente la Secretaría de Hacienda y Crédito Público formule querella, independientemente del estado en que se encuentre el procedimiento administrativo que en su caso se tenga iniciado.
 
 > <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
@@ -9281,3 +9419,19 @@ D.O.F. 16 DE MAYO DE 2017.
 D.O.F. 29 DE DICIEMBRE DE 2017.
 
 > <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DE LA FEDERACIÓN, DE LA LEY ADUANERA, DEL CÓDIGO PENAL FEDERAL Y DE LA LEY FEDERAL PARA PREVENIR Y SANCIONAR LOS DELITOS COMETIDOS EN MATERIA DE HIDROCARBUROS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes transitorios.
+
+Segundo. Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Tercero. Las obligaciones derivadas de la reforma al artículo 28, fracción I, apartado B del Código Fiscal de la Federación, deberán cumplirse una vez que surtan efectos las autorizaciones que emita el Servicio de Administración Tributaria en términos de dicho precepto. Para tales efectos, el Servicio de Administración Tributaria dará a conocer en su página de Internet el momento en que surtan efectos las autorizaciones referidas. Las reglas de carácter general a que se refiere la citada disposición, deberán emitirse a más tardar 90 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Para efectos de la emisión de las reglas relativas a los controles volumétricos y los dictámenes emitidos por los laboratorios de prueba o ensayo a que se refiere el artículo 28, fracción I, apartado B, segundo párrafo del Código Fiscal de la Federación, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía.
+
+Cuarto. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.
+
+Quinto. Para efectos de lo dispuesto en el artículo 22 de la Ley del Impuesto sobre la Renta vigente o de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
