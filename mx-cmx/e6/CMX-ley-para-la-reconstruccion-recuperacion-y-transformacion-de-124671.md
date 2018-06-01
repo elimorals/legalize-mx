@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-reconstruccion-recuperacion-y-transformacion-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2017-12-01"
+last_updated: "2018-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124671&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-01"
 
 LEY PARA LA RECONSTRUCCION, RECUPERACION Y TRANSFORMACION DE LA CIUDAD DE MEXICO EN UNA CADA VEZ MÁS RESILIENTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE JUNIO DE 2018.
 
 Ley publicada en el No. 210 Ter de la Gaceta Oficial de la Ciudad de México, el viernes 1 de diciembre de 2017.
 
@@ -1230,10 +1230,24 @@ DÉCIMO NOVENO. El Órgano Legislativo aprobará el presupuesto para el funciona
 
 VIGÉSIMO. Con la finalidad de evitar riesgos la Secretaría, vía el Consejo de Publicidad Exterior, coordinará el retiro de los anuncios en azoteas de inmuebles de acuerdo a lo previsto en la Ley de Publicidad Exterior; y de resultar procedente su reubicación, se llevará a cabo de manera coordinada con las empresas de publicidad, de acuerdo a los trámites de reordenamiento iniciados con anterioridad, se buscará en todos los casos prever el cambio de modalidad.
 
-VIGÉSIMO PRIMERO. Para acceder a los programas, beneficios y estímulos contemplados en la presente ley, las personas afectadas contarán con un plazo de 90 días naturales para registrarse en la Plataforma CDMX, a partir de la entrada en vigor de la presente ley.
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2018)</small>
+
+VIGÉSIMO PRIMERO. Para acceder a los programas, beneficios y estímulos contemplados en la presente ley, las personas afectadas deberán registrarse en la Plataforma CDMX, a más tardar, en la fecha límite que al efecto determine la Comisión, mediante Acuerdo que deberá publicarse en la Gaceta Oficial de la Ciudad de México.
+
+En el caso de los inmuebles que se encuentren en los supuestos del Artículo 38 de esta Ley, el término que se señale no podrá prorrogarse.
 
 VIGÉSIMO SEGUNDO. En tanto las disposiciones contenidas en el apartado correspondiente a los criterios para la rehabilitación, reparación, reestructuración, rigidización o reforzamiento estructural de la presente Ley se encuentren vigentes; Las condiciones y los plazos previstos en los artículos 71, 139, 179 y 224 del Reglamento de Construcciones que sustentan las Inspecciones Oculares Estructurales del Instituto para la Seguridad de las Construcciones de la CDMX serán suspendidos mediante decreto que emita el Jefe de Gobierno a propuesta de la Comisión para la Reconstrucción.
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinticuatro días del mes de noviembre del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. FERNANDO ZÁRATE SALGADO, PRESIDENTE.- DIP. FRANCIS IRMA PIRIN CIGARRERO, SECRETARIA.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA. (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los un días del mes de diciembre del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, CARLOS AUGUSTO MENESES FLORES.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, DAVID GARCÍA JUNCO MACHADO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO TRANSITORIO VIGÉSIMO PRIMERO DE LA LEY PARA LA RECONSTRUCCIÓN, RECUPERACIÓN Y TRANSFORMACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
