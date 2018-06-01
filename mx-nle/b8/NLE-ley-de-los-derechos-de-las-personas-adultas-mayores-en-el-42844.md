@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2018-01-19"
+last_updated: "2018-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -203,7 +203,21 @@ f) Formar parte de los diversos órganos de representación y consulta ciudadana
 
 V. El trabajo, que comprende:
 
-a) Gozar de oportunidades de acceso al trabajo que les permitan un ingreso, a recibir una capacitación adecuada, así como recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+a) Gozar de inclusión e igualdad de oportunidades en el acceso al trabajo que les permitan un ingreso propio suficiente para satisfacer las necesidades normales de un adulto mayor de conformidad con lo establecido en el párrafo cuarto fracción XLII del artículo 63 de la Constitución Política del Estado Libre y Soberano de Nuevo León;
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+b) Desempeñarse en forma productiva tanto tiempo como lo deseen;
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+c) Recibir una capacitación adecuada; y
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2018)</small>
+
+d) Recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
 
 VI. Asistencia social, que incluye:
 
@@ -1016,3 +1030,9 @@ Segundo.- La convocatoria para la integración del Consejo Técnico Consultivo d
 Tercero.- La Junta de Gobierno dispondrá de un plazo de hasta 120 días naturales contados a partir de su instalación para llevar a cabo su Primera Sesión de Trabajo en la que se aprobará el Reglamento a que se refiere esta Ley y presentarlo ante el Titular del Poder Ejecutivo del Estado para su expedición.
 
 Cuarto.- La Secretaría de Finanzas y Tesorería General del Estado asignará la partida presupuestal aprobada para el ejercicio fiscal 2018 y necesaria para la creación y operación del Instituto.
+
+P.O. 1 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 398. SE REFORMA EL INCISO A) Y SE ADICIONAN LOS INCISOS B), C) Y D) A LA FRACCIÓN V DEL ARTÍCULO 5º DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
