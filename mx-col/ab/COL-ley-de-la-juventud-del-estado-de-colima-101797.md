@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-juventud-del-estado-de-colima-101797"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-12"
-last_updated: "2017-09-09"
+last_updated: "2018-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 
@@ -217,9 +217,17 @@ V. Celebrar acuerdos o convenios ante organismos públicos y privados, estatales
 
 VI. Promover la participación de la juventud en el quehacer de la administración pública municipal;
 
-VII. Fomentar la construcción de espacios públicos y preservarlos, para aplicar programas de esparcimiento que beneficien a la juventud; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2018)</small>
 
-VIII. Las demás que le confieran las disposiciones legales aplicables.
+VII. Fomentar la construcción de espacios públicos y preservarlos, para aplicar programas de esparcimiento que beneficien a la juventud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2018)</small>
+
+VIII. Programar la instalación del Cabildo Juvenil Municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2018)</small>
+
+IX. Las demás que le confieran las disposiciones legales aplicables.
 
 ## TÍTULO SEGUNDO. DE LA COMISIÓN Y EL PROGRAMA
 
@@ -567,11 +575,45 @@ IV. Dar a conocer el orden del día, a instrucción del Presidente;
 
 V. Las demás que le confiera la Ley y el Reglamento Interior.
 
-### CAPÍTULO PRIMERO. DEL DERECHO A UNA VIDA DIGNA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO CUARTO. DEL CABILDO JUVENIL
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 30 Bis.
+
+El Cabildo Juvenil es un espacio de expresión política de los jóvenes, promovido por el Cabildo de los Ayuntamientos del Estado de Colima, a través de la Comisión encargada de los temas de la Juventud. Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opiniones y propuestas sobre los temas y problemas que consideren de mayor impacto, con la finalidad de que los Ayuntamientos se enriquezcan de esas aportaciones y alternativas para que contribuyan a mejorar la situación del sector juvenil y de la sociedad en general.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 30 Ter.
+
+La Comisión encargada de los temas de la juventud en los Ayuntamientos en coordinación con el resto del Cabildo, programarán la instalación del Cabildo Juvenil, debiendo emitir la convocatoria correspondiente, en los términos de los Reglamentos Municipales que para tal efecto se expidan.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 30 Quáter.
+
+Los Cabildos Juveniles estarán integrados por un Presidente Municipal Juvenil, un Síndico Juvenil y por el número de Regidores juveniles que integren el Ayuntamiento correspondiente, debiéndose además nombrar un suplente para cada integrante, quienes entrarán en funciones en los términos previstos por el Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 30 Quinquies.
+
+Los requisitos para ser integrante del Cabildo Juvenil son los siguientes:
+
+I.- Ser ciudadano mexicano con residencia en el Municipio para el cual pretenda ser integrante;
+
+II.- Tener una edad máxima de hasta 29 años, a la fecha que establezca la convocatoria y las demás disposiciones aplicables;
+
+III.- Presentar un Proyecto con los requisitos que establezca la convocatoria correspondiente y las demás disposiciones aplicables;
+
+IV.- Los demás que establezca la convocatoria correspondiente y las demás disposiciones aplicables. El cargo de integrante del Cabildo Juvenil será de naturaleza honorífica, y se renovarán cada año en los términos previstos por los Reglamentos Municipales.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS DE LA JUVENTUD
 
-### CAPÍTULO SEGUNDO. DEL DERECHO AL TRABAJO
+### CAPÍTULO PRIMERO. DEL DERECHO A UNA VIDA DIGNA
 
 ###### Artículo 31.
 
@@ -585,7 +627,7 @@ El Gobierno del Estado creará, promoverá y apoyará, por todos los medios a su
 
 El Plan y el Programa, deberán tener una perspectiva integral que permita abordar desde todas las dimensiones sociales los entornos juveniles; proyectando en los mismos los temas sociales que merecen especial atención para lograr un desarrollo integral.
 
-### CAPÍTULO TERCERO. DEL DERECHO A LA EDUCACIÓN
+### CAPÍTULO SEGUNDO. DEL DERECHO AL TRABAJO
 
 ###### Artículo 34.
 
@@ -645,7 +687,7 @@ VI. Asegurar la no discriminación en el empleo y las mejores condiciones labora
 
 VII. Respetar y cumplir con los derechos laborales y a la seguridad social e industrial. El trabajo juvenil, en ningún caso podrá ser de aquellos que impidan una educación que les permita desarrollar al máximo sus potencialidades.
 
-### CAPÍTULO CUARTO. DEL DERECHO A LA SALUD
+### CAPÍTULO TERCERO. DEL DERECHO A LA EDUCACIÓN
 
 ###### Artículo 42.
 
@@ -675,7 +717,7 @@ En el Plan y en el Programa se establecerán mecanismos para impulsar la continu
 
 Se impulsarán acciones para identificar a jóvenes de y en la calle para incorporarlos a las actividades educativas que les permita una formación académica para el acceso a mejores fuentes de empleo.
 
-### CAPÍTULO QUINTO. DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS
+### CAPÍTULO CUARTO. DEL DERECHO A LA SALUD
 
 ###### Artículo 48.
 
@@ -689,7 +731,7 @@ El Gobierno del Estado formulará las políticas públicas y establecerá los me
 
 El Plan y el Programa incluirán lineamientos y acciones generadoras, a la vez que propagadoras de información referentes a tópicos considerados prioritarios e interesantes para la juventud, tales como la prevención y, en su caso, tratamiento de adicciones, enfermedades de transmisión sexual, infecciones de transmisión sexual, así como nutrición y salud pública, entre otros.
 
-### CAPÍTULO SEXTO. DEL DERECHO A LA CULTURA
+### CAPÍTULO QUINTO. DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS
 
 ###### Artículo 51.
 
@@ -703,7 +745,7 @@ El Gobierno del Estado diseñará las políticas públicas y constituirá los me
 
 El Plan y el Programa incluirán lineamientos y acciones que permitan generar y divulgar información referente de salud reproductiva, ejercicio responsable y educación en la sexualidad, enfermedades de transmisión sexual, embarazo en adolescentes, maternidad y paternidad responsable, entre otros.
 
-### CAPÍTULO SÉPTIMO. DEL DERECHO A LA RECREACIÓN
+### CAPÍTULO SEXTO. DEL DERECHO A LA CULTURA
 
 ###### Artículo 54.
 
@@ -723,7 +765,7 @@ Para estimular el aprovechamiento artístico en la infraestructura pública, la 
 
 El objeto de dicho registro es que los jóvenes con talento artístico como lo es la pintura, a través de sus distintos métodos, se les autorice un espacio en la infraestructura urbana a efecto de que pueda ser susceptible de expresiones artísticas como son murales o pinturas.
 
-### CAPÍTULO OCTAVO. DEL DERECHO AL DEPORTE
+### CAPÍTULO SÉPTIMO. DEL DERECHO A LA RECREACIÓN
 
 ###### Artículo 57.
 
@@ -737,7 +779,7 @@ El Gobierno del Estado promoverá, por todos los medios a su alcance, el acceso 
 
 El Plan contemplará mecanismos para el acceso masivo de la juventud a actividades de turismo social.
 
-### CAPÍTULO NOVENO. DEL DERECHO A FORTALECER LAS IDENTIDADES JUVENILES
+### CAPÍTULO OCTAVO. DEL DERECHO AL DEPORTE
 
 ###### Artículo 60.
 
@@ -751,7 +793,7 @@ El Gobierno del Estado promoverá, por todos los medios a su alcance, la prácti
 
 El Plan y el Programa contemplarán mecanismos para el acceso masivo de la juventud a la práctica deportiva y al disfrute de espectáculos deportivos, contemplando un sistema de promoción y apoyo para las iniciativas deportivas juveniles.
 
-### CAPÍTULO DÉCIMO. DEL DERECHO A LA INTEGRACIÓN Y REINSERCIÓN SOCIAL
+### CAPÍTULO NOVENO. DEL DERECHO A FORTALECER LAS IDENTIDADES JUVENILES
 
 ###### Artículo 63.
 
@@ -765,7 +807,7 @@ El Gobierno del Estado creará, promoverá y apoyará, por todos los medios a su
 
 El Plan y el Programa contemplarán mecanismos para el estudio, la sistematización, la promoción y el fortalecimiento de las diferentes identidades juveniles que coexisten en el Estado.
 
-### CAPÍTULO DÉCIMO PRIMERO. DEL DERECHO A LA PLENA PARTICIPACION SOCIAL Y POLÍTICA
+### CAPÍTULO DÉCIMO. DEL DERECHO A LA INTEGRACIÓN Y REINSERCIÓN SOCIAL
 
 ###### Artículo 66.
 
@@ -779,7 +821,7 @@ El Gobierno del Estado presupuestará los recursos y medios que sean necesarios 
 
 El Plan y el Programa contendrán acciones para los sectores de la juventud en desventaja social.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DEL DERECHO A LA ORGANIZACIÓN JUVENIL
+### CAPÍTULO DÉCIMO PRIMERO. DEL DERECHO A LA PLENA PARTICIPACION SOCIAL Y POLÍTICA
 
 ###### Artículo 69.
 
@@ -793,7 +835,7 @@ El Gobierno del Estado apoyará, por todos los medios a su alcance, a la juventu
 
 El Plan y el Programa serán diseñados desde una perspectiva incluyente, que tome en cuenta para la definición e implementación de programas y proyectos juveniles, las verdaderas aspiraciones, intereses y prioridades de la juventud del Estado.
 
-### CAPÍTULO DÉCIMO TERCERO. DEL DERECHO A LA INFORMACIÓN Y A LA COMUNICACIÓN
+### CAPÍTULO DÉCIMO SEGUNDO. DEL DERECHO A LA ORGANIZACIÓN JUVENIL
 
 ###### Artículo 72.
 
@@ -803,7 +845,7 @@ La juventud tiene derecho a formar organizaciones autónomas que busquen hacer r
 
 El Gobierno del Estado, a través del Plan, apoyará en el fortalecimiento de la organización juvenil autónoma, democrática y comprometida socialmente, para que la juventud del Estado tengan (sic) oportunidades para acceder a una vida digna.
 
-### CAPÍTULO DÉCIMO CUARTO. DEL DERECHO A UN MEDIO AMBIENTE SANO
+### CAPÍTULO DÉCIMO TERCERO. DEL DERECHO A LA INFORMACIÓN Y A LA COMUNICACIÓN
 
 ###### Artículo 74.
 
@@ -819,7 +861,7 @@ El Gobierno del Estado gestionará ante las estaciones radiofónicas y televisiv
 
 Asimismo, será política estatal el acceso pleno a las tecnologías de la información y la comunicación.
 
-### CAPÍTULO DÉCIMO QUINTO. DEL RESPETO DE LOS DERECHOS HUMANOS DE LA JUVENTUD
+### CAPÍTULO DÉCIMO CUARTO. DEL DERECHO A UN MEDIO AMBIENTE SANO
 
 ###### Artículo 77.
 
@@ -831,7 +873,7 @@ El Gobierno del Estado, a través del Plan, dispondrá de los recursos, medios y
 
 Asimismo, se crearán políticas que impulsen en la juventud una cultura de preservación, cuidado y restauración del medio ambiente, que sirva de ejemplo para las futuras generaciones.
 
-### CAPÍTULO DÉCIMO SEXTO. DE LOS DERECHOS ECONÓMICOS
+### CAPÍTULO DÉCIMO QUINTO. DEL RESPETO DE LOS DERECHOS HUMANOS DE LA JUVENTUD
 
 ###### Artículo 79.
 
@@ -851,7 +893,7 @@ IV. A la orientación sexual y ejercicio responsable de la sexualidad, de modo q
 
 V. A no ser arrestado, detenido, preso o desterrado arbitrariamente, la juventud tiene derecho a las garantías del debido proceso en todas aquellas situaciones en que estuviese encausado.
 
-### CAPÍTULO PRIMERO. DE LOS DEBERES
+### CAPÍTULO DÉCIMO SEXTO. DE LOS DERECHOS ECONÓMICOS
 
 ###### Artículo 81.
 
@@ -865,7 +907,7 @@ La Secretaría impulsará la gestión de recursos públicos para apoyar a la juv
 
 ## TÍTULO CUARTO. DE LOS DEBERES Y OBLIGACIONES DE LA JUVENTUD
 
-### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES
+### CAPÍTULO PRIMERO. DE LOS DEBERES
 
 ###### Artículo 83.
 
@@ -935,7 +977,7 @@ III. Contribuir al avance de la vida democrática del Estado participando en los
 
 IV. Mantener dentro y fuera del territorio del Estado actitudes que dignifiquen el nombre de Colima.
 
-### CAPÍTULO PRIMERO. DE LAS SANCIONES
+### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES
 
 ###### Artículo 89.
 
@@ -954,6 +996,8 @@ V. Asistir a recibir la educación primaria y secundaria en los términos que di
 VI. Las demás que dispongan las leyes.
 
 ## TÍTULO QUINTO
+
+### CAPÍTULO PRIMERO. DE LAS SANCIONES
 
 ###### Artículo 90.
 
@@ -1004,3 +1048,9 @@ P.O. 9 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 346 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 10 DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 491 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 10, ADEMÁS, SE ADICIONA EL CAPÍTULO CUARTO DENOMINADO "DEL CABILDO JUVENIL", A LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir de su publicado (sic) en el Periódico Oficial "El Estado de Colima".
