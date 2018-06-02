@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2018-05-12"
+last_updated: "2018-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -35,7 +35,7 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33, FRACCIÓN V Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO DECRETA:
 
-..
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente:
 
@@ -1357,6 +1357,10 @@ ARTICULO 80 BIS 1.- Las sociedades, asociaciones, colegios o federaciones de esp
 
 ARTICULO 80 BIS 2.- El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en la Ley General de Salud y su reglamento, las Normas Oficiales Mexicanas que se encuentren vigentes y sean aplicables relativas a las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada, las normas técnicas correspondientes y lo que establezca esta ley. Corresponde a la autoridad sanitaria ejercer el control sanitario de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+Se concede acción popular para denunciar ante las autoridades administrativas, ministeriales o judiciales, las prácticas no autorizadas de cirugías plásticas y reconstructivas.
+
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2015)</small>
 
 ARTICULO 80 BIS 3.- La oferta de los servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica, estética y reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad su nombre, título que ostenta y número de cédula del especialista, número de certificación otorgado por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva y el nombre y datos de la Institución y/o Instituciones educativas, que avalen su ejercicio profesional, así como el nombre del establecimiento o unidad médica con licencia vigente.
@@ -2198,3 +2202,9 @@ P.O. 12 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 484 POR EL QUE SE APRUEBA REFORMAR, DEROGAR Y ADICIONAR DIVERSOS ARTÍCULOS A LA LEY DE SALUD DEL ESTADO DE COLIMA, EN MATERIA DE SALUD MENTAL".]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 492 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 80 BIS 2 DE LA LEY DE SALUD DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
