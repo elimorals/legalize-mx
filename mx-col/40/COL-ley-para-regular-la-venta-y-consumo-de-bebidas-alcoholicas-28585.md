@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2016-11-22"
+last_updated: "2018-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -399,21 +399,21 @@ V. Vender cualquier clase de bebidas alcohólicas o cualquier sustancia que cont
 
 VI. En general, la violación a cualquiera de las disposiciones contempladas en esta Ley o en los Reglamentos Municipales.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 38.
 
-A quienes incurran en alguna de las infracciones que señalan las fracciones I y III del artículo anterior, se les impondrá una multa cuyo importe no será menor al equivalente de 20 unidades de medida y actualización ni excederá de 150, independientemente del cierre o clausura del establecimiento.
+A quienes incurran en alguna de las infracciones que señalan las fracciones I y III del artículo anterior, se les impondrá una multa cuyo importe no será menor al equivalente de 30 unidades de medida y actualización ni excederá de 200, independientemente del cierre o clausura del establecimiento.
 
-En el caso de infracción a lo dispuesto por la fracción II, se impondrá una sanción no menor de 30 ni mayor de 200 unidades de medida y actualización, y en caso de reincidencia, se aplicará a los infractores una multa igual a dos tantos de la anterior. Si reincidiere nuevamente, se clausurará definitivamente el establecimiento y se revocará la licencia municipal. Se entiende por reincidencia la repetida violación a las disposiciones de esta Ley, en un término menor de 18 meses.
+En el caso de infracción a lo dispuesto por la fracción II, se impondrá una sanción no menor de 50 ni mayor de 300 unidades de medida y actualización, en caso de reincidencia, se aplicará a los infractores una multa igual a dos tantos de la anterior, además de la clausura del establecimiento y se revocará la licencia municipal. Se entiende por reincidencia la repetida violación a las disposiciones de esta Ley, en un término menor de 18 meses.
 
-A quienes infrinjan a lo dispuesto por las fracciones IV y V del artículo anterior se les impondrá una multa, cuyo importe no será menor al equivalente a 50 ni mayor de 250 unidades de medida y actualización vigentes al momento de cometerse la infracción. En caso de reincidencia se procederá a la clausura definitiva del establecimiento y se le revocará su licencia municipal.
+A quienes infrinjan a lo dispuesto por las fracciones IV y V del artículo anterior se les impondrá una multa, cuyo importe no será menor al equivalente a 65 ni mayor de 350 unidades de medida y actualización vigentes al momento de cometerse la infracción. En caso de reincidencia se procederá a la clausura definitiva del establecimiento y se le revocará su licencia municipal.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 39.
 
-A quien incurra en las hipótesis prevista por la fracción VI del artículo 37 de esta Ley, se les impondrá una multa cuyo importe no será menor al equivalente de 20 unidades de medida y actualización ni excederá de 55. En caso de reincidencia se procederá de acuerdo con lo dispuesto por la última parte del artículo anterior.
+A quien incurra en las hipótesis previstas por la fracción VI del artículo 37 de esta Ley, se les impondrá una multa cuyo importe no será menor al equivalente de 30 unidades de medida y actualización ni excederá de 70. En caso de reincidencia se procederá de acuerdo con lo dispuesto por la última parte del artículo anterior.
 
 ###### ARTICULO 40.
 
@@ -514,3 +514,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 489 POR EL QUE SE REFORMAN LOS ARTÍCULO 38Y 39 DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
