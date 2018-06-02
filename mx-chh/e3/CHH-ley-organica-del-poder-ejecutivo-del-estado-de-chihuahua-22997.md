@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2018-01-10"
+last_updated: "2018-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE ENERO DE 2018 NO APLICA AL ARTICULADO DEL DECRETO NO. LXV/RFLEY/0646/2017 PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -705,133 +703,89 @@ XVII. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 A la Secretaría de Innovación y Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 I. Promover, fomentar e impulsar las actividades industriales, forestales, mineras, comerciales y turísticas en la Entidad;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II. Formular y promover el establecimiento de medidas para fomentar la innovación y competitividad en los procesos productivos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 III. Promover el crecimiento económico de los municipios y las regiones de la Entidad, sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 IV. Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 V. Asesorar y orientar a los inversionistas extranjeros y nacionales para la creación de empresas industriales, forestales, mineras, comerciales y turísticas y demás sectores productivos, a fin de promover fuentes de empleo;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VI. Establecer un sistema de información integral de los principales sectores productivos del Estado, incluyendo las actividades industrial, comercial, turística, minera, forestal, agroindustrial, frutícola, pecuaria y de todas las que por su importancia se consideren estratégicas para el desarrollo económico, así como los mecanismos necesarios para su difusión;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VII. Elaborar y mantener actualizado el inventario de infraestructura industrial, turístico, forestal y minero;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VIII. Proporcionar asistencia técnica a la pequeña y mediana industria, en coordinación con los gobiernos federal y municipales, así como con los sectores privado y social;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 IX. Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores industrial, comercial, turístico, minero, agroindustrial, forestal y pecuario y demás sectores productivos;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 X. Promover y apoyar el desarrollo de empresas industrializadoras de productos agrícolas, pecuarios y frutícolas, preferentemente en las zonas rurales de la Entidad, con el fin de impulsar la creación de empleos y contribuir al arraigo de la población;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XI. Apoyar los trámites relativos a la creación, establecimiento, regularización y funcionamiento de las microindustrias en el Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XII. Fomentar el desarrollo de la industria maquiladora y el de sus proveedores;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIII. Promover la participación de los empresarios en la creación de centros de abasto;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIV. Proponer acciones y alternativas de solución a la problemática que enfrenta el comercio organizado, conjuntamente con las autoridades federales y municipales y el sector comercio;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XV. Diseñar estrategias e instrumentos de promoción para que el turismo del Estado tenga difusión a nivel nacional e internacional;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVI. Coordinar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos naturales, históricos y culturales de interés turístico en el Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVII. Coordinar las gestiones encaminadas a dotar a las localidades turísticas de infraestructura de comunicaciones y apoyar los servicios públicos y de equipamiento urbano necesarios;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVIII. Instrumentar el sistema de información turística estatal, para promover nacional e internacionalmente los destinos turísticos locales;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIX. Otorgar la asistencia técnica que en materia turística requieran los prestadores de estos servicios;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XX. Diseñar proyectos turísticos que involucren directamente a los pobladores en las actividades de inversión para el desarrollo de las regiones;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXI. Fomentar el turismo ecológico promoviendo para tal efecto el cuidado y la preservación del ambiente natural;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.]</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -845,9 +799,13 @@ XXIII. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Econ�
 
 XXIV. Realizar y promover estudios e investigaciones sobre ahorro y uso eficiente de energía, difundir las políticas que el Gobierno Federal establezca en el sector energético, elaborar proyectos, programas, proporcionar asesorías, procedimientos, ejecutar acuerdos y demás aspectos relacionados con el sector que promuevan su desarrollo tecnológico, financiamiento y eficiencia, así como controlar y vigilar el debido cumplimiento de dichas atribuciones; y
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2018)</small>
 
-XXV. Los demás que fijen expresamente las leyes y sus reglamentos.
+XXV. Ejercer las atribuciones y facultades que le otorga la Ley de Prestación de Servicios Inmobiliarios del Estado de Chihuahua.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE JUNIO DE 2018)</small>
+
+XXVI. Los demás que fijen expresamente las leyes y sus reglamentos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -2788,3 +2746,23 @@ Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Co
 ###### ARTÍCULO SÉPTIMO.
 
 La Fiscalía General del Estado deberá realizar las acciones necesarias en cuanto a su organización interna a fin de encontrarse en aptitud de ejercer las atribuciones que se le confieren por medio del presente Decreto.
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/EXLEY/0721/2018 II P.O. LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá el Reglamento correspondiente dentro de un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Servicios Inmobiliarios señalado en esta Ley, deberá constituirse y celebrar su primera sesión en un plazo no mayor a cuarenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto la Secretaría de Innovación y Desarrollo Económico cuente con los recursos humanos y financieros necesarios para llevar a cabo las visitas de verificación previstas en esta Ley, el Ejecutivo del Estado podrá celebrar convenios de colaboración entre sus dependencias centralizadas para el adecuado ejercicio de dichas atribuciones.
