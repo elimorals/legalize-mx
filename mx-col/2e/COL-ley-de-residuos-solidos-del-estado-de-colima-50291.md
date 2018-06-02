@@ -4,7 +4,7 @@ identifier: "COL-ley-de-residuos-solidos-del-estado-de-colima-50291"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2017-04-01"
+last_updated: "2018-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -273,7 +273,7 @@ X. Solicitar autorización de la Secretaría para el otorgamiento de las declara
 
 XI. Solicitar a la Secretaría la realización de estudios con relación a las propuestas que éstas le envíen para otorgar concesiones para la prestación del servicio público de limpia de competencia de los Ayuntamientos y, en su caso, aprobar dichas concesiones;
 
-XII. Participar, bajo la coordinación de la Secretaría, en la atención de los asuntos de los efectos que genere la realización de los servicios de limpia que se realicen en el Municipio y que afecten o puedan afectar u otro Municipio;
+XII. Participar, bajo la coordinación de la Secretaría, en la atención de los asuntos de los efectos que genere la realización de los servicios de limpia que se realicen en el Municipio y que afecten o puedan afectar a otro Municipio;
 
 XIII. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su Reglamento y demás disposiciones aplicables;
 
@@ -873,7 +873,13 @@ d) Se trate de desobediencia reiterada, en una o más ocasiones, al cumplimiento
 
 Será definitiva en los casos de los incisos c) y d)
 
-V. Las demás que señalen las leyes o reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2018)</small>
+
+V. Jornadas de trabajo a favor de la comunidad; que consistirán en la realización de labor social, contribuyendo a la limpieza de calles, ríos, predios y/o plazas públicas por tiempo determinado, así como la difusión de las disposiciones de la presente ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2018)</small>
+
+VI. Las demás que señalen las leyes o reglamentos.
 
 ###### Artículo 71.
 
@@ -892,6 +898,10 @@ III. Multa de 150 a mil unidades de medida y actualización, por violaciones a l
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 IV. Arresto inconmutable de 36 horas y multa por mil a veinte mil unidades de medida y actualización por violaciones a lo dispuesto por el artículo 25 fracciones IX a la XIII de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+Las sanciones a que se refiere el presente artículo podrán ser conmutadas por jornadas de trabajo a favor de la comunidad, en los términos previstos en la fracción V del artículo anterior, mismas que no podrán exceder de 100 horas, quedando al arbitrio de la autoridad la determinación de su procedencia.
 
 ###### Artículo 72.
 
@@ -1008,3 +1018,9 @@ P.O. 1 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto se dará a conocer a través de Oficialía Mayor, a los diez Ayuntamientos del Estado de Colima.
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 488 POR EL QUE SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 70, ADEMÁS SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 71 DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
