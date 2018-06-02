@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2017-11-25"
+last_updated: "2018-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -103,6 +103,10 @@ XIII.- Garantizar a todas las personas sin distinción de género, edad, discapa
 
 XIV.- Los deportistas con algún tipo de discapacidad no serán objeto de discriminación alguna.
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
+
+XV.- Fomentar, ordenar y regular que la prescripción de cualquier tipo de actividad física sea preferentemente realizada por profesionales acreditados según las leyes aplicables y en su caso, certificados por instituciones especializadas y de amplio reconocimiento por parte de las autoridades competentes en esta ley. Estos últimos deben contar además con elementos de acreditación curricular que sustenten su experiencia.
+
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
 
 ARTICULO 1o BIS.- El ejercicio y desarrollo del derecho a la cultura física y el deporte tienen como base los siguientes principios:
@@ -181,25 +185,41 @@ k).- Deporte Adaptado: Aquel deporte que está convenido como un sistema institu
 
 l).- Accesibilidad Universal: Es el conjunto de características que debe disponer un entorno urbano, edificación, instalación deportiva, producto, servicio o medio de comunicación, concebido como un derecho para ser utilizado en condiciones de comodidad, seguridad, igualdad y autonomía por todas las personas, incluyendo el derecho de las personas con discapacidades.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2018)</small>
 
-ARTICULO 2o BIS.- Las autoridades competentes del Estado y de los Municipios, se coordinarán entre sí o con instituciones del sector social y privado, así como con las autoridades competentes de la Federación, para:
+ARTICULO 2o BIS.- La Secretaría de Educación, la Secretaría de Salud y el INCODE, así como las autoridades competentes de los Municipios, se podrán coordinar entre sí o con instituciones del sector social y privado, así como con las autoridades competentes de la Federación, para:
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
 
 I.- Promover la iniciación y garantizar el acceso a la práctica de las actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte a la población en general, en todas sus manifestaciones y expresiones;
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
+
 II.- Ejecutar y dar seguimiento al Programa Nacional de Cultura Física y Deporte en lo que corresponde al Estado;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
 
 III.- Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, en coordinación con las respectivas Asociaciones Deportivas Estatales y de acuerdo a las Normas Oficiales y demás disposiciones que para tal efecto expida la dependencia correspondiente;
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
+
 IV.- Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
 
 V.- Dar seguimiento y ejecutar las políticas y planes aprobados por el Sistema Nacional de Cultura Física y Deporte en lo que corresponda al Estado y los Municipios; y
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2014)</small>
+
 VI.- Establecer procedimientos de promoción en materia de cultura física y deporte.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
 
-ARTICULO 2o BIS 1.- La coordinación a que se refiere el artículo anterior, se realizará conforme a las facultades concurrentes en los tres ámbitos de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes del Estado, los Municipios, y la Federación, entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la Ley General de Cultura Física y Deporte.
+VII.- Regular la actividad física, dando preferencia a profesionales de la cultura física y en su caso, personas certificadas por instituciones con amplio reconocimiento federal y estatal, contando estos últimos además con suficiencia curricular que sustenten su experiencia.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+ARTICULO 2o BIS 1.- La coordinación a que se refiere el artículo anterior, se realizará conforme a las facultades concurrentes en los tres ámbitos de gobierno, a través de convenios de coordinación, colaboración y concertación que celebren la Secretaría de Salud, la Secretaría de Educación, el INCODE y las autoridades competentes del Estado, los Municipios, y la Federación, entre sí o con instituciones del sector social y privado, de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la Ley General de Cultura Física y Deporte.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2014)</small>
 
@@ -231,9 +251,13 @@ El Estado y los Municipios en el ámbito de sus respectivas competencias deberá
 
 ARTICULO 2o BIS 3.- El Estado y los Municipios, planificarán y promocionarán el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
 
-Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el INCODE.
+Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural; actividades que preferentemente deberán ser supervisadas con personal capacitado, profesional o certificado.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el INCODE y la Secretaría de Salud.
 
 Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física su entrenamiento y participación en competiciones oficiales.
 
@@ -243,17 +267,17 @@ ARTICULO 2o BIS 4.- La función social del deporte y la educación física es la
 
 Los tres Poderes del Estado, los titulares de las dependencias de la Administración Pública Estatal, los organismos públicos autónomos y los Ayuntamientos, fomentarán la práctica de actividades físicas o deportivas entre sus trabajadores. Para tal efecto, se promoverán, de acuerdo a las características de cada área y oficina, programas de activación física en los que se dediquen hasta 15 minutos de la jornada laboral para estas actividades.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-ARTICULO 2o BIS 5.- La función educativa del deporte debe implicar, además de la enseñanza de técnicas y el desarrollo de las cualidades físicas de los alumnos, la transmisión de hábitos, valores y actitudes encaminados a la preservación de la salud y la prevención de enfermedades.
+ARTICULO 2o BIS 5.- La función educativa de salud y del deporte, debe implicar, además de la enseñanza de técnicas y el desarrollo de las cualidades físicas de las personas, la transmisión de hábitos, valores y actitudes encaminados a la preservación de la salud y la prevención de enfermedades.
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DEL DEPORTE Y LA CULTURA FISICA
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 3o.
 
-El SISTEMA estará constituido por el conjunto de acciones, recursos y procedimientos destinados a impulsar, difundir, fomentar, investigar y desarrollar el deporte en la Entidad.
+El SISTEMA estará constituido por el conjunto de acciones, recursos y procedimientos destinados a impulsar, regular, difundir, fomentar, investigar y desarrollar el deporte en la entidad.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
 
@@ -263,13 +287,15 @@ El SISTEMA tendrá como objeto, generar las acciones, financiamiento y programas
 
 Se reconoce el derecho de todo individuo al conocimiento y práctica del deporte. El Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias, deberán incluir dentro de sus planes, programas y presupuestos, acciones y recursos destinados al impulso de las prácticas deportivas.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 5o.
 
-Toda persona que se dedique a impartir clases teóricas o prácticas de cualquier actividad deportiva en forma pública o privada, deberá contar con el reconocimiento oficial de estudios o, en su caso, obtenerlo a través de las instituciones educativas autorizadas.
+Toda persona que se dedique a impartir clases teóricas o prácticas de cualquier actividad deportiva en forma pública o privada, preferentemente deberá contar con el reconocimiento oficial de estudios o en su caso, obtenerlo a través de las instituciones educativas autorizadas.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-ARTICULO 5o BIS.- El Sistema gestionará y promoverá procesos para capacitar, actualizar y certificar las competencias de los entrenadores deportivos con apego a lo dispuesto por la CONADE y la Secretaría de Educación Pública.
+ARTICULO 5o BIS.- El Sistema gestionará y promoverá procesos para capacitar, actualizar y certificar las competencias de los entrenadores deportivos con apego a lo dispuesto por la CONADE y la Secretaría de Educación Pública, dando preferencia a quienes residan en el estado, esto con la finalidad de que conozcan el contexto donde se desempeñarán.
 
 ###### ARTICULO 6o.
 
@@ -421,6 +447,10 @@ d).- Instituto Nacional del Deporte de los Trabajadores; y
 
 e).- Cada Consejo Municipal.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+f).- Secretaría de Salud.
+
 Por cada consejero propietario se designará un suplente. Las ausencias del Presidente serán suplidas por el Secreterio (sic) Técnico.
 
 El desempeño del cargo de miembro del CONSEJO será honorífico.
@@ -479,9 +509,9 @@ IX.- Capacitación, formación y certificación de recursos humanos en el deport
 
 X.- Talentos deportivos.
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2018)</small>
 
-XI.- Políticas de capacitación, formación, desarrollo, certificación y crecimiento de entrenadores deportivos colimenses, quienes tendrán preferencia sobre extranjeros.
+XI.- Políticas de capacitación, formación, desarrollo, certificación, contratación y crecimiento de entrenadores deportivos colimenses, quienes tendrán preferencia sobre extranjeros.
 
 ###### ARTICULO 18.
 
@@ -805,6 +835,10 @@ VI.- Desempeñar cargos directivos, siempre y cuando hayan sido electos en asamb
 
 VII.- Recibir estímulos, fomentos y reconocimientos de acuerdo por lo establecido por el artículo 23 de la presente Ley.
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2018)</small>
+
+VIII.- Recibir prescripción de actividad física por parte de profesionales, preferentemente con título legalmente expedido y en su caso, por personal certificado por instituciones con reconocimiento federal y estatal.
+
 ###### ARTICULO 34.
 
 Son obligaciones de los deportistas:
@@ -931,6 +965,10 @@ h).- El deportista como individuo.
 
 i).- Directivos, jueces, árbitros y organizadores de competencias deportivas.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+j).- Clubes o establecimientos privados.
+
 ###### ARTICULO 39.
 
 Las sanciones que se aplicarán por violaciones a esta Ley, su Reglamento y demás reglamentos deportivos serán:
@@ -976,6 +1014,14 @@ I.- Amonestación privada o pública.
 II.- Limitación o cancelación de apoyos en el Programa Estatal del Deporte.
 
 III.- Suspensión temporal o definitiva.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+g).- Clubes o establecimientos privados
+
+I.- Amonestación privada o pública.
+
+II.- Suspensión temporal o definitiva como tal.
 
 ###### ARTICULO 40.
 
@@ -1064,3 +1110,9 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 367 POR EL QUE SE ADICIONAN LOS INCISOS J), K) Y L) AL ARTÍCULO 2° DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 493 POR EL QUE SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 1, LA FRACCIÓN VII AL ARTÍCULO 2 BIS, EL ARTÍCULO 5, UN INCISO F) A LA FRACCIÓN VI DEL ARTÍCULO 14, LA FRACCIÓN VIII DEL ARTÍCULO 33, UN INCISO J) AL ARTÍCULO 38 Y UN INCISO G) AL ARTÍCULO 39; SE REFORMA EL ARTÍCULO 2 BIS, 2 BIS 1, 2 BIS 3 Y 2 BIS 5, 3, 5 BIS Y LA FRACCIÓN XI DEL ARTÍCULO 17 A LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
