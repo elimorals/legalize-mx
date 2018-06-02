@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2018-02-17"
+last_updated: "2018-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -55,6 +55,8 @@ Ley del Sistema de Seguridad Pública Para el Estado de Jalisco
 
 La presente ley es de orden público e interés social y tiene por objeto establecer las bases para regular la función de seguridad pública en el estado y sus municipios, los lineamientos para el desarrollo y coordinación de esta función a cargo de las autoridades competentes, así como las modalidades de los servicios de seguridad privada en el estado de Jalisco.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2°.
 
 La seguridad pública es la función gubernamental que prestan en forma institucional, exclusiva y en el ámbito de su competencia, el Estado y los municipios, la cual se regirá bajo los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo y honradez, respetando del gobernado sus derechos humanos consagrados en nuestra carta magna y la Constitución particular del Estado.
@@ -71,19 +73,25 @@ IV. Establecer los mecanismos de coordinación con el Ministerio Público para a
 
 V. Disponer la coordinación entre las diversas autoridades para brindar el apoyo y auxilio a la población, tanto respecto de la seguridad pública, como en casos de emergencias, accidentes, siniestros y desastres conforme a la ley de la materia;
 
-VI. Procurar la seguridad pública mediante la prevención, investigación, persecución y sanción de las infracciones y delitos, la reinserción social de los delincuentes, de los adolescentes y adultos jóvenes en conflicto con la ley, así como en el auxilio y atención integral a las víctimas de hechos delictuosos, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2018)</small>
 
-VII. Detectar y combatir los factores que genere la comisión de delitos y conductas antisociales, así como desarrollar políticas criminológicas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
+VI. Procurar la seguridad pública mediante la prevención, investigación, persecución y sanción de las infracciones y delitos, la reinserción social de los delincuentes, de los adolescentes y adultos jóvenes en conflicto con la ley, así como en el auxilio y atención integral a las víctimas de hechos delictuosos;
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2018)</small>
+
+VII. Detectar y combatir los factores que genere la comisión de delitos y conductas antisociales, así como desarrollar políticas criminológicas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2018)</small>
+
+VIII. Regular el uso y resguardo de la información obtenida con equipos o sistemas tecnológicos en las materias de seguridad pública y procuración de justicia.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 ###### Artículo 3°.
 
 Para los efectos de esta ley, se debe entender por:
 
-I. Carrera ministerial: al servicio profesional de carrera de las Instituciones de
-
-Procuración de Justicia;
+l. Carrera ministerial: al servicio profesional de carrera de las Instituciones de Procuración de Justicia;
 
 II. Carrera pericial: al servicio profesional de carrera del Instituto Jalisciense de Ciencias Forenses;
 
@@ -91,51 +99,63 @@ III. Carrera policial: al servicio profesional de carrera policial;
 
 IV. Centro: el Centro Estatal de Evaluación y Control de Confianza;
 
-V. Centros de control de confianza federales: los centros con que en la materia cuentan tanto la Procuraduría General de la República como la Secretaria de Seguridad Pública Federal;
+V. Centros de control de confianza federales: los centros con que en la materia cuentan tanto la Procuraduría General de la República como la Secretaría de Seguridad Pública Federal;
 
-VI. Comisaria: la Comisaría General de Seguridad Pública del Estado;
+VI. Comisaría: la Comisaría General de Seguridad Pública del Estado;
 
 VII. Comisario General: el titular de la Comisaría General de Seguridad Pública del Estado;
 
 VIII. Consejo Estatal: el Consejo Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
-
 IX. Consejo Ciudadano: Consejo Ciudadano de Seguridad y Procuración de Justicia;
 
-X. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
+X. Director General del C5: El Director General del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+XI. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
 
-XI. Elementos operativos: los integrantes de las instituciones de la Fiscalía General del Estado, de la Policía Vial, dependiente de la Secretaría de Movilidad, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
+XII. Elementos operativos: los integrantes de las instituciones de la Fiscalía General del Estado, de la Policía Vial, dependiente de la Secretaría de Movilidad, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
 
-XII. Fiscal General: el titular de la Fiscalía General del Estado;
+XIII. “Escudo Urbano·C5”: al Organismo Público Descentralizado encargado del Centro de Coordinación, Comando, Control, Comunicaciones y Cómputo del Estado de Jalisco;
 
-XIII. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal;
+XIV. Fiscal General: el titular de la Fiscalía General del Estado;
 
-XIV. Instituciones de procuración de justicia: a las instituciones que integran al Ministerio Público, y el Instituto Jalisciense de Ciencias Forenses;
+XV. Instituciones de seguridad pública: instituciones policiales y del sistema penitenciario encargadas de la seguridad pública a nivel estatal y municipal;
 
-XV. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+XVI. Instituciones de procuración de justicia: a las instituciones que integran al Ministerio Público, y el Instituto Jalisciense de Ciencias Forenses;
 
-XVI. La ley: la presente Ley del Sistema de Seguridad Pública para el Estado de Jalisco;
+XVII. Instituciones policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos, y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
 
-XVII. Nombramiento: el acto condición, también definido como acto administrativo condicionado, que no se considera como contrato de trabajo ni un acto expedido con fundamento en las leyes que rigen la relación laboral del Estado con sus empleados servidores públicos, en virtud de la excepción constitucional establecida en la fracción XIII del apartado B del artículo 123 constitucional, que establece que los grupos ahí señalados se rigen por sus propias leyes;
+XVIII. La Cadena de Custodia: el documento oficial donde se asienta el (sic) obtención de información para el uso de equipos y sistemas tecnológicos, la dependencia que el que (sic) los captó así como sus características específicas de identificación; con el objeto que cada persona o servidor público a la que se le transmite la información, suscriba en la misma su recepción así como todas circunstancias relativa (sic) a su inviolabilidad e inalterabilidad, haciéndose responsable en su conservación y cuidado hasta su traslado a otra persona o servidor público, y en su caso, deberá cumplir con los requisitos establecidos en los artículos 227 y 228 del Código Nacional de Procedimientos Penales;
 
-XVIII. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
+XIX. La ley: la presente Ley del Sistema de Seguridad Pública para el Estado de Jalisco;
 
-XIX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses;
+XX. Ley de Protección de Datos: la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+XXI. Ley de Transparencia: la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
 
-XX. Registro: el Registro Estatal de Información sobre Seguridad Pública;
+XXII. Locatel: a la línea telefónica única de asistencia a la población del Estado de Jalisco, a través del Servicio Público de Localización Telefónica.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+XXIII. Nombramiento: el acto condición, también definido como acto administrativo condicionado, que no se considera como contrato de trabajo ni un acto expedido con fundamento en las leyes que rigen la relación laboral del Estado con sus empleados servidores públicos, en virtud de la excepción constitucional establecida en la fracción XIII del apartado B del artículo 123 constitucional, que establece que los grupos ahí señalados se rigen por sus propias leyes;
 
-XXI. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública; y
+XXIII. (Sic) Registro de Tecnologías: Registro de Equipos y Sistemas Tecnológicos para la Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+XXIV. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública;
 
-XXII. Supervisor de Libertad: la autoridad administrativa que depende del Poder Ejecutivo y que da seguimiento a las personas sentenciadas que gozan de libertad condicionada.
+XXV. Sistema Estatal de Informática: El implementado y administrado por la Dirección de Tecnologías de la Información de la Secretaría de Planeación, Administración y Finanzas del Estado;
+
+XXVI. 911 El sistema de emergencia 911, como un número gratuito de atención telefónica, diseñado para recibir llamadas de emergencia de la ciudadanía que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las corporaciones de auxilio, contando con un sistema único de despacho para derivar llamadas de emergencia;
+
+XXVII. 089: El sistema de denuncia anónima 089, como un número gratuito de atención telefónica, diseñado para recibir llamadas de denuncias anónimas, que cuenta con personal altamente capacitado, laborando las 24 horas, los 365 días del año y es el medio de canalización directa entre usuario y las corporaciones de auxilio, contando con un sistema único de despacho para derivar llamadas de denuncias anónimas; y
+
+XXVIII. Personal ministerial: a los agentes del Ministerio Público, actuarios y secretarios del Ministerio Público;
+
+XXIX. Personal pericial: los peritos del Instituto Jalisciense de Ciencias Forenses;
+
+XXX. Registro: el Registro Estatal de Información sobre Seguridad Pública;
+
+XXXI. Sistema de Información: el Sistema Estatal de Información sobre Seguridad Pública; y
+
+XXXII. Supervisor de Libertad: la autoridad administrativa que depende del Poder Ejecutivo y que da seguimiento a las personas sentenciadas que gozan de libertad condicionada.
 
 ###### Artículo 4°.
 
@@ -2133,29 +2153,605 @@ En el caso de la información reservada, esta clasificación se mantendrá cuand
 
 Cualquier interesado que estime falsa o errónea alguna información, podrá solicitar la investigación correspondiente con el objeto de que, en su caso, se anote la corrección que proceda, conforme al procedimiento que establezca la ley en la materia.
 
-## Título Octavo. De la participación ciudadana en las instituciones de seguridad pública
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
 
-### Capítulo I. De la participación ciudadana
+## Título Octavo. Del uso de la tecnología y redes de telecomunicación para la seguridad pública
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo I. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 ###### Artículo 160.
 
-El Consejo Ciudadano de Seguridad y Procuración de Justicia, es un órgano de análisis, opinión y consulta, constituido como un ente público de participación ciudadana, con autonomía técnica y de gestión, sectorizado administrativamente a la Fiscalía General del Estado.
+El presente Título tiene por objeto regular la utilización de los Equipos y Sistemas Tecnológicos para la Seguridad Pública a través de videocámaras, cámaras fijas, cámaras móviles, aéreas y, en general cualquier sistema que permita las grabaciones y visualización en espacios públicos sean abiertos o cerrados y espacios privados con uso público y su posterior tratamiento, con las limitantes que esta Ley señala, por autoridades de seguridad pública, movilidad y protección civil del estado, municipios, establecimientos privados en los inmuebles que estén a su disposición; a fin de contribuir a la seguridad ciudadana, la prevención de hechos delictivos y la utilización pacífica de las vías y espacios públicos, así como fortalecer la persecución de los delitos, documentar las faltas administrativas e infracciones relacionadas con la seguridad pública.
 
-En los municipios podrá haber Consejo (sic) Consultivos Ciudadanos de Seguridad Pública, que apoyen a la autoridad municipal en la materia.
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 ###### Artículo 161.
 
+La utilización de equipos y sistemas tecnológicos en espacios públicos será función exclusiva de los cuerpos de seguridad pública estatal y municipal, también serán sujetos de esta regulación los particulares que dispongan de sistemas de equipos y sistemas tecnológicos destinados para la seguridad en los espacios privados con uso público.
+
+Todos los equipos tecnológicos de grabación de imágenes fijas o móviles con o sin sonido podrán ser interconectados, previo convenio, al (sic) un punto central denominado "Escudo Urbano C5".
+
+No serán objeto de regulación, los sistemas tecnológicos instalados en espacios privados, los cuales no podrán obtener imágenes en espacios públicos salvo que resulte imprescindible para la finalidad de vigilancia que se pretende, o resulte imposible evitarlo por razón de su ubicación.
+
+Se debe privilegiar el uso de la videograbación cuando no exista un método de seguridad y vigilancia de menos intrusión.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 162.
+
+El estado garantizará el respeto de los derechos humanos y garantías individuales de los ciudadanos video grabados. Las imágenes que hagan reconocibles o identifiquen a los ciudadanos se constituyen en un dato personal que se encuentra regulado, se exige que su tratamiento sea de uso reservado, en referencia a su almacenamiento, uso, obtención, manejo, acceso, aprovechamiento, publicidad y transmisión.
+
+La excepción será solamente en caso de que las imágenes sean obtenidas por personas físicas o morales de carácter privado, siempre que su uso sea exclusivamente personal.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 163.
+
+Las grabaciones y tratamiento de imágenes con o sin sonido realizadas con estricto apego a esta Ley, no se considerarán violatorias de la intimidad personal o familiar, el honor y la imagen.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 164.
+
+La grabación de imágenes con o sin sonido en términos de esta Ley se regirá por los siguientes principios:
+
+l. Segura Preservación: el material video grabado deberá ser almacenado en un dispositivo que tenga acceso reservado, manejado únicamente por el personal autorizado, registrado previamente ante el "Escudo Urbano C5" y en su caso la Autoridad que solicite él mismo;
+
+II. Proporcionalidad: en su doble aspecto de mínima intrusión e idoneidad:
+
+a) Mínima Intrusión: la ponderación, en cada caso, entre la finalidad pretendida y la posible afectación por la utilización de la grabación al derecho a la intimidad de las personas, al honor y a la propia imagen;
+
+b) Idoneidad: únicamente podrá emplearse la grabación cuando resulte adecuado, en una situación concreta, para la seguridad pública, sanciones administrativas o hechos ilícitos, de conformidad con lo dispuesto en esta Ley.
+
+II. (Sic) Prevención: consistente en la utilización de videocámaras, cámaras fijas, cámaras móviles, aéreas y, en general cualquier sistema que permita las grabaciones y visualización, a efecto de prever la proximidad de un daño o afectación a la seguridad pública y/o asegurar la rápida y efectiva intervención de las autoridades en una contingencia inminente, que sea precisa o determinada; y
+
+III. Legalidad: consistente en que todas acciones, procedimientos y mecanismos determinados por esta Ley, se regirán en estricto apego a las disposiciones contenidas en la Constitución Política de los Estado (sic) Unidos Mexicanos, así como garantizar el respeto a los derechos fundamentales reconocidos en los Tratados y Convenios Internacionales suscritos por los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 165.
+
+Se prohíbe la ubicación de cámaras y/o grabar en lugares como baños, vestidores o albergues transitorios, el interior de las viviendas, moteles, hoteles, recintos privados, fijos o móviles, ni en lugares en los que se afecte la intimidad personal o familiar, el honor y la imagen.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo II. De los lineamientos para la colocación de tecnología
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 166.
+
+La instalación de equipos y sistemas se efectuará previos análisis técnicos, basados en los criterios y prioridades establecidos en la presente ley, por lo que se acordarán entre el “Escudo Urbano C5”, el municipio o la dependencia oficial interesada.
+
+La instalación se realizará en lugares en los cuales sea posible prevenir, inhibir y combatir conductas ilícitas, para garantizar el orden y la tranquilidad de los habitantes del Estado de Jalisco.
+
+Los equipos y sistemas tecnológicos instalados conforme a lo establecido en la presente ley, sólo podrán ser retirados o reubicados en aquellos casos en los que los municipios o las dependencias interesadas, previa justificación, y en coordinación con el “Escudo Urbano C5”, así lo determinen, ya sea por su ubicación o por sus características.
+
+l. No contribuyen el objeto y fines de la presente ley; o
+
+II. Se advierta un deterioro físico que imposibilite el adecuado cumplimiento de sus funciones, debiendo repararse o sustituirse, dentro del término establecido en el reglamento.
+
+El “Escudo Urbano C5” deberá informar y justificar a su Junta de Gobierno, en todos los casos que se determine, el retiro o reubicación de equipos y sistemas tecnológicos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 167.
+
+La autoridad podrá instalar los equipos tecnológicos fijos en bienes del dominio público del estado o de los municipios.
+
+Para la instalación en cualquier otro lugar, se requerirá autorización por escrito del propietario o poseedor del lugar en el que se pretendan ubicar los equipos o sistemas tecnológicos.
+
+Dicha autorización será confidencial y deberá resguardarse junto con la información obtenida por los sistemas tecnológicos, de conformidad con lo dispuesto en la presente Ley, la Ley de Transparencia y la Ley de Protección de Datos.
+
+También queda prohibida la colocación de propaganda, mantas, lonas, carteles, espectaculares, estructuras, señalizaciones, y en general, cualquier objeto que impida, distorsione, obstruya o limite el incumplimiento de las funciones de los equipos y sistemas tecnológicos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 168.
+
+Las instancias interesadas bajo su operación, resguardo y presupuesto, que podrán solicitar al "Escudo Urbano C5", la instalación de equipos y sistemas tecnológicos para la seguridad pública en los bienes de uso común del Estado de Jalisco son:
+
+l. El titular de la Fiscalía General, a propuesta de de (sic) la dependencia del Ejecutivo del Estado encargada de la Seguridad Pública y los Fiscales.
+
+II. Las dependencias y entidades de la administración pública del estado que justifiquen la necesidad de su instalación, para prevenir situaciones de emergencia o desastre e incrementar la seguridad pública;
+
+III. Los consejos metropolitanos, a propuesta de sus autoridades de seguridad pública o del ayuntamiento.
+
+IV. Los presidentes municipales, a propuesta de sus autoridades de seguridad pública o del ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 169.
+
+Son criterios para la instalación y operación de equipos y sistemas tecnológicos lo (sic) siguientes:
+
+I. Zonas escolares, recreativas y lugares de mayor afluencia de público, turismo o comercio;
+
+II. Las áreas públicas de zonas, colonias, unidades habitacionales y demás lugares de concentración o afluencia de personas o tránsito de las mismas, registradas con mayor incidencia delictiva en la estadística criminal de las autoridades de seguridad pública, de los municipios o del 911, 089 y Locatel.
+
+III. Las colonias, manzanas, avenidas, calles y demás lugares que registren los delitos de mayor impacto para la sociedad;
+
+IV. Las intersecciones viales más conflictivas clasificadas por la Secretaría de Movilidad o por los municipios;
+
+V. Las zonas con mayor índice de percepción de inseguridad;
+
+VI. Las zonas con mayor vulnerabilidad a fenómenos de origen natural o humano identificados en los atlas de riesgo;
+
+VII. Cualquier instrumento de análisis diferente a la prevención, que permita la toma de decisiones en materia de seguridad pública, así como aquella información que posibilite su adecuada colocación, para el cumplimiento de sus fines; o
+
+VIII. Las zonas registradas con mayor incidencia de infracciones administrativas.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 170.
+
+La solicitud de instalación o retiro, se hará por escrito, dirigida al "Escudo Urbano C5"·o a la autoridad municipal correspondiente, quienes determinarán lo conducente en términos de la presente ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 171.
+
+La información generada por la utilización de los equipos y sistemas tecnológicos, en poder del “Escudo Urbano C5”, los municipios o los permisionarios de servicios de seguridad privada, deberá ser preservada en la forma y plazos dispuestos en el Reglamento, especialmente la que sea utilizada en los casos de clasificación, procesamiento, validación, almacenamiento, resguardo y remisión de información.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo III. El Registro de Equipos y Sistemas Tecnológicos para la Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 172.
+
+Se crea el Registro de Tecnologías, mismo que estará a cargo del "Escudo Urbano C5", que integrará aquellos equipos y sistemas tecnológicos de las autoridades de seguridad pública, destinado a prevenir, inhibir y combatir conductas ilícitas.
+
+La organización y apartados del Registro de Tecnologías estarán previstos en el reglamento que al efecto se expida.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo IV. Instancias de coordinación
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 173.
+
+El Director General del C5 deberá supervisar la actividad en el Centro de Coordinación, Control, Comando, Comunicaciones y Cómputo, instancia responsable del manejo remoto de todas las cámaras de video seguridad instaladas en el Estado, de los sistemas 911, 089 y Locatel, así como de las telecomunicaciones utilizadas para la seguridad pública y la prevención del delito.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 174.
+
+El Director General del C5, deberá rendir un informe bimestral ante el Consejo Estatal de Seguridad Pública, en el que detalle de manera integral los trabajos desarrollados en la entidad en materia de video seguridad, despacho de los sistemas 089, 911 y Locatel; asimismo de las acciones de coordinación con los municipio, (sic) así como sobre la atención de denuncias y la canalización a las áreas correspondientes.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 175.
+
+Corresponde a la autoridad municipal, las siguientes funciones:
+
+l. Proponer acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determine la presente ley y el reglamento;
+
+III. (Sic) Coordinarse con el "Escudo Urbano C5" para la instalación de equipo y sistemas tecnológicos;
+
+IV. Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la presente Ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables;
+
+V. Garantizar la inviolabilidad e inalterabilidad de la información recabada con equipos tecnológicos;
+
+VI. Coordinarse con el "Escudo Urbano C5"·para la operación del 911, 089 y Locatel;
+
+VII. Observar los lineamientos que al efecto expida el "Escudo Urbano C5" para la estandarización de los equipos y sistemas tecnológicos en materia de seguridad pública; y
+
+VIII. Las demás que se (sic) establezca esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 176.
+
+El Director General del C5, a través de sus áreas competentes, verificará el cumplimiento de las disposiciones que en materia del uso de tecnologías de la información y comunicación para la seguridad pública establezca la presente ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 177.
+
+Corresponde al "Escudo Urbano C5" proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que, en materia de uso de tecnología de la información y comunicación para la seguridad pública, determinen la presente ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 178.
+
+Corresponde a las autoridades en materia de seguridad pública, a la Secretaría de Movilidad, Protección Civil y a los municipios proponer y ejecutar las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen en la presente ley, la Ley de Protección de Datos, la Ley de Transparencia y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 179.
+
+El “Escudo Urbano C5”, emitirá lineamientos para la homologación de los Centros de Mando Metropolitanos, Regionales y Municipales, para el manejo de la información obtenida con equipos y sistemas tecnológicos, los cuales estarán controlados, operados y sujetos de conformidad con lo establecido en la presente Ley, su Reglamento, y demás disposiciones aplicables.
+
+Los Centros de Mando deberán estar en coordinación permanente con el “Escudo Urbano C5”, por lo que su operación se regirá por las políticas y estándares que el mismo establezca.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 180.
+
+Los equipos y sistemas tecnológicos utilizados por las áreas de la administración pública central, por entidades del Gobierno del Estado, por los municipios y las autoridades de seguridad pública y privada, se incorporarán al Registro de Tecnologías.
+
+Las autoridades de seguridad pública, los municipios, las personas físicas y jurídicas que presten los servicios de seguridad privada, deberán estandarizar y homologar sus equipos y sistemas tecnológicos entre sí, a fin de procurar que los datos recabados estén homologados con las bases de datos nacionales y estatales que se establezcan en el marco de los sistemas Nacional y Estatal de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 181.
+
+Los permisionarios de servicios privados de seguridad en el Estado, coadyuvarán, en su carácter de auxiliares, de la seguridad pública en situaciones de emergencia, desastre o cuando así lo solicite la autoridad estatal o municipal, en los términos establecidos en la presente ley, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 182.
+
+Las personas físicas y jurídicas que cuenten con la infraestructura tecnológica de captación o acopio de información susceptible de ser útil a los fines de la seguridad pública, podrán ser requeridas por la autoridad ministerial, judicial o administrativa para coadyuvar en la investigación de los delitos y faltas administrativas, así como para prevenir situaciones de emergencia o desastre, debiendo observar las formalidades que establecen los artículos 251 y 252 del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo V. Del Sistema de Emergencia, Denuncia Anónima y Locatel
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 183.
+
+Los sistemas 911, 089 y Locatel, operarán con un número único para la atención ciudadana.
+
+El "Escudo Urbano C5" establecerá las políticas necesarias para la administración, operación y evaluación del 911, 089 y Locatel, a efecto de unificar y difundir entre la población los dígitos de acceso, debiendo los municipios alinearse a tales disposiciones conforme lo dispuesto en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 184.
+
+Los convenios de coordinación entre autoridades de seguridad pública o particulares que se celebren deberán contener como mínimo
+
+l. Capítulo de declaraciones: integrado por los datos generales de las partes y sus representantes;
+
+II. Capítulo de obligaciones: integrado por las obligaciones contraídas conjunta e individualmente por cada parte, en el que se precisen:
+
+a) Las funciones;
+
+b) El grado y alcance de las instancias de coordinación;
+
+c) Las aportaciones en recursos financieros, humanos y materiales que harán las partes; y
+
+d) Las bases generales de la integración y operación del "ESCUDO URBANO C5";
+
+III. Capítulo de sanciones, controversias y recisión del convenio: integrado por las sanciones convenidas para el caso del incumplimiento de las obligaciones contraídas y la indicación de las instancias jurisdiccionales ante las que se dirimirán las posibles controversias derivadas de su aplicación, o en su caso, la rescisión de convenio, debiendo dar aviso 60 días naturales con anticipación; y
+
+IV. Capítulo de validación: integrado por la indicación del lugar y fecha de su celebración, así como la identificación, firma autógrafa y sello oficial de los representantes de las partes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo VI. De la reserva, control, análisis y utilización de la información obtenida con tecnología
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 185.
+
+Las autoridades de seguridad pública, implementarán los métodos de clasificación, procesamiento, validación, almacenamiento, resguardo y remisión de información, que garantice la veracidad en los datos que reportan, en los términos establecidos por las disposiciones aplicables en la materia, y en su caso, en el Reglamento correspondiente.
+
+Toda información obtenida con equipos o sistemas tecnológicos de particulares conectados al sistema implementados por el "Escudo Urbano C5", deberá recibir el tratamiento establecido en la presente ley y en su Reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 186.
+
+La información en materia de seguridad pública compuesta por imágenes o sonidos captados a través de equipos o sistemas tecnológicos, podrá ser utilizada mediante orden por autoridad competente en:
+
+l. La prevención de los delitos e infracciones administrativas;
+
+II. La investigación de los delitos;
+
+III. La imposición de sanciones por infracciones administrativas; o
+
+IV. Reacción inmediata, en los casos en que, a través de la información obtenida con equipos y sistemas tecnológicos del "Escudo Urbano C5", se aprecie la comisión de un hecho delictuoso o infracción administrativa y se esté en posibilidad jurídica y material de asegurar a quien probablemente lo cometió o participó en su comisión, de conformidad con las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 187.
+
+Los particulares previo convenio con el "Escudo Urbano C5", podrán conectar sus equipos y sistemas tecnológicos privados a los sistemas que para el efecto disponga el "Escudo Urbano C5", con la finalidad primaria de atender eventos con reacción inmediata, de conformidad con los requisitos establecidos en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 188.
+
+Los permisionarios de servicios de seguridad privada en el Estado de Jalisco que utilicen tecnología a través de la cual se capte información, tendrán las siguientes obligaciones:
+
+l. Inscribir en el Registro de Tecnologías, así como en el Registro Estatal de Empresas de Seguridad Privada, la utilización de estos sistemas tecnológicos en materia de seguridad pública; y
+
+II. Proporcionar al "Escudo Urbano C5", inmediatamente y bajo su más entera responsabilidad a partir del momento en que se registró un hecho delictuoso o falta administrativa, copia fiel de la información obtenida con sus sistemas tecnológicos, y que se relacione con lo establecido en el artículo 193 de la presente ley, así como un informe emitido por el permisionario, bajo protesta de decir verdad, en el que se mencionen las circunstancias en que se captó dicha información, el tramo de la grabación, cinta o cualquier otro medio electrónico en el que se aprecian esos hechos y una descripción de los mismos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 189.
+
+Los particulares tienen las obligaciones y limitaciones en la utilización de equipos y sistemas tecnológicos en la obtención, resguardo y difusión de información captada en ellos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 190.
+
+Las autoridades de seguridad pública podrán convenir con la Federación, con las demás entidades federativas o con los municipios, para la utilización conjunta de equipos y sistemas tecnológicos o procedimientos para la obtención de información.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 191.
+
+Toda información obtenida por las autoridades de seguridad pública, con el uso de equipos y sistemas tecnológicos, deberá registrarse de conformidad con lo establecido en esta ley, en su Reglamento, en la Ley de Transparencia y en la Ley de Protección de Datos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 192.
+
+Toda información recabada por las autoridades de seguridad pública, con apego a la presente Ley, se considerará reservada en los siguientes casos;
+
+(NOTA: EL 21 DE MAYO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, NUMERALES 2.1.1., 2.1.2., 2.1.4. Y 4, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+l. CUANDO SU DIVULGACIÓN IMPLIQUE LA REVELACIÓN DE NORMAS, PROCEDIMIENTOS, MÉTODOS, FUENTES, ESPECIFICACIONES TÉCNICAS, SISTEMAS, TECNOLOGÍA O EQUIPOS ÚTILES PARA LA PREVENCIÓN O EL COMBATE A LA DELINCUENCIA;
+
+(NOTA: EL 21 DE MAYO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, NUMERALES 2.1.1., 2.1.2., 2.1.4. Y 4, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+II. CUANDO SU REVELACIÓN PUEDA SER UTILIZADA PARA ACTUALIZAR O POTENCIAR UNA AMENAZA A LA SEGURIDAD PÚBLICA O A LAS INSTITUCIONES DEL ESTADO.
+
+III. La información y los materiales de cualquier especie que sean producto de una intervención de comunicaciones privadas autorizadas conforme a la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales;
+
+(NOTA: EL 21 DE MAYO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, NUMERALES 2.1.1., 2.1.2., 2.1.4. Y 4, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+IV. CUANDO LA GRABACIÓN O INFORMACIÓN OBTENIDA CONSTITUYA DATO DE PRUEBA O PRUEBA DENTRO DE UNA INVESTIGACIÓN O JUICIO EN CURSO, SALVO QUE LA AUTORIDAD INVESTIGADORA, PREVIO ANÁLISIS, DETERMINE NECESARIA SU DIVULGACIÓN PARA QUE SE LOGRE IDENTIFICAR Y LOCALIZAR A QUIEN O QUIENES HAYAN PARTICIPADO O COMETIDO EL HECHO SEÑALADO POR LEY COMO DELITO; y
+
+V. Cuando así lo prevean la Ley de Protección de Datos y la Ley de Transparencia.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 193.
+
+Toda información recabada por las autoridades de seguridad pública con el uso de equipos y sistemas tecnológicos, deberá ser remitida a petición de cualquier autoridad judicial o administrativa que la requiera para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 194.
+
+Las autoridades de seguridad pública deberán garantizar la inviolabilidad e inalterabilidad de la información recabada con equipos y sistemas tecnológicos, mediante la Cadena de Custodia correspondiente.
+
+Los servidores públicos estatales y municipales que tengan bajo custodia la información a que hace referencia este artículo, serán responsables directamente de su guarda, inviolabilidad e inalterabilidad, hasta en tanto no hagan entrega de la misma a otro servidor público, dando cuenta de dicho acto en el documento donde conste la Cadena de Custodia de la misma.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 195.
+
+Los servidores públicos de las autoridades policiales y de seguridad pública que participen en la obtención, clasificación, análisis o custodia de información para la seguridad pública a través de tecnología, deberán abstenerse de obtener, guardar o transferir el original o copia de dicha información para fines que no sean los dispuestos en las leyes aplicables.
+
+Asimismo, dichos servidores públicos deberán otorgar por escrito una promesa de confidencialidad que observarán en todo tiempo, aún después de que hayan cesado en el cargo en razón del cual se les otorgó el acceso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo VII. De los datos o medios de prueba obtenidos con equipos y sistemas tecnológicos
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 196.
+
+La información obtenida con equipos y sistemas tecnológicos en términos de esta Ley, podrá constituir un dato o medio de prueba en los procedimientos seguidos ante las autoridades competentes y la legislación aplicable en términos del Código Nacional de Procedimientos Penales y demás normas procesales aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 197.
+
+Las autoridades de seguridad pública deberán acompañar la información obtenida con equipos y sistemas tecnológicos regulados por esta Ley, autentificada por escrito, en las remisiones y puestas a disposición ante la autoridad competente, precisando el origen y las circunstancias en que se allegó de ella.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 198.
+
+La información recabada por las autoridades de seguridad pública a través del uso de equipos y sistemas tecnológicos, sólo puede ser suministrada o intercambiada cuando ésta reúna todos y cada uno de los requisitos exigidos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 199.
+
+Está prohibido el suministro o intercambio de información en poder de autoridades de seguridad pública, obtenida a través del uso de equipos y sistemas tecnológicos, o de productos de inteligencia para la prevención, derivada de dicha información, con personas físicas o jurídicas particulares, cualquiera que sea su naturaleza, en los términos de la Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo VIII. La coordinación para la obtención e intercambio de información recabada con equipos y sistemas tecnológicos
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 200.
+
+La información en poder de autoridades de seguridad pública obtenida a través del uso de equipos y sistemas tecnológicos puede ser suministrada o intercambiada con la Federación, los estados y municipios del país, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, La Ley de Seguridad Nacional Pública y esta ley, conforme a los siguientes lineamientos:
+
+I. La información recabada por el "Escudo Urbano C5" a través del uso de equipos o sistemas tecnológicos, sólo puede ser suministrada o intercambiada cuando ésta reúna todos y cada uno de los requisitos exigidos en la presente Ley;
+
+II. Dicha información puede proporcionarse tal y como se obtuvo de los equipos o sistemas tecnológicos y sólo se remitirá con los requisitos que establece el artículo 178 o cualquier otra especificación cuando así se pacte en el convenio respectivo;
+
+III. La información obtenida a través del uso de equipos o sistemas tecnológicos, en poder de Autoridades de Seguridad Pública, sólo podrá ser materia de suministro o intercambio con la Federación, Estados o Municipios de los Estados Unidos Mexicanos, cuando no violente las disposiciones del artículo 193 de esta Ley;
+
+IV. Para la comunicación e intercambio con la Federación, las entidades federativas o los municipios del país, de productos de inteligencia para la prevención de la delincuencia, en los que las autoridades de seguridad pública hubieran analizado información obtenida a través del uso de equipos o sistemas tecnológicos, cualquiera que fuese el ente que la recabó, el Ejecutivo del Estado deberá vigilar que no se vulnere alguno de los derechos fundamentales previstos en la Constitución General de la República, ni se ponga en riesgo la seguridad de las instituciones del estado; y
+
+V. No se autorizará el suministro o intercambio de información en poder de autoridades de seguridad pública, obtenida a través del uso de equipos o sistemas tecnológicos, o de productos de inteligencia para la prevención, derivada de dicha información, con personas físicas o jurídicas particulares de nacionalidad mexicana o extranjera, cualquiera que sea su naturaleza.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 201.
+
+Se exceptúa de la prohibición contenida en la fracción V del artículo anterior, a los permisionarios de servicios de seguridad privada, por lo que el Ejecutivo del Estado podrá suscribir con los mismos, convenio de suministración de información obtenida a través del uso de equipos o sistemas tecnológicos o productos de inteligencia para la prevención derivada de dicha información, conforme a lo siguiente:
+
+l. Que los permisionarios de los servicios de seguridad privada cuenten con autorización, licencia, permiso o aviso de registro, vigente, expedido por el "Escudo Urbano C5";
+
+II. Que el suministro de información o productos de inteligencia tenga como función principal la debida actuación de los permisionarios en el desempeño de sus servicios de seguridad privada, así como el combate a la delincuencia y otras conducta (sic) ilícitas, en ejercicio de sus actividades auxiliares o complementarias de la seguridad pública;
+
+III. Que no existan antecedentes de haber incumplido las obligaciones de suministro de información, contenidas en esta Ley, así como la consistente en proporcionar apoyo y colaboración a las autoridades e (sic) autoridades de seguridad pública, cuando éstas lo requieran en caso de emergencia, siniestro o desastre, conforme al artículo 45, fracción IX del Reglamento de los Servicios Privados de Seguridad del Estado de Jalisco;
+
+IV. Que las empresas de seguridad privada no hayan sido sancionadas en los últimos seis meses por el "Escudo Urbano C5", de conformidad con la Ley de Seguridad Privada para el Estado de Jalisco; y
+
+V. El Ejecutivo del Estado procurará que con la suscripción del convenio no se beneficie indebidamente a un permisionario de servicios de seguridad privada en perjuicio de otros.
+
+En caso de tratarse de un peligro inminente a la seguridad pública, el Ejecutivo del Estado podrá suscribir convenio de suministro de información con permisionarios de servicios de seguridad privada de forma provisional y urgente, siempre y cuando se reúnan los requisitos exigidos en las fracciones II y V del presente artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 202.
+
+Para realizar los suministros o intercambios a que hace referencia este capítulo, el Ejecutivo del Estado por sí o a través del servidor público que designe para tal efecto, suscribirá los convenios correspondientes.
+
+En dichos convenios, el Ejecutivo del Estado deberá garantizar que las autoridades que reciban la información obtenida a través del uso de equipos o sistemas tecnológicos, le proporcionen un trato igual al exigido en esta Ley, respetando en todo momento las garantías individuales y derechos humanos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 203.
+
+El Ejecutivo del Estado promoverá la suscripción de los convenios necesarios con la Federación, las entidades federativas y municipios colindantes a efecto de unificar sus equipos y sistemas tecnológicos, así como sus programas y políticas de utilización de los mismos, en el marco del Sistema Nacional de Seguridad Pública.
+
+Asimismo, se procurará que estos equipos y sistemas tecnológicos se homologuen con las bases de datos metropolitanas y nacionales que se establezcan en el marco del Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 204.
+
+El Ejecutivo del Estado, en la suscripción de convenios de suministro o intercambio de información a que hace referencia este capítulo, atenderá prioritariamente a las entidades federativas y municipios colindantes, así como a los compromisos contraídos en el marco del Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 205.
+
+La información obtenida a través del uso de sistemas tecnológicos o los productos de inteligencia derivados del análisis a los mismos, proporcionados por otros órdenes de gobierno, deberá ser procesada y resguardada en los términos establecidos en la presente Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo IX. De la formación de una cultura del uso y aprovechamiento de tecnología
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 206.
+
+Todo equipo y sistema tecnológico relacionado con servicios de alerta pública, deberá contar previamente con un plan operativo, que establezca con precisión las acciones de coordinación entre dependencias responsables, la participación que corresponde a la población, antes, durante y después de una situación de emergencia o desastre, de conformidad con la legislación aplicable en la materia de que se trate.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 207.
+
+En el informe anual del Consejo Estatal, el “Escudo Urbano C5” dará a conocer los resultados obtenidos en la seguridad pública, con la utilización de equipos y sistemas tecnológicos.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 208.
+
+Las autoridades de seguridad pública implementarán el método de procesamiento y validación de información estadística, que garantice la veracidad en los datos que reportan.
+
+Las autoridades de seguridad pública procurarán la estandarización de los criterios técnicos y de compatibilidad e interoperabilidad de sus respectivos equipos y sistemas tecnológicos, conforme a los convenios a que hace referencia esta Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 209.
+
+Para contribuir a la formación de una cultura preventiva en la ciudadanía, las autoridades de seguridad pública difundirán de manera permanente y actualizada, los índices delictivos y las zonas y colonias más peligrosas, acompañando dicha información con recomendaciones específicas para la autoprotección.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 210.
+
+Para fomentar en la población una cultura vial y peatonal, las autoridades de seguridad pública difundirán de manera permanente y actualizada información de las intersecciones más conflictivas, estadísticas de percances viales y sus causas que los ocasionan, acompañadas de recomendaciones específicas para la autoprotección.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo X. De las sanciones
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 211.
+
+Para garantizar el debido cumplimiento de esta Ley, cuando las faltas sean cometidas por la autoridad, se aplicará:
+
+I. Multa de 50 a 500 días de Unidad de Medida y Actualización, destitución del cargo e inhabilitación para desempeñar cargos públicos hasta por tres años, al servidor público encargado de la custodia de las grabaciones que dé acceso a éstas a un tercero sin derecho a ello; la misma sanción se aplicará al servidor público que no proporcione las grabaciones a la autoridad correspondiente en la forma y términos que dispone esta Ley;
+
+II. Multa de 50 a 500 días de Unidad de Medida y Actualización, al servidor público que sea superior jerárquico, de quienes estén encargados del manejo del sistema de tratamiento de imágenes con o sin sonido, cuando permita la operación de los sistemas de Video Seguridad en condiciones distintas a las establecidas en esta Ley; y
+
+III. Multa de 100 a 1,000 días de Unidad de Medida y Actualización, destitución del cargo e inhabilitación para desempeñar cargos públicos hasta por cinco años, al servidor público que participe en la divulgación de grabaciones obtenidas al amparo de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 212.
+
+Cuando se cometan infracciones por particulares y prestadores privados de servicios de seguridad, se aplicarán las siguientes sanciones:
+
+l. Con multa de 50 a 300 días de Unidad de Medida y Actualización, si no se encuentra visible el aviso de privacidad en su versión integral o en su caso el corto;
+
+II. Con multa de 100 a 500 días de Unidad de Medida y Actualización, al encargado de la custodia de las grabaciones que entregue a una persona no autorizada para ser difundidas o que no las entregue conforme lo marca la presente Ley; y
+
+III. Con multa de 150 a 1500 días de Unidad de Medida y Actualización, a la persona que difunda o participe en la divulgación de grabaciones obtenidas al amparo de la presente Ley sin autorización previa correspondiente de la autoridad competente y el titular de los datos personales.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 213.
+
+Las sanciones antes citadas serán independientes de las que resulten aplicables por la comisión de ilícitos penales en los términos de la Legislación Penal o Civil o de la Ley de Responsabilidades Políticas y Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 214.
+
+La aplicación e imposición de las sanciones previstas en la presente Ley se realizarán en los siguientes términos:
+
+l. El Comisionado de Seguridad Pública del Estado, recibida la queja o conocidos los hechos, actos y responsables, ordenará integrar el expediente correspondiente;
+
+II. Se podrán realizar las diligencias y actividades que se estimen necesarias y oportunas para la debida integración del expediente respectivo;
+
+III. Integrado el expediente se remitirá acompañado de la solicitud de sanción al superior jerárquico u órgano facultado para imponer sanciones al responsable; y
+
+IV. La imposición de las sanciones se realizará en términos de la Legislación Penal, Civil o la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo XI. De los medios de defensa
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 215.
+
+Contra las resoluciones dictadas en la aplicación de esta Ley, procederán los medios de defensa previstos por las leyes en la materia.
+
+Tratándose de acceso, rectificación, cancelación y oposición de datos personales, procederá de manera directa o luego de agotar el recurso de revisión en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 216.
+
+La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, cuando lo solicite el interesado y no cause perjuicio al interés general.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+## Título Noveno. De la participación ciudadana en las instituciones de seguridad pública
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo I. De la participación ciudadana
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 217.
+
+El Consejo Ciudadano de Seguridad y Procuración de Justicia, es un órgano de análisis, opinión y consulta, constituido como un ente público de participación ciudadana, con autonomía técnica y de gestión, sectorizado administrativamente a la Fiscalía General del Estado.
+
+En los municipios podrá haber Consejo Consultivo Ciudadano de Seguridad Pública, que apoyen a la autoridad municipal en la materia.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 218.
+
 El Consejo Ciudadano se conformará de la siguiente manera:
 
-I. Un Presidente, que será el Gobernador del Estado o la persona que éste designe;
+l. Un Presidente, que será el Gobernador del Estado o la persona que este designe;
 
-II. El titular de cada una de las siguientes dependencias estatales o quien éste designe;
+II. El Titular de cada una de las siguientes dependencias estatales o quien este designe;
 
-a) Fiscalía General, y
+a) Fiscalía General y
 
 b) Secretaría de Movilidad.
 
@@ -2165,121 +2761,95 @@ IV. El diputado presidente de la comisión legislativa de Seguridad Pública y P
 
 V. Cinco representantes de la sociedad civil, a invitación del Consejo en términos de su Reglamento;
 
-VI. Un representante por cada uno de los siguientes organismos en el Estado:
+VI. Un representante por cada uno de los siguientes organismos en el Estado;
 
-a) Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara, Asociación Civil,
+a) Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara, Asociación Civil;
 
-b) Centro Empresarial de Jalisco, Sindicato Patronal,
+b) Centro Empresarial de Jalisco, Sindicato Patronal;
 
-c) Consejo Mexicano de Comercio Exterior de Occidente, Asociación Civil,
+c) Consejo Mexicano de Comercio Exterior de Occidente, Asociación Civil;
 
-d) Consejo de Cámaras Industriales de Jalisco, Asociación Civil, y
+d) Consejo de Cámaras Industriales de Jalisco, Asociación Civil; y
 
 e) Consejo Agropecuario de Jalisco, Asociación Civil.
 
 VII. Cinco representantes especialistas en la materia del mismo número de universidades con sede en el Estado, propuestos por el Consejo y a invitación del Gobernador del Estado;
 
-VIII. Un Secretario Técnico, con derecho a voz y designado por el Gobernador del Estado;
+VIII. Un Secretario Técnico con derecho a voz y designado por el Gobernador del Estado;
 
 IX. Un presidente municipal del área Metropolitana de Guadalajara, el que será electo por los integrantes de la Junta de Coordinación Metropolitana de entre ellos mismos, dicho presidente será invitado por el Gobernador en los términos del Reglamento.
 
 Los titulares del Consejo podrán designar por escrito a un suplente en los términos de su reglamento.
 
-EI Consejo podrá invitar a sus sesiones a cualquier institución o persona, pública o privada, que por su trabajo, experiencia o capacidad puedan contribuir con el órgano colegiado. Estos sólo tendrán derecho a voz.
+El Consejo podrá invitar a sus sesiones a cualquier institución o persona, pública o privada, que por su trabajo, experiencia o capacidad puedan contribuir con el órgano colegiado. Estos sólo tendrán derecho a voz.
 
 La selección de los Consejeros a que se refieren las fracciones V y VII de este artículo, se hará de conformidad a lo previsto en el Reglamento Interno del Consejo.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-###### Artículo 162.
+###### Artículo 219.
 
 Los cargos de consejero del Consejo Ciudadano son honoríficos y por lo tanto no remunerados, con excepción del Secretario Técnico y el personal adscrito a la secretaría técnica.
 
 La estructura administrativa del Consejo estará sujeta a sus necesidades y a la disposición presupuestaria de la Fiscalía.
 
-###### Artículo 163.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 220.
 
 El Consejo Ciudadano tendrá las siguientes facultades:
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
 I. Analizar y emitir opinión en materia del sistema de seguridad pública;
 
 II. Realizar los estudios relacionados con la situación estatal y, en su caso, municipal, en el área de la protección ciudadana, así como analizar la problemática en las zonas con mayor índice de delincuencia para proponer los objetivos y políticas para su adecuada solución;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
-
 III. Proponer programas de prevención contra la inseguridad;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
 IV. Proponer normas y procedimientos que permitan mejorar la atención y seguridad de las personas que señalen abusos de los integrantes del sistema de seguridad pública;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
-
 V. Otorgar reconocimientos a cualquier institución de seguridad pública o alguno de sus integrantes que sobresalgan a su juicio, en la prestación del servicio, dicho reconocimiento será eficaz para efectos de ascensos en el servicio profesional de carrera, por lo que deberá inscribirse en el expediente correspondiente;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
 VI. Recibir las quejas o señalamientos en contra de presuntas malas o deficientes actuaciones del personal del sistema de seguridad pública, que tenga conocimiento en ejercicio de sus atribuciones, teniéndolas que remitir dentro de las 48 horas siguientes para su legal conocimiento y sustanciación a la autoridad competente;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
-
 VII. Denunciar ante la Comisión Estatal de Derechos Humanos, o en su caso ante la Comisión Nacional, hechos que pudieran implicar violación a los derechos fundamentales y de los que ha tenido conocimiento en el ejercicio de sus atribuciones;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
 VIII. Presentar denuncia ante el Ministerio Público, con motivo de hechos presuntamente delictuosos, que conozca en el ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
-
 IX. Instrumentar y operar un programa de denuncia anónima, remitiendo con prontitud, cuando sea el caso, los hechos denunciados a la autoridad competente;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
 
 X. Fomentar, promover e incentivar la denuncia de los delitos mediante las estrategias que juzgue oportuno dentro de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
-
-XI. Celebrar convenios de cooperación o coordinación en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
+XI. Celebrar convenios de cooperación o coordinación en el ámbito de la competencia;
 
 XII. Fomentar la integración de los consejos consultivos ciudadanos municipales en materia de seguridad pública;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2016)</small>
-
 XIII. Recibir donativos de entes públicos o privados;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
 
 XIV. Administrar los bienes que reciba de conformidad al Reglamento Interior;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
-
 XV. Instrumentar y operar un programa de recompensa a los servidores públicos del Sistema de Seguridad Pública en los términos del Reglamento Interno;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
 
 XVI. Monitorear la comisión de delitos de alto impacto lo que deberá considerar al momento de emitir sus opiniones sobre medidas preventivas y acciones de gobierno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
-
 XVII. Proponer al Gobernador del Estado el proyecto de Reglamento Interno que rija el funcionamiento del Consejo y la organización de la Secretaría Técnica como instancia coordinadora de los trabajos y ejecutora de las decisiones del Pleno del Consejo; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2016)</small>
 
 XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2016)</small>
-
 Las opiniones del Consejo no serán vinculantes para la autoridad, pero ésta deberá dar respuesta por escrito sobre la viabilidad en un plazo no mayor a treinta días hábiles después de recibida la opinión.
 
-###### Artículo 164.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 221.
 
 Los consejos municipales tomarán como base para su integración lo que determine su propio reglamento.
 
-###### Artículo 165.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo II. De la comunicación con la ciudadanía
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 222.
 
 El Gobierno del Estado dispondrá lo necesario para que, a través de un sistema de comunicación telefónica, los habitantes de la entidad, en casos de emergencia, establezcan contacto en forma rápida y eficiente con las instituciones de seguridad pública. El cual funcionará las veinticuatro horas.
 
@@ -2289,11 +2859,9 @@ El Consejo Estatal impulsará las acciones necesarias para que el Estado y los m
 
 El servicio tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil y las demás instancias de asistencia, públicas y privadas.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-### Capítulo II. De la comunicación con la ciudadanía
-
-###### Artículo 166.
+###### Artículo 223.
 
 El usuario de una línea telefónica o instrumentos tecnológicos que llame para informar o denunciar emergencias falsas o haga uso indebido del servicio telefónico de emergencia, deberá reponer a las instituciones correspondientes, los gastos erogados con motivo de la movilización de elementos y equipo de auxilio, más una multa de diez a veinte veces el valor de lo erogado.
 
@@ -2301,47 +2869,57 @@ Al que indebidamente y de manera reiterada denuncie o reporte situaciones falsas
 
 El Centro Integral de Comunicaciones será responsable de identificar y registrar las líneas telefónicas infractoras o reincidentes.
 
-###### Artículo 167.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 224.
 
 La ciudadanía cuando lo solicite, podrá conocer sobre las personas que detienen las instituciones de seguridad pública, y estas últimas tendrán la obligación, conforme al reglamento, de aportar la información que lo permita.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-###### Artículo 168.
+###### Artículo 225.
 
 En la Fiscalía General y en cada secretaría, dependencia e institución de seguridad pública del Estado y los municipios, existirá un área especializada para investigar las quejas que los ciudadanos presenten en contra de sus elementos operativos, con capacidad para esclarecer los hechos materia de las mismas, turnándolo a la instancia u órgano competente, independientemente de las acciones penales y responsabilidades administrativas que, en su caso, procedan.
 
 Dicha área no dependerá de ninguna adscripción operativa de las instituciones de seguridad pública; deberá de estar adscrita al despacho del titular de la Fiscalía General o dependencia del Poder Ejecutivo del Estado, o en su caso, al Presidente Municipal o al Síndico del municipio.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-###### Artículo 169.
+###### Artículo 226.
 
 Corresponderá a la Fiscalía General la recepción de las denuncias anónimas que realice la ciudadanía sobre presuntos delitos del orden común o federal a través de vía telefónica, medio electrónico o cualquier otro medio de comunicación que surja o se implemente para este fin, así como dar trámite ante las autoridades competentes y seguimiento oportuno a los casos que se le presenten por este servicio.
 
-La respectiva unidad de la Fiscalía General utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias relacionada con las denuncias anónimas concernientes a hechos presuntamente delictuosos.
+La respectiva unidad de la Fiscalía General utilizará los métodos de investigación que garanticen la recopilación técnica y científica de evidencias relacionada (sic) con las denuncias anónimas concernientes a hechos presuntamente delictuosos.
 
-###### Artículo 170.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+## Título Noveno (Sic). De los servicios de seguridad privada
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 227.
 
 Corresponde al Estado la función de seguridad pública. Sin embargo, cuando las circunstancias lo permitan se podrá autorizar a particulares la prestación del servicio de seguridad privada, bajo los requisitos, condiciones, modalidades y regulaciones que fijen la presente ley y el Reglamento de los Servicios de Seguridad Privada.
 
 El servicio de seguridad privada es aquel que se presta por personas físicas o jurídicas legalmente constituidas y registradas en los términos de la ley y el reglamento específico, con la finalidad de proteger la integridad física de quienes los contraten, así como vigilar o custodiar los bienes, valores o el traslado de los mismos, siempre que hayan obtenido la autorización correspondiente del Consejo Estatal, el cual será distinto al que prestan los cuerpos de seguridad pública.
 
-###### Artículo 171.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 228.
 
 Para los efectos de esta ley, los servicios de seguridad privada solamente podrán prestarse en las siguientes modalidades:
 
-I. Protección y vigilancia:
+l. Protección y vigilancia:
 
-a) De bienes muebles o inmuebles, y
+a) De bienes muebles o inmuebles; y
 
 b) De personas físicas.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2017)</small>
-
 La protección de personas físicas sólo podrá prestarse a través de empresas privadas autorizadas conforme a esta ley, sus reglamentos y otras disposiciones aplicables.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2017)</small>
 
 Quedan (sic) prohibida la protección de personas físicas no autorizadas conforme al párrafo anterior.
 
@@ -2349,87 +2927,103 @@ II. Custodia y vigilancia de bienes o valores;
 
 III. Traslado y protección de bienes o valores;
 
-IV. Instalación o comercialización de blindajes en todo tipo de vehículos automotores y de equipos, prendas de vestir, dispositivos, aparatos, sistemas o procedimientos técnicos especializados relacionados con el blindaje, en todo caso lo anterior señalado será pormenorizado por el reglamento, y
+IV. Instalación o comercialización de blindajes en todo tipo de vehículos automotores y de equipos, prendas de vestir, dispositivos, aparatos, sistemas o procedimientos técnicos especializados relacionados con el blindaje, en todo caso lo anterior señalado será pormenorizado por el reglamento; y
 
 V. Sistemas de alarmas, instalación y monitoreo electrónico, exceptuándose la instalación y comercialización de alarmas en vehículos automotores.
 
-### Capítulo Único
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-###### Artículo 172.
+###### Artículo 229.
 
 Dentro de las modalidades mencionadas en el artículo anterior serán considerados como servicios de seguridad privada los siguientes:
 
-I. El realizado por personas y cuerpos privados de seguridad pertenecientes a organismos e instituciones de servicios financieros o análogos, incluyendo el servicio prestado por éstos para la protección, vigilancia o custodia y traslado de bienes o valores;
+l. El realizado por personas y cuerpos privados de seguridad pertenecientes a organismos e instituciones de servicios financieros o análogos, incluyendo el servicio prestado por éstos para la protección, vigilancia o custodia y traslado de bienes o valores;
 
 II. El que se preste en áreas urbanas como colonias, fraccionamientos y zonas residenciales, aunque dichos servicios sean a costa de los residentes de esos lugares;
 
-III. El organizado internamente por industrias, establecimientos fabriles o comerciales para vigilancia interior de los locales, sin importar la existencia de una relación laboral o de prestación de servicios profesionales entre los encargados de ejecutar los servicios y la unidad económica que los contrate, y
+III. El organizado internamente por industrias, establecimientos fabriles o comerciales para vigilancia interior de los locales, sin importar la existencia de una relación laboral o de prestación de servicios profesionales entre los encargados de ejecutar los servicios y la unidad económica que los contrate; y
 
 IV. Los particulares que se dediquen a la compraventa y fabricación de cualquier tipo de equipo y artículo de seguridad conforme al reglamento.
 
 En estos casos, sólo se tendrá la obligación de registrarse ante el Consejo Estatal, a través de su Secretaría Ejecutiva, previa opinión favorable de la Secretaría, y cumplir con las obligaciones que determine el reglamento.
 
-### Capitulo Único. De los delitos
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-###### Artículo 173.
+###### Artículo 230.
 
 Los organismos, compañías, grupos e individuos que por sí o por terceros presten los servicios de seguridad privada enumerados en los artículos anteriores, además de los requisitos que señale el reglamento respectivo, deberán sujetarse a los siguientes lineamientos:
 
-I. Queda estrictamente prohibida la realización de actividades que sean competencia del Ministerio Público o de los cuerpos de seguridad pública;
+l. Queda estrictamente prohibida la realización de actividades que sean competencia del Ministerio Público o de los cuerpos de seguridad pública;
 
 II. No deberán utilizar las denominaciones de "policía", "agentes", o "investigadores" en su publicidad, documentos o bienes, debiendo identificarse como elementos de seguridad privada. También queda prohibido a estos elementos usar el escudo nacional, del Estado o municipios, logotipos, lemas o uso de claves operativas para la comunicación de las instituciones de seguridad pública;
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 III. Tendrán obligación de informar a la Fiscalía General de los movimientos administrativos de sus elementos;
 
 IV. Deberán denunciar de inmediato al Ministerio Público cuando tengan conocimiento de la comisión de un delito;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
 V. Para acreditar ante la Fiscalía General los elementos que integren los servicios de seguridad privada, deberán cumplir los requisitos que se establezcan para el ingreso a las instituciones de seguridad pública; y
 
 VI. Los demás que señalen otras disposiciones legales aplicables.
 
-###### Artículo 174.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 231.
 
 Los particulares que cuenten con autorización federal para prestar los servicios de seguridad privada y realicen actividades en el estado, tendrán la obligación de registrarse ante el Consejo Estatal y refrendar anualmente dicho registro, en los términos y bajo las condiciones que se determinen en el reglamento de la materia.
 
-###### Artículo 175.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 232.
 
 Corresponde al Ejecutivo del Estado, a través de las dependencias, organismos y unidades administrativas que resulten competentes de conformidad con lo establecido en la presente ley y el reglamento de la materia, lo siguiente:
 
-I. Supervisar permanentemente al personal, instalaciones, equipo y operaciones de los cuerpos de seguridad privada que realicen actividades en el estado;
+l. Supervisar permanentemente al personal, instalaciones, equipo y operaciones de los cuerpos de seguridad privada que realicen actividades en el estado;
 
-II. Sancionar a las personas físicas o morales que presten servicios de seguridad privada cuando incurran en las infracciones que señale el reglamento respectivo, y
+II. Sancionar a las personas físicas o morales que presten servicios de seguridad privada cuando incurran en las infracciones que señale el reglamento respectivo; y
 
 III. Ordenar a las instituciones públicas o privadas, a través de la Secretaría, las medidas en materia de seguridad pública que adopten para mejorar las condiciones de protección de bienes, valores y servicios que se presten, previo el estudio técnico emitido por cualquiera de las instituciones enumeradas en el artículo 26 de esta ley.
 
-###### Artículo 176.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+## Título Décimo. De los delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+### Capitulo Único. De los delitos
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 233.
 
 Se impondrá, de uno a dos años de prisión y multa de cien a seiscientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción a quien, siendo autoridad con mando sobre o en las instituciones de seguridad pública, de procuración de justicia o del sistema penitenciario, no se coordine en el ámbito de sus atribuciones con otra u otras de las antes mencionadas, diversas a él, a pesar de haber sido requerido por escrito para realizar acciones y operativos conjuntos de las instituciones de seguridad pública o procuración de justicia.
 
-###### Artículo 177.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 234.
 
 Se sancionará con dos a ocho años de prisión y de quinientos a mil días multa a quien:
 
-I. Ingrese dolosamente a las bases de datos del sistema previstos en esta ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan, y
+l. Ingrese dolosamente a las bases de datos del sistema previstos en esta ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan; y
 
 II. Asigne nombramiento de elemento operativo a persona que no haya sido certificada y registrada en los términos de esta ley.
 
 Si el responsable es o hubiere sido servidor público de las instituciones de seguridad pública, se impondrá hasta una mitad más de la sanción privativa de la libertad correspondiente, y además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público en cualquier orden de gobierno, y en su caso, la destitución.
 
-###### Artículo 178.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 235.
 
 Las sanciones previstas en este capítulo se impondrán sin perjuicio de las penas que correspondan por otros delitos previstos en los ordenamientos penales federales, según corresponda.
 
-###### Artículo 179.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 236.
 
 Se impondrán de dos a ocho años de prisión y multa de cien a seiscientos días de salario mínimo e inhabilitación por los años a los que haya sido condenado por pena de prisión, a quien actúe indebidamente de manera dolosa o con culpa en la aplicación de los procedimientos o lineamientos relativos a las evaluaciones de control de confianza.
 
-###### Artículo 180.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
+###### Artículo 237.
 
 Las autoridades del Estado serán las competentes para conocer y sancionar los delitos previstos en este capítulo.
 
@@ -2451,7 +3045,7 @@ SEPTIMO. Se autoriza al titular del Poder Ejecutivo del Estado y a los municipio
 
 OCTAVO. A partir de la entrada en vigor de la presente ley, en las leyes, reglamentos, decretos, circulares, acuerdos, oficios, juicios, procedimientos administrativos, tratados, contratos, convenios, donde sea mencionada la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se entenderá que se trata de la Secretaría de Seguridad Pública, Prevención y Reinserción Social, sin menoscabo a lo anterior el Poder Ejecutivo deberá adecuar los respectivos reglamentos de conformidad a lo dispuesto por el presente decreto.
 
-NOVENO. Todos los integrantes de las instituciones de seguridad pública deberán contar con el certificado a que se refieren el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, en los términos y plazos previstos en los artículos tercero y cuarto transitorios de la Lley General del Sistema Nacional de Seguridad Pública. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en la presente ley y demás disposiciones legales aplicables.
+NOVENO. Todos los integrantes de las instituciones de seguridad pública deberán contar con el certificado a que se refieren el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema de Seguridad Pública para el Estado de Jalisco, en los términos y plazos previstos en los artículos tercero y cuarto transitorios de la Ley General del Sistema Nacional de Seguridad Pública. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en la presente ley y demás disposiciones legales aplicables.
 
 DÉCIMO. Se otorga entera validez y reconocimiento a los certificados y evaluación emitidos con anterioridad a la vigencia de esta ley, por el Centro Estatal de Evaluación y Control de Confianza, los centros federales y los de los estados de conformidad con la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -2546,10 +3140,6 @@ P.O. 17 DE NOVIEMBRE DE 2015.
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 24 DE MAYO DE 2016.
-
-## Título Noveno. De los servicios de seguridad privada
-
-## Título Décimo. De los delitos contra el funcionamiento del Sistema Estatal De Seguridad Pública
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 25832/LXI/16 QUE REFORMA LOS ARTÍCULOS 3, 160, 161, 162 Y 163 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO Y LOS ARTÍCULOS 6° Y 21 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO".]
 
@@ -2656,3 +3246,23 @@ P.O. 17 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25826/LXI/16 QUE MODIFICA EL ARTÍCULO 62 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26835/LXI/18 QUE EXPIDE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE COORDINACIÓN, COMANDO, CONTROL, COMUNICACIONES Y CÓMPUTO DEL ESTADO DE JALISCO; Y REFORMA LOS ARTÍCULOS 2° Y 3°, ADICIONA UN TÍTULO OCTAVO, DENOMINADO "DEL USO DE LA TECNOLOGÍA Y REDES DE TELECOMUNICACION PARA LA SEGURIDAD PÚBLICA" Y LOS ARTÍCULOS 160 AL 216, RECORRIÉNDOSE EN SU NÚMERO Y ORDEN EL ACTUAL TÍTULO OCTAVO PARA PASAR A SER TÍTULO NOVENO Y LOS ANTERIORES ARTÍCULOS 160 AL 180 PARA PASAR A SER LOS ARTÍCULOS 217 AL 237, DE LA LEY DEL SISTEMA DE SEGURIDAD PARA EL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Transfiéranse al “Escudo Urbano C5” los recursos humanos, financieros, materiales y tecnológicos adscritos al Centro Integral de Comunicaciones, así como aquellos con que cuenta la Dirección General del Centro de Inteligencia y Comunicaciones para la Seguridad, del Comisionado de Seguridad Pública y demás órganos y unidades administrativas de la Fiscalía General que se consideren necesarios para su funcionamiento y, en su oportunidad, sean propuestos por el Director General del C5 y autorizados por el Gobernador del Estado.
+
+Con motivo de la transferencia de personal, se respetarán todos los derechos laborales o aquellos relativos a la relación jurídico administrativa que tienen a la fecha con la Fiscalía General del Estado.
+
+Tercero. Se autoriza al Gobernador del Estado para que por conducto de la Secretaría de Planeación, Administración y Finanzas realice las modificaciones presupuestales y administrativas necesarias para el cumplimiento del presente Decreto.
+
+Cuarto. Una vez designado el Director General del “Escudo Urbano C5”, deberá de convocar en un plazo que no exceda de sesenta días a los miembros de la Junta de Gobierno, para llevar a cabo la primera reunión e instalación de la misma.
+
+Quinto. Así mismo se concede un término de noventa días naturales a partir de la primera sesión de la Junta de Gobierno, para que el Director General del “Escudo Urbano C5” formule y presente para su autorización a la misma, su proyecto de Reglamento Interno, para la posterior remisión al Ejecutivo del Estado.
+
+Sexto. Se concede un término de 180 días naturales para que el Gobernador del Estado expida el Reglamento Interno del Escudo Urbano C5.
+
+Séptimo. Para efectos del artículo Sexto Transitorio del Decreto 26408/LXI/17, hasta en tanto se designa titular del Órgano de Control Interno del organismo público descentralizado que se crea mediante este Decreto, la persona que ocupe la titularidad de la Dirección Jurídica realizará las funciones de dicho Órgano de Control Interno.
