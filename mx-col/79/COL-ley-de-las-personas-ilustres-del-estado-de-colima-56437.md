@@ -4,7 +4,7 @@ identifier: "COL-ley-de-las-personas-ilustres-del-estado-de-colima-56437"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-21"
-last_updated: "2012-02-18"
+last_updated: "2018-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LAS PERSONAS ILUSTRES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 21 de julio de 2007.
 
@@ -93,9 +93,11 @@ h) Por actos extraordinarios, distintos a los enunciados, que hayan sido ejecuta
 
 La memoria de las Personas Ilustres será honrada según lo determine el Decreto que al efecto apruebe el Congreso del Estado en alguna de las formas que se establecen en la presente Ley.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 5°.
 
-El albergue de los restos de las Personas Ilustres del Estado, de quienes el Congreso determine mediante Decreto será aquél que establezcan los Ayuntamientos mediante Acuerdo de Cabildo.
+El reconocimiento y el honor que se rendirá a las Personas Ilustres del Estado, será determinado mediante Decreto, y tendrán lugar en el monumento construido expresamente que se denominará ROTONDA DE LOS COLIMENSES ILUSTRES, personas que serán honradas con la colocación de escultura conmemorativa, o en su caso, con la inscripción de su nombre en las columnas de la citada Rotonda.
 
 ###### ARTICULO 6°.
 
@@ -117,11 +119,19 @@ La rendición de realizar homenajes a los y las colimenses Ilustres del Estado, 
 
 ### CAPITULO III. De la integración del expediente y declaración de Personas Ilustres
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 9°.
 
-Las instituciones o ciudadanos que proyecten hacer una propuesta para declarar a un ciudadano o ciudadana Persona Ilustre del Estado, deberá entregar la documentación necesaria al Congreso, misma que deberá turnarse a la Comisión de Educación y Cultura, debiéndose acreditar en dicha documentación las acciones o servicios realizados por el colimense ilustre propuesto y sus hechos o acciones en beneficio de nuestra entidad o de la sociedad colimense en general.
+Cualquier persona o institución colimenses podrán proponer al Honorable Congreso del Estado, mediante escrito dirigido a la Comisión de Educación y Cultura, a la persona o personas que considere sean merecedoras de la declaración de Persona Heroica o Persona Ilustre, debiendo acompañar a su proposición los siguientes requisitos que integrarán el expediente respectivo:
+
+I. La biografía de la persona propuesta, con cuando menos los hechos, acontecimientos y logros más significativos;
+
+II. La justificación o los razonamientos para hacer la propuesta;
+
+III. La información de las instituciones que, a consideración del proponente, pueden ser consultadas por su reconocida experiencia o capacidad en el estudio de la obra y de las acciones del personaje propuesto; y
+
+IV. La información o la fuente de la misma, que a juicio del proponente, aporte elementos esenciales para la emisión positiva del dictamen correspondiente.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
@@ -129,11 +139,19 @@ Las instituciones o ciudadanos que proyecten hacer una propuesta para declarar a
 
 Para la debida integración del expediente a que se refiere el artículo anterior, la Comisión de Educación y Cultura del Congreso del Estado, deberá allegarse de la información requerida mediante pruebas necesarias, documentos, testimoniales, exámenes periciales, reconocimientos, premios, confesiones, y demás elementos que demuestren, funden y motiven otorgar el reconocimiento del mérito de Persona Ilustre del Estado de Colima.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2018)</small>
+
+La Comisión de Educación y Cultura deberá dar difusión a las propuestas de Persona Heroica o Persona Ilustre que estén en estudio, con el propósito de que cualquier persona o entidad aporte de forma libre, documentos, testimoniales, información, confesiones o cualquier dato que nutra el expediente o sirva para fortalecer el dictamen correspondiente.
+
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 11.
 
 Una vez Integrado el expediente respectivo, la Comisión de Educación y Cultura, estudiará todos los elementos de prueba, escuchando la opinión de la Comisión Para Honrar la Memoria de las Personas Ilustres del Estado de Colima, pudiendo hacer las consultas que se estimen necesarias en las instituciones públicas y privadas que considere convenientes, debiendo contar inclusive con la colaboración de los proponentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2018)</small>
+
+La Comisión de Educación y Cultura deberá, para el análisis y dictaminación de la propuesta de la Persona Heroica o la Persona Ilustre, contar con al menos una opinión por escrito de la Sociedad Colimense de Estudios Históricos, de la Asociación de Cronistas, de una Universidad Pública de la entidad, o sus afines.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
@@ -167,35 +185,47 @@ Una vez aprobado el dictamen y publicado el Decreto correspondiente, el Gobernad
 
 ### CAPITULO IV. De la conformación de la Comisión para honrar la memoria de las Personas Ilustres del Estado de Colima
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 17.
 
-Con el fin de rendir homenaje a una o varias personas en favor de quienes en los términos de la presente Ley, se consideren Ilustres, se conformará una Comisión que propondrá honrar la memoria de las mismas.
+Con el fin de rendir homenaje a una o varias personas en favor de quienes en los términos de la presente Ley, se consideren Heroicas o Ilustres, se conformará una Comisión para honrar la memoria de las mismas.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 18.
 
-Esta Comisión será presidida por el Gobernador del Estado y fungirá como Secretario Técnico el Titular de la Secretaría de Cultura integrándose además:
+Esta Comisión será presidida por el Gobernador del Estado y fungirá como Secretario Técnico el Titular de la Secretaria de Cultura integrándose, además:
 
-I. El Presidente del H. Congreso del Estado;
+I.- Secretario de Infraestructura y Desarrollo Urbano;
 
-II. El Magistrado Presidente del H. Supremo Tribunal de Justicia en el Estado;
+II.- Presidente del H. Congreso del Estado;
 
-III. El titular de la Secretaría de Educación en el Estado;
+III.- El Magistrado Presidente del H. Supremo Tribunal de Justicia en el Estado;
 
-IV. El Rector de la Universidad de Colima y el Director del Instituto Tecnológico de Colima;
+IV.- El titular de la Secretaría de Educación en el Estado;
 
-V. El representante de la Asociación Colimense de Periodistas y Escritores;
+V.- El Rector de la Universidad de Colima y el Director del Instituto Tecnológico de Colima;
 
-VI. El representante del Club de Reporteros de Colima;
+VI.- El representante de la Asociación Colimense de Periodistas y Escritores;
 
-VII. El representante de la Cámara de la Industria de Radio y Televisión en el Estado;
+VII.- El representante del Club de Reporteros de Colima;
 
-VIII. El Presidente de la Asociación de Cronistas en el Estado;
+VIII.- El representante de la Cámara de la Industria de Radio y Televisión en el Estado;
 
-IX. El Instituto Colimense de la Mujer;
+IX.- El Presidente de la Asociación de Cronistas en el Estado;
 
-X. El representante del sector privado en la Entidad, que debe ser propuesto por los organismos empresariales como la Cámara Nacional de Comercio (CANACO), la Cámara Mexicana de la Industria de la Construcción (CMIC), la Cámara Nacional de la Industria de la Transformación (CANACINTRA), la Confederación Patronal Mexicana (COPARMEX y la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados (CANIRAC); y
+X.- El Instituto Colimense de la Mujer;
 
-XI. El Presidente de la Junta de Asistencia Privada.
+XI.- El representante del sector privado en la Entidad, que debe ser propuesto por los organismos empresariales como la Cámara Nacional de Comercio (CANACO), la Cámara Mexicana de la Industria de la Construcción (CMIC), la Cámara Nacional de la Industria de la Transformación (CANACINTRA), la Confederación Patronal Mexicana (COPARMEX) y la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados (CANIRAC);
+
+XII.- El Presidente de la Junta de Asistencia Privada;
+
+XIII.- El Presidente Municipal del H. Ayuntamiento, sede de la Rotonda de los Colimenses Ilustres; y
+
+XIV.- Un representante de la Sociedad Colimense de Estudios Históricos.
+
+Cada uno de los titulares o instancias integrantes de la Comisión podrán designar a un suplente. Las convocatorias de sesión de la Comisión se harán por medio del Gobernador del Estado. La Comisión determinará las reglas conforme a las cuales se tomarán decisiones a su interior, en las que se contemplará el voto de calidad del Presidente.
 
 ###### ARTICULO 19.
 
@@ -211,9 +241,17 @@ II. Presentar ante las instancias correspondientes, toda clase de proyectos que 
 
 III. Organizar visitas y homenajes públicos donde participen grupos de estudiantes, niños, jóvenes y adultos de los diversos municipios de la entidad y de otros lugares del país y del extranjero;
 
-IV. Emitir opinión para declarar Ilustre a determinada persona y sus restos sean depositados en la Rotonda; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2018)</small>
 
-V. Las demás que señale la presente Ley.
+IV. Emitir opinión, para declarar Ilustre a determinada persona y sus restos sean depositados en la Rotonda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2018)</small>
+
+V. Garantizar el mantenimiento, la conservación, la limpieza y el mejoramiento de las instalaciones y las edificaciones que conforman la Rotonda de los Colimenses Ilustres, por medio de la Secretaría de Infraestructura y Desarrollo Urbano; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2018)</small>
+
+VI. Las demás que señale la presente Ley.
 
 T R A N S I T O R I O:
 
@@ -236,3 +274,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 18 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 494 POR EL QUE SE REFORMAN LOS ARTÍCULOS 5°, 9°, 10, 11, 17, 18 Y 20 DE LA LEY DE LAS PERSONAS ILUSTRES DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 345, PUBLICADO EL 23 DE JULIO DE 2001 EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
