@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2018-02-03"
+last_updated: "2018-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -2183,9 +2183,9 @@ IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar 
 
 V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2018)</small>
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieran designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el juez resolverá lo conducente, tomando en cuenta las circunstancias especificas, posibilidades y capacidades del padre, la madre o de la persona que conforme al interés superior de los hijos sea más conveniente para éstos, con la obligación del que tiene la custodia de permitir la convivencia con el otro progenitor o progenitores, si es el caso. Salvo que exista peligro para el normal desarrollo de los hijos, los menores de doce años deberán quedar provisionalmente al cuidado de la madre.
+VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieran designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el juez resolverá lo conducente tomando como principio rector el interés superior de la niñez, a fin de lograr un estudio objetivo de las aptitudes reales de los padres, que resulte acorde al principio de igualdad, con la obligación del que tenga la custodia de permitir la convivencia con el otro progenitor o progenitores, si es el caso;
 
 > <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
 
@@ -7183,7 +7183,7 @@ I.- Haya aplicado en forma adecuada el procedimiento acordado previamente con el
 
 II.- El mensaje de datos que reciba el destinatario o la parte que confía, resulte de los actos de un Intermediario que le haya dado acceso a algún método utilizado por el emisor para identificar un mensaje de datos como propio.
 
-Lo dispuesto en el presente artículo no se aplicará:
+Lo dispuesto en el artículo no se aplicará:
 
 I.- A partir del momento en que el destinatario haya sido informado por el Emisor de que el mensaje de datos no provenía de éste, y haya dispuesto de un plazo razonable para actuar en consecuencia; y
 
@@ -11502,5 +11502,11 @@ P.O. 5 DE AGOSTO DE 2017.
 P.O. 3 DE FEBRERO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 440 POR EL QUE SE REFORMA EL ARTÍCULO 705 Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 1212 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 490 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 282 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO 212 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
