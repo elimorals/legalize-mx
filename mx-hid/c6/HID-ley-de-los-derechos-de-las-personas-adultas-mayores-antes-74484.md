@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2017-12-04"
+last_updated: "2018-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -85,7 +85,9 @@ III.- Ley.- La presente Ley de los Derechos de los Adultos Mayores del Estado de
 
 IV.- Geriatría.- Rama de la medicina interna, y a su vez de la gerontología, que se ocupa no sólo de la prevención y asistencia de las enfermedades que presentan los adultos mayores, sino también de su recuperación funcional y de su reinserción a la comunidad;
 
-V.- Gerontología.- Ciencia que estudia los procesos de envejecimiento desde una perspectiva biológica, psicológica y social;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+V.- Gerontología: Disciplina que estudia los procesos de envejecimiento desde una perspectiva biológica, psicológica y social, que tiene por fin mantener, recuperar, rehabilitar, mejorar y prolongar la vida de los adultos mayores.
 
 VI.- Tanatología.- Estudio integral y multidisciplinario que reúne en su quehacer, elementos sociales que influyen en cada individuo y busca resolver las situaciones conflictivas que existen en torno a la muerte, cuyo servicio final consiste en procurar una muerte digna con cuidados paliativos, psicológicos y sociales;
 
@@ -97,9 +99,11 @@ IX.- Calidad del Servicio.- Conjunto de características que confieren al servic
 
 X.- Instituto.- Instituto para la Atención de los Adultos Mayores del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2018)</small>
+
 ###### Artículo 5.
 
-Toda institución pública y privada que brinde servicios a los adultos mayores deberá contar con la Reglamentación, la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad.
+Toda institución pública y privada que brinde servicios a los adultos mayores deberá contar con la Reglamentación, la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos.
 
 ### CAPÍTULO II. PRINCIPIOS, DERECHOS Y OBLIGACIONES
 
@@ -133,7 +137,9 @@ Así mismo recibirá información referente a los derechos laborales contemplado
 
 III.- Derecho a la salud y a una alimentación nutritiva, suficiente y de calidad.- Tener acceso a los servicios generales de salud; recibir orientación en materia de nutrición, higiene y servicios de Geriatría, Gerontología y Tanatología, en su caso, así como a todo aquello que favorezca su cuidado personal;
 
-IV.- Derecho a la Familia.- Vivir en el seno de una familia, o a mantener relaciones personales y contacto directo con ella, aun en el caso de estar separados, salvo si ello es contrario a sus intereses; y a expresar sus opiniones libremente;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+IV.- Derecho a la Familia.- Vivir en el seno de una familia, o a mantener relaciones personales que satisfagan sus necesidades afectivas, de protección y apoyo, así como contacto directo con ella, aun en el caso de estar separados, salvo si ello es contrario a sus intereses; y a expresar sus opiniones libremente;
 
 V.- Derecho a la Educación.- Recibir de manera preferente la educación que señala el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 5º de la Constitución Política del Estado de Hidalgo;
 
@@ -169,9 +175,13 @@ IX.- Derecho a la Participación.- A participar en la planeación integral del d
 
 X.- Derecho al Esparcimiento y Diversión.- Gozar de los espacios de esparcimiento, entretenimiento y diversión, que promuevan los Gobiernos Estatal y Municipal y la Sociedad Civil, en materia turística de cultura y recreación;
 
-XI.- Derecho a una vida libre de violencia.- A recibir un trato respetuoso en su integridad física y psicológica; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2018)</small>
 
-XII.- Acceso a los servicios.- Tener una atención preferente en los establecimientos públicos y privados que prestan servicio al público; Implementar medidas para facilitar el uso adecuado de los servicios y establecimientos de uso público; Contar con asientos preferentes en los establecimientos que prestan servicio al público y en los servicios de autotransporte de pasajeros.
+XI.- Derecho a una vida libre de violencia.- A recibir un trato respetuoso en su integridad física y psicológica, así como protección contra todo tipo de abuso, explotación y maltrato; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+XII.- Acceso a los servicios.- Tener una atención preferente en los establecimientos públicos y privados que prestan servicio al público, a tarifas preferenciales, a acciones y medidas para facilitar el uso adecuado de los servicios y establecimientos de uso público, a contar con asientos preferentes en los establecimientos que prestan servicio al público y en los servicios de autotransporte de pasajeros, así como a difundir el catálogo de servicios preferenciales a los cuales sean sujetos, los anteriores de conformidad con los acuerdos y/o convenios realizados.
 
 Toda persona y grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar ante los órganos competentes todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen las materias relacionadas con los adultos mayores.
 
@@ -323,7 +333,9 @@ V.- Publicar tabla nutricional básica para los adultos mayores en medios masivo
 
 VI.- Celebrar convenios específicos de colaboración con instituciones y organismos públicos, sociales y privados que brinden orientación de alimentos y nutrición a los adultos mayores;
 
-VII.- Promover la coordinación con las Instituciones Federales y Locales de salud y educación, para implementar programas de sensibilización y capacitación con el objeto de favorecer la convivencia familiar con los adultos mayores, para que esta sea armónica;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+VII.- Promover la coordinación con las Instituciones Federales y Locales de salud y educación, para implementar programas de sensibilización y capacitación al personal y a las familias con el objeto de favorecer la convivencia con los adultos mayores, para que esta sea armónica.
 
 VIII.- Implementar en coordinación con las instituciones Federales en el Estado, programas de estímulos e incentivos a los adultos mayores que estudien; y
 
@@ -684,3 +696,11 @@ P.O. 4 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO. NÚMERO. 238 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 21 DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 438 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO Y DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
