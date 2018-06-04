@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-del-deporte-del-estado-de-67294
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-02-09"
-last_updated: "2017-09-25"
+last_updated: "2018-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2018.
 
 Estatuto publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 23 de agosto de 2010.
 
@@ -60,15 +60,23 @@ VIII. "SECRETARIO TÉCNICO" Al Secretario Técnico de la Junta Directiva del Ins
 
 IX. "PROSECRETARIO" Al Prosecretario que suplira las ausencias del Secretario Tecnico de la Junta Directiva del Instituto del Deporte del Estado de Aguascalientes.
 
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+X. “LEY PARA EL CONTROL”.- A la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+XI. “LEY DE RESPONSABILIDADES”.- A la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
 ###### Artículo 3°.
 
 "EL IDEA" como Organismo Público Descentralizado con personalidad jurídica, patrimonio propio, autonomía de gestión e independencia en sus decisiones, tiene a su cargo el despacho de los asuntos que le encomiendan "LA LEGISLACIÓN DEL DEPORTE", así acuerdos circulares y órdenes que emita "LA JUNTA DIRECTIVA" de "EL IDEA", lo anterior de conformidad con lo establecido en el artículo 13 de la Ley de Cultura Física y Deporte del Estado de Aguascalientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JUNIO DE 2018)</small>
 
 ###### Artículo 4°.
 
-Para el estudio, planeación, y ejercicio de las atribuciones y funciones de los asuntos de su competencia, "EL IDEA" contará con los siguientes:
+Para el estudio, planeación y ejercicio de las atribuciones y funciones de los asuntos de su competencia, “EL IDEA” contará con la siguiente estructura:
 
 I. Órganos de Gobierno, los cuales regirán el funcionamiento de "EL IDEA":
 
@@ -93,6 +101,14 @@ e) Dirección de Comunicación Social; y
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 f) Dirección de Planeación
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+III. Órgano de Control y Evaluación:
+
+a) Órgano de Vigilancia; y
+
+b) Órgano Interno de Control.
 
 ###### Artículo 5°.
 
@@ -122,9 +138,11 @@ Los integrantes de "LA JUNTA DIRECTIVA" designarán mediante oficio ante "LA JUN
 
 Los integrantes de "LA JUNTA DIRECTIVA" ostentarán el cargo a título honorífico.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2018)</small>
+
 ###### Artículo 11.
 
-En la preparación y desarrollo de las sesiones, así como en la vigilancia del seguimiento de los acuerdos adoptados, "LA JUNTA DIRECTIVA" se auxiliará de un "SECRETARIO TÉCNICO", cargo que recaerá en "EL DIRECTOR GENERAL" de "EL IDEA" mismo que será el encargado de llevar a cabo los trabajos de levantar las actas y comunicar las determinaciones y acuerdos a todos los miembros de "LA JUNTA DIRECTIVA", así mismo tendrá la obligación de asistir a todas las sesiones que ésta celebre.
+En la preparación y desarrollo de las sesiones, así como en la vigilancia del seguimiento de los acuerdos adoptados, "LA JUNTA DIRECTIVA" se auxiliará de un "SECRETARIO TÉCNICO", en términos de la "LEY PARA EL CONTROL" quien será el encargado de llevar a cabo los trabajos de levantar las actas y comunicar las determinaciones y acuerdos a todos los miembros de "LA JUNTA DIRECTIVA", así mismo tendrá la obligación de asistir a todas las sesiones que ésta celebre.
 
 ###### Artículo 12.
 
@@ -216,9 +234,11 @@ VII. Las demás atribuciones que les encomiende "LA JUNTA DIRECTIVA".
 
 Para la celebración de las sesiones de "LA JUNTA DIRECTIVA", se emitirá convocatoria por "EL PRESIDENTE", o en su caso, por el "SECRETARIO TÉCNICO" cuando se encuentre autorizado para ello.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2018)</small>
+
 ###### Artículo 22.
 
-A la convocatoria se acompañará el orden del día, así como el apoyo documental de los asuntos a tratar, que se hará llegar a los miembros con una antelación a la fecha de la cita no menor de ocho días hábiles, excepto en sesiones extraordinarias se citará cuando menos con dos días hábiles de anticipación.
+A la convocatoria se acompañará el orden del día, así como el apoyo documental de los asuntos a tratar, que se hará llegar a los miembros con una antelación a la fecha de la cita no menor de cinco días, excepto en sesiones extraordinarias se citará cuando menos con dos días hábiles de anticipación.
 
 ###### Artículo 23.
 
@@ -294,9 +314,11 @@ El acta deberá ser elaborada por duplicado, firmada por todos los asistentes, u
 
 #### SECCIÓN PRIMERA. De Las Facultades del Director General
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2018)</small>
+
 ###### Artículo 30.
 
-El Titular de "EL IDEA", será el encargado, deberá conducir sus actividades conforme a las políticas, prioridades y restricciones que para el logro de los objetivos y metas del Plan Estatal de Desarrollo, Ley de Planeación del Gobierno del Estado y se sujetará a "LA LEGISLACIÓN DEL DEPORTE".
+El Titular de ''EL IDEA", deberá conducir sus actividades conforme a las políticas, prioridades y restricciones que para el logro de los objetivos y metas del Plan Estatal de Desarrollo, Ley de Planeación del Gobierno del Estado y se sujetará a "LA LEGISLACIÓN DEL DEPORTE".
 
 ###### Artículo 31.
 
@@ -320,7 +342,7 @@ Son facultades indelegables de "EL DIRECTOR GENERAL":
 
 I. Proponer a "LA JUNTA DIRECTIVA", los proyectos de Iniciativa de leyes, reglamentos, decretos, acuerdos, manuales de organización, de procedimientos, las reformas que se le hicieran a los instrumentos jurídicos existentes para su trámite legal conducente;
 
-II. Refrendar, para su validez y observancia, los decretos, reglamentos y acuerdos expedidos por el Gobierno del Estado sobre los asuntos materia competencia de "EL IDEA";
+II. (DEROGADA, P.O. 4 DE JUNIO DE 2018)
 
 III. Comparecer ante el Congreso del Estado, a informar de algún asunto a su cargo, cuando para ello sea requerido formalmente;
 
@@ -334,9 +356,11 @@ V. Las demás que se señalen en otras leyes, reglamentos o disposiciones legale
 
 Son facultades delegables de "EL DIRECTOR GENERAL", con exclusión de las facultades previstas en el artículo 21 fracción XXXIV y el artículo 22 de "LA LEY".
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JUNIO DE 2018)</small>
+
 ###### Artículo 37.
 
-"EL DIRECTOR GENERAL" además de las facultades que le confiera o delegue "LA JUNTA DIRECTIVA" así mismo ejercerá las atribuciones que establece el artículo 20 de "LA LEY", contando entre otras las siguientes:
+"EL DIRECTOR GENERAL" además de las facultades que le confiera o delegue "LA JUNTA DIRECTIVA" así mismo ejercerá las atribuciones que establece "LA LEY", contando entre otras las siguientes:
 
 I. Representar a "EL IDEA" legalmente y ejercer las funciones que a ésta le correspondan;
 
@@ -366,9 +390,21 @@ XIII. Crear y nombrar a los integrantes de las comisiones internas y externas ne
 
 XIV. Desempeñar el cargo de "SECRETARIO TÉCNICO" en "LA JUNTA DIRECTIVA" de "EL IDEA";
 
-XV. Dirigir y coordinar los esfuerzos de la estructura orgánica de "EL IDEA"; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2018)</small>
 
-XVI. Las demás que le señalen "LA LEGISLACIÓN DEL DEPORTE".
+XV. Dirigir y coordinar los esfuerzos de la estructura orgánica de "EL IDEA";
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+XVI. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación del Instituto del Deporte del Estado de Aguascalientes se realicen de acuerdo con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2018)</small>
+
+XVII. Rendir los informes trimestrales que le presenten las Unidades del Órgano Interno de Control, ante la Junta de Gobierno, con apego a los principios de transparencia y rendición de cuentas, cuidando en todo momento la protección de los datos personales; y
+
+> <small>(ADICIONADA [N. DE REFORMADO], P.O. 4 DE JUNIO DE 2018)</small>
+
+XVIII. Las demás que le señalen las disposiciones legales aplicables.
 
 #### SECCIÓN SEGUNDA. De las Facultades Genéricas de las Direcciones y Coordinaciones de Área
 
@@ -448,11 +484,11 @@ La Secretaría Técnica depende directamente de "EL DIRECTOR GENERAL" y su titul
 
 I. Atender los asuntos turnados a "EL IDEA" por instancias de Gobierno, dando respuesta previo acuerdo de "EL DIRECTOR GENERAL" y su seguimiento hasta finiquitarlos en términos de las disposiciones aplicables y de "LA LEY" y "LA LEGISLACIÓN DEL DEPORTE";
 
-II. Dar seguimiento a los acuerdos emanados de las Sesiones Ordinaria, Extraordinarias de la "LA JUNTA DIRECTIVA" hasta su cumplimiento;
+II. (DEROGADA, P.O. 4 DE JUNIO DE 2018)
 
-III. Coadyuvar en la convocatoria y celebración de las Sesiones del "LA JUNTA DIRECTIVA";
+III. (DEROGADA, P.O. 4 DE JUNIO DE 2018)
 
-IV. Elaborar las actas que se generen de las Sesiones de la "LA JUNTA DIRECTIVA"; y obtener para éstas la firma de sus miembros;
+IV. (DEROGADA, P.O. 4 DE JUNIO DE 2018)
 
 V. Dar respuesta a asuntos de trámite de organismos y ciudadanos, previo acuerdo de "EL DIRECTOR GENERAL" y estar pendiente de su seguimiento hasta su conclusión;
 
@@ -466,7 +502,7 @@ IX. Coadyuvar en la organización de los eventos que forman parte del desarrollo
 
 X. Apoyar a otros organismos en la organización de eventos de tipo deportivo, cuando así lo soliciten;
 
-XI. Revisar los convenios que deba suscribir "EL DIRECTOR GENERAL";
+XI. (DEROGADA, P.O. 4 DE JUNIO DE 2018)
 
 XII. Revisar los proyecto (sic) de obra para Infraestructura Deportiva;
 
@@ -740,7 +776,7 @@ VIII. Coordinar, supervisar y distribuir los materiales informativos y de difusi
 
 IX. Gestionar, promover y regular la transmisión por radio y televisión de materiales informativos y de difusión de "EL IDEA" y demás actividades relacionadas con el deporte, que autorice "EL DIRECTOR GENERAL";
 
-X. Elaborar los diseños que se utilicen en las publicaciones relacionadas con "EL IDEA", debiendo atender las políticas emitidas por la Coordinación de Comunicación Social de Gobierno del Estado , y en su caso, coordinarse para la difusión de la imagen institucional; y
+X. Elaborar los diseños que se utilicen en las publicaciones relacionadas con "EL IDEA", debiendo atender las políticas emitidas por la Coordinación de Comunicación Social de Gobierno del Estado, y en su caso, coordinarse para la difusión de la imagen institucional; y
 
 XI. Realizar las funciones que las disposiciones legales le confiera y las que le asigne "EL DIRECTOR GENERAL", que sean de naturaleza similar a las señaladas en las fracciones que anteceden.
 
@@ -776,33 +812,189 @@ X. Supervisar y vincular todo lo relacionado con la programación anual de curso
 
 XI. Supervisar, vincular y reportar todo lo relacionado con los informes mensuales de actividades programadas por las diferentes instancias de "EL IDEA", conforme a las indicaciones, acuerdos y convenios realizados por "EL DIRECTOR GENERAL";
 
-> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPÍTULO XI], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2018)</small>
 
-### CAPÍTULO XII. De la Suplencia de los Servidores Públicos del IDEA
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+### CAPÍTULO XII. De la Designación, Remoción y Suplencia
 
 ###### Artículo 49.
 
-En las sesiones ordinarias o extraordinarias el "SECRETARIO TÉCNICO" de "LA JUNTA DIRECTIVA", será suplido en sus ausencias temporales o accidentales, por el "PROSECRETARIO".
+(DEROGADO, P.O. 4 DE JUNIO DE 2018)
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2018)</small>
 
 ###### Artículo 50.
 
-"EL DIRECTOR GENERAL" será suplido en sus ausencias temporales o accidentales menores a treinta días por los Directores en el ámbito de sus competencias o el servidor púbico de la jerarquía inmediata inferior que ellos designen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
+"EL DIRECTOR GENERAL" será suplido en sus ausencias temporales menores a 30 días por el Director de cualquiera de las Unidades Administrativas de "EL IDEA" que al efecto designe.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
+En caso de ausencias mayores al término señalado en el párrafo anterior, el Director General será designado por el Ejecutivo de conformidad con la "LEY PARA EL CONTROL".
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2018)</small>
 
 ###### Artículo 51.
 
-Los Directores serán suplidos en sus ausencias temporales o accidentales menores a quince días, por sus Jefes de Departamento en el ámbito de sus competencias o el servidor público de la jerarquía inmediata inferior que ellos designen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
+Las ausencias temporales o accidentales de hasta 30 días, de los Titulares de las Direcciones que conforman la estructura orgánica de "EL IDEA", podrán ser cubiertas por la persona que designe "EL DIRECTOR GENERAL".
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 52.
 
 Los Jefes de Departamento y demás personal de "EL IDEA" serán suplidos en sus ausencias temporales menores a quince días, por el servidor público de la jerarquía inmediata inferior que ellos mismos señalen, si la ausencia es mayor será suplido por quien designe "EL DIRECTOR GENERAL".
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
+
+###### Artículo 53.
+
+Para el caso de los Titulares de las Unidades que integran el Órgano Interno de Control, se estará con lo previsto en la “LEY PARA EL CONTROL”.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO XIII. Órganos de Control y Evaluación
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
+
+###### Artículo 54.
+
+Los Órganos de Control y Evaluación son los responsables de promover, evaluar, mejorar y fortalecer el buen funcionamiento del control interno y gestión, así como estudiar y fiscalizar el ejercicio eficiente de los recursos públicos; además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública, conforme a las disposiciones normativas aplicables en la materia, y son:
+
+I. Órgano de Vigilancia; y
+
+II. Órgano Interno de Control.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
+
+###### Artículo 55.
+
+El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades de "EL IDEA"; estará integrado por un Comisario Público Propietario y un Suplente, designados en los términos establecidos en la "LEY PARA EL CONTROL".
+
+El Comisario Público evaluará el desempeño general y por funciones de "EL IDEA", realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la normatividad aplicable.
+
+Para el cumplimiento de las funciones citadas "LA JUNTA DIRECTIVA" y "EL DIRECTOR GENERAL" deberán proporcionar la información que solicite el Comisario Público de "EL IDEA" y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
+
+###### Artículo 56.
+
+El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de "EL IDEA", además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
+
+###### Artículo 57.
+
+Para el ejercicio de sus funciones, el Órgano Interno de Control contará con la siguiente estructura:
+
+I. Unidad Auditora;
+
+II. Unidad Investigadora; y
+
+III. Unidad Substanciadora y Resolutora.
+
+Los Titulares de dichas Unidades serán designados por el Gobernador del Estado, en los mismos términos que lo son para la designación del Comisario Público, según lo que establezca la “LEY PARA EL CONTROL”.
+
+El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la "LEY DE RESPONSABILIDADES".
+
+El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
+
+###### Artículo 58.
+
+La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tendrá las siguientes funciones:
+
+I. Elaborar y ejecutar, con aprobación del Rector, el programa anual de auditorías a las diversas áreas que conforman "EL IDEA";
+
+II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de "EL IDEA";
+
+III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman "EL IDEA";
+
+IV. Coordinar las acciones a fin de verificar que las áreas que conforman la Universidad cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado;
+
+V. Asistir y participar en el Comité de Adquisiciones y Enajenaciones y en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
+
+VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la Universidad sobre el correcto ejercicio del gasto público;
+
+VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
+
+VIII. Rendir informe trimestral a "LA JUNTA DIRECTIVA", a través de "EL DIRECTOR GENERAL", sobre el estado que guardan los asuntos de su competencia;
+
+IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
+
+X. Asesorar a los servidores públicos y Unidades Administrativas de "EL IDEA" en los asuntos de su competencia;
+
+XI. Participar en los actos de entrega recepción de las Unidades Administrativas; y
+
+XII. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
+
+###### Artículo 59.
+
+La Unidad Investigadora es la encargada de recibir las denuncias y elaborar en su caso el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la “LEY DE RESPONSABILIDADES”, la cual gozará de independencia en el ejercicio de sus funciones, y tendrá las siguientes funciones:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a "EL IDEA" y de particulares, conforme a lo previsto en la "LEY DE RESPONSABILIDADES", y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos a “EL IDEA", así como de los particulares vinculados a faltas graves, de conformidad con la "LEY DE RESPONSABILIDADES";
+
+III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de "EL IDEA" o bien, referidas a faltas de particulares en relación con "EL IDEA";
+
+VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a "EL IDEA" o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos de "EL IDEA" o de los particulares, habilitando para ello al personal del área correspondiente;
+
+VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+
+IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita a "EL IDEA";
+
+X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la "LEY DE RESPONSABILIDADES";
+
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la "LEY DE RESPONSABILIDADES";
+
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XIII. Ordenar medidas de apremio y dictar medidas cautelares;
+
+XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XVI. Rendir informe trimestral a "LA JUNTA DIRECTIVA", a través de “EL DIRECTOR GENERAL”, sobre el estado que guardan los asuntos de su competencia;
+
+XVII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+XVIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2018)</small>
+
+###### Artículo 60.
+
+La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir el procedimiento de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso en términos de lo establecido en la "LEY DE RESPONSABILIDADES", la cual gozará de independencia en el ejercicio de sus funciones, y tendrá las siguientes funciones:
+
+I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Unidad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos de “EL IDEA”, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+
+Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos de “EL IDEA”.
+
+Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+
+En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+
+II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+
+III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
+
+IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+
+V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la "LEY DE RESPONSABILIDADES";
+
+VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+VII. Rendir informe trimestral a "LA JUNTA DIRECTIVA", a través de “EL DIRECTOR GENERAL”, sobre el estado que guardan los asuntos de su competencia;
+
+VIII. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera; y
+
+IX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 
 T R A N S I T O R I O S :
 
@@ -849,3 +1041,23 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los treinta días siguientes a su publicación deberá realizarse la inscripción de la presente reforma en el registro de Entidades Paraestatales a cargo de la Dirección del Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales, de conformidad como lo establece la fracción III del artículo 27 de la Ley de Control de Entidades Paraestatales vigente en el Estado.
+
+P.O. 4 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días siguientes a su publicación deberá realizarse la inscripción de la presente reforma en el registro de Entidades Paraestatales a cargo de la Dirección del Registro Público de la Propiedad y del Comercio del Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales, de conformidad como lo establece la fracción II del artículo 27 de la Ley de Control de Entidades Paraestatales vigente en el Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto del Deporte del Estado de Aguascalientes deberé hacer las modificaciones correspondientes a su manual de organización y operación en un término de 90 días a partir de la entrada en vigor del presente documento.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta Directiva deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días de su publicación.
