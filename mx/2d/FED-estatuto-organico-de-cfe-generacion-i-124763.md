@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-i-124763"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-12"
-last_updated: "2017-12-12"
+last_updated: "2018-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124763&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-27"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN I
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de diciembre de 2017.
 
@@ -805,11 +805,23 @@ La Auditoría Interna, cuyo titular será el Auditor Interno, dependerá jerárq
 
 Las ausencias temporales del Titular de la Auditoría Interna serán suplidas conforme a lo establecido en el Manual de Organización de la Auditoría Interna aprobado por el Consejo de Administración.
 
-## TÍTULO CUARTO. De la instancia en materia de transparencia y acceso a la información
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE JUNIO DE 2018)</small>
+
+## TÍTULO TERCERO BIS. De la Unidad de Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE JUNIO DE 2018)</small>
 
 ### CAPÍTULO ÚNICO
 
-## TÍTULO QUINTO. De la representación y suplencias
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 32 BIS. La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Generación I las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 32 TER. La Unidad de Responsabilidades contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
+
+## TÍTULO CUARTO. De la instancia en materia de transparencia y acceso a la información
 
 ### CAPÍTULO ÚNICO
 
@@ -824,6 +836,10 @@ El titular de la Unidad de Transparencia en CFE Generación I, así como el Comi
 ###### ARTÍCULO 35.
 
 El Comité de Transparencia de CFE Generación I, estará integrado por tres miembros designados por el Director General, entre los que se encontrará invariablemente el Titular de la Unidad de Transparencia. Por cada integrante propietario deberá designarse un suplente.
+
+## TÍTULO QUINTO. De la representación y suplencias
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 36.
 
@@ -862,3 +878,11 @@ SEGUNDO.- Los derechos de los trabajadores no se verán afectados por la restruc
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de CFE Generación I, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación I, en sesión ordinaria celebrada el 14 de marzo de 2017, mediante el Acuerdo Número CA-GI-12/2017.
 
 En la Ciudad de México, a los veintisiete días del mes de noviembre de dos mil diecisiete.- El Director General de CFE Generación I, Manuel Pérez Topete, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación I, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS "ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN I, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 12 DE DICIEMBRE DE 2017".]
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
