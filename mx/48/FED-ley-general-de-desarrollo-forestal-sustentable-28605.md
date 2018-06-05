@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2018-01-19"
+last_updated: "2018-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGDFS"
 ---
 # LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, PUBLICADA EN EL D.O.F. DE 5 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -2627,3 +2629,11 @@ D.O.F. 19 DE ENERO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
+
+D.O.F. 5 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ABROGA LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN, EL 25 DE FEBRERO DE 2003, SE EXPIDE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE; Y SE REFORMA EL PRIMER PÁRRAFO AL ARTÍCULO 105 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL MISMO ARTÍCULO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+Primero. Se abroga la Ley General de Desarrollo Forestal Sustentable publicada en el Diario Oficial de la Federación el 25 de febrero de 2003, con sus posteriores reformas; y se derogan todas las disposiciones que se opongan o contravengan a la nueva Ley General de Desarrollo Forestal Sustentable.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de las disposiciones previstas en el Título Cuarto, Capítulo I, Secciones Segunda, Tercera, Cuarta y Sexta, las cuales entrarán en vigor dentro de los ciento ochenta días hábiles siguientes a la publicación de este Decreto en el Diario Oficial de la Federación. En tanto entran en vigor las disposiciones normativas de la Ley que se expide, los trámites respectivos se seguirán realizando conforme a lo dispuesto en la ley abrogada.
