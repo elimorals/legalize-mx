@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2018-04-23"
+last_updated: "2018-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -2296,11 +2296,15 @@ Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las p
 
 La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y las demás dependencias y entidades competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental que deben realizar previo al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico de la zona.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 105.
 
-En los estímulos fiscales que se otorguen a las actividades forestales, deberán considerarse criterios ecológicos de manera que se promuevan el desarrollo y fomento integral de la actividad forestal, el establecimiento y ampliación de plantaciones forestales y las obras para la protección de suelos forestales, en los términos de esta Ley y de la Ley Forestal.
+En los estímulos fiscales y otros apoyos económicos que se otorguen a las actividades forestales deberán considerarse criterios ecológicos de manera que se promuevan el desarrollo y fomento integral de la actividad forestal, el establecimiento y ampliación de plantaciones forestales y las obras para la protección de suelos forestales, en los términos de esta Ley y de la Ley General de Desarrollo Forestal Sustentable.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2018)</small>
+
+Los apoyos que se otorguen a las actividades agropecuarias tendrán que ser compatibles con la protección de los suelos forestales, de manera que no se realice el cambio de uso de suelo de forestal a agrícola o pecuario.
 
 ###### ARTICULO 106.
 
@@ -4001,3 +4005,19 @@ D.O.F. 23 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ABROGA LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN, EL 25 DE FEBRERO DE 2003, SE EXPIDE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE; Y SE REFORMA EL PRIMER PÁRRAFO AL ARTÍCULO 105 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL MISMO ARTÍCULO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+Primero. Se abroga la Ley General de Desarrollo Forestal Sustentable publicada en el Diario Oficial de la Federación el 25 de febrero de 2003, con sus posteriores reformas; y se derogan todas las disposiciones que se opongan o contravengan a la nueva Ley General de Desarrollo Forestal Sustentable.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de las disposiciones previstas en el Título Cuarto, Capítulo I, Secciones Segunda, Tercera, Cuarta y Sexta, las cuales entrarán en vigor dentro de los ciento ochenta días hábiles siguientes a la publicación de este Decreto en el Diario Oficial de la Federación. En tanto entran en vigor las disposiciones normativas de la Ley que se expide, los trámites respectivos se seguirán realizando conforme a lo dispuesto en la ley abrogada.
+
+Transitorios de la Ley General del Equilibrio Ecológico y la Protección al Ambiente
+
+Primero. La presente Ley entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los programas sujetos a reglas de operación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de la Comisión Nacional Forestal para el ejercicio fiscal 2018 y subsecuentes, deberán observar lo dispuesto en el presente Decreto.
+
+Tercero. Las erogaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría de Medio Ambiente y Recursos Naturales, y para la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, se cubrirán con los recursos que apruebe la H. Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
