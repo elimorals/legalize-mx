@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-869-de-fomento-a-la-investigacion-cientifica-y-41612
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-08"
-last_updated: "2017-11-23"
+last_updated: "2018-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 5 DE JUNIO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 8 de noviembre de 2004.
 
@@ -65,7 +65,9 @@ I. Establecer los criterios, instrumentos y mecanismos para que el Gobierno del 
 
 II. Definir los mecanismos para coordinar las acciones entre las dependencias y entidades públicas del Estado con las demás instituciones que intervienen en programas de desarrollo científico y tecnológico, promoviendo la colaboración interinstitucional e intersectorial en esta materia;
 
-III. Fomentar las capacidades científicas y tecnológicas en el Estado, como instrumentos de promoción del desarrollo sustentable, la competitividad económica, la mejoría de la calidad de vida de la población y la transformación cultural de todos los sectores de la sociedad;
+> <small>(REFORMADA, G.O. 5 DE JUNIO DE 2018)</small>
+
+III. Fomentar las capacidades científicas y tecnológicas en el Estado, como instrumentos de promoción del desarrollo sustentable, la competitividad económica, la mejoría de la calidad de vida de la población, la igualdad de género y la no discriminación y la transformación cultural de todos los sectores de la sociedad;
 
 IV. Definir los medios de concertación, vinculación y participación de la comunidad científica y académica de las instituciones de educación superior y los centros de investigación, los sectores público, social y privado, con el objeto de formular políticas de promoción, difusión, desarrollo y aplicación de la ciencia, la tecnología y la innovación;
 
@@ -79,7 +81,9 @@ VIII. Elaborar un plan estatal en materia de ciencia y tecnología, para aprobar
 
 IX. Crear y regular el Fondo Estatal para el fomento de la Ciencia y la Tecnología;
 
-X. Fortalecer el Sistema de Ciencia y Tecnología del Estado mediante la formación, promoción y capacitación de recursos humanos de alto nivel académico y científico;
+> <small>(REFORMADA, G.O. 5 DE JUNIO DE 2018)</small>
+
+X. Fortalecer el Sistema de Ciencia y Tecnología del Estado mediante la formación, promoción y capacitación de recursos humanos de alto nivel académico y científico, siempre buscando una participación igualitaria entre mujeres y hombres;
 
 XI. Crear y administrar el Sistema Estatal de Información Científica y Tecnológica; y
 
@@ -177,6 +181,10 @@ II. Formular las acciones tendientes a la generación, divulgación y difusión,
 
 III. Cuidar que en el Estado se canalicen recursos públicos y privados, tanto nacionales como extranjeros, para el fomento de la ciencia y la tecnología, gestionar apoyos ante las distintas instancias que le permitan al COVEICYDET apoyar de manera eficiente las actividades de ciencia y tecnología en los términos de la presente Ley;
 
+> <small>(ADICIONADA, G.O. 5 DE JUNIO DE 2018)</small>
+
+III BIS. Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia, la tecnología y la innovación, así como una participación equitativa de mujeres y hombres en todos los ámbitos del Sistema;
+
 IV. Fungir como órgano de consulta y asesoría en materia de ciencia, tecnología e innovación ante el Ejecutivo Estatal, dependencias y entidades de la Administración Pública Estatal, Ayuntamientos, empresas de participación pública estatal, organismos descentralizados y personas físicas y morales que así lo soliciten;
 
 V. Participar en la planeación, programación, coordinación, orientación y sistematización de las actividades relacionadas con la ciencia, la tecnología y la innovación;
@@ -209,7 +217,9 @@ XVIII. Gestionar ante las autoridades competentes, la expedita internación al p
 
 XIX. Otorgar estímulos económicos y/o reconocimiento estatal al mérito de investigación, tanto a instituciones y empresas como a la comunidad científica, que se distingan por su desempeño relevante en la materia, participando en las comisiones dictaminadoras respectivas, de conformidad con la legislación aplicable al caso concreto;
 
-XX. Formular y financiar programas de becas y en general de apoyo a la formación de recursos humanos, en sus diversas modalidades, y concederlas directamente, así mismo integrar la información de los programas de becas de postgrado que ofrezcan otras instituciones públicas nacionales, o bien los organismos internacionales y gobiernos extranjeros, a fin de optimizar los recursos en esta materia con esquemas de coordinación eficientes, en los términos de las convocatorias correspondientes;
+> <small>(REFORMADA, G.O. 5 DE JUNIO DE 2018)</small>
+
+XX. Formular y financiar programas de becas y en general de apoyo a la formación de recursos humanos, en sus diversas modalidades, y concederlas directamente garantizando la participación equitativa y sin discriminación entre mujeres y hombres, así mismo integrar la información de los programas de becas de postgrado que ofrezcan otras instituciones públicas nacionales, o bien los organismos internacionales y gobiernos extranjeros, a fin de optimizar los recursos en esta materia con esquemas de coordinación eficientes, en los términos de las convocatorias correspondientes;
 
 XXI. Establecer mecanismos de comunicación con los becarios mexicanos, que se encuentren en el país o en el extranjero bajo sus auspicios;
 
@@ -535,6 +545,10 @@ II. En todas las actividades científicas y tecnológicas, conforme a la disponi
 
 Igualmente se apoyarán los proyectos de investigación humanística, que desde la investigación básica generen el avance del conocimiento;
 
+> <small>(ADICIONADA, G.O. 5 DE JUNIO DE 2018)</small>
+
+II BIS. El COVEICYDET deberá cuidar que los apoyos de fomento se otorguen considerando la inclusión y la no discriminación, buscando romper la brecha entre mujeres y hombres, siempre y cuando cumplan los criterios de calidad y de pertinencia de la investigación;
+
 III. En la determinación de las políticas y decisiones en materia de ciencia y tecnología, se garantizará la participación de las comunidades científica, académica y tecnológica;
 
 IV. Los apoyos otorgados deberán procurar la colaboración interinstitucional y la vinculación de las instituciones científicas y tecnológicas con los sectores del Estado, el desarrollo armónico de la planta científica y tecnológica de la Entidad veracruzana, y se encaminarán hacia la consolidación y el crecimiento de las comunidades de ciencia y tecnología;
@@ -601,9 +615,11 @@ VI. Las demás acciones que se requieran, de conformidad con la legislación apl
 
 ### Capítulo VI. De la formación de recursos humanos
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE JUNIO DE 2018)</small>
+
 ###### Artículo 33.
 
-El COVEICYDET formulará normas y criterios para la elaboración de programas, cuyo objeto sea la formación de recursos humanos de alto nivel académico en las diversas áreas de la ciencia y la tecnología.
+El COVEICYDET formulará normas y criterios para la elaboración de programas, cuyo objeto sea la formación de recursos humanos de alto nivel académico en las diversas áreas de la ciencia y la tecnología, considerando la perspectiva de género para romper la brecha entre mujeres y hombres.
 
 Para tal efecto establecerá, en coordinación con las dependencias y entidades federales, estatales y municipales, así como con representantes de los sectores social y privado, mecanismos para el establecimiento de acciones tendentes a capacitar y actualizar los recursos humanos en materia de investigación científica, desarrollo tecnológico e innovación.
 
@@ -920,5 +936,13 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 356 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 5 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 649 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
