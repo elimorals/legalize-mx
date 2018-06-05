@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-turismo-del-estado-de-jalisco-y-sus-municipios-89772"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2017-03-16"
+last_updated: "2018-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 18 de octubre de 2012.
 
@@ -1264,3 +1266,15 @@ P.O. 16 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26296/LXI/17 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 4°, 5°, 6°, 22A Y 22B; Y SE ADICIONA UN CAPÍTULO V AL TÍTULO TERCERO Y LOS ARTÍCULOS 34A, 34B Y 34C, DE LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y REFORMA EL ARTÍCULO 102 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26745/LXI/18 QUE ABROGA LA LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y CREA LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Turismo del Estado de Jalisco y sus Municipios, con sus reformas y adiciones, aprobada mediante decreto 24115/LIX/12 publicado en el Periódico Oficial "El Estado de Jalisco" el 18 de octubre de 2012.
+
+TERCERO. El Ejecutivo Estatal expedirá las demás disposiciones reglamentarias que requiera esta Ley, en un término que no excederá noventa días a partir de su publicación en el periódico oficial "El Estado de Jalisco"; mientras tanto, seguirán vigentes los actuales Reglamentos en lo que no se opongan a la misma.
+
+CUARTO. Los municipios del Estado de Jalisco, deberán de expedir el reglamento municipal de turismo, de conformidad a la legislación de la materia, en un término de noventa días a partir de su publicación en el Periódico Oficial "El Estado de Jalisco"; mientras tanto, seguirán vigentes los actuales Reglamentos en lo que no se opongan a la misma.
