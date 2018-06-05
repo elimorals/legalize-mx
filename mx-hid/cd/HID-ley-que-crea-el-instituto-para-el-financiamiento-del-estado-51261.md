@@ -4,7 +4,7 @@ identifier: "HID-ley-que-crea-el-instituto-para-el-financiamiento-del-estado-512
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-31"
-last_updated: "2016-08-08"
+last_updated: "2018-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY QUE CREA EL INSTITUTO PARA EL FINANCIAMIENTO DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚM. 439 POR EL QUE SE ABROGA LA LEY QUE CREA EL INSTITUTO PARA EL FINANCIAMIENTO DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL INSTITUTO PARA EL FINANCIAMIENTO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de julio de 2006.
 
@@ -542,3 +544,31 @@ TERCERO. Dentro de los noventa días hábiles siguientes a la publicación del p
 CUARTO. Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 QUINTO. Se ordena la inscripción del presente documento en el Registro Público de Organismos Descentralizados en términos de los que establece la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado de Hidalgo.
+
+P.O. 5 DE JUNIO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL DECRETO POR EL QUE SE ABROGA LA LEY QUE CREA EL INSTITUTO PARA EL FINANCIAMIENTO DEL ESTADO DE HIDALGO.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley que crea el Instituto para el Financiamiento del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Como consecuencia de la abrogación, se deberá llevar acabo (sic) la Desincorporación del Organismo Descentralizado denominado Instituto para el Financiamiento del Estado de Hidalgo.
+
+###### ARTÍCULO TERCERO.
+
+La desincorporación del Organismo Descentralizado denominado Instituto para el Financiamiento del Estado de Hidalgo será a través de la extinción y liquidación, atendiendo el procedimiento que dispone la Ley de Entidades Paraestatales para el Estado.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 439 POR EL QUE SE ABROGA LA LEY QUE CREA EL INSTITUTO PARA EL FINANCIAMIENTO DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El proceso de Desincorporación al que se hace referencia en el artículo 2 del presente Decreto, deberá iniciar dentro de los quince días hábiles siguientes a la entrada en vigencia del mismo.
+
+TERCERO. El Organismo Descentralizado subsistirá con personalidad jurídica únicamente para efectos del proceso de liquidación.
+
+CUARTO. El Poder Ejecutivo asumirá irrevocablemente en sus términos todas las obligaciones contraídas por el Organismo Descentralizado denominado Instituto para el Financiamiento del Estado de Hidalgo.
+
+QUINTO. A efecto del transitorio anterior, la Secretaría de Finanzas Públicas del Estado de Hidalgo, deberá realizar las acciones administrativas necesarias para que, el Estado de Hidalgo cumpla con las obligaciones contraídas bajos (sic) los endeudamientos contratados por el Instituto para el Financiamiento del Estado de Hidalgo, con independencia de las disposiciones y obligaciones que deberán atenderse en el proceso de desincorporación, mismas que deberán ser asignadas de acuerdo a la normatividad en la materia.
