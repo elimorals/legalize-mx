@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2017-12-22"
+last_updated: "2018-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -3249,13 +3249,15 @@ ART. 102.- Los denunciantes de herencias vacantes siempre que hayan satisfecho l
 
 ART. 103.- No tendrán derecho a participación como denunciantes los empleados públicos del Estado, federales o municipales que, en el ejercicio de sus funciones oficiales tengan conocimiento de la existencia de esta clase de herencias.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2018)</small>
 
-ART. 104.- Ingresará al erario del Estado por concepto de los bienes mostrencos, de los vacantes y tesoros:
+ART. 104.- Ingresará al erario del Estado por concepto de los bienes mostrencos, de los vacantes, tesoros y declaratorias de abandono:
 
-I.- La porción que corresponda al mismo, del producto de la venta de los bienes mostrencos y los vacantes; y,
+I.- La porción que corresponda al mismo, del producto de la venta de los bienes mostrencos y los vacantes;
 
-II.- La porción de los tesoros ocultos que corresponde al Estado en el caso previsto por el artículo 875 del Código Civil.
+II.- La porción de los tesoros ocultos que corresponde al Estado en el caso previsto por el artículo 875 del Código Civil; y,
+
+III.- El producto de la enajenación del desecho ferroso o chatarra de los vehículos, accesorios o componentes declarados abandonados conforme a las disposiciones de la Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados del Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -4240,3 +4242,15 @@ El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaci
 ###### ARTÍCULO VIGÉSIMO.
 
 Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 520 DEL H. CONGRESO DEL ESTADO.- LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley y demás adecuaciones a las disposiciones reglamentarias aplicables dentro de los 30 días hábiles siguientes a la publicación del presente Decreto.
+
+TERCERO. En un plazo no mayor a 60 días contados a partir de la entrada en vigor de la presente Ley, deberá quedar instalada la Comisión para la Supervisión y Control de la Administración de Vehículos Abandonados del Estado de Sinaloa.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
