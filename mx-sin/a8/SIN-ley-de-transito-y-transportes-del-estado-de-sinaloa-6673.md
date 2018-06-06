@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2017-12-22"
+last_updated: "2018-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -1151,9 +1151,11 @@ Las autoridades de tránsito que tomen conocimiento de hechos de tránsito deber
 
 Las infracciones a las disposiciones de esta Ley y su Reglamento se harán constar por los agentes de tránsito en las actas de hechos, previamente aprobadas por las autoridades correspondientes.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 165.
 
-Todo vehículo que se encuentre estacionado en la vía pública, previa investigación de abandono o denuncia fundada, podrá ser retirado por las autoridades de tránsito.
+Todo vehículo que se encuentre estacionado en la vía pública, previa investigación de abandono, conforme a lo establecido en los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos o denuncia fundada, podrá ser retirado por las autoridades de tránsito de conformidad a lo establecido en la Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados del Estado de Sinaloa.
 
 ###### ARTICULO 166.
 
@@ -2548,3 +2550,15 @@ El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaci
 ###### ARTÍCULO VIGÉSIMO.
 
 Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 520 POR EL QUE "SE REFORMA EL ARTÍCULO 165 DE LA LEY TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley y demás adecuaciones a las disposiciones reglamentarias aplicables dentro de los 30 días hábiles siguientes a la publicación del presente Decreto.
+
+TERCERO. En un plazo no mayor a 60 días contados a partir de la entrada en vigor de la presente Ley, deberá quedar instalada la Comisión para la Supervisión y Control de la Administración de Vehículos Abandonados del Estado de Sinaloa.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
