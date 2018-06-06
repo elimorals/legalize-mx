@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-prevencion-y-combate-al-abuso-de-bebidas-83343"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2018-03-28"
+last_updated: "2018-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE MARZO DE 2018 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de octubre de 2011.
 
@@ -565,9 +563,11 @@ VIII. Nombre de la persona responsable del evento, domicilio y copia de identifi
 
 Una vez reunidos los requisitos anteriores, si la autoridad municipal no resuelve en un período máximo de cinco días, se entenderá como autorizado el mismo, únicamente para el evento solicitado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2018)</small>
+
 ###### Artículo 33.
 
-Los establecimientos a que se refiere el artículo 7, fracción IV, en sus incisos g), h), i), y k) deberán de contar obligatoriamente con paleta o dispositivo detector de metales o en su caso, arcos detectores de metales.
+Los establecimientos a que se refiere el artículo 7, fracción IV, en sus incisos a), b), c), e), f), g), h), i) y k), con la finalidad de garantizar la seguridad de la clientela, deberán de contar obligatoriamente con paleta o dispositivo detector de metales, o en su caso, arcos detectores de metales como un requisito adicional de los que contempla el artículo 30 de la presente Ley, al momento de solicitar ante la autoridad correspondiente, la licencia o permiso para la apertura y funcionamiento respectivo de los establecimientos señalados en cualquiera de los incisos anteriores.
 
 Asimismo, los establecimientos que ofrezcan en sus establecimientos estacionamiento con recepción de vehículos personalizada, deberán acreditar que cuentan con seguro de cobertura amplia por robo o daños materiales de los vehículos entregados a su resguardo.
 
@@ -1330,3 +1330,11 @@ PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado,
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Los ayuntamientos de la entidad tendrán un plazo de tres meses, contados a partir del día siguiente de la entrada en vigor de esta Ley, para adecuar sus bandos de policía y buen gobierno y expedir los reglamentos que complementen las disposiciones de la misma.
+
+P.O. 6 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL OCHOCIENTOS TREINTA Y NUEVE POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 33 DE LA LEY PARA LA PREVENCIÓN Y COMBATE AL ABUSO DE BEBIDAS ALCOHÓLICAS Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
