@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2018-01-10"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -97,9 +97,11 @@ La Legislatura del Estado establecerá en el presupuesto de egresos los recursos
 
 El Estado de México y sus municipios, en el diseño y ejecución de políticas públicas, deberán garantizar el máximo bienestar posible de niñas, niños y adolescentes, privilegiando su interés superior, a través de medidas estructurales, legales, administrativas y presupuestales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 7 DE JUNIO DE 2018)</small>
+
 ###### Artículo 5.
 
-Para los efectos de esta Ley, se entenderá por:
+Para efectos de esta Ley, se entenderá por:
 
 I. Acciones Afirmativas: A las medidas temporales que las autoridades realizan en el ámbito de su competencia cuyo objetivo es corregir situaciones de desigualdad en el goce y disfrute de los derechos para lograr la igualdad entre niñas, niños y adolescentes. Se adecuarán a la situación a remediar y deberán ser legítimas y respetar los principios de justicia y proporcionalidad.
 
@@ -133,13 +135,25 @@ XV. Discriminación Múltiple: A la situación de vulnerabilidad específica en 
 
 XVI. Diseño Universal: Al diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten.
 
-XVII. Familia de Origen: A aquella compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado, de conformidad con el Código Civil del Estado de México.
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
 
-XVIII. Familia Extensa o Ampliada: A aquella compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado.
+XVI Bis. Familia Ampliada: Aquella compuesta por la persona o personas que, sin existir parentesco, tienen un vínculo afectivo adecuado para el desarrollo de niñas, niños y adolescentes atendiendo a su interés superior;
 
-XIX. Familia de Acogida: A aquella que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
 
-XX. Familia de Acogimiento Pre-adoptivo: A aquella distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
+XII (SIC). Familia de Acogida: Aquella que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+
+XVIII. Familia de Acogimiento Pre-adoptivo: Aquella distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+
+XIX. Familia de Origen: Aquella compuesta por titulares de la patria potestad o tutela, respecto de niñas, niños y adolescentes quienes tienen parentesco ascendente hasta segundo grado, de conformidad con el Código Civil del Estado de México;
+
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+
+XX. Familia Extensa: Aquella compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
 XXI. Igualdad Sustantiva: Al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
@@ -1545,6 +1559,24 @@ VI. Dar seguimiento a las acciones del plan de restitución de derechos, hasta c
 
 La Procuraduría Estatal de Protección contará con representaciones regionales y coordinará a las procuradurías municipales a efecto de lograr la mayor presencia y cobertura posible en los municipios.
 
+> <small>(ADICIONADO, G.G. 7 DE JUNIO DE 2018)</small>
+
+###### Artículo 94 Bis.
+
+Los requisitos para ser nombrado titular de las Procuradurías de Protección Estatal y/o Municipal de Protección de Niñas, Niños y Adolescentes, son los siguientes:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener más de 30 años de edad;
+
+III. Contar con título profesional de licenciatura en derecho o equivalente, debidamente registrado;
+
+IV. Contar con al menos cinco años de experiencia en el ejercicio de la licenciatura en derecho o equivalente;
+
+V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+VI. Acreditar experiencia en temas de derechos de la niñez, adolescencia o la familia, con al menos de dos años.
+
 ### Capítulo Tercero. Del Sistema Estatal de Protección Integral
 
 #### Sección Primera. De los Integrantes
@@ -1629,9 +1661,17 @@ VIII. El titular de la Secretaría de Salud.
 
 IX. El titular de la Secretaría del Trabajo.
 
-X. El titular de la Dirección General del Sistema Estatal DIF.
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
 
-XI. El titular del Sistema de Radio y Televisión Mexiquense.
+X. El titular de la Secretaría de Justicia y Derechos Humanos;
+
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+
+XI. El titular de la Dirección General del Sistema Estatal DIF;
+
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
+
+XII. El titular del Sistema de Radio y Televisión Mexiquense.
 
 B. Dos representantes del Poder Legislativo.
 
@@ -1928,3 +1968,15 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+G.G. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 311.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los requisitos previstos en el artículo 94 bis de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, resultarán aplicables a los nombramientos que se realicen a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
