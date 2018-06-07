@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2017-12-26"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -545,9 +545,17 @@ XIV.- Representar al Congreso del Estado en actos o ceremonias oficiales, así c
 
 XV.- Remitir al Ejecutivo del Estado el proyecto del presupuesto de egresos anual del Congreso del Estado en los términos establecidos por la ley correspondiente;
 
-XVI.- Participar con voz en las sesiones de las comisiones de Administración y de Régimen Interno y Concertación Política; y
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
 
-XVII.- Las demás que se le encomienden en esta ley y las que le asigne el pleno del Congreso del Estado.
+XVI.- Participar con voz en las sesiones de las comisiones de Administración y de Régimen Interno y Concertación Política;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 7 DE JUNIO DE 2018)</small>
+
+XVII.- Previa aprobación del Congreso, celebrar convenios de colaboración con instituciones públicas del ámbito municipal, estatal y federal, así como de concertación con instituciones del ámbito privado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], B.O. 7 DE JUNIO DE 2018)</small>
+
+XVIII.- Las demás que se encomienden en esta ley y las que le asigne el pleno del Congreso del Estado.
 
 ###### ARTÍCULO 67.
 
@@ -2322,3 +2330,11 @@ El presente decreto entra en vigor al día siguiente de su publicación en el Bo
 ###### ARTÍCULO SEGUNDO.
 
 El Congreso del Estado de Sonora contará con un plazo de 60 días para elaborar los lineamientos y demás disposiciones administrativas en el cumplimiento de este decreto.
+
+B.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 215 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
