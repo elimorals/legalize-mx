@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-12-21"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -201,8 +201,6 @@ V Bis 1.- Restaurante Rural.- Establecimiento situado en asentamiento humano que
 
 Los restaurantes deberán contar con suficientes mesas y sillas para los comensales, además de cocina para preparar alimentos, deberá tener el mobiliario, equipo y menú adecuados para que el importe de sus ventas de alimentos, sea por lo menos un 60% del importe de sus ventas totales anuales, reuniendo las condiciones higiénicas previstas en las Leyes General y Estatal de Salud. Podrán contar con barra y taburete, música ambiental y con grupos cantantes y/o musicales y con presentaciones artísticas y culturales para el sano esparcimiento de los clientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 VI.- Tienda de Autoservicio.- Establecimiento cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, artículos de consumo básicos de uso doméstico y otra clase de mercancías, en la modalidad de autoservicio, podrá contar con equipo necesario para surtir al cliente productos alimenticios embutidos, lácteos o marinos, pudiendo realizar la venta al público de Bebidas Alcohólicas, por ventana lateral del inmueble.
@@ -212,6 +210,14 @@ Deberá contar con una o más cajas para cobro, con refrigeradores o conservador
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 Se prohíbe la publicidad de bebidas alcohólicas hacia y en el exterior de estos establecimientos y en el interior de los mismos solamente podrán colocarse anuncios que no excedan del 10% de la superficie visible del mismo y la existente deberá contener las leyendas previstas por la normatividad de la materia.
+
+> <small>(ADICIONADA, B.O. 7 DE JUNIO DE 2018)</small>
+
+VI Bis.- Tienda de Autoservicio de Productos Típicos Regionales.- Establecimiento cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, dulces, machaca, carne seca, artesanías en la modalidad de autoservicio, podrá contar con equipo necesario para surtir al cliente productos alimenticios embutidos y lácteos.
+
+Deberá contar con una o más cajas de autoservicio y mostradores, pudiendo complementar su actividad con la venta de Bacanora bebida típica tradicional del Estado, el producto bacanora deberá provenir directamente de un productor que cuente con licencia de fabricación de producto regional típico.
+
+Del total de su inventario de mercancías, deberá tener hasta un 50% de bebidas con contenido alcohólico de tal naturaleza, que deberán encontrarse en el área de autoservicio y el otro 50% de productos regionales diversos al Bacanora sin contenido alcohólico.
 
 VII.- Tienda Departamental.- Establecimiento que deberá contar con instalaciones e infraestructura necesarias, con la característica de que el establecimiento se encuentra dividido en departamentos en los que preponderantemente se vende al público artículos variados, tales como ropa, muebles, cosméticos y otros, en donde complementariamente se podrán vender productos alimenticios finos y bebidas con contenido alcohólico en envase cerrado, las cuales se deberán tener para su exhibición y venta en el departamento correspondiente, quedando prohibido su consumo en éste o cualquier otra área departamental.
 
@@ -265,6 +271,10 @@ XIII.- Porteadora.- La persona física o moral dedicada a la transportación de 
 
 Los permisos para esa actividad preferentemente se otorgarán a aquellas negociaciones que se dedican a la elaboración, distribución o comercialización de bebidas con contenido alcohólico;
 
+> <small>(ADICIONADA, B.O. 7 DE JUNIO DE 2018)</small>
+
+XIII Bis.- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación Sonorense.- La persona física o moral dedicada a la transportación de bebidas alcohólicas cuya fabricación se realiza en el Estado de Sonora por fabricantes que cuenten con licencia vigente en los giros Fábrica de Producto Regional Típico y Fábrica de Cerveza Artesanal contemplados en esta ley.
+
 XIV.- Autorizaciones eventuales por tiempo determinado que otorgue el Ejecutivo del Estado por conducto de la Secretaría, para la venta o consumo de bebidas con contenido alcohólico, con fines determinados, tales como muestras, degustación y otros, en aquellos lugares que considere convenientes y sin que esta circunstancia implique la autorización de una licencia definitiva.
 
 XV.- (DEROGADA, B.O. 19 DE DICIEMBRE DE 2013)
@@ -275,7 +285,9 @@ XVI.- Cine VIP.- Los establecimientos comerciales denominados "cine vip" son aqu
 
 Los establecimientos autorizados conforme a la presente Ley, podrán contar con almacén anexo para guardar sus bebidas con contenido alcohólico, sin que requieran de autorización o licencia. Dicho almacén, no deberá exceder las dimensiones del local de venta al público y no deberá permitirse el acceso a este lugar al público en general.
 
-La Secretaría realizará la comprobación del porcentaje de la venta de bebidas alcohólicas en relación con el inventario de mercancías o las ventas totales del establecimiento a que se refieren las fracciones V y VI de este artículo por conducto de personal especializado en la materia.
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2018)</small>
+
+La Secretaría realizará la comprobación del porcentaje de la venta de bebidas alcohólicas en relación con el inventario de mercancías o las ventas totales del establecimiento a que se refieren las fracciones V, VI y VI Bis de este artículo por conducto de personal especializado en la materia.
 
 ###### Artículo 11.
 
@@ -1678,3 +1690,9 @@ El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 214 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA Y A LA LEY DE HACIENDA DEL ESTADO".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
