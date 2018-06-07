@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2017-10-17"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 250 PUBLICADO EN EL P.O. DE 12 DE OCTUBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2018.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -749,7 +747,7 @@ El acta de defunción contendrá:
 
 I. Datos generales del finado.
 
-II. (DEROGADA, G.G. 7 DE MAYO DE 2015)
+ll. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
 III. Nombre de los padres del difunto, si se supieren;
 
@@ -2790,6 +2788,10 @@ III. Por los familiares consanguíneos hasta el tercer grado colateral.
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 Tratándose de controversia, el Juez decidirá, tomando en cuenta los intereses del menor.
+
+> <small>(ADICIONADO, G.G. 7 DE JUNIO DE 2018)</small>
+
+Para el caso, de que la familia de origen o extensa no muestre interés en reincorporar a su núcleo familiar al menor, una vez acreditada la investigación realizada por el Ministerio Público y las áreas de psicología y trabajo social de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, no serán llamados a juicio más que los padres.
 
 La patria potestad en caso de separación de la pareja que la ejerce
 
@@ -17793,7 +17795,7 @@ SEXTO.- Las disposiciones del presente Código no tendrán efecto retroactivo. P
 
 LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, Capital del Estado de México, a los treinta y un días del mes de mayo de 2002.- Diputado Presidente.- C. Roberto Modesto Flores González.- Diputados Secretarios.- C. Víctor Ernesto González Huerta.- C. Andrea María del Rocío Merlos Nájera.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los treinta y un días del mes de mayo de 2002.- Diputado Presidente.- C. Roberto Modesto Flores González.- Diputados Secretarios.- C. Víctor Ernesto González Huerta.- C. Andrea María del Rocío Merlos Nájera.- Rúbricas.
 
 Por lo tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -18426,3 +18428,15 @@ G.G. 12 DE OCTUBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 311.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los requisitos previstos en el artículo 94 bis de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, resultarán aplicables a los nombramientos que se realicen a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
