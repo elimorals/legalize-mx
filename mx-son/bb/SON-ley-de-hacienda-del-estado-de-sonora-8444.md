@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2018-05-07"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -3529,6 +3529,14 @@ u).- Hoteles o Moteles Rurales $20,000.00
 
 v).- Fábricas de producto vitivinícolas y sus derivados $115,000.00
 
+> <small>(ADICIONADO, B.O. 7 DE JUNIO DE 2018)</small>
+
+w).- Auto Servicio de Productos Típicos Regionales $3,000.00
+
+> <small>(ADICIONADO, B.O. 7 DE JUNIO DE 2018)</small>
+
+x).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $3.000.00
+
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II.- Por la revalidación:
@@ -3614,6 +3622,14 @@ r).- Restaurante Rural $1,000.00
 > <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
 s).- Hoteles o Moteles Rurales $2,000.00
+
+> <small>(ADICIONADO, B.O. 7 DE JUNIO DE 2018)</small>
+
+t).- Auto Servicio de Productos Típicos Regionales $3.000.00
+
+> <small>(ADICIONADO, B.O. 7 DE JUNIO DE 2018)</small>
+
+u).- Porteadora de Producto Regional Típico y de Cerveza Artesanal de Fabricación $3,000.00
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -7306,3 +7322,11 @@ B.O. 9 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de enero de 2019, previa su publicación (sic) el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 214, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA Y LA LEY DE HACIENDA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
