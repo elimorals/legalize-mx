@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2017-05-13"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE MAYO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 26305/LXI/17 PUBLICADO EN EL P.O. DE 4 DE ABRIL DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -643,9 +641,17 @@ VII. Solicitar al Congreso del Estado, cuando haya imposibilidad del Municipio y
 
 VIII. Aprobar la concesión de bienes y servicios públicos municipales a los particulares;
 
-IX. Celebrar contratos de fideicomiso público; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
 
-X. Los demás casos que señalen la presente ley y otras leyes.
+IX. Celebrar contratos de fideicomiso público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2018)</small>
+
+X. La designación del titular del Órgano Interno de Control Municipal; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2018)</small>
+
+XI. Los demás casos que señalen la presente ley y otras leyes.
 
 ### CAPITULO IX. De los Ordenamientos Municipales
 
@@ -695,9 +701,17 @@ XIV. Formular, evaluar y revisar el Programa Municipal de Desarrollo Urbano y lo
 
 XV. Ejercer en coordinación con la Federación y el Gobierno del Estado, en el ámbito de su competencia, sus atribuciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-XVI. Solicitar a la Secretaría de Cultura previo a emitir licencia de construcción relativa a inmuebles inventariados como Patrimonio Cultural, el dictamen técnico en los términos de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
 
-XVII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+XVI. Solicitar a la Secretaría de Cultura previo a emitir licencia de construcción relativa a inmuebles inventariados como Patrimonio Cultural, el dictamen técnico en los términos de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2018)</small>
+
+XVII. Coordinarse con la Federación, Estados y Municipios, en materia de combate a la corrupción; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2018)</small>
+
+XVIII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -2359,7 +2373,7 @@ Sexto. En su primera sesión ordinaria el Concejo Municipal de Capilla de Guadal
 
 Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Concejo Municipal de Capilla de Guadalupe.
 
-Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Consejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen al nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
+Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen al nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
 
 Noveno. Una vez que entre en funciones el Concejo Municipal de Capilla de Guadalupe, el Ayuntamiento de Tepatitlán de Morelos, procederá a transferir los bienes muebles e inmuebles a los que se refiere el artículo 84 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, que estén dentro de su patrimonio, los cuales deberán estar dentro de la extensión territorial a que se refiere este decreto, y transferirlos con el destino al que estaban afectos a favor del nuevo municipio.
 
@@ -2373,7 +2387,7 @@ Serán aplicables en el Municipio de Capilla de Guadalupe, en el ejercicio fisca
 
 Décimo Tercero. Las obligaciones laborales del Municipio de Tepatitlán de Morelos con los trabajadores a su servicio en las Delegaciones Municipales de Capilla de Guadalupe y San José de Gracia, serán asumidas por el nuevo municipio a partir del día 1º de enero del año 2006, el cual deberá respetar los derechos individuales y colectivos de dichos trabajadores, en los términos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
-Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de Capilla de Guadalupe se observarán en lo conducente las correspondientes al Municipio de Tepatitlán de Morelos.
+Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de Capilla de Guadalupe se observarán en lo conducente las correspondientes al municipio de Tepatitlán de Morelos.
 
 Décimo Quinto. En Congreso del Estado tendrá facultad para dictar las normas interpretativas y aclaratorias del presente Decreto necesarias para resolver cualquier controversia que su aplicación motive.
 
@@ -2451,7 +2465,7 @@ Cuarto. En caso de no haber designación de Auditor Superior del Estado al día 
 
 Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
 
-La Auditoria Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
+La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
 
 Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
 
@@ -2676,3 +2690,9 @@ Cuarto. Los ingresos excedentes derivados de Ingresos de libre disposición a qu
 Adicionalmente los ingresos excedentes de libre disposición podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018, siempre y cuando el ayuntamiento se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
 
 Quinto. El porcentaje a que hace referencia el artículo 209 de la Ley de Hacienda Municipal del Estado de Jalisco, relativo a los adeudos del ejercicio fiscal anterior (Adefas) de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+P.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26829/LXI/18 QUE REFORMA LOS ARTÍCULOS 36 Y 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
