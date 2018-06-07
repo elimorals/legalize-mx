@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2017-12-26"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,2383 +21,2921 @@ state: "SON"
 ---
 # LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
+LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
 
-Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
+Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
-LEY NUMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
+MTRO. ALEJANDRO ISMAEL MURAT HINOJOSA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+
+QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+
+DECRETO 1640
+
+LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
+
+D E C R E T A:
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. DE LAS NORMAS PRELIMINARES
 
-###### ARTÍCULO 1.
+###### Artículo 1.
 
-La presente ley orgánica tiene por objeto regular la estructura y funcionamiento del Poder Legislativo del Estado de Sonora.
+La presente Ley es reglamentaria de las disposiciones de la Constitución Política del Estado Libre y Soberano de Oaxaca y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en lo que corresponde a las atribuciones que ella asigna a los Estados y Municipios de acuerdo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-###### ARTÍCULO 2.
+En todo lo no previsto en esta Ley se aplicará lo establecido por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca y demás ordenamientos en materia ambiental y administrativa.
 
-El ejercicio del Poder Legislativo del Estado se deposita en una asamblea de representantes del pueblo denominada (Congreso del Estado de Sonora), que tendrá las facultades que le otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente ley y demás ordenamientos legales.
+###### Artículo 2.
 
-###### ARTÍCULO 3.
+Las normas de esta Ley son de orden público e interés social, y tienen por objeto fijar las bases para:
 
-En el ejercicio de sus atribuciones y ámbito de competencia, el Congreso del Estado, pugnará por el establecimiento de un orden social justo, a través de la expedición de leyes, decretos y acuerdos que sean de su competencia legal o de orden constitucional.
+I. Garantizar el derecho de toda persona a vivir en un medio ambiente sano para su desarrollo, salud y bienestar;
 
-###### ARTÍCULO 4.
+II. Definir los principios de la política ambiental estatal y los instrumentos para su aplicación;
 
-El Congreso del Estado se integrará por los diputados que establece la Constitución Política del Estado.
+III. La conservación, preservación, restauración y mejoramiento del ambiente;
 
-Los diputados electos bajo cualquier principio, se denominarán diputado local del Congreso del Estado de Sonora, contando con idéntica categoría e igualdad de derechos y deberes de acuerdo a la Constitución Política del Estado, a esta ley y demás ordenamientos legales.
+IV. La preservación y protección de la biodiversidad y geodiversidad, así como el establecimiento, regulación, administración y vigilancia de las áreas naturales protegidas de competencia estatal con la participación de los gobiernos municipales;
 
-###### ARTÍCULO 5.
+V. El aprovechamiento sustentable, la preservación y en su caso, la restauración del suelo, el agua y los demás recursos naturales, de manera que sean compatibles con la obtención de beneficios económicos y las actividades de la sociedad con la preservación de la biodiversidad, geodiversidad y los ecosistemas;
 
-Los diputados serán electos en su totalidad para un periodo de tres años, el cual constituye una legislatura del Congreso del Estado y se identificará con el número sucesivo que le corresponda.
+VI. La prevención y control de la contaminación del aire, agua y suelo; dentro del ámbito de competencia estatal, estableciendo los mecanismos de participación del Estado;
 
-###### ARTÍCULO 6.
+VII. Asegurar la participación corresponsable de las personas en forma individual o colectiva en la preservación y restauración del equilibrio ecológico y la protección al ambiente, así como en el desarrollo sustentable de la entidad;
 
-Esta ley, sus reformas y adiciones, así como los reglamentos que emanen de la misma, no podrán ser objeto de veto alguno, ni requerirán para su vigencia de la promulgación del Titular del Poder Ejecutivo. El Congreso del Estado ordenará su publicación en el Boletín Oficial del Gobierno del Estado.
+VIII. El ejercicio de las atribuciones y la coordinación que en materia ambiental corresponde al Estado de Oaxaca y sus Municipios;
 
-###### ARTÍCULO 7.
+IX. Establecer los mecanismos de coordinación, inducción y concertación entre autoridades, entre éstas y los sectores social y privado, así como con personas y grupos sociales en materia ambiental, y;
 
-El Congreso del Estado formulará y aprobará su presupuesto anual de egresos y tendrá plena autonomía para su ejercicio, así como para organizarse administrativamente y, en su oportunidad, deberá remitir éste para su inclusión en el proyecto del presupuesto de egresos del Estado que anualmente presenta el Ejecutivo Estatal, con apego a la Constitución Política del Estado y demás normatividad aplicable.
+X. El establecimiento de medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven, así como la imposición de sanciones administrativas y penales ante la autoridad competente.
 
-### CAPÍTULO II. DE LA RESIDENCIA Y DEL RECINTO OFICIAL DEL CONGRESO DEL ESTADO
+###### Artículo 3.
 
-###### ARTÍCULO 8.
+Se considera de utilidad pública:
 
-La residencia del Congreso del Estado se fija en su capital, con excepción de los casos que por circunstancias graves, especiales o extraordinarias, resuelva trasladarse provisionalmente a otro lugar de la Entidad.
+I. El ordenamiento ecológico del territorio del Estado de Oaxaca en los casos previstos por ésta y demás leyes aplicables;
 
-La legislatura sesionará en su recinto oficial o en el que por acuerdo del pleno del Congreso del Estado o de la Diputación Permanente se habilite transitoriamente, dándose a conocer de manera pública tal determinación, debiendo desahogarse sólo los asuntos concretos previstos en el decreto o acuerdo correspondiente. Hecho lo cual, el Poder Legislativo regresará automáticamente a su recinto oficial.
+II. La protección y preservación de las áreas naturales, así como la restauración y reconstrucción de su entorno ecológico mediante el establecimiento y declaratoria de las áreas naturales protegidas;
 
-Por recinto oficial se entenderá el inmueble donde esté asentado el Poder Legislativo.
+III. La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio estatal, así como en el aprovechamiento de material genético con la participación de la federación;
 
-###### ARTÍCULO 9.
+IV. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y;
 
-Toda fuerza pública deberá abstenerse de acceder al recinto oficial del Congreso del Estado, salvo autorización previa del Presidente del Congreso del Estado o por acuerdo de la mayoría de los diputados. En cualquiera de estos casos el Presidente del Congreso del Estado asumirá el mando de la misma.
+V. Las demás acciones que tiendan a cumplir con los fines de la presente Ley, en congruencia y sin perjuicio de la competencia y atribuciones de la federación.
 
-Cuando sin mediar autorización previa por parte de las autoridades indicadas en el párrafo anterior, se hiciere presente la fuerza pública, el Presidente podrá decretar la suspensión de la sesión, hasta que dicha fuerza hubiere abandonado el recinto y se haya establecido el orden.
+###### Artículo 4.
 
-###### ARTÍCULO 10.
+Para efectos de esta Ley se entiende por:
 
-Ninguna autoridad podrá ejecutar mandamiento judicial o administrativo sobre los bienes del Congreso del Estado ni sobre las personas o bienes de los diputados en el interior del recinto oficial. El incumplimiento de lo anterior, dará lugar a que el Presidente del Congreso del Estado realice la comunicación respectiva al superior jerárquico de la autoridad infractora, para los efectos a que haya lugar.
+I. Actividades consideradas no altamente riesgosas: Son aquellas en las que se manejan sustancias peligrosas en un volumen, menor a la cantidad de reporte establecida por la federación para actividades altamente riesgosas;
 
-###### ARTÍCULO 11.
+II. Aguas residuales: Las aguas provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana y que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad original;
 
-El Presidente del Congreso del Estado podrá solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de los diputados, el funcionamiento del Congreso del Estado y la inviolabilidad, integridad y respeto de su recinto oficial.
+III. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre, que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos, que interactúan en un espacio y tiempo determinados;
 
-### CAPÍTULO I. DE LA INSTALACIÓN DE LA LEGISLATURA
+IV. Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas;
 
-## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
-### CAPÍTULO II. DE LA ENTREGA-RECEPCIÓN ADMINISTRATIVA
+IV Bis. ARBORIZAR: Poblar de árboles preferentemente de especies frutales, en las áreas urbanas existentes en una población, Municipio y el Estado; con independencia de que dichos árboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones.
 
-###### ARTÍCULO 12.
+V. Áreas naturales protegidas: Las zonas del territorio estatal, municipal y aquéllas sobre las que el Estado ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano y que por sus características ecológicas o bien para salvaguardar la biodiversidad, o en su caso, por el valor de los recursos naturales o los servicios ambientales que prestan, requieren ser preservadas, conservadas, restauradas y están sujetas al régimen previsto en la presente Ley;
 
-El Congreso del Estado, antes de clausurar el último periodo de sesiones ordinarias de cada legislatura, nombrará de entre sus miembros a la Diputación Permanente, la cual se erigirá como Comisión Instaladora de la legislatura que le sucederá. Esta comisión estará integrada por cinco diputados: un presidente, dos secretarios y dos suplentes, incluyendo entre los tres primeros miembros de la comisión a representantes de los Grupos Parlamentarios más numerosos. Los suplentes entrarán en funciones sólo cuando falte cualquiera de los tres propietarios.
+VI. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte, comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
-###### ARTÍCULO 13.
+VII. Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
 
-La Diputación Permanente registrará las declaratorias de validez y las constancias de mayoría o, en su caso, de asignación de los diputados que hubieren resultado electos en los comicios y los convocará para que comparezcan a la sesión de instalación a que se refiere el artículo 35 de la Constitución Política del Estado.
+VIII. Cambio climático: Cambio en el clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempos comparables;
 
-###### ARTÍCULO 14.
+IX. Contaminación: La presencia de uno o más contaminantes en el ambiente o cualquier combinación de ellos que cause desequilibrio ecológico;
 
-La Comisión Instaladora tendrá a su cargo:
+X. Contaminante: Toda materia o energía en cualquiera de sus estados físicos, químicos, biológicos o formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
-I.- Recibir de la Oficialía Mayor, las constancias de mayoría y de asignación proporcional que el Consejo Estatal Electoral emita, así como la documentación electoral que corresponda, en los términos del Código Electoral para el Estado de Sonora y, en su caso, las resoluciones del órgano jurisdiccional electoral correspondiente recaídas a los recursos de que se haya conocido dentro del proceso de elección de diputados;
+XI. Contingencia ambiental: Situación de riesgo, derivada de las actividades humanas o fenómenos naturales que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-II.- Convocar a los diputados electos a la junta previa que deberá celebrarse por lo menos cinco días anteriores al inicio del primer periodo de sesiones ordinarias de la legislatura entrante. Dicha convocatoria deberá ser en forma personal con dos días de anticipación a la fecha de celebración de la misma;
+XII. Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de esta Ley y los demás ordenamientos que de ella se deriven;
 
-III.- Recibir el acta en la que conste la decisión de los diputados electos bajo el emblema de un mismo partido político de constituirse en Grupo Parlamentario, en términos del artículo 163 de la presente ley;
+XIII. Conservación: Método de utilización de un recurso natural o el ambiente total de un ecosistema particular, para prevenir la explotación, polución, destrucción o abandono, asegurando el futuro del recurso;
 
-IV.- Coordinar los trabajos inherentes al proceso de entrega-recepción que deberá realizar la Oficialía Mayor del Congreso del Estado; y
+XIV. Criterios ecológicos: Los lineamientos obligatorios contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de política ambiental;
 
-V.- Dar cumplimiento, en lo que corresponda, al procedimiento previsto para la instalación de la nueva legislatura.
+XV. Daño ambiental: Es el que ocurre sobre algún elemento ambiental a consecuencia de un impacto ambiental adverso;
 
-###### ARTÍCULO 15.
+XVI. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medios apropiados de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-En la fecha de la junta previa establecida en el artículo anterior, la Comisión Instaladora entregará las credenciales de identificación y acceso a los diputados electos que integrarán la nueva legislatura, atendiendo a la constancia de mayoría y validez, de asignación o a la resolución firme del órgano jurisdiccional electoral correspondiente que haya recibido el Congreso del Estado.
+XVII. Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+XVIII. Disposición final: Acción de depositar permanentemente los residuos sólidos no susceptibles a reciclarse, en sitios y condiciones adecuadas para evitar daños al ambiente;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE ABRIL DE 2016)</small>
+XIX. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-###### ARTÍCULO 16.
+XX. Educación ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
-A las cero horas del día 01 de septiembre del año de la elección, se llevará a cabo la junta preparatoria en el salón de sesiones del Congreso del Estado, previa a la instalación de la legislatura, con la presencia de la Comisión Instaladora y por lo menos la mayoría de los diputados electos, procediendo a instalar la nueva legislatura por el período constitucional que corresponda, debiéndose observar el siguiente procedimiento:
+XXI. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, la transformación y el desarrollo del hombre y demás seres vivos;
 
-I.- La Comisión Instaladora, por conducto del Primer Secretario, dará cuenta del ejercicio y cumplimiento de las atribuciones establecidas en el artículo 14 de esta ley, reservando la entrega de documentos electorales a la Mesa Directiva;
+XXII. Elemento natural: Los elementos físicos, químicos y biológicos que se presenten en un tiempo y espacio determinado sin la inducción del hombre;
 
-II.- Seguidamente, se pasará lista de presentes a los diputados miembros de la nueva legislatura para, en su caso, previa su protesta constitucional ante la Comisión Instaladora, declarar debidamente instalada la legislatura con su número correspondiente. En el caso de inasistencias de diputados electos, éstos serán llamados en términos de la Constitución Política del Estado;
+XXIII. Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales, que al afectar severamente los elementos naturales ponen en peligro uno o varios ecosistemas;
 
-III.- Acto continuo, el Presidente de la Comisión Instaladora pedirá a los diputados que, por mayoría absoluta de votos, elijan a la Mesa Directiva para el periodo correspondiente, misma que se integrará conforme a lo dispuesto en esta ley;
+XXIV. Emisión: Liberación al ambiente de toda sustancia en cualquiera de sus estados físicos o cualquier tipo de energía proveniente de una fuente;
 
-IV.- Electa la Mesa Directiva, el Presidente de la Comisión Instaladora invitará a los recién nombrados a tomar su lugar en el presidium. Antes de retirarse, hará la entrega por inventario de la totalidad de los documentos y constancias electorales que obren en su poder, así como los documentos relativos al proceso de entrega-recepción. Acto seguido, declarará concluidas las funciones de la Comisión Instaladora;
+XXV. Estado: Al Estado Libre y Soberano de Oaxaca;
 
-V.- Una vez instalada la Mesa Directiva, el Presidente declarará formalmente inaugurado el primer periodo ordinario de sesiones;
+XXVI. Estudio de riesgo: Documento mediante el cual se da a conocer, a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que dichas obras o actividades representen para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos del equilibrio ecológico en caso de un posible siniestro, durante la ejecución u operación normal de la obra o actividad de que se trate;
 
-VI.- Acto seguido, el Presidente de la Mesa Directiva dará cuenta al pleno del Congreso del Estado la integración de los Grupos Parlamentarios que se hubiesen constituido conforme a la presente ley; y
+XXVII. Fauna silvestre: Las especies animales terrestres, que subsisten sujetas a los procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio del Estado y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentren bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-VII.- Los diputados que no hubieren asistido a la sesión, deberán rendir protesta ante la Mesa Directiva en la primera sesión a la que concurran.
+XXVIII. Flora silvestre: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
 
-###### ARTÍCULO 17.
+XXIX. Fuente fija: Toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-El Presidente y Secretario de la Mesa Directiva comunicarán inmediatamente la ley que declara su instalación a las autoridades correspondientes para los efectos legales a que haya lugar.
+XXX. Fuente móvil: Todo vehículo ya sea aviones, helicópteros, ferrocarriles, tranvías, tractocamiones, autobuses integrales, camiones, microbuses, automóviles, motocicletas, embarcaciones, equipos y maquinarias no fijos con motores de combustión y similares, vehículos de propaganda y aquellos que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera y no estén definidos como fuentes fijas;
 
-### CAPÍTULO I. DEL CÓDIGO DE CONDUCTA
+XXXI. Geodiversidad: Es la variabilidad de elementos geológicos presentes en un lugar: las rocas y sedimentos del sustrato, la geometría y estructura que presentan, su composición y los minerales que las forman, los suelos formados sobre ellas, los fósiles que contienen, las formas del relieve y los procesos que dan lugar a cada uno de ellos;
 
-#### SECCIÓN II. PRESCRIPCIÓN DEL DERECHO DE QUERELLA
+XXXII. Geoparque: Es un territorio que presenta un patrimonio geológico de relevancia, con dimensiones suficientes para promover el desarrollo económico, cultural y sustentable, que incluye sitios de importancia ecológica, arqueológica, histórica y cultural, reconocido como tal en un plano internacional en el marco del programa internacional de Geociencias y Geoparques de la UNESCO;
 
-###### ARTÍCULO 18.
+XXXIII. Impacto ambiental: Modificación del ambiente ocasionado por la acción del hombre o de la naturaleza;
 
-Se entiende por entrega-recepción al proceso legal-administrativo a través del cual la legislatura saliente prepara, por conducto de la Oficialía Mayor, y entrega a la legislatura entrante, en el acto de instalación de la misma, todos los bienes, fondos y valores del Congreso del Estado, así como toda aquella documentación que debidamente ordenada y clasificada, haya sido generada en su ejercicio constitucional.
+XXXIV. Impacto ambiental significativo o relevante: Aquel que resulta de la acción del hombre o de la naturaleza que provoca alteraciones en los ecosistemas y sus recursos naturales o en la salud, obstaculizando la existencia o desarrollo del hombre y de los demás seres vivos, así como la continuidad de los procesos naturales;
 
-###### ARTÍCULO 19.
+XXXV. Jurisdicción local: Facultades que en materia ambiental competen ejercer al Estado y a los municipios en los términos de esta Ley, dentro de sus respectivas circunscripciones territoriales;
 
-Los primeros diez días del mes de julio del último año de ejercicio de la legislatura correspondiente, la Diputación Permanente deberá acordar las bases mediante las cuales, los titulares de las dependencias, harán la entrega de los asuntos de su competencia, así como la información relativa a los recursos humanos, materiales y financieros que tengan asignados para el ejercicio de sus atribuciones, conforme a las disposiciones legales del presente capítulo.
+XXXVI. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-###### ARTÍCULO 20.
+XXXVII. Ley: Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Oaxaca;
 
-Para el cumplimiento de las disposiciones establecidas en el acuerdo que establezca las bases del acto de entrega-recepción, la Oficialía Mayor del Congreso del Estado será la unidad responsable de coordinar las acciones de planeación, organización, integración y documentación necesarias para la entrega-recepción.
+XXXVIII. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-###### ARTÍCULO 21.
+XXXIX. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo que contenga unidades funcionales de herencia;
 
-Con el propósito de facilitar el proceso de entrega -recepción, los titulares de las dependencias del Congreso del Estado deberán mantener ordenados y permanentemente actualizados sus informes, registros, controles y demás documentación relativa a los asuntos de su competencia, así como la información de los recursos humanos, materiales y financieros de que disponen para el ejercicio de sus funciones.
+XL. Material peligroso: Elementos, sustancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico- infecciosos;
 
-#### SECCIÓN PRIMERA. REGLAS GENERALES
+XLI. Medidas de prevención y mitigación: Conjunto de disposiciones y acciones anticipadas que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
 
-###### ARTÍCULO 22.
+XLII. Mejoramiento: El incremento de la calidad del ambiente;
 
-Los documentos para el acto de entrega-recepción serán, por lo menos:
+XLIII. Norma técnica ambiental: Disposiciones de carácter obligatorio en el Estado, que tienen por objeto establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades que causen o puedan causar desequilibrio ecológico o daño al ambiente, para prevenir, reducir, mitigar y, en su caso, compensar los efectos adversos o alteraciones que se ocasionen o puedan ocasionar al ambiente y sus recursos, así como considerar las condiciones necesarias para reorientar los procesos y tecnologías de protección al ambiente y al desarrollo sustentable;
 
-I.- El diario de debates y las actas levantadas con motivo de las sesiones del pleno del Congreso del Estado y de la Diputación Permanente;
+XLIV. Normas Oficiales: Conjunto de reglas científicas o tecnológicas emitidas por la Federación, que establecen los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles, que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniforman principios, criterios, políticas y estrategias en la materia;
 
-II.- Las minutas levantadas con motivo de las reuniones de las diversas comisiones;
+XLV. Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-III.- La relación de las iniciativas y asuntos en trámite, así como el estado que guardan cada uno y la comisión que los atiende;
+XLVI. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad y geodiversidad, fuera de su hábitat natural;
 
-IV.- La documentación relativa a la situación financiera y contable del Congreso del Estado, así como la información vinculada con ella;
+XLVII. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-V.- La documentación relativa a las cuentas y deudas públicas del Estado, de los ayuntamientos y demás organismos estatales o municipales;
+XLVIII. Procuraduría: La Procuraduría de Protección al Ambiente del Estado de Oaxaca;
 
-VI.- La plantilla y expedientes del personal al servicio del Congreso del Estado, conteniendo antigüedad, puesto, prestaciones y demás información conducente;
+XLIX. Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-VII.- El inventario, registro, catálogo y resguardo de los bienes muebles e inmuebles del Congreso del Estado;
+L. Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, la población o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
-VIII.- El resultado de las auditorías practicadas y en proceso al Congreso del Estado, a sus dependencias y a sus unidades administrativas;
+LI. Recursos genéticos: Todo material genético con valor real o potencial que provenga de origen vegetal, animal, microbiano, o de cualquier otro tipo y que contenga unidades funcionales de la herencia, existentes en el territorio nacional y en las zonas donde la nación ejerce soberanía y jurisdicción;
 
-IX.- Relación de los asuntos en trámite ante diversas autoridades, con la descripción clara del estado en que se encuentran;
+LII. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-X.- Relación de recursos materiales bajo resguardo de los Grupos Parlamentarios en el recinto del Congreso del Estado; y
+LIII. Reglamento: Al Reglamento de la Ley de Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca.
 
-XI.- La demás información que se estime relevante para garantizar la continuidad de los trabajos legislativos.
+LIV. Región ecológica: La unidad del territorio estatal que comparte características ecológicas comunes;
 
-> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+LV. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-Los documentos a que se hace referencia en el presente artículo deberán ser publicados en la página de internet del Congreso del Estado y la entrega formal se realizará utilizando un disco compacto que contenga dicha información.
+LVI. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-###### ARTÍCULO 23.
+LVII. Ruido: Todo sonido que, por su timbre, intensidad o duración, moleste o perjudique a las personas.
 
-El Instituto Superior de Auditoría y Fiscalización, en ejercicio de sus atribuciones, analizará el expediente integrado con la documentación a que refiere el artículo que antecede, para formular el informe correspondiente dentro de los treinta días hábiles siguientes al acto de entrega-recepción.
+LVIII. Secretaría: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable;
 
-> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+LIX. Servicios ambientales: Los beneficios tangibles e intangibles, generados por los ecosistemas, necesarios para la supervivencia del sistema natural y biológico en su conjunto, y para que proporcionen beneficios al ser humano;
 
-El informe a que se hace referencia en el presente artículo deberá ser publicado en la página de internet del Congreso del Estado y la entrega formal se realizará utilizando un disco compacto que contenga dicha información.
+LX. Sustancias peligrosas: Aquella que por sus altos índices de inflamabilidad, explosividad, toxicidad, reactividad, corrosividad o acción biológica que puede ocasionar una afectación significativa al ambiente, a la población o a sus bienes;
 
-#### SECCIÓN SEGUNDA. REGLAS ESPECIALES
+LXI. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y;
 
-## TÍTULO TERCERO. DE LOS DIPUTADOS
+LXII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas de competencia estatal, que permite ordenar el territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
 
-### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS DIPUTADOS
+###### Artículo 5.
 
-#### SECCIÓN IV. PRESCRIPCIÓN DE LA FACULTAD DE EJECUTAR LAS SANCIONES
+El Estado y los Municipios ejercerán sus atribuciones en materia de aprovechamiento de los recursos naturales, de preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con la distribución de competencias previstas en la Ley General, en esta Ley y en otros ordenamientos legales aplicables en la materia.
 
-###### ARTÍCULO 24.
+###### Artículo 6.
 
-El Congreso del Estado contará con un Código de Conducta que contendrá los lineamientos de conducta aplicables al ejercicio de la actividad de los diputados y de sus servidores públicos, tendientes a garantizar la transparencia, la eficiencia, la eficacia y la rendición de cuentas de los mismos.
+Son asuntos de competencia del Estado a través de la Secretaría:
 
-###### ARTÍCULO 25.
+I. Formular, conducir y evaluar la política ambiental estatal en congruencia con el Plan Estatal de Desarrollo;
 
-El Código de Conducta fomentará el diálogo, el consenso y la inclusión de ideas de los diferentes Grupos Parlamentarios; definirá la misión, la visión y los objetivos que orientarán el quehacer Legislativo; regulará la transparencia patrimonial, el acceso a la información pública y contemplará medidas para prevenir actos de corrupción al interior del Congreso del Estado. El incumplimiento de las conductas previstas en este Código se sancionará de conformidad a la normatividad aplicable.
+II. Formular, aprobar y ejecutar el Programa Estatal de Protección al Ambiente en congruencia con el Plan Estatal de Desarrollo;
 
-###### ARTÍCULO 26.
+III. Determinar las estrategias y criterios ecológicos que deban observarse en la aplicación de la política ambiental estatal, mismos que guardarán congruencia con los que formule la Federación en la materia;
 
-La Comisión de Régimen Interno y Concertación Política propondrá al pleno del Congreso del Estado los lineamientos que integrarán el Código de Conducta, pudiendo consultar previamente a la ciudadanía.
+IV. Aplicar los instrumentos de la política ambiental previstos en ésta Ley, así como los criterios de preservación y restauración del equilibrio y la protección al ambiente, en las obras o actividades que se realicen en bienes y zonas de jurisdicción estatal y en las materias que no estén expresamente atribuidas a la Federación;
+
+V. Prevenir, preservar y restaurar el equilibrio ecológico, así como la protección del ambiente en el territorio de la entidad;
+
+VI. Participar en emergencias y/o contingencias ambientales, conforme a las políticas, instrumentos o programas de protección civil que al efecto se establezcan;
+
+VII. Prevenir, detectar y controlar las emergencias y/o contingencias ambientales cuando las causas que pongan en riesgo o afecten el equilibrio ecológico del o los ecosistemas de dos o más municipios y no rebasen la jurisdicción territorial de la entidad, y cuando la intervención no sea exclusiva de la Federación;
+
+VIII. Regular las actividades que no sean consideradas altamente riesgosas, que no estén asignadas a la Federación, cuando por los efectos que puedan generar impacten ecosistemas, algún componente de estos o el ambiente en la entidad, así como evaluar y, en su caso, autorizar los estudios correspondientes;
+
+IX. Establecer, regular y administrar las áreas naturales protegidas de competencia estatal, en congruencia con sus Programas de Manejo y el Plan Maestro del Sistema Estatal de Conservación de Áreas Naturales;
+
+X. Diseñar y establecer políticas públicas para prevenir y controlar la contaminación atmosférica generada por fuentes fijas o móviles emisoras de competencia estatal;
+
+XI. Formular, establecer y aplicar las medidas necesarias para la prevención y control de la contaminación generada por ruidos, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales de competencia estatal, así como, de fuentes móviles que no sean de competencia federal;
+
+XII. Regular y evaluar el Impacto Ambiental de las obras o actividades previstas en el artículo 33 de esta Ley previamente a la realización o ejecución de las obras o actividades, así como, el daño ambiental, y en su caso, expedir la resolución correspondiente;
+
+XIII. La prevención, el control de la contaminación y de los daños ambientales a los ecosistemas o a los componentes de estos, generados por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos que sólo puedan utilizarse como elementos para la fabricación de materiales para la construcción u ornamento de obras y actividades;
+
+XIV. Determinar las bases y celebrar convenios o acuerdos de coordinación en materia ambiental con el gobierno Federal, los gobiernos de otras entidades federativas, las autoridades municipales y de concertación con instituciones académicas y la ciudadanía en general, sea en forma individual o en agrupaciones;
+
+XV. Regular los sistemas de recolección, transporte, almacenamiento, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial;
+
+XVI. Vigilar el cumplimiento y aplicar las sanciones administrativas por violación al presente ordenamiento y disposiciones que de ella emanen, en el ámbito de su competencia y de las atribuciones que le otorga la Ley General y las Normas Oficiales; así como en los casos de desequilibrio ecológico o daño al ambiente en áreas de jurisdicción estatal, cuando rebasen el ámbito de éstas, sin perjuicio de que la Federación ejercite las atribuciones que le competen;
+
+XVII. Formular, coordinar y evaluar programas y acciones en materia de protección y restauración de los sistemas naturales del Estado y sus elementos;
+
+XVIII. La formulación, expedición y ejecución de los programas de ordenamiento ecológico del territorio de acuerdo con lo establecido en el artículo 20 Bis 2 de la Ley General y conforme a esta Ley, con la participación de los Municipios y sectores de la sociedad civil;
+
+XIX. Coordinarse con los Municipios a fin de mantener un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio en sus respectivas jurisdicciones;
+
+XX. Establecer acciones de participación concurrente de los Municipios con el Estado en las atribuciones que otorga la presente Ley;
+
+XXI. Denunciar ante la autoridad competente, los hechos ilícitos materia de esta Ley;
+
+XXII. Elaborar y aplicar los reglamentos y normas técnicas que regulen las materias de la presente Ley;
+
+XXIII. En materia de prevención y control de la contaminación generada por los vehículos automotores que circulan en el Estado, haga cumplir lo dispuesto por el artículo 139 de esta Ley, generando los instrumentos de coordinación con las autoridades de vialidad y/o tránsito en el estado de Oaxaca;
+
+XXIV. Formular e implementar los instrumentos técnicos y normativos en materia de verificación vehicular en coordinación con las instituciones correspondientes;
+
+XXV. Fomentar el desarrollo y aplicación de los instrumentos de Ordenamiento ecológico local o comunitarios, en coordinación con los municipios;
+
+XXVI. La regulación del aprovechamiento sustentable y control de la contaminación de las aguas de jurisdicción estatal; así como de las aguas nacionales que tengan asignadas;
+
+XXVII. Promover la participación de la sociedad en materia ambiental de conformidad con lo establecido en esta Ley;
+
+XXVIII. Integrar el Sistema Estatal de Información Ambiental y de Recursos Naturales y conducir la política estatal de información y difusión en materia ambiental, en los términos de la presente Ley;
+
+XXIX. El ejercicio de las funciones que en materia de preservación del equilibrio ecológico y protección al ambiente les transfiera la Federación, conforme a lo dispuesto el artículo 11 de la Ley General;
+
+XXX. La emisión de recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la legislación ambiental;
+
+XXXI. Atender de forma coordinada con la Federación asuntos que afecten el equilibrio ecológico de dos o más Entidades Federativas, cuando así lo consideren convenientes las Entidades Federativas respectivas;
+
+XXXII. Formular, dictaminar, conducir y evaluar la política estatal en materia de cambio climático en concordancia con la política nacional;
+
+XXXIII. Implementar medidas y mecanismos para regular el aprovechamiento racional, prevenir y controlar la contaminación de los recursos naturales y del ambiente en general;
+
+XXXIV. Formular, en el ámbito de su competencia los proyectos de leyes, reglamentos, normas técnicas, decretos, acuerdos, programas y demás disposiciones jurídicas conducentes para la protección y sustentabilidad de los recursos naturales de la entidad;
+
+XXXV. Formular y conducir la política estatal para la conservación y aprovechamiento sustentable de la biodiversidad, en congruencia con los lineamientos de la política nacional en la materia;
+
+XXXVI. Formular, conducir y evaluar la política estatal en materia de prevención y gestión integral de calidad del aire a través de programas, sistemas de monitoreo atmosférico, planes, acordes a la Estrategia Nacional de Calidad del Aire;
+
+XXXVII. Diseñar, formular y aplicar en coordinación con las autoridades competentes, la sustentabilidad de la política forestal estatal en concordancia con la política forestal nacional;
+
+XXXVIII. Expedir ordenamientos jurídicos conforme al ámbito de su competencia, en materia de cambio climático, residuos sólidos y de manejo especial, biodiversidad y desarrollo forestal;
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+
+Asimismo, expedir la norma ambiental que establezca las condiciones y especificaciones técnicas para el manejo integral de grasas y aceites de origen animal y/o vegetales residuales en el territorio del Estado de Oaxaca.
+
+XXXIX. Diseñar e instrumentar en coordinación con las autoridades educativas, el Programa Estatal de Educación para el Desarrollo Sustentable que fomente la protección del ambiente y el desarrollo sustentable de la entidad;
+
+XL. Promover y fomentar la investigación de protección del ambiente y la sustentabilidad de los recursos naturales, en coordinación con instituciones académicas y de investigación;
+
+XLI. Fomentar e impulsar el desarrollo de proyectos o actividades de generación y uso de energías limpias y renovables, en donde los usos de los recursos naturales no estén reservados a la federación, conforme a los instrumentos jurídicos que para tal efecto celebre el Estado y en términos de la normatividad aplicable, y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2019)</small>
+
+XLII. Promover y ejecutar campañas para arborizar las áreas urbanas que, bajo cualquier causa, carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas conforme a los estudios pertinentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2019)</small>
+
+XLIII. La atención de los demás asuntos que, en materia de preservación del equilibrio ecológico y protección al ambiente, de energías y de cambio climático les concedan otros ordenamientos en la materia y que no estén otorgados expresamente a la Federación.
+
+###### Artículo 7.
+
+Corresponden a los municipios del Estado de Oaxaca, con el concurso, según el caso, del Gobierno del Estado, dentro de sus respectivas jurisdicciones, las siguientes facultades:
+
+I. La formulación, conducción y evaluación de la política ambiental municipal en congruencia con las disposiciones jurídicas federales y estatales sobre la materia;
+
+II. La aplicación de los instrumentos de política ambiental previstos en la presente Ley;
+
+III. El aprovechamiento sustentable de los recursos naturales, la preservación y restauración del equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas a la Federación o al Gobierno Estatal;
+
+IV. La autorización y regulación, conforme a las Normas Oficiales Mexicanas, del funcionamiento de los sistemas de recolección, transporte, almacenamiento, manejo, rehúso, tratamiento y disposición final de los residuos sólidos municipales e industriales, de acuerdo al artículo 137 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+V. Establecer y operar los sistemas y medidas necesarios para la preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales y sus efectos, siempre y cuando no se trate de facultades otorgadas a la Federación o al Estado conforme en las Leyes en la materia;
+
+VI. La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, de fuentes móviles que no sean consideradas de jurisdicción federal o de fuentes naturales y quemas, así mismo en las declaratorias de usos, destinos, reservas y provisiones, definiendo las zonas en que sea permitida la instalación de industrias contaminantes, sin perjuicio de las facultades federales en materia de actividades altamente riesgosas;
+
+VII. La prevención y control de la contaminación de las aguas federales que se tengan asignadas o concesionadas para la prestación de servicios públicos y de las que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, con la participación que conforme a la presente Ley corresponda al Estado de Oaxaca;
+
+VIII. La verificación del cumplimiento de las Normas Oficiales Mexicanas que se expidan para el vertimiento de aguas residuales en los sistemas de drenaje y alcantarillado de los centros de población y de las instituciones educativas del Estado;
+
+IX. El dictamen de las solicitudes de autorización para descargar aguas residuales en los sistemas de drenaje y alcantarillado que administren y establecer condiciones particulares de descarga a dichos sistemas, salvo que se trate de aguas residuales generadas en bienes y zonas de jurisdicción federal;
+
+X. El requerimiento de la instalación de sistemas de tratamiento a quienes exploten, usen o aprovechen en actividades económicas, aguas federales concesionadas a los municipios para la prestación de servicios públicos, así como a quienes viertan descargas de aguas residuales a los sistemas municipales de drenaje y alcantarillado y no satisfagan las Normas Oficiales Mexicanas;
+
+XI. La implantación y operación de sistemas municipales de tratamiento de aguas residuales de conformidad con las Normas Oficiales Mexicanas;
+
+XII. La aplicación de las disposiciones jurídicas relativas a la prevención y control sobre la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las que sean consideradas de jurisdicción federal;
+
+XIII. La regulación de la imagen de los centros de población para protegerlos de la contaminación visual;
+
+XIV. La participación en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
+
+XV. Requerir a los responsables de la operación de fuentes fijas, el cumplimiento de los límites máximos permisibles de emisión de contaminantes y en su caso, la instalación de equipos de control de emisiones o de acciones de restauración del equilibrio ecológico de conformidad con lo dispuesto en el reglamento correspondiente y las Normas Oficiales Mexicanas;
+
+XVI. La formulación, aprobación, expedición, evaluación y modificación de los Programas de Ordenamiento Ecológico, se harán en los términos previstos en los artículos 23 y 24 de esta Ley y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como el control y la vigilancia del uso y cambio de suelo establecidos en dichos programas;
+
+XVII. La participación en la atención de los asuntos que afecten el equilibrio ecológico de dos o más municipios y que generen efectos ambientales en su circunscripción territorial;
+
+XVIII. La constitución y administración de zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas descritas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+XIX. La participación en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XX. La vigilancia del cumplimiento de las Normas Oficiales Mexicanas y las normas estatales expedidas por la Federación y por el Gobierno Estatal;
+
+XXI. La promoción de la participación de la sociedad en materia ambiental, de conformidad con lo dispuesto en ésta Ley en el artículo 52;
+
+XXII. La formulación y conducción de la política municipal de información y difusión en materia ambiental;
+
+XXIII. La formulación, ejecución y evaluación del Programa Municipal de Aprovechamiento Sustentable de los Recursos Naturales y Protección al Ambiente;
+
+XXIV. La concertación de acciones con los sectores social y privado en materia de su competencia y conforme a ésta Ley;
+
+XXV. El establecimiento de las medidas necesarias para imponer las sanciones correspondientes por infracciones a la presente Ley o a los reglamentos o bandos de policía y buen gobierno, y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2019)</small>
+
+XXVI. Arborizar y promover entre los particulares campañas para mencionado fin, en las áreas urbanas de su competencia que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2019)</small>
+
+XXVII. La atención de los demás asuntos que, en materia de aprovechamiento sustentable de recursos naturales, preservación del equilibrio ecológico y protección al ambiente les conceda la Ley General del Equilibrio Ecológico y la Protección al Ambiente, ésta Ley u otros ordenamientos en concordancia con ellas y que no estén otorgados expresamente a la Federación o a los Estados.
+
+### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
+
+###### Artículo 8.
+
+El Estado por conducto de la Secretaría podrá celebrar acuerdos y convenios de coordinación, con la Federación y los Municipios en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+Los Convenios o Acuerdos suscritos para los fines del presente artículo deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
+
+###### Artículo 9.
+
+Para formular y conducir la política ambiental estatal, así como, expedir y aplicar los instrumentos previstos en esta Ley, en materia de aprovechamiento sustentable de los recursos naturales, preservación y restauración del equilibrio ecológico y la protección al ambiente las autoridades tendrán en cuenta los siguientes principios:
+
+I. Toda persona tiene derecho a vivir en un ambiente sano para su desarrollo, salud y bienestar. Las autoridades, en los términos de ésta y otras Leyes, garantizarán y tomarán las medidas para cumplir ese derecho;
+
+II. Los ecosistemas y sus elementos deben ser aprovechados de manera que se asegure la sustentabilidad, compatible con su equilibrio e integridad;
+
+III. Asumir la responsabilidad de la preservación y restauración del equilibrio ecológico y de la protección al ambiente, en forma conjunta con los particulares y con la sociedad organizada;
+
+IV. Quien realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o reparar los daños que cause, así como asumir los costos que dicha afectación implique. Asimismo, debe incentivarse a quien proteja el ambiente, promueva o realice acciones de mitigación y adaptación a los efectos del cambio climático y aproveche de manera sustentable los recursos naturales;
+
+V. La responsabilidad respecto al equilibrio ecológico, comprende tanto las condiciones presentes como las que determinarán la calidad de la vida de las futuras generaciones;
+
+VI. La prevención de las causas que los generan, es el medio más eficaz para evitar los desequilibrios ecológicos;
+
+VII. La coordinación entre las dependencias y entidades de la administración pública y entre los niveles de gobierno federal y municipal, son indispensables para la eficacia de las acciones ecológicas;
+
+VIII. Los sujetos de la concertación ecológica son los individuos, los grupos y organizaciones sociales. El propósito de la concertación de acciones en materia de gestión ambiental es reorientar la relación entre la sociedad y la naturaleza;
+
+IX. En el ejercicio de las atribuciones que las leyes confieren al Estado, para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se considerarán los criterios de preservación y restauración del equilibrio ecológico;
+
+X. Que las normas y los derechos ambientales se tomen en cuenta de manera fundamental en los planes y programas de Gobierno y en las actividades de otros sectores de la sociedad oaxaqueña;
+
+XI. Que se procure la capacidad técnica, financiera y humana para realizar actividades de investigación, planeación y administración encaminadas al desarrollo sustentable del Estado;
+
+XII. Promover en todo el territorio del Estado, que el ordenamiento ecológico identifique la aptitud del territorio y, con ello, el mejor uso del mismo y regule las actividades productivas y de servicios, de manera que se asegure la conservación de los recursos naturales y la prosperidad de los oaxaqueños;
+
+XIII. Restaurar las áreas degradadas y promover la forestación o reforestación con especies nativas, de acuerdo con las condiciones climáticas locales y la vegetación original;
+
+XIV. Garantizar el derecho de las comunidades, incluyendo a los (sic) comunidades indígenas y afromexicanas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo con lo que determine la presente Ley y demás ordenamientos aplicables;
+
+XV. La erradicación de la pobreza es necesaria para el desarrollo sustentable;
+
+XVI. Las mujeres cumplen una importante función en la protección, preservación y aprovechamiento sustentable de los recursos naturales y en el desarrollo. Su completa participación es esencial para lograr el desarrollo sustentable;
+
+XVII. El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los recursos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para elevar la calidad de vida de la población;
+
+XVIII. La educación ambiental constituye un medio para valorar la vida a través de la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales, y;
+
+XIX. La participación de la ciudadanía es estratégica en la protección del medio ambiente, por lo cual incentivar su participación responsable debe ser necesario para que las políticas puedan ser adoptadas.
+
+###### Artículo 10.
+
+En la planeación estatal de desarrollo que se establezca de conformidad con esta Ley y las demás disposiciones en la materia, se deberá incorporar la política ambiental y el ordenamiento ecológico, así como, los preceptos señalados y signados en los planes de acción internacional, nacional y estatal en materia ambiental.
+
+En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública Estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno del Estado para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo y los programas correspondientes.
+
+###### Artículo 11.
+
+El Estado y los municipios promoverá la participación de las autoridades, grupos sociales y personas en la elaboración de los programas que tengan por objeto la preservación y restauración del equilibrio ecológico y la protección al ambiente, según lo establecido en esta Ley y las demás aplicables.
+
+### CAPÍTULO III. DE LA POLÍTICA AMBIENTAL
+
+## TÍTULO SEGUNDO. DE LA PRESERVACIÓN, CONSERVACIÓN Y ADMINISTRACIÓN DE LA BIODIVERSIDAD
+
+### CAPÍTULO IV. DE LOS INSTRUMENTOS DE LA POLÍTICA AMBIENTAL
+
+###### Artículo 12.
+
+En la formulación del ordenamiento ecológico del territorio de la entidad, se deberán considerar los siguientes criterios:
+
+I. La naturaleza y características de cada ecosistema presente en el territorio estatal;
+
+II. La vocación de cada zona o región del Estado, en función de sus recursos naturales, la distribución poblacional y las actividades económicas predominantes;
+
+III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
+
+IV. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
+
+V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades;
+
+VI. Los instrumentos de política ambiental vigentes en la entidad, y;
+
+VII. Las modalidades que, de conformidad con la legislación aplicable, establezcan los decretos de Áreas Naturales Protegidas de competencia federal y/o estatal, así como las demás disposiciones previstas en el programa de manejo respectivo en su caso.
+
+###### Artículo 13.
+
+El ordenamiento ecológico del territorio Estatal, se llevará a cabo a través de los programas de ordenamiento ecológico:
+
+I. Regionales, y;
+
+II. Local.
+
+La Secretaría deberá apoyar administrativa y técnicamente en la gestión, formulación, expedición, ejecución, evaluación y modificación de los programas de ordenamiento ecológico, regional y local, en coordinación con la federación y Municipios, de conformidad con la Ley General y Reglamento de la materia, para lo cual deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas, de acuerdo con lo establecido en esta Ley, así como en las demás disposiciones que resulten aplicables.
+
+###### Artículo 14.
+
+El ordenamiento ecológico, tiene por objeto:
+
+I. Determinar las distintas áreas ecológicas que se localicen en la zona, región o municipio de que se trate, describiendo sus atributos físicos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales, y de las tecnologías utilizadas por los habitantes del área de que se trate;
+
+II. Regular, fuera de los centros de población, los usos del suelo, con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos, y;
+
+III. Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de ordenamiento territorial y el desarrollo urbano en el Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+###### Artículo 14 Bis.
+
+En la formulación y evaluación de los Programas de Ordenamiento Ecológico del Territorio, la Secretaría promoverá la participación de los municipios, pueblos indígenas y afromexicano, instituciones académicas y de investigación; en su realización considerarán los siguientes criterios:
+
+I. La naturaleza y características de cada ecosistema existente en el territorio estatal;
+
+II. La vocación de cada zona o región del Estado, en función de los recursos naturales y el patrimonio natural; la distribución de la población y las actividades económicas predominantes;
+
+III. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
+
+IV. El impacto ambiental que puedan producir nuevas obras, asentamientos humanos, vías de comunicación y demás obras o actividades;
+
+V. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
+
+VI. La conservación y preservación de la naturaleza; y
+
+VII. Las observaciones y propuestas formuladas por la ciudadanía.
+
+###### Artículo 15.
+
+Los programas de ordenamiento ecológico regional deberán contener, por lo menos:
+
+I. La determinación del área o región a ordenar, describiendo sus atributos físicos, bióticos y socio económicos, así como el diagnóstico de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área;
+
+II. La determinación de los criterios de regulación ecológica para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales que se localicen en la región a ordenar, así como para la realización de actividades productivas y la ubicación de asentamientos humanos, y;
+
+III. Los lineamientos para su ejecución, evaluación, seguimiento y modificación.
+
+Cuando en el Estado se establezcan o decreten Zonas Económicas Especiales u otro tipo de áreas que por sus características se consideren relevantes en el territorio, la Secretaría vigilará que sean considerados los lineamientos, estrategias y criterios establecidos en el ordenamiento ecológico, así como en lo dispuesto en la normatividad federal y estatal aplicable.
+
+Cuando una región ecológica del Estado se ubique también en el territorio de una o más entidades federativas, el Gobierno Federal, el Estado y Municipios respectivos, podrán formular un programa de ordenamiento ecológico regional. Para tal efecto se celebrará los acuerdos o convenios de coordinación procedentes con los gobiernos locales involucrados.
+
+Cuando un programa de ordenamiento ecológico regional incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa deberá ser elaborado y aprobado en forma conjunta por la Secretaría y el Gobierno Federal y Municipios ubicados en el área a ordenar, según corresponda.
+
+###### Artículo 16.
+
+Los programas de ordenamiento ecológico local serán expedidos por las autoridades municipales en coordinación con la Secretaría y tendrán por objeto:
+
+I. Determinar las distintas áreas ecológicas que se localicen en la zona, región o municipio de que se trate, describiendo sus atributos físicos y socioeconómicos, así como el diagnostico de sus condiciones ambientales y de las tecnologías utilizadas por los habitantes del área que se trate;
+
+II. Regular, fuera del centro de población, los usos del suelo, con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos, y;
+
+III. Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los planes o programas de ordenamiento territorial y desarrollo urbano en el Estado de Oaxaca.
+
+###### Artículo 17.
+
+Una vez formulados los programas de ordenamiento, la Secretaría y/o autoridades municipales llevarán a cabo una reunión pública en la que se presentará el proyecto, los participantes podrán presentar a la Secretaría o autoridades municipales las propuestas y observaciones que estimen pertinentes.
+
+Los programas de Ordenamiento Ecológico regionales y local, deberán actualizarse cada cinco años; publicarse en el Periódico Oficial del Estado, al menos treinta días antes de iniciar su vigencia y su aplicación se sujetará a lo establecido en la Ley General, este ordenamiento y Reglamento en la materia.
+
+Los programas de ordenamiento regional y locales y sus correspondientes decretos aprobatorios serán inscritos en el Instituto de la Función Registral del Estado de Oaxaca con los respectivos planos y demás documentos anexos y en el Sistema Estatal de Información Ambiental.
+
+### CAPÍTULO V. DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL Y LA AUTORREGULACIÓN Y AUDITORÍA AMBIENTAL
+
+#### SECCIÓN I. DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL
+
+###### Artículo 18.
+
+El Estado y los Municipios en el ámbito de sus competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, y mediante los cuales se buscará:
+
+I. Promover un cambio en la conducta de las personas que realicen actividades industriales, comerciales y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable;
+
+II. Fomentar la incorporación de información confiable y suficiente sobre las consecuencias, beneficios y costos ambientales al sistema de precios a la economía local en el ámbito de sus competencias;
+
+III. Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, deberán procurar que quienes dañen al ambiente, hagan uso indebido de los recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
+
+IV. Promover una mayor equidad social en la distribución y beneficios asociados a los objetivos de la política ambiental, y;
+
+V. Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
+
+###### Artículo 19.
+
+Se consideran instrumentos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen, los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan al ambiente.
+
+Se consideran instrumentos económicos de carácter fiscal, los estímulos que incentiven el cumplimiento de los objetivos de la política ambiental. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
+
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios, investigación científica, desarrollo tecnológico e innovación para la preservación del equilibrio ecológico y protección al ambiente.
+
+Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental.
+
+Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetos al interés público y el aprovechamiento sustentable de los recursos naturales.
+
+###### Artículo 20.
+
+La Secretaría y los Municipios instrumentarán en sus Leyes de Ingresos respectivas, los estímulos fiscales que deban obtener las personas físicas o morales, las organizaciones sociales o privadas, que cumplan con los requisitos establecidos por ésta Ley, que realicen actividades relacionadas con la protección del ambiente y la preservación del equilibrio ecológico.
+
+###### Artículo 21.
+
+Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos del Estado de Oaxaca y de sus Municipios, las actividades relacionadas con:
+
+I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
+
+II. La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
+
+III. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+
+IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicio en áreas ambientales adecuadas;
+
+V. El establecimiento, manejo y vigilancia de áreas naturales protegidas;
+
+VI. Las empresas que cumplan con procesos voluntarios de autorregulación ambiental, y;
+
+VII. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+#### SECCIÓN IV. DE LAS NORMAS TÉCNICAS AMBIENTALES
+
+###### Artículo 22.
+
+La Secretaría vigilará el cumplimiento de las Normas Oficiales y emitirá las Normas Técnicas Ambientales, con el objeto de:
+
+I. Establecer los requisitos, especificaciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en el uso y destino de bienes, insumos y procesos;
+
+II. Considerar las condiciones necesarias para el bienestar de la población, y la preservación o restauración de los recursos naturales y la protección al ambiente;
+
+III. Estimular e inducir a los agentes económicos para reorientar sus procesos y tecnologías a la protección del ambiente y al desarrollo sustentable;
+
+IV. Otorgar certidumbre a largo plazo a la inversión e inducir a los agentes económicos a asumir los costos de la afectación ambiental que ocasionen, y;
+
+V. Fomentar actividades productivas en un marco de eficiencia y sustentabilidad.
+
+###### Artículo 23.
+
+Cuando las Normas Técnicas Ambientales en materia ambiental establezcan el uso de equipos, procesos o tecnología específica, los destinatarios de las mismas podrán proponer a la Secretaría para su aprobación, los equipos, procesos o tecnologías alternativas mediante las cuales se ajustarán a las provisiones correspondientes.
+
+Las Normas Técnicas Ambientales en materia ambiental son de cumplimiento obligatorio en territorio del Estado y señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
+
+#### SECCIÓN V. DE LA INVESTIGACIÓN Y EDUCACIÓN ECOLÓGICA
+
+## TÍTULO TERCERO. DE LA LICENCIA AMBIENTAL INTEGRAL
+
+### CAPÍTULO ÚNICO. DE LOS TIPOS Y CARACTERÍSTICAS DE LAS ÁREAS NATURALES PROTEGIDAS
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
-### CAPÍTULO III. DE LAS LICENCIAS Y RENUNCIAS DE LOS DIPUTADOS
+###### Artículo 24.
 
-> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
+La Secretaría y autoridades municipales, en el ámbito de su competencia, promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos ciclos educativos especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 
-###### ARTÍCULO 27.
+Establecerán lineamientos, recomendaciones y directrices tendientes a que las autoridades e instancias educativas y culturales, públicas y privadas, introduzcan en sus procesos educativos, contenidos y metodologías para el desarrollo de conocimientos, cambio de hábitos y aptitudes en la población, orientadas a favorecer las transformaciones necesarias para alcanzar un desarrollo sustentable y un ambiente sano.
 
-Los diputados quedarán investidos del fuero constitucional durante el ejercicio de su encargo.
+Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica, y la socialización de proyectos de desarrollo sustentable.
 
-###### ARTÍCULO 28.
+###### Artículo 25.
 
-El fuero constitucional protege el ejercicio de los derechos del diputado local y contribuye a salvaguardar la integridad y el buen funcionamiento del Congreso del Estado.
+La Secretaría, celebrará convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia para:
 
-###### ARTÍCULO 29.
+I. Promover que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas para la formación de especialistas en la materia en el territorio del estado y para la investigación de las causas y efectos de los fenómenos ambientales;
 
-Los diputados son inviolables por las opiniones públicas que emitan en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
+II. Propiciar la investigación científica, tecnológica y el aprovechamiento racional de los recursos y proteger los ecosistemas, buscando el rescate y reconocimiento de los conocimientos tradicionales, para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar, abatir la contaminación, así como también la prevención y difusión de los efectos del cambio climático;
 
-###### ARTÍCULO 30.
+III. Promover la generación de conocimientos estratégicos acerca de la naturaleza, la interacción entre los elementos de los ecosistemas, incluido el ser humano, la evolución y transformación de los mismos, a fin de contar con información para la elaboración de programas que fomenten la prevención, restauración, conservación y protección del ambiente, y;
 
-Los diputados en funciones, durante el periodo de su encargo, no podrán desempeñar comisión o empleo alguno en los otros poderes del Estado, del Municipio o de la Federación, disfrutando sueldo o remuneración, a no ser que tengan licencia en sus funciones legislativas mientras desempeñan el empleo o comisión. La infracción de esta disposición será castigada, según la gravedad del caso, con suspensión temporal o pérdida del carácter de diputado que deberá calificar el pleno del Congreso del Estado, conforme al procedimiento que señala la legislación para la declaratoria de procedencia.
+IV. Diseñar, implementar y actualizar el programa estatal de educación para el desarrollo sostenible.
 
-###### ARTÍCULO 31.
+###### Artículo 26.
 
-Los diputados son responsables por los delitos, faltas u omisiones que cometan durante el tiempo de su encargo, pero no podrán ser detenidos ni privados de su libertad, ni ejercitarse en su contra acción penal para ser juzgados por los tribunales jurisdiccionales competentes, hasta en tanto se emita declaratoria de procedencia que ha lugar a acusación y, como consecuencia de ello, se proceda a la separación de su cargo para someterse al ámbito jurisdiccional de los tribunales competentes.
+La Secretaría en coordinación con la Secretaría de Economía y demás instancias competentes, promoverán el desarrollo de la capacitación y adiestramiento para el trabajo en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece ésta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
 
-###### ARTÍCULO 32.
+#### SECCIÓN VI. DE LA REGULACIÓN AMBIENTAL DE LOS ASENTAMIENTOS HUMANOS
 
-Son derechos de los diputados:
+### CAPÍTULO I. OBJETO Y PRESENTACIÓN DE LA LICENCIA AMBIENTAL INTEGRAL
 
-I.- Integrar la legislatura para la cual fue electo;
+###### Artículo 27.
 
-II.- Iniciar leyes, decretos o acuerdos, proponer enmiendas e intervenir en las discusiones y votaciones de los mismos, así como presentar mociones;
+Para contribuir al logro de los objetivos de la política ambiental, la planeación del desarrollo urbano y vivienda, además de cumplir con lo dispuesto en la legislación federal en materia de asentamientos humanos, considerará los siguientes criterios:
 
-III.- Contar con el documento que lo acredite como diputado local;
+I. Los planes o programas de desarrollo urbano deberán tomar en cuenta los lineamientos y estrategias contenidos en los programas de ordenamiento ecológico general del territorio, regionales, locales y marinos existentes;
 
-IV.- Asistir con derecho a voz y voto a las sesiones del pleno del Congreso del Estado, a las reuniones de las comisiones de las que forme parte y a las sesiones de la Diputación Permanente, cuando forme parte de ella y cuando esta ley así lo disponga;
+II. En la determinación de los usos del suelo, se buscará lograr una diversidad y eficiencia de los mismos y se evitará el desarrollo de esquemas segregados o unifuncionales, así como las tendencias a la suburbanización extensiva;
 
-V.- Asistir, con voz pero sin voto, a las reuniones de las comisiones de las que no sea miembro y sesiones de la Diputación Permanente;
+III. En la determinación de las áreas para el crecimiento de los centros de población, se fomentará la mezcla de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población y se evitará que se afecten áreas con alto valor ambiental;
 
-VI.- Formar parte de las mesas directivas, comisiones y demás órganos del Congreso del Estado;
+IV. Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental;
 
-VII.- Asociarse para formar parte de un Grupo Parlamentario, en los términos de esta ley;
+V. Se establecerán y manejarán en forma prioritaria las áreas de conservación ecológica en torno a los asentamientos humanos;
 
-VIII.- Percibir la dieta mensual;
+VI. Las autoridades Estatales y Municipales, en la esfera de su competencia, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable;
 
-IX.- Gozar en lo individual de un seguro de vida y uno de gastos médicos;
+VII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice;
 
-X.- Contar con un cubículo dentro del recinto oficial e instalaciones necesarias para establecer un enlace permanente con sus representados, a efecto de retroalimentar su función legislativa y dar seguimiento a sus demandas; en ambos casos contará con personal de apoyo y asesoría y demás elementos necesarios para el cumplimiento de sus funciones y comisiones;
+VIII. La política ecológica debe buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a su vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida, y
 
-XI.- Disponer del apoyo técnico profesional con que cuenta el Congreso del Estado para el análisis, estudio y elaboración jurídica, o equivalente, en los asuntos o iniciativas encomendadas;
+IX. Las autoridades Estatales y Municipales, en la esfera de su competencia, deberán de evitar los asentamientos humanos en zonas donde las poblaciones se expongan al riesgo de desastres por impactos adversos del cambio climático.
 
-XII.- Tener acceso a la información y documentación necesarias para el cumplimiento de sus funciones;
+###### Artículo 28.
 
-> <small>(REFORMADA, B.O. 16 DE MAYO DE 2011)</small>
+El Estado y los Municipios realizarán la regulación ecológica de los asentamientos humanos, emitiendo las normas, disposiciones y medidas para controlar las actividades de desarrollo urbano y vivienda encaminados a mantener, mejorar o restaurar el equilibrio de los asentamientos humanos con los elementos naturales y asegurar el mejoramiento de la calidad de vida de la población, y que será obligatorio en:
 
-XIII.- Cuando así lo requiera, le sean proporcionadas, en un plazo no mayor de tres días hábiles, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Congreso del Estado, así como de la documentación relacionada con el proceso legislativo en su conjunto;
+I. La fundación de centros de población o la reubicación de los existentes;
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+II. El otorgamiento de licencias, permisos o autorizaciones para crear unidades productivas o de servicios que se asienten dentro de una población o sus inmediaciones;
 
-XIV.- Contar con franquicia y servicio postal para el desempeño de sus funciones;
+III. La creación de reservas territoriales y la determinación de usos y destinos del suelo urbano;
 
-XV.- Solicitar licencia o renuncia, de conformidad con lo que establece esta ley;
+IV. Los Programas Federales a cargo del Estado, los Estatales y Municipios sobre infraestructura, equipamiento urbano y vivienda;
 
-XVI.- Establecer los mecanismos que considere necesarios para difundir e informar a la población el cumplimiento de las tareas desempeñadas en el Congreso del Estado, de conformidad con el presupuesto de egresos aprobado; y
+V. En la planeación urbana se respetará la proporción de áreas verdes y áreas de construcción, así como, el paisaje y la seguridad en el establecimiento de carteles espectaculares;
 
-XVII.- Los demás que la Constitución Política del Estado, esta ley y reglamentos correspondientes les confieran.
+VI. En las construcciones habitacionales se deberá fomentar la incorporación de innovaciones tecnológicas ambientales tales como el uso de la energía solar, la utilización de letrinas o baños secos, la recuperación de agua de lluvia, así mismo, emplear para la construcción materiales apropiados a las condiciones regionales;
 
-###### ARTÍCULO 33.
+VII. El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice; así mismo, los responsables de todo tipo de desarrollos habitacionales tendrán la obligación de realizar las obras necesarias para el tratamiento y recuperación de aguas residuales de acuerdo a la legislación correspondiente, y;
 
-Son obligaciones de los diputados:
+VIII. Las políticas ecológicas deberán buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población, y a la vez, prever las tendencias de crecimiento de los asentamientos humanos, para mantener una relación armónica entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de la vida.
 
-I.- Rendir protesta constitucional y tomar posesión de su cargo;
+###### Artículo 29.
 
-II.- Asistir puntualmente a las sesiones, reuniones de comisiones de las que forme parte, diligencias y demás actos a que hayan sido convocados debidamente. Los diputados solamente podrán dejar de concurrir a las sesiones por causa justificada en los términos de la presente ley o por licencia concedida por el Congreso del Estado;
+Con el objeto de garantizar en el futuro la disponibilidad de agua y en apoyo a la necesidad de recarga de los acuíferos del Estado, toda construcción, obra pública o privada que se desarrolle en la Entidad y que requiera el revestimiento de vías de comunicación vehicular o peatonal, así como en estacionamientos, plazas, parques, andadores, ciclopistas y en general de revestimientos al aire libre, pudiéndose excluir las carreteras, deberán de respetar y cumplir lo siguiente:
 
-III.- Cumplir con los trabajos que le sean encomendados por el Congreso del Estado, así como representarlo en los foros, consultas, reuniones y actos oficiales convocados por el Congreso del Estado o sus similares de otras Entidades Federativas y en aquellos actos oficiales a que sea invitado el Congreso del Estado, por autoridades federales, estatales o municipales;
+I. Los revestimientos se deberán realizar preferentemente con materiales altamente permeables que permitan la filtración del agua al subsuelo para la recarga de los mantos acuíferos, y;
 
-IV.- Justificar ante el pleno del Congreso del Estado la demora en el cumplimiento de los trabajos legislativos que le fueran encomendados de conformidad con la presente ley; y
+II. En las estructuras viales revestidas con materiales impermeables, la autoridad, empresa, institución o persona competente y responsable de su mantenimiento, deberá incorporar las tecnologías apropiadas que permitan la filtración del agua pluvial al subsuelo y no interrumpir el paso natural de los escurrimientos; asimismo, al realizar un nuevo revestimiento, deberá utilizar materiales que permitan la filtración del agua pluvial al subsuelo para la recarga de los mantos acuíferos.
 
-V.- Las demás que contempla la Constitución Política del Estado, esta ley y los ordenamientos jurídicos respectivos.
+###### Artículo 30.
 
-###### ARTÍCULO 34.
+Con el objetivo de contribuir al logro de los objetivos de la política ambiental en materia de asentamientos humanos, se podrán establecer Zonas de Baja Emisión, a las cuales se les denominará ecozonas, que promuevan el desarrollo urbano sustentable, con una perspectiva ambiental, económica y social.
 
-Queda prohibido a los diputados abandonar en forma transitoria, eventual o definitiva el salón de sesiones del Congreso del Estado durante el desarrollo de una sesión, sin permiso previo de la Presidencia, en caso contrario, se considerará falta injustificada y podrá ser acreedor a las sanciones correspondientes.
+Las Zonas de Baja Emisión se establecerán en espacios delimitados del territorio estatal, pudiendo abarcar uno o más municipios, colonias o comunidades, mediante criterios y lineamientos para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable, las cuales podrán incluir: la promoción del ahorro, tratamiento y reciclamiento del agua; el mejoramiento de la calidad del aire mediante sistemas de movilidad; el manejo de residuos; el aprovechamiento eficiente del territorio; la redistribución de los usos y destinos del suelo y su mezcla; la densificación urbana; las regulaciones en materia de edificaciones y su funcionamiento; la promoción del reciclamiento en zonas urbanas; la conservación patrimonial y la imagen urbana; así como la recuperación, habilitación y funcionamiento de espacios públicos, tanto de vocación ambiental como cultural y social.
 
-###### ARTÍCULO 35.
+Las Zonas de Baja Emisión se implementarán conforme a los programas que para cada una de ellas se expidan sujetándose a los criterios, lineamientos y demás disposiciones jurídicas o administrativas aplicables, que respondan a sus condiciones específicas, los cuales podrán ser expedidos por el Titular del Poder Ejecutivo del Estado o las Autoridades Municipales.
 
-El ejercicio de la función de diputado es incompatible con el desempeño de otros cargos de elección popular, tanto local como federal.
+En los Municipios donde se implementen una o más Zonas de Baja Emisión, se deberán adecuar sus disposiciones normativas a fin de ejercer sus atribuciones competenciales, conforme los parámetros y lineamientos que establezcan los programas y demás disposiciones jurídicas y administrativas aplicables.
 
-Les serán aplicables al ejercicio de la función de diputado todas aquellas normas sobre incompatibilidades o prohibiciones establecidas en la Constitución Política del Estado y leyes que de ella emanen.
+###### Artículo 31.
 
-###### ARTÍCULO 36.
+Para contribuir al logro de los objetivos de la política ambiental, en el desarrollo de las actividades agropecuarias deberá considerarse el ordenamiento ecológico del territorio y el uso de tecnologías ambientalmente sanas, apegándose a las Normas Oficiales Mexicanas correspondientes al uso y manejo de agroquímicos.
 
-Durante el ejercicio del cargo legislativo, los diputados pueden ejercer actividades profesionales y políticas que no originen conflicto de intereses con su función pública, salvo en aquellas que por excepción lo distraigan, obliguen o comprometan de sus labores y tareas parlamentarias, debiéndose observar al efecto lo establecido por los artículos 152 y 161 de la Constitución Política del Estado.
+###### Artículo 32.
 
-###### ARTÍCULO 37.
+La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a que se sujetará la realización de obras o actividades públicas o privadas, que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en los Reglamentos y Normas Técnicas Ambientales y demás disposiciones aplicables emitidas para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el medio ambiente.
 
-Los diputados no recibirán ninguna retribución extraordinaria por su asistencia a las sesiones o por desempeño en comisiones o cualquier otro órgano del Congreso del Estado.
+Cuando corresponda a la Secretaría llevar a cabo la evaluación del impacto ambiental, considerará la opinión del Municipio donde se pretenda realizar la obra o actividad sujeta a evaluación, a fin de que éstas manifiesten lo que a su derecho convenga. La autorización de la Secretaría, no obligará en forma alguna a las autoridades locales a expedir las autorizaciones que les corresponda en el ámbito de sus respectivas competencias.
 
-### CAPÍTULO IV. DE LA DISCIPLINA PARLAMENTARIA
+Quienes pretendan llevar a cabo alguna de las obras establecidas en el artículo 33 de esta Ley, deberán obtener del Estado por conducto de la Secretaría la autorización en materia de impacto ambiental previo al inicio de la ejecución de dichas obras o actividades conforme a las competencias que señala esta Ley, sin perjuicio de otras autorizaciones.
 
-###### ARTÍCULO 38.
+###### Artículo 33.
 
-Las licencias y renuncias serán otorgadas por el pleno del Congreso del Estado o la Diputación Permanente, en su caso, en votación por mayoría absoluta.
+Las siguientes obras o actividades, requerirán previo a su ejecución la autorización en materia de impacto ambiental:
 
-Se entenderá por licencias aquellas autorizaciones temporales sin goce de sueldo otorgadas a un diputado para ausentarse de sus funciones.
+I. Obra pública estatal con exclusión de aquella de competencia federal;
 
-Cuando se presente una solicitud de licencia o renuncia por parte de un diputado y no se le resuelve, ya sea por el Pleno del Congreso o por la Diputación Permanente, respecto a la procedencia de la misma en un plazo de 3 días naturales, ésta deberá entenderse como aprobada en sus términos.
+II. Carreteras estatales y caminos rurales, con excepción las de competencia federal;
 
-###### ARTÍCULO 39.
+III. Plantas de tratamiento de aguas residuales, cuya descarga no le resulte aplicable algún supuesto de competencia federal;
 
-No se concederán licencias con goce de dietas, salvo tratándose de licencias por enfermedad, gravidez o causas médicas graves.
+IV. Plantas de asfalto;
 
-> <small>(REFORMADO, B.O. 9 DE DICIEMBRE DE 2014)</small>
+V. Trituradoras de Material Pétreo;
 
-###### ARTÍCULO 40.
+VI. Sistemas de cocción de ladrillo que no sean de operación artesanal;
 
-Para los efectos del artículo 38 de la presente Ley, la renuncia se entenderá como la separación definitiva que realice una persona que ostente el cargo de diputado al mismo.
+VII. Manufactura y maquiladoras;
 
-### CAPÍTULO ÚNICO. DE LA MESA DIRECTIVA
+VIII. Industria Alimenticia;
 
-###### ARTÍCULO 41.
+IX. Industria textil;
 
-Las sanciones disciplinarias que podrán aplicarse a los diputados, de acuerdo a la gravedad del caso, son:
+X. Industria del hule y sus derivados;
 
-I.- Amonestación;
+XI. Curtidurías;
 
-II.- Amonestación con constancia en el acta;
+XII. Industria de bebidas;
 
-III.- Separación de la comisión a que pertenezca;
+XIII. Parques y corredores industriales;
 
-IV.- Disminución de la dieta; y
+XIV. Exploración, extracción y procesamiento físico de sustancias minerales que constituyen depósitos de naturaleza semejante a los componentes de los terrenos;
 
-V.- Las demás que establezca la Constitución Política del Estado.
+XV. Obras o actividades en áreas naturales protegidas de competencia estatal;
 
-###### ARTÍCULO 42.
+XVI. Sistemas de manejo y disposición final de residuos sólidos urbanos y de manejo especial;
 
-El diputado contra quien se solicite o fuere a aplicar la sanción disciplinaria correspondiente, tendrá derecho a ser oído para el caso concreto por sí, a través de otro diputado, o por el representante que designe, previo a la imposición de la misma.
+XVII. Condominios, conjuntos urbanos, fraccionamientos, unidades habitacionales y nuevos centros de población;
 
-###### ARTÍCULO 43.
+XVIII. Desarrollos turísticos estatales y privados que no se encuentren en los supuestos que marca la legislación federal;
 
-Los diputados serán amonestados por el Presidente del Congreso del Estado o de la Diputación Permanente, cuando:
+XIX. Centrales de auto transporte público y privado de carácter estatal;
 
-I.- Llegaren tarde a dos reuniones de las comisiones a que pertenezcan en un periodo de treinta días;
+XX. Industria automotriz;
 
-II.- Dejen de asistir a una o más representaciones que le hayan sido encomendadas;
+XXI. Actividades consideradas no altamente riesgosas, que no se encuentren en los supuestos que marca la legislación federal;
 
-III.- Perturbe al Presidente del Congreso del Estado o de la Diputación Permanente o, en su caso, a cualquier diputado en el desarrollo de la sesión;
+XXII. Obras o actividades asociados a parques eólicos, las cuales no estén reservadas a la federación;
 
-IV.- Con interrupciones, altere el orden en las sesiones; y
+XXIII. Centros comerciales;
 
-V.- Agotado el tiempo y el número de sus intervenciones, pretendiere continuar haciendo uso de la voz o de la tribuna.
+XXIV. Bancos de tiro de residuos de manejo especial, y;
 
-#### SECCIÓN III. PRESCRIPCIÓN DE LA ACCIÓN PENAL
+XXV. Aquellas en las cuales el Estado justifique su participación de conformidad con esta Ley.
 
-###### ARTÍCULO 44.
+El Reglamento de la presente Ley en materia de evaluación del Impacto Ambiental, determinará las obras o actividades a que se refiere este artículo, que por su ubicación, dimensiones, características, o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones.
 
-Los diputados serán amonestados con constancia en el acta por el Presidente del Congreso del Estado o de la Diputación Permanente, cuando:
+###### Artículo 34.
 
-I.- En la misma sesión en la que se les aplicó una amonestación, incurran de nueva cuenta en alguna de las causas previstas en el artículo anterior;
+Quien pretenda realizar las obras y actividades a que se refiere el artículo anterior, requerirán la presentación de un informe preventivo y no una manifestación de impacto ambiental, cuando:
 
-II.- Hayan provocado un tumulto en el pleno del Congreso; y
+I. Existan Normas Oficiales Mexicanas u otras disposiciones que regulen las emisiones, las descargas, el aprovechamiento de recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
 
-III.- Profieran amenazas a uno o varios de sus colegas diputados, o a los miembros de las instituciones del Estado o de la Federación.
+II. Las obras o actividades de que se trate estén expresamente previstas por un programa de desarrollo urbano o de ordenamiento ecológico que haya sido evaluado por la Secretaría en los términos del artículo siguiente;
 
-###### ARTÍCULO 45.
+III. Se trate de instalaciones ubicadas en parques industriales autorizados en los términos de la presente ley;
 
-La dieta de los diputados será disminuida cuando se actualice cualquiera de los siguientes supuestos:
+IV. Sean obras o acciones de interés público, cuya realización sea indispensable para la satisfacción de necesidades de la colectividad y por ende redunden en beneficio de la misma, y;
 
-I.- En un periodo de sesiones, acumule dos o más amonestaciones, con constancia en el acta;
+V. Se considere que no cause impacto ambiental significativo o relevante al medio ambiente.
 
-II.- Se haya conducido con violencia física en el desarrollo de una sesión del pleno del Congreso del Estado o reuniones de comisión;
+En los casos anteriores, la Secretaría, una vez analizado el informe preventivo, determinará, en un plazo no mayor a diez días hábiles, si se requiere la presentación de una manifestación de impacto ambiental en alguna de las modalidades previstas en el reglamento de la presente Ley, o si se está en alguno de los supuestos señalados, debiendo considerar al respecto la eficacia de la decisión, a fin de que no impida la ejecución de las acciones de que se trate, observando en su determinación los principios de flexibilidad, simplificación, agilidad y oportunidad. La Secretaría publicará en el órgano de difusión oficial el listado de los informes preventivos que le sean presentados en los términos de este artículo, los cuales estarán a disposición del público.
 
-III.- En caso de inasistencia injustificada a sesión del pleno del Congreso del Estado;
+###### Artículo 35.
 
-IV.- En caso de inasistencia injustificada a reunión de la comisión de que forme parte;
+Para obtener la autorización a que se refiere el artículo 33 de ésta Ley, los interesados deberán presentar a la Secretaría una manifestación de impacto ambiental, la cual deberá contener los requisitos establecidos en el artículo 37 de esta Ley, por lo menos, una descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
 
-V.- Portar armas dentro del recinto legislativo; y
+Cuando se trate de actividades de bajo riesgo determinadas en el Reglamento correspondiente de ésta Ley, la manifestación deberá incluir el estudio de riesgo correspondiente especificando las medidas preventivas o correctivas que conllevará el desarrollo de la obra o actividad desde su inicio y hasta su terminación, precisando las adversidades que la misma traerá a los ecosistemas en condiciones normales de operación o en caso de accidentes, así como las medidas de mitigación más convenientes.
 
-VI.- Cuando acumulen tres retardos en un periodo de treinta días naturales, tanto en las sesiones del pleno del Congreso del Estado como en las reuniones de comisión, consideradas separadamente.
+Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de la obra o actividad respectiva, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, en un plazo no mayor de diez días les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente, que pudiesen ocasionar tales modificaciones, en términos de lo dispuesto en ésta Ley.
 
-###### ARTÍCULO 46.
+Las características y las modalidades de las manifestaciones de impacto ambiental y los estudios de riesgo serán establecidos por el Reglamento correspondiente de la presente Ley.
 
-Tratándose de disminución de la dieta por inasistencias injustificadas o retardos a sesiones del pleno del Congreso del Estado o reuniones de comisiones, se observará lo siguiente:
+Cuando así lo consideren necesario la Secretaría, podrán realizar visitas técnicas al lugar donde se pretenda ejecutar la obra o realizar la actividad, a efecto de constatar la autenticidad de la información y documentación presentada por el promovente.
 
-I.- Al término de cada sesión del pleno del Congreso del Estado o reunión de comisión, el Presidente de la Mesa Directiva o de la comisión correspondiente, informará a Oficialía Mayor y notificará por escrito y personalmente al diputado que no asistió a la sesión o reunión respectiva, del registro de su falta o retardo, a efecto de que éste, en un plazo de tres días hábiles, justifique la inasistencia o retardos en términos de la presente ley ante la Presidencia de la Mesa Directiva o de la comisión, según corresponda; y
+###### Artículo 36.
 
-II.- En caso de que el diputado no justifique su inasistencia o retardo, vencido el término a que se refiere la fracción anterior, la Comisión de Régimen Interno y Concertación Política ordenará fundada y motivadamente la ejecución de los descuentos a Oficialía Mayor, previa notificación personal al diputado infractor.
+Los efectos negativos que sobre el ambiente, los recursos naturales, la flora y la fauna silvestre y demás recursos a que se refiere esta Ley, pudieran causar las obras o actividades de competencia estatal que no requieren someterse al procedimiento de evaluación de impacto ambiental a que se refiere la presente sección, estarán sujetas a lo conducente a las disposiciones de la misma, sus reglamentos y demás legislación ambiental aplicable, instrumentos de ordenamientos, así como a través de los permisos, licencias, autorizaciones y concesiones que conforme a dicha normatividad se requiera.
 
-###### ARTÍCULO 47.
+###### Artículo 37.
 
-Tratándose de disminución de dieta por los supuestos a que se refieren las fracciones I, II y V del artículo 45 de la presente ley, la Comisión de Régimen Interno y Concertación Política ordenará fundada y motivadamente la ejecución de los descuentos a Oficialía Mayor, previa notificación al diputado infractor.
+Todo proyecto de modificación total o parcial a obras y actividades a que se refiere el artículo 33, que se encuentren establecidas dentro del territorio del Estado, deberá cumplir con lo dispuesto en el presente capítulo, para su análisis y resolución correspondiente.
 
-###### ARTÍCULO 48.
+Cuando la obra o actividad a desarrollar, considere el uso de sustancias peligrosas, pero a su vez, no sea considerada altamente riesgosa, el promovente deberá presentar un Estudio de Riesgo en la modalidad que la Secretaría determine, de conformidad con el artículo 39, que debe contener como mínimo:
 
-En el caso de la fracción I del artículo 45 de la presente ley, la disminución de la dieta diaria será de un 50%; en tanto que en el caso de las fracciones II, III, IV, V y VI del artículo 45 de esta ley, la disminución de la dieta diaria será del 100%.
+I. Datos generales de quien pretenda realizar la obra o actividad proyectada y en su caso de quien hubiese ejecutado los proyectos o estudios previos;
 
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+II. Ubicación y descripción de la obra o actividad proyectada, incluyendo procesos, sustancias peligrosas, sus sistemas de almacenamiento y capacidades maquinaria, equipos, operaciones unitarias;
 
-ARTÍCULO 48 BIS.- El monto proveniente de la disminución de la dieta por los supuestos contenidos en el artículo 45 de la presente ley será depositado en un fondo denominado "Fondo de descuentos", a cargo de la Oficialía Mayor, en el cual se acumularán los recursos que fueron sujetos de sanción por faltas injustificadas de los diputados a sesiones del Pleno o reuniones de comisión en el transcurso del año. A final de cada año, el Pleno del Congreso decidirá dicho monto se designará a organizaciones de la sociedad civil que realicen acciones que impacten positivamente en el desarrollo social.
+III. Hojas de datos de seguridad de las sustancias peligrosas utilizadas como materia prima, productos finales, secundarios o residuos;
 
-###### ARTÍCULO 49.
+IV. Identificación y análisis de riesgo y metodología empleada;
 
-Se considera ausente de una sesión del pleno del Congreso del Estado o reunión de comisión, al diputado que no registra su asistencia en los términos de la presente ley, así como al que no se encuentre presente durante las votaciones de leyes, decretos y acuerdos.
+V. Programa para la prevención de accidentes;
 
-###### ARTÍCULO 50.
+VI. Programa de verificación y mantenimiento a equipos, y;
 
-Las inasistencias de los diputados sólo se justifican cuando se acreditan ante la Presidencia de la Mesa Directiva o de la comisión, según corresponda, las situaciones siguientes:
+VII. Vinculación con los Instrumentos de Ordenamiento Ecológico vigentes.
 
-I.- Enfermedad, estado de gravidez durante los periodos pre y posparto, u otros motivos de salud;
+### CAPÍTULO II. DEL PROCEDIMIENTO DE EVALUACIÓN DE LA LICENCIA AMBIENTAL INTEGRAL
 
-II.- Enfermedad grave de un familiar del diputado con parentesco de hasta el segundo grado en línea recta ascendente, descendiente o colateral;
+###### Artículo 38.
 
-III.- Cumplimiento de trabajo en comisiones;
+Toda persona tendrá derecho a formular observaciones y propuestas en el aspecto ambiental a las obras o actividades sujetas a evaluación de impacto ambiental, la Secretaría pondrá el expediente a disposición del público durante el tiempo que dure la evaluación para ser consultado por quien lo solicite, el promovente de la obra o actividad podrá requerir que se mantenga en reserva la información que, de hacerse pública, pudiera afectar derechos de propiedad industrial.
 
-IV.- Cumplimiento de encomiendas oficiales autorizadas por la Mesa Directiva o el pleno del Congreso del Estado; y
+###### Artículo 39.
 
-V.- Los demás casos extraordinarios que califique la Comisión de Régimen Interno y Concertación Política.
+Una vez presentada la Manifestación de Impacto Ambiental y/o Estudio de Riesgo, la Secretaría inicia el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento en materia de impacto ambiental, normatividad aplicable e instrumentos de guías expedidas por la Secretaría, e integrará el expediente respectivo en un plazo no mayor a 15 días.
 
-El Presidente de la Mesa Directiva o de la comisión, según corresponda, sólo puede otorgar un máximo de dos permisos por mes para ausentarse a sesiones del pleno del Congreso del Estado o de comisiones al mismo diputado en periodo de sesiones ordinarias o extraordinarias.
+Para la autorización de las obras o actividades a que se refiere el Artículo 33, de la presente Ley, la Secretaría, se sujetará a lo que establezcan los ordenamientos antes señalados, así como los programas de desarrollo urbano, de ordenamiento ecológico del territorio, las declaratorias de áreas naturales protegidas, la vinculación con los atlas de riesgo y escenarios del cambio climático, y las demás disposiciones jurídicas que resulten aplicables.
 
-###### ARTÍCULO 51.
+Asimismo, para la resolución de la autorización a que se refiere este Artículo, la Secretaría deberá evaluar los posibles efectos de dichas obras o actividades en el o los ecosistemas de que se trate, considerando el conjunto de elementos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
 
-Cuando algún diputado deje de asistir al número de sesiones que establece el artículo 48 de la Constitución Política del Estado, sin previa autorización del Presidente de la Mesa Directiva, licencia o causa justificada, se llamará al suplente respectivo, quien ejercerá las funciones durante el resto del periodo de sesiones correspondiente.
+###### Artículo 40.
 
-###### ARTÍCULO 52.
+Una vez evaluada la Manifestación del Impacto Ambiental y en su caso, el Estudio de Riesgo, la Secretaría dictará la resolución que corresponda en la que podrá:
 
-Los diputados serán separados de la comisión legislativa a que pertenezcan cuando acumulen, en un periodo de seis meses, tres o más faltas injustificadas a las reuniones de la comisión de la que formen parte, en cuyo caso el Grupo Parlamentario deberá proponer al pleno del Congreso del Estado la sustitución del diputado, en observancia de los parámetros de pluralidad en la integración de comisiones a que refiere la presente ley.
+I. Autorizar la ejecución de la obra o la realización de la actividad que se trate en los términos solicitados;
 
-En caso de que el Grupo Parlamentario no realice la propuesta mencionada en el párrafo anterior en un plazo de diez días hábiles, la comisión respectiva quedará integrada con el resto de los diputados que la conforman.
+II. Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales necesarias de prevención, compensación, restricción y mitigación, en los términos señalados por la Secretaría a fin de que eviten o atenúen los impactos ambientales adversos susceptibles de ser producidos en la operación normal y aún, en casos de accidente, y;
 
-###### ARTÍCULO 53.
+III. Negar la autorización, cuando:
 
-El pleno del Congreso del Estado podrá sancionar el incumplimiento de la obligación de aplicar sanciones, con la imposición al omiso de la sanción que hubiese dejado de aplicar, ejecutar u ordenar tal ejecución.
+a) Se contravenga lo establecido en esta Ley sus reglamentos, las Normas Oficiales Mexicanas, las Normas Técnicas Ambientales y demás disposiciones aplicables;
 
-###### ARTÍCULO 54.
+b) La obra o actividad de que se trate pueda propiciar que una o más especies sean declaradas como amenazadas o en peligro de extinción o cuando se afecte a una de dichas especies, y;
 
-Si un diputado cometiera un delito en el recinto oficial, durante una sesión del pleno del Congreso del Estado o de la Diputación Permanente, en su caso, ésta se suspenderá, a juicio del Presidente; y si el delito se cometiera durante un receso o después de levantada la sesión, el Presidente lo comunicará al reanudarse la sesión o al comienzo de la siguiente; ello, sin perjuicio de informar oportunamente a las autoridades competentes sobre la probable comisión de un delito.
+c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 
-## TÍTULO CUARTO. DE LA ORGANIZACIÓN DEL CONGRESO DEL ESTADO
+La Secretaría dentro del plazo de 45 días contados a partir de la recepción de la Manifestación de Impacto Ambiental y/o Estudio de Riesgo, deberá emitir la resolución correspondiente, este plazo se interrumpirá por requerimiento de información complementaria. Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la Secretaría requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por 45 días adicionales, siempre que se justifique conforme a lo dispuesto en el Reglamento de la presente Ley.
 
-### CAPÍTULO ÚNICO. DE LA DIPUTACIÓN PERMANENTE
+La Secretaría deberá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, tomando en cuenta los daños a los ecosistemas o algún componente de este o los riesgos que puedan generarse a dichos ecosistemas durante las diversas etapas de las obras o actividades.
 
-#### SECCIÓN PRIMERA. DE LA INTEGRACIÓN
+### CAPÍTULO III. DE LA RESOLUCIÓN
 
-###### ARTÍCULO 55.
+###### Artículo 41.
 
-La Mesa Directiva es el órgano de dirección del Congreso del Estado responsable, bajo la autoridad de su Presidente, de preservar la libertad de las deliberaciones, cuidar de la efectividad y cumplimiento del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta ley, así como los acuerdos y determinaciones que apruebe la legislatura.
+Para dar validez a los estudios de Impacto y/o de Riesgo Ambiental, emisiones a la atmósfera y auditorías ambientales, la Secretaría establecerá un registro, en el que deberán inscribirse los prestadores de servicios ambientales, presentando una solicitud con la información y documentos siguientes:
 
-###### ARTÍCULO 56.
+I. Perfil profesional en ciencias ambientales, ingeniero químico ambiental, biólogo, agrónomo o afín a las disciplinas medio ambientales;
 
-La Mesa Directiva se integrará con un Presidente, un Vicepresidente, dos Secretarios y un Secretario Suplente. Preferentemente reflejará la composición plural representada en el Congreso del Estado.
+II. Nombre, nacionalidad y domicilio del solicitante, quien será el responsable legal ante la Secretaría;
 
-###### ARTÍCULO 57.
+III. Los documentos que acrediten la experiencia y capacidad técnica del interesado para la realización de estudio de impacto ambiental, riesgo, auditorías ambientales, emisiones a la atmósfera y análisis de muestras;
 
-La Mesa Directiva será electa por mayoría del pleno del Congreso del Estado; tendrá una duración de acuerdo al mes correspondiente para el que fuera designada; y se comunicará a las autoridades correspondientes para los efectos legales a que haya lugar.
+IV. Infraestructura con que cuenta, y;
 
-> <small>(REFORMADO, B.O. 24 DE SEPTIEMBRE DE 2014)</small>
+V. Los demás documentos e información que les requiera la Secretaría;
 
-###### ARTÍCULO 58.
+Para verificar la capacidad y aptitud de los prestadores de servicio, la Secretaría practicará las investigaciones necesarias, independientemente de la responsabilidad y de las personas morales que realicen o coordinen dichos estudios, deberán ser suscritos por personas físicas inscritas en el registro, quienes declararán bajo protesta de decir verdad, que en ellos se incorporan las mejores técnicas y metodologías e información disponibles al momento de su realización.
 
-La Mesa Directiva será electa por mayoría por el Pleno del Congreso del Estado mediante acuerdo del propio Pleno determinando la integración de la Mesa Directiva para varios meses, al inicio del periodo ordinario de sesiones. En este último caso, cualquier modificación al orden de asignación de la Presidencia acordado, requerirá del voto de las dos terceras partes de los diputados presentes en la sesión en que se resuelva la propuesta respectiva.
+###### Artículo 42.
 
-Los diputados electos para integrar la Mesa Directiva asumirán sus cargos en el primer día del mes correspondiente sin necesidad de declaratoria alguna. La integración de la Mesa Directiva del mes de septiembre, los diputados que hayan sido electos asumirán sus cargos el día 16 de dicho mes. Si algún grupo parlamentario decide modificar la asignación de alguno de sus miembros en la integración de la Mesa Directiva aprobada por el Pleno, bastará que lo informe por escrito, previamente al inicio del ejercicio de sus funciones y se dé cuenta con el mismo en sesión del Pleno sin que tal derecho pueda modificar la asignación realizada por los otros grupos parlamentarios.
+Recibida la solicitud a que se refiere el artículo anterior, la Secretaría en un plazo que no excederá de treinta días hábiles resolverá sobre la procedencia o improcedencia de la inscripción en el registro. En caso de resultar afirmativa, éste deberá ser renovado anualmente.
 
-###### ARTÍCULO 59.
+Si transcurrido el plazo señalado el promovente no ha sido notificado, se tendrá por autorizado su registro de conformidad con su solicitud.
 
-La conducción de las sesiones estará a cargo del Presidente y, al hacer uso de la voz como diputado o por ausencia de éste, actuará en su lugar el Vicepresidente de la Mesa Directiva.
+###### Artículo 43.
 
-###### ARTÍCULO 60.
+La Secretaría podrá cancelar el registro de los prestadores de servicios que realicen los estudios señalados en el Artículo 40, cuándo éstos:
 
-Los diputados electos como miembros de la Mesa Directiva para sesiones extraordinarias, desempeñarán sus respectivos cargos por la duración de las mismas, cuya elección se llevará a cabo con las formalidades que precisa el presente capítulo para las ordinarias; la declaratoria respectiva la formulará su Presidente.
+I. Proporcionen información falsa o notoriamente incorrecta sobre su identificación como persona moral o física;
 
-El Presidente de la Diputación Permanente no podrá formar parte de la Mesa Directiva para las sesiones extraordinarias.
+II. Incluyan información falsa o incorrecta en los estudios que realicen;
 
-###### ARTÍCULO 61.
+III. Induzcan a la Secretaría competente a error o a incorrecta apreciación en la evaluación correspondiente, y;
 
-Las atribuciones del Vicepresidente serán las de suplir al Presidente del Congreso del Estado en aquellas sesiones, reuniones o representaciones oficiales que lleve a cabo la legislatura, por ausencia temporal o definitiva de éste, o en el caso en que participe en las discusiones del pleno del Congreso del Estado con carácter particular.
+IV. Pierdan la capacidad que dio origen a su inscripción.
 
-###### ARTÍCULO 62.
+#### SECCIÓN II. DE LA AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
 
-Por falta o impedimento del Presidente y Vicepresidente durante una sesión del pleno del Congreso del Estado, se hará cargo de la Presidencia quien la hubiere desempeñado en el periodo inmediato anterior; faltando éstos, la Presidencia pasará interinamente al Primer Secretario.
+###### Artículo 44.
 
-###### ARTÍCULO 63.
+Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-En caso de ausencia de los Secretarios Primero, Segundo y Suplente, a una sesión del pleno del Congreso del Estado, el Presidente designará de entre los diputados presentes, a quienes deban desempeñar dichos cargos, solamente durante el desarrollo de esa única sesión.
+###### Artículo 45.
 
-###### ARTÍCULO 64.
+Los responsables del funcionamiento de una empresa, podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros nacionales e internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente.
 
-Los integrantes de la Mesa Directiva podrán ser removidos de sus cargos por el voto de las dos terceras partes del pleno del Congreso del Estado, por causa grave, previa oportunidad de defensa.
+La Secretaría en el ámbito de su competencia desarrollará un programa dirigido a fomentar la realización de auditorías ambientales y podrá supervisar su ejecución. Para tal efecto:
 
-#### SECCIÓN SEGUNDA. DE LA PRESIDENCIA
+I. Elaborará los términos de referencia que establezca la metodología para la realización de las auditorías ambientales;
 
-###### ARTÍCULO 65.
+II. Establecerá un sistema de aprobación y acreditación de peritos y auditores ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados para incorporarse a dicho sistema;
 
-El Presidente de la Mesa Directiva hará respetar el fuero constitucional de los diputados y velará por la inviolabilidad, integridad y respeto del recinto oficial con el auxilio de la fuerza pública, en caso necesario; asimismo, será ejecutor de las resoluciones que expida el pleno del Congreso del Estado.
+III. Para tal efecto, integrará un comité técnico constituido por representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones de los sectores industrial y social, su operación será conforme a lo que establezca el Reglamento en la materia;
 
-###### ARTÍCULO 66.
+IV. Desarrollará programas de capacitación en materia de peritajes y auditorías ambientales;
 
-Son atribuciones del Presidente:
+V. Instrumentará un sistema de reconocimiento y estímulos que permitan identificar a industrias que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales, y;
 
-I.- Fungir como representante legal del Congreso del Estado, pudiendo delegar dicha representación previo acuerdo de la Comisión de Régimen Interno y Concertación Política;
+VI. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales.
 
-II.- Abrir, suspender y clausurar las sesiones del pleno del Congreso del Estado;
+###### Artículo 46.
 
-III.- Conducir los debates y deliberaciones del pleno del Congreso del Estado;
+La Secretaría pondrá los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
 
-IV.- Dar curso a los asuntos y correspondencia presentados ante el Congreso del Estado y dictar los trámites que deban recaer en los asuntos con que se dé cuenta al propio pleno del Congreso del Estado;
+En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
-V.- Cuidar que tanto los diputados como el público asistente a las sesiones observen el orden y compostura debidos;
+###### Artículo 47.
 
-VI.- Proponer a la Comisión de Régimen Interno y Concertación Política el orden que corresponda a los asuntos que se presenten en las sesiones;
+La Secretaría y los gobiernos municipales conforme al ámbito de sus competencias, inducirá o concertará:
 
-VII.- Informar al pleno del Congreso del Estado la justificación de las ausencias de los diputados a las sesiones;
+I. El desarrollo de procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
-VIII.- Requerir a los diputados faltistas a concurrir a las sesiones del Congreso del Estado;
+II. El cumplimiento de normas voluntarias en materia ambiental que sean más estrictas que las Normas Oficiales Mexicanas o que se refieran a aspectos no previstos por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen;
 
-IX.- Asignar a las comisiones de dictamen legislativo que por turno corresponda, el estudio de los asuntos con que se dé cuenta, salvo acuerdo diverso del pleno del Congreso del Estado;
+III. El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el medio ambiente, y;
 
-X.- Conceder el uso de la palabra a los diputados con sujeción al orden en que haya sido solicitada en los términos de la presente ley o, en su caso, negar el uso de la palabra cuando se incurra en alguna violación de la misma;
+IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental, superiores a las previstas en la normatividad ambiental establecida.
 
-XI.- Firmar, en unión de los Secretarios, las actas de sesión aprobadas por el pleno del Congreso del Estado, de igual forma, las leyes y decretos que se envíen al Ejecutivo para su sanción, promulgación y publicación en el Boletín Oficial del Gobierno del Estado;
+###### Artículo 48.
 
-XII.- Llamar al orden al público asistente a las sesiones del pleno del Congreso del Estado o reuniones de comisión, e imponerlo cuando hubiere motivo para ello, pudiendo mandar desalojar el recinto oficial, así como solicitar el auxilio de la fuerza pública cuando lo estime necesario;
+Es obligación de las autoridades locales y municipales, y derecho de las personas, organizaciones de los sectores social o privado y comunidades, actuar para la preservación, restauración y protección de las áreas naturales y sus ecosistemas dentro del territorio de la Entidad.
 
-XIII.- Requerir a los diputados y a quienes se presenten en el recinto oficial en posesión de armas a que lo abandonen;
+###### Artículo 49.
 
-XIV.- Representar al Congreso del Estado en actos o ceremonias oficiales, así como delegar su representación preferentemente en otro diputado integrante de la Mesa Directiva o cualquier miembro del Congreso del Estado; asimismo, nombrar comisiones de entre los diputados, en forma plural, para ostentar la representación del Congreso del Estado en los actos en que tenga impedimento para asistir;
+Las zonas del territorio del Estado de Oaxaca consideradas objeto de preservación, restauración y protección, serán particularmente aquéllas áreas en las que los ambientes originales no hayan sido significativamente alterados por la actividad del ser humano o aquellas que, a pesar de haber sido ya afectadas, requieran, por su especial relevancia para la entidad o su población, ser sometidas a programas de preservación o restauración, quedando sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
 
-XV.- Remitir al Ejecutivo del Estado el proyecto del presupuesto de egresos anual del Congreso del Estado en los términos establecidos por la ley correspondiente;
+La constitución de las áreas naturales protegidas y otras medidas tendientes a proteger el territorio, deberán llevarse a cabo con base en acuerdos pactados entre el Estado, las autoridades municipales y los Representantes Agrarios.
 
-XVI.- Participar con voz en las sesiones de las comisiones de Administración y de Régimen Interno y Concertación Política; y
+El Ejecutivo Estatal emitirá las declaratorias de protección correspondientes, que serán publicadas en el Periódico Oficial del Gobierno del Estado de Oaxaca, para el área de que se trate, en las que no podrá permitirse la realización de actividades, usos o aprovechamientos distintos de aquéllos que se encuentren expresamente contemplados en el programa de manejo que para el efecto se emita, de conformidad con el decreto correspondiente, y de acuerdo con lo establecido en la presente Ley.
 
-XVII.- Las demás que se le encomienden en esta ley y las que le asigne el pleno del Congreso del Estado.
+###### Artículo 50.
 
-###### ARTÍCULO 67.
+Para la autorización de cualquier tipo de actividad, uso o aprovechamiento que se pretenda realizar dentro del perímetro de un área natural protegida, la autoridad competente estatal o municipal, deberá analizar y consensar previamente entre los propietarios o poseedores de la tierra, entre los habitantes de los pueblos y comunidades asentadas el proyecto. Además deberá tomar en cuenta para la autorización respectiva, los programas de ordenamiento ecológico del territorio, el impacto ambiental que pudiera producirse directa e indirectamente a largo plazo, considerando el inicio y establecimiento, en su caso, las medidas que deberán tomarse para su mitigación o prevención.
 
-Cuando el Presidente tome la palabra en el ejercicio de sus atribuciones permanecerá sentado; pero si quisiere participar en la discusión o presentar algún asunto, hará uso de la tribuna como los demás diputados en el turno que le corresponda; en cuyo caso, se procederá en los términos establecidos en esta ley.
+Se entenderá por uso o aprovechamiento sustentable a la realización de actividades que tiendan a mejorar de manera efectiva las condiciones económicas, culturales, educativas, de salud y, en general, de bienestar de las comunidades asentadas en el área de que se trate, siempre que éstas participen de manera directa en la toma de decisiones y realización de las actividades, usos o aprovechamientos pretendidos.
 
-###### ARTÍCULO 68.
+###### Artículo 51.
 
-Cuando el Presidente no observe las disposiciones de esta ley o falte al orden, cualquiera de los diputados le podrá llamar la atención, en caso grave calificado por el pleno del Congreso del Estado será sustituido por el Vicepresidente o quien corresponda. Presentada la moción, podrán hacer uso de la palabra hasta dos oradores en pro y dos en contra. La decisión que corresponda será tomada por el voto de las dos terceras partes del pleno del Congreso del Estado.
+En los términos de ésta y de las demás leyes aplicables, las áreas naturales del territorio estatal a que se refiere el presente Capítulo, podrán ser materia de protección como reservas ecológicas para los propósitos y con los efectos y modalidades que en tales ordenamientos se precisen, mediante la imposición de las limitaciones que determine el Estado, para realizar en ellas sólo los usos y aprovechamientos social y racionalmente necesarios.
 
-###### ARTÍCULO 69.
+El establecimiento de áreas naturales protegidas es de interés público. En las áreas naturales protegidas no podrá autorizarse la fundación de nuevos centros de población ni la ampliación de los ya constituidos.
 
-Los acuerdos y determinaciones del Presidente podrán ser reclamados verbalmente por cualquiera de los diputados, sometiéndose el caso a la decisión del pleno del Congreso del Estado, cuando dos o más diputados así lo soliciten.
+###### Artículo 52.
 
-#### SECCIÓN TERCERA. DE LA SECRETARIA
+La determinación de áreas naturales protegidas, de jurisdicción estatal o municipal, tendrá como propósito:
 
-###### ARTÍCULO 70.
+I. Preservar y restaurar el equilibrio ecológico de los ecosistemas y, en zonas circunvecinas a los asentamientos humanos, los elementos naturales indispensables y la continuidad de los procesos evolutivos y ecológicos;
 
-Son atribuciones de los secretarios:
+II. Salvaguardar la diversidad genética de las especies silvestres de las que depende la continuidad evolutiva, así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad, en particular preservar las especies que están en peligro de extinción, las amenazadas, las endémicas, las raras y las que se encuentran sujetas a protección especial;
 
-I.- Auxiliar al Presidente en el desempeño de sus funciones;
+III. Asegurar el aprovechamiento sustentable de los ecosistemas y sus elementos;
 
-II.- Concurrir a la Presidencia con la debida anticipación, con el objeto de revisar el acta de la sesión anterior y tomar conocimiento de los asuntos del orden del día con que se dará cuenta al pleno del Congreso del Estado;
+IV. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, geológicos, históricos y artísticos, así como zonas turísticas y otras áreas de importancia para la recreación, la cultura e identidad estatal y nacional, así como de los pueblos indígenas;
 
-III.- Comprobar al inicio de las sesiones, durante el desarrollo de las mismas, la existencia del quórum requerido en los términos de la Constitución Política del Estado;
+V. Proporcionar un campo propicio para la investigación científica y el estudio de los ecosistemas y su equilibrio, y;
 
-IV.- Tomar razón de toda sesión que se hubiere citado y no se lleve a cabo por falta de quórum, precisando los diputados que asistieron y los que hayan comunicado a la Presidencia del Congreso del Estado la causa de su inasistencia;
+VI. Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas, que permitan la preservación y el aprovechamiento sustentable de la biodiversidad del territorio del Estado.
 
-V.- En las sesiones que se celebren, dar cuenta al pleno del Congreso del Estado con las iniciativas de leyes, decretos y escritos remitidos por autoridades, así como de las proposiciones presentadas por particulares que se encuentren pendientes por turnarse a las comisiones en el orden correspondiente;
+###### Artículo 53.
 
-VI.- Extender las actas de las sesiones después de ser aprobadas por el pleno del Congreso del Estado y asentarlas bajo su firma en el libro respectivo;
+La Secretaría y los ayuntamientos podrán promover ante el Gobierno Federal el reconocimiento de las áreas naturales protegidas que se establezcan de conformidad con esta ley, con el propósito de compatibilizar los regímenes de protección correspondientes.
 
-VII.- Rubricar las leyes, decretos, acuerdos y demás documentos que expida el Congreso del Estado;
+###### Artículo 54.
 
-VIII.- Leer los asuntos listados en el orden del día;
+La Secretaría constituirá un Consejo Estatal de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de la Procuraduría, de otras dependencias y entidades del Estado y de los municipios relacionadas con la materia ambiental, y, a invitación de la Secretaría, por representantes de la administración pública federal; así como por representantes de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, y personas físicas de reconocido prestigio en la materia.
 
-IX.- Cuidar que las iniciativas y los dictámenes que vayan a ser objeto de debate se impriman y circulen con toda oportunidad entre los diputados a través de la Gaceta Parlamentaria;
+El Consejo fungirá como órgano de consulta en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de jurisdicción estatal o municipal, y funcionará en los términos previstos en el reglamento respectivo.
 
-X.- Recoger y computar las votaciones y comunicar sus resultados directamente al pleno del Congreso del Estado;
+El Consejo podrá invitar a sus sesiones a representantes de los gobiernos municipales que no estén representados en el Consejo, cuando se trate de áreas naturales protegidas de competencia estatal que se encuentren dentro de su territorio. Así mismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y, en general, a cualquier persona cuya participación sea necesaria conforme al asunto que en cada caso se trate.
 
-XI.- Coordinar sus labores con las que realice la Oficialía Mayor del Congreso del Estado;
+El Consejo estará integrado por un máximo de quince miembros propietarios, quienes no tendrán relación laboral alguna con el Gobierno del Estado, por virtud de que su encargo será de carácter honorífico; contará con un presidente y un Secretario Técnico, los que serán electos por un período de dos años por voto directo de los integrantes del Consejo.
 
-XII.- Certificar conjuntamente con el Oficial Mayor o, supletoriamente, con el Director General Jurídico, la documentación oficial en poder del Congreso del Estado que soliciten los diputados, autoridades o particulares en general;
+Este Consejo tendrá como objetivo analizar los problemas y proponer prioridades, programas y acciones para el manejo del Sistema Estatal de Áreas Naturales Protegidas.
 
-XIII.- Supervisar la publicación del diario de debates y la Gaceta Parlamentaria; y
+Las opiniones y recomendaciones que formule el Consejo, deberán ser considerados (sic) por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
 
-XIV.- Las demás que le confiere esta ley.
+#### SECCIÓN II. DE LAS ÁREAS NATURALES PROTEGIDAS
 
-###### ARTÍCULO 71.
+## TÍTULO CUARTO. DE LA PROTECCIÓN AL AMBIENTE
 
-El Secretario Suplente sustituirá indistintamente en todas sus funciones al Secretario ausente.
+### CAPÍTULO IV. DE LOS SEGUROS Y LAS GARANTÍAS
 
-## TÍTULO QUINTO. DE LA DIPUTACIÓN PERMANENTE
+#### SECCIÓN I. DE LA PLANEACIÓN AMBIENTAL
 
-### CAPÍTULO I. DE LAS COMISIONES
+###### Artículo 55.
 
-###### ARTÍCULO 72.
+Se consideran áreas naturales protegidas:
 
-En la última sesión del periodo de sesiones ordinarias se nombrará, por mayoría de votos, una Diputación Permanente compuesta de tres miembros propietarios y dos suplentes, que durarán en funciones hasta el nuevo periodo ordinario de sesiones. El primero y segundo de los miembros propietarios nombrados serán Presidente y Vicepresidente, respectivamente, y el otro Secretario.
+I. De jurisdicción estatal:
 
-Los suplentes serán llamados a sustituir indistintamente al propietario que falte. La Diputación Permanente no podrá ejercer sus funciones sin la concurrencia de tres de sus miembros.
+a) Los parques y reservas estatales;
 
-###### ARTÍCULO 73.
+b) Refugio de vida silvestre, y;
 
-Hecha la elección de la Diputación Permanente, los electos tomarán posesión a partir del inicio del periodo de sesiones extraordinarias, lo que se comunicará a las autoridades correspondientes para los efectos legales a que haya lugar.
+c) Las demás categorías que tengan ese carácter conforme a las leyes.
 
-###### ARTÍCULO 74.
+II. De jurisdicción municipal:
 
-Para el ejercicio de sus atribuciones, la Diputación Permanente se sujetará en lo que fuere conducente a los procedimientos establecidos para las sesiones del Congreso del Estado.
+a) Las zonas de preservación ecológica de los centros de población;
 
-###### ARTÍCULO 75.
+b) Parques municipales, y;
 
-La Diputación Permanente celebrará sus sesiones ordinariamente el día martes de cada semana o cuando lo solicite el Presidente o la mayoría de sus integrantes.
+c) Las demás categorías que tengan ese carácter conforme a las leyes.
 
-> <small>(REFORMADO, B.O. 18 DE ENERO DE 2016)</small>
+###### Artículo 56.
 
-Las sesiones de la Diputación Permanente se realizarán en la sala de comisiones o, en su defecto, en lugares distintos a ésta, previo acuerdo de la Comisión de Régimen Interno y Concertación Política.
+Las áreas naturales protegidas de jurisdicción estatal o municipal se establecerán conforme a esta Ley, mediante:
 
-###### ARTÍCULO 76.
+I. Declaratorias emitida por el Ejecutivo del Estado, tratándose de parques, reservas estatales y refugios de vida silvestre, y;
 
-La Diputación Permanente convocará al pleno del Congreso del Estado a sesiones extraordinarias conforme a lo que establece la Constitución Política del Estado, debiendo publicarse la convocatoria correspondiente, cuando menos el día anterior a la fecha de la sesión, en el Boletín Oficial del Gobierno Estatal y en la Gaceta Parlamentaria y, opcionalmente, en medios de circulación estatal.
+II. Declaratorias de los ayuntamientos, tratándose de zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta Ley.
 
-###### ARTÍCULO 77.
+Cuando las áreas naturales protegidas abarquen centros de población pertenecientes a dos o más municipios, corresponderá al Ejecutivo del Estado emitir las declaratorias respectivas.
 
-Cuando el Congreso del Estado sea convocado a sesiones extraordinarias por la Diputación Permanente, el pleno elegirá una Mesa Directiva para desahogar los asuntos a los que fue convocado, misma que concluirá sus funciones al momento de agotarlos o que se inicie un periodo ordinario. La Diputación Permanente seguirá en funciones despachando los asuntos de su competencia hasta en tanto termine el periodo de sesiones extraordinarias correspondiente.
+###### Artículo 57.
 
-###### ARTÍCULO 78.
+En el establecimiento, administración y manejo de las áreas naturales protegidas a que se refiere este Capítulo, la Secretaría y los ayuntamientos, en el ámbito de sus respectivas competencias, promoverán la participación de sus habitantes, propietarios o poseedores; de los comunidades indígenas y de organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de los ecosistemas y su biodiversidad.
 
-En el acto que celebre el pleno del Congreso del Estado para inaugurar una sesión extraordinaria se leerá, por uno de los Secretarios, la convocatoria relativa que haya sido publicada y, para el desarrollo de ésta, se usarán los mismos procedimientos de las sesiones ordinarias.
+Para los efectos establecidos en el párrafo anterior, las autoridades podrán celebrar con los interesados, todos aquellos convenios de concertación o acuerdos de colaboración que resulten necesarios.
 
-###### ARTÍCULO 79.
+###### Artículo 58.
 
-El Presidente y Secretario de la Diputación Permanente tendrán, en lo conducente, todas las atribuciones administrativas y de representación que corresponden a la Presidencia y a la Secretaría de la Mesa Directiva, respectivamente.
+Las reservas estatales se constituirán en áreas biogeográficas relevantes a nivel estatal, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados, en los cuales habiten especies representativas de la biodiversidad estatal o nacional, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.
 
-###### ARTÍCULO 80.
+En tales reservas podrá determinarse la existencia de la superficie o superficies mejor conservadas o no alteradas, que alojen ecosistemas, o fenómenos naturales de especial importancia, o especies de flora y fauna que requieran protección especial, y que serán conceptuadas como zona o zonas núcleo. En ellas sólo podrá autorizarse la realización de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ecológica, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas.
 
-La Diputación Permanente, durante la primer quincena de ejercicio de sus funciones y en acuerdo con las comisiones de dictamen legislativo y especiales, en su caso, deberá emitir un calendario de trabajo para ser desahogado durante el periodo de sesiones extraordinarias, con el objeto de resolver sobre los asuntos pendientes, así como para iniciar o continuar cualquier otro trabajo propio de dichas comisiones.
+En las propias reservas deberán determinarse la superficie o superficies que protejan a la zona núcleo del impacto exterior, que serán conceptuadas como zonas de amortiguamiento, dentro de cuyos linderos podrán realizarse actividades y aprovechamientos de elementos y recursos naturales que sean congruentes con los objetivos y programas de aprovechamiento sostenible; con las características propias y naturales de las actividades de las comunidades previamente asentadas en la zona; y que no provoquen un impacto ambiental significativo adverso, en los términos de la declaratoria respectiva y del programa de manejo que se formule y expida, y de los planes de ordenamiento ecológico y el carácter de reserva del área.
 
-###### ARTÍCULO 81.
+###### Artículo 59.
 
-En la primera sesión del periodo ordinario de sesiones, el Presidente de la Diputación Permanente presentará al pleno del Congreso del Estado un informe por escrito de su gestión.
+Los parques estatales se constituirán, tratándose de representaciones biogeográficas, a nivel estatal o municipal, de uno o más ecosistemas que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.
 
-## TÍTULO SEXTO. DE LAS COMISIONES
+En los parques estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo y educación ecológica.
 
-### CAPÍTULO II. DE LA COMISIÓN DE RÉGIMEN INTERNO Y CONCERTACIÓN POLÍTICA
+###### Artículo 60.
 
-###### ARTÍCULO 82.
+Los Refugios de Vida Silvestre se constituirán, tratándose de áreas de extensión territorial reducida, donde existen características naturales de importancia para la conservación de biodiversidad y su función principal es la de asegurar la sobrevivencia y perpetuidad de las especies, poblaciones o hábitats de vida silvestre que ahí existen.
 
-Las comisiones del Congreso del Estado son órganos colegiados que se integran por diputados, cuyas funciones son las de analizar y discutir las iniciativas de ley, de decreto y demás asuntos que le sean turnados por el pleno del Congreso del Estado para elaborar, en su caso, los dictámenes correspondientes.
+Dichas áreas abarcarán cañadas, cuevas, cavernas, manantiales, cuerpos de agua u otras áreas geográficas que requieren ser preservadas o protegidas. En ellas sólo podrá autorizarse la realización de actividades de preservación de las áreas, de investigación científica y educación ecológica.
 
-###### ARTÍCULO 83.
+###### Artículo 61.
 
-Las comisiones del Congreso del Estado serán:
+Las zonas de preservación ecológica de los centros de población podrán integrarse por cualquier área de uso público en zonas urbanas, industriales o circunvecinas de los asentamientos humanos en los que existan ecosistemas en buen estado, que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población de la localidad correspondiente. Los municipios deberán establecer las medidas de protección, administración y vigilancia que consideren pertinentes para lograr los objetivos por los que se someta al presente régimen de este tipo de áreas protegidas.
 
-I.- De Dictamen Legislativo;
+###### Artículo 62.
 
-> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+Los parques municipales son aquellas áreas de uso público, que se integran por parques públicos, corredores, andadores, camellones, y en general cualquier área de uso público en zonas urbanas, y que son constituidas por el Gobierno Estatal, si el parque abarca el territorio de dos o más Municipios y/o por los Municipios dentro de su circunscripción territorial, cuyo destino es proteger y preservar el equilibrio de las áreas urbanas e industriales, entre las construcciones, equipamientos e instalaciones respectivas y los elementos de la naturaleza, de manera que se logre un ambiente sano el esparcimiento de la población y la protección de los valores históricos, artísticos y de belleza cultural con significado en la localidad.
 
-II.- De fiscalización;
+Los planes de desarrollo urbano deben contemplar este tipo de equipamiento urbano a fin de que se considere un porcentaje de área verde para cada determinado número de habitantes.
 
-III.- De Administración;
+###### Artículo 63.
 
-IV.- De Régimen Interno y Concertación Política;
+En las áreas naturales protegidas no podrán autorizarse la fundación de nuevos centros de población.
 
-V.- Especiales; y
+###### Artículo 64.
 
-VI.- Protocolarias.
+El Gobierno Estatal promoverá ante el Gobierno Federal, el reconocimiento de las áreas naturales protegidas que conforme a la presente Ley se establezcan, para compatibilizar los regímenes de protección correspondientes.
 
-> <small>(REFORMADO, B.O. 13 DE OCTUBRE DE 2009)</small>
+#### SECCIÓN III. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE ÁREAS NATURALES PROTEGIDAS
 
-###### ARTÍCULO 84.
+#### SECCIÓN II. DEL ORDENAMIENTO ECOLÓGICO DEL TERRITORIO
 
-El pleno del Congreso del Estado definirá, por el voto de la mayoría absoluta de sus miembros, dentro de los primeros quince días después de su instalación, las comisiones que se integrarán y los miembros que formarán parte de éstas; el primero de los cuales fungirá como Presidente y los demás tendrán el carácter de Secretarios.
+###### Artículo 65.
 
-###### ARTÍCULO 85.
+Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas, se deberán realizar los estudios que las justifiquen, los que deberán contener la información general del área de que se trate, en la que se incluirá, por lo menos, la evaluación ambiental, el diagnóstico de dicha área y la propuesta de manejo de la misma.
 
-Los presidentes de comisión serán responsables de los expedientes que pasen a su estudio y, al efecto, deberán recibir personalmente la documentación relativa a iniciativas de ley, de decreto o de acuerdo y demás asuntos que sean turnados o remitidos por el Presidente del Congreso del Estado.
+Simultáneamente a la elaboración del estudio de justificación, la Secretaría solicitará la opinión de las dependencias y entidades de las administraciones públicas federal, estatal y municipal que deban intervenir de acuerdo con sus respectivas competencias; de organizaciones sociales públicas o privadas; comunidades indígenas y afromexicanas; universidades, centros de investigación, instituciones y organizaciones de los sectores público, social y privado, así como las autoridades agrarias, en caso de que el área natural sea ejido o comunidad o bien los representantes de la propiedad privada, en cuyas circunscripciones territoriales se localice el área natural de que se trate y las demás personas físicas o morales interesadas en dichas áreas.
 
-###### ARTÍCULO 86.
+Los estudios, así como la consulta que al efecto se realice, deberán tomarse en cuenta, en lo que sean procedentes, por la Secretaría o, en su caso, la autoridad ambiental respectiva, antes de proponer a la autoridad competente la declaración de área natural protegida.
 
-Para la integración de las comisiones se atenderá necesariamente a la pluralidad de diputados existente en el Congreso del Estado. Los Grupos Parlamentarios tendrán derecho a presidir un número de comisiones directamente proporcional al número de sus integrantes, considerando la importancia de éstas.
+###### Artículo 66.
 
-###### ARTÍCULO 87.
+Una vez concluidos los estudios previos justificativos, éstos deberán ser puestos a disposición del público para su consulta, por un plazo de diez días naturales contados a partir del día en que se hayan terminado, en las oficinas de la Secretaría o el Ayuntamiento correspondiente y en los medios electrónicos de que dispongan. Para tal efecto, dichas autoridades ambientales darán a conocer esta circunstancia mediante la publicación de un aviso en un diario de circulación estatal el primer día en que puedan ser consultados.
 
-Por causas graves calificadas por las dos terceras partes de los diputados asistentes a la sesión, podrá removerse o suspenderse en forma temporal o definitiva a quien ocupe el cargo de presidente de comisión, siendo nombrado en su lugar quien determine el pleno del Congreso del Estado.
+La opinión del público deberá ser tomada en cuenta, en lo que resulte procedente, por la Secretaría o el Ayuntamiento antes de declarar el establecimiento del área natural protegida.
 
-###### ARTÍCULO 88.
+###### Artículo 67.
 
-Las comisiones podrán ser convocadas a reunión por su presidente o por la mayoría de sus miembros. Las comisiones deben celebrar sesiones cuantas veces sea necesario para el correcto desahogo de los asuntos turnados o remitidos, debiendo celebrar, por lo menos, una sesión al mes, siempre que cuenten con asuntos pendientes.
+Las declaratorias para el establecimiento de las áreas naturales protegidas contendrán los siguientes elementos:
 
-Las reuniones se celebrarán en horas que no coincidan con las de sesión del pleno del Congreso del Estado.
+I. La delimitación precisa de las áreas, señalando la superficie, ubicación, deslinde y, en su caso, la zonificación correspondiente. Tratándose de centros de población, dicha zonificación deberá ser congruente con la zonificación contenida en los programas municipales de ordenamiento territorial y de desarrollo urbano;
 
-###### ARTÍCULO 89.
+II. Las modalidades a que se sujetarán dentro de las áreas, el uso o aprovechamiento de los recursos naturales en general, y específicamente de aquéllos sujetos a protección;
 
-La convocatoria a reunión de las comisiones contendrá:
+III. La descripción de las actividades que podrán llevarse a cabo en las áreas correspondientes y las modalidades y limitaciones a que se sujetarán;
 
-I.- La fecha de su emisión;
+IV. La causa de utilidad pública que en su caso fundamente la expropiación de terrenos, de conformidad con la Ley de la materia, cuando al establecerse un área natural protegida se requiera dicha resolución; deberá observarse las previsiones de la normatividad aplicable en la materia;
 
-II.- La fecha, hora y sede programadas para la sesión;
+V. Los lineamientos generales para la administración, el establecimiento de órganos colegiados representativos y la elaboración del programa de manejo del área, y;
 
-III.- La exposición del orden del día; y
+VI. Los lineamientos para la realización de las acciones de preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas; para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva, conforme a lo dispuesto en ésta y otras leyes aplicables.
 
-IV.- La firma autógrafa o electrónica del presidente de la comisión o la de mayoría de sus integrantes, las cuales no podrán ser sustituidas por la de otra persona u otras personas.
+###### Artículo 68.
 
-El defecto en las formalidades de la convocatoria no impedirá que se celebre la reunión, pero su validez quedará subordinada a la convalidación de la mayoría de los integrantes de la comisión.
+En las áreas naturales protegidas quedará expresamente prohibido ejecutar acciones que contravengan lo dispuesto por la declaratoria; así como las siguientes:
 
-> <small>(REFORMADO, B.O. 16 DE MAYO DE 2011)</small>
+I. Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero, así como desarrollar cualquier actividad contaminante;
 
-La convocatoria deberá publicarse en la Gaceta Parlamentaria, cuando menos con veinticuatro horas de anticipación a la fijada para la reunión.
+II. Interrumpir, rellenar, desecar o desviar los flujos hidráulicos;
 
-> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+III. Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestre y extracción de tierra de monte y su cubierta vegetal;
 
-En caso de que en una reunión de Comisión se encuentre contemplado en el orden del día el análisis, discusión y, en su caso, la dictaminación del (sic) algún asunto que se encuentre turnado o remitido a la misma, deberá anexarse a la convocatoria para su publicación en los términos señalados en el párrafo anterior, el proyecto de dictamen correspondiente.
+IV. Introducir ejemplares o poblaciones exóticos de la vida silvestre, así como organismos genéticamente modificados;
 
-###### ARTÍCULO 90.
+V. Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven;
 
-Las comisiones que designe el presidente del Congreso del Estado para dar cumplimiento al ceremonial, tendrán sólo carácter protocolario y serán de naturaleza transitoria.
+VI. El uso y las prácticas agrícolas que perjudiquen los suelos, las aguas y el medio ambiente;
 
-###### ARTÍCULO 91.
+VII. Las quemas forestales, y;
 
-El pleno del Congreso del Estado podrá acordar, por el voto de las dos terceras partes de sus integrantes, la constitución de comisiones especiales cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto, los diputados integrantes que la conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto, concluirán con sus funciones.
+VIII. Cualquier otra actividad que destruya o amenace destruir los recursos naturales o culturales.
 
-> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2015)</small>
+###### Artículo 69.
 
-###### ARTÍCULO 92.
+Las declaratorias deberán publicarse en algún medio de comunicación masiva en el Estado, en el Periódico Oficial del Gobierno del Estado y se notificarán a los propietarios o poseedores de los predios afectados en forma personal cuando se conozcan sus domicilios; en caso contrario, se hará una segunda publicación, la que surtirá efectos de notificación.
 
-La competencia de las comisiones de dictamen legislativo es la que se deriva de su denominación, así como de las normas que rigen el funcionamiento del Congreso del Estado; para el efecto, se designarán las siguientes comisiones:
+Las declaratorias se inscribirán en el Instituto de la Función Registral del Estado de Oaxaca.
 
-I.- De Gobernación y Puntos Constitucionales;
+#### SECCIÓN III. INSTRUMENTOS ECONÓMICOS
 
-II.- Primera de Hacienda;
+###### Artículo 70.
 
-III.- Segunda de Hacienda;
+Una vez establecida un área natural protegida, sólo podrá ser modificada su extensión y, en su caso, los usos del suelo permitidos, por determinación del Ejecutivo del Estado o del Ayuntamiento respectivo, según corresponda, siguiendo las mismas formalidades previstas en esta ley para la expedición de la declaratoria respectiva.
 
-IV.- De Presupuestos y Asuntos Municipales;
+###### Artículo 71.
 
-V.- De Educación y Cultura;
+La Secretaría o el Ayuntamiento, según corresponda, dentro del plazo señalado por las declaratorias respectivas, formularán el programa de manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos y, en su caso, a organizaciones sociales, públicas o privadas y demás personas interesadas. Asimismo, designarán al Director del área de que se trate, quien será responsable de coordinar la ejecución y evaluación del programa de manejo correspondiente, de conformidad con lo dispuesto en esta Ley y las disposiciones que de ella se deriven.
 
-VI.- De Deporte;
+## TÍTULO QUINTO. DE LA PARTICIPACIÓN SOCIAL
 
-VII.- De Justicia y Derechos Humanos;
+### CAPÍTULO I. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
-VIII.- De Seguridad Pública;
+#### SECCIÓN I. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
-IX.- De Fomento Agrícola y Ganadero;
+###### Artículo 72.
 
-X.- De Pesca y Acuacultura;
+El programa de manejo a que se refiere el artículo anterior deberá contener, por lo menos:
 
-XI.- De Asuntos del Trabajo;
+I. La descripción de las características físicas, biológicas, sociales y culturales del área natural protegida, las características de la cubierta vegetal y el uso del suelo, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
 
-XII.- De Obras y Servicios Públicos;
+II. Los objetivos específicos del área natural protegida y las acciones a realizar a corto, mediano y largo plazos, estableciendo su vinculación con los programas estatales o municipales de ordenamiento territorial y de desarrollo urbano o de ordenamiento ecológico respectivos;
 
-XIII.- De Desarrollo Social y Asistencia Pública;
+Dichas acciones comprenderán, entre otras las siguientes: de investigación y educación ambientales, de protección y aprovechamiento sustentable de los recursos naturales, la flora y la fauna, para el desarrollo de actividades recreativas, turísticas, obras de infraestructura y demás actividades productivas, de financiamiento para la administración del área, de prevención y control de contingencias, de vigilancia y las demás que por las características propias del área natural protegida se requieran;
 
-XIV.- De Asuntos Fronterizos;
+III. La forma en la que se organizará la administración del área, y los mecanismos de participación de la sociedad en su protección y aprovechamiento sustentable, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
 
-XV.- De Fomento Económico y Turismo;
+IV. La referencia a las normas oficiales mexicanas aplicables a las actividades a que esté sujeta el área, y;
 
-XVI.- De Energía, Medio Ambiente y Cambio Climático;
+V. Los inventarios existentes y los que se prevea realizar, así como las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollan en el área natural protegida.
 
-XVII.- De Salud;
+La Secretaría y los ayuntamientos deberán publicar en el Periódico Oficial del Gobierno del Estado un resumen del programa de manejo y el plano de localización del área respectiva.
 
-XVIII.- De Comunicación y Enlace Social;
+###### Artículo 73.
 
-> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2015)</small>
+La Secretaría, en coordinación con las autoridades estatales competentes y los ayuntamientos, en el ámbito de sus respectivas competencias podrán:
 
-XIX.- Para la Igualdad de Género,
+I. Promover inversiones públicas y privadas para el establecimiento y manejo de las áreas naturales protegidas;
 
-XX.- De Asuntos Indígenas;
+II. Establecer o, en su caso, promover la utilización de mecanismos para captar recursos y financiar o apoyar el manejo de las áreas naturales protegidas;
 
-XXI.- De Atención a Grupos Vulnerables de la Sociedad;
+III. Establecer incentivos económicos y, en su caso, estímulos fiscales para las personas y las organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten recursos para tales fines;
 
-XXII.- De Ciencia y Tecnología;
+IV. Promover ante la autoridad federal competente, que en la distribución de las participaciones federales destinadas a los estados y los municipios se considere como criterio la superficie total que cada uno de éstos destine a la preservación de los ecosistemas y su biodiversidad, y;
 
-XXIII.- De Examen Previo y Procedencia Legislativa;
+V. Promover, en el ámbito de sus respectivas competencias, los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas.
 
-XXIV.- Del Agua;
+###### Artículo 74.
 
-XXV.- De Transporte y Movilidad;
+La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, comunidades indígenas y demás personas interesadas, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas, de conformidad con lo que establece esta Ley, las declaratorias y los programas de manejo correspondientes. Asimismo, verificarán que los titulares cumplan con los términos bajo los cuales les fueron otorgados dichos permisos o autorizaciones.
 
-XXVI.- De Minería;
+Los núcleos agrarios, comunidades indígenas y demás propietarios o poseedores de los predios en los que se pretendan desarrollar las obras o actividades anteriormente señaladas tendrán preferencia para obtener los permisos y autorizaciones respectivos.
 
-XXVII.- De Vivienda;
+###### Artículo 75.
 
-XXVIII.- De Protección Civil;
+La Secretaría y los ayuntamientos, por sí mismos o a solicitud de la Procuraduría, podrán suspender de manera temporal o permanente, parcial o total, los permisos o autorizaciones a que se refiere el artículo anterior cuando:
 
-> <small>(REFORMADA, B.O. 22 DE OCTUBRE DE 2015)</small>
+I. No se cumplan con las obligaciones y las condiciones establecidas en ellas;
 
-XXIX.- De los Derechos de la Niñez, la Adolescencia y la Juventud;
+II. Se causen daños a los ecosistemas como consecuencia del uso o aprovechamiento, y;
 
-XXX.- Desarrollo Urbano;
+III. Se infrinjan las disposiciones de esta Ley, del programa de manejo del área protegida y las demás disposiciones legales y reglamentarias aplicables.
 
-XXXI.- Transparencia;
+###### Artículo 76.
 
-XXXII.- Anticorrupción; y
+Todos los actos, convenios y contratos relativos a la propiedad, posesión o a cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas, deberán contener referencias de la declaratoria correspondiente y de sus datos de inscripción en el Instituto de la Función Registral del Estado de Oaxaca.
 
-XXXIII.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
+Los notarios y cualesquier otros fedatarios públicos, sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente artículo.
 
-###### ARTÍCULO 93.
+Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
 
-Además de las comisiones establecidas en el artículo anterior, el Congreso del Estado podrá designar otras, mediante acuerdo de las dos terceras partes de sus integrantes, las cuales tendrán las facultades y atribuciones que expresamente les señale el acuerdo del pleno que las establezca o las que deriven de su denominación.
+###### Artículo 77.
 
-###### ARTÍCULO 94.
+Los ingresos que la Secretaría perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, se destinarán al Fondo Ambiental Estatal a que se refiere el artículo 220 de esta Ley, y se aplicarán en la preservación y restauración ecológicas de las áreas que los hubieren generado.
 
-Las comisiones de dictamen legislativo tienen las siguientes atribuciones:
+###### Artículo 78.
 
-I.- Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne el pleno del Congreso del Estado;
+La Secretaría, la Procuraduría y los ayuntamientos podrán celebrar acuerdos de coordinación entre sí, para efecto de determinar la participación que les corresponda en la administración, conservación, desarrollo y vigilancia de las áreas naturales protegidas que se establezcan, así como convenios de concertación con los sectores social y privado para los mismos efectos.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+La Secretaría, la Procuraduría y los ayuntamientos, en el ámbito de sus respectivas competencias, supervisarán y evaluarán el cumplimiento de los acuerdos y convenios a que se refiere este artículo.
 
-II.- Elaborar su programa de trabajo, de acuerdo a la agenda legislativa del Congreso del Estado, considerando la vinculación con organizaciones de la sociedad civil;
+###### Artículo 79.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+La Secretaría, con la participación de los ayuntamientos, integrará el Registro Estatal de Áreas Naturales Protegidas, en el que deberán inscribirse las declaratorias de áreas naturales protegidas, sus modificaciones y los datos de las inscripciones de éstas en el Instituto de la Función Registral del Estado de Oaxaca.
 
-III.- Elaborar y enviar su informe anual de actividades a la Comisión de Régimen Interno y Concertación Política, dentro del mes de septiembre de cada año;
+#### SECCIÓN IV. DE LAS ÁREAS DE CONSERVACIÓN
 
-IV.- Presentar al pleno del Congreso del Estado los dictámenes e informes y demás documentos relativos a los asuntos que les son turnados o remitidos;
+###### Artículo 80.
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+Los pueblos indígenas, afromexicanas, las organizaciones sociales públicas o privadas, pequeños propietarios, ejidos y comuneros, personas físicas o morales interesadas podrán voluntariamente solicitar a la Secretaría la certificación correspondiente para destinar los predios que les pertenezcan a acciones de preservación, conservación y restauración de los ecosistemas y su biodiversidad representados en el Estado mediante el uso de herramientas legales de conservación.
 
-V.- Invitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, a los titulares de las distintas dependencias o entidades federales, estatales o municipales, en los casos en que su presencia sea necesaria para el adecuado desempeño de sus atribuciones;
+###### Artículo 81.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+La determinación de áreas de conservación deberá tener como propósito:
 
-VI.- Solicitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, oficialmente a cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del Presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes;
+I. Coadyuvar con el Gobierno del Estado y de los ayuntamientos en la preservación de los ambientes naturales representativos de los diferentes ecosistemas, para asegurar la continuidad de los procesos evolutivos y ecológicos;
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+II. Salvaguardar la diversidad genética de las especies silvestres, particularmente las endémicas, amenazadas o en peligro de extinción;
 
-VII.- Emitir su opinión ante la Comisión de Fiscalización, en el ámbito de su competencia, sobre el cumplimiento de metas y aspectos presupuestales contenidos en los Estados Financieros trimestrales y las cuentas públicas de los entes públicos sujetos a la Ley de Fiscalización;
+III. Preservar y restaurar el equilibrio ecológico en los ecosistemas urbanos;
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+IV. Preservar en zonas circunvecinas a los asentamientos humanos, los elementos naturales indispensables para el equilibrio ecológico y al bienestar general;
 
-VIII.- Integrar a solicitud de la mayoría de los integrantes de la comisión de dictamen legislativo, un consejo técnico consultivo con los perfiles más adecuados, para asesorar de forma honoraria en las temáticas que se le soliciten; y
+V. Proporcionar un campo propicio para la investigación científica, el estudio de los ecosistemas y su equilibrio;
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+VI. Proteger los entornos naturales de zonas geológicas, monumentos y vestigios históricos, arqueológicos y artísticos de importancia para la cultura e identidad del Estado, y;
 
-IX.- Realizar a través del presidente o presidenta de la comisión de dictamen legislativo, mesas de trabajo con corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás que lo soliciten, debiendo para ello, generar una minuta de los acuerdos tratados e informar a los demás miembros de la comisión en caso de que no se encuentren presentes.
+VII. Regenerar los recursos naturales.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+## TÍTULO SEXTO. DE LA FACULTAD REGLAMENTARIA
 
-ARTÍCULO 94 BIS I.- Las corporaciones, organizaciones, asociaciones civiles, así como cualquier ciudadano que resida en el Estado de Sonora, podrá presentar ponencias por escrito, sobre las iniciativas de ley, decretos y demás asuntos de interés público que se discutan en las comisiones de dictamen legislativo, sin que estas tengan un efecto vinculante en el proceso.
+### CAPÍTULO II. DE LA PREVENCIÓN Y EL CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
-Las ponencias por escrito podrán publicarse en la página oficial del Congreso de Sonora.
+###### Artículo 82.
 
-En caso de que dicha ponencia resulte de suma importancia para un proceso de dictamen, el ponente podrá ser citado por el presidente o presidenta de la comisión para exponer su ponencia de forma presencial.
+Se consideran áreas de conservación:
 
-Si alguno de los integrantes de la comisión dictaminadora considera pertinente incluir todo o parte de la propuesta ciudadana, podrá solicitar la votación de los integrantes y a solicitud de la mayoría puede ser incluida.
+I. Las servidumbres ecológicas, constituidas mediante el acuerdo de dos o más propietarios de los predios que se pretenden someter a un régimen de protección, para limitar el tipo o intensidad de uso de uno o más de dichos predios, con el fin de preservar sus atributos naturales y bellezas escénicas;
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+II. Las reservas privadas de conservación, conformadas con terrenos de propiedad privada que por sus condiciones biológicas o por sus ambientes originales no alterados significativamente por la acción del hombre se destinan a preservar los elementos naturales indispensables al equilibrio ecológico y al bienestar general;
 
-ARTÍCULO 94 BIS II.- Las corporaciones, organizaciones, asociaciones civiles, así como cualquier ciudadano que resida en el Estado de Sonora, podrán solicitar que se le notifique de forma electrónica, sobre los asuntos que son turnados a las comisiones de dictamen legislativo, debiendo para ello, registrarse adecuadamente y respetar los lineamientos que se expidan en la materia.
+III. Las reservas rurales, establecidas en terrenos ejidales o comunales que por sus condiciones biológicas o por sus ambientes originales no alterados significativamente por la acción del hombre se destinan a la conservación, preservación y protección de tierras comunales;
 
-En caso de que el presidente o presidenta de alguna comisión de dictamen legislativo, decida iniciar una discusión abierta en lo que respecta a un dictamen, podrá solicitar previo acuerdo de la comisión de régimen interno y concertación política, que se publique el dictamen a discutirse con al menos una semana de anticipación a la discusión del asunto.
+IV. Los jardines privados de conservación o regeneración de especies, conformados por áreas de propiedad privada destinadas a la conservación o regeneración de germoplasma de variedades nativas de una región;
 
-###### ARTÍCULO 95.
+V. Las tierras sujetas a contratos de conservación, constituidas en terrenos de propiedad privada o social sobre los que sus propietarios limitan los derechos de uso o constituyen cargas de carácter real con el objeto de conservar, preservar, proteger y restaurar sus atributos naturales o ecológicos en favor de terceros, y;
 
-El quórum legal para cada sesión de comisiones se constituye por la asistencia de la mayoría de sus integrantes.
+VI. Las demás que tengan este carácter conforme a las disposiciones legales aplicables.
 
-###### ARTÍCULO 96.
+###### Artículo 83.
 
-Los dictámenes que las comisiones emitan sobre asuntos que no llegue a resolver el pleno del Congreso del Estado y las iniciativas que por cualquier motivo no se llegasen a dictaminar, quedarán a disposición de la siguiente legislatura.
+Para el establecimiento de un área de conservación se deberá contar con el certificado de reconocimiento respectivo expedido por la Secretaría. Dicho certificado deberá contener, por lo menos, el nombre del promovente, la denominación del área que se pretenda someter al régimen de conservación; su ubicación, superficie y colindancias; el tipo de área que se establezca de acuerdo con el artículo anterior; los términos y condiciones a los que se sujetaría dicha área y, en su caso, el plazo de vigencia del mismo.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+###### Artículo 84.
 
-###### ARTÍCULO 97.
+Los interesados en obtener un Certificado de Reconocimiento de Área de Conservación, deberán presentar ante la Secretaría:
 
-Las Comisiones deberán presentar sus dictámenes, respecto de los asuntos que les sean turnados, dentro de los treinta días hábiles siguientes a aquel en que los hubieren recibido, cuando se trate de acuerdos o decretos y dentro de los cuarenta y cinco días hábiles cuando traten sobre iniciativas para crear leyes secundarias nuevas o modificaciones a la Constitución Política del Estado de Sonora, sin que dichos plazos puedan ser prorrogables.
+I. Solicitud por escrito que contenga nombre, denominación o razón social, de quien gestione el establecimiento del área de conservación;
 
-La caducidad legislativa se entenderá como el desechamiento de facto de toda iniciativa no dictaminada en el plazo de un año, contado a partir de que es turnada a la Comisión de Dictamen Legislativo. Esta figura no aplicará a las iniciativas referidas en el artículo 53, fracciones I, II, IV y V de la Constitución Política del Estado. Tampoco aplica para las denuncias de juicio político o de inicio de un procedimiento de declaratoria de procedencia.
+II. En caso de personas morales, la documentación que acredite la personalidad jurídica de su representante legal. Tratándose de los pueblos indígenas, ejidos y comunidades rurales las solicitudes deberán ser presentadas por su representante y acompañarse del acta de asamblea correspondiente;
 
-###### ARTÍCULO 98.
+III. Documento que acredite la propiedad del predio o, en su caso, el documento mediante el cual el propietario le otorga al poseedor del mismo la autorización para promover ante la Secretaría el certificado correspondiente;
 
-Los dictámenes deberán contener:
+IV. Tipo de área de conservación que se propone establecer según los elementos naturales que justifiquen su protección;
 
-I.- El nombre de la comisión o comisiones que lo suscriban y el asunto sobre el cual dictaminan;
+V. Denominación del área, en su caso, así como descripción de sus características físicas y biológicas;
 
-II.- Antecedentes del asunto planteado;
+VI. Superficie y colindancias con un plano de ubicación, preferentemente georreferenciado y con fotografías del predio;
 
-III.- Consideraciones que sustenten el apoyo, modificación o rechazo del contenido de la iniciativa o asunto;
+VII. Propuesta de actividades a regular;
 
-IV.- Puntos resolutivos;
+VIII. Acciones de manejo del área a cargo del promovente o promoventes;
 
-V.- Proyecto de texto de ley, decreto o acuerdo; y
+IX. Acreditar la viabilidad financiera, y;
 
-VI.- Fecha, nombre y firma de los diputados integrantes de la o las comisiones que lo emiten.
+X. La información complementaria que desee proporcionar el promovente.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+Una vez recibida la solicitud para el establecimiento de un área de conservación, la Secretaría integrará un expediente y, en su caso, efectuará una visita de campo en un plazo que no excederá de veinte días hábiles contados a partir del día de la recepción.
 
-###### ARTÍCULO 99.
+La resolución de dicha solicitud se emitirá en los términos que se prevean en el reglamento respectivo.
 
-Ante la falta de presentación oportuna de dictámenes en el plazo ordinario establecido en el artículo 97 de esta Ley, la Dirección General Jurídica dará cuenta a la Comisión de Régimen Interno y Concertación Política, quien podrá proponer al pleno del Congreso del Estado la creación de una comisión especial con carácter de transitorio para que concluya el estudio y dictamen de la iniciativa o asunto que se trate, o bien la reasignación de la iniciativa o asunto a una comisión distinta.
+###### Artículo 85.
 
-###### ARTÍCULO 100.
+La Secretaría en coordinación con la Procuraduría, podrá llevar a cabo acciones de supervisión técnica y monitoreo para constatar que las acciones de manejo del área se realicen en los términos previstos en el Certificado de Reconocimiento de Área de Conservación. Asimismo, podrá apoyar a los responsables del área de conservación en la conservación, administración y vigilancia de los predios a que se refiere la presente Sección.
 
-Para que exista dictamen de comisión, éste deberá estar firmado por la mayoría de los diputados que la integran. El diputado que disienta de la mayoría deberá presentar su voto particular por escrito en forma complementaria al dictamen de la comisión, debiendo someterse conjuntamente éstos al conocimiento del pleno del Congreso del Estado de acuerdo al procedimiento establecido en la presente ley.
+###### Artículo 86.
 
-De no presentarse voto particular se presume que se suma a la mayoría de votos contenidos en el dictamen.
+La Secretaría podrá prorrogar la vigencia de los certificados de reconocimiento hasta por un plazo igual al autorizado originalmente, cuando así lo soliciten sus titulares con una anticipación mínima de dos meses previos a su vencimiento, y siempre que hayan cumplido con los términos y obligaciones establecidos en el mismo.
 
-###### ARTÍCULO 101.
+De igual forma, la vigencia de los certificados puede darse por terminada anticipadamente a solicitud de sus titulares, por imposibilidad justificada para dar cumplimiento a las obligaciones adquiridas o por así convenir a sus intereses.
 
-Si un asunto se turnase o remitiese a dos o más comisiones, éstas actuarán unidas y, en su caso, dictaminarán conjuntamente. Las reuniones serán presididas por el presidente de la primera comisión a la que fue turnado o remitido el asunto.
+###### Artículo 87.
 
-Para el caso de las reuniones de las comisiones en forma unida, se entenderá que un diputado representa un voto y una asistencia, independientemente del número de comisiones de las que forme parte dicho diputado.
+La Secretaría, por sí misma o a solicitud de la Procuraduría, podrá, en todo momento, revocar el certificado expedido, por cualquiera de las siguientes causas:
 
-###### ARTÍCULO 102.
+I. Cuando el predio se vea alterado por desastres naturales como huracanes, ciclones, incendios, sismos, terremotos o por eventos antropogénicos y no se cumpla con los objetivos de la certificación, y;
 
-Cuando un diputado suplente sea llamado para cubrir la ausencia del titular, formará parte de las comisiones en las que se desempeñaba el propietario a quien suple en su ausencia, sin necesidad de declaratoria alguna, excepto las comisiones de Régimen Interno y Concertación Política y la de Administración, para las cuales se requerirá declaratoria expresa del pleno del Congreso del Estado.
+II. Cuando sus titulares incumplan con el régimen de manejo autorizado o con cualquiera otra de las obligaciones establecidas en el certificado.
 
-### CAPÍTULO III. DE LA COMISIÓN DE ADMINISTRACIÓN
+###### Artículo 88.
 
-###### ARTÍCULO 103.
+La Secretaría, en coordinación con las autoridades estatales competentes, en su caso, y los ayuntamientos, en el ámbito de sus respectivas competencias podrán:
 
-El gobierno interior del Congreso del Estado se ejercerá a través de una comisión de naturaleza plural denominada Comisión de Régimen Interno y Concertación Política, con el objeto de coordinar el ejercicio de las funciones legislativas y políticas que corresponden al Congreso del Estado. Esta comisión se reunirá al menos una vez por semana durante los periodos de sesiones ordinarias y cada dos semanas en los periodos de sesiones extraordinarias.
+I. Promover inversiones públicas y privadas para el establecimiento y manejo de áreas de conservación;
 
-###### ARTÍCULO 104.
+II. Establecer o, en su caso, promover mecanismos para captar recursos y financiar o apoyar el manejo de áreas naturales protegidas, y;
 
-La Comisión de Régimen Interno y Concertación Política estará estructurada por un Presidente y los demás tendrán carácter de Secretarios. Ésta ejercerá sus funciones a partir del acto de toma de protesta de los diputados sin necesidad de declaración alguna.
+III. Promover el otorgamiento de incentivos económicos y estímulos fiscales para quienes destinen sus predios a acciones de preservación, conservación y restauración de los ecosistemas y su biodiversidad.
 
-###### ARTÍCULO 105.
+#### SECCIÓN V. DE LAS ZONAS DE RESTAURACIÓN
 
-Cada Grupo Parlamentario tendrá, dentro de la Comisión de Régimen Interno y Concertación Política, voto ponderado en relación directa al número de diputados que representan. El voto de cada grupo se expresará a través de su coordinador parlamentario, o de quien lo represente al grupo en la sesión.
+###### Artículo 89.
 
-###### ARTÍCULO 106.
+El Ejecutivo del Estado y los ayuntamientos, con base en los estudios que así lo justifiquen, expedirán declaratorias para el establecimiento de zonas de restauración de aquellas áreas que presenten procesos acelerados de desertificación o degradación que impliquen la pérdida de recursos de muy difícil regeneración, recuperación o restablecimiento, o afectaciones irreversibles a los ecosistemas o sus elementos.
 
-La Comisión de Régimen Interno y Concertación Política estará integrada por un máximo de dos diputados de cada Grupo Parlamentario, debiendo ser uno de éstos el coordinador del Grupo Parlamentario, y por el Presidente de la Mesa Directiva o de la Diputación Permanente, con derecho a voz.
+Dichas declaratorias podrán comprender de manera parcial o total predios sujetos a cualquier régimen de propiedad, y expresarán:
 
-###### ARTÍCULO 107.
+I. La delimitación de la zona sujeta a restauración ecológica, precisando su superficie, ubicación y deslinde;
 
-La Presidencia de la comisión será rotativa entre sus miembros por periodos de seis meses. La primera Presidencia será ocupada por un miembro del Grupo Parlamentario que tenga mayor número de diputados; en los subsecuentes periodos, atenderán al orden que se derive de la representación de cada Grupo Parlamentario o al acuerdo que al respecto adopte la comisión.
+II. Las acciones necesarias para regenerar, recuperar o restablecer las condiciones naturales de la zona;
 
-###### ARTÍCULO 108.
+III. Las condiciones a que se sujetarán, dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad;
 
-El secretario del mismo Grupo Parlamentario al que pertenece el Presidente de la comisión será el encargado de suplir sus faltas.
+IV. Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de dependencias y entidades de la administración pública estatal o municipal, propietarios, poseedores, organizaciones sociales públicas o privadas, pueblos indígenas, gobiernos locales y demás personas interesadas, y
 
-###### ARTÍCULO 109.
+V. Los plazos para la ejecución del programa de restauración ecológica respectivo.
 
-La Comisión de Régimen Interno y Concertación Política tendrá las siguientes atribuciones:
+###### Artículo 90.
 
-I.- Coadyuvar en el ejercicio de las funciones constitucionales del Congreso del Estado a través de acuerdos legislativos y políticos;
+La Secretaría y los ayuntamientos formularán y ejecutarán los programas de restauración ecológica a que se refiere el artículo anterior, con el propósito de que se efectúen las acciones necesarias para la recuperación y el restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que se desarrollaban en las zonas declaradas.
 
-II.- Proponer al pleno del Congreso del Estado la composición de las diferentes comisiones;
+En la formulación, ejecución y seguimiento de dichos programas, la Secretaría y los ayuntamientos promoverán la participación de las dependencias y entidades de la administración pública estatal o municipal que en virtud de sus atribuciones deban hacerlo, de los propietarios, poseedores, organizaciones sociales públicas o privadas, comunidades indígenas y demás personas interesadas en la restauración ecológica.
 
-III.- Proponer al pleno del Congreso del Estado el proyecto de presupuesto de egresos del Poder Legislativo;
+###### Artículo 91.
 
-IV.- Proponer al pleno del Congreso del Estado el nombramiento y remoción del Oficial Mayor, Contralor Interno, directores generales o sus equivalentes y subdirectores, con base en lo dispuesto por esta ley;
+La Secretaría y los ayuntamientos podrán suscribir entre sí acuerdos de coordinación a afecto de conjuntar recursos y acciones para revertir en las zonas declaradas para restauración, los procesos de degradación o desertificación, o los graves desequilibrios ecológicos.
 
-V.- Establecer acuerdos para definir los márgenes de tiempo tolerables en relación con los retardos de los diputados a las sesiones del pleno del Congreso del Estado o Diputación Permanente y reuniones de comisiones;
+###### Artículo 92.
 
-VI.- Proponer la agenda legislativa de los periodos de sesiones;
+Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en las zonas que fueren materia de las declaratorias a que se refiere el artículo 89 quedarán sujetas a la aplicación de las modalidades previstas en las propias declaratorias.
 
-VII.- Acordar los asuntos a tratar en el orden del día de las sesiones, debiendo comunicarlo a la Mesa Directiva y al resto de los diputados antes del inicio de las mismas;
+Los notarios y cualesquiera otros fedatarios públicos, harán constar tal circunstancia al autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan.
 
-VIII.- Autorizar, a solicitud de la Comisión de Administración, la contratación de asesorías externas o de especialistas para el trabajo de las comisiones, atendiendo a la naturaleza del asunto de que se trate, a la conveniencia y oportunidad de la asesoría; así como la celebración de reuniones de comisiones fuera del recinto oficial o la celebración de congresos, seminarios y eventos similares, atendiendo a la disponibilidad presupuestaria;
+Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
 
-> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2015)</small>
+Las declaratorias deberán publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca, y serán inscritas en el Instituto de la Función Registral del Estado de Oaxaca.
 
-IX.- Autorizar, a propuesta de la Comisión de Comunicación y Enlace Social, el programa anual de comunicación social del Congreso del Estado;
+#### SECCIÓN VI. DEL SISTEMA ESTATAL DE ÁREAS NATURALES PROTEGIDAS
 
-X.- Evaluar las funciones de las dependencias del Congreso del Estado;
+###### Artículo 93.
 
-XI.- Impulsar y realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas legislativas;
+La Secretaría constituirá el Sistema Estatal de Áreas Naturales Protegidas, con el propósito de incluir en el mismo todas las áreas declaradas bajo este régimen por la federación, el estado o los municipios, cada una dentro de su propia jurisdicción, e integrar al mismo nuevas áreas que incluyan ecosistemas y corredores biológicos de la Entidad, a fin de asegurar su protección y preservación y garantizar los servicios ambientales que la biodiversidad presta a la población del Estado.
 
-XII.- Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera, determinando las políticas generales para ello y proponiendo al pleno del Congreso del Estado los proyectos de los reglamentos respectivos;
+El manejo de dicho Sistema estará a cargo de la Secretaría, quien contará con la participación y asesoría del Consejo Estatal de Áreas Naturales Protegidas.
 
-XIII.- Aprobar los manuales de organización y de procedimientos de los (sic) dependencias del Congreso del Estado; y
+###### Artículo 94.
 
-XIV.- Las demás que le confiera esta ley, el pleno del Congreso del Estado y la Diputación Permanente.
+Las Dependencias de la Administración Pública Estatal y de los Municipios, deberán considerar en sus programas y acciones que afecten el territorio de un área natural protegida de competencia estatal, así como en el otorgamiento de permisos, concesiones y autorizaciones para obras o actividades que se desarrollen en dichas áreas, las previsiones contenidas en la presente Ley, los reglamentos, normas que se expidan en la materia, en los decretos por los que se establezcan las áreas naturales protegidas y en los programas de manejo respectivos.
 
-###### ARTÍCULO 110.
+#### SECCIÓN VII. DE LA FAUNA Y FLORA SILVESTRES
 
-La Comisión de Régimen Interno y Concertación Política dispondrá del personal y equipo necesarios para el cumplimiento de sus atribuciones, así como de los recursos económicos en los términos que señale el presupuesto de egresos del Congreso del Estado.
+###### Artículo 95.
 
-### CAPÍTULO I. DE LAS SESIONES
+La Secretaría, en el ámbito jurisdiccional del Estado de Oaxaca, y en coordinación con las autoridades federales competentes, promoverá y realizará las acciones que le correspondan para la conservación, repoblamiento y aprovechamiento racional de la flora y fauna silvestres.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+###### Artículo 96.
 
-> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2016)</small>
+La Secretaría formulará y conducirá la política estatal sobre la conservación y aprovechamiento de la vida silvestre y emitirá las normas y reglamentos respectivos; para lo cual deberá cumplir con lo siguiente:
 
-###### ARTÍCULO 111.
+I. Establecer y aplicar disposiciones en materia de manejo, control y remediación de los problemas asociados con ejemplares y poblaciones federales;
 
-La administración de los recursos presupuestales y patrimoniales del Congreso del Estado se ejercerá a través de una comisión plural denominada Comisión de Administración. Esta comisión se reunirá cuando menos una vez por semana durante los periodos de sesiones ordinarias y cada dos semanas durante los periodos de sesiones extraordinarias.
+II. Promover los usos y formas de aprovechamiento sostenible de la vida silvestre por parte de las comunidades;
 
-Cada Grupo Parlamentario tendrá, dentro de la Comisión de Administración, voto ponderado en relación directa al número de diputados que representan.
+III. Dar apoyo, asesoría técnica y capacitación a las comunidades para la conservación y aprovechamiento sustentable de la vida silvestre;
 
-> <small>(REFORMADO, B.O. 11 DE MAYO DE 2017)</small>
+IV. Integrar, dar seguimiento y actualización al Sistema Estatal de Información sobre vida silvestre;
 
-###### ARTÍCULO 112.
+V. Crear, integrar y administrar registros de organizaciones relacionadas con la conservación y el aprovechamiento sustentable de la vida silvestre, de prestadores de servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre y de mascotas de especies silvestres y aves de presa;
 
-Esta comisión estará integrada por hasta dos diputados de cada Grupo Parlamentario acreditado en el Congreso del Estado. Todos los integrantes gozarán del derecho a voz y el voto ponderado será expresado por el diputado que al efecto señale cada Grupo Parlamentario. Los miembros de esta comisión no podrán formar parte de las comisiones de Régimen Interno y Concertación Política ni de la de Fiscalización.
+VI. Coordinar la participación social en las actividades de conservación y aprovechamiento de vida silvestre que son competencia del Gobierno del Estado;
 
-###### ARTÍCULO 113.
+VII. El fomento del trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de éstas, y;
 
-La presidencia de la comisión será rotativa entre los miembros integrantes de ésta por periodos de seis meses. La primera presidencia será ocupada por un miembro del Grupo Parlamentario que tenga el segundo mayor número de diputados; en los subsecuentes periodos, atenderán al orden que se derive de la representación de cada Grupo Parlamentario o al acuerdo que al respecto adopte la comisión. En ningún caso, las presidencias de las comisiones de Régimen Interno y Concertación Política y de Administración podrán coincidir en diputados del mismo Grupo Parlamentario.
+VIII. Emitir recomendaciones a las autoridades federales en materia de vida silvestre, con el propósito de promover el cumplimiento de la legislación en la materia.
 
-###### ARTÍCULO 114.
+###### Artículo 97.
 
-La Comisión de Administración tendrá las siguientes atribuciones:
+El Estado y los Municipios en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.
 
-I.- Elaborar, junto con la Oficialía Mayor, el proyecto de presupuesto anual de egresos del Congreso del Estado para el ejercicio fiscal del año siguiente, sometiéndolo a la aprobación del pleno del Congreso del Estado por medio de la Comisión de Régimen Interno y Concertación Política;
+La regulación sobre trato digno y respetuoso se formulará con base a los siguientes principios básicos:
 
-II.- Presentar trimestralmente a la Comisión de Régimen Interno y Concertación Política, un informe sobre la administración de los recursos económicos del Congreso del Estado, durante los primeros diez días de cada trimestre. Ésta podrá solicitar información adicional sobre la rendición de cuentas y, la Comisión de Administración, deberá darle respuesta dentro de los tres días hábiles siguientes a la fecha en que fue solicitada;
+I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
 
-III.- Aprobar, previo acuerdo con la Comisión de Régimen Interno y Concertación Política, las políticas de sueldos, honorarios, contratación de servicios profesionales, así como de utilización de recursos y patrimonio del Congreso del Estado, así como establecer las bases para el otorgamiento de compensación e incentivos al personal de las dependencias; con excepción del manejo que realicen los Grupos y Representaciones Parlamentarias de sus recursos, en términos de lo previsto en el título octavo de esta ley;
+II. Proporcionar a los animales un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie;
 
-IV.- Vigilar el correcto ejercicio del presupuesto aprobado, de conformidad con los programas y montos establecidos, para lo cual podrá aprobar la realización de auditorías a las dependencias del Congreso del Estado;
+III. Suministrar a los animales atención médica preventiva y en caso de enfermedad brindar tratamiento médico expedito avalado por un médico veterinario;
 
-V.- Aprobar las transferencias y ajustes presupuestales, previo análisis de la Comisión de Régimen Interno y Concertación Política, así como, en su caso, solicitar las ampliaciones presupuestales en los términos de la ley en la materia;
+IV. Promover campañas de esterilización y la creación de refugios locales, a efecto de controlar y su propagación y permitir a los animales la expresión de su comportamiento natural;
 
-VI.- Establecer los lineamientos generales conforme a los cuales las dependencias del Congreso deberán elaborar los manuales de organización y de procedimientos de las dependencias del Congreso del Estado;
+V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie, y;
 
-VII.- Proponer a la Comisión de Régimen Interno y Concertación Política los montos mínimos y máximos a incluirse en el presupuesto de egresos del Congreso del Estado, para adquisiciones y contratación de obra pública por adjudicación directa, invitación a cuando menos tres proveedores o licitación pública;
+VI. Concertar acciones con organizaciones civiles para promover, fomentar y vigilar el trato digno y respetuoso a las especies animales, así como regular y evitar la crueldad en contra de éstas.
 
-VIII.- Proponer a la Comisión de Régimen Interno y Concertación Política los lineamientos para licitaciones públicas, aplicando preferentemente la legislación local en la materia y contemplando mecanismos de participación ciudadana en la vigilancia y seguimiento de los procedimientos correspondientes;
+Asimismo, en el ámbito de sus respectivas competencias, establecerán la prohibición de organizar, inducir o provocar peleas de perros, determinando las sanciones correspondientes.
 
-IX.- Convocar a los titulares de las dependencias del Congreso del Estado a las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso del Estado;
+###### Artículo 98.
 
-X.- Conocer las propuestas de los titulares de las dependencias del Congreso del Estado sobre los siguientes asuntos:
+El Ejecutivo Estatal, promoverá el establecimiento de zoológicos, jardines botánicos, viveros, criaderos y granjas piscícolas, con la participación de los municipios, los propietarios, poseedores del predio en cuestión y organismos sociales.
 
-a) La organización interna y procedimientos del órgano a su cargo; y
+Las actividades de poda y derribo de árboles ubicados en áreas urbanas, deberán contar con autorización previa de la Secretaría, los municipios o las autoridades agrarias, según corresponda, siempre y cuando dichas actividades se justifiquen plenamente.
 
-b) Los programas de actividades del órgano a su cargo; y
+En el caso de que la poda y el derribo lo lleve a cabo los Ayuntamientos, éstos deberán contar con el dictamen emitido por la Secretaría.
 
-XI.- Otros análogos que a juicio del Presidente del Congreso del Estado, de la Diputación Permanente o de la Comisión de Régimen Interno y Concertación Política sean materia de tratamiento por esta comisión.
+###### Artículo 99.
 
-## TÍTULO SÉPTIMO. DEL PROCESO LEGISLATIVO
+En caso de la celebración de convenios o acuerdos a favor del Estado y de los Municipios, el Ejecutivo Estatal establecerá los alcances de los mismos, en los que se observará lo señalado en la presente Ley, a fin de imponer las limitaciones, medidas y modalidades que resulten necesarias al uso o aprovechamiento de la flora y fauna silvestres dentro de las áreas naturales protegidas.
 
-### CAPÍTULO II. DE LAS INICIATIVAS
+###### Artículo 100.
 
-###### ARTÍCULO 115.
+Los interesados en llevar a cabo cualquier obra o actividad que requiera de algún permiso, licencia, autorización, registro u otro acto administrativo similar en materia ambiental deberán tramitarlos mediante la Licencia Ambiental Integral, que presentarán ante la Secretaría o los ayuntamientos, según corresponda, de acuerdo con sus respectivas competencias.
 
-El Congreso del Estado tendrá cada año dos periodos constitucionales de sesiones ordinarias y dos períodos de sesiones extraordinarias. Los periodos de sesiones ordinarias comprenderán, el primero, del día 01 de septiembre al 15 de diciembre y, el segundo, desde el 01 de febrero hasta el 30 de abril, en ambos casos considerando cada año de ejercicio legal de la legislatura. Estos periodos pueden ser prorrogables en términos del artículo 41 de la Constitución Política del Estado.
+Quedan exceptuados de tramitarse a través de la Licencia Ambiental Integral, los permisos y autorizaciones requeridos por esta Ley para la combustión a cielo abierto y la operación de los centros de verificación vehicular a que se refieren los artículos 138 y 142 de esta Ley.
 
-El primer periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el primer periodo de sesiones ordinarias o su prórroga y hasta el 31 de enero de cada año de ejercicio de la legislatura; a su vez, el segundo periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el segundo periodo de sesiones ordinarias o su prórroga y hasta el 31 de agosto de cada año de ejercicio de la legislatura.
+###### Artículo 101.
 
-El Congreso del Estado podrá ser convocado a sesiones extraordinarias de conformidad a lo que establecen los artículos 43 y 66 de la Constitución Política del Estado para desahogar únicamente los asuntos para los que fue convocado.
+La Licencia Ambiental Integral es el documento que concentra todos los actos administrativos señalados en el artículo anterior, con el objeto de otorgarlos mediante un solo procedimiento.
 
-###### ARTÍCULO 116.
+La Licencia Ambiental Integral se otorgará sin perjuicio de las licencias, permisos, concesiones, autorizaciones y demás actos similares que se deban tramitar ante autoridades distintas a las ambientales para la realización de las obras o actividades a que se refiere la presente ley.
 
-Las sesiones del pleno del Congreso del Estado serán ordinarias o extraordinarias, de carácter público, debiendo transmitirse por medios de comunicación electrónica.
+###### Artículo 102.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Para obtener la Licencia Ambiental Integral los interesados deberán presentar una solicitud, en la que se contenga, cuando menos, la documentación e información siguiente:
 
-> <small>(REFORMADO, B.O. 7 DE ABRIL DE 2016)</small>
+I. Datos del promovente y del responsable técnico;
 
-###### ARTÍCULO 117.
+II. Descripción detallada de las obras o actividades por etapa del proyecto;
 
-El pleno del Congreso del Estado no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de, por lo menos, más de la mitad del número total de sus miembros.
+III. Vinculación con los instrumentos de planeación y ordenamientos jurídicos aplicables;
 
-###### ARTÍCULO 118.
+IV. Descripción del sistema ambiental regional y señalamiento de tendencias del desarrollo y deterioro de la región;
 
-Las sesiones ordinarias del pleno del Congreso del Estado serán por regla general los martes y los jueves de cada semana. El pleno del Congreso del Estado podrá acordar que se verifiquen en otros días o diariamente si el volumen o la importancia de los asuntos así lo requieren. La duración de las sesiones será de hasta ocho horas, pudiendo prorrogarse, por acuerdo del pleno del Congreso del Estado, hasta por cuatro horas más.
+V. Identificación, descripción y evaluación de los impactos y riegos (sic) ambientales;
 
-###### ARTÍCULO 119.
+VI. Estrategias para la prevención y mitigación de impactos y riesgos ambientales;
 
-En casos de suma gravedad y urgencia, el pleno del Congreso del Estado podrá declararse en sesión permanente, para lo cual será indispensable, por lo menos, el voto de las dos terceras partes de los diputados presentes.
+VII. Pronósticos ambientales regionales y, en su caso, evaluación de alternativas, y;
 
-###### ARTÍCULO 120.
+VIII. Identificación de los instrumentos metodológicos y elementos técnicos que sustentan los resultados.
 
-Durante las sesiones podrá haber recesos cuando el Presidente de la Mesa Directiva así lo considere oportuno. La duración del receso será determinada por el propio Presidente de la Mesa Directiva.
+La Secretaría y los ayuntamientos proporcionarán, a solicitud de los interesados, las guías que emitan para facilitar la presentación y entrega de la solicitud de Licencia Ambiental Integral, de acuerdo con el tipo de obra o actividad que se pretenda llevar a cabo.
 
-###### ARTÍCULO 121.
+### CAPÍTULO III. DE LA PREVENCIÓN Y EL CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
-La Comisión de Régimen Interno y Concertación Política será la encargada de elaborar el proyecto de orden del día de cada sesión ordinaria, debiendo hacerlo del conocimiento de los diputados a través de la Gaceta Parlamentaria, cuando menos el día anterior a aquél en que habrá de desahogarse. Sin perjuicio de lo anterior, la Presidencia del Congreso del Estado, en acuerdo con la Comisión de Régimen Interno y Concertación Política, podrá presentar un proyecto alternativo de orden del día para ser sometido a consideración del pleno del Congreso del Estado, justificando las razones del cambio del mismo.
+###### Artículo 103.
 
-###### ARTÍCULO 122.
+Cuando existan normas oficiales mexicanas, criterios ecológicos u otras disposiciones que regulen el aprovechamiento de recursos naturales, las emisiones, descargas y, en general, todos los impactos y riesgos ambientales relevantes que se puedan producir en el desarrollo de una obra o actividad, el responsable de ésta podrá presentar una solicitud simplificada de Licencia Ambiental Integral, misma que deberá contener la información señalada en las fracciones I, II, III y VI del artículo anterior.
 
-El orden del día podrá comprender, según corresponda, los siguientes puntos:
+###### Artículo 104.
 
-I.- Lista de asistencia y declaratoria de quórum inicial;
+La Secretaría y los ayuntamientos, al recibir una solicitud de Licencia Ambiental Integral revisarán que se encuentre debidamente presentada, comunicándole al promovente, en ese mismo acto, las deficiencias formales que pudieran ser corregidas en ese momento.
 
-II.- Aprobación del orden del día;
+En el caso de solicitudes presentadas ante la Secretaría, ésta las hará del conocimiento de los ayuntamientos correspondientes, a efecto de que en un plazo no mayor a tres días hábiles manifiesten lo que a su derecho convenga.
 
-III.- Lectura, en su caso, y aprobación de actas de sesiones anteriores;
+###### Artículo 105.
 
-IV.- Correspondencia, en la que se dará lectura a un extracto del escrito con que se de cuenta y el trámite que habrá de darse;
+Cuando así lo consideren necesario, la Secretaría y, en su caso, los ayuntamientos podrán realizar visitas de verificación física al lugar donde se pretenda ejecutar la obra o realizar la actividad, a efecto de constatar la autenticidad de la información y documentación presentada con la solicitud de Licencia Ambiental Integral.
 
-V.- Toma de protesta de servidores públicos;
+###### Artículo 106.
 
-VI.- Iniciativas que presenten la mayoría absoluta de los diputados integrantes de la legislatura;
+Recibida una solicitud de Licencia Ambiental Integral, la Secretaría y los ayuntamientos integrarán el expediente respectivo y podrán requerir a los interesados las aclaraciones, rectificaciones o ampliaciones al contenido de la misma, así como la presentación de los elementos técnicos que sirvieron de base para determinar las descargas al ambiente, los impactos y riesgos ambientales que generaría la obra o actividad y las medidas de prevención y mitigación previstas, en un plazo de diez días hábiles posteriores a la fecha de su recepción.
 
-VII.- Dictámenes que presenten las comisiones de dictamen legislativo;
+Los interesados deberán dar respuesta al requerimiento de la autoridad ambiental dentro de los cinco días siguientes a la fecha en que lo reciban.
 
-VIII.- Informes y posicionamientos para conocimiento del Congreso del Estado;
+###### Artículo 107.
 
-IX.- En su caso, elección de la Mesa Directiva o Diputación Permanente; y
+El procedimiento de evaluación de la Licencia Ambiental Integral no podrá exceder de veinte días hábiles posteriores a la fecha en que se cuente con todos los elementos a que se refiere el artículo anterior. Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la Secretaría o los ayuntamientos requieran de un plazo mayor para su evaluación, éste se podrá ampliar hasta por veinte días hábiles.
 
-X.- Clausura y citatorio para la próxima sesión.
+###### Artículo 108.
 
-###### ARTÍCULO 123.
+Una vez que la Secretaría y, en su caso, los ayuntamientos reciban una solicitud de Licencia Ambiental Integral e integre el expediente a que se refiere el artículo 106, pondrá ésta a disposición del público, con el fin de que pueda ser consultada por cualquier persona.
 
-Durante las sesiones, los asuntos a tratar serán únicamente los aprobados en el orden del día respectivo incluyendo, de ser el caso, la lectura de iniciativas presentadas por los diputados comprendidas en el apartado de correspondencia. Dentro de este mismo apartado, el diputado secretario dará lectura a los datos de identificación y un breve extracto de cada escrito para que pueda darse el trámite respectivo.
+Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
 
-Sólo por resolución de las dos terceras partes del pleno del Congreso del Estado, a propuesta de la Mesa Directiva o de la Comisión de Régimen Interno y Concertación Política, se podrá incluir algún asunto no contenido en el orden del día.
+La Secretaría y, en su caso, los ayuntamientos, a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, conforme a las siguientes bases:
 
-### CAPÍTULO III. DE LAS DISCUSIONES
+I. La Secretaría y, en su caso, los ayuntamientos, publicará la solicitud de Licencia Ambiental Integral en sus medios oficiales de comunicación, según corresponda. Asimismo, el promovente deberá publicar a su costa, un extracto del proyecto de la obra o actividad en un periódico de amplia circulación en la entidad, dentro del plazo de cinco días hábiles, contados a partir de la fecha en que se presente la solicitud de la Licencia Ambiental Integral a la Secretaría y, en su caso, los ayuntamientos;
 
-###### ARTÍCULO 124.
+II. Cualquier ciudadano, dentro del plazo de diez días hábiles, contados a partir de la publicación del extracto del proyecto en los términos antes referidos, podrá solicitar a la Secretaría y, en su caso, los ayuntamientos pongan a disposición del público, la Licencia Ambiental Integral;
 
-Las iniciativas de ley, de decreto y acuerdo, se sujetarán a los siguientes trámites:
+III. Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con lo que señale el reglamento de la presente ley, la Secretaría y, en su caso, los ayuntamientos, podrán organizar una reunión pública de información en la que el promovente explicará los aspectos técnicos ambientales de la obra o actividad de que se trate;
 
-I.- Las iniciativas presentadas por el Ejecutivo y por el Supremo Tribunal de Justicia pasarán desde luego a comisión;
+IV. Cualquier interesado, dentro del plazo de veinte días hábiles, contados a partir de que la Secretaría y, en su caso, los ayuntamientos, ponga a disposición del público la solicitud de Licencia Ambiental Integral en los términos de la fracción I, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes, y;
 
-II.- Las iniciativas ciudadanas en los términos del artículo 53 de la Constitución Política del Estado y los acuerdos del Congreso de la Unión para los que se solicite la aprobación de esta legislatura, invariablemente se turnarán a comisión;
+V. La Secretaría y, en su caso, los ayuntamientos, agregará las observaciones realizadas por los interesados al expediente respectivo y consignará, en la resolución que emita, el proceso de consulta pública realizado y los resultados de las observaciones y propuestas que por escrito se hayan formulado.
 
-III.- Las iniciativas de los diputados y de los ayuntamientos se presentarán por escrito y oportunamente se turnarán a comisión. A estas proposiciones les podrá ser dispensado el trámite de comisión y aún discutir y resolver desde luego el asunto de que se trate, siempre que el pleno del Congreso del Estado las declare como de urgente u obvia resolución y se hayan publicado en la Gaceta Parlamentaria cuando menos el día anterior al de la sesión de que se trate; y
+###### Artículo 109.
 
-IV.- Las mociones de las legislaturas de los Estados de la República se remitirán oportunamente a comisión.
+En la evaluación de la solicitud de Licencia Ambiental Integral, se considerarán, entre otros, los siguientes elementos:
 
-###### ARTÍCULO 125.
+I. El ordenamiento ecológico correspondiente;
 
-Toda iniciativa de particulares, corporaciones, autoridades o funcionarios que carezcan del derecho constitucional de iniciativa, se turnará a la Comisión de Examen Previo y Procedencia Legislativa, para que ésta dictamine si es de tomarse en consideración y, en caso afirmativo, proponga la comisión a la que deba turnarse para su estudio y dictamen. Si la proposición estuviere apoyada por uno o más diputados, desde luego se pasará a la comisión que corresponda.
+II. Las declaratorias de áreas naturales protegidas;
 
-###### ARTÍCULO 126.
+III. Los criterios ecológicos para la protección de la flora y la fauna silvestres y acuáticas; para el aprovechamiento racional de los elementos naturales, y para la protección al ambiente;
 
-Los dictámenes de las comisiones ya sean de ley, de decreto o de acuerdo se sujetarán a dos lecturas: la primera se les dará al darse cuenta de ellos al pleno del Congreso del Estado y, la segunda, en la sesión siguiente. Después de la segunda lectura, la Presidencia señalará la fecha para debates.
+IV. La regulación ecológica de los asentamientos humanos, y
 
-Los dictámenes podrán ser objeto de dispensa de primera lectura sólo en el supuesto de que se hayan publicado en la Gaceta Parlamentaria, cuando menos, el día anterior al de la sesión de que se trate y previa aprobación de las dos terceras partes de los integrantes de la legislatura.
+V. Los reglamentos y las normas oficiales mexicanas de las materias que regulan la Ley General y el presente ordenamiento.
 
-###### ARTÍCULO 127.
+###### Artículo 110.
 
-En los casos de urgencia notoria, o de obvia resolución, o cuando esté próximo a terminar un periodo de sesiones, el pleno del Congreso del Estado podrá dispensar el trámite de segunda lectura a que se refiere el artículo anterior.
+En la evaluación de la solicitud de Licencia Ambiental Integral de obras o actividades que se pretendan realizar en áreas naturales protegidas de jurisdicción local, se considerará, además de lo dispuesto en el artículo anterior:
 
-###### ARTÍCULO 128.
+I. Las disposiciones que regulen el sistema estatal de áreas naturales protegidas;
 
-El trámite de segunda lectura sólo podrá dispensarse por el voto de las dos terceras partes de los diputados presentes en la sesión. Al dispensarse este trámite, la discusión se realizará en la misma sesión en que se dispensó el trámite de referencia.
+II. Las normas generales de manejo para áreas naturales protegidas de jurisdicción local;
 
-###### ARTÍCULO 129.
+III. El programa de manejo del área natural protegida correspondiente; y;
 
-Las iniciativas de ley, de decreto y de acuerdo, así como las proposiciones de los diputados, deberán estar precedidas de una exposición de motivos, en la que los autores expondrán con claridad los hechos y los fundamentos de derecho en que apoyen sus pretensiones.
+IV. Las normas oficiales mexicanas y los criterios ecológicos específicos del área considerada.
 
-###### ARTÍCULO 130.
+### CAPÍTULO IV. ACTIVIDADES QUE NO SEAN CONSIDERADAS ALTAMENTE RIESGOSAS
 
-Las resoluciones del Congreso del Estado, mientras no sean comunicados al Ejecutivo, podrán ser reconsideradas por una sola vez, a solicitud de cualquier diputado y con acuerdo del pleno del Congreso del Estado. Después, sólo podrán ser derogadas o revocadas por éste de acuerdo con los procedimientos que para legislar se establecen en esta ley.
+###### Artículo 111.
 
-###### ARTÍCULO 131.
+Para la evaluación de la solicitud de Licencia Ambiental Integral de obras o actividades que por sus características hagan necesaria la intervención de otras dependencias o entidades de la administración pública estatal o municipal, la Secretaría o los ayuntamientos solicitarán a éstas la formulación de un dictamen técnico al respecto.
 
-En el caso de urgencia notoria calificada por las dos terceras partes, cuando menos, de los diputados presentes, el Congreso del Estado podrá reducir los términos concedidos al Ejecutivo para hacer observaciones, sin que en ningún caso puedan ser menores de cuarenta y ocho horas.
+###### Artículo 112.
 
-###### ARTÍCULO 132.
+La Secretaría remitirá al Ayuntamiento que corresponda, copia de los expedientes de las solicitudes de Licencia Ambiental Integral que reciba, cuando correspondan a proyectos para realizar actividades riesgosas en su circunscripción territorial, a efecto de que la autoridad ambiental municipal manifieste su opinión al respecto, dentro del término de cinco días hábiles posteriores a la recepción. De no emitir la opinión solicitada en el tiempo señalado, se entenderá que el Ayuntamiento considera aceptable la realización de la actividad en su circunscripción.
 
-Cuando el Gobernador del Estado, usando la facultad que le concede el artículo 60 de la Constitución Política del Estado, devuelva un proyecto con observaciones, éste deberá ser discutido nuevamente por el Congreso del Estado. Si fuere confirmado por las dos terceras partes de los diputados presentes, el proyecto tendrá el carácter de ley, de decreto o de acuerdo, según el caso, y volverá al Ejecutivo para su publicación.
+###### Artículo 113.
 
-### CAPÍTULO IV. DE LAS VOTACIONES
+Tratándose de la solicitud simplificada a que se refiere el artículo 103 de esta Ley, la Secretaría y los ayuntamientos otorgarán la Licencia Ambiental Integral respectiva a los interesados en un término no mayor de veinte días hábiles posteriores a la recepción de dicha solicitud, cuando se encuentren en los supuestos de dicho artículo. En caso contrario, las autoridades ambientales los requerirán para que presenten la solicitud de Licencia Ambiental Integral en los términos previstos en el artículo 102 de esta Ley.
 
-###### ARTÍCULO 133.
+Transcurrido el plazo a que se refiere el párrafo anterior sin que se emita la resolución correspondiente, se entenderá que las obras o actividades podrán llevarse a cabo en la forma proyectada y de acuerdo con las normas oficiales mexicanas, criterios ecológicos y demás disposiciones aplicables.
 
-Toda participación, intervención o uso de la voz que hagan los diputados en las sesiones del pleno del Congreso del Estado, deberá sujetarse a un periodo máximo de cinco minutos. Tratándose de lectura de dictámenes de comisión no resultará aplicable lo señalado en el párrafo que antecede. La Comisión de Régimen Interno y Concertación Política podrá acordar participaciones por periodos superiores a los referidos en el párrafo anterior, en cuyo caso establecerá lo conducente el proyecto de orden del día, para aprobación del pleno del Congreso del Estado.
+###### Artículo 114.
 
-Durante el desarrollo de una sesión, sólo podrán acordarse participaciones mayores a cinco minutos, cuando lo solicite el diputado interesado y lo apruebe el pleno del Congreso del Estado.
+La Secretaría y los ayuntamientos evaluarán en el ámbito de sus competencias, los posibles efectos que las obras o actividades pudieran ocasionar sobre el ambiente y los ecosistemas, considerando el conjunto de elementos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
 
-###### ARTÍCULO 134.
+## TÍTULO SÉPTIMO. DE LAS MEDIDAS DE CONTROL, DE SEGURIDAD Y DE LAS SANCIONES
 
-Antes de iniciar la discusión en lo general y en lo particular de los proyectos de ley, de decreto o de acuerdo, el Presidente de la Mesa Directiva preguntará al pleno del Congreso del Estado, si algún diputado hará uso de la voz en alguna de las discusiones. De no mediar solicitud para discutir el asunto por parte de algún diputado, el Presidente someterá el asunto a votación.
+### CAPÍTULO V
 
-###### ARTÍCULO 135.
+#### SECCIÓN I
 
-Sin perjuicio de lo establecido en el artículo anterior, los proyectos de ley, de decreto o de acuerdo se discutirán primero en lo general, o sea sobre la conveniencia o no de aprobar el citado proyecto, y después en lo particular cada uno de sus artículos o puntos. Cuando el proyecto conste de un solo artículo o punto será discutido una sola vez.
+DE LA PREVENCIÓN, CONTROL, PROHIBICIÓN, INFRACCIÓN Y SANCIÓN DE LA CONTAMINACIÓN GENERADA POR RUIDO.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+###### Artículo 115.
 
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+La Secretaría y los ayuntamientos dictarán la resolución sobre la solicitud de la Licencia Ambiental Integral dentro de los veinte días hábiles siguientes a aquél en el que haya sido presentada o, en su caso, entregada la información complementaria a que se refiere el artículo 103 y treinta días hábiles cuando se trate de lo estipulado en el artículo 111 de esta Ley.
 
-###### ARTÍCULO 136.
+La resolución deberá estar debidamente fundada y motivada, y podrá:
 
-Las discusiones en lo general de los dictámenes con proyecto de Ley o de Decreto, se sujetarán a lo siguiente:
+I. Otorgar la Licencia Ambiental Integral;
 
-I.- Se discutirán y votarán en lo general y después en lo particular;
+II. Otorgar la Licencia Ambiental Integral, condicionada; o
 
-II.- El Presidente de la Mesa Directiva podrá exponer los fundamentos del dictamen hasta por diez minutos; si declina hacerlo, podrá fundamentarlo un integrante nombrado por la mayoría de la Comisión correspondiente;
+III. Negar la Licencia Ambiental Integral, cuando:
 
-III.- Si hubiera voto particular, su autor o uno de sus autores podrán exponer los motivos y el contenido del mismo hasta por cinco minutos, siempre que se deseche el dictamen aprobado por la comisión;
+a) Se contravenga lo establecido en esta Ley, sus reglamentos, las normas oficiales mexicanas y las demás disposiciones aplicables;
 
-IV.- Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en el Congreso, podrá disponer de hasta cinco minutos para exponer su postura. El orador no podrá ser interrumpido por moción de cuestionamiento;
+b) El desarrollo de la obra o actividad pudiera generar efectos adversos al ambiente, el equilibrio ecológico, la salud pública o los ecosistemas;
 
-V.- A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
+c) La obra o actividad pueda propiciar que una o más especies sean declaradas como amenazadas o en peligro de extinción, o cuando se afecte a una de dichas especies;
 
-VI.- Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra;
+d) El uso de suelo y las actividades que se llevan a cabo en la zona donde se pretende desarrollar el proyecto sean incompatibles;
 
-VII.- Una vez que hayan intervenido hasta seis oradores en contra y hasta seis a favor, el Presidente preguntará si el asunto se encuentra suficientemente discutido, después de leer la lista de los oradores aún inscritos en ambos sentidos. Si la respuesta fuera negativa, continuará la discusión, sólo si hubiera oradores inscritos, pero el Presidente repetirá la pregunta cuando hubieran intervenido tres oradores más de cada lista, y así en lo sucesivo. Si el Pleno decide que se encuentra suficientemente discutido, el Presidente anunciará el inicio de la votación nominal;
+e) Se afecte el interés público o los derechos de terceros;
 
-VIII.- Cuando en las listas a las que hace referencia la fracción V de éste artículo, se inscriban oradores únicamente para argumentar en un sólo sentido, ya sea a favor o en contra, se admitirán hasta tres oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente preguntará si el asunto se encuentra suficientemente discutido;
+f) La solicitud no se ajuste a los requerimientos previstos en esta Ley y las demás disposiciones que se deriven de la misma, y su formulación no se haya sujetado a lo que establezca la guía respectiva; o
 
-IX.- Cada vez que se pregunte al Pleno si el punto está suficientemente discutido, el Presidente leerá la lista de las diputadas y de los diputados que hayan solicitado la palabra;
+g) Exista falsedad en la información proporcionada.
 
-X.- Si el orador no se encuentra en el Salón de Sesiones, perderá su turno;
+La resolución sólo se referirá a los aspectos ambientales de las obras y actividades a que se refiera la solicitud.
 
-XI.- Cuando ninguna diputada o diputado pida la palabra para argumentar a favor o en contra del dictamen a discusión, y una vez que algún integrante de la Comisión explique los motivos que ésta tuvo para dictaminar, se procederá a la votación nominal; y
+###### Artículo 116.
 
-XII.- Cuando el Titular de alguna dependencia o entidad de la Administración Pública Estatal, sea invitado a la discusión de un asunto de su competencia, se le concederá, hasta el mismo tiempo que a los diputados.
+La Secretaría o el Ayuntamiento respectivo indicarán en la Licencia Ambiental Integral la vigencia de la misma, el nombre o denominación de sus titulares, la obra o actividad autorizada, su ubicación y las condiciones de descarga al ambiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Cuando no se afecte el ambiente ni el interés público y se haya dado cumplimiento a los términos y condiciones establecidos en la resolución correspondiente, la Secretaría o el Ayuntamiento, a petición del interesado, podrán modificar, revalidar o prorrogar la vigencia de la Licencia otorgada.
 
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+###### Artículo 117.
 
-###### ARTÍCULO 137.
+Cuando se trate de autorizaciones condicionadas, la Secretaría o el Ayuntamiento, en el ámbito de sus respectivas competencias, señalarán los requerimientos que deban observarse en la realización de la obra o actividad prevista y el plazo para su cumplimiento, y en su caso, las condiciones de descargas de contaminantes a los distintos elementos naturales.
 
-Las discusiones de los dictámenes en sentido negativo de iniciativas, que contienen un proyecto de Acuerdo, se sujetarán a lo siguiente:
+###### Artículo 118.
 
-I.- El Presidente de la Mesa Directiva o un integrante nombrado por la mayoría de la Comisión, podrá exponer los fundamentos del dictamen hasta por cinco minutos;
+La ejecución de la obra o actividad autorizada deberá sujetarse a lo dispuesto en la Licencia Ambiental Integral. Los titulares de la Licencia serán responsables de los impactos atribuibles a la realización de dichas obras o actividades, por lo que durante la vigencia de la misma deberán efectuar las acciones de mitigación, compensación o restauración que le sean señaladas por las autoridades ambientales.
 
-II.- Una vez fundamentado el dictamen, podrá intervenir un orador en contra hasta por cinco minutos;
+Serán nulos de pleno derecho los actos que efectúen los titulares de las Licencias Ambientales Integrales en contravención a lo dispuesto por la misma.
 
-III.- En el caso de que no se inscriba orador para la discusión, el Presidente propondrá su votación de inmediato;
+###### Artículo 119.
 
-IV.- El Presidente someterá en votación económica si se acepta desecharlo o se devuelve a la comisión;
+Cuando los interesados en obtener una Licencia Ambiental Integral se desistan de ejecutar la obra o actividad respectiva deberán comunicarlo por escrito a la Secretaría o al Ayuntamiento antes del otorgamiento de la Licencia correspondiente, o al momento de suspender la realización de la obra o actividad si la Licencia ya se hubiere otorgado, en cuyo caso deberán adoptarse las medidas que determinen las autoridades ambientales, a efecto de evitar alteraciones nocivas al equilibrio ecológico o al ambiente.
 
-V.- En caso afirmativo, procederá su archivo como asunto total y definitivamente concluido; y
+###### Artículo 120.
 
-VI.- En caso negativo, se devolverá a la Comisión correspondiente para que elabore un nuevo dictamen.
+Si con anterioridad a que se dicte la resolución se presentan cambios o modificaciones en el proyecto objeto de la solicitud de Licencia Ambiental Integral, el interesado deberá dar aviso de esta situación, por escrito, a la Secretaría o, en su caso, al Ayuntamiento correspondiente, para que determinen si procede o no la presentación de una nueva solicitud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+La Secretaría o el Ayuntamiento comunicarán al interesado la determinación que corresponda, en un término de cinco días hábiles contados a partir del día en que hubieren recibido el aviso respectivo.
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+###### Artículo 121.
 
-ARTÍCULO 137 BIS.- Las discusiones en lo general de las iniciativas que por vencimiento de plazos deban pasar al Pleno en sus términos, se sujetarán a lo siguiente:
+Quienes hubieran obtenido la Licencia Ambiental Integral deberán presentar anualmente ante la Secretaría o el Ayuntamiento respectivo, una Cédula de Operación, sin que represente un costo para quien la tramite, siempre y cuando haya cumplido con la Reglamentación Municipal aplicable y ésta se haya presentado antes del vencimiento de la anterior.
 
-I.- Se discutirán y votarán en lo general y después en lo particular;
+La Cédula de Operación se formulará y presentará dentro del período que señalen las autoridades ambientales, conforme a la guía que para el efecto emitan, la que deberá acompañarse de la información y documentación siguientes:
 
-II.- Serán leídos por un Secretario de la Mesa Directiva o un diputado integrante nombrado por la mayoría de la comisión relativa al tema;
+I. Datos generales del promovente y de la Licencia Ambiental Integral otorgada;
 
-III.- Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, podrá disponer de hasta cinco minutos para exponer su postura;
+II. Informe del cumplimiento de las medidas de prevención y mitigación de los impactos y riesgos ambientales que en su caso se hayan producido en el desarrollo y operación del proyecto; así como las descargas de contaminantes a los distintos elementos naturales, y;
 
-IV.- A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
+III. Posibles cambios o modificaciones de la obra o actividad autorizada en la Licencia Ambiental Integral.
 
-V.- Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra;
+###### Artículo 122.
 
-VI.- Después de que hubiesen intervenido hasta tres oradores de cada la (sic) lista, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión sólo si hubieran oradores inscritos, pero el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo. Si el Pleno decide que se encuentrasuficientemente (sic) discutido, el Presidente anunciará el inicio de la votación nominal; y
+La Secretaría o el Ayuntamiento respectivo, por sí mismos o a solicitud de la Procuraduría, podrán suspender o revocar una Licencia Ambiental Integral, en los siguientes supuestos:
 
-VII.- Cuando en las listas a las que hace referencia la fracción IV de éste artículo, se inscriban oradores únicamente para argumentar en un solo sentido, ya sea a favor o en contra, se admitirán hasta tres oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente declarará el término de la discusión y el inicio de la votación nominal.
+I. Para la suspensión:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+a) Si estuviere en riesgo el equilibrio ecológico o se produjeren afectaciones nocivas imprevistas en el ambiente;
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+b) En caso de peligro inminente de desequilibrio ecológico o de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública;
 
-ARTÍCULO 137 BIS 1.- Las discusiones de los dictámenes acerca de proposiciones con punto de Acuerdo, se sujetarán a lo siguiente:
+c) El desarrollo de la obra o actividad pudiera generar efectos adversos al ambiente, el equilibrio ecológico, la salud pública o los ecosistemas, y;
 
-I.- Se discutirán y votarán en un sólo acto;
+d) La obra o actividad pueda propiciar que una o más especies sean declaradas como amenazadas o en peligro de extinción, o cuando se afecte a una de dichas especies.
 
-II.- Sólo en caso de que así sea solicitado, el Presidente de la Mesa Directiva podrá exponer los fundamentos del dictamen hasta por cinco minutos; si el Presidente de la Mesa Directiva declina hacerlo, podrá fundamentarlo un integrante nombrado por la mayoría de la Comisión;
+II. Para la revocación:
 
-III.- No se admitirán votos particulares ni reservas;
+a) Por el incumplimiento del fin para que le fue otorgada;
 
-IV.- El Presidente formulará una lista de oradores en contra y otra a favor;
+b) Por incurrir en alguna de las causales previstas en los incisos a), c), d) y e) de la fracción III del artículo 115 de esta Ley, y;
 
-V.- Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra; y
+c) Por variaciones significativas de las condiciones ambientales.
 
-VI.- Cuando hayan intervenido un orador en contra y uno a favor, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; de no ser así, continuará la discusión con un orador más en cada sentido por el mismo tiempo señalado. De considerarse suficientemente discutido, el Presidente solicitará a la Secretaría que proceda a la votación económica.
+###### Artículo 123.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+La Licencia Ambiental Integral se extingue:
 
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+I. Cuando se haya cumplido su vigencia sin que se solicite prórroga;
 
-###### ARTÍCULO 138.
+II. Cuando el particular así lo solicite antes del cumplimiento de su vigencia y no se afecte con ello el interés público;
 
-Cuando un dictamen no se apruebe en lo general, el Presidente consultará al Pleno, en votación económica, si el proyecto se devuelve a la comisión. Si la resolución fuese afirmativa, se devolverá a la comisión para que elabore un nuevo dictamen; si fuese negativa, se tendrá por desechado.
+III. Por haberse ejecutado el proyecto y se haya cumplido con el total de las obligaciones impuestas en las licencias, y;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV. Por revocación, en los casos previstos por el artículo anterior.
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+### CAPÍTULO VI. REGULACIÓN DE LA EXPLORACIÓN, EXPLOTACIÓN Y APROVECHAMIENTO DE MINERALES O SUSTANCIAS NO RESERVADAS A LA FEDERACIÓN
 
-ARTÍCULO 138 BIS.- Los dictámenes con proyectos de ley que consten de más de treinta artículos podrán ser discutidos y aprobados, por los libros, títulos, capítulos o secciones, en que sean divididos por sus autores o las comisiones dictaminadoras, siempre que así lo acuerde el Pleno, a propuesta de uno o más de sus integrantes.
+###### Artículo 124.
 
-Si lo propone algún diputado y se aprueba por el Pleno, podrá votarse por separado cada uno de los artículos o fracciones del artículo o de la sección que esté a debate.
+Los titulares de una Licencia Ambiental Integral deberán otorgar ante la Secretaría o el Ayuntamiento correspondiente, los seguros o garantías para el cumplimiento de las condiciones establecidas en ésta, cuando por causa de la obra o actividad autorizada puedan producirse daños graves a los ecosistemas, la salud pública o bienes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+La Secretaría o el Ayuntamiento correspondiente fijarán el monto de los seguros o garantías atendiendo al valor de la reparación de los daños que pudieran ocasionarse, debiendo el titular de la Licencia, en su caso, renovar o actualizar el monto del seguro o garantía que hubiere otorgado, en los términos que disponga la propia Secretaría o el Ayuntamiento correspondiente.
 
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+###### Artículo 125.
 
-###### ARTÍCULO 139.
+La Secretaría o el Ayuntamiento correspondiente podrán ordenar la suspensión temporal, parcial o total de la obra cuando el titular de la Licencia Ambiental Integral dejare de otorgar el seguro o garantía que se le hubiere requerido, pudiendo continuar con ésta en el momento que dé cumplimiento a dicho requerimiento.
 
-La discusión de proyectos de Ley o de Decreto, en lo particular, implica la reserva de artículos determinados para su análisis.
+El titular de la Licencia Ambiental Integral podrá otorgar sólo los seguros o garantías correspondientes a la totalidad de la obra o actividad a realizar, o bien a la etapa del proyecto que se encuentre realizando.
 
-Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos del proyecto, que deben ser presentadas por escrito ante la mesa directiva, antes del inicio de la discusión del dictamen respectivo. Las reservas que se presenten serán registradas por el Secretario.
+###### Artículo 126.
 
-Tratándose de la discusión de un dictamen como resultado de la modificación del orden del día, o de una iniciativa que el Pleno del Congreso del Estado considere como de urgente u obvia resolución, las reservas se presentarán en el transcurso de la discusión en lo particular.
+La Secretaría o el Ayuntamiento correspondiente, a solicitud del titular de la Licencia Ambiental Integral, ordenará la liberación de los seguros o garantías que se hubieren otorgado, cuando éste acredite que se han cumplido con todas las condiciones que motivaron su otorgamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+La Secretaría o el Ayuntamiento correspondiente verificarán, en un plazo de diez días hábiles siguientes a la fecha de recepción de la solicitud de liberación, que se hayan cumplido las condiciones a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+###### Artículo 127.
 
-ARTÍCULO 139 BIS.- La discusión en lo particular se desarrollará en los términos siguientes:
+La Secretaría constituirá un Fideicomiso para el manejo de los recursos obtenidos por el cobro de los seguros o la ejecución de las garantías a que se refiere este Capítulo. Dichos recursos deberán aplicarse a la reparación de los daños ambientales o ecológicos causados por la realización de las obras o actividades de que se trate.
 
-I.- Los artículos del proyecto que no hayan sido reservados, podrán ser votados antes de entrar al desarrollo de la discusión y votación de los que si fueron objeto de reserva;
+###### Artículo 128.
 
-II.- La discusión en lo particular será desahogada conforme al orden ascendente de los artículos;
+La Secretaría y las autoridades municipales, en los términos que señalen los reglamentos correspondientes de esta Ley, deberán integrar los inventarios de emisiones atmosféricas provenientes de fuentes fijas y móviles, de descargas de aguas residuales en los sistemas de drenaje y alcantarillado y de residuos sólidos urbanos e industriales no peligrosos, a fin de vigilar sistemáticamente el cumplimiento de esta Ley, de las disposiciones municipales, las normas y reglamentos ambientales. Creará un sistema de información de las autorizaciones, licencias, permisos, sanciones, medidas de prevención, remediación y contingencia que en la materia deberán otorgarse.
 
-III.- La Presidencia otorgará el uso de la voz hasta por cinco minutos al diputado que reservó el artículo para que realice su planteamiento;
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)</small>
 
-IV.- La Presidencia formulará una lista de oradores a favor y en contra, quienes podrán intervenir hasta por cinco minutos cada uno;
+###### Artículo 128 Bis.
 
-V.- Después de que hubiesen intervenido hasta tres oradores de cada la (sic) lista, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión, sólo si hubieran oradores inscritos, pero el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo;
+En el Estado de Oaxaca está prohibido el uso, distribución, adquisición, donación, regalo o suministro de agroquímicos y plaguicidas peligrosos, productos químicos perturbadores endócrinos, compuestos orgánicos persistentes y otros químicos riesgosos para la salud y el medio ambiente.
 
-VI.- Cuando no hubiera oradores en contra, podrán hablar hasta dos oradores a favor;
+La Secretaría emitirá un listado en el que detallará cuáles son los productos prohibidos, que deberá incluir como mínimo el glifosato y los agroquímicos que lo contengan; los enumerados en los anexos A y B del Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes; el anexo III del Convenio de Rotterdam sobre el Procedimiento de Consentimiento Fundamentado Previo Aplicable a Ciertos Plaguicidas y Productos Químicos Peligrosos Objeto de Comercio Internacional, y el Protocolo de Montreal relativo a las sustancias que agotan la capa de ozono.
 
-VII.- Cuando no hubiera oradores a favor del artículo incluido en el proyecto podrán hablar hasta dos oradores en contra; y
+El listado del párrafo anterior deberá ser actualizado como mínimo cada año.
 
-VIII.- Cuando no hubiere oradores inscritos, el Presidente ordenará que se pase a la discusión del siguiente artículo reservado.
+###### Artículo 129.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Quienes realicen actividades contaminantes deberán asumir las medidas que se establezcan para minimizar la emisión de contaminantes y habrán de proporcionar toda la información que les sea requerida por las autoridades competentes a fin de dar cumplimiento con lo señalado en el artículo anterior
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+###### Artículo 130.
 
-ARTÍCULO 139 BIS 1.- Se podrán discutir varios artículos reservados al mismo tiempo, cuando quien haya hecho la reserva lo solicite al Presidente.
+Para la protección de la atmósfera se considerarán los siguientes criterios:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y en las regiones del Estado, y;
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+II. Las emisiones de contaminantes de la atmósfera, sean de fuentes artificiales o naturales, fijas o móviles, deben ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
 
-ARTÍCULO 139 BIS 2.- Las votaciones sobre cada uno de los artículos reservados podrán realizarse al final de la discusión sobre la totalidad de los mismos.
+###### Artículo 131.
 
-El Secretario las referirá a nombre de la diputada o diputado que haya hecho la exposición y leerá el texto propuesto; el Secretario también podrá referir las proposiciones del Grupo que las haya presentado.
+En materia de prevención y control de la contaminación de la atmósfera, el Estado y el Ayuntamiento, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
 
-Declarado suficientemente discutido, en votación nominal se consultará al Pleno si se aprueba.
+I. Prevenir y controlar la contaminación a la atmósfera en los bienes y zonas de sus respectivas jurisdicciones, así como en fuentes fijas y móviles que no sean competencia de la Federación;
 
-###### ARTÍCULO 140.
+II. Aplicar los criterios generales para la protección a la atmósfera en programas estatales o municipales de ordenamiento territorial y de desarrollo urbano, definiendo las zonas en que sea permitida la instalación de establecimientos contaminantes;
 
-Desechado un dictamen en su totalidad, si hubiere voto particular, éste se someterá a discusión en los mismos términos que aquél.
+III. Requerir a los responsables de la operación de fuentes fijas de sus respectivas jurisdicciones el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con lo dispuesto en las normas oficiales mexicanas respectivas;
 
-###### ARTÍCULO 141.
+IV. Establecer y operar con el apoyo técnico, en su caso, de la Federación, el sistemas de monitoreo de la calidad del aire, y remitirán a dependencia Federal correspondiente los reportes locales de monitoreo atmosférico para que se integren al Sistema Nacional de Información Ambiental, conforme a los acuerdos de coordinación correspondientes;
 
-Si en el curso de las discusiones el orador interpela a uno o más diputados, éstos podrán, discrecionalmente, contestarla o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios diputados, se contestarán en el orden en que hubieren sido hechas; pudiendo contestar también por todos, uno solo de los interpelados autorizado por los demás.
+V. Establecer medidas preventivas y correctivas para reducir las emisiones contaminantes a la atmósfera producidas por fuentes fijas;
 
-###### ARTÍCULO 142.
+VI. Expedir las normas estatales que establezcan los niveles máximos permisibles de emisiones de gases y de partículas, por contaminante y fuente;
 
-Ningún diputado podrá ser interrumpido mientras tenga el uso de la palabra, a menos que se trate de una moción de orden en los casos señalados en el artículo siguiente.
+VII. Integrar y mantener actualizado el registro de emisiones y transferencias de contaminante al aire, agua, suelo y subsuelo, materiales y residuos de su competencia;
 
-###### ARTÍCULO 143.
+VIII. Establecer los requisitos y procedimientos para regular las emisiones de contaminantes de vehículos automotores, excepto los destinados al transporte público federal, y las medidas de tránsito y, en su caso, la suspensión de circulación, en casos graves de contaminación;
 
-El Presidente, por cuenta propia o a solicitud de un diputado, podrá introducir una moción de orden, en los siguientes casos:
+IX. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
 
-I.- Para ilustrar la discusión con la lectura o presentación de algún documento.
+X. Elaborar los informes sobre el estado del medio ambiente en el Estado o el Municipio de que se trate, que convengan con la Secretaría de Medio Ambiente y Recursos Naturales a través de acuerdos de coordinación que se celebren;
 
-II.- Cuando se infrinjan disposiciones de esta ley, en cuyo caso deberá citarse el artículo violado.
+XI. Llevar a cabo campañas de concientización sobre el uso de los vehículos automotores, así como para la afinación y mantenimiento de los mismos;
 
-III.- Cuando se viertan injurias, calumnias o difamaciones en contra de alguna autoridad, corporación o persona.
+XII. Emitir las disposiciones y establecer las medidas, consignadas en el reglamento correspondiente para evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas, plásticos, lubricantes, solventes y otras, y las quemas con fines de desmonte o deshierbe de terrenos;
 
-IV.- Cuando el orador se aparte del asunto a discusión o finalice el tiempo otorgado para su participación.
+XIII. Imponer sanciones y medidas por infracciones a la presente Ley, sus reglamentos o a las normas en la materia de acuerdo con esta Ley. Asimismo, los Ayuntamientos por infracciones a los bandos y reglamentos de policía y buen gobierno que expidan;
 
-En los casos respectivos la Presidencia llamará al orden al orador.
+XIV. Formular y aplicar, con base en las normas oficiales mexicanas para establecer la calidad ambiental en el territorio nacional, programas de gestión de calidad del aire, y;
 
-###### ARTÍCULO 144.
+XV. Ejercer las demás facultades que les confieren esta Ley y las demás disposiciones legales y reglamentarias aplicables.
 
-No podrá llamarse al orden al orador cuando critique o censure a funcionarios públicos por faltas, omisiones, infracciones legales o errores cometidos en el desempeño de sus cargos.
+El registro a que se refiere la fracción VII de este artículo se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría o los ayuntamientos.
 
-###### ARTÍCULO 145.
+La información registrada será pública y tendrá efectos declarativos. Los responsables de las fuentes contaminantes están obligados a proporcionar la información, datos y documentos necesarios para la integración del registro.
 
-Cuando el pleno del Congreso del Estado acuerde regresar un dictamen a la comisión correspondiente para que lo modifique en el sentido de la discusión, dicha comisión deberá presentar, dentro de un término de doce días hábiles, el dictamen con las modificaciones correspondientes. De no hacerlo, se estará a lo dispuesto por el artículo 99 de la presente ley.
+###### Artículo 132.
 
-###### ARTÍCULO 146.
+Para los efectos de lo dispuesto por la fracción I del artículo anterior, se consideran:
 
-La discusión sólo se podrá suspender por las siguientes causas:
+I. Zonas de jurisdicción estatal:
 
-I.- Porque el pleno del Congreso del Estado acuerde dar preferencia a otro negocio de mayor urgencia y gravedad;
+a) Los inmuebles ocupados por las instalaciones de las terminales del transporte público estatal;
 
-II.- Por graves desórdenes en el salón de sesiones;
+b) Las zonas y los parques industriales que no sean competencia de la Federación, y;
 
-III.- Por falta de quórum; y
+c) Las que definan con este carácter las leyes del Estado.
 
-IV.- Por moción suspensiva que presente alguno o algunos de los diputados y que la apruebe el pleno del Congreso del Estado.
+II. Fuentes fijas de jurisdicción estatal:
 
-### CAPÍTULO IV BIS. DEL CUMPLIMIENTO Y SEGUIMIENTO A LOS PUNTOS DE ACUERDO APROBADOS POR EL CONGRESO DEL ESTADO
+a) Los establecimientos industriales que por su actividad no sean competencia de la Federación;
 
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+b) Los hornos de producción de ladrillos, tabiques o similares y aquellos en los que se produzca cerámica de cualquier tipo;
 
-ARTÍCULO 155 BIS.- Los acuerdos del Congreso del Estado tendrán carácter vinculatorio para los servidores públicos del Gobierno del Estado o de los Ayuntamientos, según corresponda, quienes contarán con un plazo de quince días hábiles, contado a partir del día siguiente en que se le notifique el contenido del resolutivo respectivo, para emitir una respuesta por escrito, fundada y motivada, dirigida al Congreso del Estado.
+c) Los sistemas de tratamiento, incineración y disposición final de residuos sólidos urbanos y de manejo especial;
 
-La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto, emitirá la respuesta expresando las razones de su postura, caso en el cual, deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos, mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
+d) Los sistemas de tratamiento de aguas residuales, y;
 
-Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante la Contraloría del Estado o el Órgano de Control y Evaluación Gubernamental del ayuntamiento, según corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso, informando de todos estos actos al Pleno del Congreso del Estado de Sonora, en forma previa a la culminación de su encargo. El incumplimiento de los deberes impuestos al Presidente de la Mesa Directiva deberá ser sancionado, previo procedimiento que al efecto desahogue la Contraloría Interna del Congreso del Estado, por el Pleno del Poder Legislativo.
+III. Zonas y fuentes fijas de jurisdicción municipal:
 
-Tratándose de acuerdos dirigidos a organismos autónomos, las disposiciones previstas en este capítulo les aplicarán en lo que resulte legalmente aplicable.
+a) Los hornos o mecanismos de incineración de residuos sólidos, siempre que por su naturaleza no corresponda su regulación a la Federación o al Estado;
 
-###### ARTÍCULO 147.
+b) Los hornos crematorios en los panteones o servicios funerarios y las instalaciones de los mismos;
 
-Habrá dos clases de votaciones, a saber:
+c) Las emisiones que se verifiquen por los trabajos de pavimentación de calles o en la realización de obras públicas o privadas de competencia municipal;
 
-I.- Nominal; y
+d) Toda clase de establecimientos que expendan, comercialicen, procesen o produzcan de cualquier manera, al mayoreo o menudeo, alimentos o bebidas al público, directa o indirectamente;
 
-II.- Económica.
+e) Los criaderos de todo tipo;
 
-###### ARTÍCULO 148.
+f) Los talleres mecánicos automotrices, de hojalatería y pintura, vulcanizadoras y demás similares o conexos;
 
-En la votación nominal cada diputado, comenzando por la derecha del Presidente, se pondrá de pié y dirá su apellido completo y su nombre si fuere necesario, añadiendo la expresión (si) o (no), según que aprobare o reprobare el asunto que se vota. La votación será recogida por los Secretarios y se hará pública por la Presidencia. La votación nominal podrá realizarse también mediante sistema electrónico en los términos del acuerdo que al efecto se apruebe.
+g) Los fuegos artificiales en fiestas y celebraciones públicas, autorizadas por el municipio correspondiente;
 
-###### ARTÍCULO 149.
+h) Los espectáculos públicos culturales, artísticos o deportivos de cualquier clase;
 
-La votación económica se practicará poniéndose de pié los diputados que aprueben y permaneciendo sentados los que reprueben. La votación económica podrá realizarse también mediante sistema electrónico en los términos del acuerdo que al efecto se apruebe.
+i) Las instalaciones y establecimientos de cualquier clase en ferias populares;
 
-###### ARTÍCULO 150.
+j) Las demás fuentes fijas que funcionen como establecimientos comerciales o de servicios al público, en los que se emitan olores, gases o partículas sólidas o líquidas a la atmósfera, y;
 
-Por regla general las votaciones serán económicas, salvo cuando tres o más diputados soliciten que la votación sea nominal.
+k) Las no reservadas a la Federación o al Estado en la presente ley y en la Ley General.
 
-###### ARTÍCULO 151.
+### CAPÍTULO VII. DE LA PRESERVACIÓN Y RESTAURACIÓN DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN LOS CENTROS DE POBLACIÓN, EN RELACIÓN CON LOS SERVICIOS PÚBLICOS
 
-Cualquier votación podrá repetirse, por una sola vez, a moción de tres o más diputados.
+###### Artículo 133.
 
-###### ARTÍCULO 152.
+Para la operación y funcionamiento de las fuentes fijas y móviles de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, requerirán la licencia de funcionamiento. Así mismo, será obligatoria la verificación, de acuerdo con los criterios que así se establezcan en el reglamento correspondiente, determinando el número de verificaciones anuales, en relación con el grado de riesgo de las actividades industriales o de servicios de que se trate, las cuales nunca podrán ser inferiores de una al año.
 
-Todas las votaciones se decidirán por mayoría absoluta de votos, es decir, por más de la mitad de los diputados presentes, exceptuando los casos en que la Constitución Política del Estado o esta ley exijan un número mayor.
+###### Artículo 134.
 
-Mientras se verifica una votación ningún diputado podrá abandonar el salón de sesiones.
+Queda prohibido emitir contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones se deberán observar las disposiciones de esta Ley y de los reglamentos que de ella emanen, así como las normas oficiales mexicanas aplicables.
 
-###### ARTÍCULO 153.
+Las personas físicas o morales, públicas o privadas, que pretendan realizar o realicen obras o actividades por las que se emitan a la atmósfera olores, gases o partículas sólidas o líquidas serán responsables del cumplimiento de las disposiciones a que se refiere este artículo.
 
-Los empates en las votaciones se decidirán discutiendo de nuevo en la misma sesión y, si la votación resultare empatada por segunda vez, se repetirán el debate y la votación en la sesión siguiente; pero si a pesar de esto aún persistiere el empate, el asunto se reservará para volver a ser tratado en el próximo periodo de sesiones ordinarias, salvo disposición expresa en contrario.
+###### Artículo 135.
 
-###### ARTÍCULO 154.
+Las personas físicas o morales que operen sistemas de producción agropecuario, industrial, comercial y de servicios, que tengan fuentes emisoras de contaminantes deberán:
 
-Para calificar los casos en que los asuntos deban considerarse como de urgente u obvia resolución, se requerirá por lo menos, de las dos terceras partes de los votos de los diputados que se hallen presentes en la sesión.
+I. Instalar equipos o sistemas de control de emisiones para cumplir con los niveles permisibles de contaminantes;
 
-###### ARTÍCULO 155.
+II. Realizar la medición periódica de sus emisiones a la atmósfera diurna y nocturna, conforme a lo establecido en las Normas Oficiales Mexicanas e informar a la Secretaría de los resultados de la medición, mediante el registro de las mismas, y;
 
-En las votaciones que deben resolver las dos terceras partes de los votos que integran el Congreso del Estado, si la división entre tres no diera como resultado un número entero, se pasará al entero inmediato superior.
+III. Sujetarse a la verificación de la Procuraduría y realizar su auditoría ambiental de acuerdo a lo señalado en esta Ley o bien autorregularse.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 27 DE JUNIO DE 2013)</small>
+#### SECCIÓN II. DE LA EMISIÓN DE CONTAMINANTES GENERADA POR FUENTES FIJAS
 
-### CAPÍTULO V. DE LA GACETA PARLAMENTARIA
+###### Artículo 136.
 
-### CAPÍTULO ÚNICO. DE LOS GRUPOS PARLAMENTARIOS
+Los responsables de las fuentes fijas que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera estarán obligados a:
 
-###### ARTÍCULO 156.
+I. Obtener, con anterioridad al inicio de sus operaciones, una licencia de funcionamiento de la fuente de que se trate, tramitándola a través de la Licencia Ambiental Integral a que se refiere el Título Tercero de esta Ley;
 
-El Congreso del Estado contará con un medio informativo denominado "Gaceta Parlamentaria" con el objeto de dar publicidad a los actos que, en el ejercicio de sus atribuciones, emiten el pleno del Congreso del Estado, las comisiones, la Mesa Directiva, la Diputación Permanente, los Grupos Parlamentarios, los diputados y la estructura administrativa del Poder Legislativo.
+II. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas correspondientes o, en su caso, a las condiciones de descarga establecidas en la Licencia Ambiental Integral;
 
-> <small>(REFORMADO, B.O. 16 DE MAYO DE 2011)</small>
+III. Integrar, en el formato que determinen la Secretaría o el Ayuntamiento respectivo, un inventario de sus emisiones contaminantes a la atmósfera y remitirlo a estas autoridades anualmente en la Cédula de Operación a que se refiere el artículo 121 de esta Ley;
 
-La Gaceta Parlamentaria se publicará generalmente de lunes a viernes y, en caso de ser necesario, en sábados y domingos. Su contenido se difundirá a través de los servicios de información en internet con que cuenta este Poder Legislativo.
+IV. Instalar plataformas y puertos de muestreo;
 
-> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+V. Medir las emisiones de contaminantes a la atmósfera con la periodicidad que se determine en las normas oficiales mexicanas, y en su defecto, la Secretaría o el Ayuntamiento que corresponda; registrar los resultados de la medición en el formato que estas autoridades precisen, y remitirles los registros cuando así se los soliciten;
 
-El salón de sesiones y la sala de comisiones deberán contar con equipos electrónicos que permitan a los diputados la consulta de la gaceta parlamentaria.
+VI. Llevar a cabo el monitoreo perimetral de las emisiones contaminantes con la periodicidad que determinen la Secretaría o, en su caso, el Ayuntamiento, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas o colinde con áreas naturales protegidas, o cuando por sus características de operación o por sus materias primas, productos y subproductos puedan causar grave deterioro a los ecosistemas;
 
-###### ARTÍCULO 157.
+VII. Llevar una bitácora de operación y mantenimiento de los equipos de proceso y de control;
 
-La Comisión de Régimen Interno y Concertación Política resolverá sobre los asuntos que habrán de publicarse en la Gaceta Parlamentaria, para lo cual deberá comunicar, con la debida anticipación, a los Secretarios de la Mesa Directiva o de la Diputación Permanente, según sea el caso, el o los asuntos que deberán publicarse.
+VIII. Dar aviso anticipado a la Secretaría o, en su caso, al Ayuntamiento del inicio de operación de sus procesos y de los paros programados de éstos, y de inmediato, cuando los paros de los procesos sean circunstanciales si éstos pueden provocar contaminación;
 
-###### ARTÍCULO 158.
+IX. Dar aviso de inmediato a la Secretaría o al Ayuntamiento, en el caso de ocurrir alguna falla en el equipo de control, para que determinen lo conducente cuando la falla pudiera provocar contaminación;
 
-Deberán publicarse en la Gaceta Parlamentaria, cuando menos, los siguientes asuntos:
+X. Llevar bitácoras del consumo de materias primas e insumos que en su manejo, uso o procesamiento genere algún tipo de emisión a la atmósfera;
 
-I.- El orden del día de las sesiones ordinarias y extraordinarias;
+XI. Las medidas y acciones que deberán llevarse a cabo en el caso de una contingencia, y;
 
-II.- Las actas de las sesiones;
+XII. Las demás que se establezcan en esta Ley y en las disposiciones que de ella se deriven.
 
-III.- Un resumen de la correspondencia recibida por el Congreso del Estado;
+###### Artículo 137.
 
-IV.- Las iniciativas de los diputados;
+Las emisiones de olores, gases, así como de partículas sólidas o líquidas a la atmósfera que se generen por fuentes fijas, no deberán exceder los niveles máximos permisibles de emisión e inmisión por contaminantes y por fuentes de contaminación que se establezcan en las normas oficiales mexicanas o en las condiciones de descarga que se determinen en la Licencia Ambiental Integral.
 
-V.- Los dictámenes de las comisiones, excepto los que versen sobre nombramientos;
+La determinación de los niveles de emisión de los contaminantes a que se refiere este artículo se efectuará de acuerdo con lo dispuesto en las normas oficiales mexicanas aplicables y a falta de éstas, con los métodos autorizados por la Secretaría o el Ayuntamiento respectivo.
 
-VI.- Los informes y posicionamientos para conocimiento del Congreso del Estado;
+###### Artículo 138.
 
-VII.- Las convocatorias a sesión y demás comunicaciones de las comisiones de dictamen;
+Sólo se permitirá la combustión a cielo abierto en zonas de jurisdicción estatal o municipal, cuando la misma se efectúe con permiso expedido por la Secretaría o por el Ayuntamiento respectivo.
 
-VIII.- Las comunicaciones de la Mesa Directiva o Diputación Permanente;
+Para obtener el permiso a que se refiere el párrafo anterior, el interesado deberá presentar a la Secretaría o al Ayuntamiento, según corresponda, solicitud por escrito, cuando menos con quince días hábiles de anticipación a la fecha en que se realice el evento, acompañada de la siguiente información y documentación:
 
-IX.- Las comunicaciones de las dependencias del Congreso del Estado, que sean de interés del pleno del Congreso del Estado; y
+I. Croquis de localización del predio, indicando el lugar preciso en el que se efectuarán las combustiones, así como las construcciones y colindancias más próximas a éste y las condiciones de seguridad que imperan en el mismo;
 
-X.- Los demás actos que considere pertinente el pleno del Congreso del Estado, la Diputación Permanente o la Mesa Directiva del Congreso del Estado.
+II. En su caso, programa de las combustiones a realizar, en el que se precise la fecha y horario en los que éstas tendrán lugar, y;
 
-###### ARTÍCULO 159.
+III. Tipos y cantidades de combustibles que serán utilizados.
 
-La lectura del acta de la sesión anterior será dispensada siempre y cuando ésta haya sido publicada en la Gaceta Parlamentaria, cuando menos, el día anterior a la sesión de que se trate. Solo podrá dársele lectura al acta, cuando así lo apruebe la mayoría absoluta de los diputados presentes en la sesión.
+La Secretaría o el Ayuntamiento correspondiente, no permitirán quemas a cielo abierto cuando se encuentren dentro de los supuestos del artículo 134 de esta Ley.
 
-###### ARTÍCULO 160.
+Podrán suspender de manera total o parcial, temporal o definitiva el permiso que hubieren otorgado cuando se presente algún evento extraordinario de contingencia ocasionado por las combustiones, o cuando las condiciones ambientales no permitan una adecuada dispersión de los contaminantes.
 
-La lectura a la correspondencia y comunicaciones que requieran el desahogo de trámite de ley o proceso legislativo, será dispensada siempre y cuando se haya publicado en la Gaceta Parlamentaria, cuando menos, el día anterior al de la sesión de que se trate. Solo podrá dárseles lectura, cuando así lo apruebe la mayoría absoluta de los diputados presentes en la sesión.
+#### SECCIÓN III. DE LA EMISIÓN DE CONTAMINANTES A LA ATMÓSFERA GENERADA POR FUENTES MÓVILES DE CONTAMINACIÓN ATMOSFÉRICA
+
+###### Artículo 139.
+
+Las emisiones de contaminantes de los vehículos automotores que circulen en el territorio del Estado no deberán rebasar los límites permisibles establecidos en las normas oficiales mexicanas.
+
+###### Artículo 140.
+
+Los propietarios o poseedores de vehículos automotores, verificarán éstos con la periodicidad y en los centros de verificación vehicular que para el efecto autorice la Secretaría y los ayuntamientos, para controlar la generación de emisiones contaminantes.
+
+Cuando en el procedimiento de verificación de emisiones contaminantes, resulte que el vehículo excede los límites permisibles, el propietario o poseedor deberá efectuar las reparaciones necesarias al vehículo que las genere, en el plazo que para tal efecto establezcan las autoridades ambientales, a fin de que se cumpla con las normas oficiales mexicanas correspondientes.
+
+La omisión de la verificación o el incumplimiento de las medidas que se establezcan para el control de emisiones serán sancionados en los términos previstos en esta Ley y en otras disposiciones jurídicas aplicables.
+
+Las autoridades municipales aplicarán las disposiciones establecidas en este artículo.
+
+Para incentivar el cumplimiento de la presente disposición por parte de los ciudadanos, las autoridades municipales procurarán establecer sus programas de verificación vehicular, alineadas a las disposiciones que para tal efecto emita el Estado en su ámbito de competencia.
+
+###### Artículo 141.
+
+En relación con las emisiones de contaminantes de vehículos automotores, excepto los destinados al transporte público federal, corresponderá:
+
+I. A la Secretaría:
+
+a) Prevenir y controlar la contaminación atmosférica generada por los vehículos automotores destinados al servicio público estatal de transporte;
+
+b) Establecer y operar o, en su caso, autorizar el establecimiento y operación de centros de verificación para los vehículos automotores señalados en este inciso, con arreglo a las normas oficiales mexicanas, así como integrar un registro de los centros de verificación autorizados;
+
+c) Determinar, de acuerdo con lo dispuesto en las leyes aplicables, las tarifas para los servicios de verificación vehicular obligatoria a que se refiere esta sección;
+
+d) Expedir a través de los centros (sic) verificación autorizados, las constancias a los vehículos que sean sometido a la verificación obligatoria;
+
+e) Supervisar la operación de los centros de verificación vehicular que autorice;
+
+f) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes en los centros de verificación que opere o autorice, y;
+
+g) Las demás previstas en esta Ley y en los reglamentos respectivos;
+
+II. A la Procuraduría:
+
+a) Realizar actos de inspección y vigilancia a los centros de verificación, para verificar la debida observancia de las disposiciones de esta Sección y las reglamentarias;
+
+b) Imponer las sanciones administrativas que correspondan por el incumplimiento de las disposiciones mencionadas en la fracción anterior, y;
+
+III. A los Ayuntamientos, dentro de sus circunscripciones territoriales:
+
+a) Aplicar las disposiciones jurídicas en materia de prevención y control de las emisiones de contaminantes a la atmósfera provenientes de vehículos automotores que no sean considerados de jurisdicción federal o estatal, con la participación que de acuerdo con esta Ley corresponda al Estado;
+
+b) Establecer programas de verificación vehicular obligatoria, en coordinación con el Gobierno del Estado;
+
+c) Establecer y operar o, en su caso, autorizar el establecimiento y operación de centros de verificación para los vehículos automotores señalados en este inciso, con arreglo a las normas oficiales mexicanas, así como integrar un registro de dichos centros de verificación;
+
+d) Determinar, en los términos de las disposiciones jurídicas aplicables, las tarifas para los servicios de verificación vehicular obligatoria en los centros autorizados;
+
+e) Expedir, en los centros que operen, constancias respecto de los vehículos que se hubieren sometido a la verificación vehicular;
+
+f) Supervisar la operación de los centros de verificación vehicular obligatoria que autoricen;
+
+g) Integrar y mantener actualizado un informe de los resultados obtenidos de la medición de las emisiones contaminantes realizadas en los centros de verificación que operen o autoricen;
+
+h) Limitar y, en su caso, suspender la circulación de vehículos a fin de reducir los niveles de concentración de contaminantes en la atmósfera cuando éstos excedan los límites máximos permisibles establecidos en las normas oficiales mexicanas aplicables;
+
+i) Retirar de la circulación a los vehículos automotores cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas oficiales mexicanas, o aquellos vehículos automotores que se encuentren sujetos a las medidas señaladas en la fracción anterior;
+
+j) Aplicar las medidas que establece esta Ley y sus reglamentos para prevenir y controlar las contingencias ambientales y emergencias ecológicas, cuando se hayan producido los supuestos previstos en las normas oficiales mexicanas;
+
+k) Inspeccionar y vigilar la debida observancia de las disposiciones de esta Sección y de los reglamentos respectivos;
+
+l) Imponer las sanciones administrativas que correspondan por el incumplimiento a las disposiciones señaladas en la fracción anterior, y;
+
+m) Las demás que se prevean en esta Ley y en los reglamentos respectivos.
+
+#### SECCIÓN IV. DE LA AUTORIZACIÓN Y OPERACIÓN DE LOS CENTROS DE VERIFICACIÓN
+
+###### Artículo 142.
+
+La Secretaría y los ayuntamientos, atendiendo a las necesidades de los servicios de verificación de fuentes móviles, en el ámbito de sus respectivas competencias, convocarán públicamente a los interesados para que presenten ante ellos las solicitudes para obtener la autorización para establecer y operar centros de verificación.
+
+En las convocatorias que se expidan se precisarán las instalaciones y el equipo necesarios para operar los centros de verificación conforme al programa de que se trate, así como el número y el área de ubicación de los centros a autorizar.
+
+###### Artículo 143.
+
+La solicitud a que se refiere el artículo anterior, deberá contener:
+
+I. El nombre, la denominación o razón social y el domicilio del solicitante;
+
+II. Los documentos que acrediten la capacidad técnica y económica para realizar adecuadamente la verificación vehicular;
+
+III. La ubicación y superficie del terreno destinado a realizar el servicio, sin que se provoquen problemas de vialidad;
+
+IV. Las especificaciones de infraestructura y equipo para realizar la verificación de que se trate;
+
+V. La descripción del procedimiento de verificación que sea congruente con los establecidos por las autoridades competentes, y;
+
+VI. Las demás que establezca el Reglamento en la materia y la convocatoria.
+
+###### Artículo 144.
+
+La Secretaría y los ayuntamientos tramitarán y resolverán la solicitud presentada en un plazo no mayor de veinte días hábiles posteriores a aquél en que la hubieren recibido, y de acuerdo con lo dispuesto en el reglamento respectivo de la presente ley.
+
+En la autorización para operar un centro de verificación se establecerá el tiempo de su vigencia, misma que podrá ser prorrogada previa solicitud de los interesados siempre que la autoridad ambiental compruebe el correcto funcionamiento del centro que se trate y no se tenga antecedente de mal servicio.
+
+###### Artículo 145.
+
+Las autorizaciones para el establecimiento y operación de centros de verificación vehicular se suspenderán cuando los prestadores del servicio dejen de contar con la capacidad o las condiciones técnicas necesarias para su adecuada prestación.
+
+La Secretaría y los ayuntamientos establecerán un plazo para subsanar las deficiencias que motivaron la suspensión.
+
+###### Artículo 146.
+
+Las autorizaciones para el establecimiento y operación de centros de verificación vehicular se revocarán cuando:
+
+I. Las verificaciones se realicen sin observar las normas oficiales mexicanas aplicables o los términos de la autorización otorgada;
+
+II. Se alteren en forma dolosa o negligente los procedimientos de verificación o las tarifas autorizadas para el servicio;
+
+III. Se omita subsanar, dentro del plazo fijado para el efecto por la autoridad ambiental, las deficiencias que dieron motivo a la suspensión de la autorización;
+
+IV. Se hubiere determinado por dos ocasiones la suspensión de la autorización correspondiente, y;
+
+V. Las demás establecidas en el Reglamento en la materia y normas técnicas ambientales.
+
+### CAPÍTULO VIII. DE LA PREVENCIÓN Y CONTROL DE EMERGENCIAS ECOLÓGICAS Y CONTINGENCIAS AMBIENTALES
+
+###### Artículo 147.
+
+La certificación o constatación de los niveles de emisión de contaminantes en los centros de verificación se realizará de acuerdo con las normas oficiales mexicanas aplicables.
+
+###### Artículo 148.
+
+Los titulares de los centros de verificación vehicular están obligados a:
+
+I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, las normas oficiales mexicanas, normas ambientales que establezca la Secretaría, el Reglamento correspondiente de la presente Ley, el programa de verificación vigente, autorización y circulares correspondientes y demás normativa aplicable;
+
+II. Que el personal del centro de verificación vehicular esté debidamente capacitado y acreditado por la Secretaría;
+
+III. Mantener sus instalaciones y equipos calibrados en las condiciones requeridas por la normativa vigente, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular;
+
+IV. Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, o realizar actividades comerciales o de servicios sin autorización de la Secretaría;
+
+V. Abstenerse de recibir documentación reportada como robada, falsificada o notoriamente alterada como soporte de las verificaciones vehiculares;
+
+VI. Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos en los términos fijados por ésta;
+
+VII. Dar aviso inmediato a la Secretaría cuando dejen de prestar el servicio de verificación vehicular o los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto se acredite que los mismos funcionen correctamente;
+
+VIII. Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
+
+IX. Dar aviso inmediato a la Secretaría y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+
+X. Enviar a la Secretaría, en los términos establecidos por ésta, la documentación e información requerida para la supervisión y control de la verificación;
+
+XI. Mantener durante las horas de funcionamiento a un representante legal y recibir las verificaciones administrativas que ordene la Secretaría en cualquier momento;
+
+XII. Que sus establecimientos cuenten con los elementos distintivos determinados por la Secretaría;
+
+XIII. Cobrar las tarifas autorizadas por la Secretaría por la prestación del servicio de verificación vehicular;
+
+XIV. Mantener en vigor la fianza correspondiente durante la vigencia de la autorización para prestar el servicio de verificación vehicular;
+
+XV. Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada por la Secretaría; de lo contrario, abstenerse de proporcionar el servicio;
+
+XVI. Abstenerse de ceder los derechos amparados por la autorización otorgada a su favor, y;
+
+XVII. Las demás que se establezcan en el Reglamento correspondiente de la presente Ley.
+
+Cuando los centros de verificación vehicular incumplan con alguna de las normas establecidas en la presente Ley, la Secretaría dará aviso a la Procuraduría para que inicie el procedimiento administrativo con base en la documentación e información que proporcionen o con la que disponga la Secretaría.
+
+###### Artículo 149.
+
+Para la prevención y control de la contaminación del agua de jurisdicción estatal se considerarán los criterios establecidos en la Ley General, mismos que se tomarán en cuenta en:
+
+I. El establecimiento de criterios sanitarios para el uso, tratamiento y disposición de aguas residuales o de condiciones particulares de descarga, para evitar riesgos y daños a la salud pública;
+
+II. La determinación de tarifas de consumo de agua potable y alcantarillado;
+
+III. El diseño y operación de sistemas de agua potable, alcantarillado y tratamiento de aguas residuales;
+
+IV. El otorgamiento y confirmación de derechos y permisos provisionales para el uso y aprovechamiento de aguas de jurisdicción estatal;
+
+V. Los programas estatales o municipales de ordenamiento territorial y de desarrollo urbano o de ordenamiento ecológico, y;
+
+VI. Los programas de aprovechamiento y protección de los recursos hidráulicos.
+
+###### Artículo 150.
+
+Corresponderá al Estado y a los ayuntamientos, por sí o a través de sus organismos operadores o prestadores de servicios, en el ámbito de sus respectivas competencias y en los términos de los convenios que en su caso se celebren:
+
+I. El control de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado;
+
+II. La vigilancia de las normas oficiales mexicanas en materia de aprovechamiento, reúso y descarga de aguas que no sean de jurisdicción federal;
+
+III. Requerir, en los casos que proceda, la instalación de sistemas de tratamiento de aguas a quienes generen descargas a los sistemas de drenaje y alcantarillado;
+
+IV. Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren;
+
+V. Vigilar el cumplimiento de las disposiciones contenidas en la Ley de Agua Potable y Alcantarillado para el Estado de Oaxaca;
+
+VI. Promover y regular el uso de tecnologías apropiadas para el reúso en la industria y en la agricultura de aguas residuales tratadas derivadas de aguas federales asignadas o concesionadas para la prestación de servicios públicos, así como las que provengan de los sistemas de drenaje domiciliarias siempre y cuando cumplan con las Normas Oficiales Mexicanas, y;
+
+VII. Las demás que se establezcan en el reglamento respectivo y en las demás disposiciones aplicables.
+
+###### Artículo 151.
+
+Para evitar la contaminación del agua, el Estado y los Municipios a través de los organismos operadores o los prestadores de servicios correspondientes deberán:
+
+I. Impedir que las descargas de origen municipal se mezclen con otras;
+
+II. Impedir las descargas de desechos, sustancias o residuos generados en las actividades productivas que viertan en los sistemas de drenaje y alcantarillado;
+
+III. Impedir el vertimiento de residuos sólidos, materiales no peligrosos y lodos provenientes del tratamiento de aguas residuales, en los sistemas de drenaje y alcantarillado, en cuerpos y corrientes de agua;
+
+IV. Impedir las descargas de origen industrial y actividades agropecuarias que viertan al alcantarillado, y;
+
+V. Aplicar las normas oficiales mexicanas en la disposición final de los lodos generados en los sistemas de tratamiento de aguas a su cargo.
+
+###### Artículo 152.
+
+Para promover y consolidar el uso racional y eficiente del agua, corresponderá a los organismos operadores o a los prestadores de servicios correspondientes:
+
+I. Promover el riego de áreas verdes públicas o privadas, con aguas residuales tratadas, siempre que éstas cumplan con la calidad establecida por las normas oficiales mexicanas;
+
+II. Impulsar la reutilización de las aguas grises en las nuevas edificaciones;
+
+III. Fomentar, en los usos productivos que lo permitan, la sustitución de agua potable por agua residual tratada;
+
+IV. Promover el empleo de productos ahorradores de agua;
+
+V. Promover el establecimiento de tarifas preferenciales para los usuarios que practiquen un uso racional del agua, con el propósito de fomentar la participación de la ciudadanía en estas prácticas;
+
+VI. Establecer programas para garantizar el rendimiento y eficiencia de las redes de distribución de agua potable;
+
+VII. Garantizar que el desarrollo de las nuevas redes de distribución se realice con criterios de calidad tanto en los materiales a utilizar, como en su instalación, y;
+
+VIII. Promover la creación de una cultura de cuidado y uso racional del agua en el Estado.
+
+###### Artículo 153.
+
+Las descargas de aguas residuales en cuerpos de agua de jurisdicción estatal o en los sistemas de drenaje y alcantarillado de los centros de población deberán cumplir con las normas oficiales mexicanas y las condiciones particulares de descarga que en su caso fije la autoridad competente en los términos de la ley de la materia.
+
+Los responsables de las descargas de aguas residuales deberán tratar dichas aguas antes de verterlas en los cuerpos de aguas de jurisdicción estatal o en los sistemas de drenaje y alcantarillado para ajustar su calidad a la dispuesta en las normas oficiales mexicanas y, en su caso, a las condiciones particulares de descarga. Estas descargas deberán registrarse ante el organismo operador o prestador de servicios correspondiente.
+
+Las aguas residuales domésticas quedan exceptuadas de lo dispuesto en los dos párrafos anteriores.
+
+###### Artículo 154.
+
+Las aguas residuales provenientes de usos domésticos, comerciales y de servicios públicos o privados, las industriales y las agropecuarias que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población o en cualquier cuerpo de agua de jurisdicción estatal deberán reunir las condiciones necesarias para prevenir:
+
+I. La contaminación de los cuerpos receptores;
+
+II. La interferencia en los procesos de depuración de las aguas, y;
+
+III. Los trastornos, impedimentos o alteraciones en los aprovechamientos de las aguas y de los sistemas de drenaje y alcantarillado de los centros de población.
+
+###### Artículo 155.
+
+Los responsables de las descargas de aguas residuales podrán solicitar al organismo operador o al prestador de servicios correspondiente que tomen a su cargo el tratamiento de dichas aguas, previo el pago de las cuotas que se fijen en las disposiciones aplicables.
+
+### CAPÍTULO I. DE LOS CONSEJOS CONSULTIVOS ESTATAL PARA EL DESARROLLO SUSTENTABLE Y MUNICIPALES DE ECOLOGÍA
+
+### CAPÍTULO II. DERECHO A LA INFORMACIÓN AMBIENTAL
+
+###### Artículo 156.
+
+Las autoridades competentes para otorgar asignaciones, autorizaciones, concesiones o permisos para la explotación, uso o aprovechamiento de aguas de jurisdicción estatal en actividades económicas susceptibles de contaminar dicho recurso, establecerán como condición para su expedición el tratamiento necesario de las aguas residuales que se produzcan o descarguen.
+
+###### Artículo 157.
+
+El Estado, con la participación de la autoridad en materia de Salud, de los ayuntamientos y, en su caso, de los organismos operadores o prestador de servicios correspondientes, podrá realizar un monitoreo sistemático y permanente de la calidad de las aguas de jurisdicción estatal, para detectar la presencia de contaminantes y determinar las medidas que procedan y, en su caso, promover su ejecución.
+
+Para efectos de lo anterior, el Estado podrá celebrar con las autoridades federales competentes los acuerdos de coordinación que correspondan, a efecto de recibir el apoyo o asistencia técnica que requiera.
+
+###### Artículo 158.
+
+Las dependencias de la Administración Pública Estatal, del Poder Legislativo Estatal y del Poder Judicial del Estado, instalarán en los inmuebles a su cargo un sistema de captación de agua pluvial, debiendo atender los requerimientos de la zona geográfica en que se encuentren y la posibilidad física, técnica y financiera que resulte conveniente para cada caso. Esta se utilizará en los baños, las labores de limpieza de pisos y ventanas, el riego de jardines y flora ornamental.
+
+La instalación del sistema de captación de agua pluvial en aquellos inmuebles a cargo de las dependencias de la Administración Pública Estatal, Poder Legislativo Estatal y el Poder Judicial del Estado, declarados monumentos artísticos e históricos en términos de la legislación aplicable, se llevará a cabo bajo la rigurosa supervisión de expertos de las dependencias correspondientes, con el objeto de evitar afectaciones a dichos inmuebles.
+
+###### Artículo 159.
+
+Corresponderá a la Procuraduría y a las autoridades municipales, la vigilancia del cumplimiento de las condiciones particulares de descarga y las Normas Oficiales Mexicanas de las aguas residuales provenientes de las plantas de tratamiento que descarguen a los sistemas de drenaje y alcantarillado de jurisdicción estatal o municipal.
+
+###### Artículo 160.
+
+Las aguas residuales provenientes de los sistemas de drenaje y alcantarillado urbano, podrán utilizarse en la industria y en la agricultura, si se someten en los casos que se requiera, al tratamiento que cumpla con las Normas Oficiales Mexicanas emitidas por la autoridad competente en materia ambiental y de Salud.
+
+En los aprovechamientos existentes de aguas residuales en la agricultura, se promoverán acciones para mejorar la calidad del recurso, la reglamentación de los cultivos y las prácticas de riego.
 
 ## TÍTULO OCTAVO. DE LOS GRUPOS PARLAMENTARIOS
 
-### CAPÍTULO ÚNICO. DE LA AGENDA LEGISLATIVA COMÚN
+### CAPÍTULO III. DEL FONDO AMBIENTAL ESTATAL
 
-###### ARTÍCULO 220.
+###### Artículo 220.
 
-(DEROGADO, P.O. 28 DE MARZO DE 2023)
+El Estado creará el Fondo Ambiental Estatal, cuyos recursos se destinarán a:
 
-###### ARTÍCULO 221.
+I. La realización de acciones, proyectos y medidas de protección, preservación, inspección, vigilancia y restauración del medio ambiente;
 
-(DEROGADO, P.O. 28 DE MARZO DE 2023)
+II. El manejo y la administración de las áreas naturales protegidas;
 
-###### ARTÍCULO 222.
+III. El desarrollo de programas de planeación ecológica, educación e investigación en materia ambiental, así como para el fomento y difusión de experiencias y prácticas para la protección, preservación y aprovechamiento de los recursos naturales y el ambiente;
 
-(DEROGADO, P.O. 28 DE MARZO DE 2023)
+IV. La promoción de la educación, investigación y cultura ambiental en el Estado; y;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+V. Las demás que señalen las disposiciones ambientales.
 
-###### ARTÍCULO 161.
+###### Artículo 221.
 
-Los Grupos Parlamentarios son las formas de organización que podrán adoptar los diputados para realizar tareas específicas en el Congreso del Estado, coadyuvar al mejor desarrollo del proceso legislativo, expresar las corrientes políticas y de opinión presentes en el Congreso del Estado y facilitar la participación de los diputados en las tareas y atribuciones legislativas.
+Los recursos del Fondo se integrarán con:
 
-###### ARTÍCULO 162.
+I. Las aportaciones que efectúen los gobiernos federal, estatal y municipal;
 
-Los diputados electos bajo el emblema de un mismo partido político podrán constituir sólo un Grupo Parlamentario, requiriéndose dos o más diputados para su integración. En caso de que por un partido político solo haya sido electo un diputado, éste tendrá el carácter de Representación Parlamentaria. Los diputados que dejen de pertenecer a un Grupo Parlamentario tendrán individualmente los mismos derechos, categoría y demás prerrogativas que el resto de los legisladores miembros del Congreso del Estado, con excepción de los derechos y prerrogativas que les corresponden a los Grupos Parlamentarios y representaciones parlamentarias, en los términos de lo dispuesto por el artículo 165 de la presente ley.
+II. Los ingresos que obtenga la Procuraduría por concepto de multas por infracciones a lo dispuesto por la presente Ley y las demás disposiciones aplicables;
 
-###### ARTÍCULO 163.
+III. Las indemnizaciones que como consecuencia del ejercicio de la acción por daños al ambiente decreten las autoridades jurisdiccionales en las sentencias respectivas;
 
-Los Grupos Parlamentarios se tendrán por constituidos cuando el Presidente de la Mesa Directiva dé a conocer al pleno del Congreso del Estado la decisión de sus miembros de integrar un Grupo Parlamentario, con especificación del nombre del grupo y la lista de sus integrantes, firmas autógrafas de éstos, así como el nombre del diputado coordinador del grupo y, desde ese momento, ejercerán las facultades, prerrogativas, atribuciones y obligaciones previstas en la presente ley.
+IV. Los ingresos que se perciban por concepto del pago de derechos por el otorgamiento de autorizaciones, permisos, licencias y demás actos similares expedidos por la Secretaría;
 
-Asimismo, junto con el acta constitutiva, deberá anexarse el proyecto de agenda legislativa del Grupo Parlamentario para la integración de la agenda legislativa común del Congreso del Estado.
+V. Las herencias, legados y donaciones que reciba de personas físicas o morales nacionales e internacionales, y;
 
-###### ARTÍCULO 164.
+VI. Los demás recursos que obtenga por cualquier otro título o concepto.
 
-El funcionamiento, actividades y los procedimientos para la designación de los coordinadores de los Grupos Parlamentarios, serán regulados por las normas estatutarias de sus respectivos partidos y los lineamientos internos de los respectivos grupos, en el marco de las disposiciones de esta ley.
+###### Artículo 222.
 
-###### ARTÍCULO 165.
+La Secretaría, en coordinación con la Procuraduría, será responsable del manejo de los recursos del Fondo Ambiental Estatal, cuyo funcionamiento se realizará conforme a los lineamientos que se establezcan en el reglamento que para el efecto expida el Gobernador del Estado.
 
-Con independencia de los apoyos recibidos directamente por los diputados para el desempeño de sus funciones, los Grupos Parlamentarios y las Representaciones Parlamentarias dispondrán de locales adecuados en el recinto oficial del Congreso del Estado y contarán con presupuesto para asesores, personal y elementos necesarios para el cumplimiento de sus funciones, cuyas prerrogativas deberán contemplarse en el presupuesto de egresos del Congreso del Estado.
+###### Artículo 161.
 
-###### ARTÍCULO 166.
+Para la prevención y control de la contaminación del suelo, se considerarán los siguientes criterios:
 
-La asignación de elementos, recursos y dotación de equipamiento o infraestructura a los Grupos Parlamentarios, será otorgada de acuerdo a la representación numérica del grupo y bajo principios de equidad y proporcionalidad, mismos que establecerá la Comisión de Régimen Interno y Concertación Política.
+I. Corresponde al Estado, a los ayuntamientos y a la sociedad prevenir la contaminación del suelo;
 
-###### ARTÍCULO 167.
+II. Los residuos deben ser controlados en tanto que constituyen la principal fuente de contaminación de los suelos;
 
-Los recursos presupuestales serán ministrados a los Grupos Parlamentarios conforme al procedimiento y calendario aprobado por la Comisión de Régimen Interno y Concertación Política y que se aprueben en el presupuesto de egresos del Congreso del Estado.
+III. El uso del suelo debe ser compatible con su vocación natural y no debe alterar el equilibrio de los ecosistemas;
 
-###### ARTÍCULO 168.
+IV. El uso de los suelos debe hacerse de manera que éstos mantengan su integridad física y su capacidad productiva;
 
-Los Grupos Parlamentarios están obligados a destinar los recursos que se les otorguen exclusivamente para el cumplimiento de sus funciones propias, debiendo informar semestralmente al Congreso del Estado el uso y destino de éstos, su aplicación y correcto manejo; así como justificar documentalmente su aplicación de acuerdo al objeto de su asignación. Los Grupos Parlamentarios deberán exhibir la documentación soporte o justificativa con el informe correspondiente, el cual para su aceptación y validez deberá ir firmado por la mayoría de los miembros integrantes del grupo.
+V. Los usos productivos del suelo deben evitar prácticas que favorezcan la erosión, degradación, desertificación o modificación de las características topográficas con efectos ecológicos adversos;
 
-###### ARTÍCULO 169.
+VI. En las zonas de pendientes pronunciadas en las que se presenten fenómenos de erosión o de degradación del suelo, se deben introducir cultivos y tecnologías que permitan revertir el fenómeno;
 
-La falta del informe correspondiente dará lugar a la suspensión de la entrega de las ministraciones siguientes, hasta en tanto no se subsane la omisión.
+VII. La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos deben incluir acciones equivalentes de regeneración;
+
+VIII. La utilización de plaguicidas, fertilizantes y sustancias tóxicas debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana, a fin de prevenir los daños que pudieran ocasionar, y;
+
+IX. En los suelos contaminados por la presencia de materiales o residuos deberán realizarse las acciones para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizados en las actividades previstas por los programas de ordenamiento territorial y de desarrollo urbano o de ordenamiento ecológico que resulten aplicables.
+
+###### Artículo 162.
+
+Los criterios para prevenir y controlar la contaminación del suelo se considerarán en:
+
+I. La ordenación y regulación del desarrollo urbano;
+
+II. La operación de los sistemas de limpia y de disposición final de residuos sólidos urbanos en rellenos sanitarios, incorporar técnicas y procedimientos para su reúso y reciclaje, así como regular su manejo y disposición final eficientes;
+
+III. La generación, manejo y disposición final de residuos sólidos urbanos y de manejo especial, así como en las autorizaciones y permisos que al efecto se otorguen;
+
+IV. El otorgamiento de todo tipo de autorizaciones para la fabricación, importación, utilización y en general la realización de actividades relacionadas con plaguicidas, fertilizantes y sustancias tóxicas;
+
+V. Los requisitos para el otorgamiento de apoyos a las actividades agrícolas, para que se promueva la progresiva incorporación de cultivos compatibles con la preservación del equilibrio ecológico y la restauración de los ecosistemas, y;
+
+VI. Las actividades de extracción de materias del subsuelo; la exploración, explotación, beneficio y aprovechamiento de las sustancias minerales; las excavaciones y las acciones que alteren la cubierta y suelos forestales.
+
+###### Artículo 163.
+
+Los residuos sólidos urbanos o de manejo especial que se acumulen o puedan acumularse y se depositen o infiltren en los suelos deberán reunir las condiciones necesarias para prevenir o evitar:
+
+I. La contaminación del suelo;
+
+II. Las alteraciones nocivas en el proceso biológico de los suelos;
+
+III. Las alteraciones nocivas en el proceso biológico del suelo;
+
+IV. Las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación, y;
+
+V. Los riesgos y problemas de salud.
+
+###### Artículo 164.
+
+Toda descarga, depósito o infiltración de sustancias, materiales o residuos contaminantes en los suelos, se sujetará a lo que disponga la Ley General, la Ley General para la Prevención y Gestión Integral de los Residuos, sus disposiciones reglamentarias y las normas oficiales mexicanas respectivas.
+
+###### Artículo 165.
+
+Para la prevención, restauración y control de la contaminación del suelo, las autoridades Estatales y municipales deberán regular y vigilar:
+
+I. La racionalización de la generación de residuos sólidos en los centros de población;
+
+II. A los generadores tales como prestadores de servicios de salud, hospitales, industriales, hoteleros y agricultores sobre la recolección, tratamiento, reúso o bien disposición final de desechos sólidos no peligrosos;
+
+III. El registro de transportistas, permisionarios, centros de acopio, con el manejo de residuos sólidos municipales, domésticos, industriales no peligrosos, agropecuarios, hospitalarios y hoteleros, que se integrará al Sistema Estatal de Información Ambiental y Recursos Naturales;
+
+IV. La separación de los residuos sólidos para facilitar su reúso y/o reciclaje;
+
+V. Los sistemas de manejo y disposición final de residuos sólidos en los centros de población;
+
+VI. La fabricación de empaques y envases para todo tipo de producto, cuyos materiales permitan reducir la generación de residuos sólidos, y;
+
+VII. Los cambios de uso del suelo.
+
+###### Artículo 166.
+
+Quienes resulten responsables de la contaminación de un sitio, así como de daños a la salud como consecuencia de ésta, además de las sanciones a que sean sujetos, estarán obligados a reparar el daño causado conforme a las disposiciones legales correspondientes.
+
+###### Artículo 167.
+
+Los propietarios o poseedores de predios y los titulares de áreas concesionadas cuyos suelos se encuentren contaminados serán responsables solidarios de llevar a cabo las acciones de remediación que resulten necesarias, sin perjuicio del derecho a repetir en contra del causante de la contaminación.
+
+###### Artículo 168.
+
+Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las prácticas de conservación y recuperación necesarias para evitar el deterioro de los suelos y del equilibrio ecológico.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 169.
+
+La Secretaría promoverá directamente o en coordinación con las dependencias federales y estatales competentes que los productores y agrupaciones agrícolas inhiban el uso de plaguicidas y/o pesticidas de cualquier fórmula química que dañe el medio ambiente y la salud; prohibidas por la Comisión Federal Para la Protección contra Riesgos Sanitarios, asimismo queda prohibido que dentro de las políticas públicas o programas sociales la Secretaría entregue agroquímicos que dañen el medio ambiente, de los cuales no se haya comprobado su seguridad y eficacia con riesgos ambientales.
 
 ## TÍTULO NOVENO. DE LA AGENDA LEGISLATIVA COMÚN
 
-### CAPÍTULO ÚNICO. EVALUACIÓN DEL DESEMPEÑO LEGISLATIVO
+### CAPÍTULO ÚNICO. DE LA FACULTAD REGLAMENTARIA
 
-###### ARTÍCULO 223.
+###### Artículo 223.
 
-Se impondrá de seis meses a cinco años de prisión y multa de diez a cuarenta días:
+Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y de comisión de delitos, sus sanciones, procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal regulados por esta Ley, salvo que otras leyes regulen en forma específica dichas cuestiones, en relación con las materias de que trata este propio ordenamiento.
 
-I. Al que elabore, comercie, falsifique o adultere sustancias, productos químicos, comestibles, bebidas o medicamentos que puedan causar estragos a la salud o disminuyan su poder alimenticio o curativo;
+###### Artículo 224.
 
-II. A los que al despachar una fórmula médica la alteren o substituyan una medicina por otra que afecte la identidad, grado de pureza o buen estado de las substancias que se expendan, o varíen la dosis prescrita;
+El Ejecutivo del Estado, la Secretaría, la Procuraduría y los ayuntamientos expedirán en el ámbito de sus respectivas competencias, los reglamentos, decretos, acuerdos, las circulares y las demás disposiciones de observancia general que resulten necesarias para proveer, en la esfera administrativa, la observancia de este ordenamiento, mismos que deberán publicarse en el Periódico Oficial del Gobierno del Estado, o en su caso, en la Gaceta Municipal correspondiente.
 
-III. Al que oculte, sustraiga, venda o compre alimentos, bebidas o sustancias mandadas destruir como nocivas, por la autoridad competente, y
+La presente Ley constituye la base normativa para la expedición por parte de los ayuntamientos, de las disposiciones jurídicas señaladas en este artículo, las cuales serán de observancia general dentro de sus respectivas jurisdicciones, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
-IV. Al que envenene o infeccione comestibles, bebidas, cosas para venderlas al público o usare sustancias venenosas o nocivas para teñir, colorear, pintar, envolver o envasar los citados artículos, así como al que envenene o infeccione las aguas de un manantial, de un estanque, fuente o cualquier otro depósito de agua, destinada a ingerirla, sean públicos o privados.
+###### Artículo 225.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Los procedimientos administrativos que se promuevan ante la Secretaría, se sustanciarán y resolverán con arreglo al procedimiento que señala esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto por la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca y el Código de Procedimientos Civiles para el Estado de Oaxaca, además de las Leyes Federales de Procedimiento Administrativo y sobre Metrología y Normalización.
 
-###### ARTÍCULO 224.
+Tratándose de materias referidas en esta Ley que se encuentran reguladas por leyes especiales, el presente ordenamiento será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
 
-Se impondrá prisión de uno a seis años y multa de uno a diez días, al que utilice medios directos y eficaces de propagación de una enfermedad.
+###### Artículo 226.
 
-Si el infractor fuere médico, biólogo o farmacéutico, o se dedicare a la venta de medicamentos, la sanción será de dos a doce años de prisión y multa de cinco a treinta días, sin perjuicio de las sanciones que correspondan por la responsabilidad médica o técnica si se realiza el daño.
+El Gobierno Estatal y los Municipales propondrán al Ejecutivo Federal la celebración de acuerdos de coordinación para realizar actos de inspección y vigilancia para la verificación del cumplimiento de asuntos de orden federal en materia del equilibrio ecológico y la protección al ambiente.
 
-###### ARTÍCULO 225.
+###### Artículo 170.
 
-Los productos falsificados o adulterados con sustancias nocivas y los aparatos y demás objetos que se emplearen en la comisión de los delitos a que se refiere este título, serán decomisados en todo caso y se pondrán a disposición de las autoridades sanitarias del Estado, quienes procederán a su destrucción o aprovechamiento lícito.
+El Gobernador del Estado, a propuesta de la Secretaría y previa opinión de las Secretarías de Salud; de las Infraestructuras y Ordenamiento Territorial Sustentable; de Desarrollo Agropecuario, Pesca y Acuacultura; y de Economía, así como a la Coordinación Estatal de Protección Civil, determinará y publicará en el Periódico Oficial del Gobierno del Estado los criterios para considerar una actividad no altamente riesgosa.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+###### Artículo 171.
 
-###### ARTÍCULO 226.
+La realización de actividades industriales, comerciales o de servicios que no sean consideradas altamente riesgosas, se llevarán a cabo con apego a lo dispuesto por esta Ley, las disposiciones reglamentarias que de ella emanen y las normas estatales que al efecto se expidan.
 
-Al que con un fin de lucro cause molestias a las personas por la intensidad del volumen de cualquier aparato de sonido, se le impondrá de tres meses a dos años de prisión y multa de uno a cinco días, sin perjuicio del decomiso del aparato de sonido a juicio de la autoridad judicial.
-
-###### ARTÍCULO 170.
-
-La Agenda Legislativa Común del Poder Legislativo será acordada dentro de los treinta días hábiles posteriores al inicio de cada legislatura y podrá actualizarse cada dos periodos ordinarios de sesiones, dentro de los treinta días hábiles posteriores al inicio del año de ejercicio.
-
-La Agenda Legislativa Común se elaborará sin perjuicio del derecho contenido en el artículo 53 de la Constitución Política del Estado y demás asuntos que se acuerden tratar por el pleno del Congreso del Estado.
-
-###### ARTÍCULO 171.
-
-La Agenda Legislativa Común priorizará los asuntos en los que exista coincidencia entre los proyectos de agenda legislativa presentados por los Grupos Parlamentarios, y deberá contener los siguientes elementos:
-
-I.- La descripción y justificación de los temas legislativos de mayor trascendencia para el desarrollo del Estado y el bienestar de su población;
-
-II.- El listado de las normas y, en su caso, disposiciones que serán objeto de reforma, adición o derogación para atender los temas a que se refiere la fracción anterior;
-
-III.- Los mecanismos de consulta ciudadana que, en su caso, se llevarán a cabo respecto de los temas, iniciativas y proyectos de la agenda; y
-
-IV.- El calendario para la discusión y, en su caso, aprobación de las iniciativas o proyectos de la agenda.
+Quienes realicen o pretendan realizar actividades que no sean consideradas altamente riesgosas deberán contar con la autorización correspondiente de la Secretaría, que deberán tramitar mediante un estudio de riesgo y en la modalidad que la Secretaría conforme al artículo 37 de esta Ley. Dichas actividades se llevarán a cabo observando las disposiciones de la presente ley, el reglamento respectivo, las normas oficiales mexicanas y las demás disposiciones aplicables.
 
 ## TÍTULO DÉCIMO. DE LA EVALUACIÓN DEL DESEMPEÑO Y LA TRANSPARENCIA LEGISLATIVA
 
-### CAPÍTULO ÚNICO. DEL CEREMONIAL
+### CAPÍTULO I. DEL ACTO DE INSPECCIÓN Y VIGILANCIA
 
-###### ARTÍCULO 227.
+###### Artículo 227.
 
-Las sanciones a que se refieren los cuatro artículos anteriores, se aplicarán cuando no se cause algún daño a la salud de las personas. Si se causare, se agregarán las sanciones correspondientes.
+La Secretaría y la autoridad municipal correspondiente, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
 
-Estas disposiciones sólo serán aplicables cuando no contravengan otras de carácter federal.
+###### Artículo 228.
 
-###### ARTÍCULO 228.
+Las autoridades competentes podrán realizar, por conducto del personal debidamente autorizado, visitas de inspección, sin perjuicio de otras medidas que puedan llevar a cabo para verificar el cumplimiento de este ordenamiento.
 
-Se aplicará de uno a tres años de prisión y multa de uno a cinco días:
+###### Artículo 229.
 
-I. Al que fabrique, reproduzca o publique libros, escritos, imágenes u objetos obscenos, y al que los exponga, distribuya o haga circular;
+Dicho personal, al realizar las visitas de inspección o verificación, deberá contar con el documento oficial que lo acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por autoridad competente en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
-II. Al que públicamente y por cualquier medio ejecute o haga ejecutar por otros, exhibiciones obscenas, y
+###### Artículo 230.
 
-III. Al que de modo escandaloso invite a otro al comercio carnal.
+El personal autorizado, al iniciar la inspección se identificará debidamente con la persona con quien se entienda la diligencia, exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
 
-###### ARTÍCULO 229.
+En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
 
-Si los delitos de que habla el artículo anterior fueren cometidos al amparo de una sociedad o con medios que ésta proporcione para tal fin a los delincuentes, a juicio del Juez se disolverá la empresa o se suspenderán sus actividades hasta por un año.
+En caso de no existir persona alguna que pudiera fungir como testigo en la diligencia, se hará constar también, esta situación en el acta respectiva, sin que esta circunstancia invalide la inspección.
 
-###### ARTÍCULO 230.
+###### Artículo 231.
 
-La corrupción de menores de dieciocho años de edad o incapaces consiste en la inducción, incitación o provocación que conduzca a:
+En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada las irregularidades que se hubiesen presentado durante la diligencia, que presumiblemente constituyan infracciones a la presente Ley.
 
-I. La práctica de la mendicidad, ebriedad, toxicomanía o prostitución;
+Concluida la inspección, la persona con la que se entendió la diligencia hará uso de la voz, para que en el mismo acto formule manifestaciones en relación con las irregularidades asentadas en el acta respectiva, pudiendo ofrecer las pruebas que considere convenientes desde ese momento o haga uso de ese derecho en el término de diez días siguientes a la fecha en que la diligencia se hubiere practicado.
 
-II. La realización de actos sexuales perversos o prematuros que alteren su normal desarrollo psicosexual;
+A continuación, se procederá a firmar el acta al margen y al calce por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado, con efectos de emplazamiento al procedimiento. Si la persona con quien se entendió la diligencia o los testigos, se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
 
-III. La celebración de actos de exhibicionismo corporal de carácter sexual, con el fin o no de reproducirlos en fotografía, audio o video, y
+###### Artículo 232.
 
-IV. La comisión de hechos delictuosos, y de asociación delictuosa.
+En las actas de inspección y vigilancia, se hará constar:
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+I. Nombre, denominación o razón social del visitado;
 
-Al responsable de la corrupción de menores de dieciocho años de edad o incapaces se le aplicará de cuatro a ocho años de prisión y multa de ochenta a doscientos días, así como el pago total de la reparación de los daños y perjuicios ocasionados.
+II. Hora, día, mes y año en que inicie y en que concluya la diligencia;
 
-También incurre en corrupción y se hará acreedor a las sanciones que establece el párrafo anterior, aquella persona que venda o suministre a menores de dieciocho años de edad o incapaces, material pornográfico o sustancias tóxicas, como solventes, alcoholes, medicamentos y cualquier otra sustancia que produzca efectos similares.
+III. Calle, número, población o colonia, municipio y código postal en que se encuentre ubicado el lugar en que se practique la visita; en caso de que el lugar no se pudiera precisar conforme a lo anterior, se deberá señalar en el acta la información que permita precisar la localización del lugar en que se practique la visita;
 
-No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competentes.
+IV. Número y fecha del oficio de comisión que la motivó;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+V. Nombre y en su caso, cargo de la persona con quien se entendió la diligencia;
 
-###### ARTÍCULO 231.
+VI. Nombre y domicilio de las personas que fungieron como testigos;
 
-Al que emplee a menores de dieciocho años de edad o incapaces en cantinas, tabernas o centros de vicio, se le sancionará con prisión de cuatro a ocho años, y multa de ochenta a doscientos días y cierre del establecimiento hasta por treinta días.
+VII. Datos relativos a la actuación;
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+VIII. Declaración del visitado bajo protesta de decir verdad, si quisiera hacerla;
 
-Asimismo, se sancionará con prisión de dos a cinco años, multa de sesenta a ciento veinte días y cierre del establecimiento hasta por treinta días al que permita el acceso a menores de dieciocho años de edad o incapaces a los lugares antes citados.
+IX. Mención de que se emplaza al visitado para ocurrir ante la autoridad competente, en defensa de sus intereses y a ofrecer pruebas, en los términos de la presente Ley, y;
 
-En ambos supuestos se procederá a la cancelación del permiso en caso de reincidencia.
+X. Nombre y firma de quienes intervinieron en la diligencia, incluyendo de quien la llevó a cabo.
 
-###### ARTÍCULO 232.
+###### Artículo 233.
 
-La punibilidad establecida para los dos artículos anteriores, se duplicará a juicio del juez cuando el que corrompa o emplee al menor de dieciocho años de edad o incapaz, sea ascendiente, padrastro, madrastra, tutor o habite en el mismo domicilio con la víctima aunque no exista parentesco alguno.
+La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 210 de la presente Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a la Ley.
 
-###### ARTÍCULO 233.
+###### Artículo 234.
 
-Comete el delito de prostitución de menores de 18 años de edad o Incapaces:
+La autoridad competente podrá hacer uso de las medidas de apremio que considere necesarias para llevar a cabo las inspecciones, solicitar el auxilio de la fuerza pública para efectuar la visita de inspección o verificación, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
-I. El que comprometa u ofrezca los servicios de un menor de 18 años de edad o incapaz para realizar actos sexuales a cambio de retribución económica, en especie o de cualquier otra índole, y
+###### Artículo 235.
 
-II. El que a cambio de retribución económica, en especie o de cualquier índole, tenga relaciones sexuales con persona menor de dieciocho años de edad o incapaz.
+Una vez levantada y recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, propietario o responsable del establecimiento inspeccionado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento, señalando el plazo que corresponda.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo tres días hábiles, presente por escrito los alegatos que considere pertinentes.
 
-Al que cometa este delito, se le impondrá de siete a doce años de prisión y multa de mil a dos mil días.
+###### Artículo 236.
 
-###### ARTÍCULO 234.
+Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los treinta días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
-Comete el delito de Lenocinio:
+###### Artículo 237.
 
-I. Toda persona, que sin autorización legal, habitual u ocasionalmente explote el cuerpo de una persona por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
+En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme al presente ordenamiento.
 
-II. El que induzca o solicite a una persona para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución, y
+Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo, para lo que se deberá dar a conocer esta obligación al interesado en el cuerpo de la resolución respectiva.
 
-III. El que encubra, concierte o permita el comercio carnal de un menor de edad.
+Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al artículo 240 de esta Ley, una multa adicional que no exceda de los límites máximos señalados en dicho precepto.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+En los casos en que el infractor realice las medidas correctivas de urgente aplicación o subsane las irregularidades detectadas, en los plazos determinados por la Secretaría, siempre y cuando el infractor no sea reincidente y no se trate de los supuestos previstos en el artículo 238 de esta Ley, ésta podrá revocar o modificar la sanción o sanciones impuestas.
 
-###### ARTÍCULO 235.
+En los casos en que proceda, la autoridad estatal hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
-El lenocinio se sancionará en el caso de la fracción I del artículo anterior, con prisión de uno a cinco años; en el caso de la fracción II, de uno a seis años y multa de uno a diez días, y en el caso de la fracción III, con prisión de dos a siete años y multa de tres a quince días.
+En la realización de los actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y sus sanciones, notificaciones, de los procedimientos y recursos administrativos, en todo lo no previsto en esta Ley se estará a lo que dispone la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+###### Artículo 172.
 
-###### ARTÍCULO 236.
+Quienes realicen actividades que no sean consideradas altamente riesgosas deberán elaborar y mantener permanentemente actualizados sus programas para la prevención de accidentes que puedan afectar al equilibrio ecológico o al ambiente, los cuales deberán presentarse en la Secretaría durante el mes de noviembre de cada año para que ésta, previo análisis de los mismos, apruebe o niegue su aplicación.
 
-Al que dé en arrendamiento una finca, teniendo conocimiento de que será destinada al lenocinio, se le aplicará prisión de seis meses a tres años y multa de diez a treinta días.
+En caso de negar la aplicación de los programas a que se refiere este artículo, la Secretaría indicará en su resolución las causas de la negativa y otorgará el plazo que considere conveniente para que el responsable de la actividad corrija dichas causas. Si transcurrido dicho plazo éstas no se corrigen, la Secretaría podrá ordenar la suspensión temporal, parcial o total, de la actividad hasta en tanto se cumpla con el requerimiento.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Para efectos de evitar la duplicidad de funciones y facilitar la tramitación a que se refiere este artículo, la Secretaría deberá coordinarse con las dependencias y entidades competentes para el análisis y aprobación correspondiente.
 
-###### ARTÍCULO 237.
+###### Artículo 173.
 
-Si el delincuente fuere ascendiente, tutor o curador, o tuviere cualquiera otra autoridad sobre la persona explotada, se le impondrá prisión de uno a ocho años y multa de quince a cuarenta y cinco días y será privado de todo derecho sobre los bienes de aquélla.
+En la determinación de los usos del suelo a cargo de las autoridades competentes en materia de desarrollo urbano se especificarán las zonas en las que se permita el establecimiento de industrias, comercios o servicios clasificados como riesgosos por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente.
 
-###### ARTÍCULO 172.
+Para tal fin se considerarán:
 
-El Congreso del Estado contará con un sistema de evaluación del trabajo legislativo que tendrá por objeto dar a conocer a la población el desempeño de la legislatura, contribuyendo en la detección de necesidades y áreas de oportunidad del Congreso del Estado, a fin de propiciar su transparencia y mejora continua.
+I. Las condiciones topográficas, geológicas, meteorológicas y climatológicas de las zonas, de manera que se facilite la rápida dispersión de contaminantes;
 
-###### ARTÍCULO 173.
+II. La proximidad a centros de población previendo las tendencias de expansión del respectivo asentamiento y la creación de nuevos asentamientos humanos;
 
-El sistema de evaluación deberá contener indicadores que permitan medir la productividad, la eficiencia, la eficacia, la transparencia y los resultados de la legislatura, y será aprobado por el pleno del Congreso del Estado dentro de los treinta días hábiles siguientes al inicio de cada legislatura, pudiendo actualizarse según las necesidades del Congreso del Estado.
+III. Los impactos que tendría un posible evento extraordinario de la industria, comercio o servicio de que se trate, sobre los centros de población y sobre los recursos naturales;
 
-###### ARTÍCULO 174.
+IV. La compatibilidad con otras actividades de la zona, y;
 
-Para garantizar la objetividad e imparcialidad de la determinación de indicadores y de la operación del sistema de evaluación, la Comisión de Régimen Interno y Concertación Política propondrá al pleno del Congreso del Estado, la integración de un Comité Ciudadano, con por lo menos cinco personas, que durará en funciones tres años.
+V. La infraestructura para la dotación de servicios básicos, así como la existente y la necesaria para la atención de emergencias ecológicas.
 
-###### ARTÍCULO 175.
+###### Artículo 174.
 
-El Comité Ciudadano se reunirá, cuando menos, cada tres meses en las instalaciones del Congreso del Estado.
+Para garantizar la seguridad de los vecinos de una industria que lleve a cabo actividades que no sean consideradas altamente riesgosas, el Estado podrá mediante declaratoria, establecer restricciones a los usos urbanos que pudieran ocasionar riesgos para la población y sea necesario establecer una zona intermedia de salvaguarda. La Secretaría promoverá que las autoridades municipales competentes establezcan en los Planes de Desarrollo Municipal o los programas de desarrollo urbano que en dichas zonas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
 
-El Comité Ciudadano evaluará anualmente al Congreso del Estado en los términos de los indicadores aprobados, debiendo informar al mismo de los resultados obtenidos.
+Los diferentes niveles de gobierno definirán las bases a fin de coordinar acciones respecto de las actividades contempladas en el presente capítulo.
+
+###### Artículo 175.
+
+Son fuentes emisoras de ruido de competencia estatal y municipal las siguientes:
+
+I. Las fuentes emisoras de competencia estatal, se consideran:
+
+a) Aquellas que se localicen en bienes del dominio público o privado del Estado, conforme a las disposiciones previstas en la Ley de Bienes Pertenecientes al Estado de Oaxaca;
+
+b) Las obras o actividades de tipo industrial que realicen el o los responsables de la fuente generadora del ruido;
+
+c) Los establecimientos industriales en general, excepto aquellos que estén reservados a la Federación;
+
+d) El parque vehicular de servicio oficial del Gobierno del Estado, y;
+
+e) Las señaladas en otras disposiciones legales aplicables.
+
+II. Fuentes emisoras de competencia municipal:
+
+a) Los establecimientos mercantiles o de servicios, dentro de la circunscripción territorial del municipio;
+
+b) El parque vehicular destinado al servicio público de carga o trasporte de personas; de particulares; oficiales y de emergencia municipales, y;
+
+c) En general, todas aquellas que no sean de competencia estatal o federal.
+
+La Secretaría, la Procuraduría y los municipios conforme al ámbito de su competencia, podrán coordinarse con la autoridad sanitaria, con la finalidad de verificar o sancionar las fuentes fijas y móviles señaladas en esta Ley, realizando los análisis, estudios, investigaciones y vigilancia necesarias con el objeto de localizar el origen o procedencia, naturaleza, grado, magnitud y frecuencia de las emisiones para determinar el daño producido a la salud.
 
 ## TÍTULO DÉCIMO PRIMERO. DEL CEREMONIAL
 
-### CAPÍTULO I. DE LA ORGANIZACIÓN INTERNA
+### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2015)</small>
+###### Artículo 238.
 
-###### ARTÍCULO 238.
+Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Secretaría, la Procuraduría en ejercicio de sus atribuciones de inspección y vigilancia, o los ayuntamientos, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas de seguridad:
 
-Al que provoque públicamente a cometer algún delito o haga la apología de éste o de algún vicio, se le aplicará prisión de uno a cinco años y multa de diez a cincuenta días. Si el delito no se ejecutare en caso contrario, se aplicará al provocador la sanción anterior, sin perjuicio de la que corresponda por su participación en el delito cometido.
+I. La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen especímenes, productos o subproductos de especies de flora o de fauna silvestre, recursos forestales, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el párrafo que encabeza este artículo;
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2021)</small>
+II. El aseguramiento precautorio de bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad;
 
-###### ARTÍCULO 239.
+III. La neutralización o cualquier acción análoga que impida que materiales o residuos peligrosos generen los efectos previstos en el párrafo que encabeza este artículo, o;
 
-Se aplicará prisión de tres meses a un año y multa de uno a cinco días, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de su empleo, cargo o de la confianza en él depositada o por alguna otra causa.
+IV. La suspensión temporal de actividades, tratándose de centros de verificación vehicular con el resguardo a cargo de la Secretaría de la documentación correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Asimismo, la Secretaría, la Procuraduría o los ayuntamientos, según corresponda, podrán promover ante la autoridad competente, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
-###### ARTÍCULO 176.
+###### Artículo 239.
 
-Cuando en los casos previstos en la Constitución Política del Estado, el Gobernador y el Presidente del Supremo Tribunal de Justicia deban presentarse ante el Congreso del Estado, sendas comisiones protocolarias nombradas por la Presidencia, los recibirán a la entrada del salón de sesiones. Asimismo, los acompañarán al retirarse.
+Cuando la Secretaría, la Procuraduría o los ayuntamientos ordenen alguna de las medidas de seguridad previstas en esta Ley, indicarán al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-###### ARTÍCULO 177.
+###### Artículo 176.
 
-Cuando el Gobernador se presente a otorgar la protesta constitucional, la comisión protocolaria nombrada para recibirlo a la entrada del recinto, lo acompañará hasta el lugar donde se le recibirá dicha protesta y, enseguida, pasará a ocupar su asiento al lado izquierdo del Presidente del Congreso del Estado. La misma comisión acompañará a dicho funcionario hasta la salida del salón de sesiones.
+La Secretaría y los ayuntamientos, en el ámbito de sus respectivas competencias, requerirán a los responsables de los establecimientos industriales, comerciales, de servicios o espectáculos públicos la adopción de medidas que impidan exceder los límites máximos permisibles de emisiones de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas, olores perjudiciales y de contaminación visual. Para tal efecto, la Procuraduría realizará actos de inspección y vigilancia para verificar el cumplimiento de esta Ley y demás disposiciones legales en la materia.
 
-###### ARTÍCULO 178.
+La Procuraduría y los Municipios, en el ámbito de sus respectivas competencias, vigilarán que dichos responsables cumplan con las normas oficiales mexicanas correspondientes y, en su caso, aplicarán las sanciones que procedan conforme a esta Ley.
 
-Lo dispuesto en el artículo 176 de esta ley se observará también cuando algún funcionario deba rendir protesta ante el Congreso del Estado para tomar posesión de su cargo.
+Asimismo, en la construcción de obras e instalaciones o en la realización de actividades que generen ruido, vibraciones, energía térmica, energía lumínica y olores, los responsables de las mismas deberán llevar a cabo las acciones preventivas y correctivas necesarias para evitar los efectos nocivos de dichos contaminantes.
 
-###### ARTÍCULO 179.
+###### Artículo 177.
 
-Se nombrará una comisión protocolaria para introducir al salón de sesiones al Presidente de la República, o al representante que designe, cuando asistan a un acto del pleno del Congreso del Estado y para que los acompañen al retirarse.
+La Secretaría, en coordinación con las autoridades de salud, municipales, organismos públicos o privados, nacionales o internacionales, integrarán información relacionada con este tipo de contaminación, así como de métodos y tecnología de control y tratamiento de la misma, así como, el grado, magnitud y frecuencia de las emisiones para determinar los daños que producen a la salud.
 
-###### ARTÍCULO 180.
+La Secretaría y los Ayuntamientos, deberán prever acciones y objetivos específicos en sus respectivos Programas relacionados con el medio ambiente, sobre la prevención y control de la contaminación ocasionada por ruido.
 
-Cuando el Gobernador, al tomar posesión de su cargo o en cualquier otro acto oficial, dirija la palabra al pleno del Congreso del Estado, el Presidente, en su caso, hará uso de la voz para contestar lo conducente.
+###### Artículo 178.
 
-###### ARTÍCULO 181.
+La Secretaría, la Procuraduría y los municipios, conforme al ámbito de sus atribuciones, previo a la emisión de autorizaciones, licencias o permisos, o bien para la atención a quejas o denuncias por ruido, deberán considerar:
 
-Siempre que un alto funcionario, un representante diplomático o consular o alguna persona de relieve, se presenten en el Congreso del Estado a invitación de éste, se nombrará una comisión protocolaria que los reciba a la entrada del recinto oficial, los acompañe hasta el lugar en que deban tomar asiento y los despidan cuando deseen retirarse.
+I. El nivel de emisión de ruido máximo permisible en fuentes fijas y su método de medición será conforme a la norma oficial mexicana aplicable, tomando en cuenta:
 
-###### ARTÍCULO 182.
+a) La medición continua o semicontinua;
 
-(DEROGADO, B.O. 23 DE OCTUBRE DE 2014)
+b) La media estadística, y;
 
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+c) Obtener la muestra estadística;
 
-ARTÍCULO 182 BIS.- En la primera sesión de cada periodo ordinario de sesiones, una vez que se haya aprobado el decreto de instalación del periodo ordinario de sesiones correspondiente, deberá entonarse el Himno Nacional con las formalidades que señala la Ley sobre el Escudo, la Bandera y el Himno Nacionales.
+II. Las condiciones climatológicas y físicas que pueden incidir en la variación del ruido;
 
-Asimismo, al momento de clausurar cada periodo ordinario se deberá entonar el Himno Nacional en los términos del párrafo anterior.
+III. Los elementos de la fuente emisora de ruido, así como las probables soluciones, y;
 
-De la misma manera, deberá entonarse el Himno Nacional al inicio de aquellas sesiones que coincidan con alguna fecha de celebración o luto estatal o nacional, según se indique en el orden del día respectivo.
+IV. Analizar si la fuente emisora de ruido presenta características de movilidad parcial, de tal modo que su generación de sonido pueda variar constantemente, o bien, si presenta elementos y condiciones que varíen en su emisión de ruido, de tal modo que la intensidad del sonido no sea constante y presente fases que se apegan a la normatividad y fases en que ésta es rebasada.
+
+Para las fuentes móviles se estará a lo dispuesto por las Normas Oficiales Mexicanas o las Estatales que en su momento se emitan y conforme a los días y horarios establecidos en las autorizaciones, licencias o permisos que la autoridad competente expida.
+
+###### Artículo 179.
+
+Son obligaciones de los responsables de las fuentes emisoras de ruido las siguientes:
+
+I. Respetar y cumplir las leyes, reglamentos, normas y demás disposiciones legales en materia de ruido;
+
+II. Utilizar sistemas, materiales, medidas o tecnologías que reduzcan y contengan el ruido en los lugares destinados a actividades potencialmente generadoras de ruido sonidos;
+
+III. Permitir la inspección y revisión de las autoridades competentes en términos de esta Ley;
+
+IV. Uso obligatorio de dispositivos o silenciadores para toda clase de motores y maquinarias generadoras de ruido, cuando su naturaleza lo permita;
+
+V. Los responsables de la industria, taller, comercio y en general cualquier fuente fija de emisión de ruido de competencia estatal o municipal, deberá hacer uso de sistemas y tecnologías tendientes a reducir y amortiguar sus emisiones de ruido;
+
+VI. Cumplir con los horarios y las condiciones establecidas en las autorizaciones o permisos que expida la autoridad correspondiente;
+
+VII. Utilizar los equipos de sonido o video de las unidades automotrices en un nivel de volumen que no sobrepase los niveles establecidos en las normas para la emisión de ruidos hacia el exterior de la unidad;
+
+IX. Respetar los horarios establecidos en las autorizaciones, licencias o permisos otorgados por la autoridad competente para realizar las actividades de propaganda;
+
+X. Obtener las autorizaciones, permisos y licencias para operar negocios o empresas que sean generadores de ruido;
+
+XI. Reparar el daño causado a la salud de las personas afectadas por la fuente generadora de ruido, siempre y cuando este sea determinado por la autoridad sanitaria, y;
+
+XII. Las demás que determinen las autoridades en el ámbito de su competencia.
+
+Se exceptúan dela (sic) presente disposición, aquellas obras o trabajos declarados de urgencia, por la autoridad competente.
+
+###### Artículo 180.
+
+Con el fin de proteger la salud y ambiente en los centros urbanos del Estado y sus municipios, la Secretaría y los municipios se coordinarán con otras autoridades estatales y municipales conforme al ámbito de sus competencias, para delimitar zonas de protección especial acústica, en las que, quedará prohibido el establecimiento de cualquier actividad industrial, comercial, de servicios o cualquiera que por su naturaleza genere emisiones de ruido o en su caso, limitada la circulación de vehículos que por sus características generan ruido, salvo el derecho de acceso a los residentes en la zona.
+
+###### Artículo 181.
+
+La zona de protección especial acústica estará integrada por los sitios donde se encuentren clínicas, hospitales, centros de readaptación social, orfanatos, hoteles y posadas, clubes de recreo, asilos, centros deportivos, parques, jardines públicos, iglesias, inmuebles destinados a actividades educativas, recreativas, sanitarias, de reposo o religiosas y demás que las autoridades competentes consideren.
+
+###### Artículo 182.
+
+Las autoridades competentes en términos de esta Ley, elaborarán un plan de acción específico para la mejora acústica progresiva del ambiente y la salud en las zonas de protección acústica especial, que contendrán las siguientes medidas:
+
+I. Señalamiento de las zonas en las que se apliquen restricciones del horario por la actividad o las obras que se pretendan realizar en la vía pública o en edificaciones;
+
+II. Señalamiento de las zonas o vías en las que no puedan circular determinadas clases de vehículos o en su caso hacerlo con restricciones horarias o de velocidad, y;
+
+III. No autorizar el establecimiento, ampliación, modificación o traslado de un emisor acústico que incremente los valores de los índices de emisiones existentes.
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA ORGANIZACIÓN ADMINISTRATIVA DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. DEL INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN
+### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
 
-###### ARTÍCULO 240.
+###### Artículo 240.
 
-La sanción será de uno a cinco años de prisión y multa de uno a diez días y suspensión de profesión, cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos o por funcionario o empleado público o cuando el secreto revelado o publicado sea de carácter industrial.
+Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que de ella emanen constituyen infracción y serán sancionadas administrativamente por la Procuraduría, en asuntos de competencia del Estado y sin perjuicio de las atribuciones que la presente Ley otorga expresamente a la Secretaría, y por los ayuntamientos, en el ámbito de competencia de éstos, con una o más de las siguientes sanciones:
 
-###### ARTÍCULO 241.
+I. Multa por el equivalente de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción;
 
-Para los efectos de este título y el subsecuente, es servidor público, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública, estatal o municipal, organismos descentralizados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a esta, fideicomisos públicos, en el Congreso Local o en el Poder Judicial y en los órganos constitucionales autónomos.
+II. Clausura temporal o definitiva, parcial o total:
 
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2024)</small>
+a) Cuando el infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad con las medidas correctivas o de urgente aplicación ordenadas;
 
-Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título.
+b) En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente, o;
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 20 DE MAYO DE 2024)</small>
+c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad;
 
-Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, de uno a veinte años, considerando lo siguiente:
+III. Arresto administrativo hasta por treinta y seis horas;
 
-I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
+IV. La suspensión, revocación o cancelación de las concesiones, licencias, permisos o autorizaciones correspondientes, cuando:
 
-II. Las circunstancias socioeconómicas del responsable;
+a) El infractor no diere cumplimiento en tiempo y forma requeridos por la autoridad a las actividades, términos o condiciones señalados en dichas autorizaciones;
 
-III. Las condiciones exteriores y los medios de ejecución, y
+b) Exista riesgo inminente de desequilibrio ecológico;
 
-IV. El monto del beneficio que haya obtenido el responsable.
+c) A causa de la realización de la obra o actividad se ponga en peligro la salud humana o los ecosistemas;
 
-###### ARTÍCULO 242.
+d) La realización de la obra o actividad cause daños a la sociedad o a los bienes materiales públicos o privados, y;
 
-Comete el delito de ejercicio indebido o abandono de funciones, el Servidor Público que:
+V. Las demás previstas en esta Ley.
 
-I. Ejerza las funciones de su empleo, cargo o comisión sin haber tomado posesión legítima o sin satisfacer todos los requisitos legales;
+Si el infractor, dentro del plazo concedido por la autoridad, no cumple con las medidas impuestas para subsanar las irregularidades que lo hicieron incurrir en infracción, las autoridades podrán imponer multas por cada día que transcurra sin obedecer el mandato, sin que el total de éstas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
 
-II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido legalmente;
+En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido, además del tipo de clausura que determine la autoridad.
 
-III. Nombrado por tiempo limitado continúe ejerciendo sus funciones, después de cumplido el término por el cual se le nombró.
+Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada durante el procedimiento seguido en su contra.
 
-Lo previsto en las fracciones II y III, no comprende el caso en que el servidor público que debe cesar en sus funciones se le ordene que continúe en ellas entre tanto se presenta la persona que haya de sustituirlo, cuando la Ley no lo prohíba;
+###### Artículo 241.
 
-IV. Se auto atribuya alguna otra comisión, empleo o cargo del que realmente tuviere;
+Para la imposición de las sanciones por infracciones a esta Ley, sus reglamentos y demás disposiciones que de ella emanen, se tomará en cuenta:
 
-V. Sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada;
+I. La gravedad de la infracción, considerando principalmente el impacto en la salud pública, la generación de desequilibrios ecológicos, la afectación de recursos naturales o de la biodiversidad y, en su caso, los niveles en que se hubieren rebasado los límites establecidos en la norma oficial mexicana aplicable;
 
-VI. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública centralizada, organismos descentralizados, empresas de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, del Congreso del Estado o del Poder Judicial Estatal, por cualquier acto u omisión no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades;
+II. Las condiciones económicas del infractor;
 
-VII. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo custodia, o a la que tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+III. La reincidencia, si la hubiere;
 
-VIII. El que sin estar facultado para ello o estándolo, indebidamente otorgue:
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción; y;
 
-a) Concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado y municipios;
+V. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
 
-b) Permisos, Licencias o autorizaciones de contenido económico sin tener facultades para ello;
+En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría o los ayuntamientos impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
-c) Franquicias, exenciones, deducciones, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios y tarifas de los bienes y servicios producidos o prestados en la administración pública estatal y municipal;
+La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre que se garanticen las obligaciones del infractor, no sea residente y la autoridad justifique plenamente su decisión.
 
-d) Realice o contrate obra pública, deudas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, colocaciones de fondos y valores con recursos económicos públicos, y
+###### Artículo 242.
 
-IX. Teniendo en su cargo fondos públicos, les dé a sabiendas sin la autorización correspondiente de quien tenga facultades para ello, una aplicación pública distinta de aquélla a que estuvieren destinados o hiciere un pago ilegal.
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello las disposiciones establecidas en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca para las visitas de verificación.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+En los casos en que se imponga como sanción la clausura temporal, la Procuraduría o, en su caso, el Ayuntamiento deberán indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
-Al que infrinja lo establecido en las fracciones I a la IV se le impondrá de tres meses a tres años de prisión y multa de treinta a ciento cincuenta días, sin perjuicio de aplicarse otras sanciones derivadas del ejercicio indebido a su cargo.
+###### Artículo 243.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+La Procuraduría dará a los bienes decomisados alguno de los siguientes destinos:
 
-Al que infrinja lo establecido en las fracciones V a la IX se le impondrá de tres meses a tres años de prisión y multa de treinta a trescientos días, si el monto de las operaciones no excede el equivalente de setecientas veces la Unidad de Medida y Actualización diaria; y se impondrá de dos a doce años de prisión y multa de treinta a trescientos días, cuando el monto de las operaciones exceda al equivalente de setecientas veces la Unidad de Medida y Actualización diaria.
+I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5,000 veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción;
 
-Las penalidades anteriores podrán ser reducidas hasta la mitad si el servidor público resarce a quien causó el daño, el importe total de las operaciones realizadas en un término no mayor de treinta días.
+II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción;
 
-Las sanciones señaladas con antelación, serán aplicadas sin perjuicio de imponer las que se señalan en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+III. Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas. Tratándose de especies y subespecies de flora y fauna silvestre, éstas podrán ser donadas a zoológicos públicos siempre que se garantice la existencia de condiciones adecuadas para su desarrollo, y
 
-###### ARTÍCULO 243.
+IV. Destrucción cuando se trate de productos o subproductos, de flora y fauna silvestre, de productos forestales plagados o que tengan alguna enfermedad que impida su aprovechamiento, así como artefactos de pesca y caza prohibidos por las disposiciones jurídicas aplicables.
 
-Comete el delito de abuso de autoridad, todo servidor público sea cual fuere su categoría:
+###### Artículo 244.
 
-I. Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+Los ingresos que obtenga la Procuraduría por concepto de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, se integrarán al Fondo Ambiental Estatal a que se refiere el artículo 220 de esta Ley.
 
-II. Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
+###### Artículo 245.
 
-III. Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
+Cuando las autoridades competentes impongan como sanción una multa, ésta tendrá el carácter de crédito fiscal y se hará efectiva por conducto de la Secretaría de Finanzas del Gobierno del Estado o de las tesorerías municipales, en su caso, a través del procedimiento administrativo de ejecución.
 
-IV. Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
+###### Artículo 183.
 
-V. Cuando el encargado de una fuerza pública, requerida legalmente por una autoridad competente para que le preste auxilio se niegue indebidamente a dárselo;
+Quedan prohibidas las emisiones de ruido, en cuanto rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas que expida la Secretaría de Medio Ambiente y Recursos Naturales y los criterios ecológicos aplicables.
 
-VI. Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente niegue que está detenida, si lo estuviese; o no cumpla la orden de libertad girada por la autoridad competente;
+###### Artículo 184.
 
-VII. Cuando teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, también inmediatamente, si esto estuviere en sus atribuciones;
+En ningún caso se concederá licencia para el establecimiento de aparatos emisores de ruido, en un radio de cien metros medidos en proyección horizontal uno de otro, de hospitales, sanatorios, bibliotecas y escuelas.
 
-VIII. Cuando haga que se le entreguen fondos, valores u otras cosas que no se le hayan confiado a él y se los apropie o disponga de ellos indebidamente;
+###### Artículo 185.
 
-IX. Cuando con cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas u otro servicio;
+Queda prohibido situar en la vía pública aparatos de sonido que tengan por objeto llamar la atención de los transeúntes, con fines de propaganda comercial o de cualquier otra especie.
 
-X. Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión pública, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sea remunerados, a sabiendas de que no se les prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado, y
+###### Artículo 186.
 
-XI. Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación.
+Los aparatos reproductores de música y radios instalados en vehículos, solamente podrán usarse con el volumen de manera que los sonidos no trasciendan al exterior o afecten a terceros.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
 
-Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años y multa de treinta a doscientos días y destitución e inhabilitación por el mismo lapso para desempeñar otro empleo, cargo o comisión pública.
+###### Artículo 246.
 
-###### ARTÍCULO 244.
+Contra los actos administrativos o resoluciones definitivas, emitidos por la Secretaría, la Procuraduría o los ayuntamientos en los procedimientos administrativos instaurados con motivo de la aplicación de esta Ley, sus reglamentos y demás disposiciones que de ellos se deriven, los interesados podrán a su elección, interponer el recurso de Revisión, previsto en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, o intentar el juicio correspondiente ante el Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
-Comete el delito de intimidación:
+###### Artículo 247.
 
-I. El Servidor Público que por sí o por interpósita persona utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la legislación penal o por la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, y
+Tratándose de obras o actividades que contravengan las disposiciones de esta Ley, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos y normas oficiales mexicanas, las personas físicas y morales de las comunidades afectadas tendrán derecho a impugnar los actos administrativos correspondientes, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar un daño a los recursos naturales, la salud pública o la calidad de vida. Para tal efecto deberán interponer el medio de defensa correspondiente.
 
-II. El Servidor Público que con motivo de la querella, denuncia o la información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que la presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+###### Artículo 248.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en las normas aplicables. Dicha nulidad podrá ser exigida mediante el medio de impugnación correspondiente, previsto en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
-Al que comete el delito de intimidación se le impondrá de uno a nueve años de prisión, multa por un monto de treinta a trescientos días y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo cargo o comisión pública.
+###### Artículo 249.
 
-Las sanciones señaladas con antelación serán aplicadas sin perjuicio de las que se establezcan en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría, la Procuraduría o los Ayuntamientos, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formularán ante la autoridad competente la denuncia correspondiente.
 
-###### ARTÍCULO 245.
+La Secretaría, la Procuraduría o los Ayuntamientos, según corresponda, proporcionarán, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten las autoridades competentes, con motivo de las denuncias presentadas por la Secretaría de delitos ambientales.
 
-Comete el delito de tortura cualquier servidor público de los gobiernos estatal y municipal, que por sí o valiéndose de terceros subordinados y siempre en el ejercicio de sus funciones, cause intencionalmente a una persona dolor o sufrimiento. Asimismo, cuando la coaccione física o moralmente para obtener de ella o de un tercero, información o confesión alguna, o para inducirla a asumir un comportamiento determinado o castigarla por un acto que haya cometido o se sospeche que se ha cometido.
+La Secretaría, la Procuraduría o los Ayuntamientos, según corresponda, serán coadyuvantes de las autoridades competentes, en los términos de las disposiciones legales correspondientes. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
 
-No se comete el delito de tortura cuando, como consecuencia de la ejecución de la aprehensión o aseguramiento de la persona o cosas, se causen dolor o sufrimiento circunstanciales.
+###### Artículo 250.
 
-Tampoco lo serán las penalidades que sean consecuencias únicamente de sanciones legítimas o inherentes o incidentales a éstas.
+Las resoluciones definitivas dictadas en los procedimientos administrativos que se hayan instaurado con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los interesados mediante el recurso de revisión, el cual se deberá interponer dentro de los quince días hábiles siguientes a la fecha de su notificación.
 
-Son reglas aplicables al delito de tortura, las siguientes:
+El recurso de revisión se interpondrá directamente ante el Titular que emitió el acto administrativo o la resolución impugnada, quien, en su caso, acordará su admisión o desechamiento, y el otorgamiento o denegación de la suspensión del acto recurrido, ordenando dar el trámite y resolución definitiva.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+###### Artículo 251.
 
-I. Al que cometa el delito de tortura se le sancionará con pena privativa de libertad de dos a diez años, y de doscientos a quinientos días en el momento de aplicar la multa, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión;
+Por lo que se refiere a los demás trámites relativos a la sustentación del recurso de revisión se sujetarán a lo dispuesto por la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca y el Código de Procedimientos Civiles para el Estado de Oaxaca respectivamente.
 
-II. Si además de tortura resulta delito diverso, se estará a las reglas de concurso de delito;
+###### Artículo 252.
 
-III. No justificará la tortura que se invoque o existan circunstancias excepcionales, como inestabilidad política externa, urgencia en las investigaciones o cualquier otra emergencia pública;
+En el escrito en el que se interponga el recurso se señalará:
 
-IV. En el momento en que lo solicite cualquier detenido o reo, o que lo pida su defensor, deberá ser reconocido por perito médico legista o por un médico de su elección. El que haga el reconocimiento queda obligado a expedir de inmediato el certificado correspondiente, y
+I. El nombre y domicilio del recurrente y en su caso, el de la persona que promueva a su nombre y representación, acreditando debidamente la personalidad con que comparece;
 
-V. Cualquier autoridad que conozca un hecho de tortura, está obligado a denunciarla de inmediato.
+II. La fecha en que, bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución recurrida;
 
-###### ARTÍCULO 183.
+III. El acto o resolución que se impugna;
 
-Para su funcionamiento, el Congreso del Estado tendrá las siguientes dependencias:
+IV. Los agravios que a juicio del recurrente le cause la resolución o el acto impugnado;
 
-I.- Instituto Superior de Auditoría y Fiscalización;
+V. La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto;
 
-II.- Oficialía Mayor; y
+VI. Los documentos que el recurrente ofrezca como prueba, que tengan la relación inmediata o directa con la resolución o acto impugnado y que no hubiere estado en posibilidad de ofrecer al oponer sus defensas, deberán acompañarse al escrito a que se refiere el presente artículo;
 
-III.- Contraloría Interna.
+VII. Las pruebas que el recurrente ofrezca en relación con el acto o la resolución impugnada, acompañando los documentos que se relacionen con éste. No podrá ofrecerse como prueba la confesión de la autoridad, y;
 
-###### ARTÍCULO 184.
+VIII. La solicitud de suspensión del acto o resolución impugnados previa la comprobación de haber garantizado, en su caso, debidamente el interés fiscal.
 
-La Oficialía Mayor tendrá bajo su dirección y supervisión las direcciones generales y sus unidades administrativas conforme a lo que se establece en la presente ley.
+###### Artículo 253.
 
-###### ARTÍCULO 185.
+No se procederá a la suspensión del decomiso en los siguientes casos:
 
-Los titulares de la Oficialía Mayor, de las Direcciones Generales y de Contraloría Interna, así como los subdirectores de dichas dependencias serán nombrados y removidos por el pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
+I. Cuando se trate de especies de flora y fauna silvestre que carezcan de la concesión, permiso o autorización correspondiente;
 
-###### ARTÍCULO 186.
+II. Cuando se trate de especies de flora y fauna silvestre extraídas o capturadas en época, zona o lugar no comprendidos en la concesión, permiso o autorización respectivos, así como en volúmenes superiores a los establecidos;
 
-Queda prohibido acordar la entrega de numerario o bienes en especie a diputados o servidores públicos de confianza de primer nivel del Poder Legislativo, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones en el Congreso del Estado.
+III. Cuando se trate de especies de flora y fauna silvestre declaradas en veda o sean consideradas raras, amenazadas, en peligro de extinción o sujetas a protección especial conforme a las Normas Oficiales Mexicanas;
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 11 DE MAYO DE 2017)</small>
+IV. Cuando se trate de especies de flora y fauna silvestre colectadas para su exportación decomisadas a extranjeros o en embarcaciones o transporte extranjeros;
 
-### CAPÍTULO III
+V. Cuando se trate de productos y subproductos de flora y fauna silvestre;
 
-###### ARTÍCULO 246.
+VI. Cuando se trate de materias primas forestales maderables o no maderables, provenientes de aprovechamientos para los cuales no existe autorización, y;
 
-Comete el delito de coalición de Servidores Públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+VII. Cuando se trate de instrumentos, armas de caza, artes de pesca y demás objetos utilizados en alguna de las acciones mencionadas en este Artículo.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+###### Artículo 254.
 
-A los que cometan el delito de coalición, se les impondrá prisión de tres meses a dos años y multa de diez a sesenta días.
+Al recibir el recurso, la autoridad del conocimiento verificará si este fue interpuesto en tiempo, admitiéndolo a trámite o rechazándolo.
 
-###### ARTÍCULO 247.
+Para el caso de que lo admita, decretará la suspensión si fuese procedente, y desahogará las pruebas que procedan en un plazo que no exceda de 15 días hábiles contados a partir de la notificación de admisión.
 
-Cometen delito de cohecho:
+###### Artículo 187.
 
-I. La o el servidor público que por sí, o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva o beneficio, o acepte una promesa de hacer algo ilícito o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
+Los responsables u organizadores de eventos sociales, espectáculos públicos como bailes, conciertos o deportivos y en general, cualquier tipo de actividad desarrollada en espacios abiertos o cerrados, se sujetaran a los horarios y condiciones que se establezcan en las autorizaciones, licencias o permisos que emita la autoridad Estatal o municipal competente, ésta última deberá recomendar o condicionar en las autorizaciones, licencias o permisos la instalación de materiales e instrumentos que aíslen el ruido o los sonidos que produzcan durante el desarrollo de las actividades.
 
-II. La persona que dé u ofrezca dinero o cualquier otra dádiva a la persona encargada de un servicio público del estado, municipal o descentralizado o de participación estatal, o a alguna persona servidora pública que preste sus servicios en los poderes Ejecutivo, Legislativo, Judicial, Ayuntamientos u órganos constitucionales autónomos, para que haga un acto ilícito u omita uno lícito relacionado con sus funciones;
+### CAPÍTULO V. DE LA DENUNCIA CIUDADANA
 
-III. El legislador que, en ejercicio de sus funciones o atribuciones, solicite, gestione, exija u obtenga para sí o para una o un tercero, una comisión, dádiva o contraprestación, en dinero o en especie distinta a la que le corresponde por el ejercicio de su encargo para aprobar:
+###### Artículo 255.
 
-a) El presupuesto de egresos o leyes de ingresos que en el ámbito de su competencia le corresponde conocer;
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría o los ayuntamientos, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente ley, la Ley General y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
 
-b) La asignación de recursos a favor de un ente público, o la contratación de financiamientos u obligaciones, en términos de la legislación en materia de disciplina financiera y de deuda pública aplicable;
+Si la denuncia presentada resulta del orden federal, deberá ser remitida a la autoridad competente, en un plazo no mayor de cinco días hábiles contados a partir de la fecha de recepción de la denuncia, haciendo del conocimiento del denunciante esta situación.
 
-c) El otorgamiento de contratos de obra pública, arrendamientos o de servicios a favor de determinadas personas físicas o morales; o
+###### Artículo 256.
 
-d) Los contratos de prestación de servicios Estatales o Municipales que conforme a la Ley corresponda.
+La denuncia ciudadana podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
 
-IV. El Presidente o Presidenta Municipal, Sindico o Síndica o Regidor o Regidora que, en el ejercicio de sus funciones o atribuciones, solicite, gestione, exija u obtenga para sí o para una o un tercero, una comisión, dádiva o contraprestación en dinero o en especie distinta a la que le corresponde por el ejercicio de su encargo para aprobar:
+I. El nombre o razón social, domicilio y teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
 
-a) El presupuesto de egresos;
+II. Los actos, hechos u omisiones denunciados;
 
-b) El proyecto de la ley de ingresos;
+III. Los datos que permitan identificar al presunto infractor o localizar la fuente contaminante, y;
 
-c) La contratación de financiamientos u obligaciones, en términos de la legislación en materia de disciplina financiera y de deuda pública aplicable;
+IV. La pruebas que en su caso ofrezca el denunciante.
 
-d) La desafectación de bienes inmuebles; o
+Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia. Sin perjuicio de que la instancia competente investigue de oficio los hechos constitutivos de la denuncia.
 
-e) La celebración de convenios, contratos o concesiones en términos de la Ley, obras, arrendamientos o la prestación de servicios públicos, así como la adjudicación de una licitación pública, por invitación o directa, de bienes o servicios.
+Cuando se reciban dos o más denuncias por los mismos hechos, actos u omisiones, se acordará la acumulación de éstas en un solo expediente, y se les notificará a los denunciantes el acuerdo respectivo.
 
-V. Las y los titulares de las Secretarías, Dependencias o Entidades del Gobierno del Estado o cualquier servidora o servidor público que corresponda a este; o la o el titular de un organismo público descentralizado que, en el ejercicio de sus funciones o atribuciones, exija u obtenga para sí o para una o un tercero, una comisión, dádiva o contraprestación en dinero o en especie distinta a la que le corresponde por el ejercicio de su encargo para aprobar o efectuar:
+No se admitirán denuncias notoriamente improcedentes o infundadas, aquellas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición.
 
-a) La adjudicación de obra pública o de servicios a favor de determinadas personas físicas o morales;
+Si el denunciante solicita a la instancia competente guardar secreto respecto de su identidad, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables le otorgan.
 
-b) Adjudicación de una licitación pública, por invitación o directa, de compras o servicios;
+###### Artículo 257.
 
-c) Un gasto que no esté previsto en el presupuesto o contrario a la ley; o
+La formulación de la denuncia ciudadana, así como los acuerdos, resoluciones y recomendaciones que emita la Secretaría, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados conforme a las disposiciones jurídicas aplicables, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
 
-d) Firmar los convenios de colaboración que se efectúen relacionados con su área, con las secretarías de la administración pública federal o diversas entidades públicas o privadas.
+###### Artículo 258.
 
-Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
+La Procuraduría o los ayuntamientos, una vez recibida la denuncia, procederán por los medios que resulten conducentes a identificar al denunciante, y en su caso, harán saber la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convengan, en un plazo máximo de quince días hábiles a partir de la notificación respectiva.
 
-Cuando la cantidad o el valor de la dádiva, de los bienes, promesa o prestación no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de uno a tres años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+La Procuraduría o el Ayuntamiento efectuarán las diligencias necesarias con el propósito de determinar la existencia de actos, hechos u omisiones constitutivos de la denuncia, y para la evaluación correspondiente.
 
-Cuando la cantidad o el valor de la dádiva, de los bienes, promesas o prestación exceda de quinientas hasta diez mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres a seis años de prisión y multa de cien a setecientas veces el valor diario de la Unidad de Medida y Actualización.
+###### Artículo 259.
 
-Cuando la cantidad o el valor de la dádiva, de los bienes, promesa o prestación exceda de diez mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cuatro a nueve años de prisión y multa de cien a setecientas veces el valor diario de la Unidad de Medida y Actualización.
+Cuando una denuncia no implique violaciones a la normatividad ambiental ni afecte cuestiones de orden público e interés social las autoridades podrán sujetar la misma a un procedimiento de conciliación. En todo caso, se deberá escuchar a las partes involucradas.
 
-A la o el servidor público que resulte responsable del delito de cohecho se le impondrá además la destitución e inhabilitación para desempeñar empleo, cargo o comisión pública, de uno hasta siete años.
+Asimismo, en los casos previstos en esta Ley, las autoridades referidas podrán iniciar los procedimientos de inspección y vigilancia que fueran procedentes, en cuyo caso se observarán las disposiciones respectivas de esta Ley, sin necesidad de agotar el procedimiento de denuncia.
 
-En ningún caso se devolverá a las o los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado, en términos del procedimiento respectivo.
+###### Artículo 260.
 
-###### ARTÍCULO 248.
+El denunciante podrá coadyuvar con las autoridades aportándoles las pruebas, documentación e información que estime pertinentes. Las autoridades deberán manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver sobre la denuncia.
 
-Comete el delito de peculado toda persona encargada de un servicio público del estado, municipal o descentralizado, aun cuando sea en comisión por tiempo limitado y no tenga el carácter de funcionario, quien, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o al Municipio, al organismo descentralizado a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
+###### Artículo 261.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+La Procuraduría o el Ayuntamiento, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, hará del conocimiento del denunciante el trámite que se haya dado a aquélla.
 
-###### ARTÍCULO 249.
+###### Artículo 262.
 
-Al que cometa el delito de peculado se le aplicarán de uno a nueve años de prisión y multa de treinta a cincuenta días y destitución de empleo o cargo e inhabilitación para desempeñar otros similares.
+Los expedientes de denuncia popular que hubieren sido abiertos podrán ser concluidos por las siguientes causas:
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 1 DE FEBRERO DE 2017)
+I. Por haberse dictado la recomendación correspondiente;
 
-###### ARTÍCULO 250.
+II. Cuando no existan contravenciones a la normatividad ambiental;
 
-La sanción será de uno a seis meses de prisión y multa de cinco a quince días, si dentro de los treinta días siguientes a aquél en que se descubrió el delito devolviere el responsable lo sustraído.
+III. Por haberse solucionado la denuncia ciudadana mediante conciliación;
 
-> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2017)</small>
+IV. Por haberse dictado anteriormente un acuerdo de acumulación de expedientes;
 
-Esta disposición se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
+V. Por desistimiento del denunciante, y;
 
-###### ARTÍCULO 251.
+VI. Por la emisión de una resolución derivada del procedimiento de inspección.
 
-Comete el delito de concusión, el encargado de un servicio público que con tal carácter y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija por sí o por medio de otro, dinero, valores, servicios, o cualquiera otra cosa indebida o en mayor cantidad que la señalada por la ley.
+###### Artículo 263.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+La Secretaría y los municipios en el ámbito de sus atribuciones, están facultados para iniciar las acciones que procedan, ante las autoridades judiciales competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
 
-###### ARTÍCULO 252.
+###### Artículo 264.
 
-A los servidores públicos que cometan el delito de concusión, se les aplicará de uno a cinco años de prisión e inhabilitación inconmutable por el término de la pena impuesta.
+Las autoridades y servidores públicos involucrados en asuntos de competencia de la Secretaría, o que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir en sus términos con las peticiones que dicha dependencia les formule en tal sentido.
 
-###### ARTÍCULO 253.
+Las autoridades y servidores públicos a los que se les solicite información o documentación que se estime con carácter reservado, conforme a lo dispuesto en la legislación aplicable, lo comunicarán a la Secretaría.
 
-Las sanciones del artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público, que con aquella investidura cometan el delito de concusión.
+En este supuesto, dicha dependencia deberá manejar la información proporcionada bajo la más estricta confidencialidad.
 
-###### ARTÍCULO 254.
+###### Artículo 265.
 
-Comete el delito de custodia de documentos, el servidor público que:
+Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente o afecte los recursos naturales o la biodiversidad será responsable y estará obligada a reparar los daños causados, de conformidad con la legislación civil aplicable.
 
-I. Sustraiga, destruya u oculte documentos o papeles que le estuvieren confiados por razón de su cargo;
+El término para demandar la responsabilidad ambiental, será de cinco años contados a partir del momento en que la autoridad tenga conocimiento de los efectos adversos que sobre la salud pública o el ambiente produzcan el acto, hecho u omisión correspondiente.
 
-II. Teniendo a su cargo la custodia de documentos o efectos sellados por la autoridad, quebrante los sellos o consienta su quebrantamiento, y
+T R A N S I T O R I O S:
 
-III. Abra o consienta abrir sin la autorización correspondiente, papeles o documentos cerrados cuya custodia le estuviere confiada.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-Al responsable de este delito se le impondrá prisión de tres meses a cinco años y multa de diez a treinta días.
+TERCERO.- Se abroga la LEY DEL EQUILIBRIO ECOLÓGICO DEL ESTADO DE OAXACA, aprobada mediante el DECRETO No. 276, por la QUINCUAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, publicada en la Sección Segunda del Periódico Oficial del Gobierno del Estado de Oaxaca, el sábado 10 de octubre de 1998.
 
-###### ARTÍCULO 187.
+CUARTO.- Se abroga la LEY DE PROTECCIÓN CONTRA EL RUIDO EN EL ESTADO, aprobada mediante DECRETO No. 205, por la CUADRAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, publicada en el Periódico Oficial (sic) Estado el trece de julio de mil novecientos sesenta y ocho.
 
-(DEROGADO, B.O. 11 DE MAYO DE 2017)
+QUINTO.- Corresponde al Gobernador del Estado, por conducto del titular de la Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable, emitir el Reglamento de la presente Ley, en un plazo de noventa días naturales posteriores a la publicación del presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-> <small>(DEROGADA SU DENOMINACIÓN, B.O. 1 DE OCTUBRE DE 2015)</small>
+SEXTO.- Los ayuntamientos de la Entidad deberán emitir en un plazo no mayor a un año los Reglamentos y demás disposiciones de observancia general a que se refiere esta Ley, hasta en tanto, se aplicarán en lo conducente, los Reglamentos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
-### CAPÍTULO IV. DE LA OFICIALÍA MAYOR
+SÉPTIMO.- Las solicitudes de licencias, permisos, autorizaciones o concesiones presentadas ante la Secretaría o los ayuntamientos con anterioridad a la entrada en vigor de esta Ley podrán, a elección de los interesados, seguir su trámite y resolverse de conformidad con las disposiciones vigentes al momento de su presentación, o bien, mediante la Licencia Ambiental Integral prevista en esta Ley, en cuyo caso, deberán cumplir con los requisitos que para ello se establece.
 
-###### ARTÍCULO 255.
+OCTAVO.- Los procedimientos de inspección y los recursos administrativos, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
 
-Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando se acredite el ilegítimo aumento del patrimonio de la o el servidor público o se acredite la ilegítima procedencia de bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
+NOVENO.- Las personas físicas o morales que se encuentren realizando obras o actividades al amparo de licencias, permisos, autorizaciones o concesiones otorgados por la autoridad ambiental federal cuya competencia para otorgarlos se haya transferido al Estado por virtud de las reformas a la Ley General del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Oaxaca, tendrán un plazo de noventa días contados a partir de la entrada en vigor de los reglamentos correspondientes, para regularizar dichas licencias, permisos, autorizaciones o concesiones ante la Secretaría o los ayuntamientos respectivos, en los términos dispuestos en este ordenamiento.
 
-Para efectos del párrafo anterior, se computarán entre los bienes que adquieran las personas servidoras públicas o con respecto de los cuales se conduzcan como dueños, los que reciban y los que dispongan su cónyuge o sus dependientes económicos directos, siempre que se acredite que el cónyuge o sus dependientes económicos directos no los obtuvieron por sí mismos.
+DÉCIMO.- En tanto entre en funciones la Procuraduría de Protección al Ambiente del Estado de Oaxaca, las mismas estarán a cargo de la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca.
 
-Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+DÉCIMO PRIMERO.- El Congreso del Estado de Oaxaca, en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente decreto realizará las adecuaciones necesarias a las leyes secundarias para logar el cumplimiento pleno de esta Ley.
 
-I. Decomiso en beneficio del Estado, de aquellos bienes cuya procedencia sea ilegítima;
+DÉCIMO SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a seis años de prisión, multa de treinta a trescientas veces la Unidad de Medida y Actualización al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión pública, y
+“Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 25 de Septiembre de 2018.- Dip. José de Jesús Romero López, Presidente.- Dip. Fernando Huerta Cerecedo, Secretario.- Dip. Silvia Flores Peña, Secretaria.- Dip. León Leonardo Lucas, Secretario.- Rúbricas.”
 
-III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces la Unidad de Medida y Actualización al momento de cometerse el delito y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión pública.
+Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 16 de Octubre de 2018. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
 
-###### ARTÍCULO 256.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-Al servidor público que por sí o por interpósita persona, influyere en otro servidor público o servidores públicos, valiéndose del ejercicio de las facultades de su cargo o de cualquier otra situación derivada de su relación personal, jerárquica o de cualquier otra índole con éste, o con otros u otros (sic), servidor público para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente un beneficio económico para sí o para un tercero, o bien para afectar los servicios o funcionalidad del Estado, se le impondrá pena de prisión de tres a siete años y multa de ciento cincuenta a setecientos días. Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad más.
+P.O. 31 DE AGOSTO DE 2019.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+###### Artículo 188.
 
-###### ARTÍCULO 257.
+La detonación de fuegos pirotécnicos, cohetes o cualquier otro artificio de pólvora, estará sujeta a los horarios y días que establezca la autoridad Municipal en las autorizaciones, licencias o permisos respectivos.
 
-El particular que influyere en un servidor público o en un grupo de servidores públicos valiéndose de cualquier situación derivada de su relación personal o de cualquier otra índole con éste, estos o con otro u otros servidores públicos, para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente, un beneficio económico para sí o para un tercero, o bien para afectar los servicios o funcionalidad del Estado, será sancionado con pena de prisión de un mes a seis años y multa de cien a quinientos días. Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad más.
-
-###### ARTÍCULO 258.
-
-El servidor público que, a cambio de dádivas, presentes o cualquier beneficio económico, ofrezca a un particular influir sobre otro servidor público, para que este último realice las conductas descritas en los artículos anteriores, será sancionado con pena de prisión de seis meses a un año.
-
-###### ARTÍCULO 259.
-
-En todos los casos previstos en este Capítulo, las dádivas, presentes o regalos serán materia de decomiso.
-
-###### ARTÍCULO 260.
-
-Se impondrá suspensión de tres meses a tres años o destitución del cargo y en ambos casos multa de diez a treinta días a los funcionarios, empleados o auxiliares de la administración de justicia que cometan algunos de los delitos siguientes:
-
-I. Conocer de negocios contra los cuales tengan impedimento legal o abstenerse de conocer de los que les correspondan sin tener impedimento para ello;
-
-II. Desempeñar algún otro empleo oficial o un puesto o cargo particular que la Ley les prohíba;
-
-III. Litigar por sí o por interpósita persona cuando la Ley les prohíba el ejercicio de su profesión;
-
-IV. Dirigir o aconsejar a las personas que ante ellos litiguen;
-
-V. No cumplir, sin causa fundada para ello, una disposición que legalmente se les comunique por su superior competente;
-
-VI. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan una ventaja indebida a los interesados en un negocio, o a cualquiera otra persona;
-
-VII. Retardar o entorpecer maliciosamente o por negligencia la administración de justicia, y
-
-VIII. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos, los indicios, huellas o vestigios del hecho delictuoso o los instrumentos, objetos o productos del delito.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 261.
-
-Se impondrá suspensión de tres meses a tres años y multa de diez a treinta días, al defensor de oficio de un inculpado, que sólo se concrete a aceptar el cargo o a solicitar la libertad caucional, sin promover injustificadamente las pruebas conducentes o que no interponga los recursos procedentes contra las resoluciones en que se adviertan violaciones notorias a la Ley.
-
-(NOTA: EL 18 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 8 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
-
-###### ARTÍCULO 262.
-
-Las disposiciones de los artículos anteriores se aplicarán, en lo conducente, a todos los funcionarios o empleados de la administración pública cuando, en el ejercicio de su cargo o comisión, ejecuten los hechos o incurran en las omisiones que expresan los propios artículos.
-
-###### ARTÍCULO 263.
-
-Se impondrá prisión de uno a cinco años, multa de diez a treinta días y suspensión en el ejercicio profesional de tres meses a dos años, a los abogados, patronos o litigantes, cuando éstos últimos no sean ostensiblemente patrocinados por abogados, si cometen algunos de los delitos siguientes:
-
-I. Alegar, a sabiendas, hechos falsos o leyes inexistentes o derogadas;
-
-II. Pedir términos para probar lo que notoriamente no puede probarse o no ha de aprovechar a su parte; o promover artículos o incidentes con el fin de crear dilaciones o trámites innecesarios para el normal desarrollo del juicio, o recursos claramente improcedentes, o de cualquier otra manera, procurar dilaciones notoriamente indebidas.
-
-Para proceder a la iniciación de la averiguación penal será necesaria la previa calificación de los hechos a que se refiere esta fracción, realizada por el Juez o Tribunal que conozca del negocio, y
-
-III. Presentar por sí mismo o aconsejar a su patrocinado, a que presente testigos o documentos falsos.
-
-En el caso de esta fracción, las sanciones expresadas se impondrán sin perjuicio de las que correspondan por la participación del infractor en la comisión del delito de falsedad en declaraciones ante la autoridad, falsificación de documentos o uso de los mismos.
-
-###### ARTÍCULO 264.
-
-Además de las sanciones mencionadas en el artículo anterior, se impondrá prisión de uno a cinco años:
-
-I. Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o en negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
-
-II. Por abandonar la defensa de un cliente o negocio sin motivo justificado y causando daño;
-
-III. Por aceptar defender a un procesado sin tener los conocimientos técnicos para ello, y
-
-IV. Al defensor particular en los casos del artículo 261 de éste Código.
-
-###### ARTÍCULO 265.
-
-Los médicos, cirujanos, parteros, dentistas, veterinarios, practicantes o pasantes de medicina y demás profesionales similares y auxiliares, serán responsables por los daños que causen en la práctica de su profesión, en los términos siguientes:
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-I. Además de las sanciones fijadas para los delitos que resulten consumados, según sean intencionales o culposos, se les aplicará de dos a seis años de prisión y multa de doscientos a mil días, así como suspensión de uno a cinco años en el ejercicio de la profesión o inhabilitación definitiva en caso de reincidencia, y
-
-II. Estarán obligados a la responsabilidad civil, no solamente por sus actos propios, sino también solidariamente por los de sus ayudantes, enfermeros o practicantes, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
-
-###### ARTÍCULO 188.
-
-(DEROGADO, B.O. 1 DE OCTUBRE DE 2015)
+Cuando se trae de eventos desarrollados por los municipios de acuerdo a sus costumbres o tradiciones, llámese calendas o las fiestas patronales, éstos determinarán el horario para la detonación de fuegos pirotécnicos, cohetes o cualquier otro artificio de pólvora, con la observancia de la protección al ambiente y a la salud, por las emisiones de ruido como a la atmosfera generadas por dicha actividad.
 
 ### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
 
-###### ARTÍCULO 189.
+###### Artículo 189.
 
-La Oficialía Mayor es el órgano técnico y administrativo auxiliar del Congreso del Estado. Actuará bajo la supervisión y vigilancia de la Presidencia y de las comisiones de Régimen Interno y Concertación Política y de Administración y será responsable de la administración del Congreso del Estado con las atribuciones y obligaciones que esta misma ley establece.
+En las obras y trabajos de construcción, modificación, reparación o derribo de edificios, así como, las que se realicen en la vía pública, deberán adoptar las medidas oportunas para evitar que los ruidos emitidos no excedan de los niveles acústicos fijados para la respectiva zona, así mismo, la autoridad competente establecerá el horario al que estarán sujetas dichas actividades, de manera que el ruido que produzcan no afecten a terceros.
 
-###### ARTÍCULO 190.
+###### Artículo 190.
 
-Para ser Oficial Mayor del Congreso del Estado se requiere:
+Son infracciones a lo establecido en esta Ley:
 
-I.- Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos;
+I. Exceder los límites de ruido permitidos en las normas, la presente Ley y los reglamentos aplicables en fuentes fijas y móviles de competencia estatal y municipal;
 
-II.- Ser de notoria honradez y probidad públicas; no contar con antecedentes penales ni haber sido condenado por sentencia ejecutoriada por delito intencional que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial;
+II. Instalar fuentes fijas de ruido en los lugares o zonas de protección acústica especiales conforme a la presente Ley;
 
-III.- Contar con título profesional expedido por una institución legalmente autorizada; y
+III. Operar establecimientos generadores de ruido, sin cumplir con todos los requisitos de ley, y;
 
-IV.- Tener los conocimientos, experiencia y capacidad que requiere el puesto, establecidos por la Comisión de Régimen Interno y Concertación Política.
+IV. Violar los horarios o condiciones establecidos en las autorizaciones, licencias o permisos.
 
-###### ARTÍCULO 191.
+###### Artículo 191.
 
-La Oficialía Mayor del Congreso del Estado, tendrá las siguientes atribuciones y obligaciones genéricas:
+Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por la Procuraduría o la autoridad municipal respectiva en el ámbito de sus competencias, conforme a las siguientes sanciones:
 
-I.- Auxiliar a la Mesa Directiva, Diputación Permanente, comisiones de Régimen Interno y Concertación Política y de Administración en las funciones que legalmente les competen;
+I. Multa de cinco a quinientos UMAS que serán equivalentes al valor diario de la Unidad de Medida y Actualización vigente al momento en que se cometa la infracción;
 
-II.- Brindar apoyo a las comisiones del Congreso del Estado para el adecuado y eficaz cumplimiento de sus atribuciones;
+II. Clausura temporal o definitiva, total o parcial, en caso de reincidencia;
 
-III.- Coordinar y supervisar a las distintas áreas, unidades, direcciones y subdirecciones administrativas y de apoyo al trabajo legislativo;
+III. Arresto administrativo hasta por treinta y seis horas, y;
 
-IV.- Ejecutar los acuerdos del pleno del Congreso del Estado, de las comisiones de Régimen Interno y Concertación Política y de Administración y de la Diputación Permanente;
+IV. La suspensión o revocación de las licencias, permisos o autorizaciones correspondientes.
 
-V.- Formular y poner a la disposición de las comisiones de Administración y de Régimen Interno y Concertación Política, el anteproyecto de presupuesto de egresos del Congreso del Estado, de acuerdo a las necesidades operativas del mismo y las metas, objetivos, mejoras y prioridades que las propias comisiones aprueben alcanzar en el ejercicio fiscal que se presupuesta;
+Si vencido el plazo concedido por la autoridad subsisten las infracciones que se hubieren cometido, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
 
-VI.- Vigilar que el presupuesto de egresos del Congreso del Estado se ejerza de acuerdo a los lineamientos, estructura, programas y calendarización aprobados;
+En el caso de reincidencia, el monto de la multa podrá ser hasta por tres veces de la UMA impuesta originalmente, así como la clausura definitiva.
 
-VII.- Informar mensualmente a las comisiones de Administración y de Régimen Interno y Concertación Política y a la Contraloría Interna del Congreso del Estado, la situación que guarda el ejercicio presupuestal en lo general, especificando las asignaciones y disposiciones por dependencias y programas;
+Opera la figura de reincidente cuando el infractor incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años contados a partir de la fecha en que se levante el acta o en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
-VIII.- Apoyar oportunamente a cada una de las dependencias que forman la estructura orgánica del Congreso del Estado, en materia presupuestal, administrativa o de infraestructura técnica, de acuerdo a sus necesidades o prioridades;
+###### Artículo 192.
 
-IX.- Dar seguimiento a las determinaciones del Presidente, a los acuerdos del pleno del Congreso del Estado, de la Diputación Permanente, de las comisiones de Administración y Régimen Interno y Concertación Política, así como de las diversas comisiones del Congreso del Estado, según el caso, vigilando en todo momento su observancia y publicación;
+Cuando la gravedad de la infracción lo amerite, la autoridad competente solicitará la suspensión, revocación o cancelación del permiso, licencia y en general de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios que hayan dado lugar a la infracción.
 
-X.- Coadyuvar en la comunicación, coordinación y colaboración con los poderes federales, estatales y municipales; así como con entidades, funcionarios públicos, organizaciones sociales y ciudadanos en general;
+###### Artículo 193.
 
-XI.- Remitir al Poder Ejecutivo las leyes, decretos, acuerdos o demás documentos que apruebe el pleno del Congreso del Estado o la Diputación Permanente, para su sanción, promulgación y publicación, en el Boletín Oficial del Gobierno del Estado, según proceda;
+La autoridad competente para la imposición de las sanciones por infracciones a esta Ley, tomará en cuenta:
 
-XII.- Remitir las leyes, decretos o acuerdos que apruebe el pleno del Congreso del Estado o la Diputación Permanente, según el caso, a los otros poderes del Estado, ayuntamientos y demás autoridades que tengan competencia o interés en éstos;
+I. La gravedad de la infracción, considerando principalmente los siguientes criterios: Impacto en la salud pública y los niveles en que se hubieran rebasado los límites establecidos en la Norma Oficial aplicable;
 
-XIII.- Distribuir el diario de los debates, la Gaceta Parlamentaria y las actas de las sesiones del pleno del Congreso del Estado y de la Diputación Permanente, así como las minutas de las reuniones de las comisiones;
+II. Las condiciones económicas del infractor;
 
-XIV.- Coadyuvar, en su caso, en los eventos en los que el Congreso del Estado participe o promueva en forma institucional o por conducto de alguna comisión;
+III. La reincidencia si la hubiere;
 
-XV.- Coordinar las adquisiciones, servicios y suministros de las diversas dependencias del Congreso del Estado, de conformidad con la presente ley y demás disposiciones aplicables;
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
 
-XVI.- Tener bajo su custodia la documentación soporte y justificativa del ejercicio del gasto público;
+V. El número de las infracciones cometidas, y;
 
-XVII.- Someter a la consideración de las comisiones de Administración y de Régimen Interno y Concertación Política los anteproyectos de Manual de Organización y Funcionamiento y Manual de Políticas y Procedimientos de la Oficialía Mayor, de acuerdo a los tiempos que las propias comisiones establezcan;
-
-XVIII.- Firmar los nombramientos que expida el Congreso del Estado;
-
-XIX.- Certificar, conjuntamente con el Secretario de la Mesa Directiva o de la Diputación Permanente, los documentos oficiales en poder del Congreso del Estado;
-
-XX.- Firmar, junto con quien corresponda la documentación de carácter administrativa o financiera interna del Congreso del Estado;
-
-XXI.- Establecer y coordinar los sistemas de informática y los elementos técnicos necesarios para el cumplimiento de las atribuciones del Congreso del Estado;
-
-XXII.- Poner a disposición de la siguiente legislatura los dictámenes que las comisiones emitan sobre asuntos que no llegue a conocer la actual legislatura que los recibió y las iniciativas que por cualquier motivo no se llegasen a dictaminar;
-
-XXIII.- Vigilar que, a través del área de biblioteca, se cubran las necesidades de consulta, tanto para legisladores, como para el público en general;
-
-> <small>(ADICIONADA, B.O. 16 DE MAYO DE 2011)</small>
-
-XXIII BIS.- Implementar un sistema de comunicación interna entre las diversas direcciones generales y sus unidades administrativas que permita la eliminación de uso del papel;
-
-XXIV.- Solicitar información a las direcciones generales sobre asuntos relacionados con sus funciones; y
-
-XXV.- Las demás que le asigne la presente ley, la Presidencia del Congreso del Estado, la Diputación Permanente, el pleno del Congreso del Estado y las comisiones del Congreso del Estado.
-
-###### ARTÍCULO 192.
-
-Sin perjuicio de las atribuciones establecidas en el artículo anterior, la Oficialía Mayor ejercerá las siguientes atribuciones:
-
-A).- Por conducto de la Dirección General de Administración:
-
-I.- Proporcionar al Oficial Mayor los elementos para la elaboración del anteproyecto del presupuesto anual de egresos del Congreso del Estado conforme a las normas y lineamientos aplicables;
-
-II.- Tramitar y recibir de la Secretaría de Hacienda, las transferencias de los fondos correspondientes al presupuesto de egresos autorizado para cada ejercicio fiscal, conforme al calendario de ministraciones aprobado; así como establecer y operar los procedimientos para la recepción y control de los ingresos;
-
-III.- Ejercer, en coordinación con el Oficial Mayor, el presupuesto del Congreso del Estado conforme a las normas y lineamientos aplicables y de acuerdo a los montos y calendario aprobados;
-
-IV.- En coordinación con el Oficial Mayor, someter a consideración de la Comisión de Administración, las modificaciones y transferencias presupuestales de los recursos que sean necesarios para la ejecución de los programas y subprogramas a cargo de las dependencias del Congreso del Estado;
-
-V.- Realizar los pagos de las dietas y sueldos de los diputados y servidores públicos del Congreso del Estado, así como los relativos a adquisiciones, servicios y mantenimiento e inversiones autorizadas en el Presupuesto de Egresos del Congreso del Estado;
-
-VI.- Por instrucción del Oficial Mayor, descontar de las cantidades que deba entregar como dietas a los diputados, la suma que corresponda a los días que dejaren de asistir sin causa justificada a las sesiones del Congreso del Estado;
-
-VII.- Efectuar los procesos aplicables para las adquisiciones y arrendamientos de los bienes y servicios que se requieran para el desempeño de las funciones de las unidades administrativas del Congreso del Estado, bajo las modalidades de licitación pública, invitación restringida o asignación directa, de conformidad con las autorizaciones correspondientes y la normatividad aplicable en la materia;
-
-VIII.- Suministrar los materiales y equipo de oficina y proporcionar los servicios generales de mantenimiento y conservación del equipo e instalaciones del Congreso del Estado;
-
-IX.- Proporcionar los apoyos materiales necesarios para la celebración de las sesiones del pleno del Congreso del Estado, de la Diputación Permanente, de las comisiones ordinarias y especiales y de todo evento que realice el Congreso del Estado;
-
-X.- Atender las necesidades de apoyo que soliciten los diputados en el desempeño de su función legislativa;
-
-XI.- Realizar el proceso contable del ejercicio del presupuesto, de conformidad a los lineamientos de la contabilidad gubernamental, así como, concentrar y mantener bajo su custodia la documentación soporte y comprobatoria del mismo;
-
-XII.- Elaborar y entregar al Oficial Mayor, los estados financieros y los informes mensuales de la situación que guarda el ejercicio del presupuesto en general, especificando las asignaciones y disposiciones por dependencia, programa y subprogramas, durante los primeros diez días del mes siguiente al que se informa;
-
-XIII.- Elaborar los informes trimestrales del ejercicio presupuestal y el correspondiente al Congreso del Estado de la cuenta pública, de conformidad con los contenidos, plazos y especificaciones que se establecen en la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal y remitirlo, en coordinación con el Oficial Mayor, a la Comisión de Administración para su envío al Instituto Superior de Auditoría y Fiscalización;
-
-XIV.- Elaborar e implementar, previa presentación al Oficial Mayor y con aprobación de la Comisión de Administración, las políticas y lineamientos en materia de administración de recursos humanos, materiales y servicios generales de las unidades administrativas y de apoyo del Congreso del Estado;
-
-XV.- Diseñar y presentar, previa opinión del Oficial Mayor y con la aprobación de la Comisión de Administración, los programas y acciones de reclutamiento, selección, promoción, capacitación y evaluación del personal de las diversas unidades administrativas del Congreso del Estado;
-
-XVI.- Integrar y mantener actualizados el padrón de funcionarios y empleados del Congreso del Estado, los expedientes personales de cada uno de ellos, así como tramitar los casos de terminación de relación de trabajo y contratos;
-
-XVII.- Expedir las credenciales de identificación de los servidores públicos del Congreso del Estado;
-
-XVIII.- Diseñar y llevar a cabo las tareas relativas al desarrollo organizacional y reingeniería administrativa;
-
-XIX.- Realizar los trámites y acciones derivadas de la administración de las relaciones laborales ante las autoridades administrativas correspondientes, siempre que no implique una situación de litigio;
-
-XX.- Elaborar y actualizar el inventario de bienes muebles e inmuebles del Congreso del Estado, por lo menos dos veces al año;
-
-XXI.- Realizar las acciones necesarias para garantizar la seguridad del edificio del Congreso del Estado, del personal que en él labora y del público en general que lo visita;
-
-XXII.- Establecer y coordinar las normas, políticas y procedimientos de desarrollo informático y los elementos técnicos necesarios para el cumplimiento de las atribuciones del Congreso del Estado;
-
-XXIII.- Proporcionar una adecuada atención a las personas que acuden al Congreso del Estado;
-
-XXIV.- Elaborar los estados financieros mensuales;
-
-XXV.- Mantener actualizados los sistemas administrativos que sirvan de base para la evaluación y control de los recursos; y
-
-XXVI.- Las demás que le confiera el pleno del Congreso del Estado, la Mesa Directiva, la Diputación Permanente, las comisiones de Régimen Interno y Concertación Política y de Administración su superior jerárquico y las disposiciones legales aplicables.
-
-B).- Por conducto de la Dirección General Jurídica:
-
-I.- Coordinar, en el ámbito jurídico, los asuntos de la competencia del Congreso del Estado y sus dependencias;
-
-II.- Brindar asesoría jurídica a la Mesa Directiva, a la Diputación Permanente, a las comisiones, a los diputados y las demás áreas o dependencias administrativas;
-
-III.- Apoyar a la Mesa Directiva en el análisis y contestación de correspondencia y de otros asuntos que la misma considere necesarias;
-
-IV.- Asistir a las comisiones en la elaboración de iniciativas, dictámenes, comunicaciones y demás documentación de análisis que soliciten;
-
-V.- Asistir a los diputados en la elaboración de iniciativas;
-
-VI.- Apoyar a la Mesa Directiva, a la Diputación Permanente y a las comisiones en los eventos de consulta, foros y debate, para la sistematización de las propuestas o conclusiones que se obtengan;
-
-VII.- Auxiliar a la Diputación Permanente en la elaboración de la convocatoria a sesiones extraordinarias, así como en el desahogo de sus sesiones;
-
-VIII.- Atender y dar curso a las solicitudes de los diputados en materia de investigaciones, estudios y análisis legislativo;
-
-IX.- Recabar información documental de análisis, debate y legislación sobre los diversos temas de interés social, económico, político y cultural, que sirvan de apoyo para un adecuado desahogo del proceso legislativo;
-
-X.- Elaborar las comunicaciones para las autoridades, instituciones, organismos y particulares a los que serán comunicados las leyes, decretos y acuerdos aprobados por el Congreso del Estado;
-
-XI.- Integrar el expediente respectivo para cada ley, decreto o acuerdo que sea aprobado por el Congreso del Estado, cuidando que contenga, según corresponda, la iniciativa, los antecedentes, el dictamen, las comunicaciones oficiales, la respuesta, en su caso, recaída al asunto y el Boletín Oficial del Gobierno del Estado, para posteriormente remitirlo al archivo general del Congreso del Estado;
-
-XII.- Prestar los servicios de corrección y estilo que se requieran en la elaboración de dictámenes e iniciativas de ley;
-
-XIII.- Llevar los controles de registro de leyes, decretos y acuerdos aprobados por el Congreso del Estado; así como el registro de certificación y control de correspondencia a la que recae el acuerdo de contestar lo que en derecho proceda;
-
-XIV.- Participar en los diversos grupos de trabajo que establezcan las comisiones, la Mesa Directiva, el pleno del Congreso del Estado o la Diputación Permanente, en el desarrollo de sus funciones;
-
-XV.- Recibir de las dependencias y unidades administrativas del Congreso del Estado la información a que se refiere el artículo 14 de la Ley de Acceso a la Información Pública y garantizar la correcta publicación en los medios autorizados;
-
-XVI.- Elaborar los proyectos de documentos que tengan por objeto tramitar alguna de las etapas procesales de los juicios de cualquier naturaleza que sean parte o tengan interés legítimo el Congreso del Estado;
-
-XVII.- Elaborar los proyectos de demandas, de contestación a las mismas, promover los recursos, desahogar las solicitudes y requerimientos que, por los conductos legales, formulen las autoridades judiciales y administrativas y, en general, ejercer las acciones necesarias a fin de defender los derechos o intereses del Congreso del Estado, de acuerdo a las facultades que le han sido expresamente conferidas;
-
-XVIII.- Comparecer, en representación del Congreso del Estado ante las diversas autoridades municipales, estatales y federales, para dar curso a los asuntos que se le hayan encomendado, cuando así se lo indique la instancia competente;
-
-XIX.- Coordinarse con las diversas áreas y dependencias internas del Congreso del Estado, así como a las áreas afines de las instancias municipales, estatales, federales, Congreso de la Unión y legislaturas de los Estados, con el objeto de intercambiar experiencias ó información que contribuya en el mejor desarrollo de la Dirección;
-
-XX.- Integrar y mantener actualizado el registro de compromisos jurídicos del Congreso del Estado;
-
-XXI.- Informar al Oficial Mayor de la adecuada integración de los expedientes derivados de la función legislativa;
-
-XXII.- Coadyuvar con las demás direcciones generales para elaborar y mantener actualizado el sistema informático parlamentario;
-
-XXIII.- Dar seguimiento a los resolutivos aprobados por el Congreso del Estado;
-
-XXIV.- Atender las consultas que se realicen a los documentos que obran en archivos y llevar un registro de las mismas;
-
-XXV.- Integrar y mantener actualizado el archivo del Congreso del Estado, preservando en buen estado la documentación respectiva mediante las acciones que resulten necesarias;
-
-XXVI.- Elaborar el diario de los debates, la Gaceta Parlamentaria y las actas de las sesiones del pleno del Congreso del Estado y de la Diputación Permanente, así como las minutas de las reuniones de las comisiones;
-
-XXVII.- Llevar un libro en que se asienten por orden cronológico las leyes, decretos y acuerdos que expida el Congreso del Estado; y
-
-XXVIII.- Las demás que le confiera el pleno del Congreso del Estado, la Mesa Directiva, la Diputación Permanente, las comisiones de Régimen Interno y Concertación Política y de Administración, su superior jerárquico y las disposiciones legales aplicables.
-
-C).- Por conducto de la Dirección General de Comunicación Social:
-
-I.- Elaborar en coordinación con el Oficial Mayor, el anteproyecto del programa anual de comunicación social del Congreso del Estado;
-
-II.- Realizar la difusión oportuna, objetiva y profesional de las actividades del Congreso del Estado;
-
-III.- Asesorar a los órganos de gobierno del Congreso del Estado para proyectar el trabajo legislativo y contribuir a una mejor percepción social de las funciones del Poder Legislativo;
-
-IV.- Dar apoyo a los diputados del Congreso del Estado en materia de comunicación social;
-
-V.- Proporcionar asesoría a los diputados y funcionarios en su imagen profesional;
-
-VI.- Conseguir espacios para la participación directa de diputados en los medios de comunicación; y
-
-VII.- Las demás que le confiera el pleno del Congreso del Estado, la Mesa Directiva, la Diputación Permanente, las comisiones de Régimen Interno y Concertación Política, Administración y Comunicación y Enlace Social, su superior jerárquico y las disposiciones legales aplicables.
-
-###### ARTÍCULO 193.
-
-Son atribuciones genéricas de las direcciones generales:
-
-I.- Proponer a Oficialía Mayor, de acuerdo a los requerimientos técnicos de sus funciones, la organización interna de la Dirección a su cargo;
-
-II.- Establecer los mecanismos de coordinación, programación, información, control, evaluación y mejoramiento de la eficiencia operativa de la Dirección a su cargo, de acuerdo con las disposiciones que emita el titular de Oficialía Mayor;
-
-III.- Participar, conforme a los lineamientos establecidos, en la elaboración y actualización de los manuales de organización, de políticas y procedimientos y de servicios al público de la Dirección a su cargo;
-
-IV.- Prestar el apoyo técnico que se requiera para la definición de las políticas, lineamientos y normas necesarias para la formulación, revisión, actualización, seguimiento, control y evaluación de los programas de trabajo y proyectos estratégicos que de ellos se deriven;
-
-V.- Elaborar el anteproyecto de presupuesto de egresos por programas que corresponda a la Dirección a su cargo;
-
-VI.- Determinar, conforme a sus necesidades reales, los requerimientos de bienes muebles y servicios que sean indispensables para el desempeño eficiente de las funciones de la Dirección a su cargo y remitirlo a la Oficialía Mayor;
-
-VII.- Asesorar técnicamente, en los asuntos de su especialidad, a las Direcciones Generales del Congreso del Estado, así como proporcionar información, datos y cooperación técnica que le soliciten las Direcciones Generales o la Oficialía Mayor, de acuerdo con las políticas establecidas al respecto;
-
-VIII.- Coordinarse con los titulares de las Direcciones Generales de Oficialía Mayor, cuando así se requiera para el mejor funcionamiento de la misma;
-
-IX.- Intervenir en la selección, evaluación, promoción y capacitación del personal de la unidad administrativa a su cargo, de acuerdo con las políticas vigentes en materia de administración y desarrollo de recursos humanos;
-
-X.- Desempeñar las representaciones que, por acuerdo expreso, se le encomienden e informar los resultados de las mismas al superior jerárquico;
-
-XI.- Recibir en acuerdo a los funcionarios y empleados de su Dirección y conceder audiencias al público sobre los asuntos de su competencia, de conformidad con las políticas establecidas al respecto;
-
-XII.- Suscribir los documentos relativos al ejercicio de sus funciones;
-
-XIII.- Proporcionar a la unidad de informática la información necesaria para mantener actualizada la página oficial del Congreso del Estado en internet;
-
-XIV.- Resguardar el acervo electrónico de los documentos de las direcciones a su cargo;
-
-XV.- Proporcionar la información y documentación que le sea requerida por el Oficial Mayor para el ejercicio de sus funciones de dirección y supervisión;
-
-XVI.- Vigilar que se haga buen uso del mobiliario, equipo y vehículos que se asignen a su unidad administrativa; y
-
-XVII.- Las demás que les señale el Oficial Mayor o que le confieran otras disposiciones legales.
+VI. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
 
 ### CAPÍTULO VI. DEL CENTRO DE INVESTIGACIONES PARLAMENTARIAS DEL ESTADO DE SONORA
 
@@ -2453,33 +2991,25 @@ Para ser nombrado Director General y Subdirector del Centro se requiere ser mexi
 
 ARTÍCULO 197 BIS 2.- Para el ejercicio de las atribuciones establecidas en este artículo, el Centro contará con la estructura administrativa necesaria para el desempeño de sus funciones, la cual deberá ser aprobada y nombrada por la Comisión de Régimen Interno y Concertación Política del Congreso del Estado. El personal del Centro deberá contar con un perfil profesional relacionado de manera preferencial con los ámbitos académicos y de la investigación.
 
-###### ARTÍCULO 194.
+###### Artículo 194.
 
-La Contraloría interna, será responsable del control y evaluación del desarrollo administrativo y financiero del Congreso del Estado, cuyo titular será designado por el pleno del Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política.
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial el personal comisionado para ejecutarla, procederá a levantar acta detallada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
 
-###### ARTÍCULO 195.
+En los casos en que se imponga como sanción la clausura temporal, la autoridad competente deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización, de conformidad con el reglamento.
 
-La Contraloría Interna, será un órgano funcionalmente autónomo y dependerá directamente del pleno del Congreso del Estado, bajo la supervisión de la Comisión de Régimen Interno y Concertación Política, teniendo las siguientes atribuciones:
+###### Artículo 195.
 
-I.- Proponer y aplicar las normas y criterios en materia de control y evaluación que deban observar las dependencias del Congreso del Estado;
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley y demás disposiciones que de ella se deriven, se destinarán para el Fondo Ambiental Estatal.
 
-II.- Establecer y operar un sistema de quejas, denuncias o sugerencias relacionadas con las funciones del Congreso del Estado;
+###### Artículo 196.
 
-III.- Instaurar procedimientos administrativos y proponer a la Comisión de Régimen Interno y Concertación Política las sanciones en los términos de la reglamentación interna a los funcionarios de las dependencias del Congreso del Estado;
+Los gobiernos municipales deberán incorporar, en sus bandos y reglamentos, disposiciones que regulen obras, actividades, procesos a fin de prevenir y controlar la contaminación por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores, y bajo su precepto se fijarán los límites de emisión respectivos.
 
-IV.- Apoyar en los asuntos de su competencia a las comisiones legislativas; y
+#### SECCIÓN II. DE LA PREVENCIÓN Y CONTROL VISUAL, VIBRACIONES, ENERGÍA TÉRMICA, ENERGÍA LUMÍNICA Y OLORES
 
-V.- Las demás que expresamente le confiera esta ley, el pleno del Congreso del Estado y demás disposiciones legales.
+###### Artículo 197.
 
-###### ARTÍCULO 196.
-
-Para desempeñar el cargo de Contralor Interno se requieren los mismos requisitos que para ser Oficial Mayor del Congreso del Estado.
-
-###### ARTÍCULO 197.
-
-La Contraloría Interna contará con las áreas, unidades y personal necesario para su funcionamiento, conforme a lo establecido en el presupuesto de egresos.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MAYO DE 2017)</small>
+Quedan prohibidas las emisiones de ruido, vibraciones, olores, radiaciones electromagnéticas, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas que expida la Secretaría de Medio Ambiente y Recursos Naturales y los criterios ecológicos aplicables.
 
 ### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA
 
@@ -2489,19 +3019,23 @@ La Contraloría Interna contará con las áreas, unidades y personal necesario p
 
 > <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
 
-###### ARTÍCULO 198.
+###### Artículo 198.
 
-El servicio civil de carrera del Congreso del Estado, tiene el propósito de garantizar la estabilidad y seguridad en el trabajo de sus funcionarios y empleados de confianza, fomentando su vocación por el servicio público y capacitación técnica y profesional en forma permanente.
+Los ayuntamientos regularán lo conducente en materia de construcciones, actividades y anuncios publicitarios, a fin de evitar la contaminación visual en los centros de población y crear una imagen agradable de los mismos.
 
-###### ARTÍCULO 199.
+###### Artículo 199.
 
-El Poder Legislativo del Estado instituye el servicio civil de carrera, correspondiendo a la selección, contratación y promoción de su personal de confianza de las distintas dependencias, con base en los principios de capacidad, probidad, constancia y profesionalismo, desarrollados en el desempeño de sus funciones. Las relaciones laborales del Congreso del Estado con sus empleados se regirán por la Ley número 40 del Servicio Civil para el Estado, y en el caso de los empleados de base, éstas se regirán por las condiciones generales del trabajo del o los sindicatos de burócratas estatales.
+La contaminación visual provocada por publicidad comercial y de servicios será regulada bajo las disposiciones establecidas por cada municipio y tomando en cuenta los criterios establecidos en esta Ley.
 
-###### ARTÍCULO 200.
+###### Artículo 200.
 
-El pleno del Congreso del Estado será la instancia competente para determinar y expedir, por conducto de la Oficialía Mayor, el nombramiento y contratación del personal técnico y profesional de confianza.
+Con el fin de evitar la contaminación visual, los municipios solo otorgaran licencias para la ubicación, instalación, distancia y colocación de anuncios o elementos visibles desde la vía pública, cuando:
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE JULIO DE 2015)</small>
+I. Estén en armonía con las características de la estética e imagen urbana o conforme a las normas ambientales estatales que correspondan;
+
+II. Se ubiquen en zonas o áreas permitidas conforme al plan de desarrollo urbano correspondiente, y;
+
+III. Se cumpla con la normatividad aplicable en materia urbanística.
 
 ## TÍTULO DÉCIMO CUARTO. DEL PARLAMENTO DE LAS MUJERES DEL ESTADO DE SONORA
 
@@ -2509,155 +3043,181 @@ El pleno del Congreso del Estado será la instancia competente para determinar y
 
 ### CAPÍTULO I. REGLAS GENERALES
 
-###### ARTÍCULO 201.
+###### Artículo 201.
 
-Cada año, previo al Día Internacional de la Mujer, el Congreso del Estado convocará y celebrará el Parlamento de las Mujeres del Estado de Sonora, cuyo objeto será debatir, revisar, promover e integrar una agenda legislativa relativa a la equidad de género, así como para prevenir y erradicar toda forma de discriminación y violencia hacia las mujeres.
+Queda prohibida la instalación de anuncios o elementos visibles, en los siguientes casos:
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+I. En áreas naturales protegidas o en zonas clasificadas como habitacionales;
 
-###### ARTÍCULO 202.
+II. En sitios y monumentos considerados de patrimonio histórico, arquitectónico o cultural;
 
-En el mes de enero de cada año, la Comisión de Equidad y Género presentará a la Comisión de Régimen Interno y Concertación Política, la Convocatoria y el Programa General del Parlamento de las Mujeres del Estado de Sonora para su aprobación.
+III. Cuando afecten o impacten nocivamente el paisaje natural o urbano;
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+IV. Cuando ocasionen riesgo o peligro para la población;
 
-###### ARTÍCULO 203.
+V. Cuando obstruyan la visibilidad en túneles puentes, pasos a desnivel vialidades o señalamientos de tránsito, o;
 
-El Congreso del Estado de Sonora asegurará y reservará los recursos presupuestales suficientes para la celebración anual del Parlamento de las Mujeres del Estado de Sonora.
+VI. Contravengan esta Ley u otros ordenamientos aplicables a la materia.
+
+Los municipios deberán incorporar en sus bandos de policía y gobierno y reglamentos, disposiciones que regulen obras, actividades y elementos publicitarios, a fin de evitar el deterioro del paisaje rural y urbano, y evitar la contaminación visual procurando crear una imagen armónica de los centros de población.
+
+###### Artículo 202.
+
+La exploración, explotación y el aprovechamiento de los recursos no reservados a la Federación se llevarán a cabo de manera que se eviten daños al equilibrio ecológico y al ambiente de las localidades en el Estado.
+
+###### Artículo 203.
+
+La exploración, explotación y aprovechamiento de minerales o sustancias no reservadas a la Federación, requerirá permiso de la Secretaría, que se tramitará mediante la autorización de la Manifiestación (sic) de Impacto Ambiental a que se refiere el artículo 35 de éste ordenamiento.
 
 ## TÍTULO NOVENO. DELITOS COMETIDOS EN LA ADMINISTRACIÓN DE JUSTICIA Y EN OTROS RAMOS DEL PODER PÚBLICO
 
 ### CAPÍTULO II. APLICACIÓN DE SANCIONES A LOS DELITOS CULPOSOS
 
-###### ARTÍCULO 204.
+###### Artículo 204.
 
-Las disposiciones del artículo 202 no comprenden la correspondencia que circule por la estafeta, los telegramas y radiogramas de servicio federal.
+Las personas físicas o morales que realicen las actividades a que se refiere este Capítulo estarán obligadas a:
 
-###### ARTÍCULO 205.
+I. Controlar la emisión o el desprendimiento de polvos, humos o gases que puedan afectar el equilibrio ecológico, así como de sus residuos y evitar su propagación fuera de los terrenos en los que lleven a cabo las actividades;
 
-Se aplicarán de uno a tres años de prisión y multa de uno a diez días, al que empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones, o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
+II. Implementar un programa de restauración del sitio;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+III. Restaurar la cubierta vegetal necesaria para evitar cualquier proceso de erosión o alteración de los cuerpos de agua;
 
-###### ARTÍCULO 206.
+IV. Aplicar las medidas necesarias para conservar la capacidad de infiltración de aguas al subsuelo;
 
-Se equiparará a la resistencia y se impondrá la misma sanción que a ésta, las siguientes modalidades:
+V. Evitar las alteraciones en el ambiente ocasionadas con la realización de las obras de acceso al sitio y extracción de los materiales;
 
-I. La coacción hecha a la autoridad pública por medio de la violencia física o moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones, o
+VI. Sujetarse a las demás disposiciones que determine la Secretaría para evitar los impactos al ambiente, y;
 
-II. Quien se oponga, obstruya, impida total o parcialmente que se cumpla la función de investigación de los delitos.
+VII. Pagar los derechos correspondientes por explotación y aprovechamiento de minerales o sustancias no reservadas a la Federación.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+###### Artículo 205.
 
-###### ARTÍCULO 207.
+El permiso para la realización de las actividades a que se refiere este Capítulo en zonas urbanas o en áreas cercanas a centros de población podrá negarse o suspenderse cuando a juicio de la Secretaría se ponga en serio peligro el equilibrio ecológico o al ambiente de la localidad, así como la integridad de las personas y los bienes.
 
-Al que sin causa legítima rehusare prestar un servicio de interés público a que la Ley lo obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de uno a cinco años de prisión y multa de uno a cinco días.
+###### Artículo 206.
 
-###### ARTÍCULO 208.
+Corresponde a la Procuraduría vigilar que los responsables de la exploración, explotación y aprovechamiento de los recursos minerales o sustancias a que se refiere este Capítulo, cumplan con las disposiciones de esta Ley, el reglamento respectivo y las demás aplicables en la materia.
 
-Al que sin excusa legal se negare a comparecer ante la autoridad a rendir su declaración, cuando legalmente se le exija, no será considerado como responsable del delito previsto en el artículo anterior, sino después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa, en su caso, para que comparezca a declarar o a rendir los informes que se le pidan.
+###### Artículo 207.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Para la preservación y la restauración del equilibrio ecológico y la protección al ambiente en los centros de población, se considerarán los siguientes criterios:
 
-###### ARTÍCULO 209.
+I. La existencia y bienestar del hombre no sólo depende de los sistemas que éste ha creado, sino en gran parte de los ecosistemas naturales, los que, entre otras características, regulan el clima, retienen el agua y el suelo, depuran la atmósfera y sirven de esparcimiento y son objeto de conocimiento científico;
 
-El que debiendo ser examinado en una averiguación, en un proceso penal o como testigo en un juicio civil sin que le aprovechen las excepciones establecidas por las leyes de la materia según el caso, se niegue a otorgar la protesta de ley o a declarar, se le aplicará de inmediato, como medio de apremio y previo apercibimiento, una multa de uno a cinco días, si persistiere en su actitud, se le sancionará con prisión de uno a cinco años de prisión.
+II. La preservación del equilibrio ecológico es condición imprescindible para que tenga lugar el desarrollo sostenido en la entidad, y;
+
+III. Es necesaria la participación de todos los sectores de la población en las tareas de preservación y restauración del equilibrio ecológico.
+
+###### Artículo 208.
+
+Para llevar a cabo las acciones de preservación y restauración del equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los servicios públicos a cargo del Estado o de los ayuntamientos, o bien en concurso entre ambos órdenes de gobierno, se deberán observar los principios, políticas y criterios ecológicos aplicables y las disposiciones previstas por esta Ley. Los concesionarios que tengan a su cargo la prestación de algunos de los servicios públicos deberán observar las disposiciones de la presente ley, de los reglamentos y de las normas oficiales mexicanas.
+
+###### Artículo 209.
+
+La prevención y el control de emergencias ecológicas y contingencias ambientales corresponden al Estado, por conducto de la Secretaría, cuando la magnitud o gravedad de los desequilibrios ecológicos rebasen el territorio de dos o más municipios, sin perjuicio de la participación de éstos.
 
 ## TÍTULO DÉCIMO. RESPONSABILIDAD PROFESIONAL
 
 ### CAPÍTULO III. SANCIÓN PARA LA TENTATIVA
 
-###### ARTÍCULO 210.
+###### Artículo 210.
 
-Cuando la ley autorice el empleo del apremio para hacer efectiva las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio, sin haberse logrado aquél objeto.
+La prevención y el control de emergencias ecológicas y contingencias ambientales serán competencia de los ayuntamientos cuando la magnitud o gravedad de los desequilibrios ecológicos o los daños al ambiente no rebasen el territorio del Municipio respectivo, o cuando no se haga necesaria la acción exclusiva del Estado o de la Federación. En el último de los casos, los municipios solicitarán la intervención de la Federación debiendo dar aviso al Estado.
 
-###### ARTÍCULO 211.
+###### Artículo 211.
 
-El que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, mandados hacer con los requisitos legales por la autoridad competente, o con su autorización, será sancionado con prisión de tres meses a un año y multa de uno a cinco días.
+Corresponderá a la Secretaría proponer al Titular del Ejecutivo Estatal la adopción de las medidas necesarias para la prevención y el control de emergencias ecológicas y contingencias ambientales. Igualmente, le corresponderá la aplicación, en el ámbito de su competencia, de dichas medidas y su coordinación, cuando deban intervenir dos o más dependencias estatales para la atención de las emergencias y contingencias señaladas.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+###### Artículo 212.
 
-###### ARTÍCULO 212.
+El Gobierno Estatal y los Municipios deberán promover la participación corresponsable de la sociedad y comunidad estudiantil en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
 
-Cuando el delito se cometa por dos o más personas, de común acuerdo, la sanción será de tres meses a tres años de prisión y multa de dos a diez días de Unidad de Medida y Actualización, si sólo se hiciere una simple oposición material, sin violencia a las personas; existiendo violencia, la sanción será de uno a cuatro años de prisión y multa de dos a diez días, sin perjuicio de observar las reglas del concurso.
+###### Artículo 213.
 
-###### ARTÍCULO 213.
+La Secretaría y los Gobiernos Municipales en sus respectivas jurisdicciones promoverán, en congruencia con el Sistema Estatal de Planeación Democrática, el establecimiento del Consejo Consultivo Estatal o Municipal para el Desarrollo Sustentable, como órganos de concertación social y de coordinación institucional entre las dependencias gubernamentales en el ámbito federal, estatal y municipal con los diferentes sectores sociales.
 
-Al que viole los sellos puestos por orden de la autoridad pública, se aplicará de tres meses a tres años de prisión.
+###### Artículo 214.
 
-###### ARTÍCULO 214.
+Se establece el Consejo Estatal para el Desarrollo Sustentable como un órgano permanente de coordinación institucional y de concertación social entre las dependencias y entidades estatales y los ayuntamientos, y los representantes de los sectores social y privado, así como la sociedad en general.
 
-Cuando de común acuerdo violaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, se les aplicará la sanción señalada en el artículo anterior.
+Al Consejo Estatal para el Desarrollo Sustentable le corresponde:
+
+I. Proponer prioridades, programas y acciones ecológicas y de protección al ambiente;
+
+II. Impulsar la participación de los sectores público, social y privado en los programas y acciones que impulsen las autoridades;
+
+III. Promover la incorporación de la variable ambiental en la toma de decisiones políticas, económicas y sociales en todos los órdenes de gobierno, sectores económicos y sociedad;
+
+IV. Evaluar periódicamente los resultados de las políticas, programas, estudios y acciones específicas en materia de protección del medio ambiente y de aprovechamiento sustentable de los recursos naturales, a partir de los informes que proporcionen las autoridades competentes;
+
+V. Elaborar recomendaciones para mejorar las leyes, reglamentos y procedimientos relativos a la protección del medio ambiente y el aprovechamiento sustentable de los recursos naturales, y
+
+VI. Promover la integración de los consejos municipales de ecología en los municipios del Estado.
 
 ## TÍTULO DÉCIMO PRIMERO. FALSEDAD
 
 ### CAPÍTULO IV. SANCIONES EN LOS CASOS DE CONCURSOS
 
-###### ARTÍCULO 215.
+###### Artículo 215.
 
-Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará de tres a siete años de prisión, además de las sanciones que le corresponda por el delito o los delitos cometidos.
+El Consejo Estatal para el Desarrollo Sustentable se integrará por:
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2020)</small>
+I. Las instituciones y organizaciones no gubernamentales, legalmente constituidas y registradas en el estado y que tengan relación con los asuntos ambientales, podrán nombrar un representante titular y un suplente ante el Consejo;
 
-Cuando las conductas a que se refiere el párrafo anterior, sean en contra de cualquier trabajador, médico, cirujano, personal de enfermería, pasante o demás profesionistas similares o auxiliares de las dependencias y entidades públicas del Sistema Estatal de Salud, durante el periodo que comprenda la declaración de una contingencia o una emergencia sanitaria, la pena de prisión deberá aumentarse hasta en una mitad.
+II. Representantes de las dependencias y organismos federales y estatales cuyas actividades tengan implicaciones en la protección ambiental y en el aprovechamiento de recursos naturales, nombrando a un titular y a un suplente; en el caso de los municipios podrán participar los regidores que manejen las cuestiones ambientales;
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2019)</small>
+III. El Congreso del Estado participará a través de un representante de la Comisión de Ecología;
 
-###### ARTÍCULO 216.
+IV. El Presidente del Consejo Consultivo Estatal será electo por voto directo de los miembros del Consejo debidamente registrados y de la misma forma se hará para la elección del Secretario Técnico, y;
 
-Comete el delito contra la seguridad pública y se le impondrán de tres a siete años de prisión y multa de doscientos a cuatrocientos días a quien incurra en cualquiera de las conductas siguientes:
+V. El Consejo Consultivo Estatal regirá su funcionamiento de acuerdo a un reglamento interior que él mismo apruebe en un plazo no mayor a noventa días después de su formación. Asimismo, el Presidente podrá invitar a participar en las reuniones del Consejo a representantes de las dependencias y entidades de la administración pública federal en el Estado, así como de los ayuntamientos, cuando se traten asuntos que incidan en sus ámbitos de competencias o territorial.
 
-I. Utilice instrumentos punzocortantes, punzo contundentes, contuso cortantes, contuso contundentes, que por su resistencia o su fuerza, dañe o impida el paso de vehículos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas, con la finalidad de favorecer la comisión de delitos o de posibilitarle la huida a un delincuente o grupo delincuencial;
+Los integrantes del Consejo no tendrán relación laboral alguna con el Gobierno del Estado o con los Municipios, en virtud de que su encargo será de carácter honorífico, pudiendo designar a sus respectivos suplentes.
 
-II. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, equipos de comunicación de cualquier tipo;
+El funcionamiento del Consejo se especificará en el reglamento respectivo.
 
-III. Posea, porte o utilice equipos o artefactos que permitan la intervención, escucha o transmisión de datos para prácticas de espionaje, con respecto a canales de comunicaciones oficiales o privadas, estos últimos cuando sean utilizados para funciones de seguridad pública;
+###### Artículo 216.
 
-IV. Permita o consienta la instalación de antenas o cualquier instrumento de comunicación en bienes de su propiedad o posesión, con los cuales se intercepte o transmita la señal o las comunicaciones para el espionaje o halconeo;
+En cada Municipio se constituirá un Consejo Municipal de Ecología, que se integrarán (sic) y funcionarán (sic) en los términos que establezca el reglamento respectivo.
 
-V. Posea, porte o utilice para el espionaje, en su persona, domicilio o en el lugar donde se le aprehenda, uniformes, prendas de vestir, insignias, distintivos o equipos correspondientes o similares a los utilizados por cualquiera de las instituciones o corporaciones policiales municipales, estatales, federales o de las fuerzas armadas mexicanas, o que simulen la apariencia de los utilizados por éstas;
+###### Artículo 217.
 
-VI. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, escritos o mensajes producidos por cualquier medio, que tengan relación con alguna pandilla o miembros de la delincuencia organizada, de algún grupo o actividades delictivas; así como de las actividades de las corporaciones de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas;
+La Secretaría, con la participación de los ayuntamientos, constituirá un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental del Estado.
 
-VII. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, accesorios u objetos que se utilizan en los vehículos oficiales de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas;
+El Sistema se integrará con la información siguiente:
 
-VIII. Detente, posea, conduzca o custodie un vehículo que simule ser de las corporaciones de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas para el espionaje, se le incrementará hasta la mitad de la sanción, prevista en este artículo, y
+I. Los inventarios de los recursos naturales existentes en el Estado;
 
-IX. Dañe, altere o impida el funcionamiento o monitoreo de cámaras de vigilancia en la vía pública, establecimientos o edificios públicos, instaladas para ser utilizadas por las instituciones de seguridad pública o de las fuerzas armadas mexicanas, con la finalidad de favorecer la comisión de delitos o de posibilitarle la huida a un delincuente o grupo delincuencial.
+II. Los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo;
 
-Las mismas penas se impondrán a los participantes que se vean involucrados en la ejecución de alguno de los supuestos descritos en las fracciones del párrafo anterior.
+III. El registro de emisiones y transferencia de contaminantes;
 
-La pena se incrementará hasta la mitad cuando se empleen menores de edad, personas con discapacidad o de la tercera edad para la comisión de este delito.
+IV. El ordenamiento ecológico estatal y municipal, y;
 
-Para los fines de este artículo se entenderá por:
+V. La información correspondiente a las declaraciones, registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección del ambiente en el Estado.
 
-I. Halconeo: La acción de acechar, vigilar o cualquier acto encaminado a obtener y comunicar información a una agrupación delictiva sobre las acciones y, en general, las labores de los elementos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas, con la finalidad de favorecer la comisión de delitos o de posibilitarle la huida a un delincuente o grupo delincuencial.
+La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas y de trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, que se realicen en el Estado.
 
-II. Espionaje: Intervenir comunicaciones privadas u oficiales, utilizando cualquier medio tecnológico, para obtener y comunicar información a una agrupación delictiva sobre las acciones y, en general, las labores de los elementos de seguridad pública municipal, estatal, federal o de las fuerzas armadas mexicanas, con la finalidad de favorecer la comisión de delitos o posibilitarle la huida a un delincuente o grupo delincuencial.
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2019)</small>
+La Secretaría en coordinación con la Secretaría de Salud en el Estado, tendrán la obligación de difundir y hacer del conocimiento público a través de los medios de comunicación social que correspondan y con apoyo de los municipios en su caso, reportes de la información ambiental del Estado; así como de los riesgos a la salud y las recomendaciones a la sociedad civil en general, a fin de que se tomen medidas y cuidados adecuados necesarios para salvaguardar la salud.
 
-ARTÍCULO 216 BIS.- Se incrementará hasta una mitad más de la pena de prisión que le corresponda, al que realice la conducta descrita en el artículo anterior utilizando para ello cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
-
-De igual manera, se incrementará hasta el doble de la sanción prevista en el artículo 216, a quien siendo elemento de los cuerpos de seguridad pública municipales, estatales, federales, de las fuerzas armadas mexicanas, de seguridad privada o de traslado de valores, porte o utilice teléfonos móviles, radiofrecuencias, radiotransmisiones o cualquier aparato de comunicación y filtre información relativa a las actividades de los cuerpos de seguridad pública municipales, estatales, federales o de las fuerzas armadas mexicanas para grupos delictivos, con la finalidad de favorecer la comisión de delitos o posibilitarle la huida a un delincuente o grupo delincuencial.
-
-Así también, se incrementará hasta el doble de la sanción prevista en el artículo 216, a quienes hayan tenido el carácter de servidores públicos en materia de seguridad pública de los tres niveles de gobierno de los cuerpos de seguridad pública o de las fuerzas armadas mexicanas.
-
-###### ARTÍCULO 217.
-
-(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
+El Registro Estatal de Áreas Naturales Protegidas a que se refiere el artículo 79 de esta Ley formará parte del Sistema Estatal de Información Ambiental y de Recursos Naturales.
 
 ## TÍTULO DÉCIMO SEGUNDO. EXPLOTACIÓN DE MENORES O PERSONAS CON DISCAPACIDAD
 
 ### CAPÍTULO V. PUNIBILIDAD PARA LA COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
 
-###### ARTÍCULO 218.
+###### Artículo 218.
 
-Al que ultraje las insignias del Estado o de un Municipio o de cualquiera de sus Instituciones, se le aplicarán de tres meses a dos años de prisión.
+La Secretaría en coordinación con la Procuraduría, elaborará y publicará, cada tres años, un informe detallado de la situación general existente en el Estado en materia de equilibrio ecológico y protección al ambiente.
 
-###### ARTÍCULO 219.
+Asimismo, la Secretaría editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, criterios ecológicos, declaratorias, decretos, acuerdos y programas, así como información relacionada con las áreas naturales protegidas, la preservación y el aprovechamiento sustentable de los recursos naturales, y la que sea de interés general en materia ambiental.
 
-(DEROGADO, P.O. 28 DE MARZO DE 2023)
+###### Artículo 219.
+
+Las personas a quienes la Secretaría entregue información ambiental del Sistema serán responsables de su adecuada utilización y deberán responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
 ## TRANSITORIOS
 
@@ -2739,11 +3299,9 @@ B.O. 20 DE SEPTIEMBRE DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+Se expide la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, para quedar como sigue:
 
-B.O. 27 DE JUNIO DE 2013.
-
-DECRETO NÚMERO 26, POR EL QUE SE ADICIONA UN CAPÍTULO IV BIS AL TÍTULO SÉPTIMO Y UN ARTÍCULO 155 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA.
+LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2903,7 +3461,13 @@ El presente decreto entrará en vigor el día de su publicación en el Boletín 
 
 B.O. 18 DE ENERO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 41, QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 75 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 748.- MEDIANTE EL CUAL ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PAR (SIC) EL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2911,7 +3475,13 @@ El presente decreto entrará en vigor el día de su publicación en el Boletín 
 
 B.O. 7 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 50, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 824.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PECUARIA DEL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE (SIC) EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE OCTUBRE DE 2020.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2919,7 +3489,13 @@ El presente Decreto, previa su publicación en el Boletín Oficial del Gobierno 
 
 B.O. 7 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 51, QUE REFORMA EL ARTÍCULO 117 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1601.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE OCTUBRE DE 2021.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2927,7 +3503,21 @@ El presente Decreto, previa su publicación en el Boletín Oficial del Gobierno 
 
 B.O. 9 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 66, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2700.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 128 BIS A LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. - La Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca, contara con (sic) periodo de 90 días naturales posteriores a la publicación de este Decreto para emitir el listado previsto en el párrafo tercero del artículo 128 Bis de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca.
+
+CUARTO. - Los establecimientos comerciales y mercantiles dispondrán de un lapso de 180 días naturales posteriores a la publicación del listado a que se refiere el Artículo Segundo Transitorio del presente Decreto para terminar su inventario de los productos prohibidos; así como para elaborar el plan de sustitución de los mismos.
+
+QUINTO. - La Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca a la entrada en vigor de este Decreto, deberá de promover mediante campañas de difusión las prohibiciones a las que se refiere el artículo 128 Bis de la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, principalmente entre distribuidores y usuarios de químicos y agroquímicos.
+
+SEXTO. - Se derogan todas las disposiciones de igual o menor jerarquía que se opongan el (sic) presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2021.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2935,7 +3525,13 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 
 B.O. 11 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2725.- MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO CUARTO, RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 217 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE OCTUBRE DE 2021.
 
 ###### ARTICULO PRIMERO.
 
@@ -2957,7 +3553,11 @@ Asimismo, el Instituto Superior de Auditoría y Fiscalización transferirá al p
 
 B.O. 26 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2763.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXXVIII DEL ARTÍCULO 6 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 ###### ARTÍCULO PRIMERO.
 
