@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2017-08-03"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -9405,9 +9407,9 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 Testamento Público Simplificado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE ENERO DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE JUNIO DE 2018)</small>
 
-Art. 1625 BIS.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda para el adquiriente en la misma escritura que consigne su adquisición o el que se otorgue en el mismo documento en que conste su adquisición proveniente de enajenaciones realizadas con Dependencias o entidades de la Administración Pública Estatal o Federal o en acto posterior, de conformidad con lo siguiente:
+Art. 1625 BIS.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda para el adquirente en la misma escritura que consigne su adquisición o el que se otorgue en el mismo documento en que conste su adquisición proveniente de enajenaciones realizadas con Dependencias o entidades de la Administración Pública Municipal, Estatal, o Federal o en acto posterior, de conformidad con lo siguiente:
 
 > <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -19414,3 +19416,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 218 QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL Y LA LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se deberá publicar en el Boletín Oficial del Gobierno del Estado de Sonora y entrará en vigor a partir del 1° de enero del año 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días anteriores a que el presente Decreto entre en vigor, la Secretaría de la Consejería Jurídica del Gobierno del Estado con el apoyo de las dependencias que considere necesario, deberán llevar a cabo la capacitación a los servidores públicos estatales y municipales encargados de aplicar la normatividad aquí aprobada.
