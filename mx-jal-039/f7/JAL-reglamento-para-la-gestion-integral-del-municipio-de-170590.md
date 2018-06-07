@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2018-04-12"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 7 DE JUNIO DE 2018.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -703,11 +703,13 @@ b) Asimilar la totalidad de la superficie del Predio con la zonificación de may
 
 c) Los predios que tienen colindancia con dos o más vialidades con Zonificación Secundaria distinta, podrán asimilar la totalidad de su superficie a la Zonificación Secundaria con el uso del suelo de mayor impacto de la zona urbana contigua o inmediata, siempre y cuando se condicione a que las actividades económicas, de carga y descarga y de estacionamiento, se realicen únicamente sobre la vialidad donde se encuentra la Zonificación Secundaria con el uso de mayor impacto al contexto que originó dicha asimilación.
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 7 DE JUNIO DE 2018)</small>
 
 ###### Artículo 28.
 
-Cuando se fusionen dos o más predios, y estos tengan una zonificación diferente, el propietario podrá optar por la zonificación que más le convenga de los predios que formen la fusión, con excepción de Predio (sic) clasificados como Espacios Abiertos, Restricciones por Infraestructura o Áreas No Urbanizables, los cuales deberán respetar su uso original. En caso de que el Predio resultante de la fusión tenga frente a dos o más vialidades, los ingresos y salidas al mismo dependerán de la opinión técnica emitida por la Dirección de Movilidad y Transporte.
+Cuando se fusionen dos o más predios, y estos tengan una zonificación diferente, el propietario podrá optar por la zonificación que más le convenga de los predios que formen la fusión, con excepción de Predios clasificados como Espacios Abiertos, Restricciones, por Infraestructura o Áreas No Urbanizables, los cuales deberán respetar su uso original. En caso de que el Predio resultante de la fusión tenga frente a dos o más vialidades, los ingresos y salidas al mismo dependerán de la opinión técnica emitida por la Dirección de Movilidad y Transporte.
+
+Cuando en los Planes Parciales se declaren polígonos de desarrollo controlado, en los respectivos convenios que se celebren con las asociaciones vecinales a que se refiere el artículo 74 de este Reglamento, podrá establecerse la excepción en la aplicación de la disposición contenida en el párrafo primero, de tal forma que los propietarios de los predios que se fusionen y que se encuentren dentro del polígono, no podrán optar por una zonificación diferente a la establecida para cada predio en el Plan Parcial de Desarrollo Urbano aplicable. Para que esta disposición surta efectos, el convenio respectivo debe estar aprobado por el Pleno del Ayuntamiento y publicado en la Gaceta Municipal de Guadalajara.
 
 ### CAPÍTULO II. Del Control de Usos y Destinos para las Zonas
 
@@ -1409,9 +1411,11 @@ Las asociaciones vecinales legalmente constituidas y registradas ante la Direcci
 
 Los convenios celebrados entre asociaciones y el Ayuntamiento para la determinación de acciones en el polígono de desarrollo controlado, deberán contener, por lo menos, su objeto, el límite territorial del polígono, la duración del convenio y los compromisos de cada una de las partes. Las atribuciones exclusivas del Municipio contenidas en la Constitución Política de los Estados Unidos Mexicanos, leyes y reglamentos, no pueden formar parte de los compromisos antes señalados.
 
+> <small>(REFORMADO, G.M. 7 DE JUNIO DE 2018)</small>
+
 ###### Artículo 76.
 
-En los polígonos de desarrollo controlado, podrán determinarse lo siguiente:
+En los polígonos de desarrollo controlado, a través de los convenios respectivos, podrán determinarse lo siguiente:
 
 I. Normas de configuración urbana e imagen visual:
 
@@ -1425,7 +1429,15 @@ d) Anuncios y nomenclatura; e
 
 e) Imagen urbana.
 
-II. Modelos de gestión de los servicios públicos domiciliarios.
+II. Modelos de gestión de los servicios públicos domiciliarios; y
+
+> <small>(ADICIONADA, G.M. 7 DE JUNIO DE 2018)</small>
+
+III. Restricciones en la permisibilidad de giros y condicionantes para su autorización o funcionamiento.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN III, G.M. 7 DE JUNIO DE 2018.]</small>
+
+En el caso de la fracción III, el convenio deberá someterse a la aprobación del Pleno del Ayuntamiento y publicarse en la Gaceta Municipal de Guadalajara, a fin de que surtan sus plenos efectos las disposiciones en dicha materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -5422,3 +5434,13 @@ Tercero. Para estaciones que obtuvieron resolutivo en materia de Impacto Ambient
 Cuarto. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
 Quinto. Solicítese a la Procuraduría Federal del Consumidor, Delegación Jalisco, opinión respecto de las políticas y medidas que se están realizando en dicho organismo con relación a las estaciones de servicio que comercian etanol.
+
+G.M. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA.]
+
+Primero. Publíquese el presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente reglamento, remítase mediante oficio un tanto de este al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
