@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2018-05-15"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -165,15 +165,9 @@ IV.- Cuando alguien hubiere sido conocido con nombre diferente al que aparece en
 
 Declarado el cambio de nombre en los casos que establece el Código Civil y ordenamientos complementarios, por sentencia ejecutoriada, o realizada la enmienda del mismo por resolución administrativa en los casos en que lo establece la ley, se asentará el mismo en el acta de nacimiento, subsistiendo en los libros del Registro Civil nombre de la persona que primeramente se haya asentado.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+ART. 19.4.- (DEROGADO, P.O. 7 DE JUNIO DE 2018)
 
-ART. 19.4.- La mujer casada podrá agregar a su nombre de soltera y anteponiendo la preposición "de" uno o dos apellidos de su marido.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 19.5.- El uso del apellido conyugal, subsistirá por todo el tiempo que se conserve el vínculo matrimonial o cuando ocurra la viudez.
-
-No se podrá utilizar dicho apellido en los casos de divorcio o de ilegitimidad del matrimonio.
+ART. 19.5.- (DEROGADO, P.O. 7 DE JUNIO DE 2018)
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -10530,5 +10524,13 @@ P.O. 15 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 951.- SE REFORMA EL ARTÍCULO 2319, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 971.- SE DEROGAN LOS ARTÍCULOS, 19.4, Y 19.5, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
