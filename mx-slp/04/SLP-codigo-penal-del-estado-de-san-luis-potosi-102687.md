@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-05-17"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3285,9 +3285,27 @@ Comete el delito de desobediencia a un mandato legítimo de autoridad quien, sin
 
 Este delito se sancionará con una pena de un mes a un año de prisión y sanción pecuniaria de diez a cien días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO I. Delitos contra el Ambiente
+### CAPÍTULO IV. Quebrantamiento de Medida Cautelar, o de Sanción
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 293 BIS. Comete el delito de quebrantamiento de sanción, la persona privada de su libertad con motivo de la imposición de una medida cautelar de prisión preventiva, o por el cumplimiento de una pena de prisión, impuestas por autoridad competente, que se fugue de un centro penitenciario.
+
+Este delito se sancionará con las siguientes penas:
+
+I. De dos a cuatro años de prisión, si la persona que se fugó hubiere estado privada de su libertad por la imposición de medida cautelar por delito no grave;
+
+II. De tres a seis años de prisión si la persona que se fugó hubiere estado privada de su libertad bajo (sic) derivado de imposición de medida cautelar por la comisión de delito grave;
+
+III. De cuatro a ocho años de prisión si la persona que se fugó hubiere estado privada de su libertad por imposición de pena de prisión por sentencia, que concediendo la sustitución de la pena, no se hubiere otorgado por falta de cumplimiento con algún requisito formal, y
+
+IV. De cinco a diez años de prisión si la persona que se fugó hubiere estado privada de su libertad por imposición de pena de prisión por sentencia, que no conceda la sustitución de la pena.
+
+Las penas anteriores se incrementarán en un tercio, cuando la persona obre de concierto con otra u otras personas privadas de su libertad y se fugue alguna de ellas o ejerciere violencia en las personas. Este delito se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 293 TER. A la persona privada de su libertad que se fugue mientras compurga alguna pena privativa de libertad, o en cumplimiento de una medida cautelar de prisión preventiva, no se le contará el tiempo que pase fuera del lugar en que deba hacerla efectiva, ni se tendrá en cuenta la buena conducta que haya tenido antes de la fuga.
 
 ###### ARTÍCULO 274.
 
@@ -3297,9 +3315,9 @@ Comete el delito de resistencia quien, empleando la fuerza, el amago o la amenaz
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO II. Delitos contra la Gestión Ambiental
+### CAPÍTULO I. Delitos contra el Ambiente
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 275.
 
@@ -3309,9 +3327,9 @@ Comete el delito de coacción quien presiona a la autoridad por medio de la viol
 
 Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO III. Delitos contra el Desarrollo Territorial Sustentable
+### CAPÍTULO II. Delitos contra la Gestión Ambiental
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 276.
 
@@ -3323,7 +3341,9 @@ Este delito se sancionará con una pena de uno a tres años de prisión y sanci�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO IV. Disposiciones comunes a los Delitos previstos en los Capítulos I a III
+### CAPÍTULO III. Delitos contra el Desarrollo Territorial Sustentable
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 277.
 
@@ -3333,9 +3353,7 @@ QUIEN EJECUTE ACTOS VIOLENTOS O AGRESIVOS EN CONTRA DE UN SERVIDOR O FUNCIONARIO
 
 > <small>(DEROGADO TERCER PÁRRAFO. P.O. 17 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO V. Maltrato a los Animales Domésticos
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2017)</small>
+### CAPÍTULO IV. Disposiciones comunes a los Delitos previstos en los Capítulos I a III
 
 ###### ARTÍCULO 278.
 
@@ -3357,9 +3375,9 @@ En los artículos anteriores en caso de reincidencia se impondrá hasta el doble
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA ADECUADA PROCURACIÓN E IMPARTICIÓN DE JUSTICIA
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. Maltrato a los Animales Domésticos
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 280.
 
@@ -3395,7 +3413,7 @@ Los adquirientes o detentadores no serán sancionados, cuando acrediten legalmen
 
 No se impondrá sanción alguna, en el caso de la fracción I del artículo 280 de este Código, al cónyuge, concubina, concubinario, ascendientes o descendientes consanguíneos del delincuente o colaterales hasta en segundo grado.
 
-### CAPÍTULO II. Cohecho
+### CAPÍTULO I. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3419,9 +3437,9 @@ Este delito se sancionará con una pena de uno a tres años de prisión, sanció
 
 En el caso de la fracción III de este artículo, la pena será de uno a cuatro años de prisión y sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO III. Ejercicio ilícito de las Funciones Públicas
+### CAPÍTULO II. Cohecho
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 285.
 
@@ -3437,11 +3455,13 @@ Se aplicarán las mismas penas a quien simule o aporte pruebas falsas en cualqui
 
 Cuando el delito a que se refiere este capítulo sea cometido por un servidor público, las penas se duplicarán y se impondrán la destitución e inhabilitación, por el doble de la pena de prisión impuesta, para desempeñar empleo, cargo o comisión públicos.
 
-### CAPÍTULO IV. Abandono de las Funciones Públicas
+### CAPÍTULO III. Ejercicio ilícito de las Funciones Públicas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO V. Coalición
+### CAPÍTULO IV. Abandono de las Funciones Públicas
 
 ###### ARTÍCULO 287.
 
@@ -3459,11 +3479,11 @@ Este delito se sancionará con una pena de uno a cinco años de prisión, sanci�
 
 En caso de indígenas, o campesinos, la acreditación como instrumento de trabajo será otorgada por la autoridad comunitaria.
 
+### CAPÍTULO V. Coalición
+
 ### CAPÍTULO VI. Abuso de Autoridad
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-### CAPÍTULO VII. Tortura
 
 ###### ARTÍCULO 288.
 
@@ -3483,11 +3503,7 @@ Para los efectos de esta disposición se entiende por pandilla, la reunión habi
 
 Cuando quien cometa el delito a que se refiere el presente capítulo sea o haya sido servidor público de alguna corporación policíaca, las penas a que se refiere el artículo 288 de este Código se aumentarán en una mitad y se le impondrá, además, destitución, en su caso, del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro por el doble de la pena de prisión impuesta.
 
-### CAPÍTULO VIII. Tráfico de Influencia
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 336 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 336 ... Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de, cien a cuatrocientos días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+### CAPÍTULO VII. Tortura
 
 ###### ARTÍCULO 291.
 
@@ -3515,19 +3531,23 @@ Si se trata de un servidor público, se le incrementará en una mitad la pena se
 
 Si el procesado o sentenciado fue inculpado por cualquier delito de los considerados como graves, a quien propicie su evasión se le impondrá una pena de siete a quince años de prisión y sanción pecuniaria de setecientos a mil quinientos días del valor de la unidad de medida y actualización. Si el que propicia la evasión, en este caso, fuere servidor público, será, además, destituido de su empleo, cargo o comisión y se le inhabilitará para desempeñar cualquier otro por un tiempo igual al doble de la pena de prisión impuesta.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO VIII. Tráfico de Influencia
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 336 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 336 ... Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de, cien a cuatrocientos días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+
 ### CAPÍTULO IX. Concusión
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 337 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 337 ... Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días del valor de la unidad de medida y actualización, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos."]</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO X. Peculado
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
-
 ## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL AMBIENTE; LA GESTION AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMESTICOS
 
-### CAPÍTULO XI. Enriquecimiento Ilícito
+### CAPÍTULO X. Peculado
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3675,9 +3695,7 @@ III. Una barranca, o
 
 IV. Un área verde en suelo urbano.
 
-### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+### CAPÍTULO XI. Enriquecimiento Ilícito
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -3751,7 +3769,11 @@ VIII. Preste sus servicios como auditor técnico, especialista o perito o especi
 
 Los delitos previstos en el presente capítulo se perseguirán de oficio y en su caso, por la denuncia o querella que presente la Secretaria de Ecología y Gestión Ambiental.
 
-### CAPÍTULO XIII. Deslealtad al Empleo, Cargo o Comisión, o Perjuicio al Servicio Público
+### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 306.
 
@@ -3805,6 +3827,50 @@ VI. Expida autorización sin observar los análisis de riesgo; y los atlas, muni
 
 VII. Realice obras, o edificaciones en suelos destinados a, vialidades; áreas verdes; bienes de dominio público; o lugares que tengan legal, o administrativamente reconocido su valor paisajístico, ecológico, artístico, histórico, o cultural, o que por los mismos motivos hayan sido considerados de especial protección.
 
+### CAPÍTULO XIII. Deslealtad al Empleo, Cargo o Comisión, o Perjuicio al Servicio Público
+
+###### ARTÍCULO 309.
+
+Para los efectos de los capítulos I a III del presente Título se estará a las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección Ambiental; y la Ley Ambiental del Estado de San Luis Potosí, así como las determinadas en los ordenamientos aplicables.
+
+###### ARTÍCULO 310.
+
+Los delitos previstos en los capítulos I a III del presente Título se perseguirán por querella; salvo que el daño ambiental ocasionado sea irreversible, en cuyo caso se perseguirán de oficio.
+
+###### ARTÍCULO 311.
+
+La Secretaría de Ecología y Gestión Ambiental deberá coadyuvar con la autoridad que conozca de la investigación, o el proceso penal seguido por las denuncias o querellas, respecto de los delitos a que se refieren los capítulos I a III de este Titulo.
+
+La Secretaría de Ecología y Gestión Ambiental del Estado tiene la facultad para otorgar el perdón, por la comisión de delitos tipificados en los capítulos I a III del presente Título, en los casos que proceda.
+
+###### ARTÍCULO 312.
+
+El juez competente a petición de parte, podrá reducir las penas impuestas para los delitos previstos en los capítulos I a III de este Titulo, hasta en tres cuartas partes, cuando él o los responsables hayan restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta; y cuando ello no sea posible, ejecutando las acciones u obras que compensen los daños e impactos ambientales que se hubiesen generado.
+
+A efecto de que pueda acreditarse el supuesto de procedencia de la enunciada atenuante, deberá constar en autos, dictamen técnico favorable emitido por la autoridad ambiental competente en el Estado.
+
+###### ARTÍCULO 313.
+
+Para los efectos de los capítulos I a III del presente Título, la reparación del daño se ordenará a petición del Ministerio Público, e incluirá además:
+
+I. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito; cuando ello no sea posible, la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado; y si ninguna de ellas fuera posible, el pago de una indemnización que se integrará a los recursos del Fondo Ambiental Público previsto en la Ley Ambiental del Estado.
+
+Para determinar el monto de la indemnización a que se refiere esta fracción, el juez deberá considerar los daños ambientales ocasionados, el valor de los bienes afectados, y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso, en un dictamen técnico emitido por la autoridad ambiental competente, para fijar el monto de la indemnización correspondiente, la cual, en ninguno de los casos, deberá ser inferior al valor de las bienes afectados, o de los beneficios obtenidos por la conducta, y
+
+II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
+
+###### ARTÍCULO 314.
+
+Tratándose de los delitos previstos en los capítulos I a III de este Título, el trabajo a favor de la comunidad consistirá en actividades relacionadas con la protección al ambiente, o la restauración de los recursos naturales.
+
+###### ARTÍCULO 315.
+
+En caso de concurso de delitos, en lo referente a la reparación del daño, tendrá preferencia la reparación del daño ambiental; con excepción de la reparación de los daños a la salud, integridad de las personas, o a la vida.
+
+###### ARTÍCULO 316.
+
+Cuando en la comisión de un delito previsto en los capítulos I a III de este Título intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y será destituido del cargo, e inhabilitará para ocupar empleo o comisión en el servicio público de tres a diez años.
+
 ### CAPÍTULO XIV. Uso ilícito de atribuciones y facultades
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
@@ -3849,62 +3915,6 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
 
-###### ARTÍCULO 309.
-
-Para los efectos de los capítulos I a III del presente Título se estará a las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección Ambiental; y la Ley Ambiental del Estado de San Luis Potosí, así como las determinadas en los ordenamientos aplicables.
-
-###### ARTÍCULO 310.
-
-Los delitos previstos en los capítulos I a III del presente Título se perseguirán por querella; salvo que el daño ambiental ocasionado sea irreversible, en cuyo caso se perseguirán de oficio.
-
-###### ARTÍCULO 311.
-
-La Secretaría de Ecología y Gestión Ambiental deberá coadyuvar con la autoridad que conozca de la investigación, o el proceso penal seguido por las denuncias o querellas, respecto de los delitos a que se refieren los capítulos I a III de este Titulo.
-
-La Secretaría de Ecología y Gestión Ambiental del Estado tiene la facultad para otorgar el perdón, por la comisión de delitos tipificados en los capítulos I a III del presente Título, en los casos que proceda.
-
-###### ARTÍCULO 312.
-
-El juez competente a petición de parte, podrá reducir las penas impuestas para los delitos previstos en los capítulos I a III de este Titulo, hasta en tres cuartas partes, cuando él o los responsables hayan restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta; y cuando ello no sea posible, ejecutando las acciones u obras que compensen los daños e impactos ambientales que se hubiesen generado.
-
-A efecto de que pueda acreditarse el supuesto de procedencia de la enunciada atenuante, deberá constar en autos, dictamen técnico favorable emitido por la autoridad ambiental competente en el Estado.
-
-###### ARTÍCULO 313.
-
-Para los efectos de los capítulos I a III del presente Título, la reparación del daño se ordenará a petición del Ministerio Público, e incluirá además:
-
-I. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito; cuando ello no sea posible, la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado; y si ninguna de ellas fuera posible, el pago de una indemnización que se integrará a los recursos del Fondo Ambiental Público previsto en la Ley Ambiental del Estado.
-
-Para determinar el monto de la indemnización a que se refiere esta fracción, el juez deberá considerar los daños ambientales ocasionados, el valor de los bienes afectados, y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso, en un dictamen técnico emitido por la autoridad ambiental competente, para fijar el monto de la indemnización correspondiente, la cual, en ninguno de los casos, deberá ser inferior al valor de las bienes afectados, o de los beneficios obtenidos por la conducta, y
-
-II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
-
-###### ARTÍCULO 314.
-
-Tratándose de los delitos previstos en los capítulos I a III de este Título, el trabajo a favor de la comunidad consistirá en actividades relacionadas con la protección al ambiente, o la restauración de los recursos naturales.
-
-###### ARTÍCULO 315.
-
-En caso de concurso de delitos, en lo referente a la reparación del daño, tendrá preferencia la reparación del daño ambiental; con excepción de la reparación de los daños a la salud, integridad de las personas, o a la vida.
-
-###### ARTÍCULO 316.
-
-Cuando en la comisión de un delito previsto en los capítulos I a III de este Título intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y será destituido del cargo, e inhabilitará para ocupar empleo o comisión en el servicio público de tres a diez años.
-
-### CAPÍTULO XV. Intimidación
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-ARTÍCULO 343 QUÁTER. Comete el delito de intimidación:
-
-I. El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas, y
-
-II. El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
-
-Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
-
 ###### ARTÍCULO 317.
 
 Comete el delito de maltrato animal, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte. Este delito se sancionará con las siguientes penas:
@@ -3931,21 +3941,19 @@ Los delitos previstos en el presente capítulo se perseguirán de oficio.
 
 ## TÍTULO DÉCIMO SEXTO. DELITOS POR HECHOS DE CORRUPCIÓN
 
-### CAPÍTULO XVI. Ejercicio abusivo de funciones
+### CAPÍTULO XV. Intimidación
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-ARTÍCULO 343 QUINQUE. Comete el delito de ejercicio abusivo de funciones:
+ARTÍCULO 343 QUÁTER. Comete el delito de intimidación:
 
-I. El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, y
+I. El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas, y
 
-II. El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la primera fracción.
+II. El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
-Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de seis meses a dos años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
-
-Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de trescientas a un mil veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 318.
 
@@ -3993,7 +4001,21 @@ Para la individualización de las sanciones previstas a los delitos de este Tít
 
 Cuando los delitos a que se refieren los artículos, 321, y 327, del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
 
-### CAPÍTULO I. Delitos Contra el Consumo
+### CAPÍTULO XVI. Ejercicio abusivo de funciones
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 343 QUINQUE. Comete el delito de ejercicio abusivo de funciones:
+
+I. El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, y
+
+II. El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la primera fracción.
+
+Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de seis meses a dos años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de trescientas a un mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 321.
 
@@ -4033,9 +4055,7 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO II. Incumplimiento a Normas de Operación o Funcionamiento
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPÍTULO I. Delitos Contra el Consumo
 
 ###### ARTÍCULO 323.
 
@@ -4083,7 +4103,9 @@ El delito a que se refiere el artículo anterior se sancionará con una pena de 
 
 Al infractor de las fracciones, IV, VI, VII, VIII, y XI del artículo anterior, se le impondrá una pena de tres a siete años de prisión, y sanción pecuniaria de trescientas a setecientas veces el valor diario de la unidad de medida y actualización.
 
-### CAPÍTULO III. Delitos Contra el Derecho de los Trabajadores
+### CAPÍTULO II. Incumplimiento a Normas de Operación o Funcionamiento
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 325.
 
@@ -4093,9 +4115,7 @@ Comete el delito de abandono de las funciones públicas el servidor público que
 
 Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización que percibía, e inhabilitación hasta por cuatro años para desempeñar empleo, cargo o comisión públicos.
 
-### CAPÍTULO I
-
-Ataques a las Vías de Comunicación y medios de Transporte.
+### CAPÍTULO III. Delitos Contra el Derecho de los Trabajadores
 
 ###### ARTÍCULO 326.
 
@@ -4113,9 +4133,9 @@ A los autores intelectuales, a los instigadores o a quienes encabecen el grupo c
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
 
-### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
+### CAPÍTULO I
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
+Ataques a las Vías de Comunicación y medios de Transporte.
 
 ###### ARTÍCULO 327.
 
@@ -4163,35 +4183,9 @@ Igualmente comete el delito de abuso de autoridad con contenido patrimonial, el 
 
 El delito de abuso de autoridad se sancionará, con una pena de uno a cinco años de prisión, sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el doble de la pena de prisión impuesta.
 
-### CAPÍTULO III. Delitos contra la Prestación del Servicio de Transporte Público de Pasajeros
+### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
-
-ARTÍCULO 360 BIS. Comete el delito contra la prestación del servicio de transporte público de pasajeros, quien, sin concesión, permiso, o autorización correspondiente vigente, preste el servicio de transporte público de pasajeros en cualquiera de sus modalidades en las vías de jurisdicción estatal y municipal.
-
-Este delito se sancionará con pena de prisión de tres a cinco años; sanción pecuniaria de trescientas a quinientas Unidades de Medida de Actualización; y suspensión hasta por un año del derecho para conducir vehículos. En caso de reincidencia, además de la pena de prisión correspondiente, se impondrá la privación definitiva del derecho de conducir vehículos.
-
-Cuando en la comisión del delito al que se refiere este artículo, tuviere intervención cualquier integrante del consejo de administración, socio, o representante legal de una empresa concesionaria o permisionaria del servicio de transporte público de pasajeros, y se cometiere bajo el amparo de aquélla, la pena aplicable se aumentará de una a dos terceras partes de las que le correspondan por el delito cometido, y se le impondrá además la suspensión y privación de derechos para prestar el servicio público que se haya otorgado.
-
-Las penas a las que se refiere el párrafo primero de este artículo, también le serán aplicadas al conductor u operador de la unidad vehicular con la que se realice el servicio, si tuviera conocimiento de que la prestación del mismo se realizaba de manera irregular.
-
-Las hipótesis normativas antes mencionadas se perseguirán por querella del usuario o persona que se vea afectada.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
-
-Al servidor público que de cualquier forma intervenga en el otorgamiento de una concesión, permiso, o autorización para la prestación del servicio de transporte público de pasajeros, sin que se cumplan los requisitos establecidos por la ley, se le impondrá de dos a diez años de prisión, multa de trescientos a ochocientos días del valor de la unidad de medida y actualización, así como la destitución del empleo, cargo, o comisión, e inhabilitación por cuatro años para ocupar otro cargo.
-
-Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa, y las sanciones que correspondan, en su caso.
-
-Este delito se perseguirá por querella de la dependencia u órgano estatal del ramo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
-
-ARTÍCULO 360 TER. Al concesionario, permisionario o, al operador, que altere los taxímetros, o sistemas de prepago, y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas para el servicio de transporte público de pasajeros, se le impondrá de tres a cinco años de prisión, de cincuenta a doscientos días del valor de la unidad de medida y actualización, y suspensión por un año del derecho de conducir vehículos; en caso de reincidencia, además de la pena de prisión que corresponda, privación definitiva del derecho de conducir vehículos.
-
-Este delito se perseguirá por querella de la dependencia u órgano estatal del ramo, o por el usuario que se vea afectado.
-
-(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 14 DE OCTUBRE DE 2016)
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 329.
 
@@ -4235,7 +4229,35 @@ Cualquier autoridad que conozca de un hecho de tortura está obligada a denuncia
 
 (DEROGADO, P.O. 11 DE ABRIL DE 2017)
 
-### CAPÍTULO IV. Violación de Correspondencia
+### CAPÍTULO III. Delitos contra la Prestación del Servicio de Transporte Público de Pasajeros
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2016)</small>
+
+ARTÍCULO 360 BIS. Comete el delito contra la prestación del servicio de transporte público de pasajeros, quien, sin concesión, permiso, o autorización correspondiente vigente, preste el servicio de transporte público de pasajeros en cualquiera de sus modalidades en las vías de jurisdicción estatal y municipal.
+
+Este delito se sancionará con pena de prisión de tres a cinco años; sanción pecuniaria de trescientas a quinientas Unidades de Medida de Actualización; y suspensión hasta por un año del derecho para conducir vehículos. En caso de reincidencia, además de la pena de prisión correspondiente, se impondrá la privación definitiva del derecho de conducir vehículos.
+
+Cuando en la comisión del delito al que se refiere este artículo, tuviere intervención cualquier integrante del consejo de administración, socio, o representante legal de una empresa concesionaria o permisionaria del servicio de transporte público de pasajeros, y se cometiere bajo el amparo de aquélla, la pena aplicable se aumentará de una a dos terceras partes de las que le correspondan por el delito cometido, y se le impondrá además la suspensión y privación de derechos para prestar el servicio público que se haya otorgado.
+
+Las penas a las que se refiere el párrafo primero de este artículo, también le serán aplicadas al conductor u operador de la unidad vehicular con la que se realice el servicio, si tuviera conocimiento de que la prestación del mismo se realizaba de manera irregular.
+
+Las hipótesis normativas antes mencionadas se perseguirán por querella del usuario o persona que se vea afectada.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+
+Al servidor público que de cualquier forma intervenga en el otorgamiento de una concesión, permiso, o autorización para la prestación del servicio de transporte público de pasajeros, sin que se cumplan los requisitos establecidos por la ley, se le impondrá de dos a diez años de prisión, multa de trescientos a ochocientos días del valor de la unidad de medida y actualización, así como la destitución del empleo, cargo, o comisión, e inhabilitación por cuatro años para ocupar otro cargo.
+
+Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa, y las sanciones que correspondan, en su caso.
+
+Este delito se perseguirá por querella de la dependencia u órgano estatal del ramo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
+ARTÍCULO 360 TER. Al concesionario, permisionario o, al operador, que altere los taxímetros, o sistemas de prepago, y demás equipos utilizados para el cobro y aplicación de tarifas autorizadas para el servicio de transporte público de pasajeros, se le impondrá de tres a cinco años de prisión, de cincuenta a doscientos días del valor de la unidad de medida y actualización, y suspensión por un año del derecho de conducir vehículos; en caso de reincidencia, además de la pena de prisión que corresponda, privación definitiva del derecho de conducir vehículos.
+
+Este delito se perseguirá por querella de la dependencia u órgano estatal del ramo, o por el usuario que se vea afectado.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 14 DE OCTUBRE DE 2016)
 
 ###### ARTÍCULO 336.
 
@@ -4251,7 +4273,7 @@ IV. Al particular que, sin estar autorizado legalmente para intervenir en un neg
 
 Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y sanción pecuniaria de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO I. Prevenciones Generales
+### CAPÍTULO IV. Violación de Correspondencia
 
 ###### ARTÍCULO 337.
 
@@ -4263,7 +4285,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivale
 
 Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y sanción pecuniaria de cien a trescientas veces al valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO II. Dolo en la Emisión del Voto
+### CAPÍTULO I. Prevenciones Generales
 
 ###### ARTÍCULO 338.
 
@@ -4293,7 +4315,7 @@ II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente ex
 
 III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrá una pena de cinco a diez años de prisión, sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
+### CAPÍTULO II. Dolo en la Emisión del Voto
 
 ###### ARTÍCULO 340.
 
@@ -4319,7 +4341,7 @@ II. Cuando el monto a que asciende el enriquecimiento no exceda del equivalente 
 
 III. Cuando el monto a que asciende el enriquecimiento ilícito exceda del equivalente a cinco mil veces del valor de la unidad de medida y actualización, se impondrá una pena de cuatro a diez años de prisión, sanción pecuniaria de cuatrocientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO IV. Violaciones al Proceso Electoral
+### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
 
 ###### ARTÍCULO 342.
 
@@ -4401,7 +4423,7 @@ A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, X
 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
-### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+### CAPÍTULO IV. Violaciones al Proceso Electoral
 
 ###### ARTÍCULO 343.
 
@@ -4421,13 +4443,15 @@ Este delito se sancionará con una pena de cinco a doce años de prisión y sanc
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2017)</small>
 
+### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+
 ### CAPÍTULO VI. Inducción Ilícita a Electores
 
 ### CAPÍTULO VII. No Desempeño del Cargo
 
-### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
-
 ## TÍTULO DECIMO SÉPTIMO. DELITOS CONTRA LA ECONOMÍA PÚBLICA
+
+### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
 
 ###### ARTÍCULO 344.
 
@@ -5046,5 +5070,13 @@ P.O. 17 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 957.- SE ADICIONA EL ARTÍCULO 187 BIS, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 972.- SE ADICIONAN LOS ARTÍCULOS, 293 BIS, Y 293 TER, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
