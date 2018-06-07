@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2015-12-29"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -129,7 +129,35 @@ VIII. Violencia obstétrica: es todo acto u omisión intencional, por parte del 
 
 IX. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres; y
 
-X. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2018)</small>
+
+X. Violencia política: es la acción u omisión que, en el ámbito político, público o privado, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función del poder público y se manifiesta en presión, persecución, hostigamiento, acoso, coacción, vejación, discriminación, amenazas o privación de la libertad o de la vida en razón de género; y
+
+XI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
+
+Formas de comisión
+
+###### Artículo 5 Bis.
+
+A quien dolosamente realice acciones u omisiones que configuren violencia política en razón de género en los términos de la fracción X del artículo anterior, acorde a los supuestos siguientes:
+
+I. Imponer la realización de actividades distintas a las atribuciones inherentes a su cargo o función;
+
+II. Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función pública;
+
+III. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+V. Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales, o impedir el ejercicio de sus atribuciones o facultades.
+
+VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función pública para el cual ha sido nombrada o elegida;
+
+VII. Impedir o restringir su reincorporación al cargo o función pública posterior en los casos de licencias, permisos o derechos conforme a las disposiciones aplicables; y
+
+VIII. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos por razón de género.
 
 Ámbitos de violencia
 
@@ -601,7 +629,11 @@ VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en
 
 IX. Proponer la celebración de convenios de cooperación, coordinación y concertación en la materia; y
 
-X. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2018)</small>
+
+X. Desarrollar campañas de difusión y promoción sobre los derechos que tienen las víctimas de delitos de violencia política, así como las correspondientes a la fiscalía especializada en materia de delitos electorales que atienden este delito; y
+
+XI. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -639,7 +671,11 @@ XII. Promover y vigilar que la atención ofrecida en las diversas instituciones 
 
 XIII. Asesorar a los municipios para crear políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como mecanismos de evaluación; y
 
-XIV. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2018)</small>
+
+XIV. Impulsar mecanismos de prevención, promoción, difusión y respeto de los derechos político-electorales de las mujeres, y
+
+XV. Las demás previstas para el cumplimiento de esta Ley.
 
 #### Sección Duodécima. Facultades del titular (sic) Sistema para el Desarrollo Integral de la Familia
 
@@ -1124,3 +1160,11 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 310, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN Y REUBICAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
