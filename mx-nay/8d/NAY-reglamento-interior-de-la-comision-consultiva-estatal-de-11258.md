@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-comision-consultiva-estatal-de-11258"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-09-03"
-last_updated: "1988-09-03"
+last_updated: "2018-06-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO EN EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 3 de septiembre de 1988.
 
@@ -180,3 +182,13 @@ LIC. CELSO H. DELGADO RAMIREZ.
 EL SECRETARIO DE LA COMISI (SIC)
 
 LIC. OCTAVIO GONZALEZ ESPI (SIC)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL ESTADO DE NAYARIT”.]
+
+Artículo primero.- El presente Reglamento surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del estado de Nayarit.
+
+Artículo segundo.- Queda sin efectos el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, publicado el 3 de septiembre de 1988 en el Periódico Oficial Órgano del Gobierno del estado de Nayarit y todas aquellas disposiciones relativas a la integración y funcionamiento de la Comisión que se contrapongan al presente Reglamento.
