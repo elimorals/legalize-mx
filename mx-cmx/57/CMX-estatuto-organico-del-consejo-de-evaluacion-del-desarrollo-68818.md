@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-consejo-de-evaluacion-del-desarrollo-6881
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-06-15"
-last_updated: "2009-06-15"
+last_updated: "2018-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68818&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-06-08"
 
 ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2018.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de junio de 2009.
 
@@ -164,19 +164,13 @@ XV. Aprobar el programa de verificación de padrones de beneficiarios, usuarios 
 
 XVI. Las demás necesarias para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2018)</small>
+
 ###### Artículo 10.
 
-El Comité sesionará válidamente cuando esté presente la mayoría simple de sus integrantes. A sus sesiones asistirá de manera permanente con voz pero sin voto, la persona titular de la Dirección General en funciones de Secretariado Técnico.
+El Comité sesionará válidamente cuando esté presente la mayoría simple de sus integrantes. A sus sesiones asistirá de manera permanente con voz pero sin voto, la persona titular de la Dirección General en funciones de Secretariado Técnico. La ausencia de la persona titular de la Presidencia del Comité, será suplida por la persona Titular de la Dirección General, adquiriendo voto de calidad.
 
-Las sesiones del Comité serán convocadas por la persona titular de la Presidencia del Comité o por el Secretario Técnico, de acuerdo con el calendario anual aprobado o bien cuando lo soliciten formalmente al menos dos Consejeras o Consejeros.
-
-El Comité deberá sesionar por lo menos seis veces al año de manera ordinaria y de manera extraordinaria cuando lo estime necesario, previa convocatoria.
-
-El Comité podrá reunirse en sesiones de trabajo cuando así lo estime conveniente. Para las sesiones ordinarias de cada año, el Comité establecerá un calendario anual que estipule los días y lugares en que se realizarán tales sesiones.
-
-El orden del día de cada reunión lo decidirá el Comité en la reunión ordinaria anterior.
-
-El periodo de sesiones del Comité tendrá dos lapsos de receso, el primero tendrá lugar la última quincena de diciembre y el segundo será definido por las y los integrantes del Comité.
+Las sesiones del Comité serán convocadas por la persona titular de la Presidencia del Comité o por el Secretario Técnico, de acuerdo con el calendario anual aprobado o bien cuando lo soliciten formalmente al menos dos Consejeras o Consejeros. El Comité deberá sesionar por lo menos seis veces al año de manera ordinaria y de manera extraordinaria cuando lo estime necesario, previa convocatoria. El Comité podrá reunirse en sesiones de trabajo cuando así lo estime conveniente. Para las sesiones ordinarias de cada año, el Comité establecerá un calendario anual que estipule los días y lugares en que se realizarán tales sesiones. El orden del día de cada reunión lo decidirá el Comité en la reunión ordinaria anterior. El periodo de sesiones del Comité tendrá dos lapsos de receso, el primero tendrá lugar la última quincena de diciembre y el segundo será definido por las y los integrantes del Comité.
 
 ###### Artículo 11.
 
@@ -186,7 +180,9 @@ I. Presidir las sesiones del Comité;
 
 II. Convocar por sí mismo o a través del Secretario Técnico a las sesiones ordinarias definidas en el calendario y las extraordinarias que considere necesarias o cuando lo soliciten dos o más Consejeras o Consejeros, así como instalar y moderar los debates de las mismas;
 
-III. Poner a consideración del pleno los asuntos tratados en las sesiones y someterlos a votación y;
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2018)</small>
+
+III. Poner a consideración del pleno los asuntos tratados en las sesiones y someterlos a votación y resolver los empates con su voto de calidad y;
 
 IV. Las demás que le encomiende este Estatuto.
 
@@ -200,7 +196,9 @@ II. Formular el orden del día de las sesiones.
 
 III. Enviar a las personas consejeras ciudadanas para su estudio, la documentación de los asuntos a tratar en las sesiones.
 
-IV. Asistir a las sesiones ordinarias y extraordinarias del Comité con voz pero sin voto;
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2018)</small>
+
+IV. Asistir a las sesiones ordinarias y extraordinarias del Comité con voz pero sin voto, salvo en los casos de suplencia;
 
 V. Pasar lista de asistencia y verificar que exista el quórum legal para iniciar las sesiones;
 
@@ -452,7 +450,9 @@ XXIII. Recibir la justificación que en su caso, emitan los órganos desconcentr
 
 XXIV. Atender los requerimientos de información que realice la Comisión Interinstitucional respecto de las controversias que se generen por las recomendaciones que emita el Consejo de Evaluación;
 
-XXV. Emitir convocatorias en las que se definan los lineamientos generales a los que deberán apegarse las evaluaciones externas cuando este organismo las realice a través de terceros;
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2018)</small>
+
+XXV. Emitir convocatorias para la adquisición de los servicios que le permitan cumplir con las atribuciones conferidas y definir, de manera conjunta con el Comité, los lineamientos generales a los que deberán apegarse las evaluaciones externas cuando este organismo las realice a través de terceros;
 
 XXVI. Decidir sobre la incorporación o permanencia de las personas en el Directorio de Evaluadores Externos en los términos del artículo 34 del Estatuto; y
 
@@ -695,3 +695,11 @@ MTRO. PABLO ENRIQUE YANES RIZO
 DIRECTOR GENERAL DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL
 
 Ciudad de México a los 8 días del mes de junio de 2009.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “AVISO POR EL CUAL SE DAN A CONOCER LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DEL DISTRITO FEDERAL”.]
+
+Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
