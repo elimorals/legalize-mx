@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-presupuesto-y-gasto-eficiente-de-la-734
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-08"
-last_updated: "2010-03-08"
+last_updated: "2018-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73452&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-03-05"
 ---
 # REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MEXICO -- ANTES -- REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
+REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 8 de marzo de 2010.
 
@@ -30,7 +30,9 @@ Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 8 de ma
 
 REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8 fracción II, 52, 67 fracción II, 87, 90, 95, 98, 112 párrafo segundo y 115 fracción IV, del Estatuto de Gobierno del Distrito Federal; 2, 5, 12, 14, 15 fracciones VIII y XV, 30, 34, 43, 44, 46 y 61, 62, 63, 65 y 66, de la Ley Orgánica de la Administración Pública del Distrito Federal; 1, 3 y demás relativos de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE JUNIO DE 2018)</small>
+
+REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO
 
 # Libro Primero. De los Ingresos y del Presupuesto de Egresos
 
@@ -38,15 +40,19 @@ REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
 ### Capítulo I. Objeto, Definiciones, Interpretación y Garantías
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2018)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento es de orden público e interés general y tiene por objeto reglamentar las disposiciones de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+El presente ordenamiento es de orden público e interés general y tiene por objeto reglamentar las disposiciones de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México.
 
-Sus disposiciones son obligatorias para las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública. Los órganos de gobierno y órganos autónomos observarán el presente Reglamento en términos de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+Sus disposiciones son obligatorias para las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública. Los Órganos de Gobierno y Órganos Autónomos, observarán el presente Reglamento en términos de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 7 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2.
 
-Además de las definiciones previstas en la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, para efectos del presente reglamento se entiende por:
+Además de las definiciones previstas en la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, para efectos del presente Reglamento se entiende por:
 
 I. Calendario Presupuestario.- Instrumento presupuestario que tiene como objetivo lograr la correspondencia entre las fuentes y aplicación de recursos del sector público a lo largo del ejercicio fiscal y que permite a las Unidades Responsables del Gasto dar seguimiento, controlar y evaluar las operaciones relativas a la estructura por subfunción, resultado y actividad institucional o presupuestarias, entre otros, y lograr un manejo eficiente de los recursos públicos.
 
@@ -587,6 +593,20 @@ Quedan exceptuados de la fecha límite para establecer compromisos, los que se f
 ###### Artículo 64.
 
 La Secretaría, a solicitud de las dependencias, órganos desconcentrados, delegaciones y entidades, podrá autorizar los trámites presupuestales necesarios para el cierre del ejercicio, a fin de registrar los resultados de la aplicación del gasto público y las metas alcanzadas al 31 de diciembre, procurando el aprovechamiento total de los recursos autorizados en el presupuesto, inclusive los de transferencias federales siempre que cumplan con los destinos que por disposición legal o administrativa se determinen, y los recursos que se encuentren disponibles provenientes de crédito, los cuales deberán cumplir con la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2018)</small>
+
+###### Artículo 64 Bis.
+
+De los recursos que conforman el fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Delegaciones a que hace referencia el artículo 71 de la Ley, se deberá constituir un fondo a través de un fideicomiso para apoyar a los contribuyentes del impuesto predial de la Ciudad de México cuyas viviendas sean afectadas directamente por un sismo y, por ende, requieran de rehabilitación o reconstrucción de su casa habitación, el fideicomiso deberá proveer un mecanismo de aseguramiento para el otorgamiento del apoyo.
+
+Para ser beneficiarios del apoyo, se deberán cumplir con los requisitos que a continuación se precisan, así como con los términos que establezcan las Reglas de Operación del fideicomiso:
+
+I. Que los solicitantes sean contribuyentes propietarios de inmuebles que se encuentren registrados a su nombre tanto en el Padrón Catastral de la Ciudad de México con uso exclusivamente habitacional, así como en el Registro Público de la Propiedad y de Comercio, antes del sismo;
+
+II. No presentar adeudos vencidos respecto del Impuesto Predial de la Ciudad de México, hasta antes de ocurrir el sismo, y
+
+III. Acreditar mediante documento expedido por la Secretaría de Desarrollo Urbano y Vivienda, de conformidad con los requisitos que dicha Secretaría establezca, que el contribuyente resultó afectado directamente en su vivienda por el acontecimiento de un sismo.
 
 ### Capítulo II. De la Cartera de Proyectos de Inversión
 
@@ -1353,3 +1373,17 @@ Octavo. Las dependencias, órganos desconcentrados, delegaciones y entidades deb
 Noveno. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este Reglamento.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los 5 días de marzo del 2010.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO.- Considerando que el último párrafo del artículo 71 de la Ley, faculta a la Secretaría de Finanzas para prever como parte de los recursos del fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Delegaciones, las previsiones para constituir un Fondo para apoyar a los contribuyentes del impuesto predial de la Ciudad de México, cuyas viviendas sean afectadas directamente por un sismo, éstas se asignarán como patrimonio inicial y podrá ser incrementado con las aportaciones que se autoricen, previa revisión y disponibilidad presupuestal.
+
+CUARTO.- Todas las referencias que en el presente Reglamento se hagan al Distrito Federal, deberán entenderse realizadas a la Ciudad de México.
