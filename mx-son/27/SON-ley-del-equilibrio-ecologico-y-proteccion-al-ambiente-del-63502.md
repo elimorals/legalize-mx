@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2017-06-26"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -1991,9 +1991,17 @@ XV.- Promover ante las autoridades federales competentes el evitar que se import
 
 XVI.- Solicitar asistencia técnica a la Secretaría de Medio Ambiente y Recursos Naturales, para el establecimiento de sistemas de gestión integral de residuos de manejo especial y la construcción y operación de rellenos sanitarios;
 
-XVII.- Coadyuvar en la promoción de la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación; y
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
 
-XVIII.- Las demás atribuciones que establezcan esta ley, la Ley General para la Prevención y Gestión Integral de los Residuos y los demás ordenamientos jurídicos aplicables.
+XVII.- Coadyuvar en la promoción de la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 7 DE JUNIO DE 2018)</small>
+
+XVIII.- Promover, a través de un protocolo que genere la reutilización, reducción y reciclaje, el control de la contaminación por residuos en oficinas públicas de gobierno; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 7 DE JUNIO DE 2018)</small>
+
+XIX.- Las demás atribuciones que establezcan esta ley, la Ley General para la Prevención y Gestión Integral de los Residuos y los demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 145.
 
@@ -2820,3 +2828,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El sistema de indicadores deberá definirse y publicarse en un plazo máximo de 90 días naturales siguientes a la entrada en vigor del presente decreto.
+
+B.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 223, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 144 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta (sic) Oficial del Estado.
