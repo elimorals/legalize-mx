@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2018-01-25"
+last_updated: "2018-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -207,7 +207,9 @@ V.- Infundir el conocimiento y la práctica de la democracia como la forma de go
 
 VI. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
-VII.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas, así como su comprensión, aplicación y uso responsable;
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
+
+VII.- Fomentar el uso adecuado y responsable de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto de las mejores prácticas para hacer uso apropiado de internet y de las redes sociales;
 
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la nación;
 
@@ -245,13 +247,17 @@ XXII.- Impartir educación preventiva al uso de drogas, alcohol y tabaco, ésta 
 
 XXIII.- Promover el desarrollo de las aptitudes, las capacidades, las destrezas, las habilidades y los valores de los individuos, que les permita construir sus vocaciones, así como perfilar un futuro profesional con mayores oportunidades;
 
-> <small>(REFORMADA, B.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
 
-XXIV.- Promover y difundir la participación en los programas gubernamentales que se lleven a cabo para prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas y los niños, para lograr su reintegración y permanencia en el sistema estatal de educación básica; y
+XXIV.- Promover y difundir la participación en los programas gubernamentales que se lleven a cabo para prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas y los niños, para lograr su reintegración y permanencia en el sistema estatal de educación básica;
 
-> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
 
-XXV.- Promover ante la autoridad educativa federal que en los planes y programas educativos correspondientes se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el quinto año de Educación Primaria hasta el último año de Educación Media Superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de la legalidad y de la Paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales.
+XXV.- Promover ante la autoridad educativa federal que en los planes y programas educativos correspondientes se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el quinto año de Educación Primaria hasta el último año de Educación Media Superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de la legalidad y de la Paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales; y
+
+> <small>(ADICIONADA, B.O. 7 DE JUNIO DE 2018)</small>
+
+XXVI.- Inculcar y fortalecer la cultura del ciudado (sic) del agua y su uso responsable.
 
 ###### ARTÍCULO 19.
 
@@ -909,13 +915,17 @@ IV.- Apoyar y desarrollar programas, cursos y actividades que fortalezcan la ens
 
 V.- Realizar las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos;
 
-> <small>(REFORMADA, B.O. 2 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
 
-VI.- Establecer, de forma paulatina y conforme a la suficiencia presupuestal y los apoyos federales, escuelas de tiempo completo, con jornadas de entre seis y ocho horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural; y
+VI.- Establecer, de forma paulatina y conforme a la suficiencia presupuestal y los apoyos federales, escuelas de tiempo completo, con jornadas de entre seis y ocho horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
-> <small>(ADICIONADA, B.O. 2 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2018)</small>
 
-VII.- Prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas, niños, adolescentes y jóvenes, para lograr su reintegración inmediata al sistema estatal de educación básica, en términos de lo dispuesto por la Ley del Sistema Integral para Erradicar el Ausentismo y la Deserción en la Educación Básica y Media Superior Públicas en el Estado de Sonora.
+VII.- Prevenir, atender y dar seguimiento a todos los casos de ausentismo y deserción escolar de las niñas, niños, adolescentes y jóvenes, para lograr su reintegración inmediata al sistema estatal de educación básica, en términos de lo dispuesto por la Ley del Sistema Integral para Erradicar el Ausentismo y la Deserción en la Educación Básica y Media Superior Públicas en el Estado de Sonora; y
+
+> <small>(ADICIONADA, B.O. 7 DE JUNIO DE 2018)</small>
+
+VIII.- Las autoridades educativas estatal y municipales, así como las escuelas privadas, deberán realizar en cada inicio de ciclo escolar, campañas educativas tendientes a la disminución del acoso escolar dentro de las aulas.
 
 ###### ARTÍCULO 78.
 
@@ -1212,3 +1222,19 @@ La Secretaría de Educación y Cultura deberá poner en operación lo establecid
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado de Sonora deberá asignar el presupuesto necesario para la operación de este decreto en el Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal 2018.
+
+B.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 219, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 220, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
