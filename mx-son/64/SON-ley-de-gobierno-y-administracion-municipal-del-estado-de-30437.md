@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2017-11-06"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -2423,9 +2423,11 @@ En las enajenaciones de inmuebles que realice el Ayuntamiento en los términos d
 
 Dichos actos deberán ser inscritos en el Registro Público de la Propiedad que corresponda, dentro de los quince días siguientes a su suscripción, previas las gestiones que para tal efecto deberá realizar el Síndico Municipal. Será causa de responsabilidad del Síndico Municipal, en los términos de Ley, el incumplimiento de lo antes establecido.
 
+> <small>(REFORMADO, B.O. 7 DE JUNIO DE 2018)</small>
+
 ###### Artículo 206.
 
-El documento en que conste la enajenación realizada en los términos del artículo 204 de esta Ley, deberá contener la siguiente cláusula: "El inmueble objeto de este acto jurídico, se encuentra destinado al patrimonio de familia, en beneficio de la familia del adquiriente, por lo que es inalienable y no puede ser objeto de embargo ni gravamen alguno conforme lo dispone el Código Civil para el Estado de Sonora, de lo cual deberá tomarse nota al hacerse la inscripción en el Registro Público de la Propiedad".
+El documento en que conste la enajenación realizada en los términos del artículo 204 de esta Ley, deberá contener la siguiente cláusula: “El inmueble objeto de este acto jurídico, se encuentra destinado al patrimonio de familia, en beneficio de la familia del adquiriente, por lo que es inalienable y no puede ser objeto de embargo ni gravamen alguno, así mismo quedará constituido el Testamento Público Simplificado de lo cual deberá tomarse nota al hacerse la inscripción en el Registro Público de la Propiedad”.
 
 ###### Artículo 207.
 
@@ -4270,3 +4272,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, los integrantes de los ayuntamientos deberán de proporcionar al Secretario del Ayuntamiento el correo electrónico en el cual podrán ser notificados para los términos del artículo 52 de la Ley de Gobierno y Administración Municipal que se reforma mediante este ordenamiento jurídico.
+
+B.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 218, QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL Y LA LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se deberá publicar en el Boletín Oficial del Gobierno del Estado de Sonora y entrará en vigor a partir del 1° de enero del año 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días anteriores a que el presente Decreto entre en vigor, la Secretaría de la Consejería Jurídica del Gobierno del Estado con el apoyo de las dependencias que considere necesario, deberán llevar a cabo la capacitación a los servidores públicos estatales y municipales encargados de aplicar la normatividad aquí aprobada.
