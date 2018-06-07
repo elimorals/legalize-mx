@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-los-centros-de-asistencia-social-y-las-109572"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-20"
-last_updated: "2017-09-29"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2015.
 
@@ -115,11 +113,17 @@ VIII. Expósito: Al recién nacido que es colocado en una situación de desampar
 
 IX. Familia de acogida: A la familia certificada por el DIFEM que brinda cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente ya sea con esta, o con la familia de origen, extensa o adoptiva.
 
+> <small>(ADICIONADA, G.G. 7 DE JUNIO DE 2018)</small>
+
+IX Bis. Familia Ampliada: Aquella compuesta por la persona o personas que, sin existir parentesco, tienen un vínculo afectivo adecuado para el desarrollo de niñas, niños y adolescentes atendiendo a su interés superior;
+
 X. Familia de acogimiento preadoptivo: A aquella distinta de la familia de origen y de la extensa que acoge provisionalmente a niñas, niños y adolescentes con fines de adopción y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez y que cuenta con Oficio de Viabilidad.
 
 XI. Familia de origen: A la familia compuesta por los titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes tienen parentesco consanguíneo hasta segundo grado con niñas, niños o adolescentes.
 
-XII. Familia extensa o ampliada: A la familia compuesta por los ascendientes de niñas, niños y adolescentes en línea recta, sin limitación de grado, y por los colaterales, hasta el cuarto grado.
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2018)</small>
+
+XII. Familia Extensa: Aquella compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado. y los colaterales hasta el cuarto grado:
 
 XIII. Junta multidisciplinaria: A la Junta Multidisciplinaria del Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
@@ -329,13 +333,27 @@ VII. El Programa Interno de Protección Civil.
 
 VIII. Copia de su Reglamento Interior y de su modelo de atención.
 
+> <small>(ADICIONADO, G.G. 7 DE JUNIO DE 2018)</small>
+
+El DIFEM podrá auxiliarse del Instituto de Verificación Administrativa del Estado de México a fin de llevar a cabo las visitas de verificación en materia de salud y protección civil.
+
+> <small>(REFORMADO, G.G. 7 DE JUNIO DE 2018)</small>
+
 ###### Artículo 13.
 
-Recibida la solicitud, el DIFEM en un plazo no mayor a diez días hábiles, comunicará al interesado la resolución correspondiente y, en su caso, expedirá la autorización.
+Recibida la solicitud, el DIFEM en un plazo no mayor a cinco días hábiles, comunicará al interesado si se tiene o no por cumplidos los requisitos de carácter documental.
+
+Ante la omisión de cualquiera de los requisitos, el DIFEM otorgará hasta cinco días hábiles para que el interesado cumpla con los mismos, de no hacerlo se negará el trámite y le será devuelta su documentación.
+
+El DIFEM podrá en cualquier momento solicitar documentos adicionales, que permitan corroborar la atención brindada a niñas, niños y adolescentes.
+
+> <small>(REFORMADO, G.G. 7 DE JUNIO DE 2018)</small>
 
 ###### Artículo 14.
 
-Ante la omisión de cualquiera de los requisitos señalados en este Capítulo, el DIFEM otorgará hasta cinco días hábiles para que el interesado cumpla con los mismos, de no hacerlo se negará el trámite y le será devuelta su documentación.
+Una vez que se cuente con la validación favorable de los documentos, el DIFEM en un plazo no mayor a quince días hábiles, otorgará al interesado la fecha de visita de supervisión.
+
+Tres días hábiles siguientes a la visita, el DIFEM emitirá la resolución correspondiente.
 
 ### Capítulo III. De las obligaciones de los centros de asistencia social
 
@@ -693,6 +711,10 @@ d) Tutoría artísticas y culturales.
 
 e) Tutoría laboral.
 
+> <small>(ADICIONADO, G.G. 7 DE JUNIO DE 2018)</small>
+
+Se entenderá por hogar provisional, el núcleo familiar que proporciona alojamiento temporal, cuidados y atenciones a una niña, niño o adolescente en situación de vulnerabilidad con el objeto de brindarle un ambiente propicio para su atención integral, previa las respectivas valoraciones a efecto de determinar su viabilidad satisfaciendo el interés superior de niñas, niños y adolescentes.
+
 ###### Artículo 52.
 
 El DIFEM, los sistemas municipales DIF y los Centros de Asistencia Social podrán autorizar la convivencia de niñas, niños y adolescentes albergados atendiendo al interés superior de niñas, niños y adolescentes.
@@ -867,15 +889,41 @@ XII. Efectuar cada seis meses una visita a la familia adoptante y entrevista a l
 
 La Junta Multidisciplinaria es un cuerpo colegiado cuyo objetivo es revisar, analizar, discutir y determinar los aspectos socio jurídicos que permitan regularizar la situación legal de las niñas, niños y adolescentes albergados en el DIFEM, procurando su bienestar, mediante la reintegración con algún familiar o, en su caso, procurarles un nuevo núcleo familiar mediante la adopción, así como los casos que le sean presentados o entregados por los sistemas municipales DIF y los Centros de Asistencia Social de carácter privado.
 
+> <small>(REFORMADO, G.G. 7 DE JUNIO DE 2018)</small>
+
 ###### Artículo 67.
 
 Para efectos de lo previsto en el presente Título, la Junta Multidisciplinaria estará integrada de la manera siguiente:
 
 I. Un Presidente, que será el Director General del DIFEM.
 
-II. Un Secretario, designado por el Presidente.
+II. Un Secretario quien será el titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, y
 
-III. El número de vocales necesarios para su funcionamiento.
+III. Un representante del Órgano Interno de Control del DIFEM.
+
+IV. Nueve Vocales:
+
+a) Un representante de la Secretaría de Justicia y Derechos Humanos;
+
+b) Dos representantes de la Fiscalía General de Justicia del Estado de México;
+
+c) Un representante de la Dirección General de Prevención y Reinserción Social;
+
+d) Un representante de la Secretaría Ejecutiva del Sistema Estatal de Protección de Niñas, Niños y Adolescentes;
+
+e) Un representante de la Junta de Asistencia Privada del Estado de México;
+
+f) Un representante del área médica;
+
+g) Un representante del área psicológica, y
+
+h) Un representante del área de trabajo social.
+
+V. Dos invitados permanentes:
+
+a) El Subdirector de Centros de Asistencia Social, y
+
+b) El Subdirector de Adopciones y Familia de Acogida.
 
 ###### Artículo 68.
 
@@ -1436,3 +1484,15 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 311.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los requisitos previstos en el artículo 94 bis de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, resultarán aplicables a los nombramientos que se realicen a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
