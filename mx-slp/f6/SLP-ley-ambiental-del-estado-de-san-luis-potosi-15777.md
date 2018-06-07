@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2018-05-03"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -233,7 +233,9 @@ LII. Relleno Sanitario: obra de infraestructura que involucra métodos y obras d
 
 LII Bis. Reparación del daño Ambiental o Ecológico: la restauración, restitución, restablecimiento, tratamiento, recuperación o remediación de la situación anterior al daño y, en la medida en que esto no sea posible, la compensación o el pago del daño ocasionado;
 
-LIII. Residuo: cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya degradación y deterioro no permita usarlo nuevamente en el proceso que lo generó;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
+
+LIII. Residuo: material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
 
 LIV. Residuos de manejo especial: son aquéllos generados en los procesos productivos que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos o que son producidos por grandes generadores de residuos sólidos urbanos;
 
@@ -1335,7 +1337,9 @@ La SEGAM concentrará los informes locales de monitoreo para su incorporación a
 
 X. Establecerán requisitos y procedimientos para regular las emisiones del transporte público estatal y municipal; asimismo aplicarán las medidas de tránsito atingentes y en su caso, la suspensión de circulación en casos graves de contaminación;
 
-XI. Emitirán las disposiciones y establecerán las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otras; así como las quemas con fines de desmontes o deshierbe de terrenos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
+
+XI. Emitirán las disposiciones y establecerán las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo residuos de actividades domésticas, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otras; así como las quemas con fines de desmontes o deshierbe de terrenos;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1427,7 +1431,9 @@ I. La descarga de contaminantes a la atmósfera cualquiera que sea la fuente de 
 
 II. La circulación de vehículos automotores cuyos niveles de emisión de contaminantes a la atmósfera, rebasen los límites máximos permisibles determinados en la normatividad ambiental sobre emisión de hidrocarburos, monóxido de carbono y otros contaminantes, y
 
-III. La quema de cualquier tipo de desecho y residuo sólido y líquido, incluyendo entre otros, basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados y solventes, así como las prácticas de roza, tumba y quema con fines de desmonte o deshierbe de terrenos, excepto aquellas que se encuentren sujetas a la observancia y cumplimiento de la normatividad aplicable.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
+
+III. La quema de cualquier tipo de desecho y residuo sólido y líquido, incluyendo entre otros, residuos de actividades domésticas, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados y solventes, así como las prácticas de roza, tumba y quema con fines de desmonte o deshierbe de terrenos, excepto aquellas que se encuentren sujetas a la observancia y cumplimiento de la normatividad aplicable.
 
 Los simulacros de incendios podrán ser autorizados por la SEGAM en coordinación con las autoridades de Protección Civil en el Estado, bajo las condiciones de seguridad que el caso amerite, previa solicitud e informes de su ubicación, así como de los materiales que serán empleados como combustibles.
 
@@ -1699,7 +1705,9 @@ V. La exhaustiva supervisión, vigilancia y sanción sobre los siguientes temas 
 
 a) La incineración de residuos sólidos urbanos por parte de particulares.
 
-b) El arrojo o depósito de basura por parte de particulares en la vía pública, en terrenos baldíos, y en áreas verdes.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2018)</small>
+
+b) El arrojo o depósito de residuos por parte de particulares en la vía pública, en terrenos baldíos, y en áreas verdes.
 
 c) La entrega gratuita por parte de establecimientos comerciales y mercantiles, de bolsas de plástico para el traslado de mercancías; procurando entregar bolsas reusables a sus clientes, que sean preferentemente reciclables.
 
@@ -1719,7 +1727,9 @@ Los sitios que se pretenda utilizar para disposición de residuos sólidos urban
 
 Se establecen las prohibiciones siguientes:
 
-I. La habilitación de tiraderos de basura a cielo abierto;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
+
+I. La habilitación de tiraderos de residuos a cielo abierto;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -1741,9 +1751,9 @@ VI. El vertido directo de lodos provenientes de procesos industriales y de las p
 
 VII. La circulación de vehículos en áreas urbanas o consideradas como tales, según los respectivos planes o programas de desarrollo urbano y ordenamiento ecológico, y conforme al respectivo reglamento, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, productos, subproductos, desechos o residuos;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
 
-VIII. La incineración de residuos sólidos urbanos, y de residuos de manejo especial en el Estado, y el arrojo o depósito de basura en la vía pública, en terrenos baldíos y áreas verdes o de equipamiento urbano, y
+VIII. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado, y el arrojo o depósito de residuos en la vía pública, en terrenos baldíos y áreas verdes o de equipamiento urbano, y
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
 
@@ -2839,7 +2849,9 @@ La SEGAM contará con el Fondo Ambiental Público, que tiene por objeto subsidia
 
 El Fondo Ambiental Público se integrará con los recursos obtenidos por:
 
-I. La reparación del daño a que tiene derecho la SEGAM, derivada de la comisión de los delitos previstos en el Titulo Vigésimo del Código Penal del Estado, y los reembolsos que, en su caso, se obtengan por el mismo concepto;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2018)</small>
+
+I. La reparación del daño a que tiene derecho la SEGAM, derivada de la comisión de los delitos previstos en el Título Décimo Quinto del Código Penal del Estado y los reembolsos que, en su caso, se obtengan por el mismo concepto;
 
 II. Las aportaciones o transferencias que hagan los gobiernos, federal, estatal, o municipales, mediante los acuerdos o convenios de colaboración celebrados al efecto;
 
@@ -3270,3 +3282,19 @@ P.O. 3 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas (sic) disposiciones que opongan a este Decreto.
+
+P.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 968.- SE REFORMAN LOS ARTÍCULOS 3°, 74, 81, 104 Y 107 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 969.- SE REFORMA EL ARTÍCULO 181 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
