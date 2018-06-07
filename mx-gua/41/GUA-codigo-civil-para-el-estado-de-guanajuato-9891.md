@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2018-04-20"
+last_updated: "2018-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -3645,9 +3647,13 @@ I. Cuando el que la ejerza es condenado expresamente a la pérdida de ese derech
 
 II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 337;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JUNIO DE 2018)</small>
 
-III. Cuando por las costumbres depravadas, malos tratamientos o abandono de deberes, de quien ejerce la patria potestad, pudiera comprometerse la salud, la seguridad o la moralidad de los menores, aun cuando esos hechos no cayeren bajo la sanción de la Ley Penal;
+III. Por las costumbres depravadas, malos tratamientos o abandono de deberes, de quien ejerce la patria potestad, aun cuando esos hechos no cayeren bajo la sanción de la ley penal.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
+
+La pérdida de la patria potestad sólo se dará cuando la medida resulte necesaria, idónea y razonable para la protección de los derechos de los menores de edad conforme a su interés superior, para lo cual, el juez habrá de ponderar las circunstancias del caso;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -3658,8 +3664,6 @@ V. (DEROGADA, P.O. 30 DE JULIO DE 1996)
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
 
 VI. El incumplimiento de la obligación alimentaria por más de noventa días, sin causa justificada.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -17402,3 +17406,9 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 299, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 497, EN SU FRACCIÓN III, A LA QUE TAMBIÉN SE LE ADICIONA UN SEGUNDO PÁRRAFO, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
