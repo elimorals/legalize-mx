@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-preservacion-del-aseo-publico-en-el-16464"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-31"
-last_updated: "2017-09-08"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA PRESERVACION DEL ASEO PUBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO PARA LA PRESERVACIÓN DEL ASEO PÚBLICO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 31 de marzo del 2000.
 
@@ -67,13 +69,17 @@ IV.- Establecer las sanciones por el incumplimiento de las disposiciones del pre
 
 La aplicación de las disposiciones contenidas en el presente Reglamento corresponderá a:
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
 
-I.- La Dirección de Servicios Públicos Municipales;
+I.- La Dirección de Servicios Públicos Municipales, por conducto de su Titular, del Jefe del Departamento de Aseo Público y de los Inspectores adscritos a éste;
 
-II.- Los Delegados y Subdelegados municipales en sus respectivas delegaciones, así como los inspectores adscritos a éstas, en tanto no actúe directamente la Dirección de Obras y Servicios Públicos; y,
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
 
-III.- La Dirección de Seguridad Pública Municipal, la que a través de sus agentes apoyará las acciones de la Dirección de Obras y Servicios Públicos Municipales, en los términos previstos en el presente Reglamento.
+II.- Los Delegados y Subdelegados municipales en sus respectivas delegaciones, así como los inspectores adscritos a éstas, en tanto no actúe directamente la Dirección de Servicios Públicos; quienes tendrán las atribuciones que en este ordenamiento se les otorgan a aquéllos, y
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+III.- La Dirección de Seguridad Pública Municipal, la que a través de sus agentes apoyará las acciones de la Dirección de Servicios Públicos Municipales en los términos previstos en el presente Reglamento.
 
 ###### Artículo 3.
 
@@ -97,9 +103,15 @@ VII.- Generación.- Cantidad de residuos originados por unidad de tiempo en una 
 
 VIII.- Recolección.- Retirar manual o mecánicamente los residuos de los sitios en los que se generan, almacenan o depositan; así como transportarlos a las estaciones de transferencia, o a las instalaciones para su tratamiento, reuso, reciclaje o disposición final;
 
-IX.- Residuo.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permite utilizarlo nuevamente en el proceso que lo generó; y,
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+IX.- Residuo.- Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita utilizarlo nuevamente en el proceso que lo generó;
 
 X.- Sitio para la disposición final de residuos.- Lugar establecido para la disposición final de residuos, en el que se depositan de manera permanente, se esparcen, compactan a su menor volumen práctico posible, y se cubran con una capa de tierra al término de las operaciones del día, bajo condiciones técnicas debidamente aprobadas.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+XI.- U.M.A.- Unidad de Medida y Actualización fijada por el Instituto Nacional de Estadística y Geografía;
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2009)</small>
 
@@ -147,9 +159,11 @@ Los horarios de la recolección domiciliaria se harán del conocimiento del púb
 
 Los vehículos en los que se preste el servicio de recolección domiciliaria de residuos, deberán portar de forma y tamaño visible, el número que se les asigne, así como el número de teléfono al que los usuarios del servicio podrán comunicarse para hacer sus comentarios y presentar sus quejas.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
 ###### Artículo 8.
 
-Los residuos recolectados por el Ayuntamiento en la prestación del servicio público de limpia, son de su propiedad exclusiva, por lo que podrá aprovecharlos industrial o comercialmente, en forma directa o en su caso, por personas autorizadas. El apoderamiento de residuos propiedad del Ayuntamiento, será sancionado conforme a lo previsto por este Reglamento, sin perjuicio de lo dispuesto en otros ordenamientos.
+Los residuos recolectados por el Ayuntamiento en la prestación del servicio público de limpia serán de su propiedad exclusiva, por lo que podrá enajenarlos, aprovecharlos o reciclarlos total o parcialmente, en forma directa o en su caso, a través de terceros autorizados, en los términos previstos en las leyes, reglamentos y demás normatividad. Su apoderamiento indebido por parte de terceros será sancionado conforme a lo previsto en este Reglamento, sin perjuicio de lo dispuesto en otros ordenamientos.
 
 ###### Artículo 9.
 
@@ -257,7 +271,9 @@ I.- Cooperar para que se conserven aseadas las calles, banquetas, plazas, parque
 
 II.- Abstenerse de depositar residuos en lugares diversos a los recipientes instalados para éstos, así como de ensuciar, la vía o lugares públicos, los lotes baldíos o con construcciones en desuso;
 
-III.- Evitar que como producto de la limpieza se acumule agua sobre las banquetas o vialidades;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+III.- Evitar que como producto de la limpieza se acumulen agua o residuos que ésta arrastre a su paso, sobre las banquetas o vialidades;
 
 IV.- Los propietarios de animales domésticos serán responsables de trasladar éstos cuando mueran, a las estaciones de transferencia o a los sitios para la disposición final de residuos, debidamente cubiertos con cal u otro producto similar, y envueltos en bolsas de plástico;
 
@@ -269,13 +285,15 @@ VI.- Las demás previstas en este Reglamento.
 
 Cualquier persona que observe acumulación de residuos, o animales muertos en banquetas, calles, jardines, parques, plazas, o cualquier otro lugar público, deberá dar aviso a la Dirección, a fin de que ésta tome las medidas pertinentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2018)</small>
+
 ###### Artículo 21.
 
-La persona que sorprenda a otras ensuciando o depositando cualquier tipo de residuos en la vía o los bienes públicos, en lotes baldíos o con construcciones en desuso, deberá dar aviso inmediato a la Dirección de Seguridad Pública Municipal, informándole de los datos de identificación que pudiera haber recabado del infractor, tales como lugar y hora en que se le sorprendió, tipo de vehículo o número de placas de éste en su caso.
+La persona que sorprenda a otras ensuciando o depositando cualquier tipo de residuos o escombro en la vía o los bienes públicos, en lotes baldíos o con construcciones en desuso, deberá dar aviso inmediato a la Dirección de Seguridad Pública Municipal o a la Dirección, proporcionando los datos de identificación que hubiera recabado respecto al infractor, tales como lugar y hora en que se le sorprendió, tipo de vehículo o número de placas de éste en su caso.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
-La Dirección de Seguridad Pública Municipal impondrá al infractor las sanciones que correspondan conforme al Bando de Policía y Gobierno para el Municipio de Mexicali, sin perjuicio de informar de los hechos a la Dirección, para que esta determine las sanciones que procedan conforme al presente Reglamento.
+La Dirección de Seguridad Pública Municipal o la Dirección impondrán al infractor las sanciones que correspondan conforme al Bando de Policía y Gobierno para el Municipio de Mexicali o a este Reglamento, respectivamente.
 
 La Autoridad Municipal implementará programas para estimular la participación ciudadana a efecto de vigilar el cumplimiento del presente Reglamento.
 
@@ -297,7 +315,9 @@ III.- En los inmuebles que colinden con vialidades pavimentadas, se encuentren o
 
 IV.- Tener banquetas en los lugares en donde ya exista pavimento, y mantenerlas debidamente aseadas; y,
 
-V.- Cuando en el inmueble se lleven a cabo obras de construcción o reparación, se deberá cercar la zona de trabajo colindante a la vía pública y evitar la diseminación de los materiales que se utilicen. Esta obligación la tendrán también las personas que se dediquen al desarrollo de tales obras.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+V.- Cuando en el inmueble se lleven a cabo obras de construcción o reparación, el propietario o poseedor que ordene la obra y quien la realice por cuenta de aquellos, serán responsables de cercar la zona de trabajo colindante a la vía pública, y de tomar las medidas necesarias para evitar la diseminación de los materiales que se utilicen, el daño a las vías y bienes públicos o la obstrucción de la circulación vehicular y peatonal. Si con motivo de las construcciones o reparaciones se causara daño a las vialidades, además de la sanción pecuniaria, el infractor estará obligado a reparar el daño a su costa.
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE QUIENES REALICEN ACTIVIDADES COMERCIALES, INDUSTRIALES O DE SERVICIOS PÚBLICOS O PRIVADOS
 
@@ -305,9 +325,11 @@ V.- Cuando en el inmueble se lleven a cabo obras de construcción o reparación,
 
 Las personas que realicen actividades industriales, comerciales, o de servicios públicos o privados en el Municipio, deberán fomentar la preservación del aseo público cumpliendo las disposiciones contenidas en el presente Reglamento, y realizando las actividades necesarias para mantener limpios (sic) las banquetas y los lugares de acceso público de sus establecimientos.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
 ###### Artículo 24.
 
-La Dirección podrá ordenar a quienes lleven a cabo actividades industriales, comerciales o de servicios públicos o privados, hagan o no uso del servicio de recolección domiciliaria de residuos, el desarrollo de acciones, la realización de obras de construcción, la instalación de equipo, y la reubicación de recipientes para residuos, con el objeto de evitar que el depósito o transporte de éstos, provoque molestias a la comunidad o contaminación al ambiente.
+El Titular de la Dirección, mediante Orden fundada y motivada, podrá requerir a quienes lleven a cabo actividades industriales, comerciales o de servicios públicos o privados, hagan o no uso del servicio de recolección domiciliaria de residuos, para que lleven a cabo el desarrollo de acciones, la realización de obras de construcción, la instalación de equipo, y la reubicación de recipientes para residuos, con el objeto de evitar que el depósito o transporte de éstos, provoque molestias a la comunidad o contaminación al ambiente.
 
 ###### Artículo 25.
 
@@ -371,7 +393,9 @@ Se consideran vehículos abandonados aquellos que por cualquier causa dejen de s
 
 A fin de preservar el aseo público, se prohíbe a los habitantes del Municipio y a quienes transitoriamente se encuentren en su territorio:
 
-I.- Arrojar grandes volúmenes de escombro o cualquier otro tipo de residuos, en la vía o bienes públicos, predios agrícolas, en las orillas de carreteras estatales o federales ubicadas en el territorio municipal, o en cuencas, cauces, ríos, arroyos, o barrancas que se encuentren dentro de los centros de población del municipio.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+I.- Arrojar escombro o cualquier otro tipo de residuos en la vía o bienes públicos, predios agrícolas, en las orillas de carreteras estatales o federales ubicadas en el territorio municipal, o en cuencas, cauces, ríos, arroyos, o barrancas que se encuentren dentro de los centros de población del municipio.
 
 II.- Quemar cualquier tipo de residuos sin la autorización del área de ecología del Ayuntamiento;
 
@@ -385,67 +409,115 @@ b.- Hacer fogatas;
 
 c.- Tender ropa, alfombras, colchas, u objetos similares.
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+V.- Dañar, alterar o pintar anuncios o leyendas en el mobiliario urbano o en lotes baldíos, construcciones abandonadas o propiedad ajena.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+VI.- Causar daño a las vialidades, banquetas, cordones o acotamiento con motivo de actividades de construcción, colocar material de construcción en la vía pública sin autorización de la Dirección o fijar topes, postes u otros implementos que estorben, interrumpan o impidan la circulación vehicular o peatonal en las vialidades, banquetas, cordones o acotamiento.
+
 ###### Artículo 36 Bis.
 
 (DEROGADO, P.O. 3 DE JULIO DE 2009)
 
 ### CAPÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
 ###### Artículo 37.
 
-La infracción a las disposiciones previstas por este Reglamento, será sancionada conforme a las disposiciones del presente capítulo.
+El Titular de la Dirección, el Jefe del Departamento de Aseo Público y los Inspectores adscritos a éste están facultados para verificar el cumplimiento de las disposiciones del presente Reglamento mediante recorridos o revisiones físicas, de manera oficiosa o a petición de terceros.
+
+En su caso, el Jefe del Departamento de Aseo Público y los Inspectores asentarán en acta circunstanciada las infracciones que detecten, cuya sanción le corresponda al titular de la Dirección.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 38.
 
-A quien cometa cualquiera de las infracciones que se describen en la tabla contenida en este artículo, se le sancionará con el pago de multa de tres a diez, once a veinte, veintiuno a cuarenta, y cuarenta y uno a cien días de salario mínimo general vigente en el Municipio en el momento de cometerse la infracción, según se indica a continuación:
+A quien cometa cualquiera de las infracciones que se enuncian en este artículo, se le sancionará con multa que podrá fluctuar entre cinco a diez veces el valor de la U.M.A., cinco a cuarenta veces el valor de la U.M.A., cinco a setenta veces el valor de la U.M.A., diez a doscientas veces el valor de la U.M.A., cuarenta y una a doscientas veces el valor de la U.M.A. o cuatrocientos a mil veces el valor de la U.M.A. al momento de cometerse la infracción, según se indica a continuación:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE MARZO DEL 2000, PÁGINAS DE LA 36 A LA 41.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 10 DE DICIEMBRE DE 2004, PÁGINAS DE LA 6 A LA 7; P.O. 8 DE SEPTIEMBRE DE 2017, PÁGINA 19; P.O. 8 DE JUNIO DE 2018, PÁGINAS DE LA 33 A LA 36.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 10 DE DICIEMBRE DE 2004, PÁGINAS DE LA 6 A LA 7; P.O. 8 DE SEPTIEMBRE DE 2017, PÁGINA 19.]</small>
+Las conductas sancionables en los rangos de diez a doscientas veces el valor de la U.M.A., de cuarenta y una a doscientas veces el valor de la U.M.A. y de cuatrocientas a mil veces el valor de la U.M.A., no serán objeto de descuento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
-
-Las sanciones a que se refiere este artículo, en el caso de que procedan por el monto mínimo del rango correspondiente, serán impuestas por el Titular de la Dirección, mediante boletas de infracción, cuyo diseño y contenido deberá ser aprobado por medio de Acuerdo de Cabildo.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
-
-Si a juicio del Titular de la Dirección, la infracción merece la imposición de una sanción por un monto mayor al que se refiere el párrafo anterior, se levantará un acta en la que hará constar los datos necesarios para describir la conducta e identificar el responsable, citando a éste para que comparezca ante la Dirección a fin de que se le califique la multa (sic) deberá pagar.
-
-Para determinar el monto de la sanción a imponer, dentro del rango correspondiente, la Dirección tomará en cuenta:
-
-I.- La gravedad de la falta;
-
-II.- La afectación que la conducta tenga al logro de los fines del presente Reglamento;
-
-III.- Las condiciones del infractor; y,
-
-IV.- La actividad dentro de la cual se hubiere desarrollado la infracción.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 39.
 
-Adicionalmente a la sanción pecuniaria, el infractor de las disposiciones del presente Reglamento será responsable de subsanar la obligación incumplida o la prohibición realizada, y los efectos que su conducta hubiere generado. En caso de no hacerlo, la Dirección podrá llevar a cabo las acciones correspondientes, generándose a cargo del infractor la obligación de pagar los derechos que por este servicio se causen.
+Las infracciones a que se refiere el artículo anterior, serán sancionadas mediante la emisión de boletas de infracción, que serán impuestas por conducto del Titular de la Dirección, del Jefe del Departamento de Aseo Público o de los Inspectores adscritos a este último, salvo en el caso de las sanciones previstas en los numerales 1, 2, 3 y 4 de la fracción V del artículo 38, que serán impuestas por el titular de la Dirección.
+
+Adicionalmente a la sanción pecuniaria, en caso de ser sorprendido en flagrancia, el infractor será responsable de subsanar en el acto la conducta u omisión en que haya incurrido, y los daños que en su caso hubiera causado. En caso de no hacerlo, la Dirección, de contar con la capacidad operativa para ello, podrá llevar a cabo las acciones correspondientes, generándose a cargo del infractor la obligación de pagar los derechos que se causen por la prestación de los servicios públicos de limpia.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 40.
 
-Los Inspectores de Aseo Público, estarán facultados para realizar inspecciones para verificar el cumplimiento de las disposiciones del presente Reglamento, asentando en actas las infracciones que observen que no sean de las que deben sancionarse mediante boleta de infracción.
+Los formatos de boleta de infracción deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+I. Estar impresos y foliados;
+
+II. Contar con el número de copias necesarias;
+
+III. Redactarse en idioma español;
+
+IV. Señalar la fundamentación de la imposición de la sanción o sanciones;
+
+V. Contener espacio para observaciones y firma del presunto infractor;
+
+VI. Contener un espacio al reverso para leyendas e información respecto a:
+
+a) El plazo y lugar para pagar la multa;
+
+b) Los medios de impugnación que procedan contra la imposición de la infracción;
+
+c) Las instancias ante las cuales podrán presentarse quejas o denuncias contra la actitud o trato de quien emita la boleta de infracción, y
+
+d) El número telefónico para aclaraciones o dudas.
+
+VII. Contener los siguientes datos, que deberán ser asentados por conducto de quien imponga la sanción:
+
+a) Nombre y domicilio del infractor, o en su caso, del propietario del vehículo, bien inmueble o responsable de la actividad industrial, comercial o de servicios públicos o privados de que se trate, si se conocen dichos datos;
+
+b) Número y tipo de identificación y en su caso, comprobante de domicilio del presunto infractor, si se tiene dicha documentación a la vista;
+
+c) Datos de identificación y matrícula, cuando la infracción se cometa a bordo de vehículos de motor, así como domicilio o ubicación, cuando la infracción se produzca dentro de un inmueble o con motivo de actividades comerciales o de servicios en la vía pública.
+
+d) Los actos o hechos constitutivos de la o las infracciones, precisándose el ordenamiento, artículo y en su caso fracción infringidos.
+
+e) El lugar, fecha y hora en que se haya cometido o detectado la infracción;
+
+f) La sanción que proceda, indicando el monto a pagar, expresado en veces la U.M.A., por cada infracción cometida;
+
+g) El nombre y firma de quien emita la boleta de infracción;
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 41.
 
-Cuando se tenga conocimiento del incumplimiento de cualquiera de las disposiciones a que se refiere el artículo 22 fracciones I y II, la Dirección requerirá al propietario o poseedor del inmueble del que se trate, mediante orden fundada y motivada, para que en el término de diez días hábiles siguientes a la notificación, lleve a cabo las acciones que se le exijan, o acuda a convenir un plazo mayor según el caso, apercibido de que de no hacerlo, la Dirección llevará a cabo dichas acciones a costa del mismo responsable, y se le aplicará una sanción consistente en multa de veinticinco a doscientos días de salario mínimo general vigente en el Municipio, si se trata de un predio para uso habitacional, y de cincuenta a mil días de salario mínimo general vigente, si se trata de un predio para cualquier otro uso.
+Para determinar el monto de la sanción a imponer dentro del rango que le corresponda, se tomará en cuenta:
 
-En caso de que no se atienda el requerimiento de la autoridad en el plazo concedido, y sin perjuicio de la sanción pecuniaria que proceda, la Dirección llevará a cabo las acciones de limpieza, cercado, demolición y demás obras que se le hubieren exigido al responsable, y lo comunicará a la Tesorería Municipal, a fin de que esta determine y cobre los derechos que correspondan por la prestación de dichos servicios.
+I.- La gravedad de la infracción;
 
-El procedimiento a que se refiere este artículo se seguirá también cuando los responsables de establecimientos industriales, comerciales o de servicios públicos o privados, incumplan con lo previsto en la primera parte de la fracción IV del artículo 22 de este Reglamento.
+II.- En su caso, la disposición del infractor para reparar o revertir el daño en el acto, cuando ello fuera posible;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+III.- Si hubo o no intención de cometer la infracción, y
+
+IV.- La afectación que la infracción haya provocado.
+
+En el caso de reincidencia del infractor, se estará a lo dispuesto en el artículo 45 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 42.
 
-En el caso de vehículos abandonados en la vía pública, la Dirección requerirá mediante orden fundada y motivada al responsable del mismo, para que en un término de setenta y dos horas, lo retire de la vía pública, o acuda a convenir un plazo mayor, apercibido de que de no hacerlo, la Dirección lo retirará a su costa, y se le aplicará una sanción consistente en multa de veinte a veinticinco días de salario mínimo general vigente en el Municipio.
+El incumplimiento de las disposiciones a que se refieren los artículos 22 fracciones I, II y V o 35, se hará constar mediante acta circunstanciada, y por conducto del titular de la Dirección se requerirá al propietario o poseedor del inmueble o vehículo de que se trate, mediante Orden fundada y motivada, que se expedirá por triplicado y le será notificada en los términos previstos en este Reglamento, para que en el término máximo de diez días hábiles siguientes a la notificación, tratándose de los casos del artículo 22 y máximo de setenta y dos horas, tratándose del artículo 35, lleve a cabo las acciones que se le requieran, o acuda a convenir un plazo mayor cuando exista causa justificada; apercibido de que de no hacerlo, se le aplicarán las sanciones previstas en el artículo 38 de este Reglamento.
 
-De no ser retirado el vehículo de la vía pública en dicho término, lo remolcará la Dirección y lo depositará en el sitio con que cuente el Ayuntamiento para este fin, comunicándolo a la Tesorería Municipal, a fin de que esta determine y cobre al infractor los derechos que correspondan por la prestación de este servicio.
+En caso de que no se atienda la Orden a que se refiere el párrafo anterior en el plazo concedido, la Dirección, de contar con la capacidad operativa para ello, llevará a cabo las acciones de limpieza, cercado, demolición, remoción o remolque que correspondan, a costa del propietario o poseedor y lo comunicará a la Tesorería Municipal, a fin de que esta determine y cobre los derechos que correspondan por la prestación de dichos servicios, sin detrimento del cobro de la multa que haya sido impuesta por el titular de la Dirección.
+
+Los instrumentos, desechos, escombro o material que resulten de las acciones de limpieza, demolición o remoción, así como los vehículos remolcados por la Dirección, serán depositados en los sitios autorizados por el Ayuntamiento para tales fines, en tanto el infractor pague las sanciones impuestas. Transcurridos treinta días naturales a partir de la imposición de la sanción, sin que el infractor pague la multa y los derechos generados, el Municipio podrá disponer de ellos en los términos previstos en el artículo 8 de este Reglamento, una vez que el Ayuntamiento se los adjudique en propiedad conforme a las leyes y reglamentos aplicables. Esta previsión deberá señalarse en la Orden a que se refiere el párrafo anterior.
+
+Cuando la Dirección se vea impedida legalmente o no cuente con la capacidad operativa para proceder en los términos previstos en el segundo párrafo de este artículo, vencido el plazo concedido al infractor para que subsane la acción u omisión, se duplicará el monto de la multa originalmente impuesta.
 
 ###### Artículo 43.
 
@@ -453,49 +525,97 @@ El incumplimiento de las condiciones establecidas en las autorizaciones que conc
 
 En el caso de que se omitan las revalidaciones que ordena el presente Reglamento, adicionalmente a las sanciones pecuniarias que procedan, el infractor estará impedido para continuar desarrollando la actividad a que se refiera la autorización.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
 ###### Artículo 44.
 
-Cuando se hubiere concedido un plazo para subsanar la o las infracciones que se hubieren cometido, y vencido éste resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas hasta por la cantidad media aritmética del rango que corresponda, por cada día que transcurra sin observarse las disposiciones del presente Reglamento, sin que el monto total exceda de cinco mil veces el salario mínimo general vigente en el Municipio.
+Como garantía de que el infractor liquidará la multa, se procederá como sigue:
+
+a) Tratándose de infracciones vinculadas con bienes inmuebles, la Dirección solicitará la anotación de la multa correspondiente en el Sistema de Recaudación de Rentas Municipal, para su vinculación con el predio de que se trate.
+
+b) En el caso de infracciones detectadas en flagrancia, relacionadas con vehículos automotores:
+
+1. Si el vehículo porta placas de circulación expedidas por autoridad competente del Gobierno del Estado de Baja California, la Dirección solicitará la anotación de la multa correspondiente en el Sistema de Recaudación de Rentas Municipal, para su vinculación con el vehículo.
+
+2. Si el vehículo no porta placas expedidas por autoridad competente del Estado de Baja California, se solicitará el auxilio de un Agente de la Dirección de Seguridad Pública Municipal, quien presentará al infractor ante el Juez Calificador y retendrá el vehículo, concediéndose al infractor un plazo de veinticuatro horas, contado a partir de la imposición de la multa, para cubrir el pago.
+
+Una vez transcurrido dicho plazo sin que se realice el pago de la multa, la Recaudación de Rentas Municipal ordenará el traslado del vehículo al depósito vehicular.
+
+Para la devolución de vehículos retenidos en garantía en los depósitos vehiculares, será indispensable que se compruebe su propiedad o posesión legal ante la Recaudación de Rentas Municipal y se paguen las multas impuestas y los derechos generados. Transcurridos treinta días naturales sin que se paguen las multas y derechos o se reclame el vehículo, el Municipio podrá disponer de éste conforme lo señala el artículo 8 de este Reglamento. Si no se comprueba la estancia legal del vehículo en el país, se dará aviso a la autoridad federal competente, poniendo el vehículo de que se trate a disposición de esta última.
+
+3. Si la infracción está vinculada con una actividad comercial o de servicios en la vía pública, se informará al Departamento de Comercio Ambulante para que se exija su pago antes de la revalidación de los permisos correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 45.
 
-Cuando el infractor se haga acreedor a cualquiera de las sanciones establecidas en este Reglamento y reincida en la comisión de la misma infracción, se le aplicará otra multa hasta por el doble máximo respectivo de dicha sanción.
-
-Si por tercera o ulterior ocasión comete la misma infracción a las disposiciones del presente Reglamento, se le aplicará hasta el doble de la sanción impuesta por causa de la reincidencia anterior.
-
-###### Artículo 46.
+Si el infractor reincide por primera ocasión en la comisión de una infracción, el monto de la multa será duplicado respecto al de la infracción anterior que se le hubiera impuesto. En el caso de reincidencia ulterior, la multa aplicable será por el doble de la segunda sanción.
 
 Cuando con un mismo acto se cometan diversas infracciones al presente Reglamento, se sancionará cada una por separado conforme al rango que les corresponda.
 
-###### Artículo 47.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
-Los instrumentos, materiales, vehículos y demás bienes que se utilicen para la comisión de infracciones a este Reglamento, podrán ser retirados de la vía o lugares públicos por los Inspectores de Aseo Público, y retenidos por la Dirección mediante su depósito en los lugares autorizados por el Ayuntamiento, mientras se subsanan dichas infracciones y se pagan las sanciones correspondientes.
+###### ARTÍCULO 46.
+
+Los propietarios de vehículos serán solidariamente responsables con los conductores o pasajeros, por las infracciones que se cometan a bordo de los mismos; de igual forma, los conductores de los vehículos serán solidariamente responsables por las infracciones cometidas por sus acompañantes.
+
+Los propietarios de inmuebles, establecimientos o negocios en la vía pública serán solidariamente responsables por las infracciones que cometan sus cohabitantes, trabajadores, clientes o cualquier persona cuya estancia en dichos bienes sea bajo su consentimiento. Si la posesión del inmueble la ostenta un tercero, éste será responsable solidario de los cohabitantes y de quienes se encuentren en el mismo bajo su consentimiento.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
+###### ARTÍCULO 47.
+
+En caso de infracciones flagrantes a las disposiciones de este Reglamento, el servidor público autorizado deberá llevar a cabo el siguiente procedimiento para emitir la boleta de infracción:
+
+I. Se identificará ante el infractor con su nombre completo;
+
+II. Señalará al infractor la conducta u omisión en que se presume ha incurrido, indicando el ordenamiento, artículo y fracción que la contiene, así como la sanción aplicable;
+
+III. Requerirá al infractor que muestre una identificación oficial y comprobante de domicilio cuando éste no aparezca en su identificación;
+
+IV. Si el infractor acredita su identidad y domicilio, levantará la boleta de infracción y entregará a aquél el ejemplar que corresponda;
+
+V. Si el infractor no acredita de manera fehaciente su identidad y domicilio, se solicitará el auxilio de la Dirección de Seguridad Pública Municipal, para la presentación inmediata del infractor ante el Juez Calificador, y
+
+VI. Procederá sin interrupción desde el momento de su identificación hasta el levantamiento de la boleta de infracción o en su caso, el arribo del Agente de la Dirección de Seguridad Pública Municipal.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 48.
 
-Las sanciones pecuniarias que se impongan por infracciones al presente Reglamento, podrán permutarse por horas de trabajo comunitario en el servicio público de limpia.
+Las sanciones pecuniarias que se impongan por infracciones al presente Reglamento, podrán permutarse por trabajo comunitario en el servicio público de limpia. Por cada vez la U.M.A. que se imponga como sanción, corresponderá una hora de trabajo comunitario. La Dirección establecerá las actividades que deberán realizarse por el infractor, de acuerdo con las necesidades del servicio.
 
-Por cada día de salario que se imponga como sanción, corresponderá una hora de trabajo comunitario.
-
-La Dirección establecerá las actividades que deberán realizarse por el infractor, de acuerdo con las necesidades del servicio.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
 ###### Artículo 49.
 
-Las notificaciones que deban hacerse con motivo de la aplicación del presente Reglamento, se harán por los Inspectores de Aseo Público conforme a las siguientes reglas:
+Las notificaciones que deban hacerse con motivo de la aplicación del presente Reglamento se harán por conducto del Titular de la Dirección, del Jefe del Departamento de Aseo Público o de los Inspectores adscritos a este último, conforme a las siguientes reglas:
 
-I.- Cuando se trate de boletas de infracción, se entregarán al responsable, o a la persona que se encuentre a cargo del lugar en que tenga lugar la infracción;
+a) Tratándose de faltas cometidas en las vías o bienes públicos o a bordo de vehículos, en flagrancia del infractor, la boleta de infracción le será entregada personalmente a aquél. Si el infractor se niega a recibirla o firmarla, se solicitará el auxilio de la fuerza pública para que se proceda conforme a lo señalado en el artículo 47 fracción V de este Reglamento.
 
-II.- En los demás casos se procederá como sigue:
+b) En el caso de infracciones vinculadas directamente con inmuebles o actividades industriales, comerciales o de servicios públicos o privados establecidos en domicilio fijo o prestados en la vía pública, la boleta de infracción, Orden del titular de la Dirección o resolución se entregará personalmente al propietario o poseedor y si éste no se encuentra presente, podrá entregarse a quien se encuentre en el domicilio o labore en el lugar, recabándose su nombre y firma. En caso de que la persona se niegue a recibir o firmar la boleta de infracción o requerimiento, se procederá en los términos previstos en el siguiente párrafo, asentándose tal circunstancia en el apartado de observaciones de la Boleta de Infracción o constancia respectiva.
 
-a.- Cuando la autoridad conozca el domicilio de la persona a notificar, hará la notificación en forma personal recabando el nombre y firma del interesado.
+Si al momento de detectarse la infracción no se encuentra persona alguna en el domicilio o laborando en el lugar, se llenará un formato de citatorio en original y duplicado, colocándose el original en lugar visible, y el duplicado se conservará en poder de quien realice la diligencia. En el citatorio se requerirá a quien resulte propietario, poseedor o responsable, para que dentro del plazo máximo de tres días hábiles acuda a la Dirección, con identificación oficial con fotografía y comprobante de domicilio, y manifieste lo que a su derecho convenga, señalándole el lugar y horario en que deberá presentarse. Si el citatorio no es atendido, se levantará la boleta de infracción y se solicitará su inscripción en el Sistema de Recaudación de Rentas del Municipio cuando se trate de establecimientos fijos, o se dará aviso al Departamento de Comercio Ambulante, cuando se trate de actividades comerciales en la vía pública.
 
-Cuando el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil siguiente.
+c) Cuando se trate de predios baldíos, construcciones abandonadas o en desuso y no sea posible notificar al propietario o poseedor en el domicilio señalado para tales efectos en el registro de catastro municipal, o hubiere fallecido y no se conozca al representante de la sucesión, se desconozca su paradero, se ignore su domicilio o éste o el de su representante legal se encuentren fuera del territorio municipal, las notificaciones se harán por edictos, que se publicarán en un diario de amplia circulación en el Municipio, por dos veces en días hábiles, mediando cuando menos dos días naturales entre ambas publicaciones. Una vez que la notificación surta efectos, se solicitará la inscripción de la boleta de infracción en el Sistema de Recaudación de Rentas del Municipio.
 
-Cuando la persona citada no esperare, se practicará la diligencia con quien se encuentre en el domicilio, o en su defecto con un vecino. En caso de que éstos últimos se negasen a recibir la notificación, esta se hará por medio de instructivo que se fijará en un lugar visible del domicilio de la persona a notificar, debiendo el Inspector asentar razón de tal circunstancia.
+En las publicaciones señaladas en este inciso, bastará que se señale la clave catastral y el nombre de la persona inscrita como propietario o poseedor en el registro de catastral (sic) municipal.
 
-b.- Cuando la persona a notificar no viva en el domicilio que hubiere señalado para efectos del catastro municipal, hubiere fallecido y no se conozca al representante de la sucesión, hubiere desaparecido, se ignore su domicilio o éste o el de su representante no se encuentre en el territorio municipal, las notificaciones se harán por edictos que se publicarán por dos veces en días hábiles, en un diario de los de mayor circulación en el Municipio, en un término de cinco días.
+d) Cuando se trate de vehículos abandonados en la vía pública, cuyo propietario o poseedor se desconozca, las notificaciones se harán por instructivo, que se fijará en lugar visible del vehículo, junto con un ejemplar de la Orden a que se refiere el artículo 42 de este Reglamento.
 
-III.- Las notificaciones sufrirán efectos conforme a lo siguiente: las personales al día hábil siguiente a aquel en que sean hechas, y al practicarlas, deberá proporcionarse al interesado copia del acto administrativo que se le notifique; las que se hagan por edictos surtirán efectos al día hábil siguiente al de última publicación.
+El instructivo y la Orden serán dirigidos a quien resulte propietario o poseedor del vehículo, señalándose en esta última la marca y línea del vehículo y el lugar en que se encuentra abandonado el mismo, y cuando ello fuera posible, se asentará el color, número de serie, número de placa o cualquier otra circunstancia que pudiera ser de utilidad para su identificación. En estos casos también se dará aviso a la Dirección de Seguridad Pública Municipal, la cual verificará si el vehículo de que se trate cuenta con reporte de robo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2018)</small>
+
+###### Artículo 49 Bis.
+
+Las notificaciones sufrirán (sic) efectos conforme a lo siguiente:
+
+a) A partir del día en que se entregue la boleta de infracción, Orden del titular de la Dirección o resolución, cuando se hagan personalmente.
+
+b) A partir del día siguiente a la fecha del citatorio, cuando el infractor no acuda en la fecha y horario señalados.
+
+c) A partir del día natural siguiente al de última publicación, cuando se hagan por edictos.
 
 ### CAPÍTULO QUINTO. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -558,3 +678,19 @@ SEXTO.- Se remita copia de las reformas antes citadas a la Secretaría de Protec
 SÉPTIMO.- Se remita copia de las reformas antes citadas a la Procuraduría General de Justicia del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
 
 OCTAVO.- Se llevará a cabo una campaña de socialización, educación y discusión del propósito de los presentes Acuerdos, por parte de la Dirección de Protección al Ambiente para el Municipio de Mexicali, Baja California, para que la ciudadanía conozca la problemática de fondo, así como sus derechos y obligaciones en materia ecológica y las ubicaciones de los centros de acopio y/o transferencia, así como los requisitos para la disposición de los residuos.
+
+P.O. 8 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN REFORMAS A LOS ARTÍCULOS 2, 3, 8, 19, 21, 22, 36, 37, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49, Y SE ADICIONA UN ARTÍCULO 49 BIS DEL REGLAMENTO PARA LA PRESERVACIÓN DEL ASEO PÚBLICO EN EL MUNICIPIO DE MEXICALI, B.C.”.]
+
+PRIMERO.- Salvo por lo señalado en el Artículo Segundo Transitorio, las presentes reformas entrarán en vigor a los sesenta días naturales siguientes a la fecha de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La reforma al artículo 40 entrará en vigor una vez que se expidan los formatos actualizados de las boletas de infracción, que cumplan con los requisitos señalados en dicho numeral, lo cual no podrá exceder de noventa días naturales, contados a partir de la fecha de publicación de las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Las infracciones cometidas con anterioridad a la entrada en vigor de estas reformas se sancionarán y regularán por las disposiciones que se encontraban vigentes al momento en que se incurrió en la conducta u omisión.
+
+CUARTO.- La Dirección de Servicios Públicos Municipales y la Tesorería Municipal, deberán tomar las previsiones necesarias para hacer efectivas las disposiciones objeto de las presentes reformas, en el ámbito de sus respectivas competencias.
+
+QUINTO.- La Dirección de Servicios Públicos Municipales deberá reforzar las labores de limpieza en los predios propiedad del Municipio.
+
+SEXTO.- La Dirección de Comunicación Social deberá coordinarse con la Dirección de Protección al Ambiente, la Dirección de Servicios Públicos Municipales y la Dirección de Seguridad Pública Municipal, a fin de difundir, conforme a su disponibilidad presupuestal, las presentes reformas entre los habitantes del Municipio de Mexicali, para promover su conocimiento y debido cumplimiento.
