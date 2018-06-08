@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2017-09-05"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -1897,7 +1897,9 @@ Para el cumplimiento de sus fines y aprovechamiento de sus recursos, los ayuntam
 
 El Plan de Desarrollo Municipal es el instrumento para el desarrollo integral de la comunidad, el cual contendrá:
 
-I. Los objetivos generales, estrategias, metas y prioridades de desarrollo integral del municipio.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
+
+I. Los objetivos y estrategias generales, criterios o líneas de acción, así como indicadores y metas vinculadas a los indicadores.
 
 II. Las previsiones sobre los recursos que serán asignados a tales fines.
 
@@ -2872,3 +2874,11 @@ P.O. 5 DE SEPTIEMBRE DE 2017.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 8 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 47 DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO Y LA FRACCIÓN I DEL ARTÍCULO 117 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
