@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-proteccion-al-medio-ambiente-del-81500"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-26"
-last_updated: "2017-01-26"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE JUNIO DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 26 de mayo de 2011.
 
@@ -33,7 +33,9 @@ CIUDADANA IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE YUCATÁN, A 
 
 QUE EN EJERCICIO DE LAS ATRIBUCIONES CONFERIDAS AL TITULAR DEL PODER EJECUTIVO DEL ESTADO EN LOS ARTÍCULOS 55 FRACCIÓN II Y XXV, Y 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, 14 FRACCIONES VIII Y IX DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, CON FUNDAMENTO EN LO ESTABLECIDO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto y fundado, se emite el siguiente:
 
@@ -579,7 +581,7 @@ I. El establecimiento, construcción u operación de un conjunto de obras o acti
 
 II. Las obras o actividades que al desarrollarse en determinados sitios y por sus impactos acumulativos, sinérgicos o residuales, pudieran ocasionar alguna fragmentación o destrucción a los ecosistemas;
 
-III. Los demás que determine la Secretaría; (sic)
+III. Los demás que determine la Secretaría;
 
 ###### Artículo 43.
 
@@ -625,7 +627,7 @@ II. Análisis y determinación de la calidad actual y de la proyectada de los fa
 
 III. Descripción del posible escenario ambiental resultante de la ejecución del proyecto, incluyendo las variaciones en la calidad de los factores ambientales, y
 
-IV. Resultados benéficos al medio ambiente en la realización de las Medidas de Prevención, Mitigación o Compensación, o medidas alternativas; (sic)
+IV. Resultados benéficos al medio ambiente en la realización de las Medidas de Prevención, Mitigación o Compensación, o medidas alternativas;
 
 ###### Artículo 45.
 
@@ -793,15 +795,17 @@ Cuando otorgada la autorización de impacto ambiental, se presenten causas que i
 
 Recibida la información solicitada, se podrá confirmar la autorización, modificarla, condicionarla e incluso suspenderla o revocarla, cuando esté en riesgo el equilibrio ecológico o se pudieran producir alteraciones graves al medio ambiente.
 
+> <small>(REFORMADO, D.O. 8 DE JUNIO DE 2018)</small>
+
 ###### Artículo 64.
 
-La autorización otorgada para el inicio y conclusión de la obra o actividad evaluada tendrá una vigencia de un año contado a partir del día siguiente a la notificación de la resolución. De acuerdo a lo anterior se podrán dar los siguientes supuestos:
+La autorización otorgada para el inicio y conclusión de la obra o actividad evaluada tendrá una vigencia de dos años, contada a partir del día siguiente al de la notificación de la resolución. De acuerdo con lo anterior se podrán dar los siguientes supuestos:
 
-I. En caso de no hacer uso de la autorización en el plazo de un año, el expediente será archivado, debiendo tramitar una nueva autorización en los términos del artículo siguiente.
+I. En caso de no hacer uso de la autorización en el plazo de dos años, el expediente será archivado, debiendo tramitar una nueva autorización en los términos del artículo siguiente.
 
-II. Si durante la vigencia de la autorización, la obra presenta un avance mayor del treinta por ciento de la obra, constatándose con una visita al sitio, se deberá solicitar una prórroga para su terminación, la cual se otorgará por una sola vez, siempre y cuando justifique la razón por las cuales no fue posible concluirla, manifestando si el proyecto ha sido modificado o si las características del predio siguen siendo las mismas que dieron sustento a la autorización.
+II. Si durante la vigencia de la autorización, la obra presenta un avance mayor del treinta por ciento, constatándose con una visita al sitio, se deberá solicitar una prórroga para su terminación, la cual se otorgará por una sola vez, siempre y cuando se justifique la razón o razones por las cuales no fue posible concluirla, manifestando si el proyecto ha sido modificado o si las características del predio siguen siendo las mismas que dieron sustento a la autorización.
 
-III. Vencido el plazo de un año y habiéndose iniciado la obra o actividad en el sitio objeto de la autorización, con un avance menor al treinta por ciento deberá de iniciar de nuevo el procedimiento para solicitar la autorización con los datos actualizados de la obra o actividad.
+III. Vencido el plazo de dos años, y habiéndose iniciado la obra o actividad en el sitio objeto de la autorización, con un avance menor al treinta por ciento, deberá de iniciar de nuevo el procedimiento para solicitar la autorización con los datos actualizados de la obra o actividad.
 
 ###### Artículo 65.
 
@@ -2402,3 +2406,11 @@ D.O. 26 DE ENERO DE 2017.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 8 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 618/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
