@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2017-07-19"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -313,9 +313,11 @@ XVII. Acceder a los servicios de apoyo económico establecido por el artículo 4
 
 XVIII. Los demás que establezca la ley.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 7°.
 
-Ninguna persona adulta mayor podrá ser objeto de discriminación por razón de su edad, género, estado físico o mental, creencia religiosa, condición económica y social.
+Ninguna persona adulta mayor podrá ser discriminada en razón de su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ## TITULO SEGUNDO. COMPETENCIAS
 
@@ -1210,6 +1212,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0678.- SE REFORMA (SIC) LOS ARTÍCULOS 6º Y 42; Y ADICIONA A LOS ARTÍCULOS, 6º UNA FRACCIÓN, Y 42 LA FRACCIÓN IV, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 973.- SE REFORMA EL ARTÍCULO 7° DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
