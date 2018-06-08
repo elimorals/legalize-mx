@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2015-09-17"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -535,6 +535,20 @@ Las decisiones en este comité deberán adoptarse por la mayoría de miembros pr
 
 La persona titular del plantel educativo o quien designe, y que pertenezca al Comité de Prevención y Seguridad Escolar, será quien lo represente ante el Consejo Escolar correspondiente.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 8 DE JUNIO DE 2018)</small>
+
+Las promotoras y promotores en derechos humanos para el nivel escolar de primaria, y las consejeras y consejeros estudiantiles en derechos humanos en el nivel de educación secundaria y nivel medio superior, tendrán garantizada su participación e inclusión a través de los consejos de participación social o las asambleas escolares, en cuanto a lo que les confieren las leyes y lineamientos en la materia, para proteger y promover sus derechos, deberes y responsabilidades. Por lo que se remiten a lo siguiente:
+
+I. Las y los promotores y consejeros estudiantiles serán electos por las y los alumnos, en procesos participativos y democráticos. Los procedimientos de elección, en cuanto a la organización estarán a cargo de las autoridades escolares, cuyas disposiciones estarán contenidas en el reglamento escolar, lo referente a la convocatoria y a los requisitos de elegibilidad;
+
+II. Las y los promotores y consejeros estudiantiles, desempeñarán su encomienda por un periodo de un año de forma voluntaria y honorifica, con la posibilidad de reelegirse hasta por un periodo igual;
+
+III. Las y los promotores y consejeros estudiantiles a través de las y los alumnos promoverán la cultura de respeto a los derechos humanos, dentro y fuera de los planteles escolares, en coordinación con las autoridades educativas y el Comité de Prevención y Seguridad Escolar;
+
+IV. Serán tomadas en consideración las expresiones y opiniones que emitan las y los promotores y consejeros, en relación a las decisiones que emitan las autoridades educativas de los asuntos del ámbito escolar, en conjunto con el Comité de Prevención y Seguridad Escolar, y
+
+V. Las y los consejeros y promotores estudiantiles actuarán con absoluta responsabilidad, comportándose siempre en el marco del respeto hacia las alumnas y alumnos, docentes, directivos, personal administrativo, padres, madres, cuidadoras y cuidadores.
+
 ###### Artículo 27.
 
 Las actividades que lleven a cabo los comités de prevención y seguridad escolar, que involucren acciones específicas de carácter permanente por parte de las autoridades, deberán formalizarse previamente mediante la suscripción de convenios de colaboración que realice la Secretaría con las autoridades competentes.
@@ -836,3 +850,11 @@ P.O. 17 DE SEPTIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 975.- SE ADICIONA AL ARTÍCULO 26 EL PÁRRAFO QUINTO CON CINCO FRACCIONES, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
