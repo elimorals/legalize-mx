@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-05-18"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -171,9 +169,9 @@ II.- Nombrar y remover al personal a su cargo;
 
 III.- Vigilar que la administración de los bienes del Municipio, la recaudación fiscal, los procedimientos administrativos, la ejecución de obras y el ejercicio de los recursos, se realicen conforme a las disposiciones normativas aplicables en la materia, dictando las medidas preventivas correspondientes e imponiendo las sanciones que resulten procedentes, de conformidad con lo dispuesto por la Ley de la materia y la reglamentación municipal, y
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
 
-IV.- Determinar la existencia de responsabilidad administrativa, imponiendo y aplicando las sanciones que en derecho procedan;
+IV.- Investigar, substanciar el procedimiento administrativo y en su caso, determinar la existencia de responsabilidades administrativas graves y no graves; para el caso de faltas administrativas no graves impondrá las sanciones administrativas correspondientes en términos de los establecido en la Ley de Responsabilidades Administrativas del Estado de Baja California, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -183,17 +181,17 @@ V.- En caso de presumirse la comisión de ilícitos sancionados por el Código P
 
 VI.- Dictar las medidas preventivas correspondientes;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
 
-VII.- Si con motivo de la Auditoría Interna se llegaren a encontrar irregularidades graves o en su caso, se haya presentado denuncia penal por las citadas irregularidades, informar de ello al Congreso del Estado y al Órgano de Fiscalización Superior en un plazo de cinco días hábiles contados a partir del momento en que se detecte la irregularidad o se presente la denuncia penal correspondiente;
+VII.- Si con motivo del resultado de la investigación que se inicie, ya sea derivada de una Auditoria Interna, de una denuncia o de oficio se llegaren a encontrar faltas administrativas graves, deberá elaborar el Informe de presunta responsabilidad administrativa y promover las responsabilidades que sean procedentes ante el Tribunal Estatal de Justicia Administrativa, así como presentar la denuncia de hechos ante la Fiscalía Especializada en combate a la corrupción del Estado o demás autoridades competentes, para la imposición de las sanciones que correspondan a los servidores públicos o a los particulares en los términos de las disposiciones legales aplicables; debiendo además cuando corresponda, informar de ello al Congreso del Estado y a la Auditoria Superior del Estado una vez concluidas las diligencias de investigación y dentro de un plazo de cinco días hábiles contados a partir del momento en que haya sido calificada como grave la falta administrativa;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
 
-VIII.- Recibir del Órgano de Fiscalización Superior, las observaciones resultantes de la revisión de las cuentas públicas y proceder de conformidad a lo establecido por la Ley de la materia;
+VIII.- Recibir de la Auditoría Superior del Estado de Baja California, las acciones y recomendaciones resultantes de la fiscalización de las cuentas públicas y proceder de conformidad a lo establecido en la Ley de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2018)</small>
 
-IX.- Recibir del Congreso del Estado los Dictámenes derivados de las cuentas públicas correspondientes, para su debido cumplimiento, según lo establecido en los Artículos 63 y 64 de la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios; y
+IX.- Recibir y dar debido cumplimiento a los dictámenes emitidos por el Congreso del Estado, derivados de la fiscalización de las cuentas públicas correspondientes, según lo establecido en la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California y sus Municipios;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -230,6 +228,10 @@ XVII.- Presidir las reuniones de los Comisarios Sociales Honorarios.
 > <small>(REFORMADA [N. DE E, ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 XVIII.- Las demás que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2018)</small>
+
+Las facultades a que se refiere el presente artículo podrán ser ejercidas por el Síndico Procurador o a través de la estructura a su cargo, según lo establezcan los reglamentos municipales correspondientes a cada Ayuntamiento.
 
 ARTÍCULO 8 BIS.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
 
@@ -269,7 +271,17 @@ Del Régimen Hacendario Municipal.- Los Municipios administrarán libremente su 
 
 De la Hacienda Municipal.- La hacienda municipal se conforma de los rendimientos de los bienes que le pertenezcan, así como de las contribuciones, impuestos, derechos, aprovechamientos y demás ingresos que el Congreso del Estado establezca a su favor de conformidad con las disposiciones constitucionales aplicables, la Ley de Hacienda Municipal y demás normatividad relativa.
 
-El Congreso del Estado, revisará y fiscalizará cada año, las cuentas públicas del Ayuntamiento, relativas al ejercicio anterior. Para tal efecto los Ayuntamientos deberán remitirlas dentro del término y conforme a las formalidades que señale la Ley.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
+El Congreso del Estado, revisará y fiscalizará cada año, las cuentas públicas del Ayuntamiento relativas al ejercicio anterior; así como el informe de Avance de Gestión Financiera.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2018)</small>
+
+En términos de lo dispuesto en el artículo 63 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California y sus Municipios, se podrá fiscalizar la gestión financiera durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2018)</small>
+
+Para los efectos de lo establecido en el presente artículo los Ayuntamientos deberán remitir la cuenta pública e información correspondiente a la gestión financiera del ejercicio fiscal en curso, y en su caso, de los ejercicios fiscales distintos al anterior dentro del término y conforme a las formalidades que señale la Ley de la materia.
 
 Con base en la proyección de los ingresos disponibles para cada ejercicio fiscal, los Ayuntamientos aprobarán y ejercerán sus presupuestos de egresos.
 
@@ -1002,3 +1014,19 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 > <small>(F. DE E., P.O. 18 DE MAYO DE 2018)</small>
 
 SEGUNDO.- Los Ayuntamientos del Estado dispondrán de sesenta días para modificar los reglamentos interiores.
+
+P.O. 8 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 241 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 11 DE LA LEY DEL RÉGIMEN MUNICIPAL PAR EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Ayuntamientos dentro (sic) un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente reforma, deberán crear o en su caso adecuar la reglamentación municipal, así como las normas técnicas que correspondan.
+
+P.O. 8 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 243 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LAS FRACCIONES IV, VII, VIII Y IX DEL ARTÍCULO 8 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA ".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Ayuntamientos dentro un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente reforma, deberán crear o en su caso adecuar la reglamentación municipal, así como las normas técnicas que correspondan.
