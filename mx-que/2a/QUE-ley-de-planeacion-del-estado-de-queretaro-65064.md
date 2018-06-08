@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-planeacion-del-estado-de-queretaro-65064"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2017-04-21"
+last_updated: "2018-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -33,7 +33,9 @@ Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, 
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, aprueba la siguiente:
 
@@ -493,9 +495,11 @@ En dichos Planes se dará estricta observancia al principio de estabilidad de la
 
 Al Comité de Planeación para el Desarrollo Municipal, corresponderá la elaboración del Plan Municipal de Desarrollo respectivo y al ayuntamiento tocará su estudio y aprobación.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
+
 ###### Artículo 47.
 
-El Plan Municipal de Desarrollo tendrá una duración de tres años y comprenderá los propósitos, objetivos, prioridades, estrategias generales y criterios de acción para el desarrollo integral del municipio.
+El Plan Municipal de Desarrollo tendrá una duración de tres años y comprenderá los objetivos y estrategias generales, criterios o líneas de acción, así como indicadores y metas vinculadas a los indicadores, a fin de que exprese con claridad los propósitos y prioridades para el desarrollo integral del municipio.
 
 ###### Artículo 48.
 
@@ -642,3 +646,11 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 8 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 47 DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO Y LA FRACCIÓN I DEL ARTÍCULO 117 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
