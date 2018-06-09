@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-las-candidaturas-independientes-en-el-108834
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2015-06-12"
+last_updated: "2018-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -87,7 +87,9 @@ II. Munícipes de los Ayuntamientos por el principio de mayoría relativa, y
 
 III. Diputados por el principio de mayoría relativa.
 
-Los Candidatos Independientes registrados en las modalidades a que se refiere este artículo, en ningún caso serán asignados a ocupar los cargos de diputados o munícipes por el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los Candidatos Independientes registrados en las modalidades a que se refiere este artículo, en ningún caso serán asignados a ocupar los cargos de diputados por el principio de representación proporcional.
 
 ###### Artículo 5.
 
@@ -119,9 +121,11 @@ IV. Del registro de Candidatos Independientes.
 
 ### Capítulo I. De la Convocatoria
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 8.
 
-El proceso de selección de candidatos independientes, inicia con la Convocatoria que emite el Consejo General, dirigida a los ciudadanos interesados en postularse como Candidatos Independientes, señalando, por lo menos, los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.
+El proceso de selección de candidatos independientes, inicia con la Convocatoria que emite el Consejo General, dirigida a los ciudadanos interesados en postularse como Candidatos Independientes.
 
 La convocatoria deberá ser emitida:
 
@@ -129,7 +133,37 @@ I. A más tardar el primer domingo del mes de enero del año de la elección, cu
 
 II. A más tardar el primer domingo del mes de diciembre del año anterior al de la elección, cuando se celebren elecciones para Gobernador, munícipes y diputados.
 
-El Instituto Estatal dará amplia difusión a la Convocatoria, debiendo publicarla por lo menos en el Periódico Oficial del Estado y en la página electrónica del Instituto.
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 9 DE JUNIO DE 2018)</small>
+
+Esta convocatoria deberá contener como mínimo, lo siguiente:
+
+a) La fecha de expedición y el órgano que la emite.
+
+b) Los cargos de elección popular a los que pueden aspirar los ciudadanos interesados;
+
+c) Los requisitos de elegibilidad y demás requisitos que deberán cumplir los aspirantes;
+
+d) La documentación comprobatoria requerida;
+
+e) El calendario que establezca las fechas, horarios y domicilio donde deberán presentarse las solicitudes de registro;
+
+f) La forma en que habrán de presentarse las solicitudes de registro y los documentos que habrán de acompañarlas;
+
+g) Los formatos necesarios para llevar a cabo el registro correspondiente;
+
+h) Los plazos para recabar el apoyo ciudadano correspondiente;
+
+i) El porcentaje y requisitos a observarse en la obtención del apoyo ciudadano que deberán recabar los aspirantes, conforme a la elección que corresponda;
+
+j) Los topes de gastos que podrán erogar;
+
+k) Los mecanismos que deberá implementar el Instituto para la recepción de las solicitudes de registro; así como para el cómputo y la validación del apoyo ciudadano.
+
+l) La fecha en que la autoridad deberá resolver el registro de las candidaturas.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+El Instituto Estatal dará amplia difusión a la Convocatoria, debiendo publicarla por lo menos en el Periódico Oficial del Estado, y en un diario de mayor circulación en el Estado y de cada municipio, así como en la página electrónica del Instituto.
 
 ### CAPÍTULO II. De los Actos Previos al Registro de Candidatos Independientes
 
@@ -141,7 +175,13 @@ La manifestación de la intención se realizará a partir del día siguiente al 
 
 I. Los aspirantes al cargo de Gobernador del Estado, ante el Secretario Ejecutivo del Instituto.
 
-II. Los aspirantes al cargo de munícipes, ante el Secretario Ejecutivo del Instituto, y se hará por planilla completas integradas por propietarios y suplentes de los cargos de Presidente Municipal, Síndico Procurador y Regidores, estos últimos por orden de prelación.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+II. Los aspirantes al cargo de munícipes, ante el Secretario Ejecutivo del Instituto, y se hará por planillas completas integradas por propietarios y suplentes del mismo género, de los cargos de Presidente Municipal, Síndico Procurador y Regidores, estos últimos por orden de prelación.
+
+Los aspirantes a candidatos independientes solo podrán participar en un proceso de selección de candidaturas independientes a cargos de elección popular.
+
+En caso de que un mismo ciudadano presente más de una manifestación de intención para participar en el proceso de selección de Candidaturas Independientes a cargos de elección popular, la Secretaría Ejecutiva del Instituto le requerirá dentro de las veinticuatro horas siguientes para que informe por escrito en un plazo no mayor a cuarenta y ocho horas, la manifestación de intención que prevalece, apercibiéndole que, en caso de no hacerlo, se entenderá que elige la primera presentada.
 
 III. Los aspirantes al cargo de Diputados por el principio de mayoría relativa, ante el Consejero Presidente y Secretario Fedatario del Consejo Distrital Electoral correspondiente, y se hará en formulas integradas por propietarios y suplentes.
 
@@ -158,6 +198,14 @@ II. Acreditar su alta ante el Sistema de Administración Tributaria y anexar los
 III. Señalar domicilio para oír y recibir notificaciones dentro del municipio sede de la autoridad electoral donde presente la manifestación de intención respectiva, en caso contrario serán notificados por estrados.
 
 La persona moral a la que se refiere la fracción I deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+En caso de que la manifestación se presente el último día del vencimiento de los plazos a que se refiere el artículo anterior, y la autoridad ante la que se presente la manifestación de intención detectase algún error u omisión, lo notificará de inmediato al solicitante para que, dentro de las cuarenta y ocho horas siguientes a la de la notificación, subsane el o los requisitos omitidos.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Si no se subsanan los requisitos omitidos precisados en el requerimiento, la manifestación de intención se tendrá por no presentada.
 
 ###### Artículo 11.
 
@@ -201,7 +249,9 @@ I. Para la candidatura de Gobernador del Estado, la cédula de respaldo deberá 
 
 II. Para la planilla de munícipes, la cédula de respaldo deberá estar integrada por ciudadanos de por lo menos una tercera parte de las secciones electorales del municipio correspondiente que entre todas sumen cuando menos el 2.5% de ciudadanos que figuren en la lista nominal de la demarcación municipal.
 
-III. Para la fórmula de diputados de mayoría relativa, la cédula de respaldo deberá estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales del distrito respectivo que sumen entre todas cuando menos el 3% de ciudadanos que figuren en la lista nominal de electores de la correspondiente demarcación Distrital.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+III. Para la fórmula de diputados de mayoría relativa, la cédula de respaldo deberá estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales del distrito respectivo que sumen entre todas cuando menos el 2.5% de ciudadanos que figuren en la lista nominal de electores de la correspondiente demarcación Distrital.
 
 Tratándose de la candidatura a Diputado de mayoría relativa, en caso de que la demarcación y conformación territorial del Distrito sea la misma del correspondiente municipio, se aplicara el porcentaje del 2.5 de ciudadanos que figuren en la lista nominal de la demarcación municipal, con corte al 31 de agosto del año previo a la elección.
 
@@ -337,7 +387,9 @@ VIII. En el caso que una misma persona haya presentado manifestación en favor d
 
 IX. Se actualice alguno de los supuestos previstos en el artículo 16 de esta Ley.
 
-El Secretario Ejecutivo o los Secretarios Fedatarios según correspondan, dentro del plazo señalado en este artículo notificarán al aspirante a Candidato Independiente, las firmas no computadas para que en un plazo de cuarenta y ocho horas siguientes a la notificación manifiesten lo que a su derecho corresponda.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+El Secretario Ejecutivo o los Secretarios Fedatarios, según correspondan, dentro del plazo señalado en este artículo notificarán al aspirante a Candidato Independiente la determinación con precisión del motivo por el cual los apoyos ciudadanos recabados no fueron computados, debiendo detallar de manera pormenorizada las causas por las que estos fueron desestimados, en cada caso deberá establecer los datos de identificación del registro considerado deficiente, y en el supuesto de existir duplicidad de firmas, deberá proporcionar los datos de localización necesarios para que le sea posible identificar ambos apoyos, concediéndole un plazo de cuarenta y ocho horas para que manifieste lo que a su derecho corresponda.
 
 ###### Artículo 26.
 
@@ -353,7 +405,9 @@ Los ciudadanos que aspiren a participar como Candidatos Independientes en las el
 
 Los plazos y órganos competentes para el registro de las candidaturas independientes en el año de la elección, serán los mismos que se señalan en la legislación electoral local para el Gobernador del Estado, planillas de munícipes a los Ayuntamientos y fórmulas de diputados al Congreso del Estado.
 
-El Instituto dará amplia difusión a la apertura del registro de las candidaturas independientes y a los plazos a que se refiere el presente artículo.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+El Instituto dará amplia difusión a la apertura del registro de las candidaturas independientes y a los plazos a que se refiere el presente artículo, mediante su publicación en la página de internet y en un diario de mayor circulación en el Estado y de cada municipio.
 
 ###### Artículo 29.
 
@@ -399,15 +453,23 @@ g) Manifestación por escrito, bajo protesta de decir verdad, de:
 
 2) No desempeñar ni haberse desempeñado como presidente del comité ejecutivo nacional, estatal, municipal, dirigente, o su equivalente de un partido político nacional o local, o haber desempeñado cargo de elección popular, dentro de los tres años anteriores a la fecha de inicio del registro de candidatos que establece la Ley Electoral del Estado;
 
-3) No haber participado en procesos de selección interna o precampaña electoral de algún partido político dentro de los tres años anteriores a la fecha de inicio del registro de candidatos que establece la Ley Electoral del Estado, y
+3) (DEROGADO, P.O. 9 DE JUNIO DE 2018)
 
 4) No tener ningún otro impedimento de tipo legal para contender como Candidato Independiente.
 
 h) Escrito en el que manifieste su conformidad para que todos los ingresos y egresos de la cuenta bancaria aperturada sean fiscalizados, en cualquier momento, por la autoridad electoral competente.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+i) En el caso de que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de elección consecutiva.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 30.
 
 El Consejero Presidente y el Secretario del Consejo Electoral correspondiente, una vez recibidas las solicitudes de registro de candidaturas independientes y hasta el vencimiento del plazo para su registro, revisarán si se cumplen con los requisitos a que se refieren los artículos anteriores; si de esta revisión se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al aspirante a Candidato Independiente o a su representante legal, para que hasta la conclusión del plazo antes mencionado subsane el o los requisitos.
+
+En caso de que la solicitud de registro de candidaturas se presente el último día para ello, de existir observaciones, la autoridad competente deberá notificarlas al solicitante en un plazo no mayor a doce horas para que las subsane en un plazo de veinticuatro horas contadas a partir de la notificación correspondiente.
 
 Si no se subsanan los requisitos omitidos o se advierte que la solicitud se realizó en forma extemporánea, se tendrá por no presentada.
 
@@ -465,7 +527,9 @@ III. Obtener financiamiento público y privado, en los términos de esta Ley;
 
 IV. Realizar actos de campaña y difundir propaganda electoral en los términos de esta Ley y de la legislación electoral local;
 
-V. Designar representantes ante los órganos del Instituto, en los términos dispuestos por esta Ley;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+V. Designar representantes ante los órganos del Instituto con derecho a voz, más no a voto, en términos de lo dispuesto por esta Ley;
 
 VI. Solicitar a los órganos electorales copia de la documentación electoral, a través de sus representantes acreditados, y
 
@@ -519,7 +583,9 @@ II. Los Candidatos Independientes a munícipes, ante el Consejo General y distri
 
 III. Los Candidatos Independientes a diputados locales, ante el Consejo Distrital de la demarcación por la cual se postula.
 
-La acreditación de representantes se realizará dentro de los veinte días posteriores al de la aprobación de su registro como aspirante a Candidato Independiente. Si la designación no se realiza en dicho plazo, el Candidato Independiente perderá este derecho.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+La acreditación de representantes de candidatos independientes se realizará dentro de los veinte días posteriores al de la aprobación de su registro como Candidato Independiente.
 
 ###### Artículo 37.
 
@@ -537,9 +603,11 @@ I. Financiamiento privado, y
 
 II. Financiamiento público.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 39.
 
-El financiamiento privado se constituye por las aportaciones que realicen el Candidato Independiente y sus simpatizantes, el cual no podrá rebasar en ningún caso, el 10% del tope de gasto para la elección de que se trate.
+El financiamiento privado se constituye por las aportaciones que realicen el Candidato Independiente y sus simpatizantes, el cual no podrá rebasar el 50% del tope de gasto de campaña para la elección de que se trate.
 
 Los Candidatos Independientes tienen prohibido recibir aportaciones y donaciones en efectivo, así como de metales y piedras preciosas, por cualquier persona física o moral.
 
@@ -639,7 +707,9 @@ El conjunto de Candidatos Independientes, según el tipo de elección, accederá
 
 Para tal efecto, el Instituto propondrá al Instituto Nacional Electoral distribuir el tiempo total en partes iguales para cada tipo de elección. Lo anterior, sin perjuicio de las atribuciones que como administrador único en la materia corresponden a la autoridad electoral nacional.
 
-Los Candidatos Independientes solo tendrán acceso a radio y televisión en campaña electoral.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los Candidatos Independientes solo tendrán acceso a radio y televisión en campaña electoral, sin embargo, dicha prerrogativa no tendrá efectos retroactivos cuando se le otorgue su registro iniciado el periodo de campañas electorales.
 
 ###### Artículo 52.
 
@@ -697,9 +767,11 @@ En la boleta electoral no se incluirá, ni la fotografía, ni la silueta del can
 
 Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por esta Ley y la legislación electoral local.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 61.
 
-Los votos recibidos a favor de Candidatos Independientes, no serán contabilizados para la asignación de diputados o munícipes por el principio de representación proporcional, en los términos de la Constitución local y la legislación electoral local.
+Los votos recibidos a favor de Candidatos Independientes, no serán contabilizados para la asignación de Diputados por el principio de representación proporcional, en los términos de la Constitución local y la legislación electoral local.
 
 ## Título Séptimo. Del Régimen Sancionador
 
@@ -796,3 +868,13 @@ LORETO QUINTERO QUINTERO
 OFICIAL MAYOR DE GOBIERNO
 
 En suplencia del Secretario General de Gobierno, con fundamento en el artículo 54 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO “DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL”, ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Instituto Estatal Electoral realizará, en su caso, las modificaciones conducentes a su normatividad interna a fin de que guarde armonía con las presentes reformas.
