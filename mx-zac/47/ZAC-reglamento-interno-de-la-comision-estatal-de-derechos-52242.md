@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interno-de-la-comision-estatal-de-derechos-52242"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-09-25"
-last_updated: "2006-11-08"
+last_updated: "2018-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JUNIO DE 2018 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 25 de septiembre de 1993.
 
@@ -417,7 +421,7 @@ IV.- Acuerdo de calificación pendiente cuando la queja no reúna los requisitos
 
 ###### ARTICULO 57.
 
-Calificada la queja como presuntamente violatoria de Derechos Humanos, se enviará al Quejoso un acuerdo de admisión de la instancia, en el que se le informará sobre el resultado de la calificación y se le invitará a mantener comunicación con la Comisión durante el trámite del expediente.
+Calificada la queja como presuntamente violatoria de Derechos Humanos, se enviará al quejoso un acuerdo de admisión de la instancia, en el que se le informará sobre el resultado de la calificación y se le invitará a mantener comunicación con la Comisión durante el trámite del expediente.
 
 ###### ARTICULO 58.
 
@@ -694,3 +698,17 @@ LIC. FLORENCIA RAMIREZ VALERIO
 P.O. 8 DE NOVIEMBRE DE 2006.
 
 UNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial Órgano del Gobierno del Estado de Zacatecas, Zacatecas, y deberá aplicarse a partir del 15 de junio del año dos mil seis, fecha de entrada en vigor de las reformas a la Ley de la Comisión Estatal de Derechos Humanos.
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS".]
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- El presente Reglamento Interior de la Comisión de Derechos Humanos del Estado de Zacatecas, abroga el anterior, publicado en fecha 25 de septiembre de 1993 en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo Tercero.- Los procedimientos de investigación de los expedientes de queja que a la entrada en vigor del presente ordenamiento se encuentren en trámite, continuarán su sustanciación de conformidad con el Reglamento aplicable en el momento del inicio de los mismos.
+
+En consecuencia, el presente Reglamento será aplicable para los procedimientos de investigación de expedientes de queja que se inicien a partir de su entrada en vigor, con independencia de que los hechos hayan sucedido con anterioridad a la entrada en vigor del mismo.
+
+Artículo Cuarto.- El Manual de Organización de la Comisión de Derechos Humanos del Estado de Zacatecas, será expedido dentro de los 180 días siguientes a la fecha de aprobación del presente Reglamento.
