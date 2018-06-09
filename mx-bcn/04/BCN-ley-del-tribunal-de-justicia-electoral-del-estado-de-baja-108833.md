@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-tribunal-de-justicia-electoral-del-estado-de-baja-10883
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2017-06-23"
+last_updated: "2018-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -171,6 +171,8 @@ El Presidente del Tribunal, se elegirá por el Pleno, en los términos de la fra
 
 Para efectos de lo previsto en el párrafo anterior, en la sesión correspondiente, los magistrados presentarán sus propuestas respecto de quien ocupará la presidencia del Tribunal, resolviendo lo conducente.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 10.
 
 El Presidente del Tribunal, tendrá las siguientes atribuciones:
@@ -197,11 +199,17 @@ X. Informar al Pleno las ausencias temporales o definitivas de los magistrados e
 
 XI. Remitir a la Cámara de Senadores del Congreso de la Unión, y previo acuerdo del Pleno, las renuncias de los magistrados electorales del Tribunal.
 
-XII. Turnar a los magistrados electorales de conformidad con lo dispuesto en el Reglamento Interior, los expedientes de los recursos interpuestos.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
-XIII. Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Estatal Electoral, o de las autoridades estatales y municipales, puedan servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos señalados en las leyes.
+XII. Turnar a los magistrados electorales de conformidad con lo dispuesto en el Reglamento Interior, los expedientes de los recursos interpuestos y procedimientos sancionadores.
 
-XIV. Ordenar, en casos extraordinarios, que se realicen diligencias o se perfeccione alguna prueba, siempre que esto no sea obstáculo para resolver dentro de los plazos establecidos en las leyes.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+XIII. Hacer uso y aplicar los medios de apremio y las correcciones disciplinarias en los términos previstos en la Ley Electoral del Estado, cuando exista incumplimiento a los requerimientos formulados por los Magistrados Electorales en los expedientes jurisdiccionales correspondientes.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+XIV. Girar exhortos, rogatorias o suplicatorias a las autoridades o entes públicos federales, estatales o municipales, según corresponda, pidiéndoles su colaboración o auxilio para la realización de una diligencia en el ámbito de su competencia.
 
 XV. Despachar la correspondencia del Tribunal.
 
@@ -247,9 +255,11 @@ XXXIII. Las demás que señale esta Ley y el Reglamento Interior.
 
 Los magistrados electorales del Tribunal, serán electos por la Cámara de Senadores de conformidad con lo previsto en Título Tercero del Libro Tercero de la Ley General de Instituciones y Procedimientos Electorales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 12.
 
-Los magistrados electorales permanecerán en su encargo siete años. En caso de presentarse una vacante definitiva de magistrado, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución.
+Los magistrados electorales permanecerán en su encargo siete años. Si a la fecha en que concluya su nombramiento, el Senado aún no ha realizado la designación de que se trate, continuarán en su encargo hasta en tanto ésta sea efectuada.
 
 El Congreso del Estado fijará en el presupuesto anual la remuneración de los magistrados del Tribunal en términos del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, la cual no podrá disminuirse durante el tiempo que dure su encargo.
 
@@ -257,9 +267,11 @@ El Congreso del Estado fijará en el presupuesto anual la remuneración de los m
 
 Los Magistrados durante el periodo de su encargo, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 14.
 
-Son atribuciones de los magistrados electorales, las siguientes:
+Son atribuciones de los Magistrados Electorales, las siguientes:
 
 I. Concurrir, participar y votar, cuando corresponda, en las sesiones a las que sean convocados por el Presidente del Tribunal, así como solicitar a éste, para que convoque a Sesión Pública, para resolver los asuntos que se les hubieren turnado.
 
@@ -293,17 +305,29 @@ XV. Someter a la consideración del Tribunal, los proyectos de acumulación de l
 
 XVI. Someter a la consideración del Tribunal, los proyectos de resolución que ordenen archivar como asuntos total y definitivamente concluidos, las impugnaciones que encuadren en estos supuestos, de conformidad con la Ley aplicable.
 
-XVII. Formular los requerimientos necesarios para la debida integración de los expedientes, y solicitar al Presidente del Tribunal se requiera cualquier informe o, documento que obre en poder de los órganos del Instituto Estatal Electoral, de las autoridades federales, estatales, municipales o de los partidos políticos, o de particulares, que pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con la Ley aplicable.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
-XVIII. Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia.
+XVII. Requerir a los órganos del Instituto Estatal Electoral, a las autoridades o entes públicos estatales o municipales, a los partidos políticos, así como a los particulares, o solicitar a las autoridades federales, cualquier informe, documento o elemento que obre en su poder y pueda servir para la sustanciación o resolución de los expedientes en los que sean ponentes, siempre que ello no sea obstáculo para resolver el medio de impugnación dentro de los plazos establecidos de conformidad con la Ley aplicable.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+XVIII. Ordenar, en casos extraordinarios, que se realicen diligencias o se perfeccione alguna prueba, siempre que esto no sea obstáculo para resolver dentro de los plazos establecidos en las leyes.
 
 XIX. Impartir y participar en los programas y cursos de capacitación y difusión en materia electoral.
 
 XX. Elaborar el Proyecto de Reglamento Interior del Tribunal y demás disposiciones reglamentarias, y someterlos a la aprobación del Pleno, al igual que sus modificaciones.
 
-XXI. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2018)</small>
+
+XXI. Solicitar al Magistrado Presidente del Tribunal la aplicación de los medios de apremio o las correcciones disciplinarias en los términos previstos en la Ley Electoral del Estado, cuando exista incumplimiento a los requerimientos que formulen en los expedientes jurisdiccionales correspondientes.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE JUNIO DE 2018)</small>
+
+XXII. Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
 
 ### CAPÍTULO VI. DEL SECRETARIO GENERAL DE ACUERDOS Y SUS ATRIBUCIONES
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 15.
 
@@ -315,7 +339,9 @@ II. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesion
 
 III. Autorizar con su firma las actuaciones del Pleno y del Tribunal, y expedir las constancias y certificaciones que se requieran, así como expedir las copias autorizadas y certificadas que la ley determine o deban darse a las partes.
 
-IV. Llevar el control del turno de los magistrados para conocer los recursos interpuestos, y de las ponencias de resolución o sentencia sobre los mismos.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+IV. Llevar el control del turno de los magistrados para conocer los recursos interpuestos y procedimientos sancionadores, y de las ponencias de resolución o sentencia sobre los mismos.
 
 V. Llevar el registro de las sustituciones de los magistrados.
 
@@ -471,11 +497,15 @@ VIII. Gozar de buena reputación.
 
 IX. No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal, en los últimos cuatro años inmediatos anteriores a la designación.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 25.
 
 Para ser Secretario de Estudio y Cuenta del Tribunal, deberán reunirse los requisitos siguientes:
 
-I. Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+l. Ser ciudadano mexicano y en pleno ejercicio de sus derechos políticos y civiles.
 
 II. Haber cumplido por lo menos veinticinco años de edad al día de la designación.
 
@@ -489,11 +519,15 @@ VI. Gozar de buena reputación.
 
 VII. No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal en los últimos cuatro años inmediatos anteriores a la designación.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 26.
 
 Para ser Actuario del Tribunal, deberán cumplirse con los siguientes requisitos:
 
-I. Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+l. Ser ciudadano mexicano y en pleno ejercicio de sus derechos políticos y civiles.
 
 II. Haber cumplido por lo menos veintitrés años de edad al día de la designación.
 
@@ -814,3 +848,9 @@ P.O. 23 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 83 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 FRACCIÓN I, DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO “DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL", ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
