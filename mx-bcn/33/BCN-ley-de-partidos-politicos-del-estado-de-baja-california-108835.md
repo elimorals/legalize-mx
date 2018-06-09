@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-partidos-politicos-del-estado-de-baja-california-108835"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2015-06-12"
+last_updated: "2018-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -61,17 +61,27 @@ III. Votar y ser votado para todos los cargos de elección popular dentro de los
 
 Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, con registro legal ante el Instituto Nacional Electoral o ante el Instituto Estatal Electoral, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público.
 
-Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los Partidos Políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y garantizarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
 
 ###### Artículo 4.
 
 Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a diputados y en planillas de candidatos a munícipes en cada Ayuntamiento, tanto propietarios como suplentes. Éstos deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JUNIO DE 2018)</small>
+
+En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior, asegurando condiciones de igualdad entre géneros de conformidad con lo dispuesto por la Ley Electoral del Estado de Baja California.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 5.
 
 Para los efectos de esta Ley, además de los conceptos establecidos en la Ley General de Partidos Políticos, se entiende por:
 
-I. Consejo General del INE: El Consejo General del Instituto Nacional Electoral;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+I. Consejo General del Instituto Nacional: El Consejo General del Instituto Nacional Electoral;
 
 II. Consejo General del Instituto Estatal: El Consejo General del Instituto Estatal Electoral;
 
@@ -79,7 +89,9 @@ III. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
 IV. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de Baja California;
 
-V. INE: El Instituto Nacional Electoral;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+V. Instituto Nacional: El Instituto Nacional Electoral;
 
 VI. Instituto Estatal: El Instituto Estatal Electoral del Estado de Baja California;
 
@@ -107,17 +119,21 @@ En el desempeño de sus funciones, las autoridades y órganos electorales establ
 
 Los Notarios Públicos del Estado auxiliarán a las autoridades electorales en forma gratuita, cuando así lo soliciten durante el proceso electoral.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 8.
 
-A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Constitución, en la Ley General, en la Ley General de Instituciones y Procedimientos Electorales, en los acuerdos del Consejo General del INE, a las jurisprudencias o criterios emitidos por el Tribunal Electoral del Poder Judicial de la Federación y el Tribunal Estatal, en los acuerdos del Consejo General del Instituto Estatal dictados dentro del ámbito de su competencia, y a los principios generales del derecho.
+A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Constitución, en la Ley General, en la Ley General de Instituciones y Procedimientos Electorales, en los acuerdos del Consejo General del Instituto Nacional, a las jurisprudencias o criterios emitidos por el Tribunal Electoral del Poder Judicial de la Federación y el Tribunal Estatal, en los acuerdos del Consejo General del Instituto Estatal dictados dentro del ámbito de su competencia, y a los principios generales del derecho.
 
 ### CAPÍTULO III. De la competencia del Instituto Estatal en Materia de Partidos Políticos
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 9.
 
-El Instituto Estatal, si la disponibilidad presupuestal lo permite, podrá contar con los recursos técnicos, humanos y materiales que requiera para el ejercicio de las funciones y atribuciones, que en su caso delegue el INE en términos de la Ley General, de la fiscalización de los ingresos y egresos de los partidos políticos locales, sus coaliciones y de los candidatos a cargos de elección popular en la entidad.
+El Instituto Estatal, si la disponibilidad presupuestal lo permite, podrá contar con los recursos técnicos, humanos y materiales que requiera para el ejercicio de las funciones y atribuciones, que en su caso delegue el Instituto Nacional en términos de la Ley General, de la fiscalización de los ingresos y egresos de los partidos políticos locales, sus coaliciones y de los candidatos a cargos de elección popular en la entidad.
 
-El Instituto Estatal, deberán (sic) ejercitar las facultades que le delegue el INE en materia de fiscalización, sujetándose a lo previsto por la Ley General, los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General del INE.
+El Instituto Estatal, deberá ejercitar las facultades que le delegue el Instituto Nacional en materia de fiscalización, sujetándose a lo previsto por la Ley General, los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General del Instituto Nacional.
 
 ###### Artículo 10.
 
@@ -153,7 +169,9 @@ II. Contar con militantes en cuando menos dos terceras partes de los municipios 
 
 La organización de ciudadanos que pretenda constituirse en partido político local para obtener su registro, deberá informar tal propósito al Instituto Estatal en el mes de enero del año siguiente al de la elección de Gobernador del Estado.
 
-A partir del momento del aviso a que se refiere el párrafo anterior, hasta la resolución sobre la procedencia del registro, la organización informará mensualmente al INE sobre el origen y destino de sus recursos, dentro de los primeros diez días de cada mes.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+A partir del momento del aviso a que se refiere el párrafo anterior, hasta la resolución sobre la procedencia del registro, la organización informará mensualmente al Instituto Nacional sobre el origen y destino de sus recursos, dentro de los primeros diez días de cada mes.
 
 ###### Artículo 13.
 
@@ -199,7 +217,9 @@ III. Las actas de las asambleas celebradas en los distritos electorales y munici
 
 El Instituto Estatal, conocerá de la solicitud de los ciudadanos que pretendan su registro como partido político local, examinará los documentos de la solicitud de registro a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en la Ley General y esta Ley, y formulará el proyecto de dictamen de registro.
 
-El Instituto Estatal, notificará al INE para que realice la verificación del número de afiliados y de la autenticidad de las afiliaciones al nuevo partido, conforme al cual se constatará que se cuenta con el número mínimo de afiliados, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido político de nueva creación.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+El Instituto Estatal, notificará al Instituto Nacional para que realice la verificación del número de afiliados y de la autenticidad de las afiliaciones al nuevo partido, conforme al cual se constatará que se cuenta con el número mínimo de afiliados, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido político de nueva creación.
 
 ###### Artículo 17.
 
@@ -217,23 +237,35 @@ La resolución se deberá publicar en el Periódico Oficial del Estado, y podrá
 
 ### CAPÍTULO II. De la acreditación de los partidos políticos nacionales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 19.
 
-El partido político nacional con registro otorgado por el INE, tendrá derecho a participar en las elecciones de la entidad, sujetándose a lo previsto en la Constitución, las Leyes Generales en la materia, la Constitución del Estado y en esta Ley, debiendo solicitar la acreditación durante el mes de agosto del año anterior al del día de las elecciones ordinarias, ante el Consejo General del Instituto Estatal, debiendo comprobar, lo siguiente:
+El partido político nacional con registro otorgado por el Instituto Nacional, tendrá derecho a participar en las elecciones de la entidad, sujetándose a lo previsto en la Constitución, las Leyes Generales en la materia, la Constitución del Estado y en esta Ley, teniendo de plazo para solicitar la acreditación hasta el día del inicio del proceso electoral, ante el Consejo General del Instituto Estatal, debiendo comprobar, lo siguiente:
 
-I. La vigencia de su registro, mediante la certificación que expida el INE, adjuntando la declaración de principios, programa de acción y estatutos certificados por la propia autoridad federal electoral;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+I. La vigencia de su registro, mediante la certificación que expida el Instituto Nacional, adjuntando la declaración de principios, programa de acción y estatutos certificados por la propia autoridad federal electoral;
 
 II. Tener domicilio permanente en el Estado, mediante constancia levantada por un representante del Instituto Electoral, donde se haga constar, que en él se ubican sus instalaciones para el despacho de las actividades inherentes a su objeto y fines, y
 
-III. La integración de su comité directivo o estructura equivalente en el Estado, en oficio suscrito por representante estatutario del órgano partidista nacional, debiendo contener la designación de los titulares de sus órganos de representación, así como una relación de los demás titulares de sus estructuras municipales y distritales, en su caso.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+III. La integración de su comité directivo o estructura equivalente en el Estado, en oficio suscrito por representante estatutario del órgano partidista nacional, debiendo contener la designación de los titulares de sus órganos de representación, así como una relación de los demás titulares de sus estructuras municipales y distritales, en su caso; en el cual se debe acompañar la certificación del Instituto Nacional sobre la integración del comité o la estructura, en su caso.
 
 Este procedimiento se observará en la primera ocasión que los partidos políticos nacionales quieran acreditarse en el Estado, o después que lo soliciten, cuando hubieren perdido su acreditación.
 
 La acreditación como partido político nacional tendrá vigencia en tanto no le haya sido suspendido o cancelado su registro por la autoridad electoral nacional competente. De perder el registro respectivo, le será cancelado (sic) todos los derechos y prerrogativas que establece esta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JUNIO DE 2018)</small>
+
+En año en el que no haya proceso electoral, la acreditación a que hace referencia el presente artículo, podrá solicitarse en cualquier momento.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 20.
 
-El Consejo General del Instituto Estatal, a más tardar el quince de septiembre del año inmediato anterior en el que habrán de celebrarse elecciones, dará a conocer todas las acreditaciones que hubieren resultado procedentes, o que en su caso se encuentren vigentes, mediante publicación en el Periódico Oficial del Estado.
+El Consejo General del Instituto Estatal, a más tardar el quince de septiembre del año inmediato anterior en el que habrán de celebrarse elecciones, dará a conocer todas las acreditaciones que se encuentren vigentes, mediante publicación en el Periódico Oficial del Estado.
 
 ### CAPÍTULO III. De los Derechos y Obligaciones de los Partidos Políticos
 
@@ -287,7 +319,13 @@ VI. Acatar las resoluciones que los órganos electorales dicten en el ejercicio 
 
 VII. Retirar, en el plazo que determinen las leyes electorales respectivas, la propaganda electoral que hubieran fijado, pintado o instalado en lugares de uso común, y
 
-VIII. Las demás que establezcan la Constitución y las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2018)</small>
+
+VIII. Sujetarse a lo que dispone la Ley Electoral de Baja California, respecto a la designación de candidatos y precandidatos en el proceso de elección consecutiva.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE JUNIO DE 2018)</small>
+
+IX. Las demás que establezcan la Constitución y las leyes.
 
 ###### Artículo 24.
 
@@ -327,7 +365,9 @@ Toda persona tiene derecho a acceder a la información de los partidos político
 
 Las personas accederán a la información de los partidos políticos de manera directa, en los términos que disponga la Ley General de Transparencia y Acceso a la Información Pública.
 
-Cuando la información solicitada se encuentre disponible públicamente, incluyendo las páginas electrónicas oficiales del INE y del Instituto Electoral, o del partido político de que se trate, se deberá entregar siempre dicha información notificando al solicitante la forma en que podrá obtenerla.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Cuando la información solicitada se encuentre disponible públicamente, incluyendo las páginas electrónicas oficiales del Instituto Nacional y del Instituto Estatal, o del partido político de que se trate, se deberá entregar siempre dicha información notificando al solicitante la forma en que podrá obtenerla.
 
 Cuando la información no se encuentre disponible públicamente, las solicitudes de acceso a la información procederán en forma impresa o en medio electrónico.
 
@@ -435,9 +475,11 @@ VII. Un órgano encargado de la educación y capacitación cívica de los milita
 
 Los procedimientos internos para la integración de los órganos internos de los partidos políticos locales y para la postulación de candidatos a cargos de elección popular, estarán a cargo del órgano previsto en la fracción IV del artículo anterior y se desarrollarán con base en los lineamientos básicos establecidos en el artículo 44 de la Ley General.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 37.
 
-Los partidos políticos locales podrán solicitar al INE que organice la elección de sus órganos de dirección, con base en sus estatutos, reglamentos y procedimientos, y con cargo a sus prerrogativas.
+Los partidos políticos locales podrán solicitar al Instituto Nacional que organice la elección de sus órganos de dirección, con base en sus estatutos, reglamentos y procedimientos, y con cargo a sus prerrogativas.
 
 Para la organización y el desarrollo del proceso de elección, se aplicarán las reglas previstas en el artículo 45 de la Ley General.
 
@@ -467,9 +509,11 @@ Ninguna persona física o moral, sea a título propio o por cuenta de terceros, 
 
 Los partidos políticos, al ejercer sus prerrogativas en la radio y la televisión, deberán difundir sus principios ideológicos, programa de acción y plataforma electoral.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 40.
 
-Corresponde a la Comisión del Régimen de Partidos Políticos del Consejo General del Instituto Estatal, hacer las gestiones necesarias ante el INE, para el ejercicio de las prerrogativas de los partidos políticos en radio y televisión. Comisión que deberá rendir informes catorcenales al Consejo General, sobre los trámites realizados.
+Corresponde a la Comisión del Régimen de Partidos Políticos del Consejo General del Instituto Estatal, hacer las gestiones necesarias ante el Instituto Nacional, para el ejercicio de las prerrogativas de los partidos políticos en radio y televisión. Comisión que deberá rendir informes catorcenales al Consejo General, sobre los trámites realizados.
 
 El Secretario Ejecutivo del Instituto Estatal, deberá prestar los apoyos necesarios a la Comisión del Régimen de Partidos Políticos, en el desempeño de las atribuciones en materia de radio y televisión.
 
@@ -487,9 +531,11 @@ Los partidos políticos de nueva acreditación o registro, según sea el caso, e
 
 ### CAPÍTULO I. Del Financiamiento Público
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 42.
 
-Los partidos políticos tienen derecho a recibir, para desarrollar sus actividades, financiamiento público que se distribuirá de manera equitativa, conforme a lo establecido en los artículos 41, Base II de la Constitución y 5 apartado B de la Constitución del Estado.
+Los Partidos Políticos tienen derecho a recibir, para desarrollar sus actividades, financiamiento público que se distribuirá de manera equitativa, conforme a lo establecido en los artículos 41, Base II de la Constitución y 5 apartado A de la Constitución del Estado.
 
 El financiamiento público deberá prevalecer sobre otros tipos de financiamiento y será destinado para el sostenimiento de actividades ordinarias permanentes, gastos de procesos electorales y para actividades específicas como entidades de interés público.
 
@@ -587,19 +633,31 @@ III. Autofinanciamiento, y
 
 IV. Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 48.
 
-Los partidos políticos, deberán observar las prohibiciones, limitaciones, modalidades, límites y demás reglas previstas en la Ley General, respecto al financiamiento privado.
+Los Partidos Políticos deberán observar las prohibiciones, limitaciones, modalidades, previstas en la Ley General respecto del financiamiento privado que reciban; por cuanto hace a los límites, este se ajustará a lo siguiente:
+
+a) Para el caso de las aportaciones de militantes, el dos por ciento del financiamiento público otorgado a la totalidad de los Partidos Políticos para el sostenimiento de sus actividades ordinarias y precampañas en el año de que se trate;
+
+b) Para el caso de las aportaciones de candidatos, así como de simpatizantes durante los procesos electorales, el diez por ciento del tope de gasto para la elección a gobernador inmediata anterior, para ser utilizadas en las campañas de sus candidatos;
+
+c) Cada partido político, a través de su órgano responsable de la administración de su patrimonio y recursos financieros determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus militantes, así como de las aportaciones voluntarias y personales que los precandidatos y candidatos aporten exclusivamente para sus precampañas y campañas, y
+
+d) Las aportaciones de simpatizantes tendrán como límite individual anual el 0.5 por ciento del tope de gasto para la elección a gobernador inmediata anterior.
 
 ## TÍTULO SEXTO. Del Régimen Financiero de los partidos políticos y del Régimen Fiscal
 
 ### CAPÍTULO I. Del Régimen Financiero de los partidos políticos
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 49.
 
-Cada partido político será responsable de su contabilidad y de la operación del sistema de contabilidad, así como del cumplimiento de lo dispuesto en el Título Sexto (sic) la Ley General, y las decisiones que en la materia emita el Consejo General del INE y su Comisión de Fiscalización.
+Cada partido político será responsable de su contabilidad y de la operación del sistema de contabilidad, así como del cumplimiento de lo dispuesto en el Título Sexto (sic) la Ley General, y las decisiones que en la materia emita el Consejo General del Instituto Nacional y su Comisión de Fiscalización.
 
-El Instituto Estatal, deberá prestar la colaboración que sea solicitada por el INE, en la supervisión y vigilancia del régimen financiaron (sic) de los partidos políticos.
+El Instituto Estatal, deberá prestar la colaboración que sea solicitada por el Instituto Nacional, en la supervisión y vigilancia del régimen financiaron (sic) de los partidos políticos.
 
 ### CAPÍTULO II. Régimen Fiscal
 
@@ -661,9 +719,13 @@ IV. Todo gasto necesario para la organización y difusión de las acciones refer
 
 ### CAPÍTULO II. Fiscalización de los Partidos Políticos durante los Procesos Electorales
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 54.
 
-Conforme lo dispone el artículo 75 de la Ley General, corresponde al Consejo General del INE a propuesta de su Comisión de Fiscalización y previo al inicio de las precampañas determinará (sic) el tipo de gastos que serán estimados como de precampaña para las elecciones locales, de acuerdo a la naturaleza de las convocatorias emitidas por los partidos políticos.
+Conforme lo dispone el artículo 75 de la Ley General, corresponde al Consejo General del Instituto Nacional a propuesta de su Comisión de Fiscalización y previo al inicio de las precampañas determinará el tipo de gastos que serán estimados como de precampaña para las elecciones locales, de acuerdo a la naturaleza de las convocatorias emitidas por los partidos políticos.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
 ###### Artículo 55.
 
@@ -683,7 +745,9 @@ VI. Los gastos que tengan como finalidad el propiciar la exposición, desarrollo
 
 VII. Cualquier gasto que difunda la imagen, nombre o plataforma de gobierno de algún candidato o de un partido político en el periodo que transita de la conclusión de la precampaña y hasta el inicio de la campaña electoral, y
 
-VIII. Los gastos que el Consejo General del INE a propuesta de la Comisión de Fiscalización y previo inicio de la campaña electoral determine.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+VIII. Los gastos que el Consejo General del Instituto Nacional a propuesta de la Comisión de Fiscalización y previo inicio de la campaña electoral determine.
 
 No se considerarán dentro de los gastos de campaña los gastos que realicen los partidos para su operación ordinaria, para el cumplimiento de sus obligaciones estatutarias y para el sostenimiento de sus órganos directivos y de sus organizaciones.
 
@@ -777,6 +841,10 @@ En los casos a que se refieren las fracciones V a VI del artículo anterior, la 
 
 La pérdida del registro de un partido político local no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones según el principio de mayoría relativa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JUNIO DE 2018)</small>
+
+Para efectos de la conservación del registro de un partido político local, la votación válida emitida deberá integrarse con los votos depositados a favor de los Partidos Políticos y de las candidaturas independientes, deduciendo los votos nulos y los de los candidatos no registrados.
+
 ###### Artículo 64.
 
 Al partido político local que pierda su registro le será cancelado el mismo y perderá todos los derechos y prerrogativas que establece esta Ley.
@@ -797,7 +865,9 @@ III. A partir de su designación el interventor tendrá las más amplias faculta
 
 IV. Una vez que el Consejo General del Instituto Estatal emita el acuerdo de pérdida del registro legal de un partido político local, y que este haya causado estado, el interventor designado deberá:
 
-a) Emitir aviso de liquidación del partido político de que se trate, mismo que deberá publicarse en el Periódico Oficial del Estado para los efectos legales procedentes;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+a) Emitir aviso de liquidación del partido político de que se trate, mismo que deberá ser aprobado por el Consejo General y publicarse en el Periódico Oficial del Estado para los efectos legales procedentes;
 
 b) Determinar las obligaciones laborales, fiscales y con proveedores o acreedores, a cargo del partido político en liquidación;
 
@@ -854,3 +924,13 @@ LORETO QUINTERO QUINTERO
 OFICIAL MAYOR DE GOBIERNO
 
 En suplencia del Secretario General de Gobierno, con fundamento en el artículo 54 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO “DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL”, ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Instituto Estatal realizará, en su caso, las modificaciones conducentes a su normatividad interna, a fin de que guarde armonía con las presentes reformas.
