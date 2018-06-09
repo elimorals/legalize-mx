@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2018-04-20"
+last_updated: "2018-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -67,9 +67,9 @@ Todo poder público dimana del pueblo y se instituye para beneficio de éste.
 
 La renovación de los poderes Legislativo, Ejecutivo y de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-La duración de las campañas será de sesenta a noventa días para la elección de gobernador, y de treinta a sesenta días cuando sólo se elijan diputados o ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. En la propaganda política o electoral que difundan los partidos políticos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas.
+Cuando las campañas tengan como finalidad elegir gobernador, diputados y ayuntamientos en forma simultánea, la duración será de sesenta días para el caso de gobernador y cuarenta y cinco días para diputados y ayuntamientos; cuando solo se elija diputados y ayuntamientos, las campañas tendrán una duración (sic) cuarenta y cinco días; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
@@ -231,15 +231,23 @@ La Consulta Popular, Plebiscito y Referéndum, que se celebren en años electora
 
 La Iniciativa Ciudadana es el mecanismo mediante el cual los ciudadanos del Estado podrán presentar propuestas para crear, modificar, reformar, adicionar, derogar o abrogar leyes o decretos, con las excepciones y demás requisitos que contemple la Ley. La Iniciativa Ciudadana podrá presentarse por escrito ante el Congreso del Estado, siempre que se acompañe de los nombres y firmas de por los (sic) menos quinientos ciudadanos incluidos en la lista nominal de electores del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
-APARTADO D.- De las candidaturas independientes.
+APARTADO D. De las Candidaturas independientes.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 Es derecho de los ciudadanos residentes en el Estado, poder ser votado para los cargos de elección popular por el principio de mayoría relativa, pudiendo solicitar su registro de manera independiente siempre y cuando cumplan con los requisitos, condiciones y términos que determinen las disposiciones constitucionales, legales y reglamentarias establecidas al efecto.
 
-De conformidad con el procedimiento que se establezca en la Ley, los ciudadanos tendrán derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los cargos de Gobernador, Munícipes por el principio de mayoría relativa, y Diputados por el principio de mayoría relativa.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-Los candidatos independientes registrados en las modalidades a que se refiere el párrafo anterior, en ningún caso, serán asignados a ocupar los cargos de diputados o munícipes por el principio de representación proporcional.
+De conformidad con el procedimiento que se establezca en la Ley, los ciudadanos tendrán derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los cargos de Gobernador, Munícipes, así como el de Diputados por el principio de mayoría relativa.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los candidatos independientes registrados al cargo de Diputados por el principio de mayoría relativa, en ningún caso, serán asignados por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 Los candidatos independientes tendrán derecho al financiamiento público de campaña en los términos de Ley.
 
@@ -723,11 +731,19 @@ Asimismo, en la integración de la legislatura, el porcentaje de representación
 
 VI.- La asignación de los Diputados por el principio de representación proporcional que le corresponda a cada partido político, la hará el Instituto Estatal Electoral, en los términos que señale la Ley.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-###### ARTICULO 16.
+###### ARTÍCULO 16.
 
-Los Diputados se elegirán cada tres años y podrán ser electos de manera consecutiva de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Los Diputados se elegirán cada tres años y podrán ser electos de manera consecutiva de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, con independencia de que hayan accedido al cargo como candidatos independientes o sido postulados por algún partido político o coalición.
+
+Cuando los diputados hayan sido postulados por algún partido político o coalición, la postulación para su elección consecutiva sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+Para ser electo Diputado de manera consecutiva, el funcionario interesado, deberá separarse de su encargo por lo menos un día antes del inicio de la campaña electoral correspondiente.
+
+Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término, el derecho a la elección consecutiva del diputado que haya obtenido la constancia de mayoría relativa o de representación proporcional en el proceso electoral anterior para la asignación de género por distrito o su equivalencia.
+
+Los Diputados que pretendan contender para la elección consecutiva, ya sean emanados del régimen de partidos políticos o a través de la vía independiente, deberán contender por el mismo distrito por el que resultaron electos o, en su caso, por su equivalente cuando la conformación de dichos distritos se haya modificado. En caso de que resulten equivalentes diversos distritos, el aspirante deberá manifestar en cuál de ellos pretende contender.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
@@ -755,15 +771,19 @@ III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos cinco
 
 La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Estos mismos requisitos serán necesarios tratándose de la elección consecutiva a que refiere el artículo 16 de esta Constitución.
+
 ###### ARTICULO 18.
 
 No pueden ser electos diputados:
 
 I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho durante todo el período de su ejercicio; aún cuando se separe de su cargo;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
-II.- Los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Secretario General de Gobierno, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección;
+II.- Los Magistrados y Jueces del Estado, Consejeros de la Judicatura del Estado, el Secretario General de Gobierno, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -1379,7 +1399,9 @@ VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Munici
 
 No podrán ser electos Gobernador del Estado:
 
-El Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia y los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes del día de la elección.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+El Secretario General de Gobierno, los Magistrados y Jueces del Estado, Consejeros de la Judicatura del Estado, el Procurador General de Justicia y los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes del día de la elección.
 
 Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
@@ -2153,6 +2175,10 @@ Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de oc
 
 Los Presidentes Municipales, Regidores y Síndicos de los ayuntamientos durarán en su cargo tres años, pudiendo ser electos por un período adicional consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Para ser electo Presidente Municipal, Regidor o Síndicos de un ayuntamiento, de manera consecutiva, los funcionarios interesados, deberán separarse de su encargo por lo menos un día antes del inicio de la campaña electoral correspondiente.
+
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 79.
@@ -2167,7 +2193,9 @@ b) Los municipios cuya población se encuentre en el rango comprendido de doscie
 
 c) Los Municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principio de mayoría relativa y hasta siete regidores de representación proporcional.
 
-II.- Para que los partidos políticos o coaliciones tengan derecho a la asignación de regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
+II.- Para que los partidos políticos o candidatos independientes tengan derecho a la asignación de regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
 
 a) Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
 
@@ -2177,27 +2205,45 @@ c) No haber obtenido la constancia de mayoría respectiva, y
 
 III.- La asignación de regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
 
-a) El Instituto Estatal Electoral determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-b) Primeramente asignará un Regidor a cada partido político o coalición con derecho a la representación proporcional.
+a) El Instituto Estatal Electoral determinará qué partidos políticos o candidatos independientes cumplen con lo estipulado en la fracción anterior;
 
-En caso de que el número de partidos políticos sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+b) Primeramente asignará un Regidor a cada partido político o candidato independiente con derecho a la representación proporcional.
+
+En caso de que el número de partidos políticos o candidatos independientes sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
 
 c) Si después de efectuada la operación indicada en el inciso anterior aún hubiera regidurías por asignar, se realizarán las siguientes operaciones:
 
-1.- Se sumarán los votos de los partidos políticos o coaliciones con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente:
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-2.- Se deberá obtener el nuevo porcentaje de cada partido político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político o coalición por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
+1.- Se sumarán los votos de los partidos políticos o candidatos independientes con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente:
 
-3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada partido político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el numeral anterior de cada partido político o coalición por el número de regidurías de representación proporcional que corresponda, según la fracción I de este Artículo, dividiéndolo entre cien, y
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-4.- Se le restará de la expectativa de integración al Ayuntamiento a cada partido político o coalición, la asignación efectuada en los términos del inciso b) de esta fracción;
+2.- Se deberá obtener el nuevo porcentaje de cada partido político o candidato independiente, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político o candidato independiente por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos o candidaturas independientes participantes;
 
-d) Se asignará a cada partido político o coalición alternadamente, tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral 4 del inciso anterior;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-e) En caso de que aún hubieren más regidurías por repartir, se asignarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones efectuadas en el inciso anterior, y
+3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada partido político o candidato independiente, con derecho a ello mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el numeral anterior de cada partido político o candidato independiente por el número de regidurías de representación proporcional que corresponda, según la fracción I de este artículo, dividiéndolo entre cien, y
 
-f).- La asignación de las regidurías de representación proporcional que correspondan a cada partido político o coalición, la hará el Instituto Estatal Electoral de la lista de candidatos a Regidores que haya registrado cada partido político o coalición, en el orden que los mismos fueron registrados.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+4.- Se le restará de la expectativa de integración al Ayuntamiento a cada partido político o candidato independiente, la asignación efectuada en los términos del inciso b) de esta fracción;
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+d) Se asignará a cada partido político o candidato independiente alternadamente, tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral 4 del inciso anterior;
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+e) En caso de que aún hubiere más regidurías por repartir, se asignarán a los partidos políticos o candidatos independientes que conserven los restos mayores, después de deducir las asignaciones efectuadas en el inciso anterior, y
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+f) La asignación de las regidurías de representación proporcional que correspondan a cada partido político o candidato independiente, la hará el Instituto Estatal Electoral de la lista de candidatos a Regidores que haya registrado cada partido político o candidato independiente, en el orden que los mismos fueron registrados.
 
 Los integrantes de los ayuntamientos contarán con sus respectivos suplentes.
 
@@ -2215,7 +2261,9 @@ I.- Ser ciudadano mexicano por nacimiento, hijo de madre o padre mexicanos.
 
 Aquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado;
 
-II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos diez años inmediatos anteriores al día de la elección.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
+II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos cinco años inmediatos anteriores al día de la elección.
 
 La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de Partido Político, por motivo de estudios, o por causas ajenas a su voluntad, se tenga que residir fuera del Municipio;
 
@@ -2224,6 +2272,10 @@ III.- No ser ministro de cualquier culto religioso, a menos que se separe en los
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
 IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o municipal, en los organismos descentralizados municipales o estatales, e instituciones educativas; salvo que se separen, en forma provisional, noventa días antes del día de la elección.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Estos mismos requisitos serán necesarios tratándose de la elección consecutiva a que refiere el artículo 78 de esta Constitución.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
 
@@ -4712,3 +4764,13 @@ PRIMERO.- Aprobadas que sean las presentes reformas, túrnense a los Ayuntamient
 SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 245 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 16, 17, 18, 42, 78, 79 Y 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
