@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-05-16"
+last_updated: "2018-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3015,13 +3015,13 @@ II. Se posesione materialmente de un inmueble de su propiedad, en los casos en q
 
 III. Distrajera o desviara en perjuicio de alguien el curso de aguas para usarlas en su provecho o en el de otro.
 
+(REFORMADO, P.O. 9 DE JUNIO DE 2018]
+
 ###### Artículo 233.
 
-Si el despojo se realiza por dos o más personas, además de las penas señaladas en el artículo anterior, se aplicarán a los autores intelectuales y a quienes dirijan la ejecución, de uno a seis años de prisión.
+Si el despojo se realiza por dos o más personas, además de las penas señaladas en el artículo anterior, la pena se aumentará de uno a seis años de prisión. A los autores intelectuales y a quienes dirijan la ejecución, además de las penas señaladas en el artículo anterior, se les aumentará de dos a siete años de prisión.
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JULIO DE 2016]
-
-Si el despojo se realiza en contra de una persona adulta mayor en estado de vulnerabilidad, las penas a imponer se incrementarán en una tercera parte.
+Si el despojo se realiza en contra de una persona en situación de vulnerabilidad, las penas a imponer se incrementarán en una tercera parte.
 
 ###### Artículo 234.
 
@@ -3513,11 +3513,13 @@ Cuando el delito se cometa por varias personas de común acuerdo, se impondrá d
 
 A quien quebrante los sellos puestos por orden legítima de la autoridad competente, se le impondrán de dos a siete años de prisión y de cien a quinientos días multa.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE JUNIO DE 2018)</small>
+
 ### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### Artículo 282.
 
-A quien ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de seis meses a un año de trabajo a favor de la comunidad o de treinta a noventa días de multa.
+(DEROGADO, P.O. 9 DE JUNIO DE 2018)
 
 ### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICO FORENSES
 
@@ -5275,7 +5277,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 16 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0765/2018 II P.O., POR MEDIO DE CUAL SE REFORMA EL ARTÍCULO 359 DEL CÓDIGO PENAL DEL ESTADO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFCOD/0765/2018 II P.O., POR MEDIO DE CUAL SE REFORMA EL ARTÍCULO 359 DEL CÓDIGO PENAL DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0764/2018 II P.O., POR MEDIO DE CUAL SE DEROGA DEL TÍTULO DÉCIMO OCTAVO EL CAPÍTULO V, DENOMINADO ULTRAJES A LA AUTORIDAD, INCLUIDO SU ARTÍCULO 282, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFCOD/0767/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTICULO 233 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
