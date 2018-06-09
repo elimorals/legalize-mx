@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-06-08"
+last_updated: "2018-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -260,6 +260,22 @@ En el ejercicio de sus funciones, los regidores deberán de abstenerse a dar ór
 ARTÍCULO 9 BIS.- De la Glosa Municipal.- Dentro de los veintiocho días naturales posteriores a la rendición del informe al que alude la fracción XI del artículo 7 de esta Ley, los titulares de las dependencias municipales y entes públicos paramunicipales, previa citación por escrito, deberán comparecer ante las comisiones de regidores correspondientes para el desahogo de la glosa; dichas comparecencias se desarrollaran en sesiones públicas a las que podrán asistir los ciudadanos interesados, bajo los términos que se establezcan en los reglamentos que para tal efecto expidan los ayuntamientos; tales sesiones se transmitirán por el portal de internet del ayuntamiento, bajo el principio de máxima publicidad.
 
 La calendarización, formato y lineamientos bajo los cuales se desarrollará la glosa, deberán ser propuestos y aprobados por acuerdo de los plenos de los cabildos municipales.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 9 TER.- El Presidente Municipal, Síndico Procurador y Regidores que participen en un proceso electoral con el propósito de su elección consecutiva, conforme a lo dispuesto por las leyes aplicables, se sujetarán a lo siguiente:
+
+I. No podrán utilizar recursos públicos que les correspondan por el ejercicio de su encargo para promover o influir de manera alguna en el voto a su favor o en contra de algún candidato.
+
+II. No podrán ocupar al personal adscrito a la nómina del Ayuntamiento durante su horario laboral para realizar actos de campaña.
+
+III. No podrán estar presentes en actos públicos relacionados con la entrega de beneficios derivados de programas sociales.
+
+IV. No podrán condicionar la entrega de recursos provenientes de programas públicos en ninguna circunstancia.
+
+V. No podrán promocionar o publicitar las acciones de gobierno realizadas en el periodo que comprende desde el inicio de las precampañas hasta la conclusión de la jornada electoral.
+
+VI. Las demás prohibiciones o limitaciones que determinen las leyes aplicables en la materia.
 
 ### CAPÍTULO SEGUNDO. DEL PATRIMONIO MUNICIPAL
 
@@ -887,7 +903,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 23 DE NOVIEMBRE DE 2001.
 
@@ -1030,3 +1046,9 @@ P.O. 8 DE JUNIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los Ayuntamientos dentro un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente reforma, deberán crear o en su caso adecuar la reglamentación municipal, así como las normas técnicas que correspondan.
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO “DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL”, ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
