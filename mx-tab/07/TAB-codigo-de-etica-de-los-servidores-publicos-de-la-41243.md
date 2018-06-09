@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-de-los-servidores-publicos-de-la-41243"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-09-29"
-last_updated: "2004-09-29"
+last_updated: "2018-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA ESTATAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018 (SIN EFECTOS).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el martes 29 de septiembre de 2004.
 
@@ -192,3 +194,19 @@ SECRETARIO DE GOBIERNO
 DR. JORGE ABDO FRANCIS
 
 SECRETARIO DE CONTRALORÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+PRIMERO.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Queda sin efecto el Acuerdo por el que se establece el Código de Ética de los Servidores Públicos de la Administración Estatal, publicado el veintinueve de septiembre del año dos mil cuatro, en el Periódico Oficial del Estado de Tabasco No. 19289, Suplemento 6476B, así como cualquier otro Código de Ética o normatividad en la materia, que haya sido emitido por algún ente público distinto a la Secretaría de Contraloría.
+
+TERCERO.- El presente Acuerdo deberá ajustarse a lo que establezcan los lineamientos a los que hace alusión el artículo 16 de la Ley General de Responsabilidades Administrativas, cuando éstos sean emitidos por el Sistema Nacional Anticorrupción.
+
+CUARTO.- Los Comités de Ética y de Prevención de Conflicto de Interés deberán estar constituidos en los términos de los "Lineamientos Generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y de Prevención de Conflicto de Interés", en un plazo de noventa días hábiles contados a partir de la creación de la Unidad Especializada en Ética y Prevención de Conflicto de Interés de la Secretaría.
+
+QUINTO.- La Secretaría publicará en su página en Internet, dentro de los treinta días hábiles siguientes a la instalación de los Comités, la relación de dependencias y entidades que cuentan con Comité de Ética y de Prevención de Conflicto de Interés.
