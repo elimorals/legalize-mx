@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2015-06-12"
+last_updated: "2018-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -123,9 +123,11 @@ Los Notarios Públicos del Estado auxiliarán a las autoridades electorales en f
 
 La interpretación de las disposiciones de esta Ley, se hará tomando en cuenta los fines que señala el artículo 1 y atendiendo indistintamente a los criterios gramatical, sistemático y funcional, observando lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 8.
 
-A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Constitución Federal, en la Constitución del Estado, Ley General, en los criterios obligatorios que dicte el Tribunal Electoral, la Jurisprudencia del Tribunal Electoral del Poder Judicial de la Federación, en los acuerdos del Consejo General dictados dentro del ámbito de su competencia, y a los principios generales del derecho.
+A falta de disposición expresa en esta Ley, se estará a lo dispuesto en la Constitución Federal, en la Constitución del Estado, Ley General, Ley General del Sistema de Medios de Impugnación en Materia Electoral, en los criterios obligatorios que dicte el Tribunal Electoral, la Jurisprudencia del Tribunal Electoral del Poder Judicial de la Federación, en los acuerdos del Instituto Nacional o del Consejo General dictados dentro del ámbito de sus competencias, y a los principios generales del derecho.
 
 ## TÍTULO SEGUNDO. De los derechos y obligaciones político electorales de los ciudadanos
 
@@ -245,9 +247,37 @@ El Congreso del Estado estará integrado por diputados que se elegirán cada tre
 
 Los diputados podrán ser electos hasta por cuatro periodos consecutivos.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los diputados interesados en la elección consecutiva deberán manifestarlo por escrito a su partido político. Para el caso de diputados que manifiesten su deseo de reelegirse deberán, además, señalar el principio por el que desean hacerlo, de tratarse del principio de mayoría relativa, deberán señalar el distrito o su equivalente por el que lo harán, de no hacerse en los términos antes señalados, se entenderá que el diputado no está interesado en la elección consecutiva. El escrito que contenga las manifestaciones antes señaladas, deberá presentarse al partido político correspondiente, con veinte días de anticipación al inicio de las precampañas, en virtud de lo cual, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término al género del diputado que haya obtenido la constancia de mayoría relativa en el proceso electoral anterior para la asignación de genero por distrito o su equivalencia.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los partidos políticos en plena autodeterminación seleccionarán a sus candidatos, el distrito por el cual competirán, así como el principio de mayoría relativa o de representación proporcional, según sea el caso, observando al efecto las reglas que sobre equidad de género que dispone la Constitución Política Federal, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, esta Constitución y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Para efecto de lo previsto en el artículo 16, párrafo quinto de la Constitución Política del Estado, se tendrá por equivalente cualquier distrito cuya conformación se integre mayoritariamente por secciones del distrito electoral por el que fueron electos.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Cuando un diputado no pueda contender por el mismo distrito por el que accedió al cargo o su equivalente, podrá participar en la reelección, ya sea por el principio de mayoría relativa por cualquier demarcación territorial que conserve por lo menos una sección electoral del distrito por el que fue electo o por el principio de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+El Instituto Estatal Electoral del Estado de Baja California debe constatar que las postulaciones permiten el cumplimiento del principio de paridad de género.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 En el caso de diputados electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad de candidato independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los diputados que hayan ocupado su cargo público por la vía de una candidatura independiente y pretendan su elección consecutiva por la misma vía, para obtener el registro de su candidatura deben cumplir con los requisitos señalados en los artículos 14, 26 y 27 de la Ley que Reglamenta las Candidaturas Independientes.
 
 ### CAPÍTULO SEGUNDO. De la asignación de diputados de representación proporcional
 
@@ -349,17 +379,43 @@ El Gobierno del Municipio se deposita en un cuerpo colegiado que se denomina Ayu
 
 El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador, por Regidores de mayoría relativa y de representación proporcional, en el número que dispone la Constitución del Estado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 Los Presidentes Municipales, regidores y síndicos podrán ser postulados, al mismo cargo, para el periodo inmediato siguiente. A los suplentes de los anteriores, que no entren en funciones, no se les computará dicho periodo para efectos de la reelección inmediata.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los presidentes municipales, regidores y síndicos únicamente pueden ser electos consecutivamente para el mismo cargo que ostentan y siendo parte de una planilla integrada de conformidad con la fracción II del artículo 136 de la presente ley.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los Presidentes Municipales, Regidores y Síndicos interesados en la elección consecutiva en términos de lo dispuesto en el párrafo anterior, deberán manifestarlo a su partido político por escrito y con veinte días de anticipación al inicio de las precampañas, de no hacerse en los términos antes señalados, se entenderá que no están interesados en la elección consecutiva. En virtud de lo anterior, los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término el criterio de género aplicado en la conformación de las planillas de candidatos a munícipes que hayan obtenido la constancia de mayoría relativa en el proceso electoral anterior.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+En caso de que un munícipe pretenda ser candidato a un cargo de elección popular diverso al que fue electo no se considera elección consecutiva.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
 La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los munícipes que hayan ocupado su cargo público por la vía de una candidatura independiente y pretendan su elección consecutiva por la misma vía, para obtener el registro de su candidatura deberán cumplir con los requisitos señalados en los artículos 14, 26 y 27 de la Ley que Reglamenta las Candidaturas Independientes del Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 En el caso de munícipes electos como candidatos independientes solo podrán postularse para la reelección con la misma calidad de candidato independiente, salvo que se afilie y demuestre su militancia en un partido político antes de la mitad de su periodo, caso en el que si podrá postularse para reelección por dicho partido.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
 Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas en el período inmediato.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 31.
 
-Para que los partidos políticos o coaliciones tengan derecho a la asignación de Regidores por el principio de representación proporcional, deberán cumplir los siguientes presupuestos:
+Para que los partidos políticos o candidatos independientes tengan derecho a la asignación de Regidores por el principio de representación proporcional, deberán cumplir los siguientes presupuestos:
 
 I. Haber registrado planilla completa de candidatos a munícipes en el Municipio que corresponda;
 
@@ -371,29 +427,49 @@ III. No haber obtenido la constancia de mayoría respectiva.
 
 El Consejo General, hará la asignación de regidores mediante el principio de representación proporcional, conforme al siguiente procedimiento:
 
-I. Determinará qué partidos políticos, en lo individual o en coalición, cumplen con lo establecido en el artículo anterior;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
-II. Primeramente asignará un Regidor a cada partido político con derecho.
+I. Determinará qué partidos políticos o candidatos independientes cumplen con lo establecido en el artículo anterior;
 
-En el caso que el número de partidos políticos sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+II. Primeramente asignará un Regidor a cada partido político o candidato independiente con derecho.
+
+En el caso que el número de partidos políticos o candidatos independientes sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
 
 III. Si después de efectuada la operación indicada en la fracción anterior, aún hubieren regidurías por asignar, realizará las siguientes operaciones:
 
-a).- Sumará los votos de los partidos políticos con derecho a ello, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el inciso siguiente;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-b).- Determinará el nuevo porcentaje de cada partido político que tenga derecho a la asignación, mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político por cien, dividiendo el resultado entre la suma de los votos de los partidos políticos participantes;
+a).- Sumará los votos de los partidos políticos o candidatos independientes con derecho a ello, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el inciso siguiente;
 
-c).- Obtendrá la expectativa de integración al Ayuntamiento de cada partido político con derecho a ello, mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el inciso anterior, de cada partido político, por el número de regidurías de representación proporcional que corresponda, conforme al artículo 79, fracción I, de la Constitución del Estado y dividiéndolo entre cien; y
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-d).- Restará de la expectativa de integración al Ayuntamiento a cada partido político, la asignación efectuada conforme a la fracción II de este artículo;
+b).- Determinará el nuevo porcentaje de cada partido político o candidato independiente que tenga derecho a la asignación, mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político o candidato independiente por cien, dividiendo el resultado entre la suma de los votos de los partidos políticos o candidatos independientes participantes;
 
-IV. Asignará a cada partido político alternadamente, tantas regidurías como números enteros se hayan obtenido de la operación realizada en el inciso d) de la fracción anterior;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-V. En caso de que aún hubieren regidurías por repartir, las asignará a los que conserven los restos mayores, después de deducir las asignaciones efectuadas en la fracción anterior;
+c).- Obtendrá la experiencia de integración al Ayuntamiento de cada partido político o candidato independiente con derecho a ello, mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el inciso anterior, de cada partido político o candidato independiente, por el número de regidurías de representación proporcional que corresponda, conforme al artículo 79, fracción I, de la Constitución del Estado y dividiéndolo entre cien; y
 
-VI. La asignación de regidurías de representación proporcional, se hará de la planilla de candidatos a Regidores que haya registrado cada partido político o coalición, en el orden que los mismos fueron registrados. Si por alguna causa a los partidos coaligados no se les pudiera repartir las regidurías correspondientes, solo se les asignarán, en su caso, las regidurías que conforme al convenio de coalición le correspondan; las sobrantes por este motivo se asignarán a los partidos políticos que conforme la fórmula del presente artículo tengan ese derecho, observando lo dispuesto en la fracción IV de este precepto.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-VII. En caso de que la asignación recaiga en quien esté inhabilitado o no reúna los requisitos para ser electo, la asignación deberá ser cubierta por el suplente de la planilla respectiva. Si éste último resulta también inhabilitado o no reúne los requisitos para ser electo, se asignará a aquel candidato del mismo partido político que siga en el orden de la lista.
+d).- Restará de la expectativa de integración al Ayuntamiento a cada partido político o candidato independiente, la asignación efectuada conforme a la fracción II de este artículo;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+IV. Asignará a cada partido político o candidato independiente alternadamente, tantas regidurías como números enteros se hayan obtenido de la operación realizada en el inciso d) de la fracción anterior;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+V. En caso de que aún hubiere regidurías por repartir, las asignará a los partidos políticos o candidatos independientes que conserven los restos mayores, después de deducir las asignaciones efectuadas en la fracción anterior;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+VI. La asignación de regidurías de representación proporcional, se hará de la planilla de candidatos a Regidores que haya registrado cada partido político o candidato independiente, en el orden que los mismos fueron registrados. Si por alguna causa a los partidos coaligados no se les pudiera repartir las regidurías correspondientes, solo se les asignarán, en su caso, las regidurías que conforme al convenio de coalición le correspondan; las sobrantes por este motivo se asignarán a los partidos políticos que conforme la fórmula del presente artículo tengan ese derecho, observando lo dispuesto en la fracción IV de este precepto.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+VII. En caso de que la asignación recaiga en quien esté inhabilitado o no reúna los requisitos para ser electo, la asignación deberá ser cubierta por el suplente de la planilla respectiva. Si éste último resulta también inhabilitado o no reúne los requisitos para ser electo, se asignará a aquel candidato del mismo partido político o candidato independiente que siga en el orden de la lista.
 
 Las vacantes de propietarios de munícipes por el principio de representación proporcional, deberán ser cubiertas por los suplentes de la planilla respectiva.
 
@@ -1587,6 +1663,10 @@ VII. Las demás que establezca la Ley.
 
 En el caso de que se trate de precandidatos que sean servidores públicos, además de cumplir con lo que establece la Constitución del Estado y esta Ley, se abstendrán de promover la recaudación de recursos para destinarlos a la realización de actos proselitistas a favor de su precandidatura o la de otros, si no ha informado de ello a su partido y éste a su vez no le ha otorgado la constancia correspondiente, ni notificado al Instituto Estatal sobre su aspiración.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Artículo 122 BIS.- Quienes aspiren a ser electos de forma consecutiva a los cargos de Diputados, Presidentes Municipales, Regidores y Síndicos se sujetarán a las bases contenidas en esta ley, aplicables para el resto de precandidatos o candidatos, según sea el caso.
+
 ###### Artículo 123.
 
 Queda prohibido a los precandidatos lo siguiente:
@@ -1669,9 +1749,13 @@ Corresponde a los partidos políticos el derecho de solicitar el registro de can
 
 El registro de candidaturas a los distintos cargos de elección popular se hará de la forma siguiente:
 
-I. La de diputados, se hará por fórmulas integradas por propietario y suplente del mismo género;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
-II. La de munícipes se hará por planillas completas integradas por propietarios y suplentes del mismo género, de los cargos de Presidente Municipal, que encabezará la planilla; Síndico Procurador, que ocupará la segunda posición en la planilla; y Regidores, estos últimos en orden de prelación, y
+I. La de diputados, se hará por fórmulas integradas por propietario y suplente del mismo género, para el caso de la elección consecutiva, el candidato suplente podrá ser diverso que el registrado en la fórmula anterior.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+II. La de munícipes se hará por planillas completas integradas por propietarios y suplentes del mismo género, de los cargos de Presidente Municipal, que encabezará la planilla; Síndico Procurador, que ocupará la segunda posición en la planilla; y Regidores, estos últimos en orden de prelación, para el caso de la elección consecutiva, el candidato suplente podrá ser diverso que el registrado en la fórmula anterior, y
 
 III. La de Gobernador del Estado, será unipersonal.
 
@@ -1695,7 +1779,15 @@ El Consejo General tendrá facultades para rechazar el registro del número de c
 
 De la totalidad de solicitudes de registro de las candidaturas a diputados por el principio de mayoría relativa que presenten los partidos políticos o las coaliciones ante el Instituto, deberá salvaguardar la paridad entre los géneros mandatada en la Constitución del Estado. Cuando el partido político o coalición participe con candidatos en la totalidad de los distritos, ocho serán de un mismo género.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+En caso de elección consecutiva los partidos políticos o coaliciones en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidatos deberán respetar en primer término al género del diputado que haya obtenido la constancia de mayoría relativa en el proceso electoral anterior para la asignación de género por distrito o su equivalencia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
+
 Las listas de diputados por el principio de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
 Las planillas de munícipes se integrarán alternando candidatos de género distinto, conforme a la fracción II del artículo 136 de esta Ley; asimismo, las candidaturas para el cargo de presidente municipal deberán ser distribuidas de forma igualitaria entre ambos géneros.
 
@@ -1713,17 +1805,19 @@ Para el registro de candidaturas a todo cargo de elección popular, el partido p
 
 Los partidos políticos o coaliciones no podrán registrar en el mismo proceso electoral, a un mismo ciudadano para diferentes cargos de elección popular.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 144.
 
 Los partidos políticos o coaliciones, y los aspirantes a Candidatos Independientes que hubieren obtenido la constancia de porcentaje a que se refiere el artículo 26 de la Ley de Candidaturas Independientes en el Estado, deberán presentar la solicitud de registro de candidaturas, en los plazos y ante los órganos competentes, en los siguientes términos:
 
-I. En el año de la elección en el que se renueven al Titular de Poder Ejecutivo estatal, integrantes del Congreso del Estado, y munícipes de los ayuntamientos, todas las solicitudes de registro, entre el siete al dieciocho de marzo, ante los siguientes órganos:
+I. Para las candidaturas a Titular de (sic) Poder Ejecutivo estatal, todas las solicitudes de registro se harán ante el Consejo General, entre el veinte al veintisiete de marzo.
 
-a) Las fórmulas de candidatos a diputados por el principio de mayoría relativa, ante el Consejo Distrital Electoral correspondiente, y
+II. Para las candidaturas a diputados y munícipes por ambos principios, que tengan como fin la renovación del Congreso del Estado y los Ayuntamientos, las solicitudes de registro se harán entre el treinta y uno de marzo al once de abril, ante los siguientes órganos:
 
-b) Las candidaturas a Gobernador, planillas completas de munícipes y la lista de cuatro candidatos a diputados por el principio de representación proporcional, ante el Consejo General, y
+a) Las fórmulas de candidatos a diputados por el principio de mayoría relativa, deberán registrarse ante el Consejo Distrital Electoral correspondiente, y
 
-II. En el año de la elección en que solamente se renueve el Congreso del Estado y los Ayuntamientos, los candidatos por ambos principios serán registrados entre el veintiocho de marzo al ocho de abril, por los órganos señalados en los incisos a) y b) de la fracción anterior.
+b) Las planillas completas de munícipes y la lista de cuatro candidatos a diputados por el principio de representación proporcional, ante el Consejo General.
 
 Los partidos políticos o coaliciones, dentro del plazo señalado en este artículo, podrán modificar o sustituir las solicitudes presentadas.
 
@@ -1785,7 +1879,11 @@ I. Deberá ser presentada ante el Consejo Electoral correspondiente, en la forma
 
 II. Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 144 de esta Ley, será desechada de plano y, en su caso, no procederá el registro de la candidatura o candidaturas;
 
-III. El Consejero Presidente y el Secretario Fedatario del Consejo Electoral correspondiente, una vez recibidas las solicitudes de registro de candidaturas y hasta el vencimiento del plazo señalado en la fracción anterior, revisarán si se cumplen con los requisitos a que se refieren los artículos 145 al 147 de esta Ley; si de esta revisión se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político o coalición solicitante, para que hasta la conclusión del plazo antes mencionado subsane el o los requisitos;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+III. El Consejero Presidente y el Secretario Fedatario del Consejo Electoral correspondiente, una vez recibidas las solicitudes de registro de candidaturas, revisarán si se cumplen con los requisitos a que se refieren los artículos 145 al 147 de esta Ley; si de esta revisión se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificara de inmediato al partido político o coalición solicitante, para que hasta la conclusión del plazo correspondiente contenido en el artículo 144 de esta Ley subsane el o los requisitos;
+
+En caso de que la solicitud de registro de candidaturas se presente el último día para ello, de existir observaciones, la autoridad competente deberá notificarlas al solicitante para que las subsane en un plazo de veinticuatro horas.
 
 IV. Los Consejos Electorales, al tercer día del vencimiento del plazo a que se refiere el artículo 144 de esta Ley, celebrarán sesión para resolver, a propuesta de sus Consejeros Presidentes, sobre las solicitudes planteadas y, en su caso, otorgar la constancia de registro correspondiente, y
 
@@ -1980,6 +2078,12 @@ Las campañas electorales de los partidos políticos, coaliciones y candidatos r
 Queda prohibido realizar actos de campaña y de propaganda electoral, antes de la fecha de expedición de constancias del registro de candidaturas.
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+A los servidores públicos que sean candidatos, ya sea por primera vez o de elección consecutiva, se le prohíbe en el transcurso de las campañas electorales asistir a eventos públicos o privados relacionados con la entrega de beneficios de programas sociales u obras públicas ejecutadas con financiamiento de gobierno, así como el uso de recursos humanos o materiales que tengan asignados por motivos de su cargo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE JUNIO DE 2018)</small>
 
 En caso de que dentro del plazo señalado en el presente artículo, la propaganda de los partidos políticos, coaliciones o candidatos contenga datos falsos o imprecisiones, respecto de los programas o actividades institucionales, las autoridades podrán hacer uso de los medios de comunicación para hacer las aclaraciones pertinentes.
 
@@ -2881,9 +2985,11 @@ I. Actas de los cómputos distritales, y
 
 II. Actas circunstanciadas de las sesiones de cómputo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 263.
 
-Los consejos distritales electorales, una vez que los resultados de la elección de diputados de mayoría relativa causen estado, enviarán los expedientes correspondientes al Consejo General, para efectos de la asignación de diputados por el principio de representación proporcional.
+Los consejos distritales electorales, una vez resueltos todos los medios de impugnación locales de la elección de diputados de mayoría relativa, enviarán los expedientes correspondientes al Consejo General, para efectos de la asignación de diputados por el principio de representación proporcional.
 
 Los Consejeros Presidentes de los Consejos Distritales Electorales, remitirán al Congreso del Estado copia certificada de las constancias de mayoría de la fórmula de candidatos a Diputado que la hubiesen obtenido.
 
@@ -2897,7 +3003,9 @@ Los consejeros presidentes de los consejos distritales correspondientes, conserv
 
 El cómputo para Munícipes, Gobernador y Diputados por el principio de representación proporcional, es el, procedimiento por el cual el Consejo General determina, mediante la suma de los resultados anotados en las actas de los cómputos distritales, la votación obtenida para cada una de esas elecciones.
 
-El Consejo General celebrará sesión a más tardar quince días posteriores a la jornada electoral, para hacer el cómputo de las elecciones de Munícipes y Gobernador. El cómputo de la elección de diputados por el principio de representación proporcional deberá realizarse una vez que causen estado los resultados de la elección de diputados de mayoría relativa.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+El Consejo General celebrará sesión a más tardar quince días posteriores a la jornada electoral, para hacer el cómputo de las elecciones de Munícipes y Gobernador. El cómputo de la elección de diputados por el principio de representación proporcional deberá realizarse una vez resueltos todos los medios de impugnación locales de la elección de diputados de mayoría relativa.
 
 ###### Artículo 266.
 
@@ -2939,7 +3047,9 @@ El Consejo General, acordará la fecha y modo en que habrán de ser destruidos.
 
 En los términos de los artículos 15 y 79 de la Constitución del Estado, el Consejo General procederá a la asignación de diputados y munícipes electos por el principio de representación proporcional, conforme a lo dispuesto en esta Ley.
 
-En caso, de presentarse impugnaciones, el Consejo General, hará la asignación una vez que cause estado.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+En caso de presentarse impugnaciones de las elecciones de diputados y munícipes de mayoría relativa, el Consejo General hará la asignación correspondiente, una vez resueltos todos los medios de impugnación locales de la respectiva elección.
 
 ###### Artículo 271.
 
@@ -3069,6 +3179,8 @@ Compete al Pleno del Tribunal Electoral conocer y resolver los medios de impugna
 
 ### CAPÍTULO SEGUNDO. De los recursos
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 283.
 
 El recurso de inconformidad se podrá hacer valer, por:
@@ -3078,6 +3190,10 @@ I. Los partidos políticos, por conducto de sus representantes legítimos, para 
 II. Los Candidato Independiente (sic), cuando se consideren afectados por los actos o resoluciones de los órganos electorales, y
 
 III. Las personas o entidades que se consideren afectados por la resolución emitida en los procedimientos de responsabilidad que establece esta Ley.
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+IV. Los partidos políticos, por conducto de sus dirigentes o candidatos, en contra de actos relativos al proceso de liquidación.
 
 ###### Artículo 284.
 
@@ -3091,9 +3207,11 @@ III. Por los militantes de los partidos políticos estatales para impugnar los a
 
 IV. Por los militantes de los partidos políticos nacionales para impugnar los actos o resoluciones emitidos, con relación a la fracción IV del artículo 29 de la Ley de Partidos Políticos del Estado, cuando incidan en el proceso electoral local.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 285.
 
-Los partidos políticos y las coaliciones, por conducto de sus representantes legítimos, podrán interponer el recurso de revisión para impugnar:
+Los partidos políticos y las coaliciones, por conducto de sus representantes legítimos, o los candidatos por sí, podrán interponer el recurso de revisión para impugnar:
 
 I. El Cómputo del Consejo Distrital Electoral de la elección de diputados, por nulidad de la votación recibida en una o varias casillas;
 
@@ -3113,7 +3231,9 @@ VIII. La constancia de asignación de diputados por el principio de representaci
 
 IX. La asignación de munícipes por el principio de representación proporcional, que efectúe el Consejo General.
 
-Los candidatos independientes por conducto de sus representantes legítimos, podrán promover el recurso de revisión, salvo lo estipulado en las fracciones VIII y IX que anteceden o las relacionadas con la representación proporcional.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los candidatos independientes, por sí o a través de sus representantes legítimos, podrán promover el recurso de revisión, salvo lo estipulado en la fracción VIII que antecede o las relacionadas con la representación proporcional de diputados.
 
 ###### Artículo 286.
 
@@ -3159,11 +3279,15 @@ Además, deberá anexar a la promoción los documentos con los que acredite la p
 
 Cuando el o los agravios versen exclusivamente sobre puntos de derecho, no será necesario aportar pruebas.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 289.
 
 La autoridad que reciba un medio de impugnación, en contra de un acto emitido o resolución dictada por ella, bajo su más estricta responsabilidad, deberá:
 
-I. Por la vía más expedita, dar aviso de su presentación al Tribunal Electoral, precisando: actor, acto o resolución impugnado, fecha y hora exactas de su recepción, y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+I. Por la vía más expedita, remitir copia del mismo junto con sus anexos y dar aviso de su presentación al Tribunal Electoral, precisando: actor, acto o resolución impugnado, fecha y hora exactas de su recepción, y
 
 II. Dentro de las tres horas posteriores a la recepción del escrito, hacerlo del conocimiento público mediante cédula que fijarán en los estrados durante un plazo de setenta y dos horas.
 
@@ -3217,6 +3341,8 @@ VI. En el caso del recurso de revisión, el expediente completo con todas las ac
 
 VII. Los demás elementos que se estimen necesarios para la sustanciación y resolución del recurso.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 292.
 
 En el caso del recurso de revisión, además de los requisitos establecidos en el artículo 288 de esta Ley, deberán señalarse los siguientes:
@@ -3225,7 +3351,9 @@ I. La elección que se impugna, precisando si se objeta el cómputo de la elecci
 
 II. La mención individualizada del acta de cómputo y, en su caso, la asignación que se impugna;
 
-III. La mención individualizada de las casillas cuya votación se solicita que se anule en cada caso y la causal que se invoca para cada una de ellas, y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+III. La mención individualizada de las casillas cuya votación se solicita que se anule en cada caso y la causal que se invoca, así como la narrativa expresa de los hechos y agravios para cada una de ellas.
 
 IV. En su caso, si se solicita recuento total o parcial de votos.
 
@@ -3291,6 +3419,8 @@ III. Las personas autorizadas para representarlo ante cualquier autoridad admini
 
 ### CAPÍTULO QUINTO. De la Improcedencia y Sobreseimiento
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 299.
 
 Serán improcedentes los recursos previstos en esta Ley, cuando:
@@ -3309,9 +3439,17 @@ VI. Se pretenda impugnar actos o resoluciones que se hayan consumado de un modo 
 
 VII. No se expresen agravios o los que se expongan no tengan relación directa con el acto o resolución que se impugne;
 
-VIII. No se hayan agotado previamente las instancias internas del partido político de que se trate, en caso del recurso de apelación, y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
-IX. No reúnan los requisitos que señala esta Ley para que proceda el recurso de revisión.
+VIII. No se hayan agotado previamente las instancias internas del partido político de que se trate, en caso del recurso de apelación;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+IX. No reúnan los requisitos que señala esta Ley para que proceda el recurso de revisión, y
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+X. Resulten evidentemente frívolos.
 
 ###### Artículo 300.
 
@@ -3561,9 +3699,11 @@ IV. Los Magistrados podrán presentar voto particular que se agregará al expedi
 
 Solamente en casos extraordinarios, el Tribunal Electoral podrá diferir la resolución de un asunto listado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 329.
 
-El Presidente del Tribunal Electoral, a petición de los Magistrados, podrá requerir a los órganos del Instituto Estatal, o a las autoridades federales, estatales o municipales, cualquier informe o elemento, que obrando en su poder, pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver el recurso dentro de los plazos establecidos en esta Ley.
+Los Magistrados Electorales podrán requerir a los órganos del Instituto Estatal, a las autoridades o entes públicos estatales o municipales, a los partidos políticos, así como a los particulares, o solicitar a las autoridades federales, cualquier informe o elemento, que obrando en su poder, pueda servir para la sustanciación o resolución de los expedientes en los que sean ponentes, siempre que ello no sea obstáculo para resolver el recurso dentro de los plazos establecidos en esta Ley.
 
 Las autoridades proporcionarán oportunamente los informes o elementos a que se refiere el párrafo anterior.
 
@@ -3589,7 +3729,19 @@ VI. En su caso, el plazo para su cumplimiento.
 
 Los recursos serán resueltos por mayoría de los integrantes del Tribunal Electoral, dentro de los treinta días siguientes a aquel en que fue recibido por el Tribunal.
 
-Tratándose del recurso de revisión mediante el cual se impugne el cómputo de la elección de diputados por el principio de representación proporcional y la asignación que realice el Consejo General, o cuando se se (sic) impugne la asignación de munícipes por el principio de representación proporcional, deberá resolverse dentro de los quince días siguientes a aquel en que fue recibido por el Tribunal.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los recursos de revisión previstos en esta Ley, se resolverán conforme a los siguientes plazos:
+
+I. A más tardar el 13 de julio del año de la elección, los relativos a la elección de diputados por el principio de mayoría relativa;
+
+II. Dentro de los 12 días siguientes a aquel en que fueron recibidos por el Tribunal Electoral, cuando se impugne el cómputo de la elección de diputados por el principio de representación proporcional y la asignación que realice el Consejo General;
+
+III. A más tardar el 31 de agosto del año de la elección, los relativos a la elección de munícipes;
+
+IV. Dentro de los 15 días siguientes a aquel en que fueron recibidos por el Tribunal electoral, cuando - se impugne la asignación de munícipes por el principio de representación proporcional, y
+
+V. A más tardar el 22 de septiembre del año de la elección, el relativo a la elección de Gobernador del Estado.
 
 ###### Artículo 332.
 
@@ -4053,6 +4205,8 @@ III. Constituyan actos anticipados de precampaña o campaña.
 
 Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión, se estará a lo dispuesto en la Ley General.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 374.
 
 La denuncia deberá reunir los siguientes requisitos:
@@ -4069,7 +4223,9 @@ V. Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las 
 
 VI. En su caso, las medidas cautelares que se soliciten.
 
-El órgano del Instituto que reciba o promueva la denuncia la remitirá inmediatamente a la Unidad Técnica de lo Contencioso, para que ésta la examine junto con las pruebas aportadas.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+La unidad Técnica de lo Contencioso informará al Tribunal Electoral, por la vía más expedita, de la denuncia presentada, remitiendo copia de la misma y sus anexos.
 
 ###### Artículo 375.
 
@@ -4131,19 +4287,35 @@ Del informe circunstanciado se enviará una copia a la Comisión de Quejas y Den
 
 Será competente para resolver sobre el procedimiento especial sancionador referido en el presente Capitulo, el Tribunal Electoral.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
+
 ###### Artículo 381.
 
-Recibido el expediente en el Tribunal Electoral, el Presidente de dicho Tribunal lo turnará al Magistrado Ponente que corresponda, quién deberá:
+Recibido el expediente en el Tribunal Electoral, la presidencia de éste lo asignará preliminarmente a un Magistrado del Pleno, para que dentro de los tres días siguientes verifique si se encuentra debidamente integrado y le informe del resultado, para proceder al turno correspondiente.
 
-I. Radicar la denuncia, procediendo a verificar el cumplimiento, por parte del
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
-Instituto, de los requisitos previstos en esta Ley;
+La Ponencia correspondiente, una vez decretado el turno, deberá:
 
-II. Cuando advierta omisiones o deficiencias en la integración del expediente o en su tramitación, así como violación a las reglas establecidas en esta Ley, realizar u ordenar al Instituto la realización de diligencias para mejor proveer, determinando las que deban realizarse y el plazo para llevarlas a cabo, las cuales deberá desahogar en la forma más expedita;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
 
-III. De persistir la violación procesal, el Magistrado Ponente podrá imponer las medidas de apremio necesarias para garantizar los principios de inmediatez y de exhaustividad en la tramitación del procedimiento. Lo anterior con independencia de la responsabilidad administrativa que en su caso pudiera exigirse a los funcionarios electorales;
+I. Radicar la denuncia, pronunciándose sobre el cumplimiento por parte del Instituto, de los requisitos previstos en esta Ley.
 
-IV. Una vez que se encuentre debidamente integrado el expediente, el Magistrado Ponente dentro de las setenta y dos horas siguientes contadas a partir de su turno, deberá poner a consideración del pleno del Tribunal Electoral, el proyecto de sentencia que resuelva el procedimiento sancionador, y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+II. Si advierte que el expediente está debidamente integrado, emitirá el acuerdo respectivo y dentro de los seis días posteriores a su turno, deberá poner a consideración del Pleno del Tribunal, el proyecto de resolución que resuelva el procedimiento especial sancionador.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+III. Si advierte omisiones o deficiencias en la integración del expediente o en su tramitación, así como violación a las reglas establecidas en esta Ley, deberá ordenar al Instituto la realización de diligencias para mejor proveer, determinando las que deban realizarse y el plazo para llevarlas a cabo, las cuales deberá desahogar en la forma más expedita. Asimismo, la ponencia respectiva podrá emitir los proveídos que se requieran para la debida integración del expediente.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+IV. Una vez devuelto el expediente por la autoridad administrativa electoral, la ponencia correspondiente revisará el cumplimiento de las diligencias ordenadas para mejor proveer.
+
+De persistir la violación procesal, podrá emitir nuevo requerimiento, o en su caso, corresponderá a la Ponencia el desahogo de las diligencias faltantes. Lo anterior, con independencia de la responsabilidad administrativa su caso pudiera exigirse a los servidores públicos electorales.
+
+La ponencia correspondiente procederá con amplias facultades para llevar a cabo las diligencias para mejor proveer que se deriven de las omisiones e irregularidades que se adviertan en la reposición del procedimiento, así como para el desahogo de diligencias que se deriven de datos nuevos que éstas arrojen.
 
 V. El Pleno en sesión pública, resolverá el asunto en un plazo de veinticuatro horas contadas a partir de que se haya distribuido el proyecto de resolución.
 
@@ -4464,3 +4636,11 @@ LORETO QUINTERO QUINTERO
 OFICIAL MAYOR DE GOBIERNO
 
 En suplencia del Secretario General de Gobierno, con fundamento en el artículo 54 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO "DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL", ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
