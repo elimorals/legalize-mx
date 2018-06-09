@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2018-03-02"
+last_updated: "2018-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -2599,6 +2599,42 @@ La Dirección de Administración se encargará de implementar y dar seguimiento 
 
 Las oficinas e instalaciones de este Poder Legislativo contarán con contenedores especiales para el reciclaje de las distintas clases de desperdicios, atendiendo al programa de desarrollo ambiental.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 2018)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DE LA OBLIGACIÓN DE IMPARCIALIDAD EN PROCESO ELECTORAL
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 174.
+
+Los diputados que sean postulados para su elección consecutiva se ajustaran a la forma, términos y condiciones que señale la Ley Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 175.
+
+Queda prohibido a los diputados que participen en el proceso de elección consecutiva utilizar en el periodo de pre campaña y campaña electoral los recursos públicos de este Poder Legislativo para fines electorales.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 176.
+
+Está prohibido realizar actos de expresión que se realicen bajo cualquier modalidad en el desarrollo de las sesiones del pleno o de comisiones que contengan llamados expresos al voto en contra o a favor de una candidatura o un partido político, o expresiones solicitando cualquier tipo de apoyo para contender en el proceso electoral por alguna candidatura o para un partido político.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 177.
+
+Está prohibido la utilización del personal asignado al Poder Legislativo o a los diputados en particular, en labores de campañas políticas en el horario oficial de labores. Se considera horario oficial de labores el previsto en los artículos 24 y 25 de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
+
+Tratándose de Diputados, además de lo anterior, será considerado oficial y hábil cualquier horario en el que se desarrollen las sesiones de pleno o de comisiones de las que formen parte.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 178.
+
+Es injustificable la ausencia de un diputado a una sesión ordinaria o de comisión de la cual sea integrante, para asistir o participar como candidato o militante de algún partido político en un acto o evento de campaña política.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
@@ -3008,3 +3044,9 @@ P.O. 2 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 199 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 146 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 8, 9, 10, 14, 25, 28, 29, 30, 34, 36, 39, 51 Y 61 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 3, 4, 5, 8, 9, 12, 16, 19, 20, 23, 26, 37, 40, 42, 48, 49, 54, 55, 63 Y 65 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; A LOS ARTÍCULOS 8, 21, 30, 31, 32, ADICIÓN DEL 122 BIS, 136, 144, 149, 169, 263, 265, 270, 283, 285, 292, 329, 331, 374 Y 381 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL ARTÍCULO 9 TER, A LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA DE LOS ARTÍCULOS 10, 12, 14, 15, 25 Y 26 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA ADICIÓN DEL TÍTULO DÉCIMO PRIMERO DENOMINADO "DE LA OBLIGACIÓN DE IMPARCIALIDAD EN EL PROCESO ELECTORAL", ASÍ COMO LOS ARTÍCULOS 174, 175, 176, 177 Y 178, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
