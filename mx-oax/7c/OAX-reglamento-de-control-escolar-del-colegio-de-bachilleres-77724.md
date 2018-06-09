@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-control-escolar-del-colegio-de-bachilleres-77724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-25"
-last_updated: "2012-04-07"
+last_updated: "2018-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO DE CONTROL ESCOLAR DEL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA (COBAO)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE CONTROL ESCOLAR DE LA MODALIDAD ESCOLARIZADA PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE CONTROL ESCOLAR DEL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA (COBAO)
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el periódico oficial del Estado de Oaxaca, el jueves 25 de noviembre de 2010.
 
@@ -1420,3 +1422,19 @@ PRIMERO.- Las Reformas, Adiciones y Derogaciones al presente Reglamento entrará
 SEGUNDO.- El presente reglamento será difundido en todas las áreas, Planteles y Extensiones del Colegio de Bachilleres del Estado de Oaxaca, para conocimiento de toda la comunidad Estudiantil y personal Administrativa y Docente.
 
 TERCERO.- Se derogan todas aquellas disposiciones de la misma y/o menor jerarquía que contravengan a las presentes disposiciones a partir de su entrada en vigor.
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO.- DE CONTROL ESCOLAR DE LA MODALIDAD ESCOLARIZADA DEL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA (COBAO)”.]
+
+PRIMERO.- El presente Reglamento de Control Escolar de la modalidad escolarizada entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga el Reglamento de Control Escolar del Colegio de Bachilleres del Estado de Oaxaca, publicado en el periódico oficial del Gobierno del Estado de Oaxaca de fecha 7 de abril de 2012.
+
+TERCERO.- En virtud que el presente reglamento contempla un capítulo que regula el Proceso de Nuevo Ingreso de los estudiantes, se abrogan los Lineamientos para el Ingreso de Aspirantes a las Unidades Educativas del Colegio de Bachilleres del Estado de Oaxaca.
+
+CUARTO.- El presente Reglamento garantizará el pleno ejercicio, respeto, protección y promoción de los Derechos Humanos de las y los estudiantes, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano forma parte.
+
+QUINTO.- El presente Reglamento, será difundido en todas las áreas y Planteles del Colegio de Bachilleres del Estado de Oaxaca, para conocimiento de la comunidad estudiantil, personal administrativo y docente.
+
+SEXTO.- Los casos no previstos en el presente Reglamento serán resueltos por la Dirección Académica.
