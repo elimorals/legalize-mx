@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-tribunal-de-lo-administrativo-del-14482
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-08"
-last_updated: "1999-06-08"
+last_updated: "2018-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO INTERNO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 8 de junio de 1999.
 
@@ -51,7 +53,7 @@ De conformidad a la distribución de competencias establecida en las normas cons
 
 ###### ARTÍCULO 4°.
 
-El Tribunal de lo Administrativo es el órgano especializado del Poder Judicial del Estado con plena jurisdicción para resolver las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los Municipios y de los organismos descentralizados de ambos con los particulares, además de las que surjan entre el Estado y los Municipios o de éstos entre sí, así como las cuestiones que de conformidad a los diversos dispositivos legales estatales corresponda su conocimiento a este órgano jurisdiccional. Asimismo, corresponde al Tribunal de lo Administrativo conocer de los conflictos laborales que se sucinten con sus propios trabajadores y de las faltas y procedimientos de responsabilidad administrativa de sus servidores públicos.
+El Tribunal de lo Administrativo es el órgano especializado del Poder Judicial del Estado con plena jurisdicción para resolver las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los Municipios y de los organismos descentralizados de ambos con los particulares, además de las que surjan entre el Estado y los Municipios o de éstos entre sí, así como las cuestiones que de conformidad a los diversos dispositivos legales estatales corresponda su conocimiento a este órgano jurisdiccional. Asimismo, corresponde al Tribunal de lo Administrativo conocer de los conflictos laborales que se susciten con sus propios trabajadores y de las faltas y procedimientos de responsabilidad administrativa de sus servidores públicos.
 
 ###### ARTÍCULO 5°.
 
@@ -1090,3 +1092,39 @@ Magistrado Eleuterio Valencia Carranza
 La Secretaria General de Acuerdos
 
 Lic. Claudia Reyes Villarreal
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA JUNTA DE ADMINISTRACIÓN DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA QUE EXPIDE EL REGLAMENTO INTERNO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente ordenamiento en el Periódico Oficial "El Estado de Jalisco" y en el Portal de Transparencia de este Tribunal.
+
+Se instruye al Secretario General de Acuerdos del Tribunal de Justicia Administrativa del Estado de Jalisco para que realice las gestiones necesarias para las publicaciones referidas.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior del Tribunal de lo Administrativo del Estado de Jalisco, publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 8 de junio de 1999.
+
+###### ARTÍCULO CUARTO.
+
+Cuando se disponga de los recursos presupuestales suficientes y las necesidades del servicio lo demanden, se reubicará o instalará nuevos órganos y oficinas administrativas, para lo cual asignará o hará las convocatorias para abrir a concurso las obras de rehabilitación, modificación o construcción de los inmuebles en donde se ubiquen.
+
+###### ARTÍCULO QUINTO.
+
+Las Salas Unitarias y las Ponencias de la Sala Superior deberán de actualizar y armonizar la información respectiva de la estadística y control de los expedientes bajo su resguardo conforme al sistema informático señalado en el presente reglamento y a la existencia real que tengan, a más tardar al15 de diciembre del 2018.
+
+###### ARTÍCULO SEXTO.
+
+En caso de controversia sobre la interpretación del presente Reglamento lo resolverá la Sala Superior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los titulares de los órganos auxiliares deberán de formular ante la Junta de Administración los proyectos de los manuales de procedimientos de sus áreas a más tardar 90 días naturales posteriores a la publicación del presente Reglamento.
