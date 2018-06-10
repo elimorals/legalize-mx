@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2017-07-20"
+last_updated: "2018-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2018.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -481,7 +481,9 @@ f) Aprobar y expedir la convocatoria para la designación de Delegados municipal
 
 g) Remover a los delegados municipales, en los términos que señala esta Ley;
 
-h) Aprobar anualmente, el informe del estado que guarda la Administración Pública Municipal, que será rendido por conducto del Presidente Municipal en sesión pública y solemne, mismo que deberá ser entregado previamente al Cabildo para su análisis discusión y aprobación en su caso, con veinte días naturales de anticipación a la fecha del informe;
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2018)</small>
+
+h) Revisar anualmente, el informe del estado que guarda la Administración Pública Municipal, que será rendido por conducto del Presidente Municipal en sesión pública y solemne, mismo que deberá ser entregado previamente al Cabildo para su análisis discusión y aprobación en su caso, con veinte días naturales de anticipación a la fecha del informe;
 
 i) Conceder licencia para separarse de sus cargos al Presidente Municipal, síndicos y regidores, por un término mayor de quince días naturales;
 
@@ -2480,3 +2482,15 @@ B.O. 20 DE JULIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo previsto en el artículo transitorio siguiente.
 
 SEGUNDO.- Las disposiciones del presente Decreto que se encuentren vinculadas con el régimen de responsabilidades administrativas conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y el Tribunal de Justicia Administrativa conforme a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, entrarán en vigor hasta que las citadas leyes cobren vigencia conforme a los regímenes transitorios de los decretos mediante los cuales se expidan.
+
+B.O. 10 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2536 SE REFORMA EL ARTÍCULO 51 FRACCIÓN I INCISO H) DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
