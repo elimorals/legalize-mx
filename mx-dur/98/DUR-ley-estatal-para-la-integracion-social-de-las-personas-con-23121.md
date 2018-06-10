@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-integracion-social-de-las-personas-con-2312
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-23"
-last_updated: "2017-03-19"
+last_updated: "2018-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ESTATAL PARA LA INTEGRACION SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 10 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2001.
 
@@ -467,7 +469,7 @@ De la Comisión Estatal Coordinadora para el Desarrollo y la Integración Social
 
 ###### Artículo 8.
 
-El Ejecutivo del Estado constituirá un Organismo lnterinstitucional de la administración estatal, denominado Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad en Durango y que formará parte del Organismo Nacional creado para tal efecto y que será conformado de la siguiente manera:
+El Ejecutivo del Estado constituirá un Organismo Interinstitucional de la administración estatal, denominado Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad en Durango y que formará parte del Organismo Nacional creado para tal efecto y que será conformado de la siguiente manera:
 
 I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
@@ -1554,3 +1556,17 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 10 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 387.- QUE CONTIENE LEY DE INCLUSIÓN PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley Estatal para la Integración Social de las Personas con Discapacidad, aprobada mediante decreto número 36 de la LXII Legislatura del Congreso del Estado de Durango, de fecha 5 de diciembre de 2001, y publicada en el Periódico Oficial del Gobierno del Estado de Durango número 51, de fecha 23 de diciembre de 2001.
+
+TERCERO.- La Comisión Estatal Coordinadora deberá expedir el reglamento de la presente Ley, dentro de los sesenta días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+CUARTO.- Los ayuntamientos contarán con un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente decreto, para adecuar su normatividad, políticas públicas, estrategias, acciones y objetivos, al contenido de la presente Ley.
+
+A la fecha de entrada en vigor del presente decreto hasta el mes de diciembre de 2018, las multas que se generen por infracciones a disposiciones viales en materia de discapacidad se aplicarán en base a los montos que establecen las leyes de ingresos de cada uno de los municipios del ejercicio fiscal 2018.
