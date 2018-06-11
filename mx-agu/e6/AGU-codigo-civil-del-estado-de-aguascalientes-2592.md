@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2018-05-07"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2493,17 +2493,21 @@ V.- Si el alimentario, sin consentimiento del que debe dar los alimentos, abando
 
 El derecho de recibir alimentos no puede ser objeto de transacción y es irrenunciable e intransmisible; pero sí pueden ser objeto de las operaciones indicadas, las pensiones caídas.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### Artículo 344.
 
-Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, será responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+Cuando uno de los cónyuges no estuviere presente, o estándolo rehusare entregar al otro cónyuge lo necesario para los alimentos de éste y/o de los hijos, será responsable de las deudas que el otro cónyuge contraiga para cubrir esa necesidad; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 345.
 
-La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al juez de Primera Instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que la abandonó. El juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+El cónyuge que, sin culpa suya, se vea obligado a vivir separado del otro, podrá pedir al juez de Primera Instancia del lugar de su residencia, que obligue al otro cónyuge a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que el cónyuge debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y que pague los gastos que haya tenido que aquel haya tenido (sic) que erogar con tal motivo.
 
 ###### Artículo 346.
 
-Lo dispuesto en los dos artículos anteriores es aplicable a la mujer, cuando tenga obligación de dar alimentos y el marido se halle en las condiciones apuntadas.
+(DEROGADO, P.O. 11 DE JUNIO DE 2018)
 
 ###### Artículo 347.
 
@@ -17238,6 +17242,14 @@ El Sistema Local de Protección, adecuará sus lineamientos con el presente Decr
 P.O. 7 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 290.- SE REFORMAN LOS ARTÍCULOS 288, 296, 323, 422, 1228, 2283, 2293 Y 2296; SE ADICIONA EL ARTÍCULO 2296 Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 153 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312.- SE REFORMAN LOS ARTÍCULOS 344 Y 345; Y SE DEROGA EL ARTÍCULO 346 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
