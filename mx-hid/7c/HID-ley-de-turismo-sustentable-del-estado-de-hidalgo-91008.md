@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2018-05-28"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -144,6 +144,10 @@ XV.- Recursos Turísticos: Todos los elementos naturales o artificiales de un lu
 XVI.- Reglamento: El de la Ley de Turismo Sustentable del Estado de Hidalgo;
 
 XVII.- Registro Estatal de Turismo: Catálogo público de prestadores de servicios turísticos en el Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XVII Bis.- Ruta Gastronómica: El circuito geográfico marcado en el mapa de la Entidad, basado en la gastronomía de sus regiones;
 
 XVIII.- Secretaría: La Secretaría de Turismo y Cultura del Estado de Hidalgo;
 
@@ -599,6 +603,14 @@ Corresponde a la Secretaría elaborar en coordinación con el Consejo Nacional p
 
 La Secretaría organizará con carácter anual, con la concurrencia de los sectores público, social y privado, de manera permanente, la Feria Gastronómica del Estado de Hidalgo, en la cual participen todas y cada una de las regiones de la entidad, con la finalidad de difundir y promover a nivel nacional e internacional, la cocina tradicional hidalguense, elemento fundamental de nuestra identidad cultural.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+###### Artículo 36 Quinquies.
+
+La Secretaría de manera conjunta con los Ayuntamientos y los sectores social, privado y académico interesados, diseñará las rutas gastronómicas en la Entidad, con la finalidad de ofrecer a los visitantes locales, nacionales e internacionales la experiencia culinaria a través de la diversidad de los platillos típicos de la cocina hidalguense.
+
+La Secretaría promoverá los recorridos turísticos por las rutas gastronómicas aprovechando los atractivos culturales, históricos y naturales con que cuenta el Estado de Hidalgo.
+
 ### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
@@ -1042,3 +1054,11 @@ P.O. 28 DE MAYO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 440 POR EL QUE SE ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 5 Y EL ARTÍCULO 36 QUINQUIES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
