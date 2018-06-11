@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-para-la-educacion-de-las-67843"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-03-30"
-last_updated: "2010-04-19"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA LA EDUCACION DE LAS PERSONAS JOVENES Y ADULTAS DE AGUASCALIENTES
 
-ESTATUTO DEL INSTITUTO PARA LA EDUCACION DE LAS PERSONAS JOVENES Y ADULTAS DE AGUASCALIENTES
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
+ESTATUTO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 30 de marzo de 2009.
 
@@ -1079,3 +1081,27 @@ TERCERO.- Realícese el trámite pertinente para la publicación en el Periódic
 CUATRO (SIC).- La presente modificación y adición aprobada al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 QUINTO.- Se ordena inscribir la presente reforma, en el Registro Público de la Propiedad en el Estado, en el libro correspondiente a las Entidades Paraestatales.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA EDUCACIÓN DE LAS PERSONAS JÓVENES Y ADULTAS DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda abrogado y sin efectos el Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, publicado en la Segunda Sección del Periódico Oficial del Estado, el día 30 de marzo de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Queda abrogada y sin efectos la reforma al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes, publicada en el Periódico Oficial del Estado, el día 19 de abril de 2010.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena inscribir las presentes reformas y adiciones al Estatuto Orgánico del Instituto para la Educación de las Personas Jóvenes y Adultas de Aguascalientes en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO QUINTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta de Gobierno deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de la fecha de su publicación.
