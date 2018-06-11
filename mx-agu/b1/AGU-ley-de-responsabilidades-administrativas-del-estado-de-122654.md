@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2017-08-01"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -564,6 +564,10 @@ Se considera información privilegiada la que obtenga el servidor público con m
 ###### Artículo 43.
 
 Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere el Artículo 39 de esta Ley o para causar perjuicio a alguna persona o al servicio público.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+También incurrirá en abuso de funciones, el servidor público que en ejercicio de atribuciones que deriven de la legislación en materia urbana, otorgue permisos, autorizaciones o licencias para realizar cualquier acción urbanística, en contravención a los programas que prevé dicha legislación o que contravenga las reservas, usos del suelo, destinos y/o el aprovechamiento urbano.
 
 ###### Artículo 44.
 
@@ -2099,7 +2103,7 @@ Recibida por el Congreso del Estado la notificación de la declaratoria de la C�
 
 T R A N S I T O R I O S
 
-(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO PRIMERO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 23 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 115/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO PRIMERO PRIMERO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2164,3 +2168,17 @@ Salvador Pérez Sánchez,
 DIPUTADO PROSECRETARIO EN FUNCIONES DE SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 31 de julio de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 315 ARTÍCULO PRIMERO.- SE REFORMA Y ADICIONA EL ARTÍCULO 155 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 43 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+La situación jurídica de las personas procesadas, sentenciadas y que estén compurgando una pena, así como los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán y resolverán con base en la norma vigente al momento en el que ocurrieron los hechos materia de ellos.
