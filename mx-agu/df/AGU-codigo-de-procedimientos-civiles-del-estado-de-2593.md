@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2017-08-21"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -2587,7 +2587,9 @@ Si la demanda no fue contestada o si las partes no promovieron pruebas ni el jue
 
 Concluido el término para el ofrecimiento de las pruebas, el juez dictará auto en el que determine las que se admitan y citará a las partes a una audiencia que se celebrará dentro de cinco días y en la que, observándose las prevenciones de los artículos 353 a 371 recibirá las admitidas, oirá alegatos y dictará resolución.
 
-## TITULO OCTAVO. SUSPENSION, INTERRUPCION Y SOBRESEIMIENTO DEL PROCESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2018)</small>
+
+## TÍTULO OCTAVO. SUSPENSION, INTERRUPCION, SOBRESEIMIENTO Y CADUCIDAD DEL PROCESO
 
 ### CAPITULO I. Suspensión
 
@@ -2645,11 +2647,25 @@ Transcurrido el término a que se refiere el Artículo anterior, el cual se cont
 
 La reconvención y la tercería, seguirán la suerte de la acción. No serán aplicables las disposiciones de este Capítulo a las Sucesiones, al divorcio por mutuo consentimiento, a los concursos, a los procedimientos que interesen a menores o incapacitados ni a los procedimientos en que tenga o pudiera tener intervención el Ministerio Público.
 
-### CAPITULO I. Revocación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO IV. Caducidad
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+ARTICULO 392 BIS.- La caducidad de la instancia operará de pleno derecho, sea porque se decrete de oficio o a petición de parte, cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta la citación para oír sentencia, en aquellos casos en que hayan transcurrido 120 días contados naturales a partir del día siguiente a aquel en que surtió efectos la notificación de la última resolución judicial dictada, y que no hubiere promoción de cualquiera de las partes, dando impulso al procedimiento para su trámite, solicitando la continuación para la conclusión del mismo.
+
+La figura de la caducidad de la instancia no operará en los juicios del orden familiar.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+ARTICULO 392 TER.- La declaración de la caducidad extingue la instancia, pero no la acción, convirtiendo en ineficaces las actuaciones del juicio y volviendo las cosas al estado que tenían antes de la presentación de la demanda y se levantarán los embargos, mandándose cancelar su inscripción en los Registros Públicos correspondientes. Las pruebas rendidas en el proceso que se haya declarado caduco podrán invocarse de oficio, o por las partes, en el nuevo proceso que se promueva.
+
+La resolución que declare o niegue la caducidad, es apelable.
 
 ## TITULO NOVENO. RECURSOS
 
-### CAPITULO II. Apelación
+### CAPITULO I. Revocación
 
 ###### ARTICULO 393.
 
@@ -2675,7 +2691,7 @@ Interpuesto el recurso el Juez o Tribunal lo resolverá después de escuchar a l
 
 Contra del auto que decida sobre la revocación no habrá recurso alguno.
 
-### CAPITULO III. Queja
+### CAPITULO II. Apelación
 
 ###### ARTICULO 398.
 
@@ -2709,7 +2725,7 @@ Llegados los autos al tribunal superior, dentro de los tres días siguientes dic
 
 Dentro de los tres días siguientes a la notificación de este auto, puede presentar la parte contraria alegatos por escrito.
 
-### CAPITULO I. Ejecución de Resoluciones Dictadas por los Tribunales del Estado
+### CAPITULO III. Queja
 
 ###### ARTICULO 404.
 
@@ -2749,7 +2765,7 @@ Si el Juez no rinde el informe a que se refiere este Capítulo, será apremiado 
 
 ## TITULO DECIMO. EJECUCION
 
-### CAPITULO II. De la Ejecución de las Sentencias y Demás Resoluciones Dictadas por los Tribunales de los Estados, del Distrito Federal y del Extranjero
+### CAPITULO I. Ejecución de Resoluciones Dictadas por los Tribunales del Estado
 
 ###### ARTICULO 408.
 
@@ -2881,7 +2897,7 @@ Los términos fijados en el artículo anterior se contarán desde la fecha de la
 
 Todo lo que en este capítulo se dispone respecto de la sentencia, comprende las transacciones y convenios judiciales.
 
-### CAPITULO III. De los Embargos
+### CAPITULO II. De la Ejecución de las Sentencias y Demás Resoluciones Dictadas por los Tribunales de los Estados, del Distrito Federal y del Extranjero
 
 ###### ARTICULO 432.
 
@@ -2953,7 +2969,7 @@ Ni el juez inferior ni el Supremo Tribunal podrán examinar ni decidir sobre la 
 
 Si se denegare el cumplimiento, se devolverá la ejecutoria a la parte que la hubiere presentado; si se accediere a cumplirla, se procederá a la ejecución conforme a las disposiciones de este Código.
 
-### CAPITULO IV. De los Remates
+### CAPITULO III. De los Embargos
 
 ###### ARTICULO 443.
 
@@ -3195,7 +3211,7 @@ La fijación del término a que este artículo se refiere, se hará con audienci
 
 Lo dispuesto en este Capítulo, es aplicable a todos los casos de secuestro judicial, salvo aquéllos en que disponga expresamente otra cosa este Código.
 
-### CAPITULO I. Tercerías
+### CAPITULO IV. De los Remates
 
 ###### ARTICULO 475.
 
@@ -3421,9 +3437,7 @@ VIII.- En todo lo demás se observarán, en lo conducente, las disposiciones de 
 
 ## TITULO DECIMO PRIMERO. PROCEDIMIENTOS ESPECIALES
 
-### CAPITULO II. Documentos Ejecutivos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+### CAPITULO I. Tercerías
 
 ###### ARTICULO 507.
 
@@ -3535,9 +3549,9 @@ La recusación interpuesta y admitida en una tercería, inhibe al juez recusado 
 
 La sentencia que decide una tercería es apelable.
 
-### CAPITULO III. Hipoteca
+### CAPITULO II. Documentos Ejecutivos
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 529.
 
@@ -3679,9 +3693,11 @@ Si no se supiere el paradero del deudor ni tuviere casa en el lugar, se hará el
 
 Verificado el requerimiento en cualquiera de los modos indicados, se procederá al embargo en la forma prevenida en este Código, a no ser que se hubiere ya practicado con el carácter de provisional, pues entonces quedará éste como definitivo.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 547.
 
-Practicado el embargo o la recuperación de la cosa o cuando el actor, por no haberse encontrado la cosa o bienes en qué trabar ejecución, se reserve el derecho de señalarlos, se emplazará al deudor para que conteste la demanda dentro de tres días y seguirá el juicio por los demás trámites señalados en este Código.
+Practicado el embargo o la recuperación de la cosa o cuando el actor, por no haberse encontrado la cosa o bienes en qué trabar ejecución, se reserve el derecho de señalarlos, se emplazará al deudor para que conteste la demanda dentro de cinco días y seguirá el juicio por los demás trámites señalados en este Código.
 
 ###### ARTICULO 548.
 
@@ -3689,7 +3705,9 @@ La sentencia debe declarar si ha procedido o no la vía ejecutiva y si procede o
 
 Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
 
-### CAPITULO IV. Desahucio
+### CAPITULO III. Hipoteca
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 549.
 
@@ -3717,9 +3735,11 @@ Si en el título con que se ejercita el procedimiento hipotecario se advierte qu
 
 Si comenzado el procedimiento se presentan alguno o algunos acreedores hipotecarios, se procederá como está previsto para las tercerías en este Código.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 554.
 
-La cédula hipotecaria contendrá una relación suscinta (sic) de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca... de la propiedad... a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca embargo alguno, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del procedimiento, viole los derechos en él adquiridos por el C..."
+La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca... de la propiedad... a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca embargo alguno, toma de posesión, salvo el caso previsto en el artículo 557, último párrafo del Código de Procedimientos Civiles en vigor, diligencia precautoria o cualquiera otra que entorpezca el curso del procedimiento, viole los derechos en él adquiridos por el C…"
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
 
@@ -3729,15 +3749,25 @@ La Cédula Hipotecaria se fijará en la puerta principal o en los tableros del j
 
 Si la finca no se ubica en el lugar del juicio, se librará exhorto o despacho al juez de la ubicación para que se haga la fijación en los estrados del juzgado y registro de la Cédula Hipotecaria.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 556.
 
-Desde el día en que se fije la cédula hipotecaria, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y todos los objetos que con arreglo a la escritura y conforme al Código Civil deben de considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida al acreedor.
+Desde el día en que se fije la cédula hipotecaria, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y todos los objetos que con arreglo a la escritura y conforme al Código Civil deben de considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida al acreedor. También se formará inventario en el caso previsto por el último párrafo del Artículo 557 de este Código.
 
 ###### ARTICULO 557.
 
 El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
 
 Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula, o de providencia dictada a petición de acreedor de mejor derecho.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+En el caso de abandono de la finca por parte del deudor durante la secuela procesal, el acreedor podrá solicitar al juez la tenencia material de la misma o entregarla en favor del mismo o del depositario que éste nombre, a fin de evitar su deterioro e ilegal ocupación; para lo cual solicitará se tenga por revocado el nombramiento de depositario judicial conferido al deudor hipotecario.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Se entenderá que la finca ha sido abandonada, cuando el acreedor así lo manifieste ante el juez, bajo protesta de decir verdad, y lo acredite acompañando a la solicitud imágenes fotográficas de las que se desprenda la situación de desocupación de la vivienda y precisando las coordenadas de la misma, así como la evidencia de la fecha cierta en que fueron tomadas las fotografías.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1995)</small>
 
@@ -3795,17 +3825,19 @@ Para los efectos del remate se aplicará lo dispuesto por el Capítulo IV del T�
 
 Lo anterior no limita a las partes para que a su costa y con el consentimiento del Juez puedan usar otros medios de publicidad para convocar postores, en la forma que juzguen conveniente.
 
-### CAPITULO V. De los Alimentos
+### CAPITULO IV. Desahucio
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 561.
 
-La demanda de desahucio debe fundarse en la falta de pago de tres o más mensualidades y se acompañará con el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquiera otra bastante como medio preparatorio del juicio.
+La demanda de desahucio debe fundarse en la falta de pago de una o más mensualidades y se acompañará con el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquiera otra bastante como medio preparatorio del juicio.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 562.
 
-Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia, justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo se le prevenga que dentro de noventa días proceda a desocuparla, apercibido del lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de nueve días ocurra a oponer las excepciones que tuviere.
+Presentada la demanda con el documento o la justificación correspondiente, el juez dictará auto mandando requerir al arrendatario para que en el acto de la diligencia, justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo se le prevenga que dentro de cuarenta y cinco días proceda a desocuparla, apercibido del lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de nueve días ocurra a oponer las excepciones que tuviere.
 
 ###### ARTICULO 563.
 
@@ -3823,25 +3855,29 @@ Los beneficios de los plazos que este Capítulo concede a los inquilinos, no son
 
 El juez debe desechar de plano las excepciones diversas a las que el Código Civil en los artículos 2302, 2305, y 2316 concede al inquilino para no pagar la renta y la audiencia de juicio de efectuarse antes del vencimiento del término fijado para el lanzamiento.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 567.
 
-Si las excepciones fueren declaradas procedentes, en la misma sentencia dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 572. Pero tratándose de fincas para habitación y el inquilino o alguno de sus familiares, por causa de enfermedad grave, estuvieren físicamente imposibilitados para desocupar en el término de noventa días, o aquél carezca de trabajo, accidental e involuntariamente, el juez podrá aumentar prudentemente dicho plazo hasta ciento veinte días. En estos dos casos, dentro del término concedido al inquilino para desocupar, deberá justificar las condiciones que se requieren para la prórroga del plazo.
+Si las excepciones fueren declaradas procedentes, en la misma sentencia dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 562. Pero tratándose de fincas para habitación y el inquilino o alguno de sus familiares, por causa de enfermedad grave, estuvieren físicamente imposibilitados para desocupar en el término de cuarenta y cinco días, o aquél carezca de trabajo, accidental e involuntariamente, el juez podrá aumentar prudentemente dicho plazo hasta noventa días naturales. En estos dos casos, dentro del término concedido al inquilino para desocupar, deberá justificar las condiciones que se requieren para la prórroga del plazo.
 
 ###### ARTICULO 568.
 
 La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquiera persona de su familia, doméstico, portero, vecino o agente de policía, pudiéndose romper las cerraduras de las puertas de la casa si fuere necesario. Los muebles y objetos que en ella se encuentren, si no hubiere persona de la familia del demandado que los recoja u otra persona autorizada para ello, se remitirán por inventario, a disposición del juzgado, a la oficina de la policía preventiva.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 569.
 
-Si el actor lo pide, al ejecutarse el lanzamiento se embargarán bienes bastantes para cubrir las pensiones y costas reclamadas. La designación de aquellos se hará conforme a la ley.
+Al ejecutarse el lanzamiento se embargarán bienes bastantes para cubrir las pensiones, los servicios que de acuerdo con el contrato deba pagar el arrendatario y costas reclamadas. La designación de aquellos se hará conforme a la ley.
 
 ###### ARTICULO 570.
 
 En las contiendas sobre desahucio, se entiende domicilio legal la finca o departamento de cuya desocupación se trate, salvo pacto en contrario.
 
-### CAPITULO VI. Del Daño Moral
+### CAPITULO V. De los Alimentos
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 571.
 
@@ -3917,7 +3953,9 @@ Si el embargo recae en bienes cuyo valor exceda el de la primera mensualidad, el
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2004)</small>
 
-### CAPITULO VII. Interdictos
+### CAPITULO VI. Del Daño Moral
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 577.
 
@@ -3953,7 +3991,7 @@ En contra de la sentencia que se dicte en el procedimiento previsto en este Cap�
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE FEBRERO DE 2004)</small>
 
-### CAPITULO VIII. De la Modificación de las Actas del Estado Civil
+### CAPITULO VII. Interdictos
 
 ###### ARTICULO 578.
 
@@ -4041,7 +4079,7 @@ Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispond
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE FEBRERO DE 2004)</small>
 
-### CAPITULO IX
+### CAPITULO VIII. De la Modificación de las Actas del Estado Civil
 
 ###### ARTICULO 598.
 
@@ -4071,13 +4109,7 @@ Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2015)</small>
 
-### CAPITULO X. De la Pérdida de la Patria Potestad
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-ARTICULO 614 A.- El procedimiento a que se refiere este Capítulo tiene por objeto determinar la pérdida de la patria potestad de los menores albergados en instituciones públicas y privadas de asistencia social, en los casos previstos por el Artículo 466, del Código Civil del Estado.
-
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+### CAPITULO IX
 
 ###### ARTICULO 604.
 
@@ -4125,7 +4157,13 @@ ARTICULO 614 A.- El procedimiento a que se refiere este Capítulo tiene por obje
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 2012)</small>
 
-### CAPITULO I. Reglas Generales
+### CAPITULO X. De la Pérdida de la Patria Potestad
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
+ARTICULO 614 A.- El procedimiento a que se refiere este Capítulo tiene por objeto determinar la pérdida de la patria potestad de los menores albergados en instituciones públicas y privadas de asistencia social, en los casos previstos por el Artículo 466, del Código Civil del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 614 - B.
 
@@ -4173,7 +4211,7 @@ En lo no previsto en el presente Capítulo, se aplicarán las reglas generales d
 
 ## TITULO DECIMO SEGUNDO. DE LOS CONCURSOS
 
-### CAPITULO II. Verificación y Graduación de Créditos
+### CAPITULO I. Reglas Generales
 
 ###### ARTICULO 615.
 
@@ -4235,7 +4273,7 @@ Mientras los acreedores ausentes se presentan, serán representados por el Minis
 
 El concursado en el caso de concurso forzoso, deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo con nombres y domicilios de acreedores y deudores, privilegiados y avalistas; si no lo presentare lo hará el Síndico.
 
-### CAPITULO III. De la Administración del Concurso
+### CAPITULO II. Verificación y Graduación de Créditos
 
 ###### ARTICULO 623.
 
@@ -4349,7 +4387,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, Tercera Parte, del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo, quien litigará en representación de los demás acreedores, sin perjuicio de que también se observe lo dispuesto en los artículos precedentes.
 
-### CAPITULO IV. Reglas del Deudor Común
+### CAPITULO III. De la Administración del Concurso
 
 ###### ARTICULO 644.
 
@@ -4413,7 +4451,7 @@ Cuando el cargo de síndico fuere desempeñado sucesivamente por distintas perso
 
 En el caso de revocación del concurso, el síndico sólo percibirá honorarios de procurador en proporción a los trabajos realizados.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Reglas del Deudor Común
 
 ###### ARTICULO 654.
 
@@ -4429,7 +4467,7 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 ## TITULO DECIMO TERCERO. DE LAS SUCESIONES
 
-### CAPITULO II. Testamentarias
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 656.
 
@@ -4549,7 +4587,7 @@ El acuerdo de separación deberá denunciarse al juez, quien dará por terminado
 
 ###### ARTICULO 675.
 
-En todo juicio sucesorio se tramitará una audiencia de sucesión y otra de inventarios que culminarán respectivamente; la primera con sentencia interlocutoria que contenga las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar y preferencia de derechos; la segunda, con la resolución sobre el inventario y avalúo, en su caso, la aprobación del convenio a que los herederos y legatarios lleguen• sobre la repartición de los bienes; o en su defecto, la declaración de adjudicación a los herederos en copropiedad de los bienes hereditarios. En la ejecución de la sentencia de adjudicación de los bienes en copropiedad, se tramitará un procedimiento respecto a la administración y otro respecto a la partición. Y si existiere acuerdo sobre la repartición de los bienes, el procedimiento respecto a la administración.
+En todo juicio sucesorio se tramitará una audiencia de sucesión y otra de inventarios que culminarán respectivamente; la primera con sentencia interlocutoria que contenga las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar y preferencia de derechos; la segunda, con la resolución sobre el inventario y avalúo, en su caso, la aprobación del convenio a que los herederos y legatarios lleguen sobre la repartición de los bienes; o en su defecto, la declaración de adjudicación a los herederos en copropiedad de los bienes hereditarios. En la ejecución de la sentencia de adjudicación de los bienes en copropiedad, se tramitará un procedimiento respecto a la administración y otro respecto a la partición. Y si existiere acuerdo sobre la repartición de los bienes, el procedimiento respecto a la administración.
 
 Las audiencias referidas en el párrafo anterior, deberán celebrarse en un término no mayor a un año.
 
@@ -4627,7 +4665,7 @@ V.- Las resoluciones sobre los proyectos mencionados; y
 
 VI.- Lo relativo a la aplicación de los bienes.
 
-### CAPITULO III. Intestados
+### CAPITULO II. Testamentarias
 
 ###### ARTICULO 680.
 
@@ -4659,9 +4697,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevenida por el artículo 680 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1609 del Código Civil y se nombrará precisamente en los casos previstos por el 1612 del mismo Código.
 
-### CAPITULO IV. Inventario y Avalúo
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+### CAPITULO III. Intestados
 
 ###### ARTICULO 686.
 
@@ -4713,7 +4749,9 @@ Al albacea se le entregarán los bienes sucesorios así como los libros y papele
 
 Si nadie se presenta reclamando la herencia o si no fuere reconocido el derecho de los presentados, se declarará heredera a la Beneficencia Pública.
 
-### CAPITULO V. De la Administración
+### CAPITULO IV. Inventario y Avalúo
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 696.
 
@@ -4883,9 +4921,7 @@ Aprobados el inventario y el avalúo por el juez, no podrán reformarse sino por
 
 Los gastos de inventario y avalúo serán a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VI. De la Rendición de Cuentas
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+### CAPITULO V. De la Administración
 
 ###### ARTICULO 720.
 
@@ -4955,7 +4991,7 @@ El dinero y alhajas se depositarán en la Secretaría de Finanzas, pero el juez 
 
 Aprobados el inventario y el avalúo de los bienes y resueltas las cuestiones a que uno y otro hubieren dado lugar se procederá a la liquidación del caudal.
 
-### CAPITULO VII. De la Liquidación y Partición de la Herencia
+### CAPITULO VI. De la Rendición de Cuentas
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -5007,7 +5043,9 @@ El auto que apruebe o repruebe las cuentas, será apelable.
 
 Las operaciones comprendidas en este capítulo y el precedente, se tramitarán por cuerda separada y no impedirán que se proceda a la liquidación y partición de la herencia ni a la entrega de las porciones hereditarias ni el otorgamiento de los títulos de propiedad, pero no se cancelará la garantía otorgada por el albacea y en el caso del artículo 1590 del Código Civil, se retendrá la porción hereditaria que le corresponda, hasta que hayan sido aprobadas estas operaciones y resueltos los incidentes a que hubieran dado lugar. Esto mismo se observará respecto de los interventores. Si el resultado de estas operaciones arroja un saldo a favor de la sucesión, se procederá en los términos del artículo 1672 del Código Civil. Si resultare saldo en contra de la sucesión, y ya hubiere sido entregada a los herederos su porción hereditaria, éstos responderán personalmente de su pago en proporción a la porción recibida, y hasta donde ésta alcance.
 
-### CAPITULO VIII. De la Tramitación por Notarios
+### CAPITULO VII. De la Liquidación y Partición de la Herencia
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTICULO 744.
 
@@ -5199,7 +5237,7 @@ La adjudicación de bienes hereditarios se otorgará con las formalidades que la
 
 En contra de la resolución que apruebe o repruebe la partición, procede el recurso de apelación.
 
-### CAPITULO IX. Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VIII. De la Tramitación por Notarios
 
 ###### ARTICULO 774.
 
@@ -5227,7 +5265,7 @@ El Notario ante quien se inicie extrajudicialmente una testamentaria tendrá la 
 
 Practicado el inventario y formado el proyecto de partición por el albacea con aprobación de los herederos, los exhibirá al Notario, quien los hará constar en actas separadas o bien en la escritura de adjudicación correspondiente en términos del artículo 767, de éste Código.
 
-### CAPITULO X. Del Testamento Público Cerrado
+### CAPITULO IX. Transmisión Hereditaria del Patrimonio Familiar
 
 ###### ARTICULO 777.
 
@@ -5245,7 +5283,7 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- La transmisión de los bienes del patrimonio familiar, está exenta de contribuciones, cualquiera que sea su naturaleza.
 
-### CAPITULO XI. Declaración de ser Formal el Testamento Privado
+### CAPITULO X. Del Testamento Público Cerrado
 
 ###### ARTICULO 778.
 
@@ -5263,7 +5301,7 @@ La protocolización de todo testamento cerrado, se hará en la notaría que desi
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto de cada uno de ellos, como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar, en los casos previstos en los artículos 1406 y 1408 del Código Civil.
 
-### CAPITULO XII. Testamento Militar
+### CAPITULO XI. Declaración de ser Formal el Testamento Privado
 
 ###### ARTICULO 781.
 
@@ -5295,7 +5333,7 @@ De la resolución que niegue la declaración solicitada, pueden apelar el promov
 
 La protocolización del testamento privado se hará en los términos del artículo 779 de este Código.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XII. Testamento Militar
 
 ###### ARTICULO 786.
 
@@ -5309,7 +5347,7 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 ## TITULO DECIMO CUARTO. JURISDICCION VOLUNTARIA
 
-### CAPITULO II. De la Declaración de Estado
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 788.
 
@@ -5357,7 +5395,7 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
-### CAPITULO III. Nombramientos de Tutores y Curadores y Discernimiento de Estos Cargos
+### CAPITULO II. De la Declaración de Estado
 
 ###### ARTICULO 797.
 
@@ -5375,9 +5413,13 @@ IV.- Por el ejecutor testamentario; y
 
 V.- Por el Ministerio Público y la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes.
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 798.
 
-Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario, se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor, si fuere posible, y el Ministerio Público; en ella, por las certificaciones del Registro Civil si hasta ese momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos o peritos se hará o denegará la declaración correspondiente. Esta resolución es apelable.
+Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario, se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor, si fuere posible, y el Ministerio Público; en ella, por las certificaciones del Registro Civil si hasta ese momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos o peritos se hará o denegará la declaración correspondiente. En contra de esta resolución no procederá recurso alguno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
@@ -5421,9 +5463,13 @@ III.- Proveerá legalmente a la patria potestad o tutela de las personas que tuv
 
 Contra el auto en que se dicten estas providencias procederá el recurso de queja.
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 802.
 
-Dictadas las providencias que establece el artículo anterior y previo nuevo reconocimiento del presunto incapacitado, que deberá practicarse como se dispone en el artículo 800 dentro de un término que en ningún caso se excederá de cuarenta días, el juez citará a junta, en la cual si estuvieren conformes el tutor y el Ministerio Público, dictará su resolución declarando o no el estado de interdicción, según el sentido en que hayan emitido su dictamen la mayoría de los peritos. Si hubiere oposición, se substanciará el respectivo juicio entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere y durante la tramitación subsistirán las medidas decretadas conforme al artículo 801. La sentencia que se dicte en ese juicio, será apelable.
+Dictadas las providencias que establece el artículo anterior y previo nuevo reconocimiento del presunto incapacitado, que deberá practicarse como se dispone en el artículo 800 dentro de un término que en ningún caso se excederá de cuarenta días, el juez citará a junta, en la cual si estuvieren conformes el tutor y el Ministerio Público, dictará su resolución declarando o no el estado de interdicción, según el sentido en que hayan emitido su dictamen la mayoría de los peritos. Si hubiere oposición, se substanciará el respectivo juicio entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere y durante la tramitación subsistirán las medidas decretadas conforme al artículo 801. En contra de esta resolución no procederá recurso alguno.
 
 ###### ARTICULO 803.
 
@@ -5455,7 +5501,7 @@ La declaración de estado de los sordomudos se hará mediante el dictamen unáni
 
 De las sentencias que declaren la interdicción y las que le pongan término, se realizará una publicación de un extracto en el Periódico Oficial y en un diario de circulación estatal.
 
-### CAPITULO IV. Vigilancia y Cuentas de la Tutela
+### CAPITULO III. Nombramientos de Tutores y Curadores y Discernimiento de Estos Cargos
 
 ###### ARTICULO 807.
 
@@ -5489,9 +5535,13 @@ El menor podrá oponerse al nombramiento de tutor hecho por la persona que no si
 
 Siempre que el tutor nombrado no reúna los requisitos que la ley exige para ser tutor o curador, el juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos en el Código Civil.
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 815.
 
-Si sobre el nombramiento de un tutor se empeñare cuestión, se substanciará ésta en la vía incidental y en el pleito que se siga representará al menor, un tutor interino que el juez nombrará para este sólo efecto. La sentencia que se dicte en el incidente será apelable.
+Si sobre el nombramiento de un tutor se empeñare cuestión, se substanciará ésta en la vía incidental y en el pleito que se siga representará al menor, un tutor interino que el juez nombrará para este sólo efecto. En contra de esta resolución no procederá recurso alguno.
 
 ###### ARTICULO 816.
 
@@ -5563,7 +5613,7 @@ Contra las resoluciones que se dicten, conforme a los dos artículos anteriores,
 
 Una vez acreditado el nombramiento de curador, hecho por la persona facultada para ello por la ley u otorgado por el juez en los casos en que deba hacerlo, se hará saber la designación al nombrado y se procederá a discernirle el cargo, observándose en lo conducente las disposiciones de los artículos anteriores.
 
-### CAPITULO V. Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos
+### CAPITULO IV. Vigilancia y Cuentas de la Tutela
 
 ###### ARTICULO 832.
 
@@ -5633,17 +5683,19 @@ Si hacen observaciones relativas al fondo de la cuenta o se objetan de falsas o 
 
 El Ministerio Público y el curador podrán apelar de la resolución que apruebe las cuentas, si las hubieren impugnado; los mismos y el tutor podrán apelar de la que las desapruebe.
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 843.
 
-Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fraude del tutor, el juez dará vista al Ministerio Público para que promueva desde luego, la separación del tutor, que se seguirá en vía incidental; el curador también podrá promover la separación; desde las primeras diligencias puede el juez, si lo estima necesario, nombrar un tutor interino sin perjuicio de proceder a la instrucción de la respectiva causa. La resolución que decida el incidente es apelable.
+Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fraude del tutor, el juez dará vista al Ministerio Público para que promueva desde luego, la separación del tutor, que se seguirá en vía incidental; el curador también podrá promover la separación; desde las primeras diligencias puede el juez, si lo estima necesario, nombrar un tutor interino sin perjuicio de proceder a la instrucción de la respectiva causa. En contra de esta resolución no procederá recurso alguno.
 
 ###### ARTICULO 844.
 
 En todos los casos en que el tutor necesite para algún acto de la licencia del juez o de su aprobación, se requerirá la previa audiencia del curador, con el cual, en caso de oposición se substanciará el incidente relativo. En este incidente se decidirá solamente la diferencia entre el tutor y el curador y no se admitirá recurso alguno.
 
-### CAPITULO VI. Adopción
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2017)</small>
+### CAPITULO V. Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos
 
 ###### ARTICULO 845.
 
@@ -5657,13 +5709,17 @@ III.- Alhajas y muebles preciosos; y
 
 IV.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de un año de salario mínimo general vigente en el Estado.
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
 ###### ARTICULO 846.
 
 Para decretar la venta de bienes se necesita que al pedirse se exprese el motivo de la enajenación y el objeto a que deba aplicarse la suma que se obtenga y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
 
 Si fuere el tutor quien solicita la venta deberá proponer, al hacer la promoción, las bases del remate, en cuanto a la cantidad que deba darse de contado, el plazo, intereses y garantías del remanente.
 
-La solicitud del tutor se substanciará en forma de incidente con el curador y el Ministerio Público. La sentencia que se dicte será apelable.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+La solicitud del tutor se substanciará en forma de incidente con el curador y el Ministerio Público. En contra de esta resolución no procederá recurso alguno.
 
 El perito que se designe para hacer el avalúo, será nombrado por el juez.
 
@@ -5697,19 +5753,25 @@ El juez señalará un término prudente al tutor para que justifique la inversi�
 
 Si el tutor no estuviere relevado de dar garantía y faltare éste o no fuere suficiente la que hubiere dado, el precio se depositará conforme al artículo 465 de éste Código.
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
 ###### ARTICULO 852.
 
 Para la venta de los bienes inmuebles o de los muebles preciosos, requerirán, los que ejerzan la patria potestad, autorización judicial en los mismos términos señalados en el artículo 846. El incidente se substanciará con el Ministerio Público y un tutor especial que para el efecto nombrará el juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
 
 También requerirán los padres, la autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo las disposiciones del párrafo anterior para obtenerla.
 
-La resolución que conceda o niegue la autorización solicitada, es apelable.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
+Contra la resolución que conceda o niegue la autorización solicitada, no procederá recurso alguno.
+
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 853.
 
-Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la autorización judicial, que sólo podrá concederse con audiencia del curador. La resolución que conceda o niegue la autorización es apelable.
+Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la autorización judicial, que sólo podrá concederse con audiencia del curador. Contra la resolución que conceda o niegue la autorización, no procederá recurso alguno.
 
 ###### ARTICULO 854.
 
@@ -5727,7 +5789,9 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 La venta de los bienes indivisos pertenecientes a mayores o menores de edad, se hará con sujeción a este capítulo, teniendo en cuenta lo que se dispone en el artículo 587 del Código Civil.
 
-### CAPITULO VII. Excusa y Pérdida de la Patria Potestad
+### CAPITULO VI. Adopción
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 858.
 
@@ -5767,7 +5831,7 @@ Recibida la solicitud y tras cerciorarse que cumple con las disposiciones del ar
 
 En la audiencia de juicio que se desahogarán las pruebas, y se resolverá de plano en caso de que hubiere habido oposición a la adopción. Concluido el desahogo de pruebas, el juez recibirá alegatos de manera oral o por escrito dentro de la misma audiencia, debiendo dictar su sentencia a más tardar en los tres días siguientes.
 
-### CAPITULO VIII. Depósito de Personas
+### CAPITULO VII. Excusa y Pérdida de la Patria Potestad
 
 ###### ARTICULO 863.
 
@@ -5791,7 +5855,7 @@ El juez admitirá la excusa si la encuentra debidamente fundada y mandará reque
 
 El ascendiente que renuncie o que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor de edad.
 
-### CAPITULO IX. Informaciones Ad Perpetuam y Procedimiento para la Rectificación de Superficie, Medidas y Colindancias de Bienes Inmuebles
+### CAPITULO VIII. Depósito de Personas
 
 ###### ARTICULO 868.
 
@@ -5869,7 +5933,7 @@ En las diligencias de que trata este Capítulo, se oirá precisamente al Ministe
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO X. Apeo y Deslinde
+### CAPITULO IX. Informaciones Ad Perpetuam y Procedimiento para la Rectificación de Superficie, Medidas y Colindancias de Bienes Inmuebles
 
 ###### ARTICULO 879.
 
@@ -5913,9 +5977,13 @@ El Ministerio Público y las personas con cuya citación se reciba la informaci�
 
 Recibida la información, el juez declarará si se han o no acreditado los hechos que la motivaron. Si los declara acreditados, en el caso del artículo 2896 del Código Civil, declarará además que el poseedor se ha convertido en propietario en virtud de la prescripción y mandará protocolizar las diligencias en la Notaría que designe el promovente, así como expedir testimonio para su registro; en el caso del artículo 2897 del mismo Código, que se inscriba la resolución para los efectos del Capítulo V, del Título Segundo, de la Tercera Parte, del Libro Cuarto del Código Civil; y, en los demás casos, que se entreguen originales las actuaciones al promovente.
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 884.
 
-Si hubiere oposición y se fundare en título debidamente registrado con anterioridad, sin más trámite el juez declarará sin lugar la información. Esta resolución y la que declare acreditados o no los hechos serán apelables.
+Si hubiere oposición y se fundare en título debidamente registrado con anterioridad, sin más trámite el juez declarará sin lugar la información. Contra esta resolución y la que declare acreditados o no los hechos, no procederá recurso alguno.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
@@ -5931,7 +5999,7 @@ Si no hubiere oposición, y se probare la posesión del predio y de la excedenci
 
 La resolución mencionada bastará para que el Instituto Catastral acepte la manifestación de predio y proceda en consecuencia e igualmente para que en el Registro Público de la Propiedad en el Estado se anote en el folio real correspondiente la rectificación que se haya determinado.
 
-### CAPITULO XI. Otros Actos de Jurisdicción Voluntaria
+### CAPITULO X. Apeo y Deslinde
 
 ###### ARTICULO 885.
 
@@ -5991,9 +6059,15 @@ Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados n
 
 Los gastos del apeo se harán a prorrata por el que lo promueva y los propietarios colindantes; pero el juez podrá a su arbitrio eximir de la obligación de contribuir a los gastos, a los colindantes que sean notoriamente pobres, o no presenten oposición.
 
+### CAPITULO XI. Otros Actos de Jurisdicción Voluntaria
+
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 58/2018, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 891.
 
-Se tramitarán como está prevenido para los incidentes, oyendo precisamente a los interesados con derecho a oponerse y al Ministerio Público, las autorizaciones o dispensas a que se refieren los artículos 145, 148, 153 último párrafo, 156, 159, 167, 169, 170, 171, 184, 216, 217 y 231 del Código Civil. La resolución final que se dicte en estos casos será apelable.
+Se tramitarán como está prevenido para los incidentes, oyendo precisamente a los interesados con derecho a oponerse y al Ministerio Público, las autorizaciones o dispensas a que se refieren los artículos 145, 148, 153 último párrafo, 156, 159, 167, 169, 170, 171, 184, 216, 217 y 231 del Código Civil. Contra la resolución final que se dicte en estos casos, no procederá recurso alguno.
 
 ## TRANSITORIOS
 
@@ -6422,3 +6496,11 @@ P.O. 21 DE AGOSTO DE 2017.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 313.- SE REFORMA LA DENOMINACIÓN DEL TÍTULO OCTAVO "SUSPENSIÓN, INTERRUPCIÓN Y SOBRESEIMIENTO DEL PROCESO" Y DE SU CAPÍTULO III "SOBRESEIMIENTO", PARA PASAR A SER RESPECTIVAMENTE TÍTULO OCTAVO “SUSPENSIÓN, INTERRUPCIÓN, SOBRESEIMIENTO Y CADUCIDAD DEL PROCESO”; LOS ARTÍCULOS 547, 554, 556, 561, 562, 567, 569, 796, 802, 815 843, 846, 852, 853, 884 Y 891. ASÍ COMO SE ADICIONA UN CAPÍTULO IV "CADUCIDAD" AL AHORA TÍTULO OCTAVO “SUSPENSIÓN, INTERRUPCIÓN, SOBRESEIMIENTO Y CADUCIDAD DEL PROCESO” QUE SE INTEGRA CON LOS ARTÍCULOS 392 BIS Y 392 TER QUE TAMBIÉN SE ADICIONAN; Y UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 557 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo relativo a las Reformas a los Artículos 561, 562, 567 y 569, las cuales entrarán en vigor a partir del 01 de enero del año 2019.
