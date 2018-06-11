@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2016-09-15"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-02-14"
 ---
 # LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 11 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -41,8 +43,6 @@ DECRETO
 LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
@@ -2901,3 +2901,35 @@ TERCERO.- Los actos jurídicos en materia notarial iniciados con anterioridad a 
 CUARTO.- La Asamblea Legislativa del Distrito Federal tomará las providencias presupuestales necesarias para que se cumpla con lo dispuesto en este Decreto.
 
 QUINTO.- Túrnese a la Consejería Jurídica y de Servicios Legales del Distrito Federal para que en un plazo no mayor a 30 días naturales se acople y adopte la reglamentación necesaria para el buen desarrollo del Programa Jornada Notarial.
+
+G.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA LA LEY DE NOTARIADO DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL NOTARIADO PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. Esta ley entrará en vigor al día siguiente de la entrada en vigor de la Constitución Política de la Ciudad de México.
+
+TERCERO. Se abroga la Ley del Notariado para el Distrito Federal publicada en la Gaceta Oficial de la Ciudad de México, el 28 de marzo del 2000, sus específicas reformas y se derogan las disposiciones contrarias a esta ley.
+
+Con relación a los testamentos ológrafos actualmente en resguardo del Archivo, subsistirán en sus términos y en custodia del mismo Archivo y su retiro o remisión a la autoridad competente se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento. TERCERO. Se abroga la Ley del Notariado para el Distrito Federal publicada en la Gaceta Oficial de la Ciudad de México, el 28 de marzo del 2000, sus específicas reformas y se derogan las disposiciones contrarias a esta ley. (SIC)
+
+Con relación a los testamentos ológrafos actualmente en resguardo del Archivo, subsistirán en sus términos y en custodia del mismo Archivo y su retiro o remisión a la autoridad competente se substanciarán de conformidad con las disposiciones vigentes al momento de su otorgamiento. (SIC)
+
+CUARTO. Los Notarios de la Ciudad de México podrán seguir utilizando los sellos que actualmente utilizan para el desempeño de su función sin necesidad de cambiarlos con motivo de la presente Ley, en el entendido de que cuando se actualice cualesquiera de los supuestos por los cuales deba generarse un nuevo sello, éste deberá mencionar las palabras “CIUDAD DE MÉXICO” en sustitución de “DISTRITO FEDERAL”, en adición a los demás requisitos aplicables al efecto.
+
+QUINTO. Las patentes que en su momento fueron expedidas en favor de los actuales Notarios de la Ciudad de México mantendrán su vigencia y efectos y tendrán el carácter de permanentes y vitalicias, sin necesidad de reexpedirlas.
+
+SEXTO. El Consejo Directivo del Colegio deberá convocar en el término de un año, a partir de la publicación del presente Decreto, a una Asamblea General Extraordinaria de asociados cuyo orden del día deberá contener el cambio de denominación del referido Colegio por la de Colegio de Notarios de la Ciudad de México, Asociación Civil la cual podrá utilizar desde el momento en que la misma sea adoptada.
+
+SÉPTIMO. Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que se abroga; serán válidos y seguirán su tramitación conforme a las disposiciones anteriores que les sean aplicables hasta su conclusión.
+
+OCTAVO. En tanto el Colegio no expida a los Notarios su respectivo Certificado de Firma Electrónica Notarial, para todos los fines previstos en esta ley, podrán hacer uso de su correspondiente certificado de firma electrónica que les haya expedido el Servicio de Administración Tributaria o la Secretaría de Economía.
+
+NOVENO. Lo dispuesto en los artículos 76 antepenúltimo, penúltimo y último párrafos, 88 último párrafo, 89 último párrafo, 97 último párrafo, 98, 99 y 100 de esta Ley entrarán en vigor a más tardar el día 31 de diciembre del año 2019, a efecto de que el “Colegio” pueda desarrollar e implementar la operación del “Sistema Informático” y de sus componentes tecnológicos para el adecuado manejo del “Archivo Electrónico”, “Índice Electrónico” y “Apéndice Electrónico de Cotejos”.
+
+DÉCIMO. La Autoridad Competente, mediante disposiciones de la presente Ley y en términos del artículo 76 de la misma, podrá determinar la destrucción de los apéndices del libro de registro de cotejos en soporte papel con una antigüedad mayor a diez años, salvo aquellos que contengan cotejos de instrumentos emitidos por Organismos Públicos de Vivienda, hayan sido solicitados por Autoridades Federales o Locales, o hayan sido requeridos al Archivo por mandamiento de autoridad Judicial o Administrativa competente.
+
+DÉCIMO PRIMERO. El reglamento de la presente Ley deberá expedirse en un plazo de 60 días hábiles, contados a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, y el cual entrará en vigor, una vez que entre en vigor la presente Ley.
+
+DÉCIMO SEGUNDO. Túrnese a la Consejería Jurídica y de Servicios Legales de la Ciudad de México para que, antes de la entrada en vigor de la presente ley, se acople y adopte la normatividad necesaria para la correcta aplicación de esta ley.
