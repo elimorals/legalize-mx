@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-civil-para-el-estado-de-sonora-46456"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-03"
-last_updated: "2017-08-03"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 3 de octubre de 2005.
 
@@ -1326,3 +1326,95 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección Civil para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado número 27, sección II, de fecha 03 de octubre de 2005 y sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Protección Civil deberá instalarse dentro de los noventa días siguientes de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+La Junta Directiva se instalará e iniciará sus funciones dentro de los treinta días posteriores a la publicación de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Coordinador Estatal y la Junta Directiva tendrán un plazo que no excederá de noventa días hábiles contados a partir de la fecha en que se hubiere integrado esta última, para elaborar y aprobar, respectivamente, el Reglamento Interior de la Coordinación Estatal de Protección Civil.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite en las unidades administrativas de la Unidad Estatal de Protección Civil continuarán tramitándose por dichas unidades hasta que inicie la vigencia del Reglamento interior de la Coordinación Estatal de Protección Civil. Una vez que el citado Reglamento entre en vigor, estos asuntos serán tramitados hasta su conclusión por las unidades administrativas de la Coordinación Estatal de Protección Civil que competan, de acuerdo con las atribuciones que se les otorguen en el Reglamento Interior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los trámites y servicios que se encuentren en revisión o pendientes de resolución ante la Unidad Estatal de Protección Civil le serán aplicables las disposiciones de la Ley de Protección Civil para el Estado de Sonora abrogada y el correspondiente Reglamento.
+
+###### ARTÍCULO OCTAVO.
+
+El Coordinador Estatal de la Coordinación Estatal de Protección Civil deberá solicitar a la Secretaría de Hacienda, dentro de los treinta días siguientes a la fecha de constitución de este organismo, la inscripción del mismo en el Registro de la Administración Pública Paraestatal.
+
+###### ARTÍCULO NOVENO.
+
+El Titular del Poder Ejecutivo del Estado, en un plazo de ciento veinte días naturales, contados a partir de la entrada en vigor de la presente Ley, deberá de emitir las reglas que refiere el artículo 60 del presente ordenamiento, y de ser el caso realizar la propuesta de modificación presupuestal pertinente, las reglas a que se refieren el presente artículo serán elaboradas por la Secretaría de Gobierno y sometidas a consideración del Titular del Poder Ejecutivo para su emisión.
+
+###### ARTÍCULO DÉCIMO.
+
+El Titular del Poder Ejecutivo del Estado, en un plazo de sesenta días naturales, contados a partir de la entrada en vigor de la presente Ley, deberá de emitir las reglas que refiere el artículo 59 del presente ordenamiento, y de ser el caso realizar la propuesta de modificación presupuestal pertinente, las reglas a que se refieren el presente artículo serán elaboradas por la Secretaría de Gobierno y sometidas a consideración del Titular del Poder Ejecutivo para su emisión.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La Coordinación Estatal de Protección Civil, en un término de noventa días naturales, deberá celebrar los convenios necesarios para dar cumplimiento a lo establecido en el artículo 75 de la Ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las personas físicas y morales que a partir de la entrada en vigor de la presente Ley, prestan los servicios en materia de protección civil y se encuentren registradas ante la Unidad Estatal de Protección Civil del Estado de Sonora, (hoy Coordinación Estatal de Protección Civil), su registro permanecerá vigente hasta el treinta y uno de diciembre de dos mil dieciocho.
+
+Las personas físicas y morales referidas en el párrafo anterior, deberán de registrarse ante la Coordinación Estatal a más tardar el primero de enero de dos mil diecinueve, en los términos establecidos en el título séptimo de la presente Ley y su Reglamento.
+
+Las personas físicas o morales con capacidad de prestar los servicios en materia de protección civil señalados en los numerales del 1 al 14 de la fracción XVIII del artículo 24 de la Ley, que pretendan registrarse ante la Coordinación Estatal, a partir de la entrada en vigor de la presente Ley, se sujetaran a los requisitos y condiciones establecidos en la misma y su reglamento para tal efecto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los propietarios, poseedores, administradores o encargados de inmuebles o edificaciones que por su uso y destino concentren o reciban una afluencia masiva de personas, a que se refiere el primer párrafo artículo 65, deberán de cumplir con la presente ley a partir de la entrada en vigor de la misma, toda vez, que no se establecieron nuevas condiciones a cumplir en la presente Ley.
+
+Las dependencias y entidades de la administración pública estatal, conforme a lo dispuesto en los artículos 42, 65, segundo párrafo de la Ley, contarán con un plazo de ciento ochenta días naturales para presentar los correspondientes Programas Internos de Protección Civil, conformar las Unidades Internas de Protección Civil, así como designar al Titular de la referida Unidad Interna y al servidor público que se designe como Enlace en materia de Protección Civil.
+
+Las personas obligadas conforme a la Ley, a elaborar y presentar ante la Coordinación Estatal un Programa Especial de Protección Civil, le serán aplicables las disposiciones de la presente Ley a partir de la entrada en vigor de la misma.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Los recursos financieros, humanos, materiales, administrativos y tecnológicos que actualmente integran la totalidad de los recursos de la Unidad Estatal de Protección Civil, a partir de la entrada en vigor de la presente Ley, serán asignados como recursos para la Coordinación Estatal de Protección Civil.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+La Coordinación Estatal de Protección Civil, contara con un plazo de ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley para expedir la certificación de aptitud correspondiente al servidor público para desempeñar la función de Titular de la Unidad Interna de Protección Civil de las dependencias y entidades de la administración pública del Estado.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Titular del Poder Ejecutivo del Estado, contará con un plazo de ciento veinte días naturales contado a partir de la entrada en vigor de la presente Ley para expedir el Reglamento del presente ordenamiento jurídico: en el entendido, que hasta en tanto no se expida el referido Reglamento, seguirá aplicándose en lo conducente el actual Reglamento de la Ley de Protección Civil.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Los ayuntamientos del Estado, contarán con un plazo de ciento veinte días naturales contado a partir de la entrada en vigor de la presente Ley para emitir las disposiciones reglamentarias correspondientes e instalar los Consejos Municipales de Protección Civil.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+La Coordinación Estatal de Protección Civil no podrá iniciar funciones hasta que la Secretaría de la Contraloría General designe a él o los organismos de Control y Vigilancia correspondientes, conforme lo establece la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+En materia de Protección Civil, los Centros de Desarrollo Integral Infantil, estarán a lo dispuesto en la Ley “5 de Junio” que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Sonora.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
