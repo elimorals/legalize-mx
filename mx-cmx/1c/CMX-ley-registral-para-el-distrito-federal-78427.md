@@ -4,7 +4,7 @@ identifier: "CMX-ley-registral-para-el-distrito-federal-78427"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-21"
-last_updated: "2014-12-18"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78427&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-01-18"
 ---
 # LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 11 DE JUNIO DE 2018; ESTE ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 5 DE DICIEMBRE DE 2018, SALVO EL ARTÍCULO TERCERO EN SU FRACCIÓN IX, ARTÍCULOS DIECISÉIS, VEINTINUEVE EN SU FRACCIÓN V, SETENTA Y NOVENTA, QUE ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN.]</small>
+
 LEY REGISTRAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -1293,3 +1295,17 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. DE 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY REGISTRAL PARA EL DISTRITO FEDERAL Y SE EXPIDE LA LEY REGISTRAL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase al Jefe de Gobierno para su promulgación y su publicación en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor el día 5 de diciembre de 2018, según lo establecido en el artículo transitorio décimo primero de la Constitución Política de la Ciudad de México, salvo el artículo tercero en su fracción IX, artículos dieciséis, veintinueve en su fracción V, setenta y noventa, que entrarán en vigor al día siguiente de su publicación.
+
+TERCERO.- Se abroga la Ley Registral para el Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 21 de enero de 2011, sus específicas reformas y se derogan las disposiciones que se opongan a esta ley.
+
+CUARTO.- Túrnese a la Consejería Jurídica y de Servicios Legales de la Ciudad de México para que, antes de la entrada en vigor de la presente ley, se acople y adopte la normatividad necesaria para su correcta aplicación.
+
+QUINTO.- Las alusiones a la Dependencia encargada del control Interno del Gobierno de la Ciudad de México, se entenderán hechas a la Contraloría General de la Ciudad de México, hasta que la misma cambie de denominación.
