@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2017-12-25"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -997,7 +999,7 @@ VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a l
 
 VIII. Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima;
 
-IX. Cuando la víctima se haya encontrado en estado de indefensión, entendiéndose ésta como la situación de desprotección real o incapacidad que imposibilite su defensa;
+IX. (DEROGADA, P.O. 11 DE JUNIO DE 2018)
 
 X. Cuando el sujeto activo abuse de su cargo público para la comisión del delito.
 
@@ -1007,7 +1009,29 @@ Se impondrá además de la pena, la pérdida de derechos con respecto a la víct
 
 Cuando la víctima tenga hijos menores de edad que queden en la orfandad, el responsable deberá indemnizar en concepto de reparación del daño a los representantes de los menores con el doble de la indemnización a que alude el artículo 58 del presente Código.
 
-En caso de que no se acredite el feminicidio se aplicarán las reglas del homicidio doloso.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 8 a 20 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo que:
+
+I. Se cometan con:
+
+a) Premeditación;
+
+b) Ventaja;
+
+c) Alevosía;
+
+d) Traición; o
+
+e) Brutal ferocidad;
+
+II. La víctima sea menor de 15 años de edad; o
+
+III. La víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión;
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+En los casos a que se refieren las Fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 98.
 
@@ -1030,6 +1054,10 @@ Instigación o ayuda al suicidio. La Instigación o Ayuda al Suicidio consiste e
 Al responsable de Instigación o Ayuda al Suicidio se le aplicarán de 2 a 5 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 Si la víctima fuere menor 16 años de edad o padeciere de desarrollo intelectual retardado, se aplicarán al responsable de 3 a 8 años de prisión y de 20 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Las penas de prisión u (sic) multa referidas en los dos párrafos anteriores, se duplicarán en sus mínimos y máximos, cuando la víctima sea una mujer y se acredite alguna de las razones de género previstas en el Artículo 97-A de este Código.
 
 ###### ARTÍCULO 101.
 
@@ -1107,13 +1135,11 @@ V. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea 
 
 VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable; o
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+VII. (DEROGADA, P.O. 11 DE JUNIO DE 2018)
 
-VII. En caso de que las lesiones dolosas se cometan por razones de género.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-En el caso de Homicidio Doloso Calificado a que se refieren las Fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las Fracciones IV a la VI se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio. En el caso de la Fracción VII, se aplicará al responsable de 40 a 60 años de prisión, de 500 a 1000 días multa, el pago total de la reparación de los daños y perjuicios ocasionados, además perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+En el caso de Homicidio Doloso Calificado a que se refieren las Fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las Fracciones IV a la VI se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
 
 Si las Lesiones Dolosas son Calificadas, la punibilidad establecida en el Artículo 104 se aumentará hasta en dos terceras partes en sus mínimos y máximos, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio, en tratándose de los supuestos de las Fracciones V y VI del presente Artículo.
 
@@ -1137,13 +1163,9 @@ Traición. Existe Traición cuando el inculpado provoca el resultado de lesión,
 
 Brutal ferocidad. Existe Brutal Ferocidad, cuando el inculpado provoca el resultado lesivo sin causa o motivo que lo explique, o por una causa móvil notoriamente desproporcionada.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
 ###### ARTÍCULO 113.
 
-Razones de Género. Las lesiones dolosas serán calificados (sic) cuando se cometan en contra de una mujer por razones de género.
-
-Existen razones de género cuando se presente cualquiera de los supuestos establecidos en el artículo 97-A de este Código.
+(DEROGADO, P.O. 11 DE JUNIO DE 2018)
 
 ### CAPÍTULO II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad
 
@@ -1178,6 +1200,10 @@ Al responsable de Hostigamiento Sexual previsto en las Fracciones III y IV se le
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 La pena de prisión y días de multa de Hostigamiento Sexual se aumentará hasta en una mitad en sus mínimos y sus máximos cuando la conducta sea cometida por ascendiente contra su descendiente, el tutor contra su pupilo, o adoptante contra su adoptado, o el guía religioso contra su asesorado.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas en el presente Artículo, se le destituirá del cargo y será inhabilitado para ocupar cualquier otro cargo público por un año.
 
 ###### ARTÍCULO 115.
 
@@ -1323,21 +1349,35 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 
 (DEROGADO, P.O. 2 DE FEBRERO DE 2015)
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 124.
 
-Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, violación equiparada y atentados al pudor, se aumentará hasta:
+Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, violación equiparada, estupro y atentados al pudor, se aumentará de conformidad con lo siguiente:
 
-I.- En una mitad en sus mínimos y sus máximos, cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+
+I.- En una mitad en sus mínimos y sus máximos, tratándose de violación, violación equiparada, estupro o atentados al pudor, si concurre alguna de las siguientes circunstancias:
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 a) Los hechos descritos sean cometidos a nivel de coautoría;
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+
 b) Los hechos descritos sean cometidos por servidores públicos con motivo del ejercicio de sus funciones; o
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
 c) Los hechos descritos sean cometidos por ascendiente contra su descendiente, el hermano con su colateral, el tutor con su pupilo o el padrastro o amasio de la madre con el hijastro, el maestro con el alumno o el guía religioso con su asesorado;
 
-II.- En una cuarta en sus mínimos y sus máximos, cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+II.- En una mitad en sus mínimos y sus máximos, tratándose de violación equiparada o atentados al pudor, si para llevar a cabo la conducta típica y obtener su resultado, se suministraron a la víctima sustancias estupefacientes, psicotrópicas o cualquiera otra que produzca efectos similares; o
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+III.- En una cuarta en sus mínimos y sus máximos, tratándose de violación, violación equiparada o atentados al pudor, cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
 
 ###### ARTÍCULO 125.
 
@@ -1829,23 +1869,47 @@ Excepción electoral. Tratándose de propaganda o promoción de partidos o grupo
 
 Atentados al desarrollo urbano ordenado. Los Atentados al Desarrollo Urbano Ordenado consisten en:
 
-I. Fraccionar o dividir en lotes un predio rústico o urbano, propio o ajeno, sin contar con el permiso de la autoridad administrativa correspondiente, estatal o municipal, o sin atender los lineamientos o especificaciones del permiso que se haya obtenido, con el objeto de transferir la propiedad, la posesión o cualquier otro derecho relacionado con los lotes objeto de división;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+I. Fraccionar, dividir en lotes o construir en un predio rústico o urbano, propio o ajeno, sin contar con el permiso de autoridad administrativa correspondiente, estatal o municipal, o sin atender los lineamientos o especificaciones del permiso que se haya obtenido, con el objeto de ocuparlo o de transferir la propiedad, la posesión o cualquier otro derecho sobre él;
 
 II. Comercializar lotes, rústicos o urbanos, que hayan sido fraccionados o divididos sin contar con el permiso de la autoridad administrativa correspondiente, estatal o municipal, o sin haber atendido los lineamientos o especificaciones del permiso que se haya obtenido;
 
 III. Facilitar la ocupación de lotes, rústicos o urbanos, sin haberse regularizado o realizado los trámites necesarios para la debida prestación de los servicios públicos, a cargo de las autoridades administrativas o municipales correspondientes;
 
-IV. Expedir el servidor público licencia o permiso de uso de suelo, u ordenar la prestación de servicios públicos en lotes de terreno, rústicos o urbanos, previamente fraccionados o divididos, sin haberse cubierto los requisitos que la ley de la materia exige, o los expida sin tener la facultad legal para ello; o
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-V. Realizar, directamente o por medio de un tercero, obras de urbanización o edificación de fraccionamientos, condominios o desarrollos especiales, sin respetar las restricciones establecidas en la constancia de compatibilidad urbanística, cuando:
+IV. Expedir el servidor público licencia o permiso de construcción o de uso de suelo, u ordenar la prestación de servicios públicos en lotes de terreno, rústicos o urbanos, previamente fraccionados o divididos, sin haberse cubierto los requisitos que la ley de la materia exige, o los expida sin tener la facultad legal para ello; o
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 JUNIO DE 2018)</small>
+
+V. Realizar, directamente o por medio de un tercero, obras de urbanización o de construcción de fraccionamientos, condominios, desarrollos especiales o cualquier edificación, sin respetar las restricciones establecidas en la constancia de compatibilidad urbanística, cuando:
 
 a) Estén ubicadas en discontinuidades geológicas, márgenes de ríos o arroyos, zonas de restricción de líneas de alta tensión de energía eléctrica, oleoductos o poliductos, o bien, zonas inundables, de deslaves o derrumbes;
 
-b) Generen inestabilidad en laderas, zonas de pozos, cavernas, minas, o de derechos de vía de carreteras o ferrocarril; o
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-c) Estén ubicadas en zonas bajo la influencia de depósitos de residuos peligrosos, confinamiento de desechos industriales o rellenos sanitarios.
+b) Generen inestabilidad en laderas, zonas de pozos, cavernas, minas, o de derechos de vía de carreteras o ferrocarril;
 
-Al responsable de Atentados al Desarrollo Urbano Ordenado se le aplicarán de 5 a 15 años de prisión y de 300 a 500 días multa, y al pago de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+c) Estén ubicadas en zonas bajo la influencia de depósitos de residuos peligrosos, confinamiento de desechos industriales o rellenos sanitarios;
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+d) Estén ubicadas en zonas de salvaguarda, de amortiguamiento entorno a la infraestructura, equipamientos o instalaciones de Seguridad Nacional, o en zonas federales; o
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+e) Estén ubicadas en polígonos de protección.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Al responsable de Atentados al Desarrollo Urbano Ordenado se le aplicarán de 5 a 15 años de prisión y de 300 a 1000 días multa, y al pago de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+En el caso previsto dentro de la Fracción I, es decir, en el supuesto del propietario de un predio rústico y/o urbano, que no cuenta con el permiso de la autoridad administrativa correspondiente, o sin atender los lineamientos o especificaciones del permiso obtenido, con el único objeto de ocuparlo y no de transferir la propiedad, posesión o cualquier otro derecho sobre él, será responsable de atentados al desarrollo urbano ordenado y se le aplicarán de 2 a 5 años de prisión y de 100 a 500 días de multa. Además de reparar a su costa el daño causado, devolviendo las cosas al estado que guardaban.
 
 ### CAPÍTULO VIII. Tipos Penales Protectores del Ejercicio Profesional
 
@@ -1875,7 +1939,25 @@ VI. Suministrar un medicamento evidentemente inapropiado con perjuicio de la sal
 
 VII. Expedir recetas para la adquisición de sustancias psicotrópicas cuyo empleo no sea para fines curativos;
 
-VIII. Utilizar un óvulo o esperma para procrear sin que quien lo produjo otorgue su consentimiento o con su consentimiento tratándose de un menor de dieciocho años de edad o incapaz de comprender el significado del hecho.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+VIII. Utilizar un óvulo o esperma para procrear sin que quien lo produjo otorgue su consentimiento o con su consentimiento tratándose de un menor de dieciocho años de edad o incapaz de comprender el significado del hecho;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+IX. Incumplir o dejar de realizar los actos o los protocolos necesarios para la atención médica a la mujer durante el embarazo, parto, puerperio o emergencias obstétricas;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+X. Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XI. Practicar una cesárea, existiendo condiciones para el parto natural y sin obtener el consentimiento voluntario de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo; o
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XII. Imponer cualquier método anticonceptivo, realice esterilización o cualquier intervención quirúrgica que impida la concepción, sin justificación médica de emergencia o sin consentimiento expreso de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo.
 
 Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 50 a 200 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y de 6 meses a 3 años de inhabilitación para ejercer su profesión.
 
@@ -1883,9 +1965,21 @@ Al responsable de la comisión de la presente figura típica se le aplicarán de
 
 Responsabilidad médica asistencial. La Responsabilidad Médica Asistencial se cometerá por directores, encargados o administradores de cualquier centro de salud, cuando prestado un servicio médico:
 
-I. Impidan la salida del paciente o retengan sin necesidad a un recién nacido, cuando aquél o sus familiares lo soliciten, aduciendo adeudos de cualquier índole; o
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-II. Retarden o nieguen por cualquier motivo la entrega de un cadáver a sus deudos, excepto cuando se requiera orden de autoridad competente para el efecto.
+I. Impidan la salida del paciente o retengan sin necesidad a un recién nacido, cuando aquél o sus familiares lo soliciten, aduciendo adeudos de cualquier índole;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+II. Retarden o nieguen por cualquier motivo la entrega de un cadáver a sus deudos, excepto cuando se requiera orden de autoridad competente para el efecto;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+III. Nieguen o restrinjan el acceso al hospital o centro de salud, a una mujer embarazada, cuando haya riesgo de afectación a su salud o integridad física, así como del producto de la concepción; o
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+IV. Proporcionen sin causa justificada un lugar inapropiado a la mujer embarazada para realizarle el parto.
 
 Así mismo, se considerará como Responsabilidad Médica Asistencial, el surtir una receta los encargados, empleados o dependientes de una farmacia, sustituyendo la medicina específicamente señalada por otra que cause daño a la salud del paciente, o sea evidentemente inapropiada al padecimiento para el que se prescribió.
 
@@ -2153,7 +2247,11 @@ XXIV. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos auto
 
 XXV. Ejercitar acción penal contra un servidor público con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
 
-XXVI. Realizar la aprehensión sin poner inmediatamente al detenido a disposición del juez;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XXVI. Realizar la aprehensión sin poner inmediatamente al detenido a disposición del juez.
+
+En el caso de los elementos de las instituciones policiales estatales y municipales, liberar a una persona detenida en flagrancia sin razón que lo justifique;
 
 XXVII. A los encargados o empleados de lugares de reclusión o internamiento que cobren cualquier cantidad a los internos o a sus familiares a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
 
@@ -2387,15 +2485,21 @@ II. Difundir la información confidencial obtenida en los términos que marca la
 
 III. La revelación de una comunicación reservada que se conozca o que se haya recibido por motivo de empleo, cargo o puesto, sin justa causa, con perjuicio de alguien y sin consentimiento de la víctima.
 
-Al responsable de Revelación de Secretos se le aplicarán de 3 meses a 1 año de prisión y de 15 a 30 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público; o el secreto revelado es de carácter industrial o científico, la punibilidad será de 1 a 5 años de prisión y de 30 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de la Revelación de Secretos se le aplicarán de 6 meses a 2 años de prisión y de 150 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público; o el secreto revelado es de carácter industrial o científico, la punibilidad será de 2 a 6 años de prisión y de 300 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 180.
 
 Violación de correspondencia. La Violación de Correspondencia consiste en abrir o interceptar en forma dolosa, una comunicación escrita, electrónica, magnética, óptica o informática que no esté dirigida al inculpado.
 
-Al responsable de Violación de Correspondencia se le aplicarán de 3 a 6 meses de prisión y de 5 a 20 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Al responsable de Violación de Correspondencia se le aplicarán de 5 a 10 meses de prisión y de 50 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 Esta punibilidad no se aplicará si el responsable ejerce la patria potestad, tutela o custodia, y la comunicación escrita se dirige a las personas bajo su tutela o guarda.
 
@@ -2407,9 +2511,9 @@ I. Acceder a la información contenida en un aparato para el procesamiento de da
 
 II. Interferir el buen funcionamiento de un sistema operativo, programa de computadora, base de datos o cualquier archivo informático, sin autorización de su propietario o poseedor legítimo.
 
-Al responsable del Acceso Informático Indebido se le aplicará de 1 a 3 meses de prisión, de 150 a 300 días multa así como el pago de la reparación de los daños y perjuicios ocasionados. Si quien realiza el Acceso Informático Indebido es el responsable del mantenimiento o seguridad del sistema de información sobre el que se perpetra, se le aplicará de 2 a 6 meses de prisión, de 300 a 600 días multa así como el pago de la reparación de daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Al responsable del Acceso Informático Indebido se le aplicará de 3 a 6 meses de prisión, de 150 a 300 días multa así como el pago de la reparación de los daños y perjuicios ocasionados. Si quien realiza el Acceso Informático Indebido es el responsable del mantenimiento o seguridad del sistema de información sobre el que se perpetra, se le aplicará de 2 a 6 meses de prisión, de 300 a 600 días multa así como el pago de la reparación de daños y perjuicios ocasionados.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -2421,7 +2525,9 @@ ARTÍCULO 181 A.- Suplantación de la Identidad. La suplantación de la identida
 
 También se considerará suplantación de la identidad cuando el titular otorgue su consentimiento para que se utilice su identidad en beneficio o perjuicio de un tercero.
 
-Al responsable de Suplantación de la Identidad se aplicarán de 2 a 6 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Al responsable de Suplantación de la Identidad se aplicarán de 4 a 12 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 La pena de prisión y días de multa se aumentará hasta en una mitad en sus mínimos y sus máximos cuando el sujeto activo se aproveche de su profesión; de su calidad como servidor público; o se valga de su empleo dentro de cualquier institución crediticia para la comisión de la conducta.
 
@@ -2607,11 +2713,15 @@ Al responsable de Atentados al Equilibrio Ecológico Doloso previsto en la Fracc
 
 Discriminación. La Discriminación consiste en:
 
-I. Provocar o incitar al odio o a la violencia, o negar o restringir derechos laborales, por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, carácter físico, discapacidad o estado de salud; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+I. Provocar o incitar al odio o a la violencia, o negar o restringir derechos laborales, por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, carácter físico, discapacidad o estado de salud; o
 
 II. Vejar o excluir a alguna persona o grupo de personas cuando dichas conductas tengan por resultado un daño material o moral;
 
-Al responsable de Discriminación se le aplicará pena de 6 meses a 2 años de prisión y de 15 a 50 días multa.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Al responsable de Discriminación se le aplicará pena de 6 meses a 2 años de prisión y de 15 a 50 días multa, así como el pago total de la reparación del daño y los perjuicios ocasionados.
 
 Si las conductas descritas en este Artículo las realiza un servidor público se le aumentará en una mitad el mínimo y el máximo de la punibilidad descrita en el párrafo anterior.
 
@@ -2651,11 +2761,15 @@ Se exceptúa la responsabilidad del sujeto activo derivada de la Fracción IV, c
 
 Uso indebido de llamadas telefónicas para movilizar sistemas de respuesta de emergencia. El Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia consiste en:
 
-I. Permitir o realizar mensajes o llamadas, sin que exista necesidad o justificación, a cualquier sistema de respuesta de llamadas telefónicas de emergencia o su equivalente que preste este tipo de servicios; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+I. Permitir o realizar mensajes o llamadas, sin que exista necesidad o justificación, a cualquier sistema de respuesta de llamadas telefónicas de emergencia o su equivalente que preste este tipo de servicios; o
 
 II. Permitir o realizar una llamada telefónica a los sistemas de respuesta de llamadas telefónicas de emergencias o su equivalente para dar un aviso falso de alerta, emergencia, ayuda a un particular o cualquier otra situación que genere la movilización o presencia del cuerpo de bomberos, personal de emergencias médicas, personal de protección civil o elementos de las corporaciones de seguridad pública.
 
-Al responsable del Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia se le aplicarán de 6 meses a 2 años de prisión y de 50 a 100 días multa.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Al responsable del Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia se le aplicarán de 6 meses a 2 años de prisión y de 50 a 100 días multa, así como el pago total de la reparación del daño y los perjuicios ocasionados.
 
 Tratándose de la conducta prevista en la Fracción II de este Artículo, se impondrán de 3 a 8 años de prisión y de 200 a 300 días multa y al pago total de los daños y perjuicios causados, si la conducta del infractor provoca un accidente o daños a consecuencia de su llamada falsa.
 
@@ -3076,3 +3190,23 @@ P.O. 25 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 306.- SE REFORMAN LOS ARTÍCULOS 97-A, 107, 124, 157, 169, 179, 180, 181, 181 A, 192 Y 194; SE ADICIONAN LOS ARTÍCULOS 97-A, 100, 114, 124, 157 Y 158; SE DEROGA LA FRACCIÓN IX DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 97 A, LA FRACCIÓN VII DEL ARTÍCULO 107 Y EL ARTÍCULO 113 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 315 ARTÍCULO PRIMERO.- SE REFORMA Y ADICIONA EL ARTÍCULO 155 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 43 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+La situación jurídica de las personas procesadas, sentenciadas y que estén compurgando una pena, así como los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán y resolverán con base en la norma vigente al momento en el que ocurrieron los hechos materia de ellos.
