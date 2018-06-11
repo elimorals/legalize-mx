@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-auditoria-superior-del-estado-de-9206
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-28"
-last_updated: "2013-01-28"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 28 de enero de 2013.
 
@@ -2056,3 +2058,33 @@ Vocal.
 GLORIA MARGARITA SANTOS AGUILAR
 
 Vocal.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Auditoría Superior del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa”, No. 012 de fecha 28 de enero de 2013.
+
+###### ARTICULO TERCERO.
+
+Las unidades administrativas de la Auditoría Superior del Estado de Sinaloa, podrán fundamentar sus actuaciones tratándose de cualquier asunto que esté relacionado con los resultados de las auditorías de las Cuentas Públicas 2016 y anteriores, así como cualquier asunto que guarde relación con lo establecido en el artículo Cuarto Transitorio del Decreto No. 248 por el que se expide la Ley de la Auditoría Superior del Estado de Sinaloa publicado en el Periódico Oficial “El Estado de Sinaloa” No. 127 de fecha 09 de Octubre de 2017, en el Reglamento Interior de la Auditoría Superior del Estado publicado en el Periódico Oficial "El Estado de Sinaloa", No. 012 de fecha 28 de enero de 2013.
+
+###### ARTICULO CUARTO.
+
+Los asuntos que a la entrada en vigor del presente Reglamento se encuentren presentados, iniciados y en trámite en la Dirección de Asuntos Jurídicos de la Auditoría Superior, serán atendidos por la Dirección General de Asuntos Jurídicos, quien ejercerá las facultades establecidas en el Capítulo Noveno del Reglamento Interior de la Auditoría Superior del Estado publicado en el Periódico Oficial "El Estado de Sinaloa", No. 012 de fecha 28 de enero de 2013.
+
+###### ARTICULO QUINTO.
+
+La creación de las plazas correspondientes a la Dirección de Auditoría de Cumplimiento Financiero a Municipios y sus Entes, Dirección de Auditoría de Obra Pública, y Departamento de Auditoría de Obra Pública a Municipios y sus Entes; Dirección de Auditoría de Desempeño a Programas de Gobierno y Desarrollo Económico; Dirección General de Asuntos Jurídicos, Dirección de Investigación, Dirección de Substanciación, Departamentos de Investigación "A", “B” y “C”, Departamentos de Substanciación “A”, “B”·y “C” y Departamento de Transparencia; Departamento de Recursos Materiales; Órgano Interno de Control, Departamento de Investigación y Responsabilidades y Departamento de Substanciación y Auditoría Interna, están sujetas a la aprobación del presupuesto de egresos de la Auditoría Superior del Estado de Sinaloa, aprobado por la correspondiente Legislatura del Congreso del Estado de Sinaloa.
+
+###### ARTICULO SEXTO.
+
+En tanto se autorizan las asignaciones presupuestales correspondientes, el titular de la Auditoría Superior del Estado, emitirá el acuerdo a través del cual designara al servidor público que ejercerá las atribuciones que a cada una de las plazas corresponden en los términos del presente Reglamento Interior.
