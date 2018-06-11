@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2016-03-21"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -599,7 +599,9 @@ XXI. Emitir, avalar y negociar títulos de crédito a nombre del IDEA, de acuerd
 
 XXII. Informar, siempre que sea requerido para ello por el Congreso Estatal, cuando se discuta un proyecto de Ley o se estudie un asunto del ámbito de competencia del IDEA;
 
-XXIII. Aprobar la contratación del personal del IDEA;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XXIII. Aprobar la contratación del personal del IDEA, de acuerdo al perfil requerido para ocupar el cargo;
 
 XXIV. Formular las normas y bases para cancelar adeudos a cargo de terceros y a favor del IDEA, cuando fuere notoria la imposibilidad práctica de su cobro y someterlas a la aprobación de la Junta Directiva;
 
@@ -819,13 +821,21 @@ Artículo 33 bis.- Los Municipios, en el ámbito de sus respectivas competencias
 
 I. Proponer, coordinar y evaluar la política de cultura física y deporte municipal;
 
-II. Diseñar y aplicar los instrumentos y programas Municipales en cultura física y deporte, acorde con los programas nacionales y estatales;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-III. Diseñar, aplicar y evaluar el programa municipal de cultura física y deporte;
+II. Diseñar, aplicar, controlar y evaluar los instrumentos y programas Municipales en cultura física y deporte, acorde con los programas estatales y nacionales;
 
-IV. Coordinarse con el IDEA y con otros Municipios para la promoción, fomento y desarrollo de la cultura física y deporte;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-V. Integrar el Sistema Municipal de Cultura Física y Deporte para promover y fomentar el desarrollo de la activación física, la cultura física y el deporte;
+III. Alinearse al Sistema Estatal del Deporte a fin de acceder a los apoyos y estímulos que otorga el IDEA;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+IV. Coordinarse con el IDEA y con otros Municipios para la promoción, difusión, estímulo, fomento y desarrollo de la cultura física y deporte;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+V. Integrar el Sistema Municipal de Cultura Física y Deporte para promover, difundir, estimular y fomentar el desarrollo de la activación física, la cultura física y el deporte;
 
 VI. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte; y
 
@@ -863,9 +873,9 @@ V. Asignar los recursos necesarios para el logro de los fines anteriormente señ
 
 VI. Vigilar el cumplimiento de las normas de seguridad aplicables para las personas que presten servicio de guía e instrucción en deportes extremos o de aventura; y
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-VII. Promover las medidas necesarias para erradicar la violencia y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas; y
+VII. Promover las medidas necesarias para erradicar la violencia, xenofobia, racismo e intolerancia, así como reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas; y
 
 > <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -891,7 +901,9 @@ I. Establecer en sus respectivos ámbitos de competencia el Sistema Estatal de C
 
 II. Promover la iniciación y garantizar el acceso a la práctica de las actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte a la población en general, en todas sus manifestaciones y expresiones;
 
-III. Ejecutar y dar seguimiento al Programa Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+III. Ejecutar y dar seguimiento al Programa Estatal de Cultura Física, y Deporte, asimismo se coordinaran con el IDEA, para establecer proyectos y programas enfocados al desarrollo de los talentos deportivos;
 
 IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y deporte, en coordinación con las respectivas asociaciones deportivas estatales y de acuerdo a las Normas Oficiales que para tal efecto expida la dependencia correspondiente;
 
@@ -1025,9 +1037,13 @@ I. Solicitud por escrito, bajo protesta de decir verdad, manifestando su intenci
 
 II. Al escrito señalado en la fracción anterior, deberá de adjuntarse, relación de sus agremiados y principales logros;
 
-III. Nombre de los instructores o profesionales, acompañado de las certificaciones correspondientes;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-IV. Acta Constitutiva de la asociación si cuenta con ella; y
+III. Nombre de los instructores o profesionales, acompañado de las certificaciones correspondientes, y de su proyecto de desarrollo deportivo en el estado que deberá contener justificación, diagnóstico, misión, visión, objetivo general, metas, estrategias, acciones, financiamiento y presupuesto;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+IV. Acta Constitutiva de la asociación, debidamente protocolizada; y
 
 V. Las demás que a juicio del SIEDE se considere necesario.
 
@@ -1241,7 +1257,7 @@ Para efectos de poder acceder a lo señalado en el párrafo anterior, el SIEDE d
 
 ### CAPITULO DECIMO. Del Deporte Adaptado
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 75.
 
@@ -1275,7 +1291,7 @@ El IDEA destinará como mínimo el 25% de su presupuesto para la realización de
 
 ###### Artículo 78.
 
-El IDEA, apoyará, promoverá y facilitará la participación de personas con discapacidad en las distintas disciplinas deportivas y procurará contar con personal calificado para brindar la atención que requiere este sector de la población.
+El IDEA apoyará, promoverá y facilitará la participación de personas con discapacidad en las distintas disciplinas deportivas y procurará contar con personal calificado para brindar la atención que requiera este sector de la población; asimismo garantizará la inclusión en igualdad de oportunidades, mediante la participación de este sector a través de la formulación de torneos locales para su sano desarrollo.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1609,11 +1625,17 @@ V. Promover con los CONDE, universidades y demás instituciones educativas la pa
 
 VI. Promover con las universidades la participación en los programas deportivos universitarios y cooperar con éstas para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
 
-VII. Contribuir a elevar el desarrollo deportivo de los países de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación internacional; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+VII. Contribuir a elevar el desarrollo deportivo de los países de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación internacional:
 
-VIII. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda al IDEA.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+VIII. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda al IDEA; y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+IX. Incentivar la realización de eventos deportivos con participación de atletas de diferentes países para mejorar el nivel competitivo, favoreciendo conjuntamente la participación de deportistas hidrocálidos en eventos internacionales.
 
 ###### Artículo 116.
 
@@ -1638,6 +1660,18 @@ III. Asesoría;
 IV. Asistencia; y
 
 V. Gestoría.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Artículo 117 bis.- Serán derechos de los beneficiarios de los estímulos antes señalados:
+
+I. Practicar los deportes de su elección, utilizando las instalaciones deportivas del IDEA y de los Municipios en términos de su legislación;
+
+II. Participar consciente y activamente en los procesos competitivos a los que sean convocados;
+
+III. Recibir las facilidades para su incorporación y promoción en los Sistemas de Educación; y
+
+IV. Los deportistas que de acuerdo a su desempeño dentro del cuadro de medallas en la Olimpiada y Paralimpiada Nacional o sus equivalentes, serán estimulados durante el proceso competitivo siguiente.
 
 ###### Artículo 118.
 
@@ -2104,3 +2138,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 314.- SE REFORMAN LOS ARTÍCULOS 21, 33 BIS, 36, 38, 51, 78 Y 115. ASÍ COMO SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 115 Y UN ARTÍCULO 117 BIS, A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
