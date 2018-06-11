@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2017-08-18"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -827,6 +827,10 @@ Siempre que al delito doloso corresponda sanción alternativa que incluya una pe
 
 Cuando el delito se cometa en la conducción de vehículo de motor en virtud de la prestación del servicio de transporte público de pasajeros, de personal, de escolares o de turismo y se cause homicidio, las sanciones podrán ser hasta las tres cuartas partes del máximo de las correspondientes a las del delito doloso.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Se considera conducción temeraria cuando existe un incremento del riesgo voluntariamente dado infringiendo las normas de conducción o de precaución debida. Se considera conducción peligrosa cuando existe un incremento del riesgo por hacerlo en vehículos en mal estado o infracción a las normas de seguridad.
+
 ###### Artículo 70.
 
 Individualización de la sanción para el delito culposo
@@ -1465,9 +1469,17 @@ Cuando el homicidio o las lesiones se cometan culposamente con motivo del tráns
 
 I. El sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares;
 
-II. No auxilie a la víctima del delito o se dé a la fuga; o,
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-III. Se trate de un vehículo de transporte público de pasajeros.
+II. Conduzca peligrosa o temerariamente;
+
+III. No auxilie a la víctima del delito o se dé a la fuga; o,
+
+IV. Se trate de un vehículo de transporte público de pasajeros.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Cuando el homicidio o las lesiones sean producidos por un vehículo del servicio público o de carga pesada, la reparación del daño incluirá no solo la indemnización de los daños, sino además el monto del perjuicio que por la muerte o lesión de una persona se cause al sujeto pasivo o a terceros.
 
 ### CAPÍTULO IV. AYUDA E INDUCCIÓN AL SUICIDIO
 
@@ -1719,6 +1731,8 @@ Si se emplease violencia física o psicológica o el agente se valiese de la fun
 
 ### CAPÍTULO IV. ESTUPRO
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ## TÍTULO QUINTO. DELITOS CONTRA LA LIBERTAD SEXUAL Y EL NORMAL DESARROLLO PSICOSEXUAL
 
 ### CAPÍTULO I. PRIVACIÓN DE LA LIBERTAD PERSONAL
@@ -1727,7 +1741,9 @@ Si se emplease violencia física o psicológica o el agente se valiese de la fun
 
 Violación
 
-A quien por medio de la violencia física o psicológica realice cópula, se le impondrá de cinco a quince años de prisión. Cuando el sujeto pasivo sea menor de dieciocho años se impondrá de diez a veinte años de prisión.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+A quien por medio de la violencia física o psicológica realice cópula, se le impondrá de cinco a quince años de prisión. Cuando el sujeto pasivo sea menor de dieciocho años se impondrá de diez a treinta años de prisión.
 
 Se entiende por cópula, la introducción del pene en el cuerpo humano por vía vaginal, anal o bucal.
 
@@ -1827,7 +1843,13 @@ Este delito se perseguirá por querella.
 
 Estupro
 
-A quien tenga cópula con persona mayor de doce y menor de dieciséis años de edad, obteniendo su consentimiento por medio del engaño, se le impondrá de seis meses a tres años de prisión. Este delito se perseguirá por querella.
+A quien tenga cópula con persona mayor de doce y menor de dieciocho años de edad, obteniendo su consentimiento por medio del engaño, se le sancionará de acuerdo a las siguientes disposiciones:
+
+I. Si el activo del delito no excede en siete años la edad del pasivo, se le impondrán de seis meses a cuatro años de prisión; y,
+
+II. Si el activo del delito excede en siete o más años la edad del pasivo, la pena se le duplicará en una mitad.
+
+Este delito se perseguirá por querella.
 
 ### CAPÍTULO I. VIOLENCIA FAMILIAR
 
@@ -2142,6 +2164,10 @@ II. La utilización de la caricatura de dichas personas de acuerdo con el uso so
 III. La información gráfica sobre un suceso o acontecimiento público cuando la imagen de cualquier persona aparezca como meramente accesoria.
 
 Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Artículo 198 bis. Se le impondrá de seis meses a siete años de prisión al que coaccione, hostigue, o exija material de contenido erótico sexual como alguna imagen, audio o video de la víctima bajo la amenaza de difundir, revelar, publicar, compartir, entregar, transmitir, exhibir o ceder material de la misma naturaleza que previamente la víctima le haya compartido para uso privado o Intimo a otra persona, afectando la confianza, la tranquilidad, el desarrollo personal y el honor de la víctima.
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -2925,7 +2951,7 @@ II. Las mismas sanciones se impondrán a quien teniendo la calidad de servidor p
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE JULIO DE 2017)</small>
 
-Artículo 254 bis. Enriquecimiento Ilícito.
+Artículo 254 bis. Enriquecimiento Ilícito
 
 Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
 
@@ -2941,37 +2967,15 @@ II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equ
 
 III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta días multa.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 171, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2016, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO AL MOMENTO DE LA EXPEDICIÓN DE LOS TIPOS PENALES EXPEDIDOS POR EL CONGRESO DE LA UNIÓN EN LEYES GENERALES, ATENDIENDO LA ATRIBUCIÓN SEÑALADA EN EL ARTÍCULO 73 FRACCIÓN XXI INCISO A) Y 124 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y SUS TRANSITORIOS.]</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+Artículo 254 ter. Tortura
 
-Artículo 254 ter. Comete el delito de tortura y otros tratos o penas crueles, inhumanas o degradantes, el servidor público que con el fin de obtener información o una confesión, con fines de investigación criminal, como medio intimidatorio, como castigo personal, como medio de coacción, como medida preventiva y se le impondrá una pena de diez a veinte años de prisión y de quinientos a mil días multa a quien:
+En los tipos penales, las sanciones y competencia de los tribunales locales correspondientes a la tortura y otros tratos o penas crueles, inhumanos o degradantes se estará a lo dispuesto por la legislación general expedida por el Congreso de la Unión en la materia.
 
-I. Cause dolor o sufrimiento físico o psíquico a una persona;
+Artículo 254 quater. (DEROGADO, P.O. 11 DE JUNIO DE 2018)
 
-II. Cometa una conducta que sea tendente o capaz de disminuir o anular la personalidad de la víctima o su capacidad física o psicológica, aunque no le cause dolor o sufrimiento; o,
-
-III. Realice procedimientos médicos o científicos en una persona sin su consentimiento o sin el consentimiento de quien legalmente pudiera otorgarlo, salvo el caso de emergencia con el fin de salvaguardar su vida o integridad corporal.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 171, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2016, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO AL MOMENTO DE LA EXPEDICIÓN DE LOS TIPOS PENALES EXPEDIDOS POR EL CONGRESO DE LA UNIÓN EN LEYES GENERALES, ATENDIENDO LA ATRIBUCIÓN SEÑALADA EN EL ARTÍCULO 73 FRACCIÓN XXI INCISO A) Y 124 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y SUS TRANSITORIOS.]</small>
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
-
-Artículo 254 quater. Comete el delito de tortura y otros tratos o penas crueles, inhumanas o degradantes y se le impondrá una pena de cuatro a doce años de prisión y de trescientos a seiscientos días multa al particular que con la autorización o el apoyo de un Servidor Público cometa alguna de las conductas descritas en el artículo anterior.
-
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 171, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2016, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO AL MOMENTO DE LA EXPEDICIÓN DE LOS TIPOS PENALES EXPEDIDOS POR EL CONGRESO DE LA UNIÓN EN LEYES GENERALES, ATENDIENDO LA ATRIBUCIÓN SEÑALADA EN EL ARTÍCULO 73 FRACCIÓN XXI INCISO A) Y 124 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y SUS TRANSITORIOS.]</small>
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
-
-Artículo 254 quinquies. Las penas previstas para el delito de tortura y otros tratos o penas crueles, inhumanos o degradantes, se aumentarán hasta en una mitad cuando el sujeto pasivo:
-
-I. Sea menor de dieciocho años;
-
-II. Este embarazada;
-
-III. No tenga la capacidad para comprender el significado del hecho; o,
-
-IV. Sea sometido a cualquier forma de violencia sexual.
+Artículo 254 quinquies. (DEROGADO, P.O. 11 DE JUNIO DE 2018)
 
 ### CAPÍTULO I. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
@@ -3549,6 +3553,8 @@ Al que haga uso de los medios de comunicación de emergencia o denuncia para dis
 
 ### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN, USO INDEBIDO DE DOCUMENTO Y USURPACIÓN DE IDENTIDAD
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### Artículo 293.
 
 Ataque a la seguridad del tránsito vehicular
@@ -3637,9 +3643,9 @@ Las mismas penas se impondrán a quien utilice, adquiera o enajene cualquiera de
 
 ###### Artículo 299.
 
-Falsificación o alteración y uso indebido de documento
+Falsificación o alteración y uso indebido de documento.
 
-A quien para obtener un beneficio o causar un daño, falsifique o altere un documento público o privado, se le impondrá de seis meses a dos años de prisión y de doscientos a ochocientos días multa tratándose de documentos públicos y de seis meses a dos años de prisión y de cincuenta a trescientos días multa, tratándose de documentos privados.
+A quien para obtener un beneficio o causar un daño, falsifique o altere un documento público o privado, se le impondrá de uno a dos años de prisión y de doscientos cincuenta a mil días multa tratándose de documentos públicos y de uno a dos años de prisión y de doscientos a quinientos días multa, tratándose de documentos privados.
 
 Las mismas penas se impondrán a quien, con los fines señalados en el párrafo anterior, haga uso de un documento falso o altere o haga uso indebido de un documento verdadero, expedido a favor de otro, como si hubiere sido expedido a su nombre, o aproveche indebidamente una firma o rúbrica en blanco.
 
@@ -3647,7 +3653,9 @@ Las mismas penas se impondrán a quien, con los fines señalados en el párrafo 
 
 Falsificación agravada
 
-Las penas previstas en el artículo anterior se incrementarán hasta en una mitad, cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+
+Las penas previstas en el artículo anterior se incrementarán hasta el doble, cuando:
 
 I. El delito sea cometido por un servidor público en ejercicio de sus funciones, en cuyo caso se impondrá a éste, además, destitución e inhabilitación para ocupar otro empleo, cargo o comisión públicos de uno a cinco años;
 
@@ -4026,5 +4034,11 @@ P.O. 21 DE JULIO DE 2017.
 P.O. 18 DE AGOSTO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 391 POR EL QUE "SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO VIGÉSIMO PRIMERO Y SE REFORMAN LOS ARTÍCULOS 291 Y 292 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 588 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 164, 170, 254 TER, 299 Y 300; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 69, UNA FRACCIÓN II RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 137 Y EL ARTÍCULO 198 BIS; Y SE DEROGAN LOS ARTÍCULOS 254 QUATER Y 254 QUINQUIES DEL CÓDIGO PENAL DEL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
