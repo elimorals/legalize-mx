@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2018-05-28"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -383,9 +383,21 @@ XXXIII. Coordinarse con las autoridades correspondientes para evitar el expendio
 
 XXXIV. Promover e impulsar en el ámbito de su competencia las actividades y programas dirigidos a prevenir, atender y sancionar la violencia contra las mujeres, así como la igualdad real entre mujeres y hombres en términos de los ordenamientos en la materia;
 
-XXXV. Vigilar el cumplimiento de la presente ley y de sus disposiciones reglamentarias; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2018)</small>
 
-XXXVI. Las demás que con tal carácter establezcan en la presente ley y otras disposiciones aplicables en la materia.
+XXXV. Poner en práctica en escuelas públicas y privadas de todos los niveles educativos de la Entidad, en coordinación con las áreas competentes de Protección Civil, un protocolo de prevención y actuación durante y después de un sismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2018)</small>
+
+XXXVI. Realizar simulacros de manera periódica sobre medidas de evacuación y de seguridad en caso de un sismo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2018)</small>
+
+XXXVII. Vigilar el cumplimiento de la presente ley y de sus disposiciones reglamentarias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2018)</small>
+
+XXXVIII. Las demás que con tal carácter establezcan en la presente ley y otras disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 15.
 
@@ -1406,3 +1418,9 @@ P.O. 28 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 436 QUE ADICIONA LA FRACCIÓN XXX BIS AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 441 POR EL QUE SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 14 Y SE ADICIONAN LAS FRACCIONES XXXVII Y XXXVIII AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
