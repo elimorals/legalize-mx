@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2013-11-11"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY PARA EL FOMENTO A LA ECONOMIA, LA INVERSION Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 381, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2013, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN CUANTO SE OPONGAN A LAS DISPOSICIONES QUE SE CONTIENEN EN LA LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES.]</small>
+
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 381, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2013, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO EN CUANTO SE OPONGAN A LAS DISPOSICIONES QUE SE CONTIENEN EN LA LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -233,13 +233,17 @@ VII.- Las demás que se deriven de la presente Ley.
 
 El titular del Ejecutivo Estatal expedirá los ordenamientos jurídicos que considere pertinentes para otorgar los incentivos que puedan atraer las inversiones que requiere el Estado para su desarrollo económico, tomando como base las propuestas hechas por el Consejo Consultivo de acuerdo a las facultades que le han sido conferidas en esta materia en el Artículo 10 en su fracción III de la presente Ley y cuidando en todo momento aquellas que sean consideradas como estratégicas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 15.
 
-Para efectos de la presente Ley, se consideran como empresas estratégicas aquellas que signifiquen un detonante económico regional, ya sea por que se ubiquen en alguna zona prioritaria para el desarrollo, generen empleos o bien porque impliquen mejores ingresos a la población circundante.
+Para efectos de la presente Ley, se consideran como empresas estratégicas aquellas que signifiquen un detonante económico regional, ya sea porque se ubiquen en alguna zona prioritaria para el desarrollo, generen empleos, contraten a hombres y mujeres en condiciones de igualdad y equidad, y con inclusión de las personas con discapacidad en toda la estructura orgánica de la empresa, o bien porque impliquen mejores ingresos a la población circundante.
 
 Asimismo, para definir la clase de incentivos a otorgar, se tendrán en cuenta los siguientes factores;
 
-a).- Número de empleos que generen y su nivel de remuneración;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+a).- Número de empleos que generen y/o contraten a hombres y mujeres en condiciones de igualdad y equidad, y con inclusión de las personas con discapacidad, y su nivel de remuneración;
 
 b).- Monto de la inversión;
 
@@ -506,3 +510,11 @@ El Registro de Trámites y Servicios, y el Registro Estatal de Personas Acredita
 ###### ARTÍCULO OCTAVO.
 
 La Secretaría de Finanzas del Gobierno del Estado, realizará las adecuaciones presupuestales necesarias para que inicie sus funciones el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria y sus organismos.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 310.- SE REFORMA EL ARTÍCULO 15 DE LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
