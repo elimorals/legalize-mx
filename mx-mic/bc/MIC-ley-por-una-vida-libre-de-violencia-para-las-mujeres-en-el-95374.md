@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2017-07-20"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -189,9 +189,17 @@ IV. Violencia patrimonial: Cualquier acción u omisión encaminada a la sustracc
 
 V. Violencia económica: Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para lesionar su independencia y supervivencia económica;
 
-VI. Violencia política: Todo acto u omisión en contra de las mujeres por medio del cual se cause un daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida por cuestión de género, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad; y,
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VI. Violencia política: Todo acto u omisión en contra de las mujeres por medio del cual se cause un daño moral, físico o psicológico a través de la presión, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida por cuestión de género, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirla u obligarla a tomar decisiones de tipo político-electoral en contra de su voluntad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2018)</small>
+
+VII. Violencia simbólica y/o mediática: La que, a través de patrones estereotipados, mensajes, valores, íconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JUNIO DE 2018)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### ARTÍCULO 10.
 
@@ -1020,3 +1028,9 @@ Notifíquese el presente decreto al Titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO TERCERO.
 
 El Titular del Poder Ejecutivo expedirá las modificaciones necesarias al Reglamento respectivo en un término de hasta 90 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 11 DE JUNIO DE 2018
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 589 POR EL QUE “SE REFORMA EL ARTÍCULO 9 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
