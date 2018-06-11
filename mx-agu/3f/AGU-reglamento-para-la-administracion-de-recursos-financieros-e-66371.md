@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-la-administracion-de-recursos-financieros-e-663
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-09"
-last_updated: "2015-06-01"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO PARA LA ADMINISTRACIÓN DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de febrero de 2009.
 
@@ -464,13 +464,19 @@ a. La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitido
 
 b. La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor con calificación crediticia de mx AA+, AA y AA-(Menos) o su correspondiente según la Tabla A no podrá exceder del 3% del Activo del Instituto.
 
-c. La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados o aceptados por un mismo emisor con calificación crediticia de mx A+ y A o su correspondiente según la Tabla A no podrá exceder del 2% del Activo del Instituto.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-d. El monto adquirido sobre una misma emisión no podrá ser mayor al 35% de la emisión o mayor a $500'000,000.00 (quinientos millones de pesos).
+c. La inversión en Instrumentos de Deuda y Valores Extranjeros de Deuda emitidos, avalados y aceptados por un mismo emisor con calificación crediticia de mx A+ y menores hasta llegar a B- o su correspondiente según la Tabla A no podrá exceder del 2% del Activo del Instituto.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+d. El monto adquirido sobre una misma emisión total autorizada no podrá ser mayor al 35% de la emisión o mayor a $500'000,000.00 (quinientos millones de pesos).
 
 Ver tabla A en la siguiente página:
 
-> <small>N. DE E. VÉASE TABLAS EN LA CUARTA SECCIÓN DEL P.O. DEL 1 DE JUNIO DE 2015, PÁGINAS DE LA 8 A LA 9.</small>
+> <small>[N. DE E. VÉASE TABLAS EN LA CUARTA SECCIÓN DEL P.O. DEL 1 DE JUNIO DE 2015, PÁGINAS DE LA 8 A LA 9.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 11 DE JUNIO DE 2018, PÁGINA 3.]</small>
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -667,3 +673,15 @@ SEGUNDO.- A partir de la entrada en vigor de las presentes reformas, el Institut
 P.O. 1 DE JUNIO DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA EL REGLAMENTO PARA LA ADMINISTRACIÓN DE RECURSOS FINANCIEROS E INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efectos aquellas disposiciones que se opongan a la presente reforma.
