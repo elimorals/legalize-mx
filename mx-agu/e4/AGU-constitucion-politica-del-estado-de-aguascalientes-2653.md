@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2018-04-16"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -67,31 +69,49 @@ El Poder Público solamente puede actuar en uso de facultades expresas mientras 
 
 En el cumplimiento de la ley, si la autoridad requiere afectar o intervenir un derecho, deberá observar los principios de justicia, racionalidad, necesidad, idoneidad y proporcionalidad para hacerlo.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 4o.
 
-La familia constituye la base fundamental de la sociedad. Cualquiera doctrina o credo que en alguna forma mine sus cimientos se considerará atentatoria de la integridad misma del Estado.
+La familia constituye la base fundamental de la sociedad. Cualquier doctrina o credo que en alguna forma mine sus cimientos se considerará atentatoria de la integridad misma del Estado. La Ley garantizará su protección, organización y desarrollo.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 Por la misma razón, el hogar y, particularmente, los niños, serán objeto de especial protección por parte de las Autoridades. Toda medida o disposición protectoras de la familia y de la niñez, se considerarán de orden público.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
 En todas las decisiones y actuaciones del Estado se velará por el principio del interés superior de la niñez y se cumplirá con el mismo, garantizando de manera plena sus derechos. Los niños, las niñas y los adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 Los ascendientes, tutores y custodios, tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
 El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
-El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá garantizar que accedan a las mismas oportunidades en condiciones de equidad.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá prever mecanismos, instituciones y políticas que garanticen la igualdad de oportunidades en condiciones de equidad.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
 Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado garantizará el acceso a los programas y acciones públicas en la materia.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 Toda persona tiene derecho a la protección de la salud. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud y determinará la participación del Estado y sus Municipios en la materia.
 
@@ -157,11 +177,11 @@ El Estado promoverá las condiciones para el desarrollo rural integral sostenibl
 
 El Estado debe proveer los elementos necesarios para el desarrollo rural integral y sostenible mediante el mejoramiento de las condiciones de vida de la población rural y urbana, garantizando el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 7o.
 
-A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía, impulse la competitividad fomentando la independencia y la democratización política, social y cultural del Estado. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
+A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía e impulse la competitividad fomentando la independencia y la democratización política, social y cultural del Estado. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
@@ -277,11 +297,11 @@ El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecut
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 15.
 
-El Poder Legislativo se deposita en una corporación que se denomina Congreso del Estado.
+El Poder Legislativo se deposita en una corporación denominada Congreso del Estado. Éste se regirá bajo los principios del modelo de parlamento abierto, por lo que deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas. La ley establecerá los mecanismos a los que hace referencia este Artículo.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
@@ -387,9 +407,17 @@ e) Presupuesto Participativo;
 
 f) Cabildo Abierto;
 
-g) Consulta Ciudadana; y
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-h) Comités Ciudadanos.
+g) Consulta Ciudadana;
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+h) Comités Ciudadanos; y
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+i) Parlamento Abierto.
 
 > <small>[N. DE E. PERTENECE AL APARTADO C, P.O. 29 DE ENERO DE 2018]</small>
 
@@ -747,8 +775,6 @@ El Órgano Superior de Fiscalización del Estado deberá guardar reserva de sus 
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a la Ley de Fiscalización Superior del Estado, así como a la demás legislación aplicable; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 IV. Derivado de sus investigaciones y sin perjuicio de la competencia de la Auditoría Superior de la Federación, promover las responsabilidades que sean procedentes ante la Sala Administrativa y la Fiscalía Estatal Especializada en Combate a la Corrupción para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
@@ -987,8 +1013,6 @@ II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre l
 
 III.- Solicitar al Congreso la autorización para realizar los Proyectos de Prestación de Servicios, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
 
 IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 y el 30 de septiembre, sobre el estado general que guarde la administración pública estatal.
@@ -1137,8 +1161,6 @@ Los Magistrados del Supremo Tribunal de Justicia del Estado, reunidos en pleno, 
 
 La Sala Administrativa será un órgano jurisdiccional que gozará de plena autonomía para dictar sus fallos y que estará adscrito al Poder Judicial del Estado, se integrará por tres Magistrados sin que formen parte del Pleno del Supremo Tribunal de Justicia, asimismo tendrá entre sus facultades, dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Estado, de los Municipios y sus Organismos Descentralizados o con otras personas en funciones de autoridad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 El órgano jurisdiccional referido en el párrafo anterior, también será competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o de los Municipios.
@@ -1281,8 +1303,6 @@ CAPITULO DECIMOCUARTO
 
 Del Sistema de Justicia Penal Acusatorio, el Ministerio Público, el Sistema de Seguridad Pública y los Derechos Humanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
 
 Artículo 58 A.- El Sistema de Justicia Penal Acusatorio tendrá por objeto dirimir los conflictos mediante la aplicación de la ley, bajo los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos y el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte.
@@ -1294,8 +1314,6 @@ En materia penal, la ley definirá los hechos punibles y las consecuencias jurí
 Tampoco podrá ser sancionada persona alguna, si el hecho antisocial no reúne los elementos del delito que corresponda. Queda prohibida la aplicación analógica o por mayoría de razón, de la ley penal en perjuicio de cualquier persona.
 
 No podrá aplicarse pena alguna si la acción u omisión no han sido realizadas culpablemente. La medida de la pena no excederá la medida de la culpabilidad de la persona.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
 
@@ -1341,8 +1359,6 @@ Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y
 
 El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
 
 Artículo 58 D.- Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas por el Juez de Juicio Oral en audiencia pública previa citación de las partes.
@@ -1351,11 +1367,7 @@ Corresponde al Poder Judicial la imposición de las penas, su ejecución, modifi
 
 El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, determinarán los casos que serán resueltos de esta manera, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Se contará con un servicio de defensoría pública de calidad para la población y la ley garantizará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores públicos no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
@@ -1368,8 +1380,6 @@ La procuración e impartición de justicia para adolescentes estará a cargo de 
 Las personas menores de doce años que hayan realizado una conducta prevista como hecho punible en la ley, sólo serán sujetos a rehabilitación y asistencia social, lo cual estará a cargo de la institución que señale la ley de la materia. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
 En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reinserción y reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
 
@@ -1765,8 +1775,6 @@ De la Responsabilidad de los Servidores Públicos.
 
 Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, a los Comisionados del Instituto de Transparencia del Estado y al personal de éste, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos y a los órganos u organismos autónomos quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las leyes federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, así como en actividades administrativas irregulares, en que incurran en el ejercicio de sus cargos, y estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal ante las autoridades competentes, en los términos que determine la ley.
@@ -1835,8 +1843,6 @@ Los sujetos de responsabilidad penal a que se refiere el Artículo 75 de este or
 
 La responsabilidad política de los servidores públicos a que se refiere el Artículo 74 de esta Constitución podrá exigirse durante el ejercicio del cargo y hasta un año después de concluida su función.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años.
@@ -1848,8 +1854,6 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 Pronunciada una sentencia condenatoria siendo un delito cometido durante el ejercicio de su encargo, no podrá concederse al sentenciado la gracia del indulto.
 
 En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1867,8 +1871,6 @@ Las leyes establecerán los supuestos y procedimientos para impugnar la clasific
 
 Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia de la Sala Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Estatal Especializada en Combate a la Corrupción a que se refiere esta Constitución.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 Artículo 82 A.- La Sala Administrativa impondrán (sic) a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de este Artículo cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
@@ -1876,8 +1878,6 @@ Artículo 82 A.- La Sala Administrativa impondrán (sic) a los particulares que 
 Los procedimientos para la aplicación de las sanciones mencionadas en este Capítulo, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1978,6 +1978,10 @@ Los servidores públicos del Estado y los Municipios, tienen la obligación de a
 La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública centralizada, desconcentrada, descentralizada estatal o municipal, y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
 La violación a lo establecido en el presente Artículo será sancionada en la forma y términos que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Artículo 89 A.- El diseño, ejecución, seguimiento y evaluación de las políticas implementadas por el Estado y los Municipios deberán garantizar el respeto a los principios de igualdad, equidad, igualdad sustantiva y paridad, previstos en la Ley.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -3162,6 +3166,22 @@ Cumplidos los extremos legales que establece el Artículo 94 de la Constitución
 P.O. 16 DE ABRIL DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL " DECRETO NÚMERO 234.- CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL; SE REFORMA EL ARTÍCULO 6° DE LA CONSTITUCIÓN POLÍTICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 271.- SE REFORMA EL PRIMER Y SÉPTIMO PÁRRAFOS DEL ARTÍCULO 4°, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 7°; ASÍ COMO SE ADICIONA UN ARTÍCULO 89 A, A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)".]
+
+###### ARTÍCULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 272.- SE REFORMAN EL ARTÍCULO 15; LOS INCISOS G) Y H) DEL APARTADO C DEL ARTÍCULO 17; Y SE ADICIONA UN INCISO I) AL APARTADO C DEL ARTÍCULO 17, A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)".]
 
 ###### ARTÍCULO ÚNICO.
 
