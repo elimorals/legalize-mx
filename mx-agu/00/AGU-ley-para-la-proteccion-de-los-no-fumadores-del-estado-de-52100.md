@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-los-no-fumadores-del-estado-de-52100"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-30"
-last_updated: "2017-07-03"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 2006.
 
@@ -59,59 +59,87 @@ I. Proteger el derecho de las personas no fumadoras a no estar expuestas al humo
 
 II. La orientación a la población para que evite empezar a fumar, y se abstenga de fumar en los lugares públicos donde se encuentre prohibido;
 
-III. La prohibición de fumar en los espacios cerrados públicos, privados y sociales que se señalan en esta Ley;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+III. La prohibición de fumar en los espacios cien por ciento libres de humo de tabaco que se señalan en esta Ley;
 
 IV. El apoyo a los fumadores, cuando lo soliciten, para abandonar el tabaquismo con los tratamientos correspondientes;
 
 V. La información a la población sobre los efectos nocivos del consumo de tabaco, de la exposición de su humo, los beneficios de dejar de fumar y la promoción de su abandono; y
 
-VI. Establecer mecanismos de coordinación entre todas las instancias públicas y privadas involucradas, así como las acciones tendientes al establecimiento de programas públicos para prevenir y disminuir las consecuencias en la salud de las personas, derivadas de la inhalación voluntaria e involuntaria del humo ambiental generado por el consumo y combustión del tabaco en cualquiera de sus formas.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+VI. Establecer mecanismos de coordinación entre todas las instancias públicas y privadas involucradas, así como las acciones tendientes al establecimiento de programas públicos para prevenir y disminuir las consecuencias en la salud de las personas, derivadas de la inhalación del humo ambiental generado por el consumo y combustión del tabaco en cualquiera de sus formas.
+
+> <small>[N. DE E. SE ADVIERTE QUE EL PRESENTE ARTÍCULO CONTABA CON VEINTE FRACCIONES Y DE LA REFORMA PUBLICADA EN EL P.O. DE 11 DE JUNIO DE 2018, SE PRECISAN DIECISÉIS.]</small>
 
 ###### Artículo 3°.
 
 Para efectos de la presente Ley, se entiende por:
 
-I. Área abierta: A los espacios que se encuentran ubicados al aire libre;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+I. Área cerrada: Al espacio de un establecimiento que se encuentra separado por bardas, techos o cualquier otro material que lo aísle del exterior, en el que hacia su interior no circula de manera libre el aire natural. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas, no se consideran espacios para la libre circulación de aire natural;
 
-II. Área cerrada: Al espacio de un establecimiento que se encuentra separado por bardas, techos o cualquier otro material que lo aísle del exterior, en el que hacia su interior no circula de manera libre el aire natural. Las ventanas, puertas, ventilas y demás orificios o perforaciones en delimitaciones físicas, no se consideran espacios para la libre circulación de aire natural;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-III. Bar: Al establecimiento donde se consumen preponderantemente bebidas alcohólicas, botanas y en menor medida algún alimento;
+II. Área física cerrada con acceso al público: A todo espacio cubierto por un techo o que tenga más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal;
 
-IV. Cafetería: Al establecimiento donde se sirve café, té y otras bebidas de baja graduación alcohólica, así como alimentos fríos o que requieran poca preparación;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-V. Centro de Entretenimiento para adultos: cabaret y otros similares;
+III. Denuncia Ciudadana: A la notificación hecha a la autoridad competente por cualquier persona respecto de los hechos que constituyan infracciones a las disposiciones contenidas en esta Ley;
 
-VI. Discoteca: Al establecimiento o lugar de acceso exclusivo para adultos con horario preferentemente nocturno para escuchar música, bailar y consumir bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-VII. Hoteles: A toda negociación mercantil que tenga por objeto brindar servicio de hospedaje, entendiéndose por estos a moteles, casa de huéspedes, hostales o cualquier otro similar;
+IV. Dueño: Al propietario, la persona física o moral, titular de la licencia comercial o mercantil, o quien asuma esa responsabilidad, con motivo de la operación o explotación del establecimiento; o de la persona física o moral propietaria del vehículo de transporte público de pasajeros o concesionario, en todas sus modalidades, o en su caso al titular o poseedor de la tarjeta de circulación;
 
-VIII. Restaurante: A las fondas, comedores, o cualquier otra negociación mercantil similar que tiene por objeto la preparación y expendio de alimentos para su consumo;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-IX. Terraza: El área del establecimiento comercial o mercantil destinado para que los clientes puedan sentarse al aire libre;
+V. Espacio cien por ciento libre de humo de tabaco: A aquella área física cerrada con acceso al público, los lugares de trabajo, los vehículos de transporte público y los sitios de concurrencia colectiva en donde por razones de orden público e interés social la presente Ley prohíbe fumar, consumir o tener encendido cualquier producto de tabaco;
 
-X. Dueño: Al propietario, la persona física o moral, titular de la licencia comercial o mercantil, o quien asuma esa responsabilidad, con motivo de la operación o explotación del establecimiento; o de la persona física o moral propietaria del vehículo de transporte público de pasajeros o concesionario, en todas sus modalidades, o en su caso al titular o poseedor de la tarjeta de circulación.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-XI. Escuelas: Los recintos de enseñanza, especial, inicial, preescolar, primaria, secundaria, media, media superior, superior, para adultos y de formación para el trabajo del sector público y privado;
+VI. Establecimientos: A los locales que se dedican al alojamiento, expendio para su consumo en el lugar de alimentos y bebidas; así como los hoteles, moteles, casa de huéspedes, restaurantes, bares, centros botaneros, cantinas, cervecerías, discotecas, cabaret, pulquerías, cafeterías y otras negociaciones mercantiles con acceso al público;
 
-XII. Establecimientos: A los locales que se dedican al alojamiento, expendio para su consumo en el lugar de alimentos y bebidas; así como los hoteles, moteles, casa de huéspedes, restaurantes, bares, centros botaderos, cantinas, cervecerías, discotecas, cabaret, pulquerías, cafeterías y otras negociaciones mercantiles con acceso al público;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-XIII. Fumar: A la acción y efecto de consumir tabaco mediante combustión;
+VII. Fumar: Al acto de inhalar y exhalar humo de un producto de tabaco e incluye el hecho de estar en posesión o control de un producto de tabaco en combustión que genere emisiones;
 
-XIV. Fumador: A la persona que consume productos de tabaco mediante la combustión para inhalación y exhalación del mismo, bajo la forma de cigarrillo, puros u otros tipos de tabacos;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-XV. Fumador pasivo: A la persona que se encuentra en condiciones de inhalar involuntariamente el humo ambiental, producto de la combustión de tabaco;
+VIII. Fumador: A la persona que consume productos de tabaco mediante la combustión para inhalación y exhalación del mismo, bajo la forma de cigarrillo, puros u otros tipos de tabacos;
 
-XVI. Menor de edad: Toda persona menor de 18 años;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-XVII. Reincidencia: Cuando una persona cometa nuevamente violaciones a las disposiciones de esta Ley, dentro de los seis meses, contados a partir de la aplicación de la multa inmediata anterior;
+IX. Fumador pasivo: A la persona que inhala el humo ambiental, producto de la combustión de tabaco;
 
-XVIII. Sanción: A la consecuencia jurídica que se establece para el infractor de la presente Ley;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-XIX. Sección: Al área delimitada de un establecimiento;
+X. Humo del tabaco: A las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco;
 
-XX. ISEA: Al Instituto de Salud del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XI. ISEA: Al Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XII. Ley: A la presente Ley para la Protección de los No Fumadores del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XIII. Reincidencia: Cuando una persona cometa nuevamente violaciones a las disposiciones de esta Ley, dentro de los seis meses, contados a partir de la aplicación de la multa inmediata anterior;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XIV. Sección: Al área delimitada de un establecimiento;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XV. Secciones o áreas expresamente acondicionadas para fumar: Aquellas áreas de un establecimiento que han sido divididas adecuadamente al efecto de evitar que el humo del tabaco alcance los Espacios cien por ciento libres de humo de tabaco; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XVI. Vehículos de transporte público: A aquel individual o colectivo utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, así como para obtener una remuneración.
 
 ###### Artículo 4°.
 
@@ -125,13 +153,17 @@ II. Los concesionarios y operadores de los medios de transporte público en toda
 
 III. Las autoridades, docentes, las asociaciones de padres de familia y personal administrativo de las instituciones educativas públicas y privadas en todas sus modalidades;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-IV. Los órganos de control interno de las diferentes oficinas de los Gobiernos Federal, Estatal y Municipal, así como de los órganos autónomos; y
+IV. Los órganos de control interno de las diferentes oficinas de los Gobiernos Federal, Estatal y Municipal, así como de los órganos autónomos;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-V. Los usuarios de los espacios cerrados de acceso al público como oficinas, establecimientos mercantiles, industrias y empresas.
+V. Los usuarios de los espacios cerrados de acceso al público como oficinas, establecimientos mercantiles, industrias y empresas; y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+VI. La sociedad en general.
 
 ###### Artículo 5°.
 
@@ -175,7 +207,9 @@ VII. Realizar conjuntamente con la iniciativa privada y/u organizaciones no gube
 
 VIII. Coordinarse con las autoridades municipales para la puesta en marcha de los programas contra las adicciones;
 
-IX. Formular y conducir la política estatal para la prevención y el tratamiento de padecimientos originados por la inhalación voluntaria e involuntaria del consumo de tabaco;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+IX. Formular y conducir la política estatal para la prevención y el tratamiento de padecimientos originados por la inhalación del humo de tabaco;
 
 X. Promover la cultura y concientización sobre los efectos del consumo de tabaco en la salud, dirigida especialmente a grupos vulnerables, (niños, adolescentes adultos mayores y mujeres embarazadas), a través de métodos colectivos o de comunicación masiva;
 
@@ -237,27 +271,45 @@ Para el procedimiento de la aplicación de las sanciones se sujetará a lo previ
 
 ### CAPITULO I. De los Lugares Donde se Prohíbe Fumar
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 12.
 
-Queda prohibida la práctica de fumar en los siguientes lugares:
+Queda prohibida la práctica de fumar en los espacios cien por ciento libres de humo de tabaco, tales como:
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
 I. En todas las áreas cerradas de acceso al público, oficinas, establecimientos mercantiles, industrias y empresas;
 
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
 II. En elevadores y escaleras interiores de cualquier edificación;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
 III. En los establecimientos particulares y públicos en los que se proporcione atención directa al público, tales como oficinas bancarias, financieras, comerciales o de servicios; tiendas de auto servicio, departamentales y/o de servicios en los que se proporcione atención directa al público; con excepción de aquellas áreas acondicionadas para fumar;
 
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
 IV. En hospitales, guarderías, asilos o casas de reposo público y privado, clínicas, centros de salud, centros de atención médica públicos y privados; con excepción de aquellas áreas acondicionadas para fumar, delimitada por la propia institución;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
 V. En las áreas cerradas de bibliotecas, centros de información, hemerotecas, museos, casas de la cultura, centros públicos de computación, instalaciones educativas públicas y privadas ubicadas en el Estado, excepto en áreas ventiladas o acondicionadas de los centros educativos de nivel superior, que cuenten con la señalización respectiva delimitada por la propia institución, auditorios, bibliotecas, escuelas y cualquier otro lugar cerrado de las instituciones de enseñanza;
 
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
 VI. En centros de educación inicial, básica, media superior y superior, incluyendo auditorios, bibliotecas, laboratorios, instalaciones deportivas, patios, salones de clase, pasillos y sanitarios;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
 VII. En las oficinas públicas de los Poderes Ejecutivo, Legislativo y Judicial, cualquier dependencia o entidad de la Administración Pública Estatal y Municipal y de sus órganos autónomos, oficinas administrativas, auditorios, módulos de atención, excepto en las áreas acondicionadas para fumar;
 
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
 VIII. En áreas cerradas de los cines, teatros, centros de entretenimiento y auditorios, centros comerciales, restaurantes, cafeterías, a los que tenga acceso el público en general; con excepción de las secciones expresamente acondicionadas para fumar;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
 IX. Instalaciones deportivas;
 
@@ -265,21 +317,41 @@ IX. Instalaciones deportivas;
 
 X. En unidades destinadas al cuidado y atención de los niños, adolescentes, adultos mayores y personas con discapacidad;
 
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
 XI. En los sanitarios de acceso público, baños públicos y sanitarios móviles;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
 XII. En los establecimientos mercantiles dedicados al hospedaje, de conformidad a lo dispuesto en el Artículo 17 de esta Ley;
 
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
+
 XIII. En los establecimientos mercantiles y espacios cerrados donde se expendan al público alimentos y bebidas para su consumo en el lugar, con excepción de las secciones expresamente acondicionadas para fumar;
 
-XIV. En los vehículos de servicio de trasporte (sic) público de pasajeros en todas sus modalidades que circulen en el Estado;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XIV. En los vehículos de servicio de transporte público de pasajeros en todas sus modalidades que circulen en el Estado;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
 XV. En los vehículos de transporte escolar o transporte de personal;
 
-XVI. En espacios cerrados de trabajo y en sitios de concurrencia colectiva; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-XVII. Cualquier otra área cerrada, distinta a las señaladas en las Fracciones anteriores, al que tenga acceso el público en general.
+XVI. En los vehículos utilitarios y oficiales destinados al servicio público, propiedad del Gobierno del Estado y de los Municipios, que circulen en el Estado;
 
-Los propietarios, poseedores o responsables de los establecimientos mercantiles, oficinas, industrias y empresas en los cuales está prohibido fumar serán sancionados económicamente por permitir, tolerar o autorizar que se fume fuera de las áreas estrictamente acondicionadas para ello.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XVII. En espacios cerrados de trabajo y en sitios de concurrencia colectiva; y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+XVIII. Cualquier otra área cerrada, distinta a las fracciones anteriores al que tenga acceso el público en general.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Los propietarios, poseedores o responsables de los espacios cien por ciento libres de humo de tabaco serán sancionados económicamente por permitir, tolerar o autorizar que se fume en los mismos.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -289,19 +361,23 @@ Los menores de edad, no podrán ingresar a las áreas acondicionadas para fumado
 
 ### CAPITULO II. De las Obligaciones
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 14.
 
-En los restaurantes y cafeterías, los propietarios, administradores, responsables, empleados y/o encargados de los mismos, tendrán la obligación de respetar la prohibición de no fumar en dichos lugares.
-
-Los usuarios están obligados a observar lo establecido en el párrafo anterior.
+Es obligación de los propietarios, administradores, responsables o encargados de los establecimientos mercantiles en los que se expendan al público alimentos o bebidas para su consumo en el lugar, con el apoyo de los empleados que laboran en el mismo, respetar y hacer respetar la prohibición de fumar en el interior de los mismos.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
+Los usuarios están obligados a observar lo establecido en el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### Artículo 15.
 
-En los bares, centros de entretenimiento para adultos y discotecas, los propietarios, responsables, empleados y/o encargados de los mismos, tendrán la obligación de respetar la prohibición de no fumar en dichos lugares.
+En los bares, centros de entretenimiento para adultos y discotecas, los propietarios, responsables, empleados y/o encargados de los mismos, tendrán la obligación de respetar la prohibición de fumar en dichos lugares, excepto en las secciones acondicionadas para fumar.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
 Los usuarios están obligados a observar lo establecido en el párrafo anterior.
 
@@ -319,17 +395,27 @@ II. Contar con un sistema de extracción o purificadores de aire que garantice l
 
 III. Que existan letreros o carteles que provean de información sobre los riesgos y enfermedades que son causadas por el consumo de tabaco, de conformidad con lo que al efecto determine el ISEA.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+En los espacios cien por ciento libres de humo de tabaco, será preciso que los propietarios, poseedores, administradores, responsables o encargados de los mismos, de acuerdo a lo establecido en las disposiciones reglamentarias correspondientes, coloquen en las entradas y en el interior de los mismos, de manera que siempre haya alguno visible, las señalizaciones y letreros que orienten a los empleados, trabajadores, usuarios y visitantes que se trata de un espacio cien por ciento libre de humo de tabaco, que contengan leyendas de advertencia sobre su incumplimiento, el teléfono y el portal de internet o correo electrónico donde se puedan presentar quejas o denuncias.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+De igual forma, en el interior de estos espacios, no deberá existir ningún cenicero o cualquier elemento que incite a fumar, ni residuos de productos de tabaco, aun estando apagados.
+
 ###### Artículo 17.
 
 En los hoteles, los propietarios, administradores, responsables, empleados y/o encargados de los mismos, deberán delimitar como área de no fumar los espacios de uso común, debiéndose colocar los señalamientos que indiquen la prohibición de fumar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 18.
 
-Los propietarios, poseedores o responsables de los locales cerrados, coadyuvarán en forma solidaria con las autoridades correspondientes en la vigilancia de la restricción de no fumar.
+Los propietarios, poseedores o responsables de los espacios cien por ciento libres de humo de tabaco, coadyuvarán en forma solidaria con las autoridades correspondientes en la vigilancia de la prohibición de fumar.
 
-El propietario o titular del establecimiento, o su personal, deberá exhortar, a quien se encuentre fumando fuera de las áreas autorizadas, a que se abstenga de hacerlo, o trasladarse a las áreas autorizadas para tal fin; en caso de negativa, se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de la fuerza pública, afecto de que pongan al infractor a disposición del Juez Calificador competente.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+El propietario, poseedores o administradores del espacio cien por ciento libre de humo de tabaco, o su personal, deberá exhortar, a quien se encuentre fumando fuera de las áreas autorizadas, a que se abstenga de hacerlo, o trasladarse a las áreas autorizadas para tal fin; en caso de negativa, se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de la fuerza pública, a efecto de que pongan al infractor a disposición del Juez Calificador competente.
 
 La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el presente Artículo, terminará en el momento en que el propietario o titular del local o establecimiento de aviso a la fuerza pública.
 
@@ -359,9 +445,11 @@ IV. Delimitar secciones reservadas para no fumadores y para quienes fumen durant
 
 Dichas secciones deberán ser acondicionadas de tal manera que eviten la inhalación de humo producido por la combustión de tabaco en cualquiera de sus formas, para los no fumadores.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### Artículo 22.
 
-(DEROGADO, P.O. 30 DE MARZO DE 2009)
+Todo servidor público del Estado de Aguascalientes, deberá requerir a cualquier persona que se encuentre fumando en un espacio cien por ciento libre de humo de tabaco, a que se abstenga de hacerlo en la oficina o instalación asignada a su servicio, si continúa fumando, deberá pedirle que se traslade a un área al aire libre y, si se niega, pedirle abandone las instalaciones. Si la persona se resiste a abandonar el inmueble, y se trata de un particular, deberá solicitar auxilio a la autoridad correspondiente, para que lo ponga a disposición del Juez Calificador, pero si se trata de un servidor público sujeto a su dirección deberá además reportarlo a la Contraloría del órgano, dependencia o entidad a la que se encuentre adscrito.
 
 ###### Artículo 23.
 
@@ -373,9 +461,11 @@ Los superiores jerárquicos de las oficinas públicas o privadas y responsables 
 
 ### CAPITULO IV. De la Venta del Tabaco
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### Artículo 25.
 
-Las autoridades estatales y municipales, coadyuvarán en el ámbito de su competencia y en los términos que se establece en el Artículo 277 de la Ley General de Salud, en la prohibición de la venta de tabaco en todas sus formas y presentaciones a menores de edad, en farmacias, boticas, escuelas y hospitales.
+Las autoridades estatales y municipales, coadyuvarán en el ámbito de su competencia, en la prohibición de la venta de tabaco en todas sus formas y presentaciones a menores de edad, en farmacias, boticas, escuelas y hospitales.
 
 ### CAPITULO V. De la Divulgación, Concientización y Promoción
 
@@ -415,11 +505,41 @@ Con base en el resultado de la verificación, el ISEA, o en su caso el Municipio
 
 La autoridad competente, hará uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones que procedan.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO VII. De la Participación y Denuncia Ciudadana
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Artículo 33 A.- El ISEA promoverá que la sociedad en general participe activamente en la observancia de esta Ley y su reglamento, con las siguientes acciones:
+
+I. Promocionar espacios cien por ciento libres de humo de tabaco;
+
+II. Denunciar a los establecimientos cerrados donde se permita fumar;
+
+III. Denunciar a quienes vendan, suministren o distribuyan productos de tabaco a menores de edad;
+
+IV. Colaborar en campañas de información y prevención, respecto a los riesgos que entraña el consumo del tabaco y la exposición al humo del mismo, y
+
+V. Fomentar el cumplimiento de las disposiciones legales en materia de control de los productos del tabaco.
+
+Las campañas que se mencionan en el presente Artículo, deberán también ir dirigidas a los hogares y a los usuarios de vehículos particulares, para que las personas que fuman se abstengan de hacerlo en el interior de los mismos o al menos lo eviten cuando estén en presencia de menores de edad, mujeres embarazadas, personas enfermas o con discapacidad y de adultos mayores.
+
+En la elaboración de las campañas mencionadas, siempre se deberá tener enfoque de género y, de proceder, se tomarán en cuenta las características de las comunidades indígenas que residan en el Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Artículo 33 B.- Cualquier ciudadano podrá presentar denuncias ante la autoridad competente en caso de observar el incumplimiento de la Ley, su reglamento o cualquier disposición aplicable en la materia, la cual conocerá del caso y dará el seguimiento necesario, actuando conforme a los procedimientos establecidos en las disposiciones reglamentarias correspondientes.
+
+La autoridad será responsable de salvaguardar la identidad e integridad del ciudadano que interponga la denuncia.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Artículo 33 C.- El ISEA pondrá en operación o vinculará con una línea telefónica preferentemente de acceso gratuito para que los ciudadanos puedan efectuar quejas y sugerencias sobre los espacios cien por ciento libres de humo de tabaco así como el incumplimiento de esta Ley, su reglamento y demás disposiciones aplicables, y domicilio electrónico en donde los ciudadanos podrán presentar sus quejas o enviar las pruebas que acrediten las violaciones a la presente Ley y sus disposiciones reglamentarias, con los datos del lugar, fecha y hora en que ocurrió dicho incumplimiento.
 
 ## TITULO CUARTO. PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPITULO ÚNICO. De los Tipos de Sanciones
+### CAPITULO UNICO
 
 ###### Artículo 34.
 
@@ -473,7 +593,7 @@ Lo no previsto en el presente Capítulo, se aplicará supletoriamente la Ley del
 
 ## TITULO QUINTO. SANCIONES
 
-### CAPITULO UNICO
+### CAPITULO ÚNICO. De los Tipos de Sanciones
 
 ###### Artículo 44.
 
@@ -499,7 +619,9 @@ I. Multa;
 
 II. Arresto hasta por 36 horas; o
 
-III. Clausura Temporal.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+III. Clausura temporal o definitiva, que podrá ser total o parcial.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -521,9 +643,13 @@ B. Obstaculicen la imposición del estado de clausura temporal o definitiva del 
 
 C. Con conocimiento del estado de clausura temporal del local o establecimiento que haga caso omiso de la misma y proporcione el servicio al público, en contravención a lo ordenado en la resolución administrativa respectiva.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-III. Con multa de cincuenta a cien veces el valor diario de la unidad de medida y actualización, a los propietarios, poseedores o responsable de los locales cerrados, establecimientos o medios de transporte, que permitan fumar en lugares prohibidos o contravengan lo dispuesto en el Artículo 12 de la presente ley.
+III. Con multa de cincuenta a cien veces el valor diario de la unidad de medida y actualización, a los propietarios, poseedores o responsable de los locales cerrados, establecimientos o medios de transporte, que permitan fumar en lugares prohibidos o contravengan lo dispuesto en el Artículo 12 de la presente ley; y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+IV. Con multa de cincuenta a cien veces el valor diario de la unidad de medida y actualización, a los propietarios, poseedores o responsables de los locales cerrados o establecimientos que no cumplan en su totalidad con las condiciones y características necesarias exclusivas de las áreas acondicionadas para fumadores, según lo dispuesto en el Artículo 16 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -531,11 +657,19 @@ III. Con multa de cincuenta a cien veces el valor diario de la unidad de medida 
 
 En caso de reincidencia del infractor, se duplicará el monto de la multa que corresponda. Lo anterior sin perjuicios de la clausura temporal o definitiva de los establecimientos, según sea el caso hasta que se subsane la irregularidad detectada.
 
-En caso de continuar con la reincidencia, independientemente de la clausura, se podrá imponer arresto en los términos de la Fracción II del Artículo 45 de esta Ley, a los propietarios o responsables de los establecimientos.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+En caso de reincidencia del infractor tratándose de los supuestos establecidos en las Fracciones XIV, XV y XVI del Artículo 12 de la presente Ley, dará causa de suspensión de la licencia de conducir.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+En caso de continuar con la reincidencia, independientemente de la clausura o suspensión de la licencia de conducir según sea el caso, se podrá imponer arresto en los términos de la Fracción II del Artículo 45 de esta Ley a los propietarios, poseedores o responsables de los locales cerrados, establecimientos o medios de transporte.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 48.
 
-A juicio de la autoridad competente, las sanciones económicas a que se refiere esta Ley, podrán conmutarse total o parcialmente, con la asistencia del infractor a cursos, talleres o su participación en programas permanentes sobre tabaquismo.
+A juicio de la autoridad competente, las sanciones económicas a que se refiere esta Ley en su Artículo 46 Fracción I, podrán conmutarse total o parcialmente, con la asistencia del infractor a cursos, talleres o su participación en programas permanentes sobre tabaquismo.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -566,6 +700,8 @@ El término de prescripción para la aplicación de las sanciones será de un a�
 El monto recaudado por las sanciones económicas, se aplicará expresamente en el programa de prevención del tabaquismo.
 
 ## TITULO SEXTO. RECURSOS
+
+### CAPITULO UNICO
 
 ###### Artículo 53.
 
@@ -646,3 +782,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 305.- SE REFORMAN LOS ARTÍCULOS 2°, 3°, 4°, 8°, 12, 14, 15, 18, 25, 45, 46, 47, 48. SE ADICIONAN LOS ARTÍCULOS 4°, 12, 16, 22; UN CAPITULO VII “DE LA PARTICIPACIÓN Y DENUNCIA CIUDADANA” AL TÍTULO TERCERO “MEDIOS PARA LA PROTECCIÓN A LOS NO FUMADORES” INTEGRADO A LOS ARTÍCULOS 33 A, 33 B, Y 33 C; UNA FRACCIÓN IV AL ARTÍCULO 46; Y UN TERCER PÁRRAFO AL ARTÍCULO 47 DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado, deberá Reformar, Adicionar y/o Derogar de conformidad, el Reglamento de esta Ley, en un plazo máximo de 180 días naturales, contados a partir de su entrada en vigor del presente Decreto.
