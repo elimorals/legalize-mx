@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12109
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-10"
-last_updated: "2017-12-31"
+last_updated: "2018-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 11 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 10 de abril de 2017.
 
@@ -1300,3 +1302,17 @@ P.O. 31 DE DICIEMBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 976.- LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” el 1 de abril de 2017.
+
+TERCERO. Se abroga el Decreto Legislativo No. 639 de fecha 23 de mayo de 2017. En consecuencia, la persona electa mediante dicho Decreto Legislativo, pasa a formar parte de la estructura de la Unidad de Evaluación y Control. Los procedimientos administrativos, así como los asuntos en trámite iniciados por la contraloría interna, con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final, conforme a las disposiciones aplicables vigentes a su inicio. En un plazo no mayor de treinta días hábiles aquellos que no lo fueren así, la Unidad de Evaluación y Control de la Comisión de Vigilancia, continuará con el trámite de los mismos de conformidad con lo establecido en esta Ley y su reglamento.
+
+CUARTO. La Auditoría Superior del Estado deberá realizar las adecuaciones presupuestarias necesarias y transferir al Congreso del Estado, los recursos correspondientes que den cumplimiento al artículo transitorio tercero del presente Decreto.
+
+QUINTO. Tanto el Congreso del Estado, como la Auditoría Superior del Estado disponen de treinta días hábiles contados a partir de la vigencia de este Decreto para realizar las adecuaciones necesarias al Reglamento Interior de la Unidad de Evaluación y Control; y al Reglamento Interior de la Auditoría Superior del Estado.
