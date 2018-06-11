@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-del-municipio-de-solidaridad-16152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2017-12-29"
+last_updated: "2018-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 1999.
 
@@ -165,33 +165,87 @@ LVIII.- Vehículo menor.- Artefacto desprovisto de medios de propulsión, cuya a
 
 LIX.- Vespertino.- Horario comprendido entre las 17:00 y las 19:00 horas del día que requiere de señalamientos y limitaciones de circulación vehicular.
 
-LX.- Vías de pistas separadas.- Aquéllas que tienen la superficie de rodamiento dividida longitudinalmente en dos o más partes, de modo que los vehículos no puedan pasar de una parte a la otra, excepto en los lugares destinados al efecto.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-LXI.- Vía pública.- Toda carretera o calle de jurisdicción Municipal destinada al tránsito libre de vehículos y peatones, sin más limitaciones que las impuestas por la Ley.
+LX.- Área de espera ciclista o caja ciclista: Zona que sirve para que un ciclista se detenga durante el alto de un semáforo;
 
-LXII.- Vías y accesos controlados.- Aquéllos en que la entrada y salida de vehículos se efectúa en lugares específicamente determinados.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-LXIII.- Zona de estacionamiento.- Lugar destinado para el estacionamiento provisional de vehículos.
+LXI.- Comitivas organizadas: Grupos de seis o más peatones o vehículos no motorizados transitando en las vías primarias y secundarias;
 
-LXIV.- Zona de paso o cruce de peatones.- Área de la superficie de rodamiento marcada o no marcada, destinada al paso de peatones. Cuando no está marcada, se considerará como tal la prolongación de la acera o del acotamiento.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-LXV.- Zona de seguridad.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones.
+LXII.- Usuarios vulnerables de la vía: Aquellos usuarios que están expuestos a un mayor peligro durante su circulación en la vía ya que no cuentan con una estructura de protección, por lo que son más propensos a sufrir lesiones graves o incluso perder la vida cuando se ven involucrados en hechos de tránsito;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-LXVI.- Vías Primarias: Son aquellas de mayor longitud, las cuales tienen mayor afluencias (sic) vehicular, pueden ser carreteras, calles de primer cuadro de la ciudad, avenidas, bulevares, ejes viales y otras en las que no se permitirá el estacionamiento ni el tránsito de vehículos muy lentos o muy pesados.
+LXIII.- Vehículo no motorizado: Aquellos vehículos que utilizan tracción humana para su desplazamiento; incluye triciclos y bicicletas asistidas por medios de propulsión independientes del exterior, que desarrollen velocidades máximas de cuarenta kilómetros por hora;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
-LXVII.- Vías Secundarias: Son las que distribuyen el tránsito de las vías locales o domiciliarias a las vías primarias o viceversa y pueden ser entre otras avenidas las calles de apoyo de tipo residencial o industrial.
+LXIV.- Vehículo recreativo: Aquellos utilizados por peatones para actividades lúdicas y deportivas tales como patines, patinetas, patines del diablo y bicicletas para niños de hasta doce años;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 11 DE JUNIO DE 2018)</small>
 
-LXVIII.- Vías Terciarias: Son aquellas calles locales que permiten su acceso directo a las áreas habitacionales, entre otras pueden ser calles rinconadas, cerradas y privadas.
+LXV.- Vía: Espacio físico destinado al tránsito de peatones o vehículos, las cuales pueden ser:
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2017)</small>
+a) Vías de pistas separadas: Aquéllas que tienen la superficie de rodamiento dividida longitudinalmente en dos o más partes, de modo que los vehículos no puedan pasar de una parte a la otra, excepto en los lugares destinados al efecto;
 
-LXVI (SIC). UMA: Unidad de Medida y Actualización.
+b) Vía pública: Toda carretera o calle de jurisdicción Municipal destinada al tránsito libre de vehículos y peatones, sin más limitaciones que las impuestas por la Ley;
+
+c) Vías y accesos controlados: Aquellos en que la entrada y salida de vehículos se efectúa en lugares específicamente determinados;
+
+d) Vías Primarias: Son aquellas de mayor amplitud, las cuales tienen mayor afluencia vehicular, pueden ser carreteras, calles de primer cuadro de la ciudad, avenidas, bulevares, ejes viales y otras en las que no se permitirá el estacionamiento ni el tránsito de vehículos muy lentos o muy pesados;
+
+e) Vías Secundarias: Son las que distribuyen el tránsito de las vías locales o domiciliarias a las vías primarias o viceversa y pueden ser entre otras avenidas las calles de apoyo de tipo residencial o industrial;
+
+f) Vías Terciarias: Son aquellas calles locales que permiten el acceso directo a las áreas habitacionales, entre otras pueden ser calles rinconadas, cerradas y privadas;
+
+g) Vía peatonal: Espacio destinado al tránsito exclusivo o prioritario de peatones, accesible para personas con discapacidad y movilidad limitada, y al alojamiento de instalaciones o mobiliario urbano y en la que el acceso a vehículos está restringida a reglas especificadas en este Reglamento, estas incluyen cruces peatonales; aceras y rampas; camellones e isletas; plazas y parques; puentes peatonales; calles peatonales y andadores; y calles de prioridad peatonal;
+
+h) Vía ciclista: Espacio destinado al tránsito exclusivo o prioritario de vehículos no motorizados, misma que puede ser parte de la superficie de rodadura de las vías o tener un trazo independiente, esta incluye: carril compartido ciclista, ciclocarril y ciclovía;
+
+i) Carril compartido ciclista: Carril ubicado en la extrema derecha del área de circulación vehicular, con un ancho adecuado para permitir que ciclistas y conductores de vehículos motorizados compartan el espacio de forma segura, estos carriles deben contar con dispositivos para regular la velocidad;
+
+j) Ciclocarril: Carril delimitado con marcas en el pavimento destinado exclusivamente para la circulación ciclista;
+
+k) Ciclovía: Carril confinado exclusivo para la circulación ciclista físicamente segregado del tránsito automotor; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+LXVI.- Zona de estacionamiento: Lugar destinado para el estacionamiento provisional de vehículos;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+LXVII.- Zona de paso o cruce de peatones: Área de la superficie de rodamiento marcada o no marcada, destinada al paso de peatones. Cuando no está marcada, se considerará como tal la prolongación de la acera o del acotamiento;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+LXVIII.- Zona de seguridad: Área demarcada sobre la superficie de rodamiento de una vía pública destinada para el uso exclusivo de peatones; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+
+LXIX.- UMA: Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+###### Artículo 2 Bis.
+
+Se dará prioridad en la utilización del espacio vial de acuerdo a la siguiente jerarquía:
+
+a) Peatones, en especial personas con discapacidad y movilidad limitada;
+
+b) Ciclistas;
+
+c) Usuarios del servicio de transporte público de pasajeros;
+
+d) Prestadores del servicio de transporte público de pasajeros;
+
+e) Prestadores del servicio de transporte de carga y distribución de mercancías; y
+
+f) Usuarios de transporte particular automotor y motociclistas.
+
+Todos los usuarios de la vía y en especial los conductores de vehículos motorizados, deben responsabilizarse del riesgo que implican para los demás usuarios de la vía, por lo que su conducción se realizará de manera precautoria y respetando las disposiciones del presente Reglamento.
 
 ###### Artículo 3.
 
@@ -463,11 +517,11 @@ En consecuencia, la sola revisión de documentos no será motivo para detener el
 
 Los peatones deberán cumplir las disposiciones de este Reglamento, las indicaciones de los policías de tránsito y las de los dispositivos para el control de tránsito. Asimismo gozarán de derecho de paso en todas las intersecciones y en las zonas con señalamiento.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 32.
 
-Queda prohibido practicar cualquier clase de juegos en las vías públicas, ya sea en la superficie de rodamiento o en las aceras, así como transitar por esta en patines, triciclos infantiles u otros vehículos similares.
+Queda prohibido practicar cualquier clase de juego en las vías primarias, ya sea en la superficie de rodamiento o en las aceras.
 
 ###### Artículo 33.
 
@@ -535,23 +589,23 @@ Está prohibido viajar en los guardalodos, estribos o en las defensas de los veh
 
 ### CAPÍTULO III. MOTOS Y BICICLETAS
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### Artículo 38.
 
-Para efectos del presente Capítulo se considerarán los triciclos como bicicletas salvo que la naturaleza del vehículo no lo permita. Los conductores de bicicletas deberán mantenerse a la extrema derecha de la vía sobre la que transiten y procederán con cuidado al rebasar vehículos estacionados; no deberán transitar al lado de otra ni sobre las aceras y áreas reservadas al uso exclusivo de peatones.
+Los conductores de vehículos no motorizados deben respetar las reglas descritas en el presente Reglamento, exceptuando aquellas provisiones que por la naturaleza propia de los vehículos no motorizados no sean aplicables.
 
 ###### Artículo 39.
 
 El conductor de una bicicleta o motocicleta deberá ir debidamente colocado en el asiento fijo a la estructura diseñada para tal fin, con una pierna a cada lado del vehículo y mantener sujeto el manubrio con ambas manos.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 40.
 
-En las vías públicas, las bicicletas solo podrán ser ocupadas y conducidas por una sola persona y no deberán llevar pasajeros. Las motocicletas serán tripuladas por una persona y podrán llevar un pasajero en la parte posterior.
+Las bicicletas sólo podrán ser ocupadas y conducidas por una sola persona y no deberán llevar pasajeros, a menos que cuenten con los implementos necesarios para transportar con seguridad a una segunda persona.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
-
-Los triciclos de uso particular solamente podrán circular en vías terciarias y de día, pudiendo llevar un máximo de dos personas como pasajeros.
+Las motocicletas serán tripuladas por una persona y podrán llevar un pasajero.
 
 ###### Artículo 41.
 
@@ -569,9 +623,23 @@ Los ciclistas o motociclistas al circular en horario nocturno, deberán tener fa
 
 Solo podrá transportarse carga en bicicleta o motocicleta cuando el vehículo esté especialmente acondicionado para ello, y de tal manera que no ponga en peligro la estabilidad, dificulte su conducción o que impida la visibilidad del conductor.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
 ###### Artículo 45.
 
-Cuando exista una ciclopista los ciclistas estarán obligados a transitar en ella.
+Los conductores de vehículos no motorizados además tienen las siguientes obligaciones:
+
+I. Donde existan vías ciclistas exclusivas, circular preferentemente por estas, excepto cuando:
+
+a) Estas vías estén impedidas para el libre tránsito a consecuencia de obras públicas o privadas y que se encuentren debidamente señalizadas, eventos que interfieran de forma temporal la circulación o cuando el flujo de ciclistas supere la capacidad de la vía;
+
+b) Circulen en vehículos no motorizados que tengan un ancho mayor a 0.75 m que impida la libre circulación de los demás ciclistas sobre la vía;
+
+c) Se tenga que adelantar a otro usuario; y
+
+d) Vayan a girar hacia el lado contrario en el que se encuentre la vía ciclista o estén próximos a entrar a un predio. En estos casos, los conductores de vehículos no motorizados tienen derecho a ocupar un carril completo.
+
+II. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo y mano, los conductores de vehículos no motorizados que no cumplan con las obligaciones estipuladas en las normas generales de circulación y de este capítulo, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 ###### Artículo 46.
 
@@ -1945,6 +2013,66 @@ Ningún conductor de vehículos podrá rebasar a otro por la izquierda del centr
 
 Ninguna persona deberá abrir las puertas de un vehículo por el lado de la circulación, excepto los conductores que sólo podrán abrir las que les corresponda sin entorpecer la circulación y no la mantendrán abierta por mayor tiempo que el estrictamente necesario para su ascenso y descenso. Queda prohibido a los demás ocupantes del vehículo dejar abiertas las portezuelas o abrirlas, sin cerciorarse antes de que no exista peligro para otros usuarios de la vía.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+###### Artículo 177 Bis.
+
+Los conductores de vehículos no motorizados tienen preferencia de paso sobre los vehículos motorizados:
+
+I. En las intersecciones controladas por semáforos, cuando:
+
+a) La luz verde les otorgue el paso;
+
+b) Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía; y
+
+c) Sigan de frente en la vía y los vehículos motorizados vayan a realizar un giro para incorporarse a una vía transversal.
+
+II. En las intersecciones que no cuenten con semáforos, independientemente de las reglas establecidas en el artículo 154; cuando haya vehículos no motorizados esperando pasar, los conductores de vehículos motorizados deberán frenar y cederles el paso; y
+
+III. Cuando circulen por una vía ciclista exclusiva y los vehículos motorizados vayan a realizar un giro para entrar o salir de un predio.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+###### Artículo 177 Ter.
+
+Los ciclistas que vayan a cruzar una vía secundaria en cuya intersección exista un señalamiento restrictivo de "Alto" o "Ceda el paso", podrán seguir de frente siempre y cuando disminuyan su velocidad, volteen a ambos lados y se aseguren que no existen peatones o vehículos aproximándose a la intersección por la vía transversal. En caso de que existan peatones o vehículos aproximándose, o no existan las condiciones de visibilidad que les permita cerciorarse de que es seguro continuar su camino, los ciclistas deberán hacer alto total, dar el paso o verificar que no se aproxima ningún otro usuario de la vía y seguir de frente con la debida precaución.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Artículo 177 Quatér.- Los ciclistas deberán mantenerse a la derecha de la vía sobre la que transiten, teniendo derecho a ocupar el carril completo correspondiente, debiendo proceder con cuidado al rebasar vehículos estacionados, no deberán transitar al lado de otra bicicleta ni sobre las aceras y áreas reservadas al uso exclusivo de peatones. También tienen prioridad en el uso de la vía, cuando circulen:
+
+I. En calles y carriles compartidos; y
+
+II. En comitivas organizadas, dependiendo del número de participantes podrán utilizar parte o la totalidad de la vía.
+
+Los conductores de vehículos motorizados que no respeten la prioridad de uso de la vía de vehículos no motorizados, serán sancionados según lo establecido en la fracción V del artículo 185 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+Artículo 177 Quintus.- Los vehículos no motorizados preferentemente deben circular por el carril derecho, excepto:
+
+I. En calles compartidas en las que pueden utilizar cualquier carril;
+
+II. Se vaya a realizar un giro a la izquierda, en cuyo caso deberá llegar a la esquina próxima, posarse en el área de espera ciclista, en donde permanecerá hasta que señalamientos viales permitan su incorporación a la izquierda; y
+
+III. Se requiera rebasar a otros vehículos más lentos o existan vehículos parados o estacionados, obstáculos u obras que impiden la utilización del carril.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+###### Artículo 177 Sexies.
+
+Se prohíbe a los conductores de vehículos no motorizados:
+
+I. Circular sobre las aceras y áreas reservadas al uso exclusivo de peatones, con excepción de los niños menores de doce años y los elementos de seguridad pública que conduzcan vehículos no motorizados, salvo que el conductor ingrese a su domicilio o a un estacionamiento, en este caso debe desmontar y caminar;
+
+II. Detenerse sobre las áreas reservadas para el tránsito de peatones;
+
+III. Circular por los carriles centrales o interiores de las vías de acceso controlado y donde así lo indique el señalamiento restrictivo, excepto cuando sea autorizado por la Secretaría General del Ayuntamiento en coordinación con la Dirección General de Seguridad Pública y Tránsito Municipal, quienes determinarán las condiciones y los horarios permitidos;
+
+IV. Circular entre carriles, salvo cuando el ciclista se encuentre con tránsito detenido y busque colocarse en un área de espera ciclista o en un lugar visible para reiniciar la marcha.
+
+Los conductores de vehículos no motorizados que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables, excepto que el incumplimiento de sus obligaciones provoquen un hecho de tránsito, entonces se le aplicará la infracción establecida en el artículo 185 fracción III de este Reglamento.
+
 ### CAPÍTULO XV. HECHOS DE TRÁNSITO
 
 ###### Artículo 178.
@@ -2276,3 +2404,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
 
 SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR JERARQUÍA QUE SE OPONGAN AL PRESENTE ORDENAMIENTO SUBSISTIENDO LAS QUE LO COMPLEMENTAN.
+
+P.O. 11 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD, QUINTANA ROO, APROBADO EN LA TRIGÉSIMA SÉPTIMA SESIÓN ORDINARIA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO, ADMINISTRACIÓN 2016-2018, CELEBRADA EL 08 DE MARZO DE 2018".]
+
+PRIMERO.- LAS PRESENTES REFORMAS Y ADICIONES ENTRARÁN EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR JERARQUÍA QUE SE OPONGAN AL PRESENTE ORDENAMIENTO SUBSISTIENDO LAS QUE LO COMPLEMENTAN.
