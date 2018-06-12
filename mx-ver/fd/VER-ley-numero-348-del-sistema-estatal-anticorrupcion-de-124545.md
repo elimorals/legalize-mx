@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-348-del-sistema-estatal-anticorrupcion-de-124545"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-21"
-last_updated: "2017-11-21"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 348 DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 2018.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 21 de noviembre de 2017.
 
@@ -773,7 +773,9 @@ e. Un integrante que durará en su encargo cinco años.
 
 Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
 
-La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción se llevará a cabo dentro del plazo de diez días posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana, en los términos de los párrafos anteriores.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2018)</small>
+
+La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción se llevará a cabo dentro del plazo de treinta días posteriores a la toma de protesta de los integrantes del Comité de Participación Ciudadana ante la Comisión de Selección, en los términos de los párrafos anteriores.
 
 El inicio de operaciones de la Secretaría Ejecutiva será a más tardar diez días posteriores a la instalación del Comité Coordinador del Sistema Estatal Anticorrupción; el Poder Ejecutivo del Estado proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
 
@@ -804,3 +806,13 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 658 QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
