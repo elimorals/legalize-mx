@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2017-12-15"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -361,9 +361,9 @@ III.- Realizar investigaciones sobre la problemática familiar con el fin de log
 
 IV.- Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo a los sujetos de la asistencia social;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-V.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
+V.- Promover e impulsar el sano crecimiento físico, mental y social de las niñas, niños y adolescentes;
 
 VI.- Fomentar, apoyar, coordinar, vigilar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias.
 
@@ -451,13 +451,17 @@ XXVI.- Establecer programas tendientes a evitar y prevenir el maltrato de los me
 
 XXVII.- Prestar servicios de mediación a través de los Centros que al efecto se establezcan conforme a la ley de la materia;
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-XXVIII.- Brindar atención a víctimas de delitos susceptibles de recibir servicios de asistencia social; y
+XXVIII.- Brindar atención a víctimas de delitos susceptibles de recibir servicios de asistencia social;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXIX.- Fomentar el establecimiento de guarderías para hijas e hijos de madres niñas y adolescentes; y
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2007)</small>
 
-XXIX.- Las demás que establezcan las disposiciones aplicables en la materia.
+XXX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
 ###### ARTICULO 20.
 
@@ -962,3 +966,11 @@ P.O. 15 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-407 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
