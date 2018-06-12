@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2017-09-14"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -185,9 +185,9 @@ d) establecer inmuebles que sirvan como refugio para víctimas y sus descendient
 
 1. Violencia laboral o docente contra la mujer es toda acción u omisión abusiva intencional al poder que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña la autoestima, salud, integridad, libertad o seguridad de la víctima e impide su desarrollo y atenta contra la igualdad. Puede tratarse de un solo evento o una serie de éstos. Esta modalidad de violencia incluye el acoso u hostigamiento sexual.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
-2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima, a negar el goce de licencia de maternidad o de paternidad, al acceso a servicios de guardería o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, la explotación o todo tipo de discriminación por condiciones de género.
+2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima, a negar el goce de licencia de maternidad o de paternidad, al acceso a servicios de guardería o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en el artículo 133 de la Ley Federal del Trabajo, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, la explotación o todo tipo de discriminación por condiciones de género.
 
 3. Constituye violencia docente toda conducta que dañe la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que inflinjan (sic) los directores, maestros o integrantes de las instituciones educativas.
 
@@ -289,13 +289,25 @@ El acoso sexual es una forma de violencia en la que, si bien no existe la subord
 
 1. Son órdenes de protección de emergencia las siguientes:
 
-a) las que determinan que el agresor deba desocupar el domicilio común o familiar donde habita la víctima, sin importar si el agresor acredita derechos reales respecto del inmueble o la titularidad de algún contrato, bastando que la víctima habite ese sitio;
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
-b) la prohibición al agresor de acercarse al domicilio, lugar de trabajo, de estudios, y al de los ascendientes y descendientes de la víctima;
+a) desocupación inmediata por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
 
-c) el propio reingreso de la víctima a su domicilio, hasta que se haya salvaguardado éste; y
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
-d) la prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+b) prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+c) el propio reingreso de la víctima a su domicilio, hasta que se haya salvaguardado éste;
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+d) la prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia; y
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+e) las que se remitan a las autoridades responsables de un centro de trabajo, solicitando se adopten medidas de protección y seguridad internas en favor de la víctima en los casos en que el probable agresor labore en el mismo lugar que ésta, sin afectar los derechos laborales de las partes, durante los efectos a los que se ciña la vigencia de la orden correspondiente.
 
 2. Son órdenes de protección preventivas las siguientes:
 
@@ -603,6 +615,30 @@ g) implementar acciones educativas destinadas a prevenir y atender la violencia 
 
 h) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+###### Artículo 17 Bis.
+
+A la Secretaría del Trabajo le corresponde:
+
+a) impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+b) diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+c) promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+d) diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+e) orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+f) tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+g) celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+h) establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa; e
+
+i) las demás previstas para el cumplimiento de la presente ley.
+
 ###### Artículo 18.
 
 1. A los Sistemas para el Desarrollo Integral de la Familia del Estado y de los Municipios, en el ámbito de sus respectivas competencias, les corresponde:
@@ -840,6 +876,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 14 DE SEPTIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-238 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13 PÁRRAFO 1 INCISO L), Y 17 PÁRRAFO 1 INCISO F); Y SE ADICIONAN El INCISO M) RECORRIÉNDOSE EL ACTUAL M) PARA SER N) AL PÁRRAFO 1 DEL ARTÍCULO 13, Y EL INCISO G) RECORRIÉNDOSE El ACTUAL G) PARA SER H) DEL PÁRRAFO 1 DEL ARTÍCULO 17, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-439 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5, PÁRRAFO 2; Y 10, PÁRRAFO 1 INCISOS A) AL D); Y SE ADICIONAN EL INCISO E) AL PÁRRAFO 1, DEL ARTÍCULO 10; Y ARTÍCULO 17 BIS, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
