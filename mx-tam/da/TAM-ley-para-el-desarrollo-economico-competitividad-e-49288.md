@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2018-03-20"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -81,13 +81,17 @@ VII. Potenciar las condiciones del Estado para la mejora de la promoción econó
 
 VIII. Establecer estrategias tendientes a aumentar la competitividad del Estado y establecerla como una actividad de alta prioridad para el desarrollo del mismo;
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-IX. Obtener y mantener el liderazgo de Tamaulipas en la competitividad nacional; y
+IX. Obtener y mantener el liderazgo de Tamaulipas en la competitividad nacional;
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-X. Favorecer la coordinación entre los diferentes poderes del Estado, las diferentes entidades y organismos estatales y municipales, así como las organizaciones del sector social y privado, para hacer compatibles sus agendas y objetivos particulares y potenciar sus resultados en la mejora del impulso al desarrollo económico y a la competitividad.
+X. Favorecer la coordinación entre los diferentes poderes del Estado, las diferentes entidades y organismos estatales y municipales, así como las organizaciones del sector social y privado, para hacer compatibles sus agendas y objetivos particulares y potenciar sus resultados en la mejora del impulso al desarrollo económico y a la competitividad; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XI. Promover y apoyar el emprendimiento empresarial y el desarrollo de la competitividad de las micro, pequeñas y medianas empresas, con la finalidad de fomentar el empleo y el bienestar social y económico en el Estado.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -97,43 +101,137 @@ Para los efectos de esta Ley se entiende por:
 
 I. Actividad económica: Es la acción o proceso que genera un bien, producto o servicio, tanto con fines lucrativos como no lucrativos, la cual ha sido clasificada de acuerdo con el sistema vigente establecido al efecto por el Instituto Nacional de Estadística y Geografía;
 
-II. Apoyo: Incentivos económicos, fiscales, de servicios e infraestructura que el Gobierno del Estado otorga a los emprendedores, empresarios y empresas para la ejecución de proyectos productivos, que habrán de realizarse a mediano y largo plazo, previo cumplimiento de la normatividad establecida al efecto;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-III. Cadenas productivas: Conjunto de agentes y actividades económicas que intervienen en un proceso productivo, desde la provisión de insumos y materias primas, hasta su transformación y producción de bienes intermedios y finales, así como su comercialización en los mercados internos y externos;
+II. Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de capacitación o tecnológicas, que contribuyen al desarrollo y competitividad de las micro, pequeñas y medianas empresas;
 
-IV. Competitividad: Capacidad territorial, sectorial y de empresa, que como entidad federativa se tiene para mantener sistemáticamente ventajas competitivas, con respecto a otras entidades o regiones en competencia, que le permitan a los ciudadanos alcanzar, sostener y mejorar su nivel de vida, así como la capacidad de crear y retener inversiones y talento;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-V. Consejo: El Consejo Estatal para el Desarrollo Económico y la Competitividad;
+III. Agrupamientos Empresariales: micro, pequeñas y medianas empresas interconectadas, proveedores especializados y de servicios, así como instituciones asociadas dentro de una región del territorio estatal;
 
-VI. Consejo Regional: Cualquiera de los Consejos Regionales de Desarrollo Económico y Competitividad previsto en esta ley;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-VII. Dependencias: Las que se señalan en el artículo 23 de la Ley Orgánica de la Administración Pública del Estado;
+IV. Apoyo: Incentivos económicos, fiscales, de servicios e infraestructura que el Gobierno del Estado otorga a los emprendedores, empresarios y empresas para la ejecución de proyectos productivos, que habrán de realizarse a mediano y largo plazo, previo cumplimiento de la normatividad establecida al efecto;
 
-VIII. Desarrollo económico: Es la creación de riqueza económica para todos los ciudadanos dentro de los diversos estratos de la sociedad, a fin de que puedan tener acceso a un potencial crecimiento en su calidad de vida;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-IX. Ejecutivo Estatal: El Titular del Poder Ejecutivo del Estado de Tamaulipas;
+V. Cadenas productivas: Conjunto de agentes y actividades económicas que intervienen en un proceso productivo, desde la provisión de insumos y materias primas, hasta su transformación y producción de bienes intermedios y finales, así como su comercialización en los mercados internos y externos;
 
-X. Entidades: Las mencionadas en el Capítulo Cuarto de la Ley Orgánica de la Administración Pública del Estado;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-XI. Estado: La entidad federativa de los Estados Unidos Mexicanos denominada Tamaulipas;
+VI. Capacitación: Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
 
-XII. Ley: La Ley para el Desarrollo Económico y la Competitividad del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-XIII. Procesos productivos: Secuencia de actividades requeridas para la elaboración de un producto, de un bien o un servicio;
+VII. Comité: Comité de Incentivos;
 
-XIV. Productividad: Relación entre la producción obtenida por un sistema productivo y los recursos utilizados para obtener dicha producción, en el menor tiempo posible;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-XV. Promoción: Incentivos de capacitación y difusión que el Gobierno del Estado, a través de la Secretaría y demás Dependencias del Poder Ejecutivo Estatal competentes, otorga a los proyectos productivos, con aplicación a corto plazo, para el desarrollo de su crecimiento en forma sostenible y autosustentable;
+VIII. Competitividad: El conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo, las cuales se sustentarán primordialmente en el incremento sostenido de la productividad total de los factores;
 
-XVI. Proyectos productivos: Conjunto de actividades coordinadas y planificadas en torno a un objetivo específico, para la generación de rentabilidad económica ante un capital de inversión dado;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+IX. Consejo: El Consejo Estatal para el Desarrollo Económico y la Competitividad;
 
-XVII. Secretaría: La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-XVIII. Sistema de información: El sistema de información Económica Integral de Tamaulipas; y
+X. Consejo Regional: Cualquiera de los Consejos Regionales de Desarrollo Económico y Competitividad previsto en esta ley;
 
-XIX. Vocación productiva: El uso determinado de una región específica, que ofrece ventajas para el desarrollo sostenible, en función a la inclinación natural a una actividad de su población que es considerada potencialmente productiva.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XI. Consultoría: Servicio empresarial que consiste en la transferencia de conocimientos tecnológicos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que recibe la atención;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XII. Dependencias: Las que se señalan en el artículo 23 de la Ley Orgánica de la Administración Pública del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XIII. Desarrollo económico: Es la creación de riqueza económica para todos los ciudadanos dentro de los diversos estratos de la sociedad, a fin de que puedan tener acceso a un potencial crecimiento en su calidad de vida;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XIV. Ejecutivo Estatal: El Titular del Poder Ejecutivo del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XV. Emprendedores: Mujeres y hombres en proceso de crear o desarrollar una empresa a partir de una idea innovadora o creativa que no cuentan con suficiente experiencia empresarial, tecnológica o financiamiento para materializarla;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XVI. Entidades: Las mencionadas en el Capítulo Cuarto de la Ley Orgánica de la Administración Pública del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XVII. Estado: La entidad federativa de los Estados Unidos Mexicanos denominada Tamaulipas;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XVIII. Estímulo: Beneficio o incentivo de carácter fiscal o no fiscal otorgado por el Ejecutivo del Estado para atraer la instalación y ampliación de empresas.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XIX. Ley: La Ley para el Desarrollo Económico y la Competitividad del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XX. MIPyMEs: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación:
+
+Estratificación por Número de Trabajadores
+
+Sector/Tamaño Industria Comercio Servicios
+
+Micro 0-10 0-10 0-10
+
+Pequeña 11-50 11-30 11-50
+
+Mediana 51-250 31-100 51-100
+
+Se incluyen productores agrícolas, ganaderos, forestales, pescadores, acuicultores, mineros, artesanos y prestadores de servicios turísticos. La Secretaría en común acuerdo con la Secretaría de Finanzas podrán modificar la estratificación establecida a fines de ajustarse a las unidades económicas en el Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXI. Organizaciones Empresariales: Las Cámaras Empresariales, así como las asociaciones, instituciones y agrupamientos que representen a las micro, pequeñas y medianas empresas;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXII. Procesos productivos: Secuencia de actividades requeridas para la elaboración de un producto, de un bien o un servicio;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXIII. Productividad: Relación entre la producción obtenida por un sistema productivo y los recursos utilizados para obtener dicha producción, en el menor tiempo posible;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXIV. Programas: Esquemas para la ejecución de acciones y participación del Estado y los municipios;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXV. Promoción: Incentivos de capacitación y difusión que el Gobierno del Estado, a través de la Secretaría y demás Dependencias del Poder Ejecutivo Estatal competentes, otorga a los proyectos productivos, con aplicación a corto plazo, para el desarrollo de su crecimiento en forma sostenible y autosustentable;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXVI. Proyectos productivos: Conjunto de actividades coordinadas y planificadas en torno a un objetivo específico, para la generación de rentabilidad económica ante un capital de inversión dado;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXVII. Secretaría: La Secretaría de Desarrollo Económico;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXVIII. Sector Público: Dependencias y entidades de la administración pública federal, estatal y municipal;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXIX. Sectores: Los sectores privado, social y del conocimiento;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXX. Sistema de información: El sistema de información Económica Integral de Tamaulipas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JUNIO DE 2018)</small>
+
+XXXI. Vocación productiva: El uso determinado de una región específica, que ofrece ventajas para el desarrollo sostenible, en función a la inclinación natural a una actividad de su población que es considerada potencialmente productiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -153,7 +251,33 @@ I. Integrar, ejecutar y evaluar los programas para el desarrollo económico, la 
 
 II. Formular el inventario de los recursos productivos del Estado, así como de la infraestructura existente, y difundir su potencial para la inversión, sometiéndolo a un proceso permanente de evaluación y actualización;
 
-III. Estimular la creación, consolidación y desarrollo de la micro, pequeña y mediana empresa;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2018)</small>
+
+III. Estimular la creación, consolidación y desarrollo de la micro, pequeña y mediana empresa así como el apoyo a los emprendedores de la siguiente manera:
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+a) Establecer los instrumentos para la evaluación y actualización de las políticas, programas, instrumentos y actividades de fomento para la productividad y competitividad de las MIPyMEs y de los emprendedores, que proporcionen la información necesaria para la toma de decisiones en materia de apoyo empresarial;
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+b) Promover entorno favorable para que las MIPYMES sean competitivas en los mercados nacionales e internacionales, sobre todo en las ramas o cadenas productivas generadoras de más empleo o con mayor posicionamiento en el Estado;
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+c) La adquisición de productos y contratos de servicios competitivos de las MIPYMES por parte del sector público, los consumidores mexicanos e inversionistas y compradores extranjeros, en el marco de la normativa aplicable;
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+d) Esquemas para la modernización, innovación y desarrollo tecnológico en las MIPYMES, así como apoyos de la misma índole a los emprendedores;
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+e) La creación y desarrollo de las MIPYMES sea en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo, y
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+f) La cooperación y asociación de las MIPYMES y de los emprendedores, a través de las cámaras empresariales en el ámbito estatal, regional y municipal, así como de sectores productivos y cadenas productivas.
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -287,9 +411,13 @@ El Consejo podrá recomendar al Ejecutivo Estatal el establecimiento de fideicom
 
 Las facultades y atribuciones del Consejo son:
 
-I. Proponer al Ejecutivo Estatal el otorgamiento de estímulos para apoyar la instalación de empresas, atendiendo los rangos de inversión, número de empleos generados y su ubicación en las zonas de menor crecimiento económico;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-II. Diseñar en forma conjunta con la Secretaría, la Secretaría de Finanzas y los municipios, programas de estímulos fiscales a fin de impulsar las áreas de producción prioritarias para el desarrollo económico de su localidad;
+I. El Consejo autorizará las políticas y programas para el otorgamiento de estímulos para apoyar la instalación de empresas, atendiendo los rangos de inversión, número de empleos generados y su ubicación en las zonas de menor crecimiento económico;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+II. Diseñar en forma conjunta con el Comité los mecanismos e instrumentos para el otorgamiento de estímulos fiscales a fin de impulsar las áreas de producción prioritarias para el desarrollo económico de su localidad;
 
 III. Impulsar los estudios de gran visión que le permitan detectar, analizar y atender los problemas del desarrollo económico y coordinar la atención y solución a los mismos, así como identificar, valorar y establecer prioridades en torno a los proyectos de infraestructura estratégica en los municipios de cada región del Estado para promover su desarrollo;
 
@@ -297,13 +425,15 @@ III. Impulsar los estudios de gran visión que le permitan detectar, analizar y 
 
 IV. Coordinar acciones y emitir recomendaciones al Titular de la Secretaría tendientes a mejorar el orden jurídico aplicable a las actividades productivas y brindar mayor certidumbre a los inversionistas;
 
-V. Designar un Comité para atender las propuestas de otorgamiento de beneficios y estímulos fiscales;
+V. (DEROGADA, P.O. 12 DE JUNIO DE 2018)
 
 VI. Proponer y coordinar acciones que incidan en la simplificación de trámites administrativos para obtener registros, autorizaciones y cumplimiento de obligaciones;
 
 VII. Fomentar acciones destinadas a involucrar a las empresas tamaulipecas en las cadenas productivas y procurar el establecimiento de estrategias para su fortalecimiento;
 
-VIII. Proponer acciones tendientes al desarrollo de proveedores y su integración en la industria maquiladora y petroquímica;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+VIII. Proponer acciones tendientes al desarrollo de proveedores y de los emprendedores, así como su integración con las grandes empresas;
 
 IX. Fortalecer la comunicación con los Consejos Regionales para impulsar proyectos estratégicos, optimizar recursos y multiplicar resultados;
 
@@ -311,9 +441,7 @@ X. Promover acciones y recomendaciones tendientes a mantener un desarrollo equil
 
 XI. Informar al término de cada sesión, en forma oportuna y veraz, sobre las determinaciones que hubiere adoptado y las acciones que realiza el Consejo, con objeto de mantener una adecuada vinculación con la sociedad tamaulipeca;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
-
-XII. Implementar con los gobiernos federal, estatal y municipales estrategias para dar preferencia en la adquisición de bienes y servicios a empresas y empresarios tamaulipecos;
+XII. (DEROGADA, P.O. 12 DE JUNIO DE 2018)
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -323,9 +451,13 @@ XIII. Proponer la entrega de reconocimientos a empresas tamaulipecas que contrib
 
 XIV. Evaluar de forma permanente la aplicación de esta Ley y proponer al Titular de la Secretaría las modificaciones necesarias a efecto de que, en su caso, se presente los proyectos de reforma al Ejecutivo Estatal; y
 
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XV. Estudiar y proponer medidas de apoyo para el desarrollo de la competitividad de las MIPyMEs y los emprendedores, a través del análisis de las propuestas surgidas del sector público y de los sectores; y
+
 > <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
 
-XV. Las demás funciones necesarias para el cumplimiento de su objeto.
+XVI. Las demás funciones necesarias para el cumplimiento de su objeto.
 
 ###### ARTICULO 8°.
 
@@ -365,9 +497,9 @@ V. Por parte de los organismos privados: 3 representantes estatales de las asoci
 
 VI. (DEROGADA, P.O. 2 DE JULIO DE 2014)
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-VII. Por parte de los Consejos Regionales: los presidentes ejecutivos de cada una de las cuatro Regiones en que se divide el Estado conforme a este ordenamiento.
+VII. Por parte de los Consejos Regionales; los presidentes ejecutivos de cada una de las siete Regiones en que se divide el Estado conforme a este ordenamiento.
 
 VIII. (DEROGADA, P.O. 2 DE JULIO DE 2014)
 
@@ -427,11 +559,11 @@ El Presidente Ejecutivo durará en su cargo dos años, pudiendo reelegirse hasta
 
 El Consejo podrá formular recomendaciones a las dependencias y entidades para que el ejercicio de sus atribuciones coadyuve a los objetivos de desarrollo económico, la competitividad y la innovación del Estado, de conformidad con el Plan Estatal de Desarrollo y los programas sectoriales. En todo caso, las dependencias y entidades informarán al Consejo sobre las determinaciones administrativas derivadas de las recomendaciones que reciban, los resultados obtenidos y, en su caso, las dificultades identificadas para su implementación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 11.
 
-El Consejo formará cuatro Consejos Regionales para el Desarrollo y la Competitividad, los cuales tendrán el objetivo de trabajar coordinada y estrechamente con aquél. Los Consejos Regionales ejercerán las facultades y atribuciones que señale el Reglamento de esta Ley, las cuales seguirán los lineamientos establecidos en el artículo 7 de este ordenamiento jurídico, en lo conducente al ámbito regional, a fin de promover el ejercicio de las facultades y atribuciones del Consejo.
+El Consejo formará siete Consejos Regionales para el Desarrollo y la Competitividad, los cuales tendrán el objetivo de trabajar coordinada y estrechamente con aquél. Los Consejos Regionales ejercerán las facultades y atribuciones que señale el Reglamento de esta Ley, las cuales seguirán los lineamientos establecidos en el artículo 7 de este ordenamiento jurídico, en lo conducente al ámbito regional, a fin de promover el ejercicio de las facultades y atribuciones del Consejo.
 
 El Consejo Regional se integra de la siguiente forma:
 
@@ -483,45 +615,101 @@ El Consejo Regional se reunirá y funcionará en los términos que señale el Re
 
 La participación de los miembros del Consejo Regional será honorífica.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 12.
 
 Las Regiones en que se divide el Estado para los efectos de este ordenamiento son las siguientes:
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+I. Región Frontera Nuevo Laredo: Con cabecera en el municipio de Nuevo Laredo; incluye el municipio de Nuevo Laredo;
 
-I. Región Frontera Norte: Con cabecera en el Municipio de Reynosa; incluye los municipios de Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Camargo, Gustavo Díaz Ordaz, Reynosa, Río Bravo, Valle Hermoso, Matamoros, Méndez, San Fernando, Burgos y Cruillas;
+II. Región Ribereña: Con cabecera en el municipio de Miguel Alemán; incluye los municipios de Guerrero, Mier, Miguel Alemán, Camargo y Gustavo Díaz Ordaz;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+III. Región Reynosa: Con cabecera en el municipio de Reynosa; incluye los municipios de Reynosa, Río Bravo, Mendez y Burgos;
 
-II. Región Centro: Con cabecera en el Municipio de Victoria; incluye los municipios de Victoria, Padilla, Casas, Mainero, Abasolo, Villagrán, Güémez, San Carlos, Jiménez, Hidalgo, Llera y San Nicolás;
+IV. Región Matamoros: Con cabecera en el municipio de Matamoros; incluye los municipios de Matamoros, Valle Hermoso, San Fernando y Cruillas;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+V. Región Centro: Con cabecera en el municipio de Victoria; incluye los municipios de Victoria, Padilla, Casas, Mainero, Abasolo, Villagrán, Güémez, San Carlos, Jiménez, Hidalgo, Llera, San Nicolás y Soto La Marina;
 
-III. Región Mante: Con cabecera en el Municipio de El Mante; incluye los municipios de El Mante, Tula, Ocampo, Gómez Farías, Xicoténcatl, González, Jaumave, Miquihuana, Palmillas, Bustamante, Nuevo Morelos y Antiguo Morelos; y
+VI. Región Mante: Con cabecera en el municipio de El Mante; incluye los municipios de El Mante, Tula, Ocampo, Gómez Farías, Xicoténcatl, González, Jaumave, Miquihuana, Palmillas, Bustamante, Nuevo Morelos y Antiguo Morelos;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+VII. Región Sur: Con cabecera en el municipio de Tampico; incluye los municipios de Tampico, Ciudad Madero, Altamira y Aldama.
 
-IV. Región Sur: Con cabecera en el Municipio de Tampico; incluye los municipios de Tampico, Ciudad Madero, Altamira, Aldama y Soto la Marina.
-
-V. (DEROGADA, P.O. 2 DE JULIO DE 2014)
-
-VI. (DEROGADA, P.O. 2 DE JULIO DE 2014)
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
-
-En las propuestas y recomendaciones de los Consejos Regionales correspondientes a las cuatro regiones referidas, se considerará el potencial y la vocación económica del o los municipios que las integran, fomentándose procesos de desarrollo equilibrado entre los municipios de la región correspondiente.
+En las propuestas y recomendaciones de los Consejos Regionales correspondientes a las siete regiones referidas, se considerará el potencial y la vocación económica del o los municipios que las integran, fomentándose procesos de desarrollo equilibrado entre los municipios de la región correspondiente.
 
 ###### ARTICULO 13.
 
 El Consejo podrá proponer la celebración de convenios con otros estados en la búsqueda de fortalezas regionales, nacionales e internacionales, que permitan atraer inversiones, así como elevar la competitividad en el marco de la globalización de la economía.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2018)</small>
+
+### CAPITULO II BIS. DEL COMITÉ DE INCENTIVOS
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+ARTICULO 13 BIS. El Comité de Incentivos estará integrado por cinco miembros, mismos que se mencionan a continuación:
+
+a) El Titular de la Secretaría de Desarrollo Económico, quien fungirá como Presidente.
+
+b) El Titular de la Subsecretaría de Promoción de Inversiones de la Secretaría.
+
+c) El Titular de la Subsecretaría para la Pequeña y Mediana Empresa de la Secretaría.
+
+d) El Titular de la Secretaría de Finanzas.
+
+e) El Presidente Ejecutivo del Consejo Estatal para el Desarrollo Económico y la Competitividad.
+
+Los integrantes del Comité, señalados en el presente artículo, tendrán derecho a voz y voto para determinar las acciones correspondientes a sus facultades y atribuciones.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+ARTICULO 13 TER. Todos los cargos de los integrantes del Comité se entienden otorgados no a las personas sino al cargo de la dependencia que representen; consecuentemente por cada Titular se designará un suplente de la misma dependencia quien deberá sustituir al Titular en caso de ausencia, ejerciendo las mismas facultades de éstos.
+
+A propuesta de cualquiera de sus miembros, en forma temporal y con derecho a voz pero sin voto, el Comité podrá invitar a participar en sus reuniones a representantes de otras dependencias de la administración pública federal, estatal o municipal, así como de los sectores educativo, social y privado y miembros de la sociedad civil que por sus destacadas trayectorias pudieran realizar aportaciones a las sesiones del Comité.
+
+El quórum legal para sesionar el Comité será con la asistencia por mayoría de los miembros integrantes con derecho a voto, o en su caso sus respectivos suplentes. De igual manera, las determinaciones que se emitan en dicha sesión deberán ser aprobadas por la mayoría de los presentes con derecho a voto.
+
+La participación de los miembros del Comité será honorifica.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+ARTICULO 13 QUATER. El Comité contará con un Secretario Técnico que será designado por el Titular de la Secretaría de Desarrollo Económico, quien deberá pertenecer a la estructura de la misma Secretaría, quien tendrá las siguientes facultades:
+
+I. Convocar, por instrucciones del Presidente, a las sesiones del Comité;
+
+II. Ejecutar y dar seguimiento a los acuerdos y resoluciones tomados por el Comité; y
+
+III. Las demás que le señalen otras disposiciones.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+ARTICULO 13 QUINQUIES. El Comité sesionará en forma ordinaria por lo menos una vez cada tres meses y en forma extraordinaria las veces que sea necesario.
+
+Las sesiones podrán ser convocadas por cualquiera de sus integrantes, especificando el orden del día a tratar, el cual deberá ser notificado por lo menos con setenta y dos horas hábiles de anticipación a la fecha de la sesión.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+ARTICULO 13 SEXIES. Las facultades y atribuciones del Comité son:
+
+I. Proponer al Ejecutivo Estatal el otorgamiento de estímulos para apoyar la instalación de empresas, atendiendo los rangos de inversión, número de empleos generados y su nivel de remuneración, edad de personas contratadas o si cuentan con capacidades diferentes; desarrollo científico y tecnológico e innovación; sustitución de importaciones, y su ubicación en parques industriales o zonas de menor crecimiento económico.
+
+II. Diseñar y proponer en forma conjunta con la Secretaría, la Secretaría de Finanzas y los municipios, programas de estímulos fiscales a fin de impulsar las áreas de producción prioritarias para el desarrollo económico de su localidad;
+
+III. Impulsar los estudios de gran visión que le permitan detectar, analizar y atender los problemas del desarrollo económico y coordinar la atención y solución a los mismos, así como identificar, valorar y establecer prioridades en torno a los proyectos de infraestructura estratégica en los municipios de cada región del Estado para promover su desarrollo;
+
+IV. Coordinar acciones y emitir recomendaciones tendientes a mejorar el orden jurídico aplicable a las actividades productivas y brindar mayor certidumbre a los inversionistas;
+
+V. Analizar las solicitudes y aprobar en su caso el monto del porcentaje propuesto respecto al subsidio de los estímulos fiscales, así como también el otorgamiento de los incentivos no fiscales establecidos en esta ley.
+
+VI. Las demás que establezca esta ley, y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+ARTICULO 13 SEPTIES. Atendiendo a lo dispuesto en el presente ordenamiento y en el marco de la competitividad regional para atraer inversiones de alto impacto económico y social, así como para promover la continua expansión de inversiones ya establecidas en el Estado, el Comité de Incentivos, podrá proponer al Ejecutivo la autorización de excepciones en los estímulos fiscales, pagos de derechos y plazos contemplados en esta Ley y en las disposiciones reglamentarias.
+
 ### CAPITULO III. DEL SISTEMA DE INFORMACION ECONOMICA INTEGRAL DE TAMAULIPAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
-
-### CAPITULO IV. DEL OTORGAMIENTO DE ESTIMULOS A LA INVERSION PRODUCTIVA
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 14.
 
@@ -567,153 +755,55 @@ Las dependencias y entidades de la administración pública estatal vinculadas c
 
 La Secretaría podrá celebrar convenios de coordinación y colaboración con entes públicos, dependencias y entidades del Gobierno federal, de otras entidades federativas y de los municipios, así como con instituciones académicas y con los sectores privado y social, para promover su participación en la generación y difusión de la información estadística y geográfica de Tamaulipas.
 
-### CAPITULO V. DEL FONDO TAMAULIPAS
+### CAPITULO IV. DEL OTORGAMIENTO DE ESTIMULOS A LA INVERSION PRODUCTIVA
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 18.
 
-El Consejo y/o la Secretaría, en los términos establecidos en la presente Ley podrán recomendar al Ejecutivo Estatal el otorgamiento de estímulos para apoyar la instalación y ampliación de empresas, atendiendo los rangos de inversión, número de empleos generados y su nivel de remuneración, desarrollo científico y tecnológico e innovación; sustitución de importaciones, y su ubicación en parques industriales o zonas de menor crecimiento económico; de igual forma, podrá diseñar, conjuntamente con la Secretaría, la Secretaría de Finanzas, los Consejos Regionales y los municipios, programas de estímulos fiscales a fin de impulsar las vocaciones productivas de cada región.
+El Consejo, el Comité y/o la Secretaría, podrán recomendar al Ejecutivo Estatal el otorgamiento de estímulos previstos en la presente Ley para apoyar la instalación y ampliación de empresas, atendiendo los siguientes rubros: generación de empleos directos e indirectos, generación de empleos verdes; contratación de estudiantes, personas adultas mayores y/o personas con capacidades diferentes; nivel salarial de los empleos generados; monto y origen de la inversión; inversión en tecnología; proveeduría a empresas del estado y/o el país; diversificación de mercados; prestaciones laborales a sus trabajadores; aplicación de programas de reciclaje; implementación de fuentes de energía renovables no contaminantes; ubicación en parques industriales o zonas de menor crecimiento económico.
+
+En la observancia de las disposiciones inherentes a los procedimientos para el otorgamiento de los estímulos aquí previstos, las autoridades competentes deberán proceder garantizando en lo conducente los principios de equidad e igualdad de género.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 19.
 
-Los estímulos fiscales susceptibles de otorgarse a empresas que se instalen o que amplíen su número de empleos, podrán ser los siguientes:
+Los estímulos fiscales susceptibles de otorgarse a empresas que se instalen o amplíen su número de empleos, se orientarán de conformidad con lo siguiente:
 
-I. Subsidio del pago de impuesto sobre nóminas, total o parcialmente, según Acuerdo Gubernamental publicado en el Periódico Oficial dentro de los tres primeros meses de cada año. Salvo disposición en contrario, el tiempo de la exención no será mayor a dos años.
+I. Subsidio total o parcial al pago de impuesto sobre remuneración al trabajo personal subordinado.
 
-La empresa o industria que anteriormente haya recibido estímulos fiscales y se encuentre en los supuestos del Acuerdo Gubernamental vigente, recibirá la exención parcial o total del impuesto sobre nóminas, sólo por los empleos de nueva creación;
+II. Subsidio total o parcial del pago por concepto de derechos de inscripción del Registro Público de la Propiedad Inmueble y del Comercio, de actas constitutivas de sociedades mercantiles, así como los aumentos de capital, cuyo objeto social contemple el desarrollo de actividades productivas.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+III. Subsidio total o parcial del pago por concepto de derechos de inscripción de contratos de crédito del Registro Público de la Propiedad Inmueble y del Comercio, de acuerdo a las prioridades del desarrollo o impacto social o económico que la empresa genere y que tenga como propósito instalar o ampliar la planta productiva.
 
-II. Subsidio del pago por concepto de derechos de inscripción del Registro Público de la Propiedad Inmueble y del Comercio, de actas constitutivas de sociedades mercantiles, así como los aumentos de capital, cuyo objeto social contemple el desarrollo de actividades productivas; y
+IV. Subsidio total o parcial del pago por concepto de derechos de inscripción del Registro Público de la Propiedad Inmueble y del Comercio, de operaciones de compraventa de terrenos destinados a la construcción de conjunto (sic) habitacionales, plantas industriales y centros comerciales que tengan proyecto e inicien el desarrollo del mismo, en los doce meses posteriores a la fecha en que se realice la compraventa.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+V. Subsidio total o parcial del pago por concepto de derechos por servicios de prevención y control de la contaminación del medio ambiente.
 
-III. Subsidio del pago por concepto de derechos de inscripción de contratos de crédito en el Registro Público de la Propiedad Inmueble y del Comercio, de acuerdo a las prioridades del desarrollo o del impacto social o económico que la empresa genere y que tenga como propósito instalar o ampliar la planta productiva.
-
-Además de los subsidios que señalan las fracciones II y III de este artículo, podrán ser sujeto del mismo, las operaciones de compraventa de terrenos destinados a la construcción de conjuntos habitacionales, plantas industriales y centros comerciales que tengan proyecto e inicien el desarrollo del mismo, en los doce meses posteriores a la fecha en que se realice la compraventa. Los subsidios a que hacen referencia las fracciones II y III, así como este párrafo serán incluidas en el Acuerdo Gubernamental a que hace referencia la fracción I de este artículo.
-
-Las empresas que desarrollen actividades de ciencia y tecnología para mejorar su producción e inviertan en la creación de centros de investigación y desarrollo tecnológico, podrán recibir un estímulo fiscal consistente en 50% del impuesto sobre nóminas durante tres años, para lo cual deberán recibir aprobación por parte del Consejo Tamaulipeco de Ciencia y Tecnología.
-
-Las empresas que inviertan en capacitar a su personal en nuevas tecnologías, a través de convenios con las Universidades e instituciones de educación superior y aprobados por el Consejo Tamaulipeco de Ciencia y Tecnología, podrán recibir un estímulo fiscal consistente en un 50% de la inversión comprobada en dicha capacitación, la cual será acreditada contra su impuesto de nóminas a pagar, hasta agotar dicho importe.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
-
-El Consejo y/o la Secretaría podrá proponer el otorgamiento de estímulos fiscales contenidos en el Acuerdo Gubernamental vigente, sin exceder los porcentajes y plazos máximos establecidos, en apoyo a:
+El Consejo, el Comité y/o la Secretaría podrá proponer el otorgamiento de estímulos fiscales, en apoyo a:
 
 a) Empresas que hayan sido afectadas por fenómenos naturales y destinen dicho recurso mediante convenio expreso, a realizar mejoras específicas a sus instalaciones; y,
 
 b) Empresas de alto impacto en las regiones de menor crecimiento, que mediante convenio y coparticipación empleen dicho recurso en mejoras a la infraestructura eléctrica, vial, hidráulica o de saneamiento en beneficio propio y del Municipio en que se encuentren establecidas, comprometiéndose además a mantener o aumentar su planta laboral.
 
-Para la obtención de los estímulos que señalan en los incisos a) y b) del párrafo anterior, a la solicitud deberán acompañarse planos, proyectos, presupuestos o cotizaciones, carta de apoyo municipal y propuesta de convenio, definiendo claramente los compromisos contraídos en tiempo y forma.
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+c) Empresas que generen empleos verdes.
 
-El Consejo y/o la Secretaría podrá proponer el otorgamiento de estímulos fiscales con respecto al impuesto sobre nóminas, conforme a las previsiones del tabulador que establezca para determinar la contribución de las empresas al desarrollo económico y la competitividad, siempre que: sean de nueva creación; comprueben pagar salarios superiores al mínimo general y no califiquen en alguno de los supuestos de la fracción I de este artículo; desarrollen alta tecnología en sus procesos; sean ecológicamente responsables o estén establecidas en regiones de menor crecimiento en el Estado.
+Para el otorgamiento de los Estímulos Fiscales a que se refiere este artículo se observarán los términos, porcentajes y plazos previstos en las disposiciones reglamentarias de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+Para la obtención de los estímulos que señalan en los incisos a), b) y c) del párrafo anterior, a la solicitud deberán acompañarse planos, proyectos, presupuestos o cotizaciones, carta de apoyo municipal y propuesta de convenio, definiendo claramente los compromisos contraídos en tiempo y forma.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 20.
 
-Las empresas de nueva creación o las ya establecidas que a partir de la entrada de vigor de esta Ley, contraten personas jóvenes, de 60 años de edad o más, o con discapacidad, podrán solicitar el beneficio de los estímulos fiscales siguientes:
+Además de los estímulos fiscales, a propuesta del Comité, Consejo y/o de la Secretaría las empresas que se instalen o que incrementen sus empleos, podrán obtener los siguientes apoyos:
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
-
-I. Bonificación integral del impuesto sobre nóminas correspondiente a las erogaciones efectuadas a personas de 60 años de edad o más, o con alguna discapacidad.
-
-II. Adicionalmente, las de nueva creación con más de 30 trabajadores, bonificación del:
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
-
-a) 25% de subsidio al impuesto sobre nóminas a su cargo, cuando ocupen 10% o más de su planta de trabajadores con personas jóvenes, mayores o con discapacidad; o
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
-
-b) 50% de subsidio al impuesto sobre nóminas a su cargo, cuando ocupen 20% o más de su planta de trabajadores con personas jóvenes, mayores o con discapacidad. Para tener derecho a estos estímulos, los contribuyentes deberán solicitar al Consejo y/o la Secretaría, mediante la presentación de las declaraciones del impuesto sobre nóminas, el número de personas jóvenes, mayores o con discapacidad que trabajen en la empresa y su remuneración. El Consejo y/o la Secretaría resolverán si propone al Ejecutivo el otorgamiento de los estímulos fiscales solicitados.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
-
-Para efectos del presente artículo se entenderá como jóvenes a las personas de 18 a 25 años de edad, incluidos quien en términos de la legislación laboral vigentes sean considerados como trabajadores sin haber cumplido la mayoría de edad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
-
-###### ARTICULO 21.
-
-En el marco de la competitividad regional para atraer inversiones de alto impacto social y económico, a propuesta del Consejo y/o de la Secretaría, el Ejecutivo Estatal podrá otorgar estímulos fiscales hasta por un plazo de diez años a las empresas que se instalen por primera vez o en una región de menor crecimiento del Estado. La propuesta se fundamentará considerando y valorando los siguientes aspectos:
-
-I. Monto de inversión y periodo para realizarlo;
-
-II. Generación de empleos permanentes;
-
-III. Ubicación en zonas de menor crecimiento económico y generación de empleo;
-
-IV. Nivel de remuneración económica a su planta laboral y sus planes de capacitación;
-
-V. Novedad del sector en el ámbito comercial, turístico, industrial o de servicios;
-
-VI. Extracción, transformación y comercialización de productos mineros en el Estado;
-
-VII. Desarrollo de proveedores locales;
-
-VIII. Sustitución de importaciones o aumento de las exportaciones;
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-IX. Empresas socialmente responsables con un estricto cuidado de los recursos naturales, el medio ambiente y el desarrollo sustentable;
-
-X. Nivel de desarrollo científico-tecnológico y de innovación en sus procesos o productos;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
-
-XI. Contribución a la inversión en infraestructura hidráulica, vial, eléctrica o de saneamiento;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
-
-XII. Impacto económico y social del proyecto; y
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
-
-XIII. Así como aquellas empresas que realicen nuevas inversiones que fomenten el desarrollo de los sectores estratégicos establecidos por el Estado.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
-
-Al resolver sobre la solicitud de los estímulos fiscales relacionados con este precepto, se sopesará los aspectos antes enunciados en el contexto de las políticas públicas para el desarrollo equilibrado y sustentable del Estado.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
-
-Las empresas establecidas en el Estado que asuman procesos de modernización de sus procesos productivos con base en tecnologías limpias o que disminuyan el consumo de recursos o las de nueva creación o establecimiento que acrediten adoptar criterios de vanguardia en esos ámbitos, podrán ser acreedores a estímulos fiscales a propuesta de la Secretaría de Desarrollo Urbano y Medio Ambiente ante el Consejo y/o la Secretaría en términos de las hipótesis de las fracciones I, II, y III del artículo 19 de esta Ley, así como en términos del Acuerdo Gubernamental que emita el Ejecutivo del Estado.
-
-###### ARTICULO 22.
-
-Los estímulos fiscales a que se refiere el artículo anterior, consisten en:
-
-I. Subsidio hasta del 100% del impuesto sobre nóminas;
-
-II. Subsidio hasta del 100% en los derechos del Registro Público de la Propiedad y del Comercio; y,
-
-III. Condonación de cobros que realice cualquier dependencia estatal, relacionada con permisos necesarios para iniciar operaciones.
-
-###### ARTICULO 23.
-
-Las empresas que sean beneficiadas con lo dispuesto en el artículo 21 de esta ley, tendrán preferencia en:
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
-
-I. A obtener terrenos disponibles propiedad del Estado o de Fideicomisos en el que este sea fideicomitente, en donación o comodato;
-
-II. Adquisición de terrenos disponibles propiedad del Estado, en venta o renta, a precios competitivos;
-
-III. Realización de obras de infraestructura vial, eléctrica, hidráulica y de saneamiento que permitan la adecuada operación de la empresa; y,
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
-
-IV. Los incentivos señalados en el artículo 24, fracción I, II, III, IV, V, VI y VIII de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
-
-###### ARTICULO 24.
-
-Además de los estímulos fiscales, a propuesta del Consejo y/o de la Secretaría las empresas que se instalen o que incrementen sus empleos y cumplan con los supuestos del artículo 18 de la presente Ley, podrán obtener los siguientes incentivos:
-
-I. Apoyo y gestión ante los Ayuntamientos para obtención de descuentos en el pago de derechos municipales;
+I. Gestión ante los Ayuntamientos para obtención de descuentos en el pago de derechos municipales;
 
 II. Designación de un servidor público del Gobierno del Estado para asesorar, informar, gestionar y apoyar en todo el proceso necesario para iniciar actividades, así como durante su operación;
 
@@ -723,45 +813,77 @@ IV. Preferencia en los programas de becas para la capacitación ofrecidos por el
 
 V. Localización de la mano de obra requerida a través de los medios de comunicación, bolsa de trabajo y ferias de empleo;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
-
 VI. Gestión ante las instancias correspondientes para obtener financiamientos, con tasas y plazos preferenciales;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
-
-VII. Apoyo en la celebración de convenios o de contratos de compra-venta, arrendamiento, donación o comodato de bienes inmuebles disponibles, propiedad de los gobiernos estatal y municipales, y en su caso, de particulares; y
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2014)</small>
+VII. Gestión para la celebración de convenios o de contratos de compra-venta, arrendamiento, donación o comodato de bienes inmuebles disponibles, propiedad de los gobiernos estatal y municipales, y en su caso, de particulares; y
 
 VIII. Cualquier otro estímulo o apoyo que a criterio de la Secretaría coadyuve a la concreción de los fines previstos en la Ley u otro cuerpo normativo aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 21.
+
+Las Empresas interesadas en obtener los Estímulos previstos en el presente capítulo, deberán presentar la solicitud correspondiente con los requisitos señalados en las disposiciones reglamentarias, ante la ventanilla única establecida para tal efecto.
+
+El interesado deberá comprobar estar al corriente en el pago de sus impuestos y contribuciones federales y estatales. El beneficiario deberá ajustarse a lo emitido por la Secretaría de Finanzas respecto a las disposiciones que ésta emita en materia de presentación de declaraciones y pago de contribuciones.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 22.
+
+El Consejo, el Comité y/o la Secretaría contará con un plazo máximo de 30 días hábiles para determinar en su caso, la procedencia de la solicitud de Estímulos fiscales, contados a partir de que la referida solicitud se encuentre debidamente requisitada.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 23.
+
+Las empresas que sean objeto de estímulos fiscales no podrán transferirlos y, en caso de que varíe el número de su planta de trabajadores no ajustándose a las disposiciones reglamentarias que les dio acceso a éstos, deberán de informarlo a la Secretaría en un término no mayor de treinta días naturales.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 24.
+
+En cualquier tiempo, la Secretaría y/o la Secretaría de Finanzas, podrán verificar o inspeccionar que la Empresa observe los requisitos y las condiciones generales y particulares que sirvieron de base para el otorgamiento de los Estímulos.
+
+Para los efectos del párrafo anterior, la Secretaría y/o la Secretaría de Finanzas, podrán auxiliarse de las demás Dependencias del Estado y Entidades Paraestatales.
+
+Las Empresas estarán obligadas a presentar la información que le sea requerida, en un término no mayor a 5 días hábiles, contados a partir de dicho requerimiento. Asimismo estarán obligadas a brindar todas las facilidades para la realización de la verificación o inspección en su caso.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 25.
 
-La Secretaría asignará una ventanilla exclusiva para atención, recepción e información de incentivos, así como su situación y la resolución que se adopte.
+Los Estímulos quedarán sin efectos en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+I. Cuando cumplan el término de su vigencia la cual no podrá exceder de 10 años;
 
-Para obtener los estímulos fiscales señalados en el presente Capítulo, el interesado deberá comprobar estar al corriente en el pago de sus impuestos y contribuciones federales y estatales, así como presentar solicitud a la Secretaría, la cual será remitida, en su caso, al Consejo, para determinar la procedencia o no del estímulo; su decisión será inapelable. El beneficiario deberá acreditar ante la Secretaría de Finanzas la autorización correspondiente y ajustarse a las disposiciones que ésta emita en materia de presentación de declaraciones y pago de contribuciones.
+II. Cuando la Empresa deje de situarse dentro de los supuestos previstos por las disposiciones que sirvieron de sustento para su otorgamiento;
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+III. Cuando el interesado renuncie a los mismos de manera expresa y por escrito, o
 
-El plazo para la resolución de las solicitudes de estímulos recibidas en el marco de la presente Ley, no será mayor a treinta días naturales posteriores a la fecha de su recibo por parte de la Secretaría. En este tenor, cuando la sesión del Comité este fuera del plazo previsto o bien a criterio de la Secretaría no sea prudente su espera, esta resolverá lo conducente e informará al Consejo.
+IV. Por cancelación.
 
-En la aplicación del plazo para la resolución a que se refiere el párrafo anterior, la recepción de la solicitud de estímulos por parte de la Secretaría deberá constar mediante firma, fecha, hora y sello de recibido de la Secretaría. La respuesta al interesado deberá efectuarse acompañada de cédula de notificación personal o por correo certificado.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 26.
 
-Las empresas que sean objeto de estímulos fiscales no podrán transferirlos y, en caso de que varíe el número de su planta de trabajadores no ajustándose a la normatividad que les dio acceso a éstos, deberán de informarlo a la Secretaría en un término no mayor de treinta días naturales.
+Procede la cancelación de los Estímulos, cuando la Empresa:
 
-En cualquier tiempo, la Secretaría de Finanzas podrá verificar el cumplimiento de los requisitos por parte de las empresas beneficiarias de los estímulos a que se refiere este Capitulo y, en su caso, suspender los que les hayan sido otorgados, procediendo a determinar la cancelación de dichos estímulos y a señalar el monto del subsidio indebidamente aplicado.
+I. Aporte información falsa para su obtención;
 
-Al adoptarse la determinación suspensiva se otorgará el derecho de audiencia a la empresa beneficiaria, cuyo desahogo es indispensable para que la Secretaría de Finanzas resuelva lo procedente.
+II. Suspenda sus actividades durante seis meses sin causa justificada;
 
-### CAPÍTULO VI. DEL APOYO A EMPRENDEDORES, MICRO, PEQUEÑA Y MEDIANA EMPRESAS
+III. Los destine a una finalidad diversa para la que se le otorgaron;
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+IV. Incumpla los requisitos y las condiciones generales y particulares que sirvieron de base para su otorgamiento;
+
+V. No se encuentre al corriente de sus obligaciones fiscales.
+
+VI. Los transfiera por cualquier medio; o
+
+VII. Simule acciones para hacerse acreedor a los mismos. Cuando se cancele un Estímulo fiscal, se procederá a la determinación y cobro íntegro de la diferencia de las contribuciones que correspondan a partir de la fecha en que se presente la causa que dio origen a la cancelación, incluyendo sus accesorios, en los términos de las disposiciones aplicables.
+
+### CAPITULO V. DEL FONDO TAMAULIPAS
 
 ###### ARTICULO 27.
 
@@ -775,7 +897,9 @@ III. Elaborar convenios con instituciones bancarias, y dependencias y entidades 
 
 IV. Apoyar la integración y elaboración de expedientes financieros y fichas técnicas de proyectos para la obtención de financiamiento;
 
-V. Facilitar acceso al crédito para capital de trabajo a micro, pequeñas y medianas empresas, de 12 y hasta 36 meses, según su viabilidad;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+V. Facilitar acceso al crédito para capital de trabajo a micro, pequeñas y medianas empresas y a los emprendedores;
 
 VI. Apoyar la capacitación empresarial que tenga como objetivo la mejor administración de recursos financieros en las empresas;
 
@@ -793,13 +917,15 @@ Dicho fondo será administrado por la Secretaría a través de la unidad adminis
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2014)</small>
 
-### CAPITULO VII. DE LA INFRAESTRUCTURA ESTRATEGICA
+### CAPÍTULO VI. DEL APOYO A EMPRENDEDORES, MICRO, PEQUEÑA Y MEDIANA EMPRESAS
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 29.
 
-Se establece como prioritaria la participación coordinada de los sectores público, privado y social en la promoción, creación, operación y apoyo de emprendedores, micro, pequeña y mediana empresa, a efecto de aprovechar su potencial y aptitudes en la generación de empleos, nivel de consumo, integración productiva, y la identidad y desarrollo regional. Para los efectos de esta Ley, se entiende por micro, pequeña y mediana empresa, la clasificación que indique la dependencia de la administración pública federal competente.
+Se establece como prioritaria la participación coordinada de los sectores público, privado y social en la promoción, creación, operación y apoyo de emprendedores, micro, pequeña y mediana empresa, a efecto de aprovechar su potencial y aptitudes en la generación de empleos, nivel de consumo, integración productiva, y la identidad y desarrollo regional.
+
+Para los efectos de esta Ley, se entiende por micro, pequeña y mediana empresa, la clasificación que indique la dependencia de la administración pública estatal competente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -851,17 +977,37 @@ XVIII. Apoyar la elaboración de estudios tendientes a identificar y desarrollar
 
 XIX. Identificar, asesorar y promover los productos hechos en Tamaulipas, elaborando estrategias para mejorar su calidad y competitividad, con el fin de incorporarlos a nuevos mercados en los ámbitos estatal, nacional e internacional;
 
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XX. Diseñar, fomentar y promover la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPyMEs y a los emprendedores, en igualdad de oportunidades para mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXI. Los esquemas a que se refiere el artículo anterior, podrán ser coordinados con las cámaras empresariales, las delegaciones del Gobierno Federal y los municipios, así como con las entidades financieras y fideicomisos estatales;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXII. Procurar esquemas de apoyo a las MIPyMEs y a los emprendedores a través de la concurrencia de recursos federales, estatales y municipales, así como de las cámaras empresariales del Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXIII. Integrar nuevos instrumentos de información, comparación y análisis en apoyo a MIPyMEs considerando las tendencias internacionales de los países con los que México tiene mayor interacción comercial;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXIV. Contar con mecanismos de medición de avances para evaluar el impacto de políticas de competitividad en apoyo a las MIPyMEs y a los emprendedores;
+
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XX. El desarrollo de las vocaciones productivas y ventajas comparativas en las diferentes regiones del Estado;
+XXV. El desarrollo de las vocaciones productivas y ventajas comparativas en las diferentes regiones del Estado;
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-XXI. Promover la creación de políticas públicas para apoyar las Mipyme siniestradas legalmente constituidas, afectadas en sus instalaciones, maquinaria, equipo o arreos de trabajo o sus insumos, a consecuencia de un fenómeno natural o una emergencia o declaratoria de desastre natural emitida por la Secretaría de Gobernación publicada en el Diario Oficial de la Federación; y
+XXVI. Promover la creación de políticas públicas para apoyar las MIPyME (sic) siniestradas legalmente constituidas, afectadas en sus instalaciones, maquinaria, equipo o arreos de trabajo o sus insumos, a consecuencia de un fenómeno natural o una emergencia o declaratoria de desastre natural emitida por la Secretaría de Gobernación publicada en el Diario Oficial de la Federación; y
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-XXII. Así como toda otra acción que sirva de apoyo de los emprendedores, micro, pequeñas y medianas empresas en términos del plan Estatal de Desarrollo, la Ley, suficiencia presupuestal y oportunidad.
+XXVII. Así como toda otra acción que sirva de apoyo de los emprendedores, micro, pequeñas y medianas empresas en términos del Plan Estatal de Desarrollo, la Ley, suficiencia presupuestal y oportunidad.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MARZO DE 2018)</small>
 
@@ -901,7 +1047,9 @@ VIII. Establecer reconocimientos a las mujeres emprendedoras; y
 
 IX. Otorgar incentivos fiscales y administrativos a las mujeres emprendedoras, en los términos que para su efecto establece el Capítulo IV de la presente ley.
 
-### CAPITULO VIII. DE LA PROMOCION DE INVERSIONES
+### CAPITULO VII. DE LA INFRAESTRUCTURA ESTRATEGICA
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 32.
 
@@ -931,7 +1079,7 @@ IX. Recintos fiscalizados estratégicos; y,
 
 X. El Recurso agua.
 
-### CAPITULO IX. DEL COMERCIO EXTERIOR
+### CAPITULO VIII. DE LA PROMOCION DE INVERSIONES
 
 ###### ARTICULO 34.
 
@@ -965,7 +1113,7 @@ El conjunto de actividades que realicen el Poder Ejecutivo y los ayuntamientos d
 
 La búsqueda y mejora de la promoción de inversiones serán actividades y objetivos prioritarios para las dependencias y entidades del Poder Ejecutivo y de los Ayuntamientos, y abarcará el conjunto concatenado de acciones orientadas a la mejora permanente, sustentable y consistente de la competitividad del Estado.
 
-### CAPITULO X. DE LAS SANCIONES Y LOS MEDIOS DE IMPUGNACION
+### CAPITULO IX. DEL COMERCIO EXTERIOR
 
 ###### ARTICULO 35.
 
@@ -1008,6 +1156,8 @@ III. Promover la realización de estudios para detectar necesidades de infraestr
 IV. Delinear planes de trabajo con agrupaciones civiles para la promoción de los servicios de comercio exterior tamaulipecos; y,
 
 V. Impulsar la investigación sobre fuentes alternas de financiamiento para la construcción de infraestructura estratégica en materia de comercio exterior.
+
+### CAPITULO X. DE LAS SANCIONES Y LOS MEDIOS DE IMPUGNACION
 
 ###### ARTICULO 37.
 
@@ -1164,3 +1314,23 @@ P.O. 20 DE MARZO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-424 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, PARA IMPULSAR A LOS EMPRENDEDORES Y LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal en un plazo no mayor a 180 días hábiles posteriores a la publicación de la presente Ley deberá expedir el Reglamento que establezca los términos, porcentajes y plazos para el otorgamiento de los estímulos fiscales previstos.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-425 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, ASÍ COMO DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, PARA INCENTIVAR LA GENERACIÓN DE EMPLEOS VERDES EN LA ENTIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Estado.
