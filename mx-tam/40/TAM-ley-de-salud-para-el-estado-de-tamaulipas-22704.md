@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2017-12-15"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1513,7 +1513,7 @@ La Secretaría determinará la forma de disponer de los productos, subproductos,
 
 ### CAPITULO PRIMERO. DEL DERECHO A LA VIDA Y ORIENTACION SEXUAL
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 88.
 
@@ -1565,7 +1565,7 @@ V.- La promoción de la participación de la comunidad en su prevención.
 
 ###### ARTICULO 92.
 
-La Secretaría de Salud implementará acciones entre las instituciones de salud, las sociedades médicas y de profesionales de la salud, con los adolescentes en edad fértil y padres de familia para crear conciencia sobre el derecho a la vida del individuo concebido y la práctica responsable de la sexualidad.
+La Secretaría de Salud implementará acciones entre las instituciones de salud, las sociedades médicas y de profesionales de la salud, con las niñas, niños y adolescentes en condición fértil y padres de familia para crear conciencia sobre el derecho a la vida del individuo concebido y la práctica responsable de la sexualidad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -3520,3 +3520,11 @@ P.O. 15 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-407 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación (sic) el Periódico Oficial del Estado.
