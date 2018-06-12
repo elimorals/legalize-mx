@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-centros-de-atencion-infantil-del-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2016-12-21"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -99,7 +99,9 @@ XI. Medidas Precautorias: Aquellas que con motivo de la prestación de los servi
 
 XII. Niñas y niños: Toda persona desde los 43 días de nacido hasta los 5 años 11 meses de edad;
 
-XIII. Niñas y niños con discapacidad no dependientes: Los que padezcan algún tipo de discapacidad que contemple la Ley de Integración Social de Personas con Discapacidad en el Estado de Tamaulipas, y que no dependan de algún cuidado o atención especializada, distinto a los que se describen en la presente Ley para la atención de niñas y niños en Centros de Atención;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XIII. Niñas y niños con discapacidad no dependientes: Los que padezcan algún tipo de discapacidad que contemple la Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas, y que no dependan de algún cuidado o atención especializada, distinto a los que se describen en la presente Ley para la atención de niñas y niños en Centros de Atención;
 
 XIV. Prestadores de servicios para la atención, cuidado y desarrollo integral infantil: Aquellas personas físicas o morales que cuenten con licencia emitida por la Secretaría de Salud, para instalar y operar uno o varios Centros de Atención en cualquier modalidad y tipo;
 
@@ -179,9 +181,17 @@ VII. Descanso, esparcimiento, juego y actividades recreativas propias de su edad
 
 VIII. Apoyo al desarrollo biológico, cognitivo, psicomotriz, y socio-afectivo;
 
-IX. Enseñanza del lenguaje y comunicación; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza de las niñas y niños, para fortalecer la comprensión de sus funciones en la educación.
+IX. Enseñanza del lenguaje y comunicación;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza de las niñas y niños, para fortalecer la comprensión de sus funciones en la educación; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XI. Implementar mecanismos de participación de los padres de familia o de quien ejerza la tutela de niñas y niños, respecto de su educación y atención.
 
 ###### ARTÍCULO 11.
 
@@ -197,7 +207,9 @@ La política estatal en la materia deberá tener al menos los siguientes objetiv
 
 I. Garantizar el reconocimiento de la dignidad de las niñas y niños, a partir de la creación de las condiciones necesarias de respeto, protección y ejercicio pleno de sus derechos;
 
-II. Promover el acceso de niñas y niños con discapacidad, que se encuentren en situación de calle, que habiten en el medio rural, migrantes o jornaleros agrícolas, comunidades indígenas y en general población que habite en zonas marginadas o de pobreza, a los servicios que señala esta Ley, sin importar sus condiciones físicas, intelectuales o sensoriales;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+II. Promover el acceso de niñas y niños con discapacidad, que se encuentren en situación de calle, que habiten en el medio rural, migrantes o jornaleros agrícolas, comunidades indígenas y en general población que habite en zonas marginadas o de extrema pobreza, a los servicios que señala esta Ley, sin importar sus condiciones físicas, intelectuales o sensoriales, acorde con los modelos de atención;
 
 III. Definir criterios estandarizados de calidad y seguridad;
 
@@ -205,9 +217,17 @@ IV. Contribuir al mejoramiento progresivo y al fortalecimiento de los servicios 
 
 V. Promover pautas de convivencia familiar y comunitaria fundadas en el respeto, protección y ejercicio de los derechos de las niñas y niños;
 
-VI. Fomentar la igualdad de género; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo.
+VI. Fomentar la igualdad de género;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo, y de los requerimientos y características de los modelos de atención; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+VIII. Implementar mecanismos de participación de padres de familia y de quienes ejercen la tutela de niñas y niños, para el diseño, ejecución, monitoreo y evaluación de los servicios que presten los Centros de Atención.
 
 ## TÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -597,9 +617,11 @@ Los Centros de Atención estarán obligados a recibir en igualdad de condiciones
 
 Los Centros de Atención que otorguen servicios a niñas y niños con discapacidad deberán contar con personal capacitado para atender a dichos usuarios.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 42.
 
-Los Centros de Atención deberán cumplir con los lineamientos en materia de discapacidad contenidos en la Ley de Integración Social de Personas con Discapacidad del Estado de Tamaulipas.
+Los Centros de Atención deberán cumplir con los lineamientos en materia de discapacidad contenidos en la Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas.
 
 ## TÍTULO VI. DE LA LICENCIA DE FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN
 
@@ -719,9 +741,11 @@ IV. Los demás que determinen la Ley General, la presente Ley, su Reglamento y o
 
 2. Los Centros de Atención deberán presentar anualmente el Programa Interno de Protección Civil y la autodeclaratoria de cumplimiento de obligaciones en materia de protección civil a la Coordinación de Protección Civil o Dirección Municipal de Protección Civil. La guía para su elaboración, así como el contenido e instructivo de la autodeclaratoria se especificará en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 58.
 
-Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con las Normas Oficiales Mexicanas correspondientes, la Ley General, esta Ley y su Reglamento.
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, de gas, equipos portátiles y fijos contra incendios, de intercomunicación y especiales, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas correspondientes, la Ley General, esta Ley y su Reglamento.
 
 ###### ARTÍCULO 59.
 
@@ -730,6 +754,10 @@ Los Centros de Atención deben prestar sus servicios preferentemente en la plant
 ###### ARTÍCULO 60.
 
 Con relación a la evacuación de los Centros de Atención, se deberá comprobar periódicamente mediante simulacros, el funcionamiento de todos los elementos de evacuación así como las salidas de emergencia de los mismos en caso de riesgo. Además, se deben prever medidas específicas relacionadas con la evacuación de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+Al diseñar las rutas de evacuación, se deberá tomar en cuenta, además de la seguridad y rapidez, el sitio de refugio al que se les conducirá a niñas, niños y personal que preste sus servicios, el cual tiene que estar lejos del paso de cables que conduzcan energía eléctrica y de ductos que conduzcan gas o sustancias químicas.
 
 ###### ARTÍCULO 61.
 
@@ -774,6 +802,12 @@ XII. No manipular ni tratar de reparar nunca objetos, aparatos o instalaciones r
 XIII. Fijar los aparatos de calefacción, en caso de contar con ellos; y
 
 XIV. Las demás que ordene la Ley Federal sobre Metrología y Normalización, las Normas Oficiales Mexicanas aplicables, la Ley de Protección Civil para el Estado de Tamaulipas, la Ley General, esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 64 BIS.
+
+Los prestadores de servicios para la atención, cuidado y desarrollo integral infantil promoverán la capacitación de su personal, por lo que deberán brindarles las facilidades necesarias para este efecto, de acuerdo a la modalidad correspondiente y sin perjuicio de lo establecido por la legislación laboral.
 
 ## TÍTULO IX. DE LA SUPERVISIÓN DE LOS CENTROS DE ATENCIÓN
 
@@ -1022,3 +1056,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-440 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XIII, DEL ARTÍCULO 6; FRACCIONES IX Y X, DEL ARTÍCULO 10; FRACCIONES II, VI Y VII, DEL ARTÍCULO 12; 42; 58; Y SE ADICIONA LA FRACCIÓN XI, AL ARTÍCULO 10; LA FRACCIÓN VIII, AL ARTÍCULO 12; UN PÁRRAFO SEGUNDO AL ARTÍCULO 60; Y UN ARTÍCULO 64 BIS, A LA LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
