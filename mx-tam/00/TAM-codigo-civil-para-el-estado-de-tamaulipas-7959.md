@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2018-05-22"
+last_updated: "2018-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1845,11 +1845,11 @@ ART. 390 BIS.- A las personas que tienen al menor bajo su patria potestad o cust
 
 Cuando llegue a conocimiento de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público para que promueva lo que corresponda.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
-ART. 391.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+ART. 391.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan niños, niñas y/o adolescentes bajo su custodia, deberán otorgarles orientación, educación, cuidado y disciplina.
 
-La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 298 ter de este Código.
+Queda prohibida la utilización del castigo físico o cualquier otro tipo de trato humillante como forma de corrección o medida disciplinaria, así como los actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 298 ter de este código.
 
 ART. 392.- El que está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sino a través de los que la ejercen. En caso de negativa injustificada de éstos, el juez competente designará un tutor dativo que cumpla con la representación negada.
 
@@ -10362,3 +10362,11 @@ P.O. 22 DE MAYO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-436 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 30, PÁRRAFO PRIMERO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, Y EL ARTÍCULO 391 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
