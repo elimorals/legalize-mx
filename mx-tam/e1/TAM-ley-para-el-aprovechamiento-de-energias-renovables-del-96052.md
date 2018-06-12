@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-aprovechamiento-de-energias-renovables-del-96052"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-24"
-last_updated: "2018-04-05"
+last_updated: "2018-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de septiembre de 2013.
 
@@ -81,15 +81,19 @@ IX. Uso de energía renovable: Son las acciones, estrategias y hábitos encamina
 
 ### CAPÍTULO II. ATRIBUCIONES DEL TITULAR DEL PODER EJECUTIVO DEL ESTADO EN MATERIA DE USO DE ENERGÍA RENOVABLE
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2018)</small>
+
 ###### Artículo 3.
 
-El Titular del Poder Ejecutivo del Estado, a través de la Secretaría tendrá las siguientes atribuciones:
+El titular del Poder Ejecutivo del Estado, a través de la Secretaría tendrá las siguientes atribuciones:
 
 I. Diseñar, difundir, fomentar y ejecutar de acuerdo al Plan Estatal de Desarrollo, el uso e implementación de las energías renovables con las que cuente el Estado;
 
 II. Promover campañas para concientizar sobre el ahorro y uso racional de la energía, así como dar a conocer las energías renovables en los municipios del Estado, su uso y aprovechamiento a las entidades públicas y privadas;
 
-III. Promover acciones y proyectos específicos que repercutan en una cultura de ahorro y uso eficiente de energía acorde con las características de las regiones y municipios del Estado;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+III. Promover acciones y proyectos específicos que repercutan en una cultura de ahorro, uso eficiente de energía y generación de empleos verdes acorde con las características de las regiones y municipios del Estado;
 
 IV. Promover la integración de oficinas municipales especializadas en materia de energías renovables y de acuerdo a las características de cada región;
 
@@ -123,9 +127,11 @@ El Ejecutivo podrá celebrar convenios e instrumentos de coordinación con las i
 
 El Ejecutivo tendrá la atribución de otorgar preseas, incentivos y reconocimientos a los entes públicos y privados, que se destaquen en su labor por el fomento, difusión, uso y aprovechamiento de energías renovables.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+
 ###### Artículo 6.
 
-El Ejecutivo podrá dar estímulos y subsidios a las entidades privadas, organismos no gubernamentales y demás instituciones, en los términos de la legislación fiscal aplicable, que se destaquen por sus acciones y esfuerzos en materia de energías renovables.
+El Ejecutivo podrá dar estímulos y subsidios a las entidades privadas, organismos no gubernamentales y demás instituciones, en los términos de la legislación fiscal aplicable, que se destaquen por sus acciones y esfuerzos en materia de energías renovables o generación de empleos verdes.
 
 ###### Artículo 7.
 
@@ -320,3 +326,11 @@ P.O. 5 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-425 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, ASÍ COMO DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, PARA INCENTIVAR LA GENERACIÓN DE EMPLEOS VERDES EN LA ENTIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de (sic) Estado.
