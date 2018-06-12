@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2017-12-01"
+last_updated: "2018-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -239,13 +239,17 @@ XXVIII.- Promover y fomentar la lectura y el libro;
 
 XXIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-XXX.- Promover el espíritu emprendedor a partir de actitudes creativas, la confianza en sí mismo, el sentido crítico, la iniciativa personal, el trabajo en equipo y la capacidad para asumir responsabilidades; y
+XXX.- Promover el espíritu emprendedor a partir de actitudes creativas, la confianza en sí mismo, el sentido crítico, la iniciativa personal, el trabajo en equipo y la capacidad para asumir responsabilidades;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-XXXI.- Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural.
+XXXI.- Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2018)</small>
+
+XXXII.- Fomentar e implementar durante la educación básica programas y acciones que tengan por objeto promover la orientación vocacional, a fin de favorecer a que los estudiantes creen su proyecto de vida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -304,8 +308,6 @@ III.- Planificar, programar, evaluar y promover la cobertura y las modalidades d
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 IV.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, normal y demás para la formación del magisterio de educación básica. En tales contenidos promoverá asignaturas o unidades sobre el cuidado al medio ambiente y el desarrollo sustentable, la orientación nutricional y el fomento de valores y prácticas sanas y saludables de alimentación, asimismo tomará en cuenta medidas para propiciar la actividad física en los planteles educativos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -387,11 +389,9 @@ XII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento de la L
 
 XIII.- Prestar servicios de información y consulta a través de bibliotecas públicas a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XIV.- Fomentar las actividades de educación física, de cuidado al medio ambiente y el desarrollo sustentable, artísticas, culturales y deportivas en todas sus manifestaciones;
+XIV.- Fomentar las actividades de educación física, de cuidado al medio ambiente y el desarrollo sustentable, artísticas, culturales y deportivas en todas sus manifestaciones; así como efectuar las acciones necesarias para abatir la deserción escolar y la suspensión de estudios de niñas y adolescentes, por razones de embarazo y maternidad;
 
 XV.- Designar el nombre que llevarán las escuelas de nueva creación, de una terna propuesta por las autoridades y padres de familia del plantel; tratándose de nombres de personas, sólo figurarán las ya fallecidas y que hubieran prestado destacados servicios a la sociedad; y
 
@@ -815,11 +815,11 @@ La educación especial deberá incorporar los enfoques de inclusión e igualdad 
 
 Quienes presten servicios educativos en el marco del sistema educativo nacional atenderán las disposiciones en materia de accesibilidad señaladas en la Ley General para la Inclusión de las Personas con Discapacidad, en la Ley General de la Infraestructura Física Educativa, Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas, Ley de Infraestructura Física Educativa para el Estado de Tamaulipas y en las demás normas aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 30.
 
-Al impartir educación a los menores de edad, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su salud e integridad física, psicológica y social, sobre las bases del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad, en un marco de igualdad de género.
+Al impartir educación a los niños, niñas y adolescentes se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad, en un marco de igualdad de género, prohibiéndose, para tal efecto, utilizar el castigo corporal u otra forma de trato humillante contra niños, niñas y adolescentes en cualquier espacio educativo.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -1087,9 +1087,7 @@ A través del proceso educativo se desarrollarán las facultades y aptitudes del
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
-El Estado impulsará la enseñanza de valores éticos universales en la educación básica – preescolar, primaria y secundaria – y media superior, otorgando en forma gratuita los libros y materiales didácticos correspondientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El Estado impulsará la enseñanza de valores éticos universales en la educación básica - preescolar, primaria y secundaria - y media superior, otorgando en forma gratuita los libros y materiales didácticos correspondientes.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -1671,8 +1669,6 @@ VI.- Organizaciones de la sociedad civil cuyo objeto social sea la educación, a
 
 El Consejo Estatal de Participación Social en la educación tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 I.- Promoverá y apoyará actividades extraescolares de carácter cultural, cívico, deportivo, de cuidado al medio ambiente y promoción del desarrollo sustentable y de bienestar social;
@@ -2240,6 +2236,30 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-316 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 15, FRACCIONES IV Y V; Y SE ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 15, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-407 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-435 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXX Y XXXI, DEL ARTÍCULO 8°; Y SE ADICIONA LA FRACCIÓN XXXII, AL ARTÍCULO 8°, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entra en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-436 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 30, PÁRRAFO PRIMERO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, Y EL ARTÍCULO 391 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
