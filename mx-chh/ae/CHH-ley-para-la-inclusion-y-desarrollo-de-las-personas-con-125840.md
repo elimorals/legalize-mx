@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-inclusion-y-desarrollo-de-las-personas-con-125840"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-24"
-last_updated: "2018-01-24"
+last_updated: "2018-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
 
 Ley publicada en el Folleto Anexo al Número 7 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2018.
 
@@ -561,19 +561,37 @@ X. La Secretaría de Desarrollo Urbano y Ecología.
 
 XI. La Secretaría de Comunicaciones y Obras Públicas.
 
-XII. La Secretaría de Cultura.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XIII. La Fiscalía General del Estado.
+XII. El Poder Legislativo del Estado.
 
-XIV. La Comisión Estatal para los Pueblos Indígenas.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XV. Hasta doce personas representantes de organizaciones de la sociedad civil, debidamente constituidas de o para personas con discapacidad, elegidas según lo disponga el Reglamento de la presente Ley.
+XIII. Hasta doce representantes de organizaciones de la sociedad civil, debidamente constituidas de o para personas con discapacidad, elegidos según lo disponga el Reglamento de la presente Ley.
 
-XVI. El Poder Legislativo del Estado.
+XIV. (DEROGADA, P.O. 13 DE JUNIO DE 2018).
 
-XVII. El Poder Judicial del Estado, designación que hará el Consejo de la Judicatura del Estado.
+XV. (DEROGADA, P.O. 13 DE JUNIO DE 2018)
 
-XVIII. La Comisión Estatal de los Derechos Humanos.
+XVI. (DEROGADA, P.O. 13 DE JUNIO DE 2018)
+
+XVII. (DEROGADA, P.O. 13 DE JUNIO DE 2018)
+
+XVIII. (DEROGADA, P.O. 13 DE JUNIO DE 2018)
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Serán invitados permanentes del Consejo, a través de sus titulares o las personas que ellos designen:
+
+La Comisión Estatal de los Derechos Humanos.
+
+La Secretaría de Cultura.
+
+La Fiscalía General del Estado.
+
+La Comisión Estatal para los Pueblos Indígenas.
+
+El Poder Judicial del Estado.
 
 ###### Artículo 32.
 
@@ -587,9 +605,11 @@ El Consejo deberá reunirse en sesión ordinaria cuando menos seis veces al año
 
 Para sesionar válidamente, el Consejo debe reunirse por convocatoria escrita y con cinco días hábiles de antelación. El quórum mínimo se alcanza con la presencia de más de la mitad de sus integrantes.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
+
 ###### Artículo 34.
 
-Quienes integren el Consejo contarán con derecho a voz y voto, con excepción de la Comisión Estatal de los Derechos Humanos, quien tendrá solo derecho a voz. Las decisiones del Pleno deberán tomarse preferentemente por consenso, en caso de empate, quien ocupe la Presidencia contará con voto de calidad.
+Quienes integren el Consejo contarán con derecho a voz y voto, los invitados permanentes no conforman el Consejo y solo tendrán derecho a voz. Las decisiones del Pleno deberán tomarse preferentemente por consenso, en caso de empate, quien ocupe la Presidencia contará con voto de calidad.
 
 ###### Artículo 35.
 
@@ -926,3 +946,11 @@ D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahu
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los doce días del mes de diciembre del año dos mil diecisiete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0758/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
