@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2017-05-31"
+last_updated: "2018-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -203,67 +203,21 @@ XXIV. Las demás que expresamente le señalen la Constitución Política del Est
 
 ### CAPÍTULO II. DE LA ESTRUCTURA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 8.
 
-Al frente de la Auditoría Superior habrá un Auditor Superior, quien será nombrado por el Congreso, a propuesta de la Junta de Coordinación Política, mediante el voto de las dos terceras partes de los diputados presentes de la Legislatura.
+La persona titular de la Auditoría Superior durará en su cargo siete años contados a partir de que asuma su función, y solo se le separará de su cargo por las causas graves previstas en esta Ley, mediando la misma votación requerida que para su nombramiento.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2009)</small>
-
-El Auditor Superior durará en su cargo siete años contados a partir de que asuma su función y sólo será separado de su cargo por las causas graves previstas en esta Ley, mediando la misma votación requerida para su nombramiento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 9.
 
-El nombramiento del Auditor Superior recaerá sobre la persona que cumpla los requisitos siguientes:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-II. Tener cuando menos treinta y cinco años cumplidos al día de su designación;
-
-III. No haber sido condenado por delitos dolosos que ameriten pena privativa de la libertad;
-
-IV. Haber residido en el Estado durante los cinco años anteriores al día de su nombramiento;
-
-V. Contar al día de su designación con Título y Cédula Profesional en alguna de las siguientes profesiones: Contaduría Pública, Economía, Derecho o Administración, con antigüedad mínima de cinco años;
-
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2009)</small>
-
-VI. Acreditar como mínimo cinco años de experiencia en Administración Pública, en materia de control, auditoría financiera y de responsabilidades;
-
-VII. No haber sido titular de alguna de las dependencias en el Gobierno del Estado, Ayuntamientos o que por disposición constitucional estén dotados de autonomía, organismos públicos descentralizados, empresas de participación y fideicomisos de la administración pública estatal y/o municipal, en los últimos dos años;
-
-VIII. No haber sido dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en los comicios, ya sea federal o estatal, inmediato anterior a la designación; y
-
-IX. No ser ministro de culto religioso.
-
-El desempeño del cargo de Auditor Superior es incompatible con cualquier otro empleo, cargo o comisión pública de la Federación o de los Entes Fiscalizables, por los cuales se perciba remuneración, a excepción del ejercicio de las actividades docentes, siempre y cuando las haya venido desempeñando un año antes de la designación.
+(DEROGADO, P.O. 13 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 10.
 
-El Auditor Superior será designado de acuerdo a lo dispuesto por el artículo 64, fracción XLIV de la Constitución Política del Estado, y conforme al procedimiento siguiente:
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
-
-I. La Junta de Coordinación Política formulará la convocatoria correspondiente, a efecto de recibir, durante un periodo de diez días hábiles contados a partir de la fecha de su publicación, las solicitudes para ocupar el cargo de Auditor Superior;
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
-
-II. Concluido el plazo anterior, dentro de los tres días hábiles siguientes, la Junta de Coordinación Política procederá a la revisión y análisis de las solicitudes para determinar cuáles de éstas cumplen con los requisitos contenidos en la convocatoria;
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
-
-III. Agotado el plazo señalando (sic) en la fracción anterior, dentro de los diez días hábiles siguientes, la Junta de Coordinación Política entrevistará a cada uno de los aspirantes que cumplan con los requisitos;
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
-
-IV. Con base en la evaluación de la documentación y del resultado de las entrevistas, la Junta de Coordinación Política procederá a emitir, en un plazo que no excederá de tres días hábiles, el dictamen sobre la terna que deberá presentarse al Pleno Legislativo;
-
-V. El Congreso elegirá de entre los integrantes de la terna, mediante la votación de las dos terceras partes, a quien deba desempeñar el cargo de Auditor Superior; y
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
-
-VI. Si ninguno de los propuestos recibiera la votación requerida, la Junta de Coordinación Política formulará nuevamente una terna, que será sometida a consideración del Pleno de la Asamblea Legislativa.
+(DEROGADO, P.O. 13 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 11.
 
@@ -918,3 +872,15 @@ P.O. 31 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0797/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Especialistas encargado de la selección de la terna de aspirantes a ocupar la titularidad de la Auditoría Superior del Estado, dentro de los veinte días naturales siguientes a la entrada en vigor del presente Decreto.
