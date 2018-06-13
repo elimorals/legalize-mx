@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-archivo-judicial-y-archivos-de-los-organos-87467
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-19"
-last_updated: "2012-04-19"
+last_updated: "2018-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO DEL ARCHIVO JUDICIAL Y ARCHIVOS DE LOS ORGANOS JURISDICCIONALES Y ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JULIO DE 2018 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DEL ARCHIVO JUDICIAL Y ARCHIVOS DE LOS ÓRGANOS JURISDICCIONALES Y ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
 
 Reglamento publicado en Periódico Oficial del Estado de Tamaulipas, el jueves 19 de abril de 2012.
 
@@ -139,7 +141,9 @@ II. Atender y despachar la correspondencia oficial del Archivo del Poder Judicia
 
 III. Supervisar que los empleados del Archivo cumplan con sus obligaciones para los efectos correspondientes;
 
-IV. Proponer al Presidente, para su aprobación y difusión, las políticas en materia archivística;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+IV. Proponer al Presidente y en su caso, al Comité Técnico Consultivo, políticas en materia archivística;
 
 V. Proponer al Presidente la infraestructura necesaria para el funcionamiento de los archivos de trámite, concentración e histórico;
 
@@ -293,11 +297,19 @@ d). Fecha de baja documental.
 
 5. Para el caso de que se reciba alguna contraprestación en numerario, se hará llegar al Fondo Auxiliar para la Administración de Justicia.
 
-6. Se levantará acta circunstanciada por triplicado del procedimiento de destrucción, la cual firmarán el Secretario General de Acuerdos, la Contralora y el titular del Archivo Judicial.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
 
-7. En los órganos jurisdiccionales, firmarán el titular y el Secretario de Acuerdos; en las Dependencias Administrativas el titular, el encargado del archivo y un representante de la Contraloría.
+6. Se levantará acta circunstanciada por triplicado del procedimiento de destrucción, la cual firmarán el Secretario General de Acuerdos, el titular de la Dirección de Contraloría o en su caso un representante de dicha área, y el titular del Archivo Judicial.
 
-8. Del acta de destrucción en cualquier supuesto, se remitirá una copia al Archivo del Poder Judicial.
+En los órganos jurisdiccionales, se seguirá el procedimiento antes mencionado, pero el acta será firmada por el titular y el secretario de acuerdos.
+
+En las dependencias administrativas firmarán el titular, el encargado del archivo de la dependencia y un representante de la Dirección de Contraloría.
+
+Del acta de destrucción, en cualquier supuesto, se remitirá una copia al Archivo del Poder Judicial.
+
+7. (DEROGADO, P.O. 13 DE JUNIO DE 2018)
+
+8. (DEROGADO, P.O. 13 DE JUNIO DE 2018)
 
 ###### Artículo 22.
 
@@ -505,13 +517,17 @@ I. Un Consejero de la Judicatura, quien fungirá como Presidente
 
 II. Un Magistrado del área penal, un magistrado del área civil y familiar;
 
-III. El Director de Finanzas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+III. El Director de Administración;
 
 IV. El Director de Informática;
 
 V. El Contralor;
 
-VI. El Visitador Judicial;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+VI. El Director de la Visitaduría Judicial;
 
 VII. El titular de la Unidad de Información Pública;
 
@@ -521,9 +537,15 @@ IX. Un historiador
 
 Por cada propietario se designará un suplente.
 
-Los integrantes asistirán a las sesiones y ejercerán su derecho a voz y voto.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Los integrantes asistirán a las sesiones y ejercerán su derecho a voz y voto. Las decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente del Comité tendrá voto de calidad.
 
 Los cargos que desempeñen los integrantes del Comité Técnico Consultivo que sean servidores públicos del Poder Judicial serán honoríficos, por lo que no recibirán retribución, compensación o emolumento alguno. Para el caso de los integrantes que no sean servidores públicos, el Presidente podrá determinar una contraprestación bajo la modalidad de servicios profesionales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+A las sesiones del Comité podrán asistir como invitados, y sólo con derecho a voz, aquellas personas que sus integrantes consideren necesarias para el desahogo de algún tema relativo a las funciones del aquél.
 
 El historiador será propuesto por el presidente del Comité Técnico Consultivo.
 
@@ -539,7 +561,9 @@ El Secretario Técnico tendrá por función proporcionar la información que req
 
 El Comité Técnico Consultivo tendrá las siguientes funciones:
 
-I. Elaborar el Cuadro General de Clasificación Archivística;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+I. Proponer al Consejo de la Judicatura políticas y acciones en materia archivística;
 
 II. Elaborar el Catálogo de Disposición Documental, y
 
@@ -566,3 +590,11 @@ Notifíquese. Así lo acordó el Pleno del Consejo de la Judicatura del Estado, 
 Lo que se hace de su conocimiento para los efectos legales conducentes.
 
 Cd. Victoria, Tam, a 13 de abril de 2012. ATENTAMENTE. SUFRAGIO EFECTIVO. NO REELECCIÓN. EL SECRETARIO GENERAL DE ACUERDOS. LIC. JAIME ALBERTO PÉREZ ÁVALOS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JUNIO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 18/2018.]</small>
+
+Segundo.- Para conocimiento oportuno de los interesados, litigantes, autoridades cuya función así lo requiera y público en general, instruméntese la circular correspondiente, publíquese el presente acuerdo en el Periódico Oficial del Estado, en los estrados de la Secretaría General de Acuerdos del Supremo Tribunal de Justicia, en los de la Secretaría Ejecutiva de este Consejo, así como en la página web del Poder Judicial del Estado. Igualmente, comuníquese mediante oficio a los integrantes del Comité Técnico Consultivo del Archivo Judicial, para los efectos legales consiguientes.
