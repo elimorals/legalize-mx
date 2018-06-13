@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2018-06-02"
+last_updated: "2018-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 23 DE JUNIO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -101,9 +105,13 @@ III.- Empresas de propiedad del Estado; y,
 
 IV.- Fideicomisos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 4o.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+Las dependencias y entidades de la Administración Pública Estatal tendrán órganos internos de control, encargados de vigilar que la actuación de las y los servidores públicos esté apegada a la legalidad y que coadyuven a los objetivos sustantivos de esas instituciones, así como de investigar, substanciar y calificar las faltas administrativas en la forma y términos que determinen las leyes en la materia.
+
+Los órganos internos de control se integrarán en los términos previstos en las leyes y reglamentos respectivos y contarán con las facultades que estos determinen; mismos que dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública del Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -197,9 +205,7 @@ La Fiscalía General del Estado contará con las unidades orgánicas, administra
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-###### ARTICULO 13 Bis.
-
-El Fiscal General del Estado será nombrado por el Gobernador y sometido a la aprobación del Congreso del Estado, conforme al siguiente procedimiento:
+ARTICULO 13 BIS. El Fiscal General del Estado será nombrado por el Gobernador y sometido a la aprobación del Congreso del Estado, conforme al siguiente procedimiento:
 
 I. El nombramiento deberá recaer en persona que reúna los requisitos establecidos en el artículo 121, cuarto párrafo, de la Constitución Política del Estado Libre y Soberano de Chihuahua, para lo cual deberá acompañar a su propuesta la documentación que lo compruebe.
 
@@ -214,6 +220,82 @@ V. Una vez que el Congreso apruebe el nombramiento del Fiscal General del Estado
 El procedimiento descrito en las fracciones anteriores se realizará cada vez que se amerite el nombramiento de un nuevo Fiscal General del Estado.
 
 Durante el tiempo que dure el procedimiento para el nombramiento y aprobación del Fiscal General del Estado, el Gobernador designará libre y directamente a quien deba encargarse del despacho de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+ARTICULO 13 TER.- El nombramiento de quien ocupe la titularidad de la Fiscalía Especializada en Combate a la Corrupción se sujetará a lo dispuesto en la Constitución Política del Estado de Chihuahua y al siguiente procedimiento:
+
+I. Se integrará un Panel de nueve Especialistas, quienes conformarán la terna de aspirantes a ocupar el cargo de que se trata, y se designarán de la siguiente manera:
+
+a. Cinco por el Poder Ejecutivo.
+
+b. Cuatro por el Poder Legislativo, a propuesta de la Junta de Coordinación Política.
+
+No podrá haber más de cinco miembros de un mismo sexo.
+
+Quienes integren el Panel de Especialistas desempeñarán su cargo de manera honorífica, y deberán cumplir con los siguientes requisitos:
+
+1. Contar con la ciudadanía mexicana y encontrarse en pleno ejercicio de sus derechos.
+
+2. Tener una edad mínima de treinta años.
+
+3. No haber recibido condena por la comisión de un delito doloso, ni inhabilitación en el servicio público.
+
+4. Acreditar ser personas con experiencia y de reconocida trayectoria en materia de combate a la corrupción.
+
+5. No haber ocupado cargo público, ni haber desempeñado cargo de dirección nacional, estatal o municipal, en algún partido político.
+
+Se exceptúa de lo anterior, el ejercicio de la docencia en instituciones públicas de educación e investigación científica.
+
+6. No haberse registrado como candidata o candidato propietario o suplente por ambos principios, en el proceso electoral inmediato anterior al de su designación.
+
+7. Presentar declaración de inexistencia de conflicto de interés.
+
+La designación de quienes integren el Panel de Especialistas se hará mediante Decreto que al efecto emita el Congreso, mismo que se publicará en los portales de internet de los Poderes Legislativo y Ejecutivo.
+
+La instalación del referido Panel se hará dentro de los cinco días naturales siguientes a la entrada en vigor del citado Decreto.
+
+II. Una vez instalado el Panel de Especialistas, este emitirá una convocatoria pública, dentro de los primeros cinco días naturales siguientes, dirigida a la sociedad en general, para integrar la terna de quienes aspiren a ocupar el cargo de titular de la Fiscalía Especializada en Combate a la Corrupción.
+
+Esta convocatoria deberá publicarse, por una sola ocasión, en el Periódico Oficial del Estado y en los portales de internet de los Poderes Legislativo y Ejecutivo, y deberá mantenerse en estos últimos, por lo menos, por un periodo de quince días naturales.
+
+La convocatoria deberá establecer los requisitos, el procedimiento y los plazos para la selección, con base en lo siguiente:
+
+a. La documentación requerida.
+
+b. Plazos para la inscripción y entrega de documentación.
+
+c. Plazos y el procedimiento para la evaluación del perfil curricular.
+
+d. Criterios de ponderación.
+
+e. Fecha para la celebración de las entrevistas.
+
+f. Procedimiento para la integración de la terna de finalistas.
+
+En la evaluación del perfil de las y los aspirantes se le otorgará mayor ponderación al desempeño en las entrevistas, conforme a los parámetros que acuerde el Panel de Especialistas.
+
+III. Concluido el plazo para la inscripción, dentro de los tres días naturales siguientes, el Panel de Especialistas publicará la lista de personas inscritas y la versión pública del perfil curricular en los portales de internet oficiales de los Poderes Legislativo y Ejecutivo.
+
+IV. Después de publicada la lista referida en la fracción anterior, el Panel de Especialistas, en un plazo que no podrá exceder de los veinte días naturales siguientes, llevará a cabo, al menos, una entrevista a quienes cumplieron con los requisitos previstos en la convocatoria.
+
+Dicha entrevista tendrá por objeto evaluar el perfil y experiencia profesional, habilidades directivas y conocimientos en temas de investigación y substanciación de delitos relacionados con hechos de corrupción.
+
+El Panel de Especialistas acordará el formato y los horarios de las entrevistas, las cuales serán públicas y transmitidas en vivo a través de los medios electrónicos de los cuales disponga el Poder Ejecutivo.
+
+V. Una vez concluidas las entrevistas, dentro de los cinco días naturales siguientes, el Panel de Especialistas, con base en la evaluación curricular y el resultado de aquellas, integrará una terna, misma que entregará al Pleno del Congreso del Estado.
+
+VI. Recibida la terna y la documentación de quienes la integran, el Pleno del Congreso contará con un plazo de treinta días naturales para elegir, mediante el voto de cuando menos las dos terceras partes de las y los diputados presentes, a la persona que ocupará la titularidad de la Fiscalía Especializada en Combate a la Corrupción.
+
+En caso de que la terna enviada al Congreso no alcance la votación requerida o venza el plazo antes señalado, el Panel de Especialistas remitirá una nueva terna, en un plazo que no exceda de diez días naturales. La nueva terna deberá estar integrada, por lo menos, con dos candidatos diferentes a los que integraban la anterior.
+
+De no alcanzarse nuevamente la votación exigida o no haberse designado dentro del plazo previsto, se deberá remitir, por tercera ocasión, nueva terna para la designación respectiva. Si cualquiera de las hipótesis se repite y no se realiza el nombramiento por parte del Congreso, el Titular del Ejecutivo Estatal tendrá la facultad para nombrar a la o el titular de la fiscalía especializada de entre las personas que conformaron la última terna.
+
+Si el Congreso se encontrare en receso, la Diputación Permanente convocará a Periodo Extraordinario para tales efectos.
+
+VII. En caso de que el Panel de Especialistas incumpla con los plazos o procedimientos establecidos en la convocatoria y, como consecuencia de ello, se retrase el procedimiento para nombrar a la persona titular de la Fiscalía Especializada en Combate a la Corrupción, el Poder Legislativo y el Poder Ejecutivo, de manera conjunta, podrán declarar disuelto dicho Panel e integrar uno nuevo en el mismo acto. El nuevo Panel deberá continuar el procedimiento desde la última etapa que haya concluido el anterior.
+
+VIII. En caso de que se genere de manera imprevista la vacante en el cargo de titular de la Fiscalía Especializada en Combate a la Corrupción, el Ejecutivo Estatal designará, libre y directamente, a quien deba encargarse de su despacho, hasta en tanto se realice el nombramiento definitivo.
 
 ###### ARTICULO 14.
 
@@ -379,9 +461,13 @@ IX.- Dirigir y vigilar el cumplimiento de las leyes y reglamentos, con relación
 
 X.- Llevar un registro general de firmas de funcionarios y atender todo lo relativo a la legalización de firmas y certificaciones expedidas por el Ejecutivo;
 
-XI.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2018)</small>
 
-XII.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+XI.- Tramitar los recursos administrativos que competa conocer y resolver a la persona titular del Poder Ejecutivo del Estado, incluyendo aquellos que pretendan combatir actos emitidos por la propia Secretaría General de Gobierno, facultándola para substanciar todas las etapas del procedimiento, excepto la emisión de la resolución definitiva.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2018)</small>
+
+XII.- Representar a la persona titular del Poder Ejecutivo en cualquier procedimiento administrativo o contencioso, así como en cualquier medio de control constitucional, en que sea señalada como parte o tercero, con facultades amplias y necesarias para ejercer dicha representación, salvo que la misma sea asumida por la Consejería Jurídica.
 
 XIII.- (DEROGADA, P.O. 2 DE OCTUBRE DE 2004)
 
@@ -396,8 +482,6 @@ XVI.- Ejercer las funciones que la ley determina en materia de cultos, iglesias,
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 XVII.- En los términos de la Ley respectiva, expedir las licencias definitivas a los negocios donde se expendan, distribuyan o consuman bebidas alcohólicas, y vigilar la correcta aplicación de las disposiciones en esta materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -417,13 +501,9 @@ XXII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
 XXIII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXIV. Intervenir, en auxilio y coordinación con las autoridades federales, en los términos de las leyes vigentes, en materia demográfica, migración, de cultos religiosos, loterías, rifas, sorteos y juegos, clubes de caza, tiro y pesca, así como portación de armas, uso de explosivos, detonantes y pirotecnia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -432,8 +512,6 @@ XXV. Fomentar y apoyar la realización de programas de colaboración intermunici
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 XXVI. Participar en los planes, programas y acciones de población en los términos que establezcan las leyes, así como coordinar y vigilar el funcionamiento del Consejo Estatal de Población, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -517,15 +595,19 @@ XXXII. Llevar y mantener actualizado el registro de proveedores de bienes y serv
 
 XXXIII. Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y sus servidores públicos;
 
-XXXIV. Reclutar y seleccionar al personal en apoyo de las dependencias del Poder Ejecutivo, tramitando dentro del límite de los recursos presupuestales, todo lo relativo a sus nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas; capacitar al personal y llevar los registros del mismo, controlar su asistencia y vacaciones, así como otorgar becas y promover actividades socioculturales y deportivas para los servidores públicos.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-Del mismo modo, expedir los nombramientos de los servidores públicos designados por el Gobernador, cuando éste no lo haga directamente;
+XXXIV. Tramitar todo lo relativo a la contratación, nombramientos, cambios de adscripción, licencias, renuncias y bajas del personal del Poder Ejecutivo; llevar los registros del mismo, controlar su asistencia y vacaciones, así como otorgar becas y promover actividades socioculturales y deportivas para las personas servidoras públicas.
+
+Del mismo modo, expedir los nombramientos de las personas servidoras públicas designadas por quien ocupe la titularidad del Poder Ejecutivo, cuando esta no lo haga directamente.
 
 XXXV. Establecer y mantener actualizadas las categorías de puestos, el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas; de igual manera, establecer las categorías de puestos y tabuladores equivalentes en las entidades de la administración pública paraestatal;
 
 XXXVI. Revisar las solicitudes de incremento salarial y de prestaciones de los servidores públicos del Gobierno del Estado, atendiendo en su caso las negociaciones con las organizaciones sindicales y suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado;
 
-XXXVII. Llevar la Contabilidad Gubernamental, así como promover y aplicar los cambios que se requieran de acuerdo con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+XXXVII. Dirigir el cumplimiento de las disposiciones en materia de Contabilidad Gubernamental de las dependencias y entidades de la Administración Pública Estatal, así como promover y aplicar los cambios que se requieran de acuerdo con las normas aplicables.
 
 XXXVIII. Solicitar a las entidades de la administración pública paraestatal, la información financiera y presupuestal requerida por las comisiones legislativas;
 
@@ -1105,23 +1187,23 @@ XXIII. Las demás que le atribuyan expresamente las leyes, los reglamentos y dem
 
 A la Secretaría de la Función Pública corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-I.- Realizar auditorías integrales a las dependencias y entidades de la administración pública estatal, con objeto de verificar el ingreso y el gasto público; el cumplimiento de los programas del presupuesto de egresos y la evaluación y mejora de la gestión gubernamental;
+I.- Auditar y revisar los ingresos y egresos, el patrimonio, así como el manejo, custodia y aplicación de los fondos, programas, subsidios y demás recursos de las dependencias y entidades de la Administración Pública Estatal. Asimismo, evaluar el cumplimiento de los objetivos y metas contenidos en los planes y programas respectivos, pudiendo requerir la participación de terceras personas que tengan relación o información necesaria en la integración de las mismas, por sí o a través de despachos profesionales independientes.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-II.- Practicar auditorías, revisiones e inspecciones a los municipios, cuando ejecuten programas financiados con recursos federales o estatales, para verificar la correcta aplicación de los mismos, en los términos de las leyes y de los convenios y acuerdos celebrados;
+II.- Practicar auditorías, revisiones e inspecciones a los municipios, cuando ejecuten programas financiados con recursos estatales, para verificar la correcta aplicación de los mismos, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-III.- Promover y supervisar el adecuado funcionamiento de los mecanismos de control de los programas de inversión de la administración pública estatal, así como de aquellos programas convenidos por el Estado con la federación, los municipios y los beneficiarios de los mismos;
+III.- Promover y supervisar el adecuado funcionamiento de los mecanismos de control de los fondos, programas, subsidios y demás recursos de la Administración Pública Estatal, así como de aquellos convenidos por el Estado con la Federación, los municipios y las personas beneficiarias de los mismos.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 IV.- Vigilar el cumplimiento de la normatividad que regula la ejecución de obra pública, las adquisiciones, los arrendamientos y la prestación de servicios.
 
-Así como vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua, demás normatividad en materia de Responsabilidades Administrativas, y en su caso, investigar, determinar y aplicar sanciones de índole administrativa, en la forma y términos que determinen las leyes relativas;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE JUNIO DE 2018)</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -1131,87 +1213,99 @@ V.- Realizar las acciones de fiscalización que se deriven de los convenios o ac
 
 VI.- Promover, en el ámbito de su competencia, la celebración de convenios o acuerdos de coordinación con los ayuntamientos, para impulsar la instrumentación y el fortalecimiento de los sistemas municipales de control de la gestión pública, proporcionándoles la asesoría y el apoyo técnico que en su caso requieran, particularmente por lo que respecta a los recursos concertados con los gobiernos federal y estatal;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-VII.- Recibir y revisar las declaraciones de situación patrimonial de los servidores públicos que corresponda y, en su caso, imponer las sanciones administrativas en la forma y términos que determina la ley de la materia;
+VII.- Recibir y registrar las declaraciones patrimoniales y de intereses de las personas servidoras públicas que tengan esta obligación conforme a la Ley en la materia, así como realizar el análisis de la evolución su patrimonio cuando así se determine, mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-VIII.- Practicar auditorías a las entidades paraestatales y a los municipios cuando utilicen recursos federales o estatales, con motivo del ejercicio de las atribuciones que en esta materia lleve a cabo por sí o por conducto de firmas profesionales independientes;
+VIII.- Auditar la aplicación de los recursos federales, de conformidad con los convenios de colaboración y coordinación que se suscriban en la materia.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-IX.- Seleccionar, con la opinión del Titular de la Secretaría de Hacienda del Estado, los despachos externos de auditores que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a que se refiere la fracción anterior;
+IX.- Seleccionar, con la opinión de la persona titular de la Secretaría de Hacienda, los despachos externos de auditoría que, con base en su solvencia moral, capacidad atribuida y reconocimiento profesional, puedan ser contratados para que practiquen las auditorías a entidades paraestatales.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-X.- Establecer, operar y evaluar los mecanismos destinados a proporcionar a los ciudadanos la atención de sus quejas, solicitudes y denuncias, así como expedir acuerdos, circulares y disposiciones administrativas que implementen las figuras de contralorías sociales y consejos ciudadanos y en general los mecanismos necesarios de participación ciudadana en las dependencias y organismos que integran la Administración Pública Estatal que corresponda, con el objetivo de promover una participación ciudadana activa y eficaz;
+X.- Recibir y tramitar quejas y denuncias que se formulen en contra de personas servidoras públicas de la Administración Pública Estatal, así como de particulares, cuando estos se ubiquen en supuestos de posibles actos u omisiones que puedan constituir responsabilidad administrativa y darle el seguimiento que corresponda conforme a la Ley en la materia.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XI.- Proponer al Titular del Ejecutivo la expedición o reforma de Reglamentos para mejor proveer de la Administración Pública Estatal y disponer de la infraestructura necesaria para implementar la política de Gobierno Abierto y Transparente de la Administración Pública Estatal;
+XI.- Definir la política de gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal, procurando que la información sea oportuna, veraz, confiable y pertinente. Asimismo, establecer las acciones que propicien la transparencia en la gestión pública, la rendición de cuentas y el acceso de particulares a información de calidad. Así como coordinar, dar seguimiento y evaluar las acciones que en la materia realicen las demás dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XII.- Diseñar, implementar, coordinar y evaluar el Control Interno y mejora de los Procesos de las Dependencias y Organismos de la Administración Pública Estatal, así como, proponer al Titular del Ejecutar (sic) la expedición del Código de Conducta y el Reglamento de Integridad para el ejercicio del servicio público de la Administración Pública Estatal;
+XII.- Designar y remover a las personas titulares e integrantes de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal; así como emitir los criterios y lineamientos generales que deben atender estas para cumplir con las actividades inherentes al cargo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XIII.- Proponer al Titular del Ejecutivo las bases, principios y lineamientos de coordinación que permitan el cumplimiento de las obligaciones o facultades de los integrantes del Sistema Estatal Anticorrupción;
+XIII.- Colaborar en el marco del Sistema Nacional Anticorrupción y del Sistema Nacional de Fiscalización y sus homólogos estatales, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes. Así como implementar las acciones que acuerde el Sistema Nacional Anticorrupción y/o su homólogo estatal, en términos de las disposiciones aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+XIV.- (DEROGADA, P.O. 13 DE JUNIO DE 2018)
 
-XIV.- Informar a los integrantes del Sistema Estatal Anticorrupción y al Titular del Ejecutivo del Estado, los resultados de la evaluación sobre la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos, emitiendo recomendaciones a las autoridades que corresponda, las acciones que puedan corregir las irregularidades detectadas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2016)</small>
+XV.- Conocer e investigar los actos u omisiones de las personas servidoras públicas de la Administración Pública Estatal que pudieran ser causa de responsabilidades administrativas, calificarlas como graves o no graves, substanciar y resolver, en su caso, los procedimientos de responsabilidad administrativa, conforme a la Ley de la materia e imponer las sanciones que correspondan. Cuando se trate de actos u omisiones que pudieran ser constitutivos de delitos, deberá hacerlo del conocimiento de la autoridad investigadora competente, en los términos de las leyes aplicables.
 
-XV.- Conocer e investigar los actos u omisiones de los Servidores Públicos de la Administración Pública Estatal que pudieran constituir Responsabilidades Administrativas, en su caso, calificarlas de graves o no graves, substanciar los procedimientos de responsabilidad correspondientes cuando se trate de actos u omisiones no graves, conforme la ley de la materia, imponer las sanciones que correspondan y cuando se trate de sanciones administrativas graves, elaborar el informe de presunta responsabilidad, y presentarlo ante la autoridad sancionadora para la imposición de las sanciones correspondientes, y cuando se trate de actos u omisiones que pudieran ser constitutiva (sic) de delitos, denunciarlo ante la autoridad investigadora competente, en los términos de las leyes aplicables;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+XVI.- En representación del Estado, salvo disposición expresa de la persona titular del Ejecutivo, formular denuncias o demandas, respecto de las responsabilidades penales o de carácter civil en que incurran las personas servidoras públicas de la Administración Pública Estatal, así como ejercitar y desistirse de acciones judiciales, pudiendo conferir y revocar poderes generales y especiales.
 
-XVI.- En representación del Estado, salvo disposición expresa del Gobernador, formular denuncias, querellas o demandas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales, pudiendo conferir y revocar poderes generales y especiales, respecto de las responsabilidades penales o de carácter civil en que incurran los servidores de la administración pública;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XVII.- Vigilar el cumplimiento de las disposiciones legales relacionadas con la Contabilidad Gubernamental en las dependencias y entidades de la Administración Pública Estatal.
 
-XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de auditoría interna, así como vigilar el funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XVIII.- Formular y difundir la normatividad para la formación de estructuras de organización, elaboración de reglamentos interiores, de manuales de procedimientos, de servicios, de organización y demás instrumentos administrativos que formalizan la estructura y el funcionamiento de las dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XVIII.- Formular y difundir la normatividad para la elaboración de manuales de organización, de procedimientos y de servicios, así como de reglamentos interiores y demás instrumentos administrativos que formalizan la estructura y el funcionamiento de las dependencias y entidades de la administración pública estatal;
+XIX.- Colaborar en la planeación y seguimiento del Sistema Estatal de Evaluación del Desempeño, en términos de las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+XX.- Emitir políticas, directrices, normas y criterios técnicos sobre el manejo y explotación de la información a través del uso de conceptos, definiciones, clasificaciones, catálogos genéricos y demás elementos que permitan la homogeneidad y comparación de la información, desde la captación y procesamiento de esta, hasta la etapa de su presentación y su publicación.
 
-XIX. Normar, planear, diseñar y evaluar, conjuntamente con las dependencias y entidades de la administración pública estatal, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para lograr su desarrollo y modernización, evaluando el desempeño de los resultados;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XXI.- Normar y validar la creación y modificación de los sistemas de información de las dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XX. Planear, desarrollar y mantener la infraestructura de tecnología de información y comunicación a nivel competitivo, así como una plataforma de desarrollo de sistemas basada en un modelo integral de datos que permita optimizar las funciones del Ejecutivo;
+XXII.- Vigilar e intervenir en los procedimientos de entrega-recepción en los términos de las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+XXIII.- Verificar la correcta aplicación de los recursos públicos asignados a los programas y proyectos de desarrollo social conforme la normatividad aplicable; así como impulsar la creación de Comités de Contraloría Social, facilitando la información y orientación necesaria para el cumplimiento del objeto de los mismos.
 
-XXI. Desarrollar los sistemas informáticos, con excepción de aquellos sistemas y equipos estratégicos bajo la responsabilidad de otras dependencias;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XXIV.- Establecer las políticas y lineamientos, así como garantizar la implementación de los mecanismos normativos y herramientas metodológicas que aseguren la profesionalización de las personas servidoras públicas de la Administración Pública Estatal.
 
-XXII. Diseñar e implementar el sistema de entrega-recepción en los términos de la ley de la materia;
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+XXV.- Promover el fortalecimiento de una cultura orientada a la mejora permanente de la gestión institucional y de buen gobierno al interior de las dependencias y las entidades de la Administración Pública Estatal, a fin de asegurar el cumplimiento de las normas, metas y objetivos.
 
-XXIII. Intervenir en los supuestos y formas señalados en la Ley de Entrega-Recepción para el Estado de Chihuahua, y
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+XXVI.- Promover la expedición de los códigos de ética, conducta y reglas de integridad específicas en el ejercicio del servicio público de la Administración Pública Estatal.
 
-> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XXIV. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
+XXVII.- Diseñar, dirigir y coordinar la implementación de la política de mejora regulatoria con las dependencias y entidades de la Administración Pública Estatal, enfocándose en la reducción de cargas administrativas en los trámites y servicios del Estado.
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+XXVIII.- Emitir disposiciones para fomentar la creación, modificación o eliminación de normas y regulaciones con la finalidad de fomentar la calidad regulatoria y mejorar el desempeño gubernamental.
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+XXIX.- Coordinar la estrategia de digitalización de los trámites y servicios de la Administración Pública Estatal y de las plataformas digitales para la estandarización y cumplimiento de las obligaciones de transparencia respectivas; así como consolidar el uso y aprovechamiento de las tecnologías de la información, para fomentar canales directos de vinculación con la ciudadanía, administrando a su vez la información generada.
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+XXX.- Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1377,7 +1471,13 @@ F. En materia de Operaciones Estratégicas, las previstas en el apartado B de es
 
 G. En materia de Combate a la Corrupción:
 
-I. Ejercer las atribuciones previstas en el apartado B de este artículo respecto de los delitos relacionados con hechos de corrupción comprendidos en los tipos penales que establece el Código Penal en el Título Décimo Séptimo denominado "Delitos contra el Servicio Público cometidos por Servidores Públicos" y Título Décimo Noveno llamado "Delitos en contra del Adecuado Desarrollo de la Justicia cometidos por Servidores Públicos", así como cualquier otro delito conexo que se tipifique en el mismo Código Penal o en leyes especiales, en cuya comisión hubiese intervenido como autor o partícipe, un servidor público del Estado o de los Municipios o de las entidades de la administración pública paraestatal o paramunicipal, respectivamente, en ejercicio o con motivo de su empleo, cargo o comisión;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
+
+I. Ejercer las atribuciones previstas en el apartado B de este artículo cuando se trate de hechos de corrupción.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Se entenderán como hechos de corrupción aquellas conductas comprendidas en los tipos penales establecidos por el Código Penal del Estado, dentro del Título Décimo Séptimo denominado “Delitos contra el Servicio Público cometidos por Servidores Públicos”, y del Título Décimo Noveno llamado “Delitos en contra del Adecuado Desarrollo de la Justicia cometidos por Servidores Públicos”; así como cualquier otro delito conexo de competencia estatal, en cuya comisión hubiese intervenido como autor o partícipe alguna de las personas señaladas en el artículo 250 del Código Penal del Estado, siempre y cuando hubiera actuado en ejercicio o con motivo de su empleo, cargo o comisión;
 
 II. Recibir denuncias anónimas y realizar las actuaciones necesarias para verificar la veracidad o no de hechos y evidencias para la detección de actos u omisiones que sean constitutivos de un delito relacionado con hechos de corrupción;
 
@@ -1507,29 +1607,45 @@ V. Proponer al Titular del Ejecutivo programas para el aprovechamiento social, p
 
 VI. Determinar las prioridades, analizar y, en su caso, aprobar la formulación de los estudios y proyectos ejecutivos.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
 
-B. La Coordinación de Política Digital será la encargada de diseñar e implementar una estrategia que reduzca la brecha digital en la población, modernice los trámites y servicios de las dependencias a través de su digitalización, genere innovación social y propicie el empoderamiento ciudadano a través de herramientas y aplicaciones tecnológicas que instrumente el estado. Para ello tendrá las siguientes atribuciones:
+B. La Coordinación de Política Digital tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 I. Planear y ejecutar acciones que generen más y mejores condiciones de acceso, uso y apropiación de las tecnologías de la información para la población;
 
-II. Elaborar e implementar la estrategia de digitalización de los trámites y servicios de la administración pública;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-III. Establecer lineamientos para la optimización de la infraestructura informática del Estado;
+II. Establecer lineamientos para la optimización de la infraestructura informática del Estado.
 
-IV. Centralizar la operación de las plataformas digitales de las diversas dependencias del gobierno, para su estandarización y cumplimiento de las obligaciones de transparencia respectivas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-V. Consolidar el uso y aprovechamiento de las tecnologías de la información entre los servidores públicos y la ciudadanía para fomentar canales directos de vinculación y solución de las demandas ciudadanas;
+III. Evaluar periódicamente las políticas digitales creadas para las dependencias gubernamentales a fin de buscar su mejoramiento permanente.
 
-VI. Evaluar periódicamente las políticas digitales creadas para las dependencias gubernamentales con miras a su mejoramiento permanente;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-VII. Administrar la información generada a través de estos canales, para sistematizar la retroalimentación de la población hacia el gobierno;
+IV. Administrar la información generada para sistematizar la retroalimentación de la población hacia el gobierno.
 
-VIII. Ser el enlace con la federación, otras entidades gubernamentales, iniciativa privada y con la ciudadanía en general, en materia de política digital;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-IX. Detectar las necesidades en materia de Tecnología de la Información y Comunicación de la Administración Pública Estatal y recomendar las acciones para su desarrollo y modernización, y
+V. Ser el enlace con la Federación, otras entidades gubernamentales, la iniciativa privada y con la ciudadanía en general, en materia de política digital.
 
-X. Las demás que expresamente le encomienden los reglamentos y acuerdos.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+VI. Detectar las necesidades en materia de tecnología de la información y comunicación de la Administración Pública Estatal, y recomendar las acciones para su desarrollo y modernización.
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+VII. Planear, desarrollar y mantener la infraestructura de tecnología de la información y comunicación a nivel competitivo.
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+VIII. Las demás que expresamente le encomienden los reglamentos y acuerdos.
+
+IX. (DEROGADA, P.O. 13 DE JUNIO DE 2018)
+
+X. (DEROGADA, P.O. 13 DE JUNIO DE 2018)
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -1537,7 +1653,9 @@ C. Para el cumplimiento de sus funciones, y salvo disposición en contrario de l
 
 Así mismo será la encargada de todos los aspectos propios de su naturaleza relacionados con la asesoría jurídica al Gobernador, y los demás asuntos que le encomiende directamente.
 
-ARTICULO 36 BIS.- (DEROGADO, P.O. 19 DE ENERO DE 2005)
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+ARTICULO 36 BIS.- Los procedimientos de reclutamiento, selección y capacitación de las personas servidoras públicas de las dependencias y entidades de la Administración Pública Estatal, deberán atender las políticas y lineamientos que en materia de profesionalización emita la Secretaría de la Función Pública del Estado.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -1567,25 +1685,29 @@ II.- Que en la constitución de su capital se hagan figurar acciones de serie es
 
 III.- Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, junta directiva u órgano de gobierno; designar al presidente, al director, al gerente; o cuando tenga facultades para vetar los acuerdos de la asamblea general de accionistas, del consejo de administración o de la junta directiva u órgano de gobierno equivalente.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
 
-La vigilancia de la participación estatal estará a cargo de los comisarios designados por la Secretaría de la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
+La vigilancia de la participación estatal estará a cargo de los órganos internos de control. Su titular e integrantes se designarán por la Secretaría de la Función Pública del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
 
-ARTICULO 38 BIS.- Las empresas de propiedad estatal son personas morales de derecho público, con patrimonio propio, creadas por el Congreso del Estado en los términos del artículo 64, fracción XLI, de la Constitución Política del Estado, y cuyo objeto sea la realización de una actividad preponderantemente económica y de interés público que se considere prioritaria para el desarrollo del Estado. La vigilancia de la aportación estatal que se destine a la integración de su patrimonio, así como de los excedentes financieros que origine su operación, estará a cargo de los comisarios que designe la Secretaría de la Contraloría del Estado, previa opinión no vinculante del titular de la dependencia coordinadora de sector.
+ARTICULO 38 BIS. Las empresas de propiedad estatal son personas morales de derecho público, con patrimonio propio, creadas por el Congreso del Estado en los términos del artículo 64, fracción XLI de la Constitución Política del Estado, y cuyo objeto sea la realización de una actividad preponderantemente económica y de interés público que se considere prioritaria para el desarrollo del Estado. La vigilancia de la aportación estatal que se destine a la integración de su patrimonio, así como de los excedentes financieros que origine su operación, estará a cargo de los órganos internos de control.
 
 ###### ARTICULO 39.
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles, así como las asociaciones civiles en las que la mayoría de sus asociados o socios sean dependencias o entidades de las mencionadas en la fracción I del artículo anterior, o alguno o varios de ellos se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+La vigilancia de la participación estatal estará a cargo de los órganos internos de control cuya persona titular e integrantes se designarán por la Secretaría de la Función Pública.
+
 ###### ARTICULO 40.
 
 Para los efectos de esta Ley serán empresas de participación estatal minoritaria, las sociedades en las que uno o más organismos descentralizados u otras empresas de participación estatal mayoritaria consideradas conjunta o separadamente, posean acciones o partes del capital que representen menos del 50% y hasta el 25% de aquél.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
 
-La vigilancia de la participación estatal estará a cargo de un Comisario designado por la Secretaría de la Contraloría del Estado, persona que no deberá estar vinculada a la dependencia responsable de la coordinación del sector correspondiente.
+La vigilancia de la participación estatal estará a cargo de los órganos internos de control cuya persona titular e integrantes se designarán por la Secretaría de la Función Pública.
 
 Las relaciones de las empresas de participación estatal minoritaria con la administración pública centralizada o paraestatal, serán las que determine la ley.
 
@@ -1607,17 +1729,15 @@ Las entidades a que se refiere el artículo 3 de esta ley fungirá (sic) como fi
 
 El Gobernador del Estado está facultado para determinar agrupamientos de entidades de la administración pública paraestatal, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo, en cumplimiento de las disposiciones legales aplicables, se realicen a través de la dependencia o entidad que en cada caso designe como coordinadora del sector correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 43.
 
 Corresponderá a la dependencia o entidad encargada de la coordinación del sector a que se refiere el artículo anterior, supervisar la programación, coordinación y evaluación de la operación de las entidades de la administración pública paraestatal que determine el Ejecutivo.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
 
-La supervisión del sistema de control de las entidades paraestatales estará a cargo de la Secretaría de la Contraloría del Estado, en los términos que disponga la Ley de las Entidades Paraestatales del Estado de Chihuahua y demás disposiciones aplicables.
+La supervisión del sistema de control de las entidades paraestatales estará a cargo de la Secretaría de la Función Pública por conducto de los órganos internos de control de las entidades, cuya persona titular e integrantes se designarán por dicha dependencia, en los términos que disponga la Ley de Entidades Paraestatales del Estado de Chihuahua y demás disposiciones aplicables.
 
 ###### ARTICULO 44.
 
@@ -2766,3 +2886,11 @@ El Consejo Estatal de Servicios Inmobiliarios señalado en esta Ley, deberá con
 ###### ARTÍCULO CUARTO.
 
 Hasta en tanto la Secretaría de Innovación y Desarrollo Económico cuente con los recursos humanos y financieros necesarios para llevar a cabo las visitas de verificación previstas en esta Ley, el Ejecutivo del Estado podrá celebrar convenios de colaboración entre sus dependencias centralizadas para el adecuado ejercicio de dichas atribuciones.
+
+P.O. 13 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFLEY/0793/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Especialistas encargado de la selección de la terna de aspirantes a ocupar la titularidad de la Fiscalía Especializada en Combate a la Corrupción, dentro de los veinte días naturales siguientes a la entrada en vigor del presente Decreto.
