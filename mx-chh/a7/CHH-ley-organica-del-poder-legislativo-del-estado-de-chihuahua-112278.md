@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2018-05-16"
+last_updated: "2018-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -575,9 +575,9 @@ IX.- Someter a consideración del Pleno, el Proyecto de Presupuesto de Egresos d
 
 En dicho proyecto, deberá establecerse el monto que se canalizará para llevar a cabo publicaciones que programe el Consejo Editorial, del Comité de Biblioteca.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-X.- Proponer al Pleno los nombramientos de las y los titulares de las Secretarías de Administración, de Asuntos Legislativos, y de Asuntos Interinstitucionales, así como de la Auditoría Superior del Estado, de la Dirección del Instituto de Estudios e Investigación Legislativa y de la Dirección de Archivos.
+X. Proponer al Pleno los nombramientos de las y los titulares de las Secretarías de Administración, de Asuntos Legislativos y de Asuntos Interinstitucionales, así como de la Dirección del Instituto de Estudios e Investigación Legislativa y de la Dirección de Archivos.
 
 XI.- Designar, a más tardar el día último de diciembre del primer año de ejercicio constitucional, a la persona física o moral que llevará a cabo la auditoría anual a los estados financieros de la Legislatura.
 
@@ -1249,9 +1249,15 @@ VII.- Unidad de Igualdad de Género.
 
 VIII.- Dirección de Archivos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 125.
 
-Los(as) titulares de los órganos técnicos a que se refiere el artículo anterior, serán nombrados por el Pleno, a propuesta de la Junta de Coordinación Política.
+Las personas titulares de los órganos técnicos a que se refiere el artículo anterior, serán nombradas por el Pleno, a propuesta de la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Por lo que se refiere al nombramiento de quien ocupe la titularidad de la Auditoría Superior del Estado, se sujetará al procedimiento establecido en la Constitución Política del Estado y al Capítulo V del Título Sexto de esta Ley.
 
 ###### ARTÍCULO 126.
 
@@ -1297,7 +1303,9 @@ V.- No haber sido dirigente de algún partido político, ni haber sido postulado
 
 VI.- No ser ministro de culto religioso.
 
-Quien ocupe el cargo de titular de la Auditoría Superior del Estado, se observarán, además, los requisitos previstos en el Capítulo V de este Título.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Quien ocupe el cargo de titular de la Auditoría Superior del Estado deberá cumplir con los requisitos previstos en la Constitución Política del Estado y sujetarse al procedimiento señalado en el Capítulo V de este Título.
 
 ### CAPÍTULO IV. DE LA SECRETARÍA DE ASUNTOS INTERINSTITUCIONALES
 
@@ -1453,19 +1461,91 @@ XX.- Atender las demás actividades que le señalen la presente Ley y otros orde
 
 La Auditoría Superior del Estado es un órgano del Congreso que tendrá autonomía técnica, presupuestal, orgánica, funcional, normativa y de gestión, y le corresponde el despacho de los asuntos que le encomienda la Constitución del Estado, este ordenamiento, sus reglamentos, su propia Ley y las demás disposiciones jurídicas que de ellas emanen.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 133.
 
-Para su nombramiento se estará a lo dispuesto en la Constitución Política del Estado, en la Ley de la materia y se ajustará, además de lo dispuesto en el artículo 128 de esta Ley, a los siguientes requisitos:
+El nombramiento de quien ocupe la titularidad de la Auditoría Superior del Estado se sujetará a lo dispuesto en la Constitución Política del Estado y al siguiente procedimiento:
 
-I.- Tener cuando menos treinta y cinco años cumplidos al día de su designación.
+I. Se integrará un Panel de nueve Especialistas, quienes conformarán la terna de aspirantes a ocupar el cargo de que se trata, y se designarán de la siguiente manera:
 
-II.- Haber residido en el Estado durante los cinco años anteriores al día de su nombramiento.
+a. Cinco por el Poder Legislativo, a propuesta de la Junta de Coordinación Política.
 
-III.- Contar al día de su designación con Título y Cédula Profesional en alguna de las siguientes profesiones: Contaduría Pública, Economía, Derecho o Administración, con antigüedad mínima de cinco años.
+b. Cuatro por el Poder Ejecutivo.
 
-IV.- Acreditar como mínimo cinco años de experiencia en Administración Pública, en materia de control, auditoría financiera y de responsabilidades.
+No podrá haber más de cinco integrantes de un mismo sexo.
 
-V.- No haber sido titular de alguna de las dependencias del Gobierno del Estado, Ayuntamientos o que por disposición constitucional estén dotados de autonomía, organismos públicos descentralizados, empresas de participación y fideicomisos de la administración pública estatal y/o municipal, en los últimos dos años.
+Quienes integren el Panel de Especialistas desempeñarán su cargo de manera honorífica, y deberán cumplir con los siguientes requisitos:
+
+1. Contar con la ciudadanía mexicana y encontrarse en pleno ejercicio de sus derechos.
+
+2. Tener una edad mínima de treinta años.
+
+3. No haber recibido condena por la comisión de un delito doloso, ni inhabilitación en el servicio público.
+
+4. Contar con conocimientos en materia de control de gasto, auditoría financiera, responsabilidades administrativas u otra relacionada con las anteriores.
+
+5. No haber ocupado cargo público, ni haber desempeñado cargo de dirección nacional, estatal o municipal, en algún partido político, en los últimos cinco años.
+
+Se exceptúa de lo anterior, el ejercicio de la docencia en instituciones públicas de educación y de investigación científica.
+
+6. No haberse registrado como candidata o candidato propietario o suplente por ambos principios, en el proceso electoral inmediato anterior al de su designación.
+
+7. Presentar declaración de inexistencia de conflicto de interés.
+
+La designación de quienes integren el Panel de Especialistas se hará mediante Decreto que al efecto emita el Congreso, mismo que se publicará en los portales de internet de los Poderes Legislativo y Ejecutivo.
+
+La instalación del referido Panel se hará dentro de los cinco días naturales siguientes a la entrada en vigor del citado Decreto.
+
+II. Una vez instalado el Panel de Especialistas, este emitirá una convocatoria pública, dentro de los primeros cinco días hábiles siguientes, dirigida a la sociedad en general, para integrar la terna de quienes aspiren a ocupar el cargo de titular de la Auditoría Superior del Estado.
+
+Esta convocatoria deberá publicarse, por una sola ocasión, en el Periódico Oficial del Estado y en los portales de internet de los Poderes Legislativo y Ejecutivo, y deberá mantenerse en estos últimos, por lo menos, por un periodo de quince días naturales.
+
+La convocatoria deberá establecer los requisitos, el procedimiento y los plazos para la selección, con base en lo siguiente:
+
+a. La documentación requerida.
+
+b. Plazos para la inscripción y entrega de documentación.
+
+c. Plazos y el procedimiento para la evaluación del perfil curricular.
+
+d. Criterios de ponderación.
+
+e. Fecha para la celebración de las entrevistas.
+
+f. Procedimiento para la integración de la terna de finalistas.
+
+En la evaluación del perfil de las y los aspirantes se le otorgará mayor ponderación al desempeño en las entrevistas, conforme a los parámetros que acuerde el Panel de Especialistas.
+
+III. Concluido el plazo para la inscripción, dentro de los tres días naturales siguientes, el Panel de Especialistas publicará la lista de personas inscritas y la versión pública del perfil curricular en los portales de internet oficiales de los Poderes Legislativo y Ejecutivo.
+
+IV. Después de publicada la lista referida en la fracción anterior, el Panel de Especialistas, en un plazo que no podrá exceder de los veinte días naturales siguientes, llevará a cabo, al menos, una entrevista a quienes cumplieron con los requisitos previstos en la convocatoria.
+
+Dicha entrevista tendrá por objeto evaluar el perfil y experiencia profesional, habilidades directivas y conocimientos en temas de: auditoría financiera, auditoría de obra pública, auditoría de desempeño, normatividad, responsabilidades administrativas, control de gasto público, administración pública, entre otros.
+
+El Panel de Especialistas acordará el formato y los horarios de las entrevistas, las cuales serán públicas y transmitidas en vivo a través de los medios electrónicos de los cuales disponga el Poder Legislativo.
+
+V. Una vez concluidas las entrevistas, dentro de los cinco días naturales siguientes, el Panel de Especialistas, con base en la evaluación curricular y el resultado de aquellas, integrará una terna, misma que entregará al Pleno del Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+VI. Recibida la terna y la documentación de quienes la integran, el Pleno del Congreso contará con un plazo de diez días naturales para elegir, mediante el voto de cuando menos las dos terceras partes de las y los diputados presentes, a la persona que ocupará la titularidad de la Auditoría Superior del Estado.
+
+En caso de no obtenerse la votación requerida, se someterá a votación de nueva cuenta conforme a lo previsto en el artículo 137, primer párrafo del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
+
+Si por segunda ocasión no se alcanza la votación requerida, la Presidencia del H. Congreso notificará al Panel de Especialistas tal circunstancia, a efectos de que integre nueva terna, en un plazo que no exceda de diez días naturales.
+
+La nueva terna deberá estar integrada, por lo menos, con dos aspirantes diferentes a quienes integraban la anterior y de la que deberá provenir el nombramiento.
+
+Si el Congreso se encontrare en receso, la Diputación Permanente convocará a Periodo Extraordinario para tales efectos.
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+VII. En caso de que el Panel de Especialistas incumpla con los plazos o procedimientos establecidos en la convocatoria y, como consecuencia de ello, se retrase el procedimiento para nombrar a la persona titular de la Auditoría Superior del Estado, el Poder Legislativo y el Poder Ejecutivo, de manera conjunta, podrán declarar disuelto dicho Panel e integrar uno nuevo en el mismo acto. El nuevo Panel deberá continuar el procedimiento desde la última etapa que haya concluido el anterior.
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+VIII. En caso de falta temporal o absoluta de quien ocupa la Auditoría Superior del Estado, el Pleno del Congreso, de una terna propuesta por la Junta de Coordinación Política, nombrará provisionalmente, a la persona que fungirá como encargada del despacho, quien contará con las mismas facultades que la Ley le otorga a su titular, hasta en tanto se realice el nombramiento definitivo, en los términos a que se refiere este artículo.
 
 ###### ARTÍCULO 134.
 
@@ -2137,9 +2217,11 @@ Una vez ratificadas las denuncias, la Secretaría de Asuntos Interinstitucionale
 
 El procedimiento para la elección de Gubernatura Interina, Provisional o Sustituta, en los casos previstos por la Constitución Política del Estado, se sujetará a lo establecido en la misma.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 222.
 
-La designación de las magistraturas del Tribunal Superior de Justicia, de los (las) titulares de la Fiscalía General, de la Comisión de los Derechos Humanos y de las y los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, se sujetará a lo establecido en la Constitución Política del Estado y demás leyes específicas de cada organismo.
+La designación de las magistraturas del Tribunal Superior de Justicia, del Tribunal Estatal de Justicia Administrativa, de las personas titulares de la Fiscalía General, de la Comisión Estatal de los Derechos Humanos, de la Fiscalía Especializada en Combate a la Corrupción y de las y los comisionados del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, se sujetará a lo establecido en la Constitución Política del Estado y demás leyes específicas de cada organismo.
 
 TÍTULO DECIMOTERCERO
 
@@ -2450,3 +2532,15 @@ P.O. 16 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO LXV/RFLEY/0772/2018 II P.O., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 64 UN SEGUNDO PÁRRAFO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0797/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Especialistas encargado de la selección de la terna de aspirantes a ocupar la titularidad de la Auditoría Superior del Estado, dentro de los veinte días naturales siguientes a la entrada en vigor del presente Decreto.
