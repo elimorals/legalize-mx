@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2018-01-10"
+last_updated: "2018-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 23 DE JUNIO DE 2018, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE ENERO DE 2018 NO APLICA AL ARTICULADO DEL DECRETO NO. LXV/RFLEY/0646/2017 PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -211,7 +211,13 @@ F. En materia de Operaciones Estratégicas, las previstas en el apartado B de es
 
 G. En materia de Combate a la Corrupción:
 
-I. Ejercer las atribuciones previstas en el apartado B de este artículo respecto de los delitos relacionados con hechos de corrupción comprendidos en los tipos penales que establece el Código Penal en el Título Décimo Séptimo denominado "Delitos contra el Servicio Público cometidos por Servidores Públicos" y Título Décimo Noveno llamado "Delitos en contra del Adecuado Desarrollo de la Justicia cometidos por Servidores Públicos", así como cualquier otro delito conexo que se tipifique en el mismo Código Penal o en leyes especiales, en cuya comisión hubiese intervenido como autor o partícipe, un servidor público del Estado o de los Municipios o de las entidades de la administración pública paraestatal o paramunicipal, respectivamente, en ejercicio o con motivo de su empleo, cargo o comisión;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
+
+I. Ejercer las atribuciones previstas en el apartado B de este artículo, cuando se trate de hechos de corrupción.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Se entenderán como hechos de corrupción aquellas conductas comprendidas en los tipos penales establecidos por el Código Penal del Estado, dentro del Título Décimo Séptimo denominado "Delitos contra el Servicio Público cometidos por Servidores Públicos", y del Título Décimo Noveno llamado "Delitos en contra del Adecuado Desarrollo de la Justicia cometidos por Servidores Públicos"; así como cualquier otro delito conexo de competencia estatal, en cuya comisión hubiese intervenido como autor o partícipe alguna de las personas señaladas en el artículo 250 del Código Penal del Estado, siempre y cuando hubiera actuado en ejercicio o con motivo de su empleo, cargo o comisión;
 
 II. Recibir denuncias anónimas y realizar las actuaciones necesarias para verificar la veracidad o no de hechos y evidencias para la detección de actos u omisiones que sean constitutivos de un delito relacionado con hechos de corrupción;
 
@@ -573,11 +579,45 @@ V. Las demás que determinen las disposiciones aplicables y que autorice el pres
 
 Las facultades o atribuciones de cada una de las unidades se determinarán en el Reglamento Interior de la Fiscalía General del Estado.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
 
 ###### Artículo 11 Ter.
 
-La Fiscalía Especializada en Combate a la Corrupción tendrá a su cargo las atribuciones descritas en los apartados B y G del artículo 2 de esta Ley, estará a cargo de un Fiscal Especializado, quien podrá auxiliarse en sus funciones de Coordinaciones conforme a la disponibilidad presupuestal, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera.
+La Fiscalía Especializada en Combate a la Corrupción será un órgano con autonomía técnica y operativa para investigar y perseguir los hechos que la Ley considere como delitos en materia de corrupción.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Quien ocupe su titularidad durará en su encargo siete años y solo podrá removerse por los casos graves que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Podrá auxiliarse en sus funciones, de Coordinaciones conforme a la disponibilidad presupuestal, las que se integrarán con una persona titular, agentes del Ministerio Público y de la Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 13 DE JUNIO DE 2018)</small>
+
+Tendrá a su cargo las siguientes atribuciones:
+
+I. Ejercer las atribuciones previstas por esta Ley en el artículo 2, apartados B y G, salvo la fracción VIII de este último, cuando se trate de hechos de corrupción.
+
+II. Ejercitar las facultades atribuidas, tanto en la Constitución Federal y local como en las demás leyes aplicables a los órganos responsables de la investigación de hechos de corrupción.
+
+III. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en la Constitución Política del Estado y en la ley correspondiente.
+
+IV. Diseñar e implementar estrategias y líneas de acción para prevenir y combatir hechos de corrupción.
+
+V. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones.
+
+VI. Suscribir programas de trabajo y proponer a la persona titular de la Fiscalía General, la celebración de convenios con los municipios, para tener acceso directo a la información necesaria para la investigación y persecución de hechos de corrupción.
+
+VII. Proponer a quien ocupe la titularidad de la Fiscalía General mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales, a través de la firma de convenios con instituciones u organismos públicos, privados, nacionales y extranjeros.
+
+VIII. Diseñar, integrar e implementar sistemas y mecanismos de análisis de información fiscal, financiera y contable, en coordinación con la unidad competente de la Fiscalía General, a efecto de que puedan ser utilizados por esta y otras áreas competentes de la misma, para la investigación de hechos de corrupción.
+
+IX. Promover acción de extinción de dominio de bienes en los supuestos establecidos por la Ley de la materia.
+
+X. Generar herramientas metodológicas para identificar los patrones de conducta que pudieran estar relacionados con operaciones realizadas con recursos de procedencia ilícita.
+
+XI. Las demás que le confieran otras disposiciones legales.
 
 ###### Artículo 12.
 
@@ -771,9 +811,11 @@ Artículo 17 Quintus. La Fiscalía General del Estado contará con Unidades de A
 
 ### CAPÍTULO V. De los nombramientos, remociones y ausencias
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
+
 ###### Artículo 18.
 
-El Fiscal General del Estado será nombrado en los términos de la Constitución local y de la Ley Orgánica del Poder Ejecutivo del Estado, y podrá ser removido libremente por el Gobernador.
+La persona titular de la Fiscalía General del Estado será nombrada y removida en los términos de la Constitución local y de la Ley Orgánica del Poder Ejecutivo del Estado.
 
 Para ser Fiscal General del Estado se requiere cumplir con los requisitos que establece el artículo 121 de la Constitución Política del Estado.
 
@@ -785,7 +827,9 @@ Los Fiscales Especializados y los Fiscales de Distrito por Zonas serán nombrado
 
 El personal sustantivo de la Fiscalía, esto es Ministerios Públicos, Peritos e Instituciones Policiales, cuyo ingreso, permanencia, promoción, conclusión del servicio, separación y remoción se regirán por las disposiciones de esta normatividad y las relativas de la Ley del Sistema Estatal de Seguridad Pública. El personal sindicalizado se regirá por el Código Administrativo, por las Condiciones Generales de Trabajo del Gobierno del Estado de Chihuahua y los Reglamentos respectivos.
 
-Los Fiscales Especializados y Fiscales de Distritos por Zonas, deberán cumplir con los mismos requisitos que la Constitución del Estado exige para ser Fiscal General. Para ser Comisionado deberá contar con estudios a nivel licenciatura y cumplir los mismos requisitos exigidos para los Fiscales Especializados, y acreditar experiencia vinculada con la Seguridad Pública. En el caso del Coordinador Ejecutivo de la Comisión Ejecutiva de Atención a Víctimas del Estado, este deberá contar con Licenciatura en Derecho, Psicología, Trabajo Social o cualquier otra afín a la naturaleza del cargo.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
+
+Las personas titulares de las Fiscalías Especializadas y de Distritos por Zonas, deberán cumplir con los mismos requisitos que la Constitución del Estado exige para ocupar la titularidad de la Fiscalía General. Para ser Comisionada o Comisionado se deberá contar con estudios a nivel licenciatura y cumplir los mismos requisitos exigidos para las Fiscalías Especializadas, y acreditar experiencia vinculada con la Seguridad Pública. En el caso de la Coordinación Ejecutiva de la Comisión Ejecutiva de Atención a Víctimas del Estado, se deberá contar con Licenciatura en Derecho, Psicología, Trabajo Social o cualquier otra afín a la naturaleza del cargo. La persona titular de la Fiscalía Especializada en Combate a la Corrupción deberá contar con conocimientos en temas de investigación y substanciación de delitos relacionados con hechos de corrupción.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -795,11 +839,11 @@ El Fiscal General del Estado podrá designar libremente para atender los requeri
 
 Los nombramientos tendrán una vigencia determinada y podrán renovarse por el tiempo que determine el Fiscal General y pueden concluir en cualquier momento.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
 
 ###### Artículo 20.
 
-El Fiscal Especializado en Combate a la Corrupción, será nombrado en los mismos términos constitucionales en que es designado el Fiscal General del Estado.
+Quien ocupe la titularidad de la Fiscalía Especializada en Combate a la Corrupción, se nombrará y removerá según el procedimiento señalado en el artículo 122 de la Constitución Política del Estado y en el artículo 13 Ter de la Ley Orgánica del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1488,3 +1532,11 @@ Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Co
 ###### ARTÍCULO SÉPTIMO.
 
 La Fiscalía General del Estado deberá realizar las acciones necesarias en cuanto a su organización interna a fin de encontrarse en aptitud de ejercer las atribuciones que se le confieren por medio del presente Decreto.
+
+P.O. 13 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLEY/0793/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Especialistas encargado de la selección de la terna de aspirantes a ocupar la titularidad de la Fiscalía Especializada en Combate a la Corrupción, dentro de los veinte días naturales siguientes a la entrada en vigor del presente Decreto.
