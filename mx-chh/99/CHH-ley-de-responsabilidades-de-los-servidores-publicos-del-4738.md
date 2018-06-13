@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2018-03-10"
+last_updated: "2018-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. LXV/ABLEY/0794/2018 XII P.E., PUBLICADO EN EL P.O. DE 13 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -826,3 +826,33 @@ P.O. 10 DE MARZO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO LXV/ABLEY/0794/2018 XII P.E.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua, publicada en el Periódico Oficial del Estado de fecha 17 de mayo de 1989.
+
+###### ARTÍCULO SEGUNDO.
+
+La Sexagésima Quinta Legislatura del Honorable Congreso del Estado, declara que la Ley General de Responsabilidades Administrativas, publicada en el Diario Oficial de la Federación de fecha 18 de julio de 2016, será el ordenamiento rector en todo el territorio del Estado, en virtud de la abrogación de la Ley Estatal en la materia.
+
+###### ARTÍCULO TERCERO.
+
+Toda referencia que se haga, dentro del marco jurídico local, a la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua, deberá entenderse hecha a la Ley General de Responsabilidades Administrativas.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/ABLEY/0794/2018 XII P.E., POR MEDIO DEL CUAL SE ABROGA LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE CHIHUAHUA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO EL 17 DE MAYO DE 1989 Y SE DECLARA QUE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JULIO DE 2016, SERÁ EL ORDENAMIENTO RECTOR EN TODO EL TERRITORIO DEL ESTADO EN VIRTUD DE LA ABROGACIÓN DE LA LEY ESTATAL EN LA MATERIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos administrativos iniciados por las autoridades estatales y municipales con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto, quedarán derogadas todas aquellas disposiciones contenidas en el marco jurídico local que se opongan a lo previsto en la Ley General de Responsabilidades Administrativas.
