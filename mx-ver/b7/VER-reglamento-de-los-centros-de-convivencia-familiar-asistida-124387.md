@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-los-centros-de-convivencia-familiar-asistida-1243
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-01"
-last_updated: "2017-09-01"
+last_updated: "2018-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124387&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR ASISTIDA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 13 DE JUNIO DE 2018.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 1 de septiembre de 2017.
 
@@ -125,7 +125,9 @@ Primero. El Consejo de la Judicatura del Poder Judicial del Estado de Veracruz d
 
 Las disposiciones de este Reglamento son de orden público, interés general y de observancia obligatoria para el personal del Centro de Convivencia Familiar Asistida, los usuarios y las Autoridades Judiciales. Tiene por objeto regular la estructura, servicios, procedimientos, atribuciones y obligaciones del Centro y sus autoridades.
 
-Las actividades sustantivas del Centro de Convivencia Familiar Asistida, consisten en facilitar las convivencias de revinculación parental al interior de sus instalaciones, así como el ingreso y egreso del menor, en aquellos casos que, a juicio de los órganos judiciales, éstas no puede (sic) realizarse de manera libre o se ponga en riesgo el interés superior del menor, en términos del artículo 164 de la Ley Orgánica del Poder Judicial del Estado de Veracruz, en relación con el numeral 158 del Código de Procedimientos Civiles para el Estado de Veracruz, Legislación actual, Protocolos de Actuación, Convención Internacional de los Derechos del Niño y la Ley para Niños. Debiendo minimizar los riesgos de daños físicos o psicológicos de los miembros involucrados en controversias familiares, coadyuvando al sano desarrollo emocional de los integrantes de la familia.
+> <small>(REFORMADO, G.O. 13 DE JUNIO DE 2018)</small>
+
+Las actividades sustantivas del Centro de Convivencia Familiar Asistida, consisten en facilitar las convivencias de revinculación parental al interior de sus instalaciones, así como el ingreso y egreso del menor, en aquellos casos que, a juicio de los Órganos Judiciales, éstas no pueden realizarse de manera libre o se ponga en riesgo el interés superior del menor, en términos del artículo 145 de la Ley 615 Orgánica del Poder Judicial del Estado de Veracruz, en relación con el numeral 158 del Código de Procedimientos Civiles para el Estado de Veracruz, Legislación actual, Protocolos de Actuación, Convención Internacional de los Derechos del Niño y la Ley para Niños. Debiendo minimizar los riesgos de daños físicos o psicológicos de los miembros involucrados en controversias familiares, coadyuvando al sano desarrollo emocional de los integrantes de la familia.
 
 ###### Artículo 2.
 
@@ -159,7 +161,9 @@ XIII. Ingreso y egreso del menor: Entrega asistida por el Centro, de un menor po
 
 XIV. Evaluación psicológica: Proceso por el cual, a través de una metodología específica, se determinan las características sobresalientes y no sobresalientes de la personalidad de los individuos;
 
-XV. Ley Orgánica: Ley Orgánica del Poder Judicial del Estado de Veracruz;
+> <small>(REFORMADA, G.O. 13 DE JUNIO DE 2018)</small>
+
+XV. Ley Orgánica: Ley 615 Orgánica del Poder Judicial del Estado de Veracruz;
 
 XVI. Médico: El profesional que ejerce la medicina, manteniendo y recuperando la salud, mediante un diagnóstico oportuno y tratamiento efectivo;
 
@@ -693,7 +697,9 @@ El director estará a cargo de todos los Centros, y contará con el personal nec
 
 Las Coordinaciones distritales, estarán a cargo del responsable que designe el Pleno del Consejo de la Judicatura.
 
-El nombramiento y remoción de los titulares de la Dirección, coordinaciones distritales y demás personal administrativo, se hará en los términos previstos en el artículo 123, fracción VIII, de la Ley Orgánica del Poder Judicial del Estado de Veracruz.
+> <small>(REFORMADO, G.O. 13 DE JUNIO DE 2018)</small>
+
+El nombramiento y remoción de los titulares de la Dirección, coordinaciones distritales y demás personal administrativo, se hará en los términos previstos en el artículo 103, fracción IX, de la Ley 615 Orgánica del Poder Judicial del Estado de Veracruz.
 
 ### CAPÍTULO II. De las Atribuciones y Obligaciones del director
 
@@ -1017,9 +1023,11 @@ Si fuese algún objeto, sustancia o conducta de las prohibidas también por las 
 
 El Centro no está facultado para proporcionar a terceros información vía telefónica o en forma personal sobre las personas que participan en las convivencias familiares; ni para reportar recados a los usuarios.
 
+> <small>(REFORMADO, G.O. 13 DE JUNIO DE 2018)</small>
+
 ###### Artículo 102.
 
-Los servidores públicos que laboren en los Centros, quedarán sujetos a la responsabilidad administrativa que señala la Ley Orgánica del Poder Judicial del Estado de Veracruz y a la Ley de Responsabilidades de los Servidores Públicos del Estado, así como cualquier otro ordenamiento jurídico aplicable.
+Los servidores públicos que laboren en los Centros, quedaran sujetos a la responsabilidad administrativa que señala la Ley Orgánica del Poder Judicial del Estado de Veracruz y a la Ley número 366 de Responsabilidades Administrativas del Estado de Veracruz de Ignacio de la Llave, así como cualquier otro ordenamiento jurídico aplicable.
 
 T R A N S I T O R I O S
 
@@ -1040,3 +1048,11 @@ La secretaria de Acuerdos interina del Consejo de la Judicatura del Estado
 Mtra. Esmeralda Ixtla Domínguez
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE JUNIO DE 2018.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO SEGUNDO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO]</small>
+
+SEGUNDO. De conformidad con el artículo 101 de la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, se ordena la publicación del presente Acuerdo en la Gaceta Oficial del estado, iniciando su vigencia a partir del día siguiente de su divulgación. Cúmplase.
