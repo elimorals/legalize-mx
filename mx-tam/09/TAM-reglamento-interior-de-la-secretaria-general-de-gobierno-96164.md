@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-secretaria-general-de-gobierno-96164"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-30"
-last_updated: "2011-08-30"
+last_updated: "2018-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2018 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 30 de agosto de 2011.
 
@@ -187,9 +189,17 @@ XI. Plantear al titular del Ejecutivo la resolución de las dudas que se suscite
 
 XII. Proponer al titular del Ejecutivo la creación de unidades administrativas de nivel Dirección o superior, dentro de la Secretaría; así como las adecuaciones a la Estructura Orgánica de la misma;
 
-XIII. Certificar copias de documentos en que intervengan o que se encuentren en los archivos de la Secretaría y se relacionen con el ejercicio de sus atribuciones; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
 
-XIV. Las demás que le señalen la Constitución Política del Estado, las leyes y demás disposiciones jurídicas aplicables, así como las que le encomiende el titular del Ejecutivo.
+XIII. Certificar copias de documentos en que intervengan o que se encuentren en los archivos de la Secretaría y se relacionen con el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+XIV. Ejercer por sí, o a través de la Subsecretaría o Dirección de Área competente, las atribuciones que le otorga la ley de la materia; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2018)</small>
+
+XV. Las demás que le señalen la Constitución Política del Estado de Tamaulipas, las leyes y demás disposiciones jurídicas aplicables, así como las que le encomiende el Titular del Ejecutivo.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS SUBSECRETARÍAS, Y UNIDADES ADMINISTRATIVAS DEL DESPACHO DEL SECRETARIO
 
@@ -1023,55 +1033,71 @@ XV. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídi
 
 ### CAPÍTULO II. DE LA DIRECCIÓN DE ASUNTOS NOTARIALES
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 40.
 
-A la Dirección de Asuntos Notariales le corresponde el despacho de los siguientes asuntos:
+A la Dirección de Asuntos Notariales, además de las atribuciones que le otorga el artículo 147 de la Ley del Notariado para el Estado de Tamaulipas, le corresponde el despacho de los asuntos siguientes:
 
-I. Llevar el registro de sellos y firmas de Notarios, Notarios adscritos y servidores públicos que actúen con ese carácter;
+I. Vigilar el debido ejercicio de la función notarial y la adecuada prestación del servicio público notarial;
 
-II. Conservar, administrar y guardar los protocolos, apéndices, anexos y documentos que constituyan el Archivo General de Notarías;
+II. Llevar el registro de notarios, aspirantes con patente al ejercicio del notariado y adscritos a cargo de notarías, en el que consten los datos más relevantes relacionados con el inicio, ejercicio y terminación de sus funciones notariales;
 
-III. Comunicar al Titular de la Secretaría, por conducto del Subsecretario, las irregularidades y violaciones a la ley que advierta por sí o como resultado de las visitas en el funcionamiento del notariado;
+III. Determinar fecha, lugar y hora para la celebración del examen de aspirante a notario, aprobar los temas a sortearse para la celebración del mismo, supervisar la práctica notarial para obtener patente de aspirante, recibir la notificación de otorgamiento de patente de aspirante y promover su publicación en el Periódico Oficial del Estado de Tamaulipas;
 
-IV. Comunicar al Titular de la Secretaría, por conducto del Subsecretario, las deficiencias o irregularidades que advierta en los Protocolos remitidos a la Dirección;
+IV. Registrar las solicitudes para realizar el examen para obtener el fiat de notario, dictaminar sobre la procedencia de cada solicitud, integrar la lista de concursantes, firmar las pruebas prácticas a sortearse entre los sustentantes y formar parte del jurado para los exámenes;
 
-V. Proporcionar requisitados los juegos de folios del protocolo que soliciten los Notarios y el libro índice de asuntos de jurisdicción voluntaria, así como proveerlos de sello;
+V. Recibir y registrar el aviso de comienzo de ejercicio de funciones notariales, así como opinar sobre la causa de justificación de no inicio de funciones dentro del término fijado por la ley de la materia;
 
-VI. Inutilizar los sellos de los Notarios cuando proceda conforme a derecho;
+VI. Organizar un registro de garantías otorgadas por los notarios para el ejercicio de sus funciones, supervisando su actualización conforme al monto mínimo exigido por la ley de la materia;
 
-VII. Expedir copias certificadas y testimonios de los instrumentos inscritos en los protocolos depositados en el Archivo General de Notarías a las partes que hayan intervenido en el acto a que se refiere, o por mandamiento judicial, así como de los documentos que integran los expedientes personales de los Notarios del Estado;
+VII. Organizar y actualizar un registro de sello y firma autógrafa de los notarios y adscritos a cargo de notarías;
 
-VIII. Llevar el registro de Notarios, Notarios Adscritos y servidores públicos que actúen con dicho carácter, con expresión de la fecha de su nombramiento y de la que hayan dejado de ejercer el cargo, así como sus separaciones temporales;
+VIII. Autorizar la sustitución de sellos notariales por su deterioro o desgaste y realizar, previa acta en la que conste la diligencia respectiva, la destrucción de sellos notariales en los casos que prevé la ley de la materia;
 
-IX. Formar el índice general del Archivo General de Notarías;
+IX. Asegurar y resguardar el sello y protocolo del notario cuando deje de ejercer definitivamente el cargo o en caso de fallecimiento;
 
-X. Solicitar al Titular de la Secretaría, por conducto del Subsecretario, la práctica de visitas especiales cuando tenga conocimiento de irregularidad por queja, con objeto de que someta a la determinación del Ejecutivo del Estado;
+X. Recibir en depósito el protocolo y sello de los notarios adscritos a la Capital del Estado, para el caso de ausencias temporales en notarías que no cuenten con suplente o adscrito;
 
-XI. Vigilar el funcionamiento general de las Notarías, a través de los visitadores a su mando;
+XI. Autorizar y otorgar los juegos de folios del protocolo abierto, asentar la razón de autorización en la primera y última página útil y la razón o certificación de cierre cuando proceda, según la ley de la materia;
 
-XII. Imponer al personal de la unidad administrativa de Asuntos Notariales las correcciones disciplinarias que procedan y, en su caso, hacer del conocimiento de la Contraloría Gubernamental las conductas que puedan implicar responsabilidad administrativa;
+XII. Resguardar definitivamente los libros, apéndices e índices de los notarios por recepción definitiva y en los casos de clausura de los protocolos; así como notificar al Secretario cuando los notarios incumplan con la obligación de entrega;
 
-XIII. Autorizar en definitiva las escrituras que hayan sido previamente firmadas por y ante los Notarios, cuyos protocolos hubieren sido depositados en el archivo por cualquiera de las causas previstas en la Ley del Notariado para el Estado, y llenar todos los requisitos previos y posteriores a la autorización;
+XIII. Conservar, administrar y guardar los protocolos, apéndices, anexos y documentos que constituyan el Archivo General de Notarías, según la ley de la materia, formando su índice general;
 
-XIV. Llevar un registro de los testamentos que autoricen los Notarios, de los cuales haya recibido aviso en cumplimiento de lo dispuesto por la Ley del Notariado y rendir los informes que le soliciten;
+XIV. Recibir los avisos de otorgamiento de testamento público abierto que realicen los notarios, así como llevar un libro especialmente destinado a asentar las inscripciones relativas a los mismos;
 
-XV. Rendir los informes y la cooperación técnica que le sean requeridos por otras dependencias y entidades estatales;
+XV. Recibir el expediente original de jurisdicción voluntaria en los que hayan intervenido los notarios y llevar el Registro de Jurisdicción Voluntaria en Sede Notarial;
 
-XVI. Llevar el control de las actas que se levanten con motivo de las visitas que practique por sí, o a través de los visitadores de la unidad administrativa a su cargo;
+XVI. Llevar un Registro Estatal de Poderes, y recibir los anuncios de otorgamiento de poderes y revocación de los mismos, en los casos y conforme lo establece la ley de la materia;
 
-XVII. Celebrar convenios con instituciones públicas o privadas para acrecentar, conservar y difundir el acervo documental del Archivo General de Notarías;
+XVII. Organizar, administrar y custodiar el archivo de la Dirección de Asuntos Notariales, conformado con los libros y documentos que establece la ley de la materia;
 
-XVIII. Estudiar y proponer técnicas de conservación y métodos para el respaldo de la documentación e información que obre en el Archivo General de Notarías;
+XVIII. Aplicar a los notarios o a los adscritos, las correcciones disciplinarias y las sanciones que correspondan por las infracciones a la ley de la materia;
 
-XIX. Dar apoyo a las autoridades judiciales y administrativas en el cumplimiento de sus funciones y atribuciones;
+XIX. Designar al visitador que practique las revisiones y visitas a las notarías para vigilar su funcionamiento y apego a la ley de la materia;
 
-XX. Expedir copias certificadas de los expedientes administrativos que se integren con motivo de las quejas presentadas en contra de los Notarios de la entidad;
+XX. Vigilar el correcto ejercicio de la función notarial, realizando visitas ordinarias o extraordinarias en términos de la ley de la materia;
 
-XXI. Llevar un registro de los poderes otorgados ante Notario o cuya certificación se hubiere realizado ante su fe, de los cuales haya recibido aviso en cumplimiento de lo dispuesto por la Ley del Notariado, y rendir los informes que le soliciten;
+XXI. Practicar las visitas de inspección ordinarias a todas las notarías o a algunas de ellas, o visitas extraordinarias a una notaría, según lo determine el Secretario, para supervisar que su funcionamiento y la actuación del notario o adscrito se apegue a lo dispuesto por la ley de la materia;
 
-XXII. Informar oportunamente a la Subsecretaría, respecto de los asuntos programados, en proceso y concluidos; y
+XXII. Realizar visitas extraordinarias a una notaría, cuando lo ordene el Secretario;
 
-XXIII. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables, y las que le sean encomendadas por la superioridad.
+XXIII. Informar al Secretario de la oposición o no otorgamiento de facilidades a los visitadores para desarrollar la visita de verificación o inspección;
+
+XXIV. Expedir las órdenes escritas de visita ordinaria o extraordinaria, para verificar el funcionamiento y apego de la actuación del notario o adscrito a lo previsto en la ley de la materia;
+
+XXV. Informar al Secretario de las irregularidades en la función del notario o adscrito, detectadas en las visitas de inspección, para que determine lo procedente;
+
+XXVI. Tramitar los procedimientos administrativos de quejas en contra de notarios o adscritos, por sus etapas procesales hasta dejarlas en estado de dictar resolución, disponiendo el procedimiento a seguir en cada caso en particular;
+
+XXVII. Tramitar los recursos de inconformidad que los notarios o adscritos interpongan en contra de la resolución emitida que le imponga sanciones administrativas, atento al procedimiento establecido en los artículos 159, 160 y 161 de la ley de la materia, hasta dejarlos en estado de dictar resolución;
+
+XXVIII. Expedir copias certificadas, de los expedientes administrativos que se integren con motivo de las quejas presentadas en contra de los notarios de la Entidad;
+
+XXIX. Informar oportunamente al superior jerárquico respecto del seguimiento de las actividades programadas, en proceso y concluidas; y
+
+XXX. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables, y las que le sean encomendadas por la superioridad.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN DE PERMISOS Y LEGALIZACIONES
 
@@ -1336,3 +1362,17 @@ Los asuntos pendientes a la entrada en vigor del presente Reglamento, continuar�
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, el dos de mayo del dos mil once.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNAMENTAL MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO ANEXO AL NO. 103 DE FECHA 30 DE AGOSTO DE 2011; Y MODIFICA LA DENOMINACIÓN, REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y ASUNTOS JURÍDICOS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO ANEXO AL NO. 80 DE FECHA 3 DE JULIO DE 2014”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
