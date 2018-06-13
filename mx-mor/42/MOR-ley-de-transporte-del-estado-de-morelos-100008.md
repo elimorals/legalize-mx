@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2018-05-16"
+last_updated: "2018-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2018 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2018.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -2267,6 +2267,8 @@ SÉPTIMA. La Secretaría de Movilidad y Transporte del Gobierno del Estado de Mo
 
 OCTAVA. Se faculta por única ocasión al Gobernador Constitucional del Estado de Morelos o a quien él designe, para que con posterioridad a la conclusión del proceso electoral ordinario 2018, otorgue la extensión de las concesiones o permisos pendientes por el periodo de dos años para aquellos concesionarios o permisionarios que acrediten haber cubierto la obligación de pago con documento respectivo.
 
-NOVENA. La cesión de las concesiones que por virtud del presente Decreto se posibilitan, de conformidad con lo señalado en su artículo 62, deberán realizarse con posterioridad a la conclusión del proceso electoral ordinario 2018.
+> <small>(F. DE E., P.O. 13 DE JUNIO DE 2018)</small>
+
+NOVENA. La cesión de concesiones que por virtud del presente Decreto se posibilitan, de conformidad con lo señalado en el artículo 62, podrán realizarse con anterioridad a la conclusión del proceso electoral ordinario 2018.
 
 DÉCIMA. Se derogan todas aquellas disposiciones que contravengan en lo dispuesto al presente Decreto.
