@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-vi-124880"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-22"
-last_updated: "2017-12-22"
+last_updated: "2018-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124880&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2017-12-04"
 ---
 # ESTATUTO ORGANICO DE CFE GENERACION VI
 
-ESTATUTO ORGÁNICO DE CFE GENERACIÓN VI.
+ESTATUTO ORGÁNICO DE CFE GENERACIÓN VI
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2018.
 
 Estatuto publicado en la Octava Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 2017.
 
@@ -915,6 +915,26 @@ El Comité de Transparencia de CFE Generación VI, estará integrado por 3 miemb
 
 El Enlace de Transparencia reportará al Director General todo lo relativo a esa materia y tendrá también las funciones que éste y el Comité de Transparencia le asignen.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+## TÍTULO QUINTO BIS. De la Unidad de Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+###### Artículo 36 Bis.
+
+La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Generación VI las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+###### Artículo 36 Ter.
+
+La Unidad de Responsabilidades en CFE Generación VI contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
+
 ## TÍTULO SEXTO. De la Representación y Suplencias
 
 ### CAPÍTULO ÚNICO
@@ -974,3 +994,11 @@ Segundo. Los derechos de los trabajadores no se verán afectados por la reestruc
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de CFE Generación VI, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación VI, en sesión ordinaria celebrada el 17 de marzo de 2017, mediante el Acuerdo CAG-VI-12/2017.
 
 En la Ciudad de México, a los cuatro días del mes de diciembre de dos mil diecisiete.- El Director General de CFE Generación VI, Víctor Manuel Cárdenas Marín, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Generación VI, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS "ADICIONES AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN VI, PUBLICADO EL 22 DE DICIEMBRE DE 2017".]
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
