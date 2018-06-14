@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2018-04-23"
+last_updated: "2018-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -389,13 +389,17 @@ I. Establecimiento y empleo de fondos para la promoción de la igualdad en el tr
 
 II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica;
 
-> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2018)</small>
 
-III. Impulsar liderazgos igualitarios, y
+III. Impulsar liderazgos igualitarios;
 
-> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2018)</small>
 
-IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+V. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
 
@@ -435,11 +439,17 @@ b) La integración de la plantilla laboral cuando ésta se componga de al menos 
 
 c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
 
-d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral, y
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
 
-XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+XIII. Promover la participación de mujeres rurales en programas sectoriales en materia agraria.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -672,3 +682,9 @@ D.O.F. 23 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 9 Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 17 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
