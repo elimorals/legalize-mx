@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-civil-prevencion-y-atencion-de-desastres-8403
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-18"
-last_updated: "2011-11-18"
+last_updated: "2018-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 18 de Noviembre de 2011.
 
@@ -303,7 +303,9 @@ I. Promover acciones de coordinación con los Sistemas Estatales de las Entidade
 
 II. Convocar a los sectores público y privado a participar en las acciones de protección civil;
 
-III. Fomentar la cultura, el estudio, la investigación y la capacitación en materia de protección civil y gestión integral del riesgo;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
+
+III. Promover desde la niñez una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad;
 
 IV. Promover ante las autoridades educativas correspondientes, la inclusión de programas en materia de protección civil en todos los niveles escolares;
 
@@ -331,9 +333,21 @@ XV. Recibir y administrar de manera transparente toda donación destinada a la p
 
 XVI. Declarar y publicar el estado de emergencia o desastre, cuando un fenómeno perturbador natural o humano ponga en riesgo a los habitantes de uno o varios municipios o a la entidad, así como sesionar para dar seguimiento y coordinar las actividades que la situación o la contingencia amerite;
 
-XVII. Solicitar el apoyo a las autoridades federales competentes, para brindar una mejor atención a la población y fortalecer las acciones de respuesta del Estado; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
 
-XVIII. Las demás que expresamente le señalen esta ley y otros ordenamientos legales aplicables, así como los reglamentos que de ellas deriven.
+XVII. Solicitar el apoyo a las autoridades federales competentes, para brindar una mejor atención a la población y fortalecer las acciones de respuesta del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2018)</small>
+
+XVIII. Establecer un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en los dos órdenes de gobierno
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2018)</small>
+
+XIX. Dar atención prioritaria a la población vulnerable; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE JUNIO DE 2018)</small>
+
+XX. Las demás que expresamente le señalen esta ley y otros ordenamientos legales aplicables, así como los reglamentos que de ellas deriven
 
 ###### ARTÍCULO 15.
 
@@ -1958,3 +1972,13 @@ C. Víctor Manuel Méndez Lanz, Diputado Presidente.- C. Ana Martha Escalante Ca
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintinueve días del mes de septiembre del año dos mil once.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 269 POR EL QUE “SE REFORMAN LAS FRACCIONES III, XVII, XVIII Y SE ADICIONAN LAS FRACCIONES XIX Y XX AL ARTÍCULO 14 DE LA LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
