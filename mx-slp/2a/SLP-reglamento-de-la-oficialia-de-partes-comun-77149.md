@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-oficialia-de-partes-comun-77149"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-21"
-last_updated: "2010-10-21"
+last_updated: "2018-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA OFICIALIA DE PARTES COMUN
 
-REGLAMENTO DE LA OFICIALIA DE PARTES COMUN
+REGLAMENTO DE LA OFICIALÍA DE PARTES COMÚN DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2018.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de octubre de 2010.
 
@@ -41,9 +41,11 @@ DISPOSICIONES GENERALES.
 
 El presente reglamento es de orden público, de interés general y de observancia obligatoria para los servidores judiciales adscritos a la Oficialía de Partes y para los que intervengan en los procesos que el presente Reglamento contempla. Así como para los usuarios de los servicios que brinde la oficialía.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2.
 
-La Oficialía de Partes Común es un órgano administrativo dependiente de la Secretaría Ejecutiva de Pleno y Carrera Judicial del Consejo de la Judicatura, encargada de la recepción, registro y distribución de los diversos asuntos en materia civil, mercantil, familiar y penal.
+La Oficialía de Partes Común es un órgano administrativo dependiente de la Secretaría Ejecutiva de Pleno y Carrera Judicial del Consejo de la Judicatura, encargada de la recepción, registro, digitalización y distribución de los diversos asuntos en materia civil, mercantil, familiar y penal.
 
 ###### Artículo 3.
 
@@ -95,23 +97,31 @@ Corresponde al Secretariado Ejecutivo de Vigilancia y Disciplina, por conducto d
 
 ORGANIZACIÓN Y FUNCIONAMIENTO.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2018)</small>
+
 ###### Artículo 9.
 
-Las oficinas que integran la Oficialía de Partes Común estarán integradas por un Oficial de Partes que es el servidor judicial responsable del control de registros de recepción y turno de los asuntos y por el personal auxiliar que autorice el Pleno, en base a la disponibilidad presupuestal.
+Las oficinas que integran la Oficialía de Partes Común estarán integradas por un Encargado de la Oficialía de Partes que es el servidor judicial responsable del control de registros de recepción, digitalización y turno de los asuntos, y por el personal auxiliar que autorice el Pleno, con base en la disponibilidad presupuestal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2018)</small>
 
 ###### Artículo 10.
 
 Las oficinas que integran la Oficialía de Partes son:
 
-I. La Oficialía de Partes Común a los juzgados civiles y familiares del primer distrito judicial, ubicada en la Ciudad Judicial “Presidente Juárez";
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
+
+I. La Oficialía de Partes Común a los Juzgados Civiles, Familiares, Mercantiles y Penales del Primer Distrito Judicial del Estado, ubicada en la Ciudad Judicial "Presidente Juárez".
 
 II. La Oficialía de Partes Común a los juzgados penales del primer distrito judicial; y,
 
 III. Las Oficialías de Partes Común Mixtas que por las necesidades del servicio sean creadas por el consejo en los distritos judiciales donde existan dos o más juzgados.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2018)</small>
+
 ###### Artículo 11.
 
-La Oficialía de Partes Común a los Juzgados Civiles y Familiares recibirá demandas iniciales, incompetencias, excusas, promociones, escritos de término, y promociones de trámite dirigidas a los Juzgados Penales.
+La Oficialía de Partes Común a los Juzgados Civiles, Familiares, Mercantiles y Penales recibirá demandas iniciales, averiguaciones previas sin detenido, incompetencias, excusas, promociones y escritos de término, dirigidas a los Juzgados de Primera Instancia y Salas Civiles.
 
 ###### Artículo 12.
 
@@ -127,9 +137,11 @@ Para ser Oficial de Partes se deberá cumplir con los requisitos estipulados en 
 
 El Secretario tiene a su cargo la supervisión y control de las actividades encomendadas a las oficialías por la Ley Orgánica, el Reglamento Interior del Consejo, este Reglamento y demás disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2018)</small>
+
 ###### Artículo 15.
 
-El Oficial de Partes tendrá las siguientes atribuciones y obligaciones:
+El Encargado de la Oficialía de Partes tendrá las siguientes atribuciones y obligaciones:
 
 I. Supervisar y controlar al personal y los procesos de la Oficialía;
 
@@ -145,7 +157,9 @@ VI. Proponer, los estímulos anuales y programas de capacitación para el person
 
 VII. Someter a la consideración del Secretario los estudios y proyectos que requiera la Oficialía, a efecto de mejorar sus servicios;
 
-VIII. Verificar, al momento de su recepción, que los escritos de demandas, promociones, excusas y consignaciones de averiguaciones previa (sic) cumplan con los requisitos establecidos en este Reglamento;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
+
+VIII. Verificar, al momento de su recepción, que los escritos de demandas, promociones, excusas e incompetencias y consignaciones de averiguaciones previas que cumplan con los requisitos establecidos en este Reglamento;
 
 IX. Asignar turno a los escritos de demanda y las consignaciones de averiguaciones previas, mediante los sistemas implementados por el Consejo de la Judicatura;
 
@@ -155,21 +169,29 @@ XI. Utilizar, para el control de la recepción de escritos y promociones, el sis
 
 XII. Asignar las demandas mediante los sistemas implementados por el Consejo;
 
-XIII. Entregar, el día hábil siguiente, a los órganos jurisdiccionales los escritos iniciales de demandas, promociones y excusas, que les correspondieran, con una relación en dos tantos, una para el Juzgado y otra para acuse de recibo;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
+
+XIII. Entregar, el día hábil siguiente, a los órganos jurisdiccionales los escritos iniciales de demandas, promociones y excusas e incompetencias, que les correspondieran, con una relación en dos tantos, una para el Juzgado y otra para acuse de recibo;
 
 XIV. Entregar el acuse de recibo que debe contener: turno, fecha, hora, nombres de las partes, objetos y anexos que se acompañan con el escrito de demanda;
 
-XV. Anotar los acuses de recibo, en el libro de gobierno, señalado para cada uno de los juzgados; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
+
+XV. Anotar los acuses de recibo, en las carpetas respectivas, señaladas para cada uno de los juzgados;
 
 XVI. Las demás que establezcan las disposiciones legales, reglamentarias, los acuerdos del Consejo y las que expresamente les encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2018)</small>
+
 ###### Artículo 16.
 
-Además de las atribuciones previstas en el Reglamento del Consejo, el Oficial de Partes Común a los juzgados civiles y familiares del primer distrito judicial tendrá las siguientes:
+Además de las atribuciones previstas en el Reglamento del Consejo, el Encargado de la Oficialía de Partes Común a los Juzgados Civiles, Familiares, Mercantiles y Penales del Primer Distrito Judicial tendrá las siguientes:
 
 I. Recibir, controlar y resguardar las demandas, excusas, incompetencias y promociones, hasta en tanto se entreguen a los juzgados asignados;
 
-II. llevar el control de los libros de gobierno;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
+
+II. Compilar los acuses de recibo, en las carpetas respectivas;
 
 III. Contestar los oficios asignados;
 
@@ -177,9 +199,11 @@ IV. Vigilar o bien, efectuar, la entrega de las demandas y promociones antes de 
 
 V. Las demás que establezcan las disposiciones legales y reglamentarias aplicables, los acuerdos del Pleno y las instrucciones de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2018)</small>
+
 ###### Artículo 17.
 
-Además de las atribuciones previstas en el Reglamento del Consejo, el Oficial de Partes Común a los juzgados penales del primer distrito judicial, tendrá las siguientes:
+Además de las atribuciones previstas en el Reglamento del Consejo, el Encargado de la Oficialía de Partes Común del Primer Distrito Judicial, tendrá las siguientes:
 
 I. Recibir, controlar y resguardar, las consignaciones de averiguación previa, hasta su entrega en el juzgado asignado;
 
@@ -187,7 +211,9 @@ II. La guarda y custodia de los objetos que acompañen a estas si los hubiera ha
 
 III. Estar disponible para recibir un asunto relevante y de trascendencia social, el que por su gravedad se deba consignar de inmediato, aun estando fuera de horario;
 
-IV. Deberá entregar de manera inmediata las consignaciones recibidas tratándose de delitos graves;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
+
+IV. Deberá entregar a la brevedad posible las consignaciones recibidas tratándose de delitos graves;
 
 V. Las averiguaciones consignadas por delitos no graves se entregarán al día hábil siguiente de su recepción; y
 
@@ -209,9 +235,23 @@ DE LA RECEPCIÓN, REGISTRO Y TURNO DE LOS ASUNTOS.
 
 En la recepción de demandas, promociones y averiguaciones previas se revisará que se presenten debidamente firmadas y dirigidas a los órganos jurisdiccionales correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2018)</small>
+
 ###### Artículo 21.
 
-Los Oficiales y los auxiliares al momento de acusar recibo de los escritos iniciales de demanda, promociones y consignaciones, anotarán el numero de documentos y anexos que se acompaña en las mismas, procurando hacer una descripción pormenorizada de dichos anexos.
+El Encargado de la Oficialía de Partes Común del Primer Distrito Judicial y los auxiliares, al momento de acusar recibo de los escritos iniciales de demanda, promociones exclusivamente de término y consignaciones, anotarán el número de documentos y anexos que se acompañan en las mismas, procurando hacer una descripción pormenorizada de dichos anexos;
+
+En tratándose de los documentos señalados en el párrafo precedente, que sean depositados en el Buzón de la Oficialía de Partes, conforme al procedimiento previsto en el portal de internet del Poder Judicial del Estado, será en sobre cerrado, siempre y cuando el número de fojas lo permita. Si los anexos o documentos que se acompañen, resultan ser de gran volumen y eso impide su depósito, se procederá conforme a lo establecido en el portal de internet antes citado.
+
+Los sobres cerrados que sean depositados en el Buzón, serán clasificados según el Juzgado al que correspondan, y así cerrados serán turnados a dicho órgano jurisdiccional, y sólo el Secretario o Secretaria de Acuerdos, será quien podrá abrir el mismo, para dar fe su contenido
+
+El horario de funcionamiento del “Buzón de la Oficialía de Partes” será de las 14:31 a las 23:59 horas de lunes a jueves y de las 14:01 a las 23:59 los días viernes. Durante los periodos vacacionales o suspensión de labores que se provean conforme al artículo 94 fracción XIII, de la Ley Orgánica del Poder Judicial del Estado, no operará el "Buzón".
+
+El "Buzón de la Oficialía de Partes" se abrirá todos los días hábiles, a partir de las 08:00 horas, por el Encargado de la Oficialía o por la persona que éste haya designado, quien revisará en el sistema de cómputo, la relación de los documentos depositados, para constancia.
+
+Los sobres cerrados se entregarán o turnarán al día siguiente hábil después de su depósito, al órgano jurisdiccional al que estén dirigidos, con un listado de los mismos, los cuales deberán ser acusados de recibo, plasmando sello, firma y hora de recibo, así como el folio que se le haya asignado al momento de obtener la boleta o etiqueta que pegó en el sobre correspondiente.
+
+El trámite a que se refiere este punto, se encuentra disponible en el portal www.stjslp.gob.mx en el micrositio "BUZÓN DE LA OFICIALÍA DE PARTES".
 
 ###### Artículo 22.
 
@@ -291,13 +331,13 @@ Los escritos de término en materia de apelación civil, mercantil y familiar, l
 
 ###### Artículo 33.
 
-El horario de la Oficialía de Partes Común a los Juzgados Penales del Primer Distrito Judicial es de 8:00 a las 14:30 horas de lunes a jueves y viernes de 8:00 a las 14:00 horas y se reciben únicamente averiguaciones previas sin detenido consignadas ante el juez de primera instancia penal. Dentro de este turno, tratándose de consignaciones por delitos graves sin detenido, el Oficial deberá hacerlas llegar de forma inmediata al juzgado que, conforme al sistema, corresponda conocer del asunto.
+(DEROGADO, P.O. 14 DE JUNIO DE 2018)
 
-Fuera del horario establecido en el párrafo anterior, los escritos de término se recibirán por los secretarios de los juzgados de turno, quienes deberán informar de ello, a la Oficialía de Partes Común, antes de las 10 horas del día hábil siguiente, para su registro en el sistema y equilibrio en la distribución de los asuntos.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2018)</small>
 
 ###### Artículo 34.
 
-El horario de la Oficialía de Partes Común a los Juzgados Mixtos que se establezcan en los distritos judiciales que el Pleno determine, es de lunes a jueves de 8:00 a 14:30 horas y los viernes de 8:00 a 14:00 horas. En estas oficinas se recibirán y registrarán las averiguaciones previas sin detenido, los escritos iniciales de demanda en materia civil, mercantil y familiar, así como los exhortos. Para efectos de los procedimientos a seguir en la recepción de las consignaciones de averiguaciones previas, se estará a lo establecido en el artículo anterior.
+El horario de la Oficialía de Partes Común a los Juzgados Mixtos establecidos en los distritos judiciales por el Pleno, es de lunes a jueves de 8:00 a 14:30 horas y los viernes de 8:00 a 14:00 horas. En estas oficinas se recibirán y registrarán las averiguaciones previas sin detenido, los escritos iniciales de demanda en materia civil, mercantil y familiar, así como los exhortos, despachos, excusas e incompetencias, en las carpetas respectivas.
 
 ## TRANSITORIOS
 
@@ -338,3 +378,15 @@ LIC. CLAUDIA MAYELA VALDÉS TISCAREÑO.
 SECRETARIA EJECUTIVA DE PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA.
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL POR "MODIFICACIÓN A LOS ARTÍCULOS 2, 9, 10, 11, 15, 16, 17, 21, 33 Y 34 DEL REGLAMENTO DE LA OFICIALÍA DE PARTES COMÚN".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación, con independencia de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente acuerdo y que hayan sido dictadas con anterioridad a la entrada en vigor del mismo.
+
+CUARTO (SIC).- Désele la más amplia difusión al contenido del presente acuerdo en el portal de transparencia del Poder Judicial del Estado y en la Gaceta Judicial.
