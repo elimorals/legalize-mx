@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vii-2008-del-comite-de-89778"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-09"
-last_updated: "2008-12-09"
+last_updated: "2018-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-09"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN VII/2008, DEL NUEVE DE DICIEMBRE DE DOS MIL OCHO, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A DIVERSAS ATRIBUCIONES ADMINISTRATIVAS DE LAS CASAS DE LA CULTURA JURÍDICA DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: DÉCIMA ÉPOCA, LIBRO 56, TOMO II, JULIO DE 2018.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIX, Enero de 2009, páginas de la 3095 a la 3124.
 
@@ -455,43 +455,33 @@ A más tardar el quince de diciembre o el día hábil inmediato anterior de cada
 
 ###### Artículo 49.
 
-Los niveles de autorización para las comisiones y solicitudes de pasajes y viáticos del personal de la Casa de la Cultura serán:
-
-I. El Subdirector General autorizará la comisión del Titular de la Casa cuando ésta no se haya programado;
-
-II. El Titular de la Casa autorizará lo propio siempre y cuando la comisión haya sido programada; y
-
-III. El Titular de la Casa autorizará las comisiones de los servidores públicos adscritos a la Casa de la Cultura.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2018 DEL CATORCE DE JUNIO DE DOS MIL DIECIOCHO DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN LIBRO 56 TOMO II DE JULIO DE 2018)
 
 ###### Artículo 50.
 
-El Enlace Administrativo, con base en la autorización de las comisiones del personal de la Casa de la Cultura y la solicitud de viáticos, entregará al servidor público comisionado los recursos para pasajes y viáticos, comprará, en su caso, los boletos de avión y reservará el hospedaje que corresponda.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2018 DEL CATORCE DE JUNIO DE DOS MIL DIECIOCHO DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN LIBRO 56 TOMO II DE JULIO DE 2018)
 
 ###### Artículo 51.
 
-El Enlace Administrativo registrará en el SIA los recursos otorgados mediante la solicitud de viáticos y pasajes, así como las comprobaciones respectivas.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2018 DEL CATORCE DE JUNIO DE DOS MIL DIECIOCHO DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN LIBRO 56 TOMO II DE JULIO DE 2018)
 
 ###### Artículo 52.
 
-El personal comisionado adscrito a la Casa de la Cultura deberá presentar bajo su más estricta responsabilidad, al Enlace Administrativo, dentro de los 15 días hábiles posteriores a la conclusión de la comisión, la relación de los gastos devengados anexando la documentación comprobatoria incluyendo, en su caso, la ficha de depósito del remanente en la cuenta operativa de la Suprema Corte.
-
-La documentación comprobatoria original incluyendo, en su caso, la del reintegro de los recursos no utilizados, derivados de las erogaciones o de los ahorros o economías que se realicen en la Casa de la Cultura, respecto la comprobación de viáticos del personal comisionado deberá ser remitida por el Enlace Administrativo a Presupuesto y Contabilidad por el Enlace Administrativo, (sic) sin mayor revisión, a más tardar dentro de los dos días hábiles siguientes a aquel en el que el comisionado haya entregado la documentación respectiva. En el mes de diciembre dicha entrega deberá realizarse a más tardar el día diez.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2018 DEL CATORCE DE JUNIO DE DOS MIL DIECIOCHO DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN LIBRO 56 TOMO II DE JULIO DE 2018)
 
 ###### Artículo 53.
 
-Cuando algún comisionado no presente en tiempo y forma su comprobación, el Enlace Administrativo elaborará y presentará para firma del Titular de la Casa, oficio de solicitud de descuento vía nómina de los recursos no comprobados, dirigido a la Dirección General de Personal con copia al Subdirector General.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2018 DEL CATORCE DE JUNIO DE DOS MIL DIECIOCHO DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN LIBRO 56 TOMO II DE JULIO DE 2018)
 
 ### CAPÍTULO IV. DE LOS DISERTANTES
 
 ###### Artículo 54.
 
-El Titular de la Casa instruirá al Enlace Administrativo para que gestione las reservaciones de transportación y hospedaje y, efectúe los pagos a los disertantes que participen en los eventos programados por la Casa de la Cultura conforme a la normativa aplicable. Una vez realizadas dichas gestiones, el Titular de la Casa lo informará a los disertantes.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2018 DEL CATORCE DE JUNIO DE DOS MIL DIECIOCHO DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN LIBRO 56 TOMO II DE JULIO DE 2018)
 
 ###### Artículo 55.
 
-El Titular de la Casa autorizará los trámites de los eventos y los recursos para que el Enlace Administrativo efectúe los gastos correspondientes a su organización, mismos que deberá registrar en el SIA, así como la transportación y hospedaje de los disertantes.
-
-La documentación comprobatoria original incluyendo, en su caso, la del reintegro de los recursos no utilizados, derivados de las erogaciones o ahorros o economías que se realicen en la Casa de la Cultura, respecto la comprobación de los gastos de transportación y hospedaje de los disertantes deberá ser remitida a Presupuesto y Contabilidad por el Enlace Administrativo, bajo su más estricta responsabilidad, a más tardar dentro de los quince días hábiles siguientes a la terminación de la participación del disertante. En el mes de diciembre dicha entrega deberá realizarse a más tardar el día diez.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN I/2018 DEL CATORCE DE JUNIO DE DOS MIL DIECIOCHO DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN LIBRO 56 TOMO II DE JULIO DE 2018)
 
 ###### Artículo 56.
 
@@ -832,3 +822,23 @@ LICENCIADO RAFAEL COELLO CETINA, SECRETARIO EJECUTIVO DE ASUNTOS JURÍDICOS DE L
 CERTIFICA:
 
 Que esta copia del Acuerdo General de Administración VII/2008, del nueve de diciembre de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, relativo a diversas atribuciones administrativas de las Casas de la Cultura Jurídica de este Alto Tribunal, constante de veintinueve fojas útiles, concuerda fiel y exactamente con el original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente.-México, Distrito Federal, a once de diciembre de dos mil ocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN I/2018 DEL CATORCE DE JUNIO DE DOS MIL DIECIOCHO DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su aprobación por el Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo señalado en el presente Acuerdo General.
+
+TERCERO. Se derogan los artículos 49, 50, 51, 52, 53, 54 y 55 del Acuerdo General de Administración VII/2008, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, relativo a las diversas atribuciones de las Casas de la Cultura Jurídica de este Alto Tribunal.
+
+CUARTO. Quedan sin efectos los párrafos segundo y tercero del artículo Segundo Transitorio del Acuerdo General de Administración I/2012, por el que se regulan los procesos de planeación, programación, presupuestación, ejercicio y contabilidad de la Suprema Corte de Justicia de la Nación.
+
+QUINTO. Se deja sin efectos el acuerdo de veintiuno de mayo de dos mil trece del Comité de Gobierno y Administración, por el que autoriza la adecuación del artículo 136 del Acuerdo General de Administración I/2012, para actualizar y regular los gastos de viaje para disertantes.
+
+SEXTO. Todas las comisiones y disertaciones iniciadas antes de la vigencia de este Acuerdo General que se encuentren pendientes de conclusión y comprobación, se continuarán tramitando hasta su término, conforme a las disposiciones vigentes al momento de su inicio.
+
+SÉPTIMO. Publíquese este Acuerdo General en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta física en términos de lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública.
