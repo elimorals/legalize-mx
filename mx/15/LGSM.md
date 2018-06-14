@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "2018-01-24"
+last_updated: "2018-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -552,7 +552,13 @@ Los socios tendrán, en proporción a sus partes sociales, preferencia para subs
 
 La sociedad llevará un libro especial de los socios, en el cual se inscribirá el nombre y el domicilio de cada uno, con indicación de sus aportaciones, y la transmisión de las partes sociales. Esta no surtirá efectos respecto de terceros sino después de la inscripción.
 
-Cualquiera persona que compruebe un interés legítimo tendrá la facultad de consultar este libro, que estará al cuidado de los administradores, quienes responderán personal y solidariamente, de su existencia regular y de la exactitud de sus datos.
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+De la inscripción a que se refiere el párrafo anterior deberá publicarse un aviso en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio y las disposiciones para su operación.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+Cualquiera persona que compruebe un interés legítimo tendrá la facultad de consultar este libro, que estará al cuidado de los administradores, quienes responderán personal y solidariamente de su existencia regular y de la exactitud de sus datos.
 
 ###### ARTICULO 74.
 
@@ -1007,6 +1013,14 @@ IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1982)
 ###### ARTICULO 129.
 
 La sociedad considerará como dueño de las acciones a quien aparezca inscrito como tal en el registro a que se refiere el artículo anterior. A este efecto, la sociedad deberá inscribir en dicho registro, a petición de cualquier titular, las transmisiones que se efectúen.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+De la inscripción a que se refiere el párrafo anterior deberá publicarse un aviso en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio y las disposiciones para su operación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2018)</small>
+
+La Secretaría se asegurará que el nombre, nacionalidad y el domicilio del accionista contenido en el aviso se mantenga confidencial, excepto en los casos en que la información sea solicitada por autoridades judiciales o administrativas cuando ésta sea necesaria para el ejercicio de sus atribuciones en términos de la legislación correspondiente.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
 
@@ -2402,7 +2416,7 @@ D.O.F. 14 DE MARZO DE 2016.
 
 D.O.F. 29 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES".]
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DA A CONOCER EL FACTOR DE ACTUALIZACIÓN A LOS INGRESOS TOTALES ANUALES DE UNA SOCIEDAD POR ACCIONES SIMPLIFICADA CONFORME A LO DISPUESTO EN EL ARTÍCULO 260 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2017.
 
@@ -2415,5 +2429,11 @@ D.O.F. 26 DE DICIEMBRE DE 2017.
 D.O.F. 24 DE ENERO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
+
+Único.- El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SOCIEDADES MERCANTILES”.]
 
 Único.- El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
