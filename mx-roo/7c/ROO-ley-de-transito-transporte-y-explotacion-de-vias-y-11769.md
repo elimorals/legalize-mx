@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transito-transporte-y-explotacion-de-vias-y-11769"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2015-07-24"
+last_updated: "2018-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE TRANSITO, TRANSPORTE Y EXPLOTACION DE VIAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 14 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS NOVENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
+
 LEY DE TRÁNSITO, TRANSPORTE Y EXPLOTACIÓN DE VÍAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Extraordinario del Periódico Oficial de Estado de Quintana Roo, el 16 de diciembre de 1996.
 
@@ -810,3 +812,43 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente de
 P.O. 24 DE JULIO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. DE 14 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 213 POR EL QUE SE EXPIDE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor del presente Decreto, quedará abrogada la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo.
+
+TERCERO. Los actos administrativos otorgados, conforme a la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, mantendrán su vigencia hasta su conclusión en los términos aplicables.
+
+CUARTO. Las disposiciones reglamentarias de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo continuarán en vigor, en lo que no contradigan a las disposiciones de este Decreto, hasta en tanto no se expidan nuevas disposiciones.
+
+QUINTO. Los Reglamentos que deriven de esta Ley, deberán expedirse dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de esta Ley, hasta en tanto se continuarán aplicando los vigentes en lo que no se opongan a la presente Ley.
+
+Los Ayuntamientos deberán modificar o expedir sus disposiciones normativas municipales en el plazo previsto en el párrafo anterior, alineados a los lineamientos, principios y previsiones contenidos en el presente Decreto.
+
+SEXTO. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el Gobernador del Estado nombrará a la persona titular de la Dirección General del Instituto.
+
+SÉPTIMO. Las modificaciones que deban realizarse a los ordenamientos administrativos y la creación de manuales, lineamientos y demás dispositivos legales, deberán expedirse y publicarse a más tardar, en trescientos sesenta y cinco días naturales a la entrada en vigor de esta Ley.
+
+Los trabajadores de la Dirección de Comunicaciones y Transportes de la Secretaría de Infraestructura y Transporte del Poder Ejecutivo del Estado, que sean transferidos al Instituto, conservarán de manera íntegra sus derechos laborales.
+
+OCTAVO. La contratación de la póliza del seguro de responsabilidad civil para los vehículos de uso particular, será exigible a partir de la entrada en vigor de la presente Ley.
+
+NOVENO. La obligatoriedad para la instalación de Sistemas de geolocalización tipo GPS y de Equipos de Radiocomunicación en las unidades de Transporte concesionado surtirá efectos en los términos de lo establecido en el Reglamento de la presente Ley.
+
+DÉCIMO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+DÉCIMO PRIMERO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+DÉCIMO SEGUNDO. El Instituto expedirá, a más tardar, dentro de los seis meses siguientes a la entrada en vigor del presente ordenamiento:
+
+a) El Programa Integral de Movilidad;
+
+b) El Programa Integral de Seguridad Vial, y
+
+c) Los formatos de concesiones, permisos y autorizaciones a que se refiere esta Ley, los cuales deberán publicarse en el Periódico Oficial del Estado. Mientras tanto, los interesados seguirán presentando sus solicitudes en la forma y términos previos a la entrada en vigor de esta Ley.
+
+Los Ayuntamientos expedirán sus Programas Municipales de Movilidad dentro de los noventa días naturales, posteriores al vencimiento del plazo previsto en el primer párrafo de este artículo.
