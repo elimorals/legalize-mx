@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-archivos-85034"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2012-01-23"
-last_updated: "2018-01-19"
+last_updated: "2018-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85034&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-01-18"
 ---
 # LEY FEDERAL DE ARCHIVOS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY GENERAL DE ARCHIVOS, PUBLICADA EN EL D.O.F. DE 15 DE JUNIO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 365 DÍAS SIGUIENTES CONTADOS A PARTIR DE SU PUBLICACIÓN.]</small>
+
 LEY FEDERAL DE ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de enero de 2012.
 
@@ -822,3 +824,53 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO CUARTO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE ARCHIVOS”.]
+
+Primero. La presente Ley entrará en vigor a los 365 días siguientes contados a partir de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor de la Ley se abroga la Ley Federal de Archivos y se derogan todas aquellas disposiciones que contravengan la presente Ley.
+
+Tercero. En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la presente Ley.
+
+Cuarto. En un plazo de un año, a partir de la entrada en vigor de la presente Ley, las legislaturas de cada entidad federativa, deberán armonizar sus ordenamientos relacionados con la presente Ley.
+
+El Consejo Nacional emitirá lineamientos, mecanismos y criterios para la conservación y resguardo de documentos de acuerdo a las características económicas, culturales y sociales de cada región en los municipios que no tengan condiciones presupuestarias ni técnicas y cuenten con una población menor a 70,000 habitantes.
+
+Quinto. Las Secretarías de Gobernación, de Hacienda y Crédito Público y de la Función Pública, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones necesarias para que se autorice conforme a las disposiciones aplicables la estructura orgánica y ocupacional del Archivo General.
+
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+Séptimo. El Órgano de Gobierno del Archivo General, deberá expedir y publicar en el Diario Oficial de la Federación en un periodo no mayor a un año, contado a partir de la entrada en vigor de la presente Ley, el Estatuto Orgánico del Archivo General.
+
+Octavo. El Archivo General de la Nación permanecerá sectorizado a la Secretaría de Gobernación hasta el 31 de diciembre de 2018.
+
+A partir del 1 de enero de 2019, se incluirá dentro de la relación de Entidades Paraestatales de la Administración Pública Paraestatal como no sectorizado.
+
+Noveno. La Secretaría de Gobernación, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General para el cumplimiento del presente ordenamiento, hasta el 31 de diciembre de 2018.
+
+Décimo. Los Consejos Locales, deberán empezar a sesionar dentro de los seis meses posteriores a la adecuación de sus leyes locales.
+
+Décimo Primero. Los sujetos obligados deberán implementar su sistema institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+Décimo Segundo. El Consejo Nacional deberá integrarse dentro de tres meses a partir de la entrada en vigor de la presente Ley, y elaborar su reglamento en los seis meses subsecuentes.
+
+Décimo Tercero. El Archivo General pondrá en operación la plataforma del Registro Nacional de Archivos, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
+
+Décimo Cuarto. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+Décimo Quinto. Los documentos transferidos a un archivo histórico o a los archivos generales, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
+
+Aquellos sujetos obligados que cuenten con archivos históricos, deberán prever en el Programa anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley.
+
+Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+Décimo Sexto. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Décimo Séptimo. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
