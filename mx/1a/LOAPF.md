@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2018-04-24"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -520,8 +520,6 @@ III.- Intervenir en lo relativo a comisiones, congresos, conferencias y exposici
 
 IV.- Intervenir en las cuestiones relacionadas con los límites territoriales del país y aguas internacionales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 V.- Conceder a los extranjeros las licencias y autorizaciones que requieran conforme a las Leyes para adquirir el dominio de las Tierras, aguas y sus accesiones en la República Mexicana; obtener concesiones y celebrar contratos, intervenir en la explotación de Recursos Naturales o los permisos para adquirir bienes inmuebles o derechos sobre ellos;
@@ -766,7 +764,7 @@ XVII.- Llevar a cabo las tramitaciones y registros que requiera el control y la 
 
 XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA QUE MODIFICA LA LEY, D.O.F. 30 DE DICIEMBRE DE 2015.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA QUE MODIFICA LA LEY,[ D.O.F. 30 DE DICIEMBRE DE 2015.]</small>
 
 > <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
@@ -794,13 +792,9 @@ XXVII.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
 XXVIII.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
 XXIX.- Conducir la política inmobiliaria de la Administración Pública Federal, salvo por lo que se refiere a las playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas y demás zonas federales; administrar los inmuebles de propiedad federal cuando no estén asignados a alguna dependencia o entidad, así como llevar el registro público de la propiedad inmobiliaria federal y el inventario general correspondiente;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -809,8 +803,6 @@ XXX.- Regular la adquisición, arrendamiento, enajenación, destino o afectació
 XXXI.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
 
 XXXII.- (DEROGADA, D.O.F. 18 DE JULIO DE 2016)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2016)</small>
 
@@ -1248,7 +1240,7 @@ V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales
 
 VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
 
-> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE DEROGAN EXCLUSIVAMENTE LAS FACULTADES EN MATERIA DE INSPECCIÓN Y VIGILANCIA, DE PRECIOS O TARIFAS, ASÍ COMO LA DE SANCIONAR EN LOS CASOS DE INCUMPLIMIENTO, D.O.F. 4 DE ENERO DE 1989.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE DEROGAN EXCLUSIVAMENTE LAS FACULTADES EN MATERIA DE INSPECCIÓN Y VIGILANCIA, DE PRECIOS O TARIFAS, ASÍ COMO LA DE SANCIONAR EN LOS CASOS DE INCUMPLIMIENTO, D.O.F. 4 DE ENERO DE 1989.]</small>
 
 VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
 
@@ -1273,8 +1265,6 @@ XI.- Coordinar y dirigir con la colaboración de la Secretaría de Agricultura, 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 XII.- Normar y registrar la propiedad industrial y mercantil; así como regular y orientar la inversión extranjera y la transferencia de tecnología;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -1327,8 +1317,6 @@ XXIII.- Promover, orientar, fomentar y estimular la industria nacional;
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
 
 XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la industria pequeña y mediana y regular la organización de productores industriales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -1514,8 +1502,6 @@ XXXVIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 I.- Formular y conducir las políticas y programas para el desarrollo del transporte, con la intervención que las leyes otorgan a la Secretaría de Marina respecto al transporte por agua, así como de las comunicaciones, de acuerdo a las necesidades del país;
@@ -1558,13 +1544,9 @@ XV.- Establecer los requisitos que deban satisfacer el personal técnico de la a
 
 XVI.- Regular las comunicaciones y transportes por agua;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 XVII.- Participar con la Secretaría de Marina en la aplicación de las medidas en materia de seguridad y protección marítima;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -2752,6 +2734,10 @@ SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicacione
 
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
+
 OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
@@ -2766,7 +2752,7 @@ c. Que en dicha concentración no participe el agente económico preponderante e
 
 d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
 
-> <small>N. DE E. VÉASE PÁRRAFO SEGUNDO Y TERCERO EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 14 DE JULIO DE 2014, PÁGINAS 104 Y 105.</small>
+> <small>[N. DE E. VÉASE PÁRRAFO SEGUNDO Y TERCERO EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 14 DE JULIO DE 2014, PÁGINAS 104 Y 105.]</small>
 
 Los agentes económicos deberán presentar al Instituto Federal de Telecomunicaciones, dentro de los 10 días siguientes a la concentración, un aviso por escrito que contendrá la información a que se refiere el artículo 89 de la Ley Federal de Competencia Económica referida al sector correspondiente así como los elementos de convicción que demuestren que la concentración cumple con los incisos anteriores.
 
@@ -3153,3 +3139,11 @@ D.O.F. 24 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 41 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
