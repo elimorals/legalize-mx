@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-2611"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1995-06-07"
-last_updated: "2014-07-14"
+last_updated: "2018-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1995-06-06"
 ---
 # LEY FEDERAL DE TELECOMUNICACIONES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.]</small>
+
 LEY FEDERAL DE TELECOMUNICACIONES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EN EL D.O.F. DE 14 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 7 de junio de 1995.
 
@@ -1201,13 +1201,17 @@ SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicacione
 
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
+
 OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
 
 NOVENO. En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos:
 
-a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos;
+a. Generen una reducción sectorial del Índice de Dominancia "ID", siempre que el índice Hirschman-Herfindahl "IHH" no se incremente en más de doscientos puntos;
 
 b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento;
 
@@ -1412,3 +1416,11 @@ CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir 
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
