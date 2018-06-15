@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-agrupaciones-agricolas-en-el-estado-de-guanajuato-147
 country: "mx"
 rank: "ley"
 publication_date: "1933-11-16"
-last_updated: "1933-11-16"
+last_updated: "2018-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY SOBRE AGRUPACIONES AGRICOLAS EN EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 313, MEDIANTE EL CUAL LA SEXAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO ABROGA LA LEY SOBRE AGRUPACIONES AGRÍCOLAS EN EL ESTADO DE GUANAJUATO, CONTENIDA EN EL DECRETO LEGISLATIVO NÚMERO 238, EXPEDIDO POR LA TRIGÉSIMA CUARTA LEGISLATURA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DEL 16 DE NOVIEMBRE DE 1933, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY SOBRE AGRUPACIONES AGRICOLAS EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 16 de noviembre de 1933.
 
@@ -218,3 +220,13 @@ Lo tendrá entendido el ciudadano Gobernador Constitucional del Estado y dispond
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio de los Poderes del Estado, en Guanajuato, a los trece días del mes de noviembre de mil novecientos treinta y tres.- Melchor Ortega.- El Secretario Gral. De Gobierno, Lic. Ramón V. Santoyo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 313, MEDIANTE EL CUAL LA SEXAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO ABROGA LA LEY SOBRE AGRUPACIONES AGRÍCOLAS EN EL ESTADO DE GUANAJUATO, CONTENIDA EN EL DECRETO LEGISLATIVO NÚMERO 238, EXPEDIDO POR LA TRIGÉSIMA CUARTA LEGISLATURA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DEL 16 DE NOVIEMBRE DE 1933”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La Secretaría de Desarrollo Agroalimentario y Rural realizará una evaluación de aquellas asociaciones agrícolas constituidas al amparo de la Ley que se abroga en el presente Decreto y dará acompañamiento a las mismas para que migren a aquellas disposiciones normativas que les beneficien.
