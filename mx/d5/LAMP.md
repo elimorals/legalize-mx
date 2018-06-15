@@ -4,7 +4,7 @@ identifier: "LAMP"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-02"
-last_updated: "2018-01-19"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93440&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "LAMP"
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+
+> <small>[N. DE E. CONTIENE LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO PUBLICADO EL 14 DE JULIO DE 2014 “POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADA EN LA EDICIÓN VESPERTINA DEL DIARIO OFICIAL DE LA FEDERACIÓN EL 15 DE JUNIO DE 2018.]</small>
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -2668,6 +2670,10 @@ SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicacione
 
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
+
 OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
@@ -2921,3 +2927,11 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y 163 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
