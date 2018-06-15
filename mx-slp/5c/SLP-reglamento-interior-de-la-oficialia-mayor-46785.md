@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-oficialia-mayor-46785"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2016-10-14"
+last_updated: "2018-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR
 
-REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DEL ESTADO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 30 de julio de 2002.
 
 FERNANDO SILVA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, CON FUNDAMENTO EN EL ARTÍCULO 80 FRACCIÓN III, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO Y CON APOYO EN EL NUMERAL 83 DEL CITADO ORDENAMIENTO LEGAL, ASÍ COMO EN LOS ARTÍCULOS 11, 12 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, EXPIDO EL SIGUIENTE
 
-REGLAMENTO INTERIOR DE LA OFlCIALÍA MAYOR
+REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA OFICIALIA MAYOR
 
@@ -597,7 +599,7 @@ IX. Mantener actualizado el archivo y resguardo de los expedientes que se genere
 
 X. Elaborar actas, acuerdos, constancias de hechos, convenios modificatorios, adendums y demás instrumentos jurídicos que resulten de los procedimientos y de cualesquier otro que se realicen en las diversas áreas de la Dirección General de Adquisiciones;
 
-XI. Turnar al órgano de control interno, los expedientes de los procedimientos, en los que Iicitantes o proveedores infrinjan lo dispuesto en la Ley de Adquisiciones del Estado de San Luis Potosí, contratos, convenios, acuerdos y leyes aplicables; y
+XI. Turnar al órgano de control interno, los expedientes de los procedimientos, en los que licitantes o proveedores infrinjan lo dispuesto en la Ley de Adquisiciones del Estado de San Luis Potosí, contratos, convenios, acuerdos y leyes aplicables; y
 
 XII. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales de Oficialía Mayor y lo que expresamente le encomiende el titular de la misma.
 
@@ -710,3 +712,15 @@ P.O. 14 DE OCTUBRE DE 2016.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR”.]
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+Segundo. Se abroga el Reglamento Interior de la Oficialía Mayor publicado en el Periódico Oficial del Estado el 30 de julio de 2002 y sus reformas publicadas el 27 de agosto de 2005, el 30 de septiembre de 2008 y el 14 de octubre de 2016.
+
+Tercero: Procédase a la elaboración de los manuales de organización en un plazo no mayor a seis meses contados a partir de la publicación del presente decreto; asimismo, se deberá complementar con los manuales de procedimientos correspondientes.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente reglamento.
