@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2018-05-31"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -225,9 +225,9 @@ VII. SEPTIMO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: dos con residencia en Boca del Río, otro con sede en Xalapa y uno con residencia en Veracruz, Veracruz.
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 14/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
 
-3. Diecisiete juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro con sede en Boca del Río, dos con sede en Tuxpan, dos con sede en Poza Rica y dos con sede en Córdoba.
+3.- Dieciocho Juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
 
 VIII. OCTAVO CIRCUITO:
 
@@ -263,7 +263,9 @@ X. DECIMO CIRCUITO:
 
 3. Siete juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
 
-4. Tres juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
+> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+4. Cuatro Juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
 
 XI. DECIMOPRIMER CIRCUITO:
 
@@ -461,9 +463,9 @@ XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
 2. Un tribunal unitario con sede en Cancún.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 13/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
 
-3. Siete Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y cinco con sede en Cancún.
+3. Ocho Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y seis con sede en Cancún.
 
 4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún.
 
@@ -891,7 +893,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y tres juzgados de Distrito Auxiliares.
 
-11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, el cual se integrará por dos tribunales colegiados de Circuito Auxiliares y dos juzgados de Distrito Auxiliares.
+> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz se integrará por dos tribunales Colegiados de Circuito Auxiliares.
 
 Todos los órganos jurisdiccionales antes citados tendrán jurisdicción en toda la República Mexicana y su competencia será mixta, a excepción del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región que además se especializa en materia de extinción de dominio.
 
@@ -5822,6 +5826,222 @@ II Ter. Centro de Justicia Penal Federal en el Estado de Chiapas, con residencia
 III. a XIII. …”
 
 OCTAVO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 13/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO OCTAVO DE DISTRITO EN EL ESTADO DE QUINTANA ROO, CON RESIDENCIA EN LA CIUDAD DE CANCÚN; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de junio de dos mil dieciocho, con excepción de lo previsto en el transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+CUARTO. El turno de guardia para la recepción de asuntos en días y horas inhábiles establecido para los Juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, continuará aplicándose hasta el dos de julio de dos mil dieciocho y se modifica para incorporar al Juzgado de Distrito de nueva creación para quedar como sigue:
+
+PERIODO DE GUARDIA ÓRGANO JURISIDICCIONAL AL QUE
+
+CORRESPONDE LA GUARDIA
+
+DEL 2 AL 9 DE JULIO DE 2018 JUZGADO OCTAVO DE DISTRITO EN EL
+
+ESTADO DE QUINTANA ROO, CON
+
+RESIDENCIA EN CANCÚN
+
+DEL 9 AL 16 DE JULIO DE 2018 JUZGADO SEGUNDO DE DISTRITO EN
+
+EL ESTADO DE QUINTANA ROO, CON
+
+RESIDENCIA EN CANCÚN
+
+DEL 16 AL 23 DE JULIO DE 2018 JUZGADO TERCERO DE DISTRITO EN
+
+EL ESTADO DE QUINTANA ROO, CON
+
+RESIDENCIA EN CANCÚN
+
+DEL 23 AL 30 DE JULIO DE 2018 JUZGADO CUARTO DE DISTRITO EN EL
+
+ESTADO DE QUINTANA ROO, CON
+
+RESIDENCIA EN CANCÚN
+
+DEL 30 DE JULIO AL JUZGADO QUINTO DE DISTRITO EN EL
+
+6 DE AGOSTO DE 2018 ESTADO DE QUINTANA ROO, CON
+
+RESIDENCIA EN CANCÚN
+
+DEL 6 AL 13 DE AGOSTO DE 2018 JUZGADO SÉPTIMO DE DISTRITO EN EL
+
+ESTADO DE QUINTANA ROO, CON
+
+RESIDENCIA EN CANCÚN
+
+DEL 13 AL 20 DE AGOSTO DE 2018 JUZGADO OCTAVO DE DISTRITO EN EL
+
+ESTADO DE QUINTANA ROO, CON
+
+RESIDENCIA EN CANCÚN
+
+Y así sucesivamente en ese orden.
+
+Los turnos de guardia inician el día lunes a las ocho horas con treinta minutos y finalizan el siguiente lunes a las ocho horas con veintinueve minutos.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XXVII, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XXVI. …
+
+XXVII. …
+
+1. a 2. …
+
+3. Ocho Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y seis con sede en Cancún.
+
+4. …
+
+XXVIII. a XXXII. …”
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 14/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN BOCA DEL RÍO; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de junio de dos mil dieciocho, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los Juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río, conservarán su actual denominación, jurisdicción territorial y competencia, con las excepciones señaladas en el presente Acuerdo, y continuarán conociendo de los asuntos en materia mercantil que se les haya turnado antes del inicio de funciones del Juzgado de Distrito en Materia Mercantil Federal a que se refiere el presente acuerdo, hasta su total conclusión y archivo.
+
+A fin de equilibrar las cargas de trabajo que llegaren a presentarse en el Juzgado de Distrito en Materia Mercantil Federal en el Estado de Veracruz, con residencia en Boca del Río, la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida por parte de los Juzgados de Distrito actualmente en funciones en la misma residencia, para conocer de asuntos mercantiles y comunicaciones relacionadas con éstos que se presenten en ese circuito, así como regular el turno, total o parcial, de éstos.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones. El órgano jurisdiccional deberá contar con una sala para la celebración de las audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos que garanticen su fidelidad, integridad, preservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción VII, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a VI. …
+
+VII. …
+
+1. a 2. ...
+
+3. Dieciocho Juzgados de Distrito en el Estado de Veracruz, dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco con sede en Xalapa, cuatro Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
+
+VIII. a XXXII. …”
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, Y SU TRANSFORMACIÓN EN JUZGADO DÉCIMO NOVENO DE DISTRITO EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN COATZACOALCOS, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de junio de dos mil dieciocho, con excepción del artículo 1, el cual entrará en vigor en la fecha señalada en el mismo; y de los Transitorios CUARTO y QUINTO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido para los Juzgados de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, continuará aplicándose hasta el dieciocho de junio de dos mil dieciocho, y se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
+
+PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
+
+CORRESPONDE LA GUARDIA
+
+Del 18 al 25 de junio de 2018 Juzgado Décimo Noveno de Distrito en el
+
+Estado de Veracruz, con residencia en
+
+Coatzacoalcos
+
+Del 25 de junio al 2 de julio de 2018 Juzgado Noveno de Distrito en el Estado
+
+de Veracruz, con residencia en
+
+Coatzacoalcos
+
+Del 2 al 9 de julio de 2018 Juzgado Décimo de Distrito en el Estado
+
+de Veracruz, con residencia en
+
+Coatzacoalcos
+
+Del 9 al 16 de julio de 2018 Juzgado Décimo Cuarto de Distrito en el
+
+Estado de Veracruz, con residencia en
+
+Coatzacoalcos
+
+Del 16 al 23 de julio de 2018 Juzgado Décimo Noveno de Distrito en el
+
+Estado de Veracruz, con residencia en
+
+Coatzacoalcos
+
+Y así sucesivamente en ese orden.
+
+Los turnos de guardia inician el día lunes a las ocho horas con treinta minutos y finalizan el siguiente lunes a las ocho horas con veintinueve minutos.
+
+CUARTO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión de los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Decimoprimera Región con residencia en Coatzacoalcos, Veracruz.
+
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos.
+
+SEXTO. Los Jueces Primero y Segundo de Distrito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, serán readscritos por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+SÉPTIMO. Se reforman los numerales SEGUNDO, fracción X, número 4; y QUINTO, número 11, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a IX. …
+
+X. …
+
+1. a 3. …
+
+4. Cuatro Juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
+
+XI. a XXXII. …
+
+QUINTO. …
+
+1. a 10. …
+
+11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz se integrará por dos tribunales Colegiados de Circuito Auxiliares.
+
+…”
+
+OCTAVO. Se reforman el numeral PRIMERO, párrafo primero; así como la tabla contenida en el numeral SEXTO; y se derogan los párrafos segundo, tercero y cuarto del numeral PRIMERO, así como los numerales DÉCIMO y DÉCIMO PRIMERO, del Acuerdo General 33/2011 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán, para quedar como sigue:
+
+“PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz está conformado por dos tribunales colegiados de Circuito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, su denominación será la siguiente:
+
+Derogado.
+
+Derogado.
+
+Derogado.
+
+…
+
+…
+
+…
+
+SEXTO. …
+
+> <small>[N. DE E. VEASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 15 DE JUNIO DE 2018, PÁGINA 92.]</small>
+
+DÉCIMO. Derogado
+
+DÉCIMO PRIMERO. Derogado.”
+
+NOVENO. Los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, previo a su conclusión de funciones, deberán remitir los asuntos pendientes de resolución de manera equitativa a los Juzgados de Distrito del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla. Los asuntos que reciban los Juzgados de Distrito Auxiliares en cita, formarán parte de la remesa del mes correspondiente de dos mil dieciocho.
+
+DÉCIMO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
 
 ###### Artículo 10.
 
