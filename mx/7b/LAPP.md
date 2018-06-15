@@ -4,7 +4,7 @@ identifier: "LAPP"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-16"
-last_updated: "2016-04-21"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84590&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LAPP"
 ---
 # LEY DE ASOCIACIONES PUBLICO PRIVADAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de enero de 2012.
 
@@ -1576,6 +1578,10 @@ SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicacione
 
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
+
 OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
@@ -1821,3 +1827,11 @@ Segundo. Los proyectos de asociaciones público-privadas que se encuentren en pr
 Tercero. El Ejecutivo Federal deberá realizar las modificaciones que, como consecuencia de lo previsto en el presente Decreto, sean necesarias al Reglamento de la Ley de Asociaciones Público Privadas, a más tardar a los ciento ochenta días hábiles siguientes a la entrada en vigor de dicho Decreto.
 
 Cuarto. A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
