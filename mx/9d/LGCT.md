@@ -4,7 +4,7 @@ identifier: "LGCT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-05-30"
-last_updated: "2010-01-06"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61148&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCT"
 
 LEY GENERAL PARA EL CONTROL DEL TABACO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de mayo de 2008.
 
@@ -538,6 +538,28 @@ Los verificadores estarán sujetos a la Ley Federal de Responsabilidades Adminis
 
 En todo lo relativo a los procedimientos para la aplicación de medidas de seguridad y sanciones, los recursos de inconformidad y prescripción, se aplicará lo establecido en las disposiciones de la Ley General de Salud.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+## Título Octavo. De los Delitos
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+###### Artículo 56.
+
+A quien por sí o a través de otra persona a sabiendas de ello, adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de cualquier producto del tabaco en los términos que se define en la presente Ley y en la Ley General de Salud, se le aplicará una pena de uno a nueve años de prisión y multa equivalente de cien a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+La misma pena se aplicará a quien por sí o a través de otra persona mezcle productos de tabaco adulterados, falsificados, contaminados o alterados con otros que no lo sean, a través de la cadena de suministro.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2018)</small>
+
+###### Artículo 57.
+
+A quien, por sí o a través de otra persona, introduzca al país, exporte, almacene, transporte, expenda, venda o de cualquier forma distribuya productos de tabaco de los que hace mención esta Ley, adulterados, falsificados, contaminados, alterados o mezclados en términos del último párrafo del artículo anterior, se le aplicará una pena de uno a nueve años de prisión y multa equivalente de cien a mil veces el valor diario de la Unidad de Medida y Actualización.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
@@ -575,3 +597,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 6 DE ENERO DE 2010.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UN TÍTULO OCTAVO, DENOMINADO "DE LOS DELITOS", CAPÍTULO ÚNICO, QUE COMPRENDE LOS ARTÍCULOS 56 Y 57 A LA LEY GENERAL PARA EL CONTROL DEL TABACO".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
