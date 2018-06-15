@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2018-05-11"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -1423,7 +1423,9 @@ X.- Las demás que le señalen las leyes, reglamentos o acuerdos del Ayuntamient
 
 Las autoridades auxiliares no podrán administrar más recursos que los recibidos para los gastos de administración y funcionamiento de sus oficinas. No podrán ejecutar obras en forma directa, salvo las que autorice el Ayuntamiento.
 
-### CAPÍTULO V. DE LAS LICENCIAS Y DEL MODO DE SUPLIR LAS AUSENCIAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO V. DE LAS LICENCIAS, RENUNCIAS Y DEL MODO DE SUPLIR LAS AUSENCIAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 82.
 
@@ -1453,9 +1455,13 @@ b) Tratándose de los Síndicos y Regidores, se llamará al suplente respectivo.
 
 Al término del plazo de la licencia concedida, el concejal deberá integrarse de inmediato a su cargo. De no hacerlo, los integrantes del Ayuntamiento solicitarán la suspensión y revocación del mandato, de acuerdo a lo establecido por esta Ley.
 
-De los casos a que se refieren las fracciones II y III del presente artículo, se dará aviso a la Legislatura para su autorización y la emisión del decreto que corresponda.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2018)</small>
 
-Las licencias a que se refiere el párrafo anterior, así como las licencias o renuncias de la mayoría absolutas de sus miembros, deberán ser ratificadas por el o los solicitantes ante el órgano respectivo del Congreso del Estado.
+De los casos a que se refieren las fracciones II y III del presente artículo, se dará aviso a la Legislatura para la emisión del decreto que corresponda.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2018)</small>
+
+Las licencias a que se refiere el párrafo anterior, así como las renuncias de miembros del Ayuntamiento, que hayan sido autorizadas y calificadas por éste, deberán ratificarse ante el órgano respectivo del Congreso del Estado, previo a la emisión del decreto en cada caso.
 
 ###### ARTÍCULO 84.
 
@@ -3150,3 +3156,9 @@ P.O. 11 DE MAYO DE 2018.
 PRIMERO. El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1463 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
