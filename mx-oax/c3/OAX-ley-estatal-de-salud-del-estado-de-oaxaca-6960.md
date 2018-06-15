@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2017-11-30"
+last_updated: "2018-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -455,7 +455,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-III.- La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2018)</small>
+
+III.- La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas y de rehabilitación, incluyendo la atención de urgencias, así como los cuidados paliativos indispensables para enfermos con padecimiento crónico-degenerativos o en etapa terminal.
 
 IV.- La atención infantil;
 
@@ -824,6 +826,10 @@ VIII.- Procedimientos que permitan la participación activa de la familia en la 
 IX.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno; y
 
 X.- Detección del cáncer cérvico-uterino y de mama, en todas las unidades de atención a población abierta.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2018)</small>
+
+XI. Establecer y promover acciones para la prevención y atención del cáncer de próstata y testicular.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1763,7 +1769,7 @@ II.- Organizar campañas educativas tendientes a erradicar la violencia intrafam
 
 III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS BEBIDAS, NO ALCOHOLICAS Y ALCOHOLICAS
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
@@ -3452,3 +3458,9 @@ P.O. 30 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1475.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
