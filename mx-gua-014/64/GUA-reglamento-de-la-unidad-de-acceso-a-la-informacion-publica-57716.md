@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-5771
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-13"
-last_updated: "2013-09-03"
+last_updated: "2018-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE DOLORES HIDALGO, CUNA DE LA INDEPENDENCIA NACIONAL, GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA UNIDAD DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE DOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL, GUANAJUATO, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE DOLORES HIDALGO, CUNA DE LA INDEPENDENCIA NACIONAL, GUANAJUATO
 
-ÚLTIMA REFORMA PÚBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PÚBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 13 de noviembre de 2007.
 
@@ -283,7 +285,7 @@ V.- Forma en que desea le sea notificada la resolución correspondiente.
 
 Los solicitantes de la información pública deberán señalar el mecanismo por el cual le será notificada la resolución correspondiente. Tal notificación podrá ser:
 
-l.- Personalmente en el domicilio de la Unidad de Acceso;
+I.- Personalmente en el domicilio de la Unidad de Acceso;
 
 II.- En el domicilio señalado para recibir notificaciones; o
 
@@ -375,7 +377,7 @@ No podrán invocarse como causales de ampliación del plazo, los motivos que sup
 
 Podrán ser causas de ampliación de término para la entrega de información:
 
-l.- Cuando el sujeto obligado tenga la información solicitada, pero sea materialmente imposible tenerla en el lapso de término previsto por la ley.
+I.- Cuando el sujeto obligado tenga la información solicitada, pero sea materialmente imposible tenerla en el lapso de término previsto por la ley.
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2013)</small>
 
@@ -387,7 +389,7 @@ III.- Por causas de fuerza mayor.
 
 Podrán ser causas de negativa de la información:
 
-l.- Cuando una dependencia notifica a la Unidad de Acceso que no posee la información solicitada.
+I.- Cuando una dependencia notifica a la Unidad de Acceso que no posee la información solicitada.
 
 II.- Cuando la información solicitada esté clasificada como confidencial o reservada.
 
@@ -479,7 +481,7 @@ Lic. Arturo Barajas Olvera.
 
 Secretario del Ayuntamiento.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 17 DE FEBRERO DE 2009.
 
@@ -496,3 +498,13 @@ Las reformas al presente reglamento, entraran en vigor el cuarto día siguiente 
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos de información que hayan iniciado antes de la entrada en vigor del presente decreto, se tramitaran y resolverán de conformidad con las disposiciones vigentes al momento de su inicio.
+
+P.O. 15 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA UNIDAD DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE DOLORES HIDALGO CUNA DE LA INDEPENDENCIA NACIONAL, GUANAJUATO”.]
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO. Se abroga el Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Dolores Hidalgo, Cuna de la Independencia Nacional, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 182, segunda parte de fecha 13 de noviembre de 2007.
+
+TERCERO. Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan al presente ordenamiento.
