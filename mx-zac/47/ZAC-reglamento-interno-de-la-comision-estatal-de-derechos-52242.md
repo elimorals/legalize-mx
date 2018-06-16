@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interno-de-la-comision-estatal-de-derechos-52242"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-09-25"
-last_updated: "2018-06-09"
+last_updated: "2018-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JUNIO DE 2018 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2018 Y SU RESPECTIVA FE DE ERRATAS DE 16 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018 (ABROGADO).
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE JUNIO DE 2018 NO APLICA AL ARTICULADO DEL SUPLEMENTO NÚMERO 3 AL 46, PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2018.]</small>
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 25 de septiembre de 1993.
 
@@ -699,9 +699,9 @@ P.O. 8 DE NOVIEMBRE DE 2006.
 
 UNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial Órgano del Gobierno del Estado de Zacatecas, Zacatecas, y deberá aplicarse a partir del 15 de junio del año dos mil seis, fecha de entrada en vigor de las reformas a la Ley de la Comisión Estatal de Derechos Humanos.
 
-P.O. 9 DE JUNIO DE 2018.
+P.O. 9 DE JUNIO DE 2018 Y F. DE E. 16 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS".]
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS".]
 
 Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
