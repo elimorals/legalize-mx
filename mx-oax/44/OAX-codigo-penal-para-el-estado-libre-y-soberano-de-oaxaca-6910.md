@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-05-12"
+last_updated: "2018-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4711,6 +4711,20 @@ Si la violencia se ejerce en despoblado o en paraje solitario se aplicara prisi�
 
 270.- Se aplicará prisión de diez a treinta años al que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo particular o de transporte público.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO IV. OCUPACIÓN IRREGULAR DE ÁREAS O PREDIOS
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+270 Bis.- Se aplicará prisión de dos a cinco años y multa de cien a 300 veces el valor de la Unidad de Medida y actualización a los sujetos privados o públicos que:
+
+I. Propicien o permitan la ocupación irregular de áreas y predios en los centros de población;
+
+II. Autoricen indebidamente asentamientos humanos o construcciones en Zonas de riesgo o polígonos de protección, salvaguarda y amortiguamiento; y,
+
+III. No respeten el ordenamiento territorial, el desarrollo urbano y desarrollo metropolitano en condiciones de equidad, generado por la consolidación y el crecimiento urbano.
+
 TITULO DECIMOSEXTO.
 
 Delitos contra la vida y la integridad corporal.
@@ -5219,6 +5233,12 @@ TITULO DECIMONOVENO.
 
 Delitos en contra de las personas en su patrimonio.
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO I.
 
 Robo.
@@ -5394,12 +5414,6 @@ IX.- Cuando se cometa estando la víctima en un vehículo particular o de transp
 X.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO II.
 
@@ -5847,19 +5861,29 @@ Se entiende por razones de género cuando ocurra cualquiera de las siguientes ci
 
 I.- La víctima presente signos de violencia sexual de cualquier tipo;
 
-> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
 
-II.- A la víctima se le haya infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras, mutilaciones con implicaciones sexuales o que le genere sufrimiento.
+II.- A la víctima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras; mutilaciones con implicaciones degradantes y/o sexuales.
 
-III.- Existan antecedentes o indicios anteriores de amenazas, acoso o maltrato del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+III.- Existan antecedentes o indicios anteriores de cualquier tipo de violencia, misoginia, amenazas, hostigamiento, acoso o maltrato del sujeto activo en contra de la víctima;
 
 IV.- El cadáver o restos de la víctima hayan sido enterrados u ocultados;
 
-V.- El cadáver o restos de la víctima hayan sido expuestos en lugar público;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
 
-VI.- La víctima haya sido incomunicada o privada de su libertad, y
+V.- El cuerpo o restos de la víctima hayan (sic) sido expuesto o arrojado en lugar público;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+VI.- La víctima haya sido incomunicada o privada de su libertad, cualquiera que sea el tiempo;
 
 VII.- Por desprecio u odio a la víctima motivado por discriminación o misoginia.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+VIII.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
 
 Se entiende por misoginia las conductas contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
 
@@ -5867,9 +5891,15 @@ Se entiende por misoginia las conductas contra la mujer que se manifiestan media
 
 412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
 
-Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
 Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -5921,16 +5951,6 @@ III. Cause lesiones y/o marcas de por vida que generen una agonía permanente pa
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO SEGUNDO. De la Privación de la Vida
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
-
-I. Dolosamente prive de la vida a un animal vertebrado.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
 ## TITULO VIGESIMO.
 
 Encubrimiento.
@@ -5953,6 +5973,16 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPITULO SEGUNDO. De la Privación de la Vida
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
+
+I. Dolosamente prive de la vida a un animal vertebrado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
@@ -5962,6 +5992,10 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO CUARTO. Excluyentes
 
@@ -5982,10 +6016,6 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
 
@@ -6616,3 +6646,15 @@ OCTAVO. Las disposiciones relativas a los delitos a que se refiere esta Ley prev
 NOVENO. La Fiscalía General del Estado de Oaxaca, capacitará a su personal en materia de planeación de investigación dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
 
 DÉCIMO. La Fiscalía General del Estado de Oaxaca, contará con el término de ciento ochenta días naturales para la implementación de los programas a que se refiere esta Ley, en coordinación con la Secretaría General de Gobierno y demás entes intervinientes.
+
+P.O. 16 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1395.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1470.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
