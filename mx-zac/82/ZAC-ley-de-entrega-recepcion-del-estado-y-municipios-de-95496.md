@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-entrega-recepcion-del-estado-y-municipios-de-95496"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2013-07-31"
+last_updated: "2018-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE ENTREGA-RECEPCION DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 16 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ENTREGA-RECEPCIÓN DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 31 de julio de 2013.
 
@@ -41,7 +43,9 @@ En la misma fecha y por acuerdo de la Presidencia de la Mesa Directiva, la Inici
 
 RESULTANDO SEGUNDO.- La diputada justificó su iniciativa en la siguiente:
 
-"EXPOSICIÓN DE MOTIVOS: ...
+"EXPOSICIÓN DE MOTIVOS:
+
+[...]
 
 Por lo anteriormente expuesto y fundado, y con apoyo además de lo dispuesto por los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -511,7 +515,7 @@ II. Relación de equipo de transporte y maquinaria, por unidad administrativa re
 
 III. Relación de equipo de comunicación por unidad administrativa responsable, conteniendo número de inventario, tipo de aparato, marca, serie, nombre y cargo del servidor público resguardante;
 
-IV. Relación del armamento oficial, según corresponda, por unidad administrativa responsable, que contenga número de inventario, tipo de arma o instrumento, marca, calibre, matricula y el nombre y cargo del servidor público resguardante;
+IV. Relación del armamento oficial, según corresponda, por unidad administrativa responsable, que contenga número de inventario, tipo de arma o instrumento, marca, calibre, matrícula y el nombre y cargo del servidor público resguardante;
 
 V. Relación de los bienes inmuebles, señalando los datos del Registro Público de la Propiedad, descripción del bien, tipo de predio, ubicación y el uso actual que se le da al bien inmueble, y
 
@@ -1224,3 +1228,39 @@ L.C. GUILLERMO HUÍZAR CARRANZA.
 EL SECRETARIO DE ADMINISTRACIÓN
 
 LIC. LE ROY BARRAGÁN OCAMPO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE ZACATECAS”.]
+
+Entrada en vigor
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Abrogación y derogación
+
+Artículo segundo. Se abroga la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas, publicada en el Suplemento número 61 del Periódico Oficial, Órgano de Gobierno del Estado correspondiente al 31 de julio del año 2013 y se derogan las disposiciones legales que contravengan a la presente Ley.
+
+Manuales Legislatura y Municipios
+
+Artículo tercero. Dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley, se publicará en el Periódico Oficial, Órgano de Gobierno del Estado, el manual técnico de entrega-recepción Institucional de la Legislatura del Estado y el manual técnico de entrega-recepción Institucional de los Municipios.
+
+En tanto estén publicados los manuales señalados en el párrafo anterior, se aplicarán los lineamientos, acuerdos y disposiciones que emita la Auditoría Superior, mismas que serán publicadas en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Manuales Poderes Ejecutivo, Judicial y organismos autónomos
+
+Artículo cuarto. Dentro de los ciento ochenta días hábiles siguientes contados a partir de la entrada en vigor de la presente Ley, se publicará en el Periódico Oficial, Órgano de Gobierno del Estado, el Manual Técnico de Entrega-Recepción Institucional del Poder Ejecutivo del Estado y organismos públicos autónomos, así como el manual técnico de entrega-recepción Institucional del Poder Judicial del Estado.
+
+Manual de entrega-recepción individual
+
+Artículo quinto. Dentro de los ciento ochenta días hábiles siguientes contados a partir de la entrada en vigor de la presente Ley se publicará en el Periódico Oficial, Órgano de Gobierno del Estado, el manual técnico de Entrega-Recepción Individual.
+
+Actualización Comisión de Entrega
+
+Artículo sexto. Los municipios que hubieran conformado la Comisión de Entrega de acuerdo a la ley que se abroga, deberán actualizar su integración en un plazo no mayor a quince días hábiles contados a partir de la publicación de esta Ley.
+
+Conclusión de procesos de Entrega-Recepción Individual
+
+Artículo séptimo. Los procesos de Entrega-Recepción Individual iniciados con anterioridad a la entrada en vigor de esta Ley, deberán continuarse hasta su conclusión en los términos de la ley que se abroga y del manual respectivo.
