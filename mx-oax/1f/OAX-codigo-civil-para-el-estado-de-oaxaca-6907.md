@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-05-11"
+last_updated: "2018-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -2403,9 +2403,15 @@ Los hermanos y parientes colaterales a que se refiere el artículo anterior tien
 
 El adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 320.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentario y para proporcionarle un oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad, los gastos de embarazo y parto. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación del alimentario y para proporcionarle un oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+También comprenden las atenciones a las necesidades psíquicas, afectiva y de sano esparcimiento y en su caso los gastos de funerales.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2495,7 +2501,21 @@ II. Cuando el alimentario deja de necesitar los alimentos;
 
 III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo o al estudio del alimentario mayor de edad, mientras subsistan estas causas;
 
-IV. Si el alimentario, sin consentimiento del que deba dar los alimentos, abandona la casa de éste, por causas injustificadas. Si las causas fueron atendibles, podrá el alimentario solicitar su desincorporación.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+IV. Si el alimentario, sin consentimiento del que deba dar los alimentos, abandona la casa de éste, por causas injustificadas. Si las causas fueron atendibles, podrá el alimentario solicitar su desincorporación;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+V. Cuando los hijos cumplan la mayoría de edad y no se encuentren estudiando; hayan concluidos (sic) sus estudios, contraigan nupcias o se emancipen;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+VI. En caso de violencia familiar inferida, por el acreedor alimentista mayor de edad, contra el que debe prestarlos; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+VII. Cuando el cónyuge o concubino que los recibe, realice un trabajo o actividad que le permita subsistir, contraiga nuevas nupcias o se una en concubinato.
 
 ###### Artículo 333.
 
@@ -4891,11 +4911,11 @@ III. Por el pariente que suministre alimentos a sus ascendientes, descendientes 
 
 IV. Por el tutor cuando administre bienes pertenecientes al incapacitado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 745.
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, en los términos del Artículo 753 de este Código, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
+El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, en los términos del Artículo 753 de este Código, designando con toda precisión y de manera que puedan ser inscritos en el Instituto de la Función Registral los bienes que van a quedar afectados.
 
 Además comprobará lo siguiente:
 
@@ -4959,11 +4979,11 @@ V. Cuando por causa de utilidad pública o social se expropien los bienes que lo
 
 VI. (DEROGADA, P.O. 31 DE MAYO DE 1997)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 753.
 
-La declaración de constitución, de modificación o extinción del patrimonio familiar, se promoverá ante el Juez competente, por la vía de jurisdicción voluntaria, y en caso de controversia, se estará a lo dispuesto en el Título Decimoséptimo, Capítulo Unico, de las controversias del orden familiar, del Código de Procedimientos Civiles para el Estado de Oaxaca y la comunicará al Registro Público, para que se haga la inscripción, anotación o cancelación que corresponda.
+La declaración de constitución, de modificación o extinción del patrimonio familiar, se promoverá ante el Juez competente, por la vía de jurisdicción voluntaria, y en caso de controversia, se estará a lo dispuesto en el Título Decimoséptimo, Capítulo Único, de las controversias del orden familiar, del Código de Procedimientos Civiles para el Estado de Oaxaca y la comunicará al Instituto de la Función Registral, para que se haga la inscripción, anotación o cancelación que corresponda.
 
 Cuando el patrimonio se extinga por la causa prevista en la fracción V del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial debiendo hacerse en el Registro la cancelación que proceda.
 
@@ -4975,9 +4995,11 @@ Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pl
 
 El Ministerio Público será oído en los procedimientos sobre extinción y reducción del patrimonio de la familia.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 756.
 
-Las anotaciones e inscripciones que hagan las oficinas del Registro Público, con motivo del patrimonio de la familia, serán hechas sin costo alguno para los interesados.
+Las anotaciones e inscripciones que hagan las oficinas del Instituto de la Función Registral, con motivo del patrimonio de la familia, serán hechas sin costo alguno para los interesados.
 
 # LIBRO SEGUNDO. De los bienes
 
@@ -5089,6 +5111,8 @@ Los no fungibles son los que no pueden ser substituídos por otros de la misma e
 
 ### CAPITULO V. De los bienes vacantes
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 774.
 
 Los bienes son del dominio del poder público o de propiedad de los particulares.
@@ -5177,7 +5201,7 @@ La venta se hará siempre en almoneda pública.
 
 ###### Artículo 794.
 
-Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido y cuya posesión apta para prescribir no está prescrita en favor de persona alguna en el Registro Público.
+Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido y cuya posesión apta para prescribir no está prescrita en favor de persona alguna en el Instituto de la Función Registral.
 
 ###### Artículo 795.
 
@@ -6027,9 +6051,11 @@ Las enajenaciones hechas por herederos o legatarios de la parte de herencia que 
 
 La copropiedad cesa: por la división de la cosa común; por la destrucción o pérdida de ella; por su enajenación y por la consolidación o reunión de todas las cuotas en un solo copropietario.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 979.
 
-La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenecen antes de hacerse la partición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquiriente de buena fe, que inscribe su título en el Registro Público.
+La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenecen antes de hacerse la partición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquiriente de buena fe, que inscribe su título en el Instituto de la Función Registral.
 
 ###### Artículo 980.
 
@@ -6859,13 +6885,17 @@ Cuando la posesión se adquiere por medio de violencia aunque ésta cese y la po
 
 La posesión adquirida por medio de un delito, se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose la posesión como de mala fe.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 1158.
 
-El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
+El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Instituto de la Función Registral, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 1159.
 
-La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público y servirá de título de propiedad al poseedor.
+La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Instituto de la Función Registral y servirá de título de propiedad al poseedor.
 
 ### CAPITULO V. De la interrupción de la prescripción
 
@@ -7695,9 +7725,11 @@ IV. Legados de alimentos o de educación;
 
 V. Los demás a prorrata.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 1321.
 
-Los legatarios tienen derecho de reivindicar de tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada, observándose respecto de los actos y contratos inscritos en el Registro Público por terceros que los hayan celebrado de buena fe, lo dispuesto para poseedores de esta clase.
+Los legatarios tienen derecho de reivindicar de tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada, observándose respecto de los actos y contratos inscritos en el Instituto de la Función Registral por terceros que los hayan celebrado de buena fe, lo dispuesto para poseedores de esta clase.
 
 ###### Artículo 1322.
 
@@ -10155,9 +10187,11 @@ La facultad de resolver las obligaciones se entiende implícita en las recíproc
 
 El perjudicado podrá escoger entre exigir el cumplimiento o la resolución de la obligación, con el resarcimiento de daños y perjuicios en ambos casos. También podrá pedir la resolución aún después de haber optado por el cumplimiento, cuando éste resultare imposible.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 1820.
 
-La resolución del contrato fundada en falta de pago por parte del adquirente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efectos contra tercero de buena fe, si no ha estipulado expresamente y ha sido inscrito en el Registro Público en la forma prevenida por la ley.
+La resolución del contrato fundada en falta de pago por parte del adquirente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efectos contra tercero de buena fe, si no ha estipulado expresamente y ha sido inscrito en el Instituto de la Función Registral en la forma prevenida por la ley.
 
 ###### Artículo 1821.
 
@@ -10451,9 +10485,11 @@ El acreedor de cosa cierta no puede ser obligado a recibir otra aun cuando sea d
 
 La obligación de dar cosa cierta comprende también la de entregar sus accesorios; salvo que lo contrario resulte del título de la obligación o de las circunstancias del caso.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 1884.
 
-En las enajenaciones de cosas ciertas y determinadas, la traslación de la propiedad se verifica entre los contratantes por mero efecto del contrato, sin dependencia de tradición ya sea natural, ya sea simbólica; debiendo tenerse en cuenta las disposiciones relativas del Registro Público.
+En las enajenaciones de cosas ciertas y determinadas, la traslación de la propiedad se verifica entre los contratantes por mero efecto del contrato, sin dependencia de tradición ya sea natural, ya sea simbólica; debiendo tenerse en cuenta las disposiciones relativas del Instituto de la Función Registral.
 
 ###### Artículo 1885.
 
@@ -10577,11 +10613,15 @@ La cesión de créditos civiles debe hacerse en escrito privado que firmarán ce
 
 La cesión de créditos no produce efecto contra tercero, sino desde que su fecha deba tenerse por cierta, conforme a las reglas siguientes:
 
-I. Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción, en el Registro Público;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+I. Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción, en el Instituto de la Función Registral;
 
 II. Si se hace en escritura pública, desde la fecha de su otorgamiento;
 
-III. Si se trata de un documento privado, desde el día en que se incorpore o inscriba en un Registro Público; desde la muerte de cualquiera de los que lo firmaron o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+III. Si se trata de un documento privado, desde el día en que se incorpore o inscriba en el Instituto de la Función Registral; desde la muerte de cualquiera de los que lo firmaron o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
 
 ###### Artículo 1905.
 
@@ -11677,9 +11717,11 @@ Son nulas las ventas que produzcan la concentración o acaparamiento, en una o e
 
 Ninguno puede vender sino lo que es de su propiedad.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2144.
 
-La venta de cosa ajena es nula, y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe; debiendo tenerse en cuenta lo que se dispone en el título relativo al Registro Público para los adquirientes, de buena fe.
+La venta de cosa ajena es nula, y el vendedor es responsable de los daños y perjuicios si procede con dolo o mala fe; debiendo tenerse en cuenta lo que se dispone en el título relativo al Instituto de la Función Registral para los adquirientes, de buena fe.
 
 ###### Artículo 2145.
 
@@ -11883,9 +11925,13 @@ Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a 
 
 La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
 
-I. Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trate, siempre que la cláusula rescisoria se haya inscrito en el Registro Público;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
 
-II. Si se trata de bienes muebles tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público;
+I. Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trate, siempre que la cláusula rescisoria se haya inscrito en el Instituto de la Función Registral;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+II. Si se trata de bienes muebles tales como automóviles, motores, pianos (sic), máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Instituto de la Función Registral;
 
 III. Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que, por lo mismo, su venta no pueda registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
 
@@ -11901,7 +11947,9 @@ Las convenciones que impongan al comprador obligaciones más onerosas que las ex
 
 Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
 
-Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2184 del pacto de que se trata produce efectos contra tercero si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esa fracción.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2184 del pacto de que se trata produce efectos contra tercero si se inscribe en el Instituto de la Función Registral; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esa fracción.
 
 ###### Artículo 2187.
 
@@ -11939,11 +11987,11 @@ En los distritos en los cuales no exista Notario establecido, la venta de inmueb
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos; la parte que no sepa firmar estampará además su huella digital en el contrato.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2194.
 
-De dichos instrumentos se formarán un original para el comprador y cuantas copias sean necesarias para operar la traslación de dominio e inscribirlo en el Registro Público de la Propiedad.
+De dichos instrumentos se formarán un original para el comprador y cuantas copias sean necesarias para operar la traslación de dominio e inscribirlo en el Instituto de la Función Registral.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -13703,9 +13751,11 @@ El contrato por el que se constituye una asociación, debe constar por escrito.
 
 La asociación puede admitir y excluir asociados.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2556.
 
-Las asociaciones se regirán por sus estatutos, los que deberán ser inscritos en el Registro Público para que produzcan efectos contra tercero.
+Las asociaciones se regirán por sus estatutos, los que deberán ser inscritos en el Instituto de la Función Registral para que produzcan efectos contra tercero.
 
 ###### Artículo 2557.
 
@@ -14501,6 +14551,8 @@ V. Si la deuda se hace exigible por el vencimiento del plazo.
 
 ### CAPITULO VI. De la fianza legal o judicial
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2719.
 
 Cuando son dos o más los fiadores de un mismo deudor y por una misma deuda, el que de ellos la haya pagado podrá reclamar de cada uno de los otros la parte que proporcionalmente le corresponda satisfacer.
@@ -14573,7 +14625,7 @@ Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, c
 
 ###### Artículo 2732.
 
-El fiador que haya de darse por disposición de la ley o por providencia judicial excepto cuando el fiador sea una institución de crédito o compañía autorizada por la ley, debe tener bienes inscritos en el Registro Público, libres de todo gravamen y de un valor que garantice suficientemente las obligaciones que contraiga.
+El fiador que haya de darse por disposición de la ley o por providencia judicial excepto cuando el fiador sea una institución de crédito o compañía autorizada por la ley, debe tener bienes inscritos en el Instituto de la Función Registral, libres de todo gravamen y de un valor que garantice suficientemente las obligaciones que contraiga.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -14581,23 +14633,29 @@ Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cua
 
 La fianza puede sustituirse con prenda o hipoteca.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2733.
 
-Para otorgar la fianza legal o judicial por más de ciento cincuenta salarios mínimos, se presentará un certificado expedido por el encargado del Registro Público a fin de demostrar que el fiador tiene bienes raíces suficientes y libres de todo gravamen para responder del cumplimiento de la obligación que garantice.
+Para otorgar la fianza legal o judicial por más de ciento cincuenta salarios mínimos, se presentará un certificado expedido por el encargado del Instituto de la Función Registral a fin de demostrar que el fiador tiene bienes raíces suficientes y libres de todo gravamen para responder del cumplimiento de la obligación que garantice.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2734.
 
-La autoridad ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que al margen de la inscripción de propiedad correspondiente al bien raíz, que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
+La autoridad ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Instituto de la Función Registral, para que al margen de la inscripción de propiedad correspondiente al bien raíz, que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
 
-Extinguida ésta, dentro del mismo término de tres días, se dará aviso al Registro Público para que haga la cancelación de la nota marginal.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Extinguida ésta, dentro del mismo término de tres días, se dará aviso al Instituto de la Función Registral para que haga la cancelación de la nota marginal.
 
 La falta de avisos hace responsable al que debe darlos, de los daños y perjuicios que su omisión origine.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2735.
 
-En los certificados de gravamen que se expidan en el Registro Público, se harán figurar las notas marginales de que habla el artículo anterior.
+En los certificados de gravamen que se expidan en el Instituto de la Función Registral, se harán figurar las notas marginales de que habla el artículo anterior.
 
 ###### Artículo 2736.
 
@@ -14615,9 +14673,11 @@ De la prenda
 
 La prenda es un derecho real constituído sobre un bien mueble enajenable para garantizar el cumplimiento de una obligación y su preferencia en el pago.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2739.
 
-También pueden darse en prenda los frutos pendientes de los bienes raíces que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero necesitará inscribirse en el Registro Público a que corresponda la finca respectiva.
+También pueden darse en prenda los frutos pendientes de los bienes raíces que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero necesitará inscribirse en el Instituto de la Función Registral a que corresponda la finca respectiva.
 
 El que dé los frutos en prenda se considerará como depositario de ellos, salvo convenio en contrario.
 
@@ -14625,9 +14685,11 @@ El que dé los frutos en prenda se considerará como depositario de ellos, salvo
 
 Para que se tenga por constituída la prenda, deberá ser entregada al acreedor, real o jurídicamente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2741.
 
-Se entiende entregada jurídicamente la prenda al acreedor, cuando éste y el deudor convienen en que quede en poder de un tercero, o bien cuando quede en poder del mismo deudor porque así lo haya estipulado con el acreedor o expresamente lo autorice la ley. En estos dos últimos casos, para que el contrato de prenda produzca efecto contra tercero, debe inscribirse en el Registro Público.
+Se entiende entregada jurídicamente la prenda al acreedor, cuando éste y el deudor convienen en que quede en poder de un tercero, o bien cuando quede en poder del mismo deudor porque así lo haya estipulado con el acreedor o expresamente lo autorice la ley. En estos dos últimos casos, para que el contrato de prenda produzca efecto contra tercero, debe inscribirse en el Instituto de la Función Registral.
 
 El deudor puede usar de la prenda que quede en su poder en los términos que convengan las partes.
 
@@ -14637,9 +14699,11 @@ El contrato de prenda debe constar por escrito. Si se otorga en documento privad
 
 No surtirá efecto la prenda contra tercero si no consta la certeza de la fecha por el registro, escritura pública o de alguna otra manera fehaciente.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2743.
 
-Cuando la cosa dada en prenda sea un título de crédito que legalmente deba constar en el Registro Público, no surtirá efecto contra tercero el derecho de prenda, sino desde que se inscriba en el Registro.
+Cuando la cosa dada en prenda sea un título de crédito que legalmente deba constar en el Instituto de la Función Registral, no surtirá efecto contra tercero el derecho de prenda, sino desde que se inscriba en el Instituto de la Función Registral.
 
 ###### Artículo 2744.
 
@@ -14897,9 +14961,11 @@ Sin consentimiento del acreedor, el propietario del predio hipotecado no puede d
 
 Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, ni arrendamiento, por más de un año, si se trata de finca rústica; ni por más de dos meses, si se trata de finca urbana.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2797.
 
-La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses, y de que se haya tomado razón de esta estipulación en el Registro Público.
+La hipoteca constituida a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses, y de que se haya tomado razón de esta estipulación en el Instituto de (sic) Función Registral.
 
 ###### Artículo 2798.
 
@@ -14907,11 +14973,11 @@ El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
-(REFORMADO, P.O. 20 DE ABRIL DE 2001) (F. DE E., P.O. 10 DE JULIO DE 2001)
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2799.
 
-Cuando el crédito hipotecario exceda de trescientos treinta y cinco salarios mínimos, la hipoteca debe otorgase en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada ante dos testigos y el Registrador del Distrito en que se ubique el inmueble haciéndose de aquélla tantos ejemplares como sean las partes contratantes y otro para el Registro Público.
+Cuando el crédito hipotecario exceda de trescientos treinta y cinco salarios mínimos, la hipoteca debe otorgase (sic) en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada ante dos testigos y el Registrador del Distrito en que se ubique el inmueble haciéndose de aquélla tantos ejemplares como sean las partes contratantes y otro para el Instituto de la Función Registral.
 
 ###### Artículo 2800.
 
@@ -14949,13 +15015,15 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2808.
 
-El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2799, se dé conocimiento al deudor y sea inscrito en el Registro Público.
+El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2799, se dé conocimiento al deudor y sea inscrito en el Instituto de la Función Registral.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
-Las Instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras y los Institutos de Seguridad Social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+Las Instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras y los Institutos de Seguridad Social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública ni de inscripción en el Instituto de la Función Registral, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -15411,7 +15479,9 @@ VIII. El crédito que provenga del precio de los bienes vendidos y no pagados, c
 
 Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmovilizados.
 
-IX. Los créditos anotados en el Registro Público, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+IX. Los créditos anotados en el Instituto de la Función Registral, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2013)</small>
 
@@ -15447,15 +15517,17 @@ II. Los créditos del erario que no estén comprendidos en el artículo 2861, y 
 
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO I. De las oficinas del Registro
+### CAPITULO I. De las oficinas del Instituto de la Función Registral
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2877.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2878.
 
@@ -15465,19 +15537,23 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-## TITULO SEGUNDO. Del Registro Público
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2018)</small>
+
+## TITULO SEGUNDO. Del Instituto de la Función Registral
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2018)</small>
 
 ### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2880.
 
-El Registro Público de la Propiedad, es la Institución mediante la cual el Ejecutivo del Estado, proporciona el servicio de dar publicidad a los actos jurídicos que, conforme a la Ley, precisan de este requisito para surtir efectos ante terceros.
+El Instituto de la Función Registrales (sic) la Institución mediante la cual el Ejecutivo del Estado, proporciona el servicio de dar publicidad a los actos jurídicos que, conforme a la Ley, precisan de este requisito para surtir efectos ante terceros.
 
-El Registro Público de la Propiedad en el Estado, estará a cargo del Director del Registro Público de la Propiedad, quien se auxiliará de registradores en cada distrito judicial, con asiento en las localidades que determine el Ejecutivo del Estado.
+El Instituto de la Función Registral en el Estado, estará a cargo del Director del instituto de la Función Registral, quien se auxiliará de registradores en cada distrito judicial, con asiento en las localidades que determine el Ejecutivo del Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
-
-El registro Público de la Propiedad contará con un sistema informático denominado Sistema Informático Registral, en el que se realizarán las inscripciones, cancelaciones, anotaciones y asientos que competen, a esta Institución.
+El Instituto de la Función Registral contará con un sistema informático denominado Sistema Informático Registral, en el que se realizarán las inscripciones, cancelaciones, anotaciones y asientos que competen a esta Institución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -15497,17 +15573,19 @@ En el caso de los Libros de registro anteriores al Sistema Informático Registra
 
 Cualquier anotación, cancelación o modificación de una inscripción correspondiente a año distinto de aquél en que se haga, se avisará por el registrador respectivo al Director, para que este mande practicar en los libros del archivo igual anotación, cancelación o modificación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2882.
 
-El Registro será público. Los Registradores deben permitir a las personas que lo soliciten, cubiertos los requisitos del Reglamento, que se enteren de las inscripciones que constan en los libros del Registro, mediante la consulta electrónica de las bases de datos del Registro Público de la Propiedad, de la consulta de imágenes contenidas en el Sistema Informático Registral, así como de los documentos relacionados con las inscripciones que estén archivados. También deben expedir copias certificadas de las inscripciones, o constancias que figuren en los Libros del Registro y de las imágenes contenidas en el Sistema Informático Registral, así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+El Registro será público. Los Registradores deben permitir a las personas que lo soliciten, cubiertos los requisitos del Reglamento, que se enteren de las inscripciones que constan en los libros del Registro, mediante la consulta electrónica de las bases de datos del Instituto de la Función Registral, de la consulta de imágenes contenidas en el Sistema Informático Registral, así como de los documentos relacionados con las inscripciones que estén archivadas. También deben expedir copias certificadas de las inscripciones o constancias que figuren en los Libros del Registro y de las imágenes contenidas en el Sistema Informático Registral, así como certificaciones de no existir asientos de ninguna especie o de especie determinada sobre bienes señalados o a cargo de ciertas personas.
 
 ### CAPITULO IV. Del registro de las informaciones de dominio
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2883.
 
-Se inscribirán en el Registro:
+Se inscribirán en el para su Registro.
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -15551,7 +15629,9 @@ Los documentos que conforme a esta ley deben registrarse y no se registran, sól
 
 Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
 
-I. Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+I. Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Instituto de la Función Registral;
 
 II. Que estén debidamente legalizados;
 
@@ -15573,9 +15653,11 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, a
 
 ### CAPITULO V. De las inscripciones de posesión
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2889.
 
-La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
+La inscripción de los títulos en el Instituto de la Función Registral (sic) interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
 
 ###### Artículo 2890.
 
@@ -15587,9 +15669,9 @@ II. Las sentencias y providencias judiciales certificadas legalmente;
 
 III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal o el Alcalde se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
-En los casos en que la escritura privada, fuere autorizada por el Registrador, la calificación del título será a cargo del Director del Registro Público en los términos del artículo 2892 de este Código, y el registro será autorizado y asentado por el Registrador correspondiente.
+En los casos en que la escritura privada, fuere autorizada por el Registrador, la calificación del título será a cargo del Director del Instituto de la Función Registral en los términos del artículo 2892 de este Código, y el registro será autorizado y asentado por el Registrador correspondiente.
 
 ###### Artículo 2891.
 
@@ -15613,9 +15695,9 @@ V. Cuando haya incompatibilidad entre el texto del documento y sus antecedentes 
 
 VI. Cuando falte algún otro requisito que deba llenar el documento de acuerdo con el Código u otras leyes aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
-En estos casos, se devolverá el Título sin registrar, pudiendo el interesado recurrir la calificación hecha por el registrador ante el Director del Registro Público de la Propiedad. Si éste confirma la calificación, el interesado podrá reclamarla en juicio sumario ante la autoridad judicial.
+En estos casos, se devolverá el Título sin registrar, pudiendo el interesado recurrir la calificación hecha por el registrador ante el Director del Instituto de la Función Registral. Si éste confirma la calificación, el interesado podrá reclamarla en juicio sumario ante la autoridad judicial.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -15625,19 +15707,19 @@ El escrito por el que se interponga el recurso de inconformidad, a que se refier
 
 El recurso se substanciará en los términos que fije el reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2893.
 
-En los casos a que se refiere el artículo 2892, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si el Director del Registro Público de la Propiedad o la autoridad judicial, ordenan que se registre el Título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el Director el Registro Público de la Propiedad y el Juez aprueban la calificación hecha por el registrador, se cancelará la inscripción preventiva.
+En los casos a que se refiere el artículo 2892, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si el Director del Instituto de la Función Registral o la autoridad judicial, ordenan que se registre el Título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el Director del Instituto de la Función Registral y el Juez aprueban la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2894.
 
-Toda inscripción que se haga en el Registro, expresará las circunstancias siguientes:
+Toda inscripción que se haga en el Instituto de la Función Registral, expresará las circunstancias siguientes:
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -15655,7 +15737,9 @@ VI. La naturaleza del acto o contrato;
 
 VII. La fecha del título y el funcionario que lo haya autorizado;
 
-VIII. El día y la hora de la prestación del título en el Registro.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+VIII. El día y la hora de la prestación del título en el Instituto de la Función Registral.
 
 ###### Artículo 2895.
 
@@ -15665,9 +15749,11 @@ El Registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2897.
 
-Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha trasmitido o modificado su dominio o se ha constituído, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Instituto de la Función Registral un aviso en el que conste la finca de que se trate, la indicación de que se ha trasmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Instituto de la Función Registral. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
 
 (REFORMADO, P.O. 20 DE ABRIL DE 2001) (F. DE E., P.O. 10 DE JULIO DE 2001)
 
@@ -15677,9 +15763,11 @@ Si el documento en que conste alguna de las operaciones que se mencionan en el p
 
 Cuando la falta de aviso preventivo produzca algún perjuicio en los términos del artículo 2884 de este Código, el fedatario autorizante o la autoridad será responsable solidariamente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2898.
 
-Los encargados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
+Los encargados del Instituto de la Función Registral son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar.
 
 I. Si rehusan sin motivo legal o retardan sin causa justificada, la inscripción de los documentos que les sean presentados;
 
@@ -15703,7 +15791,7 @@ El reglamento especial establecerá los derechos y obligaciones de los registrad
 
 ###### Artículo 2902.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1158, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
+El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1158, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Instituto de la Función Registral, que demuestre que los bienes no están inscritos.
 
 La información se recibirá con citación del Ministerio Público, del respectivo registrador de la propiedad y de los colindantes.
 
@@ -15711,15 +15799,17 @@ Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ub
 
 No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
 
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Instituto de la Función Registral.
 
 ### CAPITULO VII. De la inmatriculación
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2903.
 
-El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
+El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Instituto de la Función Registral en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
 
 La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
 
@@ -15741,9 +15831,11 @@ La interposición de su demanda suspenderá el curso del expediente de informaci
 
 Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2906.
 
-Transcurrido el plazo fijado en la parte final del artículo 2903, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el Registro la inscripción de dominio correspondiente.
+Transcurrido el plazo fijado en la parte final del artículo 2903, sin que en el Instituto de la Función Registral aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo; a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga la inscripción de dominio correspondiente en el Instituto de la Función Registral.
 
 ###### Artículo 2907.
 
@@ -15841,7 +15933,7 @@ Las inscripciones preventivas se cancelarán no solamente cuando se extinga el d
 
 ###### Artículo 2924.
 
-La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad, que carece de antecedentes registrales.
+La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Instituto de la Función Registral, que carece de antecedentes registrales
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -15855,17 +15947,19 @@ b) Mediante la inscripción del Decreto por el que se desincorpore del dominio p
 
 c) Mediante la inscripción de la posesión apta para prescribir por el tiempo, en los términos del artículo 2927 de este Código.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2926.
 
-La inmatriculación se realizará por resolución del Director del Registro Público de la Propiedad, quien la ordenará de plano en los casos previstos por los incisos a) y b) del artículo anterior.
+La inmatriculación se realizará por resolución del Director del Instituto de la Función Registral, quien la ordenará de plano en los casos previstos por los incisos a) y b) del artículo anterior.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 2927.
 
-Quien se encuentre en el caso del inciso c) del artículo 2925 de este Código, deberá ocurrir directamente ante el Registro Público de la Propiedad, conforme al siguiente procedimiento:
+Quien se encuentre en el caso del inciso c) del artículo 2925 de este Código, deberá ocurrir directamente ante el Instituto de la Función Registral, conforme al siguiente procedimiento:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ABRIL DE 2001)</small>
 
 I. El interesado presentará solicitud que exprese:
 
@@ -15885,9 +15979,13 @@ f) El nombre y domicilio de la persona de quien la obtuvo, en su caso, y los del
 
 g) El nombre y domicilio de los colindantes.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 20 DE ABRIL DE 2001)</small>
+
 II. A la solicitud a la que se refiere la fracción anterior, el interesado deberá acompañar
 
-a) Constancia expedida por el Registro Público de la Propiedad con la que se justifique que el inmueble no está inscrito a favor de persona alguna;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+a) Constancia expedida por el Instituto de la Función Registral con la que se justifique que el inmueble no está inscrito a favor de persona alguna;
 
 b) El documento con el que acredite el origen de la posesión si tal documento existe;
 
@@ -15899,15 +15997,23 @@ e) Constancia de alineamiento y uso del suelo expedida por la autoridad competen
 
 f) Constancia de que el inmueble no forma parte del régimen ejidal o comunal.
 
-III. Recibida la solicitud el Director del Registro Público de la Propiedad la mandará publicar en edictos por dos ocasiones, de siete en siete días en el Periódico Oficial y otros periódicos de los de mayor circulación del lugar en el que se ubique el inmueble, a costa del interesado, así también se ordenará colocar en un lugar visible del inmueble que se pretende inscribir, copia del edicto, fijándose además edicto en el tablero de avisos del palacio municipal y se comunicará a los colindantes y demás interesados de dicho trámite por conducto de la autoridad municipal, concediéndoles un plazo de quince días hábiles para que manifiesten lo que a su derecho convenga, contados a partir del día siguiente en que hayan quedado enterados;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
 
-IV. Si existiere oposición, el Director del Registro Público dará por terminado el procedimiento a efecto de que la controversia sea resuelta en su caso por el Juez competente, si la oposición fuere con motivo de linderos, el Director del Registro Público de la Propiedad, señalará día y hora para que tenga lugar una junta en la que los exhortará para que diriman su controversia. Si no lograre avenirnos resolverá lo procedente;
+III. Recibida la solicitud el Director del Instituto de la Función Registral la mandará publicar en edictos por dos ocasiones, de siete en siete días en el Periódico Oficial y otros periódicos de los de mayor circulación del lugar en el que se ubique el inmueble, a costa del interesado, así también se ordenará colocar en un lugar visible del inmueble que se pretende inscribir, copia del edicto, fijándose además edicto en el tablero de avisos del palacio municipal y se comunicará a los colindantes y demás interesados de dicho trámite por conducto de la autoridad municipal, concediéndoles un plazo de quince días hábiles para que manifiesten lo que a su derecho convenga, contados a partir del día siguiente en que hayan quedado enterados;
 
-V. Si dentro del plazo concedido no existiere oposición, el Director del Registro Público de la Propiedad señalara día y hora para una audiencia, en la cual el solicitante deberá probar su posesión presente, con los medios de prueba que produzcan convicción en el Director del Registro Público de la Propiedad, siendo indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
 
-El Director del Registro Público de la Propiedad podrá ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurase de la veracidad de su dicho. Debiendo practicar una inspección ocular en el inmueble objeto de la inmatriculación; y
+IV. Si existiere oposición, el Director del Instituto de la Función Registral dará por terminado el procedimiento a efecto de que la controversia sea resuelta en su caso por el Juez competente, si la oposición fuere con motivo de linderos, el Director del Instituto de la Función Registral, señalará día y hora para que tenga lugar una junta en la que los exhortará para que diriman su controversia. Si no lograre avenirnos (sic) resolverá lo procedente;
 
-VI. La resolución administrativa del Director del Registro Público de la Propiedad, será dictada dentro de los ocho días siguientes a la celebración de la audiencia a que se refiere la fracción anterior, concediendo o denegando la inmatriculación y declarando en el primer caso que el poseedor ha hecho constar los antecedentes y circunstancias que conforme a este Código se requieren para tener la posesión inscrita; y en consecuencia procederá a la inscripción en la sección correspondiente del Registro, extendiéndose al promovente constancia, misma que hará las veces de título de propiedad.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+V. Si dentro del plazo concedido no existiere oposición, el Director del Instituto de la Función Registral señalara día y hora para una audiencia, en la cual el solicitante deberá probar su posesión presente, con los medios de prueba que produzcan convicción en el Director del Instituto de la Función Registral, siendo indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
+
+El Director del Instituto de la Función Registral podrá ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurase (sic) de la veracidad de su dicho. Debiendo practicar una inspección ocular en el inmueble objeto de la inmatriculación; y
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+VI. La resolución administrativa del Director del Instituto de la Función Registral, será dictada dentro de los ocho días siguientes a la celebración de la audiencia a que se refiere la fracción anterior, concediendo o denegando la inmatriculación y declarando en el primer caso que el poseedor ha hecho constar los antecedentes y circunstancias que conforme a este Código se requieren para tener la posesión inscrita; y en consecuencia procederá a la inscripción en la sección correspondiente del Registro, extendiéndose al promovente constancia, misma que hará las veces de título de propiedad.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -15955,9 +16061,11 @@ La dote ya constituída será regida por las disposiciones de la ley bajo la que
 
 No se admitirá denuncia alguna de bienes vacantes, sino hasta pasados seis meses de la fecha en que empiece a regir este Código.
 
-###### Artículo 9º.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
-Las disposiciones del Reglamento del Registro Público seguirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras no se expida el nuevo reglamento de la materia.
+###### Artículo 9°.
+
+Las disposiciones del Reglamento del Instituto de la Función Registral seguirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras no se expida el nuevo reglamento de la materia.
 
 ###### Artículo 10.
 
@@ -16284,5 +16392,23 @@ P.O. 13 DE ABRIL DE 2018.
 P.O. 11 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1413.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1422.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; ASIMISMO SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1443.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1466.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
