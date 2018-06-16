@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-participacion-ciudadana-para-el-estado-de-oaxaca-89597"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2012-08-17"
+last_updated: "2018-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto del 2012.
 
@@ -191,7 +191,7 @@ IV. La audiencia pública;
 
 V. El cabildo en sesión abierta; y
 
-VI. Los consejos consultivos ciudadanos; (sic)
+VI. Los consejos consultivos ciudadanos;
 
 ###### ARTÍCULO 13.
 
@@ -515,13 +515,17 @@ El cabildo en sesión abierta, es la sesión que celebra el ayuntamiento, en la 
 
 Los gobiernos municipales están obligados a celebrar públicamente todas sus sesiones de Cabildo, para lo cual se instrumentarán mecanismos que permitan la más amplia difusión posible a través de los medios electrónicos remotos y de comunicación disponibles. Por excepción, se tratarán a puerta cerrada, los asuntos que contengan temas de información confidencial o reservada, cuando esta situación se fundamente y motive de conformidad con el marco normativo aplicable.
 
-Los ayuntamientos y en su caso los concejos municipales están obligados a celebrar sesiones de Cabildo abierto al menos bimestralmente. En estas sesiones, los ciudadanos del municipio podrán expresar su opinión sobre los problemas que observen de competencia municipal así como apuntar posibles soluciones, participando directamente con voz pero sin voto.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Los Ayuntamientos y en su caso los Concejos Municipales están obligados a celebrar sesiones de Cabildo abierto al menos una vez al mes. En estas sesiones, los ciudadanos del municipio podrán expresar su opinión sobre los problemas que observen de competencia municipal así como apuntar posibles soluciones, participando directamente con voz pero sin voto.
 
 ###### ARTÍCULO 52.
 
 La organización e implementación de todo lo conducente para la celebración del Cabildo en sesión abierta de conformidad con lo establecido en este Capítulo será responsabilidad del Ayuntamiento.
 
-El incumplimiento de lo dispuesto en este artículo será sancionado conforme a lo que dispongan esta Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+El incumplimiento de lo dispuesto en este capítulo será sancionado conforme a lo que dispongan esta Ley, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 ###### ARTÍCULO 53.
 
@@ -557,9 +561,11 @@ Podrán participar en el Cabildo en sesión abierta únicamente con derecho a vo
 
 El Ayuntamiento podrá convocar de conformidad con esta Ley a un Consejo Consultivo Ciudadano para emitir sus opiniones especializadas en el asunto que trate el Cabildo en sesión abierta.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 59.
 
-Al término del Cabildo en sesión abierta se levantará el acta correspondiente.
+Al término del Cabildo en sesión abierta se levantará el acta correspondiente, misma que será dada a conocer en la siguiente sesión ordinaria del Cabildo de que se trate, y será turnada a Comisiones para el análisis y dictaminación de los temas y las problemáticas planteadas, con su respectiva consideración en las vías de solución propuestas al Cabildo a los temas de interés general previamente discutidos.
 
 ### CAPÍTULO SÉPTIMO.
 
@@ -846,3 +852,11 @@ Tlalixtac de Cabrera, Centro, Oax., a 17 de agosto del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1473.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno I (sic) del Estado de Oaxaca.
