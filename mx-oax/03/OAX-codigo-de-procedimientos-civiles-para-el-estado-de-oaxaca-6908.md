@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-04-28"
+last_updated: "2018-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2018.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -87,19 +87,21 @@ Se presume que no hay buena fe si de la pérdida o robo se dió aviso público y
 
 Al adquirente con justo título de buena fe le compete la acción para que, aun cuando no haya prescrito, le restituya la cosa con sus frutos y accesiones, en los términos del artículo 4º, el poseedor de mala fe, o el que teniendo título de igual calidad ha poseído por menos tiempo que el actor. No procede esta acción en los casos en que ambas posesiones fuesen dudosas o el demandado tuviere su título registrado y el actor no, así como contra el legítimo dueño.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 10.
 
-Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble y la demolición de obras o señales que importen gravámenes; la tildación o anotación en el Registro Público; y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
+Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble y la demolición de obras o señales que importen gravámenes; la tildación o anotación en el Instituto de la Función Registral; y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
 
 ###### Artículo 11.
 
 Compete la acción confesoria al titular del derecho real (sic) inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen, para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 12.
 
-Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca, o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y en su caso, contra los acreedores. Cuando después de anotada la demanda en el Registro Público de la Propiedad y contestada ésta, cambiare el dueño y poseedor jurídico del predio, con éste continuará el juicio.
+Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca, o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y en su caso, contra los acreedores. Cuando después de anotada la demanda en el Instituto de la Función Registral y contestada ésta, cambiare el dueño y poseedor jurídico del predio, con éste continuará el juicio.
 
 ###### Artículo 13.
 
@@ -2851,7 +2853,7 @@ En los casos a que se refiere la fracción I del tercer párrafo del artículo a
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-En el caso de la fracción II del mismo párrafo bastará la petición que realice la parte interesada para que el juez realice la declaración correspondiente la declaración se hará substanciando el artículo con un escrito de cada parte. Los plazos serán tres días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el Juez, en su caso.
+En el caso de la fracción II del mismo párrafo bastará la petición que realice la parte interesada para que el juez realice la declaración correspondiente la declaración se hará substanciando el artículo con un escrito de cada parte. Los plazos serán tres (sic) días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el Juez, en su caso.
 
 ###### Artículo 403.
 
@@ -3307,11 +3309,13 @@ Para que el juicio que tenga por objeto el pago o la prelación de un crédito h
 
 Cuando se entable pleito entre los que contrataron la hipoteca procederá el juicio hipotecario sin necesidad del requisito del registro siendo siempre condición indispensable que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen a favor de tercero, con cuando menos 90 días anteriores a la presentación de la demanda en los términos del artículo 2808 segundo párrafo del Código Civil.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 459.
 
-Presentado el escrito de demanda, acompañado del instrumento respectivo, el Juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, dentro de los tres días siguientes admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y ordenará se corra traslado de ésta al deudor, para que dentro del plazo de cinco días la conteste y oponga las excepciones que tuviere.
+Presentado el escrito de demanda, acompañado del instrumento respectivo, el Juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, dentro de los tres días siguientes admitirá la misma y mandará anotar la demanda en el Instituto de la Función Registral y ordenará se corra traslado de ésta al deudor, para que dentro del plazo de cinco días la conteste y oponga las excepciones que tuviere.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
 Si el demandado se allanare a la demanda y solicitare plazo de gracia para el pago o cumplimiento de lo reclamado, el Juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo resolver de acuerdo a las proposiciones de las partes, eximiendo al deudor del pago de gastos y costas que se hubiesen originado.
 
@@ -3337,11 +3341,11 @@ Si comenzado el juicio se presentan alguno o algunos acreedores hipotecarios, se
 
 (DEROGADO, P.O. 15 DE NOVIEMBRE DE 1997)
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 465.
 
-La demanda se anotará en el Registro Público de la Propiedad, a cuyo efecto el actor exhibirá dos tantos más de dicha demanda, documentos base de la acción en su caso, de aquellos con que justifique su representación, para que, previo cotejo con sus originales se certifiquen por el secretario, haciendo constar que se expiden para efectos de que la parte interesada anote su demanda, a quien se la entregarán para tal fin, debiendo realizar las gestiones en el Registro Público de la Propiedad. Una copia quedará en el registro y la otra, ya anotada, se agregará a los autos.
+La demanda se anotará en el Instituto de la Función Registral, a cuyo efecto el actor exhibirá dos tantos más de dicha demanda, documentos base de la acción en su caso, de aquellos con que justifique su representación, para que, previo cotejo con sus originales se certifiquen por el secretario, haciendo constar que se expiden para efectos de que la parte interesada anote su demanda, a quien se la entregarán para tal fin, debiendo realizar las gestiones en el Instituto de la Función Registral. Una copia quedará en el registro y la otra, ya anotada, se agregará a los autos.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -3353,11 +3357,11 @@ Si la finca no se halla en el lugar del juicio, se librará exhorto al Juez de l
 
 Contra los procedimientos del ejecutor sólo procede el recurso de queja ante el juez, a no ser que la ley disponga otra cosa.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 468.
 
-Desde el día en que se anote la demanda en el Registro Público de la Propiedad, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que, con arreglo en la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+Desde el día en que se anote la demanda en el Instituto de la Función Registral, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que, con arreglo en la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
 ###### Artículo 469.
 
@@ -3367,11 +3371,11 @@ El deudor que no quiera aceptar la responsabilidad de depositario entregará, de
 
 (DEROGADO, P.O. 15 DE NOVIEMBRE DE 1997)
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
 
 ###### Artículo 471.
 
-Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada toma de posesión o diligencia que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la anotación de la demanda o en razón de providencia precautoria solicitada ante el Juez por acreedor con mejor derecho.
+Anotada la demanda en el Instituto de la Función Registral, no podrá verificarse en la finca hipotecada toma de posesión o diligencia que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la anotación de la demanda o en razón de providencia precautoria solicitada ante el Juez por acreedor con mejor derecho.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -3811,7 +3815,9 @@ III. El secuestro de alhajas y demás muebles preciosos, que se hará depositán
 
 Quedan exceptuados de embargo:
 
-I. Los bienes que constituyan el patrimonio de familia desde su inscripción en el Registro Público, en los términos establecidos por el Código Civil;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+I. Los bienes que constituyan el patrimonio de familia desde su inscripción en el Instituto de la Función Registral, en los términos establecidos por el Código Civil;
 
 II. El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su mujer o de sus hijos, no siendo de lujo, a juicio del juez;
 
@@ -3845,9 +3851,11 @@ XV. Los ejidos de los pueblos y la parcela individual que en su fraccionamiento 
 
 El deudor sujeto a patria potestad o a tutela, el que estuviera físicamente impedido para trabajar y el que sin culpa carezca de otros bienes o de profesión u oficio, tendrán, de los bienes que se les embarguen, alimentos que el juez fijará atendidas la importancia de la demanda y de los bienes y las circunstancias del demandado.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 532.
 
-De todo embargo de bienes raíces se tomarán razón en el Registro Público, librándose al efecto, por duplicado, copia certificada de la diligencia de embargo; uno de los ejemplares, después del registro, se unirá a los autos y el otro quedará en la expresada oficina.
+De todo embargo de bienes raíces se tomarán razón en el Instituto de la Función Registral, librándose al efecto, por duplicado, copia certificada de la diligencia de embargo; uno de los ejemplares, después del registro, se unirá a los autos y el otro quedará en la expresada oficina.
 
 ###### Artículo 533.
 
@@ -6113,7 +6121,9 @@ II.- El Notario dará a conocer por medio de una publicación en un diario de lo
 
 III.- El Notario recabará de la Dirección General de Notarías y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia del testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el Notario podrá continuar con los trámites relativos siempre que no existiere oposición;
 
-IV.- De ser procedente, el Notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad del lugar en donde se ubique el inmueble. En su caso, se podrá hacer constar la repudiación expresa; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2018)</small>
+
+IV.- De ser procedente, el Notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Instituto de la Función Registral del lugar en donde se ubique el inmueble. En su caso, se podrá hacer constar la repudiación expresa; y
 
 V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1448-bis del Código Civil.
 
@@ -6415,9 +6425,11 @@ El juez está obligado a ampliar el examen de los testigos con las preguntas que
 
 Si los testigos no fueren conocidos del juez o del secretario, la parte deberá presentar dos que abonen a cada uno de los presentados.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2018)</small>
+
 ###### Artículo 921.
 
-Las informaciones se protocolizarán en el oficio del notario que designe el promovente; el testimonio respectivo que aquél expida se inscribirá en el registro público, si se tratare de inmuebles o derechos reales sobre éstos.
+Las informaciones se protocolizarán en el oficio del notario que designe el promovente; el testimonio respectivo que aquél expida se inscribirá en el Instituto de la Función Registral, si se tratare de inmuebles o derechos reales sobre éstos.
 
 ###### Artículo 922.
 
@@ -7150,3 +7162,9 @@ P.O. 28 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1370.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 963 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1422.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; ASIMISMO SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
