@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2018-03-12"
+last_updated: "2018-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -161,9 +161,11 @@ VII. La formación para el trabajo.
 
 ### CAPÍTULO II. De los Fines y el Derecho a la Educación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 8°.
 
-La educación que imparta, promueva o atienda el Estado, sus Organismos Descentralizados y los particulares, con Autorización o con Reconocimiento de Validez Oficial de Estudios dentro del Estado de Aguascalientes tendrá como fines:
+La educación que imparta, promueva o atienda el Estado, sus Organismos Descentralizados y los particulares, con Autorización o con Reconocimiento de Validez Oficial de Estudios dentro del Estado de Aguascalientes, además de los fines establecidos en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y en el Artículo 7° de la Ley General de Educación, tendrá los siguientes:
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
@@ -229,25 +231,55 @@ XII. Promover mediante la enseñanza el conocimiento de la pluralidad lingüíst
 
 Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria en su propia lengua y español.
 
-XIII. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XIII. Promover los derechos humanos, los valores de la justicia, igualdad, paz y solidaridad; además, propiciar la cultura de la legalidad, de la inclusión, de la no discriminación y de la no violencia de cualquier tipo;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
 
 XIV. Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud física, mental y afectiva, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y las conductas de riesgo;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-XV. Fomentar la vida comunitaria y las actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
+XV. Fomentar actitudes solidarias y positivas hacia el trabajo y el bienestar general, impulsando una cultura económica y financiera entre los educandos, conforme con cada etapa de su vida, bajo las siguientes bases:
+
+a) Dar conocimientos patrimoniales básicos para planificar con visión de futuro;
+
+b) Impulsar hábitos de gasto responsable y de ahorro con perspectiva de mediano y largo plazo;
+
+c) Desarrollar y fortalecer competencias que les permitan tomar decisiones financieras que potencien sus recursos; y
+
+d) Promover la generosidad en el uso de los recursos, en vistas de promover la solidaridad social;
 
 XVI. Contribuir a que se formen personas autónomas, responsables, equilibradas, respetuosas de la ley y los derechos humanos, con actitudes favorables a la participación, la cooperación y la convivencia civilizada, al desarrollar en los educandos la capacidad de juicio y de toma de decisiones para propiciar la justicia, la libertad y la democracia; así como el aprecio a la ética, la rectitud, la verdad, la solidaridad, la disciplina y el trabajo responsable en lo individual y en lo colectivo;
 
 XVII. Promover en los educandos el conocimiento y aprecio de las instituciones federales, estatales y municipales, de modo que se forme su sentido de lealtad y pertenencia a una comunidad, al conocer, aceptar y poner en práctica sus deberes y derechos, dando especial prioridad a la cultura cívica y parlamentaria;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-XVIII. Promover el respeto y la tolerancia a la pluralidad de ideas y fomentar de manera sistemática los valores fundamentales que constituyen el cimiento de la convivencia armónica entre los individuos y los grupos sociales; y
+XVIII. Promover el respeto y la tolerancia a la pluralidad de ideas y fomentar de manera sistemática los valores fundamentales que constituyen el cimiento de la convivencia armónica entre los individuos y los grupos sociales;
 
-XIX. Resaltar y fomentar la responsabilidad de todos para hacer de los espacios urbanos y rurales lugares aptos para la convivencia y el desarrollo humano y propiciar el conocimiento de las relaciones entre el campo y la ciudad para que se basen en la justicia y el respeto a la especificidad cultural.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XIX. Resaltar y fomentar la responsabilidad de todos para hacer de los espacios urbanos y rurales lugares aptos para la convivencia y el desarrollo humano y propiciar el conocimiento de las relaciones entre el campo y la ciudad para que se basen en la justicia y el respeto a la especificidad cultural; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XX. Promover en la comunidad escolar los principios y funcionamiento del Sistema Nacional Anticorrupción para la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
+
+###### Artículo 9º.
+
+Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, sin discriminación alguna por motivos de raza, género, religión, lengua, ideología, impedimento físico o mental, o cualquier otra condición personal, social o económica, por lo tanto, todos los habitantes del Estado de Aguascalientes tienen las mismas oportunidades de acceso y permanencia al Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+
+En el Sistema Educativo Estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social, privilegiando la participación de los educandos, padres de familia y docentes, para alcanzar los fines a que se refiere el Artículo 8° de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+
+Por consiguiente, los padres de familia reforzarán desde el hogar, el fomento a sus hijos o pupilos sobre los valores cívicos, así como el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; propiciando un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; inculcando a sus hijos o pupilos el respeto a la autoridad del maestro o personal docente de los planteles educativos, además de las normas de convivencia social de las escuelas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
 
 ###### Artículo 9°.
 
@@ -357,7 +389,9 @@ IX. Organizar, impartir y promover los servicios de educación básica, de educa
 
 X. Proponer a la Secretaría de Educación Pública contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria y demás para la formación de maestros de educación básica;
 
-XI. Ajustar el calendario para cada ciclo lectivo de los tipos, niveles y modalidades a que se refiere la fracción anterior, respetando los doscientos días de clase para los educandos, fijados en el Artículo 51 de la Ley General de Educación, según los requerimientos y necesidades del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XI. Ajustar el calendario para cada ciclo lectivo de los tipos, niveles y modalidades a que se refiere la fracción anterior, conforme a lo dispuesto en el Artículo 51 de la Ley General de Educación, según los requerimientos y necesidades del Estado de Aguascalientes;
 
 XII. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, y demás para la formación de maestros de educación básica, de acuerdo a la normatividad aplicable;
 
@@ -403,21 +437,35 @@ XXVIII. Impulsar políticas públicas a fin de garantizar el acceso a centros de
 
 XXIX. Promover, mediante convenios, la colaboración entre centros de investigación e instituciones de educación básica, media y superior que ya cuenten con el servicio de internet, con aquellas que no lo tienen, por razón de su condición o de imposibilidades materiales, permitiendo su acceso durante las 24 horas del día a cualquier persona, a las tecnologías de la información y la comunicación para hacer posible una educación integral de los niños, jóvenes y adultos del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-XXX. Implementar un programa gradualmente para la incorporación de ecotecnologías que contribuyan a propiciar una relación armónica y el cuidado de los recursos naturales en las instituciones de educación básica y media superior, de acuerdo a la disponibilidad presupuestal; y
+XXX.- Implementar un programa gradualmente para la incorporación de ecotecnologías que contribuyan a propiciar una relación armónica y el cuidado de los recursos naturales en las instituciones de educación básica y media superior, de acuerdo a la disponibilidad presupuestal;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JUNIO DE 2018)</small>
 
-XXXI. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
+XXXI.- Fomentar y llevar a cabo acciones para que, en los centros escolares de educación inicial y básica, se contemple lo siguiente:
+
+a) Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolo informar a sus padres o tutor y dar la orientación correspondiente;
+
+b) Elaborar y aplicar programas relacionados con salud mental infantil para que sean incorporados en el plan de estudios correspondiente;
+
+c) Proporcionar material informativo suficiente en salud mental a los padres o tutor con la finalidad de identificar algún tipo de trastorno en el menor y aplicar las medidas preventivas en un primer momento,
+
+d) Implementar programas de Información dirigida a maestros, padres y estudiantes, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio; y
+
+e) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente fracción; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE JUNIO DE 2018)</small>
+
+XXXII.- Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
 
 ###### Artículo 18.
 
 El Instituto de Educación de Aguascalientes con el fin de dar mejor cumplimiento a la obligación que le confiere el Artículo anterior en su fracción III, llevará a efecto las siguientes acciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
 
-a) Propondrá a la consideración y, en su caso, autorización de la Autoridad Educativa federal, proyectos curriculares y programas de estudio con contenidos regionales que sin mengua del carácter nacional de la educación, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, el cuidado y conservación del ambiente, la formación en los valores, el manejo de emociones y sentimientos en las distintas etapas de la persona, las costumbres, las tradiciones y demás aspectos propios de la Entidad y Municipios, así como los demás aspectos técnicos y científicos, a través de los documentos oficiales elaborados para este fin. En el caso del cuidado y conservación del ambiente, dichos proyectos curriculares y programas tendrán por objeto:
+a) Propondrá a la consideración y, en su caso, autorización de la Autoridad Educativa federal, proyectos curriculares y programas de estudio con contenidos regionales que sin mengua del carácter nacional de la educación, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, el cuidado y conservación del ambiente, la formación en los valores, las costumbres, las tradiciones, la cultura económica y financiera conforme a situaciones cotidianas y actividades económicas que están relacionadas con los recursos de su región, y demás aspectos propios de la Entidad y Municipios, así como los demás aspectos técnicos y científicos, a través de los documentos oficiales elaborados para este fin. En el caso del cuidado y conservación del ambiente, dichos proyectos curriculares y programas tendrán por objeto:
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2014)</small>
 
@@ -749,7 +797,9 @@ XVI. Conceder reconocimientos y distinciones a quienes contribuyan a la consecuc
 
 XVII. Realizarán las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos y fines de la educación;
 
-XVIII. Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XVIII. Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar y de género desde el hogar y el respeto a sus maestros;
 
 XIX. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural, dando preferencia a los hijos de madres trabajadoras;
 
@@ -771,15 +821,19 @@ XXIV. Proporcionar apoyos económicos y asistenciales, tales como desayunos, tra
 
 XXV. Crear, mantener y apoyar centros culturales y recreativos en las zonas que lo requieran;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-XXVI. Otorgar por conducto del Instituto de Educación de Aguascalientes, un apoyo económico mensual equivalente a 15 días de Unidad de Medida y Actualización, a niñas, niños y adolescentes en situación vulnerable que cursen de manera regular un nivel educativo de educación básica o media superior en una institución educativa pública, cuando alguno de los padres, tutores, o quienes ejerzan la patria potestad hayan sufrido algún accidente que ocasione incapacidad o invalidez permanente, o cuando haya acontecido la muerte de uno o de ambos y que derivado de tal situación el estudiante no cuente con los recursos económicos que le permitan continuar con sus estudios. Este apoyo será garantizado al beneficiario durante el tiempo que permanezca estudiando en un nivel de educación básica o media superior hasta su conclusión;
+XXVI. Otorgar por conducto del Instituto de Educación de Aguascalientes, un apoyo económico mensual equivalente a 15 días de Unidad de Medida y Actualización, a niñas, niños y adolescentes en situación vulnerable que cursen de manera regular un nivel educativo de educación básica o media superior en una institución educativa pública, cuando alguno de los padres, tutores, o quienes ejerzan la patria potestad hayan sufrido algún accidente que ocasione incapacidad o invalidez permanente, o cuando haya acontecido la muerte de uno o de ambos y que derivado de tal situación el estudiante no cuente con los recursos económicos que le permitan continuar con sus estudios. Este apoyo será garantizado al beneficiario durante el tiempo que permanezca estudiando en un nivel de educación básica o media superior hasta su conclusión.
 
-El Gobierno del Estado, en concurrencia con la Federación y los municipios, llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos; y
+El Gobierno del Estado, en concurrencia con la Federación y los municipios, llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-XXVII. Proporcionar programas complementarios en materia de educación afectiva desde la primera infancia y hasta la adolescencia en los niveles de educación básica y media superior.
+XXVII. Proporcionar programas complementarios en materia de educación afectiva desde la primera infancia y hasta la adolescencia en los niveles de educación básica y media superior; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XXVIII. Coadyuvar en la elaboración y cumplimiento de programas que tengan por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en términos de lo dispuesto por la normatividad aplicable.
 
 ###### Artículo 30.
 
@@ -891,9 +945,17 @@ III. Coadyuvar en la construcción y mantenimiento de espacios deportivos y de r
 
 IV. Crear escuelas de iniciación deportiva acordes a la edad y aptitudes físicas del educando;
 
-V. Fomentar la participación de los educandos en actividades y competencias deportivas y recreativas a nivel municipal, estatal, regional, nacional e internacional; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-VI. Otorgar becas y apoyos para alumnos y maestros destacados en el área deportiva.
+V. Fomentar la participación de los educandos en actividades y competencias deportivas y recreativas a nivel municipal, estatal, regional, nacional e internacional;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+VI. Otorgar becas y apoyos para alumnos y maestros destacados en el área deportiva; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+VII. Promover, difundir y mantener actualizada la información de las actividades que se lleven a cabo en espacios públicos, instalaciones, centros deportivos y similares, en donde se describan las facilidades de cada lugar, horarios, costos, disciplinas, torneos, copas, competencias, ligas, convocatorias, incluyendo en todo momento aquellas actividades en donde se puedan integrar las personas con alguna discapacidad, debiendo difundirlo a través de los medios de comunicación impresos, electrónicos o similares con que cuente (sic) Gobierno del Estado, y remitirse a los Municipios para su conocimiento.
 
 ###### Artículo 46.
 
@@ -1067,7 +1129,9 @@ La distracción, desviación, dispendio, negligencia e incorrecta aplicación de
 
 El presupuesto estatal destinado a la educación será intransferible e irreductible, se ejercerá en su totalidad y se entregará oportunamente para la ejecución de los programas y proyectos establecidos en el plan educativo de la Entidad.
 
-La Autoridad Educativa estatal está obligada a incluir en el proyecto de presupuesto que someta a la aprobación de la legislatura local, los recursos suficientes para fortalecer la autonomía de la gestión escolar de acuerdo a lo establecido en el Artículo siguiente.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+La Autoridad Educativa estatal está obligada a incluir en el proyecto de presupuesto que someta a la aprobación de la legislatura local, los recursos suficientes para fortalecer la autonomía escolar, entre otros, considerar aquellos destinados a mejorar la infraestructura, la compra de materiales educativos y resolver problemas de operación básicos de las instituciones de educación básica por ciclo escolar de acuerdo a lo establecido en el Artículo siguiente.
 
 ###### Artículo 64.
 
@@ -1419,7 +1483,9 @@ X. Promover la educación inicial en la población infantil menor de cuatro año
 
 XI. Impulsar acuerdos interinstitucionales e intersectoriales a nivel federal y estatal entre las instancias involucradas, estableciendo una estrategia de vinculación y aplicación de un nuevo modelo de atención educativa inicial, en el que se consideren la actualización y formación permanente de las personas del Sistema Educativo Estatal, a través de convenios, donde se describan las responsabilidades y compromisos.
 
-En el caso de educación inicial los particulares deberán, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el Artículo 21 de la Ley General de Educación; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 42 de la Ley General de Educación, así como facilitar la inspección y vigilancia de las autoridades competentes.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+En el caso de educación inicial los particulares deberán, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que la autoridad educativa determine, conforme a los términos que señalen las disposiciones aplicables que la autoridad educativa determine; cumplir los requisitos a que alude el Artículo 21 de la Ley General de Educación; presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el Artículo 42 de la Ley General de Educación, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
 ### CAPÍTULO VII. De la Educación Especial
 
@@ -1431,9 +1497,11 @@ Para los efectos de esta Ley se entenderá por Educación Especial, el conjunto 
 
 La Educación Especial tiene como principios la equidad social y el respeto a los derechos humanos a través de la integración educativa, que se entiende como las estrategias que permitan a personas con necesidades educativas especiales incorporarse a la educación en condiciones adecuadas a sus requerimientos y a su desarrollo integral. Asimismo, tiene como objetivo propiciar el logro de los propósitos de la Educación Básica y Media Superior a través del apoyo psicopedagógico y de la capacitación laboral de los alumnos con algún tipo de discapacidad intelectual, física o ambas, ya sea temporal o definitiva, o en situación de riesgo. Los alumnos con aptitudes o capacidades sobresalientes también recibirán ayuda psicopedagógica para su formación integral.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 96.
 
-Los objetivos de la educación especial son:
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con trastorno genético, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género, debiéndose impartir conforme a lo dispuesto por el Artículo 41 de la Ley General de Educación y el presente ordenamiento. Asimismo, la educación especial tendrá los siguientes objetivos:
 
 I. Detectar, promover y asegurar la inclusión de los estudiantes con necesidades educativas especiales para que puedan integrarse a la educación regular;
 
@@ -1441,9 +1509,11 @@ II. Ofrecer una educación de calidad para todas las personas con necesidades es
 
 III. Impulsar, ampliar y fortalecer programas de intervención temprana para la atención oportuna a la primera infancia con discapacidad o en riesgo de adquirirla.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 97.
 
-Para los efectos del artículo anterior se entenderá por necesidades educativas especiales, las de aquellos estudiantes que requieren apoyos potenciales en determinadas áreas de su aprendizaje, como consecuencia de algún tipo de minusvalía desventaja o bien, por contar con aptitudes sobresalientes.
+Para los efectos del Artículo anterior se entenderá por necesidades educativas especiales, las de aquellos estudiantes que requieren apoyos potenciales en determinadas áreas de su aprendizaje, como consecuencia de alguna discapacidad o por contar con aptitudes sobresalientes.
 
 ###### Artículo 98.
 
@@ -1531,9 +1601,11 @@ CAPÍTULOX (SIC)
 
 De la Formación para el Trabajo
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 112.
 
-La formación para el trabajo tiene por objeto proporcionar a los individuos conocimientos, habilidades, destrezas que permitan a los usuarios desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o servicios calificados.
+La formación para el trabajo procurará la adquisición de conocimientos, habilidades o destrezas, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o algún oficio calificados. Esta educación incluirá un capítulo especial dirigido a personas con discapacidad.
 
 ###### Artículo 113.
 
@@ -1929,7 +2001,9 @@ El Instituto de Educación de Aguascalientes podrá ajustar el calendario escola
 
 Los maestros serán remunerados como es debido si la modificación al calendario escolar implica más días de clase para los Educandos que los establecidos en el Calendario aplicable a toda la República.
 
-El calendario escolar será publicado cada año en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+El calendario escolar y sus ajustes, serán publicados en el Periódico Oficial del Estado.
 
 ### CAPÍTULO III. De la Participación Social
 
@@ -2091,9 +2165,9 @@ El Instituto de Educación de Aguascalientes otorgará las autorizaciones y reco
 
 I. Con personal que acredite la preparación adecuada y, en su caso, satisfaga los demás requisitos a que se refieren la Ley General de Educación en sus Artículos 21, 42, y demás aplicables, así como con las disposiciones establecidas en la presente ley; Asimismo, el personal deberá presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en esta Ley y en la demás normatividad aplicable para cumplir con el Sistema Nacional de Evaluación Educativa y tomar las medidas, así como facilitar la inspección y vigilancia de las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que el Instituto de Educación de Aguascalientes determine, además deberán contar con espacios adecuados para la disposición y separación de sus residuos, de acuerdo a la Ley Ambiental Local aplicable. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
+II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que el Instituto de Educación de Aguascalientes determine, además deberán contar con espacios adecuados para la disposición y separación de sus residuos, de acuerdo a la normatividad ambiental aplicable. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
 
 III. Para el caso de instituciones de educación superior, contar con la aprobación de la Comisión Estatal de Educación Superior, quien deberá resolver mediante el voto de la mayoría de sus integrantes, la procedencia de la autorización de reconocimiento de validez oficial de estudios, de conformidad con el Artículo 84 de esta Ley.
 
@@ -2235,7 +2309,9 @@ XXIII. Administrar a los educandos, sin previa prescripción médica y consentim
 
 XXIV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XXV. Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XXV. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para su atención;
 
 XXVI. Oponerse a las actividades de evaluación, inspección y vigilancia de las autoridades competentes, así como no proporcionar información veraz y oportuna;
 
@@ -2263,9 +2339,9 @@ Corresponde al Instituto de Educación de Aguascalientes sancionar las infraccio
 
 I. Amonestación por escrito;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-II. Multa de hasta cinco mil veces el valor diario de la unidad de medida y actualización cuyo monto dependerá de la gravedad de la falta y en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse, en caso de reincidencia;
+II. Multa de cinco hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha en que se cometa la infracción, cuyo monto dependerá de la gravedad de la falta. Las multas impuestas podrán duplicarse, en caso de reincidencia;
 
 III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente; o
 
@@ -2273,25 +2349,43 @@ IV. Clausura de los establecimientos educativos.
 
 Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, la gravedad de la infracción según los daños y perjuicios que se hayan producido o puedan producirse a los educandos, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 174.
 
-Quienes cometan las infracciones previstas en el Artículo anterior serán sancionados conforme a lo (sic) siguientes criterios:
+Quienes cometan las infracciones previstas en la presente Ley, serán sancionados conforme a los siguientes criterios:
 
-a) En los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII y IX, se procederá a la amonestación. En los casos de reincidencia se atenderá a lo dispuesto en la fracción II del Artículo anterior.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
-b) En los casos a que aluden las fracciones X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV y XXV se sancionará en los términos de la fracción II del Artículo anterior.
+a) En los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII y IX del Artículo 172 de esta Ley, se procederá a la amonestación por escrito. En los casos de reincidencia se atenderá a lo dispuesto en la fracción II del Artículo anterior;
 
-c) En los supuestos establecidos en las fracciones XXVI, XXVII y XXIX serán acreedores a la multa máxima establecida en la fracción II del Artículo que precede y en caso de persistir en dicha situación se sancionará conforme a lo establecido en la fracción III del Artículo anterior.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
-d) A quien funja como Autoridad Educativa, director escolar, educador o trabajador de apoyo y asistencia al servicio de la educación pública e infrinja lo establecido en la fracción XXVIII del Artículo precedente se le suspenderá, sin goce de sueldo, de su empleo, cargo o comisión durante un periodo de quince a treinta días, valorando si tal falta afectó a más de un alumno y siguiendo el procedimiento de Responsabilidad Administrativa Disciplinaria establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+b) En los casos a que aluden las fracciones X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV y XXV del Artículo 172 de esta Ley, se sancionará en los términos de la fracción II del Artículo anterior;
 
-e) En el supuesto previsto en las fracciones (sic) XXX se sancionará conforme a lo dispuesto en la fracción III del Artículo anterior.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
-f) En los supuestos a que aluden (sic) fracciones XXXI y XXXII conforme la fracción IV Artículo (sic) anterior.
+c) En los supuestos establecidos en las fracciones XXVI, XXVII y XXIX del Artículo 172 de esta Ley, serán acreedores a una multa de cinco mil a seis mil veces el valor diario de la Unidad de Medida y Actualización vigente a la fecha en que se cometió la infracción, y en caso de persistir la conducta infractora, se sancionará conforme a lo establecido en la fracción III del Artículo anterior;
 
-g) En el caso establecido en la fracción XXXIII se sancionará al infractor de conformidad a la Ley de Responsabilidad de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
-h) En el caso previsto en la fracción XXXIV se tomará en cuenta la gravedad y la reincidencia o no en la misma, con el fin de determinar si es procedente únicamente la multa o la revocación de la autorización e inclusive ambas.
+d) A quien funja como Autoridad Educativa, director escolar, educador o trabajador de apoyo y asistencia al servicio de la educación pública e infrinja lo establecido en la fracción XXVIII del Artículo 172 de esta Ley, se le suspenderá sin goce de sueldo, de su empleo, cargo o comisión durante un periodo de quince a treinta días, valorando la cantidad de alumnos afectados y siguiendo los procedimientos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+e) En el supuesto previsto en la fracción XXX del Artículo 172 de esta Ley, se sancionará conforme a lo dispuesto en la fracción III del Artículo anterior;
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+f) En los supuestos a que aluden las fracciones XXXI y XXXII del Artículo 172 de esta Ley, se aplicará la sanción prevista (sic) la fracción IV del Artículo anterior;
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+g) En el caso establecido en la fracción XXXIII del Artículo 172 de esta Ley, se sancionará al infractor de conformidad a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+h) En el caso previsto en la fracción XXXIV del Artículo 172 de esta Ley, se tomará en cuenta la gravedad y la reincidencia o no en la misma, con el fin de determinar si es procedente únicamente la multa o la revocación de la autorización e inclusive ambas.
 
 Las sanciones que prevé este capítulo se aplicarán sin perjuicio de las previstas en otras disposiciones legales, reglamentarias o administrativas.
 
@@ -2596,3 +2690,15 @@ El presente Decreto iniciará su vigencia a partir de la fecha de inicio del Cic
 ###### ARTÍCULO SEGUNDO.
 
 La conformación de grupos de treinta y cinco alumnos, será de forma gradual, iniciando progresivamente desde el primero de primaria a partir del ciclo escolar 2018-2019, hasta lograr la concreción en el tercer grado de la educación de nivel medio superior en ciclo escolar 2030-2031.
+
+P.O. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 316.- SE REFORMAN LOS ARTÍCULOS 8°, 9°, 17, 18, 29, 45, 63, 93, 96, 97 Y 112, 152, 165, 172, 173, 174. SE ADICIONAN UNA FRACCIÓN XX, AL ARTÍCULOS 8°; UNA FRACCIÓN XXXII AL ARTÍCULO 17; UNA FRACCIÓN XXXVIII AL ARTÍCULO 29; Y UNA FRACCIÓN VII AL ARTÍCULO 45, A LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+La información señalada en la Fracción VII del Artículo 45 de la presente Ley deberá ser publicada a más tardar a los 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, en las páginas web o medios de difusión electrónica con las que cuente el Gobierno del Estado, debiendo remitirse para tal efecto a los Municipios para su conocimiento, y actualización periódica, conforme a dicha Fracción.
