@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2016-11-07"
+last_updated: "2018-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA PRIMERA SECCIÓN DEL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -111,29 +111,25 @@ V.- Proponer al Ejecutivo del Estado programas alternativos para la organizació
 
 VI.- Establecer un seguimiento a los programas que se implementen para dar cumplimiento al objeto de esta ley;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 VII.- Realizar evaluaciones a los programas o proyectos que sean establecidos dentro del ámbito de competencia del presente instrumento legal, a efecto de presentar las observaciones que correspondan al Ejecutivo del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+VIII.- Suscribir acuerdos y convenios de coordinación y concertación, con las dependencias de las administraciones públicas federal, estatal y municipales y organismos nacionales e internacionales que no sean facultad exclusiva del Gobierno del Estado, con el fin de cumplir su objeto; asimismo, actuar como órgano de consulta, capacitación y asesoría de estas entidades públicas, sociales y privadas, con el objeto de lograr la igualdad de oportunidades para las personas con discapacidad.
 
-VIII.- Extender reconocimientos a las personas físicas o morales que se hayan distinguido permanentemente en la promoción y defensa de los derechos de las personas con discapacidad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE JUNIO DE 2018)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+IX.- Extender reconocimientos a las personas físicas o morales que se hayan distinguido permanentemente en la promoción y defensa de los derechos de las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE JUNIO DE 2018)</small>
 
-IX.- Impulsar la participación solidaria de la sociedad y la familia en la preservación y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad; y
+X.- Impulsar la participación solidaria de la sociedad y la familia en la preservación y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-X.- Promover campañas de comunicación efectivas de sensibilización pública en los medios, destinada a fomentar actitudes receptivas respecto de los derechos de las personas con discapacidad, y a promover percepciones positivas y una mayor conciencia social respecto de las características propias de las personas con discapacidad.
+XI.- Promover campañas de comunicación efectivas de sensibilización pública en los medios, destinada a fomentar actitudes receptivas respecto de los derechos de las personas con discapacidad, y a promover percepciones positivas y una mayor conciencia social respecto de las características propias de las personas con discapacidad.
 
 ###### ARTICULO 8º.
 
@@ -149,21 +145,15 @@ d).- Un representante del Instituto de Educación de Aguascalientes;
 
 e).- Un representante del Instituto Cultural de Aguascalientes;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 f).- Un representante del Instituto de Servicios de Salud del Estado de Aguascalientes;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 g).- Un representante de la Secretaría de Bienestar y Desarrollo Social del Estado;
 
 h).- Un representante de la Secretaría de Desarrollo Económico;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -173,25 +163,29 @@ j).- Un representante de la Dirección General del Trabajo del Estado;
 
 k).- Un representante del Consejo Estatal de las personas con discapacidad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+l).- Dos representantes de Cámaras Empresariales y de Servicios a invitación del Presidente;
 
-l).- Representantes de Cámaras Empresariales y de Servicios a invitación del Presidente;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2018)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+m).- Dos representantes de organizaciones sociales de apoyo a personas con discapacidad a invitación del Presidente;
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
-m).- El Diputado Presidente de la Comisión de Derechos Humanos del Congreso del Estado;
+n).- El Diputado Presidente de la Comisión de Derechos Humanos del Congreso del Estado; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+ñ).- El Presidente de la Comisión Estatal de Derechos Humanos.
 
-n).- El Presidente de la Comisión Estatal de Derechos Humanos; y
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
 
-El Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad podrá invitar a los representantes o delegados de las autoridades federales en el Estado para que asistan a las reuniones del mismo y en su caso propongan o emitan las opiniones respecto de asuntos que sean de su competencia.
+El Comité Coordinador de Integración Social y Productiva de las Personas con Discapacidad podrá invitar a los representantes o delegados de las autoridades federales en el Estado, así como a profesionales y expertos de los sectores público, social y privado, quienes podrán participar con voz pero sin voto en las reuniones del mismo y en su caso podrán proponer o emitir las opiniones respecto de asuntos que sean de su competencia.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+El cargo de los integrantes del Comité Coordinador de integración Social y Productiva de las Personas con Discapacidad es de naturaleza honorífica, por lo cual no recibirán remuneración adicional alguna por los servicios que presten.
 
 ###### ARTICULO 9º.
 
@@ -237,6 +231,34 @@ IX.- (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2010)
 
 X.- Las demás que señale esta Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+ARTICULO 11 A.- Para el cumplimiento de sus objetivos, el Comité Técnico tendrá las siguientes facultades:
+
+I. Solicitar a las dependencias, entidades, ayuntamientos y asociaciones afines en materia de discapacidad, sus planes y programas con el fin de coordinar las necesidades y demandas de la población discapacitada;
+
+II. Coordinar el desarrollo de los programas que adopte el Comité Coordinador dando el trámite necesario a cada uno de ellos;
+
+III. Ejecutar los acuerdos que en materia de discapacidad emita el Comité Coordinador, informando los resultados en forma trimestral;
+
+IV. Dar seguimiento a los convenios que en materia de discapacidad firme el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Aguascalientes, constatando directamente su cumplimiento y apego a los compromisos contraídos en los mismos;
+
+V. Supervisar que los apoyos en materia de discapacidad que se otorguen a personas físicas o morales, sean destinados a los fines para los cuales fueron asignados;
+
+VI. Emitir los lineamientos para integrar el padrón estatal de personas con discapacidad e instituciones afines legalmente constituidas, así como la expedición de las credenciales correspondientes;
+
+VII. Generar propuestas que incidan en el desarrollo de la cultura de inclusión hacia las personas con discapacidad en el Estado;
+
+VIII. Proponer criterios para la planeación y ejecución de las políticas públicas y programas en materia de discapacidad;
+
+IX. Consultar a las personas con discapacidad y hacerles partícipes en el diagnóstico y evaluación social de las políticas públicas destinadas a las personas con discapacidad;
+
+X. Canalizar al Comité Coordinador los proyectos y propuestas de la ciudadanía en materia de discapacidad;
+
+XI. Vincular a los sectores sociales y productivos con las autoridades estatales y municipales para generar acuerdos de participación en materia de discapacidad; y
+
+XII. Formular propuestas a las autoridades a fin de salvaguardar los derechos de las personas con discapacidad, cuando tengan conocimiento de alguna queja realizada por alguna acción en perjuicio de una persona con discapacidad.
+
 ###### ARTICULO 12.
 
 El Comité Técnico de Integración social y Productiva para Personas con Discapacidad deberá rendir informe de sus actividades trimestralmente ante el Comité Coordinador de Integración Social y Productiva para Personas con Discapacidad.
@@ -265,7 +287,9 @@ II.- La orientación terapéutica, el tratamiento necesario de acuerdo a las pos
 
 III.- Evaluar y determinar el grado de discapacidad, en caso de que ésta impida a la persona con discapacidad la integración de la vida social y productiva, la comisión procederá a canalizar a las autoridades correspondientes determinadas por la Ley; y
 
-IV.- Implementar un registro estatal de personas con discapacidad.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+IV.- Implementar un registro estatal de personas con discapacidad, así como de instituciones legalmente constituidas cuyo objeto se encuentre relacionado con esta ley, el cual deberá actualizarse de manera continua con la información que será solicitada a las entidades y dependencias de la administración pública y a organizaciones de la sociedad civil.
 
 ###### ARTICULO 17.
 
@@ -489,9 +513,11 @@ Se fomentará el empleo de los trabajadores con discapacidad mediante el estable
 
 El Ejecutivo del Estado a través de la Dirección General del Trabajo del Estado, establecerá programas de promoción del empleo de las personas con discapacidad creando al efecto una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 47.
 
-Se crean Centros Especiales de Empleo, cuyo objetivo principal será asegurar un empleo remunerado, realizando un trabajo productivo, al personal con discapacidad, cuya promoción y apoyo técnico depende del Sistema Estatal para el Desarrollo Integral de la Familia en Aguascalientes en coordinación con la Secretaria de Desarrollo Económico.
+Se crean Centros Especiales de Empleo, cuyo objetivo principal será asegurar un empleo remunerado, realizando un trabajo productivo, al personal con discapacidad, cuya promoción y apoyo técnico depende del Sistema Estatal para el Desarrollo Integral de la Familia en Aguascalientes en coordinación con la Secretaria de Desarrollo Económico y la Dirección General del Trabajo.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
@@ -541,11 +567,13 @@ Los procesos de rehabilitación serán prestados tomando en cuenta la coordinaci
 
 ### CAPITULO X. Integración a la Vida Productiva
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 56.
 
-Los Gobiernos Estatal y Municipales, sus entidades paraestatales, así como los Poderes Legislativo y Judicial, deberán contratar y capacitar como mínimo el dos por ciento de su planta laboral a personas con alguna discapacidad, quienes deberán presentar el certificado médico de discapacidad correspondiente.
+Los Gobiernos Estatal y Municipales, sus entidades paraestatales, así como los Poderes Legislativo y Judicial, deberán contratar y capacitar como mínimo el tres por ciento de su planta laboral a personas con alguna discapacidad, quienes deberán presentar el certificado médico de discapacidad correspondiente, supeditándose a esta cuota laboral todos los reglamentos secundarios y municipales; los gobiernos mencionados harán las modificaciones pertinentes a sus políticas internas, e infraestructura adecuada para crear espacios laborales inclusivos.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 Los sujetos obligados por esta norma presentarán un informe anual al Congreso del Estado en el mes de diciembre de cada año, acerca del cumplimiento de la presente disposición o en su caso de las causas que justifiquen su incumplimiento.
 
@@ -806,3 +834,15 @@ P.O. 7 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a los noventa días siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- SE REFORMAN LAS FRACCIONES VIII, IX Y X DEL ARTÍCULO 7°, LAS FRACCIONES L).- M).- Y N.- Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8°, LA FRACCIÓN IV DEL ARTÍCULO 16; EL ARTÍCULO 47; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 56. SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 7°, UNA FRACCIÓN Ñ).- Y UN TERCER PÁRRAFO AL ARTÍCULO 8°, Y UN ARTÍCULO 11 A, A LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente de su publicación el en (sic) Periódico Oficial del Estado, con excepción de la Reforma relativa al Artículo 56, la cual entrará en vigor el 1° de enero de 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exhorta a los Ayuntamientos de los Municipios del Estado a realizar las Reformas a sus disposiciones reglamentarias a efecto de dar cumplimiento a lo dispuesto por este Decreto.
