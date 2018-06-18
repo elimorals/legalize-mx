@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-04-16"
+last_updated: "2018-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -991,17 +991,23 @@ XII. Ajustarse al tiempo de participación máximo para la intervención de niñ
 
 XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 81.
 
-Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
+Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos. De igual manera, deberá reconocerse tal excepción a los niños y niñas, a quienes se atribuya la comisión de conductas que infringen la normatividad administrativa, por lo que no podrán ser privados de su libertad, ni sujetos a procedimiento alguno.
 
 Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 82.
 
-En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección Local.
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito o alguna norma establezca como infracción administrativa, de manera inmediata dará aviso a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes y lo notificará a quienes ejerzan la patria potestad o tutela.
 
-Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito. No obstante lo anterior, cuando por las circunstancias de los hechos, estuvieren los niños involucrados sin vigilancia, o bien, no se encontrare presente la persona que detente la patria potestad o tutela, con el objeto de garantizar la seguridad e integridad del menor, deberá la autoridad que tenga conocimiento, solicitar el auxilio e intervención de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, la cual tomará las medidas necesarias, a efecto de salvaguardar la integridad de los menores a su cuidado.
 
 La Procuraduría de Protección Local, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
 
@@ -1023,9 +1029,11 @@ V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra n
 
 VI. Adoptar las medidas necesarias para evitar la re victimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 84.
 
-Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección Local.
+Siempre que se encuentre una niña, niño o adolescente involucrado de cualquier modo, en hechos relacionados con la comisión de un delito o una infracción administrativa, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes.
 
 ###### Artículo 85.
 
@@ -1183,9 +1191,17 @@ X. Considerar la opinión y preferencia de las niñas, niños y adolescentes par
 
 XI. Educar y supervisar en el conocimiento y uso responsable de las tecnologías de la información y comunicación;
 
-XII. Es obligación primordial orientar y supervisar y, en su caso, restringir, las conductas y hábitos para que no afecten el desarrollo integral de niñas, niños y adolescentes en el ejercicio de los derechos que esta Ley y otros ordenamientos les confiere, siempre que se atienda al interés superior de la niñez; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social.
+XII. Es obligación primordial orientar y supervisar y, en su caso, restringir, las conductas y hábitos para que no afecten el desarrollo integral de niñas, niños y adolescentes en el ejercicio de los derechos que esta Ley y otros ordenamientos les confiere, siempre que se atienda al interés superior de la niñez;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+XIV. Responder por los daños y perjuicios que hayan causado las niñas, niños y adolescentes por la omisión en su deber de cuidado, en términos del Artículo 1793 del Código Civil.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -2002,3 +2018,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Sistema Local de Protección, adecuará sus lineamientos con el presente Decreto, en un plazo no mayor de 90 días naturales, contados a partir de la publicación del mismo.
+
+P.O. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 319.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 81; EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 82; EL ARTÍCULO 84; Y SE REFORMAN LAS FRACCIONES XII, XIII, Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 96 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Directivo para el Desarrollo Integral de la Familia del Estado de Aguascalientes deberá expedir las disposiciones reglamentarias necesarias relativas a lo dispuesto por este Decreto, antes del día 1° de enero del año 2019.
+
+###### ARTÍCULO TERCERO.
+
+Se exhorta a los Ayuntamientos de los Municipios del Estado a realizar las Reformas a sus disposiciones reglamentarias a efecto de dar cumplimiento a lo dispuesto por este Decreto.
