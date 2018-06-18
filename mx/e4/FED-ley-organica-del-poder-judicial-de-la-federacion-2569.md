@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2018-02-21"
+last_updated: "2018-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -1204,9 +1204,11 @@ SECCION 2a.
 
 DE LAS COMISIONES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 77.
 
-El Consejo de la Judicatura Federal contará con aquellas comisiones permanentes o transitorias de composición variable que determine el Pleno del mismo, debiendo existir en todo caso las de administración, carrera judicial, disciplina, creación de nuevos órganos y la de adscripción.
+El Consejo de la Judicatura Federal contará con aquellas comisiones permanentes o transitorias de composición variable que determine el Pleno del mismo, debiendo existir en todo caso las de administración, carrera judicial, disciplina, vigilancia, creación de nuevos órganos y la de adscripción.
 
 Cada comisión se formará por tres miembros: uno de entre los provenientes del Poder Judicial y los otros dos de entre los designados por el Ejecutivo y el Senado.
 
@@ -1404,13 +1406,27 @@ El Consejo de la Judicatura Federal contará con un secretariado ejecutivo, el c
 
 I. El secretario ejecutivo del Pleno y Carrera Judicial;
 
-II. El secretario ejecutivo de Administración, y
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-III. El secretario ejecutivo de Disciplina.
+II. El secretario ejecutivo de Administración;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+III. El secretario ejecutivo de Disciplina, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+IV. El secretario ejecutivo de Vigilancia.
 
 El secretariado ejecutivo contará con el personal que fije el presupuesto.
 
-Los secretarios ejecutivos del Pleno y Carrera Judicial y el de Disciplina deberán tener título profesional de licenciado en derecho, expedido legalmente, con experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, y el secretario ejecutivo de Administración título profesional afín a sus funciones y experiencia mínima de cinco años.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+Los secretarios ejecutivos del Pleno y Carrera Judicial, de Vigilancia y el de Disciplina deberán tener título profesional de licenciado en derecho, expedido legalmente, con experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, y el secretario ejecutivo de Administración título profesional afín a sus funciones y experiencia mínima de cinco años.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+El secretario ejecutivo de Disciplina fungirá como autoridad substanciadora en los procedimientos disciplinarios en contra de servidores públicos adscritos a los órganos jurisdiccionales del Poder Judicial de la Federación, a fin de lograr un ejercicio responsable, profesional e independiente en la función jurisdiccional, así como evitar actos que la demeriten.
 
 ###### ARTICULO 87.
 
@@ -1424,11 +1440,13 @@ SECCION 1a.
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2000)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 88.
 
-Para su adecuado funcionamiento, el Consejo de la Judicatura Federal contará con los siguientes órganos: el Instituto de la Judicatura, la Visitaduría Judicial, la Contraloría del Poder Judicial de la Federación, el Instituto Federal de Defensoría Pública y el Instituto Federal de Especialistas de Concursos Mercantiles en los términos que establece la Ley de Concursos Mercantiles.
+Para su adecuado funcionamiento, el Consejo de la Judicatura Federal contará con los siguientes órganos: el Instituto de la Judicatura, la Visitaduría Judicial, la Unidad General de Investigación de Responsabilidades Administrativas, la Contraloría del Poder Judicial de la Federación, el Instituto Federal de Defensoría Pública y el Instituto Federal de Especialistas de Concursos Mercantiles en los términos que establece la Ley de Concursos Mercantiles.
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2000)</small>
 
 Con excepción del Director General del Instituto Federal de Defensoría Pública y de los miembros de la Junta Directiva del Instituto Federal de Especialistas de Concursos Mercantiles, cuyos requisitos para ser designados se mencionan en las leyes de la materia correspondientes, los demás titulares de los órganos del Consejo de la Judicatura Federal deberán tener título profesional legalmente expedido, afín a las funciones que deban desempeñar, experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los órganos contarán con el personal que fije el presupuesto.
 
@@ -1496,9 +1514,11 @@ SECCION 4a.
 
 DE LA VISITADURIA JUDICIAL
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 98.
 
-La Visitaduría Judicial es el órgano auxiliar del Consejo de la Judicatura Federal competente para inspeccionar el funcionamiento de los tribunales de circuito y de los juzgados de distrito, y para supervisar las conductas de los integrantes de estos órganos.
+La Visitaduría Judicial es el órgano auxiliar del Consejo de la Judicatura Federal, competente para inspeccionar e investigar el funcionamiento de sus órganos jurisdiccionales a fin de lograr un ejercicio responsable, profesional e independiente en la función jurisdiccional, así como evitar actos que la demeriten.
 
 ###### ARTICULO 99.
 
@@ -1508,11 +1528,11 @@ Los visitadores deberán satisfacer los siguientes requisitos: ser mayor de trei
 
 El Consejo de la Judicatura Federal establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para efectos de lo que se dispone en esta ley en materia de responsabilidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 100.
 
-Los visitadores, de acuerdo con los sorteos periódicos que realice el secretario ejecutivo de disciplina, deberán inspeccionar de manera ordinaria los tribunales de circuito, juzgados de distrito, centros de justicia penal federal y órganos jurisdiccionales que los integran, así como los plenos de circuito, cuando menos dos veces por año, de conformidad con las disposiciones generales que emita el Consejo de la Judicatura Federal en esta materia.
+Los visitadores, de acuerdo con los sorteos periódicos que realice el secretario ejecutivo de disciplina, deberán inspeccionar de manera ordinaria los tribunales de circuito y juzgados de distrito cuando menos una vez por año de conformidad con las disposiciones generales que emita el Consejo de la Judicatura Federal en esta materia.
 
 Ningún visitador podrá visitar los mismos órganos por más de dos años.
 
@@ -1558,6 +1578,50 @@ El acta levantada por el visitador será entregada al juzgador visitado y al sec
 
 El Consejo de la Judicatura Federal y el secretario ejecutivo de disciplina podrán ordenar al titular de la Visitaduría Judicial la celebración de visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un magistrado de circuito o juez de distrito.
 
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+En las visitas ordinarias o extraordinarias de inspección, los visitadores contarán con facultades para recabar toda la información y medios de prueba, tanto de instituciones y servidores públicos, como de personas físicas o morales privadas, que resulten necesarios para el debido cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+Del resultado de las visitas ordinarias o extraordinarias de inspección, la Visitaduría podrá disponer la práctica de investigaciones en el ámbito de sus competencias o, de advertir alguna conducta administrativa irregular dentro de sus inspecciones que implique una falta administrativa no sujeta a su competencia, dar vista a la Unidad General de Investigación de Responsabilidades Administrativas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+SECCION 4a. BIS
+
+DE LA UNIDAD GENERAL DE INVESTIGACION DE RESPONSABILIDADES ADMINISTRATIVAS
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 102 Bis.
+
+La Unidad General de Investigación de Responsabilidades Administrativas fungirá como autoridad investigadora en términos de la Ley General de Responsabilidades Administrativas y tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de faltas administrativas, así como la intervención de aquellos a quienes se imputen.
+
+El titular de la Unidad será designado por el Pleno del Consejo de la Judicatura Federal, a propuesta de su presidencia, y deberá tener título profesional afín a sus funciones y experiencia mínima de cinco años preferentemente en la materia de responsabilidades administrativas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 102 Bis 1.
+
+La Unidad General de Investigación de Responsabilidades Administrativas tendrá las siguientes funciones:
+
+I. Llevar a cabo las investigaciones por faltas administrativas en contra de servidores públicos de los órganos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, así como emitir el informe de probable responsabilidad del servidor público imputado, de conformidad con los acuerdos generales que dicte el Consejo de la Judicatura Federal;
+
+II. Ordenar la recolección de indicios y medios de prueba que estime conducentes para llegar a la verdad material de los hechos, así como desahogarlos en su momento procesal oportuno;
+
+III. Requerir informes y documentación a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público, o a la Comisión Nacional Bancaria y de Valores, para que provean la información contable y financiera necesaria para el trámite de una investigación;
+
+IV. Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia de los mismos;
+
+V. Inspeccionar, en el ámbito de su competencia, el funcionamiento administrativo de los órganos jurisdiccionales a partir de las quejas interpuestas en contra de funcionarios adscritos a ellas o de los indicios señalados por la Visitaduría Judicial en el ejercicio de sus funciones;
+
+VI. Imponer las medidas de apremio para hacer cumplir sus determinaciones, a que se refiere el artículo 97 de la Ley General de Responsabilidades Administrativas;
+
+VII. Solicitar a la autoridad substanciadora o resolutora, en los procedimientos de responsabilidad administrativa, las medidas cautelares a que se refiere el artículo 124 de la Ley General de Responsabilidades Administrativas;
+
+VIII. Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes. Las facultades a que se refieren las fracciones III y VII de este artículo, serán ejercidas exclusivamente por el Titular de la Unidad.
+
 SECCION 5a.
 
 DE LA CONTRALORIA DEL PODER JUDICIAL DE LA FEDERACION
@@ -1566,19 +1630,31 @@ DE LA CONTRALORIA DEL PODER JUDICIAL DE LA FEDERACION
 
 La Contraloría del Poder Judicial de la Federación tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, servidores públicos y empleados del propio Poder Judicial de la Federación, con excepción de aquéllas que correspondan a la Suprema Corte de Justicia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE JUNIO DE 2018)</small>
+
+Asimismo, fungirá como autoridad substanciadora, en términos de la Ley General de Responsabilidades Administrativas, en los procedimientos instados en contra de los servidores públicos adscritos a los órganos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, en los que por un mismo acto o hechos relacionados, se deriven causas de responsabilidad administrativa por el manejo, custodia y la aplicación de fondos y recursos.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 104.
 
 La Contraloría del Poder Judicial de la Federación contará con las siguientes atribuciones:
 
-I. Vigilar el cumplimiento de las normas de control establecidas por el Consejo de la Judicatura Federal;
+I. Fungir como autoridad substanciadora en términos de la Ley General de Responsabilidades Administrativas, en los procedimientos instados en contra de los servidores públicos adscritos a las áreas administrativas del Consejo de la Judicatura Federal;
 
-II. Comprobar el cumplimiento por parte de los órganos administrativos de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+II. Implementar los mecanismos de prevención de faltas administrativas y hechos de corrupción, así como de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan;
 
-III. Llevar con excepción del relativo a la Suprema Corte de Justicia, el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial de la Federación a que se refiere la fracción VI del artículo 80 de la Ley Federal de Responsabilidades de los Servidores Públicos;
+III. Implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Nacional Anticorrupción;
 
-IV. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Poder Judicial de la Federación, y
+IV. Comprobar el cumplimiento, por parte de los órganos administrativos, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
 
-V. Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes.
+V. Verificar que los recursos económicos de que dispone el Poder Judicial de la Federación, se administren con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados, en los términos del artículo 134 constitucional;
+
+VI. Llevar, con excepción del relativo a la Suprema Corte de Justicia y al Tribunal Electoral del Poder Judicial de la Federación, el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial de la Federación, y de su declaración de intereses, e integrarlas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como realizar la verificación aleatoria a que se refiere el artículo 30 de la Ley General de Responsabilidades Administrativas;
+
+VII. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Poder Judicial de la Federación, y
+
+VIII. Las demás que determinen las leyes, reglamentos y acuerdos generales correspondientes.
 
 ## TITULO SEPTIMO. DE LA CARRERA JUDICIAL
 
@@ -1874,9 +1950,9 @@ IX. Emitir opinión pública que implique prejuzgar sobre un asunto de su conoci
 
 X. Abandonar la residencia del tribunal de circuito o juzgado de distrito al que esté adscrito, o dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
-> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XI. Las previstas en el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional;
+XI. Las previstas en la Ley General de Responsabilidades Administrativas, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional;
 
 > <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -1886,7 +1962,11 @@ XII. Incumplir las disposiciones constitucionales y legales en materia de propag
 
 XIII. La omisión a que se refiere el artículo 135 del Código Nacional de Procedimientos Penales, y
 
-XIV. Las demás que determine la ley.
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XIV. Llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o aunque no exista dicha posición, sobre otra persona de su entorno laboral, sin el consentimiento de ésta, que atente contra su dignidad, y
+
+XV. Las demás que determine la ley.
 
 ###### ARTICULO 132.
 
@@ -1894,45 +1974,63 @@ El procedimiento para determinar las responsabilidades de los servidores públic
 
 Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 133.
 
-Serán competentes para conocer de las responsabilidades de los servidores públicos del Poder Judicial de la Federación, así como para aplicar las sanciones a que se refiere el artículo 135 de esta ley:
+Serán competentes para conocer de las responsabilidades de los servidores públicos del Poder Judicial de la Federación, como autoridades resolutoras en términos de la Ley General de Responsabilidades Administrativas, así como para aplicar las sanciones a que se refiere el artículo 135 de esta ley:
 
 I. La Suprema Corte de Justicia funcionando en Pleno, tratándose de faltas de los ministros y de las faltas graves cometidas por sus servidores públicos;
 
 II. El presidente de la Suprema Corte de Justicia, tratándose de servidores públicos de este órgano, en los casos no comprendidos en la fracción anterior;
 
-III. El Pleno del Consejo de la Judicatura Federal, tratándose de faltas graves de magistrados de circuito y jueces de distrito, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público, y
+III. La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, tratándose de faltas de las magistradas y magistrados adscritos a ella;
 
-IV. El órgano colegiado que determine el Consejo de la Judicatura Federal, en los casos no comprendidos en la fracción anterior.
+IV. El Pleno del Consejo de la Judicatura Federal, tratándose de faltas graves de magistrados de circuito y jueces de distrito, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público;
 
-Siempre que de un mismo acto se derive responsabilidad por una falta grave de un magistrado de circuito o juez de distrito, y otro u otros servidores públicos del Poder Judicial de la Federación, se estará a lo previsto en la fracción III de este artículo.
+V. La Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación respecto de los servidores públicos del mismo, con excepción de lo previsto en la fracción III de este artículo;
 
-El Consejo de la Judicatura Federal podrá señalar, mediante acuerdos generales, los casos en que la Contraloría del Poder Judicial de la Federación sea competente para conocer de los procedimientos de responsabilidad comprendidos en la fracción IV de este artículo.
+VI. El órgano colegiado que determine el Consejo de la Judicatura Federal, en los casos no comprendidos en la fracción anterior.
+
+Cuando de un mismo acto se derive responsabilidad por una falta grave de un magistrado de circuito o juez de distrito, y otro u otros servidores públicos del Poder Judicial de la Federación, se estará a lo previsto en la fracción IV de este artículo.
+
+El Consejo de la Judicatura Federal podrá señalar, mediante acuerdos generales, los casos en que la Contraloría del Poder Judicial de la Federación sea competente para conocer de los procedimientos de responsabilidad comprendidos en la fracción VI de este artículo.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 134.
 
-Para la determinación de las responsabilidades a que se refiere este Título deberá seguirse el siguiente procedimiento:
+Para la determinación de las responsabilidades a que se refiere este Título se instaurará el siguiente procedimiento, en el cual deberá observarse los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, publicidad, verdad material y respeto a los derechos humanos:
 
-I. Se enviará una copia del escrito de denuncia y sus anexos al servidor público para que, en un término de cinco días hábiles, formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en el escrito de denuncia, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del denunciante;
+I. Se ordenará el emplazamiento del probable responsable, con el Informe de Presunta Responsabilidad Administrativa a que se refiere el artículo 194 de la Ley General de Responsabilidades Administrativas, debiendo citarlo para que comparezca personalmente a la celebración de una audiencia pública ante la autoridad substanciadora, señalando con precisión el día, lugar y hora en que tendrá lugar, así como la autoridad ante la que se llevará a cabo. Del mismo modo, le hará saber el derecho que tiene de no declarar contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un defensor perito en la materia y que, de no contar con un defensor, le será nombrado un defensor de oficio.
 
-II. Recibido el informe y desahogadas las pruebas, si las hubiere, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al interesado dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones II y IV del artículo anterior;
+Entre la fecha del emplazamiento y la de la audiencia, deberá mediar un plazo no menor de diez ni mayor de quince días hábiles. El diferimiento de la audiencia sólo podrá otorgarse por causas de caso fortuito o de fuerza mayor debidamente justificadas;
 
-III. Cuando se trate de los casos comprendidos en las fracciones I y III del artículo anterior, el presidente de la Suprema Corte de Justicia o, en su caso, el órgano que determine el Consejo de la Judicatura Federal, remitirán el asunto al Pleno de la Suprema Corte de Justicia o al del Consejo de la Judicatura Federal, para que cite al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga por sí o por medio de un defensor.
+II. El día y hora señalado para la audiencia, el probable responsable rendirá un informe, en el que deberá referirse a todos y cada uno de los hechos comprendidos en el informe de probable responsabilidad del servidor público imputado, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos denunciados sobre los cuales el servidor público no suscitare explícitamente controversia.
 
-Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles.
+En dicha audiencia, el servidor público imputado deberá ofrecer las pruebas que estime necesarias para su defensa. En caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga en su poder, o las que no estándolo, conste que las solicitó mediante el acuse de recibo correspondiente. Tratándose de documentos que obren en poder de terceros y que no pudo conseguirlos por obrar en archivos privados, deberá señalar el archivo donde se encuentren o la persona que los tenga a su cuidado para que, en su caso, le sean requeridos;
 
-IV. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias en su caso, y
+III. Una vez que las partes hayan manifestado durante la audiencia inicial lo que a su derecho convenga y ofrecido sus respectivas pruebas, la autoridad substanciadora declarará cerrada la audiencia; después de ello las partes no podrán ofrecer más pruebas, salvo aquellas que sean supervenientes.
 
-V. En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, la Suprema Corte de Justicia, el Consejo de la Judicatura Federal, el presidente de la Suprema Corte de Justicia o el órgano que determine el Consejo de la Judicatura Federal, según corresponda podrán determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, siempre que a su juicio así conviene para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo la suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
+Dentro de los quince días hábiles siguientes al cierre de la audiencia, la autoridad substanciadora deberá emitir el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y llevará a cabo su desahogo;
 
-Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
+IV. Concluido el desahogo de las pruebas, la autoridad substanciadora abrirá un periodo de alegatos por un término de cinco días hábiles comunes para las partes. Transcurrido dicho periodo, la autoridad resolutora dictará la determinación que corresponda en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello, y se notificará la resolución al interesado dentro de las setenta y dos horas;
 
-Cuando la falta motivo de la queja fuese leve, el presidente de la Suprema Corte de Justicia o el órgano que determine el Consejo de la Judicatura Federal impondrá la sanción que corresponda y dictará las medidas para su corrección o remedio inmediato; si la falta fuere grave, remitirá el asunto al Pleno de la Suprema Corte de Justicia o al del Consejo de la Judicatura Federal según corresponda, a fin de que procedan de acuerdo a sus facultades.
+V. En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, la Suprema Corte de Justicia, el Consejo de la Judicatura Federal, el presidente de la Suprema Corte de Justicia o el órgano que determine el Consejo de la Judicatura Federal, según corresponda podrán determinar la suspensión temporal de los probables responsables de sus cargos, empleos o comisiones, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
+
+Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos, en los términos que establece la Ley General de Responsabilidades Administrativas;
+
+VI. De advertir la autoridad resolutora que los hechos descritos en el informe de probable responsabilidad del servidor público imputado corresponden a la descripción de una falta diversa, ésta podrá reclasificar la conducta correspondiente y dará vista al servidor público sujeto a procedimiento administrativo;
+
+VII. Las autoridades resolutoras del asunto podrán ordenar la realización de diligencias para mejor proveer, sin que por ello se entienda abierta de nuevo la investigación, disponiendo la práctica o ampliación de cualquier diligencia probatoria, siempre que resulte pertinente para el conocimiento de los hechos relacionados con la existencia de la falta administrativa y la responsabilidad de quien la hubiera cometido. Con las pruebas que se alleguen al procedimiento derivadas de diligencias para mejor proveer se dará vista a las partes por el término de tres días para que manifiesten lo que a su derecho convenga, pudiendo ser objetadas en cuanto a su alcance y valor probatorio en la vía incidental.
+
+Los medios de impugnación de los procedimientos de responsabilidad administrativa estarán previstos en los acuerdos generales que al efecto emitan la Suprema Corte de Justicia, el Consejo de la Judicatura Federal y la Comisión de Administración del Tribunal Electoral.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 135.
 
-Las sanciones aplicables a las faltas contempladas en el presente Título y en el artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos consistirán en:
+Las sanciones aplicables a las faltas contempladas en el presente Título y en la Ley General de Responsabilidades Administrativas consistirán en:
 
 I. Apercibimiento privado o público;
 
@@ -1946,13 +2044,17 @@ V. Destitución del puesto, y
 
 VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 136.
 
-Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los criterios establecidos en los tres últimos párrafos del artículo 53 y los artículos 54 y 55 de la Ley Federal de Responsabilidades de los Servidores Públicos.
+Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los criterios establecidos en los artículos 75 a 80 de la Ley General de Responsabilidades Administrativas.
 
-En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones XI a XIII, y XV a XVII del artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos, en las fracciones I a VI del artículo 131 de esta ley, y las señaladas en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos.
+En todo caso, se considerarán como faltas graves, además de las así calificadas por la Ley General de Responsabilidades Administrativas, las contempladas en las fracciones I a VIII y XIV del artículo 131 de esta ley, y las señaladas en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Tratándose de los ministros, la destitución sólo procederá en los casos a que se refiere el artículo 101 y el Título IV de la Constitución Política de los Estados Unidos Mexicanos, así como las fracciones XI, XIII, y XV a XVII del artículo 47 de la Ley Federal de Responsabilidades de los Servidores Públicos.
+Cuando la falta administrativa no cause un daño patrimonial, pero sea considerada como grave, podrá determinarse la inhabilitación de entre uno hasta veinte años, atendiendo a las circunstancias del caso.
+
+Tratándose de los ministros, la destitución sólo procederá en los casos a que se refiere el artículo 101 y el Título IV de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 137.
 
@@ -2350,9 +2452,9 @@ VI.- Elaborar anualmente el proyecto de su Presupuesto y proponerlo al president
 
 VII.- Expedir su Reglamento Interno y los acuerdos generales necesarios para su adecuado funcionamiento;
 
-> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VIII.- Desarrollar directamente o por conducto del Centro de Capacitación Judicial Electoral, tareas de formación, investigación, capacitación y difusión en la materia;
+VIII.- Desarrollar directamente o por conducto de la Escuela Judicial Electoral, como institución educativa especializada, tareas de formación, investigación, capacitación y difusión en la materia;
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2458,9 +2560,9 @@ XIII.- Resolver los conflictos de competencia que se susciten entre las Salas Re
 
 XIV.- Vigilar que se cumplan las normas de registro y seguimiento de la situación patrimonial de los servidores de la Sala Superior ante la Suprema Corte de Justicia de la Nación;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XV.- Aprobar los lineamientos para el desahogo de los procedimientos sancionadores por las infracciones en las que incurran los magistrados electorales de las Salas Regionales y el personal administrativo adscrito al Tribunal;
+XV.- Resolver los procedimientos de responsabilidad administrativa y, en su caso, imponer las sanciones respectivas por faltas cometidas por las magistradas y los magistrados adscritos a ella, así como resolver los medios de impugnación que procedan contra las determinaciones que, en esta materia, emita la Comisión de Administración;
 
 > <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2008)</small>
 
@@ -2828,7 +2930,9 @@ XII.- Formular los requerimientos ordinarios necesarios para la integración de 
 
 XIII.- Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia, o efectuar por sí mismos las que deban practicarse fuera de las oficinas de la Sala;
 
-XIV.- Participar en los programas de capacitación institucionales y del Centro de Capacitación Judicial Electoral, y
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XIV.- Participar en los programas de capacitación institucionales y de la Escuela Judicial Electoral, y
 
 XV.- Las demás que les señalen las leyes o el Reglamento Interno del Tribunal o las que sean necesarias para el correcto funcionamiento del Tribunal.
 
@@ -3032,7 +3136,9 @@ VII.- Conceder licencias al personal administrativo adscrito al Tribunal en los 
 
 VIII.- Conocer de las renuncias que presenten los secretarios y demás personal de las Salas Regionales;
 
-IX.- Destituir o suspender a los Magistrados de las Salas Regionales, cuando incurran en faltas o conductas graves que lo ameriten y comunicarlo de inmediato a la Suprema Corte de Justicia de la Nación para los efectos conducentes. En estos casos, el magistrado destituido o suspendido podrá apelar la decisión ante la Sala Superior del Tribunal;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+IX.- Aplicar las sanciones que deriven de los procedimientos de responsabilidad administrativa que haya resuelto. En caso de destitución o suspensión de Magistrados de las Salas Regionales, deberá comunicarlo de inmediato a la Suprema Corte de Justicia de la Nación para los efectos conducentes. En estos casos, el magistrado destituido o suspendido podrá apelar la decisión ante la Sala Superior del Tribunal;
 
 X.- Suspender en sus cargos a los magistrados electorales de las Salas Regionales a solicitud de autoridad judicial que conozca del procedimiento penal que se siga en su contra. En estos casos, la resolución que se dicte deberá comunicarse a la autoridad que la hubiere solicitado. La suspensión de los magistrados por parte de la Comisión de Administración, constituye un requisito previo indispensable para su aprehensión y enjuiciamiento. Si se ordenare o efectuare alguna detención en desacato a lo previsto en este precepto, se procederá de conformidad con lo dispuesto en la parte final del segundo párrafo de la fracción X del artículo 81 de esta ley;
 
@@ -3042,7 +3148,9 @@ XI.- Suspender en sus funciones a los magistrados electorales de las Salas Regio
 
 XII.- Resolver, por causa fundada y motivada, la suspensión, remoción o cese de los secretarios generales, secretarios, así como del personal jurídico y administrativo de las Salas Regionales;
 
-XIII.- Conocer y resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos en los términos de lo que dispone esta ley, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos, por parte de los correspondientes miembros del Tribunal Electoral;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XIII.- Fungir como autoridad resolutora en las quejas administrativas y sobre la responsabilidad de los servidores públicos en los términos de lo que dispone esta ley, tanto por la comisión de faltas graves como no graves, incluyendo aquellas que se refieran a la violación de los impedimentos previstos en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos, por parte de los correspondientes miembros del Tribunal Electoral;
 
 XIV.- Imponer las sanciones que correspondan a los servidores del Tribunal por las irregularidades o faltas en que incurran en el desempeño de sus funciones, a partir del dictamen que le presente la Comisión Sustanciadora del propio Tribunal, aplicando los artículos 152 a 161 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en aquello que fuere conducente;
 
@@ -3074,9 +3182,13 @@ XXVII.- Administrar los bienes muebles e inmuebles al servicio del Tribunal Elec
 
 XXVIII.- Fijar las bases de la política informática y estadística del Tribunal Electoral;
 
-XXIX.- Establecer, por conducto del Consejo de la Judicatura Federal, la coordinación entre el Instituto de la Judicatura y el Centro de Capacitación Judicial Electoral;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XXX.- Vigilar que los servidores de las Salas Regionales y de la propia Comisión de Administración y de sus órganos auxiliares cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial ante el Consejo de la Judicatura Federal, y
+XXIX.- Establecer, por conducto del Consejo de la Judicatura Federal, la coordinación entre el Instituto de la Judicatura y la Escuela Judicial Electoral;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XXX.- Investigar y determinar las responsabilidades y sanciones a los servidores públicos, con excepción de las magistradas y magistrados de Sala Superior, en los términos y mediante los procedimientos establecidos en la ley, los reglamentos y acuerdos que la propia Comisión dicte en materia disciplinaria;
 
 XXXI.- (DEROGADA, D.O.F. 27 DE JUNIO DE 2014)
 
@@ -3121,6 +3233,10 @@ DE LOS ORGANOS AUXILIARES
 ###### ARTICULO 211.
 
 La Comisión de Administración contará con una Secretaría Administrativa y con los órganos auxiliares necesarios para el adecuado ejercicio de las funciones que tiene encomendadas. Su estructura y funciones quedarán determinadas en el Reglamento Interno del Tribunal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+En términos de la Ley General de Responsabilidades Administrativas, deberá contar con dos órganos auxiliares que desempeñen las funciones de la autoridad investigadora y la autoridad substanciadora. En ningún caso, la función de la autoridad substanciadora podrá ser ejercida por una autoridad investigadora.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -3262,21 +3378,13 @@ SECCION 2A.
 
 DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 219.
 
-Las responsabilidades de todos los miembros del Tribunal Electoral se regirán por el Título Octavo y las disposiciones especiales del presente Título de esta ley. Para estos efectos, salvo disposición en contrario, las facultades señaladas para la Suprema Corte de Justicia de la Nación y las del Consejo de la Judicatura Federal se entenderán atribuidas a la Sala Superior y a la Comisión de Administración, respectivamente, y las del Presidente de la Suprema Corte al Presidente del Tribunal Electoral.
+Las responsabilidades de todos los servidores públicos del Tribunal Electoral se regirán por lo establecido en la Ley General de Responsabilidades Administrativas y, particularmente, por el Título Octavo de esta ley, así como por las disposiciones especiales del presente Título, conforme a los órganos auxiliares que se definan en el reglamento o acuerdos generales que al efecto se emitan.
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-Las resoluciones que dicten la Sala Superior, el presidente del Tribunal o la Comisión de Administración, salvo los casos previstos en la parte final de la fracción IX del artículo 209 y en el párrafo segundo del artículo 241 de esta ley, en el ámbito de sus respectivas competencias, serán definitivas e inatacables por lo que no procederá juicio o recurso alguno en contra de las mismas.
-
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-En los casos de excepción a que se refiere el párrafo anterior, el magistrado o servidor destituido podrá apelar sin sujetarse a formalidad alguna, ante la Sala Superior del Tribunal en un plazo de diez días hábiles, contados a partir de que se le notifique la determinación correspondiente. La Sala Superior resolverá en el término de treinta días hábiles la apelación presentada.
-
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+Las resoluciones que dicte la Comisión de Administración, en materia de responsabilidad por la comisión de faltas administrativas, podrán ser revisadas por la Sala Superior. Los medios de impugnación que podrán presentarse en contra de las determinaciones que se emitan con motivo de las investigaciones, substanciación y de las resoluciones derivadas de los procedimientos administrativos de responsabilidades, se establecerán en el Reglamento Interno del Tribunal Electoral o mediante acuerdos generales, según corresponda.
 
 Los Magistrados de la Sala Superior del Tribunal Electoral sólo podrán ser removidos de sus cargos en los términos de los artículos 110 y 111 del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -3510,7 +3618,9 @@ Serán considerados de confianza los servidores y empleados del Tribunal Elector
 
 La Comisión Sustanciadora en los conflictos laborales se integrará por un representante de la Sala Superior, quien la presidirá, otro de la Comisión de Administración y un tercero nombrado por el Sindicato de Trabajadores del Poder Judicial de la Federación. Para el nombramiento del representante de la Comisión de Administración emitirán su opinión los representantes de la Sala Superior y del Sindicato. En la sustanciación y resolución de los conflictos laborales entre el Tribunal y sus servidores y empleados se seguirá en lo conducente, lo establecido en los artículos 152 a 161 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 constitucional. Para estos efectos, se entenderá que las facultades del Pleno de la Suprema Corte de Justicia de la Nación corresponden a la Sala Superior y las del presidente de la Suprema Corte al presidente del Tribunal.
 
-Los servidores del Tribunal que sean destituidos podrán apelar tal decisión ante la Sala Superior del mismo.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+Los servidores del Tribunal que sean destituidos podrán apelar tal decisión ante la Sala Superior del mismo, sin sujetarse a formalidad alguna, en un plazo de diez días hábiles, contados a partir de que se le notifique la determinación correspondiente. La Sala Superior resolverá en el término de treinta días hábiles la apelación presentada.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
@@ -4035,3 +4145,15 @@ D.O.F. 21 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, EN MATERIA DE DELITOS CARRETEROS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, la Dirección General de Responsabilidades Administrativas, unidad administrativa perteneciente a la Contraloría del Poder Judicial de la Federación, se elevará a rango de órgano auxiliar del Consejo de la Judicatura Federal, independiente de la Contraloría y se denominará Unidad General de Investigación de Responsabilidades Administrativas.
+
+Asimismo, el Pleno del Consejo de la Judicatura Federal distribuirá, de manera proporcional, los recursos humanos, presupuestales, financieros y materiales de la Dirección General de Responsabilidades Administrativas que deban pasar a formar parte de la Unidad General de Investigación de Responsabilidades Administrativas, de acuerdo a las funciones que tendrá encomendadas el nuevo órgano auxiliar; sin menoscabo de los derechos laborales. El titular de dicha Unidad deberá ser designado en términos del artículo 102 Bis de este Decreto.
+
+Tercero. Dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, la Sala Superior y la Comisión de Administración deberán realizar las modificaciones al Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, para definir los órganos de investigación y de sustanciación a que se refiere el presente Decreto. De igual forma, la armonización normativa en materia disciplinaria, mediante la expedición o modificación de los acuerdos generales que sea necesario de acuerdo a lo establecido en el presente Decreto, deberá quedar concluida, a más tardar, dentro de los ciento ochenta días posteriores a su entrada en vigor.
