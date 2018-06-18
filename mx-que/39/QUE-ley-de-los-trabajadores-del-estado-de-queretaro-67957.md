@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2017-09-05"
+last_updated: "2018-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -1135,9 +1135,11 @@ Tratándose de antigüedad ésta se contará a partir del primer empleo que tuvo
 
 ### Capítulo Tercero. De la pensión por vejez
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 139.
 
-Tienen derecho a la pensión por vejez los trabajadores que habiendo cumplido sesenta años de edad, tuviesen veinte años de servicios.
+Tienen derecho a la pensión por vejez los trabajadores que habiendo cumplido sesenta años de edad, se encuentren en los supuestos de años de servicios previstos en el artículo 141.
 
 ###### Artículo 140.
 
@@ -1149,25 +1151,29 @@ Toda fracción de más de seis meses de servicios se considerará como año comp
 
 El monto de la pensión por vejez se calculará aplicando al promedio de la cantidad percibida como sueldo en los cinco últimos años anteriores a la fecha que ésta se conceda, los porcentajes que especifica la tabla siguiente:
 
-I. 20 años de servicios 53%;
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-II. 21 años de servicios 55%;
+I. 15 a 19 años de servicios 50%;
 
-III. 22 años de servicios 60%;
+II. 20 años de servicios 53%;
 
-IV. 23 años de servicios 65%;
+III. 21 años de servicios 55%;
 
-V. 24 años de servicios 70%;
+IV. 22 años de servicios 60%;
 
-VI. 25 años de servicios 75%;
+V. 23 años de servicios 65%;
 
-VII. 26 años de servicios 80%;
+VI. 24 años de servicios 70%;
 
-VIII. 27 años de servicios 85%;
+VII. 25 años de servicios 75%;
 
-IX. 28 años de servicios 90%; o
+VIII. 26 años de servicios 80%;
 
-X. 29 años de servicios 95%.
+IX. 27 años de servicios 85%;
+
+X. 28 años de servicios 90%; o
+
+XI. 29 años de servicios 95%.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -1978,3 +1984,9 @@ P.O. 5 DE SEPTIEMBRE DE 2017.
 Artículo Primero. La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “LEY QUE REFORMA EL ARTÍCULO 139 Y ADICIONA EL ARTÍCULO 141 DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
