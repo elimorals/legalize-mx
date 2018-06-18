@@ -4,7 +4,7 @@ identifier: "LAERO"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2016-06-08"
+last_updated: "2018-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAERO"
 
 LEY DE AEROPUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de diciembre de 1995.
 
@@ -102,7 +102,9 @@ IV. La Ley Federal de Procedimiento Administrativo;
 
 V. La Ley Federal sobre Metrología y Normalización, y
 
-VI. Los códigos de Comercio; Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, y Federal de Procedimientos Civiles.
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+VI. Los códigos de Comercio; Civil Federal, y Federal de Procedimientos Civiles.
 
 ###### ARTICULO 5.
 
@@ -754,7 +756,9 @@ Los concesionarios y permisionarios de aeródromos de servicio al público, así
 
 El contrato de seguro deberá ser registrado ante la Secretaría y estar vigente por los plazos de duración de la concesión o permiso y sus prórrogas.
 
-### CAPITULO XIV. De la verificación
+### CAPÍTULO XIV. De la verificación y la certificación de aeropuertos
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 77.
 
@@ -762,19 +766,27 @@ En caso de desastre natural, guerra, grave alteración del orden público o cuan
 
 El Gobierno Federal, salvo en el caso de guerra o conflicto armado internacionales, indemnizará a los interesados, pagando los daños y perjuicios a su valor real. Si no hubiere acuerdo sobre el monto de la indemnización, los daños se fijarán por peritos nombrados por ambas partes, y en el caso de los perjuicios, se tomará como base el promedio del ingreso neto en el año anterior a la requisa. Cada una de las partes cubrirá la mitad de los gastos que se originen por el peritaje.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ### CAPITULO XV. De las sanciones
 
 ###### ARTICULO 78.
 
-La Secretaría verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables de conformidad con los programas que para tal efecto se establezcan.
+La Secretaría verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables de conformidad con los programas de verificación y certificación que para tal efecto se establezcan.
 
 Los concesionarios o permisionarios y, en su caso, los prestadores de servicios, estarán obligados a permitir el acceso a los verificadores de la Secretaría a sus instalaciones, a transportarlos en sus equipos para que realicen la verificación en términos de la presente Ley y, en general, a otorgarles todas las facilidades para estos fines, así como a proporcionar a la misma los informes con los datos que permitan conocer la construcción, administración, operación y explotación de los aeródromos civiles, y demás servicios relacionados.
 
 Las personas sujetas a verificación, cubrirán las cuotas que por este concepto se originen.
 
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+ARTICULO 78 BIS. Los concesionarios o permisionarios de aeródromos de servicio al público, deberán obtener la certificación de los mismos, de conformidad con esta Ley, sus reglamentos y las disposiciones nacionales e internacionales en esta materia.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 79.
 
-Las certificaciones de las unidades de verificación establecidas por terceros, tendrán validez cuando dichas unidades hayan sido previamente autorizadas por la Secretaría, en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización.
+Los dictámenes técnicos de las unidades de verificación establecidas por terceros, tendrán validez cuando dichas unidades hayan sido previamente autorizadas por la Secretaría, en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización.
 
 ###### ARTICULO 80.
 
@@ -784,49 +796,89 @@ Si el concesionario o permisionario de un aeródromo de servicio al público no 
 
 Las infracciones a lo dispuesto en la presente Ley, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
 
-I. No cumplir con las condiciones de construcción, operación y explotación de aeródromos civiles, con multa de cinco mil a ciento veinte mil días de salario;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-II. Construir u operar un aeródromo civil sin la concesión o permiso correspondiente, con multa de cinco mil a doscientos mil días de salario;
+I. No cumplir con las condiciones de construcción, operación, certificación y explotación de aeródromos civiles, con multa de cinco mil a ciento veinte mil Unidades de Medida y Actualización;
 
-III. Ceder los derechos y obligaciones de la concesión o permiso en contravención a lo dispuesto en esta Ley, con multa de cinco mil a doscientos mil días de salario;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-IV. No hacer del conocimiento de la Secretaría de manera negligente, los accidentes o incidentes ocurridos en los aeródromos, relativos a la seguridad de sus operaciones, salvo causa de fuerza mayor, con multa de mil a cincuenta mil días de salario;
+II. Construir u operar un aeródromo civil sin la concesión o permiso correspondiente, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización;
 
-V. No cumplir con lo solicitado en el dictamen correspondiente conforme a las facultades de verificación de la autoridad, con multa de mil a cincuenta mil días de salario;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VI. Negar el aterrizaje de aeronaves, con multa de mil a cincuenta mil días de salario;
+III. Ceder los derechos y obligaciones de la concesión o permiso en contravención a lo dispuesto en esta Ley, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización;
 
-VII. Aplicar tarifas y precios que excedan a los registrados o, en su caso, sujetos a regulación, con multa de mil a cincuenta mil días de salario;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VIII. No prestar los servicios en la forma en que fueron ofrecidos, con multa de mil a cincuenta mil días de salario;
+IV. No hacer del conocimiento de la Secretaría de manera negligente, los accidentes o incidentes ocurridos en los aeródromos, relativos a la seguridad de sus operaciones, salvo causa de fuerza mayor, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
 
-IX. No dar aviso a la Secretaría de las modificaciones realizadas a estatutos, con multa de mil a cinco mil días de salario;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-X. No apoyar en operaciones de búsqueda y salvamento de aeronaves, con multa de mil a treinta mil días de salario;
+V. No cumplir con lo solicitado en el dictamen correspondiente conforme a las facultades de verificación de la autoridad, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
 
-XI. Obstruir o interferir la radiocomunicación aeronáutica o los lugares de tránsito de un aeródromo civil, con multa de mil a treinta mil días de salario;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XII. Inundar o por negligencia permitir que se inunde un aeródromo civil, con multa de mil a treinta mil días de salario;
+VI. Negar el aterrizaje de aeronaves, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
 
-XIII. Contravenir las disposiciones en materia de seguridad en los aeródromos civiles, establecidas en esta Ley y otros ordenamientos aplicables, con multa de mil a cincuenta mil días de salario;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XIV. Interrumpir, total o parcialmente, la operación del aeródromo civil o la prestación de los servicios aeroportuarios o complementarios, sin causa justificada, con multa de mil a cincuenta mil días de salario;
+VII. Aplicar tarifas y precios que excedan a los registrados o, en su caso, sujetos a regulación, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
 
-XV. No cumplir con las obligaciones de conservación y mantenimiento del aeródromo civil, con multa de mil a treinta mil días de salario;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XVI. No cubrir oportunamente las indemnizaciones por daños que se originen con motivo de la prestación de los servicios, con multa de mil a cinco mil días de salario, y
+VIII. No prestar los servicios en la forma en que fueron ofrecidos, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
 
-XVII. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios que tengan derecho a ello, así como la de autoridades que ejerzan atribuciones dentro del aeródromo civil, con multa de cinco mil a doscientos mil días de salario.
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-Cualquier otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría con multa de hasta cincuenta mil días de salario.
+IX. No dar aviso a la Secretaría de las modificaciones realizadas a estatutos, con multa de mil a cinco mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+X. No apoyar en operaciones de búsqueda y salvamento de aeronaves, con multa de mil a treinta mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XI. Obstruir o interferir la radiocomunicación aeronáutica o los lugares de tránsito de un aeródromo civil, con multa de mil a treinta mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XII. Inundar o por negligencia permitir que se inunde un aeródromo civil, con multa de mil a treinta mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XIII. Contravenir las disposiciones en materia de seguridad en los aeródromos civiles, establecidas en esta Ley y otros ordenamientos aplicables, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XIV. Interrumpir, total o parcialmente, la operación del aeródromo civil o la prestación de los servicios aeroportuarios o complementarios, sin causa justificada, con multa de mil a cincuenta mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XV. No cumplir con las obligaciones de conservación y mantenimiento del aeródromo civil, con multa de mil a treinta mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XVI. No cubrir oportunamente las indemnizaciones por daños que se originen con motivo de la prestación de los servicios, con multa de mil a cinco mil Unidades de Medida y Actualización, y
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XVII. Ejecutar u omitir actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios que tengan derecho a ello, así como la de autoridades que ejerzan atribuciones dentro del aeródromo civil, con multa de cinco mil a doscientas mil Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+Cualquier otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría con multa de hasta cincuenta mil Unidades de Medida y Actualización.
 
 En caso de reincidencia, la Secretaría podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
-Para los efectos del presente capítulo, se entiende por salario, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+Para los efectos del presente capítulo, se entiende por Unidad de Medida y Actualización, la que será utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, publicada en el Diario Oficial de la Federación, al momento de cometerse la infracción.
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 82.
 
-En el caso de terceros autorizados por esta Secretaría para llevar a cabo verificaciones técnicas en los términos de esta Ley, se les aplicará por violación a las condiciones que se establezcan en las autorizaciones respectivas, multa hasta de cincuenta mil días de salario.
+En el caso de terceros autorizados por esta Secretaría para llevar a cabo verificaciones técnicas en los términos de esta Ley, se les aplicará por violación a las condiciones que se establezcan en las autorizaciones respectivas, multa hasta de cincuenta mil Unidades de Medida y Actualización.
 
 ###### ARTICULO 83.
 
@@ -905,3 +957,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
 
 Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
+
+D.O.F. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AVIACIÓN CIVIL Y DE LA LEY DE AEROPUERTOS".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal contará con un plazo máximo de 180 días, contados a partir de la publicación del presente Decreto, para reformar los reglamentos correspondientes y emitir las disposiciones administrativas en materia de aeronaves pilotadas a distancia y de seguridad operacional.
