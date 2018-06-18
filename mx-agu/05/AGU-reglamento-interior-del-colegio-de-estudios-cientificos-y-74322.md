@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-colegio-de-estudios-cientificos-y-74322
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-05"
-last_updated: "2010-04-05"
+last_updated: "2018-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de abril de 2010.
 
@@ -132,7 +134,7 @@ La H. Junta Directiva se integrará según lo dispuesto por el artículo 7º de 
 
 ###### Artículo 8°.
 
-La H. Junta Directiva, celebrará sesiones ordinarias de manera trimestral cualquier día hábil del año; y las extraordinarias cuando así se requiera; (sic)
+La H. Junta Directiva, celebrará sesiones ordinarias de manera trimestral cualquier día hábil del año; y las extraordinarias cuando así se requiera;
 
 ###### Artículo 9°.
 
@@ -445,3 +447,33 @@ El Director General del CECYTEA será representado en sus ausencias temporales p
 ###### Artículo 24.
 
 Los directores de área, de planteles o jefes de departamento, serán suplidos en sus ausencias temporales por el servidor público que ellos mismos designen o en su defecto, por el que designe el Director General.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O.18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el día cinco del mes de abril del año dos mil diez.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a las contenidas en el presente Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena inscribir el presente Reglamento Interior del Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO QUINTO.
+
+La Junta Directiva deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable al Colegio de Estudios Científicos y Tecnológicos del Estado de Aguascalientes con motivo de la expedición del presente Reglamento Interior.
+
+###### ARTÍCULO SEXTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta Directiva deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de la fecha de su publicación.
