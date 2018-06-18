@@ -4,7 +4,7 @@ identifier: "AGU-ley-sobre-el-escudo-y-el-himno-del-estado-de-aguascalientes-946
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-17"
-last_updated: "2017-07-03"
+last_updated: "2018-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de junio de 2013.
 
@@ -193,9 +193,11 @@ La demostración civil de respeto al Himno del Estado de Aguascalientes se hará
 
 El Himno del Estado se ejecutará total o parcialmente en actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo, respetando el orden de primacía del Himno Nacional.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 16.
 
-Es obligatoria la enseñanza e interpretación del Himno del Estado de Aguascalientes en los planteles de educación básica. Su interpretación se realizará por lo menos una vez cada mes. El Instituto de Educación de Aguascalientes proporcionará los elementos necesarios para atender esta disposición.
+Es obligatoria la enseñanza e interpretación del Himno del Estado de Aguascalientes en los planteles de educación básica. Su interpretación se realizará en los actos solemnes a que se refiere el Artículo anterior y para rendir honores a la Bandera Nacional. El Instituto de Educación de Aguascalientes proporcionará los elementos necesarios para atender esta disposición.
 
 ### CAPÍTULO IV. De las Sanciones
 
@@ -264,6 +266,14 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Consti
 P.O. 3 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 317.- SE REFORMA EL ARTÍCULO 16 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
