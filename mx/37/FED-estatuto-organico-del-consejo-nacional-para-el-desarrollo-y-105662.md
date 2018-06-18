@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-el-desarrollo-y-105
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-02-11"
-last_updated: "2017-08-08"
+last_updated: "2018-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105662&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-12-17"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL ACUERDO POR EL QUE SE ABROGA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2017, EL PRESENTE ORDENAMIENTO QUEDA VIGENTE.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JUNIO DE 2018 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de febrero de 2015.
 
@@ -712,3 +712,15 @@ D.O.F. 8 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ABROGA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, PUBLICADO EL 29 DE OCTUBRE DE 2015”.]
 
 ÚNICO.- El presente Acuerdo surtirá sus efectos a partir del día de su publicación en el Diario Oficial de la Federación, por lo que quedará vigente el Estatuto Orgánico del Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, publicado en el Diario Oficial de la Federación el 11 de febrero de 2015.
+
+D.O.F. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD".]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Estatuto Orgánico deberá inscribirse en el Registro Público de Organismos Descentralizados en los términos del artículo 15 de la Ley Federal de las Entidades Paraestatales.
+
+TERCERO. Se abroga el Estatuto Orgánico publicado en el Diario Oficial de la Federación del 11 de febrero de 2015.
+
+CUARTO. Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del Estatuto Orgánico del Consejo, no implican recursos adicionales, toda vez que no hay impacto presupuestal.
