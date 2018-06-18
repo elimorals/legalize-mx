@@ -4,7 +4,7 @@ identifier: "HID-ley-de-deuda-publica-para-el-estado-de-hidalgo-44828"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-30"
-last_updated: "2012-11-05"
+last_updated: "2018-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "HID"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE HIDALGO
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO TERCERO DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. 18 DE JUNIO DE 2018, LAS REFERENCIAS AL REGISTRO DE OBLIGACIONES Y EMPRÉSTITOS DEL ESTADO DE HIDALGO EN LAS LEYES Y DISPOSICIONES ADMINISTRATIVAS, ASÍ COMO EN CUALQUIER OTRO ACTO JURÍDICO, SE ENTENDERÁN HECHAS AL REGISTRO DE OBLIGACIONES Y FINANCIAMIENTOS DEL ESTADO DE HIDALGO.]
+
 LEY DE DEUDA PÚBLICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de mayo de 2005.
 
@@ -195,7 +199,7 @@ XXVI.- Secretaría: la Secretaría de Finanzas y Administración del Poder Ejecu
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
-XXVII.- Órganos de Gobierno: los consejos, juntas directivas, comités técnicos o equivalentes, de las Entidades de la Administración Pública Paraestatal y paramunicipal; y (sic)
+XXVII.- Órganos de Gobierno: los consejos, juntas directivas, comités técnicos o equivalentes, de las Entidades de la Administración Pública Paraestatal y paramunicipal; y
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
@@ -433,7 +437,7 @@ XVI.- Proporcionar al Congreso la información que éste le requiera de acuerdo 
 
 XVII.- Inscribir los financiamientos que celebre en el Registro de Obligaciones y Empréstitos del Estado de Hidalgo, así como mantener actualizada la información sobre la situación que guarden sus obligaciones inscritas y cancelar en su oportunidad, las inscripciones correspondientes;
 
-XVIIl.- Promover la inscripción de los financiamientos que contraten las entidades con el propio instituto, cuando los mismos se contraigan con afectación de las participaciones federales que correspondan en su caso a las entidades, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar sobre la situación que guarden dichas obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
+XVIII.- Promover la inscripción de los financiamientos que contraten las entidades con el propio instituto, cuando los mismos se contraigan con afectación de las participaciones federales que correspondan en su caso a las entidades, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, que al efecto lleva la Secretaría de Hacienda y Crédito Público e informar sobre la situación que guarden dichas obligaciones inscritas en el citado registro, de acuerdo a lo previsto en la normatividad aplicable;
 
 XIX.- Asesorar a las entidades señaladas en el Artículo 2 de la Ley de Deuda Pública para el Estado de Hidalgo, en la formulación de sus proyectos financieros y en todo lo relativo a las operaciones que pretendan realizar en materia de deuda pública;
 
@@ -1208,3 +1212,21 @@ P.O. 5 DE NOVIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 445 QUE CONTIENE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo, salvo por lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Se abroga la Ley de Deuda Pública para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo el 30 de mayo de 2005.
+
+TERCERO.- El Registro de Obligaciones y Financiamientos del Estado de Hidalgo a que se refiere el Capítulo Décimo Primero de la presente Ley sustituirá al Registro de Obligaciones y Empréstitos del Estado de Hidalgo y entrará en vigor a los 60 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Las referencias al Registro de Obligaciones y Empréstitos del Estado de Hidalgo en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro de Obligaciones y Financiamientos del Estado de Hidalgo.
+
+Los trámites iniciados ante el Registro de Obligaciones y Empréstitos del Estado de Hidalgo con anterioridad a la entrada en vigor del Registro de Obligaciones y Financiamientos del Estado de Hidalgo, se llevarán a cabo de conformidad con las disposiciones vigentes en la fecha de inicio de trámite.
+
+CUARTO.- Los entes públicos que tuvieran financiamientos u obligaciones contratados que a la fecha de entrada en vigor del presente Decreto no se encuentren inscritos en el Registro de Obligaciones y Empréstitos del Estado de Hidalgo, tendrán un plazo de 30 días naturales siguientes a la entrada en vigor del Registro de Obligaciones y Financiamientos del Estado de Hidalgo para solicitar la inscripción de sus obligaciones y financiamientos.
+
+QUINTO.- El Capítulo Noveno entrará en vigor al momento en que entre en vigor el Sistema de Alertas previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
