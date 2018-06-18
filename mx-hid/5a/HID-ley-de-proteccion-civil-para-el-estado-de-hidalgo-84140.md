@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2011-12-05"
+last_updated: "2018-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -45,7 +45,9 @@ ANTECEDENTE
 
 ÚNICO.- En sesión ordinaria de fecha 20 de octubre del presente año, nos fue turnada la Iniciativa de referencia, la cual fue registrada en el Libro de Gobierno de la Comisión actuante bajo el número 60/2011, y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -843,6 +845,12 @@ El fondo de protección civil, se integrará con los recursos públicos, Federal
 
 En el fondo de protección civil se deberá considerar una reserva estratégica consistente en insumos diversos destinados a la atención inmediata de la emergencia, tales como: despensas, costales, láminas, cobijas, catres, colchonetas, herramientas, y demás necesarios
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+###### Artículo 73 Bis.
+
+Las autoridades Estatales y Municipales, generarán un Mecanismo de Alerta en coordinación con las instancias competentes, en todos los inmuebles públicos y privados que tengan afluencia constante de personas a efecto de cumplir con el objeto señalado en (sic) artículo 1° de la presente Ley.
+
 ## TÍTULO DÉCIMO SÉPTIMO. Medidas de Seguridad
 
 ###### Artículo 74.
@@ -934,3 +942,13 @@ DIP. JULIÁN MEZA ROMERO.
 SECRETARIO
 
 DIP. CHRISTIAN PULIDO ROLDAN.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 73 BIS A LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Ejecutivo del Estado, a través del Consejo Estatal de Protección Civil, tendrá hasta 120 días a partir de la entrada en vigor, para realizar las adecuaciones reglamentarias correspondientes.
