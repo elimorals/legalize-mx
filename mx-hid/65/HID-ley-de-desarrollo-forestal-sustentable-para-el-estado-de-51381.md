@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2016-12-31"
+last_updated: "2018-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -47,7 +47,7 @@ SEGUNDO.- El asunto de mérito se registró en el Libro de Gobierno de las Comis
 
 Por lo que en mérito de lo anteriormente expuesto; y
 
-.
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -1271,6 +1271,10 @@ La Secretaría dictará las Normas Técnicas Estatales en concordancia con lo es
 
 Quienes hagan uso del fuego en contravención de las disposiciones de las normas mencionadas, recibirán las sanciones que prevé la presente Ley, sin perjuicio de las establecidas en las Leyes Penales.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+Toda persona que advierta la existencia o iniciación de un incendio forestal, deberá dar aviso a la autoridad competente o a los servicios de emergencia y, en su caso, a colaborar, dentro de sus posibilidades en la extinción del incendio.
+
 ###### ARTICULO 93.
 
 La Secretaría en coordinación con la Federación y los Municipios dirigirá las acciones de prevención, combate y control especializado de incendios forestales y promoverá la asistencia de las demás Dependencias y Entidades de la Administración Pública Estatal, de los Municipios y la Federación, en los términos de la distribución de competencias y acuerdos o convenios que para tal efecto se celebren.
@@ -1282,6 +1286,12 @@ La Autoridad Municipal deberá atender el combate y control de incendios y en el
 El Comité tendrá la participación de los sectores social y privado, para los efectos señalados en el párrafo que antecede y organizará campañas permanentes de educación, capacitación y difusión de las medidas para prevenir, combatir y controlar los incendios forestales.
 
 La Secretaría en coordinación con la CONOFOR (SIC), elaborará el Programa Anual de Protección Contra Incendios Forestales, que se someterá a consideración del COMITÉ.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+ARTICULO 93 BIS.- El Estado y los Municipios están obligados a contar con recursos financieros, herramientas, equipos, vehículos y personal capacitado para realizar acciones de prevención, control, y combate de incendios forestales, en los términos de la distribución de competencias y de los acuerdos y/o convenios que para tal efecto se celebren.
+
+La coordinación de las actividades de prevención y combate de incendios forestales, se dará en el marco del Comité contra Incendios Forestales.
 
 ###### ARTICULO 94.
 
@@ -1296,6 +1306,36 @@ Cuando los dueños o poseedores de los predios dañados demuestren su imposibili
 En el caso de propietarios, poseedores y usufructuarios de terrenos de uso forestal que hayan sido afectados por incendio y haya transcurrido el plazo de dos años sin que hubieran procedido a la restauración, la Secretaría dictará medidas técnicas o correctivas que procedan para lograr la recuperación de la cubierta forestal, en caso de incumplimiento se procederá conforme a la vía legal aplicable.
 
 Cuando los propietarios, poseedores y usufructuarios de terrenos de uso forestal que hayan sido afectados por un incendio, comprueben fehacientemente que los daños sean de una magnitud tal que requieran de un proceso de restauración mayor a dos años, podrán acudir ante la Secretaría a que se amplié el plazo, así como gestionar apoyos Federales, Estatales y Municipales.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+ARTICULO 95 BIS.- Para prevenir, combatir y controlar los incendios forestales, además de lo que establezcan otras disposiciones legales, el Estado, en coordinación con la Federación y los Municipios y contando con la participación de la sociedad civil, deberá:
+
+I. Determinar las regiones de daño potencial o zonas críticas de incendios forestales a las que deberá dar atención prioritaria;
+
+II. Crear y editar material de difusión que contenga los lineamientos para prevenir y combatir los incendios forestales;
+
+III. Reglamentar, de acuerdo a las disposiciones contenidas en esta Ley y otros ordenamientos al respecto, el uso adecuado del fuego en las actividades agropecuarias y forestales;
+
+IV. Organizar campañas de difusión de los lineamientos que se deben seguir para lograr un adecuado uso del fuego;
+
+V. Impartir cursos de capacitación sobre las medidas preventivas que deban tomar para evitar incendios; y
+
+VI. Publicar un boletín de prevención de incendios y conservación de los recursos forestales para distribuirse entre los visitantes a las áreas naturales protegidas y reservas ecológicas.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2018)</small>
+
+ARTICULO 95 TER.- Para prevenir, combatir y controlar los incendios forestales, además de las que establezcan otras disposiciones legales, los propietarios o poseedores de terrenos forestales tendrán las siguientes obligaciones:
+
+I. Aplicar los lineamientos que para la prevención de incendios emita el Comité contra Incendios Forestales;
+
+II. Contar con un plan de contingencia para el caso de que se presente un siniestro en su terreno, así como con todos los medios que sean necesarios para extinguir el fuego;
+
+III. Dar mantenimiento constante a su predio a fin de evitar que se presenten condiciones que faciliten la generación de un incendio o la propagación del mismo;
+
+IV. Permitir y no obstaculizar las inspecciones que se realicen sobre su predio; y
+
+V. Permitir, en caso de siniestro, el ingreso a sus terrenos del personal de protección civil, bomberos o de los integrantes de las brigadas de prevención y combate de incendios.
 
 ### CAPITULO IV. DE LA CONSERVACION Y RESTAURACION
 
@@ -1315,9 +1355,17 @@ El Ejecutivo Estatal, con base en los estudios técnicos que se elaboren para ju
 
 I.- Constituyan modalidades para el manejo de los recursos forestales comprendidos en las declaratorias de áreas naturales protegidas;
 
-II.- Formen parte de las acciones o condiciones establecidas para las áreas que se declaren como de zonas de restauración ecológica; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-III.- Tengan como finalidad la conservación, repoblación, propagación, diseminación, aclimatación o refugio de especies forestales endémicas amenazadas, en peligro de extinción o sujetas a protección especial.
+II.- Formen parte de las acciones o condiciones establecidas para las áreas que se declaren como de zonas de restauración ecológica;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+III.- Tengan como finalidad la conservación, repoblación, propagación, diseminación, aclimatación o refugio de especies forestales endémicas amenazadas, en peligro de extinción o sujetas a protección especial; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
+
+IV.- Tengan como finalidad la regeneración de terrenos incendiados.
 
 Se exceptuarán de las vedas los terrenos en los que se realice el aprovechamiento forestal o la forestación, de conformidad con los instrumentos de manejo establecidos en la presente Ley, en tanto no se ponga en riesgo grave e inminente la biodiversidad, de acuerdo con los criterios e indicadores que al efecto se emitan.
 
@@ -1851,13 +1899,17 @@ XX.- Omitir ejecutar trabajos de conformidad con lo dispuesto por esta Ley, ante
 
 XXI.- Provocar incendios en terrenos forestales o preferentemente forestales;
 
-XXII.- Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de recursos forestales;
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-XXIII.- Depositar residuos sólidos, que representen peligro de desequilibrio ecológico al ambiente; y
+XXII.- Realizar en terrenos incendiados, cualquier actividad o uso distintos a la restauración o al manejo forestal sustentable, dentro de los 2 años siguientes a que haya ocurrido un incendio;
+
+XXIII.- Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de recursos forestales;
+
+XXIV.- Depositar residuos sólidos, que representen peligro de desequilibrio ecológico al ambiente; y
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXIV.- Cualquier otra contravención a lo dispuesto en la presente Ley o la Ley para la Protección al Ambiente del Estado de Hidalgo y demás ordenamientos aplicables.
+XXV.- Cualquier otra contravención a lo dispuesto en la presente Ley o la Ley para la Protección al Ambiente del Estado de Hidalgo y demás ordenamientos aplicables.
 
 ### CAPITULO VI. DE LAS SANCIONES
 
@@ -1883,13 +1935,13 @@ En el caso de las fracciones III y IV, la Secretaría ordenará se haga la inscr
 
 La imposición de las multas a que se refiere el Artículo anterior, se determinará en la forma siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-I.- Con el equivalente de 40 a 1,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXIV del Artículo 152 de esta ley, y
+I.- Con el equivalente de 40 a 1,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXV del Artículo 152 de esta ley; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
 
-II.- Con el equivalente de 100 a 20,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII del Artículo 152 de esta Ley.
+II.- Con el equivalente de 100 a 20,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII y XXIV del Artículo 152 de esta Ley.
 
 > <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2026,3 +2078,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 443 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
