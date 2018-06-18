@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2017-06-26"
+last_updated: "2018-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAC"
 
 LEY DE AVIACIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -52,9 +52,31 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Aeronave: cualquier vehículo capaz de transitar con autonomía en el espacio aéreo con personas, carga o correo;
 
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+I Bis. Aeronave no Tripulada: Aeronave destinada a volar sin piloto a bordo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+I Ter. Aeronave Autónoma: Aeronave no tripulada que no permite la intervención del piloto en la gestión del vuelo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+I Quáter. Aeromodelo: Aeronave no tripulada, controlada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+I Quinquies. Globos Libres no Tripulados: Aerostato sin tripulación, propulsada por medios no mecánicos, en vuelo libre;
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+I Sexies. Sistema de Aeronave Pilotada a Distancia: Aeronave pilotada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control y cualquier otro componente;
+
 II. Aeródromo civil: área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;
 
-III. Aeropuerto: aeródromo civil de servicio público, que cuenta con las instalaciones y servicios adecuados para la recepción y despacho de aeronaves;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+III. Aeropuerto: Aeródromo civil de servicio público, que cuenta con las instalaciones y servicios adecuados para la recepción y despacho de aeronaves, pasajeros, carga y correo del servicio de transporte aéreo regular, del no regular, así como del transporte privado comercial y privado no comercial;
 
 IV. Aerovía: ruta aérea dotada de radioayudas a la navegación;
 
@@ -116,9 +138,15 @@ La explotación, uso o aprovechamiento del espacio aéreo situado sobre el terri
 
 Corresponderá a los tribunales federales conocer de las controversias que se susciten con motivo de la aplicación de esta Ley, sin perjuicio de que las controversias que surjan entre particulares se sometan a arbitraje, de conformidad con las disposiciones aplicables.
 
-Los hechos ocurridos y los actos realizados a bordo de una aeronave civil con matrícula mexicana, se sujetarán a las leyes y autoridades mexicanas; y los que ocurran o se realicen a bordo de una aeronave civil extranjera durante el vuelo de la misma sobre territorio nacional, se regirán por las leyes y autoridades del Estado de matrícula de la aeronave, sin perjuicio de lo establecido en los tratados. En el caso de comisión de delitos en aeronaves, se estará a lo dispuesto por el Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-Son aplicables a la navegación aérea civil las disposiciones que, sobre nacimientos y defunciones a bordo de un buque con bandera mexicana, establece el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+Los hechos ocurridos y los actos realizados a bordo de una aeronave civil con matrícula mexicana, se sujetarán a las leyes y autoridades mexicanas; y los que ocurran o se realicen a bordo de una aeronave civil extranjera durante el vuelo de la misma sobre territorio nacional, se regirán por las leyes y autoridades del Estado de matrícula de la aeronave, sin perjuicio de lo establecido en los tratados. En el caso de comisión de delitos en aeronaves, se estará a lo dispuesto por el Código Penal Federal.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+Son aplicables a la navegación aérea civil las disposiciones que, sobre nacimientos y defunciones a bordo de un buque con bandera mexicana, establece el Código Civil Federal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### Artículo 4.
 
@@ -130,7 +158,9 @@ II. La Ley General de Bienes Nacionales;
 
 III. La Ley Federal de Procedimiento Administrativo, y
 
-IV. Los códigos de Comercio; Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal; y Federal de Procedimientos Civiles.
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+IV. Los códigos de Comercio; Civil Federal, y Federal de Procedimientos Civiles.
 
 ###### Artículo 5.
 
@@ -196,11 +226,23 @@ XIII. Autorizar la práctica de visitas de verificación;
 
 XIV. Designar o, en su caso, remover a los comandantes regionales, comandantes de aeropuertos, helipuertos y aeródromos civiles en general, así como al personal técnico especializado que preste sus servicios en los mismos; y
 
-> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XV. Aprobar el plan de vuelo que previamente el operador presentará por escrito o transmitirá por vía telefónica, interfono, frecuencia de radiocomunicación aeronáutica establecida o cualquier otro medio electrónico, conforme a las disposiciones administrativas que para tales efectos sean expedidas, y
+XV. Aprobar el plan de vuelo que previamente el operador presentará por escrito o transmitirá por vía telefónica, interfono, frecuencia de radiocomunicación aeronáutica establecida o cualquier otro medio electrónico, conforme a las disposiciones administrativas que para tales efectos sean expedidas;
 
-XVI. Las demás que señalen esta Ley y otros ordenamientos aplicables.
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XVI. Otorgar permiso para el establecimiento de talleres aeronáuticos y centros de capacitación y adiestramiento, y de certificado de producción para el caso del establecimiento de fábricas de aeronaves y sus componentes, que podrán otorgarse a personas físicas o morales mexicanas o extranjeras;
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XVII. Expedir y aplicar las medidas y normas oficiales mexicanas en materia de seguridad operacional que deben observarse en los servicios de transporte aéreo, así como verificar su cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XVIII. Expedir y aplicar las medidas y normas oficiales mexicanas relativas a certificación, operación y fabricación de las aeronaves no tripuladas civiles y de Estado excepto las militares, y
+
+XIX. Las demás que señalen esta Ley y otros ordenamientos aplicables.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -314,13 +356,17 @@ Los permisos se otorgarán: a personas morales mexicanas en el caso de la fracci
 
 Para la prestación del servicio de transporte aéreo internacional regular por personas morales mexicanas, se estará a lo dispuesto en el artículo 9 de esta Ley.
 
-Asimismo, requerirá de permiso el establecimiento de talleres aeronáuticos y centros de capacitación y adiestramiento, que podrá otorgarse a personas físicas o morales mexicanas o extranjeras.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+Asimismo, requerirá de permiso el establecimiento de talleres aeronáuticos y centros de capacitación y adiestramiento, y de certificado de producción para el caso del establecimiento de fábricas de aeronaves y sus componentes, que podrán otorgarse a personas físicas o morales mexicanas o extranjeras.
 
-Los certificados, o documentación equivalente, expedidos por centros de capacitación y talleres aeronáuticos extranjeros, serán convalidados por la Secretaría, siempre y cuando esos talleres y centros estén acreditados por la autoridad aeronáutica de su país, y ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional y/o Administración Federal de Aviación.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-Los permisos se otorgarán por plazo indefinido.
+Los certificados, o documentación equivalente, expedidos por centros de capacitación y talleres aeronáuticos extranjeros, serán convalidados por la Secretaría, siempre y cuando esos talleres y centros estén acreditados por la autoridad aeronáutica de su país, y ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+En el caso de las fracciones I, III y IV los permisos se otorgarán por plazo indefinido. En el caso de la fracción II, los permisos podrán otorgarse por un plazo indefinido siempre y cuando existan convenios internacionales recíprocos con este fin. Si esto no fuera así, los permisos se otorgarán por un plazo máximo de un año.
 
 En el reglamento correspondiente se precisarán los requisitos para la obtención de los permisos a que se refiere este artículo.
 
@@ -388,7 +434,9 @@ VIII. Suspender, en forma total, la prestación de los servicios sin autorizaci�
 
 IX. Prestar servicios distintos a los señalados en la concesión o permiso respectivo;
 
-X. Infringir las condiciones de seguridad en materia de aeronavegabilidad;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
 
 XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
 
@@ -490,9 +538,9 @@ III. Los servicios serán complementarios a los del transporte aéreo regular, y
 
 IV. En los contratos de fletamento de aeronaves que celebren con prestadores de servicios turísticos, deberá pactarse que los servicios de transporte aéreo se comercializarán, en todo caso, como parte de otros servicios en paquete; y conforme con lo que establezca el reglamento respectivo.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-Las aeronaves autorizadas para la prestación del servicio de taxi aéreo podrán ser de hasta 15 pasajeros o 3,500 kilogramos de carga.
+Las aeronaves autorizadas para la prestación del servicio de taxi aéreo podrán ser de hasta 19 pasajeros o 3,500 kilogramos de carga.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -506,9 +554,11 @@ La prestación de servicios de transporte aéreo no regular internacional por pa
 
 La Secretaría, al resolver las solicitudes a que se refieren los artículos 19 a 21 y 24 anteriores, tomará en cuenta, según sea el caso, criterios que fomenten la competencia efectiva, la permanencia, calidad y eficiencia del servicio, así como el desarrollo de los servicios de transporte aéreo.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 26.
 
-Los concesionarios o permisionarios mexicanos deberán enviar a la Secretaría, para su conocimiento, los acuerdos comerciales y de cooperación que celebren entre sí o con aerolíneas extranjeras, dentro de un plazo de treinta días contado a partir de la celebración de los mismos.
+Los concesionarios o permisionarios regulares deberán enviar a la Secretaría, para su conocimiento, los acuerdos comerciales y de cooperación que celebren entre sí o con aerolíneas extranjeras, dentro de un plazo de treinta días contado a partir de la celebración de los mismos.
 
 #### Sección Cuarta. Del transporte aéreo privado no comercial
 
@@ -798,9 +848,17 @@ II. Los certificados de matrícula y de aeronavegabilidad;
 
 III. La resolución de la autoridad aeronáutica en caso de abandono, pérdida, destrucción, inutilidad o desarme definitivo de las aeronaves;
 
-IV. Las concesiones y permisos que amparen el servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen, y
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-V. Las pólizas de seguro.
+IV. Las concesiones y permisos que amparen el servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+V. Las pólizas de seguro, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+VI. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles pilotadas a distancia conforme a lo especificado en la norma oficial mexicana correspondiente.
 
 El reglamento respectivo determinará los requisitos a que deberán sujetarse las inscripciones, las cancelaciones y las certificaciones que deban expedirse.
 
@@ -1034,23 +1092,27 @@ El concesionario o permisionario será responsable del equipaje facturado desde 
 
 En el caso de carga, el concesionario o permisionario será responsable desde el momento en que reciba la carga bajo su custodia hasta que la entregue al consignatario respectivo. La responsabilidad del concesionario o permisionario se interrumpirá cuando la carga le sea retirada por orden de autoridad competente.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 62.
 
-Para los daños a pasajeros, el derecho a percibir indemnizaciones se sujetará a lo dispuesto por el artículo 1915 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, salvo por lo que se refiere al monto que será el triple de lo previsto en dicho artículo. Para la prelación en el pago de las indemnizaciones, se estará a lo dispuesto en el artículo 501 de la Ley Federal del Trabajo.
-
-> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+Para los daños a pasajeros, el derecho a percibir indemnizaciones se sujetará a lo dispuesto por el artículo 1915 del Código Civil Federal, salvo por lo que se refiere al monto que será el triple de lo previsto en dicho artículo. Para la prelación en el pago de las indemnizaciones, se estará a lo dispuesto en el artículo 501 de la Ley Federal del Trabajo.
 
 La indemnización por la destrucción o avería del equipaje de mano será de hasta ochenta Unidades de Medida y Actualización. Por la pérdida o avería del equipaje facturado la indemnización será equivalente a la suma de ciento cincuenta Unidades de Medida y Actualización.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 63.
 
-Por la pérdida o avería de la carga, los concesionarios o permisionarios deberán cubrir al destinatario o, en su defecto, al remitente, una indemnización equivalente a diez salarios mínimos por kilogramo de peso bruto.
+Por la pérdida o avería de la carga, los concesionarios o permisionarios deberán cubrir al destinatario o, en su defecto, al remitente, una indemnización equivalente a diez Unidades de Medida y Actualización por kilogramo de peso bruto.
+
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### Artículo 64.
 
-En los casos de las indemnizaciones previstas en los artículos 62 y 63 anteriores, el concesionario o permisionario no gozará del beneficio de limitación de responsabilidad, y deberá cubrir los daños y perjuicios causados en términos del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, si se comprueba que los daños se debieron a dolo o mala fe del propio concesionario o permisionario o de sus dependientes o empleados, o cuando no se expida el billete de pasaje o boleto, el talón de equipaje o la carta de porte o guía de carga aérea, según corresponda.
+En los casos de las indemnizaciones previstas en los artículos 62 y 63 anteriores, el concesionario o permisionario no gozará del beneficio de limitación de responsabilidad, y deberá cubrir los daños y perjuicios causados en términos del Código Civil Federal, si se comprueba que los daños se debieron a dolo o mala fe del propio concesionario o permisionario o de sus dependientes o empleados, o cuando no se expida el billete de pasaje o boleto, el talón de equipaje o la carta de porte o guía de carga aérea, según corresponda.
 
-Para el pago de las indemnizaciones se tomará como base el salario mínimo general diario vigente en el Distrito Federal, en la fecha en que ocurran los daños.
+Para el pago de las indemnizaciones se tomará como base la Unidad de Medida y Actualización, en la fecha en que ocurran los daños.
 
 ###### Artículo 65.
 
@@ -1082,9 +1144,11 @@ c) Cuando los bienes se transporten a petición escrita del remitente en vehícu
 
 d) Cuando sean falsas las declaraciones o instrucciones del embarcador, del consignatario o destinatario de los bienes, o del titular de la carta de porte, respecto del manejo de la carga.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 68.
 
-Los daños que sufran las personas o carga transportadas en aeronaves destinadas al servicio de transporte aéreo privado comercial se sujetarán a las disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+Los daños que sufran las personas o carga transportadas en aeronaves destinadas al servicio de transporte aéreo privado comercial se sujetarán a las disposiciones del Código Civil Federal.
 
 ###### Artículo 69.
 
@@ -1114,9 +1178,11 @@ Se entiende por abordaje aéreo toda colisión entre dos o más aeronaves. En es
 
 Se consideran también abordajes aquellos casos en que se causen daños a aeronaves en movimiento, o a personas o bienes a bordo de éstas, por otra aeronave en movimiento, aunque no haya efectiva colisión.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 72.
 
-En el caso de daños a personas, se cubrirá la indemnización correspondiente conforme a los términos señalados en el primer párrafo del artículo 62 de esta Ley. Para el caso de objetos en la superficie, el monto de la indemnización será de hasta treinta y cinco mil salarios mínimos.
+En el caso de daños a personas, se cubrirá la indemnización correspondiente conforme a los términos señalados en el primer párrafo del artículo 62 de esta Ley. Para el caso de objetos en la superficie, el monto de la indemnización será de hasta treinta y cinco mil Unidades de Medida y Actualización.
 
 El concesionario o permisionario y, en el caso del servicio de transporte aéreo privado no comercial, el propietario o poseedor de la aeronave, no gozarán del beneficio de limitación de responsabilidad, si se comprueba que los daños se debieron a dolo o mala fe de ellos mismos o de sus dependientes o empleados.
 
@@ -1400,55 +1466,57 @@ Las certificaciones de las unidades de verificación establecidas por terceros t
 
 Las infracciones a lo dispuesto en la presente Ley cometidas por el concesionario o permisionario, según se trate, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
 
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
 I. Permitir que la aeronave transite:
 
-a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la Secretaría, con multa de cinco mil a quince mil salarios mínimos;
+a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la Secretaría, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
 
-b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil salarios mínimos;
+b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
 
-c) Por carecer de los seguros o cuando no estén vigentes, con multa de cinco mil a quince mil salarios mínimos;
+c) Por carecer de los seguros o cuando no estén vigentes, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
 
-d) Tripulada por personas que carezcan de la licencia correspondiente, con multa de cinco mil a quince mil salarios mínimos;
+d) Tripulada por personas que carezcan de la licencia correspondiente, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
 
-e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
+e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+f) Por no llevar a bordo la póliza de seguro o el documento que acredite la vigencia de la misma, una multa de cien a dos mil Unidades de Medida y Actualización.
 
-f) Por no llevar a bordo la póliza de seguro o el documento que acredite la vigencia de la misma, una multa de cien a dos mil salarios mínimos.
+En el caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que la póliza se encontraba vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización;
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+g) Sin los instrumentos de seguridad y equipo de auxilio que corresponda, con multa de quinientos a cinco mil Unidades de Medida y Actualización;
 
-En el caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que la póliza se encontraba vigente, se aplicará una multa de cien a doscientos días de salarios mínimos;
+h) Sin hacer uso de las instalaciones y de los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáuticas, así como de despacho e información de vuelos, en caso de ser aplicable, salvo casos de fuerza mayor, con multa de quinientas a cinco mil Unidades de Medida y Actualización, e
 
-g) Sin los instrumentos de seguridad y equipo de auxilio que corresponda, con multa de quinientos a cinco mil salarios mínimos;
+i) Por no llevar a bordo certificado de aeronavegabilidad o de matrícula o copia certificada de este último, con una multa de doscientas a un mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-h) Sin hacer uso de las instalaciones y de los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáuticas, así como de despacho e información de vuelos, en caso de ser aplicable, salvo casos de fuerza mayor, con multa de quinientos a cinco mil salarios mínimos; e
+II. Internar al territorio nacional una aeronave extranjera o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por esta Ley, con multa de dos mil a diez mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-i) Por no llevar a bordo certificado de aeronavegabilidad o de matrícula o copia certificada de este último, con una multa de doscientos a un mil salarios mínimos;
+III. Operar aviones en aeródromos y aeropuertos no autorizados, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
 
-II. Internar al territorio nacional una aeronave extranjera o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por esta Ley, con multa de dos mil a diez mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-III. Operar aviones en aeródromos y aeropuertos no autorizados, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
+IV. Obtener la matrícula de la aeronave en el registro de otro Estado, sin haber obtenido la cancelación de la matrícula mexicana, con multa de un mil a ocho mil Unidades de Medida y Actualización;
 
-IV. Obtener la matrícula de la aeronave en el registro de otro Estado, sin haber obtenido la cancelación de la matrícula mexicana, con multa de un mil a ocho mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-V. Cuando de manera negligente no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
+V. Cuando de manera negligente no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VI. Impedir el tránsito o la circulación en los aeródromos, aeropuertos y helipuertos por causas imputables a él, con multa de un mil a cinco mil salarios mínimos;
+VI. Impedir el tránsito o la circulación en los aeródromos, aeropuertos y helipuertos por causas imputables a él, con multa de un mil a cinco mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VII. Negarse a participar en las operaciones de búsqueda y salvamento, salvo causa de fuerza mayor, con multa de un mil a cinco mil salarios mínimos, y
+VII. Negarse a participar en las operaciones de búsqueda y salvamento, salvo causa de fuerza mayor, con multa de un mil a cinco mil Unidades de Medida y Actualización, y
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VIII. Practicar el cabotaje en territorio nacional, siendo permisionario extranjero de servicios de transporte aéreo, con una multa de diez mil a veinticinco mil salarios mínimos.
+VIII. Practicar el cabotaje en territorio nacional, siendo permisionario extranjero de servicios de transporte aéreo, con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización.
 
 Cuando el cabotaje sea detectado por la autoridad aeronáutica en el momento en que se esté cometiendo o dentro de las siguientes veinticuatro horas de haberse cometido, la mencionada autoridad podrá decretar el aseguramiento de la aeronave, ante el riesgo inminente de que el permisionario extranjero realice cualquier maniobra tendente a evadir la imposición de la sanción, para lo cual, el comandante del aeropuerto, deberá levantar acta circunstanciada en la que precise las razones para efectuarlo.
 
@@ -1456,43 +1524,63 @@ Dicho aseguramiento quedará sin efectos si la autoridad aeronáutica no emite l
 
 Los gastos que genere el aseguramiento de la aeronave correrán a cargo del permisionario extranjero infractor, salvo que la autoridad resuelva que no cometió el cabotaje.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
 
 ###### Artículo 86 Bis.
 
-Las infracciones a que se refiere el artículo anterior, cometidas en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave, serán sancionadas por la Secretaría con una multa de cien a mil salarios mínimos.
+Las infracciones a que se refiere el artículo anterior, cometidas en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave, serán sancionadas por la Secretaría con una multa de cien a mil Unidades de Medida y Actualización.
 
 ###### Artículo 87.
 
 Se les impondrán a los concesionarios o permisionarios de servicio al público de transporte aéreo las siguientes sanciones por:
 
-I. No tener vigente la concesión o permiso correspondiente, multa de ocho mil a diez mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-II. Llevar a cabo el servicio de transporte aéreo nacional, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de ocho mil a diez mil salarios mínimos;
+I. No tener vigente la concesión o permiso correspondiente, multa de ocho mil a diez mil Unidades de Medida y Actualización;
 
-III. Cuando con motivo de un vuelo de simple tránsito efectúe embarque o desembarque de pasajeros y carga, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de cinco mil a diez mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-IV. No seguir las aerovías o no utilizar los aeropuertos que le hayan sido señalados en el plan de vuelo respectivo, salvo caso fortuito o de fuerza mayor, multa de dos mil a diez mil salarios mínimos;
+II. Llevar a cabo el servicio de transporte aéreo nacional, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de ocho mil a diez mil Unidades de Medida y Actualización;
 
-V. No dar aviso a la Secretaría de las rutas que deje de operar, en los términos del artículo 22 de esta Ley, multa de tres mil a cinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VI. Vender, en forma directa, porciones aéreas en el caso de los servicios de transporte aéreo de fletamento, multa de un mil a cinco mil salarios mínimos;
+III. Cuando con motivo de un vuelo de simple tránsito efectúe embarque o desembarque de pasajeros y carga, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de cinco mil a diez mil Unidades de Medida y Actualización;
 
-VII. Negarse a prestar servicios, sin causa justificada, multa de un mil a cinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VIII. No efectuar la conservación y mantenimiento de sus aeronaves y demás bienes que se relacionen con la seguridad y eficiencia del servicio, multa de quinientos a cinco mil salarios mínimos;
+IV. No seguir las aerovías o no utilizar los aeropuertos que le hayan sido señalados en el plan de vuelo respectivo, salvo caso fortuito o de fuerza mayor, multa de dos mil a diez mil Unidades de Medida y Actualización;
 
-IX. No aplicar las tarifas registradas, multa de quinientos a cinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-X. No operar las rutas autorizadas en los plazos previstos en la presente Ley, multa de quinientos a cinco mil salarios mínimos;
+V. No dar aviso a la Secretaría de las rutas que deje de operar, en los términos del artículo 22 de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XI. No proporcionar la información que le solicite la Secretaría, en los plazos fijados por ésta, multa de trescientos a tres mil Unidades de Medida y Actualización;
+VI. Vender, en forma directa, porciones aéreas en el caso de los servicios de transporte aéreo de fletamento, multa de un mil a cinco mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de doscientos a un mil Unidades de Medida y Actualización;
+VII. Negarse a prestar servicios, sin causa justificada, multa de un mil a cinco mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+VIII. No efectuar la conservación y mantenimiento de sus aeronaves y demás bienes que se relacionen con la seguridad y eficiencia del servicio, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+IX. No aplicar las tarifas registradas, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+X. No operar las rutas autorizadas en los plazos previstos en la presente Ley, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XI. No proporcionar la información que le solicite la Secretaría, en los plazos fijados por ésta, multa de trescientas a tres mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de doscientas a un mil Unidades de Medida y Actualización;
 
 > <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2017)</small>
 
@@ -1506,43 +1594,73 @@ XIV. No entregar mensualmente a la Secretaría la información señalada en el a
 
 Se impondrá sanción al comandante o piloto de cualquier aeronave civil por:
 
-I. Permitir a cualquier persona que no sea miembro de la tripulación de vuelo tomar parte en las operaciones de los mandos de la aeronave, salvo causa de fuerza mayor, multa de dos mil a cinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-II. Transportar armas, artículos peligrosos, inflamables, explosivos y otros semejantes, sin la debida autorización, multa de un mil a cinco mil salarios mínimos;
+I. Permitir a cualquier persona que no sea miembro de la tripulación de vuelo tomar parte en las operaciones de los mandos de la aeronave, salvo causa de fuerza mayor, multa de dos mil a cinco mil Unidades de Medida y Actualización;
 
-III. No aterrizar en los aeropuertos internacionales autorizados en casos de vuelos de internación al territorio nacional, salvo causa de fuerza mayor, multa de un mil a cinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-IV. Transportar cadáveres o personas que por la naturaleza de su enfermedad presenten riesgo para los demás pasajeros, sin la autorización correspondiente, multa de un mil a cinco mil salarios mínimos;
+II. Transportar armas, artículos peligrosos, inflamables, explosivos y otros semejantes, sin la debida autorización, multa de un mil a cinco mil Unidades de Medida y Actualización;
 
-V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efectos, en lugar que no sea la terminal del vuelo y sin causa justificada, multa de quinientos a cinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientos a cinco mil salarios mínimos;
+III. No aterrizar en los aeropuertos internacionales autorizados en casos de vuelos de internación al territorio nacional, salvo causa de fuerza mayor, multa de un mil a cinco mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-VII. Tripular la aeronave sin licencia, multa de quinientos a cinco mil salarios mínimos. En caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que se contaba con licencia vigente, se aplicará una multa de cien a doscientos días de salarios mínimos;
+IV. Transportar cadáveres o personas que por la naturaleza de su enfermedad presenten riesgo para los demás pasajeros, sin la autorización correspondiente, multa de un mil a cinco mil Unidades de Medida y Actualización;
 
-VIII. Desobedecer las órdenes o instrucciones que reciba con respecto al tránsito aéreo, salvo causa de fuerza mayor, multa de quinientos a cinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-IX. Iniciar el vuelo sin cerciorarse de la vigencia del certificado de aeronavegabilidad, de las licencias de la tripulación de vuelo y de que la aeronave ostente las marcas de nacionalidad y matrícula, multa de trescientos a tres mil salarios mínimos;
+V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efectos, en lugar que no sea la terminal del vuelo y sin causa justificada, multa de quinientas a cinco mil Unidades de Medida y Actualización;
 
-X. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de trescientos a tres mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XI. No informar a la Secretaría o al comandante del aeropuerto más cercano, en el caso de incidentes o accidentes aéreos, dentro de las cuarenta y ocho horas siguientes a que tengan conocimiento de ellos, multa de trescientos a tres mil salarios mínimos;
+VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientas a cinco mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XII. No utilizar durante la operación de la aeronave los servicios e instalaciones de ayudas a la navegación aérea; en caso de ser aplicable, multa de trescientos a tres mil salarios mínimos;
+VII. Tripular la aeronave sin licencia, multa de quinientas a cinco mil Unidades de Medida y Actualización. En caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que se contaba con licencia vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización;
 
-XIII. Realizar vuelos de demostración, pruebas técnicas o de instrucción, sin la autorización respectiva, multa de trescientos a tres mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XIV. Volar sobre zonas prohibidas, restringidas o peligrosas, sin autorización de la Secretaría, multa de doscientos a dos mil salarios mínimos;
+VIII. Desobedecer las órdenes o instrucciones que reciba con respecto al tránsito aéreo, salvo causa de fuerza mayor, multa de quinientas a cinco mil Unidades de Medida y Actualización;
 
-XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre, multa de doscientos a dos mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
 
-XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientos a dos mil salarios mínimos, y
+IX. Iniciar el vuelo sin cerciorarse de la vigencia del certificado de aeronavegabilidad, de las licencias de la tripulación de vuelo y de que la aeronave ostente las marcas de nacionalidad y matrícula, multa de trescientas a tres mil Unidades de Medida y Actualización;
 
-XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientos a dos mil salarios mínimos.
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+X. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de trescientas a tres mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XI. No informar a la Secretaría o al comandante del aeropuerto más cercano, en el caso de incidentes o accidentes aéreos, dentro de las cuarenta y ocho horas siguientes a que tengan conocimiento de ellos, multa de trescientas a tres mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XII. No utilizar durante la operación de la aeronave los servicios e instalaciones de ayudas a la navegación aérea; en caso de ser aplicable, multa de trescientas a tres mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XIII. Realizar vuelos de demostración, pruebas técnicas o de instrucción, sin la autorización respectiva, multa de trescientas a tres mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XIV. Volar sobre zonas prohibidas, restringidas o peligrosas, sin autorización de la Secretaría, multa de doscientas a dos mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre, multa de doscientas a dos mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientas a dos mil Unidades de Medida y Actualización, y
+
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -1550,13 +1668,29 @@ XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planif
 
 Por el incumplimiento con lo establecido en esta Ley, su reglamento y demás disposiciones aplicables en relación con la implementación del Sistema de gestión de la seguridad operacional por parte de los proveedores de servicios, les será suspendido o revocado el certificado correspondiente, atendiendo a la gravedad de la infracción.
 
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+###### Artículo 88 Bis 1.
+
+Se impondrá sanción con multa de doscientas a cinco mil Unidades de Medida y Actualización, al poseedor y/o propietario de una aeronave no tripulada civil y/o de Estado excepto las militares, por incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos, o en cualquier otra disposición aplicable, así como a su permiso u autorización respectiva.
+
+Asimismo, les será suspendido cualquier permiso, certificado, registro, matrícula, autorización o licencia, atendiendo la gravedad de la infracción, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
+
+La Secretaría efectuará la revocación de cualquier certificado, registro, matrícula, autorización o licencia, cuando a su juicio la infracción sea grave para la seguridad de las operaciones aéreas, y/o se haya vulnerado la integridad física de terceros y sus bienes.
+
+El titular de un permiso, certificado, registro, matrícula, autorización o licencia, que hubiere sido revocado, no podrá obtener, directa o indirectamente, otro permiso de los contemplados en la presente Ley dentro de un plazo de cinco años, contado a partir de la fecha en que hubiere quedado firme la resolución respectiva.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE JUNIO DE 2018)</small>
+
 ###### Artículo 89.
 
-Cualquiera otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría con multa de doscientos a cinco mil días de salario mínimo.
+Cualquiera otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría con multa de doscientas a cinco mil Unidades de Medida y Actualización.
 
 En caso de reincidencia, la Secretaría podrá imponer una sanción equivalente hasta el doble de la cuantía señalada.
 
-Para efectos del presente capítulo, se entiende por salario mínimo, el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción.
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2018)</small>
+
+Para efectos del presente capítulo, se entiende por Unidad de Medida y Actualización, la que será utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, publicada en el Diario Oficial de la Federación.
 
 ###### Artículo 90.
 
@@ -1679,3 +1813,11 @@ Quinto.- La Secretaría de Comunicaciones y Transportes, sin modificación al pr
 Sexto.- La Secretaría de Comunicaciones y Transportes deberá implementar, en un plazo de hasta 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, un mecanismo público, eficaz y expedito que, en caso de que la salida de un vuelo se retrase o cancele, permita al pasajero conocer las causas y determine si es responsable de ellas el concesionario o permisionario.
 
 Séptimo.- Los permisionarios o concesionarios deberán registrar las políticas de compensación señaladas en la fracción V, inciso a), del artículo 47 Bis, en un plazo de hasta 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 18 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AVIACIÓN CIVIL Y DE LA LEY DE AEROPUERTOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal contará con un plazo máximo de 180 días, contados a partir de la publicación del presente Decreto, para reformar los reglamentos correspondientes y emitir las disposiciones administrativas en materia de aeronaves pilotadas a distancia y de seguridad operacional.
