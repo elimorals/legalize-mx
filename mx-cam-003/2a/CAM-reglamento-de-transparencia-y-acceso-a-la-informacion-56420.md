@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-transparencia-y-acceso-a-la-informacion-56420"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-01"
-last_updated: "2007-06-01"
+last_updated: "2018-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE CARMEN, CAMPECHE
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE CARMEN, CAMPECHE
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE CARMEN, CAMPECHE, PUBLICADO EN EL P.O. DE 19 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE CARMEN, CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 1 de junio de 2007.
 
@@ -570,3 +572,33 @@ L. A. E. JOSÉ IGNACIO SEARA SIERRA.
 El Secretario del Honorable Ayuntamiento.
 
 LIC. EDWARD MORALES SARMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO NÚMERO 243 POR EL QUE “SE EXPIDE EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE CARMEN, CAMPECHE”.]
+
+Primero.- Se abroga el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Carmen, aprobado por el Cabildo en sesión ordinaria celebrada en fecha veintinueve del mes de mayo del año dos mil siete, así como todas sus reformas y adiciones.
+
+Segundo.- Las presentes disposiciones entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Tercero.- Las solicitudes de información y de datos personales que ingresen hasta antes de la publicación del presente reglamento, así como los recursos de revisión que deriven de las mismas, serán tramitados y resueltos conforme a lo establecido en el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Carmen, aprobado por el Cabildo en sesión ordinaria celebrada en fecha veintinueve del mes de mayo del año dos mil siete.
+
+Cuarto.- Las referencias que se hagan en otros ordenamientos a la Unidad Municipal de Acceso a la Información, se entenderán referidos al Comité de Transparencia, a la Unidad de Transparencia y a las Unidades de Enlace, respectivamente.
+
+Quinto.- Los lineamientos y políticas que regulan a los órganos de transparencia que continúan vigentes en términos de este Reglamento, seguirán aplicándose en lo que no se opongan a este ordenamiento hasta en tanto sean actualizados. La actualización de dichos instrumentos deberá realizarse dentro de los treinta días siguientes a la entrada en vigor del presente Reglamento.
+
+Sexto.- La obligación del Ayuntamiento de incorporarse a la Plataforma Nacional de Transparencia se hará efectiva en los términos que señalen los Lineamientos del Sistema Nacional de Transparencia, de conformidad con el Artículo Transitorio Octavo de la Ley General.
+
+Séptimo.- A más tardar en un año a partir de la entrada en vigor del presente Reglamento, el Ayuntamiento deberá, de acuerdo con los lineamientos que emita el Comité de Transparencia, adecuar su Plataforma de Transparencia y migrar su información a la Plataforma Nacional de Transparencia cuando la Comisión lo disponga.
+
+El Ayuntamiento incorporará en su portal principal de Internet, de manera permanente, clara y accesible, un vínculo al sitio de la Plataforma Nacional de Transparencia.
+
+En tanto la Plataforma de Transparencia del Ayuntamiento se adecua, el Comité de Transparencia deberá emitir, con la opinión de la Unidad de Transparencia y la Comisión, las medidas correspondientes para cumplir con los criterios de información pública establecidos en este Reglamento.
+
+Octavo.- A partir de la constitución del nuevo Comité de Transparencia del Municipio de Carmen, quedará sin efectos el Comité previamente instalado, subsistiendo los asuntos de trámite, pasando a ser responsabilidad del nuevo Comité.
+
+Noveno.- Se derogan las demás disposiciones reglamentarias o administrativas que se opongan al presente ordenamiento.
+
+Décimo.- Insértese en libro de Reglamentos, Acuerdos y demás disposiciones de este H. Ayuntamiento del Municipio de Carmen.
