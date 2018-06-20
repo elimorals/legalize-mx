@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-adquisicion-de-bienes-muebles-y-38719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-22"
-last_updated: "2004-03-22"
+last_updated: "2018-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA ADQUISICION DE BIENES MUEBLES Y CONTRATACION DE SERVICIOS PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA LA ADQUISICIÓN DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO PARA LA ADQUISICION DE BIENES MUEBLES Y CONTRATACION DE SERVICIOS PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de marzo de 2004.
 
@@ -300,3 +302,17 @@ C. FRANCISCO JAVIER PRADO CASANOVA
 SINDICO 1°
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA LA ADQUISIÓN DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se deroga el Reglamento de Adquisiciones de Bienes Muebles y Contratación de Servicios para el municipio de Hualahuises publicado en el periódico oficial del día 22 de marzo del 2004.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
