@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2017-12-20"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -108,6 +108,10 @@ Al Estado corresponde impulsar el desarrollo económico en equilibrio con el med
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
 El Estado velará por la estabilidad de las finanzas públicas para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. Los planes estatal y municipales deberán observar dicho principio.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+Para garantizar el cumplimiento de lo dispuesto en el presente artículo, las autoridades de los Poderes Ejecutivo, Legislativo y Judicial del Estado de Quintana Roo, así como sus Municipios, en el ámbito de sus competencias, deberán implementar políticas públicas de Mejora Regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establezca la ley en la materia.
 
 ###### ARTICULO 11.
 
@@ -2703,7 +2707,7 @@ X Y
 
 ***77 272,048.30 1,984,896.46
 
-78 272 ,040.30 1,984,135.45
+78 272,040.30 1,984,135.45
 
 79 272,030.30 1,983,186.45
 
@@ -3603,23 +3607,21 @@ La Legislatura del Estado emitirá las normas que establezcan los procedimientos
 
 ### CAPITULO V. De la Hacienda Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 153.
 
-Los Municipios administrarán libremente su Hacienda conforme a las siguientes bases:
+Los Municipios administrarán libremente su hacienda conforme a las siguientes bases:
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 I. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o bien por quien ellos autoricen, conforme a la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-II. La Legislatura del Estado discutirá y aprobará, en su caso, las Leyes de Ingresos de cada Municipio, conforme a la Iniciativa que éstos presenten a más tardar el 15 de noviembre de cada año, en los términos de la presente Constitución y de la Ley Hacendaria que al efecto se expida.
+II. La Legislatura del Estado discutirá y aprobará, en su caso, las Leyes de Ingresos de cada Municipio, conforme a la Iniciativa que éstos presenten a más tardar el 20 de noviembre de cada año, en los términos de la presente Constitución y de la Ley Hacendaria que al efecto se expida.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
-
-Los Ayuntamientos, propondrán a la Legislatura del Estado, a mas tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente.
+Los Ayuntamientos, propondrán a la Legislatura del Estado, a más tardar el 20 de noviembre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el Ejercicio Fiscal inmediato siguiente.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3643,11 +3645,11 @@ IV. Las leyes no establecerán exenciones o subsidios en favor de persona o inst
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
-V.- Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, debiendo incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales y sujetándose a lo dispuesto en el artículo 165 de esta Constitución. Asimismo, podrán autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de prestación de servicios que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Municipio;
+V. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, debiendo incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales y sujetándose a lo dispuesto en el artículo 165 de esta Constitución. Asimismo, podrán autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de prestación de servicios que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Municipio;
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-VI.- La Deuda Pública Municipal se sujetará a lo previsto por la Constitución Política de los Estados Unidos Mexicanos y a lo que disponga la Ley correspondiente e invariablemente requerirá de la aprobación de la Legislatura del Estado.
+VI. La Deuda Pública Municipal se sujetará a lo previsto por la Constitución Política de los Estados Unidos Mexicanos y a lo que disponga la Ley correspondiente e invariablemente requerirá de la aprobación de la Legislatura del Estado.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -3659,7 +3661,7 @@ La Legislatura, en coordinación con los Municipios, garantizará la disposició
 
 > <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
-VIII.- Autorizar los convenios para adherirse al mecanismo de contratación de Deuda Estatal Garantizada, así como suscribir los convenios previa la autorización de la Legislatura, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+VIII. Autorizar los convenios para adherirse al mecanismo de contratación de Deuda Estatal Garantizada, así como suscribir los convenios previa la autorización de la Legislatura, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -5290,3 +5292,19 @@ P.O. 20 DE DICIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 185 POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 186 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 153 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
