@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-economia-70322"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2014-06-18"
+last_updated: "2018-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -1228,3 +1230,23 @@ Artículo Cuarto.- Los Manuales Administrativos de la Secretaría deberán actua
 Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secretario resolverá las incidencias de procedimientos y operación que se originen por la aplicación de este Decreto.
 
 Artículo Sexto.- Conforme a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 2643-A-2018 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA".]
+
+Artículo Primero. El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Economía, publicado en el Periódico Oficial número 182, Tomo III, de fecha 19 de agosto de 2009, Publicación número 1262-A-2009; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero. En los casos en que se presente controversia en cuanto a la aplicación del presente Reglamento, el Secretario resolverá lo conducente.
+
+Artículo Cuarto. Para las cuestiones no previstas en este Reglamento Interior respecto al funcionamiento de los Órganos Administrativos, el Secretario resolverá lo conducente.
+
+Artículo Quinto. El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Sexto. En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo. En cumplimiento a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el
+
+Periódico Oficial.
