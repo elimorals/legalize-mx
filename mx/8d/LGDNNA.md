@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2018-03-09"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -270,7 +270,9 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
 XIX. Derechos de niñas, niños y adolescentes migrantes, y
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión. Para tales efectos, el Estado establecerá condiciones de competencia efectiva en la prestación de dichos servicios.
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2018)</small>
+
+XX. Derecho de acceso a las Tecnologías de la Información y Comunicación.
 
 > <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
@@ -382,7 +384,7 @@ Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en
 
 ## TÍTULO TERCERO. De las Obligaciones
 
-### Capítulo Único. De los Centros de Asistencia Social
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
 > <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
@@ -626,9 +628,9 @@ La recuperación y restitución de derechos a que se refiere el párrafo anterio
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 107.
 
@@ -952,7 +954,9 @@ Las autoridades escolares, en el ámbito de su competencia, deberán adoptar med
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Segundo. De las Procuradurías de Protección
+### Capítulo Primero. De las autoridades
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 114.
 
@@ -1128,7 +1132,7 @@ V. Prestar apoyo y colaboración técnica y administrativa en las materias regul
 
 VI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Tercero. Del Sistema Nacional de Protección Integral
+### Capítulo Segundo. De las Procuradurías de Protección
 
 ###### Artículo 121.
 
@@ -1230,7 +1234,7 @@ El nombramiento de Procurador Federal de Protección de Niñas, Niños y Adolesc
 
 Las leyes de las entidades federativas establecerán las medidas necesarias que permitan la desconcentración regional de las Procuradurías de Protección, a efecto de que logren la mayor presencia y cobertura posible en los municipios y, en el caso de la Ciudad de México, en sus demarcaciones territoriales.
 
-### Capítulo Cuarto. De los Sistemas de Protección en las Entidades Federativas
+### Capítulo Tercero. Del Sistema Nacional de Protección Integral
 
 #### Sección Primera. De los Integrantes
 
@@ -1424,7 +1428,7 @@ Los resultados de las evaluaciones serán entregados a las Cámaras de Diputados
 
 #### Sección Primera. De los Sistemas Locales de Protección
 
-### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
+### Capítulo Cuarto. De los Sistemas de Protección en las Entidades Federativas
 
 #### Sección Segunda. De los Sistemas Municipales de Protección
 
@@ -1504,15 +1508,15 @@ La instancia a que se refiere el presente artículo coordinará a los servidores
 
 Las instancias a que se refiere este artículo deberán ejercer, sin perjuicio de otras que dispongan las leyes de las entidades federativas, las atribuciones previstas en el artículo 119 de esta Ley.
 
-### Capítulo Sexto. Del Programa Nacional y de los Programas Locales
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
 
 ###### Artículo 140.
 
 La Comisión Nacional de los Derechos Humanos y los organismos de protección de los derechos humanos de las entidades federativas, en el ámbito de sus competencias, deberán establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Sexto. Del Programa Nacional y de los Programas Locales
+
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
 ###### Artículo 141.
 
@@ -1884,6 +1888,8 @@ XI. El derecho a conocer la duración del procedimiento que se llevará a cabo, 
 
 ## TÍTULO SEXTO. De las Infracciones Administrativas
 
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
+
 ###### Artículo 146.
 
 Las leyes de las entidades federativas establecerán las infracciones y las sanciones que resulten aplicables en el ámbito de sus respectivas competencias y los procedimientos para su imposición e impugnación, así como las autoridades competentes para ello.
@@ -2046,6 +2052,14 @@ Tercero. La Secretaría de Gobernación, en un plazo de ciento ochenta días a p
 
 Cuarto. Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
+D.O.F. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 13, FRACCIÓN XX, SE ADICIONA EL CAPÍTULO VIGÉSIMO AL TÍTULO SEGUNDO Y LOS ARTÍCULOS 101 BIS, 101 BIS 1 Y 101 BIS 2 A LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en el transitorio siguiente.
+
+Segundo. Los plazos para el cumplimiento efectivo de las obligaciones referidas en el presente Decreto serán los establecidos en el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014.
+
 ### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
 ###### Artículo 93.
@@ -2098,9 +2112,27 @@ Para garantizar de forma prioritaria la asistencia social y protección consular
 
 En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+### Capítulo Vigésimo. Derecho de Acceso a las Tecnologías de la Información y Comunicación
+
+> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2018)</small>
+
+###### Artículo 101 Bis.
+
+Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2018)</small>
+
+###### Artículo 101 Bis 1.
+
+El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 3o. constitucional, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2018)</small>
+
+###### Artículo 101 Bis 2.
+
+Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
 ###### Artículo 102.
 
