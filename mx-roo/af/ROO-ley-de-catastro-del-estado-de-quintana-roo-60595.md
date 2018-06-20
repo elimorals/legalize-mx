@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-catastro-del-estado-de-quintana-roo-60595"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2008-03-11"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Ley publicada en el Número 19 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -427,9 +427,11 @@ El valor catastral deberá ser equiparable al valor comercial al predio que corr
 
 Para la elaboración de los Proyectos de las tablas de valores unitarios de suelo y construcciones, la Autoridad Catastral Municipal contará con el apoyo de la Dirección General de Catastro.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 31.
 
-La Autoridad Catastral Municipal deberá presentar al Ayuntamiento a más tardar en el mes de septiembre del ejercicio fiscal correspondiente los proyectos de tablas de valores unitarios de suelo y construcciones, acompañados de las observaciones y recomendaciones que estimen procedentes, para que a más tardar en el mes de octubre la remitan a la Legislatura del Estado, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva.
+La Autoridad Catastral Municipal deberá presentar al Ayuntamiento a más tardar en el mes de septiembre del ejercicio fiscal correspondiente los proyectos de tablas de valores unitarios de suelo y construcciones, acompañados de las observaciones y recomendaciones que estimen procedentes, para que a más tardar el 20 de noviembre la remitan a la Legislatura del Estado, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva.
 
 ###### ARTÍCULO 32.
 
@@ -926,3 +928,13 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 ROSARIO ORTIZ YELADAQUI
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 187 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, Y DE LA LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
