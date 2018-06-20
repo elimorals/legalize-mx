@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2018-04-14"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -595,9 +595,9 @@ LI. Promover la transparencia en las Escuelas Públicas y Particulares en las qu
 
 LII. Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo.
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-LIII. Vigilar que en las instituciones de educación básica y media superior, públicas y privadas, no se condicione el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes y demás enseres u objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos específicos, de cierta marca o determinada calidad.
+LIII. Vigilar que en las instituciones de educación básica y media superior, públicas y privadas, no se condicione el acceso o permanencia del alumnado a la adquisición de útiles escolares, uniformes y demás enseres u objetos vinculados al proceso de enseñanza aprendizaje, en establecimientos específicos, de cierta marca o determinada calidad. Para estos efectos la autoridad educativa estatal, en coordinación con la Secretaría de Desarrollo Social, definirán las reglas de operación de un programa de entrega de útiles escolares, uniformes y demás enseres u objetos vinculados al proceso de enseñanza aprendizaje, focalizado a personas en situación de vulnerabilidad o sujetas de derecho con acceso preferencial a los programas y proyectos, de conformidad con lo establecido en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
 
@@ -2143,9 +2143,9 @@ Son derechos de quienes ejercen la patria potestad o la tutela:
 
 I. Obtener la inscripción en escuelas públicas para que sus hijas, hijos o pupilos, que satisfagan los requisitos aplicables, reciban educación preescolar, primaria y secundaria, procurando que cursen el tipo medio superior y superior; la edad mínima para ingresar a la educación básica en el nivel preescolar es de tres años, y para nivel primaria seis años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-II. Formar parte de las Asociaciones de Padres de Familia y de los Consejos de Participación Social a que se refiere la Sección II de este Capítulo.
+II. Formar parte de las Asociaciones de Padres de Familia y de los Consejos de Participación Social a que se refiere la Sección II de este Capítulo, así como a recibir reconocimiento por sus labores y méritos por el desempeño de los cargos respectivos, por parte de las Autoridades Educativas.
 
 III. (DEROGADA, P.O. 2 DE FEBRERO DE 2013)
 
@@ -2233,15 +2233,27 @@ IX. Colaborar con las autoridades educativas y personal docente y de apoyo a la 
 
 X. Participar en los programas que las autoridades competentes implementen, con el propósito de informar a las asociaciones de padres sobre la posible comisión de hechos delictivos que puedan perjudicar a sus hijos e hijas en el entorno escolar.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 132.
 
-En cada plantel de educación inicial, preescolar, primaria y secundaria del Sistema Educativo Estatal, habrá de formarse un (sic) asociación integrada por padres, madres de familia y tutores o por quienes ejerzan la patria potestad de las y los educandos, en el que deberá respetarse siempre la garantía de libre asociación, consagrada por el artículo 9o. de la Constitución Política de los Estados Unidos Mexicanos.
+En cada plantel de educación inicial, preescolar, primaria y secundaria del Sistema Educativo Estatal, habrá de formarse una asociación integrada por padres, madres de familia y tutores o por quienes ejerzan la patria potestad de las y los educandos, en la que deberá respetarse siempre la garantía de libre asociación, consagrada por el Artículo 9o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-Así mismo, en cada municipio deberá existir una asociación municipal de padres y madres de familia, integrado por representantes de las organizaciones antes mencionadas, de los diversos planteles educativos existentes en el mismo y en los que se imparta el tipo básico de educación.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
-En igual forma, dentro de la Entidad habrá de integrarse una asociación estatal de padres de familia, compuesto por representantes de las asociaciones municipales.
+Así mismo, en cada municipio deberá existir una asociación municipal de padres y madres de familia, integrada por representantes de las organizaciones antes mencionadas, de los diversos planteles educativos existentes en el mismo y en los que se imparta el tipo básico de educación.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+En igual forma, dentro de la Entidad habrá de integrarse una asociación estatal de padres de familia, compuesta por representantes de las asociaciones municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+Las asociaciones escolares de padres de familia se inscribirán en el registro respectivo que lleve el Poder Ejecutivo por conducto de la Secretaría del ramo.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+La autoridad educativa mantendrá actualizado el Reglamento Estatal de Asociaciones de Padres de Familia, siguiendo las formalidades necesarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2016)</small>
 
@@ -2269,13 +2281,15 @@ II. Colaborar para una mejor integración de la comunidad escolar, así como el 
 
 III. Proponer las medidas que se estimen adecuadas para alcanzar los propósitos de la educación;
 
-IV. Informar a la autoridad educativa inmediata, sobre cualquier irregularidad de que sean objeto las y los educandos; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+IV. Informar a la autoridad educativa inmediata, sobre cualquier irregularidad de que sean objeto las y los educandos;
 
 V. Abstenerse de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
 
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-VI. Informar anualmente en asamblea, a los integrantes de la asociación por conducto de su mesa directiva, en forma escrita, un mes antes del último día del ciclo escolar, sobre las actividades desempeñadas dentro de su gestión, incluyendo la administración de los recursos a su cargo. Además, deberá ser presentado dicho informe en el mismo plazo ante la Autoridad Educativa inmediata que corresponda.
+VI. Informar anualmente en asamblea, a los integrantes de la asociación por conducto de su mesa directiva, en forma escrita, un mes antes del último día del ciclo escolar, sobre las actividades desempeñadas dentro de su gestión, incluyendo la administración de los recursos a su cargo. Además, deberá ser presentado dicho informe en el mismo plazo ante la Autoridad Educativa inmediata que corresponda. Asimismo, en todo momento, acordarán los mecanismos derivados del Reglamento aplicable, para garantizar el uso de recursos económicos de sus representados exclusivamente por las propias asociaciones que los hubieran recabado o gestionado, con los mecanismos para evitar desvíos o malversaciones.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4324,3 +4338,17 @@ P.O. 14 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0755/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 130, FRACCIÓN II; 132, PRIMER, SEGUNDO Y TERCER PÁRRAFO; Y 134, FRACCIONES IV Y VI; Y SE ADICIONAN AL ARTÍCULO 132 LOS PÁRRAFOS CUARTO Y QUINTO; TODOS DE LA LEY ESTATAL DE EDUCACIÓN"]
+
+PRIMERO.- A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con noventa días hábiles para realizar las modificaciones y actualizaciones a que hubiera lugar, al Reglamento Estatal de Asociaciones de Padres de Familia, para los efectos previstos en el mismo, y demás que bajo su esfera de competencia estime convenientes.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0761/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN LIII DEL ARTÍCULO 13 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
