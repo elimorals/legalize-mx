@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2018-04-05"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -187,9 +187,9 @@ XIII. Secretaría de la Contraloría.
 
 XIV. Oficialía Mayor;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XV. Consejería Jurídica.
+XV. Consejería Jurídica del Poder Ejecutivo;
 
 XVI. Secretaría de Seguridad Pública.
 
@@ -203,9 +203,9 @@ II. Ser nativo o nativa de la entidad o tener residencia efectiva no menos de ci
 
 III. Tener un modo honesto de vivir.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
-Para ser Titular de la Consejería Jurídica, se deberán cumplir los requisitos que establece el Artículo 96 de la Constitución Política del Estado y lo previsto en este artículo.
+Para ser Titular de la Consejería Jurídica del Poder Ejecutivo, se deberán cumplir los requisitos previstos en las fracciones I al VII que establece el artículo 96 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 Tratándose de lo dispuesto en la fracción II del presente artículo, podrá ser dispensable únicamente para el cargo de Secretario de Seguridad Pública.
 
@@ -217,15 +217,21 @@ Al frente de cada Secretaría habrá un titular a quien se denomina Secretario, 
 
 Para desempeñar los cargos de Subsecretario, Director General, Director de Área, Subdirector, así como niveles intermedios entre éstos, dentro de la Administración Pública Central, y sus equivalentes en la Administración Pública Paraestatal, independientemente del nombre del puesto que se les atribuya, se deberán satisfacer los mismos requisitos previstos en el artículo anterior para el caso de los titulares de las dependencias del Ejecutivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 22.
 
-El Gobernador nombrará al Titular de la Consejería Jurídica, quien para el cumplimiento de sus funciones actuará con la representación jurídica del Titular del Poder Ejecutivo en los procedimientos en que éste sea parte.
+El Gobernador nombrará al titular de la Consejería Jurídica del Poder Ejecutivo, quien para el cumplimiento de sus funciones actuará con la representación legal del Gobernador del Estado, como Titular del Poder Ejecutivo, y del Estado de Quintana Roo, en los procedimientos, juicios o asuntos litigiosos en los que sean parte o tengan interés jurídico de cualquier materia o naturaleza, en términos del artículo 51, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
-Al frente de la Consejería Jurídica habrá un Consejero que dependerá directamente del Gobernador del Estado, y será nombrado y removido libremente por éste.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+Al frente de la Consejería Jurídica habrá un Consejero Jurídico que dependerá directamente del Gobernador del Estado, y será nombrado y removido libremente por éste.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
 
 Las dependencias y entidades de la administración pública estatal, deberán atender los requerimientos y solicitudes de información u opiniones técnicas que para el cumplimiento oportuno de sus responsabilidades y atribuciones les solicite la Consejería Jurídica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
 
 A la Consejería Jurídica le serán aplicables las disposiciones sobre presupuesto, contabilidad y gasto público, así como las demás que rigen a las dependencias del Ejecutivo Estatal. En el Reglamento Interior de la Consejería se determinarán las atribuciones de las Unidades Administrativas, así como la forma de cubrir las ausencias y delegar facultades.
 
@@ -1615,67 +1621,127 @@ XIX. Normar, administrar y mantener actualizado el padrón de proveedores de bie
 
 XX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 45.
 
-A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
+A la Consejería Jurídica del Poder Ejecutivo le corresponde el despacho de los siguientes asuntos:
 
-I.- Presidir la Comisión de Estudios Jurídicos del Gobierno del Estado, integrada por los titulares de asuntos jurídicos de las dependencias, órganos desconcentrados y entidades paraestatales de la administración pública.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-II.- Coordinarse con los responsables de las unidades de asuntos jurídicos de cada dependencia de la administración pública Estatal en materia jurídica y demás disposiciones de observancia general en el Estado.
+I. Representar legalmente al Gobernador del Estado, como Titular del Poder Ejecutivo, y al Estado de Quintana Roo, en todos los procedimientos, juicios, negociaciones o asuntos litigiosos en los que sean parte o tengan interés jurídico de cualquier materia o naturaleza, en términos del artículo 51, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Quintana Roo; y según el caso, entre otros ejercer y/o tramitar todos los procedimientos judiciales o extrajudiciales, absolver posiciones y confesionales, comprometer en árbitros, desistir, convenir, oponiendo las acciones y excepciones que correspondan para la defensa jurídico-administrativa y judicial, así como dar apoyo técnico-jurídico que corresponda;
 
-III.- Representar legalmente al Titular del Ejecutivo del Estado, así como las demás dependencias de la administración pública centralizada, en los procedimientos, juicios o asuntos litigiosos en los que sean parte o tengan interés jurídico de cualquier materia o naturaleza, pudiendo delegar esta representación en terceros o subalternos de conformidad con las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-IV.- Proporcionar y coordinar la asesoría en materia jurídica y consultiva a las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, a excepción de la materia fiscal, con apego a las leyes, reglamentos y demás disposiciones aplicables.
+II. Intervenir por Acuerdo del Titular del Poder Ejecutivo, con la representación legal en aquellos procedimientos litigiosos correspondientes a las Dependencias, y Órganos Administrativos Desconcentrados de la Administración Pública Estatal en los que aquéllos tengan interés jurídico;
 
-V.- Revisar o elaborar los proyectos de iniciativas de ley o decreto que presente el Gobernador a la Legislatura del Estado.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-VI.- Revisar o elaborar los proyectos de reglamentos, decretos o acuerdos y demás instrumentos jurídicos que se sometan a consideración y en su caso autorización del Gobernador.
+III. Brindar apoyo técnico y jurídico al Gobernador del Estado para la elaboración y perfeccionamiento de las iniciativas de Ley y decretos que se deban presentar ante la Legislatura del Estado; así como de los decretos, acuerdos, convenios y demás instrumentos jurídicos en los que intervenga el Titular del Poder Ejecutivo y asesorar jurídicamente en los asuntos que le encomiende;
 
-VII.- Informar al Gobernador sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado Libre y Soberano de Quintana Roo y proponer las medidas necesarias para su corrección;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-VIII.- Coordinar la función jurídica de la administración pública del Gobierno del Estado con excepción de la materia fiscal.
+IV. Prestar asesoría jurídica en asuntos de la competencia de las dependencias, entidades y órganos administrativos desconcentrados de la administración pública estatal, así como a los H. Ayuntamientos Municipales del Estado, que así lo soliciten, previa autorización del Gobernador del Estado. Lo anterior sin perjuicio de la competencia que les corresponda a otras dependencias;
 
-IX.- Asesorar jurídicamente al Gobernador en los asuntos que le encomiende.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-X.- Definir, unificar y difundir los criterios para la interpretación de las disposiciones jurídicas que normen la gestión de la administración pública del Estado.
+V. Emitir, dentro del ámbito de su competencia, las observaciones y recomendaciones de los proyectos de iniciativas de Ley, reglamentos, decretos, acuerdos, resoluciones y demás normas legales y administrativas que formulen las Dependencias y Entidades de la Administración Pública Estatal, que sean sometidos a revisión y validación, previo a su expedición por parte del Gobernador del Estado;
 
-XI.- Asesorar jurídicamente y orientar, cuando así lo requieran, a las dependencias y organismos auxiliares de la administración pública del Estado.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XII.- Coadyuvar en la elaboración, revisión y sanción de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal y con los gobiernos estatales.
+VI. Coadyuvar con las Dependencias en la elaboración y revisión, de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos al funcionamiento y coordinación de la Administración Pública Estatal y con el gobierno federal;
 
-XIII.- Coordinar y participar, junto con las dependencias y organismos auxiliares de carácter estatal y municipal, en la actualización y simplificación del marco jurídico del Estado.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XIV.- Intervenir en los juicios de amparo, cuando el Gobernador tenga el carácter de autoridad responsable, exista solicitud de la autoridad responsable o medie instrucción del Gobernador, así como supervisar todas las etapas de su proceso y la elaboración de los informes previos y con justificación cuando la importancia del asunto así lo amerite.
+VII. Visar con sello y firma todos los instrumentos jurídicos y administrativos, y someterlos a consideración y, en su caso, firma del Gobernador del Estado, relativos a la administración pública o por actos jurídicos que celebre el Estado con la intervención del Titular del Ejecutivo, y darle opinión sobre los mismos;
 
-XV.- Tramitar y substanciar para poner en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Gobernador, así como substanciar, en su caso, los procedimientos contenciosos.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XVI.- Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado y solicitar ante las autoridades competentes la reparación del daño cuando resulte procedente, de conformidad con la legislación aplicable.
+VIII. Coordinar la función jurídica de la Administración Pública Estatal, con los titulares de las unidades de asuntos jurídicos de cada Dependencia y Entidad con excepción de la materia fiscal;
 
-XVII.- Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la legislación relativa.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XVIII.- Dar contestación a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa, al Gobernador o los que le sean turnados para su atención en las diferentes ramas de la administración pública.
+IX. Presidir la Comisión de Estudios Jurídicos del Gobierno del Estado, integrada por los titulares de asuntos jurídicos de las Dependencias, órganos desconcentrados y Entidades paraestatales de la Administración Pública Estatal;
 
-XIX.- Impulsar, coordinar, dirigir y evaluar una política de promoción, atención, defensa y respeto de los derechos humanos desde el Poder Ejecutivo y desde el ámbito de la administración pública estatal, así como proponer la armonización de las políticas públicas en la materia conforme a los lineamientos que establecen los tratados internacionales.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XX.- Coordinar las acciones relativas a la demarcación y conservación de Límites.
+X. Informar al Gobernador del Estado las observaciones pertinentes, sobre la promulgación de leyes o decretos que sean contrarios a la Constitución Política de los Estados Mexicanos y a la Constitución Política del Estado Libre y Soberano de Quintana Roo y proponer las medidas necesarias para su corrección;
 
-XXI.- Compilar y sistematizar las leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas estatales, así como establecer el banco de datos correspondiente, con el objeto de proporcionar información del orden jurídico estatal, a través del uso de medios electrónicos.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XXII.- Definir las directrices y dictar los lineamientos que en materia jurídica deberán seguir las dependencias de la administración pública estatal.
+XI. Validar los proyectos de respuesta de informes documentados que el Gobernador del Estado deba de enviar a los organismos defensores de Derechos Humanos, públicos o gubernamentales, cuando estos le realicen peticiones por denuncias o quejas de los gobernados que consideran presuntas violaciones a sus Derechos Humanos y estas le fueren imputadas; así como, dar seguimiento a las Recomendaciones que en la materia se formulen a los servidores públicos del Poder Ejecutivo, para su cabal cumplimiento;
 
-XXIII.- Opinar sobre el nombramiento y/o remoción de los titulares responsables de las áreas jurídicas, de las dependencias referidas en el artículo 19 de esta ley, así como los de las entidades de la administración pública paraestatal, quienes serán designados de conformidad con la normatividad aplicable.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XXIV.- Requerir de las áreas jurídicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan.
+XII. Participar, por acuerdo del Gobernador del Estado, como coadyuvante en los juicios o negocios jurídicos en que las Dependencias y/o Entidades de la Administración Pública Estatal intervengan con cualquier carácter, ejercer las acciones y oponer las excepciones que correspondan para la defensa administrativa y judicial;
 
-XXVI (SIC).- Certificar los documentos expedidos por el Titular del Ejecutivo Estatal, así como de los propios en el desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XXVII.- Visar los instrumentos jurídicos, previo a la firma del Gobernador del Estado, relativos a la administración pública o por actos jurídicos que celebre el Estado con la intervención del Titular del Ejecutivo, y
+XIII. Coordinar y participar, junto con las Dependencias, Entidades y demás organismos auxiliares de la Administración Pública estatal o municipal en la actualización y simplificación del marco jurídico del Estado;
 
-XXVIII.- Las demás que le confieren otras disposiciones legales y aquéllas que le encomiende el Gobernador.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-El estudio, planeación, trámite y resolución de los asuntos competencia de la Consejería Jurídica, así como su representación, corresponden originalmente a su titular, quién para su mejor atención y despacho, podrá delegar sus atribuciones en los servidores públicos subalternos, en términos de las disposiciones jurídicas aplicables, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de la ley o de su Reglamento, deban ser ejercidas en forma directa.
+XIV. Intervenir en los juicios de amparo, cuando el Gobernador tenga el carácter de autoridad responsable, exista solicitud de la autoridad responsable o medie instrucción del Gobernador, así como supervisar todas las etapas de su proceso y la elaboración de los informes previos y con justificación cuando la importancia del asunto lo amerite;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XV. Tramitar y substanciar para poner en estado de resolución los recursos administrativos interpuestos en contra de actos o resoluciones del Gobernador, así como substanciar, en su caso, los procedimientos contenciosos;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XVI. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado y solicitar ante las autoridades competentes la reparación del daño cuando resulte procedente, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XVII. Intervenir conjuntamente con las Secretarías de Gobierno, y demás instancias competentes, en la tramitación e integración de los expedientes de expropiación, ocupación temporal o limitación de dominio;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XVIII. Dar contestación a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa, al Gobernador o los que le sean turnados para su atención en las diferentes ramas de la administración pública.
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XIX. Intervenir en la política de promoción, atención, defensa y respeto de los Derechos Humanos en el ámbito de la Administración Pública Estatal, así como proponer la armonización de las políticas públicas en la materia conforme a los lineamientos que establecen los tratados internacionales;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XX. Coordinar las acciones jurídicas relativas a la demarcación, conservación y defensa de límites territoriales del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXI. Compilar y sistematizar las leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas estatales, así como establecer el banco de datos correspondiente, con el objeto de proporcionar información del orden jurídico estatal, a través del uso de medios electrónicos;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXII. Coordinar las acciones y programas en materia jurídica que apruebe el Gobernador del Estado, definir las directrices y dictar los lineamientos que deberán de seguir las Dependencias y Entidades de la Administración Pública del Estado, a fin de procurar la congruencia de los criterios jurídicos de las disposiciones que normen su gestión;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXIII. Opinar sobre el nombramiento y/o remoción de los titulares responsables de las áreas jurídicas, de las Dependencias referidas en el artículo 19 de esta Ley, así como los de las entidades de la Administración Pública Paraestatal, quienes serán designados de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXIV. Requerir de las áreas jurídicas de las dependencias y organismos auxiliares del Poder Ejecutivo del Estado, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXV. Emitir las disposiciones a las que deberán sujetarse las dependencias y entidades de la Administración Pública Estatal para la elaboración, revisión y trámite de proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones y demás instrumentos de carácter jurídico que deban ser sometidos a la consideración y, en su caso, firma del Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXVI. Certificar los documentos expedidos por el Titular del Ejecutivo Estatal, así como de los propios en el desempeño de sus funciones;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXVII. Requerir con la representación del Gobernador del Estado en su carácter de superior jerárquico, a las autoridades responsables y/o demandadas, al cumplimiento de las sentencias de amparo y juicios diversos que hayan causado ejecutoria dictadas en juicio por la autoridad jurisdiccional; y
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE JUNIO DE 2018)</small>
+
+El estudio, planeación, tramite y resolución de los asuntos competencia de la Consejería Jurídica del Poder Ejecutivo, así como su representación, corresponden originalmente a su titular, quién para su mejor atención y despacho, podrá delegar sus atribuciones que le correspondan como titular de la Dependencia, así como las de representación del Titular del Ejecutivo y/o del Gobierno del Estado, en los servidores públicos subalternos, en términos de las disposiciones jurídicas aplicables, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de la ley o de su Reglamento, deban ser ejercidas en forma directa.
 
 ###### ARTÍCULO 46.
 
@@ -2012,3 +2078,11 @@ TERCERO.- Los recursos de inconformidad derivados de la materia registral inicia
 CUARTO.- En un término que no exceda de noventa días naturales contados a partir de la entrada en vigencia del presente Decreto, deberán adecuarse al contenido del mismo, los Reglamentos interiores de la Secretaría de Gobierno y de la Secretaría de Finanzas y Planeación; así como la normatividad del Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo.
 
 QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 163 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del decreto por el que se reforma el párrafo segundo del artículo 51 y se adiciona un párrafo segundo al artículo 92 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
