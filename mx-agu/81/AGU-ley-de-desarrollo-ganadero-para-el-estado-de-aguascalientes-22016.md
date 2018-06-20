@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-ganadero-para-el-estado-de-aguascalientes-220
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-23"
-last_updated: "2017-07-03"
+last_updated: "2018-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 20 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de julio de 2001.
 
@@ -1009,7 +1011,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 23 DE ABRIL DE 2007.
 
@@ -1062,3 +1064,31 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 323.- LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Ganadero para el Estado de Aguascalientes, contenida en el Decreto 184, publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de Julio de 2001.
+
+###### ARTÍCULO TERCERO.
+
+En los asuntos que se encuentren pendientes en trámite, se seguirá aplicando la Ley Abrogada hasta su conclusión en tanto que no se oponga a las disposiciones contenidas en la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado, al momento de expedir el Presupuesto de Egresos para el ejercicio inmediato siguiente a la entrada en vigor de la presente Ley, deberá destinar una partida presupuestaria que se destinará a cumplir los propósitos de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado, al momento de emitir la Ley de Ingresos para el ejercicio inmediato siguiente a la entrada en vigor de la presente Ley, contemplará la facultad de la Secretaría de Finanzas del Estado de recibir el pago de las sanciones pecuniarias a las que refiere el artículo 196 de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo del Estado deberá expedir el Reglamento de esta Ley en un término de 180 días posteriores a su entrada en vigor.
