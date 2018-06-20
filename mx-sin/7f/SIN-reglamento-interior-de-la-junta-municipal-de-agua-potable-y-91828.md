@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-junta-municipal-de-agua-potable-y-918
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-21"
-last_updated: "2013-01-21"
+last_updated: "2018-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE CULIACAN, SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE CULIACÁN SINALOA, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE CULIACÁN, DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 21 de enero de 2013.
 
@@ -1468,3 +1470,15 @@ PRESIDENTE MUNICIPAL
 M.C. JESÚS MADUEÑA MOLINA
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
+
+P.O. 20 DE JUNIO DE 2018.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO MUNICIPAL NO. 23 DE CULIACÁN.- REGLAMENTO INTERIOR DE LA JUNTA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE CULIACÁN, SINALOA”.]</small>
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Junta Municipal de Agua Potable y Alcantarillado de Culiacán, expedido mediante decreto municipal número 21, publicado en el Periódico Oficial "El Estado de Sinaloa" número 009 del día 21 de enero de 2013.
+
+Artículo Tercero.- Cada Gerente y el Titular de la Unidad de Planeación y Proyectos, formularán las modificaciones o adecuaciones a sus Manuales de Organización y Procedimientos, dentro de un plazo de noventa días, contados a partir de la entrada en vigor de este Reglamento, mismo que deberá ser sometido a la consideración del Gerente General.
