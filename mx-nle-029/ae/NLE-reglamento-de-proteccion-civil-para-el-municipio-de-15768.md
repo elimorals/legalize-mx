@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-para-el-municipio-de-15768"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-27"
-last_updated: "2015-08-28"
+last_updated: "2018-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2015; Y POR EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2018 EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015 (DEROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de octubre de 1999.
 
@@ -1030,6 +1030,26 @@ SECRETARIO DEL R. AYUNTAMIENTO
 P.O. 28 DE AGOSTO DE 2015.
 
 ###### ARTICULO PRIMERO.
+
+Se Deroga el Reglamento Municipal de Protección Civil de Hualahuises, publicado en el periódico del día 27 de octubre de 1999.
+
+###### ARTICULO SEGUNDO.
+
+El presente Reglamento entrara en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+Lo no previsto por este Reglamento, se seguirá el procedimiento y se aplicara supletoriamente lo establecido en la Ley de Protección Civil para el Estado de Nuevo León y el Código de Procedimientos Civiles en el Estado de Nuevo León.
+
+###### ARTICULO CUARTO.
+
+Se deja sin efecto legal alguno, cualquier disposición que contravenga el presente Reglamento.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
 
 Se Deroga el Reglamento Municipal de Protección Civil de Hualahuises, publicado en el periódico del día 27 de octubre de 1999.
 
