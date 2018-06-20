@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2017-12-22"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JUNIO DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -316,15 +316,21 @@ El Ejecutivo Federal, mediante los convenios que al respecto celebre con los gob
 
 La Comisión Intersecretarial será responsable de atender, difundir, coordinar y dar el seguimiento correspondiente a los programas sectoriales y especiales que tengan como propósito impulsar el desarrollo rural sustentable. Asimismo, será la responsable de promover y coordinar las acciones y la concertación de la asignación de responsabilidades a las dependencias y entidades federales competentes en las materias de la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE JUNIO DE 2018)</small>
+
+###### Artículo 21.
+
+La Comisión Intersecretarial estará integrada por los titulares de las siguientes dependencias del Ejecutivo Federal: a) Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación cuyo titular la presidirá; b) Secretaría de Economía; c) Secretaría de Medio Ambiente y Recursos Naturales; d) Secretaría de Hacienda y Crédito Público; e) Secretaría de Comunicaciones y Transportes; f) Secretaría de Salud; g) Secretaría de Desarrollo Social; h) Secretaría de Desarrollo Agrario, Territorial y Urbano; i) Secretaría de Educación Pública; j) Secretaría de Energía; y las dependencias y entidades del Poder Ejecutivo que se consideren necesarias, de acuerdo con los temas de que se trate.
+
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 2 DE FEBRERO DE 2007)</small>
-
-###### ARTÍCULO 21.
-
-La Comisión Intersecretarial estará integrada por los titulares de la (sic) siguientes dependencias del Ejecutivo Federal: a) Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación cuyo titular la presidirá; b) Secretaría de Economía; c) Secretaría de Medio Ambiente y Recursos Naturales; d) Secretaría de Hacienda y Crédito Público; e) Secretaría de Comunicaciones y Transportes; f) Secretaría de Salud; g) Secretaría de Desarrollo Social; h) Secretaría de la Reforma Agraria; i) Secretaría de Educación Pública; j) Secretaría de Energía; y las dependencias y entidades del Poder Ejecutivo que se consideren necesarias, de acuerdo con los temas de que se trate.
 
 Cada uno de los integrantes de la Comisión tendrá un suplente que, en el caso de las dependencias, será el subsecretario que tenga mayor relación con los asuntos del desarrollo rural.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 2 DE FEBRERO DE 2007)</small>
+
 La Comisión Intersecretarial, a través de su Presidente, podrá convocar a las sesiones a otras dependencias del Ejecutivo Federal y a entidades del sector público, con objeto de que informen de los asuntos de su competencia, relacionados con el desarrollo rural sustentable.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 2 DE FEBRERO DE 2007)</small>
 
 La Comisión Intersecretarial propondrá al Ejecutivo Federal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades del sector público y evaluará, periódicamente, los programas relacionados con el desarrollo rural sustentable. En su caso, la Comisión Intersecretarial someterá a la aprobación del Ejecutivo Federal nuevos programas de fomento agropecuario y de desarrollo rural sustentable para ser incluidos en el Proyecto de Presupuesto de Egresos correspondiente.
 
@@ -788,7 +794,9 @@ El Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, estab
 
 El Servicio Nacional de Capacitación y Asistencia Técnica Rural Integral estará dirigido por un consejo interno conformado por:
 
-I. Los titulares de las secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Medio Ambiente y Recursos Naturales; Educación Pública; Trabajo y Previsión Social; Desarrollo Social y Reforma Agraria;
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2018)</small>
+
+I. Los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Medio Ambiente y Recursos Naturales; Educación Pública; Trabajo y Previsión Social; Desarrollo Social y Desarrollo Agrario, Territorial y Urbano;
 
 II. Los organismos del sector agrario;
 
@@ -2041,5 +2049,11 @@ D.O.F. 12 DE ENERO DE 2012.
 D.O.F. 22 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3o., 143, 145 Y 191 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL INCISO H) DEL PÁRRAFO PRIMERO DEL ARTÍCULO 21 Y LA FRACCIÓN I DEL ARTÍCULO 48 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
