@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-benito-juarez-del-estado-88631
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2017-12-21"
+last_updated: "2018-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -3671,11 +3671,11 @@ Por la expedición del gafete o credencial a los comerciantes con permisos para 
 
 ### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 125.
 
-Quedan comprendidas en este capítulo las personas físicas y morales que realicen los siguientes actos o actividades:
+Quedan comprendidas en este Capítulo las personas físicas y morales que realicen los siguientes actos o actividades:
 
 I. Los vendedores de tiempos compartidos;
 
@@ -3697,13 +3697,13 @@ VI. Exposiciones de productos, Expo-Ferias y servicios en general.
 
 VII. Estructuras temporales y Expo-Ferias mayores a 50 m2 donde se comercialicen artículos diversos para su venta al público en general previa autorización del Ayuntamiento.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+VIII. (DEROGADA, P.O. 20 DE JUNIO DE 2018)
 
-VIII. Mesas de hospitalidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 126.
 
-Los derechos a que se refiere el artículo anterior, se pagaran de acuerdo a lo siguiente:
+Los derechos a que se refiere el artículo anterior, se pagarán de acuerdo a lo siguiente:
 
 TARIFA
 
@@ -3735,9 +3735,7 @@ VI. Exposiciones de productos, Expo-Ferias y servicios en general. de 0.5 a 3.0 
 
 VII. Estructuras temporales y Expo-Ferias mayores a 50 m2 donde se comercialicen artículos diversos para su venta al público en general previa autorización del Ayuntamiento de 30 a 50 UMA diario.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
-
-VIII. Mesas de hospitalidad 30 UMA mensual
+VIII. (DEROGADA, P.O. 20 DE JUNIO DE 2018)
 
 ###### Artículo 127.
 
@@ -4992,3 +4990,9 @@ P.O. 21 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales que contravengan el presente decreto.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 196, POR EL QUE SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 125 Y LA FRACCIÓN VIII DEL ARTÍCULO 126, AMBOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
