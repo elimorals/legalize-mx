@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2018-01-10"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -67,7 +67,9 @@ Para efectos de la presente Ley, se entenderá por:
 
 Gobernador. Titular del Poder Ejecutivo del Estado;
 
-Dependencias. Secretarías y Coordinaciones que conforman la Administración Pública Centralizada;
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+Dependencias: Las establecidas en el artículo 25 de esta Ley;
 
 Entidades. Entidades que integran la Administración Pública Paraestatal;
 
@@ -87,9 +89,11 @@ Si la salida excediere de siete días consecutivos, pero no de quince, se encarg
 
 El despacho del Gobernador contará con una Jefatura de Oficina y las demás unidades de apoyo técnico y estructura que él determine, que operarán de acuerdo a la normatividad que para tal efecto expida. Asimismo, podrá crear oficinas de representación fuera del territorio del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
 ###### Artículo 7.
 
-El Gobernador podrá convocar a los Secretarios y funcionarios de la Administración Pública Estatal, directamente o a través del Jefe de Oficina, con el fin de definir y evaluar la política pública del Gobierno Estatal en asuntos prioritarios o para atender asuntos que sean de la competencia concurrente de varias dependencias o entidades.
+El Gobernador podrá convocar a los Secretarios y demás servidores públicos de la Administración Pública Estatal, directamente o a través del Jefe de Oficina, con el fin de definir y evaluar la política pública del Gobierno Estatal en asuntos prioritarios o para atender asuntos que sean de la competencia concurrente de varias Dependencias o Entidades.
 
 ###### Artículo 8.
 
@@ -97,15 +101,17 @@ El Gobernador expedirá los reglamentos interiores, decretos, acuerdos administr
 
 Sólo mediante reforma al reglamento interior respectivo, se podrá modificar la estructura orgánica de las Dependencias y Entidades.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
+
 ###### Artículo 9.
 
-Los reglamentos, decretos, acuerdos y demás disposiciones que expida el Gobernador, deberán, para su validez y observancia constitucionales, ser refrendados por el Secretario General y el Titular del ramo al que el asunto corresponda. Cuando se refieran a asuntos de la competencia de dos o más Dependencias, deberán ser refrendados por los Titulares de las mismas.
+Los reglamentos, decretos y acuerdos expedidos por el Gobernador deberán, para su validez y observancia constitucionales, ser refrendados por el Secretario General y el Titular del ramo al que el asunto corresponda. Cuando se refieran a asuntos de la competencia de dos o más Dependencias, deberán ser refrendados por los Titulares de las mismas.
 
 Tratándose de los decretos promulgatorios de las leyes o los decretos expedidos por la Legislatura del Estado, sólo se requerirá el refrendo del Secretario General de Gobierno.
 
 ###### Artículo 10.
 
-Deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, todos los documentos jurídicos que, en ejercicio de sus facultades, expidan los titulares de las Dependencias y Entidades de la Administración Pública.
+(DEROGADO, P.O. 20 DE JUNIO DE 2018)
 
 ###### Artículo 11.
 
@@ -115,7 +121,9 @@ El Gobernador acudirá o designará al servidor público que deba comparecer ant
 
 El Gobernador podrá celebrar convenios y contratos en cualquier materia que involucre a la Administración Pública; asimismo autorizará a los Secretarios para que, en ejercicio de sus atribuciones, los celebren, con excepción de los relacionados con créditos y empréstitos en los que intervendrá solamente la Secretaría de Finanzas.
 
-Todos los convenios y contratos deberán remitirse para su revisión y validez a la Coordinación General Jurídica.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+Todos los convenios y contratos deberán remitirse para su revisión y aprobación a la Coordinación General Jurídica.
 
 ###### Artículo 13.
 
@@ -139,11 +147,17 @@ VI. Acordar la coordinación de Dependencias y Entidades con la Administración 
 
 VII. Resolver, por conducto del Secretario General de Gobierno, las dudas que existan sobre la distribución de competencias entre las Dependencias y asignarles, en casos extraordinarios, la responsabilidad sobre asuntos específicos; y
 
-VIII. Las demás que expresamente le confieran esta Ley y las diversas leyes del Estado.
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+VIII. Designar a los titulares de los Órganos Internos de Control de la Administración Pública Estatal, y
+
+IX. Las demás que expresamente le confieran esta Ley y las diversas leyes del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 15.
 
-En cada una de las Dependencias y Entidades habrá un Órgano Interno de Control, cuya actuación se regirá bajo los principios señalados en la Constitución Local y en la Ley del Sistema Estatal Anticorrupción.
+En cada una de las Dependencias y Entidades habrá un Órgano Interno de Control cuya actuación se regirá bajo los principios señalados en la Constitución Local y en la Ley General de Responsabilidades Administrativas.
 
 ### CAPÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -189,9 +203,15 @@ Los Secretarios estarán obligados a coordinarse y proporcionarse la informació
 
 Cada Dependencia podrá formular iniciativas de ley, proyectos de reglamentos, decretos, convenios, acuerdos y demás disposiciones administrativas de su competencia y remitirlos al Gobernador, a través de la Coordinación General Jurídica, cuando menos un mes antes de su publicación o de su presentación ante la Legislatura del Estado, según sea el caso.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
+
 ###### Artículo 23.
 
-Cada Dependencia expedirá y mantendrá actualizados los Manuales de Organización, de Procedimientos y de Servicios al Público.
+Los Secretarios expedirán los manuales de organización, de procedimientos y de servicios al público, así como los acuerdos necesarios para el funcionamiento de su Dependencia, los que deberán contener información sobre la estructura orgánica y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados.
 
 ###### Artículo 24.
 
@@ -237,7 +257,9 @@ VI. Secretaría de Economía;
 
 VII. Secretaría de Turismo;
 
-VIII. Secretaría de Infraestructura;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+VIII. Secretaría de Obras Públicas;
 
 IX. Secretaría de Educación;
 
@@ -253,7 +275,9 @@ XIV. Secretaría del Campo;
 
 XV. Secretaría de las Mujeres;
 
-XVI. Secretaría de Migración;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XVI. Secretaría del Zacatecano Migrante;
 
 XVII. Coordinación General Jurídica, y
 
@@ -467,21 +491,27 @@ A la Secretaría de Administración le corresponde el despacho de los siguientes
 
 I. Formular y proponer para su análisis y, en su caso, aprobación, a la Coordinación Estatal de Planeación, la política de organización y administración de los recursos humanos, materiales, adquisiciones, prestación de servicios y patrimonio inmobiliario del Estado, conforme a las disposiciones legales aplicables y a las normas, lineamientos, o instrumentos que para el efecto emita la Secretaría de la Función Pública;
 
-II. Organizar, administrar y custodiar el Archivo General del Estado;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-III. Impulsar la actualización del marco normativo en materia de archivos;
+II. Organizar, administrar y custodiar el Archivo General de la Administración Pública del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+III. Impulsar la actualización del marco normativo que sea de su competencia;
 
 IV. Participar en la Comisión Intersecretarial de Gasto-Financiamiento para determinar los lineamientos a que deben sujetarse las Dependencias y Entidades;
 
-V. Planear y, en su caso, ejecutar la adquisición y arrendamiento de bienes y servicios que requiera el funcionamiento de la Administración Pública Estatal y presidir los procedimientos de contratación en los concursos respectivos;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+V. Ejecutar la adquisición y arrendamiento de bienes y servicios que requiera el funcionamiento de las Dependencias y presidir los procedimientos de contratación en los eventos respectivos;
 
 VI. Definir, conjuntamente con la Secretaría de Finanzas y la Secretaría de la Función Pública, los criterios y normas para el ejercicio del presupuesto aprobado;
 
 VII. Normar las actividades de recursos humanos y materiales en las coordinaciones administrativas de las dependencias de la Administración Pública Estatal, así como asesorar y apoyar el desempeño de las áreas administrativas de las entidades paraestatales;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-VIII. Asesorar y apoyar a las coordinaciones administrativas de las Dependencias y Entidades en la formulación de sus Anteproyectos en materia de administración de recursos humanos, materiales y de servicios;
+VIII. Asesorar y apoyar a las coordinaciones administrativas de las Dependencias y Entidades en la planeación de sus adquisiciones, arrendamiento de bienes y contratación de servicios;
 
 IX. Proponer, conjuntamente con las Secretarías de Finanzas y de la Función Pública, al Gobernador, la creación de nuevas unidades administrativas en las Dependencias y Entidades;
 
@@ -489,9 +519,13 @@ X. Resolver los conflictos administrativos cuyo conocimiento le corresponda de c
 
 XI. Vigilar el cumplimiento de las disposiciones legales que rigen las relaciones laborales del Gobierno del Estado con sus trabajadores y conducir las relaciones con el Sindicato Único de Trabajadores al Servicio del Estado, Municipios y Organismos Paraestatales;
 
-XII. Dar trámite a los requerimientos de personal de las Dependencias;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XIII. Dar trámite preferente a las solicitudes de trabajo presentadas por personas con alguna discapacidad física procurando que las fases de selección, capacitación y ubicación estén de acuerdo con sus habilidades;
+XII. Tramitar los requerimientos del personal de las Dependencias, realizar ajustes en la plantilla laboral y realizar reubicación de los servidores Públicos Tratándose de Entidades, la Secretaría podrá celebrar convenios de colaboración para la administración de su nómina;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XIII. Fomentar la inclusión laboral de las personas con discapacidad en la Administración Pública, reconociendo plenamente sus capacidades y habilidades laborales;
 
 XIV. Tramitar los nombramientos, remociones, licencias y jubilaciones de los trabajadores y funcionarios de la Administración Pública Estatal, así como elaborar la nómina, efectuar los pagos y otorgar las prestaciones que correspondan, de conformidad con las disposiciones legales aplicables;
 
@@ -499,23 +533,31 @@ XV. Intervenir, ante las instituciones respectivas, en lo relativo a las prestac
 
 XVI. Organizar, controlar y mantener actualizado el escalafón de los trabajadores del Gobierno del Estado y vigilar la adecuada difusión de los movimientos y procesos escalafonarios de conformidad con la legislación aplicable;
 
-XVII. Proponer al Gobernador, para su aprobación y publicación, las Condiciones Generales del Servicio de la Administración Pública Estatal, conforme a la Ley del Servicio Civil del Estado de Zacatecas, así como difundir y vigilar su cumplimiento entre los servidores públicos estatales;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XVII. Proponer al Gobernador, para su aprobación y publicación, las actualizaciones y reformas al marco normativo de las relaciones laborales de la Administración Pública Centralizada, así como difundir y vigilar su cumplimiento;
 
 XVIII. Ejecutar los acuerdos de los Secretarios, relativos a la imposición, reducción y revocación de las sanciones administrativas a que se hagan acreedores los trabajadores de la Administración Pública Estatal, de acuerdo con las disposiciones legales vigentes en el Estado, sin perjuicio de las que competa imponer a la Secretaría de la Función Pública;
 
-XIX. Proveer a las Dependencias los recursos materiales y servicios necesarios para el desarrollo de sus funciones, con apego a las políticas y procedimientos que se emita, verificando en todo caso no exceder las partidas presupuestales aprobadas;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XIX. Contratar los recursos materiales y servicios que le soliciten las Dependencias para el desarrollo de sus funciones, con base en las políticas y procedimientos que se emitan, verificando que no se excedan las partidas presupuestales aprobadas;
 
 XX. Inventariar y verificar semestralmente, el estado físico de los bienes resguardados por las dependencias de la administración pública estatal y dar cuenta de su resultado al Gobernador;
 
-XXI. Administrar los almacenes del Estado y mantener actualizados sus inventarios;
+XXI. (DEROGADA, P.O. 20 DE JUNIO DE 2018)
 
 XXII. Administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, cuidando su mantenimiento y conservación;
 
 XXIII. Ejercer actos de dominio sobre los bienes muebles e inmuebles propiedad del Estado, previo acuerdo con el Gobernador, en los términos que determine la Constitución Política del Estado y sus leyes reglamentarias; así como ejercer el derecho de reversión con la intervención de la Coordinación General Jurídica.
 
-En tratándose de programas de vivienda, ordenamiento territorial y regularización de tierras en los que intervenga el Gobierno del Estado o cualquiera de sus Entidades, será la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial quien expida las escrituras privadas de propiedad que deriven de ellos;
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
-XXIV. Administrar y operar los Talleres Gráficos del Estado y coordinar, conjuntamente con las Dependencias y Entidades interesadas, la edición de publicaciones oficiales;
+En tratándose de programas de vivienda, ordenamiento territorial y regularización de tierras en los que intervenga el Gobierno del Estado, a través de sus Dependencias o Entidades, será la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial quien expida las escrituras públicas de propiedad que deriven de aquéllos;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXIV. Administrar y operar la Red de Voz y Datos del complejo de Ciudad Administrativa, así como su interconexión con las diversas Dependencias y Entidades;
 
 XXV. Coadyuvar y, en su caso, realizar la logística de los eventos oficiales y especiales del Gobernador; y
 
@@ -749,9 +791,11 @@ XXIX. Apoyar a los municipios para la obtención de la declaratoria de pueblo m�
 
 XXX. Las demás que le confieran las leyes, reglamentos o las indicadas directamente por el Gobernador.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
+
 ###### Artículo 33.
 
-A la Secretaría de Infraestructura le compete:
+A la Secretaría de Obras Públicas le compete:
 
 I. Formular y proponer para su análisis y, en su caso, aprobación, a la Coordinación Estatal de Planeación, la política de infraestructura física en la Entidad;
 
@@ -759,9 +803,13 @@ II. Ejecutar el programa de infraestructura del Gobierno del Estado en materia d
 
 III. Integrar el programa anual de infraestructura del Estado, a partir de las solicitudes y proyectos de las Dependencias y Entidades, para someterlo a consideración de la Coordinación Estatal de Planeación;
 
-IV. Ejecutar y supervisar, directamente o por contratación a particulares, previo cumplimiento de los requisitos establecidos en la ley de la materia, las obras públicas, estudios y proyectos de obra estatal, federal o municipal cuando éstas dos últimas sean convenidas;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-V. Expedir, conforme a lo dispuesto por la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Zacatecas, las bases a que se deban sujetar los concursos para la ejecución de obras, así como adjudicar, supervisar, vigilar el cumplimiento de los contratos de obra pública que le corresponda y cancelarlos por cualquier incumplimiento;
+IV. Ejecutar y supervisar, directamente o por contratación a particulares, previo cumplimiento de los requisitos establecidos en la ley de la materia, las obras públicas, estudios y proyectos de obra estatal, federal o municipal cuando éstas dos últimas sean convenidas, para lo cual podrá llevar a cabo la contratación y adquisición de bienes y servicios necesarios con apego a las políticas y normas establecidas para ello;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+V. Expedir, conforme a lo dispuesto por la legislación aplicable, las bases a que se deban sujetar los concursos para la ejecución de obras, contratación de servicios, adquisición de bienes y de materiales que sean necesarios para sus fines, así como adjudicar, supervisar y vigilar el cumplimiento de los contratos que correspondan y cancelarlos por cualquier incumplimiento;
 
 VI. Elaborar los expedientes técnicos y administrativos de las obras y acciones que se lleven a cabo con recursos estatales, de participación federal o de otra fuente de financiamiento, para su programación y autorización por parte de la Coordinación Estatal de Planeación y concentrar la información necesaria para conocer sus avances físicos y financieros;
 
@@ -789,7 +837,9 @@ XVI. Supervisar y evaluar en coordinación con las instancias correspondientes e
 
 XVII. Administrar y mantener la maquinaria y equipos propiedad del Gobierno del Estado para la ejecución de obras públicas;
 
-XVIII. Cumplir y vigilar el cumplimiento de las disposiciones de derecho al libre tránsito en los espacios públicos abiertos y cerrados para las personas con discapacidad, con base en lo establecido en la Ley Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XVIII. Vigilar el cumplimiento de las disposiciones de derecho al libre tránsito en los espacios públicos abiertos y cerrados para las personas con discapacidad, con base en lo establecido en la Ley para la Inclusión de Personas con Discapacidad del Estado de Zacatecas
 
 XIX. Fomentar el desarrollo regional del Estado mediante la utilización de mano de obra, técnica y materiales regionales;
 
@@ -997,7 +1047,9 @@ XI. Gestionar ante las instituciones de crédito e instituciones de vivienda la 
 
 XII. Regularizar la tenencia de la tierra en donde existan asentamientos humanos irregulares en las zonas urbanas con estricto apego al Código Urbano del Estado;
 
-XIII. Suscribir, cuando así proceda, las escrituras privadas o títulos de propiedad con los que se reconozca la propiedad de los particulares en virtud de la regularización;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XIII. Suscribir, cuando así proceda, las escrituras públicas o títulos de propiedad con los que se reconozca la propiedad de los particulares en virtud de la regularización;
 
 XIV. Celebrar convenios de coordinación y colaboración con instancias federales y municipales, así como con los sectores social y privado, en las materias que le competan a la Secretaría;
 
@@ -1019,7 +1071,9 @@ XXII. Integrar, priorizar, encauzar y atender la demanda social de infraestructu
 
 XXIII. Llevar a cabo los procedimientos administrativos que se promuevan por los propietarios de terrenos de fraccionamientos rurales, así como fijar las bases para resolver las controversias que se susciten entre particulares;
 
-XXIV. Intervenir en los procesos de licitación pública en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXIV. Llevar a cabo los procesos de licitación pública para la ejecución de obras y adquisición de bienes y servicios en materia de ordenamiento territorial y vivienda, conforme a lo dispuesto por la legislación aplicable, así como emitir las bases a que se deban sujetar los concursos para la ejecución de obras, contratación de servicios, adquisición de bienes y materiales que sean necesarios para sus fines, además de adjudicar, supervisar y vigilar el cumplimiento de los contratos que correspondan y cancelarlos, en su caso, por cualquier incumplimiento;
 
 XXV. Las demás que le indiquen las leyes y reglamentos o bien, las que de forma directa le encomiende el Gobernador.
 
@@ -1057,7 +1111,9 @@ XIV. Promover, apoyar y, en su caso, gestionar ante las dependencias y entidades
 
 XV. Promover y difundir las actividades que se desarrollen en el sector hidráulico estatal para el suministro de agua potable y alcantarillado, así como para el tratamiento de aguas residuales, reúso de las mismas y manejo de lodos;
 
-XVI. Celebrar con los sectores público, social y privado los convenios y contratos necesarios para el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XVI. Celebrar con los sectores público, social y privado los convenios y contratos necesarios para el cumplimiento de sus atribuciones, así como licitar, ejecutar y supervisar, directamente o por contratación a particulares, previo cumplimiento de los requisitos establecidos en la ley de la materia, las obras públicas, estudios y proyectos en materia de agua y medio ambiente estatal, federal o municipal, cuando éstas dos últimas sean convenidas;
 
 XVII. Firmar convenios con los organismos operadores de agua municipales, para promover la capacitación y adiestramiento del personal de los organismos operadores, que estén a cargo de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable y de los de alcantarillado y tratamiento de aguas residuales y manejo de lodos;
 
@@ -1293,9 +1349,11 @@ XXI. Promover la creación de un fondo de coinversión para los institutos munic
 
 XXII. Los demás asuntos que le corresponden en términos de las leyes aplicables, su reglamento interior y los que le instruya el Gobernador.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
+
 ###### Artículo 41.
 
-A la Secretaría de Migración le corresponde el despacho de los siguientes asuntos:
+A la Secretaría del Zacatecano Migrante le corresponde el despacho de los siguientes asuntos:
 
 I. Definir, implementar, coordinar, regular y someter al análisis y, en su caso, aprobación de la Coordinación Estatal de Planeación, la política estatal, planes, programas y acciones en materia de migración y de atención a los migrantes zacatecanos y sus familias, sin contravenir lo dispuesto por la legislación federal;
 
@@ -1305,7 +1363,7 @@ III. Colaborar con los Poderes del Estado y demás Dependencias y Entidades de l
 
 IV. Mantener, promover, fomentar y fortalecer, de manera permanente, las relaciones de cooperación, coordinación y organización de los residentes zacatecanos en el exterior con el Gobierno del Estado, la Federación y los Gobiernos Municipales; así como con organismos de la sociedad civil de la Entidad;
 
-V. En coordinación con el Instituto Zacatecano de Cultura “Ramón López Velarde”, la Crónica del Estado de Zacatecas y las instituciones de investigación y divulgación histórica, públicas o privadas de la Entidad, fomentar y difundir la historia, la cultura y las tradiciones del Estado, con la finalidad de fortalecer las relaciones culturales y de arraigo entre los migrantes zacatecanos y sus familias;
+V. En coordinación con el Instituto Zacatecano de Cultura "Ramón López Velarde", la Crónica del Estado de Zacatecas y las instituciones de investigación y divulgación histórica, públicas o privadas de la Entidad, fomentar y difundir la historia, la cultura y las tradiciones del Estado, con la finalidad de fortalecer las relaciones culturales y de arraigo entre los migrantes zacatecanos y sus familias;
 
 VI. Fungir como enlace entre el Poder Ejecutivo del Estado, las Comisiones de Atención a Migrantes de la Legislatura del Estado y del Congreso de la Unión, con el fin de desarrollar acciones conjuntas en beneficio de los migrantes zacatecanos y sus familias;
 
@@ -1361,9 +1419,13 @@ VIII. Divulgar y mantener actualizado el marco jurídico estatal y municipal, a 
 
 IX. Someter a consideración del Gobernador los proyectos de iniciativas de leyes y decretos que se presentarán a la Legislatura del Estado y emitir opinión sobre las mismas;
 
-X. Revisar y dar validez, a las iniciativas, decretos, nombramientos, acuerdos, convenios, reglamentos, resoluciones y demás instrumentos de carácter jurídico que se someterán a firma del Gobernador;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XI. Revisar y validar todos los decretos, acuerdos, convenios y demás instrumentos Jurídicos que suscriba el Gobernador;
+X. Revisar y autorizar las iniciativas, decretos, nombramientos, acuerdos, convenios, reglamentos, resoluciones y demás instrumentos de carácter jurídico que se someterán a firma del Gobernador;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XI. Revisar y autorizar todos los decretos, acuerdos, convenios y demás instrumentos Jurídicos que suscriba el Gobernador;
 
 XII. Editar, publicar, distribuir y administrar en el Periódico Oficial, Órgano del Gobierno del Estado, de conformidad con lo dispuesto en la Ley del Periódico Oficial del Estado de Zacatecas y sus Municipios;
 
@@ -1381,7 +1443,9 @@ XVIII. Tramitar los nombramientos para el ejercicio de la función notarial que 
 
 XIX. Organizar, dirigir y vigilar el ejercicio de la función notarial y ejercer las atribuciones y funciones que sobre esta materia se le confieren al Gobernador en la Ley del Notariado y demás disposiciones vigentes sobre la materia;
 
-XX. Representar al Gobernador en los juicios de amparo, controversias constitucionales y acciones de inconstitucionalidad, así como en todos los procesos contenciosos y no contenciosos en que éste intervenga;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XX. Representar al Gobernador, así como al Gobierno del Estado, en los juicios de amparo, controversias constitucionales, acciones de inconstitucionalidad y aquéllas a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para preservar los intereses del Estado;
 
 XXI. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
 
@@ -1395,9 +1459,15 @@ XXV. Llevar a cabo el procedimiento de legalización y apostilla de documentos;
 
 XXVI. Tramitar ante la legislatura lo relativo al nombramiento, renuncias, licencias de los Magistrados del Tribunal Superior de Justicia del Estado;
 
-XXVII. Ejercer la representación y consultoría jurídica del Gobierno del Estado, intervendrá personalmente en los negocios en que el Estado sea parte, y en las controversias y acciones a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos cuando se vea afectado el interés del Estado o de alguno de los Municipios; o cuando se perjudique el interés público o así lo determinen las leyes; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-XXVIII. Las demás que le asignen las leyes y reglamentos, así como las que, de forma directa, le asigne el Gobernador.
+XXVII. Ejercer la representación legal del Gobierno del Estado e intervenir por sí, o mediante apoderado legal, en todos los asuntos en los que el Estado sea parte, así como la consultoría jurídica para la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XXVIII. En los asuntos del orden penal en los que el Gobierno del Estado sea parte, constituirse en las carpetas de investigación, causa penal, juicio, ejecución o los diversos medios de impugnación que se hagan valer, así como intervenir en las posibles soluciones alternas, procurando salvaguardar los intereses del Estado y obtener el pago de la reparación del daño, y
+
+XXIX. Las demás que le asignen las leyes y reglamentos, así como las que, de forma directa, le asigne el Gobernador.
 
 ###### Artículo 43.
 
@@ -1411,7 +1481,9 @@ II. Normar, definir e implementar el Sistema Estatal de Planeación;
 
 III. Coordinar el proceso de elaboración del Plan Estatal de Desarrollo, en congruencia con el Plan Nacional de Desarrollo, y someterlo a la aprobación del Gobernador;
 
-IV. Presentar, a más tardar el treinta y uno de marzo del año que corresponda, en conjunto con la Secretaría de Infraestructura, el Programa Estatal de Obra Pública.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+IV. Presentar, a más tardar el treinta y uno de marzo del año que corresponda, en conjunto con la Secretaría de Obras Públicas, el Programa Estatal de Obra Pública;
 
 V. Orientar a las Dependencias y Entidades para que sus programas, proyectos y acciones concurran al cumplimiento de los objetivos y metas contenidas en el Plan Estatal de Desarrollo;
 
@@ -1499,7 +1571,7 @@ VI. Régimen Estatal de Protección Social en Salud;
 
 VII. Centro Estatal de Trasplantes de Órganos y Tejidos;
 
-VIII. Instituto Regional del Patrimonio Mundial;
+VIII. (DEROGADA, P.O. 20 DE JUNIO DE 2018)
 
 IX. Instituto de la Defensoría Pública;
 
@@ -1513,7 +1585,7 @@ XIII. Instituto Zacatecano de Educación para Adultos;
 
 XIV. Instituto de Capacitación para el Trabajo;
 
-XV. Instituto Zacatecano de Cultura “Ramón López Velarde”;
+XV. Instituto Zacatecano de Cultura "Ramón López Velarde";
 
 XVI. Instituto Zacatecano de Construcción de Escuelas;
 
@@ -1541,7 +1613,7 @@ XXVII. Instituto Tecnológico Superior de Jerez;
 
 XXVIII. Instituto Tecnológico Superior de Sombrerete;
 
-XXIX. Escuela de Conservación y Restauración de Zacatecas “Refugio Reyes”.
+XXIX. Escuela de Conservación y Restauración de Zacatecas "Refugio Reyes".
 
 XXX. Colegio de Bachilleres del Estado de Zacatecas;
 
@@ -1654,3 +1726,13 @@ P.O. 10 DE ENERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 Artículo Segundo. La Secretaría del Campo del Gobierno del Estado aprobará el Programa Estatal de Suelos, dentro del plazo de 320 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 406.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+Artículo Tercero. Las dependencias cuya denominación y atribuciones fueron modificadas en el presente Decreto deberán actualizar sus Reglamentos Interiores, Manuales de Organización, de Procedimientos y demás normatividad interna, en un plazo que no deberá exceder de sesenta días naturales, contados a partir de la entrada en vigor del presente instrumento legislativo.
