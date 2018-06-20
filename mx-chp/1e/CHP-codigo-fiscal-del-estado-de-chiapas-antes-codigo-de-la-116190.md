@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2018-03-14"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MARZO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -617,23 +615,15 @@ Los contribuyentes, para darse de alta o baja dentro del Registro Estatal de Veh
 
 I. En el cambio de propietario de vehículos, deberán tramitarse la baja de placas y del alta del nuevo registro, dentro de los 15 días hábiles siguientes de haber realizado la operación.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-II. Los propietarios de vehículos están obligados a presentar la baja correspondiente dentro del término de 60 días contados a partir del día siguiente de la determinación por autoridad competente en los siguientes casos:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+II. Los propietarios de vehículos están obligados a presentar la baja correspondiente dentro del término de 60 sesenta días contados a partir del día siguiente de la determinación por autoridad competente en los siguientes casos:
 
 a) Que como resultado de algún accidente sea declarada la pérdida total del vehículo por la Fiscalía General del Estado de Chiapas; por las autoridades homólogas en otras Entidades o por la Procuraduría General de la República.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
 b) Que acredite el robo del vehículo, mediante acta administrativa o documento análogo instrumentado ante la Fiscalía General del Estado de Chiapas; por las autoridades homólogas en otras entidades o por la Procuraduría General de la República.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
 c) Que acredite el robo y/o extravío de las placas de circulación mediante acta administrativa o documento análogo instrumentado por el Ministerio Público competente de la Fiscalía General del Estado de Chiapas o por las autoridades homólogas en otras entidades federativas.
-
-No se podrá realizar la baja de placas en el Estado de aquellos vehículos con placas de circulación de otras Entidades Federativas, a menos que causen alta en el Registro Estatal de Vehículos. Solo podrá otorgarse la baja de placas sin la obligación de dar de alta, cuando se ubiquen en los supuestos establecidos en los incisos a) y b) de esta fracción, cumpliendo con los requisitos que los mismos establecen.
 
 III. Los contribuyentes que adquieran vehículos nuevos o importados, deben inscribirlos en el Registro Estatal de Vehículos dentro del término de quince días hábiles posteriores de haber realizado la compra o importación del vehículo que se trate, de conformidad al artículo 31, fracción VIII, de este Código.
 
@@ -875,21 +865,19 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 #### Sección Segunda. De la Devolución y la Compensación de Contribuciones
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
 ###### Artículo 53.
 
-Las autoridades hacendarías están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución deberá hacerse a petición del interesado, mediante transferencia electrónica para abono en cuenta del contribuyente. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor de quien presentó la declaración del ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firme de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
+Las autoridades hacendarias están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución deberá hacerse a petición del interesado, mediante transferencia electrónica para abono en cuenta del contribuyente. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor de quien presentó la declaración del ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firme de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto queda insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del artículo 54 de este Código.
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de los cuarenta y cinco días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad hacendaría competente con todos los datos, informes y documentos que para tal efecto establezca la Secretaría. El fisco estatal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 43 de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor hasta aquél en que la devolución se efectúe. Si la devolución no se efectuare dentro del indicado plazo de cuarenta y cinco días, las autoridades hacendarías pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos por mora, en los términos del artículo 44 de este Código que se aplicará sobre la devolución actualizada.
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de los cuarenta y cinco días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad hacendaria competente con todos los datos, informes y documentos que para tal efecto establezca la Secretaría. El fisco estatal deberá pagar la devolución que proceda, actualizada conforme a lo previsto en el artículo 43 de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor hasta aquél en que la devolución se efectúe.
 
-Cuando el fisco estatal deba pagar intereses a los contribuyentes sobre las cantidades actualizadas que les deba devolver, pagará dichos intereses conjuntamente con la cantidad principal objeto de la devolución actualizada.
+El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal la devolución de dichas cantidades y el pago de intereses conforme a una tasa que será igual a la prevista para los recargos por mora en los términos del artículo 44 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. En lugar de solicitar la devolución a que se refiere este párrafo, el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
-El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal la devolución de dichas cantidades y el pago de intereses conforme a una tasa que será igual a la prevista para los recargos por mora en los términos del artículo 44 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. La devolución a que se refiere este párrafo se aplicará primero a intereses y, posteriormente, a las cantidades pagadas indebidamente. En lugar de solicitar la devolución a que se refiere este párrafo, el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
-
-En ningún caso los intereses a cargo del fisco estatal excederán del 100 % de la cantidad original de que se trate.
-
-Cuando las autoridades hacendarías procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos de los artículos 44 y 45 de este Código, sobre las cantidades actualizadas tanto por las devueltas indebidamente, como por las de los posibles intereses pagados por las autoridades hacendarías, a partir de la fecha de la devolución.
+Cuando las autoridades hacendarias procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos de los artículos 44 y 45 de este Código, sobre las cantidades actualizadas devueltas indebidamente, a partir de la fecha de la devolución.
 
 Los requerimientos a que se refiere este artículo se formularán por la autoridad hacendaria en documento digital que se notificará al contribuyente a través del buzón tributario, el cual deberá atenderse por los contribuyentes mediante este medio de comunicación.
 
@@ -2805,13 +2793,13 @@ I. De $1,100.00 a $1,500.00 pesos a la comprendida en la fracción I.
 
 II. De $750.00 a $1,100.00 pesos a la comprendida en las fracciones II, V y VI.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-III. De $750.00 a $1,900.00 pesos a la comprendida en las fracciones III y IV.
+III. De $1,500.00 a $1,900.00 pesos a la comprendida en las fracciones III y IV.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
-Con independencia de la sanción pecuniaria antes señalada, y de lo previsto en la fracción IV del artículo 193 del presente Código, se causará de oficio la cancelación, y/o revocación, y/o baja del registro correspondiente a la fecha de detección de la irregularidad por la autoridad hacendaria. Esto último no causará instancia ni será motivo para que las cantidades que tenga pagadas por contribuciones el contribuyente a la fecha de detección y comprobación de la infracción, sean sujetas a devolución o compensación, ya que las mismas únicamente serán consideradas como resarcimiento de daños al erario estatal, situación que se hará constar mediante acta administrativa.
+Con independencia de la sanción pecuniaria señalada, y de lo previsto en la fracción IV del artículo 193 del presente Código, se causará de oficio la cancelación, y/o revocación, y/o baja del registro correspondiente a la fecha de detección de la irregularidad por la autoridad hacendaria. Esto último no causará instancia ni será motivo para que las cantidades que tenga pagadas por contribuciones el contribuyente a la fecha de detección y comprobación de la infracción, sean sujetas a devolución o compensación, ya que las mismas únicamente serán consideradas como resarcimiento de daños al erario estatal, situación que se hará constar mediante acta administrativa.
 
 ###### Artículo 195.
 
@@ -2964,6 +2952,10 @@ IV. De $15,000.00 a $36,500.00 pesos, a lo establecido en las fracciones VII, VI
 V. De $3,700.00 a $7,500.00 pesos, a lo establecido en las fracciones XII y XIII.
 
 VI. De $80.00 a $750.00 pesos, a lo establecido en la fracción XIV, por cada efecto valorado cancelado. En caso de reincidencia se duplicarán las sanciones establecidas en éste párrafo.
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+VII. A quien incurra en el supuesto marcado con la fracción XV se le impondrá una sanción igual a la reparación del daño cometido al Erario Estatal, independientemente de las responsabilidades administrativas o penales.
 
 En caso de reincidencia se duplicarán las sanciones. La imposición de estas multas no libera de las responsabilidades penales o administrativas.
 
@@ -3957,7 +3949,7 @@ El Estado entregará a los municipios un monto equivalente al porcentaje estable
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 295.
 
@@ -4343,63 +4335,55 @@ Las disposiciones del presente libro son de observancia obligatoria para los Org
 
 Para los efectos de este Código se entenderá por:
 
-I. Balance presupuestario: A la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
+I. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas para el Estado de Chiapas o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice.
 
-II. Balance presupuestario de recursos disponibles: A la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
+II. Balance presupuestario: A la diferencia entre los ingresos totales incluidos en la Ley de Ingresos, y los gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
 
-III. Deuda Contingente: A cualquier financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con los Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria.
+III. Balance presupuestario de recursos disponibles: A la diferencia entre los ingresos de libre disposición, incluidos en la Ley de Ingresos, más el financiamiento neto y los gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+IV. Deuda Contingente: A cualquier financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con los municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y por los propios municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria.
 
-IV. Deuda Pública: A cualquier financiamiento contratado por los Organismos Públicos.
+V. Deuda Pública: A cualquier financiamiento contratado por los Organismos Públicos.
 
-V. Disciplina Financiera: A la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Organismos Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero.
+VI. Disciplina Financiera: A la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los Organismos Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero.
 
-VI. Financiamiento: A toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Organismos Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente.
+VII. Disponibilidades: A los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las transferencias federales etiquetadas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+VIII. Financiamiento: A toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Organismos Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente.
 
-VII. Financiamiento Neto: A la diferencia entre las disposiciones realizadas de un financiamiento y las amortizaciones efectuadas de la deuda pública.
+IX. Financiamiento Neto: A la suma de las disposiciones realizadas de un financiamiento, y las disponibilidades, menos las amortizaciones efectuadas de la Deuda Pública.
 
-VIII. Gasto corriente: A las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos.
+X. Gasto corriente: A las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos.
 
-IX. Gasto etiquetado: A las erogaciones que realizan los Organismos Públicos con cargo a las transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado con un destino específico.
+XI. Gasto etiquetado: A las erogaciones que realizan los Organismos Públicos con cargo a las transferencias federales etiquetadas. En el caso de los municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado con un destino específico.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+XII. Gasto no etiquetado: A las erogaciones que realizan los Organismos Públicos con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico.
 
-X. Gasto no etiquetado: A las erogaciones que realizan los Organismos Públicos con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico.
+XIII. Gasto total: A la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto.
 
-XI. Gasto total: A la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto.
+XIV. Ingresos de libre disposición: A los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico.
 
-XII. Ingresos de libre disposición: A los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas, en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico.
+XV. Ingresos excedentes: A los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos.
 
-XIII. Ingresos excedentes: A los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos.
+XVI. Ingresos locales: Aquellos percibidos por el Estado y los municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+XVII. Ingresos totales: A la totalidad de los Ingresos de libre disposición, las transferencias federales etiquetadas y el Financiamiento Neto.
 
-XIV. Ingresos locales: Aquellos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables.
+XVIII. Inversión pública productiva: A toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (I) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (II) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto del gasto emitido por el Consejo Nacional de Armonización Contable, o (III) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto del gasto emitido por el Consejo Nacional de Armonización Contable.
 
-XV. Ingresos totales: A la totalidad de los Ingresos de libre disposición, las Transferencias federales etiquetadas y el Financiamiento Neto.
+XIX. Obligaciones: A los compromisos de pago a cargo de los Organismos Públicos, derivados de financiamientos y de las Asociaciones Público-Privadas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+XX. Obligaciones a corto plazo: A cualquier obligación contratada con instituciones financieras a un plazo menor o igual a un año.
 
-XVI. Inversión pública productiva: A toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (I) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (II) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto del gasto emitido por el Consejo Nacional de Armonización Contable, o (III) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto del gasto emitido por el Consejo Nacional de Armonización Contable.
+XXI. Organismos Públicos del Ejecutivo: A las Dependencias y sus Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo, que tengan o administren un patrimonio o presupuesto formado con recursos o bienes del erario estatal.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+XXII. Organismos Públicos: A los Poderes Legislativo, Ejecutivo y Judicial; Organismos Autónomos y municipios del Estado, que tengan o administren un patrimonio o presupuesto formado con recursos o bienes del erario estatal.
 
-XVII. Obligaciones: A los compromisos de pago a cargo de los Organismos Públicos, derivados de financiamientos y de las Asociaciones Público-Privadas.
+XXIII. Percepciones extraordinarias: A los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social.
 
-XVIII. Obligaciones a corto plazo: A cualquier obligación contratada con instituciones financieras a un plazo menor o igual a un año.
+XXIV. Percepciones ordinarias: A los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular, como contraprestación por el desempeño de sus labores cotidianas en los Organismos Públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal.
 
-XIX. Organismos Públicos del Ejecutivo: A las Dependencias y sus Órganos Desconcentrados, Entidades y Unidades del Poder Ejecutivo, que tengan o administren un patrimonio o presupuesto formado con recursos o bienes del erario estatal.
-
-XX. Organismos Públicos: A los Poderes Legislativo, Ejecutivo y Judicial; Organismos Autónomos y Municipios del Estado, que tengan o administren un patrimonio o presupuesto formado con recursos o bienes del erario estatal.
-
-XXI. Percepciones extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social.
-
-XXII. Percepciones ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular, como contraprestación por el desempeño de sus labores cotidianas en los Organismos Públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal.
-
-XXIII. Transferencias federales etiquetadas: Los recursos que reciben de la Federación el Estado y los Municipios, destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
+XXV. Transferencias federales etiquetadas: A los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
 
 Cuando se haga mención a Organismos Públicos, se referirá al concepto de Entes Públicos que señala la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
@@ -4499,13 +4483,15 @@ Registrar y erogar vía presupuesto los recursos de cualquier fuente de financia
 
 Los Organismos Públicos en el ejercicio de su presupuesto, deben implementar medidas de austeridad y racionalidad del gasto, sin afectar el cumplimiento de los objetivos y metas de los proyectos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 341.
 
-Todos los ingresos a que hacen referencia los artículos 6º, 7º, 8º, 359 y 368 de este Código, sustentan el Presupuesto de Egresos del Estado, de haber excedentes a lo aprobado, se deberán aplicar de conformidad a lo establecido en el artículo 359 del mismo.
+Todos los ingresos a que hacen referencia los artículos 6, 7, 8, 359 y 368 de este Código, sustentan el Presupuesto de Egresos del Estado, de haber excedentes a lo aprobado, se deberán aplicar de conformidad a lo establecido en el artículo 359 del mismo.
 
-Las Entidades Paraestatales deben concentrar sus ingresos propios en la Tesorería Única, o en las áreas de recaudación de ingresos, y los administrarán previa autorización de su Órgano de Gobierno, conforme lo dispone la Ley de Entidades Paraestatales del Estado de Chiapas.
+Las entidades paraestatales deben concentrar sus ingresos propios en la Tesorería Única, y los administrarán previa autorización de su Órgano de Gobierno, conforme lo dispone el artículo 13 de la Ley de Entidades Paraestatales del Estado de Chiapas.
+
+Cuando las entidades paraestatales deban suscribir con la Federación a través de sus órganos administrativos competentes, diversos instrumentos jurídicos para la asignación de recursos presupuestarios anuales para su operación, los cuales implique aportación de recursos estatales que no se encuentren contenidos en su totalidad dentro en el (sic) Presupuesto de Egresos aprobado por el Congreso del Estado del ejercicio correspondiente, podrán suscribir convenio con la Secretaría para la transferencia de recursos propios con la finalidad de que estos sean aportados para tal fin.
 
 Para efectos de armonización presupuestaria, financiera y contable, conforme a la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás ordenamientos en la materia, los Organismos Públicos deben registrar en los sistemas computarizados para este fin, todos los ingresos y gastos de que dispongan para satisfacer los objetivos a los que estén destinados.
 
@@ -4529,9 +4515,9 @@ Lo anterior no será aplicable al Poder Judicial, quien conforme a lo dispuesto 
 
 El Presupuesto de Egresos de los Poderes Ejecutivo, Legislativo, así como el de los Organismos Autónomos, se presenta por ejercicio fiscal a iniciativa del Gobernador del Estado. Para el caso del Poder Judicial, el proyecto de Presupuesto de Egresos será presentado al Congreso del Estado, en términos de lo dispuesto en las fracciones I, II, III, IV y V del artículo 349 de éste Código y demás disposiciones vigentes. En ambos casos, será examinado, discutido y aprobado por el Congreso del Estado, para su aplicación durante el periodo de un año, a partir del primero de enero.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
-La iniciativa de Ley de Ingresos, la iniciativa del Presupuesto de Egresos, y demás documentos que dispongan los ordenamientos legales, deberán publicarse en la respectiva página de Internet.
+La iniciativa de Ley de Ingresos, el Proyecto de Presupuesto de Egresos, el Decreto de Presupuesto de Egresos y demás documentos que dispongan los ordenamientos legales, deberán publicarse en la respectiva página de Internet.
 
 Los calendarios de gasto autorizados se comunicarán oficialmente:
 
@@ -4575,7 +4561,7 @@ El Presupuesto de Egresos comprenderá las previsiones de gasto público que hab
 
 El Presupuesto de Egresos deberá prever recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, para lo cual deberá observar lo establecido en los artículos nueve y quinto transitorio (sic) de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 349.
 
@@ -4609,17 +4595,17 @@ XII. Situación de la deuda pública y estimado de la que se tendrá al final de
 
 XIII. Solicitud de endeudamiento neto para el ejercicio fiscal siguiente y el programa financiero respectivo, en estricto apego a las disposiciones jurídicas y normativas aplicables.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
 XIV. Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios, y en su caso, previsiones para personal eventual, pensiones, gastos de operación, incluyendo gastos en comunicación social, y gasto de inversión; así como gastos correspondientes a compromisos plurianuales, proyectos de asociaciones público privadas, entre otros.
 
 XV. El listado de programas, así como sus indicadores estratégicos y de gestión aprobados.
 
 XVI. La aplicación de los recursos conforme a las clasificaciones: administrativa, funcional, programática, económica, y en su caso, geográfica; así como las interrelaciones que faciliten el análisis para valorar la eficiencia y eficacia en el uso y destino de los recursos y sus resultados.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
 La Ley de Ingresos y el Presupuesto de Egresos del Estado deberán ser congruentes con los Criterios Generales de Política Económica y, las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan, no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+En los casos de que el Congreso del Estado apruebe la Ley de Ingreso y Presupuestos de Egresos, después de la publicación de la Ley de Ingresos de la Federación y el Presupuesto de Egresos de la Federación, las estimaciones de participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la Ley de Ingresos de la Federación y en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+Para aquellas transferencias federales etiquetadas, cuya distribución por Entidad Federativa no se encuentre disponible en el Presupuesto de Egresos de la Federación, el Poder Ejecutivo del Estado a través de la Secretaría podrá realizar una estimación con base en los Criterios Generales de Política Económica, el monto nacional y la distribución realizada en ejercicios fiscales anteriores.
 
 El gasto total propuesto por el Ejecutivo del Estado en el proyecto de Presupuesto de Egresos, aquél que apruebe el Congreso del Estado y el que se ejerza en el año fiscal, deberá contribuir a un Balance Presupuestario Sostenible.
 
@@ -4641,17 +4627,13 @@ c) El número de ejercicios fiscales y las acciones requeridas para que dicho ba
 
 El Ejecutivo del Estado, a través de la Secretaría, reportará en informes trimestrales y en la cuenta pública que entregue al Congreso del Estado y a través de la página oficial de internet, el avance de las acciones hasta en tanto se recupere el presupuesto sostenible de recursos disponibles.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
-En caso de que el Congreso del Estado modifique la Ley de Ingresos y el Presupuesto de Egresos del Estado, de tal manera que genere un balance presupuestario de recursos disponibles negativo, deberá motivar su decisión sujetándose a los incisos a) y b) de este artículo. A partir de la aprobación del balance presupuestario de recursos disponibles negativo a que se refiere este párrafo, el Ejecutivo del Estado deberá dar cumplimiento a lo previsto en el inciso c) ya (sic) lo establecido en el párrafo anterior.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+En caso de que el Congreso del Estado modifique la Ley de Ingresos y el Presupuesto de Egresos del Estado, de tal manera que genere un balance presupuestario de recursos disponibles negativo, deberá motivar su decisión sujetándose a los incisos a) y b) de este artículo. A partir de la aprobación del balance presupuestario de recursos disponibles negativo a que se refiere este párrafo, el Ejecutivo del Estado deberá dar cumplimiento a lo previsto en el inciso c) y a lo establecido en el párrafo anterior.
 
 Los Organismos Públicos deberán considerar en sus correspondientes presupuestos de egresos, las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de Asociación Público-Privada celebrados o por celebrarse durante el siguiente ejercicio fiscal.
 
-Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos para el año 2017, será del 5 %; para el año 2018 el 4%; para el año 2019 el 3%; y a partir del año 2020 podrán ser hasta por el 2% de los ingresos totales del Estado.
+Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos para el año 2017 será del 5%; para el año 2018 el 4%; para el año 2019 el 3%; y a partir del año 2020 podrán ser hasta por el 2% de los ingresos totales del Estado.
 
-En el proceso de integración de la información financiera para la elaboración de los presupuestos, se deberán incorporar los resultados que se deriven de los procesos de implantación y operación del Presupuesto basado en Resultados y del Sistema de Evaluación del Desempeño, establecidos en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+En el proceso de integración de la información financiera para la elaboración de los presupuestos, se deberán incorporar los resultados que se deriven de los procesos de implantación y operación del Presupuesto Basado en Resultados y del Sistema de Evaluación del Desempeño, establecidos en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En relación a las fracciones XIV, XV y XVI del presente artículo, el CONAC establecerá las normas, metodologías, clasificadores y los formatos con la estructura y contenido de la información, para armonizar la elaboración y presentación de los documentos señalados.
 
@@ -4695,11 +4677,15 @@ III. Gastos en servicios personales, prioritariamente las erogaciones por concep
 
 En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
+
+Artículo 349 C.- El Ejecutivo del Estado por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que se sometan a consideración del Congreso del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que emita el Ejecutivo del Estado que impliquen costos para su implementación.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Artículo 349 C.- El Ejecutivo del Estado por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas que se sometan a consideración del Congreso del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación.
-
 Toda Iniciativa que sea sometida a votación del Pleno del Congreso del Estado, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 La aprobación y ejecución de nuevas obligaciones financieras, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual se sujetarán a la capacidad financiera del Estado.
 
@@ -4773,9 +4759,9 @@ IV. Desglosen el gasto a precios del ejercicio fiscal presente, proyectando los 
 
 V. Validación del Organismo Público normativo y en su caso del Órgano de Gobierno.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
-Los Organismos Públicos podrán celebrar contratos de asociación público privadas en que su vigencia rebase el ejercicio fiscal, en términos de la Ley de Asociaciones Público Privadas para el Estado de Chiapas, en cuyo caso, los presupuestos de los ejercicios subsecuentes considerarán los costos que en su momento se encuentren vigentes o los que se pacten en el contrato y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores con motivo de los contratos de proyectos de prestación de servicios celebrados.
+Los Organismos Públicos podrán celebrar contratos de Asociación Público-Privada en que su vigencia rebase el ejercicio fiscal en términos de la Ley de Asociaciones Público Privadas para el Estado de Chiapas en cuyo caso, los presupuestos de los ejercicios subsecuentes considerarán los costos que en su momento se encuentren vigentes o los que se pacten en el contrato y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores con motivo de los contratos celebrados.
 
 ###### Artículo 357.
 
@@ -4799,17 +4785,13 @@ La Unidad Responsable de Apoyo 3 1 1 1 001 0 Municipios, generará los registros
 
 La Unidad Responsable de Apoyo 2 1 1 1 170 0 Obligaciones, generará los registros presupuestarios y contables por los montos del Impuesto Sobre Nóminas que el área correspondiente informe y por la ministración que se autorice; el ejercicio de los recursos de esta Unidad, es responsabilidad directa de quienes ejerzan el gasto público, en el marco del Fideicomiso Irrevocable Emisor de Administración y Pago No. 635; por lo tanto, la guarda y custodia de la documentación comprobatoria, es responsabilidad del Fideicomiso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 359.
 
 El Gobernador del Estado, por conducto de la Secretaría, debe incrementar el Presupuesto de Egresos, en razón de los recursos que se obtengan como excedentes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
-
 I. De los previstos en la Ley de Ingresos del Estado de Chiapas para el ejercicio fiscal que corresponda.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 II. De los ahorros, economías y remanentes del ejercicio fiscal inmediato anterior.
 
@@ -4817,7 +4799,11 @@ III. Los remanentes de las aportaciones a los fideicomisos para la Instrumentaci
 
 Los ingresos excedentes derivados de ingresos de libre disposición, deberán ser destinados a los siguientes conceptos:
 
-a) Por lo menos el 50 por ciento para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para la atención de desastres naturales y de pensiones.
+a) Para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, así como el pago de sentencias definitivas emitidas por la autoridad competente, la aportación a fondos para desastres naturales y de pensiones, conforme a lo siguiente:
+
+a.1 Cuando el Estado se clasifique en un nivel de endeudamiento elevado, de acuerdo al Sistema de Alertas, cuando menos el 50 por ciento.
+
+a.2 Cuando el Estado se clasifique en un nivel de endeudamiento en observación, de acuerdo al Sistema de Alertas, cuando menos el 30 por ciento.
 
 Los ingresos excedentes derivados de ingresos de libre disposición, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios hasta el ejercicio fiscal 2022.
 
@@ -4829,9 +4815,13 @@ b.2 La creación de un fondo cuyo objetivo sea compensar la caída de ingresos d
 
 Los ingresos excedentes derivados de ingresos de libre disposición, podrán destinarse a los rubros mencionados en el presente artículo, sin limitación alguna, siempre y cuando se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas.
 
-Toda propuesta de aumento o creación de gasto del Presupuesto de Egresos, deberá acompañarse con la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
+Cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, a partir del ejercicio fiscal 2019 se podrá utilizar hasta un 5 por ciento de los recursos de Ingresos excedentes derivados de ingresos de libre disposición para cubrir gasto corriente.
 
-No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a ingresos excedentes. El Ejecutivo deberá revelar en la cuenta pública y en los informes que periódicamente entregue al Congreso del Estado, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
+Tratándose de Ingresos de libre disposición que se encuentren destinados a un fin específico en términos de las leyes, no resultarán aplicables las disposiciones establecidas en el párrafo segundo, incisos a) y b) y los párrafos tercero y cuarto del presente artículo.
+
+Toda propuesta de aumento o creación de gasto del Presupuesto de Egresos, deberá acompañarse con la correspondiente fuente de ingresos distinta al financiamiento, o compensarse con reducciones en otras previsiones de gasto.
+
+No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a ingresos excedentes. El Ejecutivo deberá revelar en la cuenta pública y en los informes que periódicamente entregue al Congreso del Estado, la fuente de ingresos con la que; se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.
 
 Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto debe sujetarse a lo dispuesto por el Título Tercero del presente Libro, el Decreto de Presupuesto de Egresos del Estado para el ejercicio fiscal correspondiente, y demás normatividad vigente; en este sentido la Secretaría está facultada para autorizar las adecuaciones presupuestarias cuando éstas sean procedentes.
 
@@ -4889,7 +4879,9 @@ I. No envíen la información que les sea requerida, entre otras, en relación c
 
 II. Del análisis del ejercicio de su presupuesto y en el desarrollo de sus programas, resulte que no cumplan con los objetivos, indicadores y metas de los programas y proyectos autorizados o bien se detecten desviaciones en su ejecución o aplicación de los recursos correspondientes.
 
-III. En el ejercicio de recursos a través de transferencias, subsidios y ayudas no remitan la información financiera, presupuestaria, funcional y de cualquier otra índole en los términos y fechas establecidos en la normatividad correspondiente.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+III. En el ejercicio de recursos a través de transferencias, subsidios y ayudas no remitan la información financiera, presupuestaria, contable, funcional y de cualquier otra índole en los términos y fechas establecidos en la normatividad correspondiente.
 
 IV. En el manejo de sus disponibilidades financieras, no cumplan con las disposiciones generales que la Secretaría emita.
 
@@ -4931,7 +4923,9 @@ La Secretaría y la Secretaría de la Contraloría General podrán suscribir con
 
 Cuando en un programa o proyecto financiados con ingresos estatales, ingresos propios y participaciones, existan recursos presupuestarios no ejercidos -ahorros presupuestarios- y hayan dado cumplimiento a los indicadores y metas, los Organismos Públicos, deben enviar a la Secretaría, las reducciones presupuestarias correspondientes y en su caso los reintegros; si los Organismos Públicos no realizan las reducciones, la Secretaría quedará facultada para efectuarlos.
 
-Tratándose de proyectos de inversión los recursos remanentes obtenidos en las licitaciones deben ser reintegrados a la Secretaría, a más tardar dentro de los 15 días naturales siguientes posteriores a la contratación de los proyectos. Asimismo, los Organismos Públicos deben elaborar y presentar la reducción de los recursos no liberados, a más tardar 10 días, posteriores a la contratación de los proyectos.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+Tratándose de proyectos de inversión, los recursos remanentes obtenidos en las licitaciones deben ser reintegrados a la Secretaría a más tardar dentro de los 15 días naturales siguientes posteriores a la contratación de los proyectos. Asimismo, los Organismos Públicos deben elaborar la reducción de los recursos no liberados, debiendo presentar en el mismo plazo la adecuación presupuestaria correspondiente.
 
 Queda prohibido realizar erogaciones adicionales a las autorizadas, con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos.
 
@@ -4969,7 +4963,7 @@ El Gobernador del Estado, al presentar al Congreso del Estado la Cuenta Pública
 
 Se faculta a la Secretaría para realizar las adecuaciones presupuestarias necesarias, considerando el ejercicio y la disponibilidad de recursos de acuerdo a los requerimientos, siempre que permitan un mejor cumplimiento de objetivos, indicadores, y metas de los programas y proyectos. Dichas adecuaciones comprenden las modificaciones a las asignaciones y estructura de la clave presupuestaria, y a los calendarios de gasto. Asimismo, podrá determinar reducciones, diferimientos o cancelaciones de programas, proyectos y conceptos de gasto de los Organismos Públicos del Ejecutivo, cuando exista subejercicio sin causa justificada, represente la posibilidad de obtener ahorros en función de la productividad y eficiencia de las mismas, dejen de cumplir sus propósitos, en el caso de situaciones supervenientes, entre otras. En todo momento, se respetará el presupuesto de programas y proyectos prioritarios y en especial los destinados al bienestar social.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 370.
 
@@ -4979,7 +4973,7 @@ El ejercicio de los recursos por los conceptos antes citados, queda bajo la resp
 
 La contratación deberá efectuarse en los términos que disponen las leyes relativas a la obra pública, a las adquisiciones, y a los de asociación público privada, así como el Decreto de Presupuesto de Egresos para el ejercicio fiscal que corresponda y demás disposiciones legales aplicables.
 
-Los compromisos excedentes no cubiertos y los contratos que rebasen un ejercicio fiscal que se autoricen en los términos del artículo 356 de este Código, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestaria de los años subsecuentes y se hará mención al presentar el proyecto de Presupuesto de Egresos al Congreso del Estado, además se deberá observar lo establecido en el artículo 355, tercer párrafo de este Código, con excepción de los de asociación público privada que se rigen por la Ley de Asociaciones Público Privadas para el Estado de Chiapas, en cuyo caso, en la formulación de los presupuestos de los ejercicios subsecuentes se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
+Los contratos que rebasen un ejercicio fiscal que se autoricen en los términos del artículo 356 de este Código, quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestaria de los años subsecuentes y se hará mención al presentar el Proyecto de Presupuesto de Egresos al Congreso del Estado, además se deberá observar lo establecido en el artículo 355, tercer párrafo de este Código, con excepción a lo referente a los contratos de Asociación Público-Privada que se rigen por la Ley de Asociaciones Público Privadas para el Estado de Chiapas en cuyo caso, en la formulación de los presupuestos de los ejercicios subsecuentes se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
 
 Los compromisos plurianuales derivados de los contratos de asociación público privada, tendrán preferencia respecto a otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual; además se debe observar lo establecido en el artículo 355 de este Código.
 
@@ -5103,11 +5097,11 @@ El derecho para exigir el pago de sueldos, sobresueldos, salarios, honorarios, p
 
 La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
 ###### Artículo 382.
 
-La Secretaría a través de la Coordinación General de Recursos Humanos será la responsable de dictaminar creación y modificación de las estructuras orgánicas y plantillas de plazas de proyectos institucionales y de inversión, de los Organismos Públicos del Ejecutivo, quienes deben solicitar ante la Secretaría, previo dictamen de procedencia, la suficiencia presupuestaria correspondiente, cuya autorización estará sujeta a la disponibilidad de recursos.
+La Secretaría a través de la Coordinación General de Recursos Humanos, será la responsable de dictaminar la creación y modificación de las estructuras orgánicas y plantillas de plazas de proyectos institucionales y de inversión, de los Organismos Públicos del Ejecutivo, quienes deben solicitar ante la Secretaría, previo dictamen de procedencia, la suficiencia presupuestaria correspondiente, cuya autorización estará sujeta a la disponibilidad de recursos.
 
 La solicitud de dictamen de creación y/o modificación de órganos y plazas, estará sujeta a las disposiciones que emita la Secretaría.
 
@@ -5183,7 +5177,9 @@ I. Sólo podrán comprometer recursos con cargo al presupuesto autorizado, conta
 
 II. Podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los ingresos excedentes que obtengan y con la autorización previa de la Secretaría.
 
-III. Con anterioridad al ejercicio o contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+III. Con anterioridad al ejercicio o la contratación de cualquier programa o proyecto de inversión cuyo monto rebase el equivalente a 10 millones de Unidades de Inversión, deberá realizarse un análisis costo y beneficio, en el que se demuestre que dichos programas y proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil. De igual forma, no se requerirá realizar un análisis costo y beneficio, cuando el gasto de inversión se destine a la atención prioritaria de desastres naturales y sea financiado con ingresos de libre disposición.
 
 Para los propósitos señalados en el párrafo anterior, se deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de inversión pública productiva. El área encargada de evaluar deberá operar a más tardar el primero de enero del año dos mil dieciocho.
 
@@ -5202,6 +5198,10 @@ VI. En materia de subsidios se deberá identificar la población objetivo, el pr
 La información señalada en el párrafo anterior deberá hacerse pública a través de las páginas de internet de los Organismos Públicos.
 
 VII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. En el caso de las Transferencias federales etiquetadas, se estará a lo dispuesto en el artículo 389 de este Código.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+Artículo 389 B.- Los Organismos Públicos que cuenten con disponibilidades de recursos federales destinados a un fin específico previsto en ley, en reglas de operación, convenios o instrumentos jurídicos, correspondientes a ejercicios fiscales anteriores al 2017, que no hayan sido devengados conforme a los calendarios respectivos, deberán enterarlos a la Tesorería de la Federación, incluyendo los rendimientos financieros que hubieran generado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -5267,7 +5267,9 @@ Los Organismos Públicos son responsables del contenido cualitativo y cuantitati
 
 Los Organismos Públicos, ejercerán los recursos de los programas y proyectos de inversión, dentro de los límites del presupuesto y calendario autorizado; de requerirlo la Secretaría autorizará modificaciones a su presupuesto, previa validación que seemita (sic).
 
-La Secretaría podrá asignar recursos a los municipios, mediante mecanismos formales de coordinación o convenios; los Ayuntamientos respectivos asumirán el compromiso y la responsabilidad de la aplicación de los recursos que se les proporcionen, en los términos de las disposiciones aplicables, obligándose a presentar informes trimestrales e informe de cierre del ejercicio fiscal. La Secretaría considerará como comprobante de la aplicación de los recursos a los Municipios, el recibo oficial de ingresos que expidan los Ayuntamientos respectivos. Estos últimos asumirán el compromiso de proporcionar o presentar a las instituciones de control y de fiscalización, tanto federales como locales, la información y documentación comprobatoria de la aplicación definitiva de los recursos.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+La Secretaría podrá asignar recursos a los municipios mediante la formalización de diversos instrumentos jurídicos, estos recursos deberán ser reintegrados a la Secretaría a través de los mecanismos que esta última determine. Los municipios asumirán el compromiso y la responsabilidad de la aplicación de los recursos que se les proporcionen, en los términos de las disposiciones aplicables. La Secretaría considerará como comprobante el recibo oficial de ingresos correspondiente que expida el Municipio. Estos últimos asumirán el compromiso de proporcionar o presentar ante las instituciones de control y fiscalización, tanto federales como locales, la información y documentación comprobatoria de la aplicación definitiva de los recursos.
 
 En los casos en que se determine que los recursos no fueron aplicados para los fines asignados, el Ayuntamiento está obligado a reintegrarlos.
 
@@ -6322,3 +6324,11 @@ Artículo Primero.- El presente Decreto entrará en vigor el día primero de ene
 Artículo Segundo.- No será aplicable para el ejercicio fiscal dos mil dieciocho, lo dispuesto en el artículo 385 A del Código de la Hacienda Pública para el Estado de Chiapas, en la asignación de recursos para servicios personales relacionados con atención de desastres naturales, en observancia a lo dispuesto en el Artículo Décimo Octavo Transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal dos mil dieciocho.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 225 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
