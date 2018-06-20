@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2018-03-23"
+last_updated: "2018-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "ROO"
 ---
 # LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 127 QUE EXPIDE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2012, SE DEROGA EN LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.]</small>
-
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -853,11 +851,13 @@ i) Decretar la cancelación de las concesiones de servicios públicos que hayan 
 
 j) Prever las disposiciones necesarias para implementar la conexión gratuita a internet en los parques urbanos.
 
-IV. En Materia de Hacienda Pública Municipal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+IV. En materia de Hacienda Pública Municipal:
 
-a) Presentar, a más tardar el 15 de noviembre de cada año, ante la Legislatura del Estado, la Iniciativa de Ley de Ingresos del Municipio, para su respectiva aprobación;
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+a) Presentar, a más tardar el 20 de noviembre de cada año, ante la Legislatura del Estado, la Iniciativa de Ley de Ingresos del Municipio, para su respectiva aprobación.
 
 b) Aprobar el presupuesto de egresos para el ejercicio fiscal correspondiente con base en los ingresos disponibles, asimismo autorizar la ampliación, transferencia y supresión de partidas del presupuesto de egresos;
 
@@ -875,7 +875,9 @@ g) Dictar normas para la administración del Patrimonio Municipal;
 
 h) Autorizar al o la Presidente/a Municipal, a que solicite a la Legislatura del Estado, la aprobación para contraer obligaciones o contratar y obtener empréstitos, de conformidad con lo estipulado en la Ley de Deuda Pública del Estado, los que en todo caso deberán destinarse a inversiones públicas productivas;
 
-i) Proponer a la Legislatura Estatal, a más tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente;
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+i) Proponer a la Legislatura Estatal, a más tardar el 20 de noviembre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad Inmobiliaria, en el ejercicio fiscal inmediato siguiente.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -1007,6 +1009,10 @@ XIII. Para la Igualdad de Género.
 
 XIV. De Desarrollo Familiar y Grupos Vulnerables.
 
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2018)</small>
+
+XV. Para el Desarrollo Juvenil.
+
 ###### ARTÍCULO 73.
 
 Las Comisiones especiales serán aquellas que se integren transitoria o permanentemente para atender los asuntos protocolarios, de investigación, o consulta, y su duración será el tiempo que requiera el asunto para las que fueron constituidas.
@@ -1040,6 +1046,10 @@ Las Comisiones se integran en forma plural y proporcional, atendiendo a la confo
 ###### ARTÍCULO 79.
 
 Las Comisiones estarán integradas con al menos tres integrantes del Ayuntamiento, que actuarán en forma colegiada, de los cuales uno será el o la Presidente/a, Secretario/a y Vocal.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2018)</small>
+
+La Comisión Ordinaria para el desarrollo Juvenil, deberá ser presidida por el miembro del Ayuntamiento que haya resultado electo por la fórmula de candidato joven.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1939,7 +1949,7 @@ XVII. Las demás, que señale la Ley del Servicio Público de Carrera del Estado
 
 TER. Para el cumplimiento de los propósitos señalados en el artículo anterior, los Municipios por medio del Comité Técnico que señala el artículo 19 de la Ley del Servicio Público de Carrera del Estado de Quintana Roo, coadyuvarán activamente en la elaboración de:
 
-l. El catálogo que defina los perfiles, niveles y puntuación de los puestos comprendidos en el Sistema del Servicio Público de Carrera;
+I. El catálogo que defina los perfiles, niveles y puntuación de los puestos comprendidos en el Sistema del Servicio Público de Carrera;
 
 II. Un estatuto del personal;
 
@@ -1959,7 +1969,7 @@ El Servicio Público de Carrera Municipal, se implementará, en estricto apego a
 
 QUÁTER.- El Comité Técnico que señala el artículo 19 de la Ley del Servicio Público de Carrera del Estado de Quintana Roo, encargado de la operación e implementación del servicio público de carrera municipal, además de las atribuciones conferidas en la Ley del Servicio Público de Carrera del Estado de Quintana Roo, tendrá las siguientes funciones:
 
-l. Promover ante las dependencias y unidades de la administración pública municipal, la realización de los programas específicos del servicio público de carrera municipal;
+I. Promover ante las dependencias y unidades de la administración pública municipal, la realización de los programas específicos del servicio público de carrera municipal;
 
 II. Promover mecanismos de coordinación y participación permanente entre las dependencias y unidades de la administración pública municipal, para uniformar y sistematizar los métodos encaminados a instrumentar el servicio público de carrera municipal;
 
@@ -2455,7 +2465,7 @@ Este capítulo regula los órganos de representación ciudadana con el propósit
 
 Los Ayuntamientos, con el fin mencionado en el artículo anterior, deberán establecer los siguientes órganos de representación ciudadana:
 
-l. Consejo consultivo ciudadano;
+I. Consejo consultivo ciudadano;
 
 II. Comités ciudadanos, y
 
@@ -2715,13 +2725,15 @@ Los Municipios administrarán libremente su hacienda conforme a las siguientes b
 
 I. Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos o bien por quien ellos autoricen, conforme a la Ley.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-II. La Legislatura del Estado discutirá y aprobará, en su caso, las leyes de ingresos de cada Municipio, conforme a la iniciativa que a más tardar el 15 de noviembre de cada año envíe cada uno de ellos, en los términos de la Constitución Política del Estado y de la Ley de Hacienda que al efecto se expida.
+II. La Legislatura del Estado discutirá y aprobará, en su caso, las Leyes de Ingresos de cada Municipio, conforme a la iniciativa que a más tardar el 20 de noviembre de cada año envíe cada uno de ellos, en los términos de la Constitución Política del Estado y de la Ley de Hacienda que al efecto se expida.
 
-III. Los Ayuntamientos propondrán a la Legislatura del Estado, a mas tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2018)</small>
 
-IV.- En todo caso los municipios percibirán:
+III. Los Ayuntamientos propondrán a la Legislatura del Estado, a más tardar el 20 de noviembre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente.
+
+IV. En todo caso los municipios percibirán:
 
 a) Las contribuciones, incluyendo tasas adicionales, que establezca la Legislatura del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
@@ -3354,3 +3366,23 @@ TERCERO. En un plazo no mayor a ciento ochenta días naturales siguientes a la e
 Asimismo, en el plazo señalado, deberán instalarse los consejos consultivos ciudadanos y los comités de vecinos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 187, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, Y DE LA LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO”.]
+
+P.O. 20 DE JUNIO DE 2018.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 247 POR EL QUE SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 72 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 79, AMBOS DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Honorables Ayuntamientos de los Municipios del Estado de Quintana Roo, deberán integrar la Comisión para el Desarrollo Juvenil, en los treinta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Para el caso de que algún Ayuntamiento, cuenten (sic) con alguna Comisión en materia de Juventud, deberán analizar, en el mismo plazo, las modificaciones respectivas a su denominación de conformidad al presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
