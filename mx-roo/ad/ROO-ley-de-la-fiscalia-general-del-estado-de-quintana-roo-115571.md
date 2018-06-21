@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-fiscalia-general-del-estado-de-quintana-roo-115571"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-05"
-last_updated: "2017-12-29"
+last_updated: "2018-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 5 de julio de 2016.
 
@@ -464,6 +464,28 @@ XXVIII. Presentar ante los Poderes Ejecutivo y Legislativo del Estado un informe
 XXIX. Desarrollar las actividades específicas que se le asignen como integrante del Sistema Nacional y el Consejo Estatal de Seguridad Pública, para el cumplimiento de sus fines, y
 
 XXX. Las demás contenidas en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2018)</small>
+
+###### Artículo 10 Bis.
+
+El Fiscal General del Estado tiene la obligación de presentar anualmente a la Legislatura en funciones, un informe de actividades. Para ello deberá comparecer ante la Comisión de Justicia de la Legislatura a entregar por escrito el informe y exponer su contenido. Dicho informe se deberá presentar en el mes de febrero de cada año y será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo y demás disposiciones aplicables en la materia. A la par deberá remitir por escrito un ejemplar de dicho informe anual al titular del Poder Ejecutivo del Estado.
+
+Los informes anuales del Fiscal General comprenderán por lo menos:
+
+I. La descripción de las actividades que en ejercicio de sus funciones de Ministerio Público y de Procuración de Justicia ha llevado a cabo la Fiscalía General de Justicia del Estado;
+
+II. La estadística que compare los resultados en cuanto a vinculaciones a proceso obtenidas en comparación con las sentencias condenatorias igualmente obtenidas;
+
+III. La manera en que se ha ejercido el presupuesto asignado a la fiscalía.
+
+IV. Políticas integrales, sistemáticas, continuas y evaluables implementadas para optimizar recursos humanos y financieros, así como sus indicadores de resultados respectivos;
+
+V. Informe sobre el ejercicio y la administración de los fondos que le competan, incluyendo el Fondo para el Mejoramiento de la Procuración de Justicia;
+
+VI. La información relevante en cuanto a casos de especial trascendencia para la sociedad quintanarroense, señalando resultados obtenidos. Lo anterior será informado de manera que no cause perjuicio a las investigaciones o a las funciones de Ministerio Público, y
+
+VII. Las estadísticas, los programas desarrollados y demás datos que se considere convenientes, a fin de demostrar el adecuado ejercicio de las funciones de la Fiscalía General de Justicia del Estado y del Fiscal General.
 
 ### Capítulo Tercero. De los Vice-Fiscales
 
@@ -1601,7 +1623,9 @@ La Fiscalía Especializada en Combate a la Corrupción para el desarrollo de sus
 
 Asimismo, la Fiscalía contará con Agentes del Ministerio Público Especializados en combate a los hechos que la ley considera como delitos de su competencia.
 
-Su titular presentará anualmente al Fiscal General del Estado un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo, y demás disposiciones aplicables en la materia. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y a la Legislatura del Estado.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2018)</small>
+
+Su titular presentará anualmente a la Legislatura del Estado un informe sobre actividades sustantivas y sus resultados, así como aquellas actividades llevadas a cabo en ejercicio de sus facultades contenidas en el artículo 58 OCTIES de esta ley, para tal efecto deberá comparecer ante la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para su entrega por escrito y exponer el contenido del mismo. Dicho informe se deberá presentar en el mes de enero de cada año y será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo y demás disposiciones aplicables en la materia. Dicho informe deberá ser remitido también al Fiscal General del Estado y al Comité Coordinador del Sistema Estatal Anticorrupción.
 
 El titular de la Fiscalía Especializada en Combate a la Corrupción al igual que su personal de confianza, agentes del Ministerio Público, agentes de la Policía Ministerial, así como los peritos asignados a esta área, estarán sujetos a la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado. Su actuación será fiscalizada por la Auditoría Superior del Estado y el Órgano Interno de Control, conforme a sus respectivas competencias.
 
@@ -2550,3 +2574,11 @@ SEGUNDO. Dentro del plazo de noventa días naturales contados a partir de la ent
 Dentro del plazo de ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto, el Fiscal General del Estado deberá emitir las demás disposiciones normativas necesarias para el adecuado funcionamiento y desempeño de la Fiscalía General.
 
 Hasta en tanto se expiden el Reglamento de la Fiscalía General del Estado de Quintana Roo y las demás disposiciones normativas, se seguirán aplicando las anteriormente existentes en lo que no se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 162, POR EL QUE SE ADICIONA EL ARTÍCULO 10 BIS Y SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 58 SEXIES, AMBOS DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
