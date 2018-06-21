@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2017-09-21"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -5551,6 +5551,14 @@ SÉPTIMO. Los procedimientos iniciados por las autoridades electorales administr
 
 OCTAVO. Se derogan las disposiciones que se opongan a la presente Ley.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2018)</small>
+
+NOVENO. La elección ordinaria local a celebrarse el primer domingo de junio del año 2019 para la renovación del Poder Legislativo del Estado de Quintana Roo, se sujetará a lo siguiente:
+
+I. El Proceso Electoral dará inicio con la primera sesión que el Consejo General del Instituto Electoral de Quintana Roo celebre en la primera semana del mes de enero del año 2019, y
+
+II. El Instituto Electoral de Quintana Roo podrá ajustar las fechas para la realización de los actos preparatorios de la elección observando invariablemente las etapas y plazos establecidos en la ley.
+
 SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS QUINCE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DIECISIETE.
 
 DIPUTADO PRESIDENTE:
@@ -5578,3 +5586,11 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 RUBRICA
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 198 POR EL QUE SE ADICIONA UN ARTÍCULO NOVENO TRANSITORIO AL DECRETO NÚMERO 097 DE LA XV LEGISLATURA DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
