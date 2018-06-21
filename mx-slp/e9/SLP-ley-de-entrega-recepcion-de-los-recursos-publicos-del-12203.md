@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-entrega-recepcion-de-los-recursos-publicos-del-12203"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-15"
-last_updated: "2014-11-08"
+last_updated: "2018-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE ENTREGA RECEPCION DE LOS RECURSOS PUBLICOS DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 21 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de diciembre de 1994.
 
@@ -220,3 +222,15 @@ P.O. 8 DE NOVIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 977.- LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor de este Decreto, se abroga la Ley de Entrega Recepción de los Recursos Públicos del Estado de San Luis Potosí, publicada el quince de noviembre de 1994; y todas aquellas disposiciones legales, administrativas y reglamentarias que se opongan a la presente Ley.
+
+TERCERO. Dentro del término de sesenta días hábiles, contados a partir del día siguiente del inicio de vigencia de esta Ley, la Contraloría General del Estado, los órganos de control interno de las dependencias, municipios u organismos y la Auditoría Superior del Estado, en el ámbito de sus competencias, expedirán el manual técnico de entrega-recepción, los manuales de procedimientos y de inconformidad, formatos y otras disposiciones administrativas. Aquellas disposiciones que a la entrada en vigor de la presente Ley resulten aplicables, continuarán vigentes hasta en tanto concluya el proceso relativo de entrega-recepción.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
