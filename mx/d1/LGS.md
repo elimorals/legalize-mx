@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2018-05-11"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 19 DE JUNIO DE 2017.
 
@@ -3870,9 +3870,9 @@ III.- La aplicación de plaguicidas;
 
 IV.- La utilización de fuentes de radiación para fines médicos o de diagnóstico, y
 
-> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
 
-V.- Los establecimientos en que se practiquen actos quirúrgicos u obstétricos;
+V. Los establecimientos en que se practiquen actos quirúrgicos u obstétricos y los que presten servicios de hemodiálisis.
 
 > <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2007)</small>
 
@@ -8861,3 +8861,9 @@ SEGUNDO.- LA SECRETARÍA TENDRÁ UN PLAZO DE 90 DÍAS NATURALES POSTERIORES A LA
 TERCERO.- EL CONGRESO DE LA UNIÓN Y LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS, EN EL ÁMBITO DE SUS RESPECTIVAS COMPETENCIAS, REALIZARÁN LAS MODIFICACIONES LEGISLATIVAS CONFORME A LO DISPUESTO EN EL PRESENTE DECRETO, DENTRO DE LOS 180 DÍAS NATURALES SIGUIENTES A SU ENTRADA EN VIGOR.
 
 Cuarto.- Las acciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con los recursos financieros, humanos y materiales con los que actualmente cuente la Secretaría de Salud.
+
+D.O.F. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 198 DE LA LEY GENERAL DE SALUD”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
