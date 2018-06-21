@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2017-11-16"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -1139,7 +1139,7 @@ El Congreso elegirá también al o los Diputados sustitutos, en los términos de
 
 ###### Artículo 100.
 
-Para el mejor cumplimiento de sus funciones parlamentarias, los Diputados tendrán la facultad de recabar de cualquier autoridad del Gobierno del Estado, los datos, informes o documentos que obren en su poder, salvo que se trate de cuestiones consideradas (sic) por la Ley como reservados o secretos.
+Para el mejor cumplimiento de sus funciones parlamentarias, los Diputados tendrán la facultad de recabar de cualquier autoridad del Gobierno del Estado, los datos, informes o documentos que obren en su poder, salvo que se trate de cuestiones consideradas por la Ley como reservados o secretos.
 
 En todo caso, la solicitud se hará por conducto de la Presidencia de la Mesa Directiva del Congreso; en el caso de que ésta omitiera atender la solicitud, el diputado podrá directamente formular la solicitud ante la autoridad que corresponda.
 
@@ -1351,6 +1351,14 @@ XXXI. Cultura; y,
 
 XXXII. Asuntos Forestales, Frutícolas y Pesca.
 
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2018)</small>
+
+XXXIII. Protección Civil.
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2018)</small>
+
+XXXIV. Administración y Cuidado del Agua.
+
 ###### Artículo 119.
 
 Las Comisiones Legislativas ordinarias son las siguientes:
@@ -1443,7 +1451,7 @@ I. La legislación relacionada (sic) la seguridad pública del Estado;
 
 II. El funcionamiento de los cuerpos de seguridad pública o privada existentes y los que se formen en el futuro;
 
-III. Legislación en materia de protección civil;
+III. (DEROGADA, P.O. 21 DE JUNIO DE 2018)
 
 IV. La organización y coordinación de la política criminológica-penitenciaria en el Estado;
 
@@ -1559,9 +1567,17 @@ IV. Adultos mayores.
 
 La Comisión de Asuntos de la Familia y Menores de Edad, estudiará y analizará lo relativo a la problemática de la familia en lo general, y de los menores de edad, en lo particular.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2018)</small>
+
 ###### Artículo 143.
 
-La Comisión de Igualdad de Género, estudiará y analizará lo relativo a la problemática de la mujer.
+Corresponde a la Comisión de Igualdad de Género el conocimiento y dictamen de los siguientes asuntos:
+
+I.- Los que se refieran a las iniciativas relacionadas con legislación en materia de igualdad de género;
+
+II. Proponer que las autoridades competentes lleven a cabo acciones impulsando una cultura de igualdad de género; y
+
+III. Emitir opinión, en el proceso de dictaminación de las otras comisiones legislativas cuando el asunto o iniciativa en análisis tenga relación con la igualdad de género, previo turno de la Presidencia del Congreso del Estado, dicha opinión no será vinculante.
 
 ###### Artículo 144.
 
@@ -1593,6 +1609,10 @@ La Comisión de Participación Ciudadana, dictaminará los asuntos que tengan re
 
 A la Comisión de Juventud y Deporte, le corresponderá conocer y dictaminar sobre los asuntos relativos a los programas de protección y desarrollo de la juventud duranguense, la defensa de sus derechos, su incorporación al contexto político, social y económico con las mejores ventajas posibles. Así mismo, conocerá de la legislación estatal y municipal en materia de impulso y desarrollo del deporte, como una alternativa de valor humano hacia el desarrollo personal y colectivo.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2018)</small>
+
+Además impulsará la celebración anual tanto del Parlamento Joven del Estado de Durango como del Concurso Estatal y Nacional de Oratoria "Francisco Zarco".
+
 ###### Artículo 149.
 
 La Comisión de Atención a Migrantes, conocerá de los asuntos relacionados con la protección a los derechos de los migrantes, conforme a las leyes de la materia.
@@ -1620,6 +1640,18 @@ I. Lo relacionado con la legislación en materia forestal, frutícola y pesca co
 II. Lo relacionado y vinculado con actividades de conservación, protección, restauración, fomento, aprovechamiento, y en su caso forestación y reforestación, de los sectores que se mencionan en la denominación de la presente Comisión, y,
 
 III. Los relacionados con la producción y comercialización de los productos del sector forestal, frutícola y de pesca.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2018)</small>
+
+Artículo 151 bis.- La Comisión de Protección Civil conocerá lo relativo a la legislación y programas en materia de protección civil.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2018)</small>
+
+Artículo 151 ter.- La Comisión del Administración y Cuidado del Agua, conocerá de los temas siguientes:
+
+I. Lo relacionado con la legislación en materia del Agua en el Estado; y
+
+II. Lo relacionado y vinculado con actividades de fomento del cuidado, conservación, protección, restauración, aprovechamiento y administración del agua en el Estado.
 
 ###### Artículo 152.
 
@@ -2577,9 +2609,11 @@ DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
 Recibida la ley o decreto respectivo, el Titular del Poder Ejecutivo, contará con un plazo de hasta quince días hábiles, contados a partir de la fecha de su recepción, para formular y notificar al Congreso del Estado, las observaciones correspondientes.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2018)</small>
+
 ###### Artículo 235.
 
-De no formularse y notificarse las observaciones en el plazo establecido, se reputará sancionada la ley o decreto, y el Gobernador del Estado ordenará su publicación, en un plazo no mayor de quince días hábiles posteriores. Si al concluir este último plazo no se publicare, el Presidente de la Mesa Directiva ordenará su publicación.
+De no formularse y notificarse las observaciones en el plazo establecido, se reputará sancionada la ley o decreto, y el Gobernador del Estado ordenará su publicación, en un plazo no mayor de quince días hábiles posteriores. Si al concluir este último plazo no se publicare, el Presidente de la Mesa Directiva ordenará de inmediato su publicación.
 
 ###### Artículo 236.
 
@@ -2872,3 +2906,11 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 404.- QUE CONTIENE REFORMAS A DIVERSAS DISPOSICIONES A LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las Comisiones Legislativas Dictaminadoras de Protección Civil y Administración y Cuidado del Agua deberán instalarse conforme lo dispuesto en esta Ley a partir del ejercicio de la LXVIII Legislatura del H. Congreso del Estado de Durango.
