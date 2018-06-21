@@ -4,7 +4,7 @@ identifier: "SON-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-1188
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-19"
-last_updated: "2016-12-19"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JUNIO DE 2018.
 
 Ley publicada en la Sección IV del Boletín Oficial del Gobierno del Estado de Sonora, publicada el lunes 19 de diciembre de 2016.
 
@@ -373,7 +373,7 @@ VIII.- Hacer uso de los estacionamientos y áreas de uso común, para fines dist
 
 IX.- Poseer animales que por su número, tamaño o naturaleza afecten las condiciones de seguridad, salubridad o comodidad del Condominio o de los condóminos. La Asamblea General determinará cuáles son los animales cuya posesión está permitida, correspondiendo al Comité de Vigilancia observar que se cumpla con esa determinación.
 
-En todos los casos, los condóminos o poseedores, serán absolutamente responsables de las acciones de los animales que introduzcan al Condominio, entratándose (sic) de perros, deberán estar sujetos de correas y sus propietarios deberán recoger las heces que generen; y
+En todos los casos, los condóminos o poseedores, serán absolutamente responsables de las acciones de los animales que introduzcan al Condominio, entratándose de perros, deberán estar sujetos de correas y sus propietarios deberán recoger las heces que generen; y
 
 X.- Ocupar un cajón de estacionamiento distinto al asignado, si el régimen condominal estipulara uno para cada condominio.
 
@@ -613,9 +613,11 @@ No podrá ser Administrador Condómino quien haya sido removido de ese cargo.
 
 En el caso de construcción nueva en régimen de propiedad en condominio, el primer administrador será designado por quien otorgue la Escritura Constitutiva. Lo anterior sin perjuicio del derecho de los condóminos a convocar a Asamblea General para destituir y designar otro administrador en términos de esta Ley y su Reglamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE JUNIO DE 2018)</small>
+
 ###### Artículo 36.
 
-El administrador durará en su cargo un año, pudiendo ser ratificado por un término igual por acuerdo de la Asamblea General.
+El administrador condómino durará en su cargo un año, pudiendo ser ratificado por un término igual por acuerdo de la Asamblea General.
 
 Es obligación del primer administrador y del Administrador Profesional convocar a una Asamblea General con diez días naturales de anticipación al vencimiento del plazo para el cual fue designado en la cual se informará a los condóminos dicha circunstancia, conforme a lo establecido en el Artículo 30 de esta Ley.
 
@@ -1150,3 +1152,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los dos días del mes de diciembre del año dos mil dieciséis.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 217, QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 36 DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
