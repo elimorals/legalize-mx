@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2017-11-30"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -126,7 +126,9 @@ Son facultades del Mando Supremo:
 
 I. Nombrar al Secretario de la Defensa Nacional;
 
-II. Nombrar al Subsecretario; al Oficial Mayor; al Inspector y Contralor General del Ejército y Fuerza Aérea; al Jefe del Estado Mayor de la Defensa Nacional; al Procurador General de Justicia Militar y al Presidente así como a los Magistrados del Supremo Tribunal Militar;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
+
+II. Nombrar al Subsecretario; al Oficial Mayor; al Inspector y Contralor General del Ejército y Fuerza Aérea; al Jefe del Estado Mayor de la Defensa Nacional; al Fiscal General de Justicia Militar y al Presidente así como a los Magistrados del Tribunal Superior Militar;
 
 III. Nombrar al Jefe del Estado Mayor Presidencial;
 
@@ -218,27 +220,35 @@ ORGANOS DEL FUERO DE GUERRA
 
 El Fuero de Guerra es competente para conocer de los delitos y las faltas contra la disciplina militar de acuerdo como lo establece el Artículo 13 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 27.
 
-Los Organos del Fuero de Guerra conocerán de los delitos en los términos que establece el Código de Justicia Militar.
+Los Órganos del Fuero de Guerra conocerán de los delitos en los términos que establecen el Código de Justicia Militar y el Código Militar de Procedimientos Penales.
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 28.
 
-Los Organos del Fuero de Guerra son:
+Los Órganos del Fuero de Guerra son:
 
-I. Supremo Tribunal Militar;
+I. Tribunal Superior Militar;
 
-II. Procuraduría General de Justicia Militar; y
+II. Fiscalía General de Justicia Militar; y
 
-III. Cuerpo de Defensores de Oficio.
+III. Defensoría de Oficio Militar.
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 29.
 
-La organización y funcionamiento del Supremo Tribunal Militar, Procuraduría General de Justicia Militar y Cuerpo de Defensores de Oficio, quedan establecidos en el Código de Justicia Militar.
+La organización y funcionamiento del Tribunal Superior Militar, Fiscalía General de Justicia Militar y Defensoría de Oficio Militar, quedan establecidos en el Código de Justicia Militar.
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 30.
 
-Los cargos que desempeña el personal que integra las Dependencias del Supremo Tribunal Militar, son incompatibles con cualquier otro en el Ejército y Fuerza Aérea, en la Secretaría de la Defensa Nacional y en Dependencias de los Gobiernos: Federal, Estatales y Municipales.
+Los cargos que desempeña el personal que integra las Dependencias del Tribunal Superior Militar, son incompatibles con cualquier otro en el Ejército y Fuerza Aérea, en la Secretaría de la Defensa Nacional y en Dependencias de los Gobiernos: Federal, Estatales y Municipales.
 
 ###### ARTICULO 31.
 
@@ -716,11 +726,15 @@ El Director del Servicio de Sanidad será un General Médico Cirujano.
 
 Servicio de Justicia
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 92.
 
-El servicio de Justicia tendrá a su cargo la procuración y la administración de la justicia por los delitos del fuero de guerra y vigilar el cumplimiento de las penas impuestas por las Dependencias encargadas de administrar la justicia; el asesoramiento a la Secretaría de la Defensa Nacional en asuntos técnico jurídicos; y además realizará las actividades siguientes:
+El Servicio de Justicia tendrá a su cargo la procuración y la administración de la justicia por los delitos del fuero de guerra y vigilar la ejecución de las penas impuestas por las Dependencias encargadas de administrar la justicia; el asesoramiento a la Secretaría de la Defensa Nacional en asuntos técnico jurídicos; y además realizará las actividades siguientes:
 
-I. Llevar a cabo la administración del personal del Servicio;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
+
+I. Llevar a cabo la administración del personal del Servicio de Justicia;
 
 II. Organizar, dirigir y supervisar el funcionamiento de las Prisiones Militares, Unidades disciplinarias y otras Dependencias e Instalaciones similares;
 
@@ -886,7 +900,9 @@ VI. Cuando reciba órdenes de las autoridades militares competentes:
 
 A. Proteger a las personas y a la propiedad pública y prevenir el pillaje y el saqueo en los casos de emergencia;
 
-B. Auxiliar a la Policía Judicial Militar.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
+
+B. Auxiliar a la Policía Ministerial Militar.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -1218,9 +1234,11 @@ Los cuadros de Generales, Jefes y Oficiales profesionales del Activo del Ejérci
 
 El personal que obtenga la jerarquía de Sargento, como resultado de haber terminado satisfactoriamente el Curso de Formación en el Arma o Servicio correspondiente del Ejército y Fuerza Aérea, es profesional.
 
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 144.
 
-Los Cabos en las Unidades del Ejército y Fuerza Aérea, serán seleccionados de entre los Soldados y propuestos al Secretario de la Defensa Nacional por los Comandantes de las mismas, en los términos establecidos en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Nacionales, para cubrir las vacantes existentes en sus planillas orgánicas.
+Los Cabos en las Unidades del Ejército y Fuerza Aérea, serán seleccionados de entre los Soldados y propuestos al Secretario de la Defensa Nacional por los Comandantes de las mismas, en los términos establecidos en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para cubrir las vacantes existentes en sus planillas orgánicas.
 
 ###### ARTICULO 145.
 
@@ -1464,7 +1482,9 @@ I. Desempeñar cargos de elección popular;
 
 II. Cuando el Presidente de la República, los nombre para el desempeño de una actividad ajena al Servicio Militar; y
 
-III. Desempeñar actividades o empleos civiles en Dependencias del Ejecutivo de la Unión, de los Gobiernos de los Estados, del Departamento del Distrito Federal, de los Municipios, en organismos descentralizados o empresas de participación Estatal y otras Dependencias Públicas, siempre que esas actividades o empleos requieran separarse temporalmente del servicio de las Armas para estar en aptitud legal de desempeñarlos.
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
+
+III. Desempeñar actividades o empleos civiles en Dependencias del Ejecutivo Federal, de los Gobiernos de las Entidades Federativas, de los Municipios, en organismos descentralizados o empresas de participación Estatal y otras Dependencias Públicas, siempre que esas actividades o empleos requieran separarse temporalmente del servicio de las Armas para estar en aptitud legal de desempeñarlos.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -1954,7 +1974,9 @@ Los militares auxiliares no tendrán escalafones; para su control, cada una de l
 
 El personal a que se refieren los artículos 191, 192, 193 y 195, sólo podrá ascender a jerarquía superior a la establecida como grado máximo para cada especialidad, en los siguientes casos:
 
-I. Cuando previa la preparación técnica o profesional acreditada legalmente, se obtenga el cambio de escalafón y se satisfagan los demás requisitos que exige la Ley de Ascensos y Recompensas; y
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
+
+I. Cuando previa la preparación técnica o profesional acreditada legalmente, se obtenga el cambio de escalafón y se satisfagan los demás requisitos que exige la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, y
 
 II. Para efectos de retiro, cuando proceda de acuerdo con la Ley de la Materia.
 
@@ -2006,9 +2028,11 @@ La Comandancia de la Fuerza Aérea, las Direcciones Generales y los Departamento
 
 El Gobierno Federal proporcionará los medios al personal del Ejército y Fuerza Aérea: vestuario, equipo, alimentación y alojamiento cuando el servicio se preste en Instalaciones militares; viáticos suficientes cuando el servicio no se desempeñe en ellas; pasajes, transporte de menaje de casa y pagas de marcha, cuando el cambio de radicación obedezca a órdenes de autoridad competente; y demás prestaciones que exija el servicio.
 
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 207.
 
-La Secretaría de la Defensa Nacional hará con oportunidad las previsiones de gasto público que habrá de realizarse para el sostenimiento del Ejército y Fuerza Aérea, a fin de que puedan cumplir con las misiones generales que tienen encomendadas, dichas previsiones deberán incluir también los recursos económicos para cubrir los conceptos señalados en el Artículo anterior, debiendo observarse las normas contenidas en la Ley y Reglamento del Presupuesto, Contabilidad y Gasto Público o los Ordenamientos que los substituyan.
+La Secretaría de la Defensa Nacional hará con oportunidad las previsiones de gasto público que habrá de realizarse para el sostenimiento del Ejército y Fuerza Aérea, a fin de que puedan cumplir con las misiones generales que tienen encomendadas, dichas previsiones deberán incluir también los recursos económicos para cubrir los conceptos señalados en el Artículo anterior, debiendo observarse las normas contenidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el reglamento de ésta, o los Ordenamientos que los substituyan.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -2024,9 +2048,11 @@ Los recursos animales son los necesarios para el Ejército y Fuerza Aérea en el
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 209.
 
-Los edificios e instalaciones del Ejército y Fuerza Aérea son de carácter permanente o transitorio y comprenden bienes muebles, construcciones, terrenos, Campos Militares, Bases Aéreas y Aeródromos, destinados al alojamiento y operación de las Unidades y el establecimiento de Dependencias, Cuarteles, Oficinas, Almacenes, Parques, Talleres, Prisiones y Juzgados Militares, Hospitales, Escuelas, Criaderos de Ganado, Polígonos de Tiro, así como los destinados al adiestramiento, experimentación, pruebas y Unidades Habitacionales y demás necesarios para sus fines.
+Los edificios e instalaciones del Ejército y Fuerza Aérea son de carácter permanente o transitorio y comprenden bienes muebles, construcciones, terrenos, Campos Militares, Bases Aéreas y Aeródromos, destinados al alojamiento y operación de las Unidades y el establecimiento de Dependencias, Cuarteles, Oficinas, Almacenes, Parques, Talleres, Prisiones y Juzgados Militares de Control, Hospitales, Escuelas, Criaderos de Ganado, Polígonos de Tiro, así como los destinados al adiestramiento, experimentación, pruebas y Unidades Habitacionales y demás necesarios para sus fines.
 
 ## TRANSITORIOS
 
@@ -2111,3 +2137,9 @@ Segundo. Para los efectos de lo previsto en el artículo 191, fracción VII, en 
 Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Cuarto. Las erogaciones que deriven de la aplicación de este Decreto serán realizadas mediante movimientos compensados y no se requerirán recursos adicionales, por lo que la Secretaría de la Defensa Nacional deberá sujetarse a su presupuesto aprobado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+D.O.F. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
