@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-instituto-de-estudios-judiciales-53827"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-08"
-last_updated: "2008-03-29"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO DEL INSTITUTO DE ESTUDIOS JUDICIALES
 
-REGLAMENTO DEL INSTITUTO DE ESTUDIOS JUDICIALES
+REGLAMENTO DEL INSTITUTO DE ESTUDIOS JUDICIALES DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el miércoles 8 de febrero de 2006.
 
@@ -95,9 +95,11 @@ IX. Todos aquellos programas que se consideren pertinentes para el mejoramiento 
 
 ### CAPITULO III. DE LA ESTRUCTURA Y ORGANIZACIÓN INTERNA
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 6.
 
-Para el cumplimiento de sus fines, el Instituto, se integrará por un Comité Académico, un director, un subdirector y el demás personal docente y administrativo que sea necesario para el cumplimiento de sus funciones.
+Para el cumplimiento de sus fines, el Instituto, se integrará por un Comité Académico, un director, un subdirector, dos áreas de investigación; una que tendrá como función primordial realizar los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado, y la segunda; especializada en género y derechos humanos teniendo como función, la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado en esta materia, y el demás personal docente y administrativo que sea necesario para el cumplimiento de sus funciones.
 
 DE LA DIRECCIÓN
 
@@ -231,7 +233,7 @@ X. Las demás que le confiera el Consejo.
 
 Los integrantes del Comité, podrán formar parte, en su caso, de los sínodos en los exámenes de especialidad y grado en el Instituto; (sic)
 
-DE LAS EXTENCIONES REGIONALES
+DE LAS EXTENSIONES REGIONALES
 
 ###### ARTICULO 17.
 
@@ -605,6 +607,10 @@ d) Cuando se trate de programas de maestría o doctorado, por no presentar en ti
 
 e) Por incurrir en alguna de las causas de responsabilidad a que se refiere el artículo 78 de éste Reglamento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2018)</small>
+
+Los alumnos del Instituto, que se inscriban a cualquiera de los programas académicos, tales como cursos, talleres, diplomados, especialidades, maestrías o cualquier otro, y que dejen de asistir sin causa justificada o no acrediten cuando menos el 80% de asistencias al programa correspondiente, serán dados de baja del mismo, y no podrán inscribirse a ningún otro programa académico, en los siguientes 6 seis meses, a partir de la baja que dicte el Instituto.
+
 ### CAPITULO II. DEL PERSONAL ACADEMICO
 
 ###### ARTICULO 70.
@@ -807,11 +813,15 @@ La integración del Jurado, se hará conforme a los siguientes lineamientos:
 
 I. Una vez constituido el Comité, el Pleno del Consejo nombrará de entre sus miembros a quien presidirá el Jurado, así como a la persona que se integrará al mismo por parte del Instituto. En el mismo acuerdo, se designará a los suplentes;
 
-II. El Consejo convocará a los jueces ratificados para realizar un sorteo por saculación (sic), a efecto de elegir entre ellos a quien formará parte del Jurado, así como a su suplente. Lo anterior se asentará en el acta respectiva;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2018)</small>
 
-III. El Consejo solicitará al Pleno del Supremo Tribunal de Justicia, por conducto de su presidente, que por sorteo designe de entre sus miembros al magistrado ratificado que formará parte del Jurado, así como a su respectivo suplente. El propio Pleno establecerá el sistema conforme él cual se llevará a cabo el sorteo en cuestión;
+II. El Consejo convocará a los jueces para realizar un sorteo por insaculación, a efecto de elegir entre ellos a quien formará parte del Jurado, así como a su suplente. Lo anterior se asentará en el acta respectiva;
 
-IV. El Pleno del Supremo Tribunal de Justicia, por conducto de su presidente, comunicará de inmediato al Consejo el resultado del sorteo; (sic)
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2018)</small>
+
+III. El Consejo solicitará al Pleno del Supremo Tribunal de Justicia, por conducto de su presidente, que por sorteo designen de entre sus miembros al magistrado que formará parte del Jurado, así como su respectivo suplente. El propio Pleno establecerá el sistema conforme el cual se llevará a cabo el sorteo en cuestión;
+
+IV. El Pleno del Supremo Tribunal de Justicia, por conducto de su presidente, comunicará de inmediato al Consejo el resultado del sorteo;
 
 ###### ARTICULO 100.
 
@@ -865,10 +875,20 @@ CONSEJERO
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE MARZO DE 2008.
 
 PRIMERO.- Publíquese, la presente reforma en el Periódico Oficial del Estado.
 
 SEGUNDO.- La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 6, 69 Y 99 DEL REGLAMENTO DEL INSTITUTO DE ESTUDIOS JUDICIALES”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación, con independencia de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente acuerdo y que hayan sido dictadas con anterioridad a la entrada en vigor del mismo.
+
+CUARTO (SIC).- Désele la más amplia difusión al contenido del presente acuerdo en el portal de transparencia del Poder Judicial del Estado y en la Gaceta Judicial.
