@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-para-la-transparencia-y-el-acceso-a-la-64863"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-19"
-last_updated: "2008-10-19"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DEL H. CONGRESO DEL ESTADO DE DURANGO
 
-REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION PUBLICA DEL H. CONGRESO DEL ESTADO DE DURANGO
+REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DEL H. CONGRESO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 19 de octubre de 2008.
 
@@ -97,7 +97,9 @@ Los órganos encargados del cumplimiento de la Ley y el presente Reglamento, son
 
 I. El Comité para la Clasificación de la Información del Congreso; y
 
-II. La Unidad de Enlace.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2018)</small>
+
+II. La Unidad de Transparencia.
 
 Para ser titular de la unidad de enlace se requiere:
 
@@ -457,6 +459,10 @@ III. Los costos de envío, cuando este se haga por correo, correo certificado o 
 
 Sólo podrán certificarse copias de documentos cuando puedan cotejarse directamente con el original o, bien con la copia debidamente certificada del mismo, en cuyo caso deberá hacerse constar dicha circunstancia.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2018)</small>
+
+Artículo 38 BIS. El Comité de Transparencia se conformará de manera colegiada, integrado por un número impar; la Comisión de Gobernación mediante acuerdo, nombrará a los servidores públicos que integrarán dicho Comité, el cual será publicado en el Periódico Oficial del Gobierno del Estado de Durango. Cuando algún servidor público de los que integran el Comité de Transparencia, deje de pertenecer a este Congreso Local, la Comisión nombrará a quien deba suplirlo.
+
 ### CAPÍTULO IX. DEL COMITÉ PARA LA CLASIFICACIÓN DE LA INFORMACIÓN
 
 ###### Artículo 39.
@@ -572,3 +578,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 405.- QUE CONTIENE REFORMAS AL REGLAMENTO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL CONGRESO DEL ESTADO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+TERCERO. Los asuntos que se encuentren en trámite antes de la entrada en vigor del presente decreto, seguirán su curso hasta su resolución, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, abrogada mediante decreto número 157 de fecha 11 de julio de 2008, y publicada en el Periódico Oficial del Gobierno del Estado número 4 de fecha 13 de julio de 2008, así como lo dispuesto en el presente Reglamento, hasta en tanto no se modifique.
