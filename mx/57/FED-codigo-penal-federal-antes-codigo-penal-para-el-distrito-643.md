@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2018-06-15"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2089,7 +2089,7 @@ I.- Los que, perteneciendo a la tripulación de una nave mercante mexicana, de o
 
 II.- Los que, yendo a bordo de una embarcación, se apoderen de ella y la entreguen voluntariamente a un pirata, y
 
-III.- Los corsarios que, en caso de guerra entre dos o más naciones, hagan el corso sin carta de marca o patente de ninguna de ellas, o con patente de dos o más beligerantes, o con patente de uno de ellos, pero practicando actos de depredación contra buques de la República o de otra nación para hostilizar a la cual no estuvieren autorizados. Estas disposiciones deberán igualmente aplicarse en lo conducente a las aeronaves.
+III.- (DEROGADA, D.O.F. 21 DE JUNIO DE 2018)
 
 ###### ARTICULO 147.
 
@@ -8234,3 +8234,9 @@ D.O.F. 15 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR, DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES, DEL CÓDIGO PENAL FEDERAL Y DE LA LEY PARA CONSERVAR LA NEUTRALIDAD DEL PAÍS”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
