@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aeropuertos-15558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-17"
-last_updated: "2017-09-29"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15558&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-15"
 
 REGLAMENTO DE LA LEY DE AEROPUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 17 de febrero de 2000.
 
@@ -2025,11 +2025,7 @@ OCTAVO.- Los comités de operación y horarios y las comisiones consultivas de l
 
 Dichos comités expedirán sus reglamentos interiores en un plazo no mayor de treinta días hábiles siguientes a su constitución.
 
-NOVENO.- Aeropuertos y Servicios Auxiliares continuará prestando, de conformidad con la legislación aplicable, los servicios de almacenamiento, distribución y suministro de combustible a los transportistas y operadores aéreos. Consecuentemente, ni los concesionarios, permisionarios o algún tercero podrán prestar los servicios de almacenamiento, distribución y suministro de combustible; hasta en tanto la Secretaría determine lo contrario. Ello en el entendido de que cuando se pretenda que dichos servicios sean prestados por los particulares, la Secretaría podrá licitar la prestación de los mismos. Se exceptúa de lo anterior a las personas que actualmente prestan el servicio de suministro de combustible.
-
-Aeropuertos y Servicios Auxiliares deberá adecuar sus programas al crecimiento de los aeródromos de servicio al público y será responsable de cualquier daño que ocasione por la prestación del servicio de combustible, para tales efectos celebrará con los concesionarios y permisionarios un convenio en el que se determinen los términos y condiciones necesarios para que dichos servicios se presten de forma segura y eficiente, precisando la contraprestación y forma de pago correspondiente para los concesionarios y permisionarios por el acceso y el uso de sus instalaciones para la prestación del servicio de suministro de combustible en cada aeródromo.
-
-Todos los conflictos que surjan con motivo de la prestación de los servicios relativos a combustible, serán resueltos por la Secretaría.
+NOVENO.- (DEROGADO, D.O.F. 21 DE JUNIO DE 2018)
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de febrero de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
 
@@ -2050,3 +2046,9 @@ D.O.F. 29 DE SEPTIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los comités de operación y horarios de los aeródromos contarán con un plazo de 180 días naturales a partir de la fecha de entrada en vigor del presente decreto para modificar su reglamento interno a efecto de incorporar la integración y funcionamiento del subcomité de demoras.
+
+D.O.F. 21 DE JUNIO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "AVISO GENERAL RELACIONADO CON EL ARTÍCULO NOVENO TRANSITORIO DEL REGLAMENTO DE LA LEY DE AEROPUERTOS", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ÚNICO.- La Dirección General de Aeronáutica Civil de la Secretaría de Comunicaciones y Transportes, informa que con motivo de la entrada en vigor de la Ley de Hidrocarburos publicada en el Diario Oficial de la Federación el 11 de agosto de 2014, se materializó la derogación del artículo Noveno transitorio del Reglamento de la Ley de Aeropuertos, publicado el 17 de febrero de 2000 en el Diario Oficial de la Federación, al oponerse sus contenidos y provisiones a las dispuestas en la Ley de Hidrocarburos.
