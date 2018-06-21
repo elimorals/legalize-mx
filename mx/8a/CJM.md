@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "2016-05-16"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CJM"
 ---
 # CODIGO DE JUSTICIA MILITAR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMAS, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2016, TODAS LAS REFERENCIAS QUE EN ESTE CÓDIGO Y DEMÁS ORDENAMIENTOS SE HAGAN AL SUPREMO TRIBUNAL MILITAR Y A LA PROCURADURÍA GENERAL DE JUSTICIA MILITAR SE ENTENDERÁN HECHAS AL TRIBUNAL SUPERIOR MILITAR Y A LA FISCALÍA GENERAL DE JUSTICIA MILITAR, RESPECTIVAMENTE.]</small>
+
 CÓDIGO DE JUSTICIA MILITAR
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMAS, PUBLICADO EN EL D.O.F. DE 10 DE MAYO DE 2016, TODAS LAS REFERENCIAS QUE EN ESTE CÓDIGO Y DEMÁS ORDENAMIENTOS SE HAGAN AL SUPREMO TRIBUNAL MILITAR; A LA PROCURADURÍA GENERAL DE JUSTICIA MILITAR Y AL CUERPO DE DEFENSORES DE OFICIO SE ENTENDERÁN HECHAS AL TRIBUNAL SUPERIOR MILITAR; A LA FISCALÍA GENERAL DE JUSTICIA MILITAR Y A LA DEFENSORÍA DE OFICIO MILITAR.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 31 de agosto de 1933.
 
@@ -2720,17 +2720,21 @@ A los promovedores se les impondrá pena de treinta a sesenta años de prisión.
 
 Se impondrá pena de treinta a sesenta años de prisión, a todo comandante de nave que valiéndose de su posición en la Armada, se apodere durante la guerra, de un buque perteneciente a una nación aliada, amiga o neutral; o en tiempo de paz, de cualquier otro sin motivo justificado para ello, o exija por medio de la amenaza o de la fuerza, rescate o contribución a alguno de esos buques o ejerza cualquier otro acto de piratería.
 
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 211.
 
-No se considerará como acto de piratería, el uso del derecho de presas marítimas que puedan hacer, en alta mar o en aguas territoriales de México, los buques nacionales de guerra o con patente de corso, capturando al enemigo sus barcos mercantes, tomando prisionera a la tripulación y confiscando el barco y la mercancía de a bordo para ser adjudicados según la sentencia que dicten los tribunales de presas.
+No se considerará como acto de piratería, el uso del derecho de presas marítimas que puedan hacer, en alta mar o en aguas territoriales de México, los buques nacionales de guerra, capturando al enemigo sus barcos mercantes, tomando prisionera a la tripulación y confiscando el barco y la mercancía de a bordo para ser adjudicados según la sentencia que dicten los tribunales de presas.
 
 ###### ARTICULO 212.
 
-Se impondrá la pena de cinco años de prisión, al comandante de un barco armado en corso al servicio de México, que hiciere presas marítimas después de haber fenecido el plazo de la patente o que violare cualquiera otra de las condiciones de ella.
+(DEROGADO, D.O.F. 21 DE JUNIO DE 2018)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 21 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 213.
 
-Se impondrá la pena de diez años de prisión, a los miembros de la tripulación de un buque de guerra mexicano, o armado en corso bajo la bandera nacional, que utilicen su embarcación y elementos para cometer violencias y robos en las costas o en otras embarcaciones.
+Se impondrá la pena de diez años de prisión, a los miembros de la tripulación de un buque de guerra mexicano, que utilicen su embarcación y elementos para cometer violencias y robos en las costas o en otras embarcaciones.
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -2750,7 +2754,9 @@ Será castigado con cinco años de prisión el que sin estar autorizado exija el
 
 Será castigado con cinco años de prisión:
 
-I.- El que sin estar autorizado reclute tropas en la República o tripule y arme barcos en corso para el servicio de una potencia extranjera, cualquiera que sea el objeto que se proponga o a la nación que intente hostilizar;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
+
+I.- El que sin estar autorizado reclute tropas en la República para el servicio de una potencia extranjera, cualquiera que sea el objeto que se proponga o a la nación que intente hostilizar;
 
 II.- el comandante de un buque y el piloto de una aeronave, que durante una guerra en que no intervenga México, transporte contrabando de guerra para cualquiera de los beligerantes; así como el que ejecutare cualquier acto no especificado en este capítulo, que comprometa la neutralidad del país o infrinja las disposiciones publicadas por el gobierno para mantenerla, y
 
@@ -7947,3 +7953,9 @@ VII. Todas las referencias que en este Código y demás ordenamientos se hagan a
 ## Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR, DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES, DEL CÓDIGO PENAL FEDERAL Y DE LA LEY PARA CONSERVAR LA NEUTRALIDAD DEL PAÍS”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
