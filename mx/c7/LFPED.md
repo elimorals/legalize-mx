@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2016-12-01"
+last_updated: "2018-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -458,9 +458,9 @@ XXVII. Promover que en el Presupuesto de Egresos de la Federación se destinen l
 
 XXVIII. Elaborar guías de acción pública con la finalidad de aportar elementos de política pública para prevenir y eliminar la discriminación;
 
-> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
 
-XXIX. Promover el derecho a la no discriminación mediante campañas de difusión y divulgación;
+XXIX. Promover el derecho a la no discriminación mediante campañas de difusión y divulgación. Adicionalmente, se promoverá la prevención y erradicación del discurso de odio, en coordinación con las instituciones públicas, el sector privado y las organizaciones de la sociedad civil;
 
 > <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
 
@@ -470,9 +470,9 @@ XXX. Promover una cultura de denuncia de prácticas discriminatorias;
 
 XXXI. Difundir las obligaciones asumidas por el Estado mexicano en los instrumentos internacionales que establecen disposiciones en materia de no discriminación, así como promover su cumplimiento por parte de los poderes públicos federales, para lo cual podrá formular observaciones generales o particulares;
 
-> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2018)</small>
 
-XXXII. Elaborar, difundir y promover que en los medios de comunicación se incorporen contenidos orientados a prevenir y eliminar las prácticas discriminatorias;
+XXXII. Elaborar, difundir y promover que en los medios de comunicación se incorporen contenidos orientados a prevenir y eliminar las prácticas discriminatorias y el discurso de odio;
 
 > <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2014)</small>
 
@@ -1457,3 +1457,11 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente Decreto.
 
 Tercero. Todo lo relativo a la renovación a la que hace alusión el artículo 35 de la Ley Federal para Prevenir y Eliminar la Discriminación, que se reforma con motivo del presente Decreto, se propondrá mediante acuerdo de la Asamblea Consultiva y se pondrá a consideración de la Junta de Gobierno para su aprobación.
+
+D.O.F. 21 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 20 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente Decreto.
