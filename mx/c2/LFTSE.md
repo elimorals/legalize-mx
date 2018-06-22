@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "2014-04-02"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -988,11 +988,21 @@ Las fracciones I y II de este artículo sólo son aplicables a personas excluida
 
 La prescripción no puede comenzar ni correr:
 
-I.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela conforme a la Ley;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-II.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra y que por alguno de los conceptos contenidos en esta Ley se hayan hecho acreedores a indemnización, y
+I.- Contra las personas que cuenten con algún tipo de discapacidad mental, sino cuando se haya discernido su tutela conforme a la ley;
 
-III.- Durante el tiempo que el trabajador se encuentre privado de su libertad, siempre que haya sido absuelto por sentencia ejecutoriada.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+II.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra y que por alguno de los conceptos contenidos en esta Ley se hayan hecho acreedores a indemnización;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+III.- Durante el tiempo que el trabajador se encuentre privado de su libertad, siempre que haya sido absuelto por sentencia ejecutoriada, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+IV.- Contra el trabajador que tenga la calidad de desaparecido y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia.
 
 ###### ARTICULO 116.
 
@@ -1657,3 +1667,13 @@ D.O.F. 2 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
