@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2017-04-11"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -443,13 +445,13 @@ XXI. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, a
 
 XXII. Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
 XXIII. (DEROGADA, P.O. 5 DE JUNIO DE 2014)
 
 XXIV. Establecer las políticas y lineamientos del Sistema Estatal de Contabilidad Gubernamental y coordinar su funcionamiento;
 
-XXV. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría Mayor de Hacienda del Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+XXV. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado; elaborar la cuenta pública; y mantener las relaciones con la Auditoría Superior del Estado;
 
 XXVI. Emitir la normatividad e intervenir en el otorgamiento de subsidios y estímulos fiscales, vigilando que los recursos se apliquen en los términos debidos;
 
@@ -1962,3 +1964,11 @@ P.O. 11 DE ABRIL DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis", sin perjuicio de lo previsto en las disposiciones transitorias del diverso por el que se expide la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; y la Ley del Sistema Estatal Anticorrupción de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones legales que contravengan o se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 986.- SE REFORMA EL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
