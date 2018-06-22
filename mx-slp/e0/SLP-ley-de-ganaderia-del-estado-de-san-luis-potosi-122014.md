@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2018-05-03"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -983,9 +983,11 @@ La prevención, control y erradicación de enfermedades que afecten a las especi
 
 La SEDARH podrá celebrar convenios de coordinación o colaboración con las autoridades federales, estatales, municipales y organizaciones de productores pecuarios, a efecto de llevar a cabo la operación de programas en materia de sanidad animal.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 60.
 
-Los propietarios o encargados de las diferentes especies animales, tienen la obligación de proporcionar a sus animales los cuidados higiénicos y zootécnicos necesarios, para conservarlos en las mejores condiciones de salud y defensa natural contra cualquiera de las enfermedades trasmisibles por cualquier medio.
+Los propietarios o encargados de las diferentes especies animales, tienen la obligación de proporcionar a sus animales los cuidados higiénicos y zootécnicos necesarios, para conservarlos en las mejores condiciones de salud y defensa natural contra cualquiera de las enfermedades transmisibles por cualquier medio, procurando asimismo un uso adecuado de antimicrobianos.
 
 ###### ARTÍCULO 61.
 
@@ -1038,6 +1040,10 @@ Todo propietario de ganado tiene la obligación de colaborar en el financiamient
 ###### ARTÍCULO 67.
 
 Los propietarios de las unidades productivas de las diferentes especies animales, deberán contar con instalaciones adecuadas para lograr el manejo eficiente y seguro de los animales, y realizar baño por inmersión o de aspersión para el control y erradicación de ectoparásitos, así como las instalaciones requeridas para llevar a cabo las medidas de bioseguridad que permita controlar y erradicar los padecimientos comunes, y que originan mayores pérdidas en los animales.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+Asimismo, deberán proporcionar un hábitat en condiciones de seguridad, limpieza y bienestar que garantice la salud de los animales.
 
 ###### ARTÍCULO 68.
 
@@ -2082,5 +2088,21 @@ P.O. 3 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 947.- SE REFORMA EL ARTÍCULO 11; Y ADICIONA UNA FRACCIÓN A LOS ARTÍCULOS 11 Y 19 DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 980.- SE REFORMA EL ARTÍCULO 60 DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 981.- SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 67 DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
