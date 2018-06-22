@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2018-06-11"
+last_updated: "2018-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -1103,6 +1103,14 @@ CUARTO. La Auditoría Superior del Estado deberá realizar las adecuaciones pres
 
 QUINTO. Tanto el Congreso del Estado, como la Auditoría Superior del Estado disponen de treinta días hábiles contados a partir de la vigencia de este Decreto para realizar las adecuaciones necesarias al Reglamento Interior de la Unidad de Evaluación y Control; y al Reglamento Interior de la Auditoría Superior del Estado.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+SEXTO. Los procedimientos administrativos iniciados con anterioridad, que se encuentren en trámite o pendientes de resolución por la Auditoría Superior del Estado hasta la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva en los términos de la Ley de Auditoria Superior del Estado, incluyendo aquellos resultados que deriven de las funciones de fiscalización y revisión de la cuenta pública del año 2016.
+
+En aquellos actos, procedimientos, y trámites pendientes en los que la Auditoría Superior del Estado de San Luis Potosí sea parte durante la cuenta pública 2017, éstos continuarán tramitándose hasta su resolución final, conforme a las disposiciones aplicables vigentes a su inicio de acuerdo a la Ley de Fiscalización y Rendición de Cuentas publicada en el Periódico Oficial del Estado el 10 de abril de 2017, como Decreto Legislativo número 602.
+
+En lo relativo a la presentación de los informes generales e individuales presentados por la Auditoría Superior del Estado, se estarán a lo previsto en el artículo 54 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
 D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
@@ -1124,3 +1132,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 978.- SE ADICIONA EL ARTÍCULO SEXTO TRANSITORIO A LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
