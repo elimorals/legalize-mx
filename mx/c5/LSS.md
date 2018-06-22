@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2015-11-12"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1338,6 +1338,12 @@ Para dichos propósitos, los recursos que el Gobierno Federal destine, deberán 
 
 Los trabajadores que se encuentren en estado de huelga, recibirán las prestaciones médicas durante el tiempo que dure aquél.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+###### Artículo 109 Bis.
+
+Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, los beneficiarios conservarán el derecho a recibir la asistencia médica y de maternidad, quirúrgica, farmacéutica y hospitalaria que sea necesaria.
+
 #### SECCION SEXTA. DE LA MEDICINA PREVENTIVA
 
 ###### Artículo 110.
@@ -2071,6 +2077,12 @@ En caso de fallecimiento del trabajador, si los beneficiarios legales ya no tien
 El trabajador asegurado, deberá designar beneficiarios sustitutos de los indicados en el párrafo anterior, única y exclusivamente para el caso de que faltaren los beneficiarios legales. El trabajador podrá en cualquier tiempo cambiar esta última designación. Dicha designación deberá realizarla en la Administradora de Fondos para el Retiro que le opere su cuenta individual.
 
 A falta de los beneficiarios legales y sustitutos, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo. Cualquier conflicto deberá ser resuelto ante la Junta Federal de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+###### Artículo 193 Bis.
+
+Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, los recursos de su cuenta individual serán puestos a disposición de sus beneficiarios, en los términos en que se establezcan en resolución que se haya emitido para ese fin.
 
 ###### Artículo 194.
 
@@ -4143,3 +4155,13 @@ D.O.F. 12 DE NOVIEMBRE DE 2015.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
