@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-juventud-del-estado-de-yucatan-68686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-26"
-last_updated: "2009-05-26"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE JUVENTUD DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 26 de mayo de 2009.
 
@@ -45,27 +45,21 @@ REGLAMENTO DE LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN
 
 Este Reglamento tiene por objeto establecer las disposiciones necesarias para la planeación, desarrollo y ejecución de las políticas y derechos de la juventud, reconocidos por la Ley de Juventud del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2.
 
-Para los efectos de este Reglamento se entenderá por:
+Para los efectos de este reglamento, además de las definiciones establecidas en el artículo 3 de la Ley de Juventud del Estado de Yucatán, se entenderá por:
 
-I. Censo: Censo Estatal de Asociaciones Juveniles;
+I. Censo: El Censo Estatal de Asociaciones Juveniles.
 
-II. Fondo: Fondo para el desarrollo de los jóvenes;
+II. Fondo: El Fondo de Promoción al Joven Emprendedor.
 
-III. Ley: Ley de Juventud del Estado de Yucatán;
+III. Premio: El Premio Estatal de la Juventud.
 
-IV. Programa: Programa Estatal de la Juventud;
+IV. Región: Las zonas en las que se divide el estado para efectos de la planeación del desarrollo y la operación de la Administración Pública estatal.
 
-V. Premio: Premio Estatal de la Juventud;
-
-VI. Región: Zonas en las que se divide el Estado para efectos de la planeación del desarrollo y la operación de la Administración Pública;
-
-VII. Reglamento: Reglamento de Ley de Juventud del Estado de Yucatán;
-
-VIII. SEJUVE: Secretaría de la Juventud del Estado, y
-
-IX. Sistema: Sistema Estatal de la Juventud.
+V. Sistema: El Sistema Estatal de la Juventud.
 
 ### CAPÍTULO II. Del Sistema Estatal de la Juventud
 
@@ -367,77 +361,95 @@ Los miembros del jurado, siempre que estén todos de acuerdo, podrán declarar d
 
 Los casos no previstos en la convocatoria respectiva, serán resueltos en definitiva por los integrantes del Jurado.
 
-### CAPÍTULO VIII. Del régimen financiero para el desarrollo de los jóvenes
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE JUNIO DE 2018)</small>
+
+### CAPITULO VIII. Fondo de Promoción al Joven Emprendedor
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 41.
 
-El Fondo, es un mecanismo para el depósito y administración de recursos financieros que aporten el sector público, el sector privado y personas físicas o morales, que serán canalizados a través de la SEJUVE y estarán destinados a financiar los proyectos para jóvenes, la creación de empresas juveniles y proyectos de beneficio social en favor de la juventud.
+El Fondo de Promoción al Joven Emprendedor, en términos del artículo 104 duodecies de la ley, es un fideicomiso público, a cargo de la SEJUVE, que tiene por objeto financiar las ideas o los proyectos productivos de creación de negocios y empresas generadoras de empleos por los jóvenes yucatecos.
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 42.
 
-Los proyectos, empresas y acciones que se realicen con recursos del Fondo, deben procurar la participación de jóvenes en circunstancias de vulnerabilidad.
+El patrimonio del fondo se integrará con:
+
+I. Los recursos que le sean asignados o transferidos conforme al Presupuesto de Egresos del Gobierno del Estado de Yucatán.
+
+II. Los recursos que le transfieran o le asignen los Gobiernos federal, estatal o municipales.
+
+III. Las aportaciones en dinero o en especie de los sectores privado o social.
+
+IV. Las utilidades, intereses, dividendos y rendimientos de sus bienes y derechos.
+
+V. Los recursos que obtenga por cualquier otro medio legal.
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 43.
 
-Tendrán derecho a acceder al Fondo:
+Tendrán derecho a acceder al fondo:
 
-I. Los jóvenes emprendedores, que deseen poner en marcha algún proyecto novedoso o empresa, y
+I. Los jóvenes emprendedores de dieciocho a veintinueve años de edad, residentes en el estado de Yucatán, que sometan a criterio del comité técnico, sus propuestas de ideas o proyectos productivos de creación de negocios y empresas generadoras de empleos.
 
-II. Las asociaciones u organizaciones juveniles inscritas en el Censo de Asociaciones Juveniles que apoyen y trabajen para el desarrollo integral de jóvenes en circunstancia de vulnerabilidad.
+II. Los jóvenes emprendedores de quince a diecisiete años de edad, que sometan a criterio del comité técnico, sus propuestas de ideas o proyectos productivos de creación de negocios y empresas generadoras de empleos, siempre que sean representados por alguno de sus padres o tutores, quienes se constituirán en responsables solidarios.
+
+III. Las asociaciones u organizaciones juveniles inscritas en el Censo de Asociaciones Juveniles que apoyen y trabajen para el desarrollo integral de los jóvenes en circunstancias de vulnerabilidad.
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 44.
 
-Los interesados en obtener recursos del Fondo para el Desarrollo de los Jóvenes, deberán:
+El fondo, en términos del artículo 104 terdecies, contará con un comité técnico que será el órgano responsable de determinar los proyectos a financiar y estará integrado de la siguiente manera:
 
-I. Enviar una solicitud a la SEJUVE, exponiendo para que se invertirían los fondos proporcionados, y
+I. El secretario de la Juventud, quien será el presidente.
 
-II. Llenar los formularios que les proporcione la SEJUVE.
+II. El secretario de Administración y Finanzas.
+
+III. El secretario de Educación.
+
+IV. El secretario de Desarrollo Social.
+
+V. El secretario de Fomento Económico.
+
+VI. El secretario del Trabajo y Previsión Social.
+
+VII. El Instituto Yucateco de Emprendedores.
+
+VIII. Un representante del sector empresarial.
+
+IX. Un representante de una institución educativa de nivel superior.
+
+X. Un representante de una institución de investigación.
+
+Los integrantes del comité técnico designarán a sus suplentes, quienes los sustituirán en caso de ausencia.
+
+El Poder Ejecutivo, por conducto de la SEJUVE, determinará, previa convocatoria pública, a la empresa, la institución educativa de nivel superior y la institución de investigación a que se refieren las fracciones VIII, IX y X las cuales nombrarán a sus representantes, conformarán el comité técnico por un periodo de tres años y podrán ser removidas por la falta injustificada de sus representantes a dos sesiones consecutivas.
+
+Los cargos de los integrantes del comité técnico son de carácter honorífico, por lo tanto quienes los ocupen no devengarán retribución alguna por su desempeño.
+
+El comité técnico contará con un secretario técnico, quien será nombrado por el presidente y participará en las sesiones únicamente con derecho a voz.
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 45.
 
-Para otorgar los recursos del Fondo a los solicitantes, la SEJUVE llevará a cabo el siguiente procedimiento:
-
-I. Cada tres meses emitirá una convocatoria con los requisitos que deberán cumplir los interesados en participar en el concurso de proyectos;
-
-II. Cerrada la convocatoria, procederá a la evaluación de los proyectos;
-
-III. Con base en la evaluación realizada, elegirá el proyecto a financiar, y
-
-IV. Finalmente, entregará los recursos correspondientes al joven u organización o asociación participante.
-
-La SEJUVE deberá comprobar que los recursos otorgados por el Fondo sean utilizados para los fines que fueron requeridos.
+La ejecución y operación de los recursos del patrimonio del fondo se sujetarán a las reglas de operación que se expidan en términos de lo dispuesto por el artículo 133 de la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Yucatán.
 
 ###### Artículo 46.
 
-La SEJUVE se encargará del monitoreo, seguimiento y evaluación de los proyectos financiados por el Fondo, por lo que los jóvenes u organizaciones o asociaciones juveniles que reciban recursos del Fondo, deberán presentar un informe mensual y otro al final, que acrediten el uso de dichos recursos en el proyecto.
+(DEROGADO, D.O. 22 DE JUNIO DE 2018)
 
 ###### Artículo 47.
 
-El Fideicomiso se integrará con los siguientes recursos:
-
-I. Aportaciones por parte de la Federación, del Gobierno del Estado o de los Municipios;
-
-II. Donaciones provenientes del sector privado;
-
-III. Intereses derivados de las operaciones que se realicen;
-
-IV. Rendimientos financieros, y
-
-V. Lo que obtenga por cualquier otro medio legal.
+(DEROGADO, D.O. 22 DE JUNIO DE 2018)
 
 ###### Artículo 48.
 
-Para la administración del fideicomiso se constituirá un Comité Técnico que estará integrado por:
-
-I. Un Presidente, que será el Gobernador del Estado o quien éste designe;
-
-II. El Secretario General de Gobierno;
-
-III. El Fideicomitente, que será el Secretario de Planeación del Estado;
-
-IV. Los Vocales, que serán el Secretario de Hacienda, el Secretario de la Juventud y un representante de la Sociedad Civil propuesto por el Gobernador del Estado.
-
-Todos los miembros del Comité Técnico deberán nombrar a sus respectivos suplentes, para el caso de sus ausencias. Los cargos de los integrantes serán de carácter honorario.
+(DEROGADO, D.O. 22 DE JUNIO DE 2018)
 
 ## TRANSITORIOS
 
@@ -468,3 +480,13 @@ SECRETARIO GENERAL DE GOBIERNO
 C. JAVIER RENAN OSANTE SOLÍS
 
 SECRETARIO DE LA JUVENTUD
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 622/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN, EN MATERIA DE FOMENTO Y PROMOCIÓN AL JOVEN EMPRENDEDOR".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
