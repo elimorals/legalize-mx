@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-consejo-de-nomenclatura-y-monumentos-del-59270"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-04"
-last_updated: "2015-11-20"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DEL MUNICIPIO DE ENSENADA, DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 4 de enero de 2008.
 
@@ -59,11 +59,11 @@ REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DEL MUNICIPIO DE ENSENADA, B
 
 OBJETO Y ATRIBUCIONES DEL CONSEJO.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 1.
 
-Este Reglamento tiene por objeto regular el procedimiento, para asignar nombre a las Calles, Avenidas, Calzadas, Reformas, Glorietas, Colonias, Fraccionamientos, Plazas, Edificios Públicos, Centros Urbanos, Semi-Urbanos y Poblaciones Rurales, Puntos ó Accidentes Geográficos, así como para la ubicación y reubicación de monumentos y colocación de placas conmemorativas en el Municipio de Ensenada, Baja California.
+Este Reglamento tiene por objeto regular el procedimiento, para asignar nombre a las Calles, Avenidas, Calzadas, Reformas, Glorietas, Colonias, Fraccionamientos, Plazas, Edificios y/o Espacios Públicos Municipales, Andadores, Puentes de la Ciudad, Centros Urbanos, Semi-Urbanos y Poblaciones Rurales, Puntos ó Accidentes Geográficos, así como para la ubicación y reubicación de monumentos y colocación de placas conmemorativas en el Municipio de Ensenada, Baja California.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -71,13 +71,17 @@ Este Reglamento tiene por objeto regular el procedimiento, para asignar nombre a
 
 Se crea el Consejo Municipal de Nomenclatura y Monumentos de Ensenada, como Órgano de Consulta, Asesoría y Promoción de las acciones tendientes a la organización y ampliación de la nomenclatura municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 3.
 
-Para efectos de ampliación de este Reglamento, se consideran las siguientes definiciones:
+Para efectos de interpretación de este Reglamento, se consideran las siguientes definiciones:
 
 a) Reglamento.- Entiendase al Reglamento de Nomenclatura y Monumentos para el Municipio de Ensenada, B.C.
 
-b) Nomenclatura.- Entiendase por conjunto de datos que hacen posible la ubicación exacta de un lugar específico y la denominación que se asigne a las vías, espacios abiertos y monumentos.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+b) Nomenclatura.- Entiéndase por conjunto de datos que hacen posible la ubicación exacta de un lugar específico y la denominación que se asigne a las vías, edificios y/o espacios públicos municipales y monumentos.
 
 c) Consejo.- Entiendase al Consejo Municipal de Nomenclatura y Monumentos de Ensenada, Baja California.
 
@@ -107,17 +111,21 @@ g) En general llevar a cabo todos los actos, que para el cumplimiento del objeto
 
 h) Coadyuvar con la Dirección de Administración de Bienes Patrimoniales, por sí o por conducto del Secretario Técnico, para el registro y control de los monumentos y placas conmemorativas.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2018)</small>
+
+i) Estudiar y resolver para proponer al Ayuntamiento, lo referente a la aprobación de la asignación de nombres a cualquier espacio público municipal, tales como, unidades deportivas, edificios públicos, citados de manera enunciativa mas no limitativa.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 5.
 
-Los acuerdos dictados por el Ayuntamiento respecto a las propuestas del Consejo, serán ejecutadas por la autoridad competente, Dirección de Catastro y Control Urbano, Dirección de Infraestructura y Dirección de Servicios Públicos, según sea el caso.
+Los acuerdos dictados por el Ayuntamiento respecto a las propuestas del Consejo, serán ejecutados por la autoridad competente, Dirección de Administración Urbana, Ecología y Medio Ambiente y Dirección de Servicios Públicos Municipales e Infraestructura, según sea el caso.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 6.
 
-Corresponde a la Dirección de Catastro y Control Urbano la aplicación del presente Reglamento.
+Corresponde a la Dirección de Administración Urbana, Ecología y Medio Ambiente la aplicación del presente Reglamento.
 
 ### CAPITULO II
 
@@ -129,41 +137,79 @@ DE LA INTEGRACION DEL CONSEJO.
 
 El Consejo Municipal de Nomenclatura y Monumentos estará integrado por las siguientes Dependencias e Instituciones y Sociedad Civil que fungirán como vocales:
 
-- Regidor Coordinador de la Comisión de Gobernación y Legislación.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
-- Regidor Coordinador de la Comisión de Desarrollo Urbano y Ecología
+- Regidor Presidente de la Comisión de Gobernación y Legislación.
 
-- Regidor Coordinador de la Comisión de Educación, Cultura, Ciencia y Tecnología.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+- Regidor Presidente de la Comisión de Desarrollo Urbano y Ecología
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+- Regidor Presidente de la Comisión de Educación, Cultura Ciencia y Tecnología.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2018)</small>
 
 - El Cronista de la Ciudad.
 
-- Dirección de Catastro y Control Urbano.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
-- Dirección de Servicios Públicos Municipales.
+- Dirección de Administración Urbana, Ecología y Medio Ambiente.
 
-- Dirección de Policía y Tránsito Municipal.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+- Dirección de Servicios Públicos Municipales e Infraestructura.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+- Dirección de Seguridad Pública Municipal.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 - Instituto de Cultura de Baja California.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 - Un representante de las asociaciones de historia de Ensenada.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 - Un representante de cada uno de los Subcomités Sectoriales del COPLADEM siguientes: Desarrollo Urbano y Ecología, Obras y Servicios Públicos y Educación y Cultura.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 - Delegación del INFONAVIT.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 - INDIVI (Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado de Baja California).
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 - Cámara Nacional de Comercio y Servicios Turísticos de Ensenada.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 - Cámara Nacional de la Industria y la Transformación.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 - Un representante de las asociaciones de arquitectos de Ensenada.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 - Un representante de las asociaciones de ingenieros civiles de Ensenada.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 - Secretaría de Infraestructura y Desarrollo Urbano del Estado.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 - Consejo de Urbanización Municipal de Ensenada.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 - CANADEVI (Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda).
 
@@ -179,11 +225,11 @@ La estructura del Consejo Municipal de Nomenclatura y Monumentos se constituye p
 
 El Consejo será presidido por el C. Presidente Municipal de Ensenada, quien por motivo de su cargo puede delegar su representación para las juntas, reuniones ó Asamblea del mismo.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 10.
 
-El Secretario Técnico del Consejo será el Director de Catastro y Control Urbano.
+El Secretario Técnico del Consejo será el Director de Administración Urbana, Ecología y Medio Ambiente.
 
 ###### ARTICULO 11.
 
@@ -213,7 +259,9 @@ DE LAS FUNCIONES DEL CONSEJO.
 
 Las funciones del Consejo serán las siguientes:
 
-a) Procurar que las Calles, Avenidas, Calzadas, Diagonales, Cerradas, Retornos, Parques, Jardines y nuevos Asentamientos Humanos de la Municipalidad, lleven los nombres adecuados que tiendan a su fácil identificación y localización, pudiendo ser la identificación numérica o alfabética, o bien los nombres de las personas, que por sus virtudes cívicas o por los servicios prestados a la colectividad, al Municipio, al Estado, a la Patria o a la Humanidad, merezcan el reconocimiento público y de igual forma la utilización de fechas o efemérides de significación cívica o patriótica. En todo caso, deberán evitarse duplicaciones en las denominaciones, así como la anarquía en la numeración para impedir las confusiones que con ello se provoca.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+a) Procurar que las Calles, Avenidas, Calzadas, Diagonales, Cerradas, Retornos, edificios y/o espacios públicos municipales y nuevos Asentamientos Humanos de la Municipalidad, lleven los nombres adecuados que tiendan a su fácil identificación y localización, pudiendo ser la identificación numérica o alfabética, o bien los nombres de las personas, que por sus virtudes cívicas o por los servicios prestados a la colectividad, al Municipio, al Estado, a la Patria o a la Humanidad, merezcan el reconocimiento público y de igual forma la utilización de fechas o efemérides de significación cívica o patriótica. En todo caso, deberán evitarse duplicaciones en las denominaciones, así como la anarquía en la numeración para impedir las confusiones que con ello se provoca.
 
 b) Promover la fijación de placas y otros medios de identificación a las Calles, Avenidas, Calzadas, Diagonales, Cerradas, Retornos y Plazas, así como todo lugar de interés público determinando los detalles sobre colocación, medidas, materiales, colores, etc., de acuerdo con las especificaciones reglamentarias y de las mejoras técnicas recomendables.
 
@@ -371,15 +419,17 @@ Todos los Fraccionamientos y Desarrollos Urbanos, Suburbanos y Rurales comprendi
 
 DEL PROCEDIMIENTO PARA ESTABLECER LA NOMENCLATURA.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 34.
 
-Corresponde a los ciudadanos mexicanos avecinados en esta ciudad y a grupos o asociaciones legalmente constituidos con domicilio en esta ciudad, elevar al Consejo, por conducto del Presidente Municipal, las propuestas para asignación de nombres a las Vialidades, Parques, Andadores y Puentes de la ciudad.
+Las propuestas para asignación de nombres a los espacios públicos objeto de este Reglamento serán elevados al Consejo por conducto del Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 35.
 
-Las propuestas de modificación de nombre de una Vialidad, Parque, Colonia, Andador y Puentes, deberán ser entregadas al Secretario Técnico del Consejo para su recopilación y programación de revisión en el Consejo en pleno.
+Las propuestas de modificación de nombre de un espacio objeto de este Reglamento, deberán ser entregadas al Secretario Técnico del Consejo para su recopilación y programación de revisión en el Consejo en pleno.
 
 ###### ARTICULO 36.
 
@@ -415,17 +465,31 @@ Solo serán susceptibles de Estudio las propuestas que incluyan nombres que se a
 
 De cada propuesta se formará un expediente, los cuales deberán ser ordenados en forma numérica ascendente, abriendo un archivo para el efecto, el cual deberá de ser resguardado en la Subdirección de Catastro y a cargo del Secretario Técnico del Consejo y se otorgará copia del expediente a cada uno de los Miembros del Consejo y Asistentes invitados a la Sesión en que habrá de ser discutida la propuesta; dicho expediente necesariamente deberá de contener:
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 a) El motivo de la propuesta.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 b) Quién ó qué origina la misma
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 c) La Biografía de la persona de la cual se pretende denominar con su nombre una vialidad, parque, andador, puentes o desarrollo urbano.
 
-d) La condición actual de la vialidad, parque, andador, puente o desarrollo urbano.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+d) La condición actual del espacio material de la propuesta.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 e) Antecedentes de la vialidad o zona de estudio.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 f) Tratándose de una propuesta de modificación de nombre de una vialidad, se deberá acompañar una relación con nombre, dirección y firma de aprobación del 80% de los vecinos afectados.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 Los requisitos señalados en los incisos d) y e), serán aportados por el Secretario Técnico del Consejo.
 
@@ -439,9 +503,11 @@ En todos los casos del (sic) Consejo procederá a efectuar una verificación de 
 
 Una vez obtenida toda la información y documentos necesarios, el Consejo procederá a emitir su voto en forma económica a favor o en contra, siendo necesario un mínimo del cincuenta por ciento más uno del total de los Miembros que conforman el Consejo, atendiendo en todo momento lo dispuesto por los artículos 25, 26 y 27 del presente Reglamento, para efecto de turnar la propuesta bien requisitada al Ayuntamiento para su discusión y en su caso, aprobación definitiva, mediante votación por mayoría calificada.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 43.
 
-Los nombres de Calles, Colonias, Fraccionamientos, Parques, Andadores y Puentes, deberán ser congruentes con el contexto histórico, cultural o geográfica de la zona del Municipio donde se pretenda su asignación o colocación, siendo responsabilidad del Consejo cuidar que estas disposiciones se cumplan al momento de elevar su propuesta al Ayuntamiento.
+Los nombres de los espacios objeto de este Reglamento, deberán ser congruentes con el contexto histórico, cultural o geográfico de la zona del Municipio donde se pretenda su asignación o colocación, siendo responsabilidad del Consejo cuidar que estas disposiciones se cumplan al momento de elevar su propuesta al Ayuntamiento.
 
 ###### ARTICULO 44.
 
@@ -482,3 +548,9 @@ P.O. 20 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 69 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA; REFORMA LOS ARTÍCULOS 4 Y 10 DEL REGLAMENTO DE BIENES PATRIMONIALES; REFORMA EL ARTÍCULO 1 Y ADICIONAR EL INCISO H DEL ARTÍCULO 4 DEL REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 3, 4, 5, 6, 7, 10, 15, 34, 35, 40 Y 43 DE (SIC) REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
