@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2018-03-09"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LIC"
 ---
 # LEY DE INSTITUCIONES DE CREDITO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INSTITUCIONES DE CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -35,8 +37,6 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 DECRETO
 
 "EL H. CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO VIGÉSIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO PUBLICADO EN EL D.O.F. EL 10 DE ENERO DE 2014, CUANDO ÉSTE U OTROS DECRETOS, CÓDIGOS, LEYES, REGLAMENTOS O DISPOSICIONES JURÍDICAS EMITIDAS CON ANTERIORIDAD AL PRESENTE DECRETO, ASÍ COMO TODOS LOS CONTRATOS, CONVENIOS Y DEMÁS ACTOS JURÍDICOS CELEBRADOS POR LA INSTITUCIÓN, HAGAN REFERENCIA A LA FINANCIERA RURAL, SE ENTENDERÁ QUE HACEN REFERENCIA A LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO.</small>
 
 LEY DE INSTITUCIONES DE CREDITO
 
@@ -146,7 +146,7 @@ En lo no previsto por la presente Ley y por la Ley Orgánica del Banco de Méxic
 
 I. La legislación mercantil;
 
-II. Los usos y prácticas bancarios y mercantiles, y (sic)
+II. Los usos y prácticas bancarios y mercantiles, y
 
 > <small>(REFORMADA, D.O.F. 6 DE FEBRERO DE 2008)</small>
 
@@ -590,7 +590,7 @@ IV. Las personas sentenciadas por delitos patrimoniales; las inhabilitadas para 
 
 V. Los quebrados y concursados que no hayan sido rehabilitados;
 
-VI. Quienes realicen funciones de inspección y vigilancia de las instituciones de crédito, y (sic)
+VI. Quienes realicen funciones de inspección y vigilancia de las instituciones de crédito, y
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1552,8 +1552,6 @@ ARTICULO 44 BIS 5.- Las instituciones de la banca de desarrollo deberán promove
 
 Para efectos de esta Ley se entenderá por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, D.O.F. 18 DE JULIO DE 2006)</small>
 
 I. Filial: La sociedad mexicana autorizada para organizarse y operar, conforme a esta Ley, como institución de banca múltiple, y en cuyo capital participe una Institución Financiera del Exterior o una Sociedad Controladora Filial en los términos del presente capítulo;
@@ -1561,8 +1559,6 @@ I. Filial: La sociedad mexicana autorizada para organizarse y operar, conforme a
 II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
 
 III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -1589,8 +1585,6 @@ Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se p
 ###### ARTICULO 45-D.
 
 Las autoridades financieras, en el ámbito de sus respectivas competencias, garantizarán el cumplimiento de los compromisos de trato nacional que en su caso sean asumidos por México, en los términos establecidos en el tratado o acuerdo internacional aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -1715,8 +1709,6 @@ VIII. Quienes hayan ocupado un cargo de dirección o administrativo en la instit
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 El consejo deberá reunirse por lo menos trimestralmente y de manera adicional, cuando sea convocado por el Presidente del consejo, al menos una cuarta parte de los consejeros, o cualquiera de los comisarios de la institución. Para la celebración de las sesiones ordinarias y extraordinarias del consejo de administración, se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos uno deberá ser consejero independiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -1906,7 +1898,7 @@ XXI. Desempeñar la sindicatura o encargarse de la liquidación judicial o extra
 
 XXII. Encargarse de hacer avalúos que tendrán la misma fuerza probatoria que las leyes asignan a los hechos por corredor público o perito;
 
-XXIII. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda, y (sic)
+XXIII. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda, y
 
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -2384,6 +2376,10 @@ El titular de las operaciones a que se refieren las fracciones I y II del artíc
 
 En caso de fallecimiento del titular, la institución de crédito entregará el importe correspondiente a quienes el propio titular hubiese designado, expresamente y por escrito, como beneficiarios, en la proporción estipulada para cada uno de ellos.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+En caso de que el titular tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en los términos de la legislación especial en la materia, la institución de crédito entregará el importe a los beneficiarios, en los términos establecidos en la resolución de la Declaración Especial de Ausencia correspondiente.
+
 Si no existieren beneficiarios, el importe deberá entregarse en los términos previstos en la legislación común.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
@@ -2556,7 +2552,7 @@ En todos los casos deberá existir constancia de que los procedimientos de créd
 
 Para la adecuada observancia de lo previsto en el presente artículo, las instituciones de crédito se ajustarán a las disposiciones de carácter prudencial que, en materia de crédito y administración de riesgos, expida la Comisión Nacional Bancaria y de Valores para procurar la solvencia de las instituciones de crédito y proteger los intereses del público.
 
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN DEL CUARTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN DEL CUARTO PÁRRAFO DE FECHA 10 DE ENERO DE 2014 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.]</small>
 
 La Comisión Nacional Bancaria y de Valores vigilará que las instituciones de crédito observen debidamente lo dispuesto en el presente artículo.
 
@@ -2935,8 +2931,6 @@ En caso de renuncia o remoción, se estará a lo dispuesto en el párrafo final 
 ###### ARTICULO 85.
 
 Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que él mismo, para los efectos de este artículo, declare de interés público a través de la Secretaría de Hacienda y Crédito Público, no será aplicable el plazo que establece la fracción III del artículo 394 de la Ley General de Títulos y Operaciones de Crédito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -3363,8 +3357,6 @@ I. Las instituciones de crédito reguladas en la presente Ley, así como a los d
 II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores colocados mediante oferta pública, respecto de los recursos provenientes de dicha colocación, y
 
 III. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV. (DEROGADA, D.O.F. 18 DE JULIO DE 2006)
 
@@ -4318,8 +4310,6 @@ En los casos previstos en los artículos 114 Bis 1, 114 Bis 2, 114 Bis 3 y 114 B
 
 Lo dispuesto en los artículos citados en este Capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 Las instituciones de crédito, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión Nacional Bancaria y de Valores, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
@@ -4348,8 +4338,6 @@ Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas disposic
 
 a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 b. La información y documentación que dichas instituciones deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
@@ -4370,13 +4358,9 @@ e. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas
 
 f. El establecimiento de aquellas estructuras internas que deban funcionar como áreas de cumplimiento en la materia, al interior de cada institución de crédito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 Las instituciones de crédito deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -4398,8 +4382,6 @@ La Secretaría de Hacienda y Crédito Público establecerá, en las disposicione
 
 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en el artículo 142 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las instituciones de crédito, así como por los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
@@ -4409,8 +4391,6 @@ Las disposiciones de carácter general a que se refiere este artículo deberán 
 La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión Nacional Bancaria y de Valores conforme al procedimiento previsto en el artículo 107 Bis, 109 Bis 5, segundo y tercer párrafos de la presente Ley, con multa equivalente del 10% al 100% del monto del acto, operación o servicio que se realice con un cliente o usuario que se haya informado que se encuentra en la lista de personas bloqueadas a que se refiere este artículo; con multa equivalente del 10% al 100% del monto de la operación inusual no reportada o, en su caso, de la serie de operaciones relacionadas entre sí del mismo cliente o usuario, que debieron haber sido reportadas como operaciones inusuales; tratándose de operaciones relevantes, internas preocupantes, las relacionadas con transferencias internacionales y operaciones en efectivo realizadas en moneda extranjera, no reportadas, así como los incumplimientos a cualquiera de los incisos a., b., c., e. (sic) del quinto párrafo de este artículo, se sancionará con multa de 30,000 a 100,000 días de salario y en los demás casos de incumplimiento a este precepto y a las disposiciones que de él emanen multa de 5,000 a 50,000 días de salario.
 
 > <small>(DEROGADO DÉCIMO PRIMER PÁRRAFO, D.O.F. 6 DE FEBRERO DE 2008)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -4430,8 +4410,6 @@ Para la imposición de las sanciones y multas previstas en el presente Capítulo
 
 Para determinar el monto de la operación, quebranto o perjuicio patrimonial, previstos en este capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2008)</small>
@@ -4442,7 +4420,7 @@ ARTICULO 116 BIS.- Los delitos previstos en esta Ley sólo admitirán comisión 
 
 ARTICULO 116 BIS 1.- Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las instituciones de crédito, éstas les hubieren otorgado, serán consideradas como funcionarios o empleados de dichas instituciones, para efectos de las responsabilidades administrativas y penales establecidas en el presente Título.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DEL 10 DE ENERO DE 2014, SE DEROGAN LOS ARTÍCULOS DEL 122 BIS AL 122 BIS 35, ASÍ COMO CAMBIA LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DEL 10 DE ENERO DE 2014, SE DEROGAN LOS ARTÍCULOS DEL 122 BIS AL 122 BIS 35, ASÍ COMO CAMBIA LA ESTRUCTURA DEL PRESENTE TÍTULO.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -7897,3 +7875,13 @@ D.O.F. 9 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE EXPIDE LA LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY PARA LA TRANSPARENCIA Y ORDENAMIENTO DE LOS SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA, DE LA LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, DE LA LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES Y, DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
