@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2017-11-24"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -669,7 +669,9 @@ XIV. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como
 
 XV. Fomentar y ejecutar los programas de vacunación, y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
-XVI. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH/SIDA, y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+XVI. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH/SIDA, virus del papiloma humano, y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
 
 XVII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva;
 
@@ -2344,3 +2346,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 988.- SE REFORMA EL ARTÍCULO 103 EN SU FRACCIÓN VIII; Y ADICIONA EL ARTÍCULO 103 BIS DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA EL ARTÍCULO 46 EN SU FRACCIÓN XVI DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
