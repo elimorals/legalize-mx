@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2016-10-28"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -115,7 +115,9 @@ II.- CAAD: La Comisión de Apelación y Arbitraje del Deporte;
 
 III.- COEVED: Consejo Estatal de Vigilancia Electoral Deportiva;
 
-IV.- Comisión: La Comisión de Juventud y Deporte del Congreso del Estado de Baja California;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+IV.- Comisión: La Comisión legislativa competente en materia de cultura física y deporte del Congreso del Estado de Baja California;
 
 V.- CONADE: La Comisión Nacional de Cultura Física y Deporte;
 
@@ -619,7 +621,9 @@ El SECUDE deberá sesionar cuando menos una vez al año, a efecto de fijar la po
 
 Para que las sesiones del SECUDE sean válidas se requiere la presencia de la mitad más uno de sus integrantes y sus determinaciones se tomarán por mayoría de votos de los integrantes presentes.
 
-En las sesiones del SECUDE serán invitados permanentes, previa convocatoria, los integrantes de la Comisión de Juventud y Deporte del Congreso del Estado, quienes tendrán voz para opinar sobre los temas que se aborden.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+En las sesiones del SECUDE serán invitados permanentes, previa convocatoria, los integrantes de la Comisión legislativa competente en materia de cultura física y deporte del Congreso del Estado de Baja California, quienes tendrán voz para opinar sobre los temas que se aborden.
 
 De cada sesión se elaborará un acta en la que constarán las resoluciones y acuerdos tomados.
 
@@ -675,7 +679,9 @@ I.- Participar en el deporte o deportes de su elección;
 
 II.- Asociarse u organizarse para la práctica del deporte, y en su caso, para la defensa de sus derechos, y ejercer todos los derechos inherentes a la conformación de una organización deportiva;
 
-III.- Utilizar las instalaciones deportivas de acuerdo con la normatividad establecida;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+III.- Utilizar las instalaciones deportivas de acuerdo con la normatividad establecida, procurando en todo momento ser respetuoso del derecho de uso de las demás personas;
 
 IV.- Recibir asistencia y entrenamiento deportivo, así como servicios médicos adecuados en competencias oficiales, siempre y cuando estén debidamente inscritos en el RECUDE;
 
@@ -697,7 +703,9 @@ XII.- Ejercer su derecho de voz y voto cuando así lo permitan los estatutos de 
 
 XIII.- Disponer de los espacios adecuados para el pleno desarrollo de sus actividades, tratándose de deportistas con discapacidad y demás poblaciones especiales;
 
-XIV.- Participar en las consultas públicas a que se convoque para la elaboración de los planes y programas Estatales y Municipales en materia de cultura física y deporte;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+XIV.- Participar en las consultas públicas a que se convoque para la elaboración de los planes y programas Estatales y Municipales en materia de cultura física y deporte, así como para aquellas que las autoridades de ambos órdenes de gobierno convoquen periódicamente para el diseño, seguimiento y evaluación de las políticas públicas en la materia;
 
 XV.- Recibir, en los términos de Ley, facilidades para su incorporación y promoción en los diversos niveles y modalidades de la Secretaría de Educación y Bienestar Social, tratándose de deportistas sobresalientes, de talento o seleccionados en certámenes de alto rendimiento;
 
@@ -827,7 +835,17 @@ III. Será un foro permanente que garantice la participación ciudadana en la to
 
 IV. Vincularse y mantener una estrecha coordinación con los consejos municipales de cultura física y deporte; y
 
-V. Las demás que le otorgue esta Ley, su reglamento u otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2018)</small>
+
+V. Promover la prevención de conflictos y su pacífica solución entre los integrantes del SECUDE;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+VI. Atender y dar seguimiento, en el ámbito de su competencia, a las recomendaciones que emitan la Comisión Nacional de Derechos Humanos y la Comisión Estatal de Derechos Humanos de Baja California;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 2018)</small>
+
+VII. Las demás que le otorgue esta Ley, su reglamento u otros ordenamientos legales.
 
 ###### ARTÍCULO 58.
 
@@ -849,9 +867,13 @@ VII. Un representante titular de la iniciativa privada.
 
 A las sesiones del Consejo Estatal serán invitados permanentes, previa convocatoria, los representantes de Instituciones u organismos que fomenten la cultura física y el deporte, cuando así lo considere necesario el Consejo, quienes tendrán voz para opinar sobre los temas que se aborden.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 59.
 
-Los miembros del Consejo Estatal serán electos por el pleno, para un período de dos años y podrá ser reelecto un período más por mayoría simple. En caso de que lo aprueben las dos terceras partes de los miembros del SECUDE, los integrantes del Consejo podrán ser ratificados total o parcialmente por períodos similares subsecuentes.
+Los miembros del Consejo Estatal serán electos por el pleno del SECUDE, para un periodo de dos años y no podrán ser reelectos para el periodo inmediato posterior, salvo aquellos previstos en las fracciones I y II del artículo anterior, quienes serán miembros del Consejo Estatal mientras desempeñen el cargo público respectivo.
+
+Para la elección de los representantes previstos en las fracciones III, IV, V, VI y VII del artículo 58, el INDE deberá expedir, con debida anticipación y difusión, una convocatoria pública abierta en la cual puedan participar todos aquellos aspirantes a integrar el Consejo Estatal de Cultura Física y Deporte.
 
 ###### ARTÍCULO 60.
 
@@ -894,6 +916,10 @@ IV. Un representante de los medios de difusión;
 V. Un representante de la iniciativa privada; y
 
 VI. Los demás que el Reglamento Municipal determine.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+Para la elección de los representantes previstos en las fracciones II, III, IV y V, los Ayuntamientos deberá (sic) expedir, con debida anticipación y difusión, una convocatoria pública abierta en la cual puedan participar todos aquellos aspirantes a integrar cada uno de los Consejos Municipales correspondientes.
 
 A las sesiones del Consejo podrán ser invitados, los representantes de Instituciones u organismos que fomenten la cultura física y el deporte, cuando así lo considere necesario el Consejo, quienes tendrán voz para opinar sobre los temas que se aborden.
 
@@ -1954,3 +1980,11 @@ P.O. 28 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 677 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 31 FRACCIÓN VII ADICIONADO (SIC) UNA FRACCIÓN VIII A LA LEY DE CULTURA FÍSICA Y DEPORTES PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 239 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7, 39, 45, 57, 59 Y 66 DE (SIC) LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Poder Ejecutivo del Estado y los Ayuntamientos deberán expedir las convocatorias correspondientes para la integración del Consejo Estatal y Consejos Municipales de Cultura Física y Deporte respectivamente dentro de los 60 días contados a partir de la publicación del presente decreto.
