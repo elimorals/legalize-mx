@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2017-12-31"
+last_updated: "2018-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -301,9 +301,9 @@ II. Coordinarse por conducto de la Comisión de Vigilancia, con la Auditoría Su
 
 III. Nombrar y remover a los empleados del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
 
-IV. Elaborar su presupuesto de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, remitiéndolo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado~ asimismo, administrarlo y ejercerlo en forma autónoma en los términos que disponga la ley~
+IV. Elaborar su presupuesto de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, remitiéndolo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; asimismo, administrarlo y ejercerlo en forma autónoma en los términos que disponga la ley. En el caso de los diputados, queda prohibido asignar cualquier tipo de partida adicional a su dieta y prestaciones económicas que por el ejercicio de su función les corresponde.
 
 V. Designar antes de la clausura de cada periodo ordinario de sesiones, a la Diputación Permanente que funcionará en el receso del Congreso del Estado, y
 
@@ -2476,5 +2476,13 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 859.- SE REFORMAN LOS ARTÍCULO (SIC) 118, 126 Y 128, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 989.- SE REFORMA EL ARTÍCULO 19 EN SU FRACCIÓN IV, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero del año dos mil diecinueve, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
