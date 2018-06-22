@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-educacion-y-56734"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-10"
-last_updated: "2011-05-27"
+last_updated: "2018-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE EDUCACION Y BIENESTAR SOCIAL
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE EDUCACION Y BIENESTAR SOCIAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL, PUBLICADO EN EL P.O. DE 22 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+REGLAMENTO INTERNO DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL DEL ESTADO DE BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de agosto de 2007.
 
@@ -2017,7 +2019,7 @@ I. Subdirección de Educación Media Superior, que contará con: Departamento de
 
 II. Subdirección de Educación Superior, que contará con: Departamento de Desarrollo y Evaluación Institucional, Departamento de Regulación de Instituciones Particulares y Departamento de Profesiones.
 
-Ill. Subdirección de Investigación que contará con: Departamento de Programas y Proyectos y Departamento de Difusión y Divulgación.
+III. Subdirección de Investigación que contará con: Departamento de Programas y Proyectos y Departamento de Difusión y Divulgación.
 
 ###### ARTÍCULO 70.
 
@@ -4164,3 +4166,29 @@ P.O. 29 DE ENERO DE 2010.
 P.O. 27 DE MAYO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría de Educación y Bienestar Social, publicado en el Periódico Oficial del Estado de fecha 10 de agosto del 2007 y su reforma publicada en el Periódico Oficial del Estado de fecha 27 de mayo de 2011.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO.- Los asuntos que hasta antes de la entrada en vigor de este Reglamento, se estuvieren substanciando en las unidades administrativas que en virtud de este ordenamiento se suprimen o modifican en la estructura de la SEBS, se turnarán de inmediato a las unidades administrativas que por efecto del mismo resulten competentes para la continuación de su trámite.
+
+QUINTO.- Serán respetados conforme a las políticas, bases y lineamientos aplicables, los derechos laborales del personal, que en virtud de la reestructuración orgánica implícita en el presente Reglamento pudieran resultar afectados.
+
+SEXTO.- Los recursos financieros y materiales que estuvieren asignados a las unidades administrativas que desaparecen o modifican su competencia y/o estructura en virtud de lo dispuesto en el presente Reglamento, serán reasignados a las unidades administrativas que asumen las correspondientes funciones, de conformidad con la normatividad aplicable.
+
+SÉPTIMO.- La organización interna de las unidades administrativas que determina el presente Reglamento, así como la distribución de sus funciones, niveles jerárquicos y relaciones de autoridad se detallarán en el manual de organización que al efecto expida el Secretario, dentro de los 180 días siguientes a la publicación del presente Reglamento.
+
+OCTAVO.- Las funciones del Órgano Interno de Control continuaran ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no se autoricen los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 16 del presente instrumento, lo cual no podrá excederse del inicio del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2018.
+
+En cualquier caso, su funcionamiento de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California, e iniciará funciones a más tardar el primero de enero de 2019.
+
+NOVENO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Secretario, queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
