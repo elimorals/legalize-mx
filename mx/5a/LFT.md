@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2018-05-30"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -1390,13 +1390,17 @@ XXVI Bis. Afiliar al centro de trabajo al Instituto del Fondo Nacional para el C
 
 XXVII. Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-XXVII Bis. Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante; y
+XXVII Bis. Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-XXVIII. Participar en la integración y funcionamiento de las Comisiones que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por esta Ley.
+XXVIII. Participar en la integración y funcionamiento de las Comisiones que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por esta Ley, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+XXIX. Otorgar permiso sin goce de sueldo a las y los trabajadores declarados desaparecidos que cuenten con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1442,13 +1446,17 @@ XII. Realizar actos de hostigamiento y/o acoso sexual contra cualquier persona e
 
 XIII. Permitir o tolerar actos de hostigamiento y/o acoso sexual en el centro de trabajo;
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-XIV. Exigir la presentación de certificados médicos de no embarazo para el ingreso, permanencia o ascenso en el empleo; y
+XIV. Exigir la presentación de certificados médicos de no embarazo para el ingreso, permanencia o ascenso en el empleo;
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-XV. Despedir a una trabajadora o coaccionarla directa o indirectamente para que renuncie por estar embarazada, por cambio de estado civil o por tener el cuidado de hijos menores.
+XV. Despedir a una trabajadora o coaccionarla directa o indirectamente para que renuncie por estar embarazada, por cambio de estado civil o por tener el cuidado de hijos menores, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+XVI. Dar de baja o terminar la relación laboral de un trabajador que tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia.
 
 ### CAPITULO II. Obligaciones de los Trabajadores
 
@@ -1558,9 +1566,17 @@ Las aportaciones al Fondo Nacional de la Vivienda son gastos de previsión socia
 
 I. En los casos de incapacidad total permanente, de incapacidad parcial permanente, cuando ésta sea del 50% o más; de invalidez definitiva, en los términos de la Ley del Seguro Social; de jubilación; o de muerte del trabajador, se entregará el total de los depósitos constituidos, a él o sus beneficiarios, con una cantidad adicional igual a dichos depósitos, en los términos de la Ley, a que se refiere el artículo 139;
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+En caso de que el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, se procederá de la misma forma observando lo establecido en la legislación especial en la materia.
+
 II. Cuando el trabajador deje de estar sujeto a una relación de trabajo y cuente con 50 o más años de edad, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor, en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
 III. En caso de que el trabajador hubiere recibido crédito del Instituto, las cantidades a que tuviere derecho en los términos de las fracciones anteriores, se aplicarán a la amortización del crédito, salvo en los casos de incapacidad total permanente o de muerte, en los términos del artículo 145 si después de hacer la aplicación de dichas cantidades a la amortización del crédito quedare saldo a favor del trabajador se le entregará a éste el monto correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+En caso de que el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, el pago del crédito solicitado deberá ser suspendido hasta en tanto no se haya localizado con o sin vida.
 
 Para la devolución de los depósitos y cantidades adicionales bastará que la solicitud por escrito se acompañe con las pruebas pertinentes.
 
@@ -4818,9 +4834,11 @@ Las disposiciones de este Título se aplican a todas las relaciones de trabajo, 
 
 Riesgos de trabajo son los accidentes y enfermedades a que están expuestos los trabajadores en ejercicio o con motivo del trabajo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JUNIO DE 2018)</small>
+
 ###### Artículo 474.
 
-Accidente de trabajo es toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte, producida repentinamente en ejercicio, o con motivo del trabajo, cualesquiera que sean el lugar y el tiempo en que se preste.
+Accidente de trabajo es toda lesión orgánica o perturbación funcional, inmediata o posterior, la muerte o la desaparición derivada de un acto delincuencial, producida repentinamente en ejercicio o con motivo del trabajo, cualesquiera que sean el lugar y el tiempo en que se preste.
 
 Quedan incluidos en la definición anterior los accidentes que se produzcan al trasladarse el trabajador directamente de su domicilio al lugar del trabajo y de éste a aquél.
 
@@ -4848,9 +4866,17 @@ I. Incapacidad temporal;
 
 II. Incapacidad permanente parcial;
 
-III. Incapacidad permanente total; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-IV. La muerte.
+III. Incapacidad permanente total;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+IV. La muerte, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+V. Desaparición derivada de un acto delincuencial.
 
 ###### Artículo 478.
 
@@ -4988,17 +5014,21 @@ No es aplicable lo dispuesto en el párrafo anterior si el trabajador recibió l
 
 Si un trabajador víctima de un riesgo no puede desempeñar su trabajo, pero sí algún otro, el patrón estará obligado a proporcionárselo, de conformidad con las disposiciones del contrato colectivo de trabajo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JUNIO DE 2018)</small>
+
 ###### Artículo 500.
 
-Cuando el riesgo traiga como consecuencia la muerte del trabajador, la indemnización comprenderá:
+Cuando el riesgo traiga como consecuencia la muerte o la desaparición derivada de un acto delincuencial del trabajador, la indemnización comprenderá:
 
 I. Dos meses de salario por concepto de gastos funerarios; y
 
 II. El pago de la cantidad que fija el artículo 502.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JUNIO DE 2018)</small>
+
 ###### Artículo 501.
 
-Tendrán derecho a recibir la indemnización en los casos de muerte:
+Tendrán derecho a recibir indemnización en los casos de muerte o desaparición derivada de un acto delincuencial:
 
 I. La viuda, o el viudo que hubiese dependido económicamente de la trabajadora y que tenga una incapacidad de cincuenta por ciento o más, y los hijos menores de dieciséis años y los mayores de esta edad si tienen una incapacidad de cincuenta por ciento o más;
 
@@ -5014,23 +5044,25 @@ IV.- A falta de cónyuge supérstite, hijos y ascendientes, las personas que dep
 
 V. A falta de las personas mencionadas en las fracciones anteriores, el Instituto Mexicano del Seguro Social.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 502.
 
-En caso de muerte del trabajador, la indemnización que corresponda a las personas a que se refiere el artículo anterior será la cantidad equivalente al importe de cinco mil días de salario, sin deducir la indemnización que percibió el trabajador durante el tiempo en que estuvo sometido al régimen de incapacidad temporal.
+En caso de muerte o por desaparición derivada de un acto delincuencial del trabajador, la indemnización que corresponda a las personas a que se refiere el artículo anterior será la cantidad equivalente al importe de cinco mil días de salario, sin deducir la indemnización que percibió el trabajador durante el tiempo en que estuvo sometido al régimen de incapacidad temporal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 503.
 
-Para el pago de la indemnización en los casos de muerte por riesgo de trabajo, se observarán las normas siguientes:
+Para el pago de la indemnización en los casos de muerte o desaparición derivada de actos delincuenciales, por riesgo de trabajo, se observarán las normas siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-I. El Inspector del Trabajo que reciba el aviso de la muerte, o la Junta de Conciliación y Arbitraje ante la que se reclame el pago de la indemnización, mandará practicar dentro de las veinticuatro horas siguientes una investigación encaminada a averiguar qué personas dependían económicamente del trabajador y ordenará se fije un aviso en lugar visible del establecimiento donde prestaba sus servicios, convocando a los beneficiarios para que comparezcan ante la Junta de Conciliación y Arbitraje, dentro de un término de treinta días, a ejercitar sus derechos;
+I. El Inspector del Trabajo que reciba el aviso de la muerte o de la desaparición por actos delincuenciales, o la Junta de Conciliación y Arbitraje ante la que se reclame el pago de la indemnización, mandará practicar dentro de las veinticuatro horas siguientes una investigación encaminada a averiguar qué personas dependían económicamente del trabajador y ordenará se fije un aviso en lugar visible del establecimiento donde prestaba sus servicios, convocando a los beneficiarios para que comparezcan ante la Junta de Conciliación y Arbitraje, dentro de un término de treinta días, a ejercitar sus derechos;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-II. Si la residencia del trabajador en el lugar de su muerte era menor de seis meses, se girará exhorto a la Junta de Conciliación y Arbitraje o al Inspector del Trabajo del lugar de la última residencia, a fin de que se practique la investigación y se fije el aviso mencionado en la fracción anterior;
+II. Si la residencia del trabajador en el lugar de su muerte o cuando sucedió la desaparición por actos delincuenciales era menor de seis meses, se girará exhorto a la Junta de Conciliación y Arbitraje o al Inspector del Trabajo del lugar de la última residencia, a fin de que se practique la investigación y se fije el aviso mencionado en la fracción anterior;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -11403,3 +11435,13 @@ D.O.F. 30 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 265 DE LA LEY FEDERAL DEL TRABAJO”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
