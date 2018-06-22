@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2017-06-10"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -327,7 +327,7 @@ La Ley Electoral del Estado normará el proceso de preparación, desarrollo y ve
 
 ###### ARTICULO 17.
 
-Los ayuntamientos serán electos para un período de tres años; se instalarán solemne y públicamente el día uno de octubre del año de su elección; sus miembros protestarán ante el ayuntamiento saliente, representado por su Presidente, o en su caso, por quien designe el Honorable Congreso del Estado.
+Los ayuntamientos serán electos para un periodo de tres años; se instalarán solemne y públicamente el día uno de octubre del año de su elección; sus miembros protestarán ante el ayuntamiento saliente, representado por su Presidente, o en su caso, por quien designe el Honorable Congreso del Estado.
 
 ###### ARTICULO 18.
 
@@ -423,7 +423,7 @@ A solicitud de los ayuntamientos el Gobernador del Estado podrá asistir a las s
 
 El resultado de las sesiones se hará constar por el Secretario en un libro de actas, en donde quedarán anotados los extractos de los asuntos tratados y el resultado de las votaciones. Cuando el acuerdo de Cabildo se refiera a normas de carácter general, tales como reglamentos, bandos o iniciativas de leyes, éstos constarán íntegramente en el libro de actas. En los otros casos, además del extracto, bastará con que los documentos relativos al asunto tratado se agreguen al apéndice del libro de actas. En ambos casos, deberán firmar los miembros que hubieren estado presentes.
 
-Para garantizar la salvaguarda de los acuerdos tomados en las sesiones de Cabildo y consignados en el Libro de Actas, el Ayuntamiento, por conducto del Secretario, deberá remitir al Archivo Histórico del Estado, al término de cada año de su gestión, debidamente enumeradas, una copia certificada de las actas correspondientes a dicho período.
+Para garantizar la salvaguarda de los acuerdos tomados en las sesiones de Cabildo y consignados en el Libro de Actas, el Ayuntamiento, por conducto del Secretario, deberá remitir al Archivo Histórico del Estado, al término de cada año de su gestión, debidamente enumeradas, una copia certificada de las actas correspondientes a dicho periodo.
 
 ###### ARTICULO 29.
 
@@ -1219,9 +1219,11 @@ Para el despacho de los asuntos y para auxiliar al Presidente en sus funciones, 
 
 I. Ser ciudadano potosino en pleno uso de sus derechos civiles y políticos;
 
-II. Haber concluido la educación preparatoria o su equivalente, tratándose de municipios que tengan menos de cincuenta mil habitantes;
+II. (DEROGADA, P.O. 22 DE JUNIO DE 2018)
 
-III. Contar con título profesional de nivel licenciatura, en municipios cuya población sea mayor de cincuenta mil habitantes;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+III. Contar con título y cédula profesional de licenciado en, derecho; administración pública; o economía, o cualquiera otra relacionada con las actividades en las ramas de humanidades y las ciencias sociales;
 
 IV. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento, y
 
@@ -1973,7 +1975,7 @@ Los ayuntamientos no podrán efectuar enajenaciones o permutas de sus bienes mue
 
 Para que el Congreso autorice la enajenación o permuta de los inmuebles propios del municipio, es necesario que el Ayuntamiento peticionario acredite ante la Legislatura los siguientes extremos:
 
-I. Que el bien que se pretenda enajenar o permutar no sea de utilidad para la realización de una obra pública, o para la prestación de un servicio público, y
+I. Que el bien que se pretenda enajenar o permutar no sea de utilidad para la realización de una obra pública, o para la prestación de un servicio público, Y
 
 II. Que la enajenación o permuta tenga siempre por objeto la adquisición de diverso bien que beneficie a la hacienda municipal, y que resulte necesario para la realización de sus funciones públicas.
 
@@ -2954,3 +2956,11 @@ PRIMERO. Este Decreto entrará en vigor a partir del día siguiente en que se de
 SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí deberán expedir o reformar los reglamentos o disposiciones administrativas respectivas.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 987.- SE REFORMA EL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del uno de octubre de dos mil dieciocho, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
