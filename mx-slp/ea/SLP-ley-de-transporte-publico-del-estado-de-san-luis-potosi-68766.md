@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2018-05-31"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -35,7 +35,9 @@ DECRETO 667
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICIÓN DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Todo lo anterior, conforme a las circunstancias de la vida moderna, es congruente con los avances de la tecnología y las exigencias de mejorar el transporte público, para la mejor prestación del mismo a los ciudadanos de los diversos sectores de la población.
 
@@ -747,6 +749,10 @@ Para la explotación del servicio público de transporte en las modalidades corr
 
 Las concesiones de los servicios especiales de transporte de trabajadores se expedirán a personas físicas o morales.
 
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+Las concesiones podrán ser otorgadas a viudas que comprueben vínculo matrimonial con el operador que haya fallecido, y que esté haya estado más de quince años trabajando como chofer en la modalidad de automóvil de alquiler en sitio.
+
 ###### ARTICULO 39.
 
 Las personas físicas o morales que deseen participar en el procedimiento de concurso para el otorgamiento de una concesión del servicio de transporte público, además de cumplir con los requisitos que se establezcan en las bases respectivas, deberán acreditar, según corresponda, lo siguiente:
@@ -1059,7 +1065,7 @@ XVI. Carecer los vehículos de los requisitos de seguridad señalados en la pres
 
 XVII. Permitir el concesionario o permisionario que el o los vehículos asignados al servicio público, sean conducidos por personas que no cuenten con licencia vigente de la modalidad de que se trate y/o tarjeta de identificación del operador o no hayan cursado y acreditado las capacitaciones que indique la Secretaría;
 
-XVIII. Permitir que un tercero explote los derechos de la concesión o permiso bajo cualquier titulo. No podrá hacer valer esta causa, quien sea parte en el acto jurídico que permita dicha explotación;
+XVIII. Permitir que un tercero explote los derechos de la concesión o permiso bajo cualquier título. No podrá hacer valer esta causa, quien sea parte en el acto jurídico que permita dicha explotación;
 
 XIX. Transmitir, en cualquier forma, la concesión, el permiso o el equipamiento auxiliar, los bienes o derechos relacionados con el servicio de transporte público, fuera de los casos y procedimientos previstos en la presente Ley;
 
@@ -2738,5 +2744,13 @@ P.O. 31 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 966.- SE REFORMA EL ARTÍCULO 35 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 985- SE ADICIONA AL ARTÍCULO 38 EL PÁRRAFO SEXTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
