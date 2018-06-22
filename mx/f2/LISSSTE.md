@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2016-03-24"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -594,6 +594,10 @@ Estos porcentajes incluyen gastos específicos de administración del seguro de 
 
 El Trabajador dado de baja por cese, renuncia, terminación de la obra o del tiempo para los cuales haya sido designado, así como el que disfrute de licencia sin goce de sueldo, pero que haya prestado servicios ininterrumpidos inmediatamente antes de la separación, durante un mínimo de seis meses, conservará en los dos meses siguientes a la misma, el derecho a recibir los beneficios del seguro de salud establecidos en el Capítulo anterior. Del mismo derecho disfrutarán, en lo que proceda, sus Familiares Derechohabientes.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, los beneficiarios conservarán el derecho a recibir los beneficios del seguro de salud establecidos en el Capítulo anterior.
+
 ### CAPÍTULO IV. DE LAS PENSIONES
 
 ###### Artículo 44.
@@ -656,7 +660,9 @@ Se establece el seguro de riesgos del trabajo en favor de los Trabajadores y, co
 
 Para los efectos de esta Ley, serán reputados como riesgos del trabajo los accidentes y enfermedades a que están expuestos los Trabajadores en el ejercicio o con motivo del trabajo.
 
-Se considerarán accidentes del trabajo, toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte producida repentinamente en el ejercicio o con motivo del trabajo, cualesquiera que sean el lugar y el tiempo en que se preste, así como aquéllos que ocurran al Trabajador al trasladarse directamente de su domicilio o de la estancia de bienestar infantil de sus hijos, al lugar en que desempeñe su trabajo o viceversa.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+Se considerarán accidentes del trabajo: toda lesión orgánica o perturbación funcional, inmediata o posterior, la muerte o la desaparición derivada de un acto delincuencial, producida repentinamente en el ejercicio o con motivo del trabajo, cualesquiera que sea el lugar y el tiempo en que se preste, así como aquéllos que ocurran al Trabajador al trasladarse directamente de su domicilio o de la estancia de bienestar infantil de sus hijos, al lugar en que desempeñe su trabajo o viceversa.
 
 Asimismo, se consideran riesgos del trabajo las enfermedades señaladas por las leyes del trabajo.
 
@@ -666,9 +672,17 @@ I. Incapacidad temporal, que es la pérdida de facultades o aptitudes que imposi
 
 II. Incapacidad parcial, que es la disminución de las facultades o aptitudes de una persona para trabajar;
 
-III. Incapacidad total, que es la pérdida de facultades o aptitudes de una persona que la imposibilita para desempeñar cualquier trabajo por el resto de la vida, y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-IV. Muerte.
+III. Incapacidad total, que es la pérdida de facultades o aptitudes de una persona que la imposibilita para desempeñar cualquier trabajo por el resto de la vida;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+IV. Muerte, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+V. Desaparición derivada de un acto delincuencial.
 
 ###### Artículo 57.
 
@@ -780,13 +794,21 @@ El Instituto notificará la revocación de la Pensión por escrito a la Asegurad
 
 Si el Trabajador no fuere restituido a su empleo o no se le asignara otro en los términos del párrafo segundo de este artículo por causa imputable a la Dependencia o Entidad en que hubiere prestado sus servicios, seguirá percibiendo el importe de la Pensión con cargo al presupuesto de ésta. Lo anterior, sin perjuicio de la responsabilidad en que incurra el Titular de la Dependencia o Entidad, el cual deberá restituir los montos erogados por concepto del pago de la Pensión.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+En caso de desaparición por actos delincuenciales y la persona sea localizada con vida, podrá recuperar sus derechos laborales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JUNIO DE 2018)</small>
+
 ###### Artículo 67.
 
-Cuando el Trabajador fallezca a consecuencia de un riesgo del trabajo, los familiares señalados en la sección de Pensión por causa de muerte del seguro de invalidez y vida en el orden que establece, gozarán de una Pensión equivalente al cien por ciento del Sueldo Básico que hubiese percibido el Trabajador en el momento de ocurrir el fallecimiento y la misma gratificación anual que le hubiere correspondido al Trabajador como Pensionado por riesgos del trabajo. En este caso, el Instituto cubrirá el Monto Constitutivo a la Aseguradora, con cargo al cual se pagará la Pensión a los Familiares Derechohabientes.
+Cuando el Trabajador fallezca a consecuencia de un riesgo del trabajo o en caso de desaparición derivada de un acto delincuencial, los familiares señalados en la sección de Pensión por causa de muerte del seguro de invalidez y vida en el orden que establece, gozarán de una Pensión equivalente al cien por ciento del Sueldo Básico que hubiese percibido el Trabajador en el momento de ocurrir el fallecimiento o la desaparición y la misma gratificación anual que le hubiere correspondido al Trabajador como Pensionado por riesgos del trabajo. En este caso, el Instituto cubrirá el Monto Constitutivo a la Aseguradora, con cargo al cual se pagará la Pensión a los Familiares Derechohabientes.
 
 Los Familiares Derechohabientes elegirán la Aseguradora con la que deseen contratar su Seguro de Pensión con los recursos relativos al Monto Constitutivo de la Pensión a que se refiere el párrafo anterior.
 
-Por lo que se refiere a los recursos de la Cuenta Individual del Trabajador fallecido, sus Familiares Derechohabientes podrán optar por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE JUNIO DE 2018)</small>
+
+Por lo que se refiere a los recursos de la Cuenta Individual del Trabajador fallecido, o desaparecido por actos delincuenciales, sus Familiares Derechohabientes podrán optar por:
 
 I. Retirarlos en una sola exhibición, o
 
@@ -895,6 +917,12 @@ En caso de fallecimiento del Trabajador, si los beneficiarios a que se refiere e
 El Trabajador, deberá designar beneficiarios sustitutos de los indicados en el párrafo anterior, única y exclusivamente para el caso de que faltaren los beneficiarios legales. El Trabajador podrá en cualquier tiempo cambiar esta última designación. Dicha designación deberá realizarla en el PENSIONISSSTE o en la Administradora que le opere su Cuenta Individual.
 
 A falta de los beneficiarios legales y sustitutos, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo. Cualquier conflicto deberá ser resuelto ante el Tribunal Federal de Conciliación y Arbitraje.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+###### Artículo 78 Bis.
+
+Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia en términos de la legislación especial en la materia, los recursos de su cuenta individual serán puestos a disposición de sus beneficiarios, en los términos en que la resolución de la Declaración Especial de Ausencia establezca.
 
 ###### Artículo 79.
 
@@ -3093,3 +3121,13 @@ D.O.F. 24 DE MARZO DE 2016.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La Junta Directiva del Instituto incluirá en las reglas operativas que al efecto emita, los términos, modalidades, proporciones y condiciones bajo las cuales se otorgue el segundo crédito previsto en los artículos 167 y 179 de esta Ley, estableciendo criterios de equidad y de prelación que garanticen el ejercicio de este derecho por parte de los Trabajadores que aún no lo ejerzan. Asimismo, aprobará las modificaciones que en su caso correspondan a los programas de crédito y de financiamiento vigentes.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO; DE LA LEY DE INSTITUCIONES DE CRÉDITO Y DE LA LEY AGRARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+
+TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
