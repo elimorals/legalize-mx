@@ -4,7 +4,7 @@ identifier: "LGIPD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-05-30"
-last_updated: "2015-12-17"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81490&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGIPD"
 
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de mayo de 2011.
 
@@ -76,45 +76,65 @@ VII. Consejo. Consejo Nacional para el Desarrollo y la Inclusión de las Persona
 
 VIII. Convención. Convención sobre los Derechos de las Personas con Discapacidad;
 
-IX. Discriminación por motivos de discapacidad. Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-X. Diseño universal. Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
+IX. Discapacidad. Es la consecuencia de la presencia de una deficiencia o limitación en una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-XI. Educación Especial. La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-XII. Educación Inclusiva. Es la educación que propicia la integración de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
+X. Discapacidad Física. Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-XIII. Estenografía Proyectada. Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-XIV. Estimulación Temprana. Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+XI. Discapacidad Mental. A la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-XV. Igualdad de Oportunidades. Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-XVI. Lenguaje. Se entenderá tanto el lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
+XII. Discapacidad Intelectual. Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-XVII. Lengua de Señas Mexicana. Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-XVIII. Ley. Ley General para la Inclusión de las Personas con Discapacidad;
+XIII. Discapacidad Sensorial. Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás.
 
-XIX. Organizaciones. Todas aquellas organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
+XIV. Discriminación por motivos de discapacidad. Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de ajustes razonables;
 
-XX. Perro guía o animal de servicio. Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+XV. Diseño universal. Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesiten;
 
-XXI. Persona con Discapacidad. Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+XV. Educación Especial. La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
 
-XXII. Política Pública. Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
+XVII. Educación Inclusiva. Es la educación que propicia la integración de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
 
-XXIII. Prevención. La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+XVIII. Estenografía Proyectada. Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
 
-XXIV. Programa. El Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+XIX. Estimulación Temprana. Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
 
-XXV. Rehabilitación. Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+XX. Igualdad de Oportunidades. Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
 
-XXVI. Sistema. Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+XXI. Lenguaje. Se entenderá tanto el lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
 
-XXVII. Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y
+XXII. Lengua de Señas Mexicana. Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
 
-XXVIII. Transversalidad. Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+XXIII. Ley. Ley General para la Inclusión de las Personas con Discapacidad;
+
+XXIV. Organizaciones. Todas aquellas organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
+
+XXV. Perro guía o animal de servicio. Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+
+XXVI. Persona con Discapacidad. Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+
+XXVII. Política Pública. Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
+
+XXVIII. Prevención. La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+
+XXIX. Programa. El Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+
+XXX. Rehabilitación. Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+
+XXXI. Sistema. Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+
+XXXII. Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y
+
+XXXIII. Transversalidad. Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 ###### Artículo 3.
 
@@ -845,3 +865,15 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS Y LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal elaborará a través del o de los institutos que él mismo designe para este fin, dentro de los 365 días naturales siguientes a la entrada en vigor del presente Decreto, un estudio sobre la probabilidad de ocurrencia de riesgos que puedan afectar las personas del asegurado generándole una discapacidad, así como los costos asociados a su atención.
+
+Tercero.- El estudio mencionado en el artículo anterior será con cargo al presupuesto del Instituto o Dependencia que el Ejecutivo Federal designe para su realización.
+
+Cuarto.- Las Instituciones de Seguros y Sociedades Mutualistas autorizadas tendrán un plazo de 180 días naturales contados a partir del vencimiento del plazo establecido en el Artículo Transitorio Segundo, para presentar a registro ante la Comisión Nacional de Seguros y Fianzas la o las coberturas de que se trata.
