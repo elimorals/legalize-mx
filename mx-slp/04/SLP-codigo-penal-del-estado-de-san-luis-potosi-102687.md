@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-06-07"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2401,19 +2401,27 @@ Además de la pena señalada en el párrafo anterior, se impondrá la destituci�
 
 Comete el delito de incumplimiento de las obligaciones de asistencia familiar, quien:
 
-I. Sin motivo justificado abandona a sus hijas o hijos, o a su cónyuge, dejándolos sin recursos para atender a sus necesidades de subsistencia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+I. Sin motivo justificado abandona a sus ascendientes; hijas o hijos, o a su cónyuge, dejándolos sin recursos para atender a sus necesidades de subsistencia;
 
 II. Intencionalmente eluda el cumplimiento de las obligaciones alimentarias que la ley determina, o
 
 III. Intencionalmente se coloca en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+(NOTA: EL 14 DE NOVIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 23 DE JUNIO DE 2018, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0983, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Este delito se sancionará con una pena de seis meses a tres años de prisión y sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+Este delito se sancionará con una pena de seis meses a tres años de prisión; sanción pecuniaria de sesenta a trescientos días del valor de la unidad de medida y actualización; SUSPENSIÓN O PRIVACIÓN DE LOS DERECHOS DE FAMILIA HASTA POR SEIS MESES; y, como reparación del daño, el pago de al menos las cantidades no suministradas oportunamente.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 203.
 
-El delito señalado en el artículo precedente se perseguirá por querella necesaria del ofendido o del legítimo representante de los hijos y, a falta de éste, lo podrá hacer el Ministerio Público como representante legítimo de los menores.
+El delito señalado en el artículo precedente se perseguirá por querella necesaria del ofendido; en su caso, quien represente a los ascendientes, a las hijas o hijos y, a falta de éste, en el caso de los menores, el Ministerio Público, como su representante legítimo.
+
+Para que se produzcan los efectos del perdón del ofendido o del legitimado para otorgarlo, el acusado deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos.
 
 ###### ARTÍCULO 204.
 
@@ -2440,6 +2448,10 @@ Comete el delito de violencia familiar quien en contra de su cónyuge, concubina
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Este delito se sancionará con pena de uno a seis años de prisión y sanción pecuniaria de cien a seiscientos días de la unidad de medida y actualización; asimismo, el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados y gratuitos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+Cuando el delito se cometa en contra de una persona menor de edad, incapaz, con discapacidad, o mayor de sesenta años de edad, las penas previstas en este artículo se incrementarán hasta en una mitad más de las ya establecidas.
 
 Este delito se perseguirá por querella necesaria, excepto cuando:
 
@@ -5078,5 +5090,21 @@ P.O. 7 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 972.- SE ADICIONAN LOS ARTÍCULOS, 293 BIS, Y 293 TER, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 982.- ADICIONA PÁRRAFO AL ARTÍCULO 205 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 983.-·SE REFORMAN LOS ARTÍCULOS 202 Y 203 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
