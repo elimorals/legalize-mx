@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-entrega-y-recepcion-de-los-asuntos-y-58118"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-30"
-last_updated: "2017-02-03"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA ENTREGA Y RECEPCIÓN DE ASUNTOS Y RECURSOS PÚBLICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2007.
 
@@ -203,11 +203,13 @@ XI. Asuntos de Cabildo:
 
 2. Informe de asuntos o dictámenes en trámite por cada Comisión.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 9.
 
 Los titulares o responsables de las dependencias y/o paramunicipales, deberán generar cuatro ejemplares de las actas y de los dispositivos con la información anexa, de los cuales un ejemplar se le entregará al titular saliente, otro al titular entrante, otro para Sindicatura Municipal y el último para los archivos de la dependencia que se trate.
 
-En el caso de los Asuntos del Cabildo, los titulares de cada Comisión del Ayuntamiento, entregarán a mas tardar el 30 de noviembre del año que corresponda al representante del Presidente Municipal Electo sus respectivos informes, para que este a su vez los entregue a los Regidores entrantes titulares de cada Comisión una vez que hayan sido nombrados.
+En el caso de los Asuntos del Cabildo, los Presidente (sic) de cada Comisión del Ayuntamiento, entregarán a más tardar el 30 de septiembre del año que corresponda a la Secretaria General del Ayuntamiento saliente sus respectivos informes, para que este a su vez lo entregue al Secretario General entrante y lo remita a las respectivas Comisiones.
 
 ### CAPITULO IV. DEL PROCESO DE ENTREGA Y RECEPCION
 
@@ -225,11 +227,13 @@ III.- En el caso de que los Servidores Públicos obligados, sean removidos, se s
 
 La Entrega y Recepción es un proceso administrativo de interés público, de cumplimiento obligatorio y formal que deberá llevarse a cabo por escrito, y utilizando en todo lo posible los medios electrónicos para la entrega - recepción constitucional, documentos ambos, en los cuales se describa el estado que guarda la Administración Pública Municipal y la información al detalle de los asuntos, recursos financieros, humanos y materiales inherentes a su dependencia o paramunicipal, clasificada en direcciones, subdirecciones, departamentos o áreas análogas.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 12.
 
-La información y documentación, de ser posible deberá estar actualizada al día 30 de noviembre del año en que inicie un período constitucional, para ser entregada en el acto de entrega y recepción.
+La información y documentación, de ser posible deberá estar actualizada al día 30 de septiembre del año en que inicie un período constitucional, para ser entregada en el acto de entrega y recepción.
 
-Se podrá entregar antes del 30 de noviembre del año en que se inicie un periodo constitucional, copias simples de la información a la comisión y subcomisiones de recepción debidamente acreditadas, previa solicitud y por acuerdo de las comisiones de Entrega y Recepción, debiendo ser actualizada a la fecha indicada en el párrafo anterior, para el acto oficial de entrega.
+Se podrá entregar antes del 30 de septiembre del año en que se inicie un periodo constitucional, copias simples de la información a la comisión y subcomisiones de recepción debidamente acreditadas, previa solicitud y por acuerdo de las comisiones de Entrega y Recepción, debiendo ser actualizada a la fecha indicada en el párrafo anterior, para el acto oficial de entrega.
 
 ###### ARTÍCULO 13.
 
@@ -324,3 +328,9 @@ P.O. 3 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 005/2016, RELATIVO AL PROYECTO QUE REFORMA EL ARTÍCULO 15 DEL REGLAMENTO PARA LA ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 9 Y 12 DEL REGLAMENTO PARA LA ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
