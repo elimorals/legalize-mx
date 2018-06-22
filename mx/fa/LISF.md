@@ -4,7 +4,7 @@ identifier: "LISF"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-04"
-last_updated: "2014-01-10"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93451&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LISF"
 
 LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS
 
-> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA PRIMERA DE LA PRESENTE LEY, ENTRARÁ EN VIGOR A LOS SETECIENTOS TREINTA DÍAS NATURALES SIGUIENTES A LA PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el jueves 4 de abril de 2013.
 
@@ -383,6 +381,10 @@ II. Para los seguros de pensiones derivados de las leyes de seguridad social, el
 III. Para el ramo de accidentes personales, los contratos de seguro que tengan como base la lesión o incapacidad que afecte la integridad personal, salud o vigor vital del asegurado, como consecuencia de un evento externo, violento, súbito y fortuito;
 
 IV. Para el ramo de gastos médicos, los contratos de seguro que tengan por objeto cubrir los gastos médicos, hospitalarios y demás que sean necesarios para la recuperación de la salud o vigor vital del asegurado, cuando se hayan afectado por causa de un accidente o enfermedad. Las Instituciones de Seguros y Sociedades Mutualistas autorizadas para operar este ramo, podrán ofrecer como beneficio adicional dentro de sus pólizas, la cobertura de servicios de medicina preventiva, sólo con carácter indemnizatorio;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+Igualmente, las Instituciones de Seguros y Sociedades Mutualistas autorizadas para operar este ramo, para el caso de riesgos que puedan afectar la persona del asegurado generándole una discapacidad ofrecerán como cobertura dentro de un producto o beneficio adicional, que ampare el pago de gastos derivados de la atención médica, programas de rehabilitación, terapias rehabilitadoras y los servicios médicos adicionales que requieran los asegurados que sean necesarios para la atención de dicha discapacidad, de acuerdo con las sumas aseguradas y coberturas contratadas, esto mediante el procedimiento de selección de riesgo correspondiente y diseño del producto o beneficio adicional que se ofrezca al mercado para la cobertura de riesgos futuros, que preserve las condiciones técnicas y financieras del seguro y la sustentabilidad de las mutualidades de las que formen parte.
 
 V. Para el ramo de salud, los contratos de seguro que tengan como objeto la prestación de servicios dirigidos a prevenir enfermedades o restaurar la salud, a través de acciones que se realicen en beneficio del asegurado;
 
@@ -7145,3 +7147,15 @@ IV. La obligación de contar con la certificación a que se refiere el artículo
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS Y LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal elaborará a través del o de los institutos que él mismo designe para este fin, dentro de los 365 días naturales siguientes a la entrada en vigor del presente Decreto, un estudio sobre la probabilidad de ocurrencia de riesgos que puedan afectar las personas del asegurado generándole una discapacidad, así como los costos asociados a su atención.
+
+Tercero.- El estudio mencionado en el artículo anterior será con cargo al presupuesto del Instituto o Dependencia que el Ejecutivo Federal designe para su realización.
+
+Cuarto.- Las Instituciones de Seguros y Sociedades Mutualistas autorizadas tendrán un plazo de 180 días naturales contados a partir del vencimiento del plazo establecido en el Artículo Transitorio Segundo, para presentar a registro ante la Comisión Nacional de Seguros y Fianzas la o las coberturas de que se trata.
