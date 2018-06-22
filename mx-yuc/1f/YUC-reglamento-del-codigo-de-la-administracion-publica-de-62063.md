@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2018-03-21"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2018.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -92,6 +92,14 @@ XIV. Subsecretarios: los subsecretarios de las Secretarías, General de Gobierno
 Las dependencias y entidades de la Administración Pública estatal contarán con una unidad de transparencia, que tendrá las atribuciones establecidas en el artículo 60 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán y las demás establecidas en las leyes general y estatal de transparencia y acceso a la información y otras disposiciones legales aplicables.
 
 Para efectos de lo establecido en el párrafo anterior, fungirá como titular de la unidad (sic) transparencia, el titular de la unidad administrativa que determine el titular de la dependencia o el órgano de gobierno de la entidad, según se trate, mediante acuerdo publicado en el diario oficial del estado. A falta de disposición expresa, los titulares de las unidades jurídicas fungirán como titulares de las unidades de transparencia y, en caso de inexistencia de estas unidades, esta función estará a cargo de la unidad administrativa responsable de la administración de la dependencia o entidad.
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2018)</small>
+
+###### Artículo 3 Ter.
+
+La Secretaría de Administración y Finanzas, a través de la Dirección General de Recursos Humanos, elaborará un programa de inducción para los servidores públicos de la Administración Pública estatal que estará integrado por contenidos básicos relacionados con la promoción y protección de los derechos humanos, el desempeño de sus funciones, la igualdad de género, el funcionamiento y operación de la Administración Pública estatal así como de la dependencia o entidad en la que se desempeñarán, y la normativa aplicable como sujetos de responsabilidades que les permita desarrollar su perfil profesional.
+
+Los responsables de las áreas de recursos humanos o sus equivalentes en las dependencias y entidades de la Administración Pública estatal deberán comunicar a la Dirección General de Recursos Humanos de la Secretaría de Administración y Finanzas, dentro de los treinta días hábiles siguientes a la contratación, la fecha de inicio en el ejercicio del empleo, cargo o comisión de los servidores públicos, para la programación e implementación del curso de inducción respectivo, el cual no podrá realizarse en un plazo superior a los ciento veinte días naturales, contado a partir del inicio del ejercicio del empleo, cargo o comisión.
 
 # LIBRO PRIMERO. PARTE GENERAL
 
@@ -493,11 +501,11 @@ XXIX. Visar contratos y convenios para acompañar la firma del Titular de la Dep
 
 ### CAPÍTULO VI. De las suplencias
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 16.
 
-Los titulares de las dependencias serán suplidos en sus ausencias temporales, por quien señale este Reglamento o, en su caso, por el Subsecretario, Director General o Director que determine mediante oficio el titular de la Dependencia.
+Los titulares de las dependencias serán suplidos en sus ausencias temporales, por el Subsecretario, Director General o Director que determinen mediante oficio o, en su caso, por los titulares de las unidades administrativas de jerarquía inmediata inferior, conforme al orden en que se encuentran relacionados en este reglamento dentro de la estructura orgánica de su dependencia.
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -891,7 +899,9 @@ Para el ejercicio de las atribuciones que le confiere el Código y el despacho d
 
 I. Subsecretaría de Prevención y Reinserción Social:
 
-a) Dirección de la Unidad Estatal de Protección Civil;
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
+
+a) Coordinación Estatal de Protección Civil;
 
 b) Dirección de Ejecución;
 
@@ -1033,11 +1043,11 @@ VIII. Brindar servicios de mediación para la solución de conflictos interperso
 
 IX. Las demás que establezcan, principalmente, para el ejercicio de las atribuciones que, en su carácter de autoridad penitenciaria le correspondan, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 41.
 
-La Dirección de la Unidad Estatal de Protección Civil tendrá las atribuciones que le confieren la Ley de Protección Civil del Estado de Yucatán y las demás disposiciones legales aplicables.
+La Coordinación Estatal de Protección Civil tendrá las atribuciones que le confieren la Ley de Protección Civil del Estado de Yucatán y las demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2343,9 +2353,13 @@ I. Despacho del Consejero Jurídico, al cual se adscribe la Secretaría Técnica
 
 II. Dirección General de Legislación y Normatividad;
 
-a) Dirección del Diario Oficial del Gobierno del Estado de Yucatán, y
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
-b) Dirección de Proyectos y Estudios Normativos.
+a) Dirección de Proyectos y Estudios Normativos, y
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
+
+b) Dirección del Diario Oficial del Gobierno del Estado de Yucatán.
 
 III. Dirección General de Servicios Legales y Vinculación Institucional;
 
@@ -2409,89 +2423,105 @@ V. Encargarse de la organización logística y de protocolo de los eventos que p
 
 VI. Las demás que establezcan este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 73.
 
 Al Director General de Legislación y Normatividad le corresponde el despacho de los siguientes asuntos:
 
-I. Suplir las ausencias temporales del Consejero Jurídico y representarlo ante otras dependencias y entidades públicas u organismos del sector social y privado, cuando éste así lo considere;
+I. Validar o, en su caso, emitir observaciones respecto a los proyectos normativos que solicite el Gobernador del estado o que sean presentados por los titulares de las dependencias y entidades de la Administración Pública estatal a la Consejería para su revisión o elaboración;
 
-II. Estudiar los problemas generales y especiales de legislación y reglamentación que le encomiende el Titular de esta Dependencia;
+II. Elaborar o revisar los proyectos de iniciativa de ley o de decreto, los decretos y acuerdos del Ejecutivo, las normas de las dependencias o entidades, y demás proyectos normativos que le encomiende, directamente, el Consejero Jurídico;
 
-III. Revisar y, en su caso, elaborar los proyectos de leyes, reglamentos, decretos, acuerdos y circulares que le sean encomendados por el Consejero Jurídico;
+III. Instruir la elaboración de estudios sobre la viabilidad de expedir o modificar normas jurídicas, así como los relacionados con las necesidades de armonización de las leyes, reglamentos, decretos y demás normativa estatal e informar de sus resultados al Consejero Jurídico;
 
-IV. Mantener actualizado el acervo legislativo y reglamentario del Estado de Yucatán;
+IV. Proponer, al Consejero Jurídico, la constante actualización del marco jurídico estatal, a través de la expedición o modificación de las leyes, reglamentos, decretos y acuerdos estatales, así como de la normativa aplicable a la Consejería;
 
-V. Emitir opinión acerca de los proyectos de ley, reglamentos y lineamientos que sean sometidos a la consideración de la Consejería Jurídica por el Gobernador del Estado o por las dependencias y entidades de la Administración Pública;
+V. Presentar, previa instrucción por parte del Consejero Jurídico, las iniciativas del Gobernador ante el Congreso;
 
-VI. Participar como enlace con el Poder Legislativo y coordinar las acciones relativas a propuestas o iniciativas de ley promovidas por el Poder Ejecutivo;
+VI. Fungir como enlace con el Poder Legislativo en lo atinente a las iniciativas de ley o de decreto presentadas al Congreso por el Poder Ejecutivo, dar seguimiento a su trámite legislativo, e informar de sus avances al Consejero Jurídico;
 
-VII. Instrumentar los programas y acciones necesarios para la actualización y simplificación del orden jurídico estatal;
+VII. Presentar, en su caso, al Consejero Jurídico, para su consideración, el documento por el que el Gobernador del estado devuelve al Congreso, con observaciones, las leyes o decretos aprobados por este;
 
-VIII. Auxiliar a los municipios del Estado en la elaboración de sus bandos y demás reglamentos, siempre que lo soliciten, y
+VIII. Certificar las normas jurídicas que emita el Ejecutivo que se encuentren bajo su resguardo, principalmente para solicitar su publicación en el diario oficial del estado;
 
-IX. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+IX. Instruir al Director del Diario Oficial del Gobierno del Estado la publicación de los documentos y normas jurídicas que requiera y establecer, cuando así lo haya acordado con el Consejero Jurídico, una fecha específica para su publicación;
 
-###### Artículo 74.
+X. Brindar asesoría técnico-legislativa al Gobernador del Estado, al Consejero Jurídico, a los titulares de las dependencias y entidades de la Administración Pública estatal;
 
-Al Director del Diario Oficial del Gobierno del Estado le corresponde el despacho de los siguientes asuntos:
+XI. Coordinar el apoyo técnico-legislativo que los municipios del estado soliciten a la Consejería;
 
-I. Comunicar oportunamente al Consejero Jurídico las propuestas encaminadas a mejorar el funcionamiento del Diario Oficial;
+XII. Establecer aspectos administrativos para mejorar la gestión de la hemeroteca del diario oficial del estado así como el resguardo de sus documentos;
 
-II. Certificar las copias simples del Diario Oficial, previo cotejo con los respectivos originales;
+XIII. Implementar estrategias para optimizar el diseño y la difusión del diario oficial del estado;
 
-III. Llevar los libros índice de los decretos, acuerdos y demás disposiciones expedidos por el Poder Ejecutivo;
+XIV. Dirigir las actividades para integrar todas las modificaciones de una norma jurídica, en una versión consolidada, cuando así sea requerido por las dependencias y entidades de la Administración Pública estatal;
 
-IV. Administrar la Hemeroteca del Diario Oficial del Gobierno del Estado;
+XV. Promover la difusión y el fácil acceso a las leyes, reglamentos, decretos y acuerdos, principalmente, a través de las plataformas digitales que para tal efecto sean habilitadas por la Consejería, así como coadyuvar en la actualización de cualquier otra que contenga normas jurídicas estatales;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XVI. Apoyar en el desarrollo de las sesiones de los órganos colegiados coordinados por la Consejería o en los que participe, en materia de legislación y normatividad;
 
-V. Informar al Consejero Jurídico, por conducto del Director General de Legislación y Normatividad, acerca de las actividades realizadas durante el año de que se trate, y
+XVII. Apoyar al Consejero Jurídico en el desarrollo de las sesiones de aprobación de la convocatoria y del dictamen de designación del recipiendario de la Comisión Dictaminadora para el Otorgamiento de la Medalla al Mérito Jurídico “Rafael Matos Escobedo”, y resguardar las actas y la documentación correspondiente;
 
-VI. Las demás que establezcan la Ley del Diario Oficial del Gobierno del Estado de Yucatán, este Reglamento y otras disposiciones normativas aplicables.
+XVIII. Elaborar informes que contengan datos y estadísticas sobre el trámite y conclusión de las iniciativas, decretos y demás proyectos normativos; el cumplimiento de la agenda legislativa; la difusión del marco jurídico estatal; las actividades de consolidación normativa; el seguimiento de las obligaciones normativas; y las publicaciones en el diario oficial del estado;
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+XIX. Proponer al Consejero Jurídico la agenda legislativa anual del Poder Ejecutivo, darle seguimiento y proponer cambios cuando sea necesario; así como los programas para la actualización y simplificación del orden jurídico estatal;
 
-###### Artículo 74 Bis.
+XX. Dar seguimiento a las obligaciones normativas que deriven de leyes y decretos locales y federales; hacerlas del conocimiento de los titulares de las dependencias y entidades de la Administración Pública estatal para solicitarles su apoyo, cuando las referidas obligaciones impacten el ámbito de su competencia; y proponer estrategias para su cumplimiento;
+
+XXI. Contribuir a la implementación de la política jurídica del Gobierno del estado, en materia técnico-legislativa y normativa, a través de la generación de formatos, guías y lineamientos, que propicien la calidad y legalidad de los proyectos normativos; y estandaricen y simplifiquen su revisión o elaboración; así como ponerlos a disposición de las dependencias y entidades de la Administración Pública estatal, que los requieran;
+
+XXII. Remitir, al Secretario Técnico del Despacho del Consejero Jurídico, los proyectos de iniciativa de ley o decreto, decreto, acuerdo del Ejecutivo o del Consejero Jurídico para el trámite de visado y firmas del Consejero Jurídico y de las demás autoridades; y solicitarle la devolución de estos proyectos normativos o, en su caso, información sobre su ubicación y estado;
+
+XXIII. Resguardar y promover la digitalización del acervo jurídico del estado, el cual comprende los documentos originales de las iniciativas presentadas, así como los decretos y acuerdos del Ejecutivo y del Consejero Jurídico, con excepción de aquellos que se resguarden en el Archivo General del Estado, y
+
+XXIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2018)</small>
+
+###### Artículo 73 Bis.
 
 Al Director de Proyectos y Estudios Normativos le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+I. Elaborar o revisar los proyectos de iniciativa de ley o de decreto, los decretos y acuerdos del Ejecutivo, las normas de las dependencias o entidades, y demás proyectos normativos que sean presentados a la Consejería;
 
-I. Suplir las ausencias temporales del Director General de Legislación y Normatividad y representarlo cuando éste así lo considere;
+II. Elaborar estudios sobre la viabilidad de expedir o modificar normas jurídicas, así como los relacionados con las necesidades de armonización de las leyes, reglamentos, decretos y demás normativa estatal;
 
-II. Planear, organizar, dirigir, controlar y evaluar el desarrollo de los programas y el desempeño de las labores encomendadas a la Dirección a su cargo;
+III. Suplir las ausencias temporales del Director General de Legislación y Normatividad y representarlo cuando este así lo considere;
 
-III. Proponer las políticas internas, lineamientos y criterios que normarán el funcionamiento de la Dirección a su cargo;
+IV. Elaborar proyectos para actualizar el marco jurídico estatal cuando detecte disposiciones normativas obsoletas, contradictorias o deficientes, y someterlos a la consideración del Director General de Legislación y Normatividad;
 
-IV. Formular los proyectos de manual de organización y procedimientos de la Consejería;
+V. Elaborar el proyecto de decreto para la promulgación de las leyes y decretos aprobados en el Congreso y, en su caso, el proyecto de documento por el que se devuelven estas normas con observaciones;
 
-V. Proponer la creación o modificación de las disposiciones jurídicas que regulan los ámbitos de competencia de la Consejería, para el mejor desempeño de sus funciones;
+VI. Brindar asesoría técnico-legislativa a las unidades administrativas de las dependencias y entidades de la Administración Pública estatal, previa instrucción del Director General de Legislación y Normatividad;
 
-VI. Acordar y resolver los asuntos de competencia de las unidades administrativas que integran la dirección a su cargo;
+VII. Otorgar el apoyo técnico-legislativo que la Dirección General de Legislación y Normatividad preste a los municipios del estado que lo soliciten;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+VIII. Elaborar las versiones consolidadas de las normas jurídicas, para lo cual deberá recopilar e integrar en un solo documento todas las modificaciones que aquellas hayan tenido, cuando así le sea requerido;
 
-VII. Formular y revisar los anteproyectos de leyes, reglamentos, decretos, acuerdos y circulares que le sean encomendados por el Director General de Legislación y Normatividad;
+IX. Mantener actualizadas las plataformas digitales de la Consejería, así como coadyuvar en la actualización de cualquier otra que contenga normas jurídicas estatales;
 
-VIII. Preparar dictámenes y opiniones respecto de los proyectos a que se refiere la fracción anterior;
+X. Elaborar informes que contengan datos y estadísticas sobre el trámite y conclusión de las iniciativas, decretos y demás proyectos normativos; el cumplimiento de la agenda legislativa; la difusión del marco jurídico estatal; las actividades de consolidación normativa; y el seguimiento de las obligaciones normativas;
 
-IX. Establecer un archivo de los documentos elaborados y revisados señalando su trámite e incidencias relevantes;
+XI. Elaborar la propuesta de agenda legislativa anual del Gobierno del estado y los programas para la actualización y simplificación del orden jurídico estatal y someterlos a consideración del Director General de Legislación y Normatividad;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+XII. Llevar un registro de las obligaciones normativas que deriven de leyes y decretos locales y federales y de los plazos para su vencimiento; así como coordinarse con los titulares jurídicos de las dependencias y entidades de la Administración Pública estatal para su cumplimiento;
 
-X. Estudiar y proponer al Director General de Legislación y Normatividad, los ajustes técnico-jurídicos para la actualización y simplificación del orden jurídico estatal;
+XIII. Proponer formatos, guías y lineamientos para propiciar la calidad y legalidad de los proyectos normativos, así como la estandarización y simplificación de su revisión o elaboración;
 
-XI. Realizar las acciones necesarias para mantener actualizada la biblioteca especializada en legislación y normatividad y prestar la asistencia documental y bibliográfica requerida por las demás unidades de la Consejería;
+XIV. Mantener actualizada la biblioteca especializada en legislación y normatividad, y
 
-XII. Elaborar informes que contengan datos y estadísticas sobre la presentación y trámite de las iniciativas de ley o decreto en el Congreso del Estado;
+XV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2018)</small>
 
-XIII. Coordinar el apoyo técnico-jurídico que la Dirección General de Legislación y Normatividad preste a los municipios del Estado en la elaboración de sus bandos y demás reglamentos, siempre que lo soliciten, y
+###### Artículo 74.
 
-XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+El director del Diario Oficial del Gobierno del Estado tendrá las facultades y obligaciones que establecen la Ley del Diario Oficial del Gobierno del Estado de Yucatán, su reglamento y demás normativa aplicable.
+
+###### Artículo 74 Bis.
+
+(DEROGADO, D.O. 22 DE JUNIO DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -13276,3 +13306,11 @@ D.O. 21 DE MARZO DE 2018.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 630/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE INDUCCIÓN AL SERVICIO PÚBLICO Y SUPLENCIAS, Y SOBRE LA CONSEJERÍA JURÍDICA".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado con excepción de lo dispuesto en el artículo 3 Ter.
