@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-05-11"
+last_updated: "2018-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS ACUERDOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
+REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -43,9 +43,9 @@ SECRETARIO FEDATARIO DEL XVII AYUNTAMIENTO
 
 LIC. GUILLERMO BERNARDO ISLAS LEON
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2018)</small>
 
-REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
+REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -547,13 +547,15 @@ El Presidente Municipal podrá ordenar el desalojo del recinto del Ayuntamiento,
 
 SESION DE INSTALACION DEL AYUNTAMIENTO.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 49.
 
-El Ayuntamiento entrante rendirá protesta en sesión solemne celebrada el día 30 de Noviembre del año en que se verifique la elección ordinaria, de conformidad con la convocatoria que emita el Ayuntamiento saliente y lo dispuesto por la Ley del Régimen Municipal para el Estado de Baja California y el presente Reglamento. Para tales efectos, a más tardar diez días antes de la fecha indicada, el Ayuntamiento a través del Presidente Municipal saliente, emitirá la convocatoria a los Munícipes electos que se publicará en uno de los diarios de mayor circulación en el Municipio y/o en la Gaceta Municipal, acordando con el Presidente Municipal entrante la hora y el lugar donde se realzará la sesión, declarando en su caso el recinto oficial.
+El Ayuntamiento entrante rendirá protesta en sesión solemne celebrada el día 30 de septiembre del año en que se verifique la elección ordinaria, de conformidad con la convocatoria que emita el Ayuntamiento saliente y lo dispuesto por la Ley del Régimen Municipal para el Estado de Baja California y el presente Reglamento. Para tales efectos, a más tardar diez días antes de la fecha indicada, el Ayuntamiento a través del Presidente Municipal saliente, emitirá la convocatoria a los Munícipes electos que se publicará en uno de los diarios de mayor circulación en el Municipio y/o en la Gaceta Municipal, acordando con el Presidente Municipal entrante la hora y el lugar donde se realzará la sesión, declarando en su caso el recinto oficial.
 
-La protesta de Ley e instalación, surtirán sus efectos a partir del día uno de diciembre del mismo año, momento en el que iniciará el pleno ejercicio de sus funciones.
+La protesta de Ley e instalación, surtirán sus efectos a partir del día uno de octubre del mismo año, momento en el que iniciará el pleno ejercicio de sus funciones.
 
-En la sesión de instalación actuará como Secretario Fedatario el del Ayuntamiento saliente
+En la sesión de instalación actuará como Secretario Fedatario el del Ayuntamiento saliente.
 
 FORMALIDADES DE LA SESION DE INSTALACIÓN.
 
@@ -579,7 +581,9 @@ Acto seguido, el Presidente Municipal entrante tomará la protesta a los demás 
 
 "Sí, protesto"; el Presidente Municipal dirá: "Si así no lo hicieren, que el pueblo de Ensenada se los demande";
 
-V.- Acto seguido, el Presidente Municipal entrante hará la declaratoria de instalación del Ayuntamiento en los siguientes términos: "Queda legítimamente instalado el Ayuntamiento del Municipio de Ensenada, que deberá funcionar durante el período que comprende del uno de diciembre del año del... al treinta de noviembre del año del..."; y,
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+V.- Acto seguido, el Presidente Municipal entrante hará la declaratoria de instalación del Ayuntamiento en los siguientes términos: “Queda legítimamente instalado el Ayuntamiento del Municipio de Ensenada, que deberá funcionar durante el período que comprende del uno de octubre del año del ... al treinta de septiembre del año del ...”; y,
 
 V (SIC).- Posteriormente, el Presidente Municipal entrante ofrecerá un mensaje a los habitantes del Municipio y al concluir convocará a los miembros del Ayuntamiento a la sesión extraordinaria que se celebrará al día siguiente indicando la hora y lugar, dándose por terminada la sesión solemne.
 
@@ -593,13 +597,15 @@ La sesión extraordinaria de cabildo que habrá de realizarse el primer día de 
 
 INFORME ANUAL DE GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 52.
 
-El Presidente Municipal, como responsable de la conducción de la Administración Pública Municipal cada año tendrá la obligación de presentar al Ayuntamiento un informe por escrito en Sesión Ordinaria a celebrarse durante el mes de Noviembre, sobre las acciones del Gobierno Municipal y el estado que guarda la Administración Pública Municipal, así como los avances y logros del Plan Municipal de Desarrollo y deberá en forma posterior a la Sesión Ordinaria, brindar las facilidades necesarias para desahogar la glosa del informe y para difundir ante la comunidad los principales avances y logros de su gestión.
+El Presidente Municipal, como responsable de la conducción de la Administración Pública Municipal cada año tendrá la obligación de presentar al Ayuntamiento un informe por escrito en Sesión Ordinaria a celebrarse durante la primera semana del mes de octubre, sobre las acciones del Gobierno Municipal y el estado que guarda la Administración Pública Municipal, así como los avances y logros del Plan Municipal de Desarrollo y deberá en forma posterior a la Sesión Ordinaria, brindar las facilidades necesarias para desahogar la glosa del informe y para difundir ante la comunidad los principales avances y logros de su gestión.
 
-Una vez presentado el informe al Ayuntamiento, éste por conducto de sus Comisiones procederá a la realización de la glosa correspondiente.
+El informe correspondiente al último año de gestión municipal deberá rendirse dentro de la primera semana del mes de agosto.
+
+Una vez presentado el informe al Ayuntamiento, éste por conducto de sus Comisiones procederá a la realización de la glosa correspondiente, la cual deberá realizarse dentro de los veintiocho días naturales posteriores a la rendición del informe
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -623,7 +629,9 @@ ARTÍCULO 53 BIS.- En la Sesión Ordinaria de Cabildo en la que el Presidente Mu
 
 El proyecto de calendario para la glosa del informe que presente el Presidente Municipal al Ayuntamiento, deberá estar previamente acordado por la Comisión de Coordinación Política, a la que se refiere el artículo 65.
 
-Una vez aprobado el calendario, el Acuerdo de Cabildo que lo contenga deberá ser remitido a los Coordinadores de las Comisiones edilicias correspondientes y a los titulares de las dependencias obligados a comparecer, a efecto de que atiendan en tiempo y forma el mismo.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+Una vez aprobado el calendario, el Acuerdo de Cabildo que lo contenga deberá ser remitido a los Regidores Presidentes de las Comisiones edilicias correspondientes y a los titulares de las dependencias obligados a comparecer, a efecto de que atiendan en tiempo y forma el mismo.
 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -1185,11 +1193,15 @@ Cualquier integrante del Ayuntamiento podrá solicitar que se agreguen al apénd
 
 APROBACION DE ACTAS.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 100.
 
 En cada sesión, el Secretario Fedatario del Ayuntamiento dará lectura al contenido del acta de la sesión anterior, la cual deberá ser sometida a consideración y una vez enmendada en su caso, a la aprobación y firma de los miembros del Ayuntamiento que hubieren participado en la misma.
 
 Las observaciones que se formulen al acta, serán asentadas al final de su lectura, por el Secretario Fedatario del Ayuntamiento previamente a su trascripción al Libro de Actas.
+
+Tratándose de la última acta de la sesión llevada a cabo por los integrantes del Ayuntamiento saliente, bastará con la firma del Secretario Fedatario del Ayuntamiento, debiéndose difundir su contenido a los munícipes del Ayuntamiento entrante.
 
 DISPENSA DE LECTURA DEL ACTA.
 
@@ -1491,7 +1503,9 @@ V.- Supervisar el funcionamiento de las Juntas de Mejoramiento Moral Cívico y M
 
 VI.- Dictaminar respecto de los permisos de alcoholes.
 
-COMISION DE HACIENDA Y PATRIMONIO MUNICIPAL.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2018)</small>
+
+COMISIÓN DE HACIENDA Y PATRIMONIO MUNICIPAL.
 
 ###### ARTÍCULO 116.
 
@@ -1641,7 +1655,9 @@ V.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesari
 
 VI.- Supervisar el funcionamiento de los trámites y los servicios que preste la Unidad Municipal de Gestión Empresarial y Mejora Regulatoria (UGEMER), solicitar a ésta a través del Presidente Municipal, los informes relativos a sus acciones y programas e informar al Ayuntamiento y al Presidente Municipal sobre cualquier deficiencia en la prestación de sus trámites y servicios.
 
-COMISION DE ADMINISTRACION Y FORTALECIMIENTO MUNICIPAL.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2018)</small>
+
+COMISIÓN DE ADMINISTRACIÓN PÚBLICA Y FORTALECIMIENTO MUNICIPAL
 
 ###### ARTÍCULO 122.
 
@@ -1758,6 +1774,10 @@ XIII.- Vigilar el desempeño de la Dirección de Desarrollo Regional y Delegacio
 XIV. Coadyuvar con la Dirección de Desarrollo Regional y Delegaciones, a fin de mejorar las condiciones de vida de las zonas rurales y las delegaciones municipales; y,
 
 XV.- Las demás que expresamente le señalen las leyes aplicables.
+
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2018)</small>
+
+COMISIÓN DE ASUNTOS ÍNDIGENAS
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -1910,6 +1930,10 @@ IV.- Generar y promover condiciones de integración, protección, fortalecimient
 V.- Supervisar el correcto funcionamiento de los servicios que preste (sic) DIF Municipal.
 
 VI.- En general, aquellas que el Ayuntamiento le encomiende.
+
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2018)</small>
+
+COMISIÓN DE PROTECCIÓN CIVIL
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2014)</small>
 
@@ -2346,3 +2370,9 @@ P.O. 11 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 122, Y ADICIONA EL ARTÍCULO 142 BIS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA".]
 
 ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publiación en el Periódico Oficial del Estado y/o en la Gaceta Municipal de Ensenada.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
