@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2018-05-03"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -887,6 +887,10 @@ II. Comportamiento y normatividad para el peatón;
 
 III. Comportamiento y normatividad para el conductor;
 
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+III Bis. De los riesgos, daños y sanciones por hablar por teléfono celular, textear o utilizar cualquier dispositivo móvil mientras se conduce vehículos motorizados y no motorizados;
+
 IV. Prevención de accidentes y primeros auxilios;
 
 V. Dispositivos para el control de tránsito;
@@ -923,9 +927,15 @@ VI. Evitar descender o ascender a la vía de rodamiento de vehículos;
 
 VII. En cruceros no controlados por semáforos o agentes de tránsito, no podrán cruzar frente a vehículos detenidos momentáneamente;
 
-VIII. Transitar diagonalmente por los cruceros, excepto cuando así se permita, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
 
-IX. Las demás que se deriven de esta Ley, su reglamento y reglamentos municipales.
+VIII. Transitar diagonalmente por los cruceros, excepto cuando así se permita;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+IX. Evitar utilizar el teléfono celular o cualquier dispositivo móvil que distraiga su atención al cruzar por las calles, avenidas, calzadas y caminos, y
+
+X. Las demás que se deriven de esta Ley, su reglamento y reglamentos municipales.
 
 En los reglamentos municipales respectivos, podrán establecer las infracciones y sanciones que correspondan por incumplimiento a estas obligaciones.
 
@@ -953,13 +963,17 @@ VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con
 
 IX. Compartir de manera responsable con los vehículos y el transporte público, la circulación en carriles de la extrema derecha;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
 
-X. El conductor de la bicicleta preferentemente deberá usar casco e implementos de seguridad; y
+X. El conductor de la bicicleta preferentemente deberá usar casco e implementos de seguridad;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+XI. Evitar utilizar el teléfono celular o cualquier dispositivo móvil que distraiga su atención al conducir, y
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XI. Las demás disposiciones que establezca el reglamento respectivo.
+XII. Las demás disposiciones que establezca el reglamento respectivo.
 
 ###### ARTICULO 69.
 
@@ -1024,6 +1038,12 @@ IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2018)</small>
 
 X. Abstenerse de conducir vehículos en estado de ebriedad, con aliento alcohólico, o en cualquier estado de intoxicación; O QUE AL CONDUCIR DESVÍE SU ATENCIÓN POR UN DISTRACTOR, EN LOS TÉRMINOS DEL ARTÍCULO 357 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ;
+
+(NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA FRACCIÓN X BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+X Bis. EVITAR UTILIZAR EL TELÉFONO CELULAR O CUALQUIER DISPOSITIVO MÓVIL QUE DISTRAIGA SU ATENCIÓN AL CONDUCIR;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2016)</small>
 
@@ -1664,3 +1684,11 @@ P.O. 3 DE MAYO DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 984.- SE REFORMAN LOS ARTÍCULOS 67 Y 68; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 65, 67, 68 Y 72 DE LA LEY DE LEY (SIC) DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
