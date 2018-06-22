@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2018-03-29"
+last_updated: "2018-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -55,7 +55,7 @@ Esta Ley es de observancia general, de orden público e interés social; regula 
 
 ###### ARTICULO 2°.
 
-La educación que se imparta en la Entidad se sustentará en los principios y lineamientos establecidos en el articulo 3° y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación, la Ley General del Servicio Profesional Docente, la Constitución Política del Estado de San Luis Potosí, los contenidos en la presente Ley, las normas, convenios y demás disposiciones que de ella se deriven.
+La educación que se imparta en la Entidad se sustentará en los principios y lineamientos establecidos en el artículo 3° y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación, la Ley General del Servicio Profesional Docente, la Constitución Política del Estado de San Luis Potosí, los contenidos en la presente Ley, las normas, convenios y demás disposiciones que de ella se deriven.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
 
@@ -893,13 +893,17 @@ II. Instituto Nacional de Estadística y Geografía; y, Consejo Estatal de Pobla
 
 III. Secretaría de Ecología y Gestión Ambiental: aspectos relacionados con ecología, ecosistemas y cambio climático;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
 
-IV. La Coordinación Estatal de Protección Civil, en el ámbito de sus atribuciones, y
+IV. La Coordinación Estatal de Protección Civil, en el ámbito de sus atribuciones;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
 
-V. El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado: rescate, promoción y conocimiento de la cultura, usos, costumbres y tradiciones indígenas.
+V. El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado: rescate, promoción y conocimiento de la cultura, usos, costumbres y tradiciones indígenas, y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+VI. Dirección General de Seguridad Pública del Estado: aspectos relacionados con la educación vial y la seguridad pública.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2008)</small>
 
@@ -2452,3 +2456,11 @@ P.O. 29 DE MARZO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 979.- SE REFORMA EL ARTÍCULO 43 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
