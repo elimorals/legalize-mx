@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2018-03-09"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE AGOSTO DE 2018 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -669,29 +671,61 @@ III.- Las establecidas en los artículos 59, 60, 61 y 62 de este Reglamento.
 
 ### CAPITULO X. DE LOS INSPECTORES
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 59.
 
-Los inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos, tendrán a su cargo la vigilancia, regulación del cumplimiento de las disposiciones del presente Reglamento y la que les sea asignada por el C. Presidente Municipal y el Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos para lo cual deberán identificarse en el ejercicio de sus funciones.
+Los inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos, deberán actuar de manera responsable en el desempeño de sus labores, procurando que su actitud hacia los ciudadanos sea atenta y respetuosa, teniendo a su cargo la vigilancia y cumplimiento de las disposiciones del presente Reglamento y las que les sean asignadas por el C. Presidente Municipal y el Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 60.
 
-Las facultades de los Inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos para los efectos de este Reglamento serán las 24 horas del día, extendiéndose éstas a las Delegaciones del Municipio de Ensenada así como las contempladas en los artículos 117 en correlación con la fracción II del 120 de la Ley de Hacienda Municipal para el Estado de Baja California.
+Para ser inspector adscrito al Departamento de Comercio, Alcoholes y Espectáculos Públicos, se requiere:
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+I. Ser de Nacionalidad Mexicana.
+
+II. Tener residencia mínima de 5 años en el municipio.
+
+III. Estar en pleno uso de sus derechos civiles y políticos.
+
+IV. Contar con grado académico mínimo de nivel medio superior.
+
+V. Presentar constancia de no antecedente (sic) penales vigente.
+
+VI. Asistir y aprobar el curso de capacitación implementado por el Departamento de Comercio, Alcoholes y Espectáculos Públicos.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 61.
 
-Los elementos de Seguridad Pública Municipal, serán auxiliares de los inspectores del Departamento de Comercio, Alcoholes y Espectáculos Públicos y por lo tanto tendrán la obligación de apoyarlos cuantas veces sea necesario y de vigilar el cumplimiento de las disposiciones de este Reglamento.
+Los inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos deberán de contar con capacitaciones periódicas, por el Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos para vigilar y dar cumplimiento al presente Reglamento, por lo menos dos veces al año.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 62.
 
-Las infracciones que se levanten por los inspectores del Departamento de Comercio, Alcoholes y Espectáculos Públicos, serán entregadas al Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos para su calificación, conforme a la tarifa aplicable establecida en el ARTÍCULO 63 del presente Reglamento y únicamente el Presidente Municipal podrá disminuir el monto o cancelarlas en su caso.
+Las facultades de los inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos, para los efectos de este Reglamento serán las 24 horas del día, extendiéndose éstas a las Delegaciones del Municipio de Ensenada, así como las contempladas en los artículos 117 en correlación con la fracción II del 120 de la Ley de Hacienda Municipal para el Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 62 BIS.- La Oficialía Mayor expedirá un gafete que identificará a los inspectores, mismo que deberán portar a la vista permanentemente durante el ejercicio de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 62 TER.- Los inspectores deberán rendir un informe trimestral de actividades al Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos, mismo que a su vez será remitido ante la Comisión de Comercio y Espectáculos del Ayuntamiento para su conocimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 62 CUARTER (SIC).- Los inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos, serán empleados de confianza del Municipio, y deberán rotarse periódicamente en las distintas demarcaciones que contempla el Artículo 37 del presente Reglamento, así como en los Mercados Comunes, debiendo por lo menos estar asignado un inspector a cada una de estas demarcaciones y Mercados Comunes simultáneamente, y el resto de los inspectores en la demarcación o Mercado Común que mayores servicios requiera.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 62 QUINQUER.- Los elementos de Seguridad Pública Municipal, serán auxiliares de los inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos, y por lo tanto tendrán la obligación de apoyarlos cuantas veces sea necesario y de vigilar el cumplimiento de las disposiciones de este Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 62 SEXTER (SIC).- Las infracciones que se levanten por los inspectores adscritos al Departamento de Comercio, Alcoholes y Espectáculos Públicos, serán entregadas al Jefe del Departamento de Comercio, Alcoholes y Espectáculos Públicos, para su calificación, conforme a la tarifa aplicable establecida en el Artículo 63 del presente Reglamento y únicamente el Presidente Municipal podrá disminuir el monto o cancelarlas en su caso.
 
 ### CAPITULO XI. DE LA IMPOSICIÓN DE MULTAS
 
@@ -874,5 +908,11 @@ P.O. 7 DE JULIO DE 2017.
 P.O. 9 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 59, 60, 61, 62, 62 BIS, 62 TER, 62 CUARTER (SIC), 62 QUIQUER (SIC), Y 62 SEXTER (SIC) DEL REGLAMENTO DE COMERCIO”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California y/o en la Gaceta Municipal.
