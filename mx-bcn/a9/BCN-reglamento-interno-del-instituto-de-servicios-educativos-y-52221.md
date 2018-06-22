@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-servicios-educativos-y-5222
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-27"
-last_updated: "2011-05-27"
+last_updated: "2018-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGOGICOS DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGOGICOS DE BAJA CALIFORNIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGÓGICOS DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 22 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGÓGICOS DE BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 2006.
 
@@ -31,7 +33,7 @@ EUGENIO ELORDUY WALTHER, GOBERNADOR DEL ESTADO, CON FUNDAMENTO EN EL ARTÍCULO 4
 
 CONSIDERANDO
 
-..
+[...]
 
 Por lo antes expuesto, y con fundamento en los Artículos antes señalados, he tenido a bien dictar el siguiente:
 
@@ -1269,7 +1271,7 @@ XXV. Apoyar con el soporte técnico al personal de la Coordinación de Carrera M
 
 XXVI. Las demás que directamente le encomiende su superior jerárquico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 52.
 
@@ -3463,7 +3465,7 @@ XXX. Registrar y dar seguimiento a los riesgos de trabajo de los trabajadores de
 
 XXXI. Certificar los documentos generados y avalados por ésta Dirección y que obren en sus archivos documentales y electrónicos;
 
-XXXII. Participar en la Comisión dictaminadora para las incorporaciones o promociones del personal docente en el programa de carrera magisterial conforme a las disposiciones normativas vigentes, y (sic)
+XXXII. Participar en la Comisión dictaminadora para las incorporaciones o promociones del personal docente en el programa de carrera magisterial conforme a las disposiciones normativas vigentes, y
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
 
@@ -3579,7 +3581,7 @@ VII. Coordinar la administración de los sistemas de sueldos, salarios y demás 
 
 VIII. Observar la aplicación de las normas jurídicas, políticas y lineamientos vigentes en materia de administración de personal, dentro de su ámbito de competencia;
 
-IX. Proponer a su superior jerárquico, proyectos de mejoras para hacer mas eficientes y eficaces los procesos propios del departamento, en atención a la calidad en el servicio, y (sic)
+IX. Proponer a su superior jerárquico, proyectos de mejoras para hacer mas eficientes y eficaces los procesos propios del departamento, en atención a la calidad en el servicio, y
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
 
@@ -4357,8 +4359,34 @@ SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 JOSÉ GABRIEL POSADA GALLEGO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORISO DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 27 DE MAYO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGÓGICOS DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Instituto de Servicios Educativos y Pedagógicos de Baja California, publicado en el Periódico Oficial del Estado de fecha 27 de octubre del 2006 y su reforma publicada en el Periódico Oficial del Estado, de fecha 27 de mayo de 2011.
+
+TERCERO.- Se derogan todas las disposiciones normativas de igual o menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO.- Los asuntos que hasta antes de la entrada en vigor de este Reglamento, se estuvieren substanciando en las unidades administrativas que en virtud de este ordenamiento se suprimen o modifican en la estructura del ISEP, se turnan de inmediato a las unidades administrativas que por efecto del mismo, resulten competentes para la continuación de su trámite.
+
+QUINTO.- Serán respetados, conforme a las políticas, bases y lineamientos aplicables, los derechos laborales del personal, que en virtud de la reestructuración orgánica que implica en el presente Reglamento pudieran resultar afectados.
+
+SEXTO.- Los recursos financieros y materiales que estuvieren asignados a las unidades administrativas que desaparecen o modifican su competencia y/o estructura, en virtud de lo dispuesto en el presente Reglamento, serán reasignados a las unidades administrativas que asumen las correspondientes funciones, de conformidad con la normatividad aplicable.
+
+SÉPTIMO.- La organización interna de las unidades administrativas que determina el presente Reglamento, así como la distribución de las funciones relativas, niveles jerárquicos y relaciones de autoridad, se desarrollarán en el Manual de Organización que al efecto expida el Director General, dentro de los 180 días siguientes a publicación del presente Reglamento.
+
+OCTAVO.- Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no autorice los recursos financieros necesarios para dar cumplimiento a lo previsto en el artículo 29 del presente instrumento, lo cual no podrá excederse del inicio del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevaran a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del ejercicio fiscal 2018.
+
+En cualquier caso, su funcionamiento será de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California, e iniciará funciones a más tardar el primero de enero de 2019.
+
+NOVENO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General, queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
