@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-05-03"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1771,7 +1771,9 @@ VI. Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artró
 
 VII. Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishamaniasis, tripanosomiasis y oncocercosis;
 
-VIII. Sífilis, infecciones gonocóccicas y otras enfermedades de transmisión sexual;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+
+VIII. Sífilis, infecciones gonocócicas, virus del papiloma humano y otras enfermedades de transmisión sexual;
 
 IX. Lepra y mal de pinto;
 
@@ -1784,6 +1786,10 @@ XII. Toxoplasmosis;
 XIII. Síndrome de inmunodeficiencia adquirida (SIDA), y
 
 XIV. Las demás que determinen el Consejo de Salubridad General, y otros tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2018)</small>
+
+ARTICULO 103 BIS. Los Servicios de Salud del Estado aplicarán a niñas y niños a partir de los once años de edad, en cualquier momento y gratuitamente, con la anuencia de sus padres o tutores, y previo conocimiento de los beneficios y reacciones adversas, la vacuna contra el virus del papiloma humano; así mismo, implementará campañas permanentes de información respecto a este virus, sus formas de prevención y factores de riesgo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -4418,6 +4424,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 948.- SE REFORMA EL ARTÍCULO 200 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 988.- SE REFORMA EL ARTÍCULO 103 EN SU FRACCIÓN VIII; Y ADICIONA EL ARTÍCULO 103 BIS DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA EL ARTÍCULO 46 EN SU FRACCIÓN XVI DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
