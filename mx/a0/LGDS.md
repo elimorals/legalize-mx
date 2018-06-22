@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2018-01-26"
+last_updated: "2018-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -96,13 +96,17 @@ VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, gé
 
 VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-IX. Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. Las autoridades del país garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz, y
+IX. Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. Las autoridades del país garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-X. Perspectiva de género: una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social.
+X. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+XI. Interés superior de la niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes y en los tratados internacionales aplicables de los que el Estado Mexicano sea parte.
 
 ###### Artículo 4.
 
@@ -136,11 +140,11 @@ X. Padrón: Relación oficial de beneficiarios que incluye a las personas atendi
 
 ### Capítulo Único
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2018)</small>
 
 ###### Artículo 6.
 
-Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de calidad, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 7.
 
@@ -262,7 +266,9 @@ V. Los programas y acciones públicas para asegurar la alimentación nutritiva y
 
 VI. Los programas de abasto social de productos básicos;
 
-VII. Los programas de vivienda;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+VII. Los programas de vivienda, los instrumentos y apoyos para que toda familia pueda disfrutar de una vivienda digna y decorosa;
 
 VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía, y
 
@@ -368,9 +374,13 @@ III. Acceso a los servicios de salud;
 
 IV. Acceso a la seguridad social;
 
-V. Calidad y espacios de la vivienda;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
 
-VI. Acceso a los servicios básicos en la vivienda;
+V. Calidad y espacios de la vivienda digna y decorosa;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2018)</small>
+
+VI. Acceso a los servicios básicos en la vivienda digna y decorosa;
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
 
@@ -827,3 +837,15 @@ D.O.F. 26 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 40 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, 19 Y 36 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 3 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
