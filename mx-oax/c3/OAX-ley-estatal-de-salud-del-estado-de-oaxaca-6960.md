@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2018-06-15"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -2555,11 +2555,29 @@ Para fines sanitarios se extenderán los siguientes certificados:
 
 I.- Prenupciales;
 
-II.- De defunción;
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-III.- De muerte fetal; y
+II. De nacimiento;
 
-IV.- Los demás que determine la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
+III. De defunción;
+
+IV. De muerte fetal; y
+
+V. Los demás que determine la Ley General de Salud, esta Ley y demás disposiciones reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 260 Bis.
+
+El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+
+El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### ARTICULO 260 Ter.
+
+El certificado de nacimiento será requerido por las autoridades del Registro Civil a quienes pretendan declarar el nacimiento de una persona.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3153,7 +3171,7 @@ XI.- Buena fe.
 
 ###### ARTICULO 333.
 
-La Secretaria de Salud del Estado y los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieran encontrado en los establecimientos a que se refiere la fracción XVIII del articulo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud del Estado y los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3464,3 +3482,9 @@ P.O. 15 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1475.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1474.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
