@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2013-12-31"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -469,7 +469,7 @@ I.- Estatales, cuando por el monto de la obra así proceda, la publicación de l
 
 II.- Nacionales, cuando por el monto de la obra así proceda, la publicación se haga en el Diario Oficial de la Federación y en un diario de mayor circulación en el país; e,
 
-III.- Internacionales, cuando por el monto y características técnicas de las obras así proceda, se convocará a contratista nacionales y extranjeros, publicándose la convocatoria en el Diario Oficial de la Federación y en un diario de circulación nacional. Solamente se realizarán licitaciones de carácter internacional, cuando previa investigación de mercado, que realice la Dependencia, Entidad o Ayuntamiento convocante, se advierta que los contratistas nacionales no cuentan con la capacidad técnica y económica para la ejecución de la obra pública de que se trate; cuando sea conveniente en términos del precio, o bien, cuando sea obligatorio conforme a lo establecido en los Tratados Internacionales o se refiere a obra pública financiada con créditos externos otorgados al Gobierno del Estado.
+III.- Internacionales, cuando por el monto y características técnicas de las obras así proceda, se convocará a contratistas nacionales y extranjeros, publicándose la convocatoria en el Diario Oficial de la Federación y en un diario de circulación nacional. Solamente se realizarán licitaciones de carácter internacional, cuando previa investigación de mercado, que realice la Dependencia, Entidad o Ayuntamiento convocante, se advierta que los contratistas nacionales no cuentan con la capacidad técnica y económica para la ejecución de la obra pública de que se trate; cuando sea conveniente en términos del precio, o bien, cuando sea obligatorio conforme a lo establecido en los Tratados Internacionales o se refiere a obra pública financiada con créditos externos otorgados al Gobierno del Estado.
 
 Podrá negarse la participación de contratistas extranjeros en licitaciones internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un Tratado o ese país no conceda un trato recíproco a los contratistas mexicanos.
 
@@ -1267,6 +1267,108 @@ Los procedimientos que se sigan de conformidad con las disposiciones de este Cap
 
 Las resoluciones que se dicten con motivo de la substanciación del recurso a que se refiere el presente Capítulo, serán inimpugnables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2018)</small>
+
+### CAPITULO III. DEL PROCEDIMIENTO DE CONCILIACION
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 97.
+
+Los contratistas, la dependencia, entidad o Ayuntamientos, podrán presentar el escrito de solicitud de conciliación ante la Contraloría, con motivo del incumplimiento de los términos y condiciones de los contratos de obra pública celebrados entre estos.
+
+Deberá hacerse por escrito y deberá contar con los siguientes requisitos mínimos:
+
+I.- Deberán precisar bajo protesta de decir verdad el nombre, denominación o razón social de quién o quiénes promuevan, en su caso de su representante legal, domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas, la petición que se formula, los hechos o razones que dan motivo a la petición y lugar y fecha de su emisión. Deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual, se imprimirá su huella digital. El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad;
+
+II.- Deberá hacer referencia al objeto, vigencia y monto del contrato y, en su caso, a los convenios modificatorios, debiendo adjuntar copia de dichos instrumentos debidamente suscritos;
+
+III.- Acompañar al escrito, de copias certificadas en caso de contar con algún elemento probatorio.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 98.
+
+Recibido el escrito respectivo, la Contraloría, deberá señalar día y hora para que tenga verificativo la audiencia de conciliación a las partes. La audiencia debe celebrarse dentro de los diez días hábiles, siguientes a la fecha de recepción de la solicitud.
+
+La asistencia a la audiencia es de carácter obligatorio para ambas partes. En caso de inasistencia de la parte que presento la solicitud se le tendrá por desistido de la misma.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 99.
+
+En la audiencia de conciliación la Contraloría debe:
+
+I.- Dar a conocer a las partes el motivo de la comparecencia;
+
+II.- Conceder el uso de la voz a las partes;
+
+III.- Tomar en cuenta los hechos manifestados en el escrito de conciliación y los argumentos de las Dependencias, Entidades o Ayuntamiento, respectivos;
+
+IV.- Determinar los elementos comunes y los puntos de controversia;
+
+V.- Exhortar a las partes para conciliar sus intereses conforme a las disposiciones de esta Ley, sin prejuzgar del conflicto planteado, y;
+
+VI.- Exhortar a las partes a efecto que al finalizar la comparecencia, firmen la minuta de convenio asimismo que le den cumplimiento a los acuerdos en ella vertida.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 100.
+
+Las partes deben procurar la realización de acciones que promuevan la ejecución total de los trabajos y la completa resolución de las controversias, a través de los convenios que acuerden las mismas, los que pueden considerarse para efectos de solventar las observaciones de la Contraloría.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 101.
+
+En caso de que sea necesario, la audiencia se podrá realizar en varias sesiones. Para ello, la Contraloría señalará las fechas y horas en que tendrán verificativo.
+
+El procedimiento de conciliación debe agotarse en un plazo no mayor de veinte días hábiles contados a partir de la fecha de la primera sesión, salvo que las partes acuerden un plazo mayor, por causas justificadas.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 102.
+
+En caso de que las partes no lleguen a un acuerdo, pueden designar a su costa, ante la presencia de la Contraloría, a un tercero o perito que emita su opinión sobre los puntos controvertidos, a efecto de logar (sic) que las partes concilien sus intereses.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 103.
+
+En cualquier tiempo las partes podrán manifestar su deseo de no continuar con el procedimiento de conciliación, señalando las razones que tengan para ello; en consecuencia, la Contraloría, procederá a asentarlo en el acta correspondiente dando por concluido el procedimiento y dejando a salvo los derechos de las partes.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 104.
+
+El procedimiento de conciliación concluye con:
+
+I.- La celebración del convenio respectivo;
+
+II.- La determinación de cualquiera de las partes de no conciliar, o;
+
+III.- El desistimiento de la solicitud de conciliación.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 105.
+
+De toda la diligencia debe realizarse un acta circunstanciada en la que consten los resultados de las actuaciones, y de manera textual el convenio a que se allá (sic) llegado, debiéndose entregar copia autorizada a las partes.
+
+La única documentación que la Contraloría está obligada a conservar, serán las actas que se realicen con motivo de las audiencias, así como en su caso, la de los convenios de conciliación.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 106.
+
+Las dependencias y entidades o Ayuntamientos estarán obligadas a remitir a la Contraloría, un informe sobre el avance de cumplimiento de los acuerdos de voluntades formulados con motivo del procedimiento de conciliación, en un plazo no mayor a diez días hábiles, contados a partir de la última sesión de conciliación.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+###### Artículo 107.
+
+Si las partes llegan a una conciliación, el convenio respectivo obliga a las mismas a su cumplimiento, pero este no resulta vinculante ante autoridades jurisdiccionales. En caso contrario, quedan a salvo sus derechos para que los hagan valer ante la instancia legal competente.
+
 TRANSITORIOS:
 
 PRIMERO.- Se deroga la Ley de Obras Públicas del Estado de Oaxaca, de fecha 7 de diciembre de 1984, publicada en el Periódico Oficial del Estado de Oaxaca, con número 4, de fecha 26 de enero de 1985, y se derogan todas aquellas disposiciones de igual o menor rango que se opongan a la presente Ley.
@@ -1362,3 +1464,11 @@ P.O. 30 DE DICIEMBRE DE 2008.
 P.O. 31 DE DICIEMBRE DE 2013.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1465.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La Secretaría de la Contraloría y Transparencia Gubernamental, deberá modificar su Reglamento Interno, a efecto de instrumentar lo dispuesto en el presente Decreto.
