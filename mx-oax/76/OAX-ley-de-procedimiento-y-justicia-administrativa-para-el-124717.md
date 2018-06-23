@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-procedimiento-y-justicia-administrativa-para-el-124717"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-20"
-last_updated: "2017-10-20"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de octubre de 2017.
 
@@ -49,11 +49,13 @@ LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y de interés social, se aplicará en todo el Estado de Oaxaca en los actos administrativos y los procedimientos que desarrollen las Dependencias del Poder Ejecutivo del Gobierno del Estado, Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública Estatal; cuando estas emitan una resolución administrativa de cualquier naturaleza; por los Ayuntamientos de los Municipios del Estado de Oaxaca, por las Dependencias de estos y por sus Entidades Paramunicipales. De igual forma regulará la organización y funcionamiento del Tribunal de lo Contencioso Administrativo y de Cuentas del Estado de Oaxaca y la impartición de la Justicia Administrativa en el Estado de Oaxaca.
+La presente Ley es de orden público y de interés social, se aplicará en todo el Estado de Oaxaca en los actos administrativos y los procedimientos que desarrollen la Dependencias del Poder Ejecutivo del Gobierno del Estado, Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública-Estatal; cuando estas emitan una resolución administrativa de cualquier naturaleza; por los Ayuntamientos de los Municipios del Estado de Oaxaca, por las Dependencias de estos y por sus Entidades Paramunicipales. De igual forma regulará la organización y funcionamiento del Tribunal de Justicia Administrativa del Estado de Oaxaca y la impartición de la Justicia Administrativa en el Estado de Oaxaca.
 
-La presente Ley no será aplicable a las materias de carácter electoral, de justicia agraria y laboral, resoluciones administrativas que tengan relación con la defensa de los derechos humanos, con las actividades desarrolladas por la Universidad Autónoma “Benito Juárez” de Oaxaca; ni por las dictadas por la Fiscalía General de Estado en ejercicio de sus funciones constitucionales de investigación de los delitos o de la representación social, ni con los conflictos suscitados entre los integrantes de los Ayuntamientos, así mismo tampoco se aplicará a los actos desplegados por la Comisión Estatal de Arbitraje Médico de Oaxaca, ni por la elección de las autoridades auxiliares de carácter municipal.
+La presente Ley no será aplicable a las materias de carácter electoral, de justicia agraria y laboral, resoluciones administrativas que tengan relación con la defensa de los derechos humanos, con las actividades desarrolladas por la Universidad Autónoma "Benito Juárez" de Oaxaca; ni por las dictadas por la Fiscalía General de Estado en ejercicio de sus funciones constitucionales de investigación de los delitos o de la representación social, ni con los conflictos suscitados entre los integrantes de los Ayuntamientos, así mismo tampoco se aplicará a los actos desplegados por la Comisión Estatal de Arbitraje Médico de Oaxaca, ni por la elección de las autoridades auxiliares de carácter municipal.
 
 ###### ARTÍCULO 2.
 
@@ -85,7 +87,9 @@ XII. Ley: Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxac
 
 XIII. Legislativo o Congreso: Poder Legislativo del Gobierno del Estado de Oaxaca; y
 
-XIV. Tribunal: Tribunal de lo Contencioso Administrativo y de Cuentas del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+XIV. Tribunal: Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
 ###### ARTÍCULO 3.
 
@@ -95,9 +99,13 @@ Esta Ley se aplicará supletoriamente a las diversas leyes administrativas, regl
 
 Para que produzcan efectos jurídicos, deberán publicarse en el Periódico Oficial del Gobierno del Estado, todo acto administrativo de carácter general que involucre a la ciudadanía, tales como los decretos, acuerdos, circulares y cualquier otro de la misma naturaleza; los que obligan y surten sus efectos al día siguiente de su publicación, a menos que en ellos se señale expresamente el día de inicio de su vigencia. Asimismo, los actos administrativos de carácter individual deberán notificarse personalmente a los interesados y publicarse en dicho órgano informativo cuando así lo establezcan las leyes.
 
-Los instructivos, manuales, formatos y cualquier modelo de papelería que sea de interés general que expidan las dependencias, entidades, ayuntamientos, Contraloría, Fiscalía, Auditoría Superior de Fiscalización del Estado de Oaxaca, deberán publicarse previamente a su aplicación, en la página electrónica de transparencia de estos, en el Periódico Oficial del Gobierno del Estado de Oaxaca y estar a la vista en los tableros de avisos de las Dependencias y entidades correspondientes, sin perjuicio de utilizar otros medios masivos de comunicación cuando así lo consideren conveniente.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-El Tribunal deberá realizar las publicaciones a las que se refiere este artículo en el Boletín Judicial, en sus estrados y en la página de transparencia del Poder Judicial.
+Los instructivos, manuales, formatos y cualquier modelo de papelería que sea de interés general que expidan las dependencias, entidades, ayuntamientos, Contraloría, Fiscalía, Órgano Superior de Fiscalización del Estado de Oaxaca, deberán publicarse previamente a su aplicación, en la página electrónica de transparencia de estos, en el Periódico Oficial del Gobierno del Estado de Oaxaca y estar a la vista en los tableros de avisos de las Dependencias y entidades correspondientes, sin perjuicio de utilizar otros medios masivos de comunicación cuando así lo consideren conveniente.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+El Tribunal deberá realizar las publicaciones a las que se refiere este artículo en sus estrados y en su portal de internet.
 
 ## TÍTULO SEGUNDO. DEL RÉGIMEN JURÍDICO DE LOS ACTOS ADMINISTRATIVOS
 
@@ -233,9 +241,11 @@ XV. Los demás requisitos y elementos específicos que exijan las leyes o reglam
 
 ### CAPÍTULO TERCERO. DE LA NULIDAD Y EXTINCIÓN DEL ACTO ADMINISTRATIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 18.
 
-Para que el acto administrativo produzca efectos jurídicos, deberá reunir los elementos y requisitos del mismo, en caso contrario, dará lugar a su nulidad, la que deberá demandarse conforme a la ley que rija al acto o bien ante el Tribunal de lo Contencioso Administrativo y de Cuentas del Estado de Oaxaca, con arreglo en lo establecido en la presente ley, cumpliendo con las siguientes reglas generales:
+Para que el acto administrativo produzca efectos jurídicos, deberá reunir los elementos y requisitos del mismo, en caso contrario, dará lugar a su nulidad, la que deberá demandarse conforme a la ley que rija al acto o bien ante el Tribunal, con arreglo en lo establecido en la presente Ley, cumpliendo con las siguientes reglas generales:
 
 I. La omisión o irregularidad de cualquiera de los elementos o requisitos establecidos en las fracciones I a X del artículo 17 de la presente Ley, producirá la nulidad del acto administrativo, la cual será declarada por el superior jerárquico de la autoridad que lo haya emitido, salvo que el acto impugnado provenga del titular de una dependencia, Entidad, Presidente Municipal o cualquiera autoridad que por su nivel administrativo o burocrático no tenga superior, o este sea un cuerpo colegiado, Consejo de Administración o la soberanía propia de un cargo de representación popular, en cuyo caso, la nulidad será declarada por el Tribunal. En caso de que el superior se niegue a declarar dicha nulidad, la declaración sea imperfecta o no proceda conforme a la presente Ley, la nulidad deberá ser declarada por el Tribunal;
 
@@ -1023,25 +1033,37 @@ El recurrente podrá esperar la resolución expresa o impugnar en cualquier tiem
 
 La resolución del recurso da acción al agraviado para intentar el juicio que corresponda ante el Tribunal.
 
-## TÍTULO PRIMERO. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DE CUENTAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
+
+## TÍTULO PRIMERO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-# LIBRO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DE CUENTAS DEL ESTADO DE OAXACA
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+# LIBRO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL
 
 ### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 118.
 
-La organización y funcionamiento del Tribunal de lo Contencioso Administrativo y de Cuentas del Estado de Oaxaca se regulará por las disposiciones contenidas en este Libro y en la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas y el Reglamento Interno del Tribunal.
+La organización y funcionamiento del Tribunal se regulará por las disposiciones contenidas en este Libro y en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca y el Reglamento Interno del Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 119.
 
-La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo y de Cuentas, Tribunal Especializado del Poder Judicial; órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones, que ejerce el control de legalidad. Dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; con facultad para interpretar la Ley de procedimiento y justicia administrativa a través de sus resoluciones.
+La jurisdicción administrativa la ejercerá el Tribunal, tribunal especializado, órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones, que ejerce el control de legalidad. Dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; con facultad para interpretar la Ley de procedimiento y justicia administrativa a través de sus resoluciones.
 
-Formará parte del Sistema Estatal de Combate a la Corrupción y estará sujeto a las bases establecidas en el artículo 113 y 116, fracción V de la Constitución Política de los Estados Unidos Mexicanos, así como a los demás ordenamientos relacionados con el combate a la corrupción.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Formará parte del Sistema Estatal de Combate a la Corrupción y estará sujeto a las bases establecidas en el artículo 113·y 116, fracción V de la Constitución Política de los Estados Unidos Mexicanos, artículo 114 Quater; 115 y 116 de la Constitución Política del Estado Libre y Soberano de Oaxaca, así como a los demás ordenamientos relacionados con el combate a la corrupción.
 
 Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
 
@@ -1061,11 +1083,15 @@ Cuando de acuerdo a las leyes de la materia, los municipios cuenten con organism
 
 V. Entre particulares y otros organismos públicos, cuando las leyes de la materia le conceden competencia expresa al Tribunal; y
 
-VI. Las demás señaladas en la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas y el Reglamento Interno del Tribunal.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VI. Las demás señaladas en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca y el Reglamento Interno del Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 121.
 
-El Tribunal además de lo señalado en el artículo anterior, conocerá de las Responsabilidades Administrativas de los servidores públicos y particulares vinculados con faltas administrativas graves promovidas por la Secretaría de Contraloría y Transparencia Gubernamental, los Órganos Internos de Control de los entes públicos Estatales y Municipales y por la Auditoría Superior de Fiscalización del Estado de Oaxaca, para imposición de sanciones. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten al erario público estatal o municipal, así como al Patrimonio de los entes públicos estatales o municipales.
+El Tribunal además de lo señalado en el artículo anterior, conocerá de las Responsabilidades Administrativas de los servidores públicos y particulares vinculados con faltas administrativas graves promovidas por la Secretaría de Contraloría y Transparencia Gubernamental, los Órganos Internos de Control de los entes públicos Estatales y Municipales y por el Órgano Superior de Fiscalización del Estado de Oaxaca, para imposición de sanciones. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten al erario público estatal o municipal, así como al Patrimonio de los entes públicos estatales o municipales.
 
 Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves se contrapone o menoscaba la facultad que cualquier ente público que (sic) posea para imponer sanciones a particulares en los términos de la legislación aplicable.
 
@@ -1073,23 +1099,33 @@ Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para im
 
 ###### ARTÍCULO 122.
 
-La estructura del Tribunal se determina en la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas.
+La estructura del Tribunal se determina en la Ley Orgánica del Tribunal Justicia Administrativa del Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 123.
 
-El número de Salas unitarias de primera instancia del Tribunal se determinará de acuerdo a las necesidades del trabajo, de conformidad con la normatividad que regule su integración; el acuerdo de creación se publicará en el Boletín Judicial, en donde deberá precisarse la competencia territorial de la Sala de nueva creación, la que tendrá todas las características de autoridad, soberanía, jurisdicción y competencia contempladas en esta Ley.
+El número de Salas unitarias de primera instancia del Tribunal se determinará de acuerdo a las necesidades del trabajo, de conformidad con la normatividad que regule su integración, el acuerdo de creación se publicará en sus estrados y en su portal de internet, en donde deberá precisarse la competencia territorial de la Sala de nueva creación, la que tendrá todas las características de autoridad, soberanía, jurisdicción y competencia contempladas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+El Tribunal estará integrado por una Sala Superior, Salas Unitarias de Primera instancia. La Sala Superior se compondrá por cinco Magistrados y constituirá el pleno.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 124.
 
-Las salas unitarias de primera instancia del Tribunal tendrán la estructura establecida en la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas y en el Reglamento Interno.
+Las salas unitarias de primera instancia del Tribunal tendrán la estructura establecida en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca y en el Reglamento Interno.
 
 ###### ARTÍCULO 125.
 
 En la tramitación y resolución de los recursos de revisión, el Presidente de la Sala Superior actuará con el Secretario General de Acuerdos del Tribunal.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 126.
 
-Los Magistrados del Tribunal se regirán en cuanto a sus emolumentos, prestaciones y jubilación por lo establecido en la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas.
+Los Magistrados del Tribunal se regirán en cuanto a sus emolumentos, prestaciones y jubilación por lo establecido en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
 ### CAPÍTULO TERCERO. DE LAS SALAS DEL TRIBUNAL
 
@@ -1102,6 +1138,8 @@ Las sesiones ordinarias de la Sala Superior se celebrarán en los días, horas y
 Para que la Sala Superior sesione, se requiere de la instalación del quórum legal. Sesionará en número impar de magistrados. El Presidente tendrá voto de calidad en caso de empate.
 
 ### CAPÍTULO CUARTO. DE LOS MAGISTRADOS
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 129.
 
@@ -1121,7 +1159,9 @@ IV. Conocer y resolver excitativas que formulen las partes en el juicio;
 
 V. Resolver los conflictos de competencia que se susciten entre las Salas;
 
-VI. Conocer, substanciar y resolver mediante juicio las resoluciones en materia de responsabilidad administrativa que emitan la Auditoría Superior de Fiscalización del Estado de Oaxaca, la Secretaría de la Contraloría y Transparencia Gubernamental o los Órganos de Control Interno de la Administración Pública Estatal o Municipal;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VI. Conocer, substanciar y resolver mediante juicio las resoluciones en materia de responsabilidad administrativa que emitan el Órgano Superior de Fiscalización del Estado de Oaxaca, la Secretaría de la Contraloría y Transparencia Gubernamental o los Órganos de Control Interno de la Administración Pública Estatal o Municipal;
 
 VII. Conocer, sustanciar, resolver en única instancia e imponer las sanciones en los procedimientos de los servidores públicos relacionados con responsabilidades administrativas graves y resarcitorias;
 
@@ -1129,7 +1169,9 @@ VIII. Conocer, substanciar y resolver en los procedimientos relacionados con cua
 
 IX. Dictar las medidas preventivas y cautelares para evitar que el procedimiento sancionador quede sin materia; y
 
-X. Las demás que le confiera el Reglamento Interno del Tribunal y la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+X. Las demás que le confiera el Reglamento Interno del Tribunal y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
 ###### ARTÍCULO 131.
 
@@ -1161,9 +1203,11 @@ XI (SIC). Rendir al Presidente del Tribunal informe mensual de sus labores, así
 
 El trámite de los asuntos corresponderá por turno a las Salas Unitarias de Primera Instancia, en los términos que disponga el Reglamento Interior del Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 133.
 
-Las Salas Unitarias del Tribunal de lo Contencioso Administrativo y de Cuentas son competentes para conocer y resolver de los juicios que se promuevan en contra de:
+Las Salas Unitarias del Tribunal son competentes para conocer y resolver de los juicios que se promuevan en contra de:
 
 I. Los actos y resoluciones emanados de las autoridades del Poder Ejecutivo, de los Municipios y de sus organismos descentralizados y desconcentrados, cuando éstos actúen como autoridades, dictándolas, ordenándolas, ejecutándolas o tratando de ejecutarlas y que causen agravios a los particulares, por no ajustarse a los elementos y requisitos de validez previstos por el artículo 17 de ésta ley;
 
@@ -1195,17 +1239,23 @@ X. Del resarcimiento de daños y perjuicios que las autoridades administrativas 
 
 XI. De la legalidad o nulidad de remates, subastas o similares, embargos y pretensiones de requerimiento dictadas por autoridades diversas a las del Poder Judicial del Estado; y
 
-XII. De los asuntos cuya resolución esté reservada al Tribunal de lo contencioso administrativo y de cuentas conforme a lo dispuesto por ésta u otras leyes.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+XII. De los asuntos cuya resolución esté reservada al Tribunal conforme a lo dispuesto por ésta u otras leyes.
 
 ### CAPÍTULO QUINTO. DE LAS VACACIONES
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 134.
 
-Los Magistrados del Tribunal serán nombrados de acuerdo con lo dispuesto en los artículos 101 y 102 de la Constitución Política del Estado. Además de estos requisitos deberán poseer experiencia profesional de tres años en materia administrativa y fiscal.
+Los Magistrados del Tribunal serán nombrados de acuerdo con lo dispuesto en el artículo 114 Quater de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 135.
 
-Los Magistrados durarán en el ejercicio de su cargo ocho años y podrán ser reelectos en los términos de la Constitución Política del Estado, y podrán jubilarse conforme a lo dispuesto en la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas.
+Los Magistrados podrán ser reelectos en los términos de la Constitución Política del Estado, y podrán jubilarse conforme a lo dispuesto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca.
 
 ###### ARTÍCULO 136.
 
@@ -1239,9 +1289,11 @@ XIII. Dar cuenta diariamente al Presidente del Tribunal bajo su más estricta re
 
 XIV. Las demás que por ley le correspondan, las que asigne el Reglamento, el Tribunal en pleno o el Presidente del Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 137.
 
-Corresponde a los Secretarios de Acuerdos del Tribunal de lo Contencioso Administrativo y de Cuentas:
+Corresponde a los Secretarios de Acuerdos del Tribunal:
 
 I. Dar fe y firmar las resoluciones, acuerdos y actuaciones emitidos por las Salas al que estén adscritos, autorizándolos con su firma;
 
@@ -1279,9 +1331,11 @@ III. Elaborar diariamente la lista de acuerdos y resoluciones y fijarla en lugar
 
 IV. Las demás que le señale la Ley y el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 140.
 
-Los Asesores del Tribunal de lo Contencioso Administrativo y de Cuentas, desempeñarán, las siguientes funciones:
+Los Asesores del Tribunal, desempeñarán, las siguientes funciones:
 
 I. Asesorar a los particulares de escasos recursos económicos en la tramitación de los juicios y recursos ante el Tribunal;
 
@@ -1293,17 +1347,23 @@ IV. Brindar consultas gratuitas a los particulares, en materia administrativa y 
 
 V. Las demás que sean derivadas del ejercicio de su encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 141.
 
-Corresponde al Coordinador de Asesores del Tribunal Contencioso Administrativo y de Cuentas:
+Corresponde al Coordinador de Asesores del Tribunal:
 
 I. Coordinar los servicios que otorgue la coordinación, distribuyendo de manera equitativa los asuntos entre los asesores.
 
-II. Llevar un registro pormenorizado de las consultas, visitas, asesorías y juicios promovidos ante el Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+II. Llevar un registro pormenorizado de las consultas, visitas, asesorías y juicios promovidos ante el Tribunal;
 
 III. Difundir y promover sus actividades y servicios;
 
-IV. Rendir anualmente ante el Tribunal el informe sobre las actividades realizadas por ésta y por los Asesores del Tribunal de lo Contencioso Administrativo y de Cuentas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+IV. Rendir anualmente ante el Tribunal el informe sobre las actividades realizadas por ésta y por los Asesores del Tribunal;
 
 V. Servir como órgano de consulta de la ciudadanía con relación a dudas y problemas técnico- jurídicos que les sean necesarios;
 
@@ -1313,9 +1373,11 @@ VII. Las demás que le encomiende el Tribunal y las que le señalen otras dispos
 
 Los servicios prestados por esta Coordinación serán de manera gratuita a los ciudadanos que lo soliciten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 142.
 
-La Dirección de Gestión Administrativa del Tribunal de lo Contencioso Administrativo y de Cuentas, desempeñará las siguientes funciones:
+La Dirección de Gestión Administrativa del Tribunal, desempeñará las siguientes funciones:
 
 I. Cumplir con las disposiciones de la comisión de administración del tribunal;
 
@@ -1339,9 +1401,11 @@ Las faltas temporales del Secretario General de Acuerdos serán cubiertas por el
 
 ###### ARTÍCULO 144.
 
-Los períodos vacacionales de los servidores públicos del Tribunal serán aquellos que se establecen en la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas y en los Acuerdos que emita el propio Tribunal.
+Los periodos vacacionales de los servidores públicos del Tribunal serán aquellos que se establecen en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca y en los Acuerdos que emita el propio Tribunal.
 
-# LIBRO TERCERO. DEL JUICIO ANTE EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DE CUENTAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
+
+# LIBRO TERCERO. DEL JUICIO ANTE EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
 ###### ARTÍCULO 145.
 
@@ -1367,7 +1431,9 @@ Los menores de edad, los incapaces y los sujetos declarados en estado de interdi
 
 La representación de las autoridades corresponderá a los titulares de las mismas por si o a través de las unidades administrativas encargadas de su defensa jurídica, conforme lo establezcan las disposiciones legales aplicables.
 
-Los particulares, las autoridades o los representantes de ambos, podrán designar autorizados que concurran a las audiencias con facultades para rendir pruebas y alegar e interponer recursos, siempre que tengan cédula de licenciado en Derecho legalmente expedida por la autoridad educativa competente, en caso contrario únicamente podrán imponerse de los autos y recibir notificaciones.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Los particulares, las autoridades o los representantes de ambos, podrán designar autorizados que concurran a las audiencias con facultades para rendir pruebas y alegar e interponer recursos, así como para presentar todo tipo de promociones que no se refieran a las fracciones que se enumeran en el siguiente párrafo; siempre que tengan cédula de licenciado en Derecho, legalmente expedida por la autoridad educativa competente, en caso contrario únicamente podrán imponerse de los autos y recibir notificaciones.
 
 Este artículo no faculta al autorizado:
 
@@ -1391,9 +1457,11 @@ VIII. Para los demás actos que expresamente determine la ley.
 
 El juicio ante el Tribunal será de estricto derecho, pero se deberá suplir la deficiencia de la queja siempre que se trate del administrado.
 
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 150.
 
-La personalidad o legitimación de las partes, deberá ser analizada de oficio por los juzgados de primera instancia.
+La personalidad o legitimación de las partes, deberá ser analizada de oficio por las Salas.
 
 ###### ARTÍCULO 151.
 
@@ -1451,9 +1519,11 @@ El Secretario General de Acuerdos, los Secretarios de Acuerdos de Sala, así com
 
 El Tribunal está facultado para desechar de plano las promociones notoriamente improcedentes, o que se interpongan con el fin evidente de dilatar otro procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 159.
 
-Los Magistrados están impedidos para conocer de los juicios que se tramiten ante el Tribunal Contencioso Administrativo y de Cuentas, en los siguientes casos:
+Los Magistrados están impedidos para conocer de los juicios que se tramiten ante el Tribunal; en los siguientes casos:
 
 I. Cuando tengan algún interés personal en el asunto;
 
@@ -1475,9 +1545,11 @@ En el juicio contencioso administrativo no procede la recusación.
 
 El Magistrado que, teniendo impedimento para conocer de determinado asunto no se excuse, o no teniéndolo, se excuse para que se le aparte de su conocimiento, incurrirá en responsabilidad, la que dará lugar, en su caso, al procedimiento administrativo disciplinario en los términos de la Ley de Responsabilidades del Estado y Municipios de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 161.
 
-Es improcedente el juicio ante el Tribunal Contencioso Administrativo y de Cuentas contra actos:
+Es improcedente el juicio ante el Tribunal contra actos:
 
 I. Del propio Tribunal;
 
@@ -1549,7 +1621,9 @@ Sólo podrán demandar o intervenir en el juicio, las personas que tengan un int
 
 Son días hábiles para la promoción, substanciación y resolución del juicio contencioso administrativo, todos los días del año, con exclusión de los sábados y domingos, así como los señalados en el calendario oficial del Tribunal.
 
-Se suspenderán las labores y no correrán los plazos, en los días referidos en el artículo 39 y todos aquellos que acuerde el Tribunal o el Consejo.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Se suspenderán las labores y no correrán los plazos, en los días referidos en el artículo 39 y todos aquellos que acuerde el Tribunal.
 
 ###### ARTÍCULO 166.
 
@@ -1587,9 +1661,11 @@ Las resoluciones o acuerdos deben ser notificados a más tardar al día siguient
 
 Las notificaciones surtirán sus efectos el día hábil siguiente de aquel en que se realicen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 171.
 
-En la primera promoción, las partes deberán señalar su domicilio para recibir notificaciones, así como el de los terceros que deban intervenir en el juicio. En caso de omisión de lo anterior, el Tribunal requerirá, por una sola vez, al promovente para que subsane su omisión; si no cumpliere con el requerimiento se le harán por lista de estrados del Tribunal.
+En la primera promoción, las partes deberán señalar domicilio dentro del lugar de residencia del Tribunal para recibir notificaciones, así como el de los terceros que deban intervenir en el juicio. En caso de omisión de lo anterior, el Tribunal requerirá, por una sola vez, al promovente para que subsane su omisión; si no cumpliere con el requerimiento se le harán por lista de acuerdos que se fije en los estrados del Tribunal.
 
 Si no proporciona el domicilio del tercero afectado, será desechada su petición.
 
@@ -1603,7 +1679,19 @@ Las notificaciones se efectuarán:
 
 I. Personalmente a los particulares y por oficio a las autoridades, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, la que señale día y hora para el desahogo de la audiencia y regularización del procedimiento y demás acuerdos o resoluciones que puedan ser recurribles y aquéllas que el Magistrado estime necesario;
 
-II. Por lista de acuerdos, ubicadas en las Oficinas de las Salas de primera instancia o de la Sala Superior del Tribunal, cuando así lo señale la parte interesada o se trate de actos distintos a la fracción anterior;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 23 DE JUNIO DE 2018)</small>
+
+II. Por lista de acuerdos, ubicadas en las Oficinas de las Salas de primera instancia o de la Sala Superior del Tribunal, previa razón del actuario, cuando así lo señale la parte interesada o cuando:
+
+a. Las partes no señalen domicilio dentro del lugar de residencia de las Salas de primera instancia o Sala Superior del Tribunal;
+
+b. No exista el domicilio señalado para recibir notificaciones;
+
+c. Exista negativa a recibirlas en el domicilio señalado;
+
+d. Si dejando citatorio para la práctica de la notificación, éste es ignorado; y
+
+e. Si no se hace saber al Tribunal el cambio de domicilio.
 
 III. En las oficinas de las Salas Unitarias o Sala Superior del Tribunal si se presentan los interesados, incluyendo las que deban practicarse personalmente o por oficio;
 
@@ -1611,7 +1699,7 @@ IV. Por telegrama o fax, en forma adicional, cuando se trate de resoluciones que
 
 V. Por correo certificado, con acuse de recibo del Servicio Postal Mexicano; y
 
-VI. Por instructivo cuando el domicilio se encuentre cerrado o cuando exista negativa a recibir la notificación.
+VI. (DEROGADA, P.O. 23 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 173.
 
@@ -1621,13 +1709,17 @@ I. Las notificaciones personales se harán directamente a quien deba ser notific
 
 El instructivo deberá contener: la denominación de la Sala del Tribunal que mande practicar la diligencia, número de expediente, nombre de las partes, fecha y hora de entrega, nombre y firma de la persona que recibe, así como nombre y firma del Actuario. Así como el acuerdo o resolución de que se trate y cuando proceda, copias de traslado debidamente selladas y cotejadas por el Secretario.
 
-Cuando el domicilio se encontrare cerrado, la citación o notificación se entenderá con el vecino más cercano a quien se entregará copia simple del acuerdo o resolución que se notifica, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio, haciéndose constar lo anterior en acta circunstanciada, la que obrará en autos.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Cuando el domicilio se encontrare cerrado, la notificación se efectuará de conformidad con lo establecido en el artículo 172, fracción II, de esta Ley, haciéndose constar lo anterior en acta circunstanciada que deberá obrar en autos.
 
 II. El oficio de notificaciones a las autoridades, deberá contener nombre del actor, número de expediente, fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate, fecha y número de oficio, nombre de la autoridad que se notifica, fecha de la notificación, firma del Actuario, sello oficial de la autoridad que se notifica y firma de quien recibe la notificación. Al oficio de notificación, se adjuntará copia del acuerdo o resolución de que se trate y copias de traslado, cuando proceda. El Actuario dejará constancia de lo anterior en el expediente respectivo.
 
 Cuando las autoridades se encuentren fuera del lugar de residencia de la Sala del Tribunal, el oficio de notificación se enviará por correo certificado con acuse de recibo, del Servicio Postal Mexicano, requisitado en la forma que prevé el párrafo que antecede.
 
-III. La lista de acuerdos deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados, ubicándola en lugar abierto de la oficina de la Sala del Tribunal y asentando en autos la constancia correspondiente, misma que se fijará al día siguiente al que le sea turnado el expediente en que conste el acuerdo que se notifica.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+III. La lista de acuerdos deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados, ubicándola en lugar abierto y visible de las Salas que conforman el Tribunal y asentando en autos la constancia correspondiente, misma que se fijará al día siguiente al que le sea turnado el expediente en que conste el acuerdo que se notifica.
 
 Cuando los terceros o el demandado en el juicio de lesividad, después de emplazados no se apersonaren a juicio a deducir sus derechos, las subsecuentes notificaciones, aún las personales, se realizarán por lista de acuerdos, entendiéndose que se les dio oportunidad de señalar domicilio sin que lo hubieren hecho.
 
@@ -1791,13 +1883,17 @@ La prueba pericial procede, cuando sean necesarios conocimientos especiales en a
 
 Cuando la parte actora ofrezca como prueba la pericial, la demandada y el tercero, si lo hubiere, en su escrito de contestación deberán nombrar perito de su parte. Si el ofrecimiento proviene de la demandada, los terceros o es ordenada por el Tribunal, se concederá el término de tres días a las contrapartes para los mismos efectos, a no ser que se pusieran de acuerdo en el nombramiento de uno sólo. Las partes deben presentar a sus peritos dentro de los tres días siguientes al en que surta efectos la notificación del acuerdo en que se le tuvo como tal, para que manifieste la aceptación y protesta del cargo, apercibido que si alguna de las partes omite el nombramiento correspondiente o no presenta a su perito, se entenderá que se sujeta al o los que se hayan tenido por designados.
 
-Los peritos nombrados deberán tener título en la especialidad a la que pertenezca la cuestión en análisis y si esto no fuera posible, podrán ser nombradas personas con conocimiento de la materia. Asimismo, deberán estar certificados por el Consejo.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Los peritos nombrados deberán tener título en la especialidad a la que pertenezca la cuestión en análisis y si esto no fuera posible, podrán ser nombradas personas que acrediten conocimiento de la materia.
 
 Los peritos deberán rendir por escrito sus dictámenes el día de la audiencia de pruebas y alegatos.
 
 En caso de diferencia en los dictámenes rendidos, el Tribunal nombrará un tercero en discordia. Para lo cual se suspenderá la audiencia y se señalará fecha para su continuación con la finalidad de dar el tiempo necesario al perito tercero en discordia para que formule su dictamen.
 
-El Magistrado designará al perito tercero en discordia de entre los peritos certificados por el Consejo.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+El Magistrado designará al perito tercero en discordia de entre los peritos que tenga registrados el Tribunal, o en su defecto, podrá solicitar el apoyo de instituciones públicas o privadas.
 
 ###### ARTÍCULO 196.
 
@@ -1849,9 +1945,11 @@ I. Harán prueba plena la confesión expresa de las partes y los actos contenido
 
 II. El valor de la pericial y testimonial, así como el de las demás pruebas, quedará a la prudente y razonada apreciación del Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 204.
 
-La audiencia deberá celebrarse el día y hora señalada para tal efecto, será pública, salvo en los casos que sea reservada conforme a las disposiciones de la Ley Orgánica del Tribunal de lo Contencioso Administrativo y de Cuentas y la presente ley.
+La audiencia deberá celebrarse el día y hora señalada para tal efecto, será pública, salvo en los casos que sea reservada conforme a las disposiciones de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca y la presente Ley.
 
 La sala recibirá en la audiencia todas las pruebas, salvo aquellas que por su naturaleza, deban desahogarse previamente, fuera del local o residencia del Tribunal ya sea por persona comisionada o vía exhorto, en cuyo caso en la audiencia se agregarán las constancias donde conste que aquellas ya fueron desahogadas.
 
@@ -2079,9 +2177,11 @@ I. Se decretará a partir de la fecha en que ésta tenga conocimiento de la exis
 
 II. Si transcurrido el plazo máximo de la interrupción no comparece el albacea, el representante legal, o tutor, se reanudará el juicio, y todas las notificaciones se efectuarán por lista al representante de la sucesión, de la liquidación o de la autoridad demandada según sea el caso.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 231.
 
-En los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo y de Cuentas, no se admitirán más recursos que los de queja y revisión.
+En los juicios que se tramiten ante el Tribunal, no se admitirán más recursos que los de queja y revisión.
 
 ###### ARTÍCULO 232.
 
@@ -2177,9 +2277,11 @@ Recibida la excitativa de justicia la presidencia de la Sala Superior, solicitar
 
 La Presidencia dará cuenta a los integrantes de la Sala Superior, que si encuentran fundada la excitativa, resolverán otorgar un plazo que no excederá de cinco días para que el titular de la Sala pronuncie la resolución respectiva, si no se cumpliere con dicha obligación el responsable será sustituido por el Magistrado que corresponda.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 241.
 
-Las dependencias de los poderes Ejecutivo, Legislativo y Judicial, así como los ayuntamientos de los Municipios del Estado de Oaxaca, prestarán al Tribunal de lo Contencioso Administrativo y de Cuentas, el auxilio necesario para el cumplimiento de sus determinaciones.
+Las dependencias de los poderes Ejecutivo, Legislativo y Judicial, así como los ayuntamientos de los Municipios del Estado de Oaxaca, prestarán al Tribunal, el auxilio necesario para el cumplimiento de sus determinaciones.
 
 ###### ARTÍCULO 242.
 
@@ -2189,9 +2291,11 @@ La Sala Superior también definirá el criterio obligatorio, cuando exista contr
 
 El Secretario General de Acuerdos compilará, glosará, estructurará y llevará sistemáticamente el compendio de criterios sustentados y validados.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 243.
 
-Los criterios que establezca el Tribunal, así como aquellos que constituyan precedentes y se consideren de importancia, serán publicados en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+Los criterios que establezca el Tribunal, así como aquellos que constituyan precedentes y se consideren de importancia, serán publicados en sus estrados, en su portal de Internet y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 ###### ARTÍCULO 244.
 
@@ -2218,3 +2322,11 @@ SÉPTIMO.- Se derogan las disposiciones de igual o menor jerarquía que se opong
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de agosto de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Donovan Rito García, Secretario.- Dip. Rosa Elia Romero Guzmán, Secretaria.- Dip. Paola Gutiérrez Galindo, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 05 de septiembre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Hétor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1464.- MEDIANTE EL CUAL SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
