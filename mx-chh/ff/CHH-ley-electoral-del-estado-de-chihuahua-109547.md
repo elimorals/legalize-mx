@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2017-09-09"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE SEPTIEMBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -6151,115 +6149,29 @@ m) Existir irregularidades graves, plenamente acreditadas y no reparables durant
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Artículo 394
-
-1) Este Libro tiene por objeto establecer los procedimientos correspondientes para que los ciudadanos del Estado hagan valer, ante las autoridades competentes, las figuras de plebiscito y referéndum, previstas en la Constitución Política del Estado.
-
-2) Es improcedente el plebiscito, así como el referéndum, tratándose de leyes, reglamentos o acuerdos de carácter general en materia fiscal o tributaria.
-
-3) No podrán promover ni votar en los procesos de plebiscito y referéndum las personas que se encuentren en los supuestos del artículo 23 de la Constitución Política del Estado.
-
-4) El Instituto Estatal Electoral será el órgano encargado de la organización y desarrollo de los procesos plebiscitarios y referéndum. El Instituto Estatal Electoral será la autoridad competente para ordenar su organización y desarrollo, así como para efectuar el cómputo de los resultados y dictar, en su caso, los actos jurídicos que sean necesarios, en los términos de la Constitución Política del Estado y de esta Ley, para lograr la debida observancia de la voluntad de los electores.
-
-5) En los procesos plebiscitarios y de referéndum, el Consejo Estatal, el Instituto Estatal Electoral y el Tribunal Estatal Electoral, aplicarán en lo conducente las disposiciones relativas a los procesos electorales ordinarios con las salvedades previstas en este Libro.
+Artículo 394 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
 ## TÍTULO SEGUNDO. DEL PLEBISCITO
 
-Artículo 395
+Artículo 395 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
-Se entiende por plebiscito la consulta a los electores para que expresen su previa aprobación o rechazo a un acto o decisión de los Poderes Ejecutivo o Legislativo, o bien, de los ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los municipios, según sea el caso, o para la erección o supresión de municipios.
+Artículo 396 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
-Artículo 396
+Artículo 397 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
-1) Podrán someterse a plebiscito:
-
-a) Los actos o decisiones de carácter general del Gobernador del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa;
-
-b) Los actos o decisiones de gobierno de las autoridades municipales que se consideren trascendentes para la vida pública del municipio de que se trate, y
-
-c) En los términos de la fracción XII del artículo 64 de la Constitución Política del Estado, la erección de nuevos municipios dentro de los límites de los ya existentes, o la supresión de alguno o algunos de éstos.
-
-2) En los supuestos de procedencia del plebiscito previstos en los incisos del párrafo anterior, la solicitud correspondiente deberá presentarla el Gobernador del Estado, los ayuntamientos y el Congreso del Estado respectivamente. En el caso del inciso b), también el veinticinco por ciento de los electores del municipio de que se trate podrán solicitar, por conducto del Presidente Municipal, se sometan a plebiscito los actos o decisiones de las autoridades municipales.
-
-3) El resultado del plebiscito será vinculatorio para las autoridades que lo hayan promovido. No será vinculatorio cuando a nivel municipal lo promuevan los electores.
-
-Artículo 397
-
-1) La solicitud para someter un acto o decisión de gobierno a plebiscito deberá observar los siguientes requisitos:
-
-a) Dirigirse al Instituto Estatal Electoral;
-
-b) La denominación de la autoridad o los nombres de los electores solicitantes. En este último caso, la correspondiente solicitud deberá ir firmada por los electores y acompañarse copia certificada de su credencial para votar;
-
-c) El acto o decisión de gobierno que se pretende someter a plebiscito, y
-
-d) La exposición de los motivos o razones por las cuales el acto o decisión se considera de importancia trascendente para la vida pública del Estado o del municipio, según sea el caso y, así mismo, las razones por las cuales en concepto del solicitante el acto o decisión deba someterse a consulta de los electores.
-
-2) Recibida la solicitud, el Instituto Estatal Electoral, por medio de su Consejo Estatal calificará su procedencia en un término de ocho días hábiles contados a partir del día siguiente de su presentación.
-
-3) Para dictaminar su procedencia, el Instituto analizará de oficio lo siguiente:
-
-a) Siendo una autoridad la solicitante, verificará su legitimación conforme a lo previsto en el numeral 2 del artículo anterior. Tratándose de ciudadanos, hará lo propio respecto del porcentaje requerido, y
-
-b) Si el acto o decisión es trascendente para la vida pública del Estado o municipio, según sea el caso. Si lo desestima como trascendente y no ordena la consulta, su decisión será apelable ante el Tribunal Estatal Electoral de acuerdo a lo que dispone esta Ley.
-
-Artículo 398
-
-1) Para que un acto o decisión sometido a plebiscito a solicitud de las autoridades pueda dictarse o expedirse válidamente, se requiere que se apruebe por más del 50% de los electores del Estado, municipio o municipios según sea el caso, que hayan participado en el plebiscito.
-
-2) Los electores se limitarán a votar por un "sí" o por un "no" el acto o decisión de gobierno sometido a su consideración.
+Artículo 398 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
 ## TÍTULO TERCERO. DEL REFERÉNDUM
 
-Artículo 399
+Artículo 399 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
-1) Se entiende por referéndum, el procedimiento mediante el cual los ciudadanos del Estado o municipios, según sea el caso, manifiestan su aprobación o desaprobación con respecto a Leyes, bandos de policía y buen gobierno, reglamentos y disposiciones administrativas de observancia general expedidas por los ayuntamientos, o reformas o adiciones a la Constitución Política del Estado, excepto las de carácter tributario o fiscal.
+Artículo 400 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
-2) El referéndum es abrogatorio o derogatorio. Será abrogatorio cuando se objete por completo el ordenamiento correspondiente. Será derogatorio cuando se objete sólo una parte del total del articulado del mismo.
+Artículo 401 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
-Artículo 400
+Artículo 402 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
-1) La solicitud para promover un referéndum deberá presentarse dentro de los cuarenta y cinco días naturales posteriores a la publicación del ordenamiento objetado y cumplir además con los siguientes requisitos:
-
-a) Dirigirse al Instituto Estatal Electoral;
-
-b) Indicar con precisión la Ley, el reglamento municipal o la reforma o adición a la Constitución del Estado que se objete o, en su caso, el o los artículos objetados debidamente individualizados;
-
-c) Las razones por las cuales el ordenamiento o parte de su articulado deban someterse a la consideración del electorado;
-
-d) Tratándose de reformas o adiciones a la Constitución del Estado, promoverse cuando menos por el diez por ciento de los ciudadanos inscritos en el padrón electoral del Estado, y
-
-e) En los demás casos, el porcentaje requerido será de por lo menos el 4% del total de los electores del Estado o del municipio, según sea el caso. En ambos supuestos, los promoventes designarán a las personas que los representen en común.
-
-2) Recibida la solicitud, el Instituto Estatal Electoral, por medio de su Consejo Estatal, calificará su procedencia en un término no mayor a ocho días hábiles, que se contarán a partir del día siguiente de la presentación de la solicitud. Para tal efecto, el Instituto analizará de oficio lo siguiente:
-
-a) Si la solicitud se ha promovido dentro del término de Ley;
-
-b) Si el número de electores promoventes alcanza el porcentaje requerido;
-
-c) Si el ordenamiento objetado es susceptible de someterse a referéndum de acuerdo a las disposiciones relativas de la Constitución del Estado y de esta Ley, y
-
-d) Si la solicitud no cumple con los requisitos a que se contrae este artículo, el Instituto, de oficio, declarará improcedente la solicitud. Si el Instituto no determina su procedencia en el plazo a que se refiere el párrafo anterior, la solicitud se considerará aceptada.
-
-3) La resolución del Instituto que declare la improcedencia del referéndum podrá ser impugnada ante el propio Instituto a través del recurso de reconsideración, que podrá ser interpuesto por los promotores de la solicitud o sus legítimos representantes, en un término no mayor de cinco días hábiles contados a partir de la fecha de la notificación de la resolución impugnada. En la tramitación de este recurso se seguirán, en lo conducente, las reglas previstas en esta Ley para el recurso de apelación
-
-4) La admisión de la solicitud de referéndum no tendrá efecto suspensivo sobre el ordenamiento objetado.
-
-Artículo 401
-
-El voto será libre, secreto y obligatorio. Votarán por un “sí” los electores cuya voluntad sea que la Ley u ordenamiento objetado quede vigente, y por un “no” los que estén a favor de que el ordenamiento objetado sea derogado, total o parcialmente, según sea el caso.
-
-Artículo 402
-
-La ley, bandos de policía y buen gobierno, reglamentos y disposiciones administrativas de observancia general, expedidos por los ayuntamientos, o reformas o adiciones a la Constitución Política del Estado que hayan sido objetados, quedarán ratificados si más del 50% de los ciudadanos que participen en el referéndum emite su opinión favorable a ellos. En caso contrario, serán derogados y no podrán ser objeto de nueva iniciativa antes de dieciocho meses tratándose de leyes, bandos de policía y buen gobierno, reglamentos y disposiciones administrativas de observancia general expedidos por los ayuntamientos, y dos años tratándose de reformas o adiciones a la Constitución Política del Estado.
-
-Artículo 403
-
-1) El Instituto Estatal Electoral efectuará el cómputo de los resultados y ordenará su publicación en el Periódico Oficial del Estado. Así mismo, ordenará la publicación del texto del ordenamiento que haya sido ratificado y, en su caso, remitirá al Congreso o a la Diputación Permanente, en su caso, el texto del que no lo haya sido, para que proceda a su derogación a más tardar dentro de los treinta días siguientes a su recepción, en los términos del artículo 77 de la Constitución Política del Estado.
-
-2) Si el Congreso no se encontrare en sesiones ordinarias, la Diputación Permanente convocará a un periodo extraordinario de sesiones en un plazo no mayor de quince días hábiles contados a partir de la fecha de la notificación que le realice el Instituto Estatal Electoral, a fin de que el Congreso proceda a la derogación del ordenamiento que no haya sido ratificado.
-
-3) Si el Congreso del Estado no deroga y ordena la publicación del decreto correspondiente en el término a que se refiere el numeral 1 de este artículo, el Instituto Estatal Electoral ordenará la publicación del resultado del referéndum, mismo que surtirá efectos como si lo hubiere hecho el Congreso.
+Artículo 403 (DEROGADO, P.O. 23 DE JUNIO DE 2018)
 
 ### CAPÍTULO TERCERO. DE LAS CAUSAS DE NULIDAD DE UNA ELECCIÓN
 
@@ -6434,3 +6346,11 @@ P.O. 30 DE AGOSTO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor inmediatamente después de la entrada en vigor de las disposiciones constitucionales a que se refiere el Decreto No. LXV/RFCNT/0374/2017 VIII P.E.
 
 SEGUNDO.- El proceso electoral local 2017-2018 iniciará el 01 de diciembre de 2017 y la Jornada Electoral del mismo, se celebrará el 01 de julio de 2018. Por consiguiente, las reformas a los artículos 60 numeral 1 y 93 del presente decreto, entrarán en vigor una vez concluido el proceso electoral local 2017-2018.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLYC/0771/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL CÓDIGO MUNICIPAL Y DE LA LEY ELECTORAL, TODOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
