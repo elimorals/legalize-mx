@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-06-16"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -5901,6 +5901,36 @@ Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuen
 
 Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
+
+### CAPITULO IV. Discriminación
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+412 BIS.- Comete el delito de discriminación quien por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole, que atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+
+I. Provoque o incite al odio o a la violencia;
+
+II. Niegue a una persona un servicio o una prestación a la que tenga derecho;
+
+III. Veje o excluya a persona alguna o grupo de personas;
+
+IV. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o limite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
+
+V. Niegue o restrinja derechos educativos.
+
+Al responsable se le impondrá la sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa.
+
+Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho se le aumentará en una mitad la pena prevista en el segundo párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+No serán consideradas discriminatorias todas aquellas medidas tendentes a la protección de los grupos socialmente desfavorecidos.
+
+Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
+
+Asimismo, se incrementará en una mitad la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
+Este delito se perseguirá por querella.
+
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO
@@ -5937,20 +5967,6 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
-
-I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
-
-II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
-
-III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
 ## TITULO VIGESIMO.
 
 Encubrimiento.
@@ -5973,6 +5989,20 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
+
+I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
+
+II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
+
+III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
@@ -5983,6 +6013,10 @@ I. Dolosamente prive de la vida a un animal vertebrado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
@@ -5992,10 +6026,6 @@ I. Dolosamente prive de la vida a un animal vertebrado.
 I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO CUARTO. Excluyentes
 
@@ -6658,3 +6688,9 @@ P.O. 16 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1470.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1471.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
