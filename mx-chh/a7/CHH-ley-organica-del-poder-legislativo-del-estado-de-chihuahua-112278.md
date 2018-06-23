@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2018-06-13"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -995,6 +995,10 @@ a) Si las iniciativas son presentadas por varias diputadas o diputados de un mis
 
 b) En caso de que los iniciadores sean de distintas fuerzas políticas, se citará al que le hubiese dado lectura.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+c) Cuando el asunto turnado derive de una Iniciativa Ciudadana, se citará a las personas que sean designadas en los términos del artículo 52 de la Ley de Participación Ciudadana del Estado de Chihuahua, para que intervengan en la discusión del mismo.
+
 III.- Solicitar a la Presidencia de la Mesa Directiva y a los órganos técnicos, los apoyos que se requieran para el desahogo de sus trabajos.
 
 IV.- Coordinar, con el apoyo de la Secretaría de Asuntos Legislativos, el estudio y análisis de las iniciativas y asuntos que le sean turnados, hasta su conclusión.
@@ -1859,9 +1863,9 @@ V.- Al Instituto Chihuahuense para la Transparencia y Acceso a la Información P
 
 VI.- Al Gobernador electo, una vez que adquiera oficialmente ese carácter y haya sido publicado el Decreto que así lo declare. Lo anterior, solo en asuntos concernientes a la estructura orgánica del Poder Ejecutivo y en los términos que establece el artículo 68 de la Constitución Política del Estado.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-VII.- A las y los chihuahuenses, mediante iniciativa popular presentada por ciudadanas o ciudadanos debidamente identificados, cuyo número sea cuando menos el uno por ciento de los inscritos en el padrón electoral.
+VII. A la ciudadanía chihuahuense, mediante iniciativa signada, cuando menos por el cero punto uno por ciento de las personas inscritas en el listado nominal.
 
 ###### ARTÍCULO 168.
 
@@ -2544,3 +2548,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Especialistas encargado de la selección de la terna de aspirantes a ocupar la titularidad de la Auditoría Superior del Estado, dentro de los veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFLYC/0771/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL CÓDIGO MUNICIPAL Y DE LA LEY ELECTORAL, TODOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
