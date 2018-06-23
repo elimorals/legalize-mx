@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2017-12-30"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -89,17 +89,21 @@ Sin menoscabo de la libertad municipal, los municipios deberán coordinarse dent
 
 En el Estado de Chihuahua, no habrá autoridad intermedia entre los Ayuntamientos y los Poderes del Estado.
 
-###### ARTICULO 6.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
-Con el fin de permitir la participación de los ciudadanos, en el quehacer municipal, se establecen las figuras de: Iniciativa Popular, Plebiscito y Referéndum.
+###### ARTÍCULO 6.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+Con el fin de permitir la participación de la ciudadanía en el quehacer municipal, se establecen los instrumentos: Iniciativa Ciudadana, Plebiscito, Referéndum y Revocación de Mandato.
 
-Se entiende por Iniciativa popular, la facultad que tienen los ciudadanos de un municipio, para proponer normas reglamentarias ante un Ayuntamiento. La iniciativa popular deberá señalar los artículos que se pretenden reformar, adicionar o derogar, la redacción que se propone y la exposición de motivos. Los promoventes de la iniciativa popular tendrán el derecho de nombrar a un representante para que participe con voz en las sesiones del Ayuntamiento que tengan por objeto analizar a la misma. Dichas sesiones deberán realizarse a más tardar dentro de los tres meses siguientes a la presentación de la iniciativa.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-Plebiscito, es la consulta a los electores para que expresen su previa aprobación o rechazo, a un acto de los Ayuntamientos que sean considerados como trascendentes para la vida pública de los Municipios, o para la erección o supresión de los mismos.
+Quienes promuevan la Iniciativa Ciudadana, tendrán el derecho de nombrar a quien les represente para que participe con voz en las sesiones del Ayuntamiento que tengan por objeto analizar la misma. Dichas sesiones deberán realizarse a más tardar dentro de los tres meses siguientes a la presentación de la iniciativa.
 
-El Referéndum, es el procedimiento mediante el cual los ciudadanos de los Municipios, según sea el caso, manifiestan su aprobación o desaprobación con respecto a los reglamentos municipales.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Para la erección o supresión de los Municipios deberá someterse a plebiscito.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 7.
 
@@ -4856,3 +4860,11 @@ A partir de la entrada en vigor del presente Decreto cuando se haga referencia e
 ###### ARTÍCULO OCTAVO.
 
 A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, supervisión y mantenimiento del drenaje pluvial, será responsabilidad de las autoridades municipales.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFLYC/0771/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL CÓDIGO MUNICIPAL Y DE LA LEY ELECTORAL, TODOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
