@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2018-05-19"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -108,6 +110,10 @@ Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportuni
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 Es derecho de todo habitante del Estado de Chihuahua, el aprovechamiento de las fuentes renovables de energía solar, eólica y cualquier otro tipo de energía proveniente de sustancias orgánicas, para la generación de energía para el autoabastecimiento en los términos que establezca la ley en la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+En el Estado se reconoce el derecho humano a la participación ciudadana, entendida como la capacidad de las personas para intervenir en las decisiones de la administración pública, deliberar, discutir y cooperar con las autoridades, así como para incidir en la formulación, ejecución y evaluación de las políticas y actos de gobierno, a través de los instrumentos que prevé la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -425,13 +431,15 @@ DE LOS CIUDADANOS DEL ESTADO.
 
 Son ciudadanos del Estado los hombres y las mujeres que además de ser ciudadanos mexicanos sean chihuahuenses.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### Art. 21.
 
-Son derechos de los ciudadanos chihuahuenses:
+Son derechos de la ciudadanía chihuahuense:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-I.- Votar en las elecciones populares del Estado, así como participar en los procesos plebiscitarios y de referéndum; los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto en la elección de Gobernador del Estado.
+I.- Votar en las elecciones populares del Estado, así como participar en los procesos plebiscitarios, de referéndum y de revocación de mandato; quienes residan en el extranjero podrán ejercer su derecho al voto en la elección de Gobernador del Estado.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -443,9 +451,9 @@ IV.- Reunirse pacíficamente para tratar los asuntos públicos del Estado.
 
 V.- Ejercer en toda clase de asuntos el derecho de petición.
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-VI.- Iniciar leyes en los términos previstos por la fracción V del artículo 68 de esta Constitución.
+VI.- Iniciar leyes en los términos previstos por la fracción VII del artículo 68 de esta Constitución.
 
 ###### Art. 22.
 
@@ -723,11 +731,15 @@ Los Magistrados serán designados de forma escalonada en los términos que estab
 
 Los Magistrados del Tribunal Estatal Electoral durarán en su encargo siete años. Recibirán remuneración igual a la que perciben los Magistrados del Tribunal Superior Justicia del Estado.
 
-Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum y plebiscito, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación, sin perjuicio de las atribuciones del Instituto Nacional Electoral en los términos de la Ley General de la materia.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum, plebiscito y revocación de mandato, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación, sin perjuicio de las atribuciones del Instituto Nacional Electoral en los términos de la Ley General de la materia.
 
 En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
 
-El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios y de referéndum; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios, de referéndum y de revocación de mandato. La Ley establecerá la forma de su organización y funcionamiento.
 
 Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
 
@@ -751,11 +763,15 @@ Quien ocupe la titularidad del Órgano Interno de Control será propuesto y desi
 
 Ningún ciudadano puede ser detenido la víspera o el día de las elecciones, sino por delito flagrante; en este caso, la autoridad tomará las providencias necesarias para la aprehensión del delincuente, después que el mismo hubiere depositado su voto. La legislación penal tipificará los delitos, faltas administrativas y sanciones en materia electoral.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Art. 39.
 
-Todo acto u omisión ilegales en los procesos electorales, plebiscitarios o de referéndum será causa de responsabilidad. La ley determinará las sanciones correspondientes
+El Instituto Estatal Electoral tendrá competencia para conocer de los instrumentos de participación ciudadana vinculados a los derechos políticos.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Todo acto u omisión ilegales en los procesos electorales, plebiscitarios, de referéndum o revocación de mandato será causa de responsabilidad. La ley determinará las sanciones correspondientes.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
@@ -897,11 +913,11 @@ El Congreso cambiará su nomenclatura cada tres años.
 
 Con la salvedad prevista en el inciso c), Apartado C, de la Base V, del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, el Instituto Estatal Electoral declarará diputados electos al Congreso del Estado, a los candidatos que hubieren recibido constancias de mayoría y de asignación proporcional no impugnadas ante el Tribunal Estatal Electoral dentro de los plazos y con los requisitos establecidos por la ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Art. 46.
 
-Con la salvedad prevista en el inciso c), Apartado C, de la Base V, del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Estatal Electoral resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum y plebiscito.
+Con la salvedad prevista en el inciso c), Apartado C, de la Base V, del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Estatal Electoral resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum, plebiscito y revocación de mandato.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -1403,9 +1419,9 @@ XLIII.- Expedir la ley que regulará su estructura y funcionamiento internos, la
 
 Esta ley no podrá ser iniciada ni objeto de observaciones por el Ejecutivo, que la promulgará y publicará dentro de los diez días hábiles siguientes a su recepción.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-XLIV.- Nombrar a quien ocupe la titularidad de la Auditoría Superior del Estado según el procedimiento dispuesto en el artículo 83 bis de esta Constitución.
+XLIV.- Expedir las leyes necesarias a fin de garantizar la participación ciudadana en el territorio estatal.
 
 XLV.- (DEROGADA, P.O. 8 DE AGOSTO DE 2015)
 
@@ -1533,9 +1549,13 @@ VI. Al Gobernador electo, una vez que adquiera oficialmente ese carácter y haya
 
 Las reformas originadas con motivo de esta fracción, no tendrán vigencia hasta en tanto se le haya tomado protesta como Gobernador Constitucional.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
-VII. A los chihuahuenses, mediante iniciativa popular signada, cuando menos, por el uno por ciento de los ciudadanos inscritos en el padrón electoral, debidamente identificados.
+VII. A la ciudadanía chihuahuense, en los términos previstos en la Ley.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII]</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2017)</small>
 
 Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas a más tardar en el siguiente período de sesiones ordinarias a aquel en que se reciban.
 
@@ -1577,11 +1597,11 @@ El proyecto de ley o de decreto devuelto al Congreso con observaciones deberá s
 
 Se reputará aprobado por el Gobernador todo proyecto no devuelto con observaciones al Congreso en el término a que se refiere el artículo 70.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Art. 73.
 
-Las leyes que expida el Congreso, excepto las de carácter tributario o fiscal, serán sometidas a referéndum derogatorio o abrogatorio, si dentro de los cuarenta y cinco días naturales siguientes a la fecha de su publicación así lo solicita ante el Instituto Estatal Electoral, el tres por ciento, cuando menos, de los ciudadanos del Estado inscritos en el padrón electoral, debidamente identificados.
+Las leyes que expida el Congreso, excepto las que establezca la Ley de la materia, serán sometidas a referéndum derogatorio o abrogatorio, si dentro de los noventa días naturales siguientes a la fecha de su publicación así lo solicita ante el Instituto Estatal Electoral, el número de personas que la Ley en la materia establece.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1891,11 +1911,11 @@ DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Art. 93.
 
-Son facultades y obligaciones del Gobernador:
+Son atribuciones y obligaciones de quien ocupe la titularidad del Poder Ejecutivo del Estado:
 
 I.- Publicar y hacer cumplir las leyes federales.
 
@@ -1907,7 +1927,9 @@ II.- Promulgar y publicar las leyes y decretos que expida el Congreso del Estado
 
 III.- Ejecutar y hacer que se cumplan las leyes y decretos que expida la Legislatura Local.
 
-IV.- Expedir todos los reglamentos que estime convenientes y, en general, proveer en la esfera administrativa cuando fuere necesario o útil para la más exacta observancia de las leyes.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+IV.- Expedir todos los reglamentos que estime convenientes y, en general, proveer en la esfera administrativa cuando fuere necesario o útil para la más exacta observancia de las leyes, promoviendo la participación ciudadana en los términos de la Ley.
 
 V.- Velar por la conservación del orden, tranquilidad y seguridad del Estado y por la personal de sus habitantes, protegiéndolos en el uso de sus derechos.
 
@@ -1945,9 +1967,9 @@ XIV.- Exhortar a los ayuntamientos, presidentes de municipalidad y de sección y
 
 XV.- Coordinar, con los respectivos presidentes municipales, presidentes de sección y comisarios de policía, los asuntos relativos a los ramos cuya administración corresponda al Ejecutivo.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-XVI.- Solicitar al Instituto Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado.
+XVI.- Solicitar al Instituto Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado. La decisión que resulte del proceso plebiscitario será vinculante. De manera directa podrá realizar consultas ciudadanas para orientar sus actos o programas de gobierno.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -2919,15 +2941,11 @@ Las autoridades municipales colaborarán con el Ejecutivo del Estado en la obser
 
 La policía preventiva estará al mando del presidente municipal, en los términos del reglamento correspondiente. Aquella acatará las órdenes que por escrito le transmita el Gobernador del Estado en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
-
-Art.- 141. Los ayuntamientos están facultados para aprobar, de acuerdo a las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Art. 141.
 
-Los ayuntamientos están facultados para aprobar, de acuerdo a las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+Los ayuntamientos están facultados para aprobar, de acuerdo a las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana, a través de los instrumentos establecidos en la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3605,11 +3623,15 @@ Con este objeto, se les enviará oportunamente copia de la iniciativa y de los d
 
 El Congreso del Estado, o la Diputación Permanente en su caso, hará el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas, sin que pueda el Ejecutivo, con relación a éstas, hacer observaciones.
 
-Las reformas o adiciones aprobadas conforme al procedimiento anterior, serán sometidas a referéndum derogatorio, total o parcial, si dentro de los cuarenta y cinco días naturales siguientes a la fecha de su publicación así se solicita al Tribunal Estatal de Elecciones por el diez por ciento, cuando menos, de los chihuahuenses inscritos en el padrón electoral, debidamente identificados.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Las reformas o adiciones aprobadas conforme al procedimiento anterior, serán sometidas a referéndum derogatorio, total o parcial, si dentro de los noventa días naturales siguientes a la fecha de su publicación así se solicita al Instituto Estatal Electoral por el número de personas que la Ley en la materia establezca.
 
 Las reformas o adiciones objetadas quedarán ratificadas si más del cincuenta por ciento de los ciudadanos que participen en el referéndum emite su opinión favorable a ellas. Caso contrario, serán derogadas y no podrán ser objeto de nueva iniciativa antes de dos años.
 
-El Tribunal Estatal de Elecciones efectuará el cómputo de los resultados y ordenará su publicación en el periódico oficial. Lo mismo hará con el texto de las reformas o adiciones ratificadas y, en su caso, remitirá al Congreso las que no lo hayan sido para su derogación en forma inmediata.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+El Instituto Estatal Electoral efectuará el cómputo de los resultados y ordenará su publicación en el Periódico Oficial. Lo mismo hará con el texto de las reformas o adiciones ratificadas y, en su caso, remitirá al Congreso las que no lo hayan sido para su derogación en forma inmediata.
 
 Las reformas y adiciones que impliquen adecuaciones de la presente Constitución a la Federal, así como las reformas al artículo 125 cuando sólo se refieran a cambios en el nombre de alguno o algunos municipios, serán aprobadas por el Congreso siguiendo el procedimiento ordinario establecido en el Capítulo V del Título VII.
 
@@ -5006,3 +5028,15 @@ P.O. 19 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFCNT/0769/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de las iniciativas, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
