@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2018-02-10"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -1066,6 +1066,24 @@ e) La declaración de si la sociedad es sólo de ganancias, expresándose pormen
 f) La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto a otro consorte y en qué proporción;
 
 g) Las reglas para la administración de la sociedad y las bases para su liquidación. Es nula toda la capitulación en la que se establezca que sólo uno de los consortes tendrá derecho a todas las utilidades. No puede renunciarse anticipadamente a las ganancias.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+ARTICULO 149 BIS.- En la sociedad conyugal son propios de cada cónyuge, salvo pacto en contrario que conste en las capitulaciones matrimoniales:
+
+I. Los bienes y derechos que le pertenezcan al tiempo de celebrarse el matrimonio, y los que posea antes de este, aunque no fuera dueño de ellos, si los adquiere por prescripción durante el matrimonio;
+
+II. Los bienes que adquiera después de contraído el matrimonio, por herencia, legado, donación o don de la fortuna;
+
+III. Los bienes adquiridos por cualquier título propio que sea anterior al matrimonio, aunque la adjudicación se haya hecho después de la celebración de este; siempre que todas las derogaciones que se generen para hacerlo efectivo, corran a cargo del dueño de este;
+
+IV. Los bienes que se adquieran con el producto de la venta o permuta de bienes propios;
+
+V. Objetos de uso personal;
+
+VI. Los instrumentos necesarios para el ejercicio de la profesión, arte u oficio, salvo cuando estos integren o pertenezcan a un establecimiento o explotación de carácter común. No perderán el carácter de privativos por el hecho de haber sido adquiridos con fondos comunes, pero en este caso el otro cónyuge que los conserve, deberá pagar a otro en la proporción que corresponda; y
+
+VII. Los bienes comprados a plazos por uno de los cónyuges antes de contraer matrimonio, tendrán el carácter de privativo cuando la totalidad o parte del precio aplazado se satisfaga con dinero propio de mismo cónyuge. Se exceptúan la vivienda, enseres y menaje familiares.
 
 ###### ARTICULO 150.
 
@@ -5060,3 +5078,11 @@ El presente Decreto entrará en vigor al siguiente día de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 396.- POR EL QUE SE ADICIONA EL ARTÍCULO 149 BIS DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
