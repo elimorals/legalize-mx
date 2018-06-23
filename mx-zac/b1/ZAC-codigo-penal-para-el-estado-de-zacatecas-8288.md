@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2018-01-13"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2199,6 +2199,12 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 
 267.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+267 bis.- Comete el delito de violencia política por razones de género, quien realice por sí o a través de terceros cualquier acción u omisión que impida, limite o restrinja los derechos político-electorales de las mujeres y el acceso a un cargo público o a las prerrogativas inherentes al mismo.
+
+A quien cometa este delito, se le impondrá una pena de dos a seis años de prisión y multa de cien a doscientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)</small>
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
@@ -2651,9 +2657,11 @@ X. El objeto del robo, sean vales de papel o cualquier dispositivo en forma de t
 
 Además de las sanciones señaladas en el artículo 320 de este Código, se aplicará de seis meses a cuatro años de prisión al responsable de robo calificado.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
-321 Bis.- Se aplicará de uno a seis años de prisión y multa de hasta trescientas cuotas, a quien adquiera material de cobre en forma de cables, tapas, tubos, conectores, conductores, bovinas de motores u objetos similares, sin constatar documentalmente su lícita procedencia.
+321 Bis.- Se aplicará de uno a seis años de prisión y multa de ciento cincuenta hasta trescientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito, a quien adquiera, transporte o posea, material de cobre en forma de cables, tapas, tubos, conectores, conductores, bobinas de motores u objetos similares, sin constatar documentalmente su lícita procedencia.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 Igual pena se aplicará a quien comercialice oro, plata, piedras preciosas o cualquier mineral, sin constatar documentalmente su lícita procedencia.
 
@@ -2667,9 +2675,9 @@ Igual pena se aplicará a quien comercialice oro, plata, piedras preciosas o cua
 
 325.- Al que se impute el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de tres meses a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o interés de la cosa usada.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-326.- Se impondrá de uno a diez años de prisión y multa de hasta cien cuotas al que robe postes, alambre y otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe bombas, motores o parte de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería, o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
+326.- Se impondrá de uno a diez años de prisión y multa de ciento cincuenta hasta trescientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito, al que robe postes, alambre y otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte, o robe cableado para conducir electricidad, transformadores de voltaje de energía eléctrica, equipos de bombeo, motores o parte de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería, vivienda o en un servicio público, o que esté bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -3333,7 +3341,7 @@ III.- No evitar que se torture a un detenido.
 
 ## TITULO VIGESIMO SEGUNDO
 
-> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 23 DE JUNIO DE 2018)</small>
 
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES Y DE LOS RESPONSABLES DE LOS MEDIOS DE COMUNICACION
 
@@ -3349,7 +3357,7 @@ III.- No evitar que se torture a un detenido.
 
 > <small>(ADICIONADO CON CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
 
-### CAPITULO UNICO. DELITOS CONTRA EL MEDIO AMBIENTE Y LA GESTION AMBIENTAL
+### CAPITULO PRIMERO. DELITOS CONTRA EL MEDIO AMBIENTE Y LA GESTION AMBIENTAL
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -3394,6 +3402,30 @@ V. Después de haber sido sancionado administrativamente en dos ocasiones por la
 I. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo; y
 
 II. La inhabilitación para desempeñar cualquier empleo, cargo o comisión con el carácter de autoridad pública, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2018)</small>
+
+### CAPITULO SEGUNDO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+393. Al que cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal que no constituyan plaga, provocando o no lesiones evidentes, se le impondrá de seis meses a dos años de prisión y de cien a doscientas veces la unidad de medida y actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo.
+
+En caso de que las lesiones pongan en peligro la vida del animal, se aumentará en una mitad la pena señalada.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+394. A todo aquel que cometa actos de maltrato o crueldad injustificada en contra de cualquier especie animal que no constituyan plaga, provocándole la muerte, se le impondrá de uno a tres años de prisión y de doscientas a cuatrocientas veces la unidad de medida y actualización, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo.
+
+En el caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
+
+Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que ocasionen una muerte no inmediata y por el contrario prolonguen la agonía del animal, ya sea por las lesiones en el detrimento de la salud del animal.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+395. Por actos de maltrato y crueldad, se estará a lo dispuesto en la Ley para el Bienestar y Protección de los Animales en el Estado de Zacatecas.
+
+Quedan exceptuadas de las disposiciones establecidas en el presente capítulo las corridas de toros, novillos y becerros, así como las peleas de gallos, jaripeos, charreadas, carreras de caballos, las que habrán de sujetarse a lo dispuesto en los ordenamientos jurídicos aplicables.
 
 ## TRANSITORIOS
 
@@ -3668,3 +3700,25 @@ P.O. 13 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 208.- POR EL QUE SE REFORMA UNA DISPOSICIÓN DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
 
 Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 395.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES LEGALES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS, EN MATERIA DE MALTRATO ANIMAL".]
+
+Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 394.- POR EL QUE SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS, EN MATERIA DE ROBO”.]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 413.- POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
