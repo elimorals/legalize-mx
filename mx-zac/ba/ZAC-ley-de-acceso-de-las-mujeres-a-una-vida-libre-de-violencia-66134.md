@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2018-02-24"
+last_updated: "2018-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -117,39 +117,77 @@ I. Banco Estatal: Al Banco Estatal de Datos sobre Violencia Contra las Mujeres, 
 
 El Reglamento de esta Ley determinará los principios, lineamientos y requisitos técnicos necesarios para integrar al Banco Estatal de manera compatible y armónica con el Banco Nacional;
 
-Il. DIF Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia;
+II. DIF Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 III. DIF municipales: A los Sistemas para el Desarrollo Integral de la Familia de los municipios del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2018)</small>
 
-IV. Secretaría: La Secretaría de las Mujeres;
+IV. Género: Término para referirse a la construcción cultural e histórica de lo femenino y lo masculino, definida como el conjunto de prácticas, ideas y discursos relativos a la feminidad y la masculinidad, que determinan el tipo de características consideradas socialmente como masculinas, adjudicadas a los hombres; y como femeninas, adjudicadas a las mujeres. Este conjunto de prácticas determina una serie de comportamientos asociados a tales características que derivan en estereotipos sociales impuestas a uno y otro sexo, involucrando modelos y relaciones jerárquicas de poder y desigualdad en perjuicio de las mujeres;
 
-V. La persona Titular del Ejecutivo: La Gobernadora o el Gobernador del Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+V. Igualdad: El principio que establece el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin discriminación por condiciones de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, o cualesquiera otra situación de las personas;
 
-VI. Ley: La presente Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Zacatecas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
 
-VII. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+VI. La persona Titular del Ejecutivo: La Gobernadora o el Gobernador del Estado;
 
-VIII. Modalidades de la violencia: Las formas de violencia contra las mujeres, de acuerdo a sus manifestaciones o los contextos o ámbitos en donde ocurre, se presenta o se produce;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
 
-IX. Persona agresora: Persona que inflige cualquier forma de violencia contra las mujeres;
+VII. Ley: La presente Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Zacatecas;
 
-X. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
 
-XI. Programa Nacional: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, establecido por la Ley General;
+VIII. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-XII. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
 
-XIII. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+IX. Modalidades de la violencia: Las formas de violencia contra las mujeres, de acuerdo a sus manifestaciones o los contextos o ámbitos en donde ocurre, se presenta o se produce;
 
-XIV. Tipos de violencia: Las formas de violencia contra las mujeres, de acuerdo a la naturaleza del daño que ocasiona y a los medios empleados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2018)</small>
 
-XV. Víctima: La mujer, de cualquier edad, a quien se le ocasione cualquier tipo o modalidad de violencia, y
+X. Mujeres en condición de vulnerabilidad: Aquéllas en mayor situación de riesgo de ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de migrante, refugiada, desplazada o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual como una de las formas de explotación sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe su derecho a una vida libre de violencia;
 
-XVI. Violencia contra las mujeres: Actos u omisiones intencionales, aislados o recurrentes, cuyo objetivo es dañar a las mujeres de diferentes maneras y en diversos espacios, independientemente de su edad, y del origen, contenido o significado de la conducta violenta.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XI. Persona agresora: Persona que inflige cualquier forma de violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XII. Perspectiva de género: Categoría científica, analítica y política que revisa las relaciones, construcciones, imaginarios y simbolismos sociales entre mujeres y hombres, a partir de las diferencias biológicas, que pretende eliminar los prejuicios, estereotipos y prácticas discriminatorias que perpetúan la opresión de género basada en la desigualdad, la jerarquización y el sometimiento de las mujeres, dentro del sistema social de carácter patriarcal. Esta perspectiva está dirigida a construir una sociedad donde las mujeres y los hombres tengan el mismo valor, igualdad de derechos y oportunidades para acceder a los recursos económicos, así como a la representación política y social equitativa en los espacios de toma de decisiones;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XIII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XIV. Programa Nacional: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, establecido por la Ley General;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XV. Secretaría: La Secretaría de las Mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XVI. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XVII. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XVIII. Tipos de violencia: Las formas de violencia contra las mujeres, de acuerdo a la naturaleza del daño que ocasiona y a los medios empleados;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XIX. Víctima: La mujer, de cualquier edad, a quien se le ocasione cualquier tipo o modalidad de violencia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+XX. Violencia contra las mujeres: Actos u omisiones intencionales, aislados o recurrentes, cuyo objetivo es dañar a las mujeres de diferentes maneras y en diversos espacios, independientemente de su edad, y del origen, contenido o significado de la conducta violenta.
 
 Autoridades competentes y participación social
 
@@ -171,7 +209,9 @@ I. Violencia Física. Cualquier acto u omisión intencional realizado por la per
 
 II. Violencia Psicológica. Cualquier acto u omisión realizado por la persona agresora que dañe la estabilidad psicológica de la víctima y le ocasione trastornos emocionales. Las conductas pueden ser humillación, chantaje, prohibición, coacción, intimidación, insulto, amenaza, marginación, abandono, restricción a la autodeterminación, o limitación de su ámbito de libertad. Dichas conductas pueden conllevar a la víctima a la depresión, aislamiento, alteración de su personalidad o incluso al suicidio;
 
-III. Violencia Sexual. Cualquier acto u omisión realizado por la persona agresora que degrade, dañe o atente contra el cuerpo o la sexualidad de la víctima, que puede consistir en: la imposición mediante la violencia física o psicológica de relaciones sexuales, incluso la ejercida por el cónyuge o la pareja sentimental o afectiva; la explotación o comercio sexual; el acoso u hostigamiento sexuales; la mutilación genital femenina; el empleo de mujeres sin su consentimiento, y de niñas, en pornografía; los delitos contra la libertad sexual e integridad de las personas, señalados en el Código Penal para el Estado, y todos los abusos, agresiones y conductas que atenten o limiten el derecho a la libertad, dignidad, integridad y desarrollo físico y sexual de las mujeres.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
+
+III. Violencia Sexual. Cualquier acto u omisión realizado por la persona agresora que degrade, dañe o atente contra el cuerpo o la sexualidad de la víctima, que puede consistir en: la imposición mediante la violencia física o psicológica de relaciones sexuales, incluso la ejercida por el cónyuge o la pareja sentimental o afectiva; la explotación o comercio sexual; el acoso, ciberacoso, violaciones a la privacidad sexual u hostigamiento sexuales; la mutilación genital femenina; el empleo de mujeres sin su consentimiento, y de niñas, en pornografía; los delitos contra la libertad sexual e integridad de las personas, señalados en el Código Penal para el Estado, y todos los abusos, agresiones y conductas que atenten o limiten el derecho a la libertad, dignidad, integridad y desarrollo físico y sexual de las mujeres.
 
 Se entenderá, así mismo, como Violencia Sexual, a la violencia contra los derechos sexuales y reproductivos, la cual consiste en cualquier acto u omisión que impida o restrinja el libre ejercicio del derecho a la salud sexual y reproductiva de las mujeres y, por tanto, afecte el ejercicio de la libertad sexual.
 
@@ -180,6 +220,14 @@ El hostigamiento sexual es la forma de violencia que realiza la persona agresora
 El acoso sexual es la forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder por parte de la persona agresora, que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos. Se manifiesta en cualquier comportamiento, verbal o físico, de naturaleza sexual, intimidatorio u ofensivo que degrade, dañe o atente contra el cuerpo o la sexualidad de la víctima.
 
 La mutilación genital femenina es el conjunto de procedimientos que implican una eliminación parcial o total de los genitales externos femeninos o lesiones causadas a los órganos genitales femeninos por razones culturales, religiosas, o en general, cualquier otra que no sea de orden estrictamente terapéutico, aun cuando se realicen con el consentimiento, expreso o tácito, de la víctima;
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+El ciberacoso sexual es un tipo de violencia de género en contra de las mujeres, que se manifiesta a través de cualquier tecnología de la información y comunicación cuando la pareja, expareja o persona ajena ejerce una dominación sobre la víctima con el objetivo de afectar su dignidad, libertad, privacidad e intimidad sexuales, y su imagen pública.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+La violación contra la privacidad sexual es un tipo de violencia de género contra las mujeres, que consiste en la publicación o difusión, a través de cualquier medio electrónico, de imágenes, audios o videos sobre la vida sexual de una mujer, sin su consentimiento, independientemente de que exista una relación afectiva o no.
 
 IV. Violencia Económica. Cualquier acto u omisión realizado por la persona agresora que afecte la libertad de disponibilidad de recursos económicos de la víctima. Se puede manifestar a través de limitaciones al ingreso o a la disponibilidad de las percepciones económicas, incumplimiento de las responsabilidades alimentarias, exclusión o discriminación en la toma de decisiones financieras o en la disposición de los recursos compartidos sin la voluntad de la víctima.
 
@@ -213,7 +261,15 @@ IV. Violencia institucional, o
 
 V. Violencia Política, o
 
-VI. Violencia feminicida.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VI. Violencia digital;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VII. Violencia obstétrica, o
+
+VIII. Violencia feminicida.
 
 Violencia Familiar
 
@@ -266,6 +322,22 @@ VII. Obligar mediante la fuerza o intimidación, a quienes desempeñen cargo de 
 VIII. Discriminar a quien tenga la calidad de autoridad electa o designada, por cuestión de su género o por encontrarse en etapa de embarazo, y
 
 IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la integridad de las mujeres en el ejercicio de un espacio de poder o de decisión.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Violencia Digital
+
+###### Artículo 14 Ter.
+
+Cualquier acto doloso que se presenta a través de las tecnologías de la información y comunicación, mediante la divulgación sin consentimiento, de textos, videos u otras impresiones gráficas con alto contenido erótico o imágenes sugerentemente sexuales, verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atenta contra la integridad y dignidad de las mujeres.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+Violencia Obstétrica
+
+###### Artículo 14 Quáter.
+
+Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y sobreparto, así como la negligencia en su atención médica que se exprese en malos tratos, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales: la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en esta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz de la niña o niño con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer.
 
 Violencia Feminicida
 
@@ -329,49 +401,61 @@ II. La Secretaría General de Gobierno, quien tendrá la Vicepresidencia;
 
 III. La Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-IV. La Unidad de Planeación del Titular del Poder Ejecutivo;
+IV. La Coordinación Estatal de Planeación del Titular del Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
 V. La Secretaría del Campo;
 
-VI. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VI. La Fiscalía General de Justicia del Estado;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VII. La Secretaría de Seguridad Pública del Estado;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VII. La Secretaría de las Mujeres, quien tendrá la Secretaría Técnica;
+VIII. La Secretaría de las Mujeres, quien tendrá la Secretaría Técnica;
 
-VIII. Los Servicios de Salud del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-IX. El DIF Estatal;
+IX. La Secretaría de Salud del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2018)</small>
+X. El DIF Estatal;
 
-X. La entidad responsable de la atención de las personas con discapacidad en el estado de Zacatecas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+XI. El Instituto para la Atención e Inclusión de las Personas con Discapacidad del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+XII. El Instituto de la Juventud del Estado;
+
+XIII. El Servicio Estatal del Empleo;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+XIV. La Legislatura del Estado, a través de la Comisión de Igualdad de Género;
+
+XV. El Tribunal Superior de Justicia del Estado, por conducto de un representante designado por el Pleno;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XI. La Subsecretaría de la Juventud;
+XVI. La Comisión de Derechos Humanos del Estado de Zacatecas;
 
-XII. El Servicio Estatal del Empleo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-XIII. La Legislatura del Estado, a través de la Comisión de Equidad entre los Géneros;
+XVII. La Comisión Estatal para Adultos en Plenitud;
 
-XIV. El Tribunal Superior de Justicia del Estado, por conducto de un representante designado por el Pleno;
+XVIII. Las dependencias municipales para la protección de los derechos de la mujer;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+XIX. Tres representantes de organizaciones de la sociedad civil, designados de conformidad con el Reglamento de esta Ley, y
 
-XV. La Comisión de Derechos Humanos del Estado de Zacatecas;
-
-XVI. La Comisión Estatal para los Adultos en Plenitud;
-
-XVII. Las dependencias municipales para la protección de los derechos de la mujer;
-
-XVIII. Tres representantes de organizaciones de la sociedad civil, designados de conformidad con el Reglamento de esta Ley, y
-
-XIX. Dos representantes de instituciones educativas, de investigación, o profesionistas o especialistas en la materia, nombrados igualmente a los señalados en la fracción anterior.
+XX. Dos representantes de instituciones educativas, de investigación, o profesionistas o especialistas en la materia, nombrados igualmente a los señalados en la fracción anterior.
 
 Suplencia
 
@@ -401,7 +485,9 @@ III. Proponer anualmente a la persona Titular del Ejecutivo, que en el Presupues
 
 IV. Evaluar y, en su caso, aprobar el informe semestral elaborado por la Secretaría Técnica sobre la aplicación y los avances del Programa Estatal;
 
-V. Elaborar un informe anual que remitirá a la persona Titular del Ejecutivo, quien lo enviará a su vez a la Comisión de Equidad entre los Géneros de la Legislatura del Estado, para vigilar la correcta aplicación de los recursos presupuestados;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+V. Elaborar un informe anual que remitirá a la persona Titular del Ejecutivo, quien lo enviará a su vez a la Comisión de Igualdad (sic) Género de la Legislatura del Estado, para vigilar la correcta aplicación de los recursos presupuestados;
 
 VI. Aprobar su Reglamento Interno;
 
@@ -415,15 +501,25 @@ I. Estandarizar los procesos y acciones de prevención y erradicación de la vio
 
 II. Coadyuvar en la coordinación de las actuaciones de los órganos de gobierno, estatales y municipales, relacionados con la aplicación de la presente Ley, para prevenir, detectar y atender situaciones de riesgo o existencia de violencia a través de los servicios que prestan dichos órganos;
 
-III. Promover la participación y la colaboración de organizaciones de la sociedad civil, de especialistas en la materia, del sector privado y académico, y de los medios de comunicación estatales, nacionales o extranjeros, en las acciones de prevención, atención y erradicación de la violencia, así como su integración al Sistema Estatal;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-IV. Garantizar el asesoramiento jurídico y la atención integral y adecuada, a víctimas y persona agresoras;
+III. Fomentar la participación y colaboración de organizaciones sociales, instituciones académicas y privadas, especialistas en la materia, entidades gubernamentales y medios de comunicación estatales, nacionales o extranjeros, en las acciones de prevención, atención y erradicación de la violencia de género y para su integración al Sistema Estatal, con objeto de mejorar los resultados de las acciones y el uso de los recursos públicos, así como para evaluar el Programa Estatal y las medidas de prevención, atención y erradicación, de la violencia contra las mujeres;
 
-V. Validar los protocolos o modelos que rijan la operación de los centros de atención y refugios, la detección de violencia, la atención médica, y los programas integrales de asistencia, atención y rehabilitación.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+IV. Promover entre las autoridades competentes en materia de esta Ley, el desarrollo de acciones preventivas y campañas permanentes de difusión, informativas y formativas, que contribuyan a generar conciencia sobre la importancia de la convivencia pacífica y el gran daño que causa a la sociedad la violencia de género;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+V. Garantizar el asesoramiento jurídico y la atención integral, oportuna y adecuada a víctimas de la violencia de género, y personas agresoras;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
 VI. Promover la participación política de las mujeres y vigilar el respeto a sus derechos político electorales y de ejercicio en los cargos públicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2018)</small>
+
+VII. Validar los protocolos o modelos que rijan la operación de los centros de atención y refugios, la detección de violencia, la atención médica, y los programas integrales de asistencia, atención y rehabilitación.
 
 C. En materia de capacitación, investigación y difusión:
 
@@ -543,11 +639,11 @@ La persona Titular del Ejecutivo y los Ayuntamientos, preverán en los presupues
 
 Elaboración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Artículo 32.
 
-El Programa Estatal será elaborado por la Secretaría, y previa opinión del Sistema Estatal, será aprobado por la persona Titular del Ejecutivo, a través de la Unidad de Planeación del Titular del Poder Ejecutivo y será publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
+El Programa Estatal será elaborado por la Secretaría, y previa opinión del Sistema Estatal, será aprobado por la persona Titular del Ejecutivo, a través de la Coordinación Estatal de Planeación del Titular del Poder Ejecutivo y será publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 El desarrollo, seguimiento, evaluación y modificación del Programa Estatal se hará por el Sistema Estatal, en términos de su Reglamento Interno.
 
@@ -649,7 +745,9 @@ Atribuciones de la Secretaría General de Gobierno
 
 Son atribuciones de la Secretaría General de Gobierno:
 
-I. Conducir, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+I. Conducir, con una visión transversal y con perspectiva de género la política integral de prevención, atención, sanción y erradicación de la violencia contra las mujeres; si determinaron cambiar sentido.
 
 II. Formular las bases para la cooperación, coordinación y concertación entre las autoridades correspondientes, para el cumplimiento de las finalidades de la Ley, y de los objetivos del Programa Estatal;
 
@@ -699,11 +797,15 @@ III. Canalizar al personal a su cargo a la Secretaría para que sea capacitado c
 
 IV. Las demás previstas en esta Ley y las disposiciones aplicables.
 
-Atribuciones de la Procuraduría General de Justicia
+> <small>(REFORMADO EN SU EPÍGRAFE, P.O. 23 DE JUNIO DE 2018)</small>
+
+Atribuciones de la Fiscalía General de Justicia
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Artículo 39.
 
-Son atribuciones de la Procuraduría General de Justicia del Estado:
+Son atribuciones de la Fiscalía General de Justicia del Estado:
 
 I. Diseñar y desarrollar, con perspectiva de género, una política persecutoria e indagatoria del delito, orientada a la prevención y sanción efectiva de la violencia contra las mujeres;
 
@@ -715,7 +817,9 @@ IV. Proporcionar a las mujeres víctimas de violencia, orientación y asesoría 
 
 V. Brindar a las víctimas o a las personas agresoras, en su caso, la información integral sobre las instituciones públicas o privadas encargadas de su atención;
 
-VI. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia, así como para realizar los exámenes médicos correspondientes, para lo cual, se aplicará el protocolo respectivo y se auxiliará por especialistas de los Servicios de Salud del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VI. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia, así como para realizar los exámenes médicos correspondientes, para lo cual, se aplicará el protocolo respectivo y se auxiliará por especialistas de la Secretaría de Salud del Estado;
 
 VII. Establecer medidas de protección adecuadas, necesarias y suficientes, para salvaguardar la integridad física de las mujeres que lo soliciten;
 
@@ -729,9 +833,31 @@ XI. Diseñar y ejecutar campañas de difusión para promover la cultura de denun
 
 XII. Las demás que le asigne la presente Ley y los ordenamientos aplicables.
 
-> <small>(REFORMADO ACÁPITE, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-Atribuciones de la Secretaría
+Atribuciones de la Secretaría de Seguridad Pública
+
+###### Artículo 39 Bis.
+
+Son atribuciones de la Secretaría de Seguridad Pública:
+
+I. Formular y proponer la política de seguridad pública y de prevención del delito con perspectiva de género, con acciones para fortalecer la prevención, atención y sanción de violencia contra las mujeres;
+
+II. Informar trimestralmente al Sistema Estatal o cuando éste así lo solicite, sobre la ejecución de las acciones de su competencia contenidas en el Programa Estatal, con la finalidad de evaluar su eficacia;
+
+III. Capacitar al personal de las diferentes instancias policiales a su cargo para atender, con perspectiva de género y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
+
+IV. Canalizar a las víctimas de violencia a las instituciones públicas o privadas que presten asistencia y protección;
+
+V. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora;
+
+VI. Implementar programas de capacitación que formen el apego a los principios de legalidad, honradez, profesionalismo y eficacia, en la atención a las mujeres víctimas de violencia, y
+
+VII. Las demás que le asigne la presente Ley y los ordenamientos aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 23 DE JUNIO DE 2018)</small>
+
+Atribuciones del Instituto
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -747,9 +873,23 @@ II. Orientar a la comunidad sobre los mecanismos para prevenir y erradicar la vi
 
 III. Elaborar, en coordinación con las instituciones correspondientes, protocolos o modelos para la detección de la violencia contra las mujeres;
 
-IV. Organizar actividades públicas y sociales alusivas a la erradicación de la violencia contra las mujeres, y
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-V. Realizar acciones que promuevan la autonomía económica y el acceso al trabajo remunerado de las mujeres víctimas de la violencia.
+IV. Promover la investigación científica cualitativa y cuantitativa sobre la violencia de género contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+V. Organizar actividades públicas y sociales alusivas a la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VI. Promover que los medios de comunicación masiva fomenten una cultura que elimine estereotipos e imágenes que atentan contra la dignidad de las mujeres;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
+
+VII. Fomentar la apertura de instituciones públicas o privadas encargadas de la atención para las mujeres víctimas de la violencia, donde se presten servicios especializados de tratamiento, y
+
+VIII. Realizar acciones que promuevan la autonomía económica y el acceso al trabajo remunerado de las mujeres víctimas de la violencia.
 
 B. En materia de atención y protección:
 
@@ -793,11 +933,15 @@ IV. Implementar un programa especial para proporcionar tratamiento terapéutico 
 
 V. Las demás previstas en esta Ley y las disposiciones aplicables.
 
-Atribuciones de los Servicios de Salud
+> <small>(REFORMADO EN SU EPÍGRAFE, P.O. 23 DE JUNIO DE 2018)</small>
+
+Atribuciones de la Secretaría de Salud
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Artículo 41.
 
-Son atribuciones de los Servicios de Salud de Zacatecas:
+Son atribuciones de la Secretaría de Salud de Zacatecas:
 
 I. Diseñar con perspectiva de género, en el marco de la política de salud integral de las mujeres, programas, modelos, acciones y campañas de prevención y atención de la violencia;
 
@@ -805,23 +949,31 @@ II. Establecer programas y servicios profesionales que atiendan eficazmente a la
 
 III. Asegurar que en la prestación de los servicios de salud sean respetados los derechos humanos de las mujeres;
 
-IV. Brindar por medio de los centros e instituciones a su cargo, de manera integral e interdisciplinaria, atención médica y psicológica con perspectiva de género a las víctimas;
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-V. Garantizar el cumplimiento e implementación, de las Normas Oficiales vigentes en materia de violencia familiar y violencia contra las mujeres, y la instalación de mecanismos de supervisión y evaluación de su efectividad;
+IV. Diseñar y ejecutar programas para mejorar la calidad de la atención materno-infantil, que contemplen de forma integral su adecuada capacitación sobre directrices y parámetros contenidos en las Normas Oficiales en materia de Atención de la mujer durante el embarazo, parto y sobreparto, así como del recién nacido;
 
-VI. Capacitar con perspectiva de género al personal a su cargo, para prevenir, detectar y atender la violencia contra las mujeres, así como sobre el trato que se debe proporcionar a las víctimas;
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-VII. Formar promotores y capacitadores comunitarios para la aplicación de programas y medidas de prevención y atención de la violencia contra las mujeres;
+V. Realizar investigaciones y establecer mecanismos para definir y medir la violencia obstétrica; el maltrato y los abusos en la atención materna y para tal efecto deberá implementar un Registro de Datos e Información, que sirva para el diagnóstico integral y confiable sobre los casos de violencia obstétrica y morbilidad materna y remitirlo al Banco Estatal de Datos;
 
-VIII. Difundir en los centros e instituciones a su cargo, material referente a la prevención y atención de la violencia contra las mujeres, y a los efectos que produce en la salud de las mujeres y su impacto en la pobreza de las familias;
+VI. Brindar por medio de los centros e instituciones a su cargo, de manera integral e interdisciplinaria, atención médica y psicológica con perspectiva de género a las víctimas;
 
-IX. Colaborar con las autoridades de procuración e impartición de justicia, para elaborar dictámenes médicos y proporcionar la información necesaria;
+VII. Garantizar el cumplimiento e implementación, de las Normas Oficiales vigentes en materia de violencia familiar y violencia contra las mujeres, y la instalación de mecanismos de supervisión y evaluación de su efectividad;
 
-X. Desarrollar los modelos de detección elaborados por el DIF Estatal, así como formular y aplicar sus propios modelos;
+VIII. Capacitar con perspectiva de género al personal a su cargo, para prevenir, detectar y atender la violencia contra las mujeres, así como sobre el trato que se debe proporcionar a las víctimas;
 
-XI. Establecer en todos los centros, unidades e instituciones a su cargo, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de mujeres pacientes víctimas de violencia, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del Banco Estatal, y
+IX. Formar promotores y capacitadores comunitarios para la aplicación de programas y medidas de prevención y atención de la violencia contra las mujeres;
 
-XII. Las demás previstas en esta Ley y las disposiciones aplicables.
+X. Difundir en los centros e instituciones a su cargo, material referente a la prevención y atención de la violencia contra las mujeres, y a los efectos que produce en la salud de las mujeres y su impacto en la pobreza de las familias;
+
+XI. Colaborar con las autoridades de procuración e impartición de justicia, para elaborar dictámenes médicos y proporcionar la información necesaria;
+
+XII. Desarrollar los modelos de detección elaborados por el DIF Estatal, así como formular y aplicar sus propios modelos;
+
+XIII. Establecer en todos los centros, unidades e instituciones a su cargo, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de mujeres pacientes víctimas de violencia, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del Banco Estatal, y
+
+XIV. Las demás previstas en esta Ley y las disposiciones aplicables.
 
 Atribuciones del DIF Estatal
 
@@ -873,11 +1025,11 @@ VII. Las demás previstas en esta Ley y las disposiciones aplicables.
 
 Atribuciones del sector de desarrollo social
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Artículo 43.
 
-Son atribuciones de la entidad responsable de la atención de las personas con discapacidad en el estado de Zacatecas, del Instituto de la Juventud del Estado de Zacatecas y del Consejo Consultivo de las Personas Adultas Mayores:
+Son atribuciones de la Secretaría de Desarrollo Social a través del Instituto para la Atención e Inclusión de las Personas con Discapacidad del Estado; del Instituto de la Juventud del Estado, y del Consejo Consultivo de las Personas Adultas Mayores:
 
 I. Incorporar la perspectiva de género, los principios de igualdad, equidad y no discriminación, el respeto pleno a los derechos humanos de las mujeres, y la cultura de prevención, denuncia y erradicación de la violencia contra las mujeres en sus políticas, programas, modelos, acciones y campañas;
 
@@ -889,7 +1041,7 @@ IV. Las demás previstas en esta Ley y demás disposiciones aplicables.
 
 Atribuciones del sector educativo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
 
 ###### Artículo 44.
 
@@ -905,7 +1057,17 @@ IV. Elaborar materiales educativos, cursos y talleres dirigidos a la prevención
 
 V. Garantizar el derecho de las niñas y mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones y, en su caso, de la aplicación de medidas extraordinarias para lograr la equidad;
 
-VI. Desarrollar la investigación multidisciplinaria encaminada a crear protocolos o modelos de prevención, detección, atención y erradicación de la violencia contra las mujeres en los centros educativos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
+
+VI. Desarrollar la investigación multidisciplinaria encaminada a crear protocolos o modelos de prevención, detección, atención y erradicación de la violencia contra las mujeres en los centros educativos, para lo cual:
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+a) Promoverá la realización de investigaciones científicas y estudios de campo que permitan diseñar las estrategias y las acciones puntuales para prevenir y erradicar la violencia de género en los centros educativos, favoreciendo la retroalimentación continua entre éstos, así como la coordinación constante con las instituciones académicas de la entidad, y
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
+
+b) Implementará estrategias que estimulen las capacidades, habilidades y actitudes que permitan a las docentes y los docentes desarrollar metodologías didácticas que fortalezcan la formación cívica del alumnado en la equidad de género y para la resolución no violenta de conflictos en su práctica educativa cotidiana;
 
 VII. Evitar, mediante acciones afirmativas, que la educación que se imparta en el Estado sea discriminatoria y que las alumnas embarazadas sean expulsadas de los centros educativos;
 
@@ -913,15 +1075,19 @@ VIII. Desarrollar los protocolos o modelos de detección elaborados por el DIF E
 
 IX. Diseñar y difundir materiales educativos que promuevan la prevención, denuncia y erradicación de la violencia contra las mujeres;
 
-X. Elaborar un programa de servicio social especializado para dotar de recursos humanos a los refugios, y centros de atención, protección y asistencia para las mujeres víctimas de violencia, así como a los centros reeducativos para personas agresoras;
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
-XI. Diseñar e implementar un sistema de educación alternativo para niñas y niños que vivan en los refugios, con el fin de no interrumpir su ciclo escolar, así como para aquellos que requieran cambiar de residencia, como consecuencia de la violencia padecida, o que se encuentren en situación de riesgo;
+X. Establecer medidas correctivas y acciones sancionadoras para erradicar la violencia de género que se manifiesta en conductas que dañan la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les inflijan maestras o maestros;
 
-XII. Capacitar al personal docente, directivo, administrativo y de apoyo, sobre igualdad, equidad, derechos humanos, prevención, denuncia y erradicación de la violencia contra las mujeres, asimismo para que estén en condiciones de otorgar atención urgente a las alumnas que sufren algún tipo de violencia;
+XI. Elaborar un programa de servicio social especializado para dotar de recursos humanos a los refugios, y centros de atención, protección y asistencia para las mujeres víctimas de violencia, así como a los centros reeducativos para personas agresoras;
 
-XIII. Emitir las disposiciones administrativas necesarias para garantizar que los docentes y el personal directivo, administrativo y de apoyo de los centros educativos, coadyuven para que las aulas y las escuelas se conviertan en espacios libres de violencia y discriminación y lugares propicios para una convivencia pacífica y armónica y un trato igualitario entre mujeres y hombres, y
+XII. Diseñar e implementar un sistema de educación alternativo para niñas y niños que vivan en los refugios, con el fin de no interrumpir su ciclo escolar, así como para aquellos que requieran cambiar de residencia, como consecuencia de la violencia padecida, o que se encuentren en situación de riesgo;
 
-XIV. Las demás previstas en esta Ley y demás disposiciones aplicables.
+XIII. Capacitar al personal docente, directivo, administrativo y de apoyo, sobre igualdad, equidad, derechos humanos, prevención, denuncia y erradicación de la violencia contra las mujeres, asimismo para que estén en condiciones de otorgar atención urgente a las alumnas que sufren algún tipo de violencia;
+
+XIV. Emitir las disposiciones administrativas necesarias para garantizar que los docentes y el personal directivo, administrativo y de apoyo de los centros educativos, coadyuven para que las aulas y las escuelas se conviertan en espacios libres de violencia y discriminación y lugares propicios para una convivencia pacífica y armónica y un trato igualitario entre mujeres y hombres, y
+
+XV. Las demás previstas en esta Ley y demás disposiciones aplicables.
 
 Atribuciones del Servicio Estatal de Empleo
 
@@ -973,9 +1139,11 @@ XIII. Las demás previstas en esta Ley y las disposiciones aplicables.
 
 Atribuciones de la Legislatura
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2018)</small>
+
 ###### Artículo 47.
 
-Son atribuciones de la Legislatura del Estado, a través de la Comisión de Equidad entre los Géneros:
+Son atribuciones de la Legislatura del Estado, a través de la Comisión de Igualdad de Género:
 
 I. Vigilar que la normatividad del Estado garantice el cumplimiento de la presente Ley, y proponer las reformas y adecuaciones correspondientes;
 
@@ -1113,9 +1281,9 @@ La persona Titular del Ejecutivo, por conducto de la Secretaría General de Gobi
 
 Para estos efectos, deberá tomarse en cuenta la opinión de la Comisión de Derechos Humanos del Estado de Zacatecas.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-La Secretaría coordinará, evaluará y dará el seguimiento correspondiente a las acciones que deberán implementarse en virtud a la Declaratoria de Alerta de Violencia.
+La Secretaría coordinará, evaluará y dará el seguimiento correspondiente a las acciones que deberán implementarse en virtud a la Declaratoria de Alerta de Violencia, las cuales deberán difundirse bimestralmente por dependencia y presentarse en cada sesión del Sistema Estatal.
 
 Facultad de los municipios
 
@@ -1708,3 +1876,11 @@ P.O. 24 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 287.- SE REFORMAN DIVERSOS ORDENAMIENTOS, CON EL FIN DE ACTUALIZAR LA DENOMINACIÓN DE LA ENTIDAD RESPONSABLE DE LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE ZACATECAS".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 403.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
