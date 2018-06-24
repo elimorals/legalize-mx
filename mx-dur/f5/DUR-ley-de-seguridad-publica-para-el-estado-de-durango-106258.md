@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-106258"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-28"
-last_updated: "2017-03-05"
+last_updated: "2018-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 28 de diciembre de 2014.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 06 de agosto del presente año, los CC. Diputados José Ángel Beltrán Félix, Julián Salvador Reyes, Felipe Meraz Silva, José Alfredo Martínez Núñez y Alicia García Valenzuela, presentaron a esta H. LXVI Legislatura Iniciativa de Decreto que contiene LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Seguridad Pública integrada por los CC. Diputados: José Ángel Beltrán Félix, Julián Salvador Reyes, Felipe Meraz Silva, José Alfredo Martínez Núñez y Alicia García Valenzuela; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S:...
+C O N S I D E R A N D O S:
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVI Legislatura del Estado, expide el siguiente:
 
@@ -1479,9 +1481,17 @@ V. El Secretario de Comunicaciones y Obras Públicas;
 
 VI. Cinco Presidentes Municipales designados por el Presidente del Consejo;
 
-VII. Los funcionarios representantes o delegados en la entidad de las autoridades federales que forman parte del Consejo Nacional; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
 
-VIII. Un Secretario Ejecutivo designado por el Presidente.
+VII. Los funcionarios representantes o delegados en la entidad de las autoridades federales que forman parte del Consejo Nacional;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+VIII. Un Secretario Ejecutivo designado por el Presidente; y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+IX. El Presidente de la Comisión de Seguridad Pública del Congreso del Estado de Durango.
 
 El Consejo contará con una Unidad de Coordinación Operativa de Seguridad Pública, cuyo objeto será determinar las acciones conjuntas y los operativos para el combate a la delincuencia, para garantizar y mantener el orden público, la seguridad y la integridad de las personas, así como para garantizar la ejecución de la justicia penal.
 
@@ -2632,3 +2642,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 24 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 388.- QUE CONTIENE ADICIÓN A LA FRACCIÓN IX, AL ARTÍCULO 103 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+EI presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
