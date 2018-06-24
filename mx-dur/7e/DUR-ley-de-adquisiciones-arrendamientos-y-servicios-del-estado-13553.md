@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2017-06-04"
+last_updated: "2018-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -354,6 +354,12 @@ II. Al proveedor local sobre el nacional, o a este sobre el extranjero;
 III. A los proveedores que presenten mejor grado de protección al medio ambiente; y
 
 IV. A los proveedores que presenten innovaciones tecnológicas.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 25 BIS.- Los tres Poderes del Estado y sus dependencias; los Órganos Constitucionales Autónomos; los Organismos Descentralizados del Gobierno del Estado y los Ayuntamientos y sus Organismos Descentralizados, establecerán como obligación el uso de papel reciclado para la emisión de los documentos, así como la papelería utilizada en las oficinas, para trámites y todo tipo de comunicación que realicen los entre mencionadas (sic) y los particulares.
+
+En las adquisiciones de papel a que se refiere el párrafo anterior, éste deberá contener un mínimo de cincuenta por ciento de fibras de material reciclado, o de fibras naturales no derivadas de la madera, o de materias primas provenientes de aprovechamientos forestales manejados de manera sustentable en el territorio nacional, que se encuentren certificados por las autoridades competentes, o de sus combinaciones y elaborados en procesos con blanqueado libre de cloro.
 
 ###### ARTÍCULO 26.
 
@@ -1208,3 +1214,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 403.- QUE CONTIENE ADICIÓN A UN ARTÍCULO 25 BIS A LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
