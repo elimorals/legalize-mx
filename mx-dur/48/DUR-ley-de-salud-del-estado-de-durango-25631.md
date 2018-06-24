@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2017-12-24"
+last_updated: "2018-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -348,6 +348,10 @@ XII. Impulsar en los pueblos y comunidades indígenas los servicios de salud, a 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
 XIII. Promover y apoyar el desarrollo y libre ejercicio de la medicina tradicional así como el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen en condiciones adecuadas como parte de la cultura y patrimonio de los pueblos y comunidades indígenas, impulsando su estudio y rescate, así como difundir el derecho de los mismos a participar en la planificación y ejecución de los programas de salud, debiendo tomar en cuenta sus necesidades prioritarias.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+XIV. Fomentar la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como impulsar el uso y la donación de leche materna en los bancos de leche humana de la entidad.
 
 ###### ARTÍCULO 10.
 
@@ -1079,7 +1083,7 @@ III. De asistencia social.
 
 ###### ARTÍCULO 41.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
 ###### ARTÍCULO 42.
 
@@ -1193,7 +1197,7 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 ###### ARTÍCULO 50.
 
-La infancia en estado de vulnerabilidad social tienen derecho a recibir los servicios asistenciales que necesiten en cualquier momento en establecimientos públicos dependientes del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+La infancia en estado de vulnerabilidad social tienen (sic) derecho a recibir los servicios asistenciales que necesiten en cualquier momento en establecimientos públicos dependientes del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
 ###### ARTÍCULO 51.
 
@@ -1619,7 +1623,7 @@ III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la 
 
 IV. Las disposiciones de esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+((REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 98.
 
@@ -2211,7 +2215,9 @@ La Secretaría y el Organismo, se coordinarán con las autoridades sanitarias fe
 
 I. La prevención y tratamiento de las personas con problemas de alcoholismo y, en su caso, la rehabilitación de las mismas;
 
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a la infancia y personas obreras y campesinas, a través de métodos individuales, sociales y de comunicación masiva; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, deberá estar dirigida a todos los sectores de la sociedad sin importar edad ni estrato social, a través de métodos individuales, sociales y de comunicación masiva; y
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas vulnerables y en grupos de población considerados de alto riesgo.
 
@@ -2641,7 +2647,7 @@ La Secretaría, el Organismo y la COPRISED, llevarán a cabo el control y foment
 
 ###### ARTÍCULO 181.
 
-De conformidad con las disposiciones generales aplicables que expida la Secretaría de Salud del Gobierno Federal y las NOMs. la Secretaría, el Organismo la COPRISED ejercerán el control sanitario de los establecimientos que expendan bebidas alcohólicas.
+De conformidad con las disposiciones generales aplicables que expida la Secretaría de Salud del Gobierno Federal y las NOMs. la Secretaría, el Organismo y la COPRISED ejercerán el control sanitario de los establecimientos que expendan bebidas alcohólicas.
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
@@ -2665,7 +2671,7 @@ La Secretaría y el Organismo, por conducto de la COPRISED, sin perjuicio de la 
 
 ###### ARTÍCULO 185.
 
-Los establecimientos a que se refiere el presente Título, deberán presentar aviso por escrito a la Secretaría y al Organismo, por conducto de la COPRISED, en los términos del Reglamento respectivo, dentro de los diez días hábiles posteriores al inicio de operaciones dicho aviso deberá contener los siguientes datos:
+Los establecimientos a que se refiere el presente Título, deberán presentar aviso por escrito a la Secretaría y al Organismo, por conducto de la COPRISED, en los términos del Reglamento respectivo, dentro de los diez días hábiles posteriores al inicio de operaciones. Dicho aviso deberá contener los siguientes datos:
 
 I. Nombre, denominación o razón social y domicilio de la persona física o moral propietaria del establecimiento;
 
@@ -2779,7 +2785,7 @@ III. Los restos de animales encontrados en la vía pública, deberán disponerse
 
 IV. Los residuos sólidos patológicos de los hospitales deberán manejarse separadamente de otros, procediéndose a su eliminación a través de los métodos previstos en las disposiciones legales aplicables;
 
-V. El depósito final de los residuos sólidos, deberá estar situado a una distancia no menor de dos kilómetros de asentamientos humanos, en contra de los vientos dominantes y sin que sea visible desde las carreteras, correspondiendo a la autoridad sanitaria fijar criterios de ubicación de los mismos sin perjuicio de los que establezcan otras disposiciones legales en la materia;
+V. El depósito final de los residuos sólidos, deberá estar situado a una distancia no menor de dos kilómetros de asentamientos humanos, en contra de los vientos dominantes y sin que sea visible desde las carreteras, correspondiendo a la autoridad sanitaria fijar criterios de ubicación delos (sic) mismos sin perjuicio de los que establezcan otras disposiciones legales en la materia;
 
 VI. La basura deberá incinerarse periódicamente en los lugares dispuestos para tal efecto o destruirse por otros procedimientos excepto cuando sea industrializable o tenga empleo útil, siempre y cuando no signifique un peligro para la salud; y
 
@@ -3259,7 +3265,7 @@ La observación personal consiste en la estrecha supervisión sanitaria de los p
 
 Las autoridades sanitarias competentes ordenarán la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
 
-I. Cuando no hayan sido vacunadas contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles cuya vacunación se estime obligatoria;
+I. Cuando no hayan sido vacunadas contra la tos ferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles cuya vacunación se estime obligatoria;
 
 II. En caso de epidemia grave; y
 
@@ -3307,7 +3313,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 ###### ARTÍCULO 275.
 
-La suspensión de mensajes publicitarios en materia de salud procederá cuando estos se difundan por cualquier medio de comunicación social, contraviniendo lo dispuesto en esta Ley y demás ordenamientos aplicables; o cuando la Secretaría, el Organismo y/o la COPRISED determinen que el contenido de los mensajes afecta, reduce o propicia, a otros que pudieran dañar la salud.
+La suspensión de mensajes publicitarios en materia de salud procederá cuando éstos se difundan por cualquier medio de comunicación social, contraviniendo lo dispuesto en esta Ley y demás ordenamientos aplicables; o cuando la Secretaría, el Organismo y/o la COPRISED determinen que el contenido de los mensajes afecta, reduce o propicia, a otros que pudieran dañar la salud.
 
 En este caso, los responsables de la publicidad procederán a suspender el mensaje, dentro de las veinticuatro horas siguientes a la notificación personal de la medida de seguridad, si se trata de emisiones de radio, cine o televisión, de publicaciones diarias o de anuncios en la vía pública. En caso de publicaciones en periódicos, la suspensión surtirá efectos a partir del siguiente ejemplar en el que aparece el mensaje.
 
@@ -3933,7 +3939,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 30 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3958,3 +3964,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 390.- QUE CONTIENE ADICIÓN A LA FRACCIÓN XIV AL ARTÍCULO 9 DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- Esta Ley entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 24 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 391.- QUE CONTIENE REFORMA A LA FRACCIÓN II DEL ARTÍCULO 160, DE LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente.
