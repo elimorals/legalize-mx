@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2017-12-28"
+last_updated: "2018-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -75,13 +75,21 @@ I.- Establecer la concurrencia del Estado y de los ayuntamientos en la ordenaci�
 
 II.- Fijar las normas y principios básicos a los cuales se sujetarán la autorización y ejecución de fraccionamientos, relotificaciones, subdivisiones, fusiones de terreno y la constitución, modificación del régimen de propiedad en condominio, así como la administración de los bienes inmuebles sujetos al mismo;
 
-III.- Normar los instrumentos y apoyos para que la población del estado pueda disfrutar de vivienda digna y decorosa, fomentando los sistemas de financiamiento del desarrollo urbano;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
 
-IV.- Establecer las normas generales para la instalación, construcción, ampliación, remodelación, reconstrucción y demolición de inmuebles y obras de equipamiento e infraestructura urbana preservando el Patrimonio Cultural del Estado;
+III.- Normar los instrumentos y apoyos para que la población del Estado pueda disfrutar de vivienda digna, decorosa y sustentable, fomentando los sistemas de financiamiento del desarrollo urbano y la implementación en el uso de materiales con el aprovechamiento de energías renovables y materiales ecológicos;
 
-V.- Precisar los mecanismos de coordinación y concertación de los sectores público, social y privado en materia de desarrollo urbano y vivienda;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
 
-VI.- Fijar el sistema estatal de suelo, reservas territoriales y la tenencia de la tierra, para el desarrollo urbano y la vivienda;
+IV.- Establecer las normas generales para la instalación, construcción, ampliación, remodelación, reconstrucción y demolición de inmuebles y obras de equipamiento e infraestructura urbana preservando el Patrimonio Cultural del Estado, así como atender al desarrollo sustentable de las viviendas, coadyuvando en el cuidado del medio ambiente;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+V.- Precisar los mecanismos de coordinación y concertación de los sectores público, social y privado en materia de desarrollo urbano y vivienda, para trabajar en plena coordinación a efecto de ir introduciendo de manera paulatina el uso de materiales ecológicos, así como la edificación de viviendas ecológicas sustentables, atendiendo a las partidas presupuestarias;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+VI.- Fijar el sistema estatal de suelo, reservas territoriales y la tenencia de la tierra, para el desarrollo urbano y la vivienda, cuidando siempre del impacto ambiental que se pueda suscitar;
 
 VII.- Regular las normas generales de la infraestructura y equipamiento vial, el transito de vehículos, peatones y los estacionamientos;
 
@@ -255,6 +263,14 @@ LX. Zona de Conurbación: El área circular generada por un radio de 10 kilómet
 
 LXI. Zonas típicas: Aquellas áreas que por su aspecto peculiar contienen un número significativo de elementos de carácter cultural, los símbolos urbanos, como los edificios, infraestructura y equipamiento de valor ambiental, conservando por lo tanto las características de su tiempo.
 
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+LXII. Vivienda Ecológica Sustentable: Estructura o proceso de construcción que sean responsables con el medio ambiente y que ocupen en su edificación recursos eficientes durante todo el tiempo de vida de una construcción, que además tenga una adecuada ubicación, que evite riesgos, además de promover el uso eficaz de energía, del agua, y el adecuado manejo de los desechos sólidos.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+LXIII. Materiales Ecológicos: Al conjunto de insumos que poseen por su propia esencia, el carácter de sostenible y debe estar garantizada mediante pruebas rigurosas y científicas. Además de cumplir con las finalidades siguientes: Mejorar constante (sic) la concepción de los sistemas para mejorar el aislamiento térmico, acústico y economizar en los consumos de energía, reciclaje de los perfiles, que se vuelven a incorporar al ciclo de producción, ahorrando así energía y materias primas, que se de cumplimiento a las normativas medioambientales.
+
 ###### ARTÍCULO 4.
 
 La ordenación y zonificación del suelo de los asentamientos humanos, el desarrollo urbano y la vivienda en el Estado, se llevarán a cabo a través de:
@@ -351,7 +367,9 @@ El Gobernador del Estado, tendrá las siguientes facultades:
 
 I. Ordenar la elaboración, publicación, ejecución, control, revisión y evaluación del Plan Estatal de Desarrollo Urbano y los programas que de él se deriven, en coordinación con las autoridades federales y los ayuntamientos respectivos y aprobar los que sean de su competencia;
 
-II. Celebrar con el Ejecutivo Federal y con los gobiernos de los estados vecinos y ayuntamientos, convenios en materia de acciones, obras e inversiones relativas al desarrollo urbano y la vivienda, de acuerdo a las políticas que para el estado plantean los programas nacionales de Desarrollo Urbano Vivienda y Ecología;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+II. Celebrar con el Ejecutivo Federal y con los gobiernos de los estados vecinos y ayuntamientos, convenios en materia de acciones, obras e inversiones relativas al desarrollo urbano y la vivienda, de acuerdo a las políticas que para el estado plantean los programas nacionales de Desarrollo Urbano Vivienda y Ecología, promoviendo la aplicación de políticas públicas en materia de viviendas ecológicas sustentables;
 
 III. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado, de los diferentes programas y zonificación del suelo de desarrollo urbano y vivienda, que aprueben las autoridades competentes;
 
@@ -367,7 +385,9 @@ VII. Aplicar y hacer cumplir las disposiciones de la presente Ley y las demás q
 
 La Secretaría de Comunicaciones y Obras Públicas del Estado, o la que conforme a la presente Ley, realice sus funciones, es la dependencia del Gobierno del Estado que tiene a su cargo, la ejecución de las medidas que esta disponga en relación con los asentamientos humanos, el desarrollo urbano, la vivienda y además:
 
-I.- Coordinar la elaboración, ejecución, control, modificación, actualización y evaluación de los planes y programas estatales: de desarrollo urbano, de vivienda, y de obras públicas y los que de éstos se deriven en coordinación con autoridades federales y municipales;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+I.- Coordinar la elaboración, ejecución, control, modificación, actualización y evaluación de los planes y programas estatales: de desarrollo urbano, de vivienda, y de obras públicas y los que de éstos se deriven en coordinación con autoridades federales y municipales; procurando acciones que coadyuven a la preservación del medio ambiente;
 
 II.- Proyectar, ejecutar, mantener, conservar y operar directamente a través de terceros las obras y servicios públicos que realice la administración pública estatal y asesorar a los ayuntamientos cuando estos lo soliciten en la elaboración, ejecución, control, actualización y evaluación de la planeación urbana municipal;
 
@@ -403,7 +423,9 @@ II.- Expedir las (sic) zonificación del suelo sobre reservas, usos y destinos d
 
 III.- Promover y determinar juntamente con el Gobierno del Estado, con base en los Planes y programas de Desarrollo Urbano y de vivienda, la adquisición y administración de reservas territoriales para la ejecución de dichos programas;
 
-IV.- Promover y ejecutar obras para que todos los habitantes de los municipios cuenten con una vivienda digna, equipamiento, infraestructura y servicios adecuados;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+IV.- Promover y ejecutar obras para que todos los habitantes de los municipios cuenten con una vivienda digna, equipamiento, infraestructura y servicios adecuados que además coadyuven en la utilización de insumos y materiales sustentables, que generen condiciones óptimas del cuidado al medio ambiente;
 
 V.- Autorizar, por conducto de sus órganos y dependencias competentes las solicitudes de construcción y urbanización, verificando que se hayan cubierto los diversos impuestos, aprovechamientos derechos o contribuciones fiscales estatales y municipales que les correspondan;
 
@@ -577,6 +599,10 @@ IV.- Promover una oferta de vivienda acorde con la capacidad adquisitiva y carac
 
 V.- Impulsar las acciones de Simplificación Administrativa, la desregulación de los costos indirectos de naturaleza estatal y municipal y de titulación del suelo y la vivienda.
 
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+VI.- Instrumentar mecanismos y políticas públicas, tendientes a la utilización de las energías renovables y a materiales ecológicos en la edificación de las viviendas y equipamiento de las mismas
+
 ###### ARTÍCULO 24.
 
 Las acciones en materia de vivienda a cargo de las dependencias o entes que conforman el Consejo Consultivo de Vivienda del Estado de Durango, se dirigirán a la consecución de los siguientes objetivos.
@@ -585,7 +611,9 @@ I.- Ampliar las posibilidades de acceso a la vivienda de interés social que per
 
 II.- Aumentar el inventario habitacional, organizar y estimular la generación, mejoramiento y conservación de la vivienda urbana y rural, así como para el bienestar de la familia;
 
-III.- Promover la optimización de los procesos de generación de vivienda y utilización de sistemas de construcción apropiados;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+III.- Promover la optimización de los procesos de generación de vivienda y utilización de sistemas de construcción apropiados, mismos que atiendan a la edificación de viviendas ecológicas sustentables;
 
 IV.- Propiciar que la vivienda sea factor de ordenamiento territorial, estructuración interna de los centros de población y de mejoría en el nivel de vida de la población;
 
@@ -4046,3 +4074,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 24 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 389.- QUE CONTIENE REFORMAS A LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO, ASÍ COMO A LA LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- Las reformas a éstas Leyes entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
