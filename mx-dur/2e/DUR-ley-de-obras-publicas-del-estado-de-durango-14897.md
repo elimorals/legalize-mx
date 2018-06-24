@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-obras-publicas-del-estado-de-durango-14897"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-13"
-last_updated: "2017-12-28"
+last_updated: "2018-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 13 de junio de 1999.
 
@@ -98,6 +98,18 @@ XI. I.V.A.: Impuesto al Valor Agregado.
 XII. COMITÉ: Comité Consultivo de Obra Pública.
 
 XIII. SERVICIOS: Los relacionados con la Obra Pública señalados en el artículo 5 de la presente ley.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+XIV. VIVIENDA ECOLÓGICA SUSTENTABLE: Estructura o proceso de construcción que sean responsables con el medio ambiente y que ocupen en su edificación recursos eficientes durante todo el tiempo de vida de una construcción, que además tenga una adecuada ubicación, que evite riesgos, además de promover el uso eficaz de energía, del agua, y el adecuado manejo de los desechos sólidos.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+XV. ENERGÍAS RENOVABLES: Es aquella cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por el ser humano, que se regeneran naturalmente, por lo que se encuentran disponibles de forma continúa o periódica, y que al ser generadas no liberan emisiones contaminantes.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+XVI. MATERIALES ECOLÓGICOS: Al conjunto de insumos que poseen por su propia esencia, el carácter de sostenible y debe estar garantizada mediante pruebas rigurosas y científicas. Además de cumplir con las finalidades siguientes: Mejorar constante (sic) la concepción de los sistemas para mejorar el aislamiento térmico, acústico y economizar en los consumos de energía, reciclaje de los perfiles, que se vuelven a incorporar al ciclo de producción, ahorrando así energía y materias primas, que se dé cumplimiento a las normativas medioambientales.
 
 ###### ARTÍCULO 4.
 
@@ -217,9 +229,13 @@ III. La coordinación que sea necesaria para resolver posibles interferencias y 
 
 IV. Los proyectos arquitectónicos y de ingeniería necesarios;
 
-V. La ejecución, que deberá incluir el costo estimado de las obras públicas y servicios relacionados con las mismas que se realicen por contrato y, en caso de realizarse por administración directa, los costos de los recursos necesarios; las condiciones de suministro de materiales, de maquinaria, o de cualquier otro accesorio relacionado con los trabajos; los cargos para pruebas y funcionamiento, así como los indirectos de los trabajos;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
 
-VI. Toda instalación pública deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas, para todas las personas; y deberán cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad;
+V. La ejecución, que deberá incluir el costo estimado de las obras públicas y servicios relacionados con las mismas que se realicen por contrato y, en caso de realizarse por administración directa, los costos de los recursos necesarios; las condiciones de suministro de materiales, de maquinaria, o de cualquier otro accesorio relacionado con los trabajos; los cargos para pruebas y funcionamiento, así como los indirectos de los trabajos; casos todos, en los cuales se procurará implementar mecanismos a través de los cuales se introduzca la sustentabilidad de las construcciones, privilegiando el cuidado del medio ambiente;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+VI. Toda instalación pública deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas, para todas las personas; y deberán cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad, procurando implementar la instalación de insumos que coadyuven a la preservación del medio ambiente, como las energías renovables y cuidado del agua;
 
 VII. Los resultados previsibles;
 
@@ -325,9 +341,13 @@ IV. Los requerimientos de áreas y predios previa consulta con la SECOPE o con l
 
 V. Promover programas de adecuación arquitectónica que favorezcan la inclusión total a las vías y espacios públicos.
 
-VI. Tratándose de la edificación de vivienda de interés social, se procurará que en su construcción se utilicen preferentemente, módulos, sistemas y componentes industrializados;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
 
-VII. Los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse, los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos, considerando el medio ambiente como soporte de calidad de vida, para lo cual se solicitará la intervención de la SECOPE, y en su caso, de las dependencias que tengan atribuciones sobre la materia; y
+VI. Tratándose de la edificación de vivienda de interés social, se procurará que en su construcción se utilicen preferentemente, módulos, sistemas y componentes de carácter ecológico y sustentable, que reduzca costos y cargas al deterioro del medio ambiente;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2018)</small>
+
+VII. Los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse, los proyectos deberán incluir, si ello fuere posible, la implementación, en la medida en que sea posible, de todos los insumos que en materia de construcción se emplean, de carácter renovable, ecológico y sustentable, para que se preserven o restauren las condiciones ambientales y los procesos ecológicos, considerando el medio ambiente como soporte de calidad de vida, para lo cual se solicitará la intervención de la SECOPE, y en su caso, de las dependencias que tengan atribuciones sobre la materia; y
 
 VIII. Preferentemente, el empleo de recursos humanos y la utilización de materiales propios de la región.
 
@@ -1258,3 +1278,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 24 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 389.- QUE CONTIENE REFORMAS A LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO, ASI COMO A LA LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- Las reformas a éstas Leyes entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
