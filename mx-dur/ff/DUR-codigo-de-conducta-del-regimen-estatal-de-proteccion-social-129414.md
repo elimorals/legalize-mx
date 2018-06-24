@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-conducta-del-regimen-estatal-de-proteccion-social-129
 country: "mx"
 rank: "codigo"
 publication_date: "2018-06-17"
-last_updated: "2018-06-17"
+last_updated: "2018-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # CODIGO DE CONDUCTA DEL REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DEL ESTADO DE DURANGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2018, EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE DURANGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE JUNIO DE 2018 NO APLICA AL ARTICULADO DEL CÓDIGO DE CONDUCTA PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2018.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 17 de junio de 2018.
 
@@ -259,7 +259,9 @@ Dado en la Ciudad de Durango, Dgo, a los treinta días del mes de enero de dos m
 
 A T E N T A M E N T E
 
-Victoria de Durango, Dgo, a 30 de enero de 2017
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2018)</small>
+
+Victoria de Durango, Dgo, a 30 de enero de 2018
 
 DR. JESÚS MARÍA ARAUJO CONTRERAS.
 
