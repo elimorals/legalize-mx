@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2018-04-16"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -41,7 +41,7 @@ Resolución
 
 UNICO.- Se Ratifica el Decreto 37 expedido por esta LVIII Legislatura del Congreso del Estado, para quedar en los siguientes términos:
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.</small>
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.]</small>
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
@@ -1132,6 +1132,34 @@ I. Seguridad pública, en los términos del artículo 21 de la Constitución Gen
 II. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
 Para el caso de que se concesione este último, ya sea por un Municipio o por el Estado o sus entidades paraestatales en el caso señalado en el Artículo 77, segundo párrafo, de esta Ley, se tendrá que obtener la aprobación de las dos terceras partes de los integrantes del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+A efecto de optimizar el servicio de agua potable, drenaje y alcantarillado, tratamiento y disposición de las aguas residuales, así como las redes de captación de agua pluvial, los municipios deberán contar con una carta hídrica, y considerar su contenido al momento de autorizar a los fraccionadores o desarrolladores de vivienda o industriales, al momento de construir las instalaciones y conexiones de agua potable y alcantarillado de conformidad con el Artículo 83 de la Ley de Agua para el Estado de Aguascalientes; a efecto de que las redes de distribución o captación de aguas, sean las necesarias para el crecimiento ordenado de los centros de población, de acuerdo a la planeación Municipal.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 79 Bis.
+
+Por carta hídrica se debe entender el documento que derivado del empleo de productos cartográficos y dispositivos informáticos, compile el conjunto de datos concentrados por las dependencias u órganos de los gobiernos municipales, sobre la ubicación de los mantos acuíferos y su capacidad, tipo y características de las redes de agua potable, de la red de alcantarillado, colectores de agua pluvial, pozos y su nivel de abatimiento, así como zonas de aprovechamiento de fallas geológicas para captación de agua pluvial.
+
+La Carta Hídrica tiene por objeto que los usuarios, fraccionadores y desarrolladores, que soliciten autorización de proyectos de acuerdo a la Ley de Agua del Estado, conozcan la situación real de las redes y de los acuíferos de los que se abastece una zona en espeoífico (sic), y se tomen en consideración que necesidades se presentarán a futuro en el nuevo proyecto y evitar con ello el desabasto, insuficiencia u obsolescencia de la red, procurando que la información con la que se cuenta constituya un crecimiento sustentable de las redes. La información de la Carta Hídrica, deberá ser la referencia para cualquier autorización de proyecto o factibilidad.
+
+El documento solicitado por los usuarios, fraccionadoras, urbanizadoras y desarrolladoras, con independencia de la información contenida en las factibilidades solicitadas, deberá contener como mínimo la siguiente información:
+
+I.- Estructura de la red de agua potable;
+
+II.- Estructura de la red de alcantarillado;
+
+III.- Estructura de la red de captación de agua pluvial;
+
+IV.- Cuerpos de agua existentes en cada municipio;
+
+V.- Pozos y su nivel de abatimiento;
+
+VI.- Capacidad de recarga de los Acuíferos; y
+
+VII.- Zonas de aprovechamiento de aguas pluviales, para recarga de mantos acuíferos.
 
 ###### Artículo 80.
 
@@ -2400,3 +2428,11 @@ P.O. 16 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 328.- SE ADICIONA EL ARTÍCULO 79, Y UN ARTÍCULO 79 BIS A LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
