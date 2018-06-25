@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2018-04-16"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -393,7 +393,9 @@ VIII. Participar en la ejecución de las acciones para el resguardo de las insta
 
 IX. Determinar la participación de la comunidad y de instituciones académicas para coadyuvar en los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces; y
 
-X. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes.
+> <small>(REFORMADA, P. O. 25 DE JUNIO DE 2018)</small>
+
+X. Fortalecer las remuneraciones y prestaciones de los integrantes de las Instituciones Policiales del Estado y de los municipios, así como los sistemas de seguridad social de los servidores públicos, sus familias y dependientes.
 
 ###### Artículo 22.
 
@@ -633,7 +635,9 @@ VII. De policía procesal.
 
 Son derechos de los integrantes de las Instituciones de Seguridad Pública, los siguientes:
 
-I. Percibir un salario remunerador conforme a su rango y el presupuesto que corresponda;
+> <small>(REFORMADA, P. O. 25 DE JUNIO DE 2018)</small>
+
+l. Percibir un salario remunerador conforme a su rango, responsabilidad en el ejercicio de las atribuciones establecidas en la Ley, y el presupuesto que corresponda;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -2256,3 +2260,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Sistema Local de Protección, adecuará sus lineamientos con el presente Decreto, en un plazo no mayor de 90 días naturales, contados a partir de la publicación del mismo.
+
+P. O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 331.- SE REFORMAN LOS ARTÍCULOS 21 Y 40 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) en Periódico Oficial del Estado.
