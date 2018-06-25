@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2018-05-24"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -168,9 +168,9 @@ Las concesiones se otorgarán hasta por un plazo de treinta años, las cuales po
 
 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 60 días naturales contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Las concesiones que se otorguen para construir, conservar y mantener los caminos y puentes federales, podrán solicitar en sus características de construcción que se emplee caucho reciclado proveniente de neumáticos usados.
+Para otorgar las concesiones a las que el presente artículo se refiere, la Secretaría podrá requerir la utilización de materiales reciclados, así como el uso de energías renovables, y en general, toda clase de medidas sustentables y que contribuyan con la protección al medio ambiente.
 
 > <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2016)</small>
 
@@ -1145,3 +1145,9 @@ D.O.F. 24 DE MAYO DE 2018.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Ejecutivo Federal deberá adecuar sus normas reglamentarias y disposiciones administrativas de la materia de conformidad con el presente Decreto, en un plazo no mayor a noventa días naturales a la entrada en vigor del presente Decreto.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 6o. DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
