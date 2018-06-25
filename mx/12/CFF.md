@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2018-06-01"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2017.
 
@@ -3528,19 +3528,25 @@ Las autoridades fiscales asistirán en el cobro y recaudación de los impuestos 
 
 En el caso en que el impuesto y sus accesorios a que se refiere este artículo sean pagados en moneda nacional, será aplicable el tipo de cambio vigente al momento en que se efectúa el pago.
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 69-B.
 
 Cuando la autoridad fiscal detecte que un contribuyente ha estado emitiendo comprobantes sin contar con los activos, personal, infraestructura o capacidad material, directa o indirectamente, para prestar los servicios o producir, comercializar o entregar los bienes que amparan tales comprobantes, o bien, que dichos contribuyentes se encuentren no localizados, se presumirá la inexistencia de las operaciones amparadas en tales comprobantes.
 
-En este supuesto, procederá a notificar a los contribuyentes que se encuentren en dicha situación a través de su buzón tributario, de la página de internet del Servicio de Administración Tributaria, así como mediante publicación en el Diario Oficial de la Federación, con el objeto de que aquellos contribuyentes puedan manifestar ante la autoridad fiscal lo que a su derecho convenga y aportar la documentación e información que consideren pertinentes para desvirtuar los hechos que llevaron a la autoridad a notificarlos. Para ello, los contribuyentes interesados contarán con un plazo de quince días contados a partir de la última de las notificaciones que se hayan efectuado.
+En este supuesto, procederá a notificar a los contribuyentes que se encuentren en dicha situación a través de su buzón tributario, de la página de Internet del Servicio de Administración Tributaria, así como mediante publicación en el Diario Oficial de la Federación, con el objeto de que aquellos contribuyentes puedan manifestar ante la autoridad fiscal lo que a su derecho convenga y aportar la documentación e información que consideren pertinentes para desvirtuar los hechos que llevaron a la autoridad a notificarlos. Para ello, los contribuyentes interesados contarán con un plazo de quince días contados a partir de la última de las notificaciones que se hayan efectuado.
 
-Transcurrido dicho plazo, la autoridad, en un plazo que no excederá de cinco días, valorará las pruebas y defensas que se hayan hecho valer; notificará su resolución a los contribuyentes respectivos a través del buzón tributario y publicará un listado en el Diario Oficial de la Federación y en la página de internet del Servicio de Administración Tributaria, únicamente de los contribuyentes que no hayan desvirtuado los hechos que se les imputan y, por tanto, se encuentran definitivamente en la situación a que se refiere el primer párrafo de este artículo. En ningún caso se publicará este listado antes de los treinta días posteriores a la notificación de la resolución.
+Los contribuyentes podrán solicitar a través del buzón tributario, por única ocasión, una prórroga de cinco días al plazo previsto en el párrafo anterior, para aportar la documentación e información respectiva, siempre y cuando la solicitud de prórroga se efectúe dentro de dicho plazo. La prórroga solicitada en estos términos se entenderá concedida sin necesidad de que exista pronunciamiento por parte de la autoridad y se comenzará a computar a partir del día siguiente al del vencimiento del plazo previsto en el párrafo anterior.
+
+Transcurrido el plazo para aportar la documentación e información y, en su caso, el de la prórroga, la autoridad, en un plazo que no excederá de cincuenta días, valorará las pruebas y defensas que se hayan hecho valer y notificará su resolución a los contribuyentes respectivos a través del buzón tributario. Dentro de los primeros veinte días de este plazo, la autoridad podrá requerir documentación e información adicional al contribuyente, misma que deberá proporcionarse dentro del plazo de diez días posteriores al en que surta efectos la notificación del requerimiento por buzón tributario. En este caso, el referido plazo de cincuenta días se suspenderá a partir de que surta efectos la notificación del requerimiento y se reanudará el día siguiente al en que venza el referido plazo de diez días. Asimismo, se publicará un listado en el Diario Oficial de la Federación y en la página de Internet del Servicio de Administración Tributaria, de los contribuyentes que no hayan desvirtuado los hechos que se les imputan y, por tanto, se encuentran definitivamente en la situación a que se refiere el primer párrafo de este artículo. En ningún caso se publicará este listado antes de los treinta días posteriores a la notificación de la resolución.
 
 Los efectos de la publicación de este listado serán considerar, con efectos generales, que las operaciones contenidas en los comprobantes fiscales expedidos por el contribuyente en cuestión no producen ni produjeron efecto fiscal alguno.
 
-Las personas físicas o morales que hayan dado cualquier efecto fiscal a los comprobantes fiscales expedidos por un contribuyente incluido en el listado a que se refiere el párrafo tercero de este artículo, contarán con treinta días siguientes al de la citada publicación para acreditar ante la propia autoridad, que efectivamente adquirieron los bienes o recibieron los servicios que amparan los citados comprobantes fiscales, o bien procederán en el mismo plazo a corregir su situación fiscal, mediante la declaración o declaraciones complementarias que correspondan, mismas que deberán presentar en términos de este Código.
+La autoridad fiscal también publicará en el Diario Oficial de la Federación y en la página de Internet del Servicio de Administración Tributaria, trimestralmente, un listado de aquellos contribuyentes que logren desvirtuar los hechos que se les imputan, así como de aquellos que obtuvieron resolución o sentencia firmes que hayan dejado sin efectos la resolución a que se refiere el cuarto párrafo de este artículo, derivado de los medios de defensa presentados por el contribuyente.
+
+Si la autoridad no notifica la resolución correspondiente, dentro del plazo de cincuenta días, quedará sin efectos la presunción respecto de los comprobantes fiscales observados, que dio origen al procedimiento.
+
+Las personas físicas o morales que hayan dado cualquier efecto fiscal a los comprobantes fiscales expedidos por un contribuyente incluido en el listado a que se refiere el párrafo cuarto de este artículo, contarán con treinta días siguientes al de la citada publicación para acreditar ante la propia autoridad, que efectivamente adquirieron los bienes o recibieron los servicios que amparan los citados comprobantes fiscales, o bien procederán en el mismo plazo a corregir su situación fiscal, mediante la declaración o declaraciones complementarias que correspondan, mismas que deberán presentar en términos de este Código.
 
 En caso de que la autoridad fiscal, en uso de sus facultades de comprobación, detecte que una persona física o moral no acreditó la efectiva prestación del servicio o adquisición de los bienes, o no corrigió su situación fiscal, en los términos que prevé el párrafo anterior, determinará el o los créditos fiscales que correspondan. Asimismo, las operaciones amparadas en los comprobantes fiscales antes señalados se considerarán como actos o contratos simulados para efecto de los delitos previstos en este Código.
 
@@ -9435,3 +9441,11 @@ Para efectos de la emisión de las reglas relativas a los controles volumétrico
 Cuarto. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.
 
 Quinto. Para efectos de lo dispuesto en el artículo 22 de la Ley del Impuesto sobre la Renta vigente o de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 69-B DEL CÓDIGO FISCAL DE LA FEDERACIÓN”.]
+
+Primero. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las normas jurídicas vigentes en el momento de su inicio.
