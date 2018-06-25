@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2018-06-07"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -1951,6 +1951,52 @@ Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las p
 
 La Comisión promoverá directamente o en coordinación con las dependencias federales y estatales competentes que los productores y agrupaciones agrícolas realicen un uso racional y con apego a las disposiciones aplicables de los plaguicidas y fertilizantes, propiciando el aprovechamiento y conservación del suelo.
 
+> <small>(ADICIONADO, B. O. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 143 BIS.- A fin de proteger el medio ambiente en el Estado, las personas físicas o morales que otorguen bolsas de plástico a título gratuito, de manera onerosa o por cualquier acto comercial, para la transportación, carga o traslado de productos vendidos, deberán garantizar:
+
+I.- Que en su composición cuenten al menos con 10% de plástico reciclado. Quedando exentos empaques, embalajes, bolsas primarias y bolsas utilizadas para alimentos frescos;
+
+II.- Que las bolsas de plástico tengan impreso logotipo o identificación de reciclado considerando el código correspondiente;
+
+III.- Que cuando el establecimiento opte por otorgar bolsas elaboradas con material biodegradable, o que contengan aditivos que aceleran su proceso de degradación, deberán contar con un distintivo que especifique el tipo de aditivo integrado en el proceso de producción de la bolsa, así mismo, contar con evidencia de que los residuos resultantes del proceso de degradación de las bolsas de plástico con aditivo degradante no tienen características de toxicidad.
+
+Las especificaciones o características de las evidencias que garanticen el cumplimiento del presente artículo serán establecidas en el reglamento correspondiente de esta Ley.
+
+> <small>(ADICIONADO, B. O. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 143 BIS 1.- La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, implementará un programa estatal de minimización, reuso y reciclaje de residuos plásticos que al menos contendrá:
+
+I.- Campañas de difusión y concientización a los diferentes sectores de la sociedad sobre el manejo apropiado de los residuos plásticos en general, estableciendo que éstos deben ser reciclados o confinados y no dispuestos en el entorno;
+
+II.- Estrategias administrativas y de gestión para el fomento y establecimiento de procesos para selección, clasificación, acopio y transporte de residuos plásticos con objeto de reciclaje, que propicien que el plástico que no se confine, sea valorizado y se recicle; y
+
+III.- Cursos o talleres de educación y capacitación sobre la normatividad ambiental aplicable al manejo integral de residuos, con énfasis en la gestión de nuevas unidades de negocio en materia de reciclaje de plásticos.
+
+> <small>(ADICIONADO, B. O. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 143 BIS 2.- Los Ayuntamientos, tendrán facultades para verificar que en los supermercados, autoservicios, almacenes y comercios en general, no se utilicen bolsas de polietileno u otro material plástico, que no cumplan las condiciones establecidas en el artículo 143 BIS de esta Ley.
+
+Así como también para verificar en fábricas y centros de distribución, que no se vendan, almacenen y distribuyan bolsas de polietileno u otro material plástico, que no cumplan las condiciones establecidas en el artículo 143 BIS de esta Ley.
+
+> <small>(ADICIONADO, B. O. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 143 BIS 3.- La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, deberá crear un Registro Estatal de Fabricantes y Distribuidores de bolsas biodegradables en el que deberán inscribirse todas las personas físicas y morales que fabriquen o comercialicen dichas bolsas, quienes deberán contar, con un certificado anual de degradabilidad o biodegradabilidad de sus productos, expedida o avalada por la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
+> <small>(ADICIONADO, B. O. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 143 BIS 4.- A las personas físicas o morales que incumplan con lo previsto en el artículo 143 Bis se les aplicará una multa de 50 a 100 Unidades de Medida y Actualización diarias, así como el decomiso de las bolsas.
+
+En caso de reincidencia, se duplicará la multa señalada en el párrafo anterior.
+
+> <small>(ADICIONADO, B. O. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 143 BIS 5.- Al que viole lo dispuesto en el artículo 143 BIS 3, se le aplicarán las siguientes sanciones:
+
+I.- Multa de 15 a 30 Unidades de Medida y Actualización diarias, al fabricante o distribuidor que no se encuentre inscrito en el Registro Estatal de Fabricantes y Distribuidores de bolsas biodegradables; o
+
+II.- Multa de 50 a 70 Unidades de Medida y Actualización diarias, al fabricante o distribuidor que no cuente con el certificado anual de degradabilidad o biodegradabilidad de sus productos.
+
 ### CAPÍTULO IV. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN POR RESIDUOS
 
 #### SECCIÓN II. DE LOS CRITERIOS PARA EL MANEJO INTEGRAL DE RESIDUOS
@@ -2836,3 +2882,11 @@ B.O. 7 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta (sic) Oficial del Estado.
+
+B.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 225, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los doce meses contado (sic) a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
