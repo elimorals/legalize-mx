@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2018-06-07"
+last_updated: "2018-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -285,7 +285,7 @@ La educación que se imparta en las escuelas deberá vincularse activa y constan
 
 El fin primordial del proceso educativo es la formación humana del alumno. Para que éste logre el desarrollo armónico de su personalidad debe asegurársele la participación activa en dicho proceso.
 
-Para el logro de una formación humana integral debe estimularse el sentido de responsabilidad social a través de la participación ciudadana, el cuidado de su entorno, la práctica del deporte o estímulo del espíritu creativo a través del arte y la cultura; Además, deberá motivar su capacidad para interactuar entre si y su entorno, teniendo para ello que promover la cultura de la paz.
+Para el logro de una formación humana integral debe estimularse el sentido de responsabilidad social a través de la participación ciudadana, el cuidado de su entorno, la práctica del deporte o estimulo del espíritu creativo a través del arte y la cultura; Además, deberá motivar su capacidad para interactuar entre si y su entorno, teniendo para ello que promover la cultura de la paz.
 
 > <small>(ADICIONADO, B.O. 25 DE ENERO DE 2018)</small>
 
@@ -297,7 +297,7 @@ ARTÍCULO 22 BIS 1.- Para la prestación de servicios psicológicos y de orienta
 
 I.- Focalizar la atención en comunidades escolares que sean detectadas como de riesgo por conductas de violencia, deserción escolar o de atención prioritaria por dificultades cognitivas mediante la elaboración de diagnósticos;
 
-II.- Establecer modelos de intervención unificados a través de criterios profesionales que permitan atender y orientar correctamente a los alumnos o comunidades escolares; estos modelos deberán ser representados en lineamientos o documentos administrativos que permitan una correcta gestión del capital humano;
+II.- Establecer modelos de intervención unificados a través de criterios profesionales que permitan atender y orientar correctamente a los alumnos o comunidades escolares, estos modelos deberán ser representados en lineamientos o documentos administrativos que permitan una correcta gestión del capital humano;
 
 III.- Crear indicadores que detecten en función de comportamientos, incidentes o demás elementos que se consideren necesarios, las escuelas o comunidades escolares que requieran el programa de prestación de servicios psicológicos y de orientación escolar;
 
@@ -335,9 +335,9 @@ Para tal efecto se procurará que los padres, o quienes tenga la patria potestad
 
 VI.- Coordinarse con la Secretaría de Salud para implementar programas y ejecutar cursos de prevención de accidentes y primeros auxilios para los alumnos y para el personal que labora en las escuelas de educación básica;
 
-VII.- Coordinarse con el Congreso del Estado, a través de su Comisión de Educación y Cultura, para establecer las bases del otorgamiento de la “Medalla al Mérito Estudiantil” a los estudiantes sonorenses en los niveles de primaria, secundaria y media superior que hayan destacado académicamente y en las áreas de liderazgo, con el fin de premiar sus esfuerzos y reconocer sus méritos ante la comunidad.
+VII.- Coordinarse con el Congreso del Estado, a través de su Comisión de Educación y Cultura, para establecer las bases del otorgamiento de la "Medalla al Mérito Estudiantil" a los estudiantes sonorenses en los niveles de primaria, secundaria y media superior que hayan destacado académicamente y en las áreas de liderazgo, con el fin de premiar sus esfuerzos y reconocer sus méritos ante la comunidad.
 
-Junto con la “Medalla al Mérito Estudiantil” se entregará un apoyo económico o en especie, a elección del estudiante ganador, de acuerdo con las bases que se establezcan para ese fin;
+Junto con la "Medalla al Mérito Estudiantil" se entregará un apoyo económico o en especie, a elección del estudiante ganador, de acuerdo con las bases que se establezcan para ese fin;
 
 VIII.- Autorizar, previa verificación del cumplimiento de los lineamientos emitidos por la Secretaría de Educación Pública del Gobierno Federal, los ajustes que realicen las escuelas al calendario escolar determinado por la autoridad educativa federal para cada ciclo lectivo de educación básica y normal y demás para la formación de maestros de educación básica;
 
@@ -393,17 +393,21 @@ XXXI.- Crear un expediente único para todo alumno que curse estudios en el Esta
 
 XXXII.- Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
 
-XXXIII.- Coordinar y operar un padrón estatal de estudiantes, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos, la Secretaría deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables; y
-
-> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
-
-XXXIV.- Coordinarse con las autoridades en materia de salud del Estado, con los municipios y las sociedades de padres de familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación secundaria y preparatoria, información veraz sobre la sexualidad, riesgos, métodos de protección, anticoncepción, la reproducción humana, la planificación familiar, así como la prevención de enfermedades de transmisión sexual y los embarazos, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, fomentando la participación, respetando el derecho primigenio, en todo momento, de quienes detenten la patria potestad o tutela; debiendo implementar para ello programas de salud sexual tanto para alumnos como para padres de familia, así como programas de desarrollo emocional, reforzamiento de autoestima, habilidades y plan de vida.
-
-Para tal efecto se procurará que los padres, o quienes tenga (sic) la patria potestad, tutela o custodia del alumno, participen activamente en los programas y acciones que para tal efecto se implementen.
+XXXIII.- Coordinar y operar un padrón estatal de estudiantes, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos, la Secretaría deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables;
 
 La Secretaría participará en la actualización e integración permanente del Sistema de Información y Gestión Educativa.
+
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+XXXIV.- Coordinarse con las autoridades en materia de salud del Estado, con los municipios y las sociedades de padres de familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación secundaria y preparatoria, información veraz sobre la sexualidad, riesgos, métodos de protección, anticoncepción, la reproducción humana, la planificación familiar, así como la prevención de enfermedades de transmisión sexual y los embarazos, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, fomentando la participación, respetando el derecho primigenio, en todo momento, de quienes detenten la patria potestad o tutela; debiendo implementar para ello programas de salud sexual tanto para alumnos como para padres 10 (sic) de familia, así como programas de desarrollo emocional, reforzamiento de autoestima, habilidades y plan de vida.
+
+Para tal efecto se procurará que los padres, o quienes tenga la patria potestad, tutela o custodia del alumno, participen activamente en los programas y acciones que para tal efecto se implementen; y
+
+> <small>(ADICIONADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+XXXV.- Coordinarse con la Comisión del Deporte del Estado de Sonora, para fortalecer los sistemas de transporte escolar que permitan materializar apoyos para la transportación de deportistas a través de los recursos materiales y humanos de dichos sistemas, en aquellos casos en los que no se afecte la transportación escolar gratuita a que se hace referencia en el segundo párrafo del artículo 74 de la presente Ley.
 
 ###### ARTÍCULO 25.
 
@@ -933,6 +937,10 @@ Los servicios de la educación que en los términos de esta Ley se impartan, deb
 
 Con ese propósito, el Ejecutivo Estatal deberá incluir en el proyecto de Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal que corresponda, que presente al Congreso del Estado, recursos suficientes que le permitan atender la transportación escolar gratuita de aquellos estudiantes cuyo domicilio se encuentre ubicado en una comunidad que no cuente con el plantel de educación básica que le corresponda de acuerdo a su edad y preparación escolar y que, por su misma lejanía, al residir en un centro poblacional distinto al de (sic) escuela a la que debería asistir, no cuente con acceso a los medios de transporte que están a disposición de los estudiantes que habitan la misma comunidad en que se localiza el plantel escolar respectivo.
 
+> <small>(ADICIONADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+Cuando las unidades de transporte escolar no se utilicen para atender la transportación escolar descrita en el párrafo anterior, podrán utilizarse para apoyar la transportación de deportistas que cursen la educación escolar básica, dando preferencia a aquellos deportistas que pertenezcan a comunidades rurales que no cuenten con medios para transportarse, en términos del convenio de coordinación que celebre la Secretaría con la Comisión del Deporte del Estado de Sonora, para esos efectos.
+
 ###### ARTÍCULO 79.
 
 El Ejecutivo del Estado deberá incluir en la iniciativa que presente al Congreso del Estado de proyecto de presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal que corresponda, la relación de todas aquellas poblaciones que no cuenten con alguna de las escuelas públicas del nivel básico y que, por su misma lejanía, tengan necesidad de contar con transportación escolar de sus estudiantes, a una población distinta a la que habitan; así como el número de escuelas, el nombre oficial, clave del centro de trabajo y ubicación, detallando el monto que será aplicado en cada una de ellas por concepto de transporte escolar, en relación al número de alumnos que habrán de transportarse y la lejanía del plantel escolar con la comunidad de origen de sus alumnos.
@@ -940,6 +948,10 @@ El Ejecutivo del Estado deberá incluir en la iniciativa que presente al Congres
 Estos recursos serán aplicados a través del Programa de Transporte Escolar de la Secretaría y no deberán destinarse a otro fin distinto al de transporte escolar de los estudiantes que tengan necesidad de este servicio, por las razones que se describen en el segundo párrafo del artículo anterior.
 
 El servicio de transporte escolar gratuito será prestado con los recursos materiales y humanos con que cuente la Secretaría, o por medio de convenio con los sistemas de transporte escolar establecido por particulares, las mismas escuelas o la sociedad de padres de familia del plantel que corresponda, por lo que no se cobrará cuota alguna que tenga la finalidad de financiar este servicio, ya sea de manera directa o indirecta.
+
+> <small>(ADICIONADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+Sin perjuicio de lo establecido en este artículo, los recursos materiales y humanos para la prestación del servicio de transporte escolar, podrán ser utilizados para la transportación de deportistas a que se refiere el párrafo tercero del artículo anterior.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -1238,3 +1250,15 @@ B.O. 7 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 224, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA Y A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría y la Comisión del Deporte del Estado de Sonora, cuentan con 90 días a partir de la publicación del presente Decreto, para celebrar el convenio señalado en el párrafo tercero del artículo 78 de la Ley de Educación para el Estado de Sonora.
