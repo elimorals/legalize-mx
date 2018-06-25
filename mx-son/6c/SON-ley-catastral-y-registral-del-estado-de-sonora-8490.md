@@ -4,7 +4,7 @@ identifier: "SON-ley-catastral-y-registral-del-estado-de-sonora-8490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2017-08-03"
+last_updated: "2018-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -1079,9 +1079,11 @@ Además de los documentos relativos a los Registros Inmobiliario, Mobiliario, de
 
 I.- El auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo, tanto en los intestados como en las testamentarias y, cuando lo haya, el auto de reconocimiento de legatarios;
 
-II.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes; y
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
 
-III.- Los demás documentos que esta Ley y demás disposiciones legales aplicables ordenen expresamente que sean registrados y que no correspondan a los otros registros señalados en la primera parte de este articulo.
+II.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes; el Certificado del Registro de Deudores Alimentarios Morosos a que se refiere el artículo 28 de la Ley del Registro Civil para el Estado de Sonora; y
+
+III.- Los demás documentos que esta Ley y demás disposiciones legales aplicables ordenen expresamente que sean registrados y que no correspondan a los otros registros señalados en la primera parte de este artículo.
 
 ### CAPITULO X. DEL REGISTRO DE DOCUMENTOS RELACIONADOS CON EL DESARROLLO URBANO
 
@@ -1404,3 +1406,11 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 231, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA Y DE LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
