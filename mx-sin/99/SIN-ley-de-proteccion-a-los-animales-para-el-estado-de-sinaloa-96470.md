@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-a-los-animales-para-el-estado-de-sinaloa-9647
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-04"
-last_updated: "2017-01-25"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 4 de noviembre de 2013.
 
@@ -111,7 +111,7 @@ VII. Animal de exhibición: Todos aquellos que se encuentran en cautiverio en zo
 
 VIII. Animal feral: El animal doméstico que al quedar fuera del control del ser humano se establece en el hábitat natural de la vida silvestre, así como sus descendientes nacidos en este hábitat;
 
-IX. Animal guía: Los animales que son utilizados o adiestrados para ayudar al desarrollo de las personas con cualquier tipo de discapacidad;
+IX. (DEROGADA, P.O. 25 DE JUNIO DE 2018)
 
 X. Animal silvestre: Especies no domésticas sujetas a procesos evolutivos y que se desarrollan en su hábitat o poblaciones e individuos de éstas que se encuentran bajo el control del ser humano;
 
@@ -158,6 +158,10 @@ XXX. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda o
 XXXI. Mascotas: Animales domésticos y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
 
 XXXII. Permiso: Anuencia otorgada para la realización de espectáculos, exhibiciones, exposiciones o cualquier otra actividad análoga;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+XXXII Bis. Perros guía o animales de servicio: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
 XXXIII. Plaga: Población excesiva de alguna especie animal que tiene un efecto dañino sobre el medio ambiente, otras poblaciones animales o el ser humano;
 
@@ -215,11 +219,15 @@ I. Promover en coordinación con el Gobierno Federal y los Ayuntamientos, el est
 
 II. Propiciar la participación de los sectores privado y social en la difusión y fomento de una cultura de respeto y trato digno hacia los animales en el Estado de Sinaloa;
 
-III. Impulsar la elaboración e instrumentación de programas de educación en materia de protección y trato digno a los animales, en coordinación con las autoridades educativas y de salud, y en su caso con la participación de las asociaciones y organizaciones no gubernamentales legalmente constituidas, cuyo objeto tenga relación con los preceptos de la presente Ley;
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2018)</small>
 
-IV. Fomentar la creación de sociedades, asociaciones o grupos de protección de animales, y
+III. Fomentar el respeto y el libre acceso de los perros guía o animales de servicio a los espacios en general, independientemente de su carácter público o privado;
 
-V. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
+IV. Impulsar la elaboración e instrumentación de programas de educación en materia de protección y trato digno a los animales, en coordinación con las autoridades educativas y de salud, y en su caso con la participación de las asociaciones y organizaciones no gubernamentales legalmente constituidas, cuyo objeto tenga relación con los preceptos de la presente Ley;
+
+V. Fomentar la creación de sociedades, asociaciones o grupos de protección de animales, y
+
+VI. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -261,9 +269,13 @@ VIII. Crear, de acuerdo a su posibilidad presupuestal, albergues, reservorios o 
 
 IX. Inspeccionar los establecimientos mercantiles que exploten giros relacionados con el uso, transporte, adiestramiento, venta o aprovechamiento de animales;
 
-X. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto, y
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2018)</small>
 
-XI. Las demás que por disposición legal le correspondan.
+X. Promover el libre acceso de los perros guía o animales de servicio a los espacios en general, independientemente de su carácter público o privado;
+
+XI. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto; y
+
+XII. Las demás que por disposición legal le correspondan.
 
 ### CAPÍTULO III. DE LA CULTURA PARA LA PROTECCIÓN A LOS ANIMALES
 
@@ -864,3 +876,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Municipios del Estado, por conducto de sus Ayuntamientos, en el ámbito de sus respectivas competencias deberán adecuar su normatividad para dar cumplimiento al presente Decreto, en un plazo que no exceda de noventa días naturales posteriores a su publicación.
 
 TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 562 DEL H. CONGRESO DEL ESTADO.- SE ADICIONAN A LOS ARTÍCULOS 3, LA FRACCIÓN XXXII BIS; 8, LA FRACCIÓN III, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; Y 10, LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, SE DEROGA AL ARTÍCULO 3, LA FRACCIÓN IX TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
