@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-772
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-27"
-last_updated: "2010-10-27"
+last_updated: "2018-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE ANGAMACUTIRO, MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE ANGAMACUTIRO, PUBLICADO EN EL P.O. DE 25 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE ANGAMACUTIRO, MICHOACAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 27 de octubre de 2010.
 
@@ -252,3 +254,29 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Comisionado Presidente de la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán de Ocampo, para su conocimiento y efectos legales conducentes.
 
 Angamacutiro de la Unión, Michoacán de Ocampo, a los 6 días del mes de junio del 2008 dos mil ocho. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE ANGAMACUTIRO”.]
+
+Primero. Se abroga el Reglamento para Ejercer el Derecho a la Información ante el H. Ayuntamiento de Angamacutiro.
+
+Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Tercero. El Comité de Transparencia se instalará con base en lo establecido en el Reglamento, dentro de los diez días hábiles siguientes a la entrada en vigor del presente ordenamiento.
+
+Los Sujetos Obligados señalados en las fracciones II, III, IV y V del artículo 6 del Reglamento que así lo determinen, iniciarán dentro de los quince primeros días hábiles siguiente (sic) a la entrada en vigor del presente ordenamiento las gestiones para que mediante Convenio de Adhesión se integren al Comité de Transparencia del Ayuntamiento, y especificarán en él si recibirán el apoyo del Enlace Municipal de Transparencia del Ayuntamiento, como lo establecen las fracciones IV y V del artículo 27 del Reglamento.
+
+El titular del Sujeto Obligado del Ayuntamiento notificará al Instituto la instalación del Comité de Transparencia, y de los Convenios de Adhesión celebrados con base en el presente ordenamiento, dentro de los cinco días hábiles siguientes a su instalación o adhesión.
+
+Cuarto. El Enlace Municipal y los titulares de las Unidades Administrativas de los Sujetos Obligados señalados en las fracciones II, III, IV y V del artículo 6 del Reglamento elaborarán, dentro de los 20 días hábiles siguientes a la entrada en vigor del presente ordenamiento, un Programa de Instrumentación y Aplicación, Gradual y Calendarizado con base su Disponibilidad Presupuestal, sobre las nuevas disposiciones del Reglamento.
+
+El programa será presentado al Enlace Municipal, quien a su vez lo turnará al Pleno del Comité para su conocimiento.
+
+Quinto. Los integrantes del Sistema Municipal de Transparencia para un Gobierno Abierto, con base en la disponibilidad presupuestal, definirán y pondrán en operación un programa piloto con al menos alguno de los programas del Sistema dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Ordenamiento.
+
+Sexto. El Comité de Transparencia, en colaboración con la Contraloría Municipal y la Comisión Edilicia de Transparencia, apoyándose de una instancia externa, realizará una evaluación de la instrumentación del presente, ordenamiento a los doce meses de su entrada en vigor, y con base en los resultados, considerará la pertinencia de los ajustes o adecuaciones que haya lugar.
+
+Séptimo. Se derogan todas las disposiciones municipales que se opongan al presente Ordenamiento.
