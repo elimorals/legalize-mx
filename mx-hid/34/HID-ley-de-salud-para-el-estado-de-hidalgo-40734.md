@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2018-05-07"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -169,13 +169,17 @@ XXVIII.- El tratamiento integral del dolor;
 
 XXVIII Bis.- Los cuidados paliativos a las personas enfermas en situación terminal.
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
 
-XXIX.- El fomento de la metodología de 5 pasos por tu salud en cada familia como una herramienta útil en la adquisición de hábitos saludables.; (sic) y
+XXIX.- El fomento de la metodología de 5 pasos por tu salud en cada familia como una herramienta útil en la adquisición de hábitos saludables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
 
-XXX.- Las demás que establezca la Ley General de Salud y otras disposiciones legales aplicables.
+XXX.- Establecer y promover acciones encaminadas a la prevención, tratamiento y fortalecimiento de programas de detección oportuna de cáncer; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+XXXI.- Las demás que establezca la Ley General de Salud y otras disposiciones legales aplicables.
 
 B.- EN MATERIA DE SALUBRIDAD GENERAL, CON FACULTADES CONCEDIDAS POR ACUERDOS DE COORDINACIÓN:
 
@@ -2010,3 +2014,9 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Ejecutivo Estatal contemplará una partida especial para el cumplimiento del presente Decreto, en los presupuestos para el ejercicio de cada año fiscal, a partir de su entrada en vigor.
 
 Tercero. El Ejecutivo Estatal expedirá los reglamentos y normatividad administrativa aplicable para el cumplimiento del presente Decreto, a más tardar 180 días a partir de su publicación en el Periódico Oficial.
+
+P.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL APARTADO A DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
