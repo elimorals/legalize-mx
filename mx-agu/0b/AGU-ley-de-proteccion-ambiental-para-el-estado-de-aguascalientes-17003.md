@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2017-12-25"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -1161,11 +1161,31 @@ El Reglamento respectivo de la presente Ley señalará las reglas conforme a las
 
 La Secretaría en coordinación con el Instituto de Educación de Aguascalientes y de manera vinculada con la Secretaría de Medio Ambiente y Recursos Naturales, promoverán la creación de un Programa Estatal de Educación Ambiental. Para ello, promoverán, certificarán y reforzarán la incorporación de actividades didácticas y contenidos en materia ambiental y manejo sustentable de recursos naturales dentro de los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud, como una práctica educativa integrada, continua y permanente. Asimismo, adoptarán las medidas y estrategias necesarias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno, particularmente, en lo relativo a pautas de consumo, utilizando para ello los medios de comunicación masiva.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 25 DE JUNIO DE 2018)</small>
 
-La Secretaría, en coordinación con el Instituto de Educación de Aguascalientes, fomentará y otorgará diversos incentivos a fin de que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, establezcan programas académicos con el objeto de fomentar la formación de especialistas en la materia, la capacitación de personal técnico y directivo, además de la investigación de las causas y fenómenos ambientales.
+El programa estatal de Educación Ambiental a que se refiere el párrafo anterior deberá incluir al menos los siguientes aspectos:
 
-Las autoridades competentes promoverán, certificarán y reforzarán que los programas de educación técnica, licenciatura y posgrado, contengan en sus procesos curriculares los conocimientos y habilidades necesarias, a efecto de que los egresados de los mismos hayan adquirido las aptitudes que prevengan, mitiguen y corrijan los impactos ambientales que cause el ejercicio de su práctica profesional.
+I. Forestación y reforestación en lugares públicos parques recreativos y zonas que establezcan la Secretaria, el Instituto de Educación de Aguascalientes y la Secretaría de Medio Ambiente y Recursos Naturales;
+
+II. Cuidado del agua;
+
+III. Clasificación de residuos sólidos urbanos establecidos por la Secretaria de Medio Ambiente y Recursos Naturales;
+
+IV. Reciclaje; y
+
+V. Disminución de la generación de residuos.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+Asimismo, adoptaran las medidas y estrategia (sic) necesarias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno, particularmente, en lo relativo a pautas de consumo, utilizando para ello los medios de comunicación masiva.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+La Secretaría, en coordinación con el Instituto de Educación, fomentara y otorgara diversos incentivos a fin de que las instituciones de Educación superior y los organismos dedicados a la investigación científica y tecnológica, establezcan programas académicos con el objeto de fomentar la formación de especialistas en la materia, la capacitación de personal técnico y directivo, además de la investigación de las causas y fenómenos ambientales.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+La (sic) autoridades competentes promoverán, certificaran y reforzaran que los programas de educación técnica, licenciatura y posgrado, contengan en sus procesos curriculares los conocimientos y habilidades necesarias, a efectos de que los egresados de los mismos hayan adquirido las aptitudes que prevengan, mitiguen y corrijan los impactos ambientales que cause el ejercicio de su práctica profesional.
 
 La educación ambiental, en cualquiera de sus modalidades, deberá basar sus contenidos en la agenda de prioridades de la problemática ambiental local.
 
@@ -2475,13 +2495,17 @@ II. Las emisiones de contaminantes a la atmósfera, provenientes de cualquier ti
 
 III. Al Estado, a los Municipios y a la sociedad les corresponde la protección de la calidad del aire;
 
-IV. Considerar programas de reforestación, verificación de las emisiones contaminantes, desarrollo de tecnologías limpias apegadas a criterios ambientales y protección del suelo en busca de la ecoeficiencia, a fin de mantener la integridad de los componentes de la atmósfera;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+IV. Considerar programas de reforestación, verificación de las emisiones contaminantes, desarrollo y aplicación de tecnologías limpias apegadas a criterios ambientales y protección del suelo en busca de la ecoeficiencia, a fin de mantener la integridad de los componentes de la atmósfera;
 
 V. La conservación y el aprovechamiento sustentable de la atmósfera, es responsabilidad concurrente de las autoridades y ciudadanos;
 
 VI. La planeación y desarrollo urbano deben darse con base a criterios de desarrollo sustentable y protección al ambiente debiendo promover esquemas de vialidad que privilegie un adecuado sistema de transporte público; y
 
-VII. Las medidas necesarias para hacer frente al cambio climático deben basarse en consideraciones pertinentes de orden científico, técnico y económico y reevaluarse continuamente conforme a los avances en la materia.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+VII. Las medidas necesarias para hacer frente al cambio climático deben basarse en consideraciones pertinentes de orden científico, técnico y económico y reevaluarse continuamente conforme a los avances en la materia; priorizando la transición programada hacia fuentes de energías limpias a que se refiere la Ley de la Industria Eléctrica.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2531,17 +2555,23 @@ I. Tomar las medidas preventivas necesarias para evitar contingencias ambientale
 
 II. Integrar y mantener actualizado el inventario estatal de las fuentes emisoras de contaminantes a la atmósfera de jurisdicción estatal, coordinándose con la Federación y con los Ayuntamientos para la integración del inventario nacional;
 
-III. Regular las emisiones de los vehículos automotores en circulación dentro de la circunscripción del territorio estatal, excepto los de competencia federal; de manera coordinada con la instancia correspondiente podrá suspender la circulación vehicular en situaciones graves de contaminación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+III. Regular las emisiones de los vehículos automotores en circulación dentro de la circunscripción del territorio estatal, excepto los de competencia federal; de manera coordinada con la instancia correspondiente quién podrá suspender la circulación vehicular en situaciones graves u ostensibles de contaminación;
 
 IV. Aplicar las normas oficiales mexicanas para la prevención y control de la contaminación atmosférica, en las materias y supuestos de su competencia;
 
-V. Establecer y operar sistemas de monitoreo de la calidad del aire en la Entidad y difundir sus resultados;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+V. Establecer y operar sistemas de monitoreo de la calidad del aire en la Entidad y difundir sus (sic) mensualmente resultados;
 
 VI. Promover y apoyar técnicamente a los gobiernos municipales que lo soliciten en la formulación y aplicación de programas de gestión de calidad del aire, que tengan por objeto el cumplimiento de la normatividad aplicable, así como elaborar un programa estatal de gestión de la calidad del aire;
 
 VII. Requerir a los responsables de fuentes emisoras de contaminantes de competencia estatal, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con esta Ley, la Ley General, sus reglamentos y las Normas Oficiales Mexicanas;
 
-VIII. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de tecnologías limpias, ambientalmente compatibles y eficientes con el propósito de reducir o eliminar sus emisiones a la atmósfera;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+VIII. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de tecnologías limpias, ambientalmente compatibles y eficientes con el propósito de reducir o eliminar sus emisiones a la atmósfera; con base en los programas establecidos en la Ley y en el Plan Especial de la Transición Energética;
 
 IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen, cuando se rebasen los límites máximos permisibles;
 
@@ -3869,13 +3899,13 @@ P.O. 25 DE DICIEMBRE DE 2017.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo relativo al Inciso f) del Apartado A de la Fracción IV del Artículo 59, y el Inciso f) del Apartado A de la Fracción IV del Artículo 182, cuya (sic) contenido quedará Derogado a partir del 1° de enero de 2019.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 28/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]
+P.O. 25 DE JUNIO DE 2018.
 
-PRIMERO. El presente Acuerdo entrará en vigor el veintinueve de abril de dos mil dieciséis.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 325.- SE REFORMAN LAS FRACCIONES IV Y VII DEL ARTÍCULO 135, Y LAS FRACCIONES III, V Y VIII DEL ARTÍCULO 138. ASÍ COMO SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS, AL ARTÍCULO 50 DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES ".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-D.O.F. 13 DE MAYO DE 2016.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 17/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL CUARTO TRIBUNAL UNITARIO DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE EL REFERIDO ÓRGANO JURISDICCIONAL Y LOS TRIBUNALES UNITARIOS DEL MISMO CIRCUITO Y RESIDENCIA”.]
 
