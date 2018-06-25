@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2018-06-22"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -566,9 +566,11 @@ XIII. Las demás que le señale esta Ley.
 
 ### Capítulo IV. De la Comisión Intersecretarial de Desarrollo Social
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 51.
 
-La Comisión Intersecretarial será el instrumento de coordinación de las acciones del Ejecutivo Federal para garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Estará integrada por los titulares de las secretarías de Desarrollo Social, quien lo presidirá; Gobernación; Hacienda y Crédito Público; Educación Pública; Salud; Medio Ambiente y Recursos Naturales; Energía; Economía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Comunicaciones y Transportes; la Función Pública; Trabajo y Previsión Social; Reforma Agraria y Turismo. Podrán ser invitados a participar, con derecho a voz, los titulares de otras dependencias y entidades de la Administración Pública Federal. El Subsecretario que designe el Titular de la Secretaría será el Secretario Técnico. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
+La Comisión Intersecretarial será el instrumento de coordinación de las acciones del Ejecutivo Federal para garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Estará integrada por los titulares de las secretarías de Desarrollo Social, quien lo presidirá; Gobernación; Hacienda y Crédito Público; Educación Pública; Salud; Medio Ambiente y Recursos Naturales; Energía; Economía; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Comunicaciones y Transportes; la Función Pública; Trabajo y Previsión Social; Desarrollo Agrario, Territorial y Urbano, y Turismo. Podrán ser invitados a participar, con derecho a voz los titulares de otras dependencias y entidades de la Administración Pública Federal. El subsecretario que designe el Titular de la Secretaría será el Secretario Técnico. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
 
 ###### Artículo 52.
 
@@ -687,6 +689,10 @@ II. Los actos, hechos u omisiones denunciados;
 III. Los datos que permitan identificar a la presunta autoridad infractora, y
 
 IV. Las pruebas que en su caso ofrezca el denunciante.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+La denuncia popular podrá ser anónima, y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
 
 ### Capítulo VIII. De la Contraloría Social
 
@@ -849,3 +855,15 @@ D.O.F. 22 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 3 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 51 DE LA LEY GENERAL DE DESARROLLO SOCIAL”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 68 DE LA LEY GENERAL DE DESARROLLO SOCIAL".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
