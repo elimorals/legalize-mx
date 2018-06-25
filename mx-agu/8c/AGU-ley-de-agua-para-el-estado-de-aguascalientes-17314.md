@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2017-11-20"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -83,61 +83,69 @@ II. Alcantarillado: la red o sistema de conductos y accesorios para recolectar y
 
 III. Aguas pluviales: aquéllas que provienen de lluvias, incluyendo las que provienen de nieve y granizo;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2018)</small>
+
+IV. Carta Hídrica: Conjunto de datos concentrados por las dependencias u órganos de los gobiernos municipales, relacionados con la información relativa a la ubicación de los mantos acuíferos y su capacidad, tipo y características de las redes de agua potable, de la red de alcantarillado, colectores de agua pluvial, pozos y su nivel de abatimiento, así como zonas de aprovechamiento de fallas geológicas para captación de agua pluvial.
+
 > <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
 
-IV. Captación de aguas pluviales: a la recopilación y almacenamiento, así como en su caso, potabilización y distribución de aguas pluviales; por distintos métodos y con la ayuda de diversos instrumentos, con la finalidad de ser aprovechada tanto en zonas urbanas como rurales;
+V. Captación de aguas pluviales: a la recopilación y almacenamiento, así como en su caso, potabilización y distribución de aguas pluviales; por distintos métodos y con la ayuda de diversos instrumentos, con la finalidad de ser aprovechada tanto en zonas urbanas como rurales;
 
-V. Comunidad rural: los centros de población con menos de 2,500 habitantes;
+VI. Comunidad rural: los centros de población con menos de 2,500 habitantes;
 
-VI. Concesionario: la persona moral a la que le sean concesionados los servicios públicos de agua potable, alcantarillado o saneamiento y su reuso;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
-
-VII. Concedente: es el Gobierno Municipal, o el Gobierno del Estado, directamente o por conducto del Instituto, en el caso señalado en el Artículo 21 de esta Ley;
+VII. Concesionario: la persona moral a la que le sean concesionados los servicios públicos de agua potable, alcantarillado o saneamiento y su reúso;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-VIII. Contratistas: las personas físicas y morales que celebren un contrato con los Municipios, organismos operadores municipales o intermunicipales, el Instituto o el Estado, en los términos del Artículo 60 de esta Ley;
-
-IX. Derivación: la conexión a la instalación hidráulica de un predio para abastecer de agua a uno o más usuarios en el mismo predio;
-
-X. Descarga: las aguas residuales y pluviales que se vierten en el sistema de alcantarillado y drenaje;
-
-XI. Drenaje: sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para la conducción, desagüe y alejamiento de las aguas superficiales, residuales o pluviales;
-
-XII. Estructura tarifaria: la tabla que establece por cada tipo de usuarios y, en su caso, nivel de consumos, los precios por unidad de servicio que deberá pagar cada usuario;
-
-XIII. Instituto: el Instituto del Agua del Estado;
+VIII. Concedente: es el Gobierno Municipal, o el Gobierno del Estado, directamente o por conducto del Instituto, en el caso señalado en el Artículo 21 de esta Ley;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XIV. Prestador de los servicios: quien preste los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales, ya sean organismos operadores municipales, intermunicipales, concesionarios o contratistas del Instituto;
+IX. Contratistas: las personas físicas y morales que celebren un contrato con los Municipios, organismos operadores municipales o intermunicipales, el Instituto o el Estado, en los términos del Artículo 60 de esta Ley;
 
-XV. Proyecto Estratégico de Desarrollo: estudio a cargo del Municipio que, basado en un diagnóstico de las condiciones actuales de los sistemas de agua potable, alcantarillado y saneamiento, y tomando en cuenta las proyecciones de incremento de la demanda, tomando en cuenta la disponibilidad del recurso y en estricto apego a los planes ambientales y de desarrollo urbano, contiene la definición de las acciones que se requerirán para incrementar las eficiencias física y comercial, así como las coberturas de los servicios públicos en el corto, mediano y largo plazos, de tal manera que se asegure la continua satisfacción de las necesidades para las generaciones presentes y futuras en todos los asentamientos humanos, en cantidad y calidad, sin degradar el ambiente. Esta definición de acciones debe ser, además, económicamente viable, técnicamente factible y socialmente aceptable;
+X. Derivación: la conexión a la instalación hidráulica de un predio para abastecer de agua a uno o más usuarios en el mismo predio;
 
-XVI. Reincidencia: cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha de que se cometió o se tuvo conocimiento de la infracción precedente, siempre que ésta no hubiere sido desvirtuada;
+XI. Descarga: las aguas residuales y pluviales que se vierten en el sistema de alcantarillado y drenaje;
 
-XVII. Reuso: la utilización de las aguas residuales previamente tratadas, que cumplen con lo establecido en las Normas Oficiales Mexicanas, en la industria, el riego de áreas verdes, en la agricultura y otros usos permitidos;
+XII. Drenaje: sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para la conducción, desagüe y alejamiento de las aguas superficiales, residuales o pluviales;
 
-XVIII. Saneamiento: la conducción, tratamiento, alejamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verter dichas aguas en una corriente o depósito de propiedad nacional;
+XIII. Estructura tarifaria: la tabla que establece por cada tipo de usuarios y, en su caso, nivel de consumos, los precios por unidad de servicio que deberá pagar cada usuario;
+
+XIV. Instituto: el Instituto del Agua del Estado;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XIX. Servicios públicos: los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales;
+XV. Prestador de los servicios: quien preste los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales, ya sean organismos operadores municipales, intermunicipales, concesionarios o contratistas del Instituto;
 
-XX. Suspensión del servicio: la acción y efecto de interrumpir temporalmente el suministro de agua potable por falta de pago, derivaciones no autorizadas, uso distinto al convenido; instalar en forma no autorizada conexiones en cualquiera de las instalaciones del sistema sin estar contratadas y sin apegarse a los requisitos establecidos en la ley, por emplear mecanismos para succionar agua de las tuberías de distribución;
+XVI. Proyecto Estratégico de Desarrollo: estudio a cargo del Municipio que, basado en un diagnóstico de las condiciones actuales de los sistemas de agua potable, alcantarillado y saneamiento, y tomando en cuenta las proyecciones de incremento de la demanda, tomando en cuenta la disponibilidad del recurso y en estricto apego a los planes ambientales y de desarrollo urbano, contiene la definición de las acciones que se requerirán para incrementar las eficiencias física y comercial, así como las coberturas de los servicios públicos en el corto, mediano y largo plazos, de tal manera que se asegure la continua satisfacción de las necesidades para las generaciones presentes y futuras en todos los asentamientos humanos, en cantidad y calidad, sin degradar el ambiente. Esta definición de acciones debe ser, además, económicamente viable, técnicamente factible y socialmente aceptable;
 
-XXI. Tarifa media de equilibrio: la tarifa promedio que deberá aplicarse por cada unidad cobrada a los usuarios, para asegurar el equilibrio financiero en la prestación de los servicios;
+XVII. Reincidencia: cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha de que se cometió o se tuvo conocimiento de la infracción precedente, siempre que ésta no hubiere sido desvirtuada;
 
-XXII. Toma: conexión autorizada a la red secundaria para dar servicio de agua al predio del usuario, incluyendo el ramal, medidor volumétrico y el cuadro;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
 
-XXIII. Uso comercial y de servicios: la utilización del agua en establecimientos y oficinas, dedicadas a la compra y venta de bienes, o la prestación de servicios;
+XVIII. Reúso: la utilización de las aguas residuales previamente tratadas, que cumplen con lo establecido en las Normas Oficiales Mexicanas, en la industria, el riego de áreas verdes, en la agricultura y otros usos permitidos;
 
-XXIV. Uso industrial: la utilización de agua en fábricas, empresas o parques industriales así como la que se utiliza en calderas, en dispositivos en enfriamiento, lavado, baños y otros servicios dentro de la empresa, y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación;
+XIX. Saneamiento: la conducción, tratamiento, alejamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verter dichas aguas en una corriente o depósito de propiedad nacional;
 
-XXV. Uso doméstico: la utilización del agua potable en casa-habitación para consumo humano, la preparación de alimentos y para satisfacer las necesidades más elementales como lo son el servicio sanitario, la limpieza personal y la limpieza de bienes; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-XXVI. Usuario: la persona, física o moral que utilice los servicios públicos.
+XX. Servicios públicos: los servicios públicos de agua potable, drenaje, alcantarillado y/o saneamiento y disposición de aguas residuales;
+
+XXI. Suspensión del servicio: la acción y efecto de interrumpir temporalmente el suministro de agua potable por falta de pago, derivaciones no autorizadas, uso distinto al convenido; instalar en forma no autorizada conexiones en cualquiera de las instalaciones del sistema sin estar contratadas y sin apegarse a los requisitos establecidos en la ley, por emplear mecanismos para succionar agua de las tuberías de distribución;
+
+XXII. Tarifa media de equilibrio: la tarifa promedio que deberá aplicarse por cada unidad cobrada a los usuarios, para asegurar el equilibrio financiero en la prestación de los servicios;
+
+XXIII. Toma: conexión autorizada a la red secundaria para dar servicio de agua al predio del usuario, incluyendo el ramal, medidor volumétrico y el cuadro;
+
+XXIV. Uso comercial y de servicios: la utilización del agua en establecimientos y oficinas, dedicadas a la compra y venta de bienes, o la prestación de servicios;
+
+XXV. Uso industrial: la utilización de agua en fábricas, empresas o parques industriales así como la que se utiliza en calderas, en dispositivos en enfriamiento, lavado, baños y otros servicios dentro de la empresa, y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación;
+
+XXVI. Uso doméstico: la utilización del agua potable en casa-habitación para consumo humano, la preparación de alimentos y para satisfacer las necesidades más elementales como lo son el servicio sanitario, la limpieza personal y la limpieza de bienes; y
+
+XXVII. Usuario: la persona, física o moral que utilice los servicios públicos.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017 "A PARTIR DEL PRIMERO DE ENERO DEL AÑO DOS MIL DIECINUEVE, SE DEROGA EL TÍTULO SEGUNDO DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES EN FECHA 24 DE JULIO DE 2000, QUEDANDO EXTINTO EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DENOMINADO "INSTITUTO DEL AGUA DEL ESTADO".]</small>
 
@@ -1021,11 +1029,21 @@ La solicitud a que se refiere el artículo anterior, será resuelta por el prest
 
 Las derivaciones de toma de agua o de descarga de alcantarillado requerirán de previa autorización del proyecto o control en su ejecución por el prestador de los servicios, debiendo en todo caso contarse con las condiciones necesarias para que éste pueda cobrar las cuotas y tarifas que le correspondan por el suministro de dichos servicios.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
+
 ###### ARTICULO 83.
 
-Las fraccionadoras, urbanizadoras y desarrolladoras deberán construir por su cuenta las instalaciones y conexiones de agua potable y alcantarillado necesarias de conformidad con el proyecto autorizado por la autoridad municipal competente, atendiendo a las especificaciones del prestador de los servicios. Dichas obras, una vez que estén en operación, pasarán al patrimonio del organismo operador municipal o intermunicipal, o del Municipio, cuando en este último caso el prestador de los servicios sea un concesionario, o del Instituto.
+Las fraccionadoras, urbanizadoras y desarrolladoras deberán construir por su cuenta las instalaciones y conexiones de agua potable y alcantarillado necesarias de conformidad con el proyecto autorizado por la autoridad municipal competente, atendiendo a las especificaciones del prestador de los servicios. Dichas obras, una vez que estén en operación, pasarán al patrimonio del organismo operador municipal, intermunicipal, o del Municipio, cuando en este último caso el prestador de los servicios sea un concesionario, o de la Secretaría de Sustentabilidad, Medio Ambiente y Agua.
 
 Las fraccionadoras, urbanizadoras y desarrolladoras deberán cubrir los gastos correspondientes a la infraestructura de los servicios públicos que deban realizar los prestadores de los servicios.
+
+Las autoridades municipales, autorizaran la conexión a la red municipal de agua potable o de captación de aguas, ya sean las residuales o pluviales, de un fraccionamiento o desarrollo, ya sea habitacional o industrial, considerando la Carta Hídrica del municipio respectivo, conforme a la infraestructura hidráulica, previo dictamen técnico, de la suficiencia de este servicio.
+
+Los organismos municipales responsables de autorizar los proyectos que se refieren los párrafos anteriores, deberán autorizar el proyecto presentado en un término de diez días hábiles.
+
+Cuando la solicitud de los servicios públicos no cumpla con los requisitos necesarios, se prevendrá a los interesados para que los satisfagan dentro del término de cinco días hábiles, contados a partir de la fecha en que reciban la comunicación. En caso de que no se cumpla con este requerimiento, el interesado deberá presentar una nueva solicitud.
+
+Una vez que una solicitud se presente debidamente llenada, se procederá en términos del artículo 75 de esta Ley, para que en el plazo a que se refiere el párrafo tercero, se le comunique sobre la autorización del proyecto, caso contrario el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa que a su interés convenga en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Estado de Aguascalientes.
 
 ###### ARTICULO 84.
 
@@ -1876,3 +1894,11 @@ En un plazo máximo de sesenta días naturales, contados a partir de la publicac
 ###### ARTÍCULO TERCERO.
 
 Las referencias y atribuciones Adicionadas por los Artículos 138, 139, 140, 141 y 142 del presente Decreto, para los casos de: la Secretaría de Sustentabilidad, Medio Ambiente y Agua, la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral, la Secretaría de Obras Públicas, y la Secretaría de Desarrollo Social, se entenderán por referidas y conferidas respectivamente, y hasta el 31 de diciembre de 2017, para la Secretaría del Medio Ambiente, la Secretaría de Gestión Urbanística y Ordenamiento Territorial, la Secretaría de Infraestructura y Comunicaciones, y la Secretaría de Bienestar y Desarrollo Social.
+
+P.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 328.- SE ADICIONA EL ARTÍCULO 79, Y UN ARTÍCULO 79 BIS A LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
