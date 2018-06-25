@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2018-06-22"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -720,9 +720,13 @@ En los casos en que la Administración Pública Federal sea promovente, lo hará
 
 Los predios objeto de la expropiación sólo podrán ser ocupados mediante el pago o depósito del importe de la indemnización, que se hará de preferencia en el fideicomiso Fondo Nacional de Fomento Ejidal o, en su defecto, mediante garantía suficiente.
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 95.
 
-Queda prohibido autorizar la ocupación previa de tierras aduciendo que, respecto de las mismas, se tramita expediente de expropiación, a menos que los ejidatarios afectados o la asamblea, si se trata de tierras comunes, aprueben dicha ocupación.
+Queda prohibido autorizar la ocupación previa de tierras aduciendo que, respecto de las mismas, se tramita expediente de expropiación, a menos que los ejidatarios afectados o la asamblea, si se trata de tierras comunes, aprueben dicha ocupación, para lo cual deberá mediar convenio en el que se plasmen los acuerdos y compromisos a que habrán de obligarse ambas partes.
+
+Para la formalización del convenio aludido en el párrafo anterior, deberá intervenir la Procuraduría Agraria, quien además solicitará su inscripción en el Registro Agrario Nacional.
 
 ###### Artículo 96.
 
@@ -1673,3 +1677,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
 
 TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 95 DE LA LEY AGRARIA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
