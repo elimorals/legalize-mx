@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2018-01-11"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DEC
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -2494,9 +2494,13 @@ Segundo.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin 
 
 Tercero.- Las sanciones pecuniarias que se hayan impuesto antes de la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes en el momento de su determinación.
 
-Cuarto.- El procedimiento administrativo de ejecución a que hace referencia el artículo 134 Bis entrará en vigor a los 180 días siguientes, contados a partir de que se encuentre vigente el presente Decreto.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Quinto.- El Titular del Ejecutivo Federal deberá realizar la expedición y reforma a los Reglamentos correspondientes dentro de los 180 días siguientes a la publicación del presente Decreto.
+Cuarto.- El procedimiento administrativo de ejecución a que hace referencia el artículo 134 Bis entrará en vigor a los 18 meses siguientes, contados a partir de que se encuentre vigente el presente Decreto.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Quinto.- El Titular del Ejecutivo Federal deberá realizar la expedición y reforma a los Reglamentos correspondientes dentro de los 18 meses siguientes a la publicación del presente Decreto.
 
 Sexto.- El Titular de la Procuraduría Federal del Consumidor deberá adecuar el Estatuto Orgánico del organismo descentralizado dentro de los 180 días siguientes a la publicación a la reforma del Reglamento de la Procuraduría Federal del Consumidor.
 
@@ -2505,3 +2509,9 @@ Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del 
 Octavo.- Las actualizaciones a que se refiere el presente Decreto estarán vigentes del 1 de enero al 31 de diciembre de cada año.
 
 Noveno.- La Secretaría deberá emitir en un plazo máximo de nueve meses a partir de la entrada en vigor del presente Decreto, la Norma Mexicana a la que hace referencia el artículo 76 Bis 1.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS CUARTO Y QUINTO TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 11 DE ENERO DE 2018”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
