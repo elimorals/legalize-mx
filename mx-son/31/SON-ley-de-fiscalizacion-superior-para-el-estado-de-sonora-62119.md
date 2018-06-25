@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fiscalizacion-superior-para-el-estado-de-sonora-62119"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2018-02-19"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE FEBRERO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL19 DE FEBRERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -89,7 +87,9 @@ X.- Servidores Públicos: Los señalados en el artículo 143 de la Constitución
 
 XI.- Cuenta Pública: las Cuentas Públicas del Gobierno del Estado y gobiernos municipales a que se refieren los artículos 79, fracción VII y 136, fracción XXIV de la Constitución Política del Estado de Sonora y cuyo contenido se establecen en los artículos 47 y 48 de la Ley General de Contabilidad Gubernamental y los Acuerdos y lineamientos emitidos por el Consejo Nacional de Armonización Contable (CONAC);
 
-XII.- Auditorías: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+XII.- Auditorías: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada, la cual preferentemente será en el domicilio del sujeto fiscalizado, o en su caso, en las instalaciones del Instituto;
 
 XIII.- Informes Individuales: Son informes de cada una de las auditorías practicadas a los entes fiscalizados;
 
@@ -103,9 +103,17 @@ XVII.- Normas Profesionales de Auditoria del Sistema Nacional de Fiscalización:
 
 XVIII.- Normas de Auditoria Generalmente Aceptadas: son los principios fundamentales de auditoría a los que deben enmarcarse su desempeño los auditores durante el proceso de la auditoria;
 
-XIX.- Unidad de Medida y Actualización: el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes; y
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
 
-XX.- Procesos concluidos: cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagado conforme a la Ley General de Contabilidad Gubernamental.
+XIX.- Unidad de Medida y Actualización: el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes;
+
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+XX.- Procesos concluidos: cualquier acción que se haya realizado durante el año fiscal en curso que deba registrarse como pagado conforme a la Ley General de Contabilidad Gubernamental; y
+
+> <small>(ADICIONADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+XXI.- Tribunal: Sala Especializada en materia Anticorrupción y Responsabilidades Administrativas
 
 ###### ARTÍCULO 3.
 
@@ -141,9 +149,11 @@ La función de fiscalización, así como la interpretación de esta ley, se desa
 
 La interpretación de la presente Ley estará a cargo del Instituto, por conducto del Auditor Mayor, para efectos de la fiscalización superior debiendo fundar y motivar sus decisiones.
 
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 5.
 
-En todas las cuestiones relativas a procedimiento no previstas en esta ley, se aplicarán de manera supletoria, la Ley de Procedimiento Administrativo del Estado de Sonora y el Código de Procedimientos Civiles para el Estado de Sonora.
+En todas las cuestiones relativas a procedimiento no previstas en esta ley, se aplicarán de manera supletoria, la Ley de Procedimiento Administrativo del Estado de Sonora, la Ley de Justicia Administrativa para el Estado de Sonora y el Código de Procedimientos Civiles para el Estado de Sonora.
 
 ### CAPÍTULO II. DEL INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN
 
@@ -287,9 +297,9 @@ Asimismo, previa solicitud de los entes fiscalizables, el Instituto podrá lleva
 
 III.- Asesorar de manera permanente a los sujetos de fiscalización, así como promover y realizar cursos y seminarios de capacitación y actualización, con base en los lineamientos que para tales efectos establezca;
 
-> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
 
-IV.- Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Estatal de Desarrollo y los planes municipales de desarrollo, así como los programas sectoriales, regionales, operativos anuales, y demás programas de las entidades fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de los recursos públicos;
+IV.- Practicar auditorías preferentemente en el domicilio del sujeto obligado sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Estatal de Desarrollo y los planes municipales de desarrollo, así como los programas sectoriales, regionales, operativos anuales, y demás programas de las entidades fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de los recursos públicos;
 
 V.- Verificar si las inversiones y gastos autorizados a los sujetos de fiscalización con cargo a las partidas presupuestales correspondientes, se han aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados, así como que se hayan realizado para el debido cumplimiento de sus funciones, conforme a la información que se proporcione en las correspondientes cuentas públicas;
 
@@ -399,9 +409,7 @@ En atención a las faltas no graves detectadas por el Instituto, este podrá con
 
 XXXIII.- Promover y dar seguimiento, ante las autoridades competentes, para la imposición de las sanciones que correspondan a los servidores estatales, municipales y los particulares, por violaciones a la presente ley;
 
-> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
-
-XXXIV.- Conocer y resolver sobre el recurso de revisión que se interponga en contra de las multas que imponga;
+XXXIV.- (DEROGADA, B.O. 25 DE JUNIO DE 2018)
 
 > <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -471,9 +479,9 @@ XLV.- Las demás que le sean conferidas por esta Ley o cualquier otro ordenamien
 
 Son atribuciones del Auditor Mayor:
 
-> <small>(REFORMADA, B.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
 
-I.- Fungir como representante legal del Instituto, con amplias facultades para ejercer las atribuciones conferidas al Instituto por la Constitución y la presente ley, igualmente, las conferidas en su carácter de Auditor Mayor, estando facultado para delegar en sus subordinados, las funciones o atribuciones que resulten necesarias para el eficaz desempeño de las labores de fiscalización, promoción de denuncias por responsabilidades administrativas o penales ante las autoridades competentes, así como, promover denuncias derivadas de responsabilidades resarcitorias, emitir resoluciones, recibir y resolver los recursos de revisión, la aplicación y ejecución de sanciones a los sujetos de fiscalización;
+I.- Fungir como representante legal del Instituto, con amplias facultades para ejercer las atribuciones conferidas al Instituto por la Constitución y la presente ley, igualmente, las conferidas en su carácter de Auditor Mayor, estando facultado para delegar en sus subordinados, las 12 funciones o atribuciones que resulten necesarias para el eficaz desempeño de las labores de fiscalización, promoción de denuncias por responsabilidades administrativas o penales ante las autoridades competentes, así como, promover denuncias derivadas de responsabilidades resarcitorias, emitir resoluciones, la aplicación y ejecución de sanciones a los sujetos de fiscalización;
 
 > <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -493,9 +501,9 @@ V.- Aprobar el Programa Anual de Actividades del Instituto, así como el Program
 
 VI.- Expedir de conformidad con lo establecido en esta Ley, el Reglamento Interior del Instituto, en el que se distribuirán las atribuciones a sus unidades administrativas y sus titulares, además de establecer la forma en que deberán ser suplidos éstos últimos en sus ausencias, su organización interna y funcionamiento;
 
-> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
 
-VII.- Ordenar la práctica de Auditorías y visitas de inspección, con base en el Programa Anual de Auditorias así como formular los pliegos de observaciones que procedan;
+VII.- Ordenar la práctica de Auditorías y/o visitas de inspección preferentemente en el lugar de la obra pública o en el domicilio del sujeto fiscalizado, con base en el Programa Anual de Auditorías así como formular los pliegos de observaciones que procedan;
 
 > <small>(REFORMADA, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -543,9 +551,7 @@ XVIII.- Expedir los manuales de organización y procedimientos que se requieran 
 
 XIX.- Ser el enlace entre el Instituto y la Comisión;
 
-> <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2018)</small>
-
-XX.- Tramitar, instruir y resolver el recurso de revisión interpuesto en contra de las multas que se impongan conforme a esta Ley;
+XX.- (DEROGADA, B.O. 25 DE JUNIO DE 2018)
 
 > <small>(ADICIONADA, B.O. 15 DE FEBRERO DE 2018)</small>
 
@@ -833,11 +839,11 @@ La omisión de presentar las cuentas públicas en los plazos y términos que se�
 
 El Instituto establecerá un programa anual de auditorías, a más tardar en el mes de septiembre, señalando la totalidad de los sujetos de fiscalización que serán objeto de la misma, conforme a los criterios, normas y prioridades que determine, mismo que deberá de ser autorizado por el Auditor Mayor del Instituto y publicado en la página Web del mismo.
 
-> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 28.
 
-El Instituto, para el cumplimiento de las atribuciones que le confiere la Constitución Política del Estado de Sonora y esta ley, goza de facultades para practicar visitas, inspecciones y auditorías a los sujetos de fiscalización, así como para requerirles todos los elementos de información y documentación necesarios para cumplir con sus funciones.
+El Instituto, para el cumplimiento de las atribuciones que le confiere la Constitución Política del Estado de Sonora y esta ley, goza de facultades para practicar visitas, inspecciones y auditorías a los sujetos de fiscalización, así como para requerirles todos los elementos de información y documentación necesarios para cumplir con sus funciones; preferentemente las auditorías se efectuarán en el lugar de la obra pública o en el domicilio del sujeto fiscalizado, y en su caso podrá invocarse las configuraciones positivas previstas en el artículo 75 fracción V de la Ley de Procedimiento Administrativo del Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
@@ -881,6 +887,10 @@ IV.- El Instituto tendrá acceso a la información que las disposiciones legales
 
 V.- Cuando derivado de la práctica de auditorías se entregue al Instituto información de carácter reservado, confidencial o que deba mantenerse en secreto, éste deberá garantizar que no se incorpore en los informes de resultados, las observaciones, recomendaciones y acciones promovidas de los informes de auditoría respectivos, información o datos que tengan esta característica. Dicha información será conservada por el Instituto en sus documentos de trabajo y solo podrá ser revelada a la autoridad competente, cuando se acompañe a una denuncia de hechos o la instauración de un procedimiento resarcitorio.
 
+> <small>(ADICIONADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+Los expedientes que contengan datos personales de niñas, niños y adolescentes, así como los relativos a créditos personales, créditos educativos, becas, para vivienda, clínicos y de apoyo económico deberán ser verificados y auditados en las instalaciones de los sujetos fiscalizados procurando que bajo ninguna circunstancia se extraigan los expedientes del lugar de resguardo, ni se deberán copiar en papel o mediante dispositivos electrónicos, en base a lo anterior, el Instituto sólo podrá tomar datos para el cumplimiento del ejercicio de sus funciones de verificación y, en su caso, obtener copias certificadas o copias para ser cotejadas con sus originales, de los documentos a que se hace referencia en el presente párrafo, cuando sea detectada alguna irregularidad en el ejercicio de recursos públicos, para los efectos de promoción de faltas administrativas graves o no graves, siempre y cuando los documentos estén testados de acuerdo a lo que dispone la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
 > <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2018)</small>
 
 ###### ARTÍCULO 32.
@@ -897,29 +907,49 @@ I.- Acciones y previsiones, incluyendo solicitudes de aclaración, pliegos de ob
 
 II.- Recomendaciones.
 
-> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 34.
 
-Para el cumplimiento de sus funciones, el Instituto podrá realizar cualquiera de los siguientes tipos de auditoría:
+Para el cumplimiento de sus funciones, el Instituto podrá realizar, mediante visita domiciliaria, cualquiera de los siguientes tipos de auditoría:
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
 
 I.- Legal;
 
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
+
 II.- Financiera;
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
 
 III.- Presupuestal;
 
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
+
 IV.- De Desempeño;
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
 
 V.- Técnica a la Obra Pública;
 
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
+
 VI.- Forense; e
+
+> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
 
 VII.- Integral.
 
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2018)</small>
+
 Las auditorías se realizarán con apego a la Normas de Auditoría Gubernamental y en su caso, las Normas de Auditoría Generalmente Aceptadas, emitidas por el Instituto Mexicano de Contadores Públicos, y las Normas Profesionales de Auditoría del Sistema Nacional de Fiscalización, en todo caso, podrán realizarse con base en pruebas selectivas. En los criterios que sobre normas o principios pudiesen estar sujetos a interpretación, prevalecerán las disposiciones legales que se les relacionen, así como las disposiciones en materia de auditoría que resulten del Sistema Nacional de Fiscalización.
 
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2018)</small>
+
 El Instituto deberá llevar a cabo una auditoría forense únicamente cuando el ministerio público o una autoridad jurisdiccional se lo solicite, derivado de una investigación o proceso jurisdiccional que dichas entidades lleven a cabo.
+
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2018)</small>
 
 Para llevar a cabo una auditoría forense, el Instituto deberá contar con personal acreditado para realizarla; para tal efecto, creará un grupo interdisciplinario que pueda llevar a cabo la auditoría.
 
@@ -935,15 +965,17 @@ Durante la práctica de auditorías, el Instituto Superior de Auditoria y Fiscal
 
 El Instituto Superior de Auditoría y Fiscalización podrá grabar, en audio o video, cualquiera de las reuniones de trabajo y audiencias previstas en esta Ley, previo consentimiento por escrito de la o las personas que participen o a solicitud de la entidad fiscalizada, para integrar el archivo electrónico correspondiente.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 37.
 
-El Instituto Superior de Auditoría y Fiscalización, de manera previa a la fecha de presentación de los Informes individuales, dará a conocer a las entidades fiscalizadas, la parte que les corresponda de los resultados finales de las auditorías y las observaciones preliminares que se deriven de la revisión de las Cuentas Públicas, a efecto de que dichas entidades presenten las justificaciones y aclaraciones que correspondan.
+El Instituto Superior de Auditoría y Fiscalización, de manera previa a la fecha de presentación de los Informes individuales, dará a conocer a las entidades fiscalizadas, la parte que les corresponda de los resultados finales de las auditorías.
 
-A las reuniones en las que se dé a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados y observaciones preliminares que se deriven de la revisión de las Cuentas Públicas, se les citará por lo menos con 10 días hábiles de anticipación remitiendo con la misma anticipación a las entidades fiscalizadas los resultados y las observaciones preliminares de las auditorías practicadas; en las reuniones, si la entidad fiscalizada estima necesario presentar información adicional, podrá solicitar al Instituto Superior de Auditoría y Fiscalización, un plazo de hasta 7 días hábiles más para su exhibición. En dichas reuniones, las entidades fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes. Adicionalmente, el Instituto Superior de Auditoría y Fiscalización les concederá un plazo de 7 días hábiles para que presenten argumentaciones adicionales y documentación soporte, mismas que deberán ser confrontadas por este último para la elaboración de los Informes individuales.
+Las observaciones preliminares que se deriven de la revisión de las Cuentas Públicas se sujetaran al procedimiento previsto en el artículo 39 de esta Ley a efecto de que dichas entidades presenten las justificaciones y aclaraciones que correspondan. Sin perjuicio de lo anterior el Instituto podrá citar a las entidades fiscalizadas por lo menos 10 días hábiles de anticipación para una última aclaración de sus resultados y observaciones de las auditorías practicadas conforme al procedimiento regulado en el artículo 39 de esta Ley.
 
-Una vez que el Instituto Superior de Auditoría y Fiscalización valore las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a las entidades fiscalizadas, para efectos de la elaboración definitiva de los Informes individuales.
+Las entidades fiscalizadas podrán presentar las justificaciones y aclaraciones que estimen pertinentes en el día y hora que sean citadas en las que podrán presentar argumentaciones adicionales y documentación soporte, las cuales deberán ser confrontadas por el Instituto para la elaboración de los informes finales.
+
+Una vez que el Instituto Superior de Auditoría y Fiscalización valore las justificaciones, aclaraciones y demás información contemplada en el procedimiento previsto en el artículo 39 de esta Ley y párrafos segundo y tercero del presente artículo, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que les dio a conocer a las entidades fiscalizadas, para efectos de la elaboración definitiva de los Informes individuales.
 
 En caso de que el Instituto Superior de Auditoría y Fiscalización considere que las entidades fiscalizadas no aportaron elementos suficientes para atender las observaciones preliminares correspondientes, deberá incluir en el apartado específico de los informes individuales, una síntesis de las justificaciones, aclaraciones y demás información presentada por dichas entidades.
 
@@ -955,13 +987,47 @@ Lo previsto en los artículos 35, 36 y 37, de esta ley, se realizará sin perjui
 
 ### CAPÍTULO VII. DERECHOS DE LOS SUJETOS FISCALIZADOS
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 35], B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 39.
 
-Las auditorías, visitas e inspecciones se efectuarán por las personas que se encuentre (sic) debidamente acreditadas para tales efectos.
+El Instituto deberá notificar a la entidad fiscalizada al menos con quince días hábiles de anticipación al inicio de la auditoría sea de gabinete o en el domicilio del sujeto fiscalizado, debiendo incluirse en esta notificación el año del ejercicio fiscal a auditar, así como la descripción y documentación que habrá de exhibirse ante el personal del Instituto, especificando si la auditoría será de visita domiciliaria o en sus propias instalaciones.
 
-Las personas acreditadas tendrán el carácter de representantes del Instituto y deberán presentar previamente al sujeto de fiscalización el oficio de comisión respectivo e identificarse plenamente como personal actuante del Instituto.
+Apartado A: De las auditorías de gabinete:
+
+En la notificación se deberán señalar los plazos de inicio y conclusión en los que se desarrollará la auditoría sin que ésta exceda los 90 días hábiles; para el desarrollo de la auditoría se observará lo siguiente:
+
+I.- En las fechas que señale el Instituto se deberá entregar en medio electrónico o impreso la información al Instituto por parte del sujeto fiscalizado con el objeto de elaborar el acta de inicio de auditoría;
+
+II.- La entidad fiscalizada deberá en el acto de inicio de auditoría, o previamente si así lo determina el Instituto, señalar el nombre y cargo de los servidores públicos responsables de presentar la documentación que sea requerida por los auditores. El plazo de revisión por parte de los auditores inicia a partir de que el sujeto de fiscalización entrega formalmente la información para la revisión de gabinete y dicho plazo no excederá de 40 días hábiles;
+
+III.- Los representantes del Instituto deberán levantar acta circunstanciada de sus actuaciones, de conformidad con los formatos que para tal efecto elabore el Instituto, en presencia de dos testigos propuestos por el representante del sujeto de fiscalización o, en su ausencia o negativa, por quien practique la diligencia; haciendo constar los hechos u omisiones que hubieren detectado, dejando copia de la misma al sujeto de fiscalización. Las actas, declaraciones, o manifestaciones en ellas contenidos harán prueba en términos de ley;
+
+IV.- Al concluir el plazo a que se refiere la fracción II de este apartado, dentro de los 15 días hábiles siguientes deberá hacer del conocimiento del sujeto de fiscalización las observaciones y recomendaciones de pre-cierre. El sujeto de fiscalización contará con 15 días hábiles para atender o subsanar en la etapa de pre-cierre las observaciones y recomendaciones detectadas en esta fase por el Instituto. Dentro de este mismo plazo, a petición del sujeto de fiscalización, se podrá hacer una confronta con el Instituto para atender las recomendaciones u observaciones que en su caso se hubieren detectado.
+
+V.- Concluido el plazo referido en la fracción anterior, el Instituto contará con un plazo de 10 días hábiles para pronunciarse sobre la procedencia o no de las atenciones o solventaciones presentadas por el sujeto de fiscalización en la etapa de pre-cierre, debiendo señalar si las mismas están cumplidas total o parcialmente; en el último supuesto deberá señalar con precisión qué aspectos del cumplimiento parcial se encuentran pendientes de solventar motivando o señalando por qué no cumple o cumple parcialmente; y
+
+VI.- Notificado el sujeto de fiscalización sobre si las observaciones o recomendaciones no cumplen o cumplen parcialmente, la auditoría entrara en etapa de cierre. Dentro del plazo señalado para el desarrollo de la auditoría al finalizar ésta se deberá elaborar un acta de cierre, para proceder a elaborar el informe individual de auditoría y continuar con el procedimiento y plazos previstos en el artículo 50 de esta Ley.
+
+El Instituto podrá ampliar el plazo a que se refiere el primer párrafo del presente Apartado hasta por 60 días hábiles adicionales tanto para la administración pública estatal como para la administración pública municipal, para tal efecto el Instituto emitirá un acuerdo que funde y señale las razones particulares, causas inmediatas y circunstancias especiales que se tengan en consideración para acordar la necesidad de ampliar el plazo de la auditoría, el cual deber (sic) ser notificado al ente fiscalizado con al menos 10 días previos al vencimiento del plazo original.
+
+Apartado B: De las auditorías en el lugar de la obra pública o en el domicilio del sujeto fiscalizado:
+
+En la notificación se deberán señalar los plazos de inicio y conclusión en los que se desarrollará la auditoría sin que ésta exceda los 100 días hábiles para la administración pública estatal y para la administración pública municipal; para el desarrollo de la auditoría se observará lo siguiente:
+
+I.- En las fechas que señale el Instituto se deberán de constituir los auditores en el domicilio de la entidad fiscalizada con el objeto de elaborar el acta de inicio de auditoría, debiendo acreditar el carácter de representantes del Instituto, para lo cual deberán presentar el oficio de comisión;
+
+II.- La entidad fiscalizada deberá en el acto de inicio de auditoría, o previamente si así lo determina el Instituto, señalar el nombre y cargo de los servidores públicos responsables de presentar la documentación que sea requerida por los auditores. El plazo de revisión por parte de los auditores inicia a partir de que se constituyan los auditores en el domicilio del sujeto de fiscalización y dicho plazo no excederá de 60 días hábiles;
+
+III.- Los representantes del Instituto deberán levantar acta circunstanciada de sus actuaciones, de conformidad con los formatos que para tal efecto elabore el Instituto, en presencia de dos testigos propuestos por el representante del sujeto de fiscalización o, en su ausencia o negativa, por quien practique la diligencia; haciendo constar los hechos u omisiones que hubieren detectado, dejando copia de la misma al sujeto de fiscalización. Las actas, declaraciones, o manifestaciones en ellas contenidos harán prueba en términos de ley;
+
+IV.- AI concluir el plazo a que se refiere la fracción II de este Apartado, dentro de los 15 días hábiles siguientes deberá hacer del conocimiento del sujeto de fiscalización las observaciones y recomendaciones de pre-cierre. El sujeto de fiscalización contará con 20 días hábiles para atender o subsanar en la etapa de pre-cierre las observaciones y recomendaciones detectadas en esta fase por el Instituto. Dentro de este mismo plazo, a petición del sujeto de fiscalización, se podrá hacer una confronta con el Instituto para atender las recomendaciones u observaciones que en su caso se hubieren detectado.
+
+V.- Concluido el plazo referido en la fracción anterior, el Instituto contará con un plazo de 20 días hábiles para pronunciarse sobre la procedencia o no de las atenciones o solventaciones presentadas por el sujeto de fiscalización en la etapa de pre-cierre, debiendo señalar si las mismas están cumplidas total o parcialmente; en el último supuesto deberá señalar con precisión qué aspectos del cumplimiento parcial se encuentran pendientes de solventar motivando o señalando por qué no cumple o cumple parcialmente;
+
+VI.- Dentro del plazo señalado para el desarrollo de la auditoría al finalizar ésta se deberá elaborar un acta de cierre, para proceder a elaborar el informe individual de auditoría y continuar con el procedimiento y plazos previstos en el artículo 50 de esta Ley.
+
+El Instituto podrá ampliar el plazo a que se refiere el primer párrafo del presente Apartado por 60 días hábiles adicionales tanto para la administración pública estatal y como para la administración pública municipal, para tal efecto el Instituto emitirá un acuerdo que funde y señale las razones particulares, causas inmediatas y circunstancias especiales que se tengan en consideración para acordar la necesidad de ampliar el plazo de la auditoría, el cual deberá ser notificado al ente fiscalizado con al menos 10 días previos al vencimiento del plazo original.
 
 > <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 36], B.O. 11 DE MAYO DE 2017)</small>
 
@@ -1477,57 +1543,55 @@ El importe de las multas que se recuperen por las sanciones impuestas derivado d
 
 ### CAPÍTULO XV. DEL RECURSO DE REVISIÓN
 
-> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 75.
 
-Las sanciones y demás resoluciones que emita el Instituto podrán ser impugnadas por el servidor público o por los particulares, ante el propio Instituto, mediante el recurso de revisión. El recurso de revisión se interpondrá dentro de los 15 días hábiles siguientes a la fecha en que surta efectos la notificación de la sanción o resolución recurrida.
+Las sanciones y demás resoluciones que emita el Instituto podrán ser impugnadas por el servidor público, por los particulares o por los sujetos fiscalizados, ante el Tribunal, mediante el recurso de revisión. El recurso de revisión se interpondrá dentro de los 15 días hábiles siguientes a la fecha en que surta efectos la notificación de la sanción o resolución recurrida.
 
-> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 76.
 
 La tramitación del recurso se sujetará a las disposiciones siguientes:
 
-I.- Se iniciará mediante escrito en el que se deberán expresar los agravios que a juicio del servidor público o del particular, le cause la sanción o resolución impugnada, acompañando copia de la constancia de la notificación de la misma, así como el ofrecimiento de pruebas que considere necesario rendir, señalando en su escrito domicilio para oír y recibir notificaciones en la Ciudad de Hermosillo, Sonora;
+I.- Se iniciará mediante escrito en el que se deberán expresar los agravios que a juicio del servidor público, del particular o del sujeto fiscalizado, le cause la sanción o resolución impugnada, acompañando copia de la constancia de la notificación de la misma, así como el ofrecimiento de pruebas que considere necesario rendir, señalando en su escrito domicilio para oír y recibir notificaciones en la Ciudad de Hermosillo, Sonora;
 
-> <small>(ADICIONADO, B.O. 15 DE FEBRERO DE 2018)</small>
+Tratándose de una omisión respecto del señalamiento del domicilio para oír o recibir notificaciones, el Tribunal esperará un término de 5 días hábiles para que el interesado realice la designación correspondiente, y en caso de no hacerlo, las notificaciones se harán por lista o estrados.
 
-Tratándose de una omisión respecto del señalamiento del domicilio para oír o recibir notificaciones, el Instituto esperará un término de 5 días hábiles para que el interesado realice la designación correspondiente, y en caso de no hacerlo, las notificaciones se harán por lista o estrados.
+II.- El Tribunal, acordará sobre la admisión del recurso y de las pruebas documentales y supervenientes ofrecidas, desechando de plano las que no fuesen ofrecidas conforme a derecho; y
 
-> <small>(REFORMADA, B.O. 15 DE FEBRERO DE 2018)</small>
+III.- Desahogadas las pruebas, si las hubiere, el Tribunal emitirá la resolución dentro de los sesenta días hábiles siguientes, notificándola al interesado. El recurrente podrá desistirse expresamente del recurso antes de que se emita la resolución respectiva, en este caso, el Tribunal lo sobreseerá sin mayor trámite.
 
-II.- El Instituto acordará sobre la admisión del recurso y de las pruebas documentales y supervenientes ofrecidas, desechando de plano las que no fuesen ofrecidas conforme a derecho y las que sean contrarias a la moral o al derecho; y
+Para el trámite y resolución del presente recurso, deberán aplicarse las disposiciones conducentes en la Ley Estatal de Responsabilidades, aplicando supletoriamente la legislación que esta ley establece.
 
-III.- Desahogadas las pruebas, si las hubiere, el Instituto emitirá la resolución dentro de los sesenta días hábiles siguientes, notificándola al interesado.
-
-El recurrente podrá desistirse expresamente del recurso antes de que se emita la resolución respectiva, en este caso, el Instituto lo sobreseerá sin mayor trámite.
-
-> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 77.
 
-La interposición del recurso suspenderá la ejecución de la sanción o resolución recurrida, si el pago correspondiente se garantiza en términos que prevenga el Código Fiscal del Estado.
+La interposición del recurso podrá suspender la ejecución de la sanción o resolución recurrida, la suspensión se podrá conceder por el Magistrado del Tribunal que conozca del asunto a petición de parte desde el mismo acuerdo que admita la demanda y hasta que se dicte sentencia y ésta quede ejecutoriada. Tendrá por efecto mantener las cosas en el estado que se encuentre, en tanto se pronuncie sentencia ejecutoriada.
 
-> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(ADICIONADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+No se otorgará la suspensión si se causa perjuicio al interés social, se contravienen disposiciones de orden público, o se deja sin materia el juicio.
+
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 78.
 
-Los servidores públicos, para la interposición del recurso de revisión respectivo, podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener copias certificadas de los documentos correspondientes.
+Los servidores públicos, para la interposición del recurso de revisión respectivo, podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener copias certificadas a su costa de los documentos correspondientes.
 
-> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 79.
 
-El Instituto, en las resoluciones que emita sobre el recurso de revisión, podrá:
+El Tribunal, en las resoluciones que emita sobre el recurso de revisión, podrá:
 
 I.- Declararlo improcedente o sobreseerlo;
 
-II.- Confirmar el acto o resolución impugnadas; y
+II.- Confirmar, modificar o revocar el acto o resolución impugnadas; o revocar el acuerdo de ampliación de auditoría; y
 
-III.- Revocar el acto o resolución impugnadas.
-
-Contra las resoluciones que emita el Instituto no procederá recurso alguno, salvo el juicio de amparo.
+III.- Reponer en su caso, el acto o procedimiento que originó la resolución impugnada.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MAYO DE 2017)</small>
 
@@ -1683,7 +1747,9 @@ II.- Establecer y operar un sistema de quejas, denuncias o sugerencias relaciona
 
 III.- Instaurar procedimientos administrativos a los servidores públicos del Instituto que infrinjan la ley, dictando las sanciones administrativas que correspondan en términos de la Ley Estatal de Responsabilidades por faltas no graves;
 
-IV.- Promover ante el Tribunal Administrativo las sanciones que corresponden por faltas graves cometidas por los servidores públicos del Instituto;
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+IV.- Promover ante la Sala Especializada en materia de Anticorrupción del Tribunal de Justicia Administrativa las sanciones que corresponden por faltas graves cometidas por los servidores públicos del Instituto;
 
 V.- Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y cumplimiento de metas e indicadores del Instituto, así como la debida aplicación de los recursos a su cargo; así como requerir a los servidores públicos del Instituto por la documentación e información que resulte necesaria para el cumplimiento de sus funciones y atribuciones. La omisión de dichos servidores públicos en entregar la información o documentación que les sean requeridas, o entregarla de manera extemporánea, será causal de responsabilidad en términos de la Ley Estatal de Responsabilidades;
 
@@ -1697,9 +1763,19 @@ IX.- Presentar ante el Congreso del Estado, solicitud para remover al Auditor Ma
 
 X.- Participar en los actos de entrega recepción de los servidores públicos del Instituto; y
 
-XI.- Las demás que les establezca la ley.
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADO, B.O. 15 DE FEBRERO DE 2018)</small>
+XI.- Implementar las políticas eficaces de ética pública, política de integridad y conducta institucional para los servidores públicos del Instituto;
+
+> <small>(ADICIONADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+XII.- Establecer las bases y lineamientos para la implementación del Servicio Profesional de Carrera, para aquellos servidores públicos vinculados a la investigación y sustanciación de las faltas administrativas, en los términos que esta ley dispone;
+
+> <small>(ADICIONADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+XII (SIC).- Las demás que establezca la ley.
+
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 96.
 
@@ -1707,19 +1783,21 @@ Para desempeñar el cargo de Contralor Interno se requiere:
 
 I.- Ser ciudadano sonorense en pleno goce de sus derechos políticos y civiles, ser de reconocida honorabilidad en el ejercicio de su profesión y en el desempeño de funciones públicas que le hayan sido encomendadas.
 
-II.- Contar con título profesional con antigüedad mínima de cinco años y cédula profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización expedidos por autoridad o institución legalmente facultada para ello.
+II.- Contar con título profesional y cédula profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización expedidos por autoridad o institución legalmente facultada para ello.
 
-III.- No haber sido Secretario de Despacho, Fiscal General del Estado o Procurador General de la República; Senador, Diputado Federal o Local; Gobernador del Estado; titular o en su caso comisionado de algún órgano constitucionalmente autónomo; integrante de un Ayuntamiento; Magistrado en el Poder Judicial o en los Tribunales Estatal Electoral y de Transparencia Informativa o de los Contenciosos administrativo, dirigente de algún partido político, no haber sido tesorero, titular de las finanzas o de la administración de algún partido político, ni haber sido postulado para cargo de elección popular, todo lo anterior durante el año previo al día de su nombramiento.
+III.- No haber sido Secretario de Despacho, Fiscal General del Estado o Procurador General de la República; Senador, Diputado Federal o Local; Gobernador del Estado; Presidente o en su caso comisionado de algún órgano constitucionalmente autónomo; integrante de un Ayuntamiento; Magistrado en el Poder Judicial o en los Tribunales Estatal Electoral y de Transparencia Informativa o de Justicia Administrativa, dirigente de algún partido político, no haber sido tesorero, titular de las finanzas o de la administración de algún partido político, ni haber sido postulado para cargo de elección popular, consejero estatal electoral, todo lo anterior durante el año previo al día de su nombramiento.
 
-IV.- No contar con antecedentes penales; y
+IV.- No contar con antecedentes penales;
 
-V.- No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado.
+V.- No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado; y
 
-> <small>(ADICIONADO, B.O. 15 DE FEBRERO DE 2018)</small>
+VI.- Tener, previo a su designación, residencia en el Estado de Sonora con una antigüedad de 3 años si es nacido en el Estado, y de 5 años si es nacido fuera del Estado.
+
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 97.
 
-La Contraloría Interna contará con las áreas, unidades y personal necesario para su funcionamiento, cuyo personal será nombrado y removido por el Contralor Interno, conforme a lo establecido en el presupuesto de egresos, entre las que se incluyen las autoridades investigadoras y substanciadoras.
+La Contraloría Interna contará con las áreas, unidades y personal necesario para su funcionamiento, cuyo personal será nombrado y removido por el Contralor Interno, conforme a lo establecido en el presupuesto de egresos, entre las que se incluyen las autoridades investigadoras y substanciadoras, así como las de auditoría.
 
 T R A N S I T O R I O S
 
@@ -1864,3 +1942,25 @@ El Programa Anual de Auditoría referido en el artículo 27 de esta Ley, respect
 ###### ARTÍCULO CUARTO.
 
 El Instituto Superior de Auditoría y Fiscalización deberá actualizar y, en su caso, publicar los manuales y normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+B.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 228, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las auditorías que se encuentren en curso y que hayan iniciado previo a la entrada en vigor del presente Decreto quedan exceptuadas de los plazos previstos en los artículos 37 y 39 que se establecen en el presente Decreto, pero serán aplicados dichos artículos a las auditorías que inicien posteriormente a la publicación del presente Decreto.
+
+Las auditorías iniciadas previo a la publicación del presente Decreto deberán concluirse en su totalidad a más tardar el 31 de diciembre del año 2019.
+
+###### ARTÍCULO TERCERO.
+
+Las demás disposiciones que se establecen en este Decreto se aplicarán a todas las auditorías que se inicien o que se encuentren actualmente en desarrollo y trámite.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos de revisión en trámite ante el Instituto, con anterioridad de la entrada en vigor del presente Decreto serán resueltos por el Instituto.
