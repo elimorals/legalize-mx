@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2018-04-09"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -49,9 +49,11 @@ DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
 La presente Ley tiene por objeto establecer las bases para regular la organización, estructuración y función del Registro Civil del Estado de Sonora.
 
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2.
 
-El Registro Civil es una Institución de orden público y de interés social por medio de la cual el Estado hace constar auténticamente y da publicidad a todos los actos relacionados con el estado civil de las personas, incluyendo aquellos realizados por éstos en el extranjero; inscribe las ejecutorias que declaran la ausencia, la presunción de muerte, la pérdida de la capacidad para administrar bienes y las que determinen o nieguen la modificación o rectificación del estado civil de las mismas.
+El Registro Civil es una Institución de orden público y de interés social por medio de la cual el Estado hace constar auténticamente y da publicidad a todos los actos relacionados con el estado civil de las personas, incluyendo aquellos realizados por éstos en el extranjero; inscribe los nombres de las personas que mediante resoluciones dictadas por jueces o tribunales hayan sido declaradas morosas en el cumplimiento de sus obligaciones alimentarias por más de noventa días; inscribe las ejecutorias que declaran la ausencia, la presunción de muerte, la pérdida de la capacidad para administrar bienes y las que determinen o nieguen la modificación o rectificación del estado civil de las mismas.
 
 ###### Artículo 3.
 
@@ -253,9 +255,11 @@ En el Archivo Estatal constarán las inscripciones de los hechos relativos al es
 
 ### CAPÍTULO I. DE LOS PROCEDIMIENTOS DE LAS ACTAS
 
-###### Artículo 28.
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
-Los Oficiales del Registro Civil tendrán fe pública para inscribir y autorizar los hechos y actos del estado civil, extender las actas y expedir las copias certificadas relativas a las actas de:
+###### Articulo 28.
+
+Los Oficiales del Registro Civil tendrán fe pública para inscribir y autorizar los hechos y actos del estado civil, expedir los certificados de deudores alimentarios morosos, extender las actas y expedir las copias certificadas relativas a las actas de:
 
 I.- Nacimiento;
 
@@ -272,6 +276,14 @@ VI.- Defunción;
 VII.- Inscripción de ejecutorias que declaren la tutela, ausencia o presunción de muerte, las que declaren la incapacidad legal para administrar bienes y el levantamiento de esta restricción, en su caso; y
 
 VIII.- Acreditación de hechos.
+
+El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Estado de Sonora, en el que se inscribirán los nombres de las personas que mediante resoluciones dictadas por jueces o tribunales hayan sido declaradas morosas en el cumplimiento de sus obligaciones alimentarias por más de noventa días.
+
+El Registro Civil expedirá un Certificado en el que hará constar si una persona se encuentra inscrita en el Registro de Deudores Alimentarios Morosos.
+
+El Registro Civil, una vez hecha la inscripción a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso.
+
+El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
 
 ###### Artículo 29.
 
@@ -619,7 +631,9 @@ II. Que no tienen impedimento legal para casarse, y
 
 III. Que es su voluntad unirse en matrimonio.
 
-Esta solicitud deberá ser firmada por los solicitantes y si alguno de ellos no pudiere o supiere hacerlo se imprimirá su huella digital.
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+El Oficial del Registro Civil hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, que es un requisito previo a la celebración del matrimonio, el tramitar y obtener un certificado expedido por el propio registro, para hacer constar si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos, así como tomar el curso prenupcial impartido por el Gobierno del Estado a través de la Dirección General del Registro Civil.
 
 ###### Artículo 81.
 
@@ -1140,3 +1154,11 @@ B.O. 9 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de enero de 2019, previa su publicación el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 231, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA Y DE LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
