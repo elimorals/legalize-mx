@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-artesanal-para-el-estado-de-hidalgo-65690"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2013-07-15"
+last_updated: "2018-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -157,9 +157,11 @@ La Secretaría de Educación Pública, realizará la certificación de competenc
 
 La Secretaría de Educación Pública a través de sus Universidades e Institutos de Educación Superior asistirán tecnológicamente a la Secretaría, en el desarrollo de programas de investigación que propicien la innovación, transferencia, desarrollo, intercambio, difusión y utilización de tecnologías adecuadas, coadyuvando a elevar la competitividad del sector artesanal.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 15.
 
-La Secretaría en coordinación con la Corporación Internacional Hidalgo, orientará a los artesanos en los actos de formalización, constitución, organización y acceso al Mercado Internacional, a través de programas de exportación de sus productos.
+La Secretaría en coordinación con las instancias correspondientes, orientará a los artesanos en los actos de formalización, constitución, organización y acceso al mercado internacional, a través de programas de exportación de sus productos.
 
 ###### Artículo 16.
 
@@ -197,11 +199,13 @@ La Secretaría conocerá los programas y proyectos de promoción turística que 
 
 La Secretaría promoverá la protección a la creatividad de los artesanos a través de asesoramiento en materia de propiedad industrial y derechos de autor de los productos artesanales, ante las autoridades encargadas de reconocer y tutelar estos derechos.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 21.
 
-La Secretaría promoverá en coordinación con el Consejo Estatal de Ecología, el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías.
+La Secretaría promoverá en coordinación con las instancias correspondientes, el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías.
 
-En aquellos procesos de producción artesanal en donde se usen materiales o se generen residuos o subproductos riesgosos a la salud o al medio ambiente, los artesanos podrán contar con el apoyo del Consejo Estatal de Ecología, para que los oriente y apoye en el manejo y disposición final de residuos y registro de sus procesos ante autoridades ambientales.
+En aquellos procesos de producción artesanal en donde se usen materiales o se generen residuos o subproductos riesgosos a la salud o al medio ambiente, los artesanos podrán contar con el apoyo de las instancias correspondientes, para que los oriente y apoye en el manejo y disposición final de residuos y registro de sus procesos ante autoridades ambientales.
 
 ###### Artículo 22.
 
@@ -318,3 +322,9 @@ P.O. 15 DE JULIO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el periódico oficial del Estado de Hidalgo.
+
+P.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 448.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
