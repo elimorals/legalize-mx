@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2018-04-02"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -57,7 +57,9 @@ I. Asistencia privada: Las acciones de asistencia social realizadas por los part
 
 II. Asistencia social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que propicien al individuo su desarrollo integral, así como la protección y tratamiento de la salud física, mental y social de personas en estado de necesidad, desprotección o desventaja, para lograr su incorporación a una vida plena y productiva;
 
-III. Comisión: La Comisión de Fortalecimiento de Organizaciones de la Sociedad Civil del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+III. Comisión: La Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil del Estado de Aguascalientes;
 
 IV. (DEROGADA, P.O. 20 DE AGOSTO DE 2012)
 
@@ -77,7 +79,9 @@ IX. Padrón: Al Padrón Estatal de las Organizaciones de la Sociedad Civil en el
 
 X. Redes: Agrupaciones de Organizaciones de la Sociedad Civil, cuyo fin u objeto es el de apoyarse entre sí, prestando apoyo a otras para el cumplimiento de su objeto social y fomentando e impulsando la creación de asociaciones o fundaciones;
 
-XI. Secretaría Técnica: La Secretaría Técnica de la Comisión de Fortalecimiento de Organizaciones de la Sociedad Civil del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+XI. Secretaría Técnica: La Secretaría Técnica de la Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil del Estado de Aguascalientes; y
 
 > <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -295,7 +299,9 @@ V. Establecer un seguimiento a los programas que se implementen en las Organizac
 
 VI. Definir las políticas públicas para el fomento de las actividades de las Organizaciones de la Sociedad Civil;
 
-VII. Realizar la evaluación de las políticas y acciones de las actividades que señala la presente Ley;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+
+VII. Realizar la evaluación y emitir criterios a fin de mejorar las políticas y acciones de las actividades que señala la presente Ley;
 
 VIII. Promover el diálogo continuo entre los sectores público, social y privado para mejorar las políticas públicas relacionadas con las actividades señaladas en el Artículo 3º de esta Ley;
 
@@ -305,65 +311,47 @@ X. Realizar evaluaciones a los programas o proyectos que sean establecidos dentr
 
 XI. Extender reconocimientos a las Organizaciones de la Sociedad Civil que se hayan distinguido por el cumplimiento permanentemente de los objetivos a que se refiere el Artículo 3º de esta Ley.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 9°.
 
-La Comisión se integrará por un representante propietario de cada una de las siguientes dependencias y entidades:
+La Comisión se integrará por un representante propietario, que será quien ostente la titularidad de cada una de las siguientes dependencias y entidades:
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2017)</small>
+I. Secretaría General de Gobierno, quien será el Presidente;
 
-I. El Secretario General de Gobierno, quien será el Presidente;
+II. Secretaría de Desarrollo Social, quien ocupará la Secretaría Técnica;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+III. Secretaría de Desarrollo Económico;
 
-II. El Secretario de Bienestar y Desarrollo Social, quien será el Secretario Técnico;
+IV. Secretaría de Finanzas;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+V. Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-III. El Secretario de Desarrollo Económico;
+VI. Sistema Estatal para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+VII. Instituto de Educación de Aguascalientes;
 
-IV. El Secretario de Finanzas del Estado de Aguascalientes;
+VIII. Instituto Cultural de Aguascalientes;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+IX. Instituto del Deporte del Estado de Aguascalientes;
 
-V. El Director del Instituto de Servicios de Salud del Estado de Aguascalientes;
+X. Instituto Aguascalentense de las Mujeres;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+XI. Instituto de la Juventud del Estado de Aguascalientes;
 
-VI. El Director del Sistema Estatal para el Desarrollo Integral de la Familia;
+XII. Comisión de Derechos Humanos del Estado de Aguascalientes; y
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+XIII. Como representante del Poder legislativo: quien presida de (sic) la Comisión de Desarrollo Social del Congreso del Estado, el cual solo tendrá derecho a voz.
 
-VII. El Director del Instituto de Educación de Aguascalientes;
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
-
-VIII. El Director del Instituto Cultural de Aguascalientes;
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
-
-IX. EL Director del Instituto del Deporte del Estado de Aguascalientes; y
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
-
-X. Como representante del Poder Legislativo el Presidente de la Comisión de Desarrollo Social del Congreso del Estado, quién solo tendrá derecho a voz.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
-
-Además de los miembros ya enunciados la Comisión se integrará con ocho representantes de organizaciones civiles, cuya participación en el Consejo será por tres años. Para su conformación y renovación periódica la Comisión emitirá la convocatoria, en la cual deberán señalarse los requisitos de elegibilidad, atendiendo a criterios de representatividad, antigüedad, membrecía y desempeño de las organizaciones con registro en el padrón; estos representantes contarán únicamente con derecho a voz.
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
+Además de los miembros ya enunciados, la Comisión se integrará con ocho representantes de las organizaciones civiles inscritas en el padrón cuya participación en ésta será por tres años. Para su conformación y renovación periódica la Comisión emitirá la convocatoria, en la cual deberán señalarse los requisitos de elegibilidad, atendiendo a criterios de representatividad, antigüedad, membrecía y desempeño de las organizaciones con registro en el padrón; estos representantes contarán únicamente con derecho a voz. Por cada representante propietario habrá un suplente.
 
 La Comisión podrá invitar a representantes de cámaras empresariales y de servicios, así como a representantes de los sectores académico, profesional, científico y cultural; a los titulares de las demás dependencias o entidades de la Administración Pública Estatal o Municipal, o a cualquier especialista en el tema a debatir, así como a las autoridades federales en el Estado para que asistan a las reuniones de la misma y en su caso propongan o emitan las opiniones respecto de los asuntos que sean de su competencia, teniendo solo voz pero no voto.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 10.
 
-La Comisión sesionará cuando menos una vez al mes, con la asistencia de la mitad más uno de sus integrantes; y las decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión con derecho a voto, en caso de empate el Presidente o su suplente tendrá voto de calidad.
+La Comisión deberá sesionar de manera ordinaria cuando menos una vez al mes, con la asistencia de la mitad más uno de sus integrantes; y las decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión con derecho a voto, en caso de empate el Presidente o su suplente tendrá voto de calidad. La Comisión podrá sesionar en forma extraordinaria, cuando así se requiera.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -751,9 +739,9 @@ El Gobierno del Estado, las dependencias y entidades a través de la Comisión e
 
 La Comisión emitirá a más tardar el 1 de febrero de cada año la resolución por la cual se determinará la asignación de recursos públicos a las Organizaciones de la Sociedad Civil para el logro y cumplimiento de los proyectos aceptados.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2018)</small>
 
-Tanto las convocatorias, como las resolución (sic) en las que se determina la asignación de recursos públicos, a que hace referencia el presente Artículo, deberán ser publicadas en el Periódico Oficial del Estado, o en su caso en la gaceta municipal u órgano oficial de difusión; así como en la página de internet del Gobierno del Estado, o en su caso en la página de internet del Municipio respectivo.
+Tanto las convocatorias, como las resoluciones en las que se determina la asignación de recursos públicos, a que hace referencia el presente Artículo, deberán ser publicadas en el Periódico Oficial del Estado, o en su caso en la gaceta municipal u órgano oficial de difusión; así como en la página de internet del Gobierno del Estado, o en su caso en la página de internet del Municipio respectivo.
 
 ### CAPÍTULO VII. De los Reconocimientos a las Organizaciones de la Sociedad Civil
 
@@ -956,3 +944,19 @@ P.O. 2 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 329.- SE REFORMAN LOS ARTÍCULOS 2°, 8°, 9°, 10 Y EL ARTÍCULO 51 DE LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil del Estado de Aguascalientes, deberá realizar las adecuaciones a su Reglamento Interno, en un plazo de 120 días naturales contados a partir de la publicación del presente Decreto, en el Periódico Oficial del Estado de Aguascalientes, a fin de prever lo siguiente:
+
+I. Definir los criterios de representatividad, antigüedad, membrecía y desempeño de las Organizaciones con registro en el Padrón, con que debe realizarse la Convocatoria para la conformación y renovación de los representantes de las Organizaciones que integren la Comisión; y
+
+II. Especificar los requisitos que debe contener la Convocatoria que debe emitir la Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil, tanto para su conformación como para su renovación.
