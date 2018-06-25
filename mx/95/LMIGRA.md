@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2017-11-09"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -414,7 +414,9 @@ IV. Las demás que señale esta Ley, su Reglamento y demás disposiciones juríd
 
 Corresponde al Instituto Nacional de las Mujeres:
 
-I. Realizar acciones interinstitucionales, de manera coordinada con el Instituto, que permitan atender la problemática de las mujeres migrantes, y avanzar en el cumplimiento de los tratados y convenios internacionales de los cuales sea parte el Estado Mexicano;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+I. Realizar acciones interinstitucionales, de manera coordinada con el Instituto, que permitan atender la problemática, así como la prevención de la violencia contra las mujeres migrantes, y avanzar en el cumplimiento de los tratados y convenios internacionales de los cuales sea parte el Estado Mexicano.
 
 II. Promover acciones dirigidas a mejorar la condición social de la población femenina migrante y la erradicación de todas las formas de discriminación en su contra;
 
@@ -1683,3 +1685,9 @@ D.O.F. 9 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 29 Y 112 DE LA LEY DE MIGRACIÓN".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 30 DE LA LEY DE MIGRACIÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
