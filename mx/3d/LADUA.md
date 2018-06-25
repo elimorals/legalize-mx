@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2018-06-01"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 22 DE DICIEMBRE DE 2017.
 
@@ -58,11 +58,13 @@ Ley Aduanera
 
 Esta Ley, las de los Impuestos Generales de Importación y Exportación y las demás leyes y ordenamientos aplicables, regulan la entrada al territorio nacional y la salida del mismo de mercancías y de los medios en que se transportan o conducen, el despacho aduanero y los hechos o actos que deriven de éste o de dicha entrada o salida de mercancías. El Código Fiscal de la Federación se aplicará supletoriamente a lo dispuesto en esta Ley.
 
-Están obligados al cumplimiento de las citadas disposiciones quienes introducen mercancías al territorio nacional o las extraen del mismo, ya sean sus propietarios, poseedores, destinatarios, remitentes, apoderados, agentes aduanales o cualesquiera personas que tengan intervención en la introducción, extracción, custodia, almacenaje, manejo y tenencia de las mercancías o en los hechos o actos mencionados en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+Están obligados al cumplimiento de las citadas disposiciones quienes introducen mercancías al territorio nacional o las extraen del mismo, ya sean sus propietarios, poseedores, tenedores, consignatarios, destinatarios, remitentes, apoderados, agentes aduanales, agencias aduanales o cualesquiera personas que tengan intervención en la introducción, extracción, custodia, almacenaje, manejo y tenencia de las mercancías o en los hechos o actos mencionados en el párrafo anterior.
 
-Las disposiciones de las leyes señaladas en el párrafo primero se aplicarán sin perjuicio de lo dispuesto por los tratados de que México sea Parte y estén en vigor.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Las disposiciones de las leyes señaladas en el párrafo primero de este artículo se aplicarán sin perjuicio de lo dispuesto por los tratados internacionales de los que el Estado mexicano sea Parte y se encuentren en vigor.
 
 ###### Artículo 2o.
 
@@ -74,13 +76,17 @@ II. Autoridad o autoridades aduaneras, las que de acuerdo con el Reglamento Inte
 
 III. Mercancías, los productos, artículos, efectos y cualesquier otros bienes, aun cuando las leyes los consideren inalienables o irreductibles a propiedad particular.
 
-IV. Residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o morales residentes en el extranjero, que tengan uno o varios establecimientos permanentes o bases fijas en el país, siempre que reúnan los requisitos que señala la Ley del Impuesto sobre la Renta para ser establecimiento permanente o base fija y las personas físicas que obtengan ingresos por salarios de un residente en territorio nacional.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+IV. Residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o morales residentes en el extranjero, que tengan uno o varios establecimientos permanentes en el país, siempre que reúnan los requisitos que señala la Ley del Impuesto sobre la Renta para ser establecimiento permanente y las personas físicas que obtengan ingresos por salarios de un residente en territorio nacional.
 
 V. Impuestos al comercio exterior, los impuestos generales de importación y de exportación conforme a las tarifas de las leyes respectivas.
 
 VI. Reglamento, el Reglamento de esta Ley.
 
-VII. Reglas, las de carácter general que emita la Secretaría.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+VII. Reglas, las de carácter general que emita el Servicio de Administración Tributaria.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -102,13 +108,13 @@ XI. Mermas, los efectos que se consumen o pierden en el desarrollo de los proces
 
 XII. Desperdicios, los residuos de las mercancías después del proceso al que sean sometidas; los envases y materiales de empaque que se hubieran importado como un todo con las mercancías importadas temporalmente; así como aquellas que se encuentren rotas, desgastadas, obsoletas o inutilizables y las que no puedan ser utilizadas para el fin con el que fueron importadas temporalmente.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XIII. Documento electrónico, todo mensaje que contiene información escrita en datos, generada, transmitida, presentada, recibida o archivada por medios electrónicos.
+XIII. Documento electrónico, todo mensaje que contiene información escrita en datos generada, transmitida, comunicada, presentada, recibida, archivada o almacenada por medios electrónicos o cualquier otro medio tecnológico.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XIV. Documento digital, todo mensaje que contiene información por reproducción electrónica de documentos escritos o impresos, transmitida, presentada, recibida o archivada por medios electrónicos.
+XIV. Documento digital, todo mensaje que contiene información por reproducción electrónica de documentos escritos o impresos, transmitida, comunicada, presentada, recibida, archivada o almacenada, por medios electrónicos o cualquier otro medio tecnológico.
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -121,6 +127,22 @@ XVI. Pedimento, la declaración en documento electrónico, generada y transmitid
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 XVII. Aviso consolidado, la declaración en documento electrónico, generada y transmitida respecto del cumplimiento de los ordenamientos que gravan y regulan la entrada o salida de mercancías del territorio nacional, en la que se contiene información relativa a las operaciones que se consolidan en un pedimento, en la forma y con la información requerida por el Servicio de Administración Tributaria mediante reglas.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XVIII. Documento equivalente, el documento de carácter fiscal emitido en el extranjero, que ampare el precio pagado o por pagar de las mercancías introducidas al territorio nacional o el valor de las mismas, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XIX. Retiro voluntario, la renuncia definitiva e irrevocable de los derechos que concede la patente de agente aduanal.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XX. Agencia aduanal, persona moral autorizada en términos del artículo 167-D de esta Ley para promover el despacho aduanero de las mercancías por cuenta ajena en los diferentes regímenes aduaneros previstos en esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XXI. Agente aduanal, persona física autorizada en términos del artículo 159 de esta Ley mediante una patente, para promover por cuenta ajena el despacho aduanero de las mercancías, en los diferentes regímenes aduaneros previstos en esta Ley.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -168,23 +190,25 @@ e) De sistemas automatizados para el control de las entradas y salidas del recin
 
 El monto de las multas y cantidades en moneda nacional establecidas en esta Ley, se actualizará en los términos del artículo 70 del Código Fiscal de la Federación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Cuando en esta Ley se señalen multas con base en el monto de las contribuciones omitidas, se considerarán las contribuciones actualizadas en los términos del artículo 17-A del Código Fiscal de la Federación.
+Cuando en esta Ley se señalen multas con base en el monto de las contribuciones omitidas, la autoridad aduanera, para la determinación de dichas multas deberá considerar las contribuciones sin la actualización correspondiente.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 6o.
 
-Cuando las disposiciones de esta Ley obliguen a transmitir o presentar información ante la autoridad aduanera, ésta deberá transmitirse a través del sistema electrónico aduanero mediante documento electrónico o digital, según se exija, empleando la firma electrónica avanzada o el sello digital, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas. Recibido el documento electrónico o digital, el citado sistema generará el acuse respectivo. El Servicio de Administración Tributaria podrá determinar los casos en que la información deba presentarse a través de medios distintos al electrónico o digital.
+Cuando las disposiciones de esta Ley obliguen a transmitir, presentar información o realizar algún trámite ante la autoridad aduanera, éstos deberán efectuarse a través del sistema electrónico aduanero mediante documento electrónico o digital, según se exija, empleando la firma electrónica avanzada, el sello digital u otro medio tecnológico de identificación, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, en las que además se podrán determinar los casos en que la información o el trámite deban presentarse a través de medios distintos al electrónico o digital. El Servicio de Administración Tributaria, señalará mediante reglas los medios tecnológicos de identificación a que se refiere el presente artículo.
 
-La firma electrónica avanzada o el sello digital amparado por un certificado vigente, que se utilice en la transmisión o presentación de un documento electrónico o digital, producirá los mismos efectos que las leyes otorgan a la información que se presente con firma autógrafa. La firma electrónica avanzada, los sellos digitales y sus respectivos certificados deberán tramitarse y quedan sujetos, en lo aplicable, a lo dispuesto por el Código Fiscal de la Federación.
+La firma electrónica avanzada o el sello digital amparados por un certificado vigente o cualquier otro medio tecnológico de identificación, que se utilice en la transmisión o presentación de un documento electrónico o digital, producirá los mismos efectos que las leyes otorgan a la información que se presente con firma autógrafa. La firma electrónica avanzada, los sellos digitales y sus respectivos certificados deberán tramitarse y quedan sujetos, en lo aplicable, a lo dispuesto en el Código Fiscal de la Federación.
 
-El documento electrónico o digital recibido en el sistema electrónico aduanero tendrá pleno valor legal y probatorio y se deberá conservar por los obligados en archivo electrónico, en los lugares y por los plazos establecidos en el artículo 67 del Código Fiscal de la Federación, para y como parte de la contabilidad, debiéndose poner a disposición de la autoridad fiscal cuando lo requiera para los efectos de su competencia, incluso para cotejo o compulsa con la información en datos o documentos relacionada.
+Cuando se reciba en el sistema electrónico aduanero el documento electrónico o digital, éste generará el acuse respectivo, lo que acreditará que el documento fue transmitido y se presumirá, salvo prueba en contrario, que el mismo fue recibido en el sistema, en la fecha y hora que se consigne en el acuse de recibo mencionado.
 
-En caso de discrepancia, entre la información en datos y documentos contenida en el documento electrónico o digital recibido en el sistema electrónico aduanero, respecto de la contenida en los archivos electrónicos de los obligados, prevalecerán los primeros, salvo prueba en contrario, que los interesados podrán aportar durante el procedimiento que corresponda en términos de esta Ley.
+El documento electrónico o digital recibido en el sistema electrónico aduanero tendrá pleno valor legal y probatorio y se deberá conservar por los obligados en el formato en que se haya generado y en el expediente electrónico, en los lugares y por los plazos establecidos en el Código Fiscal de la Federación, como parte de la contabilidad, debiéndose poner a disposición de la autoridad fiscal cuando lo requiera para efectos de su competencia, incluso para cotejo o compulsa con la información en datos o documentos relacionada.
 
-Con independencia de lo dispuesto por el artículo 36–A de esta Ley y demás disposiciones aplicables, a efecto de verificar el adecuado cumplimiento de las obligaciones fiscales y aduaneras, los contribuyentes, responsables solidarios y terceros con ellos relacionados, deberán de conservar la documentación relacionada con las operaciones de comercio exterior en la forma que se haya emitido u obtenido.
+En caso de discrepancia, entre la información en datos y documentos contenida en el documento electrónico o digital recibido en el sistema electrónico aduanero, respecto de la contenida en el expediente electrónico de los obligados, prevalecerá la primera, salvo prueba en contrario que los interesados podrán aportar durante el procedimiento que corresponda en términos de esta Ley.
+
+Con independencia de lo dispuesto en el artículo 36-A de esta Ley y demás disposiciones jurídicas aplicables, a efecto de verificar el adecuado cumplimiento de las obligaciones fiscales y aduaneras, los contribuyentes, responsables solidarios y terceros con ellos relacionados, deberán de conservar la documentación relacionada con las operaciones de comercio exterior en la forma que se haya emitido u obtenido.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -304,11 +328,11 @@ Las concesiones se podrán otorgar hasta por un plazo de veinte años, el cual p
 
 Al término de la concesión o de su prórroga, las obras, instalaciones y adaptaciones efectuadas dentro del recinto fiscal, así como el equipo destinado a la prestación de los servicios de que se trate, pasarán en el estado en que se encuentren a ser propiedad del Gobierno Federal, sin el pago de contraprestación alguna para el concesionario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 14-A.
 
-Los particulares que tengan el uso o goce de un inmueble colindante con un recinto fiscal o de un inmueble ubicado dentro o colindante a un recinto portuario, tratándose de aduanas marítimas, fronterizas, interiores de tráfico ferroviario o aéreo, podrán solicitar al Servicio de Administración Tributaria la autorización para prestar los servicios de manejo, almacenaje y custodia de mercancías, en cuyo caso el inmueble donde se presten dichos servicios se denominará recinto fiscalizado autorizado.
+Los particulares que tengan el uso o goce de un inmueble colindante con un recinto fiscal o fiscalizado, incluso a través de una ruta confinada o de un inmueble ubicado dentro o colindante a un recinto portuario, incluida su zona de desarrollo, tratándose de aduanas marítimas, fronterizas, interiores de tráfico ferroviario o aéreo, podrán solicitar al Servicio de Administración Tributaria la autorización para prestar los servicios de manejo, almacenaje y custodia de mercancías, en cuyo caso el inmueble donde se presten dichos servicios se denominará recinto fiscalizado autorizado.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -388,6 +412,28 @@ IV. Prestar los servicios de manejo, almacenaje y custodia de las mercancías em
 
 Cuando las mercancías no sean retiradas por causas imputables a las autoridades aduaneras, el servicio no se cobrará al particular afectado y la contraprestación no cobrada se podrá compensar contra el citado aprovechamiento.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+La compensación señalada en esta fracción aplicará a partir de la fecha en que la autoridad aduanera haga del conocimiento al recinto fiscalizado que la mercancía queda bajo su custodia y hasta que le notifique su liberación al propietario, donatario o consignatario, en los supuestos siguientes:
+
+a) Tratándose de mercancía que haya pasado a propiedad del Fisco Federal, hasta que deba ser retirada por el Servicio de Administración y Enajenación de Bienes.
+
+b) Cuando las mercancías sean retiradas por los asignatarios o donatarios, quienes contarán para tales efectos con un plazo de hasta diez días, contado a partir de la firma del acta de asignación o donación, tratándose de las mercancías de las que disponga el Servicio de Administración Tributaria.
+
+c) En la fecha que se instruya al recinto fiscalizado la destrucción de las mercancías.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+En los casos anteriores, los servicios generados a partir de que las mercancías se encuentren a disposición del propietario, donatario o consignatario, o a partir de la fecha en que deban ser retiradas por el Servicio de Administración y Enajenación de Bienes, serán a cargo de éstos, cuya cuota se cobrará conforme a lo dispuesto en el primer párrafo de esta fracción, sin que sean objeto de compensación.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Para efectos de esta fracción, se entiende que las mercancías se encuentran a disposición del Servicio de Administración y Enajenación de Bienes, una vez transcurridos sesenta días a partir de que las autoridades aduaneras soliciten la transferencia de las mercancías de conformidad con lo establecido en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, debiendo hacer del conocimiento al recinto fiscalizado de la fecha en que se realizó dicha solicitud, plazo en el cual deberá efectuarse su retiro acorde a lo previsto en la mencionada Ley, por lo que la compensación no podrá extenderse del referido plazo de tres meses, debiendo cesar en la fecha en que se realice el retiro de la mercancía o concluido dicho plazo, lo que suceda primero.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+No podrá ser objeto de compensación el almacenamiento, manejo y custodia de mercancías objeto de procedimientos competencia de autoridades distintas de la aduanera.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 V. Permitir el almacenamiento y custodia gratuita de las mercancías, de conformidad con lo siguiente:
@@ -420,47 +466,51 @@ VII. Pagar en las oficinas autorizadas un aprovechamiento del 5% de la totalidad
 
 De los aprovechamientos determinados mensualmente, podrán disminuirse los gastos efectuados por las obras que se realicen en las oficinas administrativas de la aduana y sus instalaciones complementarias, conforme a los programas que autorice el Servicio de Administración Tributaria, sin que pueda disminuirse el impuesto al valor agregado trasladado por la realización de dichas obras. Así mismo, podrá disminuir de dicho aprovechamiento las cantidades que aporten al fideicomiso constituido para el mejoramiento de los medios de informática y de control de las autoridades aduaneras.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Cuando en los lugares habilitados para la prestación de los servicios objeto de la concesión o autorización, se presten servicios distintos del manejo, almacenaje y custodia de mercancías de comercio exterior, los ingresos por dichos servicios se considerarán distintos de los ingresos que conforman la base del aprovechamiento, en tanto no excedan del 10% del total de los ingresos asociados a la concesión o autorización respectiva. Los montos excedentes se integrarán a la base del aprovechamiento, salvo prueba en contrario de que se trata de ingresos obtenidos por servicios que no sean conexos o relacionados directamente con los servicios de manejo, almacenaje y custodia objeto de la concesión o autorización.
+
 > <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 2002)</small>
 
 VIII. Guardar absoluta reserva de la información relativa a las mercancías que se encuentren en depósito ante la aduana y sólo la podrá proporcionar a las autoridades aduaneras.
 
 Cuando las personas que presten los servicios a que se refiere este artículo, destinen total o parcialmente el almacén para uso propio, el aprovechamiento a que se refiere la fracción VII de este artículo, deberá calcularse conforme a la proporción que la parte destinada para uso propio represente respecto del volumen total susceptible de almacenaje. En este caso, para determinar la base del aprovechamiento se estimarán los ingresos considerando el volumen de las mercancías almacenadas, el periodo de almacenaje y la tarifa que corresponda al propio almacén o a uno de características similares a éste que preste servicios al público en general en el mismo recinto fiscal.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Procederá la revocación de la concesión o la cancelación de la autorización conforme al procedimiento previsto en el artículo 144-A de esta Ley, cuando se incumpla en más de dos ocasiones con alguna de las obligaciones establecidas en el primer párrafo y en las fracciones II, III, IV, V y VI de este artículo, en las fracciones VII y VIII del artículo 26 de esta Ley.
+Procederá la revocación de la concesión o la cancelación de la autorización conforme al procedimiento previsto en el artículo 144-A de esta Ley, cuando se incumpla en más de dos ocasiones, en un plazo que no exceda de un año, con alguna de las obligaciones establecidas en el primer párrafo y en las fracciones II, III, IV, V y VI de este artículo, en las fracciones VII y VIII del artículo 26 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 16.
 
-La Secretaría podrá autorizar a los particulares para prestar los servicios de procesamiento electrónico de datos y servicios relacionados, necesarios para llevar a cabo el despacho aduanero; así como para las demás operaciones que la propia Secretaría decida autorizar, inclusive las relacionadas con otras contribuciones, ya sea que se causen con motivo de los trámites aduaneros o por cualquier otra causa. Los particulares que deseen obtener la autorización a que se refiere este artículo deberán cumplir con los siguientes requisitos:
+El Servicio de Administración Tributaria podrá autorizar a los particulares para prestar los servicios de procesamiento electrónico de datos y servicios relacionados, necesarios para llevar a cabo el despacho aduanero; así como para las demás operaciones que ese órgano administrativo desconcentrado decida autorizar, inclusive las relacionadas con otras contribuciones, ya sea que se causen con motivo de los trámites aduaneros o por cualquier otra causa. Los particulares que deseen obtener la autorización a que se refiere este artículo deberán cumplir con los siguientes requisitos:
 
-I. Tener cinco años de experiencia, prestando los servicios que se vayan a autorizar.
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+I. Tener dos años de experiencia, prestando los servicios que se vayan a autorizar.
 
 II. Tener un capital social pagado de por lo menos $2,488,410.00.
 
-III. Cumplir con los requisitos de procedimiento que la Secretaría establezca en la convocatoria que para estos efectos publique en el Diario Oficial de la Federación.
+III. Cumplir con los requisitos de procedimiento que el Servicio de Administración Tributaria establezca en la convocatoria que para estos efectos se publique en el Diario Oficial de la Federación.
 
-La propia Secretaría podrá autorizar a los particulares a prestar otros servicios que faciliten el reconocimiento aduanero de las mercancías.
+El Servicio de Administración Tributaria podrá autorizar a los particulares a prestar otros servicios que faciliten el reconocimiento aduanero de las mercancías.
 
-La Secretaría determinará las cantidades que como contraprestación pagarán las personas que realicen las operaciones aduaneras a quienes presten estos servicios. Este pago, incluyendo el impuesto al valor agregado trasladado con motivo de la contraprestación, se acreditará contra el monto de los derechos de trámite aduanero a que se refieren los artículos 49 y 50 de la Ley Federal de Derechos y no podrá ser superior a los mencionados derechos, salvo en el caso de las contraprestaciones que se paguen con motivo del segundo reconocimiento. El acreditamiento a que se refiere este párrafo en ningún caso dará lugar a un saldo a favor acreditable contra otras operaciones, ni a devolución.
+El Servicio de Administración Tributaria determinará las cantidades que como contraprestación pagarán las personas que realicen las operaciones aduaneras a quienes presten estos servicios. Este pago, incluyendo el impuesto al valor agregado trasladado con motivo de la contraprestación, se acreditará contra el monto de los derechos de trámite aduanero a que se refieren los artículos 49 y 50 de la Ley Federal de Derechos y no podrá ser superior a los mencionados derechos. El acreditamiento a que se refiere este párrafo en ningún caso dará lugar a un saldo a favor acreditable contra otras operaciones, ni a devolución.
 
-Los derechos y las contraprestaciones a que se refiere el párrafo anterior se enterarán conjuntamente ante las oficinas autorizadas. La Secretaría determinará mediante reglas el por ciento que del total corresponde a los derechos, a los particulares y el impuesto al valor agregado trasladado con motivo de la contraprestación.
+Los derechos y las contraprestaciones a que se refiere el párrafo anterior se enterarán conjuntamente ante las oficinas autorizadas. El Servicio de Administración Tributaria determinará mediante reglas el por ciento que del total corresponde a los derechos, a los particulares y el impuesto al valor agregado trasladado con motivo de la contraprestación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 16-A.
 
-El Servicio de Administración Tributaria podrá otorgar autorización para prestar los servicios de prevalidación electrónica de datos, contenidos en los pedimentos, siempre que los interesados acrediten su solvencia moral y económica, así como estar al corriente en el cumplimiento de sus obligaciones fiscales, y cumplan con los requisitos que establezca el Servicio de Administración Tributaria en reglas. En ningún caso podrá expedirse autorización a quien actúe con el carácter de importador, exportador o agente aduanal.
+El Servicio de Administración Tributaria podrá otorgar autorización para prestar los servicios de prevalidación electrónica de datos, contenidos en los pedimentos, siempre que los interesados acrediten su solvencia moral y económica, así como estar al corriente en el cumplimiento de sus obligaciones fiscales, ser persona moral constituida de conformidad con las leyes mexicanas y cumplan con los requisitos que establezca el Servicio de Administración Tributaria en reglas. En ningún caso podrá expedirse autorización a quien actúe con el carácter de importador, exportador, agente aduanal o agencia aduanal.
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 La prevalidación consiste en comprobar que los datos asentados en el pedimento, estén dentro de los criterios sintácticos, catalógicos, estructurales y normativos, conforme se establezca por el Servicio de Administración Tributaria, para ser presentados al sistema electrónico del propio Servicio.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Para obtener la autorización prevista en el primer párrafo de este artículo, los interesados deberán contar con equipo de cómputo enlazado con el sistema electrónico aduanero del Servicio de Administración Tributaria, así como con el de los importadores, los exportadores y los agentes aduanales cuando el despacho aduanero se haga por su conducto, y llevar un registro simultáneo de sus operaciones. El Servicio de Administración Tributaria establecerá los lineamientos para llevar a cabo el enlace de los medios de cómputo, así como el contenido y la forma del registro citado.
+Para obtener la autorización prevista en el primer párrafo de este artículo, los interesados deberán contar con equipo de cómputo enlazado con el sistema electrónico aduanero del Servicio de Administración Tributaria, así como con el de los importadores, los exportadores, los agentes aduanales y las agencias aduanales cuando el despacho aduanero se haga por conducto de éstos, y llevar un registro simultáneo de sus operaciones. El Servicio de Administración Tributaria establecerá los lineamientos para llevar a cabo el enlace de los medios de cómputo, así como el contenido y la forma del registro citado, incluso la infraestructura y los requerimientos técnicos que se habrán de cumplir para prestar los servicios.
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -470,9 +520,9 @@ Las autorizaciones se podrán otorgar hasta por un plazo de veinte años, mismo 
 
 Las personas que obtengan la autorización en los términos de este artículo, estarán obligadas a pagar en las oficinas autorizadas, mensualmente, en los primeros doce días del mes siguiente a aquél al que corresponda el pago, un aprovechamiento de $240.00 por cada pedimento que prevaliden y que posteriormente sea presentado ante la autoridad aduanera para su despacho. Dicho aprovechamiento será aportado a un fideicomiso público para el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Quienes introduzcan o extraigan del territorio nacional mercancías, deberán prevalidar los pedimentos que presenten al sistema electrónico aduanero, con las personas autorizadas conforme a este artículo.
+Quienes introduzcan o extraigan del territorio nacional mercancías deberán, previo a la transmisión del pedimento en el sistema electrónico aduanero, al pago de las contribuciones y al despacho de las mercancías ante la autoridad aduanera, prevalidar dichos pedimentos, con las personas autorizadas conforme a este artículo.
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -494,13 +544,51 @@ Las autorizaciones previstas en este artículo, se podrán otorgar hasta por un 
 
 Las personas que obtengan la autorización en los términos de este artículo, estarán obligadas a pagar en las oficinas autorizadas, mensualmente, en los primeros doce días del mes siguiente a aquél al que corresponda el pago, un aprovechamiento de $190.00 por la prevalidación del pedimento para la importación temporal de cada remolque, semiremolque y portacontenedor, misma que amparará su legal estancia por el plazo que establece el artículo 106, fracción I de esta Ley. El aprovechamiento será aportado a un fideicomiso público para el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 16-C.
+
+El Servicio de Administración Tributaria podrá otorgar autorización a personas morales para que presten servicios de medición de peso, volumen, o cualquier otro que resulte aplicable a la determinación de las características inherentes a la mercancía, que influya en el pago de las contribuciones aplicables, cuando para ello se requiera de equipos, sistemas o instrumentos especializados, así como para la acreditación de la correcta operación y funcionamiento de dichos equipos, sistemas o instrumentos especializados.
+
+Para efectos del párrafo anterior, las autorizaciones que se podrán otorgar serán las siguientes:
+
+I. Para la prestación del servicio de emisión del dictamen de medición de peso, volumen o de determinación de las características inherentes a la mercancía.
+
+II. Para la prestación del servicio de emisión de certificación de la correcta operación y funcionamiento de los equipos, sistemas o instrumentos especializados que se utilicen para la medición de peso, volumen o de determinación de las características inherentes a la mercancía.
+
+Para obtener alguna de las autorizaciones previstas en el párrafo anterior, el interesado deberá acreditar ser persona moral; contar con experiencia en la materia, con solvencia económica, con capacidad técnica, administrativa y financiera, así como con la de sus socios y accionistas; estar al corriente en el cumplimiento de sus obligaciones fiscales; efectuar el pago por el otorgamiento de la autorización correspondiente, y cumplir con los requisitos y obligaciones que establezca el Servicio de Administración Tributaria mediante reglas. En el caso de la autorización a que se refiere la fracción I, del párrafo anterior, los equipos, sistemas y/o instrumentos necesarios para emitir el dictamen descrito, deberán estar certificados por las personas a las que se refiere la fracción II del citado párrafo.
+
+En ningún caso podrá expedirse autorización a quien actúe con el carácter de importador, exportador, agente aduanal o agencia aduanal, ni podrá tener ambas autorizaciones de manera simultánea una misma persona.
+
+Las autorizaciones se podrán otorgar por un plazo de hasta diez años, las cuales podrán prorrogarse a solicitud del interesado hasta por un plazo igual, siempre que la solicitud se presente en los últimos tres meses previos al vencimiento de la autorización, se efectúe el pago por el otorgamiento de la autorización correspondiente y se sigan cumpliendo con los requisitos previstos para su otorgamiento, así como con las obligaciones derivadas de la misma.
+
+Las personas morales que obtengan las autorizaciones previstas en el segundo párrafo de este artículo, deberán cumplir con las obligaciones establecidas en esta Ley, mantener los medios de control que señale el Servicio de Administración Tributaria mediante reglas, contar con equipo de cómputo enlazado con el sistema electrónico aduanero de dicho órgano administrativo desconcentrado, así como con el de los importadores, los exportadores, los agentes aduanales y las agencias aduanales cuando el despacho aduanero se haga por su conducto, y llevar un registro simultáneo de sus operaciones.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 16-D.
+
+El Servicio de Administración Tributaria podrá otorgar autorización a personas morales, para la fabricación o importación de candados oficiales o electrónicos que se utilicen en los vehículos y contenedores que transporten las mercancías materia del despacho aduanero.
+
+Para obtener la autorización las personas morales deberán acreditar su solvencia económica, su capacidad técnica, administrativa y financiera, así como la de sus socios y accionistas, y estar al corriente en el cumplimiento de sus obligaciones fiscales, así como efectuar el pago por el otorgamiento de la autorización y cumplir con los demás requisitos que establezca el Servicio de Administración Tributaria mediante reglas.
+
+En ningún caso se podrá expedir autorización a quien actúe con el carácter de importador, exportador, agente aduanal o agencia aduanal.
+
+Las autorizaciones se podrán otorgar hasta por un plazo de cinco años, el cual podrá prorrogarse a solicitud del interesado hasta por un plazo igual, siempre que la solicitud se presente durante los últimos tres meses previos al vencimiento de la autorización, se efectúe el pago correspondiente y se sigan cumpliendo los requisitos previstos para su otorgamiento, así como de las obligaciones derivadas de la misma.
+
+Las personas morales que obtengan la autorización a que se refiere este artículo, deberán cumplir con las obligaciones establecidas en esta Ley, mantener los medios de control y las condiciones técnicas que señale el Servicio de Administración Tributaria mediante reglas, para la fabricación o importación de los candados oficiales o electrónicos, y contar con equipo de cómputo enlazado con el sistema electrónico aduanero de dicho órgano administrativo desconcentrado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 17.
 
-Las personas que presten sus servicios o que realicen actividades dentro de los recintos fiscales o fiscalizados deberán portar los gafetes u otros distintivos que los identifiquen, en los términos que establezca la Secretaría mediante reglas.
+Las personas que presten sus servicios o que realicen actividades dentro de los recintos fiscales o fiscalizados deberán portar los gafetes u otros distintivos que los identifiquen, en los términos que establezca el Servicio de Administración Tributaria mediante reglas.
 
 Sólo podrán ingresar a los recintos fiscales o fiscalizados las personas autorizadas por las autoridades aduaneras. En caso de inobservancia a lo dispuesto en este párrafo, dichas autoridades procederán a realizar los actos a que se refiere el artículo 40 del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+El Servicio de Administración Tributaria podrá expedir un gafete electrónico de identificación a través del sistema electrónico aduanero, por el cual los interesados pagarán un aprovechamiento de $200.00, mismo que será destinado al fideicomiso público para el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras.
 
 ###### Artículo 18.
 
@@ -530,7 +618,9 @@ III. Exhibir, cuando las autoridades aduaneras lo requieran, los documentos que 
 
 IV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-V. Colocar en los bultos que transporten y que contengan mercancías que sean explosivas, inflamables, contaminantes, radiactivas o corrosivas, las marcas o símbolos que son obligatorios internacionalmente, cuando el documento que ampare su transporte señale que se trata de este tipo de mercancías.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+V. Colocar en los bultos que transporten y que contengan mercancías que sean explosivas, inflamables, contaminantes, radiactivas, radioactivas o corrosivas, las marcas o símbolos que son obligatorios internacionalmente, cuando el documento que ampare su transporte señale que se trata de este tipo de mercancías.
 
 VI. Evitar la venta de mercancías de procedencia extranjera en las embarcaciones o aeronaves una vez que se encuentren en el territorio nacional.
 
@@ -600,13 +690,17 @@ Igual obligación tiene el remitente de mercancías de procedencia extranjera qu
 
 Las mercancías quedarán en depósito ante la aduana en los recintos fiscales o fiscalizados destinados a este objeto, con el propósito de destinarlas a un régimen aduanero.
 
-Las mercancías explosivas, inflamables, corrosivas, contaminantes o radiactivas sólo podrán descargarse o quedar en depósito ante la aduana a su ingreso al territorio nacional o para extraerse del mismo, siempre que se cumpla con los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Las mercancías explosivas, inflamables, corrosivas, contaminantes, radiactivas o radioactivas sólo podrán descargarse o quedar en depósito ante la aduana a su ingreso al territorio nacional o para extraerse del mismo, siempre que se cumpla con los siguientes requisitos:
 
 I. Que las mercancías cuenten con la autorización de las autoridades competentes.
 
 II. Que el recinto cuente con lugares apropiados para su almacenaje, por sus condiciones de seguridad.
 
-Tratándose de mercancías radiactivas y explosivas que queden en depósito ante la aduana en recintos fiscales, las autoridades aduaneras las entregarán de inmediato a las autoridades y organismos competentes en la materia, bajo cuya custodia y supervisión quedarán almacenadas, siendo responsable ante aquellas, en los términos del artículo 26 de esta Ley.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Tratándose de mercancías radiactivas o radioactivas y explosivas que queden en depósito ante la aduana en recintos fiscales, las autoridades aduaneras las entregarán de inmediato a las autoridades y organismos competentes en la materia, bajo cuya custodia y supervisión quedarán almacenadas, siendo responsable ante aquellas, en los términos del artículo 26 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -646,11 +740,15 @@ V. Devolver los contenedores, en los que se encontraban mercancías que hubieran
 
 VI. Entregar las mercancías embargadas o que hayan pasado a ser propiedad del Fisco Federal y que se encuentren bajo su custodia, previa autorización de la autoridad o a solicitud de la misma, dentro de un plazo máximo de diez días contado a partir de la autorización o solicitud respectiva.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+
+VII. Entregar las mercancías que tengan almacenadas, una vez que constaten que los datos del pedimento proporcionado coincidan con los contenidos en el sistema electrónico aduanero, en el que aparezca además la consignación de pago de las contribuciones y, en su caso, de las cuotas compensatorias determinadas.
+
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
-VII. Entregar las mercancías que tengan almacenadas, una vez que constaten que los datos del pedimento proporcionado, coincidan con los contenidos en el sistema electrónico aduanero, en el que aparezca además la consignación de pago de las contribuciones y cuotas compensatorias determinadas.
-
 Tratándose de operaciones amparadas en pedimentos consolidados, la constatación se realizará considerando los datos contenidos en el aviso consolidado proporcionado, con los contenidos en el sistema electrónico aduanero, en el que aparezca el número de pedimento consolidado.
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 En la entrega de mercancías en contenedores, además se deberán constatar los datos relativos al contenedor con las características del mismo.
 
@@ -696,7 +794,9 @@ II. Tácitamente, cuando no sean retiradas dentro de los plazos que a continuaci
 
 a) Tres meses, tratándose de la exportación.
 
-b) Tres días, tratándose de mercancías explosivas, inflamables, contaminantes, radiactivas o corrosivas, así como de mercancías perecederas o de fácil descomposición y de animales vivos.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+b) Tres días, tratándose de mercancías explosivas, inflamables, contaminantes, radiactivas, radioactivas o corrosivas, así como de mercancías perecederas o de fácil descomposición y de animales vivos.
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2018)</small>
 
@@ -704,7 +804,9 @@ Los plazos a que se refiere este inciso, serán de hasta 45 días, en aquellos c
 
 c) Dos meses, en los demás casos.
 
-También causarán abandono en favor del Fisco Federal las mercancías que hayan sido embargadas por las autoridades aduaneras con motivo de la tramitación de un procedimiento administrativo o judicial o cuando habiendo sido vendidas o rematadas no se retiren del recinto fiscal o fiscalizado. En estos casos causarán abandono en dos meses contados a partir de la fecha en que queden a disposición de los interesados.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Tratándose de las mercancías que hayan sido embargadas por las autoridades aduaneras con motivo de la tramitación de un procedimiento administrativo o judicial y no se retiren del recinto fiscal o fiscalizado, el plazo de dos meses se contará a partir de la fecha en que queden a disposición de los interesados.
 
 Se entenderá que las mercancías se encuentran a disposición del interesado a partir del día siguiente a aquel en que se notifique la resolución correspondiente.
 
@@ -734,11 +836,11 @@ Cuando hubiera transcurrido el plazo, que corresponda al supuesto de que se trat
 
 Tratándose de mercancías explosivas, inflamables, contaminantes o corrosivas, así como de mercancías perecederas o de fácil descomposición y de animales vivos, el plazo para retirar las mercancías a que se refiere el párrafo anterior será de tres días.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Una vez que el Servicio de Administración Tributaria determine el destino de las mercancías que hubieran pasado a propiedad del Fisco Federal y de las que se pueda disponer de conformidad con lo establecido en el artículo 145 de esta Ley, las personas que presten los servicios señalados en el artículo 14 de la propia Ley, deberán destruir aquellas mercancías de las cuales no disponga dicho órgano, para lo cual se deberá cumplir con el procedimiento que el Servicio de Administración Tributaria establezca mediante reglas. El costo de la destrucción será a cargo de las personas que la lleven a cabo.
+Una vez que el Servicio de Administración Tributaria determine el destino de las mercancías que hubieran pasado a propiedad del Fisco Federal y de las que se pueda disponer de conformidad con lo establecido en el artículo 145 de esta Ley, las personas que presten los servicios señalados en los artículos 14 y 14-A de la propia Ley, deberán destruir aquellas mercancías de las cuales no disponga dicho órgano administrativo desconcentrado, para lo cual se deberá cumplir con el procedimiento que el Servicio de Administración Tributaria establezca mediante reglas. El costo de la destrucción será a cargo de las personas que la lleven a cabo.
 
-El adquirente de dichas mercancías podrá optar por retornarlas al extranjero o destinarlas a cualquiera de los regímenes aduaneros en los términos de esta Ley, calculando la base para el pago de las contribuciones de conformidad con las disposiciones del Título Tercero, Capítulo III de esta Ley. El producto de la venta se destinará a los fondos constituidos para el mantenimiento, reparación o ampliación de las instalaciones de las aduanas a que se refiere el artículo 202 de esta Ley, así como a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de las mercancías en los términos que mediante reglas establezca la Secretaría.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 33.
 
@@ -752,61 +854,99 @@ II. Por consulta entre autoridades, si de dicha consulta depende la entrega de l
 
 III. Por el extravío de mercancías que se encuentren en depósito ante la aduana.
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 34.
 
-Cuando el recinto fiscal no cuente con lugares apropiados para la conservación de mercancías perecederas o de fácil descomposición o de animales vivos, las autoridades aduaneras procederán a su venta o donación dentro del plazo de tres días, contados a partir del día siguiente al que ingresen al recinto fiscal y se indemnizará al interesado en los términos que para tal efecto establezca el Reglamento.
+Cuando el recinto fiscal no cuente con lugares apropiados para la conservación de mercancías perecederas o de fácil descomposición o de animales vivos, las autoridades aduaneras procederán a su asignación, donación o destrucción dentro del plazo de tres días, contados a partir del día siguiente al que ingresen al recinto fiscal y se indemnizará al interesado en los términos que para tal efecto establezca el Reglamento.
 
 ### Capítulo III. Despacho de mercancías
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 35.
 
-Para los efectos de esta Ley, se entiende por despacho aduanero el conjunto de actos y formalidades relativos a la entrada de mercancías al territorio nacional y a su salida del mismo, que de acuerdo con los diferentes tráficos y regímenes aduaneros establecidos en el presente ordenamiento, deben realizar ante la aduana, las autoridades aduaneras y quienes introducen o extraen mercancías del territorio nacional, ya sea los consignatarios, destinatarios, propietarios, poseedores o tenedores en las importaciones y los remitentes en las exportaciones, así como los agentes aduanales, empleando el sistema electrónico aduanero. El Servicio de Administración Tributaria establecerá mediante reglas, lo procedente en relación al uso del sistema electrónico aduanero en los casos de contingencias derivadas de caso fortuito o fuerza mayor.
+Para efectos de esta Ley, se entiende por despacho aduanero el conjunto de actos y formalidades relativos a la entrada de mercancías al territorio nacional y a su salida del mismo, que de acuerdo con los diferentes tráficos y regímenes aduaneros establecidos en el presente ordenamiento, deben realizar ante la aduana, las autoridades aduaneras y quienes introducen o extraen mercancías del territorio nacional, ya sea los consignatarios, destinatarios, propietarios, poseedores o tenedores en las importaciones y los remitentes en las exportaciones, así como los agentes aduanales o agencias aduanales, empleando el sistema electrónico aduanero. El Servicio de Administración Tributaria establecerá mediante reglas, lo procedente en los casos de contingencias en el sistema electrónico aduanero derivadas de caso fortuito o fuerza mayor.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-N DE E. DE LA APLICACIÓN DE LA REFORMA, D.O.F. 9 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE DEROGARON LAS FRACCIONES, INCISOS Y PÁRRAFOS, CON LOS QUE SE INTEGRABA ESTE ARTÍCULO EN EL TEXTO ANTERIOR
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 36.
 
-Quienes introduzcan o extraigan mercancías del territorio nacional destinándolas a un régimen aduanero, están obligados a transmitir, a través del sistema electrónico aduanero, en documento electrónico a las autoridades aduaneras, un pedimento con información referente a las citadas mercancías, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, empleando la firma electrónica avanzada o el sello digital y, deberán proporcionar una impresión del pedimento con la información correspondiente, el cual llevará impreso el código de barras.
+Quienes introduzcan o extraigan mercancías del territorio nacional destinándolas a un régimen aduanero, están obligados a transmitir a las autoridades aduaneras, a través del sistema electrónico aduanero, en documento electrónico, un pedimento con información referente a las citadas mercancías, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, empleando la firma electrónica avanzada, el sello digital u otro medio tecnológico de identificación.
 
-En los pedimentos en los que aparezca la firma electrónica avanzada o sello digital y el código de aceptación generado por el sistema electrónico aduanero, se considerará que fueron transmitidos y efectuados por la persona a quien corresponda dicha firma electrónica avanzada o sello digital, ya sea de los importadores o exportadores, el agente aduanal o su mandatario aduanal autorizado.
+Dicho pedimento se presentará ante la autoridad aduanera en dispositivo tecnológico o en medio electrónico, junto con las mercancías, a fin de activar el mecanismo de selección automatizado. El dispositivo o medio deberá contar con los elementos técnicos que permitan la lectura de la información contenida en el mismo incluyendo la relativa a los pedimentos; salvo los casos en que se deba proporcionar una impresión del pedimento con la información correspondiente, el cual llevará impreso el código de barras. Lo anterior en los términos y condiciones que el Servicio de Administración Tributaria establezca mediante reglas.
 
-El empleo de la firma electrónica avanzada o sello digital que corresponda a cada uno de los importadores, exportadores, agentes aduanales y mandatarios aduanales, equivaldrá a la firma autógrafa de éstos.
+En los pedimentos en los que aparezca la firma electrónica avanzada, sello digital u otro medio tecnológico de identificación y el código de aceptación generado por el sistema electrónico aduanero, se considerará que fueron transmitidos y efectuados por la persona a quien corresponda dicha firma electrónica avanzada, sello digital u otro medio tecnológico de identificación, ya sea del importador, exportador, agente aduanal, agencia aduanal o de sus mandatarios autorizados.
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+El empleo de la firma electrónica avanzada, sello digital u otro medio tecnológico de identificación que corresponda a cada uno de los importadores, exportadores, agentes aduanales, agencias aduanales y mandatarios autorizados, producirá los mismos efectos que la firma autógrafa de éstos, a que se refiere el Código Fiscal de la Federación.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 36-A.
 
-Para los efectos del artículo 36, en relación con el artículo 6o. de esta Ley, y demás aplicables, los agentes aduanales y quienes introduzcan o extraigan mercancías del territorio nacional para destinarlas a un régimen aduanero, están obligados a transmitir en documento electrónico o digital como anexos al pedimento, excepto lo previsto en las disposiciones aplicables, la información que a continuación se describe, la cual deberá contener el acuse generado por el sistema electrónico aduanero, conforme al cual se tendrá por transmitida y presentada:
+Para efectos del artículo 36, en relación con el artículo 6o. de esta Ley, y demás disposiciones jurídicas aplicables, el agente aduanal, la agencia aduanal y quienes introduzcan o extraigan mercancías del territorio nacional para destinarlas a un régimen aduanero, están obligados a transmitir en documento electrónico o digital como anexos al pedimento, excepto lo previsto en las disposiciones jurídicas aplicables, la información que a continuación se describe, la cual deberá contener el acuse generado por el sistema electrónico aduanero, conforme al cual se tendrá por transmitida y presentada:
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 I. En importación:
 
-a) La relativa al valor y demás datos relacionados con la comercialización de las mercancías, contenidos en la factura o documento equivalente, cuando el valor en aduana de las mismas se determine conforme al valor de transacción, declarando el acuse correspondiente que se prevé en el artículo 59-A de la presente Ley.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-b) La contenida en el conocimiento de embarque, lista de empaque, guía o demás documentos de transporte, y que requiera el Servicio de Administración Tributaria mediante reglas, declarando el acuse respectivo que se prevé en el artículo 20, fracción VII de la presente Ley.
+a) La relativa al valor y demás datos relacionados con la comercialización de las mercancías, contenidos en el comprobante fiscal digital o documento equivalente, cuando el valor en aduana de las mismas se determine conforme al valor de transacción, declarando el acuse correspondiente que se prevé en el artículo 59-A de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+b) La contenida en el conocimiento de embarque, lista de empaque, guía o demás documentos de transporte, y que requiera el Servicio de Administración Tributaria mediante reglas, declarando el acuse que se prevé en el artículo 20, fracción VII de la presente Ley o el número de documento de transporte que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 c) La que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias a la importación, que se hubieran expedido de acuerdo con la Ley de Comercio Exterior, siempre que las mismas se publiquen en el Diario Oficial de la Federación y se identifiquen en términos de la fracción arancelaria y de la nomenclatura que les corresponda conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 d) La que determine la procedencia y el origen de las mercancías para efectos de la aplicación de preferencias arancelarias, cuotas compensatorias, cupos, marcado de país de origen y otras medidas que al efecto se establezcan, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 e) La del documento digital en el que conste la garantía efectuada en la cuenta aduanera de garantía a que se refiere el artículo 84-A de esta Ley, cuando el valor declarado sea inferior al precio estimado que establezca la Secretaría.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+f) El dictamen emitido por las personas morales autorizadas conforme al artículo 16-C, segundo párrafo, fracción I de esta Ley, que avale el peso, volumen u otras características inherentes a las mercancías o, en su caso, el certificado vigente que avale que los mecanismos de medición con los que cuente el importador, están debidamente calibrados en los términos del segundo párrafo, fracción II del citado artículo.
+
+> <small>[N. DE E. PERTENECE AL INCISO F), D.O.F. 25 DE JUNIO DE 2018]</small>
+
+La información a que se refiere este inciso únicamente será aplicable tratándose del despacho de mercancías que establezca el Servicio de Administración Tributaria mediante reglas, que por su naturaleza requiera de equipos, sistemas o instrumentos especializados en términos del artículo 16-C de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 En el caso de mercancías susceptibles de ser identificadas individualmente, la información relativa a los números de serie, parte, marca, modelo o, en su defecto, las especificaciones técnicas o comerciales necesarias para identificar las mercancías y distinguirlas de otras similares, cuando dichos datos existan. Esta información deberá consignarse en la información transmitida relativa al valor y demás datos de comercialización de las mercancías. No obstante lo anterior, las empresas con programas de exportación autorizados por la Secretaría de Economía, no estarán obligadas a identificar las mercancías cuando realicen importaciones temporales, siempre que los productos importados sean componentes, insumos y artículos semiterminados, previstos en el programa que corresponda; cuando estas empresas opten por cambiar al régimen de importación definitiva deberán cumplir con la obligación de transmitir los números de serie de las mercancías que hubieren importado temporalmente.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 Tratándose de reexpediciones se estará a lo dispuesto en el artículo 39 de esta Ley.
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 II. En exportación:
 
-a) La relativa al valor y demás datos relacionados con la comercialización de las mercancías, contenidos en la factura o documento equivalente, declarando el acuse correspondiente que se prevé en el artículo 59-A de la presente Ley.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+a) La relativa al valor y demás datos relacionados con la comercialización de las mercancías, contenidos en el comprobante fiscal digital o documento equivalente, declarando el acuse que se prevé en el artículo 59-A de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 b) La que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias a la exportación, que se hubieran expedido de acuerdo con la Ley de Comercio Exterior, siempre que las mismas se publiquen en el Diario Oficial de la Federación y se identifiquen en términos de la fracción arancelaria y de la nomenclatura que les corresponda conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 Tratándose de los demás regímenes aduaneros, los anexos al pedimento serán los que prevean las disposiciones aplicables, acorde con las cuales se transmitirá y presentará la información en documento electrónico o digital, conforme a lo dispuesto en el presente artículo y 6o. de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 Para los efectos de las fracciones I y II de este artículo, el Servicio de Administración Tributaria podrá requerir que al pedimento o al aviso consolidado, tratándose de pedimentos consolidados, se acompañe la información que se requiera de conformidad con los acuerdos internacionales suscritos por México, incluso en mensaje o documento electrónico o digital.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 En el caso de exportación de mercancías que hubieran sido importadas en los términos del artículo 86 de esta Ley, así como de las mercancías que hubieran sido importadas temporalmente y que retornen en el mismo estado, susceptibles de ser identificadas individualmente, debe indicarse la información relativa a los números de serie, parte, marca, modelo o, en su defecto, las especificaciones técnicas o comerciales necesarias para identificar las mercancías y distinguirlas de otras similares, cuando dichos datos existan. Esta información deberá consignarse en la información transmitida electrónicamente relativa al valor comercial.
 
@@ -814,7 +954,11 @@ En el caso de exportación de mercancías que hubieran sido importadas en los t�
 
 No se exigirá la transmisión electrónica de la información relativa al valor y demás datos de comercialización de las mercancías en las importaciones y exportaciones, efectuadas por embajadas, consulados o miembros del personal diplomático y consular extranjero, así como cuando se trate de menajes de casa.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 Se deberá imprimir en el pedimento, el código de barras o usar otros medios de control, con las características que establezca el Servicio de Administración Tributaria mediante reglas.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 Tratándose del cumplimiento de regulaciones y restricciones no arancelarias en materia de sanidad animal y vegetal, la misma deberá verificarse en el recinto fiscal o fiscalizado de las aduanas que señale el Servicio de Administración Tributaria mediante reglas.
 
@@ -826,7 +970,9 @@ Los interesados podrán transmitir en documento electrónico a las autoridades a
 
 I. En las operaciones de exportación.
 
-II. En operaciones de importaciones al amparo de programas de exportación autorizados por la Secretaría de Economía.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+II. En operaciones de importaciones al amparo de programas de exportación autorizados por la Secretaría de Economía, siempre que los autorizados cumplan los requisitos que establezca el Servicio de Administración Tributaria mediante reglas.
 
 III. En los demás casos que establezca el Servicio de Administración Tributaria mediante reglas.
 
@@ -836,59 +982,73 @@ III. En los demás casos que establezca el Servicio de Administración Tributari
 
 Quienes ejerzan las opciones a que se refiere el artículo anterior, deberán cumplir con lo siguiente:
 
-I. Transmitir, a través del sistema electrónico aduanero, en documento electrónico a las autoridades aduaneras, la información referente a las mercancías que se introduzcan o extraigan del territorio nacional acorde con el artículo 59-A de la presente Ley y, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, empleando la firma electrónica avanzada o sello digital y deberá proporcionar una impresión del aviso consolidado con la información correspondiente, el cual llevará impreso el código de barras.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-La transmisión electrónica en la que aparezca la firma electrónica avanzada o sello digital y el acuse generado por el sistema electrónico aduanero, se considerará que fueron transmitidos y efectuados por la persona a quien corresponda dicha firma o sello, ya sea de los importadores o exportadores, el agente aduanal o su mandatario aduanal autorizado.
+I. Transmitir a las autoridades aduaneras, a través del sistema electrónico aduanero, en documento electrónico, la información referente a las mercancías que se introduzcan o extraigan del territorio nacional acorde con el artículo 59-A de la presente Ley y, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, empleando la firma electrónica avanzada, sello digital u otro medio tecnológico de identificación.
 
-II. Someter las mercancías, al mecanismo de selección automatizada y, en lugar de pedimento, proporcionar una impresión del aviso consolidado, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas.
+La transmisión electrónica en la que aparezca la firma electrónica avanzada, sello digital u otro medio tecnológico de identificación y el acuse generado por el sistema electrónico aduanero, se considerará que fueron transmitidos y efectuados por la persona a quien corresponda dicha firma, sello o medio, ya sea del importador, exportador, agente aduanal, agencia aduanal o sus mandatarios autorizados.
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+II. Someter las mercancías al mecanismo de selección automatizada y, en lugar de pedimento, presentar en dispositivo tecnológico o en medio electrónico el aviso consolidado; el dispositivo o medio deberá contar con los elementos técnicos que permitan la lectura de la información contenida en el mismo, incluyendo la relativa al aviso consolidado; salvo los casos en que se deba proporcionar una impresión del aviso consolidado con la información correspondiente, el cual llevará impreso el código de barras. Lo anterior, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas.
 
 III. Activar por cada vehículo el mecanismo de selección automatizado.
 
-IV. Transmitir en documento electrónico el pedimento consolidado el día martes de cada semana, en el que se hagan constar todas las operaciones realizadas durante la semana anterior, misma que comprenderá de lunes a domingo, cumpliendo con lo señalado en el artículo 36 de esta Ley, así como en los plazos, supuestos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-V. Anexar al pedimento y a la transmisión electrónica a que se refiere la fracción I de este artículo y, en su caso, al aviso consolidado, en documento electrónico o digital, la información que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias, en los términos del artículo 36 y 36-A de la Ley, debiendo declarar en el pedimento, en la transmisión electrónica y, en su caso en el aviso consolidado, los acuses correspondientes conforme a los cuales se tendrán por transmitidos y presentados los anexos.
+IV. Transmitir en documento electrónico el pedimento consolidado el día martes de cada semana, en el que se hagan constar todas las operaciones realizadas durante la semana anterior, misma que comprenderá de lunes a domingo, cumpliendo con lo señalado en los artículos 36 y 36-A de esta Ley, así como en los plazos, supuestos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas.
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+V. Anexar al pedimento y a la transmisión electrónica a que se refiere la fracción I de este artículo y, en su caso, al aviso consolidado, en documento electrónico o digital, la información que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias, en los términos de los artículos 36 y 36-A de la Ley, debiendo declarar en el pedimento, en la transmisión electrónica y, en su caso en el aviso consolidado, los acuses correspondientes conforme a los cuales se tendrán por transmitidos y presentados los anexos.
 
 ###### Artículo 38.
 
 (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 39.
 
-Quienes efectúen la reexpedición de mercancías están obligados a transmitir, a través del sistema electrónico aduanero, en documento electrónico, un pedimento con información referente a las citadas mercancías, cumpliendo con lo señalado en el artículo 36 de esta Ley, así como en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, así como proporcionar una impresión del mismo con la información correspondiente, el cual llevará impreso el código de barras.
-
-Anexo al pedimento se deberá acompañar:
-
-I. La información relativa al número de pedimento mediante el cual se efectuó la importación a la franja o región fronteriza, o cuando sea persona distinta del importador, el documento digital que contenga la factura que reúna los requisitos establecidos en el Código Fiscal de la Federación, debiendo declarar en el pedimento el acuse correspondiente.
-
-II. El documento electrónico o digital que contenga la información que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias aplicables al resto del territorio nacional, de conformidad con las disposiciones sobre la materia, debiendo declarar en el pedimento los acuses correspondientes conforme a los cuales se tendrán por transmitidos y presentados los anexos.
+Quienes efectúen la reexpedición de mercancías están obligados a transmitir, a través del sistema electrónico aduanero, en documento electrónico, un pedimento con información referente a las citadas mercancías, cumpliendo con lo señalado en los artículos 36 y 36-A de esta Ley, así como en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
+Anexo al pedimento se deberá acompañar:
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+I. La información relativa al número de pedimento mediante el cual se efectuó la importación a la franja o región fronteriza, o cuando sea persona distinta del importador, el comprobante fiscal digital.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
+II. El documento electrónico o digital que contenga la información que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias aplicables al resto del territorio nacional, de conformidad con las disposiciones sobre la materia, debiendo declarar en el pedimento los acuses correspondientes conforme a los cuales se tendrán por transmitidos y presentados los anexos.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 40.
 
-Los trámites relacionados con el despacho de las mercancías se promoverán por los importadores o exportadores o por conducto de los agentes aduanales que actúen como sus consignatarios o mandatarios.
+Los trámites relacionados con el despacho de las mercancías se promoverán por los importadores o exportadores o por conducto de los agentes aduanales o agencias aduanales que actúen como sus consignatarios o mandatarios.
 
-Las personas morales que promuevan el despacho de las mercancías sin la intervención de un agente aduanal, tendrán la obligación de realizar el despacho aduanero a través de su representante legal, mismo que deberán acreditar ante el Servicio de Administración Tributaria, en los términos y condiciones que se establezcan en el Reglamento. Dicho representante cuando menos deberá reunir los siguientes requisitos:
+Las personas morales que promuevan el despacho de las mercancías sin la intervención de agente aduanal o agencia aduanal, tendrán la obligación de realizar el despacho aduanero a través de su representante legal, mismo que deberán acreditar ante el Servicio de Administración Tributaria, en los términos y condiciones que se establezcan en el Reglamento. Dicho representante, cuando menos, deberá reunir los siguientes requisitos:
 
-a) Ser persona física y estar al corriente en el cumplimiento de sus obligaciones fiscales.
+I. Ser persona física y estar al corriente en el cumplimiento de sus obligaciones fiscales.
 
-b) Ser de nacionalidad mexicana.
+II. Ser de nacionalidad mexicana.
 
-c) Acreditar la existencia de una relación laboral con el importador o exportador.
+III. Acreditar la existencia de una relación laboral con el importador o exportador.
 
-d) Acreditar experiencia o conocimientos en materia de comercio exterior.
+IV. Acreditar experiencia o conocimientos en materia de comercio exterior.
 
-Las personas físicas que promuevan el despacho de las mercancías sin la intervención de un agente aduanal, deberán cumplir con los requisitos y condiciones que se establezcan en el Reglamento.
+Las personas físicas que promuevan el despacho de las mercancías sin la intervención de un agente aduanal o agencia aduanal, deberán cumplir con los requisitos y condiciones que se establezcan en el Reglamento.
 
-Los importadores y exportadores que opten por despachar las mercancías, así como los agentes aduanales cuando actúen como sus consignatarios o mandatarios, deberán cumplir las obligaciones consignadas en la presente Ley, relativas al despacho aduanero.
+Los importadores y exportadores que opten por despachar las mercancías, así como los agentes aduanales o las agencias aduanales cuando actúen como sus consignatarios o mandatarios, deberán cumplir las obligaciones previstas en la presente Ley, relativas al despacho aduanero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 41.
 
-Los agentes aduanales serán representantes legales de los importadores y exportadores, en los siguientes casos:
+Los agentes aduanales y las agencias aduanales serán representantes legales de los importadores y exportadores, en los siguientes casos:
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -910,25 +1070,27 @@ IV. Tratándose de las actuaciones y notificaciones que deriven de la inspecció
 
 Los importadores y exportadores podrán manifestar por escrito a las autoridades aduaneras que ha cesado dicha representación, siempre que la misma se presente una vez notificadas el acta o el escrito correspondiente.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Las autoridades aduaneras notificarán a los importadores y exportadores, además de al representante a que se refiere este artículo, de cualquier procedimiento que se inicie con posterioridad al despacho aduanero, fuera de recinto fiscal.
+Las autoridades aduaneras notificarán a los importadores y exportadores, así como a los representantes a que se refiere este artículo, de cualquier procedimiento que se inicie con posterioridad al despacho aduanero, fuera de recinto fiscal.
 
 ###### Artículo 42.
 
 Si quien debe formular el pedimento ignora las características de las mercancías en depósito ante la aduana, podrá examinarlas para ese efecto.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 43.
 
-Elaborado el pedimento y efectuado el pago de las contribuciones y cuotas compensatorias determinadas por el interesado, se presentarán las mercancías con el pedimento o aviso consolidado, ante la autoridad aduanera y se activará el mecanismo de selección automatizado que determinará si debe practicarse el reconocimiento aduanero de las mismas. En caso afirmativo, la autoridad aduanera efectuará el reconocimiento ante quien presente las mercancías en el recinto fiscal.
+Elaborado el pedimento y efectuado el pago de las contribuciones y, en su caso, de las cuotas compensatorias determinadas por el interesado, se presentarán las mercancías ante la autoridad aduanera y se activará el mecanismo de selección automatizado que determinará si debe practicarse el reconocimiento aduanero de las mismas. En caso afirmativo, la autoridad aduanera efectuará el reconocimiento ante quien presente las mercancías en el recinto fiscal, sin perjuicio de que dicho reconocimiento pueda llevarse a cabo de manera distinta conforme a lo dispuesto en los tratados internacionales de los que México sea parte o en los acuerdos interinstitucionales de los que la Secretaría sea parte.
+
+El mecanismo de selección automatizado se activará con la presentación ante la aduana del dispositivo tecnológico o medio electrónico de que se trate, o bien del pedimento, aviso consolidado o documento aduanero, en los términos que al efecto establezca el Servicio de Administración Tributaria mediante reglas.
 
 Si no se detectan irregularidades en el reconocimiento aduanero o que den lugar al embargo precautorio de las mercancías, o el resultado del mecanismo de selección automatizado determina que no debe practicarse el reconocimiento aduanero, se entregarán éstas de inmediato.
 
 En caso de que no se hubiera transmitido y presentado el documento a que se refiere el artículo 36-A, fracción I, inciso e) de esta Ley, las mercancías se entregarán una vez presentado el mismo.
 
-Tratándose de la exportación de mercancías por aduanas de tráfico marítimo, no será necesario presentar las mercancías ante el mecanismo de selección automatizado, siempre que las mercancías se encuentren dentro del recinto fiscal o fiscalizado, por lo que en caso de que el mecanismo de selección automatizado determine que deba practicarse el reconocimiento aduanero, éste deberá efectuarse en el recinto correspondiente.
+No será necesario presentar las mercancías ante el mecanismo de selección automatizado, en los supuestos que establezca el Servicio de Administración Tributaria mediante reglas, siempre que las mercancías se encuentren dentro del recinto fiscal o fiscalizado, por lo que en caso de que el mecanismo de selección automatizado determine que deba practicarse el reconocimiento aduanero, éste deberá efectuarse en el recinto correspondiente.
 
 En los supuestos en que no se requiera pedimento para activar el mecanismo de selección automatizado, se deberán presentar ante dicho mecanismo las mercancías con la documentación correspondiente, en los términos a que se refiere este artículo.
 
@@ -942,15 +1104,15 @@ Cuando el reconocimiento aduanero se practique con apoyo de particulares autoriz
 
 (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 45.
 
-Cuando en el reconocimiento aduanero se requiera efectuar la toma de muestras de mercancías estériles, radiactivas, peligrosas o cuando sean necesarias instalaciones o equipos especiales para la toma de las mismas, los importadores, exportadores o los agentes aduanales, cuando actúen por cuenta de aquéllos, las deberán tomar previamente a efecto que sean presentadas al momento del reconocimiento aduanero. En todo caso se podrán tomar las muestras al momento del reconocimiento aduanero, en los términos que establezca el Reglamento.
+Cuando en el reconocimiento aduanero se requiera efectuar la toma de muestras de mercancías estériles, radiactivas, radioactivas, peligrosas o cuando sean necesarias instalaciones o equipos especiales para la toma de las mismas, los importadores, exportadores, los agentes aduanales o las agencias aduanales, cuando actúen por cuenta de aquéllos, las deberán tomar previamente a efecto que sean presentadas al momento del reconocimiento aduanero. En todo caso se podrán tomar las muestras al momento del reconocimiento aduanero o durante el ejercicio de las facultades de comprobación, en los términos que establezca el Reglamento.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Los importadores o exportadores que estén inscritos en el registro para la toma de muestras de mercancías estériles, radiactivas, peligrosas, o para las que se requiera de instalaciones o equipos especiales para la toma de las mismas, no estarán obligados a presentar las muestras a que se refiere el párrafo anterior.
+Los importadores o exportadores que estén inscritos en el registro para la toma de muestras de mercancías estériles, radiactivas, radioactivas, peligrosas, o para las que se requiera de instalaciones o equipos especiales para su toma, no estarán obligados a presentar las muestras a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -964,17 +1126,17 @@ Cuando se realice la toma de muestras, se procederá a levantar el acta de muest
 
 Cuando las autoridades aduaneras con motivo de la revisión de las declaraciones electrónicas efectuadas y de los documentos electrónicos o digitales transmitidos, y presentados ante las mismas; del reconocimiento aduanero; de la inspección o de la verificación de mercancías en transporte, tengan conocimiento de cualquier irregularidad, la misma se hará constar en documento que para el efecto se levante, de conformidad con el procedimiento que corresponda, en los términos de los artículos 150 a 153 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 47.
 
-Los importadores, exportadores y agentes aduanales, previa a la operación de comercio exterior que pretendan realizar, podrán formular consulta ante las autoridades aduaneras, sobre la clasificación arancelaria de las mercancías objeto de la operación de comercio exterior, cuando consideren que se pueden clasificar en más de una fracción arancelaria
+Los importadores, exportadores, agentes aduanales, agencias aduanales, confederaciones, cámaras o asociaciones, previa a la operación de comercio exterior que pretendan realizar, podrán formular consulta ante las autoridades aduaneras, sobre la clasificación arancelaria de las mercancías objeto de la operación de comercio exterior, cuando consideren que se pueden clasificar en más de una fracción arancelaria.
 
 Dicha consulta podrá presentarse directamente por el interesado ante las autoridades aduaneras o por las confederaciones, cámaras o asociaciones, siempre que cumplan los requisitos establecidos en el artículo 18 del Código Fiscal de la Federación, señalen la fracción arancelaria que consideren aplicable, las razones que sustenten su apreciación y la fracción o fracciones con las que exista duda y anexen, en su caso, las muestras, catálogos y demás elementos que permitan identificar la mercancía para su correcta clasificación arancelaria.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Quienes hubieran formulado consulta en los términos del párrafo anterior, podrán realizar el despacho de las mercancías materia de la consulta, anexando al pedimento copia de la consulta, en la que conste su recepción por parte de las autoridades aduaneras. Para ejercer esta opción se efectuará el pago de las contribuciones de conformidad con la fracción arancelaria cuya tasa sea la más alta de entre las que considere que se pueden clasificar, así como pagar las cuotas compensatorias y cumplir con las demás regulaciones y restricciones no arancelarias aplicables a las distintas fracciones arancelarias motivo de la consulta.
+Quienes hubieran formulado consulta en los términos del párrafo anterior, podrán realizar el despacho de las mercancías materia de la consulta, anexando al pedimento copia de la consulta en la que conste su recepción por parte de las autoridades aduaneras. Para ejercer esta opción se efectuará el pago de las contribuciones de conformidad con la fracción arancelaria cuya tasa sea la más alta de entre las que considere que se pueden clasificar, así como, en su caso, pagar las cuotas compensatorias y cumplir con las demás regulaciones y restricciones no arancelarias aplicables a las distintas fracciones arancelarias motivo de la consulta.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -984,25 +1146,21 @@ Si con motivo del reconocimiento aduanero, se detectan irregularidades en la cla
 
 Cuando de la resolución que emitan las autoridades aduaneras resulten diferencias de contribuciones y cuotas compensatorias a cargo del contribuyente, éste deberá pagarlas, actualizando las contribuciones y con recargos desde la fecha en que se realizó el pago y hasta aquella en que se cubran las diferencias omitidas sin que proceda la aplicación de sanción alguna derivada por dicha omisión. Si resultan diferencias en favor del contribuyente, éste podrá rectificar el pedimento para compensarlas o solicitar su devolución.
 
-Las personas a que se refiere el primer párrafo de este artículo, podrán presentar consulta a las autoridades aduaneras, para conocer la clasificación arancelaria de las mercancías que pretendan importar o exportar, en los términos del artículo 34 del Código Fiscal de la Federación, anexando, en su caso, las muestras, catálogos y demás elementos que permitan identificar la mercancía para su correcta clasificación arancelaria.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+En cualquier momento se podrá presentar consulta a las autoridades aduaneras para conocer la clasificación arancelaria de las mercancías, en los términos del artículo 34 del Código Fiscal de la Federación, incluso cuando consideren que se pueden clasificar en más de una fracción arancelaria, anexando, en su caso, las muestras, catálogos y demás elementos que permitan identificar la mercancía para su correcta clasificación arancelaria.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 48.
 
-Para resolver las consultas que presenten los importadores, exportadores y agentes aduanales sobre la correcta clasificación arancelaria a que se refiere el artículo 47 de esta Ley, las autoridades aduaneras escucharán previamente la opinión del Consejo de Clasificación Arancelaria, el cual estará integrado por la autoridad aduanera y los peritos que propongan las confederaciones, cámaras y asociaciones industriales e instituciones académicas. El Servicio de Administración Tributaria establecerá mediante reglas la conformación y las normas de operación del Consejo. Los dictámenes técnicos emitidos por el Consejo y respecto de los cuales el Servicio de Administración Tributaria se apoye para emitir sus resoluciones, deberán publicarse como criterios de clasificación arancelaria dentro de los 30 días siguientes a aquél en que la autoridad hubiere emitido la resolución.
+Para resolver las consultas que presenten los importadores, exportadores, agentes aduanales, agencias aduanales, confederaciones, cámaras o asociaciones industriales, sobre la correcta clasificación arancelaria a que se refiere el artículo 47 de esta Ley, las autoridades aduaneras podrán solicitar, cuando así lo requieran, la opinión del Consejo de Clasificación Arancelaria, el cual estará integrado por la autoridad aduanera y los peritos que propongan las confederaciones, cámaras y asociaciones industriales e instituciones académicas. El Servicio de Administración Tributaria establecerá mediante reglas la conformación y las normas de operación de dicho Consejo. Los dictámenes técnicos emitidos por el Consejo y respecto de los cuales el Servicio de Administración Tributaria se apoye para emitir sus resoluciones, deberán publicarse como criterios de clasificación arancelaria dentro de los 30 días siguientes a aquél en que la autoridad hubiere emitido la resolución.
 
 Las autoridades aduaneras podrán resolver conjuntamente las consultas formuladas cuando la descripción arancelaria de las mercancías sea la misma. En estos casos se dictará una sola resolución, la que se notificará a los interesados. Las resoluciones sobre clasificación arancelaria que emitan las autoridades aduaneras, de carácter individual o dirigida a agrupaciones, surtirán efectos con relación a las operaciones de comercio exterior que se efectúen a partir del día siguiente a aquel en que se notifique la resolución de que se trate, salvo lo dispuesto en el tercer párrafo del artículo 47 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+Las resoluciones deberán dictarse en un plazo que no excederá de tres meses, contados a partir del día siguiente a aquél en que se encuentre debidamente integrado el expediente. Se entiende que el expediente se encuentra debidamente integrado cuando la autoridad cuente con la información y documentación que permita la plena identificación de la mercancía, y se hayan llevado a cabo todas las diligencias, tales como la emisión de los dictámenes correspondientes de la autoridad competente, para la emisión de la resolución.
 
-Las resoluciones deberán dictarse en un plazo que no excederá de cuatro meses contados a partir de la fecha de su recepción. Transcurrido dicho plazo sin que se notifique la resolución que corresponda, se entenderá que la fracción arancelaria señalada como aplicable por el interesado es la correcta. En caso que se requiera al promovente para que cumpla los requisitos omitidos o proporcione elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
-
-> <small>(REFORMADO POR FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-La Secretaría podrá demandar ante el Tribunal Federal de Justicia Fiscal y Administrativa, la nulidad de la clasificación arancelaria favorable a un particular que resulte cuando transcurra el plazo a que se refiere el párrafo anterior sin que se notifique la resolución que corresponda y dicha clasificación ilegalmente lo favorezca.
-
-La Secretaría mediante reglas dará a conocer los criterios de clasificación arancelaria y serán publicados en el Diario Oficial de la Federación.
+El Servicio de Administración Tributaria dará a conocer los criterios de clasificación arancelaria y serán publicados en el Diario Oficial de la Federación.
 
 Cuando las autoridades aduaneras modifiquen los criterios de clasificación arancelaria, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
@@ -1018,6 +1176,10 @@ En las importaciones y exportaciones de mercancías que efectúen los pasajeros,
 
 Los pasajeros están obligados a declarar si traen consigo mercancías distintas de su equipaje. Una vez presentada la declaración y efectuado el pago de las contribuciones determinadas conforme al procedimiento simplificado a que se refiere el artículo 88 de esta Ley y en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, los pasajeros presentarán las mercancías ante la autoridad aduanera y activarán el mecanismo de selección automatizado que determinará si debe practicarse el reconocimiento aduanero de las mismas, conforme a lo señalado en el artículo 43 de la presente Ley.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+El Servicio de Administración Tributaria determinará mediante reglas, los supuestos en que no será necesaria la presentación de la forma oficial de la declaración a que se refiere el párrafo anterior, ni la activación del mecanismo de selección automatizado; sin que lo anterior limite las facultades de inspección, revisión, vigilancia y comprobación de las autoridades aduaneras, así como tampoco la imposición de las sanciones que correspondan por infracciones a las disposiciones que regulan la entrada y la salida de mercancías del territorio nacional.
+
 ## Título Tercero. Contribuciones, cuotas compensatorias y demás regulaciones y restricciones no arancelarias al comercio exterior
 
 ### Capítulo I. Hechos gravados, contribuyentes y responsables
@@ -1030,27 +1192,27 @@ I. General de importación, conforme a la tarifa de la ley respectiva.
 
 II. General de exportación, conforme a la tarifa de la ley respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 52.
 
 Están obligadas al pago de los impuestos al comercio exterior y al cumplimiento de las regulaciones y restricciones no arancelarias y otras medidas de regulación al comercio exterior, las personas que introduzcan mercancías al territorio nacional o las extraigan del mismo, incluyendo las que estén bajo algún programa de devolución o diferimiento de aranceles en los casos previstos en los artículos 63-A, 108, fracción III y 110 de esta Ley.
 
-La Federación, Distrito Federal, estados, municipios, entidades de la administración pública paraestatal, instituciones de beneficencia privada y sociedades cooperativas, deberán pagar los impuestos al comercio exterior no obstante que conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos.
+La Federación, entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México, entidades paraestatales de la Administración Pública Federal, empresas productivas del Estado, instituciones de beneficencia privada y sociedades cooperativas, deberán pagar los impuestos al comercio exterior no obstante que conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos.
 
-Las personas y entidades a que se refieren los dos párrafos anteriores también estarán obligadas a pagar las cuotas compensatorias.
+Las personas y entidades a que se refieren los dos párrafos anteriores también estarán obligadas a pagar las cuotas compensatorias en aquellos regímenes aduaneros que determine la Secretaría de Economía, de conformidad con la Ley de Comercio Exterior, a través de las disposiciones que para tales efectos se publiquen en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+Tratándose de mercancías sujetas a cuotas compensatorias, cuando se destinen a los regímenes señalados en el artículo 90, apartados B, fracción I, C, E y F de esta Ley, y de conformidad con el párrafo anterior no se esté obligado al pago de las cuotas compensatorias, se deberá determinar el monto a pagar de las mismas de conformidad con lo previsto en esta Ley.
+
+Para efectos de lo previsto en esta Ley, se consideran regulaciones y restricciones no arancelarias las establecidas de conformidad con la Ley de Comercio Exterior, incluyendo las normas oficiales mexicanas.
 
 Se presume, salvo prueba en contrario, que la introducción al territorio nacional o la extracción del mismo de mercancías, se realiza por:
 
-l. El propietario o el tenedor de las mercancías.
+I. El propietario, poseedor o el tenedor de las mercancías.
 
 II. El remitente en exportación o el destinatario en importación.
 
 III. El mandante, por los actos que haya autorizado.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 53.
 
@@ -1058,9 +1220,13 @@ Son responsables solidarios del pago de los impuestos al comercio exterior y de 
 
 I. Los mandatarios, por los actos que personalmente realicen conforme al mandato.
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. Los agentes aduanales y sus mandatarios autorizados, por los que se originen con motivo de las importaciones o exportaciones en cuyo despacho aduanero intervengan personalmente o por conducto de sus empleados autorizados.
+II. Los agentes aduanales y las agencias aduanales, así como los mandatarios autorizados por éstos, por los que se originen con motivo de las importaciones o exportaciones en cuyo despacho aduanero intervengan personalmente o por conducto de sus mandatarios o empleados autorizados.
+
+El agente aduanal que hubiere intervenido en la operación aduanera de la que derive la responsabilidad de la agencia aduanal, será responsable subsidiario de ésta, respecto del pago de los impuestos al comercio exterior, las demás contribuciones que correspondan y de las cuotas compensatorias, que se adeuden.
+
+Los socios de la agencia aduanal, son responsables solidarios respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la agencia aduanal, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, sin que dicha responsabilidad exceda de la participación que tengan en el capital social de la agencia durante el periodo o a la fecha de que se trate. Esa responsabilidad solidaria se calculará multiplicando el porcentaje de participación que haya tenido el socio en el capital social suscrito al momento de la causación, por la contribución omitida.
 
 III. Los propietarios y empresarios de medios de transporte, los pilotos, capitanes y en general los conductores de los mismos, por los que causen las mercancías que transporten, cuando dichas personas no cumplan las obligaciones que les imponen las leyes a que se refiere el artículo 1o. de esta Ley, o sus reglamentos. En los casos de tránsito de mercancías, los propietarios y empresarios de medios de transporte público únicamente serán responsables cuando no cuenten con la documentación que acredite la legal estancia en el país de las mercancías que transporten.
 
@@ -1068,31 +1234,43 @@ IV. Los remitentes de mercancías de la franja o región fronteriza al resto del
 
 V. Los que enajenen las mercancías materia de importación o exportación, en los casos de subrogación establecidos por esta Ley, por los causados por las citadas mercancías.
 
-VI. Los almacenes generales de depósito o el titular del local destinado a exposiciones internacionales por las mercancías no arribadas o por las mercancías faltantes o sobrantes, cuando no presenten los avisos a que se refiere el penúltimo párrafo del artículo 119 de esta Ley.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+VI. Los almacenes generales de depósito o el titular del local destinado a exposiciones internacionales por las mercancías no arribadas o por las mercancías faltantes o sobrantes, cuando no presenten los avisos a que se refiere el artículo 119 de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VII. Las personas que hayan obtenido concesión o autorización para prestar los servicios de manejo, almacenaje y custodia de las mercancías de comercio exterior, cuando no cumplan con las obligaciones señaladas en las fracciones VII y VIII del artículo 26 de esta Ley.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+VIII. (DEROGADA, D.O.F. 25 DE JUNIO DE 2018)
 
-VIII. El representante legal en términos del artículo 40 de esta Ley.
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+IX. Los poseedores y tenedores de mercancías importadas temporalmente por residentes en el extranjero.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+X. Los que transfieran mercancías de conformidad con lo previsto en esta Ley y en las demás disposiciones jurídicas aplicables, por los causados por las citadas mercancías.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 54.
 
-El agente aduanal será responsable de la veracidad y exactitud de los datos e información suministrados, de la determinación del régimen aduanero de las mercancías y de su correcta clasificación arancelaria, así como de asegurarse que el importador o exportador cuenta con los documentos que acrediten el cumplimiento de las demás obligaciones que en materia de regulaciones y restricciones no arancelarias rijan para dichas mercancías, de conformidad con lo previsto por esta Ley y por las demás leyes y disposiciones aplicables.
+El agente aduanal y la agencia aduanal serán responsables de la veracidad y exactitud de los datos e información suministrados, de la determinación del régimen aduanero de las mercancías y de su correcta clasificación arancelaria, así como de asegurarse que el importador o exportador cuenta con los documentos que acrediten el cumplimiento de las demás obligaciones que en materia de regulaciones y restricciones no arancelarias rijan para dichas mercancías, de conformidad con lo previsto en esta Ley y demás disposiciones jurídicas aplicables.
 
-El agente aduanal no será responsable en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
-I. Por el pago de las diferencias de contribuciones, cuotas compensatorias, multas y recargos que se determinen, así como por el incumplimiento de regulaciones y restricciones no arancelarias, si éstos provienen de la inexactitud o falsedad de los datos y documentos que el contribuyente le hubiera proporcionado al citado agente aduanal, siempre que este último no hubiera podido conocer dicha inexactitud o falsedad al examinar las mercancías, por no ser apreciable a la vista y por requerir para su identificación de análisis químico, o de análisis de laboratorio tratándose de las mercancías que mediante reglas establezca la Secretaría.
+El agente aduanal y la agencia aduanal no serán responsables en los casos siguientes:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. De las contribuciones y, en su caso, cuotas compensatorias omitidas por la diferencia. Entre el valor declarado y el valor en aduana determinado por la autoridad, cuando se dé alguno de los siguientes supuestos:
+I. Por el pago de las diferencias de contribuciones, cuotas compensatorias, multas y recargos que se determinen, así como por el incumplimiento de regulaciones y restricciones no arancelarias, si éstos provienen de la inexactitud o falsedad de los datos y documentos que el contribuyente le hubiera proporcionado, siempre que no hubieran podido conocer dicha inexactitud o falsedad al examinar las mercancías, por requerir para su identificación de análisis químico o de laboratorio, tratándose de las mercancías que mediante reglas determine el Servicio de Administración Tributaria.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+
+II. De las contribuciones y, en su caso, cuotas compensatorias omitidas por la diferencia entre el valor declarado y el valor en aduana determinado por la autoridad, cuando se dé alguno de los supuestos siguientes:
 
 a) Cuando el valor declarado en el pedimento sea inferior al valor de transacción de mercancías idénticas o similares determinado conforme a los artículos 72 y 73 de esta Ley, en menos de 40%.
 
@@ -1104,7 +1282,9 @@ III. De las contribuciones omitidas que se deriven de la aplicación de un aranc
 
 IV. De las cuotas compensatorias omitidas cuando se importen mercancías idénticas o similares a aquellas que se encuentren sujetas a dichas cuotas, siempre que conserve copia del certificado de país de origen válido, expedido de conformidad con las disposiciones aplicables y cumpla con lo que establezca el Reglamento.
 
-Las excluyentes de responsabilidad señaladas en este artículo, no serán aplicables cuando el agente aduanal utilice un Registro Federal de Contribuyentes de un importador que no le hubiera encargado el despacho de las mercancías.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Las excluyentes de responsabilidad señaladas en este artículo no serán aplicables cuando las agencias aduanales o el agente aduanal manifiesten el nombre, domicilio o la clave del registro federal de contribuyentes de una persona que no les hubiera encargado la operación o el despacho de las mercancías.
 
 ###### Artículo 55.
 
@@ -1166,17 +1346,19 @@ Las obligaciones en materia de regulaciones y restricciones no arancelarias, exc
 
 Tratándose de mercancías usadas que se reexpidan al resto del territorio nacional que hubieran sido importadas como nuevas a la franja o región fronteriza, no requerirán permiso para su reexpedición, siempre que se pueda comprobar dicha circunstancia. Lo dispuesto en este párrafo no será aplicable a la reexpedición de mercancías usadas cuya importación como nueva a la franja o región fronteriza no requiera de permiso y sí lo requiera para su importación al resto del territorio nacional.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 59.
 
-Quienes importen mercancías deberán cumplir, sin perjuicio de las demás obligaciones previstas por esta Ley, con las siguientes:
+Quienes introduzcan o extraigan mercancías del territorio nacional deberán cumplir, sin perjuicio de las demás obligaciones previstas en esta Ley, con las siguientes:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 I. Llevar los sistemas de control de inventarios en forma automatizada, que mantengan en todo momento el registro actualizado de los datos de control de las mercancías de comercio exterior, mismos que deberán estar a disposición de la autoridad aduanera.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Quienes introduzcan mercancías bajo el régimen de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; el régimen de depósito fiscal; o el de elaboración, transformación o reparación en recinto fiscalizado, deberán llevar el sistema de control de inventarios a que se refiere el párrafo anterior, en forma automatizada.
+Quienes introduzcan mercancías bajo los regímenes de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal; de recinto fiscalizado estratégico, o de elaboración, transformación o reparación en recinto fiscalizado, deberán llevar, en forma automatizada, el sistema de control de inventarios a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -1184,23 +1366,27 @@ En caso de incumplimiento a lo dispuesto en esta fracción se presumirá que las
 
 II. Obtener la información, documentación y otros medios de prueba necesarios para comprobar el país de origen y de procedencia de las mercancías, para efectos de preferencias arancelarias, marcado de país de origen, aplicación de cuotas compensatorias, cupos y otras medidas que al efecto se establezcan conforme a la Ley de Comercio Exterior y tratados internacionales de los que México sea parte, y proporcionarlos a las autoridades aduaneras cuando éstas lo requieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-III. Entregar al agente aduanal que promueva el despacho de las mercancías, una manifestación por escrito y bajo protesta de decir verdad con los elementos que en los términos de esta Ley permitan determinar el valor en aduana de las mercancías. El importador deberá conservar copia de dicha manifestación y obtener la información, documentación y otros medios de prueba necesarios para comprobar que el valor declarado ha sido determinado de conformidad con las disposiciones aplicables de esta Ley y proporcionarlos a las autoridades aduaneras, cuando éstas lo requieran.
+III. Entregar a la agencia aduanal o al agente aduanal que promueva el despacho de las mercancías y proporcionar a las autoridades aduaneras una manifestación, bajo protesta de decir verdad, con los elementos que, en los términos de esta Ley y las reglas que para tal efecto emita el Servicio de Administración Tributaria, permitan determinar el valor en aduana de las mercancías. El importador deberá conservar en documento digital dicha manifestación y obtener la información, documentación y otros medios de prueba necesarios para comprobar que el valor declarado ha sido determinado de conformidad con las disposiciones jurídicas aplicables de esta Ley y proporcionarlos a las autoridades aduaneras, cuando éstas lo requieran. Tratándose de exportación, la manifestación de valor se acreditará con el comprobante fiscal digital que se emita en términos de las disposiciones fiscales aplicables y cuando éste no contenga el valor de las mercancías, se acreditará con algún documento equivalente que exprese el valor de las mercancías o en cualquier otro documento comercial sin inclusión de fletes y seguros y, en su defecto, con la contabilidad del exportador siempre que sea acorde con las normas de información financiera.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+Tratándose de despachos aduaneros en los que intervenga una agencia aduanal o un agente aduanal, igualmente se deberá hacer entrega al Servicio de Administración Tributaria, junto con la documentación que se requiera para cumplir lo dispuesto en la fracción IV del presente artículo, el documento que compruebe el encargo conferido a la agencia aduanal o al agente aduanal para realizar sus operaciones. Dicho documento deberá ser enviado en copia a la agencia aduanal o al agente aduanal para su correspondiente archivo, pudiendo ser expedido para una o más operaciones o por periodos determinados. En este caso, únicamente la agencia aduanal o el agente aduanal que haya sido encomendado, podrán tener acceso al sistema electrónico aduanero a cargo de la autoridad, a fin de utilizar los datos dados a conocer en el padrón por los importadores, según lo establece el artículo 40 de la presente Ley. En caso de que la agencia aduanal o el agente aduanal no haya sido encomendado por un importador, pero actúe como consignatario en una operación, no se observará lo dispuesto en el párrafo anterior, para lo cual se faculta al administrador de la aduana, por la que se pretenda despachar dicha mercancía, para que bajo su estricta responsabilidad autorice la operación.
 
-Tratándose de despachos en los que intervenga un agente aduanal, igualmente deberá hacer entrega a la Administración General de Aduanas, junto a la documentación que se requiera para cumplir lo dispuesto por la fracción IV del presente artículo, el documento que compruebe el encargo conferido al o los agentes aduanales para realizar sus operaciones. Dicho documento deberá ser enviado en copia al o los agentes aduanales para su correspondiente archivo, pudiendo ser expedido para una o más operaciones o por periodos determinados. En este caso, únicamente los agentes aduanales que hayan sido encomendados, podrán tener acceso electrónico al sistema de automatización aduanera integral a cargo de la autoridad, a fin de utilizar los datos dados a conocer en el padrón por los importadores, según lo establece el artículo 40 de la presente Ley. En caso de que el agente aduanal no haya sido encomendado por un importador, pero actué como consignatario en una operación, no se observará lo dispuesto en el párrafo anterior, para lo cual se faculta al Administrador de la Aduana, por la que se pretenda despachar dicha mercancía, para que bajo su estricta responsabilidad directa autorice la operación.
+El importador quedará exceptuado de la obligación a que se refiere el párrafo anterior, siempre y cuando utilice los medios electrónicos de seguridad para encomendar las operaciones de comercio exterior a la agencia aduanal o al agente aduanal, que mediante reglas señale el Servicio de Administración Tributaria.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-El importador quedará exceptuado de la obligación a que se refiere el párrafo anterior, siempre y cuando adopte los medios electrónicos de seguridad para encomendar las operaciones de comercio exterior al agente aduanal que mediante reglas señale la Secretaría.
+El importador deberá entregar en documento digital o electrónico, según sea el caso, a la autoridad aduanera cuando ésta así lo requiera, la manifestación de valor y la información, documentación y otros medios de prueba necesarios, a que se refiere el primer párrafo de esta fracción, cumpliendo con los requisitos que establezca el Reglamento y los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 IV. Estar inscritos en el Padrón de Importadores y, en su caso, en el Padrón de Importadores de Sectores Específicos o en el Padrón de Exportadores Sectorial que están a cargo del Servicio de Administración Tributaria, para lo cual deberán encontrarse al corriente en el cumplimiento de sus obligaciones fiscales, así como acreditar ante las autoridades aduaneras que se encuentran inscritos en el registro federal de contribuyentes y cumplir con los demás requisitos que establezca el Reglamento y los que establezca el Servicio de Administración Tributaria mediante reglas.
 
-Lo dispuesto en este artículo no será aplicable a las importaciones efectuadas por pasajeros, por empresas de mensajería y paquetería y por vía postal, cuando se efectúe el despacho de las mismas conforme al procedimiento que se establece en el artículo 88 de esta Ley.
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+V. Formar un expediente electrónico de cada uno de los pedimentos, avisos consolidados o documento aduanero de que se trate, el cual deberá contener el propio pedimento en el formato en que se haya transmitido, así como sus anexos, junto con sus acuses electrónicos, y deberá conservarse como parte de la contabilidad por los plazos establecidos en el Código Fiscal de la Federación.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Lo dispuesto en este artículo no será aplicable a las importaciones y exportaciones efectuadas por pasajeros, por empresas de mensajería y paquetería y por vía postal, cuando se efectúe el despacho de las mismas conforme al procedimiento que se establece en el artículo 88 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -1208,25 +1394,41 @@ Lo dispuesto en este artículo no será aplicable a las importaciones efectuadas
 
 Quienes introduzcan o extraigan mercancías del territorio nacional para ser destinadas a un régimen aduanero, están obligados a transmitir mediante documento electrónico a las autoridades aduaneras la información relativa a su valor y, en su caso, demás datos relacionados con su comercialización, antes de su despacho aduanero, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, misma que se entenderá por transmitida una vez que se genere el acuse correspondiente que emita el sistema electrónico aduanero. El acuse se deberá declarar en el pedimento, para los efectos del artículo 36 de esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 59-B.
 
-Quienes promuevan el despacho de las mercancías sin la intervención de agente aduanal, deberán cumplir, sin perjuicio de las demás obligaciones previstas por esta Ley y su Reglamento, con las siguientes:
+Quienes promuevan el despacho de las mercancías sin la intervención de una agencia aduanal o agente aduanal, deberán cumplir, sin perjuicio de las demás obligaciones previstas en esta Ley y su Reglamento, con las siguientes:
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 I. Solicitar ante el Servicio de Administración Tributaria, cumpliendo con los términos y condiciones que se establezcan en el Reglamento, se les asigne un número de autorización con la finalidad de que puedan transmitir pedimentos a través del sistema electrónico aduanero.
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 II. Transmitir al sistema electrónico aduanero en la forma y periodicidad que el Servicio de Administración Tributaria determine en reglas, la información estadística de los pedimentos.
 
-III. Realizar los actos que le correspondan conforme a esta Ley en el despacho de las mercancías, empleando el sistema aduanero electrónico y su firma electrónica avanzada o sello digital.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III. Realizar los actos que le correspondan conforme a esta Ley en el despacho de las mercancías, empleando el sistema electrónico aduanero y su firma electrónica avanzada o sello digital, o bien, con el medio tecnológico de identificación que corresponda.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 IV. Contar con el equipo necesario para promover el despacho electrónico, conforme a las reglas que emita la Secretaría.
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 V. Utilizar los candados oficiales o electrónicos en los vehículos y contenedores que transporten las mercancías de los despachos aduaneros que realicen, de conformidad con lo que establezca el Servicio de Administración Tributaria mediante reglas, así como evitar que los candados fiscales que adquieran de los fabricantes autorizados, se utilicen en contenedores o vehículos que transporten mercancías cuyo despacho no hubiere realizado. Así como manifestar en el pedimento o en el aviso consolidado, el número de candado oficial o electrónico utilizado en los vehículos o medios de transporte que contengan las mercancías cuyo despacho realice.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 VI. En los casos de las mercancías sujetas a regulaciones y restricciones no arancelarias cuyo cumplimiento se realice mediante documento electrónico o digital, anotar en el pedimento el acuse correspondiente.
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 VII. Declarar, bajo protesta de decir verdad la naturaleza y características de las mercancías y los demás datos relativos a la operación de comercio exterior en que intervenga, en las formas oficiales y documentos en que se requieran o, en su caso, en el sistema electrónico aduanero.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 VIII. Aceptar las visitas que ordenen las autoridades aduaneras, para comprobar que cumple sus obligaciones fiscales y aduaneras, o para investigaciones determinadas.
 
@@ -1272,9 +1474,9 @@ VI. Los equipajes de pasajeros en viajes internacionales.
 
 VII. Los menajes de casa pertenecientes a residentes permanentes y a nacionales repatriados o deportados, que los mismos hayan usado durante su residencia en el extranjero, así como los instrumentos científicos y las herramientas cuando sean de profesionales y las herramientas de obreros y artesanos, siempre que se cumpla con los plazos y las formalidades que señale el Reglamento. No quedan comprendidos en la presente exención las mercancías que los interesados hayan tenido en el extranjero para actividades comerciales o industriales, ni los vehículos.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VIII. Las que importen los habitantes de la franja fronteriza para su consumo, siempre que sean de la clase, valor y cantidad que establezca la Secretaría mediante reglas.
+VIII. Las que importen los habitantes de la franja fronteriza para su consumo, siempre que sean de la clase, valor y cantidad que establezca el Servicio de Administración Tributaria mediante reglas.
 
 IX. Las que sean donadas para ser destinadas a fines culturales, de enseñanza, de investigación, de salud pública o de servicio social, que importen organismos públicos, así como personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta, siempre que cumplan con los siguientes requisitos:
 
@@ -1284,7 +1486,9 @@ a) Que formen parte de su patrimonio.
 
 b) Que el donante sea extranjero.
 
-c) Que cuenten con autorización de la Secretaría.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+c) Que cuenten con autorización del Servicio de Administración Tributaria.
 
 d) Que, en su caso, se cumpla con las demás obligaciones en materia de regulaciones y restricciones no arancelarias.
 
@@ -1294,11 +1498,13 @@ XI. Las remitidas por Jefes de Estado o gobiernos extranjeros a la Federación, 
 
 XII. Los artículos de uso personal de extranjeros fallecidos en el país y de mexicanos cuyo deceso haya ocurrido en el extranjero.
 
-XIII. Las obras de arte destinadas a formar parte de las colecciones permanentes de los museos abiertos al público, siempre que obtengan autorización de la Secretaría.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+XIII. Las obras de arte destinadas a formar parte de las colecciones permanentes de los museos abiertos al público, siempre que obtengan autorización del Servicio de Administración Tributaria.
 
-XIV. Las destinadas a instituciones de salud pública, a excepción de los vehículos, siempre que únicamente se puedan usar para este fin, así como las destinadas a personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta. En estos casos deberán formar parte de su patrimonio y cumplir con las demás obligaciones en materia de regulaciones y restricciones no arancelarias. La Secretaría, previa opinión de la Secretaría de Economía, señalará las fracciones arancelarias que reúnan los requisitos a que refiere esta fracción.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XIV. Las destinadas a instituciones de salud pública, a excepción de los vehículos, siempre que únicamente se puedan usar para este fin, así como las destinadas a personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta. En estos casos deberán formar parte de su patrimonio y cumplir con las demás obligaciones en materia de regulaciones y restricciones no arancelarias. El Servicio de Administración Tributaria, previa opinión de la Secretaría de Economía, señalará las fracciones arancelarias que reúnan los requisitos a que refiere esta fracción.
 
 XV. Los vehículos especiales o adaptados y las demás mercancías que importen las personas con discapacidad que sean para su uso personal, así como aquellas que importen las personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta que tengan como actividad la atención de dichas personas, siempre que se trate de mercancías que por sus características suplan o disminuyan su discapacidad; permitan a dichas personas su desarrollo físico, educativo, profesional o social; se utilicen exclusiva y permanentemente por las mismas para esos fines, y cuenten con la autorización de la Secretaría.
 
@@ -1306,23 +1512,21 @@ Para los efectos de lo dispuesto en esta fracción, se considerará como persona
 
 Tratándose de vehículos especiales o adaptados, las personas con discapacidad podrán importar sólo un vehículo para su uso personal cada cuatro años. Las personas morales a que se refiere el primer párrafo de esta fracción podrán importar hasta tres vehículos cada cuatro años. En ambos casos, el importador no podrá enajenar dichos vehículos sino después de cuatro años de haberlos importado.
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XVI. La maquinaria y equipo obsoleto que tenga una antigüedad mínima de tres años contados a partir de la fecha en que se realizó la importación temporal, así como los desperdicios, siempre que sean donados por las empresas maquiladoras o con programas de exportación autorizados por la Secretaría de Economía a organismos públicos o a personas morales no contribuyentes autorizadas para recibir donativos deducibles para efectos del impuesto sobre la renta. Además, las donatarias deberán contar con autorización de la Secretaría y, en su caso, cumplir con las regulaciones y restricciones no arancelarias.
+XVI. La maquinaria y equipo obsoleto que tenga una antigüedad mínima de tres años contados a partir de la fecha en que se realizó la importación temporal, así como los desperdicios, siempre que sean donados por las empresas maquiladoras o con programas de exportación autorizados por la Secretaría de Economía a organismos públicos o a personas morales no contribuyentes autorizadas para recibir donativos deducibles para efectos del impuesto sobre la renta. Además, las donatarias deberán contar con autorización del Servicio de Administración Tributaria y, en su caso, cumplir con las regulaciones y restricciones no arancelarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XVII. Las donadas al Fisco Federal con el propósito de que sean destinadas a la Federación, Distrito Federal, estados, municipios, o personas morales con fines no lucrativos autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, que en su caso expresamente señale el donante, para la atención de requerimientos básicos de subsistencia en materia de alimentación, vestido, vivienda, educación, y protección civil o de salud de las personas, sectores o regiones de escasos recursos.
+XVII. Las autorizadas para ser donadas al Fisco Federal con el propósito de que sean destinadas a la Federación, a las entidades federativas, a los municipios, a las demarcaciones territoriales de la Ciudad de México, o a personas morales con fines no lucrativos autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta que, en su caso, expresamente señale el donante, para la atención de requerimientos básicos de subsistencia en materia de alimentación, vestido y salud, así como para la atención de requerimientos de vivienda, educación y protección civil de las personas, sectores o regiones de escasos recursos.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVII, D.O.F. 25 DE JUNIO DE 2018]</small>
 
-En los casos en que las mercancías sean donadas al Fisco Federal, deberá utilizarse la forma que para esos efectos dé a conocer el Servicio de Administración Tributaria.
+Si la importación de las mercancías de que se trate, requiere del cumplimiento de regulaciones o restricciones no arancelarias, el Servicio de Administración Tributaria de inmediato lo hará del conocimiento de la dependencia competente, para que ésta resuelva respecto de su cumplimiento en un plazo no mayor a diez días. Cuando se trate de mercancías donadas para atender emergencias, desastres naturales o condiciones de extrema pobreza, la autoridad competente deberá resolver respecto de su cumplimiento en un plazo no mayor a tres días. Transcurridos dichos plazos sin que se comunique la resolución correspondiente, se entenderá que la dependencia de que se trate resolvió positivamente y el Servicio de Administración Tributaria podrá autorizar la importación de las mercancías.
 
-Si la importación de las mercancías de que se trate, requiere del cumplimiento de regulaciones o restricciones no arancelarias, o de normas oficiales mexicanas, las autoridades aduaneras de inmediato lo harán del conocimiento de la dependencia competente, quien contará con un plazo de tres días para determinar si las exime de su cumplimiento. Transcurrido dicho plazo sin que se comunique la resolución correspondiente, se entenderá que dicha dependencia resolvió positivamente y las autoridades aduaneras pondrán las mercancías a disposición del interesado, en la aduana correspondiente.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Para los efectos de las fracciones XV, tratándose de vehículos especialmente adaptados para personas con discapacidad, así como la de la XVII, tratándose de los donativos en materia de alimentación y vestido en caso de desastre natural o condiciones de extrema pobreza, únicamente podrán ser realizados en términos de las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+Tratándose de vehículos especialmente adaptados para personas con discapacidad, señalados en la fracción XV, así como de las mercancías donadas señaladas en la fracción XVII, únicamente podrán ser introducidos al territorio nacional, siempre que cumplan con lo dispuesto en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JUNIO DE 2002)</small>
 
@@ -1430,7 +1634,9 @@ c) Las contribuciones y las cuotas compensatorias aplicables en territorio nacio
 
 III. Los pagos del importador al vendedor por dividendos y aquellos otros conceptos que no guarden relación directa con las mercancías importadas.
 
-Para efectos de lo señalado en este artículo, se considera que se distinguen del precio pagado las cantidades que se mencionan, se detallan o especifican separadamente del precio pagado en la factura comercial o en otros documentos comerciales.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Para efectos de lo señalado en este artículo, se considera que se distinguen del precio pagado las cantidades que se mencionan, se detallan o especifican separadamente del precio pagado en el comprobante fiscal digital o en el documento equivalente.
 
 ###### Artículo 67.
 
@@ -1604,11 +1810,13 @@ Cuando la documentación comprobatoria del valor sea falsa o esté alterada o tr
 
 Como excepción a lo dispuesto en los párrafos anteriores, tratándose de vehículos usados, para los efectos de lo dispuesto en el Artículo 64 de esta Ley, la base gravable será la cantidad que resulte de aplicar al valor de un vehículo nuevo, de características equivalentes, del año modelo que corresponda al ejercicio fiscal en el que se efectúe la importación, una disminución del 30% por el primer año inmediato anterior, sumando una disminución del 10% por cada año subsecuente, sin que en ningún caso exceda del 80%.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 78-A.
 
-La autoridad aduanera en la resolución definitiva que se emita en los términos de los procedimientos previstos en los artículos 150 a 153 de esta Ley, podrá rechazar el valor declarado y determinar el valor en aduana de las mercancías importadas con base en los métodos de valoración a que se refiere esta Sección, en los siguientes casos:
+La autoridad aduanera en el ejercicio de facultades de comprobación y en la resolución definitiva que se emita en los términos de los procedimientos previstos en los artículos 150 a 153 de esta Ley, podrá rechazar el valor declarado y determinar el valor en aduana de las mercancías importadas con base en los métodos de valoración a que se refiere esta Sección, en los casos siguientes:
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I. Cuando detecte que el importador ha incurrido en alguna de las siguientes irregularidades:
 
@@ -1624,9 +1832,21 @@ e) Se adviertan otras irregularidades en su contabilidad que imposibiliten el co
 
 f) No cumpla con los requerimientos de las autoridades aduaneras para presentar la documentación e información, que acredite que el valor declarado fue determinado conforme a las disposiciones legales en el plazo otorgado en el requerimiento.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 II. Cuando la información o documentación presentada sea falsa o contenga datos falsos o inexactos o cuando se determine que el valor declarado no fue determinado de conformidad con lo dispuesto en esta Sección.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 III. En importaciones entre personas vinculadas, cuando se requiera al importador para que demuestre que la vinculación no afectó el precio y éste no demuestre dicha circunstancia.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+IV. Cuando el nombre, denominación o razón social, domicilio del proveedor en el extranjero o domicilio fiscal del importador, señalados en el pedimento, o bien, en la transmisión electrónica o en el aviso consolidado a que se refieren los artículos 36-A, 37-A, fracción I y 59-A de esta Ley, considerando, en su caso, el acuse correspondiente declarado, sean falsos o inexistentes o cuando en el domicilio señalado, no se pueda localizar al proveedor en el extranjero o al importador en su domicilio fiscal o cuando el proveedor o el importador se encuentren en el supuesto de no localizado o inexistente.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+El rechazo del valor declarado y la determinación del valor en aduana de las mercancías a que se refiere este artículo, también será procedente en los casos en los que las mercancías se encuentren destinadas a regímenes aduaneros que permitan la determinación de contribuciones sin su pago.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1656,13 +1876,13 @@ No obstante lo dispuesto en el párrafo anterior, el interesado podrá designar 
 
 #### Sección Segunda. Del impuesto general de exportación
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 79.
 
-La base gravable del impuesto general de exportación es el valor comercial de las mercancías en el lugar de venta, y deberá consignarse en la factura o en cualquier otro documento comercial, sin inclusión de fletes y seguros.
+La base gravable del impuesto general de exportación es el valor comercial de las mercancías en el lugar de venta, y deberá consignarse en el comprobante fiscal digital o en el documento equivalente y, en su defecto, en cualquier otro documento comercial, sin inclusión de fletes y seguros.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Cuando las autoridades aduaneras cuenten con elementos para suponer que los valores consignados en las facturas o documentos, incluidos los electrónicos o digitales a que se refieren los artículos 36-A, fracciones I, inciso a) y II, inciso a) y 59-A de esta Ley, no constituyen los valores comerciales de las mercancías, harán la comprobación conducente para la imposición de las sanciones que procedan.
+Cuando las autoridades aduaneras cuenten con elementos para suponer que los valores consignados en el comprobante fiscal digital o documentos equivalentes, incluidos los electrónicos o digitales a que se refieren los artículos 36-A, fracciones I, inciso a) y II, inciso a) y 59-A de esta Ley, no constituyen los valores comerciales de las mercancías, harán la comprobación conducente para la imposición de las sanciones que procedan.
 
 ### Capítulo IV. Determinación y pago
 
@@ -1670,17 +1890,25 @@ Cuando las autoridades aduaneras cuenten con elementos para suponer que los valo
 
 Los impuestos al comercio exterior se determinarán aplicando a la base gravable determinada en los términos de las Secciones Primera y Segunda del Capítulo III del presente Título, respectivamente, la cuota que corresponda conforme a la clasificación arancelaria de las mercancías.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 81.
 
-Los importadores y exportadores o los agentes aduanales, cuando actúen por cuenta de aquéllos, determinarán las contribuciones y, en su caso, las cuotas compensatorias, para lo cual manifestarán en el pedimento o documento aduanero de que se trate, bajo protesta de decir verdad respecto de las mercancías:
+Los importadores y exportadores, las agencias aduanales o los agentes aduanales, cuando actúen por cuenta de aquéllos, determinarán las contribuciones y, en su caso, las cuotas compensatorias, para lo cual manifestarán, bajo protesta de decir verdad, en el pedimento o documento aduanero de que se trate, respecto de las mercancías, lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 I. Su descripción, estado y origen.
 
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 II. Su valor en aduana, así como el método de valoración utilizado y, en su caso, la existencia de vinculaciones a que se refiere el artículo 68 de esta Ley en el caso de importación, o el valor comercial tratándose de exportación.
 
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 III. Su clasificación arancelaria.
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 IV. El monto de las contribuciones causadas con motivo de su importación o exportación y, en su caso, las cuotas compensatorias.
 
@@ -1690,11 +1918,9 @@ IV. El monto de las contribuciones causadas con motivo de su importación o expo
 
 La autoridad aduanera determinará las contribuciones relativas a las importaciones y exportaciones y, en su caso, las cuotas compensatorias cuando se realicen por vía postal.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-El interesado podrá solicitar que la determinación de las contribuciones y de las cuotas compensatorias, la efectúe él mismo, o por conducto de agente aduanal.
+El interesado podrá solicitar que la determinación de las contribuciones y de las cuotas compensatorias, la efectúe él mismo, o por conducto de la agencia aduanal o del agente aduanal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1704,9 +1930,9 @@ Las contribuciones se pagarán por los importadores y exportadores al presentar 
 
 Cuando las mercancías se depositen ante la aduana, en recintos fiscales o fiscalizados, el pago se deberá efectuar al presentar el pedimento, a más tardar dentro del mes siguiente a su depósito o dentro de los dos meses siguientes cuando se trate de aduanas de tráfico marítimo, de lo contrario se causarán recargos en los términos del Código Fiscal de la Federación, a partir del día siguiente a aquel en el que venza el plazo señalado en este párrafo, los impuestos al comercio exterior se actualizarán en los términos del artículo 17-A del Código Fiscal de la Federación, a partir de la fecha a que se refiere el artículo 56 de esta Ley y hasta que los mismos se paguen.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Tratándose de importaciones o exportaciones, el pago podrá efectuarse en una fecha anterior a la señalada por el artículo 56 de esta Ley, en el entendido que si se destinan al régimen de depósito fiscal el monto de las contribuciones y cuotas compensatorias a pagar podrá determinarse en los términos anteriores. En este caso, las cuotas, bases gravables, tipos de cambio de moneda, cuotas compensatorias, demás regulaciones y restricciones no arancelarias, precios estimados y prohibiciones aplicables serán las que rijan en la fecha de pago o de la determinación, sólo cuando las mercancías se presenten ante la aduana y se active el mecanismo de selección automatizado dentro de los tres días siguientes a aquél en que el pago se realice. Si las importaciones y exportaciones se efectúan por ferrocarril, el plazo será de veinte días.
+Tratándose de importaciones o exportaciones, el pago podrá efectuarse en una fecha anterior a la señalada por el artículo 56 de esta Ley, en el entendido que si se destinan al régimen de depósito fiscal el monto de las contribuciones y, en su caso, de las cuotas compensatorias a pagar podrá determinarse en los términos anteriores. En este caso, las cuotas, bases gravables, tipos de cambio de moneda, cuotas compensatorias, demás regulaciones y restricciones no arancelarias, precios estimados y prohibiciones aplicables serán las que rijan en la fecha de pago o de la determinación, sólo cuando las mercancías se presenten ante la aduana y se active el mecanismo de selección automatizado dentro de los tres días siguientes a aquél en que el pago se realice. Si las importaciones y exportaciones se efectúan por ferrocarril, el plazo será de veinte días.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -1738,23 +1964,31 @@ Los contribuyentes que ejerzan esta opción, al exportar las mercancías por las
 
 En el supuesto de que el contribuyente no vaya a exportar la mercancía importada al amparo de este artículo, podrá dar aviso a la institución de crédito o casa de bolsa autorizada, para que transfiera a la cuenta de la Tesorería de la Federación el importe de las contribuciones y, en su caso, las cuotas compensatorias correspondientes a las mercancías que no vayan a ser exportadas, más sus rendimientos.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 86-A.
 
-Estarán obligados a garantizar mediante depósitos en las cuentas aduaneras de garantía o mediante alguna de las formas que señala el artículo 141, fracción II y VI del Código Fiscal de la Federación, quienes:
+Estarán obligados a garantizar mediante depósitos en las cuentas aduaneras de garantía, quienes:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 I. Efectúen la importación definitiva de mercancías y declaren en el pedimento un valor inferior al precio estimado que dé a conocer la Secretaría, por las contribuciones y cuotas compensatorias que correspondan a la diferencia entre el valor declarado y el precio estimado.
 
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+
 La garantía se cancelará a los seis meses de haberse efectuado la importación, salvo que las autoridades aduaneras hubieran iniciado el ejercicio de sus facultades de comprobación, en cuyo caso el plazo se ampliará hasta que se dicte resolución definitiva, así como cuando se determinen contribuciones o cuotas compensatorias omitidas, las que se harán efectivas contra la garantía otorgada, o se ordene su cancelación por las autoridades aduaneras en los términos que señale el Servicio de Administración Tributaria, mediante reglas de carácter general.
+
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 II. Efectúen el tránsito interno o internacional de mercancías, por el monto que corresponda a las contribuciones y cuotas compensatorias que se determinen provisionalmente en el pedimento o las que correspondan tomando en cuenta el valor de transacción de mercancías idénticas o similares conforme a los artículos 72 y 73 de esta Ley, en los casos que señale el Servicio de Administración Tributaria, mediante reglas de carácter general. Lo dispuesto en esta fracción no será aplicable a las importaciones temporales que efectúen las maquiladoras y empresas con programas de exportación autorizados por la Secretaría de Economía, siempre que las mercancías se encuentren previstas en los programas respectivos.
 
 La garantía se cancelará cuando se tramite el pedimento correspondiente en la aduana de despacho o de salida, según se trate de tránsito interno o internacional y se paguen las contribuciones y cuotas compensatorias.
 
 Cuando se cancele la garantía, el importador podrá recuperar las cantidades depositadas, con los rendimientos que se hayan generado a partir de la fecha en que se haya efectuado su depósito y hasta que se autorice su cancelación.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Se podrá garantizar mediante depósitos en las cuentas aduaneras de garantía en los casos que establezca el Servicio de Administración Tributaria mediante reglas.
 
 ###### Artículo 87.
 
@@ -1800,7 +2034,9 @@ Los contribuyentes podrán rectificar los datos contenidos en el pedimento el n�
 
 Una vez activado el mecanismo de selección automatizado, se podrá efectuar la rectificación del pedimento, salvo en aquellos supuestos que requieran autorización del Servicio de Administración Tributaria, establecidos mediante reglas.
 
-Si el mecanismo de selección automatizado determina que debe practicarse el reconocimiento aduanero, o bien, cuando se haya iniciado el ejercicio de facultades de comprobación, no procederá la rectificación del pedimento, sino hasta que concluyan dichos actos, o en su caso, cuando el Servicio de Administración Tributaria lo establezca en reglas.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Si el mecanismo de selección automatizado determina que debe practicarse el reconocimiento aduanero, o bien, cuando se haya iniciado el ejercicio de facultades de comprobación, no procederá la rectificación del pedimento, sino hasta que concluyan dichos actos y la autoridad no haya encontrado alguna irregularidad sobre los datos asentados en el pedimento, salvo en aquellos casos que el Servicio de Administración Tributaria lo establezca en reglas.
 
 No se impondrán multas cuando la rectificación se efectué de forma espontánea. La rectificación no prejuzga sobre la veracidad de lo declarado ni limita las facultades de comprobación de las autoridades.
 
@@ -1874,9 +2110,9 @@ El desistimiento de un régimen aduanero procederá hasta antes de que se active
 
 Tratándose de exportaciones que se realicen en aduanas de tráfico aéreo o marítimo, el desistimiento a que se refiere este artículo, procederá inclusive después de que se haya activado el mecanismo de selección automatizado. En este caso se podrá permitir el tránsito de las mercancías a una aduana distinta o a un almacén para su depósito fiscal.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-El cambio de régimen aduanero procederá siempre que se paguen las contribuciones correspondientes y se cumplan las obligaciones en materia de cuotas compensatorias, y demás regulaciones y restricciones no arancelarias, y precios estimados exigibles, para el nuevo régimen solicitado en la fecha de cambio de régimen.
+El cambio de régimen aduanero procederá siempre que se paguen las contribuciones y las cuotas compensatorias, según corresponda, las regulaciones y restricciones no arancelarias y los precios estimados exigibles, para el nuevo régimen solicitado en la fecha de cambio de régimen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2054,11 +2290,11 @@ En ningún caso procederá la renovación de la inscripción o la autorización 
 
 Las empresas que presten servicios de mensajería no podrán solicitar la inscripción en el registro a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 100-A.
 
-El Servicio de Administración Tributaria podrá autorizar la inscripción en el registro de empresas certificadas, a las empresas que cumplan con los siguientes requisitos:
+El Servicio de Administración Tributaria podrá autorizar la inscripción en el registro de empresas certificadas, incluso en la modalidad de operador económico autorizado, a las empresas que cumplan con los requisitos siguientes:
 
 I. Que estén constituidas conforme a la legislación mexicana;
 
@@ -2072,17 +2308,23 @@ IV. Que demuestren el nivel de cumplimiento de sus obligaciones aduaneras en los
 
 V. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-VI. Que designen a las empresas transportistas autorizadas para efectuar el traslado de las mercancías de comercio exterior, señalando su denominación, clave del Registro Federal de Contribuyentes y domicilio fiscal.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+VI. Que designen a las empresas transportistas autorizadas para efectuar el traslado de las mercancías de comercio exterior, señalando su denominación, y clave del registro federal de contribuyentes.
 
-VII. Los demás que el Servicio de Administración Tributaria establezca mediante reglas.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Para obtener la autorización prevista en el párrafo anterior, los interesados deberán presentar solicitud ante el Servicio de Administración Tributaria, acompañando la documentación que se establezca en reglas, con la cual se acredite el cumplimiento de los requisitos necesarios para su obtención.
+VII. En su caso, que cumplan con los estándares mínimos de seguridad y demás requisitos que el Servicio de Administración Tributaria establezca mediante reglas.
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-El Servicio de Administración Tributaria autorizará la inscripción en el registro de empresas certificadas, bajo la modalidad de operador económico autorizado, cuando además de cumplir con lo anteriormente señalado, las empresas den cumplimiento a los estándares mínimos en materia de seguridad y requisitos específicos que dicho órgano desconcentrado establezca mediante reglas.
+La inscripción en el registro de empresas certificadas también podrá autorizarse a las personas físicas o morales que intervienen en la cadena logística como prestadores de servicios para la entrada y salida de mercancías del territorio nacional, siempre que cumplan con los requisitos que se señalan en este artículo y los que establezca el Servicio de Administración Tributaria mediante reglas.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Para obtener la autorización prevista en el presente artículo, los interesados deberán presentar solicitud ante el Servicio de Administración Tributaria, acompañando la documentación que se establezca en reglas, con la cual se acredite el cumplimiento de los requisitos necesarios para su obtención.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -2110,11 +2352,13 @@ IV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)}
 
 V. Considerar como desperdicios los materiales que ya manufacturados en el país sean rechazados por control de calidad, así como los que se consideran obsoletos por avances tecnológicos;
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VI. Las relativas a la reducción de multas y el cumplimiento en forma espontánea de sus obligaciones derivadas del despacho aduanero, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas;
+VI. Las relativas a la reducción de multas y el cumplimiento de sus obligaciones derivadas del despacho aduanero, en forma espontánea o durante el ejercicio de facultades de comprobación, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas;
 
-VII. Otras medidas de simplificación y fortalecimiento de la seguridad jurídica previstas en esta Ley o que establezca mediante reglas el Servicio de Administración Tributaria.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+VII. Otras medidas de simplificación y facilitación del despacho aduanero previstas en esta Ley o que establezca mediante reglas el Servicio de Administración Tributaria.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -2140,17 +2384,9 @@ Las personas que tengan en su poder por cualquier título, mercancías de proced
 
 Las empresas a que se refiere el artículo 98 de esta Ley, podrán regularizar sus mercancías de acuerdo con lo previsto en este artículo.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
 ###### Artículo 101-A.
 
-Las mercancías que hayan sido importadas temporalmente por las empresas certificadas a que se refiere el artículo 100-A de esta Ley, podrán regularizarlas cuando haya transcurrido el plazo de importación temporal, importándolas definitivamente, previo pago de las contribuciones y cuotas compensatorias que correspondan con las actualizaciones y recargos calculados en los términos de los artículos 17-A y 21 del Código Fiscal de la Federación, a partir del mes en que las mercancías se importaron temporalmente y hasta que se efectúe el pago, así como efectuar el pago de la multa prevista en el artículo 183, fracción II, primer párrafo de la Ley y previo cumplimiento de las demás obligaciones en materia de regulaciones y restricciones no arancelarias.
-
-No podrán ser regularizadas las mercancías en los siguientes casos:
-
-I. Cuando se trate de mercancías que determine el Servicio de Administración Tributaria mediante reglas.
-
-II. Cuando la omisión sea descubierta por las autoridades fiscales o la omisión se pretenda corregir por el contribuyente después de que las autoridades aduaneras hubieran notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquiera otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de las disposiciones fiscales.
+(DEROGADO, D.O.F. 25 DE JUNIO DE 2018)
 
 #### Sección Segunda. De exportación
 
@@ -2184,19 +2420,17 @@ I
 
 Disposiciones generales
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 104.
 
 Las importaciones temporales de mercancías de procedencia extranjera se sujetarán a lo siguiente:
 
-I. No se pagarán los impuestos al comercio exterior ni las cuotas compensatorias.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+I. No se pagarán los impuestos al comercio exterior.
 
 Lo dispuesto en esta fracción no será aplicable en los casos previstos en los artículos 63-A, 105, 108, fracción III, 110 y 112 de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-II. Se cumplirán las demás obligaciones en materia de regulaciones y restricciones no arancelarias.
+II. Se cumplirán las obligaciones en materia de regulaciones y restricciones no arancelarias y, en su caso, de las cuotas compensatorias.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -2222,13 +2456,13 @@ a) Las que realicen los residentes en el extranjero, siempre que sean utilizados
 
 b) Las de envases de mercancías, siempre que contengan en territorio nacional las mercancías que en ellos se hubieran introducido al país.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-c) Las de vehículos de las misiones diplomáticas y consulares extranjeras y de las oficinas de sede o representación de organismos internacionales, así como de los funcionarios y empleados del servicio exterior mexicano, para su importación en franquicia diplomática, siempre que cumplan con los requisitos que señale la Secretaría mediante reglas.
+c) Las de vehículos de las misiones diplomáticas y consulares extranjeras y de las oficinas de sede o representación de organismos internacionales, así como de los funcionarios y empleados del servicio exterior mexicano, para su importación en franquicia diplomática, siempre que cumplan con los requisitos que señale el Servicio de Administración Tributaria mediante reglas.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-d) Las de muestras o muestrarios destinados a dar a conocer mercancías, siempre que cumplan con los requisitos que señale la Secretaría mediante reglas.
+d) Las de muestras o muestrarios destinados a dar a conocer mercancías, siempre que cumplan con los requisitos que señale el Servicio de Administración Tributaria mediante reglas.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -2247,6 +2481,10 @@ d) Las de vehículos de prueba, siempre que la importación se efectúe por un f
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 e) Las de mercancías previstas por los convenios internacionales de los que México sea parte, así como las que sean para uso oficial de las misiones diplomáticas y consulares extranjeras cuando haya reciprocidad.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+f) Las de mercancías destinadas a fines de investigación que importen organismos públicos nacionales y extranjeros, así como personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta, de conformidad con los tratados internacionales de los que México sea parte o los acuerdos interinstitucionales aplicables.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -2296,15 +2534,15 @@ El Reglamento establecerá los casos y condiciones en los que deba garantizarse 
 
 Las mercancías que hubieran sido importadas temporalmente de conformidad con este artículo, deberán retornar al extranjero en los plazos previstos, en caso contrario, se entenderá que las mismas se encuentran ilegalmente en el país, por haber concluido el régimen de importación temporal al que fueron destinadas.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 107.
 
-Tratándose de las importaciones temporales a que se refieren los incisos a), b) y d) de la fracción II, la fracción III, el inciso b) de la fracción IV y los incisos a), b), c) y e) de la fracción V del artículo 106 de esta Ley, en el pedimento se señalará la finalidad a la que se destinarán las mercancías y, en su caso, el lugar en donde cumplirán la citada finalidad y mantendrán las propias mercancías. Quienes importen las mercancías a que se refieren los incisos a), c) y e) de la fracción V del artículo 106 mencionado, no estarán obligados a tramitar el pedimento respectivo, siempre que proporcionen la información que establezca el Servicio de Administración Tributaria mediante reglas.
+Tratándose de las importaciones temporales a que se refieren los incisos a), b) y d) de la fracción II, la fracción III, el inciso b) de la fracción IV y los incisos a), b), c) y e) de la fracción V del artículo 106 de esta Ley, en el pedimento se señalará la finalidad a la que se destinarán las mercancías y, en su caso, el lugar en donde cumplirán la citada finalidad y se mantendrán las propias mercancías.
 
-En los demás casos, no se requerirá pedimento para la importación temporal de mercancías ni para su retorno, pero se deberá presentar la forma oficial que mediante reglas establezca el Servicio de Administración Tributaria.
+El Servicio de Administración Tributaria podrá, mediante reglas, determinar los casos en que no se requerirá pedimento para la importación temporal de mercancías ni para su retorno, y establecerá en las mismas la forma oficial que deberá presentarse.
 
-Tampoco será necesaria la presentación de pedimento cuando se presente otro documento con el mismo fin previsto en algún tratado internacional del que México sea parte. El Servicio de Administración Tributaria establecerá mediante reglas, los casos y condiciones en que procederá la utilización de ese documento, de conformidad con lo dispuesto en dicho tratado internacional.
+No será necesaria la presentación de pedimento cuando se presente otro documento con el mismo fin previsto en algún tratado internacional del que México sea parte. El Servicio de Administración Tributaria establecerá mediante reglas, los casos y condiciones en que procederá la utilización de ese documento, de conformidad con lo dispuesto en el tratado internacional que corresponda.
 
 III
 
@@ -2484,11 +2722,11 @@ III
 
 Para elaboración, transformación o reparación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 117.
 
-Se autoriza la salida del territorio nacional de mercancías para someterse a un proceso de transformación, elaboración o reparación hasta por dos años. Este plazo podrá ampliarse hasta por un lapso igual, mediante rectificación al pedimento que presente el exportador, o por agente aduanal cuando el despacho se haga por su conducto, o previa autorización cuando se requiera de un plazo mayor, de conformidad con los requisitos que establezca el Reglamento.
+Se autoriza la salida del territorio nacional de mercancías para someterse a un proceso de transformación, elaboración o reparación hasta por dos años. Este plazo podrá ampliarse hasta por un lapso igual, mediante rectificación al pedimento que presente el exportador, el agente aduanal o la agencia aduanal, cuando el despacho se haga por su conducto o, previa autorización, cuando se requiera de un plazo mayor, de conformidad con los requisitos que establezca el Reglamento.
 
 Al retorno de las mercancías se pagará el impuesto general de importación que correspondan al valor de las materias primas o mercancías extranjeras incorporadas, así como el precio de los servicios prestados en el extranjero para su transformación, elaboración o reparación, de conformidad con la clasificación arancelaria de la mercancía retornada.
 
@@ -2500,39 +2738,55 @@ Las mermas y los desperdicios no gozarán de estímulos fiscales.
 
 ### Capítulo IV. Depósito fiscal
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 119.
 
-El régimen de depósito fiscal consiste en el almacenamiento de mercancías de procedencia extranjera o nacional en almacenes generales de depósito que puedan prestar este servicio en los términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y además sean autorizados para ello, por las autoridades aduaneras. El régimen de depósito fiscal se efectúa una vez determinados los impuestos al comercio exterior, así como las cuotas compensatorias.
+El régimen de depósito fiscal consiste en el almacenamiento de mercancías de procedencia extranjera o nacional en almacenes generales de depósito que puedan prestar este servicio en los términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y además sean autorizados para ello, por las autoridades aduaneras. El régimen de depósito fiscal se efectúa una vez determinados los impuestos al comercio exterior y, en su caso, las cuotas compensatorias.
 
 Los almacenes generales de depósito que cuenten con la autorización a que se refiere el párrafo anterior, deberán cumplir en cada local en que mantengan las mercancías en depósito fiscal, con los siguientes requisitos:
 
-I. Deberán destinar, dentro del almacén, instalaciones que reúnan las especificaciones que señale la Secretaría para mantener aisladas las mercancías destinadas al régimen de depósito fiscal, de las mercancías nacionales o extranjeras que se encuentren en dicho almacén.
+I. Deberán destinar, dentro del almacén, instalaciones que reúnan las especificaciones que señale el Servicio de Administración Tributaria para mantener aisladas las mercancías destinadas al régimen de depósito fiscal, de las mercancías nacionales o extranjeras que se encuentren en dicho almacén.
 
-II. Deberán contar con equipo de cómputo y de transmisión de datos que permita su enlace con el de la Secretaría, así como llevar un registro permanente y simultáneo de las operaciones de mercancías en depósito fiscal, en el momento en que se tengan por recibidas o sean retiradas, mismo que deberá vincularse electrónicamente con la dependencia mencionada. Para los efectos de esta fracción, la Secretaría establecerá las condiciones que deberán observarse para la instalación de los equipos, así como para llevar a cabo el registro de las operaciones realizadas y el enlace de los medios de cómputo del almacén general de depósito con la Secretaría.
+II. Deberán contar con equipo de cómputo y de transmisión de datos que permita su enlace con el Servicio de Administración Tributaria, así como llevar un registro permanente y simultáneo de las operaciones de mercancías en depósito fiscal, en el momento en que se tengan por recibidas o sean retiradas, mismo que deberá vincularse electrónicamente con la dependencia mencionada. Para los efectos de esta fracción, el Servicio de Administración Tributaria establecerá las condiciones que deberán observarse para la instalación de los equipos, así como para llevar a cabo el registro de las operaciones realizadas y el enlace de los medios de cómputo del almacén general de depósito con dicho órgano administrativo desconcentrado.
 
-El incumplimiento a lo dispuesto en las fracciones I y II de este artículo dará lugar a que la Secretaría, previa audiencia, suspenda temporalmente la autorización al local de que se trate, hasta que se cumplan los requisitos que correspondan. En caso de reincidencia, la Secretaría cancelará la autorización a que se refiere este artículo.
+El incumplimiento a lo dispuesto en las fracciones I y II de este artículo dará lugar a que el Servicio de Administración Tributaria, previa audiencia, suspenda temporalmente la autorización al local de que se trate, hasta que se cumplan los requisitos que correspondan. En caso de reincidencia, el Servicio de Administración Tributaria cancelará la autorización a que se refiere este artículo.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+Para destinar las mercancías al régimen de depósito fiscal será necesario cumplir en la aduana de despacho con las regulaciones y restricciones no arancelarias aplicables a este régimen, así como acompañar el pedimento con la carta de cupo. Dicha carta se expedirá por el almacén general de depósito o por el titular del local destinado a exposiciones internacionales a que se refiere la fracción III del artículo 121 de esta Ley, según corresponda, y en ella se consignarán los datos del importador, exportador, agente aduanal o agencia aduanal, que promoverá el despacho.
 
-Para destinar las mercancías al régimen de depósito fiscal será necesario cumplir en la aduana de despacho con las regulaciones y restricciones no arancelarias aplicables a este régimen, así como acompañar el pedimento con la carta de cupo. Dicha carta se expedirá por el almacén general de depósito o por el titular del local destinado a exposiciones internacionales a que se refiere la fracción III del artículo 121 de esta Ley, según corresponda, y en ella se consignarán los datos del importador, exportador o agente aduanal, que promoverá el despacho.
-
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Se entenderá que las mercancías se encuentran bajo la custodia, conservación y responsabilidad del almacén general de depósito en el que quedarán almacenadas bajo el régimen de depósito fiscal, desde el momento en que éste expida la carta de cupo mediante la cual acepta almacenar la mercancía. Debiendo transmitir la carta de cupo mediante su sistema electrónico al del Servicio de Administración Tributaria, informando los datos del importador, exportador o agente aduanal, que promoverá el despacho.
+Se entenderá que las mercancías se encuentran bajo la custodia, conservación y responsabilidad del almacén general de depósito en el que quedarán almacenadas bajo el régimen de depósito fiscal, desde el momento en que éste expida la carta de cupo mediante la cual acepta almacenar la mercancía, debiendo transmitir la carta de cupo mediante su sistema electrónico al del Servicio de Administración Tributaria, informando los datos del importador, exportador, agente aduanal o agencia aduanal, que promoverá el despacho.
 
 Las mercancías que estén en depósito fiscal, siempre que no se altere o modifique su naturaleza o las bases gravables para fines aduaneros, podrán ser motivo de actos de conservación, exhibición, colocación de signos de identificación comercial, empaquetado, examen, demostración y toma de muestras. En este último caso, se pagarán las contribuciones y cuotas compensatorias que correspondan a las muestras.
 
-El almacén general de depósito o el titular del local destinado a exposiciones internacionales que haya expedido la carta de cupo, informará a la Secretaría dentro del plazo de veinte días siguientes al de la expedición de dicha carta, los sobrantes o faltantes de las mercancías manifestadas en el pedimento respecto de las efectivamente recibidas en sus instalaciones procedentes de la aduana del despacho. En caso de que dichas mercancías no arriben en el plazo señalado, se deberá informar a más tardar al día siguiente en que venza el mismo. De no rendir dicho aviso se entenderá que recibió de conformidad las mercancías descritas en el pedimento respectivo.
+El almacén general de depósito o el titular del local destinado a exposiciones internacionales que haya expedido la carta de cupo, informará al Servicio de Administración Tributaria dentro del plazo de veinte días naturales siguientes al de la expedición de dicha carta, los sobrantes o faltantes de las mercancías manifestadas en el pedimento respecto de las efectivamente recibidas en sus instalaciones procedentes de la aduana del despacho. En caso de que dichas mercancías no arriben en el plazo señalado, se deberá informar a más tardar al día siguiente en que venza el mismo. De no rendir dicho aviso se entenderá que recibió de conformidad las mercancías descritas en el pedimento respectivo.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-Las personas físicas o morales residentes en el extranjero, podrán promover el régimen de depósito fiscal por conducto de agente aduanal, conforme a los requisitos de llenado del pedimento que establezca el Servicio de Administración Tributaria mediante reglas.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+Las personas físicas o morales residentes en el extranjero, podrán promover el régimen de depósito fiscal por conducto de agente aduanal o agencia aduanal, conforme a los requisitos de llenado del pedimento que establezca el Servicio de Administración Tributaria mediante reglas.
 
 En caso de cancelación de la carta de cupo, ésta deberá realizarse por el almacén general de depósito o por el titular del local destinado a exposiciones internacionales que la hubiera expedido, mismo que deberá de comunicarlo a la autoridad aduanera dentro de los cinco días siguientes al de su cancelación.
 
 A partir de la fecha en que las mercancías nacionales queden en depósito fiscal para su exportación, se entenderán exportadas definitivamente.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 119-A.
+
+Los almacenes generales de depósito podrán obtener la autorización a que se refiere el artículo 119 de esta Ley cuando se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, acrediten la propiedad o la legal posesión de las instalaciones en las que prestarán el servicio de almacenamiento de mercancías y cumplan con los demás requisitos que establezca el Servicio de Administración Tributaria mediante reglas.
+
+Las mercancías que se introduzcan al régimen de depósito fiscal, podrán permanecer en el mismo por un plazo de veinticuatro meses.
+
+La autorización se otorgará con vigencia de hasta diez años, o por la que el almacén general de depósito solicitante acredite la propiedad o legal posesión de las instalaciones objeto de su solicitud, en caso de ser menor.
+
+Se cancelará la autorización a que se refiere el primer párrafo de este artículo, cuando el titular incurra en cualquiera de los supuestos siguientes:
+
+I. Permita el retiro de mercancías sin cumplir con las formalidades para su retorno al extranjero o sin que se hayan pagado las contribuciones y, en su caso, cuotas compensatorias causadas con motivo de su importación o exportación;
+
+II. Cuando almacene en depósito fiscal mercancía que no deba ser objeto de dicho régimen en términos del artículo 123 de esta Ley;
+
+III. Cuando por cualquier motivo incumpla con los requisitos exigidos para el otorgamiento de la autorización o, en su caso, con lo dispuesto en el párrafo tercero del artículo 119 de la presente Ley, y
+
+IV. En los demás casos previstos en esta Ley, su Reglamento y la autorización respectiva.
+
+La autoridad aduanera cancelará la autorización, conforme al procedimiento previsto en el artículo 144-A de la presente Ley.
 
 ###### Artículo 120.
 
@@ -2552,21 +2806,27 @@ IV. Importarse temporalmente por maquiladoras o por empresas con programas de ex
 
 Las mercancías podrán retirarse total o parcialmente para su importación o exportación pagando previamente los impuestos al comercio exterior y el derecho de trámite aduanero, para lo cual deberán optar al momento del ingreso de la mercancía al depósito fiscal, si la determinación del importe a pagar se actualizará en los términos del artículo 17-A del Código Fiscal de la Federación o conforme a la variación cambiaria que hubiere tenido el peso frente al dólar de los Estados Unidos de América, durante el período comprendido entre la entrada de las mercancías al territorio nacional de conformidad con lo establecido en el artículo 56 de esta Ley, o al almacén en el caso de exportaciones, y su retiro del mismo; así como pagar previamente las demás contribuciones y cuotas compensatorias que, en su caso, correspondan.
 
-Los almacenes generales de depósito recibirán las contribuciones y cuotas compensatorias que se causen por la importación y exportación definitiva de las mercancías que tengan en depósito fiscal y estarán obligados a enterarlas en las oficinas autorizadas, al día siguiente a aquél en que las reciban.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+Los almacenes generales de depósito recibirán las contribuciones y, en su caso, las cuotas compensatorias que se causen por la importación y exportación definitiva de las mercancías que tengan en depósito fiscal y estarán obligados a enterarlas en las oficinas autorizadas, al día siguiente a aquél en que las reciban.
 
-En los casos a que se refieren las fracciones I y II de este artículo, al efectuarse el retiro deberán satisfacerse, además, los requisitos que establezca la Secretaría mediante reglas. En el caso de la fracción III, el retorno al extranjero podrá realizarse por la aduana que elija el interesado sin el pago de los impuestos al comercio exterior y de las cuotas compensatorias. El traslado de las mercancías del almacén a la citada aduana deberá realizarse mediante el régimen de tránsito interno.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+En los casos a que se refieren las fracciones I y II de este artículo, al efectuarse el retiro deberán satisfacerse, además, los requisitos que establezca el Servicio de Administración Tributaria mediante reglas. En el caso de la fracción III, el retorno al extranjero podrá realizarse por la aduana que elija el interesado sin el pago de los impuestos al comercio exterior y de las cuotas compensatorias. El traslado de las mercancías del almacén a la citada aduana deberá realizarse mediante el régimen de tránsito interno.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 121.
 
-La Secretaría, como excepción a lo dispuesto en el artículo 119 de esta Ley y siempre que se cumplan los requisitos de control que señale el Reglamento, podrá autorizar el establecimiento de depósitos fiscales de conformidad con lo siguiente:
+El Servicio de Administración Tributaria, como excepción a lo dispuesto en el artículo 119 de esta Ley y siempre que se cumplan los requisitos de control que señale el Reglamento, podrá autorizar el establecimiento de depósitos fiscales de conformidad con lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
-I. Para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura. En este caso las mercancías no se sujetarán al pago de impuesto al comercio exterior y de cuotas compensatorias, siempre que las ventas se hagan a pasajeros que salgan del país directamente al extranjero y la entrega de dichas mercancías se realice en los puntos de salida del territorio nacional, debiendo llevarlas consigo al extranjero.
+I. Para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura. En este caso las mercancías no se sujetarán al pago de impuesto al comercio exterior, siempre que las ventas se hagan a pasajeros que salgan del país directamente al extranjero y la entrega de dichas mercancías se realice en los puntos de salida del territorio nacional, debiendo llevarlas consigo al extranjero.
 
-Cuando la venta se haga a los pasajeros que arriben al país directamente del extranjero en puertos aéreos internacionales y dicha venta así como la entrega de las mercancías se realice en los establecimientos autorizados por el Servicio de Administración Tributaria, cumpliendo los requisitos de control que se establezcan mediante reglas, las mercancías no se sujetarán al pago de impuestos al comercio exterior y de cuotas compensatorias, siempre que se trate de las que comprenden el equipaje de pasajeros en viajes internacionales, de conformidad con lo previsto en el Artículo 61, fracción VI, de la Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Cuando la venta se haga a los pasajeros que arriben al país directamente del extranjero en puertos aéreos internacionales y dicha venta así como la entrega de las mercancías se realice en los establecimientos autorizados por el Servicio de Administración Tributaria, cumpliendo los requisitos de control que se establezcan mediante reglas, las mercancías no se sujetarán al pago de impuestos al comercio exterior, siempre que se trate de las que comprenden el equipaje de pasajeros en viajes internacionales, de conformidad con lo previsto en el Artículo 61, fracción VI, de la Ley y demás disposiciones aplicables.
 
 Las autoridades aduaneras controlarán los establecimientos mencionados en los dos párrafos anteriores, sus instalaciones, vías de acceso y oficinas.
 
@@ -2600,13 +2860,13 @@ II. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 III. Temporalmente, para locales destinados a exposiciones internacionales de mercancías.
 
-(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996))
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
-IV. Para someterse al proceso de ensamble y fabricación de vehículos, a empresas de la industria automotriz terminal, cumpliendo los requisitos y formalidades que para tales efectos establezca la Secretaría mediante reglas.
+IV. Para someterse al proceso de ensamble y fabricación de vehículos, a empresas de la industria automotriz terminal, cumpliendo los requisitos y formalidades que para tales efectos establezca el Servicio de Administración Tributaria mediante reglas.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Los particulares que obtengan la autorización a que se refiere esta fracción deberán mantener los controles que establezca la Secretaría mediante reglas.
+Los particulares que obtengan la autorización a que se refiere esta fracción deberán mantener los controles que establezca el Servicio de Administración Tributaria mediante reglas.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -2644,13 +2904,17 @@ III. La aduana de despacho envíe las mercancías importadas temporalmente en pr
 
 El tránsito interno para la importación de bienes de consumo final sólo procederá en los términos y con las condiciones que señale el Reglamento.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 127.
 
-El régimen de tránsito interno se promoverá por los importadores, exportadores o por conducto de agente aduanal.
+El régimen de tránsito interno se promoverá por los importadores, exportadores, por conducto de agente aduanal o agencia aduanal.
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 I. Tratándose del tránsito interno a la exportación se deberá formular el pedimento de exportación, efectuar el pago de las contribuciones correspondientes y cumplir con las regulaciones y restricciones no arancelarias aplicables al régimen de exportación, en la aduana de despacho.
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 II. Para realizar el tránsito interno a la importación se deberá cumplir con los siguientes requisitos:
 
@@ -2664,7 +2928,9 @@ Tratándose de regulaciones y restricciones no arancelarias cuyo cumplimiento se
 
 d) Pagar las contribuciones actualizadas desde la entrada de las mercancías al país y hasta que se efectúe dicho pago, así como las cuotas compensatorias, antes de activar el mecanismo de selección automatizado en la aduana de despacho.
 
-e) Efectuar el traslado de las mercancías utilizando los servicios de las empresas inscritas en el registro de empresas transportistas a que se refiere el artículo 170 del Reglamento.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+e) Efectuar el traslado de las mercancías utilizando los servicios de las empresas inscritas en el registro de empresas transportistas que disponga el Reglamento.
 
 El tránsito interno para el retorno de mercancías importadas temporalmente en programas de maquila o de exportación, se efectuará de conformidad con el procedimiento que establezca el Servicio de Administración Tributaria mediante reglas.
 
@@ -2678,9 +2944,9 @@ El tránsito interno de mercancías deberá efectuarse dentro de los plazos máx
 
 Si las mercancías en tránsito interno a la importación no arriban a la aduana de despacho en el plazo señalado, la determinación provisional de contribuciones y cuotas compensatorias se considerará como definitiva. Si las mercancías en tránsito interno para su exportación o retorno al extranjero no arriban a la aduana de salida en el plazo señalado, no se considerarán exportadas o retornadas y se deberán reintegrar los beneficios fiscales que se hubieran obtenido con motivo de la exportación.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Cuando por razones de caso fortuito o fuerza mayor las mercancías no puedan arribar en los plazos a que se refiere el párrafo anterior, el agente aduanal o el transportista, indistintamente deberán presentar aviso por escrito a las autoridades aduaneras de conformidad con lo que establezca el Reglamento, exponiendo las razones que impiden el arribo oportuno de las mercancías. En este caso, podrá permitirse el arribo extemporáneo de las mercancías por un periodo igual al plazo máximo de traslado establecido.
+Cuando por razones de caso fortuito o fuerza mayor las mercancías no puedan arribar en los plazos a que se refiere el párrafo anterior, la agencia aduanal, el agente aduanal, el importador, el exportador o el transportista, indistintamente, deberán presentar aviso por escrito a las autoridades aduaneras de conformidad con lo que establezca el Reglamento, exponiendo las razones que impiden el arribo oportuno de las mercancías. En este caso, podrá permitirse el arribo extemporáneo de las mercancías por un periodo igual al plazo máximo de traslado establecido.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -2690,7 +2956,9 @@ Serán responsables ante el Fisco Federal del pago de las contribuciones y cuota
 
 I. Quien efectúe el tránsito interno de mercancías.
 
-II. El agente aduanal en los siguientes casos:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+
+II. El agente aduanal o la agencia aduanal en los casos siguientes:
 
 a) Cuando señale en el pedimento el nombre, domicilio fiscal o la clave del registro federal de contribuyentes de alguna persona que no hubiere solicitado la operación, o cuando estos datos resulten falsos o inexistentes.
 
@@ -2700,7 +2968,9 @@ La empresa transportista inscrita en el registro que establezca el Reglamento qu
 
 Las empresas transportistas deberán mantener los medios de control y seguridad que señale el Servicio de Administración Tributaria mediante reglas y deberán proporcionar la información y documentación que les sea requerida por las autoridades aduaneras.
 
-Independientemente de lo dispuesto en este artículo, el agente aduanal que promueva el despacho tendrá la responsabilidad prevista en esta Ley por las irregularidades que se deriven de la formulación del pedimento y que se detecten con motivo del ejercicio de las facultades de comprobación de la autoridad aduanera.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Independientemente de lo dispuesto en este artículo, el agente aduanal o la agencia aduanal que promueva el despacho tendrá la responsabilidad prevista en esta Ley por las irregularidades que se deriven de la formulación del pedimento y que se detecten con motivo del ejercicio de las facultades de comprobación de la autoridad aduanera.
 
 #### Sección Segunda. Tránsito internacional de mercancías
 
@@ -2712,11 +2982,11 @@ I. La aduana de entrada envíe a la aduana de salida las mercancías de proceden
 
 II. Las mercancías nacionales o nacionalizadas se trasladen por territorio extranjero para su reingreso al territorio nacional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 131.
 
-El tránsito internacional de mercancías por territorio nacional se promoverá por personas físicas o morales, o por conducto de agente aduanal, siempre que se cumplan los siguientes requisitos:
+El tránsito internacional de mercancías por territorio nacional se promoverá por personas físicas o morales, o por conducto de agente aduanal o agencia aduanal, siempre que se cumplan los requisitos siguientes:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2724,21 +2994,25 @@ I. Formular el pedimento de tránsito internacional y anexar, en su caso, el doc
 
 II. Determinar provisionalmente las contribuciones, aplicando la tasa máxima señalada en la tarifa de la Ley del Impuesto General de Importación, y la que corresponda tratándose de las demás contribuciones que se causen, así como las cuotas compensatorias.
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-III. Efectuarse por las aduanas autorizadas y por las rutas fiscales que para tal efecto establezca la Secretaría mediante reglas. El traslado de las mercancías se deberá efectuar utilizando los servicios de las empresas inscritas en el Registro de empresas transportistas a que se refiere el artículo 170 del Reglamento.
+III. Efectuarse por las aduanas autorizadas y por las rutas fiscales que para tal efecto establezca el Servicio de Administración Tributaria mediante reglas. El traslado de las mercancías se deberá efectuar utilizando los servicios de las empresas inscritas en el registro de empresas transportistas que disponga el Reglamento.
 
-Sólo procederá el tránsito internacional de mercancías por territorio nacional en los casos y bajo las condiciones que señale la Secretaría mediante reglas.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Sólo procederá el tránsito internacional de mercancías por territorio nacional en los casos y bajo las condiciones que señale el Servicio de Administración Tributaria mediante reglas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 132.
 
-El tránsito internacional de mercancías deberá efectuarse en los plazos máximos de traslado que establezca la Secretaría mediante reglas.
+El tránsito internacional de mercancías deberá efectuarse en los plazos máximos de traslado que establezca el Servicio de Administración Tributaria mediante reglas.
 
 Si las mercancías en tránsito internacional por territorio nacional no arriban a la aduana de salida en el plazo señalado, la determinación provisional de contribuciones y de cuotas compensatorias se considerará como definitiva.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Cuando por razones de caso fortuito o fuerza mayor las mercancías no puedan arribar en los plazos a que se refiere el párrafo anterior, el agente aduanal, el transportista o la persona física o moral que efectúe el tránsito internacional de mercancías, deberá presentar aviso por escrito a las autoridades aduaneras de conformidad con lo que establezca el Reglamento, exponiendo las razones que impiden el arribo oportuno de las mercancías. En este caso, podrá permitirse el arribo extemporáneo de las mercancías a la aduana de salida por un periodo igual al plazo máximo de traslado establecido o, que se efectúe el desistimiento al régimen en la aduana de entrada, siempre que en este último caso se presenten físicamente las mercancías ante la autoridad aduanera en dicha aduana.
+Cuando por razones de caso fortuito o fuerza mayor las mercancías no puedan arribar en los plazos a que se refiere el párrafo anterior, el agente aduanal, la agencia aduanal, el transportista o la persona física o moral que efectúe el tránsito internacional de mercancías, deberá presentar aviso por escrito a las autoridades aduaneras de conformidad con lo que establezca el Reglamento, exponiendo las razones que impiden el arribo oportuno de las mercancías. En este caso, podrá permitirse el arribo extemporáneo de las mercancías a la aduana de salida por un periodo igual al plazo máximo de traslado establecido o, que se efectúe el desistimiento al régimen en la aduana de entrada, siempre que en este último caso se presenten físicamente las mercancías ante la autoridad aduanera en dicha aduana.
 
 ###### Artículo 133.
 
@@ -2746,11 +3020,17 @@ La persona física o moral que efectúe el tránsito internacional de mercancía
 
 Serán responsables solidarios ante el Fisco Federal del pago de las contribuciones y cuotas compensatorias omitidas, de sus accesorios y de las infracciones que se cometan durante el traslado de las mercancías, cualesquiera de las siguientes personas:
 
-I. El agente aduanal, cuando acepte expresamente dicha responsabilidad.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. La empresa transportista inscrita en el registro que establezca el Reglamento cuando realice el traslado de las mercancías. Dicho registro podrá ser cancelado por la Secretaría, cuando con motivo del ejercicio de las facultades de comprobación, las autoridades aduaneras detecten cualquier maniobra tendiente a eludir el cumplimiento de las obligaciones fiscales.
+I. El agente aduanal o la agencia aduanal, cuando acepte expresamente dicha responsabilidad.
 
-Independientemente de lo dispuesto en este artículo, el agente aduanal que promueva el despacho tendrá la responsabilidad prevista en esta Ley, por las irregularidades que se deriven de la formulación del pedimento y que se detecten durante el despacho en la aduana de entrada.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+II. La empresa transportista inscrita en el registro que establezca el Reglamento cuando realice el traslado de las mercancías. Dicho registro podrá ser cancelado por el Servicio de Administración Tributaria, cuando con motivo del ejercicio de las facultades de comprobación, las autoridades aduaneras detecten cualquier maniobra tendiente a eludir el cumplimiento de las obligaciones fiscales.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Independientemente de lo dispuesto en este artículo, el agente aduanal o la agencia aduanal que promueva el despacho tendrá la responsabilidad prevista en esta Ley, por las irregularidades que se deriven de la formulación del pedimento y que se detecten durante el despacho en la aduana de entrada.
 
 ###### Artículo 134.
 
@@ -2818,15 +3098,23 @@ El Servicio de Administración Tributaria cancelará la autorización a que se r
 
 El régimen de recinto fiscalizado estratégico consiste en la introducción, por tiempo limitado, de mercancías extranjeras, nacionales o nacionalizadas, a los recintos fiscalizados estratégicos, para ser objeto de manejo, almacenaje, custodia, exhibición, venta, distribución, elaboración, transformación o reparación y se sujetará a lo siguiente:
 
-I. No se pagarán los impuestos al comercio exterior ni las cuotas compensatorias, salvo tratándose de mercancías extranjeras, en los casos previstos en el artículo 63-A de esta Ley.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. No estarán sujetas al cumplimiento de las regulaciones y restricciones no arancelarias y normas oficiales mexicanas, excepto las expedidas en materia de sanidad animal y vegetal, salud pública, medio ambiente y seguridad nacional.
+I. No se pagarán los impuestos al comercio exterior, salvo tratándose de mercancías extranjeras, en los casos previstos en el artículo 63-A de esta Ley.
 
-III. Las mermas resultantes de los procesos de elaboración, transformación o reparación no causarán contribución alguna ni cuotas compensatorias.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+II. Estarán sujetas al cumplimiento de las regulaciones y restricciones no arancelarias que señale la Secretaría de Economía y que se expidan en términos de la Ley de Comercio Exterior.
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III. Las mermas resultantes de los procesos de elaboración, transformación o reparación no causarán contribución alguna.
 
 IV. Los desperdicios no retornados no causarán contribuciones siempre que se demuestre que han sido destruidos cumpliendo con las disposiciones de control que para tales efectos establezca el Servicio de Administración Tributaria mediante reglas.
 
-Para destinar las mercancías al régimen de recinto fiscalizado estratégico, se deberá tramitar el pedimento respectivo o efectuar el registro a través de medios electrónicos que señale el Servicio de Administración Tributaria mediante reglas, determinando las contribuciones y cuotas compensatorias que correspondan.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Para destinar las mercancías al régimen de recinto fiscalizado estratégico, se deberá tramitar el pedimento respectivo o efectuar el registro a través de medios electrónicos que señale el Servicio de Administración Tributaria mediante reglas, determinando las contribuciones y, en su caso, las cuotas compensatorias que correspondan.
 
 A partir de la fecha en que las mercancías nacionales o nacionalizadas queden bajo este régimen, se entenderán exportadas definitivamente.
 
@@ -3036,9 +3324,9 @@ III. Requerir de los contribuyentes, responsables solidarios y terceros, la info
 
 IV. Recabar de los funcionarios públicos, fedatarios y autoridades extranjeras los datos y documentos que posean con motivo de sus funciones o actividades relacionadas con la importación, exportación o uso de mercancías.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-V. Cerciorarse que en el despacho aduanero los importadores, los exportadores y los agentes aduanales, cumplan los requisitos establecidos por esta Ley y por las reglas que dicte el Servicio de Administración Tributaria, respecto del equipo para promover el despacho electrónico.
+V. Cerciorarse que en el despacho aduanero los importadores, los exportadores, los agentes aduanales y las agencias aduanales, cumplan los requisitos establecidos en esta Ley y las reglas que emita el Servicio de Administración Tributaria, respecto del equipo requerido para promover el despacho electrónico.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3050,17 +3338,17 @@ VII. Verificar que las mercancías por cuya importación fue concedido algún es
 
 VIII. Fijar los lineamientos para las operaciones de carga, descarga, manejo de mercancías de comercio exterior y para la circulación de vehículos dentro de los recintos fiscales y fiscalizados y señalar dentro de dichos recintos las áreas restringidas para el uso de aparatos de telefonía celular, o cualquier otro medio de comunicación; así como ejercer en forma exclusiva el control y vigilancia sobre la entrada y salida de mercancías y personas en dichos lugares, en los aeropuertos y puertos marítimos autorizados para el tráfico internacional y en las aduanas fronterizas.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-IX. Inspeccionar y vigilar permanentemente en forma exclusiva, el manejo, transporte o tenencia de las mercancías en los recintos fiscales y fiscalizados, para lo cual podrá apoyarse de los sistemas, equipos tecnológicos, o cualquier otro medio o servicio con que se cuente, incluso el dictamen aduanero a que se refiere el artículo 43 de esta Ley.
+IX. Inspeccionar y vigilar, así como revisar, permanentemente en forma exclusiva, el manejo, transporte o tenencia de las mercancías en los recintos fiscales y fiscalizados, para lo cual podrá apoyarse de los sistemas, equipos tecnológicos, o cualquier otro medio o servicio con que se cuente, incluso el dictamen aduanero a que se refiere el artículo 43 de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 X. Perseguir y practicar el embargo precautorio de las mercancías y de los medios en que se transporten en los casos a que se refiere el artículo 151 de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XI. Verificar en forma exclusiva durante su transporte, la legal importación o tenencia de mercancías de procedencia extranjera en todo el territorio nacional, para lo cual podrá apoyarse de los sistemas, equipos tecnológicos, cualquier otro medio o servicio con que se cuente, incluso en el dictamen aduanero a que se refiere el artículo 43 de esta Ley.
+XI. Verificar en forma exclusiva durante su transporte, la legal importación o tenencia de mercancías de procedencia extranjera en todo el territorio nacional, incluidos los recintos fiscales, para lo cual podrá apoyarse de los sistemas, equipos tecnológicos, cualquier otro medio o servicio con que se cuente, incluso en el dictamen aduanero a que se refiere el artículo 43 de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3072,9 +3360,9 @@ XIII. Establecer precios estimados para mercancías que se importen y retenerlas
 
 XIV. Establecer la naturaleza, características, clasificación arancelaria, origen y valor de las mercancías de importación y exportación.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Para ejercer las facultades a que se refiere el párrafo anterior, el Servicio de Administración Tributaria podrá solicitar el dictamen que requiera, al agente aduanal o a cualquier otro perito.
+Para ejercer las facultades a que se refiere el párrafo anterior, el Servicio de Administración Tributaria podrá solicitar el dictamen que requiera, al agente aduanal, a la agencia aduanal, a la autoridad especializada en la materia según la mercancía de que se trate o a cualquier otro perito.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3092,9 +3380,13 @@ XIX. Dictar, en caso fortuito o fuerza mayor, naufragio, o cualquiera otra causa
 
 XX. Establecer marbetes o sellos especiales para las mercancías o sus envases, destinados a la franja o región fronteriza, que determine la propia Secretaría, siempre que hayan sido gravados con un impuesto general de importación inferior al del resto del país, así como establecer sellos con el objeto de determinar el origen de las mercancías.
 
-XXI. Otorgar, suspender y cancelar las patentes de los agentes aduanales, así como otorgar, suspender, cancelar y revocar las autorizaciones de los apoderados aduanales.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XXII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
+XXI. Otorgar, inhabilitar, suspender, cancelar y extinguir las patentes de los agentes aduanales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XXII. Otorgar, inhabilitar y cancelar las autorizaciones de las agencias aduanales.
 
 > <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -3116,7 +3408,9 @@ XXVII. Establecer, para efectos de la información que deben manifestar los impo
 
 XXVIII. Suspender la libre circulación de las mercancías de procedencia extranjera dentro del recinto fiscal, una vez activado el mecanismo de selección automatizado, previa resolución que emita la autoridad administrativa o judicial competente en materia de propiedad intelectual, y ponerla de inmediato a su disposición en el lugar que las citadas autoridades señalen.
 
-XXIX. Microfilmar, grabar en discos ópticos o en cualquier otro medio que autorice la propia Secretaría mediante reglas, los documentos que se hayan proporcionado a la misma en cumplimiento de las disposiciones de esta Ley.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XXIX. Microfilmar, grabar en discos ópticos o en cualquier otro medio que autorice el Servicio de Administración Tributaria mediante reglas, los documentos que se hayan proporcionado a la misma en cumplimiento de las disposiciones de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3128,17 +3422,33 @@ XXXI. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 XXXII. Verificar y supervisar los servicios autorizados que facilitan el reconocimiento aduanero empleando tecnología no intrusiva.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XXXIII. Autorizar que el despacho de mercancías por las aduanas nacionales, pueda hacerse conjuntamente con las oficinas aduaneras de otros países.
+XXXIII. Autorizar que el despacho de mercancías pueda hacerse conjuntamente con las autoridades aduaneras de otros países tanto en territorio nacional como en el extranjero, de conformidad con los tratados internacionales en los que México sea parte, así como emitir las reglas que permitan operar dicho despacho conjunto conforme a la legislación nacional, los tratados internacionales y los acuerdos interinstitucionales aplicables, incluso para el ejercicio de facultades de comprobación en aduanas yuxtapuestas y puntos fronterizos unificados.
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 XXXIV. Autorizar y cancelar la autorización a los dictaminadores aduaneros.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XXXV. Las demás que sean necesarias para hacer efectivas las facultades a que este precepto se refiere.
+XXXV. Contar con sistemas, dispositivos, equipos tecnológicos o cualquier otro medio electrónico o servicio necesario para el ejercicio de sus facultades.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XXXVI. Suspender en el padrón de importadores, en su caso, en el padrón de importadores de sectores específicos o en el padrón de exportadores sectorial a los importadores o exportadores, conforme a lo previsto en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XXXVII. Retener las mercancías de comercio exterior cuando la autoridad competente presuma una infracción a las disposiciones que regulan la materia de los derechos de autor y de propiedad industrial. En ejercicio de esta facultad la autoridad aduanera actuará como auxiliar de las autoridades competentes en materia de los derechos de autor y de propiedad industrial, en los términos que se establezca en los convenios de colaboración y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XXXVIII. Analizar el comportamiento de los regímenes aduaneros o grupos que conforman el ámbito de importadores y exportadores por sector, para coadyuvar en la identificación de conductas ilícitas relacionadas con la entrada y salida de mercancías del territorio nacional, y proponer estrategias e instrumentar mecanismos para prevenir y combatir dichas conductas, lo que podrá incluir medidas especiales de operación aduanera que garanticen el combate eficaz de las referidas prácticas indebidas.
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XXXIX. Las demás que sean necesarias para cumplir con las facultades a que se refiere este artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3146,9 +3456,9 @@ XXXV. Las demás que sean necesarias para hacer efectivas las facultades a que e
 
 El Servicio de Administración Tributaria podrá revocar las concesiones o cancelar las autorizaciones otorgadas en los términos de esta Ley, por cualquiera de las siguientes causas:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-I. Cuando el titular no cubra o entere a la Secretaría las contribuciones o aprovechamientos correspondientes, no esté al corriente en el cumplimiento de sus obligaciones fiscales o no otorgue la garantía a que esté obligado.
+I. Cuando el titular no cubra o entere las contribuciones o aprovechamientos correspondientes, no esté al corriente en el cumplimiento de sus obligaciones fiscales o no otorgue la garantía a que esté obligado.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3162,9 +3472,13 @@ III. Cuando se graven, cedan o transmitan parcial o totalmente los derechos deri
 
 IV. Cuando se declare por autoridad competente la quiebra o suspensión de pagos del titular de la concesión o autorización.
 
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+V. Cuando sin causa justificada se dejen de prestar los servicios concesionados o autorizados, por más de ciento ochenta días naturales o se incumplan los requisitos exigidos para obtener la concesión o autorización otorgada o las obligaciones inherentes a la misma, durante su vigencia.
+
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-V. Las demás que establezca esta Ley y las que se señalen en la concesión o autorización.
+VI. Las demás que establezca esta Ley y las que se señalen en la concesión o autorización.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3230,9 +3544,17 @@ II. Para proceder a la asignación o donación de las mercancías, deberá conta
 
 III. En caso de que la mercancía se dictamine como no apta, conforme a la fracción anterior, o sea manifiesto su estado de descomposición que impida su uso o aprovechamiento, se procederá a su destrucción.
 
-El Servicio de Administración Tributaria podrá asignar las mercancías a que se refiere este artículo para su uso, o bien para otras dependencias del Gobierno Federal, entidades paraestatales, entidades federativas, Distrito Federal y municipios, así como a los poderes Legislativo y Judicial. En este caso no se requerirá la opinión previa del Consejo. El Servicio de Administración Tributaria deberá enviar mensualmente un reporte de las asignaciones al Consejo y a la Cámara de Diputados del Honorable Congreso de la Unión y en periodo de receso a la Comisión Permanente. También podrá donarlas a las personas morales con fines no lucrativos autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, previa opinión del Consejo establecido en este artículo.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Tratándose de mercancías que hayan pasado a propiedad del Fisco Federal como consecuencia de excedentes detectados a maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Economía, la autoridad aduanera podrá transferirla de inmediato al Servicio de Administración y Enajenación de Bienes, quien en su caso, podrá enajenar estas mercancías a la propia empresa objeto del embargo, siempre que se encuentren comprendidas dentro de su programa autorizado. En este caso tampoco se requerirá la opinión previa del Consejo.
+El Servicio de Administración Tributaria podrá asignar las mercancías a que se refiere este artículo para su uso, o bien para otras dependencias y entidades paraestatales de la Administración Pública Federal, empresas productivas del Estado, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como a los poderes Legislativo y Judicial. En este caso no se requerirá la opinión previa del Consejo. El Servicio de Administración Tributaria deberá enviar mensualmente un reporte de las asignaciones al Consejo y a la Cámara de Diputados del Honorable Congreso de la Unión y en periodo de receso a la Comisión Permanente. También podrá donarlas a las personas morales con fines no lucrativos autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, previa opinión del Consejo establecido en este artículo.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Para efectos del párrafo anterior, dichas personas morales con fines no lucrativos autorizadas que reciban en donación mercancías, podrán cobrar cuotas de recuperación por el suministro o la distribución de las mismas, en los términos que establezca la Ley del Impuesto sobre la Renta y su Reglamento.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Tratándose de mercancías que hayan pasado a propiedad del Fisco Federal como consecuencia de excedentes detectados a maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Economía, la autoridad aduanera podrá transferirlas de inmediato al Servicio de Administración y Enajenación de Bienes, quien, en su caso, podrá enajenar estas mercancías a la propia empresa objeto del embargo, siempre que se encuentren comprendidas dentro de su programa autorizado.
 
 ###### Artículo 146.
 
@@ -3248,11 +3570,13 @@ Tratándose de la enajenación de vehículos importados en definitiva, el import
 
 II. Nota de venta expedida por autoridad fiscal federal o institución autorizada por ésta, o la documentación que acredite la entrega de las mercancías por parte de la Secretaría.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-III. Factura expedida por empresario establecido e inscrito en el registro federal de contribuyentes, o en su caso, el comprobante fiscal digital, los que deberán reunir los requisitos que señale el Código Fiscal de la Federación.
+III. Comprobante fiscal digital que deberá reunir los requisitos que señale el Código Fiscal de la Federación.
 
-Las empresas porteadoras legalmente autorizadas, cuando transporten las mercancías de procedencia extranjera fuera de la franja o región fronteriza, podrán comprobar la legal tenencia de las mismas con la carta de porte y los documentos que establezca mediante reglas la Secretaría.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Las empresas porteadoras legalmente autorizadas, cuando transporten las mercancías de procedencia extranjera fuera de la franja o región fronteriza, podrán comprobar la legal tenencia de las mismas con la carta de porte y los documentos que establezca mediante reglas el Servicio de Administración Tributaria.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -3260,9 +3584,13 @@ Las empresas porteadoras legalmente autorizadas, cuando transporten las mercanc�
 
 Las mercancías nacionales que sean transportadas dentro de la franja o región fronteriza del país, deberán ampararse en la forma siguiente:
 
-I. Las de exportación prohibida o restringida que sean conducidas hacia los litorales o fronteras, con los pedidos, facturas, contratos y otros documentos comerciales que acrediten que serán destinadas a dichas zonas, o con los permisos de exportación correspondientes.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. Las confundibles con las extranjeras que sean transportadas hacia el interior del país, con las marcas registradas en México que ostenten o con las facturas o notas de remisión expedidas por empresarios inscritos en el Registro Federal de Contribuyentes, si reúnen los requisitos señalados por las disposiciones fiscales.
+I. Las de exportación prohibida o restringida que sean conducidas hacia los litorales o fronteras, con los pedidos, comprobante fiscal digital, contratos y otros documentos comerciales que acrediten que serán destinadas a dichas zonas, o con los permisos de exportación correspondientes.
+
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+II. Las confundibles con las extranjeras que sean transportadas hacia el interior del país, con las marcas registradas en México que ostenten o con el comprobante fiscal digital correspondiente.
 
 El origen de los artículos agropecuarios producidos en las zonas a que se refiere este precepto podrá acreditarse con las constancias del comisariado ejidal, del representante de los colonos o comuneros, de la asociación agrícola o ganadera a que pertenezca el pequeño propietario o de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en cualquiera de los casos anteriores, cuando las autoridades aduaneras lo requieran, sin que la documentación tenga que acompañar a las mercancías.
 
@@ -3320,9 +3648,9 @@ IV. La toma de muestras de las mercancías, en su caso, y otros elementos probat
 
 Deberá requerirse al interesado para que designe dos testigos y señale domicilio para oír y recibir notificaciones dentro de la circunscripción territorial de la autoridad competente para tramitar y resolver el procedimiento correspondiente, salvo que se trate de pasajeros, en cuyo caso, podrán señalar un domicilio fuera de dicha circunscripción.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Se apercibirá al interesado de que si los testigos no son designados o los designados no aceptan fungir como tales, quien practique la diligencia los designará; que de no señalar el domicilio, de señalar uno que no le corresponda a él o a su representante, de desocupar el domicilio señalado sin aviso a la autoridad competente o señalando un nuevo domicilio que no le corresponda a él o a su representante, de desaparecer después de iniciadas las facultades de comprobación o de oponerse a las diligencias de notificación de los actos relacionados con el procedimiento, negándose a firmar las actas que al efecto se levanten, las notificaciones que fueren personales se efectuarán por estrados, siempre que, en este último caso y tratándose del reconocimiento aduanero, o de la verificación de mercancías en transporte, se cuente con visto bueno del administrador de la aduana.
+Se apercibirá al interesado de que si los testigos no son designados o los designados no aceptan fungir como tales, quien practique la diligencia los designará; que de no señalar el domicilio, de señalar uno que no le corresponda a él o a su representante, de desocupar el domicilio señalado sin aviso a la autoridad competente o señalando un nuevo domicilio que no le corresponda a él o a su representante, de desaparecer después de iniciadas las facultades de comprobación o de oponerse a las diligencias de notificación de los actos relacionados con el procedimiento, negándose a firmar las actas que al efecto se levanten, las notificaciones que fueren personales se efectuarán por estrados, siempre que, en este último caso y tratándose del reconocimiento aduanero, se cuente con visto bueno del administrador de la aduana.
 
 Dicha acta deberá señalar que el interesado cuenta con un plazo de diez días hábiles, contados a partir del día siguiente a aquel en que surta efectos la notificación, a fin de ofrecer las pruebas y formular los alegatos que a su derecho convenga.
 
@@ -3338,9 +3666,9 @@ Las autoridades aduaneras procederán al embargo precautorio de las mercancías 
 
 I. Cuando las mercancías se introduzcan a territorio nacional por lugar no autorizado o cuando las mercancías extranjeras en tránsito internacional se desvíen de las rutas fiscales o sean transportadas en medios distintos a los autorizados tratándose de tránsito interno.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. Cuando se trate de mercancías de importación o exportación prohibida o sujeta a las regulaciones y restricciones no arancelarias a que se refiere la fracción II, del artículo 176 de esta Ley y no se acredite su cumplimiento o sin acreditar el cumplimiento de las normas oficiales mexicanas o, en su caso, se omita el pago de cuotas compensatorias. Tratándose de las normas oficiales mexicanas de información comercial, sólo procederá el embargo cuando el incumplimiento se detecte en el ejercicio de visitas domiciliarias o verificación de mercancías en transporte.
+II. Cuando se trate de mercancías de importación o exportación prohibida o sujeta a las regulaciones y restricciones no arancelarias a que se refiere la fracción II, del artículo 176 de esta Ley y no se acredite su cumplimiento o, en su caso, se omita el pago de cuotas compensatorias. Tratándose de las normas oficiales mexicanas de información comercial, sólo procederá el embargo cuando el incumplimiento se detecte en el ejercicio de visitas domiciliarias o verificación de mercancías en transporte.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3352,13 +3680,13 @@ IV. Cuando con motivo del reconocimiento aduanero, o de la verificación de merc
 
 V. Cuando se introduzcan dentro del recinto fiscal vehículos de carga que transporten mercancías de importación sin el pedimento que corresponda para realizar el despacho de las mismas.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VI. Cuando el nombre, denominación o razón social o domicilio del proveedor en el extranjero o domicilio fiscal del importador, señalado en el pedimento, o bien, en la transmisión electrónica o en el aviso consolidado a que se refiere el artículo 37-A, fracción I de esta Ley, considerando, en su caso, el acuse correspondiente declarado, sean falsos o inexistentes o cuando en el domicilio señalado, no se pueda localizar al proveedor en el extranjero.
+VI. Cuando el nombre, denominación o razón social o domicilio del proveedor en el extranjero o domicilio fiscal del importador, señalado en el pedimento, o bien, en la transmisión electrónica o en el aviso consolidado a que se refieren los artículos 36-A, 37-A, fracción I y 59-A de esta Ley, considerando, en su caso, el acuse correspondiente declarado, sean falsos o inexistentes o cuando en el domicilio señalado, no se pueda localizar al proveedor en el extranjero.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VII. Cuando el valor declarado en el pedimento sea inferior en un 50% o más al valor de transacción de mercancías idénticas o similares determinado conforme a los artículos 72 y 73 de esta Ley, salvo que se haya otorgado la garantía a que se refiere el artículo 86-A fracción I de esta Ley.
+VII. Cuando el valor declarado en el pedimento sea inferior en un 50% o más al valor de transacción de mercancías idénticas o similares determinado conforme a los artículos 72 y 73 de esta Ley, salvo que se haya otorgado la garantía a que se refiere el artículo 86-A de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3371,8 +3699,6 @@ En los casos a que se refieren las fracciones I, II, III, IV, VI y VII el medio 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 Por lo que se refiere a las fracciones III y IV, el resto del embarque quedará como garantía del interés fiscal, salvo que se trate de maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Economía, en este caso, sólo se procederá al embargo de la totalidad del excedente, permitiéndose inmediatamente la salida del medio de transporte y del resto de la mercancía correctamente declarada.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3412,9 +3738,13 @@ Se entiende que el expediente se encuentra debidamente integrado cuando hayan ve
 
 En los demás casos la determinación del crédito fiscal se hará por la autoridad aduanera.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-En el escrito o acta de inicio del procedimiento se deberá requerir al interesado para que señale domicilio para oír y recibir notificaciones, apercibido que de no señalar el domicilio, de señalar uno que no le corresponda a él o a su representante, de desocupar el domicilio señalado sin aviso a la autoridad competente o señalando un nuevo domicilio que no le corresponda a él o a su representante, de desaparecer después de iniciadas las facultades de comprobación o de oponerse a las diligencias de notificación de los actos relacionados con el procedimiento, negándose a firmar las actas que al efecto se levanten, las notificaciones que fueren personales se efectuarán por estrados, siempre que, en este último caso y tratándose del reconocimiento aduanero, o de la verificación de mercancías en transporte, se cuente con visto bueno del administrador de la aduana. Cuando proceda la imposición de sanciones, sin la determinación de contribuciones o cuotas compensatorias omitidas ni el embargo precautorio de mercancías, la autoridad aduanera determinará el crédito fiscal, sin necesidad de sustanciar el procedimiento establecido en este artículo y en el artículo 150 de la Ley, quedando a salvo los derechos del contribuyente mediante el recurso de revocación establecido en el Código Fiscal de la Federación.
+En el escrito o acta de inicio del procedimiento se deberá requerir al interesado para que señale domicilio para oír y recibir notificaciones, apercibido que de no señalar el domicilio, de señalar uno que no le corresponda a él o a su representante, de desocupar el domicilio señalado sin aviso a la autoridad competente o señalando un nuevo domicilio que no le corresponda a él o a su representante, de desaparecer después de iniciadas las facultades de comprobación o de oponerse a las diligencias de notificación de los actos relacionados con el procedimiento, negándose a firmar las actas que al efecto se levanten, las notificaciones que fueren personales se efectuarán por estrados, siempre que, en este último caso y tratándose del reconocimiento aduanero, se cuente con visto bueno del administrador de la aduana.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Cuando proceda la imposición de sanciones sin la determinación de contribuciones o cuotas compensatorias omitidas ni el embargo precautorio de mercancías, la autoridad aduanera determinará el crédito fiscal sin necesidad de sustanciar el procedimiento establecido en este artículo y en el artículo 150 de esta Ley, quedando a salvo sus derechos para interponer los medios de defensa. Al efecto, la autoridad aduanera emitirá y notificará el acto administrativo en el que se funde y motive la sanción aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3429,6 +3759,16 @@ Cuando el interesado presente pruebas documentales que acrediten la legal estanc
 > <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2006)</small>
 
 Tratándose de mercancías excedentes o no declaradas embargadas a maquiladoras y empresas con programas de exportación autorizados por la Secretaría de Economía, cuando dentro de los diez días siguientes a la notificación del acta a que se refiere este artículo, el interesado presente escrito en el que manifieste su consentimiento con el contenido del acta, la autoridad aduanera que hubiera iniciado el procedimiento podrá emitir una resolución provisional en la que determine las contribuciones y cuotas compensatorias omitidas y las sanciones que procedan. Cuando el interesado en un plazo de cinco días a partir de que surta efectos la notificación de la resolución provisional acredite el pago de las contribuciones, accesorios y multas correspondientes y, en su caso, el cumplimiento de las regulaciones y restricciones no arancelarias, la autoridad aduanera ordenará la devolución de las mercancías.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Para efectos de la fracción IV del artículo 151 de la Ley Aduanera, cuando con motivo del reconocimiento aduanero, o de la verificación de mercancía en transporte, se detecte mercancía no declarada o excedente en más de un 10% del valor total declarado en la documentación aduanera que ampare las mercancías, siempre que no se actualice alguno de los otros supuestos de embargo precautorio a que se refiere el artículo 151 de la Ley, cuando dentro de los diez días siguientes a la notificación del acta a que se refiere el artículo 150 de la Ley, el interesado presente escrito en el que manifieste su consentimiento con el contenido del acta, la autoridad aduanera que hubiera iniciado el procedimiento podrá emitir una resolución provisional en la que determine las contribuciones y cuotas compensatorias omitidas y las sanciones que procedan. Cuando el interesado en un plazo de cinco días a partir de que surta efectos la notificación de la resolución provisional acredite el pago de las contribuciones, accesorios y multas correspondientes, la autoridad aduanera ordenará la devolución de las mercancías.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 153-A.
+
+Cuando en el reconocimiento aduanero o verificación de mercancías en transporte sea necesario levantar acta circunstanciada en la que se hagan constar las irregularidades detectadas, en términos de los artículos 150 a 153 de esta Ley, las autoridades aduaneras podrán levantar las actas parciales y final, cuando el acto de comprobación se concluya con posterioridad al día de su inicio, sujetándose en lo aplicable a lo dispuesto en el Código Fiscal de la Federación, sin que al respecto los actos de comprobación se puedan extender por un plazo de cinco días, contado a partir de su inicio, salvo causas debidamente justificadas. De no cumplirse con los plazos señalados las actuaciones de la autoridad aduanera quedarán sin efectos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3452,23 +3792,35 @@ En los casos de visita domiciliaria, no serán aplicables las disposiciones de l
 
 Se entregarán a las autoridades correspondientes las mercancías cuya importación esté prohibida o que sean objeto de ilícitos contemplados por otras leyes distintas de las fiscales.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 157.
 
-Tratándose de mercancías perecederas, de fácil descomposición o deterioro, de animales vivos, que sean objeto de embargo precautorio y que dentro de los diez días siguientes a su embargo, no se hubiere comprobado su legal estancia o tenencia en el país, el Servicio de Administración Tributaria podrá proceder a su destrucción, donación o asignación. En lo que refiere a vehículos automotores, aeronaves y embarcaciones serán transferidos para su venta al Servicio de Administración y Enajenación de Bienes dentro de los cuarenta y cinco días siguientes a su embargo siempre que no se hubiere comprobado su legal estancia o tenencia en el país.
+Tratándose de mercancías perecederas, de fácil descomposición o deterioro, de animales vivos, explosivas, inflamables, corrosivas, contaminantes, radiactivas o radioactivas, que sean objeto de embargo precautorio y que, dentro de los diez días siguientes a su embargo, no se hubiere comprobado su legal estancia o tenencia en el país, el Servicio de Administración Tributaria podrá proceder a su destrucción, donación o asignación. Tratándose de vehículos automotores, aeronaves y embarcaciones serán transferidos para su venta al Servicio de Administración y Enajenación de Bienes, una vez emitida la resolución que ponga fin al procedimiento administrativo de que se trate, siempre que no se hubiere comprobado su legal estancia o tenencia en el país.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 Respecto de las mercancías embargadas conforme al artículo 151, fracciones VI y VII de esta Ley, si dentro de los diez días siguientes a su embargo, no se hubieran desvirtuado los supuestos que hayan dado lugar al embargo precautorio o no se hubiera acreditado que el valor declarado fue determinado de conformidad con el Título Tercero, Capítulo III, Sección Primera de esta Ley, según sea el caso, se procederá a su destrucción, donación, asignación o transferencia para venta.
 
-Cuando una resolución definitiva ordene la devolución de las mercancías y la autoridad aduanera haya comunicado al particular que existe imposibilidad para devolver las mismas, el particular podrá optar por solicitar la entrega de un bien sustituto con valor similar, salvo que se trate de mercancías perecederas, de fácil descomposición, de animales vivos, de vehículos automotores, aeronaves y embarcaciones o de las mercancías a que se refiere el artículo 151, fracciones VI y VII de esta Ley, o el valor del bien, actualizado conforme lo establece el párrafo siguiente.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-En el caso de que el Servicio de Administración Tributaria haya procedido a la destrucción, donación, asignación o transferencia para venta de la mercancía, la resolución definitiva que ordene la devolución de la misma, considerará el valor determinado en la clasificación arancelaria, cotización y avalúo practicado por la autoridad aduanera competente con motivo del procedimiento administrativo en materia aduanera, actualizándolo en los términos establecidos en el artículo 17-A del Código Fiscal de la Federación hasta que se dicte la resolución que autoriza el pago.
+Cuando una resolución definitiva ordene la devolución de las mercancías y la autoridad aduanera haya comunicado al particular que existe imposibilidad para devolver las mismas, el particular podrá optar por solicitar la entrega de un bien sustituto con valor similar, o el valor del bien, actualizado conforme lo establece el párrafo siguiente. No procederá la entrega de un bien sustituto tratándose de mercancías perecederas, de fácil descomposición o deterioro, explosivas, inflamables, corrosivas, contaminantes, radiactivas o radioactivas, de animales vivos, o de las mercancías embargadas en términos del artículo 151, fracciones VI y VII de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+En el caso de que el Servicio de Administración Tributaria o el Servicio de Administración y Enajenación de Bienes hayan procedido a la destrucción, donación o asignación de mercancías, la resolución definitiva que ordene la devolución de las mismas, considerará el valor determinado en el dictamen de clasificación arancelaria y de valor en aduana, practicado por la autoridad aduanera competente con motivo del procedimiento administrativo en materia aduanera, actualizándolo en los términos establecidos en el artículo 17-A del Código Fiscal de la Federación. Tratándose de mercancías enajenadas por el Servicio de Administración y Enajenación de Bienes, el valor será aquél que se obtenga por la venta, de conformidad con lo establecido en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público. El cálculo para la determinación del pago, deberá efectuarse hasta que se dicte la resolución correspondiente.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 El particular que obtenga una resolución administrativa o judicial firme, que ordene la devolución o el pago del valor de la mercancía o, en su caso, que declare la nulidad de la resolución que determinó que la mercancía pasó a propiedad del Fisco Federal, y acredite mediante documento idóneo tener un derecho subjetivo legítimamente reconocido sobre los bienes, podrá solicitar al Servicio de Administración Tributaria la devolución de la mercancía, o en su caso, el pago del valor de la mercancía, dentro del plazo de dos años, contados a partir de que la resolución o sentencia haya causado ejecutoria.
 
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+
 Cuando la persona que obtenga una resolución administrativa o judicial firme, de manera excepcional sea distinta a quien acredite tener el derecho subjetivo legítimamente reconocido sobre los bienes, ambos deberán solicitar el resarcimiento en forma conjunta, designando a una de ellas de común acuerdo como el titular del derecho.
 
-Tratándose de las mercancías a que se refiere el artículo 151, fracciones VI y VII de esta Ley, la resolución definitiva que ordene la devolución del valor de las mercancías, considerará el valor declarado en el pedimento, adicionado con el coeficiente de utilidad a que se refiere el artículo 58 del Código Fiscal de la Federación, que corresponda conforme al giro de actividades del interesado.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Tratándose de mercancías embargadas en términos del artículo 151, fracciones VI y VII de esta Ley, la resolución definitiva que ordene la devolución del valor de las mercancías, considerará el valor declarado en el pedimento, adicionado con el coeficiente de utilidad a que se refiere el artículo 58 del Código Fiscal de la Federación, que corresponda conforme al giro de actividades del interesado.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3490,11 +3842,15 @@ Asimismo, procederá la retención de los medios de transporte de las mercancía
 
 Las autoridades aduaneras en el acta de retención que para tal efecto se levante, harán constar la fundamentación y motivación que dan lugar a la retención de la mercancía o de los medios de transporte, debiendo señalarse al interesado que tiene un plazo de quince días, para que presente la garantía a que se refiere el artículo 36-A, fracción I, inciso e) de esta Ley, o de treinta días para que dé cumplimiento a las normas oficiales mexicanas de información comercial o se garanticen o paguen los daños causados al recinto fiscal por el medio de transporte, apercibiéndolo que de no hacerlo, la mercancía o el medio de transporte, según corresponda, pasarán a propiedad del Fisco Federal, sin que para ello se requiera notificación de resolución alguna. Los plazos señalados en este párrafo se computarán a partir del día siguiente a aquél en que surta efectos la notificación del acta de retención.
 
-## Título Séptimo. Agentes aduanales, apoderados aduanales y dictaminadores aduaneros
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+## Título Séptimo. Agentes aduanales, agencias aduanales y dictaminadores aduaneros
 
 ### Capítulo Unico
 
-#### Sección Primera. Agentes aduanales
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+#### Sección Primera. Agentes aduanales y agencias aduanales
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3548,17 +3904,15 @@ El agente aduanal deberá cubrir los siguientes requisitos para operar:
 
 I. Estar al corriente en el cumplimiento de sus obligaciones fiscales.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+II. (DEROGADA, D.O.F. 25 DE JUNIO DE 2018)
 
-II. Transmitir al sistema electrónico aduanero en la forma y periodicidad que el Servicio de Administración Tributaria determine en reglas, la información estadística de los pedimentos.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+III. Mantener la oficina principal de sus negocios dentro del territorio nacional, así como dar el aviso de apertura y cierre de sus sucursales en términos del Código Fiscal de la Federación.
 
-III. Residir en el territorio nacional, y mantener la oficina principal de sus negocios en el lugar de la aduana de adscripción para la atención de los asuntos propios de su actividad.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
-
-IV. Manifestar a las autoridades aduaneras el domicilio de su oficina para oír y recibir notificaciones en la circunscripción de las aduanas en las que ejerza la patente. Las que se realicen en ese lugar surtirán sus efectos en los términos legales; así mismo, dar aviso a las mismas del cambio de domicilio, aun en el caso de suspensión voluntaria de actividades.
+IV. Manifestar a las autoridades aduaneras el domicilio de su oficina para oír y recibir notificaciones en la circunscripción de las aduanas en las que ejerza la patente, así como la dirección de correo electrónico para recibir notificaciones, y la de sus mandatarios aduanales. Las notificaciones que se realicen en el domicilio y en el correo electrónico, manifestados conforme a la presente fracción, surtirán sus efectos en los términos legales. Asimismo, deberá dar aviso a las autoridades aduaneras del cambio de domicilio o de la dirección de correo electrónico, aun en el caso de suspensión voluntaria de actividades.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3570,9 +3924,9 @@ Las autoridades aduaneras podrán autorizar la suspensión voluntaria de activid
 
 VI. Dar a conocer a la aduana en que actúe, los nombres de los empleados o dependientes autorizados para auxiliarlo en los trámites de todos los actos del despacho, así como los nombres de los mandatarios que lo representen al promover y tramitar el despacho. El agente aduanal será ilimitadamente responsable por los actos de sus empleados o dependientes autorizados y de sus mandatarios.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-Para ser mandatario aduanal autorizado de agente aduanal se requiere contar con poder notarial y demostrar experiencia aduanera mayor a tres años, aprobar el examen y cumplir los demás requisitos que determine el Servicio de Administración Tributaria mediante reglas. Cada mandatario aduanal promoverá solamente el despacho en representación de un agente aduanal y ante una sola aduana, salvo uno de los mandatarios, que podrá actuar indistintamente en cualquiera de las aduanas autorizadas.
+Para ser mandatario aduanal autorizado de agente aduanal se requiere contar con poder notarial para actos de administración y demostrar experiencia aduanera mayor a tres años, aprobar los exámenes de conocimientos y psicotécnico, y cumplir los demás requisitos que determine el Servicio de Administración Tributaria mediante reglas. Cada mandatario aduanal promoverá solamente el despacho en representación de un agente aduanal y ante una sola aduana, salvo uno de los mandatarios, que podrá actuar indistintamente en cualquiera de las aduanas autorizadas.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3588,19 +3942,23 @@ Los actos que practiquen los mandatarios aduanales con motivo del despacho y rec
 
 VII. Realizar los actos que le correspondan conforme a esta Ley en el despacho de las mercancías, empleando el sistema electrónico y la firma electrónica avanzada que le asigne el Servicio de Administración Tributaria.
 
-VIII. Contar con el equipo necesario para promover el despacho electrónico, conforme a las reglas que emita la Secretaría y utilizarlo en las actividades propias de su función.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+VIII. Contar con el equipo necesario para promover el despacho electrónico, conforme a las reglas que emita el Servicio de Administración Tributaria y utilizarlo en las actividades propias de su función.
 
-IX. Ocuparse, en su aduana de adscripción, por lo menos, del 15% de las operaciones de importación y exportación con valor que no rebase al que, mediante reglas determine el Servicio de Administración Tributaria.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+
+IX. Ocuparse de aquellas operaciones de importación y exportación cuyo valor no rebase al que, mediante reglas determine el Servicio de Administración Tributaria, en cada una de las aduanas en las que opere.
 
 Cuando los agentes aduanales tengan autorización para despachar en aduanas distintas a la de su adscripción, la obligación a que se refiere esta fracción será aplicable para cada una de las aduanas en las que operen.
 
-La propia Secretaría podrá cambiar la obligación a que se refiere el primer párrafo de esta fracción, autorizando, a petición de los agentes aduanales de un determinado lugar, que el servicio se proporcione en forma rotatoria o permanente para el total de las operaciones a que se refiere esta fracción por uno o varios agentes.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+El Servicio de Administración Tributaria podrá cambiar la obligación a que se refiere el primer párrafo de esta fracción, autorizando, a petición de los agentes aduanales de un determinado lugar, que el servicio se proporcione en forma rotatoria o permanente para el total de las operaciones a que se refiere esta fracción por uno o varios agentes.
 
-En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $330.00 por cada operación.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $350.00 por cada operación.
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3610,15 +3968,17 @@ X. Utilizar los candados oficiales o electrónicos en los vehículos y contenedo
 
 XI. Cumplir con el requisito establecido en la fracción V del artículo 159 de esta Ley. Dicho requisito se extiende a los subadministradores de cualquiera de las aduanas en las que ejerza la patente. En el caso contrario, deberá cesar operaciones en la aduana en la que tenga parentesco con los citados servidores públicos mientras continúe en su cargo.
 
-La inobservancia a lo dispuesto en las fracciones I, V, IX y X de este artículo inhabilita al agente aduanal para operar hasta por un mes.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+La inobservancia a lo dispuesto en las fracciones V, IX y X de este artículo inhabilita al agente aduanal para operar hasta por un mes. La inhabilitación se inicia a partir de que se notifique la resolución que concluya el procedimiento.
 
-La inobservancia a lo dispuesto en las fracciones II, III, IV, VI, VII, VIII y XI de este artículo inhabilita al agente aduanal para operar, desde el inicio del procedimiento hasta en tanto no se cumpla con el requisito correspondiente.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+La inobservancia a lo dispuesto en las fracciones I, II, III, IV, VI, VII, VIII y XI de este artículo inhabilita al agente aduanal para operar, desde la notificación del inicio del procedimiento hasta en tanto no se cumpla con el requisito correspondiente.
 
-Una vez conocidos por las autoridades aduaneras los hechos u omisiones que las configuren, éstas los darán a conocer en forma circunstanciada al agente aduanal y le concederán un plazo de diez días hábiles, contados a partir del día siguiente en que surta efectos la notificación, para que exprese lo que a su derecho convenga y ofrezca pruebas. Las autoridades aduaneras deberán dictar la resolución que corresponda, en un plazo que no excederá de tres meses, contado a partir de la notificación del inicio del procedimiento. Transcurrido el plazo mencionado sin que la autoridad emita resolución, se entenderá caducado el procedimiento respectivo, sin perjuicio del ejercicio posterior de las facultades de las autoridades aduaneras.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Las autoridades aduaneras darán a conocer al agente aduanal en forma circunstanciada los hechos u omisiones que configuren la inobservancia a las fracciones señaladas en el presente artículo, y le concederán un plazo de diez días hábiles, contados a partir del día siguiente en que surta efectos la notificación, para que exprese lo que a su derecho convenga y ofrezca pruebas. Las autoridades aduaneras deberán dictar la resolución que corresponda, en un plazo que no excederá de tres meses, contado a partir de la notificación del inicio del procedimiento; la notificación de la resolución se realizará conforme a lo que establezca el Reglamento. Transcurrido el plazo mencionado sin que la autoridad emita resolución, se entenderá caducado el procedimiento respectivo, sin perjuicio del ejercicio posterior de las facultades de las autoridades aduaneras.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3650,15 +4010,15 @@ V. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 VI. Declarar, bajo protesta de decir verdad, el nombre y domicilio fiscal del destinatario o del remitente de las mercancías, la clave del Registro Federal de Contribuyentes de aquéllos y el propio, la naturaleza y características de las mercancías y los demás datos relativos a la operación de comercio exterior en que intervenga, en las formas oficiales y documentos en que se requieran o, en su caso, en el sistema mecanizado.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VII. Formar un archivo electrónico de cada uno de los pedimentos con la información transmitida y presentada en mensaje o documento electrónico o digital como parte de sus anexos conforme a los artículos 6o., 36 y 36-A de la presente Ley y demás disposiciones aplicables.
+VII. Formar un expediente electrónico de cada uno de los pedimentos o documentos aduaneros que correspondan, con la información transmitida y presentada en mensaje o documento electrónico o digital como parte de sus anexos, conforme a los artículos 6o., 36, 36-A, 37 y 37-A de la presente Ley y demás disposiciones jurídicas aplicables.
 
-Adicionalmente, deberá conservar el original de la manifestación de valor a que se refiere el artículo 59, fracción III de esta Ley, así como copia del documento presentado por el importador a la Administración General de Aduanas que compruebe el encargo que se le hubiere conferido para realizar el despacho aduanero de las mercancías y si éste fue otorgado de forma electrónica deberá conservar el acuse correspondiente.
+El expediente electrónico deberá contener el pedimento o documento aduanero en el formato en que se haya transmitido, así como sus anexos y acuses, debiendo conservarse como parte de la contabilidad, por los plazos establecidos en el Código Fiscal de la Federación.
 
-Con independencia de las demás obligaciones fiscales, el archivo electrónico deberá conservarse por los plazos establecidos en el Código Fiscal de la Federación.
+Adicionalmente, deberá conservar el original de la manifestación de valor a que se refiere el artículo 59, fracción III de esta Ley, así como copia del documento presentado por el importador al Servicio de Administración Tributaria que compruebe el encargo que se le hubiere conferido para realizar el despacho aduanero de las mercancías y si éste fue otorgado de forma electrónica deberá conservar el acuse correspondiente.
 
-Los archivos electrónicos que se generen en términos de esta fracción, deberán ser proporcionados a los clientes que les correspondan, sin cargo adicional, quienes tendrán la obligación de conservarlos en términos de lo establecido por el tercer párrafo del artículo 6o. de esta Ley.
+Los expedientes electrónicos que se generen en términos de esta fracción, deberán ser proporcionados a los clientes que les correspondan, sin cargo adicional, quienes tendrán la obligación de conservarlos en términos de lo establecido en el cuarto párrafo del artículo 6o. de esta Ley.
 
 VIII. Presentar la garantía por cuenta de los importadores de la posible diferencia de contribuciones y sus accesorios, en los términos previstos en esta Ley, a que pudiera dar lugar por declarar en el pedimento un valor inferior al precio estimado que establezca la Secretaría para mercancías que sean objeto de subvaluación.
 
@@ -3670,9 +4030,7 @@ X. Solicitar la autorización de las autoridades aduaneras para poder suspender 
 
 XI. Manifestar en el pedimento o en el aviso consolidado, el número de candado oficial utilizado en los vehículos o medios de transporte que contengan las mercancías cuyo despacho promuevan.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-XII. Presentar aviso al Servicio de Administración Tributaria, dentro de los quince días siguientes a aquél en que constituya una sociedad de las previstas en la fracción II del artículo 163 de esta Ley.
+XII. (DEROGADA, D.O.F. 25 DE JUNIO DE 2018)
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3688,7 +4046,7 @@ Son derechos del agente aduanal:
 
 I. Ejercer la patente.
 
-II. Constituir sociedades integradas por mexicanos para facilitar la prestación de sus servicios. La sociedad y sus socios, salvo los propios agentes aduanales, no adquirirán derecho alguno sobre la patente, ni disfrutarán de los que la ley confiere a estos últimos.
+II. (DEROGADA, D.O.F. 25 DE JUNIO DE 2018)
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3720,21 +4078,21 @@ I. Encontrarse sujeto a un procedimiento penal por haber participado en la comis
 
 II. Dejar de cumplir con el encargo que se le hubiere conferido, así como transferir o endosar documentos a su consignación, sin autorización escrita de su mandante, salvo en el caso de corresponsalías entre agentes aduanales.
 
-III. Intervenir en algún despacho aduanero sin autorización de quien legítimamente pueda otorgarlo.
+III. (DEROGADA, D.O.F. 25 DE JUNIO DE 2018)
 
 IV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 V. Asumir los cargos a que se refiere el artículo 159, fracción IV, salvo que haya obtenido con anterioridad la autorización de suspensión de actividades. En este caso, la suspensión será por el tiempo que subsista la causa que la motivó.
 
-VI. Declarar con inexactitud en el pedimento, siempre que resulte lesionado el interés fiscal y no sean aplicables las causales de cancelación establecidas en la fracción II del artículo 165 de esta Ley. No se suspenderá al agente aduanal por el primer error que cometa durante cada año de calendario, siempre que el error no exceda del monto y porcentaje señalado en el inciso a) de la citada fracción II del artículo 165.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+VI. Cuando en el despacho aduanero que promueva se omita el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, siempre que no sean aplicables las causales de cancelación establecidas en la fracción II del artículo 165 de esta Ley. No se suspenderá al agente aduanal por el primer error que cometa durante cada año de calendario, siempre que el error no exceda del monto y porcentaje señalado en el inciso a) de la fracción II del artículo 165 de esta Ley.
 
-No procederá la suspensión a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias, en su caso, se deba a la inexacta clasificación arancelaria por diferencia de criterios en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+No procederá la suspensión a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias, en su caso, se deba a la inexacta clasificación arancelaria derivada de alguna diferencia entre los criterios publicados, con motivo de la interpretación de la Ley de los Impuestos Generales de Importación y de Exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II, del artículo 165 de esta Ley, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $179,920.00.
+VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud algún dato, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $179,600.00.
 
 VIII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
@@ -3744,15 +4102,15 @@ En todo caso de suspensión, el afectado no podrá iniciar nuevas operaciones, s
 
 Será cancelada la patente de agente aduanal, independientemente de las sanciones que procedan por las infracciones cometidas, por las siguientes causas:
 
-I. Contravenir lo dispuesto en el artículo 163, fracción II.
+I. (DEROGADA, D.O.F. 25 DE JUNIO DE 2018)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. Declarar con inexactitud algún dato en el pedimento, sus anexos, o en el aviso consolidado, tratándose de operaciones con pedimento consolidado, siempre que se dé alguno de los siguientes supuestos:
+II. Cuando con motivo del reconocimiento aduanero, de la verificación de mercancías en transporte o por el ejercicio de las facultades de comprobación, se dé alguno de los siguientes supuestos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $257,030.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
+a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $256,600.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3760,27 +4118,37 @@ b) Efectuar los trámites del despacho aduanero sin el permiso de las autoridade
 
 c) Se trate de mercancía de importación o exportación prohibida.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-No procederá la cancelación a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias, en su caso, se deba a la inexacta clasificación arancelaria por diferencia de criterios en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+No procederá la cancelación a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias se deba a la inexacta clasificación arancelaria derivada de alguna diferencia entre los criterios publicados, con motivo de la interpretación de la Ley de los Impuestos Generales de Importación y de Exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-III. Señalar en el pedimento el nombre, domicilio fiscal o la clave del registro federal de contribuyentes de alguna persona que no hubiere solicitado la operación al agente aduanal, o cuando estos datos resulten falsos o inexistentes.
+III. Cuando el agente aduanal, al tramitar las operaciones de comercio exterior, declare cualquiera de los siguientes datos del importador o exportador y éstos resulten falsos o inexistentes:
+
+a) Nombre, denominación o razón social.
+
+b) Domicilio fiscal.
+
+c) Clave del registro federal de contribuyentes.
+
+De igual forma, será cancelada la patente si el agente aduanal efectúa el trámite de las operaciones de comercio exterior y declara cualquiera de los datos a que se refiere esta fracción de una persona de la cual no cuente con el encargo conferido en términos del artículo 59, fracción III de esta Ley.
 
 IV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 V. Ser condenado en sentencia definitiva por haber participado en la comisión de delitos fiscales o de otros delitos intencionales que ameriten pena corporal.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VI. Permitir el uso, por cualquier tercero, de cualesquiera de los derechos consignados en la patente o de la patente misma, y que con dicho uso obtenga un lucro o explotación de la patente.
+VI. Permitir el uso de cualesquiera de los derechos consignados en la patente o de la patente misma, por un tercero, salvo que se trate de la agencia aduanal a la que se encuentre adscrito.
 
-VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II de este artículo, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud algún dato, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
 
-a) La omisión exceda de $257,030.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+a) La omisión exceda de $256,600.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3788,11 +4156,13 @@ b) Efectuar los trámites del despacho sin el permiso o sin contar con la asigna
 
 c) Se trate de mercancías de importación o exportación prohibida.
 
-VIII. Carecer por tercera ocasión de bienes suficientes para cubrir créditos fiscales que hayan quedado firmes y que para su cobro se haya seguido el procedimiento administrativo de ejecución en los cinco años anteriores.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+VIII. Cuente con créditos fiscales firmes y la autoridad competente haya declarado, para su cobro, su insolvencia o no localización.
 
-IX. Transmitir bajo cualquier título, el uso o goce de la patente o de los derechos consignados en la misma.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+IX. Transmitir bajo cualquier título, el uso o goce de la patente o de los derechos consignados en la misma, salvo lo previsto para las agencias aduanales.
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -3801,6 +4171,10 @@ X. Efectuar los trámites del despacho aduanero, a un importador o exportador, q
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 XI. Declarar en el pedimento, sus anexos, o en el aviso consolidado tratándose de operaciones con pedimento consolidado, un valor en aduana que sea distinto al proporcionado por el importador o exportador.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XII. Encontrarse dentro de los supuestos de cancelación a que se refiere la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 
 A partir de la fecha en que se notifique a los clientes de asuntos inconclusos la cancelación de la patente, se interrumpirán por treinta días los plazos legales que estuvieren corriendo.
 
@@ -3822,13 +4196,19 @@ Para efectos de lo anterior, la autoridad competente deberá sujetarse al proced
 
 En caso de fallecimiento del agente aduanal, el mandatario a que se refiere el artículo 163, fracción IV de esta Ley que dé aviso a la autoridad aduanera dentro de los cinco días siguientes al del fallecimiento y acompañe copia del acta de defunción, podrá efectuar los trámites necesarios para concluir las operaciones amparadas con los pedimentos que hubieran sido validados y pagados antes de la fecha del fallecimiento, en un plazo no mayor a dos meses.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+El agente aduanal que se incorpore a una agencia aduanal en términos de lo dispuesto en el artículo 167- D de la presente Ley, podrá solicitar su retiro voluntario en cualquier momento, siempre y cuando no se encuentre sujeto a un procedimiento de inhabilitación, suspensión, cancelación o extinción de su patente.
+
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 167.
 
 En los casos de las fracciones I y V del artículo 164 de esta Ley, las autoridades aduaneras, una vez comprobados los hechos establecidos en dichas fracciones, ordenarán la suspensión provisional por el tiempo que subsista la causa que la motivó. Decretada la medida provisional antes mencionada, el agente aduanal podrá, en cualquier momento, desvirtuar la causal de suspensión o acreditar que la misma ya no subsiste, exhibiendo ante la autoridad que ordenó su suspensión las pruebas documentales que estime pertinentes y manifestando por escrito lo que a su derecho convenga; la autoridad resolverá en definitiva en un plazo no mayor de quince días posteriores a la presentación de las pruebas y escritos señalados.
 
-Cuando se trate de las causas de suspensión diversas de las señaladas en las fracciones I y V del artículo 164 de esta Ley, o de las relativas a la cancelación o extinción de la patente, la autoridad aduanera competente, contará con un plazo de dos años posteriores a la fecha de conocimiento de la realización de los hechos u omisiones que las configuren, para darlos a conocer en forma circunstanciada al agente aduanal y le concederá un plazo de diez días hábiles, contados a partir de la fecha en que surta efectos la notificación del acta de inicio del procedimiento de suspensión, cancelación o extinción de patente, para que exprese lo que a su derecho convenga y ofrezca pruebas. Por ningún motivo la autoridad podrá iniciar un procedimiento de los señalados en este párrafo, cuando los hechos que constituyan alguna de las causales de suspensión, cancelación o extinción del derecho a ejercer la patente, hayan ocurrido con más de cinco años de antigüedad, a menos que la conducta infractora del agente aduanal, por su naturaleza, no sea instantánea y se prolongue en el tiempo, caso en el cual los cinco años se computarán a partir de que dicha conducta haya cesado.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Cuando se trate de las causales de suspensión, de cancelación o de extinción de la patente, la autoridad aduanera competente para tramitar y resolver estos procedimientos, contará con un plazo de dos años posteriores a la fecha de conocimiento de la realización de los hechos u omisiones que las configuren, para darlos a conocer en forma circunstanciada al agente aduanal y le concederá un plazo de diez días hábiles, contados a partir de la fecha en que surta efectos la notificación del acuerdo de inicio del procedimiento de suspensión, cancelación o extinción de patente, para que exprese lo que a su derecho convenga y ofrezca pruebas. Por ningún motivo la autoridad aduanera podrá iniciar un procedimiento de los señalados en este párrafo, cuando los hechos que constituyan alguna de las causales de suspensión, cancelación o extinción del derecho a ejercer la patente, hayan ocurrido con más de cinco años de antigüedad, a menos que la conducta infractora del agente aduanal, por su naturaleza, no sea instantánea y se prolongue en el tiempo, caso en el cual los cinco años se computarán a partir de que dicha conducta haya cesado.
 
 Cuando se trate de causales de cancelación, las autoridades aduaneras ordenarán desde el inicio del procedimiento la suspensión provisional en tanto se dicte la resolución correspondiente.
 
@@ -3868,6 +4248,244 @@ En el caso del procedimiento de suspensión, transcurridos los tres meses sin re
 
 Tanto el acto de inicio como la resolución que ponga fin a los procedimientos de suspensión, cancelación o extinción de la patente aduanal, así como de inhabilitación de agente aduanal, se notificarán al interesado por conducto de la aduana de adscripción, la que procederá a darle cumplimiento, o por la autoridad competente.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-D.
+
+La agencia aduanal es la persona moral autorizada por el Servicio de Administración Tributaria para promover por cuenta ajena el despacho aduanero de mercancías, en los diferentes regímenes aduaneros previstos en esta Ley.
+
+Para obtener la autorización a que se refiere el párrafo anterior, la persona moral deberá cumplir con los siguientes requisitos:
+
+I. Estar constituida como sociedad civil, conforme a las leyes mexicanas y con cláusula de exclusión de extranjeros, debiendo acreditar que el valor de su activo fijo registrado en su contabilidad sea permanentemente superior a $500,000.00.
+
+II. Señalar en su acta constitutiva como objeto social la prestación de los servicios del despacho aduanero de mercancías en los diferentes regímenes aduaneros previstos en esta Ley.
+
+III. Estar conformada por ciudadanos mexicanos y, al menos, por un agente aduanal que no se encuentre sujeto a algún procedimiento de inhabilitación, suspensión, cancelación o extinción de la patente de que sea titular.
+
+IV. Incluir en sus estatutos sociales, mecanismos encaminados a establecer mejores prácticas corporativas que contribuyan a un eficiente funcionamiento de sus órganos de administración y vigilancia, debiendo cumplir, además de las obligaciones previstas en la ley de la materia, las siguientes funciones:
+
+a) Vigilar la operación de la sociedad para asegurar el debido cumplimiento de la normatividad que le es aplicable.
+
+b) Mantener los procesos que permitan contar con una debida transparencia en la administración mediante el manejo responsable de la información financiera y la comunicación entre los socios, así como implementar mecanismos para la identificación, administración y control de riesgos.
+
+c) La emisión de un Código de Ética que deban observar los integrantes de la sociedad.
+
+d) Contar con un procedimiento que contribuya a la continuidad de la sociedad y de los servicios especializados que ésta preste, ante el retiro voluntario o por incapacidad permanente, fallecimiento, renuncia o cualquier separación de funciones de los socios o integrantes de los órganos de dirección y administración de la sociedad.
+
+e) Asegurar que el modelo de gobierno de la sociedad, contribuya al adecuado y cabal cumplimiento de su objeto social.
+
+V. Contar con solvencia económica, capacidad técnica y administrativa para prestar los servicios del despacho aduanero de mercancías a que se refiere la presente Ley.
+
+VI. Encontrarse al corriente en el cumplimiento de sus obligaciones fiscales.
+
+VII. Contar con los medios de cómputo y transmisión de datos enlazados con el sistema electrónico aduanero del Servicio de Administración Tributaria, así como llevar un registro simultáneo de las operaciones de comercio exterior.
+
+VIII. Cumplir los demás requisitos y condiciones que el Servicio de Administración Tributaria establezca mediante reglas.
+
+Los socios de la persona moral deberán cumplir con los siguientes requisitos:
+
+I. Ser ciudadanos mexicanos.
+
+II. Contar con solvencia económica.
+
+III. Encontrarse al corriente en el cumplimiento de sus obligaciones fiscales.
+
+El administrador o la persona o personas que tengan conferida la dirección general, la gerencia o la administración de la persona moral, cualquiera que sea el nombre con el que se les designe, así como el apoderado legal de la misma, deberán cumplir con los requisitos establecidos en el párrafo anterior.
+
+La patente del agente aduanal que integre una agencia aduanal, quedará desactivada del sistema electrónico aduanero en términos del artículo 167-E de esta Ley, por lo que sólo podrá ser utilizada para realizar operaciones que deriven del encargo conferido a la agencia aduanal de que se trate, en tanto sea parte integrante de la misma.
+
+Los mandatarios aduanales, empleados o dependientes autorizados del agente aduanal que integre una agencia aduanal, a partir de la fecha en que la agencia aduanal obtenga la respectiva autorización e inicie sus operaciones o a partir de la incorporación formal del agente aduanal en una agencia aduanal ya constituida, no podrán actuar para realizar operaciones diversas a las que deriven del encargo conferido a la agencia aduanal. En este caso, dichos mandatarios, empleados o dependientes se considerarán mandatarios aduanales, empleados o dependientes según corresponda, de la agencia aduanal, siempre que formen parte de su planta de trabajadores subordinados en términos de la legislación laboral, cumplan con los requisitos que para tal efecto se establecen en la presente Ley y se confirme su carácter conforme al procedimiento que se establezca en las reglas que emita el Servicio de Administración Tributaria. Lo anterior no impide que se integren a la agencia aduanal otros mandatarios, empleados o dependientes conforme a los requisitos previstos en esta Ley y las reglas que se emitan al efecto.
+
+La autorización de la agencia aduanal no se podrá utilizar cuando la patente de los agentes aduanales que la integran, se encuentre inhabilitada o suspendida, cancelada o extinguida, excepto en los casos en que se integre con otros agentes aduanales que no se encuentren en este supuesto.
+
+En el supuesto previsto en el párrafo anterior, se permitirá a la agencia aduanal concluir las operaciones amparadas con los pedimentos que hubieran sido validados y pagados antes de la fecha de inhabilitación, suspensión, cancelación o extinción del o los agentes aduanales que integran la agencia aduanal.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-E.
+
+Para obtener la autorización de agencia aduanal, las sociedades civiles constituidas para tales efectos, integradas cuando menos por un agente aduanal deberán presentar solicitud al Servicio de Administración Tributaria, cumpliendo con los requisitos establecidos en el artículo anterior.
+
+El Servicio de Administración Tributaria resolverá la solicitud de autorización dentro de los tres meses siguientes a la fecha de su presentación.
+
+Emitida la autorización de la agencia aduanal, los agentes aduanales que la integran, aceptan tácitamente que la patente de la que son titulares se incorpora a la agencia aduanal, procediendo la desactivación de su patente del sistema electrónico aduanero a partir de la fecha en que la agencia aduanal obtenga la autorización o, en su caso, a partir de la autorización de la incorporación de un agente aduanal en una agencia aduanal ya constituida, sin perjuicio del ejercicio de las facultades de comprobación de las autoridades aduaneras respecto de la patente de dicho agente aduanal, o la imposición de las sanciones que correspondan para el caso de infracción a esta Ley, incluso la extinción, cancelación, suspensión o inhabilitación de la respectiva patente.
+
+Cuando la agencia aduanal que ya se encuentre operando requiera incorporar un agente aduanal, siempre que no se encuentre sujeto a algún procedimiento de inhabilitación, suspensión, cancelación o extinción de la patente de la que sea titular, solicitará al Servicio de Administración Tributaria la autorización correspondiente.
+
+El agente aduanal que se integre o constituya una agencia aduanal deberá someterse a los exámenes a los que podrá convocar anualmente de manera general el Servicio de Administración Tributaria conforme a lo previsto en el artículo 162, fracción XIV de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-F.
+
+Las agencias aduanales, para poder operar deberán cubrir los siguientes requisitos:
+
+I. Mantener la oficina principal de su negocio dentro del territorio nacional, así como dar los avisos de apertura y cierre de sus sucursales en términos del Código Fiscal de la Federación.
+
+II. Manifestar a las autoridades aduaneras el domicilio de su oficina para oír y recibir notificaciones en la circunscripción de las aduanas en las que ejerza la autorización de la agencia aduanal, así como la dirección de correo electrónico para recibir notificaciones y la de sus mandatarios aduanales. Las notificaciones que se realicen en el domicilio y en el correo electrónico, manifestados conforme a la presente fracción, surtirán sus efectos en los términos legales. Asimismo, deberá dar aviso a las autoridades aduaneras del cambio de domicilio o de la dirección de correo electrónico, aun en el caso de suspensión voluntaria de actividades.
+
+III. Dar a conocer a la aduana en que actúe, los nombres de los empleados o dependientes autorizados para auxiliarla en los trámites de todos los actos del despacho aduanero, así como los nombres de los mandatarios aduanales que la representen al promover y tramitar dicho despacho. La agencia aduanal será ilimitadamente responsable por los actos de sus empleados o dependientes autorizados y de sus mandatarios aduanales así como de los agentes aduanales que la integran.
+
+Se entenderá que la agencia aduanal es notificada cuando la notificación de los actos derivados del reconocimiento aduanero, así como de la inspección o verificación de las mercancías, durante su permanencia en el recinto fiscal por virtud de su despacho, se efectúe con cualquiera de sus socios, empleados o dependientes autorizados, mandatarios aduanales, así como agentes aduanales que la integran.
+
+IV. Realizar los actos que le correspondan conforme a esta Ley para el despacho aduanero de las mercancías, empleando el sistema electrónico aduanero y la firma electrónica avanzada o el sello digital que le asigne el Servicio de Administración Tributaria.
+
+V. Contar con el equipo necesario para promover el despacho electrónico, conforme a las reglas que emita el Servicio de Administración Tributaria y utilizarlo en las actividades propias de su objeto social.
+
+VI. Ocuparse de aquellas operaciones de importación y exportación cuyo valor no rebase al que mediante reglas determine el Servicio de Administración Tributaria, en cada una de las aduanas en las que opere.
+
+VII. Utilizar los candados oficiales o electrónicos en los vehículos y contenedores que transporten las mercancías cuyo despacho aduanero promueva, de conformidad con lo que establezca el Servicio de Administración Tributaria mediante reglas, así como evitar que los candados que adquiera de los importadores o fabricantes autorizados, se utilicen en contenedores o vehículos que transporten mercancías cuyo despacho no hubiere promovido.
+
+VIII. Cumplir el encargo que se le hubiera conferido, por lo que no podrá transferirlo ni endosar documentos que estén a su favor o a su nombre, sin la autorización expresa y por escrito de quien lo otorgó.
+
+IX. Dar aviso a las autoridades aduaneras en un plazo no mayor a diez días contados a partir de que ocurra el hecho, cuando alguno de los agentes aduanales que la integran tenga parentesco por consanguinidad en línea recta sin limitación de grado y colateral hasta el cuarto grado, o por afinidad, con el administrador o alguno de los subadministradores de cualquiera de las aduanas en las que opera. En este caso, el agente aduanal que tenga el parentesco referido, se abstendrá de intervenir en las operaciones que la agencia aduanal despache en las aduanas respectivas, desde que ocurra el hecho.
+
+X. Informar a las autoridades aduaneras en un plazo no mayor a diez días posteriores a que se realice formalmente el acto, la incorporación y desincorporación de socios de la agencia.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-G.
+
+La agencia aduanal será inhabilitada para operar, cuando:
+
+I. Se incumpla lo previsto en las fracciones VI, VII y VIII del artículo 167-F de esta Ley.
+
+II. Se incumpla con lo dispuesto en las fracciones I, II, III, IV, V, IX y X del artículo 167-F de esta Ley, en cuyo caso la inhabilitación aplicará desde el inicio del procedimiento hasta en tanto no se cumpla con el requisito correspondiente.
+
+III. Se omita el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en el despacho aduanero que promueva, siempre que no sea aplicable la causal de cancelación establecida en la fracción VI del artículo 167-J, en relación con la fracción II del artículo 165 de esta Ley.
+
+No procederá la inhabilitación a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias, en su caso, se deba a la inexacta clasificación arancelaria derivada de alguna diferencia entre los criterios publicados, con motivo de la interpretación de la Ley de los Impuestos Generales de Importación y de Exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+
+IV. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud algún dato, siempre que, con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $179,600.00.
+
+Para efectos de las fracciones I, III y IV del presente artículo, se inhabilitará a la agencia aduanal para operar desde el inicio del procedimiento, hasta por un mes.
+
+Para efectos de lo dispuesto en las fracciones III y IV del presente artículo, cuando la agencia aduanal se integre con diversos agentes aduanales, sólo procederá la inhabilitación de la patente del agente aduanal que hubiere intervenido en el despacho de la operación aduanera de la que deriva la causal, debiendo señalarse esta circunstancia en el inicio y resolución del procedimiento de inhabilitación, por lo que durante el tiempo que dure la misma, el agente aduanal se encontrará impedido para intervenir en las operaciones encargadas a la agencia aduanal, desde el inicio del procedimiento, hasta por un mes.
+
+Una vez conocidos por las autoridades aduaneras los hechos u omisiones que las configuren, éstas los darán a conocer en forma circunstanciada a la agencia aduanal y le concederán un plazo de diez días hábiles, contados a partir del día siguiente en que surta efectos la notificación, para que exprese lo que a su derecho convenga y ofrezca pruebas. Las autoridades aduaneras deberán dictar la resolución que corresponda, en un plazo que no excederá de tres meses, contado a partir de la notificación del inicio del procedimiento. Transcurrido el plazo mencionado sin que la autoridad emita resolución, se entenderá caducado el procedimiento respectivo, sin perjuicio del ejercicio posterior de las facultades de las autoridades aduaneras.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-H.
+
+Son obligaciones de la agencia aduanal:
+
+I. Actuar siempre con ese carácter en los trámites o gestiones aduanales y no transmitir bajo cualquier título, el uso o goce de la autorización o de los derechos consignados en la misma, ni permitir el uso de cualesquiera de los derechos consignados en dicha autorización o de la autorización misma, por un tercero para la obtención de un lucro.
+
+II. Manifestar en el pedimento o documento aduanero que corresponda el número de autorización de la agencia aduanal, así como el número de la patente del agente aduanal que intervenga en la operación aduanera de que se trate.
+
+III. Formar un expediente electrónico de cada uno de los pedimentos o documentos aduaneros que correspondan con la información transmitida y presentada en mensaje o documento electrónico o digital como parte de sus anexos conforme a los artículos 6o., 36, 36-A, 37 y 37-A de la presente Ley y demás disposiciones jurídicas aplicables.
+
+El expediente electrónico deberá contener el pedimento o documento aduanero en el formato en que se haya transmitido, así como sus anexos y acuses, debiendo conservarse como parte de la contabilidad, por los plazos establecidos en el Código Fiscal de la Federación.
+
+Los expedientes electrónicos que se generen en términos de esta fracción, deberán ser proporcionados a los clientes que les correspondan, sin cargo adicional, quienes tendrán la obligación de conservarlos en términos de lo establecido por el cuarto párrafo del artículo 6o. de esta Ley.
+
+IV. Aceptar las visitas que ordenen y practiquen las autoridades aduaneras, para comprobar el cumplimiento de sus obligaciones.
+
+V. Cumplir con las disposiciones que regulan y gravan la entrada y la salida de mercancías del territorio nacional, en los mismos términos que se establece para los agentes aduanales en la presente Ley.
+
+VI. Contar y mantener en funcionamiento, los mecanismos y las prácticas corporativas para el eficiente desarrollo de las actividades de sus órganos de administración y vigilancia, dispuestos en el artículo 167-D, segundo párrafo, fracción IV de la presente Ley.
+
+VII. Cumplir con los demás requisitos que se establezcan en las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-I.
+
+La autorización a que se refiere el artículo 167-D de esta Ley permite a la agencia aduanal realizar lo siguiente:
+
+I. El despacho aduanero de mercancías en la aduana a la que esté adscrita y en las aduanas que tengan autorizadas el o los agentes aduanales que integran la agencia aduanal.
+
+II. El despacho de mercancías por conducto de los mandatarios aduanales de la agencia aduanal, incluidos los mandatarios aduanales de los agentes aduanales que integren la agencia, siempre que sus autorizaciones hayan sido confirmadas para actuar por cuenta de la agencia aduanal conforme lo señalado en el artículo 167-D de esta Ley.
+
+III. El despacho de mercancías con auxilio de los empleados o dependientes autorizados de la agencia aduanal.
+
+Lo anterior, incluye a los empleados o dependientes autorizados de los agentes aduanales que integran la agencia aduanal, en los términos que se hubieren expedido en las autorizaciones correspondientes y siempre que dichas autorizaciones hayan sido confirmadas conforme a lo señalado en el artículo 167-D de esta Ley y siempre que la patente del agente aduanal de la que dependan no se encuentre inhabilitada, suspendida, cancelada o extinguida.
+
+No obstante lo dispuesto en la fracción I del párrafo anterior, la agencia aduanal podrá solicitar autorización al Servicio de Administración Tributaria para actuar en aduanas adicionales a las que se encuentran adscritos o a las autorizadas al o los agentes aduanales que la integran, siempre que presente su solicitud anexando lo siguiente:
+
+I. Un plan de negocio de la agencia aduanal incluyendo una descripción pormenorizada de las causas y justificaciones que sustenten la solicitud, por cada una de las aduanas adicionales; en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas.
+
+II. Los documentos con los que se demuestre la capacidad técnica, administrativa y financiera necesaria para llevar a cabo el despacho en cada una de las aduanas adicionales que se soliciten.
+
+III. El programa de nuevas inversiones sobre la infraestructura física y tecnológica que la agencia aduanal deba implementar para la prestación de los servicios de despacho en cada una de las aduanas adicionales.
+
+IV. La relación del personal que será contratado para atender los servicios del despacho, incluso del número de empleados, sin perjuicio de que los mandatarios aduanales deban de cumplir con los requisitos y condiciones previstos en esta Ley para ser autorizados.
+
+V. El programa de capacitación del personal de la agencia aduanal.
+
+VI. Las demás que el Servicio de Administración Tributaria establezca mediante reglas.
+
+El Servicio de Administración Tributaria cancelará la autorización a la agencia aduanal para actuar en aduanas adicionales a las que se encuentra adscrita, o a las que tengan autorizadas el o los agentes aduanales que la integran conforme al procedimiento establecido en el artículo 144-A de esta Ley, cuando detecte que no se cumple con los planes, programas y demás requisitos a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-J.
+
+El Servicio de Administración Tributaria, independientemente de las sanciones que procedan por las infracciones cometidas, cancelará la autorización de la agencia aduanal por cualquiera de las siguientes causas:
+
+I. Deje de cumplir con alguno de los requisitos exigidos para obtener la autorización de la agencia aduanal.
+
+II. Incumpla alguna de las obligaciones inherentes al ejercicio de la autorización de la agencia aduanal, o bien, no se mantengan los medios de control correspondientes.
+
+III. Deje de ejercer la autorización de la agencia aduanal por más de seis meses, salvo en los casos en que dicha suspensión haya sido autorizada por la autoridad aduanera.
+
+IV. Se cancele o extinga la patente de agente aduanal que integra la agencia aduanal. En el caso de que la agencia aduanal se integre con diversos agentes aduanales, sólo procederá cuando las patentes de todos los agentes aduanales que la conforman, se encuentren canceladas o extinguidas.
+
+V. Se actualice alguno de los supuestos previstos en las fracciones II, III, VII, X y XI del artículo 165 de esta Ley en una operación de comercio exterior despachada por la agencia aduanal, siempre que el agente aduanal sea el único que integra la agencia aduanal.
+
+VI. Cuente con créditos fiscales firmes la agencia aduanal y la autoridad competente declare insolvencia para su cobro, o bien, la no localización de la agencia aduanal.
+
+VII. No esté al corriente en el cumplimiento de sus obligaciones fiscales.
+
+La autoridad aduanera deberá sujetarse, en lo conducente, al procedimiento de cancelación referido en los artículos 167, 167-A, 167-B y 167-C de esta Ley.
+
+Tratándose de las fracciones I y II, se cancelará la autorización si la irregularidad detectada no es solventada dentro de un plazo no mayor a treinta días, contado a partir del día siguiente a aquel en el que se haya iniciado el respectivo procedimiento.
+
+Tratándose de la fracción VII, se cancelará la autorización si la irregularidad detectada no es solventada dentro del plazo de sesenta días, contado a partir del día siguiente a aquel en el que se haya iniciado el respectivo procedimiento.
+
+Una vez cancelada la autorización de la agencia aduanal, no se podrá utilizar para el despacho aduanero de las mercancías.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-K.
+
+En caso de fallecimiento, retiro voluntario, retiro por incapacidad permanente del o los agentes aduanales que integran la agencia aduanal, o bien, cuando dejen de formar parte integrante de la misma, se permitirá a la agencia aduanal concluir las operaciones amparadas con los pedimentos que hubieran sido validados y pagados antes de la fecha del fallecimiento o retiro del agente aduanal, en un plazo no mayor a dos meses, a través del mandatario aduanal que al efecto se designe, excepto en los casos en que la misma se integre con otros agentes aduanales, supuesto en el que la agencia aduanal continuará su operación.
+
+En el caso de que un agente aduanal que se encuentre incorporado a una agencia aduanal fallezca, se retire voluntariamente o se retire por una incapacidad permanente, la agencia aduanal podrá designar, de entre sus mandatarios aduanales activos o socios directivos que cumplan con los requisitos previstos en el artículo 159 de esta Ley, a dos de ellos para que participen en el concurso para obtener la patente del agente aduanal que falleció o se retiró. La designación deberá darse a conocer a la autoridad aduanera a más tardar dos meses después del fallecimiento o retiro del agente aduanal.
+
+Una vez designados los aspirantes, solo tendrá derecho a que se le otorgue la patente de agente aduanal quien obtenga los mejores resultados en el proceso de evaluación, conforme a las reglas que al efecto emita el Servicio de Administración Tributaria.
+
+En caso de que alguno de los aspirantes designados no realice en tiempo las evaluaciones sin causa justificada, o bien, ninguno las apruebe en la primera ocasión, éstos podrán presentar por una segunda ocasión las evaluaciones en los términos que establezca el Servicio de Administración Tributaria mediante reglas.
+
+El plazo a que se refiere el primer párrafo de este artículo concluirá anticipadamente en la fecha que culmine el proceso de obtención de patente de agente aduanal o bien cuando se integre a la agencia algún otro agente aduanal.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-L.
+
+En ningún caso los socios, incluidos los agentes aduanales, que integran una agencia aduanal podrán ser integrantes de otra agencia aduanal de manera simultánea.
+
+Tampoco podrán ser integrantes de una agencia aduanal los agentes aduanales cuya patente se hubiere cancelado o extinguido, ni los socios o agentes aduanales integrantes de una agencia aduanal cuya autorización se hubiere cancelado por un periodo de cinco años posteriores a dicha cancelación o extinción.
+
+El agente aduanal cuya patente sea cancelada o extinguida podrá conservar el carácter de socio inversionista de la agencia aduanal de la que era integrante, para lo cual deberá desincorporar su patente cancelada o extinguida y acreditar dicha situación ante la autoridad aduanera en términos del artículo 167-M, incluso encontrándose impedido para intervenir en las operaciones de comercio exterior encargadas a la agencia aduanal en carácter de empleado, dependiente autorizado o mandatario de la misma.
+
+En caso de incumplimiento a lo dispuesto en este artículo, la autorización de la agencia se cancelará.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-M.
+
+En caso de cancelación o extinción de la patente de algún agente aduanal que integra la agencia aduanal, se entenderá desincorporado de la misma, con independencia de que la agencia aduanal efectúe el trámite que corresponda y proporcione los antecedentes respectivos a la autoridad aduanera.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 167-N.
+
+Los agentes aduanales que integran la agencia aduanal que se encuentre en algún supuesto de cancelación de la autorización prevista en los artículos 167-J, fracciones I, II, III, IV, VI y VII y 167-L, se entenderán desincorporados de la misma, pudiendo solicitar la reactivación de su patente aduanal.
+
+En los casos de inhabilitación o suspensión de la patente del agente aduanal, incorporado a una agencia aduanal, cuando por hechos o actos anteriores a su incorporación, se actualicen los supuestos establecidos en los artículos 160 y 164 de esta Ley y demás disposiciones jurídicas aplicables, la agencia aduanal no podrá iniciar nuevas operaciones por conducto del agente aduanal sancionado sino solamente concluir las que tenga iniciadas a la fecha de notificación del acuerdo de la resolución respectiva, sin perjuicio de llevar a cabo otras operaciones por conducto de los demás agentes aduanales que integran la agencia aduanal.
+
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 #### Sección Segunda. Apoderados aduanales
@@ -3898,9 +4516,11 @@ Tanto el acto de inicio como la resolución que ponga fin a los procedimientos d
 
 #### Sección Tercera. Dictaminadores Aduaneros
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 174.
 
-La Secretaría otorgará autorización de dictaminador aduanero a las personas que cumplan los siguientes requisitos:
+El Servicio de Administración Tributaria otorgará autorización de dictaminador aduanero a las personas que cumplan los siguientes requisitos:
 
 I. Ser ciudadano mexicano.
 
@@ -3910,13 +4530,25 @@ III. Gozar de buena reputación personal y ser de reconocida probidad y honradez
 
 IV. No ser servidor público ni militar en servicio activo, ni haber prestado sus servicios en la Administración General de Aduanas.
 
-V. No tener parentesco por consanguinidad en línea recta sin limitación de grado, y en colateral hasta el cuarto grado, ni por afinidad con el administrador de la aduana donde preste sus servicios.
+V. (DEROGADA, D.O.F. 25 DE JUNIO DE 2018)
 
-VI. Presentar y aprobar el examen psicotécnico que practiquen las autoridades aduaneras.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+VI. Presentar y aprobar los exámenes que practiquen las autoridades aduaneras, los cuales constan de:
+
+a) Examen de conocimientos técnicos;
+
+b) Psicológico, y
+
+c) Confiabilidad.
 
 (REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013).
 
 La autorización antes mencionada tendrá vigencia por dos años.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Dicha autorización podrá prorrogarse por dos años más, sin que se requiera acreditar los exámenes previstos en la fracción VI del presente artículo, siempre que sigan cumpliendo con los requisitos y las condiciones que para su otorgamiento están establecidas en esta Ley y demás disposiciones jurídicas aplicables.
 
 El incumplimiento de cualquiera de los requisitos señalados en las fracciones anteriores será causa de cancelación de la autorización para ejercer como dictaminador aduanero.
 
@@ -3970,9 +4602,9 @@ Comete las infracciones relacionadas con la importación o exportación, quien i
 
 I. Omitiendo el pago total o parcial de los impuestos al comercio exterior y, en su caso, de las cuotas compensatorias, que deban cubrirse.
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. Sin permiso de las autoridades competentes o sin la firma electrónica en el pedimento que demuestre el descargo total o parcial del permiso antes de realizar los trámites del despacho aduanero o sin cumplir cualesquiera otras regulaciones o restricciones no arancelarias emitidas conforme a la Ley de Comercio Exterior, por razones de seguridad nacional, salud pública, preservación de la flora o fauna, del medio ambiente, de sanidad fitopecuaria o los relativos a Normas Oficiales Mexicanas excepto tratándose de las Normas Oficiales Mexicanas de información comercial, compromisos internacionales, requerimientos de orden público o cualquiera otra regulación.
+II. Sin permiso de las autoridades competentes o sin la firma electrónica en el pedimento que demuestre el descargo total o parcial del permiso antes de realizar los trámites del despacho aduanero o sin cumplir cualesquiera otras regulaciones o restricciones no arancelarias emitidas conforme a la Ley de Comercio Exterior, excepto tratándose de las Normas Oficiales Mexicanas de información comercial, compromisos internacionales, requerimientos de orden público o cualquiera otra regulación.
 
 > <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -4002,9 +4634,9 @@ IX. Cuando se introduzcan o se extraigan mercancías del territorio nacional por
 
 X. Cuando no se acredite con la documentación aduanal correspondiente la legal estancia o tenencia de las mercancías en el país o que se sometieron a los trámites previstos en esta Ley, para su introducción al territorio nacional o para su salida del mismo. Se considera que se encuentran dentro de este supuesto, las mercancías que se presenten ante el mecanismo de selección automatizado sin pedimento, cuando éste sea exigible, o con un pedimento que no corresponda.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XI. Cuando el nombre, denominación o razón social o domicilio del proveedor en el extranjero o domicilio fiscal del importador, señalado en el pedimento, o bien, en la transmisión electrónica o en el aviso consolidado a que se refiere el artículo 37-A, fracción I de la presente Ley, considerando en su caso el acuse de referencia declarado, sean falsos o inexistentes; o cuando en el domicilio señalado no se pueda localizar al proveedor o importador.
+XI. Cuando el nombre, denominación o razón social o domicilio del proveedor en el extranjero o domicilio fiscal del importador, señalado en el pedimento, o bien, en la transmisión electrónica o en el aviso consolidado, a que se refieren los artículos 36-A, 37-A, fracción I y 59-A de la presente Ley, considerando, en su caso, el acuse de referencia declarado, sean falsos o inexistentes; o cuando en el domicilio señalado no se pueda localizar al proveedor o importador.
 
 ###### Artículo 177.
 
@@ -4036,6 +4668,10 @@ X. Las mercancías extranjeras destinadas al régimen de depósito fiscal no arr
 
 XI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XII. Con motivo del ejercicio de facultades de comprobación, se detecte que quien introduzca al país mercancías bajo un régimen aduanero que le permita la determinación de contribuciones sin su pago, declare en el pedimento o documento aduanero de que se trate, un valor que sea inferior en un 50% o más al valor de transacción de mercancías idénticas o similares, determinado conforme a los artículos 72 y 73 de esta Ley, siempre que con los datos aportados, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, se hubiere omitido el pago total o parcial de los impuestos al comercio exterior y, en su caso, de las cuotas compensatorias.
+
 ###### Artículo 178.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones establecidas por el artículo 176 de esta Ley:
@@ -4048,17 +4684,17 @@ I. Multa del 130% al 150% de los impuestos al comercio exterior omitidos, cuando
 
 Cuando la infracción a que se refiere esta fracción sea cometida por pasajeros, se impondrá una multa del 80% al 120% del valor comercial de las mercancías.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-II. Multa de $5,150.00 a $12,850.00 cuando no se haya obtenido el permiso de autoridad competente, tratándose de vehículos.
+II. Multa de $5,150.00 a $12,850.00 cuando no se compruebe el cumplimiento de las regulaciones y restricciones no arancelarias, tratándose de vehículos.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 III. Multa del 70% al 100% del valor comercial de las mercancías, cuando su importación o exportación esté prohibida o cuando las maquiladoras y empresas con programa autorizado por la Secretaría de Economía realicen las importaciones temporales a que se refiere la fracción III.
 
-> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-IV. Siempre que no se trate de vehículos, multa del 70% al 100% del valor comercial de las mercancías cuando no se compruebe el cumplimiento de las regulaciones y restricciones no arancelarias o cuotas compensatorias correspondientes, normas oficiales mexicanas, con excepción de las normas oficiales mexicanas de información comercial.
+IV. Siempre que no se trate de vehículos, multa del 70% al 100% del valor comercial de las mercancías cuando no se compruebe el cumplimiento de las regulaciones y restricciones no arancelarias o cuotas compensatorias correspondientes, con excepción de las normas oficiales mexicanas de información comercial.
 
 V. Multa del 100% al 150% del valor comercial de las mercancías declaradas, a la mencionada en la fracción VI del artículo 176 de esta Ley.
 
@@ -4081,6 +4717,10 @@ IX. Multa equivalente a la señalada en las fracciones I, II, III o IV de este a
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 X. Multa del 70% al 100% del valor en aduana de las mercancías en los casos a que se refiere la fracción XI del artículo 176 de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XI. En los casos a que se refiere la fracción XII del artículo 177 de esta Ley, multa del 130% al 150% de los impuestos al comercio exterior y, en su caso, de las cuotas compensatorias correspondientes que se hubieran omitido de haberse destinado la mercancía de que se trate al régimen de importación definitiva.
 
 ###### Artículo 179.
 
@@ -4142,13 +4782,13 @@ IV. Retiren las mercancías del recinto fiscalizado autorizado para operar el r�
 
 V. No presenten las mercancías en el plazo concedido para el arribo de las mismas a la aduana de despacho o de salida, tratándose del régimen de tránsito interno.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VI. Transmitan, presenten o proporcionen una impresión de los pedimentos de tránsito interno o internacional con el fin de dar por concluidos dichos tránsitos en la aduana de despacho o en la de salida, sin la presentación física de las mercancías en los recintos fiscales o fiscalizados.
+VI. Transmitan, presenten o proporcionen, un dispositivo tecnológico, un medio electrónico o una impresión de los pedimentos de tránsito interno o internacional con el fin de dar por concluidos dichos tránsitos en la aduana de despacho o en la de salida, sin la presentación física de las mercancías en los recintos fiscales o fiscalizados.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VII. Realicen la exportación, el retorno de mercancías o el desistimiento de régimen, en el caso de que se transmita, presente o proporcione una impresión del pedimento sin las mercancías correspondientes en la aduana de salida.
+VII. Realicen la exportación, el retorno de mercancías o el desistimiento de régimen, en el caso de que se transmita, presente o proporcione, un dispositivo tecnológico, medio electrónico o una impresión del pedimento sin las mercancías correspondientes en la aduana de salida.
 
 ###### Artículo 183.
 
@@ -4190,15 +4830,19 @@ Las mercancías pasarán a ser propiedad del Fisco Federal, sin perjuicio de las
 
 I. Cuando no sean retiradas de los almacenes generales de depósito, dentro del plazo establecido en el artículo 144-A de esta Ley.
 
-II. En el supuesto previsto en el artículo 151, fracción VI de esta Ley, así como cuando se señale en el pedimento el nombre, domicilio fiscal o la clave del registro federal de contribuyentes de alguna persona que no hubiera solicitado la operación de comercio exterior.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+II. Cuando el nombre, denominación o razón social, domicilio del proveedor en el extranjero o domicilio fiscal del importador, señalado en el pedimento, en la transmisión electrónica o en el aviso consolidado, a que se refieren los artículos 36-A, 37-A, fracción I y 59-A de esta Ley, considerando, en su caso, el acuse correspondiente declarado, sean falsos o inexistentes o cuando en el domicilio señalado, no se pueda localizar al proveedor en el extranjero o importador, así como cuando se señale en el pedimento el nombre o denominación o razón social, domicilio fiscal o la clave del registro federal de contribuyentes de alguna persona que no hubiera solicitado la operación de comercio exterior.
 
 III. En los casos previstos en el artículo 176, fracciones III, V, VI, VIII y X de esta Ley, salvo que en este último caso, se demuestre que el pago correspondiente se efectuó con anterioridad a la presentación de las mercancías, o cuando se trate de los excedentes o sobrantes detectados a maquiladoras de mercancía registrada en su programa, a que se refiere el artículo 153, último párrafo de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-IV. En el supuesto previsto en el artículo 178, fracción IV de esta Ley, excepto cuando el infractor cumpla con las regulaciones y restricciones no arancelarias, dentro de los treinta días siguientes a la notificación del acta de inicio del procedimiento administrativo en materia aduanera. Para los efectos de esta fracción los interesados, en términos de los artículos 36 y 36-A de esta Ley, deberán transmitir y presentar un pedimento de rectificación, anexando en documento electrónico o digital, la información que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias. La excepción no será aplicable tratándose de regulaciones y restricciones no arancelarias en materia de sanidad animal y vegetal, salud pública, medio ambiente o seguridad nacional.
+IV. En el supuesto previsto en el artículo 178, fracción IV de esta Ley, excepto cuando el infractor cumpla con las regulaciones y restricciones no arancelarias, dentro de los treinta días siguientes a la notificación del acta de inicio del procedimiento administrativo en materia aduanera. Para efectos de esta fracción los interesados, en términos de los artículos 36 y 36-A de esta Ley, deberán transmitir y presentar un pedimento de rectificación, anexando en documento electrónico o digital, la información que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias.
 
-V. Los vehículos, cuando no se haya obtenido el permiso de la autoridad competente.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+V. Los vehículos, cuando no se haya cumplido con las regulaciones y restricciones no arancelarias.
 
 VI. En los casos a que se refiere el artículo 182, fracciones I, incisos d) y e), III, excepto yates y veleros turísticos y IV de esta Ley.
 
@@ -4212,9 +4856,9 @@ Cuando existiere imposibilidad material para que las mercancías pasen a propied
 
 Cometen las infracciones relacionadas con las obligaciones de transmitir y presentar, información y documentación, así como declaraciones, quienes:
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-I. Omitan transmitir o presentar a las autoridades aduaneras en documento electrónico o digital, o lo hagan en forma extemporánea, la información que ampare las mercancías que introducen o extraen del territorio nacional sujetas a un régimen aduanero, que transporten o que almacenen, entre otros, los datos, pedimentos, avisos, anexos, declaraciones, acuses, autorizaciones, a que se refieren los artículos 36 y 36-A de esta Ley y demás disposiciones aplicables, en los casos en que la Ley imponga tales obligaciones.
+I. Omitan transmitir o presentar a las autoridades aduaneras en documento electrónico o digital, o en cualquier otro dispositivo tecnológico o medio electrónico que se establezca o lo hagan en forma extemporánea, la información que ampare las mercancías que introducen o extraen del territorio nacional sujetas a un régimen aduanero, que transporten o que almacenen, entre otros, los datos, pedimentos, avisos, anexos, declaraciones, acuses, autorizaciones, a que se refieren los artículos 36 y 36-A de esta Ley y demás disposiciones jurídicas aplicables, en los casos en que la Ley imponga tales obligaciones.
 
 II. Omitan presentar los documentos o informes requeridos por las autoridades aduaneras dentro del plazo señalado en el requerimiento o por esta Ley.
 
@@ -4232,9 +4876,17 @@ V. Presenten a las autoridades aduaneras la información estadística de los ped
 
 VI. Transmitan en el sistema electrónico aduanero o consignen en el código de barras impreso en el pedimento o en cualquier otro medio de control que autorice el Servicio de Administración Tributaria, información distinta a la declarada en dicho documento o cuando se presenten éstos al módulo de selección automatizado con el código de barras mal impreso. La falta de algún dato en la impresión del código de barras no se considerará como información distinta, siempre que la información transmitida al citado sistema sea igual a la consignada en el pedimento.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Tratándose de lo dispuesto en los artículos 36, 37-A y 39 de la Ley, consignen en el dispositivo tecnológico o medio electrónico, información distinta a la requerida, o a la declarada en el pedimento o en el aviso consolidado. La falta de algún dato en dicho dispositivo o medio, no se considerará como información distinta, siempre que la información transmitida al sistema electrónico aduanero sea igual a la consignada en el pedimento o aviso consolidado.
+
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
 VII. Omitan imprimir en el pedimento o en el aviso consolidado, tratándose de operaciones con pedimento consolidado el código de barras.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Tratándose de lo dispuesto en los artículos 36, 37-A y 39 de la Ley, presenten el dispositivo tecnológico o medio electrónico correspondiente, ante la autoridad aduanera sin o con los elementos técnicos en una situación que impida su lectura.
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -4250,9 +4902,9 @@ b) La relativa a las mercancías que por cada medio de transporte vayan a arriba
 
 X. Omitan dar el aviso a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XI. Presenten el pedimento en el módulo de selección automatizado sin la consignación de pago del módulo bancario o sin la firma electrónica avanzada de quien deba firmar el pedimento conforme a las disposiciones aduaneras.
+XI. Presenten el pedimento en el módulo de selección automatizado sin la consignación de pago del módulo bancario, sin la firma electrónica avanzada, sin el sello digital o sin el medio tecnológico de identificación respectivo, de quien deba firmar el pedimento conforme a las disposiciones aduaneras.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4274,9 +4926,7 @@ XV. Omitan manifestar a las empresas de transporte internacional de traslado y c
 
 XVI. Omitan declarar a las autoridades aduaneras, las cantidades en efectivo, en cheques nacionales o extranjeros, órdenes de pago o cualquier otro documento por cobrar o una combinación de ellos, que las personas que utilizan sus servicios les hayan manifestado en los términos del segundo párrafo del artículo 9o. de esta Ley.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-XVII. Omitan presentar el aviso a que se refiere la fracción XII del artículo 162 de esta Ley.
+XVII. (DEROGADA, D.O.F. 25 DE JUNIO DE 2018)
 
 XVIII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
@@ -4332,17 +4982,17 @@ IV. Multa de $4,150.00 a $6,210.00 a la señalada en la fracción V, por cada me
 
 V. Multa de $3,860.00 a $6,430.00 a la señalada en la fracción VI.
 
-(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA SU CANTIDAD], D.O.F. 22 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VI. Multa de $3,480.00 a $5,790.00, en el caso señalado en la fracción VII, por cada pedimento o por cada aviso consolidado.
+VI. Multa de $3,850.00 a $6,400.00, en el caso señalado en la fracción VII, por cada pedimento o por cada aviso consolidado o documento aduanero que corresponda.
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VII. Multa equivalente de 20% al 40% de la cantidad que exceda al equivalente en la moneda o monedas de que se trate a diez mil dólares de los Estados Unidos de América, a las infracciones establecidas en las fracciones VIII, XV y XVI.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-VIII. Multa de $74,200.00 a $111,310.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta.
+VIII. Multa de $74,100.00 a $111,200.00, en el caso de la transmisión electrónica señalada en la fracción IX, por la omisión de cada pasajero, tripulante o medio de transporte que arribe a territorio nacional, a que se refiere el inciso a) y por la omisión relativa a la mercancía por cada medio de transporte a que se refiere el inciso b). La multa se reducirá en un 50%, en el caso de que la transmisión electrónica sea extemporánea, incompleta o contenga información incorrecta. En los casos en que se incurra en más de una infracción asociada al arribo de un mismo medio de transporte, la autoridad establecerá hasta un máximo de seis multas por evento.
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
@@ -4410,11 +5060,15 @@ IX. Los capitanes o pilotos de embarcaciones y aeronaves que presten servicios i
 
 X. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-XI. Los agentes aduanales que incurran en el supuesto previsto en la fracción II del artículo 164 de esta Ley y quienes se ostenten como tales sin la patente respectiva.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XI. Los agentes aduanales o las agencias aduanales que incurran en el supuesto previsto en la fracción II del artículo 164 de esta Ley y quienes se ostenten como tales sin contar con la patente o la autorización respectiva.
 
 XII. El Servicio Postal Mexicano cuando no dé cumplimiento a las obligaciones que señala el artículo 21 de esta Ley, excepto la establecida en la fracción IV de ese mismo artículo.
 
-XIII. Las empresas que presten el servicio de transporte internacional de pasajeros, cuando omitan distribuir entre los mismos las formas oficiales que al efecto establezca la Secretaría, para la declaración de aduanas de los pasajeros.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+XIII. Las empresas que presten el servicio de transporte internacional de pasajeros, cuando omitan distribuir entre los mismos las formas oficiales que al efecto establezca el Servicio de Administración Tributaria, para la declaración de aduanas de los pasajeros.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -4424,9 +5078,9 @@ XV. Los establecimientos autorizados a que se refiere el artículo 121 de esta L
 
 XVI. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-XVII. Los agentes aduanales, cuando no coincida el número de candado oficial manifestado en el pedimento o en el aviso consolidado, con el número de candado físicamente colocado en el vehículo o en el medio de transporte que contenga las mercancías.
+XVII. Los agentes aduanales o las agencias aduanales, cuando no coincida el número de candado oficial manifestado en el pedimento o en el aviso consolidado, con el número de candado físicamente colocado en el vehículo o en el medio de transporte que contenga las mercancías.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4608,9 +5262,11 @@ A los infractores que aporten a los fondos a que se refiere el artículo 202 de 
 
 A quienes omitan enterar las contribuciones y aprovechamientos a que se refieren los artículos 15, fracción VII, 16-A, penúltimo párrafo, 16-B, último párrafo, 21, fracción IV y 120, penúltimo párrafo de esta Ley dentro de los plazos señalados en los mismos, se les aplicará una multa del 10% al 20% del monto del pago omitido, cuando la infracción sea detectada por la autoridad aduanera, sin perjuicio de las demás sanciones que resulten aplicables.
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 195.
 
-Tratándose de infracciones derivadas de la actuación del agente aduanal en el despacho, la multa será a cargo del agente aduanal, excepto en los casos establecidos en el segundo párrafo del artículo 54 de esta Ley.
+Tratándose de infracciones derivadas de la actuación del agente aduanal o de la agencia aduanal en el despacho aduanero, la multa será a cargo de los mismos, excepto en los casos establecidos en el segundo párrafo del artículo 54 de esta Ley.
 
 ###### Artículo 196.
 
@@ -4646,21 +5302,27 @@ Las sanciones establecidas en esta Ley se disminuirán en los siguientes supuest
 
 I. En un 66% cuando la omisión de los impuestos al comercio exterior se deba a inexacta clasificación arancelaria, se trate de la misma partida de las tarifas de las leyes de los impuestos general de importación y exportación y la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad. Esta disminución no será aplicable cuando exista criterio de clasificación arancelaria de la autoridad aduanera, en los términos del artículo 48 de esta Ley, o cuando las mercancías estén sujetas a regulaciones y restricciones no arancelarias.
 
-II. En un 20% en el caso de que la multa se pague dentro de los cuarenta y cinco días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+II. En un 20% en el caso de que la multa se pague dentro de los treinta días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
-III. En un 50% en el caso de que la multa derive de alguna operación relativa a la exportación de mercancías, con excepción de aquellas operaciones que tengan como origen la aplicación de alguno de los supuestos señalados en los artículos 85, 86, 106 y 108 de esta Ley.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III. En un 50% en el caso de que la multa derive de alguna operación relativa a la exportación de mercancías, con excepción de aquellas operaciones que tengan como origen la aplicación de alguno de los supuestos señalados en los artículos 86, 106 y 108 de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 IV. En un 50% cuando la multa se haya impuesto por la omisión en el pago de las contribuciones y aprovechamientos y siempre que el infractor los pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución o aprovechamiento que omitió.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-V. En un 50% en el caso de que la multa no derive de la omisión de contribuciones o cuotas compensatorias en los supuestos en que no proceda el embargo precautorio de las mercancías, siempre que el infractor la pague antes de la notificación de la resolución por la cual se le imponga la sanción.
+V. En un 50% en el caso de que la multa no derive de la omisión de contribuciones o cuotas compensatorias en los supuestos en que no proceda el embargo precautorio de las mercancías, siempre que el infractor la pague antes de la notificación de la resolución por la cual se le imponga la sanción, o bien tratándose del supuesto previsto en el último párrafo del artículo 152 de esta Ley, siempre que se pague dentro de los diez días siguientes a la notificación del acto administrativo en el que se determina el crédito fiscal.
 
 Lo dispuesto en este artículo no será aplicable cuando se den los supuestos del artículo 198 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+La disminución de las sanciones establecidas en este artículo no será acumulable.
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 22 DE DICIEMBRE DE 2017)
 
@@ -4672,11 +5334,11 @@ Cuando el monto de las multas que establece esta Ley esté relacionado con el de
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 202.
 
-Los agentes aduanales, los transportistas y demás personas relacionadas con el comercio exterior, podrán constituir fondos en cada aduana, cuyo fin sea el mantenimiento, reparación o ampliación de las instalaciones de las propias aduanas, en los términos que establezca el Servicio de Administración Tributaria mediante reglas. El patrimonio de dichos fondos se integrará con las aportaciones que efectúen las personas antes mencionadas, con el remanente del producto de la venta obtenido de conformidad con el artículo 32 de esta Ley, así como por las cantidades que aporten las personas que hubieran cometido daños en las instalaciones o equipos que se utilicen en la operación aduanera o con las cantidades que aporten las personas a las que se les impongan multas y que opten por aportar cantidades equivalentes a las multas impuestas en los términos de los artículos 181, 191 y 193 de esta Ley.
+Los agentes aduanales, las agencias aduanales, los transportistas y demás personas relacionadas con el comercio exterior, podrán constituir fondos en cada aduana, cuyo fin sea el mantenimiento, reparación o ampliación de las instalaciones de las propias aduanas, en los términos que establezca el Servicio de Administración Tributaria mediante reglas. El patrimonio de dichos fondos se integrará con las aportaciones que efectúen las personas antes mencionadas, así como por las cantidades que aporten las personas que hubieran cometido daños en las instalaciones o equipos que se utilicen en la operación aduanera o con las cantidades que aporten las personas a las que se les impongan multas y que opten por aportar cantidades equivalentes a las multas impuestas en los términos de los artículos 181, 191 y 193 de esta Ley.
 
 ## Título Noveno. Recursos administrativos
 
@@ -4993,3 +5655,25 @@ Para efectos de la emisión de las reglas relativas a los controles volumétrico
 Cuarto. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.
 
 Quinto. Para efectos de lo dispuesto en el artículo 22 de la Ley del Impuesto sobre la Renta vigente o de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ADUANERA”.]
+
+Primero. El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La autoridad aduanera continuará ejerciendo la atribución prevista en el artículo 144, fracción XXI que se reforma por virtud del presente Decreto para suspender, cancelar y revocar las autorizaciones de los apoderados aduanales, según corresponda, de conformidad con lo dispuesto en el artículo Quinto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013.
+
+Tercero. La fracción I del artículo 165 de la Ley Aduanera que se deroga en razón del presente Decreto seguirá siendo aplicable para aquellos agentes aduanales que hayan constituido sociedades en términos de la fracción II del artículo 163 de la Ley Aduanera vigente antes de la entrada en vigor del presente Decreto.
+
+Cuando el agente aduanal se incorpore a una agencia aduanal, las sociedades constituidas para facilitar la prestación de los servicios inherentes a su patente no podrán volver a utilizarse para prestar servicios aduaneros asociados a una patente de agente aduanal; por lo que se deberá modificar su objeto social, toda vez que la patente aduanal se desincorpora del sistema electrónico aduanero. El agente aduanal deberá presentar ante las autoridades aduaneras un escrito, bajo protesta de decir verdad, señalando y acreditando esta circunstancia, en un plazo no mayor de cuatro meses contados a partir de su incorporación formal a la agencia aduanal; en caso de no hacerlo, no podrá intervenir en las operaciones de comercio exterior que hubieran sido encargadas a la agencia aduanal, hasta que solvente dicha situación.
+
+Cuarto. El Servicio de Administración Tributaria, en un plazo que no excederá de doce meses posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación, dará a conocer las reglas de carácter general en las que se establecerán los mecanismos, formas y medios que deberán utilizar las agencias aduanales en la importación y exportación de mercancías y demás operaciones aduaneras.
+
+Quinto. Considerando que la patente de agente aduanal es intransferible de conformidad con el artículo 159, último párrafo de esta Ley, la agencia aduanal cuando designe dos personas conforme al artículo 167-K, en los casos de fallecimiento, retiro voluntario o retiro por incapacidad permanente de un agente aduanal incorporado a la misma, quedará sin efectos cualquier otra resolución emitida que permita la sustitución de la patente de dicho agente aduanal, o bien que contravenga lo dispuesto en los artículos antes mencionados.
+
+Sexto. Para los efectos del artículo 5o. de la Ley Aduanera, se considerará que las cantidades establecidas en los artículos 16, fracción II; 160, fracción IX; 164, fracción VII; 165, fracciones II, inciso a), y VII, inciso a); 178, fracción II y 185, fracciones VI y VIII de la misma Ley, se encuentran actualizadas por última vez en el mes de diciembre de 2017.
+
+Séptimo. Las referencias que las leyes, reglamentos, reglas y demás disposiciones jurídicas vigentes hagan al agente aduanal, se entenderán hechas, en lo conducente, también a la agencia aduanal.
+
+Octavo. Tratándose de petrolíferos, el Servicio de Administración Tributaria deberá coordinarse con la Comisión Reguladora de Energía, para la emisión de las reglas de carácter general a que se refiere el artículo 16-C de esta Ley.
