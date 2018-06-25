@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2018-04-26"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -1883,9 +1883,17 @@ I.- Que tienen medios bastantes para proveer a la subsistencia y educación del 
 
 II.- Que la adopción es benéfica para el adoptado;
 
-III.- Que son personas de buenas costumbres; y
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
 
-IV.- Que gozan de buena salud física y mental.
+III.- Que son personas de buenas costumbres;
+
+> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+IV.- Que gozan de buena salud física y mental; y
+
+> <small>(ADICIONADA, B.O. 25 DE JUNIO DE 2018)</small>
+
+V.- Que ninguno de los adoptantes se encuentre inscrito en el Registro de Deudores Alimentarios Morosos.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -1941,7 +1949,7 @@ Artículo. 282.- La persona que haya acogido al menor o incapacitado por un per�
 
 ###### Artículo 283.
 
-Si el tutor o el Ministerio Público o el Procurador de la Defensa del Menor y la Familia, se oponen a la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado, y escuchando siempre al Sistema Estatal para el desarrollo Integral de la Familia pudiendo suplir el consentimiento cuando la oposición resulte infundada.
+Si el tutor o el Ministerio Público o el Procurador de la Defensa del Menor y la Familia, se oponen a la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado, y escuchando siempre al Sistema Estatal para el Desarrollo Integral de la Familia pudiendo suplir el consentimiento cuando la oposición resulte infundada.
 
 ###### Artículo 284.
 
@@ -3481,7 +3489,9 @@ La sentencia que declare la presunción de muerte de un ausente casado, pone té
 
 ## TITULO PRIMERO. DE LOS ALIMENTOS
 
-### CAPITULO UNICO. DE LOS ALIMENTOS
+> <small>(REFORMADO EN SU NUMERACIÓN, B.O. 25 DE JUNIO DE 2018)</small>
+
+### CAPITULO PRIMERO. DE LOS ALIMENTOS
 
 ###### Artículo 512.
 
@@ -3529,7 +3539,7 @@ También deben alimentar a sus parientes, dentro del grado mencionado, que fuere
 
 El adoptante y el adoptado tienen el deber de darse alimentos, en los casos en que lo tienen el padre y los hijos biológicos, transmitiéndose esta obligación al adoptado y a la familia del adoptante, en los casos de adopción plena.
 
-> <small>(REFORMADO, B.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
 
 ###### Artículo 521.
 
@@ -3539,7 +3549,7 @@ I.- El Juez podrá imponer una pensión provisional al deudor alimentario en la 
 
 II.- Cuando se desconozca el sueldo del deudor alimentario, o éste no tenga un sueldo o salario fijo, el Juez podrá fijar una cantidad o importe determinado como pensión provisional, basándose en la información y pruebas que el acreedor le proporcione, o él mismo se allegue oficiosamente, sobre la situación económica del deudor, el monto y origen de sus ingresos, bienes y propiedades, así como las necesidades y nivel de vida que le haya proporcionado antes de la demanda, misma cantidad o importe que deberá pagarse en la periodicidad y forma que estime conveniente el Juzgador para asegurar su entrega oportuna.
 
-III.- Si se desconoce el sueldo, salario o ingreso del deudor alimentario, y el acreedor omite expresar claramente la situación económica de aquél, el monto y origen de sus ingresos, bienes y propiedades, así como las necesidades y nivel de vida que le haya proporcionado antes de la demanda, el Juez fijará de inmediato como pensión provisional de veinte Unidades de Medida y Actualización (UMA) mensuales si se trata de un solo acreedor alimentario, y se aumentará en quince Unidades de Medida y Actualización (UMA) por cada acreedor alimentario que exista, y dictará la periodicidad y forma que estime conveniente el Juzgador para asegurar su entrega oportuna.
+III.- Si se desconoce el sueldo, salario o ingreso del deudor alimentario, y el acreedor omite expresar claramente la situación económica de aquél, el monto y origen de sus ingresos, bienes y propiedades, así como las necesidades y nivel de vida que le haya proporcionado antes de la demanda, el Juez fijará de inmediato como pensión provisional de veinte Unidades de Medida y Actualización (UMA) mensuales si se trata de un solo acreedor alimentario, y se aumentará en diez Unidades de Medida y Actualización (UMA) por cada acreedor alimentario que exista, y dictará la periodicidad y forma que estime conveniente el Juzgador para asegurar su entrega oportuna.
 
 Para establecer en forma definitiva la pensión alimenticia se aplicarán en lo conducente las reglas establecidas en las fracciones I y II anteriores.
 
@@ -3550,6 +3560,12 @@ Lo dispuesto en este artículo será aplicable también para fijar la pensión d
 El porcentaje, cantidad o importe que se fije o conceda, sea provisional o en forma definitiva, podrá aumentarse o disminuirse de acuerdo al cambio de las circunstancias económicas u otros datos que se alleguen a la consideración del Juez para adecuarla a la realidad, pero siempre buscando lograr que sea asequible para el deudor y suficiente para el acreedor.
 
 En todo caso el Juzgador, o Tribunal en su caso, debe considerar que la separación entre el deudor y acreedor alimentarios, provocará que el ingreso económico no sea aprovechado en idénticas condiciones de cuando los mismos deudor y acreedor estaban incorporados juntos en una familia, por lo que la autoridad judicial será consciente de que en algunos casos disminuirá el nivel de vida que tenían cuando integraban familia, por lo que valorará tales circunstancias de cambio para asegurarse que la pensión de alimentos, tanto provisional como definitiva, sea asequible para el deudor y suficiente para el acreedor, de tal manera que uno y otro puedan solventar, aún en ausencia de lujos u opulencia, una calidad de vida esencialmente digna y con los elementos necesarios para su desarrollo personal, examinando cada juicio en particular.
+
+Aquella persona que incumpla con el pago de la pensión definitiva por un periodo de noventa días se constituirá en deudor alimentario moroso. El Juez ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando al Registro los datos de identificación del deudor alimentario que señala el artículo 534 BIS de este Código, los cuales le serán proporcionados al Juez por el acreedor alimentario.
+
+El deudor alimentario moroso que acredite ante el Juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
+
+El Registro Civil cancelara las inscripciones a que se refiere el segundo párrafo previa orden judicial.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -3629,19 +3645,77 @@ El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transa
 
 Cuando el deudor alimentario no estuviere presente o se rehusare entregar lo necesario para alimentar a los miembros de su familia con derecho a recibirlos, será responsable de las deudas que éstos contraigan para cubrir esas exigencias, pero sólo en la cuantía estrictamente necesaria.
 
+> <small>(REFORMADO, B.O. 25 DE JUNIO DE 2018)</small>
+
 ###### Artículo 534.
 
 El cónyuge que abandone al otro sigue obligado a cumplir con los gastos derivados de la asistencia familiar. En tal virtud, el que no haya dado lugar al abandono, podrá pedir al Juez de Primera Instancia de su domicilio que obligue al otro a ministrar alimentos por el tiempo que dure la separación, en la misma proporción en que lo venía haciendo hasta antes de ésta, y a cubrir las deudas contraídas en los términos del artículo anterior.
 
 Si dicha proporción no pudiera determinarse, el Juez, según las circunstancias del caso, fijará la suma, la periodicidad y las formas de pago que juzgue conveniente y dictará las medidas necesarias para asegurar su entrega, así como el pago de las cantidades que se hubiesen dejado de cubrir desde que se produjo la separación, siempre que no se prolonguen por más de dos años.
 
-### CAPITULO I. CONSTITUCIÓN Y ADMINISTRACIÓN DEL PATRIMONIO DE FAMILIA
+Toda persona a quien, por su cargo, empleo o comisión corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los deudores alimentarios de los daños y perjuicios que se causen al acreedor alimentista por sus omisiones o informes falsos.
+
+Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al deudor a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario deberá informar de inmediato al Juez y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 25 DE JUNIO DE 2018)</small>
+
+### CAPITULO SEGUNDO. DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS
+
+> <small>(ADICIONADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 534 Bis.
+
+En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 521 del presente Código. Dicho registro contendrá:
+
+I.- Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única del Registro de Población del deudor alimentario moroso;
+
+II.- Nombre del acreedor o acreedores alimentarios;
+
+III.- Datos del acta que acrediten el vínculo entre deudor y acreedor alimentario, en su caso;
+
+IV.- Número de pagos incumplidos y monto del adeudo alimentario;
+
+V.- Órgano jurisdiccional que ordena el registro; y
+
+VI.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+> <small>(ADICIONADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 534 Bis 1.
+
+El certificado a que se refiere el artículo 28 de la Ley del Registro Civil para el Estado de Sonora contendrá lo siguiente:
+
+I.- Nombre, apellidos Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso;
+
+II.- Número de acreedores alimentarios;
+
+III.- Monto de la obligación adeudada;
+
+IV.- Órgano jurisdiccional que ordeno el registro, y
+
+V.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+El Certificado a que se refiere el presente artículo, será expedido por el Registro Civil dentro de los tres días hábiles contados a partir de su solicitud.
+
+> <small>(ADICIONADO, B.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 534 Bis 2.
+
+Procede la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos en los siguientes supuestos:
+
+I.- Cuando el deudor demuestra en juicio haber cumplido con su obligación alimentaria y que la misma está garantizada;
+
+II.- Cuando al momento de dictar sentencia condenatoria, la pensión de alimentos se establezca en un porcentaje del sueldo que percibe el deudor alimentario; y
+
+III.- Cuando el deudor alimentario, una vez condenado, demuestra haber cumplido con su obligación alimentaria, por un lapso de noventa días y habiendo también demostrado que la pensión está garantizada en lo futuro.
+
+El Juez de lo Familiar ordenará al titular del Registro Civil del Estado la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos.
 
 ## TITULO SEGUNDO. DEL PATRIMONIO DE FAMILIA
 
-### CAPITULO II. DISMINUCIÓN Y EXTINCIÓN DEL PATRIMONIO DE FAMILIA
-
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+### CAPITULO I. CONSTITUCIÓN Y ADMINISTRACIÓN DEL PATRIMONIO DE FAMILIA
 
 ###### Artículo 535.
 
@@ -3786,6 +3860,10 @@ La constitución del patrimonio de familia no puede hacerse en fraude de acreedo
 ###### Artículo 552.
 
 Constituido el patrimonio de familia, sus miembros tienen obligación de habitar la casa y de cultivar la parcela. La primera autoridad política del lugar en que esté constituido el patrimonio puede, por justa causa, autorizar que se dé en arrendamiento o aparcería; hasta por un año.
+
+### CAPITULO II. DISMINUCIÓN Y EXTINCIÓN DEL PATRIMONIO DE FAMILIA
+
+> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 553.
 
@@ -3963,7 +4041,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 
 B.O. 26 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 210, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 210, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3972,3 +4050,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las demandas interpuestas antes de la fecha de entrada en vigor de estas reformas, se regirán por la normatividad vigente en el momento de su presentación.
+
+B.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 231, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA Y DE LA LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
