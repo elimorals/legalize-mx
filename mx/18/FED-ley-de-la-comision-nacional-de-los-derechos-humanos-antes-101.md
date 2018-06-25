@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2017-06-26"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -195,7 +195,51 @@ VII.- Tener preferentemente título de licenciado en derecho.
 
 El Presidente de la Comisión Nacional de los Derechos Humanos, será elegido por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión, con la misma votación calificada. Para tales efectos, la comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos.
 
-Con base en dicha auscultación, la comisión correspondiente de la Cámara de Senadores propondrá al pleno de la misma, una terna de candidatos de la cual se elegirá a quien ocupe el cargo o, en su caso, la ratificación del titular.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Con base en dicha auscultación, la comisión o comisiones correspondientes de la Cámara de Senadores propondrá al pleno de la misma o ante la Comisión Permanente del Congreso de la Unión, una terna de candidatos de la cual se elegirá a quien ocupe el cargo o, en su caso, la ratificación del titular.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+ARTICULO 10 BIS.- Para efectos de lo dispuesto en el artículo anterior, la comisión o comisiones correspondientes de la Cámara de Senadores deberán:
+
+I.- Emitir la convocatoria para la elección del Presidente de la Comisión Nacional de los Derechos Humanos.
+
+La convocatoria se emitirá treinta días hábiles antes de la fecha en que haya de concluir el cargo que se renovará.
+
+Dicha convocatoria deberá publicarse en la Gaceta del Senado, así como en el Diario Oficial de la Federación, en ambos casos incluyendo sus versiones electrónicas. De igual forma, deberá difundirse a través de su publicación en al menos tres de los periódicos de mayor circulación nacional;
+
+II.- Señalar en la convocatoria:
+
+a) Los requisitos que habrán de cumplir quienes deseen participar en la elección para ocupar el cargo de Presidente de la Comisión Nacional de los Derechos Humanos, de conformidad con las disposiciones jurídicas aplicables.
+
+b) El procedimiento mediante el que se desahogará la elección del Presidente.
+
+c) El periodo en el que se recibirán las propuestas de candidatos.
+
+d) La fecha en la que se dará a conocer la lista de candidatos que hayan cumplido con los requisitos de elegibilidad para ocupar el cargo vacante.
+
+e) La fecha, hora y duración de las comparecencias de los candidatos ante la comisión o comisiones correspondientes.
+
+f) El formato a que se sujetarán las comparecencias de candidatos.
+
+g) La fecha en la que se publicarán los resultados del procedimiento;
+
+III.- Difundir la lista de candidatos que cumplieron con los requisitos de elegibilidad para ocupar el cargo de Presidente de la Comisión Nacional. Para tal efecto, la lista deberá publicarse en los medios en que se haya difundido la convocatoria, a más tardar dentro de los tres días siguientes de haberse ésta cerrado;
+
+IV.- Evaluar a los candidatos para lo cual programará las comparecencias de los mismos y, una vez concluidas, determinará a quienes habrán de integrar la terna para ocupar el cargo correspondiente.
+
+Las comparecencias de los candidatos serán públicas y deberán transmitirse en vivo por el Canal del Congreso, y
+
+V.- Proponer ante el pleno del Senado o ante la Comisión Permanente, una vez desahogado el procedimiento a que se refieren las fracciones que anteceden, una terna de candidatos a ocupar el cargo de Presidente de la Comisión Nacional.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+ARTICULO 10 TER.- El pleno del Senado o, en su caso, los integrantes de la Comisión Permanente deberán elegir al Presidente de la Comisión Nacional a más tardar diez días hábiles antes de que concluya el periodo del Presidente saliente.
+
+Si no se reuniera la votación requerida para designar al Presidente, la comisión o comisiones correspondientes deberán presentar una nueva terna, tantas veces como sea necesario para alcanzar la votación requerida.
+
+La persona que sea elegida para desempeñar el cargo correspondiente deberá rendir protesta ante el Senado o la Comisión Permanente.
 
 > <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
@@ -295,11 +339,13 @@ En tal caso, bastará con que manifieste su deseo e interés de volver a partici
 
 Quienes en su calidad de integrantes del Consejo Consultivo deseen ser ratificados para un segundo periodo, deberán manifestar su interés por escrito al Senado de la República o, en su caso, a la Comisión Permanente, a efecto de ser considerados en los mismos términos de los demás participantes. Dicha manifestación de interés deberá presentarse antes de que concluya el periodo de inscripción de candidaturas que haya determinado la convocatoria respectiva.
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 18.
 
-Los miembros del Consejo Consultivo serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión con la misma votación calificada.
+Para la elección de los miembros del Consejo Consultivo se aplicará lo previsto en los artículos 10 Bis y 10 Ter de esta ley y serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión con la misma votación calificada.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 La comisión correspondiente de la Cámara de Senadores, previa auscultación a los sectores sociales, propondrá a los candidatos para ocupar el cargo o, en su caso, la ratificación de los consejeros.
 
@@ -375,7 +421,13 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- Ser mayor de treinta años de edad, el día de su nombramiento;
 
-III.- Tener título de Licenciado en Derecho expedido legalmente, y tener tres años de ejercicio profesional cuando menos; y
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III.- Tener título de Licenciado en Derecho expedido legalmente, y tener tres años de ejercicio profesional cuando menos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III Bis.- Contar con experiencia mínima de tres años en materia de derechos humanos, y
 
 IV.- Ser de reconocida buena fama.
 
@@ -1004,3 +1056,15 @@ Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto
 Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
 
 Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN III BIS AL ARTÍCULO 23 DE LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 18 Y SE ADICIONAN LOS ARTÍCULOS 10 BIS Y 10 TER A LA LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
