@@ -4,7 +4,7 @@ identifier: "LGPSACDII"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-10-24"
-last_updated: "2018-01-26"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83335&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSACDII"
 
 LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de octubre de 2011.
 
@@ -614,6 +614,12 @@ XIII. En caso de aparatos de calefacción, éstos deberán estar fijos, y
 
 XIV. Las demás que ordene el Reglamento de la Ley que emita el Ejecutivo Federal, las disposiciones correspondientes a la Ley Federal sobre Metrología y Normalización y las Normas Oficiales Mexicanas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 49 Bis.
+
+Los Centros de Atención podrán hacer uso de equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de los menores en términos de las disposiciones legales aplicables.
+
 ### Capítulo IX. De las Autorizaciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
@@ -919,5 +925,11 @@ Segundo. La entrada en vigor del término alcaldía en la Ley General de Prestac
 D.O.F. 26 DE ENERO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 49 BIS A LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
