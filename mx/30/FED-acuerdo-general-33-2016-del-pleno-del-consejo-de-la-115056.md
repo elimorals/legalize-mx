@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2016-del-pleno-del-consejo-de-la-115056"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-06-09"
-last_updated: "2017-07-20"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115056&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-06-02"
 
 ACUERDO GENERAL 33/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN LAS CIUDADES DE MEXICALI Y TIJUANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2016.
 
@@ -135,7 +135,9 @@ II. Centro de Justicia Penal Federal con sede en Tijuana: En dicho municipio y l
 
 El domicilio de cada uno de los Centros será el ubicado en:
 
-I. Centro de Justicia Penal Federal con sede en Mexicali: Edificio Sede del Poder Judicial de la Federación, Calle del Hospital No. 594, colonia Zona Industrial, Centro Cívico, código postal 21000, Mexicali, Baja California; y
+> <small>(REFORMADA POR ACUERDO GENERAL 17/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+I. Centro de Justicia Penal Federal con sede en Mexicali: Edificio Sede del Poder Judicial de la Federación, Calzada de los Presidentes S/N esquina Puente Quintana Roo, polígonos 8-3 Fracción norte porción 2 y 8-3 fracción central, Mexicali, Baja California.
 
 II. Centro de Justicia Penal Federal con sede en Tijuana: Edificio Sede del Poder Judicial de la Federación, Leona Vicario esquina Vía Rápida Poniente número 1426, Zona Río, código postal 22320, Tijuana, Baja California.
 
@@ -450,3 +452,23 @@ IV Ter. Centro de Justicia Penal Federal en el Estado de México, con sede en Al
 V. a XIII. ..."
 
 CUARTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 17/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN MEXICALI".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el veinticinco de junio de dos mil dieciocho, con excepción de lo dispuesto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Mexicali, deberá colocar avisos en lugares visibles en relación con el cambio de domicilio.
+
+CUARTO. Se reforma el artículo 7, fracción I, del Acuerdo General 33/2016, del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Baja California, con residencia en las ciudades de Mexicali y Tijuana para quedar como sigue:
+
+“Artículo 7. …
+
+I. Centro de Justicia Penal Federal con sede en Mexicali: Edificio Sede del Poder Judicial de la Federación, Calzada de los Presidentes S/N esquina Puente Quintana Roo, polígonos 8-3 fracción norte porción 2 y 8-3 fracción central, Mexicali, Baja California.
+
+II. …
+
+…”
