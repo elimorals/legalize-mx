@@ -4,7 +4,7 @@ identifier: "SON-ley-de-cultura-fisica-y-deporte-del-estado-de-sonora-66847"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-16"
-last_updated: "2017-04-27"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 16 de febrero de 2009.
 
@@ -235,9 +235,17 @@ XIX.- Impulsar, en coordinación con las autoridades competentes en materia de s
 
 XX.- Formular, en coordinación con las autoridades competentes y organizaciones sociales y privadas en materia de integración social para personas con discapacidad, programas para promover la cultura física y deporte entre las personas con discapacidad;
 
-XXI.- Celebrar los actos jurídicos que sean necesarios para el ejercicio de sus atribuciones y que le permitan cumplir con el objeto para el cual fue creada; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 25 DE JUNIO DE 2018)</small>
 
-XXII.- Las demás que esta Ley u otras disposiciones legales determinen.
+XXI.- Coordinarse con la Secretaría de Educación y Cultura, para fortalecer los sistemas de transporte escolar que permitan materializar apoyos para la transportación de deportistas a través de los recursos materiales y humanos de dichos sistemas, en aquellos casos en los que no se afecte la transportación escolar gratuita a que se hace referencia en el segundo párrafo del artículo 74 de la Ley de Educación para el Estado de Sonora;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], B.O. 25 DE JUNIO DE 2018)</small>
+
+XXII.- Celebrar los actos jurídicos que sean necesarios para el ejercicio de sus atribuciones y que le permitan cumplir con el objeto para el cual fue creada; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 25 DE JUNIO DE 2018)</small>
+
+XXIII.- Las demás que esta Ley u otras disposiciones legales determinen.
 
 ###### Artículo 14.
 
@@ -1260,3 +1268,15 @@ B.O. 27 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 224, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA Y A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría y la Comisión del Deporte del Estado de Sonora, cuentan con 90 días a partir de la publicación del presente Decreto, para celebrar el convenio señalado en el párrafo tercero del artículo 78 de la Ley de Educación para el Estado de Sonora.
