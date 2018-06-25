@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-justicia-indigena-del-estado-de-aguascalientes-106544"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-16"
-last_updated: "2015-03-16"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE JUSTICIA INDÍGENA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2015.
 
@@ -165,6 +165,74 @@ Asimismo, implementar acciones y programas, a fin de promover el desarrollo huma
 
 Son comunidades equiparadas a las indígenas las que refiere la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO V. Del Consejo Sobre Asuntos Indígenas en el Estado
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 16.
+
+Se crea el Consejo sobre Asuntos Indígenas en el Estado de Aguascalientes, como un órgano de vinculación entre las instituciones públicas y privadas que permitan la aplicación de la presente Ley. Así mismo que establezca canales de comunicación entre el sector público y privado que permita a los indígenas en el Estado acceder a programas sociales.
+
+Son facultades del Consejo sobre Asuntos Indígenas en el Estado de Aguascalientes, las siguientes:
+
+I. Evaluar las condiciones en que se encuentran las personas indígenas en nuestra entidad;
+
+II. Canalizar a las personas indígenas que sean sujetos de protección de la presente Ley, ante las instancias competentes;
+
+III. Vincular y coordinar a las dependencias, a las entidades de la administración pública estatal y municipal, a los Poderes Legislativo y Judicial, y a las organizaciones privadas en la atención de los indígenas que sean sujetos de la presente Ley;
+
+IV. Proponer programas a favor de los indígenas sujetos de la presente Ley;
+
+V. Emitir y reformar el Reglamento Interior del Consejo sobre Asuntos Indígenas en el Estado de Aguascalientes; y
+
+VI. Las demás que establezca la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 17.
+
+El Consejo sobre Asuntos Indígenas en el Estado de Aguascalientes, se integrará de la siguiente manera:
+
+I. El titular de la Secretaría General de Gobierno, quien será el Presidente;
+
+II. El titular de la Oficina de Atención al Migrante, dependiente de la Secretaría General de Gobierno, quien será el Secretario Técnico;
+
+III. Un representante de la Secretaría de Desarrollo Social;
+
+IV. Un representante de la Secretaría de Finanzas;
+
+V. Un representante del Sistema para el Desarrollo Integral de la Familia;
+
+VI. Un representante de la Comisión Estatal de Derechos Humanos;
+
+VII. Un representante del Poder Judicial del Estado de Aguascalientes;
+
+VIII. El Presidente de la Comisión de Derechos Humanos del Congreso del Estado de Aguascalientes; y
+
+IX. Un representante de las organizaciones civiles, que realicen trabajo en favor de los grupos indígenas en el Estado o cuyo objeto se relacione con la defensa de los derechos indígenas.
+
+Los integrantes de este Consejo, no recibirán remuneración alguna por participar en el mismo y realizar las funciones que le son propias.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 18.
+
+Por cada miembro propietario se podrá designar un suplente de acuerdo con el Reglamento Interior del propio Consejo. Las sesiones serán válidas con la asistencia de cuando menos cinco integrantes del mismo, debiendo estar presente el Presidente. Los acuerdos se tomarán por mayoría de los integrantes presentes, en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 19.
+
+El Consejo sobre Asuntos Indígenas en el Estado de Aguascalientes, se reunirá de manera ordinaria anualmente, y de manera extraordinaria las veces que sea necesario de acuerdo con el Reglamento Interior que para tal efecto se expida.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2018)</small>
+
+###### Artículo 20.
+
+Las convocatorias a las sesiones, se harán por oficio o correo electrónico, de acuerdo con el Reglamento Interior, debiendo entregarse por lo menos con 5 días hábiles de anticipación en el caso de sesiones ordinarias y de 24 horas en el de extraordinarias.
+
 T R A N S I T OR I O S :
 
 ###### ARTÍCULO PRIMERO.
@@ -200,3 +268,21 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 12 de marzo de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 330.- SE ADICIONA UN CAPÍTULO V DENOMINADO “DEL CONSEJO SOBRE ASUNTOS INDÍGENAS EN EL ESTADO” QUE TAMBIÉN SE ADICIONA A LA LEY DE JUSTICIA INDÍGENA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo sobre Asuntos Indígenas en el Estado de Aguascalientes deberá celebrar su primera sesión dentro de los ciento ochenta días naturales siguientes a la fecha de entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo sobre Asuntos Indígenas en el Estado de Aguascalientes expedirá su Reglamento Interior en un término no mayor de ciento ochenta días naturales, contado a partir de la fecha en que celebre su primera sesión.
