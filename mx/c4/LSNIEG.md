@@ -4,7 +4,7 @@ identifier: "LSNIEG"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-16"
-last_updated: "2018-06-15"
+last_updated: "2018-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60555&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSNIEG"
 
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de abril de 2008.
 
@@ -62,7 +62,9 @@ I. Actividades Estadísticas y Geográficas o Actividades: las relativas al dise
 
 II. Consejo: al Consejo Consultivo Nacional.
 
-III. Información Estadística: al conjunto de resultados cuantitativos o datos que se obtienen de las Actividades Estadísticas y Geográficas en materia estadística, tomando como base los datos primarios obtenidos de los Informantes del Sistema sobre hechos que son relevantes para el conocimiento de los fenómenos económicos, demográficos y sociales, así como sus relaciones con el medio ambiente y el espacio territorial.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III. Información Estadística: al conjunto de resultados cuantitativos o datos que se obtienen de las Actividades Estadísticas y Geográficas en materia estadística, tomando como base los datos primarios obtenidos de los Informantes del Sistema sobre hechos que son relevantes para el conocimiento de los fenómenos económicos, gobierno, seguridad pública e impartición de justicia; demográficos y sociales, así como sus relaciones con el medio ambiente y el espacio territorial.
 
 IV. Información Geográfica: al conjunto organizado de datos espaciales georreferenciados, que mediante símbolos y códigos genera el conocimiento acerca de las condiciones físico-ambientales, de los recursos naturales y de las obras de naturaleza antrópica del territorio nacional.
 
@@ -198,7 +200,9 @@ I. Será elaborado cada seis años en congruencia con el Programa Estratégico d
 
 II. Definirá el conjunto de actividades y proyectos a ser ejecutados durante cada sexenio presidencial por las Unidades del Estado, en congruencia con lo establecido en el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica y en el Plan Nacional de Desarrollo en lo relativo a las materias de Información correspondientes a los Subsistemas, y
 
-III. Se orientará a producir la información tendiente al mejor conocimiento del territorio y de la realidad económica, social y del medio ambiente del país.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III. Se orientará a producir la información tendiente al mejor conocimiento del territorio y de la realidad económica, gobierno, seguridad pública e impartición de justicia. Así como, social y del medio ambiente del país.
 
 ###### ARTÍCULO 12.
 
@@ -282,11 +286,21 @@ El Sistema contará con los siguientes Subsistemas Nacionales de Información:
 
 I. Demográfica y Social;
 
-II. Económica, y
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-III. Geográfica y del Medio Ambiente.
+II. Económica;
 
-Cada Subsistema tendrá como objetivo producir, integrar y difundir Información demográfica y social; económica y financiera, y geográfica y del medio ambiente, según corresponda.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III. Geográfica y del Medio Ambiente, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+IV. Gobierno, Seguridad Pública e Impartición de Justicia.
+
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+Cada Subsistema tendrá como objetivo producir, integrar y difundir Información Demográfica y Social; Económica y Financiera, Geográfica y del Medio Ambiente, y de Gobierno, Seguridad Pública e Impartición de Justicia, según corresponda.
 
 El Instituto deberá emitir las disposiciones generales para regular el funcionamiento de los Subsistemas Nacionales de Información.
 
@@ -296,9 +310,11 @@ La Junta de Gobierno, previa opinión favorable del Consejo, podrá crear otros 
 
 En el acuerdo de creación de un Subsistema conforme al último párrafo del artículo anterior, la Junta de Gobierno deberá señalar como mínimo su infraestructura de información, los indicadores clave que deberá producir y las fuentes de las que se obtendrá -con el apoyo de las Unidades- la información básica para dichos indicadores.
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
-Formarán parte de los Subsistemas: los Comités Ejecutivos de Información Demográfica y Social, de Información Económica, y de Información Geográfica y del Medio Ambiente; los Comités Técnicos Especializados que se constituyan en términos de lo dispuesto en esta Ley, así como las Unidades del Estado.
+Formarán parte de los Subsistemas: los Comités Ejecutivos de Información Demográfica y Social, de Información Económica, de Información Geográfica, del Medio Ambiente, y de Información de Gobierno, Seguridad Pública e Impartición de Justicia; los Comités Técnicos Especializados que se constituyan en términos de lo dispuesto en esta Ley, así como las Unidades del Estado.
 
 #### SECCIÓN I. Del Subsistema Nacional de Información Demográfica y Social
 
@@ -306,9 +322,11 @@ Formarán parte de los Subsistemas: los Comités Ejecutivos de Información Demo
 
 El Subsistema Nacional de Información Demográfica y Social, contará con una infraestructura de información que contenga como mínimo, un marco geoestadístico y un inventario nacional de viviendas.
 
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 21.
 
-El Subsistema Nacional de Información Demográfica y Social deberá generar un conjunto de indicadores clave, que atenderán como mínimo los temas siguientes: población y dinámica demográfica, salud, educación, empleo, distribución de ingreso y pobreza, seguridad pública e impartición de justicia, gobierno y vivienda.
+El Subsistema Nacional de Información Demográfica y Social deberá generar un conjunto de indicadores clave, que atenderán como mínimo los temas siguientes: población y dinámica demográfica, salud, educación, empleo, vivienda, distribución de ingreso y pobreza.
 
 ###### ARTÍCULO 22.
 
@@ -368,21 +386,59 @@ II. Un sistema integrado de inventarios y encuestas sobre recursos naturales y m
 
 III. Los registros administrativos que permitan obtener Información en la materia.
 
-#### SECCIÓN IV. De los Comités de los Subsistemas
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-#### SECCIÓN V. De las Unidades del Estado
+#### SECCIÓN IV. Del Subsistema Nacional de Gobierno, Seguridad Pública e Impartición de Justicia
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 28 BIS.- El Subsistema tendrá como objetivo institucionalizar y operar un esquema coordinado para la producción, integración, conservación y difusión de información estadística y geográfica de interés nacional, de calidad, pertinente, veraz y oportuna que permita conocer la situación que guardan la gestión y el desempeño de las instituciones públicas que conforman el Estado y sus respectivos poderes en las funciones de gobierno, seguridad pública e impartición de justicia, para apoyar los procesos de diseño, implementación, monitoreo y evaluación de las políticas públicas en estas materias.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 28 TER.- El Subsistema contará con una infraestructura de información que integre, como mínimo, un marco geoestadístico, un inventario nacional de registros administrativos, un registro de Unidades del Estado y un inventario de proyectos y productos estadísticos que permitan apoyar la obtención de información oficial respecto a la gestión y desempeño de las instituciones públicas que conforman al Estado y sus respectivos poderes, en las funciones de gobierno, de seguridad pública y de impartición de justicia, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 28 QUÁTER.- El Subsistema Nacional de Gobierno, Seguridad Pública e Impartición de Justicia deberá producir, integrar, administrar, conservar y difundir la información e indicadores clave sobre la gestión y desempeño de las instituciones públicas que conforman al Estado y sus poderes, relacionados, como mínimo, con las funciones de gobierno, seguridad pública e impartición de justicia.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 28 QUINTUS.- El Instituto producirá e integrará, con la colaboración de las Unidades del Estado, la información e indicadores a partir de los datos que se obtengan, entre otras fuentes, de:
+
+I. Los Censos Nacionales de Gobierno o de los esquemas alternativos que pudieran adoptarse en el futuro para sustituirlos total o parcialmente.
+
+II. Un registro de Unidades de Estado.
+
+III. Un sistema integrado de encuestas nacionales relacionado con los temas propios de este Subsistema.
+
+IV. Los registros administrativos que permitan obtener información en los temas correspondientes.
+
+La información a la que se refiere esta sección y que pudiera comprometer a la seguridad nacional o a la seguridad pública, será restringida en términos de lo dispuesto en la Ley de Seguridad Nacional y de la fracción IV del artículo 77 de la presente Ley.
+
+#### SECCIÓN IV (SIC). De los Comités de los Subsistemas
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 29.
 
-Cada Subsistema contará con un Comité Ejecutivo que se integrará por un vicepresidente de la Junta de Gobierno, quien lo presidirá, así como por al menos los coordinadores de las Unidades que a continuación se señalan para cada Subsistema Nacional de Información:
+Cada Subsistema contará con un Comité Ejecutivo que se integrará por un Vicepresidente de la Junta de Gobierno, designado por el Presidente del Instituto, quien lo presidirá, y por los coordinadores de las Secretarías que a continuación se señalan para cada Subsistema Nacional de Información:
 
-I. Demográfica y Social: Los coordinadores de las secretarías de Gobernación; de Seguridad Pública; de Desarrollo Social; de Educación Pública; de Salud, y del Trabajo y Previsión Social, así como del Poder Judicial;
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+I. Demográfica y Social: Los coordinadores de las secretarías de Gobernación; de Desarrollo Social; de Educación Pública; de Salud, y del Trabajo y Previsión Social, así como de la Comisión Nacional de Seguridad, y del Poder Judicial;
 
 > <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2014)</small>
 
 II. Económica: Los coordinadores de las secretarías de Hacienda y Crédito Público, de Economía, del Banco de México y del Instituto Federal de Telecomunicaciones;
 
-III. Geográfica y del Medio Ambiente: Los coordinadores de las secretarías de la Defensa Nacional; de Marina; del Medio Ambiente y Recursos Naturales; de Energía, y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+III. Geográfica y del Medio Ambiente: Los coordinadores de las secretarías de la Defensa Nacional; de Marina; del Medio Ambiente y Recursos Naturales; de Energía, y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2018)</small>
+
+IV. Gobierno, Seguridad Pública e Impartición de Justicia: Los coordinadores de las secretarías de Gobernación; de la Función Pública; de Hacienda y Crédito Público; de la Defensa Nacional y de Marina; de la Comisión Nacional de Seguridad; de la Procuraduría General de la República; por el representante del Poder Judicial de la Federación y del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, así como por los representantes del grupo de entidades federativas a que se refiere esta Ley, a través de las instituciones responsables de la información y temas relacionados con la gestión de las instituciones públicas en los temas de gobierno, seguridad pública e impartición de justicia.
 
 Por acuerdo de la mayoría de los miembros de cada Comité Ejecutivo, se podrá invitar a participar como miembro del mismo a representantes de otras Unidades o determinarse la necesidad de reducir el número de miembros.
 
@@ -440,7 +496,7 @@ IV. Presentar a la Junta de Gobierno un informe anual sobre sus actividades, y
 
 V. Prestar a los Subsistemas el apoyo que proceda en términos del acuerdo de creación del Comité Técnico Especializado de que se trate.
 
-#### SECCIÓN I. De los Derechos y Obligaciones de los Informantes del Sistema
+#### SECCIÓN V. De las Unidades del Estado
 
 ###### ARTÍCULO 33.
 
@@ -506,7 +562,7 @@ VII. Capacitar a los servidores públicos de las Unidades del Estado.
 
 ### CAPÍTULO V. De los Informantes del Sistema
 
-#### SECCIÓN II. De las Inspecciones a los Informantes del Sistema
+#### SECCIÓN I. De los Derechos y Obligaciones de los Informantes del Sistema
 
 ###### ARTÍCULO 37.
 
@@ -590,7 +646,7 @@ La Información no queda sujeta a la Ley Federal de Transparencia y Acceso a la 
 
 Sin perjuicio de lo señalado en el párrafo anterior, el Instituto, respecto de la información correspondiente a su gestión administrativa, quedará sujeto a lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-#### SECCIÓN III. De la Atención a las Solicitudes Oficiales de Información Provenientes del Extranjero
+#### SECCIÓN II. De las Inspecciones a los Informantes del Sistema
 
 ###### ARTÍCULO 48.
 
@@ -622,7 +678,7 @@ La persona con quien se entienda la diligencia, los testigos y el o los inspecto
 
 Los Informantes del Sistema, respecto de quienes se hubiesen practicado los actos a que se refiere el artículo anterior, podrán inconformarse con los hechos asentados en el acta correspondiente, mediante la interposición del recurso de revisión a que se refiere el Capítulo II del Título Cuarto de esta Ley.
 
-#### SECCIÓN I. De las Funciones del Instituto
+#### SECCIÓN III. De la Atención a las Solicitudes Oficiales de Información Provenientes del Extranjero
 
 ###### ARTÍCULO 51.
 
@@ -650,7 +706,7 @@ II. Que la Información sea comparable en el tiempo y en el espacio, y
 
 III. La adecuación de los procedimientos estadísticos y geográficos a estándares internacionales, para facilitar su comparación.
 
-#### SECCIÓN II. De la Administración del Instituto
+#### SECCIÓN I. De las Funciones del Instituto
 
 ###### ARTÍCULO 55.
 
@@ -762,7 +818,7 @@ II. El Congreso de la Unión, los gobiernos de las entidades federativas, así c
 
 III. Las autoridades locales, para la organización de los catastros de los municipios y para la realización del levantamiento geodésico de los límites aceptados o reconocidos de los estados.
 
-#### SECCIÓN III. De las Atribuciones de la Junta de Gobierno
+#### SECCIÓN II. De la Administración del Instituto
 
 ###### ARTÍCULO 66.
 
@@ -858,7 +914,7 @@ Lo señalado en el párrafo anterior, se realizará sujetándose a los límites 
 
 Las relaciones laborales de los trabajadores del Instituto, se sujetarán a lo dispuesto en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-#### SECCIÓN IV. De las Atribuciones del Presidente del Instituto
+#### SECCIÓN III. De las Atribuciones de la Junta de Gobierno
 
 ###### ARTÍCULO 77.
 
@@ -906,9 +962,9 @@ En aquellos casos en los que se deba recabar la opinión previa de los órganos 
 
 Además de los temas señalados en las fracciones I a III del artículo 59 del presente ordenamiento, sólo podrá considerarse Información de Interés Nacional para efectos de esta Ley, la que satisfaga los cuatro criterios siguientes:
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-I. Se trate de los siguientes temas, grupos de datos o indicadores: población y dinámica demográfica; salud; educación; empleo; distribución de ingreso y pobreza; seguridad pública e impartición de justicia; gobierno; vivienda; sistema de cuentas nacionales; información financiera; precios; trabajo; ciencia y tecnología; telecomunicaciones y radiodifusión; atmósfera; biodiversidad; agua; suelo; flora; fauna; residuos peligrosos y residuos sólidos; marco de referencia geodésico; límites costeros, internacionales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, y nombres geográficos, o bien se trate de temas que sean aprobados por unanimidad por el Consejo Consultivo Nacional, incluyendo aquéllos que deban conocer los Subsistemas a que se refiere el último párrafo del artículo 17 de este ordenamiento;
+I. Se trate de los siguientes temas, grupos de datos o indicadores: población y dinámica demográfica; salud; educación; empleo; distribución de ingreso y pobreza; de gobierno, seguridad pública e impartición de justicia; vivienda; sistema de cuentas nacionales; información financiera; precios; trabajo; ciencia y tecnología; telecomunicaciones y radiodifusión; atmósfera; biodiversidad; agua; suelo; flora; fauna; residuos peligrosos y residuos sólidos; marco de referencia geodésico; límites costeros, internacionales, estatales y municipales; datos de relieve continental, insular y submarino; datos catastrales, topográficos, de recursos naturales y clima, y nombres geográficos, o bien se trate de temas que sean aprobados por unanimidad por el Consejo Consultivo Nacional, incluyendo aquéllos que deban conocer los Subsistemas a que se refiere el último párrafo del artículo 17 de este ordenamiento;
 
 II. Resulte necesaria para sustentar el diseño y la evaluación de las políticas públicas de alcance nacional;
 
@@ -922,9 +978,11 @@ Sin perjuicio de lo anterior, también podrá ser considerada como Información 
 
 Los miembros de la Junta de Gobierno tendrán la responsabilidad de procurar que las relaciones del Instituto con las Unidades del Estado y otros sectores relevantes para el trabajo del propio Instituto, se desarrollen en forma apropiada para conseguir los objetivos del Instituto y del Sistema.
 
-Al efecto, estas tareas se dividirán en los cuatro sectores siguientes: de información demográfica y social; de información económica y financiera; de información geográfica y del medio ambiente; y de relaciones con los sectores académico, privado e internacional.
+> <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
-#### SECCIÓN V. Del Patrimonio del Instituto
+Al efecto, estas tareas se dividirán en los cinco sectores siguientes: de información demográfica y social; de información económica y financiera; de información geográfica y del medio ambiente; de gobierno, seguridad pública e impartición de justicia y de relaciones con los sectores académico, privado e internacional.
+
+#### SECCIÓN IV. De las Atribuciones del Presidente del Instituto
 
 ###### ARTÍCULO 80.
 
@@ -954,7 +1012,7 @@ El Presidente del Instituto tendrá la facultad de determinar el sector que, de 
 
 Al tomar las decisiones a que se refiere el párrafo anterior, el Presidente deberá tener en cuenta los antecedentes laborales y académicos de cada uno de los miembros de la Junta de Gobierno.
 
-#### SECCIÓN VI. De la Transparencia y Rendición de Cuentas del Instituto
+#### SECCIÓN V. Del Patrimonio del Instituto
 
 ###### ARTÍCULO 82.
 
@@ -1003,6 +1061,8 @@ Las Unidades podrán realizar Actividades Estadísticas y Geográficas, siempre 
 La Secretaría de Hacienda y Crédito Público tomará medidas para evitar la duplicidad en las Actividades Estadísticas y Geográficas, con el objeto de optimizar la asignación de recursos públicos federales para dichas Actividades.
 
 Lo previsto en el presente artículo, será aplicable, tratándose de los organismos constitucionales autónomos, sólo a aquellos que reciban recursos del Presupuesto de Egresos de la Federación.
+
+#### SECCIÓN VI. De la Transparencia y Rendición de Cuentas del Instituto
 
 ###### ARTÍCULO 86.
 
@@ -1819,3 +1879,15 @@ D.O.F. 15 DE JUNIO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 25 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, EN MATERIA DE SUBSISTEMAS NACIONALES DE INFORMACIÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El subsistema a que se refiere el presente Decreto tendrá por suyas las actividades ya realizadas por el subsistema creado mediante Acuerdo 4a/X/2008 de la Junta de Gobierno del Instituto Nacional de Estadística y Geografía, dando continuidad a las actividades subsecuentes.
+
+Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Instituto Nacional de Estadística y Geografía, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+
+Cuarto.- Se derogan todas las disposiciones que contravengan el presente Decreto.
