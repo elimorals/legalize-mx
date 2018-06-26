@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-a-la-salud-de-los-no-fumadores-en-el-69608"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-16"
-last_updated: "2009-07-16"
+last_updated: "2018-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL ESTADO DE CAMPECHE
 
-LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES EN EL ESTADO DE CAMPECHE
+LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 16 de julio de 2009.
 
@@ -57,11 +57,13 @@ V.-Establecer las sanciones para quienes incumplan lo previsto en esta ley;
 
 VI.- Establecer mecanismos de colaboración y coordinación con las autoridades federales, estatales y municipales para el cumplimiento de las diversas disposiciones legislativas y reglamentarias relacionadas con el consumo del tabaco.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
+
 ###### Artículo 2.
 
 Es facultad del Ejecutivo del Estado vigilar el cumplimiento y aplicación de la presente ley, sin perjuicio de las facultades que se le otorgan a otras autoridades.
 
-De manera concurrente están obligados a vigilar el cumplimiento y aplicación de esta ley: la Secretaría de Salud, la Secretaría de Educación, Cultura y Deporte, los Poderes Legislativo y Judicial, así como los gobiernos municipales, en los ámbitos de su competencia.
+De manera concurrente están obligados a vigilar el cumplimiento y aplicación de esta ley: la Secretaría de Salud, la Secretaría de Educación, los Poderes Legislativo y Judicial, así como los gobiernos municipales, en los ámbitos de su competencia.
 
 ###### Artículo 3.
 
@@ -183,7 +185,9 @@ La Secretaría de Salud del Estado en el ámbito de su competencia, dictará tod
 
 La Secretaría de Salud del Estado formulará y desarrollará programas locales de salud en el marco de los Sistemas Estatal y Nacional de Salud, para combatir y prevenir los padecimientos originados por el tabaquismo; así como la educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia y menores de dieciocho años.
 
-En concurrencia la Secretaría de Educación, Cultura y Deporte pondrá en marcha, en centros educativos públicos y privados, acciones tendientes a fomentar la prevención, concientización y difusión de los daños que ocasiona el tabaquismo en la salud de las personas fumadoras.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
+
+En concurrencia la Secretaría de Educación pondrá en marcha, en centros educativos públicos y privados, acciones tendientes a fomentar la prevención, concientización y difusión de los daños que ocasiona el tabaquismo en la salud de las personas fumadoras.
 
 Asimismo los gobiernos municipales coadyuvarán en todo lo que se requiera para la observancia de esta ley.
 
@@ -195,9 +199,11 @@ Corresponde a la Secretaría de Salud del Estado, vigilar y hacer cumplir las di
 
 Para los efectos previstos en este artículo la Secretaría de Salud del Estado podrá celebrar convenios de coordinación y colaboración.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
+
 ###### Artículo 15.
 
-Es competencia de los órganos de control interno, vigilar que se cumplan las disposiciones de los artículos 7 y 10 en las instituciones a las que se refiere la fracción l del artículo 5 de esta ley.
+Es competencia de los órganos internos de control, vigilar que se cumplan las disposiciones de los artículos 7 y 10 en las instituciones a las que se refiere la fracción I del artículo 5 de esta ley.
 
 ###### Artículo 16.
 
@@ -245,9 +251,9 @@ V.- Nombre y cargo de la persona con quien se entendió la visita de inspección
 
 VI.- Nombre y domicilio de las personas que fungieron como testigos;
 
-VlI.- Los datos relativos al lugar público, área o zona que se inspecciona, indicando el objeto de la misma;
+VII.- Los datos relativos al lugar público, área o zona que se inspecciona, indicando el objeto de la misma;
 
-VlII.- Manifestación del visitado, si quisiera hacerlo y;
+VIII.- Manifestación del visitado, si quisiera hacerlo y;
 
 IX.- Firma de los que intervinieron en la inspección.
 
@@ -283,27 +289,31 @@ Las personas físicas que no respeten las disposiciones de la presente ley cuand
 
 Las violaciones a los preceptos de esta ley y su reglamento, así como a las demás disposiciones relativas de la materia, dará lugar a la imposición de una sanción administrativa o económica en los términos de este capítulo.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
+
 ###### Artículo 29.
 
 Las personas físicas o morales que incumplan con las disposiciones contenidas en esta ley, se harán acreedores a las siguientes sanciones:
 
-I.- Amonestación;
+I. Amonestación;
 
-II.- Multa equivalente de dos hasta cien veces el salario mínimo general diario vigente en el Estado, en el momento de la infracción, de acuerdo a la clasificación que se determine en el reglamento correspondiente y;
+II. Multa equivalente de uno hasta cuatro veces el valor mensual de la Unidad de Medida y Actualización, en el momento de la infracción, de acuerdo a la clasificación que se determine en el reglamento correspondiente y;
 
-III.- La clausura parcial o total del lugar hasta por 3 días.
+III. La clausura parcial o total del lugar hasta por 3 días.
 
-Esta sanción únicamente podrá aplicarse en el supuesto indicado en el artículo 28 de esta Ley.
+La sanción únicamente podrá aplicarse en el supuesto indicado en el artículo 28 de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 30.
 
-La autoridad correspondiente al imponer a (sic) la sanción fundará y motivará la resolución debiendo tomar en cuenta:
+La autoridad correspondiente al imponer la sanción fundará y motivará la resolución debiendo tomar en cuenta:
 
-I.- La gravedad de la infracción conforme lo dispuesto en la presente Ley;
+I. La gravedad de la infracción conforme lo dispuesto en la presente Ley;
 
-II.- Las condiciones socioeconómicas del infractor y;
+II. Las condiciones socioeconómicas del infractor y;
 
-III.- La calidad de reincidente del infractor.
+III. La calidad de reincidente del infractor.
 
 ###### Artículo 31.
 
@@ -350,3 +360,13 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 Fracción XVIII d
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los dos días del mes de Julio del año dos mil nueve.
 
 El. GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 273 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, 13 PÁRRAFO SEGUNDO, 15, 29, Y 30 A LA LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
