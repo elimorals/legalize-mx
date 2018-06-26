@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-467
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-09"
-last_updated: "2005-11-09"
+last_updated: "2018-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE QUIROGA, MICHOACAN
 
-REGLAMENTO PARA EJERCER DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE QUIROGA, MICHOACAN
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE QUIROGA, MICHOACÁN, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA EJERCER DERECHO A LA INFORMACIÓN ANTE EL H. AYUNTAMIENTO DE QUIROGA, MICHOACÁN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 9 de noviembre de 2005.
 
@@ -292,3 +294,19 @@ EL SECRETARIO DEL AYUNTAMIENTO
 C. LUZ ESPERANZA TRIGO TENORIO
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE QUIROGA, MICHOACÁN".]
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo y para el conocimiento ciudadano publíquese en los estrados de la Presidencia Municipal de las Tenencias y Rancherías, en los diarios de mayor circulación del municipio, en la página de internet, oficial del Ayuntamiento.
+
+Artículo Segundo. Se abroga el Reglamento para ejercer el derecho a la información ante el H. Ayuntamiento de Quiroga, Michoacán publicado en el Periódico Oficial del Estado de Michoacán de Ocampo el 09 de noviembre de 2005.
+
+Artículo Tercero. Se abroga el Reglamento de la Transparencia y Acceso a la Información Pública del Municipio de Quiroga, Mich. Publicado en el Periódico Oficial del Estado de Michoacán de Ocampo el 22 de noviembre de 2012.
+
+Artículo Cuarto. Se abroga el Manual de Organización del Comité y de la Unidad para el Acceso a la Información Pública del Municipio de Quiroga, Michoacán.
+
+Artículo Quinto. Se deberá ratificar dentro de un plazo no mayor de noventa días naturales, contados a partir de la vigencia de este Reglamento, el Comité de Transparencia a que se refiere el presente, así mismo, deberá sesionar por primera vez dentro del mismo plazo.
