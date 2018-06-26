@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2018-01-25"
+last_updated: "2018-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -293,21 +293,17 @@ La Heroica Ciudad de Puebla de Zaragoza será la Capital del Estado; los Poderes
 
 ### CAPITULO III. DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 7º.
 
-Son habitantes del Estado las personas físicas que residan o estén domiciliadas en su territorio y las que sean transeúntes, por hallarse en éste de manera transitoria.
+Son habitantes del Estado las personas que residan o estén domiciliadas en su territorio y las que sean transeúntes, por hallarse en éste de manera transitoria.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+En el Estado de Puebla todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales y en esta Constitución sobre derechos humanos de los que los Estados Unidos Mexicanos sea parte, así como de las garantías para su protección.
 
-En el Estado de Puebla todas las personas gozarán de los derechos humanos reconocidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales sobre derechos humanos de los que los Estados Unidos Mexicanos sea parte, así como de las garantías para su protección.
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales en la materia y esta Constitución, favoreciendo la protección más amplia.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
-
-Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y con los tratados internacionales sobre derechos humanos señalados anteriormente.
-
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
+Toda restricción o suspensión al ejercicio o goce de los derechos humanos solo se realizarán en los términos y condiciones que emanen de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en los que el Estado Mexicano sea parte y esta Constitución.
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Gobierno del Estado de Puebla deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
 
@@ -911,45 +907,29 @@ El Congreso del Estado no podrá ejercer sus funciones sin la concurrencia de m�
 
 Los Diputados que no asistan a una sesión sin causa justificada no tendrán derecho a la dieta correspondiente, y si faltaren cuatro sesiones consecutivas injustificadamente o sin licencia previa se presumirá que renuncian a concurrir hasta el período inmediato de sesiones, llamándose desde luego a los suplentes.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 50.
 
-El Congreso tendrá cada año tres períodos de Sesiones, en la forma siguiente:
+El Congreso tendrá cada año legislativo tres períodos de Sesiones Ordinarias, en la forma siguiente:
 
-I.- El Primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
-II.- El segundo comenzará el primero de junio y terminará el treinta y uno de julio, en el que conocerá de los asuntos mencionados en la fracción anterior.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2016)</small>
-
-(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
-
-III.- El tercero comenzará el día quince de octubre y terminará el quince de diciembre, deberá incluir en la agenda legislativa, el estudio, la discusión y la aprobación de la Ley de Ingresos del Estado y de cada Municipio, que habrán de entrar en vigor al año siguiente, así como de las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria, las que se elaborarán y enviarán en términos de la legislación secundaria.
+I.- El primero comenzará el día quince de septiembre y terminará el quince de diciembre y se ocupará de estudiar, discutir y votar las iniciativas de Ley, Decreto o Acuerdo que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución. Además, se avocará al estudio, la discusión y la aprobación de la Ley de Ingresos del Estado y de cada Municipio, que habrán de entrar en vigor al año siguiente, así como de las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria, las que se elaborarán y enviarán en términos de la legislación secundaria.
 
 El Ejecutivo del Estado y los Ayuntamientos a través de aquél, remitirán sus propias iniciativas de Ley de Ingresos a más tardar el quince de noviembre del ejercicio previo a su vigencia; a su vez, en la misma fecha, el Ejecutivo en forma exclusiva deberá enviar la iniciativa de Ley de Egresos del Estado. En el caso de los Ayuntamientos, deberán remitir, para su análisis y aprobación, junto con su iniciativa de Ley de Ingresos, las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-Una vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, discutirá y aprobará la Ley de Egresos del Estado, que habrá de regir en el ejercicio siguiente, y en su caso, examinará, discutirá y aprobará los presupuestos multianuales que el Ejecutivo proponga establecer en la iniciativa respectiva, destinados a la ejecución de inversiones públicas productivas y otras. Los requisitos y formalidades que el Gobierno del Estado debe observar para asumir obligaciones de pago destinadas a la realización de éstas, deben establecerse en la ley secundaria.
+Una vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, discutirá y aprobará la Ley de Egresos del Estado, que habrá de regir en el ejercicio siguiente, y en su caso, examinará, discutirá y aprobará los presupuestos multianuales que el Ejecutivo proponga establecer en la iniciativa respectiva, destinados a la ejecución de inversiones públicas productivas y otras. Los requisitos y formalidades que el Gobierno del Estado debe observar para asumir obligaciones de pago destinadas a la realización de éstas deben establecerse en la ley secundaria.
 
 Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del Estado y la Ley de Egresos, o únicamente esta última, o las Leyes de Ingresos de cada Municipio, seguirán vigentes las leyes correspondientes al ejercicio anterior, mismas que serán aplicables provisionalmente, hasta en tanto el Congreso emita las aprobaciones respectivas, sin que para éstas medie receso de éste. El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
 
-> <small>(N. DE E. DEROGADOS ANTEPENÚLTIMO, PENÚLTIMO Y ÚLTIMO PÁRRAFOS, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+II.- El segundo comenzará el quince de enero y terminará el quince de marzo, en el que se ocupará de estudiar, discutir y votar las iniciativas de Ley, Decreto o Acuerdo que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+III.- El tercero comenzará el día quince de mayo y terminará el quince de julio, en el que conocerá de los asuntos mencionados en la fracción anterior.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 51.
 
-El Congreso se reunirá en sesiones extraordinarias cada vez que fuere convocado por el Ejecutivo o por la Comisión Permanente, y durante ellas sólo deberá ocuparse de los asuntos que motiven la convocatoria y que forzosamente serán precisados por ésta. A las sesiones extraordinarias precederá una reunión preparatoria.
+El Congreso se reunirá en sesiones extraordinarias cada vez que fuere convocado por el Ejecutivo o por la Comisión Permanente, y durante ellas solo deberá ocuparse de los asuntos que motiven la convocatoria y que forzosamente serán precisados por ésta.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -957,19 +937,19 @@ El Congreso se reunirá en sesiones extraordinarias cada vez que fuere convocado
 
 Todas las sesiones serán públicas, excepto cuando se trate de asuntos que exijan reserva y cuando así lo determine el Ordenamiento que rija el funcionamiento interno del Congreso.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 53.
 
-El Gobernador asistirá a la apertura del primer Periodo de Sesiones Ordinarias de cada año y presentará un informe por escrito en el que manifieste el estado general que guarda la administración pública estatal del ejercicio anterior. Dicho informe será contestado por el Presidente del Congreso del Estado.
+El Gobernador asistirá dentro de los primeros quince días del mes de diciembre del primer Periodo de Sesiones Ordinarias de cada año y presentará un informe por escrito en el que manifieste el estado general que guarda la administración pública estatal del ejercicio correspondiente. Dicho informe será contestado por el Presidente de la Mesa Directiva del Congreso del Estado.
 
-En el año de conclusión de la administración constitucional del Ejecutivo del Estado, el informe a que se refiere el párrafo anterior, podrá ser presentado por el Gobernador dentro de los primeros quince días del mes de enero del mismo año.
+En el año de conclusión de la administración constitucional del Ejecutivo del Estado, el informe a que se refiere el párrafo anterior, podrá ser presentado por el Gobernador dentro de los últimos quince días del mes de noviembre del mismo año.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 54.
 
-Cuando el Gobernador no pudiere concurrir a la apertura del primer Periodo de Sesiones Ordinarias, su informe será presentado por el Secretario del Despacho que designe el propio Ejecutivo.
+Cuando el Gobernador no pudiere asistir al Congreso del Estado a presentar el informe a que se refiere el artículo anterior, el mismo será presentado por el Secretario del Despacho que designe el propio Ejecutivo.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -977,11 +957,11 @@ Cuando el Gobernador no pudiere concurrir a la apertura del primer Periodo de Se
 
 Las oficinas públicas facilitarán a los diputados todos los datos que requieran y que les sean necesarios para el cumplimiento de lo dispuesto en esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 56.
 
-Las resoluciones del Congreso tendrán el carácter de Ley o Decreto y para su promulgación y publicación se comunicarán al Ejecutivo, firmados por el Presidente y los Secretarios.
+Las resoluciones del Congreso tendrán el carácter de Ley, Decreto o Acuerdo y para su promulgación y publicación se comunicarán al Ejecutivo, firmados por el Presidente, Vicepresidente y cualquiera de los Secretarios, en términos de la legislación interna del Congreso.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1183,11 +1163,11 @@ En la determinación de las remuneraciones a que se refiere este artículo, los 
 
 Durante los recesos del Congreso, habrá una Comisión Permanente compuesta por nueve Diputados. En su integración se procurará reflejar la composición plural del Congreso.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 60.
 
-La Comisión Permanente será nombrada por el Congreso tres días antes de la clausura de sus sesiones ordinarias, y en el año de la renovación de la Legislatura funcionará hasta la instalación del Congreso.
+La Comisión Permanente se instalará y ejercerá sus atribuciones conforme a la legislación interna del Congreso, y en el año de la renovación de la Legislatura funcionará hasta la instalación del Congreso.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1471,9 +1451,29 @@ XXIV.- Conceder indulto a los sentenciados del orden común.
 
 XXV.- Celebrar convenios con la Federación o con los Estados del País, para que los reos de nacionalidad mexicana sentenciados por delitos del orden común, que lo soliciten, puedan cumplir su condena en establecimientos dependientes del Ejecutivo Federal o de los Estados de su origen o residencia, de conformidad con las leyes de la materia.
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2018)</small>
 
-XXVI.- Organizar el Sistema Penitenciario de la Entidad, sobre la base del trabajo, capacitación para el mismo, la educación, la salud y el deporte como medios para alcanzar la reinserción a la sociedad.
+XXVI.- Organizar el Sistema Penitenciario de la Entidad, sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+Las personas privadas de libertad coadyuvarán con la Autoridad Penitenciaria para la elaboración de su Plan de Actividades en el marco de las condiciones de operación del Centro Penitenciario en que se encuentren cumpliendo su sanción, en el que se establecerá de manera enunciativa más no limitativa los siguientes derechos:
+
+a) La salud, entendida como el disfrute del más alto nivel posible de bienestar físico, mental y social, que incluye, entre otros, productos básicos de higiene e instalaciones higiénicas y suficientes que aseguren su privacidad y dignidad; la atención médica, psiquiátrica y odontológica adecuada; la disponibilidad permanente de personal médico idóneo e imparcial; el acceso a tratamiento y medicamentos apropiados y gratuitos; la implementación de programas de educación y promoción en salud, inmunización, prevención y tratamiento de enfermedades infecciosas, endémicas y de otra índole; y las medidas especiales para satisfacer las necesidades particulares de salud de las personas privadas de libertad pertenecientes a grupos vulnerables o de alto riesgo;
+
+b) Ser protegidos contra todo tipo de amenazas y actos de tortura, ejecución, desaparición forzada, tratos o penas crueles, inhumanos o degradantes, violencia sexual, castigos corporales, castigos colectivos, intervención forzada o tratamiento coercitivo, métodos que tengan como finalidad anular la personalidad o disminuir la capacidad física o mental de la persona;
+
+c) La alimentación que responda, en cantidad, calidad y condiciones de higiene, a una nutrición adecuada y suficiente;
+
+d) La educación; la cual será accesible para todas las personas, sin discriminación alguna, y tomará en cuenta la diversidad cultural y sus necesidades especiales;
+
+e) El trabajo; a tener oportunidades efectivas de trabajo, y a recibir una remuneración adecuada y equitativa por ello, de acuerdo con sus capacidades físicas y mentales, a fin de promover la reforma, rehabilitación y reinserción social de las personas privadas de la libertad, estimular e incentivar la cultura del trabajo, y combatir el ocio en los lugares de privación de libertad. En ningún caso el trabajo tendrá carácter aflictivo;
+
+f) La libertad de expresión en su propio idioma, asociación y reunión pacíficas, tomando en cuenta los límites estrictamente necesarios en una sociedad democrática, para respetar los derechos de los demás o para proteger la salud o la moral públicas, y para preservar el orden público, la seguridad y la disciplina interna en los lugares de privación de libertad, así como los demás límites permitidos en las leyes y en el derecho internacional de los derechos humanos;
+
+g) La libertad de conciencia y religión, que incluye el derecho de profesar, manifestar, practicar, conservar y cambiar su religión, según sus creencias; el derecho de participar en actividades religiosas y espirituales, y ejercer sus prácticas tradicionales; así como el derecho de recibir visitas de sus representantes religiosos o espirituales;
+
+h) Participar en actividades culturales, deportivas, sociales, y a tener oportunidades de esparcimiento sano y constructivo. Deberá alentarse la participación de la familia, de la comunidad y de las organizaciones no gubernamentales, en dichas actividades, a fin de promover la reforma, la reinserción social y la rehabilitación de las personas privadas de libertad; y
+
+i) Mantener contacto personal y directo, mediante visitas periódicas, con sus familiares, representantes legales, y con otras personas, especialmente con sus padres, hijos e hijas, y con sus respectivas parejas, así como a la oportunidad adecuada de comunicarse con el mundo exterior, con sujeción a las condiciones y restricciones razonables determinadas por ley o reglamentos dictados conforme a derecho.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
 
@@ -1542,6 +1542,18 @@ La ley orgánica correspondiente establecerá las secretarías y dependencias de
 I.- Las bases generales para la creación de entidades de la Administración Pública Paraestatal que, entre otras, pueden ser organismos descentralizados, empresas de participación estatal, fideicomisos y comisiones; y
 
 II.- La intervención del Ejecutivo en la operación de esas entidades.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
+
+Todas las dependencias o entidades de la Administración Pública Estatal a las que se confieran responsabilidades directas o indirectas en la Ley Nacional de Ejecución Penal, deberán prever en sus programas la adecuada y correcta implementación, y establecer dentro de los proyectos de presupuesto respectivos, las partidas necesarias para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos necesarios para cumplir los objetivos de la misma.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
+
+El titular del Poder Ejecutivo, y de las dependencias o entidades de la Administración Pública Estatal, podrán celebrar convenios con el sector privado que permitan desarrollar y ejecutar las actividades que coadyuven con el proceso de reinserción social de las personas privadas de su libertad, con irrestricto respeto a su dignidad y a los derechos humanos y garantías reconocidas en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, los Tratados Internacionales en los que el Estado Mexicano sea parte y demás leyes en la materia, siempre y cuando estos no hubieren sido restringidos por la resolución o la sentencia, o su ejercicio fuese incompatible con el objeto de éstas.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
+
+Las autoridades competentes promoverán, supervisarán, garantizarán y respetarán los derechos humanos, también se harán revisiones de manera permanente a las instalaciones de los Centros Penitenciarios para mantener la seguridad, tranquilidad e integridad, de las personas privadas de la libertad, del personal y de los visitantes, ejerciendo las medidas y acciones pertinentes para el buen funcionamiento de éstas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2004)</small>
 
@@ -3628,3 +3640,25 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 26 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA LOS ARTÍCULOS 50, 51, 53, 54, 56 Y 60 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado de Puebla y entrará en vigor el día quince de septiembre del año dos mil dieciocho.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO. El Gobernador en ejercicio constitucional deberá observar lo previsto en el párrafo segundo del artículo 53 de esta Ley Fundamental.
+
+CUARTO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 26 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE DERECHOS HUMANOS Y SISTEMA PENITENCIARIO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
