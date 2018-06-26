@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-evaluacion-118
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-31"
-last_updated: "2017-12-29"
+last_updated: "2018-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118673&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-01-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 31 de enero de 2017.
 
@@ -2091,7 +2091,9 @@ I. Las que contempla la Ley General de Responsabilidades Administrativas;
 
 II. Verificar que el ejercicio de gasto del Instituto se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
 
-III. Programar, ordenar y coordinar la realización de auditorías, investigaciones, revisiones y visitas de verificación debidamente fundadas y motivadas, para la correcta y legal aplicación de los recursos y bienes del Instituto; así como para determinar si se cumplen con las normas, programas y metas establecidas;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+III. Programar, ordenar y coordinar la realización de auditorías, investigaciones, revisiones y visitas de verificación e inspección, para la correcta y legal aplicación de los recursos y bienes del Instituto; así como para determinar si se cumplen con las normas, programas y metas establecidas;
 
 IV. Presentar a la Junta los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto; por conducto del Consejero Presidente;
 
@@ -2129,7 +2131,9 @@ XX. Presentar a la Junta los informes previo y anual de resultados de su gestió
 
 XXI. Presentar a la Junta los informes respecto de los expedientes relativos a las faltas administrativas y en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
 
-XXII. Instruir, coordinar, substanciar el procedimiento de responsabilidad administrativa, en términos de la normatividad en materia de responsabilidades aplicable, asimismo, imponer las sanciones respectivas, cuando se trate de faltas administrativas no graves, así como remitir al Tribunal Federal de Justicia Administrativa los procedimientos de responsabilidad administrativa cuando se refieran a faltas administrativas graves y por conductas de particulares sancionables conforme a la Ley General de Responsabilidades Administrativas, para su resolución en términos de dicha Ley;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XXII. Instruir, coordinar y substanciar el procedimiento de responsabilidad administrativa, en términos de la normatividad en materia de responsabilidades aplicable, asimismo, imponer las sanciones respectivas, cuando se trate de faltas administrativas no graves, así como remitir al Tribunal Federal de Justicia Administrativa los procedimientos de responsabilidad administrativa cuando se refieran a faltas administrativas graves y por conductas de particulares sancionables conforme a la Ley General de Responsabilidades Administrativas, para su resolución en términos de dicha Ley;
 
 XXIII. Coordinar con la participación de la UA los trabajos que desarrolle el auditor externo;
 
@@ -2141,17 +2145,23 @@ XXVI. Resolver los recursos de revisión que se interpongan en contra de las res
 
 XXVII. Denunciar ante la Fiscalía Especializada en Combate a la Corrupción los hechos u omisiones de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su caso, hacer del conocimiento a la DGAJ para la presentación de denuncias o querellas respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés, además de aquellos que así lo ameriten;
 
-XXVIII. Promover y evaluar el fortalecimiento Institucional en su desempeño y control Interno.
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XXVIII. Promover y evaluar el fortalecimiento Institucional en su desempeño, control Interno y mejora de la gestión.
 
 XXIX. Expedir copias certificadas de los documentos que obren en los archivos del OIC, de conformidad con la normatividad aplicable;
 
-XXX. Designar a los Titulares de la Estructura Orgánica del OIC autorizada e informar a la Junta por conducto del Consejero Presidente. Por lo que se refiere al demás personal, lo designará sin perjuicio de las propuestas que, en su caso le formulen los titulares de sus respectivas áreas;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XXX. Designar y autorizar el nombramiento o remoción de los servidores públicos del OIC;
 
 XXXI. Aprobar las normas, manuales de organización y procedimientos, acuerdos, circulares, lineamientos y demás normatividad interna correspondientes al OIC, suscribir convenios de colaboración con entes públicos para el ejercicio de sus atribuciones, expedir las copias certificadas de los documentos que obtenga con motivo del ejercicio de sus atribuciones y funciones; así como fijar, dirigir y controlar su política, de conformidad con los objetivos, estrategias y prioridades del Programa Anual de Trabajo del OIC;
 
 XXXII. Emitir los lineamientos generales de prevención y rendición de cuentas de los servidores públicos;
 
-XXXIII. Emitir el Código de Ética y Conducta conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, así como hacerlo del conocimiento de los servidores públicos del Instituto y darle la máxima publicidad;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XXXIII. Emitir el Código de Ética conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, así como hacerlo del conocimiento de los servidores públicos del Instituto y darle la máxima publicidad;
 
 XXXIV. Emitir recomendaciones y observaciones, así como verificar que se cumplan en el ámbito de su competencia, las emitidas por cualquier otro órgano fiscalizador;
 
@@ -2163,7 +2173,9 @@ XXXVII. Requerir a las unidades administrativas del Instituto la información, d
 
 XXXVIII. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir faltas administrativas, en los términos establecidos por el Sistema Nacional Anticorrupción;
 
-XXXIX. Emitir comentarios y sugerencias, debidamente fundados, a los estudios de factibilidad en materia de tecnologías de la información, en los términos que establezca la normatividad respectiva;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XXXIX. Emitir comentarios y sugerencias a los estudios de factibilidad en materia de tecnologías de la información, en los términos que establezca la normatividad respectiva;
 
 XL. Ordenar la supervisión de los procedimientos de contratación pública por parte del Instituto para garantizar que se lleva a cabo en los términos de las disposiciones en la materia; y
 
@@ -2189,161 +2201,297 @@ III. Autoridades resolutoras en materia de faltas administrativas: el Titular de
 
 El titular del Órgano Interno de Control, en ningún caso podrá ejercer las funciones de autoridad investigadora y autoridad substanciadora en un mismo asunto.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 88.
 
-El Titular de Auditoría Interna tendrá las siguientes funciones:
+El Titular de Auditoría Interna tendrá las siguientes facultades y funciones:
 
-I. Ordenar y realizar, por sí o en coordinación con las instancias externas de fiscalización, de forma debidamente fundada y motivada, las auditorías, revisiones y visitas de verificación, que le instruya el Titular del Órgano Interno de Control en términos de la normatividad aplicable, así como suscribir el informe correspondiente y comunicar el resultado de dichas auditorías, revisiones y visitas de verificación al Titular del Órgano Interno de Control y a los responsables de las unidades administrativas auditadas;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
 
-II. Ordenar y realizar por sí o en coordinación con otras instancias externas de fiscalización, de forma debidamente fundada y motivada, las auditorías, revisiones y visitas de verificación, que le instruya el Titular del Órgano Interno de Control, para determinar si el Instituto, cumple con las normas, programas y metas establecidas e informar los resultados a los responsables de las unidades administrativas revisadas y evaluar la eficiencia y eficacia en el cumplimiento de sus objetivos, además de proponer las medidas y/o recomendaciones preventivas y/o correctivas que apoyen el logro de sus fines, aprovechar mejor los recursos que tiene asignados, y que el otorgamiento de sus servicios sea oportuno, confiable y completo;
+I. Ordenar y realizar, por sí o en coordinación con las instancias externas de fiscalización, las auditorías, revisiones y visitas de inspección, que le instruya el Titular del Órgano Interno de Control en términos de la normatividad aplicable, así como suscribir el informe correspondiente y comunicar el resultado de dichas auditorías, revisiones y visitas de verificación al Titular del Órgano Interno de Control y a los responsables de las unidades administrativas auditadas;
 
-III. Vigilar de conformidad con la normatividad aplicable, la aplicación oportuna de las medidas y/o recomendaciones correctivas y/o preventivas derivadas de las auditorías, revisiones o visitas de verificación practicadas, por sí o por las diferentes instancias externas de fiscalización;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
 
-IV. Requerir a las unidades administrativas del Instituto la información, documentación y colaboración para el cumplimiento de sus atribuciones; solicitar a proveedores, licitantes y contratistas los documentos, informes y demás elementos necesarios para sus intervenciones, de forma debidamente fundada y motivada;
+II. Proponer las medidas y/o recomendaciones preventivas y/o correctivas que apoyen el logro de los objetivos, el aprovechamiento de los recursos y el otorgamiento oportuno, confiable y completo de servicios, por parte de las unidades administrativas;
 
-V. Proponer al Titular del Órgano Interno de Control las intervenciones que en la materia se deban incorporar al Programa de Trabajo Anual del OIC y al Programa Anual de Auditoría Interna, acorde con la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+III. Vigilar la aplicación oportuna de las medidas y/o recomendaciones correctivas y/o preventivas derivadas de las auditorías, revisiones o visitas de inspección practicadas por sí o por las diferentes instancias externas de fiscalización;
+
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+IV. Requerir a las unidades administrativas del Instituto la información, documentación y colaboración para el cumplimiento de sus atribuciones; solicitar a proveedores, licitantes y contratistas los documentos, informes y demás elementos necesarios para sus intervenciones;
+
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+V. Proponer al Titular del Órgano Interno de Control las intervenciones que en la materia se deban incorporar al Programa de Trabajo Anual del OIC y al Programa Anual de Auditoría Interna;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 VI. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 VII. Proponer al Titular del OIC la metodología para el análisis de la gestión financiera, así como evaluar los informes de avance de la gestión financiera respecto a los programas autorizados y los procesos correspondientes;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 VIII. Integrar los expedientes de presuntas responsabilidades o faltas administrativas detectadas en sus intervenciones de conformidad con las disposiciones jurídicas aplicables y remitirlos a la instancia correspondiente para los efectos de su competencia;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 IX. Emitir los dictámenes contables que soliciten las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 X. Supervisar los avances de las auditorías que practique el auditor externo, verificar su conclusión y la entrega de los informes respectivos;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XI. Coordinar la participación del personal a su cargo en los actos de entrega-recepción de los servidores públicos del Instituto;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XII. Formular denuncias ante el Ministerio Público, cuando de sus intervenciones advierta la presunta comisión de delitos o, en su caso, hacer del conocimiento de la DGAJ para la presentación de denuncias o querellas respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés, además de aquellos que así lo ameriten, previo acuerdo con el Titular del Órgano Interno de Control;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XIII. Participar por instrucciones del Titular del Órgano Interno de Control, conforme a las disposiciones vigentes, en los comités, subcomités y grupos de trabajo;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XIV. Proponer al Titular del Órgano Interno de Control las normas, manuales de organización y procedimientos, acuerdos, convenios de colaboración, circulares, lineamientos y demás normatividad interna correspondientes al OIC;
 
-XV. Proponer al Titular del Órgano Interno de Control los informes de las auditorias, revisiones y visitas de verificación que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del instituto;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XV. Proponer al Titular del Órgano Interno de Control los informes de las auditorías, revisiones y visitas de inspección que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XVI. Las demás que le confieran otras disposiciones jurídicas aplicables, así como aquellas que le confiera el titular del Órgano Interno de Control en el ámbito de su competencia.
 
-El Titular de Auditoría Interna, para el desempeño de sus atribuciones, se auxiliará del personal adscrito a la unidad administrativa a su cargo.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+El Titular de Auditoría Interna, para el desempeño de sus facultades y funciones, se auxiliará del personal adscrito a la unidad administrativa a su cargo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 89.
 
-El Titular de Quejas tendrá las siguientes funciones:
+El Titular de Quejas tendrá las siguientes facultades y funciones:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 I. Las que contempla la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 II. Recibir las quejas y denuncias que se formulen por posibles actos u omisiones que pudieran constituir presuntas irregularidades o faltas administrativas cometidas por servidores públicos o particulares por conductas sancionables, en términos de la normatividad en materia de responsabilidades administrativas aplicable, incluidas las que deriven de los resultados de las auditorías practicadas por las autoridades competentes, o en su caso, de auditores externos;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 III. Recibir las quejas y denuncias que se formulen en contra de personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos y servicios relacionadas con las mismas y demás disposiciones en materia de contrataciones públicas;
 
-IV. Practicar de oficio, por queja, denuncia o derivado de auditorías practicadas por las autoridades competentes, las investigaciones por posibles actos u omisiones que pudieran constituir faltas administrativas por parte de los servidores públicos o de los particulares por conductas sancionables, en términos de la normatividad en materia de responsabilidades administrativas, observando los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
 
-V. Practicar de oficio o por denuncia las investigaciones en contra de personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos y servicios del Instituto y demás disposiciones en materia de contrataciones públicas, observando los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos;
+IV. Practicar de oficio, por queja, denuncia o derivado de auditorías practicadas por las autoridades competentes, las investigaciones por posibles actos u omisiones que pudieran constituir faltas administrativas por parte de los servidores públicos o de los particulares por conductas sancionables, en términos de la normatividad en materia de responsabilidades administrativas;
 
-Para efectos del párrafo anterior, podrá emitir cualquier acuerdo de trámite y llevar a cabo toda clase de diligencias debidamente fundadas y motivadas;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+V. Practicar de oficio o por denuncia las investigaciones en contra de personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos y servicios del Instituto y demás disposiciones en materia de contrataciones públicas;
+
+Para efectos del párrafo anterior, podrá emitir cualquier acuerdo de trámite y llevar a cabo toda clase de diligencias;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 VI. Citar a cualquier servidor público que pueda tener conocimiento de hechos relacionados con presuntas irregularidades administrativas a fin de constatar la veracidad de los mismos, así como solicitarles que aporten, en su caso, elementos, datos o indicios que permitan advertir la presunta responsabilidad administrativa del servidor público o del particular por conductas sancionables; en términos de la normatividad aplicable;
 
-VII. Practicar las actuaciones y diligencias debidamente fundadas y motivadas, que sean pertinentes para el conocimiento de los hechos, a fin de integrar debidamente los expedientes relacionados con las investigaciones que realice con motivo de actos u omisiones que pudieran constituir presuntas irregularidades o faltas administrativas, en términos de la normatividad en materia de responsabilidades administrativas aplicable;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+VII. Practicar las actuaciones y diligencias para el conocimiento de los hechos, a fin de integrar debidamente los expedientes relacionados con las investigaciones que realice con motivo de actos u omisiones que pudieran constituir presuntas irregularidades o faltas administrativas, en términos de la normatividad en materia de responsabilidades administrativas aplicable;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 VIII. Solicitar la información necesaria para el esclarecimiento de los hechos materia de la investigación en términos de la normatividad en materia de responsabilidades administrativas aplicable, incluyendo aquella que las disposiciones jurídicas en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de presuntas irregularidades o faltas administrativas a que se refiere la normatividad en materia de responsabilidades administrativas aplicables, con la obligación de mantener la misma con reserva o secrecía, conforme a dichas disposiciones;
 
-IX. Ordenar la práctica de visitas de verificación, de forma fundada y motivada, las cuales se sujetarán a lo previsto en la Ley Federal de Procedimiento Administrativo;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
 
-X. Formular requerimientos de información, de forma fundada y motivada, a particulares, que sean sujetos de investigación por la probable comisión de faltas administrativas, en términos de la Ley General de Responsabilidades Administrativas; así como, certificar la documentación que obtenga con motivo de las investigaciones o visitas de verificación;
+IX. Ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la Ley Federal de Procedimiento Administrativo;
+
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+X. Formular requerimientos de información a particulares, que sean sujetos de investigación por la probable comisión de faltas administrativas, en términos de la Ley General de Responsabilidades Administrativas; así como certificar la documentación que obtenga con motivo de las investigaciones o visitas de verificación;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XI. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluido el de conclusión y archivo del expediente cuando así proceda, así como el informe de presunta responsabilidad administrativa para turnarlo al Área de Responsabilidades en el que se incluirá la calificación de la falta administrativa;
 
-XII. Auxiliar al Titular del Órgano Interno de Control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en la materia, así como solicitar de forma fundada y motivada, a las unidades administrativas del Instituto y a cualquier persona física o moral, la información que se requiera para el esclarecimiento de los hechos, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XII. Auxiliar al Titular del Órgano Interno de Control en la formulación de requerimientos, información y demás actos necesarios para la atención de los asuntos en la materia, así como solicitar a las unidades administrativas del Instituto y a cualquier persona física o moral, la información que se requiera para el esclarecimiento de los hechos, en términos de las disposiciones legales aplicables;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XIII. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XIV. Promover los recursos que como autoridad investigadora le otorga la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XV. Imponer las medidas de apremio que establece la normatividad en materia de responsabilidades administrativas aplicable, para hacer cumplir sus determinaciones, y solicitar las medidas cautelares que se estimen necesarias para la mejor conducción de sus investigaciones;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XVI. Formular denuncias ante el Ministerio Público, cuando de sus investigaciones advierta la presunta comisión de delitos o, en su caso, hacer del conocimiento de la Dirección General de Asuntos Jurídicos del Instituto para la presentación de denuncias o querellas respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés, además de aquellos que así lo ameriten, previo acuerdo con el Titular del Órgano Interno de Control;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XVII. Llevar el seguimiento de la evolución y verificación de la situación patrimonial de los declarantes y verificar que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal;
 
-XVIII. Realizar una verificación aleatoria de las declaraciones de situación patrimonial, que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de intereses y la constancia de presentación de declaración fiscal de los servidores públicos del Instituto, así como de su evolución patrimonial y, en caso de que de su análisis, no se desprendan anomalías, se expedirá la certificación correspondiente, o en caso contrario, iniciar la investigación que permita identificar la existencia de presuntas faltas administrativas;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XVIII. Realizar una verificación aleatoria de las declaraciones de situación patrimonial, de intereses y la constancia de presentación de declaración fiscal de los servidores públicos del Instituto, así como de su evolución patrimonial y, en caso de que, de su análisis, no se desprendan anomalías, se expedirá la certificación correspondiente, o en caso contrario, iniciar la investigación que permita identificar la existencia de presuntas faltas administrativas;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XIX. Solicitar a los declarantes la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XX. Coordinar la supervisión de la ejecución de los procedimientos de contratación que realice el Instituto, para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, realizando las verificaciones procedentes si se descubren anomalías;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XXI. Participar por instrucciones del Titular de Órgano Interno de Control, conforme a las disposiciones vigentes, en los comités, subcomités y grupos de trabajo;
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XXII. Analizar los estudios de factibilidad en materia de tecnologías de la información y proponer al Titular del Órgano Interno de Control, las observaciones y sugerencias correspondientes;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XXIII. Proponer al Titular del Órgano Interno de Control las normas, manuales de organización y procedimientos, acuerdos, convenios de colaboración, circulares, lineamientos y demás normatividad interna correspondientes al OIC; y
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XXIV. Las demás que le confieran otras disposiciones jurídicas aplicables, así como aquellas que le confiera el titular del Órgano Interno de Control en el ámbito de su competencia.
 
-El Titular de Quejas, para el desempeño de sus funciones, se auxiliará del personal adscrito a la unidad administrativa a su cargo.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+El Titular de Quejas, para el desempeño de sus facultades y funciones, se auxiliará del personal adscrito a la unidad administrativa a su cargo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 26 DE JUNIO DE 2018)</small>
 
 ###### Artículo 89 Bis.
 
-El Titular de Responsabilidades tendrá las siguientes funciones:
+El Titular de Responsabilidades tendrá las siguientes facultades y funciones:
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 I. Las que contempla la Ley General de Responsabilidades Administrativas;
 
-II. Dirigir y substanciar los procedimientos de responsabilidades administrativas a partir de la emisión del acuerdo de procedencia del informe de presunta responsabilidad administrativa y resolver lo procedente en términos de la normatividad en materia de responsabilidades administrativas aplicable;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+II. Dirigir y substanciar los procedimientos de responsabilidades administrativas y resolver lo procedente en términos de la normatividad en materia de responsabilidades administrativas aplicable;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 III. Ordenar el emplazamiento del presunto responsable de una probable irregularidad administrativa o falta administrativa, debiendo citarlo para que comparezca a la celebración de la audiencia, en su caso, citar a las demás partes, en términos de la normatividad en materia de responsabilidades administrativas aplicable;
 
-IV. Emitir los acuerdos y resoluciones correspondientes, debidamente fundados y motivados, en los procedimientos de responsabilidad administrativa que hayan substanciado, incluido el envío de los autos originales de los expedientes de responsabilidad administrativa al Tribunal Federal de Justicia Administrativa para su resolución, cuando dichos procedimientos se refieran a faltas administrativas graves y de particulares por conductas sancionables en términos de la normatividad en materia de responsabilidades administrativas aplicable;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+IV. Emitir los acuerdos y resoluciones correspondientes en los procedimientos de responsabilidad administrativa que hayan substanciado, incluido el envío de los autos originales de los expedientes de responsabilidad administrativa al Tribunal Federal de Justicia Administrativa para su resolución, cuando dichos procedimientos se refieran a faltas administrativas graves y de particulares por conductas sancionables en términos de la normatividad en materia de responsabilidades administrativas aplicable;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 V. Formular requerimientos, llevar a cabo los actos necesarios para la atención de los asuntos en materia de responsabilidades, así como solicitar a las unidades administrativas del Instituto, de las dependencias, entidades y la Procuraduría General de la República, la información que se requiera para el cumplimiento de sus facultades; lo anterior en términos de la normatividad aplicable;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 VI. Recibir y dar trámite a las impugnaciones presentadas por el denunciante o la autoridad investigadora, a través del recurso de inconformidad, sobre la abstención de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 VII. Imponer los medios de apremio para hacer cumplir sus determinaciones en términos de la normatividad en materia de responsabilidades administrativas;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 VIII. Imponer las medidas cautelares en términos de la normatividad en materia de responsabilidades administrativas aplicable;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 IX. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 X. Dictar las resoluciones en los recursos de revocación interpuestos por los servidores públicos del Instituto, respecto de sanciones administrativas, así como realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al Titular del Órgano Interno de Control;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XI. Recibir, instruir y resolver las inconformidades interpuestas por los actos que contravengan las disposiciones jurídicas en materia de adquisiciones, arrendamientos y servicios relacionados con las mismas del Instituto;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XII. Iniciar, instruir y resolver el procedimiento de intervenciones de oficio, si así lo considera conveniente por presumir la inobservancia de las disposiciones en materia de adquisiciones, arrendamientos y servicios relacionados con las mismas del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XIII. Tramitar, instruir y resolver los procedimientos administrativos de sanción a personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos y servicios relacionados con las mismas del Instituto y demás disposiciones en materia de contrataciones públicas, y en su caso, imponer las sanciones correspondientes;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XIV. Registrar y mantener actualizado el directorio de proveedores y contratistas sancionados del Instituto, sobre los asuntos a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XV. Tramitar los procedimientos de conciliación en materia de adquisiciones, arrendamientos y servicios del Instituto a que se refieren las Normas en materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional para la Evaluación de la Educación, derivados de las solicitudes de conciliación que presenten el Instituto o los proveedores por incumplimiento a los contratos o pedidos celebrados con el Instituto.
 
-Para efectos de lo anterior, podrá emitir los acuerdos procedentes, así como presidir y conducir las sesiones de conciliación y llevar a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar;
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+Para efectos de lo anterior, podrá emitir los acuerdos, así como presidir y conducir las sesiones de conciliación y llevar a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XVI. Instruir los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficio, así como en contra de las resoluciones por las que se impongan sanciones a los licitantes y proveedores en los términos de la normatividad aplicable y someterlos a la resolución del Titular del Órgano Interno de Control;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XVII. Formular denuncias ante el Ministerio Público, cuando de la substanciación del procedimiento administrativo advierta la presunta comisión de delitos o, en su caso, hacer del conocimiento de la Dirección General de Asuntos Jurídicos del Instituto para la presentación de denuncias o querellas respecto de hechos en los que el Instituto haya resultado ofendido o tenga interés, además de aquellos que así lo ameriten, previo acuerdo con el Titular del Órgano Interno de Control;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XVIII. Inscribir y mantener actualizada en el sistema de evolución patrimonial, de declaración de intereses y constancia de declaración fiscal la información correspondiente a los declarantes del Instituto. De igual manera, verificará la situación o posible actualización de algún conflicto de interés según la información proporcionada;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XIX. Coordinar y supervisar la recepción, registro, seguimiento, control y destino de las compensaciones, prestaciones, dádivas, obsequios, o regalos, en los términos de la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XX. Administrar los sistemas y registros de servidores públicos sancionados, así como expedir constancias relativas en términos de la normatividad aplicable;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XXI. Elaborar los Informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas y proponerlos al Titular del Órgano Interno de Control;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XXII. Participar por instrucciones del Titular del Órgano Interno de Control, conforme a las disposiciones vigentes, en los comités, subcomités y grupos de trabajo;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 XXIII. Proponer al Titular del Órgano Interno de Control las normas, manuales de organización y procedimientos, acuerdos, convenios de colaboración, circulares, lineamientos y demás normatividad interna correspondientes al OIC;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 XXIV. Las demás que le confieran otras disposiciones jurídicas aplicables, así como aquellas que le confiera el titular del Órgano Interno de Control en el ámbito de su competencia.
 
-El Titular de Responsabilidades, para el desempeño de sus funciones, se auxiliará del personal adscrito a la unidad administrativa a su cargo.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+El Titular de Responsabilidades, para el desempeño de sus facultades y funciones, se auxiliará del personal adscrito a la unidad administrativa a su cargo.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -2359,15 +2507,23 @@ III. Efectuar la evaluación de riesgos que puedan obstaculizar el cumplimiento 
 
 IV. Promover el desarrollo administrativo, la modernización y la mejora de la gestión del Instituto;
 
-V. Verificar, el proceso de planeación que desarrolle el Instituto, para el establecimiento y ejecución de compromisos y acciones de mejora de la gestión o para el desarrollo administrativo integral, conforme a las disposiciones jurídicas aplicables
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
 
-VI. Proponer al Titular del Órgano Interno de Control las acciones de mejora y modernización de la gestión del Instituto;
+V. Verificar, conforme a las disposiciones que establezca el Titular del Órgano Interno de Control, el proceso de planeación que desarrolle el Instituto, para el establecimiento y ejecución de compromisos y acciones de mejora de la gestión o para el desarrollo administrativo integral;
+
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+VI. Proponer al Titular del Órgano Interno de Control las asesorías y acciones de mejora y modernización de la gestión del Instituto;
 
 VII. Promover la observancia al Código de Ética que al efecto sea emitido por el Órgano Interno de Control, para que en la actuación de los servidores públicos del Instituto impere una conducta orientada a la transparencia, el combate a la corrupción y la rendición de cuentas;
 
-VIII. Proponer al Titular del Órgano Interno de Control los diagnósticos, revisiones de control, auditorías de desempeño y el seguimiento correspondiente, en términos de la normatividad aplicable, que se deban integrar al programa anual de revisión del desempeño y control interno Institucional;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
 
-IX. Realizar diagnósticos, revisiones de control, auditorías de desempeño y el seguimiento correspondiente, de manera fundada y motivada; opinar sobre el grado de avance y estado que guarda el Instituto en materia de control interno, desempeño y fortalecimiento institucional;
+VIII. Proponer al Titular del Órgano Interno de Control los diagnósticos, revisiones de control, auditorías de desempeño y el seguimiento correspondiente, que se deban integrar al programa anual de revisión del desempeño y control interno Institucional;
+
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+IX. Realizar diagnósticos, revisiones de control, auditorías de desempeño y el seguimiento correspondiente; opinar sobre el grado de avance y estado que guarda el Instituto en materia de control interno, desempeño y fortalecimiento institucional;
 
 X. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
 
@@ -2385,11 +2541,15 @@ XVI. Coordinar y elaborar los informes previo y anual de resultados de la gesti�
 
 XVII. Proponer al Titular del Órgano Interno de Control los lineamientos generales de prevención y rendición de cuentas de los servidores públicos en términos de la normatividad aplicable;
 
-XVIII. Proponer al Titular del Órgano Interno de Control las normas, manuales de organización y procedimientos, acuerdos, circulares, lineamientos y demás normatividad interna correspondientes al OIC, que conforme a las atribuciones conferidas en la normatividad aplicable, resulten procedentes;
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+XVIII. Proponer al Titular del Órgano Interno de Control las normas, manuales de organización y procedimientos, acuerdos, circulares, lineamientos y demás normatividad interna correspondientes al OIC;
 
 XIX. Las demás que le confieran otras disposiciones jurídicas aplicables, así como aquellas que le confiera el titular del Órgano Interno de Control en el ámbito de su competencia.
 
-El Titular de Auditoría para el Desarrollo y la Mejora de la Gestión, para el desempeño de sus funciones, se auxiliará del personal adscrito a la unidad administrativa a su cargo.
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2018)</small>
+
+El Titular de Auditoría para el Desarrollo y la Mejora de la Gestión, para el desempeño de sus facultades y funciones, se auxiliará del personal adscrito a la unidad administrativa a su cargo.
 
 ### CAPÍTULO XVIII. De los Órganos en Materia de Transparencia, Acceso a la Información y Protección de Datos Personales
 
@@ -2486,5 +2646,15 @@ D.O.F. 29 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley del Instituto Nacional para la Evaluación de la Educación, de la Ley Federal de Transparencia y Acceso a la Información Pública, y de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 27 de enero de 2017, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+TERCERO.- Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos administrativos que se encuentren en trámite serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 TERCERO.- Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
