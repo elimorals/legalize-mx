@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2017-12-12"
+last_updated: "2018-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -940,6 +940,10 @@ La misma sanción se impondrá a quien por error vencible se exceda en alguna de
 La punibilidad aplicable a la tentativa, salvo disposición en contrario, será de entre una tercera parte de la mínima y dos terceras partes de la máxima de las sanciones previstas para el correspondiente delito doloso consumado. Para imponer la sanción, el juez competente deberá valorar el grado a que se llegó en la ejecución del delito y la magnitud del peligro producido o no evitado al bien jurídico protegido por el mismo.
 
 En los casos de tentativa en que no fuere posible determinar el daño que se pretendió causar, cuando éste fuera determinante para la correcta adecuación de la conducta al tipo penal, se impondrá la mitad de la sanción señalada en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
+
+Cuando la tentativa corresponda al delito de feminicidio, la punibilidad aplicable será de entre la mitad de la mínima y dos terceras partes de la máxima de las sanciones previstas para el correspondiente delito doloso consumado.
 
 ### CAPÍTULO V. CONCURSO Y DELITO CONTINUADO
 
@@ -2315,7 +2319,7 @@ A las sanciones que correspondan, el mínimo y el máximo de la pena se aumentar
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE NOVIEMBRE DE 2013)</small>
 
-Se presume que no se tomaron las precauciones' ni las providencias indispensables, cuando por la edad .o condición económica del que propone los bienes, por la naturaleza o valor de éstos o por el precio en que se ofrecen, se infiera que no es propietario de los mismos o que no puede disponer de ellos legalmente.
+Se presume que no se tomaron las precauciones ni las providencias indispensables, cuando por la edad o condición económica del que propone los bienes, por la naturaleza o valor de éstos o por el precio en que se ofrecen, se infiera que no es propietario de los mismos o que no puede disponer de ellos legalmente.
 
 ###### Artículo 219.
 
@@ -4232,3 +4236,11 @@ P.O. 12 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 271 POR EL QUE “SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 92 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
