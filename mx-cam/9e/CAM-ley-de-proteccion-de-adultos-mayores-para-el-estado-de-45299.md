@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2016-05-16"
+last_updated: "2018-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -111,9 +111,9 @@ a. A una vida con calidad. Es obligación de las instituciones públicas de la c
 
 b. A no ser objeto de discriminación alguna en razón de su condición de persona adulta mayor, por su raza, lengua, dialecto, condición social, preferencias políticas o religiosas;
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2018)</small>
 
-c. A una vida libre sin violencia, por lo que se sancionará el maltrato y la violencia contra las personas adultas mayores, por actos abusivos de poder u omisión intencional, dirigidos a dominar, someter o agredir de manera física, verbal, psicológica o económica, dentro o fuera del domicilio familiar, por personas que tengan o no relación de parentesco, en términos de la legislación aplicable.
+c. A una vida libre de violencia, por lo que se sancionará el maltrato y la violencia contra las personas adultas mayores, por actos abusivos de poder u omisión intencional, dirigidos a dominar, someter o agredir de manera física, psicológica, patrimonial o económica, dentro o fuera del domicilio familiar, por personas que tengan o no relación de parentesco, en términos de la legislación aplicable;
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
 
@@ -176,6 +176,20 @@ VII. De acceso y desplazamiento:
 a. Disfrutar, preferentemente de los servicios públicos de estacionamiento vehicular; y
 
 b. A facilitar el acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
+
+ARTÍCULO 5 BIS.- Los tipos de violencia contra las personas adultas mayores son:
+
+I. Violencia Económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+II. Violencia Física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. Violencia Patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado y motivado.
+
+IV. Violencia Psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+V. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
 
 ###### ARTÍCULO 6.
 
@@ -764,3 +778,9 @@ P.O. 16 DE MAYO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 272 POR EL QUE "SE REFORMA EL INCISO C) DE LA FRACCIÓN I DEL ARTÍCULO 5 Y SE ADICIONA UN ARTÍCULO 5 BIS A LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE".]
+
+ÚNICO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
