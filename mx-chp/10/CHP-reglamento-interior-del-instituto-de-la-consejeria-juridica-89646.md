@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-la-consejeria-juridica-896
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-05"
-last_updated: "2012-09-05"
+last_updated: "2018-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,836 +21,1230 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE LA CONSEJERIA JURIDICA Y DE ASISTENCIA LEGAL EN EL ESTADO DE CHIAPAS
 
-REGLAMENTO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACÁN DE OCAMPO
+REGLAMENTO INTERIOR DEL INSTITUTO DE LA CONSEJERÍA JURÍDICA Y DE ASISTENCIA LEGAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2018.
 
-Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 4 de febrero de 1999.
+Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 5 de septiembre de 2012.
 
-VICTOR MANUEL TINOCO RUBI, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las atribuciones que al Ejecutivo a mi cargo, le confiere el artículo 60 fracción I de la Constitución Política del Estado de Michoacán, y
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Ejecutivo del Estado de Chiapas.
 
-C O N S I D E R A N D O...
+Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 44 y 47 de la Constitución Política del Estado de Chiapas; 5°,8°, 13 y 23 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y,
 
-Por lo anteriormente expuesto, tengo a bien expedir el siguiente Decreto que contiene el
+C o n s i d e r a n d o
 
-REGLAMENTO DE LA LEY DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE MICHOACÁN DE OCAMPO
+[...]
 
-### Capítulo Primero. Del objeto del reglamento
+Por los fundamentos y consideraciones antes expuestos, el Ejecutivo a mi cargo tiene a bien expedir el siguiente:
 
-###### Artículo 1º.
+Reglamento Interior del Instituto de la Consejería Jurídica y de Asistencia Legal
 
-El presente Reglamento es de orden público e interés social, y tiene por objeto regular las disposiciones establecidas en la Ley de Comunicaciones y Transportes del Estado de Michoacán de Ocampo.
+## Título Primero. Disposiciones Generales
 
-###### Artículo 2º.
+### Capítulo Único. Del Ámbito de Competencia
 
-Para los efectos del presente Reglamento se entiende por:
+###### Artículo 1°.
 
-I. Ley: La Ley de Comunicaciones y Transportes del Estado.
+Las disposiciones del presente Reglamento, son de orden público, de interés general y de observancia obligatoria para los servidores públicos adscritos al Instituto de la Consejería Jurídica y de Asistencia Legal, las cuales tienen por objeto regular las bases para la organización, funcionamiento, administración y competencia de los Órganos Administrativos que lo integran.
 
-II. Reglamento: El presente Reglamento de la Ley de Comunicaciones y Transportes del Estado.
+###### Artículo 2°.
 
-III. Ejecutivo del Estado: Titular del Poder Ejecutivo del Estado.
+El Instituto de la Consejería Jurídica y de Asistencia Legal, es una Dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el despacho de los asuntos que le confiera la Ley Orgánica de la Administración Pública del Estado de Chiapas, el presente Reglamento Interior y demás disposiciones legales aplicables dentro del ámbito de su competencia.
 
-IV. SCOP: Secretaría de Comunicaciones y Obras Públicas del Estado.
+###### Artículo 3°.
 
-V. COCOTRA: Comisión Coordinadora del Transporte Público de Michoacán.
+El Instituto de la Consejería Jurídica y de Asistencia Legal, tiene como objeto fundamental, brindar asesoría y apoyo técnico-jurídico al Gobernador del Estado, intervenir en la formulación, suscripción y trámite de los instrumentos jurídicos que éste deba suscribir, así como representarlo legalmente en los términos que establezca la Ley Orgánica de la Administración Pública del Estado de Chiapas y demás disposiciones legales aplicables, proporcionar atención, asistencia, orientación y seguimiento jurídico a la ciudadanía cuando así lo requiera.
 
-VI. SEDUE: Secretaría de Desarrollo Urbano y Ecología del Estado.
+Corresponde igualmente al Instituto de la Consejería Jurídica y de Asistencia Legal, coordinar los programas de normatividad jurídica de la Administración Pública Estatal, que apruebe el Gobernador del Estado, y procurar la congruencia entre los criterios jurídicos de las Dependencias y Entidades que la conforman; así como proporcionar los servicios de registro público de la propiedad, registro civil y modernizar los servicios de información documental, llevando un estricto control de la función notarial en el Estado; así como de la administración de los bienes patrimoniales del Estado y el sistema y registros catastrales.
 
-VII. DGSPT: Dirección General de Seguridad Pública y Tránsito del Estado.
+Por último, el Instituto de la Consejería Jurídica y de Asistencia Legal podrá brindar apoyo técnico-jurídico a las Dependencias y Entidades que integran la Administración Pública Estatal; así como a los municipios del Estado de Chiapas, siempre y cuando éstos así lo soliciten.
 
-VIII. Vía Pública: Todo espacio terrestre de uso común que se encuentre destinado a tránsito de peatones y vehículos dentro de la jurisdicción estatal y municipal, exceptuando las vías o zonas de carácter federal.
+###### Artículo 4°.
 
-IX. Transporte: La acción de transportar de un sitio a otro personas y/o cosas, mediante el conjunto de diversos medios para lograr un fin.
+El Instituto de la Consejería Jurídica y de Asistencia Legal, en coordinación con los Organismos de la Administración Pública Estatal, Gobierno Federal y Municipal, impulsarán los objetivos contemplados en el Plan Estatal de Desarrollo, en congruencia con el Plan Nacional de Desarrollo.
 
-X. Concesión: Es el acto unilateral de derecho público, por medio del cual el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, otorga autorización anual, con vigencia de un año fiscal susceptible de renovación, a una persona física o moral para prestar mediante una remuneración, el servicio de autotransporte de personas o cosas en las vías públicas de jurisdicción estatal, en vehículos autorizados de acuerdo a esta Ley y el presente Reglamento.
+###### Artículo 5°.
 
-XI. Título de Concesión: Es el documento por el que se materializa la autorización anual susceptible de renovación, que otorga el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, en favor de una persona física o moral, para prestar mediante una remuneración, el servicio de autotransporte de personas o cosas en las vías públicas de jurisdicción estatal, en vehículos autorizados de acuerdo a su modalidad.
+Para los efectos del presente Reglamento Interior, se entenderá por:
 
-XII. Permiso: Es el acto unilateral por medio del cual el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, otorga autorización hasta por un mes susceptible de renovación, a persona física o moral, para prestar mediante una remuneración, el servicio de autotransporte de personas o cosas en las vías públicas de jurisdicción estatal en vehículos autorizados, conforme a la Ley y el presente Reglamento.
+I. Ejecutivo del Estado: Al Titular del Poder Ejecutivo del Estado de Chiapas.
 
-XIII. Título de Permiso: Documento por el cual se materializa la autorización hasta por un mes, susceptible de renovación, que otorga el titular del Poder Ejecutivo del Estado a través de la COCOTRA, en favor de una persona física o moral, para la prestación del servicio público de transporte de personas o cosas.
+II. Instituto: Al Instituto de la Consejería Jurídica y de Asistencia legal.
 
-XIV. Modalidad: Son las diferentes formas en las que se presta el servicio público de transporte de pasajeros y carga, de acuerdo a lo que establece el artículo 24 de la Ley.
+III. Consejero Jurídico: Al Consejero Jurídico del Gobernador.
 
-XV. Transmisión: Es el acto mediante el cual el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, autoriza a los concesionarios transmitir los derechos y obligaciones derivados de la concesión de servicio público de transporte en todas sus modalidades, conforme a lo dispuesto por el artículo 22, párrafo segundo de la Ley.
+IV. Subconsejerías: A la Subconsejería Jurídica Normativa, Subconsejería Jurídica de Regulación Patrimonial y Subconsejería de Servicios y de Asistencia Legal.
 
-XVI. Arrendamiento: Es el acto administrativo mediante el cual el titular del Poder Ejecutivo del Estado, a través de la Comisión Coordinadora del Transporte Público de Michoacán, autoriza al concesionario a arrendar los derechos y obligaciones derivados de la concesión de servicio público de transporte en todas sus modalidades, conforme a lo dispuesto por el artículo 22, párrafo segundo de la Ley.
+V. Subconsejeros: A los Titulares de la Subconsejería Jurídica Normativa, Subconsejería Jurídica de Regulación Patrimonial y Subconsejería de Servicios y de Asistencia Legal.
 
-XVII. Conductor: Es la persona autorizada mediante licencia de chofer de servicio público, para conducir cualquier vehículo de motor terrestre que preste servicio de transporte de pasajeros y carga, incluyendo transportes escolares y especializado.
+VI. Órganos Administrativos: A la Oficina del Consejero Jurídico del Gobernador, Unidades, Subconsejerías, Direcciones y demás Órganos Administrativos que formen parte de la estructura orgánica del Instituto de la Consejería Jurídica y de Asistencia Legal.
 
-XVIII. Servicio especial de transporte de pasajeros: Es aquel que se presta por instituciones públicas o privadas, personas físicas o morales, previa expedición de concesión o permiso otorgados por el titular del Poder Ejecutivo del Estado a través de la COCOTRA, dedicadas al traslado de personal, de escolares y de personas en condiciones especiales de salud.
+VII. Ley Orgánica: A la Ley Orgánica de la Administración Pública del Estado de Chiapas.
 
-XIX. Servicio de autotransporte mixto: Será el que se preste para transportar personas y cosas en el mismo vehículo, el cual deberá acondicionarse con compartimentos para los pasajeros, para el equipaje y para la carga. Este servicio deberá tener itinerario, tarifa y horario determinados, prestándose éste únicamente en camionetas hasta de tres toneladas como máximo o en unidades de doble cabina.
+VIII. Reglamento Interior: Al Reglamento Interior del Instituto de la Consejería Jurídica y de Asistencia Legal.
 
-XX. Boleto: Comprobante de pago para los usuarios del servicio público de transporte de pasajeros.
-
-XXI. Bitácora: Documento auxiliar para la revisión vehicular autorizado por la COCOTRA, en donde se asienta la información del estado físico y documental de los vehículos, de la concesión o permiso correspondiente, el registro de los conductores, así como las infracciones al conductor, al concesionario o permisionario.
-
-XXII. Paradero: Es el espacio físico en el que convergen las diferentes modalidades del transporte público, donde puede efectuarse la transferencia modal de pasajeros.
-
-XXIII. Base: Es el espacio físico en la vía pública o en el lugar autorizado por la COCOTRA, donde permanecen temporalmente estacionados los vehículos concesionados o permisionados.
-
-XXIV. Parada: Es la zona de ascenso y descenso de pasajeros autorizada por la COCOTRA para los vehículos de servicio público o especializado de transporte de pasajeros.
-
-XXV. Sitio: Es el lugar definido por las autoridades municipales y de tránsito, autorizado por el Ejecutivo del Estado, a través de la COCOTRA, en donde los concesionarios o permisionarios autorizados para prestar el servicio público, en su modalidad de autos de alquiler, carga ligera y mixto esperan a que el usuario solicite sus servicios.
-
-XXVI. Radio taxi: Es el grupo legalmente organizado de concesionarios y permisionarios, del servicio público de transporte, en la modalidad de autos de alquiler, los que deberán reunir como requisito fundamental, además de las autorizaciones por parte del Ejecutivo del Estado, a través de la COCOTRA, los permisos de los usos de frecuencia de radio, y distintivos oficiales.
-
-XXVII. Base de radio taxi: Lugar donde se controlan las unidades que prestan el servicio público de autos de alquiler, organizados en radio taxis, previo cumplimiento de los requisitos que el titular del Poder Ejecutivo del Estado a través de la COCOTRA, solicita.
-
-XXVIII. Colores, numerales y distintivos: Son las autorizaciones que el Ejecutivo del Estado a través de la COCOTRA, otorga para las unidades del servicio público de transporte en sus diferentes modalidades.
-
-XXIX. Terminal: Es el espacio físico en el cual las unidades de servicio público foráneo de primera y segunda clase, deberán hacer el ascenso y descenso de pasajeros.
-
-XXX. Registro Público de Transporte: Es el registro de los concesionarios y permisionarios, del parque vehicular y de los conductores que prestan el servicio público de transporte, cuyo control y responsabilidad será a cargo de la COCOTRA.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 6°.
 
-Al frente de la COCOTRA, estará un Coordinador quien será designado por el Gobernador del Estado, quien tendrá las siguientes funciones:
+Los titulares de los Órganos Administrativos que integran el Instituto, implementarán acciones para la protección, custodia, resguardo y conservación de los archivos a su cargo, en los términos de la normatividad en materia de transparencia en el Estado.
 
-l. Dirigir todas las actividades de la Comisión para el cumplimiento de sus atribuciones;
+## Título Segundo. De la Organización del Instituto y Atribuciones del Consejero Jurídico
 
-II. Representar legalmente al organismo;
+### Capítulo I. De la Estructura Orgánica del Instituto
 
-III. Nombrar y remover al personal administrativo y operativo de la Comisión, señalándole sus funciones;
+###### Artículo 7°.
 
-IV. Someter a consideración del Gobernador del Estado los planes y programas de trabajo y los asuntos de relevante importancia en materia de transporte público;
+Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, así como para el despacho de los asuntos de su competencia, el Instituto tendrá los Órganos Administrativos siguientes:
 
-V. Presentar al Gobernador del Estado, para su aprobación en su caso, la propuesta de reglamento interior del organismo;
+I. Oficina del C. Consejero Jurídico del Gobernador
 
-VI. Integrar y ejecutar los planes y programas de trabajo de la Comisión; y,
+a) Unidad de Apoyo Administrativo
 
-VII. Las demás que le asigne el Gobernador del Estado de conformidad con la Ley o este Reglamento, o que se establezcan en otras disposiciones jurídicas aplicables.
+b) Unidad de Informática
 
-La COCOTRA contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones.
+c) Unidad de Planeación
 
-###### Artículo 7º.
+II. Subconsejería Jurídica Normativa
 
-El Comité Técnico Consultivo de Transporte, tendrá las siguientes funciones:
+a) Dirección de Normatividad
 
-I. Auxiliar al titular del Poder Ejecutivo del Estado, cuando lo requiera, sobre la realización de estudios de factibilidad sobre la necesidad del servicio público en las regiones del Estado con la finalidad de analizar la posible autorización de sistemas modales de transporte, concesiones y permisos;
+b) Dirección de Asuntos Fiscales y Administrativos
 
-II. A solicitud del titular del Poder Ejecutivo, asesorarlo, en el establecimiento de tarifas, orientación al público usuario y solución de conflictos que se generen en la prestación del servicio, así como, en la celebración de convenios con autoridades federales y municipales del sector; y,
+c) Dirección de lo Contencioso
 
-III. Promover conjuntamente con las autoridades competentes, la educación, capacitación e investigación en las materias relacionadas con el sector del transporte en el Estado.
+d) Dirección de Asuntos Constitucionales
 
-### Capítulo Segundo. De las autoridades y sus atribuciones
+III. Subconsejería Jurídica de Regulación Patrimonial
 
-###### Artículo 3º.
+a) Dirección del Registro Público de la Propiedad y del Comercio
 
-Son autoridades estatales en materia de transporte público:
+b) Dirección de Patrimonio
 
-I. El Gobernador del Estado;
+c) Dirección de Catastro Urbano y Rural
 
-II. El Secretario de Comunicaciones y Obras Públicas;
+IV. Subconsejería de Servicios y de Asistencia Legal
 
-III. La Comisión Coordinadora del Transporte Público de Michoacán; y,
+a) Dirección de Archivo General y Notarías del Estado
 
-IV. Los titulares de aquellas dependencias y entidades que la legislación de la materia así lo determine.
+b) Dirección del Registro Civil del Estado
 
-###### Artículo 4º.
-
-Son atribuciones de la COCOTRA las siguientes:
-
-I. Fijar las políticas de concesión y operación del servicio público de transporte en todas sus modalidades, que el titular del Poder Ejecutivo determine para responder al interés de los usuarios;
-
-II. Dictaminar en cada caso concreto que se presente a su consideración sobre vialidad, operación, control de servicio y otorgamiento de concesiones y permisos por acuerdo del Gobernador del Estado, preservando el interés público y el cumplimiento de la Ley de este Reglamento;
-
-III. Integrar y formar parte del Comité Técnico Consultivo de Transporte, y de las Comisiones Municipales, necesarios para la mejor prestación del servicio público de transporte;
-
-IV. Otorgar la autorización respectiva en coordinación con las autoridades competentes, para que empresas de transportistas o instituciones educativas o particulares lleven acabo la capacitación a conductores de acuerdo con el programa diseñado y autorizado por ésta; y,
-
-V. Las demás que le asigne el Gobernador del Estado de conformidad con la Ley o este Reglamento, o que se establezcan en otras disposiciones jurídicas aplicables.
-
-###### Artículo 5º.
-
-En materia de transporte público de carga, la COCOTRA además de las atribuciones contenidas en el artículo anterior, tendrá las siguientes:
-
-I. Planear, concesionar por acuerdo del titular del Poder Ejecutivo, autorizar, coordinar, controlar y supervisar los servicios del transporte de carga que se presten en el territorio y jurisdicción del Estado;
-
-II. Expedir las normas técnicas necesarias en materia de transporte de carga en el Estado;
-
-III. Establecer los itinerarios, horarios, restricciones a la circulación y estacionamiento, rutas especiales, así como las especificaciones del transporte de carga en el Estado;
-
-IV. Establecer o reubicar los sitios, estaciones de servicio del transporte de carga en el Estado;
-
-V. Fijar los requisitos del transporte de carga en el Estado en base al peso, volumen y dimensiones de la carga con respecto al vehículo, a fin de dar mayor fluidez y velocidad al tránsito vehicular;
-
-VI. Exigir que las características y condiciones del transporte de carga, satisfagan los requisitos del tipo de carga que se transporte, impidiendo su operación en caso contrario;
-
-VII. Establecer la señalización de carácter informativo, que defina y haga claras las rutas de carga, las de penetración y prohibición para la circulación del transporte de carga;
-
-VIII. Dictar en todo tiempo las disposiciones administrativas para la presentación de las solicitudes relativas al otorgamiento de concesiones y permisos;
-
-IX. Vigilar, inspeccionar y verificar los servicios de transporte en la materia de este Reglamento, que proporcionen los concesionarios y permisionarios, sin perjuicio de las facultades que competan a otras autoridades; y,
-
-VI (sic). Las demás que le asigne el Gobernador del Estado de conformidad con la Ley o este Reglamento, o que se establezcan en otras disposiciones jurídicas aplicables.
+c) Dirección del Abogado del Pueblo
 
 ###### Artículo 8°.
 
-El Comité Técnico Consultivo del Transporte, será un órgano colegiado que estará integrado por:
+El Consejero Jurídico, para el cumplimiento de sus atribuciones, contará con la estructura orgánica y plantilla de personal necesario, de conformidad con el presupuesto de egresos que le sea autorizado al Instituto.
 
-I. El Coordinador de la COCOTRA, quien lo presidirá;
+###### Artículo 9°.
 
-II. El Director del Transporte del Estado, quien fungirá como secretario técnico;
+Para el despacho de los asuntos competencia del Instituto, los Titulares de los Órganos Administrativos desempeñaran las atribuciones conferidas en el presente Reglamento Interior.
 
-III. Un representante de las dependencias estatales relacionadas con el sector, según el asunto de que se trate; y,
-
-IV. Un representante de los ayuntamientos de los municipios, según el asunto de que se trate.
-
-Podrán participar en las sesiones del Consejo, a través de invitación expresa que formule el Presidente, un representante de las organizaciones de transportistas registradas ante la COCOTRA, de instituciones educativas y de organizaciones sociales o civiles, que tengan relación con el asunto a tratar.
-
-El Consejo celebrará sesiones ordinarias cuando menos cuatro veces al año, y extraordinarias cada vez que el Presidente convoque atendiendo a las necesidades que se tengan.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 10.
 
-El titular de la COCOTRA, de conformidad con las facultades que le otorga la Ley, publicará en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en la entidad, en el último trimestre de cada año, un dictamen que contenga el balance entre la oferta y la demanda del servicio público de autotransporte en todas sus modalidades, mismo que podrá, en su caso, contener la declaratoria de necesidad pública del servicio.
+El desempeño de los servidores públicos del Instituto, se regirá por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 ###### Artículo 11.
 
-El otorgamiento de la concesión o permiso estará sujeta a los requerimientos de la planeación del tránsito y transporte en el Estado, y en base a los estudios técnicos que al efecto lleve a cabo la COCOTRA, de conformidad con las facultades que le otorga la Ley, para lo cual emitirá declaratoria de necesidad pública del servicio.
+El Instituto, a través de su estructura orgánica, conducirá y desarrollará sus atribuciones en forma planeada y programada, con sujeción a los objetivos, estrategias y prioridades que establezca el Plan Estatal de Desarrollo, Ley Orgánica de la Administración Pública del Estado de Chiapas, el presente Reglamento Interior, el Ejecutivo del Estado y demás disposiciones aplicables.
 
-### Capítulo Tercero. De las concesiones y permisos
-
-###### Artículo 9º.
-
-Corresponde al titular del Poder Ejecutivo del Estado la prestación del servicio público de autotransporte por si o a través de los organismos públicos que estime pertinentes para tal efecto, así como también, el otorgamiento de concesiones y permisos a los particulares en los términos que establece la Ley y el presente Reglamento, cuando las necesidades del servicio así lo requieran.
+### Capítulo II. De las Atribuciones del Consejero Jurídico
 
 ###### Artículo 12.
 
-Una vez publicada la declaratoria de necesidad pública del servicio, la COCOTRA, tendrá un término de quince días hábiles para la expedición de la convocatoria; las solicitudes de concesion para la prestación de un servicio público que hayan sido materia de dicha declaratoria se hará en forma personal y directa, y en el caso de personas morales deberán acompañar la documentación que acredite su naturaleza jurídica; las solicitudes se presentarán por escrito ante la COCOTRA, en original y copia con sus anexos.
+La representación, trámite y resolución de los asuntos competencia del Instituto, corresponden originalmente al Consejero Jurídico, quien para el desempeño eficaz de sus atribuciones, podrá delegarlas en los servidores públicos subalternos, sin perjuicio de su ejercicio directo, con excepción de las que por su naturaleza sean indelegables.
 
 ###### Artículo 13.
 
-En igualdad de circunstancias, se dará preferencia a las personas que acrediten tener cinco años o más prestando el servicio solicitado como conductores, que cuenten con licencia de chofer del servicio público durante ese tiempo y que no exista en su expediente sanciones o amonestaciones.
+El Consejero Jurídico, tendrá las atribuciones delegables siguientes:
+
+I. Representar legalmente al Instituto en el ámbito de su competencia, ante toda clase de autoridades, organismos, instituciones y personas públicas o privadas, nacionales e internacionales.
+
+La representación a que se refiere esta fracción, comprende el ejercicio de todo tipo de acciones y constituye una representación amplísima.
+
+II. Vigilar que las acciones competencia del Instituto, se realicen de conformidad con las normas, políticas y procedimientos establecidos.
+
+III. Celebrar y suscribir convenios, contratos y demás actos de carácter administrativo, relacionados con los asuntos competencia del Instituto.
+
+IV. Conocer y resolver los asuntos de carácter administrativo y laboral relacionados con la administración de los recursos humanos, financieros y materiales del Instituto.
+
+V. Otorgar las vacaciones, identificaciones oficiales e incidencias del personal adscrito al Instituto.
+
+VI. Expedir constancias y certificar documentos oficiales que obren en los archivos del Instituto.
+
+VII. Convocar a reuniones de trabajo al personal adscrito en los diferentes Órganos Administrativos del Instituto.
+
+VIII. Vigilar que se ejecuten con eficiencia las actividades técnicas, administrativas y financieras del Instituto.
+
+IX. Participar en las comisiones, congresos, consejos, instituciones, entidades, reuniones, juntas y organizaciones nacionales e internacionales, en el ámbito competencia del Instituto.
+
+X. Vigilar que las sanciones a que se hagan acreedores los servidores públicos adscritos al Instituto, se realicen conforme a la legislación aplicable.
+
+XI. Impulsar acciones tendentes a promover la capacitación y actualización de los servidores públicos del Instituto.
+
+XII. Establecer coordinación con las Dependencias y Entidades de la Administración Pública Estatal para la integración de los Programas de Normatividad Jurídica; así como para mantener actualizado el acervo jurídico del Estado.
+
+XIII. Vigilar que se cumplan los preceptos constitucionales en cuanto al ámbito procesal se refiere, tratándose de juicios de amparo y controversias constitucionales.
+
+XIV. Otorgar asesoría técnica jurídica a las Dependencias y Entidades de la Administración Púbica Estatal; así como a los municipios en los asuntos que instruya el Ejecutivo del Estado o cuando así lo soliciten.
+
+XV. Vigilar que se realice la actualización constante del acervo jurídico del Instituto.
+
+XVI. Establecer políticas para la administración del Registro Civil, Registro Público de la Propiedad y del Comercio, y Archivo General y Notarias del Estado.
+
+XVII. Proporcionar asesoría jurídica a la ciudadanía chiapaneca de escasos recursos cuando así lo requieran, a través del Abogado del Pueblo.
+
+XVIII. Vigilar que la compilación y publicación de los ordenamientos jurídicos Estatales, se realice de conformidad con las leyes aplicables.
+
+XIX. Establecer normas y mecanismos para la administración y avaluó de los bienes del Estado, almacenes e inventarios; así como llevar a cabo el proceso de adquisición e incorporación de los mismos, de conformidad con las leyes aplicables.
+
+XX. Establecer la enajenación de los bienes inmuebles a cargo de la Administración Pública Estatal, previa autorización del Congreso del Estado.
+
+XXI. Implementar acciones para la planeación, organización y desarrollo de los programas que le sean asignados, de acuerdo a las políticas establecidas, optimizando los recursos autorizados para lograr el buen funcionamiento del Instituto.
+
+XXII. Establecer coordinación interna para el cumplimiento de los programas y proyectos técnicos y administrativos ejecutados por el Instituto.
+
+XXIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Ejecutivo del Estado; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 14.
 
-Los estudios a que se refiere el artículo 11 del presente Reglamento, deberán contener:
+El Consejero Jurídico, tendrá las atribuciones indelegables siguientes:
 
-I. Ruta o lugar de operación;
+I. Representar legalmente al Ejecutivo del Estado, ante toda clase de autoridades, organismos, instituciones y personas públicas o privadas, nacionales e internacionales.
 
-II. Unidades de servicio, según la modalidad, con especificación del número, clase, tipo, capacidad, peso o tara y demás características que se juzguen necesarias respecto de los vehículos que se destinarán al servicio;
+La representación a que se refiere esta fracción, comprende el ejercicio de todo tipo de acciones y constituye una representación amplísima.
 
-III. Fondo de reserva que haya de constituir el concesionario y permisionario, con el objeto de asegurar la renovación oportuna del parque vehicular, así como, para hacer frente a las contingencias y eventualidades inherentes al servicio, en los casos que corresponda; y,
+II. Emitir y/o establecer las normas, políticas y procedimientos aplicables en las acciones competencia del Instituto.
 
-IV. Aforos de origen y destino.
+III. Celebrar y suscribir acuerdos, contratos, convenios y demás actos jurídicos relacionados con los asuntos competencia del Instituto.
 
-### Capítulo Cuarto. De los itinerarios, tarifas y horarios
+IV. Emitir documentos administrativos para el suministro y control de los recursos del Instituto.
+
+V. Presentar al Ejecutivo del Estado, los programas, proyectos e Informe de Gobierno competencia del Instituto e informar a éste sobre el avance de los mismos.
+
+VI. Presentar al Ejecutivo del Estado, a través de la instancia normativa, el Anteproyecto del Presupuesto de Egresos, Programa Operativo Anual, la Cuenta de la Hacienda Pública y Proyectos de Tecnología de Información del Instituto.
+
+VII. Emitir resoluciones que sean competencia del Instituto, conforme a las disposiciones legales aplicables.
+
+VIII. Otorgar el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal del Instituto.
+
+IX. Aprobar y expedir proyectos de Reglamento Interior y Manuales Administrativos del Instituto.
+
+X. Solicitar a la instancia correspondiente, el fortalecimiento estructural de los Órganos Administrativos y de plantilla de plazas del Instituto.
+
+XI. Designar al personal que requiere para el despacho de los asuntos, competencia del Instituto.
+
+XII. Participar en la suscripción de convenios, contratos, y demás actos jurídicos relacionados con las acciones competencia del Instituto que celebre el Ejecutivo del Estado, con Instituciones de los tres niveles de Gobierno; así como con el sector privado y social.
+
+XIII. Designar a los representantes del Instituto, en las comisiones, congresos, consejos, órganos de gobierno, instituciones, entidades, reuniones, juntas y organizaciones nacionales e internacionales, en las que éste participe.
+
+XIV. Comparecer ante el Congreso del Estado, para informar sobre la situación que guarda el Instituto.
+
+XV. Imponer las sanciones administrativas y laborales que procedan, conforme a las disposiciones legales aplicables.
+
+XVI. Refrendar las Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones jurídicas, competencia del Instituto.
+
+XVII. Otorgar, revocar y sustituir poderes en términos de la legislación aplicable.
+
+XVIII. Representar y asistir al Ejecutivo del Estado, en los diversos actos en que éste participe en la Administración Pública Federal, Estatal o Municipal.
+
+XIX. Asistir a las reuniones a las que sea convocado por el Ejecutivo del Estado; así como acordar con éste, los asuntos encomendados al Instituto que así lo ameriten, desempeñando las comisiones y funciones que le confieran, manteniéndolo informado sobre el desarrollo y resultado de las mismas.
+
+XX. Aprobar las disposiciones normativas, técnicas y administrativas para la mejor organización y funcionamiento del Instituto.
+
+XXI. Proporcionar asesoría técnica jurídica al Ejecutivo del Estado, en los asuntos que este le instruya.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXII. Emitir la validación de los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos, Convenios y demás ordenamientos jurídicos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+
+XXIII. Presentar al Ejecutivo del Estado, los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones jurídicas para su consideración o suscripción correspondiente.
+
+XXIV. Emitir la validación de los documentos jurídicos que en materia de su competencia, expidan los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, cuando por su naturaleza jurídica no deban suscribirse por el Ejecutivo del Estado.
+
+XXV. Fungir como Presidente de la Comisión de Estudios Jurídicos del Gobierno Estatal; así como expedir las reglas de operación interna y conducir las actividades de la misma.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXVI. Emitir la validación de los informes que las Dependencias y Entidades de la Administración Pública Estatal, rendirán a los organismos defensores de los derechos humanos, para dar atención a las quejas presentadas por los gobernados, así como a las medidas precautorias, propuestas conciliatorias y recomendaciones que emitan dichos organismos.
+
+XXVII. Desempeñar el cargo de notario público en los actos en que participe el Ejecutivo del Estado; así como designar a los Notarios Públicos que intervendrán en los actos en los que éste participe.
+
+XXVIII. Presentar al Ejecutivo del Estado para su consideración o suscripción correspondiente, los proyectos de iniciativas de Leyes y Decretos que deban presentarse ante el Congreso del Estado.
+
+XXIX. Designar a destacados juristas en diversas áreas del derecho con carácter honorífico, como asesores externos del Instituto.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXX. Emitir opiniones jurídicas, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos, a solicitud de las Dependencias y/o Entidades de la Administración Pública Estatal; así como definir y unificar criterios para la interpretación de las disposiciones jurídicas que norman el funcionamiento de las mismas.
+
+XXXI. Emitir la certificación de los documentos de carácter jurídico administrativo que emita el Ejecutivo del Estado, las Dependencias y Entidades de la Administración Pública Estatal; así como dar fe de los mismos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXXII. Otorgar la validación correspondiente, a los Dictámenes de Acuerdos de Pensión, emitidos por el Titular del Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXXIII. Designar a la persona que representará al Instituto, ante la Comisión Estatal de Mejora Regulatoria.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXXIV. Vigilar la correcta administración del Sistema de Registro Único de Trámites y Servicios (RUTyS).
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXXV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Ejecutivo del Estado; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+## Título Tercero. De los Órganos Administrativos del Instituto
+
+### Capítulo I. De la integración de la Oficina del Consejero Jurídico y Atribuciones de sus Titulares
 
 ###### Artículo 15.
 
-Las personas físicas interesadas en obtener concesiones o permisos para la prestación del servicio público de transporte en sus diferentes modalidades, deberán acompañar a su solicitud en original y copia para su debido cotejo ante la COCOTRA, los documentos que correspondan y cumplir los requisitos siguientes:
+La Oficina del Consejero Jurídico estará integrada por los Órganos Administrativos siguientes:
 
-a) Copia certificada del acta de nacimiento;
+a) Unidad de Apoyo Administrativo.
 
-b) Presentar licencia de chofer del servicio público vigente, y en el caso de ser mayor de 60 años credencial de elector;
+b) Unidad de Informática.
 
-c) Carta de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado, de residencia y buena conducta por los ayuntamientos del lugar donde sea solicitada la concesión;
-
-d) Presentar factura del o los vehículos que se destinarán a la prestación del servicio, los que deberán tener una antigüedad máxima de doce años, y pago de tenencia al corriente, en caso de permiso provisional temporal el vehículo a registrar deberá portar placas del servicio particular a nombre del interesado;
-
-e) Presentar proyecto que ponga de manifiesto la forma en que el solicitante llevará a cabo la prestación del servicio público; y,
-
-f) Certificado de no concesión, expedido por la Dirección de Transportes.
+c) Unidad de Planeación.
 
 ###### Artículo 16.
 
-Las personas morales interesadas en obtener concesiones o permisos del servicio público de transporte en sus diferentes modalidades, deberán acompañar a su solicitud ante la COCOTRA, en original y copia para su debido cotejo los documentos que correspondan y cumplir los requisitos siguientes:
+Para el despacho de los asuntos, competencia del Instituto, los Titulares de las Unidades, tendrán, las atribuciones generales siguientes:
 
-a) Copia certificada de la escritura constitutiva de la sociedad, así como copia del Acuerdo de Registro ante la autoridad competente. Cuando la sociedad ya sea concesionaria, se citará su número de escritura constitutiva y se acompañará con copia certificada del registro anterior;
+I. Acordar con el Consejero Jurídico, la resolución y despacho de los asuntos de su competencia, e informar el avance de los mismos.
 
-b) Acreditar la personalidad jurídica del representante legal;
+II. Proponer al Consejero Jurídico, las normas, políticas y procedimientos en materia de su competencia y vigilar el cumplimiento de las mismas.
 
-c) Presentar, facturas o carta facturas del o los vehículos que se destinarán a la prestación del servicio. En caso de permiso provisional el vehículo a registrar deberá portar placas del servicio particular a nombre del interesado; y,
+III. Proponer al Consejero Jurídico, las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones jurídicas y administrativas, en materia de su competencia.
 
-d) Presentar proyecto que ponga de manifiesto la forma en que se llevará a cabo la prestación del servicio público. Cuando se trate de establecer nuevos sistemas o rutas se agregarán los planos y documentos donde se especifiquen dichos sistemas, itinerarios a seguir y el equipo que se pretende utilizar.
+IV. Establecer sistemas de control técnicos-administrativos en las acciones competencia de los Órganos Administrativos a su cargo.
+
+V. Implementar acciones para la planeación, organización y desarrollo de los programas que le sean asignados, de acuerdo a las políticas establecidas, optimizando los recursos autorizados para lograr el buen funcionamiento del Instituto.
+
+VI. Vigilar que las acciones competencia de los Órganos Administrativos a su cargo, se realicen de conformidad con las normas, políticas y procedimientos establecidos.
+
+VII. Convocar a reuniones de trabajo, al personal adscrito en los diferentes Órganos Administrativos a su cargo.
+
+VIII. Establecer coordinación interna para el cumplimiento de los programas y proyectos técnicos y administrativos ejecutados por el Instituto.
+
+IX. Vigilar que se ejecuten con eficiencia las actividades técnicas, administrativas y financieras de los Órganos Administrativos a su cargo.
+
+X. Proponer el Anteproyecto de Presupuesto Anual de Egresos y el Programa Operativo Anual, de los Órganos Administrativos a su cargo.
+
+XI. Vigilar el cumplimiento de las Leyes, Reglamentos, Decretos, Acuerdos, Circulares y demás disposiciones relacionadas con el funcionamiento y los servicios de los Órganos Administrativos a su cargo.
+
+XII. Proporcionar los documentos, opiniones e informes de su competencia que les sean solicitados por el Consejero Jurídico o los Órganos Administrativos que conforman al Instituto.
+
+XIII. Proponer al Consejero Jurídico, el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal a su cargo.
+
+XIV. Otorgar las vacaciones e incidencias del personal a su cargo.
+
+XV. Comunicar al personal a su cargo, las remociones o cambios de adscripción a que sean sometidos.
+
+XVI. Proponer al Consejero Jurídico, el fortalecimiento estructural de los Órganos Administrativos y de la plantilla de plazas a su cargo.
+
+XVII. Proponer y participar en la organización de cursos de capacitación y conferencias que se impartan al personal adscrito al Instituto.
+
+XVIII. Desempeñar e informar el resultado de las comisiones y representaciones que le sean encomendadas por el Consejero Jurídico, en el ámbito de su competencia.
+
+XIX. Proponer proyectos de elaboración o actualización de las atribuciones para integrar el Reglamento Interior; así como las funciones, procedimientos y servicios para los Manuales Administrativos del Instituto.
+
+XX. Vigilar que las actividades sean ejecutadas con eficacia por el personal adscrito en cada uno de los Órganos Administrativos a su cargo.
+
+XXI. Proponer o designar al personal que requiere para el despacho de los asuntos, competencia de los Órganos Administrativos a su cargo.
+
+XXII. Atender, en el ámbito de su competencia, las solicitudes de información pública que realice la ciudadanía.
+
+XXIII. Participar en las Comisiones, Congresos, Consejos, Instituciones, Reuniones, Juntas y Organizaciones Nacionales e Internacionales, en el ámbito de su competencia.
+
+XXIV. Expedir constancias y certificar documentos oficiales que obren en los archivos a su cargo.
+
+XXV. Proponer al Consejero Jurídico, la celebración y suscripción de convenios y acuerdos de colaboración con organismos gubernamentales, no gubernamentales, sociales, nacionales e internacionales, para el fortalecimiento de los servicios que proporciona el Instituto.
+
+XXVI. Proporcionar, previo acuerdo con el Consejero Jurídico, la información o la cooperación técnica o jurídica que les sea requerida por otras instancias de los Gobiernos Federal, Estatal y Municipal.
+
+XXVII. Coordinar la integración de la información necesaria de la Unidad a su cargo, de acuerdo a la estructura orgánica, para la elaboración del informe de Gobierno y la comparecencia del Consejero Jurídico ante el Congreso del Estado, de acuerdo a los criterios que emitan las Dependencias normativas.
+
+XXVIII. Emitir opinión respecto a los convenios, contratos y autorizaciones que celebre u otorgue el Instituto, que contengan aspectos de su competencia y suscribirlos cuando se les delegue esta facultad expresamente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXIX. Proporcionar la información necesaria a la Dirección de lo Contencioso, para elaborar los informes previos y justificados que requieran los jueces federales en materia de amparo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 17.
 
-Dentro de los quince días hábiles siguientes, a la fecha de presentación, la COCOTRA, procederá al examen de la solicitud y a la revisión de sus anexos. Si encuentra alguna irregularidad, lo hará saber al interesado, para que la subsane en el plazo de quince días hábiles.
+El Titular de (sic) la Unidad de Apoyo Administrativo, estará integrada por los Órganos Administrativos siguientes:
 
-La notificación correspondiente se hará por correo certificado con acuse de recibo y mediante aviso que se fije durante tres días en el estrado de las oficinas de la COCOTRA.
+a) Área de Recursos Humanos.
 
-Si en el plazo de quince días hábiles no se subsanan las irregularidades, se tendrá por rechazada la solicitud y ésta se archivará.
+b) Área de Recursos Financieros y Contabilidad.
+
+c) Área de Recursos Materiales y Servicios Generales.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+###### Artículo 17 Bis.
+
+El Titular de la Unidad de Apoyo Administrativo, tendrá las atribuciones siguientes:
+
+I. Vigilar el cumplimiento de las disposiciones administrativas en materia de recursos humanos, financieros y materiales, a cargo del Instituto.
+
+II. Administrar los recursos humanos, financieros, materiales y servicios asignados al Instituto, con base en las normas, políticas y procedimientos establecidos.
+
+III. Presentar para firma del Consejero Jurídico, los documentos administrativos para el suministro y control de los recursos humanos, financieros y materiales del Instituto.
+
+IV. Celebrar y suscribir convenios, contratos y toda clase de actos administrativos, relacionados con los asuntos competencia del Instituto.
+
+V. Suscribir y gestionar los movimientos nominales e incidencias del personal del Instituto, para su trámite ante la instancia normativa correspondiente.
+
+VI. Vigilar el control y resguardo de la nómina de sueldos y demás prestaciones del personal adscrito al Instituto, de conformidad con la normatividad establecida.
+
+VII. Presentar al Consejero Jurídico para su autorización, la adecuación de la estructura orgánica y plantilla de plazas, solicitadas por los Órganos Administrativos que integran al Instituto.
+
+VIII. Presentar para aprobación del Consejero Jurídico, los cambios necesarios para el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias, así como la suspensión y reanudación de los pagos del personal adscrito al Instituto.
+
+IX. Comunicar la remoción y los cambios de adscripción al trabajador involucrado, así como a los titulares de los órganos administrativos correspondientes, los cuales se apliquen por necesidades del servicio, previamente autorizados por el Consejero Jurídico.
+
+X. Establecer las políticas para el control de asistencia del personal del Instituto.
+
+XI. Promover proyectos de capacitación, adiestramiento, desarrollo del personal del Instituto para su profesionalización; así como actividades de recreación para la convivencia de los mismos.
+
+XII. Proponer al Consejero Jurídico, proyectos de elaboración o actualización de los Manuales Administrativos del Instituto.
+
+XIII. Vigilar dentro del ámbito de su competencia, que las adquisiciones y abasto de materiales; así como la conservación, mantenimiento y reparación de bienes muebles e inmuebles, se apeguen a los ordenamientos legales establecidos.
+
+XIV. Establecer coordinación con los Órganos Administrativos, para la integración de las comisiones de seguridad e higiene del Instituto.
+
+XV. Solicitar, en representación del Consejero Jurídico, las modificaciones al presupuesto autorizado del Instituto, ante la instancia normativa correspondiente a través de adecuaciones presupuestarias, con sustento en las normas presupuestarias vigentes para la Administración Pública del Estado.
+
+XVI. Realizar la ejecución y control del ejercicio del presupuesto anual de egresos del Instituto, aplicando las partidas presupuestarias asignadas a la misma y en atención a las disposiciones aplicables.
+
+XVII. Efectuar ante las instituciones bancarias respectivas, el registro de los apoderados para la liberación de cheques de las cuentas bancarias mancomunadas del Instituto, aperturadas por la Tesorería Única de la Secretaría de Hacienda.
+
+XVIII. Proveer de recursos humanos, financieros, materiales y servicios a los Órganos Administrativos que conforman al Instituto; conforme a las necesidades y presupuesto autorizado, aplicando la normatividad vigente.
+
+XIX. Conocer y resolver los asuntos de carácter administrativo y laboral relacionados con la administración de los recursos humanos, financieros y materiales del Instituto.
+
+XX. Vigilar en el ámbito de su competencia, el cumplimiento a la ejecución de sanciones laborales y administrativas, a que se haga acreedor el personal adscrito al Instituto.
+
+XXI. Coordinar y gestionar las acciones administrativas necesarias, relacionadas para la recuperación de los bienes patrimoniales del Instituto ante las instancias normativas correspondientes.
+
+XXII. Coordinar las sesiones del Subcomité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios del Instituto.
+
+XXIII. Coordinar el Programa Interno de Protección Civil del Instituto, en el ámbito de su competencia.
+
+XXIV. Informar mensualmente a la Unidad de Planeación, sobre el estado presupuestario, y cuentas bancarias provenientes de recursos federales del Instituto, para la evaluación e información correspondiente ante las instancias normativas.
+
+XXV. Coordinar la elaboración del Programa Operativo Anual y del Anteproyecto de Presupuesto de Egresos del Instituto, en su aspecto cuantitativo, con base en la normatividad vigente, a efecto de tramitar su autorización ante la Dependencias (sic) normativa correspondiente.
+
+XXVI. Gestionar y otorgar las identificaciones oficiales del personal adscrito al Instituto.
+
+XXVII. Vigilar y coordinar las acciones relacionadas con los procesos de entrega-recepción del Instituto.
+
+XXVIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 18.
 
-La COCOTRA, a través del Departamento de Vialidad y Reglamentación, realizará el estudio comparativo y los dictámenes correspondientes, así como, analizará los expedientes con el objeto de emitir opinión técnica sobre el sentido en que deba dictarse la resolución sobre las solicitudes presentadas.
+El Titular de la Unidad de Informática, tendrá las atribuciones siguientes:
+
+I. Proponer al Consejero Jurídico, proyectos de tecnologías de información, de servicios electrónicos y de informática, para contribuir en la calidad de los servicios que proporciona el Instituto.
+
+II. Vigilar el cumplimiento de las disposiciones en materia de tecnologías de la información, servicios electrónicos y de informática en las acciones de los Órganos Administrativos del Instituto.
+
+III. Contribuir en la remisión y otorgamiento de información vía electrónica, con los Órganos Administrativos del Instituto en términos de las disposiciones de acceso a la información y transparencia que resulten aplicables.
+
+IV. Proporcionar asesoría, capacitación y asistencia técnica, en materia de tecnologías de información, al personal de los Órganos Administrativos que conforman al Instituto.
+
+V. Proponer al Consejero Jurídico, la normatividad y los programas de desarrollo de sistemas, en base a la actualización tecnológica y óptima utilización de los equipos y programas de cómputo.
+
+VI. Establecer coordinación con las instancias normativas y participar en los Comités, Consejos y Comisiones integrados para mejora de los servicios electrónicos, de innovación y en general los relacionados con tecnologías de la información.
+
+VII. Vigilar que la supervisión de la administración y operación de equipos y sistemas instalados en los Órganos Administrativos del Instituto, sea de conformidad con la normatividad establecida.
+
+VIII. Implementar las acciones necesarias para la planeación, organización y desarrollo de las actividades y uso de tecnologías de información del Instituto.
+
+IX. Establecer y homologar las bases de datos del Instituto, con la información procedente de los sistemas generados por las instancias normativas, facilitando el manejo y uso de la información a través de cualquier sistema informático.
+
+X. Monitorear el acceso y asignación de cuentas de red de datos al interior del Instituto.
+
+XI. Difundir las políticas, normas y procedimientos de carácter general en materia de Internet para regir y promover la seguridad, optimización y aprovechamiento de los recursos informáticos.
+
+XII. Realizar el análisis para determinar la viabilidad de los proyectos de automatización propuestos por los Órganos Administrativos conforme al marco legal establecido por la instancia normativa correspondiente.
+
+XIII. Preparar los proyectos para la adquisición de los bienes y servicios informáticos que coadyuven a satisfacer las necesidades de los Órganos Administrativos del Instituto requiera, con base a las necesidades del servicio y el presupuesto autorizado, así como el proceso de baja de los mismos.
+
+XIV. Coordinar la actualización de la página Web del Instituto y de las direcciones conforme a las normas y criterios vigentes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XV. Administrar el Sistema de Registro Único de Trámites y Servicios (RUTyS), manteniéndolo actualizado en relación a los servicios que prestan los diversos órganos administrativos del Instituto.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 19.
 
-El titular del Poder Ejecutivo del Estado, a través de la COCOTRA, en base a los estudios y dictámenes que se mencionan en el artículo anterior, dictará las resoluciones sobre las solicitudes, y éstas, habrán de notificarse mediante correo certificado al interesado, así como se publicarán dentro de los diez días siguientes en el Periódico Oficial del Estado y en un diario de los de mayor circulación en la entidad.
+El Titular de la Unidad de Planeación, tendrá las atribuciones siguientes:
 
-Los interesados beneficiados deberán exhibir en original los requisitos que se establecen en los artículos 13 y 14 de este Reglamento, según el caso de que se trate, así como presentarán póliza de seguro de viajero de una compañía aseguradora reconocida a nivel nacional, cuya vigencia no deberá ser menor al término previsto para la siguiente revalidación, y deberán garantizar la indemnización por lesiones, gastos médicos o muerte de los pasajeros.
+I. Vigilar el cumplimiento de las disposiciones establecidas en materia presupuestaria y de planeación, en las acciones realizadas por los Órganos Administrativos que conforman al Instituto.
 
-### Capítulo Quinto. De las obligaciones de los concesionarios y permisionarios del servicio publico de transporte
+II. Proponer al Consejero Jurídico, el Anteproyecto de Presupuesto de Egresos, el Programa Operativo Anual y la Cuenta de la Hacienda Pública, competencia del Instituto.
+
+III. Coordinar la planeación programática, presupuestal y estratégica de las actividades que se desarrollen en los programas y proyectos del Instituto, conforme al marco normativo vigente, estableciendo sistemas de prevención y administrativos, durante el proceso de ejecución de los mismos.
+
+IV. Coordinar el diseño y establecimiento, en congruencia con los lineamientos, normas y metodología que en la materia establezca la dependencia normativa correspondiente, la elaboración y actualización de los planes sectoriales, especiales e institucionales y los programas de acción del sector.
+
+V. Contribuir a la integración del Informe de Gobierno del Ejecutivo del Estado, derivado de los requerimientos de información que en materia cualitativa soliciten las instancias correspondientes, en los temas y responsabilidades inherentes a los órganos que conforman el Instituto.
+
+VI. Coordinar la integración de la información que se desprende de la glosa que sobre el Informe de Gobierno que el Consejero Jurídico presenta en su comparecencia ante el Congreso del Estado.
+
+VII. Coordinar la elaboración del Programa Operativo Anual y del Anteproyecto de Presupuesto de Egresos del Instituto, en su aspecto cualitativo, con base en la normatividad vigente, a efecto de tramitar su autorización ante la Dependencia normativa correspondiente.
+
+VIII. Informar ante la Instancia correspondiente, los avances que presentan los Órganos Administrativos que conforman al Instituto, relativo a los indicadores estratégicos y actividades físicas del mismo, con base a los resultados del Sistema de Control Presupuestal y de acuerdo a la normatividad aplicable.
+
+IX. Gestionar ante la Dependencia normativa correspondiente, las modificaciones presupuestarias para el ajuste u obtención de los recursos que mejoren el cumplimiento de objetivos y las metas de los planes, programas y proyectos que implemente u opere el Instituto.
+
+X. Coordinar la elaboración de los cierres de ejercicio programático-presupuestal que integran la Cuenta de la Hacienda Pública del Instituto y presentarlos ante la Dependencia normativa correspondiente.
+
+XI. Vigilar que las acciones competencia del Instituto, se ejecuten de acuerdo con las prioridades generales establecidas en el Plan Estatal de Desarrollo.
+
+XII. Proporcionar asesoría permanentemente a los Órganos Administrativos, en temas relacionados con la planeación, programación, presupuestación, evaluación y control en materia institucional y en aquellos relativos a los proyectos de inversión.
+
+XIII. Coordinar la elaboración de los avances físicos-financieros y el cierre programático presupuestal del gasto institucional e inversión anual del Instituto, e informarlo ante la Dependencia normativa correspondiente.
+
+XIV. Establecer mecanismos de información y estadísticas, los cuales faciliten el seguimiento, control y evaluación de los programas y proyectos del Instituto.
+
+XV. Instrumentar y ejecutar los mecanismos de seguimiento y evaluación de los programas y/o proyectos de inversión que contribuyan, al logro de los objetivos y metas, enmarcados en los planes, políticas y estrategias operacionales del Instituto.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVI. Representar al Instituto, ante la Comisión Estatal de Mejora Regulatoria, así como elaborar el Programa respectivo y coordinar las acciones necesarias para el debido cumplimiento del mismo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+### Capítulo II. De la Integración de las Subconsejerías y Atribuciones de sus Titulares
 
 ###### Artículo 20.
 
-El título de concesión deberá contener:
+Para el despacho de los asuntos, competencia del Instituto, los Titulares de las Subconsejerías, tendrán las atribuciones generales siguientes:
 
-a) El nombre de la persona física o moral;
+I. Acordar con el Consejero Jurídico, la resolución y despacho de los asuntos de su competencia, e informar el avance de los mismos.
 
-b) La fotografía del concesionario;
+II. Proponer al Consejero Jurídico, las normas, políticas y procedimientos en materia de su competencia.
 
-c) La modalidad del servicio a explotar;
+III. Proponer al Consejero Jurídico, las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones jurídicas y administrativas, en materia de su competencia.
 
-d) La duración de la concesión, y en su caso, los requisitos que condicionen su vigencia;
+IV. Establecer sistemas de control técnicos-administrativos de las acciones competencia de los Órganos Administrativos a su cargo.
 
-e) El número de folio;
+V. Implementar acciones para la planeación, organización y desarrollo de los programas que le sean asignados, de acuerdo a las políticas establecidas, optimizando los recursos autorizados para lograr el buen funcionamiento del Instituto.
 
-f) La localidad y municipio en el que se presta el servicio;
+VI. Vigilar que las acciones competencia de los Órganos Administrativos a su cargo, se realicen de conformidad con las normas, políticas y procedimientos establecidos.
 
-g) Los nombres de los beneficiarios y su parentesco de conformidad con lo establecido en el artículo 23 de la Ley;
+VII. Convocar a reuniones de trabajo, al personal adscrito en los diferentes Órganos Administrativos a su cargo.
 
-h) La firma de las autoridades que autorizan;
+VIII. Establecer coordinación interna para el cumplimiento de los programas y proyectos técnicos y administrativos ejecutados por el Instituto.
 
-i) Los derechos y obligaciones del concesionario y sanciones para el caso de incumplimiento; y,
+IX. Vigilar que se ejecuten con eficiencia las actividades técnicas, administrativas y financieras de los Órganos Administrativos a su cargo.
 
-j) El itinerario a que estará sujeto el servicio público en las modalidades de colectivo urbano, suburbano, foráneo de primera y segunda clase, con precisión de los recorridos que deban de seguir, para prestar el servicio en los diversos lugares incluidos en dichos itinerarios.
+X. Proponer el Anteproyecto de Presupuesto Anual de Egresos y el Programa Operativo Anual, de los Órganos Administrativos a su cargo.
+
+XI. Vigilar el cumplimiento de las Leyes, Reglamentos, Decretos, Acuerdos, Circulares y demás disposiciones relacionadas con el funcionamiento y los servicios de los Órganos Administrativos a su cargo.
+
+XII. Proporcionar los documentos, opiniones e informes de su competencia que les sean solicitados por el Consejero Jurídico o los Órganos Administrativos que conforman al Instituto.
+
+XIII. Proponer al Consejero Jurídico, el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal a su cargo.
+
+XIV. Otorgar las vacaciones e incidencias del personal a su cargo.
+
+XV. Comunicar al personal a su cargo, las remociones o cambios de adscripción a que sean sometidos, previo acuerdo con el Titular de la Unidad de Apoyo Administrativo.
+
+XVI. Proponer el fortalecimiento estructural de los Órganos Administrativos y de la plantilla de plazas a su cargo.
+
+XVII. Proponer y participar en la organización de cursos de capacitación y conferencias que se impartan al personal adscrito al Instituto.
+
+XVIII. Desempeñar e informar el resultado de las comisiones y representaciones que le sean encomendadas por el Consejero Jurídico, en el ámbito de su competencia.
+
+XIX. Proponer proyectos de elaboración o actualización de las atribuciones para integrar el Reglamento Interior; así como las funciones, procedimientos y servicios para los Manuales Administrativos de los Órganos Administrativos a su cargo.
+
+XX. Vigilar que las actividades sean ejecutadas con eficacia por el personal adscrito en cada uno de los Órganos Administrativos a su cargo.
+
+XXI. Proponer o designar al personal que requiere para el despacho de los asuntos, competencia de los Órganos Administrativos a su cargo.
+
+XXII. Atender en el ámbito de su competencia, las solicitudes de información pública que realice la ciudadanía.
+
+XXIII. Participar en las comisiones, congresos, consejos, instituciones, reuniones, juntas y organizaciones nacionales e internacionales, en el ámbito de su competencia.
+
+XXIV. Expedir constancias y certificar documentos oficiales que obren en los archivos a su cargo.
+
+XXV. Proponer al Consejero Jurídico, la celebración y suscripción de convenios y acuerdos de colaboración con organismos gubernamentales, no gubernamentales, sociales, nacionales e internacionales, para el fortalecimiento de los servicios que proporciona el Instituto.
+
+XXVI. Proporcionar directamente o a través de los responsables de los Órganos Administrativos a su cargo, previo acuerdo con el Consejero Jurídico, la información o la cooperación técnica o jurídica que les sea requerida por otras instancias de los Gobiernos Federal, Estatal y Municipal.
+
+XXVII. Coordinar la integración de la información necesaria de la Subconsejería a su cargo, de acuerdo a la estructura orgánica, para la elaboración del informe de Gobierno y la comparecencia del Consejero Jurídico ante el Congreso del Estado, de acuerdo a los criterios que emitan las dependencias normativas.
+
+XXVIII. Emitir opinión respecto a los convenios, contratos y autorizaciones que celebre u otorgue el Instituto, que contengan aspectos de su competencia y suscribirlos cuando se les delegue esta facultad expresamente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXIX. Proporcionar la información necesaria a la Dirección de lo Contencioso, para elaborar los informes previos y justificados que requieran los jueces federales en materia de amparo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 21.
 
-El permiso provisional deberá contener:
+La Subconsejería Jurídica Normativa, tendrá los Órganos Administrativos siguientes:
 
-a) El nombre de la persona física o moral;
+a) Dirección de Normatividad.
 
-b) La modalidad del servicio a explotar;
+b) Dirección de Asuntos Fiscales y Administrativos.
 
-c) La duración del período del permiso;
+c) Dirección de lo Contencioso.
 
-d) El número de folio;
-
-e) La localidad y municipio en el que se presta el servicio;
-
-f) Las características del vehículo con el que se presta el servicio;
-
-g) Los itinerarios y horarios a que estará sujeto el servicio público en las modalidades de colectivo foráneo, suburbano, foráneo de primera y segunda clase; y,
-
-h) La firma del titular de la COCOTRA.
+d) Dirección de Asuntos Constitucionales.
 
 ###### Artículo 22.
 
-La renovación de las concesiones y permisos del servicio público de transporte procederá siempre que se cumpla con los requisitos y condiciones siguientes:
+El Titular de la Subconsejería Jurídica Normativa, tendrá las atribuciones siguientes:
 
-I. Que de acuerdo con los estudios técnicos que al efecto tenga realizados la COCOTRA fuera necesario continuar con la prestación del servicio público específico que a la fecha preste el concesionario y permisionario;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-II. Que se haya solicitado la renovación de la concesión en los primeros sesenta días del año fiscal, de conformidad con lo establecido en la fracción XI del artículo 39 de la Ley, así como en los términos que señala la Ley de Ingresos del Estado; y,
+I. Proponer al Consejero Jurídico para su validación, las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
 
-III. Que se demuestre a entera satisfacción de la COCOTRA, que se encuentra cumpliendo con todas las condiciones y requisitos establecidos en su título de concesión o permiso y, en su caso, las modificaciones introducidas al mismo servicio unilateralmente por la COCOTRA.
+II. Presentar al Consejero Jurídico para su validación, los contratos, convenios y demás actos jurídicos que las Dependencias o Entidades sometan a consideración del Instituto cuando participen éste o el Ejecutivo del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+III. Proponer al Consejero Jurídico, las opiniones jurídicas que se emitirán, a solicitud de las Dependencias y/o Entidades de la Administración Pública Estatal, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos.
+
+IV. Suscribir, en ausencia del Consejero Jurídico, los informes previos y justificados que requieran los jueces Federales en materia de amparo.
+
+V. Vigilar que el control, guarda y custodia de los Periódicos Oficiales que forman parte del acervo bibliográfico del Instituto, se realice de conformidad con las disposiciones aplicables.
+
+VI. Proponer al Consejero Jurídico, los modelos de nombramientos de los Titulares de Dependencias y Entidades de la Administración Pública Estatal.
+
+VII. Proporcionar asesorías a las Dependencias y Entidades de la Administración Pública Estatal en materia de Normatividad Jurídica, cuando así lo soliciten.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VIII. Presentar al Consejero Jurídico para su validación, los informes que las Dependencias y Entidades de la Administración Pública Estatal, rendirán a los organismos defensores de los derechos humanos, para dar atención a las quejas presentadas por los gobernados, así como a las medidas precautorias, propuestas conciliatorias y recomendaciones que emitan dichos organismos.
+
+IX. Establecer coordinación con las Dependencias y Entidades de la Administración Pública Estatal para la integración de los Programas de Normatividad Jurídica; así como para mantener actualizado el acervo jurídico del Estado.
+
+X. Vigilar que se cumplan los preceptos constitucionales en cuanto al ámbito procesal se refiere, tratándose de juicios de amparo y controversias constitucionales.
+
+XI. Vigilar que la compilación y publicación de los ordenamientos jurídicos Estatales, se realice de conformidad con las leyes aplicables.
+
+XII. Proponer al Consejero Jurídico, proyectos de elaboración o actualización del Reglamento Interior del Instituto.
+
+XIII. Proponer al Consejero Jurídico, las iniciativas de Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones jurídicas, competencia del Instituto.
+
+XIV. Proponer al Consejero Jurídico para su certificación los documentos de carácter jurídico administrativo que emita el Ejecutivo del Estado, las Dependencias y Entidades de la Administración Pública Estatal; así como dar fe de los mismos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XV. Presentar al Consejero Jurídico para su validación, los Dictámenes de Acuerdos de Pensión, emitidos por el Titular del Ejecutivo del Estado.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarlas (sic) aplicables.
 
 ###### Artículo 23.
 
-El titular del Poder Ejecutivo del Estado a través de la COCOTRA, podrá autorizar la transmisión o arrendamiento de los derechos y obligaciones derivados de la concesión, de conformidad con lo establecido en el artículo 22, párrafo segundo de la Ley, y de acuerdo con el siguiente procedimiento:
+La Subconsejería Jurídica de Regulación Patrimonial, tendrá los Órganos Administrativos siguientes:
 
-I.- Para el concesionario:
+a) Dirección del Registro Público de la Propiedad y del Comercio.
 
-a) Manifestar la voluntad de transmitir o arrendar los derechos y obligaciones de la concesión, mediante el formato establecido para tal efecto por la COCOTRA;
+b) Dirección de Patrimonio.
 
-b) Comparecer ante la oficina de la COCOTRA, personalmente en caso de personas físicas y por conducto de apoderado legal en caso de persona moral, para su efecto, se requiere identificación oficial, exhibir el testimonio notarial en el que se precisen facultades para actos de administración y dominio específico y con rendición de cuentas, así como ser acompañado del beneficiario en ambos casos, presentando el original del título de concesión o copia cotejada ante el Notario Público; y,
-
-c) Presentar certificado médico expedido por las instituciones de salud oficiales, en los que se acredite la imposibilidad física o mental para prestar el servicio;
-
-II.- Para el beneficiario:
-
-a) Para el caso de personas físicas, cumplir los requisitos establecidos en el artículo 15 del presente Reglamento;
-
-b) Para el caso de personas morales, cumplir con los requisitos del artículo 16 del presente Reglamento;
-
-c) Si la transmisión o arrendamiento de la concesión va acompañada de la transmisión de la propiedad del o los vehículos, se tendrá que exhibir la documentación de éste o éstos, consistente en: Factura, tarjeta de circulación, revista física y mecánica, último comprobante de pago de los derechos de tenencia, el último comprobante de la verificación de emisión de contaminantes, certificado de no infracción, y póliza de seguro de viajero de cobertura amplia cuya vigencia no podrá ser menor al término previsto para la siguiente revista;
-
-d) Para el caso de transmitir o arrendar únicamente los derechos y obligaciones de la concesión, sin que se transmita la propiedad del o los vehículos, el concesionario deberá presentar toda la documentación del o los vehículos referida en el inciso anterior. El modelo de los vehículos sustitutos será obligatoriamente del mismo año del vehículo que se sustituye o de modelo más reciente. En ningún caso se permitirá el trámite de sustitución de vehículos por modelos anteriores. Además, los vehículos deberán ser registrados en el Registro Público de Transporte de la COCOTRA;
-
-e) Pagar los derechos de la transmisión o arrendamiento y, en su caso, de la sustitución vehicular en los términos que establezca la Ley; y,
-
-f) Inscribir la transmisión o arrendamiento de derechos y obligaciones de la concesión, en el Registro Público de Transporte de la COCOTRA.
+c) Dirección de Catastro Urbano y Rural.
 
 ###### Artículo 24.
 
-El titular del Poder Ejecutivo del Estado a través de la COCOTRA, podrá autorizar la transmisión de los derechos y obligaciones derivados de la concesión, de conformidad con lo que establece el artículo 23 de la Ley de acuerdo al siguiente procedimiento:
+El Titular de la Subconsejería Jurídica de Regulación Patrimonial, tendrá las atribuciones siguientes:
 
-I. Presentar solicitud ante la COCOTRA sobre transmisión de los derechos y. obligaciones de la concesión;
+I. Vigilar que la prestación de los servicios de Registro Público de la Propiedad, del Sistema de Registro Patrimonial del Estado, así como el desarrollo de las actividades catastrales se realice de conformidad con la legislación aplicable.
 
-II. Presentar original o copia cotejada ante Notario Público, del título de la concesión;
+II. Representar al Consejero Jurídico, ante el Comité Técnico Interinstitucional permanente para la Enajenación en Subasta Pública, de Bienes Muebles, del Dominio Privado de Gobierno.
 
-III. Exhibir copia certificada del acta de defunción del concesionario;
+III. Promover el óptimo aprovechamiento y preservación del patrimonio inmobiliario propiedad del Gobierno del Estado.
 
-IV. Exhibir el documento original que contenga la designación del beneficiario y/o la resolución judicial;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-V. Presentar copia certificada del acta de nacimiento del beneficiario e identificación oficial;
+IV. Proporcionar información sobre el estado que guardan los bienes muebles e inmuebles propiedad de (sic) Gobierno del Estado, a las instituciones que lo soliciten.
 
-VI. En su caso, presentar carta de no antecedentes penales expedida por la Procuraduría General de Justicia del Estado, así como carta de residencia y buena conducta otorgada por los ayuntamientos; y,
+V. Proponer al Consejero Jurídico, para su aprobación, los proyectos de escrituras públicas que le presenten los Notarios Públicos para formalizar los actos adquisitivos y traslativos de dominio de inmuebles que otorgue el Poder Ejecutivo.
 
-VII. Presentar póliza de seguro de viajero a nombre del beneficiario de una compañía aseguradora reconocida a nivel nacional, cuya vigencia nunca debe ser menor al término previsto para la siguiente revalidación.
+VI. Interponer por instrucciones del Consejero Jurídico y en representación del Instituto, mediante poder notarial, las demandas, denuncias o ejercitar las acciones legales ante las autoridades judiciales correspondientes para la recuperación de los bienes del Estado que estén bajo resguardo de la Dirección de Patrimonio o la reclamación de daños ocurridos a estos.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VII. Establecer, previo acuerdo con el Consejero Jurídico, las políticas y los programas operativos anuales que deban seguir las Direcciones a su cargo, implementando los sistemas, métodos y procedimientos, en materia de su competencia.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VIII. Ordenar las inspecciones, verificaciones y demás actos que establezcan el debido cumplimiento y ejercicio de las operaciones de las Direcciones a su cargo, conforme a lo establecido por la Ley de la materia y su Reglamento, para implementar acciones preventivas y correctivas.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+IX. Proponer al Consejero Jurídico la normatividad para la administración y avalúo de los bienes del Estado, almacenes e inventarios, así como para el desarrollo funcional de las operaciones catastrales.
+
+X. Emitir a través de la Dirección de Catastro Urbano y Rural el valor catastral de los bienes inmuebles ubicados dentro del territorio del Estado, conforme a la valuación, revaluación o actualización que se realice de los mismos, de conformidad a las disposiciones legales y reglamentarias de la materia.
+
+XI. Aprobar los registros de los peritos valuadores, previo cumplimiento de los requisitos establecidos en la Ley de la materia.
+
+XII. Vigilar que los requerimientos hechos a los propietarios, poseedores o usufructuarios de bienes inmuebles ubicados en el territorio del Estado o a sus representantes legales, se realice conforme a lo que establece la Ley de la materia.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XIII. Vigilar que las visitas de supervisión y verificación de los procedimientos y operaciones de las Direcciones a su cargo, se realicen de conformidad a lo que establecen las leyes aplicables.
+
+XIV. (DEROGADA, P.O. 27 DE JUNIO DE 2018)
+
+XV. Establecer normas y mecanismos para la administración y avaluó de los bienes del Estado, almacenes e inventarios; así como llevar a cabo el proceso de adquisición e incorporación de los mismos, de conformidad con las leyes aplicables.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XVI. Validar los dictámenes técnicos de arrendamiento, adquisición de vehículos y equipos de transportes, que soliciten los Organismos Públicos de la Administración Pública Estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVII. Validar los contratos, actas de entrega-recepción, acuerdos, y demás actos jurídicos en materia de su competencia, que soliciten los Organismos Públicos de la Administración Pública Estatal.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XVIII. Validar los proyectos de escrituras públicas que soliciten los Notarios Públicos del Estado de Chiapas, en las cuales participe el Gobierno del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XIX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 25.
 
-El titular del Poder Ejecutivo del Estado a través de la COCOTRA, de conformidad con las facultades que le otorga la Ley, dentro de los treinta días hábiles siguientes a la presentación de la solicitud y requisitos correspondientes por parte del interesado, notificará a éste la resolución en que otorgue o niegue la transmisión o arrendamiento de los derechos y obligaciones derivados de la concesión.
+La Subconsejería de Servicios y de Asistencia Legal, tendrá los Órganos Administrativos siguientes:
 
-El interesado contará con un plazo de treinta días naturales para iniciar la operación del servicio.
+a) Dirección de Archivo General y Notarías del Estado.
+
+b) Dirección del Registro Civil del Estado.
+
+c) Dirección del Abogado del Pueblo.
 
 ###### Artículo 26.
 
-El titular del Poder Ejecutivo del Estado a través de la COCOTRA, podrá autorizar a los titulares de las concesiones y permisos el cambio de modalidad en la prestación del servicio, sólo en los casos siguientes:
+El Titular de la Subconsejería de Servicios y de Asistencia Legal, tendrá las atribuciones siguientes:
 
-I. Que previo estudio técnico de autorización se justifique el cambio de modalidad;
+I. Promover los actos relativos al estado civil de las personas; así como, el óptimo funcionamiento de la Dirección del Registro Civil del Estado.
 
-II. Que la modalidad pretendida no va a generar saturación en la oferta del servicio; y,
+II. Presentar al Consejero Jurídico, las estadísticas notariales y archivísticas con la finalidad de mantener una fuente de información fehaciente para los Organismos gubernamentales y público en general.
 
-III. Que se garantice atender las necesidades del servicio de los usuarios.
+III. Instruir al Titular de la Dirección de Archivo General y Notarias del Estado, la realización de visitas de valoración a los archivos generados por la Administración Pública Estatal y Municipal.
 
-### Capítulo Sexto. De las sanciones y procedimientos administrativos
+IV. Vigilar que la prestación de los servicios del Registro Civil, de Archivo General y Notarías, así como la asesoría jurídica a las personas que lo soliciten, a través del Abogado del Pueblo, se realice conforme a la normatividad aplicable.
 
-###### Artículo 57.
+V. Instruir al Titular Dirección de Archivo General y Notarías del Estado, la vigilancia del ejercicio de las funciones notariales, así como la realización de visitas de inspecciones generales y especiales a las notarías del Estado.
 
-La COCOTRA, para el cumplimiento de sus funciones de inspección y vigilancia, contará con el personal debidamente identificado, uniformado y capacitado en materia de legislación y reglamentación de transporte público en sus diferentes modalidades, adoptando en cualquier tiempo las medidas administrativas necesarias para efectuar la revisión física y documental de los vehículos del servicio público en sus diferentes modalidades, y de sus servicios auxiliares de conformidad con el procedimiento que se establezca en la convocatoria respectiva.
+VI. Designar y remover a los abogados del pueblo y demás personal bajo su adscripción, previo acuerdo con el Consejero Jurídico.
 
-###### Artículo 58.
+VII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
-Independientemente de lo establecido en los artículos 42 y 43 de la Ley, la DGSPT, así como, los Inspectores de la COCOTRA, estarán facultados para imponer sanciones cuando se cometan infracciones en materia de tránsito y transporte terrestre.
-
-La COCOTRA podrá imponer las sanciones que establezca este Reglamento, cuyas multas se fijarán por el importe del salario mínimo general en el Estado de Michoacán, en la fecha en que se cometa la infracción, siendo en todo momento responsable solidario con el conductor del vehículo, el concesionario o permisionario.
-
-La imposición de multas se realizará independientemente de la procedencia, en su caso, de la suspensión o cancelación de la concesión o permiso, en estos supuestos:
-
-I. Cuando en la prestación del servicio público de transporte se alteren las tarifas autorizadas por la COCOTRA, se sancionará con multa de 50 días de salario mínimo general vigente a los concesionarios o permisionarios, que se entienden para este efecto, como responsables solidarios de los actos de sus conductores;
-
-II. Por modificar o alterar los concesionarios o permisionarios, los itinerarios, horarios, rutas o cualquier otra transgresión a las condiciones de prestación de servicio en los términos de la Ley, de este Reglamento, del título de concesión o de las disposiciones dictadas por la COCOTRA, se sancionará con multa de 100 días de salario mínimo general vigente, siendo igualmente responsables solidarios los concesionarios o permisionarios por los actos de sus conductores;
-
-Ill. Por negarse a prestar el servicio al usuario sin causa justificada, así como los actos de maltrato para el público, se sancionará con multa de 70 días de salario mínimo general vigente, a los concesionarios o permisionarios de la unidad en que se haya cometido la falta;
-
-IV. Cuando el concesionario o permisionario, sin la previa autorización de la COCOTRA, arrende, enajene, done, embargue, hipoteque o permute total o parcialmente los derechos de la concesión o permiso, se le sancionará con multa de 50 días de salario mínimo general vigente, además de que tales actos se tendrán como nulos de pleno derecho y sin menoscabo de la cancelación del concesionamiento;
-
-V. En el caso de que los vehículos concesionados y permisionados sean conducidos por personas que carezcan de licencia para conducir unidades del servicio público, se retirarán de inmediato de la circulación y se sancionará a los concesionarios o permisionarios como responsables solidarios con multa de 130 días de salario mínimo general vigente;
-
-VI. Cuando los conductores de las unidades del servicio público de autotransporte en cualquiera de las modalidades establecidas por esta Ley, conduzcan la unidad bajo el influjo de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica se impondrá multa de 150 días de salario mínimo general vigente, sin perjuicio de la detención del vehículo y la responsabilidad penal en que se pudiera incurrir y la cancelación del concesionamiento;
-
-VII. Cuando los conductores de los vehículos del servicio público de transporte en cualquiera de sus modalidades, concesionado o permisionado, no respeten el derecho estableci (sic) el paso de peatones en las vías de circulación o invadan los accesos peatonales establecidos, se les impondrá una multa de 30 días de salario mínimo general vigente;
-
-VIII. Por no prestar de manera gratuita el servicio cuando por causas de fuerza mayor; de desastres, de seguridad pública y cuando así lo requiera la COCOTRA, serán sancionados los concesionarios y permisionarios con multa de 80 días de salario mínimo general vigente;
-
-IX. Por la no expedición del boleto o comprobante de pago al usuario, se aplicará una multa de 30 a 50 días de salario mínimo general vigente;
-
-X. Cuando no se proporcione la información sobre la prestación de los diferentes servicios, requerida por la COCOTRA, se aplicará al concesionario o permisionario una multa de 30 días de salario mínimo general vigente;
-
-XI. Cuando los vehículos no lleven en lugar visible la tarifa autorizada por la COCOTRA, serán sancionados los concesionarios o permisionarios con multa de 30 días de salario mínimo general vigente;
-
-XII. Cuando los conductores de los vehículos concesionados o permisionados hagan base en lugares no autorizados, serán sancionados con multa de 100 días de salario mínimo general vigente;
-
-XIII. Por no portar el operador de los vehículos concesionados o permisionados la licencia de servicio público vigente en lugar visible, será sancionado con multa de 80 días de salario mínimo general vigente;
-
-XIV. Por instalar o pintar publicidad u otro tipo de inscripciones en la unidad, sin la autorización de la COCOTRA, se sancionará al concesionario o permisionario con multa de 30 días de salario mínimo general vigente en el Estado:
-
-XV. Por dejar de cumplir en tiempo y forma los requisitos de la revista y verificación vehicular de emisión de contaminantes obligatoria en los vehículos que presten el servicio público de transporte en cualquiera de sus modalidades, se sancionará al concesionario o permisionario con multa de 100 días de salario mínimo general vigente en el Estado;
-
-XVI. Por no portar el uniforme autorizado por la COCOTRA durante la prestación del servicio público de transporte de pasajeros en sus diferentes modalidades, se sancionará al conductor con multa de 20 días de salario mínimo general vigente;
-
-XVII. Cuando el beneficiario no inicie la prestación del servicio dentro del término señalado en el (sic) artículos 23 y 24 del presente Reglamento, se sancionará con multa de 50 días de salario mínimo general vigente;
-
-XVIII. Cuando se sorprenda a alguna persona prestando el servicio público de transporte, sin autorización de la COCOTRA, se le sancionará con una multa de 150 días de salario mínimo general vigente;
-
-XIX. Cualquier otra violación a la Ley, a las condiciones establecidas en el título de la concesión, permisos y las demás disposiciones o acuerdos emitidos por la COCOTRA, cuya sanción no este expresamente prevista, se impondrá multa de 30 días de salario mínimo general vigente al infractor, y en su caso, bajo la responsabilidad solidaria de los titulares de la concesión o servicio;
-
-XX. Cuando se preste el servicio público de transporte en todas sus modalidades con concesión o permiso sin vigencia, se sancionará con multa de 150 días de salario mínimo vigente en el Estado.
-
-La reincidencia de cualquiera de las conductas citadas en alguna o en varias de las fracciones anteriores, dará origen a la cancelación de la concesión o permiso, por el titular del Poder Ejecutivo a través de la COCOTRA.
-
-###### Artículo 59.
-
-Los concesionarios y permisionarios que presten el servicio público de transporte de pasajeros en cualquiera de sus modalidades, además de ser acreedores de las sanciones que contemple este Reglamento, se les podrá multar al incurrir en alguna de las siguientes faltas:
-
-I. Cuando efectúen los conductores de vehículos concesionados o permisionados maniobras de ascenso y descenso en lugares no autorizados, serán sancionados con multa de 30 días del salario mínimo general vigente;
-
-II. Por no dar trato preferencial a personas con discapacidad, de la tercera edad y mujeres en período de gestación, se les sancionará con multa de 30 días de salario mínimo general vigente;
-
-III. Por transportar en los vehículos concesionados o permisionados más pasajeros de los autorizados, serán sancionados con multa de 30 días de salario mínimo general vigente; y,
-
-IV. Cuando los vehículos concesionados o permisionados circulen con las puertas abiertas, serán sancionados con multa de 50 días de salario mínimo general vigente.
-
-###### Artículo 60.
-
-Los concesionarios y permisionarios que presten el servicio público de transporte de carga, además de ser acreedores de las sanciones previstas en el presente Reglamento, se les podrá multar al incurrir en alguna de las siguientes faltas:
-
-I. Cuando efectúen los conductores de vehículos concesionados o permisionados maniobras de carga y descarga en lugares no autorizados, serán sancionados con multa de 30 días del salario mínimo vigente;
-
-II. Circular en vías de acceso controlado, en vehículos considerados como pesados o con capacidad mayor de ocho toneladas y aquellos que por su volumen, dimensiones y características tampoco puedan hacerlo, conforme a lo previsto en la norma y manuales establecidos, se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
-
-Ill. No observar las normas técnicas expedidas por la COCOTRA, así como los requisitos de peso volumen y dimensiones se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
-
-IV. Proporcionar el servicio sin documentar debidamente la carga o no usar la carta porte, salvo la que se trate de artículos personales o familiares se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
-
-V. No contar con la carta porte, talón de embarque, nota de remisión o factura necesarios para prestar el servicio que puedan ser requeridos por los inspectores se sancionará con multa de 100 días de salario mínimo vigente en el Estado;
-
-VI. Ausencia de autorización de importación o exportación de materiales peligrosos, se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
-
-VII. Falta de manifiesto para casos de derrames de residuos peligrosos por accidente se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
-
-VIII. Carencia de etiquetas en envases y embalajes se sancionara con multa de 150 días de salario mínimo vigente en el Estado;
-
-IX. No proporcionar el concesionario o permisionario al operador, el equipo de seguridad necesario con que debe contar en caso de accidente, se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
-
-X. No proporcionar el concesionario o permisionario al operador los carteles de identificación, se sancionará con multa de 150 días de salario mínimo vigente en el Estado;
-
-XI. No contar con las autorizaciones y documentación para evitar el retraso de la carga, se sancionará al concesionario o permisionario con multa de 50 días de salario mínimo vigente en el Estado;
-
-XII. Por no verificar que las maniobras de carga y descarga se realicen por personal capacitado y equipo de protección adecuado, se sancionará al concesionario o permisionario con multa de 150 días de salario mínimo vigente en el Estado;
-
-XIII. No entregar las unidades libres de remanentes de substancias o residuos peligrosos, se sancionará al concesionario o permisionario con multa de 150 días de salario mínimo vigente en el Estado;
-
-XIV. No proteger la carga de las condiciones ambientales o de otra fuente que pueda generar una reacción, se sancionará al concesionario o permisionario con multa de 150 días de salario mínimo vigente en el Estado; y,
-
-XV. Por abrir el envase, embalaje, recipiente, contenedor, autotanque o unidad de arrastre entre los puntos de arrastre o destino, se sancionará al concesionario o permisionario con multa de 150 días de salario mínimo vigente en el Estado.
-
-###### Artículo 61.
-
-El monto de las sanciones, que se impongan a los concesionarios y permisionarios con motivo del servicio, será garantizado con el valor de los propios vehículos o los servicios conexos, mediante el otorgamiento de garantía suficiente para responder de las mismas.
-
-En el caso de que la garantía sean los vehículos o los bienes afectos a los servicios conexos, podrán quedar en los depósitos de guarda y custodia de la DGSPT del Estado, de conformidad con las facultades que le otorga la Ley de Policía y Tránsito del Estado y su Reglamento podrá determinar la entrega en depósito a los concesionarios o permisionarios, quienes deberán presentarlos ante la autoridad competente cuando ésta se lo solicite.
-
-El propietario de los vehículos o bienes afectos a los servicios conexos, dispondrá de un plazo de 30 días hábiles contados a partir de la fecha en que se fijó la multa para cubrirla así como los gastos a que hubiere lugar, en caso contrario, se formulará la liquidación y se turnarán los documentos junto con los otros vehículos o bienes a la Tesorería General del Estado, para que ésta en cumplimiento a sus atribuciones, efectúe los procedimientos administrativos para su cobro.
-
-###### Artículo 62.
-
-En los casos de reincidencia por parte del infractor y cuando la sanción sea multa, se aplicará el doble del monto inicial, en este caso, el Ejecutivo del Estado a través de la COCOTRA, podrá iniciar el procedimiento de cancelación de la concesión.
-
-Existirá reincidencia cuando se comete la misma infracción en un período no mayor a seis meses.
-
-###### Artículo 63.
-
-El infractor que cubra el importe de la multa que le imponga la COCOTRA, dentro de los cinco días siguientes a la fecha en que se cometió la infracción, tendrá derecho a que se le descuente el 50% del importe económico de la misma. Vencido este plazo no procederá descuento alguno.
-
-###### Artículo 64.
-
-El titular del Poder Ejecutivo del Estado a través de la COCOTRA, decretará cuando proceda la suspensión o cancelación de la concesión o del permiso.
-
-Declarada la suspensión o cancelación, o en su caso, confirmadas si fueron recurridas las resoluciones, el titular perderá todos los derechos y todas las obligaciones que se deriven de las mismas, y en consecuencia, el titular del Poder Ejecutivo del Estado, a través de la COCOTRA, podrá continuar por si o concesionando la prestación del servicio.
-
-###### Artículo 65.
-
-Procederá el recurso de revocación contra:
-
-l. Las resoluciones por las cuales se decrete la suspensión o cancelación de la concesión o permiso; y,
-
-II. Las demás resoluciones que emita la SCOP y la COCOTRA en ejercicio de las atribuciones que les confiere la Ley y este Reglamento.
-
-###### Artículo 66.
-
-El recurso de revocación se interpondrá por escrito ante la autoridad que haya emitido la resolución recurrida, dentro de los quince días hábiles siguientes a la notificación o de aquel en que se haya tenido conocimiento del mismo.
-
-El escrito en el que se interponga el recurso de revocación deberá contener:
-
-l. El nombre y domicilio del recurrente y, en su caso, de quien promueva en su nombre. Si fueren varios los recurrentes, el nombre y domicilio del representante común;
-
-II. El interés jurídico que le asiste al recurrente;
-
-III. El nombre de la autoridad que haya dictado la resolución;
-
-IV. La mención precisa de la resolución que motiva la interposición del recurso;
-
-V. Los agravios que le cause la resolución de que se trate;
-
-VI. La aportación de pruebas; y,
-
-VII. El lugar y fecha de la interposición del recurso.
-
-###### Artículo 67.
-
-La autoridad al recibir el recurso, verificará si éste fue interpuesto en tiempo y en forma, admitiéndolo o rechazándolo, según proceda.
-
-Admitido el recurso, desahogará las pruebas que procedan en un plazo que no excederá de quince días hábiles contados a partir de que surta efecto la notificación del proveído de admisión.
-
-Las pruebas aportadas dentro del escrito del recurso de revocación serán valoradas al dictar la resolución que corresponda, misma que podrá confirmar, modificar o revocar la resolución recurrida.
-
-Dicha resolución se notificará al interesado personalmente o por correo certificado.
-
-En la substanciación y resolución del recurso en lo que no esté previsto en la Ley o en este Reglamento, se aplicarán supletoriamente las disposiciones del Código de Procedimientos Civiles del Estado.
-
-## TRANSITORIOS
-
-###### ARTICULO PRIMERO.
-
-El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se abroga el Decreto Administrativo que crea la Comisión Coordinadora del Transporte Público de Michoacán, publicado en el Periódico Oficial del Estado de fecha 2 de Junio de 1994, y se derogan sus posteriores reformas o adiciones y todas aquellas disposiciones que se opongan al presente Decreto.
-
-Morelia, Michoacán a 6 de Enero de 1999.
-
-SUFRAGIO EFECTIVO. NO REELECCION. LIC. VICTOR MANUEL TINOCO RUBl.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.
+### Capítulo III. De la Integración de las Direcciones y Atribuciones de sus Titulares
 
 ###### Artículo 27.
 
-El titular del Poder Ejecutivo del Estado a través de la COCOTRA, dentro de los quince días hábiles siguientes a la presentación de la solicitud de cambio de modalidad de la prestación del servicio concesionado o permisionado, por parte del interesado, notificará a éste la resolución. El interesado contará con un plazo de treinta días naturales para iniciar la operación.
+Para el despacho de los asuntos, competencia del Instituto, los Titulares de las Direcciones, tendrán las atribuciones generales siguientes:
 
-Cuando la unidad del servicio público, no se encuentre en condiciones de prestar el servicio, el concesionario notificará a la COCOTRA, para que previa autorización de ésta, deposite las láminas y se otorgue permiso de emergencia que se regirá por lo establecido por la concesión.
+I. Acordar con el Subconsejero de su adscripción, la resolución y despacho de los asuntos de su competencia, e informar el avance de los mismos.
+
+II. Proponer al el (sic) Subconsejero de su adscripción, las normas, políticas y procedimientos en materia de su competencia.
+
+III. Proponer al el (sic) Subconsejero de su adscripción, las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones jurídicas y administrativas, en materia de su competencia.
+
+IV. Establecer sistemas de control técnicos-administrativos de las acciones competencia de los Órganos Administrativos a su cargo.
+
+V. Implementar acciones para la planeación, organización y desarrollo de los programas que le sean asignados, de acuerdo a las políticas establecidas, optimizando los recursos autorizados para lograr el buen funcionamiento del Instituto.
+
+VI. Vigilar que las acciones competencia de los Órganos Administrativos a su cargo, se realicen de conformidad con las normas, políticas y procedimientos establecidos.
+
+VII. Convocar a reuniones de trabajo, al personal adscrito en los diferentes Órganos Administrativos a su cargo.
+
+VIII. Establecer coordinación interna para el cumplimiento de los programas y proyectos técnicos y administrativos ejecutados por el Instituto.
+
+IX. Vigilar que se ejecuten con eficiencia las actividades técnicas, administrativas y financieras de los Órganos Administrativos a su cargo.
+
+X. Proponer el Anteproyecto de Presupuesto Anual de Egresos y el Programa Operativo Anual, de los Órganos Administrativos a su cargo.
+
+XI. Vigilar el cumplimiento de las Leyes, Reglamentos, Decretos, Acuerdos, Circulares y demás disposiciones relacionadas con el funcionamiento y los servicios de los Órganos Administrativos a su cargo.
+
+XII. Proporcionar los documentos, opiniones e informes de su competencia que les sean solicitados por el Consejero Jurídico o los Órganos Administrativos que conforman al Instituto.
+
+XIII. Proponer al Subconsejero de su adscripción, el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal a su cargo.
+
+XIV. Otorgar las vacaciones e incidencias del personal a su cargo.
+
+XV. Comunicar al personal a su cargo, las remociones o cambios de adscripción a que sean sometidos, previo acuerdo con el Titular de la Unidad de Apoyo Administrativo.
+
+XVI. Proponer el fortalecimiento estructural de los Órganos Administrativos y de la plantilla de plazas a su cargo.
+
+XVII. Proponer y participar en la organización de cursos de capacitación y conferencias que se impartan al personal adscrito al Instituto.
+
+XVIII. Desempeñar e informar el resultado de las comisiones y representaciones que le sean encomendadas por el Subconsejero de su adscripción, en el ámbito de su competencia.
+
+XIX. Proponer proyectos de elaboración o actualización de las atribuciones para integrar el Reglamento Interior; así como las funciones, procedimientos y servicios para los Manuales Administrativos de los Órganos Administrativos a su cargo.
+
+XX. Vigilar que las actividades sean ejecutadas con eficacia por el personal adscrito en cada uno de los Órganos Administrativos a su cargo.
+
+XXI. Proponer o designar al personal que requiere para el despacho de los asuntos, competencia de los Órganos Administrativos a su cargo.
+
+XXII. Atender, en el ámbito de su competencia, las solicitudes de información pública que realice la ciudadanía.
+
+XXIII. Participar en las comisiones, congresos, consejos, instituciones, reuniones, juntas y organizaciones nacionales e internacionales, en el ámbito de su competencia.
+
+XXIV. Expedir constancias y certificar documentos oficiales que obren en los archivos a su cargo.
+
+XXV. Proponer al Subconsejero de su adscripción, la celebración y suscripción de convenios y acuerdos de colaboración con organismos gubernamentales, no gubernamentales, sociales, nacionales e internacionales, para el fortalecimiento de los servicios que proporciona el Instituto.
+
+XXVI. Proporcionar directamente o a través de los responsables de los Órganos Administrativos a su cargo, previo acuerdo con el Subconsejero de su adscripción, la información o la cooperación técnica o jurídica que les sea requerida por otras instancias de los Gobiernos Federal, Estatal y Municipal.
+
+XXVII. Coordinar la integración de la información necesaria de la Dirección a su cargo, de acuerdo a la estructura orgánica, para la elaboración del informe de Gobierno y la comparecencia del Consejero Jurídico ante el Congreso del Estado, de acuerdo a los criterios que emitan las Dependencias normativas.
+
+XXVIII. Emitir opinión respecto a los convenios, contratos y autorizaciones que celebre u otorgue el Instituto, que contengan aspectos de su competencia y suscribirlos cuando se les delegue esta facultad expresamente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXIX. Proporcionar la información necesaria a la Dirección de lo Contencioso, para elaborar los informes previos y justificados que requieran los jueces federales en materia de amparo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de su adscripción; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 28.
 
-Los itinerarios se fijarán por la COCOTRA, a los vehículos concesionados y permisionados en la modalidad de colectivo foráneo, foráneo de primera y segunda clase y mixto.
+El Titular de la Dirección de Normatividad, tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+I. Analizar de (sic) los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+II. Elaborar opiniones jurídicas, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos, a solicitud de las Dependencias y Entidades de la Administración Pública Estatal.
+
+III. Realizar el análisis de los contratos, convenios y demás actos jurídicos que las Dependencias o Entidades sometan a consideración del Instituto, cuando participen el Titular de éste o el Ejecutivo del Estado.
+
+IV. Establecer acciones de control, guarda, custodia y préstamo de los Periódicos Oficiales que se encuentran en el acervo bibliográfico del Instituto, para consulta de los distintos Órganos Administrativos que lo integran.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+V. Elaborar los modelos de nombramientos de los Titulares de las Dependencias y Entidades de la Administración Pública Estatal.
+
+VI. Proporcionar asesorías a las Dependencias y Entidades de la Administración Pública Estatal en materia de su competencia, cuando así lo soliciten.
+
+VII. Realizar acciones necesarias para la compilación y publicación de los ordenamientos jurídicos Estatales.
+
+VIII. Proponer al Subconsejero Jurídico Normativo, proyectos de elaboración o actualización del Reglamento Interior del Instituto.
+
+IX. Proponer al Subconsejero Jurídico, las iniciativas de Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones jurídicas, competencia del Instituto.
+
+X. Realizar el proyecto de certificación de los documentos de carácter jurídico administrativo que emita el Ejecutivo del Estado, las Dependencias y Entidades de la Administración Pública Estatal; así como dar fe de los mismos.
+
+XI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 29.
 
-En la formulación y aplicación de los itinerarios, tarifas y horarios se observará siempre con igualdad de tratamiento para todos los concesionarios o permisionarios, la opinión de la COCOTRA, y se atenderá a las condiciones socioeconómicas del usuario como de los prestadores del servicio.
+El Titular de la Dirección de Asuntos Fiscales y Administrativos, tendrán (sic) las atribuciones siguientes:
+
+I. Analizar los proyectos de las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos en materia fiscal y administrativa, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+
+II. Elaborar opiniones jurídicas, cuando exista diferencia de criterios en la interpretación de ordenamientos jurídicos en materia fiscal y administrativa, a solicitud de las Dependencias y Entidades de la Administración Pública Estatal.
+
+III. Analizar los contratos, convenios y demás actos jurídicos en materia fiscal y administrativa, que las Dependencias o Entidades sometan a consideración del Instituto cuando participen el Titular de éste o el Ejecutivo del Estado.
+
+IV. Asesorar a las Dependencias y Entidades de la Administración Pública Estatal en materia fiscal y administrativa, cuando así lo soliciten.
+
+V. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 30.
 
-Los itinerarios, tarifas y horarios, podrán ser modificados en cualquier tiempo por causa de interés público, previo estudio técnico y socioeconómico que realice la COCOTRA, sobre la costeabilidad del servicio.
+El Titular de la Dirección de lo Contencioso, tendrá las atribuciones siguientes:
+
+I. Analizar los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos, en materia penal, civil y laboral, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+
+II. Elaborar opiniones jurídicas, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos, en materia penal, civil y laboral, a solicitud de las Dependencias y Entidades de la Administración Pública Estatal.
+
+III. Analizar los contratos, convenios y demás actos jurídicos en materia penal, civil y laboral, que las Dependencias o Entidades sometan a consideración del Instituto, cuando participen el Titular de éste o el Ejecutivo del Estado.
+
+IV. Asesorar a las Dependencias y Entidades de la Administración Pública Estatal en materia penal, civil y laboral, cuando así lo soliciten.
+
+V. Dar seguimiento a las controversias y juicios de materia civil, penal y laboral, cuando el Titular del Instituto actúe por sí mismo, o en aquellos casos en que lo haga en representación del Ejecutivo del Estado.
+
+VI. Elaborar los informes previos y justificados que requieran los jueces federales en materia de amparo.
+
+VII. Las demás atribuciones que en ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 31.
 
-En las clases o categorías de servicios no previstos por la Ley y este Reglamento, la COCOTRA podrá fijar las tarifas que estime convenientes de acuerdo con los estudios que se realicen.
+El Titular de la Dirección de Asuntos Constitucionales, tendrá las atribuciones siguientes:
+
+I. Analizar los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos en materia constitucional y de derechos humanos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+
+II. Analizar los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos, Contratos, Convenios y demás ordenamientos jurídicos relacionados específicamente con la materia de derechos humanos de niñas, niños, adolescentes y mujeres, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+
+III. Elaborar opiniones jurídicas, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos en materia constitucional y de derechos humanos, a solicitud de las Dependencias y Entidades de la Administración Pública Estatal.
+
+IV. Realizar la revisión y el análisis de los informes que las Dependencias y Entidades de la Administración Pública Estatal, rendirán a los organismos defensores de los derechos humanos, en atención a las quejas presentadas por los gobernados.
+
+V. Realizar la revisión y el análisis de los informes que las Dependencias y Entidades de la Administración Pública Estatal, rendirán a los organismos defensores de los derechos humanos, para dar atención a las medidas precautorias, propuestas conciliatorias y recomendaciones que éstos emitan.
+
+VI. Realizar la revisión y análisis técnico-jurídico, de los Dictámenes de Acuerdos de Pensión, emitidos por el Titular del Ejecutivo del Estado.
+
+VII. Asesorar a las Dependencias y Entidades de la Administración Pública Estatal en materia constitucional y de derechos humanos, cuando así lo soliciten.
+
+VIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables
 
 ###### Artículo 32.
 
-Las tarifas se revisarán y se ajustarán de acuerdo a los resultados de los estudios técnicos y socioeconómicos realizados por la COCOTRA y a los cambios substanciales en la economía nacional y/o estatal.
+La Dirección del Registro Público de la Propiedad y del Comercio tendrá los Órganos Administrativos siguientes:
+
+a) Delegación Administrativa.
+
+b) Departamento Jurídico.
+
+c) Departamento de Informática.
+
+d) Departamento de Registro, Gravamen y Certificaciones.
+
+e) Delegaciones del Registro Público de la Propiedad.
 
 ###### Artículo 33.
 
-Los usuarios tienen derecho a que el servicio público de transporte de pasajeros se preste en forma regular, continua y permanente en las mejores condiciones de seguridad, comodidad, higiene y eficiencia mediante el pago de la tarifa autorizada por la autoridad competente, debiendo conservar durante el viaje el boleto que ampara el recorrido que realice.
+El Titular de la Dirección del Registro Público de la Propiedad y del Comercio, tendrá las atribuciones siguientes:
+
+I. Ejecutar las políticas, normas y procedimientos que en materia de registro público de la propiedad y del comercio, establezca el Instituto.
+
+II. Establecer los mecanismos necesarios para la actualización permanente del registro, en coordinación con los Organismos Públicos de la Administración Pública Estatal, relacionados con la materia.
+
+III. Emitir los informes que soliciten las autoridades Federales, Estatales y Municipales, sobre las actividades inherentes al Registro Público de la Propiedad y del Comercio.
+
+IV. Participar con la instancia normativa correspondiente, en la formulación de tabuladores de derechos aplicables, por concepto de servicios que presta esta Dirección.
+
+V. Vigilar que la integración y actualización del archivo, legajos de documentos, índices receptivos y libros de registro se realicen de manera permanente y de conformidad a la normatividad aplicable.
+
+VI. Proporcionar asesoría a los Titulares de los Órganos Administrativos a su cargo, en materia registral; así como a las Dependencias y Entidades de la Administración Pública Estatal.
+
+VII. Vigilar que el servicio que proporciona la Dirección del Registro Público de la Propiedad y del Comercio, se realice de forma expedita y legal.
+
+VIII. Implementar módulos de información y orientación al público, respecto a los servicios que proporciona la Dirección del Registro Público de la Propiedad y del Comercio.
+
+IX. Evaluar mensualmente la información que proporcionan las Delegaciones del Registro Público de la Propiedad y el Departamento de Registro, Gravamen y Certificaciones, en cuanto a la actividad registral que las mismas realizan.
+
+X. Instrumentar los procedimientos correspondientes para la aplicación de sanciones a que se hace acreedor el personal adscrito a los Órganos Administrativos a su cargo.
+
+XI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico de Regulación Patrimonial; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 34.
 
-El horario obligatorio de prestación del servicio para la operación de vehículos de transporte colectivo y urbano con itinerario fijo será de las 05:00 a.m. a las 23:00 horas p.m. todos los días del año.
+La Dirección de Patrimonio, tendrá con los Órganos Administrativos siguientes:
 
-Estos horarios quedarán descritos en el título de concesión y podrán ser modificados, en su caso, de acuerdo a la ciudad o región, por la COCOTRA.
+a) Departamento de Bienes Muebles e Inmuebles.
+
+b) Departamento de Vehículos, Maquinaria, Aeronaves y Semovientes.
+
+c) Departamento de Almacenes y Suministros.
+
+d) Departamento de Apoyo a la Comisión Intersecretarial para la Adquisición de Terrenos y Bienes.
 
 ###### Artículo 35.
 
-Los taxis libres y de sitio podrán operar las 24 horas del día.
+El Titular de la Dirección de Patrimonio, tendrá las atribuciones siguientes:
 
-Los usuarios del servicio público de transporte de pasajeros en sus diferentes modalidades, con el propósito de optimizar las condiciones de operación del servicio deberán solicitar el ascenso y descenso de los vehículos del servicio público únicamente en los lugares autorizados, y deberán abstenerse de fumar en el interior de los vehículos.
+I. Proponer al Subconsejero de su adscripción, las normas, políticas y procedimientos sobre la adquisición, el control, uso, destino y enajenación de los bienes muebles e inmuebles del Gobierno del Estado a cargo del Ejecutivo del Estado y vigilar el cumplimiento de las mismas.
 
-Los usuarios tienen el derecho de denunciar ante la COCOTRA, cualquier irregularidad en la prestación del servicio público de transporte.
+II. Vigilar que la administración y funcionamiento de los Almacenes Generales de Gobierno del Estado, se realice de conformidad con la legislación aplicable.
+
+III. Fungir como Secretario Técnico de la Comisión Intersecretarial para la Adquisición de Terrenos y Bienes Distintos Necesarios para Obra de Infraestructura o Liberación de Derecho de Vía.
+
+IV. Emitir los dictámenes de Arrendamiento que soliciten los Organismos Públicos de la Administración Pública Estatal en su calidad de arrendatarios.
+
+V. Preparar los dictámenes técnicos para la adquisición de vehículos y demás equipos de transportes que requieran los organismos públicos de la Administración Pública Estatal.
+
+VI. Fungir como vocal del Comité Técnico del Fondo de Protección para Vehículos Propiedad del Poder Ejecutivo Estatal.
+
+VII. Vigilar que las recuperaciones administrativas y judiciales de los bienes muebles e inmuebles del Estado, a cargo de la Administración Pública Estatal, se realicen de conformidad con las normas establecidas.
+
+VIII. Solicitar a los Organismos Públicos de la Administración Pública Estatal, la información documental de los bienes muebles e inmuebles del Estado que tengan adscritos, para actualizar los inventarios correspondientes.
+
+IX. Fungir como Secretario Técnico del Comité Técnico Interinstitucional permanente para la Enajenación en Subasta Pública, de Bienes Muebles, del Dominio Privado de Gobierno.
+
+X. Coordinar las acciones necesarias para el aseguramiento del equipo informático y de comunicación, bienes inmuebles y aeronaves del Ejecutivo del Estado, a cargo de la Administración Centralizada.
+
+XI. Realizar las acciones necesarias para llevar a cabo la enajenación de los bienes inmuebles a cargo de la Administración Pública Estatal.
+
+XII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico de Regulación Patrimonial; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 36.
 
-Son obligaciones de los concesionarios y permisionarios, además de lo establecido en el artículo 39 de la Ley las siguientes:
+La Dirección de Catastro Urbano y Rural, tendrá los Órganos Administrativos siguientes:
 
-I. Prestar el servicio en vehículos que cumplan con las especificaciones técnicas y de seguridad establecidas en el Reglamento de la Ley de Policía y Tránsito del Estado, en la concesión y en los manuales respectivos, debiendo utilizar en éstos los sistemas y equipos que determine la SEDUE en los términos establecidos en la Ley ambiental del Estado;
+a) Departamento de Estudios Catastrales.
 
-II. Proporcionar el servicio en forma continua; prestando a los usuarios un servicio eficiente, seguro y oportuno, con un trato amable y de calidad;
+b) Departamento de Valuación y Servicios.
 
-III. No interrumpir el servicio salvo por fuerza mayor o caso fortuito;
+c) Departamento de Innovación y Promoción Catastral.
 
-IV. Prestar el servicio público de transporte de manera gratuita, por causas de fuerza mayor, de desastre o de seguridad pública, cuando así se le requiera por la COCOTRA;
-
-V. Entregar a todo usuario del servicio público de transporte en las modalidades de urbano, suburbano, foráneo de primera y segunda clase, de pasajeros en todas sus modalidades, en el momento en que cubra el importe de su viaje, el boleto o cualquier otra forma que autorice la COCOTRA, de conformidad con las facultades que le otorga la Ley, para garantizar su seguro del viajero;
-
-VI. Proporcionar un trato preferencial en el servicio, a las personas con discapacidad, a las de la tercera edad y gestantes, procurando su seguridad y comodidad;
-
-VII. Portar en cada vehículo la bitácora autorizada por la COCOTRA, en la que conste el estado físico y documental de éste, de las concesiones, el registro de conductores, así como las infracciones al mismo o al concesionario o permisionario y presentarla cuando le sean requeridas por la autoridad;
-
-VIII. Portar la placa de identificación rotulada en los términos que señale la COCOTRA, que acredite que el vehículo cuenta con la concesión o permiso respectivo y que se han cumplido con los pagos de los impuestos y derechos correspondientes;
-
-IX. Presentar los vehículos a revista física, documental, y verificación vehicular de emisión de contaminantes, cuando así lo requiera la COCOTRA, y observar las normas de higiene y seguridad;
-
-X. Colocar en lugar visible en el interior de los vehículos, las tarifas autorizadas por la COCOTRA, y no alterar su cobro;
-
-XI. No destinar los vehículos a otros fines distintos a la modalidad autorizada en el título de concesiones, salvo autorización previa de la COCOTRA;
-
-XII. Proporcionar a los conductores de los vehículos que ampara la concesión o permiso para su conocimiento, la Ley de Policía y Tránsito del Estado y su Reglamento, la Ley de Comunicaciones y Transportes de Estado y el presente Reglamento;
-
-XIII. Instruir al operador del vehículo para que porte el tarjetón de identificación expedido por la COCOTRA, mismo que contendrá sus datos generales y fotografía, y además, la licencia de chofer del servicio público vigente expedida por la DGSPT;
-
-XIV. Inscribir el vehículo en el Registro Público de Transporte, y, en su caso, actualizar los movimientos de que sea objeto en un término no mayor de diez días hábiles;
-
-XV. Inscribir en el Registro Público de Transporte, los financiamientos que se contraten para la renovación o mejoramiento del parque vehicular, así como los datos generales de los conductores de los vehículos y actualizarlos en un término no mayor de diez días hábiles, cuando éstos cambien;
-
-XVI. Designar un beneficiario para el caso de fallecimiento;
-
-XVII. Operar el servicio público de transporte en las modalidades de urbano, suburbano, foráneo de primera y segunda clase, colectivo urbano, colectivo suburbano y mixto, únicamente en las rutas, frecuencias, zonas de ascenso y descenso, vialidades y carriles autorizados por la COCOTRA, en recorridos directos, express u ordinarios, cuya descripción constará en el título de concesión respectivo, quedando prohibido modificarlas, o enrolar los servicios si (sic) la previa autorización de la COCOTRA. Los sitios estarán en lugares preestablecidos y deberán contar con las instalaciones necesarias indicadas en el título de la concesión o permiso correspondiente;
-
-XVIII. Contar con los servicios auxiliares que garanticen la adecuada prestación del servicio;
-
-XIX. Respetar los carriles de las vías primarias, los cuales sólo podrán ser utilizados por los autobuses así como por los vehículos de emergencia;
-
-XX En el caso de vehículos destinados al servicio público de transporte de pasajeros en las modalidades de urbano, suburbano, foráneo de primera y segunda clase colectivo urbano, colectivo suburbano y mixto, en ningún caso podrán llevar persona alguna en las escaleras de ascenso y descenso, ni circular con las puertas abiertas, ni exceder de su capacidad de pasajeros o de carga;
-
-XXI. En cuanto al servicio de transporte especializado de escolares, durante su operación, deberán llevar a bordo un auxiliar, cuya función será vigilar y garantizar la seguridad de los pasajeros, y en ningún caso estos vehículos deberán trasladar pasajeros de pie, debiendo circular siempre con las puertas cerradas;
-
-XXII. Utilizar para la prestación del servicio, el uniforme autorizado por la COCOTRA;
-
-XXIII. Efectuar las maniobras de ascenso y descenso de los pasajeros, únicamente en los lugares autorizados, y encender las luces intermitentes cuando efectúen estas maniobras;
-
-XXIV. Capacitarse o otorgar los medios para capacitar a los conductores del transporte público de pasajeros, carga y transporte especializado, en materias como legislación del transporte; medidas de seguridad; mecánica básica; manejo a la defensiva; nivel de servicio al usuario y primeros auxilios;
-
-XXV. Operar en caso, de taxis de sitio, en lugares preestablecidos denominados bases de sitio, las cuales deberán contar con instalaciones necesarias que incluyan teléfono y sanitarios para el uso de los conductores mismo requisito, obligado para el transporte colectivo y urbano; y,
-
-XXVI. Abstenerse de utilizar en las unidades del servicio público, cristales polarizados, salvo el caso, en que estos hayan sido instalados por el fabricante.
+d) Departamento de Digitalización Catastral.
 
 ###### Artículo 37.
 
-Para obtener la autorización para prestar el servicio público de auto alquiler en grupos de radio taxis, se deberá presentar ante la COCOTRA, además de la solicitud por escrito en original y copia, lo siguiente:
+El Titular de la Dirección de Catastro Urbano y Rural, tendrá las atribuciones siguientes:
 
-I. El Padrón de concesionarios y permisionarios; y,
+I. Coordinar el registro, actualización del inventario y los datos, sobre la propiedad inmobiliaria, tanto urbana como rural, para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos del Estado.
 
-II. La ubicación, croquis de la base, inventario del equipo con que contará la organización, autorización del uso de la frecuencia de radio expedida por la Secretaría de Comunicaciones y Transportes, el registro ante la Secretaría de Relaciones Exteriores, y el proyecto de distintivos de la organización que se pretende crear.
+II. Establecer los mecanismos necesarios para la actualización permanente del catastro, en coordinación con los Organismos Públicos de la Administración Pública Estatal de los tres niveles de Gobierno, relacionados con la materia.
+
+III. Promover la actualización permanente de la nomenclatura urbana, en coordinación con los ayuntamientos del Estado, con el fin de obtener mayor control y eficiencia en la recaudación fiscal en beneficio del erario Estatal.
+
+IV. Proporcionar el apoyo técnico catastral a las Dependencias Federales, Estatales y Municipales, cuando así lo soliciten.
+
+V. Establecer coordinación con los municipios del Estado, para la creación de reservas territoriales y vigilancia sobre el uso del suelo; así como, para la aprobación y administración de la zonificación urbana.
+
+VI. Establecer la normatividad técnica para la determinación de valores unitarios de terrenos y construcciones en el territorio Estatal.
+
+VII. Contribuir con los Municipios del Estado, en la definición de tasas, cuotas y tarifas, para el cobro de contribuciones inmobiliarias.
+
+VIII. Coordinar la elaboración de instructivos para la valuación técnica de predios rústicos y urbanos, para efectos de traslación de dominio y valores fiscales de éstos.
+
+IX. Promover la elaboración, supervisión y modificación de planos catastrales de las Localidades y Municipios del Estado.
+
+X. Coordinar la realización de inspecciones de campo y levantamientos catastrales, así como, todo lo relacionado con fijación y rectificación de medidas y colindancias de los predios.
+
+XI. Vigilar que el desarrollo de fraccionamientos y ejecución de nuevas obras de construcciones, se realice de conformidad con las leyes aplicables, a fin de actualizar y valuar técnicamente los mismos.
+
+XII. Vigilar que la verificación de los predios se realice de conformidad con las leyes aplicables; así como, formular los instructivos necesarios para el funcionamiento de las operaciones catastrales.
+
+XIII. Determinar el valor de los bienes inmuebles ubicados dentro del territorio del Estado, conforme a lo dispuesto por las disposiciones hacendarias en la materia.
+
+XIV. Vigilar que la evaluación a los aspirantes a peritos valuadores en materia inmobiliaria, se realice de acuerdo a los procedimientos que previamente establezca el Instituto.
+
+XV. Establecer mecanismos para el registro de los peritos valuadores, previo cumplimiento de los requisitos establecidos en la Ley de la materia; así como verificar la vigencia para validar el ejercicio y la función de la actividad valuatoria de los mismos.
+
+XVI. Designar a los peritos valuadores registrados ante el Instituto, que se requieran para la formulación y desarrollo de los dictámenes propios del gobierno del Estado, y que se encuentren relacionados con los asuntos de su conocimiento, competencia y especialidad.
+
+XVII. Solicitar a los propietarios, poseedores o usufructuarios de bienes inmuebles ubicados en el territorio del Estado, o a sus representantes legales, para que manifiesten la adquisición o modificación de los mismos, de acuerdo a las disposiciones de la Ley de la materia.
+
+XVIII. Expedir copias certificadas de los planos y demás documentos e informes catastrales relacionados con los predios ubicados dentro del territorio del Estado, de conformidad con lo establecido en la Ley de la materia, previo pago de los derechos correspondientes.
+
+XIX. Imponer multas por las infracciones que establecen la Ley de la materia y su Reglamento, así como las establecidas en el Reglamento del Registro de Peritos Valuadores del Estado de Chiapas.
+
+XX. Emitir los dictámenes para el pago de impuestos y derechos por fraccionamientos, condominios, relotificación y subdivisiones de predios dentro del territorio del Estado, de conformidad con las leyes aplicables.
+
+XXI. Comunicar a los municipios que administren sus impuestos a la propiedad inmobiliaria, el valor catastral del área vendible de fraccionamientos o condominios, para que en uso de sus facultades fiscales, realicen el cobro de las contribuciones correspondientes.
+
+XXII. Solicitar a los propietarios, poseedores o usufructuarios de bienes inmuebles, los documentos e informes que sean necesarios para la formación, actualización y conservación de los padrones catastrales.
+
+XXIII. Vigilar que los coeficientes de incrementos y deméritos aplicables en la valuación de bienes inmuebles, se realice de conformidad a las técnicas de valuación.
+
+XXIV. Participar en el deslinde y descripción de los perímetros divisorios entre el Estado y las entidades limítrofes, así como, los límites de los municipios que integran al Estado.
+
+XXV. Preparar los proyectos de resoluciones en materia catastral establecidos por los ordenamientos legales.
+
+XXVI. Establecer coordinación con los Organismos Públicos de la Administración Pública Estatal, en la ejecución de estudios fotogramétricos, digitalización y restitución de localidades que no cuentan con éstos.
+
+XXVII. Informar a la autoridad hacendaria estatal competente, de los hechos que tenga conocimiento con motivo de sus atribuciones, que puedan constituir delitos fiscales Estatales o Federales.
+
+XXVIII. Establecer mecanismos para la difusión de los productos y servicios catastrales, dirigidos a Dependencias, municipios e interesados en la materia.
+
+XXIX. Proporcionar asesoría técnica a la ciudadanía, instituciones públicas o privadas que lo soliciten, acerca del Sistema de Gestión Catastral y de los trámites vía Web.
+
+XXX. Ordenar el uso del inventario catastral del Estado, por medio de sistemas técnicos modernos, con el objeto de mantener la integración de los registros catastrales y de la cartografía.
+
+XXXI. Establecer mecanismos para el control de las manifestaciones de traslado de dominio que se encuentren inscritas en el Registro Público de la Propiedad y del Comercio, y de las cédulas catastrales expedidas a través de Internet y en cajas universales.
+
+XXXII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico de Regulación Patrimonial; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 38.
 
-Serán responsables solidarios tanto los concesionarios y permisionarios como los conductores de los vehículos en la prestación del servicio público de autotransporte, por el incumplimiento de las disposiciones previstas en este Reglamento, a excepción de aquéllas que sean inherentes a los propios conductores, o que se señalen en la Ley de Policía y Tránsito del Estado, y en su Reglamento, o en otras disposiciones aplicables.
+La Dirección de Archivo General y Notarías del Estado, tendrá los Órganos Administrativos siguientes:
+
+a) Departamento de Notarías.
+
+b) Departamento de Archivo General del Estado.
 
 ###### Artículo 39.
 
-Los concesionarios y permisionarios, así como los conductores del servicio público de transporte de personas, en sus diferentes modalidades, no deberán efectuar trabajo alguno de mecánica a los vehículos en la vía pública, salvo en los casos de descomposturas durante la prestación del servicio; tampoco podrán hacer base en lugares no autorizados, así como deberán abstenerse de lavar los vehículos en los paraderos, bases y sitios.
+El Titular de la Dirección de Archivo General y Notarías del Estado, tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+I. Elaborar programas y proyectos en materia notarial y para la conservación del acervo documental, en beneficio de la población del Estado.
+
+II. Establecer mecanismos de control y conservación de los libros y expedientes del ejercicio de la función notarial.
+
+III. Implementar acciones en materia archivística, para el debido tratamiento y guarda de los documentos que emitan los Organismos Públicos Estatales y Municipales.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+IV. Realizar acciones dirigidas a la ejecución de los acuerdos emitidos por el Comité del Sistema Institucional de Archivos.
+
+V. Vigilar el ejercicio de la función notarial, en términos de la Ley de la materia.
+
+VI. Autorizar el uso de los libros del protocolo notarial, de acuerdo a la legalidad establecida.
+
+VII. Coordinar las visitas de inspección general y especial a las Notarías del Estado.
+
+VIII. Presentar para su aprobación al Subconsejero de Servicios y de Asistencia Legal, los proyectos de resolución que den conclusión a cualquier procedimiento administrativo, instaurado en contra de Notarios Públicos del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+IX. Llevar los registros de expedición de patentes de aspirantes y de Notarios, de Sellos y Firma de Notarios, Convenios de Suplencia y de Asociación Notarial.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+X. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de Servicios y de Asistencia Legal; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 40.
 
-Los vehículos del servicio público de transporte de personas en sus diferentes modalidades, que utilicen como medio de propulsión combustibles alternos en cualquiera de sus formas, deberán cumplir con las disposiciones que sobre la materia establezca la COCOTRA y demás autoridades competentes, con el propósito de salvaguardar la integridad física de los usuarios y proteger el medio ambiente.
+La Dirección del Registro Civil del Estado, tendrá, los Órganos Administrativos siguientes:
+
+I. Oficialías del Registro Civil, Unidad Hospitalaria.
+
+II. Oficialías.
+
+III. Departamento de Planeación y Seguimiento de Programas.
+
+IV. Departamento de Control Administrativo.
+
+V. Departamento de Revisión de Actas.
+
+VI. Departamento de Aclaración de Actas.
+
+VII. Departamento del Archivo Estatal de Libros del Registro Civil.
+
+VIII. Departamento de Sistematización y Microfilmación.
+
+IX. Departamento de Registro (sic) Extemporáneos de Actas del Registro Civil.
 
 ###### Artículo 41.
 
-El uso de publicidad en los vehículos concesionados o permisionados requieren el permiso previo de la COCOTRA, de conformidad con las facultades que le otorga la Ley.
+El Titular de la Dirección del Registro Civil del Estado, tendrá las atribuciones siguientes:
+
+I. Promover, dirigir y coordinar acciones tendentes a registrar y regularizar los actos relativos al estado civil de las personas.
+
+II. Proponer al Subconsejero de Servicios y de Asistencia Legal, la apertura de nuevas Oficialías del Registro Civil, con la finalidad de proporcionar un mejor servicio a la ciudadanía.
+
+III. Promover la difusión de información sobre los servicios que proporciona la Dirección del Registro Civil del Estado.
+
+IV. Ordenar la concentración de la información de los actos del Registro Civil, a efectos de proporcionarlas a las Dependencias con las que se haya celebrado convenio alguno.
+
+V. Realizar los actos del estado civil, por medio de campañas en las comunidades que por razón de distancia y economía no han podido realizar en las Oficialías correspondientes de las cabeceras municipales.
+
+VI. Establecer acciones para la guarda, custodia y conservación de los archivos magnéticos de índices y de rollos de microfilmación.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+VII. Resolver los Recursos de Revisión, de las resoluciones emitidas por los titulares de los Departamentos de Aclaración de Actas y de Registro (sic) Extemporáneos de Actas del Registro Civil.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VIII. Autorizar con su firma autógrafa o electrónica previo pago de derechos, la expedición de documentación certificada en la que consten los actos inscritos en los libros del Registro Civil, documentos relacionados con ellos, así como los contenidos en la base de datos, los cuales podrán emitirse por medios electrónicos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+IX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de Servicios y de Asistencia Legal; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 42.
 
-La operación de bicitaxis en zonas de interés turístico o recreativo de ciudades con estas características, se sujetarán a los lineamientos existentes para concesiones y permisos y además:
+El Titular de la Dirección del Abogado del Pueblo, tendrá las atribuciones siguientes:
 
-l. Operarán únicamente en bases de sitio y localizadas en zonas de interés turístico o recreativo previamente autorizado por la COCOTRA, con horario de funcionamiento de 09:00 a.m. a 19:00 horas p.m., diariamente;
+I. Proporcionar asesoría y asistencia legal a la ciudadanía, en materia civil, familiar y penal, cuando así lo soliciten, en términos de las disposiciones aplicables.
 
-II. Con el propósito de garantizar la seguridad de los usuarios, los bicitaxis sólo podrán operar en las vialidades y rutas autorizadas por la COCOTRA;
+II. Vigilar que las asesorías jurídicas y defensa legal proporcionadas, sean controladas mediante el Libro de Registros.
 
-III. Los conductores de los bicitaxis están obligados a cumplir con lo dispuesto en el artículo 36 de este Reglamento en lo conducente;
+III. Emitir autorización para la prestación de los servicios de asesoría jurídica y defensa legal que soliciten los ciudadanos.
 
-Las características técnicas de seguridad y comodidad de los bicitaxis se establecerán en el manual respectivo, pero obligatoriamente deberán cumplir con las siguientes:
+IV. Presentar a su superior inmediato, el Informe Anual de Actividades y el Programa Anual de Capacitación de la Dirección, en términos de las disposiciones legales aplicables.
 
-I. Capacidad máxima para 3 pasajeros en cabina cubierta, y la utilización de un sistema eléctrico que permita la iluminación delantera de su recorrido, así como luces en la parte posterior, debiendo contar con luces de frenado y espejos retrovisores en ambos lados del vehiculo y reflejantes laterales;
+V. Establecer mecanismos para la promoción y fortalecimiento de las relaciones del Instituto, con instituciones públicas, sociales y privadas, dedicadas a la protección de los derechos humanos o que por la naturaleza de sus funciones, puedan colaborar en el cumplimiento de los objetivos del Instituto.
 
-II. Contar con claxon y/o corneta;
+VI. Emitir la aprobación de las solicitudes recibidas de los Órganos Jurisdiccionales del Fuero Común, del Ministerio Público y de los Jueces Cívicos.
 
-III. Tener piso de superficie antiderrapante, sin bordes o salientes que dificulten el ascenso y descenso, y,
+VII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de Servicios y de Asistencia Legal; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
-IV. Cumplir con la disposición oficial en relación a los colores que identifiquen a este tipo de servicio.
+## Título Cuarto. De las Suplencias de los Servidores Públicos
+
+### Capítulo Único. De las Ausencias y el Orden de Suplencia
 
 ###### Artículo 43.
 
-La operación y prestación del servicio público de carga y sus servicios conexos en el Estado, se sujetarán a las disposiciones de la Ley, el presente Reglamento y demás normatividad aplicable que al efecto expida la COCOTRA.
-
-En su caso, será objeto de permiso y no concesión, los servicios conexos de transporte de carga. Con la finalidad de concentrar todos los servicios conexos relativos a la prestación del transporte de carga y eficientizar su operación, los concesionarios y permisionarios del servicio público de transporte de carga en el Estado, deberán organizarse a fin de establecer centrales o sitios de servicio para su contratación, las cuales podrán proporcionar servicio de mantenimiento vehicular, encierro y estacionamiento de unidades, contando con zonas de almacenamiento, carga y maniobras, así como oficinas para contratación con los usuarios.
+El Consejero Jurídico será suplido en sus ausencias, por el servidor público que el Ejecutivo del Estado designe.
 
 ###### Artículo 44.
 
-Los concesionarios o permisionarios que proporcionen servicio público de transporte de carga en el Estado, no podrán transportar carga peligrosa en vehículos que no estén destinados o autorizados para ello.
-
-Para los efectos de este Reglamento, se considera carga peligrosa, cualquiera de los siguientes elementos:
-
-I. Explosivos;
-
-II. Gases comprimidos, refrigerados, licuados o disueltos a presión;
-
-III. Líquidos y sólidos flamables;
-
-IV. Oxidantes y peróxidos;
-
-V. Tóxicos agudos, venenos y agentes infecciosos;
-
-VI. Radioactivos;
-
-VII. Corrosivos; y,
-
-VIII. Alguna otra substancia, compuesto, elemento o material con propiedades flamables o tóxicas que representen un riesgo para la vida, salud, integridad y seguridad de las personas.
+Las ausencias temporales de los Titulares de las Unidades y Subconsejerías, serán suplidas por el servidor público que designe el Consejero Jurídico.
 
 ###### Artículo 45.
 
-Los vehículos que presten el servicio público de transporte de carga concesionado o permisionado, deberán cumplir con los límites de emisiones de ruido y contaminantes fijados por las normas oficiales, con la Ley de Protección al Ambiente del Estado y el Reglamento de la Ley de Policía y Tránsito del Estado. De igual forma deberán utilizar los sistemas y equipos que determinen la SEDUE y la COCOTRA.
+Los Titulares de las Direcciones, serán suplidos en sus ausencias, por el servidor público que designe el Subconsejero al cual se encuentren adscritos, previo acuerdo y aprobación del Consejero Jurídico.
 
 ###### Artículo 46.
 
-Queda prohibido transportar en unidades que hayan sido autorizadas para trasladar substancias, materiales y residuos peligrosos:
+Los Titulares de los Departamentos, Delegaciones y Oficialías serán suplidos en sus ausencias por los servidores públicos que designen los Titulares de las Direcciones, según corresponda, previo acuerdo con el Subconsejero de su adscripción y aprobación del Consejero Jurídico.
 
-I. Personas;
+T r a n s i t o r i o s
 
-II. Animales;
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
-III. Productos alimenticios de consumo humano o animal;
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto de la Consejería Jurídica y de Asistencia legal, publicado en el Periódico Oficial, No. 147, Segunda Sección, Tomo III, de fecha veinticinco de febrero del año dos mil nueve, así como la normatividad que de él emane, y se derogan las disposiciones que se opongan al contenido del presente ordenamiento jurídico.
 
-IV. Artículos de uso personal;
+Artículo Tercero.- En los casos no previstos en el presente Reglamento Interior, y en los que se presente controversia en cuanto a su interpretación, aplicación y observancia, el Consejero Jurídico resolverá lo conducente.
 
-V. Residuos sólidos; y,
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto de las funciones de los diversos Órganos Administrativos y demás actividades del personal se estará a lo dispuesto por los Manuales de Organización y Procedimientos de este Instituto.
 
-VI. Demás que no sean compatibles conforme a lo establecido en la norma respectiva.
+Artículo Quinto.- El Manual de Organización del Instituto, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
 
-Será necesario contar con autorización previa otorgada por la COCOTRA, si se acredita fehacientemente que por razones económicas el concesionario o permisionario tiene la necesidad de transportar otro tipo de bienes en estas unidades, diferentes a las substancias materiales y residuos peligrosos mencionadas (sic) en este Reglamento, siempre y cuando se ajuste a lo establecido en la norma respectiva.
+Artículo Sexto.- En tanto se expide el Manual respectivo, el Consejero Jurídico resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
 
-###### Artículo 47.
+Artículo Séptimo.- El Instituto deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
 
-El transporte de líquidos flamables deberá efectuarse en vehículos adaptados para los mismos en latas o tambores herméticamente cerrados; dichos vehículos deberán estar dotados de extinguidor contra incendios.
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
 
-###### Artículo 48.
+Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los trece días del mes de julio de dos mil doce.
 
-El concesionario o permisionario del servicio público de carga, debera emitir por cada embarque una carta-porte, nota de remisión o factura debidamente requisitada, que deberá contener además de los requisitos fiscales y de las disposiciones aplicables en el presente Reglamento, lo siguiente:
+Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Carlos Eugenio Serrano Herrera, Consejero Jurídico del Gobernador.- Rúbricas.
 
-I. Denominación social o nombre del concesionario o permisionario, expedidor y operador;
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-II. Nombre y domicilio del destinatario;
+P.O. 27 DE JUNIO DE 2018.
 
-III. Nominación de la mercancía con expresión de su calidad genérica, peso, volumen, marca o signos exteriores de los bultos o embalaje en que se contengan y en su caso, el valor declarado de los mismos;
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 2654-A-2018 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA CONSEJERÍA JURÍDICA Y DE ASISTENCIA LEGAL”.]
 
-IV. Precio del servicio de transporte o cualquier otro cobro derivado del mismo;
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
-V. Fecha en que se efectúa la expedición;
+Artículo Segundo. Se derogan todas las disposiciones que tengan similar o menor jerarquía que el presente Decreto y se opongan al mismo.
 
-VI. Lugar de recepción de la mercancía por el concesionario o permisionario; y,
+Artículo Tercero. Para las cuestiones no previstas en el presente Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Consejero Jurídico resolverá lo conducente.
 
-VII. Lugar y fecha o plazo en que habrá de hacerse la entrega al destinatario.
+Artículo Cuarto. El Manual de Organización del Instituto de la Consejería Jurídica y de Asistencia Legal, deberá actualizarse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Decreto.
 
-Cuando las disposiciones aplicables obliguen a la presentación de documentos para el transporte de ciertas mercancías, el transportista exigirá al expedidor los documentos de que se trate y estará obligado a rehusar el servicio si no le son entregados.
-
-###### Artículo 49.
-
-Es responsabilidad del concesionario o permisionario, que los vehículos del servicio público de transporte de carga en el Estado cuenten con toda la documentación que autoriza su servicio, debiendo sujetarse a los procedimientos de expedición, reposición o revalidación que determine la COCOTRA a través de sus acuerdos y manuales.
-
-###### Artículo 50.
-
-Los concesionarios o permisionarios del transporte de carga, son responsables en las pérdidas y daños que sufran los bienes o productos que transporten, desde el momento en que reciban la carga hasta que la entreguen a sus destinatarios excepto en los siguientes casos:
-
-I. Por vicios propios de los bienes o productos, o por embalajes inadecuados;
-
-II. Cuando la carga por su propia naturaleza sufra deterioro o daño total o parcial;
-
-III. Cuando a petición escrita del remitente de la carga los bienes se transporten en vehículos descubiertos y que debieran transportarse en vehículos cerrados o cubiertos;
-
-IV. Por falsas declaraciones o instrucciones del cargador, del consignatario o destinatario de los bienes o del titular de la carta porte; y,
-
-V. Cuando el usuario del servicio no declare el valor de la mercancía, la responsabilidad quedará limitada a la cantidad equivalente a quince días de salario mínimo general vigente en el Estado, por tonelada o la parte proporcional que corresponda, tratándose de embarques de menor peso.
-
-Lo anterior siempre y cuando no se contraponga con lo dispuesto en el Código Civil del Estado, en lo relativo a los contratos de porteadores y alquiladores.
-
-###### Artículo 51.
-
-Cuando el usuario del servicio pretenda que en caso de pérdida o daño de sus bienes durante el transporte, inclusive derivado de caso fortuito o fuerza mayor, que el concesionario o permisionario le indemnice por el precio total de la pérdida, éste, deberá declarar el valor correspondiente al momento de la contratación.
-
-###### Artículo 52.
-
-Es obligación de los concesionarios y permisionarios del transporte público de carga, garantizar, en los términos que para tal efecto autoriza la COCOTRA, los daños que puedan ocasionarse a terceros en sus bienes y personas y cualquier otro daño que pudiera generarse por el vehículo o por la carga en caso de accidente, según se establezca en las normas y disposiciones aplicables.
-
-###### Artículo 53.
-
-Si por causa de los daños las mercancías quedaren inutilizadas para la venta o consumo o para el uso a que estuvieren destinadas, el destinatario no estará obligado a recibirlas y podrá dejarlas al concesionario y permisionario en el lugar de la entrega y exigir como pago el valor declarado o la restitución de nueva mercancía. Si entre la mercancía dañada se encontrare alguna pieza en buen estado el destinatario la recibirá, y sólo tendrá efecto lo contemplado en el artículo anterior con respecto a lo dañado.
-
-###### Artículo 54.
-
-El servicio de autotransporte mixto que preste el titular del Poder Ejecutivo por sí o a través de organismos públicos descentralizados o desconcentrados, concesionarios o permisionarios, se sujetará a las disposiciones de la Ley, el presente Reglamento y demás ordenamientos aplicables.
-
-Además de lo establecido en el artículo 39 de la Ley, para este servicio, los prestadores estarán obligados a:
-
-I. Efectuar el servicio en vehículos que cumplan con las especificaciones técnicas y de seguridad establecidas en el Reglamento de la Ley de Policía y Tránsito del Estado, en la concesión o permiso y en los manuales respectivos, debiendo utilizar en éstos los sistemas y equipos que determine la SEDUE, en los términos establecidos en la Ley de Protección al Ambiente del Estado;
-
-II. Efectuar el servicio en forma continua;
-
-III. Presentar la bitácora cuando así lo requiera la COCOTRA, de conformidad con las facultades que le otorga la Ley; y,
-
-IV. Presentar los vehículos a revista física, documental y verificación vehicular de emisión de contaminantes, cuando así lo requiera la COCOTRA.
-
-###### Artículo 55.
-
-Los vehículos de servicio público de transporte mixto que utilicen como medio de propulsión el gas natural en cualquiera de sus formas, deberán cumplir con las disposiciones que sobre la materia establezca la Secretaría de Comercio y Fomento Industrial, la COCOTRA y demás autoridades competentes, con el propósito de salvaguardar la integridad física de los usuarios y proteger el medio ambiente.
-
-Las unidades del servicio público del transporte, en todas sus modalidades, no podrá cambiar colores, numerales ni distintivos oficiales establecidos para cada tipo de servicio en los manuales respectivos, sin la previa autorización de la COCOTRA.
-
-###### Artículo 56.
-
-Los conductores del transporte público de pasajeros, carga y especializado deberán acreditar ante la COCOTRA, mediante constancia, haber recibido una capacitación inicial de 40 horas en un curso no mayor a 60 días naturales, debiendo actualizarse anualmente la capacitación referida, en cursos no menores de 20 horas en un lapso de 30 días naturales.
+Artículo Quinto. Conforme a lo dispuesto por los artículos 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas, y 13 fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Decreto en el Periódico Oficial.
