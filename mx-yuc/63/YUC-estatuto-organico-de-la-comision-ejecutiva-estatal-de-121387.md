@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-comision-ejecutiva-estatal-de-121387"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-28"
-last_updated: "2017-04-28"
+last_updated: "2018-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121387&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA ESTATAL DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE JUNIO DE 2018.
 
 Estatuto publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el viernes 28 de abril de 2017.
 
@@ -91,9 +91,13 @@ II. Unidades administrativas:
 
 a) Dirección de Asesoría a Víctimas.
 
-b) Dirección de Administración y Finanzas.
+> <small>(REFORMADO, D.O. 27 DE JUNIO DE 2018)</small>
 
-c) Unidad Jurídica.
+b) Departamento de Administración.
+
+> <small>(REFORMADO, D.O. 27 DE JUNIO DE 2018)</small>
+
+c) Departamento Jurídico.
 
 ### Capítulo III. Funcionamiento de la comisión
 
@@ -355,11 +359,15 @@ X. Ordenar la práctica de visitas de supervisión directa.
 
 XI. Las demás que sean necesarias para cumplir con el objeto de las funciones de la asesoría jurídica.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 27 DE JUNIO DE 2018)</small>
+
 ###### Artículo 28.
 
-Facultades y obligaciones del director de Administración y Finanzas
+Facultades y obligaciones del Jefe del Departamento de Administración
 
-El director de Administración y finanzas tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 27 DE JUNIO DE 2018)</small>
+
+El jefe del Departamento de Administración tendrá las siguientes facultades y obligaciones:
 
 I. Administrar, en coordinación con el director general, los recursos humanos, financieros, materiales y tecnológicos de la comisión.
 
@@ -375,9 +383,13 @@ VI. Proponer al director general políticas, lineamientos y criterios para la ad
 
 VII. Diseñar y aplicar los registros, instrumentos y procesos administrativos necesarios para la adecuada administración de los recursos de la comisión y la comprobación de su ejercicio ante las instituciones públicas correspondientes.
 
-VIII. Fomentar la captación de recursos provenientes de fuentes federales de financiamiento para el cumplimiento del objeto de la comisión.
+> <small>(REFORMADA, D.O. 27 DE JUNIO DE 2018)</small>
 
-IX. Difundir las políticas, los lineamientos y los criterios relacionados con la captación y el ejercicio de los recursos federales transferidos a la comisión, así como con la integración de la información correspondiente.
+VIII. Fomentar la captación de recursos provenientes de fuentes de financiamiento, federales o estatales, para el cumplimiento del objeto de la comisión.
+
+> <small>(REFORMADA, D.O. 27 DE JUNIO DE 2018)</small>
+
+IX. Difundir las políticas, los lineamientos y los criterios relacionados con la captación y el ejercicio de los recursos federales o estatales transferidos a la comisión, así como la integración de la información correspondiente.
 
 X. Gestionar la impartición de los cursos de capacitación para los servidores públicos.
 
@@ -389,15 +401,21 @@ XIII. Controlar los bienes muebles e inmuebles de la comisión, procurar su adec
 
 XIV. Proporcionar la información financiera que requieran las autoridades públicas competentes y, en general, colaborar con ellas para el cumplimiento de las obligaciones administrativas de la comisión.
 
-XV. Administrar los recursos que anualmente se destinan para el Fondo Estatal de Ayuda, Asistencia y Reparación Integral por el presupuesto de egresos de la federación.
+> <small>(REFORMADA, D.O. 27 DE JUNIO DE 2018)</small>
+
+XV. Administrar los recursos que anualmente se destinan para el Fondo Estatal de Ayuda, Asistencia y Reparación Integral por el presupuesto de egresos del gobierno del estado de Yucatán.
 
 XVI. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 27 DE JUNIO DE 2018)</small>
+
 ###### Artículo 29.
 
-Facultades y obligaciones del titular de la Unidad Jurídica
+Facultades y obligaciones del Jefe del Departamento Jurídico
 
-El titular de la Unidad Jurídica tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 27 DE JUNIO DE 2018)</small>
+
+El jefe del Departamento Jurídico tendrá las siguientes facultades y obligaciones:
 
 I. Representar legalmente al director general en los asuntos que le solicite.
 
@@ -471,11 +489,13 @@ Suplencias del director general
 
 El director general será suplido por quien determine o por los titulares de las unidades administrativas señaladas en el artículo 4, fracción II, en ese mismo orden, cuando sus ausencias no excedan de quince días, y por la persona nombrada por la junta de gobierno, cuando se exceda de dicho término.
 
+> <small>(REFORMADO, D.O. 27 DE JUNIO DE 2018)</small>
+
 ###### Artículo 34.
 
-Suplencias de los directores
+Suplencias de los titulares
 
-Los directores serán suplidos por los titulares de la jerarquía inmediata inferior que ellos designen, cuando sus ausencias no excedan de quince días, y por la persona nombrada por el director general, cuando se exceda de dicho término.
+Los titulares de las unidades administrativas serán suplidos por los servidores públicos de la jerarquía inmediata inferior que ellos designen, cuando sus ausencias no excedan de quince días, y por la persona nombrada por el director general, cuando se exceda de dicho término.
 
 ## Artículos transitorios
 
@@ -494,3 +514,17 @@ Aprobado por la Junta de Gobierno del Comisión Ejecutiva Estatal de Atención a
 Lic. Clara Guadalupe Cervera Téllez
 
 Directora general de la Comisión Ejecutiva Estatal de Atención a Víctimas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 27 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CEEAV 03/2018 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA ESTATAL DE ATENCIÓN A VÍCTIMAS”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El Director General de la Comisión Ejecutiva Estatal de Atención a Víctimas deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
