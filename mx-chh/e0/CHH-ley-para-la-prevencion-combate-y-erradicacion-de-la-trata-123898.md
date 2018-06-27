@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-combate-y-erradicacion-de-la-trata-12389
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-14"
-last_updated: "2017-10-14"
+last_updated: "2018-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA TRATA DE PERSONAS Y PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2018.
 
 Ley publicada en Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de octubre de 2017.
 
@@ -313,9 +313,13 @@ VIII.- El Organismo Público Descentralizado, Desarrollo Integral de la Familia 
 
 IX.- La Comisión Ejecutiva de Atención a Víctimas.
 
-X.- Una representación de cada región del Estado, por la o el Presidente Municipal, elegido según lo disponga el Reglamento de la presente Ley.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-XI.- Hasta cinco representantes de Organizaciones de la Sociedad Civil, elegidos según lo disponga el Reglamento de la presente Ley.
+X.- La o el Presidente Municipal de los Municipios de Juárez, Nuevo Casas Grandes, Cuauhtémoc, Chihuahua, Delicias e Hidalgo del Parral, como representantes de cada región del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XI.- Hasta cinco representantes de Organizaciones de la Sociedad Civil.
 
 XII.- El Poder Legislativo del Estado.
 
@@ -323,9 +327,19 @@ XIII.- El Poder Judicial del Estado, designado por el Consejo de la Judicatura d
 
 XIV.- La Comisión Estatal de los Derechos Humanos del Estado.
 
-XV.- Hasta tres expertos académicos en el tema de trata de personas, en sus diferentes rubros, elegidos según lo disponga el Reglamento de la presente Ley.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XV.- Hasta tres expertos académicos en el tema de trata de personas, en sus diferentes rubros.
 
 El Consejo podrá invitar a las sesiones a quien estime pertinente para su participación.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+El mecanismo para la elección de las personas señaladas en las fracciones XI y XV del presente artículo, se realizará de conformidad a la convocatoria que para tal caso emita quien presida el Consejo.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+La convocatoria deberá contener los requisitos, perfiles, impedimentos, lugar y temporalidad para la presentación de las propuestas, así como la autoridad responsable de la evaluación de las mismas y designación de las personas consejeras y demás elementos que resulten necesarios.
 
 ###### ARTÍCULO 20.
 
@@ -576,3 +590,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los tres días del mes de octubre del año dos mil diecisiete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXV/RFLEY/0759/2018 II P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 19 DE LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA TRATA DE PERSONAS Y PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado deberá emitir el Reglamento de la Ley para la Prevención, Combate y Erradicación de la Trata de Personas y Protección, Atención y Asistencia a las Víctimas en el Estado de Chihuahua en un término no mayor de 90 días hábiles siguientes a la entrada en vigor del presente Decreto, para lo cual las personas consejeras participarán de forma activa en su elaboración y emisión respectiva.
