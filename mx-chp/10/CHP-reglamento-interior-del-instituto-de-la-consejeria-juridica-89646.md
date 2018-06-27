@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-la-consejeria-juridica-896
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-05"
-last_updated: "2012-09-05"
+last_updated: "2018-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA CONSEJERÍA JURÍDICA Y DE ASISTENCIA LEGAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 5 de septiembre de 2012.
 
@@ -31,7 +31,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 44 y 47 de la Constitución Política del Estado de Chiapas; 5°,8°, 13 y 23 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones antes expuestos, el Ejecutivo a mi cargo tiene a bien expedir el siguiente:
 
@@ -81,9 +83,11 @@ VII. Ley Orgánica: A la Ley Orgánica de la Administración Pública del Estado
 
 VIII. Reglamento Interior: Al Reglamento Interior del Instituto de la Consejería Jurídica y de Asistencia Legal.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### Artículo 6°.
 
-Los Titulares de los Órganos Administrativos que integran el Instituto, implementarán acciones para la protección, custodia, resguardo y conservación de los archivos a su cargo, en términos de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+Los titulares de los Órganos Administrativos que integran el Instituto, implementarán acciones para la protección, custodia, resguardo y conservación de los archivos a su cargo, en los términos de la normatividad en materia de transparencia en el Estado.
 
 ## Título Segundo. De la Organización del Instituto y Atribuciones del Consejero Jurídico
 
@@ -135,9 +139,11 @@ El Consejero Jurídico, para el cumplimiento de sus atribuciones, contará con l
 
 Para el despacho de los asuntos competencia del Instituto, los Titulares de los Órganos Administrativos desempeñaran las atribuciones conferidas en el presente Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### Artículo 10.
 
-El desempeño de los servidores públicos del Instituto, se regirá por los principios de Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y demás disposiciones legales aplicables.
+El desempeño de los servidores públicos del Instituto, se regirá por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -249,9 +255,9 @@ XX. Aprobar las disposiciones normativas, técnicas y administrativas para la me
 
 XXI. Proporcionar asesoría técnica jurídica al Ejecutivo del Estado, en los asuntos que este le instruya.
 
-XXII. Emitir la validación de los proyectos de las iniciativas de Leyes, Decretos, Acuerdos,
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-Reglamentos y demás ordenamientos jurídicos y en su caso las reformas, adiciones o modificaciones a éstos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+XXII. Emitir la validación de los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos, Convenios y demás ordenamientos jurídicos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
 
 XXIII. Presentar al Ejecutivo del Estado, los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás disposiciones jurídicas para su consideración o suscripción correspondiente.
 
@@ -259,7 +265,9 @@ XXIV. Emitir la validación de los documentos jurídicos que en materia de su co
 
 XXV. Fungir como Presidente de la Comisión de Estudios Jurídicos del Gobierno Estatal; así como expedir las reglas de operación interna y conducir las actividades de la misma.
 
-XXVI. Emitir la validación de los informes que las Dependencias y Entidades de la Administración Pública Estatal, envíen a los organismos defensores de los derechos humanos, en atención a las quejas presentadas por los gobernados.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXVI. Emitir la validación de los informes que las Dependencias y Entidades de la Administración Pública Estatal, rendirán a los organismos defensores de los derechos humanos, para dar atención a las quejas presentadas por los gobernados, así como a las medidas precautorias, propuestas conciliatorias y recomendaciones que emitan dichos organismos.
 
 XXVII. Desempeñar el cargo de notario público en los actos en que participe el Ejecutivo del Estado; así como designar a los Notarios Públicos que intervendrán en los actos en los que éste participe.
 
@@ -267,11 +275,27 @@ XXVIII. Presentar al Ejecutivo del Estado para su consideración o suscripción 
 
 XXIX. Designar a destacados juristas en diversas áreas del derecho con carácter honorífico, como asesores externos del Instituto.
 
-XXX. Emitir dictámenes para resolver las diferencias de opiniones jurídicas que existan entre las Dependencias y/o Entidades de la Administración Pública Estatal; así como definir y unificar criterios para la interpretación de las disposiciones jurídicas que norman el funcionamiento de las mismas.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXX. Emitir opiniones jurídicas, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos, a solicitud de las Dependencias y/o Entidades de la Administración Pública Estatal; así como definir y unificar criterios para la interpretación de las disposiciones jurídicas que norman el funcionamiento de las mismas.
 
 XXXI. Emitir la certificación de los documentos de carácter jurídico administrativo que emita el Ejecutivo del Estado, las Dependencias y Entidades de la Administración Pública Estatal; así como dar fe de los mismos.
 
-XXXII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Ejecutivo del Estado; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXXII. Otorgar la validación correspondiente, a los Dictámenes de Acuerdos de Pensión, emitidos por el Titular del Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXXIII. Designar a la persona que representará al Instituto, ante la Comisión Estatal de Mejora Regulatoria.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXXIV. Vigilar la correcta administración del Sistema de Registro Único de Trámites y Servicios (RUTyS).
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXXV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Ejecutivo del Estado; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ## Título Tercero. De los Órganos Administrativos del Instituto
 
@@ -347,9 +371,29 @@ XXVII. Coordinar la integración de la información necesaria de la Unidad a su 
 
 XXVIII. Emitir opinión respecto a los convenios, contratos y autorizaciones que celebre u otorgue el Instituto, que contengan aspectos de su competencia y suscribirlos cuando se les delegue esta facultad expresamente.
 
-XXIX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXIX. Proporcionar la información necesaria a la Dirección de lo Contencioso, para elaborar los informes previos y justificados que requieran los jueces federales en materia de amparo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 17.
+
+El Titular de (sic) la Unidad de Apoyo Administrativo, estará integrada por los Órganos Administrativos siguientes:
+
+a) Área de Recursos Humanos.
+
+b) Área de Recursos Financieros y Contabilidad.
+
+c) Área de Recursos Materiales y Servicios Generales.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+###### Artículo 17 Bis.
 
 El Titular de la Unidad de Apoyo Administrativo, tendrá las atribuciones siguientes:
 
@@ -361,15 +405,15 @@ III. Presentar para firma del Consejero Jurídico, los documentos administrativo
 
 IV. Celebrar y suscribir convenios, contratos y toda clase de actos administrativos, relacionados con los asuntos competencia del Instituto.
 
-V. Generar los movimientos nominales del personal del Instituto, para su trámite ante la instancia normativa correspondiente.
+V. Suscribir y gestionar los movimientos nominales e incidencias del personal del Instituto, para su trámite ante la instancia normativa correspondiente.
 
-VI. Vigilar que la nómina de sueldos del personal adscrito al Instituto, cumpla con la normatividad establecida.
+VI. Vigilar el control y resguardo de la nómina de sueldos y demás prestaciones del personal adscrito al Instituto, de conformidad con la normatividad establecida.
 
-VII. Proponer al Consejero Jurídico, el fortalecimiento estructural de los Órganos Administrativos y la plantilla de plazas del Instituto.
+VII. Presentar al Consejero Jurídico para su autorización, la adecuación de la estructura orgánica y plantilla de plazas, solicitadas por los Órganos Administrativos que integran al Instituto.
 
-VIII. Proponer al Consejero Jurídico para su aprobación, el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal adscrito al Instituto.
+VIII. Presentar para aprobación del Consejero Jurídico, los cambios necesarios para el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias, así como la suspensión y reanudación de los pagos del personal adscrito al Instituto.
 
-IX. Comunicar la remoción y cambio de adscripción al trabajador involucrado.
+IX. Comunicar la remoción y los cambios de adscripción al trabajador involucrado, así como a los titulares de los órganos administrativos correspondientes, los cuales se apliquen por necesidades del servicio, previamente autorizados por el Consejero Jurídico.
 
 X. Establecer las políticas para el control de asistencia del personal del Instituto.
 
@@ -385,7 +429,7 @@ XV. Solicitar, en representación del Consejero Jurídico, las modificaciones al
 
 XVI. Realizar la ejecución y control del ejercicio del presupuesto anual de egresos del Instituto, aplicando las partidas presupuestarias asignadas a la misma y en atención a las disposiciones aplicables.
 
-XVII. Efectuar ante las instituciones bancarias respectivas, el registro de los apoderados para la liberación de cheques de las cuentas bancarias del Instituto.
+XVII. Efectuar ante las instituciones bancarias respectivas, el registro de los apoderados para la liberación de cheques de las cuentas bancarias mancomunadas del Instituto, aperturadas por la Tesorería Única de la Secretaría de Hacienda.
 
 XVIII. Proveer de recursos humanos, financieros, materiales y servicios a los Órganos Administrativos que conforman al Instituto; conforme a las necesidades y presupuesto autorizado, aplicando la normatividad vigente.
 
@@ -393,19 +437,21 @@ XIX. Conocer y resolver los asuntos de carácter administrativo y laboral relaci
 
 XX. Vigilar en el ámbito de su competencia, el cumplimiento a la ejecución de sanciones laborales y administrativas, a que se haga acreedor el personal adscrito al Instituto.
 
-XXI. Realizar los trámites legales necesarios para la recuperación de bienes y en su caso, presentar las denuncias, querellas y demás acciones que se requieran para ello, actuando en estos casos, como representante legal del Instituto.
+XXI. Coordinar y gestionar las acciones administrativas necesarias, relacionadas para la recuperación de los bienes patrimoniales del Instituto ante las instancias normativas correspondientes.
 
 XXII. Coordinar las sesiones del Subcomité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios del Instituto.
 
 XXIII. Coordinar el Programa Interno de Protección Civil del Instituto, en el ámbito de su competencia.
 
-XXIV. Informar mensualmente a la Unidad de Planeación, sobre el estado presupuestario del Instituto, para evaluación e información correspondiente a las instancias normativas.
+XXIV. Informar mensualmente a la Unidad de Planeación, sobre el estado presupuestario, y cuentas bancarias provenientes de recursos federales del Instituto, para la evaluación e información correspondiente ante las instancias normativas.
 
-XXV. Coordinar la elaboración del Programa Operativo Anual y del Anteproyecto de Presupuesto de Egresos del Instituto, en su aspecto cuantitativo, con base en la normatividad vigente, a efecto de tramitar su autorización ante la Dependencia normativa correspondiente.
+XXV. Coordinar la elaboración del Programa Operativo Anual y del Anteproyecto de Presupuesto de Egresos del Instituto, en su aspecto cuantitativo, con base en la normatividad vigente, a efecto de tramitar su autorización ante la Dependencias (sic) normativa correspondiente.
 
-XXVI. Otorgar las identificaciones oficiales del personal adscrito al Instituto.
+XXVI. Gestionar y otorgar las identificaciones oficiales del personal adscrito al Instituto.
 
-XXVII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XXVII. Vigilar y coordinar las acciones relacionadas con los procesos de entrega-recepción del Instituto.
+
+XXVIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 18.
 
@@ -439,7 +485,13 @@ XIII. Preparar los proyectos para la adquisición de los bienes y servicios info
 
 XIV. Coordinar la actualización de la página Web del Instituto y de las direcciones conforme a las normas y criterios vigentes.
 
-XV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XV. Administrar el Sistema de Registro Único de Trámites y Servicios (RUTyS), manteniéndolo actualizado en relación a los servicios que prestan los diversos órganos administrativos del Instituto.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 19.
 
@@ -475,7 +527,13 @@ XIV. Establecer mecanismos de información y estadísticas, los cuales faciliten
 
 XV. Instrumentar y ejecutar los mecanismos de seguimiento y evaluación de los programas y/o proyectos de inversión que contribuyan, al logro de los objetivos y metas, enmarcados en los planes, políticas y estrategias operacionales del Instituto.
 
-XVI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVI. Representar al Instituto, ante la Comisión Estatal de Mejora Regulatoria, así como elaborar el Programa respectivo y coordinar las acciones necesarias para el debido cumplimiento del mismo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo II. De la Integración de las Subconsejerías y Atribuciones de sus Titulares
 
@@ -539,7 +597,13 @@ XXVII. Coordinar la integración de la información necesaria de la Subconsejer�
 
 XXVIII. Emitir opinión respecto a los convenios, contratos y autorizaciones que celebre u otorgue el Instituto, que contengan aspectos de su competencia y suscribirlos cuando se les delegue esta facultad expresamente.
 
-XXIX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXIX. Proporcionar la información necesaria a la Dirección de lo Contencioso, para elaborar los informes previos y justificados que requieran los jueces federales en materia de amparo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 21.
 
@@ -557,11 +621,15 @@ d) Dirección de Asuntos Constitucionales.
 
 El Titular de la Subconsejería Jurídica Normativa, tendrá las atribuciones siguientes:
 
-I. Proponer al Consejero Jurídico para su validación, las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos y en su caso las reformas, adiciones o modificaciones a éstos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+I. Proponer al Consejero Jurídico para su validación, las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
 
 II. Presentar al Consejero Jurídico para su validación, los contratos, convenios y demás actos jurídicos que las Dependencias o Entidades sometan a consideración del Instituto cuando participen éste o el Ejecutivo del Estado.
 
-III. Proponer al Consejero Jurídico, los dictámenes y opiniones jurídicas, cuando exista diferencia de criterios en la interpretación de ordenamientos jurídicos, por parte de las Dependencias y Entidades de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+III. Proponer al Consejero Jurídico, las opiniones jurídicas que se emitirán, a solicitud de las Dependencias y/o Entidades de la Administración Pública Estatal, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos.
 
 IV. Suscribir, en ausencia del Consejero Jurídico, los informes previos y justificados que requieran los jueces Federales en materia de amparo.
 
@@ -571,7 +639,9 @@ VI. Proponer al Consejero Jurídico, los modelos de nombramientos de los Titular
 
 VII. Proporcionar asesorías a las Dependencias y Entidades de la Administración Pública Estatal en materia de Normatividad Jurídica, cuando así lo soliciten.
 
-VIII. Presentar al Consejero Jurídico para su validación, los informes que las Dependencias y Entidades de la Administración Pública Estatal, envíen a los organismos defensores de los derechos humanos, en atención a las quejas presentadas por los gobernados.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VIII. Presentar al Consejero Jurídico para su validación, los informes que las Dependencias y Entidades de la Administración Pública Estatal, rendirán a los organismos defensores de los derechos humanos, para dar atención a las quejas presentadas por los gobernados, así como a las medidas precautorias, propuestas conciliatorias y recomendaciones que emitan dichos organismos.
 
 IX. Establecer coordinación con las Dependencias y Entidades de la Administración Pública Estatal para la integración de los Programas de Normatividad Jurídica; así como para mantener actualizado el acervo jurídico del Estado.
 
@@ -585,7 +655,13 @@ XIII. Proponer al Consejero Jurídico, las iniciativas de Leyes, Reglamentos, De
 
 XIV. Proponer al Consejero Jurídico para su certificación los documentos de carácter jurídico administrativo que emita el Ejecutivo del Estado, las Dependencias y Entidades de la Administración Pública Estatal; así como dar fe de los mismos.
 
-XV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XV. Presentar al Consejero Jurídico para su validación, los Dictámenes de Acuerdos de Pensión, emitidos por el Titular del Ejecutivo del Estado.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarlas (sic) aplicables.
 
 ###### Artículo 23.
 
@@ -607,17 +683,25 @@ II. Representar al Consejero Jurídico, ante el Comité Técnico Interinstitucio
 
 III. Promover el óptimo aprovechamiento y preservación del patrimonio inmobiliario propiedad del Gobierno del Estado.
 
-IV. Proporcionar asesoría, sobre el estado que guardan los bienes muebles e inmuebles propiedad de Gobierno del Estado, a las instituciones que lo soliciten.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+IV. Proporcionar información sobre el estado que guardan los bienes muebles e inmuebles propiedad de (sic) Gobierno del Estado, a las instituciones que lo soliciten.
 
 V. Proponer al Consejero Jurídico, para su aprobación, los proyectos de escrituras públicas que le presenten los Notarios Públicos para formalizar los actos adquisitivos y traslativos de dominio de inmuebles que otorgue el Poder Ejecutivo.
 
 VI. Interponer por instrucciones del Consejero Jurídico y en representación del Instituto, mediante poder notarial, las demandas, denuncias o ejercitar las acciones legales ante las autoridades judiciales correspondientes para la recuperación de los bienes del Estado que estén bajo resguardo de la Dirección de Patrimonio o la reclamación de daños ocurridos a estos.
 
-VII. Establecer, previo acuerdo del Consejero Jurídico, las políticas y los programas operativos anuales que deba seguir la Dirección de Catastro Urbano y Rural, implementando los sistemas, métodos y procedimientos, en materia de su competencia.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-VIII. Ordenar las inspecciones, verificaciones y demás actos que establezcan el debido cumplimiento y ejercicio de las operaciones catastrales, conforme a lo establecido por la Ley de la materia y su Reglamento, para implementar acciones preventivas y correctivas.
+VII. Establecer, previo acuerdo con el Consejero Jurídico, las políticas y los programas operativos anuales que deban seguir las Direcciones a su cargo, implementando los sistemas, métodos y procedimientos, en materia de su competencia.
 
-IX. Proponer al Consejero Jurídico, la normatividad para el desarrollo funcional de las operaciones catastrales, para la determinación de valores unitarios de terrenos y construcciones, y coadyuvar en la definición de tasas, cuotas y tarifas, para el cobro de contribuciones inmobiliarias.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VIII. Ordenar las inspecciones, verificaciones y demás actos que establezcan el debido cumplimiento y ejercicio de las operaciones de las Direcciones a su cargo, conforme a lo establecido por la Ley de la materia y su Reglamento, para implementar acciones preventivas y correctivas.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+IX. Proponer al Consejero Jurídico la normatividad para la administración y avalúo de los bienes del Estado, almacenes e inventarios, así como para el desarrollo funcional de las operaciones catastrales.
 
 X. Emitir a través de la Dirección de Catastro Urbano y Rural el valor catastral de los bienes inmuebles ubicados dentro del territorio del Estado, conforme a la valuación, revaluación o actualización que se realice de los mismos, de conformidad a las disposiciones legales y reglamentarias de la materia.
 
@@ -625,15 +709,29 @@ XI. Aprobar los registros de los peritos valuadores, previo cumplimiento de los 
 
 XII. Vigilar que los requerimientos hechos a los propietarios, poseedores o usufructuarios de bienes inmuebles ubicados en el territorio del Estado o a sus representantes legales, se realice conforme a lo que establece la Ley de la materia.
 
-XIII. Vigilar que las visitas de supervisión y verificación de los procedimientos y operaciones de la Dirección de Catastro Urbano y Rural, se realicen de conformidad a lo que establecen las leyes aplicables.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-XIV. Contribuir con los Ayuntamientos, en el ámbito de su competencia, con la regularización de la tenencia de la tierra, de los bienes inmuebles que conforman el territorio del Estado.
+XIII. Vigilar que las visitas de supervisión y verificación de los procedimientos y operaciones de las Direcciones a su cargo, se realicen de conformidad a lo que establecen las leyes aplicables.
+
+XIV. (DEROGADA, P.O. 27 DE JUNIO DE 2018)
 
 XV. Establecer normas y mecanismos para la administración y avaluó de los bienes del Estado, almacenes e inventarios; así como llevar a cabo el proceso de adquisición e incorporación de los mismos, de conformidad con las leyes aplicables.
 
-XVI. Emitir los dictámenes de arrendamiento y técnicos que soliciten los Organismos Públicos de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-XVII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XVI. Validar los dictámenes técnicos de arrendamiento, adquisición de vehículos y equipos de transportes, que soliciten los Organismos Públicos de la Administración Pública Estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XVII. Validar los contratos, actas de entrega-recepción, acuerdos, y demás actos jurídicos en materia de su competencia, que soliciten los Organismos Públicos de la Administración Pública Estatal.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XVIII. Validar los proyectos de escrituras públicas que soliciten los Notarios Públicos del Estado de Chiapas, en las cuales participe el Gobierno del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XIX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Consejero Jurídico; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 25.
 
@@ -725,23 +823,33 @@ XXVII. Coordinar la integración de la información necesaria de la Dirección a
 
 XXVIII. Emitir opinión respecto a los convenios, contratos y autorizaciones que celebre u otorgue el Instituto, que contengan aspectos de su competencia y suscribirlos cuando se les delegue esta facultad expresamente.
 
-XXIX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de su adscripción; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXIX. Proporcionar la información necesaria a la Dirección de lo Contencioso, para elaborar los informes previos y justificados que requieran los jueces federales en materia de amparo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+XXX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de su adscripción; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 28.
 
 El Titular de la Dirección de Normatividad, tendrá las atribuciones siguientes:
 
-I. Realizar el análisis de los proyectos de las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos y en su caso las reformas, adiciones o modificaciones a éstos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-II. Preparar los dictámenes y opiniones jurídicas, cuando exista diferencia de criterios en la interpretación de ordenamientos jurídicos, por parte de las Dependencias y Entidades de la
+I. Analizar de (sic) los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
 
-Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+II. Elaborar opiniones jurídicas, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos, a solicitud de las Dependencias y Entidades de la Administración Pública Estatal.
 
 III. Realizar el análisis de los contratos, convenios y demás actos jurídicos que las Dependencias o Entidades sometan a consideración del Instituto, cuando participen el Titular de éste o el Ejecutivo del Estado.
 
 IV. Establecer acciones de control, guarda, custodia y préstamo de los Periódicos Oficiales que se encuentran en el acervo bibliográfico del Instituto, para consulta de los distintos Órganos Administrativos que lo integran.
 
-V. Preparar los modelos de nombramientos de los Titulares de Dependencias y Entidades de la Administración Pública Estatal.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+V. Elaborar los modelos de nombramientos de los Titulares de las Dependencias y Entidades de la Administración Pública Estatal.
 
 VI. Proporcionar asesorías a las Dependencias y Entidades de la Administración Pública Estatal en materia de su competencia, cuando así lo soliciten.
 
@@ -755,53 +863,63 @@ X. Realizar el proyecto de certificación de los documentos de carácter jurídi
 
 XI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### Artículo 29.
 
-El Titular de la Dirección de Asuntos Fiscales y Administrativos, tendrá las atribuciones siguientes:
+El Titular de la Dirección de Asuntos Fiscales y Administrativos, tendrán (sic) las atribuciones siguientes:
 
-I. Realizar el análisis de los proyectos de las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos en materia fiscal y administrativa y en su caso las reformas, adiciones o modificaciones a éstos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+I. Analizar los proyectos de las iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos en materia fiscal y administrativa, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
 
-II. Preparar los dictámenes y opiniones jurídicas, cuando exista diferencia de criterios en la interpretación de ordenamientos jurídicos en materia fiscal y administrativa, por parte de las Dependencias y Entidades de la Administración Pública Estatal.
+II. Elaborar opiniones jurídicas, cuando exista diferencia de criterios en la interpretación de ordenamientos jurídicos en materia fiscal y administrativa, a solicitud de las Dependencias y Entidades de la Administración Pública Estatal.
 
-III. Realizar el análisis de los contratos, convenios y demás actos jurídicos en materia fiscal y administrativa que las Dependencias o Entidades sometan a consideración del Instituto cuando participen el Titular de éste o el Ejecutivo del Estado.
+III. Analizar los contratos, convenios y demás actos jurídicos en materia fiscal y administrativa, que las Dependencias o Entidades sometan a consideración del Instituto cuando participen el Titular de éste o el Ejecutivo del Estado.
 
-IV. Proporcionar asesorías a las Dependencias y Entidades de la Administración Pública Estatal en materia fiscal y administrativa, cuando así lo soliciten.
+IV. Asesorar a las Dependencias y Entidades de la Administración Pública Estatal en materia fiscal y administrativa, cuando así lo soliciten.
 
 V. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 30.
 
 El Titular de la Dirección de lo Contencioso, tendrá las atribuciones siguientes:
 
-I. Realizar el análisis de los proyectos de las iniciativas de leyes, decretos, acuerdos, reglamentos y demás ordenamientos jurídicos en materia en materia penal, civil y laboral y en su caso las reformas, adiciones o modificaciones a éstos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+I. Analizar los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos, en materia penal, civil y laboral, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
 
-II. Preparar los dictámenes y opiniones jurídicas, cuando exista diferencia de criterios en la interpretación de ordenamientos jurídicos en materia penal, civil y laboral, por parte de las Dependencias y Entidades de la Administración Pública Estatal.
+II. Elaborar opiniones jurídicas, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos, en materia penal, civil y laboral, a solicitud de las Dependencias y Entidades de la Administración Pública Estatal.
 
-III. Realizar el análisis de los contratos, convenios y demás actos jurídicos en materia penal, civil y laboral, que las Dependencias o Entidades, sometan a consideración del Instituto, cuando participen el Titular de éste o el Ejecutivo del Estado.
+III. Analizar los contratos, convenios y demás actos jurídicos en materia penal, civil y laboral, que las Dependencias o Entidades sometan a consideración del Instituto, cuando participen el Titular de éste o el Ejecutivo del Estado.
 
-IV. Proporcionar asesorías a las Dependencias y Entidades de la Administración Pública Estatal en materia penal, civil y laboral, cuando así lo soliciten.
+IV. Asesorar a las Dependencias y Entidades de la Administración Pública Estatal en materia penal, civil y laboral, cuando así lo soliciten.
 
 V. Dar seguimiento a las controversias y juicios de materia civil, penal y laboral, cuando el Titular del Instituto actúe por sí mismo, o en aquellos casos en que lo haga en representación del Ejecutivo del Estado.
 
-VI. Preparar los informes previos y justificados que requieran los jueces Federales en materia de amparo.
+VI. Elaborar los informes previos y justificados que requieran los jueces federales en materia de amparo.
 
-VII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+VII. Las demás atribuciones que en ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 31.
 
 El Titular de la Dirección de Asuntos Constitucionales, tendrá las atribuciones siguientes:
 
-I. Realizar el análisis de los proyectos de las iniciativas de Leyes, Decretos, Acuerdos, reglamentos y demás ordenamientos jurídicos en materia constitucional y de derechos humanos y en su caso las reformas, adiciones o modificaciones a éstos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
+I. Analizar los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos y demás ordenamientos jurídicos en materia constitucional y de derechos humanos, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
 
-II. Preparar los dictámenes y opiniones jurídicas, cuando exista diferencia de criterios en la interpretación de ordenamientos jurídicos en materia constitucional y de derechos humanos, por parte de las Dependencias y Entidades de la Administración Pública Estatal.
+II. Analizar los proyectos de iniciativas de Leyes, Decretos, Acuerdos, Reglamentos, Contratos, Convenios y demás ordenamientos jurídicos relacionados específicamente con la materia de derechos humanos de niñas, niños, adolescentes y mujeres, que formulen las Dependencias y Entidades de la Administración Pública Estatal.
 
-III. Proporcionar asesorías a las Dependencias y Entidades de la Administración Pública Estatal en materia constitucional y de derechos humanos, cuando así lo soliciten.
+III. Elaborar opiniones jurídicas, cuando existan diferencias de criterios en la interpretación de ordenamientos jurídicos en materia constitucional y de derechos humanos, a solicitud de las Dependencias y Entidades de la Administración Pública Estatal.
 
-IV. Realizar el análisis y la elaboración de los informes que las Dependencias y Entidades de la Administración Pública Estatal, envíen a los organismos defensores de los derechos humanos, en atención a las quejas presentadas por los gobernados.
+IV. Realizar la revisión y el análisis de los informes que las Dependencias y Entidades de la Administración Pública Estatal, rendirán a los organismos defensores de los derechos humanos, en atención a las quejas presentadas por los gobernados.
 
-V. Preparar los informes que permiten dar atención a las medidas precautorias, propuestas conciliatorias y recomendaciones que emitan los organismos defensores de los derechos humanos, al Poder Ejecutivo del Estado.
+V. Realizar la revisión y el análisis de los informes que las Dependencias y Entidades de la Administración Pública Estatal, rendirán a los organismos defensores de los derechos humanos, para dar atención a las medidas precautorias, propuestas conciliatorias y recomendaciones que éstos emitan.
 
-VI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+VI. Realizar la revisión y análisis técnico-jurídico, de los Dictámenes de Acuerdos de Pensión, emitidos por el Titular del Ejecutivo del Estado.
+
+VII. Asesorar a las Dependencias y Entidades de la Administración Pública Estatal en materia constitucional y de derechos humanos, cuando así lo soliciten.
+
+VIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero Jurídico Normativo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables
 
 ###### Artículo 32.
 
@@ -975,13 +1093,17 @@ b) Departamento de Archivo General del Estado.
 
 El Titular de la Dirección de Archivo General y Notarías del Estado, tendrá las atribuciones siguientes:
 
-I. Preparar programas y proyectos en materia notarial y para la conservación del acervo documental, en beneficio de la población del Estado.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+I. Elaborar programas y proyectos en materia notarial y para la conservación del acervo documental, en beneficio de la población del Estado.
 
 II. Establecer mecanismos de control y conservación de los libros y expedientes del ejercicio de la función notarial.
 
 III. Implementar acciones en materia archivística, para el debido tratamiento y guarda de los documentos que emitan los Organismos Públicos Estatales y Municipales.
 
-IV. Realizar acciones dirigidas a la ejecución de los acuerdos emitidos por el Comité del Sistema Estatal de Archivos.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+IV. Realizar acciones dirigidas a la ejecución de los acuerdos emitidos por el Comité del Sistema Institucional de Archivos.
 
 V. Vigilar el ejercicio de la función notarial, en términos de la Ley de la materia.
 
@@ -991,33 +1113,37 @@ VII. Coordinar las visitas de inspección general y especial a las Notarías del
 
 VIII. Presentar para su aprobación al Subconsejero de Servicios y de Asistencia Legal, los proyectos de resolución que den conclusión a cualquier procedimiento administrativo, instaurado en contra de Notarios Públicos del Estado.
 
-IX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de Servicios y de Asistencia Legal; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+IX. Llevar los registros de expedición de patentes de aspirantes y de Notarios, de Sellos y Firma de Notarios, Convenios de Suplencia y de Asociación Notarial.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+X. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de Servicios y de Asistencia Legal; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 40.
 
-La Dirección del Registro Civil del Estado, tendrá los Órganos Administrativos siguientes:
+La Dirección del Registro Civil del Estado, tendrá, los Órganos Administrativos siguientes:
 
-a) Oficialías del Registro Civil, Unidad Hospitalaria.
+I. Oficialías del Registro Civil, Unidad Hospitalaria.
 
-b) Oficialías.
+II. Oficialías.
 
-c) Departamento Jurídico y de Supervisión.
+III. Departamento de Planeación y Seguimiento de Programas.
 
-d) Departamento de Brigadas.
+IV. Departamento de Control Administrativo.
 
-e) Departamento de Control Administrativo.
+V. Departamento de Revisión de Actas.
 
-f) Departamento de Revisión de Actas.
+VI. Departamento de Aclaración de Actas.
 
-g) Departamento de Aclaración de Actas.
+VII. Departamento del Archivo Estatal de Libros del Registro Civil.
 
-h) Departamento del Archivo Estatal de Libros del Registro Civil.
+VIII. Departamento de Sistematización y Microfilmación.
 
-i) Departamento de Sistematización y Microfilmación.
-
-j) Departamento de Planeación y Seguimiento de Programas.
-
-k) Departamento de Registro Extemporáneos de Actas del Registro Civil.
+IX. Departamento de Registro (sic) Extemporáneos de Actas del Registro Civil.
 
 ###### Artículo 41.
 
@@ -1035,7 +1161,17 @@ V. Realizar los actos del estado civil, por medio de campañas en las comunidade
 
 VI. Establecer acciones para la guarda, custodia y conservación de los archivos magnéticos de índices y de rollos de microfilmación.
 
-VII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de Servicios y de Asistencia Legal; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+VII. Resolver los Recursos de Revisión, de las resoluciones emitidas por los titulares de los Departamentos de Aclaración de Actas y de Registro (sic) Extemporáneos de Actas del Registro Civil.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VIII. Autorizar con su firma autógrafa o electrónica previo pago de derechos, la expedición de documentación certificada en la que consten los actos inscritos en los libros del Registro Civil, documentos relacionados con ellos, así como los contenidos en la base de datos, los cuales podrán emitirse por medios electrónicos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2018)</small>
+
+IX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subconsejero de Servicios y de Asistencia Legal; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 42.
 
@@ -1096,3 +1232,19 @@ Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los trece días del mes de julio de dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Carlos Eugenio Serrano Herrera, Consejero Jurídico del Gobernador.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 2654-A-2018 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA CONSEJERÍA JURÍDICA Y DE ASISTENCIA LEGAL”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que tengan similar o menor jerarquía que el presente Decreto y se opongan al mismo.
+
+Artículo Tercero. Para las cuestiones no previstas en el presente Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Consejero Jurídico resolverá lo conducente.
+
+Artículo Cuarto. El Manual de Organización del Instituto de la Consejería Jurídica y de Asistencia Legal, deberá actualizarse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Decreto.
+
+Artículo Quinto. Conforme a lo dispuesto por los artículos 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas, y 13 fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Decreto en el Periódico Oficial.
