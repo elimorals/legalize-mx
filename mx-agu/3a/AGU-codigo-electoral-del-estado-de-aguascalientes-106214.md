@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2017-05-29"
+last_updated: "2018-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2018.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -235,7 +235,7 @@ II. Los Presidentes, Consejeros Electorales, Secretario Ejecutivo del Consejo o 
 
 III. No ser ministro de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección de que se trate;
 
-IV. No ocupar cargo de elección popular o ser funcionario o servidor público de alguno de los tres órdenes de Gobierno Federal, Estatal o Municipal, a menos que se separe de su cargo, noventa días antes del día de la elección, y
+IV. (DEROGADA, P.O. 27 DE JUNIO DE 2018); y
 
 V. Ser electo de conformidad con la normatividad interna del partido que lo postule y cumplir con los requisitos establecidos en la LGIPE y la LGPP, o bien, cumplir con lo establecido en este Código en el caso de candidaturas independientes.
 
@@ -975,7 +975,9 @@ III. Asegurar a los ciudadanos el ejercicio de los derechos político-electorale
 
 IV. Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes del Poder Legislativo, Poder Ejecutivo y ayuntamientos del Estado;
 
-V. Garantizar el adecuado desarrollo de procedimientos previstos, en la Ley de Participación Ciudadana del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+V. Garantizar el adecuado desarrollo de los procedimientos previstos, en la Ley de Participación Ciudadana del Estado de Aguascalientes, así como en el Reglamento respectivo que para tal efecto emita el Consejo;
 
 VI. Velar por la autenticidad y efectividad del sufragio universal, libre, secreto, directo, personal e intransferible;
 
@@ -1065,7 +1067,9 @@ VII. Ordenar se expidan las certificaciones de registro a los candidatos que hay
 
 VIII. Tomar la protesta de ley a los consejeros representantes de los partidos políticos y del candidato independiente ante el Consejo;
 
-IX. Registrar las candidaturas a Gobernador del Estado, las planillas de ayuntamientos por el principio de mayoría relativa; y las listas de diputados y regidores por el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+IX. Registrar las candidaturas a Gobernador del Estado y las listas de diputados y regidores por el principio de representación proporcional;
 
 X. Registrar supletoriamente las candidaturas a diputados por el principio de mayoría relativa y de miembros de los ayuntamientos, en caso de negativa del órgano electoral respectivo;
 
@@ -1093,7 +1097,9 @@ XXI. Conocer, discutir y en su caso, aprobar los presupuestos de ingresos y egre
 
 XXII. Establecer las normas, procedimientos y criterios para la administración de los recursos financieros y materiales del Instituto;
 
-XXIII. Aprobar la integración de las comisiones del Consejo, en términos de los reglamentos respectivos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+XXIII. Aprobar la integración de las comisiones del Consejo en términos de los reglamentos respectivos, de entre las cuales deberá constituirse la Comisión de Quejas y Denuncias de manera permanente;
 
 XXIV. Verificar que la Legislatura se integre con diputados electos, según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de Votación Emitida. Esta norma no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de diputados del total de la Legislatura, superior a la suma del porcentaje de su Votación Emitida más el ocho por ciento;
 
@@ -1489,7 +1495,7 @@ II. Establecer los vínculos entre el Consejo Distrital y el Consejo, para coord
 
 III. Solicitar al Instituto, la información, documentación y cartografía para llevar a cabo el proceso electoral en su distrito;
 
-IV. Proponer al Consejo de entre los suplentes, los candidatos para cubrir las vacantes que se generen de consejeros electorales;
+IV. (DEROGADA, P.O. 27 DE JUNIO DE 2018)
 
 V. Recibir de los partidos políticos y del candidato independiente la acreditación de sus representantes;
 
@@ -1543,9 +1549,11 @@ X. Las demás que le confiera el Presidente o el Consejo Distrital.
 
 Los consejos municipales electorales son los responsables de celebrar el cómputo de la elección de Ayuntamiento de los once Municipios del Estado, conforme a lo dispuesto en este Código, gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 95.
 
-Con residencia en cada una de las cabeceras municipales de cada uno de los once municipios del Estado, funcionará un Consejo Municipal que a más tardar la primera semana del mes de marzo del año de la elección, iniciará sus sesiones. A partir de esa fecha y hasta la terminación del proceso electoral, sesionará por lo menos una vez al mes.
+Con residencia en cada una de las cabeceras municipales de cada uno de los once municipios del Estado, funcionará un Consejo Municipal que a más tardar la primera semana del mes de febrero del año de la elección, iniciará sus sesiones. A partir de esa fecha y hasta la terminación del proceso electoral, sesionará por lo menos una vez al mes.
 
 Dichos Consejos podrán ser clausurados antes de la conclusión del proceso electoral, una vez que hayan causado ejecutoria los Acuerdos mediante los cuales determinaron y validaron los resultados de la elección de su competencia y por ende hayan terminado sus funciones.
 
@@ -1561,13 +1569,15 @@ Los consejos municipales electorales se integrarán por cinco consejeros elector
 
 El Consejo, por el voto de cuando menos cinco de sus miembros, designará a los consejeros electorales y secretarios técnicos de los consejos municipales, de entre los ciudadanos que proponga el Consejero Presidente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
-El Consejero Presidente, en la segunda semana de enero del año de la elección, emitirá la convocatoria, la cual se sujetará a los términos del Reglamento aplicable que expida el INE, a los ciudadanos para integrar los consejos municipales; los solicitantes en la primera quincena de febrero del año de la elección, recibirán la capacitación y se procederá a la realización de un examen para acreditar los conocimientos en materia electoral; con base en los resultados el Presidente del Consejo formulará las propuestas de integración de cada Consejo Municipal, que presentará al Consejo para su designación en la última semana de febrero del año de la elección.
+El Consejero Presidente, en la segunda semana de diciembre del año previo al de la elección, emitirá la convocatoria, la cual se sujetará a los términos del Reglamento aplicable que expida el INE, a los ciudadanos para integrar los consejos municipales; los solicitantes en la primera quincena de enero del año de la elección, recibirán la capacitación y se procederá a la realización de un examen para acreditar los conocimientos en materia electoral; con base en los resultados el Presidente del Consejo formulará las propuestas de integración de cada Consejo Municipal, que presentará al Consejo para su designación en la última semana de enero del año de la elección.
 
 Por cada consejero municipal propietario será nombrado también un consejero municipal suplente.
 
-Ante la falta del Presidente del Consejo Municipal a una sesión, los consejeros distritales designarán de entre ellos a quien presidirá exclusivamente esa sesión, debiéndose asentar esa situación en el acta correspondiente.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+Ante la falta del Presidente del Consejo Municipal a una sesión, los consejeros municipales designarán de entre ellos a quien presidirá exclusivamente esa sesión, debiéndose asentar esa situación en el acta correspondiente.
 
 ###### ARTÍCULO 97.
 
@@ -1615,7 +1625,7 @@ II. Establecer los vínculos entre el Consejo Municipal, Distrital y el Consejo,
 
 III. Solicitar al Instituto, la información y apoyos necesarios para el debido cumplimiento de sus facultades y obligaciones;
 
-IV. Proponer al Consejo de entre los suplentes, los candidatos para cubrir las vacantes de consejeros electorales;
+IV. (DEROGADA, P.O. 27 DE JUNIO DE 2018)
 
 V. Recibir de los partidos políticos y de la planilla de candidatos independientes la acreditación de sus representantes ante el Consejo Municipal;
 
@@ -2063,13 +2073,17 @@ Para el caso de que un Partido Político y aspirantes a candidatura independient
 
 #### SECCIÓN PRIMERA. Disposiciones Comunes
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 143.
 
-Corresponde a los partidos políticos, candidaturas comunes y coaliciones el derecho de solicitar el registro de candidatos a cargos de elección popular, por conducto del presidente del Comité Directivo Estatal o su equivalente, de conformidad con sus estatutos; en el caso de las candidaturas comunes en los términos que establezca este Código; y en el caso de las coaliciones en los términos del convenio de coalición; Los ciudadanos que aspiren a ser registrados como candidatos independientes deberán solicitarlo por su propio derecho.
+Corresponde a los partidos políticos, candidaturas comunes y coaliciones el derecho de solicitar el registro de candidatos a cargos de elección popular, por conducto del presidente del Comité Directivo Estatal o su equivalente de conformidad con sus estatutos, o del representante propietario o suplente acreditado ante el Consejo respectivo; en el caso de las candidaturas comunes en los términos que establezca este Código; y en el caso de las coaliciones en los términos del convenio de coalición; Los ciudadanos que aspiren a ser registrados como candidatos independientes deberán solicitarlo por su propio derecho.
 
-Los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes que presenten ante el Consejo sus solicitudes de registro de candidatos, para las elecciones a diputados por el principio de mayoría relativa y Ayuntamiento por ambos principios, deberán cumplir con lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
+
+Los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes que presenten ante el Consejo respectivo sus solicitudes de registro de candidatos, para las elecciones a diputados por el principio de mayoría relativa y Ayuntamiento por ambos principios, deberán cumplir con lo siguiente:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE MAYO DE 2017)</small>
 
 I. PARIDAD EN LAS FÓRMULAS.
 
@@ -2077,19 +2091,27 @@ a) La postulación por parte de los partidos políticos, candidatos independient
 
 b) Las fórmulas que se postulen tanto por partidos políticos, como candidaturas comunes, coaliciones en lo individual a cada partido político que las integre y candidatos independientes, para integrar las planillas a Ayuntamiento, por ambos principios, deberán formularse con ciudadanos del mismo género;
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE MAYO DE 2017)</small>
+
 II. PARIDAD HORIZONTAL.
 
 a) Para la postulación por parte de los partidos políticos, candidaturas comunes y coaliciones en lo individual a cada partido político que las integre, de los candidatos a los cargos de diputados por el principio de mayoría relativa, se deberá garantizar que al menos el cincuenta por ciento de las mismas, o bien, el porcentaje más cercano al cincuenta por ciento de las candidaturas postuladas, en caso de ser impar el número de postulaciones, sean del mismo género;
 
 b) Para la postulación por parte de los partidos políticos, candidaturas comunes y coaliciones en lo individual a cada partido político que las integre, de planillas a Ayuntamiento por el principio de mayoría relativa, se deberá garantizar que al menos el cincuenta por ciento de las postuladas, o bien, el porcentaje más cercano al cincuenta por ciento de las mismas, en caso de ser impar el número de postulaciones, sean del mismo género;
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE MAYO DE 2017)</small>
+
 III. PARIDAD VERTICAL.
 
 a) La integración de las planillas a Ayuntamiento por el principio de mayoría relativa, que postulen los partidos políticos, coaliciones en lo individual a cada partido político que las integre, y candidatos independientes, deberá hacerse de forma alternada entre los géneros; así pues, se deberá listar al principio de la planilla la fórmula de ciudadanos que ocuparán el cargo de Presidente Municipal, posteriormente podrán listar el número de fórmulas para ocupar el cargo de Regidores necesarios para la misma, y al final la fórmula o fórmulas que ocuparán el cargo de Síndico o Síndicos, o bien, después de la fórmula postulada al cargo de Presidente Municipal, se podrá listar la fórmula o fórmulas que ocuparán el cargo de Síndico o Síndicos (según lo decida cada Partido Político) y posteriormente el número de fórmulas para ocupar el cargo de Regidores necesarios. Lo anterior en la inteligencia de que, si la fórmula postulada al cargo de Presidente Municipal es del género femenino, la fórmula siguiente que se postule, ya sea de Síndico o de Primer Regidor, deberá ser del género masculino, y así se alternarán sucesivamente hasta agotar la planilla respectiva;
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE MAYO DE 2017)</small>
+
 VI (SIC). PARIDAD VERTICAL EN LISTAS DE REGIDORES DE REPRESENTACIÓN PROPORCIONAL.
 
 a) La conformación que hagan los partidos políticos y candidatos independientes, de cada una de las listas de Regidores por el principio de representación proporcional debe atender al principio de alternancia, esto es, si se postula al primer lugar de la lista de Regidores a Ayuntamiento por el principio de representación proporcional una fórmula del género masculino, la siguiente fórmula deberá corresponder al género femenino, y así se alternaran sucesivamente hasta agotar el número de lugares posibles en la lista; y
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 29 DE MAYO DE 2017)</small>
 
 VII. SESGO.
 
@@ -2125,13 +2147,23 @@ II. Durante el proceso electoral en que se renueven solamente el Congreso del Es
 
 La solicitud de registro de candidatos de los partidos políticos será presentada ante:
 
-I. El Consejo: La de Gobernador, la lista de diputados por el principio de representación proporcional y las planillas de candidatos a miembros de ayuntamientos de mayoría y de representación proporcional, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-II. El Consejo Distrital respectivo: La de diputados por el principio de mayoría relativa, o ante el Consejo en forma supletoria.
+I. El Consejo: La de Gobernador, la lista de diputados y planillas de ayuntamientos por el principio de representación proporcional;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+II. El Consejo Distrital respectivo: La fórmula de diputados por el principio de mayoría relativa, o ante el Consejo en forma supletoria; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+III. El Consejo Municipal respectivo: La planilla de ayuntamiento por el principio de mayoría relativa, o ante el Consejo en forma supletoria.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 146.
 
-Los consejos distritales comunicarán al Consejo, la solicitud del registro de candidatos dentro de las cuarenta y ocho horas siguientes a la fecha en que se lleve a cabo.
+Los consejos distritales y municipales comunicarán al Consejo, la solicitud del registro de candidatos dentro de las cuarenta y ocho horas siguientes a la fecha en que se lleve a cabo.
 
 ###### ARTÍCULO 147.
 
@@ -2145,17 +2177,25 @@ III. Cargo para el que se le postula;
 
 IV. Denominación, color o colores del partido o coalición que lo postulan;
 
-V. Copia de la credencial para votar con fotografía;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-VI. Declaratoria bajo protesta de decir verdad, de no ser ministro de ningún culto religioso, ni encontrarse en alguno de los supuestos a que se refiere el artículo 9º de este Código;
+V. Copia de la credencial para votar con fotografía; la cual previo cotejo con su original bastará para comprobar la residencia efectiva, salvo en los casos en que el domicilio del candidato asentado en la solicitud de registro no corresponda con el de la propia credencial, o la fecha de expedición de esta última no sirva de evidencia para demostrar el tiempo de residencia efectiva que señala la Constitución como requisito de elegibilidad;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VI. Declaratoria bajo protesta de decir verdad, de no ser ministro de ningún culto religioso, ni encontrarse en alguno de los supuestos a que se refiere el artículo 9° de este Código; de haber sido seleccionado en términos de la normatividad interna y de acuerdo al proceso de selección interno del partido en que fue postulado;
 
 VII. Para efectos de los artículos 18 y 72 de la Constitución, los que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites constitucionales, y
 
-VIII. Copia certificada de la documentación que acredite que el proceso de selección interno se realizó en términos de la normatividad interna del partido en que fue electo.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+VIII. En su caso, copia certificada de la documentación que acredite que el proceso de selección interno se realizó en términos de la normatividad interna del partido en que fue electo.
 
 Tratándose de reelección, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-La solicitud deberá acompañarse de copia certificada del acta de nacimiento; de constancia de residencia y declaración de aceptación de candidatura.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+La solicitud deberá ser firmada de manera autógrafa por el candidato, y el dirigente o representante del partido político o coalición y así mismo acompañarse de copia certificada del acta de nacimiento, de constancia de residencia en el caso aplicable y de la declaración de aceptación de la candidatura.
 
 ###### ARTÍCULO 148.
 
@@ -2201,21 +2241,21 @@ Los partidos políticos podrán registrar simultáneamente en el mismo proceso e
 
 Para el registro de candidatos de coalición según corresponda, deberá acreditarse que se cumplió con lo dispuesto en la LGPP y en la LGIPE.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 154.
 
-Recibida una solicitud de registro de candidaturas de los partidos políticos o candidatos independientes por el presidente o el secretario del consejo que corresponda, se verificará dentro de los siete días siguientes que se cumplió con los requisitos constitucionales y legales.
+Recibida una solicitud de registro de candidaturas de los partidos políticos o candidatos independientes por el presidente o el secretario del consejo que corresponda, se verificará en el plazo establecido en el artículo 144 del Código que se cumplió con los requisitos constitucionales y legales.
 
-Sí de la verificación señalada, se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político o coalición correspondiente para que dentro de las cuarenta y ocho horas siguientes, subsane el o los requisitos omitidos, o sustituya la candidatura, siempre y cuando esto pueda realizarse dentro de los plazos que establece el artículo 144 de este Código.
+Sí de la verificación señalada, se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político o coalición correspondiente para que dentro de las cuarenta y ocho horas siguientes, subsane el o los requisitos omitidos, o sustituya la candidatura.
 
 Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 144 de este Código será desechada de plano y por lo tanto se tendrá por no registrada la candidatura o candidaturas; y tendrá los mismos efectos para el caso de que las solicitudes y documentación presentada no cumplan los requisitos que establece este Código.
 
-Dentro de los tres días siguientes al término del plazo a que se refiere el artículo 144 de este Código, el Consejo y los consejos distritales celebrarán una sesión cuyo único objeto será analizar, y en su caso aprobar el registro de las candidaturas de los partidos políticos que procedan.
+Dentro de los tres días siguientes al término del plazo a que se refiere el artículo 144 de este Código, el Consejo, los consejos distritales y municipales según sea el caso, celebrarán una sesión cuyo único objeto será analizar, y en su caso aprobar el registro de las candidaturas de los partidos políticos y candidaturas independientes que procedan.
 
-Los consejos distritales comunicarán dentro de las veinticuatro horas siguientes al Consejo el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo anterior.
+Los consejos distritales y municipales según sea el caso, comunicarán dentro de las veinticuatro horas siguientes al Consejo el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo anterior.
 
-De igual manera, el Consejo comunicará a los consejos distritales las determinaciones que haya tomado sobre el registro de las listas de candidatos de los partidos políticos a diputados por el principio de representación proporcional.
+De igual manera, el Consejo comunicará a los consejos distritales y municipales según sea el caso, las determinaciones que haya tomado sobre el registro de las listas de candidatos de los partidos políticos y candidaturas independientes por el principio de representación proporcional que les corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
 
@@ -2223,7 +2263,9 @@ De igual manera, el Consejo comunicará a los consejos distritales las determina
 
 Los partidos políticos, coaliciones y candidaturas comunes podrán sustituir a los candidatos registrados de acuerdo con las disposiciones siguientes:
 
-I. Solicitarlo por escrito ante el Consejo o consejos distritales correspondientes;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+I. Solicitarlo por escrito ante el Consejo o consejos distritales o municipales correspondientes;
 
 II. Podrán sustituirlos libremente dentro del plazo a que se refiere el artículo 144 de este Código;
 
@@ -2231,9 +2273,11 @@ III. Vencido el plazo a que se refiere el artículo 144 sólo podrán sustituirl
 
 IV. En los casos que la renuncia o negativa del candidato fuere notificada por el mismo Consejo, éste lo hará del conocimiento del partido político o coalición de que se trate a efecto de que proceda a sustituirlo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 156.
 
-El Consejo enviará para su publicación en el Periódico Oficial del Estado la relación completa de candidatos registrados dentro de los tres días siguientes al de la sesión en que fueron aprobados los registros.
+El Consejo enviará para su publicación en el Periódico Oficial del Estado la relación completa de candidatos registrados dentro de los tres días siguientes al de la celebración de las sesiones en que fueron aprobados los registros.
 
 Las cancelaciones de registro o sustitución de candidatos, se mandarán publicar en el Periódico Oficial del Estado dentro de los tres días siguientes en que se produzcan.
 
@@ -2265,9 +2309,17 @@ La campaña electoral, para los efectos de este Código, es el conjunto de activ
 
 Para los efectos de este Código se entiende por:
 
-I. Actos de campaña: Las reuniones públicas, asambleas, marchas y en general aquellos en que los candidatos o voceros de los partidos políticos o de los candidatos independientes se dirigen al electorado para promover sus candidaturas, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-II. Propaganda electoral: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
+I. Actos de campaña: Las reuniones públicas, asambleas, marchas y en general aquellos en que los candidatos o voceros de los partidos políticos o de los candidatos independientes se dirigen al electorado para promover sus candidaturas;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+II. Propaganda electoral: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+III. Propaganda política: Aquellos escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones realizados por parte de los partidos políticos que pretendan crear, transformar, invalidar, suprimir, o confirmar opiniones a favor de ideas o creencias, así como estimular determinadas conductas políticas.
 
 Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y por los candidatos independientes en sus plataformas electorales, que para la elección en cuestión hubieren registrado.
 
@@ -2579,9 +2631,11 @@ En todo caso, el número de boletas que se impriman, no debe exceder del cinco p
 
 Las boletas electorales serán elaboradas en los Talleres Gráficos del Estado, bajo las mejores condiciones de seguridad en cuanto a su inviolabilidad, no falsificación, protección y cuidado. Cuando el Consejo determine que los Talleres Gráficos del Estado no garanticen las mejores condiciones de seguridad, objetividad e imparcialidad, siempre que cuente con razones suficientemente comprobables, o que en éstos no sea posible su elaboración utilizando los mecanismos de seguridad que apruebe el INE, se podrán elaborar en la iniciativa privada de conformidad con lo que señale la Ley Patrimonial del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 178.
 
-No habrá modificación a las boletas en caso de cancelación del registro, o sustitución de uno o más candidatos, si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante el Consejo o consejos distritales correspondientes.
+No habrá modificación a las boletas en caso de cancelación del registro, o sustitución de uno o más candidatos, si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante el Consejo, consejos distritales o consejos municipales correspondientes.
 
 ###### ARTÍCULO 179.
 
@@ -3035,6 +3089,8 @@ Asimismo, tomarán las medidas necesarias para el resguardo de los sobres que co
 
 ### CAPÍTULO I. De los Sujetos, Responsabilidades y Sanciones
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 227.
 
 Los consejos distritales y municipales sesionarán en forma ininterrumpida a partir de las ocho horas del miércoles siguiente al día de la elección, para hacer el cómputo final de votos para la elección, en el siguiente orden:
@@ -3285,7 +3341,7 @@ Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto 
 
 ###### ARTÍCULO 240.
 
-En la sustanciación de los procedimientos sancionadores, se aplicará supletoriamente lo establecido en el Libro Quinto de este Código, referente a los Medios de Impugnación.
+En la sustanciación de los procedimientos sancionadores además de las reglas establecidas en este Código, serán aplicables las disposiciones contenidas por el Reglamento de Quejas y Denuncias del Instituto Estatal Electoral de Aguascalientes.
 
 ###### ARTÍCULO 241.
 
@@ -3619,6 +3675,8 @@ Los recursos obtenidos por la aplicación de sanciones económicas derivadas de 
 
 ### CAPÍTULO I. De las Responsabilidades Administrativas
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 252.
 
 Los procedimientos sancionadores se clasifican de la siguiente manera:
@@ -3823,11 +3881,15 @@ V. Ofrecer y aportar las pruebas con que cuente debiendo relacionar éstas con l
 
 La investigación para el conocimiento cierto de los hechos se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
 
-Una vez que la Secretaría Ejecutiva tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general para evitar que se dificulte la investigación.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+Una vez que la Secretaría Ejecutiva tenga conocimiento de los hechos denunciados, informará a la Comisión de Quejas y Denuncias del Instituto para que en su caso, dicte de inmediato las medidas necesarias para dar fe de los mismos para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general para evitar que se dificulte la investigación.
 
 Admitida la queja o denuncia por la Secretaría Ejecutiva, desahogará los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos del Instituto que lleven a cabo las investigaciones o recaben las pruebas necesarias. El plazo para llevar a cabo la investigación no podrá exceder de veinte días, contados a partir de la recepción del escrito de queja o denuncia en la Secretaría Ejecutiva o del inicio de oficio del procedimiento por la propia Secretaría Ejecutiva. Dicho plazo podrá ser ampliado de manera excepcional por una vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente motivado que emita la Secretaría Ejecutiva.
 
-Si dentro del plazo fijado para la admisión de la queja o denuncia, la Secretaría Ejecutiva valora que deben dictarse medidas cautelares, lo propondrá al Consejo para que éste, en un plazo de veinticuatro horas, resuelva lo conducente para la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en este Código.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+Si dentro del plazo fijado para la admisión de la queja o denuncia, la Secretaría Ejecutiva valora que deben dictarse medidas cautelares, lo propondrá a la Comisión de Quejas y Denuncias del Instituto para que ésta, en un plazo de veinticuatro horas, resuelva lo conducente para la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en este Código.
 
 La Secretaría Ejecutiva podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
 
@@ -3921,7 +3983,9 @@ En los casos anteriores la Secretaría Ejecutiva notificará al denunciante su r
 
 Cuando la Secretaría Ejecutiva admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro de los tres días siguientes a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
-Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares, las impondrá dentro de un plazo de cuarenta y ocho horas, en los términos establecidos en el artículo 265 de este Código.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+Si la Comisión de Quejas y Denuncias considera necesaria la adopción de medidas cautelares, las impondrá dentro de un plazo de cuarenta y ocho horas, en los términos establecidos en el artículo 265 de este Código.
 
 ###### ARTÍCULO 272.
 
@@ -3999,13 +4063,15 @@ La Secretaría Ejecutiva conocerá de las quejas o denuncias presentadas antes d
 
 ###### ARTÍCULO 277.
 
-Para los efectos del presente Capítulo, serán considerados como servidores públicos del Instituto el Consejero Presidente, los consejeros electorales del Consejo y de los consejos distritales y municipales, el Secretario Ejecutivo y secretarios técnicos distritales y municipales, los directores ejecutivos, los jefes de unidades administrativas, los funcionarios y empleados, y, en general, toda persona que empeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto y que no pertenezcan al servicio profesional electoral nacional, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos del presente Capítulo, las causas de responsabilidad en las que incurran los servidores públicos del Instituto se sustanciarán de acuerdo al procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y en lo que no contravenga, el Reglamento Interior de la Contraloría Interna del Instituto Estatal Electoral.
 
-La Contraloría Interna, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la CPEUM, la LGPP, la LGIPE y este Código confieren a los funcionarios del Instituto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE JUNIO DE 2018)</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### ARTÍCULO 278.
 
-Serán causas de responsabilidad para los servidores públicos del Instituto, las siguientes:
+Serán causas de responsabilidad para los servidores públicos del Instituto, y faltas administrativas no graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, las siguientes:
 
 I. Realizar conductas que atenten contra la independencia de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
@@ -4031,83 +4097,39 @@ X. Las demás que determine esté Código o las leyes que resulten aplicables.
 
 ###### ARTÍCULO 279.
 
-El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto a que se refiere este Título se iniciará de oficio o a petición de parte, por queja o denuncia, presentada ante el Consejo por cualquier persona, por el servidor público que tenga conocimiento de los hechos o, en su caso por el Ministerio Público. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este Título, prescribirán en tres años, contados a partir de que se cometan los hechos.
-
-A falta de disposición expresa en el presente Capítulo, serán de aplicación supletoria, en lo conducente, las reglas de sustanciación y resolución del procedimiento sancionador previsto en el Título Primero del presente Libro y en el Libro Quinto de este Código, así como lo establecido en esta materia por la LGIPE.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 280.
 
-Las quejas o denuncias que se presenten ante el Consejo, de oficio o a petición de parte, deberán estar apoyadas en elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 281.
 
-Las quejas o denuncias serán improcedentes cuando:
-
-I. Se trate de actos u omisiones imputados a una misma persona que hayan sido materia de otra queja o denuncia ante la Contraloría Interna y que cuenten con resolución definitiva, y
-
-II. Se denuncien actos u omisiones de los que la Contraloría Interna resulte incompetente para conocer.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 282.
 
-Procederá el sobreseimiento cuando:
-
-I. Recibida la queja o denuncia, sobrevenga una causa de improcedencia, y
-
-II. El denunciante presente escrito de desistimiento, siempre y cuando se exhiba antes de que se dicte resolución. En ningún caso procederá el sobreseimiento cuando se trate de infracciones graves.
-
-El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia será de oficio.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 283.
 
-Para la determinación de las responsabilidades administrativas a que se refiere este Capítulo se observará el siguiente procedimiento:
-
-I. Recibida la queja o denuncia, y de no encontrarse ninguna causa de improcedencia, se enviará copia de la misma, con sus anexos, al servidor público presunto responsable para que, en un término de cinco días hábiles, formule un informe sobre los hechos, ofrezca las pruebas correspondientes y exponga lo que a su derecho convenga. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán ciertos los hechos de la denuncia sobre los cuales el denunciado no se pronuncie, salvo prueba en contrario. La aceptación de los hechos no entraña la aceptación de la responsabilidad administrativa que se le imputa;
-
-II. Recibido el informe y desahogadas las pruebas, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al servidor público, y en su caso al denunciante, dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones II, IV, V, VI, VIII, IX y X del artículo 278 de este Código;
-
-III. Cuando se trate de los casos comprendidos en las fracciones I, III y VII delartículo (sic) 278 de este Código, el Contralor citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor. Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
-
-IV. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar, en su caso, la celebración de otra u otras audiencias;
-
-V. Con excepción del Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo, la Contraloría Interna podrá determinar la suspensión temporal del presunto responsable de su cargo, empleo o comisión, siempre que así convenga para la conducción o continuación de las investigaciones; la suspensión cesará cuando así lo resuelva la propia Contraloría Interna. La suspensión temporal no prejuzga sobre la responsabilidad que se impute al servidor público, lo cual se hará constar expresamente en la resolución respectiva;
-
-VI. Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que hubiere estado suspendido, y
-
-VII. Cuando se compruebe la existencia de la infracción motivo de la denuncia, el titular de la Contraloría Interna impondrá la sanción que corresponda y dictará las medidas para su corrección o remedio inmediato.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 284.
 
-Las sanciones aplicables a las faltas contempladas en el presente Capítulo consistirán en:
-
-I. Apercibimiento privado o público;
-
-II. Amonestación privada o pública;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-III. Sanción económica de cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente;
-
-IV. Suspensión;
-
-V. Destitución del puesto, y
-
-VI. Inhabilitación temporal, hasta por cinco años, para desempeñar empleos, cargos o comisiones en el servicio público.
-
-Tratándose del Consejero Presidente y los consejeros electorales del Consejo, sólo por infracciones administrativas que constituyan conductas graves y sistemáticas, el Contralor notificará al Consejo General, acompañando el expediente del asunto fundado y motivado, a fin de que dicho Consejo General resuelva sobre la responsabilidad.
-
-Tratándose del Secretario Ejecutivo y de los directores ejecutivos del Instituto, para la aplicación de las sanciones por las infracciones a que se refiere el párrafo anterior, el Contralor presentará ante el Consejo o en su caso, al Presidente el expediente respectivo a fin de que resuelva sobre la procedencia de la sanción.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 285.
 
-Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los criterios establecidos, en el artículo 251 del presente Código.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 286.
 
-Con independencia del sentido de la resolución que se dicte al final del procedimiento, el Contralor dictará las providencias oportunas para la corrección de las irregularidades administrativas que se detecten en ocasión del trámite de la queja, y si del contenido de ésta se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, procederá en los términos previstos en este Capítulo.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ###### ARTÍCULO 287.
 
-Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas ante la Sala Administrativa.
+(DEROGADO, P.O. 27 DE JUNIO DE 2018)
 
 ## TÍTULO CUARTO. DE LA FISCALÍA ESPECIAL EN DELITOS ELECTORALES
 
@@ -5215,6 +5237,8 @@ XI. En general, prestar auxilio al Magistrado Instructor para el control del per
 
 ### CAPÍTULO II. Del Procedimiento de Pre Registro de Aspirantes y de Registro de Candidatos Independientes
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 361.
 
 Los ciudadanos que resulten seleccionados conforme al procedimiento previsto en el presente Libro tendrán derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los siguientes cargos de elección popular:
@@ -5369,17 +5393,19 @@ Para la determinación de la votación estatal emitida en la asignación de curu
 
 Los ciudadanos que aspiren a obtener la candidatura independiente al cargo de Gobernador, Diputado de mayoría relativa o de la planilla a Ayuntamiento además de observar los requisitos generales establecidos en este Código y en la Constitución, deberán cumplir con lo siguiente:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-I. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de Gobernador, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral total del Estado y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 2.5 % de ciudadanos que figuren en la lista nominal de electores en cada una de ellas;
+I. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de Gobernador, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral total del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2018)</small>
 
-II. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de diputado de mayoría relativa, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral distrital por la que aspire a participar y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 2.5% de ciudadanos que figuren en la Lista Nominal de Electores en cada una de ellas;
+II. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de diputado de mayoría relativa, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral distrital por la que aspire a participar;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
 
-III. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de planilla a Ayuntamiento, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral total del Municipio de que se trate y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 2.5 % de ciudadanos que figuren en la lista nominal de electores en cada una de ellas;
+III. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de planilla a Ayuntamiento, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral total del Municipio de que se trate;
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
 
 Los porcentajes mencionados en todos los casos de la Lista Nominal de Electores serán con corte al 31 de agosto del año previo al de la elección.
 
@@ -5411,7 +5437,7 @@ Los ciudadanos solo podrán expresar su apoyo a un aspirante a una candidatura i
 
 ###### ARTÍCULO 380.
 
-Corresponde al Consejo llevar a cabo los procedimientos de pre registro de aspirantes y de registro de candidatos independientes, para ello, el Consejo emitirá, a más tardar el día quince de enero del año de la elección, una convocatoria abierta a los ciudadanos que deseen aspirar por una candidatura independiente, la cual deberá contener por lo menos:
+Corresponde al Consejo llevar a cabo los procedimientos y emitir la resolución de pre registro de aspirantes a candidaturas independientes, para ello, el Consejo emitirá, a más tardar el día quince de enero del año de la elección, una convocatoria abierta a los ciudadanos que deseen aspirar por una candidatura independiente, la cual deberá contener por lo menos:
 
 I. Los requisitos que tendrán que satisfacer quienes aspiren a obtener una candidatura independiente, y
 
@@ -5497,21 +5523,37 @@ XII. Copia de la credencial para votar del ciudadano que aspire a ser candidato 
 
 XIII. La plataforma electoral.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2018)</small>
 
-ARTÍCULO 387 A.- La solicitud de registro de candidatos independientes de aquellos que primero obtuvieron la calidad de aspirantes, será presentada ante el Consejo debiendo contener:
+ARTÍCULO 387 A.- La solicitud de registro de candidatos independientes de aquellos que primero obtuvieron la calidad de aspirantes, será presentada ante el Consejo, Consejo Distrital o Municipal dependiendo el cargo para el que se postula, debiendo contener:
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
 
 I. Relación de apoyo ciudadano que contenga el nombre, clave de elector y firma autógrafa de cada uno de los ciudadanos que respalden dicha candidatura en la demarcación electoral en la que participe como candidato independiente;
 
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+
 II. En su caso, el documento mediante el cual acredite haber obtenido la totalidad mínima necesaria de firmas de apoyo ciudadano para contender por el cargo que aspira; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
 
 III. La declaración de aceptación de candidatura.
 
-Al momento de la solicitud del registro, las planillas de aspirantes a Ayuntamiento por el principio de mayoría relativa, deberán presentar su lista de candidatos a contender por el principio de representación proporcional, quienes deberán cumplir en ese momento con los requisitos que sean necesarios de los establecidos en este artículo, ante el Consejo General.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+Al momento de la solicitud del registro ante el Consejo Municipal correspondiente, las planillas de aspirantes a Ayuntamiento por el principio de mayoría relativa, deberán presentar su lista de candidatos a contender por el principio de representación proporcional, quienes deberán cumplir en ese momento con los requisitos que sean necesarios de los establecidos en este artículo.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+El Consejo Municipal remitirá de inmediato al Consejo General la lista de candidaturas a contender por el principio de representación proporcional presentada.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 La lista de candidatos independientes por el principio de representación proporcional deberá estar integrada por ciudadanos que formen parte de la planilla de aspirantes a Ayuntamiento por el principio de mayoría relativa.
 
-El Consejo correspondiente resolverá sobre el pre registro y registro de candidatos independientes en los plazos y términos previstos por este Código.
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+El Consejo correspondiente resolverá sobre registro de candidatos independientes en los plazos y términos previstos por este Código.
 
 ## TÍTULO CUARTO. DE LAS CAMPAÑAS ELECTORALES
 
@@ -5665,9 +5707,11 @@ Las decisiones de los órganos electorales pueden ser impugnadas jurisdiccionalm
 
 Las campañas electorales de los candidatos independientes se sujetarán a las reglas establecidas en el Capítulo IV del Título Segundo, Libro Tercero de este Código, por lo tanto, en caso de incumplir con las mismas se harán merecedores a las sanciones que correspondan.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
+
 ###### ARTÍCULO 402.
 
-El candidato independiente deberá presentar ante el Consejo, la relación de integrantes de su comité de campaña electoral, señalando las funciones de cada uno y el respectivo domicilio oficial en la Capital del estado, cabecera municipal sede de distrito o cabecera municipal, según corresponda.
+El candidato independiente deberá presentar ante el Consejo correspondiente, la relación de integrantes de su comité de campaña electoral, señalando las funciones de cada uno y el respectivo domicilio oficial en la Capital del estado, cabecera municipal sede de distrito o cabecera municipal, según corresponda.
 
 T R A N S I T O R I O S:
 
@@ -5796,3 +5840,35 @@ El Contralor Interno del Instituto Estatal Electoral que se encuentra actualment
 ###### ARTÍCULO QUINTO.
 
 Para las elecciones locales no concurrentes de los años 2019 y 2022 los partidos políticos y candidatos independientes nombraran a un representante propietario y un suplente ante las mesas directivas de casilla.
+
+P.O. 27 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 334.- SE REFORMAN, DEROGAN Y ADICIONAN ARTÍCULOS Y FRACCIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto es publicado en el Periódico Oficial del Estado de Aguascalientes en términos del Cuarto Párrafo de la Fracción II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, e iniciará su vigencia el 1° de Septiembre de 2018, por lo que sus disposiciones serán aplicativas a partir del Proceso Electoral Local 2018-2019, y no así para el Proceso Electoral Local 2017-2018 que se encuentra en curso.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el Proceso Electoral Local 2018-2019 por única ocasión no se instalarán los Consejos Distritales.
+
+###### ARTÍCULO TERCERO.
+
+Aquellas funciones o actividades que el Código y la demás normatividad electoral establezcan como reservadas para los Consejos Distritales, por única ocasión durante el Proceso Electoral Local 2018-2019 se entenderán como facultades de los Consejos Municipales, salvo el caso de los procedimientos sancionadores que serán facultad del Consejo General, permaneciendo los Consejos Municipales como órganos auxiliares.
+
+En relación a las sesiones de Consejos Distritales señaladas en el Cuarto Párrafo del Artículo 191 y Cuarto Párrafo del Artículo 223 del Código Electoral no tendrán verificativo, ya que los paquetes electorales por única ocasión serán remitidos por las mesas directivas de casilla a los Consejos Municipales respectivos.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión para el Proceso Electoral Local 2018-2019, la convocatoria para la integración de los Consejos Municipales que señala el Artículo 96 del Código se sujetará a lo siguiente:
+
+El Consejero Presidente, en la primera semana de noviembre del año previo al de la elección emitirá la convocatoria, la cual se sujetará a los términos del Reglamento aplicable que expida el INE, para integrar los consejos municipales; los solicitantes en la segunda quincena del mes de noviembre del año previo al de la elección, recibirán la capacitación y se procederá a la realización de un examen para acreditar los conocimientos en materia electoral; con base en los resultados el Presidente del Consejo formulará las propuestas de integración de cada Consejo Municipal, que presentará al Consejo para su designación en la última quincena de diciembre del año previo a la elección.
+
+###### ARTÍCULO QUINTO.
+
+Por única ocasión para el Proceso Electoral Local 2018-2019, la instalación de los Consejos Municipales que señala el Artículo 95 del Código, será a más tardar la primera semana del mes de enero del año de la elección.
+
+###### ARTÍCULO SEXTO.
+
+Para el Proceso Electoral Local 2018- 2019, la duración de la campaña para el Ayuntamiento de Aguascalientes que establece el Artículo 161 Fracción III Inciso a) será de cuarenta y cinco días.
