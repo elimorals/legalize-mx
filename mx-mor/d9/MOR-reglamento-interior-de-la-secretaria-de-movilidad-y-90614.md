@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-movilidad-y-90614"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-19"
-last_updated: "2012-12-19"
+last_updated: "2018-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2012.
 
@@ -381,19 +381,75 @@ XV. Tramitar las cesiones de derechos entre particulares y por defunción de las
 
 XVI. Las que le otorgue el presente Reglamento y demás ordenamientos legales vigentes, así como las que le confiera el Secretario.
 
-### CAPÍTULO VII. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO VII. DE LAS SUPLENCIAS
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2018)</small>
+
+#### SECCIÓN PRIMERA. DE LAS AUSENCIAS TEMPORALES
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 13.
 
-El Secretario será suplido en sus ausencias por el Subsecretario o en su caso, por el servidor público que al efecto designe el Gobernador del Estado.
+Las ausencias temporales hasta por noventa días del Secretario serán cubiertas por la persona titular de la Subsecretaría de Movilidad y Transporte o, en su caso, por el servidor público que al efecto designe, operando la figura de suplencia por ausencia.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 14.
 
-El Subsecretario, Directores Generales, Delegados así como los titulares de las distintas unidades administrativas serán suplidos por el servidor público que para el efecto designe el Secretario.
+Las ausencias temporales hasta por noventa días de las personas titulares de las Direcciones Generales, se cubrirán por el servidor público que designe directamente el Secretario, operando la figura de suplencia por ausencia.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2018)</small>
 
 ###### Artículo 15.
 
-Cuando por cualquier motivo alguna unidad administrativa carezca de titular, el Secretario podrá encomendarle las funciones propias del cargo al servidor público que determine, mismo que sin dejar de desempeñar su cargo original será designado como Encargado de Despacho de la unidad administrativa que temporalmente se encuentre sin titular, hasta en tanto realice la designación definitiva, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían al titular de la unidad administrativa de que se trate, sin que por ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
+Las ausencias temporales hasta por noventa días de las personas titulares de las Unidades Administrativas restantes se cubrirán por el servidor público subalterno que designe el Secretario, operando la figura de suplencia por ausencia.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE JUNIO DE 2018)</small>
+
+#### SECCIÓN SEGUNDA. DE LA AUSENCIA ABSOLUTA
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+###### Artículo 16.
+
+En el caso de ausencia absoluta del Secretario, será facultad del Gobernador nombrar un encargado de despacho de la Secretaría, sin perjuicio de la designación definitiva que realice al efecto, de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE JUNIO DE 2018)</small>
+
+#### SECCIÓN TERCERA. DE LOS ENCARGADOS DE DESPACHO
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+###### Artículo 17.
+
+Cuando por cualquier motivo alguna Unidad Administrativa carezca de titular, el Secretario podrá encomendarle las funciones propias del cargo al servidor público que determine, mismo que sin dejar de desempeñar su cargo original será designado como encargado de despacho de la Unidad Administrativa que temporalmente se encuentre sin titular, hasta en tanto realice la designación definitiva, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían al titular de la Unidad Administrativa de que se trate, sin que por ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
+
+Esta disposición también resultará aplicable a la persona que designe el Gobernador, en su caso, como encargado de despacho de la Secretaría.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO VIII. DE LAS RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+###### Artículo 18.
+
+Los servidores públicos de la Secretaría serán responsables de ejercer, cumplir y vigilar las atribuciones y obligaciones en el ámbito de su respectiva competencia, el contenido del presente Reglamento y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+###### Artículo 19.
+
+Las violaciones a los preceptos del presente Reglamento y las demás disposiciones que de él emanen, serán sancionadas administrativamente en términos de lo previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Morelos, sin perjuicio de proceder conforme a los ordenamientos que correspondan cuando el servidor público incurra en hechos que pudieran considerarse ilícitos durante el desempeño de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+###### Artículo 20.
+
+La responsabilidad administrativa a la que está sujeto cada servidor público de la Secretaría, llegado el caso de que se determine la misma, será personal y directa, proporcional a sus atribuciones y competencia; por lo que para su determinación deberán considerarse las funciones y nivel del servidor público de que se trate, en términos de los Manuales Administrativos de la Secretaría, en el entendido de que el Manual de Políticas y Procedimientos deberá publicarse, al efecto, en el Periódico Oficial "Tierra y Libertad".
 
 DISPOSICIONES TRANSITORIAS
 
@@ -422,3 +478,17 @@ EL SECRETARIO DE MOVILIDAD Y TRANSPORTE
 M. EN D. DAVID GÓMEZ BASILIO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO".]</small>
+
+P.O. 27 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LOS REGLAMENTOS INTERIORES DE LAS SECRETARÍAS DE DESPACHO Y DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, EN MATERIA DE POLÍTICAS Y PROCEDIMIENTOS".]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+TERCERA. Dentro de un plazo de 90 días hábiles posteriores a la entrada en vigor del presente Decreto, las Secretarías y Dependencias podrán actualizar sus Manuales Administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Decreto.
+
+Dentro de un plazo de 15 días hábiles posteriores a la actualización que en su caso se realice del Manual de Políticas y Procedimientos, o bien, cuando no se actualicen contados a partir de la vigencia de este Decreto, las Secretarías y Dependencias deberán gestionar su publicación en el Periódico Oficial "Tierra y Libertad", en coordinación con la Secretaría de Administración.
