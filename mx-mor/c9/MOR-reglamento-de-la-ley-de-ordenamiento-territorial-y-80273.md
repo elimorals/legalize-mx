@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-ordenamiento-territorial-y-80273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-11"
-last_updated: "2018-03-16"
+last_updated: "2018-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 11 de marzo de 2011.
 
@@ -698,6 +698,12 @@ III. En el Programa de Desarrollo Urbano vigente, una zona del territorio munici
 IV. Se modifique el límite municipal, derivado del procedimiento de límites territoriales conforme a la normativa aplicable o por acuerdo formal entre los municipios involucrados y se haga necesaria la modificación o ajuste de los usos y destinos del suelo al nuevo límite municipal.
 
 V. Para los supuestos señalados en las fracciones anteriores, el interesado deberá presentar a la Secretaría el proyecto respectivo para su evaluación, debiendo sujetarse a lo dispuesto por la Ley y el Reglamento para la formulación de los Programas de Desarrollo Urbano, sin perjuicio de las documentales o requisitos adicionales que de manera específica y atendiendo a la naturaleza del proyecto le sean requeridos por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2018)</small>
+
+###### Artículo 31 Ter.
+
+Cuando se determine el establecimiento de una Ecozona se estará a lo señalado en el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en Materia de Ecozonas.
 
 #### SECCIÓN TERCERA. DICTÁMENES
 
@@ -1524,3 +1530,25 @@ III. Cumplidas y documentadas las formalidades, el interesado remitirá a la Sec
 IV. La Secretaría editará la modificación al Programa para su difusión y el municipio lo mantendrá a consulta permanente.
 
 QUINTA. Con independencia de lo previsto en las Disposiciones Transitorias Tercera y Cuarta, a los asuntos y procedimientos que se encuentren en trámite con anterioridad a la vigencia de este Decreto, podrán resultarles aplicables las reformas objeto del mismo.
+
+P.O. 27 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS EN MATERIA DE ECOZONAS; Y SE REFORMAN EL ACUERDO POR EL QUE SE CREA LA COMISIÓN INTERSECRETARIAL DE CAMBIO CLIMÁTICO DEL ESTADO DE MORELOS Y EL REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS EN MATERIA DE ORDENAMIENTO TERRITORIAL”.]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se reconoce la validez de las acciones realizadas previamente en el estado de Morelos, tendentes a la conformación de la Ecozona del Centro Histórico de Cuernavaca, así como aquellas relacionadas con lo señalado en el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en Materia de Ecozonas; en atención a lo previsto en el Decreto número ciento veinticinco, publicado en el Periódico Oficial “Tierra y Libertad”, número 5350, el 08 de diciembre de 2015, por el cual se reformaron la Ley del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable, ambas del Estado de Morelos.
+
+Similar reconocimiento se hace a las acciones realizadas con relación a la integración del Consejo Consultivo Ciudadano de esa Ecozona; para ello, por única ocasión, se prescindirá de la necesidad de expedir la convocatoria a que hace referencia los artículos 12 y 13 del Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en Materia de Ecozonas.
+
+En tal virtud, dentro de un plazo de treinta días hábiles, contados a partir del inicio de vigencia del presente Decreto, deberá celebrarse sesión del Consejo Consultivo Ciudadano de la Ecozona del Centro Histórico de Cuernavaca, en la cual, en su caso, se tomará protesta de los nuevos integrantes a que refiere el artículo 16, fracción III, inciso f) del Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en Materia de Ecozonas.
+
+Para efecto de lo anterior, la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal deberá realizar las acciones necesarias para convocar y celebrar la sesión referida en el párrafo anterior y a partir de ella se empezará a contabilizar la duración del encargo de los Consejeros Ciudadanos del Consejo Consultivo Ciudadano de la Ecozona del Centro Histórico de Cuernavaca, a que se refiere el artículo 16 del Reglamento expedido por virtud del presente Decreto, por única ocasión.
+
+TERCERA. Para efectos de la Disposición Transitoria Segunda, la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal deberá realizar los trabajos y gestiones necesarias para continuar la expedición de actos, operación y funcionamiento de la Ecozona referida, conforme lo previsto en el presente Decreto.
+
+Para ello, deberá iniciar la elaboración del Programa de Manejo de la Ecozona, conforme lo señalado en el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en Materia de Ecozonas; debiendo las Secretarías, Dependencias y Entidades del Poder Ejecutivo Estatal coadyuvar al efecto.
+
+CUARTA. En toda mención que se haga en ordenamientos normativos respecto a la Comisión Intersecretarial de Cambio Climático del Estado de Morelos, se entenderá que se hace referencia a la Comisión Intersecretarial de Cambio Climático y Ecozonas del Estado de Morelos.
+
+QUINTA. Se derogan las disposiciones jurídicas de igual o menor jerarquía normativa que se opongan al presente Decreto.
