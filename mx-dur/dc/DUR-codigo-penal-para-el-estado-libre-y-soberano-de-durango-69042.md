@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2018-05-31"
+last_updated: "2018-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2123,7 +2123,9 @@ Se considerará equiparable al delito de usurpación de identidad y se impondrá
 
 I. A quien por el uso de medio electrónico o telemático, obtenga algún lucro indebido para sí o para otro o genere un daño a otro, valiéndose de alguna manipulación informática o intercepción de datos de envío, cuyo objeto sea el empleo no autorizado de datos personales o el acceso no autorizado a base de datos automatizados para suplantar identidades.
 
-II. Al que posea o utilice o transfiera datos identificativos de otra persona, con la intención de cometer, favorecer o intentar cualquier actividad ilícita; o
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2018)</small>
+
+II. Al que por sí o por otra persona adquiera, transfiera, posea y utilice por cualquier medio, información personal y financiera de un tercero sin su autorización, con la intención de usurpar o suplantar su identidad, para cometer ofensas, adquirir bienes, contratar servicios; obtener créditos, documentos, recursos monetarios o beneficios financieros en perjuicio de las finanzas de un tercero.
 
 III. A quien asuma, se apropie, utilice o suplante, a través de internet, cualquier sistema informático o medio de comunicación, la identidad de una persona física o moral que no le pertenezca, produciendo con ello un daño, u obteniendo un lucro o un provecho indebido para sí o para otra persona.
 
@@ -2335,6 +2337,14 @@ Al que sabiendo que padece una enfermedad grave en periodo infectante, ponga en 
 
 Se impondrá de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces la Unidad de Medida y Actualización y se le privará de la patria potestad o de la tutela, al que abandone a una persona incapaz de valerse por sí misma teniendo la obligación de cuidarla. Si el sujeto activo fuere ascendiente o tutor de la víctima, se le privará del derecho de heredar respecto a la persona abandonada.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2018)</small>
+
+Al familiar que omita el cuidado a una persona mayor de sesenta años estando éste obligado legalmente de prestarle cuidados y alimentos, y que con motivo de esta conducta ponga en peligro la vida, salud o integridad de la persona, se le impondrá de un año a tres años de prisión y multa de setenta y dos a doscientos dieciséis veces la Unidad de medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2018)</small>
+
+Si con motivo de la omisión de cuidado dispuesta en el párrafo anterior, sobreviene la muerte de la persona mayor de sesenta años, se le impondrá la pena de dos a cinco años de prisión y multa de ciento cuarenta y cuatro a trescientos sesenta veces la Unidad de Medida y Actualización.
+
 ### CAPÍTULO I. ROBO
 
 ### CAPÍTULO II. ROBO DE GANADO
@@ -2427,7 +2437,7 @@ IX. Respecto de objetos que se encuentran en el interior de los vehículos autom
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2012)</small>
 
-X.- Recaiga sobre bienes de instituciones educativas, científicas, museos, galerías de arte, edificios de carácter religioso o monumentos históricos.
+X. Recaiga sobre bienes de instituciones educativas, científicas, museos, galerías de arte, edificios de carácter religioso o monumentos históricos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -3809,7 +3819,7 @@ DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
 ### CAPÍTULO II. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2018)</small>
 
 ###### Artículo 291.
 
@@ -3903,7 +3913,7 @@ Las mismas penas se impondrán a aquellas personas que obligadas a informar acer
 
 ###### Artículo 300.
 
-Comete el delito de violencia familiar quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de un año a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización y perderá el derecho de pensión alimenticia y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
+Comete el delito de violencia familiar quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de un año a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, perderá el derecho de pensión alimenticia y los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
 
 La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
 
@@ -3914,6 +3924,10 @@ Si la víctima de violencia familiar fuera una mujer en estado de gravidez, o un
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
 Se considera violencia familiar la alienación parental de quienes tengan la patria potestad, tutela o custodia del menor de edad.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2018)</small>
+
+Este delito se perseguirá de oficio cuando la víctima sea menor de edad o incapaz o mayor de sesenta años; o que la víctima presente lesiones físicas; o se presente agresión sexual; o cuando para causar daño psicológico, el agresor amenace a la víctima utilizando cualquier tipo de arma.
 
 ###### Artículo 301.
 
@@ -5243,7 +5257,7 @@ II. Introduzca al territorio del Estado o ponga en circulación en él, obligaci
 
 ###### Artículo 400.
 
-Se impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización, impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientas dieciséis veces la Unidad de Medida y Actualización (sic), a quien con el fin de obtener un beneficio o causar un daño:
+Se impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización, impondrán de tres meses a tres años de prisión y multa de dieciocho a doscientas dieciséis veces la Unidad de Medida y Actualización, a quien con el fin de obtener un beneficio o causar un daño:
 
 I. Produzca, imprima, enajene, distribuya, altere o falsifique tarjetas, títulos o documentos utilizados para el pago de bienes y servicios o para disposición de efectivo;
 
@@ -5393,7 +5407,7 @@ Para el Sistema Integral de Justicia para Menores Infractores, el presente orden
 
 Abrogación y Derogación.
 
-El Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004 y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que determine la Declaratoria a que alude el artículo primero transitorio del presente decreto, conforme a las siguientes prevenciones:
+El Código Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004 y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que determine la Declaratoria a que alude el artículo primero transitorio del presente decreto, conforme a las siguientes prevenciones:
 
 I.- En el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo, el Código referido con antelación, seguirá rigiendo, en los procedimientos por delitos cometidos con anterioridad a la entrada en vigor del presente Código Penal para el Estado Libre y Soberano de Durango, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria;
 
@@ -6049,8 +6063,24 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo estable
 
 P.O. 31 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 386.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 386.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 28 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 393.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 28 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 399.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
