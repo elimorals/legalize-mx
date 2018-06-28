@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-rural-sustentable-para-el-estado-de-96386"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-25"
-last_updated: "2015-12-20"
+last_updated: "2018-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de agosto de 2013.
 
@@ -227,7 +227,9 @@ I.- Promover el bienestar social y económico de los productores, de sus comunid
 
 II.- Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción sustentable del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
 
-III.- Contribuir a la soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria de la Entidad;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2018)</small>
+
+III.- Contribuir a la soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria de la Entidad; contemplando a los productores y agentes intervinientes, así como a los pequeños productores en condiciones de pobreza;
 
 IV.- Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable;
 
@@ -2080,3 +2082,11 @@ P.O. 20 DE DICIEMBRE DE 2015.
 PRIMERO.- La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado
 
 SEGUNDO.- Se derogan todas las disposiciones que se contrapongan con las disposiciones de esta Ley
+
+P.O. 28 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 411.- QUE CONTIENE REFORMAS A LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
