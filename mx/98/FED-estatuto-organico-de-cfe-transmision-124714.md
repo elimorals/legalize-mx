@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-transmision-124714"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-07"
-last_updated: "2017-12-07"
+last_updated: "2018-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124714&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-11-13"
 
 ESTATUTO ORGÁNICO DE CFE TRANSMISIÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2018.
 
 Estatuto publicado en la Primera Sección al Número 6 del Diario Oficial de la Federación, el jueves 7 de diciembre de 2017.
 
@@ -73,17 +73,21 @@ INDICE
 
 ### CAPITULO UNICO. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
 
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2018)</small>
+
+## TITULO QUINTO BIS. De la instancia en materia de Responsabilidades
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2018)</small>
+
+### CAPITULO ÚNICO. Unidad de Responsabilidades
+
 ## TITULO SEXTO. De las Suplencias
-
-### CAPÍTULO I. Disposiciones Generales
-
-## TITULO PRIMERO. De la Naturaleza, Objeto y Estructura de CFE Transmisión
 
 ## TRANSITORIOS
 
-## TITULO SEGUNDO. Del Consejo de Administración de CFE Transmisión
+## TITULO PRIMERO. De la Naturaleza, Objeto y Estructura de CFE Transmisión
 
-### CAPITULO II. Estructura y Organización Básica
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 1.
 
@@ -193,7 +197,7 @@ XXIII. Las demás que establezcan el Consejo de Administración o su Consejo en 
 
 Los contratos y en general, todos los actos jurídicos que celebre CFE Transmisión para el cumplimiento de su objeto, podrán incluir cualquiera de los términos permitidos por la legislación mercantil y civil, debiendo cumplir con la regulación aplicable en las materias que corresponda.
 
-### CAPITULO I. De la Integración y Funciones del Consejo
+### CAPITULO II. Estructura y Organización Básica
 
 ###### Artículo 6.
 
@@ -257,9 +261,9 @@ i) Gerencia Regional de Transmisión Peninsular.
 
 Las demás Empresas Filiales y unidades de negocio que lleguen a crearse de conformidad con las disposiciones jurídicas aplicables.
 
-## TITULO TERCERO. De la Estructura de CFE Transmisión
+## TITULO SEGUNDO. Del Consejo de Administración de CFE Transmisión
 
-### CAPITULO I. Del Director General
+### CAPITULO I. De la Integración y Funciones del Consejo
 
 ###### Artículo 7.
 
@@ -413,9 +417,9 @@ X. Plazos y términos para las convocatorias a sesión ordinaria y extraordinari
 
 XI. Para la convocatoria y celebración de las sesiones se podrán utilizar las tecnologías de la información y la comunicación, así como medios remotos de comunicación audiovisual.
 
-## TITULO CUARTO. De los Organos de Vigilancia y Auditoría
+## TITULO TERCERO. De la Estructura de CFE Transmisión
 
-### CAPITULO II. De las Funciones Genéricas de las Coordinaciones
+### CAPITULO I. Del Director General
 
 ###### Artículo 14.
 
@@ -477,7 +481,7 @@ XX. Las demás previstas en este Estatuto, el Acuerdo y las que le confiera el C
 
 Para el ejercicio de sus funciones, el Director General se auxiliará de las áreas y del personal directivo que determine el Consejo o que se establezcan en este Estatuto.
 
-### CAPITULO III. De las Funciones Específicas de las Coordinaciones
+### CAPITULO II. De las Funciones Genéricas de las Coordinaciones
 
 ###### Artículo 16.
 
@@ -531,7 +535,7 @@ XXIII. Coadyuvar en el ámbito de su competencia con el cumplimiento de las obli
 
 XXIV. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración o por el Director General, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
 
-### CAPITULO IV. De las Funciones Genéricas de las Gerencias Nacionales dependientes de las (sic) Dirección General y de las Coordinaciones, así como de las Unidades
+### CAPITULO III. De las Funciones Específicas de las Coordinaciones
 
 ###### Artículo 17.
 
@@ -591,7 +595,7 @@ VII. Asegurar la modernización de equipamiento y sistemas para la operación de
 
 VIII. Coadyuvar en el diseño y seguimiento a la Capacitación al personal de operación de la RNT, medición y liquidaciones para contar con personal altamente competitivo.
 
-### CAPITULO V. De las Funciones Específicas de las Gerencias Nacionales y Unidades
+### CAPITULO IV. De las Funciones Genéricas de las Gerencias Nacionales dependientes de las (sic) Dirección General y de las Coordinaciones, así como de las Unidades
 
 ###### Artículo 20.
 
@@ -625,7 +629,7 @@ XIII. Vigilar en el ámbito de su competencia con el cumplimiento de las obligac
 
 XIV. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración, o el Consejo, o por el Director General, o por su Coordinador, según corresponda, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
 
-### CAPITULO VI. De las Gerencias Regionales y de su Competencia Territorial
+### CAPITULO V. De las Funciones Específicas de las Gerencias Nacionales y Unidades
 
 ###### Artículo 21.
 
@@ -793,7 +797,7 @@ IX. Presentar ante las diversas autoridades tributarias, declaraciones de pago, 
 
 X. Informar al Director General, la deuda documentada y de los Proyectos de Infraestructura Productiva de largo plazo con Registro Diferido en el Gasto Público "PIDIREGAS".
 
-### CAPITULO VII. Del Personal de CFE Transmisión
+### CAPITULO VI. De las Gerencias Regionales y de su Competencia Territorial
 
 ###### Artículo 26.
 
@@ -1287,7 +1291,7 @@ Las funciones señaladas en las fracciones I, II, III, IV, V y IX a que este pre
 
 Los abogados integrantes de los Departamentos Jurídicos de las Gerencias Regionales señaladas en el artículo anterior, están facultados para defender los intereses jurídicos de la CFE Transmisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales, arbitrales laborales o administrativos, así como en los juicios de amparo en los que sea parte o tenga interés jurídico según su adscripción.
 
-### CAPITULO I. Organización
+### CAPITULO VII. Del Personal de CFE Transmisión
 
 ###### Artículo 29.
 
@@ -1295,9 +1299,9 @@ El personal de CFE Transmisión señalado en los capítulos precedentes de este 
 
 Las funciones y obligaciones establecidas en el presente Estatuto son enunciativas mas no limitativas.
 
-## TITULO QUINTO. De la instancia en materia de Transparencia
+## TITULO CUARTO. De los Organos de Vigilancia y Auditoría
 
-### CAPITULO II. Del Comité de Auditoría
+### CAPITULO I. Organización
 
 ###### Artículo 30.
 
@@ -1321,7 +1325,7 @@ La Auditoría Interna dependerá jerárquica y funcionalmente del Auditor Intern
 
 El Director General facilitará a los Auditores Internos espacios físicos, instalaciones, infraestructura, tecnología y demás servicios necesarios para el adecuado desempeño de sus funciones.
 
-### CAPITULO III. De la Auditoría Interna
+### CAPITULO II. Del Comité de Auditoría
 
 ###### Artículo 34.
 
@@ -1333,7 +1337,7 @@ A las sesiones del Comité asistirán como invitados permanentes, el Auditor Int
 
 Asimismo, podrán asistir como invitados, con derecho a voz sin voto, un representante del Director General o cualquier otra persona cuando se considere conveniente y apropiado en razón del tema a descurtirse.
 
-### CAPITULO IV. De las Funciones del Comité de Auditoría y de la Auditoría Interna
+### CAPITULO III. De la Auditoría Interna
 
 ###### Artículo 36.
 
@@ -1351,13 +1355,15 @@ Los Auditores Internos permanecerán en su encargo hasta tres años, y podrán e
 
 El Auditor Interno, para el cumplimiento de sus funciones, tendrá una estructura de apoyo integrada por un Auditor Supervisor y un Auxiliar, que serán asignados por la Auditoría Interna del Corporativo de su personal adscrito, además les comisionará a los auditores necesarios para el desarrollo de su Programa, en la forma y términos que resulten necesarios para llevar a cabo con eficiencia el mismo, quienes dependerán jerárquica y funcionalmente del Auditor Interno de CFE Transmisión durante su comisión, y al concluir ésta, regresarán a su adscripción original.
 
-### CAPITULO UNICO. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
+### CAPITULO IV. De las Funciones del Comité de Auditoría y de la Auditoría Interna
 
 ###### Artículo 39.
 
 El Comité de Auditoría y la Auditoría Interna tendrán las funciones que para tal efecto apruebe el Consejo de Administración, en términos de lo que establece el Título Tercero de la Ley.
 
-## TITULO SEXTO. De las Suplencias
+## TITULO QUINTO. De la instancia en materia de Transparencia
+
+### CAPITULO UNICO. Integración y Funciones de la Unidad de Transparencia y el Comité de Transparencia
 
 ###### Artículo 40.
 
@@ -1366,6 +1372,28 @@ El Titular de la Unidad de Transparencia de la CFE Transmisión, así como el Co
 ###### Artículo 41.
 
 El Comité de Transparencia de CFE Transmisión, estará integrado por 3 miembros designados por el Director General, entre los que se encontrará el Titular de la Unidad de Transparencia. Para cada integrante propietario deberá ser designado un suplente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 28 DE JUNIO DE 2018)</small>
+
+## TITULO QUINTO BIS. De la Instancia en Materia de Responsabilidades
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 28 DE JUNIO DE 2018)</small>
+
+### CAPÍTULO ÚNICO. Unidad de Responsabilidades
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2018)</small>
+
+###### Artículo 41 Bis.
+
+La Unidad de Responsabilidades es la instancia competente para aplicar al personal de CFE Transmisión las leyes en materia de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2018)</small>
+
+###### Artículo 41 Ter.
+
+La Unidad de Responsabilidades en CFE Transmisión contará con la estructura y las funciones que le otorguen la Ley de la Comisión Federal de Electricidad y su Reglamento, así como las demás disposiciones jurídicas aplicables.
+
+## TITULO SEXTO. De las Suplencias
 
 ###### Artículo 42.
 
@@ -1396,3 +1424,11 @@ SEGUNDO. Con motivo de la reestructura, los asuntos que se encuentren en trámit
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de CFE Transmisión, con fundamento en el artículo 14, fracción IX, del Acuerdo de creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Transmisión, en sesión ordinaria celebrada el 13 de marzo de 2017, mediante el Acuerdo Número CA-Trans-15/2017.
 
 En la Ciudad de México, a los trece días del mes de noviembre de dos mil diecisiete.- El Director General de CFE Transmisión, Noé Peña Silva, con fundamento en el artículo 17, fracciones I y II del Acuerdo de Creación de la Empresa Productiva Subsidiaria de la Comisión Federal de Electricidad, denominada CFE Transmisión, publicado en el Diario Oficial de la Federación el veintinueve de marzo de dos mil dieciséis.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LAS "ADICIONES DEL ESTATUTO ORGÁNICO DE CFE TRANSMISIÓN, PUBLICADO EL 7 DE DICIEMBRE DE 2017".]
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
