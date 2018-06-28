@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-comision-consultiva-estatal-de-63644"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-28"
-last_updated: "2008-08-28"
+last_updated: "2018-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
 
-REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 28 de agosto de 2008.
 
@@ -371,3 +373,17 @@ Presidente de COPARMEX Durango
 Profra. Alia Lorena Ibarra de Arreola
 
 AMMJE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrara en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el reglamento de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo y todas aquellas disposiciones que rijan la integración y funcionamiento de la Comisión que se contraponga al presente Reglamento.
