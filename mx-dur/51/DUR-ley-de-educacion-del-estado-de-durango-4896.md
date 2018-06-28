@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2017-12-07"
+last_updated: "2018-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -255,9 +255,9 @@ XIX.- Responder a un proyecto democrático, de respeto a la pluralidad política
 
 XX.- Crear conciencia sobre la importancia de una alimentación completa, equilibrada, inocua, suficiente y variada, para el desarrollo pleno del individuo de todas las etapas de la vida; así como promover la adopción de hábitos alimenticios saludables y su relación con la desnutrición, el sobrepeso, la obesidad, los trastornos de la conducta alimentaria y las enfermedades crónicodegenerativas;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2018)</small>
 
-XXI.- Estimular la educación física y la práctica del deporte, así como inculcar la importancia de la actividad física en la salud;
+XXI.- Establecer la educación física y la práctica del deporte, como una materia obligatoria;
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1252,6 +1252,26 @@ Se brindarán cursos a los docentes y al personal que labora en los planteles de
 ###### ARTICULO 90.
 
 La Educación Inicial se atenderá en Centros de Desarrollo Infantil u otras instituciones similares, cualquiera que sea su denominación, y promoverá el desarrollo adecuado de las capacidades físicas, cognoscitivas, afectivas, creativas, morales y de sociabilidad, de los niños menores de tres años de edad; las autoridades educativas, tomando en cuenta la vinculación estrecha que debe darse en esta etapa formativa con la educación familiar, realizarán Programas Especiales de Orientación Conjunta a los padres de familia y a todos los involucrados en esta etapa de proceso educativo, a fin de cumplir debidamente con los objetivos programados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 28 DE JUNIO DE 2018)</small>
+
+Sus propósitos son:
+
+I.- Ofrecer a los niños y las niñas oportunidades adaptadas a su entorno, para que accedan de manera efectiva y en igualdad de condiciones al siguiente nivel educativo.
+
+II.- Vincular la participación organizada y sistematizada de los padres de familia y tutores en la atención adecuada de los niños y las niñas.
+
+III.- Proporcionar, con una perspectiva interdisciplinaria, servicios médicos, pedagógicos, psicológicos, de trabajo social y de nutrición que permitan un desarrollo integral de los niños y las niñas.
+
+IV.- Que las instalaciones donde se presten los servicios de Educación Inicial, deberán apegarse de manera estricta a las normas de higiene y seguridad que las autoridades federales y estatales determinen.
+
+V.- Promover y estimular formas de interacción familiar y social, sustentadas en el respeto a los Derechos humanos, eliminando así toda tentativa de castigo físico o psicológico hacia los niños y las niñas.
+
+VI.- Iniciar a los niños y las niñas en el conocimiento, respeto y comprensión de la naturaleza, así como en el reconocimiento social de la sexualidad desde una perspectiva de género.
+
+VII.- Desarrollar y promover, en un ambiente de libertad y respeto, la creatividad, la curiosidad y el juego.
+
+VIII.- Formar en los niños y las niñas, valores y actitudes de respeto y responsabilidad, que se prolonguen hasta sus propios hogares.
 
 #### Sección 3. De la Educación Preescolar
 
@@ -2590,3 +2610,11 @@ LA Secretaría tomará las medidas necesarias para que en un plazo no mayor a si
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 28 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 410.- QUE CONTIENE REFORMAS A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Educación del Gobierno del Estado realizará las adecuaciones normativas y administrativas que correspondan para dar cumplimiento al presente decreto en un plazo que no exceda de 120 días a partir de la entrada en vigor del presente decreto.
