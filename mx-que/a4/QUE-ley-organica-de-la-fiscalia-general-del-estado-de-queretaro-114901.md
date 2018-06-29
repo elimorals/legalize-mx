@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2017-12-26"
+last_updated: "2018-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -93,41 +93,45 @@ X. Fiscal Anticorrupción: al titular de la Fiscalía Especializada en el Combat
 
 XI. Fiscalía Anticorrupción: a la Fiscalía Especializada en el Combate a la Corrupción;
 
-XII. Fiscal General: al titular de la Fiscalía General del Estado de Querétaro;
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XIII. Fiscalía General: al organismo constitucional autónomo denominado Fiscalía General del Estado de Querétaro;
+XII. Fiscalía Especializada en Desaparición de Personas: La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares;
 
-XIV. Instituto: al Instituto del Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
+XIII. Fiscal General: al titular de la Fiscalía General del Estado de Querétaro;
 
-XV. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
+XIV. Fiscalía General: al organismo constitucional autónomo denominado Fiscalía General del Estado de Querétaro;
 
-XVI. Ley General del Sistema: a la Ley General del Sistema Nacional de Seguridad Pública;
+XV. Instituto: al Instituto del Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
 
-XVII. Perito: a los integrantes de los cuerpos de investigación técnica y científica de la Fiscalía General;
+XVI. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
 
-XVIII. Personal Sustantivo: a los Fiscales, Peritos y Policías de Investigación, que se encuentran sujetos al Servicio Profesional de Carrera de la Fiscalía General;
+XVII. Ley General del Sistema: a la Ley General del Sistema Nacional de Seguridad Pública;
 
-XIX. Policía de Investigación: a los integrantes del cuerpo de Policía de Investigación del Delito de la Fiscalía General;
+XVIII. Perito: a los integrantes de los cuerpos de investigación técnica y científica de la Fiscalía General;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+XIX. Personal Sustantivo: a los Fiscales, Peritos y Policías de Investigación, que se encuentran sujetos al Servicio Profesional de Carrera de la Fiscalía General;
 
-XX. Reglamento: al Reglamento de la Ley Orgánica de la Fiscalía General;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XXI. Reglamento del Centro: al Reglamento del Centro de Evaluación de Control de Confianza de la Fiscalía General;
+XX. Policía de Investigación: a los integrantes del cuerpo de Policía de Investigación del Delito de la Fiscalía General;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXII. Servicio Profesional: al Servicio Profesional de Carrera de la Fiscalía General;
+XXI. Reglamento: al Reglamento de la Ley Orgánica de la Fiscalía General;
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXIII. SIU: Sistema Informático Único que permite la comunicación entre el personal operativo facultado para el uso legal de la fuerza pública y la Fiscalía General; y
+XXII. Reglamento del Centro: al Reglamento del Centro de Evaluación de Control de Confianza de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXIII. Servicio Profesional: al Servicio Profesional de Carrera de la Fiscalía General;
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXIV. UMA: a la Unidad de Medida y Actualización.
+XXIV. SIU: Sistema Informático Único que permite la comunicación entre el personal operativo facultado para el uso legal de la fuerza pública y la Fiscalía General; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XXV. UMA: a la Unidad de Medida y Actualización.
 
 ### Capítulo Segundo. De las funciones de la Fiscalía General del Estado de Querétaro
 
@@ -227,13 +231,17 @@ XIV. El Instituto del Servicio Profesional de Carrera;
 
 XV. La Dirección de Administración;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XVI. La Contraloría; y
+XVI. La Contraloría;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XVII. El Centro de Evaluación y Control de Confianza.
+XVII. El Centro de Evaluación y Control de Confianza; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+XVIII. La Fiscalía Especializada en la Investigación de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares.
 
 ###### Artículo 8.
 
@@ -349,15 +357,19 @@ XXIV. Supervisar la aplicación y difusión de los Mecanismos Alternativos de So
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XXV. Autorizar y expedir el manual de organización de la Fiscalía General y ordenar su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”;
+XXV. Autorizar y expedir el manual de organización de la Fiscalía General y ordenar su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga";
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XXVI. Autorizar los manuales de procedimientos de las direcciones de la Fiscalía General; y
+XXVI. Autorizar los manuales de procedimientos de las direcciones de la Fiscalía General;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XXVII. Las demás contenidas en las disposiciones legales aplicables.
+XXVII. Autorizar operaciones encubiertas como parte de las acciones de investigación del delito, dentro de un expediente o carpeta de investigación, de conformidad con las disposiciones aplicables; y
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+XXVIII. Las demás establecidas en otras disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -495,11 +507,29 @@ XIII. Las demás que le confieran las disposiciones legales aplicables y el regl
 
 La Fiscalía Anticorrupción contará con los órganos, las direcciones y el personal necesario para el cumplimiento de sus atribuciones y que se establezcan en las disposiciones reglamentarias.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2018)</small>
+
+### Capítulo Tercero Ter
+
+De la Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+###### Artículo 13 Septies.
+
+La Fiscalía Especializada en Desaparición de Personas tendrá por objeto la investigación y persecución de los delitos de desaparición forzada de personas y la cometida por particulares, de conformidad con las disposiciones legales aplicables;
+
+Además, tendrá las atribuciones previstas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y las demás establecidas en las disposiciones aplicables.
+
+Se coordinará con las autoridades y demás instancias públicas o privadas, impulsando permanentemente la búsqueda de personas desaparecidas o no localizadas.
+
+Contará con el personal y recursos necesarios para el cumplimiento de sus funciones, conforme a la suficiencia presupuestal autorizada y demás disposiciones aplicables.
+
+El Fiscal General realizará la designación y remoción del titular de la Fiscalía Especializada en Desaparición de Personas y el personal adscrito a ésta deberá cumplir con los requisitos establecidos en las disposiciones aplicables.
+
 ### Capítulo Cuarto. De los Vice Fiscales
 
 ### Capítulo Quinto. De la Vice Fiscalía de Investigación y Persecución del Delito
-
-### Capítulo Sexto. De la Vice Fiscalía de Investigación Científica y Policial
 
 ###### Artículo 14.
 
@@ -527,7 +557,7 @@ VI. Proponer al Fiscal General para su autorización y aprobación sus manuales 
 
 VII. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
 
-### Capítulo Séptimo. De la Vice Fiscalía de Derechos Humanos y Desarrollo Institucional
+### Capítulo Sexto. De la Vice Fiscalía de Investigación Científica y Policial
 
 ###### Artículo 15.
 
@@ -565,7 +595,7 @@ VIII. Realizar el cobro de derechos por el servicio de expedición de certificad
 
 IX. Las demás contenidas en las disposiciones aplicables.
 
-### Capítulo Primero. Disposiciones generales
+### Capítulo Séptimo. De la Vice Fiscalía de Derechos Humanos y Desarrollo Institucional
 
 ###### Artículo 16.
 
@@ -581,7 +611,7 @@ IV. Realizar las acciones y trámites necesarios para mantener la vigencia de la
 
 V. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
 
-### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
+### Capítulo Primero. Disposiciones generales
 
 ###### Artículo 17.
 
@@ -595,13 +625,13 @@ III. Realizar en conjunto con las Vice Fiscalías, Direcciones y demás áreas d
 
 IV. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
 
-### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
+### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
 
-### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
+### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
 
 ## Título Tercero. De las atribuciones de las Direcciones
 
-### Capítulo Quinto. De la Dirección de Servicios Periciales
+### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
 
 ###### Artículo 18.
 
@@ -647,7 +677,7 @@ XI. Las demás que se establezcan en las disposiciones legales aplicables.
 
 En el reglamento se establecerán las funciones específicas que desempeñarán los titulares de las Direcciones.
 
-### Capítulo Sexto. De la Dirección de Tecnologías
+### Capítulo Quinto. De la Dirección de Servicios Periciales
 
 ###### Artículo 19.
 
@@ -725,7 +755,7 @@ XIX. Realizar las tareas de certificación del personal en materia de los Mecani
 
 XX. Las demás contenidas en las disposiciones aplicables.
 
-### Capítulo Séptimo. De la Dirección de Derechos Humanos
+### Capítulo Sexto. De la Dirección de Tecnologías
 
 ###### Artículo 20.
 
@@ -781,7 +811,7 @@ XV. Realizar el cobro de derechos por los servicios de expedición de documento 
 
 XVI. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
+### Capítulo Séptimo. De la Dirección de Derechos Humanos
 
 ###### Artículo 21.
 
@@ -817,7 +847,7 @@ XII. Recibir, tramitar, investigar y resolver a través de la Unidad de Asuntos 
 
 XIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Noveno. Del Instituto del Servicio Profesional de Carrera
+### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
 
 ###### Artículo 22.
 
@@ -843,7 +873,7 @@ V. Dirigir y controlar el Servicio Médico Forense;
 
 VI. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Décimo. De la Dirección de Administración
+### Capítulo Noveno. Del Instituto del Servicio Profesional de Carrera
 
 ###### Artículo 23.
 
@@ -875,9 +905,7 @@ VI. Ejecutar las acciones de apoyo técnico que garanticen la seguridad de la in
 
 VII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Noveno (sic). De la Contraloría
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Décimo. De la Dirección de Administración
 
 ###### Artículo 24.
 
@@ -896,6 +924,34 @@ III. Ejercer las funciones y obligaciones a que se refiere la legislación en ma
 IV. Atender, conforme a la normatividad aplicable, las quejas, propuestas de conciliación, recomendaciones o cualquier otra resolución o pronunciamiento que emitan los Organismos Protectores de Derechos Humanos a la Fiscalía General; y
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+
+### Capítulo Noveno (sic). De la Contraloría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+
+###### Artículo 25.
+
+La Dirección Jurídica y de Vinculación Institucional tiene las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+I. Representar jurídicamente y ejercer las acciones legales correspondientes a la Fiscalía General y a su titular, en todos los asuntos, juicios de amparo, civiles, mercantiles, laborales o de cualquier otra naturaleza en los que tenga intervención;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+II. Validar, proponer o elaborar los contratos, convenios, normatividad y actos jurídicos de la Fiscalía General, para su debido registro y control;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Participar en los procesos de elaboración y análisis de anteproyectos, proyectos e iniciativas de ley y demás normatividad en el ámbito de competencia de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IV. Desarrollar acciones de vinculación con instituciones públicas o entes privados en representación de la Fiscalía, y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
 V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
@@ -932,6 +988,10 @@ Artículo 28 quinquies. El Centro contará con un Consejo que será el órgano r
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 Artículo 28 sexies. Al frente del Centro estará un Director, y contará con el personal técnico y administrativo que resulte necesario para el cumplimiento de sus funciones, de conformidad con la suficiencia presupuestaria.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+La designación del Director del Centro tendrá una duración de seis años y podrá ser removido por falta grave, de conformidad con las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -973,32 +1033,6 @@ Artículo 28 duodecies. El Centro será el encargado de emitir el Certificado en
 
 Artículo 28 terdecies. El Centro realizará el cobro de derechos por los servicios de evaluación en materia de control de confianza.
 
-###### Artículo 25.
-
-La Dirección Jurídica y de Vinculación Institucional tiene las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-I. Representar jurídicamente y ejercer las acciones legales correspondientes a la Fiscalía General y a su titular, en todos los asuntos, juicios de amparo, civiles, mercantiles, laborales o de cualquier otra naturaleza en los que tenga intervención;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-II. Validar, proponer o elaborar los contratos, convenios, normatividad y actos jurídicos de la Fiscalía General, para su debido registro y control;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Participar en los procesos de elaboración y análisis de anteproyectos, proyectos e iniciativas de ley y demás normatividad en el ámbito de competencia de la Fiscalía General;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-IV. Desarrollar acciones de vinculación con instituciones públicas o entes privados en representación de la Fiscalía, y
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
-
-### Capítulo Primero. Del personal
-
 ###### Artículo 26.
 
 El Instituto del Servicio Profesional de Carrera tiene las siguientes facultades:
@@ -1027,7 +1061,7 @@ VII. Realizar el cobro de derechos por los servicios de profesionalización que 
 
 VIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Segundo. De la designación del personal
+### Capítulo Primero. Del personal
 
 ###### Artículo 27.
 
@@ -1067,7 +1101,7 @@ VIII. Realizar el cobro de derechos por las bases de licitación; y
 
 IX. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Tercero. Del Servicio Profesional de Carrera
+### Capítulo Segundo. De la designación del personal
 
 ###### Artículo 28.
 
@@ -1191,13 +1225,11 @@ XXIX. Las demás que le confieran las disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
-### Capítulo Cuarto. De las excusas e incompatibilidades
+### Capítulo Tercero. Del Servicio Profesional de Carrera
 
 ## Título Cuarto. Del régimen del personal
 
-### Capítulo Quinto. De las responsabilidades de los servidores públicos
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Cuarto. De las excusas e incompatibilidades
 
 ###### Artículo 29.
 
@@ -1226,6 +1258,10 @@ IV. Acreditar cuando menos tres años de experiencia en la procuración de justi
 V. No haber sido condenado por delito doloso; y
 
 VI. Ser de notoria buena conducta, honradez y probidad.
+
+### Capítulo Quinto. De las responsabilidades de los servidores públicos
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 32.
 
@@ -1568,3 +1604,23 @@ P.O. 26 DE DICIEMBRE DE 2017.
 Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 29 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 29 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
