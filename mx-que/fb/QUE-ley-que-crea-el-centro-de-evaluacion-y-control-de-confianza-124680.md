@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-centro-de-evaluacion-y-control-de-confianza-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-29"
-last_updated: "2017-11-29"
+last_updated: "2018-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 29 de noviembre de 2017.
 
@@ -243,9 +243,11 @@ VI. Las demás que establezcan otras disposiciones aplicables.
 
 ### Capítulo V. Director General
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 14.
 
-El Director General será designado y removido por el titular del Poder Ejecutivo del Estado.
+El Director General será designado por el titular del Poder Ejecutivo del Estado y su designación será por un periodo de seis años, pudiendo ser removido por falta grave, de conformidad con las disposiciones aplicables.
 
 ###### Artículo 15.
 
@@ -442,3 +444,15 @@ Juan Martín Granados Torres
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA LA LEY QUE CREA EL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE QUERÉTARO, LA LEY DE RESPETO VECINAL PARA EL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Para los efectos de lo establecido en el artículo 14 de la Ley que crea el Centro de Evaluación y Control de Confianza del Estado de Querétaro, el plazo para el actual Director del Centro se computará desde el momento de su nombramiento.
