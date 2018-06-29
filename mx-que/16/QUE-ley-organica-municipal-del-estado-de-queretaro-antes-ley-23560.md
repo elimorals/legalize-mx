@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2018-06-08"
+last_updated: "2018-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -2067,9 +2067,13 @@ I. Ser originario del municipio o tener residencia efectiva en el mismo no menor
 
 II. Ser ciudadano en pleno uso y goce de sus derechos civiles y políticos;
 
-III. Tener los conocimientos jurídicos necesarios a juicio del Presidente Municipal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-IV. No haber sido sentenciado por delito intencional que merezca pena privativa de la libertad;
+III. Contar con el Título y cédula profesional de licenciado en derecho;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+IV. No haber sido sentenciado por delito doloso que merezca pena privativa de la libertad;
 
 V. No pertenecer al Estado eclesiástico ni ser ministro de algún culto religioso;
 
@@ -2265,7 +2269,7 @@ Manteniéndose una compilación actualizada de los Reglamentos e instrumentos no
 
 ###### ARTICULO 147.
 
-Para la aprobación y expedición de los reglamentos, decretos, acuerdos, y demás documentos que contengan disposiciones administrativas de observancia general, los Ayuntamientos deben sujetarse a las disposiciones del presente Título y a las siguientes Bases Generales:
+Para la aprobación y expedición de los reglamentos, decretos, acuerdos y demás documentos que contengan disposiciones administrativas de observancia general, los Ayuntamientos deben sujetarse a las disposiciones del presente Título y a las siguientes Bases Generales:
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2877,8 +2881,18 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 P.O. 8 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 47 DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO Y LA FRACCIÓN I DEL ARTÍCULO 117 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 47 DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO Y LA FRACCIÓN I DEL ARTÍCULO 117 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 29 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA LA LEY QUE CREA EL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE QUERÉTARO, LA LEY DE RESPETO VECINAL PARA EL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Para los efectos de lo establecido en el artículo 14 de la Ley que crea el Centro de Evaluación y Control de Confianza del Estado de Querétaro, el plazo para el actual Director del Centro se computará desde el momento de su nombramiento.
