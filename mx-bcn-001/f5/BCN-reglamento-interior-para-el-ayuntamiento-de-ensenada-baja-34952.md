@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2018-06-22"
+last_updated: "2018-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1485,6 +1485,10 @@ XXII.- Protección Civil; y
 
 XXIII.- Ecología y Medio Ambiente.
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+XXIV.- Comisión de Asuntos Metropolitanos
+
 COMISION DE GOBERNACION Y LEGISLACION.
 
 ###### ARTÍCULO 115.
@@ -1971,6 +1975,22 @@ V.- Inspeccionar a solicitud ciudadana la correcta expedición de los diversos p
 
 VI.- Opinar y dictaminar en su caso, en las campañas de información y divulgación a la población en materia de ecología y protección al medio ambiente, cumpliendo con las directrices dadas por el Ayuntamiento, disposiciones estatales y federales;
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+COMISÓN DE ASUNTOS METROPOLITANOS
+
+ARTÍCULO 127 DUODECIES.- Atribuciones:
+
+I. Analizar, estudiar y dictaminar las iniciativas relativas a convenios y contratos, con la Federación, el Estado, los municipios y los particulares, respecto de temas metropolitanos.
+
+II. Proponer la realización de los estudios generales y particulares sobre los asuntos metropolitanos;
+
+III. Evaluar y vigilar los trabajos de las dependencias municipales, con funciones en materia de planeación y enlace metropolitano;
+
+IV. Proponer al Ayuntamiento la creación de las instancias que se consideren necesarias para mejorar la coordinación gubernamental respecto de lo zona metropolitana;
+
+V. Conocer y mantener informado al Ayuntamiento de los planes y programas derivados de la (sic) asuntos relacionados con la zona metropolitana;
+
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
 CONVOCATORIA.
@@ -2376,3 +2396,7 @@ P.O. 22 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2018.
+
+[EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]
