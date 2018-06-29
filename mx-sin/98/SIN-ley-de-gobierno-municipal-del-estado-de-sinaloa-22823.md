@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2018-02-12"
+last_updated: "2018-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -623,9 +625,31 @@ VI. Concertar acciones con los sectores social y privado en materia de desarroll
 
 VII. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
 
-VIII. Informar a la sociedad sobre las acciones en torno al desarrollo social; y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-IX. Las demás que establezcan otras disposiciones jurídicas aplicables.
+VIII. Informar a la sociedad sobre las acciones en torno al desarrollo social;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+IX. Garantizar el derecho de los beneficiarios y de la sociedad a participar de manera activa y corresponsable en la planeación, ejecución, evaluación y supervisión de la política social;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+X. Promover el desarrollo productivo e ingreso en beneficio de las personas, familias y grupos sociales en situación de vulnerabilidad, destinando los recursos presupuestales necesarios y estableciendo metas cuantificables;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+XI. Hacer del conocimiento público cada año sus programas operativos de desarrollo social, a través de los medios más accesibles a la población, en un plazo máximo de 90 días a partir de la aprobación de sus presupuestos de egresos anuales respectivos;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+XII. Fomentar las actividades productivas para promover la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+XIII. Estimular la organización de personas, familias y grupos sociales, destinando recursos públicos para promover proyectos productivos; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades; y
+
+XIV. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
 
@@ -929,13 +953,17 @@ XVII. Protección Civil;
 
 XVIII. Derechos Humanos y Grupos Vulnerables;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XIX. Participación Ciudadana; y
+XIX. Participación Ciudadana;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XX. Comunidades y Asuntos Indígenas.
+XX. Comunidades y Asuntos Indígenas; y
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+XXI. De Desarrollo Social.
 
 Las Comisiones Permanentes tendrán la competencia que se derive de su denominación, en relación a las áreas respectivas de la administración pública municipal y en su caso, a la materia de su conocimiento.
 
@@ -1906,3 +1934,11 @@ P.O. 12 DE FEBRERO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 29 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 584 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 35 BIS, ASÍ COMO LAS XIX Y XX DEL ARTÍCULO 44; Y SE ADICIONAN LAS FRACCIONES IX, X, XI, XII Y XIII, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 35 BIS, Y LA XXI AL ARTÍCULO 44, TODAS DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día primero de noviembre del 2018.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
