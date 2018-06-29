@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2016-del-pleno-del-consejo-de-la-115054"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-06-09"
-last_updated: "2018-02-23"
+last_updated: "2018-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115054&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-02"
 
 ACUERDO GENERAL 31/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN REYNOSA Y CIUDAD VICTORIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2018.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2016.
 
@@ -189,7 +189,9 @@ II. En caso de no ser posible lo previsto en la fracción anterior, la sustituci
 
 III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal Federal más cercano.
 
-Tratándose de la sustitución del Tribunal de Alzada del Centro con sede en Reynosa, se habilita al Cuarto Tribunal Unitario del Décimo Noveno Circuito, con sede en Nuevo Laredo, Tamaulipas, para conocer con ese carácter, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 12/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2018)</small>
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, con sede en Reynosa, se habilita a los Tribunales Unitarios del Decimonoveno Circuito, con residencia en Reynosa, Tamaulipas, en el orden de su denominación y en caso de que ello no sea posible, la sustitución recaerá en los Tribunales de Alzada del Centro de Justicia Penal más cercano, en los mismos términos; en el entendido que conocerán de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
 Para la sustitución del Tribunal de Alzada del Centro con sede en Ciudad Victoria, se habilita a los Tribunales Unitarios del Décimo Noveno Circuito, con sede en Matamoros, para conocer, con ese carácter, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
@@ -215,7 +217,9 @@ Los Administradores de los Centros llevarán a cabo las acciones de coordinació
 
 SEGUNDO. Hasta en tanto se crean los Tribunales de Alzada a que se refiere el artículo 4 de este Acuerdo se habilita:
 
-I. Tratándose del Centro con sede en Reynosa, al Tercer Tribunal Unitario del Décimo Noveno Circuito, con residencia en Reynosa, Tamaulipas, para conocer de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables; y
+> <small>(REFORMADA POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 12/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE JUNIO DE 2018)</small>
+
+I. Tratándose del Centro con sede en Reynosa, a los Tribunales Unitarios del Décimo Noveno Circuito, con residencia en Reynosa, Tamaulipas, para conocer, en el orden numérico de su denominación, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables; y
 
 II. Para el Centro con sede en Ciudad Victoria, al Primer Tribunal Unitario del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas, para conocer de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
@@ -340,3 +344,69 @@ XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia 
 XXVI. a XXXVIII. …”
 
 TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 29 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 12/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL SEXTO TRIBUNAL UNITARIO DEL DECIMONOVENO CIRCUITO, CON RESIDENCIA EN REYNOSA, TAMAULIPAS; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y RESIDENCIA INDICADOS Y A LA CREACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de julio de dos mil dieciocho, con excepción de lo previsto en el transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, en coordinación con las áreas competentes, dotarán a la Oficina de Correspondencia Común que inicia funciones del personal, equipo y sistema de cómputo para la recepción y distribución de asuntos que corresponda.
+
+CUARTO. Se reforman los numerales SEGUNDO, fracción XIX, número 2; y TERCERO, fracción XIX, párrafo quinto, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. a XVIII. ...
+
+XIX. ...
+
+1. ...
+
+2. Seis tribunales unitarios: uno con sede en Ciudad Victoria, dos con residencia en Matamoros, dos con sede en Reynosa y uno con residencia en Nuevo Laredo.
+
+3. ...
+
+XX. a XXXII. ...
+
+TERCERO. ...
+
+I. a XVIII. ...
+
+XIX. ...
+
+...
+
+...
+
+...
+
+Para los tribunales unitarios con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de Distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
+
+...
+
+XX. a XXXII. ..."
+
+QUINTO. Se reforman el artículo 17, párrafo segundo; y el Transitorio SEGUNDO, fracción I del Acuerdo General 31/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en el Estado de Tamaulipas, con residencia en Reynosa y Ciudad Victoria, para quedar como sigue:
+
+"Artículo 17. ...
+
+I. a III. ...
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, con sede en Reynosa, se habilita a los Tribunales Unitarios del Decimonoveno Circuito, con residencia en Reynosa, Tamaulipas, en el orden de su denominación y en caso de que ello no sea posible, la sustitución recaerá en los Tribunales de Alzada del Centro de Justicia Penal más cercano, en los mismos términos; en el entendido que conocerán de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+
+...
+
+SEGUNDO. ...
+
+I. Tratándose del Centro con sede en Reynosa, a los Tribunales Unitarios del Décimo Noveno Circuito, con residencia en Reynosa, Tamaulipas, para conocer, en el orden numérico de su denominación, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables; y
+
+II. ...
+
+...
+
+..."
