@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-respeto-vecinal-para-el-estado-de-queretaro-90079"
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-09"
-last_updated: "2012-11-09"
+last_updated: "2018-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE RESPETO VECINAL PARA EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 9 de noviembre de 2012.
 
@@ -33,7 +33,9 @@ Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, 
 
 LA QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN XIX, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO .
+CONSIDERANDO
+
+[...]
 
 Que por lo anteriormente expuesto, la Quincuagésima Sexta Legislatura del Estado de Querétaro, expide, la siguiente:
 
@@ -319,9 +321,15 @@ IV. Expedir constancias únicamente sobre hechos plasmados en los Libros y Regis
 
 V. Dirigir administrativamente el área de Jueces del Juzgado Cívico que corresponda;
 
-VI. Enviar a quien el Ayuntamiento determine, un informe diario de las novedades suscitadas.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-VII. Las demás facultades y obligaciones que le confiere la presente Ley, el reglamento respectivo y disposiciones legales aplicables.
+VI. Enviar a quien el Ayuntamiento determine, un informe diario de las novedades suscitadas;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+VII. Integrar definitivamente los datos e información de las faltas administrativas en el registro de infractores, de conformidad con las disposiciones aplicables; y
+
+VIII. Las demás facultades y obligaciones que le confiere la presente Ley, el reglamento respectivo y disposiciones legales aplicables.
 
 ###### Artículo 37.
 
@@ -432,6 +440,54 @@ X. Boletas de ingreso;
 XI. Boletas de liquidación de adeudo; y
 
 XII. Registro con orden progresivo, de los asuntos que se sometan, en su caso, al Trabajador Social.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+###### Artículo 41 Bis.
+
+El registro de infractores definitivo contendrá la información de las personas que hubieran sido sancionadas por la comisión de faltas administrativas previstas en las disposiciones aplicables y la consulta a cargo de los Jueces Cívicos será obligatoria.
+
+El registro de infractores definitivo se integrará, por lo menos, con los datos siguientes:
+
+a) Nombre y fotografía del infractor;
+
+b) Domicilio del Infractor;
+
+c) Sexo
+
+d) Huellas dactilares;
+
+e) Los datos de identificación biométrica consistentes en descripción facial, reconocimiento de voz e iris;
+
+f) Descripción de media filiación, incluyendo señas particulares;
+
+g) Las detenciones del infractor;
+
+h) Los resultados de los exámenes médicos;
+
+i) Lugar o domicilio de la infracción; e
+
+j) Infracción y sanciones impuestas.
+
+La información que integra el registro de infractores definitivo podrá ser utilizada para la determinación de la sanción correspondiente a la falta administrativa.
+
+Los datos estadísticos e indicadores del registro de infractores definitivo serán utilizados para la instrumentación de programas de desarrollo social y prevención de adicciones, así como para establecer políticas públicas tendentes a preservar el orden y la tranquilidad pública.
+
+El registro de infractores preliminar y el definitivo no serán públicos y únicamente el personal autorizado podrá suministrar, adicionar y consultar la información, debiendo protegerse los datos personales, de conformidad con las disposiciones aplicables.
+
+Los datos para la integración del registro de infractores serán incorporados por el Juez Cívico y por el policía municipal que haya tenido conocimiento de la comisión de la infracción o falta administrativa.
+
+El registro de infractores definitivo será emitido y validado por el Juez Cívico, el cual podrá auxiliarse de los medios electrónicos necesarios, para garantizar la conservación, protección, integridad, seguridad y reproducción de la información.
+
+Los policías podrán utilizar equipos o herramientas electrónicas, sistemas y plataformas tecnológicas para integrar de manera preliminar el registro de infractores y comunicar la información al Juez Cívico.
+
+Los policías únicamente integrarán preliminarmente los datos al registro de infractores, cuando presencien la comisión de la infracción; sean informados de su comisión inmediatamente después de que hubiese sido realizada, o cuando encuentren en poder de una persona, el objeto o instrumento, huellas o indicios que hagan presumir fundadamente, su participación en la infracción.
+
+Los policías deberán comunicar inmediatamente al Juez Cívico, la información correspondiente al registro preliminar de infractores, con el objeto de que pueda determinar la infracción y sanción correspondiente, además de incorporar definitivamente los datos al registro de infractores.
+
+El registro de infractores definitivo podrá ser consultado por las autoridades encargadas de la procuración de justicia, para sustentar sus investigaciones.
+
+Los Jueces Cívicos proporcionarán periódicamente la información estadística del registro de infractores definitivo a las autoridades de seguridad pública municipal.
 
 ###### Artículo 42.
 
@@ -856,3 +912,15 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA LA LEY QUE CREA EL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE QUERÉTARO, LA LEY DE RESPETO VECINAL PARA EL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Para los efectos de lo establecido en el artículo 14 de la Ley que crea el Centro de Evaluación y Control de Confianza del Estado de Querétaro, el plazo para el actual Director del Centro se computará desde el momento de su nombramiento.
