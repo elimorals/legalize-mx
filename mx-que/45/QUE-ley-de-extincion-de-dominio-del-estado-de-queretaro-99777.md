@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-extincion-de-dominio-del-estado-de-queretaro-99777"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2014-11-29"
+last_updated: "2018-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019, DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -71,15 +73,21 @@ VII. Constitución Federal: La Constitución Política de los Estados Unidos Mex
 
 VIII. Juez: El órgano jurisdiccional competente;
 
-IX. Ministerio Público especializado: El Agente del Ministerio Público encargado de iniciar la acción de extinción de dominio y continuar el procedimiento en todas sus fases hasta su conclusión;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-X. Oficialía Mayor: La Oficialía Mayor del Poder Ejecutivo del Estado de Querétaro;
+IX. Ministerio Público especializado: el Fiscal adscrito a la Vice Fiscalía de Investigación y Persecución del delito designado por el titular de la Vice Fiscalía.
 
-XI. Procurador: El Procurador General de Justicia del Estado de Querétaro;
+X. (DEROGADA, P.O. 29 DE JUNIO DE 2018)
 
-XII. Procuraduría: La Procuraduría General de Justicia del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XIII. Secretaría: La Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro;
+XI. Fiscal General: Fiscal General del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
+
+XII. Fiscalía: Fiscalía General del Estado de Querétaro;
+
+XIII. (DEROGADA, P.O. 29 DE JUNIO DE 2018)
 
 XIV. Tercero: La persona que sin ser el demandado en el procedimiento de extinción de dominio, cuenta con legitimación para acudir al proceso, con el fin de deducir un derecho propio sobre los bienes materia de la acción; y
 
@@ -101,9 +109,11 @@ III. En cuanto a los delitos: el Código Penal y demás disposiciones que result
 
 IV. En lo relativo a la regulación de bienes u obligaciones: el Código Civil.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 4.
 
-Toda la información que se genere u obtenga en relación con esta Ley, se regirá en los términos de la Ley de Acceso a la Información Gubernamental del Estado de Querétaro.
+Toda la información que se genere u obtenga en relación con esta Ley, se regirá en los términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y demás disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -111,9 +121,11 @@ El Juez y el Ministerio Público especializado, así como su personal, deberán 
 
 Igual obligación tendrán las autoridades del Estado y de los municipios, así como los particulares que por cualquier causa legal tengan conocimiento de la información que se menciona en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 6.
 
-El Procurador entregará un informe anual por escrito a la Legislatura local, en el que pormenorice el ejercicio de las facultades que le otorga esta Ley y la rendición de cuentas sobre los bienes en los que han recaído, el cual deberá presentarse a más tardar al finalizar la primer quincena del mes de enero del ejercicio siguiente al que corresponda.
+El Fiscal General en su informe anual pormenorizará los resultados del ejercicio de las facultades que le otorga esta Ley.
 
 ### Capítulo II. De la acción de extinción de dominio
 
@@ -167,11 +179,15 @@ No se podrá ejercitar la acción de extinción de dominio, cuando la comisión 
 
 La extinción de dominio no procederá sobre bienes decomisados por la autoridad judicial, en sentencia ejecutoriada, ni de aquellos que hayan causado abandono a favor del Estado o los municipios, de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 14.
 
-El Ministerio Público especializado podrá desistirse de la acción de extinción de dominio en cualquier momento, antes de que se dicte la sentencia definitiva, previo acuerdo del Procurador. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
+El Ministerio Público especializado podrá desistirse de la acción de extinción de dominio en cualquier momento, antes de que se dicte la sentencia definitiva, previa autorización del Fiscal General. En los mismos términos podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
 
-Se considerará que existe una causal de desistimiento cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JUNIO DE 2018)</small>
+
+Se considera que existe una causal de desistimiento cuando:
 
 I. Se demuestre la procedencia lícita de los bienes; la actuación de buena fe de su propietario o poseedor, así como que estaba impedido para conocer de la utilización ilícita de los bienes; o
 
@@ -207,13 +223,17 @@ II. Cuando los bienes se hayan transformado o convertido en otros bienes, sobre 
 
 III. Cuando se hayan mezclado con bienes adquiridos lícitamente, éstos podrán ser objeto de la declaratoria de extinción de dominio hasta el valor estimado del bien producto del delito entremezclado, sin vulnerar el derecho de propiedad de terceros ajenos al procedimiento, excepto cuando estos últimos hayan tenido conocimiento del origen ilícito de dichos bienes y, a pesar de ello, no lo hubieren denunciado ante la autoridad o realizado acción alguna para impedirlo.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 17.
 
-Los bienes sobre los que se declare la extinción de dominio, mediante sentencia definitiva ejecutoriada, se adjudicarán a favor del Estado de Querétaro y se aplicarán en los términos de la presente Ley.
+Los bienes sobre los que se declare la extinción de dominio, mediante sentencia definitiva ejecutoriada, tendrán el destino previsto en las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
 
 ###### Artículo 18.
 
-El ejercicio de la acción de extinción de dominio no excluye que el Ministerio Público solicite el decomiso de los mismos bienes con motivo del ejercicio de la acción penal, en los casos que resulte procedente.
+El ejercicio de la acción de extinción de dominio no excluye que la Fiscalía solicite las acciones que resulten procedentes en términos de las disposiciones legales aplicables.
 
 ###### Artículo 19.
 
@@ -265,7 +285,9 @@ En caso de que los bienes se encuentren a disposición de alguna otra autoridad,
 
 La etapa de preparación de la acción, será de hasta ciento ochenta días hábiles, contados a partir de la identificación, detección o localización, de al menos alguno de los bienes a que se refiere el artículo 15.
 
-Este plazo se podrá ampliar por el tiempo que sea necesario, por acuerdo del Procurador, incluso cuando exista requerimiento de información o documentos a otras entidades federativas o estados extranjeros, sin que en ningún caso exceda el plazo de la prescripción del delito.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+Este plazo se podrá ampliar por el tiempo que sea necesario, por acuerdo del Fiscal General, incluso cuando exista requerimiento de información o documentos a otras entidades federativas o estados extranjeros, sin que en ningún caso exceda el plazo de la prescripción del delito.
 
 ### Capítulo II. De las medidas cautelares
 
@@ -287,13 +309,19 @@ II. El embargo precautorio de bienes, así como de las cantidades de dinero que 
 
 III. Las demás que prevea el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 27.
 
-Las medidas cautelares otorgadas por el Juez, se anotarán en el registro público que corresponda. La Oficialía Mayor o la Secretaría, según sea el caso, deberán ser notificadas del otorgamiento o levantamiento de toda medida cautelar.
+Las medidas cautelares otorgadas por el Juez, se anotarán en el registro público que corresponda. La Dirección de Administración de la Fiscalía deberá ser notificada del otorgamiento o levantamiento de toda medida cautelar.
 
-Los bienes muebles materia de las medidas cautelares que se otorguen, quedarán en depósito de la Secretaría y de la Oficialía Mayor, tratándose de bienes inmuebles. En ambos casos, el Juez podrá determinar que dichos bienes queden a disposición de las autoridades competentes.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
 
-Los bienes inmuebles serán administrados por la Oficialía Mayor, de conformidad con lo previsto en esta Ley y en las demás disposiciones aplicables, debiendo mantener informado al Juez sobre dicho encargo.
+Los bienes materia de las medidas cautelares que se otorguen, quedarán en depósito de la Fiscalía. El Juez podrá determinar que dichos bienes queden a disposición de las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+Los bienes inmuebles serán administrados por la Fiscalía, de conformidad con lo previsto en esta Ley y en las demás disposiciones aplicables, debiendo mantener informado al Juez sobre dicho encargo.
 
 Durante la vigencia de las medidas cautelares, los bienes y derechos materia de las mismas, tampoco podrán ser enajenados o transmitidos mediante herencia o legado.
 
@@ -301,23 +329,31 @@ Durante la vigencia de las medidas cautelares, los bienes y derechos materia de 
 
 Las medidas cautelares son obligatorias para los propietarios, poseedores, quienes se ostenten como dueños, depositarios, interventores, administradores, albaceas o cualquier otra persona que tenga algún derecho sobre los bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 29.
 
-La Oficialía Mayor o la Secretaría, constituirán, preferentemente, fideicomisos de administración sobre los bienes sujetos a las medidas cautelares.
+La Fiscalía constituirá preferentemente fideicomisos de administración sobre los bienes sujetos a las medidas cautelares.
 
-En su defecto, procederán a arrendarlos o a celebrar los actos jurídicos tendientes a mantener la productividad y el valor de los mismos, debiendo informar al Juez sobre su administración.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+En su defecto procederá a arrendarlos o a celebrar los actos jurídicos tendientes a mantener la productividad y el valor de los mismos, debiendo informar al Juez sobre su administración.
 
 En todos los casos, a la fiduciaria se le pagará el valor de sus honorarios y de los costos de administración que realice, con cargo individualizado a los bienes administrados o a sus productos.
 
 Cualquier faltante que se presente para cubrirlos, será exigible con la misma preferencia con la que se tratan los gastos de administración en un concurso de acreedores, sobre el valor de los bienes, una vez que se liquiden.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 30.
 
-Mientras los recursos en numerario o títulos financieros de valores se encuentren sujetos a las medidas cautelares, la Secretaría estará obligada a abrir una cuenta individualizada en una institución financiera que genere rendimientos a tasa comercial.
+Mientras los recursos en numerario o títulos financieros de valores se encuentren sujetos a las medidas cautelares, la Fiscalía estará obligada a abrir una cuenta individualizada en una institución financiera que genere rendimientos a tasa comercial.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
 
 ###### Artículo 31.
 
-Previa autorización del Juez, los bienes fungibles, de género, muebles susceptibles de deterioro o pérdida y los demás que determine la Secretaría, podrán ser enajenados en términos del artículo 569 del Código de Procedimientos Civiles. Dicha dependencia informará al Juez sobre la administración de las cantidades que se resulten de su enajenación, en términos del artículo anterior.
+Previa autorización del Juez, los bienes fungibles, de género, muebles susceptibles de deterioro o pérdida y los demás que determine la Fiscalía, podrán ser enajenados en términos del artículo 569 del Código de Procedimientos Civiles. Dicho organismo informará al Juez sobre la administración de las cantidades que se (sic) resulten de su enajenación, en términos del artículo anterior.
 
 ###### Artículo 32.
 
@@ -351,13 +387,17 @@ En caso de que las medidas a que se refiere el párrafo anterior sean levantadas
 
 ### Capítulo III. De la sustanciación del procedimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 37.
 
-La acción de extinción de dominio se ejercerá mediante demanda que formulará el Ministerio Público especializado, previo acuerdo del Procurador o del Subprocurador que corresponda.
+La acción de extinción de dominio se ejercerá mediante demanda que formulará el Ministerio Público especializado, previo acuerdo del Fiscal General o del Vice Fiscal que corresponda.
 
 La acción deberá ejercerse dentro de las veinticuatro horas siguientes a la emisión del acuerdo descrito en el párrafo anterior.
 
-En los casos en que dicho Ministerio Público especializado determine la improcedencia de la acción, deberá someter su resolución a la aprobación del Procurador o Subprocurador, según corresponda, quien la analizará y decidirá en definitiva si debe ejercitarse la acción o no.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+En los casos en que dicho Ministerio Público especializado determine la improcedencia de la acción, deberá someter su resolución a la aprobación del Fiscal General o del Vice Fiscal, según corresponda, quien la analizará y decidirá en definitiva si debe ejercitarse la acción o no.
 
 ###### Artículo 38.
 
@@ -431,9 +471,11 @@ Desde el escrito de contestación de demanda o del primer acto por el que se ape
 
 De no haber señalamiento, todas las notificaciones, incluso las de carácter personal, surtirán efectos por lista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 43.
 
-Admitida la demanda, el Juez mandará publicar un extracto del auto respectivo en tres ocasiones, de tres en tres días, debiendo mediar entre cada publicación dos días hábiles, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en un diario de circulación nacional, cuyo gasto correrá a cargo de la Procuraduría, para que comparezca cualquier persona que se considere afectada por el procedimiento de extinción de dominio, que no haya sido señalada como parte del juicio en términos de la fracción VII artículo 38, con el objeto de que acuda a manifestar lo que a su derecho convenga.
+Admitida la demanda, el Juez mandará publicar un extracto del auto respectivo en tres ocasiones, de tres en tres días, debiendo mediar entre cada publicación dos días hábiles, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", así como en un diario de circulación nacional, cuyo gasto correrá a cargo de la Fiscalía, para que comparezca cualquier persona que se considere afectada por el procedimiento de extinción de dominio, que no haya sido señalada como parte del juicio en términos de la fracción VII artículo 38, con el objeto de que acuda a manifestar lo que a su derecho convenga.
 
 Toda persona afectada que considere tener interés jurídico sobre los bienes materia de la acción de extinción de dominio, deberá comparecer dentro de los diez días hábiles siguientes contados a partir de aquél en que haya tenido conocimiento de la acción, a fin de acreditar su interés jurídico y expresar lo que a su derecho convenga.
 
@@ -473,7 +515,9 @@ En la denuncia podrá formularse la descripción de los bienes que el denunciant
 
 El particular que denuncie o aporte medios de prueba que conduzcan a que se declare judicialmente la extinción de dominio, podrá recibir como retribución un porcentaje del cinco por ciento del valor comercial de los bienes respectivos, después de la determinación relativa a los derechos preferentes, conforme a lo dispuesto en el artículo 68.
 
-El valor comercial de los bienes se determinará mediante avalúo, que elaborará el área pericial adscrita (sic) la Procuraduría y que exhibirá el Ministerio Público especializado durante el procedimiento.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+El valor comercial de los bienes se determinará mediante avalúo, que elaborará el área pericial adscrita (sic) la Fiscalía y que exhibirá el Ministerio Público especializado durante el procedimiento.
 
 El denunciante tendrá derecho a que se guarde absoluta secrecía respecto de sus datos personales.
 
@@ -493,15 +537,19 @@ III. Las demás resoluciones, cuando el Juez así lo ordene expresamente.
 
 Las demás notificaciones se realizarán por lista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 50.
 
-Cuando hubiere que citar a juicio a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore dónde se encuentra, la notificación se realizará por edictos en los términos de lo dispuesto en el artículo 122 del Código de Procedimientos Civiles y por Internet. En este último caso, la Procuraduría deberá habilitar un sitio especial en su portal de Internet a fin de hacer accesible el conocimiento de la notificación a que se refiere este artículo.
+Cuando hubiere que citar a juicio a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore dónde se encuentra, la notificación se realizará por edictos en los términos de lo dispuesto en el artículo 122 del Código de Procedimientos Civiles y por Internet. En este último caso, la Fiscalía deberá habilitar un sitio especial en su portal de Internet a fin de hacer accesible el conocimiento de la notificación a que se refiere este artículo.
 
 No se ordenará el emplazamiento por edictos, si previamente no se comprueba que, mediante los informes que vía oficio judicial se soliciten y que rindan las autoridades federales, locales y municipales competentes, en su caso, en materia de seguridad pública y procuración de justicia, electoral, de servicios de salud y seguridad social, de agua potable, de servicio de electricidad, de licencias de manejo, de funcionamiento de negocios, de infracciones de tránsito, de registros de contribuyentes, catastrales y vehiculares, así como las empresas concesionarias o permisionarias de servicios de telefonía, gas y televisión por cable, en el sentido de que una vez agotada la búsqueda en sus archivos, no se cuenta con datos de localización de la persona respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 51.
 
-La Oficialía Mayor, la Secretaría y demás autoridades, serán notificadas mediante oficio.
+Las autoridades serán notificadas mediante oficio.
 
 ###### Artículo 52.
 
@@ -617,15 +665,21 @@ Tratándose de adeudos garantizados con prenda o hipoteca, su titular deberá de
 
 En caso de que la sentencia determine la improcedencia de la extinción de dominio, el Juez ordenará el levantamiento de las medidas cautelares y la devolución de los bienes no extintos y sus frutos a quien legalmente tenga derecho a ellos. Cuando no sea posible la devolución, se ordenará la entrega de su valor, junto con los intereses, rendimientos y accesorios en cantidad líquida que efectivamente se hayan producido durante el tiempo en que hayan sido administrados en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2018)</small>
+
 ###### Artículo 67.
 
-Una vez que la sentencia que resuelva la extinción de dominio se encuentre firme, el Juez ordenará su ejecución y el remate de los bienes objeto de la acción, en los términos del Código de Procedimientos Civiles. El producto de la enajenación de los mismos será destinado a un fideicomiso público, cuya operación será coordinada por la Procuraduría, con el objeto de que sean administrados hasta que se destinen al apoyo o asistencia a las víctimas u ofendidos de los delitos a que se refiere el artículo 11.
+Una vez que la sentencia que resuelva la extinción de dominio se encuentre firme, el Juez ordenará su ejecución y el remate de los bienes objeto de la acción, en los términos del Código de Procedimientos Civiles. El producto de la enajenación se destinará a la reparación del daño a la víctima y una vez satisfecha dicha reparación, el remanente será entregado en partes iguales al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Querétaro y a la Fiscalía, con excepción de los que se vinculen con los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a la (sic) Víctimas de estos Delitos, los cuales tendrán el destino establecido en las disposiciones aplicables.
 
 Cuando la sentencia ordene el pago de los conceptos previstos en el artículo 68, el Juez fijará su importe en cantidad líquida y ordenará el remate de los bienes para su cumplimiento.
 
-El Juez adjudicará los bienes en favor del Poder Ejecutivo del Estado de Querétaro, cuando éste opte por cubrir la indemnización a víctimas, ofendidos y terceros que señale la sentencia.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
 
-Cuando la traslación de los bienes a favor del Estado, deba inscribirse en el Registro Público de la Propiedad y del Comercio, la suma de las documentales públicas mencionadas a continuación, tendrá el carácter de escritura pública e integrarán el testimonio de escritura para los efectos de inscripción en dicho Registro:
+El Juez adjudicará los bienes a favor de la Fiscalía, cuando ésta opte por cubrir la indemnización a víctimas, ofendidos y terceros que señale la sentencia, salvo disposición expresa que se establezca en los ordenamientos legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JUNIO DE 2018)</small>
+
+Cuando la traslación de los bienes a favor de la Fiscalía deba inscribirse en el Registro Público de la Propiedad y del Comercio, la suma de las documentales públicas mencionadas a continuación, tendrá el carácter de escritura pública e integrarán el testimonio de escritura para los efectos de inscripción en dicho Registro:
 
 1. Sentencia definitiva.
 
@@ -637,7 +691,9 @@ Cuando la traslación de los bienes a favor del Estado, deba inscribirse en el R
 
 La disposición prevista en el párrafo cuarto de este precepto, no será aplicable cuando la traslación de los bienes a inscribirse en el citado Registro deba efectuarse a favor de un particular, quien deberá necesariamente obtener la escritura correspondiente ante fedatario público.
 
-En este último supuesto, los bienes serán puestos a disposición de la Oficialía Mayor para que determine el destino o uso que se otorgará a los mismos.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2018)</small>
+
+En este último supuesto, los bienes serán puestos a disposición de la Fiscalía para que determine el destino o uso que se otorgará a los mismos.
 
 ###### Artículo 68.
 
@@ -806,3 +862,13 @@ P.O. 29 DE NOVIEMBRE DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que las previstas en la presente Ley, que se opongan a la misma.
+
+P.O. 29 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
