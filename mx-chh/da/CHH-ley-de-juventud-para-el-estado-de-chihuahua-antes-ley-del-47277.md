@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-antes-ley-del-47277
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2016-11-16"
+last_updated: "2018-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA -ANTES LEY DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD-
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 10 de diciembre de 2005.
 
@@ -46,8 +48,6 @@ DECRETA
 Se crea la Ley del Instituto Chihuahuense de la Juventud para el Estado de Chihuahua, para quedar redactada de la siguiente manera:
 
 > <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NÚMERO 744/09 I P.O. POR LA SEXAGÉSIMA SEGUNDA LEGISLATURA, MODIFICA DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DE LA PRESENTE LEY DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA MODIFICACIÓN, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2010.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE LEY, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -91,17 +91,15 @@ IV. Los medios de participación de las personas jóvenes en el diseño, instrum
 
 Para los efectos de esta Ley, se considera persona joven aquella cuya edad esté comprendida entre los 12 y 29 años cumplidos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 4.
 
 Las personas jóvenes gozan de todos los derechos garantizados en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, instrumentos internacionales sobre derechos humanos y en la legislación especial relativa al tema.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
 
-Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos fundamentales de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, incluyendo a todas las personas jóvenes sin distinción de prácticas discriminatorias por razón de género, sexo, edad, discapacidad o cualquier otra.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -117,15 +115,15 @@ Las disposiciones del presente ordenamiento son complementarias a las establecid
 
 ### CAPÍTULO II. DE LA POLÍTICA PÚBLICA ESTATAL EN MATERIA DE JUVENTUD
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 6.
 
 La planeación, programación y presupuestación de las políticas públicas en materia de juventud, además de atender a lo dispuesto en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua, deberá tomar en cuenta:
 
-I. Sus particularidades y heterogeneidad;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2018)</small>
+
+I. Sus particularidades y heterogeneidad, prestando especial atención a las personas jóvenes con alguna discapacidad, limitación física o intelectual, entre otros grupos etarios;
 
 II. Su participación efectiva y protagónica;
 
@@ -211,8 +209,6 @@ Los objetivos de la política municipal deberán ser congruentes con los que cor
 
 Se crea el Instituto Chihuahuense de la Juventud, como Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Desarrollo Social, con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Chihuahua, Chihuahua; tendrá como objeto asesorar y auxiliar al Poder Ejecutivo del Estado en la formulación e instrumentación de la política pública en materia de juventud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 12.
@@ -233,6 +229,10 @@ VI. Celebrar convenios de colaboración con organizaciones nacionales e internac
 
 VII. Realizar, promover y difundir estudios, diagnósticos e investigaciones sobre la problemática que como grupo social enfrentan las personas jóvenes;
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2018)</small>
+
+En coordinación con la Dirección de Grupos Vulnerables y Prevención a la Discriminación, haciendo énfasis en las acciones que garantizan la atención a la problemática de las personas jóvenes, cuya condición de discapacidad requiere de su inclusión en los beneficios de las políticas públicas que deben promover su inclusión y su desarrollo integral.
+
 VIII. Atender y, en su caso, canalizar ante las autoridades competentes los asuntos que se le planteen sobre la violación a los derechos de las personas jóvenes;
 
 IX. Coadyuvar con las dependencias y entidades de la administración pública estatal y municipal en la identificación de los requerimientos básicos de desarrollo integral de las personas jóvenes y darle seguimiento a su atención;
@@ -241,7 +241,9 @@ X. Operar, en coordinación con las autoridades competentes, programas de autoem
 
 XI. Otorgar reconocimientos a las personas jóvenes por sus actividades sobresalientes y a quienes se destaquen en el desarrollo de acciones a favor de la juventud en el Estado;
 
-XII. Elaborar, en coordinación con las autoridades correspondientes, programas de capacitación e información sobre adicciones, nutrición, educación sexual, salud reproductiva, medio ambiente, género, equidad, derechos humanos, vivienda, liderazgo social, cultura de la legalidad, participación social, desarrollo comunitario, solución pacífica de conflictos y, en general, todos aquellos que estén orientados al desarrollo de las personas jóvenes;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2018)</small>
+
+XII. Elaborar, en coordinación con las autoridades correspondientes, programa de capacitación e información sobre adicciones, nutrición, educación sexual, salud reproductiva, medio ambiente, género, equidad, derechos humanos, discapacidad, vivienda, liderazgo social, cultura de la legalidad, participación social, desarrollo comunitario, solución pacífica de conflictos y, en general, todos aquellos que estén orientados al desarrollo de las personas jóvenes;
 
 XIII. Impulsar la integración de órganos municipales de atención a la juventud, así como apoyarlos mediante la asesoría y capacitación que requieran para ello;
 
@@ -924,3 +926,9 @@ P.O. 16 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO LXV/RFLEY/0757/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
