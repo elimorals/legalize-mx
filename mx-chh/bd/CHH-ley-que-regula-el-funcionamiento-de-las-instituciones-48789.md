@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-el-funcionamiento-de-las-instituciones-48789"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-04"
-last_updated: "2017-02-22"
+last_updated: "2018-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS PARA EL CUIDADO INFANTIL Y DE MENORES EN EL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NO. LXV/EXLEY/0743/2018 II P.O., PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS PARA EL CUIDADO INFANTIL Y DE MENORES EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018 (ABROGADA).
 
 Ley publicada en el periódico oficial del Estado de Chihuahua, el sábado 4 de febrero de 2006.
 
@@ -347,7 +349,7 @@ Las instituciones deberán contar con programas permanentes de capacitación par
 
 Los cursos y programas de capacitación y actualización que organice e implemente la Secretaría, tendrán por objeto:
 
-l.- Garantizar y certificar la calidad de los servicios que se presten en las instituciones.
+I.- Garantizar y certificar la calidad de los servicios que se presten en las instituciones.
 
 II.- Establecer un sistema permanente de capacitación y actualización que certifique la aptitud para prestar servicios específicos dentro de los establecimientos, de quienes en ellos participen.
 
@@ -610,3 +612,27 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 30 DE JUNIO DE 2018.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL“DECRETO NO. LXV/EXLEY/0743/2018 P.O. LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que Regula el Funcionamiento de las Instituciones Prestadoras de Servicios para el Cuidado Infantil y de Menores en el Estado de Chihuahua, aprobada mediante Decreto No. 364/05 I P.O., publicado en el Periódico Oficial del Estado No. 10, del 4 de febrero de 2006.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/EXLEY/0743/2018 P.O. LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 180 días siguientes a la entrada en vigor de la misma.
+
+TERCERO.- Los prestadores de servicios que se encuentren operando con anterioridad a la entrada en vigor a esta Ley, contarán con un plazo de 365 días a partir de la entrada en vigor del presente Decreto para adecuar su funcionamiento y normatividad interna con base en lo dispuesto en la presente Ley.
+
+CUARTO.- El Consejo Estatal de Prestación de Servicios en Materia de Cuidados Infantiles y los Consejos Municipales correlativos, deberán quedar instalados y en funcionamiento dentro de los sesenta días posteriores a la entrada en vigor de la Ley.
+
+QUINTO.- El Comité Estatal y los Comités Municipales a que se refieren los artículos 4, en sus fracciones II y III, así como 60, deberán integrarse y estar en funcionamiento dentro de los treinta días posteriores a que se haya dado cumplimiento a lo previsto en el Artículo Cuarto Transitorio del presente Decreto.
+
+SEXTO.- El Programa Estatal de Supervisión contemplado en la presente Ley, deberá estar diseñado y en operación a más tardar dentro de los ciento ochenta días posteriores a que el presente Decreto entre en vigor.
+
+SÉPTIMO.- La Secretaría de Desarrollo Social y el DIF Estatal, deberán iniciar inmediatamente con las actividades tendientes a la integración del Registro Estatal previsto en esta Ley.
