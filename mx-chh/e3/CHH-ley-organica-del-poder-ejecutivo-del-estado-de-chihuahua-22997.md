@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2018-06-23"
+last_updated: "2018-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE JUNIO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -711,7 +709,9 @@ VI.- Vigilar, en el ámbito de sus atribuciones, la aplicación de las normas of
 
 VII.- Impulsar las actividades científicas y tecnológicas en el campo de la salud, en colaboración con instituciones y organismos públicos y privados;
 
-VIII.- Autorizar, supervisar y evaluar la prestación de los servicios de cuidado infantil y de menores en la Entidad;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2018)</small>
+
+VIII.- Autorizar y supervisar, en el ámbito de sus atribuciones, los aspectos de salubridad y sanitarios, en la prestación de los servicios de atención, cuidado y desarrollo integral infantil en la Entidad.
 
 IX.- Promover e impulsar la participación de la comunidad en la realización de programas orientados al cuidado de la salud;
 
@@ -2896,3 +2896,21 @@ P.O. 13 DE JUNIO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Especialistas encargado de la selección de la terna de aspirantes a ocupar la titularidad de la Fiscalía Especializada en Combate a la Corrupción, dentro de los veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 30 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/EXLEY/0743/2018 P.O. LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 180 días siguientes a la entrada en vigor de la misma.
+
+TERCERO.- Los prestadores de servicios que se encuentren operando con anterioridad a la entrada en vigor a esta Ley, contarán con un plazo de 365 días a partir de la entrada en vigor del presente Decreto para adecuar su funcionamiento y normatividad interna con base en lo dispuesto en la presente Ley.
+
+CUARTO.- El Consejo Estatal de Prestación de Servicios en Materia de Cuidados Infantiles y los Consejos Municipales correlativos, deberán quedar instalados y en funcionamiento dentro de los sesenta días posteriores a la entrada en vigor de la Ley.
+
+QUINTO.- El Comité Estatal y los Comités Municipales a que se refieren los artículos 4, en sus fracciones II y III, así como 60, deberán integrarse y estar en funcionamiento dentro de los treinta días posteriores a que se haya dado cumplimiento a lo previsto en el Artículo Cuarto Transitorio del presente Decreto.
+
+SEXTO.- El Programa Estatal de Supervisión contemplado en la presente Ley, deberá estar diseñado y en operación a más tardar dentro de los ciento ochenta días posteriores a que el presente Decreto entre en vigor.
+
+SÉPTIMO.- La Secretaría de Desarrollo Social y el DIF Estatal, deberán iniciar inmediatamente con las actividades tendientes a la integración del Registro Estatal previsto en esta Ley.
