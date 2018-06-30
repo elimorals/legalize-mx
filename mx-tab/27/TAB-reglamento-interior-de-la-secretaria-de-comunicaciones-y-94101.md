@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-comunicaciones-y-94101"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2013-03-30"
+last_updated: "2018-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento 7363 del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
 LIC. ARTURO NÚÑEZ JIMÉNEZ, GOBERNADOR DEL ESTADO DE TABASCO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIEREN LOS ARTÍCULOS 51, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO; 7 FRACCIÓN II Y 8 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, fundado y motivado, tengo a bien emitir el siguiente:
 
@@ -477,7 +481,7 @@ XI. Las demás que le encomiende el Secretario y las que determinen las disposic
 
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL TÉCNICA Y OPERATIVA
 
-#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES DIRECCIÓN (SIC) GENERAL TÉCNICA Y OPERATIVA
+#### SECCIÓN PRIMERA. DE LAS ATRIBUCIONES (SIC) DIRECCIÓN GENERAL TÉCNICA Y OPERATIVA
 
 ###### Artículo 14.
 
@@ -1020,3 +1024,21 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 LIC. JOSÉ ANTONIO PABLO DE LA VEGA ASMITIA.
 
 SECRETARIO DE COMUNICACIONES Y TRANSPORTES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Comunicaciones y Transportes publicado en el Suplemento “C” al Periódico Oficial número 7363, de fecha 30 de marzo de 2013.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Los asuntos pendientes, al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquellas unidades a las que se les haya atribuido la competencia en este Reglamento.
+
+QUINTO. Cuando en otras disposiciones legales se dé una denominación distinta a alguna unidad administrativa cuyas funciones estén establecidas por el presente Reglamento, dichas atribuciones se entenderán concedidas para su ejercicio a la unidad administrativa que determine este ordenamiento.
+
+SEXTO. En tanto se realizan las adecuaciones a los manuales de organización y procedimientos, el Secretario quedará facultado para resolver sobre las cuestiones de aplicación del presente Reglamento.
