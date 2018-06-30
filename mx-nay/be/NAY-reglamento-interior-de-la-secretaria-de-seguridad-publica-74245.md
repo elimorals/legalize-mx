@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-seguridad-publica-74245
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-15"
-last_updated: "2016-11-30"
+last_updated: "2018-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE NAYARIT
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2018, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el viernes 15 de enero de 2010.
 
@@ -401,7 +403,7 @@ V.- Proponer al Secretario los convenios que deba celebrar el Gobierno del Estad
 
 VI.- Planificar y supervisar el trabajo de las instituciones penitenciarías desde el punto de vista a que se refiere la Constitución Política de los Estados Unidos Mexicanos, Ley Nacional de Ejecución Penal y la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, el Código Penal para el Estado, el Código de Procedimientos Penales para el Estado, los Principios de la Comisión Nacional de Derechos Humanos y las recomendaciones de la Organización de las Naciones Unidas;
 
-VII .- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2016)
+VII.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2016)
 
 VIII.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2016)
 
@@ -924,3 +926,19 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su Publi
 SEGUNDO.- En un periodo no mayor de noventa días contados a partir de la entrada en vigor de este Decreto, se emitirán los Manuales de Operación de las diferentes aéreas (sic) componen las Unidades Administrativas de la Secretaria.
 
 TERCERO.- Derivado de las reformas a este decreto, se deberán emitir los nombramientos a los Titulares de las Aéreas (sic) que así corresponda, para estar acorde con la Legislación Federal.
+
+P.O. 30 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. A la entrada en vigor del presente instrumento se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado el 15 de enero de 2010 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Tercero. Queda sin efecto cualquier disposición administrativa que se oponga al presente Instrumento.
+
+Cuarto. La Secretaría de Seguridad Pública gestionará ante la Secretaría de Administración y Finanzas del Gobierno del Estado la modificación a las partidas presupuestales necesarias para la implementación del presente decreto, mismo que deberá quedar acorde a más tardar en el ejercicio fiscal 2020.
+
+Quinto. La Secretaría de Administración y Finanzas realizará las modificaciones necesarias a efecto de cambiar los nombres o denominaciones a las dependencias gubernamentales en las nóminas, presupuesto de egresos y demás trámites administrativos que resulten necesarios.
+
+Sexto. Dentro del plazo que no exceda de 180 días naturales contados a partir de la entrada en vigor del presente Reglamento, deberá de expedirse el nuevo Manual General de Organización de la Secretaría que estará acorde a las nuevas disposiciones legales.
