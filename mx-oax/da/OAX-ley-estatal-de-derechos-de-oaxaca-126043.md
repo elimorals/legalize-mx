@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2018-02-28"
+last_updated: "2018-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE DERECHOS DE OAXACA
 
-[NOTA 1: CONSÚLTESE LAS TARIFAS EN EL DECRETO NÚMERO 779 POR EL QUE SE EXPIDE LA LEY ESTATAL DE DERECHOS DE OAXACA, PUBLICADO EN EL EXTRA DEL P.O. DE 20 DE DICIEMBRE DE 2017.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -119,29 +117,39 @@ Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más der
 
 Para facilitar el cumplimiento de las obligaciones de los contribuyentes, los derechos establecidos en esta Ley que se paguen en oficinas autorizadas en el extranjero o por residentes en el extranjero, se efectuarán en moneda extranjera.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2018)</small>
+
+###### Artículo 7 Bis.
+
+Las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de la zona económica especial que soliciten los servicios públicos contenidos en los artículos 35 fracciones I y II; 42 fracción I; 44 fracciones I, II, III, VIII, IX, X, XI, XVIII, XIX, XXI y XXII; 45 fracciones V y VI de la Ley Estatal de Derechos de Oaxaca, tendrán un incentivo en el pago de los derechos que se causen del 100 por ciento durante los primeros diez años y en un 50 por ciento durante los siguientes cinco años.
+
 ## TÍTULO SEGUNDO. DE LOS DERECHOS POR EL USO, GOCE O APROVECHAMIENTO DE BIENES DE DOMINIO PÚBLICO DEL ESTADO
 
 ### CAPÍTULO I. SECRETARÍA DE LAS CULTURAS Y ARTES DE OAXACA
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+
 ###### Artículo 8.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de los Museos del Estado, de conformidad con las siguientes cuotas:
+Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 14.]</small>
+> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 2.]</small>
 
-El servicio de guía para grupos de estudiantes provenientes de instituciones públicas nacionales será gratuita, previa solicitud en la que se señale el día y horario de la visita.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
 
 ###### Artículo 9.
 
 Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de los Teatros del Estado, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 14.]</small>
+> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 2 A LA 3.]</small>
 
 ###### Artículo 10.
 
 Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento de la Casa de la Cultura Oaxaqueña y el Centro de las Artes de San Agustín, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
 
 ### CAPÍTULO II. SECRETARÍA DE ADMINISTRACIÓN
 
@@ -163,6 +171,8 @@ Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamie
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
+
 El Servicio de guía para grupos de estudiantes provenientes de instituciones públicas nacionales será gratuita, previa solicitud en la que se señale el día y horario de la visita.
 
 ###### Artículo 14.
@@ -171,17 +181,21 @@ Se pagarán y causarán derechos de 0.27 UMA por el acceso al Planetario Nundehu
 
 ### CAPÍTULO III. SECRETARÍA DE TURISMO
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+
 ###### Artículo 15.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento del Auditorio Guelaguetza, de conformidad con las siguientes cuotas:
+Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
+> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
 
 ###### Artículo 16.
 
-Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento del estacionamiento del Auditorio Guelaguetza, de conformidad con las siguientes cuotas:
+Se pagarán y causarán derechos por el otorgamiento de uso, goce o aprovechamiento del Centro Cultural y de Convenciones de Oaxaca, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
+> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 3.]</small>
 
 ### CAPÍTULO I. SERVICIOS PÚBLICOS COMUNES
 
@@ -213,7 +227,15 @@ V Expedición copia simple de bases de licitación para obra pública: 0.01
 
 Cuando se requiera los servicios de mensajería, los gastos correrán a cargo del solicitante.
 
-VI Servicios de supervisión de obra, 2.5 por ciento del total de la contratación, sin incluir el Impuesto al Valor Agregado.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2018)</small>
+
+VI Las personas físicas, morales o unidades económicas que celebren contratos de obra pública o servicios relacionados con la misma, con dependencias y entidades de la administración pública, y aquellas que se celebren con los Municipios donde la fuente de financiamiento provenga de lo autorizado en el programa de inversión, pagarán y causarán por el importe total de la contratación sin incluir el importe del impuesto al valor agregado el dos punto cinco por ciento, por los servicios de supervisión.
+
+El procedimiento y términos de retención del derecho antes citado, se establecerá en Reglas por la Secretaría de Finanzas.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2018)</small>
+
+VII Emisión de actas de extravío de documentos y objetos por la Fiscalía General del Estado de Oaxaca 1.25
 
 ### CAPÍTULO III. SECRETARÍA DE SEGURIDAD PÚBLICA
 
@@ -223,7 +245,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 15 A LA 16.]</small>
 
-Por la reposición de credencial para el (sic) acreditación de autoridades municipales se causará y pagará derechos de 1.43 UMA.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 3 A LA 4.]</small>
 
 ### CAPÍTULO IV. SECRETARÍA DE SALUD
 
@@ -232,6 +254,8 @@ Por la reposición de credencial para el (sic) acreditación de autoridades muni
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de seguridad pública, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 4.]</small>
 
 ###### Artículo 20.
 
@@ -291,11 +315,15 @@ Los servicios públicos que se realicen en los Organismos Operadores de Agua en 
 
 ### CAPÍTULO VII. SECRETARÍA DE LAS CULTURAS Y ARTES DE OAXACA
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+
 ###### Artículo 28.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de transporte público, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 19.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 4 A LA 5.]</small>
 
 ###### Artículo 29.
 
@@ -303,19 +331,35 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 20.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 5.]</small>
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2018)</small>
+
+Los derechos de control vehicular se pagarán conforme los siguientes períodos:
+
+a) Dentro de los treinta días hábiles siguientes a la fecha de adquisición del vehículo nuevo para la expedición de placas y calcomanía;
+
+b) Los tres primeros meses del año, por el uso, goce o aprovechamiento de placas y calcomanía de vehículos;
+
+c) Los tres primeros meses del año, cuando el Estado realice canje total de placas y calcomanía, y;
+
+d) Dentro de los quince días hábiles siguientes a la fecha de haberse efectuado la operación de compra-venta del que derive el trámite de baja.
+
 ###### Artículo 30.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de expedición de licencias, tarjetones, permisos y constancias, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 20.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 5.]</small>
+
 ### CAPÍTULO VIII. SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO
 
 ###### Artículo 31.
 
-Se causarán y pagarán derechos por los servicios públicos que se presten en Taller de Artes Plásticas, Centro de Iniciación Musical de Oaxaca y Casa de la Cultura Oaxaqueña, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que se presten de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 20.]</small>
+> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 5 A LA 6.]</small>
 
 ### CAPÍTULO IX. SECRETARÍA DE DESARROLLO AGROPECUARIO, PESCA Y ACUACULTURA
 
@@ -333,6 +377,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 21.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 6.]</small>
+
 ### CAPÍTULO XI. SECRETARÍA DE ADMINISTRACIÓN
 
 ###### Artículo 34.
@@ -347,6 +393,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 21 A LA 22.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS 6.]</small>
+
 ### CAPÍTULO XII. SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 ###### Artículo 36.
@@ -355,7 +403,7 @@ Se causarán y pagarán derechos por los servicios públicos que se (sic) realic
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 22.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 28 DE FEBRERO DE 2018, PÁGINAS DE LA 2 A LA 3.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 28 DE FEBRERO DE 2018, PÁGINAS DE LA 2 A LA 3; 30 DE JUNIO DE 2018, PÁGINA 7.]</small>
 
 ###### Artículo 37.
 
@@ -391,6 +439,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 23.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 7.]</small>
+
 Se pagarán y causarán derechos de 0.66 UMA por el acceso a la Feria Internacional del Mezcal.
 
 ### CAPÍTULO XV. SECRETARÍA DE MEDIO AMBIENTE, ENERGÍAS Y DESARROLLO SUSTENTABLE
@@ -409,6 +459,8 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 23 A LA 24.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 7 A LA 8.]</small>
+
 ### CAPÍTULO I. BÁSICA
 
 ###### Artículo 43.
@@ -417,11 +469,19 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8.]</small>
+
 ###### Artículo 44.
 
 Se causarán y pagarán derechos por los servicios públicos que se realicen en materia de registro de la propiedad, de conformidad con las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 24.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 8.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2018)</small>
+
+El registro de actos o contratos, se cobrarán por cada uno, con independencia de que aparezcan en un mismo documento.
 
 ###### Artículo 45.
 
@@ -449,6 +509,8 @@ Se causarán y pagarán derechos por los servicios públicos de:
 
 ### CAPÍTULO II. MEDIA Y SUPERIOR
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+
 ### CAPÍTULO VI (SIC). SISTEMA DE ESTUDIOS TECNOLÓGICOS
 
 ## TÍTULO CUARTO. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS EDUCATIVOS
@@ -461,11 +523,13 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen en 
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 25 A LA 26.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 9 A LA 11.]</small>
+
 ###### Artículo 49.
 
-Se causarán y pagarán derechos por los servicios públicos que realice la Coordinación General de Educación Media Superior y Superior, de conformidad con las siguientes cuotas:
+Se causarán y pagarán derechos por los servicios públicos que realice la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 26.]</small>
+> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINAS DE LA 11 A LA 13.]</small>
 
 ###### Artículo 50.
 
@@ -479,25 +543,39 @@ Se causarán y pagarán derechos por los servicios públicos que realice el Cole
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 26.]</small>
 
-Tratándose de las inscripciones y reinscripciones de los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se sujetarán a los siguientes descuentos
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 13.]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2018)</small>
+
+Tratándose de las inscripciones y reinscripciones de los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se sujetarán a los siguientes descuentos:
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 26 A LA 27.]</small>
 
-El Colegio de Bachilleres del Estado de Oaxaca podrá realizar convenios de colaboración para impartir el bachillerato en la modalidad de sistema abierto con un descuento del 50% en inscripción y reinscripción, de acuerdo con los Lineamientos que para tal efecto emita.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 13. ]</small>
 
-Tratándose de estudiantes que acrediten una situación de vulnerabilidad económica, se les otorgará un 50% de descuento en cuotas de inscripción y reinscripción de acuerdo con los lineamientos que para tal efecto emita el Colegio de Bachilleres del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+
+El Colegio de Bachilleres del Estado de Oaxaca podrá realizar convenios de colaboración para impartir el bachillerato en la modalidad de sistema abierto con un descuento del 50 por ciento en inscripción y reinscripción, de acuerdo con los Lineamientos que para tal efecto se emita.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+
+Tratándose de estudiantes que acrediten una situación de vulnerabilidad económica, se les otorgará un 50 por ciento de descuento en cuotas de inscripción y reinscripción de acuerdo con los lineamientos que para tal efecto emita el Colegio de Bachilleres del Estado de Oaxaca.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2018)</small>
 
 Los beneficios antes señalados no podrán ser acumulables.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
 
 ###### Artículo 52.
 
 Se causarán y pagarán derechos por los servicios públicos que realice el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca, de conformidad con las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
+> <small>[N. DE E. VÉASE CUOTAS EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 14.]</small>
 
-Tratándose de la fracción III, los alumnos que demuestren al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se aplicarán los siguientes descuentos:
+Tratándose de la fracción III, IV y V, los alumnos que demuestren al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8 y 10, se aplicaran los siguientes descuentos:
 
-> <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE JUNIO DE 2018, PÁGINA 14.]</small>
 
 ###### Artículo 53.
 
@@ -527,6 +605,22 @@ Se causarán y pagarán derechos por los servicios públicos que se realice (sic
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 27.]</small>
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2018)</small>
+
+A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
+
+PROMEDIO DESCUENTO
+
+a) 8.0 a 8.5 25 por ciento
+
+b) 8.6 a 9.0 50 por ciento
+
+c) 9.1 a 10 100 por ciento
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2018)</small>
+
+La Junta Directiva determinará el otorgamiento de becas que van desde el 25%, 50%, 75% y 100% por los conceptos de inscripción y reinscripción tratándose de estudiantes que acrediten una situación de vulnerabilidad económica.
+
 ###### Artículo 56.
 
 Se causarán y pagarán derechos por los servicios públicos que se realice (sic) la Universidad Tecnológica de los Valles Centrales de Oaxaca, de conformidad con las siguientes cuotas:
@@ -545,7 +639,9 @@ Se causarán y pagarán derechos por los servicios públicos que se realicen las
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
 
-A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2018)</small>
+
+El Consejo Académico de la Universidad aplicará descuentos del 25%, 50%, 75% y 100% sobre el importe total únicamente en los conceptos señalados en los incisos b), d), e), f), h), i), m) y n) de la fracción I y reinscripción; e incisos b) y d) de la fracción II y reinscripción, del presente artículo.
 
 TRANSITORIOS:
 
@@ -564,3 +660,9 @@ Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cump
 P.O. 28 DE FEBRERO DE 2018.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1501.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN, Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
