@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-de-la-auditoria-superior-del-estado-de-67394
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-28"
-last_updated: "2009-02-28"
+last_updated: "2018-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERNO DE LA AUDITORIA SUPERIOR DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA AUDITORÍA SUPERIOR DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA AUDITORIA SUPERIOR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 28 de febrero de 2009.
 
@@ -1120,3 +1122,19 @@ SEGUNDO.- Hasta en tanto no se realicen las adecuaciones presupuestales e infrae
 TERCERO.- Para el caso de los sujetos auditables que se acogieron a las disposiciones contenidas en la Ley de Fiscalización Superior y Auditoría Pública del Estado de Jalisco y sus Municipios, la revisión de sus cuentas se hará con las disposiciones de este Reglamento. Para aquellos sujetos auditables que no se acogieron a la Ley antes citada, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco y el Reglamento Interno de la Auditoría Superior del Estado de Jalisco, vigentes en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
 
 Guadalajara, Jalisco, México; a 26 de febrero de 2009.- El Auditor Superior del Estado de Jalisco, Dr. Alonso Godoy Pelayo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA AUDITORÍA SUPERIOR DEL ESTADO DE JALISCO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco”.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Auditoría Superior del Estado de Jalisco, publicado en el Periódico Oficial "El Estado de Jalisco", el 28 de febrero de 2009.
+
+TERCERO.- Los asuntos y procesos que se encuentren en trámite en la Auditoría Superior del Estado de Jalisco a la entrada en vigor del presente Reglamento, continuarán tramitándose hasta su conclusión con las disposiciones legales que regían cuando se iniciaron.
+
+CUARTO.- Hasta en tanto no se realicen las adecuaciones presupuestales e infraestructura necesarias para el debido cumplimiento de las disposiciones de este ordenamiento interno, las funciones relativas a las áreas de nueva creación en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios, la Ley General de Responsabilidades Administrativas o en este Reglamento, se llevarán a cabo por las unidades administrativas con que actualmente se integra esta entidad.
+
+QUINTO.- Se ordena la publicación del Reglamento Interno de la Auditoria Superior del Estado de Jalisco, en el Periódico Oficial "El Estado de Jalisco", remítase para tal efecto.
