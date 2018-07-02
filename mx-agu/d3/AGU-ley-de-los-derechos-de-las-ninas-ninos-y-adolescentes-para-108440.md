@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2018-06-18"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -619,9 +619,11 @@ Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito 
 
 La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
+
 ###### Artículo 49.
 
-En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley General de Víctimas, Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
+En los casos en que niñas, niños y adolescentes sean víctimas y/u ofendidos de delitos se aplicarán las disposiciones de la Ley General de Víctimas y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Local de Protección, deberá coordinarse con el Sistema de Atención a Víctimas del Estado de Aguascalientes.
 
@@ -873,9 +875,13 @@ Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito 
 
 La Procuraduría de Protección Local o cualquier persona interesada, podrán promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación locales, en los términos que establece esta Ley y demás disposiciones aplicables.
 
-Asimismo, la Procuraduría de Protección Local, estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente, con objeto de que éste ordene a los medios de comunicación locales que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, sin menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
-Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
+Asimismo, la Procuraduría de Protección Local, estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente, con objeto de que éste ordene a los medios de comunicación locales que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, sin menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes. Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Para efectos del párrafo anterior, los medios de comunicación locales, que difundan ejemplares impresos deberán buscar que la exhibición de sus portadas y/o contenidos, no atenten contra la integridad psicológica de niñas niños y adolescentes; debiendo para tal efecto, cubrir o difuminar las imágenes de violencia, sexo, muertes, suicidios, y todos aquellos análogos a los anteriores, que puedan afectar su desarrollo integral e interés superior.
 
 ### CAPÍTULO XVI. Derecho a la Participación
 
@@ -929,7 +935,11 @@ Cualquier medio de comunicación local que difunda entrevistas a niñas, niños 
 
 I. Deberá recabar el consentimiento por escrito o cualquier otro medio, de quienes ejerzan la patria potestad o tutela, así como la opinión de la niña, niño o adolescente, respectivamente;
 
-II. La persona que realice la entrevista será respetuosa y no podrá mostrar actitudes ni emitir comentarios que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
+
+II. La persona que realice la entrevista será respetuosa y no podrá mostrar actitudes ni emitir comentarios que afecten o impidan el desarrollo integral de niñas, niños y adolescentes.
+
+[N. DE E. PERTENECE A LA FRACCIÓN II, P.O. 2 DE JULIO DE 2018)
 
 En el caso de que no sea posible recabar el consentimiento de quienes ejerzan la patria potestad o tutela de un adolescente, éste podrá otorgarlo siempre que ello no implique una afectación a su derecho a la privacidad por el menoscabo a su honra o reputación.
 
@@ -939,9 +949,11 @@ No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutel
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
+
 ###### Artículo 77.
 
-Los medios de comunicación locales deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendientes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
+Los medios de comunicación locales deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendientes a su discriminación, criminalización o estigmatización, o que puedan causales (sic) una afectación psicológica negativa o sea contrario a su desarrollo integral e interés superior.
 
 En caso de incumplimiento a lo establecido en el presente Artículo, niñas, niños o adolescentes afectados, considerando su edad, grado de desarrollo cognoscitivo y madurez, podrán acudir ante la Procuraduría de Protección Local de manera directa o por conducto de su representante legal o, en su caso, la Procuraduría de Protección Local, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
 
@@ -1195,9 +1207,9 @@ XI. Educar y supervisar en el conocimiento y uso responsable de las tecnologías
 
 XII. Es obligación primordial orientar y supervisar y, en su caso, restringir, las conductas y hábitos para que no afecten el desarrollo integral de niñas, niños y adolescentes en el ejercicio de los derechos que esta Ley y otros ordenamientos les confiere, siempre que se atienda al interés superior de la niñez;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social; y
+XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social. Por lo que deberán abstenerse de fomentar, obligar, o inducir su utilización en trabajos que perjudiquen o ponga en riesgo en cualquier momento la salud, educación, integridad física o la propia vida del menor.
 
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2018)</small>
 
@@ -2009,7 +2021,7 @@ A partir del día siguiente de la entrada en vigor del presente Decreto, el Ejec
 
 P.O. 16 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266.- SE REFORMA Y ADICIONA EL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2021,7 +2033,7 @@ El Sistema Local de Protección, adecuará sus lineamientos con el presente Decr
 
 P.O. 18 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 319.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 81; EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 82; EL ARTÍCULO 84; Y SE REFORMAN LAS FRACCIONES XII, XIII, Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 96 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES.”]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 319.- SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 81; EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 82; EL ARTÍCULO 84; Y SE REFORMAN LAS FRACCIONES XII, XIII, Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 96 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES."]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2034,3 +2046,27 @@ El Consejo Directivo para el Desarrollo Integral de la Familia del Estado de Agu
 ###### ARTÍCULO TERCERO.
 
 Se exhorta a los Ayuntamientos de los Municipios del Estado a realizar las Reformas a sus disposiciones reglamentarias a efecto de dar cumplimiento a lo dispuesto por este Decreto.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 335.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 49, Y LA FRACCIÓN XIII DEL ARTÍCULO DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente a su publicación en el periódico oficial del estado
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones contrarias a las Reformas aprobadas mediante el presente Decreto.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 337.- SE REFORMAN EL SEGUNDO Y TERCER PÁRRAFOS DEL ARTÍCULO 67, EL PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 75, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 77, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS,, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Derogan todas las disposiciones contrarias a las Reformas aprobadas mediante el presente Decreto.
