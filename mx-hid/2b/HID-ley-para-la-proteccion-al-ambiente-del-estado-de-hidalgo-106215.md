@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2017-12-31"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -1139,9 +1139,17 @@ IV. La realización de programas encaminados a la reducción, reúso y reciclaje
 
 V. La realización de proyectos de investigación que contribuyan a la atención de problemas específicos, de acuerdo al diagnóstico Estatal en materia ambiental;
 
-VI. Que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica en la Entidad, desarrollen programas para la formación de profesionistas e investigadores que se ocupen del estudio de las causas, efectos y soluciones de los problemas ambientales, que para el efecto determine el programa sectorial del medio ambiente; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-VII. Las investigaciones científicas y programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, así como propiciar el aprovechamiento racional de los recursos naturales y proteger los ecosistemas.
+VI. Que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica en la Entidad, desarrollen programas para la formación de profesionistas e investigadores que se ocupen del estudio de las causas, efectos y soluciones de los problemas ambientales, que para el efecto determine el programa sectorial del medio ambiente;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VII. Las investigaciones científicas y programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, así como propiciar el aprovechamiento racional de los recursos naturales y proteger los ecosistemas; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VIII. La incorporación de contenidos ecológicos, desarrollo sustentable, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos niveles educativos.
 
 Los ayuntamientos en el ámbito de su competencia promoverán:
 
@@ -3282,3 +3290,9 @@ P.O. 31 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 451 QUE REFORMA LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 51 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
