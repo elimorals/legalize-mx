@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2016-08-15"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -196,6 +196,10 @@ VII.- Poner en marcha acciones en materia de deporte, con base en las opiniones 
 VIII.- Otorgar reconocimientos y estímulos a las personas que en lo individual o colectivo, Entidades y organizaciones sociales hayan sobresalido y distinguido en materia deportiva en eventos Estatales, Nacionales o Internacionales, o se distingan por sus actividades en el fomento, difusión, promoción e investigación deportiva y de la cultura física;
 
 IX.- Suscribir convenios y acuerdos de coordinación que se hagan necesarios con la Federación, Entidades federativas, ayuntamientos o Entidades públicas y privadas, Nacionales o Internacionales, que tengan por objeto la promoción, difusión, fomento e investigación deportiva para la consecución de sus fines, de conformidad con esta Ley;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+IX Bis.- Celebrar convenios con instituciones educativas, tanto públicas como privadas, con el objeto de desarrollar a los talentos deportista (sic) de cada institución.
 
 X.- Establecer los mecanismos de coordinación y evaluación de los planes y programas que en materia deportiva se adopten en el Sistema Educativo Estatal, sin perjuicio de los planes y programas establecidos por la Secretaria de Educación Pública del Estado;
 
@@ -391,7 +395,7 @@ IX.- Las personas que por su naturaleza y función sean susceptibles de integrar
 
 X.- Las y a los habitantes del Estado de Hidalgo; y
 
-XI.- Los planes, programas, procedimientos y acciones; (sic)
+XI.- Los planes, programas, procedimientos y acciones;
 
 ###### Artículo 30.
 
@@ -781,7 +785,7 @@ XVIII.- Los subprogramas de apoyo necesarios para alcanzar los objetivos que le 
 
 ###### Artículo 66.
 
-En el Programa Estatal de Cultura Física, Deporte y Recreación, deberán establecerse los criterios que den uniformidad y congruencia a los programas deportivos y de educación física del Estado, con los del Sector Público Federal; de modo que se promueva el incremento de entrenadores deportivos para una mejor práctica y desarrollo del deporte; (sic)
+En el Programa Estatal de Cultura Física, Deporte y Recreación, deberán establecerse los criterios que den uniformidad y congruencia a los programas deportivos y de educación física del Estado, con los del Sector Público Federal; de modo que se promueva el incremento de entrenadores deportivos para una mejor práctica y desarrollo del deporte;
 
 ###### Artículo 67.
 
@@ -1688,3 +1692,9 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 450 QUE ADICIONA UNA FRACCIÓN IX BIS AL ARTÍCULO 9 A LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
