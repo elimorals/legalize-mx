@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-forum-cultural-guanajuato-55481"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-27"
-last_updated: "2007-04-27"
+last_updated: "2018-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL FORUM CULTURAL GUANAJUATO
 
-REGLAMENTO INTERIOR DEL FORUM CULTURAL GUANAJUATO
+REGLAMENTO INTERIOR DEL FÓRUM CULTURAL GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de abril de 2007.
 
 Juan Manuel Oliva Ramírez, Gobernado Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III, y 79 de la Constitución Política del Estado de Guanajuato; y en observancia de lo dispuesto por los artículos 2o y 9o de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -109,19 +111,25 @@ VII. Las demás que se deriven del presente Reglamento o le confiera el Consejo 
 
 ### Capítulo IV. De la Estructura Administrativa del FORUM
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
 ###### Artículo 10.
 
-El FORUM contará con la siguiente estructura administrativa que dependerá de la Dirección General:
+El FORUM contará con la siguiente estructura administrativa:
 
-I. Dirección Administrativa;
+I. Dirección General:
 
-II. Dirección de Vinculación y Programación;
+a) Dirección Administrativa;
 
-III. Coordinación de Comunicación Social;
+b) Dirección de Vinculación y Programación;
 
-IV. Coordinación Jurídica; y
+c) Coordinación de Comunicación Social;
 
-V. Coordinación de Planeación Estratégica.
+d) Coordinación Jurídica; y
+
+e) Coordinación de Planeación Estratégica.
+
+II. Órgano Interno de Control.
 
 ###### Artículo 11.
 
@@ -285,7 +293,9 @@ V. Compilar los ordenamientos legales relacionados con las funciones del FORUM y
 
 VI. Elaborar las demandas, denuncias, querellas y demás documentos jurídicos necesarios para la defensa de los intereses y el buen funcionamiento del FORUM; y
 
-VII. Fungir como unidad de enlace del FORUM ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VII. Fungir como unidad de enlace del FORUM ante la Unidad de Transparencia y Archivos del Poder Ejecutivo.
 
 ###### Artículo 16.
 
@@ -295,13 +305,19 @@ I. Organizar los documentos y archivos, así como preclasificar la información 
 
 II. Coordinar y supervisar las acciones tendientes a proporcionar la información pública del FORUM;
 
-III. Elaborar la propuesta de clasificación de los documentos en públicos, reservados y confidenciales, con base en los criterios señalados en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y remitir la propuesta para su clasificación definitiva a la Unidad de Acceso a la Información Pública del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+III. Elaborar la propuesta de clasificación de los documentos en públicos, reservados y confidenciales, con base en los criterios señalados en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato y remitir la propuesta para su clasificación definitiva a la Unidad de Transparencia y Archivos del Poder Ejecutivo;
 
 IV. Llevar un registro actualizado de los asuntos que tramite el FORUM;
 
-V. Informar a la Unidad de Acceso a la Información Pública del Poder Ejecutivo, en su caso, que la información solicitada se encuentra ubicada en los supuestos que marca la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato como reservada o confidencial; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-VI. Tramitar las solicitudes de corrección de datos personales que le remita la Unidad de Acceso a la Información Pública del Poder Ejecutivo y mantener actualizados los datos personales que genere o posea el FORUM.
+V. Informar a la Unidad de Transparencia y Archivos del Poder Ejecutivo, en su caso, que la información solicitada se encuentra ubicada en los supuestos que marca la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato como reservada o confidencial; y
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VI. Tramitar las solicitudes de corrección de datos personales que le remita la Unidad de Transparencia y Archivos del Poder Ejecutivo y mantener actualizados los datos personales que genere o posea el FORUM.
 
 #### Sección Quinta. De la Coordinación de Planeación Estratégica
 
@@ -349,7 +365,7 @@ Las ausencias por más de quince días hábiles se suplirán por quien designe e
 
 ###### Artículo 22.
 
-Las responsabilidades administrativas de los servidores públicos del FORUM, así como la aplicación de las sanciones administrativas correspondientes, se investigarán, tramitarán y determinarán conforme a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ###### Artículo 23.
 
@@ -359,47 +375,33 @@ El FORUM instrumentará, en concordancia con las normas, políticas y procedimie
 
 La Comisión a que se refiere el artículo anterior se coordinará con la Unidad del Servicio Civil de Carrera del Poder Ejecutivo del Estado en la elaboración e instrumentación de los programas y mecanismos que permitan cumplir con el servicio civil de carrera.
 
-### Capítulo VIII. De la Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
+
+### Capítulo VIII. Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 25.
 
-El control y vigilancia del FORUM estará a cargo de un órgano de vigilancia, el cual tendrá el carácter de Contraloría Interna, encargada de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del organismo, con el fin de determinar su correcto desempeño institucional.
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del FORUM, con el fin de determinar su correcto desempeño.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 26.
 
-La Contraloría Interna dependerá orgánica y funcionalmente de la Secretaría de la Gestión Pública y presupuestalmente del FORUM.
-
-La Contraloría Interna estará integrada por un titular designado por la Secretaría de la Gestión Pública y el personal operativo que requieran las necesidades y que permita el presupuesto del FORUM.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de reestructura del FORUM, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ###### Artículo 27.
 
-La Contraloría Interna además de las atribuciones previstas en el artículo 56 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, tendrá las siguientes:
-
-I. Elaborar el programa anual de auditoría y remitirlo al titular de la Secretaría de la Gestión Pública para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría de la Gestión Pública;
-
-II. Vigilar que en el desarrollo de sus funciones las unidades administrativas del FORUM se apeguen a las disposiciones legales aplicables;
-
-III. Practicar auditorías a las unidades administrativas del FORUM, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, objetivos y metas;
-
-IV. Evaluar el ejercicio del presupuesto asignado al FORUM, para establecer indicadores de eficiencia, efectividad y economía en relación a sus programas, metas y objetivos;
-
-V. Efectuar el análisis e interpretación de los estados financieros del FORUM para determinar el correcto ejercicio de su presupuesto;
-
-VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el FORUM;
-
-VII. Recibir las quejas y denuncias que se interpongan ante ésta, en contra de los servidores públicos del FORUM, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, y canalizarlas a la Secretaría de la Gestión Pública;
-
-VIII. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
-
-IX. Informar periódicamente al Consejo Directivo y a la Secretaría de la Gestión Pública del desarrollo de sus funciones; y
-
-X. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el titular de la Secretaría de la Gestión Pública.
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ### Capítulo IX. Del Subcomité de Adquisiciones, Arrendamientos y Contratación de Servicios
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
 ###### Artículo 28.
 
-El FORUM, en atención a la naturaleza de las adquisiciones que realiza, tendrá un Subcomité de Adquisiciones, Arrendamientos y Contratación de Servicios, el cual se integrará y funcionará de conformidad con lo previsto en la Ley de Adquisiciones, Enajenaciones, Arrendamiento y Contratación de Servicios del Sector Público en el Estado de Guanajuato.
+El FORUM, en atención a la naturaleza de las adquisiciones que realiza, tendrá un Subcomité de Adquisiciones, Arrendamientos y Contratación de Servicios, el cual se integrará y funcionará de conformidad con lo previsto en la Ley de Contrataciones Públicas para el Estado de Guanajuato.
 
 T R A N S I T O R I O S
 
@@ -414,3 +416,17 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
