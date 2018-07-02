@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-salud-publica-del-89598"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2015-10-06"
+last_updated: "2018-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PUBLICA DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre del 2012.
 
@@ -85,11 +87,13 @@ b) Secretaría técnica;
 
 c) Coordinación de Asuntos Jurídicos;
 
-c) 1. Dirección de lo Laboral y Responsabilidades Administrativas; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+c) 1. Dirección de lo Laboral; y
 
 c) 2. Dirección de lo Contencioso y Normatividad.
 
-d) Coordinación de Contraloría Interna;
+d) (DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 e) Coordinación de Comunicación Social; y
 
@@ -114,8 +118,6 @@ a.5) Dirección de Extensión de Cobertura.
 b) Dirección General de Protección contra Riesgos Sanitarios:
 
 b.1) Dirección de Regulación y Fomento Sanitario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 c) (DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
@@ -161,7 +163,9 @@ f) Jurisdicción Sanitaria VI. Con sede en Irapuato y comprende los municipios d
 
 g) Jurisdicción Sanitaria VII. Con sede y competencia en el municipio de León; y
 
-h) Jurisdicción Sanitaria VIII. Con sede en San Francisco del Rincón y comprende los municipios de: Manuel Doblado, Purísima del Rincón, Romita, San Francisco del Rincón y Silao.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+h) Jurisdicción Sanitaria VIII. Con sede en San Francisco del Rincón y comprende los municipios de: Manuel Doblado, Purísima del Rincón, Romita, San Francisco del Rincón y Silao de la Victoria.
 
 V. Órganos desconcentrados por función:
 
@@ -271,6 +275,10 @@ b) Comisión Consultiva de Legislación y Normas en materia de Salud; y
 
 c) Comité de Evaluación.
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VII. Órgano Interno de Control.
+
 Carácter honorífico
 
 ###### Artículo 5.
@@ -297,7 +305,9 @@ El Director General del ISAPEG, además de las facultades previstas en el Reglam
 
 I. Representar, tramitar, organizar, dirigir, controlar, operar y evaluar los asuntos competencia del ISAPEG; asimismo, podrá delegar mediante acuerdo dichas facultades en los servidores públicos subalternos que determine, con excepción de aquellas que tengan el carácter de no delegables;
 
-II. Nombrar y remover a los servidores públicos del ISAPEG, así como validar, previamente a su expedición, los nombramientos del personal adscrito al ISAPEG que sean emitidos por la Dirección General de Personal;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+II. Nombrar y remover a los servidores públicos del ISAPEG, así como validar, previamente a su expedición, los nombramientos del personal adscrito al ISAPEG que sean emitidos por la Dirección General de Recursos Humanos;
 
 III. Proponer las políticas generales del ISAPEG y presentar los planes de trabajo, a la Junta de Gobierno;
 
@@ -395,11 +405,13 @@ II. Secretaría Técnica;
 
 III. Coordinación de Asuntos Jurídicos;
 
-a) Dirección de lo Laboral y Responsabilidades Administrativas; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+a) Dirección de lo Laboral; y
 
 b) Dirección de lo Contencioso y Normatividad.
 
-IV. Coordinación de Contraloría Interna;
+IV. (DEROGADA, P.O. 2 DE JULIO DE 2018)
 
 V. Coordinación de Comunicación Social; y
 
@@ -457,7 +469,9 @@ Unidades Adscritas a la Coordinación de Asuntos Jurídicos
 
 El titular de la Coordinación de Asuntos Jurídicos deberá planear, organizar, apoyar, coordinar, supervisar y evaluar el desempeño de las funciones y resultados de las siguientes direcciones de área:
 
-a) Dirección de lo Laboral y Responsabilidades Administrativas; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+a) Dirección de lo Laboral; y
 
 b) Dirección de lo Contencioso y Normatividad.
 
@@ -489,13 +503,19 @@ X. Solicitar a las unidades administrativas del ISAPEG los informes y documentac
 
 XI. Validar para aprobación del Director General del ISAPEG, acuerdos, lineamientos, convenios, contratos, leyes, reglamentos, decretos, acuerdos y normas en materia de salubridad local.
 
-#### Sección Segunda. Dirección de lo Laboral y Responsabilidades Administrativas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
 
-Facultades de la Dirección de lo Laboral y Responsabilidades Administrativas
+#### Sección Segunda. Dirección de lo Laboral
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE JULIO DE 2018)</small>
+
+Facultades de la Dirección de lo Laboral
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 15.
 
-El titular de la Dirección de lo Laboral y Responsabilidades Administrativas tendrá, las facultades siguientes:
+El titular de la Dirección de lo Laboral, tendrá las facultades siguientes:
 
 I. Asesorar jurídicamente y asistir a las unidades administrativas del ISAPEG, en los asuntos y procedimientos laborales;
 
@@ -503,7 +523,7 @@ II. Atender los asuntos laborales que se ventilen ante las diversas instancias e
 
 III. Dictaminar el cese o suspensión de los efectos del nombramiento del personal y someterlo para aprobación del Director General del ISAPEG;
 
-IV. Dar vista a la Secretaría de la Transparencia y Rendición de Cuentas, de los hechos contenidos en las actas administrativas, a efecto de que se determine lo conducente;
+IV. (DEROGADA, P.O. 2 DE JULIO DE 2018)
 
 V. Colaborar con las autoridades en las investigaciones que lleven a cabo en asuntos relacionados con las atribuciones del ISAPEG;
 
@@ -555,33 +575,9 @@ XVI. Las demás que le señalen las disposiciones legales y reglamentarias aplic
 
 ### Capítulo V. De la Coordinación de Contraloría Interna
 
-Facultades del Titular de la Coordinación de la Contraloría Interna
-
 ###### Artículo 17.
 
-El control y la vigilancia del ISAPEG estarán a cargo de un órgano de vigilancia denominado Coordinación de Contraloría Interna, cuyo titular además de las facultades genéricas y las señaladas en el Decreto Gubernativo número 42, mediante el cual, se reestructura la organización interna del Instituto de Salud Pública del Estado, publicado en la novena parte del Periódico Oficial del Gobierno del Estado de Guanajuato, número 50-B, en fecha 25 de junio de 2001, tendrá las siguientes:
-
-I. Elaborar el programa anual de auditoria y remitirlo al titular de la Secretaría de la Transparencia y Rendición de Cuentas, para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale dicha Secretaría;
-
-II. Vigilar que en el desarrollo de sus funciones, las unidades administrativas del ISAPEG se apeguen a las disposiciones legales aplicables;
-
-III. Practicar auditorias a las unidades administrativas del ISAPEG, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, objetivos y metas;
-
-IV. Evaluar el ejercicio del presupuesto asignado al ISAPEG, para establecer indicadores de eficiencia, efectividad y economía en relación a sus programas, metas y objetivos;
-
-V. Efectuar el análisis e interpretación de los estados financieros del ISAPEG para determinar el correcto ejercicio de su presupuesto;
-
-VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad en los servicios que ofrece el ISAPEG;
-
-VII. Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos del ISAPEG, de conformidad con lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, así como someter a consideración del titular de la Secretaría de la Transparencia y Rendición de Cuentas el proyecto de resolución de los mismos;
-
-VIII. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de la materia;
-
-IX. Fiscalizar los recursos federales ejercidos por el ISAPEG derivados de los acuerdos o convenios respectivos, en su caso;
-
-X. Informar periódicamente a la Junta de Gobierno y a la Secretaría de la Transparencia y Rendición de Cuentas del desarrollo de sus funciones; y
-
-XI. Las demás que le señalen las disposiciones legales y reglamentarias aplicables, y las que le confiera el titular de la Secretaría de la Transparencia y Rendición de Cuentas.
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ### Capítulo VI. De la Coordinación de Comunicación Social
 
@@ -673,8 +669,6 @@ I. Dirección General de Servicios de Salud;
 
 II. Dirección General de Protección contra Riesgos Sanitarios; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 III. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
 Facultades del Titular de la Coordinación General de Salud Pública
@@ -688,8 +682,6 @@ I. Proponer al Director General las políticas y estrategias en materia de salud
 II. Conducir, coordinar y promover la integración de los programas en materia de salud pública;
 
 III. Dirigir el Sistema Estatal de Vigilancia Epidemiológica;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 IV. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
@@ -734,8 +726,6 @@ V. Promover proyectos de prevención y control de enfermedades;
 VI. Propiciar la participación de las áreas e instituciones en materia de enseñanza;
 
 VII. Promover actividades de investigación y desarrollo tecnológico en materia de salud pública, propiciando la participación de las áreas e instituciones competentes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 VIII. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
@@ -833,11 +823,7 @@ III. Promover la actualización y validación de la micro-regionalización ante 
 
 IV. Revisar y validar las rutas definidas para la ejecución de los programas de desarrollo social en salud, conjuntamente con las unidades administrativas competentes del ISAPEG;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 V. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 VI. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
@@ -957,13 +943,9 @@ XXXIII. Las demás que le señalen las disposiciones legales y reglamentarias ap
 
 #### Sección Primera. Integración y facultades
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Artículo 34.
 
 (DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 35.
 
@@ -971,15 +953,11 @@ XXXIII. Las demás que le señalen las disposiciones legales y reglamentarias ap
 
 #### Sección Segunda. Dirección de Afiliación y Operación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Artículo 36.
 
 (DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 #### Sección Tercera. Dirección de Gestión de Servicios de Salud
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 37.
 
@@ -987,15 +965,11 @@ XXXIII. Las demás que le señalen las disposiciones legales y reglamentarias ap
 
 #### Sección Cuarta. Dirección de Administración y Control
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### Artículo 38.
 
 (DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 #### Sección Quinta. Dirección de Planeación, Evaluación y Desarrollo
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 39.
 
@@ -1101,7 +1075,9 @@ I. Integrar y evaluar las políticas y líneas estratégicas a seguir en la orga
 
 II. Coordinar la elaboración y seguimiento del Plan Estatal de Desarrollo;
 
-III. Coordinar las acciones de salud, mediante los mecanismos establecidos por el Consejo de Planeación del Estado de Guanajuato, considerando la participación de los tres ámbitos de gobierno en el proceso de la planeación;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+III. Coordinar las acciones de salud, mediante los mecanismos establecidos por el Consejo de Planeación para el Desarrollo del Estado de Guanajuato, considerando la participación de los tres ámbitos de gobierno en el proceso de la planeación;
 
 IV. Integrar el diagnóstico de salud de la población del Estado y apoyar en su elaboración a las jurisdicciones sanitarias y municipios;
 
@@ -1267,11 +1243,15 @@ VI. Emitir lineamientos administrativos dentro del ámbito de su competencia y c
 
 VII. Validar y firmar los estados financieros del ISAPEG;
 
-VIII. Suscribir dictámenes de marcas, ajustes de techos presupuestales, cancelaciones, declaraciones de licitaciones desiertas, solicitudes de diferimiento de fallo, autorización de compra directa por excepción de licitación pública, actos y contratos en términos de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato, así como la suscripción de comodatos, contratos de subrogación de servicios médicos y de diagnóstico.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VIII. Suscribir dictámenes de marcas, ajustes de techos presupuestales, cancelaciones, declaraciones de licitaciones desiertas, solicitudes de diferimiento de fallo, autorización de compra directa por excepción de licitación pública, actos y contratos en términos de la Ley de Contrataciones Públicas para el Estado de Guanajuato y su Reglamento, así como la suscripción de comodatos, contratos de subrogación de servicios médicos y de diagnóstico.
 
 IX. Definir las alternativas de inversión que generen las mejores condiciones para el ISAPEG conforme al análisis propuesto por la Dirección de Presupuesto y Recursos Financieros; y
 
-X. Suscribir constancias de pago y retenciones del Impuesto Sobre la Renta, Impuesto al Valor Agregado, Impuestos Especiales Sobre Productos y Servicios, Arrendamientos y Servicios Personales e Independientes excepto con lo relacionado con sueldos y salarios. Realizar toda clase de gestiones administrativas de derechos y obligaciones fiscales ante las autoridades fiscales de los diversos ámbitos de gobierno federal, estatal y municipal, Secretaría de Hacienda y Crédito Público, Servicio de Administración Tributaria y Secretaría de Finanzas, Inversión y Administración del Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+X. Suscribir constancias de pago y retenciones de los Impuestos y las Contribuciones en general, Arrendamientos y Servicios Personales e Independientes excepto con lo relacionado con sueldos y salarios. Realizar toda clase de gestiones administrativas de derechos y obligaciones fiscales ante las autoridades fiscales de los diversos ámbitos de gobierno federal, estatal y municipal, Secretaría de Hacienda y Crédito Público, Servicio de Administración Tributaría y Secretaría de Finanzas, Inversión y Administración del Estado de Guanajuato.
 
 #### Sección Segunda. Dirección de Recursos Materiales y Servicios Generales
 
@@ -1359,8 +1339,6 @@ I. Operar, coordinar y evaluar el registro de los sistemas de contabilidad de ac
 
 II. Coordinar la elaboración de la información contable para la integración y entrega de la cuenta de la hacienda pública estatal respectiva;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 III. Implementar mecanismos de supervisión y control que contribuyan a asegurar la aplicación de la legislación correspondiente en las erogaciones que realice el ISAPEG de aquellos recursos provenientes de los programas de desarrollo social en salud, así como mecanismos que permitan dar a conocer la normatividad aplicable a las áreas involucradas en el ejercicio de recursos correspondientes;
@@ -1374,8 +1352,6 @@ VI. Controlar la integración de la documentación soporte de las operaciones co
 VII. Coordinar el manejo de las cuentas bancarias respectivas atendiendo para ello la normatividad aplicable;
 
 VIII. Coordinación atender y entregar la información correspondiente a los distintos órganos de control; así como el seguimiento y atención en las respuestas de las auditorias practicadas al ISAPEG.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
@@ -1525,7 +1501,9 @@ f) Jurisdicción Sanitaria VI. Con sede en Irapuato y comprende los municipios d
 
 g) Jurisdicción Sanitaria VII. Con sede y competencia en el municipio de León; y
 
-h) Jurisdicción Sanitaria VIII. Con sede en San Francisco del Rincón y comprende los municipios de: Manuel Doblado, Purísima del Rincón, Romita, San Francisco del Rincón y Silao.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+h) Jurisdicción Sanitaria VIII. Con sede en San Francisco del Rincón y comprende los municipios de: Manuel Doblado, Purísima del Rincón, Romita, San Francisco del Rincón y Silao de la Victoria.
 
 Facultades de los titulares de las Jurisdicciones Sanitarias
 
@@ -1557,7 +1535,9 @@ XI. Integrar el Programa Anual de Abastecimiento de Bienes e Insumos que requier
 
 XII. Promover la actualización y creación de la normatividad aplicable en la prestación de servicios de salud.
 
-XIII. Celebrar actos jurídicos en materia de adquisiciones y servicios que se requieran en los términos de la Ley de Adquisiciones, Enajenaciones y Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato, normas aplicables y las disposiciones administrativas que emita el Director General de Administración;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XIII. Celebrar actos jurídicos en materia de adquisiciones y servicios que se requieran en los términos de la Ley de Contrataciones públicas para el Estado de Guanajuato y su Reglamento, normas aplicables y las disposiciones administrativas que emita la Dirección General de Administración;
 
 XIV. Controlar y operar su almacén, así como llevar a cabo la distribución de bienes e insumos, de acuerdo con las normas establecidas;
 
@@ -2327,6 +2307,20 @@ Normatividad Aplicable a las Relaciones de Trabajo
 
 Las relaciones entre el ISAPEG y sus trabajadores se regirán por lo dispuesto en la legislación laboral aplicable.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE JULIO DE 2018)</small>
+
+### Capítulo III. Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Órgano Interno de Control
+
+###### Artículo 85.
+
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del ISAPEG, con el fin de determinar su correcto desempeño.
+
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Reestructura de la organización interna del ISAPEG, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
+
 T R A N S I T O R I O S
 
 Inicio de vigencia
@@ -2364,3 +2358,15 @@ Artículo Único. El Artículo Segundo del presente Decreto Gubernativo cobrará
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 126, MEDIANTE EL CUAL, SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO “RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE GUANAJUATO”, Y SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 154, QUINTA PARTE, DE FECHA 25 DE SEPTIEMBRE DE 2012”.]
 
 Artículo Único.- El presente Decreto Gubernativo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
