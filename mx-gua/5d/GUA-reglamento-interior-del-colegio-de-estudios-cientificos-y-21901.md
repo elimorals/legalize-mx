@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-colegio-de-estudios-cientificos-y-21901
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -84,6 +84,10 @@ I.- Director General;
 II.- Direcciones de Área; y
 
 III.- Direcciones de Plantel.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+IV. Órgano Interno de Control
 
 ###### Artículo 6o.
 
@@ -315,39 +319,21 @@ XVIII.- Coordinar la integración y el funcionamiento del Patronato Local; y
 
 XIX.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confiera el Director General.
 
-### CAPÍTULO CUARTO. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
+
+### CAPÍTULO CUARTO. ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 16.
 
-El órgano de vigilancia del CECYTEG tendrá el carácter de Contraloría Interna, integrada de conformidad con lo establecido en el Decreto.
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del CECYTEG, con el fin de determinar su correcto desempeño.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 17.
 
-La Contraloría Interna, tendrá además de las facultades conferidas en el Decreto, las siguientes:
-
-I.- Elaborar el programa anual de auditoria y remitirlo al Titular de la Secretaría de la Contraloría para su aprobación; así como, coordinar la ejecución de sus operaciones con las unidades administrativas del CECYTEG que de acuerdo a su competencia le señale la Secretaría de la Contraloría;
-
-II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas del CECYTEG, se apeguen a las disposiciones legales aplicables;
-
-III.- Practicar auditorías a las unidades administrativas, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, objetivos y metas;
-
-IV.- Evaluar el ejercicio del presupuesto asignado al CECYTEG, para establecer indicadores de eficiencia, efectividad y economía con relación a sus programas, metas y objetivos;
-
-V.- Efectuar el análisis e interpretación de los estados financieros del CECYTEG para determinar el correcto ejercicio de su presupuesto;
-
-VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el CECYTEG;
-
-VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos del CECYTEG, conforme a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, así como someter a consideración del titular de la Secretaría de la Contraloría, el proyecto de resolución de las mismas;
-
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones, en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
-
-IX.- Fiscalizar los recursos federales ejercidos por el CECYTEG derivados de los acuerdos o convenios respectivos, en su caso;
-
-X.- Informar periódicamente a la Junta Directiva y a la Secretaría de la Contraloría del desarrollo de sus funciones;
-
-XI.- Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones a la gestión del CECYTEG para asegurar su cumplimiento; y
-
-XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría de la Contraloría.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación del CECYTEG, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ### CAPÍTULO QUINTO. DE LAS SUPLENCIAS
 
@@ -384,3 +370,17 @@ GERARDO LUIS RODRÍGUEZ OROZCO.
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMIREZ VALENZUELA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2018.
+
+> <small>[N. DE E. DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]</small>
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
