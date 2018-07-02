@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-colegio-de-educacion-profesional-21918"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -105,7 +105,9 @@ El Colegio a través de su Órgano de Gobierno y del Director General, planeará
 
 La Junta Directiva, además de las facultades conferidas en el Decreto Gubernativo de Creación del Colegio, tendrá las siguientes:
 
-I.- Establecer los mecanismos y estrategias para el logro de los objetivos del Colegio, e implantar las medidas correctivas a que hubiere lugar con base en los informes que en materia de control y auditoría le sean turnados;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+I.- Establecer los mecanismos y estrategias para el logro de los objetivos del Colegio, remitir al órgano interno de control para su intervención los casos de conductas que puedan constituir responsabilidad administrativa, que sean de su conocimiento.
 
 II.- Establecer los criterios de racionalidad, austeridad y disciplina para el ejercicio del presupuesto autorizado, de acuerdo a los lineamientos vigentes;
 
@@ -271,7 +273,9 @@ IV.- Unidad de Asesoría Jurídica;
 
 V.- Unidad de Proyecto de Promoción y Vinculación; Y
 
-VI.- Unidad de Contraloría Interna.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VI.- Órgano Interno de Control
 
 ###### Artículo 15.
 
@@ -489,7 +493,9 @@ XI.- Definir y proponer conjuntamente con el área correspondiente del CONALEP l
 
 XII.- Elaborar los proyectos de convenios y contratos que deban suscribir el Director General del Colegio, y los Directores de Planteles y CAST, así como revisar éstos cuando provengan del exterior, conforme a la normatividad respectiva;
 
-XIII.- Coadyuvar con la Secretaría de la Contraloría del Estado en los procedimientos administrativos y contenciosos, cuando ésta se lo solicite; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XIII.- Coadyuvar con el órgano interno de control y con la Secretaría del Poder Ejecutivo con atribuciones de control interno en los procedimientos administrativo y contenciosos, cuando ésta se lo solicite; y
 
 XIV.- Las demás que le confiera el Director General del Colegio.
 
@@ -529,43 +535,19 @@ XIII.- Las demás que le señale el presente Reglamento y las que le confiera el
 
 ###### Artículo 21.
 
-El control y vigilancia del Colegio estará a cargo de un órgano de vigilancia.
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ###### Artículo 22.
 
-El órgano de vigilancia del Colegio tendrá el carácter de Contraloría Interna, la cual es la responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del Colegio, con el fin de determinar el correcto desempeño eneral (sic) del mismo.
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ###### Artículo 23.
 
-La Unidad de Contraloría Interna, dependerá orgánica y funcionalmente de la Secretaría de la Contraloría del Estado y presupuestalmente del propio Colegio.
-
-La Unidad de Contraloría Interna estará integrada por un Titular designado por el Titular de la Secretaría de la Contraloría y por el personal necesario que el presupuesto permita.
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ###### Artículo 24.
 
-La Unidad de Contraloría Interna, tendrá además de las facultades conferidas en el artículo 56 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
-
-I.- Elaborar el Programa Anual de Auditoria y remitirlo al Titular de la Secretaría de la Contraloría del Estado para su aprobación; así como, coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia le señale la Secretaría de la Contraloría;
-
-II.- Vigilar que en el desarrollo de sus funciones, las diversas unidades administrativas del Colegio se apeguen a las disposiciones legales aplicables;
-
-III.- Practicar auditorías a las diversas unidades administrativas del Colegio, con el fin de verificar la eficacia y transparencia en sus operaciones así como, el cumplimiento de los programas, objetivos y metas;
-
-IV.- Evaluar el ejercicio del presupuesto asignado al Colegio, para establecer indicadores de eficiencia, efectividad y economía en relación a sus programas metas y objetivos;
-
-V.- Efectuar el análisis e interpretación de los estados financieros del Colegio para determinar el correcto ejercicio de su presupuesto;
-
-VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el Colegio;
-
-VII.- Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos del Colegio, conforme a lo establecido por la Ley de Responsabilidades de los Servicios Públicos del Estado de Guanajuato; así como someter a consideración del Titular de la Secretaría de la Contraloría, el proyecto de resolución de los mismos;
-
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones Arrendamientos y Contratación de Servicios relacionados con bienes muebles e inmuebles del Estado de Guanajuato;
-
-IX.- Fiscalizar los recursos federales ejercidos por el Colegio derivados de los acuerdos o convenios respectivos, en su caso; y
-
-X.- Informar periódicamente a la Junta de (sic) Directiva y a la Secretaría de la Contraloría del desempeño de sus funciones; y
-
-XI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría de la Contraloría del Estado.
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ### CAPÍTULO QUINTO. DE LAS UNIDADES ADMINISTRATIVAS DE EXTENSIÓN
 
@@ -793,6 +775,22 @@ En las relaciones de trabajo, se respetarán y aplicarán las Condiciones Genera
 
 El régimen de seguridad aplicable a los trabajadores del Colegio, será el del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de conformidad con lo establecido en el Convenio de Coordinación para la Federalización de los servicios de Educación Profesional Técnica.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2018)</small>
+
+### CAPÍTULO NOVENO. ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+###### Artículo 51.
+
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del Colegio, con el fin de determinar su correcto desempeño.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+###### Artículo 52.
+
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación del Colegio, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -824,3 +822,17 @@ GERARDO LUIS RODRÍGUEZ OROZCO.
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL".]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
