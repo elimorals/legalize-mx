@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-virtual-del-estado-de-84272
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-27"
-last_updated: "2017-10-24"
+last_updated: "2018-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Estatuto publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de diciembre de 2011.
 
@@ -337,7 +337,7 @@ I. Despacho del Rector:
 
 a. Abogado General;
 
-b. Contraloría Interna;
+b. (DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 c. Secretaría Particular; y
 
@@ -401,6 +401,10 @@ d. Comisión de Honor y Justicia; y
 
 e. Subcomité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios.
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VIII. Órgano Interno de Control
+
 Unidades administrativas
 
 ###### Artículo 17.
@@ -431,7 +435,7 @@ Los Secretarios, Directores, Coordinadores y el Abogado General tendrán las sig
 
 I. Auxiliar a su superior inmediato dentro de la esfera de su competencia;
 
-II. Planear, programar, presupuestar, coordinar, organizar, supervisar y evaluar las funciones correspondientes a la unidad administrativa a su cargo, con la participación del personal que lo (sic) integran;
+II. Planear, programar, presupuestar, coordinar, organizar, supervisar y evaluar las funciones correspondientes a la unidad administrativa a su cargo, con la participación del personal que lo integran (sic);
 
 III. Elaborar propuestas de implementación, mejora o modificación de los planes, programas y ordenamientos jurídicos que formen parte de la UVEG;
 
@@ -513,49 +517,17 @@ XVI. Otorgar, delegar o revocar los poderes generales y especiales que le hayan 
 
 #### Sección Segunda. Contraloría Interna
 
-Facultades de la Contraloría Interna
-
 ###### Artículo 22.
 
-El control, vigilancia y fiscalización de la UVEG estará a cargo de un órgano de vigilancia.
-
-El órgano de vigilancia tendrá el carácter de Contraloría Interna, la cual es la responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros, con el fin de determinar el correcto desempeño de la UVEG.
-
-Integración y dependencia de la Contraloría Interna
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ###### Artículo 23.
 
-La Contraloría Interna dependerá orgánica y funcionalmente de la Secretaría de la Gestión Pública y presupuestalmente de la UVEG.
-
-La Contraloría Interna estará integrada por un contralor designado por la Secretaría de la Gestión Pública y por el personal que permita el presupuesto de la UVEG.
-
-Facultades del Contralor Interno
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 ###### Artículo 24.
 
-El Contralor Interno tendrá, además de las facultades conferidas en el artículo 56 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes:
-
-I. Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia le señale la Secretaría de la Gestión Pública;
-
-II. Vigilar que las unidades administrativas de la UVEG se apeguen a las disposiciones legales aplicables en el desarrollo de sus funciones;
-
-III. Practicar auditorías a las unidades administrativas de la UVEG, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, objetivos y metas;
-
-IV. Evaluar el ejercicio del presupuesto asignado a la UVEG, para establecer indicadores de eficiencia, efectividad y economía en relación a sus programas metas y objetivos;
-
-V. Efectuar el análisis e interpretación de los estados financieros de la UVEG, para determinar el correcto ejercicio de su presupuesto;
-
-VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece la UVEG;
-
-VII. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos de la UVEG, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, así como someter a consideración del Titular de la Secretaría de la Gestión Pública, el proyecto de resolución de las mismas;
-
-VIII. Brindar asesoría en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
-
-IX. Fiscalizar, en su caso, los recursos federales ejercidos por la UVEG derivados de los acuerdos o convenios respectivos;
-
-X. Informar periódicamente al Consejo y a la Secretaría de la Gestión Pública del desarrollo de sus funciones; y
-
-XI. Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquellas que le confiera el Titular de la Secretaría de la Gestión Pública.
+(DEROGADO, P.O. 2 DE JULIO DE 2018)
 
 #### Sección Tercera. Secretario Particular
 
@@ -1745,6 +1717,30 @@ Régimen de las relaciones laborales
 
 Las relaciones laborales del personal de la UVEG se regirán por lo establecido en las disposiciones jurídicas en la materia.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2018)</small>
+
+## Titulo Sexto. Órgano Interno de Control
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2018)</small>
+
+### Capítulo Único. Naturaleza y Facultades
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Naturaleza
+
+###### Artículo 83.
+
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros de la Universidad, con el fin de determinar su correcto desempeño.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Facultades
+
+###### Artículo 84.
+
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Reestructura de la Universidad, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
+
 T r a n s i t o r i o s
 
 Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1770,3 +1766,15 @@ P.O. 24 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 201, POR EL QUE SE REFORMAN LOS ARTÍCULOS 16 Y 19 FRACCIÓN XIX, DEL DECRETO GUBERNATIVO NÚMERO 40, MEDIANTE EL CUAL SE CREA LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LOS ARTÍCULOS 15 FRACCIÓN IV Y 21 FRACCIÓN XI; SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 21, TODOS ELLOS DEL DECRETO GUBERNATIVO NÚMERO 193, MEDIANTE EL CUAL SE EXPIDE EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
