@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-estatal-de-capacitacion-83278
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-11"
-last_updated: "2016-03-01"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CAPACITACIÓN DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de octubre de 2011.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II, III y XXV y 79 de la Constitución Política para el Estado de Guanajuato, y en observancia de lo dispuesto por los artículos 9 y 38 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -259,7 +261,9 @@ V. Dirección de Vinculación y Comunicación;
 
 VI. Dirección Técnica-Académica:
 
-VII. Unidades de Capacitación;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VII. Órgano Interno de Control; y
 
 VIII. Contraloría Interna; y
 
@@ -357,7 +361,9 @@ V. Coordinar la atención y seguimiento hasta su conclusión, de los juicios, pr
 
 VI. Compilar y difundir las leyes, decretos, reglamentos y todo tipo de disposiciones normativas, relacionadas con el objeto del IECA;
 
-VII. Fungir como Unidad de Enlace ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VII. Fungir como Unidad de Enlace ante la Unidad de Transparencia y Archivos del Poder Ejecutivo, de conformidad con la normatividad aplicable.
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
 
@@ -659,63 +665,25 @@ VII. Integrar cuando así se requiera, los Subcomités Mixtos de Planeación y E
 
 (DEROGADO, P.O. 1 DE MARZO DE 2016)
 
-### Capítulo VII. Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
 
-Integración y funcionamiento de la Contraloría Interna
+### Capítulo VII. Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Órgano Interno de Control
 
 ###### Artículo 28.
 
-La integración y funciones de la Contraloría Interna se regirán por lo dispuesto en los artículos 16 y 17 del Decreto de Creación.
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del IECA, con el fin de determinar su correcto desempeño.
 
-Atribuciones de la Contraloría Interna
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Atribuciones
 
 ###### Artículo 29.
 
-El Contralor Interno tendrá, además de las atribuciones previstas en el artículo 18 del Decreto de Creación, las siguientes:
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-I. Elaborar el programa anual de auditoría y remitirlo al titular de la Secretaría de la Transparencia y Rendición de Cuentas para su aprobación, informando de ello a la Junta Directiva;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-II. Ejecutar el programa anual de auditoría aprobado por el titular de la Secretaría de la Transparencia y Rendición de Cuentas;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-III. Coordinar la ejecución de sus operaciones con las unidades administrativas del IECA, de acuerdo a los lineamientos que emita la Secretaría de la Transparencia y Rendición de Cuentas;
-
-IV. Vigilar que las unidades administrativas se apeguen a las disposiciones legales aplicables en el desarrollo de sus funciones;
-
-V. Practicar auditorías a las unidades administrativas, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, subprogramas, objetivos y metas de éstas;
-
-VI. Revisar, analizar y verificar los estados financieros, así como evaluar el ejercicio de su presupuesto asignado, para establecer indicadores de eficiencia, efectividad y economía con relación a sus programas, metas y objetivos;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-VII. Recibir las quejas y denuncias que se interpongan en contra de los servidores públicos del IECA y en su caso, turnarlas a la Secretaría de la Transparencia y Rendición de Cuentas, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-VIII. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos de la Ley de Contrataciones Públicas para el Estado de Guanajuato;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-IX. Informar trimestralmente sobre el desarrollo de sus funciones a la Junta Directiva y a la Secretaría de la Transparencia y Rendición de Cuentas;
-
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2016)</small>
-
-X. Desarrollar los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones practicadas a la gestión del IECA;
-
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
-
-XI. Participar en los procesos de entrega recepción internos del IECA, de conformidad con los ordenamientos jurídicos aplicables;
-
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2016)</small>
-
-XII. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad de los servicios que preste el IECA; y
-
-XIII. Fiscalizar la aplicación de los recursos del IECA derivados de los acuerdos y convenios respectivos.
+El Órgano Interno de Control ejercerá las atribuciones que le asigna el Decreto de Creación del IECA, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ## Título Sexto. Comisiones, Comités y Subcomités
 
@@ -810,3 +778,15 @@ P.O. 1 DE MARZO DE 2016.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
