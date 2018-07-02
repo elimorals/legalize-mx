@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2018-06-25"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -40,8 +40,6 @@ La LVIII Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguasc
 Resolución
 
 UNICO.- Se Ratifica el Decreto 37 expedido por esta LVIII Legislatura del Congreso del Estado, para quedar en los siguientes términos:
-
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.]</small>
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
@@ -363,7 +361,9 @@ VI. Vigilar la administración de sus respectivas haciendas, cuidando que se obs
 
 VII. Proporcionar al Congreso toda la información y documentación que éste requiera, a fin de que se practique una adecuada supervisión y fiscalización de las cuentas públicas municipales;
 
-VIII. Nombrar al Tesorero o al funcionario que deberá ejercer esa función, estableciendo la forma en que deberá caucionar su manejo, de conformidad con el reglamento correspondiente;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VIII. Nombrar al Secretario de Finanzas o al funcionario que deberá ejercer esa función, estableciendo la forma en que deberá caucionar su manejo, de conformidad con el reglamento correspondiente;
 
 IX. Nombrar al Secretario del Ayuntamiento, así como a los servidores públicos que en auxilio del Síndico, habrán de ejercer la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte, de conformidad con el reglamento correspondiente;
 
@@ -409,11 +409,15 @@ XXIX. Aceptar o repudiar herencias, legados y donaciones que se hagan al Municip
 
 XXX. Desempeñar las atribuciones que en materia electoral les confieren las leyes respectivas;
 
-XXXI. Cuidar y exigir del Presidente Municipal, Regidores, Síndicos, Secretario, Tesorero y demás funcionarios municipales, el cumplimiento estricto de sus obligaciones;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XXXI. Cuidar y exigir del Presidente Municipal, Regidores, Síndicos, Secretario del Ayuntamiento, Secretario de Finanzas y demás funcionarios municipales, el cumplimiento estricto de sus obligaciones;
 
 XXXII. Considerar los informes que rindan los regidores, autoridades subalternas y empleados, así como resolver acerca de los puntos a que los mismos hagan referencia;
 
-XXXIII. Revisar la cuenta pública que mensualmente presente el Comisionado de Hacienda, para su remisión al Congreso del Estado;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XXXIII. Revisar la cuenta pública que trimestralmente presente el Comisionado de Hacienda, para su remisión al Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
@@ -565,7 +569,9 @@ III. Dentro de su competencia, cumplir y hacer cumplir las disposiciones conteni
 
 IV. Tomar la protesta de Ley a los regidores y síndicos, funcionarios y empleados del Municipio;
 
-V. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Titular de la Policía Preventiva y de Tránsito, Tesorero Municipal y recaudadores de fondos de la Hacienda Municipal, así como nombrar a los demás funcionarios públicos municipales;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+V. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Titular de la Policía Preventiva y de Tránsito, Secretario de Finanzas y los recaudadores de fondos de la Hacienda Municipal, así como nombrar a los demás funcionarios públicos municipales;
 
 VI. Presidir y dirigir las sesiones que deba celebrar el Ayuntamiento;
 
@@ -581,7 +587,9 @@ XI. Legalizar conjuntamente al Secretario toda correspondencia, actas y disposic
 
 XII. Vigilar e inspeccionar a las dependencias municipales, y demás unidades administrativas que el Ayuntamiento determine cerciorándose que se desempeñen correctamente y tomar las medidas que estime necesarias, para el mejor funcionamiento de las mismas, e informar sobre su estado al Ayuntamiento;
 
-XIII. Conceder licencia para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XIII. Conceder licencia para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Secretaría de Finanzas;
 
 XIV. Tener bajo su mando los cuerpos de seguridad pública, nombrar y remover a los jefes y agentes de policía y tránsito del Ayuntamiento;
 
@@ -591,7 +599,9 @@ XVI. Imponer las sanciones administrativas por las faltas al Bando, reglamentos 
 
 XVII. Celebrar a nombre del Municipio y por acuerdo del Ayuntamiento, todos los actos y contratos necesarios, conducentes al desempeño de los negocios administrativos y a la eficaz prestación de servicios públicos municipales;
 
-XVIII. Expedir a la Tesorería Municipal las órdenes de pago que sean conforme al presupuesto aprobado, firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios, si autorizasen algún gasto no previsto en dicho presupuesto;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XVIII. Expedir a la Secretaría de Finanzas las órdenes de pago que sean conforme a I (sic) presupuesto aprobado, firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios, si autorizasen algún gasto no previsto en dicho presupuesto;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -651,13 +661,19 @@ IV. La representación jurídica de los ayuntamientos en los litigios en que és
 
 V. Asistir a los remates públicos en los que tenga interés el Municipio;
 
-VI. Revisar y firmar los cortes de caja que haga la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VI. Revisar y firmar los cortes de caja e informes de avance de gestión que haga la Secretaría de Finanzas;
 
 VII. Cuidar que la aplicación de los gastos se haga cubriendo todos los requisitos legales y conforme al Presupuesto de Egresos;
 
-VIII. Vigilar que las multas impuestas por las autoridades municipales ingresen a la Tesorería, previo comprobante respectivo;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-IX. Cerciorarse de que el Tesorero haya otorgado caución de manejo de fondos;
+VIII. Vigilar que las multas impuestas por las autoridades municipales ingresen a la Secretaría de Finanzas, previo comprobante respectivo;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+IX. Cerciorarse de que el Secretario de Finanzas haya otorgado fianza o caución de manejo de fondos;
 
 X. Intervenir en la formulación del inventario general de bienes muebles e inmuebles, propiedad del Municipio;
 
@@ -753,7 +769,9 @@ Para el despacho, estudio y planeación de los diversos asuntos de la administra
 
 I. La Secretaría del Ayuntamiento; y
 
-II. La Tesorería Municipal.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+II. La Secretaría de Finanzas.
 
 ###### Artículo 49.
 
@@ -781,17 +799,23 @@ V. No haber sido sentenciado por delito intencional que merezca pena privativa d
 
 VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
 ###### Artículo 50.
 
-La Tesorería Municipal es el órgano encargado de la recaudación de los ingresos municipales y responsable de realizar las erogaciones que haga el Ayuntamiento.
+La Secretaría de Finanzas es el órgano encargado de la recaudaci6n (sic) de los ingresos municipales y responsable de realizar las erogaciones que haga el Ayuntamiento
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 51.
 
-Para ser Tesorero Municipal se requiere:
+Para ser Secretario de Finanzas se requiere:
 
 I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino del Municipio del Ayuntamiento que lo nombre;
 
-II. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del Ayuntamiento; de preferencia ser profesionista de las áreas económicas o contable-administrativas, con experiencia mínima de un año;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+II. Contar con Título de Licenciatura que acredite tener los conocimientos en las áreas económicas, financieras, contables y administrativas, con experiencia mínima de un año;
 
 III. Caucionar el manejo de los fondos en términos de Ley;
 
@@ -999,9 +1023,11 @@ III. De las participaciones que perciban de acuerdo con la aplicación de las le
 
 Los capitales propios de los municipios no podrán ser empleados en los gastos de la administración municipal; los ayuntamientos procurarán destinarlos a inversiones que produzcan un interés que los incremente.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
 ###### Artículo 72.
 
-La Tesorería Municipal, o el nombre que se designe en el Reglamento, es el único órgano de recaudación de los ingresos municipales, así como de las erogaciones que deba hacer el Ayuntamiento.
+La Secretaría de Finanzas, o el nombre que se designe en el Reglamento, es el único órgano de recaudación de los ingresos municipales, así como de las erogaciones que deba hacer el Ayuntamiento.
 
 ###### Artículo 73.
 
@@ -1523,13 +1549,17 @@ XIV. Acción Social y Deportes;
 
 XV. Relojes y Panteones;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-XVI. Igualdad y género cuya competencia será: promover la expedición de las normas legales correspondientes, y proponer las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, en el ámbito público y privado; así como promover mecanismos de evaluación respecto a la aplicación de la legislación sobre violencia de género en el Municipio, buscando la adecuación y armonización, con la Legislación Estatal y Federal; y
+XVI. Igualdad y género cuya competencia será: promover la expedición de las normas legales correspondientes, y proponer las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, en el ámbito público y privado; así como promover mecanismos de evaluación respecto a la aplicación de la legislación sobre violencia de género en el Municipio, buscando la adecuación y armonización, con la Legislación Estatal y Federal;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2018)</small>
 
-XVII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+XVII. De Derechos Humanos cuya competencia será: conocer de los asuntos relacionados con derechos humanos, su difusión, promoción y reglamentación, además del fomento de acciones en favor de una cultura de respeto, protección y garantía de dichos derechos en el marco del ámbito municipal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JULIO DE 2018)</small>
+
+XVIII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 114.
 
@@ -1591,9 +1621,11 @@ XI. Integrar un sistema de información que contenga datos de los aspectos socio
 
 XII. Las demás que le confieran esta Ley y disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
+
 ###### Artículo 121.
 
-Son atribuciones del Tesorero Municipal:
+Son atribuciones del Secretario de Finanzas.
 
 I. Administrar la hacienda pública municipal, de conformidad con las disposiciones legales aplicables;
 
@@ -1605,7 +1637,9 @@ IV. Llevar los registros contables, financieros y administrativos de los ingreso
 
 V. Proporcionar oportunamente al Ayuntamiento todos los datos o informes que sean necesarios para la formulación del Presupuesto de Egresos Municipal, vigilando que se ajuste a las disposiciones de esta Ley y otros ordenamientos aplicables;
 
-VI. Presentar anualmente al Ayuntamiento un informe de la situación contable financiera de la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VI. Presentar anualmente al Ayuntamiento la cuenta pública en términos de la Ley General de Contabilidad Gubernamental y Ley de Presupuesto, Gasto Publico y Responsabilidad Hacendaria;
 
 VII. Diseñar y aprobar las formas oficiales de manifestaciones, avisos, declaraciones y demás documentos requeridos;
 
@@ -1615,7 +1649,9 @@ IX. Proponer al Ayuntamiento la cancelación de cuentas incobrables;
 
 X. Custodiar y ejercer las garantías que se otorguen en favor de la hacienda municipal, así como requerir el pago a las afianzadoras respecto de las obligaciones garantizadas en materia administrativa;
 
-XI. Proponer la política de ingresos de la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XI. Proponer al Ayuntamiento la política de ingresos de la Secretaría de Finanzas;
 
 XII. Proponer al Ayuntamiento el proyecto de Presupuesto de Egresos antes del 30 de octubre de cada año;
 
@@ -2436,3 +2472,11 @@ P.O. 25 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 333.- SE REFORMAN LAS FRACCIONES VIII, XXXI Y XXXIII DEL ARTÍCULO 36; LAS FRACCIONES V, XIII DEL ARTÍCULO 48, EL ARTÍCULO 50; EL PRIMER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 51; EL ARTÍCULO 72; LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 113; Y EL PRIMER PÁRRAFO Y LAS FRACCIONES VI Y XI DEL ARTÍCULO 121. ASÍ COMO SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 113 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de la Reforma al Artículo 113, que entrará en vigor el 15 de octubre de 2019.
