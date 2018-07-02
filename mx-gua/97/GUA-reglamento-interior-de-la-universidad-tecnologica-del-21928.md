@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-tecnologica-del-21928"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2016-10-18"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL SUROESTE DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio del 2001.
 
@@ -83,11 +83,13 @@ II.- Vigilar el cumplimiento de los lineamientos generales que en materia de gas
 
 III.- Recibir y turnar la renuncia del Rector al Gobernador del Estado, para que en su caso decida la aceptación o negación de la misma;
 
-IV.- Conocer los dictámenes correspondientes de cada ejercicio que emita el Órgano de Vigilancia de la UTSOE, y adoptar, en su caso, las medidas conducentes;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+IV.- Conocer los dictámenes correspondientes de cada ejercicio que emita el Órgano Interno de Control de la UTSOE, y adoptar, en su caso, las medidas conducentes;
 
-V.- Proporcionar a la representación de la Secretaría responsable del control interno del Ejecutivo, en las sesiones del Consejo Directivo, la información que le solicite relacionada con las funciones que desarrolla el Consejo; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+V.- Proporcionar a la representación de la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, en las sesiones del Consejo Directivo, la información que le solicite relacionada con las funciones que desarrolla el Consejo; y
 
 VI.- Las demás que para el cumplimiento de los fines de la UTSOE establezcan otras disposiciones legales aplicables.
 
@@ -361,51 +363,25 @@ IV.- Los demás que el Consejo Directivo considere necesarios.
 
 Los Órganos Colegiados se integrarán y funcionarán conforme a lo establecido en los instrumentos normativos que para tal efecto emita el Consejo Directivo.
 
-## TÍTULO CUARTO. CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
 
-### CAPÍTULO ÚNICO. DE LA ESTRUCTURA Y FACULTADES
+## TÍTULO CUARTO. ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
+
+### CAPÍTULO ÚNICO. FACULTADES
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 17.
 
-El órgano de vigilancia de la UTSOE tendrá el carácter de Contraloría Interna, integrada de conformidad con lo establecido en el Decreto de Reestructuración del organismo.
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del UTSOE, con el fin de determinar su correcto desempeño.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 18.
 
-La Contraloría Interna tendrá además de las facultades conferidas en el Decreto de Reestructuración, las siguientes:
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría responsable del control interno de (sic) Ejecutivo para su aprobación; así como, coordinar la ejecución de sus ope´aciones (sic) con las unidades administrativas de la UTSOE que de acuerdo a su competencia le señale la Secretaría responsable del control interno del Ejecutivo;
-
-II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la UTSOE se apeguen a las disposiciones legales aplicables;
-
-III.- Practicar auditorías a las unidades administrativas de la UTSOE, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, objetivos y metas;
-
-IV.- Evaluar el ejercicio del presupuesto asignado a la UTSOE, para establecer indicadores de eficiencia, efectividad y economía en relación a sus programas, metas y objetivos;
-
-V.- Efectuar el análisis e interpretación de los estados financieros de la UTSOE para determinar el correcto ejercicio de su presupuesto;
-
-VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece la UTSOE;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-VII.- Recibir las quejas y denuncias que se interpongan ante ella en contra de los servidores públicos de la UTSOE, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y, en su caso, canalizarlas a la Secretaría responsable del control interno del Ejecutivo;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
-
-IX.- Fiscalizar los recursos federales ejercidos por la UTSOE derivados de los acuerdos o convenios respectivos, en su caso;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-X.- Informar periódicamente al Consejo Directivo y a la Secretaría responsable del control interno del Ejecutivo del desarrollo de sus funciones;
-
-XI.- Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones a la gestión de la UTSOE para asegurar su cumplimiento; y
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-XII.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Reestructura del UTSOE, así como las que les señales las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ## TÍTULO QUINTO. SUPLENCIAS
 
@@ -456,3 +432,15 @@ P.O. 18 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
