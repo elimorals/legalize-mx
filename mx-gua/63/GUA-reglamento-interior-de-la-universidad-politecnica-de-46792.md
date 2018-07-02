@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-politecnica-de-46792"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-01"
-last_updated: "2016-10-26"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE GUANAJUATO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 1 de noviembre de 2005.
 
@@ -89,7 +89,13 @@ IX.- Consejo Social;
 
 X.- Consejo Académico; y
 
-XI.- Demás personal que requieran las necesidades del servicio y que permita su presupuesto y otros órganos que apruebe la Junta Directiva.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XI.- Órgano Interno de Control
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XII. Demás personal que requieran las necesidades del servicio y que permita su presupuesto y otros órganos que apruebe la Junta Directiva.
 
 Los Consejos de Calidad y el Social se regulan de conformidad con lo previsto en el Decreto Gubernativo de Creación de la Universidad.
 
@@ -389,7 +395,9 @@ V.- Suscribir los documentos mediante los que la Universidad determine rescindir
 
 VI.- Elaborar y suscribir las actas administrativas correspondientes y de todos aquellos actos que por su naturaleza así lo requieran;
 
-VII.- Coordinar la atención de los asuntos en materia de responsabilidad administrativa y de derechos humanos;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VII.- Coordinar la atención de los procedimientos administrativos y en materia de derechos humanos.
 
 VIII.- Certificar, cuando le sea solicitado, las copias de los documentos originales que obren en los archivos de la unidad;
 
@@ -575,49 +583,21 @@ V.- Validar las cédulas de equipamiento de laboratorios y talleres; y
 
 VI.- Las demás que establezcan otras normas y disposiciones reglamentarias de la Universidad.
 
-### CAPÍTULO NOVENO. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
+
+### CAPÍTULO NOVENO. ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 34.
 
-El órgano de vigilancia de la Universidad tendrá el carácter de Contraloría Interna, integrada de conformidad con lo establecido en el Decreto Gubernativo de Creación de dicha institución educativa.
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros de la Universidad, con el fin de determinar su correcto desempeño.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 35.
 
-La Contraloría Interna, además de las facultades conferidas en el Decreto Gubernativo de Creación de la Universidad tendrá, las siguientes:
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-I. Elaborar el Programa Anual de Auditoria y remitirlo al Titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación; así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia le señale la Secretaría responsable del control interno del Ejecutivo;
-
-II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la Universidad se apeguen a las disposiciones legales aplicables;
-
-III.- Practicar auditorías a las unidades administrativas de la Universidad, con el fin de verificar la eficacia y transparencia en sus operaciones así como el cumplimiento de los programas, objetivos y metas;
-
-IV.- Evaluar el ejercicio del presupuesto asignado a la Universidad, para establecer indicadores de eficiencia, efectividad y economía con relación a sus programas metas y objetivos;
-
-V.- Efectuar el análisis e interpretación de los estados financieros de la Universidad para determinar el correcto ejercicio de su presupuesto;
-
-VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece la Universidad;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-VII. Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos de la Universidad, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios; así como someter a consideración del Titular de la Secretaría responsable del control interno del Ejecutivo, el proyecto de resolución de los mismos;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-VIII. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
-
-IX.- Fiscalizar los recursos federales ejercidos por la Universidad derivados de los acuerdos o convenios respectivos, en su caso;
-
-X.- Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones a la gestión de la Universidad para asegurar su cumplimiento;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-XI. Informar periódicamente a la Junta Directiva y a la Secretaría responsable del control interno del Ejecutivo del desempeño de sus funciones; y
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación de la Universidad; así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ### CAPÍTULO NOVENO (SIC). DE LAS REFORMAS
 
@@ -658,3 +638,15 @@ P.O. 18 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR".]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
