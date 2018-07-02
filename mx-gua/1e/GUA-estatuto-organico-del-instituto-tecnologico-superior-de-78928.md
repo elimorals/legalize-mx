@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-del-instituto-tecnologico-superior-de-78928"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-12-17"
-last_updated: "2016-10-18"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO TECNOLÓGICO SUPERIOR DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Estatuto publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de diciembre de 2010.
 
@@ -225,7 +225,9 @@ c) Administración y Finanzas.
 
 III. Abogado General;
 
-IV. Contraloría Interna; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+IV. Órgano Interno de Control; y
 
 V. Coordinadores de Carrera.
 
@@ -491,45 +493,19 @@ IX. Asesorar al Director General en la celebración de convenios, contratos o cu
 
 X. Todas aquellas inherentes al desempeño del puesto, así como las que le confiera el Director General.
 
-### Capítulo IV. Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
 
-Facultades de la Contraloría Interna
+### Capítulo IV. Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Órgano Interno de Control
 
 ###### Artículo 28.
 
-La Contraloría Interna, además de las facultades conferidas en el artículo 24 del Decreto de creación, tendrá las siguientes:
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del Instituto, con el fin de determinar su correcto desempeño.
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-I. Elaborar el programa anual de la auditoría y remitirlo al Titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia, le señale ésta.
-
-II. Vigilar que las unidades administrativas del Instituto se apeguen a las disposiciones legales aplicables en el desarrollo de sus funciones;
-
-III. Practicar auditarías a las unidades administrativas del Instituto, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, objetivos y metas;
-
-IV. Evaluar el ejercicio del presupuesto asignado al Instituto, para establecer indicadores de eficiencia, efectividad y economía en relación a sus programas, metas y objetivos;
-
-V. Efectuar el análisis e interpretación de los estados financieros del Instituto, para determinar el correcto ejercicio de su presupuesto;
-
-VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el Instituto;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-VII. Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de los servidores públicos del Instituto, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios; así como someter a consideración del Titular de la Secretaría responsable del control interno del Ejecutivo, el proyecto de resolución de las mismas;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-VIII. Brindar asesoría en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
-
-IX. Fiscalizar, en su caso, los recursos federales ejercidos por el Instituto, derivados de los acuerdos o convenios respectivos;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-X. Informar periódicamente al Consejo Directivo y o la Secretaría responsable del control interno del Ejecutivo, del desarrollo de sus funciones; y
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación del Instituto, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ### Capítulo V. Órganos Colegiados
 
@@ -873,6 +849,18 @@ Artículo Segundo. La Junta Directiva contará con un plazo de 60 días hábiles
 
 P.O. 18 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR".]
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativos para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
