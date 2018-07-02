@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2017-10-09"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -599,7 +599,7 @@ Los Visitadores Generales de la Comisión deberán reunir para su designación, 
 
 I.- Ser ciudadano mexicano con amplio conocimiento de la problemática del Estado, en la materia y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II.- Haber residido al menos durante los cinco años anteriores al nombramiento, dentro del Estado de Hidalgo, y (sic)
+II.- Haber residido al menos durante los cinco años anteriores al nombramiento, dentro del Estado de Hidalgo, y
 
 III.- Ser mayor de treinta años de edad, el día de su nombramiento; y
 
@@ -948,6 +948,18 @@ La propuesta de solución y la recomendación, no tendrán carácter vinculatori
 En todo caso, una vez recibida la resolución respectiva, la autoridad o servidor público de que se trate deberá informar dentro de los diez días hábiles siguientes a su notificación, si acepta dicha propuesta de solución o recomendación
 
 El plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo requiera.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 2 DE JULIO DE 2018)</small>
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
+
+a) La autoridad o servidor público de que se trate deberá fundar, motivar y hacer pública su negativa, y atender los llamados del Congreso del Estado Libre y Soberano de Hidalgo a comparecer, a efecto de que expliquen el motivo de su negativa.
+
+b) La Comisión determinará, previa consulta con el órgano legislativo referido en el inciso anterior, en su caso, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir las recomendaciones emitidas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos del siguiente inciso.
+
+c) Las autoridades o servidores públicos, a quienes se les hubiese notificado la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los quince días hábiles siguientes a la notificación del escrito referido en el inciso que antecede, si persisten o no en la posición de no aceptar o no cumplir la recomendación.
+
+d) Si persiste la negativa, la Comisión podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda a los servidores públicos señalados en la recomendación como responsables.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1470,3 +1482,9 @@ QUINTO. En caso de existir recursos humanos, financieros y materiales asignados 
 SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
 SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 452.- QUE ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 86 DE LA LEY DE DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
