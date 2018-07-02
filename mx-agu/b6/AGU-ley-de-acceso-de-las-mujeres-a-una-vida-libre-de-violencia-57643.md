@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2017-07-10"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -207,13 +207,17 @@ h) Obstaculizar sin causa médica justificada el apego precoz del recién nacido
 
 i) Retener a la mujer o al producto de la concepción en los centros de salud o instituciones análogas por su incapacidad de pago;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, acecho, actos de exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos; y
+VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, acecho, actos de exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2018)</small>
 
-VIII. Cualesquiera otras formas análogas que por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+VIII. Violencia Política de Genero: Como cualquier acción u omisión, que basada en el género de una persona; tenga por objeto limitar, menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos; o bien afectar la equidad en los procesos electorales locales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JULIO DE 2018)</small>
+
+IX. Cualesquiera otras formas análogas que por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 9°.
 
@@ -227,9 +231,9 @@ II. En el laboral y docente;
 
 III. En el social;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-IV. En el de las instituciones; y
+IV. En el de las instituciones y en servicio público; y
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -262,6 +266,10 @@ La violencia de género contra las mujeres en el ámbito social, comprende los a
 ###### Artículo 15.
 
 La violencia de género contra las mujeres en el ámbito institucional, comprende los actos y omisiones de las y los servidores públicos del Estado o de los Municipios que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+En los Poderes Ejecutivo, Legislativo y Judicial, así como en los órdenes estatal y municipal, a través de los cuales se lleve a cabo el ejercicio del servicio público, todos los servidores públicos tienen la obligación de salvaguardar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia política de género.
 
 ###### Artículo 16.
 
@@ -1404,3 +1412,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se exhorta a los Ayuntamientos del Estado a armonizar sus disposiciones reglamentarias con la presente reforma dentro de los 180 días contados a partir de la entrada en vigencia de la misma, a fin de implementar mecanismos para sancionar el acoso callejero.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 336.- SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 8°, Y LA FRACCIÓN IV DEL ARTÍCULO 9°; ASÍ COMO SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 8°, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 15, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
