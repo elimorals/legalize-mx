@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-tecnologica-del-norte-11384
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-03-15"
-last_updated: "2016-10-18"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Estatuto publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de marzo de 2016.
 
 MIGUEL MÁRQUEZ MÁRQUEZ, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II, III y XXVI y 79 de la Constitución Política para el Estado de Guanajuato y en observancia a lo dispuesto por los artículos 6o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O·N S I D E R A N D O…
+C O·N S I D E R A N D O
+
+[...]
 
 Por lo expuesto y con fundamento en las disposiciones legales señaladas, he tenido a bien expedir el siguiente:
 
@@ -153,7 +155,9 @@ III. Direcciones de Áreas;
 
 IV. Subdirecciones; y
 
-V. El Órgano de Vigilancia.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+V. El Órgano Interno de Control.
 
 Personal de apoyo y personal para proyectos
 
@@ -293,7 +297,9 @@ XIV. Dar atención a instancias federales, estatales, municipales y privadas en 
 
 XV. Desempeñar las comisiones que le asigne quien sea titular de la Rectoría y mantenerlo informado sobre el desarrollo de sus actividades;
 
-XVI. Atender cualquier revisión o auditoría practicadas a su área, por el Sistema de Gestión de Calidad y el Órgano de Vigilancia, y dar respuesta oportuna a las no conformidades, observaciones y recomendaciones;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XVI. Atender cualquier revisión o auditoría practicadas a su área, por el Sistema de Gestión de Calidad y el Órgano Interno de Control, y dar respuesta oportuna a las no conformidades, observaciones y recomendaciones;
 
 XVII. Proporcionar a las demás unidades administrativas de la Universidad, la información necesaria para el desarrollo de sus actividades;
 
@@ -467,7 +473,9 @@ XXVI. Participar en la atención de temas surgidos de la relación con el sindic
 
 XXVII. Estructurar planes y programas del trabajo relacionados con el uso y abastecimiento oportuno de los recursos monetarios, materiales, equipo de transporte, instalaciones y personal para todas las unidades administrativas;
 
-XXVIII. Dar atención y desahogo a las recomendaciones y sugerencias que emitan los órganos de control interno y fiscalización competentes; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XXVIII. Dar atención y desahogo a las recomendaciones y sugerencias que emitan el Órgano Interno de Control y los Órganos de fiscalización competentes; y
 
 XXIX. Dar atención y llevar control de los servicios que son suministrados como agua, electricidad, mantenimiento, seguridad institucional, así como los concesionados tales como cafetería, fotocopiado, y cualquier otro.
 
@@ -543,7 +551,9 @@ XII. Suministrar la información bajo su control que sea requerida por otras ár
 
 XIII. Desempeñar las comisiones que le sean asignadas e informar sobre el desarrollo y alcance de las mismas;
 
-XIV. Atender cualquier auditoría practicada a su área por el Sistema de Gestión de Calidad y el Órgano de Vigilancia, y responder respectivamente, con acciones preventivas y correctivas, o a observaciones y recomendaciones;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XIV. Atender cualquier auditoría practicada a su área por el Sistema de Gestión de Calidad y el Órgano Interno de Control, y responder respectivamente, con acciones preventivas y correctivas, o a observaciones y recomendaciones;
 
 XV. Participar en los comités, consejos y grupos de trabajo institucionales a los que sea nombrado o comisionado;
 
@@ -1221,7 +1231,7 @@ VI. Coordinar el proceso de titulación y la emisión de los documentos correspo
 
 VII. Ejecutar el proceso de estímulos y apoyos educativos internos para el alumnado de acuerdo a la normativa vigente;
 
-VIII. Dirigir las actividades de asignación de becas externas a los alumnos acreedores, y apoyar en las gestiones para este fin;
+VIII. Dirigir las actividades de asignación de becas externas o los alumnos acreedores, y apoyar en las gestiones para este fin;
 
 IX. Suscribir los certificados y constancias de estudios del alumnado, ya sean parciales o finales en coordinación con las Direcciones de Áreas Académicas que corresponda;
 
@@ -1303,47 +1313,19 @@ XI. Colaborar en los estudios del Sistema de Información sobre Vinculación de 
 
 La Universidad contará con Jefaturas y Coordinaciones para sus operaciones específicas. Su número dependerá del presupuesto asignado por la autoridad. Estos puestos deberán ser asignados mediante concurso, preferentemente interno, al personal que tenga el perfil y garantice eficacia. Su denominación, requisitos para el perfil sus funciones y otros aspectos, serán determinados en el Manual General de Organización.
 
-### Capítulo XV. Órgano de Vigilancia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
 
-Atribuciones de la Contraloría Interna
+### Capítulo XV. Órgano Interno de Control
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Órgano Interno de Control
 
 ###### Artículo 77.
 
-A quien sea titular de la contraloría interna le corresponden las atribuciones siguientes:
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros de la Universidad, con el fin de determinar su correcto desempeño.
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-I. Elaborar, en coordinación con la Rectoría y las áreas directivas, la propuesta del Programa Anual de Auditorías y remitirla a la Secretaría responsable del control interno del Ejecutivo, para su aprobación;
-
-II. Vigilar que en el desarrollo de sus funciones quienes sean titulares de las unidades administrativas se apeguen a las disposiciones legales aplicables, para lo cual capacitará y orientará preventivamente;
-
-III. Practicar auditorías a las unidades administrativas con el fin de verificar la eficacia y transparencia en sus operaciones así como el cumplimiento de los programas, objetivos y metas presupuestadas;
-
-IV. Evaluar el ejercicio del presupuesto asignado, para establecer indicadores de eficiencia, efectividad y economía;
-
-V. Analizar e interpretar los estados financieros para determinar el correcto ejercicio del presupuesto, y notificar al Consejo el estatus de los mismos;
-
-VI. Coordinar y orientar los procesos de entrega-recepción de las personas servidoras públicas de la Universidad, interviniendo para su supervisión de acuerdo a la normativa aplicable;
-
-VII. Atender y tramitar las quejas y denuncias que se interpongan ante ésta en contra de las personas servidoras públicas de la Universidad, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
-
-VIII. Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
-
-IX. Fiscalizar los recursos federales ejercidos por la Universidad derivados de los acuerdos o convenios respectivos, en su caso;
-
-X. Verificar que se cuente con el registro e inventario actualizado de los bienes muebles e inmuebles;
-
-XI. Establecer los sistemas necesarios de información, control y seguimiento de las recomendaciones derivadas de las evaluaciones o la gestión universitaria, para asegurar su cumplimiento;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-XII. Informar periódicamente al Consejo y a la Secretaría responsable del control interno del Ejecutivo sobre el desempeño de sus funciones; y
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-XIII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera quien sea titular de la Secretaría responsable del control interno del Ejecutivo.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Reestructura de la Universidad, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ### Capítulo XVI. Órganos Colegiados y Consultivos
 
@@ -1576,3 +1558,15 @@ P.O. 18 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NUMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL".]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
