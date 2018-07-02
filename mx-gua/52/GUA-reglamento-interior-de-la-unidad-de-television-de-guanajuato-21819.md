@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-unidad-de-television-de-guanajuato-21
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2006-09-12"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA UNIDAD DE TELEVISION DE GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA UNIDAD DE TELEVISION DE GUANAJUATO
+REGLAMENTO INTERIOR DE LA UNIDAD DE TELEVISIÓN DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Sexta Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -31,7 +31,9 @@ AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
 Juan Carlos Romero Hicks, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III y 79 de la Constitución Política del Estado de Guanajuato; y en observancia de lo dispuesto por los artículos 2o, 3o, 9o y 38 de la Ley Orgánica del Poder Ejecutivo para el Estado, y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -99,9 +101,9 @@ VIII.- Coordinación de Imagen;
 
 IX.- Coordinación de Relaciones Institucionales y Mercadotecnia; y
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-X.- Contraloría Interna.
+X. Órgano Interno de Control.
 
 ###### Artículo 6o.
 
@@ -201,7 +203,7 @@ XVI.- Buscar otras fuentes de recursos, fuera de las asignadas por el Congreso d
 
 XVII.- Buscar en el mercado televisivo, nacional e internacional, material grabado para acrecentar el acervo de programas;
 
-XVIII.- Ejercer la facultad de firmar contratos de adquisición de derechos de programas televisivos nacionales e internacionales; y (sic)
+XVIII.- Ejercer la facultad de firmar contratos de adquisición de derechos de programas televisivos nacionales e internacionales; y
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -367,9 +369,11 @@ II.- Asesorar y defender a la UTEG en asuntos de carácter jurídico;
 
 III.- Elaborar y dar seguimiento a convenios, contratos y acuerdos en los que la UTEG sea parte; instaurar los procedimientos de renovación, rescisión o de terminación de los mismos; así como promover los mecanismos internos y gestionar lo conducente para mantener vigentes y dar seguimiento a los diferentes tipos de permisos y derechos que apliquen incluyendo de producción, de transmisión y de derechos de autor entre otros, procurando siempre salvaguardar los intereses del organismo;
 
-IV.- Tramitar y resolver en su caso los procedimientos administrativos disciplinarios formulados al interior del organismo, previo acuerdo con el Director General;
+IV.- (DEROGADA, P.O. 2 DE JULIO DE 2018)
 
-V.- Fungir como unidad de enlace del organismo ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+V.- Fungir como unidad de enlace del organismo ante la Unidad de Transparencia y Archivos del Poder Ejecutivo;
 
 VI.- Proporcionar la información y la cooperación que le sea requerida, por las dependencias del Gobierno Federal, Estatal y Municipal, según corresponda;
 
@@ -431,45 +435,21 @@ VIII.- Planear, organizar y dar seguimiento al desarrollo institucional de la UT
 
 IX.- Las demás que le confiera el Director General de la UTEG.
 
-### CAPÍTULO CUARTO. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
+
+### CAPÍTULO CUARTO. ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 12.
 
-El órgano de vigilancia de UTEG tendrá el carácter de Contraloría Interna, integrada de conformidad con lo establecido de su Decreto de Reestructuración.
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del UTEG, con el fin de determinar su correcto desempeño.
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 13.
 
-La Contraloría Interna además de las facultades conferidas en el Decreto de Reestructuración de UTEG, tendrá las siguientes:
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-I.- Elaborar el Programa Anual de Auditoria y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría de la Gestión Pública;
-
-II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la UTEG se apeguen a las disposiciones legales aplicables;
-
-III.- Practicar auditorias a las unidades administrativas de UTEG, con el fin de verificar la eficacia y transparencia de sus operaciones así como, el cumplimiento de los programas, objetivos y metas;
-
-IV.- Evaluar el ejercicio del presupuesto asignado a la UTEG, para establecer indicadores de eficiencia, efectividad y economía con relación a sus programas, metas y objetivos;
-
-V.- Efectuar el análisis e interpretación de los estados financieros de la UTEG para determinar el correcto ejercicio de su presupuesto;
-
-VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de calidad, en los servicios que ofrece la UTEG;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-VII.- Atender y tramitar las quejas y denuncias que se interpongan ante ésta, en contra de los servidores públicos de la UTEG, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, así como someter a consideración del Titular de la Secretaría de la Gestión Pública el proyecto de resolución de las mismas;
-
-VIII.- Intervenir en los procesos de adjudicación, en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato;
-
-IX.- Fiscalizar los recursos federales ejercidos por el Organismo derivados de os acuerdos o convenios respectivos, en su caso;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-X.- Informar periódicamente al Consejo Directivo y a la Secretaría de la Gestión Pública del desarrollo de sus funciones; y
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-XI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría de la Gestión Pública.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación del UTEG, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ### CAPÍTULO QUINTO. DE LAS SUPLENCIAS Y LICENCIAS
 
@@ -526,3 +506,15 @@ P.O. 12 DE SEPTIEMBRE DE 2006.
 Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto Gubernativo.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL".]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
