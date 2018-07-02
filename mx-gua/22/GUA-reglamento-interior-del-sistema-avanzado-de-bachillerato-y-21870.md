@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-sistema-avanzado-de-bachillerato-y-2187
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2016-10-18"
+last_updated: "2018-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL SISTEMA AVANZADO DE BACHILLERATO Y EDUCACIÓN SUPERIOR EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -147,6 +147,10 @@ VIII.- Dirección de Desarrollo Humano y Organizacional:
 
 A) Coordinación de Recursos Humanos.
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+IX. Órgano Interno de Control.
+
 ###### ARTÍCULO 7o.
 
 Al frente de las Direcciones y de las Coordinaciones habrá un Director y un Coordinador respectivamente, quienes podrán auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto del SABES.
@@ -221,7 +225,7 @@ I.- Diseñar con la participación de alumnos, Asesores y Tutores Educativos, Co
 
 II.- Garantizar que cada Centro de los Subsistemas del SABES cuente con su proyecto educativo;
 
-III.- Dar seguimiento a la instrumentación y funcionamiento de los modelas educativos, planes y programas de estudio de los Subsistemas y coordinadamente con las demás direcciones del SABES, actualizarlos o modificarlos conforme a las necesidades que se presenten;
+III.- Dar seguimiento a la instrumentación y funcionamiento de los modelos educativos, planes y programas de estudio de los Subsistemas y coordinadamente con las demás direcciones del SABES, actualizarlos o modificarlos conforme a las necesidades que se presenten;
 
 IV.- Formular metodologías para el aprendizaje, acordes con los modelos educativos y plan curricular de los diferentes Subsistemas del SABES;
 
@@ -619,9 +623,9 @@ II.- Acordar con el Director General, los asuntos relevantes encargados a la Dir
 
 III.- Proponer al Director General, los manuales, acuerdos y circulares del ámbito de competencia de la Dirección de Administración y Finanzas;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-IV.- Establecer las directrices de la Dirección de Administración y Finanzas e implementar los Programas Operativos Anuales para su instrumentación, de conformidad con las políticas, objetivos y prioridades que señalen las Secretarías de Educación, de Finanzas, Inversión y Administración y de la Secretaría responsable del control interno del Ejecutivo, así como del Director General del SABES;
+IV.- Establecer las directrices de la Dirección de Administración y Finanzas e implementar los Programas Operativos Anuales para su instrumentación, de conformidad con las políticas, objetivos y prioridades que señalen las Secretarías de Educación, de Finanzas, Inversión y Administración y de la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, así como del Director General del SABES;
 
 V.- Proponer al Director General, las normas, políticas y procedimientos respecto a la administración de:
 
@@ -637,9 +641,9 @@ VI.- Someter a consideración del Director General, en coordinación con las dem
 
 VII.- Integrar y presentar anualmente al Director General, los anteproyectos de Presupuesto de Ingresos y Egresos del SABES;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-VIII.- Informar a las Secretarías de Educación, de Finanzas, Inversión y Administración y a la Secretaría responsable del control interno del Ejecutivo, así como al Congreso Estatal, de acuerdo con la legislación vigente y cuando éstos lo soliciten, la situación que guarda el ejercicio del presupuesto del SABES;
+VIII. Informar a las Secretarías de Educación, de Finanzas, Inversión y Administración y a la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, así como al Congreso Estatal, de acuerdo con la legislación vigente y cuando éstos lo soliciten, la situación que guarda el ejercicio del presupuesto del SABES;
 
 IX.- Intervenir en los convenios que celebre la Dirección General del SABES, cuando se incluyan asuntos relativos a la competencia de la Dirección de Administración y Finanzas;
 
@@ -789,47 +793,21 @@ Los Patronatos Comunitarios del SABES serán promovidos por los Asesores Educati
 
 Los Patronatos Comunitarios del SABES estarán conformados por un presidente, un secretario, un tesorero y cinco vocales, quienes resultarán electos en asamblea promovida por los propios vecinos, las autoridades legales de la comunidad y los Asesores Educativos y sus respectivos coordinadores.
 
-### CAPÍTULO SEXTO. DE LA CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
 
-###### ARTÍCULO 51.
+### CAPÍTULO SEXTO. ÓRGANO INTERNO DE CONTROL
 
-El órgano de vigilancia del SABES, tendrá el carácter de Contraloría Interna, integrada de conformidad con lo establecido en el Decreto.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
-###### ARTÍCULO 52.
+###### Artículo 51.
 
-La Contraloría Interna, además de las facultades conferidas en el Decreto, tendrá las siguientes:
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del SABES, con el fin de determinar su correcto desempeño.
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
-I.- Elaborar el programa anual de auditoría y remitirlo al Titular de la Secretaría responsable del control interno del Ejecutivo para su aprobación; así como coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría responsable del control interno del Ejecutivo;
+###### Artículo 52.
 
-II.- Vigilar que en el desarrollo de sus funciones, las unidades administrativas del SABES se apeguen a las disposiciones legales aplicables;
-
-III.- Practicar auditorias a las unidades administrativas del SABES, con el fin de verificar la eficacia y transparencia en sus operaciones así, como el cumplimiento de los programas, objetivos y metas;
-
-IV.- Evaluar el ejercicio del presupuesto asignado al SABES, para establecer indicadores de eficiencia, efectividad y economía con relación a sus programas, metas y objetivos;
-
-V.- Efectuar el análisis e interpretación de los estados financieros del SABES para determinar el correcto ejercicio de su presupuesto;
-
-VI.- Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el SABES;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-VII.- Recibir las quejas y denuncias que se interpongan ante ella en contra de los servidores públicos de la Universidad, conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y, en su caso, canalizarlas a la Secretaría responsable del control interno del Ejecutivo;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-VIII.- Intervenir en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Contrataciones Públicas para el Estado de Guanajuato;
-
-IX.- Fiscalizar los recursos federales ejercidos por el SABES derivados de los acuerdos o convenios respectivos, en su caso;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-X.- Informar periódicamente al Consejo Directivo y a la Secretaría responsable del control interno del Ejecutivo del desarrollo de sus funciones; y
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
-
-XI.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquéllas que le confiera el Titular de la Secretaría responsable del control interno del Ejecutivo.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación del SABES, así como las que les (sic) señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ### CAPÍTULO SÉPTIMO. DEL CONSEJO CONSULTIVO
 
@@ -914,3 +892,15 @@ P.O. 18 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR".]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
