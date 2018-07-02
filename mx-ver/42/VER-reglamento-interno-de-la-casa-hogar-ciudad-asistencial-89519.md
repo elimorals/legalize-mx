@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interno-de-la-casa-hogar-ciudad-asistencial-89519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-22"
-last_updated: "2012-08-22"
+last_updated: "2018-07-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERNO DE LA CASA HOGAR CIUDAD ASISTENCIAL CONECALLI EN EL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL CENTRO DE ASISTENCIA SOCIAL CIUDAD ASISTENCIAL CONECALLI, PUBLICADO EN LA G.O. 2 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 REGLAMENTO INTERNO DE LA CASA HOGAR CIUDAD ASISTENCIAL CONECALLI DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2018 (SIN EFECTOS).
 
 Reglamento publicado el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 22 de agosto de 2012.
 
@@ -105,7 +107,7 @@ IV. Por abuso sexual;
 
 V. Por encontrarse en orfandad total;
 
-VI. Porque sus padres se encuentren privados de su libertad:
+VI. Porque sus padres se encuentren privados de su libertad;
 
 VII. A petición o mandamiento del Ministerio Público;
 
@@ -255,7 +257,7 @@ Durante el tiempo que los Albergados atendidos en la Casa Hogar, permanezcan en 
 
 3. La subdirección supervisará la ejecución de los programas, planes y acciones establecidas para el tratamiento autorizado y acordado con las áreas;
 
-4. Todo el personal que participa en el plan de atención integral, registrará diariamente sus actividades en las bitácoras, mismas que remitirán a la subdirección para su revisión; y (sic)
+4. Todo el personal que participa en el plan de atención integral, registrará diariamente sus actividades en las bitácoras, mismas que remitirán a la subdirección para su revisión; y
 
 5. Para las acciones de recreación, esparcimiento y otras, que requieran salir de las instalaciones de la Casa Hogar, se deberá solicitar previamente autorización del Director o en su ausencia del Procurador del Sistema DIF Estatal, por escrito detallando los nombres de todos y cada uno de los Albergados que salen, así como de sus asistentes educativas responsables del acompañamiento, cuidado y protección durante el trayecto de ida y vuelta.
 
@@ -834,3 +836,17 @@ Doctor Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL CENTRO DE ASISTENCIA SOCIAL CIUDAD ASISTENCIAL CONECALLI”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Queda sin efectos el Reglamento Interno de la Casa Hogar Ciudad Asistencial CONECALLI, publicado en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, Número Ext. 284, del 22 de agosto de 2012.
+
+Tercero. El protocolo de atención e intervención mencionado en el artículo 53, deberá expedirse dentro de los noventa días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+Cuarto. Aprobado mediante Acuerdo Núm. JG-001/2/18-0, en la Segunda Sesión Ordinaria del ejercicio 2018, de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Veracruz.
