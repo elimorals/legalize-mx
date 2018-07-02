@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-universidad-politecnica-de-82253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-22"
-last_updated: "2016-10-18"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITÉCNICA DE PÉNJAMO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 22 de julio de 2011.
 
@@ -127,7 +127,9 @@ IV. Directores de Programa Académico;
 
 V. Abogado General; y
 
-VI. Contraloría Interna.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VI. Órgano Interno de Control.
 
 ### Capítulo IV. Rector
 
@@ -627,13 +629,19 @@ VII. Las demás que establezcan otras normas y disposiciones reglamentarias de l
 
 Universidad.
 
-### Capítulo IX. Órgano de Vigilancia
+(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018]
 
-Atribuciones de la Contraloría Interna
+### Capítulo IX. Órgano Interno de Control
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2018)</small>
+
+Órgano Interno de Control
 
 ###### Artículo 32.
 
-(DEROGADO, P.O. 18 DE OCTUBRE DE 2016)
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros de la Universidad, con el fin de determinar su correcto desempeño.
+
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación de la Universidad, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 T R A N S I T O R I O S
 
@@ -668,3 +676,15 @@ P.O. 18 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR.”]
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
