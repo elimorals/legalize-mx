@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-salud-21738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-25"
-last_updated: "2001-06-25"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 25 de junio de 2001.
 
@@ -57,7 +57,7 @@ La Secretaría de Salud tiene a su cargo el despacho de los asuntos que le encom
 
 Para el estudio, planeación, coordinación, despacho y ejecución de los asuntos que le competen, la Secretaría de Salud contará con la siguiente estructura organizacional:
 
-l.- Despacho del Secretario.
+I.- Despacho del Secretario.
 
 II.- Secretaría Particular.
 
@@ -91,9 +91,7 @@ V.- Coordinaciones de:
 
 V.1.- Asuntos Jurídicos;
 
-> <small>(F. DE E., P.O. 21 DE MARZO DE 2002)</small>
-
-V.2.- Contraloría Interna;
+V. 2.- (DEROGADA, P.O. 2 DE JULIO DE 2018)
 
 > <small>(F. DE E., P.O. 21 DE MARZO DE 2002)</small>
 
@@ -263,6 +261,10 @@ IX.4.- Sub-Comité de Adquisiciones, Arrendamientos y Contratación de Servicios
 
 La Secretaría de Salud y el Instituto de Salud Pública de Estado de Guanajuato (ISAPEG), integrarán una sola estructura orgánica, misma que se conforma en los términos del artículo anterior.
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+Acorde a los (sic) señalado en el párrafo anterior, las atribuciones que para los Órganos Internos de Control prevén la Ley Orgánica del Poder Ejecutivo, la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y demás disposiciones normativas aplicables, estarán a cargo del Órgano Interno de Control que se desarrolla en el Reglamento Interior del Instituto de Salud Pública del Estado de Guanajuato (ISAPEG).
+
 ###### Articulo 5o.
 
 Las Direcciones Generales llevarán a cabo la planeación dirección, organización, coordinación y evaluación del desempeño de las funciones de las unidades administrativas a su cargo mediante el apoyo de las Direcciones que correspondan, para el ejercicio de las facultades que en cada materia les corresponde.
@@ -281,9 +283,11 @@ Para el mejor trámite y resolución de los asuntos a su cargo, el Secretario de
 
 ### CAPÍTULO PRIMERO. DE LAS FACULTADES DEL SECRETARIO
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
 ###### Artículo 8o.
 
-La representación, trámite y resolución de los asuntos de la Secretaría de Salud, corresponden originalmente al Secretario, quien podrá delegar sus facultades en servidores públicos subalternos con excepción de aquéllas que tengan el carácter de no delegables.
+La representación legal, trámite y resolución de los asuntos de la Secretaría de Salud, corresponden originalmente al Secretario, quien podrá delegar sus facultades en servidores públicos subalternos con excepción de aquéllas que tengan el carácter de no delegables.
 
 ###### Artículo 9o.
 
@@ -335,7 +339,9 @@ XXII.- Proponer al Gobernador del Estado, las modificaciones a la estructura org
 
 XXIII.- Conducir el proceso de control de la Secretaría de Salud;
 
-XXIV.- Representar a la Secretaría de Salud en los litigios en los que sea parte, así como otorgar poder general para pleitos y cobranzas;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XXIV.- Otorgar poder general para pleitos y cobranzas;
 
 XXV.- Proponer al Gobernador del Estado, por conducto de la Secretaría de Gobierno, los proyectos de leyes, reglamentos, decretos, acuerdos y normas oficiales en materia de salubridad local, así como sus reformas o adiciones, competencia de la Secretaría de Salud;
 
@@ -410,3 +416,17 @@ JUAN MANUEL OLIVA RAMÍREZ.
 EL SECRETARIO DE SALUD
 
 ECTOR JAIME RAMÍREZ BARBA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
