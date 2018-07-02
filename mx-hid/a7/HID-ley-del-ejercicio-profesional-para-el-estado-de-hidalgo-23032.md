@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-23032"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-31"
-last_updated: "2016-12-31"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2001.
 
@@ -133,27 +133,33 @@ Las Instituciones de Educación Media Superior y Superior que pertenecen al Sist
 
 ### CAPITULO IV. DEL SERVICIO SOCIAL ESTUDIANTIL
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 8.
 
 El cumplimiento del servicio social estudiantil es obligatorio, deberá ser realizado, como requisito previo, para obtener el título profesional y que su función se relacione con el perfil académico.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2015)</small>
-
-Las personas mayores de 60 años quedan exceptuadas del cumplimiento de lo ordenado en el presente Capítulo conforme a lo dispuesto en el Reglamento respectivo.
+Las personas mayores de 60 años y los impedidos por enfermedad grave, quedan exceptuadas del cumplimiento de lo ordenado en el presente Capítulo conforme a lo dispuesto en el Reglamento respectivo.
 
 ###### ARTICULO 9.
 
 Para los efectos de esta Ley, se entiende por servicio social estudiantil el conjunto de actividades realizadas por estudiantes en beneficio de la sociedad y el Estado.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 10.
 
 El servicio social estudiantil tendrá como objetivos fundamentales:
 
-I.- Contribuir a la solución de necesidades de la sociedad y del Estado;
+I.- Contribuir a la solución de las necesidades de la sociedad, además de procurar desarrollar proyectos basados en las funciones sustantivas de la actividad del Estado;
 
-II.- Propiciar la vinculación de su disciplina con el campo profesional correspondiente y
+II.- Propiciar la vinculación de su disciplina con el campo profesional correspondiente, así como la adquisición de conocimientos en los sectores público, privado, educativo o social; y
 
-III.- Fomentar en los estudiantes una conciencia de responsabilidad social así como una actitud reflexiva, crítica y constructiva ante el entorno social.
+III.- Fomentar en los estudiantes una conciencia de responsabilidad social y concientización de su compromiso ante la sociedad, generando con ello, una actitud reflexiva, crítica y constructiva ante el entorno social.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+ARTICULO 10 BIS.- El servicio social podrá realizarse en los sectores público, privado, educativo o social, en los términos de la fracción XI del artículo 13 de la Ley de Educación Estado de Hidalgo.
 
 ###### ARTICULO 11.
 
@@ -694,3 +700,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 449.- QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
