@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-del-campo-antes-90629"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-21"
-last_updated: "2015-10-20"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROALIMENTARIO Y RURAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO DE GUANAJUATO EL 20 DE OCTUBRE DE 2015.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -116,6 +114,10 @@ d) Coordinación de Promoción y Difusión de Mercados; y
 e) Coordinación de Capacitación Técnica.
 
 V. Órganos desconcentrados y organismos descentralizados.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VI. Órgano Interno de Control.
 
 Ejercicio de facultades
 
@@ -719,15 +721,217 @@ Coordinación de organismos descentralizados y desconcentrados
 
 La Secretaría ejercerá las funciones de coordinadora de los organismos descentralizados y desconcentrados que le estén sectorizados atendiendo a su objeto y facultades en los términos de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-## Título Octavo. Suplencias, licencias y Relaciones Laborales
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2018)</small>
+
+## Título Octavo. Órgano Interno de Control
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2018)</small>
+
+### Capítulo Único. Atribuciones y estructura
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Naturaleza
+
+###### Artículo 31 Bis.
+
+El Órgano Interno de Control es el responsable de vigilar, auditar, evaluar, investigar, substanciar y resolver, el uso de los recursos materiales, financieros y humanos, así como calificar las faltas administrativas no graves cometidas por los servidores públicos de la Secretaría.
+
+Dependerá jerárquica y funcionalmente de la Secretaría del Poder Ejecutivo con atribuciones de Control Interno y presupuestalmente de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Integración y función
+
+###### Artículo 31 Ter.
+
+El Órgano Interno de Control estará integrado por las personas que designe la Secretaría del Poder Ejecutivo con atribuciones de Control Interno para llevar a cabo las funciones de control interno y auditoría gubernamental; además para realizar la investigación, substanciación y resolución de las faltas administrativas no graves de los servidores públicos de la Secretaría, sin que puedan recaer las acciones de investigación y substanciación en una misma persona.
+
+Respecto de las faltas administrativas graves cometidas por los servidores públicos, por las personas que fungieron como servidores públicos y de las faltas administrativas cometidas por los particulares, establecidas en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato; el Órgano Interno de Control será competente para investigar, iniciar el procedimiento de responsabilidad administrativa y sustanciar la audiencia inicial.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Atribuciones genéricas
+
+###### Artículo 31 Quater.
+
+El titular del Órgano Interno de Control, además de las atribuciones conferidas en la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, tendrá las siguientes:
+
+l. Presentar al titular de la Secretaría del Poder Ejecutivo con atribuciones de control interno, un plan anual de trabajo, para su aprobación durante el último trimestre del ejercicio inmediato anterior al que se va a ejecutar;
+
+II. Coordinar la ejecución de sus operaciones con las unidades administrativas que de acuerdo a su competencia le señale la Secretaría del Poder Ejecutivo con atribuciones de Control Interno;
+
+III. Acordar, coordinar e informar a la Secretaría del Poder Ejecutivo con atribuciones de Control Interno de los avances de su plan anual de trabajo así como atender e implementar las acciones que ésta instruya;
+
+IV. Expedir certificaciones de los documentos existentes en los archivos de la unidad administrativa a su cargo, así como certificar copias de los documentos originales, previo cotejo, que le sean proporcionados dentro de los procedimientos de su competencia, para su devolución;
+
+V. Informar periódicamente a la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, del desarrollo de sus funciones;
+
+VI. Solicitar acceso a sistemas, información y documentación a la Secretaría, así como a cualquier ente público, federal, estatal y municipal, para el cumplimiento de sus atribuciones y en razón del grado de competencia respecto de sus funciones;
+
+VII. Vigilar que en el desarrollo de sus funciones, las unidades administrativas de la Secretaría, se apeguen a las disposiciones legales;
+
+VIII. Promover, difundir e instrumentar la aplicación de los lineamientos específicos y manuales que emita la Secretaría del Poder Ejecutivo con atribuciones de Control interno así como integrar disposiciones y criterios que impulsen la simplificación administrativa de la Secretaría;
+
+IX. Coadyuvar con la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, en la actualización del Registro Estatal Único de los Servidores Públicos Sancionados;
+
+X. Informar al Comité Coordinador del Sistema Estatal Anticorrupción, en el ámbito de su competencia, los avances y resultados obtenidos en la implementación de las acciones y mecanismos de coordinación que en términos de la Ley del Sistema Estatal Anticorrupción se establezcan;
+
+XI. Resolver los recursos de revocación; y
+
+XII. Las demás que le confieran otras disposiciones jurídicas y reglamentarias aplicables y las que le encomiende el titular de la Secretaría del Poder Ejecutivo con atribuciones de Control Interno.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Atribuciones en materia de control Interno
+
+###### Artículo 31 Quinquies.
+
+En materia de control interno, el Órgano Interno de Control, será competente para:
+
+l. Practicar auditorías a las unidades administrativas de la Secretaría, con el fin de verificar el cumplimiento al marco legal, así como el cumplimiento de sus programas, objetivos y metas;
+
+II. Vigilar, evaluar, auditar y revisar el correcto uso de los recursos humanos, materiales y financieros de la Secretaría;
+
+III. Fiscalizar los recursos federales ejercidos, derivados de los acuerdos o convenios respectivos, en su caso;
+
+IV. Evaluar el avance, diseño, resultados, metas e impacto de las acciones establecidas en los planes, programas, proyectos, procesos, y objetivos medidos a través de indicadores de eficacia, eficiencia y economía, y proponer en su caso, las medidas conducentes;
+
+V. Emitir el acuerdo de archivo de las evaluaciones y auditorías practicadas;
+
+VI. Participar en los procesos de entrega-recepción de la Secretaría, de conformidad con los ordenamientos jurídicos aplicables;
+
+VII. Supervisar los procesos de adquisición, enajenación, contratación, adjudicación, arrendamiento y prestación de servicios en los términos establecidos en las disposiciones legales y reglamentarias aplicables en materia;
+
+VIII. Requerir a las unidades administrativas de la Secretaría, información y documentación para cumplir con sus atribuciones, así como brindar la asesoría que requieran en el ámbito de su competencia;
+
+IX. Coadyuvar en la inscripción y actualización del Sistema de Evolución Patrimonial, de Declaración de Intereses y Constancia de Presentación de Declaración Fiscal de la información de los Servidores Públicos en el ámbito de su competencia;
+
+X. Brindar capacitación, asesoría y apoyo a los servidores públicos que lo requieran en materia de declaración de situación patrimonial y de intereses;
+
+XI. Verificar aleatoriamente las declaraciones patrimoniales, de intereses y constancias de presentación de declaración fiscal de los servidores públicos y realizar las acciones que resulten necesarias para dar vista, en su caso, a las áreas de investigación, substanciación y resolución, conforme a la Ley de Responsabilidades, para que determinen lo conducente en el ámbito de su competencia y expedir las certificaciones conducentes en caso de no existir anomalías en la verificación;
+
+XII. Solicitar la aclaración del origen de enriquecimiento en los casos en que la declaración de situación patrimonial de los declarantes refleje un incremento no justificado;
+
+XIII. Implementar acciones internas para orientar el criterio que en situaciones específicas deberán observar los servidores públicos, en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción, para prevenir las (sic) comisión u omisión de faltas administrativas y hechos de corrupción;
+
+XIV. Supervisar la implementación del sistema de control interno de la Secretaría, que se derive de los lineamientos que para tal efecto expida la Secretaría del Poder Ejecutivo con atribuciones de Control Interno;
+
+XV. Solventar las recomendaciones que haga el Comité Coordinador del Sistema Estatal Anticorrupción a las autoridades, informándole del seguimiento de las mismas;
+
+XVI. Presentar, de conformidad con los Lineamientos Generales de Control Interno para la Administración Pública del Estado de Guanajuato, un informe anual del resultado e impacto de las acciones específicas que se hayan implementado en los mecanismos generales de prevención, proponiendo las modificaciones que resulten procedentes;
+
+XVII. Supervisar que los servidores públicos observen el código de ética; y
+
+XVIII. Las demás que señalen las disposiciones legales y reglamentarias en la materia.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Atribuciones del área de Investigación
+
+###### Artículo 31 Sexies.
+
+De conformidad con lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, el titular del área de lnvestigación tiene las siguientes atribuciones:
+
+l. Investigar de oficio o derivado de auditorías y denuncias, los actos y omisiones de los servidores públicos o de las personas que fungieron como servidores públicos de la Secretaría y de los particulares, posiblemente constitutivos de faltas administrativas;
+
+II. Establecer y operar un sistema de información, con el objeto de definir indicadores;
+
+III. Dictar los acuerdos necesarios que correspondan en las investigaciones;
+
+IV. Calificar las faltas administrativas como graves o no graves;
+
+V. Emitir el informe de Presunta Responsabilidad Administrativa;
+
+VI. Formular y coadyuvar en las denuncias que se presenten ante la Fiscalía Especializada en Combate a la Corrupción o autoridad competente, cuando se tenga conocimiento de la comisión de delitos de este orden;
+
+VII. Requerir información, datos, documentos y apoyo para el cumplimiento de las atribuciones que le corresponden;
+
+VIII. Ordenar la práctica de visitas de verificación cuando se consideren necesarias para la investigación de probables faltas administrativas de su competencia;
+
+IX. Requerir información y documentación relacionada con los hechos objeto de la investigación a la Secretaría, así como a cualquier ente público, federal, estatal y municipal, o solicitarla a los particulares con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+X. Solicitar las medidas cautelares;
+
+XI. Impugnar en su caso, la abstención, por parte de las autoridades sustanciadoras o resolutoras, según sea el caso, de iniciar del (sic) procedimiento de responsabilidad administrativa o de imposición de sanciones administrativas a un servidor público;
+
+XII. Tramitar el Recurso de Inconformidad que se interponga con motivo de la calificación como no graves, de las faltas administrativas;
+
+XIII. Emitir recomendaciones de acato a los principios rectores del servicio público a las unidades administrativas de su ámbito de competencia, cuando se tenga conocimiento de alguna situación que así lo amerite;
+
+XIV. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
+
+XV. Verificar la situación o posible actualización de algún Conflicto de Interés, según la información proporcionada;
+
+XVI. Realizar el seguimiento de la evolución y la verificación de la situación patrimonial de los declarantes en el ámbito de su competencia;
+
+XVII. Solicitar la aclaración del origen de enriquecimiento en los casos en que la declaración de situación patrimonial de los declarantes refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidores públicos. En caso de no justificar la procedencia de dicho enriquecimiento, integrar el expediente correspondiente para su trámite;
+
+XVIII. Emitir, cuando proceda por falta de elementos, el acuerdo de conclusión y archivo del expediente de investigación;
+
+XIX. Presentar, en su caso, las denuncias ante el Ministerio Público, cuando el sujeto a la verificación de la evolución de su patrimonio no justifique la procedencia del incremento notoriamente desproporcionado de éste; y
+
+XX. Las demás que deriven de las disposiciones normativas aplicables en materia de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Atribuciones del área de Substanciación y Resolución
+
+###### Artículo 31 Septies.
+
+De conformidad con lo establecido en la Ley de. Responsabilidades Administrativas para el Estado de Guanajuato, el titular del área de Substanciación y Resolución tiene las siguientes atribuciones:
+
+l. Acordar sobre la admisión del o de los Informes de Presunta Responsabilidad Administrativa que presenten las autoridades investigadoras, y en su caso, formular los prevenciones al mismo, para que las subsanen;
+
+II. Iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa, cuando se trate de actos u omisiones que hayan sido calificados como Faltas Administrativas no Graves;
+
+III. Iniciar, substanciar y remitir al Tribunal de Justicia Administrativa, las actuaciones originales del expediente para la continuación del procedimiento y su resolución por dicho Tribunal, cuando se trate de Faltas Administrativas Graves y de faltas de particulares;
+
+IV. Acordar la acumulación de los procedimientos de responsabilidad administrativa cuando sea procedente;
+
+V. Tramitar y resolver los incidentes;
+
+VI. Decretar y hacer cumplir las medidas de apremio para el cumplimiento de sus determinaciones y para mantener el orden durante la celebración de las audiencias;
+
+VII. Ordenar el emplazamiento del presunto responsable, para que comparezca personalmente a la celebración de la audiencia inicial, citando a las demás partes que deban concurrir;
+
+VIII. Realizar las notificaciones del procedimiento de responsabilidad administrativa en los términos de las disposiciones jurídicas aplicables;
+
+IX. Admitir y substanciar los Recursos que se interpongan en el ámbito de su competencia;
+
+X. Imponer sanciones por Faltas Administrativas no graves y ejecutarlas;
+
+XI. Ordenar la realización de diligencias para mejor proveer;
+
+XII. Solicitar información y la colaboración a las autoridades de los tres ámbitos de gobierno, para el cumplimiento de sus atribuciones;
+
+XIII. Solicitar mediante exhorto o carta rogatoria la colaboración de las autoridades competentes, cuando la preparación o desahogo de pruebas deba tener lugar fuera de su ámbito de competencia territorial;
+
+XIV. Auxiliarse del Ministerio Público o Instituciones Públicas de educación superior, con un dictamen o peritaje, sobre aquellos aspectos que estime necesarios para el esclarecimiento de los hechos;
+
+XV. Admitir y tramitar el Recurso de Revocación;
+
+XVI. Interponer el Recurso de Revisión ante el Tribunal de Justicia Administrativa del Estado de Guanajuato;
+
+XVII. Intervenir en el trámite de juicios, procedimientos y medios de impugnación en los que el Órgano Interno de Control sea parte y que sean materia de su competencia;
+
+XVIII. Realizar los trámites correspondientes para registrar las sanciones impuestas a los servidores públicos;
+
+XIX. Promover el resarcimiento de los daños y perjuicios a la Hacienda Pública o al patrimonio ocasionados por servidores públicos en el ámbito de su competencia;
+
+XX. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
+
+XXI. Presentar las denuncias ante el Ministerio Público cuando se tenga conocimiento de la comisión de algún delito; y
+
+XXII. Las demás que deriven de las disposiciones normativas aplicables en materia de responsabilidades administrativas.
+
+(REUBICADO [N. DE E. ANTES TÍTULO OCTAVO], P.O. 2 DE JULIO DE 2018)
+
+## Título Noveno. Suplencias, Licencias y Relaciones Laborales
 
 ### Capítulo I. Suplencias y licencias
 
 Mecanismo de suplencia
-
-### Capítulo II. Relaciones Laborales
-
-Normativa aplicable
 
 ###### Artículo 32.
 
@@ -740,6 +944,10 @@ Mecanismo de suplencia para servidores públicos de la Secretaría
 ###### Artículo 33.
 
 Cuando se ausenten los demás titulares de las unidades administrativas de la Secretaría, estos podrán ser suplidos por el servidor público de nivel jerárquico inmediato inferior que de ellos dependa, con autorización del Secretario.
+
+### Capítulo II. Relaciones Laborales
+
+Normativa aplicable
 
 ###### Artículo 34.
 
@@ -778,3 +986,15 @@ P.O. 29 DE SEPTIEMBRE DE 2015.
 Inicio de Vigencia
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
