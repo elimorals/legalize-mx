@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-infraestructura-fisica-685
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-08"
-last_updated: "2009-05-08"
+last_updated: "2018-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE INFRAESTRUCTURA FISICA EDUCATIVA DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE INFRAESTRUCTURA FISICA EDUCATIVA DE GUANAJUATO
+REGLAMENTO INTERIOR DEL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de mayo de 2009.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones III y XXIV y 79 de la Constitución Política para el Estado de Guanajuato, y en observancia de lo dispuesto por los artículos 2o. y 9o. de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, tengo a bien emitir el siguiente:
 
@@ -75,7 +77,9 @@ a) Coordinación de Diseño y Normas Técnicas;
 
 V. Dirección Jurídica; y
 
-VI. Contraloría Interna.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VI. Órgano Interno de Control
 
 El INIFEG contará con el personal que requieran las necesidades del servicio y permita su presupuesto.
 
@@ -331,35 +335,19 @@ XII. Instrumentar y operar un padrón de contratistas especializado en infraestr
 
 XIII. Las demás que le confiera el Director General.
 
-### Capítulo VII. Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
 
-Facultades de la Contraloría Interna
+### Capítulo VII. Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Órgano Interno de Control
 
 ###### Artículo 14.
 
-La Contraloría Interna, además de las facultades previstas en el Decreto de creación, tendrá las siguientes:
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del INIFEG, con el fin de determinar su correcto desempeño.
 
-I. Elaborar el programa anual de auditoria y remitirlo al Titular de la Secretaría de la Gestión Pública para su aprobación, así como coordinar la ejecución de sus operaciones con las unidades que de acuerdo a su competencia le señale la Secretaría de la Gestión Pública;
-
-II. Vigilar que las unidades administrativas del lNIFEG se apeguen a las disposiciones legales aplicables en el desarrollo de sus funciones;
-
-III. Practicar auditorias a las unidades administrativas del INIFEG, con el fin de verificar la eficacia y transparencia en sus operaciones, así como el cumplimiento de los programas, objetivos y metas;
-
-IV. Evaluar el ejercicio del presupuesto asignado al INIFEG, para establecer indicadores de eficiencia, efectividad y economía en relación a sus programas metas y objetivos;
-
-V. Efectuar el análisis e interpretación de los estados financieros del INIFEG, para determinar el correcto ejercicio de su presupuesto;
-
-VI. Promover, difundir e instrumentar la aplicación de programas de simplificación administrativa y de mejoramiento de la calidad, en los servicios que ofrece el INIFEG;
-
-VII. Atender y tramitar las quejas y denuncias que se interpongan en contra de los servidores públicos del lNIFEG, conforme a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios; así como someter a consideración del Titular de la Secretaría de la Gestión Pública el proyecto de resolución de las mismas;
-
-VIII. Brindar asesoría en los procesos de adjudicación en materia de adquisiciones en los términos que establece la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
-
-IX. Fiscalizar, en su caso, los recursos federales ejercidos por el lNIFEG derivados de los acuerdos o convenios respectivos;
-
-X. Informar periódicamente al Consejo Directivo y a la Secretaría de la Gestión Pública del desarrollo de sus funciones; y
-
-XI. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular de la Secretaría de la Gestión Pública.
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación del INIFEG, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ### Capítulo VIII. Comité de Fallos
 
@@ -426,3 +414,17 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L. S. DIOSDADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL".]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
