@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2018-06-11"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1109,9 +1109,11 @@ Lesiones en riña. Si las Lesiones Dolosas fueron por motivo de Riña, se aplica
 
 Riña. Por Riña se entiende la contienda de obra entre dos o más personas, o la agresión física de una parte y la disposición material para contender de la otra, con el propósito de dañarse recíprocamente.
 
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 107.
 
-Homicidio y lesiones calificados. El Homicidio Doloso y las Lesiones Dolosas serán considerados como calificados,
+Homicidio y lesiones calificados. El Homicidio Doloso y las Lesiones Dolosas serán considerados como calificados:
 
 I. Cuando se cometan con:
 
@@ -1131,7 +1133,9 @@ III. Cuando la víctima se dedique al ejercicio de las labores periodísticas, y
 
 IV. Cuando el resultado sea asociado a la discriminación de la víctima;
 
-V. Cuando el responsable tenga relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+V. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo en línea recta, ascendiente o descendiente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, con la víctima;
 
 VI. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable; o
 
@@ -1593,7 +1597,9 @@ Se aplicarán de 2 a 4 años de prisión y de 100 a 300 días multa, y al pago t
 
 Robo Calificado. El Robo será Calificado cuando:
 
-I. Se cometa con uso de fuerza física o moral suficiente en contra de la víctima o sobre otra persona que la acompañe, o cuando se ejerza aquélla para proporcionarse la fuga o mantenerse con lo apropiado;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+I. Se cometa con medios violentos como armas o uso de violencia física o moral, suficiente en contra de la víctima o sobre otra persona que la acompañe, o cuando se ejerza aquélla para proporcionarse la fuga o mantenerse con lo apropiado;
 
 II. El objeto material del apoderamiento sea un expediente o algún documento de protocolo, oficina o archivo públicos, o de documento que contenga obligación, liberación o transmisión de derechos que obre en un expediente judicial;
 
@@ -1625,9 +1631,17 @@ XV. Se lleve a cabo bajo los supuestos establecidos en las Fracciones II o III d
 
 XVI. El objeto material del apoderamiento sean vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, asociados a un sistema de pagos y prestaciones laborales, emitidos por persona moral, utilizados para intercambiar o canjear bienes y servicios;
 
-XVII. Se lleve a cabo dentro de las instalaciones de templos o lugares destinados a culto religioso; o
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-XVIII. El objeto del apoderamiento sea sustraído del interior de las instalaciones de instituciones educativas públicas o privadas, o sea parte integrante de ellas.
+XVII. Se lleve a cabo dentro de las instalaciones de templos o lugares destinados a culto religioso;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XVIII. El objeto del apoderamiento sea sustraído del interior de las instalaciones de instituciones educativas públicas o privadas, o sea parte integrante de ellas; o
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XIX. Se cometa en contra de persona con discapacidad o de más de sesenta años de edad. Para los efectos de este Código se entiende por persona con discapacidad, aquella que por razón congénita o adquirida presenta una o más alteraciones funcionales de carácter físico, mental, intelectual o sensorial, ya sean permanentes o temporales, que impliquen desventajas considerables en su interacción con el entorno social.
 
 Al responsable de Robo Calificado se le aplicará hasta en una mitad más de los mínimos y máximos previstos para el tipo penal de Robo.
 
@@ -1807,7 +1821,9 @@ II. Ocupar un inmueble propio que se halle en poder de otra persona por alguna c
 
 III. Alterar términos o linderos de predios, o cualquier clase de señales o mojoneras, destinadas a fijar los límites de predios contiguos, tanto de dominio privado como de dominio público;
 
-IV. Desviar o hacer uso de las aguas propias o ajenas, en los casos en que la ley no lo permita, o hacer uso de un derecho real sobre aguas que no le pertenezcan, con perjuicio patrimonial de alguien.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+IV. Desviar o hacer uso de las aguas propias o ajenas, en los casos en que la ley no lo permita, o hacer uso de un derecho real sobre aguas que no le pertenezcan, con perjuicio patrimonial de alguien; o
 
 V. Ocupar de propia autoridad, por medio de la violencia física, furtivamente, de la amenaza o del engaño, instalaciones de una institución pública o privada destinada a prestar servicios públicos y se impida su prestación.
 
@@ -1951,13 +1967,17 @@ IX. Incumplir o dejar de realizar los actos o los protocolos necesarios para la 
 
 X. Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo;
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-XI. Practicar una cesárea, existiendo condiciones para el parto natural y sin obtener el consentimiento voluntario de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo; o
+XI. Practicar una cesárea, existiendo condiciones para el parto natural y sin obtener el consentimiento voluntario de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo;
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
 
-XII. Imponer cualquier método anticonceptivo, realice esterilización o cualquier intervención quirúrgica que impida la concepción, sin justificación médica de emergencia o sin consentimiento expreso de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo.
+XII. Imponer cualquier método anticonceptivo, realice esterilización o cualquier intervención quirúrgica que impida la concepción, sin justificación médica de emergencia o sin consentimiento expreso de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo; o
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+XIII. Practicar un procedimiento médico quirúrgico de especialidad sin contar con los requisitos establecidos en la Ley General de Salud.
 
 Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 50 a 200 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y de 6 meses a 3 años de inhabilitación para ejercer su profesión.
 
@@ -2040,6 +2060,10 @@ Al responsable de Uso de Documentos Falsos se le aplicarán de 1 a 5 años de pr
 Usurpación de profesiones. La Usurpación de Profesiones consiste en el ejercicio que se haga por el inculpado de los actos propios de una profesión, sin tener Título o autorización legal y se ostente como profesional de la materia.
 
 Al responsable de Usurpación de Profesiones se le aplicarán de 6 meses a 5 años de prisión y de 20 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Cuando el imputado cometa Usurpación de Profesiones realizando actos propios de la profesión médica, se le aplicarán de 3 a 7 años de prisión, de 100 a 500 días multa, al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ### CAPÍTULO X. Tipos Penales Protectores de la Administración Pública
 
@@ -2731,7 +2755,9 @@ No serán punibles las conductas descritas en este Artículo, si se trata de med
 
 ARTÍCULO 192 A.- Asedio Laboral. El Asedio laboral consiste en ejercer en el ámbito laboral, violencia psicológica de forma recurrente y sistemática, que cause afectación en su autoestima o seguridad, con el objeto de controlar, intimidar, humillar, someter o dominar a la persona, impidiendo el libre desarrollo de la actividad laboral.
 
-Al responsable de asedio laboral se le aplicará pena de 2 a 6 meses de prisión y de 50 a 100 días multa.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+
+Al responsable de asedio laboral se le aplicará pena de 2 a 6 meses de prisión y de 50 a 100 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 En caso de reincidencia o si la persona que realiza el acoso es superior jerárquico, la punibilidad descrita en el párrafo anterior, se aumentará hasta en una mitad en sus mínimos y máximos.
 
@@ -3210,3 +3236,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación.
 ###### ARTÍCULO SEGUNDO.
 
 La situación jurídica de las personas procesadas, sentenciadas y que estén compurgando una pena, así como los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán y resolverán con base en la norma vigente al momento en el que ocurrieron los hechos materia de ellos.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 332.- SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 107; LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 142; LA FRACCIÓN IV DEL ARTÍCULO 150; LAS FRACCIONES XI Y XII DEL ARTÍCULO 157; Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 192 A. ASÍ COMO SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 142; UNA FRACCIÓN XIII AL ARTÍCULO 157; Y UN TERCER PÁRRAFO AL ARTÍCULO 163, AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
