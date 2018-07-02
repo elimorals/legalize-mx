@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-museo-iconografico-del-quijote-23277"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-11"
-last_updated: "2004-02-03"
+last_updated: "2018-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL MUSEO ICONOGRAFICO DEL QUIJOTE
 
-REGLAMENTO INTERIOR DEL MUSEO ICONOGRAFICO DEL QUIJOTE
+REGLAMENTO INTERIOR DEL MUSEO ICONOGRÁFICO DEL QUIJOTE DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
 
 Reglamento publicado el Periódico Oficial del Estado de Guanajuato, el viernes 11 de enero de 2002.
 
@@ -31,7 +31,9 @@ AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
 JUAN CARLOS ROMERO HICKS, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, con fundamento en lo dispuesto por los artículos 77 fracciones II y III y 79 de la Constitución Política del Estado de Guanajuato y en observancia de lo dispuesto por los artículos 2o, 3o, 9o y 38 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -102,6 +104,10 @@ III.- Unidad de Museografía;
 IV.- Unidad de Investigación; y
 
 V.- Unidad de Promoción y Difusión.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VI.- Órgano Interno de Control
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2004)</small>
 
@@ -259,7 +265,7 @@ VII.- Desarrollar talleres interactivos en el Museo, para acercar la temática d
 
 Museo al público infantil;
 
-VIII.- Llevar a cabo actividades culturales complementarias a las exposiciones del Museo; y (sic)
+VIII.- Llevar a cabo actividades culturales complementarias a las exposiciones del Museo; y
 
 IX.- Colaborar en la elaboración del Reglamento de Visitas al Museo Iconográfico del Quijote;
 
@@ -271,11 +277,17 @@ X.- Coordinar trabajos editoriales sobre el Quijote, su temática, así como de 
 
 XI.- Coordinar la edición de memorias de eventos de carácter cervantista que organice el Museo.
 
-### CAPÍTULO CUARTO. DEL ÓRGANO DE VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
+
+### CAPÍTULO CUARTO. ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
 
 ###### Artículo 13.
 
-La vigilancia del funcionamiento del Museo Iconográfico del Quijote estará a cargo de la Secretaría de la Contraloría, de conformidad con lo previsto en el Decreto de Reestructuración del organismo.
+El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del Museo, con el fin de determinar su correcto desempeño.
+
+El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación del Museo, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
 
 ### CAPÍTULO QUINTO. DEL CONSEJO CONSULTIVO
 
@@ -357,10 +369,22 @@ EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 3 DE FEBRERO DE 2004.
 
 Artículo Primero.- El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto Gubernativo.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 229, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS NORMATIVOS DE DISTINTAS DEPENDENCIAS Y ENTIDADES QUE INTEGRAN LA ADMINISTRACIÓN PÚBLICA ESTATAL, A EFECTO DE ARMONIZAR LO REFERENTE A LOS ÓRGANOS INTERNOS DE CONTROL".]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. En tanto se cuenta con suficiencia presupuestal, la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, emitirá los acuerdos correspondientes en los cuales se designe a las unidades administrativas de las dependencias y entidades de la administración pública estatal que ejercerán las facultades de investigación, sustanciación y resolución que corresponden a los Órganos Internos de Control, en los términos de la Ley Orgánica del Poder Ejecutivo, de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, las disposiciones que deriven del presente Decreto y demás disposiciones aplicables.
+
+Los acuerdos que emita la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, especificarán las atribuciones que se delegarán en los mismos, a los servidores públicos titulares o adscritos a las unidades administrativas a que se refiere el párrafo anterior.
+
+Los acuerdos a que se refiere el presente artículo, se publicarán en el Periódico Oficial del Gobierno del Estado.
