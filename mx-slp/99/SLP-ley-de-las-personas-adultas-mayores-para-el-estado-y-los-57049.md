@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2018-06-08"
+last_updated: "2018-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -717,11 +717,15 @@ X. Realizar en coordinación con la Secretaría de Educación del Gobierno del E
 
 XI. Crear, en coordinación con los ayuntamientos del Estado, microempresas y proyectos productivos;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
 
-XII. Vigilar minuciosamente que el empleo y desempeño laboral de las personas adultas mayores, se dé en condiciones de igualdad, equidad de género, no discriminación, y libre de violencia, y
+XII. Vigilar minuciosamente que el empleo y desempeño laboral de las personas adultas mayores, se dé en condiciones de igualdad, equidad de género, no discriminación, y libre de violencia;
 
-XIII. Las demás que establezca el Reglamento de esta Ley.
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2018)</small>
+
+XIII. Supervisar que las vacantes y empleos destinados a las personas adultas mayores sean dignos, remunerados, y cuenten con condiciones para la estabilidad en el empleo y acceso a derechos escalafonarios, y
+
+XIV. Las demás que establezca el Reglamento de esta Ley.
 
 ### CAPITULO VI. Integración al Deporte
 
@@ -1219,8 +1223,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 8 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 973.- SE REFORMA EL ARTÍCULO 7° DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 973.- SE REFORMA EL ARTÍCULO 7° DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1003.- SE REFORMA Y ADICIONA EL ARTÍCULO 26 DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
