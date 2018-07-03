@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2018-03-17"
+last_updated: "2018-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -109,33 +109,81 @@ En la contratación de adquisiciones y arrendamiento de bienes, se cuidará en t
 
 En todo contrato de servicio se pactará además, el suministro oportuno de las piezas, repuestos, refacciones y, en general, de los elementos necesarios para mantener en operación permanente los bienes adquiridos o arrendados.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 5o.
 
-Las instituciones deberán establecer comités de adquisiciones, arrendamientos y servicios, con la participación de los responsables de las diversas áreas involucradas de la institución, en los que podrán participar los sectores representativos de la industria y comercio de la Entidad; dichos comités tendrán las siguientes atribuciones:
+Las instituciones deberán establecer comités de adquisiciones, arrendamientos y servicios, como órganos colegiados, de carácter técnico, de coordinación y asesoría, cuyo propósito fundamental es promover que las actividades y operaciones que realicen las dependencias y entidades del Poder Ejecutivo en materia de adquisiciones, se realicen en condiciones de legalidad, transparencia, imparcialidad, eficacia, eficiencia, de manera que prevalezca el interés del Estado en términos de economía, calidad y oportunidad.
 
-I.- Coadyuvar al cumplimiento de las acciones previstas en el Artículo 1o. de esta ley y demás disposiciones legales aplicables;
+Dicho órgano deberá constituirse mediante acta administrativa y contar con su Manual de Integración, Organización y Funcionamiento, que se publicará en el Periódico Oficial del Estado.
 
-II.- Revisar los programas y partidas presupuestales asignadas para las adquisiciones, arrendamientos y servicios, y formular las observaciones y recomendaciones convenientes;
+Los procedimientos de invitación restringida y adjudicación directa, serán desahogados por la Oficialía Mayor o su equivalente de las instituciones, de conformidad con los montos previstos en el artículo 23 de esta Ley, sin perjuicio de que el Comité autorice llevar a cabo la variación del procedimiento en aquellos casos que por su naturaleza o características así lo soliciten las áreas usuarias o requirentes bajo la responsabilidad del titular.
 
-III.- Observar y disponer lo necesario para que se satisfagan los procedimientos que establece la Ley Federal de la materia, cuando las adquisiciones, arrendamientos y servicios se ejerzan con recursos federales;
+Las decisiones del Comité serán colegiadas por mayoría de sus integrantes y sus acuerdos serán inobjetables e inapelables, debiendo cumplir en sus términos siempre y cuando sean lícitos y se ajusten a la presente Ley.
 
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1997)</small>
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
 
-IV.- Dictaminar sobre las adquisiciones, arrendamientos y servicios, conforme a lo establecido en este ordenamiento;
+ARTICULO 5o BIS.- El Comité deberá integrarse, con la participación de los titulares de las diversas áreas involucradas de cada institución, podrán participar previa invitación los sectores representativos de la industria y comercio de la Entidad, asesores e invitados especiales, dichos comités tendrán la siguiente estructura interna:
 
-V.- Autorizar incrementos mayores del cincuenta porciento de anticipos en adjudicaciones de contrato, cuando hacerlo signifique un beneficio sustancial en costos para las instituciones;
+I. Con derecho a voz y voto:
 
-VI.- Autorizar la reducción de los plazos para la presentación y apertura de proposiciones, cuando existan razones de urgencia justificada;
+a). Un Presidente Honorario, que será el titular de cada Institución o Ayuntamiento o del órgano de gobierno de la institución o quien tenga la facultad para designarlo de conformidad con la Ley Orgánica, Decreto de Creación y los Reglamentos Interiores de las instituciones.
 
-VII.- Designar la Comisión Técnica que se encargue de valorar las muestras de los bienes o servicios, que los licitantes presenten u ofrezcan dentro de los procedimientos de licitación pública o invitación restringida, confrontándolos con las especificaciones técnicas contenidas en la propuesta y características solicitadas por la Institución;
+b). Un Presidente Ejecutivo, que será el Director General de Adquisiciones de la Oficialía Mayor de cada institución o su equivalente.
 
-VIII.- Verificar que los contratos que se celebren con proveedores o licitantes reúnan los requisitos contenidos en el Título Cuarto, Capítulo VI de esta ley;
+c). Un Secretario Ejecutivo, que será el Director de Procedimientos Jurídicos y Licitaciones de la Oficialía Mayor de cada institución o su equivalente.
 
-IX.- Elaborar y aprobar su manual de organización y funcionamiento;
+d). Como vocales, fungirán los titulares de las áreas usuarias o requirentes o, en su caso, a su suplente seleccionado (sic) personas con un nivel jerárquico inmediato inferior al del titular, es decir, personas que por la naturaleza de sus funciones en la dependencia conozcan los trámites administrativos y procedimientos que marca la Ley de Adquisiciones, y cuenten con el criterio necesario para la toma de decisiones o resulten involucrados en los requerimientos de las adquisiciones, arrendamientos o servicios.
 
-X.- Rendir un informe anual al titular de la institución, respecto de las adquisiciones, arrendamientos y servicios que se adjudiquen a través de los procedimientos de licitación pública, invitación restringida y adjudicación directa, dictaminados por él; y
+El cargo de Secretario Ejecutivo deberá recaer preferentemente en un servidor público con conocimientos jurídicos, y del ramo de compras, y
 
-XI.- Las demás que les confieran otras disposiciones legales o que les sean inherentes o necesarias para el mejor desempeño de su función.
+II. Solamente tendrán derecho a voz:
+
+a). El titular del Órgano de Control de las Instituciones o la persona que éste designe.
+
+b). Los representantes de los sectores de la industria y comercio de la Entidad.
+
+c). Los asesores e invitados especiales.
+
+La participación del Órgano de Control tendrá como propósito constatar la celebración de los actos o eventos, por lo que no deberá de entenderse bajo ninguna circunstancia que significa la validación del mismo, quedando a salvo sus facultades de revisión y verificación, antes, durante o con posterioridad a la realización de dicho acto o evento.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
+
+ARTICULO 5o TER.- El Comité se regirá por el Manual de integración, Operación y Funcionamiento, propuesto por el Presidente Ejecutivo y aprobado por el propio Comité, el cual establecerá, el quórum legal para sesionar, las funciones y atribuciones de los integrantes y las demás normas necesarias para regular su organización interna.
+
+Los integrantes del Comité deberán conocer la legislación de la materia en todo lo concerniente a su desempeño ante ese órgano colegiado, así como asistir puntualmente a las sesiones o eventos convocados.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
+
+ARTICULO 5o QUÁTER.- Los integrantes del Comité podrán nombrar por escrito o bajo su responsabilidad a suplentes ante el mismo, seleccionando preferentemente a personas que por la naturaleza de sus funciones en la institución, conozcan los trámites administrativos y procedimientos que marca esta Ley, y cuenten con los conocimientos, el criterio y las facultades necesarias para la toma de decisiones.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
+
+ARTICULO 5o QUINQUE.- El Comité tendrá las atribuciones siguientes:
+
+I. Coadyuvar al cumplimiento de las disposiciones de esta Ley y demás ordenamientos legales aplicables;
+
+II. Desahogar e intervenir en los procedimientos de licitación pública, y autorizar sus excepciones, con apoyo en la fundamentación y motivación planteadas por las áreas requirentes;
+
+III. Dictaminar sobre las adquisiciones, arrendamientos y servicios, de conformidad con lo contemplado por esta Ley;
+
+IV. Observar y disponer lo necesario para que se satisfagan los procedimientos que establece la ley federal de la materia, cuando las adquisiciones, arrendamientos o servicios se ejerzan con cargo total o parcial a recursos federales;
+
+V. Vigilar que las adquisiciones, arrendamientos o servicios, se ajusten en lo establecido en la presente Ley, en las disposiciones administrativas, y a las demás leyes y reglamentos que resulten aplicables;
+
+VI. Designar la Comisión Técnica que se encargue de valorar las muestras de las adquisiciones, arrendamientos o servicios, que los licitantes presenten u ofrezcan dentro de las licitaciones públicas, confrontándolas con las especificaciones técnicas contenidas en la propuesta y características solicitadas por la institución;
+
+VII. Autorizar incrementos mayores del cincuenta por ciento de anticipos en adjudicaciones de contratos, órdenes de compra o de servicio, cuando hacerlo signifique un beneficio sustancial en costos o en otros conceptos para las instituciones;
+
+VIII. Autorizar la reducción de los plazos para la presentación y apertura de proposiciones, cuando existan razones de urgencia justificada;
+
+IX. Elaborar y aprobar su manual de integración, operación y funcionamiento y demás documentos administrativos que normen y hagan más efectivo el funcionamiento del Comité, considerando las bases, lineamientos y demás información que expida el órgano de control de cada institución;
+
+X. Autorizar la creación de subcomités de adquisiciones, arrendamientos y servicios, únicamente cuando por la naturaleza de sus funciones o la magnitud de sus operaciones, se justifique su instalación a juicio de la institución, previo dictamen del órgano de control; la integración y funcionamiento de éstos estará establecido en el manual de integración, operación y funcionamiento del Comité respectivo;
+
+XI. Rendir un informe anual al titular de la institución dentro del primer mes del siguiente ejercicio fiscal, respecto de las adquisiciones, arrendamientos y servicios que se adjudiquen a través de los procedimientos de licitación pública, invitación restringida y adjudicación directa, dictaminados por él, y
+
+XII. Las demás que les confieran ésta y otras leyes, reglamentos, decretos, acuerdos y normas relativas, en tanto les sean inherentes o necesarias para el mejor desempeño de sus funciones.
 
 ###### ARTICULO 6o.
 
@@ -814,3 +862,11 @@ P.O. 17 DE MARZO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 994.- SE REFORMA Y ADICIONA EL ARTÍCULO 5° DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
