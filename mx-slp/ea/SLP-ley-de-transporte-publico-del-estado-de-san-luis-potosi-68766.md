@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2018-06-22"
+last_updated: "2018-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -69,9 +69,9 @@ IV. Formación del elemento humano.
 
 Para los efectos de esta Ley se entenderá por movilidad sustentable:
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
 
-I. El uso preferencial del espacio público por personas con discapacidad, peatones, y por el servicio de transporte público de pasajeros, respecto a los medios de transporte de particulares, y privados;
+I. El uso preferencial del espacio público por personas con discapacidad, peatones, ciclistas, y por el servicio de transporte público de pasajeros, respecto a los medios de transporte de particulares, y privados;
 
 II. La preferencia a las modalidades del servicio de transporte público de pasajeros, que representen mayor capacidad de transportación de pasajeros;
 
@@ -393,7 +393,9 @@ VI. Crear las entidades de la administración pública paraestatal que establece
 
 VII. Convocar a concurso para el otorgamiento de concesiones para la prestación del servicio público de transporte, en cualquiera de sus modalidades, así como los servicios auxiliares del mismo;
 
-VIII. (DEROGADA, P.O. 15 DE JULIO DE 2014)
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2018)</small>
+
+VIII. Convocar a la participación de las organizaciones de la sociedad civil y el sector académico, a fin de diseñar políticas públicas para la movilidad urbana sostenible del transporte público, y
 
 IX. Las demás atribuciones que le otorgan esta Ley y otras disposiciones aplicables.
 
@@ -1985,6 +1987,36 @@ La Secretaría publicitará ampliamente el número telefónico en el que puedan 
 
 El Consejo Estatal de Transporte Público es un órgano auxiliar del titular del Ejecutivo y del Congreso del Estado, y tendrá a su cargo el estudio y discusión de los problemas de transporte público de la Entidad, y recomendar las acciones conducentes para su mejoramiento.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
+
+ARTICULO 118 BIS. El Consejo Estatal y Municipal funcionará en Pleno o Comisiones.
+
+Se entiende por Pleno la reunión de la mitad más uno de todos los integrantes del Consejo, que tenga por objeto conocer, analizar o resolver sobre uno o varios asuntos de acuerdo a la convocatoria que la motiva.
+
+El reglamento respectivo debe contener la integración de las comisiones, las cuales deberán ser nombradas por el Pleno y éstas conocerán, analizarán y resolverán los asuntos específicos de su competencia, o que le sean turnados por el Pleno.
+
+Las comisiones tendrán un coordinador nombrado por el Pleno a propuesta de su Presidente. Tomarán sus decisiones por mayoría de votos y deberán contar, para que éstas tengan validez, con el refrendo del Presidente del Consejo. Las comisiones rendirán informes sobre los avances de los trabajos al Presidente del Consejo.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
+
+ARTICULO 118 TER. Las comisiones podrán ser ordinarias y especiales.
+
+Las ordinarias son cinco y su funcionamiento será permanente, debiendo sesionar por lo menos dos veces al año. Se consideran ordinarias las comisiones de:
+
+I. Atención al usuario;
+
+II. Concesiones y permisos;
+
+III. Movilidad sustentable;
+
+IV. Calidad del servicio, y
+
+V. Formación del elemento humano.
+
+Las comisiones especiales tendrán carácter temporal, y serán nombradas por el Pleno del Consejo para el desarrollo de los trabajos y programas que éste les encomiende.
+
+Las comisiones podrán solicitar al presidente del Consejo, por acuerdo de la mayoría de sus miembros, la convocatoria a reunión extraordinaria del Pleno.
+
 ###### ARTICULO 119.
 
 El Consejo estará integrado de la siguiente manera:
@@ -2752,5 +2784,29 @@ P.O. 22 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 985- SE ADICIONA AL ARTÍCULO 38 EL PÁRRAFO SEXTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 997.- SE ADICIONAN LOS ARTÍCULOS 118 BIS Y 118 TER A LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## N. DE E. TRANSITORIOS DEL “DECRETO 998.- SE REFORMA EL ARTÍCULO 3 EN SU FRACCIÓN I DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 999.- SE ADICIONA AL ARTÍCULO 15 LA FRACCIÓN VIII DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
