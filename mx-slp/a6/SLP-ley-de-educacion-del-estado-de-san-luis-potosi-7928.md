@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2018-06-22"
+last_updated: "2018-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -1229,11 +1229,13 @@ De la Equidad en la Educación.
 
 De la Equidad.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 74.
 
-Las autoridades educativas de la Entidad establecerán condiciones que permitan el ejercicio pleno del derecho a la educación de calidad, de cada individuo, mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, adaptando escuelas y aulas accesibles y adecuadas para todos.
+Las autoridades educativas de la Entidad establecerán condiciones que permitan el ejercicio pleno del derecho a la educación de calidad, de cada individuo, mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, adaptando escuelas y aulas accesibles y adecuadas para todos, eliminando todo tipo de violencia de género.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
 
 Dichas medidas estarán dirigidas, de manera preferente, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales.
 
@@ -1285,9 +1287,9 @@ XI.- Promoverán mayor participación de la sociedad en la educación, así como
 
 XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
 
-XIII.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia, respecto al valor de igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar, y el respeto a sus maestros;
+XIII.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia, respecto al valor de igualdad y solidaridad entre las hijas e hijos, la prevención y eliminación de la violencia escolar y de género, comenzando desde el hogar, así como el respeto a sus maestros;
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -2464,3 +2466,11 @@ P.O. 22 DE JUNIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 995.- SE REFORMAN LOS ARTÍCULOS 74 Y 75 DE LA LEY DE EDUCACIÓN DEL ESTADO SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
