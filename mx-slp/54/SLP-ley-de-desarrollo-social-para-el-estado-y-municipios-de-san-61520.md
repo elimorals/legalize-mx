@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2018-02-20"
+last_updated: "2018-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -59,9 +59,9 @@ V. Armonizar la política estatal y municipal en materia de desarrollo social, c
 
 VI. Establecer los criterios de coordinación para el diseño de estrategias conjuntas de los tres órdenes de gobierno, que tengan como finalidad la atención de regiones y sectores de población prioritarios, en el combate a la pobreza y la marginación en el Estado y municipios;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
 
-VII. Establecer las bases y los mecanismos para la planeación, ejecución, monitoreo, evaluación y seguimiento de las políticas públicas en materia de desarrollo social del Estado y municipios;
+VII. Establecer las bases y los mecanismos para la planeación, ejecución, monitoreo, evaluación y seguimiento de las políticas públicas en materia de desarrollo social del Estado y municipios, garantizando en todo momento la participación social, el desarrollo sustentable, y la vigencia de los derechos sociales;
 
 VIII. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a la equidad y la justicia social;
 
@@ -862,3 +862,11 @@ P.O. 20 DE FEBRERO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1000.- SE REFORMA EL ARTÍCULO 1° EN SU FRACCIÓN VII, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
