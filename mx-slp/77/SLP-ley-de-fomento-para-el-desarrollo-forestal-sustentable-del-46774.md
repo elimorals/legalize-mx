@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2018-02-10"
+last_updated: "2018-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -139,9 +139,13 @@ XV. Ley: Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Sa
 
 XVI. Barbecho: periodo de tiempo en que las tierras de labranza están en descanso o sin siembra;
 
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2018)</small>
+
+XVII. Vivero forestal: sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo, y
+
 > <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
-XVII. Especies de interés prioritario local: especies forestales de tratamiento especial, definidas con base en criterios de peligro de extinción, vulnerabilidad, escasez, factores endémicos, o por tener interés económico y/o cultural local.
+XVIII. Especies de interés prioritario local: especies forestales de tratamiento especial, definidas con base en criterios de peligro de extinción, vulnerabilidad, escasez, factores endémicos, o por tener interés económico y/o cultural local.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA FORESTAL Y SUS ATRIBUCIONES
 
@@ -295,7 +299,9 @@ IV. Participar en el ámbito de su competencia, en el establecimiento de sistema
 
 V. Promover la participación en proyectos de apoyo directo al desarrollo forestal sustentable;
 
-VI. Desarrollar y apoyar viveros y programas de producción de plantas;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
+
+VI. Desarrollar y apoyar viveros y programas de producción de plantas, para lo cual podrán coordinarse con las autoridades en materia ambiental y forestal de nivel estatal o federal, en los términos de las leyes aplicables, con el objeto de recibir asesoría técnica, capacitación y donaciones de insumos;
 
 VII. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta Ley y las demás disposiciones aplicables en la materia;
 
@@ -997,7 +1003,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 3 DE DICIEMBRE DE 2011.
 
@@ -1050,3 +1056,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. Las autoridades obligadas podrán establecer un plazo conveniente para el cumplimiento de las disposiciones contenidas en este Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 996.- SE REFORMA EL ARTÍCULO 14; Y ADICIONA AL ARTÍCULO 6° UNA FRACCIÓN, DE LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
