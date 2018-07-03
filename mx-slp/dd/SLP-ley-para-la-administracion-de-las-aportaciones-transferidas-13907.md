@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2016-04-28"
+last_updated: "2018-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -401,11 +401,11 @@ En ambos casos, una vez efectuada la reintegración de los rendimientos financie
 
 (DEROGADO, P.O. 18 DE ABRIL DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 44.
 
-El cierre de ejercicio correspondiente al Fondo para la Infraestructura Social del Estado, deberá presentarse por la entidad ejecutora ante la Secretaría de Desarrollo Social y Regional, a más tardar el último día hábil del mes de enero del siguiente ejercicio fiscal, a efecto de su integración a la cuenta pública que presentará el Ejecutivo del Estado ante el Congreso del Estado.
+El cierre de ejercicio correspondiente al Fondo para la Infraestructura Social del Estado, deberá presentarse por la entidad ejecutora ante la Secretaría de Desarrollo Social y Regional, a más tardar el último día hábil del mes de febrero del siguiente ejercicio fiscal, a efecto de su integración a la cuenta pública que presentará el Ejecutivo del Estado ante el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -970,5 +970,13 @@ P.O. 28 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0200.- SE REFORMAN LOS ARTÍCULOS, 66 EN SU PÁRRAFO PRIMERO, Y EN SU FRACCIÓN V, 67, Y 68, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ; Y LOS ARTÍCULOS, 101, 102, 102 BIS, Y 102 TER; Y ADICIONA EL ARTÍCULO 101 BIS, DE Y A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 993.- SE REFORMA EL ARTÍCULO 44 EN SU PÁRRAFO PRIMERO DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
