@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2018-05-24"
+last_updated: "2018-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -2097,11 +2097,47 @@ La dependencia fijará la forma y número de efectivos en que dichos servicios s
 
 ### Capítulo Único
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 150.
 
-Para los efectos de esta Ley se entiende por videovigilancia pública, las actividades orientadas a la captación, trasmisión, almacenamiento de imágenes y/o sonidos, obtenidos en espacios públicos o privados con acceso a las personas; mediante el uso de videocámaras o dispositivos tecnológicos especiales; realizadas por instituciones de seguridad pública, prestadores de servicios de seguridad privada o por personas físicas o morales privadas que, en su caso, cuenten con un convenio de colaboración; y que tiene como fin contribuir a la prevención y persecución eficaz de los delitos; la procuración de justicia; o documentar faltas e infracciones relacionadas con la seguridad pública.
+Para los efectos de este título de esta Ley se entiende por:
+
+I. CALLE: Centro de Atención a llamadas de emergencia;
+
+II. CERS: Centro Estatal de Reinserción Social;
+
+IIII (SIC). C4: Centro de Control, Comando, Comunicaciones y Cómputo;
+
+IV. C5i2: Centro de Control, Comando, Comunicaciones y Cómputo; Información e Inteligencia;
+
+V. Cobertura: área de alcance a cubrir por cámara de video vigilancia visualmente;
+
+VI. Densidad: número de cámaras de video vigilancia a instalar en función de cada unidad de área;
+
+VII. Derecho a la no discriminación: es la garantía de protección para la no implementación de estrategias de video vigilancia basadas en cuestiones de exclusión, restricción o preferencia por motivos de género, raza, color, origen nacional o étnico, religión, opinión política u otra, edad, idioma, posición económica y cualquiera otra condición que tenga el propósito de afectar o deteriorar el goce completo de los derechos y libertades fundamentales;
+
+VIII. Derecho a la privacidad: es la garantía de protección otorgada a los aspectos de la vida personal de una persona, sea que se desarrollen en un entorno reservado o público;
+
+IX. Derecho a la protección de datos personales: es la garantía o la facultad de resguardar aquella información frente a su tratamiento automatizado o no, es decir, no sólo a aquella albergada en sistemas computacionales, sino en cualquier soporte que permita su utilización, almacenamiento, organización y acceso, de manera directa o indirecta, durante el desarrollo de la vida de las personas;
+
+X. Espacio privado de acceso público: toda infraestructura provista y administrada directamente por entidades privadas, que por su estructura y actividad desarrollada, permiten el acceso limitado o restringido de personas a sus instalaciones;
+
+XI. Espacio público: integra toda la infraestructura provista y administrada directamente por el Estado y que en función de lo especificado por la legislación vigente, puede ser utilizada por la población en general;
+
+XII. Inteligencia: aportar información estratégica para la ejecución de acciones, la elaboración de estrategias y el diseño de políticas públicas que permitan disuadir, contener y neutralizar riesgos y amenazas a la seguridad;
+
+XIII. Prevención de delito: es el conjunto de acciones que se realizan para involucrar a la sociedad en los mecanismos institucionales de prevención del delito, fomentar la cultura de la legalidad, de denuncia del delito, de promoción de la ciudadanía, cuidado del otro, así como crear una política pública destinada a inhibir o reducir la incidencia delictiva en un lugar y periodo determinada (sic);
+
+XIV. Sistema de video vigilancia: es una herramienta tecnológica que, a través de cámaras de video localizadas estratégicamente e interconectadas entre sí, que permiten apoyar la operación y despliegue policial, la persecución y prevención de los delitos, la atención de emergencias o documentar faltas e infracciones relacionadas con la seguridad pública;
+
+XV. Video vigilancia pública: las actividades orientadas a la capacitación, transmisión, almacenamiento de imágenes y/o sonidos, obtenidos en espacios públicos o privados con acceso al público, mediante el uso de videocámaras o dispositivos tecnológicos especiales, realizadas por instituciones de seguridad pública, prestadores de servicios de seguridad privada o por personas físicas o morales privadas que, en su caso, cuenten con un convenio de colaboración; y que tiene como fin contribuir a la prevención y persecución eficaz de los delitos; apoyar la operación y despliegue policial; la atención de emergencias; la procuración de justicia; o documentar faltas e infracciones relacionadas con la seguridad pública, y
+
+XVI. Unidad de monitoreo: se refiere al área de funcionamiento y operación de los sistemas de video vigilancia, integrada en un C4 y/o C5i2 que convive con el CALLE y los procesos de inteligencia policial para contribuir a los objetivos del Sistema Nacional de Seguridad Pública, en coordinación con las autoridades municipales.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
+
+ARTICULO 150 BIS. La planeación, diseño, implementación y operación de los sistemas de video vigilancia que en materia de seguridad pública refiere este título, estarán sujetos en la medida de sus condiciones presupuestales a la norma técnica para estandarizar sus características técnicas y de interoperabilidad, emitida por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, a través del Centro Nacional de Información.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
 
@@ -2111,13 +2147,37 @@ Quienes realicen actividades de videovigilancia pública deberán observar los s
 
 I. De idoneidad: conforme al cual, el uso de videocámaras y tecnología debe utilizarse en estricta proporción a su aptitud y eficacia para procurar los fines a que se refiere este título;
 
-II. De mínima intervención: conforme al cual, debe restringirse al máximo posible la intervención sobre la vida privada de las personas, evitando, minimizando y corrigiendo las posibles afectaciones sobre la privacidad, honor e intimidad de éstas;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
 
-III. De publicidad: conforme al cual, quienes lleven a cabo actividades de videovigilancia pública, informarán a los interesados, sobre la ubicación y empleo de los dispositivos de videovigilancia pública que utilicen, así como sobre el posible registro de imágenes personales del interesado, con las excepciones que éstas u otras normas aplicables dispongan, por razones de interés público;
+II. De mínima intervención: conforme al cual, debe restringirse al máximo posible la intervención sobre la vida privada de las personas, evitando, minimizando y corrigiendo las posibles afectaciones sobre la privacidad, imagen, honor e intimidad de éstas;
 
-IV. De profesionalismo: conforme al cual, las entidades públicas que operen dispositivos de videovigilancia pública, asignarán exclusivamente para ello, a personal específicamente seleccionado para el desempeño de esas funciones, técnicamente apto, capacitado, y sujeto a mecanismos de supervisión y control, para garantizar su apego a la ética, el profesionalismo y demás principios rectores del servicio público, y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
 
-V. De legalidad: conforme al cual, toda actividad de videovigilancia pública, debe realizarse en plena conformidad con el orden jurídico, y respeto a los derechos humanos.
+III. De publicidad: conforme al cual, quienes lleven a cabo actividades de video vigilancia pública, informarán a los interesados, sobre la ubicación y empleo de los dispositivos de video vigilancia pública que utilicen, así como sobre el posible registro de sonidos e imágenes personales del interesado, con las excepciones que éstas u otras normas aplicables dispongan, por razones de interés público;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
+
+IV. De profesionalismo: conforme al cual, las entidades públicas que operen dispositivos de video vigilancia pública, asignarán exclusivamente para ello a personal específicamente seleccionado para el desempeño de esas funciones, técnicamente apto, capacitado, y sujeto a mecanismos de supervisión y control, para garantizar su apego a la ética, el profesionalismo y demás principios rectores del servicio público;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
+
+V. De proporcionalidad: en su doble aspecto de idoneidad y de intervención mínima;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2018)</small>
+
+VI. De legalidad: conforme al cual, toda actividad de video vigilancia pública debe realizarse en plena conformidad con el orden jurídico, y respeto a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2018)</small>
+
+VII. De riesgo razonable: en el uso de videocámaras fijas, consistente en prever la proximidad de un daño o afectación a la seguridad pública;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2018)</small>
+
+VIII. De peligro concreto: aplicable en la utilización de videocámaras móviles, y que se entiende como la contingencia inminente que sea precisa o determinada, y que provoque algún daño o afectación a la seguridad pública, y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2018)</small>
+
+IX. De respeto irrestricto a los derechos humanos: deberá de observarse durante todo el proceso de planeación, diseño, implementación y operación de los sistemas de video vigilancia.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
 
@@ -2125,11 +2185,17 @@ V. De legalidad: conforme al cual, toda actividad de videovigilancia pública, d
 
 Las instituciones de seguridad pública, y los prestadores de servicio de seguridad privada, no podrán ejecutar actividades de videovigilancia para:
 
-I. Captar, almacenar o procesar imágenes o sonidos del interior de espacios privados de índole personal, salvo consentimiento de quien pueda otorgarlo, o mediante autorización legalmente conferida; o bien efectuar, con las mismas salvedades, la grabación de conversaciones de naturaleza estrictamente privada, en cualquier lugar, que cause afectación a la intimidad de las personas. Las imágenes y sonidos obtenidos accidentalmente en estos casos, deberán ser destruidos inmediatamente;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
 
-II. Captar, almacenar o procesar imágenes o sonidos del espacio público, cuando por la naturaleza de esos espacios o del lugar hacia donde se orienten los dispositivos, pueda afectarse gravemente la dignidad, honra, intimidad o fama pública de las personas, y
+I. Captar, almacenar o procesar imágenes o sonidos del interior de espacios privados de índole personal, salvo consentimiento de quien pueda otorgarlo, o mediante autorización legalmente conferida; o bien efectuar, con las mismas salvedades, la grabación de conversaciones de naturaleza estrictamente privada, en cualquier lugar, que cause afectación a la dignidad, privacidad, honor, imagen e intimidad de las personas. Las imágenes y sonidos obtenidos accidentalmente en estos casos, deberán ser destruidos inmediatamente;
 
-III. Utilizar la información obtenida con fines comerciales, político electorales, propagandísticos, o distintos en cualquier modo, a los fines que esta Ley autoriza; debiéndose evitar y sancionar todo abuso, intromisión indebida o empleo de la información con fines ilícitos, discriminatorios, o contrarios a la dignidad de las personas.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
+
+II. Captar, almacenar o procesar imágenes o sonidos del espacio público, cuando por la naturaleza de esos espacios o del lugar hacia donde se orienten los dispositivos, pueda afectarse gravemente la dignidad, imagen, honra, privacidad, intimidad o fama pública de las personas, y
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2018)</small>
+
+III. Utilizar la información obtenida con fines comerciales, político electorales, propagandísticos, o distintos en cualquier modo a los fines que esta Ley autoriza; debiéndose evitar y sancionar todo abuso, intromisión indebida o empleo de la información con fines ilícitos, discriminatorios, o contrarios a la dignidad, imagen, honra, privacidad e intimidad de las personas.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
 
@@ -2179,17 +2245,29 @@ VIII. Las demás de carácter estatal o municipal que ordene el Consejo Estatal 
 
 Los entes a que se refiere este artículo, en coordinación con la Secretaría de Seguridad Pública del Estado, procurarán la unificación u homologación tecnológica de sus sistemas y dispositivos de videovigilancia entre sí.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2018)</small>
+
+ARTICULO 156 BIS. En la planeación, diseño, implementación y operación de los sistemas de video vigilancia, se tomarán en cuenta los principios de equilibrio democrático, racionalidad, evaluación, proporcionalidad, integralidad de las medidas de prevención y contención del delito, y transparencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 157.
 
-Para la ubicación de los dispositivos de videovigilancia pública por parte de las instituciones de seguridad pública, se tomarán como criterios:
+Para la ubicación de los dispositivos de video vigilancia pública por parte de las instituciones de seguridad pública, se tomarán como base los criterios previstos en la norma técnica referida en el artículo 150 Bis de esta Ley, y además a los siguientes:
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
 
 I. La cobertura óptima de las zonas urbanas, rurales o de tránsito carretero, que presenten mayores grados de conflictividad o vulnerabilidad por su tasa de incidencia delictiva, o por el riesgo de las instalaciones en ellas existentes;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
+
 II. La vigilancia preferente de espacios de concentración masiva, o de aquéllos que representen mayores condiciones de vulnerabilidad por su propia naturaleza, como áreas externas a colegios y guarderías, hospitales; instalaciones financieras, centros comerciales, estadios, terminales de transporte u otras similares;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
+
 III. La protección del patrimonio, histórico, artístico, científico y cultural de los potosinos, y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
 
 IV. La vigilancia de instalaciones estratégicas para la seguridad nacional, en coadyuvancia con las autoridades federales competentes.
 
@@ -2213,11 +2291,13 @@ Las instituciones de seguridad pública del Estado y municipios de San Luis Poto
 
 Dichos convenios, cuando sean celebrados entre autoridades, deberán publicarse en el Periódico Oficial o similar que corresponda, salvo que contuvieran información confidencial o reservada, en cuyo caso, se elaborará y difundirá una versión pública extractada.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 160.
 
-El Registro Estatal de Dispositivos de Videovigilancia estará a cargo de la Secretaría de Seguridad Pública del Estado, o de quien ésta indique, la que llevará constancia de las instituciones de seguridad pública, y de los prestadores de servicios de seguridad privada, que realicen actividades de videovigilancia pública dentro del territorio del Estado, conforme a las disposiciones de esta Ley.
+El Registro Estatal de Dispositivos de Video Vigilancia estará a cargo de la Secretaría de Seguridad Pública del Estado, a través del C4 y/o C5i2, o de quien ésta indique, la que llevará constancia de las instituciones de seguridad pública, y de los prestadores de servicios de seguridad privada, que realicen actividades de video vigilancia pública dentro del territorio del Estado, conforme a las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
 
 Asimismo, de la ubicación de las zonas sujetas a videovigilancia pública por parte de las instituciones de seguridad pública; los convenios que en materia de videovigilancia pública se celebren en los términos del presente Ordenamiento; y los demás que determine el Reglamento de esta Ley.
 
@@ -2265,17 +2345,25 @@ III. Obtener copia de dichos archivos y/o solicitar su destrucción, salvo en el
 
 Para cumplir con lo anterior, el interesado, además, deberá indicar a la institución de seguridad pública de que se trate, la fecha, hora y lugar aproximados en que supone, se hubiere captado dicha información, así como las circunstancias específicas que fueren de su interés consultar, a efecto de facilitar su localización.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 166.
 
-La información captada mediante el uso de dispositivos de videovigilancia pública, independientemente de su clasificación, deberá ser puesta a disposición de las autoridades judiciales y ministeriales de carácter federal o estatal que la requieran, bastando que en su solicitud indiquen el número de averiguación previa o proceso en que se actúe, y el nombre de la autoridad requirente.
+La información captada mediante el uso de dispositivos de video vigilancia pública, independientemente de su clasificación, deberá ser puesta a disposición de las autoridades judiciales y ministeriales de carácter federal o estatal que la requieran, bastando que en su solicitud indiquen el número de carpeta de investigación o proceso en que se actúe, y el nombre de la autoridad requirente.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
 
 Cumpliendo la misma formalidad, la información estará igualmente a disposición de las autoridades administrativas, federales, estatales o municipales que, según el caso, tengan a su cargo:
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
+
 I. La investigación y/o enjuiciamiento de infracciones disciplinarias por parte del personal operativo de las instituciones de seguridad pública;
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
+
 II. La prevención y gestión de emergencias ante fenómenos perturbadores, químicos, biológicos, sanitarios, hidrometeorológicos o antropogénicos; o la investigación y sanción de infracciones a las normas de protección civil, y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2015)</small>
 
 III. La operación de servicios de inteligencia en materia de seguridad nacional.
 
@@ -2293,17 +2381,17 @@ Para efecto de lo anterior, deberán contar con sistema de videovigilancia propi
 
 Cuando se comentan (sic) infracciones al presente capítulo por parte del personal de las instituciones públicas que tengan a su cargo la captura, almacenamiento y análisis de la información captada mediante los sistemas de videovigilancia, se turnará su investigación a la Comisión de Honor y Justicia o, en su caso, al órgano de control interno, quienes aplicarán las sanciones correspondientes.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 169.
 
-Cuando se cometan infracciones a éste capítulo por parte de particulares y prestadores de servicios de seguridad privada que tengan a su cargo la captura, almacenamiento y análisis de la información captada mediante los sistemas de videovigilancia pública, se aplicarán los procedimientos y sanciones contenidas en su propia normatividad.
+Cuando se cometan infracciones a este capítulo por parte de particulares y prestadores de servicios de seguridad privada que tengan a su cargo la captura, almacenamiento y análisis de la información captada mediante los sistemas de video vigilancia pública, se aplicarán los procedimientos y sanciones contenidas en su propia normatividad, así como en las disposiciones normativas vigentes en el Estado.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 170.
 
-Las sanciones establecidas en el presente capítulo, serán independientes de las que resulten por la comisión de delitos contenidos en la legislación penal, o civil, o la que resulte de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Las sanciones establecidas en el presente capítulo, serán independientes de las que resulten por la comisión de delitos contenidos en la legislación penal, o civil, del orden estatal y/o federal o la que resulte de la Ley de Responsabilidades Administrativas para el Estado de San Luís Potosí.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
 
@@ -2531,8 +2619,18 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 24 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 961.- SE REFORMA LOS ARTÍCULOS 2°, 3° Y 5°; Y ADICIONA EL ARTÍCULO 93 BIS Y 110 BIS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 961.- SE REFORMA LOS ARTÍCULOS 2°, 3° Y 5°; Y ADICIONA EL ARTÍCULO 93 BIS Y 110 BIS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 992.- SE REFORMAN LOS ARTÍCULOS 150, 151, 152, 157, 160, 166, 169 Y 170; Y ADICIONAN LOS ARTÍCULOS 150 BIS, 151 FRACCIONES VI A IX Y 156 BIS A LA Y DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los sistemas de video vigilancia con que cuenten actualmente las instituciones de seguridad pública estatal y municipal, deberán irse adaptando a la norma técnica en la materia y a lo previsto en este Decreto, de acuerdo a sus posibilidades presupuestales y en un tiempo razonable.
+
+TERCERO. Se deroga cualquier disposición que se oponga al presente Decreto.
