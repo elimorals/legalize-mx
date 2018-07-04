@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-educacion-62620"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2008-07-18"
+last_updated: "2018-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 18 de julio de 2008.
 
@@ -65,15 +65,33 @@ c) La Dirección de Servicios Jurídicos.
 
 III. La Coordinación de Educación Media Superior;
 
-IV. La Coordinación de Educación Superior, Ciencia y Tecnología, y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
-V. La Coordinación de Desarrollo Integral y Formación para el Trabajo.
+IV. La Coordinación de Educación Superior, Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
+V. La Coordinación de Desarrollo Integral y Formación para el Trabajo, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
+
+VI. El Órgano Interno de Control.
 
 El Secretario contará además con las unidades auxiliares que determine conforme a los requerimientos del ejercicio de sus funciones y la posibilidad presupuestal, previa autorización de las instancias competentes, los cuales estarán adscritos directamente a aquél y desarrollarán las actividades que les asigne.
 
 La Secretaría contará con un Órgano Interno de Control de conformidad con las disposiciones legales aplicables y desarrollará sus funciones de acuerdo a ellas, a los lineamientos operativos que determine el Secretario y a la normatividad establecida por la Secretaría de la Contraloría.
 
 Los órganos desconcentrados y las unidades administrativas de la Secretaría contarán con los departamentos, jefaturas y demás áreas de apoyo para el eficaz cumplimiento de sus funciones que se autoricen conforme a las posibilidades presupuestales, y realizarán sus actividades de acuerdo a las disposiciones aplicables y los lineamientos, normas y políticas que establezca el Secretario y por los titulares de las mismas de conformidad con ellas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2018)</small>
+
+Artículo 4 bis. Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 23, fracción XI de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
+
+El Titular del Órgano Interno de Control, se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por el Secretario, el demás personal adscrito será nombrado en términos de las disposiciones legales aplicables.
+
+Los servidores públicos a que se refiere el párrafo primero y segundo del presente artículo, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y demás disposiciones legales y administrativas aplicables.
+
+La Secretaría, proporcionará al Órgano Interno de Control, los recursos humanos y materiales que requieran, para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
 
 ###### Artículo 5.
 
@@ -632,3 +650,15 @@ Lic. María Guadalupe Murguía Gutiérrez
 Secretaria de Educación
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS, REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR, REGLAMENTO DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO Y REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD”.]
+
+Primero. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Segundo. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Tercero. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
