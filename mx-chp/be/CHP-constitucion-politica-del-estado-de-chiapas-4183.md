@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2018-03-02"
+last_updated: "2018-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1109,7 +1109,7 @@ Los Asuntos cuya resolución corresponda al Pleno del Congreso del Estado que du
 
 ### Capítulo IV. De la iniciativa y formación de las leyes
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
 
 ###### Artículo 48.
 
@@ -1119,13 +1119,15 @@ I. Al Titular del Poder Ejecutivo del Estado.
 
 II. A los Diputados del Congreso del Estado.
 
-III. Al Titular del Poder Judicial del Estado, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tengan conocimiento.
+III. Al Titular del poder Judicial del Estado, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tengan conocimiento.
 
-IV. A quien presida la Comisión Estatal de los Derechos Humanos, en materia de su ramo.
+IV. Al Titular del Tribunal de Justicia Administrativa del Estado de Chiapas, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tengan conocimiento.
 
-V. A los Ayuntamientos, en asuntos municipales.
+V. A quien presida la Comisión Estatal de los Derechos Humanos, en materia de su ramo.
 
-VI. A los ciudadanos del Estado, en los términos que disponga la Ley, la cual establecerá los requisitos, alcances, términos y procedimientos para su ejercicio.
+VI. A los Ayuntamientos, en asuntos municipales.
+
+VII. A los ciudadanos del Estado, en los términos que disponga la Ley, la cual establecerá los requisitos, alcances, términos y procedimientos para su ejercicio.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2305,15 +2307,29 @@ Asimismo será el órgano competente para imponer las sanciones a los servidores
 
 El Tribunal de Justicia Administrativa, expedirá su Reglamento Interno, así como los acuerdos generales para su adecuado funcionamiento, en los términos que señale su Ley Orgánica.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
 
 ###### Artículo 106.
 
-El Tribunal de Justicia Administrativa residirá en la capital del Estado, funcionará en Pleno y estará conformado por tres magistrados.
+El Tribunal de Justicia Administrativa residirá en la capital del Estado y estará integrado por:
 
-El Presidente del Tribunal de Justicia Administrativa, será electo por el Pleno del mismo, cada tres años, con posibilidades de reelección y a él corresponderá la administración de dicho Tribunal.
+I. El Pleno de la Sala General.
 
-Los tres magistrados integrantes del Tribunal de Justicia Administrativa, serán propuestos por el Titular del Poder Ejecutivo y designados por el voto de las dos terceras partes de los miembros del Congreso del Estado, o en sus recesos, por la Comisión Permanente. Durarán en su encargo 9 años, y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
+II. Las Salas Regionales Unitarias de Primera de (sic) Instancia.
+
+III. Las Salas Especializadas de Primera Instancia.
+
+IV. Por el Instituto de Defensoría Social.
+
+V. Por el Instituto de Investigaciones Jurídicas, Administrativas y Fiscales.
+
+VI. Por el Fondo Auxiliar para la Administración de la Justicia Administrativa.
+
+El Pleno del Tribunal de Justicia Administrativa estará conformado por tres Magistrados que serán propuestos por el Titular del Poder Ejecutivo y designados por el voto de las dos terceras partes de los miembros del Congreso del Estado, o en sus recesos, por la Comisión Permanente. Durarán en su encargo 9 años, y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
+
+El Presidente del Tribunal de Justicia Administrativa, será electo por el Pleno del mismo, cada tres años, con posibilidades de reelección; le corresponderá la administración de dicho Tribunal y del Fondo Auxiliar para la Administración de la Justicia Administrativa, en los términos de su Ley Orgánica y Reglamento.
+
+Los Magistrados que integren las Salas Regionales Unitarias y las Especializadas en Primera Instancia, durarán en sus funciones seis años, deberán cumplir con los mismos requisitos de elegibilidad y procedimiento de selección establecido para los Magistrados integrantes del Pleno del Tribunal, con posibilidad de ser reelectos en los términos que establezca su Ley Orgánica. La adscripción de los Magistrados Regionales y Especializados de Primera Instancia, será por acuerdo del Pleno del Tribunal.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4468,3 +4484,15 @@ P.O. 2 DE MARZO DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 230 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 48 Y 106 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La Secretaría de Hacienda Pública, deberá realizar los ajustes presupuestales necesarios para el cumplimiento de las disposiciones previstas en el presente Decreto, por el resto del presente ejercicio fiscal y los subsecuentes.
+
+Artículo Cuarto.- El nombramiento de los Magistrados que integren las Salas Regionales Unitarias y Especializadas en Primera Instancia, se realizarán conforme a lo establecido en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Chiapas.
