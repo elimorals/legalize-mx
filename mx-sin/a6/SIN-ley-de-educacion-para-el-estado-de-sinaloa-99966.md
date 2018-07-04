@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2017-06-02"
+last_updated: "2018-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -167,11 +167,17 @@ XVII. Difundir los derechos y deberes de niños, niñas y adolescentes y las for
 
 XVIII. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de edad, o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
 
-XIX. Evitar todo tipo de violencia dentro de los planteles escolares; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+XIX. Evitar todo tipo de violencia dentro de los planteles escolares;
 
-XX. Establecer las bases normativas para que en la educación básica y media superior, el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión, en las instituciones educativas dependientes del Estado y sus organismos descentralizados y desconcentrados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
+XX. Establecer las bases normativas para que en la educación básica y media superior, el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión, en las instituciones educativas dependientes del Estado y sus organismos descentralizados y desconcentrados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General, la Ley General del Servicio Profesional Docente, la Ley del Instituto Nacional para la Evaluación de la Educación y el presente ordenamiento; y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
+
+XXI. Promover en niñas, niños y adolescentes una cultura de trato digno y respetuoso a las especies animales, así como la protección del ecosistema.
 
 ###### Artículo 11.
 
@@ -1940,5 +1946,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 2 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 148 POR EL QUE “SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 10 A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA RECORRIÉNDOSE LAS SUBSECUENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 540 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 10; Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
