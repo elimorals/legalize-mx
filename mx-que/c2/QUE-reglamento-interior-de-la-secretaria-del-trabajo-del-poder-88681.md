@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-del-trabajo-del-poder-8868
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-27"
-last_updated: "2012-07-27"
+last_updated: "2018-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 27 de julio de 2012.
 
@@ -351,33 +351,17 @@ XXIII. Las demás que le señale este reglamento, otras disposiciones aplicables
 
 #### Sección IV. Del Órgano Interno de Control
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
+
 ###### Artículo 19.
 
-El Órgano Interno de Control dependerá operativamente del Secretario y actuará conforme a las normas y lineamientos emitidos por la Secretaría de la Contraloría del Poder Ejecutivo, y al mismo le corresponde:
+Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 23, fracción XI de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
 
-I. Elaborar y ejecutar el Programa Anual de Control y Auditoria de acuerdo a la normatividad de la Secretaría de la Contraloría del Poder Ejecutivo, así como informar bimestralmente al Secretario y al Titular de la Secretaría de la Contraloría de las actividades desarrolladas;
+El Titular del Órgano Interno de Control, se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por el Secretario, el demás personal adscrito será nombrado en términos de las disposiciones legales aplicables.
 
-II. Programar y realizar auditorías administrativas a las distintas áreas que integran la Secretaría, de acuerdo a las normas y lineamientos determinados por la Secretaría de la Contraloría del Poder Ejecutivo;
+Los servidores públicos a que se refiere el párrafo primero y segundo del presente artículo, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y demás disposiciones legales y administrativas aplicables.
 
-III. Dar seguimiento o vigilar se dé seguimiento a las observaciones determinadas en las auditorías realizadas por la Secretaría de la Contraloría del Poder Ejecutivo, Entidad Superior de Fiscalización del Estado, el propio Órgano Interno de Control y demás auditorías que se lleven a cabo en relación con las actividades de la Secretaría;
-
-IV. Desahogar el procedimiento administrativo al que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, informando a la Secretaría de la Contraloría del Poder Ejecutivo del mismo y de las resoluciones que se dicten, y en su caso, remitir a ésta las que por razones de competencia le correspondan, para su conocimiento y desahogo;
-
-V. Atender y dar seguimiento a las quejas y denuncias recibidas en contra de los servidores públicos adscritos a la Secretaría;
-
-VI. Implementar procedimientos de prevención y control, conforme a los lineamientos emitidos por la Secretaría de la Contraloría del Poder Ejecutivo, que regulen el funcionamiento de la Secretaría;
-
-VII. Observar que se cumplan las disposiciones de austeridad, racionalidad, disciplina presupuestal, simplificación y desregulación, vigilando que el manejo y aplicación de los recursos públicos se apeguen a la normatividad en cada caso y respondan a los lineamientos, prioridades y objetivos establecidos por el Titular del Poder Ejecutivo;
-
-VIII. Vigilar el cumplimiento y grado de avance y economía de los programas, metas y objetivos establecidos en las unidades administrativas de la Secretaría;
-
-IX. Vigilar que en el desempeño de las actividades se observen las disposiciones de carácter legal y administrativo, cuyo objeto sea el control y salvaguarda de los recursos asignados a la Secretaría;
-
-X. Proponer la aplicación de controles internos que coadyuven a la obtención de los resultados programados y en la protección y eficientación de los recursos asignados a las unidades administrativas de la Secretaría;
-
-XI. Intervenir en los actos de entrega-recepción administrativa de los servidores públicos de la Secretaría, y
-
-XII. Las demás que le señalen este reglamento, otras disposiciones aplicables y el Secretario.
+La Secretaría, proporcionará al Órgano Interno de Control, los recursos humanos y materiales que requieran, para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
 
 ### Capítulo IV. De la Junta Local de Conciliación y Arbitraje
 
@@ -432,3 +416,15 @@ Lic. Juan Gorráez Enrile
 Secretario del Trabajo del Poder Ejecutivo del Estado
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2018.
+
+[N. DE. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS, REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR, REGLAMENTO DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO Y REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD”.]
+
+Primero. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Tercero. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
