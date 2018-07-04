@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-salud-del-estado-de-854
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-30"
-last_updated: "2011-12-30"
+last_updated: "2018-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 30 de diciembre de 2011.
 
@@ -53,7 +53,19 @@ I. La Subsecretaría de Vinculación, Administración y Finanzas, en lo sucesivo
 
 II. Un Órgano Interno de Control.
 
-El Órgano Interno de Control dependerá operativamente de la Secretaría y normativamente de la Secretaría de Contraloría, por lo que ejercerá las atribuciones que esta última determine conforme a la normatividad aplicable.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 4 DE JULIO DE 2018)</small>
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2018)</small>
+
+###### Artículo 3 Bis.
+
+Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 23, fracción XI de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
+
+El Titular del Órgano Interno de Control, se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por el Secretario, el demás personal adscrito será nombrado en términos de las disposiciones legales aplicables.
+
+Los servidores públicos a que se refiere el párrafo primero y segundo del presente artículo, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y demás disposiciones legales y administrativas aplicables.
+
+La Secretaría, proporcionará al Órgano Interno de Control, los recursos humanos y materiales que requieran, para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
 
 ###### Artículo 4.
 
@@ -190,3 +202,15 @@ Dr. Mario Cesar García Feregrino
 Secretario de Salud del Poder Ejecutivo del Estado
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS, REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR, REGLAMENTO DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO Y REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD”.]
+
+Primero. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Tercero. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
