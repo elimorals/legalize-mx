@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2018-02-21"
+last_updated: "2018-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -2075,7 +2075,19 @@ III. Fungir como investigador, asesor, promotor y expositor de la cultura de la 
 
 IV. Emitir su opinión para la edición de libros, revistas, videos, películas y otras formas de comunicación, que tiendan a difundir y preservar la vida y memoria municipales; y
 
-V. Las demás que el Ayuntamiento le asigne.
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
+
+V. Coordinarse con las direcciones y unidades administrativas competentes, para proteger y promover el patrimonio histórico y cultural, así como los usos y costumbres del Municipio;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
+
+VI. Elaborar y someter al conocimiento y aprobación del Ayuntamiento, la Memoria Anual y la Monografía Histórica del Municipio;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2018)</small>
+
+VII. Emitir opinión sobre el otorgamiento de reconocimientos a ciudadanos distinguidos del Municipio, previa solicitud del Ayuntamiento, y
+
+VIII. Las demás que el Ayuntamiento le asigne.
 
 El Ayuntamiento destinará la remuneración y el presupuesto necesario para el cabal cumplimiento de esas funciones.
 
@@ -2087,7 +2099,9 @@ El Cronista Municipal podrá ser sustituido en los siguientes casos:
 
 I. Por fallecimiento, enfermedad grave, o incapacidad física o mental debidamente comprobada que le impida el ejercicio del cargo;
 
-II. Por la autenticación de hechos históricos falsos;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
+II. Por la autenticación recurrente de hechos históricos falsos;
 
 III. Renuncia;
 
@@ -2106,6 +2120,12 @@ Los cronistas adjuntos especializados deben tener licenciatura en historia o est
 Los cronistas adjuntos regionales solo se podrán designar cuando, por la naturaleza geográfica, cultural, histórica y demográfica del Municipio se requieran.
 
 El Ayuntamiento podrá designar cronistas en los poblados distintos a la cabecera municipal, quienes se coordinarán en sus investigaciones y relatos con el Cronista Municipal.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2018)</small>
+
+###### Artículo 127 Bis.
+
+La Semana del Cronista Municipal se llevará a cabo en el mes y día que determine el ayuntamiento a propuesta del cronista.
 
 ### Capítulo XIV. Transparencia, Acceso a la Información Pública y Protección de Datos Personales
 
@@ -4070,3 +4090,11 @@ P.O. 21 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 214.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL INCISO B, DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS, EN MATERIA DE EMISIÓN DE CARTAS DE RESIDENCIA, DE ÚLTIMA RESIDENCIA Y DE CARTAS DE ORIGEN”.]
 
 Artículo único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 400.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
