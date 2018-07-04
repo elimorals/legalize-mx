@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-medio-ambiente-e-92510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-07"
-last_updated: "2013-10-09"
+last_updated: "2018-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE E HISTORIA NATURAL DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE E HISTORIA NATURAL DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE E HISTORIA NATURAL, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE E HISTORIA NATURAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el viernes 7 de diciembre de 2012.
 
@@ -553,9 +553,7 @@ XIII. Vigilar, dentro del ámbito de su competencia, que las adquisiciones, abas
 
 XIV. Vigilar las políticas internas de selección y contratación de personal; así como el establecimiento de sistemas de control de los recursos humanos, financieros y materiales de la Secretaría y el programa interno de Protección Civil, en el ámbito de su competencia, de conformidad con la normatividad aplicable.
 
-XV. Vigilar que las observaciones derivadas de las auditorías practicadas a los Órganos
-
-Administrativos que conforman la Secretaría, se atiendan en las formas y tiempos establecidos; y que la actualización de los activos asignados a los Órganos Administrativos que conforman la Secretaría, se efectúe de conformidad a la normatividad establecida.
+XV. Vigilar que las observaciones derivadas de las auditorías practicadas a los Órganos Administrativos que conforman la Secretaría, se atiendan en las formas y tiempos establecidos; y que la actualización de los activos asignados a los Órganos Administrativos que conforman la Secretaría, se efectúe de conformidad a la normatividad establecida.
 
 XVI. Establecer mecanismos para el registro, clasificación y control de las operaciones contables y financieras que realice la Secretaría.
 
@@ -1317,7 +1315,7 @@ IV. Establecer sistemas de control técnicos-administrativos de las acciones com
 
 V. Proponer al Coordinador de Delegaciones, el Anteproyecto de Presupuesto Anual de Egresos y el Programa Operativo Anual, de la Delegación Regional a su cargo.
 
-VI. Planear e instrumentar los programas que le sean asignados, de acuerdo con las políticas establecidas, optimizando los recursos .autorizados para lograr el buen funcionamiento de la Secretaría.
+VI. Planear e instrumentar los programas que le sean asignados, de acuerdo con las políticas establecidas, optimizando los recursos autorizados para lograr el buen funcionamiento de la Secretaría.
 
 VII. Proponer al Coordinador de Delegados, el ingreso, promoción, remoción, cambio de adscripción, comisiones y licencias del personal a su cargo.
 
@@ -1409,7 +1407,7 @@ Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estad
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Gustavo Castellanos Gordillo, Secretario de Medio Ambiente e Historia Natural.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE OCTUBRE DE 2013.
 
@@ -1424,3 +1422,21 @@ Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá actuali
 Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secretario resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
 
 Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2668-A-2018 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE E HISTORIA NATURAL”.]
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente e Historia Natural, publicado en el Periódico Oficial, Tomo III, número 405, de fecha 07 de diciembre del 2012, Publicación No. 3550-A-2012 y su reforma publicada en el Periódico Oficial, número 061, Tomo III, de fecha 09 de octubre de 2013, publicación No. 270-A-2013, así como las disposiciones que del mismo emane y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaria, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
