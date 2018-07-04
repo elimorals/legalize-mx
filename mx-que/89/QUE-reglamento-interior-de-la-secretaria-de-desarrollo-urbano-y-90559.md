@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-905
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-07"
-last_updated: "2012-12-07"
+last_updated: "2018-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 7 de diciembre de 2012.
 
 Licenciado José Eduardo Calzada Rovirosa, Gobernador Constitucional del Estado de Querétaro, en ejercicio de las facultades que me confiere lo dispuesto en los artículos 22, fracción II de la Constitución Política del Estado de Querétaro y 9 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, y
 
-Considerando.
+Considerando
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -461,39 +463,17 @@ XI. Las demás que les señalen otros ordenamientos legales aplicables, este reg
 
 #### Sección I. Del Órgano Interno de Control
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
+
 ###### Artículo 22.
 
-El Órgano Interno de Control, estará a cargo de un Jefe, quien dependerá operativamente del Secretario y normativamente de la Secretaría de la Contraloría del Poder Ejecutivo del Estado y le corresponde:
+Al frente del Órgano Interno de Control habrá un titular, designado en los términos del artículo 23, fracción XI de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, el cual observará las políticas, normas, lineamientos, procedimientos y demás disposiciones aplicables, así como los programas de trabajo de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
 
-I. Elaborar y ejecutar el Programa Anual de Control y Auditoría de acuerdo a la normatividad de la Secretaría de la Contraloría, el cual deberá ser aprobado por el Secretario y validado por el Director de Auditoría de la Secretaría de la Contraloría, así como informar bimestralmente al Secretario y al Titular de la Secretaría de la Contraloría de las actividades desarrolladas;
+El Titular del Órgano Interno de Control, se auxiliará por los titulares de Auditoría, de Responsabilidades Administrativas y de Atención a Denuncias e Investigaciones, quienes serán designados por el Secretario, el demás personal adscrito será nombrado en términos de las disposiciones legales aplicables.
 
-II. Programar y realizar auditorías administrativas a las distintas áreas que integran la Secretaría, de acuerdo a las normas y lineamientos determinados por la Secretaría de la Contraloría;
+Los servidores públicos a que se refiere el párrafo primero y segundo del presente artículo, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro, Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y demás disposiciones legales y administrativas aplicables.
 
-III. Vigilar que sean atendidas las observaciones determinadas en las auditorías realizadas por la Secretaría de la Contraloría, Entidad Superior de Fiscalización del Estado, el propio Órgano Interno de Control y demás auditorías que se lleven a cabo en relación con las actividades de la Secretaría;
-
-IV. Vigilar el cumplimiento del Programa-Presupuesto y del Programa Operativo Anual de la Secretaría;
-
-V. Evaluar mensualmente los estados financieros de la Secretaría para constatar el adecuado manejo de los recursos;
-
-VI. Imponer de conformidad con la normatividad aplicable, las sanciones correspondientes que se deriven de los procedimientos administrativos, disciplinarios y resarcitorios en materia de responsabilidades de los servidores públicos de la Secretaría e informar a la Secretaría de la Contraloría de los mismos y de las resoluciones que se dicten y, en su caso, remitir a ésta, los que por razones de competencia, le correspondan para su conocimiento, desahogo o resolución;
-
-VII. Desahogar el procedimiento administrativo a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
-
-VIII. Implementar procedimientos de prevención y control, conforme a los lineamientos emitidos por la Secretaría de la Contraloría, que regulen el funcionamiento de la Secretaría;
-
-IX. Observar que se cumplan las disposiciones de austeridad, racionalidad, disciplina presupuestal, simplificación y desregulación, vigilando que el manejo y aplicación de los recursos públicos se apeguen a la normatividad en cada caso y respondan a los lineamientos, prioridades y objetivos establecidos por el Gobernador Constitucional del Estado;
-
-X. Vigilar el cumplimiento, grado de avance y economía de los programas, metas y objetivos establecidos en las unidades administrativas de la Secretaría;
-
-XI. Vigilar que en el desempeño de las actividades se observen las disposiciones de carácter legal y administrativo, cuyo objeto sea el control y salvaguarda de los recursos asignados a la Secretaría;
-
-XII. Proponer la aplicación de controles internos que coadyuven a la obtención de los resultados programados y en la protección y optimización de los recursos asignados a las unidades administrativas de la Secretaría;
-
-XIII. Intervenir en los actos de entrega - recepción administrativa de los servidores públicos de la Secretaría;
-
-XIV. Vigilar que la Secretaría no contrate servidores públicos inhabilitados y en caso contrario proceder conforme a la normatividad aplicable, y
-
-XV. Las demás que les señalen otros ordenamientos legales aplicables, este reglamento y el Secretario.
+La Secretaría, proporcionará al Órgano Interno de Control, los recursos humanos y materiales que requieran, para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría están obligados a proporcionarle el auxilio que requiera para el ejercicio de sus facultades.
 
 #### Sección II. De la Unidad de Apoyo Administrativo
 
@@ -560,3 +540,15 @@ Ing. Sergio Amín Chufani Abarca
 Secretario de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado de Querétaro
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS, REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR, REGLAMENTO DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO Y REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD".]
+
+Primero. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Segundo. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Tercero. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
