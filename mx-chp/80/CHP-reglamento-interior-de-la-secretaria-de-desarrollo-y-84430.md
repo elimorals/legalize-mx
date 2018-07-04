@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-desarrollo-y-84430"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2013-10-09"
+last_updated: "2018-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO Y PARTICIPACION SOCIAL DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EL 4 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO Y PARTICIPACIÓN SOCIAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de diciembre de 2011.
 
@@ -31,7 +33,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 44 y 47, de la Constitución Política del Estado de Chiapas; 5, 8, 13 y 23, de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y,
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por los fundamentos y consideraciones antes expuestos, el Ejecutivo a mi cargo tiene a bien expedir el siguiente:
 
@@ -587,7 +591,7 @@ VIII. Proponer al Secretario, proyectos de elaboración o actualización del Reg
 
 IX. Establecer mecanismos de difusión interna del marco jurídico, competencia de la Secretaría.
 
-X. Promover la publicación en el Periódico Oficial del Estado o en otros medios de difusión, si fuera necesario, los (sic) Acuerdos, Lineamientos, Normas y demás actos o disposiciones jurídicas y administrativas que sean competencia de la Secretaría, previa autorización del Secretario.
+X. Promover la publicación en el Periódico Oficial del Estado o en otros medios de difusión, si fuera necesario, los Acuerdos, Lineamientos, Normas y demás actos o disposiciones jurídicas y administrativas que sean competencia de la Secretaría, previa autorización del Secretario.
 
 XI. Formular y substanciar los procedimientos administrativos que conforme a la Ley de la materia, corresponda (sic) a los servidores públicos de la Secretaría, derivados de los actos que en el ejercicio de sus funciones cometan.
 
@@ -1344,3 +1348,23 @@ Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá actuali
 Artículo Quinto.- En tanto se actualizan los Manuales Administrativos, el Secretario resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
 
 Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 2669-A-2018 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL".]
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo y Participación Social, publicado en el Periódico Oficial número 342, Tomo III, de fecha 14 de Diciembre de 2011, sus reformas publicadas en Periódico Oficial del Estado, número 061, Tomo III, de fecha 09 de Octubre de 2013; así como las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Ley de Protección Civil del Estado de Chiapas.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 13 párrafo segundo, en correlación al artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas y 13 fracción V de la Ley Estatal de Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
