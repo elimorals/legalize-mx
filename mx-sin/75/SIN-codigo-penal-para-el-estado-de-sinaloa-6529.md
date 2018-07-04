@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2018-05-25"
+last_updated: "2018-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1997,7 +1997,9 @@ Se aplicará la misma pena prevista en este artículo, cuando entre el sujeto ac
 
 Se equiparará a la violación y se castigará con prisión de diez a treinta años:
 
-l. Al que sin violencia realice cópula con persona menor de doce años;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2018)</small>
+
+I. Al que sin violencia realice cópula con persona menor de catorce años;
 
 II. Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y,
 
@@ -4650,3 +4652,9 @@ P.O. 25 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 474 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA EL CAPÍTULO IV DENOMINADO “USO INDEBIDO DE LOS SERVICIOS DE EMERGENCIA”, INTEGRADO POR LOS ARTÍCULOS 272 BIS Y 272 BIS A, AL TÍTULO TERCERO DENOMINADO “DELITOS CONTRA LA FE PÚBLICA” DENTRO DE LA SECCIÓN TERCERA DENOMINADA “DELITOS CONTRA LA SOCIEDAD”, DEL LIBRO SEGUNDO “PARTE ESPECIAL”, DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 619 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 180 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
