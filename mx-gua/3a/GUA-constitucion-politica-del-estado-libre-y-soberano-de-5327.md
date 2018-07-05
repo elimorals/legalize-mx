@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2018-04-26"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -255,7 +255,15 @@ La correspondencia estará libre de todo registro y su violación será penada p
 
 Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
+
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
+
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
+
+Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
 
 El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
@@ -415,7 +423,9 @@ Toda pena deberá estar prevista en la ley y ser proporcional al delito que sanc
 
 Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
 
-No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 129 de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 124 fracción I de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia.
 
 Para la extinción de dominio, la ley establecerá un procedimiento que se regirá por las siguientes reglas:
 
@@ -1527,9 +1537,9 @@ La Auditoría Superior del Estado de Guanajuato, podrá investigar hechos denunc
 
 El titular de la Auditoría Superior del Estado de Guanajuato, será designado por el voto de las dos terceras partes de los miembros de la Legislatura, de entre la terna que presente el órgano de gobierno interior del Congreso del Estado previa convocatoria que para tal efecto se expida. La Ley determinará el procedimiento para su designación.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
-El titular de la Auditoría Superior Estado de Guanajuato, deberá cumplir con los requisitos señalados en las fracciones I, II, V y VI del artículo 86 de esta Constitución, además de los que disponga la Ley. Durará en su encargo siete años y podrá ser designado nuevamente por una sola vez; durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los miembros de la Legislatura.
+El titular de la Auditoría Superior del Estado de Guanajuato deberá cumplir con los requisitos señalados en las fracciones I, II, V y VI del artículo 85 de esta Constitución, además de los que disponga la Ley. Durará en su encargo siete años y podrá ser designado nuevamente por una sola vez; durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los miembros de la Legislatura.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1841,9 +1851,9 @@ El Poder Judicial contará con un Consejo que será el órgano de administració
 
 El Consejo del Poder Judicial estará integrado por cinco miembros, uno de los cuales será el Presidente del Supremo Tribunal de Justicia, que también presidirá el Consejo; un Juez de Partido, que será aquel que cuente con la mejor calificación de acuerdo con el dictamen de evaluación que para el efecto se emita por el Pleno del Consejo en términos de ley; dos Consejeros designados por el Congreso del Estado de entre las ternas que para tal efecto presenten el Poder Ejecutivo y el Pleno del Supremo Tribunal de Justicia, respectivamente; y un Consejero designado por el Congreso del Estado. Los Consejeros, salvo su Presidente, durarán cuatro años en el cargo, serán sustituidos cada año de manera escalonada y no podrán ser nombrados para el periodo inmediato siguiente.
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
-Los Consejeros del Poder Judicial deberán reunir los requisitos previstos en el artículo 86 de esta Constitución.
+Los Consejeros del Poder Judicial deberán reunir los requisitos previstos en el artículo 85 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
@@ -2527,7 +2537,7 @@ II.- Ejercer, en los términos de las Leyes federales y estatales, las siguiente
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; asimismo planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los Municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a la Ley Federal de la materia. Los Planes de Desarrollo Urbano Municipal deberán establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
+a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; asimismo planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los Municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a la Ley Federal de la materia. Los Planes de Desarrollo Urbano Municipal deberán establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
 
 b).- Participar en la creación y administración de sus reservas territoriales;
 
@@ -2535,13 +2545,13 @@ c).- Formular los Planes Municipales de Desarrollo, de conformidad con lo dispue
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
-d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales. No estarán permitidos en el Estado los usos de suelo para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
+d).- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales. No estarán permitidos en el Estado los usos de suelo para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
 
 e).- Intervenir en la regularización de la tenencia de la tierra urbana;
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
-f) Autorizar divisiones, fusiones, lotificaciones y fraccionamientos de bienes inmuebles, así como otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos de construcción para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
+f).- Autorizar divisiones, fusiones, lotificaciones y fraccionamientos de bienes inmuebles, así como otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos de construcción para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
 
 g).- Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento y fomento en esta materia;
 
@@ -2609,9 +2619,9 @@ En caso de que al iniciarse el año fiscal correspondiente, el Ayuntamiento no h
 
 Presentar al Congreso del Estado la información financiera y la cuenta pública del Municipio, con la periodicidad, forma y términos que establezcan las disposiciones aplicables y la Ley;
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
-La administración municipal centralizada y paramunicipal, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a lo dispuesto por el artículo 134 de esta Constitución;
+La administración municipal centralizada y paramunicipal, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a lo dispuesto por el artículo 136 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2989,11 +2999,13 @@ Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés pú
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 6 DE SEPTIEMBRE DE 2016)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 144.
 
-Esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, serán la Ley Suprema del Estado de Guanajuato.
+La Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes que de ellas emanen y todos los tratados, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema del Estado de Guanajuato.
 
 (REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994) (REUBICADO [N. DE E. ANTES ARTÍCULO 143], P.O. 6 DE SEPTIEMBRE DE 2016)
 
@@ -4049,8 +4061,16 @@ Artículo Único. El presente Decreto entrará en vigencia al día siguiente al 
 
 P.O. 26 DE ABRIL DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 301. QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 301. QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativos que correspondan de conformidad con los alcances de este Decreto, una vez que se expidan las leyes generales a que se refiere el artículo segundo transitorio del Decreto por el que se reforma y adicionan diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos en materia de justicia laboral, publicado en el Diario Oficial de la Federación el 24 de febrero de 2017.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 315, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. Las reformas a los artículos 12, 66, 82, 117 y 144 contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La reforma al artículo 7, del presente Decreto entrará en vigor el mismo día que lo haga la reforma del primer párrafo del artículo 16 y la adición de un nuevo tercer párrafo al artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, contenidos en el decreto publicado el 15 de septiembre de 2017 en el Diario Oficial de la Federación.
