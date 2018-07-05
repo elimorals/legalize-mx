@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2018-04-12"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -1615,23 +1615,29 @@ d) El registro de candidatos a cargos de elección popular.
 
 e) El catálogo de estaciones de radio y canales de televisión, pautas de transmisión, versiones de spots autorizados por el INE para su difusión en el Estado, incluyendo los partidos políticos de registro estatal y de aquellos candidatos independientes registrados;
 
-f) Los montos de financiamiento público por actividades ordinarias, de campaña y específicas otorgadas a los partidos políticos, asociaciones y agrupaciones políticas o de ciudadanos y demás asociaciones políticas, así como los montos autorizados de financiamiento privado y los topes de los gastos de campañas.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
-g) La metodología e informes sobre la publicación de encuestas por muestreo, encuestas de salida y conteos rápidos financiados por las autoridades electorales competentes.
+f) Los montos de financiamiento público por actividades ordinarias, de campaña y específicas otorgadas a los partidos políticos, asociaciones de ciudadanos y demás asociaciones políticas, así como los montos autorizados de financiamiento privado y los topes de los gastos de campañas.
 
-h) La metodología e informe del Programa de Resultados Electorales Preliminares.
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
 
-i) Los cómputos totales de las elecciones y procesos de participación ciudadana.
+g) Los montos autorizados de financiamiento privado a las agrupaciones políticas.
 
-j) Los resultados y declaraciones de validez de las elecciones.
+h) La metodología e informes sobre la publicación de encuestas por muestreo, encuestas de salida y conteos rápidos financiados por las autoridades electorales competentes.
 
-k) Las franquicias postales y telegráficas asignadas al partido político para el cumplimiento de sus funciones.
+i) La metodología e informe del Programa de Resultados Electorales Preliminares.
 
-l) En su caso, la información sobre votos de potosinos residentes en el extranjero.
+j) Los cómputos totales de las elecciones y procesos de participación ciudadana.
 
-m) Los dictámenes, informes y resoluciones sobre pérdida de registro y liquidación del patrimonio de los partidos políticos locales y nacionales en el caso que corresponda al ámbito local.
+k) Los resultados y declaraciones de validez de las elecciones.
 
-n) El monitoreo de medios;
+l) Las franquicias postales y telegráficas asignadas al partido político para el cumplimiento de sus funciones.
+
+m) En su caso, la información sobre votos de potosinos residentes en el extranjero.
+
+n) Los dictámenes, informes y resoluciones sobre pérdida de registro y liquidación del patrimonio de los partidos políticos locales y nacionales en el caso que corresponda al ámbito local.
+
+ñ) El monitoreo de medios;
 
 II. La Comisión Estatal de Derechos Humanos de San Luis Potosí:
 
@@ -3024,5 +3030,13 @@ P.O. 12 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 929.- SE REFORMA Y ADICIONA EL ARTÍCULO 34 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMA EL ARTÍCULO 26, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1002.- SE REFORMA Y ADICIONA EL ARTÍCULO 88 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
