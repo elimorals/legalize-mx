@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2018-06-07"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -133,9 +133,11 @@ La capacidad jurídica de las personas físicas se adquiere por el nacimiento y 
 
 La menor edad, el estado de interdicción y las demás incapacidades establecidas por la ley, constituyen restricciones a la capacidad jurídica; pero los que se encontraren en tales condiciones podrán ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 23.
 
-El mayor de edad y el legalmente emancipado, tienen capacidad jurídica para disponer libremente de su persona y de sus bienes, con las limitaciones que establece la ley.
+El mayor de edad tiene capacidad jurídica para disponer libremente de su persona y de sus bienes, con las limitaciones que establece la ley.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -199,7 +201,9 @@ El domicilio legal de una persona es el lugar donde la ley le fija su residencia
 
 Se reputa domicilio legal:
 
-I. Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
+
+I. Del menor de edad, el de la persona a cuya patria potestad está sujeto;
 
 II. Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
@@ -853,9 +857,7 @@ III. Que es su voluntad unirse en matrimonio.
 
 La solicitud deberá ser firmada por los solicitantes, si alguno no pudiere o no supiere hacerlo, lo hará en su nombre persona conocida, mayor de edad y vecina del lugar.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-En caso de que alguno o ambos pretendientes sean menores de edad, la solicitud también deberá ir firmada por las personas que deban otorgar su consentimiento de acuerdo con el artículo 145 de este Código.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE JULIO DE 2018)</small>
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -897,7 +899,7 @@ I. Los nombres, apellidos, nacionalidad, edad, ocupación, domicilio, Clave de R
 
 II. Los nombres, apellidos y nacionalidad de los padres;
 
-III. Los datos de la dispensa judicial y el consentimiento de las personas que deban otorgarlo, en caso de que los contrayentes se encuentren en el supuesto del artículo 145 de este Código;
+III. (DEROGADA, P.O. 5 DE JULIO DE 2018)
 
 IV. La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la ley y ante la sociedad;
 
@@ -1423,11 +1425,11 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
 ###### Art. 145.
 
-Para contraer matrimonio, es necesario que ambos contrayentes hayan cumplido dieciocho años. El Juez de Partido de lo Civil del domicilio del menor que no llegare a la edad que señala este artículo y que tenga menos de dieciocho años cumplidos y más de dieciséis, podrá conceder dispensa de edad, por causas justificadas. Requerirá además del consentimiento de quien o quienes ostenten la patria potestad.
+Para contraer matrimonio, es necesario que ambos contrayentes hayan cumplido dieciocho años.
 
 Art.146. (DEROGADO, P.O. 27 DE MARZO DE 2009)
 
@@ -1437,29 +1439,27 @@ Art.148. (DEROGADO, P.O. 27 DE MARZO DE 2009)
 
 Art.149. (DEROGADO, P.O. 27 DE MARZO DE 2009)
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
-
 ###### Art. 150.
 
-Quien ostente la patria potestad y haya dado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 151.
 
-Si quien ostenta la patria potestad ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo, pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 104 del presente Código.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 152.
 
-El Juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 153.
 
 Son impedimentos para contraer matrimonio:
 
-I. La falta de edad requerida por la Ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
 
-II. La falta de consentimiento de quienes deban otorgarlo;
+I. La falta de edad requerida por la Ley;
+
+II. (DEROGADA, P.O. 5 DE JULIO DE 2018)
 
 III. El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -1477,7 +1477,9 @@ IX. La locura, el idiotismo y la imbecilidad;
 
 X. El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en la línea colateral desigual.
 
 ###### Art. 154.
 
@@ -1565,7 +1567,7 @@ El marido y la mujer mayores de edad, tienen capacidad para administrar, contrat
 
 ###### Art. 170.
 
-El marido y la mujer menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 171.
 
@@ -1607,7 +1609,7 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 
 ###### Art. 179.
 
-El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio, o la autorización judicial si las capitulaciones se pactan después de celebrado el matrimonio.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ### Capítulo V. De la separación de bienes
 
@@ -1623,9 +1625,11 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la modificación que se haga de las capitulaciones deberá también otorgarse en escritura pública haciendo la respectiva anotación en el Protocolo en que se otorgaron las primitivas capitulaciones y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efectos contra tercero.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 183.
 
-La sociedad conyugal puede terminar o suspenderse antes de que se disuelva el matrimonio si así lo convienen los esposos, pero si éstos o alguno de ellos son menores de edad, el convenio relativo no podrá celebrarse sin autorización judicial.
+La sociedad conyugal puede terminar o suspenderse antes de que se disuelva el matrimonio si así lo convienen los esposos.
 
 ###### Art. 184.
 
@@ -1713,11 +1717,13 @@ La separación puede comprender no sólo los bienes de que sean dueños los cons
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación serán objeto de la sociedad conyugal que deben constituir los esposos, o en su defecto de la sociedad legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 199.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal, pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 183.
+Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal.
 
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE JULIO DE 2018)</small>
 
 ###### Art. 200.
 
@@ -2127,15 +2133,11 @@ La acción de nulidad que nace del error sólo puede deducirse por el cónyuge e
 
 ###### Art. 294.
 
-La nulidad por falta de consentimiento de los ascendientes, sólo podrá pedirse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 295.
 
-Cesa esta causa de nulidad:
-
-I. Si han pasado los treinta días sin que se haya pedido;
-
-II. Si dentro de este término el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio o recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del Juez sean tan conducentes al efecto, como los expresados.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 296.
 
@@ -2145,9 +2147,11 @@ II. Si dentro de este término el ascendiente ha consentido expresamente en el m
 
 Aunque el parentesco de consanguinidad no dispensado anula el matrimonio, si después de conocida la causa de nulidad se obtuviere dispensa y ambos cónyuges quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 298.
 
-La acción que nace de esta clase de nulidad, y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes si son menores y por el Ministerio Público.
+La acción que nace de esta clase de nulidad, y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges y por el Ministerio Público.
 
 ###### Art. 299.
 
@@ -2155,7 +2159,7 @@ La acción de nulidad que nace de la causa prevista en la fracción V del artíc
 
 ###### Art. 300.
 
-La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado o por el Ministerio Público, dentro del término de seis meses contados desde que se celebró el nuevo matrimonio. .
+La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado o por el Ministerio Público, dentro del término de seis meses contados desde que se celebró el nuevo matrimonio.
 
 ###### Art. 301.
 
@@ -2163,7 +2167,9 @@ El miedo y la violencia serán causa de nulidad del matrimonio si concurren las 
 
 I. Que uno u otro importe el peligro de perder la vida, la honra, la libertad, la salud, o una parte considerable de los bienes;
 
-II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
+
+II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su tutela al celebrarse el matrimonio; y
 
 III. Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
@@ -2261,9 +2267,11 @@ I. Cuando se ha contraído estando pendiente la decisión de un impedimento que 
 
 II. Cuando no se haya otorgado la previa dispensa que requiere el artículo 156 y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 155 y 343.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 321.
 
-Los que contraigan un matrimonio ilícito, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o de las autoridades competentes en sus respectivos casos y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código Penal.
+Los que contraigan un matrimonio ilícito incurrirán en las penas que señale el Código Penal.
 
 ### Capítulo I. Del parentesco
 
@@ -3389,9 +3397,11 @@ Quienes ejerzan la patria potestad de niñas, niños y adolescentes, deberán cu
 
 Quienes ejerzan la patria potestad deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 466.
 
-Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+Los hijos menores de edad están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -3573,9 +3583,11 @@ II. Cuando contraigan ulteriores nupcias;
 
 III. Cuando su administración sea notoriamente ruinosa para los hijos.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 488.
 
-Cuando por la ley o por la voluntad del padre el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+Cuando por la ley o por la voluntad del padre, el hijo tenga la administración de los bienes, sólo tendrá la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
 
 ###### Art. 489.
 
@@ -3593,9 +3605,9 @@ Al efecto, el precio de la venta se depositará en una Institución de Crédito,
 
 El derecho del usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1970)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
 
-I. Por el matrimonio o por la mayor edad de los hijos;
+I. Por la mayor edad de los hijos;
 
 II. Por la pérdida de la patria potestad;
 
@@ -3619,9 +3631,11 @@ Los Jueces tienen facultad de tomar las medidas necesarias para impedir que, por
 
 Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 495.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
 ### Capítulo I. Disposiciones Generales
 
@@ -3631,9 +3645,7 @@ La patria potestad se acaba:
 
 I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1970)</small>
-
-II. Con el matrimonio del sujeto a ella;
+II. (DEROGADA, P.O. 5 DE JULIO DE 2018)
 
 III. Por la mayor edad del hijo.
 
@@ -3737,11 +3749,9 @@ III. Los sordomudos que no sepan leer ni escribir;
 
 IV. Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1970)</small>
-
 ###### Art. 504.
 
-Los menores de edad emancipados por razón del matrimonio tienen incapacidad legal para los actos que se mencionan en el artículo 691.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 505.
 
@@ -3847,9 +3857,11 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 527.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, puede nombrarle tutor solamente para administración de los bienes que le deje. Aun cuando en la disposición testamentaria correspondiente se prevenga que el beneficiario no reciba los productos del capital dejado en herencia o legado, no subsistirá dicha disposición en lo estrictamente indispensable para satisfacer las necesidades alimentarias del menor.
+El que en su testamento, aunque sea un menor, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, puede nombrarle tutor solamente para administración de los bienes que le deje. Aun cuando en la disposición testamentaria correspondiente se prevenga que el beneficiario no reciba los productos del capital dejado en herencia o legado, no subsistirá dicha disposición en lo estrictamente indispensable para satisfacer las necesidades alimentarias del menor.
 
 ###### Art. 528.
 
@@ -3997,7 +4009,7 @@ Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los
 
 ###### Art. 553.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 554.
 
@@ -4541,9 +4553,11 @@ La obligación de dar cuenta pasa a los herederos del tutor. Si alguno de ellos 
 
 La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 657.
 
-Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo ya mayor, relativo a la administración de la tutela o a las cuentas mismas.
 
 ### Capítulo XIII. De la entrega de bienes
 
@@ -4633,9 +4647,7 @@ Designarán por sí mismos al curador, con aprobación judicial:
 
 I. Los comprendidos en el artículo 550, observándose lo que allí se dispone respecto de esos nombramientos;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1970)</small>
-
-II. Los menores de edad emancipados por razón del matrimonio, en el caso previsto en el artículo 691, fracción II.
+II. (DEROGADA, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 677.
 
@@ -4671,15 +4683,15 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 ### Capítulo I. De la emancipación
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1970)</small>
-
 ###### Art. 683.
 
 Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en el segundo párrafo de la fracción IV del artículo 591.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 684.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas en el artículo 691.
+Son también nulos los actos de administración y los contratos celebrados por menores, si son contrarios a las restricciones establecidas para enajenar, gravar o hipotecar bienes raíces.
 
 ###### Art. 685.
 
@@ -4705,25 +4717,15 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ###### Art. 689.
 
-El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque, el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 690.
 
-Para los efectos del artículo anterior, el Oficial del Registro Civil, a petición del interesado, hará constar dicha situación en las respectivas actas de nacimiento del cónyuge o cónyuges emancipados, citando la fecha de celebración del matrimonio, así como el número de acta correspondiente.
-
-Si el acta de nacimiento del cónyuge o cónyuges emancipados corresponde a otra Oficialía, se mandará dar aviso al Oficial del Registro Civil respectivo para que realice las anotaciones conducentes.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1970)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 691.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
-
-I. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-II. De un tutor para negocios judiciales.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 692.
 
@@ -4741,7 +4743,7 @@ La mayor edad comienza a los dieciocho años cumplidos.
 
 ###### Art. 695.
 
-El mayor de edad dispone libremente de su persona y de sus bienes.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ## Título Undécimo. De los ausentes e ignorados
 
@@ -5187,7 +5189,9 @@ El miembro del núcleo familiar o de la familia, compuesta ésta por los parient
 
 Además, comprobará lo siguiente:
 
-I. Que es mayor de edad o que está emancipado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
+
+I. Que es mayor de edad;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -10923,23 +10927,19 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
 ###### Art. 1895.
 
-El interés legal será el previsto en el artículo 1570 de este Código. El interés convencional es el que fijen los contratantes, y que puede ser mayor o menor al interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el Juez teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+El interés legal será el previsto en el artículo 1570 de este Código. El interés convencional será el que acuerden las partes, sin que dicho interés debe exceder a los vigentes en el sistema financiero, entendidos los mismos, como aquellos que regula la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en la fecha próxima anterior al día del acuerdo. Se consideran ilícitos, nulos de pleno derecho, y se tendrán por no pactados, los acuerdos, en oposición al preceptuado en este artículo.
 
 ###### Art. 1896.
 
-Si en el caso a que se refiere el artículo anterior, el deudor demostrara que realmente su acreedor abusó de su estado de necesidad, de su ignorancia o inexperiencia, podrá pedir, si no optara por la reducción equitativa del interés, que se declare la nulidad del pacto relativo a intereses desproporcionados, con efectos restitutorios, sirviendo como base para calcular el interés por el tiempo anterior a la declaratoria de nulidad, el que equitativamente fije el Juez, según las circunstancias del caso, el cual podrá ser reducido hasta el tipo del interés legal, si tales circunstancias lo ameritan.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 1897.
 
-Si se ha convenido un interés más alto que el interés legal, el deudor en cualquier tiempo a partir de la fecha de celebración del contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor y pagando los intereses vencidos.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 ###### Art. 1898.
 
@@ -17412,3 +17412,19 @@ P.O. 7 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 497, EN SU FRACCIÓN III, A LA QUE TAMBIÉN SE LE ADICIONA UN SEGUNDO PÁRRAFO, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 317, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO; Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los cónyuges menores de edad, que posterior a la entrada en vigor del presente Decreto, pretendan el divorcio por mutuo consentimiento se les aplicará el artículo 859 vigente en la época en la que contrajeron matrimonio.
+
+Artículo Tercero. A los menores de edad actualmente emancipados por razón del matrimonio, les seguirán aplicando las normas vigentes antes de la entrada en vigor del presente Decreto.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 319, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 205 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; SE REFORMA EL ARTÍCULO 1895 Y SE DEROGAN LOS ARTÍCULOS 1896 Y 1897 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico oficial de (sic) Gobierno del Estado.
