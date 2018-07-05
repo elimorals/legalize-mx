@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-participacion-ciudadana-para-el-estado-de-guanajuato-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-22"
-last_updated: "2013-06-07"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 22 de octubre de 2002.
 
@@ -285,9 +285,11 @@ La iniciativa popular es el derecho de los ciudadanos guanajuatenses inscritos e
 
 La solicitud de iniciativa popular deberá presentarse por escrito ante el Congreso del Estado, por conducto de la Secretaría General o en su caso, ante el Ayuntamiento, por conducto del Secretario del mismo y contener los siguientes requisitos:
 
-I.- Solicitarse por ciudadanos guanajuatenses que representen cuando menos el tres por ciento de los inscritos en la lista nominal de electores del Estado, o en su caso, del Municipio respectivo, contabilizándose para tal efecto el número de inscritos al penúltimo corte anterior, realizado por el Registro Federal de Electores a la fecha de la presentación de la solicitud.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
 
-En ningún caso el número de solicitantes podrá ser menor de trescientos ciudadanos;
+I.- Solicitarse por ciudadanos guanajuatenses que representen cuando menos el cero punto cinco por ciento de los inscritos en la lista nominal de electores del Estado, o en su caso, del Municipio respectivo, contabilizándose para tal efecto el número de inscritos al penúltimo corte anterior, realizado por el Registro Federal de Electores a la fecha de la presentación de la solicitud.
+
+En ningún caso el número de solicitantes podrá ser menor de cien ciudadanos;
 
 II.- El nombre legible y firma de cada uno de los solicitantes, su clave de elector y número de folio de la credencial para votar, debiéndose anexar copia de la misma;
 
@@ -327,11 +329,15 @@ El plebiscito es el proceso mediante el cual se somete a la aprobación o rechaz
 
 El plebiscito podrá ser solicitado por:
 
-I.- El Titular del Poder Ejecutivo o el cinco por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal de electores de la Entidad, tratándose de actos o decisiones del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
 
-II.- El Ayuntamiento mediante acuerdo tomado por el voto de la mayoría simple o el cinco por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal de electores del Municipio, tratándose de actos de gobierno de los Ayuntamientos.
+I.- El Titular del Poder Ejecutivo o el tres por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal de electores de la Entidad, tratándose de actos o decisiones del Gobernador del Estado;
 
-En ningún caso el número de solicitantes podrá ser menor de quinientos ciudadanos; o
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
+
+II.- El Ayuntamiento mediante acuerdo tomado por el voto de la mayoría simple o el tres por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal de electores del Municipio, tratándose de actos de gobierno de los Ayuntamientos.
+
+En ningún caso el número de solicitantes podrá ser menor de doscientos ciudadanos; o
 
 III.- El diez por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal del Municipio afectado, para solicitar la erección de un nuevo Municipio.
 
@@ -371,11 +377,15 @@ El referéndum es el proceso mediante el cual, se somete a la aprobación o rech
 
 El referéndum podrá ser solicitado por:
 
-I.- Los Diputados al Congreso del Estado que representen la mayoría de los presentes en la sesión; o el cinco por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal de electores de la Entidad, tratándose de leyes; o
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
 
-II.- El Ayuntamiento mediante acuerdo tomado por el voto de la mayoría simple o el cinco por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal de electores del Municipio, tratándose de reglamentos municipales o disposiciones generales.
+I.- Los Diputados al Congreso del Estado que representen la mayoría de los presentes en la sesión; o el tres por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal de electores de la Entidad, tratándose de leyes; o
 
-En ningún caso el número de solicitantes podrá ser menor de quinientos ciudadanos.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
+
+II.- El Ayuntamiento mediante acuerdo tomado por el voto de la mayoría simple o el tres por ciento de los ciudadanos guanajuatenses inscritos en la lista nominal de electores del Municipio, tratándose de reglamentos municipales o disposiciones generales.
+
+En ningún caso el número de solicitantes podrá ser menor de doscientos ciudadanos.
 
 ###### Artículo 37.
 
@@ -409,7 +419,9 @@ I.- Los Diputados al Congreso del Estado que representen el voto de las dos terc
 
 II.- La mitad más uno de los Ayuntamientos de los Municipios del Estado de Guanajuato; o
 
-III.- Los ciudadanos que representen cuando menos el diez por ciento de los inscritos en la lista nominal de electores de la Entidad.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2018)</small>
+
+III.- Los ciudadanos que representen cuando menos el cinco por ciento de los inscritos en la lista nominal de electores de la Entidad.
 
 ###### Artículo 41.
 
@@ -956,3 +968,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 321, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
