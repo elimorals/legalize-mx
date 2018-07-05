@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-9-2016-del-pleno-del-consejo-de-la-113125"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2018-02-23"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113125&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 9/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE TABASCO, CON RESIDENCIA EN VILLAHERMOSA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2018.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -109,9 +109,11 @@ Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en lo
 
 La jurisdicción territorial de los juzgadores del Centro comprenderá el Estado de Tabasco, con la totalidad de sus municipios.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 19/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE JULIO DE 2018)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Av. Gregorio Méndez Magaña No. 2637, colonia Atasta de Serra, C.P. 86100, Villahermosa, Tabasco.
+El domicilio del Centro de Justicia será el ubicado en Avenida 23 sin número, Manzana 50, entre Avenida 29 y Avenida 11, poblado Dos Montes, Municipio de Centro, código postal 86280, Villahermosa, Tabasco.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
@@ -324,3 +326,17 @@ XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia 
 XXVI. a XXXVIII. …”
 
 TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 19/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE TABASCO, CON RESIDENCIA EN VILLAHERMOSA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el seis de julio de dos mil dieciocho, con excepción de lo dispuesto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Centro de Justicia Penal Federal en el Estado de Tabasco, con residencia en Villahermosa, deberá colocar avisos en lugares visibles en relación con el cambio de domicilio.
+
+CUARTO. Se reforma el artículo 7, párrafo primero, del Acuerdo General 9/2016, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Tabasco con residencia en Villahermosa, para quedar como sigue:
+
+“Artículo 7. El domicilio del Centro de Justicia será el ubicado en Avenida 23 sin número, Manzana 50, entre Avenida 29 y Avenida 11, poblado Dos Montes, Municipio de Centro, código postal 86280, Villahermosa, Tabasco.”
