@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2018-05-30"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1573,6 +1573,16 @@ El homicidio y las lesiones culposos no serán punibles cuando el sujeto pasivo 
 
 El homicidio y las lesiones culposos serán punibles cuando el activo hubiese obrado bajo el influjo de bebidas embriagantes, estupefacientes o sustancias psicotrópicas o abandone injustificadamente a la víctima.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
+
+###### Artículo 155
+
+a. Habrá homicidio o lesiones culposos, cuando se deriven de la atención médica otorgada por profesionales de la salud en el ejercicio de su práctica profesional siempre y cuando obren con negligencia inexcusable.
+
+Se considerará que existe homicidio o lesiones culposos, también, en los términos del párrafo anterior, cuando fueren causados por técnicos o auxiliares de la salud en el ejercicio de sus actividades siguiendo las instrucciones o bajo la supervisión de un médico.
+
+Habrá negligencia médica inexcusable cuando en la atención médica otorgada por profesionales de la salud no se observen los deberes de cuidado establecidos de conformidad con la legislación de la materia.
+
 (REUBICADO, ANTES CAPÍTULO V, P.O. 3 DE JUNIO DE 2011)
 
 ### CAPÍTULO VIII. INSTIGACIÓN O AYUDA AL SUICIDIO
@@ -1999,7 +2009,7 @@ d.- Si el responsable del delito de hostigamiento sexual es servidor público, s
 
 ### CAPÍTULO IV. USURA
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2018)</small>
 
 ### CAPÍTULO V. DESPOJO
 
@@ -2261,7 +2271,9 @@ Los delitos previstos en este capítulo sólo se perseguirán por querella, salv
 
 ###### Artículo 205.
 
-A quien por cualquier medio obtenga un rédito mensual igual o superior al Costo Porcentual Promedio fijado por el Banco de México o el indicador que legalmente lo sustituya, más cinco puntos porcentuales, se le aplicará de uno a seis años de prisión y de diez a sesenta días multa.
+Al que obtenga de otra persona ventajas usurarias por medio de contratos o convenios en los que se estipulen réditos o lucros superiores a los vigentes en el sistema financiero, entendidos los mismos, como aquellos que regula la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, se le aplicará de dos a diez años de prisión y de diez a sesenta días multa.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Este delito se perseguirá por querella.
 
@@ -3862,3 +3874,15 @@ P.O. 30 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 309 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO XIV DEL TÍTULO SEGUNDO, DEL LIBRO SEGUNDO Y EL ARTÍCULO 262; Y SE ADICIONAN LOS ARTÍCULOS 262-BIS Y 262-TER DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 318, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 155-A, AL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico oficial de (sic) Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 319, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 205 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; SE REFORMA EL ARTÍCULO 1895 Y SE DEROGAN LOS ARTÍCULOS 1896 Y 1897 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico oficial de (sic) Gobierno del Estado.
