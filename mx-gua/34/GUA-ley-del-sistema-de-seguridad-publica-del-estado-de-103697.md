@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2017-03-31"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -989,7 +989,9 @@ La terminación del servicio será inscrita en los Registros Nacional y Estatal 
 
 ### Capítulo IV. Sistemas Complementarios de Seguridad Social y Reconocimientos
 
-Sistemas complementarios de seguridad social para los integrantes de las Instituciones de Seguridad Pública
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
+Prestaciones complementarias de seguridad social para los integrantes de las Instituciones de Seguridad Pública
 
 ###### Artículo 51.
 
@@ -1075,9 +1077,63 @@ Régimen disciplinario de las Instituciones Policiales
 
 ###### Artículo 59.
 
-Las instituciones de seguridad pública deberán garantizar a sus integrantes, al menos las prestaciones previstas como mínimas para los trabajadores al servicio del Estado. El Estado y los municipios generarán de acuerdo a sus necesidades y con cargo a sus presupuestos, una normatividad de régimen complementario de seguridad social y reconocimientos, de acuerdo a lo previsto en el artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+El Estado y los municipios garantizarán a los integrantes de sus Instituciones Policiales al menos las prestaciones previstas como mínimas para los trabajadores al servicio del Estado y los municipios. Adicionalmente a fin de propiciar el fortalecimiento del sistema de seguridad social del personal integrante de las Instituciones Policiales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
 
-Las instituciones de seguridad pública, conforme a lo dispuesto en esta Ley, realizarán y someterán a las autoridades que correspondan, los estudios técnicos pertinentes para la revisión, actualización y fijación de sus tabuladores y las zonas en que éstos deberán regir.
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
+
+Reglas para la remuneración y sistemas complementarios de seguridad social de las Instituciones Policiales
+
+###### Artículo 59
+
+1. La remuneración de los integrantes de las Instituciones Policiales será acorde con la calidad y riesgo de las funciones en sus rangos y puestos respectivos, así como en las misiones que cumplan, las cuales no podrán ser disminuidas durante el ejercicio de su encargo y deberán garantizar un sistema de retiro digno.
+
+Las Instituciones Policiales municipales, considerarán las recomendaciones relativas a la remuneración de los integrantes que para tal efecto realice el Instituto.
+
+I. De igual forma, se establecerá un sistema de compensaciones para los ascendientes, descendientes, cónyuge, concubina o concubinario, siempre que hubiesen dependido económicamente de los elementos de las Instituciones Policiales, que contemplen el fallecimiento y la incapacidad total o permanente acaecidos por motivo de sus funciones de conformidad con lo siguiente:
+
+a) Indemnización por incapacidad total o permanente en el que la suma deberá ser al menos de cincuenta y hasta doscientos meses de salario íntegro, dicha suma será suministrada de conformidad con la normatividad correspondiente.
+
+En el caso de incapacidad parcial, las Instituciones Policiales, deberán velar por la permanencia laboral en un área administrativa que su condición se lo permita; y
+
+b) Indemnización por fallecimiento en el que la suma deberá ser al menos de ciento cincuenta y hasta trescientos meses de salario íntegro, dicha suma será suministrada de conformidad con la normatividad correspondiente.
+
+II. Adicionalmente, deberán contar al menos con lo siguiente:
+
+a) Pago de gastos funerarios por el fallecimiento del elemento de las Instituciones Policiales;
+
+b) La atención psicológica, que requiera por afectaciones o alteraciones que sufra a consecuencia del desempeño de sus funciones;
+
+c) Becas educativas para los elementos de las Instituciones Policiales y sus descendientes menores de edad; y
+
+d) Becas y apoyos educativos para los descendientes menores de edad de los integrantes de las Instituciones Policiales fallecidos o que les haya sobrevenido incapacidad total permanente, en el ejercicio o con motivo de sus funciones.
+
+Para tales efectos, el titular del Poder Ejecutivo del Estado y los ayuntamientos deberán promover en el ámbito de sus competencias, las adecuaciones normativas.
+
+El sistema de compensaciones y las prestaciones adicionales establecidas en el presente artículo no forman parte del salario integrado.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
+
+Fideicomiso para los integrantes de las Instituciones Policiales
+
+###### Artículo 59
+
+2. El Poder Ejecutivo del Estado y los ayuntamientos, deberán integrar un Fideicomiso para el pago de las compensaciones a que se refiere la fracción I del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
+
+Requisitos que integran el Fideicomiso para el pago de las remuneraciones y sistemas complementarios de seguridad social de las Instituciones Policiales
+
+###### Artículo 59
+
+3. El Fideicomiso para el pago de las compensaciones de los integrantes de las Instituciones Policiales se integrará de la siguiente manera.
+
+I. Recursos asignados en el Presupuesto General de Egresos del Estado;
+
+II. Recursos destinados para tal efecto en los presupuestos de egresos de los cuarenta y seis municipios del Estado; y
+
+III. Las donaciones o aportaciones realizadas por el sector privado.
+
+Para tales efectos, el Estado y los municipios deberán promover en el ámbito de sus competencias, las adecuaciones legales y presupuestarias respectivas.
 
 Desarrollo policial
 
@@ -1287,15 +1343,9 @@ I. Para las áreas operativas, de policía a Comisario General; y
 
 II. Para los servicios, de policía a Comisario Jefe.
 
-Reglas para la remuneración de las Instituciones Policiales
-
 ###### Artículo 76.
 
-La remuneración de los integrantes de las Instituciones Policiales será acorde con la calidad y riesgo de las funciones en sus rangos y puestos respectivos, así como en las misiones que cumplan, las cuales no podrán ser disminuidas durante el ejercicio de su encargo y deberán garantizar un sistema de retiro digno.
-
-De igual forma, se establecerán sistemas de seguros para los familiares de los policías, que contemplen el fallecimiento y la incapacidad total o permanente acaecida en el cumplimiento de sus funciones.
-
-Para tales efectos, el Estado y los municipios deberán promover en el ámbito de sus competencias, las adecuaciones legales y presupuestarias respectivas.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 Normas mínimas de la carrera policial
 
@@ -1816,6 +1866,24 @@ XXVIII. La validación de los planes y programas de capacitación del personal d
 XXIX. Proporcionar instrucción a los aspirantes y miembros de las instituciones policiales municipales, de otros estados y de sus municipios, en los términos de los convenios y normativa aplicable; y
 
 XXX. El apoyo al servicio profesional de carrera policial, en la aplicación del proceso de evaluación permanente a los miembros de las Instituciones Policiales, mediante el cual se sustentará el concurso de promoción de ascensos dentro de sus estructuras jerárquicas.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
+
+Recomendaciones sobre el tabulador de las Instituciones Policiales municipales
+
+###### Artículo 115
+
+1. El Instituto deberá emitir a más tardar el quince de septiembre de cada año, las recomendaciones sobre el tabulador de sueldos y salarios de los integrantes de las Instituciones Policiales municipales, mismas que deberá publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato y, en su caso, en un diario de circulación estatal.
+
+Para tal efecto el Instituto deberá evaluar las siguientes variables:
+
+a) Indicadores económicos;
+
+b) Indicadores de eficiencia administrativa;
+
+c) Indicadores sobre incidencia delictiva; y
+
+d) Rango y responsabilidad de la función.
 
 Organización del Instituto
 
@@ -2876,3 +2944,13 @@ P.O. 31 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 178, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 37 Y 39 Y SE ADICIONAN LOS ARTÍCULOS 37-1 Y 41 CON UN SEGUNDO PÁRRAFO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 316, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA, DEROGA Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones o adecuaciones normativas necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.
+
+Artículo Tercero. En un plazo no mayor de sesenta días contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado y los ayuntamientos, deberán hacer las previsiones presupuestales necesarias para dar cumplimiento a las obligaciones contempladas en el presente decreto.
