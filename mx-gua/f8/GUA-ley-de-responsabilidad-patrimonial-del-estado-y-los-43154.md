@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidad-patrimonial-del-estado-y-los-43154"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2016-07-01"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 7 de enero de 2005
 
@@ -35,9 +35,7 @@ DECRETO NÚMERO 110.
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO
-
-Y LOS MUNICIPIOS DE GUANAJUATO
+LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -245,7 +243,13 @@ Toda demanda de reclamación deberá estar firmada por quien la formule y sin es
 
 Las autoridades acordarán la acumulación de los expedientes de los procedimientos que ante ellas se sigan, de oficio o a petición de parte, cuando los interesados o los actos administrativos sean iguales, se trate de actos conexos o resulte conveniente el trámite unificado de los asuntos para evitar la emisión de resoluciones contradictorias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Artículo 25.
+
+Cuando la reclamación de indemnización por responsabilidad patrimonial no cumpla con los requisitos previstos en el artículo 23, se requerirá al actor para que en el término de cinco días lo aclare, corrija o complete, con el apercibimiento que, de no hacerlo, se tendrá por no presentada. Respecto de las pruebas documental, pericial y confesional se tendrán por no ofrecidas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2018)</small>
 
 Las reclamaciones de indemnización por responsabilidad patrimonial notoriamente improcedentes serán desechadas de plano por la autoridad ante la cual se presenten.
 
@@ -526,3 +530,9 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 320, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 25 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
