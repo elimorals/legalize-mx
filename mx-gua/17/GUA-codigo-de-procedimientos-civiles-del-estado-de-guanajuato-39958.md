@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2017-07-14"
+last_updated: "2018-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -295,9 +295,11 @@ VI.- En los actos de jurisdicción voluntaria, salva disposición contraria de l
 
 En los procedimientos relativos a adopción y tutela de los menores o incapacitados es Juez competente el de la residencia del menor o incapacitado.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
 ###### Art. 32.
 
-Para suplir el consentimiento del que ejerce la patria potestad y para conocer de los impedimentos para contraer matrimonio, es juez competente el del lugar en que hayan presentado su solicitud los pretendientes.
+Para conocer de los impedimentos para contraer matrimonio, es juez competente el del lugar en que hayan presentado su solicitud los pretendientes.
 
 ###### Art. 33.
 
@@ -5113,7 +5115,9 @@ Ninguna tutela puede conferirse sin que previamente se declare el estado de mino
 
 En los casos de tutela autodesignada, ésta será inscrita en el Registro Público, de conformidad con lo dispuesto por el artículo 2495 fracción XIV del Código Civil para el Estado de Guanajuato.
 
-La declaración de estado de minoridad puede pedirse por el mismo menor, si ha cumplido dieciséis años; por su cónyuge; por sus presuntos herederos legítimos, y por el Ministerio Público.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+
+La declaración de estado de minoridad puede pedirse por el mismo menor, si ha cumplido dieciséis años, por sus presuntos herederos legítimos, y por el Ministerio Público.
 
 ###### Art. 712.
 
@@ -5357,7 +5361,7 @@ Disposiciones relativas a otros actos de jurisdicción voluntaria.
 
 Se tramitará en la forma de incidente, que en todo caso habrá de seguirse con el Ministerio Público:
 
-I.- La autorización judicial que soliciten los emancipados por razón del matrimonio para enajenar o grabar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial; y
+I.- (DEROGADA, P.O. 5 DE JULIO DE 2018)
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -5367,9 +5371,11 @@ II.- La calificación de la excusa de la patria potestad, en los casos a que se 
 
 Podrá decretarse el depósito de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores o reciban de estos ejemplos perniciosos, a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes, y de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-La mujer menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
 
-En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
+Para su trámite, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE JULIO DE 2018)</small>
 
 ###### Art. 744.
 
@@ -6693,13 +6699,9 @@ A la audiencia de juicio deben comparecer personalmente los cónyuges quienes ra
 
 El juez analizará el convenio y señalará a los cónyuges los puntos que no se apeguen a derecho o que considere inequitativos, para que los corrijan en la propia audiencia. De encontrarlo ajustado a la ley y de estar garantizados los derechos de menores e incapaces el juez dictará sentencia aprobando el convenio y disolviendo el vínculo matrimonial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Art. 859.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-###### Artículo 859.
-
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 5 DE JULIO DE 2018)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7602,3 +7604,13 @@ P.O. 14 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 203, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 704-C DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO."]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 5 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 317, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL ESTADO PARA EL ESTADO DE GUANAJUATO; Y EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO."]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los cónyuges menores de edad, que posterior a la entrada en vigor del presente Decreto, pretendan el divorcio por mutuo consentimiento se les aplicará el artículo 859 vigente en la época en la que contrajeron matrimonio.
+
+Artículo Tercero. A los menores de edad actualmente emancipados por razón del matrimonio, les seguirán aplicando las normas vigentes antes de la entrada en vigor del presente Decreto.
