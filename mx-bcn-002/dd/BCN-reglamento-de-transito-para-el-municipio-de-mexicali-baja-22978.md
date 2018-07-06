@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2017-09-08"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -735,7 +737,11 @@ I.- La instalación y uso de faros principales que emitan luz de colores distint
 
 II.- Utilizar las sirenas, accesorios, colores y emblemas privativos de los vehículos policiales y de emergencia, así como torretas sin la debida autorización;
 
-III.- La modificación de claxon y silenciadores de escape, así como la instalación de dispositivos que contaminen el ambiente con ruido, como válvulas de escape u otros similares; y,
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+
+III.- Conducir vehículos de motor con el escape abierto, con aparatos instalados en los mismos para producir ruido o amplificar el sonido, o reproducir música o sonidos a bordo de dichos vehículos, cuya emisión genere molestias a terceros o altere el orden público.
+
+Los aparatos amplificadores de sonido con usos comerciales instalados en vehículos, sólo podrán operar cuando cuenten con permiso otorgado conforme al Reglamento de Protección al Ambiente para el Municipio de Mexicali, Baja California;
 
 IV.- Portar en los parabrisas o ventanillas, rótulos, carteles, calcomanías u objetos que obstruyan la visibilidad del conductor.
 
@@ -884,6 +890,14 @@ XX.- Conducir utilizando teléfonos celulares y/o sistemas de comunicación de o
 > <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2017)</small>
 
 XXI.- Circular con residuos sólidos urbanos en vehículos con caja o plataforma, de redila, tracto camiones, camionetas o cualquier otro medio de transporte de carga, sin contar con autorización vigente emitida por la Dirección de Protección al Ambiente del Municipio de Mexicali, o que transporten residuos competencia de la autoridad federal o estatal, sin contar con autorización vigente de estas últimas.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2018)</small>
+
+XXII.- Dejar animales en el interior de un vehículo, sin atención o adecuada ventilación, o en forma tal que estén expuestos a temperaturas extremas;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2018)</small>
+
+XXIII.- Transportar animales en vehículos de motor, ya sea en el interior o en la cajuela de los mismos, sin sujeción a una correa o caja de traslado;
 
 ###### ARTÍCULO 55.
 
@@ -1203,7 +1217,7 @@ ARTÍCULO 72 BIS.- La Dirección podrá establecer diversos dispositivos tecnol�
 
 I.- Evitar actos de corrupción durante el ejercicio de la función;
 
-II.- Garantizar a la ciudanía la seguridad jurídica en el desempeño de las funciones de Tránsito y Transporte;
+II.- Garantizar a la ciudanía (sic) la seguridad jurídica en el desempeño de las funciones de Tránsito y Transporte;
 
 III.- Facilitar y eficientar la aplicación y cumplimiento de las sanciones administrativas que establecen la Ley de Tránsito y Transporte del Estado de Baja California y el presente Reglamento; y
 
@@ -2063,7 +2077,7 @@ El procedimiento será conforme al presente Reglamento, en el apartado de los ac
 
 II.- Cuando el conductor muestre síntomas claros y ostensibles de estado de ebriedad y/o de estar bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, si el conductor es de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, en el momento que se encuentren prestando el servicio público que les fue autorizado.
 
-En esto caso, cuando el agente o inspector cuente con alcoholímetro, deberá exigir al conductor que se someta a la prueba correspondiente, y/o a las pruebas de rutina correspondientes a verificar el estado que permita la adecuada conducción de un vehículo de motor. Una vez efectuada, y procederá como sigue:
+En esto (sic) caso, cuando el agente o inspector cuente con alcoholímetro, deberá exigir al conductor que se someta a la prueba correspondiente, y/o a las pruebas de rutina correspondientes a verificar el estado que permita la adecuada conducción de un vehículo de motor. Una vez efectuada, y procederá como sigue:
 
 a).- si de las pruebas resulte que no existen síntomas claros de que el conductor se encuentre en estado de ebriedad y/o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias toxicas, solo lo sancionara por otras infracciones que hubiere cometido.
 
@@ -2191,7 +2205,7 @@ c) Graves: Aquellas que se comprenden de 11 a 50 salarios.
 
 > <small>[N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74; P.O. 6 DE NOVIEMBRE DE 2015, PÁGINA 83; P.O. 4 DE DICIEMBRE DE 2015, PÁGINA 10.]</small>
 
-> <small>[N. DE E. VÉASE ADICIÓN A LA TABLA DE SANCIONES EN EL P.O. DE 8 DE SEPTIEMBRE DE 2017, PÁGINA 17.]</small>
+> <small>[N. DE E. VÉASE ADICIÓN A LA TABLA DE SANCIONES EN EL P.O. DE 8 DE SEPTIEMBRE DE 2017, PÁGINA 17; P.O. 6 DE JULIO DE 2018, PÁGINA 17.]</small>
 
 ###### ARTÍCULO 148.
 
@@ -2376,3 +2390,11 @@ SEXTO.- Se remita copia de las reformas antes citadas a la Secretaría de Protec
 SÉPTIMO.- Se remita copia de las reformas antes citadas a la Procuraduría General de Justicia del Estado de Baja California, una vez publicadas en el Periódico Oficial del Estado de Baja California.
 
 OCTAVO.- Se llevará a cabo una campaña de socialización, educación y discusión del propósito de los presentes Acuerdos, por parte de la Dirección de Protección al Ambiente para el Municipio de Mexicali, Baja California, para que la ciudadanía conozca la problemática de fondo, así como sus derechos y obligaciones en materia ecológica y las ubicaciones de los centros de acopio y/o transferencia, así como los requisitos para la disposición de los residuos.
+
+P.O. 6 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 48 EN SU FRACCIÓN III, SE ADICIONAN LAS FRACCIONES XXII Y XXIII AL ARTÍCULO 54; SE ADICIONAN DOS CONCEPTOS A LA TABLA OFICIAL DE SANCIONES PECUNIARIAS DEL ARTÍCULO 147, TODOS ELLOS DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor a los sesenta días naturales siguientes a la fecha de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Departamento de Tránsito de Mexicali, Baja California, deberá tomar las previsiones necesarias para hacer efectivas las disposiciones objeto de las presentes reformas, en el ámbito de sus respectivas competencias.
