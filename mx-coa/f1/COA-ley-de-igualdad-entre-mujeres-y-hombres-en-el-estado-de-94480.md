@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2017-12-26"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -127,11 +127,13 @@ VI. Estado. Estado de Coahuila de Zaragoza.
 
 VII. Estereotipo sexual. Una idea fija y rígida que se perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino.
 
-VIII. Igualdad entre mujeres y hombres. La eliminación de toda forma de discriminación, en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo, independientemente del origen étnico, edad, discapacidad, preferencia sexual, condición social, o económica, estado civil, condiciones de salud, embarazo, lengua, religión, opiniones o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades, así como la distribución de las obligaciones familiares.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+
+VIII. Igualdad entre mujeres y hombres. La participación del hombre y la mujer en igualdad de posibilidades y derechos en la vida civil, cultural, económica, política, social y familiar de la sociedad.
 
 IX. Igualdad formal. Reconocimiento ante la ley, las normas, las políticas públicas, acciones, programas, presupuestos y ante las estructuras de Gobierno de la condición igualitaria entre las mujeres y los hombres mediante la cual se asegura que todas las personas gocen de los mismos derechos.
 
-X.- Igualdad sustantiva. Condición a la que las mujeres tienen derecho y que el Estado debe garantizar mediante el establecimiento de normas, leyes, política pública, acciones, programas, presupuestos y las medidas necesarias de carácter estructural, social y cultural para lograr el acceso de las mujeres, de cualquier edad, al ejercicio de todos los derechos humanos y libertades; así como al acceso a oportunidades, bienes, servicios, recursos en todos los ámbitos de la vida, eliminando todas las formas de discriminación.
+X. Igualdad sustantiva. Condición a la que las mujeres tienen derecho y que el Estado debe garantizar mediante el establecimiento de normas, leyes, política pública, acciones, programas, presupuestos y las medidas necesarias de carácter estructural, social y cultural para lograr el acceso de las mujeres, de cualquier edad, al ejercicio de todos los derechos humanos y libertades; así como al acceso a oportunidades, bienes, servicios, recursos en todos los ámbitos de la vida, eliminando todas las formas de discriminación.
 
 XI. Perspectiva de género. Son la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género.
 
@@ -615,6 +617,8 @@ II. Determinación de las acciones de orientación, estímulo y apoyo que dichos
 
 ### Capítulo primero. De las acciones de la política estatal
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
 ###### Artículo 35.
 
 Contenido del programa estatal.
@@ -649,7 +653,31 @@ De la igualdad entre mujeres y hombres en la vida económica.
 
 Política estatal de igualdad.
 
-La política estatal deberá desarrollar acciones y establecer objetivos cuyo fin sea garantizar el derecho a la igualdad entre mujeres y hombres.
+La política estatal deberá desarrollar acciones y establecer objetivos cuyo fin sea garantizar la igualdad sustantiva entre mujeres y hombres en los ámbitos económico, político, social, culturar (sic) y familiar.
+
+La Política Estatal que desarrolle el Ejecutivo del Estado deberá observar los siguientes lineamientos:
+
+I.- Hacer efectivos el derecho constitucional y el plasmado en los tratados internacionales en materia de igualdad;
+
+II.- Establecer mecanismos para lograr en forma progresiva el cumplimiento de los objetivos del presente ordenamiento;
+
+III.- Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
+
+IV.- Instaurar la transversalidad en la ejecución de las políticas públicas en materia de igualdad;
+
+V.- Implementar los sistemas necesarios para garantizar el acceso al servicio público de mujeres y hombres en igualdad de circunstancias, posibilidades de desarrollo y acenso (sic), y con percepciones iguales en los cargos del mismo nivel.
+
+VI.- Observar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social;
+
+VII.- En coordinación con los poderes judicial y legislativo y, escuchando la opinión de los sindicatos del ramo, establecer los mecanismos necesarios para garantizar los mismos derechos establecidos en la fracción V para los trabajadores de la educación, y para los trabajadores al servicio de los poderes y dependencias de la entidad en los términos de los estatutos y leyes orgánicas correspondientes.
+
+VIII.- Adoptar las medidas necesarias para buscar la erradicación de la violencia de género, la violencia familiar y todas las formas de acoso sexual y hostigamiento en la entidad.
+
+IX.- Establecer mecanismos para garantizar la participación de las organizaciones de la sociedad civil en la promoción y vigilancia de la presente Ley;
+
+X.- Promover por medio de la Secretaría de Ecuación (sic) del Estado la enseñanza de los valores y principios de la igualdad de género desde el nivel de prescolar hasta el profesional, y;
+
+XI.- Observar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, convenios y acciones para la igualdad entre mujeres y hombres.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2016)</small>
 
@@ -1292,3 +1320,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 6 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 37.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 8, Y EL CONTENIDO DEL ARTÍCULO 38, AMBOS DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
