@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-96562"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-07"
-last_updated: "2017-11-07"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el jueves 7 de noviembre del 2013.
 
@@ -2421,9 +2423,11 @@ Compete esta función al Congreso del Estado por conducto de la Auditoría Super
 
 Los ayuntamientos y sus entidades deberán integrar en sus presupuestos, los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño, de conformidad con los lineamientos emitidos por el Consejo Nacional de Armonización Contable, así como por lo establecido en la Ley General de Contabilidad Gubernamental.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 297.
 
-Aprobado el presupuesto de egresos para el ejercicio fiscal respectivo, el ayuntamiento, deberá remitir copia del mismo y del acta de sesión en que se aprobó al Congreso del Estado para su conocimiento y efectos de seguimiento y revisión de la cuenta pública.
+Aprobado el presupuesto de egresos para el ejercicio fiscal respectivo, el ayuntamiento, deberá remitir copia del mismo y del acta de sesión en que se aprobó al Congreso del Estado para su conocimiento y efectos de seguimiento y revisión de la cuenta pública, a más tardar el 31 de enero del año inmediato posterior.
 
 ###### ARTÍCULO 298.
 
@@ -4446,3 +4450,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publ
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 34.- SE REFORMA EL ARTÍCULO 297 DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día primero de diciembre del año 2018.
