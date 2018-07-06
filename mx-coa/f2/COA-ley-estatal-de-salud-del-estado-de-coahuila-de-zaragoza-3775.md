@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2017-12-22"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -1269,7 +1269,9 @@ VI. Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artró
 
 VII. Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishemaniasis, tripanosomiasis, oncocercosis;
 
-VIII. Sífilis, infecciones gonocócicas y otras enfermedades de transmisión sexual;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2018)</small>
+
+VIII.- Sífilis, infecciones gonocócicas, virus del papiloma humano y otras enfermedades de transmisión sexual;
 
 IX. Lepra y mal del pinto;
 
@@ -1909,7 +1911,7 @@ X. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
 
 Artículo 155 bis 3. En la esfera de su competencia, corresponde a los municipios:
 
-I. Diseñar, formular y aplicar, en coordinación con el Consejo Estatal contra las Adiciones (sic), la política municipal orientada a la sensibilización, prevención y erradicación de las adicciones;
+I. Diseñar, formular y aplicar, en coordinación con el Consejo Estatal contra las Adicciones (sic), la política municipal orientada a la sensibilización, prevención y erradicación de las adicciones;
 
 II. Brindar capacitación sobre las adicciones al personal del ayuntamiento y, en especial, a las personas que asistan a adictos, a fin de mejorar la atención y asistencia que se otorga a los mismos;
 
@@ -3408,3 +3410,11 @@ P.O. 22 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 42.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 107 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
