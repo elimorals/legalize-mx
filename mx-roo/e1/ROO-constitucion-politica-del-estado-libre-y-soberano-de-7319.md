@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2018-06-20"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1995,7 +1995,9 @@ B.- Corresponde al Ministerio Público la persecución, ante los tribunales, de 
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General del Estado, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-El Fiscal General del Estado presentará anualmente a los Poderes Legislativo y Ejecutivo un informe de actividades. Comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre su gestión.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
+El Fiscal General del Estado presentará anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión de Justicia en los términos que disponga la ley de la materia. A la par deberá remitir por escrito un ejemplar de dicho informe anual al titular del Poder Ejecutivo del Estado. Igualmente, el Fiscal General comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre algún asunto en particular referente a su gestión, haciéndose esto de manera que no cause perjuicio a las investigaciones o a las funciones de Ministerio Público.
 
 El Fiscal General del Estado y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
@@ -2019,7 +2021,9 @@ D. La Fiscalía General contará, al menos, con una Fiscalía Especializada en m
 
 El nombramiento del fiscal se sujetará a la remisión de una terna por parte del Fiscal General del Estado a la Legislatura o en su caso, a la Diputación Permanente, quien deberá designar de entre los candidatos al Titular de la Fiscalía Especializada de Combate a la Corrupción, sujetándose al procedimiento que se establezca en la ley.
 
-El Fiscal Especializado en Combate a la Corrupción deberá cubrir los mismos requisitos para ser Fiscal General y durará en su encargo siete años sin posibilidad de ser reelecto.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
+El Fiscal Especializado en Combate a la Corrupción deberá cubrir los mismos requisitos para ser Fiscal General y durará en su encargo siete años sin posibilidad de ser reelecto, teniendo también la obligación de presentar anualmente a la Legislatura en funciones, un informe de actividades. Al efecto comparecerá ante la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos en los términos que disponga la ley de la materia. Igualmente, el Fiscal Anticorrupción comparecerá ante el Poder Legislativo cuando se le cite a rendir cuentas o a informar sobre algún asunto en particular referente a su gestión, haciéndose esto de manera que no cause perjuicio a las investigaciones o a las funciones de Ministerio Público.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -5304,6 +5308,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 20 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 186 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 153 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 195, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL APARTADO B, ASÍ COMO TERCER PÁRRAFO DEL APARTADO D, AMBOS DEL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
