@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2018-01-23"
+last_updated: "2018-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -389,9 +389,11 @@ Los presidentes municipales, regidores y síndicos de los ayuntamientos electos 
 
 Los integrantes del Ayuntamiento guardarán el debido respeto y compostura en el recinto oficial, durante las sesiones de Cabildo y en cualquier acto público con motivo de sus funciones, en congruencia con su dignidad de representantes del pueblo.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 48.
 
-En virtud de su investidura de servidores públicos, los integrantes del ayuntamiento deberán actuar invariablemente en función del bien público municipal, con lealtad, honestidad y respeto a la ciudadanía. Asimismo, deberán guardar la reserva y discreción debida, en relación con los asuntos tratados en las sesiones secretas.
+En virtud de su investidura de servidores públicos, los integrantes del ayuntamiento deberán actuar invariablemente en función del bien público municipal, con lealtad, honestidad y respeto a la ciudadanía. Asimismo, deberán guardar la reserva y discreción debida, en relación con los asuntos tratados en las sesiones privadas.
 
 ###### ARTÍCULO 49.
 
@@ -717,9 +719,11 @@ Por acuerdo del presidente municipal o de las dos terceras partes de los integra
 
 La reunión del Ayuntamiento, en forma válida de conformidad con este código, se denominará sesión de Cabildo.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 89.
 
-Las sesiones que celebre el ayuntamiento podrán ser ordinarias o extraordinarias; normales o solemnes, y públicas o secretas.
+Las sesiones que celebre el ayuntamiento podrán ser ordinarias o extraordinarias; normales o solemnes, y públicas o privadas.
 
 ###### ARTÍCULO 90.
 
@@ -733,15 +737,17 @@ Las sesiones extraordinarias tienen por objeto tratar asuntos, que sean importan
 
 A diferencia de las sesiones normales, serán solemnes aquellas que merezcan un carácter de ceremonia o celebración; serán solemnes, la sesión en que se instale el Ayuntamiento, aquélla en que se rinda el informe anual de la administración pública municipal, y aquellas que acuerde el Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 93.
 
-En general todas las sesiones serán públicas; el ayuntamiento deberá disponer de un local adecuado para los ciudadanos que deseen asistir. Son materia de sesión secreta:
+En general todas las sesiones serán públicas; el ayuntamiento deberá disponer de un local adecuado para los ciudadanos que deseen asistir. Son materia de sesión privada:
 
 I. Los asuntos graves que alteren el orden y la tranquilidad pública del municipio.
 
 II. Las comunicaciones que con nota de reservado dirijan al Ayuntamiento, los poderes Legislativo, Ejecutivo y Judicial.
 
-III. Las solicitudes de licencia y de remoción de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento.
+III. (DEROGADA, P.O. 6 DE JULIO DE 2018)
 
 ###### ARTÍCULO 94.
 
@@ -1263,9 +1269,11 @@ El Ayuntamiento, a propuesta del presidente municipal o de sus regidores, aproba
 
 Las comisiones se integrarán y funcionarán de manera colegiada con el número de miembros que establezca el reglamento interno o el acuerdo del Ayuntamiento, procurando que reflejen pluralidad y proporcionalidad; en cada comisión habrá un presidente y un secretario.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 109.
 
-Las sesiones de las comisiones no podrán ser públicas.
+Las sesiones de las comisiones podrán ser públicas, cuando la divulgación de la información de los asuntos que traten no afecte a particulares y no se encuentre dentro de la información que deba ser protegida conforme las disposiciones de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza o de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 110.
 
@@ -4548,3 +4556,11 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- Los recursos de revisión que se encuentren en proceso o se hayan presentado antes de la entrada en vigor de este decreto, deberán seguir notificándose conforme a lo dispuesto por el artículo 397 de este ordenamiento.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 35.- SE REFORMAN LOS ARTÍCULOS 48 Y 89, EL PRIMER PÁRRAFO DEL ARTÍCULO 93 Y EL ARTÍCULO 109, Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 93 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
