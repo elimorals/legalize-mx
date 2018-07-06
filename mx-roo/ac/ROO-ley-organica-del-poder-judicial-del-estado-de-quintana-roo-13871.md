@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2018-04-05"
+last_updated: "2018-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1349,7 +1349,7 @@ Los Distritos Judiciales serán los siguientes:
 
 > <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-l. Distrito Judicial de Chetumal, con cabecera en la Ciudad del mismo nombre, Comprende la circunscripción territorial de los Municipios de Othón P. Blanco y Bacalar;
+I. Distrito Judicial de Chetumal, con cabecera en la Ciudad del mismo nombre, Comprende la circunscripción territorial de los Municipios de Othón P. Blanco y Bacalar;
 
 II.- Distrito Judicial de Felipe Carrillo Puerto, con cabecera en la ciudad del mismo nombre. Comprende la circunscripción territorial del Municipio de Felipe Carrillo Puerto;
 
@@ -2507,19 +2507,77 @@ VII. Secretario de Actas Mínimas, y
 
 VIII. Encargado de sala.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
 
 ###### Artículo 117.
 
-El ingreso y promoción para la categoría de Jueces de Primera Instancia y de Paz, se realizará a través de concurso interno de oposición o de oposición libre. Para acceder a las demás categorías señaladas en el artículo anterior, se requerirá acreditar los cursos respectivos y el examen de aptitud.
+El ingreso y promoción para las categorías de Juez de Primera Instancia y Juez de Paz, se realizará a través de concurso interno de oposición o de oposición libre.
 
-El Consejo de la Judicatura del Estado tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
+Para acceder a las demás categorías señaladas en el artículo anterior, se requerirá acreditar los cursos respectivos y el examen de aptitud correspondiente.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+El Consejo de la Judicatura del Estado tendrá la obligación de recibir y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
+
+En los concursos internos de oposición únicamente podrán participar los de la categoría inmediata inferior, y en los concursos de oposición libre, podrán participar los aspirantes que satisfagan los requisitos contenidos en la Convocatoria que al efecto expida el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
 
 ###### Artículo 118.
 
-En los concursos internos de oposición únicamente podrán participar los de la categoría inmediata inferior, y en los concursos de oposición libre, podrán participar los aspirantes que satisfagan los requisitos contenidos en la Convocatoria que al efecto expida el Consejo de la Judicatura.
+El ingreso y promoción de los servidores públicos comprendidos en la carrera judicial, se desarrollará conforme a lo siguiente:
+
+A. Los concursos internos de oposición o de oposición libre para el ingreso a las categorías de Juez de Primera Instancia y Juez de Paz, se sujetarán al siguiente procedimiento:
+
+I. El Consejo de la Judicatura emitirá una convocatoria que deberá ser publicada por una sola ocasión en el Periódico Oficial del Estado y en la página oficial del Poder Judicial. En la convocatoria, se deberá especificar si el concurso se trata de oposición libre o concurso interno de oposición, así como las categorías, número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios.
+
+Además de la documentación que establezca la convocatoria, las personas que deseen participar deberán presentar conjuntamente con su correspondiente solicitud, un currículum anónimo o “ciego”, en el que únicamente figuren la formación profesional y la experiencia laboral de la persona, eliminándose cualquier dato personal de la misma; conforme al formato que al efecto apruebe y publique el Consejo de la Judicatura en la página oficial del Poder Judicial.
+
+Una vez recibidas las solicitudes de inscripción de las personas que deseen participar y que hayan cumplido con lo estipulado en las bases de la convocatoria, se les asignará un folio o número de registro, el cual servirá como medio de identificación personal de los participantes;
+
+II. Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido versará sobre materias que se relacionen con la función de la plaza para la que se concursa. En todo momento se vigilará la secrecía de dicho cuestionario.
+
+De entre el número total de aspirantes, tendrán derecho a pasar a la siguiente etapa quienes hayan obtenido las más altas calificaciones, asegurando que el número de los seleccionados sea mayor al de las plazas vacantes.
+
+El Consejo de la Judicatura deberá establecer en la convocatoria respectiva, de manera clara y precisa, los parámetros para definir las más altas calificaciones y el mínimo aprobatorio para esta etapa dentro del concurso de oposición.
+
+En caso de empate, el resultado se definirá mediante criterio de acción afirmativa, buscando en todo momento la equidad de género.
+
+III. Los aspirantes seleccionados, en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la elaboración del respectivo proyecto de sentencia, relacionado con la naturaleza de la categoría o materia para la que se concursa. Posteriormente se procederá a la realización del examen oral y público que practique el jurado a que se refiere el apartado C del presente artículo, mediante las preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de la categoría que se concursa. La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
+
+IV. Concluidos los exámenes orales, se levantará un acta final y el presidente del jurado declarará quiénes son los concursantes que hubieren obtenido la mayor puntuación y el medio de selección utilizado, informando de inmediato al Consejo de la Judicatura para que éste, con base en el resultado obtenido en las diversas etapas de evaluación, realice los nombramientos respectivos y los publique en el Periódico Oficial del Estado y en la página oficial del Poder Judicial.
+
+B. La celebración y organización de los exámenes de aptitud para las demás categorías señaladas en el artículo 116 de esta Ley, estarán a cargo de la Escuela Judicial, en términos de las bases que determine el Consejo de la Judicatura, de conformidad con lo que disponen esta ley y el reglamento respectivo.
+
+Los exámenes de aptitud se realizarán a petición del titular, o en caso de ausencia de éste, el suplente del órgano que requiera cubrir la vacante respectiva, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores. Igualmente podrán solicitar que se practique un examen de aptitud a las personas interesadas en ingresar a las categorías señaladas en el primer párrafo de este apartado, quienes de aprobarlo serán consideradas en la lista que deba integrar el Consejo de la Judicatura, para ser tomados en cuenta en el caso de presentarse una vacante en alguna de las categorías a que se ha hecho referencia.
+
+Sin perjuicio de lo anterior, el Consejo de la Judicatura podrá realizar las evaluaciones psicométricas que estime pertinentes, que garanticen la idoneidad de quienes obtengan las calificaciones más elevadas.
+
+El Consejo de la Judicatura establecerá, mediante acuerdos generales, el tiempo máximo en que las personas aprobadas en los términos del párrafo anterior permanezcan en dicha lista.
+
+Antes de designar a la persona que deba ocupar el cargo, el Pleno del Tribunal Superior de Justicia, su Presidente, las Salas, el Magistrado o Juez respectivo, deberá solicitar al Consejo de la Judicatura que le ponga a la vista la relación de las personas que se encuentren en aptitud de ocupar la vacante.
+
+C. Los cuestionarios y casos prácticos referidos en las fracciones II y III de este artículo, serán elaborados por un comité integrado por un miembro del Consejo de la Judicatura, quien lo presidirá, por un juez y un Magistrado correspondiente a la categoría para la que se concursa, por un miembro de la Escuela Judicial y por un representante de una Institución de Educación Superior. La designación de los miembros del comité se hará en los términos que establezca el reglamento respectivo.
+
+Sin perjuicio de lo anterior, el comité podrá invitar a Magistrados de otros Tribunales, así como miembros de instituciones académicas a nivel nacional, quienes podrán concurrir con voz y sin voto a las sesiones que al efecto se desahoguen para la elaboración de los cuestionarios y casos prácticos referidos en el párrafo antecedente. En todo caso, el reglamento establecerá las condiciones de su participación.
+
+El jurado encargado de los exámenes orales se integrará por:
+
+I. Un Magistrado correspondiente a la materia para la cual se concursa, designado por el Tribunal Pleno mediante el método de insaculación;
+
+II. Un Consejero de la Judicatura, designado por el Pleno del Consejo;
+
+III. Dos Jueces correspondientes a la categoría y materia para la cual se concursa, designados por el Colegio de Jueces mediante el método de insaculación, de los cuales uno deberá ser mujer y otro hombre;
+
+IV. Un Magistrado en Retiro, o un Juez o Magistrado de otra Entidad Federativa, invitado por el Consejo de la Judicatura, y
+
+V. Un representante de la Unidad de Transparencia del Poder Judicial, quien concurrirá con voz pero sin voto.
+
+Por cada miembro titular se nombrará un suplente.
+
+El Presidente del Jurado encargado de los exámenes orales será electo por mayoría de votos de sus integrantes.
+
+El Consejo de la Judicatura podrá invitar, para la integración del Jurado, a Magistrados de otros Tribunales, así como miembros de instituciones académicas a nivel nacional, quienes podrán realizar las preguntas e interpelaciones que estimen pertinentes sobre toda clase de cuestiones relativas a la función de la categoría que se concursa, así como asignar puntos de calificación al sustentante. Lo anterior deberá señalarse en la convocatoria que al efecto se expida.
+
+A los miembros del Jurado les serán aplicables los impedimentos establecidos en el Artículo 171 del Código de Procedimientos Civiles para el Estado de Quintana Roo, los cuales serán calificados por el propio Jurado.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
@@ -2541,7 +2599,9 @@ VI. No pertenecer al Estado eclesiástico, ni ser ministro de algún culto relig
 
 VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
 
-Los jueces de paz y de Instrucción deberán reunir los mismos requisitos que se establecen para ser Juez de Primera Instancia, con excepción del título y de la cédula profesional que deberá tener una antigüedad mínima de tres años al día de su nombramiento.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2018)</small>
+
+Los jueces de paz y de instrucción deberán reunir los mismos requisitos que se establecen para ser Juez de Primera Instancia, con excepción del título y de la cédula profesional que deberá tener una antigüedad mínima de cinco años al día de su nombramiento.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3590,3 +3650,11 @@ P.O. 5 DE ABRIL DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 197 POR EL QUE SE REFORMAN LOS ARTÍCULOS 117, 118 Y 118 BIS, ÚLTIMO PÁRRAFO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo.- El Pleno del Consejo de la Judicatura deberá expedir los Acuerdos Generales necesarios para la implementación del contenido de los artículos que por virtud del presente Decreto se reforman, en los que se establezca el procedimiento y lineamientos generales para acceder a los cargos de Juez de Primera Instancia, mediante concursos internos de oposición y de oposición libre, dentro de los sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
