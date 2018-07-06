@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-115460"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-05"
-last_updated: "2017-12-15"
+last_updated: "2018-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-01"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JULIO DE 2018.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 5 de julio de 2016.
 
@@ -59,9 +59,11 @@ La Junta de Gobierno de la CONAFOR estará sujeta a la Ley Federal de las Entida
 
 ### CAPÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 4.
 
-Para el despacho, planeación y ejercicio de todos los asuntos de su competencia, la CONAFOR contará con un Órgano Superior, Unidades Administrativas y un Órgano de Control Interno, siendo éstos los siguientes:
+Para el despacho, planeación y ejercicio de todos los asuntos de su competencia, la CONAFOR contará con un Órgano Superior, Unidades Administrativas, y un Órgano Interno de Control, siendo éstos los siguientes:
 
 A. Órgano Superior:
 
@@ -91,9 +93,11 @@ X. Unidad de Comunicación Social.
 
 C. Órgano Interno de Control.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 5.
 
-Para el despacho de los asuntos que les correspondan, las unidades administrativas contarán con las Direcciones y Gerencias siguientes:
+Para el despacho de los asuntos que les correspondan, las unidades administrativas contarán con las Unidades Subalternas siguientes:
 
 I. Dirección General:
 
@@ -167,11 +171,15 @@ a) Dirección de Comunicación y Producción.
 
 El Director General de la Comisión Nacional Forestal podrá delegar sus facultades en los servidores públicos adscritos a la Coordinación General Jurídica, así como en los servidores públicos adscritos a las áreas jurídicas de las Gerencias Estatales de la CONAFOR.
 
-Los titulares de las unidades administrativas podrán delegar las atribuciones y funciones que consideren convenientes en los servidores públicos del nivel jerárquico inmediato inferior adscritas a su unidad.
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2018)</small>
+
+Los titulares de las unidades administrativas podrán delegar las atribuciones y funciones que consideren convenientes en los servidores públicos adscritos a su unidad.
 
 ###### ARTÍCULO 6.
 
 Los servidores públicos encargados de las Gerencias y Direcciones ejercerán las atribuciones que les sean delegadas por el titular de la unidad administrativa a la que se encuentren adscritos.
+
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 7.
 
@@ -179,17 +187,27 @@ La CONAFOR contará con las unidades subalternas que se requieran y le sean auto
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 8.
 
-La Dirección General estará a cargo del Director General, el cual, además de las facultades y obligaciones que se señalan en la Ley General de Desarrollo Forestal Sustentable, su Reglamento, la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables, contará con las siguientes atribuciones:
+La Dirección General estará a cargo de un Director General, a quien le corresponde originalmente el trámite y resolución de los asuntos de la competencia de dicho órgano y ejercerá, además de las facultades que se señalan en la Ley Federal de las Entidades Paraestatales, su Reglamento, la Ley General de Desarrollo Forestal Sustentable, su Reglamento y demás disposiciones legales aplicables, las que se señalan para las diversas Unidades Administrativas que integran a la Comisión Nacional Forestal, así como las siguientes:
 
 I. Expedir los acuerdos, lineamientos, circulares y demás disposiciones de carácter administrativo;
 
-II. Establecer la estructura administrativa de las Gerencias Estatales;
+> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
 
-III. Delegar en los servidores públicos de la CONAFOR, las atribuciones y funciones que le corresponden, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente;
+II. Previo el Visto Bueno de la Junta de Gobierno, establecer las Gerencias Estatales para cumplir los fines de la Comisión Nacional Forestal, determinar su estructura administrativa y mediante Acuerdo que se publicará en el Diario Oficial de la Federación, determinar su ámbito territorial de Competencia.
 
-IV. Otorgar poderes generales y especiales con las facultades que le competan, entre ellas, las que requieran autorización o cláusula especial, sin limitación alguna. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General. Los poderes generales para surtir efectos contra terceros, deberán inscribirse en el Registro Público de Organismos Descentralizados;
+> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
+
+III. El Director General de la Comisión Nacional Forestal, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente, podrá delegar mediante Acuerdo que se publicará en el Diario Oficial de la Federación, las facultades que de conformidad con este Estatuto, así como de otros ordenamientos, correspondan a éste, en los servidores públicos de las unidades administrativas o subalternas de este organismo. Lo anterior, sin perjuicio de ejercerlas directamente.
+
+Los titulares de las unidades administrativas y de las subalternas de CONAFOR podrán seguir ejerciendo las facultades que les correspondan conforme a este Estatuto, sin perjuicio de las facultades que sean delegadas en términos del párrafo anterior.
+
+> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
+
+IV. El Director General podrá otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General. Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 V. Suscribir las condiciones generales de trabajo de la CONAFOR;
 
@@ -200,6 +218,10 @@ VII. Establecer y administrar Centros dedicados a la formación y desarrollo de 
 VIII. Impulsar la contraloría social y facilitar el acceso a la información para el desempeño de las funciones de dicha contraloría, y
 
 IX. Resolver lo conducente en caso de duda sobre la interpretación del presente Estatuto.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 6 DE JULIO DE 2018)</small>
+
+X. Llevar a cabo los procedimientos de contratación, de adquisiciones, arrendamientos, servicios y de obra pública, así como de los servicios relacionados con las mismas.
 
 ###### ARTÍCULO 9.
 
@@ -247,7 +269,17 @@ XVIII. Realizar la certificación y el cotejo de los documentos que obren en ori
 
 XIX. Elaborar y entregar de manera oportuna, informes periódicos de avances y resultados de la aplicación de los programas operativos en su respectiva entidad federativa, a las Gerencias de Programa encargadas del seguimiento de los mismos, y
 
-XX. Las demás que le confiera por escrito el Director General.
+> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2018)</small>
+
+XX. Llevar a cabo los procedimientos de contratación, de adquisiciones, arrendamientos, servicios y de obras públicas y servicios relacionados con las mismas. Asimismo, elaborar, controlar y resguardar los contratos y convenios que deriven de esos procedimientos y suscribirlos en representación de la CONAFOR, en los términos que determinen las Políticas, Bases y Lineamientos en Contrataciones Públicas y de Obras Públicas y servicios relacionados con las mismas.
+
+> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 2018)</small>
+
+XXI. Solicitar a la Coordinación General Jurídica, la rescisión de los contratos y convenios, cuando a su juicio se haya actualizado alguna causal de rescisión.
+
+> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
+
+XXII. Los demás que le confiere por escrito el Director General.
 
 Las Gerencias Estatales contarán, de acuerdo con su presupuesto autorizado, con un Jefe de Departamento Jurídico el que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 12 fracciones I, III, IV, V, VII, X, XIV, XVII, XIX, XX, XXI, XXII, XXIII y XXV del presente estatuto, así como efectuar todo tipo de notificaciones que requieran los asuntos y procedimientos legales que lleve a cabo la Coordinación General Jurídica, siguiendo los lineamientos que ésta determine.
 
@@ -317,7 +349,9 @@ XIV. Revisar y determinar la procedencia jurídica de los convenios, contratos y
 
 XV. Tramitar la publicación en el Diario Oficial de la Federación de los acuerdos que así lo requieran y, en su caso, gestionar su inscripción en los registros públicos correspondientes;
 
-XVI. Ejecutar a petición de la Coordinación General de Administración, el procedimiento de rescisión de los contratos y convenios, tramitarlo y emitir la resolución correspondiente;
+> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
+
+XVI. Ejecutar a petición de la Coordinación General de Administración o de las unidades subalternas, los procedimientos de rescisión, según corresponda, de los contratos y convenios, tramitarlo y emitir la resolución correspondiente; o en su caso, emitir el dictamen u opinión por escrito, en aquellos supuestos en los que lo solicitado no sea posible, conveniente o viable ejecutar, expresando los motivos y fundamentos respectivos.
 
 XVII. Asesorar en los procedimientos de licitación pública, invitación y adjudicación directa en la adquisición de bienes muebles o inmuebles, arrendamientos y contratación de servicios que realice la CONAFOR;
 
@@ -517,7 +551,9 @@ XVII. Solicitar a la Coordinación General Jurídica, a petición de las unidade
 
 XVIII. Fungir como responsable inmobiliario de la CONAFOR, pudiendo delegar dicha responsabilidad, atendiendo al contenido del artículo 32 de la Ley General de Bienes Nacionales, y
 
-XIX. Determinar la metodología para la elaboración del Manual de Organización General de la CONAFOR y de procedimientos, y someterlos a la aprobación del Director General.
+> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
+
+XIX. Determinar la metodología para la elaboración del Manual de Organización General de la CONAFOR y de procedimientos, y someterlos a la aprobación del Director General, así como la elaboración del mismo, con el apoyo y colaboración de las unidades administrativas correspondientes.
 
 ###### ARTÍCULO 16.
 
@@ -753,7 +789,9 @@ XI. Coordinar el diseño y la aplicación de la imagen institucional de la CONAF
 
 XII. Colaborar con la Coordinación General de Planeación e Información en el diseño, y supervisar los contenidos de las páginas del sitio en Internet, además de desarrollar material informativo para redes sociales en sus direcciones institucionales;
 
-XIII. Llevar a cabo campañas publicitarias que permitan difundir los objetivos de la CONAFOR, así como contribuir a la creación de una nueva cultura forestal en nuestro país;
+> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 2018)</small>
+
+XIII. Llevar a cabo campañas de comunicación social que permitan difundir los objetivos de la CONAFOR, así como contribuir a la creación de una nueva cultura forestal en nuestro país;
 
 XIV. Elaborar material gráfico de difusión de la CONAFOR, tales como revistas, folletos, trípticos o cualquier otro de naturaleza análoga o similar, con el fin de informar y generar conciencia de la función productiva social y ambiental de la actividad forestal y cultura de respeto ambiental en toda la población;
 
@@ -773,13 +811,15 @@ El órgano de vigilancia de la CONAFOR, estará integrado por un comisario públ
 
 El comisario asistirá, con voz pero sin voto, a las sesiones de la Junta de Gobierno de la CONAFOR.
 
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 22.
 
-La CONAFOR contará con un órgano interno, su titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal.
+La CONAFOR contará con un Órgano Interno de Control, su titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal.
 
-En el ejercicio de sus facultades el Titular del Órgano Interno se auxiliará por las áreas de Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública, Quejas y Responsabilidades.
+En el ejercicio de sus facultades el Titular del Órgano Interno de Control se auxiliará por las áreas de Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública, Quejas y Responsabilidades.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### ARTÍCULO 23.
 
@@ -793,13 +833,17 @@ La CONAFOR contará para el desempeño de sus funciones con los comités o subco
 
 ### CAPÍTULO SEXTO. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, D.O.F. 6 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 25.
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del Servidor Público que designe, mediante la expedición del oficio correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
+Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del Servidor Público que designe mediante la expedición del oficio correspondiente; o a falta de designación, por el Director General Adjunto; y a falta de ambos, por el Coordinador General Jurídico.
 
 Para el caso de que el Director General deje el cargo por cualquier causa, y hasta en tanto el Titular del Ejecutivo Federal designe otro, el despacho y resolución de los asuntos de la Dirección General estará a cargo del Director General Adjunto y, a falta de éste, del Coordinador General Jurídico.
+
+Los servidores públicos de base o de confianza de CONAFOR estarán obligados a aplicar los Manuales de procedimientos, de operación, de organización y de servicios al público que al efecto emita, así como las disposiciones que emitan las unidades administrativas competentes. Se considerará que dichos manuales y disposiciones son obligatorios cuando los mismos se hayan dado a conocer a los citados servidores públicos y exista la constancia correspondiente o, en su caso, se hayan incorporado en los sistemas electrónicos establecidos por CONAFOR.
+
+Se exceptúa de lo previsto en el párrafo anterior, los casos en que los manuales o las disposiciones se publiquen en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO 26.
 
@@ -844,3 +888,13 @@ D.O.F. 15 DE DICIEMBRE DE 2017.
 PRIMERO.- La presente modificación al Estatuto Orgánico de la Comisión Nacional Forestal, entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 6 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN DE LOS ARTÍCULOS 4, PRIMER PÁRRAFO; 5, PÁRRAFOS PRIMERO Y ÚLTIMO; 7, 8, PRIMER PÁRRAFO Y LAS FRACCIONES II, III, IV Y X; 10, SE RECORRE LA FRACCIÓN XX A LA XXII Y SE ADICIONAN LAS FRACCIONES XX Y XXI; 12, FRACCIÓN XVI; 15, FRACCIÓN XIX; 20, FRACCIÓN XIII; 22 Y 25 DEL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL”.]
+
+PRIMERO.- Para el caso de las Gerencias Estatales que no cuenten con la estructura establecida en el Manual de Organización, continuarán realizando sus facultades, obligaciones y actividades conforme a la estructura con la que cuenten a la entrada en vigor de la presente modificación, hasta en tanto ésta se normalice, sin que ello constituya una falta o incumplimiento alguno.
+
+SEGUNDO.- La presente modificación al Estatuto Orgánico de la Comisión Nacional Forestal, entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
