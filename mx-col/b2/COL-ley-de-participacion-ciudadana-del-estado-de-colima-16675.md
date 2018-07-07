@@ -4,7 +4,7 @@ identifier: "COL-ley-de-participacion-ciudadana-del-estado-de-colima-16675"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-22"
-last_updated: "2015-08-01"
+last_updated: "2018-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Ley publicada en el suplemento No. 1 del Periódico Oficial "El Estado de Colima", el sábado 22 de enero de 2000.
 
@@ -147,11 +147,11 @@ III.- Los artículos transitorios; y
 
 IV.- Un documento anexo, individual de cada uno de los ciudadanos que suscriban la iniciativa, en donde expresamente ratifiquen en sus términos a aquélla. Dicho documento contendrá, además, el nombre completo y domicilio del ciudadano, clave de elector y folio de su credencial para votar con fotografía y firma autógrafa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 10.
 
-La iniciativa será procedente cuando sea suscrita por el 2%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del Estado.
+La iniciativa será procedente cuando sea suscrita por el 0.13%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del Estado.
 
 Para los efectos de este artículo, el Oficial Mayor solicitará mensualmente, por escrito, al Presidente del Instituto Electoral del Estado, la información actualizada del padrón electoral.
 
@@ -205,11 +205,11 @@ III.- Los artículos transitorios; y
 
 IV.-. Un documento anexo, individual de cada uno de los ciudadanos que suscriban la iniciativa, en donde expresamente ratifiquen en sus términos a aquélla. Dicho documento contendrá, además, el nombre completo y domicilio del ciudadano, clave de elector y folio de su credencial para votar con fotografía y firma autógrafa.
 
-> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 20.
 
-La iniciativa será procedente cuando sea suscrita por el 3%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del municipio respectivo.
+La iniciativa será procedente cuando sea suscrita por el 0.13%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del municipio respectivo.
 
 Para los efectos de este artículo, el Secretario solicitará mensualmente, por escrito, al Presidente del Instituto Electoral del Estado, la información actualizada del padrón electoral.
 
@@ -289,7 +289,7 @@ II.- Salud y asistencia social;
 
 III.- Seguridad pública;
 
-IV.- Derechos humanos;
+IV.- (DEROGADA, P.O. 7 DE JULIO DE 2018)
 
 V.- Comunicaciones, vialidad y transporte;
 
@@ -848,3 +848,9 @@ P.O. 1 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. Si los Ayuntamientos acuerdan utilizar el presupuesto participativo, deberán emitir el Reglamento o los lineamientos correspondientes para su implementación.
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 504 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 10, EL PÁRRAFO PRIMERO DEL ARTÍCULO 20 Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 34 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
