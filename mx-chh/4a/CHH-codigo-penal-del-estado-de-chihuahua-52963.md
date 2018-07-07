@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-06-09"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -349,7 +349,9 @@ Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias 
 
 IV. (Legítima defensa). Se repela una agresión real, ilegítima, actual o inminente, protegiendo bienes jurídicos propios o ajenos, de la cual resulte un peligro inmediato, siempre que no haya podido ser fácilmente evitada, exista necesidad racional del medio empleado para repelerla, no mediara provocación suficiente por parte del que se defiende o que el daño que iba a causar el agresor no hubiese podido ser fácilmente reparado después por medios legales.
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquel que cause un daño a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia, o los de cualquier persona que tenga el mismo deber de defender, o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquel que cause un daño, lesione o prive de la vida a alguien a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia, o los de cualquier persona que tenga el mismo deber de defender, o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión.
 
 V. (Estado de necesidad). Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
@@ -5294,6 +5296,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFCOD/0767/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTICULO 233 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFCOD/0799/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 28, PRIMER PÁRRAFO, FRACCIÓN IV, EN SU SEGUNDO PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
