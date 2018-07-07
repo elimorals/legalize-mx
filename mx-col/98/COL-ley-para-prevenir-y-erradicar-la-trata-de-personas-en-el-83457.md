@@ -4,7 +4,7 @@ identifier: "COL-ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-83457"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2013-10-12"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Ley publicada en el Suplemento No. 2, del Estado de Colima, el sábado 29 de octubre del 2011.
 
@@ -97,15 +97,21 @@ X. Política en materia de trata de personas: A las que realizan las autoridades
 
 XI. Procuraduría: A la Procuraduría General de Justicia del Estado de Colima;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
 XII. Programa: Al Programa Estatal para Prevenir y Erradicar la Trata de Personas;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-XIII. Testigo: A toda persona que tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal; y
+XIII. Testigo: A toda persona que tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal;
 
-XIV. Víctima de Trata: A la persona que haya sufrido un daño de cualquier naturaleza, como consecuencia de acciones u omisiones realizadas en su contra, tipificadas como delito de trata de personas y sancionadas por la legislación penal.
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+XIV. Trata de Personas: Toda acción u omisión de quienes para sí o para un tercero consiga, capte, enganche, transporte, traslade, aloje, reciba, retenga, entregue, oculte, reclute o transfiera a una persona o varias con fines de explotación; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+XV. Víctima de Trata: A la persona que haya sufrido un daño de cualquier naturaleza, como consecuencia de acciones u omisiones realizadas en su contra, tipificadas como delito de trata de personas y sancionadas por la legislación penal.
 
 ###### Artículo 3o.
 
@@ -325,11 +331,15 @@ I. Elaborar modelos psicoterapéuticos especializados para la atención de las v
 
 II. Elaborar programas de asistencia psicológica inmediata a favor de las víctimas del delito de trata de personas, previas, durante y posteriores al proceso judicial, que incluyan capacitación y orientación;
 
-III. Otorgar en caso de ser necesario, la atención médica que requiera la víctima de la trata de personas para su recuperación;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+III. Garantizar, la atención médica gratuita que requiera la víctima de la trata de personas para su recuperación;
 
 IV. Llevar el registro de las organizaciones civiles que proporcionen atención y servicios a las víctimas de la trata de personas;
 
-V. Asesorar y capacitar en materia de salud, a las organizaciones civiles, en materia del libre desarrollo de la personalidad de las personas; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+V. Garantizar la capacitación en materia de salud, a las organizaciones civiles, en materia del libre desarrollo de la personalidad de las personas; y
 
 VI. Las demás que se establezcan en esta Ley, su Reglamento o el Programa.
 
@@ -415,11 +425,13 @@ Corresponde a la Secretaría de Seguridad Pública:
 
 I. Establecer como políticas públicas, estrategias y acciones en los programas permanentes de capacitación a la policía, en la prevención y detección de la trata de personas;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-II. Establecer mecanismos para inspeccionar periódicamente y sin necesidad de que medie denuncia, los lugares y establecimientos donde se tengan indicios sobre la comisión del delito de trata de personas, así como aquéllos que puedan ser propicios para ello, como agencias de modelaje o artísticas, salas de masajes, bares, cantinas, hoteles, cines u otros;
+II. Asistir, vigilar e inspeccionar periódicamente y sin necesidad de que medie denuncia, los lugares y establecimientos donde se tengan indicios sobre la comisión del delito de trata de personas, así como aquellos que puedan ser propicios para ello, como agencias de modelaje o artísticas, salas de masajes, bares, cantinas, hoteles, cines u otros;
 
-III. Instaurar, en el marco de su competencia y atribuciones, vigilancia permanente en los centros de arribo y abordo de los turistas, principalmente en la (sic) centrales camioneras, el puerto y los aeropuertos, para prevenir y evitar la trata de personas;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+III. Instaurar vigilancia permanente, en los centros de arribo y abordo de los turistas, principalmente en la centrales camioneras, el puerto y los aeropuertos, para prevenir y evitar la trata de personas;
 
 IV. Implementar vigilancia permanente en las instalaciones educativas públicas y privadas y en sus alrededores, en los horarios de entrada y salida, así como ordenar a los elementos policíacos adscritos que lleven a cabo recorridos de vigilancia durante los horarios de clases; y
 
@@ -792,3 +804,9 @@ LIC. MARIO ANGUIANO MORENO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERAN
 P.O. 12 DE OCTUBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 510 POR EL QUE SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 2°, LAS FRACCIONES III Y V DEL ARTÍCULO 15, LAS FRACCIONES II Y III DEL ARTÍCULO 21, Y SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 2°, TODOS DE LA LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
