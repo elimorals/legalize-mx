@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2017-12-27"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -543,7 +543,9 @@ Artículo 28
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus funciones y ninguna autoridad podrá jamás molestarlos con motivo de ellas. La ley castigará severamente a la autoridad que infrinja lo dispuesto en este artículo.
 
-El presidente del Congreso velará por el respeto al fuero constitucional de los miembros de la Legislatura y por la inviolabilidad del recinto donde celebren sus sesiones.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+
+El presidente del Congreso velará por la inviolabilidad del recinto donde celebren sus sesiones.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -723,9 +725,13 @@ El Congreso del Estado tendrá a su cargo la revisión y fiscalización de la Cu
 
 Asimismo, el Congreso fiscalizará las acciones de los referidos entes públicos en materia de fondos, recursos locales y deuda pública, incluyendo los que se destinen y ejerzan por cualquier persona física o moral, pública o privada, o los que, en su caso, se transfieran a fideicomisos, mandatos o cualquier otra figura jurídica, sin perjuicio de la competencia de otras autoridades.
 
-La revisión y fiscalización de la Cuenta Pública la realizará el Congreso con el auxilio del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado. Si del examen que éste realice aparecen discrepancias entre las cantidades correspondientes a los ingresos o a los egresos con relación a los conceptos y las partidas respectivas, o no hay exactitud o justificación en los ingresos obtenidos o en los gastos realizados, y, en general, existen irregularidades en el manejo, custodia y aplicación de los fondos y recursos públicos, se determinarán las responsabilidades y se promoverán las sanciones que correspondan, de acuerdo con esta Constitución y la ley. En el caso de la revisión sobre el cumplimiento de los objetivos contenidos en los planes y programas, dicho Órgano podrá emitir las recomendaciones que considere necesarias, en los términos de la ley.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-La Cuenta Pública del año anterior de los entes públicos señalados en el párrafo primero de este artículo, deberá ser enviada al Congreso del Estado, debidamente aprobada por sus respectivos órganos de gobierno, a más tardar el 30 de abril. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada, a juicio del Congreso.
+La revisión y fiscalización de la Cuenta Pública la realizará el Congreso del Estado con el auxilio del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, conforme lo establezca la ley respectiva. Si del examen que éste realice, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, y en general, existan irregularidades en el manejo, custodia y aplicación de los fondos y recursos públicos, se determinarán las responsabilidades y promoverán las sanciones que correspondan de acuerdo con esta Constitución y la ley. En el caso de la revisión sobre el cumplimiento de los objetivos contenidos en los planes y programas, dicho Órgano podrá emitir las recomendaciones que considere necesarias, en los términos de la ley.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+
+La Cuenta Pública del año anterior de los poderes Legislativo y Judicial, los órganos autónomos previstos en esta Constitución, los municipios y los entes públicos paraestatal o paramunicipales que prestan servicios de agua potable, alcantarillado, drenaje y saneamiento, deberá ser enviada al Congreso del Estado, debidamente aprobada por sus respectivos órganos de gobierno, a más tardar el último día de febrero del año siguiente al que corresponda la Cuenta Pública en los términos de la ley de la materia. El Poder Ejecutivo presentará la Cuenta Pública a que se refiere este párrafo, a más tardar el 30 de abril del año siguiente al que corresponda la Cuenta Pública. En este último caso, sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio del Congreso.
 
 El Congreso del Estado concluirá la revisión de las cuentas públicas a más tardar el 30 de noviembre del año de su presentación, debiendo emitir al efecto el decreto correspondiente, con base en el Informe del Resultado de la Cuenta Pública que le remita el Órgano Superior de Auditoría y Fiscalización Gubernamental, sin menoscabo de que continúe su curso legal el trámite de las observaciones, recomendaciones y acciones promovidas.
 
@@ -787,7 +793,11 @@ V. A los órganos autónomos, en las materias de su competencia.
 
 La iniciativa se presentará por conducto de su presidente o titular, previo acuerdo de sus integrantes cuando se trate de un órgano colegiado; y
 
-VI. A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el dos por ciento de los inscritos en el listado nominal de electores. Esta facultad será reglamentada en los términos de la ley respectiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
+
+VI. A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 0.13 por ciento de los inscritos en el listado nominal de electores. Esta facultad será reglamentada en los términos de la Ley respectiva.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 7 DE JULIO DE 2018]</small>
 
 Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas en el siguiente periodo ordinario de sesiones a aquel en que se reciba.
 
@@ -1853,7 +1863,9 @@ La aprobación del dictamen de revisión por el cabildo no impide que, en su cas
 
 Artículo 96
 
-Los ciudadanos de un Municipio, debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el dos por ciento de los inscritos en la lista nominal de electores del Municipio respectivo. Las iniciativas presentadas conforme a este artículo deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada por la ley respectiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
+
+Los ciudadanos de un Municipio, debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el 0.13 por ciento de los inscritos en la lista nominal de electores del Municipio respectivo. Las iniciativas presentadas conforme a este artículo deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada por la Ley respectiva.
 
 Los actos de gobierno de las autoridades municipales podrán ser sometidos a plebiscito, en los términos de la ley correspondiente.
 
@@ -2051,7 +2063,9 @@ Las observaciones y recomendaciones que, respectivamente, emita dicho Órgano, s
 
 III. Evaluar el manejo y ejercicio de los recursos económicos de que dispongan el Estado y los municipios de conformidad con las bases dispuestas en el artículo 134 de la Constitución Federal y en los términos que dispongan las leyes de la materia;
 
-IV. Presentar al Congreso del Estado el Informe del resultado de la revisión de la Cuenta Pública a que se refiere el párrafo quinto del artículo 36 de esta Constitución, el cual tendrá carácter público;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+IV. Presentar al Congreso del Estado el Informe del resultado de la revisión de la Cuenta Pública a que se refiere el párrafo quinto del artículo 36 de esta Constitución, a más tardar el treinta de septiembre del año de la presentación de la Cuenta Pública en los términos de la ley de la materia, el cual tendrá carácter público;
 
 V. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales o municipales, y a los particulares; y
 
@@ -2121,9 +2135,29 @@ I. Se impondrán, mediante juicio político, las sanciones indicadas en el artí
 
 No procede el juicio político por la mera expresión de ideas;
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
+
 II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no puedan justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan;
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+La comisión de delitos del orden común cometidos por servidores públicos será perseguido y sancionado conforme lo establece la legislación penal aplicable.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal.
 
 III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
@@ -2136,6 +2170,10 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves que realicen los órganos internos de control.
 
 Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que sean competencia del Tribunal de Justicia Administrativa del Estado; para revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y municipales, así como para presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución;
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+La ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y la consecuencia de los actos y omisiones previstas en esta fracción. Cuando dichos actos u omisiones sean graves, los plazos de prescripción no serán inferiores a siete años.
 
 IV. El Tribunal de Justicia Administrativa del Estado impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, sanciones económicas, inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales.
 
@@ -2165,45 +2203,13 @@ Para la aplicación de las sanciones a que se refiere este precepto, el Congreso
 
 Las declaraciones y resoluciones del Congreso del Estado y del Supremo Tribunal de Justicia se ajustarán a las reglas que para la substanciación del procedimiento de juicio político establezca la ley.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+Artículo 122 (DEROGADO, P.O. 7 DE JULIO DE 2018)
 
-Artículo 122
+Artículo 123 (DEROGADO, P.O. 7 DE JULIO DE 2018)
 
-Los diputados y los munícipes propietarios, así como el Gobernador del Estado, gozan de inmunidad procesal desde la declaración de validez de su elección; los diputados y los munícipes suplentes, desde el momento en que asuman la titularidad y ejerzan la función. Los magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral, del Tribunal de Arbitraje y Escalafón, del Tribunal de Justicia Administrativa, los Secretarios de la Administración Pública del Estado, el Consejero Jurídico, el Fiscal General del Estado, el Presidente de la Comisión de Derechos Humanos, el titular del Órgano Superior de Auditoría y Fiscalización Gubernamental, los consejeros del Instituto Electoral del Estado, así como los comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos, gozarán de inmunidad procesal desde el día en que tomen posesión de sus cargos y durante su ejercicio.
+Artículo 124 (DEROGADO, P.O. 7 DE JULIO DE 2018)
 
-Para proceder penalmente, durante el tiempo de su encargo, contra los servidores públicos señalados en el párrafo anterior, el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
-
-Si la resolución del Congreso es negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo o dejado de tener inmunidad procesal por cualquier causa, pues la misma no prejuzga de los fundamentos de la imputación.
-
-Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
-
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
-
-Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
-
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-Artículo 123
-
-Los funcionarios a que se refiere el artículo 122 de esta Constitución dejarán de gozar de fuero constitucional o de cualquier inmunidad procesal al momento de concluir sus funciones por el periodo legal para el que fueron elegidos o designados, así como por la separación de su cargo bajo cualquier modalidad, inclusive por la licencia que al efecto se les conceda.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-Artículo 124
-
-El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
-
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 122 de esta Constitución.
-
-La ley señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y la consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 120 de esta Constitución. Cuando dichos actos u omisiones sean graves, los plazos de prescripción no serán inferiores a siete años.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
-Artículo 125
-
-En los juicios del orden civil no hay fuero ni inmunidad.
+Artículo 125 (DEROGADO, P.O. 7 DE JULIO DE 2018)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -3350,6 +3356,24 @@ OCTAVO. En lo conducente se seguirán observando las disposiciones transitorias 
 NOVENO. Las actuales denominaciones, funciones y responsabilidades de las instituciones y autoridades establecidas en las leyes y reglamentos del Estado, en términos de las atribuciones que les correspondan, se entenderán de acuerdo a lo previsto en esta Constitución.
 
 Las remisiones o indicaciones que las leyes y reglamentos del Estado hagan con relación a alguna disposición de la Constitución Política del Estado Libre y Soberano de Colima, se entenderán realizadas con relación a las disposiciones que en efecto correspondan en términos del texto reordenado y consolidado que por virtud del presente Decreto se expide.
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 501 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 28; ADICIONA UN PÁRRAFO TERCERO A LA FRACCIÓN I, CUATRO PÁRRAFOS A LA FRACCIÓN II, UN PÁRRAFO SÉPTIMO A LA FRACCIÓN III, TODOS ELLOS DEL ARTÍCULO 120; Y DEROGA LOS ARTÍCULOS 122, 123, 124 Y 125, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 502 POR EL QUE SE REFORMAN LOS ARTÍCULOS 36, PÁRRAFOS TERCERO Y CUARTO, Y 116, FRACCIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 503 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN VI DEL ARTÍCULO 39 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
