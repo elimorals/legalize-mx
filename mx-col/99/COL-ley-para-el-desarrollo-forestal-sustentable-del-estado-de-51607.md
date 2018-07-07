@@ -4,7 +4,7 @@ identifier: "COL-ley-para-el-desarrollo-forestal-sustentable-del-estado-de-51607
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-02"
-last_updated: "2014-05-10"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Ley publicada en el Suplemento No. 4 al Periódico Oficial del Estado de Colima, el sábado 2 de septiembre de 2006.
 
@@ -41,7 +41,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 CONSIDERANDO
 
-.
+[...]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -659,6 +659,18 @@ III. Cambios de uso del suelo en terrenos forestales.
 
 La Secretaría previo al otorgamiento de las autorizaciones para el aprovechamiento de los recursos forestales, deberá solicitar la opinión del Consejo, sin que ello implique la interrupción de los plazos señalados en la ley General, para emitir la autorización correspondiente.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+ARTÍCULO 41 BIS.- El aprovechamiento de recursos y materias primas forestales para uso doméstico, no requeriría autorización alguna, salvo en los casos que se especifiquen en las normas oficiales mexicanas u otras disposiciones legales aplicables, y será responsabilidad del dueño o poseedor del predio.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+ARTÍCULO 41 TER.- En terrenos comprendidos en zonas declaradas como áreas naturales protegidas, el aprovechamiento de recursos y materias primas forestales para uso doméstico deberá sujetarse a lo establecido en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+ARTÍCULO 41 QUATER.- La leña para uso doméstico, deberá provenir de desperdicios de corta silvícola, limpia de monte, arbolado muerto, poda de árboles y poda o corta total de especies arbustivas y especies frutícolas. El aprovechamiento de arbustos y poda de árboles para la obtención de leña para uso doméstico y elaboración de carbón, no deberá realizarse en organismos que sirvan como refugio temporal o permanente de fauna silvestre. El reglamento dispondrá de las especificaciones correspondientes para la emisión de las constancias de legal procedencia para el traslado de leña y carbón para uso domestico.
+
 ### CAPÍTULO II
 
 DEL MANEJO FORESTAL SUSTENTABLE DE LOS RECURSOS FORESTALES.
@@ -1160,3 +1172,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 10 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 509 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 41 BIS, 41 TER Y 41 QUÁTER, A LA LEY PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
