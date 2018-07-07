@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2018-03-24"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -143,7 +143,9 @@ XXI. Consejo Estatal: Consejo Estatal de Protección Civil;
 
 XXII. Consejo Municipal: Consejo Municipal de Protección Civil;
 
-XXIII. Continuidad de operaciones: Al proceso de planeación con el que se busca garantizar que el trabajo de las instituciones públicas, privadas y sociales no sea interrumpido ante la ocurrencia de un desastre;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+XXIII. Continuidad de operaciones: Al proceso de planeación, documentación y actuación que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador para que sus actividades no se vean interrumpidas y regresen a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
 
 XXIV. Damnificado: Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
@@ -235,9 +237,25 @@ LXVII. UEPC: Unidad Estatal de Protección Civil;
 
 LXVIII. UMPC: A la Unidad Municipal de Protección Civil de cada Ayuntamiento;
 
-LXIX. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, implementar y coordinar el Programa Interno o Específico de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-LXX. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales.
+LXIX. Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, implementar y coordinar el Programa Interno o Específico de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+LXX. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+LXXI. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+LXXII. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+LXXIII. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
 ###### Artículo 5o.
 
@@ -289,9 +307,13 @@ En lo que se refiere al desarrollo urbano, los proyectos de construcción y expe
 
 La UEPC emitirá las normas técnicas complementarias en las que se establecerán los requisitos, especificaciones, condiciones y parámetros que deberán observarse en el desarrollo de actividades o acciones que incidan en la materia a que se contrae esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+
 ###### Artículo 12.
 
-Toda persona física o moral, pública o privada, cuya actividad sea asesorar y/o capacitar en materia de protección civil, deberá registrarse ante la UEPC y recabar de ésta la autorización para el ejercicio de sus funciones, debiendo cumplimentar los requisitos que establezca la propia UEPC.
+Para que los particulares o dependencias públicas puedan ejercer la actividad de asesoría, capacitación, evaluación y elaboración de programas internos de protección civil, deberán contar con el registro expedido por la Unidad Estatal de Protección Civil o alguna autoridad en la materia de carácter nacional.
+
+El registro será obligatorio y permitirá a los particulares o dependencias públicas referidas en el párrafo anterior, emitir la carta de responsabilidad que se requiera para la aprobación de los programas internos y especiales de protección civil.
 
 ###### Artículo 13.
 
@@ -931,6 +953,14 @@ VII. Las acciones, derechos o productos que adquiera por cualquier otro título 
 
 VIII. Los demás bienes, servicios, derechos y aprovechamientos que fijen las leyes y reglamentos o que provengan de otros fondos o aportaciones.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+Todos los materiales y equipos de trabajo con los que cuente la UEPC, deberán estar inventariados o en su defecto contar con un resguardo y contratos de comodato que contenga los datos de la institución o del particular propietario de los mismos.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+Los bienes mencionados en las fracciones anteriores del presente artículo, por ningún motivo podrán ser donados, permutados, otorgados en comodato a asociaciones civiles, dependencias públicas o a particulares sin previa autorización del consejo y registro correspondiente.
+
 ###### Artículo 50.
 
 Los bienes muebles e inmuebles de la UEPC, gozarán de las franquicias y prerrogativas concedidas respecto a los fondos y bienes del Gobierno del Estado. Dichos bienes, así como los actos y contratos que celebre la UEPC, en cumplimiento de su objeto, estarán igualmente exentos de toda clase de contribuciones, impuestos y derechos estatales.
@@ -1003,11 +1033,17 @@ XXV. Establecer las cuotas o tarifas de los servicios que presta, sometiéndolo 
 
 XXVI. Rendir informes a la Junta de Gobierno de los recursos financieros ejercidos;
 
-> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-XXVII. Aprobar los convenios, contratos y acuerdos que la UEPC requiera celebrar con la federación, estados, municipios y demás organismos e instituciones, públicas o privadas, a fin de coadyuvar en el cumplimiento de su objeto; y
+XXVII. Aprobar los convenios, contratos y acuerdos que la UEPC requiera celebrar con la Federación, Estados, Municipios y demás Organismos e Instituciones, Públicas o Privadas, a fin de coadyuvar en el cumplimiento de su objeto;
 
-XXVIII. Las demás que dispongan los reglamentos, programas, normas y convenios que por su objeto tenga que complementar.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JULIO DE 2018)</small>
+
+XXVIII. Otorgar la capacitación en materia de protección civil, a las Instituciones Públicas y Privadas, Empresas y Asociaciones del sector social, a fin de que cumplan con los lineamientos de prevención y seguridad en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE JULIO DE 2018)</small>
+
+XXIX. Las demás que dispongan los reglamentos, programas, normas (sic) convenios que por su objeto tenga que complementar.
 
 ###### Artículo 54.
 
@@ -1019,13 +1055,19 @@ II. Tener cuando menos treinta y un años cumplidos el día de su designación;
 
 III. Residir en el Estado, cuando menos cuatro años antes de su designación;
 
-IV. Contar con experiencia y conocimientos comprobados en materia de protección;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+IV. Contar con experiencia y certificación de competencia expedida por alguna de las Instituciones registradas en la Escuela Nacional;
 
 V. No desempeñar cargo de dirección en partido político;
 
 VI. No desempeñar otro cargo o comisión dentro de la administración pública, federal o municipal; y
 
 VII. Contar preferentemente con título profesional y presentar examen de oposición.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JULIO DE 2018)</small>
+
+VIII. Contar con título profesional con carrera afín;
 
 El Reglamento Interno de la UEPC preverá el procedimiento para elegir y remover a su Director General.
 
@@ -1093,11 +1135,17 @@ XXVII. Coordinar las acciones de la UEPC, de las dependencias, organismos y depe
 
 XXVIII. Administrar y aplicar los recursos económicos del Fondo Estatal de Emergencias y Desastres en forma eficiente;
 
-> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-XXIX. Celebrar los convenios, contratos y acuerdos; y
+XXIX. Celebrar los convenios, contratos y acuerdos;
 
-XXX. Las demás que le confieran esta Ley, su Reglamento, y demás ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JULIO DE 2018)</small>
+
+XXX. Verificar que las donaciones, herencias, legados, aportaciones y recursos monetarios y en especie gestionadas ante particulares o cualquier institución pública o privada a nombre de la UEPC sean debidamente registradas en inventario y cuentas bancarias acreditadas respectivamente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JULIO DE 2018)</small>
+
+XXXI. Las demás que le confieran esta Ley, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 56.
 
@@ -1110,6 +1158,12 @@ El Director de Administración y Finanzas será el encargado registrar y mantene
 ###### Artículo 58.
 
 El Sub-director Jurídico, dependiente del Director de Operaciones, será el responsable legal de la UEPC; encargado de elaborar, supervisar y verificar los procedimientos jurídicos, para crear los instrumentos legales necesarios para establecer las bases de colaboración entre la UEPC, así como las instancias públicas y privadas, además de las atribuciones que le asigne el Director General y lo que específicamente le señale el Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+###### Artículo 58 Bis.
+
+Aquellos servidores públicos que desempeñen una responsabilidad en la Unidad Estatal y Unidades Municipales de Protección Civil deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional.
 
 ### Capítulo IV. De la Coordinación del Sistema Estatal con los Sistemas Nacional y Municipales de Protección Civil
 
@@ -1147,9 +1201,11 @@ Para el mejor cumplimiento de los fines encomendados a la UEPC, ésta contará c
 
 La UEPC trasmitirá a la UMPC, donde exista la posibilidad de ocurrir un siniestro o desastre dentro de su jurisdicción, para que se actúe en consecuencia e informe de las acciones a realizar al Centro Estatal de Comunicaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
+
 ###### Artículo 64.
 
-El Centro Estatal de Comunicaciones coordinará, recibirá y canalizará las llamadas de auxilio de la ciudadanía a través de un sistema avanzado de telefonía que permita la identificación automática del origen de la llamada, despachando en el menor tiempo posible la solicitud de ayuda para que sea atendida rápidamente.
+El Centro Estatal de Comunicaciones recibirá las llamadas de auxilio de la ciudadanía a través del sistema 911, despachando en el menor tiempo posible la solicitud de ayuda para que sea atendida rápidamente.
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
 
@@ -1305,7 +1361,9 @@ II. Tener cuando menos treinta años cumplidos a la fecha de su designación;
 
 III. Residir en el municipio, cuando menos cuatro años antes de su designación;
 
-IV. Contar con experiencia y conocimientos comprobados en materia de protección civil;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+IV. Contar con experiencia y certificación de competencia expedida por alguna de las Instituciones registradas en la Escuela Nacional;
 
 V. No desempeñar cargo de dirección en partido político;
 
@@ -1366,6 +1424,14 @@ XXI. Aprobar, certificar y evaluar los Programas Internos o Específicos de Prot
 XXII. Mantener informada, permanentemente, a la UEPC de las actividades que realice; y
 
 XXIII. Las demás funciones afines a las anteriores que le confieran el Ayuntamiento y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo Municipal.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+###### Artículo 81 Bis.
+
+Los bienes muebles, inmuebles, donaciones, herencias, legados y aportaciones que se le otorguen a la UMPC por parte de particulares o cualquier institución pública o privada, por ningún motivo podrán ser donados, permutados u otorgados en comodato a asociaciones civiles, dependencias públicas o a particulares sin previa autorización del consejo y registro correspondiente.
+
+Todos los materiales y equipos de trabajo con los que cuente la UMPC, deberán estar inventariados o en su defecto contar con un resguardo y contratos de comodato que contenga los datos de la institución o del particular propietario de los mismos.
 
 ## Título Quinto. De los Programas de Protección Civil
 
@@ -1559,13 +1625,17 @@ El UEPC y las UMPC realizarán campañas permanentes de capacitación, prevenci�
 
 El UEPC promoverá ante las autoridades educativas, se proporcione información y capacitación en materia de protección civil, en las instituciones de educación preescolar, primaria y secundaria. Asimismo, fomentará este tipo de acciones en las instituciones de educación superior y en organismos sociales y asociaciones de vecinos.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+
 ###### Artículo 101.
 
-Las instituciones educativas implementarán en todas las escuelas de la Entidad, el Programa Interno de Protección Civil, coordinado por la Secretaría de Educación, bajo la asesoría de la UEPC.
+Las estancias infantiles e instituciones educativas, públicas y privadas de todos los niveles, organizarán Unidades internas, elaborarán e implementarán un Programa interno de Protección Civil, coordinado por las autoridades educativas y para el caso de las estancias infantiles y guarderías, aquellas que regulen su funcionamiento, ya sea del estado o la federación, según el caso, bajo la asesoría de las UMPC y UEPC.
 
-Deberán realizar simulacros de evacuación, desalojo y repliegue para evaluar los mecanismos de prevención y autoprotección de la población escolar, apropiados a los diferentes niveles escolares.
+Deberán realizar simulacros de evacuación, desalojo y repliegue para evaluar los mecanismos de prevención y autoprotección de la población escolar, apropiados a los diferentes niveles escolares. Debiendo participar todo el personal y alumnado.
 
-De igual manera, las instituciones de educación superior, organizarán Unidades Internas y elaborarán Programas Internos, para cumplir los fines a que se refiere el párrafo anterior.
+Las UMPC, y la UEPC, impartirán capacitaciones por lo menos una vez cada año, a fin de fortalecer los conocimientos en materia de prevención y atención de emergencias, de acuerdo a las necesidades de cada plantel educativo.
+
+Las Unidades internas a que se refiere este artículo, se sujetarán a lo dispuesto en el artículo 105 de esta Ley.
 
 ###### Artículo 102.
 
@@ -1671,9 +1741,21 @@ Los comisarios municipales deberán recibir la capacitación previa a tomar prot
 
 ### Capítulo II. De las Unidades Internas de Protección Civil
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+
 ###### Artículo 105.
 
-Las dependencias y organismos de la administración pública estatal y de los ayuntamientos, integrarán a su estructura orgánica unidades internas y adoptarán las medidas encaminadas a instrumentar, en el ámbito de sus respectivas funciones, la ejecución de los programas de protección civil y a realizar simulacros por lo menos tres veces al año, en coordinación con la UEPC o UMPC, según corresponda.
+Las dependencias y organismos de la administración pública estatal y de los ayuntamientos, integrarán a su estructura orgánica unidades internas y adoptarán las medidas encaminadas a instrumentar, en el ámbito de sus respectivas funciones, la ejecución de los programas de protección civil y a realizar simulacros por lo menos cuatro veces al año, en coordinación con la UEPC o UMPC, según corresponda.
+
+La estructura de las Unidades internas deberá ser integrada por al menos cuatro brigadas de seguridad a quienes se le asignará un color distintivo que deberán portar en el área de trabajo como parte del uniforme diario, las brigadas y los colores antes mencionados deberán ser los siguientes:
+
+a) Brigada de evacuación, distinguido por el color verde;
+
+b) Brigada de prevención y combate de incendios, distinguido por el color rojo;
+
+c) Brigada de búsqueda y rescate, distinguido por el color naranja,
+
+d) Brigada de primeros auxilios, distinguido por el color azul.
 
 ###### Artículo 106.
 
@@ -2206,3 +2288,11 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 456 POR EL QUE ADICIONAN LOS ARTÍCULOS 146 BIS, 146 TER, 146 QUARTER, 146 QUINQUIES Y 146 SEXIES A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 499 POR EL QUE SE REFORMAN LAS FRACCIONES XXIII, LXIX Y LXX DEL ARTÍCULO 4; 12; LAS FRACCIONES XXVII Y XXVIII DEL ARTÍCULO 53; LAS FRACCIONES IV Y VII DEL ARTÍCULO 54; LAS FRACCIONES XXIX, XXX DEL ARTÍCULO 55; EL PRIMER PÁRRAFO DEL ARTÍCULO 64; LA FRACCIÓN IV DEL ARTÍCULO 79; LOS ARTÍCULOS 101 Y 105; SE ADICIONAN LAS FRACCIONES LXXI, LXXII Y LXXIII DEL ARTÍCULO 4; UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 49; LA FRACCIÓN XXIX DEL ARTÍCULO 53; LA FRACCIÓN XXXI DEL ARTÍCULO 55; EL ARTÍCULO 58 BIS; EL ARTÍCULO 81 BIS, TODOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA.”]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los incisos establecidos en el párrafo segundo del artículo 105 del presente decreto, entrarán en vigor en el próximo ejercicio fiscal.
