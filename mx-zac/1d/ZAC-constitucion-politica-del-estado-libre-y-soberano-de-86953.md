@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2017-03-22"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -553,6 +553,10 @@ Toda persona tiene derecho al trabajo digno, socialmente útil y bien remunerado
 
 Toda labor deberá ser justa y oportunamente retribuida.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza, en los términos de la ley de la materia.
+
 Para el cumplimiento de los fines que menciona este artículo, el Estado creará los organismos que sean necesarios para la capacitación de aquellos individuos que queden sujetos a leyes restrictivas de su libertad y deban someterse a procesos de rehabilitación y adaptación a la vida humana en la comunidad de que forman parte.
 
 Se establecerán en la ley prerrogativas para las empresas que privilegien la creación de empleos, realicen acciones concretas para proteger el salario de los trabajadores y el ingreso de la población en general; y produzcan, distribuyan o comercialicen bienes y servicios socialmente necesarios, en condiciones de precio y calidad mejores que los prevalecientes en el mercado.
@@ -977,9 +981,9 @@ La ley fijará los límites a las erogaciones en los procesos internos de selecc
 
 El financiamiento público que reciban los partidos políticos que conserven su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y para actividades específicas, se otorgará conforme a las bases siguientes y a lo que disponga la ley:
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-I. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes lo fijará anualmente la Legislatura en el Presupuesto de Egresos del Estado, de conformidad con el anteproyecto que le envíe el Instituto Electoral del Estado a más tardar el quince de noviembre de cada año. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral local, con corte al treinta y uno de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente para el Estado de Zacatecas. El treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente se asignará a los partidos en forma igualitaria, y el restante setenta por ciento se distribuirá entre los mismos, de acuerdo con el porcentaje de votos que hubiesen obtenido en la elección de Diputados inmediata anterior, siempre y cuando hubiesen obtenido como mínimo el 3% de la votación válida emitida;
+I. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes lo fijará anualmente la Legislatura en el Presupuesto de Egresos del Estado, de conformidad con el anteproyecto que le envíe el Instituto Electoral del Estado a más tardar el quince de noviembre de cada año. El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral local, con corte al treinta y uno de julio de cada año, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización que emita el Instituto Nacional de Estadística y Geografía. El treinta por ciento de la cantidad total que resulte de acuerdo con lo señalado anteriormente se asignará a los partidos en forma igualitaria, y el restante setenta por ciento se distribuirá entre los mismos, de acuerdo con el porcentaje de votos que hubiesen obtenido en la elección de Diputados inmediata anterior, siempre y cuando hubiesen obtenido como mínimo el 3% de la votación válida emitida;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1093,11 +1097,13 @@ Es obligación de los distintos órganos del poder público instituir relaciones
 
 ### CAPÍTULO PRIMERO. DEL PODER LEGISLATIVO
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+
 ###### Artículo 50.
 
-El Poder Legislativo se deposita en una asamblea que se nombrará "Legislatura del Estado", integrada por representantes del Pueblo denominados Diputados, los que serán electos en su totalidad cada tres años.
+El Poder Legislativo se deposita en una asamblea que se nombrará “Legislatura del Estado”, integrada por representantes del Pueblo denominados Diputados, los que serán electos en su totalidad cada tres años. Contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de sus ingresos y egresos, mismo que será designado por las dos terceras partes de los miembros presentes de la Legislatura del Estado.
 
-((REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
 ###### Artículo 51.
 
@@ -1207,11 +1213,11 @@ La Legislatura sólo podrá convocar a elecciones para Diputados propietarios, c
 
 #### SECCIÓN PRIMERA. DE LA INSTALACIÓN DE LA LEGISLATURA Y PERIODOS ORDINARIOS DE SESIONES
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 57.
 
-La Legislatura del Estado se instalará el siete de septiembre del año de su elección y tendrá durante cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero iniciará el ocho de septiembre y concluirá el quince de diciembre pudiéndose prorrogar hasta el día treinta del mismo mes; el segundo comenzará el primero de marzo y terminará el treinta de junio.
+La Legislatura del Estado se instalará el siete de septiembre del año de su elección y tendrá durante cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero iniciará el primero de agosto, con excepción del año de su instalación el cual iniciará el ocho de septiembre, y concluirá el quince de diciembre, pudiéndose prorrogar hasta el treinta de diciembre del mismo año; el segundo comenzará el primero de febrero y terminará el treinta de junio.
 
 ###### Artículo 58.
 
@@ -1219,19 +1225,27 @@ La Legislatura no puede abrir sus sesiones ni funcionar legalmente sin la concur
 
 Los Diputados que no concurran a una sesión, sin causa justificada o sin permiso de la Legislatura, perderán el derecho a la dieta correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+Todas las sesiones que celebre el Poder Legislativo, sin excepción, serán públicas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 59.
 
-En la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio de la Legislatura, el Gobernador o Gobernadora del Estado presentará un informe por escrito en el que manifieste el estado general que guarda la Administración Pública Estatal.
+El día ocho de septiembre de cada año, el Gobernador o Gobernadora del Estado acudirá ante la Legislatura del Estado a presentar por escrito el informe de las actividades realizadas y el estado que guardan la Administración Pública Estatal, con base en el Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-Los diputados realizarán el análisis del informe y podrán solicitar al Gobernador o Gobernadora del Estado, ampliar la información mediante pregunta por escrito y citar a los titulares de las Dependencias y Entidades Paraestatales, así como al Fiscal General de Justicia del Estado, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley Orgánica del Poder Legislativo y su Reglamento General regularán el ejercicio de esta facultad.
+En las sesiones ordinarias de la Legislatura, correspondientes a la primera quincena del mes de octubre de cada año, comenzará la glosa del informe, a la que acudirán los titulares de las dependencias y entidades de la Administración Pública Estatal, para contestar los cuestionamientos que los diputados les formulen respecto del contenido del informe.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-El informe correspondiente al último año de ejercicio gubernamental será presentado, a más tardar, el último día del mes de julio del año que corresponda. La Comisión Permanente lo recibirá y convocará al Pleno de la Legislatura a periodo extraordinario de sesiones, el que se realizará dentro de los treinta días naturales siguientes a su recepción, para el sólo efecto de recibir a los titulares de las dependencias y entidades de la Administración Pública Estatal, así como al Fiscal General de Justicia del Estado, quienes comparecerán a dar contestación a los cuestionamientos que los Diputados les formulen. Dentro del término referido, la Legislatura podrá solicitar al Titular del Poder Ejecutivo amplié la información, mediante pregunta por escrito.
+El informe correspondiente al último año de ejercicio gubernamental será presentado, a más tardar, el último día del mes de julio del año que corresponda. La Comisión Permanente lo recibirá y convocará al Pleno de la Legislatura a periodo extraordinario de sesiones, el que se realizará dentro de los treinta días naturales siguiente a su recepción, para el sólo efecto de recibir a los titulares de las dependencias y entidades de la Administración Pública Estatal, quienes comparecerán a dar contestación a los cuestionamientos que los Diputados les formulen.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+La Ley Orgánica del Poder Legislativo y su Reglamento General regularán el ejercicio de este deber.
 
 #### SECCIÓN SEGUNDA. DE LA INICIATIVA Y FORMACIÓN DE LEYES
 
@@ -1309,7 +1323,21 @@ II. Promover y aprobar las reformas a la Constitución Política de los Estados 
 
 III. Expedir la Ley Reglamentaria de la Fracción XVII del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Expedir su Ley Orgánica y su Reglamento Interior, ordenar la publicación y vigencia de ambos sin la promulgación por el Ejecutivo; así como aprobar y ejercer su presupuesto en forma autónoma;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
+
+IV. Expedir su Ley Orgánica y su Reglamento Interior, ordenar la publicación y vigencia de ambos sin la promulgación por el Ejecutivo; así como aprobar y ejercer su presupuesto en forma autónoma, con base en los principios de disciplina, honradez, honestidad, integridad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, rendición de cuentas y máxima publicidad.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+La Legislatura no podrá presupuestar de sus recursos ayudas sociales.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+IV-A. Presentar el quince de septiembre de cada año un informe sobre el cumplimiento de sus obligaciones constitucionales y legales, en los términos que disponga la ley;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+IV-B. Contar con un Servicio Profesional de Carrera Parlamentaria que se regirá por los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía e integridad;
 
 V. Aprobar, reformar, abrogar o derogar leyes y decretos en todos los ramos de la Administración Pública del Estado, y para la organización y funcionamiento de las administraciones públicas municipales;
 
@@ -1606,6 +1634,10 @@ El Gobernador representa al Estado ante la Federación y sus partes integrantes;
 ###### Artículo 74.
 
 El Gobernador del Estado es el administrador de los recursos públicos del Poder Ejecutivo, tanto los provenientes de la Federación como los que se originen en el Estado, y tiene la responsabilidad de aplicarlos con apego al presupuesto que anualmente apruebe la Legislatura y conforme a los programas autorizados.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+Los servidores públicos que tengan bajo su responsabilidad la recepción, aplicación, administración y ejecución de recursos a que se refiere el párrafo anterior, responderán en los términos de las leyes en materia penal, de disciplina financiera, de responsabilidad hacendaria y de responsabilidades administrativas.
 
 #### SECCIÓN PRIMERA. DE LOS REQUISITOS Y ELECCIÓN
 
@@ -2049,7 +2081,11 @@ XIII. Establecer la jurisprudencia del Tribunal Superior de Justicia y resolver 
 
 XIV. Ejercer, en forma independiente al presupuesto de egresos, el Fondo Auxiliar para la Administración de Justicia;
 
-XV. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+XV. El veintisiete de septiembre de cada año, el Magistrado Presidente del Tribunal Superior de Justicia, presentará por escrito en sesión de la Legislatura un informe de las actividades realizadas, y
+
+XVI. Las demás facultades y obligaciones que les señalen esta Constitución y las leyes.
 
 ###### Artículo 101.
 
@@ -2731,6 +2767,10 @@ La coordinación del desarrollo estatal por parte del Gobierno del Estado, procu
 
 Se establece el Sistema de Planeación Democrática del Desarrollo y se crean el Comité de Planeación para el Desarrollo del Estado de Zacatecas, como órgano directamente dependiente del titular del Poder Ejecutivo, el Consejo de Fomento Económico, los Comités de Planeación para el Desarrollo Municipal de cada uno de los Municipios y los Comités de Participación Social, como órganos consultivos constituidos por los representantes de los sectores organizados de la población. La ley establecerá los procedimientos y reglas a los que se sujetarán la consulta popular y el funcionamiento de los órganos responsables de la planeación democrática.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+El Estado promoverá la implementación de una política pública de mejora regulatoria de manera continua, permanente y coordinada; que será obligatoria para cualquier ente público, en el ámbito de su competencia, en función de las bases y principios que señale la Constitución Federal y las Leyes Generales en la materia.
+
 ###### Artículo 130.
 
 Concurrirán a las tareas del desarrollo económico y social, los sectores público, social y privado.
@@ -2793,9 +2833,9 @@ La hacienda pública se compone de los bienes y derechos que pertenecen al Estad
 
 La hacienda pública será administrada por el Ejecutivo en la forma que prevengan las leyes
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-Los caudales de la hacienda pública estatal se administrarán con eficiencia, eficacia, economía, transparencia y honradez y no podrán ser empleados, por ningún concepto, en beneficio exclusivo de alguno de los Municipios del Estado.
+El ejercicio de los recursos que administren los entes públicos estatales y municipales, atenderá a los principios de disciplina, racionalidad, honestidad, integridad, austeridad, control, rendición de cuentas, eficiencia, eficacia, economía, transparencia, honradez y máxima publicidad, con el propósito de satisfacer sus objetivos. La evaluación de los resultados del ejercicio de dichos recursos se realizará por las instancias técnicas que establezcan las leyes; las observaciones y recomendaciones que se deriven deberán considerarse en los procesos de programación y presupuesto de los ejercicios subsecuentes.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -2913,11 +2953,11 @@ Los servidores públicos a los que se refiere este artículo, estarán obligados
 
 Son inatacables las declaraciones y resoluciones que de conformidad con lo dispuesto en este Título, expidan la Legislatura o el Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 148.
 
-El Gobernador del Estado, los Diputados a la Legislatura local y los Magistrados del Tribunal Superior de Justicia, así como los miembros de los organismos a los que esta Constitución les otorgue autonomía, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes generales y federales, así como por el manejo indebido de fondos y recursos.
+El Gobernador del Estado, los Diputados a la Legislatura local y los Magistrados del Tribunal Superior de Justicia, así como los miembros de los organismos a los que esta Constitución les otorgue autonomía, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos.
 
 El Gobernador del Estado durante el tiempo de su encargo y mediante juicio político o en su caso declaración de procedencia, sólo podrá ser acusado por violaciones graves y sistemáticas a la Constitución Política local, por actos u omisiones que obstruyan o impidan el libre ejercicio de la función de los derechos electorales y por delitos graves del orden común.
 
@@ -2925,11 +2965,11 @@ El Gobernador del Estado durante el tiempo de su encargo y mediante juicio polí
 
 En los casos en que los servidores públicos del Estado a quienes sea aplicable lo dispuesto por el segundo párrafo del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, hayan sido objeto de juicio político ante el Congreso de la Unión y éste comunique a la Legislatura del Estado la resolución declaratoria de condena, el órgano Legislativo local procederá a decretar la destitución del servidor público y su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 150.
 
-La Legislatura del Estado, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Responsabilidades Administrativas, expedirá la Ley que establezca las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas administrativas, de conformidad a las siguientes prevenciones:
+Las responsabilidades administrativas se regulan en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Responsabilidades Administrativas, sin perjuicio de las siguientes prevenciones:
 
 I. Se impondrán, mediante juicio político, las sanciones de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones a los servidores públicos señalados en el artículo siguiente, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
@@ -2939,37 +2979,35 @@ No procede el juicio político por la mera expresión de ideas;
 
 II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
+III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-Los procedimientos para la aplicación de las sanciones se desarrollarán autónomamente. No podrán imponerse dos veces sanciones de la misma naturaleza por una sola conducta.
+Los procedimientos para la aplicación de las sanciones derivadas de las responsabilidades de los servidores públicos, se desarrollarán autónomamente. No podrán imponerse dos veces sanciones de la misma naturaleza por una sola conducta.
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o con motivo del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y la privación de la propiedad de dichos bienes, además de las penas distintas que correspondan.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Legislatura respecto de las conductas a las que se refiere el presente artículo.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Legislatura, en los términos que disponga la Ley, respecto de las conductas que puedan constituir hechos de corrupción.
 
-Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, y serán resueltas por el Tribunal de Justicia Administrativa del Estado. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
 
-La ley, establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
-
-Los entes públicos estatales y municipales tendrán órganos internos de control, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas que son distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos; así como presentar denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+Los entes públicos tendrán órganos internos de control, con las facultades que determine la Ley General de Responsabilidades Administrativas para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas que son distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos; asi como presentar denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción, no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-La Auditoría Superior del Estado y el órgano interno de control del Poder Ejecutivo del Estado, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa.
+La Auditoría Superior del Estado, la dependencia encargada del control interno del Poder Ejecutivo y los órganos internos de control podrán recurrir, ante la autoridad competente, las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa.
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE JUICIO POLÍTICO
 
@@ -3689,7 +3727,9 @@ P.O. 22 DE MARZO DE 2017.
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
 
-Artículo segundo. La Legislatura del Estado deberá expedir las leyes que instruyan la organización y funcionamiento del Sistema Estatal Anticorrupción, de la Fiscalía General de Justicia del Estado de Zacatecas, del Tribunal de Justicia Administrativa del Estado de Zacatecas y la Ley de Responsabilidades Administrativas; así como las reformas a la legislación derivada de los artículos 65 fracción XV, 71, 112, 113, 118 y 122 de este Decreto, en un plazo que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del mismo.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
+
+Artículo segundo. La Legislatura del Estado deberá expedir las leyes que instruyan la organización y funcionamiento del Sistema Estatal Anticorrupción, de la Fiscalía General de Justicia del Estado de Zacatecas, del Tribunal de Justicia Administrativa del Estado de Zacatecas; así como las reformas a la legislación derivada de los artículos 65 fracción XV, 71, 112, 113, 118 y 122 de este Decreto, en un plazo que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del mismo.
 
 Artículo tercero. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 71, 82 fracción XVII, 87, 88, 112, 113, 118, 121, 122, 138, 147, 150 y 155, entrarán en vigor en la misma fecha en que lo hagan las leyes a que se refiere el Transitorio Segundo del presente Decreto.
 
@@ -3726,3 +3766,43 @@ El Magistrado del Tribunal de lo Contencioso Administrativo del Estado y Municip
 Artículo octavo. Dentro de los diez días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado o, en su caso, la Comisión Permanente, deberá aprobar la designación del titular de la Secretaría de la Función Pública que se encuentra en funciones.
 
 Artículo noveno. Las leyes correspondientes establecerán la duración en el cargo de los titulares de los órganos internos de control de los entes públicos a que se refiere el presente Decreto.
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 420.- SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor el día siete de septiembre de dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, sin perjuicio de los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Legislatura del Estado, en un plazo que no excederá de un año, contado a partir de la publicación del presente Decreto, deberá adecuar su Ley Orgánica, entre otros, para los efectos siguientes:
+
+1. En materia de facultades y obligaciones de los diputados sobre su desempeño parlamentario:
+
+a) Definir y establecer el trámite de las mociones de orden, procedimiento y urgente resolución.
+
+b) Elegir, por cada periodo ordinario de sesiones, una Mesa Directiva encargada de conducir las sesiones del Pleno, sin que sus miembros puedan ser reelectos de manera consecutiva y precisar sus funciones.
+
+c) Regular que en las sesiones de carácter solemne en las que los Poderes del Estado rindan sus informes respectivos, se invite a los titulares de los poderes Ejecutivo y Judicial.
+
+2. En materia de Parlamento Abierto, la Legislatura deberá precisar lo siguiente:
+
+a) Establecer el Parlamento Abierto y aplicar el principio de máxima publicidad en todas las actividades desarrolladas por la Legislatura del Estado, para garantizar la transparencia, la rendición de cuentas y la participación ciudadana en el quehacer legislativo.
+
+3. En materia de control interno:
+
+a) Establecer las funciones del Órgano Interno de Control del Poder Legislativo, de conformidad con la Ley General de Responsabilidades Administrativas.
+
+4. En materia de informes de los Poderes del Estado:
+
+a) Regular el formato de presentación de los informes de cada uno de los Poderes del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se modifica la Ley Orgánica del Poder Legislativo del Estado y su Reglamento General, los periodos de sesiones se realizarán en los términos establecidos en las disposiciones que se encuentren en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
