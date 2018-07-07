@@ -4,7 +4,7 @@ identifier: "COL-ley-de-desarrollo-social-para-el-estado-de-colima-62342"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2009-09-26"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de julio de 2008.
 
@@ -205,9 +207,17 @@ X.- Sustentabilidad: La preservación del equilibrio ecológico, la protección 
 
 XI.- Transparencia: La práctica institucional que bajo el principio de publicidad tiene por objeto difundir de manera objetiva, oportuna, veraz y sistemática, la información pública gubernamental relativa a los programas de desarrollo social, así como procurar el derecho de acceso a la misma y la rendición de cuentas derivadas del gasto de los recursos aplicados a dichos programas;
 
-XII.- Diversidad: El reconocimiento en términos de origen étnico o racial, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-XIII.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales y acceso pleno a la jurisdicción del Estado.
+XII.- Diversidad: El reconocimiento en términos de origen étnico o racial, genero, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+XIII.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para perseverar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales y acceso pleno a la jurisdicción del Estado; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+XIV.- Perspectiva de género: una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social.
 
 ###### Artículo 8.
 
@@ -923,8 +933,6 @@ IV.- El Programa Municipal de Desarrollo Humano.
 
 La elaboración y actualización del diagnóstico y evaluación de la problemática relativa al desarrollo humano, corresponde a la Secretaría, quien la llevará a cabo en forma anual.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 34 Bis 15.
@@ -943,13 +951,23 @@ V.- Calidad y espacios de la vivienda;
 
 VI.- Acceso a los servicios básicos en la vivienda;
 
-VII.- Acceso a la alimentación;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+VII.- Acceso a la alimentación nutritiva y de calidad;
 
 VIII.- Grado de cohesión social;
 
-IX.- Discriminación Social; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
 
-X.- Condición de desamparo por discapacidad.
+IX.- Discriminación Social;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2018)</small>
+
+X.- Condición de desamparo por discapacidad; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2018)</small>
+
+XI.- Grado de accesibilidad a carretera pavimentada.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2400,3 +2418,9 @@ P.O. 26 DE SEPTIEMBRE DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor a los 120 días siguientes al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los programas y acciones que el Gobierno del Estado y en su caso, los municipios lleven acabo (sic) con motivo de las disposiciones de esta Ley, los podrán realizar a través de la dirección o instituto que para tales efectos deberán crear de acuerdo a su disponibilidad financiera.
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 508 POR EL QUE SE REFORMAN LAS FRACCIONES XII, XIII Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 7; ASIMISMO SE REFORMAN LAS FRACCIONES VII, IX, X Y ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 34 BIS 15, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
