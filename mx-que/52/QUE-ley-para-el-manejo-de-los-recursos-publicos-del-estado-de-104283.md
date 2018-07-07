@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2018-05-09"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -473,11 +473,13 @@ II. Equidad: la remuneración establecida para cada plaza deberá ser proporcion
 
 (DEROGADO, P.O. 18 DE ABRIL DE 2017)
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 26.
 
-Una vez realizado el incremento salarial anual, de acuerdo a la ley o convenios colectivos laborales vigentes, quedan prohibidos los incrementos salariales a los servidores públicos, durante el último ejercicio fiscal del periodo constitucional de que se trate, salvo los incrementos que, por laudo o convenios entre las partes y ratificados ante autoridad laboral competente, se determinen.
+Una vez realizado el incremento salarial anual, de acuerdo a la ley o convenios colectivos laborales vigentes, quedan prohibidos los incrementos salariales a los servidores públicos, durante el último ejercicio fiscal del periodo constitucional de que se trate.
+
+Se exceptúan de lo establecido en el párrafo anterior, los incrementos que, por laudo o convenios entre las partes y ratificados ante autoridad laboral competente, se determinen, así como tratándose de incrementos al personal operativo facultado para el uso legal de la fuerza pública de las corporaciones de seguridad del Estado y de los Municipios. La remuneración correspondiente deberá constar en el tabulador a que se refiere el artículo 14 de esta Ley, cumpliendo al efecto con las disposiciones del presente Título.
 
 ###### Artículo 27.
 
@@ -522,6 +524,12 @@ VII. La demás información que en su caso señalen las disposiciones generales 
 ###### Artículo 30.
 
 La Secretaría y las dependencias encargadas de las finanzas públicas de los municipios, previa petición de la Legislatura, proporcionarán los datos estadísticos e información necesaria que contribuyan a la comprensión del contenido de las iniciativas de Ley de Ingresos que correspondan.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+###### Artículo 30 Bis.
+
+Si durante el desarrollo del proceso legislativo correspondiente a las iniciativas de Leyes de Ingresos del Estado y de los Municipios, se formularan propuestas diversas que impliquen la modificación de las ya remitidas por el Poder Ejecutivo del Estado o los Ayuntamientos, la Legislatura observará que dichas modificaciones atiendan a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental y en las demás disposiciones que regulan la estimación de los ingresos de las entidades federativas y los municipios. Asimismo, observará que las propuestas de nuevas fuentes de ingresos o la modificación a los montos señalados por el Poder Ejecutivo del Estado o los Ayuntamientos en dichas iniciativas, según sea el caso, se sustenten en análisis técnicos que confirmen su viabilidad.
 
 ###### Artículo 31.
 
@@ -671,6 +679,12 @@ En el Presupuesto de Egresos del Estado, se considerará una partida para la pro
 
 La Secretaría deberá proponer al Gobernador del Estado, el proyecto de Decreto de Presupuesto de Egresos del Estado, para ser presentado a la Legislatura a más tardar el treinta de noviembre de cada año.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
+
+###### Artículo 49 Bis.
+
+Si durante el desarrollo del proceso legislativo correspondiente al Proyecto de Decreto de Presupuesto de Egresos del Estado, se formularan propuestas diversas que impliquen la modificación al proyecto remitido por el Poder Ejecutivo del Estado, la Legislatura observará que dichas modificaciones atiendan a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental y en las demás disposiciones que regulan el gasto público.
+
 ###### Artículo 50.
 
 El Decreto de Presupuesto de Egresos del Estado deberá ser aprobado por la Legislatura, a más tardar el quince de diciembre del año que corresponda. La Legislatura remitirá copia certificada de dicho instrumento a la Entidad Superior de Fiscalización del Estado, dentro de los primeros diez días hábiles siguientes a su aprobación.
@@ -705,11 +719,11 @@ Del Presupuesto de Egresos aprobado por los municipios, se remitirá una copia c
 
 El Financiamiento Propio se integra por los recursos que, al cierre del ejercicio fiscal, se tengan en la tesorería de los Sujetos de la Ley, así como, en su caso, los que provengan de Disponibilidades o de transferencias federales que no fueron pagadas ni devengadas. Dicho Financiamiento Propio podrá ser de libre disposición o etiquetado, según su naturaleza.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 53 Ter.
 
-Los Sujetos de la Ley, adicionalmente a los ingresos que establece la fracción V del artículo 29 de esta Ley, deberán estimar el monto del Financiamiento Propio con que iniciarán el ejercicio fiscal que corresponda.
+Los Sujetos de la Ley, adicionalmente a los ingresos que establece la fracción V del artículo 29 de esta Ley, deberán estimar el monto del Financiamiento Propio con que iniciarán el ejercicio fiscal que corresponda, debiendo identificar aquellos recursos etiquetados, ya sean de origen federal o local, que estén comprometidos, devengados, o vinculados a compromisos formales de pago, así como los que sean de libre disposición.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -925,9 +939,9 @@ Los sujetos de la Ley, sólo podrán otorgar donaciones que contribuyan a la con
 
 No se otorgarán a favor de beneficiarios que dependan económicamente del presupuesto o cuyos principales ingresos provengan del mismo.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
-Los subsidios, donaciones y ayudas sociales deberán ser autorizadas por el Gobernador del Estado o por los funcionarios públicos que éste designe.
+Los subsidios y donaciones deberán ser autorizadas por el Gobernador del Estado o por los funcionarios públicos que éste designe. Las ayudas sociales serán autorizadas por los titulares de las dependencias o los ejecutores de gasto a que se refiere el artículo 54 de esta Ley, de conformidad con los programas institucionales a su cargo, así como con las demás disposiciones que, en su caso, resulten aplicables.
 
 Las donaciones que otorgue el Poder Legislativo, se sujetarán a las disposiciones que determine el Pleno de la Legislatura.
 
@@ -935,11 +949,11 @@ Las donaciones que otorgue el Poder Legislativo, se sujetarán a las disposicion
 
 Para efectos del registro presupuestal de los subsidios, donaciones y ayudas sociales, deberán atenderse las disposiciones de la Ley General de Contabilidad Gubernamental.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 76.
 
-La Secretaría no podrá liberar el otorgamiento de subsidios, donaciones y ayudas sociales, sin la autorización expresa a que se refiere el artículo anterior.
+La Secretaría no podrá liberar el otorgamiento de subsidios y donaciones, sin la autorización expresa a que se refiere el artículo anterior.
 
 Para el otorgamiento de subsidios o donativos, los funcionarios públicos a que se refiere el artículo anterior, deberán sujetarse a los criterios de objetividad, equidad, selectividad, transparencia y temporalidad, según corresponda, con base en las siguientes disposiciones:
 
@@ -1369,7 +1383,7 @@ Rúbrica
 
 P.O. 20 DE DICIEMBRE DE 2014.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2015.
 
@@ -1806,3 +1820,13 @@ P.O. 9 DE MAYO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan la presente Ley.
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Lo previsto en el párrafo tercero, del artículo 75, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, vigente a partir del 10 de mayo de 2018, no será aplicable respecto de las autorizaciones de ayudas sociales emitidas durante el periodo comprendido entre la fecha antes mencionada y aquella en que se publique la presente Ley. El trámite de autorización y otorgamiento de las ayudas sociales a que se refiere el presente artículo, estarán a lo dispuesto por el artículo 55 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
