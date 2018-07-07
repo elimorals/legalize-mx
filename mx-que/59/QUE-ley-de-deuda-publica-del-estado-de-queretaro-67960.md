@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-67960"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2017-12-19"
+last_updated: "2018-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -65,11 +65,11 @@ Asimismo, esta ley regula los mecanismos para la afectación, en su caso, de las
 
 Además de lo establecido en la presente Ley, se estará a lo dispuesto por la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
 ###### Artículo 2.
 
-Por deuda pública se entiende toda operación constitutiva de un pasivo, directo, indirecto o contingente, de corto, mediano o largo plazo, que contraigan los estados y los municipios, inclusive los organismos descentralizados estatales o municipales, empresas de participación estatal o municipal mayoritarias y los fideicomisos públicos paraestatales o paramunicipales, derivada de un financiamiento, crédito, empréstito o préstamo, independientemente de la forma mediante la que se les instrumente, excluyendo las obligaciones de pago multianuales que se deriven de contratos de obra pública, prestación de servicios, arrendamientos o adquisiciones.
+Por deuda pública se entiende la que así defina la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 3.
 
@@ -550,6 +550,16 @@ XVII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto
 XVIII. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
 Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Lo previsto en el párrafo tercero, del artículo 75, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, vigente a partir del 10 de mayo de 2018, no será aplicable respecto de las autorizaciones de ayudas sociales emitidas durante el periodo comprendido entre la fecha antes mencionada y aquella en que se publique la presente Ley. El trámite de autorización y otorgamiento de las ayudas sociales a que se refiere el presente artículo, estarán a lo dispuesto por el artículo 55 de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo previsto en la presente Ley.
 
 ### Capítulo Sexto. De la Transparencia
 
