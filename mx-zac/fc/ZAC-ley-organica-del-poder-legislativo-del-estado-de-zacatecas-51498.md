@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-5149
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-07-15"
-last_updated: "2017-08-26"
+last_updated: "2018-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 2: EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 7 DE JULIO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL SIETE DE SEPTIEMBRE DE DOS MIL DIECIOCHO.
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2006.
 
@@ -2714,3 +2716,25 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente al de
 Artículo segundo. La Legislatura del Estado deberá disponer en el Reglamento General del Poder Legislativo del Estado de Zacatecas, a más tardar noventa días posteriores a la entrada en vigor de la presente reforma, el procedimiento correspondiente para enajenar o desincorporar algún bien mueble del Poder Legislativo.
 
 Artículo tercero. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. La presente Ley entrará en vigor el siete de septiembre de dos mil dieciocho, de forma simultánea al Decreto por el que se reforman y derogan, diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas, reforma aprobada en sesión ordinaria celebrada el catorce de junio del año dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado y sin perjuicio de los transitorios siguientes.
+
+Artículo segundo. Se abroga la Ley Orgánica del Poder Legislativo del Estado de Zacatecas, publicada en Suplemento al número 56 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 15 de julio de 2006.
+
+Artículo tercero. Se derogan las disposiciones que se opongan a la presente Ley.
+
+Artículo cuarto. Dentro de los sesenta días naturales siguientes a la publicación de este Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento General del Poder Legislativo del Estado, el cual entrará en vigor el siete de septiembre de dos mil dieciocho.
+
+De no haberse emitido en la fecha señalada el nuevo Reglamento General, se aplicará, en lo conducente y en tanto no contravenga a la presente Ley, el Reglamento General del Poder Legislativo del Estado de Zacatecas publicado en Suplemento 99 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 13 de diciembre de 2006.
+
+Artículo quinto. Dentro de los sesenta días naturales siguientes a la publicación de este Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el reglamento que contenga las disposiciones para el control y ejercicio del presupuesto, el cual entrará en vigor el siete de septiembre de dos mil dieciocho.
+
+De no haberse emitido en la fecha señalada el citado reglamento, se aplicará, en lo conducente y en tanto no contravenga a la presente Ley, el Reglamento para el Control y Ejercicio del Presupuesto de la Legislatura del Estado de Zacatecas, publicado en el Suplemento 3 al número 56 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 9 de julio de 2014.
+
+Artículo sexto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Pleno designará al titular del Órgano Interno de Control, previa convocatoria pública.
+
+Artículo séptimo. Dentro de los sesenta días naturales siguientes a la publicación de este Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Estatuto del Servicio Profesional de Carrera Parlamentaria de la Legislatura del Estado de Zacatecas.
