@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2018-06-25"
+last_updated: "2018-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -3079,9 +3079,17 @@ III. Inspeccionar y vigilar el cumplimiento de esta Ley, su Reglamento respectiv
 
 IV. Solicitar al generador o al prestador de servicios de residuos no peligrosos, un plan de contingencias ambientales;
 
-V. Instrumentar los sistemas de depósito y recolección diferenciada de los residuos sólidos urbanos, para lo cual los Municipios elaborarán programas específicos para su instrumentación; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-VI. Crear programas encaminados a la educación, cultura y difusión de la separación de los residuos sólidos.
+V. Instrumentar los sistemas de depósito y recolección diferenciada de los residuos sólidos urbanos, para lo cual los municipios elaboraran programas específicos para su instrumentación;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VI. Crear programas encaminados a la educación, cultura y difusión de la separación de los residuos sólidos; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VII. Establecer programas y proyectos para la creación de sistemas de eficiencia energética, destinados a reutilizar y transformar los residuos sólidos urbanos, de conformidad con lo dispuesto por la Ley de Transición Energética y demás legislación aplicable en materia de Energías Limpias y Eficiencia Energética.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3906,3 +3914,15 @@ P.O. 25 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 348.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 170; ASÍ COMO SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 170 DE LA LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exhorta a los Ayuntamientos del Estado a Reformar y/o Adicionar sus disposiciones de carácter general, bandos y reglamentos, de conformidad con el presente Decreto.
