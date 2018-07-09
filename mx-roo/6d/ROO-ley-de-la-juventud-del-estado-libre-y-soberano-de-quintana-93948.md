@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2018-04-24"
+last_updated: "2018-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -317,7 +317,9 @@ El Poder Ejecutivo, a través del Instituto, creará, promoverá y apoyará un S
 
 El Instituto será la instancia encargada de administrar el Sistema de Información de la Juventud. Dicho sistema, deberá ser actualizado en forma permanente y deberá publicarse en el portal electrónico oficial del Instituto, así como a través de los medios y tecnologías de la información y comunicación disponibles.
 
-Los Ayuntamientos, en su caso, a través de sus Unidades Administrativas en materia de Juventud, coadyuvarán a la integración y actualización del Sistema de Información de la Juventud del Estado.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+
+Los Ayuntamientos, en su caso, a través de los Institutos Municipales de la Juventud, coadyuvarán a la integración y actualización del Sistema de Información de la Juventud del Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -841,7 +843,9 @@ Corresponde a los Ayuntamientos:
 
 I.- Establecer en el Plan Municipal de Desarrollo, las metas, estrategias y acciones para el desarrollo integral de los jóvenes;
 
-II.- Crear con una unidad administrativa municipal en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+II.- Crear el Instituto Municipal de la Juventud, en los términos de esta Ley;
 
 III.- Aprobar planes y programas en materia de juventud, en el ámbito de su competencia;
 
@@ -931,9 +935,11 @@ La COJUDEQ deberá presentar trimestralmente al Consejo y a la Legislatura del E
 
 DE LOS CONSEJOS MUNICIPALES DE LA JUVENTUD.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 49.
 
-Los Consejos Municipales son órganos colegiados de consulta de la Unidad Administrativa Municipal en la materia, y estarán integrados por jóvenes del municipio que se trate, que representen a sectores de la sociedad y a organismos, asociaciones o instituciones identificados por su trabajo con los jóvenes.
+Los Consejos Municipales son órganos colegiados de consulta de los Institutos Municipales de la Juventud, y estarán integrados por jóvenes del municipio que se trate, que representen a sectores de la sociedad y a organismos, asociaciones o instituciones identificados por su trabajo con los jóvenes.
 
 Los integrantes del Consejo Municipal, durarán en su cargo hasta dos años y sus nombramientos serán honoríficos, por lo que no se percibirá remuneración alguna en su desempeño.
 
@@ -947,17 +953,29 @@ Los Consejos Municipales, se regirán por las disposiciones reglamentarias, que 
 
 A los Consejos Municipales les corresponden las atribuciones siguientes:
 
-I.- Proponer a las Unidades Administrativas en materia de Juventud de su municipio, las medidas convenientes, para que se alcancen sus objetivos y el cumplimiento de sus acciones de trabajo;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-II.- Analizar y presentar a la Unidad Administrativa Municipal de la materia su opinión sobre las propuestas, estudios y proyectos orientados a convenir programas de coordinación con dependencias y organismos federales, estatales y municipales, cuya finalidad sea promover el desarrollo de los jóvenes en sus respectivos municipios;
+I.- Proponer a los Institutos Municipales de la Juventud de su municipio, las medidas convenientes, para que se alcancen sus objetivos y el cumplimiento de sus acciones de trabajo;
 
-III.- Participar, como enlace entre la Unidad Administrativa en materia de Juventud y las organizaciones sociales en sus respectivos municipios, con el objeto de atender las demandas y requerimientos sociales de los jóvenes en sus comunidades;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-IV.- Promover la integración de grupos de trabajo para valorar o desarrollar proyectos o acciones que coadyuven a la consecución de los objetivos y responsabilidades de la Unidad Administrativa en materia de Juventud;
+II.- Analizar y presentar al Instituto Municipal de la Juventud su opinión sobre las propuestas, estudios y proyectos orientados a convenir programas de coordinación con dependencias y organismos federales, estatales y municipales, cuya finalidad sea promover el desarrollo de los jóvenes en sus respectivos munícipios;
 
-V.- Participar, con la Unidad Administrativa en materia de Juventud en los trabajos que ésta realice sobre revisión, formulación y seguimiento de iniciativas de Ley, reglamentos o acuerdos que tiendan a fortalecer el ejercicio pleno de los derechos de los jóvenes en los ámbitos económico, social y político;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-VI.- Recibir, integrar y presentar a la Unidad Administrativa en materia de Juventud recomendaciones sobre planes y proyectos que contribuyan al mejoramiento de la condición social de los jóvenes en sus municipios;
+III.- Participar, como enlace entre el Instituto Municipal de la Juventud y las organizaciones sociales en sus respectivos municipios, con el objeto de atender las demandas y requerimientos sociales de los jóvenes en sus comunidades;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+IV.- Promover la integración de grupos de trabajo para valorar o desarrollar proyectos o acciones que coadyuven a la consecución de los objetivos y responsabilidades del Instituto Municipal de la Juventud;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+V.- Participar, con el Instituto Municipal de la Juventud en los trabajos que este realice sobre revisión, formulación y seguimiento de iniciativas de Ley, reglamentos o acuerdos que tiendan a fortalecer el ejercicio pleno de los derechos de los jóvenes en los ámbitos económico, social y político;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VI.- Recibir, integrar y presentar al Instituto Municipal de la Juventud recomendaciones sobre planes y proyectos que contribuyan al mejoramiento de la condición social de los jóvenes en sus municipios;
 
 VII.- Participar en la elaboración del Programa Estatal y Municipal;
 
@@ -965,9 +983,11 @@ VIII.- Llevar a cabo todas aquellas actividades que se requieran para el cumplim
 
 IX.- Promover espacios de opinión y consulta a la población juvenil en general de su municipio respecto de los programas municipales y presentar a las Unidades Administrativas en materia de juventud sus resultados.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 52.
 
-Los Ayuntamientos, a través de las Unidades Administrativas en materia de Juventud, proporcionarán a sus Consejos Municipales, las instalaciones, materiales, herramientas y todas las facilidades para su operatividad.
+Los Ayuntamientos, a través de los Institutos Municipales de la Juventud, proporcionarán a sus Consejos Municipales, las instalaciones, materiales, herramientas y todas las facilidades para su operatividad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2017)</small>
 
@@ -999,9 +1019,11 @@ De igual forma se convocará al Consejo y a los Consejos Municipales para que pa
 
 El Programa debe tener una perspectiva integral de género y de transversalidad que permita abordar desde las dimensiones económicas, políticas, sociales y culturales los problemas y necesidades juveniles.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 57.
 
-Los ayuntamientos, a través de las Unidades Administrativas en materia de Juventud, tienen la obligación de elaborar, ejecutar y evaluar los programas municipales en materia de atención a la juventud, en los términos que establezca el programa.
+Los ayuntamientos, a través de los Institutos Municipales de la Juventud, tienen la obligación de elaborar, ejecutar y evaluar los programas municipales en materia de atención a la juventud, en los términos que establezca el programa.
 
 ###### Artículo 58.
 
@@ -1027,9 +1049,11 @@ Se establece el Congreso Juvenil del Estado de Quintana Roo, con el propósito d
 
 El Congreso Juvenil se llevará a cabo dentro del Primer Periodo Ordinario de Sesiones de cada año de ejercicio constitucional de la Legislatura del Estado, en la sede del Poder Legislativo del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 62.
 
-La Legislatura del Estado, a través de la Comisión de Desarrollo Juvenil con Igualdad de Oportunidades, y en coordinación con las Unidades Administrativas Municipales en materia de Juventud o, en su caso, la autoridad municipal; y el Instituto Electoral de Quintana Roo, tendrán la responsabilidad de organizar y llevar a cabo el Congreso Juvenil.
+La Legislatura del Estado, a través de la Comisión de Desarrollo Juvenil con Igualdad de Oportunidades, y en coordinación con los Institutos Municipales de la Juventud o, en su caso, la autoridad municipal y el Instituto Electoral de Quintana Roo, tendrán la responsabilidad de organizar y llevar a cabo el Congreso Juvenil.
 
 ###### Artículo 63.
 
@@ -1043,9 +1067,11 @@ La selección de los jóvenes será representativa de cada uno los Municipios de
 
 La Comisión emitirá la Convocatoria correspondiente un mes y medio antes de la fecha de celebración del Congreso Juvenil, la cual se hará de conocimiento público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 65.
 
-Los participantes de los Municipios del Estado, deberán presentar una propuesta Legislativa ante la Unidad Administrativa Municipal en materia de Juventud o, en su caso, ante la autoridad municipal correspondiente, quien seleccionará a sus representantes.
+Los participantes de los Municipios del Estado, deberán presentar una propuesta Legislativa ante el Instituto Municipal de la Juventud o, en su caso, ante la autoridad municipal correspondiente, quien seleccionará a sus representantes.
 
 Los participantes de los Distritos Electorales, deberán presentar una propuesta Legislativa ante el Instituto Electoral de Quintana Roo, quien deberá seleccionar a los representantes de los diversos distritos del Estado.
 
@@ -1192,3 +1218,15 @@ SEGUNDO. Por esta única ocasión, se otorgará de manera retroactiva el apoyo a
 TERCERO. De conformidad con el presente decreto, la SEFIPLAN y el IEQROO deberán de hacer los ajustes conducentes a efecto de que el último de los citados cuente con la suficiencia presupuestal para la realización de Congreso Juvenil del año en curso, en cuanto a sus atribuciones.
 
 CUARTO. Se derogan todas las (sic) aquellas disposiciones jurídicas que contravengan al presente decreto.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 248 POR EL QUE SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 25, LA FRACCIÓN II DEL ARTÍCULO 43, EL PÁRRAFO PRIMERO DEL ARTÍCULO 49, LAS FRACCIONES I, II, III, IV, V Y VI DEL ARTÍCULO 51, LOS ARTÍCULOS 52, 57, 62 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 65, TODOS DE LA LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Ayuntamientos Municipales del Estado, en el plazo de noventa días, deberán crear los Institutos Municipales de la Juventud, de acuerdo a lo establecido en el Título Tercero, Capítulo III de la Ley de la Juventud del Estado Libre y Soberano de Quintana Roo.
+
+TERCERO. Los recursos administrativos con los que cuentan actualmente las Unidades Administrativas de Juventud en los Municipios o sus equivalentes, se transferirán al Instituto Municipal de la Juventud correspondiente a cada Ayuntamiento.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
