@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-59467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-02-04"
-last_updated: "2013-03-04"
+last_updated: "2018-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 341, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 14 DE SEPTIEMBRE DE 2018.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 4 DE MARZO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 321 PUBLICADO EN EL P.O. 25 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -1865,7 +1865,7 @@ También estarán obligados a rendir informe los servidores públicos que de acu
 
 ###### ARTÍCULO 168.
 
-El titular que entrega y el que recibe la dirección, jefatura o unidad administrativa a su cargo, deberá requisitar y suscribir el acta administrativa de entrega recepción y estará obligado a hacer las aclaraciones posteriores que le sean requeridas en un plazo no mayor de quince días hábiles a partir de fa fecha de la separación del cargo.
+El titular que entrega y el que recibe la dirección, jefatura o unidad administrativa a su cargo, deberá requisitar y suscribir el acta administrativa de entrega recepción y estará obligado a hacer las aclaraciones posteriores que le sean requeridas en un plazo no mayor de quince días hábiles a partir de la fecha de la separación del cargo.
 
 ###### ARTÍCULO 169.
 
@@ -1937,7 +1937,7 @@ Aguascalientes, Ags., a 9 de octubre del año 2007.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.
 
-María Guadalupe Díaz Martinez,
+María Guadalupe Díaz Martínez,
 
 DIPUTADA PRESIDENTE.
 
@@ -2022,3 +2022,23 @@ P.O. 25 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia el día 15 de noviembre del año 2013.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 341.- SE REFORMAN EL ARTÍCULO 114; EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, VIII, DEL ARTÍCULO 116, EL ARTÍCULO 119; EL PRIMER PÁRRAFO DE (SIC) ARTÍCULO 128; LAS FRACCIONES V Y XII DEL ARTÍCULO 134; Y LAS FRACCIONES VI Y X DEL ARTÍCULO 136. SE ADICIONAN UNA FRACCIÓN IX Y UNA XII AL ARTÍCULO 116, RECORRIÉNDOSE EN SU NUMERACIÓN LAS SUBSECUENTES; Y UNA FRACCIÓN XIII AL ARTÍCULO 134, RECORRIÉNDOSE EN SU NUMERACIÓN LAS SUBSECUENTES. ASÍ COMO SE DEROGA LA FRACCIÓN III Y EL TERCER PÁRRAFO DE LA FRACCIÓN VIII DEL ARTÍCULO 116; Y LA FRACCIÓN XI DEL ARTÍCULO 134, AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Artículos Segundo, Tercero y Cuarto del presente Decreto entrarán en vigor el 14 de Septiembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+El 14 de Septiembre de 2018 se Abrogan la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 364 de la LIX Legislatura, en fecha 04 de febrero de 2008; el Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 080 de la LX Legislatura, en fecha 16 de junio de 2008; el Reglamento de la Secretaría General del Congreso del Estado de Aguascalientes, publicado en virtud del Decreto Número 393 de la LX Legislatura, en fecha 05 de abril de 2010; el Reglamento de los Órganos Auxiliares del Congreso del Estado de Aguascalientes, publicado en virtud del Decreto Número 261 de la LX Legislatura, en fecha 13 de julio de 2009; el Reglamento del Servicio Civil de Carrera de los Servidores Públicos del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 188 de la LVII Legislatura, en fecha 23 de julio de 2001; y el Reglamento de los Sistemas de Archivo del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 102 de la LVIII Legislatura, en fecha 03 de noviembre de 2003.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado deberá en un plazo de 180 días hábiles, contados a partir de la publicación del presente Decreto, realizar de conformidad las Reformas, Adiciones y/o Derogaciones al Código de Ética Legislativa del Honorable Congreso del Estado de Aguascalientes, y a la Ley del Sistema Estatal Anticorrupción de Aguascalientes.
