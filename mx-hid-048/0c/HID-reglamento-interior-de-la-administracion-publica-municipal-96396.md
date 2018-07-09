@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2016-09-05"
+last_updated: "2018-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -67,9 +67,11 @@ QUE CONTIENE EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE 
 
 El presente Reglamento es de interés público y tiene por objeto regular las atribuciones y funciones otorgadas al Municipio por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 2.
 
-Están obligados a la estricta observancia de este Reglamento los funcionarios, empleados e integrantes de los órganos auxiliares de colaboración Municipal que integran la administración pública central, y sus órganos administrativos desconcentrados, las entidades paramunicipales, así como los particulares que tengan relación con recursos o programas de la Administración Pública Municipal.
+Están obligados a la estricta observancia de este Reglamento los funcionarios, empleados e integrantes de los órganos auxiliares de colaboración Municipal que integran la administración pública central, y sus órganos administrativos desconcentrados, las entidades paramunicipales, así como los particulares que tengan relación con recursos o programas de la Administración Pública Municipal, debiendo observar en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
 
 ###### ARTÍCULO 3.
 
@@ -623,6 +625,10 @@ a) Dirección de lo Contencioso;
 
 b) Dirección de la Oficialía del Registro del Estado Familiar;
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
+
+c) Oficina Conciliadora
+
 II. Dirección de Desarrollo Político;
 
 III. Dirección de Vinculación Ciudadana;
@@ -660,6 +666,10 @@ IX. Fijar criterios de interpretación y de la aplicación de las disposiciones 
 X. Tramitar y resolver los recursos administrativos previstos en la Ley, en el Bando de Policía y Gobierno del Ayuntamiento y los que se interpongan en contra de resoluciones que dicten las Unidades Administrativas del Municipio, así como aquellos que deriven de las leyes y reglamentos de competencia municipal o de aquellos derivados de Convenios de Coordinación o de delegación de facultades federales y estatales, por acuerdo del Presidente Municipal;
 
 XI. Atender y encargarse jurídicamente de la defensa de las autoridades administrativas y de los servidores públicos del Municipio, en los procedimientos de carácter civil, penal, laboral o administrativos por actos derivados del ejercicio de sus funciones, con todas las facultades generales y las especiales que se requieran;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+XI BIS. Promover los servicios de defensoría de oficio a quienes no cuenten con defensor particular, cuando sea competencia de las autoridades municipales.
 
 XII. Prestar asesoría jurídica a las secretarías y entidades de la Administración Pública Municipal en materia jurídica;
 
@@ -2881,9 +2891,11 @@ XIV. Las demás que determinen las disposiciones legales y reglamentarias aplica
 
 #### SECCIÓN PRIMERA. DEL TITULAR DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 102.
 
-La Secretaría de Contraloría y Transparencia es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política orientada a la implementación de los sistemas de gestión y control; con el propósito central de supervisar, vigilar y evaluar las acciones realizadas por los servidores públicos de las secretarías y entidades paramunicipales en el ejercicio del presupuesto asignado; de igual forma en la transparencia de la acción municipal, comprometida con una administración eficaz y eficiente, en el manejo de los recursos.
+La Secretaría de Contraloría y Transparencia es una dependencia de la Administración Pública Municipal, encargada de apoyar a la o el Presidente Municipal, en la conducción de la política orientada a la implementación de los sistemas de gestión, control y actuación ética y responsable de los servidores públicos; con el propósito central de supervisar, vigilar y evaluar las acciones realizadas por los servidores públicos de las secretarías y entidades paramunicipales en el ejercicio de sus funciones; de igual forma en la inspección de la hacienda pública y en la transparencia de la acción municipal, comprometida con una administración eficaz y eficiente, en el manejo de los recursos.
 
 ###### ARTÍCULO 103.
 
@@ -2915,11 +2927,17 @@ XII. Informar a la o el Presidente Municipal sobre el resultado de las auditorí
 
 XIII. Verificar que en las secretarías y entidades paramunicipales, se observen las normas y procedimientos para el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, inversión pública, deuda pública, patrimonio, fondos y valores establecidas;
 
-XIV. Recibir, registrar y resguardar las declaraciones patrimoniales de los servidores públicos de la Administración Pública Municipal, que legalmente estén obligados a presentarlas y practicar las investigaciones que fueren pertinentes, en el ámbito de su competencia, de acuerdo con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-XV. Recibir y atender las quejas y denuncias que se presenten en contra de los servidores públicos municipales;
+XIV. Recibir, registrar y resguardar las declaraciones patrimoniales y de intereses y, en su caso, la fiscal anual de todos los servidores públicos de la Administración Pública Municipal; así como dar seguimiento a su evolución patrimonial y verificar la actualización de un posible conflicto de intereses, para lo cual podrá ordenar la práctica de las investigaciones y/o de las auditorías que fueren pertinentes;
 
-XVI. Conocer e investigar los actos u omisiones de los servidores públicos que puedan constituir responsabilidades administrativas; desahogar los procedimientos para determinar su existencia, proponiendo en su caso, al superior jerárquico, las sanciones a que se hayan hecho acreedores en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+XV. Recibir y dar trámite a las denuncias respecto de actos u omisiones que puedan constituir responsabilidad administrativa;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+XVI. Sustanciar y resolver los Procedimientos de Responsabilidad Administrativa, imponiendo, en su caso, las sanciones y la ejecución de estas en los términos previstos por la legislación en materia de responsabilidades administrativas.
 
 XVII. Recibir, atender y resolver las inconformidades que presenten los proveedores y contratistas de la Administración Pública Municipal que consideren que sus derechos fueron afectados;
 
@@ -2943,9 +2961,13 @@ XXVI. Evaluar el cumplimiento del Sistema de Evaluación del Desempeño y de los
 
 XXVII. Requerir de las diferentes áreas de la Administración Pública Municipal, la información necesaria para el cumplimiento de las atribuciones de la Secretaría;
 
-XXVIII. Imponer la medida de apremio o fincar la responsabilidad administrativa que corresponda a los Servidores Públicos que no atiendan con diligencia las instrucciones, requerimientos o resoluciones que dicte esta Secretaría en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-XXIX. Interponer las denuncias correspondientes ante el Ministerio Publico cuando de las investigaciones realizadas se desprenda la comisión de delitos perseguidos de oficio; y
+XXVIII. Imponer las medidas de apremio a quienes no atiendan con diligencia las instrucciones, requerimientos o resoluciones que dicte esta Secretaría en el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+XXIX. Interponer y, en su caso, dar trámite a los recursos e incidentes que prevea la legislación en materia de responsabilidades administrativas, así como presentar las denuncias correspondientes, en coordinación con la Dirección General Jurídica cuando de las investigaciones realizadas se desprenda la comisión de delitos;
 
 XXX. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y la o el Presidente Municipal.
 
@@ -2959,11 +2981,17 @@ I. Dirección de Control;
 
 II. Dirección de Auditoría;
 
-III. Dirección de Responsabilidades y Situación Patrimonial;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+III. Dirección de Denuncias y Situación Patrimonial.
 
 IV. Dirección de Gestión de la Calidad; y,
 
 V. Dirección de Transparencia e Información Pública Gubernamental.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VI. Dirección de Responsabilidades.
 
 ###### ARTÍCULO 105.
 
@@ -3055,23 +3083,55 @@ XX. Proponer y vigilar la aplicación de los lineamientos y controles que se deb
 
 XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 107.
 
-A la Dirección de Responsabilidades y Situación Patrimonial le corresponderá el ejercicio de las siguientes atribuciones:
+A la Dirección de Denuncias y Situación Patrimonial, en su carácter de Autoridad Investigadora, le corresponderá el ejercicio de las siguientes atribuciones:
 
-I. Recibir, registrar y resguardar las declaraciones patrimoniales de los servidores públicos de la Administración Pública Municipal, que legalmente estén obligados a presentarlas y practicar las investigaciones que fueren pertinentes, en el ámbito de su competencia, de acuerdo con las disposiciones legales aplicables;
+I. Recibir y dar trámite a las denuncias respecto de actos u omisiones que puedan constituir responsabilidad administrativa;
 
-II. Recibir las quejas y denuncias que se presenten por incumplimiento a las obligaciones de los Servidores Públicos del Municipio, así como sustanciar el procedimiento administrativo correspondiente en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo;
+II. Realizar investigaciones de oficio, con motivo de una denuncia o derivado de auditorías, respecto de actos u omisiones que puedan constituir responsabilidad administrativa;
 
-III. Iniciar los procedimientos de Responsabilidad Administrativa que correspondan, derivados de resultados de Auditorías Municipales, Estatales y Federales;
+III. Solicitar al área competente la práctica de revisiones y auditorías; así como ordenar las visitas de verificación que se estimen necesarias para el cumplimiento de sus atribuciones;
 
-IV. Instruir la organización para la recepción y atención de quejas o denuncias que presenten particulares en contra de los servidores públicos; así como aquellas remitidas por dependencias internas y externas, públicas y privadas;
+IV. Solicitar información a personas físicas o morales, públicas o privadas, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
 
-V. Conocer e investigar los actos u omisiones de los servidores públicos que puedan constituir responsabilidades administrativas; proponiendo al superior jerárquico las sanciones a que se hayan hecho acreedores en los términos que las leyes señalen, a efecto de que se lleven a cabo las acciones legales que correspondan;
+V. Formular requerimientos debidamente fundados y motivados a personas físicas o morales, públicas o privadas que sean sujetos de investigación por presuntas irregularidades cometidas en el ejercicio de sus funciones;
 
-VI. Recibir, atender y resolver las inconformidades que presenten los proveedores y contratistas del Ayuntamiento que consideren que sus derechos fueron afectados; y
+VI. Hacer uso de las medidas de apremio establecidas en la legislación en materia de responsabilidades administrativas para hacer cumplir sus determinaciones;
 
-VII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+VII. Solicitar a la autoridad competente decrete medidas cautelares en los términos de la legislación en materia de responsabilidades administrativas.
+
+VIII. Determinar la existencia o inexistencia de actos u omisiones que pudieran constituir faltas administrativas, elaborando el Informe de Presunta Responsabilidad Administrativa o, en su caso, el acuerdo de conclusión y archivo del expediente;
+
+IX. Recibir, tramitar e interponer los recursos e incidentes en el ámbito de su competencia y darles el trámite correspondiente.
+
+X. Formular denuncias ante el Ministerio Publico en el ámbito de su competencia, en coordinación con la Dirección General Jurídica; y
+
+XI. Recibir, registrar y resguardar las declaraciones patrimoniales y de intereses y, en su caso, la fiscal anual de todos los servidores públicos de la Administración Pública Municipal; así como dar seguimiento a su evolución patrimonial y verificar la actualización de un posible conflicto de intereses, para lo cual podrá ordenar la práctica de las investigaciones y/o de las auditorías que fueren pertinentes;
+
+XII. Las demás que le asigne la ley de la materia y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
+
+ARTÍCULO 107 BIS.- A la Dirección de Responsabilidades, en su carácter de Autoridad Sustanciadora-Resolutora, le corresponderá el ejercicio de las siguientes atribuciones:
+
+I. Dar trámite al Informe de Presunta Responsabilidad Administrativa;
+
+II. Hacer uso de los medios de apremio que prevea la legislación en materia de responsabilidades administrativas para hacer cumplir sus determinaciones;
+
+III. Habilitar días y horas inhábiles para la práctica de diligencias que estime necesarias.
+
+IV. Decretar las medidas cautelares en los términos de la legislación en materia de responsabilidades administrativas;
+
+V. Sustanciar y resolver los Procedimientos de Responsabilidad Administrativa, imponiendo, en su caso, las sanciones en los términos previstos por la legislación en materia de responsabilidades administrativas; así como la ejecución de aquellas que dispone dicho ordenamiento legal.
+
+VI. Recibir, tramitar e interponer los recursos e incidentes en el ámbito de su competencia y darles el trámite correspondiente.
+
+VII. Recibir, atender y resolver las inconformidades que presenten los proveedores y contratistas de la administración Pública Municipal que consideren que sus derechos fueron afectados; y
+
+VIII. Las demás que le asigne la ley de la materia y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 108.
 
@@ -3430,3 +3490,23 @@ P.O. 5 DE SEPTIEMBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNTO: (SIC) Para el siguiente Ejercicio Presupuestal el H. Ayuntamiento de Pachuca de Soto, deberá asignar recursos para la nueva Unidad de Apoyo del Presidente Municipal Constitucional.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO QUINCE.- QUE CONTIENE LA INICIATIVA CON PROYECTO DE DECRETO QUE REFORMA EL ARTÍCULO 32 EN SU FRACCIÓN I, ADICIONANDO EL INCISO C) DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- A partir de la publicación del presente Reglamento en el Periódico Oficial, la Presidenta Municipal, contará con un periodo de un mes para la ratificación o designación y toma de protesta del o los Conciliadores Municipales.
+
+TERCERO.- El Municipio contará hasta el 31 de diciembre del 2018, para hacer las adecuaciones correspondientes en cuanto al personal que permita el funcionamiento de la oficina conciliadora en términos del presente Reglamento.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO DIECISIETE.- QUE CONTIENE LA INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+SEGUNDO.- (SIC) Por lo anterior expuesto, se somete a la aprobación del Honorable Ayuntamiento el presente dictamen de las Comisiones Permanentes de Hacienda Municipal Gobernación, Bandos, Reglamentos y Circulares del Honorable Ayuntamiento de Pachuca de Soto, Estado de Hidalgo.
