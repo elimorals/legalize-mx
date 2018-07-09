@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2018-07-02"
+last_updated: "2018-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -65,9 +65,17 @@ V. Favorecer la recuperación y la construcción de un nuevo proyecto de vida pa
 
 VI. Asegurar la concurrencia, alineación y optimización de recursos e instrumentos de todo tipo destinados para actuar en contra de la problemática;
 
-VII. Garantizar el estudio de la efectividad de la intervención y la reproducibilidad del fenómeno; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender la violencia de género contra las mujeres.
+VII. Garantizar el estudio de la efectividad de la intervención y la reproducibilidad del fenómeno;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender la violencia de género contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+IX. Garantizar que la educación en todos los niveles se realice en el marco de la igualdad entre mujeres y hombres evitando toda forma de discriminación y violencia.
 
 ###### Artículo 3°.
 
@@ -255,9 +263,11 @@ Puede consistir en un solo evento dañino o en una serie de eventos, cuya suma p
 
 Constituye violencia de género contra las mujeres en el ámbito laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en las leyes y todo tipo de discriminación por razón de género.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 13.
 
-Constituye violencia de género contra las mujeres en el ámbito docente, aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, las cuales son infligidas por maestros y maestras.
+Constituye violencia de género contra las mujeres en el ámbito académico, aquellas conductas que se lleven a cabo dentro de las instituciones educacionales y que dañen la autoestima de las alumnas o docentes con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, las cuales son infligidas por personal académico, administrativo o el alumnado dentro de un plantel educacional.
 
 ###### Artículo 14.
 
@@ -469,7 +479,9 @@ En la audiencia se recibirán, admitirán y desahogarán las pruebas que proceda
 
 El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque la orden de protección, atendiendo al peligro existente, el tipo de medida implementada y al interés superior de la víctima, en la resolución se podrá:
 
-I. Prolongar las órdenes de protección de emergencia o preventivas hasta por treinta días naturales; o
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+I. Prolongar las órdenes de protección de emergencia o preventivas hasta por sesenta días naturales; o
 
 II. Prolongar las órdenes de protección de naturaleza civil por el tiempo que determine el juez.
 
@@ -531,15 +543,15 @@ III. Un representante de la Secretaría de Finanzas;
 
 IV. Un representante de la Secretaria de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-V. Un representante de la Secretaría de Bienestar y Desarrollo Social;
+V. Un representante de la Secretaría de Desarrollo Social;
 
 VI. Un representante de la Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-VII. Un representante de la Coordinación Estatal de Planeación y Proyectos;
+VII. Un representante de la Coordinación General de Planeación y Proyectos;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -565,13 +577,17 @@ XIV. Un representante del Instituto Estatal Electoral;
 
 XV. Un representante de la Comisión de Equidad de Género del Congreso del Estado y otro de la Comisión de Derechos Humanos del Congreso del Estado;
 
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-XVI. Tres representantes de organizaciones civiles especializadas en la materia; y
+XVI. Tres representantes de organizaciones civiles especializadas en la materia;
 
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2018)</small>
 
-XVII. Dos representantes de instituciones de investigación especializados en la materia.
+XVII. Un representante del Supremo Tribunal de Justicia del Poder Judicial del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2018)</small>
+
+XVIII. Dos representantes de instituciones de investigación especializados en la materia.
 
 ###### Artículo 37.
 
@@ -1153,7 +1169,7 @@ VI. Las demás que le asigne el Programa.
 
 Corresponde a la Coordinación de Comunicación Social del Gobierno del Estado de Aguascalientes:
 
-l. Producir secciones en prensa escrita sobre el derecho que tienen las mujeres a vivir una vida libre de violencia, así como sobre la prevención y procedimiento de denuncia del fenómeno;
+I. Producir secciones en prensa escrita sobre el derecho que tienen las mujeres a vivir una vida libre de violencia, así como sobre la prevención y procedimiento de denuncia del fenómeno;
 
 II. Impulsar procesos de capacitación para su personal, con la finalidad de fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
@@ -1181,9 +1197,21 @@ I. Desarrollar un programa de capacitación permanente sobre la violencia de gé
 
 II. Incorporar en sus sistemas estadísticos, indicadores que faciliten el monitoreo de las tendencias socio-jurídicas del fenómeno y la consecuente aplicación de la presente ley;
 
-III. Institucionalizar la perspectiva de género en la administración e impartición de justicia; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-IV. Difundir permanentemente el procedimiento judicial en materia de violencia de género contra las mujeres.
+III. Institucionalizar la perspectiva de género en la administración e impartición de justicia;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+IV. Difundir permanentemente el procedimiento judicial en materia de violencia de género contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+V. Promover internamente mecanismos para prevenir, atender, sancionar y erradicar el hostigamiento y acoso sexual; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VI. Promover la cultura de respeto a los derechos humanos y garantizar la seguridad de quienes denuncian.
 
 #### SECCIÓN TERCERA. Del Poder Legislativo
 
@@ -1191,9 +1219,17 @@ IV. Difundir permanentemente el procedimiento judicial en materia de violencia d
 
 Corresponde al Congreso del Estado, a través de las Comisiones respectivas:
 
-I. Vigilar que el marco normativo del Estado garantice el cumplimiento de la presente ley; e
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-II. Institucionalizar la perspectiva de género en el proceso legislativo y realizar estudios de género.
+I. Vigilar que el marco normativo del Estado garantice el cumplimiento de la presente ley;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+II. Institucionalizar la perspectiva de género en el proceso legislativo y realizar estudios de género; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+III. Promover internamente mecanismos para prevenir, atender, sancionar y erradicar el hostigamiento y acoso sexual.
 
 #### SECCIÓN CUARTA. De la Comisión Estatal de Derechos Humanos
 
@@ -1309,7 +1345,7 @@ El SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Angel Pérez Talamantes.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 2 DE AGOSTO DE 2010.
 
@@ -1415,8 +1451,24 @@ Se exhorta a los Ayuntamientos del Estado a armonizar sus disposiciones reglamen
 
 P.O. 2 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 336.- SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 8°, Y LA FRACCIÓN IV DEL ARTÍCULO 9°; ASÍ COMO SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 8°, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 15, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 336.- SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 8°, Y LA FRACCIÓN IV DEL ARTÍCULO 9°; ASÍ COMO SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 8°, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 15, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 343.- SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 2º, EL ARTÍCULO 13, Y LA FRACCIÓN I DEL TERCER PÁRRAFO DEL ARTÍCULO 30 BIS; ASÍ COMO SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 2º, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 345.- SE REFORMAN LAS FRACCIONES V, VII, XVI, XVII DEL ARTÍCULO 36; LAS FRACCIONES III Y IV DEL ARTÍCULO 75; Y LAS FRACCIONES I Y II DEL ARTÍCULO 76; ASÍ COMO ADICIONAR UNA FRACCIÓN XVIII AL ARTÍCULO 36; UNAS FRACCIONES V Y VI AL ARTÍCULO 75; Y UNA FRACCIÓN III AL ARTÍCULO 76; DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
