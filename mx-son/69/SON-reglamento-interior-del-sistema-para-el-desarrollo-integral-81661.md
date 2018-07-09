@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-sistema-para-el-desarrollo-integral-816
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-09"
-last_updated: "2011-06-09"
+last_updated: "2018-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 9 de junio de 2011.
 
@@ -57,7 +57,9 @@ a) Coordinación General de Operación;
 
 b) Coordinación General de Administración;
 
-c) Dirección de Atención a Población Vulnerable y Centros Asistenciales;
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 2018)</small>
+
+c) Dirección de Atención a Población Vulnerable;
 
 d) Dirección de Programas Alimentarios y Desarrollo Comunitario;
 
@@ -71,9 +73,13 @@ h) Dirección de Recursos Materiales y Servicios Generales; y
 
 i) Dirección de Recursos Humanos.
 
-IV. Órgano Desconcentrado:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 9 DE JULIO DE 2018)</small>
 
-a) Procuraduria de la Defensa del Menor y la Familia.
+IV. Órganos Desconcentrados:
+
+a) Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Sonora; y
+
+b) Procuraduría de la Defensa del Adulto Mayor.
 
 ###### Artículo 3°.
 
@@ -99,9 +105,11 @@ La Junta de Gobierno controlará la forma en que los objetivos serán alcanzados
 
 Las sesiones ordinarias se celebrarán una vez cada tres meses y las demás que convoque su Presidente, por conducto del Secretario Técnico; las sesiones extraordinarias se llevarán a cabo a petición del Presidente cuando lo considere necesario.
 
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 7°.
 
-Para la celebración de las sesiones de la Junta de Gobierno, se deberá emitir convocatoria por el Presidente, por conducto del Secretario Técnico, a la que se acompañará el orden del día y el apoyo documental de los asuntos a tratar, mismos que se harán llegar a sus integrantes con cinco días de anticipación a la celebración de la sesión siendo de carácter ordinaria, y tres días cuando sea extraordinaria.
+Para la celebración de las sesiones de la Junta de Gobierno se deberá emitir convocatoria por el Presidente, por conducto del Secretario Técnico, a la que se acompañará el orden del día y el apoyo documental de los asuntos a tratar, mismos que se harán llegar a sus integrantes con cinco días hábiles de anticipación a la celebración de la sesión cuando ésta tenga el carácter de ordinaria, y cuarenta y ocho horas cuando sea extraordinaria.
 
 ###### Artículo 8°.
 
@@ -201,7 +209,9 @@ IV. Proporcionar al Comisario Público Oficial o Ciudadano designado por la Secr
 
 V. Presentar a la Junta de Gobierno el informe del desempeño de las actividades de DIF Sonora, incluyendo el ejercicio de los presupuestos de ingresos, egresos y los estados financieros correspondientes, dentro de los dos primeros meses del año;
 
-VI. Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso de los ciudadanos a la información de carácter público del DIF Sonora, en el marco de las disposiciones de la Ley de Acceso a la Información Pública del Estado de Sonora y sus lineamientos;
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+VI. Coordinar la implementación de mecanismos que contribuyan a garantizar el acceso de los ciudadanos a la información de carácter público de (sic) DIF Sonora, en el marco de las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora y sus lineamientos.
 
 VII. Someter a consideración y aprobación de la Junta de Gobierno, a más tardar en la segunda quincena del mes de octubre de cada año, los anteproyectos del programa presupuesto y programa operativo anual del DIF Sonora;
 
@@ -209,15 +219,31 @@ VIII. Establecer y conducir las políticas de comunicación social, así como co
 
 IX. Coordinar, vigilar y dar seguimiento al cumplimiento de los compromisos contraídos por DIF Sonora a través de los acuerdos, contratos y convenios de colaboración, de apoyo y de coordinación institucional celebrados, así como aquellos que le confieren las leyes y otros ordenamientos jurídicos aplicables;
 
-X. Coordinar y dirigir la elaboración de investigaciones con parámetros estadísticos, sociodemográficos y de percepción ciudadana aplicadas en temas de asistencia social;
+X. (DEROGADA, B.O. 9 DE JULIO DE 2018)
 
-XI. Expedir, previa autorización de la Junta de Gobierno, el marco normativo institucional en materia de manuales de procedimientos, manuales de organización, reglamentos, manual de trámites y servicios, directorio institucional y demás normatividad que compete a DIF Sonora;
+XI. (DEROGADA, B.O. 9 DE JULIO DE 2018)
 
-XII. Revisar las propuestas de modificación a la estructura orgánica y ocupacional de las unidades administrativas y órganos desconcentrados del DIF Sonora, conforme a las disposiciones aplicables y gestionar su autorización ante las autoridades competentes;
+XII. (DEROGADA, B.O. 9 DE JULIO DE 2018)
 
-XIII. Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos, de acuerdo a la normatividad en la materia; y
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
 
-XIV. Las demás que le confieran las disposiciones legales aplicables, así como las que le encomiende la Junta de Gobierno.
+XIII. Implementar las acciones necesarias para el cumplimiento del sistema integral de archivos, de acuerdo con la normatividad en la materia;
+
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XIV. Establecer los mecanismos necesarios para apoyar con personal e infraestructura al Fondo Estatal de Solidaridad, organismo descentralizado de la Administración Pública Estatal, en el cumplimiento de su objeto;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XV. Representar legalmente a DIF Sonora, ante toda clase de autoridades jurisdiccionales, administrativas y del trabajo;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XVI. Promover el cumplimiento a los lineamientos, manuales y reglas de operación emitidos por los Sistemas Nacional y Estatal de Protección Civil y el Sistema Nacional para el Desarrollo Integral de la Familia en coordinación con los Sistemas DIF Municipales, con base en las dispociones (sic) legales aplicables; y
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XVII. Las demás que le confieran las disposiciones legales aplicables, así como las que le encomiende la Junta de Gobierno.
 
 ### CAPÍTULO IV. DEL PATRONATO
 
@@ -349,9 +375,17 @@ XV. Custodiar y garantizar el cuidado, conservación y buen uso de los recursos 
 
 XVI. Elaborar el programa operativo anual de acuerdo con las responsabilidades de su encargo y los lineamientos que al respecto emita el Director General;
 
-XVII. Supervisar y evaluar el desarrollo de los programas autorizados a las unidades administrativas que le están adscritas; y
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
 
-XVIII. Las demás que les señale el Director Generala le confieran otras disposiciones legales.
+XVII. Supervisar y evaluar el desarrollo de los programas autorizados a las unidades administrativas que les están adscritas;
+
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XVIII. Expedir copias certificadas de las constancias existentes en los archivos de la Coordinación General a su cargo y de las unidades administrativas que les están adscritas, previo cotejo de las mismas; y
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XIX. Desarrollar las demás atribuciones que de manera específica les señale su superior jerárquico, así como aquellas que les confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 27.
 
@@ -413,9 +447,25 @@ XVI. Coordinar la detección de necesidades de equipo de cómputo, mantenimiento
 
 XVII. Validar la información financiera de recursos que son transferidos, en los términos de los convenios respectivos y vigilar la aplicación de la normatividad en la materia y someterlos a consideración del Director General;
 
-XVIII. Supervisar y revisar la integración de la información que será sometida para aprobación en las sesiones ordinarias y extraordinarias de la Junta de Gobierno de DIF Sonora; y
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
 
-XIX. Desarrollar las demás atribuciones que de manera específica le asigne el Director General, o le confieran las leyes y otros ordenamientos jurídicos aplicables.
+XVIII. Supervisar y revisar la integración de la información que será sometida para aprobación en las sesiones ordinarias y extraordinarias de la Junta de Gobierno de (sic) DIF Sonora;
+
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XIX. Implementar las acciones necesarias para asegurar los mecanismos de recaudación de fondos internacionales que permitan el cumplimiento de los programas implementados por DIF Sonora;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XX. Implementar los sistemas que permitan la integración y resguardo de la información en archivos documentales que integran DIF Sonora;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XXI. Implementar las acciones necesarias para asegurar la conformación y custodia del archivo documental del organismo; y
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XXII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES
 
@@ -445,45 +495,41 @@ IX. Someter a la consideración del Coordinador General correspondiente y poster
 
 X. Vigilar que los recursos humanos, materiales, técnicos y financieros sean utilizados de manera eficaz y eficiente en beneficio de la operatividad de la unidad administrativa respectiva;
 
-XI. Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, disposición y conservación de los documentos y archivo; y
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
 
-XII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+XI. Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, disposición y conservación de los documentos y archivo;
+
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XII. Asegurar la comprobación de los recursos ordinarios y extraordinarios asignados a sus programas; y
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XIII. Desarrollar las demás atribuciones que de manera específica específica (sic) les señale su superior jerárquico, así como aquellas que les confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES
 
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 30.
 
-La Dirección de Atención a Población Vulnerable y Centros Asistenciales, estará adscrita a la Coordinación General de Operación y le corresponde las siguientes atribuciones:
+La Dirección de Atención a Población Vulnerable, estará adscrita a la Coordinación General de Operación y le corresponden las siguientes atribuciones:
 
 I. Planear, coordinar, dirigir, supervisar y evaluar los programas y presupuestos institucionales de prestación de servicios de asistencia social a población vulnerable en el Estado de Sonora, de acuerdo a lo establecido en la normatividad legal correspondiente;
 
 II. Planear, dirigir, supervisar y evaluar los apoyos asistenciales, verificando que se atiendan las demandas específicas de la población vulnerable y se otorguen los servicios de acuerdo a los requisitos y procedimientos establecidos;
 
-III. Planear, supervisar y evaluar los servicios asistenciales que se brindan a los menores, atendidos en el Centro de Atención Integral para Menores Unacari;
+III. Dar seguimiento a la correcta aplicación de los recursos del Fondo Estatal de Solidaridad que se realiza a través del programa de Atención Ciudadana;
 
-IV. Planear, supervisar y evaluar los servicios asistenciales que se brindan en el Hogar Temporal para Menores en Situación de Calle Jineseki;
+IV. Proyectar, coordinar y evaluar la correcta aplicación del Programa de Atención Ciudadana;
 
-V. Planear, coordinar y supervisar los servicios de asistencia psicológica y que se brinde en los centros asistenciales de DIF Sonora;
+V. Coordinar, supervisar y evaluar la operación eficaz y eficiente del Parque Infantil Sonora;
 
-VI. Planear, coordinar y autorizar los informes correspondientes sobre las verificaciones realizadas por DIF Sonora a orfanatorios, asilos, centros de rehabilitación y demás establecimientos de asistencia social cuando la Secretaría de Salud Pública del Estado lo solicite sobre la expedición, revalidación o cancelación de las correspondientes licencias sanitarias;
+VI. Coordinar, supervisar y evaluar el desempeño de las actividades que se realizan en la prestación de los servicios funerarios que brinda el Sistema DIF Sonora, de manera eficaz y eficiente a la población vulnerable;
 
-VII. Planear supervisar y evaluar los programas de estrategias de prevención y atención para incidir en el desarrollo de los niños, niñas y adolescentes en situación de vulnerabilidad, promoviendo además, el ejercicio pleno de sus derechos;
+VII. Planear, promover y apoyar la realización de los eventos cívicos, artísticos y culturales que se requieran para la promoción de los programas que sean de su competencia; y
 
-VIII. Vigilar, proteger y verificar el resguardo y restablecimiento físico del menor repatriado no acompañado en situación de riesgo que ingresa al Estado de Sonora, así como la reintegración del mismo al seno familiar;
-
-IX. Planear, coordinar, dirigir y apoyar a las organizaciones privadas con asesoría en cuanto a la operación de centros de asistencia social y de integración social y familiar;
-
-X. Coordinar: supervisar y evaluar el desempeño de las actividades que se realizan en la prestación de los servicios funerarios que presta DIF Sonora de manera eficaz y eficiente, a la población vulnerable;
-
-XI. Planear, coordinar y apoyar para que se realicen los eventos cívicos, artísticos y culturales que se requieran para la promoción de los programas que sean de la competencia de esta Dirección;
-
-XII. Planear, supervisar y evaluar los programas preventivos y servicios asistenciales destinados a la atención integral de adultos mayores del estado;
-
-XIII. Coordinar con los Sistemas DIF Municipales, la promoción y operación de acciones de los sectores público, social y privado conducentes a la atención de damnificados por caso de contingencias, meteoros y desastres naturales;
-
-XIV. Dar seguimiento a la correcta aplicación de los recursos del Fondo Estatal de Solidaridad que se realiza a través del Programa de Atención Ciudadana; y
-
-XV. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+VIII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 31.
 
@@ -511,7 +557,7 @@ X. Establecer coordinación con diferentes instancias de gobierno y organizacion
 
 XI. Planear, dirigir, controlar y evaluar el Programa de Espacios de Alimentación, Encuentro y Desarrollo, otorgando seguridad alimentaria a la población vulnerable, a través de los espacios para la elaboración de alimentos y con la participación y organización social de los beneficiarios;
 
-XII. Planear y supervisar la realización de pruebas psicológicas de evaluación que permitan contar con personal adecuado para la atención de los niños en las estancias infantiles, así como atención alimentaria, educativa y de cuidado para que se realice un eficiente funcionamiento de la estancia;
+XII. (DEROGADA, B.O. 9 DE JULIO DE 2018)
 
 XIII. Supervisar y llevar a cabo la implantación metodológica de la planeación participativa para crear estructuras organizativas, programas y proyectos surgidos de las necesidades y planteamientos de las comunidades;
 
@@ -519,13 +565,29 @@ XIV. Dirigir y supervisar la capacitación y adiestramiento de manera continua a
 
 XV. Promover la realización de capacitaciones con el personal de la Dirección, así como en los Sistemas DIF Municipales, a fin de que puedan llevar a cabo el funcionamiento eficiente y oportuno de los programas;
 
-XVI. Coordinar, supervisar y evaluar la operación eficaz y eficiente del Parque Infantil;
+XVI. (DEROGADA, B.O. 9 DE JULIO DE 2018)
 
-XVII. Brindar asesorías, supervisión e inducción a los centros educativos que dependan del Sistema DIF Estatal y Sistemas DIF Municipales, cuando así lo soliciten como Servicio Educativo para Niños Albergados Centro de Asistencia Integral del Menor Unacari, Centro Asistencial Infantil Comunitario y Programa Tu Casa de Apoyo Centro de Atención Integral Comunitaria;
+XVII. (DEROGADA, B.O. 9 DE JULIO DE 2018)
 
-XVIII. Planear, coordinar y supervisar el cumplimiento de los objetivos del programa de asesoría educativa a través de las casas de apoyo, verificando que se cumplan con los lineamientos que emita el Sistema Nacional para el Desarrollo Integral de la Familia y la Secretaría de Educación y Cultura; y
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
 
-XIX. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+XVIII. Planear, coordinar y supervisar el cumplimiento de los objetivos del programa de asesoría educativa, verificando que se cumpla con los lineamientos que emita el Sistema Nacional para el Desarrollo Integral de la Familia y la Secretaría de Educación y Cultura del Estado;
+
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XIX. Proporcionar inducción, supervisión y asesoría a los centros educativos inscritos en el Programa Federal emitido por el Sistema DIF Nacional a Centros Asistenciales de Desarrollo Infantil, Centro de Asistencia Infantil Comunitario y Atención a la Salud del Niño;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XX. Establecer coordinación con los Sistemas DIF Municipales en la promoción y operación de acciones de los sectores público, social y privado en lo concerniente a la atención de damnificados por contingencias, meteoros y desastres naturales;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XXI. Ejecutar los acuerdos que determinen los Sistemas Nacional y Estatal de Protección Civil y el Sistema Nacional para el Desarrollo Integral de la Familia en materia de protección civil a población en riesgo o condiciones de emergencia, e informar los resultados obtenidos; y
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XXII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 32.
 
@@ -559,7 +621,9 @@ XIII. Orientar a la comunidad en general y en particular a las familias de perso
 
 XIV. Proporcionar a los Ayuntamientos las bases internacionales de desarrollo urbanístico y arquitectónico que comprendan las facilidades para la movilización y necesidades de personas con discapacidad;
 
-XV. Promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas con discapacidad;
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XV. Promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales;
 
 XVI. Promover, y posteriormente otorgar proyectos de productividad, ayuda social, becas y estímulos en general, con el objeto de impulsar la autosuficiencia de las personas con discapacidad;
 
@@ -567,9 +631,21 @@ XVII. Promover la integración de equipos multidisciplinarios que aseguran la at
 
 XVIII. Coordinarse con la autoridad municipal a fin de otorgar tarjetones exclusivos para personas con discapacidad, con la finalidad de que hagan uso de los cajones especiales de estacionamiento;
 
-XIX. Fomentar la organización de encuentros municipales, regionales y estatales involucrando a los padres de familia y comunidad en general; y
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
 
-XX. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+XIX. Promover la organización de encuentros municipales, regionales y estatales para atender la discapacidad, involucrando a los padres de familia y comunidad en general;
+
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XX. Turnar a las autoridades competentes, los asuntos relacionados con personas mayores de edad afectadas de incapacidad temporal o permanente, y que sufran de algún tipo de violencia;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XXI. Coordinar y supervisar la operación y capacitación de las Unidades Básicas de Rehabilitación; y
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XXII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 33.
 
@@ -587,9 +663,29 @@ V. Elaborar el catálogo de consulta abierto, que contenga toda la información 
 
 VI. Planear, dirigir, controlar y dar seguimiento a los recursos financieros asignados al quehacer asistencial de las Instituciones de Asistencia Privada, con base en la normatividad aplicable;
 
-VII. Vincular a las organizaciones que otorgan financiamientos con aquellos que necesitan financiamiento en materia de asistencia social; y
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
 
-VIII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+VII. Supervisar que la operación y ejercicio de los recursos financieros transferidos a las instituciones de asistencia privada, asociaciones civiles, fundaciones y organizaciones de la sociedad civil conforme a lo dispuesto por los artículos 14 fracción XIX y 48 de la Ley de Asistencia Social, se realicen de acuerdo con las reglas de operación establecidas;
+
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+VIII. Supervisar y vigilar a las instituciones de asistencia privada, asociaciones civiles, fundaciones y organizaciones de la sociedad civil en el Estado, para asegurar el cumplimiento de las normas oficiales mexicanas a las que están sujetas;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+IX. Promover la creación de instituciones de asistencia privada, organismos de la sociedad civil, fundaciones y asociaciones civiles para ampliar la cobertura de los servicios asistenciales;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+X. Conformar un registro estatal de instituciones de asistencia privada, asociaciones civiles, fundaciones y organismos de la sociedad civil e integrarlo al Directorio Nacional de Asistencia Social;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XI. Expedir constancias de acreditación sobre la existencia y operación de las instituciones de asistencia social, asociaciones privadas, y organismos de la sociedad civil que lo requieran; y
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 34.
 
@@ -627,9 +723,25 @@ XV. Supervisar la oportuna captación de los ingresos propios derivados de los p
 
 XVI. Planear, dirigir y controlar los servicios de procesamiento de información, desarrollo de sistemas, redes de datos, asesoría técnica que requieran las unidades administrativas;
 
-XVII. Promover la recaudación de fondos nacionales e internacionales para apoyar a los programas de DIF Sonora; y
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
 
-XVIII. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
+XVII. Promover la recaudación de fondos nacionales para apoyar a los programas de (sic) DIF Sonora;
+
+> <small>(REFORMADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XVIII. Coordinar y dirigir la elaboración de investigaciones con parámetros estadísiticos (sic), sociodemográficos y de percepción ciudadana aplicadas en temas de asistencia social;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XIX. Expedir, previa autorización de la Junta de Gobierno, el marco normativo institucional para la elaboración de reglamentos, manuales de organización, de procedimientos, de trámites y servicios y demás normatividad que competa a DIF Sonora, así como coordinar los trabajos relativos a sus modificaciones;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XX. Revisar las propuestas de modificación a la estructura orgánica y ocupacional de las unidades administrativas y órganos desconcentrados del DIF Sonora, conforme a las disposiciones aplicables y gestionar su autorización ante las autoridades competentes;
+
+> <small>(ADICIONADA, B.O. 9 DE JULIO DE 2018)</small>
+
+XXI. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables;
 
 ###### Artículo 35.
 
@@ -681,69 +793,161 @@ V. Conducir las relaciones laborales de DIF Sonora conforme a las leyes, reglame
 
 VI. Desarrollar las demás atribuciones que de manera específica le señale su superior jerárquico, así como aquellas que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
-### CAPÍTULO VIII. DEL ÓRGANO DESCONCENTRADO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE JULIO DE 2018)</small>
+
+### CAPÍTULO VIII. DE LOS ÓRGANOS DESCONCENTRADOS
+
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 2018)</small>
 
 ###### Artículo 37.
 
-La Procuraduría de la Defensa del Menor y la Familia del Estado de Sonora como órgano desconcentrado de DIF Sonora, ejercerá las funciones que le confieren específicamente la Ley Orgánica de la Procuraduría de la Defensa del Menor y la Familia del Estado de Sonora, este Reglamento y los ordenamientos jurídicos aplicables, teniendo además las siguientes atribuciones:
+Para la eficaz atención y el eficiente despacho de los asuntos competencia del DIF Sonora, contará con órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados y gozarán de autonomía técnica.
 
-l. Planear, establecer y dirigir los programas institucionales de prestación de servicios de asistencia jurídica a la población vulnerable en el Estado de Sonora, de acuerdo a la fracciones III y IV del artículo 275 del Código de Familia del Estado de Sonora;
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Sonora y la Procuraduría de la Defensa del Adulto Mayor tienen el carácter de órganos desconcentrados del Sistema DIF Sonora y se regirán por sus respectivos ordenamientos jurídicos de creación, por este Reglamento Interior y por las demás disposiciones jurídicas aplicables.
 
-II. Realizar acciones de prevención y protección a menores maltratados en estado de abandono, para incorporados (sic) al núcleo familiar, o albergarlos en instituciones adecuadas para su custodia;
+> <small>(ADICIONADO, B.O. 9 DE JULIO DE 2018)</small>
 
-III. Proporcionar asesoría jurídica y patrocinar en juicios que en materia de derecho familiar requieran los sujetos de asistencia social;
+###### Artículo 37 Bis.
 
-IV. Participar en la regularización de la situación jurídica de los menores ingresados al Centro de Atención Integral para Menores Unacari y del Hogar Temporal para Menores en Situación de Calle Jineseki, se efectúen de manera eficiente, así como en los procedimientos legales de adopción y custodia;
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Sonora ejercerá las atribuciones que le confieran la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora, este Reglamento Interior y las demás disposiciones jurídicas aplicables, teniendo además las siguientes:
 
-V. Gestionar ante la autoridad correspondiente el ingreso y egreso de los menores al Hogar Temporal para Menores en Situación de Calle Jineseki y al Centro de Atención Integral para Menores Unacari,
+I. Planear, establecer, dirigir y evaluar los programas institucionales de prestación de servicios de asistencia jurídica a niñas, niños, adolescentes e incapaces menores de dieciocho años de edad en el Estado de Sonora, de acuerdo con las disposiciones de las leyes en la materia;
 
-VI. Denunciar ante el Ministerio Público, los atentados contra la integridad física o moral de los menores, coadyuvando con la autoridad tanto en las causas penales como civiles;
+II. Gestionar y en su caso, implementar acciones de prevención y protección a niñas, niños, adolescentes e incapaces menores de dieciocho años de edad, maltratados, en estado de abandono o en condiciones de vulnerabilidad, para incorporarlos al núcleo familiar y social o albergarlos en instituciones adecuadas para su custodia;
 
-VII. Canalizar y dar seguimiento a las terapias psicológicas de receptores de violencia que lo solicitan;
+III. Convocar, coordinar, supervisar y verificar la adecuada y oportuna operación de los Órganos de Apoyo y Asesoría de la Procuraduría;
 
-VIII. Coordinar, supervisar y verificar la operación adecuada del Consejo Técnico de Adopciones;
+IV. Establecer lineamientos para coordinar la atención al público solicitante de sus servicios;
 
-IX. Planear, establecer, dirigir, controlar y revisar la operación de los Órganos de Apoyo y Asesoría a su cargo y los programas que se deriven de éstos;
+V. Planear, establecer, dirigir y evaluar las acciones tendientes a la agilización y atención oportuna de los asuntos de su competencia;
 
-X. Planear, establecer, dirigir y evaluar las acciones tendientes para brindar asistencia jurídica y representación legal ante las instancias correspondientes para resolver la problemática familiar que presenten los solicitantes de los servicios;
+VI. Emitir lineamientos, acuerdos, modelos de atención, protocolos, metodologías y procedimientos para la protección integral y restitución de derechos de niñas, niños, adolescentes e incapaces menores de dieciocho años de edad;
 
-XI. Planear, establecer, dirigir y evaluar las acciones tendientes para brindar asesoría jurídica en materia familiar para elaborar convenios que ayuden a resolver las diferencias en los derechos y obligaciones de las partes involucradas que soliciten la prestación de asistencia social;
+VII. Emitir certificado de idoneidad a quien solicite una adopción en los términos dispuestos por el artículo 23 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora;
 
-XII. Establecer los lineamientos para coordinar la atención del público solicitante de sus servicios, que lleve a detectar las causas de la problemática que se presente mediante la verificación de datos;
+VIII. Brindar servicios de asesoría y asistencia jurídica a quien desee asumir el carácter de familia de acogimiento preadoptivo y a quienes consientan la adopción como a quienes la acepten, de acuerdo con lo dispuesto por el artículo 25 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora;
 
-XIII. Planear, establecer, dirigir y evaluar las acciones de asistencia jurídica a los menores atendidos en los centros asistenciales de DIF Sonora para resolver su situación legal y familiar;
+IX. Expedir las autorizaciones que correspondan a las personas que ejerzan las profesiones de trabajo social, psicología o carreras afines de las instituciones públicas y privadas que realicen estudios socioeconómicos, psicológicos e informes psicosociales en materia de adopción, así como llevar el registro de las personas autorizadas, de acuerdo con el artículo 27 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora;
 
-XIV. Planear, establecer, dirigir y evaluar las acciones tendientes para atender de manera oportuna las denuncias que sobre violencia intrafamiliar se presenten y buscar la solución a esa problemática a través de la conciliación o arbitraje, así como la implementación de programas o canalizaciones a los centros asistenciales o Instituciones correspondientes, en términos de la normatividad aplicable;
+X. Impulsar programas transversales en materia de protección de los derechos de niñas, niños y adolescentes, de acuerdo con la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora;
 
-XV. Formular y establecer las acciones necesarias para coadyuvar con el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar, de acuerdo a lo que establece la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora;
+XI. Prestar asesoría y representación legal a los sujetos de recepción de los servicios de asistencia social conforme a lo que establece el artículo 4° de la Ley de Asistencia Social del Estado de Sonora involucrados en procedimientos judiciales o administrativos;
 
-XVI. Promover y apoyar la integración de los Consejos Locales de Tutela Municipales;
+XII. Denunciar ante el Ministerio Público los hechos que sean de su conocimiento y que se presuman constitutivos de delito en contra de niñas, niños y adolescentes e incapaces menores de dieciocho años de edad;
 
-XVII. Revisar y validar los requisitos para obtener la Constancia Aptitud a la que se refieren las disposiciones que la Ley en la materia establece; y
+XIII. Canalizar y dar seguimiento a las terapias psicológicas de niñas, niños, adolescentes e incapaces menores de dieciocho años de edad que lo requieran;
 
-XVIII. Desarrollar las demás atribuciones inherentes a su cargo y los que de manera específica le asigne su superior jerárquico, o le confieran las leyes y otros ordenamientos jurídicos aplicables.
+XIV. Brindar asesoría jurídica a las partes involucradas en una adopción a fin de que estén informados sobre sus alcances jurídicos, familiares y sociales;
 
-#### SECCIÓN I. DEL COMITÉ DE PROTECCIÓN DEL MENOR Y LA FAMILIA DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA
+XV. Asegurar conforme a la legislación aplicable, que niñas, niños y adolescentes que hayan sido separados de sus padres o de quienes ejerzan la patria potestad, se les restituya su derecho a vivir en familia, para la cual se determinará el acceso a la modalidad de cuidados alternativos en lugar de ser colocados en centros de asistencia social;
+
+XVI. Planear, coordinar y supervisar los servicios de asistencia psicológica que se brinden en la Procuraduría y en centros de asistencia social con niñas, niños y adolescentes e incapaces menores de dieciocho años de edad bajo su resguardo;
+
+XVII. Supervisar la inclusión de quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños, adolescentes e incapaces menores de dieciocho años de edad en las medidas de rehabilitación y asistencia;
+
+XVIII. Asegurar el seguimiento a la situación de casos de niñas, niños y adolescentes que hayan concluido el acogimiento temporal;
+
+XIX. Supervisar acciones de apoyo para localizar y reunificar a la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, privilegiando en todo momento el interés superior de la niñez;
+
+XX. Brindar asesoría a las organizaciones privadas para la adecuada operación de centros de asistencia social y de integración social y familiar;
+
+XXI. Determinar los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social a fin de garantizar el cumplimiento de los derechos de niñas, niños, adolescentes e incapaces menores de dieciocho años de edad, sin cuidado parental o familiar, atendidos en dichos centros;
+
+XXII. Coordinar y autorizar los informes correspondientes a las verificaciones realizadas por DIF Sonora a los orfanatos, albergues y demás centros de asistencia social;
+
+XXIII. Aprobar las normas técnicas o estándares de competencia para certificar las competencias del personal que labora en los centros de asistencia social;
+
+XXIV. Planear, supervisar y evaluar los servicios asistenciales que se brindan a las niñas, niños y adolescentes, víctimas de violencia en el Centro de Atención Integral a Menores Unacari;
+
+XXV. Planear y supervisar y evaluar los servicios asistenciales que se brindan en el Hogar Temporal para Niños y Adolescentes en situación de Calle Jineseki;
+
+XXVI. Asegurar la coordinación de la red de difusores de los derechos de niñas, niños y adolescentes en los municipios del Estado;
+
+XXVII. Expedir los informes de adoptabilidad que le sean requeridos al DIF Sonora en los procedimientos judiciales de adopción internacional, de acuerdo con lo dispuesto en el artículo 26 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora;
+
+XXVIII. Dar seguimiento a la convivencia y proceso de adaptación en las adopciones internacionales, de acuerdo con lo establecido en el artículo 26 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora;
+
+XXIX. Asegurar mecanismos de control para los procesos de asignación, seguimiento y adaptación a familias de acogida preadoptiva y, en su caso, de reincorporación al Sistema DIF Sonora, conforme a lo establecido en el artículo 24 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora y demás ordenamientos jurídicos en la materia;
+
+XXX. Planear, supervisar y evaluar los programas de prevención de violencia y atención, para incidir en el desarrollo de niñas, niños y adolescentes;
+
+XXXI. Impulsar modalidades de cuidados alternativos en los casos en los que se hayan determinado el acogimiento temporal;
+
+XXXII. Vigilar, proteger y verificar el resguardo y restablecimiento físico de las niñas, niños y adolescentes repatriados no acompañados en situación de riesgo que ingresan al Estado, así como su reintegración al seno familiar;
+
+XXXIII. Remitir al Sistema Nacional DIF la información vinculada a niñas, niños y adolescentes migrantes no acompañados o separados;
+
+XXXIV. Expedir, a través de su titular, copia certificada de las constancias que obren en sus archivos y que sean sobre asuntos (sic) su competencia; y
+
+XXXV. Desarrollar las demás atribuciones que le confieran las leyes y otros ordenamientos jurídicos aplicables a la materia.
+
+> <small>(ADICIONADO, B.O. 9 DE JULIO DE 2018)</small>
+
+###### Artículo 37 Ter.
+
+La Procuraduría de la Defensa del Adulto Mayor, además de las facultades que le confiere la Ley de los Adultos Mayores del Estado de Sonora, este Reglamento Interior y los ordenamientos jurídicos aplicables, tendrá las siguientes atribuciones:
+
+I. Asegurar la planeación, establecer, dirigir y difundir los programas institucionales de prevención y prestación de servicios de atención al adulto mayor, de conformidad con lo señalado por la Ley de los Adultos Mayores del Estado de Sonora;
+
+II. Gestionar y difundir los servicios en materia de asistencia social para adultos mayores en centros asistenciales;
+
+III. Impulsar programas dirigidos a los adultos mayores albergados en centros asistenciales en el Estado de Sonora;
+
+IV. Coordinar acciones con instituciones de gobierno y sociedad civil para la atención de los adultos mayores;
+
+V. Establecer programas y políticas necesarias para fomentar la atención física, mental, psicológica y sexual del adulto mayor, así como su integración al núcleo familiar y social;
+
+VI. Fomentar y procurar, en coordinación con la Secretaría de Economía, la integración del adulto mayor en la vida laboral;
+
+VII. Establecer coordinación con centros asistenciales para la aplicación de programas de esparcimiento para el adulto mayor;
+
+VIII. Establecer las políticas y lineamientos para la atención y seguimiento oportuno de las solicitudes, quejas, denuncias e informes que se reciban sobre la violación de los derechos de las personas adultas mayores;
+
+IX. Verificar y dar seguimiento al estado que guardan los adultos mayores que son parte en las quejas, denuncias e informes recibidos sobre la violación de sus derechos; y
+
+X. Desarrollar las demás atribuciones que de manera específica le confieran las leyes y otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE JULIO DE 2018)</small>
+
+#### SECCIÓN I. DEL COMITÉ DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 2018)</small>
 
 ###### Artículo 38.
 
-El Comité de Protección del Menor y de la Familia tiene como objeto salvaguardar la integridad física y emocional del menor y su familia, vigilando el cumplimiento de sus derechos a través del procedimiento de asistencia jurídica que se les brinda y asegurando la asistencia social del menor cuando así lo requiera.
+El Comité de Protección de Niñas, Niños y Adolescentes tiene como objeto salvaguardar la integridad física y emocional de niñas, niños y adolescentes, vigilando el cumplimiento de sus derechos a través de procedimientos de asistencia jurídica y de asistencia social, cuando así lo requieran
+
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 2018)</small>
 
 ###### Artículo 39.
 
-El Comité de Protección del Menor y de la Familia será un órgano multidisciplinario y colegiado que para su adecuado funcionamiento se constituirá por un Presidente, un Secretario, los cuales que (sic) serán designados por el Director General de DIF Sonora, y cinco vocales, los cuales serán servidores públicos de diversas instancias de gobierno y representantes de la sociedad civil, que serán convocados a través del Secretario a designación del Presidente.
+El Comité de Protección de Niñas, Niños y Adolescentes será un órgano multidisciplinario y colegiado de apoyo y asesoría para la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Sonora, que para su adecuado funcionamiento se constituirá de la siguiente manera:
 
-El Comité sesionará por lo menos dos veces al año con el fin de asegurar que se cumpla con las funciones del Comité establecidas en el artículo 30 de la Ley Orgánica de la Procuraduría de la Defensa del Menor y la Familia del Estado de Sonora.
+I. Un Presidente y un Secretario que serán nombrados de manera directa por el Director General de (sic) DIF Sonora;
+
+II. Cinco vocales seleccionados de la sociedad civil y servidores públicos con experiencia en la materia, elegidos por el Director General de (sic) DIF Sonora de entre ocho y diez candidatos propuestos por el Procurador de Protección de Niñas Niños y Adolescentes del Estado de Sonora.
+
+El carácter de miembro del Comité es honorífico, por lo que no se percibirá remuneración, emolumento o compensación alguna por su desempeño.
+
+El Comité sesionará, por lo menos, dos veces al año con el fin de asegurar que cumpla con las funciones que establecen los ordenamientos jurídicos aplicables.
 
 #### SECCIÓN II. DEL CONSEJO TÉCNICO DE ADOPCIONES
 
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 2018)</small>
+
 ###### Artículo 40.
 
-El Consejo Técnico de Adopciones como órgano de apoyo de la Procuraduría de la Defensa del Menor y la Familia del Estado de Sonora, tendrá como objetivo principal buscar la integración en el ámbito familiar de los menores que han sido víctimas de abandono por parte de sus progenitores o se encuentren en estado de orfandad, logrando así su plena inclusión al seno de la familia del cual han sido privados. Dicho Consejo tendrá a su cargo las funciones establecidas en el artículo 32 de la Ley Orgánica de la Procuraduría de la Defensa del Menor y la Familia del Estado de Sonora.
+El Consejo Técnico de Adopciones, como órgano de apoyo de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Sonora, tendrá como objetivo principal buscar la integración al ámbito familiar de las niñas, niños y adolescentes que han sido víctimas de abandono por parte de sus progenitores o de quienes ejerzan la patria potestad o se encuentran en estado de orfandad, logrando así su plena inclusión al seno de la familia del cual han sido privados. Dicho Consejo tendrá a su cargo las siguientes funciones:
+
+I. La asignación de niñas, niños y adolescentes a una familia de acogida pre adoptiva que cuente con certificado de idoneidad, observando lo establecido en el artículo 23 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora, y
+
+II. La asignación de niñas, niños y adolescentes a personas que cuenten con certificado de idoneidad y estén interesadas en adoptar a niñas, niños y adolescentes que se encuentren bajo la tutela de las Procuradurías de Protección.
+
+> <small>(REFORMADO, B.O. 9 DE JULIO DE 2018)</small>
 
 ###### Artículo 41.
 
-El Consejo Técnico de Adopciones será un órgano colegiado por servidores públicos de DIF Sonora designados por el Director General de DIF Sonora, estará integrado por un Presidente, un Secretario Técnico, cuatro Consejeros y un Miembro Honorifico, que será el Director General, todos ellos de preferencia deberán ser servidores publicas de DIF Sonora, con Licenciaturas en Derecho, medicina, psicología o trabajo social. El Secretario Técnico será designado por el Consejo en pleno, a propuesta del Presidente del Consejo. Sus integrantes no recibirán emolumento o compensación adicional por su participación.
+El Consejo Técnico de Adopciones será un órgano colegiado integrado por servidores públicos de (sic) DIF Sonora y representantes de la sociedad civil, el cual estará conformado por un Presidente, un Secretario Técnico y cuatro Consejeros nombrados por el Director General, quien será miembro honorífico y también formará parte del Consejo. Sus integrantes no recibirán emolumento o compensación adicional por su participación.
 
 ### CAPÍTULO IX. DEL CONTROL Y VIGILANCIA
 
@@ -815,4 +1019,16 @@ Q.B. Manuel Francisco Enríquez Quevedo
 
 Comisario Público Ciudadano
 
-> <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION I DEL B.O. DE 9 DE JUNIO DE 2011, PAGINA 25.</small>
+> <small>[N. DE E. VÉASE ORGANIGRAMA EN LA SECCIÓN I DEL B.O. DE 9 DE JUNIO DE 2011, PAGINA 25.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SONORA".]
+
+Artículo Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- La actualización de los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora deberán expedirse dentro de los noventa días posteriores a la publicación de este Acuerdo en el Boletín Oficial del Gobierno del Estado de Sonora; así mismo, el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora queda facultado para resolver las cuestiones que se presenten en relación con los mencionados manuales administrativos en tanto se expiden éstos actualizados.
+
+Artículo Tercero.- La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Sonora elaborará y presentará ante las instancias competentes, dentro de los ciento ochenta días a partir de la publicación del presente Acuerdo en el Boletín Oficial del Gobierno del Estado de Sonora, las iniciativas de leyes y las demás disposiciones reglamentarias para armonizar las atribuciones y la denominación de la propia Procuraduría.
