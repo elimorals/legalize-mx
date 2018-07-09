@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-los-sistemas-de-archivo-del-poder-legislativo-345
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-03"
-last_updated: "2003-11-03"
+last_updated: "2018-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO DE LOS SISTEMAS DE ARCHIVO DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 341, PUBLICADO EN EL P.O. DE 9 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LOS SISTEMAS DE ARCHIVO DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 3 de noviembre de 2003.
 
@@ -290,3 +292,25 @@ PRIMER SECRETARIO.
 Dip. José Alfredo Cervantes García,
 
 SEGUNDO SECRETARIO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 341.- SE REFORMAN EL ARTÍCULO 114; EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II, VIII, DEL ARTÍCULO 116, EL ARTÍCULO 119; EL PRIMER PÁRRAFO DE (SIC) ARTÍCULO 128; LAS FRACCIONES V Y XII DEL ARTÍCULO 134; Y LAS FRACCIONES VI Y X DEL ARTÍCULO 136. SE ADICIONAN UNA FRACCIÓN IX Y UNA XII AL ARTÍCULO 116, RECORRIÉNDOSE EN SU NUMERACIÓN LAS SUBSECUENTES; Y UNA FRACCIÓN XIII AL ARTÍCULO 134, RECORRIÉNDOSE EN SU NUMERACIÓN LAS SUBSECUENTES. ASÍ COMO SE DEROGA LA FRACCIÓN III Y EL TERCER PÁRRAFO DE LA FRACCIÓN VIII DEL ARTÍCULO 116; Y LA FRACCIÓN XI DEL ARTÍCULO 134, AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Artículos Segundo, Tercero y Cuarto del presente Decreto entrarán en vigor el 14 de Septiembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+El 14 de Septiembre de 2018 se Abrogan la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 364 de la LIX Legislatura, en fecha 04 de febrero de 2008; el Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 080 de la LX Legislatura, en fecha 16 de junio de 2008; el Reglamento de la Secretaría General del Congreso del Estado de Aguascalientes, publicado en virtud del Decreto Número 393 de la LX Legislatura, en fecha 05 de abril de 2010; el Reglamento de los Órganos Auxiliares del Congreso del Estado de Aguascalientes, publicado en virtud del Decreto Número 261 de la LX Legislatura, en fecha 13 de julio de 2009; el Reglamento del Servicio Civil de Carrera de los Servidores Públicos del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 188 de la LVII Legislatura, en fecha 23 de julio de 2001; y el Reglamento de los Sistemas de Archivo del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 102 de la LVIII Legislatura, en fecha 03 de noviembre de 2003.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado deberá en un plazo de 180 días hábiles, contados a partir de la publicación del presente Decreto, realizar de conformidad las Reformas, Adiciones y/o Derogaciones al Código de Ética Legislativa del Honorable Congreso del Estado de Aguascalientes, y a la Ley del Sistema Estatal Anticorrupción de Aguascalientes.
