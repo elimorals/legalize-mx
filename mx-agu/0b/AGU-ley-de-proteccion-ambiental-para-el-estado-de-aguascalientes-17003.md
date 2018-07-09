@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2018-06-25"
+last_updated: "2018-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -3079,9 +3079,17 @@ III. Inspeccionar y vigilar el cumplimiento de esta Ley, su Reglamento respectiv
 
 IV. Solicitar al generador o al prestador de servicios de residuos no peligrosos, un plan de contingencias ambientales;
 
-V. Instrumentar los sistemas de depósito y recolección diferenciada de los residuos sólidos urbanos, para lo cual los Municipios elaborarán programas específicos para su instrumentación; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-VI. Crear programas encaminados a la educación, cultura y difusión de la separación de los residuos sólidos.
+V. Instrumentar los sistemas de depósito y recolección diferenciada de los residuos sólidos urbanos, para lo cual los municipios elaboraran programas específicos para su instrumentación;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VI. Crear programas encaminados a la educación, cultura y difusión de la separación de los residuos sólidos; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VII. Establecer programas y proyectos para la creación de sistemas de eficiencia energética, destinados a reutilizar y transformar los residuos sólidos urbanos, de conformidad con lo dispuesto por la Ley de Transición Energética y demás legislación aplicable en materia de Energías Limpias y Eficiencia Energética.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3907,31 +3915,17 @@ P.O. 25 DE JUNIO DE 2018.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 17/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL CUARTO TRIBUNAL UNITARIO DEL CUARTO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE EL REFERIDO ÓRGANO JURISDICCIONAL Y LOS TRIBUNALES UNITARIOS DEL MISMO CIRCUITO Y RESIDENCIA”.]
+P.O. 9 DE JULIO DE 2018.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de mayo de dos mil dieciséis, con excepción de lo previsto en el TERCERO transitorio, el cual iniciará su vigencia a partir de la aprobación del mismo.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 348.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 170; ASÍ COMO SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 170 DE LA LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO PRIMERO.
 
-TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-CUARTO. Se reforma el numeral SEGUNDO, fracción IV, número 2 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
+###### ARTÍCULO SEGUNDO.
 
-"SEGUNDO. ...
-
-I. a III. ...
-
-IV. ...
-
-1. ...
-
-2. Cuatro tribunales unitarios con residencia en Monterrey.
-
-3. ...
-
-V. a XXXII. ...".
-
-D.O.F. 13 DE MAYO DE 2016.
+Se exhorta a los Ayuntamientos del Estado a Reformar y/o Adicionar sus disposiciones de carácter general, bandos y reglamentos, de conformidad con el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 18/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL QUINTO TRIBUNAL UNITARIO DEL DECIMONOVENO CIRCUITO, CON RESIDENCIA EN MATAMOROS, TAMAULIPAS; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS”.]
 
