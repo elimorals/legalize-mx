@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-fiscalia-general-de-121352"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-02"
-last_updated: "2018-05-10"
+last_updated: "2018-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el martes 2 de mayo de 2017.
 
@@ -1004,6 +1004,10 @@ IV. Coordinar las solicitudes al órgano jurisdiccional de las órdenes de cateo
 V. El Fiscal General acuerda delegar en el Vicefiscal de Investigaciones, las facultades en materia de solicitudes y trámite ante las autoridades judiciales competentes para la autorización de la intervención de comunicaciones privadas, requerimientos de información y datos que conserven los concesionarios de redes públicas de telecomunicaciones, así como en materia fiscal y sobre operaciones que las Instituciones financieras celebren con sus clientes y, en los casos conducentes, ordenar el aseguramiento de los recursos, bienes y derechos que correspondan, en los términos de las disposiciones aplicables;
 
 VI. Cuando el Ministerio Público considere necesaria la localización geográfica en tiempo real o entrega de datos conservados por los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos de los equipos de comunicación móvil asociados a una línea que se encuentra relacionada con los hechos que se investigan; el Fiscal General acuerda delegar, al Vicefiscal de Investigaciones, la facultad de solicitar al Juez de Control, por cualquier medio, para que se requiera a los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos, para que proporcionen con la oportunidad y suficiencia necesaria a esa Vicefiscalía de Investigaciones, la información solicitada para el inmediato desahogo de dichos actos de investigación;
+
+> <small>(ADICIONADO, B.O. 9 DE JULIO DE 2018)</small>
+
+Excepcionalmente, cuando esté en peligro la integridad física o la vida de una persona o se encuentre en riesgo el objeto del delito, así como en hechos relacionados con la privación ilegal de la libertad, secuestro, extorsión o delincuencia organizada, el Fiscal General de Justicia del Estado de Sonora, acuerda delegar en el Vicefiscal de Investigación la facultad bajo su más estricta responsabilidad de ordenar directamente la localización geográfica en tiempo real o la entrega de los datos conservados a los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicación y contenidos, quienes deberán atenderla de inmediato y con la suficiencia necesaria. A partir de que se haya cumplimentado el requerimiento, el Ministerio Público deberá informar al Juez de Control competente por cualquier medio que garantice su autenticidad, dentro del plazo de cuarenta y ocho horas, a efecto de que ratifique parcial o totalmente de manera inmediata la subsistencia de la medida, sin perjuicio de que el Ministerio Público continúe con su actuación.
 
 VII. Coordinar su actuación con las autoridades federales, de la ciudad de México y de otras entidades Federativas, Municipales y Militares en la investigación y persecución de los delitos;
 
@@ -2778,3 +2782,11 @@ B.O. 10 DE MAYO DE 2018.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su expedición; independientemente la fecha de su publicación, que deberá ser en el Boletín Oficial del Gobierno del Estado; en un plazo no mayor a 15 días hábiles contados a partir (sic) expedición de este.
 
 SEGUNDO.- Dentro del plazo de 15 días hábiles contados a partir de la entrada en vigor de presente Acuerdo, Oficialía Mayor realizará las acciones necesarias para que la Dirección General de Recursos Humanos, actualice administrativamente las comisiones y/o nombramientos que el Fiscal General expida en favor de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores.
+
+B.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 52, DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA”.]
+
+PRIMERO.- Publíquese el presente acuerdo, para los efectos legales conducentes.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación, que deberá ser en el Boletín Oficial del Gobierno del Estado de Sonora.
