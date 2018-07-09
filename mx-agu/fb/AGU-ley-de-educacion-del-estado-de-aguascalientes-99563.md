@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2018-06-18"
+last_updated: "2018-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -221,7 +221,9 @@ VII. Fomentar la apreciación e impulso a la creación artística;
 
 VIII. Fomentar y estimular la práctica de la educación física y del deporte, por lo que se llevarán a cabo sesiones de actividad física o deporte en cada una de las escuelas de educación básica, en términos de lo dispuesto por el Artículo 47 de la presente Ley;
 
-IX. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+IX. Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de sus derechos al acceso a la información pública gubernamental y a la protección de sus datos personales, y de las mejores prácticas para ejercerlos;
 
 X. Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercerlos;
 
@@ -2702,3 +2704,11 @@ El presente Decreto iniciará su vigencia a partir del día siguiente al de su p
 ###### ARTICULO SEGUNDO.
 
 La información señalada en la Fracción VII del Artículo 45 de la presente Ley deberá ser publicada a más tardar a los 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, en las páginas web o medios de difusión electrónica con las que cuente el Gobierno del Estado, debiendo remitirse para tal efecto a los Municipios para su conocimiento, y actualización periódica, conforme a dicha Fracción.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 347.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 8° DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
