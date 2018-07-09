@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2017-07-03"
+last_updated: "2018-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -69,9 +69,9 @@ Las disposiciones de esta Ley tenderán a conseguir el equilibrio entre la funci
 
 Para efectos de esta Ley, se entenderá por el Principio de No Discriminación, el que no se puedan establecer de manera alguna, condiciones que impliquen discriminación entre las mujeres y hombres que sean trabajadores en términos de esta Ley, por motivo de su sexo, edad, raza, nacionalidad, algún tipo de discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil y/o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
 
-Asimismo, se entenderá para los efectos de esta Ley, al Principio de Igualdad Sustantiva, la eliminación de toda forma de discriminación por razón de su sexo, que menoscabe o anule el reconocimiento, goce o ejercicio de sus derechos humanos, y las libertades fundamentales en el ámbito laboral. Lo que supone el acceso a las mismas oportunidades, considerando las diferencias biológicas, sociales y culturales de mujeres y hombres, y el que no se puedan establecer
+Asimismo, se entenderá para los efectos de esta Ley, al Principio de Igualdad Sustantiva, como la eliminación de toda forma de discriminación por razón de sexo, que menoscabe o anule el reconocimiento, goce o ejercicio de derechos humanos y libertades fundamentales de las personas en el ámbito laboral, lo que supone el acceso a las mismas oportunidades, considerando las diferencias biológicas, sociales y culturales de mujeres y hombres.
 
 ###### ARTICULO 4o.
 
@@ -2072,3 +2072,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 346.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 3° DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
