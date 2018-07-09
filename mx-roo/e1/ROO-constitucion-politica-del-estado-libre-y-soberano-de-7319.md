@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2018-07-06"
+last_updated: "2018-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -995,9 +995,9 @@ La colaboración de poderes, a través del ejercicio de las atribuciones otorgad
 
 No podrán reunirse dos o más de estos poderes en una persona o corporación ni depositarse el Legislativo en un solo individuo.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
 
-La Legislatura del Estado o en los recesos de ésta, la Diputación Permanente, el Gobernador del Estado y el Tribunal Superior de Justicia, como titulares de los Poderes Legislativo, Ejecutivo y Judicial, respectivamente, representarán legalmente, en conjunto, al Estado, en los casos previstos en la fracción I del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; y en el supuesto previsto en el Artículo 46, será representado por el Gobernador del Estado, en cuyo caso, los convenios que éste celebre deberán ser aprobados por la Legislatura.
+El Titular del Ejecutivo Estatal representará al Estado en los asuntos en que éste sea parte, por conducto de la dependencia que tenga a su cargo la función de Consejero Jurídico del Poder Ejecutivo o de las Secretarías de Estado, en los términos que establezca la ley. En el supuesto previsto en el Artículo 46 de la Constitución Política de los Estados Unidos Mexicanos, el Estado será representado por el Gobernador, en cuyo caso, los convenios que éste celebre deberán ser aprobados por la Legislatura.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 1997)</small>
 
@@ -1872,6 +1872,10 @@ XIII.- Las demás que señalen esta Constitución y sus leyes.
 ###### ARTICULO 92.
 
 Para el despacho de los negocios del orden administrativo, habrá el número de Secretarios que se determina en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y los demás servidores públicos que determine la propia Ley, así como los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás órganos creados o que se creen en la forma que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2018)</small>
+
+La función de Consejero Jurídico del Poder Ejecutivo estará a cargo de la Dependencia del Ejecutivo Estatal que, para tal efecto, establezca la ley.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
 
@@ -2973,7 +2977,7 @@ EST P.V. X Y
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
 
-43 1 Sobre la línea de costa 468434.164 2256895.718 43
+43 43 1 Sobre la línea de costa 468434.164 2256895.718 43
 
 del Mar Caribe hacia
 
@@ -5315,8 +5319,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 
 P.O. 6 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 195, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL APARTADO B, ASÍ COMO TERCER PÁRRAFO DEL APARTADO D, AMBOS DEL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 195, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL APARTADO B, ASÍ COMO TERCER PÁRRAFO DEL APARTADO D, AMBOS DEL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 251, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 51 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 92 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
