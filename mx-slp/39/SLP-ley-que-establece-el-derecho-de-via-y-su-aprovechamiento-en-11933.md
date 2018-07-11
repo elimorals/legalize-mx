@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-el-derecho-de-via-y-su-aprovechamiento-en-119
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-20"
-last_updated: "2017-04-13"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en el Número Extraordinario Número Anexo del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de septiembre de 1997.
 
@@ -35,7 +35,7 @@ DECRETO 913
 
 La Quincuagésima Cuarta Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí decreta lo siguiente:
 
-...
+[...]
 
 LEY QUE ESTABLECE EL DERECHO DE VIA Y SU APROVECHAMIENTO EN LAS VIAS TERRESTRES DE COMUNICACION ESTATAL
 
@@ -231,9 +231,11 @@ Dicha circunstancia sin que medie para lo anterior obligación por parte de la J
 
 El otorgamiento de un permiso no libera o exime al particular al cumplimiento de los requisitos o licencias que establezcan otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 27.
 
-Los permisos se otorgarán preferentemente a mexicanos; tratándose de sociedades mercantiles extranjeras será indispensable que estén constituidas conforme a las leyes mexicanas, dichos permisos no serán transferibles.
+Los permisos que se otorguen, la Junta Estatal de Caminos estará obligada a preferir, en igualdad de circunstancias, a los potosinos; tratándose de sociedades mercantiles extranjeras será indispensable que estén constituidas conforme a las leyes mexicanas; dichos permisos no serán transferibles.
 
 ###### ARTICULO 28.
 
@@ -277,9 +279,11 @@ VII.- Cuando por utilidad pública se haga exigible la revocación.
 
 Los conceptos de pagos se fijarán por la Junta Estatal de Caminos con criterios de cuantía que no tiendan de ninguna manera a la desproporción ni al pago de derechos injustos sino que los mismos habrán de determinarse con el criterio menos lesivo para los particulares que hagan uso de las áreas del derecho de vía a que se refiere esta ley.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 31.
 
-Los cobros que por utilización de las áreas pertenecientes al Derecho de Vía a que se refiere esta ley, se realizarán ante la Secretaría de Planeación y Finanzas del Gobierno del Estado, previo recibo extendido al efecto por la Junta Estatal de Caminos.
+Los cobros que por utilización de las áreas pertenecientes al Derecho de Vía a que se refiere esta Ley, se realizarán ante la Secretaría de Finanzas de (sic) Gobierno del Estado, previo recibo extendido al efecto por la Junta Estatal de Caminos.
 
 ###### ARTICULO 32.
 
@@ -428,3 +432,11 @@ P.O. 13 DE ABRIL DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1009.- SE REFORMAN LOS ARTÍCULOS 27 Y 31 DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
