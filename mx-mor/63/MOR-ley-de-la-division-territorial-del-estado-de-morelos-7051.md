@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "2016-08-31"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -43,11 +43,11 @@ Ley de la División Territorial del Estado de Morelos
 
 De conformidad a lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Estado de Morelos adopta como base de su división territorial y de su organización política, jurídica, hacendaria y administrativa el municipio libre.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Art. 2.
 
-El Estado de Morelos se divide en treinta y tres municipios, que son los siguientes: Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec de Leandro Valle, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
+El Estado de Morelos se divide en treinta y seis municipios, que son los siguientes: Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatetelco, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Hueyapan, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec de Leandro Valle, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Xoxocotla, Yautepec, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
 
 ###### Art. 3.
 
@@ -66,6 +66,14 @@ Corresponden a la jurisdicción del Municipio de Axochiapan, los siguientes cent
 ###### Art. 6.
 
 Corresponden a la jurisdicción del Municipio de Ayala, los siguientes Centros de Población: AYALA, CABECERA DEL MUNICIPIO; AHUEHUEYO, APATLACO, CHINAMECA, ANENECUILCO DE LOS ZAPATA” (SIC), EL VERGEL, HUITZILILLA, JALOXTOC, JUAREZ, MOYOTEPE, RAFAEL MERINO, (antes San Antonio), SALITRE, TECOMALCO, TENEXTEPANGO Y TLAYECAC.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+###### Art. 6 Bis.
+
+Corresponden a la jurisdicción del Municipio de Coatetelco, los siguientes centros de población:
+
+3 De Mayo, Benito Juárez, COATETELCO CENTRO, Cabecera del Municipio; El Muelle, El Charco, General Pedro Saavedra, Narvarte y Xochicalco.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -88,6 +96,14 @@ Corresponden a la jurisdicción del Municipio de Cuernavaca, los siguientes Cent
 ###### Art. 10.
 
 Corresponden a la jurisdicción del Municipio de Emiliano Zapata, los siguientes centros de población: Acatlipa, Emiliano Zapata Cabecera del Municipio, Tepetzingo, Tetecalita y Tezoyuca.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+###### Art. 10 Bis.
+
+Corresponden a la jurisdicción del Municipio de Hueyapan, los siguientes centros de población:
+
+Huitzitziguiak, Los Tecojotes, Olivar, San Andrés, San Bartolo, San Felipe, San Jacinto, SAN MIGUEL, Cabecera del Municipio; Tenería y Tlalcomulco.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1953)</small>
 
@@ -121,11 +137,13 @@ Amacuitlapilco, El Peñon, Jonacatepec de Leandro Valle, Cabecera del Municipio;
 
 Corresponden a la jurisdicción del Municipio de Mazatepec, los siguientes centros de población: Mazatepec, Cabecera del Municipio, Vista Alegre y Cuauchichinola.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1939)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Art. 17.
 
-Corresponden a la jurisdicción del Municipio de Miacatlán, los siguientes centros de población: Coatetelco, El Rodeo, La Mina, Miacatlán, cabecera del Municipio, Palo Grande, Palpam y Tlajotla.
+Corresponden a la jurisdicción del Municipio de Miacatlán, los siguientes centros de población:
+
+El Rodeo, La Mina, MIACATLÁN, Cabecera del Municipio; Palo Grande, Palpam y Tlajotla.
 
 > <small>N. DE E. REFORMADO POR DECRETO NÚMERO 203, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 1937.</small>
 
@@ -133,9 +151,13 @@ Corresponden a la jurisdicción del Municipio de Miacatlán, los siguientes cent
 
 Corresponden a la jurisdicción del Municipio de Ocuituco, los siguientes centros de población: Huecahuasco, Huejotengo, Jumiltepec, Metepec, Ocoxaltepec, Ocuituco Cabecera del Municipi, Huepacalco.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Art. 19.
 
-Corresponden a la jurisdicción del Municipio de Puente de Ixtla, los siguientes centros de población: Ahuehuetzingo, El Coco, El Estudiante, Puente de Ixtla Cabecera del Municipio, La Tigra, Los Algodones, Tilzapotla, Xoxocotla, Vista Hermosa y El Zapote.
+Corresponden a la jurisdicción del Municipio de Puente de Ixtla, los siguientes centros de población:
+
+Ahuehuetzingo, El Coco, El Estudiante, La Tigra, Los Algodones, Plutarco Elías Calles (antes, San Mateo Ixtla), PUENTE DE IXTLA, Cabecera del Municipio; Tilzapotla y Vista Hermosa.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1956)</small>
 
@@ -151,13 +173,13 @@ Corresponden a la Jurisdicción del Municipio de Temoac los siguientes centros d
 
 Amilcingo, Huazulco, Popotlán, y TEMOAC, Cabecera del Municipio.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Art. 20 Ter.
 
 Corresponden a la Jurisdicción del Municipio de Tetela del Volcán los siguientes centros de población:
 
-Hueyapan, TETELA DEL VOLCÁN, Cabecera del Municipio, Xochicalco, y Tlalmimilulpan.
+Xochicalco, Tlalmimilulpan y TETELA DEL VOLCÁN, Cabecera del Municipio.
 
 ###### Art. 21.
 
@@ -202,6 +224,20 @@ Corresponden a la jurisdicción del Municipio de Xochitepec, los siguientes cent
 ###### Art. 29.
 
 Corresponden a la jurisdicción del Municipio de Yautepec, los siguientes centros de población: Cocoyoc, Ignacio Bastida, Itzamatitlán, La Nopalera, Los Arcos, Oacalco, Oaxtepec y Yautepec Cabecera del Municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+###### Art. 29 Bis.
+
+Corresponden a la jurisdicción del Municipio de Xoxocotla, los siguientes centros de población:
+
+COLONIAS: CERRADO DEL VENADO; HERMOSA; LOMA LINDA; ARBOLEDAS DEL SUR; LA TOM; PALO PRIETO; CAMPO CORBE; CHAYA MICHAN; TIERRA ALTA; CAMPO XOLISTLAN, FRACCIONAMIENTO PALO PRIETO.
+
+BARRIOS: REFORMA, CONASUPO; LA MAXAC, PEQIEÑA (SIC) PROPIEDAD; PROLONGACIÓN BENITO JUÁREZ; NIÑOS HEROES (SIC); MIGUEL HIDALGO; REFORMA, PÉQUEÑA (SIC) PROPIEDAD; BENITO JUÁREZ; APOZONALCO; CETIS 122; PORCINA; TÉCNICA; MORELOS; CONSTITUYENTES; TECHICHILCO; LOS CIRUELOS; PROLONGACIÓN NIÑOS HÉROES; 20 DE NOVIEMBRE; 5 DE MAYO; 16 DE SEPTIEMBRE; ALALPAN; SAN JUANES; EL FARO; LOS GÜAJES; TEGOMULCO; CAMPO ANENECUILCO, NIÑOS HEROES (SIC); APOTLA; CUAHCELOTECPAC.
+
+CAMPOS DEL EJIDO DE XOXOCOTLA
+
+TEHUIXTLERA; IPANXALLI; MATANZAS; BARRO PRIETO; LAGUNILLA; LA TOMA; LA CRUZ; LA HIXPAN; LA QUIAHUAC; CERRO DEL VENADO; RANCHO INGLÉS; SAN JUANES; PALO PRIETO; LOS ARCOS.
 
 ###### Art. 30.
 
@@ -437,17 +473,15 @@ TERCERA.- Las menciones que en otros ordenamientos se hagan del Municipio de Jon
 
 CUARTA.- Las funciones, facultades, derechos y obligaciones establecidos a cargo del Municipio de Jonacatepec en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal, y de los Municipios, así como con cualquier persona física o moral, se entenderán asumidos por el Municipio de Jonacatepec de Leandro Valle, de acuerdo con la presente reforma.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 115.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 58 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+P.O. 11 DE JULIO DE 2018.
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y SIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS LEYES ESTATALES, A EFECTO DE INTEGRAR Y REGULAR LOS RECIÉN CREADOS MUNICIPIOS DE COATETELCO, HUEYAPAN Y XOXOCOTLA, TODOS DEL ESTADO DE MORELOS”.]
 
-SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del estado de Morelos.
 
-CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
-
-P.O. 31 DE DICIEMBRE DE 2017.
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 353.- QUE CONTIENE LA REFORMA A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DE DURANGO”.]
 
