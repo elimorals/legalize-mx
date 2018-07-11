@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2017-07-19"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -199,9 +199,21 @@ VI. La formación, promoción y capacitación de recursos humanos de alto nivel 
 
 VII. La creación, el financiamiento y la operación de los fondos a que se refiere la presente Ley;
 
-VIII. El otorgamiento de estímulos a las funciones de investigación, desarrollo tecnológico e innovación, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-IX. La formulación de programas educativos; estímulos fiscales, financieros y facilidades en materia administrativa e industrial, en los términos de las leyes aplicables.
+VIII. El otorgamiento de estímulos a las funciones de investigación, desarrollo tecnológico e innovación;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+IX. La formulación de programas educativos; estímulos fiscales, financieros y facilidades en materia administrativa e industrial, en los términos de las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+X. La organización y desarrollo de la feria anual de innovación, ciencia y tecnología, que deberá llevarse a cabo preferentemente en el mes de julio, con la participación de la niñez, la adolescencia, la juventud y los adultos, que hayan creado, mejorado o perfeccionado un invento, que permita generar un cambio positivo en el desarrollo humano y en la sociedad, en todos los aspectos, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XI. El seguimiento a los proyectos viables a que se refiere la fracción anterior, en coordinación con sus titulares, impulsando su mejoramiento, registro y difusión.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -658,3 +670,11 @@ P.O. 19 DE JULIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1007.- SE REFORMA EL ARTÍCULO 4° DE LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA EL ARTÍCULO 8° DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
