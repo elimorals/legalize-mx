@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2018-01-10"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -173,81 +173,83 @@ Los Municipios del Estado, regularán su funcionamiento de conformidad con lo qu
 
 Los Ayuntamientos están facultados para elaborar, aprobar y publicar compendios municipales que comprendan toda la reglamentación vigente aplicable en el ámbito municipal.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 5.
 
-De conformidad con el Articulo 111 de la Constitución Estatal, el Estado de Morelos se divide, para su régimen interior, en los siguientes Municipios libres:
+De conformidad con el artículo 111 de la Constitución Política del Estado Libre y Soberano de Morelos, el Estado de Morelos se divide, para su régimen interior, en los siguientes Municipios libres:
 
-1.- Amacuzac;
+1. Amacuzac;
 
-2.- Atlatlahucan;
+2. Atlatlahucan;
 
-3.- Axochiapan;
+3. Axochiapan;
 
-4.- Ayala;
+4. Ayala;
 
-5.- Coatlán del Río;
+5. Coatetelco;
 
-6.- Cuautla;
+6. Coatlán del Río;
 
-7.- Cuernavaca;
+7. Cuautla;
 
-8.- Emiliano Zapata;
+8. Cuernavaca;
 
-9.- Huitzilac;
+9. Emiliano Zapata;
 
-10.- Jantetelco;
+10. Hueyapan;
 
-11.- Jiutepec;
+11. Huitzilac;
 
-12.- Jojutla;
+12. Jantetelco;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2016)</small>
+13. Jiutepec;
 
-13. Jonacatepec de Leandro Valle;
+14. Jojutla;
 
-14.- Mazatepec;
+15. Jonacatepec de Leandro Valle;
 
-15.- Miacatlán;
+16. Mazatepec;
 
-16.- Ocuituco;
+17. Miacatlán;
 
-17.- Puente de Ixtla;
+18. Ocuituco;
 
-18.- Temixco;
+19. Puente de Ixtla;
 
-19.- Temoac;
+20. Temixco;
 
-20.- Tepalcingo;
+21. Temoac;
 
-21.- Tepoztlán;
+22. Tepalcingo;
 
-22.- Tetecala;
+23. Tepoztlán;
 
-23.- Tetela del Volcán;
+24. Tetecala;
 
-24.- Tlalnepantla;
+25. Tetela del Volcán;
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+26. Tlalnepantla;
 
-25.- Tlaltizapán de Zapata;
+27. Tlaltizapán de Zapata;
 
-26.- Tlaquiltenango;
+28. Tlaquiltenango;
 
-27.- Tlayacapan;
+29. Tlayacapan;
 
-28.- Totolapan;
+30. Totolapan;
 
-29.- Xochitepec;
+31. Xochitepec;
 
-30.- Yautepec;
+32. Xoxocotla;
 
-31.- Yecapixtla;
+33. Yautepec;
 
-32.- Zacatepec; y
+34. Yecapixtla;
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
+35. Zacatepec, y
 
-33.- Zacualpan de Amilpas.
+36. Zacualpan de Amilpas.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2016)</small>
 
@@ -465,7 +467,7 @@ Los candidatos independientes no podrán ser postulados por un partido político
 
 Quienes hayan sido designados en Consejo Municipal podrán ser electos para el periodo inmediato.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Artículo 18.
 
@@ -475,11 +477,11 @@ I. Once regidores: Cuernavaca;
 
 II. Nueve regidores: Cuautla y Jiutepec;
 
-III. Siete regidores: Ayala, Emiliano Zapata, Temixco y Yautepec;
+III. Siete regidores: Ayala, Emiliano Zapata, Temixco, Xoxocotla y Yautepec;
 
 IV. Cinco regidores: Axochiapan, Jojutla, Puente de Ixtla, Tepoztlán, Tlaltizapán de Zapata, Tlaquiltenango, Xochitepec, Yecapixtla y Zacatepec, y
 
-V. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantetelco, Jonacatepec de Leandro Valle; Mazatepec, Miacatlán, Ocuituco, Temoac, Tepalcingo, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
+V. Tres regidores: Amacuzac, Atlatlahucan, Coatetelco, Coatlán del Río, Hueyapan, Huitzilac, Jantetelco, Jonacatepec de Leandro Valle; Mazatepec, Miacatlán, Ocuituco, Temoac, Tepalcingo, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
 
 ###### Artículo 19.
 
@@ -2041,7 +2043,7 @@ VI. Recibir la capacitación y mantener la coordinación debida con la dependenc
 
 VII. Dar por escrito el aviso a que se refiere el artículo 425, del Código Familiar para el Estado Libre y Soberano de Morelos.
 
-Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije, en el Presupuesto de Egresos del respectivo Municipio.
+Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije en el Presupuesto de Egresos del respectivo Municipio.
 
 ### CAPÍTULO VI. DE LA JUSTICIA CÍVICA
 
@@ -3127,9 +3129,9 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
 
-En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
+En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el período respectivo.
 
 ###### Artículo 191.
 
@@ -4114,6 +4116,16 @@ PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente de su publ
 SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y SIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS LEYES ESTATALES, A EFECTO DE INTEGRAR Y REGULAR LOS RECIÉN CREADOS MUNICIPIOS DE COATETELCO, HUEYAPAN Y XOXOCOTLA, TODOS DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44, 47 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 ###### ARTÍCULO CUARTO.
 
