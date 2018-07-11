@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-atender-sancionar-y-erradicar-la-67940"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2017-03-01"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -33,7 +33,9 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTICULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLITICA LOCAL, Y,
 
-ANTECEDENTES...
+ANTECEDENTES
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -151,13 +153,13 @@ El personal que preste la atención a que se refieren los dos artículos anterio
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LAS AUTORIDADES
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 12.
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, será el organismo encargado de establecer la política permanente de coordinación entre las dependencias e instancias de la Administración Pública Estatal, así como de vinculación con las autoridades municipales en materia de violencia familiar. Tendrá a su cargo el diseño del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar.
 
-Para el cumplimiento de todas y cada una de las atribuciones y facultades que le confiere esta ley, se apoyará en la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos y las áreas encargadas de la atención del menor y la familia en los municipios.
+La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia participará en el diseño del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar, para lo cual se apoyará en las áreas encargadas de la atención de niñas, niños, adolescentes y la familia en los municipios.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
 
@@ -175,71 +177,29 @@ IV.- Difundir, en el ámbito de su competencia, el contenido y alcance de la pre
 
 V.- Las demás que le confiera la presente Ley y otros ordenamientos aplicables, así como aquellas que sean necesarias para la consecución de sus fines.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 14.
 
-Al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, y de las áreas municipales encargadas de la protección del menor y la familia, le corresponde:
+Al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, le corresponde:
 
 I.- Celebrar convenios de coordinación de actividades entre autoridades federales, estatales y municipales en materia de violencia familiar;
 
-II.- Proyectar normas y procedimientos para establecer, supervisar, utilizar y mantener actualizado el Registro Estatal;
+II.- Elaborar propuestas de reformas a las leyes y reglamentos en materia de violencia familiar;
 
-III.- Elaborar propuestas de reformas a las leyes y reglamentos en materia de violencia familiar;
+III.- Capacitar en materia de mediación, como medio alternativo de resolución de violencia familiar;
 
-IV.- Analizar el establecimiento de los lineamientos administrativos y técnicos, así como de los modelos de prevención, atención, sanción y erradicación de violencia familiar, adecuados para esta problemática;
+IV.- Promover acciones y programas de protección social a favor del receptor de violencia familiar;
 
-V.- Evaluar cuatrimestralmente los logros y avances del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar;
+V.- Fomentar en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre violencia familiar, cuyos resultados servirán para implementar nuevos programas para su prevención y asistencia;
 
-VI.- Conocer y resolver la mediación, como medio alternativo de resolución de violencia familiar;
+VI.- Sensibilizar y capacitar a la población, sobre las formas y consecuencias en que se manifiesta, se previene y se sanciona la violencia familiar;
 
-VII.- Integrar el Registro Estatal de Datos e Información sobre casos de violencia familiar; el cual se organizará por tipo de violencia familiar, en los casos en que constituyan faltas administrativas e indagatorias. Debiéndose incluirse como mínimo los siguientes datos:
+VII.- Desarrollar programas tendientes a sensibilizar y capacitar al sector juvenil de la población, sobre la gravedad de la violencia familiar y la importancia de su prevención y tratamiento hasta su erradicación;
 
-a) Fecha del evento;
+VIII.- Difundir los alcances de la presente ley y condenar los actos de violencia familiar, y
 
-b) Tipo de violencia;
-
-c) Lugar de los hechos;
-
-d) Sexo del receptor y generador de violencia familiar;
-
-e) Duración del evento;
-
-f) Tipo de orden de protección solicitada y, en su caso, decretada;
-
-g) Edad del receptor y generador de violencia familiar;
-
-h) Estado civil del receptor y generador de violencia familiar;
-
-i) Escolaridad del receptor y del generador de violencia familiar;
-
-j) Ponencias de resolución administrativa y penal, y
-
-k) Sentencias penales y familiares;
-
-VIII.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, el otorgamiento de las órdenes de protección de carácter urgente y temporal, para los casos que considere necesaria su aplicación, atendiendo siempre, el interés superior del receptor de violencia familiar;
-
-IX.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, información sobre las órdenes de protección y sentencias que en materia de violencia familiar se dicten, a efecto de integrar el Registro Estatal;
-
-X.- Promover acciones y programas de protección social a favor del receptor de violencia familiar;
-
-XI.- Fomentar en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre violencia familiar, cuyos resultados servirán para diseñar nuevos modelos para su prevención y asistencia;
-
-XII.- Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a las instituciones competentes a los receptores y generadores de violencia familiar;
-
-XIII.- Sensibilizar y capacitar a la población, sobre las formas y consecuencias en que se manifiesta, se previene y se sanciona la violencia familiar;
-
-XIV.- Dar seguimiento a los eventos de violencia familiar que tenga conocimiento y en su caso, efectuar la mediación como medio alternativo en la resolución de violencia familiar;
-
-XV.- Prestar servicios de atención y asesoría jurídica, psicológica y trabajo social a receptores y generadores de violencia familiar;
-
-XVI.- Promover la instalación de centros de protección y asistencia a receptores de violencia familiar;
-
-XVII.- Desarrollar programas tendientes a sensibilizar y capacitar al sector juvenil de la población, sobre la gravedad de la violencia familiar y la importancia de su prevención y tratamiento hasta su erradicación;
-
-XVIII.- Difundir los alcances de la presente ley y condenar los actos de violencia familiar, y
-
-XIX.- Las demás que le confieran otros ordenamientos legales.
+IX.- Las demás que le confieran otros ordenamientos jurídicos.
 
 ###### ARTÍCULO 15.
 
@@ -277,31 +237,107 @@ VII.- Proporcionar la información que solicite la Procuraduría de Protección 
 
 VIII.- Las demás que le confieran otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 17.
 
-A la Fiscalía General del Estado de Morelos le corresponde:
+Con independencia de lo previsto en el artículo 17 BIS de esta Ley, a la Fiscalía General del Estado de Morelos, le corresponde:
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
 I.- Diseñar la política en materia de procuración de justicia, relativas a la atención y erradicación de la violencia familiar;
 
-II.- Capacitar y sensibilizar al personal adscrito a la Fiscalía General del Estado de Morelos, en temas relativos a la violencia familiar, para la adecuada atención y trato digno al receptor de violencia familiar;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+II.- Capacitar y sensibilizar a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia al personal adscrito a la Fiscalía General del Estado de Morelos, en temas relativos a la violencia familiar, para la adecuada atención y trato digno al receptor de violencia familiar;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
 III.- Participar en campañas informativas de violencia familiar, desde la perspectiva de la procuración de justicia, y promover acciones de protección de derechos humanos;
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
 IV.- Velar por el estricto cumplimiento a la normativa relativa a la aplicación de las órdenes de protección para las víctimas de la violencia familiar;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
 V.- Apoyar a las autoridades e instituciones de los diferentes ámbitos gubernamentales estatal y federal, encargadas de efectuar investigaciones de carácter académico en materia de violencia familiar, proporcionando, en su caso, la información que se requiera en el rubro de la violencia familiar;
 
-VI.- Tener un control de investigaciones que se inicien por violencia familiar y compartir la estadística a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos para la integración del Registro Estatal o compartir información con otras instancias competentes para la elaboración de políticas o acciones para prevenir, atender, sancionar y erradicar la violencia familiar;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-VII.- Promover la capacitación, en las ramas del derecho familiar y penal, así como la sensibilización al personal de la Dirección General de Asesoría Social y Auxilio a Víctimas, adscrita a la Fiscalía General del Estado de Morelos, a efecto de mejorar la atención brindada al receptor y generador de violencia familiar que requieran su intervención;
+VI.-Tener un control de investigaciones que se inicien por violencia familiar y compartir la estadística a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia para la integración del Registro Estatal o compartir información con otras instancias competentes para la elaboración de políticas o acciones para prevenir, atender, sancionar y erradicar la violencia familiar;
+
+VII.- (DEROGADA, P.O. 11 DE JULIO DE 2018)
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
 
 VIII.- Diseñar protocolos, acuerdos u otros instrumentos de apoyo para la institución del Ministerio Público, para otorgar la atención médica, asesoría jurídica y psicológica a las víctimas u ofendidos del delito;
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
 IX.- Celebrar convenios de colaboración con la Federación, Entidades Federativas, Secretarías, Dependencias y Entidades de la Administración Pública Estatal y Ayuntamientos, así como con organizaciones de la sociedad civil, para atender la violencia familiar en el ámbito de la procuración de justicia, y
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+
 X.- Las demás que le confieran otros ordenamientos jurídicos.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+ARTÍCULO 17 BIS.- A la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, y a las áreas municipales encargadas de la protección de niñas, niños, adolescentes y la familia, les corresponde:
+
+I.- Celebrar convenios de coordinación de actividades entre autoridades federales, estatales y municipales en materia de violencia familiar;
+
+II.- Mantener actualizado el Registro Estatal;
+
+III.- Elaborar propuestas de reformas a las leyes y reglamentos en materia de violencia familiar;
+
+IV.- Analizar el establecimiento de lineamientos administrativos y técnicos, así como de los modelos de prevención, atención, sanción y erradicación de violencia familiar, adecuados para esta problemática;
+
+V.- Participar en la evaluación trimestral de los logros y avances del Programa Anual para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar;
+
+VI.- Conocer y resolver la mediación, como medio alternativo de resolución de violencia familiar;
+
+VII.- Integrar el Registro Estatal de Datos e Información sobre casos de violencia familiar; el cual se organizará por tipo de violencia familiar, en los casos en que constituyan faltas administrativas e indagatorias. Debiéndose incluirse (sic) como mínimo los siguientes datos:
+
+a) Fecha del evento;
+
+b) Tipo de violencia;
+
+c) Lugar de los hechos;
+
+d) Sexo del receptor y generador de violencia familiar;
+
+e) Duración del evento;
+
+f) Tipo de orden de protección solicitada y, en su caso, decretada;
+
+g) Edad del receptor y generador de violencia familiar;
+
+h) Estado civil del receptor y generador de violencia familiar;
+
+i) Escolaridad del receptor y del generador de violencia familiar;
+
+j) Ponencias de resolución administrativa y penal, y
+
+k) Sentencias penales y familiares;
+
+VIII.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, el otorgamiento de las órdenes de protección de carácter urgente y temporal, para los casos que considere necesaria su aplicación, atendiendo siempre, el interés superior del receptor de violencia familiar;
+
+IX.- Solicitar al Tribunal Superior de Justicia del Estado de Morelos, información sobre las órdenes de protección y sentencias que en materia de violencia familiar se dicten, a efecto de integrar el Registro Estatal;
+
+X.- Fomentar en coordinación con instituciones públicas o privadas, la realización de investigaciones sobre violencia familiar, cuyos resultados servirán para implementar nuevos modelos para su prevención y asistencia;
+
+XI.- Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a las instituciones competentes a los receptores y generadores de violencia familiar;
+
+XII.- Dar seguimiento a los eventos de violencia familiar que tenga conocimiento y, en su caso, efectuar la mediación como medio alternativo en la resolución de violencia familiar;
+
+XIII.- Prestar servicios de atención y asesoría jurídica, psicológica y trabajo social a receptores y generadores de violencia familiar;
+
+XIV.- Promover la instalación de centros de protección y asistencia a receptores de violencia familiar;
+
+XV.- Difundir los alcances de la presente ley y condenar los actos de violencia familiar, y
+
+XVI.- Las demás que le confieran otros ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 18.
 
@@ -347,13 +383,13 @@ VI.- Las demás que le confieran otros ordenamientos legales.
 
 El Instituto de Desarrollo y Fortalecimiento Municipal deberá:
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-I.- Asesorar, en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, a los Municipios para crear políticas públicas, así como los mecanismos de evaluación, para prevenir, atender, sancionar y erradicar la violencia familiar;
+I.- Asesorar, en coordinación con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, a los Municipios para crear políticas públicas, así como los mecanismos de evaluación, para prevenir, atender, sancionar y erradicar la violencia familiar;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-II.- Promover, en coordinación con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, cursos de capacitación y sensibilización a los servidores públicos que atiendan a los receptores de violencia familiar;
+II.- Promover, en coordinación con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, cursos de capacitación y sensibilización a los servidores públicos que atiendan a los receptores de violencia familiar;
 
 III.- Brindar la asesoría que requieran los Municipios a fin de suscribir convenios y acuerdos de colaboración con autoridades federales, estatales o municipales, para el eficaz cumplimiento de ésta ley;
 
@@ -371,7 +407,9 @@ II.- Elaborar un Programa Anual Municipal para Prevenir, Atender, Sancionar y Er
 
 III.- Promover programas y actividades tendientes a la prevención y atención de la violencia familiar;
 
-IV.- Coadyuvar en los trabajos de prevención y atención de la violencia familiar, al Sistema para el Desarrollo Integral de la Familia a través de las áreas municipales encargadas de la protección del menor y la familia;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+IV.- Coadyuvar con el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, y las áreas municipales encargadas de la protección de niñas, niños, adolescentes y la familia, en los trabajos de prevención y atención de la violencia familiar;
 
 V.- A través de sus elementos policiales, llevar a cabo las presentaciones para hacer efectiva las sanciones administrativas que se impongan con motivo de esta Ley;
 
@@ -571,7 +609,9 @@ El incumplimiento a los convenios celebrados en el procedimiento de mediación, 
 
 Las sanciones económicas derivadas de la aplicación de ésta Ley, serán enteradas a (sic) Sistema Municipal de Desarrollo Integral de la Familia, del municipio donde se conozca la queja y su recaudación se destinará a los programas de prevención y asistencia de la violencia familiar.
 
-El Sistema Municipal para el Desarrollo Integral de la Familia, deberá informar- sobre la aplicación de los recursos derivados de la recaudación de las sanciones económicas al Sistema Estatal para el Desarrollo Integral de la Familia, quien atendiendo a las multas efectivamente recaudadas por la Subsecretaría de Ingresos de la Secretaría de Finanzas y Planeación, entregará al municipio que corresponda, el monto que derive de las quejas que el mismo hubiere conocido.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
+El Sistema Municipal para el Desarrollo Integral de la Familia deberá informar sobre la aplicación de los recursos derivados de la recaudación de las sanciones económicas al Sistema Estatal para el Desarrollo Integral de la Familia, quien atendiendo a las multas efectivamente recaudadas por la Secretaría de Hacienda del Poder Ejecutivo Estatal, entregará al municipio que corresponda, el monto que derive de las quejas que el mismo hubiere conocido.
 
 ## TRANSITORIOS
 
@@ -659,7 +699,7 @@ CUARTA.- En un plazo no mayor a 120 días hábiles contados a partir del día si
 
 P.O. 1 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y SIETE POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATROCIENTOS OCHENTA Y SIETE POR EL QUE SE REFORMA EL ARTÍCULO 37 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
 Primera.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVIII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -668,3 +708,59 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y OCHO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y SE REFORMAN, ADICIONAN Y DEROGAN DISTINTAS DISPOSICIONES DE DIVERSAS LEYES ESTATALES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; PARA ADSCRIBIR A LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Fiscalía General del Estado Libre y Soberano de Morelos, aprobada el 12 de marzo del 2014 y publicada en el Periódico Oficial “Tierra y Libertad”, número 5172, el día 26 del mismo mes y año.
+
+CUARTA. Se abroga el “ACUERDO NÚMERO 18 DEL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO DE MORELOS, POR EL QUE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, FORMALIZA LA CREACIÓN DE LA FISCALÍA ESPECIALIZADA DE INVESTIGACIÓN DEL DELITO DE SECUESTRO, DENOMINADA “UNIDAD DE COMBATE AL SECUESTRO”, publicado en el Periódico Oficial “Tierra y Libertad” número 4680, el día 4 de febrero de 2009, así como los demás Acuerdos que se contrapongan a lo previsto en el presente Decreto.
+
+QUINTA. Una vez publicado el presente Decreto, dentro de los ciento veinte días siguientes, contados a partir del inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes correspondientes para su armonización con el presente Decreto.
+
+SEXTA. Dentro del mismo término, la Fiscalía General deberá emitir su Reglamento Interior, y una vez publicado éste, dentro de los noventa días siguientes, emitirá los restantes Reglamentos a que se refiere la presente Ley, sin perjuicio de continuar aplicando los reglamentos vigentes, en lo que no se opongan a la presente.
+
+SÉPTIMA. La Fiscalía Anticorrupción, en uso de su facultad de gestión, emitirá en el plazo a que se refiere la Disposición Quinta Transitoria, su nuevo Reglamento Interior, y una vez publicado éste, dentro de los noventa días siguientes, emitirá los restantes reglamentos a que se refiere la presente Ley, sin perjuicio de continuar aplicando los reglamentos vigentes, en lo que no se opongan a la presente.
+
+OCTAVA. En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+NOVENA. En todo caso no se afectará la situación administrativa o laboral del personal que presta sus servicios en las Fiscalías General y Especializada en Combate a la Corrupción.
+
+DÉCIMA. Los bienes muebles e inmuebles propiedad del Gobierno del Estado, que ha venido ocupando y administrando la Fiscalía General del Estado de Morelos hasta ahora, pasan a formar parte del patrimonio de ésta última por virtud de esta Ley desde el momento de su entrada en vigor, dada su naturaleza de órgano constitucional autónomo, otorgada en términos del artículo 79-A de la Constitución Política del Estado Libre y Soberano de Morelos; para lo cual el Titular del Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+Toda vez que respecto del bien inmueble identificado como Lote 10, manzana 10, zona 01, poblado de Tlaltenango, ubicado en avenida Emiliano Zapata, número 803, colonia Bella Vista, en esta ciudad de Cuernavaca, Morelos, con clave catastral 1100-19-007-009, y una superficie de 11,444.00 m2 (once mil cuatrocientos cuarenta y cuatro metros cuadrados), conforme a la autorización concedida mediante Decreto Legislativo número dos mil doscientos uno, emitido por este Congreso y publicado en el Periódico Oficial “Tierra y Libertad”, número 5513, el 16 de julio de 2017; se tiene conocimiento de que el Ejecutivo Estatal ha realizado la desincorporación respectiva por Decreto Administrativo, publicado en el mismo órgano de difusión, número 5546 de 01 de noviembre de 2017, sin que a la fecha se haya materializado la enajenación del mismo; por lo que se deberá estar a lo señalado en el primer párrafo de la presente Disposición Transitoria.
+
+Así mismo, el Poder Ejecutivo del Estado, por conducto de la Dirección General de Patrimonio de la Secretaría de Administración, debe informar al Congreso del Estado respecto del cumplimiento de la presente Disposición Transitoria y, por ende, del Decreto Legislativo número dos mil doscientos uno.
+
+DÉCIMA PRIMERA. Los bienes muebles e inmuebles propiedad del Gobierno del Estado o del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, que se han venido ocupando y administrando hasta ahora por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y por la Dirección de Centros de Asistencia Social, ambos pertenecientes a dicho Sistema, así como por sus albergues o centros de asistencia social, mismos que quedan a cargo de la Fiscalía General del Estado de Morelos por virtud de este acto legislativo, pasan a formar parte del patrimonio de ésta última desde el momento de su entrada en vigor; para lo cual el Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+De forma complementaria, las Secretarías, Dependencias y Entidades de la Administración Pública, deben realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr que los recursos humanos, materiales y financieros que el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos ha ocupado y proyectado para el funcionamiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y los centros de asistencia social; se trasmitan a la Fiscalía General del Estado dada su autonomía constitucional.
+
+DÉCIMA SEGUNDA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrita a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto.
+
+DÉCIMA TERCERA. Los asuntos que se encuentren en trámite o en proceso, incluidos los de adopciones, a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros de Asistencia Social, continuarán tramitándose por esta, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de su adscripción a la Fiscalía General del Estado pueda modificar o alterar su curso y resultado.
+
+DÉCIMA CUARTA. La Fiscalía General del Estado de Morelos y el Sistema para el Desarrollo Integral de la Familia, al realizar actuaciones para materializar el traslado de funciones y unidades a que se refiere el presente instrumento jurídico, deberán velar por la seguridad, vida e integridad de las personas que se encuentren bajo su custodia en alguno de los albergues y centros de asistencia social que se encontraban a cargo de dicho Sistema.
+
+La Fiscalía General del Estado y el Sistema para el Desarrollo Integral de la Familia, una vez que entre en vigor el presente instrumento legislativo, deberán prestarse todas las facilidades para el traslado de los Albergues y Centros de Asistencia Social que hasta la presente reforma se encontraban a cargo de dicho Sistema.
+
+DÉCIMA QUINTA. El personal adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, la Dirección de Centros de Asistencia Social y el Centro de Evaluación y Control de Confianza del Estado de Morelos, que pase a formar parte de la Fiscalía General del Estado de Morelos, en ninguna forma podrá resultar afectado en sus derechos; debiéndose tomar las acciones necesarias para ello.
+
+DÉCIMA SEXTA. En un plazo no mayor de 180 días hábiles, contados a partir de la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal deberá realizar o emitir las adecuaciones reglamentarias que se estimen pertinentes conforme lo previsto en el presente Decreto.
+
+DÉCIMA SÉPTIMA. En un plazo no mayor de 180 días hábiles la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+DÉCIMA OCTAVA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto.
+
+DÉCIMA NOVENA. Se abroga el Decreto por el que se reconoce y regula al Centro de Evaluación y Control de Confianza del Estado de Morelos como órgano desconcentrado de la Administración Pública Estatal, publicado en el Periódico Oficial “Tierra y Libertad”, número 5585, el 07 de marzo de 2018.
+
+VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, deberán realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr la transferencia a la Fiscalía General del Estado de los recursos humanos, materiales y financieros que el Centro de Evaluación y Control de Confianza del Estado de Morelos ha ocupado y proyectado para su funcionamiento.
+
+VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito (sic) a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
+
+VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
