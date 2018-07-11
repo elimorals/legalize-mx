@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2018-05-31"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -81,9 +81,17 @@ XV. Fomentar la inversión, a través de incentivos claros y transparentes que o
 
 XVI. Estimular las inversiones aprovechando racionalmente los recursos naturales y en apego a la normatividad vigente en materia ecológica, respetando la equidad de género y los grupos vulnerables;
 
-XVII. Promover la atracción de inversión nacional y extranjera, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-XVIII. Fortalecer los sectores económicos estratégicos que sean altamente competitivos, a través de esquemas de agrupamientos empresariales, clústeres y cadenas de valor relacionados con los sectores de la Secretaría de Desarrollo Económico.
+XVII. Promover la atracción de inversión nacional y extranjera;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XVIII. Fortalecer los sectores económicos estratégicos que sean altamente competitivos, a través de esquemas de agrupamientos empresariales, clústeres y cadenas de valor relacionados con los sectores de la Secretaría de Desarrollo Económico, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XIX. Fomentar la inversión de equipos y componentes para impulsar el aprovechamiento de energías renovables y su transformación eficiente.
 
 ###### ARTÍCULO 3°.
 
@@ -145,7 +153,9 @@ II. Garantizar el comportamiento ético en las empresas mediante la promoción d
 
 III. Rediseñar la cadena de valor;
 
-IV. Desarrollar un encadenamiento productivo, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+IV. Desarrollar un encadenamiento productivo y sustentable, e
 
 V. Incrementar el valor agregado de los productos.
 
@@ -179,9 +189,17 @@ I. Programas sectoriales, que están orientados a inducir la modernización e in
 
 II. Programas especiales, aquéllos orientados a materias específicas o a grupos sociales que, por su problemática, requieran de un tratamiento específico. Éstos comprenderán, entre otros, los siguientes: denominación de origen; fomento a la micro, mediana y pequeña empresa, así como a la empresa familiar; de fomento a las empresas sociales; de fomento a las exportaciones y la industria maquiladora; de infraestructura productiva; de desarrollo tecnológico; y de capacitación de los recursos humanos del sector productivo;
 
-III. Programas regionales, los programas que destacan las vocaciones regionales del Estado, mediante los cuales se expresen prioridades y acciones ligadas a los programas parciales de desarrollo urbano, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-IV. Programas de las zonas sujetas al desarrollo económico, que involucren a más de un municipio, que estarán determinadas por las áreas de actuación en el suelo urbano y de conservación, en congruencia con la Ley de Desarrollo Urbano, y los programas de desarrollo urbano municipales.
+III. Programas regionales, los programas que destacan las vocaciones regionales del Estado, mediante los cuales se expresen prioridades y acciones ligadas a los programas parciales de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+IV. Programas de las zonas sujetas al desarrollo económico, que involucren a más de un municipio, que estarán determinadas por las áreas de actuación en el suelo urbano y de conservación, en congruencia con la Ley de Desarrollo Urbano, y los programas de desarrollo urbano municipales, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+V. Programas especiales que impulsen el uso de fuentes de energías alternativas, para sustituir los combustibles tradicionales por fuentes de energía renovables.
 
 ### CAPÍTULO III. Del Desarrollo Científico, Tecnológico y la Innovación
 
@@ -429,7 +447,9 @@ II. Destinen parte de su gasto de operación a la investigación, y al desarroll
 
 III. Desarrollen infraestructura en las zonas prioritarias del Estado;
 
-IV. Realicen inversiones para solucionar problemas de la contaminación ambiental en materia de reciclaje, tratamiento y confinamiento de residuos domésticos e industriales;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+IV. Realicen inversiones para solucionar problemas de la contaminación ambiental en materia de reciclaje, tratamiento y confinamiento de residuos domésticos e industria; así como la inversión en energías alternativas.
 
 V. Sustituyan importaciones mediante el control de insumos, componentes, servicios o productos de origen nacional y local;
 
@@ -882,3 +902,11 @@ P.O. 31 DE MAYO DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1006.- SE REFORMAN LOS ARTÍCULOS 2º, 10, 12 Y 33 DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
