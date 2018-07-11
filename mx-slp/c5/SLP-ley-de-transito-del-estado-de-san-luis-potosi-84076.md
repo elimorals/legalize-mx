@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2018-06-22"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -830,6 +830,10 @@ Las personas físicas o morales dedicadas a la compra de vehículos para su desg
 Los propietarios o responsables de lotes, depósitos o pensiones de vehículos en el Estado, deberán llevar un control puntual de las unidades que queden a su resguardo o cuidado; este registro deberá contener los datos que permitan la identificación del vehículo, así como la autoridad o persona que lo deposite; la autoridad o autoridades a las que están a su disposición; lo anterior, con independencia de las obligaciones que deriven de otras disposiciones y obligaciones administrativas.
 
 En los casos de vehículos que se dejen abandonados en estos establecimientos por más de un año, o se tenga duda sobre su legal procedencia o identificación, se hará del conocimiento de la Secretaría, la que verificará el vehículo y hará las anotaciones respectivas en el Padrón Vehicular del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+Asimismo, deberán establecer medidas de seguridad tanto en el interior como en el exterior del terreno que ocupen, cuidando de prevenir cualquier contingencia física o ambiental.
 
 ###### ARTICULO 60.
 
@@ -1687,7 +1691,15 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 22 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 984.- SE REFORMAN LOS ARTÍCULOS 67 Y 68; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 65, 67, 68 Y 72 DE LA LEY DE LEY (SIC) DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".
+## [N. DE E. TRANSITORIOS DEL “DECRETO 984.- SE REFORMAN LOS ARTÍCULOS 67 Y 68; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 65, 67, 68 Y 72 DE LA LEY DE LEY (SIC) DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1008.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 59, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
