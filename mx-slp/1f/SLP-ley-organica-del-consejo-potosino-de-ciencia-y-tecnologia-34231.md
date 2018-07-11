@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-consejo-potosino-de-ciencia-y-tecnologia-34231
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-30"
-last_updated: "2017-07-19"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -135,11 +135,15 @@ XXII. Presidir y coordinar el Sistema de Ciencia, Tecnología e Innovación del 
 
 XXIII. Instrumentar las políticas propuestas por el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-XXIV. Realizar los actos que sean necesarios para el logro de los objetivos del COPOCYT, y
+XXIV. Realizar los actos que sean necesarios para el logro de los objetivos del COPOCYT;
 
-XXV. Las demás que establezca el Reglamento de esta Ley.
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXV. Fomentar la investigación científica y tecnológica, de equipos y procesos para la mitigación y adaptación al cambio climático, y
+
+XXVI. Las demás que establezca el Reglamento de esta Ley.
 
 ## TITULO SEGUNDO. DE LOS ORGANOS DE GOBIERNO, DE ADMINISTRACION Y TECNICOS DEL COPOCYT
 
@@ -548,3 +552,11 @@ P.O. 19 DE JULIO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1007.- SE REFORMA EL ARTÍCULO 4° DE LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ; ASÍ MISMO SE REFORMA EL ARTÍCULO 8° DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
