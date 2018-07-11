@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-para-el-desarrollo-y-89265
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-18"
-last_updated: "2014-08-27"
+last_updated: "2018-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA PARA EL DESARROLLO Y EMPODERAMIENTO DE LAS MUJERES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de julio de 2012.
 
@@ -31,7 +31,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 44 y 47 de la Constitución Política del Estado de Chiapas; 5°,8°,13 y 23, de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones anteriormente expuestos, el Ejecutivo del Estado a mi cargo, tiene a bien expedir el siguiente:
 
@@ -75,9 +77,11 @@ V. Reglamento Interior: Al Reglamento Interior de la Secretaría para el Desarro
 
 VI. BANMUJER: Al Programa Social Beneficio y Apoyo a las Necesidades de la Mujer.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 6°.
 
-Los titulares de los Órganos Administrativos que integran a la Secretaría, implementarán acciones para la protección, custodia, resguardo y conservación de los archivos a su cargo, en los términos de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+Los titulares de los Órganos Administrativos que integran a la Secretaría, implementarán acciones para la protección, custodia, resguardo y conservación de los archivos a su cargo, en los términos de la normatividad en materia de transparencia en el Estado.
 
 ## Título Segundo. De la Organización de la Secretaría y Atribuciones de la Secretaria
 
@@ -87,49 +91,51 @@ Los titulares de los Órganos Administrativos que integran a la Secretaría, imp
 
 Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, así como para el despacho de los asuntos de su competencia, la Secretaría tendrá los Órganos Administrativos siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 11 DE JULIO DE 2018)</small>
 
-I. Oficina del C. Secretario.
+I. Oficina del C. Secretario
 
 a) Unidad de Apoyo Administrativo.
 
 b) Unidad de Informática.
 
-c) Unidad de Apoyo Jurídico.
+c) Unidad de Apoyo Jurídico
 
 d) Unidad de Planeación.
 
-e) Coordinación de Delegaciones Regionales.
+e) Unidad de Transparencia.
 
-Delegación Regional Zona I. Metropolitana.
+f) Coordinación de Delegaciones Regionales.
 
-Delegación Regional Zona II. Valles Zoque.
+Delegación Regional I Metropolitana.
 
-Delegación Regional Zona III. Mezcalapa.
+Delegación Regional II Valles Zoque.
 
-Delegación Regional Zona IV. De los Llanos.
+Delegación Regional III Mezcalapa.
 
-Delegación Regional Zona V. Altos Tsotsil- Tseltal.
+Delegación Regional IV De los Llanos.
 
-Delegación Regional Zona VI. Frailesca.
+Delegación Regional V Altos Tsotsil-Tseltal.
 
-Delegación Regional Zona VII. De los Bosques.
+Delegación Regional VI Frailesca.
 
-Delegación Regional Zona VIII. Norte.
+Delegación Regional VII De los Bosques.
 
-Delegación Regional Zona IX. Istmo Costa.
+Delegación Regional VIII Norte.
 
-Delegación Regional Zona X. Soconusco.
+Delegación Regional IX Istmo Costa.
 
-Delegación Regional Zona XI. Sierra Mariscal.
+Delegación Regional X Soconusco.
 
-Delegación Regional Zona XII. Selva Lacandona.
+Delegación Regional XI Sierra Mariscal.
 
-Delegación Regional Zona XIII. Maya.
+Delegación Regional XII Selva Lacandona.
 
-Delegación Regional Zona XIV. Tulijá Tseltal Chol.
+Delegación Regional XIII Maya.
 
-Delegación Regional Zona XV. Meseta Comiteca Tojolabal.
+Delegación Regional XIV Tulijá Tseltal Chol.
+
+Delegación Regional XV Meseta Comiteca Tojolabal.
 
 II. Subsecretaría para el Desarrollo Integral de las Mujeres.
 
@@ -151,9 +157,11 @@ La Secretaria, para el cumplimiento de sus atribuciones, contará con la estruct
 
 Para el despacho de los asuntos competencia de la Secretaría, los titulares de los Órganos Administrativos, desempeñarán las atribuciones conferidas en el presente Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 10.
 
-El desempeño de los servidores públicos de la Secretaría, se regirá por los principios de Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y demás disposiciones legales aplicables.
+El desempeño de los servidores públicos de la Secretaría, se regirá por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -167,9 +175,11 @@ La representación, trámite y resolución de los asuntos, competencia de la Sec
 
 Las atribuciones establecidas como indelegables en este Reglamento Interior, podrán ser delegadas únicamente mediante un acuerdo delegatorio emitido por la Secretaria, cuando éstas produzcan efectos de carácter específico, hasta su total conclusión; si dichas atribuciones tienen efecto de carácter general, se requiere su publicación en el Periódico Oficial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 13.
 
-La Secretaria, tendrá las atribuciones delegables siguientes:
+La Secretaría, tendrá las atribuciones delegables siguientes:
 
 l. Representar legalmente a la Secretaría en el ámbito de su competencia, ante toda clase de Autoridades, Organismos, Instituciones y Personas Públicas o Privadas, Nacionales e Internacionales.
 
@@ -227,7 +237,9 @@ XXII. Implementar mecanismos de coordinación con los sectores público, privado
 
 XXIII. Promover en grupos o sectores de la población rural femenina, el desarrollo de capacidades y conocimientos técnico-prácticos de actividades productivas; tales como la herbolaria, cocina, panadería, mecanografía, telares, invernaderos, conservación de alimentos, computación, carpintería, herrería, entre otras, a través de los talleres que proporciona el Departamento de Centros para el Desarrollo de Capacidades en el Estado.
 
-XXIV. Asesorar jurídica y psicológicamente a las mujeres, así como a los menores que se encuentren en estado de vulnerabilidad relacionados con asuntos familiares o algún tipo de violencia que establezca la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXIV. Proporcionar asesoría jurídica, psicológica y de trabajo social a las mujeres, así como a sus hijas e hijos que se encuentren en estado de vulnerabilidad, relacionada con asuntos familiares o con algún tipo de violencia que establezca la Ley de Desarrollo Constitucional para la Igualdad de Género y Acceso a una Vida Libre de Violencia para las Mujeres.
 
 XXV. (DEROGADA, P.O. 27 DE AGOSTO DE 2014)
 
@@ -303,7 +315,13 @@ c) Unidad de Apoyo Jurídico.
 
 d) Unidad de Planeación.
 
-e) Coordinación de Delegaciones Regionales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2018)</small>
+
+e) Unidad de Transparencia.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 11 DE JULIO DE 2018)</small>
+
+f) Coordinación de Delegaciones Regionales.
 
 ###### Artículo 16.
 
@@ -359,7 +377,13 @@ XXIV. Expedir constancias oficiales que obren en los archivos a su cargo.
 
 XXV. Proponer a la Secretaria, la celebración y suscripción de convenios y acuerdos de colaboración con organismos gubernamentales, no gubernamentales, sociales, nacionales e internacionales, para el fortalecimiento de los servicios que proporciona la Secretaría.
 
-XXVI. Las demás que en el ámbito de su competencia les sean encomendadas por la Secretaria, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXVI. Proporcionar los documentos, opiniones e informes de su competencia, que les sean solicitados por el personal adscrito en los órganos administrativos que conforman a la Secretaría, así como por los Organismos de la Administración Pública Federal y Estatal; de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXVII. Las demás que en el ámbito de su competencia les sean encomendadas por la Secretaría, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 17.
 
@@ -489,7 +513,9 @@ VI. Compilar y difundir las leyes, reglamentos, decretos, acuerdos y demás norm
 
 VII. Proponer a la Secretaria, proyectos de elaboración o actualización del Reglamento Interior de la Secretaría.
 
-VIII. Sustituir a la Secretaria, para presentar y contestar demandas, desistimiento, formular denuncias y querellas ante el Ministerio Público del Fuero Federal y Común, rendir informes, ofrecer pruebas, formular alegatos y presentar recursos en los juicios de amparo y demás Medios de Control Constitucional Federales y locales, en los que la Titular o la Secretaría sean señalados como autoridad responsable, tercero perjudicado o tengan algún interés jurídico; asimismo otorgar cuando proceda, el perdón o gestionar el desistimiento y determinar las conciliaciones en beneficio de ésta.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+VIII. Representar a la Secretaría y a la Secretaria, para presentar y contestar demandas, desistimiento, formular de (sic) denuncias y querellas ante el Ministerio Público del Fuero Federal y Común, rendir informes, ofrecer pruebas, formular alegatos y presentar recursos en los juicios de amparo y demás Medios de Control Constitucional Federales y Locales, en los que la Titular o la Secretaría sean señalados como autoridad responsable, tercero interesado o tengan algún interés jurídico. Asimismo, otorgar cuando proceda, el perdón o gestionar el desistimiento y determinar las conciliaciones en beneficio de ésta.
 
 IX. Asesorar jurídicamente a la Secretaria y Órganos Administrativos de la Secretaría, y apoyar legalmente el ejercicio de las atribuciones de los Órganos Administrativos de la Secretaría y actuar como órgano de consulta.
 
@@ -503,7 +529,9 @@ XIII. Tramitar y substanciar los procedimientos administrativos que conforme a l
 
 XIV. Vigilar que las sanciones a que se hagan acreedores los servidores públicos adscritos a la Secretaría, se apliquen de conformidad a las leyes aplicables.
 
-XV. Rendir los informes que le requiera la Comisión Nacional de Derechos Humanos y el Consejo Estatal de los Derechos Humanos, o cualquier otra institución de esa naturaleza.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XV. Rendir los informes que le requiera la Comisión Nacional de Derechos Humanos y la Comisión Estatal de los Derechos Humanos, o cualquier otra institución de esa naturaleza.
 
 XVI. Actualizar permanentemente el marco jurídico de la Secretaría, así como fijar, sistematizar y difundir criterios de interpretación y de aplicación de las disposiciones jurídicas competencia de la Secretaría.
 
@@ -541,9 +569,9 @@ X. Contribuir en coordinación con los integrantes del sector, en la integració
 
 XI. Gestionar ante la instancia normativa correspondiente, las modificaciones al presupuesto en materia de gasto corriente e inversión, que mejoren el cumplimiento de objetivos y metas de los programas y proyectos que opera la Secretaría.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-XII. Coordinar las sesiones del Subcomité Especial de Igualdad de Género, con base en la normatividad del Comité de Planeación para el Desarrollo del Estado.
+XII. Contribuir a la realización de las reuniones de trabajo del Subcomité Especial de Igualdad de Género, para la priorización de sus actividades con base en la normatividad del COPLADE.
 
 XIII. Establecer mecanismos de seguimiento, control y evaluación para un adecuado ejercicio del gasto público.
 
@@ -553,47 +581,55 @@ XV. Coordinar las acciones en materia de gasto corriente e inversión, para el c
 
 XVI. Las demás que en el ámbito de su competencia le sean encomendadas por la Secretaria, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+###### Artículo 21
+
+Bis.- El titular de la Unidad de Transparencia, tendrá las atribuciones conferidas en el artículo 59, del Título Quinto, Capítulo III, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas y demás disposiciones legales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Artículo 22.
 
-La Coordinación de Delegaciones Regionales, tendrá los Órganos Administrativos siguientes:
+La Coordinación de Delegaciones Regionales, tendrá los órganos administrativos siguientes:
 
-a) Delegación Regional Zona I. Metropolitana.
+Delegación Regional I Metropolitana.
 
-b) Delegación Regional Zona II. Valles Zoque.
+Delegación Regional II Valles Zoque.
 
-c) Delegación Regional Zona III. Mezcalapa.
+Delegación Regional III Mezcalapa.
 
-d) Delegación Regional Zona IV. De los Llanos.
+Delegación Regional IV De los Llanos.
 
-e) Delegación Regional Zona V. Altos Tsotsil- Tseltal.
+Delegación Regional V Altos Tsotsil-Tseltal.
 
-f) Delegación Regional Zona VI. Frailesca.
+Delegación Regional VI Frailesca
 
-g) Delegación Regional Zona VII. De los Bosques.
+Delegación Regional VII De los Bosques.
 
-h) Delegación Regional Zona VIII. Norte.
+Delegación Regional VIII Norte.
 
-i) Delegación Regional Zona IX. Istmo Costa.
+Delegación Regional IX Istmo Costa.
 
-j) Delegación Regional Zona X. Soconusco.
+Delegación Regional X Soconusco.
 
-k) Delegación Regional Zona XI. Sierra Mariscal.
+Delegación Regional XI Sierra Mariscal.
 
-l) Delegación Regional Zona XII. Selva Lacandona.
+Delegación Regional XII Selva Lacandona.
 
-m) Delegación Regional Zona XIII. Maya.
+Delegación Regional XIII Maya.
 
-n) Delegación Regional Zona XIV. Tulijá Tseltal Chol.
+Delegación Regional XIV Tulijá Tseltal Chol.
 
-o) Delegación Regional Zona XV. Meseta Comiteca Tojolabal.
+Delegación Regional XV Meseta Comiteca Tojolabal.
 
 ###### Artículo 23.
 
 El titular de la Coordinación de Delegaciones Regionales, tendrá las atribuciones siguientes:
 
-l. Implementar y difundir en las Delegaciones Regionales, las normas, lineamientos o disposiciones que regule la operación y coordinación, en la ejecución de los programas y proyectos a cargo de la Secretaría, así como las que emita el Ejecutivo del Estado, por sí o a través de las Dependencias normativas para el buen funcionamiento de la Secretaría.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+I. Implementar y difundir en las Delegaciones Regionales las normas, lineamientos o disposiciones que regulen la operación y coordinación en la ejecución de los programas y proyectos a cargo de la Secretaría, previa solicitud de la o él líder del proyecto, así como las que emita el Ejecutivo del Estado, por sí o a través de las Dependencias normativas correspondientes, para el buen funcionamiento de la Secretaría.
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2014)</small>
 
@@ -601,13 +637,17 @@ II. Proponer a la Secretaria, la celebración de Convenios de Coordinación de A
 
 III. Coordinar y dar seguimiento a la información de la Secretaría, que sea operada a través de las Delegaciones Regionales, así como proporcionar a éstas el apoyo en asuntos administrativos y financieros para los que sea requerido.
 
-IV. Vigilar que los programas y proyectos que se ejecutan en las Delegaciones Regionales cumplan con la normatividad aplicable.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+IV. Coordinar con él o la líder del proyecto respectivo, para que en los programas y proyectos que se ejecuten en las Delegaciones Regionales, se observe la normatividad aplicable.
 
 V. Coordinar la logística adecuada de proyectos y programas sectoriales e institucionales, acordes a los objetivos y competencias de la Secretaría, instrumentados en las Delegaciones Regionales, con la finalidad de promover el desarrollo de las mujeres en el Estado de Chiapas.
 
 VI. Proponer y coordinar las giras y visitas de trabajo que la Secretaria realice en las Delegaciones Regionales del Estado.
 
-VII. Promover la participación de grupos sociales y organizaciones, constituidos en los programas creados para el desarrollo integral de las mujeres en materia de equidad instrumentados por la Secretaría.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+VII. Promover la participación de grupos sociales y organizaciones, constituidos en los programas creados para el desarrollo integral de las mujeres en materia de igualdad, implementados por la Secretaría.
 
 VIII. Coordinar las actividades relacionadas con la planeación, capacitación, infraestructura, vinculación y tecnología de las Delegaciones Regionales.
 
@@ -669,7 +709,13 @@ XXIII. Participar en las Comisiones, Congresos, Consejos, Instituciones, Reunion
 
 XXIV. Proponer a la Secretaria, la celebración y suscripción de acuerdos y convenios de colaboración con organismos gubernamentales, no gubernamentales, sociales, nacionales e internacionales, para el fortalecimiento de los servicios que proporciona la Secretaría.
 
-XXV. Las demás que en el ámbito de su competencia le sean encomendadas por la Secretaria, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXV. Proporcionar los documentos, opiniones e informes de su competencia, que les sean solicitados por el personal adscrito a los órganos administrativos que conforman la Secretaría, así como por los Organismos de la Administración Pública Federal y Estatal, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXVI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por la Secretaria, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 25.
 
@@ -697,13 +743,19 @@ V. Impulsar acciones en el Estado que permitan alcanzar la autodeterminación y 
 
 VI. Coordinar la ejecución del Programa Estatal de Igualdad entre Mujeres y Hombres del Estado de Chiapas, con las diferentes dependencias de gobierno, con la participación activa y comprometida del sector social.
 
-VII. Expedir diagnósticos y estudios con enfoque de género que permitan tener una imagen actualizada de la problemática de las mujeres en el Estado, para determinar e implementar políticas públicas a favor de las mismas.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+VII. Expedir diagnósticos y estudios con perspectiva de género, que permitan tener una imagen actualizada de la problemática de las mujeres en el Estado, para determinar e implementar políticas públicas a favor de las mismas.
 
 VIII. Instrumentar e implementar las políticas públicas que se impulsan en las Dependencias y Entidades de los tres órdenes de Gobierno, promoviendo la transversalidad de la perspectiva de género en el Estado.
 
-IX. Implementar mecanismos de coordinación con los sectores público, privado, social y académicos, a fin de impulsar acciones a favor del respeto y aplicación de los derechos de las mujeres en el Estado.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-X. Promover en grupos o sectores de la población rural femenina, el desarrollo de capacidades y conocimientos técnico-prácticos de actividades productivas, tales como la herbolaria, cocina, panadería, mecanografía, telares, invernaderos, conservación de alimentos, computación carpintería, herrería entre otras, a través de los talleres que proporcionan los Centros de Desarrollo Comunitarios en el Estado.
+IX. Implementar mecanismos de coordinación con los sectores público, privado, social y académico, con la finalidad de impulsar acciones a favor del respeto y aplicación de los derechos de las mujeres en el Estado.
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+X. Promover en grupos o sectores de la población rural femenina, el desarrollo de capacidades y conocimientos técnico-prácticos de actividades productivas, tales como la herbolaria, cocina, panadería, mecanografía, telares, invernaderos, conservación de alimentos, computación, carpintería, herrería entre otras, a través de los talleres que proporciona el Departamento de Centros para el Desarrollo de Capacidades en el Estado.
 
 XI. Asesorar jurídica y psicológicamente a las mujeres, así como a los menores que se encuentren en estado de vulnerabilidad relacionados con asuntos familiares o algún tipo de violencia que establezca la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas.
 
@@ -729,11 +781,17 @@ b) Dirección de Contabilidad y Control de Cartera.
 
 El titular de la Subsecretaría de Economía Social BANMUJER, tendrá las atribuciones siguientes:
 
-I. Promover los proyectos de inversiones temporales de BANMUJER, otorgándoles créditos, con el fin de impulsar la economía familiar en el Estado; así como apoyos directos, de capacitación y productivos, en términos de las Reglas de Operación correspondiente.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-II. Coordinar la operatividad de los proyectos temporales de inversiones de BANMUJER de conformidad con lo establecido en las Reglas de Operación del Fideicomiso "Fondo de Apoyo a la Economía Social" (FAES) y las Reglas de Operación correspondiente (sic).
+I. Promover los programas sociales BANMUJER, Bienestar de Corazón a Corazón, Mujeres Trabajando Unidas y Salario Rosa, con la finalidad de impulsar la economía familiar en el Estado.
 
-III. Vigilar el Fondo de protección para Mujeres acreditadas de los programas sociales de BANMUJER.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+II. Coordinar la operatividad de los programas sociales BANMUJER, Bienestar de Corazón a Corazón, Mujeres Trabajando Unidas y Salario Rosa, de conformidad a lo establecido en las Reglas de Operación correspondientes.
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+III. Vigilar la gestión y aplicación del Fondo de Protección de las Mujeres acreditadas en los programas sociales.
 
 IV. Proponer a la Secretaria, las políticas encaminadas al empoderamiento económico de las mujeres en el Estado.
 
@@ -743,11 +801,15 @@ VI. Proponer a la Secretaria, la instrumentación de planes, programas y proyect
 
 VII. Celebrar convenios y acuerdos de colaboración y coordinación, en el ámbito de su competencia, con dependencias y entidades de los tres órdenes de gobierno y de la sociedad civil organizada, previa aprobación de la Secretaria y validación de la Unidad de Apoyo Jurídico, en términos del presente Reglamento Interior.
 
-VIII. Informar de las actividades realizadas en los proyectos de inversiones temporales de BANMUJER, a las instancias correspondientes.
+VIII. (DEROGADA, P.O. 11 DE JULIO DE 2018)
 
-IX. Implementar las Estrategias para el adecuado uso de los recursos destinados a proyectos de inversión con los gobiernos Estatal y Federal, que contribuyan al mejoramiento de las condiciones económicas de las mujeres en el Estado.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-X. Informar a la Secretaria, la situación financiera y contable del Fideicomiso "Fondo de Apoyo a la Economía Social" (FAES), en el período oficial establecido por la instancia correspondiente, en cumplimiento a la normatividad aplicable.
+IX. Implementar las estrategias para el adecuado uso de los recursos destinados a proyectos de inversión con los gobiernos Estatal y Federal, que contribuyan al mejoramiento de las condiciones económicas de las mujeres en el Estado.
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+X. Informar a la Secretaria, la situación que guardan los programas que opera BANMUJER.
 
 XI. Las demás que en el ámbito de su competencia les sean encomendadas por la Secretaria, así como las que les confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -803,7 +865,9 @@ XXII. Atender, en el ámbito de su competencia, las solicitudes de información 
 
 XXIII. Participar en las Comisiones, Congresos, Consejos, Instituciones, Reuniones, Juntas y Organizaciones Nacionales e Internacionales, en el ámbito de su competencia.
 
-XXIV. Proponer al titular de la Subsecretaría de su adscripción, la celebración y suscripción de acuerdos y convenios de colaboración con organismos gubernamentales, no gubernamentales y sociales, nacionales e internacionales, para el fortalecimiento de los servicios que proporciona la Secretaría.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXIV. Proporcionar los documentos, opiniones e informes de su competencia, que les sean solicitados por el personal adscrito a los órganos administrativos que conforman la Secretaría, así como por los Organismos de la Administración Pública Federal y Estatal; de conformidad con la normatividad aplicable.
 
 XXV. Las demás que en el ámbito de su competencia les sean encomendadas por el titular de la Subsecretaría de su adscripción, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -823,7 +887,9 @@ I. Promover la participación de las mujeres en la vida económica, política, s
 
 II. Promover las relaciones paritarias y equitativas entre mujeres y hombres, con los sectores de la sociedad, así como el Estado y la sociedad, para acceder al desarrollo humano y sustentable de las mujeres en el Estado.
 
-III. Intervenir en acciones en el Estado que permitan alcanzar la autodeterminación y empoderamiento de las mujeres en los ámbitos públicos y privados, obteniendo con ello mejores espacios y el reconocimiento social en cargos de elección popular y dentro de las estructuras de gobierno.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+III. Dirigir a la población social acciones de sensibilización y capacitación en temas de igualdad de género, con la finalidad de empoderar a las mujeres.
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2014)</small>
 
@@ -873,23 +939,39 @@ V. Coordinar relaciones interinstitucionales con las Dependencias Estatales en e
 
 VI. Promover el diseño, la ejecución y evaluación de las políticas públicas que se impulsan en las Dependencias y Entidades de los tres órdenes de Gobierno, promoviendo la transversalidad de la perspectiva de género en el Estado.
 
-VII. Proporcionar asesoría jurídica y psicológica a las mujeres, así como a sus hijos que se encuentren en estado de vulnerabilidad relacionados con asuntos familiares o algún tipo de violencia que establezca la Ley de Acceso a una Vida Libre de Violencia para las Mujeres en el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+VII. Proporcionar asesoría jurídica, psicológica y de trabajo social a las mujeres, así como a sus hijas e hijos que se encuentren en estado de vulnerabilidad, relacionados con asuntos familiares o algún tipo de violencia que establezca la Ley de Desarrollo Constitucional para la Igualdad de Género y Acceso a una Vida Libre de Violencia para las Mujeres.
 
 VIII. Dirigir a los servidores públicos de la Administración Pública en los tres órdenes de Gobierno, acciones de sensibilización y capacitación con perspectiva de género, con la finalidad de que su quehacer institucional incorpore el enfoque de esta perspectiva.
 
-IX. Proponer al titular de la Subsecretaría, la promoción del uso del lenguaje de comunicación con perspectiva de género para la difusión de las acciones encaminadas al empoderamiento de las mujeres en el Estado.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+IX. Proponer al Subsecretario de su adscripción, la promoción del uso del lenguaje incluyente y no sexista, de comunicación con perspectiva de género, para la difusión de las acciones encaminadas al empoderamiento de las mujeres en el Estado.
 
 X. Generar el informe de las acciones que desarrolla la Secretaría, a favor de las mujeres con una visión de perspectiva de género para su promoción en el Estado.
 
 XI. Coordinar campañas de difusión en todos los medios de comunicación en español y diversas lenguas sobre sensibilización y prevención de la violencia hacia las mujeres en comunidades indígenas y no indígena del Estado.
 
-XII. Promover y difundir las leyes sobre la igualdad de trato entre mujeres y hombres y la no discriminación contra las mujeres.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-XIII. Monitorear la operatividad y suministro de información de los sistemas de datos de género, promoviendo la alimentación de dichos sistemas los cuales servirán para promover el diseño y ejecución de las políticas públicas en el Estado.
+XII. Promover y difundir las leyes sobre la igualdad de trato entre mujeres y hombres, y la no discriminación contra las mujeres, en su lengua materna.
 
-XIV. Proporcionar el servicio de biblioteca especializada en enfoque de género, para ofrecer información a la población en general cuando la solicite o requiera;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
 
-XV. Las demás que en el ámbito de su competencia le sean encomendadas por el titular de la Subsecretaría para el Desarrollo Integral de las Mujeres, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XIII. Fortalecer el seguimiento, la operatividad y el suministro al Sistema de Indicadores sobre Casos de Violencia contra las Mujeres, en los registros administrativos del Banco Nacional y Estatal de Datos e Información sobre casos de violencia contra las Mujeres (BANAVIM), actualizando dicho sistema con el objetivo de generar información sobre las causas, consecuencias y frecuencia de la violencia contra las mujeres, para el diseño y ejecución de las políticas públicas en el Estado.
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XIV. Proporcionar el servicio de biblioteca especializada con perspectiva de género, para ofrecer información a la población en general cuando la solicite o requiera.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XV. Intervenir con acciones en el Estado, que permitan alcanzar la autodeterminación y empoderamiento de las mujeres, en los ámbitos públicos y privados, obteniendo con ello mejores espacios y el reconocimiento social en cargos de elección popular y dentro de la estructura de Gobierno.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XVI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el titular de la Subsecretaría para el Desarrollo Integral de las Mujeres, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 34.
 
@@ -899,43 +981,33 @@ a) Departamento de Programas de Microfinanciamiento.
 
 b) Departamento de Fortalecimiento de Capacidades Económicas.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 35.
 
 El titular de la Dirección de Desarrollo Económico, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2014)</small>
+I. Preparar los programas sociales de BANMUJER, así como los apoyos directos de capacitación y productivos, en términos de la normatividad aplicable.
 
-I. Preparar los programas sociales de BANMUJER, otorgándoles créditos con el fin de impulsar la economía familiar en el Estado; así como apoyos directos, de capacitación y productivos, en términos de las Reglas de Operación correspondiente.
+II. Vigilar la operatividad de los programas sociales de BANMUJER, en los términos de la normatividad aplicable.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2014)</small>
-
-II. Vigilar la operatividad de los proyectos de inversiones temporales de BANMUJER de conformidad con lo establecido en las Reglas de Operación que norman dichos proyectos.
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2014)</small>
-
-III. Promover la coordinación interinstitucional con organizaciones sociales, civiles y con los tres órdenes de gobierno, para optimizar el uso de los recursos en la ejecución de los proyectos de inversiones temporales de BANMUJER.
+III. Promover la coordinación interinstitucional con organizaciones sociales y civiles, así (sic) con los tres órdenes de gobierno, para optimizar el uso de los recursos en la ejecución de los programas sociales de BANMUJER.
 
 IV. Proponer al titular de la Subsecretaría, la instrumentación de planes, programas y proyectos de cooperación nacional e internacional para el fortalecimiento de los programas de BANMUJER.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2014)</small>
+V. Preparar los informes de las actividades realizadas en los programas sociales de BANMUJER, para presentarlos ante las instancias correspondientes.
 
-V. Preparar los informes de las actividades realizadas en los proyectos de inversiones temporales de BANMUJER, para presentarlos ante las instancias correspondientes.
+VI. Implementar estrategias para el adecuado uso de los recursos destinados a programas sociales, que contribuyan al mejoramiento de las condiciones económicas de las mujeres en el Estado.
 
-VI. Implementar las estrategias para el adecuado uso de los recursos destinados a proyectos de inversión, que contribuyan al mejoramiento de las condiciones económicas de las mujeres en el Estado.
+VII. Vigilar que las actividades productivas de los programas sociales, sean acordes con las demandas de las mujeres que se encuentran en condiciones de pobreza en el Estado, bajo una perspectiva de igualdad de género.
 
-VII. Vigilar que las actividades productivas de los microfinanciamientos, sean acordes con las demandas de las mujeres urbanas y rurales que se encuentren en situación de pobreza en el Estado, bajo una perspectiva de género.
+VIII. Proponer las adecuaciones que se requieran al marco normativo de los programas sociales y fortalecimiento de las capacidades productivas, gestionando su validación ante las instancias correspondientes.
 
-VIII. Proponer las adecuaciones que se requieran al marco normativo de los microfinanciamientos y fortalecimiento de las capacidades productivas y gestionar su validación ante las instancias correspondientes.
+IX. Coordinar la Planeación Operativa Anual y ejecución de los programas sociales destinados a mujeres en condiciones de pobreza, marginación social y económica, para el fortalecimiento operativo de las actividades realizadas en las Delegaciones Regionales, en los términos de la normatividad aplicable.
 
-IX. Coordinar la Planeación Operativa Anual y ejecución de los Programas de Microfinanciamientos y Fortalecimiento de sus actividades productivas, presentados por las Delegaciones Regionales, destinado a los grupos sociales de mujeres, de acuerdo a la normatividad vigente.
+X. Establecer coordinación entre los tres órdenes de gobierno, la iniciativa privada y organismos no gubernamentales, para que las acciones implementadas contribuyan al fortalecimiento de los programas sociales instrumentados en beneficio de las mujeres en condiciones de pobreza, marginación social y económica en el Estado.
 
-X. Implementar en coordinación con la Dirección de Contabilidad y Control de Cartera, Delegados Regionales y personal técnico, el proceso de revisión y otorgamiento de créditos previo a su autorización.
-
-XI. Establecer coordinación con Dependencias Federales, Estatales, Municipales, iniciativa privada y organismos no gubernamentales en las acciones relacionadas a fortalecer los programas para mujeres en situación de pobreza en el Estado.
-
-XII. Promover ante la instancia correspondiente, la gestión de recursos para ampliar el patrimonio del Fideicomiso de Apoyo a la Economía Social (FAES) y la inclusión de nuevas fuentes financieras Estatales, Municipales, Federales y de la Cooperación Internacional o Privada.
-
-XIII. Las demás que en el ámbito de su competencia le sean encomendadas por el titular de la Subsecretaría de Economía Social BANMUJER, así como, las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XI. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el titular de la Subsecretaría de Economía Social BANMUJER, así como, las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 36.
 
@@ -953,13 +1025,17 @@ El titular de la Dirección de Contabilidad y Control de Cartera, tendrá las at
 
 I. Vigilar el Fondo de protección para Mujeres acreditadas de los programas sociales de BANMUJER.
 
-II. Vigilar el correcto ingreso de los recursos a las cuentas del Fideicomiso Fondo de Apoyo a la Economía Social y cuentas Federales.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+II. Vigilar la correcta recuperación de los recursos otorgados a los diferentes grupos beneficiados con los programas sociales, de acuerdo a la base de datos enviada por la Secretaría de Hacienda del Estado.
 
 III. Establecer sistemas de control de los recursos aportados por otras fuentes de financiamientos Federales y Municipales para los programas de BANMUJER.
 
 IV. Implementar sistemas de información, registros y controles de los reportes de recuperación generados por las Delegaciones Regionales para los diversos programas de crédito que opera BANMUJER.
 
-V. Vigilar el cumplimiento puntual de la integración de la contabilidad del Fideicomiso "Fondo de Apoyo a la Economía Social" (FAES), para su presentación ante la Secretaría de Hacienda.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+V. Vigilar la adecuada integración del soporte documental de las recuperaciones de recursos, de los grupos beneficiados con los programas sociales.
 
 VI. Emitir reportes sobre la calidad de la cartera y restructuración de adeudos a él o la titular de la Subsecretaría de Economía Social, para la toma de decisiones.
 
@@ -973,7 +1049,9 @@ X. Vigilar la operación, actualización y capacitación, para el adecuado funci
 
 XI. Proponer y dar seguimiento al presupuesto anual de operación destinado para esta Dirección, para el cumplimiento de las recuperaciones de los programas de BANMUJER y realizar la gestoría administrativa requerida por la Unidad de Apoyo Administrativo de la Secretaría.
 
-XII. Generar los estados financieros del Fideicomiso "Fondo de Apoyo a la Economía Social" (FAES), de acuerdo a la normatividad establecida por las instancias correspondientes, para su entrega a la Secretaría de Hacienda.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XII. Generar el reporte de la Cartera Vencida, de acuerdo con los datos que emite el Sistema de Control Administrativo Financiero Integral (COAFIN), y de las recuperaciones de recursos de los grupos beneficiados con los programas sociales, que envía a través de la base de datos, la Secretaría de Hacienda del Estado.
 
 XIII. Las demás que en el ámbito de su competencia les sean encomendadas por el titular de la Subsecretaría de Economía Social BANMUJER, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -1041,7 +1119,13 @@ XXVII. Promover el seguimiento de la información emitida a través de los Órga
 
 XXVIII. Participar en la organización y desarrollo de actividades para el fortalecimiento de capacidades humanas y técnicas.
 
-XXIX. Las demás que en el ámbito de su competencia, les sean encomendadas por el titular de la Coordinación de Delegaciones Regionales, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXIX. Proporcionar los documentos, opiniones e informes de su competencia, que les sean solicitados por el personal adscrito en los órganos administrativos que conforman a la Secretaría, así como por los Organismos de la Administración Pública Federal y Estatal; de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXX. Las demás que en el ámbito de su competencia, les sean encomendadas por el titular de la Coordinación de Delegaciones Regionales, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
 
@@ -1104,3 +1188,19 @@ Artículo Cuarto.- El Manual de Organización de la Secretaría, deberá actuali
 Artículo Quinto.- En tanto se expide el Manual de Organización respectivo, la Secretaria resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
 
 Artículo Sexto.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA PARA EL DESARROLLO Y EMPODERAMIENTO DE LAS MUJERES".]
+
+Artículo Primero. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que tengan similar o menor jerarquía y que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. Para las cuestiones no previstas en este Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, resolverá lo conducente.
+
+Artículo Cuarto. El Manual de Organización de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá actualizarse en un plazo no mayor a noventa días hábiles, contados a partir de la publicación del presente Decreto.
+
+Artículo Quinto. En tanto se actualiza el Manual de Organización respectivo, la Secretaria para el Desarrollo y Empoderamiento de las Mujeres, resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto. Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
