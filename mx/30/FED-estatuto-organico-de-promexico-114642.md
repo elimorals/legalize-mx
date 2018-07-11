@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-promexico-114642"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-05-18"
-last_updated: "2016-05-18"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114642&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-05-06"
 
 ESTATUTO ORGÁNICO DE PROMEXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2018.
 
 Estatuto publicado en la Segunda Sección de Diario Oficial de la Federación, el miércoles 18 de Mayo de 2016.
 
@@ -83,7 +83,9 @@ VI.- Coordinación General de Asuntos Jurídicos, y
 
 VII.- Órgano Interno de Control.
 
-La Entidad cuenta además con una Dirección Ejecutiva de Eventos y Servicios al Empresario y una Coordinación de Comunicación Institucional, que estarán adscritas a la Dirección General.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2018)</small>
+
+La Entidad cuenta además con la Coordinación de Comunicación Institucional, que estará adscrita a la Dirección General.
 
 ###### ARTÍCULO 3.
 
@@ -389,7 +391,9 @@ VI.- Identificar los incentivos federales y estatales para la promoción de las 
 
 VII.- Coordinar las acciones entre posibles inversionistas y los diferentes actores públicos y/o privados que inciden en los procesos de negocios en materia de inversión extranjera directa, o que son relevantes para materializar los proyectos de inversión.
 
-La Unidad de Desarrollo Sectorial está a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus atribuciones por las Direcciones Ejecutivas Sectoriales, y la de Modelos de Negocios Internacionales.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2018)</small>
+
+La Unidad de Desarrollo Sectorial está a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus atribuciones por las Direcciones Ejecutivas Sectoriales, la de Modelos de Negocios Internacionales y la de Eventos y Servicios al Empresario.
 
 ###### ARTÍCULO 18.
 
@@ -507,9 +511,11 @@ XI.- Las demás que le confieran las disposiciones jurídicas aplicables o le en
 
 DIRECCIÓN EJECUTIVA DE EVENTOS Y SERVICIOS AL EMPRESARIO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 23.
 
-La Dirección Ejecutiva de Eventos y Servicios al Empresario está adscrita a la Dirección General y tiene las atribuciones siguientes:
+La Dirección Ejecutiva de Eventos y Servicios al Empresario está adscrita a la Unidad de Desarrollo Sectorial y tiene las atribuciones siguientes:
 
 I.- Impulsar e instrumentar procesos, herramientas y modelos innovadores de atención y servicio que permitan una operación eficiente para los beneficiarios de los apoyos de ProMéxico;
 
@@ -857,7 +863,9 @@ Las ausencias o la falta de designación de los Jefes de Unidad, serán suplidas
 
 1. En la Unidad de Promoción de Negocios Globales, por el Director Ejecutivo de Promoción Internacional, y en ausencia de éste, por el Director Ejecutivo de Promoción Nacional;
 
-2. En la Unidad de Desarrollo Sectorial, por el Director Ejecutivo Sectorial "A", en ausencia de éste, por el Director Ejecutivo Sectorial "B", en ausencia de éste, por el Director Ejecutivo Sectorial "C", y en ausencia de éste, por el Director Ejecutivo de Modelos de Negocios Internacionales;
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2018)</small>
+
+2. En la Unidad de Desarrollo Sectorial, por el Director Ejecutivo Sectorial "A", en ausencia de éste, por el Director Ejecutivo Sectorial "B", en ausencia de éste por el Director Ejecutivo de Eventos y Servicios al Empresario, en ausencia de éste,
 
 3. En la Unidad de Inteligencia de Negocios, por el Director Ejecutivo de Estudios y Evaluación de Proyectos, y en ausencia de éste, por el Director Ejecutivo de Estrategia, y
 
@@ -869,9 +877,11 @@ Las ausencias del Coordinador General, serán suplidas por el servidor público 
 
 Cuando se presenten ausencias, o la falta de designación del Director General y del Coordinador General simultáneamente, los asuntos de la Coordinación General quedarán a cargo del servidor público que designe el Jefe de la Unidad que esté encargado de la Dirección General. Lo anterior se realizará mediante el oficio correspondiente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 36.
 
-Las ausencias, o la falta de designación de los Directores Ejecutivos, serán suplidas por los servidores públicos de nivel inmediato inferior que determine el Jefe de cada Unidad. Las ausencias o la falta de designación del Director Ejecutivo de Eventos y Servicios al Empresario serán suplida (sic) por el servidor público de nivel inmediato inferior que determine el Director General.
+Las ausencias, o la falta de designación de los Directores Ejecutivos, serán suplidas por los servidores públicos de nivel inmediato inferior que determine el Jefe de cada Unidad.
 
 Cuando se presenten ausencias, o la falta de designación del Jefe de la Unidad y del Director Ejecutivo simultáneamente, los asuntos de la Dirección Ejecutiva quedarán a cargo del servidor público que designe el Director Ejecutivo encargado. Lo cual se realizará mediante el oficio correspondiente.
 
@@ -902,3 +912,11 @@ Noveno.- Los derechos laborales del personal que, en virtud de lo dispuesto en e
 El presente Estatuto Orgánico fue aprobado por el Comité Técnico del Fideicomiso Público considerado entidad paraestatal denominado ProMéxico, en su Segunda Sesión Extraordinaria 2016, celebrada en la Ciudad de México el 17 de marzo de 2016.
 
 Dado en la Ciudad de México, a los 6 días del mes de mayo de 2016.- El Director General del Fideicomiso Público considerado entidad paraestatal denominado ProMéxico, Francisco Nicolás González Díaz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE PROMÉXICO”.]
+
+ÚNICO.- Las modificaciones al presente Estatuto, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
