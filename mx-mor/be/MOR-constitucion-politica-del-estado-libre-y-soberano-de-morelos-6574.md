@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2018-04-04"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -866,9 +866,9 @@ Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al de
 
 El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el uno de septiembre y terminará el quince de diciembre; el segundo empezará el uno de febrero y concluirá el quince de julio. El Congreso se ocupará, conforme a sus facultades, del examen y la revisión de los informes sobre la cuenta pública del Estado, a través de la Entidad Superior de Auditoría y Fiscalización, mismos que se presentarán trimestralmente, a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario, conforme al avance de gestión financiera en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar y, en su caso, del programa financiero.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
-El Congreso del Estado a más tardar el uno de octubre de cada año, recibirá la Iniciativa de Presupuesto de Egresos del Gobierno del Estado para el Ejercicio Fiscal siguiente, así como las Iniciativas de (sic) Ley de Ingresos del Estado y de los Municipios, para su examen, discusión y aprobación, debiendo aprobarlas a más tardar el quince de diciembre de cada año. Las iniciativas de Presupuesto de Egresos del Estado y de Ley de Ingresos del Estado y de los Municipios deberán apegarse a los objetivos, parámetros cuantificables e indicadores de desempeño, congruentes con la normativa aplicable y con el Plan Estatal de Desarrollo, los Planes Municipales de Desarrollo y sus consecuentes Programas.
+El Congreso del Estado a más tardar el 1 de octubre de cada año recibirá para su examen, discusión y aprobación la iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente en el que se deberá respetar el porcentaje que en términos de esta Constitución está determinado para el Poder Judicial, así como las iniciativas de Ley de Ingresos del Estado y de los Ayuntamientos. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año. Teniendo la obligación el Congreso del Estado de aprobarlas a más tardar el 15 de diciembre de cada año. Los Presidentes Municipales que inicien su encargo, presentarán al Congreso del Estado a más tardar el 1 de febrero la iniciativa de Ley de Ingresos del Ejercicio Fiscal actual. Teniendo la obligación el Congreso del Estado de aprobarlas a más tardar el último día de febrero del año que corresponda. De manera transitoria, se utilizarán los parámetros aprobados para el Ejercicio Fiscal inmediato anterior de cada ayuntamiento, para los meses de enero y febrero o hasta en tanto la Legislatura apruebe la nueva Ley de Ingresos.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -998,9 +998,11 @@ III Bis.- Solicitar a la Comisión Nacional de los Derechos Humanos que investig
 
 IV.- Crear o suprimir comisiones, empleos o cargos públicos en el Estado y señalar las dotaciones presupuestales que correspondan.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2007)</small>
+(NOTA: EL 5 DE DICIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 44/2024, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE MORELOS, CONSISTENTE EN LAS BASES PARA LA DISTRIBUCIÓN INTERNA DEL PRESUPUESTO PARA LOS TRIBUNALES DEL PODER JUDICIAL DEL ESTADO DE MORELOS, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE MORELOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
 
-V.- Fijar los gastos del Estado y establecer las contribuciones necesarias para cubrirlos. Asimismo, autorizar en el Presupuesto de Egresos las erogaciones plurianuales necesarias para cubrir las obligaciones derivadas de empréstitos y de contratos de colaboración público privada que se celebren con la previa autorización del Congreso; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+V.- Fijar los gastos del Estado y establecer las contribuciones necesarias para cubrirlos. Asimismo, debe autorizar en el Presupuesto de Egresos las erogaciones plurianuales necesarias para cubrir las obligaciones derivadas de empréstitos y de contratos de colaboración público privada que se celebren con la previa autorización del Congreso; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos. Además deberá asignar en cada ejercicio fiscal al Poder Judicial del Estado una partida equivalente al cuatro punto siete por ciento del monto total del gasto programable autorizado en el Decreto de Presupuesto de Egresos que anualmente aprueba;
 
 VI.- Legislar sobre todo aquello que la Constitución General de la República no encomiende expresamente al Congreso de la Unión.
 
@@ -2294,6 +2296,12 @@ Las leyes determinarán los procedimientos que habrán de seguirse para sustanci
 
 La Ley establecerá y organizará los Tribunales, garantizará la independencia de Magistrados y Jueces en el ejercicio de sus funciones, determinará sus atribuciones y marcará los procedimientos a que deberán sujetarse para ejercitarlas. Los nombramientos de los Magistrados y Jueces, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la Profesión Jurídica.
 
+(NOTA: EL 5 DE DICIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 44/2024, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE MORELOS, CONSISTENTE EN LAS BASES PARA LA DISTRIBUCIÓN INTERNA DEL PRESUPUESTO PARA LOS TRIBUNALES DEL PODER JUDICIAL DEL ESTADO DE MORELOS, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERÍODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE MORELOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+La Ley Orgánica del Poder Judicial establecerá las bases para la distribución interna entre los Tribunales que conforman al Poder Judicial, respecto del presupuesto de egresos que anualmente reciba dicho Poder.
+
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
 
 ###### Artículo 88.
@@ -2338,9 +2346,9 @@ El Congreso del Estado conforme a sus facultades, decide sobre la designación d
 
 El retiro forzoso de los Magistrados se producirá al cumplir setenta años de edad o por sobrevenir incapacidad física o mental que imposibilite el desempeño del cargo o de manera voluntaria. Tendrán derecho a un haber por retiro en forma proporcional al tiempo en que ejercieron sus funciones en los términos de ley.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
-Asimismo, la ley de la materia deberá prever la forma y proporción en que se otorgará el haber por retiro y la existencia de un mecanismo para generar los recursos para el pago del mismo a partir del presupuesto que se destine anualmente al Tribunal Superior de Justicia y a través de aportaciones que realicen los Magistrados. En todo caso se evitará que el pago repercuta como un gasto excesivo a cargo del presupuesto de dicho poder.
+Así mismo, la Ley en la materia, preverá la forma y proporción en que se otorgará el haber por retiro y la existencia de un mecanismo para generar los recursos para el pago del mismo a partir de la suficiencia presupuestal del Poder Judicial, evitando que su pago repercuta como un gasto excesivo a cargo del Presupuesto de dicho Poder.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -2426,7 +2434,11 @@ IV.- Iniciar investigación sobre la conducta de algún otro funcionario o emple
 
 V.- Elaborar el presupuesto del Poder Judicial sujetándose a las bases previstas en el artículo 131 de esta Constitución y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado, con aprobación previa del Pleno;
 
-VI.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados de los Tribunales del Poder Judicial, según el caso y de acuerdo con lo que la ley establezca;
+> <small>[N. DE E. SE SUGIERE CONSULTAR LA CRONOLOGÍA DE LA PRESENTE FRACCIÓN]</small>
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, así como el de los juzgados y demás órganos judiciales e integrar el propuesto por el Tribunal Estatal Electoral, por el Tribunal de lo Contencioso Administrativo y por el Tribunal Unitario de Justicia para Adolescentes y remitir el proyecto global del Presupuesto del Poder Judicial para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
 VII.- Determinar la creación de los juzgados, secretarías de acuerdos y actuarías que requiera la administración de justicia, de acuerdo con un estudio de factibilidad presupuestal, y
 
@@ -5313,3 +5325,11 @@ DÉCIMA. Los efectos del régimen transitorio de las reformas constitucionales p
 DÉCIMA SEGUNDA (SIC). En respeto irrestricto a la no retroactividad de la ley, el actual Fiscal Especializado en Combate a la Corrupción, continuará desempeñando su cargo en las condiciones en las que lo ha hecho hasta ahora y podrá cumplir con la temporalidad que establece su nombramiento.
 
 DÉCIMA TERCERA. Una vez que haya concluido la prohibición para realizar modificaciones en materia electoral por lo menos noventa días antes de que inicie el proceso electoral que establece el artículo 115 fracción II de la Constitución Federal, o bien hasta que se haya resuelto el último recurso de impugnación, el Congreso del Estado de Morelos deberá realizar las adecuaciones necesarias al artículo 26 de la Constitución Política del Estado Libre y Soberano de Morelos, para establecer que los magistrados especializados serán únicamente magistrados. Mientras se realiza la modificación antes mencionada, se entenderá para todos los efectos conducentes que, por Magistrados Especializados, se referirá al Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y NUEVE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
