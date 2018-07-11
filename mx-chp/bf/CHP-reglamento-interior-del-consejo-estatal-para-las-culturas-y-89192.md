@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-estatal-para-las-culturas-y-891
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-27"
-last_updated: "2012-06-27"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de junio de 2012.
 
@@ -45,13 +45,17 @@ Reglamento Interior del Consejo Estatal para las Culturas y las Artes de Chiapas
 
 Las disposiciones del presente Reglamento Interior, son de orden público, de interés general y de observancia obligatoria para los servidores públicos adscritos al Consejo Estatal para las Culturas y las Artes de Chiapas, las cuales tienen por objeto, regular las bases para la organización, funcionamiento y administración de los Órganos Administrativos que lo integran.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 2°.
 
-El Consejo Estatal para las Culturas y las Artes de Chiapas, es un Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, mismo que le corresponde el despacho de los asuntos que le confiere la Ley Orgánica del Consejo Estatal para las Culturas y las Artes de Chiapas, la Ley de las Culturas y las Artes de Chiapas, el presente Reglamento Interior y demás disposiciones legales aplicables, dentro del ámbito de su competencia.
+El Consejo Estatal para las Culturas y las Artes de Chiapas, es un Organismo Público Descentralizado de la Administración Pública Estatal con Personalidad Jurídica y patrimonio propio, autonomía administrativa presupuestal, técnica, de gestión, de operación y de ejecución, mismo que le corresponde el despacho de los asuntos que le confiere la Ley Orgánica del Consejo Estatal para las Culturas y las Artes de Chiapas, la Ley de las Culturas y las Artes de Chiapas, el presente Reglamento Interior y demás disposiciones legales aplicables, dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Artículo 3°.
 
-El Consejo Estatal para las Culturas y las Artes de Chiapas, tiene como objetivo principal, la aplicación de instrumentos operativos de planeación, organización, gestión, ejecución, seguimiento, control y evaluación para desarrollar con criterios de calidad, sus funciones sustantivas en materia de preservación, promoción, fomento, investigación, difusión y desarrollo del patrimonio cultural material e inmaterial del Estado de Chiapas; así como la coordinación, administración y ejecución de la operatividad del Museo del Café; además de la generación de espacios de diálogo con otras culturas de México y el Mundo, logrando que la sociedad chiapaneca rescate y preserve sus valores artísticos y culturales, fortalezca su identidad, sus expresiones artísticas y tradiciones populares.
+El Consejo Estatal para las Culturas y las Artes de Chiapas, tiene como objeto principal, la aplicación de instrumentos operativos de planeación, organización, gestión, ejecución, seguimiento, control y evaluación para desarrollar con criterios de calidad, sus funciones sustantivas en materia de preservación, promoción, fomento, investigación, difusión y desarrollo del patrimonio cultural material e inmaterial del Estado de Chiapas, así como la coordinación, administración y ejecución de la operatividad del Museo del Café, y del Museo del Niño respectivamente; así mismo impulsar el reconocimiento, valoración, respeto y desarrollo de las culturas, lenguas, arte y literatura de los pueblos indígenas, con plena observancia a su diversidad; además de la generación de espacios de diálogo con otras culturas de México y el Mundo, logrando que la sociedad chiapaneca rescate y preserve sus valores artísticos y culturales, fortalezca su identidad, sus expresiones artísticas y tradiciones populares.
 
 ###### Artículo 4°.
 
@@ -61,7 +65,7 @@ El Consejo Estatal para las Culturas y las Artes de Chiapas, en coordinación co
 
 Para los efectos del presente Reglamento Interior, se entenderá por:
 
-l. Ejecutivo del Estado: Al Titular del Poder Ejecutivo del Estado de Chiapas.
+I. Ejecutivo del Estado: Al Titular del Poder Ejecutivo del Estado de Chiapas.
 
 II. Consejo: Al Consejo Estatal para las Culturas y las Artes de Chiapas.
 
@@ -81,9 +85,11 @@ IX. Órganos Administrativos: A la Dirección General, Unidades, Comisaría, Coo
 
 X. Reglamento Interior: Al Reglamento Interior del Consejo Estatal para las Culturas y las Artes de Chiapas.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 6°.
 
-Los Titulares de los Órganos Administrativos que integran el Consejo, implementarán acciones para la protección, custodia, resguardo y conservación de los archivos a su cargo, en los términos de la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+Los Titulares de los Órganos Administrativos que integran el Consejo, implementaran acciones para la protección custodia, resguardo y conservación de los archivos a su cargo, en los términos de la Ley de Transparencia y el Acceso a la Información Pública del Estado de Chiapas.
 
 ## Título Segundo. De la Organización del Consejo y Atribuciones del Director General
 
@@ -113,27 +119,35 @@ b) Dirección de la Red de Bibliotecas Públicas.
 
 c) Dirección de Publicaciones.
 
-d) Centro Cultural de Chiapas "Jaime Sabines".
+d) (DEROGADO, P.O. 11 DE JULIO DE 2018)
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 11 DE JULIO DE 2018)</small>
 
 III. Coordinación de Enseñanza y Fomento Artístico.
 
-a) Teatro de la Ciudad.
+a) Centro Estatal de Lenguas, Arte y Literatura Indígenas.
 
-b) Dirección de Promoción Cultural.
+b) Centro Cultural de Chiapas “Jaime Sabines”.
 
-c) Dirección de Difusión Cultural.
+c) Dirección de Promoción Cultural.
+
+d) Teatro de la Ciudad.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Artículo 8°.
 
-El Director General, para el cumplimiento de sus atribuciones, contará con la estructura orgánica y plantilla de personal necesario, de conformidad con el presupuesto de egresos que le sea autorizado al Consejo.
+El Director General, para el cumplimiento de sus atribuciones, contará con la estructura orgánica y plantilla de plazas necesarias que apruebe el Consejo Directivo, con base a las necesidades y disponibilidad presupuestal.
 
 ###### Artículo 9°.
 
 Para el despacho de los asuntos competencia del Consejo, los Titulares de los Órganos Administrativos, desempeñarán las atribuciones conferidas en el presente Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 10.
 
-El desempeño de los servidores públicos del Consejo, se regirá por los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y demás disposiciones legales aplicables.
+El desempeño de los servidores públicos del Consejo, se regirá por los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia, que rigen al servicio público, en términos de la Ley de Responsabilidades Administrativas para el Estado de Chiapas y demás disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -195,11 +209,15 @@ XXI. Establecer y desarrollar mecanismos de coordinación con la Secretaría de 
 
 XXII. Establecer con las Casas Editoriales, acuerdos para la publicación de libros, folletos y revistas que contribuyan a la difusión de la cultura del Estado.
 
-XXIII. Coordinar las actividades que se realicen en la Casa de Museo "Dr. Belisario Domínguez", Museo de Arte "Hermila Domínguez", Centro Cultural de Chiapas "Jaime Sabines" y el "Museo del Café".
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXIII. Coordinar las acciones que se realicen en la Casa Museo “Dr. Belisario Domínguez”, Museo de Arte “Hermila Domínguez”, Centro Cultural de Chiapas “Jaime Sabines”, “Museo del Café”, “Museo de San Cristóbal” (MUSAC) y “Museo del Niño”.
 
 XXIV. Fomentar programas para el reconocimiento de las culturas populares, tradiciones propias y locales y creaciones del ingenio cotidiano, como parte de las raíces de la identidad cultural de los pueblos y comunidades de Chiapas.
 
-XXV. Coordinar con el Instituto Casa Chiapas y las autoridades culturales, los instrumentos de atención a los principios rectores en materia de artesanías y arte popular definidos en la Ley.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXV. Coordinar con el Instituto Casa de las Artesanías de Chiapas, y las autoridades culturales, los instrumentos de atención a los principios rectores en materia de artesanías y arte popular definidos en la Ley.
 
 XXVI. Determinar los instrumentos operativos para identificar, investigar, valorar, difundir y conservar el patrimonio cultural y artístico del Estado en términos de la Ley.
 
@@ -217,13 +235,27 @@ XXXII. Establecer instrumentos para asesorar a grupos, organizaciones, individuo
 
 XXXIII. Implementar las políticas tendentes a la formación integral de artistas e investigadores chiapanecos en todas las ramas y modalidades del arte, la técnica y la ciencia en el ámbito cultural.
 
-XXXIV. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, el Consejo Directivo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXXIV. Impulsar la participación de los pueblos indígenas en la definición e instrumentación de políticas y acciones culturales observando el principio del consentimiento libre, previo e informado de los mismos.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXXV. Fomentar la participación de los pueblos indígenas en la planeación, ejecución y evaluación de los programas culturales que tengan injerencia en sus territorios.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXXVI. Celebrar convenios de colaboración cultural con los pueblos indígenas para el financiamiento y desarrollo de sus acciones de fortalecimiento cultural y lingüístico.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXXVII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, el Consejo Directivo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 14.
 
 El Director General, tendrá las Atribuciones Indelegables siguientes:
 
-l. Proponer al Consejo Directivo para su aprobación, las normas, políticas, procedimientos, programas y acciones en materia de cultura y artes de Chiapas.
+I. Proponer al Consejo Directivo para su aprobación, las normas, políticas, procedimientos, programas y acciones en materia de cultura y artes de Chiapas.
 
 II. Celebrar Acuerdos, Contratos, Convenios Marco de Colaboración, Coordinación y Colaboración Cultural con particulares, nacionales o extranjeros, Organizaciones o Instituciones Públicas o Privadas, Nacionales o Extranjeras, para promover y difundir los aspectos científicos, artísticos y culturales del Estado de Chiapas.
 
@@ -231,7 +263,9 @@ III. Proponer para la aprobación del Consejo Directivo, el Anteproyecto del Pre
 
 IV. Emitir documentos administrativos para el suministro y control de los recursos del Consejo.
 
-V. Presentar al Consejo Directivo, los programas y proyectos para la preservación, promoción, fomento, investigación, difusión y desarrollo del patrimonio cultural, así como el Informe de Gobierno, competencia del Consejo.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+V. Presentar al Consejo Directivo, los programas y proyectos para la preservación, promoción, fomento, investigación, difusión y desarrollo del patrimonio cultural material e inmaterial; así como el Informe de Gobierno, competencia del Consejo.
 
 VI. Presentar al Consejo Directivo, el desarrollo de las acciones encaminadas para el cumplimiento de los objetivos del Consejo.
 
@@ -277,7 +311,17 @@ XXVI. Solicitar al Comisario Público, el examen y evaluación de los sistemas, 
 
 XXVII. Proponer al Consejo Directivo, las políticas de distribución, intercambio, donación y recuentos de las ediciones que realice el Consejo, en librerías, Casas de Cultura, Bibliotecas Públicas y Universidades a nivel nacional e internacional.
 
-XXVIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, el Consejo Directivo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXVIII. Presentar al Consejo Directivo los programas y proyectos de fortalecimiento y desarrollo de las lenguas, culturas y artes indígenas, así como para la salvaguarda del patrimonio cultural, material e inmaterial de los pueblos indígenas.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXIX. Aprobar las constancias del dominio oral o escrito de las lenguas indígenas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXX. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, el Consejo Directivo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ## Título Tercero. De los Órganos Administrativos del Consejo
 
@@ -371,7 +415,7 @@ c) Área de Recursos Materiales y Servicios Generales.
 
 El Titular de la Unidad de Apoyo Administrativo, tendrá las Atribuciones siguientes:
 
-l. Administrar eficientemente los recursos humanos, financieros y materiales asignados al Consejo, con base a las normas, políticas y procedimientos establecidos en los manuales correspondientes.
+I. Administrar eficientemente los recursos humanos, financieros y materiales asignados al Consejo, con base a las normas, políticas y procedimientos establecidos en los manuales correspondientes.
 
 II. Presentar para firma al Director General, los documentos administrativos para el suministro y control de los recursos humanos, financieros y materiales del Consejo.
 
@@ -405,7 +449,9 @@ XVI. Vigilar la correcta aplicación de las normas correspondientes para el mane
 
 XVII. Coordinar las acciones encaminadas a la adquisición, administración y control de inventarios de bienes materiales y de servicios de mantenimiento, conservación y restauración de los mismos, se apeguen a los ordenamientos legales establecidos.
 
-XVIII. Vigilar conjuntamente con la Secretaría de la Función Pública y la Unidad de Apoyo Jurídico, las normas y procedimientos para la entrega recepción de los Órganos Administrativos del Consejo.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XVIII. Vigilar conjuntamente con la Secretaria de la Contraloría General y la Unidad de Apoyo Jurídico, las normas y procedimientos para la entrega de (sic) recepción de los Órganos Administrativos del Consejo.
 
 XIX. Celebrar la contratación para la adquisición y suministro de los bienes y servicios que requiera el Consejo, con base a la normatividad existente y con intervención de los comités de adquisiciones y contrataciones de obras públicas, de acuerdo a la Ley de Obra Pública del Estado de Chiapas y la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas.
 
@@ -435,15 +481,15 @@ XXXI. Vigilar el Programa Interno de Protección Civil del Consejo en el ámbito
 
 XXXII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 19.
 
 La Unidad de Planeación, tendrá los Órganos Administrativos siguientes:
 
-a) Área de Programación y Presupuesto.
+a) Área de Seguimiento y Estadística.
 
-b) Área de Seguimiento y Estadística.
-
-c) Área de Proyectos Especiales.
+b) Área de Proyectos, Programación y Presupuesto.
 
 ###### Artículo 20.
 
@@ -481,7 +527,7 @@ XIV. Las demás atribuciones que en el ámbito de su competencia le sean encomen
 
 El Titular de la Unidad de Informática, tendrá las Atribuciones siguientes:
 
-l. Proponer al Director General, proyectos de tecnologías de información, de servicios electrónicos y de informática, para contribuir en la calidad de los servicios que proporciona el Consejo.
+I. Proponer al Director General, proyectos de tecnologías de información, de servicios electrónicos y de informática, para contribuir en la calidad de los servicios que proporciona el Consejo.
 
 II. Vigilar el cumplimiento de las disposiciones en materia de tecnologías de información, servicios electrónicos y de informática, en las acciones de los Órganos Administrativos que conforman el Consejo.
 
@@ -515,7 +561,7 @@ XV. Las demás atribuciones que en el ámbito de su competencia le sean encomend
 
 El Titular de la Unidad de Apoyo Jurídico, tendrá las Atribuciones siguientes:
 
-l. Representar legalmente al Director General y al Consejo, ante todo tipo de autoridades judiciales, administrativas, del trabajo, militares, fiscales y del fuero Federal, Estatal o Municipal; así como ante sociedades, asociaciones y particulares en los procedimientos de cualquier índole, con las facultades generales y especiales de un mandato para pleitos y cobranzas.
+I. Representar legalmente al Director General y al Consejo, ante todo tipo de autoridades judiciales, administrativas, del trabajo, militares, fiscales y del fuero Federal, Estatal o Municipal; así como ante sociedades, asociaciones y particulares en los procedimientos de cualquier índole, con las facultades generales y especiales de un mandato para pleitos y cobranzas.
 
 La representación a que se refiere esta fracción, comprende el desahogo de todo tipo de pruebas, promoción de incidentes, rendición de informes, presentación de recursos o medios de impugnación en cualquier acción o controversia ante cualquier autoridad, y constituye una representación amplísima.
 
@@ -591,7 +637,9 @@ XXII. Proponer al Director General, la celebración de Acuerdos, Contratos, Conv
 
 XXIII. Participar en las reuniones del Grupo Estratégico para evaluar los órganos administrativos y los diversos eventos culturales, de acuerdo al ámbito de su competencia.
 
-XXIV. Proponer al Director General los lineamientos normativos para garantizar la preservación de la propiedad intelectual cultural del pueblo chiapaneco.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXIV. Proponer al Director General los lineamientos normativos para garantizar la preservación de la propiedad intelectual cultural del pueblo chiapaneco; así como los planes y proyectos en materia de su competencia.
 
 XXV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -605,7 +653,7 @@ b) Dirección de Red de Bibliotecas Públicas.
 
 c) Dirección de Publicaciones.
 
-d) Centro Cultural de Chiapas "Jaime Sabines".
+d) (DEROGADO, P.O. 11 DE JULIO DE 2018)
 
 ###### Artículo 25.
 
@@ -633,7 +681,9 @@ X. Establecer los instrumentos operativos para la elaboración y operación del 
 
 XI. Vigilar los instrumentos operativos para identificar, difundir el Patrimonio Cultural y Artístico del Estado, en todas sus expresiones artísticas y culturales, en términos de la Ley.
 
-XII. Coordinar las actividades que se realicen en la Casa Museo "Dr. Belisario Domínguez", Museo de Arte "Hermila Domínguez", Centro Cultural de Chiapas "Jaime Sabines" y el "Museo del Café".
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XII. Coordinar las acciones que se realicen en la Casa Museo “Dr. Belisario Domínguez”, Museo de Arte “Hermila Domínguez”, “Museo del Café”, “Museo de San Cristóbal” (MUSAC) y “Museo del Niño”.
 
 XIII. Proponer al Director General, políticas para el intercambio de conocimientos para el cultivo, productividad y comercialización del café, con instituciones u Organismos Gubernamentales y no Gubernamentales nacionales o internacionales.
 
@@ -647,15 +697,19 @@ XVII. Promover la cultura y el consumo responsable del café de Chiapas, con la 
 
 XVIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 26.
 
 La Coordinación de Enseñanza y Fomento Artístico, tendrá los Órganos Administrativos siguientes:
 
-a) Teatro de la Ciudad.
+a) Centro Estatal de Lenguas, Arte y Literatura Indígenas.
 
-b) Dirección de Promoción Cultural.
+b) Centro Cultural de Chiapas “Jaime Sabines”.
 
-c) Dirección de Difusión Cultural.
+c) Dirección de Promoción Cultural.
+
+d) Teatro de la Ciudad.
 
 ###### Artículo 27.
 
@@ -685,19 +739,67 @@ XI. Contribuir con la cultura y las artes, a través de los eventos programados 
 
 XII. Coordinar los programa de la Orquesta Sinfónica de Chiapas e impulsar su enseñanza-aprendizaje.
 
-XIII. Las demás Atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XIII. Proponer al Director General los programas y proyectos de fortalecimiento y desarrollo de las lenguas, culturas y artes indígenas; así como para la salvaguarda del patrimonio cultural, material e inmaterial de los pueblos indígenas.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XIV. Promover convenios de colaboración con personas e instituciones privadas y públicas en el ámbito municipal, estatal, nacional e internacional para fomentar la investigación, docencia y difusión de las lenguas, culturas y artes indígenas.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XV. Coordinar el desarrollo y fortalecimiento de la cultura indígena, mediante la aportación de planes y programas tendentes a fomentar el conocimiento, apreciación y ejercicio de las artes y la investigación científica de las lenguas y culturas indígenas de nuestra entidad.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XVI. Generar la participación de los pueblos indígenas en la definición e instrumentación de políticas y acciones culturales observando el principio del consentimiento libre, previo e informado de los mismos.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XVII. Fomentar el reconocimiento, protección y conservación de los espacios, sitios y lugares inherentes al patrimonio cultural inmaterial de los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XVIII. Fomentar la participación de los pueblos indígenas en la planeación, ejecución y evaluación de los programas culturales que tengan injerencia en sus territorios.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XIX. Promover la obtención de recursos humanos, materiales y financieros ante organismos públicos y privados para la realización de acciones culturales indígenas.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XX. Promover la celebración de convenios de colaboración cultural con los pueblos indígenas para el financiamiento y desarrollo de las acciones de fortalecimiento cultural y lingüístico.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXI. Fomentar la publicación de textos sobre las lenguas y culturas indígenas.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXII. Coordinar la expedición de constancias del dominio oral o escrito de las lenguas indígenas.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+XXIII. Coordinar las actividades que se realicen en el Centro Cultural de Chiapas “Jaime Sabines”.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE JULIO DE 2018)</small>
+
+XXIV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2018)</small>
 
 ### Capítulo III
 
-De la Integración de las Direcciones, Centro Cultural de Chiapas "Jaime Sabines",
+De la integración de las Direcciones, Centro Estatal de Lenguas, Arte y Literatura Indígenas, Centro Cultural de Chiapas “Jaime Sabines”, Teatro de la Ciudad y Atribuciones de sus Titulares
 
-Teatro de la Ciudad y Atribuciones de sus Titulares
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Artículo 28.
 
-Para el Despacho de los asuntos competencia del Consejo, los Titulares de las Direcciones, Centro Cultural "Jaime Sabines" y Teatro de la Ciudad, tendrán las Atribuciones Generales siguientes:
+Para el despacho de los asuntos competencia del Consejo, los Titulares de las Direcciones, Centro Estatal de Lenguas, Arte y Literatura Indígenas, Centro Cultural de Chiapas “Jaime Sabines” y Teatro de la Ciudad, tendrán las Atribuciones Generales siguientes:
 
-l. Acordar con el Coordinador de su adscripción, la resolución y despacho de los asuntos de su competencia; así como los que le encomiende, e informar el avance de los mismos.
+I. Acordar con el Coordinador de su adscripción, la resolución y despacho de los asuntos de su competencia; así como los que le encomiende, e informar el avance de los mismos.
 
 II. Proponer al Coordinador de su adscripción, las normas, políticas y procedimientos, relacionados con las acciones competencia de los Órganos Administrativos a su cargo y vigilar su cumplimiento.
 
@@ -747,21 +849,21 @@ XXIV. Difundir entre la población chiapaneca, los servicios y recursos con que 
 
 XXV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Coordinador de su adscripción; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 29.
 
 La Dirección de Patrimonio e Investigación Cultural, tendrá los Órganos Administrativos siguientes:
 
-a) Departamento de Investigación del Patrimonio Cultural.
+a) Departamento de Investigación, Conservación y Restauración del Patrimonio Cultural.
 
-b) Departamento de Conservación y Restauración del Patrimonio Cultural.
-
-c) Departamento de Museos Estatales.
+b) Departamento de Museos Estatales.
 
 ###### Artículo 30.
 
 El Titular de la Dirección de Patrimonio e Investigación Cultural, tendrá las Atribuciones siguientes:
 
-l. Promover la investigación y preservación del Patrimonio Cultural, que identifique al Estado de Chiapas de otras culturas.
+I. Promover la investigación y preservación del Patrimonio Cultural, que identifique al Estado de Chiapas de otras culturas.
 
 II. Fomentar la participación del Estado y de la sociedad, para la protección, enriquecimiento, restauración, uso, disfrute del patrimonio cultural y la realización de estudios científicos en la materia.
 
@@ -773,7 +875,9 @@ V. Implementar mecanismos de colaboración con Instituciones Públicas y Privada
 
 VI. Gestionar ante las instancias correspondientes, la profesionalización de los recursos humanos dedicados al cuidado y mantenimientos (sic) del patrimonio cultural.
 
-VII. Coordinar las acciones que realicen el Museo de Arte "Hermila Domínguez" y la Casa de Museo "Dr. Belisario Domínguez", mediante exposiciones itinerantes.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+VII. Dirigir las actividades que se realicen en la Casa de Museo Dr. Belisario Domínguez, Museo de Arte “Hermila Domínguez” y el Museo de San Cristóbal (MUSAC), mediante exposiciones itinerantes.
 
 VIII. Promover la creación de nuevos museos, vinculados con la historia local y regional de Chiapas, como parte del patrimonio cultural.
 
@@ -793,19 +897,23 @@ XV. Ejecutar el concurso Bienal "El Patrimonio Cultural de Chiapas en Fotografí
 
 XVI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Coordinador de su adscripción, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 31.
 
-La Dirección de la Red de Bibliotecas Públicas, tendrá los Órganos Administrativos siguientes:
+La Dirección de la Red de Bibliotecas tendrá los Órganos Administrativos Siguientes…
 
-a) Departamento de la Red de Bibliotecas.
+a) Oficina de Servicios Especiales y Básicos.
 
-b) Departamento de Biblioteca Pública Central.
+b) Oficina de Apoyo Bibliotecario.
+
+c) Oficina de Procesos y Fomento a la Lectura.
 
 ###### Artículo 32.
 
 El Titular de la Dirección de la Red de Bibliotecas Públicas, tendrá las Atribuciones siguientes:
 
-l. Gestionar ante la Dirección General de Bibliotecas del Consejo Nacional para la Cultura y las Artes, el establecimiento de los servicios bibliotecarios públicos, con la participación de los Ayuntamientos Municipales.
+I. Gestionar ante la Dirección General de Bibliotecas del Consejo Nacional para la Cultura y las Artes, el establecimiento de los servicios bibliotecarios públicos, con la participación de los Ayuntamientos Municipales.
 
 II. Gestionar ante el Consejo Nacional para la Cultura y las Artes, la dotación periódica de libros para las bibliotecas públicas que están integradas a la Red Estatal.
 
@@ -849,7 +957,7 @@ b) Departamento de Edición y Corrección de Estilos.
 
 El Titular de la Dirección de Publicaciones, tendrá las Atribuciones siguientes:
 
-l. Acordar con el Coordinador Operativo Técnico, el programa Anual de Publicaciones, para que sea dictaminada por el Consejo Editorial.
+I. Acordar con el Coordinador Operativo Técnico, el programa Anual de Publicaciones, para que sea dictaminada por el Consejo Editorial.
 
 II. Diseñar y vigilar la edición e impresión de los libros, que sean aprobados por el Consejo Editorial.
 
@@ -864,6 +972,52 @@ VI. Coordinar los trabajos de investigación, análisis, producción y difusión
 VII. Acordar con el Director General del Consejo, la suscripción de convenios de coedición, de cesión de derechos, de consignación de libros o revistas de carácter cultural, con instituciones públicas o privadas, con personas físicas o morales, nacionales o internacionales.
 
 VIII. Las demás Atribuciones que en el ámbito de su competencia le sean encomendadas por el Coordinador de su adscripción, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+###### Artículo 34 Bis.
+
+El Centro Estatal de Lenguas, Arte y Literatura Indígenas, tendrán los órganos administrativos siguientes:
+
+a) Delegación Administrativa.
+
+b) Departamento de Investigación de Lenguas y Artes.
+
+c) Departamento de Promoción y Gestión Cultural.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
+
+###### Artículo 34 Ter.
+
+El Titular del Centro Estatal de Lenguas, Arte y Literatura Indígenas, tendrá las atribuciones siguientes:
+
+I. Proponer al Coordinador de Enseñanza y Formato Artístico, los programas y proyectos de fortalecimiento y desarrollo de las lenguas, culturas y artes indígenas; así como para la salvaguarda del patrimonio cultural material e inmaterial de los pueblos indígenas.
+
+II. Promover convenios de colaboración con personas e instituciones privadas y públicas en el ámbito municipal, estatal, federal, nacional e internacional para fomentar la investigación, docencia y difusión de las lenguas, culturas y artes indígenas.
+
+III. Participar en el desarrollo y fortalecimiento de la cultura indígena, mediante la aportación de planes y programas tendentes a fomentar el conocimiento, apreciación y ejercicio de las artes y la investigación científica de las lenguas y culturas indígenas de nuestra entidad.
+
+IV. Contribuir al reconocimiento, apreciación, respeto y fortalecimiento de las manifestaciones lingüísticas, culturales y artísticas de los pueblos indígenas; así como, promover el diálogo y la convivencia intercultural.
+
+V. Promover la instrumentación de programas para la formación de artistas y creadores, preferentemente locales, que conozcan, defiendan y desarrollen los valores universales y los propios del Estado, en el campo de las lenguas, arte y literatura indígenas.
+
+VI. Generar la participación de los pueblos indígenas en la definición e instrumentación de políticas y acciones culturales observando el principio del consentimiento libre, previo e informado de los mismos.
+
+VII. Promover el reconocimiento, protección y conservación de los espacios, sitios y lugares inherentes al patrimonio cultural inmaterial de los pueblos y comunidades indígenas.
+
+VIII. Promover la participación de los pueblos indígenas en la planeación, ejecución y evaluación de los programas culturales que tengan injerencia en sus territorios.
+
+IX. Proponer la creación y/o incorporación de casas de cultura en los pueblos indígenas; así como instrumentar programas de promoción y gestión cultural para el funcionamiento de las mismas, en el ámbito de su competencia.
+
+X. Promover la obtención de recursos humanos, materiales y financieros ante organismos públicos y privados para la realización de acciones culturales indígenas.
+
+XI. Instrumentar convenios de colaboración cultural con los pueblos indígenas para el financiamiento y desarrollo de sus acciones de fortalecimiento cultural y lingüístico.
+
+XII. Promover la publicación de textos sobre las lenguas, culturas y artes indígenas.
+
+XIII. Emitir constancias del dominio oral o escrito de las lenguas indígenas.
+
+XIV. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Coordinador de su adscripción, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 35.
 
@@ -889,7 +1043,9 @@ V. Realizar talleres artísticos y culturales, que promuevan la creatividad y la
 
 VI. Establecer los mecanismos de coordinación y colaboración con diversas instituciones locales, nacionales e internacionales, para la promoción de eventos artísticos y culturales.
 
-VII. Acordar con el Coordinador Operativo Técnico, los proyectos culturales y artísticos que se realicen en el Centro Cultural de Chiapas "Jaime Sabines".
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+VII. Acordar con el Coordinador de Enseñanza y Fomento Artístico, los proyectos culturales artísticos que se realicen en el Centro Cultural de Chiapas “Jaime Sabines”
 
 VIII. Administrar el uso de los espacios del Centro Cultural de Chiapas "Jaime Sabines" y garantizar su conservación mediante un programa de mantenimiento.
 
@@ -899,7 +1055,7 @@ IX. Las demás Atribuciones que en el ámbito de su competencia le sean encomend
 
 El Titular del Teatro de la Ciudad, tendrá las Atribuciones siguientes:
 
-l. Vigilar los eventos educativos, culturales, artísticos y técnicos del Teatro de la Ciudad.
+I. Vigilar los eventos educativos, culturales, artísticos y técnicos del Teatro de la Ciudad.
 
 II. Promover la Cultura y las Artes, a través de los eventos programados por el Consejo y el propio Titular del Teatro de la Ciudad.
 
@@ -917,7 +1073,9 @@ VIII. Generar mensualmente el programa de actividades Artísticas-Culturales del
 
 IX. Emitir mensualmente el informe de los ingresos propios obtenidos por el uso de las instalaciones a la Unidad de Apoyo Administrativo del Consejo.
 
-X. Acordar con el Coordinador Operativo Técnico, los convenios y contratos con instituciones u organismos públicos, para presentación de eventos en el Teatro de la Ciudad.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+X. Acordar con el Coordinador de Enseñanza y Fomento Artístico, los convenios y contratos con instituciones u organismos públicos, para presentación de eventos en el Teatro de la Ciudad.
 
 XI. Las demás Atribuciones que en el ámbito de su competencia le sean encomendadas por el Coordinador de su adscripción, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
@@ -933,7 +1091,7 @@ b) Departamento de Promoción Cultural.
 
 El Titular de la Dirección de Promoción Cultural, tendrá las Atribuciones siguientes:
 
-l. Promover la cultura en general, en todas sus formas y manifestaciones, a través de la realización de eventos.
+I. Promover la cultura en general, en todas sus formas y manifestaciones, a través de la realización de eventos.
 
 II. Fomentar en la población Chiapaneca, el estudio de las culturas y el cultivo de las artes.
 
@@ -961,23 +1119,15 @@ XIII. Las demás Atribuciones que en el ámbito de su competencia le sean encome
 
 ###### Artículo 40.
 
-El Titular de la Dirección de Difusión Cultural, tendrá las Atribuciones siguientes:
-
-I. Vigilar que sus acciones se realicen de conformidad con los lineamientos, acuerdos, normas, y políticas correspondientes para el cumplimiento de los objetivos del Consejo.
-
-II. Promover acciones de información, producción y difusión de materiales gráficos y audiovisuales sobre las actividades culturales que realiza el Consejo.
-
-III. Promover a través de los medios de comunicación a nivel Municipal, Estatal, Nacional e Internacional, las manifestaciones en todas sus expresiones, valores universales y culturales del Estado.
-
-IV. Promover la conservación del acervo cultural bibliográfico y no bibliográfico del Consejo, sobre las diversas manifestaciones culturales del Estado.
-
-V. Las demás Atribuciones que en el ámbito de su competencia le sean encomendadas por el Coordinador de su adscripción, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+(DEROGADO, P.O. 11 DE JULIO DE 2018)
 
 ### Capítulo IV. De las Atribuciones del Titular de la Comisaría
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### Artículo 41.
 
-El Titular de la Comisaría tendrá las atribuciones conferidas en la Ley de Entidades Paraestatales del Estado de Chiapas, Ley Orgánica por el que se crea el Consejo Estatal para las Culturas y las Artes de Chiapas, Decreto para el Fortalecimiento de Comisarios Públicos en las Entidades de la Administración Pública Estatal y demás disposiciones legales aplicables.
+El Titular de la Comisaría tendrá las atribuciones conferidas en la Ley de Entidades Paraestatales del Estado de Chiapas, la Ley Orgánica del Consejo Estatal para las Culturas y las Artes de Chiapas, el Decreto que Regula las Funciones de los Comisarios Públicos en la (sic) Entidades Paraestatales de la Administración Pública del Estado de Chiapas, y demás disposiciones legales aplicables.
 
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
 
@@ -1020,3 +1170,21 @@ Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en la sala de Juntas del Consejo Estatal para las Culturas y las Artes de Chiapas, en la ciudad de Tuxtla Gutiérrez, Chiapas; el veintiséis de abril de dos mil doce.
 
 INTEGRANTES DEL CONSEJO DIRECTIVO: PRESIDENTE: Lic. Juan Sabines Guerrero, Gobernador del Estado.- SECRETARIO TÉCNICO: Mtro. Jacinto Hugo Suárez Domínguez, Representante del Secretario de Educación.- VOCALES: Lic. Mercedes Nelly Vera Planter, Representante del Secretario de Gobierno.- Lic. Pacífico Orantes Montes, Representante del Secretario de Hacienda.- Lic. Nashely Molina Ponce, Representante de la Secretaria de Turismo.- Profr. Enrique Pérez López, Representante de la Secretaría de Pueblos y Culturas Indígenas.- Dr. Antonio Durán Ruiz, Representante del Rector de la UNACH.- Mtro. Manuel Grajales Romero, Representante del Rector de la UNICACH.- Lic. Sara Esperanza García Orozco, Representante de la Directora General del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.- Lic. Emilio Pérez Solís, Representante del Rector de la Universidad Intercultural de Chiapas.- INTERVIENE POR EL CONECULTA: Lic. Angélica Guadalupe Altúzar Constantino, Directora General.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2680-A-2018 DECRETO POR EL QUE SER (SIC) REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS”.]
+
+Artículo Primero. El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Reglamento Interior y se opongan al mismo.
+
+Artículo Tercero. Para las cuestiones no previstas en este Decreto, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General, resolverá lo conducente.
+
+Artículo Cuarto. El Manual de Organización del Consejo Estatal para las Culturas y las Artes de Chiapas, deberá actualizarse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Decreto.
+
+Artículo Quinto. En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación del presente Reglamento Interior.
+
+Artículo Sexto. Publíquese el presente Reglamento Interior en el Periódico Oficial, en cumplimiento de lo dispuesto en los artículos 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, 4 de la Ley de Procedimientos Administrativos del Estado de Chiapas, y 13 fracción V de la Ley Estatal del Periódico Oficial.
