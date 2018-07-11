@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2018-03-21"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2893,11 +2893,11 @@ DISPOSICIONES GENERALES. La adopción es la institución jurídica de protecció
 
 La adopción siempre será benéfica para el adoptado, atendiendo al interés superior del mismo y el respeto de sus derechos fundamentales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 361.
 
-QUIENES PUEDEN ADOPTAR. - Los mayores de veintiocho años y menores de cincuenta años de edad, unidos en matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapaces aun cuando estos sean mayores de edad, siempre y cuando la adopción sea benéfica para este, acreditando:
+QUIENES PUEDEN ADOPTAR.– Los mayores de veintiocho años y menores de cincuenta años de edad, unidos en matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapaces aun cuando estos sean mayores de edad, siempre y cuando la adopción sea benéfica para este, acreditando:
 
 I.- Que tienen medios suficientes para proveer a la subsistencia, cuidado y educación personal del adoptado, como un hijo propio, según las circunstancias de la persona que trata de adoptar;
 
@@ -2905,7 +2905,9 @@ II.- Que el adoptante sea persona de buenas costumbres, y disfrute de buena salu
 
 III.- Su identidad, antecedentes familiares, entorno social y motivos para adoptar, y
 
-IV.- Que acepta expresamente, que el Sistema para el Desarrollo Integral de la Familia en Morelos, a través de la Procuraduría de la Defensa del Menor y la Familia, realice el seguimiento del otorgado en adopción, por el plazo establecido en el Reglamento para Adopción de Menores.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+IV.- Que acepta expresamente que la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, realice el seguimiento del otorgado en adopción, por el plazo establecido en el Reglamento para Adopción de Menores.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
@@ -2961,13 +2963,13 @@ II.- La patria potestad se ejercerá en los términos y por las personas señala
 
 III.- El adoptado se integrará a la familia de los adoptantes, adquiriendo; lazos de parentesco con todos los parientes de éstos, como si hubiera filiación consanguínea; correlativamente se extinguirá toda relación de parentesco con sus padres naturales.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 369.
 
-INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA. En todo procedimiento relativo a la adopción, se dará intervención como parte al Sistema para el Desarrollo Integral de la Familia por conducto de la Procuraduría de la Defensa del Menor y la Familia.
+INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y LAPROCURADURÍA (SIC) DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTES Y LA FAMILIA. En todo procedimiento relativo a la adopción, se dará intervención al Sistema para el Desarrollo Integral de la Familia y a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, conforme el ámbito de su competencia, conforme a la normativa aplicable.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
-
-En caso de que el Sistema para el Desarrollo Integral de la Familia no acepte ó consienta la adopción del menor o incapaz, deberá acreditar fehacientemente los motivos por los cuales considera no sea favorable dicha adopción, así como que acredite que el menor o incapaz se encontraría en peligro su desarrollo físico, mental ó cualquiera otro motivo análogo.
+En caso de que las citadas autoridades no acepten o consientan, en su respectivo ámbito competencial, la adopción del menor o incapaz, deberán acreditar fehacientemente los motivos por los cuales consideran no sea favorable dicha adopción, así como que acrediten que el menor o incapaz se encontraría en peligro su desarrollo físico, mental o cualquiera otro motivo análogo.
 
 ###### ARTÍCULO 370.
 
@@ -2991,9 +2993,11 @@ Las adopciones internacionales siempre serán plenas.
 
 NACIONALIDAD DE LOS ADOPTANTES.- En igualdad de circunstancias se preferirá a los adoptantes mexicanos, salvo que quien ejerza la patria potestad o la tutela sobre el menor consienta en la adopción internacional. En tal caso, deberá obtener la autorización del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, el que tomará en cuenta el interés superior del niño.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 373.
 
-INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.- Las adopciones internacionales promovidas por los ciudadanos originarios de los países que son parte de la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema para el Desarrollo Integral de la Familia del estado de Morelos, en su carácter de autoridad central, verifique y determine:
+INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN ADOPCIONES INTERNACIONALES.- Las adopciones internacionales promovidas por los ciudadanos originarios de los países que son parte de la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en su carácter de autoridad central, verifique y determine:
 
 I.- Que el menor es adoptable;
 
@@ -3003,11 +3007,15 @@ III.- Que las personas, instituciones y autoridades, cuyo consentimiento se requ
 
 IV.- Que las autoridades centrales del estado de origen de los solicitantes, acrediten que han constatado que los futuros padres adoptivos reúnen el perfil y características idóneas, están aptos para adoptar, y que el menor ha sido o será autorizado para entrar y residir permanentemente en ese país.
 
-V.- Que aceptan expresamente, que el Sistema para el Desarrollo Integral de la Familia en Morelos a través de la Procuraduría de la Defensa del Menor y la Familia, realice el seguimiento de la adopción, por el plazo establecido en el Reglamento de Adopciones.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2018)</small>
+
+V.- Que aceptan expresamente que la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia realice el seguimiento de la adopción, por el plazo establecido en el Reglamento de Adopciones.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 374.
 
-EFECTOS ANTE LAS DEPENDENCIAS ADMINISTRATIVAS.- Una vez declarada la adopción, el Juez de lo Familiar lo informará al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
+EFECTOS ANTE LAS DEPENDENCIAS ADMINISTRATIVAS.- Una vez declarada la adopción, el Juez de lo Familiar lo informará al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en coordinación con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
 
 ### CAPÍTULO ÚNICO. DEL ESTADO DE INTERDICCIÓN
 
@@ -6534,3 +6542,59 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su p
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y OCHO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y SE REFORMAN, ADICIONAN Y DEROGAN DISTINTAS DISPOSICIONES DE DIVERSAS LEYES ESTATALES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; PARA ADSCRIBIR A LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Fiscalía General del Estado Libre y Soberano de Morelos, aprobada el 12 de marzo del 2014 y publicada en el Periódico Oficial "Tierra y Libertad", número 5172, el día 26 del mismo mes y año.
+
+CUARTA. Se abroga el "ACUERDO NÚMERO 18 DEL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO DE MORELOS, POR EL QUE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, FORMALIZA LA CREACIÓN DE LA FISCALÍA ESPECIALIZADA DE INVESTIGACIÓN DEL DELITO DE SECUESTRO, DENOMINADA "UNIDAD DE COMBATE AL SECUESTRO", publicado en el Periódico Oficial "Tierra y Libertad" número 4680, el día 4 de febrero de 2009, así como los demás Acuerdos que se contrapongan a lo previsto en el presente Decreto.
+
+QUINTA. Una vez publicado el presente Decreto, dentro de los ciento veinte días siguientes, contados a partir del inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes correspondientes para su armonización con el presente Decreto.
+
+SEXTA. Dentro del mismo término, la Fiscalía General deberá emitir su Reglamento Interior, y una vez publicado éste, dentro de los noventa días siguientes, emitirá los restantes Reglamentos a que se refiere la presente Ley, sin perjuicio de continuar aplicando los reglamentos vigentes, en lo que no se opongan a la presente.
+
+SÉPTIMA. La Fiscalía Anticorrupción, en uso de su facultad de gestión, emitirá en el plazo a que se refiere la Disposición Quinta Transitoria, su nuevo Reglamento Interior, y una vez publicado éste, dentro de los noventa días siguientes, emitirá los restantes reglamentos a que se refiere la presente Ley, sin perjuicio de continuar aplicando los reglamentos vigentes, en lo que no se opongan a la presente.
+
+OCTAVA. En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+NOVENA. En todo caso no se afectará la situación administrativa o laboral del personal que presta sus servicios en las Fiscalías General y Especializada en Combate a la Corrupción.
+
+DÉCIMA. Los bienes muebles e inmuebles propiedad del Gobierno del Estado, que ha venido ocupando y administrando la Fiscalía General del Estado de Morelos hasta ahora, pasan a formar parte del patrimonio de ésta última por virtud de esta Ley desde el momento de su entrada en vigor, dada su naturaleza de órgano constitucional autónomo, otorgada en términos del artículo 79-A de la Constitución Política del Estado Libre y Soberano de Morelos; para lo cual el Titular del Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+Toda vez que respecto del bien inmueble identificado como Lote 10, manzana 10, zona 01, poblado de Tlaltenango, ubicado en avenida Emiliano Zapata, número 803, colonia Bella Vista, en esta ciudad de Cuernavaca, Morelos, con clave catastral 1100-19-007-009, y una superficie de 11,444.00 m2 (once mil cuatrocientos cuarenta y cuatro metros cuadrados), conforme a la autorización concedida mediante Decreto Legislativo número dos mil doscientos uno, emitido por este Congreso y publicado en el Periódico Oficial "Tierra y Libertad", número 5513, el 16 de julio de 2017; se tiene conocimiento de que el Ejecutivo Estatal ha realizado la desincorporación respectiva por Decreto Administrativo, publicado en el mismo órgano de difusión, número 5546 de 01 de noviembre de 2017, sin que a la fecha se haya materializado la enajenación del mismo; por lo que se deberá estar a lo señalado en el primer párrafo de la presente Disposición Transitoria.
+
+Así mismo, el Poder Ejecutivo del Estado, por conducto de la Dirección General de Patrimonio de la Secretaría de Administración, debe informar al Congreso del Estado respecto del cumplimiento de la presente Disposición Transitoria y, por ende, del Decreto Legislativo número dos mil doscientos uno.
+
+DÉCIMA PRIMERA. Los bienes muebles e inmuebles propiedad del Gobierno del Estado o del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, que se han venido ocupando y administrando hasta ahora por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y por la Dirección de Centros de Asistencia Social, ambos pertenecientes a dicho Sistema, así como por sus albergues o centros de asistencia social, mismos que quedan a cargo de la Fiscalía General del Estado de Morelos por virtud de este acto legislativo, pasan a formar parte del patrimonio de ésta última desde el momento de su entrada en vigor; para lo cual el Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+De forma complementaria, las Secretarías, Dependencias y Entidades de la Administración Pública, deben realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr que los recursos humanos, materiales y financieros que el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos ha ocupado y proyectado para el funcionamiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y los centros de asistencia social; se trasmitan a la Fiscalía General del Estado dada su autonomía constitucional.
+
+DÉCIMA SEGUNDA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrita a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto.
+
+DÉCIMA TERCERA. Los asuntos que se encuentren en trámite o en proceso, incluidos los de adopciones, a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros de Asistencia Social, continuarán tramitándose por esta, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de su adscripción a la Fiscalía General del Estado pueda modificar o alterar su curso y resultado.
+
+DÉCIMA CUARTA. La Fiscalía General del Estado de Morelos y el Sistema para el Desarrollo Integral de la Familia, al realizar actuaciones para materializar el traslado de funciones y unidades a que se refiere el presente instrumento jurídico, deberán velar por la seguridad, vida e integridad de las personas que se encuentren bajo su custodia en alguno de los albergues y centros de asistencia social que se encontraban a cargo de dicho Sistema.
+
+La Fiscalía General del Estado y el Sistema para el Desarrollo Integral de la Familia, una vez que entre en vigor el presente instrumento legislativo, deberán prestarse todas las facilidades para el traslado de los Albergues y Centros de Asistencia Social que hasta la presente reforma se encontraban a cargo de dicho Sistema.
+
+DÉCIMA QUINTA. El personal adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, la Dirección de Centros de Asistencia Social y el Centro de Evaluación y Control de Confianza del Estado de Morelos, que pase a formar parte de la Fiscalía General del Estado de Morelos, en ninguna forma podrá resultar afectado en sus derechos; debiéndose tomar las acciones necesarias para ello.
+
+DÉCIMA SEXTA. En un plazo no mayor de 180 días hábiles, contados a partir de la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal deberá realizar o emitir las adecuaciones reglamentarias que se estimen pertinentes conforme lo previsto en el presente Decreto.
+
+DÉCIMA SÉPTIMA. En un plazo no mayor de 180 días hábiles la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+DÉCIMA OCTAVA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto.
+
+DÉCIMA NOVENA. Se abroga el Decreto por el que se reconoce y regula al Centro de Evaluación y Control de Confianza del Estado de Morelos como órgano desconcentrado de la Administración Pública Estatal, publicado en el Periódico Oficial "Tierra y Libertad", número 5585, el 07 de marzo de 2018.
+
+VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, deberán realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr la transferencia a la Fiscalía General del Estado de los recursos humanos, materiales y financieros que el Centro de Evaluación y Control de Confianza del Estado de Morelos ha ocupado y proyectado para su funcionamiento.
+
+VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
+
+VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
