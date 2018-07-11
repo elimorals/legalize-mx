@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2017-10-31"
+last_updated: "2018-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE VÍCTIMAS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -535,11 +535,11 @@ Las normas reglamentarias aplicables establecerán el procedimiento necesario pa
 
 ### CAPÍTULO V. DE LAS MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
 
 ###### Artículo 23.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, los Sistemas Municipales para el Desarrollo Integral de la Familia y las instituciones de las que dependen las casas de refugio y acogida que existan y brinden estos servicios en el ámbito estatal o municipal, contratarán servicios o brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o en situación de desplazamiento de su lugar de residencia por causa del delito cometido contra ellas o de la violación de sus derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia, exista una solución duradera y pueda retornar libremente en condiciones seguras y dignas a su hogar.
+La Fiscalía General, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, sus homologas a nivel municipal y las instituciones de las que dependen las casas de refugio y acogida que existan y brinden estos servicios en el ámbito estatal o municipal; contratarán servicios o brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o en situación de desplazamiento de su lugar de residencia por causa del delito cometido contra ellas o de la violación de sus derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia, exista una solución duradera y pueda retornar libremente en condiciones seguras y dignas a su hogar.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -2866,3 +2866,59 @@ Constituida la Asamblea Consultiva designará de entre sus integrantes al miembr
 DECIMOCUARTA. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos y la Secretaría de Hacienda del Poder Ejecutivo Estatal deberán hacer las previsiones presupuestales necesarias.
 
 DECIMOQUINTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL DOSCIENTOS CUARENTA Y OCHO.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; Y SE REFORMAN, ADICIONAN Y DEROGAN DISTINTAS DISPOSICIONES DE DIVERSAS LEYES ESTATALES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; PARA ADSCRIBIR A LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Fiscalía General del Estado Libre y Soberano de Morelos, aprobada el 12 de marzo del 2014 y publicada en el Periódico Oficial "Tierra y Libertad", número 5172, el día 26 del mismo mes y año.
+
+CUARTA. Se abroga el "ACUERDO NÚMERO 18 DEL C. PROCURADOR GENERAL DE JUSTICIA DEL ESTADO DE MORELOS, POR EL QUE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, FORMALIZA LA CREACIÓN DE LA FISCALÍA ESPECIALIZADA DE INVESTIGACIÓN DEL DELITO DE SECUESTRO, DENOMINADA "UNIDAD DE COMBATE AL SECUESTRO", publicado en el Periódico Oficial "Tierra y Libertad" número 4680, el día 4 de febrero de 2009, así como los demás Acuerdos que se contrapongan a lo previsto en el presente Decreto.
+
+QUINTA. Una vez publicado el presente Decreto, dentro de los ciento veinte días siguientes, contados a partir del inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones que se requieran a las leyes correspondientes para su armonización con el presente Decreto.
+
+SEXTA. Dentro del mismo término, la Fiscalía General deberá emitir su Reglamento Interior, y una vez publicado éste, dentro de los noventa días siguientes, emitirá los restantes Reglamentos a que se refiere la presente Ley, sin perjuicio de continuar aplicando los reglamentos vigentes, en lo que no se opongan a la presente.
+
+SÉPTIMA. La Fiscalía Anticorrupción, en uso de su facultad de gestión, emitirá en el plazo a que se refiere la Disposición Quinta Transitoria, su nuevo Reglamento Interior, y una vez publicado éste, dentro de los noventa días siguientes, emitirá los restantes reglamentos a que se refiere la presente Ley, sin perjuicio de continuar aplicando los reglamentos vigentes, en lo que no se opongan a la presente.
+
+OCTAVA. En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+NOVENA. En todo caso no se afectará la situación administrativa o laboral del personal que presta sus servicios en las Fiscalías General y Especializada en Combate a la Corrupción.
+
+DÉCIMA. Los bienes muebles e inmuebles propiedad del Gobierno del Estado, que ha venido ocupando y administrando la Fiscalía General del Estado de Morelos hasta ahora, pasan a formar parte del patrimonio de ésta última por virtud de esta Ley desde el momento de su entrada en vigor, dada su naturaleza de órgano constitucional autónomo, otorgada en términos del artículo 79-A de la Constitución Política del Estado Libre y Soberano de Morelos; para lo cual el Titular del Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+Toda vez que respecto del bien inmueble identificado como Lote 10, manzana 10, zona 01, poblado de Tlaltenango, ubicado en avenida Emiliano Zapata, número 803, colonia Bella Vista, en esta ciudad de Cuernavaca, Morelos, con clave catastral 1100-19-007-009, y una superficie de 11,444.00 m2 (once mil cuatrocientos cuarenta y cuatro metros cuadrados), conforme a la autorización concedida mediante Decreto Legislativo número dos mil doscientos uno, emitido por este Congreso y publicado en el Periódico Oficial "Tierra y Libertad", número 5513, el 16 de julio de 2017; se tiene conocimiento de que el Ejecutivo Estatal ha realizado la desincorporación respectiva por Decreto Administrativo, publicado en el mismo órgano de difusión, número 5546 de 01 de noviembre de 2017, sin que a la fecha se haya materializado la enajenación del mismo; por lo que se deberá estar a lo señalado en el primer párrafo de la presente Disposición Transitoria.
+
+Así mismo, el Poder Ejecutivo del Estado, por conducto de la Dirección General de Patrimonio de la Secretaría de Administración, debe informar al Congreso del Estado respecto del cumplimiento de la presente Disposición Transitoria y, por ende, del Decreto Legislativo número dos mil doscientos uno.
+
+DÉCIMA PRIMERA. Los bienes muebles e inmuebles propiedad del Gobierno del Estado o del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, que se han venido ocupando y administrando hasta ahora por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y por la Dirección de Centros de Asistencia Social, ambos pertenecientes a dicho Sistema, así como por sus albergues o centros de asistencia social, mismos que quedan a cargo de la Fiscalía General del Estado de Morelos por virtud de este acto legislativo, pasan a formar parte del patrimonio de ésta última desde el momento de su entrada en vigor; para lo cual el Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+De forma complementaria, las Secretarías, Dependencias y Entidades de la Administración Pública, deben realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr que los recursos humanos, materiales y financieros que el Sistema para el Desarrollo Integral de la Familia del Estado de Morelos ha ocupado y proyectado para el funcionamiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y los centros de asistencia social; se trasmitan a la Fiscalía General del Estado dada su autonomía constitucional.
+
+DÉCIMA SEGUNDA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrita a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto.
+
+DÉCIMA TERCERA. Los asuntos que se encuentren en trámite o en proceso, incluidos los de adopciones, a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros de Asistencia Social, continuarán tramitándose por esta, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de su adscripción a la Fiscalía General del Estado pueda modificar o alterar su curso y resultado.
+
+DÉCIMA CUARTA. La Fiscalía General del Estado de Morelos y el Sistema para el Desarrollo Integral de la Familia, al realizar actuaciones para materializar el traslado de funciones y unidades a que se refiere el presente instrumento jurídico, deberán velar por la seguridad, vida e integridad de las personas que se encuentren bajo su custodia en alguno de los albergues y centros de asistencia social que se encontraban a cargo de dicho Sistema.
+
+La Fiscalía General del Estado y el Sistema para el Desarrollo Integral de la Familia, una vez que entre en vigor el presente instrumento legislativo, deberán prestarse todas las facilidades para el traslado de los Albergues y Centros de Asistencia Social que hasta la presente reforma se encontraban a cargo de dicho Sistema.
+
+DÉCIMA QUINTA. El personal adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, la Dirección de Centros de Asistencia Social y el Centro de Evaluación y Control de Confianza del Estado de Morelos, que pase a formar parte de la Fiscalía General del Estado de Morelos, en ninguna forma podrá resultar afectado en sus derechos; debiéndose tomar las acciones necesarias para ello.
+
+DÉCIMA SEXTA. En un plazo no mayor de 180 días hábiles, contados a partir de la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal deberá realizar o emitir las adecuaciones reglamentarias que se estimen pertinentes conforme lo previsto en el presente Decreto.
+
+DÉCIMA SÉPTIMA. En un plazo no mayor de 180 días hábiles la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+DÉCIMA OCTAVA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto.
+
+DÉCIMA NOVENA. Se abroga el Decreto por el que se reconoce y regula al Centro de Evaluación y Control de Confianza del Estado de Morelos como órgano desconcentrado de la Administración Pública Estatal, publicado en el Periódico Oficial "Tierra y Libertad", número 5585, el 07 de marzo de 2018.
+
+VIGÉSIMA. Las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, deberán realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr la transferencia a la Fiscalía General del Estado de los recursos humanos, materiales y financieros que el Centro de Evaluación y Control de Confianza del Estado de Morelos ha ocupado y proyectado para su funcionamiento.
+
+VIGÉSIMA PRIMERA. Las funciones, facultades, derechos y obligaciones establecidos a cargo del Centro de Evaluación y Control de Confianza del Estado de Morelos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscrito a la Fiscalía General del Estado de Morelos, por virtud del presente Decreto; en especial los derechos de la acreditación otorgada por el Centro Nacional de Certificación y Acreditación.
+
+VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conducentes ante el Centro Nacional de Certificación y Acreditación, con relación a las adecuaciones realizadas por virtud de este Decreto, respecto del Centro de Evaluación y Control de Confianza del Estado de Morelos.
