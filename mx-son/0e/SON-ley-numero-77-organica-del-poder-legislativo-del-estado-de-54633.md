@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2018-06-07"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -2007,6 +2007,10 @@ El pleno del Congreso del Estado será la instancia competente para determinar y
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE JULIO DE 2015)</small>
 
+### CAPÍTULO ÚNICO. DEL PARLAMENTO JUVENIL DEL ESTADO DE SONORA
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 201.
 
 Cada año, previo al Día Internacional de la Mujer, el Congreso del Estado convocará y celebrará el Parlamento de las Mujeres del Estado de Sonora, cuyo objeto será debatir, revisar, promover e integrar una agenda legislativa relativa a la equidad de género, así como para prevenir y erradicar toda forma de discriminación y violencia hacia las mujeres.
@@ -2022,6 +2026,82 @@ En el mes de enero de cada año, la Comisión de Equidad y Género presentará a
 ###### ARTÍCULO 203.
 
 El Congreso del Estado de Sonora asegurará y reservará los recursos presupuestales suficientes para la celebración anual del Parlamento de las Mujeres del Estado de Sonora.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
+
+## TÍTULO DÉCIMO QUINTO. DEL PARLAMENTO JUVENIL DEL ESTADO DE SONORA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 204.
+
+El parlamento Juvenil del Estado de Sonora es un órgano de participación ciudadana de deliberación, debate, ejecución y formación cívica, en el cual las y los jóvenes sonorenses se reúnen para expresar sus preocupaciones, intereses y aspiraciones, con el objetivo de que, en forma colegiada y a través del diálogo, se propongan al Congreso del Estado y al Poder Ejecutivo propuestas e iniciativas que contribuyan con el desarrollo integral de la sociedad sonorense.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 205.
+
+El Parlamento Juvenil del Estado de Sonora estará integrado por:
+
+I.- El Presidente de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud del Congreso del Estado, quien lo presidirá.
+
+II.- El Director General del Instituto Sonorense de la Juventud.
+
+III.- El Secretario Técnico, que recaerá en el Director General Jurídico del Congreso del Estado.
+
+IV.- Treinta y tres jóvenes que fungirán como parlamentarios juveniles, con sus respectivos suplentes, y serán nombrados por tres años, en el primer periodo de sesiones de cada legislatura, por un comité de selección integrado por cinco personas. Este Comité de Selección concluirá sus funciones una vez que el Congreso apruebe a los treinta y tres parlamentarios juveniles.
+
+La designación de (sic) Parlamentario Juvenil será honorífica, por lo que no se percibirá remuneración alguna por su desempeño.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 206.
+
+El Presidente del Parlamento será el responsable de proponer al Congreso del Estado el Comité Seleccionador, debiendo incluir:
+
+I.- Una persona con experiencia en el tema deportivo.
+
+II.- Una persona con experiencia en el tema de Derechos Humanos.
+
+III.- Una persona con experiencia en el tema de salud.
+
+IV.- Una persona con experiencia en el tema de Economía.
+
+V.- Una persona con experiencia en el tema de igualdad de género.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 207.
+
+El Parlamento Juvenil del Estado tendrá las siguientes atribuciones:
+
+I.- Elaborar y presentar propuestas para implementar políticas públicas ante el Poder Ejecutivo del Estado.
+
+II.- Elaborar y presentar iniciativas ante el Poder Legislativo del Estado.
+
+III.- Sesionar en el pleno del Congreso del Estado de manera ordinara (sic) cada seis meses, y de manera extraordinaria cuando sea necesario.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 208.
+
+La convocatoria para la integración del Parlamento Juvenil del Estado será emitida por el Congreso, en coordinación con el Instituto Sonorense de la Juventud, dentro de los dos meses del primer periodo ordinario de sesiones de cada legislatura, debiéndose publicar en la página electrónica del Congreso del Estado y en medios de comunicación, y deberá contener al menos:
+
+I.- Las bases y requisitos para participar en el proceso de selección.
+
+II.- Las fechas de registro y de elección.
+
+III.- El proceso o mecanismo de selección.
+
+IV.- Del mecanismo para que se privilegie la igualdad de género en la elección.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 209.
+
+Los acuerdos que se aprueben en las sesiones del Parlamento Juvenil del Estado se tomarán por mayoría absoluta de sus integrantes. De cada sesión se levantará el acta correspondiente y será publicada en el Boletín Oficial del Estado.
+
+En la sesión del Parlamento Juvenil del Estado se elegirá por mayoría absoluta de sus integrantes la mesa directiva que fungirá para esa sesión, así como el orden del día correspondiente.
 
 ## TRANSITORIOS
 
@@ -2338,3 +2418,11 @@ B.O. 7 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 230, QUE ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
