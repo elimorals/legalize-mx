@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2018-06-08"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -43,9 +43,11 @@ LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOS
 
 ### Capítulo Único
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público, interés social, y observancia general en el Estado y Municipios de San Luis Potosí. Su objeto es generar un ambiente de seguridad y orden en la comunidad escolar y su entorno, como base para el desarrollo de las actividades educativas y de los estudiantes, a través de la cultura de la paz, la prevención y del desarrollo de programas y acciones específicos en la materia.
+La presente Ley es de orden público, interés social, y observancia general en el Estado y Municipios de San Luis Potosí. Su objeto es generar un ambiente de seguridad y orden en la comunidad escolar y su entorno, como base para el desarrollo de las actividades educativas y de los estudiantes, a través de la cultura de la paz, la prevención de la violencia y la reconstrucción del tejido social con programas y acciones específicos en la materia.
 
 Los programas y actividades relacionados con la prevención y seguridad escolar son de carácter obligatorio. Corresponde la aplicación de esta Ley a las autoridades estatales y municipales, así mismo, en lo que corresponda esta Ley aplica a organizaciones de los sectores público, privado y social, instituciones educativas, consejos escolares de participación social en la educación, comités de prevención y seguridad escolar, asociaciones de padres de familia y de estudiantes y, en general, para los habitantes de la Entidad.
 
@@ -57,9 +59,13 @@ I. Establecer las normas que regirán las acciones y programas en materia de pre
 
 II. Determinar las bases de coordinación entre las diversas autoridades que guardan relación con las materias de la prevención, seguridad y protección civil del ámbito escolar;
 
-III. Fomentar la creación de vínculos permanentes entre los diversos actores que interactúan en el ámbito de la comunidad escolar y la sociedad;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-IV. Establecer los mecanismos para diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, violencia de género, discriminación, trata, hostigamiento, intimidación, acoso, acoso escolar, abuso y, en general, cualquier acto que atente contra los derechos humanos y vulnere la dignidad de los estudiantes dentro y fuera de las instituciones educativas, de modo que se genere un ambiente de tranquilidad en la comunidad escolar y su entorno, y
+III. Fomentar la creación de vínculos permanentes entre los diversos actores que interactúan en el ámbito de la prevención en la comunidad escolar y la sociedad;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+IV. Establecer los mecanismos para diagnosticar, prevenir, intervenir, evitar, sancionar y erradicar la violencia de todo tipo y forma, violencia de género, discriminación, trata, hostigamiento, intimidación, acoso, acoso escolar, abuso y, en general, cualquier acto que atente contra los derechos humanos y vulnere la dignidad de los estudiantes dentro y fuera de las instituciones educativas, de modo que se genere un ambiente de tranquilidad y paz en la comunidad escolar y su entorno, considerando para ello la intervención de psicólogos en los centros escolares, y
 
 V. Consignar las bases para el funcionamiento de los Comités de Prevención y Seguridad Escolar encargados de diseñar y aplicar las políticas derivadas de los programas en materia de prevención y seguridad escolar.
 
@@ -123,7 +129,9 @@ IX. Personal de apoyo. Recurso humano que coadyuva, en forma directa, con la eje
 
 X. Personal de servicios generales. Recurso humano de conserjería, mantenimiento, seguridad, etc.; es decir, aquellos que no realizan funciones que tienen que ver directamente con la administración;
 
-XI. Plan de intervención. Programa de apoyo a las víctimas;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+XI. Plan de intervención. Conjunto de acciones sistemáticas encaminadas a brindar la atención integral a las víctimas;
 
 XII. Plantel escolar, escuela o centro escolar. Establecimiento público o privado, donde se brinda educación básica, media superior y superior;
 
@@ -145,13 +153,21 @@ I. Fomentar la cultura de la paz y la de respeto a los derechos humanos, la tole
 
 II. Favorecer la cohesión entre compañeros y erradicar las situaciones de exclusión, a través del desarrollo de habilidades para la cooperación;
 
-III. Enseñar a condenar y rechazar toda forma de violencia, como una grave amenaza a los derechos humanos;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-IV. Desarrollar alternativas a la violencia, mediante la generación de espacios y procedimientos alternativos en el sistema escolar que permitan la expresión de las discrepancias y la resolución de conflictos sin recurrir a la violencia;
+III. Enseñar a identificar y rechazar toda forma de violencia, como una grave amenaza a los derechos humanos;
 
-V. Fortalecer los valores, como parte de la formación educativa entre los alumnos, maestros y padres de familia, para hacer de los planteles educativos lugares tranquilos, de sano desarrollo y convivencia;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-VI. Detectar, diagnosticar, y atender las conductas, hechos y circunstancias específicas que en cada plantel educativo constituyen focos de atención que deban ser resueltos de forma inmediata para prevenir la generación de riesgos en la comunidad escolar, y
+IV. Desarrollar estrategias para la aplicación de métodos alternos de solución de conflictos y controversias a la violencia, mediante la generación de espacios y procedimientos alternativos en el sistema escolar que permitan la expresión de las discrepancias y la resolución de conflictos sin recurrir a la violencia;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+V. Fortalecer los valores como parte de la formación educativa entre los alumnos, maestros y padres de familia, para propiciar y conservar la cultura y ambiente de paz, así como el sano desarrollo y convivencia en los planteles educativos;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+VI. Detectar, diagnosticar, prevenir y atender las conductas, hechos y circunstancias específicas que en cada plantel educativo constituyen factores de riesgo que deban ser resueltos de forma inmediata para prevenir la generación de riesgos en la comunidad escolar, y
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
@@ -267,7 +283,9 @@ I. Aplicar y desarrollar programas, y realizar las acciones que le competen en m
 
 II. Celebrar acuerdos en materia de prevención y seguridad escolar en coordinación con las dependencias del Ejecutivo Estatal, según sus respectivas esferas de competencia, y con los municipios de la Entidad y con la sociedad;
 
-III. Auxiliar en las revisiones a que se refiere el artículo 33 de esta Ley, cuando así lo soliciten los Comités de Prevención y Seguridad Escolar, proporcionando supervisión, y asesoría, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+III. Auxiliar en las revisiones a que se refiere el artículo 33 de esta Ley, cuando así lo soliciten los Comités de Prevención y Seguridad Escolar, proporcionando supervisión y asesoría con base en los protocolos, y
 
 IV. Las demás atribuciones que sean necesarias a fin de cumplir el objeto de la presente Ley, expresado en el artículo 2° de la misma.
 
@@ -287,15 +305,23 @@ III. Ejercer las demás atribuciones que conforme a esta Ley y demás disposicio
 
 Corresponde al Procurador de Protección de la Familia, Niñas, Niños, Adolescentes, y la Mujer:
 
-l. Dar seguimiento a problemas de acoso escolar que se susciten en los planteles escolares;
+I. Dar seguimiento a problemas de acoso escolar que se susciten en los planteles escolares;
 
-II. Brindar asesoría jurídica y tratamiento psicológico a las víctimas de acoso escolar;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+II. Brindar asesoría jurídica y acompañamiento integral a las víctimas y victimarios de acoso escolar;
 
 III. Apoyar a la resolución de conflictos en materia de acoso escolar por medio de la mediación y conciliación;
 
-IV. Apoyar en la promoción de convocatorias en materia de prevención y seguridad escolar, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-V. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+IV. Apoyar en la promoción de convocatorias en materia de prevención y seguridad escolar;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+
+V. Crear un banco de datos correspondiente al censo de violencia escolar presente en los diversos centros educativos del Estado, y
+
+VI. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 13.
 
@@ -319,9 +345,19 @@ VIII. Establecer las medidas que garanticen la seguridad en los centros educativ
 
 IX. Entregar al Consejo Estatal de Prevención y Seguridad Escolar al inicio del ciclo escolar un informe estatal de los patrones de violencia estructural, acoso escolar y recomendaciones emitidas por los Comités de Prevención y Seguridad Escolar. Dicho informe contendrá los datos concentrados de los informes generales anuales de patrones de violencia estructural y acoso escolar emitidos por los Comités de Prevención y Seguridad Escolar, segregados por sexo, edad, pertenencia étnica o a cualquier otro grupo en situación de vulnerabilidad, conducta, municipio, comunidad y lugar en el que se presentó el hecho. El cual además contendrá las acciones más destacadas propuestas por los Comités a fin de prevenir y erradicar dichas conductas;
 
-X. Contar con el diagnóstico de la situación que prevalezca al interior y exterior de los centros escolares, a fin de aplicar programas de prevención y seguridad para el mejor cumplimiento del objeto de esta Ley, así como apoyar y asesorar a los comités de prevención y seguridad escolar y, en su caso, a los comités escolares, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-XI. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+X. Contar con el diagnóstico de la situación que prevalezca al interior y exterior de los centros escolares, a fin de aplicar programas de prevención y seguridad para el mejor cumplimiento del objeto de esta Ley, así como apoyar y asesorar a los comités de prevención y seguridad escolar y, en su caso, a los comités escolares;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+
+XI. celebrar convenios de colaboración con instituciones de educación superior, para articular acciones con la finalidad de crear mediante el trabajo conjunto, ambientes libres de violencia escolar;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+
+XII. Establecer la impartición de capacitaciones constantes en las que se incluyan programas y talleres, así como incentivar la certificación con carácter obligatorio en materia de atención y prevención de la violencia para el personal que labore en los centros escolares, y
+
+XIII. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 14.
 
@@ -509,7 +545,9 @@ X. Coordinar la integración y funcionamiento de los comités de prevención y s
 
 XI. Respaldar las labores de los comités de prevención y seguridad escolar;
 
-XII. Realizar un Plan de Intervención, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+XII. Realizar un Plan de Intervención dentro del cual podrán insertarse observaciones para el traslado de alumnas y alumnos a otro centro escolar, a través de las áreas que se considere pertinentes dependientes de la Secretaría, considerando en todo momento el respeto a la integridad de los involucrados, así como del debido proceso, y
 
 XIII. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
@@ -595,9 +633,15 @@ XVIII. Promover y difundir entre la comunidad escolar, las actividades y capacit
 
 XIX. Promover, a través de las autoridades competentes, la información a los miembros de la comunidad escolar sobre el uso adecuado de los materiales que existan en el centro educativo, que puedan poner en peligro la integridad física de los integrantes de la misma comunidad;
 
-XX. Fungir como mediadores en casos de controversias relacionadas con el ámbito escolar de su competencia, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-XXI. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
+XX. Fungir como mediadores en casos de controversias relacionadas con el ámbito escolar de su competencia;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+
+XXI. Celebrar reunión trimestralmente con la finalidad de plantear estrategias, así como evaluar la aplicación de las políticas en materia de prevención de la violencia, elaborando un informe que deberá turnarse al Consejo a más tardar dentro de los diez días siguientes a la reunión, y
+
+XXII. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 29.
 
@@ -753,6 +797,10 @@ Las personas titulares de las direcciones escolares serán los responsables de a
 
 Establecerán las medidas adecuadas que permitan generar un archivo y analizar los patrones de conducta recurrentes, a fin de implementar esquemas para erradicarlos.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Cuando se detecte que existe personal escolar implicado en actos de violencia o acoso deberá ser canalizado a la instancia correspondiente, a efecto de recibir atención integral como parte de las medidas de atención y solución, incluyendo el procedimiento en caso de requerir atención de carácter médico-psiquiátrico, lo cual deberá contenerse en el Plan de Intervención.
+
 ###### Artículo 39.
 
 Las personas titulares de las direcciones escolares tendrán la responsabilidad de elaborar un acta de los hechos en la que se recaben los datos segregados por sexo y edad de los involucrados, el lugar de los hechos, las circunstancias principales y las medidas institucionales dictadas. Dichas actas deberán resguardarse bajo estricta confidencialidad a fin de proteger la identidad de los infantes y jóvenes involucrados. En ellas se anotarán periódicamente observaciones sobre los resultados de la intervención institucional en la conducta del agresor y la víctima.
@@ -858,3 +906,11 @@ P.O. 8 DE JUNIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1010.- SE REFORMAN DIVERSOS LOS (SIC) ARTÍCULOS DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
