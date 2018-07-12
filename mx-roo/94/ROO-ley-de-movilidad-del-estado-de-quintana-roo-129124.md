@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2018-06-14"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR A LOS NOVENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -61,11 +61,17 @@ II. Un sistema de movilidad sujeto a la jerarquía y principios establecidos en 
 
 III. Que el objeto de la movilidad sea la persona.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 3.
 
-La presente Ley tiene por objeto garantizar la promoción, el respeto, la protección y la garantía del derecho humano a la movilidad, establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas y del transporte de bienes, así como garantizar el poder de elección que permita el efectivo desplazamiento de las personas en condiciones de seguridad, calidad, igualdad y sustentabilidad, que satisfaga las necesidades de las personas y el desarrollo de la sociedad en su conjunto. Las disposiciones contenidas en la presente Ley son de observancia general, orden público e interés general.
+La presente Ley tiene por objeto garantizar la promoción, el respeto, la protección y la garantía del derecho humano a la movilidad; establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas y libre tránsito del transporte de bienes; garantizar el poder de elección que permita el efectivo desplazamiento de las personas en condiciones de seguridad, calidad, igualdad y sustentabilidad, que satisfaga las necesidades de las personas y el desarrollo de la sociedad en su conjunto; así como reglamentar la fracción XXVII del artículo 75 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de concesiones para la prestación del servicio público y privado de transporte en sus diversas modalidades. Las disposiciones contenidas en la presente Ley son de observancia general, orden público e interés general.
 
 Todo vehículo de Servicio Público o Privado de Transporte, que utilicen las vías y carreteras del Estado y perciban remuneración económica por prestar dicho servicio, deberán contar con la concesión, permiso o autorización del Instituto, mediante el documento que al efecto otorgue el titular de éste, conforme a las disposiciones de esta Ley y su Reglamento, con excepción del Servicio Público de Transporte de Pasajeros de Autobuses Urbanos, cuya prestación y, en su caso, concesión corresponde a los Ayuntamientos en sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Asimismo, la prestación del servicio público de transporte contratado a través de plataformas tecnológicas o digitales requerirá contar con la concesión del Instituto, mediante el documento que al efecto otorgue el titular de éste, únicamente conforme a la regulación prevista en el Capítulo Séptimo del Título Cuarto de esta Ley y su Reglamento.
 
 El tránsito y vialidad municipal, estarán regulados por la Ley de los Municipios del Estado y los Reglamentos municipales correspondientes. Los Ayuntamientos, en el ejercicio de sus atribuciones de planeación, regulación y supervisión, se sujetarán a lo establecido en esta Ley y demás disposiciones normativas que de ella deriven, así como a lo dispuesto en el Programa Integral de Movilidad, debiendo, entre otros aspectos, hacer las adecuaciones correspondientes a la reglamentación municipal en los términos previstos en este ordenamiento.
 
@@ -191,7 +197,9 @@ L. Permiso para conducir: Documento que concede el Instituto a una persona físi
 
 LI. Personas con movilidad limitada: Personas que de forma temporal o permanentemente, debido a enfermedad, edad, accidente o alguna otra condición, realizan un desplazamiento lento, difícil o desequilibrado. Incluye a niños, mujeres en periodo de gestación, adultos mayores, adultos que transitan con niños pequeños, personas con discapacidad, personas con equipaje o paquetes;
 
-LII. Plataformas digitales: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+LII. Plataformas tecnológicas o digitales: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet.
 
 LIII. Promovente: Persona física o moral, con personalidad jurídica, que solicita autorización del impacto de movilidad, y que somete a consideración del Instituto las solicitudes de factibilidad de movilidad, informe preventivo y las manifestaciones de impacto de movilidad que correspondan;
 
@@ -395,9 +403,13 @@ IV. No haber sido Secretario de Estado, Procurador General de la República o de
 
 V. No haber sido sentenciado de manera firme por la comisión de algún delito;
 
-VI. Contar con una experiencia de al menos cinco años en materia de movilidad, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-VII. Contar con antigüedad mínima de cinco años, con título profesional relacionado con los objetos del Instituto.
+VI. Contar con una experiencia de al menos tres años en materia de movilidad; y
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+VII. Contar con antigüedad mínima de cinco años, con título profesional con aspectos relacionados con los objetos del Instituto.
 
 ###### Artículo 22.
 
@@ -471,9 +483,13 @@ XX. Promover en las vialidades y en los nuevos desarrollos, la construcción de 
 
 XXI. Satisfacer, eficientar y regular el transporte de pasajeros y de carga y, en su caso, coordinarse con las Autoridades facultadas en la materia para este propósito;
 
-XXII. Expedir las declaratorias de necesidad, conforme a lo dispuesto en esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-XXIII. Expedir concesiones, permisos y autorizaciones en los términos previstos en esta Ley y su Reglamento;
+XXII. Expedir las declaratorias de necesidad, conforme a lo dispuesto en esta Ley y su Reglamento; con excepción del servicio público de transporte contratado a través de plataformas tecnológicas o digitales, el cual se regulará únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de la presente Ley;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+XXIII. Expedir concesiones, permisos y autorizaciones en los términos previstos en esta Ley y su Reglamento. Las autorizaciones y concesiones relativas al servicio público de transporte contratado a través de plataformas tecnológicas o digitales, se regularán únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de la presente Ley;
 
 XXIV. Modificar, anular, suspender, revocar, determinar la extinción y rescatar, concesiones, permisos y autorizaciones, en los términos previstos en esta Ley y su Reglamento;
 
@@ -491,7 +507,7 @@ XXX. Otorgar licencias y permisos para conducir en todas las modalidades de tran
 
 XXXI. Regular, permitir, supervisar y sancionar administrativamente a las personas;
 
-XXXII. Expedir permisos a los transportistas autorizados por las autoridades federales, para el uso de vías y carreteras de jurisdicción estatal, mismos que serán requeridos para la operación de sus servicios, en los términos de la presente Ley y del Reglamento respectivo;
+XXXII. (DEROGADA, P.O. 12 DE JULIO DE 2018)
 
 XXXIII. Otorgar permisos temporales para la prestación del servicio de transporte público, a personas físicas y morales, aún y cuando no sean concesionarias, en casos de suspensión total o parcial del servicio, por causas de caso fortuito, fuerza mayor o por necesidades de interés público.
 
@@ -563,7 +579,9 @@ II. Determinar las características y especificaciones técnicas necesarias para
 
 III. Elaborar y someter a la aprobación de la Junta de Gobierno los proyectos de Programa Integral de Movilidad y el Programa Integral de Seguridad Vial, los cuales deberán guardar congruencia con los objetivos, políticas, metas y previsiones establecidas en los Programas y Planes Generales;
 
-IV. Emitir los dictámenes previos respecto a las concesiones, permisos o autorizaciones para la prestación de servicios de transporte en materia de movilidad a cargo del Gobierno del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+IV. Emitir los dictámenes previos respecto a las concesiones, permisos o autorizaciones para la prestación de servicios de transporte en materia de movilidad a cargo del Gobierno del Estado de Quintana Roo. Las concesiones para el servicio público de transporte contratado a través de plataformas tecnológicas o digitales se regularán únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de esta Ley;
 
 V. Emitir los manuales y lineamientos técnicos correspondientes a los instrumentos aprobados por la Junta de Gobierno;
 
@@ -903,7 +921,9 @@ El estudio del impacto de movilidad tiene por objeto que el Instituto evalúe y 
 
 El Instituto expedirá el Estudio de Impacto de Movilidad, por iniciativa propia o a petición de parte interesada, conforme a lo que se establezca en el Reglamento de esta Ley. Dicho estudio será aplicable para:
 
-I. La determinación de expedición de declaratorias de necesidad y de concesiones;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+l. La determinación de expedición de declaratorias de necesidad;
 
 II. La actualización de los Programas Integrales de Movilidad y de Seguridad Vial;
 
@@ -913,7 +933,9 @@ IV. A la determinación o modificación de rutas e itinerarios para el Servicio 
 
 V. A la determinación de infraestructura, estructura, servicios y medidas necesarias para mejorar la movilidad en el Estado.
 
-El procedimiento a petición de parte se inicia al presentar ante el Instituto la solicitud de evaluación del estudio de impacto de movilidad, en sus diferentes modalidades y concluye con la resolución que éste emita, de conformidad a los plazos que para el efecto se establezcan en el Reglamento, los cuales no podrán ser mayores a noventa días hábiles.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+El procedimiento a petición de parte se inicia al presentar ante el Instituto la solicitud de evaluación del estudio de impacto de movilidad, en sus diferentes modalidades y concluye con la resolución que éste emita, de conformidad a los plazos que para el efecto se establezcan en el Reglamento, los cuales no podrán ser mayores a noventa días hábiles. Se exceptúa de esta disposición la modalidad del servicio público de transporte contratado a través de plataformas tecnológicas o digitales, el cual se regulará únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de esta Ley.
 
 La elaboración del estudio de impacto de movilidad se sujetará a lo que establece la presente Ley y su Reglamento, así como al pago de derechos, conforme a lo dispuesto por la normatividad fiscal aplicable.
 
@@ -1115,9 +1137,13 @@ I. Servicio Privado de Transporte;
 
 II. Servicio Público de Transporte, y
 
-III. Servicio de Transporte contratado a través de plataformas digitales.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-Las modalidades de los Servicios de Transporte se sujetarán a lo establecido en la presente Ley y a su Reglamento.
+III. Servicio de transporte contratado a través de plataformas tecnológicas o digitales, el cual tiene el carácter de servicio público.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Las modalidades de los Servicios de Transporte se sujetarán a lo establecido en la presente Ley y a su Reglamento, con excepción de la modalidad a que se refiere la fracción III de este artículo, la cual se regulará únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de esta Ley.
 
 El Servicio de Transporte, en todas sus modalidades, se ajustará a los principios, prioridades, programas y políticas previstas en esta Ley y su Reglamento.
 
@@ -1156,6 +1182,10 @@ II. Servicio Público de Transporte de Carga.
 III. Servicio Público de Transporte de Renta de toda clase de Vehículos.
 
 IV. Servicio Público de Transporte Especializado.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+
+V. Servicio público de transporte contratado a través de plataformas tecnológicas o digitales, el cual se regulará únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de esta Ley.
 
 ###### Artículo 87.
 
@@ -1293,9 +1323,15 @@ Tratándose de facultades contempladas en el presente Capítulo que no estén ex
 
 El otorgamiento de actos administrativos en materia del presente Capítulo se limitará a la distribución de competencias establecidas en la Constitución Política del Estado Libre y Soberano de Quintana Roo, en la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Se exceptúa de este Capítulo la modalidad del servicio público de transporte contratado a través de plataformas tecnológicas o digitales, la cual se regulará únicamente conforme a las reglas previstas en el Capítulo Séptimo del Título Cuarto de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 103.
 
-El otorgamiento de actos administrativos no contemplados para las distintas modalidades del Servicio Público de Transporte por el Instituto, se regirá por lo dispuesto en el Reglamento de la presente Ley.
+El otorgamiento de actos administrativos contemplados para las distintas modalidades del Servicio Público de Transporte por el Instituto, se regirá por lo dispuesto en la presente Ley y su Reglamento.
 
 ###### Artículo 104.
 
@@ -1319,7 +1355,9 @@ V. Presentar carta de objetivos y plan de trabajo, que ponga de manifiesto la fo
 
 VI. Presentar declaración y programa sobre la adquisición de la tecnología requerida que le permita participar de las concesiones;
 
-VII. Presentar documento de autorización para la verificación de la debida observancia de las prestaciones de seguridad social ante el Instituto Mexicano del Seguro Social, durante la vigencia de la concesión;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+VII. Presentar documento de autorización para la verificación de la debida observancia de las prestaciones de seguridad social, durante la vigencia de la concesión, cuando corresponda;
 
 VIII. Presentar el programa anual de mantenimiento de la unidad o parque vehicular objeto del transporte;
 
@@ -1395,7 +1433,9 @@ IV. Los Servicios Auxiliares relacionados con los servicios públicos a que se r
 
 V. Servicio Público de Estacionamiento, Sitios y Terminales.
 
-Las concesiones señalarán con precisión su tiempo de vigencia, el cual será lo suficiente para amortizar el importe de las inversiones que deban hacerse para la prestación del servicio, sin que pueda exceder de veinte años.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+La vigencia de las concesiones será de carácter indefinido.
 
 ###### Artículo 110.
 
@@ -1605,15 +1645,19 @@ La extinción de una concesión por cualquiera de las causas establecidas en la 
 
 Los concesionarios o permisionarios de los Servicios Públicos de Transporte del Estado de Quintana Roo tendrán la obligación de acudir al proceso anual de revista vehicular, en la cual se realizará la inspección documental y físico-mecánica de las unidades, equipamiento auxiliar o infraestructura, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio, en los términos que establezca el Reglamento.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 125.
 
-La prestación de los servicios de transporte público y privado de pasajeros y de carga, así como para el establecimiento de sitios, bases, lanzaderas y su equipamiento auxiliar en el Estado de Quintana Roo, requerirán de un permiso expedido por el Instituto, previo cumplimiento de los requisitos y del pago de los derechos correspondientes.
+La prestación de los servicios de transporte público y privado de pasajeros y de carga, así como para el establecimiento de sitios, bases, lanzaderas y su equipamiento auxiliar en el Estado de Quintana Roo, que de acuerdo a las leyes de la materia no estén regulados como Concesión Federal, Estatal o Municipal, requerirán de un permiso expedido por el Instituto, previo cumplimiento de los requisitos y del pago de los derechos correspondientes.
 
-Asimismo, el Instituto podrá expedir permisos a los prestadores del Servicio de Transporte en sus diversas modalidades autorizados o concesionados por las autoridades federales, para el uso de vías de comunicación y carreteras estatales, mismos que serán requeridos para la operación de sus servicios, en los términos de la presente Ley y del Reglamento respectivo.
+En términos de los Artículos 7 y 19 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, los derechos de tránsito y movilidad por el Estado de los prestadores del Servicio Público y Privado de Transporte de pasajeros o de carga federales en sus diversas modalidades, implica el libre tránsito por vías de comunicación estatal y/o municipales sin requerir concesiones o permisos o autorizaciones estatales o municipales para el descenso de pasajeros en terminales de destino, o bien, de descarga de mercancías en cualquier punto de destino cumpliendo lo establecido en el Artículo 117 fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos. Es aplicable lo anterior, para el libre tránsito a los prestadores del Servicio Público y Privado de Transporte para el descenso de pasajeros en terminales de destino o descarga de mercancías en cualquier destino por las calles y vías de comunicación de jurisdicción municipal. La contravención dará lugar a la nulidad de pleno derecho de los actos administrativos por establecer una barrera a la libre competencia, concurrencia, tránsito y movilidad dentro del Estado de Quintana Roo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 126.
 
-Los permisos para la prestación de los Servicios Públicos de Transporte, se otorgarán a las personas físicas o morales que reúnan los siguientes requisitos:
+Los permisos para la prestación de los Servicios Públicos de Transporte, que no requieran concesión, se otorgarán a las personas físicas o morales que reúnan los siguientes requisitos:
 
 I. Presentar solicitud por escrito al Instituto, especificando la modalidad para la cual solicita el permiso;
 
@@ -1689,7 +1733,7 @@ VII. Cuando se compruebe por la autoridad competente y en última instancia que 
 
 VIII. Las demás que se establezcan en la presente Ley y su Reglamento.
 
-### CAPÍTULO SÉPTIMO. Del Servicio de Transporte contratado a través de Plataformas Digitales
+### CAPÍTULO SÉPTIMO. Del Servicio Público de Transporte contratado a través de Plataformas Tecnológicas o Digitales
 
 #### Sección I. Disposiciones Generales
 
@@ -1801,6 +1845,8 @@ El Gobernador del Estado determinará en el Reglamento de la Ley, los mecanismos
 
 #### Sección I. Del Servicio
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 145.
 
 Los Servicios Auxiliares conforman la base del SIT y su operación requiere de concesión otorgada por el Instituto, en términos de la presente Ley y su Reglamento.
@@ -1831,9 +1877,13 @@ El Titular del Ejecutivo del Estado determinará en el Reglamento de la Ley la d
 
 Las prestaciones o contraprestaciones por los Servicios Auxiliares, si las hubiere, se establecerán por el Instituto. Las tarifas aplicables a dichos servicios serán determinadas por el Gobernador del Estado, a propuesta del Instituto, de conformidad con lo que establezca el Reglamento de esta Ley.
 
-#### Sección II. De las Plataformas Digitales
+#### Sección II. De las Plataformas Tecnológicas o Digitales
 
-#### Sección III. De los Vehículos Utilizados para el Servicio de Transporte a través de Plataformas Digitales
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+#### Sección III. De los Vehículos Utilizados para el Servicio Público de Transporte a través de Plataformas tecnológicas o Digitales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 147.
 
@@ -1851,21 +1901,29 @@ El Reglamento de esta Ley determinará las condiciones jurídicas para la contra
 
 #### Sección IV. De la Protección de Datos Personales
 
-#### Sección V. De la Extinción de las Autorizaciones y Permisos
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+#### Sección V. De la Extinción de las Autorizaciones y Concesiones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 148.
 
 La extinción, suspensión, revocación y rescate de concesiones SIT, así como de los demás actos administrativos indicados en el presente Capítulo, se regirán por las disposiciones generales para concesiones, permisos y autorizaciones previstas en esta Ley, las que establezca su Reglamento y las contenidas en otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2018)</small>
+
 ### CAPÍTULO OCTAVO. De los Estacionamientos, Estaciones y Terminales
 
 ###### Artículo 149.
 
-El servicio de transporte contratado a través de plataformas digitales sólo podrá ser prestado por quienes cuenten con un permiso expedido por el Instituto.
+El servicio de transporte contratado a través de plataformas tecnológicas o digitales tiene el carácter de servicio público y sólo podrá ser prestado por quienes cuenten con una concesión expedida por el Instituto, conforme a las disposiciones del presente Capítulo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 150.
 
-El Instituto tendrá la facultad de otorgar las autorizaciones a las personas morales que medien o promuevan la contratación del servicio de transporte entre particulares y permisionarios a través de plataformas digitales, conforme a lo dispuesto por la presente Ley y su Reglamento.
+El Instituto tendrá la facultad de otorgar las autorizaciones a las personas morales que medien o promuevan la contratación del servicio de transporte entre particulares y concesionarios a través de plataformas tecnológicas o digitales, conforme a lo dispuesto por la presente Ley y su Reglamento.
 
 Las solicitudes de autorización presentadas deberán acompañarse de la siguiente documentación:
 
@@ -1881,15 +1939,27 @@ V. Nombre y abreviatura de la plataforma digital operada o promovida por la pers
 
 VI. Las demás que señale el Reglamento.
 
-Las personas morales que medien o promuevan la contratación del servicio de transporte entre particulares y permisionarios a través de plataformas digitales deberán acreditar ante el Instituto que la plataforma cuenta con la capacidad y experiencia necesarias para prestar el servicio mediante la difusión, operación, utilización o administración de aplicaciones para el control, programación, geolocalización o telemetría en dispositivos fijos o móviles, a fin de que los particulares puedan contratar sus servicios.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
-La vigencia de la autorización será de diez años y se deberá realizar un refrendo anual ante el Instituto.
+Las personas morales que medien o promuevan la contratación del servicio de transporte entre particulares y concesionarios a través de plataformas tecnológicas o digitales deberán acreditar ante el Instituto que la plataforma cuenta con la capacidad o experiencia necesarias para prestar el servicio mediante la difusión, operación, utilización o administración de aplicaciones para el control, programación, geolocalización o telemetría en dispositivos fijos o móviles, a fin de que los particulares puedan contratar sus servicios.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Asimismo, deberán entregar al Instituto una lista que contenga el nombre de los conductores registrados, así como una lista de los vehículos que serán utilizados para prestar el servicio de transporte a través de plataformas tecnológicas o digitales.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+La vigencia de las autorizaciones será de diez años y se deberá realizar un refrendo anual ante el Instituto. El término de vigencia de las autorizaciones podrá prorrogarse hasta por un período igual al inicial, mediante la presentación de solicitud por escrito que presente el titular de la autorización al Instituto, con treinta días de anticipación al vencimiento de la vigencia, conforme a lo dispuesto por el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 151.
 
-Las personas morales que medien o promuevan la contratación del servicio de transporte entre particulares y permisionarios a través de plataformas digitales deberán presentar al Instituto la solicitud de acreditación de sus socios, asociados o conductores para la obtención del permiso.
+Las personas interesadas en prestar el servicio público de transporte contratado a través de plataformas tecnológicas o digitales deberán presentar al Instituto la solicitud de concesión para la obtención de la misma.
 
-Las solicitudes de acreditación presentadas deberán acompañarse de la documentación que compruebe que el socio, asociado o conductor cumple los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
+
+Las solicitudes de concesión presentadas deberán acompañarse de la documentación que compruebe que el solicitante de la concesión, así como la persona conductora del vehículo mediante el cual se preste el servicio de transporte a través de plataformas tecnológicas o digitales, cumplen con los siguientes requisitos:
 
 I. Ser mayor de edad;
 
@@ -1897,25 +1967,43 @@ II. No consumir sustancias psicotrópicas, estupefacientes u otras que produzcan
 
 III. Estar inscrito en los registros estatal y federal de contribuyentes;
 
-IV. Contar con licencia de conducir para la persona conductora del vehículo mediante el cual se preste el servicio de transporte a través de plataformas digitales, expedida por el Instituto;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-V. Estar registrado ante una persona moral que medie o promueva la contratación del servicio de transporte entre particulares y permisionarios a través de plataformas digitales;
+IV. Contar con licencia de conducir para la persona conductora del vehículo mediante el cual se preste el servicio público de transporte a través de plataformas tecnológicas o digitales, expedida por el Instituto;
 
-VI. Ser propietario o tener legal posesión del vehículo mediante el que se prestará el servicio de transporte a través de plataformas digitales, hecho que podrá comprobarse conforme a lo establecido por el Reglamento;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+V. Estar registrado ante una persona moral que medie o promueva la contratación del servicio público de transporte entre particulares y concesionarios a través de plataformas tecnológicas o digitales;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+VI. Ser propietario o tener legal posesión del vehículo mediante el que se prestará el servicio público de transporte a través de plataformas tecnológicas o digitales, hecho que podrá comprobarse conforme a lo establecido por el Reglamento.
 
 VII. Que el vehículo cumpla con los requisitos establecidos en la presente Ley;
 
 VIII. Contar con póliza de seguro vehicular de cobertura amplia en favor del pasajero y contra daños a terceros, conforme a lo establecido en el Reglamento;
 
-IX. No haber sido dado de baja o suspendido de alguna otra empresa que medie o promueva la contratación del servicio de transporte entre particulares y permisionarios a través de plataformas digitales, por la comisión de alguna infracción o delito;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+IX. No haber sido dado de baja o suspendido de alguna otra empresa que medie o promueva la contratación del servicio público de transporte entre particulares y concesionarios a través de plataformas tecnológicas o digitales, por la comisión de alguna infracción o delito;
 
 X. Acreditar la residencia en el Estado de por los menos dos años previos a la fecha de la solicitud de acreditación, y
 
 XI. Presentar carta de no antecedentes penales.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+La vigencia de las concesiones será de diez años y se deberá realizar un refrendo anual ante el Instituto. El término de vigencia de las concesiones podrá prorrogarse hasta por un período igual al inicial, mediante la presentación de solicitud por escrito que presente el concesionario al Instituto, con treinta días de anticipación al vencimiento de la vigencia, conforme a lo dispuesto por el Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Para el otorgamiento de las concesiones a que refiere el presente Capítulo, el Instituto deberá observar los criterios de proporcionalidad establecidos en el reglamento de la presente Ley, garantizando el Derecho Humano a la Movilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 152.
 
-Los procedimientos para la solicitud de permisos y autorizaciones de la presente Ley se sujetarán a lo previsto en el Código de Justicia Administrativa del Estado y a lo siguiente:
+Los procedimientos para la solicitud de concesiones y autorizaciones previstas en el presente Capítulo se sujetarán a lo previsto en esta Ley y su Reglamento, y a lo siguiente:
 
 I. Los solicitantes contarán con cinco días hábiles siguientes a la presentación de la solicitud de registro para entregar la documentación correspondiente ante el Instituto;
 
@@ -1925,35 +2013,47 @@ III. Lo demás que establezca el Reglamento.
 
 El Instituto verificará la veracidad de los documentos entregados y determinará la viabilidad de la solicitud.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 153.
 
-El vehículo mediante el que se preste el servicio de transporte a través de plataformas digitales, deberá contar con un certificado vehicular expedido por el Instituto.
+El vehículo mediante el que se preste el servicio público de transporte a través de plataformas tecnológicas o digitales, deberá contar con un certificado vehicular expedido por el Instituto.
 
-La solicitud del certificado vehicular se presentará por el permisionario ante el Instituto y deberá acompañarse de la documentación que establece la presente Ley.
+La solicitud del certificado vehicular se presentará por el concesionario ante el Instituto y deberá acompañarse de la documentación que establece el presente Capítulo.
 
-El certificado vehicular tendrá una vigencia de un año y se renovarán mediante solicitud presentada por los permisionarios ante el Instituto durante los treinta días anteriores a la fecha de conclusión de vigencia.
+El certificado vehicular tendrá una vigencia de un año y se renovará mediante solicitud presentada por los concesionarios ante el Instituto durante los treinta días anteriores a la fecha de conclusión de vigencia.
 
 ###### Artículo 154.
 
 El Instituto emitirá los actos administrativos conducentes sujetándose, entre otros, a los criterios de movilidad, competencia económica, sustentabilidad, eficiencia y accesibilidad.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 155.
 
-El otorgamiento de las autorizaciones, permisos y certificados vehiculares a que se refiere el presente Capítulo se sujetarán a las disposiciones fiscales aplicables.
+El otorgamiento de las autorizaciones, concesiones y certificados vehiculares a que se refiere el presente Capítulo se sujetarán a las disposiciones fiscales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 156.
 
-Las personas morales que medien o promuevan la contratación del servicio de transporte entre particulares y permisionarios a través de plataformas digitales tendrán las siguientes obligaciones:
+Las personas morales que medien o promuevan la contratación del servicio público de transporte entre particulares y concesionarios a través de plataformas tecnológicas o digitales tendrán las siguientes obligaciones:
 
 I. Tener una política clara de no discriminación de usuarios y conductores que utilicen el servicio;
 
-II. Entregar al Instituto, de manera trimestral, una lista que contenga el nombre de los conductores registrados durante ese periodo, así como una lista de los vehículos utilizados para prestar el servicio de transporte a través de plataformas digitales, conforme a lo que disponga el Instituto en la autorización correspondiente;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-III. Capacitar a los permisionarios inscritos en materia de protocolos de actuación que el Instituto señale, conforme a lo establecido en la presente Ley, especialmente en materia de igualdad estructural de género;
+II. Entregar al Instituto, de manera trimestral, una lista que contenga el nombre de los conductores registrados durante ese periodo, así como una lista de los vehículos utilizados para prestar el servicio público de transporte a través de plataformas tecnológicas o digitales, conforme a lo que disponga el Instituto en la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+III. Capacitar a los conductores inscritos en materia de protocolos de actuación y seguridad que el Instituto señale, conforme a lo establecido en la presente Ley, especialmente en materia de igualdad estructural de género;
 
 IV. Coadyuvar con las autoridades de seguridad pública y otras competentes para la detención de probables responsables de la comisión de hechos delictivos, y proporcionar oportunamente la información que le sea solicitada conforme a la normatividad aplicable;
 
-V. Determinar las pruebas y estudios que deban realizar los conductores para poder ofrecer servicios de transporte a través de plataformas digitales;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+V. Determinar las pruebas y estudios que deban realizar los conductores para poder ofrecer servicios públicos de transporte a través de plataformas tecnológicas o digitales;
 
 VI. Colocar equipos de geolocalización tipo GPS en las unidades certificadas por razones de seguridad. Lo anterior, con apego a la normatividad en materia de Protección de Datos Personales;
 
@@ -1961,15 +2061,21 @@ VII. Fungir como responsable subsidiario ante la comisión de infracciones por p
 
 VIII. Cumplir con las disposiciones fiscales y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 157.
 
-Los conductores de vehículos mediante los que se preste el servicio de transporte contratado a través de plataformas digitales deberán acreditar que cuentan con el permiso otorgado por el Instituto y tendrán las siguientes obligaciones:
+Los conductores de vehículos mediante los que se preste el servicio público de transporte contratado a través de plataformas tecnológicas o digitales deberán acreditar que cuentan con la concesión otorgada por el Instituto y tendrán las siguientes obligaciones:
 
-I. Contar y portar, durante la prestación del servicio, el permiso y el certificado vehicular vigente expedidos por el Instituto;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+l. Contar y portar, durante la prestación del servicio, el documento de la concesión y el certificado vehicular vigente expedidos por el Instituto;
 
 II. Portar, durante la prestación del servicio, con la licencia de conducir expedida por el Instituto, así como con la tarjeta de circulación;
 
-III. Portar documento físico expedido por la persona moral autorizada para prestar servicio de transporte a través de plataformas digitales;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+III. Portar documento físico expedido por la persona moral autorizada para prestar servicio público de transporte a través de plataformas tecnológicas o digitales;
 
 IV. Abstenerse de prestar el servicio bajo la influencia de alcohol o sustancias psicotrópicas, estupefacientes o que produzcan efectos similares, conforme a lo establecido por el Reglamento;
 
@@ -1983,21 +2089,29 @@ VIII. Abstenerse de integrar base, sitio o similares;
 
 IX. Portar copia de la póliza del seguro vehicular de cobertura amplia en favor del pasajero y contra daños a terceros, conforme a lo establecido por el Reglamento;
 
-X. Acreditar los requisitos de ingreso y permanencia establecidos por la persona moral autorizada para mediar o promover la contratación entre particulares y permisionarios del servicio de transporte a través de plataformas digitales, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+X. Acreditar los requisitos de ingreso y permanencia establecidos por la persona moral autorizada para mediar o promover la contratación entre particulares y concesionarios del servicio público de transporte a través de plataformas tecnológicas o digitales, y
 
 XI. Las demás que se establezcan en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 158.
 
-El servicio de transporte contratado a través de plataformas digitales se prestará únicamente mediante el contrato de adhesión electrónico que suscriban usuarios previamente dados de alta en la plataforma digital que lo soliciten a través de la misma, con posibilidad de seleccionar libremente el tipo de vehículo, acceso, así como la facturación si lo desean; por lo que queda estrictamente prohibido a los conductores de vehículos mediante los que se preste el servicio de transporte a través de plataformas digitales aceptar paradas en la calle u ofertar de manera directa en la vía pública sus servicios, así como aceptar pago por el servicio en efectivo.
+El servicio público de transporte contratado a través de plataformas tecnológicas o digitales se prestará únicamente mediante el contrato de adhesión electrónico que suscriban usuarios previamente dados de alta en la plataforma tecnológica o digital que lo soliciten a través de la misma, con posibilidad de seleccionar libremente el tipo de vehículo, acceso, así como la facturación si lo desean; por lo que queda estrictamente prohibido a los conductores de vehículos mediante los que se preste el servicio público de transporte a través de plataformas tecnológicas o digitales aceptar paradas en la calle u ofertar de manera directa en la vía pública sus servicios, así como aceptar pago por el servicio en efectivo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 159.
 
-Para efectos de la presente Ley, se considerarán plataformas digitales a los programas descargables en teléfonos móviles o instrumentos electrónicos a través de los cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet.
+Para efectos de la presente Ley, se considerarán plataformas tecnológicas o digitales a los programas descargables en teléfonos móviles o instrumentos electrónicos a través de los cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 160.
 
-Las plataformas digitales permitirán al usuario conocer la siguiente información:
+Las plataformas tecnológicas o digitales permitirán al usuario conocer la siguiente información:
 
 I. Nombre del conductor;
 
@@ -2005,23 +2119,33 @@ II. Imagen digital que permita visualizar claramente el rostro del conductor;
 
 III. Modelo, placas y color del vehículo, y
 
-IV. Tarifa estimada para el trayecto seleccionado. En caso de que la plataforma digital cuente con variaciones de la tarifa sujetas a la oferta y demanda, se deberá especificar claramente el valor por el que se multiplicará la tarifa ordinaria, así como el tiempo estimado para que la plataforma digital ofrezca precios ordinarios.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-El conductor del vehículo mediante el que se preste el servicio de transporte a través de plataformas digitales tendrá acceso al nombre de la persona que abordará el vehículo. Además, la plataforma digital dará a los usuarios la opción de planificar las rutas automáticamente y dará a conocer en tiempo real la disponibilidad del servicio.
+IV. Tarifa estimada para el trayecto seleccionado. En caso de que la plataforma tecnológica o digital cuente con variaciones de la tarifa sujetas a la oferta y demanda, se deberá especificar claramente el valor por el que se multiplicará la tarifa ordinaria, así como el tiempo estimado para que la plataforma tecnológica o digital ofrezca precios ordinarios.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+El conductor del vehículo mediante el que se preste el servicio público de transporte a través de plataformas tecnológicas o digitales tendrá acceso al nombre de la persona que abordará el vehículo. Además, la plataforma tecnológica o digital dará a los usuarios la opción de planificar las rutas automáticamente y dará a conocer en tiempo real la disponibilidad del servicio.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 161.
 
-Las plataformas digitales facilitarán los sistemas de evaluación y retroalimentación entre usuarios y conductores.
+Las plataformas tecnológicas o digitales facilitarán los sistemas de evaluación y retroalimentación entre usuarios y conductores.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 162.
 
-Los usuarios podrán conocer el costo aproximado del viaje previo a aceptar el mismo. Cualquier modificación o variación en el destino o trayecto por el usuario durante el recorrido, tendrá como consecuencia una modificación en la tarifa cotizada por la plataforma digital, misma que deberá ser notificada al usuario, previo cobro del mismo. Al finalizar el viaje los usuarios recibirán por correo electrónico un recibo del viaje.
+Los usuarios podrán conocer el costo aproximado del viaje previo a aceptar el mismo. Cualquier modificación o variación en el destino o trayecto por el usuario durante el recorrido, tendrá como consecuencia una modificación en la tarifa cotizada por la plataforma tecnológica o digital, misma que deberá ser notificada al usuario, previo a la prestación del servicio y cobro del mismo. Al finalizar el viaje los usuarios recibirán por correo electrónico un recibo del viaje.
 
-Las plataformas digitales únicamente podrán generar cargos a los usuarios una vez completado el trayecto indicado por el usuario. En ningún caso la cancelación previa del servicio generará cargos para los usuarios.
+Las plataformas tecnológicas o digitales únicamente podrán generar cargos a los usuarios una vez completado el trayecto indicado por el usuario. En ningún caso la cancelación previa del servicio generará cargos para los usuarios.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 163.
 
-El vehículo que se utilice para prestar el servicio de transporte a través de plataformas digitales deberá cumplir con los siguientes requisitos:
+El vehículo que se utilice para prestar el servicio público de transporte a través de plataformas tecnológicas o digitales deberá cumplir con los siguientes requisitos:
 
 I. Que el valor del vehículo exceda de dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -2031,15 +2155,19 @@ III. Que tenga un máximo de cinco plazas, incluyendo al conductor, mínimo cuat
 
 IV. Estar al corriente en el pago de sus obligaciones fiscales y cumplir con las demás disposiciones de carácter legal o administrativo que le resulten aplicables, y
 
-V. Cumplir con las condiciones físicas y mecánicas idóneas para la prestación del servicio de transporte a través de plataformas digitales de conformidad con lo establecido por la presente Ley y lo dispuesto por el Instituto.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+V. Cumplir con las condiciones físicas y mecánicas idóneas para la prestación del servicio público de transporte a través de plataformas tecnológicas o digitales de conformidad con lo establecido por la presente Ley y lo dispuesto por el Instituto.
 
 ###### Artículo 164.
 
-Las personas morales autorizadas que medien la contratación del servicio de transporte entre particulares y permisionarios a través de plataformas digitales deberán cumplir con lo dispuesto por la normatividad aplicable en materia de protección de datos personales.
+Las personas morales autorizadas que medien la contratación del servicio público de transporte entre particulares y permisionarios a través de plataformas tecnológicas o digitales deberán cumplir con lo dispuesto por la normatividad aplicable en materia de protección de datos personales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 165.
 
-Las autorizaciones y permisos otorgados conforme al presente Capítulo se extinguen por las siguientes causas:
+Las autorizaciones y concesiones otorgadas conforme al presente Capítulo se extinguen por las siguientes causas:
 
 I. La expiración del plazo o de la prórroga que en su caso se hubiere otorgado;
 
@@ -2049,29 +2177,41 @@ III. Renuncia del titular, admitida por el Instituto;
 
 IV. Transmisión del derecho, sin autorización del Instituto;
 
-V. La omisión del pago de las contribuciones relacionadas con las autorizaciones y permisos;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+V. La omisión del pago de las contribuciones relacionadas con las autorizaciones y concesiones;
 
 VI. Revocación, y
 
 VII. Las demás que se deriven de la presente Ley y/o que se establezcan en su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 166.
 
-Son causas de revocación de las autorizaciones y permisos:
+Son causas de revocación de las autorizaciones y concesiones:
 
-I. Que el titular de la autorización o del permiso, por sí mismo o a través de sus empleados, operadores o personas relacionadas con la prestación del servicio público, se haga acreedor a infracciones calificadas como graves, de conformidad con la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-II. Cuando se compruebe por la autoridad competente y en última instancia que la plataforma digital o el vehículo que se utilice para prestar el servicio de transporte a través de plataformas digitales, ha sido instrumento para la comisión de algún delito, por el titular de la autorización o permiso, algún miembro operador, conductor o partícipe de la autorización o permiso;
+I. Que el titular de la autorización o de la concesión, por sí mismo cuando sea operador o a través de sus empleados, operadores o personas relacionadas con la prestación del servicio público, se haga acreedor a infracciones calificadas como graves, de conformidad con la presente Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+II. Cuando se compruebe por la autoridad competente y en última instancia que la plataforma tecnológica o digital o el vehículo que se utilice para prestar el servicio público de transporte a través de plataformas tecnológica o digitales, ha sido instrumento para la comisión de algún delito, por el titular de la autorización o concesión, algún miembro operador, conductor o partícipe de la autorización o concesión;
 
 III. Por utilidad pública, y
 
 IV. Las demás que establezca la presente Ley y su Reglamento.
 
-En el caso previsto en la fracción II de este artículo, el Instituto podrá declarar la suspensión de la autorización o permiso, o de ambos, a solicitud de la autoridad investigadora, hasta en tanto se deslindan las responsabilidades por la autoridad competente.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+En el caso previsto en la fracción II de este artículo, el Instituto podrá declarar la suspensión de la autorización o concesión, o de ambos, a solicitud de la autoridad investigadora, hasta en tanto se deslindan las responsabilidades por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 167.
 
-La extinción de una autorización o permiso por cualquiera de las causas establecidas en éste u otros ordenamientos, será declarada administrativamente por el Instituto, de acuerdo con el procedimiento establecido en el Reglamento.
+La extinción de una autorización o concesión por cualquiera de las causas establecidas en éste u otros ordenamientos, será declarada administrativamente por el Instituto, de acuerdo con el procedimiento establecido en el Reglamento.
 
 ### CAPÍTULO NOVENO. De las Licencias y Permisos para Conducir
 
@@ -2209,7 +2349,9 @@ VII. De vehículos matriculados en el Estado de Quintana Roo;
 
 VIII. De vehículos de Transporte de Seguridad Privada;
 
-IX. De las autorizaciones, permisos y certificados en materia de servicios de transporte contratados a través de plataformas digitales;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+IX. De las autorizaciones, concesiones y certificados en materia de servicios de transporte contratados a través de plataformas tecnológicas o digitales;
 
 X. De infracciones, sanciones y delitos relacionados con el transporte;
 
@@ -2261,7 +2403,9 @@ III. Solicitar el auxilio de los agentes de la Secretaría de Seguridad Pública
 
 IV. Practicar visitas de supervisión en las terminales y sitios de los vehículos destinados al servicio de transporte público de carga y de pasajeros;
 
-V. Verificar en las vialidades de competencia del Estado que los vehículos destinados al servicio de transporte público, privado o contratado a través de Plataformas Digitales, cumplan con las disposiciones relativas a las características que les correspondan;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+V. Verificar en las vialidades de competencia del Estado que los vehículos destinados al servicio de transporte público, privado o contratado a través de Plataformas Tecnológicas o Digitales, cumplan con las disposiciones relativas a las características que les correspondan;
 
 VI. Requerir a los concesionarios, permisionarios o autorizados, previa orden del Director General del Instituto, datos técnicos y estadísticos acerca de la operación del servicio concesionado o permitido, así como los expedientes individuales de los concesionarios, permisionarios y operadores de los vehículos concesionados o sujetos a permiso o autorización, y
 
@@ -2387,7 +2531,9 @@ b) No exhibir en forma permanente y en lugares visibles, las tarifas aprobadas p
 
 c) No contar con la licencia requerida para la operación del correspondiente vehículo.
 
-III. Autorizados para mediar la contratación de transporte a través de plataformas digitales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
+
+III. Autorizados para mediar la contratación de transporte a través de plataformas tecnológicas o digitales:
 
 a) No contar con una política clara de no discriminación de usuarios y operadores que utilicen el servicio;
 
@@ -2395,11 +2541,17 @@ b) Omitir entregar al Instituto cada trimestre la lista de conductores y vehícu
 
 c) No acreditar haber capacitado a los permisionarios inscritos en materia de protocolos de actuación que el Instituto señale.
 
-IV. Permisionarios de transporte a través de plataformas digitales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
 
-a) Prestar el servicio de transporte a través de plataformas digitales sin ser propietario del vehículo o sin la autorización de aquél;
+IV. Concesionarios de transporte a través de plataformas tecnológicas o digitales:
 
-b) Que el vehículo con el que se presta el servicio de transporte a través de plataformas digitales no cumpla con los requisitos establecidos en la presente Ley o no cuente con el certificado vehicular correspondiente expedido por el Instituto o éste no se encuentre vigente;
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+a) Prestar el servicio público de transporte a través de plataformas tecnológicas o digitales sin ser propietario del vehículo o sin la autorización de aquél;
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+b) Que el vehículo con el que se presta el servicio público de transporte a través de plataformas tecnológicas o digitales no cumpla con los requisitos establecidos en la presente Ley o no cuente con el certificado vehicular correspondiente expedido por el Instituto o éste no se encuentre vigente;
 
 c) No prestar el servicio de conformidad con los términos y condiciones del contrato, así como con las demás disposiciones contenidas en la presente Ley;
 
@@ -2477,21 +2629,31 @@ c) Causar lesiones que pongan en peligro la seguridad o la vida de los usuarios 
 
 d) Prestar el servicio bajo la influencia de alcohol o sustancias psicotrópicas, estupefacientes o que produzcan efectos similares.
 
-IV. Operadores de la contratación del servicio de transporte a través de plataformas digitales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
+
+IV. Operadores de la contratación del servicio público de transporte a través de plataformas tecnológicas o digitales:
 
 a) Opere la plataforma sin la autorización del Instituto;
 
-b) No coadyuvar con las autoridades para la detención de probables responsables de la comisión de hechos delictivos o no proporcione oportunamente la información que le sea solicitada conforme a la normatividad aplicable;
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+b) No aportar los datos de prueba y/o objetos relacionados en algún hecho ilícito que tengan relación con los de probables responsables de la comisión de hechos delictivos o no proporcione oportunamente la información que le sea solicitada conforme a la normatividad aplicable;
 
 c) No contar con procedimientos que a través de pruebas y estudios permitan determinar si sus permisionarios son aptos para ofrecer el servicio correspondiente o que, contando con ellos, no los aplique, y
 
 d) No contar con equipo de geolocalización tipo GPS en las unidades certificadas.
 
-V. Permisionarios de transporte a través de plataformas digitales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
 
-a) Que el vehículo con que se presta el servicio de transporte a través de plataformas digitales no cuente con póliza de seguro amplia en favor del pasajero y contra daños a terceros, conforme a lo establecido en el Reglamento;
+V. Concesionarios de servicio público de transporte a través de plataformas tecnológicas o digitales:
 
-b) No contar con el permiso, el certificado vehicular, la licencia de conducir y la tarjeta de circulación correspondientes, así como el documento físico expedido por la persona moral autorizada, cuando se encuentren prestando el servicio, y
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+a) Que el vehículo con que se presta el servicio público de transporte a través de plataformas tecnológicas o digitales no cuente con póliza de seguro amplia en favor del pasajero y contra daños y perjuicios a terceros, conforme a lo establecido en el Reglamento;
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+b) No contar con la Concesión, el certificado vehicular, la licencia de conducir y la tarjeta de circulación correspondientes, así como el documento físico expedido por la persona moral autorizada, cuando se encuentren prestando el servicio, y
 
 c) Presten el servicio bajo la influencia de alcohol o sustancias psicotrópicas, estupefacientes o que produzcan efectos similares.
 
@@ -2646,3 +2808,13 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 (RUBRICA)
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 252 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día en que entre en vigor la Ley de Movilidad del Estado de Quintana Roo, expedida mediante el Decreto Número 213 de la H. XV Legislatura del Estado, publicado en el Periódico Oficial del Estado de Quintana Roo el día 14 de junio de 2018.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
