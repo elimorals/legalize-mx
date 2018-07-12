@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2016-12-27"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -90,9 +90,35 @@ VIII. Integración social. Es el resultado de las acciones que realizan las depe
 
 IX. Atención integral. Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores. Para facilitarles una vejez plena y sana se considerarán sus hábitos, capacidades funcionales, usos y costumbres y preferencias;
 
-X. Calidad del servicio. Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales, y
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2018)</small>
 
-XI. Instituto. Instituto Nacional de las Personas Adultas Mayores.
+X. Calidad del servicio. Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
+
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2018)</small>
+
+XI. Instituto. Instituto Nacional de las Personas Adultas Mayores, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2018)</small>
+
+XII. Violencia Contra las Personas Adultas Mayores. Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JULIO DE 2018)</small>
+
+###### Artículo 3o. Bis.
+
+Los tipos de violencia contra las Personas Adultas Mayores, son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS Y LOS DERECHOS
 
@@ -146,13 +172,19 @@ c. A recibir asesoría jurídica en forma gratuita en los procedimientos adminis
 
 d. En los procedimientos que señala el párrafo anterior, se deberá tener atención preferente en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia.
 
-III. De la salud, la alimentación y la familia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE JULIO DE 2018)</small>
+
+III. De la protección de la salud, la alimentación y la familia:
 
 a. A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral.
 
 b. A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4o. Constitucional y en los términos que señala el artículo 18 de esta Ley, con el objeto de que gocen cabalmente del derecho a su sexualidad, bienestar físico, mental y psicoemocional.
 
 c. A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JULIO DE 2018)</small>
+
+d. A desarrollar y fomentar la capacidad funcional que les permita ejecutar sus tareas y desempeñar sus roles sociales.
 
 Las familias tendrán derecho a recibir el apoyo subsidiario de las instituciones públicas para el cuidado y atención de las personas adultas mayores.
 
@@ -164,9 +196,15 @@ a. A recibir de manera preferente el derecho a la educación que señala el art�
 
 b. Las instituciones educativas, públicas y privadas, deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo los libros de texto gratuitos y todo material educativo autorizado y supervisado por la Secretaría de Educación Pública, incorporarán información actualizada sobre el tema del envejecimiento y las personas adultas mayores.
 
-V. Del trabajo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE JULIO DE 2018)</small>
+
+V. Del trabajo y sus capacidades económicas:
 
 A gozar de igualdad de oportunidades en el acceso al trabajo o de otras opciones que les permitan un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JULIO DE 2018)</small>
+
+A ser sujetos de acciones y políticas públicas de parte de las instituciones federales, estatales y municipales, a efecto de fortalecer su plena integración social.
 
 VI. De la asistencia social:
 
@@ -191,8 +229,6 @@ e. A formar parte de los diversos órganos de representación y consulta ciudada
 VIII. De la denuncia popular:
 
 Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas adultas mayores.
-
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL ARTÍCULO ÚNICO TRANSITORIO.</small>
 
 > <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2006)</small>
 
@@ -913,5 +949,23 @@ D.O.F. 22 DE NOVIEMBRE DE 2016.
 D.O.F. 27 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 8o. DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN UNA FRACCIÓN XII AL ARTÍCULO 3o. Y UN ARTÍCULO 3o. BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V Y ADICIONA UN SEGUNDO PÁRRAFO A DICHA FRACCIÓN DEL ARTÍCULO 5o. DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5o., Y SE ADICIONA EL INCISO D AL ARTÍCULO 5o. A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
