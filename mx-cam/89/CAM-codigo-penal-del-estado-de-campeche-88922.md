@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2018-06-26"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -3841,7 +3841,7 @@ Una vez decretada la sentencia condenatoria y la misma haya causado ejecutoria, 
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 353.
 
@@ -4013,15 +4013,17 @@ Se impondrán de dos a ocho años de prisión y multa de mil a cinco mil días d
 
 ###### Artículo 381.
 
-Al que mediante acción u omisión, realice actos de maltrato o crueldad en contra de cualquier animal con la intención de ocasionarle dolor, sufrimiento o afectar su bienestar, de manera ilícita o sin causa justificada, provocándole lesiones que no pongan en peligro la vida, se le impondrán de tres meses a un año de prisión y multa de cincuenta a cien días de salario.
+Al que mediante acción u omisión, realice actos de maltrato o crueldad en contra de cualquier animal con la intención de ocasionarle dolor, sufrimiento o afectar su bienestar, de manera ilícita o sin causa justificada, provocándole lesiones que no pongan en peligro la vida, se le impondrán de seis meses a un año de prisión y multa de cincuenta a cien Unidades Diarias de Medida y Actualización.
 
 Las penas se incrementarán en una mitad en los siguientes supuestos:
 
-I. Si las lesiones ponen en peligro la vida del animal;
+I.- Si las lesiones ponen en peligro la vida del animal;
 
-II. Si se utilizan métodos de extrema crueldad; y
+II.- Si se utilizan métodos de extrema crueldad;
 
-III. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los fotografía o videograba para hacerlos públicos.
+III.- Si las lesiones derivan en mutilaciones o pérdida de algún sentido vital del animal; y
+
+IV. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los fotografía o videograba para hacerlos públicos.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4035,17 +4037,19 @@ Para efectos de este capítulo se considera animal, toda especie de mamíferos n
 
 Para efectos de este capítulo se consideran actos de maltrato o crueldad en contra de los animales, las conductas humanas activas u omisivas que les causen cualquier mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales sin fines médicos justificados; la privación de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos y alojamiento adecuado; el abandono en cualquier vía; su desatención por períodos prolongados; y todo acto u omisión que les pueda ocasionar dolor o sufrimiento físico, instintivo o emocional.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 384.
 
-Se impondrán de seis meses a dos años de prisión y multa de doscientos cincuenta a quinientos días de salario si los actos de maltrato o crueldad derivan en zoofilia, provocan la muerte, o si se prolonga intencionalmente la agonía del animal.
+Se impondrán de uno a dos años de prisión y multa de doscientos cincuenta a quinientas Unidades Diarias de Medida y Actualización si los actos de maltrato o crueldad derivan en zoofilia, provocan la muerte, o si se prolonga intencionalmente la agonía del animal.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+La misma pena se aplicará a quien incurra en las conductas previstas en el artículo 12 de la Ley de Protección a los Animales para el Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 385.
 
-Se impondrá de uno a dos años de prisión y multa de quinientos a mil días de salario a quien realice, patrocine, promueva, difunda o permita la realización de actos de maltrato animal que deriven en zoofilia o peleas de perros u otros animales, en predios de su propiedad o posesión o en cualquier otro lugar, establecimiento, inmueble sea público o privado incluidas las vías de comunicación y demás lugares públicos.
+Se impondrán de uno a tres años de prisión y multa de quinientos a mil Unidades Diarias de Medida y Actualización a quien realice, patrocine, promueva, difunda o permita la realización de actos de maltrato animal que deriven en zoofilia o peleas de perros u otros animales, en predios de su propiedad o posesión o en cualquier otro lugar, establecimiento, inmueble sea público o privado incluidas las vías de comunicación y demás lugares públicos.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4244,3 +4248,11 @@ P.O. 26 DE JUNIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 281 POR EL QUE SE “REFORMAN LOS ARTÍCULOS 381, 384 Y 385 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
