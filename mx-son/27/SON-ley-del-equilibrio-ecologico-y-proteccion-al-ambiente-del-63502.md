@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2018-06-25"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -124,6 +124,10 @@ XVII.- Desequilibrio ecológico: Alteración de las relaciones de interdependenc
 XVIII.- Ecosistema: Unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
 XIX.- Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
+XIX BIS.- Emisión: La generación o descarga de materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmosfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su salud, composición o condición natural. En materia de cambio climático, es la liberación a la atmósfera de gases de efecto invernadero, y/o sus precursores, en la atmósfera, en un área y en un espacio de tiempo específicos;
 
 XX.- Equilibrio ecológico: Relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
@@ -236,6 +240,10 @@ En la aplicación e interpretación de la presente ley, deberán observarse los 
 Las atribuciones en las materias objeto de esta ley serán ejercidas por el Estado y los municipios, conforme a las bases establecidas en el artículo 4º de la Ley General.
 
 La distribución de competencias en materia forestal se establece en la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+La distribución de competencias en materia de cambio climático se establece en la Ley de Cambio Climático del Estado de Sonora.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -555,7 +563,9 @@ IV.- Se deberá promover y privilegiar el uso y el establecimiento de sistemas d
 
 V.- Se establecerán y manejarán en forma prioritaria las áreas de conservación ecológica en torno a los asentamientos humanos;
 
-VI.- Las autoridades ambientales, en la esfera de sus competencias, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana y ambiental para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable;
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
+
+VI.- Las autoridades ambientales, en la esfera de sus competencias, promoverán la utilización de instrumentos económicos, fiscales y financieros de política urbana, de cambio climático y ambiental para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable;
 
 VII.- El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice;
 
@@ -579,9 +589,17 @@ II.- Fomentar la incorporación de información confiable y suficiente sobre las
 
 III.- Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, procurar que quienes dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas asuman los costos respectivos;
 
-IV.- Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental; y
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
 
-V.- Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
+IV.- Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental;
+
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
+
+V.- Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población; y
+
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
+VI.- Promover la transición hacia una economía competitiva, sustentable, de bajas emisiones de carbono y resiliente a los efectos del cambio climático.
 
 ###### ARTÍCULO 24.
 
@@ -617,13 +635,17 @@ V.- El establecimiento, manejo y vigilancia de áreas naturales protegidas, así
 
 VI.- Los procesos, productos y servicios que, conforme a la normatividad aplicable, hayan sido certificados ambientalmente;
 
-> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 12 DE JULIO DE 2018)</small>
 
-VII.- En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente previstas en éste y en otros ordenamientos aplicables; y
+VII.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático;
 
-> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
 
-VIII.- El desarrollo de infraestructura verde.
+VIII.- El desarrollo de infraestructura verde; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 12 DE JULIO DE 2018)</small>
+
+IX.- En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente previstas en éste y en otros ordenamientos aplicables.
 
 #### SECCIÓN V. DE LA AUTORIZACIÓN EN MATERIA DE IMPACTO AMBIENTAL
 
@@ -645,25 +667,49 @@ a) Obra pública estatal;
 
 b) Zonas y parques industriales que no sean de competencia federal;
 
-c) Construcciones para usos industriales y los establecimientos industriales, que no sean de competencia federal;
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
-d) Exploración, explotación y beneficio de minerales o sustancias no reservadas a la Federación;
+c) Construcción de establecimientos para usos industriales, que no sean de competencia federal;
 
-e) Desarrollos turísticos o industriales;
+> <small>(REFORMADO [N. DE ADICIONADO], B.O. 12 DE JULIO DE 2018)</small>
 
-f) Sistemas de tratamiento, confinamiento o eliminación de residuos sólidos urbanos y de manejo especial;
+d) Operación de establecimientos industriales, que no sean de competencia federal;
 
-g) Nuevos centros de población;
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
-h) Caminos de jurisdicción estatal;
+e) Exploración, explotación y beneficio de minerales o sustancias no reservadas a la Federación;
 
-i) Explotación y aprovechamiento de animales en todas sus fases en ambientes controlados y no controlados;
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
-j) Obras y actividades que por su naturaleza y complejidad requieran de la participación del Estado a petición de los ayuntamientos;
+f) Desarrollos turísticos o industriales;
 
-k) Obras y actividades en áreas naturales protegidas de jurisdicción estatal; y
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
-l) Las demás que no sean competencia de la Federación o de los ayuntamientos; y
+g) Sistemas de tratamiento, confinamiento o eliminación de residuos sólidos urbanos y de manejo especial;
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+h) Nuevos centros de población;
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+i) Caminos de jurisdicción estatal;
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+j) Explotación y aprovechamiento de animales en todas sus fases en ambientes controlados y no controlados;
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+k) Obras y actividades que por su naturaleza y complejidad requieran de la participación del Estado a petición de los ayuntamientos;
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+l) Obras y actividades en áreas naturales protegidas de jurisdicción estatal; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 12 DE JULIO DE 2018)</small>
+
+m) Las demás que no sean competencia de la Federación o de los ayuntamientos; y
 
 II.- Los ayuntamientos:
 
@@ -671,9 +717,13 @@ a) Obra pública municipal;
 
 b) Caminos de jurisdicción municipal;
 
-c) Construcciones para uso mercantil o de servicios;
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
-d) Establecimientos mercantiles y de servicios;
+c) Construcción de establecimientos para usos mercantil o de servicios;
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+d) Operación de establecimientos mercantiles o de servicios.
 
 e) Fraccionamientos y unidades habitacionales;
 
@@ -691,7 +741,9 @@ I.- Las obras y actividades relacionadas con éstas cuenten previamente con la a
 
 II.- No impliquen incremento alguno en el nivel de impacto o riesgo ambiental, en virtud de su ubicación, dimensiones, características o alcances tales como conservación, reparación y mantenimiento de bienes inmuebles; construcción, instalación y demolición de bienes inmuebles en áreas urbanas, o modificación de bienes inmuebles cuando se pretenda llevar a cabo en la superficie del terreno ocupada por la construcción o instalación de que se trate.
 
-En los casos referidos en las dos fracciones anteriores, los interesados deberán dar aviso a la Comisión o al Ayuntamiento, según corresponda, cinco días antes de la realización de dichas acciones.
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+En los casos referidos en las dos fracciones anteriores, los interesados deberán solicitar dictamen a la Comisión o al Ayuntamiento, diez días hábiles antes de la realización de dichas obras para que la autoridad analice si las acciones que realizarán encuadran en los supuestos del presente artículo y dictamine positiva o negativamente en un plazo de hasta setenta y dos horas antes del inicio de la obra o actividad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -701,9 +753,19 @@ Las obras o actividades que ante la inminencia de un desastre se realicen con fi
 
 Además del aviso a que se refiere el párrafo anterior, se deberá presentar, dentro de un plazo de veinte días hábiles contados a partir de la realización de las obras o actividades, un informe de las acciones realizadas y de las medidas de mitigación y compensación que se apliquen o se pretendan aplicar como consecuencia de dichas obras o actividades.
 
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 30.
 
-Los ayuntamientos deberán condicionar el otorgamiento de las autorizaciones para el uso de suelo y de licencias de construcción, a la presentación de la autorización en materia de impacto ambiental para las obras o actividades que la requieran, de acuerdo con esta Sección.
+Los ayuntamientos deberán otorgar las autorizaciones para el uso de suelo, de acuerdo con el ordenamiento aplicable al desarrollo urbano que se implemente en la localidad de que se trate.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 30
+
+BIS.- Para efectos de lo dispuesto en el artículo 26 de esta Ley, cuando ya haya iniciado una obra o actividad de competencia estatal o municipal, el interesado podrá acudir ante la Comisión o los Ayuntamientos, en su caso, para someter al procedimiento de evaluación de impacto ambiental la parte de la obra o actividad aún no realizada, mediante la licencia ambiental integral.
+
+La Comisión o los Ayuntamientos, notificarán a la Procuraduría a fin de que se determine, de ser el caso, las sanciones que procedan en los términos de esta Ley.
 
 #### SECCIÓN VI. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
@@ -757,11 +819,11 @@ La Comisión y los ayuntamientos sólo evaluarán y otorgarán validez a los tra
 
 #### SECCIÓN VII. DE LA INVESTIGACIÓN, EDUCACIÓN Y CULTURA ECOLÓGICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 36.
 
-La Comisión en coordinación con la Procuraduría, y los ayuntamientos establecerán programas sobre cultura ambiental con el objeto de propiciar actitudes y conductas de participación comunitaria en las tareas de protección, conservación y restauración del ambiente el aprovechamiento sustentable de los recursos naturales y propiciar los conocimientos sobre las causas del deterioro del mismo, así como las medidas para su prevención y control, además de promover la participación individual y colectiva que se puedan tomar para mejorar la calidad ambiental y de vida.
+La Comisión en coordinación con la Procuraduría, y los ayuntamientos establecerán programas sobre cultura ambiental con el objeto de propiciar actitudes y conductas de participación comunitaria en las tareas de protección, conservación y restauración del ambiente, la mitigación y adaptación al cambio climático, el aprovechamiento sustentable de los recursos naturales y propiciar los conocimientos sobre las causas del deterioro del mismo, así como las medidas para su prevención y control, además de promover la participación individual y colectiva que se puedan tomar para mejorar la calidad ambiental y de vida.
 
 Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica, y la socialización de proyectos de desarrollo sustentable.
 
@@ -773,13 +835,15 @@ Todos los habitantes tienen derecho a la educación ambiental, al acceso a la in
 
 El Estado y los ayuntamientos promoverán la incorporación de contenidos de carácter ecológico en el sistema educativo estatal, especialmente en los niveles básico y medio superior. Asimismo, fomentarán la realización de acciones de concientización y cultura ecológicas que propicien el fortalecimiento de la educación ambiental de la población.
 
-La Comisión en coordinación con la Secretaría de Educación y Cultura establecerán un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y actitudes orientados a favorecer las transformaciones necesarias para alcanzar el desarrollo sustentable, así como la conservación y restauración de los recursos naturales.
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+La Comisión en coordinación con la Secretaría de Educación y Cultura establecerán un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y actitudes orientados a favorecer las transformaciones necesarias para alcanzar el desarrollo sustentable, la conservación y restauración de los recursos naturales y las acciones de mitigación y adaptación al cambio climático;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 39.
 
-La Comisión en coordinación con la Procuraduría, y con la participación de las autoridades competentes, promoverán ante las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los ecosistemas de la entidad.
+La Comisión en coordinación con la Procuraduría, y con la participación de las autoridades competentes, promoverán ante las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el Estado; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, mitigar y adaptarse al cambio climático y proteger los ecosistemas de la entidad.
 
 Para llevar a cabo dichas actividades, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
@@ -809,7 +873,9 @@ III.- Sus programas anuales de obra pública y adquisiciones.
 
 Los productores, los establecimientos y organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental respetando la legislación y normatividad vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-La Comisión y los ayuntamientos, en el ámbito de sus respectivas competencias, inducirán o concertarán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 12 DE JULIO DE 2018)</small>
+
+La Comisión, la Procuraduría y los ayuntamientos, en el ámbito de sus respectivas competencias, inducirán o concertarán:
 
 I.- El desarrollo de procesos productivos y actividades de establecimientos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia convenidos con cámaras de industria, comercio, servicios y otras actividades productivas, organizaciones de productores, comerciantes y de prestadores de servicios, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
@@ -823,7 +889,9 @@ IV.- Las demás acciones que induzcan a alcanzar los objetivos de la política a
 
 Los responsables del funcionamiento de los establecimientos podrán, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones respecto de la contaminación y el riesgo que generan, así como del grado de cumplimiento de la normatividad ambiental, de los parámetros internacionales y de las buenas prácticas de operación, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente, que se establecerán en un plan de acción de mejoramiento ambiental.
 
-Las auditorías ambientales a que se refiere este artículo serán voluntarias y se llevarán a cabo en los términos que establezca el reglamento respectivo de esta ley. La Comisión o, en su caso, los ayuntamientos reconocerán los compromisos y medidas establecidos en el plan de acción correspondiente, y podrán estimular el cumplimiento oportuno de los mismos.
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+Las auditorías ambientales a que se refiere este artículo serán voluntarias, éstas y el proceso de certificación respectivo serán gestionados ante la Procuraduría y se llevarán a cabo en los términos que establezca el reglamento respectivo de esta ley. La Comisión, la Procuraduría o, en su caso, los ayuntamientos reconocerán los compromisos y medidas establecidas en el plan de acción correspondiente, y podrán estimular el cumplimiento oportuno de los mismos.
 
 Los costos de las auditorías, así como los gastos generados por la ejecución del plan de acción, correrán por cuenta de los responsables de los establecimientos de que se trate.
 
@@ -1251,11 +1319,17 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 ### CAPÍTULO I. OBJETO Y PRESENTACIÓN DE LA LICENCIA AMBIENTAL INTEGRAL
 
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 82.
 
-Los interesados en llevar a cabo cualquier obra o actividad que requiera de algún permiso, licencia, autorización, registro u otro acto administrativo similar en materia ambiental deberán tramitarlos mediante la Licencia Ambiental Integral, que presentarán ante la Comisión o los ayuntamientos, según corresponda, de acuerdo con sus respectivas competencias.
+Los interesados en llevar a cabo cualquier obra o actividad que requiera de algún permiso, licencia, autorización u otro acto administrativo similar en materia ambiental deberán tramitarlos mediante la Licencia Ambiental Integral, que presentarán ante la Comisión o los ayuntamientos, según corresponda, de acuerdo con sus respectivas competencias.
 
-Quedan exceptuados de tramitarse a través de la Licencia Ambiental Integral, los permisos y autorizaciones requeridos por esta ley para la combustión a cielo abierto y la operación de los centros de verificación vehicular a que se refieren los artículos 116 y 121 de esta ley.
+Quedan exceptuados de tramitarse a través de la Licencia Ambiental Integral, los permisos y autorizaciones requeridos por esta ley para la combustión a cielo abierto y la operación de los centros de verificación vehicular, así como los registros de microgeneradores de residuos peligrosos, la prestación del servicio de transporte de residuos de manejo especial, y de generadores de residuos de manejo especial, a que se refieren los artículos 116, 121, 153 y 156, respectivamente, de esta ley.
+
+Los registros señalados en el párrafo anterior deberán ser solicitados mediante el formato que la Comisión determine, el cual considerará al menos los datos generales de la empresa, los tipos y volúmenes de generación anual de dichos residuos, la forma de almacenaje y su destino, no eximiéndolos de seguir los señalamientos establecidos de manera general para el manejo de estos residuos y de poder ser inspeccionados.
+
+La Comisión hará del conocimiento de los Ayuntamientos la solicitud, a más tardar dentro de los tres días hábiles siguientes a partir de la recepción de ésta; lo anterior, a efecto de que en un plazo no mayor a cinco días hábiles, contados a partir del día en que se haga de su conocimiento, manifiesten lo que a su derecho convenga.
 
 ###### ARTÍCULO 83.
 
@@ -1289,49 +1363,89 @@ La Comisión y los ayuntamientos proporcionarán, a solicitud de los interesados
 
 Cuando existan normas oficiales mexicanas, criterios ecológicos u otras disposiciones que regulen el aprovechamiento de recursos naturales, las emisiones, descargas y, en general, todos los impactos y riesgos ambientales relevantes que se puedan producir en el desarrollo de una obra o actividad, el responsable de ésta podrá presentar una solicitud simplificada de Licencia Ambiental Integral, misma que deberá contener la información señalada en las fracciones I, II, III y VI del artículo anterior.
 
-#### SECCIÓN I. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
+
+#### SECCIÓN I. PUBLICIDAD DE LA LICENCIA AMBIENTAL INTEGRAL Y CONSULTA PÚBLICA
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 85-A.
+
+Una vez que la Comisión y, en su caso, los ayuntamientos reciban una solicitud de Licencia Ambiental Integral pondrán a disposición del público en general, por medio de su tablón de aviso y por los medios electrónicos de los que dispongan, un resumen del proyecto, que contendrá: los datos del promoverte (sic); la denominación de la obra o actividad de que se trate; ubicación, identificación y descripción de los impactos y riesgos ambientales; y por último, las estrategias para la prevención y mitigación de impactos y riesgos ambientales.
+
+La Comisión y los Ayuntamientos, al recibir una solicitud de Licencia Ambiental Integral integrarán el expediente respectivo en un plazo no mayor a diez días hábiles contados a partir del término concedido a los ayuntamientos en el último párrafo del artículo 82 de la presente ley.
+
+Los promoventes de la Licencia Ambiental Integral podrán requerir que se mantenga en reserva la información integrada al expediente, que de hacerse pública pudiera afectar derechos de propiedad industrial o la confidencialidad de la información comercial aportada, conforme a las formalidades establecidas en el reglamento de esta Ley en materia de Licencia
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 85-B.
+
+La Comisión y, en su caso, los ayuntamientos, a solicitud de cualquier persona de la comunidad de que se trate, podrá someter el proyecto a consulta pública, conforme a los lineamientos que para tal efecto establezca el reglamento de esta ley en materia de Licencia Ambiental Integral, así como a las siguientes bases:
+
+I.- La solicitud de consulta pública se deberá presentar por escrito ante la Comisión o el Ayuntamiento correspondiente, en un plazo máximo de cinco días hábiles contados a partir de la publicación del resumen general del proyecto de la Licencia Ambiental Integral a que se refiere el artículo 85-A, en los términos y con los requisitos que para tal efecto establezca el reglamento de esta ley en materia de Licencia Ambiental Integral;
+
+II.- Dentro de los cinco días hábiles siguientes a la presentación de la solicitud de consulta pública, se notificará a las partes, tanto al solicitante de la consulta como al promovente de la Licencia Ambiental Integral, la determinación de someterla al proceso de consulta pública;
+
+III.- En caso de llevar a cabo la consulta pública, se le requerirá al promovente de la solicitud de Licencia Ambiental Integral, para que en un término no mayor de cinco días hábiles contados a partir de que surta efectos la notificación, publique un extracto de la obra o actividad, el cual será el mismo que el que se ponga a disposición del público como lo señala el artículo 85-A, en un periódico de amplia circulación en la entidad. De no realizarse esta publicación se desechará el trámite de solicitud de Licencia Ambiental Integral;
+
+IV.- La Comisión y, en su caso, los ayuntamientos suspenderán el plazo para la integración del expediente, cuando decidan llevar a cabo la consulta pública, esta determinación relacionada con la suspensión de plazos, se le notificará a las partes;
+
+V.- Una vez publicado el extracto del proyecto en el periódico de mayor circulación, cualquier interesado dentro del plazo de diez días contados a partir de dicha publicación, podrá solicitar a la Comisión o al Ayuntamiento, ponga a disposición del público la Licencia Ambiental Integral o la manifestación de impacto ambiental y los documentos en que se sustenta, con el objeto de que puedan informarse sobre el proyecto en cuestión;
+
+VI.- Durante el proceso de consulta pública, la Comisión o el Ayuntamiento, podrá organizar una reunión pública de información cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas en la que el promovente explicará los aspectos técnicos ambientales de la obra o actividad de que se trate, de conformidad con las siguientes bases:
+
+A.- La Comisión o el Ayuntamiento correspondiente, dentro del plazo de veinte días contados a partir de que resuelva dar inicio a la consulta pública, emitirá una convocatoria en la que expresará el día, la hora y el lugar en que la reunión deberá verificarse. La convocatoria se publicará, por una sola vez, en el tablero de avisos, en los medios electrónicos disponibles y en un periódico de amplia circulación en el Estado.
+
+B.- La reunión deberá efectuarse, en todo caso, dentro de un plazo no mayor a cinco días con posterioridad a la fecha de publicación de la convocatoria y se desahogará en un solo día;
+
+VII.- Cualquier interesado, a partir de que se ponga a disposición del público la Licencia Ambiental Integral, o bien en la reunión a que se refiere la fracción VI de este artículo, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes, las cuales serán analizadas por la Comisión o el Ayuntamiento correspondiente.
+
+El proceso de consultas públicas y propuestas formuladas durante la misma, deben incorporarse al expediente correspondiente, y la autoridad competente resolverá sí serán vinculantes o no, respecto a la resolución que emita; sólo podrán ser vinculantes en los siguientes casos:
+
+a) Cuando haya quedado plenamente demostrado que la obra o actividad a evaluar, pudiera representar alteraciones de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos (desequilibrio ecológico);
+
+b) Daño al ambiente, a los ecosistemas y a la salud pública; y
+
+c) Las medidas de prevención y mitigación propuestas, son las procedentes para atenuar los impactos al ambiente.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE EVALUACIÓN DE LA LICENCIA AMBIENTAL INTEGRAL
 
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 86.
 
-La Comisión y los ayuntamientos, al recibir una solicitud de Licencia Ambiental Integral revisarán que se encuentre debidamente presentada, comunicándole al promovente, en ese mismo acto, las deficiencias formales que pudieran ser corregidas en ese momento.
+Dentro del plazo de diez días destinado para la integración del expediente, la Comisión y los Ayuntamientos, en su caso, podrán solicitar a los interesados las aclaraciones, rectificaciones o ampliaciones de las solicitudes de Licencia Ambiental Integral presentadas, debiendo éstos atenderlas dentro del término de cinco días hábiles posteriores a la fecha en que las autoridades las hubieran notificado.
 
-En el caso de solicitudes presentadas ante la Comisión, ésta las hará del conocimiento de los ayuntamientos correspondientes, a efecto de que en un plazo no mayor a tres días hábiles manifiesten lo que a su derecho convenga.
+Cuando la solicitud de Licencia Ambiental Integral no cumpla con los requisitos exigidos por esta ley, la autoridad prevendrá por escrito y por una sola vez al interesado o, en su caso, a su representante legal, para que dentro del término de cinco días hábiles subsane la falta; en el mismo acto podrá, si así se le hubiere requerido, hacer las aclaraciones, rectificaciones o ampliaciones a que se refiere el párrafo anterior.
+
+En el supuesto de que en el término de cinco días establecido en este artículo no se subsane la irregularidad o no se efectúen las aclaraciones, rectificaciones o ampliaciones requeridas, la autoridad resolverá que se tiene por no presentada la solicitud de Licencia Ambiental Integral.
+
+Contra el desechamiento o la negativa de dar trámite a la solicitud, procederá el recurso de inconformidad previsto en esta ley.
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 87.
 
-Cuando así lo consideren necesario, la Comisión y, en su caso, los ayuntamientos podrán realizar visitas de verificación física al lugar donde se pretenda ejecutar la obra o realizar la actividad, a efecto de constatar la autenticidad de la información y documentación presentada con la solicitud de Licencia Ambiental Integral.
+Cuando así lo consideren necesario, la Comisión o en su caso, los ayuntamientos podrán realizar visitas de verificación física al lugar donde se pretenda ejecutar la obra o realizar la actividad, a efecto de constatar la autenticidad de la información y documentación presentada con la solicitud de Licencia Ambiental Integral, cuyos resultados deberán quedar consignados en la resolución que dicten sobre dicha solicitud.
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 88.
 
-Recibida una solicitud de Licencia Ambiental Integral, la Comisión y los ayuntamientos integrarán el expediente respectivo y podrán requerir a los interesados las aclaraciones, rectificaciones o ampliaciones al contenido de la misma, así como la presentación de los elementos técnicos que sirvieron de base para determinar las descargas al ambiente, los impactos y riesgos ambientales que generaría la obra o actividad y las medidas de prevención y mitigación previstas, en un plazo de diez días hábiles posteriores a la fecha de su recepción.
+El procedimiento de evaluación de la Licencia Ambiental Integral no podrá exceder de diez días hábiles posteriores a la fecha en que quede integrado el expediente.
 
-Los interesados deberán dar respuesta al requerimiento de la autoridad ambiental dentro de los cinco días siguientes a la fecha en que lo reciban.
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la Comisión o los ayuntamientos requieran de un plazo mayor para su evaluación, éste se podrá ampliar hasta por veinte días hábiles adicionales, previa notificación al interesado por parte de la Comisión o el ayuntamiento respectivo.
+
+Cuando derivado de la evaluación la autoridad determine que es necesario allegarse de información complementaria, procederá a requerirla en cualquier momento de los plazos establecidos en el párrafo anterior, a efecto de que quien la posea la otorgue en el término de tres días hábiles.
 
 ###### ARTÍCULO 89.
 
-El procedimiento de evaluación de la Licencia Ambiental Integral no podrá exceder de diez días hábiles posteriores a la fecha en que se cuente con todos los elementos a que se refiere el artículo anterior. Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la Comisión o los ayuntamientos requieran de un plazo mayor para su evaluación, éste se podrá ampliar hasta por veinte días hábiles.
-
-Los promoventes de la Licencia Ambiental Integral podrán requerir que se mantenga en reserva la información integrada al expediente que de hacerse pública pudiera afectar derechos de propiedad industrial o la confidencialidad de la información comercial aportada.
+(DEROGADO, B.O. 12 DE JULIO DE 2018)
 
 ###### ARTÍCULO 90.
 
-Una vez que la Comisión y, en su caso, los ayuntamientos reciban una solicitud de Licencia Ambiental Integral e integre el expediente a que se refiere el artículo 88, pondrá ésta a disposición del público, con el fin de que pueda ser consultada por cualquier persona.
-
-Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
-
-La Comisión y, en su caso, los ayuntamientos, a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, conforme a las siguientes bases:
-
-I.- La Comisión y, en su caso, los ayuntamientos, publicará la solicitud de Licencia Ambiental Integral en su Gaceta Ecológica o, en su Tablón de Aviso, según corresponda. Asimismo, el promovente deberá publicar a su costa, un extracto del proyecto de la obra o actividad en un periódico de amplia circulación en la entidad, dentro del plazo de cinco días hábiles, contados a partir de la fecha en que se presente la solicitud de la Licencia Ambiental Integral a la Comisión y, en su caso, los ayuntamientos;
-
-II.- Cualquier ciudadano, dentro del plazo de diez días hábiles, contados a partir de la publicación del extracto del proyecto en los términos antes referidos, podrá solicitar a la Comisión y, en su caso, los ayuntamientos ponga a disposición del público, la Licencia Ambiental Integral;
-
-III.- Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con lo que señale el reglamento de la presente ley, la Comisión y, en su caso, los ayuntamientos, podrán organizar una reunión pública de información en la que el promovente explicará los aspectos técnicos ambientales de la obra o actividad de que se trate;
-
-IV.- Cualquier interesado, dentro del plazo de veinte días hábiles, contados a partir de que la Comisión y, en su caso, los ayuntamientos, ponga a disposición del público la solicitud de Licencia Ambiental Integral en los términos de la fracción I, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes; y
-
-V.- La Comisión y, en su caso, los ayuntamientos, agregará las observaciones realizadas por los interesados al expediente respectivo y consignará, en la resolución que emita, el proceso de consulta pública realizado y los resultados de las observaciones y propuestas que por escrito se hayan formulado.
+(DEROGADO, B.O. 12 DE JULIO DE 2018)
 
 ###### ARTÍCULO 91.
 
@@ -1379,15 +1493,19 @@ La Comisión y los ayuntamientos evaluarán los posibles efectos que las obras o
 
 ### CAPÍTULO III. DE LA RESOLUCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 97.
 
-La Comisión y los ayuntamientos dictarán la resolución sobre la solicitud de la Licencia Ambiental Integral dentro de los veinte días hábiles siguientes a aquél en el que haya sido presentada o, en su caso, entregada la información complementaria a que se refieren los artículos 88 y 93 de esta ley.
+Una vez evaluada la solicitud de Licencia Ambiental Integral, la Comisión y en su caso los ayuntamientos, emitirán, debidamente fundada y motivada, la resolución correspondiente en la que podrán:
 
-La resolución deberá estar debidamente fundada y motivada, y podrá:
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
 
-I.- Otorgar la Licencia Ambiental Integral;
+I.- Otorgar la Licencia Ambiental Integral en los términos solicitados;
 
-II.- Otorgar la Licencia Ambiental Integral, condicionada; o
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
+
+II.- Otorgar la Licencia Ambiental Integral de manera condicionada a la modificación del proyecto o al establecimiento de medidas adicionales de prevención, mitigación y/o compensación. En este caso la Comisión y los ayuntamientos señalarán los requerimientos que deban observarse en la realización de la obra o actividad prevista; o
 
 III.- Negar la Licencia Ambiental Integral, cuando:
 
@@ -1401,17 +1519,29 @@ d) El uso de suelo y las actividades que se llevan a cabo en la zona donde se pr
 
 e) Se afecte el interés público o los derechos de terceros;
 
-f) La solicitud no se ajuste a los requerimientos previstos en esta ley y las demás disposiciones que se deriven de la misma, y su formulación no se haya sujetado a lo que establezca la guía respectiva; o
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+f) La solicitud no se ajuste a los requerimientos previstos en esta ley y las demás disposiciones que se derivan de la misma; o
 
 g) Exista falsedad en la información proporcionada.
 
-La resolución sólo se referirá a los aspectos ambientales de las obras y actividades a que se refiera la solicitud.
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+La Comisión y los Ayuntamientos según corresponda, proporcionara un registro de las licencias emitidas e informaran cada seis meses a la Procuraduría, y esta a su vez, informará en ese periodo lo referente a las empresas o particulares sancionados, de modo tal que se generen las bases de datos que coadyuven a tener un mejor control en materia ambiental.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+ARTÍCULO 97 BIS.- La Comisión o el Ayuntamiento, según corresponda, podrán modificar términos, autorizaciones, licencias, permisos y condicionantes de la resolución de la Licencia Ambiental Integral a solicitud del particular, siempre y cuando no se afecte el ambiente y el interés público con dicha modificación, versen sobre una situación posterior a la presentación de su solicitud de Licencia Ambiental Integral y que la modificación planteada no implique un incremento en el impacto o riesgo de dicha obra o actividad que deba ser evaluada nuevamente.
+
+Dicha solicitud podrá efectuarse en cualquier momento dentro del periodo de vigencia de la Licencia Ambiental Integral y podrá realizarse en el formato que determine la Comisión debiendo contener la información necesaria para demostrar que la modificación no incrementa el impacto y riesgo autorizado previamente.
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 98.
 
-La Comisión o el Ayuntamiento respectivo indicarán en la Licencia Ambiental Integral la vigencia de la misma, el nombre o denominación de sus titulares, la obra o actividad autorizada, su ubicación y las condiciones de descarga al ambiente.
+La Comisión o el Ayuntamiento respectivo indicarán en la Licencia Ambiental Integral la vigencia de la misma, el nombre o denominación de sus titulares, la obra o actividad autorizada, su ubicación y las condiciones de descarga al ambiente, así como la información ambiental objeto de la evaluación, en la que se considere lo relacionado con los elementos del ambiente.
 
-Cuando no se afecte el ambiente ni el interés público y se haya dado cumplimiento a los términos y condiciones establecidos en la resolución correspondiente, la Comisión o el Ayuntamiento, a petición del interesado, podrán modificar, revalidar o prorrogar la vigencia de la Licencia otorgada.
+Cuando no se afecte el ambiente, ni el interés público y se haya dado cumplimiento a los términos y condiciones establecidos en la resolución correspondiente, la Comisión o el Ayuntamiento, a petición del interesado, podrán modificar, revalidar o prorrogar la vigencia de la Licencia otorgada, siempre que ésta no hubiere vencido, previa comprobación de cumplimiento de los términos y condiciones establecidos.
 
 ###### ARTÍCULO 99.
 
@@ -1446,6 +1576,12 @@ I.- Datos generales del promovente y de la Licencia Ambiental Integral otorgada;
 II.- Informe del cumplimiento de las medidas de prevención y mitigación de los impactos y riesgos ambientales que en su caso se hayan producido en el desarrollo y operación del proyecto; así como las descargas de contaminantes a los distintos elementos naturales; y
 
 III.- Posibles cambios o modificaciones de la obra o actividad autorizada en la Licencia Ambiental Integral.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+ARTÍCULO 103 BIS.- Para efectos del segundo párrafo del artículo anterior, en caso de posibles cambios o modificaciones de la obra o actividad autorizada en la Licencia Ambiental Integral, los titulares de ésta podrán presentar sólo los apartados que correspondan de la guía que para el efecto emita la autoridad ambiental correspondiente.
+
+La solicitud respectiva será presentada por el titular de la Licencia Ambiental Integral, bajo protesta de decir verdad, y será resuelta por la Comisión o los ayuntamientos, dentro del plazo de diez días hábiles contados a partir de la recepción de la misma.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -1487,7 +1623,9 @@ III.- Por revocación, en los casos previstos por el artículo anterior.
 
 Los titulares de una Licencia Ambiental Integral deberán otorgar ante la Comisión o el Ayuntamiento correspondiente los seguros o garantías para el cumplimiento de las condiciones establecidas en ésta, cuando por causa de la obra o actividad autorizada puedan producirse daños graves a los ecosistemas, la salud pública o bienes.
 
-La Comisión o el Ayuntamiento correspondiente fijarán el monto de los seguros o garantías atendiendo al valor de la reparación de los daños que pudieran ocasionarse, debiendo el titular de la Licencia, en su caso, renovar o actualizar el monto del seguro o garantía que hubiere otorgado, en los términos que disponga la propia Comisión o el Ayuntamiento correspondiente.
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
+Los promoventes deberán anexar a su solicitud de Licencia Ambiental Integral un estudio técnico valorativo y el monto del posible daño ambiental que pudiera ocasionarse con su obra o actividad. Dicho estudio deberá actualizarse por el titular, en caso de realizar alguna modificación que implique un incremento en el posible daño; además, será obligación de éste la renovación o actualización del monto del seguro o garantía que se le hubiere otorgado.
 
 ###### ARTÍCULO 107.
 
@@ -1509,7 +1647,7 @@ La Comisión constituirá un Fideicomiso para el manejo de los recursos obtenido
 
 ### CAPÍTULO I. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
-#### SECCIÓN II. DE LA EMISIÓN DE CONTAMINANTES GENERADA POR FUENTES FIJAS
+#### SECCIÓN I. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
 ###### ARTÍCULO 110.
 
@@ -1579,13 +1717,15 @@ Queda prohibido emitir contaminantes a la atmósfera que ocasionen o puedan ocas
 
 Las personas físicas o morales, públicas o privadas, que pretendan realizar o realicen obras o actividades por las que se emitan a la atmósfera olores, gases o partículas sólidas o líquidas serán responsables del cumplimiento de las disposiciones a que se refiere este artículo.
 
-#### SECCIÓN III. DE LA EMISIÓN DE CONTAMINANTES A LA ATMÓSFERA GENERADA POR FUENTES MÓVILES DE CONTAMINACIÓN ATMOSFÉRICA
+#### SECCIÓN II. DE LA EMISIÓN DE CONTAMINANTES GENERADA POR FUENTES FIJAS
 
 ###### ARTÍCULO 114.
 
 Los responsables de las fuentes fijas que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera estarán obligados a:
 
-I. Obtener, con anterioridad al inicio de sus operaciones, una licencia de funcionamiento de la fuente de que se trate, tramitándola a través de la Licencia Ambiental Integral a que se refiere el Título Cuarto de esta ley;
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
+
+I.- Obtener una licencia de funcionamiento de la fuente de que se trate, tramitándola a través de la Licencia Ambiental Integral a que se refiere el Titulo Cuarto de esta Ley;
 
 II.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas correspondientes o, en su caso, a las condiciones de descarga establecidas en la Licencia Ambiental Integral;
 
@@ -1631,15 +1771,15 @@ La Comisión o el Ayuntamiento correspondiente, no permitirán quemas a cielo ab
 
 Podrán suspender de manera total o parcial, temporal o definitiva el permiso que hubieren otorgado cuando se presente algún evento extraordinario de contingencia ocasionado por las combustiones, o cuando las condiciones ambientales no permitan una adecuada dispersión de los contaminantes.
 
-#### SECCIÓN IV. DE LA QUEMA AGRÍCOLA
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+Quedan prohibidas las quemas a cielo abierto, cuando se utilicen como combustible residuos sólidos urbanos, de manejo especial y peligrosos, salvo autorización expresa de la Comisión o el Ayuntamiento.
 
-ARTÍCULO 126 BIS.- Queda estrictamente prohibido la quema de material vegetal y de crecimiento en terrenos agrícolas, salvo que se hubiese obtenido el permiso de quema controlada expedido por el ayuntamiento correspondiente.
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+Quedan prohibidas las quemas de cualquier tipo y de cualquier material en los centros de transferencia y confinamiento de residuos sólidos municipales y de manejo especial.
 
-ARTÍCULO 126 TER.- Los ayuntamientos, a través de su dependencia dedicada a la ecología, emitirán las licencias a quienes habiendo presentado un plan de quema controlada, cumplan con los requisitos establecidos por los mismos municipios para la mitigación del impacto a los recursos naturales y a propiedades colindantes.
+#### SECCIÓN III. DE LA EMISIÓN DE CONTAMINANTES A LA ATMÓSFERA GENERADA POR FUENTES MÓVILES DE CONTAMINACIÓN ATMOSFÉRICA
 
 ###### ARTÍCULO 117.
 
@@ -1783,7 +1923,15 @@ La certificación o constatación de los niveles de emisión de contaminantes en
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 16 DE JULIO DE 2015)</small>
 
-#### SECCIÓN I. DE LAS ATRIBUCIONES
+#### SECCIÓN IV. DE LA QUEMA AGRÍCOLA
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+ARTÍCULO 126 BIS.- Queda estrictamente prohibido la quema de material vegetal y de crecimiento en terrenos agrícolas, salvo que se hubiese obtenido el permiso de quema controlada expedido por el ayuntamiento correspondiente.
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+ARTÍCULO 126 TER.- Los ayuntamientos, a través de su dependencia dedicada a la ecología, emitirán las licencias a quienes habiendo presentado un plan de quema controlada, cumplan con los requisitos establecidos por los mismos municipios para la mitigación del impacto a los recursos naturales y a propiedades colindantes.
 
 ### CAPÍTULO II. DE LA PREVENCIÓN Y EL CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
@@ -1999,7 +2147,7 @@ II.- Multa de 50 a 70 Unidades de Medida y Actualización diarias, al fabricante
 
 ### CAPÍTULO IV. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN POR RESIDUOS
 
-#### SECCIÓN II. DE LOS CRITERIOS PARA EL MANEJO INTEGRAL DE RESIDUOS
+#### SECCIÓN I. DE LAS ATRIBUCIONES
 
 ###### ARTÍCULO 144.
 
@@ -2031,7 +2179,13 @@ XII.- Formular, establecer y evaluar los sistemas de manejo ambiental de su comp
 
 XIII.- Diseñar y promover ante las dependencias competentes el establecimiento y aplicación de instrumentos económicos, fiscales, financieros y de mercado que tengan por objeto prevenir o evitar la generación de residuos, su valorización y su gestión integral y sustentable, así como prevenir la contaminación de sitios por residuos y, en su caso, su remediación;
 
-XIV.- Autorizar el ingreso a la entidad de residuos de manejo especial y sólidos urbanos para valorización, reuso, reciclaje o disposición final el territorio estatal;
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
+
+XIV.- Autorizar el ingreso a la entidad de residuos de manejo especial y sólidos urbanos para valorización, reúso, reciclaje o disposición final en el territorio estatal;
+
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
+XIV BIS.- Solicitar y recibir el informe de egreso de los residuos que hayan sido autorizados para ingresar a la entidad, cuando se retiren los mismos;
 
 XV.- Promover ante las autoridades federales competentes el evitar que se importen residuos de manejo especial y sólidos urbanos únicamente para disposición final en el Estado o constituyan un obstáculo o desincentiven la reutilización o reciclaje de los residuos no peligrosos generados en el territorio estatal;
 
@@ -2103,7 +2257,7 @@ La Comisión y los ayuntamientos promoverán que en la fabricación y utilizaci�
 
 Asimismo, promoverán entre los productores, importadores, intermediarios y, en general, cualquier persona física o moral responsable de introducir en el mercado productos que con su uso se conviertan en residuos, la implementación de medidas necesarias para que los envases de dichos productos favorezcan la prevención en la generación de residuos y faciliten su reutilización o el reciclado o valorización de éstos. Igualmente, promoverán que dichos sujetos participen en el establecimiento de sistemas organizados de gestión de dichos residuos, por sí o a través de la autoridad, con cargo a los consumidores de los mismos.
 
-#### SECCIÓN III. DE LAS AUTORIZACIONES PARA EL MANEJO Y DISPOSICIÓN FINAL DE RESIDUOS, Y DE SU MANEJO INTEGRAL
+#### SECCIÓN II. DE LOS CRITERIOS PARA EL MANEJO INTEGRAL DE RESIDUOS
 
 ###### ARTÍCULO 151.
 
@@ -2149,9 +2303,11 @@ VI.- Las disposiciones, programas y lineamientos técnicos para la conservación
 
 VII.- La elaboración y administración de programas estatales o municipales de ordenamiento territorial y de desarrollo urbano o de ordenamiento ecológico; y
 
-VIII.- La introducción a la Entidad de residuos sólidos urbanos y de manejo especial.
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
 
-#### SECCIÓN IV. INGRESO AL ESTADO DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
+VIII.- La entrada y salida de residuos sólidos urbanos y de manejo especial a y de la Entidad.
+
+#### SECCIÓN III. DE LAS AUTORIZACIONES PARA EL MANEJO Y DISPOSICIÓN FINAL DE RESIDUOS, Y DE SU MANEJO INTEGRAL
 
 ###### ARTÍCULO 153.
 
@@ -2159,7 +2315,9 @@ Se requiere autorización de la Comisión, que se tramitará mediante la Licenci
 
 I.- La utilización de residuos de manejo especial en procesos productivos;
 
-II.- El acopio y almacenamiento de residuos de manejo especial provenientes de terceros y, en general, la realización de cualquiera de las actividades relacionadas con el manejo de dichos residuos;
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
+
+II.- El acopio y almacenamiento de residuos de manejo especial provenientes de terceros;
 
 III.- La incineración de residuos de manejo especial;
 
@@ -2175,9 +2333,17 @@ VIII.- El co-procesamiento y tratamiento de residuos de manejo especial;
 
 IX.- La transferencia de autorizaciones expedidas por la Comisión;
 
-X.- El ingreso de residuos sólidos urbanos y de manejo especial al territorio estatal; y
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
 
-XI.- Las demás actividades que establezcan la presente ley, la Ley General para la Prevención y Gestión Integral de los Residuos y las normas oficiales mexicanas.
+X.- El ingreso de residuos sólidos urbanos y/o de manejo especial al territorio estatal. Respecto a esta autorización, se deberá informar en su caso de la salida de la entidad de tales residuos o de su lugar de confinamiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 12 DE JULIO DE 2018)</small>
+
+XI.- En general, la realización de cualquiera de las actividades relacionadas con el manejo de los residuos de manejo especial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 12 DE JULIO DE 2018)</small>
+
+XII.- Las demás actividades que establezcan la presente ley, la Ley General para la Prevención y Gestión Integral de los Residuos y las normas oficiales mexicanas.
 
 ###### ARTÍCULO 154.
 
@@ -2223,9 +2389,23 @@ VI.- Datos de los responsables técnicos de la elaboración del plan de manejo.
 
 Los microgeneradores de residuos peligrosos y los generadores de residuos de manejo especial deberán registrarse ante la Comisión como empresas generadoras de residuos peligrosos y empresas generadoras de residuos de manejo especial, respectivamente, y registrarán, igualmente, los planes de manejo correspondientes. Para tal efecto, deberán formular y ejecutar los planes de manejo de los residuos que se incluyan en los listados contenidos en las normas oficiales mexicanas correspondientes, de acuerdo con lo previsto en el artículo 153 de esta ley.
 
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+ARTÍCULO 156 BIS.- En el Registro de Generadores de Residuos se deberán inscribir los microgeneradores de residuos peligrosos y los generadores de residuos de manejo especial, quienes deberán citar su clave de registro en cualquier trámite ante autoridades estatales o municipales.
+
+El Registro de Generadores de Residuos tendrá la siguiente finalidad:
+
+I.- Elaborar y mantener actualizado el directorio de empresas generadoras registradas y de las que brindan servicios de manejo de residuos;
+
+II.- Diseñar las estrategias para involucrar a los generadores registrados en las actividades que la Comisión desarrolle para incentivar su participación en la formulación e instrumentación de políticas, programas, planes de manejo, elaboración de proyectos de normas técnicas estatales, planeación de la infraestructura de manejo de sus residuos y otras destinadas a dar cumplimiento a la legislación en la materia, y
+
+III.- Conocer y registrar los Sistemas de Manejo Ambiental que los generadores han implementado en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 157.
 
-Los microgeneradores y los generadores de residuos de manejo especial serán responsables del manejo y disposición final de los residuos que generen. Ambos generadores podrán contratar los servicios de manejo y disposición final de sus residuos con empresas o gestores autorizados para tales efectos por la Secretaría de Medio Ambiente y Recursos Naturales tratándose de los microgeneradores, o por la Comisión en el caso de los generadores de residuos de manejo especial. Asimismo, podrán transferir dichos residuos a terceros para su utilización como materias primas o insumos dentro de sus procesos, haciéndolo del conocimiento de la Comisión, previamente a su transferencia, la cual se hará mediante un plan de manejo para dichos residuos basado en la minimización de sus riesgos.
+Los microgeneradores de residuos peligrosos y los generadores de residuos de manejo especial serán responsables del manejo y disposición final de los residuos que generen. Ambos generadores deberán contratar los servicios de manejo y disposición final de sus residuos con empresas o gestores autorizados para tales efectos por la Secretaría de Medio Ambiente y Recursos Naturales tratándose de los microgeneradores, o por la Comisión en el caso de los generadores de residuos de manejo especial, a excepción de los que cuenten con autorización para el manejo. Asimismo, podrán transferir dichos residuos a terceros para su utilización como materias primas o insumos dentro de sus procesos, haciéndolo del conocimiento de la Comisión, previamente a su transferencia, la cual se hará mediante un plan de manejo para dichos residuos basado en la minimización de sus riesgos.
 
 Cuando se contraten los servicios a que se refiere el párrafo anterior y los residuos sean entregados a las empresas o gestores contratados, la responsabilidad por las operaciones objeto de tales contratos será de dichas empresas o gestores, independientemente de la responsabilidad que tiene el generador como tal.
 
@@ -2247,6 +2427,10 @@ En los municipios con una población superior a 5,000 habitantes, los ayuntamien
 
 En el reglamento municipal correspondiente, se deberán establecer las condiciones para la recolección, traslado, valorización, reuso y disposición final de los residuos sólidos urbanos separados.
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 12 DE JULIO DE 2018)</small>
+
+#### SECCIÓN IV. INGRESO Y SALIDA DEL ESTADO DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
+
 ###### ARTÍCULO 161.
 
 Para ingresar al Estado residuos sólidos urbanos y de manejo especial se deberán observar las siguientes disposiciones:
@@ -2259,9 +2443,11 @@ III.- No se permitirá el ingreso al territorio del Estado de residuos para valo
 
 IV.- La Comisión podrá imponer limitaciones al ingreso a la entidad de residuos sólidos urbanos y de manejo especial cuando desincentive o constituya un obstáculo para la valorización, co-procesamiento, reutilización o reciclaje de los residuos generados en territorio estatal.
 
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 162.
 
-Todos los ingresos de residuos al territorio estatal, deberán contar con documentación que certifique su origen, que no son residuos peligrosos y que no están constituidos por compuestos orgánicos persistentes.
+Todos los residuos sólidos urbanos que ingresen o salgan del territorio estatal deberán contar con documentación que certifique su origen, que no son residuos peligrosos y que no están constituidos por compuestos orgánicos persistentes.
 
 ###### ARTÍCULO 163.
 
@@ -2329,6 +2515,10 @@ V.- La infraestructura para la dotación de servicios básicos, así como la exi
 
 Quedan prohibidas las emisiones de ruido, vibraciones, olores, radiaciones electromagnéticas, energía térmica y lumínica y la generación de contaminación visual, en cuanto rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas que expida la Secretaría de Medio Ambiente y Recursos Naturales y los criterios ecológicos aplicables.
 
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+ARTÍCULO 171 BIS.- Los responsables de los establecimientos que generen emisiones de ruido, deberán medirlas conforme a la Norma Oficial Mexicana correspondiente, con la periodicidad que determinen la Comisión y los Ayuntamientos.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 172.
@@ -2350,6 +2540,10 @@ La exploración, explotación y el aprovechamiento de los recursos no reservados
 ###### ARTÍCULO 175.
 
 La exploración, explotación y aprovechamiento de minerales o sustancias no reservadas a la Federación, requerirá permiso de la Comisión, que se tramitará mediante la Licencia Ambiental Integral a que se refiere el Título Cuarto de esta ley.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+ARTÍCULO 175 BIS.- Los responsables de los establecimientos industriales, comerciales y de servicios que comercialicen, utilicen o manejen minerales o sustancias no reservadas a la Federación, deberán adquirirlas de empresas o personas que cuenten con el permiso de la Comisión a que se refiere el artículo 175 de esta ley.
 
 ###### ARTÍCULO 176.
 
@@ -2545,9 +2739,15 @@ III.- Las indemnizaciones que como consecuencia del ejercicio de la acción por 
 
 IV.- Los ingresos que se perciban por concepto del pago de derechos por el otorgamiento de autorizaciones, permisos, licencias y demás actos similares expedidos por la Comisión;
 
-V.- Las herencias, legados y donaciones que reciba de personas físicas o morales nacionales e internacionales; y
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
 
-VI.- Los demás recursos que obtenga por cualquier otro título o concepto.
+V.- Las herencias, legados y donaciones que reciba de personas físicas o morales nacionales e internacionales;
+
+> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+
+VI.- Los recursos resultantes de los instrumentos económicos que se creen en el marco de la Ley de Cambio Climático del Estado de Sonora; y
+
+VII.- Los demás recursos que obtenga por cualquier otro título o concepto.
 
 > <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2567,57 +2767,283 @@ El Ejecutivo del Estado, la Comisión, la Procuraduría y los ayuntamientos expe
 
 La presente ley constituye la base normativa para la expedición por parte de los ayuntamientos, de las disposiciones jurídicas señaladas en este artículo, las cuales serán de observancia general dentro de sus respectivas jurisdicciones, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
-## TÍTULO OCTAVO. DE LAS MEDIDAS DE CONTROL Y DE SEGURIDAD Y DE LAS SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 12 DE JULIO DE 2018)</small>
+
+## TÍTULO OCTAVO. DEL PROCEDIMIENTO DE INSPECCIÓN Y VIGILANCIA, DE LAS MEDIDAS DE CONTROL Y DE SEGURIDAD Y DE LAS SANCIONES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 194.
 
-En la realización de los actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y sus sanciones, y de procedimientos y recursos administrativos, en todo lo no previsto en esta ley se estará a lo que dispone la Ley de Procedimiento Administrativo del Estado de Sonora.
+Las disposiciones de este Título se aplicarán en los actos de inspección y vigilancia, imposición y ejecución de medidas de control y de seguridad, determinación de infracciones administrativas y sus sanciones, así como en los procedimientos administrativos y recursos administrativos regulados por esta Ley. También se aplicarán en los actos administrativos que en el ejercicio de sus funciones realicen la Comisión y los ayuntamientos.
+
+En todo lo no previsto en este ordenamiento se aplicará supletoriamente, en este orden, la Ley de Procedimiento Administrativo del Estado de Sonora, la Ley de Justicia Administrativa del Estado de Sonora y, en lo que éstas no prevean, el Código de Procedimientos Civiles para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-A.
+
+Las promociones ante la Procuraduría y los ayuntamientos deberán hacerse por escrito, en las que se precisará el nombre; la denominación o razón social de quien o quienes promuevan o, en su caso, de su representante legal; domicilio para oír y recibir notificaciones e inclusive las personales, dentro de la ciudad donde se encuentren las oficinas de la autoridad competente, así como el nombre de la persona o personas autorizadas para recibirlas; la petición que se formula; los hechos o razones que dan motivo a la petición; el órgano administrativo a que se dirigen, y lugar y fecha de su emisión. El escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital.
+
+El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos por esta ley y los ordenamientos que de ella se deriven.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-B.
+
+Los promoventes con capacidad de ejercicio podrán actuar por sí, o por medio de un representante o apoderado legal.
+
+La representación de las personas físicas o morales, públicas o privadas, ante la Procuraduría y los gobiernos municipales para formular solicitudes, participar en el procedimiento administrativo, interponer recursos y desistirse y renunciar a derechos deberá acreditarse mediante instrumento público. Tratándose de personas físicas su representación podrá acreditarse con instrumento público o mediante carta poder firmada ante dos testigos y ratificadas sus firmas y la del otorgante ante las propias autoridades o ante fedatario público, o bien por declaración en comparecencia personal del interesado.
+
+Sin perjuicio de lo anterior, el interesado o su representante legal, mediante escrito firmado, podrá autorizar a la persona o personas que estime pertinentes para oír y recibir notificaciones, realizar trámites, gestiones y comparecencias que fuesen necesarias para la tramitación del procedimiento, incluyendo la interposición del recurso de revisión.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-C.
+
+Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles.
+
+En los plazos fijados en días no se contarán los inhábiles. No se considerarán días hábiles los sábados, los domingos, y los días festivos, así como los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores por mandato oficial, los que se harán del conocimiento del público mediante acuerdo del titular de la autoridad respectiva, que se publique en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Los términos podrán suspenderse por causa de fuerza mayor o caso fortuito, debidamente fundado y motivado por la autoridad competente.
+
+La autoridad podrá, de oficio o a petición de parte interesada, habilitar días inhábiles, cuando así lo requiera el asunto.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-D.
+
+En los plazos establecidos por periodos se computarán todos los días; cuando se fijen por mes o por año se entenderá que el plazo concluye el mismo número de día del mes o año de calendario que corresponda, respectivamente; cuando no exista el mismo número de día en el mes de calendario, el término será el primer día hábil del siguiente mes de calendario.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-E.
+
+Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
+
+I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las unidades administrativas competentes de la Procuraduría y los ayuntamientos, si las personas a quienes deba notificarse se presentan en las mismas.
+
+En este último caso se asentará la razón correspondiente;
+
+II.- Por estrados, colocados en un lugar visible de las unidades administrativas competentes, por un término no mayor de diez días hábiles, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente Título, o cuando no hubiera señalado domicilio en la población donde se encuentre ubicada la sede de la autoridad ordenadora, específicamente tratándose de las resoluciones administrativas con carácter definitivas;
+
+III.- Por edicto publicado en el medio impreso de mayor circulación en el Estado y en el Boletín Oficial del Gobierno del Estado, cuando se desconozca el domicilio del interesado o en su caso, la persona a quien deba notificarse se encuentre desaparecida, o no se le haya localizado en el domicilio oficial o en el señalado para oír y recibir toda clase de notificaciones, hasta en dos ocasiones, o se encuentre en el extranjero, sin haber dejado representante legal autorizado para tales efectos;
+
+IV.- Por instructivo, solamente en el caso señalado en el 194-F de la presente ley.
+
+Los actos distintos a los señalados en la fracción I de este artículo podrán notificarse por escrito, vía correo ordinario, mensajería, telegrama o telefax, medios de comunicación electrónica o similares, previa solicitud por escrito del interesado, o en las oficinas de las unidades administrativas de la Procuraduría y los ayuntamientos, si se presentan ante ellas las personas facultadas para ello, dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse, término que se deberá señalar al momento de presentar la solicitud. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por estrados que deberán ubicarse, por parte de la Procuraduría o los ayuntamientos, en lugar visible de sus oficinas administrativas, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse.
+
+Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren a las oficinas de las unidades administrativas de la Procuraduría y los ayuntamientos a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se darán por hechas y surtirán sus efectos el día hábil siguiente al de la fijación en estrados.
+
+De toda notificación por estrados se agregará al expediente un tanto igual de aquel, asentándose la razón correspondiente.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-F.
+
+Las notificaciones personales se harán en el domicilio señalado por el interesado o en el último domicilio que éste haya señalado ante la autoridad competente en el procedimiento, debiendo cerciorarse el notificador que se trata del domicilio señalado, y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva, así como señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Las notificaciones personales se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado y nadie respondiere al llamado del notificador para atender la diligencia, el citatorio se dejará en un lugar visible del mismo, o con el vecino más inmediato, razonando en todo momento la cedula de notificación y el acta levantada al respecto.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona con capacidad de ejercicio que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+La notificación personal también se podrá realizar al interesado cuando acuda a la oficina administrativa competente de la Procuraduría o de los ayuntamientos, según corresponda.
+
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito debiendo permanecer éste publicado por lo menos cinco días en la página electrónica de la Procuraduría o del Ayuntamiento respectivo.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-G.
+
+Las notificaciones por estrados se publicarán, además de lo establecido por la fracción II del artículo 194-E, en la página electrónica de la Procuraduría o de los ayuntamientos, según corresponda.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-H.
+
+Las notificaciones por edictos se efectuarán mediante publicación que contendrán un resumen de los actos por notificar. Dicha publicación deberá efectuarse por un día en el Boletín Oficial del Gobierno del Estado y en un periódico de los de mayor circulación en el Estado.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-I.
+
+Las notificaciones personales surtirán sus efectos el día hábil siguiente a aquél en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquél en que haya surtido efectos la notificación.
+
+Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo. Las notificaciones hechas por correo certificado surtirán sus efectos a partir de que se presente el sello del correo en donde conste el envío. Tratándose de notificaciones hechas por edictos, se tendrá como fecha de notificación el día hábil siguiente de la fecha de publicación en el Boletín Oficial y en el periódico respectivo. Las notificaciones por estrados surtirán sus efectos al día hábil siguiente al de la fijación del mismo.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-J.
+
+Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles contados a partir de la emisión de la resolución o acto que se notifique. Las notificaciones personales deberán hacerse con el texto íntegro de la resolución o acto que se notifique, y las notificaciones por estrados, edictos y por instructivo deben contener un extracto de los mismos. En todo caso contendrán el fundamento legal en que se apoyen con la indicación de si la resolución o el acto son o no definitivos en la vía administrativa, y en su caso, la expresión del recurso administrativo que proceda, el órgano ante el que deba presentarse y el plazo para su interposición.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-K.
+
+Las notificaciones irregularmente practicadas surtirán efectos a partir de la fecha en que el interesado o su representante legal hagan la manifestación expresa de conocer su contenido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
+
+### CAPÍTULO I BIS. DEL PROCEDIMIENTO DE INSPECCIÓN Y VIGILANCIA
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-L.
+
+La Procuraduría y los ayuntamientos, en el ámbito de sus respectivas competencias, realizarán actos de inspección y vigilancia para verificar el cumplimiento de las disposiciones de la presente ley, sus reglamentos y otras disposiciones aplicables; pudiendo ambas instancias celebrar acuerdos de coordinación para tales efectos.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-M.
+
+La Procuraduría y los ayuntamientos podrán realizar, por conducto de personal debidamente autorizado, visitas de inspección ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, entendiéndose por éstas las comprendidas de las 8:00 a las 18:00 horas, y las segundas en cualquier tiempo.
+
+Dichas diligencias iniciarán en horas hábiles y podrán concluirse en hora inhábil sin afectar su validez.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-N.
+
+Los actos de inspección podrán iniciarse por cualquiera de las siguientes formas: de oficio; por una denuncia pública; por el programa anual de inspecciones de la Procuraduría o, en su caso, de los ayuntamientos; por información turnada por otras dependencias o unidades administrativas de la misma Procuraduría o de los ayuntamientos; por actividades de vigilancia del personal adscrito para tal efecto, o a petición de la parte interesada. La Procuraduría y los ayuntamientos no podrán exigir más formalidades que las expresamente previstas en esta ley.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-O.
+
+El personal autorizado, al practicar las visitas de inspección, deberá contar con credencial vigente expedida por autoridad competente que lo acredite legalmente para practicar la inspección, así como con la orden escrita debidamente fundada y motivada para realizar la visita, expedida por autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-P.
+
+El personal autorizado, al iniciar la inspección, se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole para tal efecto credencial vigente con fotografía expedida por autoridad competente que lo acredite para realizar visitas de inspección en la materia, y le mostrará la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+
+En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-Q.
+
+En toda visita de inspección se levantará acta administrativa, en la que se asentarán, en forma circunstanciada, los hechos u omisiones que se hubiesen presentado durante la diligencia, haciéndose constar por lo menos:
+
+I.- Nombre, denominación o razón social del inspeccionado;
+
+II.- Hora, día, mes y año en el que se inició y concluyó la diligencia;
+
+III.- Calle, número, colonia, población o ubicación geográfica, teléfono u otra forma de comunicación disponible, municipio y código postal correspondiente al domicilio en que se encuentre ubicado el lugar en que se practique la inspección;
+
+IV.- Número y fecha de la orden que motivó la inspección;
+
+V.- Nombre, cargo e identificación de la persona con quien se entendió la diligencia;
+
+VI.- Nombre, domicilio e identificación de las personas que fungieron como testigos;
+
+VII.- Datos relativos a la actuación;
+
+VIII.- Nombre y firma de quienes intervinieron en la diligencia, incluyendo los de quienes la hubiesen llevado a cabo.
+
+Concluida la inspección, se dará oportunidad a la persona con quien se entendió la diligencia, para que en el mismo acto manifieste lo que a su derecho convenga o formule observaciones en relación con los hechos asentados en el acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días hábiles contados a partir del día siguiente al de la fecha en que se hubiese concluido la diligencia. Asimismo, se requerirá para que en dicho plazo de cinco días hábiles señale domicilio para oír y recibir notificaciones en la ciudad donde se encuentren las oficinas de la Procuraduría o los Ayuntamientos correspondientes.
+
+A continuación, se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia con firma autógrafa del acta al interesado.
+
+Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella sin que esto afecte su validez y valor probatorio.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-R.
+
+Las personas físicas o morales sujetas a inspección estarán obligadas a permitir al personal autorizado el acceso al lugar o lugares a inspeccionar, en los términos previstos en la orden escrita a que se refiere el artículo 194-O de esta ley; así como a proporcionar toda clase de información que se les solicite y conduzca a la verificación del cumplimiento de esta ley y demás disposiciones aplicables. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en el caso de requerimiento judicial.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-S.
+
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia o cuando sea necesario por seguridad del personal de inspección, independientemente de las sanciones a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-T.
+
+Recibida el acta de inspección por la autoridad ordenadora, ésta informará al interesado las irregularidades detectadas al momento de llevarse a cabo la visita de inspección, mediante notificación personal, en un plazo de treinta días hábiles contados a partir de (sic) día en que hubiera concluido el plazo de cinco días dispuesto en el último párrafo del artículo 194-Q; lo anterior para que en un término de diez días hábiles el interesado exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes en relación con la actuación de la Procuraduría o los ayuntamientos.
+
+Asimismo, en la misma notificación se requerirá al interesado para que adopte de inmediato las medidas correctivas o de urgente aplicación que, en su caso, resulten necesarias para cumplir con las disposiciones de esta ley, sus reglamentos y de las demás disposiciones aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento y señalando el plazo que corresponda para su cumplimiento.
+
+Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el primer párrafo sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones para que, en un plazo de tres días hábiles, presente por escrito sus alegatos.
+
+Para efectos de la caducidad prevista en el artículo 79, fracción I, de la Ley de Procedimiento Administrativo del Estado de Sonora, el procedimiento administrativo inicia formalmente a partir de la notificación del acuerdo de irregularidades referido en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-U.
+
+En el procedimiento administrativo de inspección y vigilancia se admitirán toda clase de pruebas, excepto la confesional de las autoridades y las que no tengan relación con el fondo del asunto. La autoridad competente podrá allegarse de los medios de prueba que considere necesarios, sin más limitaciones que las establecidas en Las leyes respectivas.
+
+Las pruebas serán desahogadas conforme a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Sonora.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-V.
+
+Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Procuraduría o el Ayuntamiento correspondiente procederá a dictar por escrito la resolución administrativa que en derecho corresponda, dentro de los treinta días hábiles siguientes, misma que se notificará al interesado conforme lo establecido en el artículo 194-F.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 194-W.
+
+En la resolución administrativa correspondiente se señalarán o, en su caso, adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas y sus impactos al ambiente, estableciendo el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+
+Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá acreditar, por escrito y en forma detallada ante la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
+
+Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer, además de la sanción o sanciones que procedan conforme a esta ley, una multa adicional que no exceda de los límites máximos señalados en el presente ordenamiento.
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
-
-### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 195.
 
 Cuando exista riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Comisión, la Procuraduría en ejercicio de sus atribuciones de inspección y vigilancia, o los ayuntamientos, fundada y motivadamente, podrán ordenar alguna o algunas de las siguientes medidas de seguridad:
 
-I.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen especímenes, productos o subproductos de especies de flora o de fauna silvestre, recursos forestales, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el párrafo que encabeza este artículo;
+I.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen materiales o substancias contaminantes o de las actividades que den lugar a los supuestos a que se refiere el proemio de este artículo, así como, por el incumplimiento a los términos y condiciones establecidas en la Licencia Ambiental Integral y demás actos que de ésta se deriven;
 
-II.- El aseguramiento precautorio de materiales y residuos peligrosos, así como de especímenes, productos o subproductos de especies de flora o de fauna silvestre o su material genético, recursos forestales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad; o
+II.- El aseguramiento precautorio de materiales y residuos peligrosos, de manejo especial y sólidos urbanos, así como de recursos naturales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad, o
 
-III.- La neutralización o cualquier acción análoga que impida que materiales o residuos peligrosos generen los efectos previstos en el párrafo que encabeza este artículo.
+III.- La neutralización o cualquier acción análoga que impida que materiales o residuos peligrosos en el caso de los microgeneradores, de manejo especial o residuos sólidos urbanos generen los efectos previstos en el proemio de este artículo.
 
-Asimismo, la Comisión, la Procuraduría o los ayuntamientos, según corresponda, podrán promover ante la autoridad competente, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
+Asimismo, la Procuraduría o los ayuntamientos, según corresponda, podrán promover ante la autoridad competente, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
-Cuando la Comisión, la Procuraduría o los ayuntamientos ordenen alguna de las medidas de seguridad previstas en esta ley, indicarán al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+Cuando la Procuraduría o los ayuntamientos, según corresponda, ordenen alguna de las medidas de seguridad previstas en esta ley, deberán indicar al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas estas se ordene el retiro de las mismas. Lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
+Los inspectores estatales o municipales también tendrán facultades para determinar e imponer las medidas de seguridad previstas en este artículo.
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 196.
 
 Las violaciones a los preceptos de esta ley, sus reglamentos y demás disposiciones que de ella emanen constituyen infracción y serán sancionadas administrativamente por la Procuraduría, en asuntos de competencia del Estado y sin perjuicio de las atribuciones que la presente Ley otorga expresamente a la Comisión, y por los ayuntamientos, en el ámbito de competencia de éstos, con una o más de las siguientes sanciones:
 
-I.- Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en la capital del Estado en el momento de imponer la sanción;
+I.- Amonestación con apercibimiento;
 
-II.- Clausura temporal o definitiva, parcial o total:
+II.- Multa por el equivalente de veinte a veinte mil unidades de medida y actualización establecidas para un día, de acuerdo a la Unidad de Medida y Actualización (UMA), del año en que se impone;
+
+III.- Clausura temporal o definitiva, parcial o total:
 
 a) Cuando el infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad con las medidas correctivas o de urgente aplicación ordenadas;
 
-b) En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente; o
+b) En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente;
 
-c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad;
+c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad; o
 
-III.- Arresto administrativo hasta por treinta y seis horas;
+d) Se trate de la desobediencia a una amonestación pública impuesta por la Procuraduría y los Ayuntamientos;
 
-IV.- La suspensión, revocación o cancelación de las concesiones, licencias, permisos o autorizaciones correspondientes, cuando:
+IV.- Arresto administrativo hasta por treinta y seis horas;
+
+V.- La suspensión, revocación o cancelación de las concesiones, licencias, permisos o autorizaciones correspondientes, cuando:
 
 a) El infractor no diere cumplimiento en tiempo y forma requeridos por la autoridad a las actividades, términos o condiciones señalados en dichas autorizaciones;
 
@@ -2625,21 +3051,25 @@ b) Exista riesgo inminente de desequilibrio ecológico;
 
 c) A causa de la realización de la obra o actividad se ponga en peligro la salud humana o los ecosistemas; y
 
-d) La realización de la obra o actividad cause daños a la sociedad o a los bienes materiales públicos o privados; y
+d) La realización de la obra o actividad cause daños a la sociedad o a los bienes materiales públicos o privados.
 
-V.- Las demás previstas en esta ley.
+VI.- Las demás previstas en esta ley.
 
-Si el infractor, dentro del plazo concedido por la autoridad, no cumple con las medidas impuestas para subsanar las irregularidades que lo hicieron incurrir en infracción, las autoridades podrán imponer multas por cada día que transcurra sin obedecer el mandato, sin que el total de éstas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
+Si el infractor, una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, no la o las hubiere subsanado, la autoridad podrá imponer multa por cada día que trascurra sin obedecer el mandato, sin que el total de estas exceda el monto máximo permitido conforme a la fracción II de este artículo.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido, además del tipo de clausura que determine la autoridad.
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada durante el procedimiento seguido en su contra.
 
+Cuando la gravedad de la infracción lo amerite, la Procuraduría o los ayuntamientos, en su caso, solicitarán a la autoridad que los hubiere otorgado, la suspensión, revocación o cancelación del permiso, licencia, registro y en general de toda autorización emitida para la realización de actividades comerciales, industriales o de servicios, o para el aprovechamiento de recursos naturales cuya operación o aprovechamiento haya dado lugar a la infracción.
+
 ###### ARTÍCULO 197.
 
 Para la imposición de las sanciones por infracciones a esta ley, sus reglamentos y demás disposiciones que de ella emanen, se tomará en cuenta:
 
-I.- La gravedad de la infracción, considerando principalmente el impacto en la salud pública, la generación de desequilibrios ecológicos, la afectación de recursos naturales o de la biodiversidad y, en su caso, los niveles en que se hubieren rebasado los límites establecidos en la norma oficial mexicana aplicable;
+> <small>(REFORMADA, B.O. 12 DE JULIO DE 2018)</small>
+
+I.- La gravedad de la infracción, considerando principalmente los siguientes criterios: los impactos que se hubieren producidos o puedan producirse en el ambiente, recursos naturales o la biodiversidad, salud pública, la generación de desequilibrios ecológicos, y, en su caso, los niveles en que se hubieren rebasado los límites establecidos en la norma oficial mexicana aplicable.
 
 II.- Las condiciones económicas del infractor;
 
@@ -2653,13 +3083,29 @@ V.- El beneficio directamente obtenido por el infractor por los actos que motive
 
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría o los ayuntamientos impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
-La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre que se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 195 de esta ley y la autoridad justifique plenamente su decisión.
+> <small>(REFORMADO, B.O. 12 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+Asimismo, en los casos en que el infractor realice las medidas correctivas o de urgente aplicación, o subsane las irregularidades detectadas en los plazos ordenados por la Procuraduría o los ayuntamientos, podrá solicitar a la autoridad que considere el cumplimiento de las medidas como atenuante, o bien, en el caso de existir resolución, la modificación o revocación de la sanción impuesta. La solicitud la podrá hacer a más tardar en un plazo de quince días contados a partir del vencimiento del último plazo concedido para la realización de las medidas correspondientes, siempre y cuando el infractor no sea reincidente y no se trate de alguno de los supuestos previstos en el artículo 195 de esta ley.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+La autoridad administrativa, en un término de tres días hábiles contados a partir de la recepción de la solicitud de modificación o revocación de la sanción, deberá proveer sobre su admisión, prevención o desechamiento, y la suspensión del acto impugnado, en su caso, lo cual deberá notificársele al recurrente personalmente.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+El escrito de solicitud de modificación o revocación deberá presentarse ante la autoridad que impuso la sanción y será resuelto por el superior jerárquico de la misma dentro del plazo de diez días hábiles siguientes a la admisión del mismo. En este caso procederá la suspensión de la ejecución de la sanción, que sólo tendrá como efecto que las cosas se mantengan en el estado en que se encuentran, en tanto se pronuncia la resolución.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+La autoridad correspondiente podrá otorgar al infractor la opción para pagar la multa o realizar inversiones equivalentes al monto de ésta en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre que se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 195 de esta ley y la autoridad justifique plenamente su decisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 198.
 
-Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello las disposiciones establecidas en la Ley de Procedimiento Administrativo del Estado de Sonora para las visitas de verificación.
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello las disposiciones establecidas en el Capítulo I Bis del Título Octavo de esta ley, relativo al procedimiento de inspección y vigilancia.
+
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 En los casos en que se imponga como sanción la clausura temporal, la Procuraduría o, en su caso, el Ayuntamiento deberán indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
@@ -2673,9 +3119,9 @@ Los ingresos que obtenga la Procuraduría por concepto de las multas por infracc
 
 Cuando las autoridades competentes impongan como sanción una multa, ésta tendrá el carácter de crédito fiscal y se hará efectiva por conducto de la Secretaría de Hacienda del Estado o de las tesorerías municipales, en su caso, a través del procedimiento administrativo de ejecución.
 
-### CAPÍTULO V. DE LA DENUNCIA POPULAR
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 201.
 
@@ -2699,6 +3145,10 @@ La Comisión, la Procuraduría o los Ayuntamientos, según corresponda, proporci
 
 La Comisión, la Procuraduría o los Ayuntamientos, según corresponda, serán coadyuvantes de las autoridades competentes, en los términos de las disposiciones legales correspondientes. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
 
+### CAPÍTULO V. DE LA DENUNCIA POPULAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 205.
 
 Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría o los ayuntamientos, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente ley, la Ley General y de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y la preservación y restauración del equilibrio ecológico.
@@ -2716,6 +3166,14 @@ II.- Los actos, hechos u omisiones denunciados;
 III.- Los datos que permitan identificar al presunto infractor o localizar la fuente contaminante; y
 
 IV.- La pruebas que en su caso ofrezca el denunciante.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+No se admitirán denuncias notoriamente improcedentes o infundadas, o aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+Si el denunciante solicita a la Procuraduría o a los ayuntamientos guardar secreto de su identidad por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente ley y demás disposiciones jurídicas aplicables le otorgan.
 
 Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia.
 
@@ -2762,6 +3220,98 @@ IV.- Por la emisión de una resolución derivada del procedimiento de inspecció
 Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente o afecte los recursos naturales o la biodiversidad será responsable y estará obligada a reparar los daños causados, de conformidad con la legislación civil aplicable.
 
 El término para demandar la responsabilidad ambiental, será de cinco años contados a partir del momento en que la autoridad tenga conocimiento de los efectos adversos que sobre la salud pública o el ambiente produzcan el acto, hecho u omisión correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
+
+### CAPÍTULO VI. DE LAS OPCIONES DE PAGO
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 212.
+
+La autoridad sancionadora correspondiente, a solicitud del infractor, podrá otorgarle la opción de pagar la multa impuesta o, atendiendo lo dispuesto por el último párrafo del artículo 197 de esta ley, realizar inversiones equivalentes a ésta en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración al ambiente y los recursos naturales. La solicitud de conmutación deberá realizarse en un plazo no mayor de quince días hábiles contados a partir del día siguiente al de la notificación de la resolución en la que se impuso la multa.
+
+La autoridad que haya emitido la resolución, acordará la presentación de la solicitud y la turnará al titular de la Procuraduría o a la instancia que corresponda de los Ayuntamientos, para que resuelva en un plazo no mayor de diez días hábiles.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 213.
+
+Los infractores interesados deberán presentar su solicitud por escrito y anexar un proyecto de inversión que contenga la propuesta de las inversiones a realizar, desarrollando al menos los siguientes puntos:
+
+I.- Para inversiones equivalentes a la multa en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales:
+
+a).- Explicación detallada de todas y cada una de las actividades que se requieren para llevar a cabo el proyecto;
+
+b).-Indicar el monto total que se pretende invertir, mismo que deberá ser igual o mayor al de la multa impuesta, desglosando los costos unitarios por concepto de material, equipo y mano de obra requeridos para su ejecución;
+
+c).- El lugar, sitio o establecimiento donde se pretende ejecutar o instalar el equipo, pudiendo ser diferente a aquél en donde se originó la infracción, en cuyo caso la Procuraduría o los Ayuntamientos lo aprobarán;
+
+d).- Programa calendarizado de las acciones a realizar en el proyecto; y
+
+e).- La descripción de los beneficios ambientales que se generarían con motivo de la implementación del proyecto, estableciendo indicadores cuantificables para dichos beneficios;
+
+II.- Para trabajos o inversiones equivalentes a la multa en materia de conservación, protección o restauración de los recursos forestales (forestaciones y reforestaciones) considerando los beneficios generados para compensar la imposición de la multa:
+
+a).- Ubicación exacta, características bio-climáticas del lugar donde se pretende realizar la plantación tales como: clima, grado de pendiente del terreno, tipo y profundidad del suelo, erosión, pedregosidad, altitud y tipo de vegetación (árboles, arbustos y herbáceas), teniendo prioridad, el lugar que generó la infracción para su plantación;
+
+b).- Especie o especies idóneas para llevar a cabo la plantación de las mismas, especificándolas en el proyecto;
+
+c).- Técnica o método a utilizar para la preparación del terreno y su mantenimiento;
+
+d).- Forma o diseño de la plantación;
+
+e).- Enumeración de las actividades de mantenimiento y protección de la plantación;
+
+f).- Gastos a realizar, desglosándolos detalladamente y especificando los materiales y la mano de obra requerida para el establecimiento, mantenimiento y protección de la plantación, así como el precio unitario de cada individuo a plantar;
+
+g).- Calendario de todas y cada una de las actividades que comprenda el proyecto a ejecutar; y
+
+h).- La descripción de los beneficios ambientales que se generarían con motivo de la implementación del proyecto, estableciendo indicadores cuantificables para dichos beneficios;
+
+Asimismo, el infractor solicitante deberá garantizar sus obligaciones ante la autoridad recaudadora competente, mediante fianza a favor de la Secretaría de Hacienda del Estado de Sonora, anexando la constancia correspondiente en su escrito de solicitud.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 214.
+
+El titular de la Procuraduría o el del área competente del Ayuntamiento respectivo podrán negar la conmutación de la multa por la inversión, en los siguientes supuestos:
+
+I.- Por encontrarse en los supuestos del artículo 195 de esta Ley, es decir:
+
+a).- Riesgo inminente de desequilibrio ecológico o de daño o deterioro grave a los recursos naturales; casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública; y
+
+b).- Riesgo inminente de daño o deterioro grave a los ecosistemas;
+
+II.- Si el proyecto de inversión propuesto tuviera relación con las obligaciones a las que se encuentra sujeto el solicitante con motivo de la actividad económica o proceso productivo que realiza;
+
+III.- En caso de que el proyecto de inversión propuesto esté relacionado con las irregularidades por las que fue sancionado el solicitante;
+
+IV.- Cuando las medidas de urgente aplicación o medidas correctivas ordenadas durante el procedimiento administrativo, estén vinculadas con el proyecto de inversión propuesto.
+
+V.- Porque el monto de la inversión no sea equivalente al monto de la multa;
+
+VI.- Por haber realizado el pago de la multa que se pretende conmutar;
+
+VII.- Porque la autoridad recaudadora competente haya hecho efectivo el cobro de la multa, o haya trabado embargo o extraído bienes del infractor;
+
+VIII.- Porque el solicitante no hubiere garantizado las obligaciones derivadas del cumplimiento del proyecto de inversión; y
+
+IX.- Porque el solicitante sea considerado reincidente por la Procuraduría o los ayuntamientos, según corresponda.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 215.
+
+La resolución que otorgue la conmutación de la multa contendrá las condicionantes que la Procuraduría o los ayuntamientos consideren necesarias, mismas que el infractor deberá cumplir en la forma y plazos establecidos en ella.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 216.
+
+Una vez que las acciones autorizadas en el proyecto de inversión hayan sido ejecutadas en tiempo y forma, el titular de la Procuraduría o, en su caso, la autoridad correspondiente de los ayuntamientos determinará la conclusión del asunto y con ello el cierre del expediente administrativo abierto con motivo de la solicitud presentada, y ordenará la devolución del documento entregado por el infractor para garantizar sus obligaciones.
+
+En caso de incumplimiento de las condicionantes impuestas al infractor en la resolución, el titular de la Procuraduría o, en su caso, la autoridad correspondiente de los ayuntamientos, dictará un acuerdo que deje sin efectos la resolución que otorgó la conmutación de multa y se ordenará hacer efectiva la garantía exhibida por el infractor.
 
 T R A N S I T O R I O S
 
@@ -2890,3 +3440,25 @@ B.O. 25 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los doce meses contado (sic) a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 227, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las solicitudes de licencias, permisos, autorizaciones o concesiones presentadas ante la Comisión o los ayuntamientos con anterioridad a la entrada en vigor del presente Decreto podrán, a elección de los interesados, seguir su trámite y resolverse de conformidad con las disposiciones vigentes al momento de su presentación, o bien, apegarse a las reformas que se efectuaron mediante el presente Decreto al procedimiento relativo a la Licencia Ambiental Integral.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos derivados de la inspección y vigilancia, así como los recursos en contra de ellos iniciados con anterioridad a la entrada en vigor del presente Decreto seguirán su proceso y se resolverán de conformidad con las disposiciones vigentes al momento del acto de inspección o vigilancia.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal deberá expedir en un plazo no mayor a un año contado a partir de la entrada en vigor de este Decreto, los Reglamentos y demás disposiciones de observancia general a que hace referencia esta ley que se encuentren pendientes de emitir.
+
+El Reglamento del Fondo Ambiental Estatal y el Reglamento de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sonora en materia de Licencia Ambiental Integral se consideran prioritarios, por lo que deberán emitirse dentro de los noventa días hábiles contados a partir de la publicación del presente Decreto en el Boletín Oficial del Gobierno del Estado de Sonora.
