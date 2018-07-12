@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2018-06-07"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2018.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -5401,15 +5401,13 @@ Legitimación pasiva en la usucapión
 
 Sentencia que declara la usucapión
 
-> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 5.
 
-141.- La Sentencia Ejecutoria que declare procedente la acción de usucapión, se protocolizará ante notario y se inscribirá en el Instituto de la Función Registral.
+141.- La sentencia ejecutoria que declare procedente la acción de usucapión se inscribirá en el Instituto de la Función Registral.
 
-> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2016)</small>
-
-Tratándose de predios no mayores de 200 m2, la Sentencia Ejecutoria dictada en el juicio ordinario de usucapión, así como la Sentencia Ejecutoria dictada en el juicio sumario de usucapión se inscribirán en el Instituto de la Función Registral, sin protocolización ante notario.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 12 DE JULIO DE 2018)</small>
 
 ## TITULO QUINTO. De la Copropiedad
 
@@ -18440,3 +18438,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los requisitos previstos en el artículo 94 bis de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México, resultarán aplicables a los nombramientos que se realicen a partir de la entrada en vigor del presente decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 307.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5.141 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
