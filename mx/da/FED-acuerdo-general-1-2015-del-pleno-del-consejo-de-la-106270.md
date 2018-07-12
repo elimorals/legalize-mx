@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-1-2015-del-pleno-del-consejo-de-la-106270"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-03-04"
-last_updated: "2018-02-23"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106270&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,11 @@ issue_date: "2015-02-24"
 
 ACUERDO GENERAL 1/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 4 de marzo de 2015.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
-
-> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTICULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
 ACUERDO GENERAL 1/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE YUCATÁN.
 
@@ -105,9 +103,11 @@ Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en lo
 
 La jurisdicción territorial de los órganos jurisdiccionales del Centro comprenderá el Estado de Yucatán, con la totalidad de sus municipios.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 22/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Calle 86-B número 597-A por 79 y 79-A, colonia Sambulá, código postal 97250, Mérida, Yucatán.
+El domicilio del Centro de Justicia será el ubicado en calle 60, número 40, manzana 236, Cuartel 21, por 157 y 80, colonia San José Tecoh, Mérida, Yucatán.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
@@ -366,3 +366,19 @@ XXV. El Centro de Justicia Penal Federal en el Estado de Puebla, con residencia 
 XXVI. a XXXVIII. …"
 
 TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 22/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE YUCATÁN, CON RESIDENCIA EN MÉRIDA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el trece de julio de dos mil dieciocho, con excepción de lo dispuesto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Centro de Justicia Penal Federal en el Estado de Yucatán, con residencia en Mérida, deberá colocar avisos en lugares visibles en relación con el cambio de domicilio.
+
+CUARTO. Se reforma el artículo 7, párrafo primero, del Acuerdo General 1/2015 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Yucatán, para quedar como sigue:
+
+“Artículo 7. El domicilio del Centro de Justicia será el ubicado en calle 60, número 40, manzana 236, Cuartel 21, por 157 y 80, colonia San José Tecoh, Mérida, Yucatán.
+
+…”
