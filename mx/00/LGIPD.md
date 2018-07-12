@@ -4,7 +4,7 @@ identifier: "LGIPD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-05-30"
-last_updated: "2018-06-22"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81490&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGIPD"
 
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de mayo de 2011.
 
@@ -118,31 +118,37 @@ XXIII. Ley. Ley General para la Inclusión de las Personas con Discapacidad;
 
 XXIV. Organizaciones. Todas aquellas organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e integración social;
 
-XXV. Perro guía o animal de servicio. Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+> <small>(ADICIONADA, D.O.F.12 DE JULIO DE 2018)</small>
 
-XXVI. Persona con Discapacidad. Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+XXV. Registro Nacional de Población con Discapacidad. Porción del Registro Nacional de Población que solicitó y obtuvo la Certificación del Estado con Reconocimiento Nacional que refiere el artículo 10 de la Ley;
 
-XXVII. Política Pública. Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
+XXVI. Perro guía o animal de servicio. Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
-XXVIII. Prevención. La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
+XXVII. Persona con Discapacidad. Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
-XXIX. Programa. El Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+XXVIII. Política Pública. Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
 
-XXX. Rehabilitación. Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
+XXIX. Prevención. La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
 
-XXXI. Sistema. Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+XXX. Programa. El Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
 
-XXXII. Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y
+XXXI. Rehabilitación. Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
 
-XXXIII. Transversalidad. Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+XXXII. Sistema. Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad;
+
+XXXIII. Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y
+
+XXXIV. Transversalidad. Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 ###### Artículo 3.
 
 La observancia de esta Ley corresponde a las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública Federal, organismos constitucionales autónomos, Poder Legislativo, Poder Judicial, el Consejo, a los Gobiernos de las Entidades Federativas y de los Municipios, en el ámbito de sus respectivas competencias, así como a las personas físicas o morales de los sectores social y privado que presten servicios a las personas con discapacidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 4.
 
-Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico mexicano, sin distinción de origen étnico, nacional, género, edad, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otra característica propia de la condición humana o que atente contra su dignidad. Las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de una manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
+Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico mexicano, sin distinción de origen étnico, nacional, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad. Las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de una manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
 
 Las medidas contra la discriminación consisten en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
 
@@ -400,13 +406,19 @@ IV. Todas las demás que tengan como objeto mejorar las condiciones sociales y p
 
 ### Capítulo VII. Recopilación de datos y Estadística
 
+> <small>(REFORMADO, D.O.F.12 DE JULIO DE 2018)</small>
+
 ###### Artículo 22.
 
-El Instituto Nacional de Estadística y Geografía a través de la legislación aplicable, garantizará que el Censo Nacional de Población incluya lineamientos para la recopilación de información y estadística de la población con discapacidad, la cuál será de orden público y tendrá como finalidad la formulación de planes, programas y políticas. Además, desarrollará instrumentos estadísticos que proporcionen información e indicadores cualitativos y cuantitativos sobre todos los aspectos relacionados con la discapacidad.
+El Instituto Nacional de Estadística y Geografía a través de la legislación aplicable, garantizará que la información de registros administrativos de la Administración Pública, el Censo Nacional de Población y las Encuestas Nacionales incluyan lineamientos para la recopilación de información y estadística de la población con discapacidad, la cual será de orden público y deberá presentarse desagregada a todos los niveles de gobierno y tendrá como finalidad la formulación de planes, programas y políticas. También, desarrollará instrumentos estadísticos que proporcionen información e indicadores cualitativos y cuantitativos sobre todos los aspectos relacionados con la discapacidad.
+
+> <small>(REFORMADO, D.O.F.12 DE JULIO DE 2018)</small>
 
 ###### Artículo 23.
 
 El Consejo en coordinación con el Instituto Nacional de Estadística y Geografía, desarrollarán el Sistema Nacional de Información en Discapacidad, que tendrá como objetivo proporcionar información de servicios públicos, privados o sociales, y todo tipo de información relacionada, a la población con discapacidad, la cual podrá ser consultada por medios electrónicos o impresos, a través de módulos de consulta dispuestos en instalaciones públicas.
+
+La información estadística del Registro Nacional de Población con Discapacidad, deberá formar parte del Sistema Nacional de Información en Discapacidad y mantenerse actualizada a través de los registros administrativos de certificación de discapacidad del Sector Salud.
 
 ### Capítulo VIII. Deporte, Recreación, Cultura y Turismo
 
@@ -877,3 +889,23 @@ Segundo.- El Ejecutivo Federal elaborará a través del o de los institutos que 
 Tercero.- El estudio mencionado en el artículo anterior será con cargo al presupuesto del Instituto o Dependencia que el Ejecutivo Federal designe para su realización.
 
 Cuarto.- Las Instituciones de Seguros y Sociedades Mutualistas autorizadas tendrán un plazo de 180 días naturales contados a partir del vencimiento del plazo establecido en el Artículo Transitorio Segundo, para presentar a registro ante la Comisión Nacional de Seguros y Fianzas la o las coberturas de que se trata.
+
+D.O.F.12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, DE LA LEY GENERAL DE SALUD Y DE LA LEY GENERAL DE POBLACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Sector Salud deberá, en un plazo no mayor a un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, publicar e implementar la Norma Oficial Mexicana en materia de Certificación de la Discapacidad. Esta NOM deberá elaborarse de acuerdo con los tratados internacionales de los que México forma parte y adoptar la Clasificación Internacional del Funcionamiento, la Discapacidad y la Salud.
+
+Tercero.- El Sector Salud deberá adecuar, en un plazo no mayor a un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, las NOM sobre información en salud y atención a la discapacidad a fin de incluir la certificación de la discapacidad, la reglamentación para su elaboración y las adecuaciones reglamentarias que resulten necesarias en el certificado de nacimiento.
+
+Cuarto.- La Secretaría de Gobernación y las autoridades competentes deberán, en un plazo no mayor a 180 días a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, instalar el Registro Nacional de Personas con Discapacidad y llevar a cabo los ajustes técnicos que permitan la impresión del comprobante de la Clave Única de Registro de Población con o sin la información del Certificado de Discapacidad, según los fines que al interesado convengan.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
+
+D.O.F. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 4 DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
