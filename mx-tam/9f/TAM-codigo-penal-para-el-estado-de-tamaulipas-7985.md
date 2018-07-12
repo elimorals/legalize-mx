@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2017-12-18"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3861,21 +3861,25 @@ Los parientes o tutores que entreguen en una casa de expósitos a un niño que e
 
 Comete el delito de abandono de obligaciones alimenticias el que sin motivo justificado deje de proporcionar a su cónyuge, concubina o concubinario, o a sus hijos, los medios económicos o recursos necesarios para atender las necesidades de subsistencia.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 296.
 
-Al responsable del delito de abandono de obligaciones alimenticias se le impondrá una sanción de seis meses a tres años de prisión, privación de derechos relativos a la familia y entrega de las cantidades que no fueron oportunamente suministradas a la familia.
+Al responsable del delito de abandono de obligaciones alimenticias se le impondrá una sanción de un año a cinco años de prisión, privación de derechos relativos a la familia y entrega de las cantidades que no fueron oportunamente suministradas a la familia.
 
 (ADICIONADO, P.O. 23 DE JUNIO DE 2016) (F. DE E., P.O. 29 DE JUNIO DE 2016)
 
 La misma pena se aplicará a quien estando obligado a informar acerca de los ingresos de quienes deban cumplir con la obligación alimentaria desobedezcan la orden judicial de hacerlo o informen con datos falsos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 Para establecer las cantidades que el inculpado deberá entregar a la parte ofendida se seguirán las reglas siguientes:
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
 
 Si el obligado tiene un ingreso económico variable se tomará como base diaria la cantidad que normalmente perciba entre el mínimo y el máximo en un periodo de quince días y sobre la cual el Juez fijará un porcentaje que no podrá ser superior al cincuenta, ni inferior al treinta por ciento.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 Si no se puede determinar el monto del ingreso económico del obligado, pero notoriamente es superior al salario mínimo de la región, el Juez establecerá un porcentaje tomando en cuenta el número de personas que tienen derecho a los alimentos y la capacidad económica del obligado.
 
@@ -4363,6 +4367,8 @@ ARTICULO 337 QUATER.- Al que prive de la vida a su adoptante o adoptado, cónyug
 
 ### CAPITULO VIII. ABANDONO DE PERSONAS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 338.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2010)
@@ -4490,6 +4496,14 @@ e) El incapaz sobre el que se es tutor o curador.
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia. Asimismo, se le sujetará a tratamiento psicológico especializado y estará obligado al pago de la reparación del daño de las víctimas.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Cuando se cometa en perjuicio de un menor de doce años, se impondrá al responsable la pena de uno a cinco años de prisión.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Si el responsable fuere ascendiente o tutor del ofendido, será condenado a la pérdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez.
 
 Este delito se perseguirá, a petición de parte ofendida.
 
@@ -4621,19 +4635,19 @@ III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de mu
 
 ###### ARTICULO 362.
 
-Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a un menor, a una persona enferma o a un anciano, incapaces de cuidarse a sí mismos.
+Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a una persona menor de edad, o que siendo mayor de edad le sea imposible cuidar de sí misma.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 También incurre en éste delito el que injustificadamente abandone a su cónyuge, concubina o concubinario, sus hijos menores de edad o incapaces, o a sus padres, estando enfermos.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
-El delito de abandono de personas sólo se perseguirá a petición del cónyuge, concubina o concubinario ofendido o de sus legítimos representantes o del representante de los hijos y a falta de éste, la acción la iniciará el Ministerio Público. En este último supuesto el Ministerio Público, representará interinamente a los menores, ancianos o incapaces de cuidarse por sí mismos, hasta en tanto se designe un tutor especial para los efectos del presente artículo.
+El delito de abandono de personas sólo se perseguirá a petición del cónyuge, concubina o concubinario ofendido o de sus legítimos representantes o del representante de los hijos y a falta de éste, la acción la iniciará el Ministerio Público. En este último supuesto el Ministerio Público, representará interinamente a los menores de edad, o a quien siendo mayor de edad le sea imposible cuidar de sí misma, hasta en tanto se designe un tutor especial para los efectos del presente artículo.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
-Se perseguirá de oficio cuando el delito de abandono de personas cause daño a menores de edad, ancianos, incapaces de cuidarse por sí mismos o padres enfermos.
+Este delito se perseguirá de oficio cuando cause daño a una persona menor de edad, o que siendo mayor de edad le sea imposible cuidar de sí misma.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
@@ -6616,6 +6630,22 @@ P.O. 18 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-446 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 296, PÁRRAFO PRIMERO, Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO, RECORRIÉNDOSE EL ACTUAL PÁRRAFO CUARTO PARA SER SEXTO AL ARTÍCULO 368 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-449 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO, TERCERO Y CUARTO DEL ARTÍCULO 362, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO.
 
