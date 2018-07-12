@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "2015-12-01"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LGP"
 ---
 # LEY GENERAL DE POBLACION
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL DE POBLACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -68,11 +70,7 @@ V.- Promover la plena integración de la mujer al proceso económico, educativo,
 
 VI.- Promover la plena integración de los grupos marginados al desarrollo nacional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 VII.- (DEROGADA, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VIII.- (DEROGADA, D.O.F. 25 DE MAYO DE 2011)
 
@@ -122,25 +120,19 @@ El Consejo podrá contar con el auxilio de consultorías técnicas e integrar la
 
 ### CAPITULO II. Migración
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 7o.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 8o.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 9o.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EL PRIMER PÁRRAFO DE ESTE ARTÍCULO FUE DEROGADO EN EL D.O.F. EL 25 DE MAYO DE 2011, CONFORME AL TRANSITORIO SEGUNDO SU ENTRADA EN VIGOR ESTÁ SUJETA A LA VIGENCIA DEL REGLAMENTO DE LA LEY DE MIGRACIÓN.</small>
+> <small>[N. DE E. EL PRIMER PÁRRAFO DE ESTE ARTÍCULO FUE DEROGADO EN EL D.O.F. EL 25 DE MAYO DE 2011, CONFORME AL TRANSITORIO SEGUNDO SU ENTRADA EN VIGOR ESTÁ SUJETA A LA VIGENCIA DEL REGLAMENTO DE LA LEY DE MIGRACIÓN.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -150,127 +142,85 @@ Es facultad exclusiva de la Secretaría de Gobernación fijar los lugares destin
 
 Las dependencias y organismos que se mencionan, están obligados a proporcionar los elementos necesarios para prestar los servicios que sean de sus respectivas competencias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 11.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 12.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 13.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 14.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 15.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 16.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 17.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 18.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 19.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 20.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 21.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 22.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 23.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 24.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 25.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 26.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 27.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 28.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 29.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 30.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 31.
 
@@ -278,265 +228,177 @@ Las dependencias y organismos que se mencionan, están obligados a proporcionar 
 
 ### CAPITULO III. Inmigración
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 32.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 33.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 34.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 35.
 
 (DEROGADO, D.O.F. 27 DE ENERO DE 2011) (REPUBLICADA DEROGACION, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 36.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 37.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 38.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 39.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 40.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 41.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 42.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 43.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 44.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 45.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 46.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 47.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 48.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 49.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 50.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 51.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 52.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 53.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 54.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 55.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 56.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 57.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 58.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 59.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 60.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 61.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 62.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 63.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 64.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 65.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 66.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 67.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 68.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 69.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 70.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 71.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 72.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 73.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 74.
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 75.
 
@@ -636,7 +498,7 @@ IX. Recibir un trato digno y humano.
 
 Para efectos de la recepción de los mexicanos repatriados, la Secretaría promoverá acciones de coordinación interinstitucional para brindarles una adecuada recepción.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ### CAPITULO VI. Registro Nacional de Población
 
@@ -700,7 +562,9 @@ Las autoridades locales contribuirán a la integración del Registro Nacional de
 
 I. Adoptar la normatividad a que se refiere el artículo anterior;
 
-II. Recabar la información relativa a los nacimientos y defunciones de las personas a fin de integrar y mantener permanentemente actualizado el Registro Nacional de Población, y
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2018)</small>
+
+II. Recabar la información relativa a los nacimientos, discapacidad y defunciones de las personas a fin de integrar y mantener permanentemente actualizado el Registro Nacional de Población, y
 
 III. Incluir en el acta correspondiente la Clave Unica de Registro de Población al registrar el nacimiento de las personas.
 
@@ -722,7 +586,7 @@ Las autoridades judiciales deberán informar a la Secretaría de Gobernación so
 
 La Secretaría de Relaciones Exteriores informará a la de Gobernación, sobre la expedición y cancelación de cartas de naturalización, certificados de nacionalidad y renuncias a la nacionalidad que reciba. De igual manera, proporcionará la información necesaria para que los mexicanos residentes en el extranjero, queden incorporados al Registro Nacional de Población, en los términos establecidos por el reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 22 DE JULIO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ### CAPITULO VII. Registro Nacional de Ciudadanos y Cédula de Identidad Ciudadana
 
@@ -824,7 +688,7 @@ Corresponde al titular de la Cédula de Identidad Ciudadana su custodia y conser
 
 ###### ARTICULO 109.
 
-La Cédula de Identidad Ciudadana deberá renovarse;(sic)
+La Cédula de Identidad Ciudadana deberá renovarse;
 
 I. A más tardar, noventa días antes de que concluya su vigencia; la cual no podrá exceder de 15 años;
 
@@ -852,11 +716,11 @@ La Secretaría de Gobernación podrá expedir un documento de identificación a 
 
 La Secretaría de Gobernación proporcionará al Instituto Nacional Electoral, la información del Registro Nacional de Ciudadanos que sea necesaria para la integración de los instrumentos electorales, en los términos previstos por la ley. Igualmente podrá proporcionarla a las demás dependencias y entidades públicas que la requieran para el ejercicio de sus atribuciones.
 
-(REUBICADO [N. DE E. ANTES CAPITULO VII], D.O.F. 22 DE JULIO DE 1992)
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], D.O.F. 22 DE JULIO DE 1992)
 
 ### CAPITULO VIII. Sanciones
 
-(REUBICADO [N. DE E. ANTES ARTICULO 93], D.O.F. 22 DE JULIO DE 1992)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 93], D.O.F. 22 DE JULIO DE 1992)
 
 ###### ARTICULO 113.
 
@@ -878,9 +742,9 @@ V. (DEROGADA, D.O.F. 25 DE MAYO DE 2011)
 
 VI. Cometan actos u omisiones que violen los derechos humanos de las personas que se encuentran sujetas a esta ley.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>[N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.]</small>
 
-(REUBICADO [N. DE E. ANTES ARTICULO 94], D.O.F. 22 DE JULIO DE 1992)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 94], D.O.F. 22 DE JULIO DE 1992)
 
 ###### ARTICULO 114.
 
@@ -1010,7 +874,7 @@ ARTICULO 139 BIS.- (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO IX. Del Procedimiento Migratorio
 
@@ -1038,7 +902,7 @@ ARTICULO 139 BIS.- (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ### CAPITULO X. Del procedimiento de verificación y vigilancia
 
@@ -1092,7 +956,7 @@ México, D. F., a 11 de diciembre de 1973.- Rafael Hernández Ochoa, D.P.- Vicen
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los once días del mes de diciembre de mil novecientos setenta y tres.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Industria y Comercio, Carlos Torres Manzo.- Rúbrica.- El Secretario de Agricultura y Ganadería, Manuel Bernardo Aguirre.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro.- Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Porfirio Muñoz Ledo.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Augusto Gómez Villanueva.- Rúbrica.- El Jefe del Departamento de Turismo, Julio Hirschfeld Almada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
@@ -1231,3 +1095,17 @@ Segundo.- El presente Decreto entrará en vigor el día siguiente al de su publi
 D.O.F. 1 DE DICIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, DE LA LEY GENERAL DE SALUD Y DE LA LEY GENERAL DE POBLACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Sector Salud deberá, en un plazo no mayor a un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, publicar e implementar la Norma Oficial Mexicana en materia de Certificación de la Discapacidad. Esta NOM deberá elaborarse de acuerdo con los tratados internacionales de los que México forma parte y adoptar la Clasificación Internacional del Funcionamiento, la Discapacidad y la Salud.
+
+Tercero.- El Sector Salud deberá adecuar, en un plazo no mayor a un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, las NOM sobre información en salud y atención a la discapacidad a fin de incluir la certificación de la discapacidad, la reglamentación para su elaboración y las adecuaciones reglamentarias que resulten necesarias en el certificado de nacimiento.
+
+Cuarto.- La Secretaría de Gobernación y las autoridades competentes deberán, en un plazo no mayor a 180 días a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, instalar el Registro Nacional de Personas con Discapacidad y llevar a cabo los ajustes técnicos que permitan la impresión del comprobante de la Clave Única de Registro de Población con o sin la información del Certificado de Discapacidad, según los fines que al interesado convengan.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
