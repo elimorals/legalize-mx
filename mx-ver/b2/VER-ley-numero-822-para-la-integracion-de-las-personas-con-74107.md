@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-822-para-la-integracion-de-las-personas-con-74107"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-11"
-last_updated: "2017-07-04"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 822 PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 11 de marzo de 2010.
 
@@ -499,9 +499,21 @@ II. Establecer especificaciones técnicas que permitan el acceso, uso y libre de
 
 III. Determinar tarifas preferenciales a personas con discapacidad;
 
-IV. Impulsar el establecimiento de zonas preferenciales para el estacionamiento de vehículos en los que viajen personas con discapacidad, en la vía pública y lugares de acceso al público; y
+> <small>(REFORMADA, G.O. 12 DE JULIO DE 2018)</small>
 
-V. Expedir una identificación especial para los vehículos utilizados por las personas con discapacidad, a fin de que puedan tener acceso a los lugares señalados para su uso exclusivo.
+IV. Impulsar el establecimiento de zonas preferenciales para el estacionamiento de vehículos en los que viajen personas con discapacidad, en la vía pública y lugares de acceso al público;
+
+> <small>(REFORMADA, G.O. 12 DE JULIO DE 2018)</small>
+
+V. Expedir una identificación especial para los vehículos utilizados por las personas con discapacidad, a fin de que puedan tener acceso a los lugares señalados para su uso exclusivo; y
+
+> <small>(ADICIONADA, G.O. 12 DE JULIO DE 2018)</small>
+
+VI. Establecer descuentos en tarifas de casetas estatales, en coordinación con los concesionarios, al tratarse de personas con discapacidad y de quienes trasladen a personas que presenten la condición o trastorno del espectro autista.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, G.O. 12 DE JULIO DE 2018]</small>
+
+Dichos beneficios nunca serán menores al cincuenta por ciento de las tarifas registradas y podrán obtenerse presentando la credencial de identificación que proporcionan los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia o la autoridad competente.
 
 ###### Artículo 31.
 
@@ -876,5 +888,13 @@ G.O. 4 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 294 QUE REFORMA LAS FRACCIONES XVIII Y XIX Y ADICIONA UNA FRACCIÓN XX, AL ARTÍCULO 45 DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 653 QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 31 DE LA LEY DE CAMINOS Y PUENTES DEL ESTADO Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
