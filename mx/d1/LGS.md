@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2018-06-21"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 19 DE JUNIO DE 2017.
 
@@ -6820,6 +6820,10 @@ I.- Prenupciales;
 
 I Bis.- De nacimiento;
 
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2018)</small>
+
+I Ter.- De discapacidad;
+
 II.- De defunción;
 
 III.- De muerte fetal, y
@@ -6845,6 +6849,20 @@ El certificado de nacimiento será expedido por profesionales de la medicina o p
 ###### ARTICULO 389 Bis 1.
 
 El certificado de nacimiento será requerido por las autoridades del Registro Civil a quienes pretendan declarar el nacimiento de una persona, con las excepciones que establezcan las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JULIO DE 2018)</small>
+
+###### ARTICULO 389 Bis 2.
+
+El certificado de discapacidad será expedido conforme a la legislación vigente y acorde con los tratados internacionales de los que México sea parte, por profesionales de la medicina o persona autorizada por la autoridad sanitaria. El certificado de discapacidad deberá incluir la Clave Única de Registro de Población del beneficiario.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JULIO DE 2018)</small>
+
+###### ARTICULO 389 Bis 3.
+
+El responsable de emitir el certificado de discapacidad deberá notificarlo al Sistema Nacional de Información en Salud para los fines del Registro Nacional de Población con Discapacidad y del artículo 104 de esta Ley.
+
+Los menores de edad con discapacidad y los neonatos en los que se identifique una discapacidad congénita o genética, al momento del nacimiento o como resultado del Tamiz neonatal, deberán ser incluidos en el Registro de Menores de Edad, incluyendo la correspondiente certificación de discapacidad para garantizar el interés superior de la niñez.
 
 ###### ARTICULO 390.
 
@@ -8867,3 +8885,17 @@ D.O.F. 21 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 198 DE LA LEY GENERAL DE SALUD”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, DE LA LEY GENERAL DE SALUD Y DE LA LEY GENERAL DE POBLACIÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Sector Salud deberá, en un plazo no mayor a un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, publicar e implementar la Norma Oficial Mexicana en materia de Certificación de la Discapacidad. Esta NOM deberá elaborarse de acuerdo con los tratados internacionales de los que México forma parte y adoptar la Clasificación Internacional del Funcionamiento, la Discapacidad y la Salud.
+
+Tercero.- El Sector Salud deberá adecuar, en un plazo no mayor a un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, las NOM sobre información en salud y atención a la discapacidad a fin de incluir la certificación de la discapacidad, la reglamentación para su elaboración y las adecuaciones reglamentarias que resulten necesarias en el certificado de nacimiento.
+
+Cuarto.- La Secretaría de Gobernación y las autoridades competentes deberán, en un plazo no mayor a 180 días a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, instalar el Registro Nacional de Personas con Discapacidad y llevar a cabo los ajustes técnicos que permitan la impresión del comprobante de la Clave Única de Registro de Población con o sin la información del Certificado de Discapacidad, según los fines que al interesado convengan.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
