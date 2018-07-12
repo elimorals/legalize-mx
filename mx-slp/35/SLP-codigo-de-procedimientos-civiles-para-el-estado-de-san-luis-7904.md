@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2018-05-15"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -507,21 +507,25 @@ ART. 111.- La primera notificación se hará personalmente al interesado o a su 
 
 Tratándose de la primera notificación al actor, o de aquellas distintas al emplazamiento; tratándose del demandado, tutores, curadores, apoderados o mandatarios en un procedimiento judicial, peritos, o el llamado a juicio de terceros, en caso de que el inmueble designado se encuentre cerrado o la persona con quien se entiende la diligencia se niegue a recibir la notificación, el funcionario que practique la diligencia, fijará la cédula en la puerta principal del inmueble, de todo lo cual asentará razón en autos.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
 
-ART. 112.- Si se tratare de notificación de la demanda, o terceros llamados a juicio y a la primera búsqueda no se les encontrase, se le dejará citatorio para hora fija del día hábil siguiente, y si no esperan se les hará la notificación por cédula.
+ART. 112.- Si se tratare de notificación de la demanda, o terceros llamados a juicio y a la primera búsqueda no se les encontrase, se le dejará citatorio para hora fija del día hábil siguiente, y si no esperan, se negare aquel con quien se entiende la notificación a recibir ésta, o se encontrare cerrado el domicilio se hará la notificación por cédula.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 El funcionario que practique la diligencia, se identificará ante la persona que la atienda, requiriéndola para que se identifique, registrando el resultado, asimismo anotará por qué medios se cercioró de ser el domicilio del buscado, para ello, puede solicitar la exhibición de documentos que lo justifiquen, capturando los datos, en caso de que así suceda, asimismo deberá consignar los signos exteriores del inmueble que sirvan para corroborar que acudió al domicilio señalado, además asentará las demás manifestaciones que efectúe la persona con quien entienda el emplazamiento, en cuanto a su relación laboral, parentesco, de negocios, de habitación o cualquier otra que exista con el interesado.
 
-La cédula deberá contener, transcripción de la determinación que se manda notificar; el número de expediente; la clase de procedimiento; el nombre y apellidos de las partes; el juez o tribunal que manda practicar la diligencia; en los casos de este artículo y del anterior, se entregará a los parientes o domésticos del interesado o a cualquier otra persona que viva en la casa, después de que el notificador se hubiere cerciorado de que allí vive la persona que deba ser notificada; de todo lo cual se asentará razón en autos y se agregará copia de dicha cédula al expediente.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+La cédula deberá contener, transcripción de la determinación que se manda notificar; el número de expediente; la clase de procedimiento; el nombre y apellidos de las partes; el juez o tribunal que manda practicar la diligencia; en los casos de este artículo y del anterior, se entregará a los parientes o domésticos del interesado o a cualquier otra persona que viva en la casa, o se fijará en la puerta de la entrada si se negare aquel con quien se entiende la notificación a recibir ésta, o se encontrare cerrado el domicilio, después de que el notificador se hubiere cerciorado de que allí vive la persona que deba ser notificada; de todo lo cual se asentará razón en autos y se agregará copia de dicha cédula al expediente.
 
-ART. 113.- Si después que el notificador se hubiere cerciorado de que la persona por notificar vive en la casa y se negare aquel con quien se entiende la notificación a recibir ésta, tratándose de emplazamiento o el llamado a juicio de terceros, se hará en el lugar en que habitualmente trabaje, sin necesidad de que el juez dicte una determinación especial para ello.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+ART. 113.- Si después que el notificador se hubiere cerciorado de que la persona por notificar vive en la casa y se negare aquel con quien se entiende la notificación a recibir ésta, tratándose de emplazamiento o el llamado a juicio de, terceros, tutores, curadores, apoderados, mandatarios, o peritos en un procedimiento judicial, se hará en el lugar en que habitualmente trabaje, sin necesidad de que el juez dicte una determinación especial para ello.
 
-ART. 114.- Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios, y en la habitación no se pudiere, conforme al artículo anterior, llevar a cabo el emplazamiento, o el llamado a juicio de, terceros; tutores; curadores, apoderados; mandatarios; o peritos, en un procedimiento judicial, se podrá hacer la notificación, en el lugar en donde se encuentren.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 114.- Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios, y en la habitación no se pudiere, conforme al artículo anterior, llevar a cabo el emplazamiento, o el llamado a juicio de, terceros; tutores; curadores; apoderados; mandatarios; o peritos, en un procedimiento judicial, se podrá hacer la notificación en el lugar donde se encuentren.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -2599,6 +2603,10 @@ ART. 551.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2003)
 
 ### CAPITULO IV. Del Divorcio por Mutuo Consentimiento
 
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+
+#### Sección I
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ART. 552.- Cuando ambos consortes convengan en divorciarse en los términos del artículo 101 del Código Familiar para el Estado, deberán ocurrir ante la autoridad judicial competente, presentando el convenio que se exige en el citado artículo, así como una copia certificada del acta de matrimonio y de las de nacimiento de sus hijas o hijos y, copia simple de la solicitud y demás documentos.
@@ -2632,6 +2640,78 @@ ART. 560.- La sentencia que decrete el divorcio por mutuo consentimiento es apel
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2017)</small>
 
 ART. 561.- Ejecutoriada la sentencia de divorcio, la autoridad judicial mandará remitir copia de ella a la o el Oficial del Registro Civil de su jurisdicción, y al del lugar en que el matrimonio se efectuó, para los efectos de los artículos, 97 del Código Familiar para el Estado; y 112 de la Ley del Registro Civil del Estado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE JULIO DE 2018)</small>
+
+#### Sección II. Del Divorcio Incausado
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 BIS.- El procedimiento de divorcio incausado se rige por los principios de, unidad, concentración, celeridad y economía procesal.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 TER.- El divorcio incausado iniciará con la presentación de la demanda correspondiente por cualquiera de los cónyuges, la cual deberá reunir los requisitos establecidos en el artículo 253 de este Código, así como el artículo 86 Bis del Código Familiar para el Estado de San Luis Potosí, debiendo ofrecer todas las pruebas tendientes a acreditar la procedencia de la propuesta de convenio.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 QUÁTER.- Presentada la demanda, si el Juez advierte que ésta presenta alguna irregularidad, o bien que el convenio no reúne los requisitos del artículo 86 Bis del Código Familiar para el Estado de San Luis Potosí, prevendrá a la parte actora para que los corrija o complete, señalando en concreto sus defectos, hecho lo cual le dará curso, debiendo proveer sobre lo siguiente:
+
+I. La admisión de la demanda;
+
+II. La orden de emplazamiento de la parte demandada, a la que se le concederá el plazo de cinco días hábiles para contestar la demanda y/o manifieste su conformidad con el convenio presentado por la parte actora o, en su caso, presente contrapropuesta de convenio, debiendo anexar las pruebas respectivas relacionadas con la misma, conforme a los requisitos establecidos en el artículo 86 Bis del Código Familiar para el Estado de San Luis Potosí;
+
+III. El dictado de las medidas provisionales necesarias a que se refiere el artículo 91 del Código Familiar para el Estado de San Luis Potosí, ya sea a petición de parte o de oficio, y
+
+IV. Ordenar hacer saber a las partes que conforme a los artículos, 52, y 53, de la Ley de Mediación y Conciliación para el Estado de San Luis Potosí; 268 BIS, y 788, fracción IV de este Código, tienen derecho de acudir al Centro Estatal de Mediación y Conciliación, a efecto de tener acceso a los mecanismos alternativos de solución de controversias.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 QUINQUE.- Transcurrido el término del emplazamiento si la parte demandada manifiesta su conformidad con el convenio, previa ratificación de su escrito ante el Juez competente, el Juez deberá revisar el convenio exhibido y, en caso de que su contenido no contravenga la Ley, citará para sentencia y resolverá en un término de cinco días naturales.
+
+De igual manera, en caso de que la parte demandada no conteste la demanda, una vez fenecido el plazo para ello, se procederá en los términos del párrafo anterior.
+
+Si a pesar de existir la conformidad de la parte demandada, el convenio contraviene la Ley, el Juez deberá hacer del conocimiento de las partes los inconvenientes que haya advertido y citar a una audiencia previa y de conciliación que tendrá verificativo dentro de los cinco días hábiles siguientes, contados a partir de la notificación del propio auto, para promover el acuerdo entre las pretensiones expuestas en los citados convenios, si esto ocurre se dicta la sentencia definitiva. En caso de que cualquiera de las partes o ambas no acudan a la audiencia el Juez procederá conforme a lo dispuesto por el artículo 561 Nonies de este Código.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 SEXTIES.- Si al contestar la parte demandada se opone a las pretensiones de la parte actora, deberá exhibir una contrapuesta de convenio, en cuyo caso se citará a la audiencia previa y de conciliación en los términos del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 SEPTIES.- No se abrirá periodo probatorio, toda vez que las pruebas relacionadas con el convenio propuesto debieron ofrecerse al momento de presentarse la solicitud y, en su caso, con la contestación a la misma, por lo que únicamente se ordenará su preparación y se señalará fecha para su desahogo en el incidente correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 OCTIES.- En la audiencia previa y de conciliación el Juez deberá realizar lo siguiente:
+
+I. Analizar las excepciones dilatorias que prevé el artículo 35 de este Código, resolviendo de plano;
+
+II. Examinar las cuestiones previas hechas valer por las partes;
+
+III. Procurar la conciliación de las partes y reiterar a las partes el derecho que tienen de acudir al Centro Estatal de Mediación y Conciliación, a efecto de tener acceso a los mecanismos alternativos de solución de controversias, y
+
+IV. De no obtenerse la conciliación, la audiencia continuará y el Juez escuchará a las partes sobre los puntos discordantes de la demanda y la contestación, y sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados.
+
+De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador, se dará por concluida la audiencia y se citará para dictar la sentencia en la que se declare el divorcio y se apruebe en su totalidad el convenio.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 NONIES.- De no llegar a un acuerdo sobre la totalidad de los puntos del convenio, o de no asistir a la audiencia respectiva el cónyuge citado, el Juez calificará los puntos del convenio en los que hubo acuerdo y no contravengan la ley, y ordenará se cite para resolver lo relativo al divorcio solicitado, debiéndose aprobar las cuestiones sobre las que hubo acuerdo y que previamente haya calificado de legales y, en su caso, la terminación de la sociedad conyugal; apercibiendo a las partes en la sentencia definitiva de abstenerse de ocultar, enajenar, dilapidar bienes y efectos patrimoniales generados durante el matrimonio, hasta en tanto se liquide la sociedad conyugal.
+
+En cuanto a los puntos sobre los que no hubo acuerdo, se dejarán a salvo los derechos de las partes para que los hagan valer en la vía incidental.
+
+En la propia audiencia se decidirá sobre las medidas precautorias y provisionales, entre otras las referentes a los alimentos, guarda y custodia de niños y niñas o incapaces y, régimen de convivencia.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 DECIES.- Si la sentencia niega la pretensión de divorcio, o resuelve cuestiones inherentes al o los convenios presentados en que no haya habido conformidad de ambas partes, es recurrible en apelación. Contra la resolución de disolver el vínculo matrimonial no procede recurso alguno.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+ART. 561 UNDECIES.- Ejecutoriada la sentencia de divorcio, el Tribunal ordenará el trámite establecido en el artículo 561 de este Código.
+
+### CAPITULO V. De los Concursos
 
 #### Sección I. Reglas Generales
 
@@ -2743,8 +2823,6 @@ ART. 588.- Los acreedores listados en el estado del deudor o que presentaren sus
 
 ART. 589.- Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán los (sic) disposiciones contenidas en el Título I, Tercera Parte, del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo, quien litigará en representación de los demás acreedores, sin perjuicio de que también se observe lo dispuesto en los artículos precedentes.
 
-### CAPITULO V. De los Concursos
-
 #### Sección III. De la Administración del Concurso
 
 ART. 590.- Luego que el síndico acepte el cargo, se procederá a darle posesión de los bienes, libros y papeles del deudor, por riguroso inventario. Si éstos se encuentran fuera del lugar del juicio, la diligencia se llevará a efecto con intervención de la autoridad judicial que se exhortará para ese fin y con citación del deudor.
@@ -2802,6 +2880,8 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 ART. 602.- Al cumplir el síndico lo que se dispone en el artículo 571, presentará también dictamen, por separado, respecto del juicio que se hubiere formado de las causas que motivaron la insolvencia del deudor y concluirá pidiendo, si hubiere motivo para presumirla culpable o fraudulenta, que se consignen los hechos al Ministerio Público para la averiguación correspondiente. La falta de dictamen no impedirá que el juez en cualquier estado del concurso, ya sea de oficio o a solicitud de parte interesada, haga la consignación.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 19 DE JULIO DE 2017)</small>
+
+### CAPÍTULO VI. De las Sucesiones
 
 #### Sección I. Disposiciones Generales
 
@@ -2980,8 +3060,6 @@ ART. 638.- Si el testamento no es impugnado ni se objeta la capacidad de los int
 Si se impugnare la validez del testamento o la capacidad legal de algún heredero, se sustanciará el juicio ordinario correspondiente con el albacea o heredero respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
 
 ART. 639.- En la junta prevenida por el artículo 634 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1564 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 1567 del mismo Código.
-
-### CAPÍTULO VI. De las Sucesiones
 
 #### Sección III. De los Intestados
 
@@ -3487,136 +3565,6 @@ ART. 773.- En los juicios a que se refiere esta sección, el Ministerio Público
 
 ART. 774.- En todo lo que no estuviere especialmente determinado por esta Sección, se observarán las demás reglas establecidas en este Título.
 
-#### Sección I. De la Declaración de Estado
-
-ART. 806.- La declaración de estado de minoridad puede pedirse:
-
-I.- Por el mismo menor que ha cumplido dieciséis años;
-
-II.- Por su cónyuge;
-
-III.- Por sus presuntos herederos legítimos;
-
-IV.- Por el ejecutor testamentario;
-
-V.- Por el Ministerio Público que en todo caso será oído.
-
-ART. 807.- Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor si fuere posible y el Ministerio Público; en ella, con o sin asistencia de éste y por las certificaciones del Registro Civil si hasta este momento se presentaren, por dictamen médico, o por el aspecto del menor y a falta de aquéllos o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
-
-ART. 808.- La declaración de incapacidad por causa de demencia, idiotismo, imbecilidad, embriaguez habitual o toxicomanía, podrá pedirse:
-
-I.- Por el cónyuge;
-
-II.- Por los presuntos herederos legítimos;
-
-III.- Por el ejecutor testamentario;
-
-IV.- Por el Ministerio Público, que en todo caso será oído.
-
-ART. 809.- En los casos del artículo anterior, presentada la solicitud de interdicción, el tribunal proveerá auto para que, dentro de los tres días siguientes, sea reconocido el incapacitado por tres médicos que nombrará; la diligencia de reconocimiento se practicará en presencia del tribunal, del Ministerio Público y de la persona que solicitó la interdicción, levantándose acta en que conste el resultado.
-
-ART. 810.- Si del dictamen pericial resultare comprobada la demencia o por lo menos duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el tribunal dictará las siguientes medidas:
-
-I.- Nombrará tutor y curador interinos, sujetándose a las disposiciones de este Capítulo; pero sin que pueda ser nombrada la persona que haya promovido la interdicción;
-
-II.- Pondrá los bienes del presunto incapacitado bajo la administración del tutor interino, y si fuere casado, bajo la administración del otro cónyuge;
-
-III.- Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
-
-Del auto en que se dicten estas providencias no procederá apelación sino en el efecto devolutivo.
-
-ART. 811.- Dictadas las providencias que establece el artículo anterior y previo nuevo reconocimiento del presunto incapacitado, que deberá practicarse como se dispone en el artículo 809, dentro de un término que en ningún caso excederá de cuarenta días, el juez citará a junta en la cual, si estuvieren conformes el tutor y el Ministerio Público, dictará su resolución declarando o no el estado de interdicción, según el sentido en que hayan emitido su dictamen la mayoría de los peritos. Si hubiere oposición, se sustanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere y durante la tramitación subsistirán las medidas decretadas conforme al artículo 810.
-
-ART. 812.- En todo procedimiento para declarar la interdicción, se observarán las siguientes reglas:
-
-I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
-
-II.- El estado de demencia puede probarse por testigos o documentos; pero en todo caso se requiere certificación de tres médicos, por lo menos, que nombrará el juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen, y se oiga su dictamen;
-
-III.- El que promueva dolosamente la interdicción incurrirá en las penas que la Ley impone por falsedad y calumnia, y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de cincuenta a mil pesos, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
-
-IV.- Luego que cause ejecutoria la sentencia de interdicción, el juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la Ley, o hará el nombramiento de tutor en los casos que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
-
-ART. 813.- El juez, durante el tiempo que dure la interdicción, puede repetir el reconocimiento del demente, bien a petición de los que tienen derecho de pedir aquélla, bien de oficio cuando lo crea conveniente; pero siempre con asistencia del que pidió la interdicción, del tutor y del Ministerio Público.
-
-ART. 814.- El procedimiento que tenga por objeto hacer cesar la interdicción, se seguirá en todo caso como el que la declaró, observándose en lo conducente las disposiciones de los artículos anteriores.
-
-ART. 815.- La declaración de estado de los sordo-mudos se hará mediante el dictamen unánime de tres facultativos que reconozcan al incapaz, en presencia del juez y del Ministerio Público.
-
-ART. 816.- Las sentencias que declaren la interdicción y las que le pongan término, se publicarán en el Periódico Oficial y en el diario de mayor circulación en el Estado, a juicio del juez, por tres veces de tres en tres días.
-
-#### Sección II. Del Nombramiento de Tutores y del Discernimiento del Cargo
-
-ART. 817.- Ninguna tutela podrá conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-ART. 818.- Acreditado el nombramiento de la o el tutor hecho por el que ejerce patria potestad, en última disposición, se discernirá el cargo por la autoridad judicial, sin exigir fianza al nombrado, si se le hubiere dispensado de ella, salvo lo dispuesto en el artículo 406 del Código Familiar para el Estado.
-
-ART. 819.- No habiendo relevación de garantía se exigirá ésta proporcionada al caudal que haya de administrarse y con entera sujeción a lo prescrito en el Código Civil.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-ART. 820.- Si la o el que no está en ejercicio de la patria potestad nombra persona tutora con arreglo al artículo 374 del Código Familiar para el Estado, se discernirá el cargo con relevo de garantía, si así lo hubiere dispuesto el testador en cuanto al caudal que deje. Lo dispuesto en este artículo se entenderá sin perjuicio de lo prescrito en el artículo 406 del referido Código.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-ART. 821.- Siempre que corresponda a la autoridad judicial el nombramiento de la persona tutora conforme a lo previsto en el Capítulo IX del Titulo X del Código Familiar para el Estado, deberá recibir información sumaria de estar la o el menor en alguno de los casos del artículo 387 del mismo Código y, convocará por edictos publicados tres veces cada tres días, en el Periódico Oficial del Estado y en un diario de los de mayor circulación, a juicio de la autoridad judicial, a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
-
-ART. 822.- Cuando expire el término de los edictos sin que se presente algún pariente del incapacitado, se procederá al nombramiento de tutor dativo. Se hará lo mismo en casos de suma urgencia, aún cuando no haya concluído dicho término.
-
-ART. 823.- Siempre que el tutor nombrado no reúna los requisitos que la Ley exige para ser tutor o curador, el juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
-
-ART. 824.- Si sobre el nombramiento de un tutor se empeñare cuestión, se sustanciará ésta en juicio extraordinario y en el pleito que se siga representará al menor un tutor interino, que el juez nombrará para este sólo efecto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2015)</small>
-
-ART. 825.- Todo tutor, cualquiera que sea su clase, debe aceptar previamente y prestar las garantías exigidas por el artículo 404 del Código Familiar para el Estado, para que se le discierna el cargo, a no ser que la ley lo exceptuare expresamente.
-
-El tutor debe manifestar si acepta o no el cargo dentro de los cinco días que sigan a la notificación de su nombramiento. En igual término debe proponer sus impedimentos o excusas, disfrutando un día más por cada cuarenta kilómetros que medien entre su domicilio y el lugar de la residencia del juez competente.
-
-Cuando el impedimento o la causa legal de excusa ocurrieren después de la admisión de la tutela, los términos correrán desde el día en que el tutor conoció el impedimento o la causa legal de excusa.
-
-La aceptación o el lapso de los términos, en su caso, importan renuncia de la excusa.
-
-ART. 826.- El importe de la garantía se determinará con audiencia del Ministerio Público.
-
-ART. 827.- También se dará audiencia al Ministerio Público para la apreciación y aprobación de la garantía que se otorgue.
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
-
-ART. 828.- Para facilitar y asegurar el otorgamiento de la garantía, los jueces nombrarán desde luego curador en los casos en que conforme al artículo 446 del Código Familiar para el Estado les corresponda hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor, en su caso.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-ART. 829.- La o el tutor interino que en estos casos deba nombrarse conforme al artículo 416 del Código Familiar para el Estado, presentará dentro del término que designe la autoridad judicial y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo deba garantizar con arreglo al referido Código.
-
-ART. 830.- De este cómputo se dará traslado al Ministerio Público y en vista de su respuesta se determinará el otorgamiento de la garantía.
-
-ART. 831.- Previa la aceptación del tutor designado y la prestación de la garantía en la forma que queda prevenida, se le discernirá el cargo, proveyendo auto en que se le faculte para ejercerlo con sujeción a la Ley. De este auto se le darán los testimonios que pidiere para acreditar su personalidad.
-
-ART. 832.- No se exigirá fianza a los tutores interinos cuando no tengan administración de bienes.
-
-ART. 833.- En todo caso en que se nombre al menor tutor interino, se le designará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-ART. 834.- La oposición de intereses a que se refieren los artículos 288 y 308 del Código Familiar para el Estado, se calificará siempre con audiencia del Ministerio Público y, sólo que éste pida de conformidad, se nombrará la o el tutor interino.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-ART. 835.- En todo auto de discernimiento del cargo de la o el tutor, deberá la autoridad judicial expresar el tanto por ciento que, con arreglo a lo previsto en el artículo 362 del Código Familiar para el Estado, le corresponda al nombrado, o la pensión o legado que por el desempeño de su encargo le hubiere asignado el autor de la herencia.
-
-ART. 836.- Los autos de nombramiento de tutor definitivo, y de discernimiento de cargo, se publicarán por tres veces cada tres días, en el Periódico Oficial y en otro de los de mayor circulación a juicio del juez.
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
-
-ART. 837.- Si al diferirse la tutela se encuentra el incapaz fuera de su domicilio, el juez de primera instancia y, en su defecto, el juez menor o el presidente municipal constitucional de la población en que se hallare, hará inventariar y depositar los bienes muebles que el incapacitado tenga en su poder, y lo avisará inmediatamente al juez del domicilio, remitiéndole un testimonio de estas diligencias. Esta misma obligación tiene en el caso de quedar vacante la tutela por cualquiera otra causa.
-
-ART. 838.- De las resoluciones que se dictaren conforme al artículo anterior, sólo se admitirá la apelación en el efecto devolutivo.
-
-ART. 839.- El Ministerio Público será oído siempre que el juez deba interponer su autoridad en los negocios relativos a tutela, sean de la clase que fueren.
-
 ## TITULO DECIMO. De los Incidentes
 
 ### CAPITULO I. De los Incidentes en General
@@ -3816,6 +3764,136 @@ ART. 804.- La sustanciación de las apelaciones en jurisdicción voluntaria se s
 ART. 805.- Los actos de jurisdicción voluntaria de que no se hiciere mención especial en este Código, se sujetarán a lo dispuesto en este Capítulo.
 
 ### CAPITULO II. De la Declaración de Estado; del Nombramiento de Tutores y Curadores; del Discernimiento de estos cargos y de las Cuentas de la Tutela
+
+#### Sección I. De la Declaración de Estado
+
+ART. 806.- La declaración de estado de minoridad puede pedirse:
+
+I.- Por el mismo menor que ha cumplido dieciséis años;
+
+II.- Por su cónyuge;
+
+III.- Por sus presuntos herederos legítimos;
+
+IV.- Por el ejecutor testamentario;
+
+V.- Por el Ministerio Público que en todo caso será oído.
+
+ART. 807.- Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor si fuere posible y el Ministerio Público; en ella, con o sin asistencia de éste y por las certificaciones del Registro Civil si hasta este momento se presentaren, por dictamen médico, o por el aspecto del menor y a falta de aquéllos o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
+
+ART. 808.- La declaración de incapacidad por causa de demencia, idiotismo, imbecilidad, embriaguez habitual o toxicomanía, podrá pedirse:
+
+I.- Por el cónyuge;
+
+II.- Por los presuntos herederos legítimos;
+
+III.- Por el ejecutor testamentario;
+
+IV.- Por el Ministerio Público, que en todo caso será oído.
+
+ART. 809.- En los casos del artículo anterior, presentada la solicitud de interdicción, el tribunal proveerá auto para que, dentro de los tres días siguientes, sea reconocido el incapacitado por tres médicos que nombrará; la diligencia de reconocimiento se practicará en presencia del tribunal, del Ministerio Público y de la persona que solicitó la interdicción, levantándose acta en que conste el resultado.
+
+ART. 810.- Si del dictamen pericial resultare comprobada la demencia o por lo menos duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el tribunal dictará las siguientes medidas:
+
+I.- Nombrará tutor y curador interinos, sujetándose a las disposiciones de este Capítulo; pero sin que pueda ser nombrada la persona que haya promovido la interdicción;
+
+II.- Pondrá los bienes del presunto incapacitado bajo la administración del tutor interino, y si fuere casado, bajo la administración del otro cónyuge;
+
+III.- Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
+
+Del auto en que se dicten estas providencias no procederá apelación sino en el efecto devolutivo.
+
+ART. 811.- Dictadas las providencias que establece el artículo anterior y previo nuevo reconocimiento del presunto incapacitado, que deberá practicarse como se dispone en el artículo 809, dentro de un término que en ningún caso excederá de cuarenta días, el juez citará a junta en la cual, si estuvieren conformes el tutor y el Ministerio Público, dictará su resolución declarando o no el estado de interdicción, según el sentido en que hayan emitido su dictamen la mayoría de los peritos. Si hubiere oposición, se sustanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapacitado si lo pidiere y durante la tramitación subsistirán las medidas decretadas conforme al artículo 810.
+
+ART. 812.- En todo procedimiento para declarar la interdicción, se observarán las siguientes reglas:
+
+I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
+
+II.- El estado de demencia puede probarse por testigos o documentos; pero en todo caso se requiere certificación de tres médicos, por lo menos, que nombrará el juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen, y se oiga su dictamen;
+
+III.- El que promueva dolosamente la interdicción incurrirá en las penas que la Ley impone por falsedad y calumnia, y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de cincuenta a mil pesos, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
+
+IV.- Luego que cause ejecutoria la sentencia de interdicción, el juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme a la Ley, o hará el nombramiento de tutor en los casos que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
+
+ART. 813.- El juez, durante el tiempo que dure la interdicción, puede repetir el reconocimiento del demente, bien a petición de los que tienen derecho de pedir aquélla, bien de oficio cuando lo crea conveniente; pero siempre con asistencia del que pidió la interdicción, del tutor y del Ministerio Público.
+
+ART. 814.- El procedimiento que tenga por objeto hacer cesar la interdicción, se seguirá en todo caso como el que la declaró, observándose en lo conducente las disposiciones de los artículos anteriores.
+
+ART. 815.- La declaración de estado de los sordo-mudos se hará mediante el dictamen unánime de tres facultativos que reconozcan al incapaz, en presencia del juez y del Ministerio Público.
+
+ART. 816.- Las sentencias que declaren la interdicción y las que le pongan término, se publicarán en el Periódico Oficial y en el diario de mayor circulación en el Estado, a juicio del juez, por tres veces de tres en tres días.
+
+#### Sección II. Del Nombramiento de Tutores y del Discernimiento del Cargo
+
+ART. 817.- Ninguna tutela podrá conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 818.- Acreditado el nombramiento de la o el tutor hecho por el que ejerce patria potestad, en última disposición, se discernirá el cargo por la autoridad judicial, sin exigir fianza al nombrado, si se le hubiere dispensado de ella, salvo lo dispuesto en el artículo 406 del Código Familiar para el Estado.
+
+ART. 819.- No habiendo relevación de garantía se exigirá ésta proporcionada al caudal que haya de administrarse y con entera sujeción a lo prescrito en el Código Civil.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 820.- Si la o el que no está en ejercicio de la patria potestad nombra persona tutora con arreglo al artículo 374 del Código Familiar para el Estado, se discernirá el cargo con relevo de garantía, si así lo hubiere dispuesto el testador en cuanto al caudal que deje. Lo dispuesto en este artículo se entenderá sin perjuicio de lo prescrito en el artículo 406 del referido Código.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 821.- Siempre que corresponda a la autoridad judicial el nombramiento de la persona tutora conforme a lo previsto en el Capítulo IX del Titulo X del Código Familiar para el Estado, deberá recibir información sumaria de estar la o el menor en alguno de los casos del artículo 387 del mismo Código y, convocará por edictos publicados tres veces cada tres días, en el Periódico Oficial del Estado y en un diario de los de mayor circulación, a juicio de la autoridad judicial, a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
+
+ART. 822.- Cuando expire el término de los edictos sin que se presente algún pariente del incapacitado, se procederá al nombramiento de tutor dativo. Se hará lo mismo en casos de suma urgencia, aún cuando no haya concluído dicho término.
+
+ART. 823.- Siempre que el tutor nombrado no reúna los requisitos que la Ley exige para ser tutor o curador, el juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
+
+ART. 824.- Si sobre el nombramiento de un tutor se empeñare cuestión, se sustanciará ésta en juicio extraordinario y en el pleito que se siga representará al menor un tutor interino, que el juez nombrará para este sólo efecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 825.- Todo tutor, cualquiera que sea su clase, debe aceptar previamente y prestar las garantías exigidas por el artículo 404 del Código Familiar para el Estado, para que se le discierna el cargo, a no ser que la ley lo exceptuare expresamente.
+
+El tutor debe manifestar si acepta o no el cargo dentro de los cinco días que sigan a la notificación de su nombramiento. En igual término debe proponer sus impedimentos o excusas, disfrutando un día más por cada cuarenta kilómetros que medien entre su domicilio y el lugar de la residencia del juez competente.
+
+Cuando el impedimento o la causa legal de excusa ocurrieren después de la admisión de la tutela, los términos correrán desde el día en que el tutor conoció el impedimento o la causa legal de excusa.
+
+La aceptación o el lapso de los términos, en su caso, importan renuncia de la excusa.
+
+ART. 826.- El importe de la garantía se determinará con audiencia del Ministerio Público.
+
+ART. 827.- También se dará audiencia al Ministerio Público para la apreciación y aprobación de la garantía que se otorgue.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 828.- Para facilitar y asegurar el otorgamiento de la garantía, los jueces nombrarán desde luego curador en los casos en que conforme al artículo 446 del Código Familiar para el Estado les corresponda hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor, en su caso.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 829.- La o el tutor interino que en estos casos deba nombrarse conforme al artículo 416 del Código Familiar para el Estado, presentará dentro del término que designe la autoridad judicial y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo deba garantizar con arreglo al referido Código.
+
+ART. 830.- De este cómputo se dará traslado al Ministerio Público y en vista de su respuesta se determinará el otorgamiento de la garantía.
+
+ART. 831.- Previa la aceptación del tutor designado y la prestación de la garantía en la forma que queda prevenida, se le discernirá el cargo, proveyendo auto en que se le faculte para ejercerlo con sujeción a la Ley. De este auto se le darán los testimonios que pidiere para acreditar su personalidad.
+
+ART. 832.- No se exigirá fianza a los tutores interinos cuando no tengan administración de bienes.
+
+ART. 833.- En todo caso en que se nombre al menor tutor interino, se le designará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 834.- La oposición de intereses a que se refieren los artículos 288 y 308 del Código Familiar para el Estado, se calificará siempre con audiencia del Ministerio Público y, sólo que éste pida de conformidad, se nombrará la o el tutor interino.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+ART. 835.- En todo auto de discernimiento del cargo de la o el tutor, deberá la autoridad judicial expresar el tanto por ciento que, con arreglo a lo previsto en el artículo 362 del Código Familiar para el Estado, le corresponda al nombrado, o la pensión o legado que por el desempeño de su encargo le hubiere asignado el autor de la herencia.
+
+ART. 836.- Los autos de nombramiento de tutor definitivo, y de discernimiento de cargo, se publicarán por tres veces cada tres días, en el Periódico Oficial y en otro de los de mayor circulación a juicio del juez.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2015)</small>
+
+ART. 837.- Si al diferirse la tutela se encuentra el incapaz fuera de su domicilio, el juez de primera instancia y, en su defecto, el juez menor o el presidente municipal constitucional de la población en que se hallare, hará inventariar y depositar los bienes muebles que el incapacitado tenga en su poder, y lo avisará inmediatamente al juez del domicilio, remitiéndole un testimonio de estas diligencias. Esta misma obligación tiene en el caso de quedar vacante la tutela por cualquiera otra causa.
+
+ART. 838.- De las resoluciones que se dictaren conforme al artículo anterior, sólo se admitirá la apelación en el efecto devolutivo.
+
+ART. 839.- El Ministerio Público será oído siempre que el juez deba interponer su autoridad en los negocios relativos a tutela, sean de la clase que fueren.
 
 #### Sección III. Del Nombramiento de Curador y Discernimiento del Cargo
 
@@ -5754,6 +5832,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 952.- SE REFORMA EL ARTÍCULO 448 BIS EN SU FRACCIÓN I EL PÁRRAFO CUARTO, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1012.- SE ADICIONAN EN EL TÍTULO NOVENO AL CAPÍTULO IV LAS SECCIONES, PRIMERA, Y SEGUNDA, ÉSTA “DEL DIVORCIO INCAUSADO” Y LOS ARTÍCULOS, 561 BIS A 561 UNDECIES, AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1013.- SE REFORMAN LOS ARTÍCULOS 112, 113, Y 114 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
