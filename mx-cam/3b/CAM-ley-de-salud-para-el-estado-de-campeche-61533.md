@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2016-11-04"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -227,17 +229,15 @@ XIII. Coadyuvar a que la formación y distribución de los recursos humanos para
 
 XIV. Promover e impulsar la participación de la comunidad en el cuidado de la salud e impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2011)</small>
-
 XV. La prestación de los servicios de atención a la obesidad, así como la orientación y vigilancia en materia de nutrición conforme a los programas que se formulen y desarrollen al respecto; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE AGOSTO DE 2011)</small>
+XVI. Recabar la información necesaria para integrarla al Registro Nacional de Cáncer;
 
-XVI. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JULIO DE 2018)</small>
+
+XVII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### Artículo 7.
 
@@ -2638,3 +2638,11 @@ P.O. 4 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 280 POR EL QUE "SE REFORMA LA FRACCIÓN XVI Y SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 6 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial el (sic) Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarías de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
