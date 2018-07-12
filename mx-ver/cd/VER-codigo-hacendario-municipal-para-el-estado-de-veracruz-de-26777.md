@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2017-12-26"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2018.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -4623,6 +4623,10 @@ VI. Acompañar el plano del predio con la indicación de sus linderos, superfici
 
 Satisfechos los requisitos señalados en el artículo anterior, el Ayuntamiento, en sesión de Cabildo y en los términos dispuestos por la legislación aplicable, emitirá el Acuerdo correspondiente, en el cual de ser favorable al solicitante, deberán asentarse los datos del beneficiario y del bien a enajenar, así como el precio de venta y la forma de pago.
 
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2018)</small>
+
+Solo en caso de que se acredite fehacientemente que la posesión del inmueble la haya tenido diez años o más anteriores a la solicitud, y con excepción a lo dispuesto por el artículo 468 de este Código, el precio de venta se determinará con base en el dictamen que para tal efecto emita la autoridad catastral correspondiente, sobre la base del valor que el predio tenía al iniciarse la posesión respectiva.
+
 ###### Artículo 475.
 
 Si la solicitud de enajenación fuere acordada favorablemente, el Ayuntamiento remitirá el expediente relativo al Congreso, a efecto de que éste o la Diputación Permanente en su caso, previa inspección cuando así se requiera, emita el acuerdo respectivo, que deberá publicarse en la Gaceta Oficial y comunicarse al Ayuntamiento y al interesado.
@@ -5024,5 +5028,13 @@ G.O. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 654 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 474 DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
