@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2018-06-25"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -146,7 +146,9 @@ XXVI. Secretaría: a la Secretaría de Gobernación;
 
 XXVII. Servicio Profesional de Carrera Migratoria: al mecanismo que garantiza la igualdad de oportunidades para el ingreso, permanencia y desarrollo de los servidores públicos con cargos de confianza del Instituto.
 
-XXVIII. Situación migratoria: a la hipótesis en la que se ubica un extranjero en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el país. Se considera que el extranjero tiene situación migratoria regular cuando ha cumplido dichas disposiciones y que tiene situación migratoria irregular cuando haya incumplido con las mismas;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2018)</small>
+
+XXVIII. Situación migratoria: a la hipótesis jurídica en la que se ubica un extranjero en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el país. Se considera que el extranjero tiene situación migratoria regular cuando ha cumplido dichas disposiciones y que tiene situación migratoria irregular cuando haya incumplido con las mismas;
 
 XXIX. Tarjeta de residencia: al documento que expide el Instituto con el que los extranjeros acreditan su situación migratoria regular de residencia temporal o permanente;
 
@@ -1150,9 +1152,11 @@ XV. Las demás que se establezcan en disposiciones de carácter general que expi
 
 El personal de seguridad, vigilancia y custodia que realice sus funciones en los dormitorios de mujeres, será exclusivamente del sexo femenino.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE JULIO DE 2018)</small>
+
 ###### Artículo 111.
 
-El Instituto resolverá la situación regular de los extranjeros presentados en un plazo no mayor de 15 días hábiles, contados a partir de su presentación.
+El Instituto resolverá la situación migratoria de los extranjeros presentados en un plazo no mayor de 15 días hábiles, contados a partir de su presentación.
 
 El alojamiento en las estaciones migratorias únicamente podrá exceder de los 15 días hábiles a que se refiere el párrafo anterior cuando se actualicen cualquiera de los siguientes supuestos:
 
@@ -1691,3 +1695,9 @@ D.O.F. 25 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 30 DE LA LEY DE MIGRACIÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 Y 111 DE LA LEY DE MIGRACIÓN”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
