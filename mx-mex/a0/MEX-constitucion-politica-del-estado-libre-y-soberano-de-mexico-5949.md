@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2018-03-16"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2018.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -891,7 +891,7 @@ VIII. No ser juez, magistrado ni integrante del Consejo de la Judicatura del Pod
 
 > <small>(ADICIONADA, G.G. 24 DE JUNIO DE 2014)</small>
 
-IX. No ser militar o jefe de las fuerzas de seguridad pública del Estado o de los municipios en ejercicio de mando en el territorio del distrito o circunscripción por el que se pretenda postularse.
+IX.- No ser militar o jefe de las fuerzas de seguridad pública del Estado o de los municipios en ejercicio de mando en el territorio del distrito o circunscripción por el que se pretenda postularse.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
@@ -2441,13 +2441,13 @@ El Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o por quien ellos autoricen, conforme a la ley.
 
-> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 126.
 
-El Ejecutivo del Estado podrá convenir con los ayuntamientos la asunción de las funciones que originalmente le corresponden a aquél, la ejecución de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario.
+El Ejecutivo del Estado podrá convenir con los ayuntamientos la asunción de las funciones que originalmente le corresponden a aquél, la ejecución de obras y la prestación de servicios públicos, cuando el desarrollo económico y social o la protección al ambiente lo hagan necesarios.
 
-> <small>(REFORMADO, G.G. 13 DE ABRIL DE 2010)</small>
+Tratándose de la protección al ambiente, el Ejecutivo del Estado podrá establecer Regiones Ambientales y Centros Integrales de Residuos en cada región y coordinarse en esta materia con los municipios, a través de los convenios respectivos, en términos de las disposiciones jurídicas aplicables.
 
 Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, asimismo, podrán asociarse para concesionar los servicios públicos, de conformidad con las disposiciones jurídicas aplicables, prefiriéndose en igualdad de circunstancias a vecinos del municipio. Cuando trascienda el periodo constitucional del Ayuntamiento se requerirá autorización de la Legislatura del Estado.
 
@@ -4580,3 +4580,13 @@ G.G. 16 DE MARZO DE 2018.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+G.G. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 313.- POR EL QUE SE REFORMA EL ARTÍCULO 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Legislatura realizará las adecuaciones legislativas correspondientes al presente Decreto dentro del año siguiente a su entrada en vigor.
