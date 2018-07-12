@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-06-22"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2481,9 +2481,7 @@ En todos los casos previstos en los artículos precedentes, el Ministerio Públi
 
 ### CAPÍTULO VIII. Abigeato
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 237 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 13 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 237… Este delito se sancionará con una pena de dos a diez años de prisión y sanción pecuniaria de doscientos a mil días del valor la unidad de medida y actualización."]</small>
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ## TÍTULO SÉPTIMO. INHUMACIONES Y EXHUMACIONES ILÍCITAS
 
@@ -2917,11 +2915,13 @@ Si el daño, destrucción o deterioro se causa por medio de inundación, incendi
 
 ###### ARTÍCULO 237.
 
-Comete el delito de abigeato quien, sin derecho, se apodera de una o más cabezas de ganado, independientemente del lugar donde se encuentre. Este delito se sancionará con:
+Comete el delito de abigeato quien por sí o por interpósita persona, se apodera de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas.
 
-I. Pena de dos a cuatro años de prisión, y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización vigente, cuando sea sobre una o dos cabezas de ganado menor, sea porcino, ovino o caprino, y
+Se considerará ganado para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina, una o más colonias de abejas en un apiario, o una o más colonias de peces en un criadero acuícola; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
 
-II. Pena de tres a once años de prisión y sanción pecuniaria de trescientos a mil cien días del valor de la unidad de medida y actualización vigente, cuando sea sobre tres o más cabezas de ganado menor, ya sea porcino, ovino o caprino; o una o más de ganado mayor, sea bovino equino, mular o asnal.
+Este delito se sancionará con una pena de dos a diez años de prisión y sanción pecuniaria de doscientos a mil días del valor de la unidad de medida y actualización vigente.
+
+Se equiparará al delito de abigeato y se sancionará con la misma pena que éste, el sacrificio de ganado sin el consentimiento de quien legalmente pueda otorgarlo.
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO DEL ARTÍCULO 238 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 13 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 238. A quien se apodere sin derecho de una o más cabezas de ganado menor, sea porcino, ovino o caprino, se le impondrá una pena de uno a diez años de prisión y sanción pecuniaria de cien a mil días del valor de la unidad de medida y actualización."]</small>
 
@@ -2929,9 +2929,11 @@ II. Pena de tres a once años de prisión y sanción pecuniaria de trescientos a
 
 (DEROGADO, P.O. 27 DE MAYO DE 2017)
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 239.
 
-Si el abigeato se verifica con violencia, por la noche, por dos o más personas, con horadación de paredes, fractura de puertas, destrucción de las cerraduras de éstas o ruptura de cercas, setos o vallados, se aumentará en una tercera parte la pena que corresponda.
+Si el abigeato se verifica con violencia, por la noche, por dos o más personas, con horadación de paredes, fractura de puertas, destrucción de las cerraduras de éstas o ruptura de cercas, setos o vallados, o sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado, se aumentará en una tercera parte la pena que corresponda.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -2945,11 +2947,11 @@ A las autoridades que intervengan en esas operaciones, si no tomaron las medidas
 
 ARTÍCULO 240 BIS. A quien, sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, custodie, adquiera, destace, acopie, trafique, pignore, reciba, u oculte con dolo, ganado, pieles, carnes u otros derivados del ganado que sean producto del abigeato, o bien que realice tales acciones sin autorización de quien legalmente pueda disponer del ganado, se le impondrá una pena de dos a cuatro años de prisión y sanción pecuniaria de cien a seiscientos días del valor de la unidad de medida y actualización vigente.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 241.
 
-Al que transporte ganado, carne, pieles u otros derivados obtenidos del abigeato, sin haber tomado las medidas necesarias para cerciorarse de su legítima procedencia, se le impondrá una pena de uno a cuatro años de prisión y sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización.
+Al que transporte ganado, carne, pieles u otros derivados obtenidos del abigeato, sin haber tomado las medidas necesarias para cerciorarse de su legítima procedencia, se le impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización vigente.
 
 ###### ARTÍCULO 242.
 
@@ -2961,13 +2963,25 @@ II. Marque o señale en campo ajeno, sin consentimiento del dueño, animales sin
 
 III. Marque o señale animales ajenos, aunque sea en campo propio;
 
-IV. Contramarque o contraseñe animales ajenos en cualquier parte, sin derecho para hacerlo, o
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-V. Expida certificados falsos para obtener guías que simulen ventas, haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganados o cueros.
+IV. Contramarque o contraseñe animales ajenos en cualquier parte, sin derecho para hacerlo;
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-En estos casos se impondrá una pena de uno a cinco años de prisión y sanción pecuniaria de cien a quinientos días del valor de la unidad de medida y actualización.
+V. Expida certificados falsos para obtener guías que simulen ventas, haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganados o cueros;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+
+VI. Se apodere de una o más colonias de abejas de un apiario sin consentimiento de quien legalmente pueda disponer de ellas, y
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2018)</small>
+
+VII. Se apodere de una o más colonias de peces en un criadero acuícola sin consentimiento de quien legalmente pueda disponer de ellas.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
+
+En estos casos se impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización vigente.
 
 ### CAPÍTULO III. Motín
 
@@ -5106,5 +5120,13 @@ P.O. 22 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 983.-·SE REFORMAN LOS ARTÍCULOS 202 Y 203 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1011.- SE REFORMAN LOS ARTÍCULOS, 237, 239, 241, Y 242 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
