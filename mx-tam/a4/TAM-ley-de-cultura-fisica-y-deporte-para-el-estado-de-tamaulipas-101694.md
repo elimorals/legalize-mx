@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2017-06-01"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -117,9 +117,13 @@ IX. Incentivar la actividad deportiva que se desarrolla en forma organizada y pr
 
 X. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-XI. Garantizar a todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en la materia se implementen; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-XII. La no discriminación de los deportistas con discapacidad.
+XI. Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin distinción de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; y
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+XII. La no discriminación de los deportistas con discapacidad, siempre que las actividades a realizar no pongan en peligro su integridad física y seguridad.
 
 ###### ARTÍCULO 5.
 
@@ -687,6 +691,10 @@ Es de interés público la construcción, remodelación, ampliación, adecuació
 
 La planificación y construcción de instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyecta desarrollar, considerando la opinión de la Asociación Deportiva Estatal que corresponda, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente, que para tal efecto expida la dependencia en la materia, para el uso normal de las mismas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2018)</small>
+
+Las instalaciones públicas de cultura física y deporte deben garantizar, además de lo previsto en el párrafo anterior, la accesibilidad obligatoria y el libre desplazamiento de las personas con discapacidad en dichos espacios.
+
 ###### ARTÍCULO 64.
 
 1. El Ejecutivo del Estado y los Ayuntamientos determinarán los espacios destinados a la práctica deportiva y de recreación pública.
@@ -1219,7 +1227,7 @@ Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Ta
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 17 DE DICIEMBRE DE 2015.
 
@@ -1230,6 +1238,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-170 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-450 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4, FRACCIONES XI Y XII; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 63, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
