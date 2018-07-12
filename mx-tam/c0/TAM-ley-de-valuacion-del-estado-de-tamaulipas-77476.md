@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-valuacion-del-estado-de-tamaulipas-77476"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-09"
-last_updated: "2016-12-13"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 9 de noviembre de 2010.
 
@@ -75,9 +75,9 @@ IX.- Reglamento: el Reglamento de la Ley de Valuación del Estado de Tamaulipas;
 
 X.- Renta: Importe a pagar por el arrendamiento de un bien tangible o intangible por un período determinado, expresado en términos monetarios;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
 
-XI.- Secretaría: la Secretaría del Trabajo;
+XI.- Secretaría: la Secretaría General de Gobierno;
 
 XII.- Valor comercial: la cantidad expresada en moneda justa y probable que se podrá obtener por algún bien en un mercado y en fecha determinada; y
 
@@ -87,9 +87,9 @@ XIII.- Valuador profesional: la persona física autorizada por la Secretaría pa
 
 ###### Artículo 3.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
-1. Para ejercer la función de valuador profesional de bienes tangibles o intangibles y para actuar en los actos propios de los gobiernos estatal o municipal en el Estado, se requiere inscribirse en el padrón que al efecto realiza la Secretaría del Trabajo.
+1. Para ejercer la función de valuador profesional de bienes tangibles o intangibles y para actuar en los actos propios de los gobiernos estatal o municipal en el Estado, se requiere inscribirse en el padrón que al efecto realiza la Secretaría General de Gobierno.
 
 2. La valuación comercial de bienes se efectuará conforme a las disposiciones de esta ley y su reglamento.
 
@@ -133,11 +133,11 @@ III.- La actividad de los peritos diversos a los de valuación, la cual será re
 
 ### CAPITULO III. DEL REGISTRO ESTATAL DE VALUADORES PROFESIONALES INDEPENDIENTES
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 7.
 
-Se establece el Registro de Valuadores del Estado de Tamaulipas, como instancia de consulta y control de ejercicio profesional de la valuación comercial, y estará a cargo de la Secretaría del Trabajo, a través de la Comisión de Valuación.
+Se establece el Registro de Valuadores del Estado de Tamaulipas, como instancia de consulta y control de ejercicio profesional de la valuación comercial, y estará a cargo de la Secretaría General de Gobierno, a través de la Comisión de Valuación.
 
 ###### Artículo 8.
 
@@ -155,11 +155,11 @@ V. Cubrir los derechos correspondientes; y
 
 VI. Residir de manera permanente en el Estado, comprobando al menos tres años anteriores a la fecha de su solicitud.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 9.
 
-Los aspirantes a ejercer la función de valuador profesional, deberán solicitar por escrito la inscripción al registro de la Secretaría del Trabajo, debiendo acompañar a su petición los documentos que acreditan el cumplimiento de requisitos que establece el artículo 8 de la ley.
+Los aspirantes a ejercer la función de valuador profesional, deberán solicitar por escrito la inscripción al registro de la Secretaría General de Gobierno, debiendo acompañar a su petición los documentos que acreditan el cumplimiento de requisitos que establece el artículo 8 de la ley.
 
 ###### Artículo 10.
 
@@ -239,11 +239,11 @@ Los valuadores profesionales registrados conforme a la ley, proporcionarán a la
 
 ### CAPITULO V. DE LA COMISION DE VALUACION
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### Artículo 18.
 
-Se crea la Comisión de Valuación como órgano auxiliar de la Secretaría del Trabajo, con el objeto de vigilar y supervisar el ejercicio de la valuación comercial de bienes tangibles e intangibles del Estado de Tamaulipas.
+Se crea la Comisión de Valuación como órgano auxiliar de la Secretaría General de Gobierno, con el objeto de vigilar y supervisar el ejercicio de la valuación comercial de bienes tangibles e intangibles del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -253,7 +253,9 @@ Se crea la Comisión de Valuación como órgano auxiliar de la Secretaría del T
 
 I.- Un Presidente, que será el titular de la Secretaría;
 
-II.- Un Secretario Técnico, que será el Subsecretario de Servicios y Gestión Gubernamental de la Secretaría; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+
+II.- Un Secretario Técnico, que será el titular de la Subsecretaría de Legalidad y Servicios Gubernamentales de la Secretaría; y
 
 III.- Cuatro Vocales:
 
@@ -506,3 +508,27 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-448 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento para el Registro de Peritos del Estado, se deberá expedir en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a 60 días posteriores a la entrada en vigor del presente Decreto, la Comisión de Valuación del Estado de Tamaulipas, sesionará para formalizar los cambios que prevé el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Titular de la Secretaría del Trabajo remitirá al Titular de la Secretaría General de Gobierno, los asuntos que al momento de la entrada en vigor del presente Decreto se encuentren pendientes de resolución, para que una vez formalizados los cambios en la integración de la Comisión de Valuación, sean tramitados por ésta hasta su conclusión.
