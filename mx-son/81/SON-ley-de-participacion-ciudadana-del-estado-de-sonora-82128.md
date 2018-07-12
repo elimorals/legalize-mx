@@ -4,7 +4,7 @@ identifier: "SON-ley-de-participacion-ciudadana-del-estado-de-sonora-82128"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-01"
-last_updated: "2017-08-03"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en la Edición Especial Número 6 del Boletín Oficial del Estado de Sonora, el viernes 1 de julio de 2011.
 
@@ -119,9 +119,7 @@ VII.- Las Agencias de Desarrollo Local;
 
 VIII.- De los comités de participación ciudadana;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE DICIEMBRE DE 2014)</small>
-
-IX.- Legislador Joven; y
+IX.- (DEROGADA, B.O. 12 DE JULIO DE 2018)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 11 DE DICIEMBRE DE 2014)</small>
 
@@ -1105,47 +1103,19 @@ En caso de separación, remoción o renuncia de cualquiera de los miembros del c
 
 El comité podrá invitar a algún vecino de la comunidad para que asuma una función que se encuentre vacante en el mismo, debiendo ser nombrado por votación de dos terceras partes de los miembros de dicho comité; por falta definitiva de los mismos deberá convocarse a asamblea pública para que decidan los vecinos sobre la integración de dicho comité.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE DICIEMBRE DE 2014)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE JULIO DE 2018)</small>
 
 ### CAPÍTULO X. DEL LEGISLADOR JOVEN
 
-> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+ARTÍCULO 116 BIS.- (DEROGADO, B.O. 12 DE JULIO DE 2018)
 
-ARTÍCULO 116 BIS.- La figura de legislador joven es un instrumento de participación ciudadana cuyo objetivo es la creación de un vínculo entre los jóvenes sonorenses y el Poder Legislativo, mediante el cual se crea un espacio para su expresión y participación en la vida política estatal, se les fomenta el conocimiento de la actividad y el proceso legislativo y se desarrolla en ellos una formación de cultura política.
+ARTÍCULO 116 BIS 1.- (DEROGADO, B.O. 12 DE JULIO DE 2018)
 
-> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
+ARTÍCULO 116 BIS 2.- (DEROGADO, B.O. 12 DE JULIO DE 2018)
 
-ARTÍCULO 116 BIS 1.- La figura de Legislador Joven deberá realizarse a través de la Comisión de Deporte y Juventud del Congreso del Estado de Sonora, bajo las siguientes consideraciones:
+ARTÍCULO 116 BIS 3.- (DEROGADO, B.O. 12 DE JULIO DE 2018)
 
-I.- Se llevará a cabo el mes de noviembre de cada año y el evento tendrá una duración de dos días en los cuales los diputados jóvenes electos deberán conformar Grupos Parlamentarios, elegir Mesa Directiva, proponer iniciativas y llevar a cabo una sesión en el Congreso del Estado.
-
-II.- Para los efectos de la fracción anterior, los diputados jóvenes se sujetarán lo más posible a los procedimientos y exigencias contenidas en la Ley Orgánica del Poder Legislativo, a fin de que conozcan y simulen fielmente el quehacer parlamentario.
-
-III.- Para la elección de los diputados jóvenes que realice la Comisión de Deporte y Juventud del Congreso del Estado de Sonora se tomará en cuenta la equidad de género.
-
-> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 116 BIS 2.- Son atribuciones del Congreso:
-
-I.- Aprobar y ordenar la difusión de la convocatoria por medios impresos, páginas de internet y redes sociales; y
-
-II.- Designar una comisión para dar seguimiento a las iniciativas presentadas por los diputados jóvenes.
-
-ARTÍCULO 116 BIS 3.- De los requisitos para ser elegido diputado joven:
-
-I.- Estar debidamente inscrito en institución académica cursando secundaria, preparatoria, universidad o posgrado;
-
-II.- Tener un promedio mayor a ochenta en escala del uno al cien o su equivalente según el sistema empleado por la institución académica;
-
-III.- Elaborar y presentar ante la Comisión de Deporte y Juventud iniciativa de ley en la cual destaquen un tema de su interés;
-
-IV.- Tener entre 12 y 29 años de edad el día de la inscripción; y
-
-V.- Presentar la documentación que sea requerida en la convocatoria.
-
-> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 116 BIS 4.- Los casos no previstos serán resueltos oportunamente por la Comisión de Deporte y Juventud del Congreso del Estado.
+ARTÍCULO 116 BIS 4.- (DEROGADO, B.O. 12 DE JULIO DE 2018)
 
 ## TÍTULO TERCERO. DE LAS PROHIBICIONES Y SANCIONES
 
@@ -1248,6 +1218,14 @@ El presente Decreto entrará en vigor el día 01 de enero de 2015, previa su pub
 B.O. 3 DE AGOSTO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 230, QUE ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA Y DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA".]
 
 ###### ARTÍCULO ÚNICO.
 
