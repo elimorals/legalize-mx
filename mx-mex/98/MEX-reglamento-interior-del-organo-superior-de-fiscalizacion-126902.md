@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-organo-superior-de-fiscalizacion-126902
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-02-09"
-last_updated: "2018-02-09"
+last_updated: "2018-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 12 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 9 de febrero de 2018.
 
@@ -546,3 +548,25 @@ EL AUDITOR SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE MÉXICO
 C.P.C FERNANDO VALENTE BAZ FERREIRA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor a partir del día hábil siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Órgano Superior de Fiscalización del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 9 de febrero de 2018.
+
+###### ARTÍCULO TERCERO.
+
+El Órgano Superior expedirá el Manual General de Organización y los Manuales de Procedimientos dentro de los ciento ochenta días hábiles siguientes al de la publicación del presente reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
