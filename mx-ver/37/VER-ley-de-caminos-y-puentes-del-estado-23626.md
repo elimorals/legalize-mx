@@ -4,7 +4,7 @@ identifier: "VER-ley-de-caminos-y-puentes-del-estado-23626"
 country: "mx"
 rank: "ley"
 publication_date: "1930-09-09"
-last_updated: "2006-07-06"
+last_updated: "2018-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DE CAMINOS Y PUENTES DEL ESTADO
 
-LEY DE CAMINOS Y PUENTES DEL ESTADO
+LEY DE CAMINOS Y PUENTES DEL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2018.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 9 de septiembre de 1930.
 
@@ -207,6 +207,14 @@ Igual franquicia tendrán los Municipios, con las limitaciones que señale el Ej
 
 Las tarifas para el transporte y derecho de peaje que establezcan los concesionarios quedarán sujetos a la aprobación del Ejecutivo y serán revisados cada dos años.
 
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2018)</small>
+
+Tratándose de personas con discapacidad, el Gobierno del Estado en coordinación con los concesionarios, establecerán descuentos en las tarifas de casetas estatales, dichos beneficios nunca serán menores al cincuenta por ciento de las tarifas registradas y podrán obtenerse, presentando la credencial de identificación que proporcionan los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2018)</small>
+
+El beneficio señalado en el párrafo anterior será igualmente concedido a quienes trasladen a personas con la condición o trastorno del espectro autista.
+
 ###### Artículo 32.
 
 En caso de grave alteración del orden público, el Ejecutivo del Estado tiene el derecho de tomar y ocupar los caminos y puentes de concesión, así como los medios de transporte, con todos los bienes que a ellos pertenecieren, durante el tiempo que fuere necesario.
@@ -265,7 +273,7 @@ Si la infracción de la Ley o Reglamento constituyere delito, la autoridad admin
 
 ###### Artículo 41.
 
-Las penas administrativas se entiende sin perjuicio de las reparaciones de daños.
+Las penas administrativas se entiende (sic) sin perjuicio de las reparaciones de daños.
 
 TRANSITORIOS:
 
@@ -290,3 +298,11 @@ Jalapa-Enríquez, a los 26 días del mes de julio de 1930.- A. TEJEDA.- El Subse
 G.O. 6 DE JULIO DE 2006.
 
 Artículo único.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 12 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 653 QUE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 31 DE LA LEY DE CAMINOS Y PUENTES DEL ESTADO Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
