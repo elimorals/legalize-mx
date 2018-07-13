@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2016-12-22"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -115,43 +117,29 @@ Las autoridades hacendarias municipales, en el ejercicio de las facultades y fun
 
 ### CAPÍTULO III. De las Participaciones
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
 
 ###### Artículo 6.
 
 A los municipios de la entidad les corresponde y percibirán ingresos por concepto de las Participaciones Federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
 I.- Del Fondo General de Participaciones, el 20% del total;
 
 II.- Del Fondo de Fomento Municipal, el 100%;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
 III.- De la recuperación del Impuesto sobre Tenencia o Uso de Vehículos, el 20% del total;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 IV.- Del impuesto especial sobre producción y servicios, el 20% del total;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
 V.- Del Impuesto Sobre Automóviles Nuevos, el 20% del total;
 
-VI.- De la reserva de contingencia que reciba el Gobierno del Estado, se distribuirá como mínimo una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. La cantidad a distribuir se hará de la siguiente forma:
+VI.- De la reserva de contingencia que reciba el Gobierno del Estado, se distribuirá como mínimo una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad.
 
-Se iniciará con el municipio que tenga el coeficiente de participación efectiva menor y continuará hacia la que tenga el mayor, hasta agotarse.
+La cantidad a distribuir se hará de la siguiente forma: Se iniciará con el municipio que tenga el coeficiente de participación efectiva menor y continuará hacia la que tenga el mayor, hasta agotarse.
 
 El coeficiente de participación efectiva a que se refiere el párrafo anterior, será el que resulte de dividir del total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
 VII.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-De los recursos obtenidos por el Estado, referentes a los conceptos señalados en las fracciones I, III, IV, V y VII, el 2% se destinará a la constitución de un Fondo para la Atención de Infraestructura y Administración Municipal.
 
 ###### Artículo 7.
 
@@ -261,59 +249,13 @@ La distribución por municipios se incluirá en el Presupuesto de Egresos del Go
 
 (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
-
 ###### Artículo 15 Ter.
 
-Se instituye el Fondo para el Desarrollo y Fortalecimiento Municipal, del Estado de Morelos; que se determinará aplicando, los porcentajes de los ingresos que perciba el Gobierno del Estado por concepto de las Participaciones en la proporción que para cada fondo se establece a continuación:
-
-I.- Del Fondo General de Participaciones, el 1% del total;
-
-II.- Del Impuesto sobre Tenencia o Uso de Vehículos, el 1% del total;
-
-III.- Del impuesto especial sobre producción y servicios, el 1% del total;
-
-IV.- Del Impuesto Sobre Automóviles Nuevos, el 1% del total, y
-
-V.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, el 1% del total.
-
-El Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos; se regirá en términos de la Ley específica, el monto total de los recursos de este fondo que resulte de la suma de los importes a que se refieren las fracciones de la I a la V del presente artículo, se invertirán para impulsar el desarrollo y fortalecimiento Municipal del Estado de Morelos.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 13 DE JULIO DE 2018)
 
 ###### Artículo 15 Quater.
 
-Se instituye el Fondo para la Atención de Infraestructura y Administración Municipal, que se determinará aplicando los porcentajes de los ingresos que perciba el Gobierno del Estado por concepto de las participaciones en ingresos federales, en la proporción que para cada fondo se establece a continuación:
-
-I.- Del Fondo General de Participaciones, el 2% del total;
-
-II.- Del Impuesto sobre Tenencia o Uso de Vehículos, el 2% del total;
-
-III.- Del Impuesto Especial sobre Producción y Servicios, el 2% del total;
-
-IV.- Del Impuesto Sobre Automóviles Nuevos, el 2% del total, y
-
-V.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, el 2% del total.
-
-El Fondo para la Atención de Infraestructura y Administración Municipal se regirá en términos del contrato respectivo que se emita al efecto; el monto total de los recursos de este Fondo que resulte de la suma de los importes a que se refieren las fracciones del presente artículo, se aplicarán para amortizar los adeudos resultantes de la ejecución de laudos laborales y en acciones, prioritarios, de los municipios del Estado.
-
-Dicho monto será administrado por un Fideicomiso que al efecto se constituya, cuyo Comité Técnico estará integrado por:
-
-I. El Gobernador del Estado, o la persona que designe como representante, quien lo presidirá;
-
-II. La persona titular de la Secretaria de Hacienda del Poder Ejecutivo Estatal;
-
-III. La persona titular de la Secretaría de Administración del Poder Ejecutivo Estatal;
-
-IV. El Diputado presidente la Comisión de Fortalecimiento Municipal y Desarrollo Regional, y
-
-V. La persona titular de la Junta de Gobierno del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos.
-
-La persona titular de la Dirección General del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, participará en las sesiones del Comité Técnico como secretario técnico.
-
-Cada uno de los integrantes mencionados en las fracciones que anteceden podrán designar un suplente, respectivamente.
-
-Podrán ser invitados a las sesiones del Comité Técnico, servidores públicos de los Gobiernos Federal, Estatal o Municipal, así representantes de los sectores públicos y privados, siempre que así lo acuerden los integrantes del propio Comité, los que únicamente participarán con voz.
+(DEROGADO, P.O. 13 DE JULIO DE 2018)
 
 ### CAPÍTULO V. De la Coordinación en Materia de Deuda Pública
 
@@ -738,3 +680,55 @@ QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jer
 SEXTA. Dentro de un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Notarios Públicos del estado de Morelos, deberán actualizar sus respectivas garantías a fin de dar cabal cumplimiento a lo dispuesto en el artículo 24 de la Ley del Notariado del Estado de Morelos, objeto de reforma.
 
 SÉPTIMA. Se autoriza al Titular del Poder Ejecutivo Estatal para que celebre los actos jurídicos respectivos y necesarios, y determine la constitución, conformación del Fideicomiso del Fondo para la Atención de Infraestructura y Administración Municipal a que se refiere este instrumento.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL DOSCIENTOS CINCUENTA.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y UNO, POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2018, ASÍ COMO SE ABROGA LA LEY DEL FONDO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS, DADA LA AUTONOMÍA CONSTITUCIONAL DE LA FISCALÍA GENERAL DEL ESTADO Y EL FORTALECIMIENTO DE OTROS TRIBUNALES ESTATALES, ASÍ COMO LOGRAR UN BALANCE PRESUPUESTARIO SOSTENIBLE”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos dispuestos por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Poder Ejecutivo Estatal, a través de la Secretaría de Hacienda, realizará las transferencias y ministraciones necesarias para el cumplimiento del presente Decreto.
+
+Asimismo, en la Cuenta Pública del ejercicio fiscal 2018 o en los informes de avance sobre la misma, según corresponda, deberá contemplar los movimientos efectuados en cumplimiento del presente instrumento, en términos de las disposiciones aplicables.
+
+CUARTA. Los Comités Técnicos de los fideicomisos Turismo Morelos, del Fondo de Competitividad y Promoción del Empleo y del Fondo para la Atención de Infraestructura y Administración Municipal continuarán funcionando como lo han venido haciendo en términos de las disposiciones que les dieron origen, para el único efecto de dar seguimiento a los compromisos definitivos que se encontraran en curso a la entrada en vigor del presente Decreto, así como adoptar las previsiones y acciones necesarias para la conclusión de los asuntos que se estimen estrictamente necesarios.
+
+Asimismo, cumplirán sus obligaciones pendientes respecto a la comprobación de los recursos ante las autoridades competentes de conformidad con la normativa aplicable.
+
+En ningún caso, a partir de la entrada en vigor de este instrumento podrán recibir o realizar actos jurídicos o administrativos que impliquen adquirir nuevos compromisos legales o presupuestales con excepción de los imperiosamente necesarios para su operación en términos del párrafo primero de esta disposición.
+
+Para efectos de lo anterior, los Comités Técnicos correspondientes podrán celebrar las sesiones que se estimen idóneas para concluir los asuntos que se encuentren en trámite y respecto de los cuales sea necesario adoptar los acuerdos conducentes.
+
+Adicionalmente, se cancelan las obras, acciones, proyectos o análogos aprobados con cargo a los fideicomisos señalados en este Decreto, siempre que los recursos autorizados no hubieren sido devengados, ejercidos o, en el caso del Fondo para la Atención de Infraestructura y Administración Municipal, transferidos a favor de terceros beneficiarios en términos de las disposiciones aplicables, lo que comunicará a través de los respectivos Comités Técnicos.
+
+Las acciones referidas en los párrafos anteriores de esta disposición, deberán realizarse preferentemente antes del 31 de diciembre de 2018.
+
+QUINTA. Una vez realizadas las acciones enunciadas en la disposición transitoria anterior, el fideicomitente y los Comités Técnicos correspondientes, deberán iniciar los trámites legales y administrativos conducentes para formalizar la extinción y consecuente liquidación de los fideicomisos respectivos.
+
+Para efecto de lo anterior, se faculta al fideicomitente y al liquidador, en su ámbito de atribuciones, a celebrar los acuerdos y actos jurídicos necesarios e idóneos a ese fin, con apego a lo previsto en este instrumento y demás normativa aplicable.
+
+SEXTA. El procedimiento de liquidación y extinción de los fideicomisos referidos en la Disposición Transitoria Quinta de este Decreto, se ajustará a lo siguiente:
+
+I. La Secretaría de Hacienda del Poder Ejecutivo Estatal podrá emitir los lineamientos a los que se sujetará la extinción a su cargo, de los fideicomisos a que hace referencia la Disposición Transitoria Quinta, adicionales a las previsiones consignadas en este instrumento, sin contravenirlas, así como realizar los actos necesarios para efectuar dicho procedimiento, conforme la normativa aplicable. Lo anterior, con excepción del Fondo para la Atención de Infraestructura y Administración Municipal, y el Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
+
+II. Asimismo, dicha Secretaría informará al Congreso del Estado sobre la extinción que hubiere efectuado en términos del presente Decreto;
+
+III. Para efectos de la extinción de los fideicomisos a que se refiere esta disposición transitoria, se deberá enviar la instrucción correspondiente a la institución fiduciaria respectiva con apego a lo previsto por la Ley General de Títulos y Operaciones de Crédito y demás normativa aplicable, y
+
+IV. Los casos no previstos en la presente disposición, se resolverán por la autoridad que funja como liquidadora en términos de los lineamientos que correspondan.
+
+SÉPTIMA. A partir de la entrada en vigor del presente Decreto, se extingue el organismo público dotado de personalidad y patrimonio propio denominado Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, a que se refiere el artículo 2 de la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos abrogada en virtud del presente instrumento.
+
+En consecuencia, el Congreso del Estado emitirá el acuerdo que establezca las acciones y lineamientos para la liquidación del organismo referido en el párrafo anterior, a más tardar en un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto.
+
+OCTAVA. Excepcionalmente, a partir de la entrada en vigor de este Decreto, se autoriza la cancelación de los montos reportados en cuentas públicas como pendientes por transferir efectivamente a los fideicomisos a que se refiere la Disposición Quinta Transitoria del presente instrumento, con sus efectos contables y presupuestales respectivos, debiendo tales ajustes aplicarse a la obtención de un balance presupuestario sostenible.
+
+NOVENA. Las Secretarías de Hacienda y de la Contraloría, ambas del Poder Ejecutivo Estatal, deberán realizar las acciones respectivas según sus ámbitos de competencia, para vigilar el debido cumplimiento del presente Decreto.
+
+DÉCIMA. Se abroga la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5350, de 08 de diciembre de 2015.
+
+DÉCIMA PRIMERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+En consecuencia, los anexos relativos a los clasificadores del gasto y otros de carácter referencial que no se modifican en virtud de este instrumento se ajustarán en los términos de las reorientaciones ordenadas por el mismo, a efecto de guardar la debida congruencia, reportándose, en su caso, en la cuenta pública correspondiente.
