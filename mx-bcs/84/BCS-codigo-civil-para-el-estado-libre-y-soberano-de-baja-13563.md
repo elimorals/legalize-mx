@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2017-12-31"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2018.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -1799,9 +1799,11 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 ### CAPÍTULO V. Del Divorcio Unilateral sin causa
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JULIO DE 2018)</small>
 
-Artículo 305 A.- Podrá solicitar el divorcio uno de los cónyuges, manifestando ante la autoridad judicial su voluntad de no continuar unido al matrimonio, sin especificar ninguna causa, siempre que hayan transcurrido cuando menos dos años de formalizada la unión.
+Artículo 305 A.- Podrá solicitar el divorcio uno de los cónyuges, manifestando ante la autoridad judicial su voluntad de no continuar unido al matrimonio, sin especificar ninguna causa.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 El cónyuge que promueva el divorcio unilateral sin causa, deberá acompañar a la demanda, además del acta de matrimonio y de nacimiento del o de los hijos, una propuesta de convenio que contenga:
 
@@ -1821,9 +1823,9 @@ VI.- La manera de administrar los bienes de la sociedad conyugal durante el proc
 
 VII.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes, deberá señalarse la compensación a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado al trabajo del hogar y, en su caso, al cuidado de los hijos, siempre que éste no haya adquirido bienes propios o éstos sean notoriamente menores a los adquiridos por el otro cónyuge.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
 
-Artículo 305 B.- Con la demanda de divorcio y la propuesta de convenio se dará vista al otro cónyuge, quien sólo podrá oponerse al divorcio en los casos en que no se haya cumplido el plazo de dos años desde que se contrajo el matrimonio o cuando opere una causal basada en la enfermedad.
+Artículo 305 B.- Con la demanda de divorcio y la propuesta de convenio se dará vista al otro cónyuge, quien sólo podrá oponerse al divorcio en los casos en que opere una causal basada en la enfermedad.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -15455,9 +15457,9 @@ La inmatriculación es la inscripción de la propiedad o posesión de un inmuebl
 
 El interesado en la inmatriculación de la propiedad o posesión de un inmueble podrá obtenerla mediante resolución judicial, en los términos de las disposiciones siguientes:
 
-a) .- Mediante información de dominio; y
+a).- Mediante información de dominio; y
 
-b) .- Mediante información posesoria.
+b).- Mediante información posesoria.
 
 ###### Artículo 2957.
 
@@ -15908,3 +15910,13 @@ B.O. 31 DE DICIEMBRE DE 2017.
 Primero.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2540 SE REFORMAN LOS ARTÍCULOS 305 A Y 305 B DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
