@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2018-07-06"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -2101,7 +2101,9 @@ El bando de policía y gobierno es el ordenamiento legal que contiene las dispos
 
 Los bandos de policía y gobierno, además de tomar en cuenta las bases generales a que se refiere el capítulo II de este título, se sujetarán a las siguientes disposiciones:
 
-I. Describirán con precisión las faltas en materia de salud y seguridad pública general, bienestar colectivo, urbanidad, ornato público y propiedad pública y particular.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2018)</small>
+
+I. Describirán con precisión las faltas en materia de salud y seguridad pública general, bienestar colectivo, urbanidad, ornato público y propiedad pública y particular, así como en cualquier otra materia, de manera que no contengan tipos legales abiertos o en blanco.
 
 II. Determinarán las sanciones que correspondan a las infracciones y las autoridades competentes para su aplicación, sujetándose a lo que a éste respecto establece la Constitución General de la República y la del Estado de Coahuila.
 
@@ -4043,6 +4045,10 @@ III. Suspensión en el ejercicio de alguna actividad regulada por la ley.
 
 IV. Clausura de algún establecimiento.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+En los procedimientos administrativos municipales queda prohibido imponer, por simple analogía, y aún por mayoría de razón, sanción alguna que no esté decretada por una ley o reglamento exactamente aplicable a la infracción o falta administrativa de que se trata.
+
 ###### ARTÍCULO 400.
 
 La aplicación de las sanciones corresponderá a los jueces municipales, y sólo cuando no existan estos, le corresponderá a los presidentes municipales.
@@ -4559,8 +4565,20 @@ TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 
 P.O. 6 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 35.- SE REFORMAN LOS ARTÍCULOS 48 Y 89, EL PRIMER PÁRRAFO DEL ARTÍCULO 93 Y EL ARTÍCULO 109, Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 93 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 35.- SE REFORMAN LOS ARTÍCULOS 48 Y 89, EL PRIMER PÁRRAFO DEL ARTÍCULO 93 Y EL ARTÍCULO 109, Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 93 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 Primero.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 50.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 180 Y SE ADICIONA UN PÁRRAFO FINAL AL ARTÍCULO 399, AMBOS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
