@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2016-09-30"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -331,11 +331,19 @@ XXVII. Zona Conurbada o Metropolitana Interestatal: aquella zona conurbada o met
 
 XXVIII. Polígonos: Es la unidad urbanística constituida por una superficie de terreno, delimitada para fines de valoración catastral, ordenación urbana, planificación industrial, comercial, residencial.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JULIO DE 2018)</small>
 
-XXIX. Vivienda Digna: Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+XXIX.- Vivienda Digna y Adecuada: Aquella que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, salubridad, que cuente con los servicios públicos básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión. Esta deberá comprender los criterios de prevención de desastres y la protección de sus ocupantes ante elementos naturales y antropogénicos que sean potencialmente agresivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 2013)</small>
 
 Para efectos de lo dispuesto en esta fracción, la vivienda deberá contar con espacios habitables y de higiene suficiente, adecuada iluminación y ventilación, servicios públicos básicos de agua potable, drenaje, alcantarillado, energía eléctrica y acceso a vías de comunicación así como condiciones de seguridad estructural y la adecuación al clima con criterios de sustentabilidad y eficiencia energética.
+
+XXX.- Seguridad de trayecto: Se entiende por el desplazamiento de ida o regreso entre dos ubicaciones de forma segura para los habitantes garantizando los derechos a la libre circulación, a la seguridad e integridad física de las personas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
+
+XXXI.- Fraccionamiento de Nueva Creación: Aquel cuya autorización tenga de un año de antigüedad a la solicitud de cualquier acción de urbanización.
 
 ### CAPITULO SEGUNDO. De la concurrencia y competencia de las autoridades y órganos auxiliares
 
@@ -410,6 +418,10 @@ X. Extender a los Ayuntamientos a través de la Secretaría, el dictamen técnic
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 XI. Otorgar o negar a través de la Secretaría o la Secretaría de Protección al Ambiente del Estado, según corresponda, las autorizaciones sobre todo tipo de acciones de urbanización y edificación que se ubiquen fuera de los centros de población, o que afecten las áreas naturales protegidas declaradas así por la Federación, el Estado o los Municipios, o las que se destinen a industrias de alto riesgo, extractivas o de transformación y que puedan tener un impacto negativo en el medio ambiente, sin importar su ubicación, incluidos o no, en el Plan y los Programas de Desarrollo Urbano Estatal, Regional, Municipal o de Centros de Población;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
+
+Con la finalidad de velar por el orden público y el interés social, deberán implementarse los procedimientos de verificación del cumplimiento de las disposiciones previstas en esta Ley.
 
 XII. Revisar y publicar los Acuerdos de autorización para realizar acciones de urbanización expedidos por los Ayuntamientos, o por el propio Estado, así como ordenar su registro y autorizar la enajenación de los lotes resultantes;
 
@@ -591,9 +603,13 @@ XI. Otorgar a la autoridad competente la información necesaria para la realizac
 
 XII. Intervenir en la ordenación y regularización de las zonas conurbadas y metropolitanas interestatales;
 
-XIII. Determinar las infracciones y sanciones, adoptar y ejecutar las medidas de seguridad en el ámbito de su competencia en los términos de esta Ley y demás normas legales y reglamentos aplicables; y,
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2018)</small>
 
-XIV. Las demás atribuciones que le señale esta ley y otras normas legales y reglamentarias aplicables e intervenir en los asuntos que sobre la materia le encomiende el Ejecutivo del Estado.
+XIII. Determinar las infracciones y sanciones, adoptar y ejecutar las medidas de seguridad en el ámbito de su competencia en los términos de esta Ley y demás normas legales y reglamentos aplicables; y
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2018)</small>
+
+XIV. Las demás atribuciones que le señale esta Ley y otras normas legales y reglamentarias aplicables e intervenir en los asuntos que sobre la materia le encomiende el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -1583,6 +1599,8 @@ Cuando con fundamento en la Legislación Federal en materia ambiental, sea inter
 
 ### CAPITULO TERCERO. De la Zonificación Urbana
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 117.
 
 A los municipios corresponderá formular, aprobar y administrar la zonificación de los centros de población ubicados en su territorio. Para ese efecto se entenderá por zonificación:
@@ -1597,8 +1615,6 @@ La determinación a que se refieren las fracciones I y II deberán estar conteni
 
 La reglamentación de zonificación y usos del suelo, destinos y reservas territoriales tomará en cuenta los criterios de sectorización de los centros de población, considerando las vialidades primarias y los subsectores o colonias catastrales determinadas según su grado de homogeneidad del desarrollo urbano y socioeconómico.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE FEBRERO DE 2011)</small>
-
 Dentro de las áreas podrán establecerse polígonos de planeación urbana ajustándose a los Programas de Desarrollo Urbano Municipal, entre los cuales se encontrarán:
 
 a) Polígonos con potencial de desarrollo;
@@ -1609,25 +1625,19 @@ c) Polígonos de conservación patrimonial; y
 
 d) Polígonos de integración metropolitana.
 
-En el ordenamiento territorial, que comprende la zonificación de las áreas y los usos del suelo, destinos y reservas territoriales en el Estado de Baja California, se determinarán los polígonos para la ubicación de Estaciones de Servicio y Abastecimiento denominadas gasolineras sujetándose a las siguientes condiciones:
+En el ordenamiento territorial, que comprende la zonificación de las áreas y los usos del suelo, destinos y reservas territoriales en el Estado de Baja California, se determinarán los polígonos para la ubicación de Estaciones de Servicio y Abastecimiento denominadas gasolineras, así como de las instalaciones de plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo sujetándose a las siguientes condiciones:
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-I.- Los predios para el establecimiento de gasolineras o Estaciones de Servicio, así como expendedoras de gas licuado de petróleo deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquéllos predios cuya ubicación sea compatible y conforme a los Programas de Desarrollo Urbano Municipal;
+I. Los predios para el establecimiento de gasolineras o Estaciones de Servicio, así como expendedoras de gas licuado de petróleo deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquellos predios cuya ubicación sea compatible y conforme a los Programas de Desarrollo Urbano Municipal;
 
 II. Las Estaciones de Servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad, y demás legislación aplicable, y se ubicarán a una distancia de, cuando menos, 1,000 metros en forma radial una de otra, dentro de zona urbana, y de 10,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+III. Salvo en los casos en los casos a que se refiere el artículo 66 Quater de la Ley de Edificaciones del Estado, el predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo infantil o guarderías; y de 150 metros radiales, respecto de centros comerciales, mercados, cines, teatros, centros de culto religioso, auditorios, condominios, conjuntos habitacionales, privadas residenciales, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
 
-III.- El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo infantil o guarderías; y de 150 metros radiales, respecto de centros comerciales, mercados, cines, teatros, centros de culto religioso, auditorios, condominios, conjuntos habitacionales, privadas residenciales, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
-
-IV. El predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado del petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
+IV. Salvo en los casos en los casos (sic) a que se refiere el artículo 66 Quater de la Ley de Edificaciones del Estado, el predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado del petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
 
 V. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, de los ejes de vías férreas, así como de los ductos que transporten algún derivado del petróleo;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
-
-VI.- Las bombas expendedoras de gasolina, gas licuado de petróleo y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 30 metros de un área residencial;
+VI. Las bombas expendedoras de gasolina, gas licuado de petróleo y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 30 metros de un área residencial;
 
 VII. Los tanques de autoconsumo que se instalen, deberán cumplir con los requisitos y especificaciones emitidos por la Secretaría de Energía y Petróleos Mexicanos;
 
@@ -1635,9 +1645,59 @@ VIII. Cuando el predio en el que se pretenda instalar una Estación de Servicio,
 
 IX. No podrán ubicarse Estaciones de Servicio dentro de las áreas consideradas como de Reserva Ecológica.
 
-Previo a las obras de edificación, licencia, permiso o autorización, quienes pretendan llevar a cabo los proyectos de Estaciones de Servicio, deberán obtener dictamen favorable de la autoridad competente en materia de protección civil y ambiental.
+Previo a las obras de edificación, licencia, permiso o autorización, quienes pretendan llevar a cabo los proyectos de estaciones de servicio, deberán obtener dictamen favorable de la autoridad competente en materia de protección civil y ambiental.
 
-Las acciones de urbanización mencionadas en el artículo 147 quedan sujetas a cumplir con las disposiciones del presente artículo, siendo obligatoria su observancia.
+Las estaciones de carburación, distribución y plantas de almacenamiento de gas licuado de petróleo, deberán obtener la autorización del Ejecutivo mediante el Dictamen Técnico de Congruencia de la Secretaría de Infraestructura y Desarrollo Urbano, en los casos previstos en las fracciones X y XI, del artículo 10 de esta ley.
+
+Las acciones de urbanización mencionadas en el artículo 147 quedan sujetas a cumplir con las disposiciones del presente artículo y del Artículo 117 BIS, siendo obligatoria su observancia.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 117 BIS.- Para los usos de suelo, licencias de construcción y de operación, de actividades con manejo de gas licuado de petróleo, se respetará lo siguiente:
+
+I.- Para plantas de almacenamiento de gas licuado de petróleo, se otorgarán autorizaciones cuando se ubiquen en fraccionamientos industriales previamente autorizados, verificando que se encuentren fuera de fraccionamientos de uso distinto al industrial y de los centros de población que cumplan con la normatividad y con los planes y programas de desarrollo urbano, con las medidas de seguridad establecidas en las normas oficiales mexicanas y protocolos nacionales e internacionales, respetando tanto las distancias mínimas, áreas de amortiguamiento y de alto riesgo, además de la desconcentración necesaria de dichas plantas desplazándolas a zonas óptimas para su ubicación.
+
+Las autoridades correspondientes que emitan licencias de uso de suelo para plantas de almacenamiento del rubro de gas licuado de petróleo, deberán corroborar que el lugar donde se pretende ubicar la edificación de dichos establecimientos, cumpla con los criterios necesarios para contrarrestar posibles impactos adversos que afecten a zonas urbanas y al medio ambiente, analizando que la superficie seleccionada cuente con carreteras óptimas para el almacenamiento y distribución del hidrocarburo.
+
+Los criterios que debe cumplir para la emisión de licencias o permisos de uso de suelo para plantas de almacenamiento de gas licuado de petróleo son los siguientes:
+
+a. Se ubiquen fraccionamientos industriales de nueva creación, previamente autorizados para industria pesada, de alto riesgo con las excepciones previstas en este mismo apartado;
+
+b. Que no presenten colindantes que afecten la seguridad de la planta;
+
+c. Que se ubiquen en corredores industriales, particularmente carreteras, para el abastecimiento y distribución del energético;
+
+d. Que los posibles impactos adversos no afecten a zonas urbanas ni a ecosistemas;
+
+e. Que el potencial del uso de suelo sea compatible con las actividades a desarrollar;
+
+f. Que se considere la vegetación y fauna existente en el predio, áreas de conservación, y especies endémicas en peligro de extinción, que pudieran verse amenazadas con el proyecto;
+
+g. Que no existan zonas urbanas o rurales cercanas, que se ubiquen dentro del área de influencia local o regional del proyecto;
+
+h. Que el área del proyecto se encuentre en zona industrial que cuente con la infraestructura de los diferentes servicios requeridos para el proyecto;
+
+II.- Para las estaciones de carburación y distribución de gas licuado de petróleo, únicamente podrán otorgarse en fraccionamientos de nueva creación, autorizados conforme a la normatividad aplicable de la materia, que cumplan con los planes y programas de desarrollo urbano, respetando tanto las distancias mínimas, áreas de amortiguamiento y de alto riesgo, como la desconcentración de dichas estaciones, en la medida en que se cumpla con la demanda y el abasto que satisfaga las necesidades de la población.
+
+En los casos en que en términos de esta ley y sus reglamentos sea procedente el otorgamiento y licencias de uso de suelo, para las estaciones de carburación y distribución, de gas licuado de petróleo, se sujetarán a las siguientes condiciones:
+
+a. Solo podrán ubicarse en predios localizados sobre carreteras, autopistas, libramientos, vías primarias o principales.
+
+b. Que el predio donde se pretenda construir el establecimiento, considere el acceso consolidado que permita el tránsito seguro de vehículos;
+
+c. Que se ubiquen a una distancia de resguardo de 300 metros lineales a partir de los límites de propiedad del predio en cuestión de la primera línea de transmisión de energía eléctrica de alta tensión, tomando como referencia la base de la misma; del eje de vías férreas; del eje de gasoductos y poliductos para productos derivados del petróleo;
+
+d. Que no colinden con usos de suelo en los que se lleven a cabo actividades tanto de riesgo como de alto riesgo, evitando efectos sinérgicos y de acumulación; y siempre que respeten las áreas de amortiguamiento, de alto riesgo y radio de influencia de los proyectos, que estén determinados acorde a las respectivas manifestaciones de impacto ambiental y estudios de riesgo, de actividades que previamente estuvieren instaladas en la zona; asimismo deberán ubicarse a una distancia mínima de 300 metros radiales.
+
+e. Que se tomen las medidas necesarias para proteger las instalaciones del establecimiento y de sus colindantes, si el predio se encuentra en zonas susceptibles de deslaves, partes bajas de lomeríos, terrenos con desniveles o terrenos bajos;
+
+f. Que los predios ubicados al margen de carretera y/o vías rápidas cuenten con carriles de aceleración y desaceleración;
+
+g. Que el terreno del establecimiento tenga las pendientes y los sistemas adecuados para desalojo de aguas pluviales;
+
+h. Que las zonas de circulación y estacionamiento tengan como mínimo una terminación superficial consolidada y amplitud suficiente para el fácil y seguro movimiento de vehículos y personas; y
+
+i. Que el perímetro del establecimiento esté delimitado en su totalidad por bardas ciegas de mampostería con altura mínima de tres metros sobre el nivel de piso terminado.
 
 ###### ARTICULO 118.
 
@@ -1805,11 +1865,17 @@ La nulidad a que se refiere el párrafo anterior, será declarada por las autori
 
 Los Notarios y cualesquiera otro fedatario solo podrán autorizar las escrituras públicas en que se cumpla lo dispuesto en los Artículos 127, 128, 137, y 138 de esta Ley, en las que se inserte el certificado del Registro Público de la Propiedad y del Comercio sobre la existencia o inexistencia de las declaratorias y avisos o manifestaciones de que hablan dichos preceptos.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 140.
 
-Cuando se estén llevando a cabo edificaciones, acciones de urbanización, cambios de usos del suelo u otros aprovechamientos de inmuebles que contravengan los Reglamentos, Planes o Programas de Desarrollo Urbano aplicables y que originen un deterioro en la calidad de vida de los asentamientos humanos, los residentes del área que resulten directamente afectados tendrán derecho a exigir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos. En caso de que se expidan permisos, licencias y autorizaciones contraviniendo las leyes, reglamentos o Planes y Programas de Desarrollo Urbano aplicables, éstas serán nulas de pleno derecho y los funcionarios serán sancionados en los términos del Título Octavo de éste ordenamiento, sin perjuicio de lo establecido en las demás leyes aplicables.
+En caso de que se expidan permisos, licencias y autorizaciones contraviniendo las leyes, reglamentos o Planes y Programas de Desarrollo Urbano aplicables, o de llevarse a cabo las acciones de edificación, urbanización, cambios de uso de suelo y demás relativas, que contravengan esta Ley, los reglamentos municipales, planes o programas de desarrollo urbano aplicables y que originen un deterioro en la calidad de vida de los asentamientos humanos, o que afecten las áreas naturales protegidas declaradas así por la Federación, el Estado o los Municipios, o las que se destinen a industrias de alto riesgo, extractivas o de transformación y que puedan tener un impacto negativo en el medio ambiente, sin importar su ubicación, los residentes del área directamente afectados y, quienes tengan un interés jurídico o legítimo, tendrán derecho a exigir la revocación y nulidad de dichos permisos, licencias y autorizaciones referidas, asimismo que se apliquen las medidas de seguridad pertinentes para dar el debido cumplimiento a los citados ordenamientos. Este derecho se ejercerá ante las autoridades competentes o superiores inmediatos, quienes escucharán previamente a los interesados y, en su caso, a los afectados, mediante la admisión de petición que se formule por escrito, lo que dará inicio al procedimiento correspondiente.
 
-Este derecho se ejercerá ante las autoridades competentes o superiores inmediatos, quienes oirán previamente a los interesados y, en su caso, a los afectados, y deberán resolver en un término no mayor de treinta días contados a partir de la fecha de recepción del escrito correspondiente.
+Admitido el escrito las autoridades competentes concederán un plazo de 10 días hábiles para que las partes interesadas presenten las pruebas pertinentes, concluido este plazo las autoridades que conozcan del procedimiento contarán con 15 días hábiles para practicar las diligencias probatorias que estimen necesarias y una vez concluido esto se abrirá un periodo de tres días hábiles para que las partes interesadas presenten sus alegatos. Terminado este periodo la autoridad deberá resolver dentro de los 10 días hábiles siguientes, notificando la resolución a las partes en un plazo de tres días hábiles.
+
+La resolución que emita la autoridad, deberá resolver si es fundada o infundada la petición, y en su caso, deberá declarar la validez, la nulidad o la procedencia de revocación del acto, y sus efectos, y en su caso las sanciones que resulten procedentes de conformidad con el Artículo 242 de esta Ley. La resolución que se emita deberá ser de ejecución inmediata. En este procedimiento serán supletorias la Ley del Procedimiento para los Actos de la Administración Pública del Estado y el Código de Procedimientos Civiles para el Estado de Baja California.
+
+Siempre procederá la declaración de invalidez y revocación de las autorizaciones, permisos y licencias, que se hubiesen otorgado sin cumplir con las disposiciones de la presente ley, de sus reglamentos y de las diferentes normas aplicables en la materia. Para ejercer estas acciones de defensa al medio ambiente y el sano desarrollo, también estarán legitimados para exigir el respeto a la legalidad, las asociaciones legalmente constituidas que tengan por objeto la protección al ambiente y la defensa del desarrollo urbano sustentable.
 
 ###### ARTICULO 141.
 
@@ -1903,7 +1969,9 @@ I. El Ejecutivo del Estado a través de la Secretaría, deberá extender un dict
 
 3. Entronques e intersecciones de vialidades nuevas con vialidades existentes primarias intraurbanas o vialidades interurbanas; e,
 
-4. Instalaciones de redes de servicios de agua potable, drenaje sanitario y pluvial; cárcamos, bombas, acueductos, poliductos y gaseoductos; energía eléctrica, alumbrado público, telefonía e instalaciones especiales; estaciones y subestaciones eléctricas, nucleoeléctricas, geotérmicas; sistemas de transporte público sobre rieles metálicos interestatales o intraurbanos; plantas recicladoras de residuos peligrosos y rellenos sanitarios;
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+
+4. Instalaciones de redes de servicios de agua potable, drenaje sanitario y pluvial; cárcamos, bombas, acueductos, poliductos y gasoductos, plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo; energía eléctrica, alumbrado público, telefonía e instalaciones especiales; estaciones y subestaciones eléctricas, nucleoeléctricas, geotérmicas; sistemas de transporte público sobre rieles metálicos interestatales o urbanos; plantas recicladoras de residuos peligrosos y rellenos sanitarios;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -1912,6 +1980,30 @@ II. El Ejecutivo a través de la Secretaría, otorgará las autorizaciones que c
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 III. Cuando las acciones de urbanización afecten las áreas naturales protegidas declaradas por la Federación, el Estado o los Municipios, y sean destinadas para la industria de alto riesgo o con posibilidad de un impacto negativo en el medio ambiente, para la industria extractiva y de transformación, indistintamente de su ubicación y no considerados en los Planes y Programas de Desarrollo Urbano aplicables y sus declaratorias y que requieran de la elaboración de un estudio de evaluación de impacto ambiental; los ayuntamientos verificarán el cumplimiento de la Ley de Protección al Ambiente para el Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
+
+IV. En las acciones de urbanización que se designen para plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo, los ayuntamientos realizarán las verificaciones e inspecciones pertinentes para el cumplimiento de esta Ley, de las Normas Oficiales Mexicanas correspondientes y los reglamentos municipales respectivos.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 150 BIS.- Los ayuntamientos en relación a las instalaciones de almacenamiento, distribución y estaciones de carburación de gas licuado de petróleo, para llevar a cabo acciones de urbanización deberán atender los siguientes lineamientos:
+
+I. La normatividad federal en materia de ubicación, construcción, remodelación, acondicionamiento, administración y operación de dichas instalaciones.
+
+II. La normatividad local en materia de acciones de urbanización, debiendo llevarse a cabo en apego a las siguientes disposiciones locales:
+
+a) Las Direcciones de Administración Urbana o análogas de los municipios, tendrán a su cargo la emisión de los dictámenes de factibilidad correspondientes a las acciones de urbanización del rubro del gas licuado de petróleo, sólo cuando la dependencia municipal encargada de la planeación, haya evaluado las propuestas respecto a la ubicación de la infraestructura, capacidad operativa y grado de riesgo de dicho asentamiento, y se haya emitido el dictamen de congruencia en apego a lo dispuesto por el Artículo 150 de esta Ley.
+
+b) El interesado de la promoción del proyecto estará sujeto a presentar un programa integral en materia de transporte, procesamiento y comercialización de gas licuado de petróleo, que comprenderá lo siguiente:
+
+1. Estudio de Impacto Urbano.
+
+2. Programa de Contingencia aprobado por la Dirección de Protección Civil y Bomberos.
+
+3. Programa de capacitación al personal, de amortiguamiento y de medidas de seguridad preventiva y correctiva que apliquen conforme a la normatividad vigente.
+
+4. Programa donde se establezcan los procedimientos generales del mantenimiento de las instalaciones.
 
 ### CAPITULO SEGUNDO. De la Incorporación Municipal
 
@@ -2319,11 +2411,13 @@ Ninguna obra de edificación podrá realizarse sin la licencia respectiva expedi
 
 Dicha licencia se otorgará de conformidad con lo dispuesto en este Capítulo, la Ley de Edificaciones del Estado de Baja California, sus Reglamentos y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 200.
 
-Los Ayuntamientos deberán solicitar a la Secretaría, dictamen de congruencia previo a la expedición de la licencia de construcción en los casos previstos en el Artículo 60, fracciones I a IV y 61 de la Ley de Edificaciones del Estado.
+El Ejecutivo del Estado tiene el deber de proporcionar los medios y criterios de prevención para que los habitantes de la Entidad puedan desplazarse, garantizando la seguridad de trayecto de los mismos, en el ámbito de su competencia.
+
+Los Ayuntamientos deberán solicitar a la Secretaría, un dictamen de congruencia previo a la expedición de la licencia de construcción en los casos previstos en el Artículo 60, fracciones I a V y 61 de la Ley de Edificaciones del Estado.
 
 ###### ARTICULO 201.
 
@@ -2609,9 +2703,19 @@ Se sancionará a los responsables señalados en el artículo anterior, de acuerd
 
 El Ejecutivo del Estado, a través de la Secretaría así como las Autoridades Municipales correspondientes, tendrán a su cargo la vigilancia del cumplimiento de las disposiciones de esta Ley y demás disposiciones relativas; para tal efecto, podrán adoptar y ejecutar las medidas de seguridad, calificar las infracciones e imponer las sanciones administrativas que correspondan.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 240.
 
 Para los efectos de esta Ley, se consideran medidas de seguridad, la adopción y ejecución de las disposiciones que, con apoyo en sus preceptos, dicten las autoridades del Poder Ejecutivo del Estado y los Ayuntamientos en sus respectivas jurisdicciones, encaminadas a evitar los daños que puedan causar las instalaciones, las construcciones y las obras tanto públicas como privadas. Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+
+La Coordinación Estatal o las autoridades municipales competentes en materia de protección civil cuando exista el convenio correspondiente, desempeñarán la función de inspección y verificación en lo relativo a construcciones, establecimientos, instalaciones y análogas, dedicadas al almacenamiento, distribución y venta al público de gas licuado de petróleo, a fin de que estas cumplan con lo dispuesto en la Ley de Protección Civil y Gestión de Riesgos del Estado, así como con las Normas Oficiales Mexicanas, los reglamentos municipales y disposiciones en materia de seguridad industrial, operativa y de protección ambiental.
+
+Las Direcciones de Administración Urbana o análogas de los municipios, realizarán las verificaciones e inspecciones correspondientes, a fin de emitir las recomendaciones técnicas necesarias, y en caso de detectar irregularidades; darán vista a la Unidad de Protección Civil Municipal que corresponda, y aplicarán las medidas de seguridad y sanciones respectivas.
+
+Además de lo anterior, las Direcciones de Administración Urbana o análogas de los municipios deberán atender las resoluciones de los inspectores de las autoridades competentes en materia federal, para dar el debido cumplimiento a la normatividad aplicable dentro del ámbito de su competencia.
+
+En el supuesto de que los particulares impidan el desahogo de las inspecciones señaladas en el presente artículo, los inspectores podrán solicitar auxilio de la fuerza pública para que se lleve a cabo la inspección.
 
 ###### ARTICULO 241.
 
@@ -2818,3 +2922,9 @@ P.O. 30 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 572 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL CAPÍTULO TERCERO BIS, QUE COMPRENDE LOS ARTÍCULOS 212 BIS Y 212 BIS 1 A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 248 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 10, 12, 117, 140, 150, 200, 240 Y SE ADICIONAN LOS ARTÍCULOS 117 BIS, 150 BIS, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULO (SIC) 2, 60 Y SE ADICIONAN LOS ARTÍCULOS 66 BIS, 66 TER, 66 QUATER, 66 QUINQUIES, 66 SEXIES, 66 SEPTIES Y 66 OCTIES, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LOS ARTÍCULOS 2, 28, 74, 80, 129 Y SE ADICIONAN LOS ARTÍCULOS 80 BIS, 80 TER, 80 QUATER Y 80 QUINQUIES, DE LA LEY DE PROTECCIÓN Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
