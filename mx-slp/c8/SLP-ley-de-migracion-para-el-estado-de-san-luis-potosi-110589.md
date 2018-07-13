@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-migracion-para-el-estado-de-san-luis-potosi-110589"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2015-09-12"
+last_updated: "2018-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE MIGRACION PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 13 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MIGRACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
@@ -1150,3 +1152,17 @@ El Secretario General de Gobierno
 Lic. José Eduardo González Sierra
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1014.- LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Con la entrada en vigor de la presente Ley se ABROGA la Ley de Migración para el Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 12 de septiembre de 2015.
+
+TERCERO. El Ejecutivo del Estado deberá emitir el Reglamento de esta Ley; y el Instituto su Reglamento Interior, dentro de los noventas días hábiles siguientes a la entrada en vigor de este Ordenamiento.
+
+CUARTO. La entrada en vigor de la presente Ley mantiene en igualdad de circunstancias la relación laboral que guarda el personal del Instituto de Migración y Enlace Internacional del Estado.
