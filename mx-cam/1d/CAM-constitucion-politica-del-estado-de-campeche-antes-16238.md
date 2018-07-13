@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2017-09-11"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -1443,21 +1443,29 @@ La función de Consejero Jurídico del Gobernador estará a cargo de la Dependen
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
-###### ARTICULO 76 Bis.
-
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Sus servicios serán gratuitos, quedando, en consecuencia, prohibidas las costas judiciales. En ningún caso podrá producirse indefensión, por lo que, quienes acrediten insuficiencia de recursos para litigar serán asistidos por el Estado, quien tiene la responsabilidad del recto funcionamiento del derecho de acceso a la justicia.
+ARTICULO 76 BIS.- Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Sus servicios serán gratuitos, quedando, en consecuencia, prohibidas las costas judiciales. En ningún caso podrá producirse indefensión, por lo que, quienes acrediten insuficiencia de recursos para litigar serán asistidos por el Estado, quien tiene la responsabilidad del recto funcionamiento del derecho de acceso a la justicia.
 
 Para estos efectos y para los de la reparación del daño y pago de los perjuicios, la ley establecerá el Instituto de Acceso a la Justicia del Estado de Campeche, como organismo descentralizado de la Administración Pública Estatal que tendrá personalidad jurídica, autonomía técnica y financiera y formará su patrimonio con la partida presupuestal que se le asigne así como con los montos de las penas de multa que se hagan efectivas y con los productos de toda naturaleza provenientes de la extinción de dominio, de los decomisos dictados por las autoridades judiciales y de los bienes asegurados que hayan causado abandono en ajuste a la legislación local. De igual modo, la ley establecerá los términos y condiciones de la asistencia jurídica gratuita, en la que contribuirán subsidiariamente los integrantes de los colegios de abogados o de licenciados en derecho o de despachos jurídicos libres o agrupados por la ley o por particular convenio permanente, así como los integrantes del Colegio de Notarios del Estado de Campeche.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE JULIO DE 2018)</small>
+
+### CAPITULO XV TER. Del Centro de Conciliación Laboral del Estado de Campeche
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 76 TER.- La función conciliatoria en el ámbito local, en materia laboral, que establece la Constitución Política de los Estados Unidos Mexicanos, estará a cargo del Centro de Conciliación Laboral del Estado de Campeche, organismo descentralizado de la Administración Pública del Estado de Campeche, especializado e imparcial. Dicho Centro tendrá personalidad jurídica y patrimonio propios, con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en su ley orgánica. Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente.
+
+Para la designación del titular del organismo descentralizado a que se refiere el párrafo anterior, el Gobernador del Estado someterá una terna a consideración del H. Congreso del Estado, obteniendo el voto de las dos terceras partes de sus integrantes para su designación, previa comparecencia de las personas propuestas. La designación deberá realizarse dentro del improrrogable plazo de treinta días.
+
+En caso de que el H. Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador.
+
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley correspondiente. Desempeñará su encargo por un período de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el período respectivo. Sólo podrá ser removido por causa grave en los términos de esta Constitución y la legislación respectiva, y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ### CAPITULO XVI. Del Poder Judicial
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2014)</small>
-
-### CAPITULO XVI BIS. De la Autoridad Electoral Jurisdiccional Del Estado de Campeche
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 77.
 
@@ -1621,6 +1629,10 @@ Para ocupar el cargo de Jueces Penales o de Justicia para Adolescentes es necesa
 
 Los Jueces de Cuantía Menor deberán cumplir los mismos requisitos señalados para los Jueces de primera instancia. Los Jueces de Cuantía Menor y sus secretarios quedan comprendidos en la prohibición contenida en el artículo 83 de esta Constitución.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+Los Tribunales en materia laboral se organizarán de conformidad con lo dispuesto en la Ley Federal del Trabajo y en la Ley Orgánica del Poder Judicial del Estado de Campeche y tendrán las atribuciones que estos ordenamientos establezcan.
+
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### ARTICULO 86.
@@ -1677,9 +1689,9 @@ IV. Las demás que establezcan esta Constitución y demás Leyes generales y loc
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2014)</small>
 
-### CAPITULO XVII. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO Y DE LOS MUNICIPIOS
+### CAPITULO XVI BIS. De la Autoridad Electoral Jurisdiccional Del Estado de Campeche
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 88.
 
@@ -1733,19 +1745,9 @@ La Autoridad Electoral Jurisdiccional del Estado de Campeche contará con el per
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO XVII BIS. Del Tribunal de Justicia Administrativa del Estado de Campeche
+### CAPITULO XVII. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO Y DE LOS MUNICIPIOS
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
-
-ARTICULO 101 TER.- El Tribunal de Justicia Administrativa del Estado de Campeche es el órgano especializado en materia administrativa, el cual gozará de plena autonomía en su funcionamiento e independencia en sus decisiones. Este órgano jurisdiccional no estará adscrito a ninguno de los Poderes del Estado.
-
-El Tribunal de Justicia Administrativa del Estado de Campeche tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares. Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la Ley de la materia determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales.
-
-El Tribunal de Justicia Administrativa funcionará de conformidad con su Ley Orgánica en la que deberá existir, entre otros, la Sala Especializada en materia de anticorrupción y responsabilidades administrativas. Dicha Ley Orgánica establecerá su organización y funcionamiento y estará conformado por tres Magistrados que serán designados por el Gobernador del Estado y ratificados por el voto de las dos terceras partes de los miembros presentes del H. Congreso del Estado o, en sus recesos, por la Diputación Permanente.
-
-Los Magistrados durarán en su encargo quince años improrrogables y sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2017)</small>
 
 ###### ARTICULO 89.
 
@@ -1873,6 +1875,20 @@ ARTICULO 101 BIS.- El Estado y los Municipios incurrirán en responsabilidad obj
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2017)</small>
 
+### CAPITULO XVII BIS. Del Tribunal de Justicia Administrativa del Estado de Campeche
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+ARTICULO 101 TER.- El Tribunal de Justicia Administrativa del Estado de Campeche es el órgano especializado en materia administrativa, el cual gozará de plena autonomía en su funcionamiento e independencia en sus decisiones. Este órgano jurisdiccional no estará adscrito a ninguno de los Poderes del Estado.
+
+El Tribunal de Justicia Administrativa del Estado de Campeche tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares. Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la Ley de la materia determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales.
+
+El Tribunal de Justicia Administrativa funcionará de conformidad con su Ley Orgánica en la que deberá existir, entre otros, la Sala Especializada en materia de anticorrupción y responsabilidades administrativas. Dicha Ley Orgánica establecerá su organización y funcionamiento y estará conformado por tres Magistrados que serán designados por el Gobernador del Estado y ratificados por el voto de las dos terceras partes de los miembros presentes del H. Congreso del Estado o, en sus recesos, por la Diputación Permanente.
+
+Los Magistrados durarán en su encargo quince años improrrogables y sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2017)</small>
+
 ### CAPITULO XVII TER. Del Sistema Anticorrupción del Estado de Campeche
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2017)</small>
@@ -1926,62 +1942,6 @@ El Fiscal Especializado en Combate a la Corrupción durará en su encargo siete 
 ### CAPITULO XVIII. De los Municipios del Estado
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2014)</small>
-
-### CAPITULO XIX. De la Auditoría Superior del Estado de Campeche
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
-
-ARTICULO 108 BIS.- La Auditoría Superior del Estado, órgano de apoyo del Congreso del Estado, contará con independencia en sus funciones y autonomía técnica, presupuestal y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley. La Auditoría Superior del Estado ejercerá, con independencia y con sujeción a las disposiciones aplicables, su presupuesto de egresos aprobado.
-
-La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
-
-La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, podrán referirse a la información definitiva presentada en la Cuenta Pública.
-
-Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso.
-
-La Auditoría Superior del Estado tendrá a su cargo:
-
-I. Fiscalizar las acciones del Estado y sus municipios en materia de fondos, recursos locales y deuda pública; así como verificar el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales.
-
-La Auditoría Superior del Estado se coordinará con la Auditoría Superior de la Federación para auxiliarla en las atribuciones que ésta tenga encomendada.
-
-La Auditoría Superior del Estado podrá revisar y fiscalizar los recursos públicos federales de acuerdo con el párrafo anterior, cuando dicha revisión y fiscalización derive de los ordenamientos legales aplicables o convenios celebrados con la Auditoría Superior de la Federación, con el propósito de apoyar y hacer más eficiente la fiscalización superior.
-
-Asimismo, fiscalizará los fondos, recursos locales y deuda pública, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las Leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
-
-Las entidades fiscalizadas a que se refiere este párrafo deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos públicos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la Ley. Asimismo, deberán enviar a la Auditoría Superior del Estado informes trimestrales con los estados financieros y demás información contable, presupuestaria y programática que establezca la Ley General de Contabilidad Gubernamental en un plazo de 30 días naturales siguientes al cierre del periodo que corresponda.
-
-La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas federales. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
-
-Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa que resulte competente, la Fiscalía Especializada en Combate a la Corrupción, la Auditoría Superior de la Federación o las autoridades competentes;
-
-II. Entregar al Congreso del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de las Cuentas Públicas, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar los informes generales ejecutivos del resultado de la fiscalización superior de las cuentas públicas, los cuales someterá a la consideración del Pleno del Congreso del Estado. Los informes generales ejecutivos y los informes individuales serán de carácter público y tendrán el contenido que determine la Ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
-
-Para tal efecto, de manera previa a la presentación de los informes generales ejecutivos y de los informes individuales de auditoría, se dará a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los informes individuales de auditoría.
-
-El titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa que resulte competente y la Auditoría Superior de la Federación, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
-
-La Auditoría Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas.
-
-En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
-
-La Auditoría Superior del Estado deberá entregar al Congreso del Estado, el primer día hábil de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría incluirá los montos efectivamente resarcidos a la hacienda pública estatal y a las haciendas públicas municipales o al patrimonio de los entes públicos estatales y municipales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa.
-
-La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y los informes generales ejecutivos al Congreso del Estado a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
-
-III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos, recursos locales y deuda pública, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las Leyes y a las formalidades establecidas para los cateos, y
-
-IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción y la Auditoría Superior de la Federación para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales.
-
-Las sanciones y demás resoluciones de la Auditoría Superior del Estado podrán ser impugnadas por las entidades fiscalizadas y, en su caso, por los particulares, personas físicas o morales, o por los servidores públicos afectados por las mismas, ante la propia Auditoría Superior del Estado o ante los tribunales competentes, de conformidad con la legislación aplicable.
-
-El Congreso del Estado designará al titular de la Auditoría Superior del Estado por el voto, de las dos terceras partes de sus miembros presentes y deberá contar con experiencia de siete años en materia de control, auditoría financiera y de responsabilidades. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la Ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Capítulo XVII de esta Constitución.
-
-Los Poderes del Estado, los municipios y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las Leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
-
-El Poder Ejecutivo Estatal aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo, y de las multas que imponga la Auditoría Superior del Estado, las que serán entregadas a esta última.
-
-(REUBICADO [N. DE E. ANTES CAPÍTULO XIX], P.O. 18 DE NOVIEMBRE DE 2009)
 
 ###### ARTICULO 102.
 
@@ -2177,13 +2137,65 @@ e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los ba
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2017)</small>
 
+### CAPITULO XIX. De la Auditoría Superior del Estado de Campeche
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+
+ARTICULO 108 BIS.- La Auditoría Superior del Estado, órgano de apoyo del Congreso del Estado, contará con independencia en sus funciones y autonomía técnica, presupuestal y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley. La Auditoría Superior del Estado ejercerá, con independencia y con sujeción a las disposiciones aplicables, su presupuesto de egresos aprobado.
+
+La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, podrán referirse a la información definitiva presentada en la Cuenta Pública.
+
+Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso.
+
+La Auditoría Superior del Estado tendrá a su cargo:
+
+I. Fiscalizar las acciones del Estado y sus municipios en materia de fondos, recursos locales y deuda pública; así como verificar el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales.
+
+La Auditoría Superior del Estado se coordinará con la Auditoría Superior de la Federación para auxiliarla en las atribuciones que ésta tenga encomendada.
+
+La Auditoría Superior del Estado podrá revisar y fiscalizar los recursos públicos federales de acuerdo con el párrafo anterior, cuando dicha revisión y fiscalización derive de los ordenamientos legales aplicables o convenios celebrados con la Auditoría Superior de la Federación, con el propósito de apoyar y hacer más eficiente la fiscalización superior.
+
+Asimismo, fiscalizará los fondos, recursos locales y deuda pública, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las Leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+Las entidades fiscalizadas a que se refiere este párrafo deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos públicos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la Ley. Asimismo, deberán enviar a la Auditoría Superior del Estado informes trimestrales con los estados financieros y demás información contable, presupuestaria y programática que establezca la Ley General de Contabilidad Gubernamental en un plazo de 30 días naturales siguientes al cierre del periodo que corresponda.
+
+La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas federales. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización de su Titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa que resulte competente, la Fiscalía Especializada en Combate a la Corrupción, la Auditoría Superior de la Federación o las autoridades competentes;
+
+II. Entregar al Congreso del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de las Cuentas Públicas, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar los informes generales ejecutivos del resultado de la fiscalización superior de las cuentas públicas, los cuales someterá a la consideración del Pleno del Congreso del Estado. Los informes generales ejecutivos y los informes individuales serán de carácter público y tendrán el contenido que determine la Ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+Para tal efecto, de manera previa a la presentación de los informes generales ejecutivos y de los informes individuales de auditoría, se dará a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los informes individuales de auditoría.
+
+El titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa que resulte competente y la Auditoría Superior de la Federación, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+
+La Auditoría Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas.
+
+En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
+
+La Auditoría Superior del Estado deberá entregar al Congreso del Estado, el primer día hábil de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría incluirá los montos efectivamente resarcidos a la hacienda pública estatal y a las haciendas públicas municipales o al patrimonio de los entes públicos estatales y municipales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa.
+
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y los informes generales ejecutivos al Congreso del Estado a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
+
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos, recursos locales y deuda pública, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las Leyes y a las formalidades establecidas para los cateos, y
+
+IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción y la Auditoría Superior de la Federación para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales.
+
+Las sanciones y demás resoluciones de la Auditoría Superior del Estado podrán ser impugnadas por las entidades fiscalizadas y, en su caso, por los particulares, personas físicas o morales, o por los servidores públicos afectados por las mismas, ante la propia Auditoría Superior del Estado o ante los tribunales competentes, de conformidad con la legislación aplicable.
+
+El Congreso del Estado designará al titular de la Auditoría Superior del Estado por el voto, de las dos terceras partes de sus miembros presentes y deberá contar con experiencia de siete años en materia de control, auditoría financiera y de responsabilidades. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la Ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Capítulo XVII de esta Constitución.
+
+Los Poderes del Estado, los municipios y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las Leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
+
+El Poder Ejecutivo Estatal aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo, y de las multas que imponga la Auditoría Superior del Estado, las que serán entregadas a esta última.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIX], P.O. 18 DE NOVIEMBRE DE 2009)
+
 ### CAPITULO XX. Prevenciones Generales
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
-
-### CAPITULO XXI. De las Reformas a la Constitución
-
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2001) (F. DE E., P.O. 5 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 109.
 
@@ -2365,9 +2377,9 @@ Ninguna disposición de esta Ley fundamental producirá efecto, cuando contraven
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO XX], P.O. 18 DE NOVIEMBRE DE 2009)
 
-### CAPITULO XXII. De la Inviolabilidad de la Constitución
+### CAPITULO XXI. De las Reformas a la Constitución
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2001) (F. DE E., P.O. 5 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 130.
 
@@ -2380,6 +2392,10 @@ La presente Constitución puede ser modificada mediante la reforma, adición o d
 El Congreso del Estado, o la Diputación Permanente en los recesos de aquél, hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada o no la modificación, procediendo a expedir el respectivo decreto en el primero de dichos casos.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPÍTULO XXI], P.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+### CAPITULO XXII. De la Inviolabilidad de la Constitución
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### ARTICULO 132.
 
@@ -3100,3 +3116,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Congreso del Estado tendrá un plazo que no excederá de 60 días hábiles a la entrada en vigor del presente decreto para modificar, en lo conducente, la Ley Orgánica del Poder Legislativo del Estado de Campeche.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 274 POR EL QUE “SE ADICIONAN EL CAPÍTULO XV TER, DENOMINADO “DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CAMPECHE” CON UN ARTÍCULO 76 TER Y UN PÁRRAFO CUARTO AL ARTÍCULO 85, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche, atendiendo a las disposiciones previstas en los transitorios siguientes.
+
+Segundo.- Los Tribunales en materia laboral que se establecen en el párrafo cuarto del artículo 85 del presente decreto, iniciarán sus funciones el día en que entren en vigor las modificaciones respectivas a la Ley Federal del Trabajo.
+
+Tercero.- El Centro de Conciliación Laboral del Estado de Campeche deberá crearse mediante la ley correspondiente de conformidad con la reforma a la Constitución Política de los Estados Unidos Mexicanos en dicha materia.
+
+Cuarto.- El H. Tribunal Superior de Justicia del Estado deberá promover las adecuaciones a la Ley Orgánica del Poder Judicial del Estado de Campeche en un plazo no mayor a treinta días hábiles a partir de la publicación del presente decreto, especificando la salvedad establecida en el Articulo Transitorio Segundo del presente decreto.
+
+Quinto.- Los Poderes Ejecutivo y Judicial promoverán las adecuaciones presupuestarias ante la autoridad correspondiente, para el cabal cumplimiento de lo dispuesto en el presente decreto.
+
+Sexto.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
