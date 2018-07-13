@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2017-04-14"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -59,7 +59,19 @@ I. Normar la construcción, reparación, modificación, ampliación, mantenimien
 
 Respetando en todo momento, en las edificaciones públicas o privadas e instalaciones, el diseño universal, para que todas las personas con o sin discapacidad, tengan acceso y movilidad en su interior, sin necesidad de adaptación ni diseño especializado, teniendo en cuenta el empleo de elementos de asistencia particulares de cada discapacidad.
 
-II. Establecer los lineamientos de los Reglamentos Municipales de Edificación;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS QUE LA INTEGRAN], P.O. 13 DE JULIO DE 2018)</small>
+
+II. Establecer los lineamientos de los Reglamentos Municipales de Edificación, los que deberán garantizar:
+
+a) La protección de la vida de los habitantes.
+
+b) La de los bienes muebles e inmuebles y los colindantes a éstos.
+
+c) Congruencia con los usos para los cuales se autorizan las licencias y permisos de las acciones de edificación.
+
+d) El funcionamiento en apego a condiciones mínimas de diseño, acondicionamiento, seguridad, imagen e higiene;
+
+e) La conservación y recuperación de la vía pública.
 
 III. Definir en la esfera de sus competencias el ejercicio de las facultades de las Autoridades Estatales y Municipales en materia de edificaciones, y;
 
@@ -1047,9 +1059,11 @@ Las opciones anteriores serán aplicables siempre que no se encuentren en la ví
 
 ###### ARTICULO 60.
 
-DICTAMENES DE CONGRUENCIA.
+DICTÁMENES DE CONGRUENCIA.
 
-Los Ayuntamientos solicitarán a la Secretaría de Asentamientos Humanos y Obras Públicas, dictamen de congruencia respecto al Plan Estatal de Desarrollo, previo a la expedición de la Licencia de Construcción en las edificaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2018)</small>
+
+Los ayuntamientos deberán solicitar a la Secretaría de Infraestructura y Desarrollo Urbano del Estado, dictamen de congruencia respecto al Plan Estatal de Desarrollo Urbano, previo a la expedición del dictamen de uso de suelo en las edificaciones siguientes:
 
 I. Instalaciones industriales extractivas.
 
@@ -1057,7 +1071,13 @@ II. Instalaciones industriales de transformación.
 
 III. Las ubicadas fuera de los centros de población, y
 
-IV. Las no consideradas en los programas de desarrollo urbano.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
+
+IV. Instalaciones de plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo, que se ubiquen dentro o fuera de los centros de población; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
+
+V. Las no consideradas en los programas de desarrollo urbano.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1138,6 +1158,62 @@ PLACA DE CONTROL.
 Se deberá establecer en los Reglamentos respectivos las características de la placa de control, la cual contendrá como mínimo la información relativa a la obra y una leyenda alusiva al uso del edificio.
 
 Esta obligación se aplicará para las edificaciones de todo tipo, excepto los casos previstos en los Artículo (sic) 59 y 68 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 66 BIS. Toda solicitud de construcción para plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo, se acompañará del Estudio de Integración Vial y de la Manifestación de Impacto Social de la acción urbana de que se trate, y deberá presentarse ante la autoridad municipal correspondiente para su análisis, debiéndose solventar todo tipo de afectación o causa de problema a la vía pública, por acceso o salida del predio, donde se pretenda establecer dichas instalaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 66 TER. Los ayuntamientos en relación a las instalaciones de almacenamiento, distribución y estaciones de carburación de gas licuado de petróleo, para llevar a cabo acciones de urbanización deberán atender los siguientes lineamientos:
+
+I. La normatividad federal en materia de ubicación, construcción, remodelación, acondicionamiento, administración y operación de dichas instalaciones.
+
+II. La normatividad local en materia de acciones de urbanización, debiendo llevarse a cabo en apego a las siguientes disposiciones locales:
+
+a) Las Direcciones de Administración Urbana o análogas de los municipios, tendrán a su cargo la emisión de los dictámenes de factibilidad correspondientes a las acciones de urbanización del rubro del gas licuado de petróleo, sólo cuando la dependencia municipal encargada de la planeación, haya evaluado las propuestas respecto a la ubicación de la infraestructura, capacidad operativa y grado de riesgo de dicho asentamiento, y se haya emitido el dictamen de congruencia en apego a lo dispuesto por el Artículo 150 de esta Ley.
+
+b) El interesado de la promoción del proyecto estará sujeto a presentar un programa integral en materia de transporte, procesamiento y comercialización de gas licuado de petróleo, que comprenderá lo siguiente:
+
+1. Estudio de Impacto Urbano.
+
+2. Programa de Contingencia aprobado por la Dirección de Protección Civil y Bomberos.
+
+3. Programa de capacitación al personal, de amortiguamiento y de medidas de seguridad preventiva y correctiva que apliquen conforme a la normatividad vigente.
+
+4. Programa donde se establezcan los procedimientos generales del mantenimiento de las instalaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 66 QUATER. Las instalaciones de plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo deberán resguardar una distancia de amortiguamiento de 300 metros de cualquier asentamiento de uso habitacional, comercial y de equipamiento urbano, así como de otras plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo.
+
+Previo a la emisión de permisos o licencias de urbanización y edificación, las autoridades municipales responsables, habrán de elaborar un análisis y verificación técnica, para respetar la distancia señalada. Además de cumplir con el requisito del párrafo anterior, también se deberá procurar la seguridad de trayecto, de riesgos de los integrantes de los centros de población.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 66 QUINQUIES. Los establecimientos de almacenamiento, distribución y comercialización relacionados con el gas licuado de petróleo, se sujetará a lo dispuesto en la presente legislación, las normas oficiales y los reglamentos municipales aplicables. Ante la existencia de normatividad faltante en la materia de urbanización, edificación e instalaciones que no se contemplen o que se contraríen entre sí, se aplicarán las disposiciones que garanticen mayor higiene, acondicionamiento y seguridad para la población.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 66 SEXIES. Las edificaciones relativas al giro del gas licuado de petróleo deberán contar con las instalaciones y equipos suficientes para prevenir y combatir situaciones de riesgo conforme a las normas oficiales mexicanas correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 66 SEPTIES. La Coordinación Estatal de Protección Civil, en colaboración con la Unidad de Protección Civil de cada ayuntamiento o su análoga, ordenará visitas de inspección, para verificar la observancia de esta Ley, de los reglamentos y de las normas oficiales mexicanas en materia de gas licuado de petróleo, para garantizar la seguridad de los centros de población.
+
+Las visitas de inspección tendrán el carácter de:
+
+I. Ordinarias; las cuales se efectuarán en días y horas hábiles de oficina.
+
+II. Extraordinarias; viables en cualquier momento, principalmente en situaciones de flagrante contravención a las normas oficiales mexicanas, esta Ley y los reglamentos.
+
+Dichas visitas se realizarán conforme a la normatividad que al efecto se emita.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+ARTICULO 66 OCTIES. Todas las plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo, deberán contar con carpeta de acreditación correspondiente donde se integren las autorizaciones de uso de suelo, el número de licencia de construcción, la acreditación de los registros y disposiciones en materia federal, los sistemas de operatividad, capacidad máxima de ocupantes y el tipo de estructura de la edificación.
+
+Esta carpeta deberá facilitarse en todo momento a los inspectores locales y federales, para el buen desempeño de sus funciones.
 
 ### CAPITULO II. Responsables
 
@@ -1458,3 +1534,9 @@ P.O. 14 DE ABRIL DE 2017.
 PRIMERO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los Ayuntamientos del Estado contarán con un plazo de 180 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado para realizar las modificaciones correspondientes a sus reglamentos municipales.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 248 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 10, 12, 117, 140, 150, 200, 240 Y SE ADICIONAN LOS ARTÍCULOS 117 BIS, 150 BIS, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULO (SIC) 2, 60 Y SE ADICIONAN LOS ARTÍCULOS 66 BIS, 66 TER, 66 QUATER, 66 QUINQUIES, 66 SEXIES, 66 SEPTIES Y 66 OCTIES, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LOS ARTÍCULOS 2, 28, 74, 80, 129 Y SE ADICIONAN LOS ARTÍCULOS 80 BIS, 80 TER, 80 QUATER Y 80 QUINQUIES, DE LA LEY DE PROTECCIÓN Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
