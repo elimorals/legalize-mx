@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2017-12-21"
+last_updated: "2018-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -313,7 +313,7 @@ XV. Tramitar y expedir los nombramientos que otorgue el Gobernador para el ejerc
 
 XVI. Conducir y poner en ejecución las políticas y los programas de Gobierno Estatal en materia de protección ciudadana y coordinar, en términos de la ley respectiva, el ejercicio de las atribuciones del Ejecutivo Estatal que correspondan en relación con la Federación, las Entidades Federativas y los municipios; así mismo, establecer los mecanismos de coordinación con las autoridades competentes, en materia de prevención y atención de emergencias originadas por fenómenos naturales;
 
-XVII. Establecer y operar un sistema de información y plataformas informáticas compartidas, que contribuya a preservar el orden y la tranquilidad social así como la estabilidad y permanencia de las instituciones constitucionales del Estado;
+XVII. (DEROGADA, P.O. 13 DE JULIO DE 2018)
 
 XVIII. Coordinar administrativamente las actividades del Instituto Registral y Catastral del Estado de Tamaulipas;
 
@@ -1135,9 +1135,15 @@ XXVIII. Coordinar actividades en materia vehicular con las autoridades federales
 
 XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de Desarrollo Urbano y Medio Ambiente, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado;
 
-XXX. Proponer a la Universidad de Seguridad y Justicia de Tamaulipas, los programas de capacitación para el personal de la dependencia; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2018)</small>
 
-XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXX. Proponer a la Universidad de Seguridad y Justicia de Tamaulipas, los programas de capacitación para el personal de la dependencia;
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2018)</small>
+
+XXXI. Establecer y operar un sistema de información y plataformas informáticas compartidas, que contribuya a preservar el orden y la tranquilidad social, así como la estabilidad y permanencia de las instituciones constitucionales del Estado; y
+
+XXXII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección XVI. De la Procuraduría General de Justicia
 
@@ -1642,6 +1648,18 @@ El valor de la Unidad de Medida y Actualización, será determinado conforme el 
 ###### ARTÍCULO SEXTO.
 
 Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-441 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXX Y XXXI, Y SE ADICIONA UNA FRACCIÓN XXXI RECORRIÉNDOSE LA ACTUAL PARA SER XXXII AL ARTÍCULO 38; Y SE DEROGA LA FRACCIÓN XVII DEL ARTÍCULO 25 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS¨.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
