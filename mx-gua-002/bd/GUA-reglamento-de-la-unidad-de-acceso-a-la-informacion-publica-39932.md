@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-3993
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-04"
-last_updated: "2009-02-06"
+last_updated: "2018-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE ACAMBARO, GUANAJUATO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE ACAMBARO, GTO.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA DIRECCIÓN DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE ACÁMBARO, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ACÁMBARO, GTO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de junio de 2004.
 
@@ -544,15 +546,15 @@ A quienes incurran en responsabilidad por incumplimiento de lo previsto en el pr
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
 El presente reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
 La Unidad de Acceso a la Información Pública contará con el presupuesto y estructura necesarios para el ejercicio de sus funciones.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
 Los formatos relativos a las solicitudes de acceso a la información pública, de acceso y corrección de datos personales, deberán estar formulados a partir de Junio del 2004.
 
@@ -560,7 +562,7 @@ Los formatos relativos a las solicitudes de acceso a la información pública, d
 
 El manual de procedimientos para asegurar el adecuado funcionamiento de la Unidad de Acceso a la Información Pública deberá estar formulado a más tardar 30 días después de la publicación de este reglamento.
 
-###### ARTICULO QUINTO.
+###### ARTÍCULO QUINTO.
 
 La capacitación a cada uno de los servidores públicos de las Dependencias y Entidades, deberá ser proporcionada por la Unidad de Acceso a la Información Pública a más tardar durante el mes de Marzo del 2004.
 
@@ -611,3 +613,19 @@ Toda disposición en contrario al presente reglamento se tendrá por no hecha en
 P.O. 6 DE FEBRERO DE 2009.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA DIRECCIÓN DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL MUNICIPIO DE ACÁMBARO”.]
+
+Primero. Se abroga el Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Acámbaro, Guanajuato, publicado en el Periódico Oficial de Gobierno del Estado de Guanajuato de fecha 04 de junio de 2004.
+
+Segundo. Se otorga a las Entidades Paramunicipales establecidas en las fracciones II, III, y IV del artículo 17 del presente Reglamento, un plazo de noventa días naturales para efectos de que implementen su normatividad correspondiente en materia de Transparencia y Acceso a la Información Pública
+
+Tercero. Se Otorga un Plazo de 60 días naturales para adecuar la normatividad orgánica regulatoria del Municipio, a los términos del presente Reglamento.
+
+Cuarto. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Quinto. Se derogan todas las disposiciones municipales que se opongan al presente ordenamiento.
+
+Sexto. Se instruye al Secretario del Ayuntamiento para que notifique a los Sujetos Obligados del Ayuntamiento, de la entrada en vigor del presente ordenamiento municipal en cuanto este sea publicado en el Periódico Oficial de Gobierno del Estado, así como la gestión de todo lo relativo a la integración del Comité.
