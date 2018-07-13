@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-entrega-recepcion-de-la-administracion-29720
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-05"
-last_updated: "2013-03-04"
+last_updated: "2018-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA ENTREGA-RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL DE GUADALUPE, NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA ENTREGA-RECEPCIÓN DEL GOBIERNO MUNICIPAL DE GUADALUPE, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE GUADALUPE, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Sumario del Periódico Oficial del Estado de Nuevo León, el miércoles 05 de marzo de 2003.
 
@@ -187,13 +189,13 @@ En lo relacionado con los Recursos asignados a los Regidores y Síndicos del R. 
 
 ###### Artículo 14.
 
-En el caso de que el Titular de la Dependencia, Unidad Administrativa u Organismo Descentralizado sea ratificado en su puesto, deberá rendir un informe por escrito en los términos que estipulan los artículos 5 y 7 de este Reglamento, ante su superior jerárquico y ante la Contraloría Municipal, a más tardar dentro de los 10-diez días hábiles siguientes a la Ceremonia de Entrega-Recepción, en caso contrario se elaborara el documento del Acta Administrativa de Entrega-Recepción, (sic)
+En el caso de que el Titular de la Dependencia, Unidad Administrativa u Organismo Descentralizado sea ratificado en su puesto, deberá rendir un informe por escrito en los términos que estipulan los artículos 5 y 7 de este Reglamento, ante su superior jerárquico y ante la Contraloría Municipal, a más tardar dentro de los 10-diez días hábiles siguientes a la Ceremonia de Entrega-Recepción, en caso contrario se elaborara el documento del Acta Administrativa de Entrega-Recepción,
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 15.
 
-En relación a los hechos que sucedan entre la fecha oficial de corte de información y del Acto protocolario de Entrega-Recepción, los Servidores Públicos salientes y entrantes, deberán elaborar un Acta Circunstanciada en la que se detalle la situación de los asuntos y Recursos Financieros, Humanos, Materiales, Obras (sic) Programas, Jurídicos, Plan Municipal de Desarrollo y Generales que hayan presentado movimientos, en presencia de los testigos y la representación de la Contraloría Municipal.
+En relación a los hechos que sucedan entre la fecha oficial de corte de información y del Acto protocolario de Entrega-Recepción, los Servidores Públicos salientes y entrantes, deberán elaborar un Acta Circunstanciada en la que se detalle la situación de los asuntos y Recursos Financieros, Humanos, Materiales, Obras Programas, Jurídicos, Plan Municipal de Desarrollo y Generales que hayan presentado movimientos, en presencia de los testigos y la representación de la Contraloría Municipal.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
@@ -410,3 +412,23 @@ P.O. 4 DE MARZO DE 2013.
 PRIMERO: Las presentes reformas al Reglamento para la Entrega-Recepción de la Administración Pública Municipal de Guadalupe. Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO: Gírese el presente al Presidente Municipal, a fin de que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE APRUEBA EL REGLAMENTO DEL PROCEDIMIENTO ADMINISTRATIVO PARA ENTREGA-RECEPCIÓN DEL GOBIERNO MUNICIPAL DE GUADALUPE, N.L.”.]
+
+###### ARTICULO PRIMERO.
+
+Se abroga el Reglamento para la Entrega-recepción de la Administración Pública Municipal de Guadalupe, N.L., publicado en el Periódico Oficial del Estado consignado (sic) el Tomo CXL, Número 31, páginas de la 30 a la 36 de fecha 04 de Marzo de 20013 (sic), junto con sus reformas, adiciones y en consecuencia se emite un nuevo Reglamento Municipal denominado Reglamento del Procedimiento Administrativo para la Entrega-Recepción del Gobierno Municipal de Guadalupe, Nuevo León.
+
+###### ARTICULO SEGUNDO.
+
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+Instrúyase al Secretario del Ayuntamiento para que en cumplimiento de lo establecido en los artículos 64, 65 y 66 de la Ley de Gobierno Municipal del Estado de Nuevo León, se publique el presente acuerdo en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTICULO CUARTO
+
+Instrúyase a la Secretaría del Ayuntamiento, para que se remita el presente acuerdo para su publicación en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio, de conformidad con lo establecido en los artículos 64 y 66 de la Ley de Gobierno Municipal del Estado de Nuevo León.
