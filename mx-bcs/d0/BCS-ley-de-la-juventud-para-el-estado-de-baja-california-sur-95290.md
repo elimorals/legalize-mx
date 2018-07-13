@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-juventud-para-el-estado-de-baja-california-sur-95290"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2014-08-20"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de julio de 2013.
 
@@ -139,7 +137,9 @@ VI.- Inclusión: Entendida como la inserción o introducción de la juventud en 
 
 VII.- Interés superior: Entendido como una prioridad en las acciones que se dirijan a los jóvenes para fortalecer su bienestar, su desarrollo integral y la protección de sus derechos;
 
-VIII.- No discriminación: Entendida como el combate a conductas excluyentes por condición social o económica, de salud física o mental, preferencia, género, edad, origen étnico, afiliación partidista, religión u otra reconocida por la ley;
+> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+
+VIII.- No discriminación: Entendida como el combate a conductas excluyentes por condición social o económica, de salud física o mental, preferencia, género, edad, origen étnico, afiliación partidista, religión, tatuajes visibles o no visibles, así como marcas o modificaciones en la piel o cualquier otra reconocida por la ley;
 
 IX.- Participación: Entendida como la intervención libre, constante y democrática de los jóvenes en los procesos de toma de decisiones que afecten su entorno;
 
@@ -372,6 +372,10 @@ El Estado y los ayuntamientos deberán crear, promover y apoyar, por todos los m
 Los jóvenes tienen derecho a un trabajo digno, bien remunerado y a una protección especial del mismo, de acuerdo con su vocación, aptitudes y destrezas, de forma que les permita elevar su calidad de vida en la sociedad, de conformidad con las disposiciones laborales aplicables.
 
 Lo anterior, bajo las consideraciones de la igualdad de oportunidades y trato, en lo relativo a la inserción, remuneración sin discriminación, promoción y condiciones en el trabajo para hacer compatible el tiempo de estudio con la vida laboral, tomando en cuenta la edad de los jóvenes.
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2018)</small>
+
+No se podrá discriminar laboralmente a los jóvenes por poseer tatuajes visibles o no visibles, así como marcas o modificaciones en la piel.
 
 ###### ARTÍCULO 35.
 
@@ -1073,7 +1077,7 @@ El Instituto Sudcaliforniano de la Juventud contará con los siguientes órganos
 
 I.- Junta directiva; y
 
-II.- Dirección General; (sic)
+II.- Dirección General;
 
 ###### ARTÍCULO 85.
 
@@ -1143,7 +1147,7 @@ VI.- Aceptar las donaciones, legados y demás liberalidades que se otorguen a fa
 
 VII.- Fijar las reglas generales a las que deberá sujetarse el instituto en la celebración de acuerdos, convenios y contratos para la ejecución de acciones relacionadas con su objeto;
 
-VIII.- Otorgar poder general para actos de administración, así como para pleitos y cobranzas, con todas las facultades generales y especiales que requieran poder o cláusula especial a la ley, así como revocarlas y sustituirlas; (sic)
+VIII.- Otorgar poder general para actos de administración, así como para pleitos y cobranzas, con todas las facultades generales y especiales que requieran poder o cláusula especial a la ley, así como revocarlas y sustituirlas;
 
 ###### ARTÍCULO 88.
 
@@ -1294,3 +1298,9 @@ B.O. 30 DE JUNIO DE 2014.
 > <small>(F. DE E., B.O. 20 DE AGOSTO DE 2014)</small>
 
 ÚNICO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2542 SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 7 Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 34 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
