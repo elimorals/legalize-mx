@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2017-07-20"
+last_updated: "2018-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -523,7 +523,13 @@ XX.- Proponer programas de capacitación para los trabajadores del Congreso del 
 
 XXI.- Llevar el Control y Vigilancia de los Servidores Públicos del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores en el desempeño de sus labores, en los términos de la Legislación aplicable.
 
-XXII.- Las demás que se deriven de esta Ley o sus Reglamentos y de las disposiciones o acuerdos que emita el Congreso.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 13 DE JULIO DE 2018)</small>
+
+XXII.- Proveer de lo necesario para el trabajo y cumplimiento de objetivos de la Unidad para la Igualdad de Género del Congreso del Estado de Baja California Sur.
+
+> <small>(ADICIONADA [N. DE. E. REUBICADA], B.O. 13 DE JULIO DE 2018)</small>
+
+XXIII.- Las demás que se deriven de esta Ley o sus Reglamentos y de las disposiciones o acuerdos que emita el Congreso.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -993,9 +999,13 @@ b).- Las propuestas legislativas que reformen, adicionen o en su caso deroguen l
 
 c).- Implementar programas de beneficio a la mujer y garanticen su respeto.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 13 DE JULIO DE 2018)</small>
 
-d).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+d).- Proponer ante el Pleno, al Titular de la Unidad para la Igualdad de Género de este Poder Legislativo; además supervisar el cumplimiento de objetivos y atribuciones de la Unidad en mención.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 13 DE JULIO DE 2018)</small>
+
+e).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
 
@@ -1183,7 +1193,7 @@ XXVII.- DE CULTURA Y ARTES:
 
 a).- El desarrollo de la cultura y las artes en el Estado de Baja California Sur y sus Municipios:
 
-b).- La conservación, el fomento y estímulo de las manifestaciones de creatividad artística e intelectual, la identidad sudcaliforniana entre la población del Estado;
+b).- La conservación, el fomento y estÍmulo de las manifestaciones de creatividad artística e intelectual, la identidad sudcaliforniana entre la población del Estado;
 
 c).- Los relativos a la protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y municipios;
 
@@ -1753,17 +1763,33 @@ VI.- Planear, organizar y coordinar la agenda de eventos especiales del Congreso
 
 VII.- Las demás que la Directiva y la Junta de Gobierno y Coordinación Política le señalen.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 13 DE JULIO DE 2018)</small>
+
+### CAPÍTULO XIII. DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2018)</small>
+
+###### ARTICULO 84 Bis.
+
+La Unidad para la Igualdad de Género del Congreso del Estado de Baja California Sur, es la responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional, de conformidad con las siguientes funciones:
+
+a).- Proponer y realizar acciones orientadas a la igualdad sustantiva en el Congreso del Estado;
+
+b).- Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional; y
+
+c).- Contribuir para avanzar hacia la transversalidad mediante la formación y especialización del personal de todos los niveles, en materia de perspectiva de género e igualdad sustantiva.
+
+La Unidad estará a cargo de un Titular nombrado por mayoría del Pleno, a propuesta de la Comisión Permanente de Igualdad de Género, y deberá ser profesionista, quién acredite conocimiento y experiencia en temas de derechos humanos y perspectiva de género.
+
+Contará con el personal suficiente para su eficaz desempeño, así como con la infraestructura adecuada para su funcionamiento; será supervisada en el cumplimiento de sus objetivos y atribuciones por la Comisión Permanente de Igualdad de Género y dependerá directamente de la Junta de Gobierno y Coordinación Política del Congreso del Estado de Baja California Sur.
+
+## TITULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
+
 ### CAPITULO I
 
 DE LAS SESIONES.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
-
-## TITULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
-
-### CAPITULO II
-
-DE LAS INICIATIVAS.
 
 ###### ARTICULO 85.
 
@@ -1927,11 +1953,9 @@ Cuando por causa justificada algún Diputado no pudiere asistir a Sesión o cont
 
 Se considerará ausente al Diputado que no esté presente al pasarse lista. Si después de ella hubiera alguna votación nominal y no se encontrare presente, también se considerará como faltante. Igualmente se considerará ausente en caso de falta de Quórum al pasarse la lista correspondiente.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS DICTAMENES.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2005)</small>
+DE LAS INICIATIVAS.
 
 ###### ARTICULO 101.
 
@@ -2029,9 +2053,11 @@ Los Proyectos de Ley o de Decreto a los que el Gobernador del Estado opusiere ve
 
 Las iniciativas que fueren presentadas durante los recesos de la Legislatura, serán leídas por la Comisión Permanente, quien dará cuenta al Congreso en el Período Ordinario o en el Extraordinario que se convoque, a fin de que se proceda en los términos de esta Ley.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA DISPENSA DE TRAMITES.
+DE LOS DICTAMENES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 113.
 
@@ -2103,9 +2129,9 @@ De concederse por la Asamblea mayor plazo a una comisión para rendir su dictám
 
 No podrá ser puesto a discusión ningún dictamen de Ley o Decreto sin que previamente se hayan repartido a los Diputados, a más tardar en la Sesión anterior a la en que la discusión vaya a celebrarse, las copias que contengan el dictamen o iniciativa correspondientes; salvo los que se refieran a asuntos electorales, o cuando se hubiere concedido dispensa de trámites en términos de la presente Ley.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS DISCUSIONES.
+DE LA DISPENSA DE TRAMITES.
 
 ###### ARTICULO 124.
 
@@ -2121,9 +2147,9 @@ Si se otorgare la dispensa de todos los trámites, el Proyecto de Ley será pues
 
 En la dispensa general de los trámites no se entienden comprendidos los que se originen en la discusión en adelante.
 
-### CAPITULO VI
+### CAPITULO V
 
-DE LAS VOTACIONES.
+DE LAS DISCUSIONES.
 
 ###### ARTICULO 127.
 
@@ -2283,9 +2309,9 @@ IV.- Cuando algún cuestionamiento tenga estrecha relación con dos o más depen
 
 V.- En todo caso, el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias el Secretario General de Gobierno, podrá solicitar al Presidente de la Mesa Directiva y este lo concederá, que le permita contestar la o las preguntas que considere pertinentes, pudiendo hacerlo para esos efectos o sólo para ceder la palabra al o los funcionarios integrantes del gabinete que corresponda, según la naturaleza de los planteamientos que se formulen.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DE LAS OBSERVACIONES DEL EJECUTIVO.
+DE LAS VOTACIONES.
 
 ###### ARTICULO 149.
 
@@ -2367,9 +2393,9 @@ Se entiende por mayoría absoluta de votos, la correspondiente a la mitad más u
 
 Se entiende por mayoría calificada de votos, la que por disposición de la Constitución o de la Ley, se requiera una votación mayor a las previstas en los artículos anteriores.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LA EXPEDICION DE LAS LEYES O DECRETOS.
+DE LAS OBSERVACIONES DEL EJECUTIVO.
 
 ###### ARTICULO 165.
 
@@ -2395,9 +2421,9 @@ Para ratificar un proyecto de Ley o de Decreto devuelto por el Ejecutivo con obs
 
 Respecto de las demás resoluciones del Congreso que no constituyan Ley o Decreto, se observará lo dispuesto en el Artículo 61 de la Constitución del Estado.
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DEL CEREMONIAL.
+DE LA EXPEDICION DE LAS LEYES O DECRETOS.
 
 ###### ARTICULO 171.
 
@@ -2413,11 +2439,9 @@ Al final expresará:
 
 "DADO EN EL SALON DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA PAZ, BAJA CALIFORNIA SUR, A LOS .......... DIAS DEL MES .................DE.........."
 
-### CAPITULO X
+### CAPITULO IX
 
-DEL AUDITORIO.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+DEL CEREMONIAL.
 
 ###### ARTICULO 173.
 
@@ -2507,11 +2531,11 @@ Tanto los Diputados como los demás funcionarios y personas que tengan que habla
 
 En la declaración de claúsura de los Períodos de Sesiones, o en la instalación del Congreso, se pondrán de pié todos los Diputados, excepto el Presidente.
 
-### CAPITULO XI
+### CAPITULO X
 
-DE LA CONSULTA POPULAR.
+DEL AUDITORIO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 190.
 
@@ -2523,11 +2547,11 @@ A las Sesiones que no tengan carácter de sesiones privadas podrá concurrir el 
 
 El Público asistente deberá guardar respeto y abstenerse de tomar parte en los debates con cualquiera demostración. Cuando alguno o algunos de los asistentes a las sesiones de esta representación popular perturben el orden o impidan el buen desarrollo de las sesiones, el Presidente de la Mesa Directiva podrá declarar un receso, debiéndose reanudar la sesión cuando se restablezca el orden, en cuyo caso, por acuerdo de la Mesa Directiva, se podrá continuar la sesión con las seguridades debidas para garantizar la ininterrupción de la misma. El Presidente estará facultado para desalojar el Recinto, cuando en alguna forma se perturbe el orden, sin perjuicio de la facultad que le corresponde, para ordenar la detención y consignación de los responsables, en caso de que los hechos que provoquen el desorden, constituyeren delito.
 
-### CAPITULO UNICO
+### CAPITULO XI
 
-DE LA COMISION INSTRUCTORA DEL JUICIO POLITICO Y DEL PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
+DE LA CONSULTA POPULAR.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 192.
 
@@ -2539,17 +2563,19 @@ El Congreso del Estado podrá solicitar al Instituto Estatal electoral, lleve a 
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
+### CAPITULO UNICO
+
+DE LA COMISION INSTRUCTORA DEL JUICIO POLITICO Y DEL PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+
+## TITULO SEXTO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
+
 ### CAPITULO I
 
 DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO.
 
 > <small>(REFORMADO, B.O. 20 DE JUNIO DE 2000)</small>
-
-## TITULO SEXTO. DE LAS VARIAS ATRIBUCIONES CONSTITUCIONALES DEL CONGRESO
-
-### CAPITULO II
-
-DE LA CALIFICACION DE LA ELECCION DE SENADORES.
 
 ###### ARTICULO 193.
 
@@ -2631,9 +2657,9 @@ Cuando uno o más Diputados sean acusadores durante el procedimiento relativo al
 
 ## TITULO SEPTIMO. DE LA DIPUTACION PERMANENTE
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR.
+DE LA CALIFICACION DE LA ELECCION DE SENADORES.
 
 ###### ARTICULO 212.
 
@@ -2653,17 +2679,17 @@ II.- De la lista señalada en la fracción anterior, la Comisión Especial Plura
 
 III.- En caso de no alcanzarse la votación señalada en la fracción anterior, se procederá a conformar una terna con los candidatos que hubiesen obtenido mayor votación, y se procederá a elegir de entre ellos a quien ocupará el cargo de Contralor General del Instituto Estatal Electoral.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS.
+DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR.
 
 ###### ARTICULO 214.
 
 (DEROGADO, B.O. 20 DE DICIEMBRE DE 1995)
 
-### CAPITULO I
+### CAPITULO IV
 
-DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
+DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS.
 
 ###### ARTICULO 215.
 
@@ -2679,11 +2705,9 @@ Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de
 
 En caso de falta absoluta del Gobernador del Estado, se procederá de conformidad con lo dispuesto en el Artículo 72 de la Constitución Política del Estado de Baja California Sur.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
+DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
 ###### ARTICULO 218.
 
@@ -2705,11 +2729,11 @@ DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO PRIMERO
+### CAPITULO II
 
-DISPOSICIONES GENERALES.
+DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 222.
 
@@ -2727,11 +2751,11 @@ Hecha la elección de la Directiva, los electos tomarán desde luego, posesión 
 
 Las faltas del Presidente se cubrirán por el Secretario; en su defecto por el miembro restante y por los suplentes en el orden de su nombramiento. Las faltas del Secretario se cubrirán por el miembro restante de la Diputación Permanente y en su defecto, con los suplentes por el orden de su nombramiento.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
-DE LA DOCUMENTACION.
+DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 226.
 
@@ -2813,11 +2837,11 @@ Al final de su ejercicio, la Diputación Permanente entregará a la Directiva de
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO TERCERO
+### CAPITULO SEGUNDO
 
-DE LAS RESPONSABILIDADES.
+DE LA DOCUMENTACION.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 236.
 
@@ -2875,9 +2899,11 @@ En este caso, el Presidente de la Junta de Gobierno y Coordinación Política en
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+### CAPITULO TERCERO
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+DE LAS RESPONSABILIDADES.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 244.
 
@@ -2911,11 +2937,9 @@ e). Sueldos no cobrados.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO I BIS. ARTICULO 249 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
+### CAPÍTULO I. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-ARTICULO 249 TER.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 245.
 
@@ -2923,11 +2947,11 @@ El incumplimiento de las disposiciones contenidas en la presente Ley, será sanc
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO II
+### CAPITULO I BIS. ARTICULO 249 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-DE LA ATENCION DE LAS SOLICITUDES DE INFORMACION PUBLICA.
+ARTICULO 249 TER.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 246.
 
@@ -2964,6 +2988,12 @@ Cualquier persona tendrá acceso a los Informes del Resultado de la revisión y 
 El Comité y la Unidad de Transparencia solicitarán a los servidores públicos del Poder Legislativo la información que derive del ejercicio de sus facultades, competencia o funciones para el cumplimiento de sus fines.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO II
+
+DE LA ATENCION DE LAS SOLICITUDES DE INFORMACION PUBLICA.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO III
 
@@ -3360,3 +3390,15 @@ B.O. 20 DE JULIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo previsto en el artículo transitorio siguiente.
 
 SEGUNDO.- Las disposiciones del presente Decreto que se encuentren vinculadas con el régimen de responsabilidades administrativas conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y el Tribunal de Justicia Administrativa conforme a la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Baja California Sur, entrarán en vigor hasta que las citadas leyes cobren vigencia conforme a los regímenes transitorios de los decretos mediante los cuales se expidan.
+
+B.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2544 SE REFORMA LA FRACCIÓN XXII AL ARTÍCULO 51 Y EL INCISO D) DE LA FRACCIÓN XIX AL ARTÍCULO 55; Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 51, EL INCISO E) DE LA FRACCIÓN XIX AL ARTÍCULO 55, ASÍ COMO EL CAPÍTULO XIII AL TÍTULO TERCERO, DENOMINADO DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO, Y EL ARTÍCULO 84 BIS DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Sin perjuicio de lo dispuesto en el Artículo Transitorio PRIMERO, la Unidad para la Igualdad de Género del Congreso del Estado de Baja California Sur, deberá quedar instalada a más tardar el 15 de enero del año 2019.
+
+Los recursos materiales que necesite para realizar su función, serán prioritariamente asignados dando la importancia de los ya existentes dentro del Poder Legislativo y los recursos humanos, serán buscando el perfil requerido dentro del personal que actualmente se encuentra laborando en este Poder Legislativo.
+
+TERCERO.- En el Presupuesto del Congreso del Estado de Baja California Sur, para el ejercicio fiscal 2019, se deberán considerar los recursos necesarios para el cumplimiento de las funciones que desempeñará la Unidad para la Igualdad de Género en el Congreso del Estado de Baja California Sur.
