@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-federal-de-102250"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-04"
-last_updated: "2017-07-20"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102250&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-08-27"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de septiembre de 2014.
 
@@ -691,11 +691,17 @@ XLII. Solicitar, cuando lo requiera para el ejercicio de sus atribuciones, infor
 
 XLIII. Proporcionar información y documentación que obre en su poder que solicite el Titular de la Autoridad Investigadora, la Dirección General de Prácticas Monopólicas y Concentraciones Ilícitas, la Dirección General de Condiciones de Mercado y la Dirección General de Análisis Económico, necesaria para conducir las investigaciones o indagar sobre posibles violaciones a la Ley de Competencia;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-XLIV. Formular denuncia ante la Autoridad Investigadora en términos del artículo 67 de la Ley de Competencia, por los hechos de los que, en el ejercicio de sus atribuciones, tengan conocimiento con motivo del ejercicio de sus atribuciones, y
+XLIV. Formular denuncia ante la Autoridad Investigadora en términos del artículo 67 de la Ley de Competencia, por los hechos de los que, en el ejercicio de sus atribuciones, tengan conocimiento con motivo del ejercicio de sus atribuciones;
 
-XLV. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad o Coordinador General, según corresponda, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+XLV. Coadyuvar en la elaboración de los instrumentos necesarios en materia de protección de datos personales que, en su caso, determine el Comité de Transparencia, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+XLVI. Las demás que le confieran el Pleno, el Presidente o el Titular de Unidad o Coordinador General, según corresponda, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ### CAPÍTULO XI. De la Unidad de Política Regulatoria
 
@@ -2135,7 +2141,9 @@ VIII. Integrar, controlar y mantener actualizados los expedientes que contengan 
 
 IX. Otorgar al personal las licencias, estímulos, recompensas y prestaciones que establezcan la legislación correspondiente y demás disposiciones aplicables;
 
-X. Integrar, ejecutar y dar seguimiento al programa anual de capacitación y actualización dirigido al personal del Instituto en apego a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+X. Integrar, ejecutar y dar seguimiento al programa anual de capacitación y actualización dirigido al personal del Instituto en apego a la normatividad aplicable, así como implementar los programas de capacitación y actualización en materia de protección de datos personales que establezca el Comité de Transparencia de conformidad con la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados u ordenamiento legal que, en su caso, la sustituya;
 
 XI. Instrumentar los programas de intercambio del personal del Instituto con organismos y entidades extranjeras con funciones afines a las del Instituto, en coordinación con las unidades competentes, así como administrar, en su caso, los programas de becas y de servicio social del Instituto;
 
@@ -3275,11 +3283,11 @@ El Titular del órgano interno de control del Instituto será suplido por los Di
 
 ### CAPÍTULO XXIX. De las instancias en materia de transparencia y acceso a la información
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
 
 ###### Artículo 89.
 
-La Unidad de Transparencia del Instituto estará adscrita al Presidente, que además de las funciones previstas en el artículo 45 de la Ley General de Transparencia y Acceso a la Información Pública y 61 de la Ley Federal de Transparencia y Acceso a la Información Pública, tendrá las atribuciones siguientes:
+La Unidad de Transparencia del Instituto estará adscrita al Presidente. Además de las funciones conferidas en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados u ordenamientos legales que, en su caso, las sustituyan, tendrá las atribuciones siguientes:
 
 > <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -3321,25 +3329,43 @@ XIII. Coordinar acciones con otros sujetos obligados en términos de las leyes e
 
 XIV. Proveer la información necesaria cuando el Instituto sea invitado a participar a las sesiones del Consejo del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-XV. Asesorar a las unidades administrativas del Instituto en la elaboración de los alegatos de defensa a los recursos de revisión, y
+XV. Asesorar a las unidades administrativas del Instituto en la elaboración de los alegatos de defensa a los recursos de revisión;
 
-XVI. Las demás que le confiera el Pleno, así como las que se señalen en otras disposiciones legales o administrativas aplicables.
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+XVI. Elaborar y proponer al Comité de Transparencia las políticas y programas de protección de datos personales obligatorios y exigibles al interior del Instituto, así como fungir dentro del mismo como órgano de consulta en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+XVII. Las demás que le confiera el Pleno, así como las que se señalen en otras disposiciones legales o administrativas aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
 
 ###### Artículo 90.
 
-El Instituto contará con un Comité de Transparencia, el cual tendrá las siguientes atribuciones:
+El Instituto contará con un Comité de Transparencia, el cual, en ejercicio de sus funciones, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-I. Las señaladas en los artículos 44 de la Ley General de Transparencia y Acceso a la Información Pública y 65 de la Ley Federal de Transparencia y Acceso a la Información Pública;
+I. Las señaladas en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados u ordenamientos legales que, en su caso, las sustituyan;
 
-II. Las señaladas en la Ley Federal de Archivos, y
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-III. Las que le atribuya el Pleno u otras disposiciones legales o administrativas aplicables.
+II. Las señaladas en la Ley Federal de Archivos;
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+III. Establecer y supervisar la aplicación de criterios específicos que resulten necesarios para la mejor observancia de las disposiciones en materia de protección de datos personales;
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+IV. Aprobar, coordinar y supervisar, de conformidad con la normatividad aplicable, las políticas y programas de protección de datos personales obligatorios y exigibles al interior del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+V. Las que le atribuya el Pleno u otras disposiciones legales o administrativas aplicables.
 
 > <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2016)</small>
 
@@ -3506,3 +3532,9 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Hasta en tanto se designe al primer Titular del órgano interno de control del Instituto, el Director de Denuncias e Investigaciones ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General Adjunta de Denuncias e Investigaciones; el Director de Substanciación y Resolución ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General Adjunta de Substanciación y Resolución; el Director de Auditoría ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General Adjunta de Auditoría; y el Director de Control, Evaluación y Desarrollo Administrativo ejercerá las atribuciones previstas en el presente Estatuto Orgánico para la Dirección General Adjunta de Control, Evaluación y Desarrollo Administrativo, todas adscritas al órgano interno de control.
 
 Los asuntos y procedimientos que estén pendientes de resolución ante el órgano interno de control, continuarán su trámite y se resolverán en definitiva conforme a la normatividad vigente al momento de su inicio.
+
+D.O.F. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES".]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
