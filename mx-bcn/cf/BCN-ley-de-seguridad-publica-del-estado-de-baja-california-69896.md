@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-publica-del-estado-de-baja-california-69896"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2017-11-10"
+last_updated: "2018-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 21 de agosto de 2009.
 
@@ -300,6 +300,10 @@ El Consejo deberá invitar, por la naturaleza de los asuntos a tratar, a las per
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, deberá ser invitado a las sesiones del Consejo con derecho a voz pero sin voto.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+El Presidente del Consejo Ciudadano de Seguridad Pública del Estado de Baja California será un invitado permanente del Consejo con derecho a voz pero sin voto.
 
 Los integrantes del Consejo podrán designar por escrito a un suplente con funciones de propietario para que cubra sus ausencias temporales.
 
@@ -2640,3 +2644,11 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 139 MEDIANTE EL CUAL APRUEBA LA REFORMA A LOS ARTÍCULOS 90 Y 172 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 235 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 18 DE LA LEY DE SEGURIDAD PÚBLICA EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
