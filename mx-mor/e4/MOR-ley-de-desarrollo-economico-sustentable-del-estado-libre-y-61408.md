@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2016-08-17"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 2018 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -373,7 +375,7 @@ Para la aplicación de una tasa preferencial, se deberá acreditar una relación
 
 Lo anterior, tendrá aplicación en cuanto a los derechos de inscripción en el Registro Público de la Propiedad y el Comercio del Estado de Morelos, de actas constitutivas y de contratos destinados estrictamente a la actividad productiva, entre otros de naturaleza similar.
 
-La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado, para su entrada en vigor.
+La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado, para su entrada en vigor.
 
 ###### Artículo 23.
 
@@ -425,7 +427,7 @@ Para cubrir los costos derivados de la ejecución de los planes, programas y acc
 
 I. Aquellos asignados a la Secretaría en el Presupuesto de Egresos de manera anual, y que sean destinados por la misma, para tal efecto;
 
-II. Aquellos que para tal efecto determine anualmente el Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, no pudiendo ser, en todo caso, menores a un monto equivalente al 20% del total de los recursos que lo integran; y
+II. (DEROGADA, P.O. 13 DE JULIO DE 2018)
 
 III. Aquellos fondos federales relacionados con el objeto de esta Ley, que puedan ser destinados a dicho fin por la persona titular del Poder Ejecutivo del Estado.
 
@@ -678,3 +680,55 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL DOSCIENTOS CINCUENTA POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y DEL DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y UNO, POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2018, ASÍ COMO SE ABROGA LA LEY DEL FONDO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS, DADA LA AUTONOMÍA CONSTITUCIONAL DE LA FISCALÍA GENERAL DEL ESTADO Y EL FORTALECIMIENTO DE OTROS TRIBUNALES ESTATALES, ASÍ COMO LOGRAR UN BALANCE PRESUPUESTARIO SOSTENIBLE ”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos dispuestos por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Poder Ejecutivo Estatal, a través de la Secretaría de Hacienda, realizará las transferencias y ministraciones necesarias para el cumplimiento del presente Decreto.
+
+Asimismo, en la Cuenta Pública del ejercicio fiscal 2018 o en los informes de avance sobre la misma, según corresponda, deberá contemplar los movimientos efectuados en cumplimiento del presente instrumento, en términos de las disposiciones aplicables.
+
+CUARTA. Los Comités Técnicos de los fideicomisos Turismo Morelos, del Fondo de Competitividad y Promoción del Empleo y del Fondo para la Atención de Infraestructura y Administración Municipal continuarán funcionando como lo han venido haciendo en términos de las disposiciones que les dieron origen, para el único efecto de dar seguimiento a los compromisos definitivos que se encontraran en curso a la entrada en vigor del presente Decreto, así como adoptar las previsiones y acciones necesarias para la conclusión de los asuntos que se estimen estrictamente necesarios.
+
+Asimismo, cumplirán sus obligaciones pendientes respecto a la comprobación de los recursos ante las autoridades competentes de conformidad con la normativa aplicable.
+
+En ningún caso, a partir de la entrada en vigor de este instrumento podrán recibir o realizar actos jurídicos o administrativos que impliquen adquirir nuevos compromisos legales o presupuestales con excepción de los imperiosamente necesarios para su operación en términos del párrafo primero de esta disposición.
+
+Para efectos de lo anterior, los Comités Técnicos correspondientes podrán celebrar las sesiones que se estimen idóneas para concluir los asuntos que se encuentren en trámite y respecto de los cuales sea necesario adoptar los acuerdos conducentes.
+
+Adicionalmente, se cancelan las obras, acciones, proyectos o análogos aprobados con cargo a los fideicomisos señalados en este Decreto, siempre que los recursos autorizados no hubieren sido devengados, ejercidos o, en el caso del Fondo para la Atención de Infraestructura y Administración Municipal, transferidos a favor de terceros beneficiarios en términos de las disposiciones aplicables, lo que comunicará a través de los respectivos Comités Técnicos.
+
+Las acciones referidas en los párrafos anteriores de esta disposición, deberán realizarse preferentemente antes del 31 de diciembre de 2018.
+
+QUINTA. Una vez realizadas las acciones enunciadas en la disposición transitoria anterior, el fideicomitente y los Comités Técnicos correspondientes, deberán iniciar los trámites legales y administrativos conducentes para formalizar la extinción y consecuente liquidación de los fideicomisos respectivos.
+
+Para efecto de lo anterior, se faculta al fideicomitente y al liquidador, en su ámbito de atribuciones, a celebrar los acuerdos y actos jurídicos necesarios e idóneos a ese fin, con apego a lo previsto en este instrumento y demás normativa aplicable.
+
+SEXTA. El procedimiento de liquidación y extinción de los fideicomisos referidos en la Disposición Transitoria Quinta de este Decreto, se ajustará a lo siguiente:
+
+I. La Secretaría de Hacienda del Poder Ejecutivo Estatal podrá emitir los lineamientos a los que se sujetará la extinción a su cargo, de los fideicomisos a que hace referencia la Disposición Transitoria Quinta, adicionales a las previsiones consignadas en este instrumento, sin contravenirlas, así como realizar los actos necesarios para efectuar dicho procedimiento, conforme la normativa aplicable. Lo anterior, con excepción del Fondo para la Atención de Infraestructura y Administración Municipal, y el Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
+
+II. Asimismo, dicha Secretaría informará al Congreso del Estado sobre la extinción que hubiere efectuado en términos del presente Decreto;
+
+III. Para efectos de la extinción de los fideicomisos a que se refiere esta disposición transitoria, se deberá enviar la instrucción correspondiente a la institución fiduciaria respectiva con apego a lo previsto por la Ley General de Títulos y Operaciones de Crédito y demás normativa aplicable, y
+
+IV. Los casos no previstos en la presente disposición, se resolverán por la autoridad que funja como liquidadora en términos de los lineamientos que correspondan.
+
+SÉPTIMA. A partir de la entrada en vigor del presente Decreto, se extingue el organismo público dotado de personalidad y patrimonio propio denominado Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, a que se refiere el artículo 2 de la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos abrogada en virtud del presente instrumento.
+
+En consecuencia, el Congreso del Estado emitirá el acuerdo que establezca las acciones y lineamientos para la liquidación del organismo referido en el párrafo anterior, a más tardar en un plazo de 15 días hábiles contados a partir de la entrada en vigor de este Decreto.
+
+OCTAVA. Excepcionalmente, a partir de la entrada en vigor de este Decreto, se autoriza la cancelación de los montos reportados en cuentas públicas como pendientes por transferir efectivamente a los fideicomisos a que se refiere la Disposición Quinta Transitoria del presente instrumento, con sus efectos contables y presupuestales respectivos, debiendo tales ajustes aplicarse a la obtención de un balance presupuestario sostenible.
+
+NOVENA. Las Secretarías de Hacienda y de la Contraloría, ambas del Poder Ejecutivo Estatal, deberán realizar las acciones respectivas según sus ámbitos de competencia, para vigilar el debido cumplimiento del presente Decreto.
+
+DÉCIMA. Se abroga la Ley del Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos, publicada en el Periódico Oficial “Tierra y Libertad”, número 5350, de 08 de diciembre de 2015.
+
+DÉCIMA PRIMERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+En consecuencia, los anexos relativos a los clasificadores del gasto y otros de carácter referencial que no se modifican en virtud de este instrumento se ajustarán en los términos de las reorientaciones ordenadas por el mismo, a efecto de guardar la debida congruencia, reportándose, en su caso, en la cuenta pública correspondiente.
