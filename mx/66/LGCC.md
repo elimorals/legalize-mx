@@ -4,7 +4,7 @@ identifier: "LGCC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2018-01-19"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCC"
 
 LEY GENERAL DE CAMBIO CLIMÁTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2018.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -50,13 +50,17 @@ LEY GENERAL DE CAMBIO CLIMÁTICO
 
 La presente ley es de orden público, interés general y observancia en todo el territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción y establece disposiciones para enfrentar los efectos adversos del cambio climático. Es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de protección al ambiente, desarrollo sustentable, preservación y restauración del equilibrio ecológico.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 2o.
 
-Esta ley tiene por objeto:
+Esta Ley tiene por objeto:
 
 I. Garantizar el derecho a un medio ambiente sano y establecer la concurrencia de facultades de la federación, las entidades federativas y los municipios en la elaboración y aplicación de políticas públicas para la adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero;
 
-II. Regular las emisiones de gases y compuestos de efecto invernadero para lograr la estabilización de sus concentraciones en la atmósfera a un nivel que impida interferencias antropógenas peligrosas en el sistema climático considerando en su caso, lo previsto por el artículo 2o. de la Convención Marco de las Naciones Unidas sobre el Cambio Climático y demás disposiciones derivadas de la misma;
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+II. Regular las emisiones de gases y compuestos de efecto invernadero para que México contribuya a lograr la estabilización de sus concentraciones en la atmósfera a un nivel que impida interferencias antropógenas peligrosas en el sistema climático considerando, en su caso, lo previsto por el artículo 2o. de la Convención Marco de las Naciones Unidas sobre el Cambio Climático y demás disposiciones derivadas de la misma;
 
 III. Regular las acciones para la mitigación y adaptación al cambio climático;
 
@@ -64,83 +68,123 @@ IV. Reducir la vulnerabilidad de la población y los ecosistemas del país frent
 
 V. Fomentar la educación, investigación, desarrollo y transferencia de tecnología e innovación y difusión en materia de adaptación y mitigación al cambio climático;
 
-VI. Establecer las bases para la concertación con la sociedad, y
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-VII. Promover la transición hacia una economía competitiva, sustentable y de bajas emisiones de carbono.
+VI. Establecer las bases para la concertación con la sociedad;
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+VII. Promover la transición hacia una economía competitiva, sustentable, de bajas emisiones de carbono y resiliente a los fenómenos hidrometeorológicos extremos asociados al cambio climático, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+VIII. Establecer las bases para que México contribuya al cumplimiento del Acuerdo de París, que tiene entre sus objetivos mantener el aumento de la temperatura media mundial por debajo de 2 °C, con respecto a los niveles preindustriales, y proseguir con los esfuerzos para limitar ese aumento de la temperatura a 1.5 °C, con respecto a los niveles preindustriales, reconociendo que ello reduciría considerablemente los riesgos y los efectos del cambio climático.
 
 ###### Artículo 3o.
 
 Para efectos de esta Ley se entenderá por:
 
-I. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño, o aprovechar sus aspectos beneficiosos.
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+I. Acuerdo de París: Convenio adoptado mediante la decisión 1/CP.21 durante el 21er período de sesiones de la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+
+II. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño, o aprovechar sus aspectos beneficiosos.
 
 > <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2014)</small>
 
-II. Atlas de riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos.
+III. Atlas de riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos.
 
-III. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
+IV. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
 
-IV. Comisión: Comisión Intersecretarial de Cambio Climático.
+V. Comisión: Comisión Intersecretarial de Cambio Climático.
 
-V. Compuestos de efecto invernadero: Gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja en la atmósfera;
+VI. Compuestos de efecto invernadero: Gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja en la atmósfera;
 
-VI. Comunicación Nacional: Informe nacional elaborado periódicamente en cumplimiento de los compromisos establecidos por la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+VII. Comunicación Nacional: Informe nacional elaborado periódicamente en cumplimiento de los compromisos establecidos por la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
 
-VII. Consejo: Consejo de Cambio Climático.
+VIII. Consejo: Consejo de Cambio Climático.
 
-VIII. Convención: Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-IX. Corredores Biológicos: Ruta geográfica que permite el intercambio y migración de las especies de flora y fauna silvestre dentro de uno o más ecosistemas, cuya función es mantener la conectividad de los procesos biológicos para evitar el aislamiento de las poblaciones.
+IX. Contaminantes climáticos de vida corta: Llamados también forzadores climáticos de vida corta, son aquellos compuestos de efecto invernadero, gases, aerosoles o partículas de carbono negro, cuya vida media en la atmósfera después de ser emitidos se estima en semanas o hasta décadas, en un rango siempre inferior a la vida media del bióxido de carbono, estimada ésta última en 100 o más años.
 
-X. Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, con relación a la misma vegetación ecosistemas o suelos, si no hubiera existido dicha intervención.
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-XI. Emisiones: Liberación a la atmósfera de gases de efecto invernadero y/o sus precursores y aerosoles en la atmósfera, incluyendo en su caso compuestos de efecto invernadero, en una zona y un periodo de tiempo específicos.
+X. Contribuciones determinadas a nivel nacional: conjunto de objetivos y metas, asumidas por México, en el marco del Acuerdo de París, en materia de mitigación y adaptación al cambio climático para cumplir los objetivos a largo plazo de la Convención Marco de las Naciones Unidas para el Cambio Climático.
 
-XII. Emisiones de línea base: Estimación de las emisiones, absorción o captura de gases o compuestos de efecto invernadero, asociadas a un escenario de línea base.
+XI. Convención: Convención Marco de las Naciones Unidas sobre el Cambio Climático.
 
-XIII. Escenario de línea base: Descripción hipotética de lo que podría ocurrir con las variables que determinan las emisiones, absorciones o capturas de gases y compuestos de efecto invernadero.
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-XIV. Estrategia Nacional: Estrategia Nacional de Cambio Climático.
+XII. Carbono negro: material particulado producido por la combustión incompleta de combustibles fósiles o de biomasa, y que contribuye al calentamiento global como contaminante climático de vida corta.
 
-XV. Fomento de capacidad: Proceso de desarrollo de técnicas y capacidades institucionales, para que puedan participar en todos los aspectos de la adaptación, mitigación e investigación sobre el cambio climático.
+XIII. Corredores Biológicos: Ruta geográfica que permite el intercambio y migración de las especies de flora y fauna silvestre dentro de uno o más ecosistemas, cuya función es mantener la conectividad de los procesos biológicos para evitar el aislamiento de las poblaciones.
 
-XVI. Fondo: Fondo para el Cambio Climático.
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-XVII. Fuentes emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera.
+XIV. CORSIA: Esquema de reducción y compensación de emisiones de gases de efecto invernadero para la aviación internacional de la Organización de la Aviación Civil Internacional.
 
-XVIII. Gases de efecto invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y emiten radiación infrarroja.
+XV. Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, con relación a la misma vegetación ecosistemas o suelos, si no hubiera existido dicha intervención.
 
-XIX. INECC: Instituto Nacional de Ecología y Cambio Climático.
+XVI. Emisiones: Liberación a la atmósfera de gases de efecto invernadero y/o sus precursores y aerosoles en la atmósfera, incluyendo en su caso compuestos de efecto invernadero, en una zona y un periodo de tiempo específicos.
 
-XX. Inventario: Documento que contiene la estimación de las emisiones antropógenas por las fuentes y de la absorción por los sumideros.
+XVII. Emisiones de línea base: Estimación de las emisiones, absorción o captura de gases o compuestos de efecto invernadero, asociadas a un escenario de línea base.
 
-XXI. Ley: Ley General de Cambio Climático.
+XVIII. Escenario de línea base: Descripción hipotética de lo que podría ocurrir con las variables que determinan las emisiones, absorciones o capturas de gases y compuestos de efecto invernadero.
 
-XXII. Mecanismo para un desarrollo limpio: Mecanismo establecido en el artículo 12 del Protocolo de Kioto.
+XIX. Estrategia Nacional: Estrategia Nacional de Cambio Climático.
 
-XXIII. Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero.
+XX. Fomento de capacidad: Proceso de desarrollo de técnicas y capacidades institucionales, para que puedan participar en todos los aspectos de la adaptación, mitigación e investigación sobre el cambio climático.
 
-XXIV. Programa: Programa Especial de Cambio Climático.
+XXI. Fondo: Fondo para el Cambio Climático.
 
-XXV. Protocolo de Kioto: Protocolo de Kioto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+XXII. Fuentes emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera.
 
-XXVI. Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos.
+XXIII. Gases de efecto invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y emiten radiación infrarroja.
 
-XXVII. Registro: Registro Nacional de Emisiones.
+XXIV. INECC: Instituto Nacional de Ecología y Cambio Climático.
 
-XXVIII. Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse o soportar los efectos derivados del cambio climático.
+XXV. Inventario: Documento que contiene la estimación de las emisiones antropógenas por las fuentes y de la absorción por los sumideros.
 
-XXIX. Resistencia: Capacidad de los sistemas naturales o sociales para persistir ante los efectos derivados del cambio climático.
+XXVI. Ley: Ley General de Cambio Climático.
 
-XXX. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno.
+XXVII. Mecanismo para un desarrollo limpio: Mecanismo establecido en el artículo 12 del Protocolo de Kioto.
 
-XXXI. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales.
+XXVIII. Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero.
 
-XXXII. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y o sus precursores y aerosoles en la atmósfera incluyendo en su caso, compuestos de efecto invernadero.
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-XXXIII. Toneladas de bióxido de carbono equivalentes: Unidad de medida de los gases de efecto invernadero, expresada en toneladas de bióxido de carbono, que tendrían el efecto invernadero equivalente.
+XXIX. Panel Intergubernamental de Expertos sobre Cambio Climático (IPCC): Órgano internacional encargado de evaluar los conocimientos científicos relativos al cambio climático.
 
-XXXIV. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+XXX. Programa: Programa Especial de Cambio Climático.
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+XXXI. Política Nacional de Adaptación: Proceso de identificación de necesidades de adaptación al mediano y largo plazo, y de desarrollo e implementación de estrategias, programas y acciones para atenderlas.
+
+XXXII. Protocolo de Kioto: Protocolo de Kioto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.
+
+XXXIII. Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos.
+
+XXIV. Registro: Registro Nacional de Emisiones.
+
+XXV. Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse o soportar los efectos derivados del cambio climático.
+
+XXXVI. Resistencia: Capacidad de los sistemas naturales o sociales para persistir ante los efectos derivados del cambio climático.
+
+XXXVII. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno.
+
+XXXVIII. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales.
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+XXXIX. Sistemas de alerta temprana: Conjunto de instrumentos de medición y monitoreo terrestre, marino, aéreo y espacial, que organizados armónicamente con el Sistema Nacional de Protección Civil pueden advertir a la población, de manera expedita y a través de medios electrónicos de telecomunicación, sobre su situación de vulnerabilidad y riesgo ante fenómenos hidrometeorológicos extremos relacionados con el cambio climático.
+
+XL. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y o sus precursores y aerosoles en la atmósfera incluyendo en su caso, compuestos de efecto invernadero.
+
+XLI. Toneladas de bióxido de carbono equivalentes: Unidad de medida de los gases de efecto invernadero, expresada en toneladas de bióxido de carbono, que tendrían el efecto invernadero equivalente.
+
+XLII. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
 
 ###### Artículo 4o.
 
@@ -168,9 +212,13 @@ I. Formular y conducir la política nacional en materia de cambio climático;
 
 II. Elaborar, coordinar y aplicar los instrumentos de política previstos por esta Ley;
 
-III. Formular, conducir y publicar, con la participación de la sociedad, la Estrategia Nacional y el Programa, así como llevar a cabo su instrumentación, seguimiento y evaluación;
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-IV. Elaborar, actualizar y publicar el atlas nacional de riesgo, y emitir los criterios para la elaboración de los atlas de riesgo estatales;
+III. Formular, conducir y publicar, con la participación de la sociedad, la Estrategia Nacional, el Programa, y las contribuciones determinadas a nivel nacional, así como llevar a cabo su instrumentación, seguimiento y evaluación;
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+IV. Elaborar, actualizar, publicar y aplicar el atlas nacional de riesgo y la Política Nacional de Adaptación, y emitir los criterios para la elaboración de los atlas de riesgo estatales;
 
 V. Establecer procedimientos para realizar consultas públicas a la sociedad en general, los sectores público y privado, con el fin de formular la Estrategia Nacional y el Programa;
 
@@ -396,9 +444,11 @@ Se crea el Instituto Nacional de Ecología y Cambio Climático como un organismo
 
 El INECC tendrá su domicilio en la Ciudad de México, pudiendo establecer delegaciones regionales o estatales necesarias para cumplir su objeto, de acuerdo a la disponibilidad presupuestal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 15.
 
-El INECC tiene por objeto:
+El Instituto Nacional de Ecología y Cambio Climático (INECC) tiene por objeto:
 
 I. Coordinar y realizar estudios y proyectos de investigación científica o tecnológica con instituciones académicas, de investigación, públicas o privadas, nacionales o extranjeras en materia de cambio climático, protección al ambiente y preservación y restauración del equilibrio ecológico;
 
@@ -408,7 +458,9 @@ III. Promover y difundir criterios, metodologías y tecnologías para la conserv
 
 IV. Coadyuvar en la preparación de recursos humanos calificados, a fin de atender la problemática nacional con respecto al medio ambiente y el cambio climático;
 
-V. Realizar análisis de prospectiva sectorial, y colaborar en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con el desarrollo sustentable, el medio ambiente y el cambio climático, incluyendo la estimación de los costos futuros asociados al cambio climático, y los beneficios derivados de las acciones para enfrentarlo;
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+V. Realizar análisis de prospectiva sectorial, y colaborar en la elaboración de estrategias, planes, programas, instrumentos, contribuciones determinadas a nivel nacional y acciones relacionadas con el desarrollo sustentable, el medio ambiente y el cambio climático, incluyendo la estimación de los costos futuros asociados al cambio climático, y los beneficios derivados de las acciones para enfrentarlo;
 
 VI. Evaluar el cumplimiento de los objetivos de adaptación y mitigación previstos en esta Ley, así como las metas y acciones contenidas en la Estrategia Nacional, el Programa y los programas de las entidades federativas a que se refiere este ordenamiento, y
 
@@ -618,9 +670,21 @@ IX. El uso de instrumentos económicos en la mitigación, adaptación y reducci�
 
 X. Transparencia, acceso a la información y a la justicia, considerando que los distintos órdenes de gobierno deben facilitar y fomentar la concientización de la población, poniendo a su disposición la información relativa al cambio climático y proporcionando acceso efectivo a los procedimientos judiciales y administrativos pertinentes atendiendo a las disposiciones jurídicas aplicables;
 
-XI. Conservación de los ecosistemas y su biodiversidad, dando prioridad a los humedales, manglares, arrecifes, dunas, zonas y lagunas costeras, que brindan servicios ambientales, fundamental para reducir la vulnerabilidad, y
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-XII. Compromiso con la economía y el desarrollo económico nacional, para lograr la sustentabilidad sin vulnerar su competitividad frente a los mercados internacionales.
+XI. Conservación de los ecosistemas y su biodiversidad, dando prioridad a los humedales, manglares, arrecifes, dunas, zonas y lagunas costeras, que brindan servicios ambientales, fundamental para reducir la vulnerabilidad;
+
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+XII. Compromiso con la economía y el desarrollo económico nacional, para lograr la sustentabilidad sin vulnerar su competitividad frente a los mercados internacionales, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+XIII. Progresividad, las metas para el cumplimiento de esta Ley deberán presentar una progresión y gradualidad a lo largo del tiempo, teniendo en cuenta el principio de responsabilidades comunes pero diferenciadas y sus capacidades respectivas, a la luz de las diferentes circunstancias nacionales, y en el contexto del desarrollo sostenible y de los esfuerzos por erradicar la pobreza; asimismo, se deberá considerar la necesidad de recibir apoyos de los países desarrollados para lograr la aplicación efectiva de las medidas que se requieran para su cumplimiento; sin que represente un retroceso respecto a metas anteriores, considerando, la mejor información científica disponible y los avances tecnológicos, todo ello en el contexto del desarrollo sostenible.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos, el derecho a la salud, los derechos de los pueblos indígenas, las comunidades locales, los migrantes, los niños, las personas con discapacidad y las personas en situaciones de vulnerabilidad y el derecho al desarrollo, así como la igualdad de género, el empoderamiento de la mujer y la equidad intergeneracional.
 
 ### CAPÍTULO II. ADAPTACIÓN
 
@@ -640,9 +704,15 @@ V. Establecer mecanismos de atención inmediata y expedita en zonas impactadas p
 
 VI. Facilitar y fomentar la seguridad alimentaria, la productividad agrícola, ganadera, pesquera, acuícola, la preservación de los ecosistemas y de los recursos naturales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 28.
 
-La federación, las entidades federativas y los municipios, en el ámbito de sus competencias, deberán ejecutar acciones para la adaptación en la elaboración de las políticas, la Estrategia Nacional, el Programa y los programas en los siguientes ámbitos:
+La federación deberá de elaborar una Política Nacional de Adaptación en el marco del Sistema Nacional de Cambio Climático.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO, ANTES PRIMER PÁRRAFO DEL ARTÍCULO CON SUS FRACCIONES], D.O.F. 13 DE JULIO DE 2018)</small>
+
+La federación, las entidades federativas y los municipios, en el ámbito de sus competencias, deberán ejecutar acciones para la adaptación en la elaboración de las políticas, la Estrategia Nacional, el Programa Especial de Cambio Climático, la Política Nacional de Adaptación y los programas en los siguientes ámbitos:
 
 I. Gestión integral del riesgo;
 
@@ -766,7 +836,13 @@ XXIII. Realizar diagnósticos de vulnerabilidad en el sector energético y desar
 
 La política nacional de mitigación de Cambio Climático deberá incluir, a través de los instrumentos de planeación, política y los instrumentos económicos previstos en la presente ley, un diagnóstico, planificación, medición, monitoreo, reporte, verificación y evaluación de las emisiones nacionales.
 
-Esta política deberá establecer planes, programas, acciones, instrumentos económicos, de política y regulatorios para el logro gradual de metas de reducción de emisiones específicas, por sectores y actividades tomando como referencia los escenarios de línea base y líneas de base por sector que se establezcan en los instrumentos previstos por la presente ley, y considerando los tratados internacionales suscritos por el Estado Mexicano en materia de cambio climático.
+> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+Esta política deberá establecer planes, programas, acciones, instrumentos económicos, de política y regulatorios para el logro gradual de metas de reducción de emisiones específicas, por sectores y tomando como referencia los escenarios de línea base y líneas de base por sector que se establezcan en los instrumentos previstos por la presente Ley, considerando las contribuciones determinadas a nivel nacional para el cumplimiento de los objetivos del Acuerdo de París, el acceso a recursos financieros, la transferencia de tecnología y el desarrollo de capacidades, así como cualquier otro tratado internacional suscrito por el Estado mexicano en materia de cambio climático.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+La política debe cuidar que la línea base a comprometer por México no limite el crecimiento económico del país, y en la elaboración de dicha línea deben participar los sectores productivos, en coordinación con los organismos nacionales que intervengan en la política económica.
 
 ###### Artículo 32.
 
@@ -924,9 +1000,11 @@ Con el objetivo de impulsar la transición a modelos de generación de energía 
 
 La Secretaría promoverá de manera coordinada con la Secretaría de Hacienda y Crédito Público y la Secretaría de Energía, en el ámbito de sus competencias, el establecimiento de programas para incentivar fiscal y financieramente a los interesados en participar de manera voluntaria en la realización de proyectos de reducción de emisiones.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 37.
 
-Para los efectos de esta Ley serán reconocidos los programas y demás instrumentos de mitigación que se han desarrollado a partir del Protocolo de Kioto y cualquier otro que se encuentre debidamente certificado por alguna organización con reconocimiento internacional.
+Para los efectos de esta Ley serán reconocidos los programas y demás instrumentos de mitigación que se han desarrollado a partir del Protocolo de Kioto, la Convención, el Acuerdo de París y cualquier otro que se encuentre debidamente certificado por alguna organización con reconocimiento internacional.
 
 Las disposiciones reglamentarias de la presente Ley establecerán los requisitos que deberán cumplirse para el reconocimiento y registro de los programas e instrumentos referidos en el presente artículo.
 
@@ -996,11 +1074,15 @@ II. Formular e instrumentar políticas nacionales para la mitigación y adaptaci
 
 III. Desarrollar los criterios de transversalidad e integralidad de las políticas públicas para enfrentar al cambio climático para que los apliquen las dependencias y entidades de la administración pública federal centralizada y paraestatal;
 
-IV. Aprobar la Estrategia Nacional;
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+IV. Aprobar la estrategia nacional y las contribuciones determinadas a nivel nacional;
 
 V. Participar en la elaboración e instrumentación del Programa;
 
-VI. Participar con el INEGI para determinar la información que se incorpore en el Sistema de Información sobre el Cambio Climático;
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+VI. Participar en la elaboración e instrumentación del Programa Especial de Cambio Climático y la Política Nacional de Adaptación;
 
 VII. Proponer y apoyar estudios y proyectos de innovación, investigación, desarrollo y transferencia de tecnología, vinculados a la problemática nacional de cambio climático, así como difundir sus resultados;
 
@@ -1024,9 +1106,17 @@ XV. Promover el establecimiento, conforme a la legislación respectiva, de recon
 
 XVI. Solicitar recomendaciones al consejo sobre las políticas, estrategias, acciones y metas para atender los efectos del cambio climático, con el deber de fundamentar y motivar la decisión que adopte sobre aquellas;
 
-XVII. Emitir su reglamento interno, y
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
-XVIII. Las demás que le confiera la presente ley, sus Reglamentos y otras disposiciones jurídicas que de ella deriven.
+XVII. Emitir su reglamento interno;
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+XVIII. Revisar e informar, con el apoyo de la Secretaría y la opinión del Consejo, sobre el avance de la Estrategia Nacional y las contribuciones determinadas a nivel nacional, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 13 DE JULIO DE 2018)</small>
+
+XIX. Las demás que le confiera la presente Ley, sus Reglamentos y otras disposiciones jurídicas que de ella deriven.
 
 ###### Artículo 48.
 
@@ -1124,7 +1214,9 @@ II. Recomendar a la Comisión realizar estudios y adoptar políticas, acciones y
 
 III. Promover la participación social, informada y responsable, a través de las consultas públicas que determine en coordinación con la Comisión;
 
-IV. Dar seguimiento a las políticas, acciones y metas previstas en la presente Ley, evaluaciones de la Estrategia Nacional, el Programa y los programas estatales; así como formular propuestas a la Comisión, a la Coordinación de Evaluación del INECC y a los miembros del Sistema Nacional de Cambio Climático;
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+IV. Dar seguimiento a las políticas, acciones y metas previstas en la presente Ley, evaluaciones de la Estrategia Nacional, el Programa y los programas estatales, las contribuciones determinadas a nivel nacional; así como formular propuestas a la Comisión, a la Coordinación de Evaluación del INECC y a los miembros del Sistema Nacional de Cambio Climático;
 
 V. Integrar grupos de trabajo especializados que coadyuven a las atribuciones de la Comisión y las funciones del Consejo;
 
@@ -1142,7 +1234,15 @@ I. La Estrategia Nacional;
 
 II. El Programa, y
 
-III. Los programas de las Entidades Federativas.
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+III. La Política Nacional de Adaptación;
+
+> <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+IV. Las contribuciones determinadas a nivel nacional, y
+
+V. Los programas de las Entidades Federativas.
 
 ###### Artículo 59.
 
@@ -1174,21 +1274,33 @@ En ningún caso las revisiones y actualizaciones se harán en menoscabo de las m
 
 Los escenarios de línea base, las proyecciones de emisiones y las metas de la Estrategia Nacional se fijarán a diez, veinte y cuarenta años.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 63.
 
-La Comisión podrá proponer y aprobar ajustes o modificaciones a los escenarios, trayectorias, acciones o metas comprendidas en la Estrategia Nacional cuando:
+La Comisión propondrá y aprobará los ajustes o modificaciones a los escenarios, trayectorias, acciones o metas comprometidos en la Estrategia Nacional, en las contribuciones nacionalmente determinadas que progresiva y periódicamente deberán presentarse a la Convención Marco de las Naciones Unidas para el Cambio Climático en cumplimiento al Acuerdo de París. Igualmente lo podrá hacer cuando las evaluaciones elaboradas por la Coordinación de Evaluación así lo requieran y se desarrollen nuevos conocimientos científicos o de tecnologías relevantes.
 
-I. Se adopten nuevos compromisos internacionales en la materia;
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
-II. Se desarrollen nuevos conocimientos científicos o de tecnologías relevantes;
+La contribución nacionalmente determinada constituye el instrumento rector de los compromisos asumidos por el país ante el Acuerdo de París, en concordancia con lo establecido por la Estrategia Nacional de Cambio Climático.
 
-III. Lo requieran las políticas en materia de medio ambiente, recursos naturales, economía, energía, transporte sustentable, salud y seguridad alimentaria, y
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
-IV. Se deriven de los resultados de las evaluaciones elaborados por la Coordinación de Evaluación.
+La Secretaría elaborará la contribución nacionalmente determinada con la participación del INECC y la opinión del Consejo y será aprobada por la Comisión y publicada en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+En la elaboración de la contribución nacionalmente determinada se promoverá la participación y consulta del sector social y privado, con el propósito de que la población exprese sus opiniones para su elaboración, actualización y ejecución, en los términos previstos por la Ley de Planeación y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+La Secretaría con la participación de la Comisión deberá revisar la contribución nacionalmente determinada según lo establecido por el Acuerdo de París o las decisiones que emanen de dicho acuerdo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
 
 ###### Artículo 64.
 
-La Estrategia Nacional deberá reflejar los objetivos de las políticas de mitigación y adaptación al cambio climático establecidas en la presente Ley y contendrá entre otros elementos, los siguientes:
+La estrategia nacional deberá reflejar los objetivos y ambición de las políticas de mitigación y adaptación al cambio climático establecidas en la presente Ley y contendrá entre otros elementos, los siguientes:
 
 I. Diagnóstico y evaluación de las acciones y medidas implementadas en el país, así como su desempeño en el contexto internacional;
 
@@ -1208,7 +1320,9 @@ VIII. Emisiones de línea base;
 
 IX. Trayectoria objetivo de emisiones;
 
-X. Acciones y metas de adaptación y mitigación;
+> <small>(REFORMADA, D.O.F. 13 DE JULIO DE 2018)</small>
+
+X. Acciones y metas de adaptación y mitigación teniendo como año meta 2050, con metas intermedias de corto y mediano plazo, diferenciadas por fuente emisora y o sector emisor y con una hoja de ruta para asegurar su cumplimiento. Las metas establecidas en la estrategia constituyen porcentajes mínimos.
 
 XI. Requerimientos nacionales de investigación, transferencia de tecnología, estudios, capacitación y difusión;
 
@@ -1286,9 +1400,11 @@ La Estrategia Nacional, el Programa y los programas de las Entidades Federativas
 
 ### CAPÍTULO V. INVENTARIO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 74.
 
-El Inventario deberá ser elaborado por el INECC, de acuerdo con los lineamientos y metodologías establecidos por la Convención, la Conferencia de las Partes y el Grupo Intergubernamental de Cambio Climático.
+El inventario deberá ser elaborado por el INECC, de acuerdo con los lineamientos y metodologías establecidos por el Acuerdo de París, la Convención, la Conferencia de las Partes y el Grupo Intergubernamental de Cambio Climático.
 
 El INECC elaborará los contenidos del Inventario de acuerdo con los siguientes plazos:
 
@@ -1400,9 +1516,11 @@ El Fondo se sujetará a los procedimientos de control, auditoría, transparencia
 
 ### CAPÍTULO VIII. REGISTRO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 87.
 
-La Secretaría, deberá integrar el Registro de emisiones generadas por las fuentes fijas y móviles de emisiones que se identifiquen como sujetas a reporte.
+La Secretaría, deberá integrar y hacer público de forma agregada el Registro de emisiones generadas por las fuentes fijas y móviles de emisiones que se identifiquen como sujetas a reporte.
 
 Las disposiciones reglamentarias de la presente Ley identificarán las fuentes que deberán reportar en el Registro por sector, subsector y actividad, asimismo establecerán los siguientes elementos para la integración del Registro:
 
@@ -1464,13 +1582,21 @@ II. La investigación e incorporación de sistemas de eficiencia energética; y 
 
 III. En general, aquellas actividades relacionadas con la adaptación al cambio climático y la mitigación de emisiones.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 94.
 
-La Secretaría, con la participación de la Comisión y el Consejo podrá establecer un sistema voluntario de comercio de emisiones con el objetivo de promover reducciones de emisiones que puedan llevarse a cabo con el menor costo posible, de forma medible, reportable y verificable.
+La Secretaría, con la participación y consenso de la Comisión, el Consejo y la representación de los sectores participantes, establecerá de forma progresiva y gradual un sistema de comercio de emisiones con el objetivo de promover reducciones de emisiones que puedan llevarse a cabo con el menor costo posible, de forma medible, reportable y verificable, sin vulnerar la competitividad de los sectores participantes frente a los mercados internacionales.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+La Secretaría elaborará y publicará las reducciones alcanzadas en toneladas de CO2e y el porcentaje que representa en relación a las emisiones nacionales, así como el costo de implementación.
+
+> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
 ###### Artículo 95.
 
-Los interesados en participar de manera voluntaria en el comercio de emisiones podrán llevar a cabo operaciones y transacciones que se vinculen con el comercio de emisiones de otros países, o que puedan ser utilizadas en mercados de carbono internacionales en los términos previstos por las disposiciones jurídicas que resulten aplicables.
+Los participantes del sistema de comercio de emisiones podrán llevar a cabo operaciones y transacciones que se vinculen con el comercio de emisiones de otros países, o que puedan ser utilizadas en mercados de carbono internacionales en los términos previstos por las disposiciones jurídicas que resulten aplicables.
 
 ### CAPÍTULO X. NORMAS OFICIALES MEXICANAS
 
@@ -1486,9 +1612,11 @@ El cumplimiento de las normas oficiales mexicanas deberá ser evaluado por los o
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 98.
 
-La política nacional de Cambio Climático estará sujeta a evaluación periódica y sistemática a través de la Coordinación de Evaluación, para proponer, en su caso, su modificación, adición, o reorientación total o parcialmente.
+La política nacional de Cambio Climático estará sujeta a evaluación periódica y sistemática a través de la Coordinación de Evaluación, tomando en consideración los Informes de Evaluación del IPCC, así como las evaluaciones periódicas establecidas dentro del Acuerdo de París, para proponer en su caso, su modificación, adición, o reorientación total o parcialmente.
 
 Con base en los resultados de las evaluaciones, la Coordinación de Evaluación podrá emitir sugerencias y recomendaciones al Ejecutivo Federal, a los gobiernos de las Entidades Federativas y a los Municipios y deberá hacerlas del conocimiento público.
 
@@ -1646,6 +1774,18 @@ Artículo Primero. La presente Ley entrará en vigor noventa días hábiles desp
 
 Artículo Segundo. El país asume el objetivo indicativo o meta aspiracional de reducir al año 2020 un treinta por ciento de emisiones con respecto a la línea de base; así como un cincuenta por ciento de reducción de emisiones al 2050 en relación con las emitidas en el año 2000. Las metas mencionadas podrán alcanzarse si se establece un régimen internacional que disponga de mecanismos de apoyo financiero y tecnológico por parte de países desarrollados hacia países en desarrollo entre los que se incluye los Estados Unidos Mexicanos. Estas metas se revisarán cuando se publique la siguiente Estrategia Nacional.
 
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+Asimismo, el país se compromete a reducir de manera no condicionada un veintidós por ciento sus emisiones de gases de efecto invernadero y un cincuenta y uno por ciento sus emisiones de carbono negro al año 2030 con respecto a la línea base. Este compromiso, asumido como Contribución determinada a nivel nacional, implica alcanzar un máximo de las emisiones nacionales al año 2026; y desacoplar las emisiones de gases de efecto invernadero del crecimiento económico, la intensidad de emisiones por unidad de producto interno bruto se reducirá en alrededor de cuarenta por ciento entre 2013 y 2030.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+La reducción del veintidós por ciento de las emisiones de gases de efecto invernadero se conseguirá a través del compromiso de los diferentes sectores participantes, de acuerdo con las metas siguientes: transporte -18 por ciento; generación eléctrica -31 por ciento; residencial y comercial -18 por ciento; petróleo y gas -14 por ciento; industria -5 por ciento; agricultura y ganadería -8 por ciento y residuos -28 por ciento.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+
+Las metas de reducción de emisiones de gases de efecto invernadero y de carbono negro al 2030 se podrán incrementar hasta un treinta y seis por ciento y setenta por ciento respectivamente, de manera condicionada sujeta a la adopción de un acuerdo global que incluya temas tales como un precio al carbono internacional, ajustes a aranceles por contenido de carbono, cooperación técnica, acceso a recursos financieros de bajo costo y a transferencia de tecnología, todo ello a una escala equivalente con el reto del cambio climático global.
+
 Artículo Tercero. Las dependencias y entidades de la administración pública federal centralizada y paraestatal, las Entidades Federativas y los Municipios deberán de implementar las acciones necesarias en Mitigación y Adaptación, de acuerdo a sus atribuciones y competencias para alcanzar las siguientes metas aspiracionales y plazos indicativos:
 
 I. Adaptación:
@@ -1753,3 +1893,23 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO DÉCIMO SEXTO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CAMBIO CLIMÁTICO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Previo a la implementación del sistema de comercio de emisiones señalado en el Artículo 94, se establecerán las bases preliminares para un programa de prueba sin efectos económicos para los sectores participantes, mismo que tendrá una vigencia de treinta y seis meses.
+
+Las bases preliminares del sistema de comercio de emisiones o cualquier otra disposición necesaria para su establecimiento se publicarán en el Diario Oficial de la Federación en un plazo máximo de diez meses a partir de la entrada en vigor del presente Decreto.
+
+Las bases preliminares del sistema de comercio de emisiones se adecuarán durante el programa de prueba de acuerdo a la efectividad y resultados observados durante dicho programa de prueba.
+
+Las bases del sistema deberán reconocer a los sectores participantes las acciones de mitigación contempladas en el artículo 37 de la presente Ley. Asimismo, el sistema de comercio de emisiones deberá reconocer las reducciones de emisiones que se consigan mediante el uso de certificados de energía limpia.
+
+Además, las bases del sistema de comercio de emisiones deberán considerar los sistemas de otros países que representen el menor costo para la implementación de dicho sistema.
+
+En dichas bases se deberán considerar las circunstancias de competitividad de la industria nacional en el contexto global, particularmente en aquellos sectores cuya actividad económica se encuentra expuesta a la competencia internacional, cuidando no se afecte su competitividad. Igualmente, las bases del sistema de comercio de emisiones deberán de tomar en cuenta las experiencias internacionales y regionales en materia de intercambio de créditos, bonos u otros instrumentos mercadeables de reducción de gases de efecto invernadero, como lo son CORSIA, el mercado de carbono regional entre California y Quebec, el Mecanismo de Desarrollo Limpio de la Convención o el Sistema de Comercio de Emisiones de la Unión Europea.
+
+Tercero.- En un plazo máximo de 180 días a partir de la entrada en vigor del presente Decreto, la Secretaría, en coordinación con la Secretaría de Gobernación, el Sistema Nacional de Protección Civil, el Centro Nacional de Prevención de Desastres y el Servicio Meteorológico Nacional, establecerá un sistema de alerta temprana ante la ocurrencia de fenómenos hidrometeorológicos extremos, incluyendo huracanes, lluvias atípicas, olas de calor, olas de frío y sus efectos como inundaciones, deslaves, marea alta, u otros que generan vulnerabilidad en la población, en la infraestructura estratégica y en las actividades productivas del país.
