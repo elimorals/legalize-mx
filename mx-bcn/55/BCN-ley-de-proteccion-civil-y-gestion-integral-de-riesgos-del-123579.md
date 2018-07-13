@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-del-12357
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-08"
-last_updated: "2018-04-20"
+last_updated: "2018-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 8 de septiembre de 2017.
 
@@ -171,19 +171,37 @@ LIV. Tecnologías de la Información y la Comunicación: Todos aquellos recursos
 
 LV. Transversalidad: Estrategia y criterio de gestión enfocado al fortalecimiento de los puntos de contacto entre las diferentes áreas gubernamentales y actores públicos, en función de la satisfacción de una necesidad concreta de la ciudadanía y atendiendo a la complejidad de los problemas sociales, que es también estrategia de organización interna y de operación de los Sistemas Estatal y Municipales de Protección Civil;
 
-LVI. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
 
-LVII. Unidad Interna de Protección Civil: Órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+LVI. Seguridad de Trayecto: Se entiende por el desplazamiento entre puntos o destinos de los habitantes de una localidad, de tal forma que garantice los derechos a la libre circulación, a la seguridad e integridad física de las personas y que asegure a su vez la óptima respuesta de las dependencias de auxilio en caso algún siniestro.
 
-LVIII. Unidades de protección civil: Organismos de la administración pública del Estado y de los Municipios encargados de la organización, coordinación y operación del Sistema Estatal y Nacional, en su demarcación territorial;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
 
-LIX. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+LVII. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
 
-LX. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
 
-LXI. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+LVIII. Unidad Interna de Protección Civil: Órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
 
-LXII. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
+
+LIX. Unidades de protección civil: Organismos de la administración pública del Estado y de los Municipios encargados de la organización, coordinación y operación del Sistema Estatal y Nacional, en su demarcación territorial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
+
+LX. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
+
+LXI. Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
+
+LXII. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
+
+LXIII. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
 ## TÍTULO SEGUNDO. ESTRUCTURA INSTITUCIONAL
 
@@ -543,7 +561,13 @@ XXXIX. En los términos de esta Ley, revisar, autorizar y en su caso supervisar 
 
 XL. Conformar y coordinar equipos de búsqueda y rescate agreste, así como ante las autoridades competentes, gestionar y aplicar fondos para su ejercicio en caso de emergencias con la finalidad de brindar auxilio y apoyo a grupos voluntarios, en las condiciones que establece esta Ley.
 
-XLI. Las demás que señalen los ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
+
+XLI. Inspeccionar en forma periódica los establecimientos para plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo, a fin de verificar si estos han cumplido con los simulacros, programas internos y procedimientos en materia de protección civil, así como si estos cuentan con sistemas de prevención y mitigación de emergencias; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2018)</small>
+
+XLII. Las demás que señalen los ordenamientos aplicables.
 
 ###### Artículo 29.
 
@@ -883,11 +907,11 @@ Es responsabilidad del propietario, responsable legal o titular de dependencia, 
 
 La elaboración y revisión de los programas internos de protección civil se realizará de conformidad con esta ley y las disposiciones reglamentarias correspondientes.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+
 ###### Artículo 68.
 
-Los programas internos de protección civil sólo podrán ser revisados, condicionados y/o aprobados por las unidades de protección civil municipal o la Coordinación Estatal, según corresponda, en términos del presente capítulo.
-
-Todos los programas internos de protección civil deberán estar revisados y aprobados por la unidad de protección civil municipal del municipio donde se encuentre el inmueble o se aplique el servicio.
+Los programas internos de protección civil deberán ser revisados, condicionados y/o aprobados por unidades de protección civil municipal o la Coordinación Estatal, según lo especifique la legislación especial que rija a la dependencia, entidad, institución organismo o sujeto obligado a su presentación o en su defecto, en los términos que disponga el reglamento de esta ley.
 
 ###### Artículo 69.
 
@@ -939,7 +963,9 @@ h) Centros de atención a personas con adicciones;
 
 i) Todo tipo de albergue para personas.
 
-II.- Industrias consideradas como de alto riesgo por las cantidades o volúmenes de materiales peligrosos que manejan, de acuerdo con lo estipulado por las autoridades federales y estatales responsables del ramo, y las que la propia Coordinación Estatal considere, incluyendo los establecimientos de venta de juegos pirotécnicos.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2018)</small>
+
+II.- Industrias consideradas como de alto riesgo por las cantidades o volúmenes de materiales peligrosos que manejan, de acuerdo con lo estipulado por las autoridades federales y estatales responsables del ramo, y las que la propia Coordinación Estatal considere, incluyendo las plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo y los establecimientos de venta de juegos pirotécnicos.
 
 III.- Edificios y servicios considerados prioritarios y estratégicos para otorgar servicios vitales y de gobierno:
 
@@ -967,7 +993,9 @@ k) Aeropuertos civiles;
 
 l) Puertos navales;
 
-m) Almacenes de hidrocarburos;
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2018)</small>
+
+m) Almacenes de hidrocarburos, así como plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo;
 
 n) Estaciones de radio y/o televisión que cuentan con plantas de energía eléctrica autónoma;
 
@@ -1011,6 +1039,10 @@ p) Iglesias, templos y en general establecimientos de culto religioso.
 
 q) Albercas.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2018)</small>
+
+V. Las demás que no se encuentren clasificadas en este artículo y que disponga la legislación aplicable.
+
 ###### Artículo 75.
 
 Toda instalación o servicio deberá contar con el permiso de operaciones del ayuntamiento donde se encuentre desarrollando sus actividades, para tal efecto, la autoridad municipal respectiva, deberá solicitar al interesado o responsable de la instalación, establecimiento o servicio, el programa interno de protección civil debidamente aprobado por la o las autoridades correspondientes según sea el giro de acuerdo al reglamento de la presente Ley.
@@ -1047,11 +1079,55 @@ III. Con una construcción mayor a 3,000 metros cuadrados, o
 
 IV. Donde se realicen actividades que por su naturaleza pongan en peligro la integridad de las personas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2018)</small>
+
+En atención a lo que dispone la fracción IV de este artículo, se considerará como actividades que por su naturaleza representen un peligro a la población, a las instalaciones que lleven a cabo labores de almacenamiento, distribución y comercialización de gas licuado de petróleo, de conformidad al Sistema Estatal de Protección Civil del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2018)</small>
+
+La Coordinación Estatal deberá diseñar los padrones de registro de las instalaciones de gas licuado de petróleo, en los términos del Reglamento.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE JULIO DE 2018)</small>
+
 Todos los casos anteriores serán responsabilidad de la Coordinación Estatal, salvo que exista convenio mediante el cual se cedan las atribuciones a la autoridad municipal correspondiente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE JULIO DE 2018)</small>
 
 El Ejecutivo del Estado y los Municipios inspeccionarán, regularán y vigilarán respectivamente que los inmuebles, espacios e instalaciones móviles a su cargo o de su competencia cumplan con las disposiciones en materia de protección civil, así como aquellos eventos que en el ejercicio de sus atribuciones organicen.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE JULIO DE 2018)</small>
+
 En aquellos eventos con aforo o capacidad de más de 10,000 personas, será responsabilidad exclusiva de la Coordinación Estatal.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+Artículo 80 BIS.- Están prohibidas las acciones de almacenamiento de recipientes transportables de gas licuado de petróleo, en sus diversas capacidades y de consumo en los establecimientos que no cuenten con la autorización de conformidad a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+Artículo 80 TER.- Para mitigar los riesgos de transportación, cada vehículo de auto-tanques de reparto y de distribución de gas licuado de petróleo deberá atender las disposiciones que señale la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+Artículo 80 QUATER.- Las personas físicas o morales que cuenten con la titularidad de algún permiso de distribución de gas licuado de petróleo, tendrán prohibido por sí o a través de su personal, realizar acciones de trasiego en la vía pública, así como también en lugares o instalaciones sin autorización para ello conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2018)</small>
+
+Artículo 80 QUINQUIES.- Quienes operen vehículos de auto-tanques, reparto y distribución de gas licuado de petróleo tienen la obligación de cumplir con las Normas Oficiales Mexicanas y demás normatividad aplicable, y deberán portar en el vehículo los siguientes documentos:
+
+I. Copia del permiso de distribución vigente otorgado por la Secretaría de Energía;
+
+II. Constancia de capacitación personal, expedida por personas, instituciones u organismos reconocidos por la Coordinación Estatal, en los siguientes temas:
+
+a) Manejo de fugas.
+
+b) Manejo y combate de incendios.
+
+c) Primeros auxilios.
+
+III. Póliza de seguro de responsabilidad civil vigente.
+
+IV. Copia del dictamen técnico vigente emitido por la Coordinación Estatal, mismo que deberá ser aprobado por la autoridad federal correspondiente.
 
 ###### Artículo 81.
 
@@ -1345,6 +1421,10 @@ Los fenómenos antropogénicos son en esencia provocados por la actividad humana
 
 Las unidades de protección civil promoverán programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2018)</small>
+
+Las instalaciones de almacenamiento, centros de distribución y estaciones de carburación del rubro de gas licuado de petróleo, están obligadas a contar con póliza de seguro vigente, autorizada por la Comisión Nacional de Seguros y Fianzas, como garantía de daños parciales y totales a terceros o sus bienes, previendo que estas actividades representan por su propia naturaleza un riesgo para la población.
+
 ###### Artículo 130.
 
 Toda emergencia relacionada con materiales o residuos peligrosos será atendida por la Corporación de Bomberos del ayuntamiento donde ocurre.
@@ -1552,3 +1632,17 @@ P.O. 20 DE ABRIL DE 2018.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- La autoridad estatal y municipales previstas por esta Ley, impulsarán a las organizaciones de la sociedad civil para que cumplan con el programa interno de protección civil, brindándoles la asesoría necesaria. Cuando conforme a los estudios socioeconómicos que la autoridad les practique requieran del apoyo para solventar su programa interno de protección civil, la autoridad competente, subsidiariamente les apoyará con los dictámenes que formen parte del Programa.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 236 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 68 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Hasta en tanto entre en vigor la reglamentación a que se (sic) hace referencia el articulo 68 reformado, los programas internos cuya revisión no esté encomendada a esta Ley a una autoridad determinada, deberán ser revisados y aprobados por la unidad de Protección Civil Municipal del domicilio del sujeto obligado o la Coordinación Estatal, según corresponda al orden del Gobierno Municipal o Estatal la competencia para el conocimiento, supervisión, inspección, vigilancia o en su caso, la aplicación de sanciones para la operación de la dependencia, entidad, institución, organismo o sujeto obligado a su presentación.
+
+P.O. 13 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 248 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 10, 12, 117, 140, 150, 200, 240 Y SE ADICIONAN LOS ARTÍCULOS 117 BIS, 150 BIS, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULO (SIC) 2, 60 Y SE ADICIONAN LOS ARTÍCULOS 66 BIS, 66 TER, 66 QUÁTER, 66 QUINQUIES, 66 SEXIES, 66 SEPTIES Y 66 OCTIES, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LOS ARTÍCULOS 2, 28, 74, 80, 129 Y SE ADICIONAN LOS ARTÍCULOS 80 BIS, 80 TER, 80 QUATER Y 80 QUINQUIES, DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
