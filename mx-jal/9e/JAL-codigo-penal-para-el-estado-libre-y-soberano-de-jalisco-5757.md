@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2018-01-25"
+last_updated: "2018-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4197,9 +4197,9 @@ V. Se cometa por medio de la acechanza o aprovechando la falta de vigilancia, la
 
 VI. El objeto del robo sean tubos, conexiones, tapas de registro o cualquier otro implemento de un servicio público u otros que estén bajo la salvaguarda pública;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2018)</small>
 
-VII. Los responsables lleven armas, sin que en el caso hagan uso de ellas;
+VII. Los responsables lleven armas, sin que en el caso hagan uso de ellas, aún cuando las mismas no funcionen o estén descargadas o aseguradas, o cuando utilicen objetos que por sus características tengan la apariencia de ser armas auténticas;
 
 VIII. El objeto, del robo sean postes, alambres y otros materiales de las cercas de los sembradíos y potreros, dejando éstos desprotegidos en todo o en parte; sean bombas, motores, o partes de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería;
 
@@ -6476,3 +6476,9 @@ P.O. 25 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26736/LXI/18 QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO Y LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26841/LXI/18 QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
