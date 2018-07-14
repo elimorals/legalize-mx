@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-austeridad-y-ahorro-del-estado-de-jalisco-y-sus-103743"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-22"
-last_updated: "2016-10-11"
+last_updated: "2018-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2018.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 22 de noviembre de 2014.
 
@@ -233,9 +231,11 @@ Los servidores públicos o elementos operativos que realicen gastos por concepto
 
 Toda persona podrá denunciar ante la autoridad correspondiente, cualquier hecho, acto u omisión que contravenga las disposiciones de la presente Ley. Las autoridades conocedoras de las denuncias deberán turnarlas a las instancias competentes por la naturaleza de que se traten. La autoridad competente está obligada a realizar la investigación, instaurar el procedimiento y, en su caso, sancionar al servidor público o elemento operativo denunciado.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2018)</small>
+
 ###### Artículo 35.
 
-Los servidores públicos o elementos operativos que incumplan con las disposiciones previstas en esta Ley incurrirán en una falta y se les aplicarán las responsabilidades políticas, administrativas o penales, que en su caso procedan, de conformidad con las leyes aplicables.
+El incumplimiento de las disposiciones contenidas en la presente ley será sancionado de conformidad con lo dispuesto por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, independientemente de las posibles responsabilidades de tipo penal en que, en su caso, hubiere incurrido con motivo del desempeño de su función.
 
 ###### Artículo 36.
 
@@ -320,3 +320,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 14 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26840/LXI/18 QUE REFORMA LA LEY DE ENTREGA RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
