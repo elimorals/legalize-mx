@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-entrega-recepcion-del-estado-de-jalisco-y-sus-89711"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-13"
-last_updated: "2012-10-13"
+last_updated: "2018-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 13 de octubre de 2012.
 
@@ -119,9 +119,11 @@ Es obligación de todo servidor público, al inicio del ejercicio de su encargo,
 
 Los servidores públicos tienen la obligación de llevar a cabo el procedimiento de entrega-recepción en un plazo no mayor a cinco días hábiles contados a partir del inicio formal de la función de que se trate, en los supuestos a que se refiere el artículo 6.º de la presente ley.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2018)</small>
+
 ###### Artículo 12.
 
-El servidor público que sin causa justificada dejare de cumplir la obligación de realizar el procedimiento de entrega-recepción será sujeto a las sanciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+El servidor público que sin causa justificada dejare de cumplir la obligación de realizar el procedimiento de entrega-recepción será responsable administrativamente de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Artículo 13.
 
@@ -149,7 +151,9 @@ I. El servidor público titular saliente o a la persona que el superior jerárqu
 
 II. El servidor público titular entrante o la persona que éste designe;
 
-III. Un representante del órgano de control interno del órgano respectivo, y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2018)</small>
+
+III. Un representante del órgano interno de control del organismo o ente respectivo; y
 
 IV. Cuando menos un testigo por cada uno de los servidores públicos obligados.
 
@@ -187,7 +191,9 @@ Los servidores públicos salientes de las entidades a que se refiere el artícul
 
 I. Los recursos humanos a su cargo;
 
-II. Los bienes y recursos materiales a su resguardo;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2018)</small>
+
+II. Los bienes, derechos, recursos y obligaciones a su resguardo;
 
 III. La disposición de recursos financieros al día del acto de entrega-recepción;
 
@@ -211,9 +217,11 @@ Para llevar a cabo la entrega-recepción de las entidades a que se refiere el ar
 
 El acto de entrega-recepción de las entidades y sus dependencias que tengan a su cargo tareas de seguridad, servicios médicos y de emergencia, así como las que por su naturaleza funcionen las veinticuatro horas del día, además de las que determinen las propias entidades a las que se refiere el artículo 1.º de la esta (sic) ley, tendrá que realizarse desde el primer minuto en el que tenga efectos el cambio de administración, sin que en el desarrollo de dicho acto se interrumpan las tareas a las que se refiere el presente artículo.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2018)</small>
+
 ###### Artículo 24.
 
-Antes del acto de entrega-recepción, el órgano de control interno deberá notificar mediante oficio al servidor público saliente y, en su caso, a los entrantes o a la persona que para tal efecto se designe, cuando menos con tres días hábiles de anticipación, del lugar, fecha y hora en que tendrá verificativo dicho acto, pudiendo acompañar los proyectos de acta, así como los anexos que contengan la información relativa a los bienes y documentos que se entregarán.
+Antes del acto de entrega-recepción, el titular del órgano interno de control deberá notificar mediante oficio al servidor público saliente y, en su caso, a los entrantes o a la persona que para tal efecto se designe, cuando menos con tres días hábiles de anticipación, del lugar, fecha y hora en que tendrá verificativo dicho acto, pudiendo acompañar los proyectos de acta, así como los anexos que contengan la información relativa a los bienes y documentos que se entregarán.
 
 ###### Artículo 25.
 
@@ -231,7 +239,9 @@ III. Entidad o dependencia que se entrega;
 
 IV. Nombre y carácter de los servidores públicos entrante y saliente que comparecen al acto o, en su caso, las personas que para el efecto se designen, así como el documento con el que se identifican para el efecto;
 
-V. Nombre del representante del órgano de control interno;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2018)</small>
+
+V. Nombre del representante del órgano interno de control;
 
 VI. Descripción detallada de los bienes, recursos y documentos que se entregan y, en su caso, la referencia clara de anexos si los contiene;
 
@@ -245,15 +255,21 @@ X. Nombre de los testigos, y
 
 XI. Firma al calce y en cada hoja de los que intervinieron.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JULIO DE 2018)</small>
+
+La información a que se refiere el presente artículo, una vez que se encuentre verificada y validada, será considerada información pública de conformidad con las disposiciones en materia de transparencia e información pública.
+
 ###### Artículo 27.
 
 La verificación y validación física del contenido del acta de entrega-recepción y sus anexos a que se refiere la presente ley deberán llevarse a cabo por el servidor público entrante en un término no mayor a treinta días hábiles contados a partir del acto de entrega.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2018)</small>
+
 ###### Artículo 28.
 
-En caso de que durante la validación y verificación el servidor público entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término no mayor de tres días hábiles posteriores al cumplimiento del plazo establecido en el artículo anterior deberá hacerlas del conocimiento del órgano de control interno correspondiente, a fin de que sea requerido el servidor público saliente y proceda a su aclaración.
+En caso de que durante la validación y verificación el servidor público entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término no mayor de tres días hábiles posteriores al cumplimiento del plazo establecido en el artículo anterior deberá hacerlas del conocimiento del órgano interno de control correspondiente, a fin de que sea requerido el servidor público saliente y proceda a su aclaración.
 
-En su caso, el órgano de control interno requerirá al servidor público que corresponda a efecto de que en forma personal o por escrito comparezca, en un plazo no mayor a cinco días a la recepción de la notificación, a manifestar lo que corresponda. En caso de no comparecer dentro del término requerido, se procederá de conformidad con la Ley de Responsabilidades de los Servidores Públicos.
+En su caso, el órgano interno de control requerirá al servidor público que corresponda a efecto de que en forma personal o por escrito comparezca, en un plazo no mayor a cinco días a la recepción de la notificación, a manifestar lo que corresponda. En caso de no comparecer dentro del término requerido, se procederá de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 29.
 
@@ -263,13 +279,17 @@ En la comparecencia establecida en el artículo anterior, el órgano interno de 
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2018)</small>
+
 ###### Artículo 30.
 
-El incumplimiento de las disposiciones contenidas en la presente ley será sancionado, en lo que corresponda, por la autoridad competente de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, independientemente de las posibles responsabilidades de tipo penal o civil en que, en su caso, hubiere incurrido con motivo del desempeño de su función.
+El incumplimiento de las disposiciones contenidas en la presente ley será sancionado, en lo que corresponda, por la autoridad competente de conformidad con lo dispuesto por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y sus municipios, independientemente de las posibles responsabilidades de tipo penal o civil en que, en su caso, hubiere incurrido con motivo del desempeño de su función.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2018)</small>
 
 ###### Artículo 31.
 
-La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Contraloría del Estado de Jalisco, así como de los órganos de control interno que correspondan y las demás aplicables para el caso de los ayuntamientos de los municipios del estado, en el ámbito de sus respectivas competencias.
+La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Contraloría del Estado de Jalisco, así como de los órganos internos de control que correspondan, en el ámbito de sus respectivas competencias.
 
 T R A N S I T O R I O S
 
@@ -314,3 +334,11 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26840/LXI/18 QUE REFORMA LA LEY DE ENTREGA RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
