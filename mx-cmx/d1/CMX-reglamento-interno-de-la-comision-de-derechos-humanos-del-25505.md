@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2017-07-05"
+last_updated: "2018-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,13 @@ issue_date: "2002-06-20"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DE LA "REFORMA AL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL", PUBLICADA EN LA G.O. 14 DE JULIO DE 2016, LAS REFERENCIAS QUE SE HAGAN EN LA NORMATIVA INTERNA A LA CONSULTORÍA GENERAL JURÍDICA, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL JURÍDICA DE ESTA COMISIÓN.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 16 DE JULIO DE 2018.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
-
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DE LA “REFORMA AL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL”, PUBLICADA EN LA G.O. 14 DE JULIO DE 2016, LAS REFERENCIAS QUE SE HAGAN EN LA NORMATIVA INTERNA A LA CONSULTORÍA GENERAL JURÍDICA, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL JURÍDICA DE ESTA COMISIÓN.]</small>
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
@@ -376,13 +376,19 @@ ARTÍCULO 23 TER.- Para la atención de los casos de hostigamiento y acoso de í
 
 I. La Secretaría Ejecutiva, misma que lo presidirá y, por conducto de la Subdirección de Igualdad y Género, fungirá como Secretaría Técnica;
 
-II. La Dirección General Jurídica, por conducto de la Dirección de Asuntos Jurídicos;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2018)</small>
 
-III. La Dirección General de Quejas y Orientación, por conducto de la Dirección de Atención Psicosocial;
+II. La Dirección General Jurídica;
 
-IV. La Coordinación de Vinculación con la Sociedad Civil y de Políticas Públicas, por conducto de la Relatoría por los Derechos de las Mujeres y la Igualdad de Género, y
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2018)</small>
 
-V. La Dirección General de Administración, por conducto de la Dirección de Recursos Humanos y Desarrollo Organizacional.
+III. La Dirección General de Quejas y Orientación;
+
+IV. (DEROGADA, G.O. 16 DE JULIO DE 2018)
+
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2018)</small>
+
+V. La Dirección General de Administración.
 
 El Comité de Igualdad de Género sesionará y funcionará de conformidad con su Reglamento de Operación, el cual señalará sus atribuciones específicas, las de sus integrantes y el procedimiento para la atención de los casos de hostigamiento y acoso laboral y/o sexual.
 
@@ -892,9 +898,9 @@ V. Dirigir la instrumentación e implementación de la Red de Promoción Ciudada
 
 VI. Promover, proteger y supervisar la aplicación de la Convención sobre Derechos de las Personas con Discapacidad, en la Ciudad de México.
 
-> <small>(REFORMADA [ADICIONADA], G.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2018)</small>
 
-VII. Participar en el Comité de Igualdad de Género para la atención de los casos de hostigamiento y acoso laboral y sexual al interior de la Comisión, por conducto de la Relatoría por los Derechos de las Mujeres y la Igualdad de Género;
+VII. Participar en el Comité de Igualdad de Género en su calidad de invitada, por conducto de la Relatoría por los Derechos de las Mujeres y la Igualdad de Género;
 
 VIII. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
@@ -998,9 +1004,9 @@ X. A través de su titular y de la Dirección de Asuntos Jurídicos, expedir y c
 
 XI. Realizar, a través de su personal, las notificaciones que sean necesarias para el ejercicio de sus funciones; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2018)</small>
 
-XII. Participar, por conducto de la Dirección de Asuntos Jurídicos, en el Comité de Igualdad de Género para la atención de los casos de hostigamiento y acoso de índole laboral y sexual al interior de la Comisión, y
+XII. Participar, en el Comité de Igualdad de Género para la atención de los casos de hostigamiento y acoso de índole laboral y sexual al interior de la Comisión, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 5 DE JULIO DE 2017)</small>
 
@@ -1038,13 +1044,13 @@ XIII. Recibir, valorar y sin admitir la instancia, registrar y remitir las incom
 
 XIV. Operar, coordinar, dar seguimiento y evaluar las acciones de atención psicosocial y servicios médicos y psicológicos requeridos por las Visitadurías y las áreas de apoyo de la Comisión, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2018)</small>
 
-XV. Participar, por conducto de la Dirección de Atención Psicosocial, en el Comité de Igualdad de Género para la atención de los casos de hostigamiento y acoso de índole laboral y sexual al interior de la Comisión;
+XV. Participar, en el Comité de Igualdad de Género para la atención de los casos de hostigamiento y acoso de índole laboral y sexual al interior de la Comisión;
 
-> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2018)</small>
 
-XVI. Dirigir la entrevista de las personas afectadas por conductas de acoso u hostigamiento sexual y/o laboral, y
+XVI. Realizar la entrevista a través de personal especializado de las personas afectadas por conductas de acoso u hostigamiento sexual y/o laboral, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 5 DE JULIO DE 2017)</small>
 
@@ -1096,9 +1102,9 @@ X. Resguardar, mantener y administrar el Archivo de Concentración e Histórico 
 
 XI. Despachar la correspondencia concerniente a la atención de quejas, tanto la que deba enviarse a las autoridades como a la parte quejosa, y recabar los correspondientes acuses de recepción;
 
-> <small>(REFORMADA [ADICIONADA], G.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2018)</small>
 
-XII. Participar, por conducto de la Dirección de Recursos Humanos y Desarrollo Organizacional, en el Comité de Igualdad de Género para la atención de los casos de hostigamiento y acoso de índole laboral y sexual al interior de la Comisión;
+XII. Participar en el Comité de Igualdad de Género para la atención de los casos de hostigamiento y acoso de índole laboral y sexual al interior de la Comisión;
 
 XIII. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
@@ -1576,9 +1582,13 @@ I. Asistir con voz y voto a las sesiones del Consejo;
 
 II. Participar en las sesiones del Consejo, en los términos establecidos en el artículo 20 de la Ley, y
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2005)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE JULIO DE 2018)</small>
 
-III. Las demás atribuciones que les confieren la Ley, este Reglamento y el Estatuto del Servicio.
+III. Participar en las sesiones del Comité de Comité de Igualdad de Género de la Comisión de Derechos Humanos del Distrito Federal, en los términos establecidos en el Reglamento de dicho Comité, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 16 DE JULIO DE 2018)</small>
+
+IV. Las demás atribuciones que les confieren la Ley, este Reglamento y el Estatuto del Servicio.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2917,3 +2927,17 @@ PRIMERO. Las presentes reformas al Reglamento Interno de la Comisión de Derecho
 SEGUNDO. Las adecuaciones a la normativa interna deberán presentarse dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor, para su aprobación ante el Consejo de la Comisión.
 
 TERCERO. El Comité de Igualdad de Género podrá empezar a tramitar el procedimiento para la atención de los casos de hostigamiento y acoso laboral y/o sexual seis meses después de la publicación de esta reforma en la Gaceta Oficial de la Ciudad de México. Lo anterior, sin perjuicio de su participación en la campaña de prevención que diseñará y ejecutará dentro de los seis meses siguientes a la publicación del Reglamento de Operación del Comité de Igualdad de Género en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 16 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 9/2018 DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA REFORMAR Y ADICIONAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Las presentes reformas al Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal, aprobadas en sesión ordinaria de fecha diecisiete de abril de dos mil dieciocho, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Las adecuaciones a la normativa interna deberán presentarse dentro del término de ciento ochenta días hábiles posteriores a la entrada en vigor, para su aprobación ante el Consejo de la Comisión.
+
+TERCERO. El Comité de Igualdad de Género realizará la campaña de prevención dentro de los seis meses siguientes a la publicación del Reglamento de Operación del Comité de Igualdad de Género en la Gaceta Oficial de la Ciudad de México.
+
+## TRANSITORIO
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
