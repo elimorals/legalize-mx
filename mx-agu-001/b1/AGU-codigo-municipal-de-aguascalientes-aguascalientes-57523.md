@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2018-05-21"
+last_updated: "2018-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:16 DE JULIO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3848,6 +3848,18 @@ Departamento de Atención a Solicitudes de Información y Datos Personales.
 Departamento de Capacitación y Vinculación Institucional.
 
 Departamento de Evaluación de Transparencia.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 16 DE JULIO DE 2018)</small>
+
+Las ausencias de titulares de dependencias o entidades de la administración pública municipal, respecto a los cuales este Código u otro ordenamiento no establezcan una regulación específica de suplencia, se sujetarán a lo siguiente:
+
+I.- Suplirá la ausencia aquel servidor público que designe el Presidente Municipal.
+
+II.- A falta de designación hecha por el Presidente Municipal, suplirá el servidor público que determine el titular que sea suplido cuando su ausencia no sea definitiva.
+
+III.- Ante la omisión de las designaciones referidas en las fracciones anteriores, la ausencia será suplida por aquel servidor público que le siga en jerarquía al titular de que se trate. En caso de que existan dos o más servidores públicos de igual jerarquía inmediata inferior, se atenderá al orden en que son mencionados en cada una de las fracciones del párrafo anterior.
+
+IV.- El servidor público que supla la ausencia, tendrá a su cargo las atribuciones y obligaciones que le corresponden al titular.
 
 ### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
@@ -27673,11 +27685,17 @@ SEGUNDO.- La Secretaría de Finanzas y la Secretaría de Administración; llevar
 
 P.O. 21 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIOS DE LA "REFORMA A LOS ARTÍCULOS 98, PÁRRAFO CUARTO EN SU FRACCIÓN IX, 107 FRACCIÓN XVIII Y SE LE ADICIONA UNA FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; APROBACIÓN DEL REGLAMENTO DE LA UNIDAD DE DERECHOS HUMANOS DEL MUNICIPIO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 98, PÁRRAFO CUARTO EN SU FRACCIÓN IX, 107 FRACCIÓN XVIII Y SE LE ADICIONA UNA FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; APROBACIÓN DEL REGLAMENTO DE LA UNIDAD DE DERECHOS HUMANOS DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 PRIMERO.- La presente reforma y expedición de Reglamento, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La elección de la persona que ocupará por primera vez el cargo de Titular de la Unidad de Derechos Humanos del Municipio de Aguascalientes, deberá realizarse dentro de los sesenta días contados a partir de la fecha de entrada en vigor de las presentes reformas y del Reglamento que se expide.
+
+P.O. 16 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA "ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
