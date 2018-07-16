@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-de-la-comision-estatal-de-arbitraje-20255"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-15"
-last_updated: "2014-12-22"
+last_updated: "2018-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 16 DE JULIO DE 2018, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 15 de enero de 2001.
 
@@ -626,3 +628,31 @@ P.O. 22 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Comisión Estatal de Arbitraje Médico, publicado el día 15 de enero de 2001 en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al presente Reglamento Interno.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena inscribir el presente Reglamento Interno de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes, en el Registro Público de la Propiedad y del Comercio en el Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable a la referida Comisión Estatal, con motivo de la entrada en vigor del presente Reglamento Interno.
+
+###### ARTÍCULO SEXTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contrataría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes deberá emitir sus Lineamientos con apego a los expedidos por la Contrataría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
