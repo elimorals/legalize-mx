@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-sobre-el-uso-de-medios-electronicos-y-firma-41891"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-30"
-last_updated: "2008-09-12"
+last_updated: "2018-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA EN EL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA EN EL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
+REGLAMENTO SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA EN EL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2018.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 30 de noviembre de 2004.
 
@@ -57,9 +57,13 @@ III.- Ley.- La Ley sobre el Uso de Medios Electrónicos y Firma Electrónica par
 
 IV.- Reglamento.- El Reglamento sobre el Uso de Medios Electrónicos y Firma Electrónica en el Poder Ejecutivo del Estado de Guanajuato;
 
-V.- Secretaría.- La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2018)</small>
 
-VI.- Autoridad Certificadora.- La Secretaría de Finanzas y Administración por conducto de la Unidad de Medios Electrónicos y Firma Electrónica, que le está adscrita;
+V.- Secretaría.- La Secretaría de Finanzas, Inversión y Administración;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2018)</small>
+
+VI.- Autoridad Certificadora.- La Secretaría de Finanzas, Inversión y Administración, por conducto de la Coordinación de Firma electrónica, Normas y Procedimientos, que le está adscrita;
 
 VII.- Acreditación.- El documento que contiene la autorización de la autoridad certificadora, una vez que el prestador de servicios de certificación le demuestra que cuenta con las instalaciones, sistemas, programas informáticos y los recursos humanos necesarios para otorgar los certificados en los términos que se establecen en la Ley y el Reglamento, permitiendo su inscripción en el Registro de Prestadores de Servicios de Certificación;
 
@@ -111,11 +115,11 @@ Se requerirá la conformidad del particular, para recibir actuaciones electróni
 
 En caso de que el particular haga uso de los medios electrónicos y la firma electrónica en el inicio de un procedimiento público, se entenderá que acepta desarrollarlo por dichos medios.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2018)</small>
 
 ###### Artículo 9o.
 
-La Secretaría, por conducto de la Unidad de Medios Electrónicos y Firma Electrónica, emitirá las prácticas de certificación y políticas a fin de que los interesados puedan efectuar promociones electrónicas mediante el uso de medios electrónicos y firma electrónica.
+La Secretaría, por conducto de la Coordinación de Firma electrónica, Normas y Procedimientos, emitirá las prácticas de certificación y políticas a fin de que los interesados puedan efectuar promociones electrónicas mediante el uso de medios electrónicos y firma electrónica.
 
 ###### Artículo 10.
 
@@ -159,7 +163,9 @@ Deberán presentarse en forma impresa las solicitudes a las que se acompañen do
 
 Las dependencias y entidades que efectúen actuaciones y promociones electrónicas, deberán contar con un archivo electrónico para su resguardo una vez que se haya finalizado el trámite o procedimiento correspondiente.
 
-El archivo electrónico deberá garantizar que se respeten los criterios específicos en materia de clasificación y conservación de documentos, así como de la organización de archivos, contenidos en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2018)</small>
+
+El archivo electrónico deberá garantizar que se respeten los criterios específicos en materia de clasificación y conservación de documentos, así como de la organización de archivos, contenidos en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato, la Ley de Archivos Generales del Estado y los Municipios de Guanajuato y demás disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -181,9 +187,11 @@ Los documentos electrónicos suscritos por medio de firma electrónica certifica
 
 ### CAPÍTULO CUARTO. DE LA AUTORIDAD CERTIFICADORA
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2018)</small>
+
 ###### Artículo 19.
 
-La Secretaría es la autoridad que de acuerdo a la Ley y el Reglamento fungirá como autoridad certificadora en el ámbito de su competencia y ejercerá las atribuciones correspondientes por conducto de la Unidad de Medios Electrónicos y Firma Electrónica.
+La Secretaría es la autoridad que de acuerdo a la Ley y el Reglamento fungirá como autoridad certificadora en el ámbito de su competencia y ejercerá las atribuciones correspondientes por conducto de la Coordinación de Firma electrónica, Normas y Procedimientos.
 
 ###### Artículo 20.
 
@@ -201,7 +209,9 @@ V.- Establecer un Registro de Prestadores de Servicios de Certificación;
 
 VI.- Inscribir en el Registro de Certificados de Firma Electrónica, la fecha y hora en la que se expidió o en su caso, se dejó sin efectos el Certificado de Firma Electrónica;
 
-VII.- Desarrollar, en coordinación con la Secretaría de la Gestión Pública, un programa de calidad para la mejora continua del uso de medios electrónicos y firma electrónica en las dependencias y entidades;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2018)</small>
+
+VII.- Desarrollar, en coordinación con la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, un programa de calidad para la mejora continua del uso de medios electrónicos y firma electrónica en las dependencias y entidades;
 
 VIII.- Elaborar planes de seguridad y de contingencia, por el uso de medios electrónicos y firma electrónica por parte de los usuarios;
 
@@ -472,3 +482,47 @@ JOSE LUIS MARIO Y MAYA MEDRANO
 P.O. 12 DE SEPTIEMBRE DE 2008.
 
 Artículo Único.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 230, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN, CONTENIDO EN EL DECRETO GUBERNATIVO NÚMERO 216, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 120, TERCERA PARTE, EL 27 DE JULIO DE 2012; Y SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO SOBRE EL USO DE MEDIOS Y FIRMA ELECTRÓNICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO, CONTENIDO EN EL DECRETO GUBERNATIVO NÚMERO 205, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 192, SEGUNDA PARTE, EL 30 DE NOVIEMBRE DE 2004”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Referencia a nuevas denominaciones de unidades administrativas
+
+Artículo Segundo. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderán hechas a su nueva denominación:
+
+Unidades administrativas conforme al Unidades administrativas conforme a las
+
+Reglamento Interior previo al inicio de presentes modificaciones al Reglamento
+
+vigencia del presente Decreto
+
+Dirección de Programación y Dirección de Regulación
+
+Regulación Presupuestal Presupuestal;
+
+Dirección de Control de la Dirección de Control Presupuestal
+
+Inversión Pública
+
+Dirección Análisis, Evaluación Dirección de Evaluación, Gestión y
+
+de Proyectos de Inversión y Seguimiento de Recursos Federales
+
+Gestión de Recursos Federales
+
+Dirección de Gestión del Talento Dirección del Servicio Civil de
+
+Humano Carrera
+
+Unidad de Medios Electrónicos y Coordinación de Firma electrónica,
+
+Firma Electrónica Normas y Procedimientos
+
+Asuntos en trámite
+
+Artículo Tercero. Los asuntos que se encuentren en trámite ante las unidades administrativas de la Secretaría que cambian su denominación, serán atendidos hasta su culminación por las nuevas unidades administrativas, de conformidad con lo dispuesto en el artículo anterior.
