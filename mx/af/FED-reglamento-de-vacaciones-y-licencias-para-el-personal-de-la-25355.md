@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-vacaciones-y-licencias-para-el-personal-de-la-253
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-17"
-last_updated: "2014-08-25"
+last_updated: "2018-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-15"
 
 REGLAMENTO DE VACACIONES Y LICENCIAS PARA EL PERSONAL DE LA ARMADA DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2018.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 17 de julio de 2002.
 
@@ -43,37 +43,49 @@ Se expide el Reglamento de Vacaciones y Licencias para el Personal de la Armada 
 
 El presente reglamento tiene por objeto establecer los lineamientos a que se sujetará el personal de la Armada de México para el otorgamiento de vacaciones y licencias.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
 
 ###### Artículo 2.
 
 Para efectos del presente Reglamento se entenderá por:
 
-I.- Certificado de Vacaciones y Licencias: El documento expedido por el Detall o la Coordinación Administrativa y firmado por el Mando o titular de la unidad o establecimiento correspondiente, en el que se hace constar la cantidad de días de vacaciones o Licencias que el personal naval disfrutó durante el año calendario en el que es expedido;
+I. Certificado de Vacaciones, Licencias y Operatividad: El documento expedido por el Detall o la Coordinación Administrativa y firmado por el Mando o titular de la unidad o establecimiento naval correspondiente, en el que se hace constar la cantidad de días de Vacaciones y Licencias que el personal naval disfrutó durante el año calendario en el que es expedido, así como los días de Operatividad computados en el Semestre para otorgar la Licencia ordinaria correspondiente;
 
-II.- Detall o la Coordinación Administrativa: a las áreas adscritas en cada unidad o establecimiento naval que se encargan de la estadística, trámite administrativo y control de libros y libretas;
+II. Detall o Coordinación Administrativa: A las áreas adscritas en cada unidad o establecimiento naval autorizada en términos de las disposiciones jurídicas aplicables para expedir, entre otros documentos, los Oficios de Vacaciones, y Licencias y el Certificado de Vacaciones, Licencias y Operatividad;
 
-III.- Días de Traslado: El tiempo concedido al personal naval para moverse desde el punto donde se le autorizan sus vacaciones hasta el lugar donde las disfrutará y su retorno;
+III. Días de Destaque: Son los días en que el personal naval permanece fuera de su puerto base, a fin de cumplir con una Orden de Operaciones;
 
-IV.- Licencia: La autorización que se concede al personal naval para que pueda ausentarse temporalmente o de manera ilimitada del servicio que presta a la Armada de México;
+IV. Días Hábiles: De lunes a viernes, sin considerar sábados, domingos y días festivos señalados por el calendario oficial;
 
-V.- Oficio de Licencia: El documento expedido por el Detall o la Coordinación Administrativa y firmado por el Mando o titular de la unidad o establecimiento correspondiente, mediante el cual se autoriza al personal naval, el uso de Licencias en sus distintas modalidades.
+V. Días Naturales: Todos los días del año;
+
+VI. Licencia: La autorización que se concede al personal naval para que pueda ausentarse temporalmente o de manera ilimitada del servicio que presta a la Armada de México;
+
+VII. Oficio de Licencia: El documento expedido por el Detall o la Coordinación Administrativa y firmado por el Mando o titular de la unidad o establecimiento naval correspondiente, mediante el cual se autoriza al personal naval, el uso de Licencias en sus distintas modalidades.
 
 En el Oficio de Licencia se anotará el tiempo autorizado y la fecha en que empiece a surtir efecto la Licencia otorgada, así como la obligación del personal naval de proporcionar un medio de comunicación para su localización;
 
-VI.- Oficio de Vacaciones: El documento expedido por el Detall o la Coordinación Administrativa y firmado por el Mando o titular de la unidad o establecimiento correspondiente, mediante el cual se autoriza al personal naval disfrutar de vacaciones y deberá señalar las fechas de inicio, término y lugar o lugares en que disfrutará el citado beneficio, así como la obligación del personal naval de proporcionar un medio de comunicación para su localización;
+VIII. Oficio de Vacaciones: El documento expedido por el Detall o la Coordinación Administrativa y firmado por el Mando o titular de la unidad o establecimiento naval correspondiente, mediante el cual se autoriza al personal naval disfrutar de vacaciones y deberá señalar las fechas de inicio, término y lugar o lugares en que disfrutará el citado beneficio, así como la obligación del personal naval de proporcionar un medio de comunicación para su localización;
 
-VII.- Personal Administrativo: El que presta sus servicios en unidades y establecimientos distintos a los señalados en la fracción IX del presente artículo;
+IX. Operatividad: Es el tiempo en que el personal naval se encuentra realizando sus funciones en unidades operativas a que se refiere el artículo 20 de la Ley Orgánica de la Armada de México para el cumplimiento de las Órdenes de Operaciones, a través de Singladuras, Días de Destaque, horas de vuelo y horas de inmersión. Para estos efectos, la comprobación, cómputo y certificación de dicho tiempo será con base en las directivas que para tal efecto emita el Jefe del Estado Mayor General de la Armada por acuerdo del Secretario de Marina y no podrán ser acumulables de un Semestre a otro;
 
-VIII.- Personal Comisionado: El personal que se encuentra prestando temporalmente sus servicios en una unidad o establecimiento naval, distinto al que se encuentra adscrito, así como en otra dependencia o institución federal, estatal, municipal o en el extranjero, y
+X. Orden de Operaciones: Son aquellas que ejecuta el personal naval para el cumplimiento de la misión y atribuciones de la Armada de México;
 
-IX.- Personal Operativo: El que se encuentra adscrito o comisionado en las unidades operativas de la Armada de México.
+XI. Personal Administrativo: El que presta sus servicios en unidades y establecimientos distintos a los señalados en la fracción XIII del presente artículo;
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+XII. Personal Comisionado: Al personal naval que se encuentra prestando temporalmente sus servicios en una unidad o establecimiento naval, distinto al que se encuentra adscrito, así como en otra dependencia o institución federal, estatal, municipal o en el extranjero;
+
+XIII. Personal Operativo: Al personal naval que se encuentra adscrito o comisionado en las unidades operativas a que se refiere el artículo 20 de la Ley Orgánica de la Armada de México;
+
+XIV. Semestre: Del 1 de enero al 30 de junio, o del 1 de julio al 31 de diciembre, según corresponda, y
+
+XV. Singladura: Tiempo de navegación efectuada en un mismo día, por el personal naval en las unidades de superficie.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
 
 ###### Artículo 3.
 
-Cuando el personal naval cambie de adscripción se le expedirá un Certificado de Vacaciones y Licencias, para hacer constar si han disfrutado de ellas, a fin de que en su nueva unidad o establecimiento se le otorguen, si fuera el caso.
+Cuando el personal naval cambie de adscripción se le expedirá un Certificado de Vacaciones, Licencias y Operatividad, que haga constar los días de vacaciones y Licencias otorgados y, en su caso, la Operatividad del Semestre en curso, a fin de que en su nueva unidad o establecimiento se le otorguen vacaciones y Licencias, inclusive la Licencia Ordinaria por Operatividad, si corresponde.
 
 ###### Artículo 4.
 
@@ -119,19 +131,29 @@ D. 23 días por 30 a 34 años, y
 
 E. 24 días por 35 o más años;
 
-II.- El Personal Operativo tendrá derecho a 10 días de vacaciones adicionales a los que les corresponda en términos de la fracción anterior y de conformidad con el artículo 7 del presente Reglamento;
+II. (DEROGADA, D.O.F. 17 DE JULIO DE 2018)
 
-III.- El Personal Administrativo que sea comisionado en unidades operativas de la Armada de México, con la finalidad de cumplir el desarrollo de órdenes de operaciones, tendrá derecho a 5 días de vacaciones adicionales en un semestre al acumular 2 meses de operatividad como mínimo en el mismo periodo, y
+III. (DEROGADA, D.O.F. 17 DE JULIO DE 2018)
 
-IV.- El personal naval que cause alta en el servicio activo de la Armada de México, al cumplir 6 meses y menos de un año, podrá disfrutar de 10 días de vacaciones y al cumplir el año disfrutará de otros 10 días de vacaciones, de acuerdo al inciso A de la fracción I de este artículo.
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+IV. El personal naval que cause alta en el servicio activo de la Armada de México, al cumplir 6 meses y menos de un año, podrá disfrutar de 10 días de vacaciones y al cumplir el año disfrutará de otros 10 días de vacaciones, de acuerdo al inciso A de la fracción I de este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2018)</small>
+
+V. Para el personal naval que inicie sus vacaciones en el mes de diciembre, se podrá considerar, dentro del cómputo de éstas, hasta los primeros días de enero del siguiente año, sin exceder del día quince de dicho mes.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
 
 ###### Artículo 9.
 
-Para determinar los días de vacaciones se consideran como días hábiles de lunes a sábado, sin tomar en cuenta domingos y días festivos señalados por el calendario oficial ni los Días de Traslado, de conformidad con las directivas emitidas para tal fin.
+Para el cómputo de los días de vacaciones se consideran únicamente los Días Hábiles.
 
-En caso de que el periodo vacacional inicie o termine después o antes de un domingo o día festivo, éstos no se contarán dentro de los días efectivos de vacaciones o Días de Traslado.
+Las vacaciones del personal naval iniciarán y finalizarán en Día Hábil.
+
+Cuando las vacaciones inicien en lunes, se autorizará que éstas comiencen a partir de que concluya el Día Hábil anterior.
+
+Asimismo, cuando las vacaciones del personal naval finalicen en viernes, se presentará a su unidad o establecimiento hasta el Día Hábil siguiente.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
@@ -221,7 +243,9 @@ II.- De 16 días hasta por 6 meses será concedida por la Oficialía Mayor, a tr
 
 Podrá concederse un mes por cada dos años de servicios; al acumular un total de seis meses no volverá a autorizarse;
 
-III.- Para contraer matrimonio, será autorizada por los servidores públicos mencionados en la fracción I de este artículo, sin perjuicio de los derechos establecidos en las fracciones anteriores, conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 17 DE JULIO DE 2018)</small>
+
+III.- Para contraer matrimonio ante la autoridad del Registro Civil, será autorizada por los servidores públicos mencionados en la fracción I de este artículo, sin perjuicio de los derechos establecidos en las fracciones anteriores, conforme a lo siguiente:
 
 A. Para el personal de Almirantes, Capitanes y Oficiales de la milicia permanente 15 días;
 
@@ -233,13 +257,39 @@ D. Para el personal contemplado en el inciso anterior que tenga menos de 2 años
 
 IV.- El personal naval femenino tendrá derecho a disfrutar de un mes anterior a la fecha probable del parto que se fijará de acuerdo con la consulta prenatal, y de dos meses posteriores al mismo para la atención del infante, sin perjuicio de los derechos establecidos en las fracciones anteriores. Esta Licencia podrá disfrutarse en donde la interesada lo solicite para lo cual se preverá lo necesario.
 
-Este supuesto será autorizado por los servidores públicos mencionados en la fracción I de este artículo, y
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
+
+Este supuesto será autorizado por los servidores públicos mencionados en la fracción I de este artículo;
 
 V.- El personal naval masculino tendrá derecho a disfrutar de diez días hábiles con el fin de apoyar y acompañar a su cónyuge o concubina con motivo de la fecha probable del parto, sin perjuicio de los derechos establecidos en las fracciones anteriores.
 
-Este supuesto será autorizado por los servidores públicos mencionados en la fracción I de este artículo.
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
 
-Al término de las Licencias citadas en el presente artículo los interesados deberán presentar la documentación comprobatoria.
+Este supuesto será autorizado por los servidores públicos mencionados en la fracción I de este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2018)</small>
+
+VI.- Al personal naval, sin perjuicio de los derechos establecidos en las fracciones anteriores, se le podrá conceder cinco Días Naturales por Semestre a quien acredite un mínimo de Operatividad en el Semestre anterior al que solicita esta Licencia, de acuerdo con lo siguiente:
+
+A. Sesenta Singladuras;
+
+B. Días de Destaque:
+
+1. Sesenta Días Naturales fuera de plaza, siempre y cuando no goce de franquicia, y
+
+2. Noventa Días Naturales fuera de plaza, cuando se encuentre sujeto a rutina normal de labores, y
+
+C. Noventa horas de vuelo o de inmersión.
+
+El tiempo de Operatividad previsto en los incisos del párrafo anterior no será acumulable para el siguiente Semestre y podrá otorgarse de manera individual o acumularse con los días de vacaciones que le correspondan.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
+
+Al término de las Licencias a que se refieren las fracciones III, IV y V de este artículo, el personal naval, en un plazo no mayor a diez Días Hábiles, deberá entregar al Mando o titular de la unidad o establecimiento naval al que se encuentra adscrito, la documentación jurídica que acredita los supuestos previstos en dichas fracciones.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2018)</small>
+
+Los días que se conceden para las Licencias previstas en este artículo se computarán en Días Naturales, con excepción de la Licencia a que se refiere la fracción V del primer párrafo, los cuales serán en Días Hábiles.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
@@ -340,3 +390,19 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 25 DE AGOSTO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE VACACIONES Y LICENCIAS PARA EL PERSONAL DE LA ARMADA DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación correspondiente, por lo que no se requerirán de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+###### ARTÍCULO TERCERO.
+
+El personal naval que previo a la entrada en vigor del presente Decreto cumplió o está cumpliendo con su Operatividad, tendrá derecho a disfrutar de la Licencia correspondiente, en términos del artículo 19, fracción VI del presente Decreto.
