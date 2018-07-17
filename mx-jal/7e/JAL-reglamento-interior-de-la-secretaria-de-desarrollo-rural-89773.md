@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-desarrollo-rural-89773"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-18"
-last_updated: "2012-10-18"
+last_updated: "2018-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO RURAL, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 18 de octubre de 2012.
 
 Emilio González Márquez, Gobernador Constitucional del Estado de Jalisco, con fundamento en lo dispuesto en los artículos 36, 46 y 50 fracciones VIII y XXVI de la Constitución Política; 1, 2, 3, 5, 6, 8, 12, 19 fracción II, 21 y 22 fracciones I, XVIII y XXIV de la Ley Orgánica del Poder Ejecutivo, ambos ordenamientos del Estado de Jalisco; y con base en los siguientes
 
-CONSIDERANDOS.
+CONSIDERANDOS
+
+[...]
 
 En virtud de lo anteriormente expuesto y fundado, tengo a bien emitir el siguiente:
 
@@ -893,7 +897,7 @@ La Dirección General de Comercialización tendrá las siguientes atribuciones:
 
 I. Promover la generación de oportunidades de mayores ingresos para el productor rural;
 
-lI. Planear y ejecutar los apoyos, servicios y políticas relativos a la comercialización de productos del sector rural de Jalisco;
+II. Planear y ejecutar los apoyos, servicios y políticas relativos a la comercialización de productos del sector rural de Jalisco;
 
 III. Coordinar la política de comercialización para el Estado de Jalisco, con los organismos e instituciones de los sectores público y privado;
 
@@ -1218,3 +1222,15 @@ Secretario General de Gobierno
 Secretario de Desarrollo Rural
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 026/2018 QUE EXPIDE EL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO RURAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Rural publicado el 18 de octubre de 2012.
+
+TERCERO. Hasta en tanto se crea el Órgano Interno de Control de la Secretaría de Desarrollo Rural, el Titular de la Dependencia deberá nombrar las áreas y funcionarios públicos que asumirán la competencia de Autoridad Investigadora, Autoridad Substanciadora y en su caso de Autoridad Resolutora, subsistiendo para tal efecto las designaciones realizadas mediante Acuerdo del Secretario de Desarrollo Rural publicado en el Periódico Oficial "El Estado de Jalisco" el 14 de junio de 2018 sección II.
