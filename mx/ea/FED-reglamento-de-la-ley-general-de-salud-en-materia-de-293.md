@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-293"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-14"
-last_updated: "2016-12-19"
+last_updated: "2018-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1986-04-29"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PRESTACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2018.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -91,7 +91,9 @@ I.- ATENCIÓN MÉDICA.- El conjunto de servicios que se proporcionan al usuario 
 
 II.- DEMANDANTE.- Toda aquella persona que para sí o para otro, solicite la prestación de servicios de atención médica;
 
-III.- ESTABLECIMIENTO PARA LA ATENCIÓN MÉDICA.- Todo aquel, público, social o privado, fijo o móvil cualquiera que sea su denominación, que preste servicios de atención médica, ya sea ambulatoria o para internamiento de enfermos, excepto consultorios;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2018)</small>
+
+III.- ESTABLECIMIENTO PARA LA ATENCIÓN MÉDICA.- Todo aquél, público, social o privado, fijo o móvil, cualquiera que sea su denominación, que preste servicios de atención médica, ya sea ambulatoria o para internamiento de enfermos;
 
 IV.- PACIENTE AMBULATORIO.- Todo aquel usuario de servicios de atención médica que no necesite hospitalización;
 
@@ -445,11 +447,13 @@ V.- Instalaciones sanitarias adecuadas, y
 
 VI.- Las demás que fijen las normas oficiales mexicanas.
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 60.
 
-Los consultorios deberán contar con el equipo e instrumental señalados en las normas oficiales mexicanas que emita la Secretaría, tanto para medicina general como para las distintas especialidades médicas, asimismo, el responsable en la solicitud, deberá señalar las actividades que se realizarán en el consultorio.
+Los consultorios deberán contar con el equipo, mobiliario e instrumental señalados en las normas oficiales mexicanas que emita la Secretaría, en materia de establecimientos que brindan servicios de atención médica a pacientes ambulatorios.
+
+El responsable del consultorio al presentar los avisos correspondientes, deberá señalar las actividades que se realizarán en el mismo.
 
 ###### ARTICULO 61.
 
@@ -467,9 +471,25 @@ En los consultorios se deberá llevar un registro diario de pacientes en la form
 
 Los consultorios deberán contar con un botiquín de urgencia con los insumos que establezcan las normas oficiales mexicanas que emita la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 64.
 
-Las recetas médicas expedidas a usuarios deberán tener el nombre del médico, el nombre de la institución que les hubiere expedido el título profesional, el número de la cédula profesional emitido por las autoridades educativas competentes, el domicilio del establecimiento y la fecha de su expedición.
+Las recetas expedidas a Usuarios deberán contener lo siguiente:
+
+I. El nombre del profesional de la salud o, en su caso, el del pasante responsable de la prescripción;
+
+II. El nombre de la institución que les hubiere expedido el título profesional, la profesión o pasantía de que se trate;
+
+III. El número de la cédula profesional o de autorización provisional para ejercer como pasante, otorgada por la autoridad educativa competente;
+
+IV. El domicilio del Establecimiento para la Atención Médica;
+
+V. La fecha de su expedición, y
+
+VI. La firma autógrafa o, en caso de contar con medios tecnológicos, firma digital o electrónica de quien la expide.
+
+Asimismo, las recetas a que se refiere este artículo deberán ajustarse a las demás especificaciones que se determinen en las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 65.
 
@@ -479,9 +499,13 @@ Las recetas expedidas por especialistas de la medicina, además de lo mencionado
 
 Para el funcionamiento de todo consultorio especializado se requerirá en cada caso, de por lo menos, un profesional de la salud con especialidad en el área de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2018)</small>
+
+Tratándose de consultorios dedicados a actividades profesionales, a que se refiere el artículo 79 de la Ley, distintas de la medicina y sus especialidades, se requerirá al menos de un profesional de la salud con formación específica, en el área correspondiente.
+
 ###### ARTICULO 67.
 
-En los consultorios de optometría, únicamente se podrán efectuar exámenes para medir la refracción del ojo y adaptaciones de prótesis, lentes y ayudas funcionales.
+(DEROGADO, D.O.F. 17 DE JULIO DE 2018)
 
 > <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
 
@@ -2354,3 +2378,9 @@ SEGUNDO. La Secretaría de Salud emitirá los lineamientos, así como los criter
 TERCERO. Las entidades paraestatales de la Administración Pública Federal que presten servicios de atención médica que incluyan dentro de su capacidad resolutiva las urgencias obstétricas, contarán con un plazo de noventa días hábiles a partir de la entrada en vigor del presente Decreto, para formalizar los instrumentos jurídicos a que se refiere el artículo 115 Bis 5, fracción IV de este ordenamiento, en el cual se incluirá una cláusula que permita la adhesión de instituciones públicas prestadoras de servicios de atención médica de las entidades federativas.
 
 En tanto se suscriben los instrumentos jurídicos señalados en el párrafo anterior, continuarán aplicándose las tarifas estipuladas en el Convenio General de Colaboración suscrito el 28 de mayo de 2009, por la Secretaría de Salud, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al cual se adhirieron las entidades federativas por conducto de los titulares de los servicios estatales de salud y diversas instituciones prestadoras de servicios médicos.
+
+D.O.F. 17 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PRESTACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
