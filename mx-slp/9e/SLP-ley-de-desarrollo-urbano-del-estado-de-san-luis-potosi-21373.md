@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2018-02-20"
+last_updated: "2018-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 17 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2018 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -4228,3 +4230,61 @@ P.O. 20 DE FEBRERO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1017.- LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Desarrollo Urbano del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 7 de octubre del año 2000; además, se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+
+TERCERO. El Congreso del Estado deberá armonizar las leyes estatales relacionadas con las materias que regula la presente Ley, entre otros, la Ley Ambiental del Estado de San Luis Potosí; la Ley de Transporte Público del Estado de San Luis Potosí; la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí; la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí; el Código Penal del Estado de San Luis Potosí, y demás que resulten necesarias, dentro del año siguiente a la entrada en vigor de este Decreto.
+
+CUARTO. Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, los ayuntamientos deberán adecuar todas las disposiciones reglamentarias relacionadas con los contenidos de este Decreto; aquellos con una población de cuarenta mil habitantes o más, deberán de expedirlos dentro de los ciento ochenta días siguientes a la entrada en vigor de este Ordenamiento.
+
+La Secretaría deberá asesorar a los ayuntamientos en la elaboración de sus reglamentos, cuando éstos así lo soliciten, y emitirá su opinión sobre los anteproyectos que se le presenten.
+
+QUINTO. Los Municipios del Estado que no cuenten con reglamentos de construcción, aplicarán en tanto los expiden, las disposiciones de esta Ley y el Reglamento de Construcción del Municipio de la región de Estado a la cual pertenecen, de acuerdo a lo siguiente:
+
+I. Los municipios de la región Centro podrán utilizar el de San Luis Potosí, Soledad de Graciano Sánchez, Mexquitic de Carmona o Villa de Reyes;
+
+II. Los municipios de la región Altiplano podrán utilizar el de Matehuala;
+
+III. Los municipios de la región Media podrán utilizar el de Rioverde o Ciudad Fernández, y
+
+IV. Los municipios de la región Huasteca podrán utilizar el de Ciudad Valles, Tamazunchale, Aquismón, Ébano o Xilitla.
+
+Para su aplicación, los municipios que adopten el Reglamento de Construcción de otro municipio conforme a lo anterior, deberán hacerlo por acuerdo formal de Cabildo y remitir dicho acuerdo para su publicación en el Periódico Oficial del Estado, “Plan de San Luis”, debiendo determinar en el mismo su entrada en vigor.
+
+SEXTO. En tanto no se expidan los reglamentos, acuerdos y demás disposiciones administrativas correspondientes, continuarán aplicándose, en lo que no se oponga a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor del presente Decreto.
+
+SÉPTIMO. Dentro del término que señala el Transitorio Quinto de la Ley General, el Estado y los Municipios deberán formular o adecuar sus respectivos programas de Ordenamiento Territorial y Desarrollo Urbano y los demás que establece este Ordenamiento, incluyendo todos los nuevos instrumentos de gestión, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en esta Ley.
+
+En tanto, o vencido dicho término, los municipios que no cuenten con los Programas Municipales de Ordenamiento Territorial y Programas de Centros de Población actualizados conforme a las disposiciones de esta Ley, deberán aplicar las disposiciones de la misma, y dichos programas sólo continuarán aplicándose en lo que no contravengan a este Ordenamiento.
+
+El Instituto Registral y Catastral del Estado estará a lo señalado en los artículos 93, 117 y 508 de la presente Ley, una vez que sean adecuados los programas mencionados en el párrafo anterior.
+
+OCTAVO. Los programas de ordenamiento territorial y desarrollo urbano estatal y municipales, así como los que de ellos deriven, que se encuentren en proceso de autorización a la entrada en vigor de la presente Ley, deberán actualizarse conforme a las disposiciones de este Ordenamiento, reponiéndose en su caso el proceso, así como someterse al proceso de consulta ciudadana, estando obligados a hacer públicos en términos de lo dispuesto en esta Ley, el total de los documentos que los comprendan.
+
+NOVENO. Dentro de los seis meses siguientes a la entrada en vigor de este Decreto, la Secretaría en coordinación con el Instituto Registral y Catastral del Estado, creará e iniciará las operaciones del Sistema de Información Territorial y Urbano de acuerdo a los artículos 431 y 432 de la Ley que se expide.
+
+DÉCIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para la Secretaría, se cubrirán con cargo a su presupuesto para el ejercicio fiscal 2018 y los subsecuentes.
+
+El Gobierno del Estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en el presente Decreto; al efecto, se faculta al Ejecutivo del Estado a realizar las ampliaciones y ajustes presupuestales que se requieran para ese fin.
+
+DÉCIMO PRIMERO. Los recursos y demás trámites que se encuentren en curso a la entrada en vigor de este Decreto, se resolverán conforme a las disposiciones vigentes al momento de su inicio. Los asuntos relacionados con autorizaciones, licencias, procedimientos y constancias de compatibilidad, recursos y demás que se encuentren en trámite y pendientes de resolución administrativa o técnica, seguirán tramitándose hasta su conclusión conforme a las normas vigentes al momento de su inicio.
+
+DÉCIMO SEGUNDO. Las autoridades municipales en el ámbito de su competencia, tendrán la obligación de vigilar, denunciar y, en su caso, detener la construcción o conformación de fraccionamientos, subdivisiones, relotificaciones, fusiones, modificaciones y desarrollos en condominio, que contravengan la presente Ley.
+
+DÉCIMO TERCERO. Se reconoce plena validez a las autorizaciones y constancias de compatibilidad legalmente expedidas con base en la legislación que se abroga y deroga, durante la vigencia que le corresponda.
+
+DÉCIMO CUARTO. Las autoridades municipales en el ámbito de su competencia, podrán implementar programas de regularización de aquellos fraccionamientos que ya estén edificados.
+
+DÉCIMO QUINTO. El Ejecutivo del Estado deberá revisar y evaluar el cumplimiento de la Estrategia Nacional y de la Agenda Urbana ONU-Hábitat, en el Estado, e informar de manera específica y por escrito al Consejo Estatal de Ordenamiento Territorial y Urbano, así como al Congreso del Estado sobre los avances y logros alcanzados, dentro de los trescientos sesenta y cinco días siguientes a la entrada en vigor del presente Decreto, e incluir en los informes de gobierno subsecuentes los avances en las mismas.
+
+DÉCIMO SEXTO. Dentro del plazo de dos años contados a partir de la entrada en vigor del presente Decreto, el titular del Ejecutivo del Estado deberá crear y poner en operación el Instituto Estatal de Planeación, así como la Procuraduría Urbana, conforme a las disposiciones de la presente Ley.
+
+DÉCIMO SÉPTIMO. La Secretaría deberá instalar la Comisión de Acreditación de Directores Responsables de Obra y Corresponsables, dentro de los sesenta días siguientes a la entrada en vigor de esta Ley.
+
+DÉCIMO OCTAVO. Los registros de los Directores Responsables de Obra que a la fecha de entrada en vigor de este Decreto, se encuentren vigentes ante los municipios, tendrán plena validez hasta su vencimiento; para su refrendo, deberán cumplir las disposiciones que establece la presente Ley y acreditar los requisitos que la misma establece para dicho propósito.
