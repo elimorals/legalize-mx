@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-imagen-urbana-del-municipio-de-los-cabos-baja-286
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-31"
-last_updated: "2017-02-03"
+last_updated: "2018-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "BCS"
 ---
 # REGLAMENTO DE IMAGEN URBANA DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE IMAGEN URBANA DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 18 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE IMAGEN URBANA DEL MUNICIPIO DE LOS CABOS BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1999.
 
@@ -1691,3 +1693,17 @@ PRIMERO. Se instruye al Secretario General Municipal, de este H. XII Ayuntamient
 SEGUNDO. Se instruye al Secretario General Municipal, comunique mediante los canales administrativos pertinentes, a las diferentes áreas de la administración municipal, el contenido del presente, para su debido cumplimiento y el de las disposiciones aplicables, emanadas de la legislación del Estado de Baja California Sur con relación a la desindexación del salario mínimo publicadas en el Número 44 del Boletín Oficial del Gobierno del Estado de Baja California Sur, de fecha 31 de octubre de 2016.
 
 TERCERO.- El presente Dictamen entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 18 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO.: 373 ACTA NÚMERO: 59 SESIÓN: ORDINARIA DICTAMEN QUE PRESENTA LA LA (SIC) COMISIÓN EDILICIA DE ESTUDIOS LEGISLATIVOS Y REGLAMENTARIOS MEDIANTE EL CUAL SE APRUEBA EL NUEVO REGLAMENTO DE IMAGEN URBANA DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR”.]
+
+PRIMERO: Se abroga el REGLAMENTO DE IMAGEN URBANA DEL MUNICIPIO DE LOS CABOS, B.C.S., publicado en el Boletín Oficial número 55 bis, del Gobierno del Estado de B.C.S, de fecha 31 de Diciembre de 1999.
+
+SEGUNDO: Se instruye al C. Lic. Luis Alberto González Rivera, Secretario General Municipal solicite la publicación del presente Reglamento en el Boletín Oficial del Gobierno del Estado de Baja California Sur, para los efectos legales conducentes.
+
+TERCERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+CUARTO: Se instruye al C. Director Municipal de Transparencia y Acceso a la Información Pública del H. XII Ayuntamiento de Los Cabos, Baja California Sur, para que en un plazo no mayor a 30 días naturales, se publique el presente acuerdo en el portal de Transparencia de esta Administración Municipal, así como en la plataforma nacional de transparencia.
+
+QUINTO: Se instruye al C. Director Municipal de Comunicación Social del H. XII Ayuntamiento de Los Cabos, Baja California Sur, para que se instrumente una estrategia de difusión de los contenidos principales, del presente acuerdo, en los distintos medios de comunicación a su alcance.
