@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2017-03-23"
+last_updated: "2018-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE JULIO DE 2018.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1312,7 +1312,7 @@ VII.- Para el supuesto de que dicha diligencia se refiera a entrega de menor, la
 
 VIII.- En los procedimientos de competencia de los jueces de lo familiar, hecho el emplazamiento y obrando contestación a la demanda o solicitud de divorcio, quedarán obligadas las partes, ya sea en forma personal o por conducto de sus representantes legales, a enterarse de todas las actuaciones que se dicten en el procedimiento a través del Boletín judicial, salvo que el Juez considere otra cosa, con excepción de lo señalado en las fracciones I, III y IV; asimismo, para el supuesto de que dicha diligencia se refiera a entrega de menor, la misma se practicará en el lugar en donde reside el requerido; y
 
-> <small>(REFORMADA [N. DE .E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 IX.- En los demás casos que la Ley dispone.
 
@@ -4082,6 +4082,24 @@ ARTICULO 425 (DEROGADO, D.O.F. 14 DE MARZO DE 1973)
 
 Hay cosa juzgada cuando la sentencia causa ejecutoria, cuando las partes celebran un convenio emanado del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, o cuando las partes celebran convenios como resultado de la mediación comunitaria prevista en las leyes de la Ciudad de México.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], G.O. 18 DE JULIO DE 2018)</small>
+
+Causan ejecutoria por ministerio de ley:
+
+I. Las sentencias pronunciadas en juicios cuyo monto sea inferior a la cantidad que el artículo 691 establece para que un juicio sea apelable. Dichas cantidades se actualizarán en los términos del artículo 62. Se exceptúan los interdictos, los asuntos de competencia de los jueces de lo familiar y las relativas a la materia de arrendamiento inmobiliario;
+
+II. Las sentencias de segunda instancia;
+
+III. Las que resuelvan una queja;
+
+IV. Las que dirimen o resuelven una competencia;
+
+V. Las demás que se declaran irrevocables por prevención expresa de la ley;
+
+VI. Las sentencias que no puedan ser recurridas por ningún medio ordinario; y
+
+VII. Los convenios emanados del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal.
+
 ARTICULO 427
 
 Causan ejecutoria por declaración judicial:
@@ -5386,7 +5404,7 @@ Todo remate de bienes raíces será público y deberá celebrarse en el juzgado 
 
 ARTICULO 566
 
-Cuando los bienes embargados fueren raíces, antes de procederse a su avalúo, la parte interesada deberá exhibir certificado de gravámenes de los últimos diez años; pero si en autos obrare ya un certificado que se refiera a parte de dicho lapso, sólo se exhibirá el relativo al período transcurrido desde la fecha de aquél hasta la en que se solicite.
+Cuando los bienes embargados fueren raíces, antes de procederse a su avalúo, la parte interesada deberá exhibir certificado de gravámenes de los últimos diez años; pero si en autos obrare ya un certificado que se refiera a parte de dicho lapso, sólo se exhibirá el relativo al período transcurrido desde la fecha de aquél hasta la (sic) en que se solicite.
 
 ARTICULO 567
 
@@ -7322,7 +7340,9 @@ I.- El testamento o testimonio de protocolización o la denuncia del intestado;
 
 II.- Las citaciones a los herederos y la convocación a los que se crean con derecho a la herencia;
 
-III.- Lo relativo al nombramiento y remoción de albacea e interventores, y al reconocimiento de derechos hereditarios;
+> <small>(REFORMADA, G.O. 18 DE JULIO DE 2018)</small>
+
+III.- Lo relativo al nombramiento, no aceptación o remoción de albacea e interventores, y al reconocimiento de derechos hereditarios;
 
 IV.- Los incidentes que se promuevan sobre el nombramiento o (sic) de tutores;
 
@@ -8356,7 +8376,7 @@ El que pretende adoptar deberá acreditar los requisitos determinados por el Có
 
 I. En la promoción inicial se deberá manifestar si se trata de adopción nacional o internacional, mencionándose, el nombre, edad y si lo hubiere, el domicilio del menor o persona con incapacidad que se pretenda adoptar, el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya recibido y acompañar certificado médico de buena salud de los promoventes y del menor.
 
-Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse por el Sistema Nacional para el Desarrollo Integral de la Familia, o por quien este autorice, siempre que se trate de profesionistas que acrediten tener título profesional y tener como mínimo dos años de experiencia en la atención de menores y personas susceptibles de adoptar .
+Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse por el Sistema Nacional para el Desarrollo Integral de la Familia, o por quien este autorice, siempre que se trate de profesionistas que acrediten tener título profesional y tener como mínimo dos años de experiencia en la atención de menores y personas susceptibles de adoptar.
 
 También los podrán realizar la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia del Distrito Federal, el Tribunal Superior de Justicia del Distrito Federal, la Procuraduría General de Justicia del Distrito Federal para los efectos de adopción nacional.
 
@@ -11343,3 +11363,11 @@ SEXTO. En un término de seis meses, contados a partir de la entrada en vigor de
 SÉPTIMO. El Tribunal Superior de Justicia de la Ciudad de México, por conducto de su Centro de Justicia Alternativa, continuará con los programas de formación de mediadores comunitarios así como en el diseño y consolidación de los programas delegacionales de mediación comunitaria en coordinación con la Dirección Ejecutiva de Justicia Cívica de la Consejería Jurídica y de Servicios Legales.
 
 OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
