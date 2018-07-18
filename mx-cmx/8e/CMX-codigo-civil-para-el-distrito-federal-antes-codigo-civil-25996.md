@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2017-10-24"
+last_updated: "2018-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE JULIO DE 2018.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1899,7 +1899,7 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 ### CAPITULO X. Del divorcio
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 232.
 
@@ -2111,7 +2111,9 @@ Si al declararse la nulidad del matrimonio la mujer estuviera embarazada, se tom
 
 ###### ARTICULO 266.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
+El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
+
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente artículo.
 
@@ -2155,15 +2157,11 @@ Los jueces de lo familiar están obligados a suplir la deficiencia de las partes
 
 Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 272.
 
-Procede el divorcio administrativo cuando habiendo transcurrido un año o más de la celebración del matrimonio, ambos cónyuges convengan en divorciarse, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El juez del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
-Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no producirá efectos, independientemente de las sanciones previstas en las leyes.
+Procede el divorcio administrativo cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, hayan liquidado la sociedad conyugal de bienes, si están casados bajo ese régimen patrimonial, la cónyuge no esté embarazada, no tengan hijos en común o teniéndolos sean mayores de edad, y éstos no requieran alimentos o alguno de los cónyuges. El Juez del Registro Civil, previa identificación de los cónyuges, y ratificando en el mismo acto la solicitud de divorcio, levantará un acta en que los declarará divorciados y hará la anotación correspondiente en la del matrimonio anterior.
 
 ###### ARTICULO 273.
 
@@ -8843,7 +8841,15 @@ ARTICULO 1,693.- Cuando los albaceas fueren mancomunados sólo valdrá lo que to
 
 ARTICULO 1,694.- En los casos de suma urgencia, puede uno de los albaceas mancomunados practicar, bajo su responsabilidad personal, los actos que fueren necesarios, dando cuenta inmediatamente a los demás.
 
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2018)</small>
+
 ARTICULO 1,695.- El cargo de albacea es voluntario; pero el que lo acepte, se constituye en la obligación de desempeñarlo.
+
+Si el que fuere nombrado albacea por el testador no es su voluntad aceptar el cargo, por intereses personales, se debe aceptar su negativa y de inmediato someter a votación de los herederos el nombramiento del que fungirá como albacea.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 18 DE JULIO DE 2018)</small>
+
+ARTICULO 1,695 BIS.- No será aplicable lo previsto en el segundo párrafo del artículo 1695 cuando quien ha sido designado como albacea además, tiene la calidad de heredero universal único.
 
 ARTICULO 1,696.- El albacea que renuncie sin justa causa, perderá lo que hubiere dejado el testador. Lo mismo sucederá cuando la renuncia sea por justa causa, si lo que se deja al albacea es con el exclusivo objeto de remunerarlo por el desempeño del cargo.
 
@@ -14798,3 +14804,19 @@ G.O. 24 DE OCTUBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 18 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 266 Y 272 DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 18 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
