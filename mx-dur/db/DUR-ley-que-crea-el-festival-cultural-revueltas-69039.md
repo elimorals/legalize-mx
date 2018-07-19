@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-festival-cultural-revueltas-69039"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2014-11-16"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL FESTIVAL CULTURAL REVUELTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -51,9 +51,15 @@ Se crea el organismo público desconcentrado del Instituto de Cultura del Estado
 
 La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Durango, reglamenta el derecho a la cultura reconocido en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos e Instrumentos Internacionales en la materia, así como el artículo 28 de la Constitución Política del Estado Libre y Soberano de Durango.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 2°.
 
-El Festival deberá fortalecer en su programación el sentido de identidad de los duranguenses, mediante la programación de actividades culturales, artísticas y académicas adecuadas, además deberá concebirse anualmente como un espacio para la difusión y promoción turística de la entidad.
+El Festival deberá fortalecer en su programación el sentido de identidad de los duranguenses, mediante la programación de actividades culturales, artísticas y académicas adecuadas, además deberá concebirse anualmente como un espacio para la difusión y promoción turística de la entidad, teniendo como referente máximo a los Revueltas, cuya obra da honra y prestigio a la tradición cultural y artística de Durango en el mundo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+El Festival deberá conservar su vocación primordial, al convertirse en un espacio privilegiado de reconocimiento, difusión, promoción y divulgación de la obra de Silvestre, Fermín, José y Rosaura Revueltas.
 
 ###### ARTÍCULO 3°.
 
@@ -72,6 +78,30 @@ V. Presupuesto: los recursos financieros que anualmente se presupuesten para la 
 ###### ARTÍCULO 4°.
 
 Anualmente el Festival se compondrá de una programación general de actividades artísticas y culturales, además de la programación especial para difundir las actividades correspondientes a las entidades, organismos o gobiernos, considerados como invitados especiales.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+La programación general de actividades del Festival, tendrá como eje rector la propuesta estética y social de los Revueltas, privilegiando altos estándares de calidad en las distintas expresiones del arte, con el fin de mejorar e innovar el programa general en cada una de las ediciones; además procurará realizar acciones responsables de curaduría artística orientada con asesoría del INBA, con el fin de fortalecer el Festival como una propuesta original de amplia convocatoria nacional e internacional.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+ARTÍCULO 4° BIS. El Festival para el cumplimiento de su función, llevará a cabo las siguientes acciones:
+
+I. Revalorar la obra artística y cultura de los Revueltas como un elemento constitutivo de la identidad y del origen de los duranguenses;
+
+II. Estimular y promover la creación y la formación artística con altas exigencias profesionales que fortalezcan el desarrollo del turismo, con el fin de dinamizar la economía local;
+
+III. Impulsar y promover la identidad duranguense como elemento de cohesión social;
+
+IV. Realizar convocatorias con el fin de estimular producciones culturales y artísticas locales, nacionales e internacionales, considerando altos criterios de excelencia artística;
+
+V. Proyectar el Festival en diversos ámbitos públicos con una actividad académica intensa, mediante la organización de seminarios, foros, talleres y cursos;
+
+VI. Ampliar la oferta cultural y artística a los diversos públicos, considerando a los grupos vulnerables;
+
+VII. Estimular y promover la participación de niños y jóvenes en cada una de las actividades culturales y artísticas como un proceso continuo y progresivo de formación y apreciación estética; y
+
+VIII. Las actividades necesarias que coadyuven a fortalecer el sentido de identidad de los duranguenses, así como a la difusión y promoción turística del Estado.
 
 ###### ARTÍCULO 5°.
 
@@ -137,11 +167,21 @@ II. Conocer y aprobar el presupuesto anual de operación del Organismo;
 
 III. Aprobar la programación del Festival;
 
-IV. Definir la temática, instituciones y gobiernos invitados para el Festival y sus alcances;
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
 
-V. Promover actividades que le permitan incrementar sus recursos; y
+IV. Dar seguimiento y evaluar de manera integral el desarrollo del Festival, con el objetivo de regular, orientar y optimizar la aplicación de los recursos financieros a fin de rendir cuentas y trasparentar cada una de las acciones sustantivas;
 
-VI. Gestionar la exención de impuestos y derechos para los benefactores.
+V. Definir la temática, instituciones y gobiernos invitados para el Festival y sus alcances;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI. Promover actividades que le permitan incrementar sus recursos;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VII. Suscribir acuerdos y convenios con el fin de generar desarrollo económico y procesos formativos; y
+
+VIII. Gestionar la exención de impuestos y derechos para los benefactores.
 
 ###### ARTÍCULO 10°.
 
@@ -160,6 +200,10 @@ Para la vigilancia y el control del Organismo, éste contará con un Comisario P
 ###### ARTÍCULO 13°.
 
 En la Ley de Egresos del Estado Libre y Soberano de Durango de cada ejercicio fiscal, el Congreso del Estado determinará el presupuesto de operación del Festival.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+ARTÍCULO 13° BIS. El presupuesto designado para el funcionamiento del programa general de actividades del Festival, se ha de orientar con altos criterios de rigor estético, que estimule la formación de públicos en el aprecio de las diversas expresiones artísticas, con el fin de mejorar los valores que movilicen la participación ciudadana desde una visión incluyente y democrática.
 
 ### CAPÍTULO III. DEL DIRECTOR EJECUTIVO DEL FESTIVAL CULTURAL REVUELTAS
 
@@ -230,6 +274,18 @@ Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de D
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
 
 P.O. 16 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 413.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY QUE CREA EL FESTIVAL CULTURAL REVUELTAS".]
 
 ###### ARTÍCULO PRIMERO.
 
