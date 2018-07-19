@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prestacion-de-servicios-inmobiliarios-en-el-105149"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2016-12-29"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PRESTACIÓN DE SERVICIOS INMOBILIARIOS EN EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Ley publicada en la Décima Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2014.
 
@@ -127,7 +127,25 @@ VIII. Establecer y operar un sistema de quejas o denuncias para Usuarios respect
 
 Se establece el Registro de Agentes Inmobiliarios del Estado de Michoacán (RAIEM), con el objeto de la matriculación de Agencias Inmobiliarias, Agentes Inmobiliarios y Asociaciones Inmobiliarias ante la Secretaría, el cual deberá estar disponible para consulta pública en internet, así como para generar y mantener la acreditación de conocimientos en materia inmobiliaria.
 
-La Secretaría se auxiliará con un Comité de Vigilancia para el correcto funcionamiento del RAIEM. El Comité se integrará por un Presidente, un secretario y tres vocales; en la forma y términos que establezca el Reglamento correspondiente. Lo anterior procurando en todo momento la participación de representantes de asociaciones, organizaciones o consejos dedicados a la prestación de servicios inmobiliarios.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
+La Secretaría se auxiliará con un Comité de Vigilancia para el correcto funcionamiento del RAIEM. El Comité se integrará de la siguiente manera:
+
+I. Por un Presidente, que será el titular de la Secretaría;
+
+II. Un secretario, que será el titular del órgano de apoyo técnico de la Secretaría, encargado del RAEIM y de lo referente a los agentes y servicios inmobiliarios; y,
+
+III. Los vocales siguientes:
+
+a) El Presidente de la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda en Michoacán;
+
+b) El presidente de una asociación de agentes inmobiliarios de Michoacán legalmente constituida en el Estado, por invitación de la Secretaría; y,
+
+c) Un agente inmobiliario inscrito en el RAIEM, elegido mediante convocatoria pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2018)</small>
+
+Lo anterior procurando en todo momento la participación de representantes de Agentes Inmobiliarios, las Agencias Inmobiliarias y las Asociaciones Inmobiliarias.
 
 ###### ARTÍCULO 6.
 
@@ -195,17 +213,21 @@ h) Acreditar a los integrantes de la Asociación Inmobiliaria inscritos en el RA
 
 El Reglamento establecerá el procedimiento y costos del trámite a seguir para la inscripción al RAIEM de los Agentes Inmobiliarios, las Agencias Inmobiliarias y las Asociaciones Inmobiliarias, así como para la Acreditación y obtención de la Licencia para Agentes Inmobiliarios y para las Agencias Inmobiliarias.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 9.
 
-A los Agentes Inmobiliarios, previo pago de los derechos correspondientes, una vez matriculados y cubierta la Acreditación, la Secretaría les expedirá la Licencia correspondiente por haber cumplido con los requisitos señalados en la presente Ley y su Reglamento. Las personas físicas que cubran los requisitos podrán ostentarse y anunciarse como «Agente Inmobiliario con Licencia».
+A los Agentes Inmobiliarios, previo pago de los derechos correspondientes, una vez matriculados y cubierta la Acreditación, la Secretaría les expedirá la Licencia que tendrá una vigencia de tres años contados a partir de la fecha de su expedición, correspondiente por haber cumplido con los requisitos señalados en la presente Ley y su Reglamento. Las personas físicas que cubran los requisitos podrán ostentarse y anunciarse como «Agente Inmobiliario con Licencia».
 
 ###### ARTÍCULO 10.
 
 Las Agencias Inmobiliarias para ostentarse y anunciarse como <<Agencia Inmobiliaria con Licencia>> deberán contar como responsable(s) de los servicios Inmobiliarios en que intervenga, con al menos un Agente Inmobiliario con Licencia otorgada por la Secretaría y el alcance de sus servicios estarán sujetos a los que tenga autorizados de acuerdo al tipo de Licencia que el responsable tenga otorgado, de conformidad con lo que se establece en el Reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 11.
 
-El Reglamento establecerá la clasificación, modalidades y alcances de la Licencia de acuerdo a lo señalado en el artículo 8 de la presente Ley. El mismo Reglamento establecerá el nivel y la vigencia de las Licencias que otorgará la Secretaría.
+El Reglamento establecerá el nivel, la clasificación, modalidades y alcances de la Licencia que otorgará la Secretaría, de acuerdo con lo señalado en el artículo 8 de la presente Ley.
 
 ###### ARTÍCULO 12.
 
@@ -225,7 +247,9 @@ Los Agentes Inmobiliarios tendrán las siguientes obligaciones:
 
 I. Tramitar ante la Secretaría su inscripción en el RAIEM;
 
-II. Revalidar la inscripción en el RAIEM de la Licencia respectiva, con la periodicidad y condiciones que se establezcan en el Reglamento, manifestando bajo protesta de decir verdad que se mantiene idéntica la información originadora de la inscripción y/o de la Licencia o, en su caso, documentar las modificaciones que hayan tenido lugar;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Revalidar la inscripción en el RAIEM de la Licencia respectiva cada tres años, con las condiciones que se establezcan en esta Ley y en el Reglamento, manifestando bajo protesta de decir verdad que se mantiene idéntica la información originadora de la inscripción y/o de la Licencia o, en su caso, documentar las modificaciones que hayan tenido lugar;
 
 III. Cumplir cuando menos con el mínimo requerido que se señale en el Reglamento del programa permanente de capacitación y actualización en materia de operaciones y servicios inmobiliarios, exigiendo la expedición de su constancia que acredite su participación;
 
@@ -255,7 +279,9 @@ I. Contar como responsable con al menos un Agente Inmobiliario con Licencia;
 
 II. Tramitar ante la Secretaría su inscripción en el RAIEM y la Licencia como Agencia Inmobiliaria;
 
-III. Revalidar la inscripción en el RAIEM de la Licencia respectiva, con la periodicidad y condiciones que se establezcan en el Reglamento, manifestando bajo protesta de decir verdad que se mantiene idéntica la información originadora de la inscripción y/o de la Licencia o, en su caso, documentar las modificaciones que hayan tenido lugar;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. Revalidar la inscripción en el RAIEM de la Licencia respectiva cada tres años, con las condiciones que se establezcan en esta Ley y en el Reglamento, manifestando bajo protesta de decir verdad que se mantiene idéntica la información originadora de la inscripción y/o de la Licencia o, en su caso, documentar las modificaciones que hayan tenido lugar;
 
 IV. Incorporar al RAIEM a los Agentes Inmobiliarios que presten sus servicios dentro de la Agencia Inmobiliaria;
 
@@ -329,9 +355,11 @@ El Código de Ética de los Agentes Inmobiliarios en el Estado, será elaborado 
 
 ### CAPÍTULO VIII. DE LAS VISITAS DE INSPECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 21.
 
-Todo acto de visita de inspección y vigilancia que lleve a cabo personal de la Secretaría a los Agentes Inmobiliarios, a las Agencias Inmobiliarias, a las Asociaciones o a quienes se ostenten como inscritos en el RAIEM, se sujetará a las siguientes formalidades:
+Todo acto de vista de inspección y vigilancia que lleve a cabo personal de la Secretaría a los Agentes Inmobiliarios, a las Agencias Inmobiliarias, a las Asociaciones o a quienes se ostenten como inscritos en el RAIEM, deberá apegarse en lo establecido en la legislación que en materia de protección de datos personales sea aplicable, y se sujetará a las siguientes formalidades:
 
 I. Los actos de inspecciones, visitas y vigilancia deberán cumplirse en el lugar o lugares indicados en la orden por escrito expedida por la Secretaría, cuyo objeto estará señalado en la misma, y no podrá ir más allá de la verificación del cumplimiento de los requisitos legales para operar en el Estado como Agente Inmobiliario, Agencia Inmobiliaria o Asociación Inmobiliaria con licencia, así como del cumplimiento de las obligaciones que establece la presente Ley y su Reglamento;
 
@@ -409,7 +437,9 @@ II. Ostentarse como Agente Inmobiliario con licencia o Agencia Inmobiliaria con 
 
 III. Los Agentes Inmobiliarios o Agencia Inmobiliaria que en la prestación del servicio inmobiliario, afecten los intereses del Usuario. Dicha afectación deberá encontrarse documentalmente acreditada;
 
-IV. Ofrecer un bien inmueble al mercado para la realización de una operación inmobiliaria sin el consentimiento de su propietario, expresado en un documento escrito de fecha cierta;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV. Ofrecer un bien inmueble al mercado para la realización de una operación inmobiliaria sin el consentimiento de su propietario o, en su caso, del agente o agencia inmobiliaria con licencia que haya celebrado el contrato de prestación de servicios con el propietario, expresados en un documento por escrito y de fecha cierta.
 
 V. Brindar asesoría incorrecta o inapropiada al Usuario respecto a la operación inmobiliaria, tramite o gestión que se encuentre realizando, que genere retraso o riesgo y que graviten en el valor de la operación y/o provoquen la cancelación de la operación;
 
@@ -518,3 +548,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 599.- SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS INMOBILIARIOS EN EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
