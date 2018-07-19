@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-gobierno-digital-del-estado-de-durango-101264"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-16"
-last_updated: "2018-05-13"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL GOBIERNO DIGITAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 16 de febrero de 2014.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 01 de Noviembre de 2011, los CC. Diputados integrantes del grupo parlamentario del Partido Acción Nacional, presentaron a esta H. LXV Legislatura del Estado Iniciativa de Decreto que crea la LEY DEL GOBIERNO DIGITAL DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Ciencia, Te4cnología (sic) e Innovación integrada por los CC. Diputados: Ma. del Refugio Vázquez rodríguez; Emiliano Hernández Camargo, Francisco Javier Ibarra Jáquez y Alfredo Hector Ordaz Hernández; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S...
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -81,13 +83,21 @@ IV.- El Poder Legislativo; y
 
 V.- Los órganos autónomos previstos en las leyes estatales respectivas.
 
-Las autoridades y los órganos antes señalados realizarán, de manera coordinada y concurrente, en el ámbito de su competencia, las acciones de fomento, planeación, regulación, control, y vigilancia relativas al uso y aprovechamiento estratégico de las Tecnologías de la Información.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
 
-Para el cumplimiento de las disposiciones de esta Ley, el Ejecutivo del Estado podrá suscribir convenios de colaboración, coordinación, concertación o asociación con autoridades federales o municipales, así como con los sectores social, privado y académico, según corresponda, en materia de uso y aprovechamiento estratégico de las Tecnologías de la Información.
+El Ejecutivo del Estado en conjunto con la Comisión Estatal de Gobierno Digital de Durango, determinarán y llevarán a cabo, en conjunto con las autoridades y los órganos antes señalados, de forma coordinada y concurrente, los trabajos en el ámbito de su competencia, lo cual permitirá acciones de fomento, planeación, regulación, control, y vigilancia relativas al uso y aprovechamiento estratégico de las Tecnologías de la Información.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Para el cumplimiento de las disposiciones de esta Ley, el Ejecutivo del Estado en coordinación con la Comisión Estatal de Gobierno Digital de Durango, podrá suscribir convenios de colaboración, coordinación, concertación o asociación con autoridades federales o municipales, así como con los sectores social, privado y académico, según corresponda, en materia de uso y aprovechamiento estratégico de las Tecnologías de la Información.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 3.
 
-Los Poderes Ejecutivo, Legislativo, Judicial, los Ayuntamientos, así como los órganos autónomos, aplicarán las disposiciones establecidas en la presente ley por conducto de las dependencias, entidades o unidades administrativas que determinen, en lo que no se oponga a los ordenamientos legales que los rigen, sujetándose a sus propias instancias y procedimientos de control.
+Los Poderes Ejecutivo, Legislativo, Judicial, los Ayuntamientos, así como los órganos constitucionales autónomos, en coordinación con la Comisión Estatal de Gobierno Digital de Durango, aplicarán las disposiciones establecidas en la presente ley por conducto de las dependencias, entidades o unidades administrativas que determinen, en lo que no se oponga a los ordenamientos legales que los rigen, sujetándose a sus propias instancias y procedimientos de control.
+
+> <small>[N. DE E. MEDIANTE DECRETO NÚMERO 412, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2018, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE XXXIII A XXX FRACCIONES.]</small>
 
 ###### Artículo 4.
 
@@ -95,7 +105,9 @@ Para los efectos de esta ley, se entiende por:
 
 I. Administraciones Públicas Municipales: Las dependencias, entidades y unidades señaladas en la Ley Orgánica del Municipio Libre de Durango y en los Reglamentos Interiores de los Gobiernos Municipales respectivos.
 
-II. Arquitectura Gubernamental Digital: Aquella que a partir del Modelo de Capas estructura las necesidades gubernamentales y sus soluciones en términos de servicios tercerizados de Tecnologías de la Información.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Arquitectura Gubernamental Digital: Aquella que a partir del Modelo de Capas estructura las necesidades gubernamentales y sus soluciones contempladas en la Ley de Adquisiciones, arrendamientos y servicios del Estado de Durango.
 
 III. Ayuntamientos: Los Ayuntamientos de los municipios del Estado de Durango;
 
@@ -103,11 +115,13 @@ IV. Comisión: A la Comisión Estatal de Gobierno Digital de Durango.
 
 V. Comité: El Comité de Desarrollo Tecnológico de Durango.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-VI. Contraloría: La Secretaría de Contraloría.
+VI. Contraloría: La Secretaría de Contraloría del Gobierno del Estado.
 
-VII. Datos personales: Los que se definen en la Ley de Transparencia y Acceso a la Información Pública de Durango.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VII. Datos personales: Los que se definen en la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
 
 VIII. Reglamento de Adquisición de Tecnologías de la Información: Al Reglamento que emita el Ejecutivo del Estado, donde establece las disposiciones que deberán observar las dependencias y entidades de la Administración Pública Estatal, así como las Unidades de Apoyo Directamente adscritas al Titular del Poder Ejecutivo del Estado, en materia de Tecnologías de la Información y Comunicaciones
 
@@ -115,51 +129,85 @@ IX. Dependencias: A las dependencias a que se refiere el artículo 28 de la Ley 
 
 X. Disposiciones programáticas y presupuestales: A las disposiciones emitidas por la Secretaría de Finanzas y Administración y señaladas en el Reglamento de Adquisición de Tecnologías de la Información:
 
-XI. Estándar abierto: A la especificación disponible públicamente para lograr una tarea específica. La especificación debe haber sido desarrollada en proceso abierto a toda la industria y también debe garantizar que cualquiera la puede usar sin necesidad de pagar regalías o rendir condiciones a ningún otro.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XII. Entidades: A las entidades paraestatales previstas en el artículo 4 de la Ley de Entidades Paraestatales del Estado de Durango;
+XI. Entidades: A las entidades paraestatales previstas en el artículo 4 de la Ley de Entidades Paraestatales del Estado de Durango.
 
-XIII. Firma Electrónica Avanzada: El conjunto de datos electrónicos consignados en un mensaje de datos o adjuntados al mismo, utilizados como medio para identificar a su autor o firmante generados bajo un estricto control vinculado exclusivamente, así mismo para con el mensaje de datos, lo que permite que sea detectable cualquier modificación ulterior de éste;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XIV. Gobierno Digital: El que incorpora al quehacer gubernamental las Tecnologías de la Información y Comunicaciones, con el propósito de aumentar la eficiencia de la gestión pública, transformar y agilizar las relaciones del Gobierno con los ciudadanos y las empresas, y las relaciones intergubernamentales, de manera que el Gobierno resulte más accesible, efectivo y transparente en beneficio del ciudadano.
+XII. Firma Electrónica Avanzada: El conjunto de datos electrónicos consignados o lógicamente asociados al mensaje de datos, utilizados como medio de identificación del firmante, los cuales son generados y mantenidos bajo su estricto y exclusivo control, siendo detectable cualquier modificación ulterior al mensaje de datos o a la propia firma, produciendo los mismos efectos jurídicos que la firma autógrafa.
 
-XV. Innovación Gubernamental: A la Oficina de Innovación Gubernamental del Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XVI. Interconexión: Enlazar entre sí aparatos y/o sistemas, de forma tal que entre ellos puedan fluir datos y/o información
+XIII. Gobierno Digital: El que incorpora al quehacer gubernamental las Tecnologías de la Información y Comunicaciones, con el propósito de aumentar la eficiencia de la gestión pública, transformar y agilizar las relaciones del Gobierno con los ciudadanos y las empresas, y las relaciones intergubernamentales, de manera que el Gobierno resulte más accesible, efectivo y transparente en beneficio del ciudadano.
 
-XVII. Interoperabilidad: Característica de las Tecnologías de la Información que les permite su interconexión y funcionamiento conjunto de manera compatible.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XVIII. Lineamientos técnicos: A los lineamientos emitidos por el Comité.
+XIV. Innovación Gubernamental: A la Oficina de Innovación Gubernamental del Ejecutivo Estatal;
 
-XIX. Medios electrónicos: Todos aquellos instrumentos creados para obtener un eficiente intercambio de información de forma automatizada; tales como Internet, fax, correo electrónico, y similares.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XX. Modelo de Capas: El modelo conceptual de organización de las Tecnologías de la Información, en función de seis capas en donde se ubican cada una de las características y servicios de las Tecnologías de la Información.
+XV. Interconexión: Enlazar entre sí aparatos y/o sistemas, de forma tal que entre ellos puedan fluir datos y/o información.
 
-XXI. Plan Estatal de Desarrollo: Plan Estatal de Desarrollo de Durango.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XXII. Plataforma tecnológica transversal: Aquella que puede ser empleada en varias áreas a la vez, sin necesidad de modificarla para cada una de ellas.
+XVI. Interoperabilidad: Las característica (sic) de las Tecnologías de la Información que permitirá a los sujetos obligados a los que se refiere el artículo 2 de esta Ley, tener una interconexión y funcionamiento conjunto de manera compatible lo cual permitirá compartir información entre ellos.
 
-XXIII. Programa: El Programa Estratégico de Gobierno Digital;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XXIV. Protección de datos: políticas e instrumentos orientados a conservar la privacidad y la protección de los datos personales de los ciudadanos y empresas que garantizan que dicha información personal no se utilizará ni divulgará ni se compartirá con terceras partes sin la autorización expresa del dueño de dicha información.
+XVII. Lineamientos técnicos: A los lineamientos emitidos por el Comité.
 
-XXV. Portales de Internet: Al espacio de una red informática que ofrece, de forma sencilla e integrada, acceso única y exclusivamente a la información que se ofrece al ciudadano.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XXVI. Portales Transaccionales: Al espacio de una red informática que ofrece, de forma sencilla e integrada, acceso a recursos y servicios, mediante los cuales se pueden realizar transacciones entre el ciudadano y el ente responsable de la información y los servicios ofrecidos en el portal.
+XVIII. Medios electrónicos: Todos aquellos instrumentos creados para obtener un eficiente intercambio de información de forma automatizada; tales como Internet, fax, correo electrónico, y/o demás, que con el transcurso de tiempo se llegarán a generar.
 
-XXVII. Programa Anual de Desarrollo Tecnológico: Al Programa en el que los sujetos de la presente ley, expresan el portafolio de proyectos de Tecnologías de la Información que se desplegarán en el ejercicio fiscal correspondiente.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XXVIII. Programa Anual Transversal de Desarrollo Tecnológico: El documento integrador que contiene los Programas Anuales de Desarrollo Tecnológico de cada uno de los sujetos de la presente ley, los cuales serán expresados en un portafolio de proyectos transversales que deberá presentarse una vez al año, como base para la justificación del presupuesto de egresos en materia de Tecnologías de la Información, en el ámbito de competencia de cada uno de estos sujetos.
+XIX. Modelo de Capas: El modelo conceptual de organización de las Tecnologías de la Información, en función de seis capas en donde se ubican cada una de las características y servicios de las Tecnologías de la Información.
 
-XXIX. Red de comunicaciones: Red que proporciona la capacidad y los elementos necesarios para mantener a distancia un intercambio de información y/o una comunicación, ya sea ésta en forma de voz, datos, vídeo o una mezcla de los anteriores.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XXX. Servicios tercerizados: Aquellos servicios que se prestan a través de la contratación de empresas para que desarrollen actividades especializadas, siempre que éstas asuman los servicios prestados por su cuenta y riesgo, cuenten con sus propios recursos financieros, técnicos o materiales, sean responsables por los resultados de sus actividades y sus trabajadores estén bajo su exclusiva subordinación.
+XX. Plan Estatal de Desarrollo: Plan Estatal de Desarrollo de Durango.
 
-XXXI. Trámites y servicios digitales: A aquellos trámites y servicios que los sujetos de la presente ley ofrezcan a los ciudadanos de manera electrónica, a través de sus Portales Transaccionales.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XXXII. Tecnologías de la Información: A las Tecnologías de la Información y Comunicaciones, entendidas como un conjunto de elementos y técnicas utilizadas en el tratamiento y transmisión de información, principalmente vía electrónica, a través del uso de la informática, el Internet o las telecomunicaciones.
+XXI. Plataforma tecnológica transversal: Aquella que puede ser empleada en varias áreas a la vez, sin necesidad de modificarla para cada una de ellas.
 
-XXXIII. Unidades: A las Unidades de Apoyo Directamente Adscritas al Titular del Poder Ejecutivo del Estado; (sic)
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXII. Programa: El Programa Estratégico de Gobierno Digital;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXIII. Portales Informativos: Al espacio en la red utilizado por los sujetos que hace mención el artículo 2 de esta Ley, utilizado para proporcionar información a los ciudadanos respecto de los diversos trámites que poseen.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXIV. Portales Transaccionales: Al espacio de una red informática que ofrece, de forma sencilla e integrada, acceso a recursos y servicios, mediante los cuales se pueden realizar transacciones entre el ciudadano y el ente responsable de la información y los servicios ofrecidos en el portal.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXV. Programa Anual de Desarrollo Tecnológico: Al Programa en el que los sujetos de la presente ley, expresan el portafolio de proyectos de Tecnologías de la Información que se desplegarán en el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXVI. Programa Anual Transversal de Desarrollo Tecnológico: El documento integrador que contiene los Programas Anuales de Desarrollo Tecnológico de cada uno de los sujetos de la presente ley, los cuales serán expresados en un portafolio de proyectos transversales que deberá presentarse una vez al año, como base para la justificación del presupuesto de egresos en materia de Tecnologías de la Información, en el ámbito de competencia de cada uno de estos sujetos.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXVII. Red de comunicaciones: Red que proporciona la capacidad y los elementos necesarios para mantener a distancia un intercambio de información y/o una comunicación, ya sea ésta en forma de voz, datos, vídeo o una mezcla de los anteriores.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXVIII. Trámites y servicios digitales: A aquellos trámites y servicios que los sujetos de la presente ley ofrezcan a los ciudadanos de manera electrónica, a través de sus Portales Transaccionales.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXIX. Tecnologías de la Información: A las Tecnologías de la Información y Comunicaciones, entendidas como un conjunto de elementos y técnicas utilizadas en el tratamiento y transmisión de información, principalmente vía electrónica, a través del uso de la informática, el Internet o las telecomunicaciones.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XXX. Unidades: A las Unidades de Apoyo Directamente Adscritas al Titular del Poder Ejecutivo del Estado;
 
 ###### Artículo 5.
 
@@ -167,25 +215,35 @@ La Comisión y el Comité quedan facultados para interpretar la presente ley par
 
 La Contraloría queda facultada para interpretar la presente ley para efectos de vigilancia, control y supervisión.
 
-Los Ayuntamientos y los Poderes Ejecutivo, Legislativo y Judicial así como los Organismos Autónomos, por conducto de sus órganos de control y evaluación gubernamental o de la dependencia o unidad administrativa competente, quedan facultados para interpretar la presente ley para su eficaz aplicación en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Los Ayuntamientos y los Poderes Ejecutivo, Legislativo y Judicial así como los Órganos Constitucionales Autónomos, por conducto de sus órganos de control y evaluación gubernamental o de la dependencia o unidad administrativa competente, quedan facultados para interpretar la presente ley para su eficaz aplicación, poniendo a consideración de la Comisión y el Comité, toda aquella interpretación que pueda servir para la generación correcta de actividades del Programa Anual de Desarrollo Tecnológico y/o cualquier otra actividad contemplada por los entes referidos que tenga referencia con Tecnologías de la Información, lo anterior en el ámbito de su competencia.
 
 ## TÍTULO II. De las Instancias para la Conducción y Coordinación de la Política para el Desarrollo del Gobierno Digital
 
 ### CAPÍTULO I. De La Comisión Estatal de Gobierno Digital de Durango
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 6.
 
-Se crea la Comisión Estatal de Gobierno Digital de Durango como una instancia encargada de planear, formular, diseñar, dirigir, coordinar e implementar las políticas y programas en materia de Gobierno Digital en el ámbito del Estado de Durango, a través del uso y aprovechamiento estratégico de las Tecnologías de la Información.
+Se crea la Comisión Estatal de Gobierno Digital de Durango como una instancia encargada de planear, formular, diseñar, dirigir, coordinar e implementar las políticas y programas en materia de Gobierno Digital en el ámbito del Estado de Durango, las cuales podrán generar un aprovechamiento estratégico de las Tecnologías de la Información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 7.
 
-La Comisión estará integrada por los siguientes miembros:
+La Comisión estará integrada por:
 
 I. Un Presidente que será el Titular del Poder Ejecutivo Estatal;
 
-II. Un Secretario Ejecutivo que será el Titular de Innovación Gubernamental;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-III. Siete Vocales, que serán:
+II. Un Secretario Ejecutivo que será el Titular de la Dirección de Informática de la Secretaría de Finanzas y de Administración.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2018)</small>
+
+III. Siete vocales que serán:
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2018)</small>
 
@@ -193,17 +251,21 @@ a) El Presidente de la Comisión de Ciencia, Tecnología e Innovación del Congr
 
 b) El Magistrado Presidente del Tribunal Superior de Justicia del Estado;
 
-c) El Rector de la Universidad Juárez de Durango;
+> <small>(REFORMADO [N. DE E. CON SUS SUBINCISOS], P.O. 19 DE JULIO DE 2018)</small>
 
-d) El Director del Instituto Tecnológico de Durango;
+c) Un representante del área de informática de cada una de las siguientes secretarías:
 
-f) (sic) El Presidente Municipal de Durango;
+a. General de Gobierno.
 
-i) (sic) El Presidente Municipal de Gómez Palacio;
+b. De Educación.
 
-j) El Presidente Municipal de Lerdo;
+c. De Seguridad Pública.
 
-k) Un representante de las Camaras de Comercio
+d. De Salud.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+d) Un representante de las Cámaras de Comercio.
 
 ###### Artículo 8.
 
@@ -215,11 +277,13 @@ La Comisión sesionará válidamente con la asistencia de por lo menos la mitad 
 
 Las decisiones se tomarán por mayoría de los miembros presentes de la Comisión, teniendo el Presidente voto de calidad en caso de empate.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 10.
 
-Los miembros de la Comisión tendrán derecho a voz y voto. Por cada miembro titular de la Comisión se hará el nombramiento respectivo de un suplente, quien gozará de los mismos derechos y contará con las mismas obligaciones que el propietario correspondiente; con excepción del Presidente, quien será suplido por el Secretario Ejecutivo en todos los casos.
+Los integrantes de la Comisión tendrán derecho a voz y voto. Por cada integrante titular de la Comisión se hará el nombramiento respectivo de un suplente, quien gozará de los mismos derechos y contará con las mismas obligaciones que el propietario correspondiente; con excepción del Presidente, quien será suplido por el Secretario Ejecutivo en todos los casos.
 
-Los cargos de miembros de la Comisión serán honoríficos.
+Los cargos de los integrantes de la Comisión serán honoríficos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2018)</small>
 
@@ -233,17 +297,23 @@ La organización y funcionamiento de la Comisión que se refiere el presente Cap
 
 La Comisión, tendrá las siguientes atribuciones:
 
-I.- Dirigir la implementación de la política pública de gobierno digital en el Estado, a través del uso y aprovechamiento estratégico de las Tecnologías de la Información;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+I.- Dirigir la implementación de la política pública de gobierno digital en el Estado, las cuales podrán generar un aprovechamiento estratégico de las Tecnologías de la Información.
 
 II.- Estimular el desarrollo de soluciones innovadoras que conduzcan al establecimiento y optimización de Trámites y Servicios Digitales a nivel gubernamental;
 
-III.- Instruir la creación de los instrumentos que garanticen a los ciudadanos el derecho permanente de realizar Trámites y Servicios Digitales en los Portales Transaccionales gubernamentales;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III.- Generar instrumentos que establezcan la utilización de Trámites y Servicios Digitales en los Portales Transaccionales gubernamentales.
 
 IV.- Aprobar el Programa Estratégico de Gobierno Digital de Durango;
 
 V.- Aprobar el Programa Anual Transversal de Desarrollo Tecnológico;
 
-VI.- Ordenar la instrumentación para administrar tanto los sistemas de información como la implementación de las normas y procedimientos relativos al uso y aprovechamiento estratégico de las Tecnologías de la Información en el ámbito de competencia de los sujetos de la presente ley, a la vez que ofrecerá asesoramiento tanto a los Ayuntamientos como a los Poderes Ejecutivo, Legislativo y Judicial, así como los Organismos Autónomos, para el logro del objeto de la presente Ley;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI.- Ordenar la elaboración de los mecanismos para administrar tanto los sistemas de información; así como llevar a cabo la implementación de las normas y procedimientos relativos al uso y aprovechamiento estratégico de las Tecnologías de la Información en el ámbito de competencia de los sujetos de la presente ley, a la vez que ofrecerá asesoramiento tanto a los Ayuntamientos como a los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Constitucionales Autónomos, para el logro del objeto de la presente Ley.
 
 VII.- Facilitar la incorporación a las soluciones Transaccionales gubernamentales de las mejores prácticas del sector tecnológico, por medio de licenciamientos y adiestramientos globales u otros esquemas aplicables a nivel gubernamental;
 
@@ -255,7 +325,11 @@ X.- Promover la interoperabilidad entre las tecnologías existentes a nivel Esta
 
 XI.- Aprobar los (sic) medidas que garanticen la seguridad, protección y confidencialidad de los datos personales proporcionados por los ciudadanos al realizar los trámites y servicios digitales, siempre que dichas medidas no contravengan las disposiciones aplicables a la materia;
 
-XII.- Las demás atribuciones que se acuerden en el pleno de la misma Comisión de Gobierno Digital, y los demás ordenamientos legales aplicables.
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XII.- Apoyar las gestiones administrativas y operacionales que realice la Comisión, a efecto de llevar a cabo sus actividades de la mejor manera; y
+
+XIII.- Las demás atribuciones que se acuerden en el pleno de la misma Comisión de Gobierno Digital, y los demás ordenamientos legales aplicables.
 
 ### CAPÍTULO II. Del Comité de Desarrollo Tecnológico
 
@@ -267,11 +341,19 @@ Se crea el Comité de Desarrollo Tecnológico de Durango como un órgano de ases
 
 El Comité, para el logro de su objeto y resolución de los asuntos de su competencia, estará integrado por:
 
-I.- Un Presidente, que será el Titular de Innovación Gubernamental;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II.- Un Secretario Ejecutivo, que será el Titular de la Unidad de Informática o su equivalente del Ayuntamiento de Durango;
+I.- Un Presidente, que será el Titular de la Dirección de Informática de la Secretaría de Finanzas y de Administración;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II.- Un Secretario Ejecutivo, que será designado por el Presidente;
 
 III.- Cinco Vocales, quecon (sic) carácter permanente, que serán los responsables del área de Informática o su equivalente de las Dependencias que designe la Comisión.
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV.- Dos vocales, que con carácter de permanente serán los responsables de la gestión y coordinación de los trabajos que se desarrollen en conjunto con la Comisión o su equivalente que las Dependencias designen.
 
 ###### Artículo 15.
 
@@ -353,17 +435,21 @@ Durante el mes de octubre de cada ejercicio fiscal, el Comité deberá elaborar 
 
 Los sujetos de la presente ley, deberán transformar sus Portales Informativos actuales en Portales Transaccionales, a fin de que los ciudadanos puedan realizar, de manera ágil y sencilla, los trámites y servicios digitales que ofrecen en sus respectivos ámbitos de competencia.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 25.
 
-En la conversión de los Portales Internet en Portales Transaccionales, los sujetos de la presente ley, deberán incorporar tecnología a sus programas gubernamentales, con el fin de permitir a los ciudadanos realizar trámites y servicios digitales a través de sus respectivos Portales, logrando así la evolución hacia un gobierno sin papel.
+En la implementación de los Portales Transaccionales, los sujetos de la presente ley, deberán incorporar tecnología a sus programas gubernamentales, con el fin de permitir a los ciudadanos realizar trámites y servicios digitales a través de sus respectivos Portales, logrando así la evolución hacia un gobierno sin papel.
 
 ###### Artículo 26.
 
 Para el cumplimiento de lo establecido en el artículo anterior, los sujetos de la presente ley, deberán consultar previamente con el Comité la arquitectura gubernamental digital a través de la cual podrán incorporar a sus portales los servicios y trámites digitales, a fin de que entre ellos haya congruencia y uniformidad en la aplicación de la misma.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 27.
 
-Los sujetos de la presente ley, deberán garantizar que todos sus trámites y servicios que ofrezcan a los ciudadanos, se puedan realizar en formato digital, a fin de que éstos puedan realizarse a través de sus Portales Transaccionales, en la medida en que la naturaleza del trámite y/o servicio lo permita.
+Los sujetos de la presente ley, deberán garantizar que todos los trámites y servicios que ofrezcan a los ciudadanos en formato presencial y/o físico, se puedan realizar además en un formato digital, a fin de que puedan realizarse desde de sus Portales Transaccionales, en la medida en que la naturaleza del trámite y/o servicio lo permita.
 
 ###### Artículo 28.
 
@@ -372,6 +458,8 @@ Los sujetos de la presente ley, deberán mantener permanentemente actualizados y
 ## TÍTULO IV. De Las Atribuciones para el Desarrollo Del Gobierno Digital
 
 ### CAPÍTULO I. De los Sujetos obligados al cumplimiento de la presente ley
+
+> <small>[N. DE E. MEDIANTE DECRETO NÚMERO 412, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2018, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE XV A XIV FRACCIONES.]</small>
 
 ###### Artículo 29.
 
@@ -389,23 +477,37 @@ V.- Incorporar mejores prácticas del sector tecnológico a todos los programas 
 
 VI.- Promover la integración de una plataforma tecnológica transversal que coadyuve al logro de la interconexión e interoperabilidad de sus redes, con el fin de crear una red de comunicaciones que interconecte los sistemas de información de cada uno de los sujetos de la presente ley, y permita el intercambio de información y servicios entre los mismos;
 
-VII.- No solicitar a un ciudadano o empresa, en la realización de algún trámite o prestación de algún servicio, la presentación de información o documentación que sobre él mismo ya obre en poder de alguno de los sujetos de la presente ley;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-VIII.- Cumplir, en la planeación, programación, presupuestación, adquisición de servicios y uso estratégico de Tecnologías de la Información, con lo establecido en los lineamientos técnicos y en las disposiciones programáticas y presupuestales;
+VII.- Cumplir, en la planeación, programación, presupuestacion, adquisición de servicios y uso estratégico de Tecnologías de la Información, con lo establecido en los lineamientos técnicos y en las disposiciones programáticas y presupuestales;
 
-IX.- Desarrollar las acciones y gestiones necesarias para incorporar a sus respectivos Portales Transaccionales, los Trámites y Servicios Digitales que determinen como prioritarias, a través del uso y aprovechamiento estratégico de tecnologías de la información;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-X.- Diseñar e implementar acciones; a través de sus respectivas áreas de informática, para impulsar la evolución de trámites y servicios presenciales hacia Trámites y Servicios Digitales;
+VIII.- Desarrollar las acciones y gestiones necesarias para incorporar a sus respectivos Portales Transaccionales, los Trámites y Servicios Digitales que determinen como prioritarias, a través del uso y aprovechamiento estratégico de tecnologías de la información;
 
-XI.- Habilitar los medios electrónicos que estimen convenientes, para la prestación de los trámites y servicios digitales, siempre y cuando se utilicen estándares abiertos o, en su caso, aquellos otros que sean de uso generalizado por los ciudadanos, garantizando a éstos el acceso a los mismos;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XII.- Realizar las acciones necesarias, al interior de su estructura, para promover la conversión, desarrollo y actualización permanente de sus Portales Transaccionales;
+IX.- Diseñar e implementar acciones, a través de sus respectivas áreas de informática, para impulsar la evolución de trámites y servicios presenciales hacia Trámites y Servicios Digitales;
 
-XIII.- Elaborar su Programa Anual de Desarrollo Tecnológico y presentarlo al Comité, para su evaluación y aprobación respectivas, dentro del plazo establecido en el artículo 21 del presente ordenamiento;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XIV.- Emitir copias digitales de los documentos asociados a un trámite y/o servicio validadas por la Firma Electrónica Avanzada correspondiente, y
+X.- Habilitar los medios electrónicos que estimen convenientes, para la prestación de los trámites y servicios digitales, siempre y cuando se utilicen estándares abiertos o, en su caso, aquellos otros que sean de uso generalizado por los ciudadanos, garantizando a éstos el acceso a los mismos;
 
-XV.- Las demás que determine la Comisión y el Comité, para el cumplimiento de la presente Ley.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XI.- Realizar las acciones necesarias, al interior de su estructura, para promover la conversión, desarrollo y actualización permanente de sus Portales Transaccionales;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XII.- Elaborar su Programa Anual de Desarrollo Tecnológico y presentarlo al Comité, para su evaluación y aprobación respectivas, dentro del plazo establecido en el artículo 21 del presente ordenamiento;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XIII.- Emitir copias digitales de los documentos asociados a un trámite y/o servicio validadas por la Firma Electrónica Avanzada correspondiente; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XIV.- Las demás que determine la Comisión y el Comité, para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO II. De los Ayuntamientos
 
@@ -435,9 +537,13 @@ VIII. Las demás que le otorgue esta ley u otros ordenamientos.
 
 ## TÍTULO V. Derechos de los Ciudadanos y empresas a relacionarse con los Sujetos obligados al cumplimiento de la presente ley, a través del Gobierno Digital
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 32.
 
-Los ciudadanos y empresas del Estado tendrán derecho a relacionarse con los servidores públicos de los sujetos de la presente ley, a través de medios electrónicos, para recibir por medio de de (sic) los mismos, atención, información gubernamental, y la oportunidad de realizar consultas, formular solicitudes, efectuar pagos y, en general, realizar Trámites y Servicios Digitales.
+Los ciudadanos y las empresas del Estado tendrán derecho a relacionarse con los servidores públicos de los sujetos de la presente ley, a través de los medios físicos y electrónicos, para recibir atención, información gubernamental, y la oportunidad de realizar consultas, formular solicitudes, efectuar pagos y, en general, realizar Trámites y Servicios Digitales.
+
+> <small>[N. DE E. MEDIANTE DECRETO NÚMERO 412, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2018, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE VIII A VII FRACCIONES.]</small>
 
 ###### Artículo 33.
 
@@ -445,19 +551,29 @@ Los ciudadanos y empresas del Estado tienen, en relación con la utilización de
 
 I. A elegir, de entre aquellos que los sujetos de la presente ley hayan puesto a su disposición, el medio electrónico a través del cual se relacionarán con dichos sujetos.
 
-II. A no entregar, para la realización de Trámites y Servicios Digitales, los documentos que les requieran los sujetos de la presente ley, en el supuesto de que dichos documentos hayan sido expedidos con anterioridad por cualquiera de los citados sujetos;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-III. A tener acceso, por medios electrónicos, a los Trámites y Servicios Digitales de los sujetos de la presente ley.
+II.- A tener acceso, por medios electrónicos, a los Trámites y Servicios Digitales de los sujetos de la presente ley;
 
-IV. A conocer, por aquellos medios electrónicos que los sujetos de la presente ley hayan puesto a su disposición, el estado de tramitación de los procedimientos administrativos en los que tengan el carácter de legítimos interesados, salvo en los supuestos en que la legislación aplicable a la materia, establezca restricciones al acceso de la información sobre aquéllos.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-V. A obtener copias electrónicas de los documentos que formen parte de los expedientes administrativos en los que tengan el carácter de legítimos interesados; dichas copias electrónicas deberán de estar validadas por la Firma Electrónica Avanzada correspondiente;
+III.- A conocer, por aquellos medios electrónicos que los sujetos de la presente ley hayan puesto a su disposición, el estado de tramitación de los procedimientos administrativos en los que tengan el carácter de legítimos interesados, salvo en los supuestos en que la legislación aplicable a la materia, establezca restricciones al acceso de la información sobre aquéllos;
 
-VI. A utilizar la firma electrónica avanzada en los actos, procedimientos administrativos y trámites y servicios que se lleven a cabo entre los sujetos de la presente ley y entre éstos y los particulares, en los términos de la legislación aplicable a la materia;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-VII. A la garantía de la seguridad, protección y confidencialidad de sus datos personales que aparezcan en los sistemas y aplicaciones de los sujetos de la presente ley, de conformidad con lo dispuesto en la presente Ley;
+IV.- A obtener copias electrónicas de los documentos que formen parte de los expedientes administrativos en los que tengan el carácter de legítimos interesados; dichas copias electrónicas deberán de estar validadas por la Firma Electrónica Avanzada correspondiente;
 
-VIII. A ser atendido en tiempo y forma en la realización de los Trámites y Servicios Digitales prestados a través de los medios electrónicos que pongan a su disposición las dependencias, entidades y unidades estatales y municipales.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+V.- A utilizar la firma electrónica avanzada en los actos, procedimientos administrativos, trámites y servicios que se lleven a cabo entre los sujetos de la presente ley y entre éstos y los particulares, en los términos de la legislación aplicable a la materia;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI.- A la garantía de la seguridad, protección y confidencialidad de sus datos personales que aparezcan en los sistemas y aplicaciones de los sujetos de conformidad con lo dispuesto en la presente Ley; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VII.- A ser atendido en tiempo y forma en la realización de los Trámites y Servicios Digitales prestados a través de los medios electrónicos que pongan a su disposición las dependencias, entidades y unidades estatales y municipales.
 
 ## TÍTULO VI. Seguridad y Protección de Datos Personales
 
@@ -483,9 +599,13 @@ Para el cumplimiento de lo anterior, los servidores públicos de los sujetos de 
 
 Los servidores públicos que infrinjan las disposiciones de esta Ley, serán sancionados conforme lo determina la Ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios.
 
+> <small>[N. DE E. MEDIANTE DECRETO NÚMERO 412, PUBLICADO EN EL P.O. DE 19 DE JULIO DE 2018, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE XIII A XII FRACCIONES.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 38.
 
-Serán causales de responsabilidad administrativa para los Titulares de las dependencias, entidades, unidades y órganos de los sujetos de la presente ley, en los términos de la Ley de de (sic) la materia, el incurrir en la omisión o incumplimiento de los supuestos que a continuación se establecen, en forma enunciativa, más no limitativa:
+Serán causales de responsabilidad administrativa para los Titulares de las dependencias, entidades, unidades y órganos de los sujetos de la presente ley, el incurrir en la omisión o incumplimiento de los supuestos que a continuación se establecen, en forma enunciativa, más no limitativa:
 
 I.- Convertir a Portales Transaccionales sus Portales informativos, dentro del plazo que para el efecto señala la presente Ley;
 
@@ -501,17 +621,25 @@ VI.- Incorporar mejores prácticas del sector tecnológico a sus Portales Transa
 
 VII.- Integrar sus servicios de tecnologías de la información a una plataforma tecnológica transversal que coadyuve al logro de la interconexión e interoperabilidad de las redes de los sujetos de la presente ley, y permita el intercambio de información y servicios entre los mismos;
 
-VIII.- Realizar acciones para evitar solicitar a un ciudadano la presentación de información o documentación que sobre él mismo ya obre en poder de alguno de los sujetos de la presente ley, en la medida del cumplimiento de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-IX.- Observar los Lineamientos técnicos y las disposiciones programáticas y presupuestales en la planeación, programación, presupuestación, adquisición de servicios y uso estratégico de Tecnologías de la Información;
+VIII.- Observar los lineamientos técnicos y las disposiciones programáticas y presupuestales en la planeación, programación, presupuestación, adquisición de servicios y uso estratégico de Tecnologías de la Información;
 
-X.- Diseñar e implementar acciones, a través de sus respectivas áreas de informática, con la finalidad de impulsar la transformación de trámites y servicios presenciales en Trámites y Servicios Digitales;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XI.- Mantener permanentemente la actualización de sus Portales Transaccionales;
+IX.- Diseñar e implementar acciones, a través de sus respectivas áreas de informática, con la finalidad de impulsar la transformación de trámites y servicios presenciales en Trámites y Servicios Digitales;
 
-XII.- Elaborar su Programa Anual de Desarrollo Tecnológico;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XIII.- Las demás que determine la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+X.- Mantener permanentemente la actualización de sus Portales Transaccionales;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XI.- Elaborar su Programa Anual de Desarrollo Tecnológico; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XII.- Las demás que determine la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
 ###### Artículo 39.
 
@@ -594,3 +722,15 @@ P.O. 13 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 372.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DEL GOBIERNO DIGITAL DEL ESTADO DE DURANGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 412.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE DURANGO Y A LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- La Comisión Estatal de Gobierno Digital de Durango, deberá integrarse a mas tardar 30 días después de la entrada en vigor del presente decreto.
+
+TERCERO.- A falta de disposición expresa en esta ley o en las demás disposiciones que de ellas se deriven, se aplicaran supletoriamente la Ley de Justicia Administrativa del Estado de Durango y la Legislación Procesal Civil aplicable.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente decreto.
