@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-66956"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2014-11-16"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de enero de 2009.
 
@@ -45,101 +45,175 @@ LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 1.
 
-La presente ley tiene por objeto regular y garantizar el derecho a la igualdad entre mujeres y hombres mediante los mecanismos institucionales y de aceleramiento para la igualdad así como a través de las políticas públicas de equiparación que permitan en el estado, la materialización de la igualdad sustantiva o real en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres.
+La presente ley tiene por objeto regular y garantizar el derecho a la igualdad entre mujeres y hombres mediante los mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público, privado y social, en el que se incorporen medidas especiales con enfoque de interseccionalidad para eliminar todo tipo de discriminación y se promueva la autonomía y el empoderamiento de las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 2.
 
-Son principios rectores que favorecen a la igualdad sustantiva de la presente ley:
+Son principios rectores de manera enunciativa, más no limitativa de la presente ley:
 
-I. La accesibilidad de derechos
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+I.- La igualdad.
 
 II. La no discriminación
 
-III. La racionalidad pragmática
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2018)</small>
 
-IV. La seguridad y certeza jurídica
+III.- La paridad.
 
-V. La sostenibilidad social
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2018)</small>
 
-VI. La democracia de género
+IV.- La accesibilidad de derechos.
 
-VII. La paridad genérica
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+V.- La racionalidad pragmática.
 
-VIII. Todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Durango.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI.- La seguridad y certeza jurídica.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VII.- La sostenibilidad social.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VIII.- La democracia de género, y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IX.- Todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Durango y en los tratados y convenciones internacionales de los que el Estado mexicano sea parte.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 3.
 
-Sus disposiciones son de orden público e interés social y de observancia general en el Territorio del Estado libre y soberano de Durango, su aplicación y debida observancia será en los ámbitos públicos y privados y corresponde a la administración pública estatal y municipal del Estado, de conformidad con sus respectivas competencias, debiendo tomar las medidas presupuestales y administrativas que permitan garantizar la igualdad sustantiva y de trato, sin discriminación de cualquier tipo.
+Sus disposiciones son de orden público e interés social y de observancia general en el Territorio del Estado libre y soberano de Durango, su aplicación y debida observancia será en los ámbitos públicos, privados y social y corresponde a la administración pública estatal y municipal del Estado, de conformidad con sus respectivas competencias, debiendo tomar las medidas presupuestales y administrativas que permitan garantizar la igualdad sustantiva entre mujeres y hombres, sin discriminación de cualquier tipo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 4.
 
-Quedando la rectoría y operación de la política en materia de igualdad sustantiva en el Estado, a cargo del ejecutivo estatal, quien la ejercerá a través del Instituto de la Mujer Duranguense y de las disposiciones de la presente ley.
+Quedando la rectoría y operación de la política en materia de igualdad sustantiva en el Estado, a cargo del ejecutivo estatal, quien la ejercerá a través del Instituto Estatal de las Mujeres y de las disposiciones de la presente ley.
 
 En clara concordancia con la legislación nacional de la materia y los instrumentos internacionales suscritos y ratificados por el Estado Mexicano. En lo no previsto en esta ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, Ley Orgánica para la Comisión Estatal de Derecho Humanos y la Ley del Instituto de la Mujer Duranguense.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 5.
 
-Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en el territorio del Estado Libre y Soberano de Durango, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o capacidades diferentes, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de los derechos que establece esta ley, las mujeres y los hombres que se encuentren en el territorio del Estado Libre y Soberano de Durango, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o capacidades diferentes, establecidos en el artículo 5 de la Constitución Política del Estado Libre y Soberano de Durango, esta ley o las demás disposiciones que le sean aplicables, se encuentren con algún tipo de desventaja, trato diferenciado o ante la violación del principio de igualdad que esta Ley tutela.
 
 ###### Artículo 6.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Medidas especiales.- Es el conjunto de acciones de carácter temporal encaminadas a acelerar la igualdad sustantiva de hecho entre mujeres y hombre (sic). Las cuales cesarán cuando se alcance dicha igualdad;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+I. Medidas especiales o acciones afirmativas.- Es el conjunto de acciones de carácter temporal encaminadas a acelerar la igualdad de oportunidades o de hecho entre mujeres y hombres. Las cuales cesarán cuando se alcance dicha igualdad;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE JULIO DE 2018)</small>
 
 II. Medidas compensatorias.- Son las acciones del estado tendientes a disminuir el impacto generado por la discriminación, la desigualdad o cualquier tipo de victimización, prevista en la Ley de las Mujeres para una Vida Libre de Violencia del Estado Libre y Soberano de Durango;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE JULIO DE 2018)</small>
+
 III. Medidas permanentes.- Es el conjunto de modificaciones jurídicas o estructurales a los diversos ordenamientos del Estado y a las prácticas sociales y culturales de buen trato para la construcción de la igualdad real o sustantiva;
 
-III (sic). Política de igualdad.- Es el conjunto de acciones para mejorar la situación de las mujeres y niñas en la sociedad con miras a la construcción fáctica de la igualdad;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-IV. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+IV. Política de igualdad.- Es el conjunto de acciones para mejorar la situación de las mujeres y niñas en la sociedad con miras a la construcción fáctica de la igualdad;
 
-V. Accesibilidad.- Es el conjunto de condiciones que permiten la facilidad para ejercer los derechos de los cuales son titulares las personas, de una manera comprensible e independiente;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-VI. Racionalidad pragmática.- El conjunto de razones para hacer práctica la igualdad, el ejercicio de los derechos y la toma de decisiones;
+V. Transversalidad.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
 
-VII. Empoderamiento.- Es el proceso por medio del cual se logra conducirse con autonomía y auto independencia, ejerciendo plenamente sus derechos y toma de decisiones libremente. Sin coacciones ni imposiciones de ningún tipo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-VII (sic). Perspectiva de género.- Es la categoría científica, analítica y política que revisa las relaciones, construcciones y significados sociales entre mujeres y hombres, a partir de las diferencias biológicas, eliminado la opresión de género, que se base en la desigualdad y discriminación;
+VI. Accesibilidad.- Es el conjunto de condiciones que permiten la facilidad para ejercer los derechos de los cuales son titulares las personas, de una manera comprensible e independiente;
 
-VIII. Ley.- La Ley de Igualdad entre Mujeres y Hombres del Estado de Durango;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-IX. Oficial de género.- El oficial de género del instituto de las mujeres duranguenses;
+VII. Racionalidad pragmática.- Es el conjunto de razones para hacer práctica la igualdad, el ejercicio de los derechos y la toma de decisiones;
 
-XI. Sistema Estatal.- El sistema estatal de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XII. Instituto.- El Instituto de la Mujer Duranguense;
+VIII. Empoderamiento.- Es el proceso por medio del cual se logra conducirse con autonomía y auto independencia, ejerciendo plenamente sus derechos y toma de decisiones libremente. Sin coacciones ni imposiciones de ningún tipo;
 
-XII (sic). Comisión.- La Comisión de Igualdad y No Discriminación de Durango; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XIII. Programa estatal.- Programa Estatal para Garantizar la Igualdad Sustantiva entre Mujeres y Hombres.
+IX. Perspectiva de género.- Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, igualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+X. Ley.- La Ley de Igualdad entre Mujeres y Hombres del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XI. Oficial de género.- El oficial de género del Instituto Estatal de las Mujeres;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XII. Sistema Estatal.- El Sistema Estatal para la Igualdad entre Mujeres y Hombres de Durango;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XIII. Instituto.- El Instituto Estatal de la Mujer;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XIV. Programa Estatal.- Programa Estatal para Garantizar la Igualdad Sustantiva entre Mujeres y Hombres;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XV. Discriminación: Para los efectos de esta ley se entenderá por discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de las siguientes condiciones: el origen étnico o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otra condición.
+
+También se entenderá como discriminación la homofobia, la misoginia, cualquier manifestación de xenofobia, la segregación racial, el antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XVI. Discriminación contra la mujer: Toda distinción, exclusión o restricción basada en el sexo tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XVII. Interseccionalidad: Se refiere al enfoque para identificar y determinar que la discriminación de la mujer por motivos de sexo y género está unida de manera indivisible a otros factores que afectan a las mujeres, tales como la raza, la etnia, la religión o creencias, la salud, la edad, la clase entre otras condiciones que afectan a las mujeres de algunos grupos en diferente medida que al resto de las personas.
 
 ### CAPÍTULO II. DE LA IGUALDAD SUSTANTIVA
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 7.
 
-La igualdad sustantiva o real, es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+La igualdad sustantiva o real, es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Implica la eliminación de toda forma de discriminación que límite, menoscabe o anule los derechos humanos, económicos, políticos y sociales de las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 8.
 
-La igualdad jurídica tendrá como objetivos:
+La igualdad sustantiva entre mujeres y hombres tendrá como objetivos:
 
 I. La eliminación de tratos diferenciados en las normas y prácticas jurídicas, a partir del sexo de las y los ciudadanos.
 
-II. El acceso a la justicia y la socialización del derecho.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. El acceso a la justicia, el debido proceso y la socialización de los derechos humanos de las mujeres.
 
 III. La armonización normativa de la legislación estatal y municipal con los instrumentos internacionales que favorecen los derechos humanos de las mujeres y eliminan la discriminación.
 
 IV. La armonización judicial, que permita que las resoluciones y determinaciones del poder judicial del estado se motiven y fundamenten en los instrumentos internacionales señalados en la fracción anterior.
 
 V. Privilegiar la suplencia de la queja para las mujeres cuando sea procedente, a fin de establecer una igualdad entre desiguales.
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI. La incorporación de la perspectiva de género en todas las normas jurídicas.
 
 ###### Artículo 9.
 
@@ -165,11 +239,17 @@ I. Vigilancia de las diversas instancias que integran la administración públic
 
 II. Establecer el acompañamiento sustantivo para las unidades administrativas que lo requieren, a fin de favorecer las buenas prácticas de la igualdad.
 
-III. La transversalidad de las políticas públicas.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-IV. Garantizar la institucionalización de la igualdad;
+III. La transversalidad de la perspectiva de género en las políticas públicas.
 
-V. Evaluar la aplicación de la legislación en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV. Garantizar la institucionalización de la perspectiva de género en las Administraciones Públicas Estatal y Municipales.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+V. Evaluar la aplicación de la legislación y de las políticas públicas en materia de igualdad sustantiva entre mujeres y hombres.
 
 VI. Buscar el liderazgo y la toma de decisiones autónoma de las mujeres.
 
@@ -177,13 +257,19 @@ VII. Erradicar las distintas modalidades de violencia de género.
 
 VIII. Notificar La trasgresión a los principios y programas que la presente ley establecen a fin de que sea sancionada de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios del Estado.
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IX. Promover la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo en todos los niveles decisorios de la vida económica, política y publica del país.
+
 ## TÍTULO SEGUNDO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ### CAPÍTULO I. DEL ESTADO
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 13.
 
-EL Congreso del Estado, en base a la Constitución del Estado libre y soberano de Durango, sus principios, políticas y objetivos preverá la armonización legislativa a que haya lugar, en materia de la igualdad entre mujeres y hombres, sin perjuicio de las normas que regulan la violencia de género y la no discriminación, evaluando anualmente la aplicación de las normas que se apruebe, en coordinación con la administración pública estatal.
+El Congreso del Estado, en base a la Constitución del Estado Libre y Soberano de Durango, sus principios, políticas y objetivos preverá la armonización legislativa a que haya lugar, en materia de la igualdad sustantiva entre mujeres y hombres, sin perjuicio de las normas que regulan la violencia de género en contra de las mujeres y la no discriminación, evaluando de manera periódica la aplicación de las normas que se aprueben, en coordinación con la administración pública estatal.
 
 ###### Artículo 14.
 
@@ -201,15 +287,23 @@ Corresponde al ejecutivo estatal, sin perjuicio de las atribuciones que tiene co
 
 I. Conducir y determinar la Política estatal de igualdad.
 
-II. Diseñar, aprobar e implementar las Políticas públicas en la materia, conforme a las disposiciones de esta ley.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Diseñar, implementar y evaluar las políticas públicas en la materia, con una proyección de mediano y largo plazo conforme a las disposiciones de esta ley.
 
 III. Aprobar el programa de igualdad.
 
-IV. Garantizar la igualdad sustantiva y sus principios rectores, mediante la adopción de políticas, programas, proyectos y la debida aplicación de las medidas que esta ley prevé.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-V. Incorporar los acuerdos de la Comisión de Igualdad y No Discriminación al sistema estatal.
+IV. Garantizar la igualdad sustantiva y sus principios rectores, mediante la adopción de políticas, programas, acciones, estrategias y la debida aplicación de las medidas que esta ley prevé.
 
-VI. Crear y fortalecer las instancias administrativas que, se ocupen del adelanto de las mujeres en el Estado y sus municipios.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+V. Incorporar los acuerdos del Sistema Estatal en la política de igualdad.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI. Crear, fortalecer y consolidar las instancias administrativas que, se ocupen del adelanto de las mujeres en el Estado y sus municipios, dotándolas de recursos humanos, técnicos y políticos, así como de un presupuesto específico para su operación.
 
 VII. Efectuar la planeación y previsión para Incorporar en los Presupuestos de Egresos del Estado la asignación de recursos para el cumplimiento de la Política de igualdad.
 
@@ -237,45 +331,17 @@ VI. La (sic) buenas prácticas.
 
 ###### Artículo 17.
 
-La Comisión de Igualdad y No Discriminación del Estado, se conformará de la siguiente manera:
-
-I. El titular de la Secretaria de gobierno del Estado;
-
-II. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2014)
-
-III. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2014)
-
-IV. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2014)
-
-V. La titular del Instituto de la Mujer Duranguense;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
-
-VI. El presidente de la Comisión Legislativa de Equidad y Género del Congreso del Estado;
-
-VII. Un representante del Tribunal Superior de Justicia del Estado; y
-
-VIII. El presidente de la Comisión de Derechos Humanos del Estado.
+(DEROGADO, P.O. 19 DE JULIO DE 2018)
 
 ###### Artículo 18.
 
-La Comisión, será presidida por el Secretario de Gobierno del Estado y tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 19 DE JULIO DE 2018)
 
-I. Será la encargada de coordinar el monitoreo de la política estatal en la materia;
-
-II. Estructurará la observancia de la igualdad sustantiva en términos de la ley;
-
-III. Efectuará el seguimiento, evaluación y sostenibilidad;
-
-IV. Presentar informes especiales en la materia objeto de esta ley;
-
-V. Verificar la observancia de la ley; y
-
-VI. Las demás que sean necesarias para cumplir los objetivos de esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 19.
 
-Corresponde al Instituto de la Mujer Duranguense, en materia de la presente ley:
+Corresponde al Instituto Estatal de las Mujeres, en materia de la presente ley:
 
 I. Coordinar las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa, con los principios que la ley señala;
 
@@ -291,9 +357,13 @@ VI. Efectuar el procedimiento de acompañamiento sustantivo;
 
 VII. Designar el oficial de género a las dependencias que corresponda con arreglo a la presente ley.
 
-VIII. Operar la secretaria ejecutiva del (sic) la comisión de igualdad;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-IX. Favorecer la institucionalización de las buenas prácticas de igualdad en la administración pública estatal;
+VIII. Operar la Secretaría Ejecutiva del Sistema Estatal;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IX. Favorecer la institucionalización de las buenas prácticas de igualdad y la incorporación de la perspectiva de género en la administración pública estatal;
 
 X. Recibir quejas, y formular recomendaciones por prácticas desiguales, a particulares;
 
@@ -303,9 +373,85 @@ XII. Celebrar los convenios y bases de colaboración con los diferentes sectores
 
 XIII. Promover, coordinar y realizar la revisión de programas y servicios en materia de igualdad;
 
-XIV. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XV. Las demás que sean necesarias para cumplir los objetivos de esta ley.
+XIV. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XV. Coadyuvar con el diseño e instrumentación de mecanismos de formación y capacitación continua en materia de igualdad de género, de derechos humanos y de derechos de las mujeres en instituciones públicas del Estado, con especial énfasis en los sistemas de justicia, de seguridad pública, de salud y educación;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XVI. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de la Administración Pública Estatal, con sujeción a las disposiciones aplicables; y
+
+XVII. Las demás que sean necesarias para cumplir los objetivos de esta ley.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Artículo 19 BIS.- El Sistema Estatal es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la Administración Pública del Estado y con el sector social a fin de efectuar acciones de común acuerdo destinadas a la promoción, protección y procuración de la igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Artículo 19 TER.- El Sistema Estatal estará integrado por:
+
+I. El Poder Ejecutivo Estatal a través de la Secretaria General de Gobierno quien lo presidirá;
+
+II. La Secretaría de Desarrollo Social;
+
+III. El Instituto Estatal de las Mujeres, quien fungirá como Secretario Ejecutivo;
+
+IV. La Secretaría de Finanzas y de Administración;
+
+V. La Secretaría de Educación;
+
+VI. La Secretaría de Salud;
+
+VII. La Secretaría de Desarrollo Económico;
+
+VIII. La Secretaría de Seguridad Pública;
+
+IX. La Secretaría de Trabajo y Prevención Social;
+
+X. La Fiscalía General del Estado;
+
+XI. El Presidente de la Comisión de Igualdad y Género del Congreso del Estado; y
+
+XII. Los presidentes de los consejos municipales.
+
+El Sistema Estatal sesionara cuando menos dos veces al año, podrá celebrar las reuniones extraordinarias que estime pertinentes y sus acuerdos se tomaran por el voto de la mayoría de las personas presentes, contara con voto de calidad la persona que lo presida, en caso de empate.
+
+Podrán acudir a las reuniones con derecho a voz, pero sin voto, integrantes de las organizaciones de la sociedad civil, de la academia y demás personas interesadas en la materia de igualdad.
+
+Para los efectos del párrafo anterior, la presidencia del Sistema a través del Instituto Estatal determinara el mecanismo de convocatoria, de acuerdo con las disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Artículo 19 QUÁTER.- El Instituto Estatal, coordinará las acciones del Sistema Estatal, la determinación de lineamientos generales para el establecimiento de políticas públicas en materia de igualdad, así como las medidas para vincularlo con otros sistemas de carácter nacional, y las demás que sean necesarias para cumplir con los objetivos de la ley.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Artículo 19 QUINQUIES.- El Sistema Estatal tendrá los siguientes objetivos:
+
+I. Promover la igualdad sustantiva entre mujeres y hombres y contribuir a la erradicación de cualquier tipo de discriminación;
+
+II. Contribuir a la promoción de los derechos humanos y el adelanto de las mujeres;
+
+III. Coadyuvar a la modificación de prácticas consuetudinarias discriminatorias, tradiciones, prejuicios y estereotipos sexistas y de cualquier otra índole que estén basadas en la idea de inferioridad o superioridad de cualquiera de los sexos, que discriminen o fomenten la violencia de género; y
+
+IV. Promover el desarrollo de programas y servicios que fomente la igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Artículo 19 SEXIES.- El Sistema Estatal tendrá las siguientes atribuciones:
+
+I. Determinar lineamientos generales para el establecimiento de las políticas de igualdad sustantiva entre mujeres y hombres;
+
+II. Coordinar los programas de igualdad entre mujeres y hombres de las dependencias y entidades de la Administración Pública Estatal;
+
+III. Formular propuestas a las dependencias de las (sic) Administración Pública Estatal sobre la asignación de recursos que requieran los programas para garantizar el principio de igualdad sustantiva entre mujeres y hombres; y
+
+IV. Revisar el programa estatal cada tres años, de conformidad con la evaluación del impacto de la información que le sea proporcionada por la Secretaría Ejecutiva.
 
 ### CAPÍTULO III. DE LOS MUNICIPIOS
 
@@ -319,9 +465,21 @@ II. Establecer los programas comunitarios y sociales para lograr la igualdad ent
 
 III. Prever las necesidades presupuestarias para la ejecución del (sic) los programas de igualdad;
 
-IV. Vigilar las buenas prácticas de la administración pública municipal de igualdad y no discriminación, en concordancia con los principios rectores de la ley; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+IV. Vigilar las buenas prácticas de la administración pública municipal de igualdad y no discriminación, en concordancia con los principios rectores de la ley;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+V. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de la región en la materia que esta ley confiere.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difunden las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas.
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI. Fomentar la participación política de las mujeres y la participación ciudadana dirigida al logro de la igualdad entre mujeres y hombres, tanto en las áreas urbanas como rurales; y
+
+VII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ###### Artículo 21.
 
@@ -343,23 +501,37 @@ IX. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ### CAPÍTULO I. DE LOS ÁMBITOS DE OPERACIÓN DE LA IGUALDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 22.
 
-A fin de garantizar que la igualdad sustantiva, sus principios y estrategias se institucionalicen, con la debida transversalización, las políticas públicas que se articulen, deberán.
+A fin de garantizar que la igualdad sustantiva entre mujeres y hombres y que sus principios y estrategias se institucionalicen. Los planes, programas y políticas públicas que se articulen, deberán.
 
-I. Incorporar la perspectiva de género;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II. Diseñar mecanismos especiales para las mujeres en los diversos ámbitos donde se potencialice la igualdad sustantiva;
+I. Transversalizar la perspectiva de género en todos sus procesos;
 
-III. Planificar y organizar la administración pública estatal o municipal que las instrumente;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Diseñar, implementar y evaluar, mecanismos especiales para las mujeres en los diversos ámbitos donde se potencialice la igualdad sustantiva; tomando en cuenta el enfoque de la interseccionalidad que a el efecto se requiera;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. Planificar y organizar la administración pública estatal o municipal que las instrumente, incorporando unidades de gobierno y de coordinación intersectorial e interinstitucional con planes de trabajo específicos, y recursos suficientes para transversalizar la perspectiva de género, al interior de las instituciones y fomentar el logro de la igualdad sustantiva entre mujeres y hombres;
 
 IV. Establecer la certificación de buenas prácticas de igualdad;
 
-V. Contar con registros estadísticos desagregados por sexo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-VI. Tener interlocutores en el sector social y privado; y
+V. Contar con registros estadísticos desagregados por sexo, etnia, edad, y cualquier otra variable acorde con la implementación de acciones y estrategias regionales, con el objeto de contribuir al seguimiento, presentación de informes y rendición de cuentas encaminadas al logro de la igualdad sustantiva entre mujeres y hombres;
 
-VII. Establecer el seguimiento y evaluación.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI. Promover y orientar la participación del sector social y privado en la elaboración de las políticas públicas; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VII. Establecer el seguimiento, la evaluación, la transparencia y la rendición de cuentas de los programas y políticas públicas que se desarrollen para garantizar la igualdad sustantiva.
 
 ### CAPÍTULO II. DE LA IGUALDAD ECONÓMICA ENTRE MUJERES Y HOMBRES
 
@@ -367,7 +539,9 @@ VII. Establecer el seguimiento y evaluación.
 
 Será objetivo de la Política de igualdad en materia económica:
 
-I. Vigilar el otorgamiento de salarios iguales a mujeres y a hombres por trabajos iguales en condiciones iguales, en la administración pública estatal y en ámbito privado y social;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+I. Promover la igualdad salarial entre mujeres y hombres por trabajos de la misma naturaleza y en condiciones iguales, en la administración pública estatal y en ámbito privado y social;
 
 II. Efectuar las acciones para el acceso igualitario a procesos productivos; y
 
@@ -377,13 +551,27 @@ III. Establecer de fondos para la promoción de la igualdad en el trabajo.
 
 Para los efectos de lo previsto en el artículo anterior, la administración pública estatal desarrollará las siguientes acciones:
 
-I. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública estatal y municipal;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+I. Diseñar y aplicar lineamientos que aseguren la igualdad de oportunidades entre mujeres y hombres en la contratación del personal en la administración pública estatal y municipal;
 
 II. Establecer acciones de capacitación, educación y formación de las personas que en razón de su sexo están relegadas;
 
-III. Fomentar especialmente el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos, Destinar recursos para fomentar la contratación; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-IV. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que desarrollen buenas prácticas de igualdad en contratación y asignaciones salariales.
+III. Fomentar especialmente el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos, destinar recursos para fomentar la contratación;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que desarrollen buenas prácticas de igualdad en contratación y asignaciones salariales;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+V. Diseñar e instrumentar acciones y estrategias para eliminar las brechas de desigualdad en el acceso, el uso y las habilidades en materia de ciencia, tecnología e innovación; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI. Promover acciones que eliminen las asimetrías de género, raza, etnia, preferencia sexual y cualquier otro tipo de discriminación en el acceso y permanencia al mercado laboral, en la toma de decisiones y en la distribución de las remuneraciones.
 
 ### CAPÍTULO III. DE LA IGUALDAD POLÍTICA ENTRE MUJERES Y HOMBRES
 
@@ -391,37 +579,83 @@ IV. Establecer estímulos y certificados de igualdad que se concederán anualmen
 
 Serán objetivos de la política de igualdad en materia de participación política:
 
-I. Garantizar la participación en igualdad de oportunidades en la toma de decisiones políticas y de gobierno, en igual número mujeres y hombres; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II. Incorporar la paridad numérica en las contrataciones en la administración pública estatal y municipal.
+I. Garantizar la participación en igualdad de oportunidades en la toma de decisiones políticas y de gobierno, en igual número mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Incorporar la paridad en las contrataciones en la administración pública estatal y municipal;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. Asegurar la participación plena y efectiva de las mujeres y representación paritaria de liderazgo en la vida política, económica y pública del país; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV. Promover la participación inclusiva de las mujeres de todas las edades y la conciencia cívica de eliminar todo tipo de discriminación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 26.
 
-Para los efectos de lo previsto en el artículo anterior, la comisión desarrollará las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, la Administración Pública Estatal desarrollará las siguientes acciones:
 
-I. Vigilar que se garantice la participación e integración de mujeres y hombres en cargos de elección popular estatal y municipal;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II. Promover participación y representación de mujeres y hombres dentro de las estructuras de los sindicatos y partidos políticos en el Estado; y
+I. Garantizar la participación e integración paritaria de mujeres y hombres en cargos de elección popular estatal y municipal;
 
-III. Fomentar la no discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Promover la participación y representación paritaria de mujeres y hombres dentro de las estructuras de los sindicatos y partidos políticos en el Estado;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. Fomentar la no discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV. Incorporar estadísticas desagregadas por sexo, edad, etnia, y otras variables, relativas a la toma de decisiones y distribución de cargos directivos en los sectores público, privado y social.
 
 ### CAPÍTULO IV. DE LA IGUALDAD SOCIAL Y CULTURAL ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 27.
 
-Serán Objetivos de La Política de igualdad en materia derechos sociales y culturales:
+Serán objetivos de la política de igualdad en materia derechos sociales y culturales
 
-I. Favorecer el cambio de roles de los géneros en la sociedad, para una mayor igualdad; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación, la cultura y la salud.
+I. Promover el cambio cultural para eliminar practicas consuetudinarias discriminatorias, tradiciones, prejuicios y estereotipos sexistas y de cualquier otra índole que estén basadas en la idea de inferioridad o superioridad de cualquiera de los sexos;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Impulsar mecanismos y acciones que aseguren la igualdad entre mujeres y hombres en el acceso a los derechos sociales, con énfasis en la alimentación, la educación, la cultura y la salud; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. Promover y coordinar programas y acciones que desarrollen las capacidades y habilidades de las mujeres con el fin de generar condiciones que brinden mayores oportunidades para su desarrollo personal, productivo y humano.
 
 ###### Artículo 28.
 
 Para los efectos de lo previsto en el artículo anterior, la administración pública estatal desarrollará las siguientes acciones:
 
-I. Diseñar un acuerdo estatal sobre las reglas de la igualdad con los sectores públicos y privados; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-III. Efectuar estudios sobre la pobreza por género, para su debida eliminación.
+I. Diseñar un acuerdo estatal para el establecimiento de las bases generales de la participación de los sectores privado y social que orienten las reglas que promuevan la igualdad sustantiva y su articulación en el sector público;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Diseñar e implementar programas y políticas públicas para la reducción de la pobreza y el desarrollo sostenible con perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. Formular y concertar estrategias para la atención prioritaria e integral de la salud de todas las mujeres y de manera prioritaria las de las niñas, adolescentes, de, los pueblos y comunidades indígenas, las que habitan en zonas rurales y las adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV. Priorizar la incorporación de las mujeres o grupos de mujeres en condiciones de discriminación, de violencia, exclusión o cualquier otra condición de vulnerabilidad en los programas sociales.
 
 ### CAPÍTULO V. DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y A LA SEGURIDAD PUBLICA
 
@@ -461,25 +695,39 @@ Serán objetivos de la política de igualdad en materia comunitaria y familiar.
 
 I. Privilegiar la difusión de los derechos humanos de las mujeres en la comunidad;
 
-II. Favorecer la democracia familiar y el respeto a la autonomía y decisión de sus miembros;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Promover la corresponsabilidad entre mujeres y hombres con respecto a las tareas domésticas y de cuidado, educación y desarrollo de las hijas e hijos, así como el cuidado de las personas adultas mayores o enfermos que integren las familias;
 
 III. Fortalecer el empoderamiento y la autonomía de las mujeres en la comunidad;
 
-IV. Protección de quienes viven algún tipo de violencia en la comunidad o en la familia; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-V. Buscar la eliminación de las jerarquías al interior de la familia.
+IV. Contribuir a la eliminación de la violencia en la comunidad o en la familia, en especial la violencia de género en contra de las niñas, las adolescentes y las mujeres; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+V. Implementar acciones para la eliminación de prácticas consuetudinarias discriminatorias, tradiciones, prejuicios y estereotipos sexistas y de cualquier otra índole que estén basadas en la idea de inferioridad o superioridad de cualquiera de los sexos.
 
 ###### Artículo 32.
 
 Para los efectos de lo previsto en el artículo anterior, la administración pública estatal desarrollará las siguientes acciones:
 
-I. Eliminar los modelos de sumisión y subordinación de unos a otros al interior de la familia;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II. Apoyar las actividades de interlocución ciudadana respecto a la legislación sobre la igualdad para las mujeres y los hombres;
+I. Contribuir a la eliminación de modelos y roles de género asignados a mujeres y hombres al interior de las familias;
 
-III. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-IV. Efectuar campañas sobre masculinidad respetuosa y equitativa en la comunidad y en la familia.
+II. Fomentar la interlocución ciudadana respecto a la legislación en materia de igualdad para las mujeres y los hombres;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. Establecer los mecanismos para la atención de mujeres víctimas de violencia conforme a las disipaciones aplicables; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV. Efectuar campañas sobre masculinidad respetuosa y equitativa en la comunidad y en la familia y promover la participación de niños y adolescentes como aliados estratégicos en la promoción y difusión de derechos humanos de las mujeres, así como en la eliminación de todas las formas de discriminación y tipos de violencia.
 
 ## TÍTULO CUARTO. LOS INSTRUMENTOS GARANTES DE LA IGUALDAD
 
@@ -533,13 +781,15 @@ IV. A solicitud de los municipios del Estado;
 
 V. Sea resultado del procedimiento que determine el procedimiento de acompañamiento sustantivo; y
 
-VI. Por determinación de la comisión.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+VI. Por determinación del Sistema Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 38.
 
-Con motivo del acompañamiento sustantivo, el Instituto de la mujer duranguense, en términos de la Ley y su reglamento deberá:
+Con motivo del acompañamiento sustantivo, el Instituto Estatal de las Mujeres, en términos de la Ley y su reglamento deberá:
 
 I. Solicitar al infractor su plan correctivo;
 
@@ -557,9 +807,11 @@ IV. Designar oficial de género ex profeso.
 
 LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 39.
 
-El Programa Estatal para la Igualdad entre Mujeres y Hombres será propuesto por el Instituto de la Mujer Duranguense, considerando los diversos ámbitos donde debe darse la igualdad sustantiva, y deberá contener:
+El Programa Estatal para la Igualdad entre Mujeres y Hombres será propuesto por el Instituto Estatal de las Mujeres, considerando los diversos ámbitos donde debe darse la igualdad sustantiva, y deberá contener:
 
 1. Objetivo general;
 
@@ -569,9 +821,11 @@ El Programa Estatal para la Igualdad entre Mujeres y Hombres será propuesto por
 
 4. Mecanismos de evaluación.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 40.
 
-El Instituto deberá revisar el Programa Estatal cada tres años, de conformidad con la evaluación del impacto que efectué.
+El Sistema Estatal deberá revisar el Programa Estatal cada tres años, de conformidad con la evaluación del impacto que efectúe.
 
 ###### Artículo 41.
 
@@ -654,3 +908,13 @@ P.O. 16 DE NOVIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 407.- QUE CONTIENE REFORMAS A LA LEY DE IGUALDAD ENTRE HOMBRES Y MUJERES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El Sistema Estatal para la Igualdad entre Mujeres y Hombres, deberá quedar instalado dentro de los ciento ochenta días naturales posteriores a la publicación del presente decreto, el cual operará de conformidad con lo señalado en la presente ley y su reglamento.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
