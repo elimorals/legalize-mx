@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-ley-de-vialidad-transito-y-control-65947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-09"
-last_updated: "2016-12-30"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el viernes 9 de enero de 2009.
 
@@ -609,17 +609,21 @@ Se extinguirán o cancelarán las licencias o permisos de conducir en los térmi
 
 ### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS CONDUCTORES Y NORMAS GENERALES DE CIRCULACIÓN
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DEL 2018)</small>
+
 ###### Artículo 49.
 
-Los conductores están obligados a portar la siguiente documentación para circular en la vía pública:
+Los conductores están obligados a portarla (sic) siguiente documentación para circular en la vía pública:
 
 I. Original de la tarjeta de circulación vigente o documento que acredite haber cubierto el pago de impuestos por tenencia o uso de vehículos;
 
 II. Placas de circulación delantera y trasera vigentes, las cuales deben coincidir con la tarjeta de circulación;
 
-III. Calcomanía u holograma vigente en su caso; y
+III. Calcomanía u holograma vigente en su caso;
 
-IV. Licencia de conducir vigente y autorizada para el vehículo que conduce.
+IV. Licencia de conducir vigente y autorizada para el vehículo que conduce; y
+
+V. Engomado con chip de radiofrecuencia, debidamente pegado en el parabrisas del vehículo y que no presente dificultad para poder ser leído con los dispositivos RFID, así como tener el comprobante del mismo.
 
 ###### Artículo 50.
 
@@ -1387,11 +1391,15 @@ A efecto de clarificar lo anterior, en la página inmediata siguiente se describ
 
 ### CAPÍTULO II. DE LA INSCRIPCIÓN DE LOS VEHÍCULOS Y SU CANCELACIÓN
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DEL 2018)</small>
+
 ###### Artículo 103.
 
-Para que un vehículo pueda transitar en el Estado se requiere que se encuentre inscrito en el registro de vehículos de la autoridad de tránsito de la residencia de su propietario o tenedor, y que esté provisto de placas y tarjeta de circulación, calcomanía y reúna los demás requisitos establecidos en el presente reglamento.
+Para que un vehículo pueda transitar en el Estado se requiere que se encuentre inscrito en el registro de vehículos de la autoridad de tránsito de la residencia de su propietario o tenedor, que esté provisto de placas y tarjeta de circulación, calcomanía, engomado con chip de radiofrecuencia pegado en el parabrisas del vehículo y el comprobante del mismo, y reúna los demás requisitos establecidos en el presente reglamento.
 
-###### Articulo 104.
+> <small>(REFORMADO, P.O. 19 DE JULIO DEL 2018)</small>
+
+###### Artículo 104.
 
 Para su registro los propietarios o tenedores de vehículos deberán:
 
@@ -1405,11 +1413,57 @@ IV. Comprobante de pago del derecho por expedición de placas, y de los demás d
 
 V. En su caso, la constancia de cancelación de inscripción (baja), con la cual deberán de entregar la tarjeta de circulación, así como las placas de circulación, las cuales deberán de estar vigentes en el pago de tenencia o uso de vehículos;
 
-VI. Comprobante de domicilio a nombre del solicitante. En caso de que el predio sea rentado, deberá presentar el contrato de arrendamiento; y
+VI. Comprobante de domicilio a nombre del solicitante. En caso de que el predio sea rentado, deberá presentar el contrato de arrendamiento;
 
-VII. Credencial de elector con domicilio actualizado.
+VII. Credencial de elector con domicilio actualizado; y
 
-La documentación deberá presentarse en original y copia legible para su cotejo por la autoridad competente, una vez realizado el cotejo se devolverán los originales, reteniendo la autoridad las respectivas copias.
+VIII. Comprobante de inscripción en el Registro Público Vehicular donde cuenta con el engomado con chip de radiofrecuencia. En caso de no tenerlo, realizar el trámite presentando la documentación siguiente:
+
+Persona Física:
+
+- Credencial de elector o pasaporte o licencia de conductor
+
+- CURP
+
+- Comprobante Domiciliario Catastral
+
+- Tarjeta de circulación
+
+- Factura del vehículo (Original o copia con firma y sello de verificación)
+
+Persona Moral:
+
+- Registro Federal de Contribuyentes de la persona
+
+- Comprobante de Domicilio Fiscal
+
+- Tarjeta de circulación.
+
+- Factura del vehículo (Original o copia con firma y sello de verificación)
+
+- Oficio de resguardo del vehículo.
+
+En caso de no ser el propietario quien presente el vehículo, presentará los documentos del propietario más los que se enlistan a continuación:
+
+Persona Física:
+
+- Carta Poder a nombre del tramitador
+
+- Credencial de elector del Tramitador
+
+Persona Moral:
+
+- Oficio de resguardo del vehículo
+
+- Credencial de elector del tramitador
+
+Vehículos que no presentan factura original:
+
+- Copia de constancia de hechos del Ministerio Público por extravío
+
+- Factura Certificada ante Notario Público
+
+La documentación deberá presentarse en original y copia legible para su cotejo por la autoridad competente, una vez realizado el cotejo se devolverán los originales, reteniendo la autoridad las respectivas copias, salvo las excepciones que establezca el presente artículo.
 
 ###### Artículo 105.
 
@@ -1424,6 +1478,10 @@ Tratándose de vehículos que se amparen con factura expedida en el extranjero, 
 En el caso de inscripción de autobuses y camiones de carga de servicio particular, sus tenedores, además de llenar los requisitos establecidos en los artículos precedentes, deberán comprobar, con el último recibo, que la persona propietaria de vehículo ha cubierto las obligaciones fiscales que se causen con motivo del giro de la empresa a cuyo servicio se encuentre destinado el vehículo.
 
 Además, deberá de presentar ante la autoridad de tránsito, la constancia correspondiente expedida por el Instituto, en la cual conste la autorización para emplacar la unidad.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DEL 2018)</small>
+
+Para poder emplacar la unidad deberá tener el engomado con chip de radiofrecuencia.
 
 ###### Artículo 108.
 
@@ -1474,6 +1532,14 @@ Cuando se cambie la carrocería o el motor de algún vehículo, el propietario d
 ###### Artículo 113.
 
 En caso de deterioro o pérdida de la tarjeta de circulación, se expedirá un duplicado, previa solicitud del interesado, pago de los derechos correspondientes y, en el caso de pérdida, copia certificada de la manifestación hecha ante el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DEL 2018)</small>
+
+En caso de deterioro o pérdida del chip de radiofrecuencia, se repondrá de forma gratuita hasta la segunda reposición, presentando la documentación requerida y anexando la manifestación hecha ante el ministerio público que especifique el motivo del trámite y el comprobante anterior. A partir de la tercera reposición se realizará el cobro de los derechos que correspondan.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DEL 2018)</small>
+
+Se sancionará, con base al artículo 130 de la Ley de Vialidad, Tránsito y Control Vehicular del Estado, al propietario o poseedor del vehículo que no cuente con el engomado con chip de radiofrecuencia o no cuente con el comprobante de inscripción o actualización.
 
 ###### Articulo 114.
 
@@ -2130,3 +2196,11 @@ P.O. 30 DE DICIEMBRE DE 2016.
 Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente acuerdo.
+
+P.O. 19 DE JULIO DEL 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO POR EL QUE SE MODIFICA EL DIVERSO ACUERDO POR EL QUE SE EXPIDIÓ EL REGLAMENTO DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente acuerdo que modifica el reglamento interior que nos ocupa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales, reglamentarias y administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente acuerdo.
