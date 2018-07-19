@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-firma-electronica-avanzada-para-el-estado-de-durango-759
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-03"
-last_updated: "2017-06-01"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Ley publicada en el periódico Oficial del Estado de Durango, el jueves 3 de junio de 2010.
 
@@ -55,7 +55,17 @@ La presente Ley es de orden público e interés general, y tiene por objeto:
 
 I. Agilizar, eficientar y simplificar por medio de la firma electrónica avanzada los actos, convenios, comunicaciones, trámites y la prestación de servicios públicos que corresponden al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Órganos Constitucionales Autónomos, a los Ayuntamientos y a las dependencias y entidades de la administración pública estatal o municipal;
 
-II.- La certificación de la firma electrónica avanzada y los servicios relacionados con la misma.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II. Expedir certificados digitales a personas físicas;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. Implementar el uso de la firma electrónica avanzada en los actos establecidos en el presente ordenamiento; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV. Los servicios relacionados con la firma electrónica avanzada.
 
 ###### Artículo 2.
 
@@ -73,7 +83,9 @@ IV.- Los Órganos Constitucionales Autónomos;
 
 V.- Los Ayuntamientos;
 
-VI.- Cualquier dependencia o entidad de la administración pública estatal o municipal; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI.- Los servidores públicos de las dependencias señaladas en las fracciones I a la V del presente artículo que, en la realización de los actos a que se refiere esta Ley utilicen la firma electrónica avanzada; y
 
 VII.- Los particulares que decidan utilizar la firma electrónica avanzada, por medios electrónicos, en los términos del presente ordenamiento.
 
@@ -81,15 +93,15 @@ VII.- Los particulares que decidan utilizar la firma electrónica avanzada, por 
 
 La firma electrónica avanzada podrá ser utilizada en los actos y términos previstos en el presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Cuando la ley exija la forma escrita para los actos, contratos y la firma de los documentos relativos, esos supuestos se tendrán por cumplidos tratándose de mensaje de datos siempre que éste sea íntegro, atribuible a las personas obligadas y accesibles para su ulterior consulta.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 4.
 
-Quedan exceptuados de la aplicación de esta Ley:
-
-I.- Los actos de autoridad para los cuales la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado de Durango y las leyes que exijan o requieran la firma autógrafa y cualquier otra formalidad que no sea susceptible de cumplirse por los medios electrónicos;
-
-II.- Los procedimientos seguidos ante tribunales judiciales, administrativos o del trabajo, o ante autoridades distintas a las anteriores pero en forma de juicio; y
-
-III.- Aquellos actos en los cuales una disposición jurídica exija una formalidad que no sea susceptible de cumplirse mediante firma electrónica avanzada.
+Quedan exceptuados de la aplicación de esta Ley los trámites, actos o procedimientos, que por disposición legal expresa exija firma autógrafa, así como aquellos actos en los cuales una disposición jurídica exija cualquier otra formalidad que no sea susceptible de cumplirse mediante la Firma Electrónica Avanzada.
 
 ###### Artículo 5.
 
@@ -97,11 +109,17 @@ Para los efectos de esta Ley, se entenderá por:
 
 I.- Autoridad certificadora: Es la dependencia, unidad administrativa u órgano designado por cada ente público sujeto a esta Ley, que tiene a su cargo el servicio de certificación de firmas electrónicas, que vincula al firmante con el uso de su firma electrónica avanzada en las operaciones que realice, administra la parte tecnológica del procedimiento y ejerce el proceso de autenticidad;
 
-II.- Certificado de firma electrónica avanzada: El documento firmado electrónicamente por la autoridad certificadora, mediante el cual se confirma el vínculo existente entre el firmante y la firma electrónica avanzada;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-III.- Datos de creación de firma electrónica o clave privada: cadena de bits o datos únicos que con cualquier tecnología el firmante genera de manera secreta y utiliza para crear su firma electrónica avanzada, y establecer así la relación entre dicha firma electrónica avanzada y su autor;
+II.- Certificado Digital: El documento emitido de manera electrónica por la Autoridad Certificadora, mediante el cual se confirma el vínculo existente entre el Firmante y sus Datos de Creación de firma a través de los Datos de verificación de firma en él contenidos.
 
-IV.- Datos de verificación de firma electrónica avanzada o clave pública: cadena de bits o datos únicos pertenecientes a una entidad particular y susceptible de ser conocida públicamente, contenidos en un certificado de firma electrónica avanzada que permiten que cualquier tecnología sea utilizada para la verificación de la autenticidad de la firma electrónica;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III.- Datos de creación de Firma Electrónica Avanzada o Clave Privada: cadena de bits o datos únicos que el firmante genera de manera secreta y utiliza para crear su firma electrónica avanzada, a fin de lograr el vínculo entre dicha firma electrónica avanzada y el firmante;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV.- Datos de verificación de Firma Electrónica Avanzada o Clave Pública: cadena de bits o datos únicos contenidos en un certificado digital que permiten la verificación de la autenticidad de la firma electrónica avanzada del firmante;
 
 V.- Dependencias: Las que integran la Administración Pública Estatal y Municipal en términos de sus respectivas Leyes Orgánicas;
 
@@ -111,27 +129,45 @@ VII.- Dispositivo de creación de firma electrónica avanzada: El programa o sis
 
 VIII.- Dispositivo de verificación de firma electrónica avanzada: El programa o sistema informático que sirve para aplicar los datos de verificación de firma electrónica avanzada;
 
-IX.- Entidades: Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal de la Administración Pública Estatal y Municipal;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IX.- Entidades: Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal de la Administración Pública Estatal y Municipal, en términos de sus respectivas Leyes Orgánicas;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
-X. Entes: El Poder Ejecutivo, Legislativo y Judicial, los Órganos Constitucionales Autónomos y los Ayuntamientos;
+X.- Entes: El Poder Ejecutivo, Legislativo y Judicial, los Órganos Constitucionales Autónomos y los Ayuntamientos;
 
-XI.- Firma digital: Conjunto de datos encriptados que se pueden adjuntar a un mensaje transmitido por medios electrónicos y que identifica de manera exclusiva al remitente, el equivalente práctico a una firma autógrafa en un documento;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XII.- Fecha Electrónica Avanzada: El conjunto de datos en forma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
+XI.- Firma Electrónica Avanzada: El conjunto de datos electrónicos consignados o lógicamente asociados al mensaje de datos, utilizados como medio de identificación del firmante, los cuales son generados y mantenidos bajo su estricto y exclusivo control, siendo detectable cualquier modificación ulterior al mensaje de datos o a la propia firma, produciendo los mismos efectos jurídicos que la firma autógrafa;
 
-XIII.- Firma Electrónica Avanzada: El conjunto de datos electrónicos consignados en un mensaje de datos o adjuntados al mismo, utilizados como medio para identificar a su autor o firmante generados bajo un estricto control vinculado exclusivamente, así mismo para con el mensaje de datos, lo que permite que sea detectable cualquier modificación ulterior de éste;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XIV.- Firmante: La persona que posee los datos de creación de firma electrónica avanzada y que actúa en nombre propio o en el de una persona a la que representa;
+XII.- Firmante: La persona que actúa en nombre propio y que utiliza la firma electrónica avanzada para firmar documentos electrónicos o mensajes datos;
 
-XV.- Intermediario: Toda persona que, actuando por cuenta de otra, envíe, reciba o archive dicho mensaje o preste algún otro servicio con respecto a él, en relación con un determinado mensaje de datos;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XVI.- Medios electrónicos: Los dispositivos tecnológicos para transmisión, almacenamiento, gestión de datos e información, a través de cualquier tecnología electrónica o transporte de datos;
+XIII.- Medios electrónicos: Los dispositivos tecnológicos utilizados para la transmisión, almacenamiento, gestión de datos e información, a través de cualquier tecnología electrónica o transporte de datos;
 
-XVII.- Mensaje de datos: La información encriptada, generada, enviada, recibida, archivada y comunicada por medios electrónicos, ópticos, o cualquier otra tecnología;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XVIII.- Sistema de información: Todo sistema o programa en el que se realice captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de información, datos o documentos electrónicos; y
+XIV.- Mensaje de datos: La información generada, enviada, recibida, archivada y comunicada por medios electrónicos, ópticos, o cualquier otra tecnología;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XV.- Página Web: el sitio en Internet que contiene información, aplicaciones y, en su caso, vínculos a otras páginas;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XVI.- Sello digital de tiempo: Es el registro que tiene como finalidad, probar que un mensaje de dato existía antes de la fecha y hora de emisión del señalado sello, el cual es asociado a un mensaje de datos firmado con firma electrónica avanzada.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XVII.- Sistema de información: Todo sistema o programa en el que se realice captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de información, datos o documentos electrónicos;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XVIII.- Sujetos Obligados: los servidores públicos y particulares que utilicen la firma electrónica avanzada, en términos de lo previsto en las fracciones VI y VII del artículo 2 de esta Ley; y
 
 XIX.- Titular: La persona a cuyo favor se expide un certificado de firma electrónica avanzada.
 
@@ -141,29 +177,53 @@ XIX.- Titular: La persona a cuyo favor se expide un certificado de firma electr�
 
 En los actos, convenios, comunicaciones, trámites y la prestación de los servicios públicos que correspondan a los entes y cualquier entidad o dependencia, podrá emplearse la firma electrónica avanzada contenida en un mensaje de datos.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+La firma electrónica avanzada podrá ser utilizada indistintamente en documentos electrónicos, mensajes de datos, actos, convenios, comunicaciones, trámites y demás servicios públicos que corresponda su aplicación a los Sujetos Obligados, mismos que producirán los mismos efectos que los exhibidos con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio, que las disposiciones jurídicas aplicables les otorgan.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Los entes podrán expedir documentos por medios electrónicos que contengan la firma electrónica avanzada cuando reúnan los requisitos señalados en esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 7.
 
-El uso de medios electrónicos, se regirá bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad:
+La firma electrónica avanzada deberá regirse por los principios de; neutralidad tecnológica, autonomía de la voluntad de las partes, compatibilidad internacional y equivalencia funcional, las características de; autenticidad, confidencialidad, no repudio y el requisito de; integridad, definidas conforme a lo que a continuación se desarrolla:
 
-I. La neutralidad tecnológica implica utilizar cualquier tecnología sin que se favorezca a alguna en particular;
+I. La neutralidad tecnológica, implica la posibilidad de utilizar cualquier tecnología para la emisión de certificados digitales y para la prestación de los servicios relacionados con la firma electrónica avanzada, sin que se favorezca a alguna en particular, es decir, por disposición de ley u orden de autoridad no podrá obligarse el uso de una tecnología en particular;
 
-II. La equivalencia funcional, es cuando la firma electrónica avanzada se equipara a la firma autógrafa y un mensaje de datos a los documentos escritos;
+II. La equivalencia funcional del Mensaje de Datos en relación con la información documentada en medios no electrónicos y de la Firma Electrónica en relación con la firma autógrafa;
 
-III. La autenticidad ofrece la certeza de que un mensaje de datos ha sido emitido por el firmante y por lo tanto le es atribuible su contenido y las consecuencias jurídicas que del mismo se deriven por ser expresión de su voluntad;
+III. Autonomía de la voluntad de las partes consiste en considerar que toda persona sólo puede obligarse en virtud de su propio querer libremente manifestado. Sólo la voluntad de un sujeto de derecho es apta para producir obligaciones.
 
-IV. La conservación, se considera cuando un mensaje de datos posee una existencia permanente y es susceptible de reproducción;
+IV. Compatibilidad internacional, basada en estándares internacionales se refiere de manera genérica a la compatibilidad de los programas o software utilizado para la creación de las firmas electrónicas y su registro a fin de permitir que las operaciones internacionales por vías electrónicas mantengan un mínimo de seguridad jurídica que permita su desarrollo.
 
-V. La confidencialidad es la característica que existe cuando la información permanece controlada y es protegida de su acceso y distribución no autorizada; y
+V. La autenticidad, ofrece la certeza de que un documento electrónico o un mensaje de datos que ha sido firmado electrónicamente con firma electrónica avanzada, le es atribuible su contenido y las consecuencias jurídicas que del mismo se deriven, al firmante;
 
-VI. La integridad se considera cuando el contenido de un mensaje de datos ha permanecido completo e inalterado, con independencia de los cambios que hubiere podido sufrir el medio que lo contiene, como resultado del proceso de comunicación, archivo o presentación.
+VI. La confidencialidad, es la característica que existe cuando, de así convenirlo las partes, la información permanece controlada y es protegida de su acceso y distribución no autorizada;
+
+VII. No repudio, consiste en que la firma electrónica avanzada contenida en documentos electrónicos garantiza la autoría e integridad del documento y que dicha firma corresponde exclusivamente al firmante; y
+
+VIII. La integridad, se considera cuando el contenido de un mensaje de datos ha permanecido completo e inalterado, con independencia de los cambios que hubiere podido sufrir el medio que lo contiene, como resultado del proceso de comunicación, archivo o presentación.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Artículo 7 BIS.- A efecto que los sujetos a que hace referencia el artículo 2 de la presente Ley, puedan hacer uso de firma electrónica avanzada, en los actos señalados en el correlativo 6 de la misma, deberán contar con:
+
+a) Un certificado digital vigente, emitido conforme a lo establecido en esta Ley y su Reglamento; y
+
+b) Contar con datos de creación de firma o clave privada, generada y mantenida en un dispositivo bajo su exclusivo control.
 
 ###### Artículo 8.
 
 La utilización de los medios electrónicos en ningún caso podrá implicar la existencia de restricciones o discriminaciones de cualquier naturaleza en el acceso de los particulares a la prestación de servicios públicos o a cualquier trámite, acto o actuación de cualquier autoridad estatal o municipal.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 9.
 
-El uso de medios electrónicos a que se refiere esta Ley será optativo para los particulares. Quienes opten por el uso de medios electrónicos en los actos, convenios, comunicaciones, trámites y la prestación de los servicios públicos que corresponden a los entes y cualquier entidad o dependencia, quedarán sujetos a las disposiciones de este ordenamiento.
+El uso de medios electrónicos a que se refiere esta Ley será potestativo para los particulares, quienes podrán optar por el uso de medios electrónicos en los actos, señalados en el artículo 6 de esta Ley. Siendo obligatorio para la autoridad llevar a cabo su correcta aplicación.
 
 ###### Artículo 10.
 
@@ -177,9 +237,11 @@ Para hacer más accesibles, ágiles y sencillos los actos, convenios, comunicaci
 
 Los entes y cualquier entidad o dependencia, deberán verificar la firma electrónica avanzada, la vigencia del certificado de firma electrónica avanzada y, en su caso, la fecha electrónica en los actos, convenios, comunicaciones, trámites y la prestación de los servicios públicos que correspondan a éstos; así como en las solicitudes y promociones que en relación con los mismos realicen los particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 13.
 
-Los documentos presentados por los particulares por medios electrónicos que contengan la firma electrónica avanzada, producirán en términos de esta Ley, los mismos efectos que los documentos firmados de manera autógrafa, para tal efecto los entes, dependencias o entidades determinarán en cuáles actos los particulares podrán usar la firma electrónica avanzada.
+Los documentos presentados por los particulares por medios electrónicos que contengan la firma electrónica avanzada, producirán en términos de esta Ley, los mismos efectos que los documentos firmados de manera autógrafa, para tal efecto los sujetos señalados en las fracciones I a la V del artículo 2, de la presente Ley, determinarán en cuáles actos los particulares podrán usar la firma electrónica avanzada.
 
 Las autoridades podrán expedir documentos por medios electrónicos que contengan la firma electrónica avanzada cuando reúnan los requisitos señalados en esta Ley.
 
@@ -188,6 +250,10 @@ Las autoridades podrán expedir documentos por medios electrónicos que contenga
 Cuando los particulares realicen comunicaciones o soliciten la prestación de servicios públicos o promuevan cualquier trámite por medios electrónicos en hora o día inhábil, se tendrán por presentados en la primera hora hábil del siguiente día hábil.
 
 Los documentos a que se refiere el párrafo anterior se tendrán por no presentados, cuando no contengan la firma electrónica avanzada.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Para los casos no previstos por esta Ley, se entenderán conforme a lo señalado en la Ley de Justicia Administrativa del Estado de Durango.
 
 ### CAPÍTULO III. DE LOS MENSAJES DE DATOS
 
@@ -223,7 +289,9 @@ I.- Por el propio emisor;
 
 II.- Usando medios de identificación, tales como claves o contraseñas del emisor o por alguna persona facultada para actuar en nombre del emisor respecto a ese mensaje de datos, o
 
-III.- Por un sistema de información programado por el emisor para que opere automáticamente.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III.- Por un sistema de información programado por el emisor o en su nombre para que opere automáticamente.
 
 ###### Artículo 22.
 
@@ -257,9 +325,11 @@ Cuando las leyes requieran que una información o documento sea presentado y con
 
 Las disposiciones del presente ordenamiento serán aplicables de modo que no excluyan, restrinjan o priven a cualquier método de creación de firmas electrónicas avanzadas siempre y cuando cumplan con los requisitos que establecen las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 27.
 
-La firma electrónica avanzada se considerará como tal, si tiene al menos las siguientes características:
+La firma electrónica avanzada se considerará como tal, si cumple al menos con los siguientes requisitos:
 
 I.- Que indique que se expide como tal;
 
@@ -276,6 +346,10 @@ VI.- Que los datos de creación de la firma, en el contexto en que son utilizado
 VII.- Que los datos de creación de la firma estén en el momento de la firma bajo el control exclusivo del firmante, y
 
 VIII.- Que sea posible detectar cualquier alteración de la firma electrónica avanzada realizada después del momento de la firma.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Lo dispuesto en el presente artículo se entenderá sin perjuicio de la posibilidad de que cualquier persona demuestre de cualquier otra manera la fiabilidad de una firma electrónica avanzada; o presente pruebas de que la misma no es fiable.
 
 ###### Artículo 28.
 
@@ -303,7 +377,9 @@ II.- Recibida la solicitud, la autoridad certificadora deberá verificar la iden
 
 III.- Recibida la solicitud y los demás documentos, la autoridad certificadora expedirá el certificado de firma electrónica avanzada cuando se cumplan los requisitos necesarios y registrará el certificado en su base de datos de firma electrónica;
 
-IV.- El solicitante una vez que obtenga el certificado de firma electrónica avanzada deberá resguardar su firma electrónica avanzada en un medio electrónico.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV.- El solicitante una vez que obtenga el certificado de firma electrónica avanzada deberá resguardar la clave privada en un medio electrónico.
 
 ###### Artículo 31.
 
@@ -313,11 +389,13 @@ Los certificados de firma electrónica avanzada tendrán valor probatorio en los
 
 Los efectos del certificado de firma electrónica avanzada son:
 
-I.- Autenticar que la firma electrónica avanzada pertenece a determinada persona;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II.- Identificar la fecha electrónica; y
+I. Autenticar que la firma electrónica avanzada pertenece a determinada persona; y
 
-III.- Verificar la vigencia de la misma.
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN III], P.O. 19 DE JULIO DE 2018)</small>
+
+II. Verificar la vigencia de la misma.
 
 ###### Artículo 33.
 
@@ -327,7 +405,9 @@ I. La indicación de que se expiden como tales;
 
 II. El código de identificación único del certificado;
 
-III. La identificación de la autoridad certificadora que expide el certificado, razón social, su domicilio, dirección de correo electrónico;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III. La identificación de la autoridad certificadora que expide el certificado, su firma electrónica avanzada, razón social, dirección de correo electrónico y página web;
 
 IV. Nombre del titular del certificado;
 
@@ -339,7 +419,11 @@ VII. En su caso, los límites de uso del certificado de firma electrónica avanz
 
 VIII. La referencia de la tecnología empleada para la creación de la firma electrónica.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 34.
+
+La vigencia del certificado digital será de dos años como máximo, la cual iniciará a partir del momento de su emisión y expirará el día y hora que señala el mismo.
 
 Los certificados de firma electrónica avanzada tendrán valor probatorio pleno, salvo lo que dispongan al respecto otras leyes en la materia que ellas regulan y surtirán efectos jurídicos, cuando estén firmados electrónicamente por la autoridad certificadora.
 
@@ -347,19 +431,31 @@ Los certificados de firma electrónica avanzada tendrán valor probatorio pleno,
 
 Los certificados de firma electrónica avanzada se extinguirán por las siguientes causas:
 
-I.- Expiración de su vigencia, que nunca será superior a dos años;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II.- Revocación por el firmante, su representante o autoridad competente;
+I.- Expiración de su vigencia;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II.- Revocación por el firmante, o por mandato de autoridad competente;
 
 III.- Pérdida, robo o inutilización por daños del soporte del certificado de firma electrónica avanzada;
 
-IV.- Resolución judicial o administrativa;
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN V.]</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV.- Fallecimiento del firmante, incapacidad superveniente total, o extinción de la persona moral representada;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN IV.]</small>
 
 V.- Fallecimiento del firmante o su representante, incapacidad superveniente, total o parcial, de cualquiera de ellos, terminación de la representación o extinción de la persona moral representada;
 
 VI.- Inexactitudes en los datos aportados por el firmante para la obtención del certificado de firma electrónica avanzada; y
 
-VII.- Por haberse comprobado que el certificado de firma electrónica avanzada no cumple con los requisitos de esta ley, situación que no afectará los derechos de terceros de buena fe.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VII.- Por haberse comprobado que el certificado de firma electrónica avanzada no cumple con los requisitos de esta Ley, situación que no afectará los derechos de terceros de buena fe.
 
 ###### Artículo 36.
 
@@ -387,9 +483,11 @@ La autoridad certificadora, de conformidad con los reglamentos respectivos, esta
 
 La autoridad certificadora podrá prestar el servicio de consignación de fecha electrónica, respecto de los mensajes de datos.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 42.
 
-El registro de certificados de firma electrónica avanzada estará a cargo de la autoridad certificadora, en el ámbito de su competencia. Dicho registro será público y deberá mantenerse permanentemente actualizado.
+El registro de certificados de firma electrónica avanzada estará a cargo de la autoridad certificadora, en el ámbito de su competencia. Dicho registro será público debiendo mantenerse permanentemente actualizado, y visible en la página web destinada para tal fin.
 
 ###### Artículo 43.
 
@@ -397,17 +495,31 @@ La autoridad certificadora está obligada a:
 
 I.- Indicar la fecha y la hora en las que se expidió o se dejó sin efecto un certificado de firma electrónica avanzada;
 
-II.- Comprobar por los medios idóneos autorizados por las leyes, la identidad y cualesquiera circunstancias personales de los solicitantes, relevantes para la emisión de los certificados de firma electrónica avanzada;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-III.- Guardar confidencialidad respecto de la información que haya recibido para la prestación del servicio de certificación;
+II.- Llevar un registro de los certificados emitidos y revocados, así como proveer los servicios de consulta a los interesados;
 
-IV.- Poner a disposición del firmante los dispositivos de creación y de verificación de firma electrónica avanzada;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-V.- No reproducir, ni copiar los datos de creación de firma electrónica avanzada de la persona a la que hayan prestado sus servicios;
+III.- Comprobar por los medios idóneos autorizados por las leyes, la identidad y cualesquiera circunstancias personales de los solicitantes, relevantes para la emisión de los certificados de firma electrónica avanzada;
 
-VI.- Antes de expedir un certificado de firma electrónica avanzada, informar en español a la persona que solicite sus servicios, en los casos que así se prevea, sobre el costo, características y las condiciones precisas de utilización del mismo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-VII.- Conservar registrada toda la información y documentación relativa a un certificado de firma electrónica avanzada, durante doce años; y
+IV.- Guardar confidencialidad respecto de la información que haya recibido para la prestación del servicio de certificación;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+V.- Antes de expedir un certificado de firma electrónica avanzada, informar en español a la persona que solicite sus servicios, en los casos que así se prevea, sobre el costo, características y las condiciones precisas de utilización del mismo;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VI.- Conservar registrada toda la información y documentación física o electrónica relativa a un certificado de firma electrónica avanzada, durante doce años;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+VII.- Adoptar las medidas necesarias para evitar la falsificación, alteración o uso indebido de certificados digitales, así como de los servicios relacionados con la firma electrónica avanzada; y,
+
+(REPUBLICADA, P.O. 19 DE JULIO DE 2018)
 
 VIII.- Cumplir con las demás obligaciones que deriven de ésta y otras leyes y demás disposiciones jurídicas aplicables.
 
@@ -441,9 +553,11 @@ III.- Colaborar en el desarrollo de sistemas informáticos internos y externos p
 
 IV.- Las demás que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### Artículo 48.
 
-La autoridad certificadora que corresponda dentro del ámbito de su competencia, podrá autorizar a otra entidad o dependencia, a expedir certificados de firma electrónica avanzada y a prestar servicios relacionados con la certificación. La acreditación deberá publicarse en el Periódico Oficial del Gobierno del Estado, previamente al inicio de la prestación de los servicios.
+La autoridad certificadora que corresponda dentro del ámbito de su competencia, podrá autorizar a otra entidad o dependencia, a expedir certificados de firma electrónica avanzada y a prestar servicios relacionados con la certificación. La acreditación deberá publicarse en el Periódico Oficial del Gobierno del Estado, previamente al inicio de la prestación de los servicios. Adquiriendo las responsabilidades expresas detalladas en la presente Ley y las definidas en el convenio que se firme.
 
 ### CAPÍTULO VIII. DE LOS DERECHOS Y OBLIGACIONES DE LOS TITULARES DE CERTIFICADOS DE FIRMA ELECTRÓNICA AVANZADA
 
@@ -453,17 +567,27 @@ Sin perjuicio de lo establecido por otras leyes, los titulares de certificados d
 
 I.- Solicitar se les expida constancia de la existencia y registro del certificado;
 
-II.- Solicitar la variación de los datos y elementos de la firma cuando así convenga a su interés;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2018)</small>
 
-III.- A ser informados sobre:
+II.- A ser informados sobre:
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
 
 a) Las características generales del certificado de firma electrónica avanzada, y de las demás reglas que la autoridad certificadora se comprometa a seguir en la prestación de sus servicios; y
 
-b) El costo de los servicios, las características y condiciones precisas para la utilización del certificado y sus límites de uso;
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
 
-IV.- A que se guarde confidencialidad sobre la información proporcionada; y
+b) El costo de los servicios, en su caso, las características y condiciones precisas para la utilización del certificado y sus límites de uso.
 
-V.- A conocer el domicilio físico y la dirección electrónica de la autoridad certificadora para solicitar aclaraciones, presentar quejas o reportes.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III.- A que se guarde confidencialidad sobre la información proporcionada para la acreditación de la personalidad; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV.- A conocer el domicilio físico y la dirección electrónica de la autoridad certificadora para solicitar aclaraciones, presentar quejas o reportes.
+
+V.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
 ###### Artículo 50.
 
@@ -473,7 +597,9 @@ I.- Proporcionar datos veraces, completos y exactos;
 
 II.- Mantener el control exclusivo de sus datos de creación de firma electrónica avanzada;
 
-III.- Solicitar la revocación de su certificado de firma electrónica avanzada cuando se presente cualquier circunstancia que pueda comprometer la privacidad de sus datos de creación de firma electrónica avanzada;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III.- Solicitar la revocación de su certificado de firma electrónica avanzada cuando se presente cualquier circunstancia que pueda comprometer la privacidad o seguridad de sus datos de creación de firma electrónica avanzada o la información en el contenida sea incorrecta o desactualizada;
 
 IV.- El firmante será responsable de las consecuencias jurídicas que deriven por no cumplir oportunamente las obligaciones previstas en el presente artículo;
 
@@ -541,10 +667,22 @@ LIC. OLIVERIO REZA CUELLAR
 
 P.O. 1 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO.145.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FIRMA ELECTRONICA AVANZADA PARA EL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO.145.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- En un término de sesenta días naturales, a partir de la publicación del presente Decreto, deberán quedar debidamente armonizadas, conforme al contenido de la reforma, todos y cada uno de los instrumentos reglamentarios y los correspondientes manuales de operación que conforman el Marco Normativo bajo el que se rige la función y organización de la Administración Pública del Estado de Durango.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente Decreto.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 412.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE DURANGO Y A LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- La Comisión Estatal de Gobierno Digital de Durango, deberá integrarse a más tardar 30 días después de la entrada en vigor del presente decreto.
+
+TERCERO.- A falta de disposición expresa en esta ley o en las demás disposiciones que de ellas se deriven, se aplicaran supletoriamente la Ley de Justicia Administrativa del Estado de Durango y la Legislación Procesal Civil aplicable.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente decreto.
