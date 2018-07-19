@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "2017-11-16"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE PLANEACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -61,13 +61,11 @@ LEY de PLANEACION del ESTADO de DURANGO
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las normas y principios básicos, conforme a los cuales se llevará a cabo la planeación para el desarrollo del Estado de Durango, así como el establecimiento de las bases de integración y funcionamiento del Sistema Estatal de Planeación del Desarrollo.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017]
+###### ARTICULO 2o.
 
-###### ARTÍCULO 2o.
-
-La planeación es un medio fundamental para imprimir solidez, dinamismo, permanencia y equidad al desarrollo económico, social, político y cultural del Estado, mediante la participación plural de la sociedad, en la conformación de planes y programas que garanticen una eficiente utilización de los recursos al alcance del Estado y que propicien una más justa distribución del ingreso y la riqueza.
+La planeación deberá llevarse bajo los principios de racionalidad, de igualdad sustantiva entre mujeres y hombres y de optimización de los recursos, deberá mantener en su formulación una visión a largo plazo, de desarrollo económico y social de la entidad, una programación con objetivos y metas a mediano y corto plazo, la identificación de prioridades producto del consenso social, así como los mecanismos que permitan dar seguimiento a su ejecución y la evaluación de resultados con la participación ciudadana.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -81,9 +79,13 @@ La iniciativa de ley de ingresos y el proyecto de presupuesto de egresos del Est
 
 Para los efectos de esta Ley se entiende por Planeación Estatal del Desarrollo, la ordenación racional y sistemática de acciones, en base al ejercicio de las atribuciones del Ejecutivo Estatal en materia de regulación y fomento de la actividad económica, social, política y cultural y su ejercicio tendrá por objeto:
 
-I.- Transformar racional y progresivamente los recursos de acción del desarrollo económico y social.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II.- Asegurar la participación activa de la sociedad duranguense en las acciones del Gobierno para fortalecer la democracia como sistema de vida. Fundado en el constante mejoramiento económico, social y cultural de la población duranguense.
+I.- Transformar racional y progresivamente los recursos de acción del desarrollo económico y social, tomando en cuenta la perspectiva de género.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+II.- Asegurar la participación activa de la sociedad duranguense en las acciones del Gobierno para fortalecer la democracia como sistema de vida. Fundado en el constante mejoramiento económico, social y cultural de la población duranguense y su contribución al logro de la igualdad sustantiva entre mujeres y hombres.
 
 III.- Lograr el equilibrio económico de la población, poniendo énfasis en la atención de las necesidades básicas en el mejoramiento de la calidad de vida y en la conformación más adecuada de las relaciones entre las diferentes regiones del Estado y entre los núcleos rurales y Urbanos.
 
@@ -121,17 +123,17 @@ El Gobierno Estatal prestará la asesoría necesaria en materia de planeación, 
 
 ### CAPITULO SEGUNDO. El Sistema Estatal de Planeación del Desarrollo
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 7o.
 
-Con el fin de garantizar los derechos económicos y sociales de los individuos y de los grupos organizados de la Entidad, la planeación del desarrollo se estructurará en un sistema de carácter democrático, participativo e incluyente que recogerá las aspiraciones y demandas de la sociedad para incorporarlas en un Plan Estratégico, el cual contendrá objetivos con proyección a largo plazo para lograr el desarrollo sostenido y sustentable de la entidad.
+Con el fin de garantizar los derechos económicos y sociales de las personas y de los grupos organizados de la Entidad, la planeación del desarrollo se estructurará en un sistema de carácter democrático, participativo e incluyente que recogerá las aspiraciones y demandas de la sociedad para incorporarlas en un Plan Estratégico, el cual contendrá objetivos con proyección a largo plazo para lograr el desarrollo sostenido y sustentable y la igualdad sustantiva entre mujeres y hombres de la entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 8o.
 
-El Sistema Estatal de planeación del Desarrollo, estructurará los esfuerzos de la Administración Pública, de los sectores social y privado y de los ciudadanos interesados en el proceso de desarrollo.
+El Sistema Estatal de Planeación del Desarrollo, estructurará los esfuerzos de la Administración Pública, de los sectores social y privado y de la ciudadanía interesada en el proceso de desarrollo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -145,11 +147,13 @@ En el sistema de planeación del desarrollo, la Secretaría de Finanzas y de Adm
 
 I.- Coordinar las acciones en el proceso de la planeación del desarrollo del Estado.
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-II.- Elaborar los Planes Estratégico y Estatal de Desarrollo, los programas que de ellos se deriven y vigilar el seguimiento de su ejecución escuchando la opinión y tomando en cuenta las propuestas de las demás dependencias del Ejecutivo, de las dependencias federales, de los Ayuntamientos y de los grupos e individuos interesados.
+II.- Elaborar los Planes Estratégico y Estatal de Desarrollo, los programas que de ellos se deriven y vigilar el seguimiento de su ejecución escuchando la opinión y tomando en cuenta las propuestas de las demás dependencias del Ejecutivo, de las dependencias federales, de los Ayuntamientos, de los grupos y personas interesadas.
 
-III.- Hacer congruente la planeación y el desarrollo estatales con la planeación y conducción del desarrollo nacional, poniendo en práctica mecanismos de control y evaluación del plan y los programas.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+III.- Hacer congruente la planeación y el desarrollo estatales (sic) con la planeación y conducción del desarrollo nacional, poniendo en práctica mecanismos de control y evaluación del plan y los programas considerando para ello la perspectiva de género.
 
 IV.- Integrar los programas operativos anuales de coordinación sectorial, los regionales y los especiales que encomiende el Gobernador del Estado para la ejecución del Plan. Los programas municipales se elaborarán de acuerdo con las bases establecidas en esta Ley.
 
@@ -161,13 +165,17 @@ VII.- Cuidar la congruencia entre el Plan y los programas que genere el sistema.
 
 VIII.- Verificar periódicamente el destino y los resultados de las asignaciones presupuestales, atendiendo a los objetivos y prioridades del Plan y los programas sectoriales, regionales y especiales promoviendo las medidas conducentes a la corrección de las desviaciones localizadas. Así mismo, verificar los programas municipales cuando así lo establezcan los marcos de coordinación.
 
-IX.- Promover y coordinar las actividades en materia de investigación y capacitación para la planeación.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-X.- Preveer, en la medida de lo posible, los efectos de los fenómenos económicos y sociales que influyen en el proceso de la planeación estatal.
+IX.- Promover y coordinar las actividades en materia de investigación y capacitación para la planeación, considerando la transversalidad de la perspectiva de género y los derechos humanos.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-XI.- Promover el diseño y estructuración de programas presupuestarios basándose en la metodología de Marco Lógico y la conformación de sus respectivos programas operativos anuales asegurando su congruencia con los objetivos del Plan Estatal de Desarrollo; y
+X.- Prever, en la medida de lo posible, los efectos de los fenómenos económicos y sociales que influyen en el proceso de la planeación estatal; integrando el impacto diferenciado que se ocasiona en mujeres y hombres y su incidencia en las brechas de desigualdad de género.
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+XI.- Promover el diseño y estructuración de programas presupuestarios basándose en la metodología de Marco Lógico y la conformación de sus respectivos programas operativos anuales asegurando su congruencia con los objetivos del Plan Estatal de Desarrollo y la transversalización de la perspectiva de género; y
 
 XII.- Las demás que señalen esta Ley y otros ordenamientos.
 
@@ -199,7 +207,9 @@ II.- Elaborar programas sectoriales tomando en consideración los elementos del 
 
 III.- Coordinar en la esfera de su competencia sectorial las actividades de la planeación de las dependencias, entidades y organismos del Estado.
 
-IV.- Considerar el ámbito territorial de las acciones y programas previstos a corto y mediano plazo, así como las condiciones específicas de desarrollo de las distintas regiones del Estado, delimitando los espacios regionales de la planeación nacional.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+
+IV.- Considerar el ámbito territorial de las acciones y programas previstos a corto y mediano plazo, así como las condiciones específicas de desarrollo de las distintas regiones del Estado y las desigualdades de género, delimitando los espacios regionales de la planeación nacional.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -261,9 +271,11 @@ El Plan Estatal de Desarrollo, se elaborará, aprobará y publicará dentro de u
 
 El Plan Estratégico contiene la visión, objetivos y estrategias de desarrollo económico y social con proyección a largo plazo; será revisado y, en su caso, ajustados sus objetivos cada seis años. Los Planes Estatales y Municipales guardarán congruencia con el Plan Estratégico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 19o.
 
-El Plan se elaborará y actualizará en base al diagnóstico de la situación económica y social del Estado; en la misma forma serán establecidas las estrategias, plazos de ejecución, responsabilidades, metas y bases de coordinación.
+El Plan se elaborará y actualizará en base al diagnóstico de la situación económica y social del Estado, considerando las desigualdades entre hombres y mujeres y brechas de género; en la misma forma serán establecidas las estrategias, plazos de ejecución, responsabilidades, metas y bases de coordinación.
 
 El plan, determinará los lineamientos de política global, sectorial y regional de la planeación, supeditando los demás instrumentos de desarrollo a sus objetivos estrategias y prioridades. Sus revisiones se referirán al conjunto de la actividad económica y social del Estado.
 
@@ -313,7 +325,9 @@ Los programas especiales deberán referirse a la solución de problemas priorita
 
 Las dependencias y entidades u organismos estatales deberán elaborar programas presupuestarios congruentes y servirán de fundamento al Ejecutivo del Estado para la elaboración del Proyecto de Ley de Egresos y Presupuesto respectivo.
 
-Dicha actividad implica la programación sectorial, regional e institucional y en ella se incluirán los diversos aspectos de administración política, económica y política-social que impongan las condiciones del desarrollo del Estado. La programación especial podrá ser de menor duración.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Dicha actividad implica la programación sectorial, regional e institucional y en ella se incluirán los diversos aspectos de administración política, económica y política-social que impongan las condiciones del desarrollo del Estado y la identificación de desigualdades y brechas de género. La programación especial podrá ser de menor duración.
 
 ###### ARTICULO 28o.
 
@@ -337,19 +351,25 @@ De conformidad con las atribuciones y obligaciones derivadas de la presente Ley 
 
 El resultado de dichas revisiones será sometido a la consideración del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 30o.
 
-El Gobernador del Estado enviará por escrito y en archivo digital al Congreso del Estado un informe de resultados de la gestión pública en el Estado de Durango, que dé cuenta de los recursos ejercidos y los resultados obtenidos durante el ejercicio anual anterior en función de los objetivos de la planeación.
+El Gobernador del Estado enviará por escrito y en archivo digital al Congreso del Estado un informe de resultados de la gestión pública en el Estado de Durango, que dé cuenta de los recursos ejercidos y los resultados obtenidos durante el ejercicio anual anterior en función de los objetivos de la planeación y el impacto diferenciado en las desigualdades y las brechas de género.
 
 ###### ARTICULO 31o.
 
 El análisis de la cuenta pública que haga la Legislatura del Estado, debe basar sus resultados contables atendiendo a la relación entre los elementos constitutivos del gasto público y el cumplimiento de los objetivos y prioridades de la planeación y programación.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Para los efectos del párrafo anterior, el análisis considerará un apartado específico sobre los programas, acciones, resultados y gasto público determinados para el logro de la igualdad sustantiva entre mujeres y hombres y la erradicación de la discriminación por motivos de género.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 32o.
 
-Los titulares de las dependencias del ejecutivo y entidades u organismos que sean convocados por la legislatura para dar cuenta del estado que guardan los asuntos de sus respectivas áreas, informarán sobre el grado de cumplimiento de los programas a su cargo y explicarán, en su caso, las desviaciones ocurridas y las medidas que se hubieren adoptado para corregirlas.
+Los titulares de las dependencias del ejecutivo y entidades u organismos que sean convocados por la legislatura para dar cuenta del estado que guardan los asuntos de sus respectivas áreas, informarán sobre el grado de cumplimiento de los programas a su cargo y explicarán, en su caso, las desviaciones ocurridas y las medidas que se hubieren adoptado para corregirlas; así como el impacto diferenciado en las desigualdades y las brechas de género.
 
 ###### ARTICULO 33o.
 
@@ -369,9 +389,11 @@ III.- Los Ayuntamientos establecerán las relaciones de los programas con sus pr
 
 IV.- En el curso de Marzo de cada año, los Presidentes Municipales informarán por escrito al Congreso del Estado acerca del avance y resultados de la ejecución de los planes y programas de desarrollo de sus municipios y podrán ser convocados por la Legislatura, aborde asuntos de su competencia en la esfera de su planeación del desarrollo.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 35o.
 
-Los planes de desarrollo y los programas estatales y municipales harán referencia a los mecanismos de coordinación entre las diferentes instancias de gobierno y a las acciones que pueden concertarse como resultado de la participación democrática de la sociedad en la planeación del desarrollo.
+Los planes de desarrollo y los programas estatales y municipales harán referencia a los mecanismos de coordinación entre las diferentes instancias de gobierno y a las acciones que pueden concertarse como resultado de la participación democrática de la sociedad en la planeación del desarrollo y en la identificación de las desigualdades y brechas de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
 
@@ -503,9 +525,9 @@ I. Gestionar e impulsar la participación de las comunidades y del sector social
 
 II. Proyectar y coordinar, con la participación del Gobierno del Estado y los Municipios, la planeación regional;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
 
-III. Propiciar la integración de los sectores social y privado, de los Municipios y la Federación en el Sistema Estatal de Planeación del Desarrollo, procurando la incorporación de sus esfuerzos al proceso del desarrollo estatal;
+III. Propiciar la integración de los sectores social y privado, de los municipios y la Federación en el Sistema Estatal de Planeación del Desarrollo, procurando la incorporación de sus esfuerzos al proceso del desarrollo estatal; al logro de la igualdad sustantiva entre mujeres y hombres y a la consecución del desarrollo sostenible;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
 
@@ -768,3 +790,11 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración de los anteproyectos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 408.- QUE CONTIENE REFORMAS A LA LEY DE PLANEACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
