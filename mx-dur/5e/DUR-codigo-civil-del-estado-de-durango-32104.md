@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2018-07-01"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -893,9 +893,9 @@ X.- El matrimonio subsistente con persona distinta de aquella con quien se prete
 
 XI.- Que los contrayentes no presenten el certificado de haber tomado los cursos prematrimoniales.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
 
-De estos impedimentos sólo será dispensable el parentesco de consanguinidad en línea colateral desigual.
+De estos impedimentos serán dispensables el parentesco de consanguinidad en línea colateral desigual y la asistencia a los cursos patrimoniales, en este último caso sin ninguna condicionante.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
@@ -1309,17 +1309,21 @@ Del divorcio.
 
 ART. 261.- El divorcio disuelve el vínculo matrimonial y deja a los cónyuges en aptitud de contraer otro.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2018)</small>
+
+Podrá solicitarse por cualquiera de los cónyuges acudiendo ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2004)</small>
 
 ART. 262.- Son causales de divorcio:
 
-I.- El adulterio de uno de los cónyuges;
+I.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato y que judicialmente sea declarado legítimo (sic);
+II.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
 
-III. La propuesta de un cónyuge para prostituir al otro, ejercitando la fuerza, la coerción, el chantaje, el soborno, la intimidación o la amenaza, para realizar un acto sexualmente no deseado, no sólo cuando él mismo lo haya hecho directamente, sino también cuando se pruebe que ha recibido cualquier remuneración con el objeto expreso de permitir que se tenga relaciones sexuales con ella o con él;
+III.- La propuesta de un cónyuge para prostituir al otro, ejercitando la fuerza, la coerción, el chantaje, el soborno, la intimidación o la amenaza, para realizar un acto sexualmente no deseado, no sólo cuando él mismo lo haya hecho directamente, sino también cuando se pruebe que ha recibido cualquier remuneración con el objeto expreso de permitir que se tenga relaciones sexuales con ella o con él;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -1327,21 +1331,13 @@ IV.- La incitación o la violencia física, emocional o psicológica, hecha por 
 
 V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
+VI.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
-VI. Padecer cualquier enfermedad crónica e incurable que sea además, contagiosa o hereditaria, y la impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada;
+VII.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
+VIII.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
-VII. Padecer trastorno mental incurable, previa declaración judicial de interdicción que se haga respecto del cónyuge enfermo;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
-
-VIII.- El abandono del hogar conyugal por más de seis meses sin causa justificada, así como el incumplimiento de las obligaciones que surjan del matrimonio y el abandono del hogar conyugal originado por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
-
-IX.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga está, que proceda la declaración de ausencia;
+IX.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -1349,39 +1345,33 @@ X.- La sevicia, las amenazas o las injurias, y las conductas de violencia famili
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
 
-XI. La negativa injustificada de los cónyuges en darse alimentos de acuerdo con lo dispuesto en el artículo 159, sin que sea necesario agotar previamente los procedimientos tendientes a su cumplimiento;
+XI.- La negativa injustificada de los cónyuges en darse alimentos de acuerdo con lo dispuesto en el artículo 159, sin que sea necesario agotar previamente los procedimientos tendientes a su cumplimiento;
 
-XII.- La acusación calumniosa hecha por un cónyuge contra el otro; por el delito que merezca pena mayor de dos años de prisión;
+XII.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
-XIII.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
+XIII.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
-
-XIV. Los hábitos de juego o de embriaguez o el uso no terapéutico de las sustancias ilícitas a que hace referencia la Ley General de Salud y las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
+XIV.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
 
-XV. Cometer un cónyuge contra la persona o bienes del otro, o de los hijos, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
+XV.- Cometer un cónyuge contra la persona o bienes del otro, o de los hijos, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
 
 XVI.- El mutuo consentimiento.
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2004)</small>
 
-XVII. El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar; y
+XVII.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar; y
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2004)</small>
-
-XVIII. La separación de los cónyuges por más de dos años sea cualquiera la causa que haya llevado a dicha separación, lo cual podrá ser reclamado indistintamente por alguno de ellos.
+XVIII.- (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
 ART. 263.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez derecho para pedir el divorcio, pero no puede hacerlo sino pasados tres meses de la notificación de la sentencia que haya causado ejecutoria. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
-
-ART. 264.- Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción precluye en seis meses, contados desde que se tuvo conocimiento del adulterio.
+ART. 264.- (DEROGADO, P.O. 19 DE JULIO DE 2018)
 
 ART. 265.- Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno solo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos y no en simples omisiones.
 
-ART. 266.- Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+ART. 266.- (DEROGADO, P.O. 19 DE JULIO DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2017)</small>
 
@@ -1423,19 +1413,15 @@ V.- La manera de administrar los bienes de la sociedad conyugal durante el proce
 
 ART. 271.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. En este caso no podrán volver a solicitar el divorcio por mutuo consentimiento sino pasados dos años que se contarán desde la fecha de su reconciliación.
 
-ART. 272.- El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 262, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+ART. 272.- (DEROGADO, P.O. 19 DE JULIO DE 2018)
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+ART. 273.- (DEROGADO, P.O. 19 DE JULIO DE 2018)
 
-ART. 273.- El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda, este excepto por la causal de violencia familiar, la que podrá alegarse en cualquier momento.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
-
-ART. 274.- Ninguna de las causas enumeradas en el artículo 262 pueden alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito. Excepto cuando se trate de violencia familiar.
+ART. 274.- (DEROGADO, P.O. 19 DE JULIO DE 2018)
 
 ART. 275.- La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
-ART. 276.- El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él, más en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+ART. 276.- (DEROGADO, P.O. 19 DE JULIO DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
@@ -1477,23 +1463,31 @@ IX. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgad
 
 X. Las demás que considere necesarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE JULIO DE 2018)</small>
+
 ART. 278.- La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2018)</small>
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIII y XIV del artículo 262, los hijos quedarán bajo la custodia del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la custodia del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones III, IV y V, del artículo 262, los hijos quedarán bajo la custodia del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la custodia del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2006)</small>
+
+En los casos particulares de las causales de divorcio arriba señaladas, el Juez deberá analizar las consideraciones particulares de cada caso, para ver si es pertinente declarar la pérdida de la patria potestad al cónyuge culpable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2018)</small>
+
+Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones X, XI y XV del artículo 262, los hijos quedarán bajo la custodia del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la custodia.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2006)</small>
 
 En los casos particulares de las causales de divorcio arriba señaladas, el Juez deberá analizar las consideraciones particulares de cada caso, para ver si es pertinente declarar la pérdida de la patria potestad al cónyuge culpable.
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2006)</small>
-
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII y XV del artículo 262, los hijos quedarán bajo la custodia del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la custodia.
-
-En los casos particulares de las causales de divorcio arriba señaladas, el Juez deberá analizar las consideraciones particulares de cada caso, para ver si es pertinente declarar la pérdida de la patria potestad al cónyuge culpable.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2006)</small>
 
 Si los dos cónyuges fueren culpables y existan elementos para ello, el Juez les suspenderá el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
 
-Tercera.- En caso de las fracciones VI y VII del artículo 262, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+Tercera.- (DEROGADO, P.O. 19 DE JULIO DE 2018)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2014)</small>
 
@@ -10726,3 +10720,19 @@ P.O. 1 DE JULIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 392.- QUE CONTIENE DEROGACIÓN (SIC) AL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 394.- QUE CONTIENE REFORMAS AL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
