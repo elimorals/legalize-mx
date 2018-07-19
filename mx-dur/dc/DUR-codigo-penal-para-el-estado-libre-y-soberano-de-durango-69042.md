@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2018-06-28"
+last_updated: "2018-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -819,7 +819,7 @@ Este beneficio no se concederá a los sentenciados por los delitos considerados 
 
 Concepto y duración.
 
-El trabajo obligatorio como pena tiene como objeto la reparación del daño a la víctima u ofendido. Tendrá lugar como sanción sustitutiva a la privativa de libertad, cuando el sentenciado acredite qué con su empleo podrá cubrir el importe decretado por la autoridad judicial, en la forma y términos establecidos en la ley.
+El trabajo obligatorio como pena tiene como objeto la reparación del daño a la víctima u ofendido. Tendrá lugar como sanción sustitutiva a la privativa de libertad, cuando el sentenciado acredite que con su empleo podrá cubrir el importe decretado por la autoridad judicial, en la forma y términos establecidos en la ley.
 
 ### CAPÍTULO VII. RELEGACIÓN
 
@@ -2435,9 +2435,11 @@ VIII. Respecto de vehículos automotores o partes de éstos;
 
 IX. Respecto de objetos que se encuentran en el interior de los vehículos automotores cuando el valor de lo robado exceda de noventa veces la Unidad de Medida y Actualización; y,
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2012)</small>
+X. (DEROGADA, P.O. 19 DE JULIO DE 2018)
 
-X. Recaiga sobre bienes de instituciones educativas, científicas, museos, galerías de arte, edificios de carácter religioso o monumentos históricos.
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
+
+Artículo 197 BIS. Las penas señaladas en el artículo 196, se aumentarán de cuatro a diez años de prisión y multa de doscientas ochenta y ocho a setecientas veinte veces la Unidad de Medida y Actualización, si el robo se realiza sobre bienes de instituciones educativas públicas o privadas que cuenten con reconocimiento oficial, así como instituciones científicas, museos, galerías de arte, edificios de carácter religioso o monumentos históricos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -3387,13 +3389,23 @@ II. Al que oculte, sustraiga, venda o compre efectos que la autoridad competente
 
 Se impondrá la misma pena de prisión a que se refiere el artículo, a la utilidad de ganancias sin moderación obtenida de las ventas de mercancías de canasta básica de las familias del Estado de Durango.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2018)</small>
 
 ###### Artículo 265 Bis.
 
-Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización, a toda persona que con ánimo de acaparamiento, almacene artículos de consumo necesario, por un período mayor de tres meses sin efectuar operaciones de venta.
+Se sancionará con una pena de cuatro a siete años de prisión, y multa de doscientos ochenta y ocho a quinientos cuatro veces la Unidad de Medida y Actualización, además del decomiso de los objetos y productos del delito; de manera oficiosa el juez decretará la prisión preventiva:
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2014)</small>
+I. A quien fabrique, almacene, distribuya o suministre bebidas alcohólicas falsificadas, entendiéndose por éstas cuya naturaleza o composición no correspondan con las que se etiquete, anuncie, expenda, suministre, o cuando no coincidan las especificaciones de su autorización o hayan sufrido tratamiento que disimule su alteración, o encubra defectos en su proceso o en la calidad sanitaria de las materia (sic) primas utilizadas;
+
+II. A quien fabrique, comercialice, almacene o suministre, bebidas alcohólicas que contengan una proporción mayor al 55% de alcohol etílico en volumen; y
+
+III. A quien venda bebidas alcohólicas adulteradas a menores de edad, a sabiendas de que su compra será para consumo de éstos; se aumentará en una mitad más la penalidad establecida.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2018)</small>
+
+###### Artículo 265 Ter.
+
+Se impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientas sesenta veces la Unidad de Medida y Actualización, a toda persona que con ánimo de acaparamiento, almacene artículos de consumo necesario, por un período mayor de tres meses sin efectuar operaciones de venta.
 
 No se procederá penalmente en contra de las personas que incurran en la conducta anterior cuando:
 
@@ -3401,25 +3413,13 @@ I.- A pesar de haber ofrecido sus artículos en venta al público a los precios 
 
 II.- Las mercancías que almacena son para uso propio y en cantidades que no excedan a las necesidades normales durante dos meses.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2014)</small>
-
-Se consideran artículos de consumo necesario todos los comestibles de primera necesidad, medicinas, combustibles, llantas y refacciones mecánicas destinadas para uso particular y de empresas de transportes y en general, las que sean necesarias para la economía de la región.
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
-
-Quien realice operaciones de venta a precios que produzcan lucro inmoderado, mercancías de las señaladas en el párrafo anterior, será castigado de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2014)</small>
+Se consideran artículos de consumo necesario todos los comestibles de primera necesidad, medicinas, combustibles, llantas y refacciones mecánicas destinadas para uso particular y de empresas de transportes y en general, las que sean necesarias para la economía de la región. Quien realice operaciones de venta a precios que produzcan lucro inmoderado, mercancías de las señaladas en el párrafo anterior, será castigado de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro veces la Unidad de Medida y Actualización.
 
 La misma pena de prisión se impondrá a quien desobedezca las disposiciones de la autoridad dictadas con el fin de controlar la venta de artículos alimenticios, a precios oficiales y asimismo a los comerciantes, que estando autorizados únicamente a realizar sus mercancías al menudeo, efectúen también operaciones de mayoreo.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
-
 Cuando los productores, distribuidores, comisionistas, comerciantes y en general cualquiera persona, con el fin de obtener lucro inmoderado, concierten actos tendientes a elevar en forma exagerada los precios de las mercancías de consumo necesario, serán sancionados de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientas cuarenta y ocho veces la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2014)</small>
-
-Los comerciantes, los distribuidores y los comisionistas que reincidan en cualquiera de los actos delictuosos enumerados en artículos anteriores y aún cuando hayan sufrido las penas establecidas por esta Ley, serán castigados además con la cancelación de la licencia respectiva, para que puedan ejercitar actos de comercio en toda la Entidad.
+Los comerciantes, los distribuidores y los comisionistas que reincidan en cualquiera de los actos delictuosos enumerados en artículos anteriores y aun cuando hayan sufrido las penas establecidas por esta Ley, serán castigados además con la cancelación de la licencia respectiva, para que puedan ejercitar actos de comercio en toda la Entidad.
 
 ### CAPÍTULO III BIS. DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES
 
@@ -5407,7 +5407,7 @@ Para el Sistema Integral de Justicia para Menores Infractores, el presente orden
 
 Abrogación y Derogación.
 
-El Código Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004 y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que determine la Declaratoria a que alude el artículo primero transitorio del presente decreto, conforme a las siguientes prevenciones:
+El Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004 y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que determine la Declaratoria a que alude el artículo primero transitorio del presente decreto, conforme a las siguientes prevenciones:
 
 I.- En el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo, el Código referido con antelación, seguirá rigiendo, en los procedimientos por delitos cometidos con anterioridad a la entrada en vigor del presente Código Penal para el Estado Libre y Soberano de Durango, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria;
 
@@ -6079,8 +6079,24 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo estable
 
 P.O. 28 DE JUNIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 399.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 399.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 395.- QUE CONTIENE ADICIÓN AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 396.- QUE CONTIENE DEROGACIÓN AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
