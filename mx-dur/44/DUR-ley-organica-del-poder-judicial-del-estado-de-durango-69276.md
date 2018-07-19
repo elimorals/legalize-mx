@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2018-05-31"
+last_updated: "2018-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -1841,7 +1841,13 @@ VIII. Solicitar al Tribunal para Menores Infractores del Poder Judicial del Esta
 
 IX. Recabar datos que arroje el Instituto de Defensoría Pública respecto de los asuntos de su conocimiento para su sistematización y presentación; y
 
-X. Las demás que el Consejo de la Judicatura le encomiende.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2018)</small>
+
+X. Crear el Registro Público de Deudores Alimentarios Morosos del Estado de Durango, en el que se inscribirá a las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, mediante orden dada por los jueces; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2018)</small>
+
+XI. Las demás que el Consejo de la Judicatura le encomiende.
 
 ###### ARTÍCULO 120.
 
@@ -3189,11 +3195,9 @@ También tendrá a su cargo las funciones inherentes a la materia de transparenc
 
 (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2017)
 
-> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO POR EL ARTÍCULO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 9 DE NOVIEMBRE DE 2017 SESIONADO POR EL CONGRESO DEL ESTADO EL 28 DE JUNIO DE 2017. EL 16 DE NOVIEMBRE DE 2017 FUE REFORMADO ESTE ARTÍCULO SESIONADO POR EL CONGRESO DEL ESTADO EL 18 DE OCTUBRE DE 2017 "ARTÍCULO 297.- Corresponde al Secretario Administrativo: I. Elaborar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial del Estado, remitiéndolo al Presidente, para el trámite respectivo ante la Comisión de Administración y ante el Presidente del Tribunal Superior de Justicia, dicho anteproyecto deberá ser elaborado conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el plan estatal de desarrollo y los programas derivados de los mismos, e incluirá cuando menos lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Durango, y enviarlo al Titular del Poder Ejecutivo para el trámite de aprobación respectivo. El anteproyecto propuesto deberá de contribuir a un balance presupuestario sostenible. II. a la X. …"; POR LO QUE, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
-
 ###### ARTÍCULO 297.
 
-(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2017)
+(DEROGADO, P.O. 19 DE JULIO DE 2018)
 
 ###### ARTÍCULO 298.
 
@@ -3483,7 +3487,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulad
 
 P.O. 5 DE MARZO DE 2017.
 
-## [N.DE E. TRANSITORIOS DEL “DECRETO NO. 69.- QUE CONTIENE REFORMAS A DIVERSOS ARTICULOS DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 69.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
@@ -3556,6 +3560,22 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente d
 P.O. 31 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 381.- QUE CONTIENE REFORMAS Y ADICIONES A LOS ART. 5, 41 Y 87 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 397.- QUE CONTIENE DEROGACIÓN AL CÓDIGO CIVIL (SIC) DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 19 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 409.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
