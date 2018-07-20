@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2017-09-08"
+last_updated: "2018-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -473,9 +475,11 @@ El Presidente del Tribunal Superior de Justicia, será nombrado por el Pleno ent
 
 El Magistrado que habiendo sido reelecto cumpliera con el término de tres años, pasado un periodo de tres años posterior a aquel momento, podrá volver a ser electo Presidente del Tribunal Superior de Justicia en términos del párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 39.
 
-Corresponde al Presidente del Tribunal Superior:
+Corresponde al presidente del Tribunal Superior:
 
 I.- Vigilar que la Administración de Justicia sea pronta, completa e imparcial para cuyo efecto, dictará las providencias que fueren necesarias y oportunas.
 
@@ -504,6 +508,10 @@ XII.- Llevar el turno de los Magistrados Propietarios que se excusen de conocer 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
 XIII.- Rendir informe anual ante el Pleno del Tribunal Superior de Justicia y ante el Pleno del Consejo de la Judicatura sobre las actividades desarrolladas por el Poder Judicial, relativas a la administración de justicia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XIV.- Presidir la Comisión Interinstitucional a que hace referencia el artículo 9 de la Ley que establece las Bases de Operación de la Justicia Terapéutica para el Estado de Baja California.
 
 ###### ARTICULO 40.
 
@@ -1037,15 +1045,19 @@ IV.- Desempeñarse con el carácter de Juez de Ejecución en aquellos asuntos pe
 
 V.- Las demás que les confieren las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2018)</small>
+
+ARTICULO 81 BIS.- Los Jueces de Control, los Jueces Especializados en Ejecución de Sentencias y los Jueces de control Especializados en Adolescentes, ejercerán las facultades que determinen las disposiciones normativas aplicables y se auxiliarán de los mecanismos a que se refiere la Ley que Establece las Bases de Operación de la Justicia Terapéutica para el Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
-ARTICULO 81 BIS.- Los Jueces de Control, ejercerán las facultades que determinen las disposiciones normativas aplicables.
-
 Para el nuevo sistema de justicia penal, se contará con el número de Jueces de Control que sean indispensables para la adecuada aplicación del citado sistema y de conformidad con la disponibilidad presupuestal.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+
 Los Jueces de Control estarán investidos de fe pública para constancia y certificación de sus actos.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
 
 En cada uno de los partidos judiciales en el Estado, de acuerdo a la disponibilidad presupuestal y las necesidades del servicio, se contará por lo menos con un Juez Especializado en Ejecución de Sentencia que ejercerá las facultades que determinen las disposiciones normativas aplicables.
 
@@ -3612,3 +3624,9 @@ CUARTO.- El Poder Judicial podrá acreditar al personal que preste sus servicios
 QUINTO.- Se autoriza al Poder Judicial para que a través de los Jueces de lo Familiar del Partido Judicial de Mexicali, se acuerden convivencias familiares supervisadas dentro de las instalaciones especializadas del Centro de Atención a la Violencia Intrafamiliar en Mexicali, Asociación Civil, una vez que ésta cuente con la Sala de Convivencia Familiar Supervisada que al efecto se establezca conforme a las bases del presente Decreto, debiendo acreditar a su personal para el cumplimiento del mismo.
 
 SEXTO.- Los gastos de operación y funcionamiento de la Sala de Convivencia Familiar Supervisada del Centro de Atención a la Violencia Intrafamiliar en Mexicali, Asociación Civil, se programarán anualmente en el Presupuesto de Egresos del Estado.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 237 MEDIANTE EL CUAL SE APRUEBA LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA JUSTICIA TERAPÉUTICA PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULOS 39 Y 81 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO SE REFORMAN LOS ARTÍCULOS 19, 23, 32 Y 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y SE REFORMAN LOS ARTÍCULOS 6 Y 15 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor a los 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
