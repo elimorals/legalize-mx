@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-justicia-administrativa-del-122037
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-20"
-last_updated: "2017-06-20"
+last_updated: "2018-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -769,7 +769,9 @@ En tanto se hace la designación correspondiente, el Consejo designará al encar
 
 Quien detente la titularidad del Órgano Interno de Control, durante el ejercicio de su cargo, no podrá:
 
-I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado de Guanajuato; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2018)</small>
+
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes; y
 
 II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
 
@@ -862,3 +864,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 GUSTAVO RODRÍGUEZ JUNQUERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 86 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO, Y DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO.”]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
