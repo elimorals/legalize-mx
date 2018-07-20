@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-seguridad-publica-94913
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-05"
-last_updated: "2016-04-13"
+last_updated: "2018-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de junio de 2013.
 
@@ -139,17 +139,29 @@ a) Titular de la Dirección General
 
 3. Dirección de Relaciones Institucionales
 
-B. SUBSECRETARÍA DE PREVENCIÓN Y PARTICIPACIÓN CIUDADANA, integrada por:
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON SUS INCISOS, P.O. 20 DE JULIO DE 2018)</small>
 
-a) Titular de la Subsecretaría;
+B.- SUBSECRETARÍA DE RELACIONES INTERINSTITUCIONALES, integrada por:
 
-1. Dirección de Prevención del Delito;
+a) Subsecretario, y
 
-2. Dirección de Operación del Modelo Integral de Intervención Comunitaria, y
+1. Dirección de Relaciones Interinstitucionales.
 
-3. Dirección de Atención Integral.
+> <small>(REFORMADO CON SUS INCISOS, P.O. 20 DE JULIO DE 2018)</small>
 
-C. COMISARÍA DE PROTECCIÓN INSTITUCIONAL, integrada por:
+C. SUBSECRETARÍA DE PREVENCIÓN Y PARTICIPACIÓN CIUDADANA, integrada por:
+
+a) Subsecretario;
+
+1. Director de Prevención del Delito;
+
+2. Director de Operación del Modelo Integral de Intervención Comunitaria, y
+
+3. Director de Atención Integral.
+
+> <small>(REFORMADO CON SUS INCISOS, P.O. 20 DE JULIO DE 2018)</small>
+
+D. COMISARÍA DE PROTECCIÓN INSTITUCIONAL, integrada por:
 
 a) Comisaría General;
 
@@ -159,7 +171,9 @@ a) Comisaría General;
 
 3. Comisaría de la Policía Procesal.
 
-D. ÓRGANOS DESCONCENTRADOS:
+> <small>(REFORMADO CON SUS INCISOS, P.O. 20 DE JULIO DE 2018)</small>
+
+E. ÓRGANOS DESCONCENTRADOS; integrados por:
 
 I. Agencia de Administración Penitenciaria, integrada por:
 
@@ -169,7 +183,7 @@ a) Comisaría General de la Agencia de Administración Penitenciaria, que compre
 
 2. Dirección de Reinserción Social;
 
-3. Centro Preventivo y de Reinserción Social Topo Chico;
+3. Centro preventivo y de Reinserción Social Topo Chico;
 
 4. Centro de Reinserción Social Apodaca;
 
@@ -177,7 +191,7 @@ a) Comisaría General de la Agencia de Administración Penitenciaria, que compre
 
 6. Centro de Internamiento y de Adaptación de Adolescentes Infractores.
 
-II. Institución Policial Estatal Fuerza Civil.
+II. Institución Policial Estatal Fuerza Civil
 
 III. Centro de Coordinación Integral, de Control, Comando, Comunicaciones y Cómputo del Estado (C-5), integrado por:
 
@@ -191,9 +205,7 @@ a) Dirección General del Centro, que comprende:
 
 4. Dirección de Tecnología de Información y Comunicaciones (TIC).
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
-
-IV.- Unidad de Medidas Cautelares y Suspensión Condicional del Proceso; integrada por:
+IV. Unidad de Medidas Cautelares y Suspensión Condicional del Proceso, integrada por:
 
 a) Titular de la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso, que comprende:
 
@@ -203,11 +215,13 @@ a) Titular de la Unidad de Medidas Cautelares y Suspensión Condicional del Proc
 
 3. Dirección de Vinculación y Gestión de Servicios.
 
-E. COMISIONES AUTÓNOMAS:
+> <small>(ADICIONADO [N. DE E. REUBICADO Y REFORMADO CON SUS INCISOS], P.O. 20 DE JULIO DE 2018)</small>
 
-I. Comisión de Honor y Justicia; y
+F. COMISIONES AUTONOMAS, integradas por:
 
-II. Comisión de Carrera Policial.
+I. Comisión de Honor y Justicia, y
+
+II. Comisión de Carrera Policial
 
 ###### ARTÍCULO 5°.
 
@@ -297,11 +311,15 @@ XXVIII. Las demás que le señalen las leyes, decretos, reglamentos, acuerdos, c
 
 Facultades delegables: Las facultades establecidas en el artículo 9 tienen el carácter de delegables, excepto en las fracciones II, III, IV, V, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXV, XXVI y XXVII que son indelegables.
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES COMUNES DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS, SUBSECRETARÍA, COMISARÍA, ÓRGANOS DESCONCENTRADOS Y COMISIONES AUTÓNOMAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2018)</small>
 
-###### ARTÍCULO 11.
+### CAPÍTULO IV. DE LAS ATRIBUCIONES COMUNES DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS, SUBSECRETARÍAS, COMISARÍA, ÓRGANOS DESCONCENTRADOS Y COMISIONES AUTÓNOMAS
 
-Atribuciones comunes de titulares: Los titulares de las Unidades Administrativas, Subsecretaría, Comisaría, Órganos Desconcentrados y Comisiones Autónomas, tienen las siguientes atribuciones comunes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 11.
+
+Atribuciones comunes de titulares: Los titulares de las Unidades Administrativas, Subsecretarías, Comisaría, Órganos Desconcentrados y Comisiones Autónomas, tienen las siguientes atribuciones comunes:
 
 I. Acordar con su superior jerárquico las políticas, planes, programas, criterios de operación, sistemas y procedimientos relativos a las unidades a su cargo;
 
@@ -369,11 +387,11 @@ I. Llevar a cabo la organización y ejecución de la agenda de actividades del T
 
 II. Conducir la programación, logística y realización de las reuniones de trabajo con las Unidades Administrativas y Organismos Desconcentrados de la Secretaría y de los eventos especiales y cívicos que acuerde el Secretario;
 
-III. Coordinar la conducción de las relaciones institucionales con las diversas dependencias del Poder Ejecutivo así como con los poderes Legislativo y Judicial, gobiernos municipales de Nuevo León y organismos constitucionales autónomos en el Estado;
+III. (DEROGADA, P.O. 20 DE JULIO DE 2018)
 
-IV. Coordinar la conducción de las relaciones institucionales con las diversas dependencias del gobierno federal, tanto Ejecutivo, Legislativo y Judicial, los gobiernos y municipios de otras entidades de la federación, así como organismos constitucionales autónomos a nivel nacional;
+IV. (DEROGADA, P.O. 20 DE JULIO DE 2018)
 
-V. Coadyuvar en la colaboración de la Secretaría con las Comisiones Nacional y Estatal de Derechos Humanos, Consejo Ciudadano de Seguridad y organizaciones de la sociedad civil;
+V. (DEROGADA, P.O. 20 DE JULIO DE 2018)
 
 VI. Coadyuvar en la colaboración de la Secretaría con los ciudadanos que acudan a presentar propuestas, necesidades o quejas en materia de seguridad;
 
@@ -405,7 +423,7 @@ III. Participar en el diseño, instrumentación, actualización y seguimiento de
 
 IV. Establecer métodos y técnicas de evaluación institucional que permitan contar con parámetros de medición de resultados de las actividades, el impacto social y desempeño de la Secretaría, a fin corregir y proponer, en su caso, nuevas estrategias, políticas, programas y proyectos estratégicos para la mejora continua;
 
-V. Proponer y dar seguimiento a la aplicación de los mecanismos de coordinación con las instancias del Gobierno del Estado y los Municipios, así como las autoridades federales, de otros Estados, de otros países y organismos del sector empresarial, civil, académico y de la sociedad en general;
+V. (DEROGADA, P.O. 20 DE JULIO DE 2018)
 
 VI. Participar en el ámbito de su competencia en la celebración de convenios y compromisos que se establezcan con organismos nacionales e internacionales, públicos y privados en materia de capacitación y formación;
 
@@ -551,7 +569,7 @@ XIX. Las demás que le confieran las disposiciones jurídicas aplicables y el Se
 
 ARTÍCULO 18 BIS.- Al Titular de la Dirección General de Investigación le corresponde el ejercicio de las siguientes atribuciones:
 
-l. Recibir los oficios de investigación girados por el Ministerio Público a la Secretaría de Seguridad Pública;
+I. Recibir los oficios de investigación girados por el Ministerio Público a la Secretaría de Seguridad Pública;
 
 II. Colaborar y tramitar sin demora los requerimientos que por cualquier medio autentificable reciba del Ministerio Público;
 
@@ -759,9 +777,31 @@ IX. Supervisar el plan de medios e implementar las diversas acciones de atracci�
 
 X. Las demás que determine el Director General, las disposiciones jurídicas aplicables y el Secretario.
 
-### CAPÍTULO VII. DE LA SUBSECRETARÍA DE PREVENCIÓN Y PARTICIPACIÓN CIUDADANA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2018)</small>
 
-### CAPÍTULO VIII. DE LA COMISARÍA DE PROTECCIÓN INSTITUCIONAL
+### CAPÍTULO VI BIS. DE LA SUBSECRETARÍA DE RELACIONES INTERINSTITUCIONALES
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+ARTÍCULO 23 BIS.- Subsecretario de Relaciones Interinstitucionales: Al Subsecretario de Relaciones Interinstitucionales, le corresponde el ejercicio de las siguientes atribuciones; en el ámbito de competencia de la Secretaría:
+
+I. Coadyuvar con el Secretario en la conducción de las relaciones interinstitucionales con las dependencias y entidades de la Administración Pública Estatal, los municipios y organismos constitucionales autónomos en el Estado, así como con autoridades federales;
+
+II. Ejecutar las instrucciones del Secretario para establecer relaciones de coordinación y colaboración, con instancias públicas y privadas nacionales y extranjeras;
+
+III. Apoyar al Secretario en el intercambio de información con otras dependencias de los niveles Federal, Estatal y Municipal, instituciones públicas o privadas, que coadyuve a la consecución de los fines de la seguridad pública, previo acuerdo con el Secretario;
+
+IV. Apoyar al Secretario, fungiendo como enlace en las comparecencias y presentaciones de aquél, ante cualquier órgano de gobierno, institución pública o privada nacional o extranjera, en coordinación con el Titular de la Oficina del Secretario;
+
+V. Integrar la información que requiera el Secretario para su participación ante los distintos consejos, comités, conferencias nacionales, regionales, foros, comisiones o grupos de trabajo locales, nacionales o internacionales, relacionados con la seguridad pública;
+
+VI. Propiciar la comunicación efectiva del Secretario con las distintas autoridades de los niveles Federal, Estatal o Municipal en los operativos relacionados con la seguridad pública;
+
+VII. Proponer al Secretario y dar seguimiento a las políticas, instrumentos, lineamientos y acciones que permitan fortalecer y hacer eficientes los mecanismos de coordinación entre las instituciones de seguridad pública en el ámbito Federal, Estatal y Municipal;
+
+VIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+### CAPÍTULO VII. DE LA SUBSECRETARÍA DE PREVENCIÓN Y PARTICIPACIÓN CIUDADANA
 
 ###### ARTÍCULO 24.
 
@@ -885,7 +925,7 @@ XII. Suscribir previa autorización de su superior jerárquico, los documentos q
 
 XIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Subsecretario.
 
-### CAPÍTULO IX. DE LOS ÓRGANOS DES CONCENTRADOS
+### CAPÍTULO VIII. DE LA COMISARÍA DE PROTECCIÓN INSTITUCIONAL
 
 ###### ARTÍCULO 28.
 
@@ -973,7 +1013,7 @@ VII. Informar de manera permanente al Comisario General sobre el avance, impleme
 
 VIII. Las demás que establezcan las disposiciones jurídicas aplicables.
 
-### CAPÍTULO X. DE LAS COMISIONES AUTÓNOMAS
+### CAPÍTULO IX. DE LOS ÓRGANOS DES CONCENTRADOS
 
 #### Sección Primera. Disposiciones Generales
 
@@ -997,7 +1037,7 @@ IV.- Unidad de Medidas Cautelares y Suspensión Condicional del Proceso.
 
 ###### ARTÍCULO 33.
 
-Subordinación de Órganos Desconcentrados: Los órganos desconcentrados estarán bajo la supervisión y evaluación de la Secretaría, sujetándose a los ordenamientos especificas de su creación, al presente Reglamento y a las disposiciones legales aplicables.
+Subordinación de Órganos Desconcentrados: Los órganos desconcentrados estarán bajo la supervisión y evaluación de la Secretaría, sujetándose a los ordenamientos específicos de su creación, al presente Reglamento y a las disposiciones legales aplicables.
 
 Los titulares de los órganos desconcentrados acordarán con el Secretario o con el servidor público que éste designe, la resolución de los asuntos de su competencia.
 
@@ -1545,7 +1585,7 @@ XI.- Proponer e implementar las acciones, políticas, planes, programas, lineami
 
 XII.- Las demás que establezca este Reglamento e instrumentos normativos aplicables.
 
-### CAPÍTULO XI. DE LA SUPLENCIA DE LOS TITULARES
+### CAPÍTULO X. DE LAS COMISIONES AUTÓNOMAS
 
 #### Sección Primera. De la Comisión de Honor y Justicia
 
@@ -1567,9 +1607,7 @@ De la Comisión de Carrera Policial: La Comisión de Carrera Policial es un órg
 
 De la Organización: La organización, integración, funcionamiento y demás facultades de la Comisión serán establecidas en el reglamento correspondiente.
 
-### CAPÍTULO XII. DEL SISTEMA INFORMÁTICO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+### CAPÍTULO XI. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### ARTÍCULO 49.
 
@@ -1581,7 +1619,7 @@ Ausencia de los titulares: Las ausencias temporales de los demás titulares de l
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO XIII. DE LOS INSTRUMENTOS NORMATIVOS INTERNOS
+### CAPÍTULO XII. DEL SISTEMA INFORMÁTICO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
@@ -1592,6 +1630,10 @@ SISPE: Los diversos procedimientos del Sistema Informático de la Secretaría de
 Los Titulares de las Unidades Administrativas, Dirección General, Subsecretaría, Comisaría y Órganos Desconcentrados establecidos en el presente Reglamento Interior, serán los responsables del uso, mantenimiento y actualización de datos para el SISPE, respecto al área de su competencia.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO XIII. DE LOS INSTRUMENTOS NORMATIVOS INTERNOS
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 52.
 
@@ -1674,3 +1716,9 @@ P.O. 13 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VII AL APARTADO A DEL ARTÍCULO 4°, Y UNA SECCIÓN SEXTA “DIRECCIÓN GENERAL DE INVESTIGACIÓN” CON UN ARTÍCULO 18 BIS AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO MEDIANTE EL CUAL SE MODIFICAN LAS LETRAS B, C, D Y E, CON SUS INCISOS, DEL ARTÍCULO 4°, LA DENOMINACIÓN DEL CAPITULO IV Y EL ARTÍCULO 11, ; (SIC) SE ADICIONA UNA LETRA F DEL ARTÍCULO 4°; UN CAPÍTULO VI BIS DENOMINADO "DE LA SUBSECRETARÍA DE RELACIONES INTERINSTITUCIONALES" Y UN ARTÍCULO 23 BIS; Y SE DEROGAN LAS FRACCIONES III, IV Y V DEL ARTÍCULO 13 Y LA FRACCIÓN V DEL ARTÍCULO 14, TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
