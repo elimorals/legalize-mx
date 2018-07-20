@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2016-12-27"
+last_updated: "2018-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -49,23 +49,43 @@ La presente Ley es de orden público y tiene por objeto determinar la organizaci
 
 El organismo a que se refiere el artículo anterior se denominará Procuraduría de los Derechos Humanos del Estado de Guanajuato y estará dotado de plena autonomía, personalidad jurídica y patrimonio propios.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
+
 ###### Artículo 3o.
 
-Para los efectos de esta Ley se consideran Derechos Humanos, los consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Declaración Universal de los Derechos Humanos, los proclamados por la Asamblea General de las Naciones Unidas y los contenidos en Tratados, Convenciones y Acuerdos Internacionales que México haya celebrado o celebre.
+Para los efectos de esta Ley se consideran Derechos Humanos, los reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Declaración Universal de Derechos Humanos, los proclamados por la Asamblea General de las Naciones Unidas y los contenidos en Tratados, Convenciones y Acuerdos Internacionales de los que el Estado Mexicano sea parte.
 
 ###### Artículo 4o.
 
 En la aplicación de las disposiciones de esta Ley, será obligación de toda persona, coadyuvar para el debido cumplimiento de la misma.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
+
 ###### Artículo 5o.
 
-Para los efectos de esta Ley, se entenderá por "Procuraduría" a la Procuraduría de los Derechos Humanos del Estado de Guanajuato; por "Procurador" al Procurador o Procuradora de los Derechos Humanos; por "Consejo" al Consejo Consultivo; por "Secretario General" al Titular de la Secretaría General de la Procuraduría de los Derechos Humanos; por "Subprocurador" al Subprocurador o Subprocuradora de la misma institución; y por "Agente Investigador" a él o a la Agente Investigador.
+Para los efectos de esta Ley se entenderá por:
 
-Para los mismos efectos, se entenderá como servidor público a los señalados por el Artículo 122 de la Constitución Política Local; como superior inmediato al servidor público del cual depende o recibe órdenes el servidor señalado como probable responsable, conforme a la estructura orgánica de la entidad o dependencia de que se trate; y por superior jerárquico, al titular de la entidad o dependencia correspondiente.
+I.- Consejo: el Consejo Consultivo de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+II.- Procurador: la persona titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+III.- Procuraduría: la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+IV.- Secretario General: la persona titular de la Secretaría General de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+V.- Servidor público: los señalados en el artículo 122 de la Constitución Política para el Estado de Guanajuato;
+
+VI.- Subprocurador: la persona titular de la Subprocuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+VII.- Superior inmediato: el servidor público del cual depende o recibe órdenes el servidor señalado como probable responsable, conforme a la estructura orgánica de la entidad o dependencia de que se trate; y
+
+VIII.- Superior jerárquico: el titular de la entidad o dependencia a la que está adscrito el servidor público señalado como probable responsable.
 
 ## Título Segundo
 
-### Capítulo Primero. De la Competencia de la Procuraduría de los Derechos Humanos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2018)</small>
+
+### Capítulo Primero. De la Competencia de la Procuraduría
 
 ###### Artículo 6o.
 
@@ -103,7 +123,9 @@ VII.- Denunciar ante los órganos competentes los delitos o faltas que se hubies
 
 VIII.- Dar seguimiento a las quejas o denuncias de presuntas violaciones de derechos humanos que se cometan en el territorio del Estado;
 
-IX.- Recomendar al superior jerárquico del servidor público infractor, la aplicación de sanciones en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato, sin perjuicio de lo dispuesto en otros ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2018)</small>
+
+IX.- Recomendar al superior jerárquico del servidor público infractor, la aplicación de sanciones en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de lo dispuesto en otros ordenamientos jurídicos aplicables;
 
 X.- Proponer a las diversas autoridades del Estado y de los municipios que en el ámbito de sus competencias, promuevan cambios y modificaciones de disposiciones legislativas y reglamentarias, así como de prácticas administrativas que, a juicio de la Procuraduría, redunden en una mejor protección de los derechos humanos;
 
@@ -151,11 +173,11 @@ La Procuraduría deberá coordinarse con la Comisión Nacional de Derechos Human
 
 ### Capítulo Segundo. De la Integración de la Procuraduría
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 10.
 
-La Procuraduría se integrará por un titular de la Procuraduría, Consejo Consultivo, Subprocuradurías, Secretaría General, Órgano Interno de Control, Coordinadores de Educación y de Promoción de los Derechos Humanos, así como por Agentes Investigadores y personal profesional, administrativo y técnico necesario para el desarrollo de sus actividades.
+La Procuraduría se integrará por un Procurador, Consejo, Subprocuradurías, Secretaría General, Órgano Interno de Control, Coordinadores de Educación y de Promoción de los Derechos Humanos, así como por Agentes Investigadores y personal profesional, administrativo y técnico necesario para el desarrollo de sus actividades.
 
 ###### Artículo 11.
 
@@ -169,61 +191,63 @@ III.- Ser preferentemente Licenciado en Derecho;
 
 IV.- Gozar de reconocido prestigio profesional y personal, así como en la defensa, promoción y difusión de los derechos humanos;
 
-V.- No desempeñar cargo o empleo público al momento de asumir el cargo; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente; y
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2018)</small>
 
-VI.- No haber sido condenado por delito doloso.
+V.- No haber desempeñado cargo de Secretario o Subsecretario de Estado, o su equivalente dentro de la administración pública, Procurador General de Justicia o Subprocurador de Justicia, en el año anterior a su designación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+VI.- No ser o haber sido dirigente de partido político o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su designación;
+
+(REUBICADA, P.O. 20 DE JULIO DE 2018)
+
+VII.- No desempeñar cargo o empleo público al momento de asumir el cargo; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente; y
+
+(REUBICADA, P.O. 20 DE JULIO DE 2018)
+
+VIII.- No haber sido condenado por delito doloso.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 12.
 
-El titular de lo Procuraduría, será designado por el voto de la mitad más uno de la totalidad de quienes integren el Congreso del Estado.
+El Procurador será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus integrantes presentes.
 
-Para tales efectos, el Ejecutivo del Estado previa convocatoria, establecerá las bases para proceder a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados, asociaciones y colegios promotores, defensores o vinculados al tema de los derechos humanos y, en general, a las entidades o personalidades que estime conveniente, a fin de que propongan candidaturas para hacerse cargo de la Procuraduría de los Derechos Humanos del Estado.
+Para tales efectos, el Congreso del Estado, previa convocatoria pública y a través de su órgano de gobierno, establecerá las bases para realizar una amplia consulta entre las organizaciones sociales representativas de los distintos sectores de la sociedad, entre los organismos públicos y privados, asociaciones y colegios promotores, defensores o vinculados al tema de los derechos humanos y, en general, entre las entidades o personalidades que estime conveniente, a fin de que propongan candidaturas para hacerse cargo de la Procuraduría.
 
-Con base en dicho procedimiento y una vez escuchadas a las personas interesadas, el Ejecutivo del Estado propondrá al Congreso del Estado, una terna de candidatos para que de entre ellos, se designe a quien ocupe el cargo.
+La comisión legislativa que determine la Ley Orgánica del Poder Legislativo, presentará al Pleno del Congreso el dictamen que contendrá hasta tres propuestas para elegir al Procurador.
 
-En el caso de que la terna no fuese aprobada, se regresará al Ejecutivo del Estado, para que en el término de cinco días elabore una nueva terna, considerando a otros de los propuestos a partir de la convocatoria y cuya aprobación se hará conforme a lo previsto por los párrafos anteriores.
-
-Si esta segunda terna es rechazada, el Ejecutivo del Estado designará de entre los propuestos a la persona que desempeñará el cargo de Procurador.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 13.
 
-Quien sea designado como titular de la Procuraduría rendirá la protesta de Ley al cargo ante el Congreso del Estado.
+Quien sea designado como Procurador rendirá la protesta de Ley al cargo ante el Congreso del Estado.
 
-El nombramiento deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
+El nombramiento deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 14.
 
-El Titular de la Procuraduría durará en sus funciones cuatro años, y podrá ser ratificado por el Congreso del Estado exclusivamente para un segundo periodo, a propuesta del Ejecutivo del Estado.
+El Procurador durará en sus funciones cuatro años, y podrá ser ratificado por el Congreso del Estado exclusivamente para un segundo periodo, previa solicitud de su órgano de gobierno y dictamen de la comisión legislativa que determine la Ley Orgánica del Poder Legislativo.
 
-La ratificación deberá ser aprobada por el voto de la mitad más uno de la totalidad de quienes integren el Congreso del Estado.
+La ratificación deberá ser aprobada por el Congreso del Estado, con la misma mayoría calificada necesaria para su designación.
 
-El acuerdo del Congreso del Estado por el que se ratifique en su caso al titular de la Procuraduría será publicado en el Periódico Oficial del Gobierno del Estado.
+El acuerdo del Congreso del Estado por el que se ratifique en su caso al Procurador será publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-En el supuesto de que no se ratifique para un segundo periodo al titular de la Procuraduría, se aplicarán las reglas contempladas en esta ley para la designación de un nuevo titular. Mientras tanto, en lo que se desarrolla el mecanismo para lo designación, el Secretario General de la Procuraduría ejercerá las funciones que le corresponden al Procurador.
+En el supuesto de que no se ratifique para un segundo periodo al Procurador, se aplicarán las reglas contempladas en esta ley para la designación de un nuevo titular. Mientras tanto, en lo que se desarrolla el mecanismo para la designación, el Secretario General ejercerá las funciones que le corresponden al Procurador.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 15.
 
-En el supuesto de la falta absoluta del Titular de la Procuraduría, asumirá el cargo como encargado del organismo, la persona que ocupe el cargo de Secretario General de la Procuraduría, en tanto el Congreso del Estado designa al nuevo titular que concluirá el periodo.
+En el supuesto de la falta absoluta del Procurador, asumirá el cargo como encargado del organismo, la persona que ocupe el cargo de Secretario General, en tanto el Congreso del Estado designa al nuevo titular que concluirá el periodo.
 
-Los funcionarios de la Procuraduría de los Derechos Humanos serán suplidos con quien posea el mejor perfil profesional, designados por el Procurador, excepción hecha de quienes integren el Consejo.
+Los funcionarios de la Procuraduría serán suplidos con quien posea el mejor perfil profesional, designados por el Procurador, excepción hecha de quienes integren el Consejo.
 
-### Capítulo Tercero. De las Facultades y Obligaciones del Procurador de los Derechos Humanos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2018)</small>
+
+### Capítulo Tercero. De las Facultades y Obligaciones del Procurador
 
 ###### Artículo 16.
 
@@ -269,23 +293,31 @@ XV. Presentar al Congreso para su aprobación, la propuesta de remoción del tit
 
 XVI.- Las demás que le señalen la presente Ley, el reglamento interno u otras disposiciones jurídicas aplicables.
 
-### Capítulo Cuarto. Del Consejo Consultivo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2018)</small>
+
+### Capítulo Cuarto. Del Consejo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 17.
 
-La Procuraduría para el mejor desempeño de sus funciones, contará con un Consejo Consultivo, que fungirá como órgano de consulta y auxiliar en sus atribuciones. El Consejo estará integrado por un mínimo de siete personas con ciudadanía mexicana, de preferencia guanajuatenses, en pleno ejercicio de sus derechos, que gocen de reconocido prestigio social y que se hayan distinguido por su interés en la defensa y difusión de los derechos humanos. El Consejo será presidido por el Procurador.
+La Procuraduría para el mejor desempeño de sus funciones, contará con un Consejo, que fungirá como órgano de consulta y auxiliar en sus atribuciones. El Consejo estará integrado por un mínimo de siete personas con ciudadanía mexicana, de preferencia guanajuatenses, en pleno ejercicio de sus derechos, que gocen de reconocido prestigio social y que se hayan distinguido por su interés en la defensa y difusión de los derechos humanos. El Consejo será presidido por el Procurador.
 
 Por lo menos cuatro integrantes del Consejo, no deberán ocupar ningún cargo o empleo como servidor público.
 
-El cargo de quienes integren el Consejo, será de carácter honorario y durarán en sus funciones dos años, podrán ser ratificados para un segundo período; la sustitución se hará de manera escalonada sustituyendo al miembro de mayor antigüedad.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El cargo de quienes integren el Consejo será de carácter honorario, durarán en sus funciones tres años, y podrán ser ratificados para un segundo periodo; la sustitución se hará de manera escalonada sustituyendo al miembro de mayor antigüedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 18.
 
-Quienes integren el Consejo serán propuestos por el titular del Poder Ejecutivo del Estado y ratificados por el Pleno del Congreso del Estado o por la Diputación Permanente durante los periodos de receso.
+Quienes integren el Consejo serán propuestos por el Congreso del Estado. El órgano de gobierno del Congreso del Estado emitirá una convocatoria pública, y la comisión legislativa que determine la Ley Orgánica del Poder Legislativo, presentará al Pleno del Congreso el dictamen que contendrá hasta tres propuestas para cada puesto del Consejo. El Pleno del Congreso del Estado o la Diputación Permanente durante los periodos de receso, designará a quien ocupe el cargo.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+La ratificación deberá ser aprobada por el Congreso del Estado o por la Diputación Permanente durante los periodos de receso.
 
 El Consejo contará con un Secretario Técnico, que será el Secretario General, cuya función será elaborar las actas de las sesiones del Consejo y las demás que le atribuya el reglamento interno.
 
@@ -319,9 +351,11 @@ X.- Asesorar en la elaboración del plan anual de trabajo de la Procuraduría; y
 
 XI.- Las demás que le señale esta Ley y su reglamento interno.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
+
 ###### Artículo 20.
 
-El Consejo se reunirá en sesiones ordinarias con la periodicidad que el reglamento interno fije y, en reuniones extraordinarias con el acuerdo de cuando menos tres de sus integrantes. Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el Procurador voto de calidad para el caso de empate.
+El Consejo se reunirá en sesiones ordinarias con la periodicidad que el reglamento interno fije y, en reuniones extraordinarias con el acuerdo de cuando menos tres de sus integrantes. Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el Procurador voto dirimente para el caso de empate.
 
 ### Capítulo Quinto. De los Subprocuradores
 
@@ -337,9 +371,17 @@ III.- Contar con título de Abogado o Licenciado en Derecho expedido por institu
 
 IV.- Gozar de reconocido prestigio profesional y personal, así como en la defensa, promoción y difusión de los derechos humanos;
 
-V.- No desempeñar cargo o empleo público al momento de asumir el cargo; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente; y
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2018)</small>
 
-VI.- No haber sido condenado por delito doloso.
+V. No ser o haber sido dirigente de partido político o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su designación;
+
+(REUBICADA, P.O. 20 DE JULIO DE 2018)
+
+VI.- No desempeñar cargo o empleo público al momento de asumir el cargo; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente; y
+
+(REUBICADA, P.O. 20 DE JULIO DE 2018)
+
+VII.- No haber sido condenado por delito doloso.
 
 ###### Artículo 22.
 
@@ -383,9 +425,11 @@ V.- No haber sido condenado por delito doloso.
 
 ### Capítulo Sexto. De la Secretaría General
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
+
 ###### Artículo 24.
 
-El titular de la Secretaría General será nombrado por el Procurador y deberá reunir los mismos requisitos que para ser Subprocurador.
+El Secretario General será nombrado por el Procurador y deberá reunir los mismos requisitos que para ser Subprocurador.
 
 ###### Artículo 25.
 
@@ -453,7 +497,9 @@ IV. Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, 
 
 V. Fiscalizar que la Procuraduría cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-VI. Designar y remover a los titulares de las áreas a su cargo; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Estatales, representando al Titular de la Procuraduría;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2018)</small>
+
+VI.- Designar y remover a los titulares de las áreas a su cargo; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Estatales, representando al Procurador;
 
 VII. Llevar y normar el registro de servidores públicos de la Procuraduría, recibir y registrar las declaraciones patrimoniales y de intereses así como la constancia de declaración fiscal que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
 
@@ -471,7 +517,9 @@ XII. Conocer e investigar las conductas de los servidores públicos de la Procur
 
 Artículo 25 quinquies.- El Titular del Órgano Interno de Control, durante el ejercicio de su cargo, no podrá:
 
-I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2018)</small>
+
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes; y
 
 II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
 
@@ -495,7 +543,9 @@ VI. Incurrir en abandono del cargo por un periodo de 5 días.
 
 Artículo 26 (sic) Septies. En caso de falta absoluta, renuncia o remoción del titular del Órgano Interno de Control, se procederá de conformidad con el artículo 25 ter de esta ley.
 
-En tanto se hace la designación correspondiente, la Procuraduría designará al encargado del despacho, quien no podrá permanecer en el encargo por más de tres meses.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
+
+En tanto se hace la designación correspondiente, el Procurador designará al encargado del despacho, quien no podrá permanecer en el encargo por más de tres meses.
 
 ### Capítulo Séptimo. De las Coordinaciones
 
@@ -697,9 +747,11 @@ Las declaraciones o hechos a que se refiere el párrafo anterior, se harán cons
 
 ### Capítulo Cuarto. De los Acuerdos y Resoluciones
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
+
 ###### Artículo 54.
 
-Con motivo de las investigaciones que se realicen y en la verificación del cumplimiento de las recomendaciones, se podrán dictar acuerdos de trámite a efecto de hacer comparecer a los servidores públicos, exceptuándose a los señalados en el Artículo 126 de la Constitución Política del Estado, así como para recabar información o documentación o practicar diligencias.
+Con motivo de las investigaciones que se realicen y en la verificación del cumplimiento de las recomendaciones, se podrán dictar acuerdos de trámite a efecto de hacer comparecer a los servidores públicos, exceptuándose a los señalados en el artículo 127 de la Constitución Política para el Estado, así como para recabar información o documentación o practicar diligencias.
 
 ###### Artículo 55.
 
@@ -986,3 +1038,25 @@ Artículo Cuarto. El Congreso del Estado contará con un plazo de ciento ochenta
 Artículo Quinto. Los contralores que hayan sido nombrados con antelación a la entrada en vigor del presente Decreto, continuarán como titulares de los órganos internos de control hasta en tanto el Congreso del Estado realice las nuevas designaciones, atendiendo al procedimiento establecido en la Ley, sin perjuicio de que puedan ser propuestos, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
 
 Artículo Sexto. La Universidad de Guanajuato deberá designar a través de su Consejo General Universitario al titular del órgano interno de control, en un plazo de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 86 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO; Y DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 323, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo.- Dentro de los 60 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá designar a los integrantes del Consejo, en los términos siguientes:
+
+1. Dos integrantes que durarán en su encargo un año;
+
+2. Dos integrantes que durarán en su encargo dos años; y
+
+3. Dos integrantes que durarán en su encargo tres años.
+
+Por única ocasión y por tratarse de la designación de la totalidad de los integrantes del Consejo, en el procedimiento de conformación del Consejo no se contemplará que la designación se realice a través de la integración de ternas.
