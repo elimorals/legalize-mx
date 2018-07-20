@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2018-01-19"
+last_updated: "2018-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -415,9 +417,13 @@ XXXII.- Participar y coordinar a través del área que determine, las acciones r
 
 XXXIII.- Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades del estado en materia de derechos humanos y dar seguimiento a la atención de las recomendaciones que emitan los organismos competentes en dicha materia; así como dictar las medidas administrativas necesarias para tal efecto;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
 
-XXXIV.- Las demás que determinen expresamente las Leyes y Reglamentos.
+XXXIV.- Asumir las funciones que le son encomendadas por la Ley que Establece las Bases de Operación de la Justicia Terapéutica para el Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XXXV.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO III
 
@@ -513,7 +519,13 @@ VIII.- Coordinarse con la Secretaría de Seguridad Pública lo relativo a la Est
 
 IX.- Imponer al personal de la Procuraduría y Agentes de Ministerio Público y de la Policía Ministerial, las sanciones disciplinarias que correspondan por faltas cometidas en el desempeño de sus funciones, de conformidad a las leyes y reglamentos que correspondan; y
 
-X.- Las otras atribuciones previstas por las Leyes, Reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+X.- Asumir las funciones que le son encomendadas por la Ley que Establece las Bases de Operación de la Justicia Terapéutica para el Estado de Baja California; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XI.- Las otras atribuciones previstas por las Leyes, Reglamentos y demás disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 1998)</small>
 
@@ -993,7 +1005,13 @@ XIV.- Promover, impulsar y capacitar a los habitantes del Estado en el cuidado d
 
 XV.- Impulsar la permanente actualización de las Disposiciones Legales en materia de salud, y
 
-XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XVI.- Asumir las funciones que le son encomendadas por la Ley que Establece las Bases de Operación de la Justicia Terapéutica para el Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XVII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1309,9 +1327,13 @@ XLIII.- Integrar y administrar la información estatal sobre la incidencia crimi
 
 XLIV.- Realizar la evaluación de riesgo a petición del Ministerio Público o Defensa con la finalidad de determinar el nivel de riesgo que representa un imputado para que las partes le proporcionen dicha información al Juez de Control y se imponga la medida cautelar más idónea; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
 
-XLV.- Las demás que le atribuyan expresamente las disposiciones normativas aplicables.
+XLV.- Asumir las funciones que le son encomendadas por la Ley que Establece las Bases de Operación de la Justicia Terapéutica para el Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XLVI.- Las demás que le atribuyan expresamente las disposiciones normativas aplicables.
 
 ARTICULO 38 BIS.- (DEROGADO, P.O. 25 DE OCTUBRE DE 2013)
 
@@ -2224,3 +2246,9 @@ Primero.- La presente reforma entrará en vigor al día siguiente de su publicac
 Segundo.- La entidad de la Administración Pública Estatal señalada en la presente Reforma deberá prever en su respectivo proyecto de presupuesto de egresos del ejercicio fiscal siguiente a su publicación, las necesidades presupuestarias para los programas respectivos, a fin de dar cumplimiento a las atribuciones y obligaciones previstas en la misma.
 
 Tercero.- Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo Estatal deberá expedir el Reglamento interno de la Secretaría de Trabajo y Previsión Social del Estado de Baja California.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 237 MEDIANTE EL CUAL SE APRUEBA LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA JUSTICIA TERAPÉUTICA PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULOS 39 Y 81 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO SE REFORMAN LOS ARTÍCULOS 19, 23, 32 Y 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y SE REFORMAN LOS ARTÍCULOS 6 Y 15 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor a los 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
