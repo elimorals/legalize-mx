@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-designar-estimular-y-reconocer-a-ciudadanos-603
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2017-05-19"
+last_updated: "2018-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de marzo de 2008.
 
@@ -399,45 +399,47 @@ La propuesta deberá ser incluida, por la Secretaría General, en el orden del d
 
 A efecto de analizar las propuestas presentadas, se invitará a los sectores más representativos de la sociedad en cada área a reconocerse, para que nombren un representante que forme parte del Comité de Evaluación para Designar a Ciudadanos y Huéspedes Distinguidos.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 27.
 
 El Comité estará integrado por:
 
-a) Cronista de la Ciudad
+a) Cronista de la Ciudad;
 
-b) Titular del Departamento de Educación.
+b) Titular del Departamento de Educación;
 
-c) Titular de la Dirección del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, B.C., (IMCUDHE)
+c) Titular de la Dirección del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, B.C., (IMCUDHE);
 
-d) Titular de la Dirección del Instituto Municipal del Deporte y Recreación (INMUDERE).
+d) Titular de la Dirección del Instituto Municipal del Deporte y Recreación (INMUDERE);
 
-e) Titular de la Dirección del Instituto Municipal de la Juventud de Ensenada (IMJUVENS).
+e) Titular de la Dirección del Instituto Municipal de la Juventud de Ensenada (IMJUVENS);
 
-f) Regidor Coordinador de la Comisión de Educación, Cultura, Ciencia y Tecnología.
+f) Regidor Presidente y Regidor Secretario de la Comisión de Educación, Cultura, Ciencia y Tecnología;
 
-g) Regidor Coordinador de la Comisión de Juventud.
+g) Regidor Presidente y Regidor Secretario de la Comisión de Juventud;
 
-h) Regidor Coordinador de la Comisión de Deporte.
+h) Regidor Presidente y Regidor Secretario de la Comisión de Deporte;
 
-i) Regidor Coordinador de la Comisión de Ecología y Medio Ambiente.
+i) Regidor Presidente y Regidor Secretario de la Comisión de Ecología y Medio Ambiente;
 
-j) Regidor Coordinador de la Comisión de Desarrollo Social.
+j) Regidor Presidente y Regidor Secretario de la Comisión de Desarrollo Social;
 
-k) Regidor Coordinador de la Comisión de Planeación y Desarrollo Económico.
+k) Regidor Presidente y Regidor Secretario de la Comisión de Planeación y Desarrollo Económico;
 
-l) Regidor Coordinador de la Comisión de Administración Pública y Fortalecimiento Municipal.
+l) Regidor Presidente y Regidor Secretario de la Comisión de Administración Pública y Fortalecimiento Municipal;
 
-m) Los representantes de los sectores más representativos de la sociedad en cada área a reconocerse.
+m) Regidor Presidente y Regidor Secretario de la Comisión de Gobernación y Legislación;
 
-n) El Secretario General del Ayuntamiento únicamente con voz, quien dará seguimiento a los acuerdos tomados.
+n) Los representantes de los sectores más representativos de la sociedad en cada área a reconocerse;
 
-o) El Presidente Municipal con derecho de voto de calidad en caso de empate.
+o) El Secretario General del Ayuntamiento únicamente con voz, quien dará seguimiento a los acuerdos tomados;
+
+p) El Presidente Municipal con derecho de voto de calidad en caso de empate.
 
 El Comité será presidido por el Presidente Municipal y podrá sesionar cuando cuente con la asistencia de más del cincuenta por ciento de sus miembros.
 
-En el caso de los regidores de las comisiones enumeradas en los incisos f), g), h), i), j), k) y l) estos se contarán como un integrante con independencia de coordinar a dos o más comisiones.
+En el caso de los regidores presidente y regidores secretarios de las comisiones enumeradas en los incisos f), g), h), i), j), k), l) y m), estos se contarán como un integrante con independencia de presidir o ser secretario de dos o más comisiones.
 
 Todos los integrantes del comité podrán nombrar un suplente en caso de ausencia quien se acreditará con oficio, nombramiento o carta-poder del titular u organismo que representa, con el cual gozará de voz y voto.
 
@@ -532,3 +534,9 @@ P.O. 19 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR DIVERSOS ARTÍCULOS DEL REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, RELATIVO A DICTAMEN 067/2017].
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 27 DEL REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER CIUDADANOS, HUÉSPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
