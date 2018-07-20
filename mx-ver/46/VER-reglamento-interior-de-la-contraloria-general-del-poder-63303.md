@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-contraloria-general-del-poder-63303"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-12"
-last_updated: "2008-09-12"
+last_updated: "2018-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 20 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 12 de septiembre de 2008.
 
@@ -195,3 +197,15 @@ Se establece un plazo de noventa días, para que la Contraloría General del Pod
 ###### ARTÍCULO TERCERO.
 
 En tanto se expide el Manual de Organización, Procedimientos y Servicios al Público, el Contralor General estará facultado para resolver las cuestiones que dicho manual deba regular, de conformidad con las disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Veracruz de Ignacio de la Llave y el Reglamento Interior del Consejo de la Judicatura.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA CONTRALORÍA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Se abroga el Reglamento Interno de la Contraloría Interna, aprobado por el Consejo de la Judicatura y publicado en la Gaceta Oficial del estado número 302, de fecha doce de septiembre del año dos mil ocho.
+
+Segundo. De conformidad con el artículo 101 de la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, se ordena la publicación del presente Reglamento en la Gaceta Oficial del estado.-Cúmplase...".
