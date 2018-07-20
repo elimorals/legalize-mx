@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2017-05-26"
+last_updated: "2018-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -5895,7 +5895,9 @@ VI. No ser o haber sido dirigente de partido político o asociación política a
 
 Quien detente la titularidad del Órgano Interno de Control, durante el ejercicio de su cargo, no podrá:
 
-I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2018)</small>
+
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes; y
 
 II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
 
@@ -6258,3 +6260,9 @@ P.O. 26 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 189, EMITIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 86 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO Y DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
