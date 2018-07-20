@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-bienes-y-servicios-del-municipio-de-tijuana-24553
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-08"
-last_updated: "2018-01-05"
+last_updated: "2018-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de marzo de 2002.
 
@@ -483,6 +483,142 @@ En todo lo previsto en lo relacionado con la venta y enajenación de bienes muni
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2009)
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2018)</small>
+
+## TÍTULO TERCERO. De la Recuperación de Inmuebles por la Vía Administrativa
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2018)</small>
+
+### CAPÍTULO ÚNICO. El Procedimiento
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 28.
+
+Independientemente de las acciones en la vía judicial, el Ayuntamiento podrá llevar a cabo el procedimiento administrativo tendiente a recuperar la posesión de un inmueble de su competencia, en los siguientes casos:
+
+I. Cuando un particular posea, explote, use o aproveche un inmueble del patrimonio del Ayuntamiento, sin haber obtenido previamente concesión, permiso o autorización, o celebrado el contrato correspondiente;
+
+II. Cuando el particular haya tenido concesión, permiso, autorización o contrato y no devolviere el bien al concluir el plazo establecido o le dé un uso distinto al autorizado o convenido, sin contar con la autorización previa de la autoridad competente, o
+
+III. Cuando el particular no cumpla cualquier otra obligación consignada en el título de concesión, permiso, autorización o contrato respectivo.
+
+Tratándose de recuperación de la vía pública el procedimiento aplicable será el que se indique en el Reglamento de Edificación para el Municipio de Tijuana, Baja California.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 29.
+
+En cualquiera de los supuestos señalados en el artículo anterior, la Oficialía Mayor dictará un acuerdo de inicio del procedimiento, el que deberá estar fundado y motivado, indicando el nombre de las personas en contra de quienes se inicia.
+
+Al acuerdo a que se refiere el párrafo anterior se agregarán los documentos con los cuales se sustente el inicio del procedimiento administrativo correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 30.
+
+En el acuerdo de inicio del procedimiento se expresará:
+
+I. El nombre de la persona a la que se dirige;
+
+II. El motivo de la diligencia;
+
+III. Las disposiciones legales en que se sustente;
+
+IV. El lugar, fecha y hora en la que tendrá verificativo la audiencia;
+
+V. El derecho del interesado a aportar pruebas y alegar en la audiencia por sí o por medio de su representante legal;
+
+VI. El apercibimiento de que en caso de no presentarse a la audiencia, se le tendrá por contestado en sentido afirmativo, así como por precluido su derecho para hacerlo posteriormente;
+
+VII. El nombre, cargo y firma autógrafa del servidor público que la emite, y
+
+VIII. El señalamiento de que el respectivo expediente queda a su disposición para su consulta en el lugar en el que tendrá verificativo la audiencia.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 31.
+
+La autoridad dentro de los diez días hábiles siguientes a aquél en que se acuerde el inicio del procedimiento administrativo, les notificará a las personas en contra de quienes se inicia, mediante un servidor público acreditado para ello. En la notificación se indicará que dispone de quince días hábiles, para ocurrir ante la propia dependencia, a fin de hacer valer los derechos que, en su caso, tuviere y acompañar los documentos en que funde sus excepciones y defensas.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 32.
+
+La audiencia se desahogará en la siguiente forma:
+
+I. Se recibirán las pruebas que se ofrezcan, y se calificará la legalidad de las mismas, procediendo al desahogo de las procedentes en la fecha que se señale;
+
+II. El compareciente formulará los alegatos que considere pertinentes, y
+
+III. Se levantará acta administrativa en la que consten las circunstancias anteriores.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 33.
+
+Las notificaciones se harán conforme a lo dispuesto en el Reglamento de Justicia para el Municipio de Tijuana, Baja California.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 34.
+
+La Oficialía Mayor recibirá y, en su caso, admitirá y desahogará las pruebas a que se refiere la fracción I, del artículo 32 de este Reglamento en un plazo no mayor de treinta días hábiles de celebrada la audiencia.
+
+Desahogadas las pruebas admitidas y, en su caso, habiéndose formulado los alegatos, la autoridad emitirá la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 35.
+
+Serán admisibles toda clase de pruebas, excepto las de posiciones y la declaración de parte, cuando sean a cargo de las autoridades.
+
+Para efectos de su admisión, las pruebas ofrecidas deben reunir los siguientes elementos, o de lo contrario, se desecharán de plano:
+
+I. No ser contrarias a la moral y al derecho, y
+
+II. Tener relación inmediata y directa con los puntos controvertidos.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 36.
+
+La resolución deberá contener lo siguiente:
+
+I. Nombre de las personas sujetas al procedimiento;
+
+II. El análisis de las cuestiones planteadas por los interesados, en su caso;
+
+III. La valoración de las pruebas aportadas;
+
+IV. Los fundamentos y motivos que sustenten la resolución;
+
+V. La declaración sobre la procedencia de la terminación, revocación o caducidad de las concesiones, permisos o autorizaciones;
+
+VI. Los términos, en su caso, para llevar a cabo la recuperación del inmueble de que se trate, y
+
+VII. El nombre, cargo y firma autógrafa del servidor público competente que la emite.
+
+Dicha resolución será notificada al interesado dentro de los cinco días hábiles siguientes a su emisión, haciéndole saber el derecho que tiene para interponer los recursos previstos en el Reglamento de Justicia para el Municipio de Tijuana, Baja California.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 37.
+
+Una vez que quede firme la resolución pronunciada, la autoridad que dictó la misma, procederá a ejecutarla, estando facultada para que, en caso de ser necesario, aplique las siguientes medidas de apremio:
+
+I.- La multa hasta por la cantidad equivalente a cincuenta veces el valor diario de la Unidad de Medida y Actualización, que podrá duplicarse en caso de reincidencia.
+
+II.- El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario, y
+
+III.- El arresto hasta por treinta y seis horas.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 38.
+
+La Oficialía Mayor podrá celebrar con los particulares acuerdos o convenios de carácter conciliatorio en cualquier momento, siempre que no sean contrarios a las disposiciones legales aplicables.
+
 ## Artículos Transitorios
 
 Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el órgano de Periódico Oficial del Estado, Órgano de difusión oficial. Para efectos de su difusión exclusivamente, publíquese en un diario de los de mayor circulación del Municipio.
@@ -528,3 +664,11 @@ SEGUNDO.- Las reformas que se aprueban entrarán en vigor al día siguiente de s
 TERCERO.- Se derogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a la presente reforma.
 
 CUARTO.- Una vez que entren en vigor las reformas aprobadas, notifíquese por conducto de la Secretaría de Gobierno Municipal a las dependencias involucradas, para la implementación de tales reformas.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 22 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA; ASÍ MISMO SE APRUEBA REFORMA A LOS ARTÍCULOS 12 Y 15 DEL REGLAMENTO INTERNO DE LA OFICIALÍA MAYOR DE TIJUANA, BAJA CALIFORNIA, ASÍ COMO EL TÍTULO TERCERO, CAPÍTULO ÚNICO DEL REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquense la presente reforma en el Periódico Oficial del Estado de Baja California y en la Gaceta Municipal en su carácter de órgano de difusión del Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- Notifíquese a través de la Secretaría de Gobierno a todas las áreas de gobierno que tendrán la responsabilidad de la aplicación de las reformas, por medio del presente dictamen.
