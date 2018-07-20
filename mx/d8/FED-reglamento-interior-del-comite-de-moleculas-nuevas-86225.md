@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-comite-de-moleculas-nuevas-86225"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-23"
-last_updated: "2014-07-23"
+last_updated: "2018-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-02-07"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE MOLECULAS NUEVAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL COMITÉ DE MOLÉCULAS NUEVAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2018.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de febrero de 2012.
 
@@ -59,7 +61,9 @@ El Comité tendrá las siguientes funciones:
 
 I. Cuando se trate de medicamentos con moléculas nuevas, previo a la solicitud de registro sanitario se realizará la reunión técnica prevista en el artículo 166 fracción III del Reglamento de Insumos para la Salud, a fin de que la Secretaría, esté en posibilidad de resolver las solicitudes de registros sanitarios de medicamentos alopáticos con moléculas nuevas, tomándose en consideración el dictamen que de la misma se desprenda.
 
-El solicitante será notificado de la fecha en que se llevará a cabo la reunión técnica a la que se refiere en el párrafo anterior con 20 días hábiles previos a la fecha de su celebración.
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
+El solicitante será notificado de la fecha en que se llevará a cabo la reunión técnica a la que se refiere el párrafo anterior con 20 días hábiles previos a la fecha de su celebración. En caso de que el Comité no reciba respuesta por parte del solicitante dentro de los tres días hábiles siguientes será considerada como no aceptada y será cancelada la fecha de reunión.
 
 Los solicitantes podrán, de manera adicional a la reunión prevista en el párrafo anterior, solicitar la programación de una reunión previa, a efecto de que el Comité emita su opinión respecto de las pruebas clínicas y preclínicas que pretendan realizar, con el fin de comprobar la calidad, seguridad y eficacia de la molécula nueva a registrarse;
 
@@ -67,7 +71,15 @@ II. Emitir la opinión técnica sobre las adecuaciones a los proyectos relaciona
 
 III. Emitir la opinión técnica que le sea requerida respecto a otros insumos para la salud, distintos a los señalados en las fracciones anteriores y en su caso, respecto de aquellos productos y servicios cuya regulación se encuentre dentro del ámbito de competencia de COFEPRIS;
 
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
+Dependiendo del riesgo, la complejidad y naturaleza del insumo, se encontrarán disponibles en la página de internet de la COFEPRIS, aquéllos casos que requieran una opinión técnica especial por parte del Comité y la ruta de evaluación respectiva, en la que se establecerá la asistencia o no del solicitante ante el Comité.
+
 IV. Acordar la creación de los Subcomités que sean necesarios para el desempeño de sus funciones. En ejercicio de esta facultad el Comité podrá establecer las Reglas de Operación Interna de cada Subcomité.
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2018)</small>
+
+IV bis. Dar atención prioritaria a aquellas nuevas entidades moleculares, que sean de alto impacto para la salud pública, conforme a los ejes rectores del Plan Nacional de Desarrollo y el Programa Nacional de Salud.
 
 V. Las demás funciones, que en su caso, llegaran a establecerse en ordenamientos legales aplicables.
 
@@ -79,9 +91,11 @@ El Comisionado de Autorización Sanitaria será el Presidente del Comité y el D
 
 El cargo de Secretario Técnico lo ocupará el Director del Centro Nacional de Farmacovigilancia.
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
 ###### Artículo 5.
 
-Los miembros del Comité emitirán sus opiniones a título personal sin representar o actuar en nombre de las instituciones u organizaciones a las que pertenezcan o en los que presten sus servicios.
+Los miembros del Comité, emitirán sus opiniones a título personal sin representar o actuar en nombre de las instituciones, asociaciones académicas u organizaciones a las que representen, pertenezcan o en los que presten sus servicios, con base en conocimientos científicos y técnicos sustentados, y libres de conflictos de interés.
 
 ###### Artículo 6.
 
@@ -117,6 +131,10 @@ III. Emitir las invitaciones correspondientes a los miembros del Comité y los S
 
 IV. Someter a consideración de los miembros del Comité los asuntos tratados en las sesiones.
 
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2018)</small>
+
+V. Determinar, dependiendo del riesgo, la complejidad y naturaleza del insumo, aquéllos casos que requieran opinión técnica especial por parte del Comité.
+
 ###### Artículo 12.
 
 Corresponde al Vicepresidente del Comité:
@@ -143,7 +161,9 @@ X. Elaborar el orden del día de las sesiones ordinarias y extraordinarias del C
 
 XI. Levantar las actas, acuerdos de confidencialidad y no conflicto de intereses correspondientes a cada sesión, destacando los acuerdos y compromisos establecidos en la misma, identificando responsables y fechas de cumplimiento;
 
-XII. Llevar el registro de actas de las sesiones;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2018)</small>
+
+XII. Llevar el registro de actas de las sesiones, y la publicación de los resultados de las mismas en la página de Internet de COFEPRIS, salvo aquella información que sea considerada como reservada de conformidad con la Ley Federal de Transparencia y Acceso a la Información.
 
 XIII. Recabar e integrar la información técnica sobre los temas o asuntos que precisen el análisis y resolución del Comité;
 
@@ -177,9 +197,13 @@ IV. Auxiliar al Presidente en el desempeño de sus funciones.
 
 Corresponde a los representantes de las Asociaciones Académicas:
 
-I. Revisar y hacer el análisis de la documentación técnica que presente el interesado emitiendo su opinión al Pleno del Comité para el proceso de solicitud de registro sanitario de, medicamentos e insumos para la salud.
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2018)</small>
 
-II. Enviar al Pleno del Comité resúmenes o extractos de sus comentarios cuando se trate de productos de la competencia que corresponda.
+I. Revisar y hacer el análisis de la documentación técnica del interesado que se ponga en su conocimiento y posesión, emitiendo su opinión científica y técnica de que se trate al Pleno del Comité;
+
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2018)</small>
+
+II. Enviar al Pleno del Comité, resúmenes o extractos de sus comentarios en los casos en que emita opinión.
 
 ###### Artículo 16.
 
@@ -193,11 +217,11 @@ Los representantes de las Asociaciones Académicas no participarán en ninguna a
 
 SUBCOMITE DE EVALUACION DE PRODUCTOS BIOTECNOLOGICOS
 
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 17.
 
-Para el mejor desempeño de las funciones que tiene conferidas, el Comité contará con un Subcomité de Evaluación de Productos Biotecnológicos, el cual contará con un Secretario Técnico y representantes de Asociaciones Académicas, mismo que será convocado por acuerdo del Presidente o el Vicepresidente del Comité, el funcionamiento del Subcomité se ajustará a las políticas de funcionamiento del Comité de Moléculas Nuevas y a los procedimientos administrativos aplicables.
+Conforme lo dispone el Artículo 222 Bis de la Ley General de Salud, el Comité contará con un Subcomité de Evaluación de Productos Biotecnológicos, el cual contará con un Secretario Técnico, representantes de Asociaciones Académicas y otros especialistas científicos. El Subcomité será convocado por acuerdo del Presidente o del Vicepresidente del Comité. El funcionamiento del Subcomité será conforme a lo dispuesto en este Reglamento Interior, las Reglas de Operación de este subcomité, las normas oficiales mexicanas y los procedimientos administrativos aplicables.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2014)</small>
 
@@ -205,13 +229,17 @@ Para el mejor desempeño de las funciones que tiene conferidas, el Comité conta
 
 El Subcomité de Evaluación de Productos Biotecnológicos, estará integrado por un Secretario Técnico, cargo que tendrá un Directivo de la Comisión de Autorización Sanitaria, además de contar con representantes del Instituto Nacional de Medicina Genómica, de la Universidad Nacional Autónoma de México, del Instituto Politécnico Nacional y del Consejo de Salubridad General.
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
 ###### Artículo 19.
 
-El Subcomité de Evaluación de Productos Biotecnológicos tendrá como función la evaluación de la información científica presentada para el proceso de solicitud de registro sanitario de medicamentos biotecnológicos innovadores y biotecnológicos bicomparables comprendidos en el artículo 177 bis 2 del Reglamento de Insumos para la Salud.
+El Subcomité de Evaluación de Productos Biotecnológicos tendrá como función la evaluación de la información científica presentada para el proceso de solicitud de registro sanitario de medicamentos biotecnológicos innovadores y biotecnológicos biocomparables comprendidos en la Ley General de Salud y del Reglamento de Insumos para la Salud referidos en la Fracción II del Artículo 3 de este Reglamento Interior.
+
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2018)</small>
 
 ###### Artículo 20.
 
-Los miembros del Subcomité emitirán sus opiniones a título personal sin representar o actuar en nombre de las instituciones u organizaciones a las que pertenezcan o en los que presten sus servicios.
+Los miembros del Subcomité de Evaluación de Productos Biotecnológicos, emitirán sus opiniones a título personal sin representar o actuar en nombre de las instituciones, asociaciones académicas u organizaciones a las que representen, pertenezcan o en los que presten sus servicios, con base en conocimientos científicos y técnicos sustentados, y libres de conflictos de interés.
 
 ###### Artículo 21.
 
@@ -239,7 +267,9 @@ I. Presidir las sesiones del Subcomité de conformidad a lo acordado por el Pres
 
 II. Nombrar a un suplente;
 
-III. Elaborar un procedimiento interno para las sesiones del Subcomité;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2018)</small>
+
+III. Elaborar los procedimientos internos para las sesiones y funciones del Subcomité.
 
 IV. Elaborar los formatos que deberán llenarse antes, durante y después de las sesiones ante el Subcomité;
 
@@ -249,7 +279,9 @@ VI. Elaborar la orden del día de las sesiones del Subcomité, anexando la docum
 
 VII. Levantar las actas, acuerdos de confidencialidad y no conflicto de intereses correspondientes a cada sesión, destacando los acuerdos y compromisos establecidos en la misma, identificando responsables y fechas de cumplimiento;
 
-VIII. Llevar el registro de actas de las sesiones;
+> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2018)</small>
+
+VIII. Llevar el registro de actas de las sesiones, y la publicación de los resultados de las mismas en la página de Internet de COFEPRIS, salvo aquella información que sea considerada como reservada de conformidad con la Ley Federal de Transparencia y Acceso a la Información.
 
 IX. Integrar la información y documentación técnica sobre los temas o asuntos que sean sometidos al estudio y análisis del subcomité y enviarlas en un plazo no mayor de tres días siguientes a la celebración de la sesión correspondiente al Presidente del Comité para su estudio y análisis;
 
@@ -289,9 +321,11 @@ En caso de que falte algún tipo de información, se hará del conocimiento del 
 
 ### CAPITULO IV. SESIONES DEL COMITE Y SUBCOMITES
 
+> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
 ###### Artículo 30.
 
-El Comité podrá sesionar de manera ordinaria y extraordinaria, siendo la primera semanalmente y siempre y cuando existan por lo menos dos solicitudes para evaluación. Las sesiones extraordinarias serán convocadas a consideración del Presidente del Comité y con la justificación correspondiente.
+El Comité podrá sesionar de manera ordinaria y extraordinaria, siendo la primera semanalmente y las sesiones extraordinarias serán convocadas a consideración del Presidente del Comité y con la justificación correspondiente.
 
 ###### Artículo 31.
 
@@ -353,6 +387,42 @@ Los miembros del Comité y de los Subcomités, en términos de la Ley Federal de
 
 El presente reglamento podrá ser modificado a propuesta de su Presidente y con el voto favorable de la mayoría de los miembros que asistan a la sesión correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 42.
+
+Son Opiniones Técnicas Especiales aquellas requeridas al Comité respecto de otros insumos para la salud a los que se refiere la fracción III del artículo 3 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 43.
+
+En el caso de las opiniones técnicas especiales requeridas al Comité, una vez que el solicitante presente escrito libre señalando el motivo y tipo de solicitud, el Coordinador del Comité por instrucciones del Vicepresidente, con base en la revisión interna, determinará si la información cumple con los requisitos establecidos para determinar si el caso requiere o no la presencia del solicitante ante el Comité.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 44.
+
+Cuando no se requiera la presencia del solicitante, el Comité emitirá el documento denominado Opinión Técnica Especial, la cual deberá ser entregada al solicitante dentro de los 20 días hábiles posteriores a la solicitud de opinión.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 45.
+
+Cada uno de los miembros del Comité deberá confirmar la recepción de la información y su asistencia, así como enviar por escrito las preguntas que tuvieran sobre la información del caso. El Coordinador del Comité enviará al solicitante vía correo electrónico, en su caso, las preguntas que tuvieran los miembros del Comité sobre la información del caso cuando menos 14 días hábiles previo a la presentación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 46.
+
+En los casos que aplique celebrarse una reunión de seguimiento, el solicitante deberá someter nuevamente su solicitud para la reunión ante el Comité y dar cumplimiento a las observaciones indicadas en la opinión técnica.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 47.
+
+Las opiniones que emita el Comité no son vinculatorias y no implica la autorización del Registro Sanitario por la COFEPRIS.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -367,8 +437,14 @@ CUARTO. La Comisión Federal para la Protección contra Riesgos Sanitarios exped
 
 México, Distrito Federal, a siete de febrero de dos mil doce.- El Comité de Moléculas Nuevas de la Comisión Federal para la Protección contra Riesgos Sanitarios: el Presidente del Comité, Federico Alberto Argüelles Tello.- Rúbrica.- El Vicepresidente del Comité, Marco Antonio Arias Vidaca.- Rúbrica.- La Secretaria Técnica del Comité, María del Carmen Soledad Becerril Martínez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 23 DE JULIO DE 2014.
 
 ÚNICO. La presente Modificación entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL REGLAMENTO INTERIOR DEL COMITÉ DE MOLÉCULAS NUEVAS”.]
+
+ÚNICO.- La presente modificación entrará en vigor a los 60 días posteriores al de su publicación en el Diario Oficial de la Federación.
