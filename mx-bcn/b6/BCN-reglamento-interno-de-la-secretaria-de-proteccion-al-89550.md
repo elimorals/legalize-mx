@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-proteccion-al-89550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-27"
-last_updated: "2012-09-28"
+last_updated: "2018-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 27 de julio del 2012.
 
@@ -101,6 +101,12 @@ ii) Departamento de Análisis Ambiental Tijuana.
 
 iii) Departamento de Análisis Ambiental Ensenada.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+Artículo 3 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Secretaría, contará con un Comité de Transparencia y una unidad de transparencia, las cuales se organizarán y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La unidad de transparencia recaerá en la unidad administrativa que se determine en el presente instrumento.
+
 ###### Artículo 4.
 
 Las unidades administrativas de la Secretaría contarán con los servidores públicos que se consideren necesarios para el cabal desempeño de sus atribuciones y que se autoricen en el presupuesto de egresos, los cuales tendrán a su cargo la atención y despacho de los asuntos que se establecen en el Reglamento, en los lineamientos y normas que expida el Secretario y en los que les instruya el titular de la unidad administrativa respectiva.
@@ -153,13 +159,19 @@ XIV. Firmar documentos administrativos relativos a acuerdos y resoluciones admin
 
 XV. Nombrar, mediante oficio, apoderados para ser representado ante cualquier autoridad, cuando la dependencia, sus unidades administrativas o su titular, tengan el carácter de parte actora, demandada, tercerista o coadyuvante; el poder será limitado al asunto de que se trate y en él se señalarán las facultades que se otorgan;
 
-XVI. Dirigir y supervisar los procesos de planeación, programación, licitación, evaluación y cumplimiento de obras y proyectos que se realicen en el Estado, de acuerdo a la legislación en la materia y las demás que le sean encomendadas por el Ejecutivo del Estado, o aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables; y (sic)
+XVI. Dirigir y supervisar los procesos de planeación, programación, licitación, evaluación y cumplimiento de obras y proyectos que se realicen en el Estado, de acuerdo a la legislación en la materia y las demás que le sean encomendadas por el Ejecutivo del Estado, o aquellas que le confieren las leyes, reglamentos y demás disposiciones aplicables; y
 
 XVII. Suscribir en unión con el Secretario General de Gobierno, los títulos de las concesiones, que en materia ambiental, otorgue el Poder Ejecutivo del Estado;
 
 XVIII. Solicitar a la Secretaría General de Gobierno, la nulidad, revocación, cancelación o caducidad de los títulos de concesión que en materia ambiental hubiese otorgado el Poder Ejecutivo Estatal;
 
-XIX. Las demás que con carácter de no delegables le atribuya el Ejecutivo del Estado, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XIX. Designar a los integrantes del Comité de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XX. Las demás que con carácter de no delegables le atribuya el Ejecutivo del Estado, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -249,7 +261,49 @@ XII. Participar en la formulación del proyecto del programa operativo anual y d
 
 XIII. Atender los requerimientos o peticiones de información dirigidos a la Secretaría, de acuerdo a los lineamientos que se establezcan y de conformidad con la Ley de Transparencia y Acceso a la Información Pública de Baja California y demás normatividad aplicable; y
 
-XIV. Las demás que le sean encomendadas por el Secretario y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XIV. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XV. Las demás que le sean encomendadas por el Secretario y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+Artículo 12 BIS.- El Órgano Interno de Control de la Secretaría para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Secretaría y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de Secretaría;
+
+III. Revisar que las operaciones presupuestales que realice la Secretaría se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las unidades administrativas de la Secretaría que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías, verificaciones y revisiones, y formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al titular de la Secretaría sobre los resultados de las revisiones, auditorías y verificaciones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Vigilar que la Secretaría realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en la materia;
+
+VII. Requerir a terceros que hubieran contratado bienes o servicios con la Secretaría la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Secretaría cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos de la Secretaría información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Coadyuvar en el programa de actualización del marco de actuación de la Secretaría en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen, y
+
+XIV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+Artículo 12 TER.- El Órgano Interno de Control contará con el personal y los recursos necesarios, que garanticen el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DEL SUBSECRETARIO
 
@@ -409,7 +463,7 @@ XX. Supervisar la aplicación de la política de inspección y vigilancia para e
 
 XXI. Dirigir y organizar el desarrollo del Sistema Estatal de Información Ambiental, y coordinarse con las autoridades competentes a fin de facilitar el acceso a la información, a efecto de que se integre al Sistema Nacional de Información Ambiental; y
 
-XXII. Las demás que le sean encomendadas por el Secretario y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables; (sic)
+XXII. Las demás que le sean encomendadas por el Secretario y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables;
 
 ###### Artículo 17.
 
@@ -469,11 +523,11 @@ XVII. Llevar a cabo el control y seguimiento de las acciones acordadas en los co
 
 XVIII. Establecer y vigilar la aplicación de los criterios que deben observar las personas físicas o morales, auditores ambientales y dependencias involucradas durante el desarrollo de las auditorías ambientales voluntarias y el seguimiento del programa de obras de actividades; y
 
-XIX. Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables; (sic)
+XIX. Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables;
 
 ###### Artículo 19.
 
-Quedan adscritos a la Dirección de Auditoría Ambiental, los Departamentos de Auditoría Ambiental Mexicali, Tijuana y, Ensenada; (sic)
+Quedan adscritos a la Dirección de Auditoría Ambiental, los Departamentos de Auditoría Ambiental Mexicali, Tijuana y, Ensenada;
 
 ###### Artículo 20.
 
@@ -595,7 +649,7 @@ VI. Realizar las visitas de reconocimiento a sitios bajo evaluación ambiental, 
 
 VII. Recibir, analizar y elaborar los proyectos de resolución de los trámites y documentos presentados ante la Secretaría para registrarse como generador de residuos de manejo especial;
 
-VIII. Establecer y mantener actualizado el registro obligatorio de las fuentes fijas en Baja California; y (sic)
+VIII. Establecer y mantener actualizado el registro obligatorio de las fuentes fijas en Baja California; y
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -635,7 +689,7 @@ VII. Supervisar y operar el correcto funcionamiento del sistema de transmisión 
 
 VIII. Dar seguimiento y efectuar la revisión de la documentación generada en el proceso de verificación vehicular, así como de los archivos electrónicos generados en el proceso de auditoría de calibración a los equipos por parte de los laboratorios acreditados, en los términos de la Ley Federal de Metrología y Normalización;
 
-IX. Controlar la emisión y entrega de credenciales, hologramas, papelería y demás documentación oficial, necesaria para la operación del Programa Verificación (sic) Vehicular Obligatoria para el Estado de Baja California; y (sic)
+IX. Controlar la emisión y entrega de credenciales, hologramas, papelería y demás documentación oficial, necesaria para la operación del Programa (sic) Verificación Vehicular Obligatoria para el Estado de Baja California; y
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -729,7 +783,7 @@ XXV. Elaborar, en el ámbito de su competencia, los estudios para el establecimi
 
 XXVI. Presentar estudios para el establecimiento de restricciones a la forestación y reforestación;
 
-XXVII. Impulsar el desarrollo forestal en los distritos de desarrollo rural de la entidad; y (sic)
+XXVII. Impulsar el desarrollo forestal en los distritos de desarrollo rural de la entidad; y
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1025,6 +1079,12 @@ En la ausencia del Coordinador Jurídico, el despacho de los asuntos de su compe
 
 Las ausencias de los Jefes de Departamento serán suplidas para el despacho de los asuntos de su competencia, por el personal que el Director correspondiente autorice.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### Artículo 42.
+
+Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -1058,3 +1118,19 @@ SECRETARIO DE PROTECCIÓN AL AMBIENTE
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 3 BIS, 12 BIS, 12 TER Y 42, Y SE REFORMAN LOS ARTÍCULOS 7 Y 12, DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE PROTECCIÓN AL AMBIENTE”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas y adiciones al Reglamento Interno de la Secretaría de Protección al Ambiente entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Protección al Ambiente del Estado a partir de la entrada en vigor del presente decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Finanzas, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
