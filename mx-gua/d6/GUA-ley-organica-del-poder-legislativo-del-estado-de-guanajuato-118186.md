@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2018-04-12"
+last_updated: "2018-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -2589,7 +2589,9 @@ IX. Unidad de Seguimiento y Análisis de Impacto Legislativo.
 
 El titular de la Secretaría General es trabajador de confianza y son causas de remoción de su cargo:
 
-I. Desempañar (sic) otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2018)</small>
+
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes;
 
 II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines del Poder Legislativo;
 
@@ -3085,7 +3087,9 @@ XVI. Las demás que expresamente le confieran los ordenamientos legales o que de
 
 El Titular de la Contraloría Interna del Poder Legislativo, durante el ejercicio de su cargo, no podrá:
 
-I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado de Guanajuato; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2018)</small>
+
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes; y
 
 II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
 
@@ -3252,3 +3256,9 @@ Artículo Tercero. La Junta de Gobierno y Coordinación Política aprobará el M
 Artículo Cuarto. A la entrada en vigor del presente Decreto, los becarios, pasantes e investigadores que se encuentren desarrollando actividades o investigaciones, continuarán las mismas en los términos de su incorporación.
 
 Artículo Quinto. El Congreso del Estado, por conducto de la Dirección General de Administración, mantendrá las acciones presupuestales respecto del Centro de Estudios Parlamentarios en cumplimiento de lo establecido en el presente Decreto, garantizando la continuidad de la operación y de las actividades del mismo, de conformidad con el acuerdo de reestructuración, con la normativa aplicable y sujeto a la suficiencia presupuestaria.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 322, QUE EXPIDE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE DEROGA EL ARTÍCULO 86 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO; DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; DE LA LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO Y DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
