@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2017-11-10"
+last_updated: "2018-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE FEBRERO DE 2019 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -185,9 +187,13 @@ XXXIII.- Ejercer las acciones que las disposiciones normativas en materia de ext
 
 XXXIV.- En los casos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal, asistir gratuitamente a las víctimas u ofendidos a fin de facilitar la promoción, orientación y posibilidad efectiva de reclamar sus derechos, así como una defensa jurídica para obtener la restitución o reparación en el goce de los mismos, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
 
-XXXV.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
+XXXV.- Participar en la integración de los equipos multidisciplinarios de Justicia Terapéutica en términos de la ley de la materia, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XXXVI.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2012)</small>
 
@@ -327,9 +333,13 @@ XX. Publicitar en cualquier medio de comunicación, principalmente en su portal 
 
 XXI.- Impulsar la colaboración de los Poderes y Ayuntamientos del Estado; organismos autónomos, así como del sector privado, para que dentro de sus respectivos portales de internet difundan los datos generales de las personas reportadas como desaparecidas, que para tal efecto proporcione la Procuraduría, con el fin de lograr un efecto multiplicador en la divulgación de la información a que se refiere la fracción anterior; y
 
-> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
 
-XXII.- Las demás que le encomiende el Gobernador del Estado, así como las que establezcan las leyes y reglamentos.
+XXII.- Asumir las funciones que le son encomendadas por la Ley que Establece las Bases de Operación de la Justicia Terapéutica para el Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XXIII.- Las demás que le encomiende el Gobernador del Estado, así como las que establezcan las leyes y reglamentos.
 
 ###### ARTÍCULO 16.
 
@@ -852,3 +862,9 @@ P.O. 10 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo Estatal deberá realizar las modificaciones necesarias al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California.
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 237 MEDIANTE EL CUAL SE APRUEBA LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA JUSTICIA TERAPÉUTICA PARA EL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULOS 39 Y 81 BIS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO SE REFORMAN LOS ARTÍCULOS 19, 23, 32 Y 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, Y SE REFORMAN LOS ARTÍCULOS 6 Y 15 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor a los 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
