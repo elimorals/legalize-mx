@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-planeacion-y-84367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-16"
-last_updated: "2012-01-06"
+last_updated: "2018-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de diciembre de 2011.
 
@@ -79,6 +77,20 @@ XII. Secretario: El titular de la Secretaría de Planeación y Finanzas.
 
 XIII. Unidad Administrativa: La Oficina del Titular, Subsecretarías, Procuraduría Fiscal, Subprocuradurías, Direcciones, Subdirecciones, Departamentos, Recaudaciones, y Coordinaciones, según corresponda.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XIV. Comité de Transparencia: Al órgano colegiado al que hace referencia la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XV. Unidad de Transparencia: Área de la Secretaría encargada de recabar y difundir las obligaciones de transparencia en su carácter de sujeto obligado, así como de recibir, atender y, en su caso, turnar, las solicitudes de acceso a la información y de protección de datos personales y servir de vínculo con los solicitantes.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+ARTÍCULO 3 BIS.- Para el eficaz y debido cumplimiento de las disposiciones en materia de acceso a la información y protección de datos personales administrados, generados o en poder de la Secretaría, contará con un Comité de Transparencia y una Unidad de Transparencia, las cuales se organizarán y funcionarán conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+La Unidad de Transparencia recaerá en la Unidad Administrativa que se determine en el presente instrumento.
+
 ###### ARTÍCULO 4.
 
 Para el despacho de los asuntos y el ejercicio de las atribuciones de su competencia, la Secretaría contará con las siguientes Unidades Administrativas:
@@ -98,6 +110,18 @@ c) (sic) Dirección de Administración;
 > <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
 d) (sic) Centro de Capacitación de Estudios Fiscales y Finanzas Públicas.
+
+[N. DE E. VEASE LITERALIDAD EN EL P.O. DE 20 DE JULIO DE 2018)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JULIO DE 2018)</small>
+
+c) Órgano Interno de Control
+
+[N. DE E. VEASE LITERALIDAD EN EL P.O. DE 20 DE JULIO DE 2018)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JULIO DE 2018)</small>
+
+d) Dirección de Auditoría Interna
 
 II.- Subsecretaría Planeación (sic) y Presupuesto.
 
@@ -197,9 +221,9 @@ j) (sic) Dirección de Auditoría Fiscal.
 
 3.3.- Departamento de Auditorías de Gabinete.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+[N. DE E. VÉASE LITERALIDAD, P.O. 20 DE JULIO DE 2018)
 
-k) (sic) Dirección de Auditoría Interna.
+k) (DEROGADO, P.O. 20 DE JULIO DE 2018)
 
 > <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
@@ -337,7 +361,17 @@ XXIX. Celebrar Acuerdos Interinstitucionales con Entidades Paraestatales, en mat
 
 XXX. Ejercer en su caso, en forma directa las atribuciones que este Reglamento y otras disposiciones normativas y administrativas otorgan a las Unidades Administrativas de la Secretaría, y
 
-XXXI. Las demás que le sean encomendadas por el Ejecutivo Estatal, y aquéllas que se establezcan en las leyes, reglamentos y demás disposiciones normativas.
+> <small>(ADICIONADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XXXI.- Designar a los integrantes del Comité y de la Unidad de Transparencia y proveer lo necesario para su operación y funcionamiento, conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+> <small>(ADICIONADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XXXII.- Ejercer las atribuciones y cumplir las obligaciones que establece la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, y demás disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XXXIII.- Las demás que le sean encomendadas por el Ejecutivo Estatal, y aquéllas que se establezcan en las leyes, reglamentos y demás disposiciones normativas.
 
 ###### ARTÍCULO 11.
 
@@ -352,6 +386,14 @@ II. Departamento de Servicios Administrativos.
 III. Departamento de Programación y control Presupuestal.
 
 B. Centro de Capacitación de Estudios Fiscales y Finanzas Públicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JULIO DE 2018)</small>
+
+C. Órgano Interno de Control
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JULIO DE 2018)</small>
+
+D. Dirección de Auditoría Interna
 
 ###### ARTÍCULO 12.
 
@@ -501,6 +543,54 @@ X. Las demás relativas a la competencia de su Unidad Administrativa y que sean 
 
 El Centro de Capacitación de Estudios Fiscales y Finanzas Públicas es el órgano administrativo desconcentrado de la Secretaría, que tiene a su cargo el ejercicio de las atribuciones conferidas en su decreto de creación.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+ARTÍCULO 17 BIS.- Corresponde a la Dirección de Auditoría Interna, por conducto de su titular, las siguientes atribuciones:
+
+I. Analizar que se establezcan de manera suficiente y permanente los mecanismos de control y verificación del uso, destino y aprovechamiento de los recursos financieros del Poder Ejecutivo;
+
+II. Examinar sobre la eficiencia y eficacia en la aplicación de sistemas, políticas y procedimientos para la recaudación de fondos;
+
+III. Autorizar y analizar los fondos y valores del Poder Ejecutivo, así como efectuar revisión a los ingresos derivados de intereses por operaciones bursátiles o bancarias de dichos fondos y valores, para verificar que éstos se hayan determinado en los términos contratados;
+
+IV. Evaluar las autorizaciones de pago a plazos, ya sea diferido o en parcialidades de las contribuciones y sus accesorios, efectuadas por las Recaudaciones de Rentas del Estado, vigilando que su recuperación se realice en el tiempo y la forma pactados, solicitando en su caso se inicien los medios legales para su recuperación inmediata, en aquellos que muestren rezagos por incumplimiento a los plazos estipulados;
+
+V. Examinar los rubros del balance del Poder Ejecutivo, cuidando que se hayan presentado en apego a la Ley General de Contabilidad Gubernamental, a la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, y las normas que de ellas emanen, formulando las recomendaciones que estime pertinentes para que en lo sucesivo cumplan con estos requisitos;
+
+VI. Verificar que las conciliaciones bancarias se realicen en forma oportuna, dentro del mes inmediato siguiente al que corresponda;
+
+VII. Verificar que las cuentas bancarias se aperturen o cancelen conforme a la normatividad vigente, así como que se lleve a cabo su cancelación en registros contables;
+
+VIII. Realizar revisiones para confirmar los rubros de la estructura financiera del Poder Ejecutivo, para que su recuperación o pago se efectúe cumpliendo con los compromisos de exigibilidad pactados;
+
+IX. Verificar que los rubros de activo fijo reflejen saldos conciliados con los importes registrados en el sistema establecido para este efecto por Oficialía Mayor de Gobierno, así como en los registros controlados a través de cuentas de orden;
+
+X. Informar a los Comités Institucionales de la Secretaría, de las presuntas irregularidades administrativas o penales en que incurran los servidores públicos de la Secretaría en el desempeño de sus funciones, y turnar a la Procuraduría Fiscal el expediente respectivo, para los efectos legales a que haya lugar.
+
+XI. Informar al Órgano Interno de Control, de las presuntas irregularidades administrativas o penales en que incurran los servidores públicos de la Secretaría en el desempeño de sus funciones, y turnar a la Procuraduría Fiscal el expediente respectivo, para los efectos legales a que haya lugar.
+
+XII. Verificar que oportunamente se liquiden las amortizaciones, intereses y demás pagos a que haya lugar, que se deriven de empréstitos o créditos contratados por el Poder Ejecutivo o Entidades Paraestatales;
+
+XIII. Establecer las bases para fijar precios, tarifas, tasas, cuotas y demás ingresos por concepto de servicios, enajenación o arrendamiento de bienes sujetos al dominio privado del Estado, y cuando correspondan a sus funciones de derecho político que no estén previstos en la Ley de Ingresos del Estado;
+
+XIV. Revisar que se lleve a cabo el registro y se informen los intereses financieros de las cuentas bancarias relativas a los recursos federales auditados por los diversos órganos de control;
+
+XV. Revisar y vigilar que el procedimiento de pago a beneficiarios del Plan Múltiple de Beneficios, se realice conforme a lo establecido en sus lineamientos;
+
+XVI. Revisar y validar pago de omisiones y laudos al Instituto de Seguridad y Servicios Sociales de los Trabajadores de Gobierno y Municipios del Estado de Baja California;
+
+XVII. Fungir como responsable de la Unidad de Transparencia, en términos de lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y el Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California;
+
+XVIII. Coordinar los Comités y Grupos de trabajo de la Secretaría de conformidad con las disposiciones en Materia de Control Interno, el Marco Integrado de Control Interno del Sector Público; Integridad y Prevención de la Corrupción en el Sector Público.
+
+XIX. Rendir los informes que le sean requeridos por el Secretario;
+
+XX. Revisar el cumplimiento de las disposiciones en materia de control vehicular, ingresos y demás disposiciones legales que intervienen en los servicios que brinda la Secretaría a cargo de las Recaudaciones de Rentas del Estado y Subrecaudaciones Auxiliares de Rentas del Estado, emitiendo mensualmente el pliego de observaciones del área auditada para su solventación correspondiente;
+
+XXI. Prevenir y detectar a través de revisiones financieras posibles actos de corrupción a cargo de servidores públicos adscritos a la Secretaría, emitiendo para ello el informe; y
+
+XXII. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Secretario.
+
 ### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES GENÉRICAS DE LOS SUBSECRETARIOS Y PROCURADOR FISCAL
 
 ###### ARTÍCULO 18.
@@ -545,7 +635,13 @@ XVI. Establecer mecanismos de integración e interrelación que propicien a nive
 
 XVII. Proponer al Secretario normas, políticas, lineamientos y criterios técnicos en materia de su competencia, así como los mecanismos de verificación y aplicación en dichas materias para las Dependencias y Entidades Paraestatales, a fin de asegurar su cumplimiento, y
 
-XVIII. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que les confieran otros ordenamientos, o les encomiende el Secretario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2018)</small>
+
+XVIII. Clasificar la información de su área y de las áreas que la integran de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 20 DE JULIO DE 2018)</small>
+
+XIX. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que les confieran otros ordenamientos, o les encomiende el Subsecretario respectivo o el Secretario.
 
 ### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES GENÉRICAS DE LOS DIRECTORES
 
@@ -977,7 +1073,7 @@ III. Dirección de Contabilidad Gubernamental.
 
 IV. Dirección de Auditoría Fiscal.
 
-V. Dirección de Auditoría Interna.
+V. (DEROGADA, P.O. 20 DE JULIO DE 2018)
 
 VI. Dirección de Verificación Aduanera.
 
@@ -1829,59 +1925,7 @@ XXI. Las demás relativas a la competencia de su Unidad Administrativa y que sea
 
 ###### ARTÍCULO 60.
 
-Compete a la Dirección de Auditoría Interna, por conducto de su titular, el ejercicio de las siguientes atribuciones:
-
-I. Vigilar que se establezcan de manera suficiente y permanente los mecanismos de control y verificación del uso, destino y aprovechamiento de los recursos financieros del Poder Ejecutivo;
-
-II. Dictaminar sobre la eficiencia y eficacia en la aplicación de sistemas, políticas y procedimientos para la recaudación de fondos;
-
-III. Revisar y comprobar que la actuación de los servidores públicos del Poder Ejecutivo que recauden, manejen, custodien o administren fondos y valores del fisco Estatal, se ajusten a las disposiciones normativas correspondientes, así como sugerir las medidas para eficientar su manejo;
-
-IV. Practicar revisiones y auditorías en las Unidades Administrativas de la Secretaría, y vigilar el cumplimiento de los sistemas de control interno en apego a las leyes, reglamentos y manuales administrativos respectivos, proponiendo en su caso, la implementación de medidas que permitan actualizarlos o sustituirlos;
-
-V. Vigilar que los actos o actividades desempeñadas por los servidores públicos de la Secretaría, se ejecuten en estricto apego al marco legal que regula su actuación;
-
-VI. Practicar arqueos de los fondos y valores del Poder Ejecutivo, así como efectuar revisión a los ingresos derivados de intereses por operaciones bursátiles o bancarias de dichos fondos y valores, para verificar que éstos se hayan determinado en los términos contratados;
-
-VII. Practicar en forma aleatoria auditorías a las partidas que representen sueldos, compensaciones, horas extras y en general todas las prestaciones que tenga el personal de la Secretaría;
-
-VIII. Auditar las autorizaciones de pago a plazos, ya sea diferido o en parcialidades de las contribuciones y sus accesorios, efectuadas por las Recaudaciones de Rentas del Estado, vigilando que su recuperación se realice en el tiempo y la forma pactados, solicitando en su caso se inicien los medios legales para su recuperación inmediata, en aquellos que muestren rezagos por incumplimiento a los plazos estipulados;
-
-IX. Efectuar auditoría permanente a los rubros del balance del Poder Ejecutivo, cuidando que se hayan presentado en apego a la Ley General de Contabilidad Gubernamental, a la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, y las normas que de ellas emanen, formulando las recomendaciones que estime pertinentes para que en lo sucesivo cumplan con estos requisitos;
-
-X. Vigilar que los informes de avance de gestión financiera y la Cuenta Pública Anual del Poder Ejecutivo, se presenten debidamente integradas y en forma oportuna;
-
-XI. Verificar que las conciliaciones bancarias se realicen en forma oportuna, dentro del mes inmediato siguiente al que corresponda;
-
-XII. Verificar que las cuentas bancarias se aperturen o cancelen conforme a la normatividad vigente, así como que se lleve a cabo su cancelación en registros contables;
-
-XIII. Realizar revisiones y auditorías para confirmar los rubros de la estructura financiera del Poder Ejecutivo, para que su recuperación o pago se efectúe cumpliendo con los compromisos de exigibilidad pactados;
-
-XIV. Verificar que los rubros de activo fijo reflejen saldos conciliados con los importes registrados en el sistema establecido para este efecto por Oficialía Mayor de Gobierno, así como en los registros controlados a través de cuentas de orden;
-
-XV. Vigilar que se lleve a cabo el control programático, presupuestal, financiero y administrativo de los programas de obra pública que se establezcan en Convenios con la Federación, de las obras directas del Poder Ejecutivo, así como las obras convenidas con las Entidades Paraestatales, con los Municipios y las obras derivadas por cooperación de la comunidad, incluyendo cualquier otra que por convenio o disposición de las leyes intervenga el Estado;
-
-XVI. Informar al Secretario y al Subsecretario de las presuntas irregularidades administrativas o penales en que incurran los servidores públicos de la Secretaría en el desempeño de sus funciones, y turnar a la Procuraduría Fiscal el expediente respectivo, para los efectos legales a que haya lugar;
-
-XVII. Revisar que las partidas presupuestales de la Secretaría, no se sobregiren y realizar las observaciones pertinentes;
-
-XVIII. Verificar que la planeación, programación, presupuestación y ejercicio del gasto público se efectúe respetando los lineamientos establecidos en la normatividad vigente;
-
-XIX. Vigilar que oportunamente se liquiden las amortizaciones, intereses y demás pagos a que haya lugar, que se deriven de empréstitos o créditos contratados por el Poder Ejecutivo o Entidades Paraestatales, y (sic)
-
-XX. Proponer al Secretario con el apoyo de las instancias que correspondan, las bases para fijar precios, tarifas, tasas, cuotas y demás ingresos por concepto de servicios, enajenación o arrendamiento de bienes sujetos al dominio privado del Estado, y cuando correspondan a sus funciones de derecho político que no estén previstos en la Ley de Ingresos del Estado.
-
-XXI. Recibir y dar seguimiento a las quejas contra los servidores públicos adscritos a la Secretaría, emitiendo para ello la resolución respectiva.
-
-XXII. Llevar a cabo investigaciones o auditorías respecto a las conductas de los servidores públicos que puedan constituir responsabilidades administrativas y hacerlo del conocimiento del Secretario para que en su caso se inicie el procedimiento administrativo de responsabilidad.
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
-
-XXIII. Apoyar al Secretario para la aplicación y seguimiento de las sanciones que por responsabilidades corresponda a los servidores públicos de la Secretaría, y
-
-> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
-
-XXIV. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Subsecretario respectivo o el Secretario.
+(DEROGADO, P.O. 20 DE JULIO DE 2018)
 
 ###### ARTÍCULO 61.
 
@@ -2475,6 +2519,52 @@ Las ausencias de los Directores, serán suplidas por los Subdirectores o por uno
 
 Los Recaudadores de Rentas del Estado, en cada Municipio, serán suplidos en sus ausencias por los Subrecaudadores Centrales o por los servidores públicos que designe el Subsecretario de Finanzas.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 85.
+
+El Órgano Interno de Control de la Secretaría para el cumplimiento de lo previsto en el artículo 92 Apartados A, fracción IV y B, de la Constitución Política del Estado Libre y Soberano de Baja California, tendrá, además de las atribuciones establecidas en el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental, las siguientes:
+
+I. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por la Secretaría y las demás que rigen la administración pública estatal;
+
+II. Revisar que se acaten las disposiciones reglamentarias aplicables a la administración y a la operatividad de la Secretaría;
+
+III. Revisar que las operaciones presupuestales que realice la Secretaría se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+IV. Requerir a las unidades administrativas de la Secretaría que correspondan, el acceso a los procedimientos y sistemas de contabilidad y de archivo, así como a cualesquier documento justificativo y comprobatorio del ingreso y del gasto, que permitan la práctica idónea de las auditorías, verificaciones y revisiones, y formular las recomendaciones y sugerencias que resulten de las mismas, revisando que estas sean solventadas;
+
+V. Informar al titular de la Secretaría sobre los resultados de las revisiones, auditorías y verificaciones practicadas, y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+VI. Asistir a reuniones del Comité de Adquisiciones de la Secretaría y vigilar que ésta última realice las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control en los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y de obra pública, equipamiento, suministros y servicios con apego a las leyes en la materia;
+
+VII. Requerir a terceros que hubieran contratado bienes o servicios con la Secretaría, la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas, así como los informes de avance de gestión financiera, respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IX. Intercambiar con contralores internos de otras dependencias y entidades de la administración pública estatal, así como con auditores externos, los procedimientos de planeación y ejecución de auditorías, con el objeto de proponer a la Dirección de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental las políticas para simplificar y homogeneizar sus funciones;
+
+X. Intervenir en el acto de entrega y recepción de los asuntos y recursos públicos que realicen los servidores públicos a cargo de las diferentes unidades administrativas de la Secretaría cuando así corresponda, en los términos de la ley de la materia, así como vigilar el cumplimiento de las disposiciones y procedimientos a que la misma se refiere;
+
+XI. Requerir a los servidores públicos del (sic) Secretaría información y documentación relacionada con la investigación de quejas o denuncias que reciba por la probable comisión de faltas administrativas; así como para la substanciación o resolución de los procedimientos de responsabilidad que inicie, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Baja California;
+
+XII. Atender los requerimientos que le formule el Secretario de la Contraloría y Transparencia Gubernamental, a través del Director de Auditoría Gubernamental de la misma dependencia, derivados de las funciones encomendadas;
+
+XIII. Coadyuvar en el programa de actualización del marco de actuación de la Secretaría, en coordinación con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de facilitar y garantizar un actuar en apego a las disposiciones que la rigen, y
+
+XIV. Las demás relativas a su competencia que sean indispensables para el desempeño de su función, y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental y el Director de Auditoría Gubernamental, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 86.
+
+Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por el servidor público que designe aquel, previo acuerdo del Director de Auditoría Gubernamental de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 87.
+
+El Órgano Interno de Control contará con el personal y los recursos necesarios, que garanticen el ejercicio independiente de sus funciones de investigación y substanciación, conforme a la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor a los 15 días siguientes de su publicación en el Periódico Oficial del Estado.
@@ -2494,3 +2584,21 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO".]</small>
+
+P.O. 20 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, 4, 10, 11 Y 19; SE ADICIONAN LOS ARTÍCULOS 3 BIS, 17 BIS, 85, 86 Y 87; Y SE DEROGA EL INCISO E) DEL ARTÍCULO 4, LA FRACCIÓN V DEL ARTÍCULO 36, ASÍ COMO EL ARTÍCULO 60 TODOS DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría a partir de la entrada en vigor del presente decreto deberá realizar las gestiones necesarias en conjunto con la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de dar solvencia presupuestal y formalizar la operación integral del Órgano Interno de Control, a más tardar el primero de enero del ejercicio fiscal 2019, en los términos aquí prescritos y de conformidad con el Reglamento Interno de la Secretaría de la Contraloría y Transparencia Gubernamental y de la Ley de Responsabilidades Administrativas del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+La unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental conocerá de los asuntos competencia del Órgano Interno de Control, hasta en tanto se dé cumplimiento al artículo transitorio anterior.
