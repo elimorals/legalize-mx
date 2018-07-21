@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-patronato-de-las-fiestas-de-octubre-833
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-22"
-last_updated: "2011-10-22"
+last_updated: "2018-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL PATRONATO DE LAS FIESTAS DE OCTUBRE, DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO: PATRONATO FIESTAS DE OCTUBRE DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO: PATRONATO FIESTAS DE OCTUBRE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 22 de octubre de 2011.
 
@@ -72,7 +72,9 @@ La Junta de Gobierno, tal como lo establece al artículo 6° del decreto de crea
 
 - Un Presidente que será el Gobernador del Estado, o la persona que éste designe.
 
-- Un Secretario Técnico que será designado por el Presidente Municipal de Guadalajara.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+
+- Un Secretario que será designado por el Presidente Municipal de Guadalajara.
 
 - Un Tesorero que será nombrado por la Junta de Gobierno en la primera sesión ordinaria del año.
 
@@ -204,7 +206,9 @@ II. Las asambleas serán conducidas por éste, quien podrá suspenderlas cuando 
 
 III. Proponer ante la Junta de Gobierno el programa y calendario del Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara.
 
-IV. Sugerir las tarifas de aplicación para la cesión de espacios a expositores y a quienes presenten espectáculos, sean personas físicas o morales dentro del núcleo del Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara y vigilar su correcta recaudación.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+IV. Sugerir las tarifas de aplicación para la concesión de espacios a expositores y a quienes presenten espectáculos, sean personas físicas o morales dentro del núcleo del Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara y vigilar su correcta recaudación.
 
 V. Someter a la consideración de la Junta de Gobierno el monto de las cuotas que deberá cubrir el público en general, para tener acceso a las instalaciones del Patronato de las Fiestas de Octubre de la Zona Metropolitana de Guadalajara, así como a los demás espectáculos que correspondan a éstas.
 
@@ -486,6 +490,8 @@ En general el Patronato tomara sus decisiones por mayoría simple de votos y en 
 
 ### CAPITULO NOVENO. NOMBRAMIENTO DEL DIRECTOR GENERAL Y TESORERO DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+
 ###### Artículo 46°.
 
 Para ocupar el cargo de Director General se requerirá cumplir los siguientes requisitos:
@@ -496,7 +502,7 @@ II. No haber sido condenado por delito doloso;
 
 III. No tener parentesco por consanguinidad ni por afinidad con alguno de los integrantes de la Junta de Gobierno; y
 
-IV. Tener título profesional en áreas económicas-administrativas o de abogado o licenciado en derecho.
+IV. Tener título profesional en áreas económicas-administrativas o de abogado o licenciado en derecho, o bien; tener probada experiencia para desempeñar el cargo.
 
 ###### Artículo 47°.
 
@@ -512,15 +518,17 @@ IV. Tener experiencia en el área financiera-administrativa; y
 
 V. No tener parentesco por consanguinidad ni por afinidad con alguno de los miembros de la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+
 ###### Artículo 48°.
 
 Los nombramientos de Director General y de Tesorero de la Junta de Gobierno se realizarán de conformidad a lo siguiente:
 
-I. Una vez instalada la Junta de Gobierno, el Presidente de la Junta de Gobierno deberá poner a consideración de éste la propuesta de personas a ocupar los cargos de Director General y Tesorero de la Junta de Gobierno, dentro de los tres días naturales siguientes.
+I. Una vez instalada la Junta de Gobierno, el Presidente de la Junta de Gobierno deberá poner a consideración de ésta la propuesta de personas a ocupar los cargos de Director General y Tesorero de la Junta de Gobierno.
 
-II. La propuesta deberá acompañarse con toda la información necesaria que acredite la capacidad profesional de dichas personas, así como que cumplan con los requisitos para ocupar los citados cargos.
+II. La propuesta deberá acompañarse con toda la información necesaria que acredite la probada experiencia de dichas personas, así como que cumplan con los requisitos para ocupar los citados cargos.
 
-III. Si la Junta de Gobierno rechazara las propuestas presentadas, el Presidente deberá presentar una terna de candidatos para cada puesto, de los cuales se hará la designación por la Junta de Gobierno dentro de los tres días naturales siguientes.
+III. Si la Junta de Gobierno rechazara las propuestas presentadas, el Presidente deberá presentar una terna de candidatos para cada puesto, de los cuales se hará la designación por la Junta de Gobierno dentro de los tres días naturales siguientes a la presentación de dicha terna.
 
 IV. Si transcurrido el plazo que señala la fracción anterior sin que la Junta de Gobierno elija a alguno de los candidatos, el Presidente podrá expedir inmediatamente el nombramiento a favor de cualesquiera de los candidatos.
 
@@ -1241,3 +1249,11 @@ El Director General del Organismo Público Descentralizado Patronato Fiestas de 
 Genaro Amador Hernández
 
 Reglamento Interior del Patronato de las Fiestas de Octubre
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA LOS ARTÍCULOS 5°, 8°, 46 Y 48 DEL REGLAMENTO INTERIOR DEL PATRONATO DE LAS FIESTAS DE OCTUBRE DE LA ZONA METROPOLITANA DE GUADALAJARA”.]
+
+> <small>[N. DE E. LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.]</small>
