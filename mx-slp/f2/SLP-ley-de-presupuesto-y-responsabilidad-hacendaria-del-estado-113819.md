@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2018-03-29"
+last_updated: "2018-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -464,7 +464,9 @@ En el proyecto de Presupuesto de Egresos se deberán presentar en una sección e
 
 I. Las remuneraciones de los servidores públicos y las erogaciones a cargo de los ejecutores del gasto, por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y
 
-II. Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+II. Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas, deudas por laudos laborales y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
 
 Una vez aprobada la asignación global de servicios personales en el Presupuesto de Egresos, ésta no podrá incrementarse.
 
@@ -1222,8 +1224,16 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 917.- SE REFORMA EL ARTÍCULO 2° EN SU PÁRRAFO SEGUNDO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 917.- SE REFORMA EL ARTÍCULO 2° EN SU PÁRRAFO SEGUNDO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1018.- SE REFORMA EL ARTÍCULO 31 EN SU FRACCIÓN II, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
