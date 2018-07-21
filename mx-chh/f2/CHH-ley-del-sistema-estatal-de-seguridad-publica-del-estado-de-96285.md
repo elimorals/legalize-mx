@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2017-12-30"
+last_updated: "2018-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -139,9 +139,9 @@ XXIV. Ley General: La Ley General del Sistema Nacional de Seguridad Pública.
 
 XXV. Órgano de Asuntos Internos: La Fiscalía Especializada en Control, Análisis y Evaluación de la Fiscalía General del Estado o el órgano interno de control, o instancia equivalente, de los municipios.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-XXVI. Policía: Las Divisiones de Fuerzas Estatales, de Operaciones Especiales, de Inteligencia, de Policía Vial, de Operaciones Rurales y de Seguridad Bancaria y Comercial de la Comisión Estatal de Seguridad, la Policía de Investigación y la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, así como la Policía Preventiva municipal, conforme a los artículos 21 y 115, fracción III, inciso h), de la Constitución Política de los Estados Unidos Mexicanos.
+XXVI. Policía: Las Divisiones de Fuerzas Estatales, de Operaciones Especiales, de Inteligencia, de Policía Vial, de Operaciones Rurales y de Seguridad Bancaria, Comercial e Industrial de la Comisión Estatal de Seguridad, la Policía de Investigación y la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, así como la Policía Preventiva municipal, conforme a los artículos 21 y 115, fracción III, inciso h), de la Constitución Política de los Estados Unidos Mexicanos.
 
 XXVII. Procedimiento: El instaurado a los Integrantes de las Instituciones de Seguridad Pública ante las Comisiones del Servicio Profesional de Carrera, Honor y Justicia, por incumplimiento a los requisitos de permanencia o infracción al régimen disciplinario, respectivamente.
 
@@ -777,9 +777,9 @@ III. Acreditar los siguientes estudios:
 
 a) Para agentes del Ministerio Público, contar con título de licenciatura en derecho y cédula profesional.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
 
-b) Para peritos, deberán contar con licenciatura. Para ejercer la ciencia o especialidad en alguna profesión regulada por la Ley de Profesiones para el Estado de Chihuahua, deberán contar con el título respectivo.
+b) Para peritos, deberán contar con licenciatura. Para ejercer la ciencia o especialidad en alguna profesión regulada por la Ley de Profesiones para el Estado de Chihuahua, deberán contar con el título respectivo, a excepción de los peritos técnicos, quienes deberán acreditar los estudios correspondientes a la enseñanza media superior o equivalente, así como los conocimientos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1731,9 +1731,9 @@ I. Perito Coordinador por Zona.
 
 II. Perito Coordinador de Investigación Especializada.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-III. Perito Supervisor.
+III. Perito Profesional Supervisor.
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1743,17 +1743,29 @@ IV. Perito Profesional A.
 
 V. Perito Profesional B.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-VI. Perito Técnico.
+VI. Perito Técnico Supervisor.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2018)</small>
+
+VII Perito Técnico A.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2018)</small>
+
+VIII. Perito Técnico B.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+
+Las anteriores categorías se entenderán expresadas en orden ascendente, conforme a su área de dictaminación, siendo la categoría básica, la correspondiente a la fracción V para los peritos profesionales, y a la VIII para los peritos técnicos; forman parte del Servicio Profesional de Carrera, las categorías previstas en las fracciones IV, V, VII y VIII.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
-Las anteriores categorías se entenderán expresadas en orden ascendente, siendo la más baja la correspondiente a la fracción VI; forman parte del Servicio Profesional de Carrera, las categorías previstas en las fracciones IV, V y VI.
+Las categorías de peritos señaladas en las fracciones I, II y III, serán de libre designación bajo comisión por parte del Fiscal General y los nombramientos, podrá recaer en el personal que ostente las categorías de Perito Profesional "A" o "B" descritas en las fracciones IV y V de este artículo, por lo que al término de la gestión, volverán a su categoría correspondiente.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
 
-Las categorías de peritos señaladas en las fracciones I, II y III, serán de libre designación bajo comisión por parte del Fiscal General y los nombramientos, podrá recaer en el personal que ostente las categorías de Perito Profesional “A” o “B” descritas en las fracciones IV y V de este artículo, por lo que al término de la gestión, volverán a su categoría correspondiente.
+Así mismo, la categoría de perito señalada en la fracción VI, será de libre designación bajo comisión por parte del Fiscal General y el nombramiento podrá recaer en el personal que ostente la categoría de Perito Técnico “A” descrita en la fracción VII de este artículo, por lo que al término de la gestión, volverá a su categoría correspondiente.
 
 ###### Artículo 147.
 
@@ -1787,39 +1799,29 @@ III. Oficiales.
 
 IV. Escala Básica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
 
 ###### Artículo 151.
 
-La Comisión Estatal de Seguridad Pública se organizará e integrará con las Divisiones siguientes:
+La Comisión Estatal de Seguridad Pública se organizará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+A. Para ejercer la función de seguridad pública, se auxiliará de las siguientes unidades:
 
 I. División de Fuerzas Estatales.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
 II. División de Operaciones Especiales.
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 III. División de Inteligencia.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
-
 IV. División de Policía Vial.
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 V. División de Operaciones Rurales.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
-
-VI. División de Seguridad Bancaria y Comercial.
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+VI. División de Seguridad Bancaria, Comercial e Industrial.
 
 VII. Las demás que determinen las leyes y reglamentos.
+
+B. Para ejercer, de forma excepcional, funciones de derecho privado, a través de la División de Seguridad Bancaria, Comercial e Industrial, como órgano encargado de proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de protección, custodia y vigilancia de personas; seguridad en el interior y exterior de inmuebles; así como custodia de bienes y valores fijos y en tránsito; a dependencias, entidades y órganos de los Poderes Ejecutivo, Legislativo y Judicial, locales y federales, órganos autónomos federales y locales, así como a personas físicas y morales que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -2051,9 +2053,9 @@ V. De Policía Vial, orientada a la prevención y control del tráfico y la segu
 
 VI. De Fuerza Rural, dotada de medios modernos que le permitan actuar con la celeridad y eficacia necesaria en manifestaciones violentas o conductas que pudieran ser consideradas como delictivas en las diferentes partes de la sierra y otras áreas del interior de la geografía estatal.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-VII. De Seguridad Bancaria y Comercial, con el objeto de prevenir hechos delictivos, entre otros, como el robo a instituciones bancarias o comerciales.
+VII. De Seguridad Bancaria, Comercial e Industrial, con el objeto de prevenir hechos delictivos que afecten a los referidos sectores.
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -3752,3 +3754,33 @@ Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Co
 ###### ARTÍCULO SÉPTIMO.
 
 La Fiscalía General del Estado deberá realizar las acciones necesarias en cuanto a su organización interna a fin de encontrarse en aptitud de ejercer las atribuciones que se le confieren por medio del presente Decreto.
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXV/RFLEY/0790/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán gestionar ante la Secretaría de Hacienda y las dependencias competentes, las acciones para la creación, apertura de plazas, elaboración de perfil de puestos y justificación correspondiente a efecto de que las categorías de Perito que se adicionan mediante el presente Decreto sean contempladas presupuestalmente, así como para que la Dirección de Innovación y Desarrollo Tecnológico de nueva creación, que para efectos operativos y de funcionalidad se desvincula de la actual Dirección General de Administración, reciba de ésta última los recursos humanos, materiales y financieros que requiera para su funcionamiento.
+
+Respecto de los trámites en materia de innovación y desarrollo tecnológico, soporte y demás relativas al área informática, que se hayan iniciado ante la Dirección General de Administración y Sistemas antes de la entrada en vigor del presente Decreto, serán concluidos ante la Dirección General de Administración, no obstante, si antes de la conclusión de dichos asuntos, la Dirección de Innovación y Desarrollo Tecnológico adquiere su reconocimiento presupuestal y operativo y se encuentra dotada de los recursos a que se refiere el párrafo que antecede; podrá conocer, desahogar y terminar, en su caso, los asuntos de su competencia.
+
+###### ARTÍCULO TERCERO.
+
+La Fiscalía General del Estado será la instancia encargada de establecer los mecanismos para que se realicen los trámites de recategorización, nivelación o acceso a las plazas de nueva creación pericial, en observancia de las disposiciones en materia del Servicio Profesional de Carrera y de acuerdo a la disponibilidad presupuestal.
+
+###### ARTÍCULO CUARTO.
+
+Se faculta a la persona titular de la Fiscalía General del Estado para que emita y publique en el Periódico Oficial del Estado, las tarifas que se cobrarán por los conceptos, productos y servicios que preste la División de Seguridad Bancaria, Comercial e Industrial, dependiente de la Comisión Estatal de Seguridad de la Fiscalía General del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Con fundamento en lo preceptuado en el artículo 26 de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, así como en los numerales 6; 11, fracciones V, VII y VIII, y demás relativos establecidos en el Código Fiscal del Estado de Chihuahua, corresponde a la Secretaría de Hacienda disponer lo conducente para que se efectúe la recaudación respectiva.
+
+###### ARTÍCULO SEXTO.
+
+Los Prestadores de Servicios con autorización de la Secretaría de Seguridad Pública Federal que no hayan realizado su registro ante la Fiscalía General del Estado, se les otorgará un plazo no mayor a 30 días contados a partir de la entrada en vigor del presente Decreto. En caso de incumplimiento se iniciará el procedimiento para la aplicación de sanciones previsto en la Ley de Seguridad Privada para el Estado de Chihuahua.
