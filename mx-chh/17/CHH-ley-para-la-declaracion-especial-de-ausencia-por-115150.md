@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-declaracion-especial-de-ausencia-por-115150"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-15"
-last_updated: "2016-06-15"
+last_updated: "2018-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA POR DESAPARICIÓN EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL EL 21 DE JULIO DE 2018.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 15 de junio de 2016.
 
@@ -73,7 +73,9 @@ Procedimiento.
 
 Cuando el Ministerio Público reciba una denuncia por desaparición, deberá abocarse de manera inmediata a la búsqueda de la persona desaparecida y a la investigación de los hechos.
 
-Transcurrido el término de treinta días, el Ministerio Público evaluará si los hechos denunciados constituyen un acto de desaparición. De ser así, el Ministerio Público presentará la solicitud de Declaración Especial de Ausencia por Desaparición ante el Juez en un plazo no mayor de diez días, solicitando en su caso las medidas urgentes, provisionales o de protección que resulten necesarias para proteger los derechos de las víctimas.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+
+Transcurrido el término de tres meses de que se haya hecho la Denuncia o Reporte de desaparición, el Ministerio Público evaluará si los hechos denunciados constituyen un acto de desaparición. De ser así, el Ministerio Público podrá presentar la solicitud de Declaración Especial de Ausencia por Desaparición ante el Juez, solicitando en su caso las medidas urgentes, provisionales o de protección que resulten necesarias para proteger los derechos de las víctimas.
 
 El agente del Ministerio Público encargado de la carpeta de investigación dirigirá las indagatorias con el objeto de dar con el paradero de la persona desaparecida e investigar el delito para ejercitar, en su caso, la acción penal correspondiente. En caso de que, como resultado de la búsqueda e investigación, se descubriera un fraude a la ley, la Declaración Especial de Ausencia por Desaparición quedará sin efecto.
 
@@ -81,7 +83,9 @@ El agente del Ministerio Público encargado de la carpeta de investigación diri
 
 Otros solicitantes.
 
-Si al concluir el plazo de diez días el Ministerio Público no hubiere presentado dicha solicitud, podrá hacerlo cualquiera de las personas relacionadas con aquella cuyo paradero se desconoce, de conformidad con el siguiente orden de prelación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2018)</small>
+
+Si el Ministerio Público no hubiere presentado la solicitud de Declaración de Ausencia en el plazo referido en el artículo anterior, podrá hacerlo cualquiera de las personas relacionadas con aquella cuyo paradero se desconoce, de conformidad con el siguiente orden de prelación:
 
 I. El o la cónyuge, concubina o concubinario;
 
@@ -280,3 +284,25 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecisiete días del mes de mayo del año dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO].
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO LXV/RFLYC/0798/2018 XII P.E., POR MEDIO DEL CUAL SE ARMONIZA LA LEGISLACIÓN LOCAL CON LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, todos los asuntos en trámite, incluidas las carpetas de investigación, que se estén realizando ante la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, se proseguirán por la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros asignados a la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, pasarán a formar parte de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; sin perjuicio de los ajustes administrativos que de conformidad a la legislación aplicable, realice la Fiscalía General del Estado.
