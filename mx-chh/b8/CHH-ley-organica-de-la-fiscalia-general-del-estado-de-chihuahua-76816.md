@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2018-06-23"
+last_updated: "2018-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 23 DE JUNIO DE 2018 NO APLICA AL ARTICULADO DEL DECRETO N° LXV/RFLEY/0793/2018 XII P.E., PUBLICADO EN EL P.O. DE 13 DE JUNIO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -49,11 +47,11 @@ Se expide la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, para
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
 
 ###### Artículo 1.
 
-La Fiscalía General del Estado es la dependencia del Poder Ejecutivo del Estado encargada de las áreas de: Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; de Ejecución de Penas y Medidas Judiciales; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas, y Combate a la Corrupción. La Fiscalía se organizará en un sistema de regionalización y especialización.
+La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo del Estado encargada de las áreas: Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; de Ejecución de Penas y Medidas Judiciales; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas; Combate a la Corrupción, y Desaparición Forzada de Personas.
 
 ###### Artículo 2.
 
@@ -97,7 +95,7 @@ B. En materia de Investigación y Persecución del Delito, las que de acuerdo co
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
-La Institución del Ministerio Público local, presidida por el Fiscal General del Estado, y este personalmente, tienen las siguientes atribuciones:
+La Institución del Ministerio Público local, presidida por el Fiscal General del Estado, y éste personalmente, tienen las siguientes atribuciones:
 
 I. Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
 
@@ -235,6 +233,10 @@ VIII. Establecer mecanismos de cooperación y colaboración con autoridades fede
 
 IX. Crear y difundir programas, proyectos y estudios permanentes de información y fomento a la cultura de la denuncia y de la legalidad en relación a esta materia.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
+
+H. En materia de Desaparición Forzada de Personas: Las previstas para las Entidades Federativas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás aplicables.
+
 ### CAPÍTULO II. De la Organización
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
@@ -263,9 +265,9 @@ IV. La Fiscalía Especializada en Operaciones Estratégicas;
 
 V. La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-VI. La Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos;
+VI. La Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada.
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -279,11 +281,9 @@ VIII. Los Agentes del Ministerio Público, y
 
 IX. La Agencia Estatal de Investigación.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
 
-El Fiscal General del Estado y los Fiscales Especializados en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación; en Ejecución de Penas y Medidas Judiciales, en Investigación de Violaciones a Derechos Humanos; en Operaciones Estratégicas; en Combate a la Corrupción y los Fiscales de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+El Fiscal General del Estado y los Fiscales Especializados en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación; en Ejecución de Penas y Medidas Judiciales; en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; en Operaciones Estratégicas; y en Combate a la Corrupción, así como los Fiscales de Distrito por Zonas, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -301,17 +301,33 @@ IV. La Dirección del Centro Estatal de Prevención Social de la Violencia y la 
 
 V. Las demás unidades orgánicas y administrativas que establezcan las leyes y reglamentos.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2018)</small>
 
 ###### Artículo 4 Bis.
 
-La Fiscalía General del Estado contará con las siguientes unidades de apoyo, asesoría y consulta:
+La Fiscalía General del Estado contará con las siguientes unidades:
 
-I. La Dirección General de Administración y Sistemas;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-II. La Dirección General Jurídica, y
+I. La Dirección General de Administración.
 
-III. Las demás que establezcan las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+II. La Dirección General Jurídica.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+III. La Dirección de Innovación y Desarrollo Tecnológico.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2018)</small>
+
+IV. La Unidad de Análisis Financiero.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+V. Las demás que establezcan las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 Las anteriores unidades ejercerán sus atribuciones y desarrollarán sus actividades de conformidad con las disposiciones aplicables.
 
@@ -537,11 +553,13 @@ II. Dirección de los Centros de Reinserción Social.
 
 III. Dirección de Reinserción Social.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2018)</small>
 
 ###### Artículo 11.
 
-La Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos tendrá a su cargo:
+La Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada tendrá a su cargo:
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 I. El ejercicio de las atribuciones descritas en los apartados B y E del artículo 2 de esta Ley, en los hechos que determine el Fiscal General del Estado, o el servidor público en quien se delegue la facultad, atendiendo a los criterios de priorización determinados en el Reglamento Interior de la Fiscalía General, o mediante acuerdo que al efecto emita el Fiscal General y siempre que se trate de investigaciones respecto a alguna de las siguientes conductas delictivas:
 
@@ -557,27 +575,93 @@ e. Delitos relacionados con la desaparición de personas;
 
 f. Cualquier otro delito que por las circunstancias del caso, la situación o condición de las víctimas o del contexto en que haya ocurrido, determine el Fiscal General del Estado, o el servidor público a quien delegue dicha facultad, bajo los parámetros antes establecidos.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 Las víctimas de los delitos competencia de esta Fiscalía Especializada, las autoridades de la federación, o las organizaciones civiles, podrán solicitar a su titular, que en los supuestos y con los requisitos establecidos en esta fracción, asuma la competencia quien resolverá mediante acuerdo fundado y motivado, siempre que exista conformidad expresa de la víctima u ofendido.
 
-II. La búsqueda de personas desaparecidas forzada e involuntariamente y la coordinación con aquellas fiscalías que realicen búsqueda de mujeres y niñas desaparecidas.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+II. La búsqueda de personas, y la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, en la forma de coordinación y ámbito competencial establecido en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2018)</small>
 
 ###### Artículo 11 Bis.
 
-La Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos estará a cargo de un Fiscal Especializado, quien se auxiliará de las siguientes unidades de:
+La Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, estará a cargo de un Fiscal Especializado, quien se auxiliará de la:
 
-I. Análisis y Contexto;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-II. Búsqueda y Control de Registro de personas desaparecidas en el Estado;
+I. Unidad de Análisis y Contexto.
 
-III. Investigación de delitos relacionados con personas desaparecidas;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-IV. Investigación de delitos contra personas defensoras de derechos humanos y periodistas y demás señalados en el artículo 11 de esta ley;
+II. Comisión Local de Búsqueda.
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+III. Unidad Especializada en Investigación y Persecución de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares.
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+IV. Unidad Especializada en Investigación de Violaciones a los Derechos Humanos y Tortura.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 V. Las demás que determinen las disposiciones aplicables y que autorice el presupuesto.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+
 Las facultades o atribuciones de cada una de las unidades se determinarán en el Reglamento Interior de la Fiscalía General del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
+
+###### Artículo 11 Bis 1.
+
+La Unidad Especializada en Investigación y Persecución de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares es la Unidad Administrativa de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, encargada de la investigación y persecución de los delitos en materia de desaparición forzada de personas en el ámbito de su competencia.
+
+Dicha unidad tendrá las atribuciones señaladas por el artículo 70 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás disposiciones legales y reglamentarias aplicables de la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
+
+###### Artículo 11 Bis 2.
+
+Los servidores públicos que integren la unidad especializada referida en el artículo anterior, deberán cumplir, como mínimo, los requisitos enunciados en el artículo 69 de Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás requisitos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
+
+###### Artículo 11 Bis 3.
+
+La Comisión Local de Búsqueda es la Unidad Administrativa, de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas y No Localizadas, en todo el territorio del Estado. Tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
+
+La Comisión Local de Búsqueda, en el ámbito de su competencia, tendrá las atribuciones señaladas por el artículo 53 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás disposiciones legales y reglamentarias aplicables de la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
+
+###### Artículo 11 Bis 4.
+
+La Comisión Local de Búsqueda estará a cargo de una persona titular nombrada y removida por quien ocupe la titularidad del Poder Ejecutivo del Estado, a propuesta de la o el Fiscal General del Estado.
+
+Para el nombramiento, serán aplicables las reglas que disponen los artículos 51, 52 y demás aplicables de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
+
+###### Artículo 11 Bis 5.
+
+Las y los servidores públicos integrantes de la Comisión Local de Búsqueda deben estar certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca el Sistema Nacional.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
+
+###### Artículo 11 Bis 6.
+
+La Comisión Local de Búsqueda, para realizar sus actividades, debe contar como mínimo con:
+
+I. Grupo especializado de búsqueda, cuyas funciones serán análogas a las contenidas en el artículo 66 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+II. Área de Análisis de Contexto, la cual desempeñará, además de las funciones que otras disposiciones jurídicas le asignen, las atribuciones a que se refieren las fracciones XLV, XLVI, XLVII y XLVIII del artículo 53 de la Ley anteriormente citada.
+
+III. Área de Gestión y Procesamiento de Información, la cual desempeñará, además de las funciones que otras disposiciones jurídicas le asignen, las atribuciones a que se refiere la fracción XLIX del artículo 53 de la Legislación antes referida.
+
+IV. La estructura administrativa necesaria para el cumplimiento de sus funciones.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2018)</small>
 
@@ -689,27 +773,33 @@ El mando previsto en la fracción I tendrá la jerarquía de Comisario Jefe, los
 
 Las Jerarquías de las fracciones I, II y III, V y VI serán de libre designación por parte del Fiscal General del Estado y su asignación solo podrá recaer en elementos de seguridad pública que tengan el nombramiento de Oficial conforme al párrafo anterior, por lo que al término de su gestión o encargo, volverán al grado de Oficial. Las jerarquías de Oficial y Suboficial forman parte del Servicio Profesional de Carrera. Para la designación de la jerarquía descrita en la fracción IV se atenderán las disposiciones señaladas en el artículo 157 de la Ley del Sistema Estatal de Seguridad Púbica (sic).
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
 
 ###### Artículo 15.
 
-La Comisión Estatal de Seguridad es el órgano administrativo desconcentrado de la Fiscalía General del Estado que estará a cargo de un Comisionado Estatal, propuesto por el Fiscal General y nombrado por el Gobernador del Estado, dotado de autonomía técnica, encargada de ejercer la función de la seguridad pública, para cuyos efectos contará con las siguientes unidades:
+La Comisión Estatal de Seguridad es el órgano administrativo desconcentrado de la Fiscalía General del Estado que estará a cargo de un Comisionado Estatal, propuesto por el Fiscal General y nombrado por el Gobernador del Estado, dotado de autonomía técnica y de gestión, encargada de:
 
-I. División de Fuerzas Estatales;
+A. Ejercer la función de seguridad pública, auxiliándose para tales efectos de las siguientes unidades:
 
-II. División de Operaciones Especiales;
+I. División de Fuerzas Estatales.
 
-III. División de Inteligencia;
+II. División de Operaciones Especiales.
 
-IV. División de Policía Vial;
+III. División de Inteligencia.
 
-V. División de Operaciones Rurales;
+IV. División de Policía Vial.
 
-VI. División de Seguridad Bancaria y Comercial, y
+V. División de Operaciones Rurales.
 
-VII. Las demás unidades que determinen las leyes y reglamentos.
+VI. División de Seguridad Bancaria, Comercial e Industrial.
 
-La Comisión Estatal de Seguridad contará con un Director General Operativo que asumirá la jerarquía de Comisario General y en cada División de las señaladas en este artículo habrá un Director que tendrá la jerarquía de Comisario Jefe, todos los Directores serán designados por el Fiscal General y nombrados por el Gobernador del Estado.
+VII. Las demás que determinen las leyes y reglamentos.
+
+B. Ejercer, de forma excepcional, funciones de derecho privado, a través de la División de Seguridad Bancaria, Comercial e Industrial, como órgano encargado de proporcionar, en el ámbito de su competencia, la prestación de servicios de estudios y análisis de evaluación de riesgos; de protección, custodia y vigilancia de personas; seguridad en el interior y exterior de inmuebles; custodia de bienes y valores fijos y en tránsito; a dependencias, entidades y órganos de los Poderes Ejecutivo, Legislativo y Judicial, locales y federales, órganos autónomos federales y locales, así como a personas físicas y morales que produzcan bienes y servicios que contribuyan a la generación de empleos y recursos económicos para el Estado.
+
+La organización, funcionamiento, atribuciones y demás acciones inherentes a esta División se establecerán en el reglamento respectivo.
+
+La Comisión Estatal de Seguridad contará con un Director General Operativo que asumirá la jerarquía de Comisario General, y en cada División de las señaladas en este artículo habrá un Director que tendrá la jerarquía de Comisario Jefe; todos los Directores serán designados por el Fiscal General y nombrados por el Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1540,3 +1630,53 @@ P.O. 13 DE JUNIO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Especialistas encargado de la selección de la terna de aspirantes a ocupar la titularidad de la Fiscalía Especializada en Combate a la Corrupción, dentro de los veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFLEY/0790/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán gestionar ante la Secretaría de Hacienda y las dependencias competentes, las acciones para la creación, apertura de plazas, elaboración de perfil de puestos y justificación correspondiente a efecto de que las categorías de Perito que se adicionan mediante el presente Decreto sean contempladas presupuestalmente, así como para que la Dirección de Innovación y Desarrollo Tecnológico de nueva creación, que para efectos operativos y de funcionalidad se desvincula de la actual Dirección General de Administración, reciba de ésta última los recursos humanos, materiales y financieros que requiera para su funcionamiento.
+
+Respecto de los trámites en materia de innovación y desarrollo tecnológico, soporte y demás relativas al área informática, que se hayan iniciado ante la Dirección General de Administración y Sistemas antes de la entrada en vigor del presente Decreto, serán concluidos ante la Dirección General de Administración, no obstante, si antes de la conclusión de dichos asuntos, la Dirección de Innovación y Desarrollo Tecnológico adquiere su reconocimiento presupuestal y operativo y se encuentra dotada de los recursos a que se refiere el párrafo que antecede; podrá conocer, desahogar y terminar, en su caso, los asuntos de su competencia.
+
+###### ARTÍCULO TERCERO.
+
+La Fiscalía General del Estado será la instancia encargada de establecer los mecanismos para que se realicen los trámites de recategorización, nivelación o acceso a las plazas de nueva creación pericial, en observancia de las disposiciones en materia del Servicio Profesional de Carrera y de acuerdo a la disponibilidad presupuestal.
+
+###### ARTÍCULO CUARTO.
+
+Se faculta a la persona titular de la Fiscalía General del Estado para que emita y publique en el Periódico Oficial del Estado, las tarifas que se cobrarán por los conceptos, productos y servicios que preste la División de Seguridad Bancaria, Comercial e Industrial, dependiente de la Comisión Estatal de Seguridad de la Fiscalía General del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Con fundamento en lo preceptuado en el artículo 26 de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, así como en los numerales 6; 11, fracciones V, VII y VIII, y demás relativos establecidos en el Código Fiscal del Estado de Chihuahua, corresponde a la Secretaría de Hacienda disponer lo conducente para que se efectúe la recaudación respectiva.
+
+###### ARTÍCULO SEXTO.
+
+Los Prestadores de Servicios con autorización de la Secretaría de Seguridad Pública Federal que no hayan realizado su registro ante la Fiscalía General del Estado, se les otorgará un plazo no mayor a 30 días contados a partir de la entrada en vigor del presente Decreto. En caso de incumplimiento se iniciará el procedimiento para la aplicación de sanciones previsto en la Ley de Seguridad Privada para el Estado de Chihuahua.
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXV/RFLYC/0798/2018 XII P.E., POR MEDIO DEL CUAL SE ARMONIZA LA LEGISLACIÓN LOCAL CON LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, todos los asuntos en trámite, incluidas las carpetas de investigación, que se estén realizando ante la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, se proseguirán por la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada.
+
+###### ARTICULO CUARTO.
+
+A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros asignados a la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, pasarán a formar parte de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; sin perjuicio de los ajustes administrativos que de conformidad a la legislación aplicable, realice la Fiscalía General del Estado.
