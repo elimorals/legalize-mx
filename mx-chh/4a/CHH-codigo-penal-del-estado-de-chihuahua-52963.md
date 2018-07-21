@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-07-07"
+last_updated: "2018-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1523,9 +1523,9 @@ Efectos y características de la prescripción
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, y para ello bastará el transcurso del tiempo señalado por la ley.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
 
-Los delitos de extorsión; desaparición forzada de personas; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura y, enriquecimiento ilícito, de acuerdo con el numeral 272; así como aquéllos previstos en los artículos 171, 172, 173, 174, 175, 178 y 184 de este Código, cometidos en contra de personas menores de edad o de las que no tienen capacidad para comprender el significado del hecho o de resistirlo, son imprescriptibles.
+Los delitos de extorsión; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura, y enriquecimiento ilícito, de acuerdo con el numeral 272; así como aquellos previstos en los artículos 171, 172, 173, 174, 175, 178 y 184 de este Código, cometidos en contra de personas menores de edad o de las que no tienen capacidad para comprender el significado del hecho o de resistirlo, son imprescriptibles.
 
 ###### Artículo 106.
 
@@ -2127,15 +2127,13 @@ Artículo 160 bis. (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE JULIO DE 2018)</small>
+
 ### CAPÍTULO V. TRÁFICO DE MENORES
 
 ###### Artículo 165.
 
-Al servidor público que con motivo de sus atribuciones, detenga y mantenga oculta a una o varias personas, o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes, se le sancionará con prisión de quince a cuarenta años y de trescientos a mil días multa, destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión hasta por diez años.
-
-Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrán prisión de ocho a quince años y de ciento cincuenta a quinientos días multa.
-
-Las sanciones previstas en los párrafos precedentes se disminuirán en una tercera parte, cuando el agente suministre información que permita esclarecer los hechos y, en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
+(DEROGADO, P.O. 21 DE JULIO DE 2018)
 
 ### CAPÍTULO VI. RETENCIÓN Y SUSTRACCIÓN DE PERSONAS MENORES DE EDAD O DE QUIEN NO TIENE LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
@@ -5308,3 +5306,23 @@ P.O. 7 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXV/RFLYC/0798/2018 XII P.E., POR MEDIO DEL CUAL SE ARMONIZA LA LEGISLACIÓN LOCAL CON LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, todos los asuntos en trámite, incluidas las carpetas de investigación, que se estén realizando ante la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, se proseguirán por la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros asignados a la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, pasarán a formar parte de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; sin perjuicio de los ajustes administrativos que de conformidad a la legislación aplicable, realice la Fiscalía General del Estado.
