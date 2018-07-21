@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-privada-para-el-estado-de-chihuahua-90711"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-29"
-last_updated: "2017-08-12"
+last_updated: "2018-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de diciembre de 2012.
 
@@ -77,7 +77,9 @@ III. Municipios.- Los Municipios del Estado de Chihuahua;
 
 IV. Consejo.- El Consejo Estatal de Seguridad Pública;
 
-V. Prestador de Servicios.- Persona física o moral con autorización para prestar servicios de seguridad privada en cualesquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+V. Prestador de Servicios.- Persona física o moral con autorización y Registro para prestar servicios de seguridad privada en cualquiera de sus modalidades;
 
 VI. Personal Operativo.- Los individuos destinados a la prestación de Servicios de Seguridad Privada en cualesquiera de sus modalidades, contratados por el Prestador de Servicios;
 
@@ -85,7 +87,9 @@ VII. Prestatario.- La persona física o moral, de derecho privado o público, qu
 
 VIII. Inspectores.- Personal autorizado por la Fiscalía para realizar visitas y diligencias de inspección;
 
-IX. Registro.- El Registro Estatal de Empresas, Personal, Armamento y Equipo de Seguridad Privada, incluida la información de las personas físicas o morales que hayan obtenido autorización por autoridad federal competente para prestar servicios de seguridad privada;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+IX. Registro.- El Registro Estatal de Empresas, Personal, Armamento y Equipo de Seguridad Privada, incluida la información de las personas físicas o morales que hayan obtenido autorización por autoridad federal competente para prestar servicios de seguridad privada; o bien, el documento expedido por la Fiscalía que certifica la inscripción de los Prestadores de Seguridad Privada que hayan obtenido autorización federal o estatal; término que para efectos de la presente Ley, podrá utilizarse de forma indistinta;
 
 X. Servicios de Seguridad Privada.- Actividad a cargo de los particulares autorizada por la Fiscalía, con el objeto de desempeñar acciones relacionadas con la prestación de servicios de seguridad y protección personal; de bienes; traslado de bienes o valores; de la información; sistemas de prevención y responsabilidades; fabricación, comercialización, almacenamiento, transportación o distribución de vestimenta e instrumentos; servicios de blindaje; sistemas electrónicos de seguridad; así como capacitación y adiestramiento;
 
@@ -747,7 +751,9 @@ Son obligaciones de los Prestadores de Servicios:
 
 I. Prestar los Servicios de Seguridad Privada en las modalidades, términos y condiciones establecidas en la Autorización que les haya sido otorgada o, en su caso, en su Modificación;
 
-II. Abstenerse de prestar los Servicios de Seguridad Privada sin contar con la Autorización o Revalidación correspondiente;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+II. Abstenerse de prestar los Servicios de Seguridad Privada sin contar con la Autorización y Registro, o Revalidación correspondiente;
 
 III. Abstenerse de realizar funciones que están reservadas a las instituciones de seguridad pública o a las Fuerzas Armadas;
 
@@ -1125,23 +1131,41 @@ Las sanciones económicas a que se refiere la presente Ley, se harán efectivas 
 
 Las sanciones por incumplimiento a las disposiciones contenidas en esta Ley consistirán, respecto al Prestador de Servicios, en:
 
-I. Amonestación por escrito;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+I. Amonestación por escrito.
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
 
 II. Multa de cien hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente;
 
-III. Suspensión de los efectos de la Autorización hasta por seis meses, o
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-IV. Revocación de la Autorización.
+III. Suspensión de los efectos de la Autorización hasta por seis meses.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+IV. Clausura del establecimiento; o
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+V. Revocación de la Autorización.
 
 ###### Artículo 96.
 
 La amonestación por escrito procederá en contra del Prestador de Servicios cuando:
 
-I. Omita informar a la Fiscalía, el robo, pérdida o extravío de la Cédula en el término que señala esta Ley, o
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-II. Asigne al Personal Operativo a las modalidades autorizadas sin contar con la capacitación o certificación correspondiente.
+I. Omita informar a la Fiscalía, el robo, pérdida o extravío de la Cédula en el término que señala esta Ley.
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+II. Asigne al Personal Operativo a (sic) las modalidades autorizadas sin contar con la capacitación o certificación correspondiente; o
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2018)</small>
+
+III. El Personal Operativo a su cargo, preste el servicio sin portar la Cédula, independientemente de las sanciones que pueden imponerse a estos últimos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
 
@@ -1149,7 +1173,9 @@ II. Asigne al Personal Operativo a las modalidades autorizadas sin contar con la
 
 Se sancionará al Prestador de Servicios con multa de cien hasta mil veces el valor diario de la Unidad de Medida y Actualización, en los siguientes casos:
 
-I. Se altere la documentación que contenga la Autorización y Registro;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+I. No cuente con la Autorización y Registro, o Revalidación, según el caso, o se altere cualquiera de ellos.
 
 II. Asigne Personal Operativo a la prestación de servicios sin haber obtenido previamente la Cédula;
 
@@ -1181,17 +1207,29 @@ XV. No utilice el número de Autorización y Registro otorgado por la Fiscalía 
 
 XVI. No denuncie de inmediato ante el Ministerio Público el robo, pérdida o extravío del armamento y equipo que tengan asignado;
 
-XVII. Impida al Inspector llevar a cabo la visita ordenada por la Fiscalía, o
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+XVII. Impida al Inspector llevar a cabo la visita ordenada por la Fiscalía.
 
 XVIII. Reincida en los casos señalados en el artículo 96 de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2018)</small>
+
+XIX. Cuando el Prestador de Servicios cuente con Autorización federal y preste el servicio en el Estado sin haberse registrado previamente ante la Fiscalía, o
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2018)</small>
+
+XX. Contrate a elementos de seguridad pública para desempeñar labores de seguridad privada.
 
 ###### Artículo 98.
 
 Se sancionará al Prestador de Servicios con la suspensión de los efectos de la Autorización y Registro, hasta por seis meses, en los siguientes casos:
 
-I. Que preste el servicio fuera de las modalidades, términos y condiciones establecidas en la Autorización que le haya sido otorgada o, en su caso, en la Revalidación o Modificación;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-II. Prestar los Servicios de Seguridad Privada sin contar con la Autorización o Revalidación correspondiente;
+I. Que preste el servicio fuera de las modalidades, términos y condiciones establecidas en la Autorización y Registro que le haya sido otorgado o, en su caso, en la Revalidación o Modificación.
+
+II. (DEROGADA, P.O. 21 DE JULIO DE 2018)
 
 III. Prestar sus servicios en un lugar o municipio distinto al autorizado;
 
@@ -1201,11 +1239,31 @@ V. Que el Prestador de Servicios no cumpla con el pago de la multa que se le hay
 
 VI. Que realice investigaciones sobre hechos delictivos o que percatándose de alguno, no lo haga del conocimiento de la autoridad correspondiente.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
+
+###### Artículo 98 Bis.
+
+Se sancionará al Prestador de Servicios con la clausura del establecimiento en donde tenga ubicada la matriz o sucursales de esta, cuando:
+
+I. No acate la instrucción de efectuar el Registro ante la Fiscalía;
+
+II. No realice el trámite para la obtención de la Autorización o Revalidación; o
+
+III. Reincida en conductas de alteración del Registro, Autorización o Revalidación.
+
+Para los supuestos señalados en las fracciones I y II se tomará en cuenta el plazo fijado en la resolución que imponga la multa, prevista en el artículo 97 de la presente Ley, con independencia al pago de aquella.
+
+Una vez decretada la procedencia de clausura del establecimiento, la Fiscalía impondrá los sellos respectivos que inhabiliten la operación del lugar, señalando en acta circunstanciada los motivos que la generaron, fecha de inicio, temporalidad de la medida, restricciones, condiciones para su levantamiento y demás datos necesarios que generen la certeza de la actuación por parte de la autoridad.
+
+Si el Prestador de Servicios subsana la irregularidad y lo acredita a través de medios fehacientes, la Fiscalía, en un término que no exceda a los tres días hábiles, estará en aptitud de retirar los sellos y autorizar el inicio de operaciones.
+
 ###### Artículo 99.
 
 Se sancionará al Prestador de Servicios con la revocación de la Autorización y Registro, procediendo la Fiscalía a notificar a los municipios, autoridades correspondientes y a sus Prestatarios, en los casos siguientes:
 
-I. Que no subsane la irregularidad que motivó la suspensión de los efectos de la Autorización, dentro del plazo que se le hubiere fijado para tal efecto;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+I. Que no subsane la irregularidad que motivó la suspensión de los efectos de la Autorización o el Registro, dentro del plazo que se le hubiere fijado para tal efecto.
 
 II. Que el Prestador de Servicios o su Personal Operativo realicen funciones o actividades que sean de la competencia exclusiva del Ministerio Público, de los integrantes de las instituciones policiales o de las Fuerzas Armadas, salvo el caso de flagrancia;
 
@@ -1223,7 +1281,9 @@ VIII. Reincidencia en el uso de uniformes no autorizados con insignias o equipo 
 
 IX. Que desempeñe simultáneamente funciones en institución de seguridad pública o de las Fuerzas Armadas y empresa de seguridad privada, o
 
-X. Haber obtenido la Autorización, mediante documentos, declaraciones, datos falsos, o bien, con dolo o mala fe.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+X. Haber obtenido la Autorización o el Registro, mediante documentos, declaraciones, datos falsos, o bien, con dolo o mala fe.
 
 #### SECCIÓN TERCERA. DE LAS SANCIONES AL PERSONAL OPERATIVO
 
@@ -1492,3 +1552,33 @@ P.O. 12 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLEY/0790/2018 XII P.E., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deberán gestionar ante la Secretaría de Hacienda y las dependencias competentes, las acciones para la creación, apertura de plazas, elaboración de perfil de puestos y justificación correspondiente a efecto de que las categorías de Perito que se adicionan mediante el presente Decreto sean contempladas presupuestalmente, así como para que la Dirección de Innovación y Desarrollo Tecnológico de nueva creación, que para efectos operativos y de funcionalidad se desvincula de la actual Dirección General de Administración, reciba de ésta última los recursos humanos, materiales y financieros que requiera para su funcionamiento.
+
+Respecto de los trámites en materia de innovación y desarrollo tecnológico, soporte y demás relativas al área informática, que se hayan iniciado ante la Dirección General de Administración y Sistemas antes de la entrada en vigor del presente Decreto, serán concluidos ante la Dirección General de Administración, no obstante, si antes de la conclusión de dichos asuntos, la Dirección de Innovación y Desarrollo Tecnológico adquiere su reconocimiento presupuestal y operativo y se encuentra dotada de los recursos a que se refiere el párrafo que antecede; podrá conocer, desahogar y terminar, en su caso, los asuntos de su competencia.
+
+###### ARTÍCULO TERCERO.
+
+La Fiscalía General del Estado será la instancia encargada de establecer los mecanismos para que se realicen los trámites de recategorización, nivelación o acceso a las plazas de nueva creación pericial, en observancia de las disposiciones en materia del Servicio Profesional de Carrera y de acuerdo a la disponibilidad presupuestal.
+
+###### ARTICULO CUARTO.
+
+Se faculta a la persona titular de la Fiscalía General del Estado para que emita y publique en el Periódico Oficial del Estado, las tarifas que se cobrarán por los conceptos, productos y servicios que preste la División de Seguridad Bancaria, Comercial e Industrial, dependiente de la Comisión Estatal de Seguridad de la Fiscalía General del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Con fundamento en lo preceptuado en el artículo 26 de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, así como en los numerales 6; 11, fracciones V, VII y VIII, y demás relativos establecidos en el Código Fiscal del Estado de Chihuahua, corresponde a la Secretaría de Hacienda disponer lo conducente para que se efectúe la recaudación respectiva.
+
+###### ARTÍCULO SEXTO.
+
+Los Prestadores de Servicios con autorización de la Secretaría de Seguridad Pública Federal que no hayan realizado su registro ante la Fiscalía General del Estado, se les otorgará un plazo no mayor a 30 días contados a partir de la entrada en vigor del presente Decreto. En caso de incumplimiento se iniciará el procedimiento para la aplicación de sanciones previsto en la Ley de Seguridad Privada para el Estado de Chihuahua.
