@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-sistema-de-tren-electrico-urbano-del-828
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-10"
-last_updated: "2014-02-08"
+last_updated: "2018-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DEL SISTEMA DE TREN ELÉCTRICO URBANO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 10 de septiembre de 2011.
 
@@ -42,9 +42,13 @@ El presente ordenamiento se expide de conformidad con las facultades que le conf
 
 Para los efectos de este Reglamento se entenderán por:
 
-I. Comisión de Concesiones: Integrada por los miembros del Comité de Adquisiciones y Enajenaciones;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-II. Comité: el Comité de Adquisiciones y Enajenaciones;
+I. Comisión: la Comisión de Concesiones del Sistema de Tren Eléctrico Urbano;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+II. Comité: el Comité de Adquisiciones y Enajenaciones del Sistema de Tren Eléctrico Urbano;
 
 III. Concesión: el acto administrativo mediante el cual se autoriza a las personas físicas o jurídicas para concurrir en la prestación de un servicio público relacionado con la operación y funcionamiento integral de los sistemas de transporte alimentadores del Sistema del Tren Eléctrico que se establezcan;
 
@@ -56,7 +60,7 @@ VI. Director General: Director General del Sistema del (sic) Tren Eléctrico Urb
 
 VII. Organismo, Sistema o SITEUR: el Sistema de Tren Eléctrico Urbano;
 
-VIII. Reglamento: el presente Reglamento Interno del Sistema de Tren Eléctrico Urbano; (sic)
+VIII. Reglamento: el presente Reglamento Interno del Sistema de Tren Eléctrico Urbano;
 
 ###### Artículo 3°.
 
@@ -80,11 +84,17 @@ La administración y dirección del SITEUR están a cargo del Consejo de Adminis
 
 El Consejo se integrará, además de su Presidente, con un representante de las dependencias estatales, ayuntamientos y organismos empresariales mencionados a continuación, que cuentan con voz y voto, y que serán designados por sus respectivos titulares:
 
-I. Secretaría de Finanzas del Estado;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-II. Secretaría de Desarrollo Urbano del Estado;
+I. Secretaría de Planeación, Administración y Finanzas del Estado;
 
-III. Secretaría de Vialidad y Transporte del Estado;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+II. Secretaría de Infraestructura y Obra Pública del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+III. Secretaría de Movilidad del Estado;
 
 IV. Organismo Público Descentralizado, Sistema de Transporte Colectivo de la Zona Metropolitana de Guadalajara (SISTECOZOME);
 
@@ -132,9 +142,11 @@ XI. Nombrar y remover, a propuesta del Director General a los funcionarios del O
 
 XII. Designar y remover, a propuesta del Presidente, al Secretario del Consejo de Administración;
 
-XIII. Revisar y aprobar todo estudio de transporte y desarrollo urbano, dentro de la Zona Metropolitana de Guadalajara, que tenga una relación directa con la planeación, crecimiento y operación futura de la red del Sistema de Tren Eléctrico Urbano y sus servicios alimentadores, o cualquier otro tipo de transporte público que incida en la prestación del servicio; y (sic)
+XIII. Revisar y aprobar todo estudio de transporte y desarrollo urbano, dentro de la Zona Metropolitana de Guadalajara, que tenga una relación directa con la planeación, crecimiento y operación futura de la red del Sistema de Tren Eléctrico Urbano y sus servicios alimentadores, o cualquier otro tipo de transporte público que incida en la prestación del servicio; y
 
-XIV. Otorgar concesiones a personas físicas y morales, para la operación del sistema del servicio público de transporte de pasajeros distintos del tren eléctrico urbano, que sirvan de alimentadoras a dicho Sistema.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+XIV. Otorgar concesiones a personas físicas y jurídicas, para la operación del sistema del servicio público de transporte de pasajeros distintos del tren eléctrico urbano, que sirvan de alimentadoras a dicho Sistema; y
 
 XV. En general, ejecutar todos aquellos actos necesarios para el mejor cumplimiento del objeto y funciones del Organismo, respetando, en todo caso, las atribuciones de las autoridades competentes del nivel Federal y Local.
 
@@ -174,7 +186,13 @@ X. Realizar ante las autoridades competentes los trámites necesarios para ampli
 
 XI. Establecer las normas a que deberán sujetarse la formulación, aprobación e implantación de los manuales de procedimientos y de la operación y prestación de servicios del Organismo;
 
-XII. Las demás que el Consejo le señale y las que establezcan las disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XII. Certificar documentos que obren en los archivos del Sistema de Tren Eléctrico Urbano.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XIII. Las demás que el Consejo le señale y las que establezcan las disposiciones jurídicas aplicables.
 
 ###### Artículo 10.
 
@@ -192,7 +210,9 @@ V. Gerencia de Socialización;
 
 VI. Tesorería;
 
-VII. Dirección del Tren Eléctrico Urbano;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+VII. Dirección Técnica;
 
 VIII. Dirección de Macrobús;
 
@@ -200,7 +220,13 @@ IX. Dirección Administrativa;
 
 X. Dirección Jurídica
 
-XI. Las demás que acuerde el Consejo y se autoricen en el presupuesto de egresos del SITEUR.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XI. Gerencia de Evaluación y Seguimiento a Programas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XII. Las demás que acuerde el Consejo y se autoricen en el presupuesto de egresos del SITEUR.
 
 ### CAPÍTULO IV. DE LAS FUNCIONES Y RESPONSABILIDADES DE LAS UNIDADES ADMINISTRATIVAS DEL DIRECTOR GENERAL
 
@@ -252,7 +278,9 @@ La Contraloría Interna tendrá las siguientes atribuciones:
 
 I. Planear, organizar, efectuar, controlar y evaluar las actividades necesarias para el desarrollo y ejecución de los programas relativos a la auditoría contable, administrativa y operativa, aplicables a los procesos y a las actuaciones del personal del SITEUR;
 
-II. Planear, organizar y coordinar el sistema de control interno y evaluación tendiente a asegurar el buen uso, manejo y aplicación de los bienes y recursos del SITEUR en todas sus áreas;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+II. Planear, organizar y coordinar el sistema de control interno y evaluación tendiente a la revisión del ingreso, egreso, manejo, custodia y aplicación de los recursos y bienes del SITEUR;
 
 III. Formular y llevar a cabo el programa de auditorías a las operaciones y registros contables así como al ejercicio de los presupuestos de ingresos y egresos, vigilando que se cumpla con la normatividad aplicable, y presentar las recomendaciones y observaciones procedentes ante la Tesorería, Dirección Administrativa y a la Dirección General, llevando el seguimiento a la aplicación de las soluciones adoptadas;
 
@@ -270,7 +298,45 @@ IX. Conocer, investigar y comprobar, en la vía administrativa, con el apoyo de 
 
 X. Conocer de las quejas que presenten los particulares en contra del personal del SITEUR, conducir la investigación de los hechos y emitir reporte a la Tesorería y Dirección General recomendando las acciones conducentes; y
 
-XI. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XI. Implementar mecanismos para prevenir las faltas administrativas y los hechos de corrupción, así como llevar a cabo la evaluación anual de estos mecanismos y sus resultados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XII. Investigar y calificar las faltas administrativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XIII. Requerir a los servidores públicos obligados la presentación ante las autoridades competentes, de la declaración de situación patrimonial y de intereses, así como la constancia de declaración fiscal. Asimismo, llevar un registro de lo anterior, para llevar verificaciones aleatorias del cumplimiento de tales obligaciones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XIV. Requerir a los servidores públicos las aclaraciones pertinentes cuando sea detectado un aparente incremento inexplicable de su patrimonio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XV. Vigilar el cumplimiento del Código de Ética y Conducta del Sistema de Tren Eléctrico Urbano.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XVI. Implementar el protocolo de actuación en contrataciones públicas expedido por el Comité Coordinador del Sistema Nacional Anticorrupción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XVII. Fungir como Órgano Interno de Control del Sistema de Tren Eléctrico Urbano.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XVIII. Elaborar las actas de entrega-recepción de despachos o cargos públicos de los servidores públicos del Organismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XIX.- Llevar a cabo la investigación de actos u omisiones susceptibles de ser sancionados conforme a la Ley General de responsabilidades Administrativas y demás normatividad aplicable.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XX. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General.
 
 La Contraloría Interna para el ejercicio de sus funciones contará con las jefaturas, coordinaciones o secciones, así como con el personal técnico y administrativo que las necesidades del servicio requieran y se consigne en la plantilla y en el presupuesto de egresos autorizados por el Consejo.
 
@@ -318,7 +384,7 @@ GERENCIA DE SOCIALIZACIÓN
 
 La Gerencia de Socialización tendrá las siguientes atribuciones:
 
-l. Establecer, planear coordinar y organizar la estrategia para la socialización y gestión social de los proyectos de movilidad urbana;
+I. Establecer, planear coordinar y organizar la estrategia para la socialización y gestión social de los proyectos de movilidad urbana;
 
 II. Definir en conjunto con la Gerencia de Comunicación Social los criterios y lineamientos para la promoción y difusión social de los proyectos de movilidad urbana;
 
@@ -440,73 +506,17 @@ COORDINACIÓN ESPECILIZADA (SIC) DE VINCULACIÓN CON CONCESIONARIOS
 
 ###### Artículo 19.
 
-Con el debido apego a las leyes aplicables, los acuerdos del Consejo, los reglamentos, las políticas y procedimientos establecidos, son funciones y responsabilidades de la Dirección de Tren Eléctrico, las siguientes:
-
-I. Cumplir y hacer cumplir las disposiciones emanadas del Decreto de creación del Organismo, los reglamentos, los acuerdos del Consejo y demás normatividad aplicable;
-
-II. Proponer y someter a la autorización de la Dirección General la estructura de organización y las plantillas del personal necesario para el funcionamiento del área a su cargo, para su aprobación final por el Consejo;
-
-III. Proponer y someter a la autorización de la Dirección General las políticas y normas aplicables a la administración y cumplimiento de los programas y servicios que lo ameriten, e igualmente asegurar su correcta implantación y difusión y vigilar su cumplimiento;
-
-IV. Acordar con la Dirección General sobre la resolución de los asuntos que requieran la intervención de ésta, y proponer la celebración de los acuerdos y convenios que sean necesarios;
-
-V. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que les sean señalados por delegación o le correspondan por suplencia;
-
-VI. Formular y proponer a la Dirección General los proyectos estratégicos para el mediano y largo plazo que competan a su tramo de control y coadyuvar en los estudios de viabilidad y factibilidad de dichos proyectos;
-
-VII. Establecer los objetivos sobre los procesos operativos que para cada período se hayan de llevar a cabo en el cumplimiento de los programas y servicios que les corresponda administrar;
-
-VIII. Firmar todos los contratos y convenios que el Consejo de Administración determine expresamente;
-
-IX. Formular y proponer en conjunto con la Tesorería y la Dirección Administrativa, para la aprobación del Consejo, el ejercicio del presupuesto de ingresos y/o egresos y sus modificaciones o ampliaciones;
-
-X. Proponer a la Dirección General la implantación o modificaciones a los reglamentos relativos a los programas y servicios que lo ameriten, para su aprobación por el Consejo de Administración cuando sea el caso;
-
-XI. Presentar la descripción y perfil de requisitos de los puestos; en su caso, proponer las modificaciones a la estructura orgánica y las funciones de las unidades administrativas a su cargo, para su aprobación por la Dirección General y, en su caso, por el Consejo;
-
-XII. Administrar la selección, capacitación, evaluación, promoción, remuneración, seguridad, licencias y, en general, todos los procesos relacionados con la dirección del personal a su cargo;
-
-XIII. Establecer los procedimientos aplicables a los procesos principales de su área, tendientes a promover tanto la eficiencia como la calidad de la atención a los pasajeros de sus servicios;
-
-XIV. Asistir a las sesiones del Consejo cuando sea invitado, así como el Director de Macrobús y el Director Administrativo, serán invitados cuando se traten asuntos de su competencia en la sesión correspondiente;
-
-XV. Cuando así lo determine el Director General, participar, cumpliendo debidamente con su cometido, en los comités o subcomités y, en general, en los organismos públicos y privados a que pertenezca el SITEUR; y
-
-XVI. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por el Consejo y/o Dirección General.
+(DEROGADO, P.O. 21 DE JULIO DE 2018)
 
 ###### Artículo 20.
 
-Para el ejercicio de sus funciones, la Dirección de Tren Eléctrico contará con las siguientes unidades administrativas:
-
-I. Gerencia de Comunicación Institucional;
-
-II. Gerencia de Evaluación y Seguimiento a Programas; y
-
-III. Dirección Técnica.
+(DEROGADO, P.O. 21 DE JULIO DE 2018)
 
 GERENCIA DE COMUNICACIÓN INSTITUCIONAL
 
 ###### Artículo 21.
 
-La Gerencia de Comunicación Institucional tendrá las siguientes atribuciones:
-
-I. Dirigir, coordinar y controlar la edición y difusión de información, a través de los órganos y medios de comunicación interna, con el fin de mantener informado y orientado al personal sobre los asuntos del tren eléctrico;
-
-II. Apoyar a las unidades administrativas, conforme se le requiera, en el diseño, emisión y distribución de los diversos medios o elementos de difusión interna relacionados con los proyectos, servicios, programas y eventos del Tren Eléctrico;
-
-III. Gestionar bajo la coordinación de la Gerencia de Comunicación Social, las acciones relacionadas a los contratos de arrendamiento a terceros, de los espacios y locales designados para fines publicitarios o comerciales del Tren Eléctrico, contratos que tendrán que ser validados previamente a su firma por el Director General y éste informar al Consejo de Administración en la próxima sesión;
-
-IV. Gestionar bajo la coordinación de la Gerencia de Comunicación Social, las acciones relacionadas a los contratos de arrendamiento que se celebren para la explotación por terceros de los espacios publicitarios o para la administración de los arrendamientos de locales y espacios comerciales del Tren Eléctrico, contratos que tendrán que ser validados previamente a su firma por el Director General y éste informar al Consejo de Administración en la próxima sesión;
-
-V. Gestionar bajo la coordinación de la Gerencia de Comunicación Social, las acciones relacionadas a los contratos que se celebren con empresas editoriales para la edición y distribución de periódicos concesionando el uso del logotipo institucional del SITEUR; contratos que tendrán que ser validados previamente a su firma por el Director General y éste informar al Consejo de Administración en la próxima sesión;
-
-VI. En conjunto con la Gerencia Jurídica Y bajo la coordinación de la Gerencia de Comunicación Social supervisar, evaluar y dar seguimiento al cumplimiento de los contratos señalados;
-
-VII. Bajo la coordinación de la Gerencia de Comunicación Social ejercer las acciones necesarias para el cobro y depósito puntual de las rentas contratadas, dar seguimiento a su vigencia, vigilar la desocupación oportuna y, en su caso, turnar a la Gerencia de Asuntos Jurídicos los casos de incumplimiento que ameriten su intervención para ejercitar las acciones extrajudiciales o judiciales que procedan ante las autoridades competentes; y
-
-VIII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General y/o el Director de Tren Eléctrico.
-
-La Gerencia de Comunicación Institucional para el ejercicio de sus funciones contará con las jefaturas, secciones o coordinaciones así como con el personal técnico y administrativo que las necesidades del servicio requieran y se establezcan en la plantilla y en el presupuesto de egresos autorizados por el Consejo.
+(DEROGADO, P.O. 21 DE JULIO DE 2018)
 
 GERENCIA DE EVALUACIÓN Y SEGUIMIENTO A PROGRAMAS
 
@@ -514,7 +524,9 @@ GERENCIA DE EVALUACIÓN Y SEGUIMIENTO A PROGRAMAS
 
 La Gerencia de Evaluación y Seguimiento a Programas tendrá las siguientes atribuciones:
 
-I. Administrar y gestionar ante las diferentes áreas la información de la Dirección del Tren Eléctrico.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+I. Administrar y gestionar ante las diferentes áreas la información de la Dirección General;
 
 II. Evaluar el desempeño organizacional del Tren verificando su comportamiento respecto a lo señalado en los ejes estratégicos y ejes transversales.
 
@@ -524,7 +536,9 @@ IV. Mantener vigente la información de competitividad de nuestros mercados.
 
 V. Evaluar el comportamiento de la información estratégica en el mercado local, nacional e internacional para tomar decisiones.
 
-VI. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General y/o la Dirección del Tren Eléctrico.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+VI. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General.
 
 La Gerencia de Evaluación y Seguimiento a Programas para el ejercicio de sus funciones contará con las jefaturas, secciones o coordinaciones así como con el personal técnico y administrativo que las necesidades del servicio requieran y se establezcan en la plantilla y en el presupuesto de egresos autorizados por el Consejo.
 
@@ -544,7 +558,9 @@ IV. Dirigir la administración de los programas de mantenimiento tendientes a co
 
 V. Dirigir la administración de los programas de desarrollo, evaluación, autorización y ejecución de los proyectos internos relacionados con obras electromecánicas, obra civil o de control electrónico para el mejoramiento y actualización tecnológica de las instalaciones y equipos del Tren Eléctrico;
 
-VI. Participar con la Dirección General y la Dirección de Tren Eléctrico, en la coordinación del servicio de transporte que presta el SITEUR, con los demás servicios de transporte colectivo de la Zona Metropolitana de Guadalajara a través de la Secretaría Coordinadora de sector y de los organismos establecidos al respecto;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+VI. Participar con la Dirección General en la coordinación del servicio de transporte que presta el SITEUR, con los demás servicios de transporte colectivo de la Zona Metropolitana de Guadalajara a través de la Secretaría Coordinadora de sector y de los organismos establecidos al respecto;
 
 VII. Desarrollar los planes relacionados con la ampliación de la red del Tren Eléctrico conforme al Plan Maestro y a las prioridades que establezca el Ejecutivo del Estado y, para tal efecto, coadyuvar con las dependencias de gobierno involucradas en la planeación, desarrollo y ejecución de los proyectos;
 
@@ -554,9 +570,13 @@ IX. Apoyar en coordinación con el Director Administrativo, a la Dirección Gene
 
 X. Coordinar y supervisar, con el apoyo de la Dirección Administrativa, el servicio de vigilancia y el de seguridad pública de las instalaciones y bienes muebles e inmuebles del Organismo;
 
-XI. Elaborar los informes y reportes estadísticos mensuales y anuales relativos a la operación para su presentación a la Dirección de Tren Eléctrico quien los presentará al Director General para su posterior conocimiento y aprobación por el Consejo; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-XII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General y/o la Dirección de Tren Eléctrico.
+XI. Elaborar los informes y reportes estadísticos mensuales y anuales relativos a la operación para su presentación a (sic) al Director General para su posterior conocimiento y aprobación por el Consejo; y
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+XII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General.
 
 ###### Artículo 24.
 
@@ -678,7 +698,7 @@ I. Gerencia de Operación de Macrobús;
 
 II. Gerencia de Control y Tecnologías;
 
-III. Gerencia de Programas Especiales; y (sic)
+III. Gerencia de Programas Especiales; y
 
 IV. Gerencia de Planeación de Transporte.
 
@@ -828,7 +848,9 @@ II. Dirigir la administración de los sistemas y programas relacionados con la a
 
 III. Requisitar las compras de mobiliario, equipo, materiales y suministros de almacén con base en los presupuestos autorizados, vigilando siempre que se haga un uso racional de los mismos;
 
-IV. Formular y proponer en conjunto con la Tesorería y la Dirección del Tren, para la aprobación del Consejo, el ejercicio del presupuesto de ingresos y/o egresos y sus modificaciones o ampliaciones
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+IV. Formular y proponer en conjunto con la Tesorería para la aprobación del Consejo, el ejercicio del presupuesto de ingresos y/o egresos y sus modificaciones o ampliaciones;
 
 V. Apoyar en el estudio, evaluación y gestión de convenios con la representación sindical, el registro y aplicación de las reglamentaciones que deban regir las relaciones laborales y sindicales respecto a las condiciones generales y al Contrato Colectivo de Trabajo, y la integración y funcionamiento de las Comisiones Mixtas y demás análogas;
 
@@ -844,7 +866,7 @@ X. Llevar el registro de nombramientos, firmas y rúbricas de funcionarios al se
 
 XI. Asistir a las sesiones del Consejo cuando sea invitado, así como el Director de Macrobús y el Director del Tren Eléctrico, serán invitados cuando se traten asuntos de su competencia en la sesión correspondiente; y
 
-XIII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por el Consejo y/o la Dirección General.
+XIII (SIC). Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por el Consejo y/o la Dirección General.
 
 ###### Artículo 36.
 
@@ -966,25 +988,55 @@ V. Representar y asesorar al Director General del Organismo, en todo conflicto o
 
 VI. Autorizar la formulación de los proyectos, recursos, demandas y promociones necesarias en los procesos judiciales, administrativos, laborales, de jurisdicción voluntaria, juicios de amparo, los que se lleven ante las distintas dependencias y organismos públicos y privados, cobranza judicial y extrajudicial y aquellos que encomiende el Director General;
 
-VII. Coadyuvar con las Procuradurías General de la República y la del Estado en la integración de las averiguaciones previas y en el trámite de los procesos que afecten al Organismo o en los que éste manifieste interés jurídico.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
-VIII. Dirigir y supervisar los procedimientos con motivo del incumplimiento de los trabajadores del Organismo;
+VII. Coadyuvar con la Procuraduría General de la República y la Fiscalía del Estado en la integración de las averiguaciones previas y carpetas de investigación, en el trámite de los procesos que afecten al Organismo o en los que éste manifieste interés jurídico;
 
-IX. Dirigir y supervisar las gestiones y acciones relacionadas con los sindicatos de trabajadores del Organismo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
 
-X. Vigilar el adecuado funcionamiento de la Unidad de Transparencia del Organismo;
+VIII. Substanciar los procedimientos y recursos por faltas administrativas con motivo del incumplimiento de las obligaciones de los trabajadores del Organismo, como entidad substanciadora de conformidad al procedimiento previsto en el Título Segundo de la Ley General de responsabilidades Administrativas y demás normatividad aplicable. Proponer al Director General las resoluciones de los procedimientos, para que éste último en su carácter de entidad resolutora y sancionadora las valide;
 
-XI. Elaborar los informes y reportes que requiera el Director General del Organismo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
 
-XII. Administrar de manera eficiente el personal y los materiales asignados a la Dirección.
+IX. Elevar a la consideración de la Dirección General las resoluciones para la imposición de las sanciones derivadas de los procedimientos anteriores, para que en el ejercicio de sus facultades las imponga.
 
-XIII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+X. Remitir al Tribunal de Justicia Administrativa el procedimiento que determine la conducta del servidor público como falta administrativa grave, para su resolución.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XI. Presentar denuncias ante la Fiscalía Especializada en Combate a la Corrupción, cuando se tenga conocimiento de omisiones o hechos de corrupción que pudieran ser constitutivos de delito.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XII. Certificar documentos que obren en los archivos del Sistema de Tren Eléctrico Urbano.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XIII. Dirigir y supervisar las gestiones y acciones relacionadas con los sindicatos de trabajadores del Organismo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XIV. Vigilar el adecuado funcionamiento de la Unidad de Transparencia del Organismo;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+XV. Elaborar los informes y reportes que requiera el Director General del Organismo;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+XVI. Administrar de manera eficiente el personal y los materiales asignados a la Dirección; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XVII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General.
 
 ###### Artículo 42.
 
 La Dirección Jurídica para el cumplimiento de sus responsabilidades, contará con las siguientes unidades administrativas, las cuales, además de apegarse a las obligaciones y/o atribuciones establecidas en el presente Reglamento, estarán también a las señaladas en las disposiciones jurídicas aplicables y a las normas internas vigentes en el Sistema:
 
-l. Gerencia de lo Consultivo; y
+I. Gerencia de lo Consultivo; y
 
 II. Gerencia de lo Contencioso.
 
@@ -1020,7 +1072,21 @@ XI. Elaborar los informes y reportes que requiera el Director Jurídico y Direct
 
 XII. Administrar de manera eficiente el personal y los materiales asignados a la Gerencia.
 
-XIII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección Jurídica, Dirección General y/o el Consejo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XIII. Gestionar por instrucción de la Dirección General las acciones relacionadas a contratos de arrendamiento a terceros, de los espacios y locales designados para fines publicitarios del Tren Eléctrico, contratos que tendrán que ser informados al Consejo de Administración;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XIV. Gestionar por instrucción de la Dirección General, las acciones relacionadas a los contratos de arrendamiento de locales y espacios comerciales del Tren Eléctrico, contratos que tendrán que ser informados al Consejo de Administración;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XV. Gestionar bajo la coordinación de la Gerencia de Comunicación Social, las acciones relacionadas a los contratos que se celebren con empresas editoriales para la edición y distribución de periódicos concesionando el uso del logotipo institucional del SITEUR; contratos que tendrán que ser validados previamente a su firma por el Director General y éste informar al Consejo de Administración;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2018)</small>
+
+XVI. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección Jurídica, Dirección General y/o el Consejo.
 
 La Gerencia de lo Consultivo para el ejercicio de sus funciones contará con las jefaturas, coordinaciones o secciones así como con el personal técnico y administrativo que las necesidades del servicio requieran y se consigne en la plantilla y en el presupuesto de egresos autorizados por el Consejo.
 
@@ -1038,7 +1104,9 @@ III. Representar y asesorar a los funcionarios y al personal del Organismo cuand
 
 IV. Atender los juicios de amparo e intervenir en el cumplimiento de las resoluciones dictadas en los juicios relacionados con el Organismo;
 
-V. Realización de las actuaciones dentro de los procedimientos instrumentados con motivo del incumplimiento de los trabajadores del Organismo a sus obligaciones laborales y preparar los dictámenes acuerdos derivados de las actas correspondientes; asimismo realizar las actuaciones de aquellos actos a que pudieran ser constitutivos de responsabilidad administrativa, y en su caso, proporcionar la información necesaria a la Contraloría Interna y a la Dirección General;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+V. Realización de las actuaciones dentro de los procedimientos instrumentados con motivo del incumplimiento de los trabajadores del Organismo a sus obligaciones laborales y preparar los dictámenes acuerdos derivados de las actas correspondientes; asimismo realizar las actuaciones de aquellos actos a (sic) que pudieran ser constitutivos de responsabilidad administrativa;
 
 VI. Realizar las gestiones necesarias con los sindicatos de trabajadores del
 
@@ -1046,7 +1114,9 @@ Organismo;
 
 VII. Representar al Organismo ante autoridades judiciales estatales en los juicios civiles, mercantiles, penales o de cualquier índole que se interpongan;
 
-VIII. Elaborar las actas de entrega-recepción de despachos o cargos públicos de los funcionarios del Organismo;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+
+VIII. En coordinación con las áreas involucradas, realizar y controlar las acciones de cobranza jurídica extrajudicial celebrando, en su caso, los convenios procedentes; así como promover y conducir las acciones y procesos de cobranza judicial a través de las demandas procedentes;
 
 IX. En coordinación con las áreas involucradas, realizar y controlar las acciones de cobranza jurídica extrajudicial celebrando, en su caso, los convenios procedentes; así como promover y conducir las acciones y procesos de cobranza judicial a través de las demandas procedentes;
 
@@ -1070,13 +1140,35 @@ II. Por concesión directa.
 
 El Director General de SITEUR podrá elegir el proceso de concesión directa solicitando autorización mediante un escrito fundado y motivado al Consejo de Administración de SITEUR. La propuesta presentada por el Director General al Consejo de Administración para llevar a cabo la concesión directa seguirá los criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, según las circunstancias que concurran en cada caso, siempre anteponiendo el interés público.
 
-La propuesta del Director General se referirá siempre a personas físicas o morales que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que serán necesarios, demostrar capacidad técnica operativa, administrativa y económica para la explotación del servicio requerido, así como la experiencia en la prestación del servicio, y cuyas actividades comerciales o profesionales estén relacionadas con los servicios objeto de la concesión a celebrarse, además de contener un estudio técnico, social y económico que establezca y determine la necesidad del servicio.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+
+La propuesta del Director General se referirá siempre a personas físicas o jurídicas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que serán (sic) necesarios, demostrar capacidad técnica operativa, administrativa y económica para la explotación del servicio requerido, así como la experiencia en la prestación del servicio, y cuyas actividades comerciales o profesionales estén relacionadas con los servicios objeto de la concesión a celebrarse, además de contener un estudio técnico, social y económico que establezca y determine la necesidad del servicio.
 
 El Consejo de Administración estudiará y analizará la propuesta presentada y determinará en su caso la autorización al Director General de SITEUR para otorgar una concesión directa.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2018)</small>
+
 ###### Artículo 46.
 
-En el caso de convocatoria pública, posterior a la aprobación de la Comisión de Concesiones, la cual estará constituida de la misma manera en que se integra el Comité de adquisiciones y enajenaciones del SITEUR, el Director General del Organismo, quien funge como presidente de la misma, publicará la convocatoria por una sola vez en el Periódico Oficial "El Estado de Jalisco", en la página del Gobierno del Estado y en un periódico de mayor circulación en la zona metropolitana de Guadalajara.
+En el caso de convocatoria pública, posterior a la aprobación de la Comisión de Concesiones, el Director General del Organismo, quien funge como presidente de la misma, publicará la convocatoria por una sola vez en el Periódico Oficial "El Estado de Jalisco", en la página del Gobierno del Estado y en un periódico de mayor circulación en la zona metropolitana de Guadalajara.
+
+La Comisión de Concesiones del Sistema de Tren Eléctrico Urbano se integrará por los titulares o sus representantes, de las siguientes entidades y organismos del sector privado:
+
+I.- El Director General, quien será el Presidente.
+
+II.- Un representante de la Secretaría de Planeación, Administración y Finanzas.
+
+III.- Un representante de la Secretaría de Movilidad.
+
+IV.- Consejo de Cámaras Industriales del Estado de Jalisco.
+
+V.- Cámara Nacional de Comercio de Guadalajara.
+
+VI.- Centro Empresarial de Jalisco S:P.
+
+VII.- Consejo Nacional de Comercio Exterior de Occidente A.C.
+
+VIII.- Cámara Nacional de la Industria de la Transformación.
 
 ###### Artículo 47.
 
@@ -1086,7 +1178,7 @@ I.- El interesado deberá presentar solicitud donde manifieste el interés en pr
 
 En ambos casos deberá contener nombre, razón social o denominación legal y domicilio del interesado.
 
-II.- Demostrar capacidad técnica operativa, administrativa y económica para la explotación del servicio requerido, así corno la experiencia en la prestación del servicio, de acuerdo a lo requerido en las bases de la concesión, en caso de convocatoria.
+II.- Demostrar capacidad técnica operativa, administrativa y económica para la explotación del servicio requerido, así como la experiencia en la prestación del servicio, de acuerdo a lo requerido en las bases de la concesión, en caso de convocatoria.
 
 III.- Anexar original de la escritura constitutiva o copia certificada de la misma, última acta de asamblea y la personalidad de su representante legal los cuales deberán de presentarse debidamente certificados por notario público.
 
@@ -1216,7 +1308,7 @@ Lic. Rodolfo Pérez Mercado
 
 Secretario de Actas
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 5 DE MARZO DE 2013.
 
@@ -1225,3 +1317,11 @@ LAS MODIFICACIONES CON ANTELACIÓN CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORI
 P.O. 8 DE FEBRERO DE 2014.
 
 LAS MODIFICACIONES CON ANTELACIÓN CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 21 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE MODIFICA EL REGLAMENTO INTERNO; SE APROBÓ EL CÓDIGO DE ÉTICA Y CONDUCTA, Y ASÍ COMO EL REGLAMENTO INTERNO DEL COMITÉ DE ÉTICA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE SITEUR”.]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su aprobación en el Consejo de Administración del Sistema de Tren Eléctrico Urbano.
+
+SEGUNDO.- Publíquese en el Periódico Oficial “El Estado de Jalisco”.
