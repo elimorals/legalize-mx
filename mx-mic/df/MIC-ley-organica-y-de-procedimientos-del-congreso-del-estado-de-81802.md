@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2018-03-07"
+last_updated: "2018-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -961,7 +961,9 @@ VI. La Legislación electoral;
 
 VII. La convocatoria a elecciones extraordinarias, en los términos de la Constitución;
 
-VIII. Las propuestas de Consejeros Ciudadanos y Magistrados para la integración del Instituto Electoral del Estado de Michoacán y el Tribunal Electoral del Estado de Michoacán;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+VIII. Las propuestas de Consejeros Ciudadanos y Magistrados para la integración del Instituto Electoral de Michoacán y el Tribunal Electoral del Estado de Michoacán, así como del nombramiento de los titulares de los Órganos Internos de Control de ambos Órganos del Estado;
 
 IX. La autorización y convocatoria para la realización del plebiscito, referéndum y participación ciudadana, de acuerdo con la Constitución, el Código Electoral del Estado y la Legislación de la materia; y,
 
@@ -1043,7 +1045,9 @@ Corresponde a la Comisión de Derechos Humanos, participar, conocer y dictaminar
 
 I. Los relativos a la promoción, defensa y preservación de los derechos humanos;
 
-II. Los relativos al nombramiento y destitución del Presidente y consejeros de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+II. Los relativos al nombramiento y destitución del Presidente y Consejeros, así como el nombramiento del titular del Órgano Interno de Control, de la Comisión Estatal de Derechos Humanos;
 
 III. Los relativos a denuncias sobre violación de Derechos Humanos, para su conocimiento y canalización, en su caso;
 
@@ -1319,7 +1323,13 @@ XII. Los concernientes a las controversias que se susciten entre uno o más muni
 
 XIII. Los encaminados a obtener del Poder Legislativo, amnistías o indultos por delitos del orden común; y,
 
-XIV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2018)</small>
+
+XIV. Los relativos al nombramiento del titular del Órgano Interno de Control del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE JULIO DE 2018)</small>
+
+XV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTÍCULO 80.
 
@@ -1453,9 +1463,9 @@ IV. Evaluar y dictaminar el informe anual que rinda el Procurador General de Jus
 
 V. Observar el desempeño de los integrantes de la Procuraduría General de Justicia del Estado y opinar lo que corresponda, así como solicitar al Pleno del Congreso del Estado, la comparecencia de su titular;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
 
-VI. La elección de los integrantes del Consejo del Poder Judicial;
+VI. La elección de los integrantes del Consejo del Poder Judicial, así como, la ratificación del titular del Órgano Interno de Control de dicho Órgano;
 
 VII. Los relacionados con la procuración e impartición de justicia;
 
@@ -1905,11 +1915,31 @@ Para ser Secretario de Servicios Parlamentarios se requiere además contar con t
 
 Para ser Secretario de Administración y Finanzas, se requiere además tener por lo menos tres años de experiencia profesional en el manejo de recursos humanos, materiales y financieros, así como otorgar fianza para garantizar el correcto desempeño de su responsabilidad.
 
-Para ser Contralor Interno, se requiere además acreditar experiencia de cuando menos tres años de ejercicio profesional en actividades relacionadas con la fiscalización de los recursos públicos.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 23 DE JULIO DE 2018)</small>
+
+Para ser Contralor Interno, se deben reunir los requisitos siguientes:
+
+(NOTA: EL 30 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2018 Y SU ACUMULADA 69/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Ser mexicano POR NACIMIENTO, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener más de treinta años de edad, el día de la designación;
+
+III. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+V. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
+
+VI. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación; y,
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación.
 
 Para ser Director del Instituto de Investigaciones y Estudios Legislativos, se requiere además contar con por lo menos grado de Maestro en alguna de las áreas de las Ciencias Sociales o Económicas.
 
-Los titulares de los órganos mencionados son nombrados por al menos el cincuenta por ciento más uno de los miembros del Congreso a propuesta de la Junta, con excepción del titular de la Auditoría Superior quien será designado conforme a lo establecido en la Constitución.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
+Los titulares de los órganos mencionados son nombrados por al menos el cincuenta por ciento más uno de los miembros del Congreso a propuesta de la Junta, con excepción del Contralor Interno que será designado con el voto de las dos terceras partes de los miembros del Congreso y del titular de la Auditoría Superior quien será designado conforme a lo establecido en la Constitución.
 
 Con excepción del Auditor Superior del Estado, los funcionarios mencionados durarán en su encargo un término de tres años, pudiendo ser ratificados o removidos después de los primeros seis meses de iniciada la Legislatura.
 
@@ -2025,23 +2055,27 @@ VIII. Cumplir las demás funciones que le confieren esta Ley y los ordenamientos
 
 ### CAPÍTULO CUARTO. DE LA CONTRALORÍA INTERNA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 113.
 
-Para el control, revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso, hay una Contraloría Interna dependiente de la Junta de Coordinación Política, y tiene las siguientes atribuciones:
+Para el control, revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso, así como para la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo, hay una Contraloría Interna dependiente de la Junta de Coordinación Política, quien contará con autonomía técnica y de gestión y tiene las siguientes atribuciones:
 
 I. Realizar la auditoría interna del ejercicio del presupuesto de egresos del Congreso, de conformidad a lo establecido en el programa anual de control, evaluación y auditorías que apruebe el Pleno en el mes de enero de cada año;
 
 II. Diseñar, implementar y supervisar el sistema de control y fiscalización de las unidades administrativas y parlamentarias del Congreso, realizando una labor preventiva que permita en todas las áreas el cumplimiento con los principios de racionalidad, austeridad, proporcionalidad y equidad en todos los procedimientos administrativos;
 
-III. Recibir quejas, realizar investigaciones, llevar a cabo auditorías y aplicar procedimientos inherentes a las responsabilidades de los servidores públicos del Congreso;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+III. Llevar a cabo Auditorias, recibir quejas, llevar a cabo la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo;
 
 IV. Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo del Poder Legislativo y darles seguimiento;
 
 V. Proponer a la Comisión de Régimen Interno y Prácticas Parlamentarias las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que conforme a las leyes le competen;
 
-VI. Recibir la declaración de situación patrimonial de los servidores públicos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+VI. Recibir la declaración de situación patrimonial, de intereses y constancia de declaración fiscal de los servidores públicos del Poder Legislativo;
 
 VII. Coordinar y supervisar la entrega-recepción de la Mesa Directiva, de la Junta de Coordinación Política, de los diputados, así como de las unidades administrativas del Congreso;
 
@@ -3942,3 +3976,15 @@ P.O. 7 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 552 POR EL QUE “SE REFORMA LA FRACCIÓN XI BIS DEL ARTÍCULO 77 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 611 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 67, LA FRACCIÓN II DEL ARTÍCULO 71, LA FRACCIÓN XIV DEL ARTÍCULO 79, LA FRACCIÓN VI DEL ARTÍCULO 85, LOS PÁRRAFOS CUARTO Y SEXTO DEL ARTÍCULO 106 Y EL PRIMER PÁRRAFO Y LAS FRACCIONES III Y VI DEL ARTÍCULO 113 Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 79 RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Consejo General de Instituto Electoral de Michoacán; el Pleno del Tribunal Electoral del Estado de Michoacán; el Pleno del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y el Consejo de la Comisión Estatal de Derechos Humanos, contarán con sesenta días naturales a partir de la entrada en vigor del presente Decreto para remitir al Congreso el listado, acompañado del expediente debidamente foliado y pormenorizado de los cinco aspirantes mejores evaluados, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos, el examen practicado y su resultado, para que el Congreso designe a quien deba ocupar el cargo de titular del Órgano Interno de Control.
+
+El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
+
+TERCERO. El Poder Judicial del Estado de Michoacán; el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
