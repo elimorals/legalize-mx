@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-acceso-a-la-informacion-publica-y-115044"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2016-06-15"
+last_updated: "2018-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 18 de mayo de 2016.
 
@@ -1485,7 +1483,9 @@ II. La Presidencia;
 
 III. La Secretaría General;
 
-IV. La Contraloría Interna;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+IV. El Órgano Interno de Control;
 
 V. La Coordinación Jurídica;
 
@@ -1635,7 +1635,9 @@ XXI. El Instituto podrá emitir recomendaciones a los sujetos obligados para dis
 
 XXII. Elaborar el Programa Operativo Anual;
 
-XXIII. Nombrar a los servidores públicos que formen parte del Instituto;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+XXIII. Nombrar a los servidores públicos que formen parte del Instituto, con excepción del titular del Órgano Interno de Control.
 
 XXIV. Solicitar y evaluar los informes de los Sujetos Obligados;
 
@@ -1690,6 +1692,42 @@ V. Fungir como ponentes en la integración y propuesta de resolución de los exp
 VI. Coordinar los programas de trabajo institucionales que le sean asignados por el Pleno; y,
 
 VII. Las demás que señale la Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+
+###### Artículo 119 Bis.
+
+El titular del Órgano Interno de Control será nombrado por el voto de las dos terceras partes de los diputados del Congreso, durará en su encargo cinco años y no podrá ser reelecto, estará adscrito administrativamente a la Presidencia.
+
+El Pleno realizará la evaluación de los aspirantes, se integrará y enviará al Congreso la propuesta mediante el procedimiento siguiente:
+
+I. Publicará convocatoria abierta en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en el portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
+
+II. Los nombres de los aspirantes registrados serán publicados en su portal de internet y en un diario de circulación estatal, a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa, formule y haga llegar al Pleno, observaciones sobre los participantes, acompañando de las documentales que acrediten su dicho;
+
+III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Pleno, la cual consistirá en exámenes sobre aspectos relacionados con la materia del cargo a que aspira, considerando problemática y normativa;
+
+IV. El Pleno garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y,
+
+V. El Pleno por conducto de su Presidente, remitirá al Congreso la lista, acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso designe de entre los cinco mejor evaluados.
+
+Para ser titular del Órgano Interno de Control deben reunirse los siguientes requisitos:
+
+NOTA: EL 30 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2018 Y SU ACUMULADA 69/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Ser mexicano POR NACIMIENTO, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II Tener más de treinta años de edad, el día de la designación;
+
+III. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+V. No haber sido inhabilitado o sancionado por causa grave en el desempeño del empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
+
+VI. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación; y,
+
+VII. No desempeñar ni haber desempeñado cargo de Dirección Nacional o Estatal en algún Partido Político en los últimos cuatro años anteriores a la designación.
 
 ### CAPÍTULO II. DEL CONSEJO CONSULTIVO
 
@@ -2270,3 +2308,17 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 16 dieciséis días del mes de Mayo del año 2016 dos mil dieciséis.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 611 POR EL QUE "SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 106, LA FRACCIÓN XXIII DEL ARTÍCULO 117; Y SE ADICIONA EL ARTÍCULO 119 BIS DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Consejo General de (sic) Instituto Electoral de Michoacán; el Pleno del Tribunal Electoral del Estado de Michoacán; el Pleno del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y el Consejo de la Comisión Estatal de Derechos Humanos, contarán con sesenta días naturales a partir de la entrada en vigor del presente Decreto para remitir al Congreso el listado, acompañado del expediente debidamente foliado y pormenorizado de los cinco aspirantes mejores evaluados, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos, el examen practicado y su resultado, para que el Congreso designe a quien deba ocupar el cargo de titular del Órgano Interno de Control.
+
+El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
+
+TERCERO. El Poder Judicial del Estado de Michoacán, el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
