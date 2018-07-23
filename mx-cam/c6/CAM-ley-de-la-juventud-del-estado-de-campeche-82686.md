@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2013-12-20"
+last_updated: "2018-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -161,9 +163,11 @@ El Instituto se deberá coordinar con las instancias competentes para brindar lo
 
 El Instituto coadyuvará con las autoridades competentes en la divulgación de información sobre temas de salud de interés para la juventud tales como: adicciones, enfermedades venéreas, nutrición, suicidio, salud pública y comunitaria, entre otros.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
 ###### Artículo 9.
 
-El Instituto es responsable de coadyuvar con la difusión de los derechos sexuales y reproductivos de los jóvenes, así como para establecer los mecanismos que permitan el acceso expedito de la juventud a los servicios de información y atención, relacionados con el ejercicio de sus derechos sexuales y reproductivos.
+El Instituto es responsable de coadyuvar con la difusión de los derechos sexuales, reproductivos y de planificación familiar de los jóvenes, así como para establecer los mecanismos que permitan el acceso expedito de la juventud a los servicios de información y atención, relacionados con el ejercicio de sus derechos sexuales y reproductivos, teniendo como objetivo la prevención del embarazo en adolescentes, difundiendo ampliamente información oportuna, eficaz y completa entre los jóvenes sobre los riesgos para la vida y la salud.
 
 #### Sección Quinta. Del fortalecimiento de las identidades juveniles
 
@@ -855,11 +859,13 @@ SEGUNDO.- La primera encuesta de las que se refiere la fracción XXVI del artíc
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO".]
+P.O. 23 DE JULIO DE 2018.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 282 POR EL QUE “SE REFORMA EL ARTÍCULO 9 DE LA LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE”.]
 
-P.O. 31 DE JULIO DE 2018.
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial el Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 474 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO”.]
 
