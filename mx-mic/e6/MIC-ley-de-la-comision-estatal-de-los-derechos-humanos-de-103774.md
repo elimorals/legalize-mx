@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2017-03-21"
+last_updated: "2018-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -141,7 +141,9 @@ I. El Presidente;
 
 II. El Consejo;
 
-III. La Contraloría Interna;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+III. El Órgano Interno de Control;
 
 IV. La Secretaría Ejecutiva;
 
@@ -269,7 +271,7 @@ II. Los Visitadores Auxiliares;
 
 III. La Secretaría Ejecutiva;
 
-IV. La Contraloría Interna;
+IV. (DEROGADA, P.O. 23 DE JULIO DE 2018)
 
 V. La Coordinación Administrativa;
 
@@ -405,7 +407,7 @@ XIX. Elaborar y presentar el proyecto de Presupuesto Anual de Egresos de la Comi
 
 XX. Nombrar y remover con la aprobación del Consejo a los Visitadores Regionales;
 
-XXI. Proponer al Consejo una terna para el nombramiento del Contralor Interno;
+XXI. (DEROGADA, P.O. 23 DE JULIO DE 2018)
 
 XXII. Nombrar y remover libremente al Secretario Ejecutivo, al Coordinador de Orientación Legal, Quejas y Seguimiento, al Coordinador de Estudios, Divulgación y Capacitación, al Subcoordinador de Equidad entre Mujeres y Hombres, al titular de la Unidad de Comunicación Social, al Coordinador Administrativo, al Subcoordinador para la Atención a Grupos en Situación de Vulnerabilidad y al Subcoordinador de Mediación y Conciliación;
 
@@ -525,9 +527,13 @@ XIII. Coadyuvar y fortalecer las relaciones de la Comisión con la ciudadanía y
 
 XIV. Aprobar el nombramiento y remoción de los Visitadores Regionales por votación mayoritaria;
 
-XV. Nombrar al Contralor Interno de una terna propuesta por el Presidente;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
 
-XVI. Remover por mayoría calificada al Contralor Interno;
+XV. Sancionar al titular del Órgano Interno de Control por faltas administrativas no graves;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+XVI. Recibir las declaraciones del titular del Órgano Interno de Control y remitirla al área correspondiente de conformidad con lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo;
 
 XVII. Opinar acerca de la información que deba ser clasificada como reservada, confidencial y sensible, así como los relativos a su desclasificación y custodia en los términos de la Ley; y,
 
@@ -545,45 +551,63 @@ Las sesiones extraordinarias serán convocadas por el Presidente, se dará aviso
 
 ### CAPÍTULO QUINTO. CONTRALOR INTERNO
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
 ###### Artículo 36.
 
-El Contralor Interno es el servidor público encargado de la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios y de esta Ley.
+El Órgano Interno de Control es el área encargada de la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### Artículo 37.
 
-El Contralor Interno será nombrado por el Consejo de una terna propuesta por el Presidente y removido de acuerdo a lo establecido en la presente Ley.
+Al frente del Órgano Interno de Control habrá un titular, que será nombrado por el voto de las dos terceras partes de los diputados del Congreso, durará en su encargo cinco años y no podrá ser reelecto, estará adscrito administrativamente a la Presidencia del Consejo.
+
+El Consejo realizará la evaluación de los aspirantes, se integrará y enviará al Congreso la propuesta mediante el procedimiento siguiente:
+
+I. Publicará convocatoria abierta en el Periódico Oficial, en su portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
+
+II. Los nombres de los aspirantes registrados serán publicados en su portal de internet y en un diario de circulación estatal, a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa, formule y haga llegar al Consejo observaciones sobre los participantes, acompañando las pruebas que acrediten su dicho;
+
+III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Consejo, la cual consistirá en exámenes, escritos u orales sobre los aspectos relacionados con la materia del cargo a que aspira, considerando problemas y normativa;
+
+IV. El Consejo garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y,
+
+V. El Consejo remitirá al Congreso la lista, acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso designe de entre los cinco con más alta evaluación.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### Artículo 38.
 
-Para ser Contralor Interno se deberán cumplir los siguientes requisitos:
+Para ser Contralor deben reunirse los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
+(NOTA: EL 30 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2018 Y SU ACUMULADA 69/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. Contar con cédula profesional de licenciado en derecho, licenciado en administración de empresas y/o contador público con antigüedad mínima de tres años;
+I. Ser mexicano POR NACIMIENTO, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-III. Tener por lo menos dos años de ejercicio profesional;
+II. Tener más de treinta años de edad, el día de la designación;
 
-IV. Haber residido en el Estado durante los últimos tres años al día de la designación;
+III. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
 
-V. No haber sido condenado por delito doloso; y,
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
 
-VI. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público.
+V. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
+
+VI. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación; y,
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### Artículo 39.
 
-La remoción del Contralor Interno será por causa grave o al concluir el período de la administración que lo nombró.
+El titular del Órgano Interno de Control será sancionado y removido conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos. El Consejo resolverá sobre la aplicación de las sanciones a éste por faltas administrativas no graves.
 
-Se entenderá por causa grave:
-
-I. La usurpación de atribuciones o cualquier infracción a la Constitución o a las leyes que de ella emanen, cuando motive algún trastorno en el funcionamiento normal de la Comisión;
-
-II. Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Comisión y a las leyes que regulan el manejo de los recursos económicos, estatales o municipales; y,
-
-III. El incumplimiento de sus obligaciones para salvaguardar la legalidad, honradez, imparcialidad y eficiencia que debe observar en el desempeño de su cargo, previstas en esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### Artículo 40.
 
-El Contralor tendrá las siguientes atribuciones:
+El titular del Órgano Interno de control tendrá las siguientes atribuciones:
 
 I. Diseñar, desarrollar y mantener actualizado el registro de las leyes, acuerdos, reglamentos, manuales, instructivos y en general de todas las normas a las que deba sujetarse la Comisión; así como, controlar, fiscalizar e inspeccionar su cumplimiento;
 
@@ -603,7 +627,9 @@ VIII. Recibir y atender las quejas y denuncias en contra de los servidores públ
 
 IX. Presentar las denuncias que correspondan ante el Ministerio Público;
 
-X. Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores públicos de la Comisión; así como, verificar y practicar las investigaciones que fueran pertinentes de conformidad con la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios y las disposiciones reglamentarias aplicables;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+X. Recibir y registrar las declaraciones que deban presentar los servidores públicos de la Comisión, con excepción de sus declaraciones que serán entregadas al Consejo; así como, verificar y practicar las investigaciones que fueran pertinentes de conformidad con la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo y las disposiciones reglamentarias aplicables;
 
 XI. Intervenir en la entrega y recepción de las distintas áreas de la Comisión; y,
 
@@ -895,7 +921,9 @@ VI. Remitir por acuerdo del Presidente, a los organismos públicos de Derechos H
 
 VII. Informar a los quejosos el estado procesal de las quejas, en coordinación con los Visitadores Regionales;
 
-VIII. Turnar al Contralor Interno las quejas presentadas contra los servidores públicos de la Comisión; y,
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+VIII. Turnar al titular del Órgano Interno de Control las quejas presentadas contra los servidores públicos de la Comisión; y,
 
 IX. Las demás que le otorguen la Ley y el Reglamento.
 
@@ -1171,7 +1199,9 @@ Son causas de sanción:
 
 I. Cuando derivado de una queja presentada en contra de un servidor público de la Comisión, se declare la violación a los Derechos Humanos de los ciudadanos;
 
-II. Cuando derivado de las revisiones efectuadas por la Contraloría Interna, se determine que existen actos u omisiones que impliquen abuso, negligencia o ejercicio indebido en el desempeño del empleo, cargo o comisión;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+II. Cuando derivado de las revisiones efectuadas por el Órgano Interno de Control, se determine que existen actos u omisiones que impliquen abuso, negligencia o ejercicio indebido en el desempeño del empleo, cargo o comisión;
 
 III. Cuando no se promueva la conciliación entre el quejoso y los servidores públicos presuntamente responsables de la violación de los Derechos Humanos, cuando ésta sea posible y no se trate de violaciones graves;
 
@@ -1191,23 +1221,11 @@ X. Dejar de cumplir, durante el ejercicio del cargo, con alguno de los requisito
 
 XI. Las demás que le señale la ley.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
 ###### Artículo 84.
 
-El Contralor interno, instaurará el procedimiento previsto en la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios; cuando los servidores públicos de la Comisión, incurran en alguna de las causales a que hace mención el artículo anterior y podrá imponerse:
-
-I. Apercibimiento;
-
-II. Amonestación;
-
-III. Suspensión del empleo por un período no menor de tres días, ni mayor a tres meses;
-
-IV. Sanciones económicas;
-
-V. Destitución; y,
-
-VI. Inhabilitación de uno a seis años para el ejercicio de empleos, cargos o comisiones en el servicio público.
-
-Tratándose del Presidente en todos los casos se dará vista al Congreso.
+El titular del Órgano Interno de Control, instaurará el procedimiento previsto en la Ley que regula la materia de responsabilidades de los servidores públicos; cuando los servidores públicos de la Comisión, incurran en alguna de las causales a que hace mención el artículo anterior e impondrá las sanciones que señale la misma Ley.
 
 ## TÍTULO TERCERO. PROCEDIMIENTO ANTE LA COMISIÓN
 
@@ -1449,15 +1467,17 @@ Ninguna autoridad o servidor público dará instrucciones a la Comisión, con mo
 
 ### CAPÍTULO SEXTO. FE PÚBLICA E INCOMPATIBILIDADES
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
 ###### Artículo 123.
 
-El Presidente, los Visitadores Regionales, los Visitadores Auxiliares, el Secretario Ejecutivo, el Coordinador de Orientación Legal, Quejas y Seguimiento y el Contralor Interno, tendrán fe pública en sus actuaciones para certificar la veracidad de los hechos en relación con las quejas, inconformidades, declaraciones y demás documentos presentados ante la Comisión.
+El Presidente, los Visitadores Regionales, los Visitadores Auxiliares, el Secretario Ejecutivo, el Coordinador de Orientación Legal, Quejas y Seguimiento y el titular del Órgano Interno de Control tendrán fe pública en sus actuaciones para certificar la veracidad de los hechos en relación con las quejas, inconformidades, declaraciones y demás documentos presentados ante la Comisión.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### Artículo 124.
 
-Las funciones del Presidente, de los Visitadores Regionales y Auxiliares, del Secretario Ejecutivo, del Coordinador de Orientación Legal, Quejas y Seguimiento, del Coordinador de Estudios, Divulgación y Capacitación de los Derechos Humanos, de los Subcoordinadores, del Contralor Interno y la Coordinación Administrativa serán incompatibles con el ejercicio de cualquier otro empleo, cargo o comisión en el sector público, partidos u organizaciones políticas, excepción hecha de los de instrucción y beneficencia siempre y cuando no interfieran con el horario de labores de la Comisión, tampoco podrán desempeñarse como ministro de culto religioso.
-
-También tienen incompatibilidad para servir durante su encargo como abogados, procuradores, árbitros o asesores, si no es en negocios propios o de su familia.
+Las funciones del Presidente, de los Visitadores Regionales y Auxiliares, del Secretario Ejecutivo, del Coordinador de Orientación Legal, Quejas y Seguimiento, del Coordinador de Estudios, Divulgación y Capacitación de los Derechos Humanos, de los Subcoordinadores, del titular del Órgano Interno de Control y la Coordinación Administrativa serán incompatibles con el ejercicio de cualquier otro empleo, cargo o comisión en el sector público, partidos u organizaciones políticas, excepción hecha de los de instrucción y beneficencia siempre y cuando no interfieran con el horario de labores de la Comisión, tampoco podrán desempeñarse como ministro de culto religioso.
 
 ## TÍTULO CUARTO. AUTORIDADES Y SERVIDORES PÚBLICOS
 
@@ -1530,3 +1550,15 @@ P.O. 21 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 342.- SE REFORMAN LOS ARTÍCULOS 75 Y 77 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE JULIO DE 2018.
+
+> <small>[N. DE E. TRANSITORIOS POR LOS QUE “SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 12, LAS FRACCIONES XV Y XVI DEL ARTÍCULO 34, LOS ARTÍCULOS 36, 37, 38, 39, LA FRACCIÓN X DEL ARTÍCULO 40, LA FRACCIÓN VIII DEL ARTÍCULO 60, LA FRACCIÓN II DEL ARTÍCULO 83, LOS ARTÍCULOS 84, 123 Y 124; Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 19 Y LA FRACCIÓN XXI DEL ARTÍCULO 27, DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO”.]</small>
+
+PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Consejo General de (sic) Instituto Electoral de Michoacán; el Pleno del Tribunal Electoral del Estado de Michoacán; el Pleno del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y el Consejo de la Comisión Estatal de Derechos Humanos, contarán con sesenta días naturales a partir de la entrada en vigor del presente Decreto para remitir al Congreso el listado, acompañado del expediente debidamente foliado y pormenorizado de los cinco aspirantes mejores evaluados, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos, el examen practicado y su resultado, para que el Congreso designe a quien deba ocupar el cargo de titular del Órgano Interno de Control.
+
+El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
+
+TERCERO. El Poder Judicial del Estado de Michoacán; el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
