@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2018-04-02"
+last_updated: "2018-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -1139,19 +1139,25 @@ APARTADO PRIMERO
 
 DE LA NATURALEZA DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 46.
 
-El Órgano Interno de Control del Instituto tendrá a su cargo la fiscalización de los ingresos y egresos, así como de conocer de las responsabilidades de los servidores públicos del Instituto; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+La Contraloría es el Órgano de Control Interno del Instituto que tendrá a su cargo la fiscalización de los ingresos y egresos, asi como de conocer de las responsabilidades de los servidores públicos del Instituto; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
 
-El titular del Órgano Interno de Control será nombrado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cuatro años y podrá ser reelecto por una sola vez; estará adscrito administrativamente a la Presidencia del Consejo General.
+En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia. El titular de la Contraloría será nombrado por el voto de las dos terceras partes de los diputados del Congreso, durará en su encargo cinco años y no podrá ser reelecto, estará adscrito administrativamente a la Presidencia del Consejo General.
 
-El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular.
+El Consejo General realizará la evaluación de los aspirantes, se integrará y enviará al Congreso la propuesta mediante el procedimiento siguiente:
 
-(NOTA: EL 29 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2017 Y SU ACUMULADA 57/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+I. Publicará convocatoria abierta en el Periódico Oficial, en su portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
 
-EL TITULAR DEL ÓRGANO INTERNO DE CONTROL PODRÁ SER SANCIONADO CONFORME A LOS TÉRMINOS DE LA NORMATIVIDAD EN MATERIA DE RESPONSABILIDAD DE SERVIDORES PÚBLICOS. EL CONGRESO DEL ESTADO RESOLVERÁ SOBRE LA APLICACIÓN DE LAS SANCIONES, INCLUIDA ENTRE ESTAS LA REMOCIÓN, POR CAUSAS GRAVES DE RESPONSABILIDAD ADMINISTRATIVA, DEBIENDO GARANTIZAR EL DERECHO DE AUDIENCIA AL AFECTADO. LA REMOCIÓN REQUERIRÁ DEL VOTO DE LAS DOS TERCERAS PARTES DE LOS MIEMBROS PRESENTES.
+II. Los nombres de los aspirantes registrados serán publicados en el portal de internet y en un diario de circulación estatal, a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa, formule y haga llegar al Consejo General observaciones sobre los participantes, acompañando las pruebas que acrediten su dicho;
+
+III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Consejo General, la cual consistirá en exámenes, escritos u orales sobre los aspectos relacionados con la materia del cargo a que aspira, considerando problemas y normativa;
+
+IV. El Consejo General garantizará que quienes evalúen el examen, no conozcan la identidad del aspirante evaluado; y,
+
+V. El Consejo General remitirá al Congreso la lista, acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso designe de entre los cinco mejor evaluados.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -1159,13 +1165,27 @@ APARTADO SEGUNDO
 
 DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 47.
 
-Para ser titular del Órgano Interno de Control deben reunirse los requisitos que establece la Ley General.
+Para ser Contralor deben reunirse los siguientes requisitos:
 
-El titular del Órgano Interno de Control tendrá el mismo nivel jerárquico equivalente a un Director Ejecutivo.
+(NOTA: EL 30 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2018 Y SU ACUMULADA 69/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Ser mexicano POR NACIMIENTO, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener más de treinta años de edad, el día de la designación;
+
+III. Poseer al día de la designación, con antigüedad mínima de cinco años, título de licenciatura y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+V. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
+
+VI. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación; y,
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -1465,13 +1485,21 @@ IX. Definir, acatando las políticas y lineamientos establecidos por el Congreso
 
 X. Conocer y aprobar el proyecto de presupuesto del Tribunal;
 
-XI. Designar al Secretario General del Tribunal, a los secretarios proyectistas y a los demás funcionarios del Tribunal;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+XI. Designar al Secretario General del Tribunal, a los secretarios proyectistas y a los demás funcionarios del Tribunal con excepción del titular del Órgano Interno de Control;
 
 XII. Conceder a los magistrados electorales licencias temporales para ausentarse de su cargo sin goce de sueldo;
 
-XIII. Resolver de manera definitiva los medios de impugnación de su competencia; y los procedimientos sancionadores que le sean remitidos por el Instituto; y,
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
 
-XIV. Las demás que le otorgue el presente Código y otras disposiciones legales.
+XIII. Resolver de manera definitiva los medios de impugnación de su competencia; y los procedimientos sancionadores que le sean remitidos por el Instituto;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2018)</small>
+
+XIV. Llevar a cabo el procedimiento para la designación del titular del Órgano Interno de Control; y,
+
+XV. Las demás que le otorgue el presente Código y otras disposiciones legales.
 
 ###### ARTÍCULO 65.
 
@@ -1485,7 +1513,9 @@ III. Presidir las sesiones del Pleno del Tribunal, dirigir los debates y conserv
 
 IV. Turnar a los magistrados, los expedientes que correspondan, para que lleven a cabo la sustanciación del medio de impugnación de que se trate y formulen el proyecto de resolución que deberá ser sometido a la consideración del Pleno;
 
-V. Proponer al Pleno la designación del Secretario General y Secretario proyectista adscrito a la Presidencia y designar al personal administrativo a su cargo;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+V. Proponer al Pleno la designación del Secretario General y Secretario proyectista adscrito a la Presidencia, designar al personal administrativo a su cargo y enviar al Congreso del Estado, la propuesta para designar al titular del Órgano Interno de Control;
 
 VI. Vigilar que se cumplan las determinaciones del Tribunal así como las disposiciones del Reglamento Interior y proveer lo necesario para su cumplimiento;
 
@@ -1588,6 +1618,48 @@ VIII. Expedir las constancias que se requieran;
 IX. Llevar el registro de los criterios jurisprudenciales;
 
 X. Las demás que señale la ley o le indique el Pleno.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+
+ARTÍCULO 69 BIS. El Tribunal contará con un Órgano Interno de Control quien tendrá a su cargo la fiscalización de los ingresos y egresos, así como la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo por responsabilidades de los servidores públicos del Tribunal; en el ejercicio de sus atribuciones estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; así mismo contará con fe pública en sus actuaciones. En el desempeño de su función se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, profesionalismo, exhaustividad y transparencia.
+
+El titular del Órgano Interno de Control será nombrado por el Congreso con el voto de las dos terceras partes de sus miembros presentes, durará en su encargo cinco años y no podrá ser reelecto; estará adscrito administrativamente a la Presidencia del Tribunal.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+
+ARTÍCULO 69 TER. El Pleno realizará la evaluación de los aspirantes e integrará y enviará al Congreso la propuesta mediante el procedimiento siguiente:
+
+I. Publicará convocatoria abierta en el Periódico Oficial, en el portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
+
+II. Los nombres de los aspirantes registrados serán publicados en el portal de internet y en un diario de circulación estatal, a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa, formule y haga llegar al Pleno, observaciones sobre los participantes, acompañando las pruebas que acrediten su dicho;
+
+III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Pleno, la cual consistirá en exámenes, escritos u orales sobre los aspectos relacionados con la materia del cargo a que aspira, considerando problemas y normativa;
+
+IV. El Pleno garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y,
+
+V. El Pleno remitirá al Congreso la lista acompañada del expediente debidamente foliado y pormenorizado de cada aspirante evaluado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso designe de entre los cinco mejor evaluados.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+
+ARTÍCULO 69 QUATER. Para ser Contralor deben reunirse los siguientes requisitos:
+
+I. Ser mexicano por nacimiento, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener más de treinta años de edad, el día de la designación;
+
+III. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+V. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
+
+VI. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación; y,
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación.
+
+El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Pleno a propuesta del Presidente.
+
+El titular del Órgano Interno de Control podrá ser sancionado conforme a los términos de la normatividad en materia de responsabilidad de servidores públicos.
 
 # LIBRO TERCERO. DE LOS PARTIDOS POLÍTICOS
 
@@ -5382,3 +5454,15 @@ P.O. 2 DE ABRIL DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y de conformidad con lo establecido en el artículo 105 fracción II, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 611 POR EL QUE “SE REFORMA EL ARTÍCULO 46, EL ARTÍCULO 47, LAS FRACCIONES XI Y XIII DEL ARTÍCULO 64, LA FRACCIÓN V DEL ARTÍCULO 65; SE ADICIONA UNA FRACCIÓN XIV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 64, LOS ARTÍCULOS 69 BIS, 69 TER Y 69 QUATER DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Consejo General de (sic) Instituto Electoral de Michoacán; el Pleno del Tribunal Electoral del Estado de Michoacán; el Pleno del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y el Consejo de la Comisión Estatal de Derechos Humanos, contarán con sesenta días naturales a partir de la entrada en vigor del presente Decreto para remitir al Congreso el listado, acompañado del expediente debidamente foliado y pormenorizado de los cinco aspirantes mejores evaluados, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos, el examen practicado y su resultado, para que el Congreso designe a quien deba ocupar el cargo de titular del Órgano Interno de Control.
+
+El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
+
+TERCERO. El Poder Judicial del Estado de Michoacán; el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
