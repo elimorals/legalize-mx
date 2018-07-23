@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2017-05-04"
+last_updated: "2018-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -65,29 +65,33 @@ IV. Consejero: Integrante del Consejo;
 
 V. Constitución: Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
-VI. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2018)</small>
 
-VII. Ley: Ley Orgánica del Poder Judicial del Estado de Michoacán;
+VI. Contraloría interna: Órgano de control;
 
-VIII. Magistrado: Integrante del Pleno y titular de alguna de las salas civiles o penales;
+VII. Estado. Estado Libre y Soberano de Michoacán de Ocampo;
 
-IX. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+VIII. Ley: Ley Orgánica del Poder Judicial del Estado de Michoacán;
+
+IX. Magistrado: Integrante del Pleno y titular de alguna de las salas civiles o penales;
+
+X. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+XI. Pleno: Máximo órgano colegiado de carácter jurisdiccional que se integra y funciona con los Magistrados penales y civiles, así como su Presidente;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-X. Pleno: Máximo órgano colegiado de carácter jurisdiccional que se integra y funciona con los Magistrados Penales y Civiles, así como su Presidente;
+XII. Poder Judicial: El Poder Judicial del Estado de Michoacán;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-XI. Poder Judicial: El Poder Judicial del Estado de Michoacán;
+XIII. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia; y,
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
 
-XII. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia; y,
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2017)</small>
-
-XIII. Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelven la apelación y los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento y jueces de ejecución de sanciones.
+XIII. (SIC) Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelven la apelación y los recursos de impugnación contra las resoluciones que dicten los jueces de primera instancia, jueces de control, Tribunal de enjuiciamiento y jueces de ejecución de sanciones.
 
 ###### Artículo 3.
 
@@ -101,9 +105,17 @@ III. Las Salas;
 
 IV. Los Juzgados;
 
-V. Los Tribunales de enjuiciamiento; y,
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
 
-VI. El Centro Estatal de Justicia Alternativa y Restaurativa.
+V. Los Tribunales de enjuiciamiento;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+
+VI. El Centro Estatal de Justicia Alternativa y Restaurativa; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2018)</small>
+
+VII. La Contraloría Interna.
 
 ###### Artículo 4.
 
@@ -1147,9 +1159,11 @@ El Centro Estatal de Justicia Alternativa prestará sus servicios conforme a sus
 
 ### Capítulo Primero. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
 ###### Artículo 84.
 
-La administración, vigilancia y disciplina del Poder Judicial, está a cargo del Consejo, en los términos que establece la Constitución y esta ley. El Consejo posee autonomía técnica y de gestión.
+La administración, vigilancia y disciplina del Poder Judicial, está a cargo del Consejo, en los términos que establece la Constitución y esta Ley. El Consejo posee autonomía técnica y de gestión. El control sobre la fiscalización de los ingresos y egresos estará a cargo de la Contraloría Interna.
 
 ###### Artículo 85.
 
@@ -1505,15 +1519,19 @@ La organización y funcionamiento del Archivo Histórico dependerá del Institut
 
 ### Capítulo Segundo. Contraloría Interna
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
 ###### Artículo 107.
 
-Para auxiliarse en las funciones de control administrativo, el Consejo contará con una Contraloría Interna que tendrá a su cargo la vigilancia, control y evaluación administrativa del Poder Judicial. Igualmente llevará el registro y seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial.
+Para auxiliarse en las funciones de control administrativo, el Consejo contará con una Contraloría Interna que tendrá a su cargo la vigilancia control y evaluación administrativa del Poder Judicial. Igualmente llevará el registro y seguimiento de la situación patrimonial de los servidores públicos del Poder Judicial. Corresponde a la Contraloría vigilar que la administración del presupuesto del Poder Judicial sea eficaz, honesta y ajustada a la normatividad aplicable, informando del resultado de las auditorías y revisiones que practique al Consejo.
 
-Corresponde a la Contraloría vigilar que la administración del presupuesto del Poder Judicial sea eficaz, honesta y ajustada a la normatividad aplicable, informando del resultado de las auditorías y revisiones que practique al Consejo.
+El Reglamento Interior determinará los procedimientos y demás atribuciones que le correspondan al Órgano Interno de Control.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2018)</small>
 
 ###### Artículo 108.
 
-La Contraloría Interna auxiliará a la Comisión de Vigilancia y Disciplina. El Contralor será nombrado por el Consejo, a propuesta de su Presidente, y tendrá las siguientes atribuciones:
+La Contraloría Interna coadyuvará con la Comisión de Vigilancia y Disciplina. El Contralor será designado por el Pleno del Consejo y ratificado por el Congreso con el voto de las dos terceras partes de los diputados presentes, durará en su encargo cinco años y no podrá ser reelecto, será removido en los términos y por las causas previstas en la Constitución y en la normatividad de la materia, estará adscrito administrativamente a la Presidencia y tendrá las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de la normativa administrativa por parte de los servidores públicos del Poder Judicial;
 
@@ -1531,11 +1549,45 @@ VII. Realizar visitas de inspección y vigilancia; y,
 
 VIII. Las demás que le señalen las leyes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 23 DE JULIO DE 2018)</small>
+
+El Consejo realizará la evaluación de los aspirantes, integrará y enviará al Congreso la designación mediante el procedimiento siguiente:
+
+I. Publicará convocatoria abierta en el Periódico Oficial, en su portal de internet y en un diario de circulación estatal que contendrá lugar, fecha, plazos, términos y requisitos para el proceso de selección;
+
+II. Los nombres de los aspirantes registrados serán publicados en su portal de internet y en un diario de circulación estatal a efecto de que cualquier persona, por el término de tres días hábiles, de manera respetuosa formule y haga llegar al Consejo observaciones sobre los participantes, acompañando las pruebas que acrediten su dicho;
+
+III. Los aspirantes deberán someterse a evaluación de eficiencia y competencia, que realizará el Consejo, la cual consistirá en exámenes, escritos u orales sobre los aspectos relacionados con la materia del cargo a que aspira, considerando problemas y normativa;
+
+IV. El Consejo garantizará que quienes califiquen el examen, no conozcan la identidad del aspirante evaluado; y,
+
+V. El Consejo remitirá al Congreso la designación, acompañada del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
 ###### Artículo 109.
 
-Cuando derivado del ejercicio de las funciones de la Contraloría, se presuma la existencia de responsabilidad, informará a la Comisión de vigilancia y Disciplina; ésta dará cuenta, y en su caso, propondrá al Consejo la imposición de sanciones.
+Cuando derivado del ejercicio de las funciones de la Contraloría Interna, se presuma la existencia de responsabilidad, será sancionado de conformidad con la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
 
-El reglamento interior determinará los procedimientos y demás atribuciones que le correspondan a la Contraloría Interna.
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2018)</small>
+
+Artículo 109 bis. Para ser titular del Órgano de Control se deberán cumplir los siguientes requisitos:
+
+(NOTA: EL 30 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2018 Y SU ACUMULADA 69/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Ser mexicano POR NACIMIENTO, estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener más de treinta años de edad, el día de la designación;
+
+III. Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que les permitan el desempeño de sus funciones;
+
+IV. No haber sido condenado por delito doloso;
+
+V. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado;
+
+VI. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación; y,
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación;
 
 ### Capítulo Tercero. Centro de Desarrollo de Tecnologías de Información y Comunicaciones
 
@@ -2240,3 +2292,15 @@ P.O. 4 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 347 POR EL QUE "SE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 2, LA FRACCIÓN I DEL ARTÍCULO 28, LA FRACCIÓN XV DEL ARTÍCULO 48, EL PÁRRAFO SEGUNDO Y CUARTO DEL ARTÍCULO 39; LA FRACCIÓN IX DEL ARTÍCULO 51, LOS ARTÍCULOS 50, 52, 58, 59, 61, 62, 63 Y 100; SE ADICIONA LAS FRACCIONES XII Y XIII AL ARTÍCULO 2, EL ARTÍCULO 39 BIS, UNA FRACCIÓN XVI RECORRIENDO EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 48, UNA FRACCIÓN X RECORRIENDO EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 51; Y SE DEROGA EL ARTÍCULO 60, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 611 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, 84, 107, 108 Y 109; SE ADICIONA UNA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 2 Y EL ARTÍCULO 109 BIS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Consejo General de Instituto Electoral de Michoacán; el Pleno del Tribunal Electoral del Estado de Michoacán; el Pleno del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y el Consejo de la Comisión Estatal de Derechos Humanos, contarán con sesenta días naturales a partir de la entrada en vigor del presente Decreto para remitir al Congreso el listado, acompañado del expediente debidamente foliado y pormenorizado de los cinco aspirantes mejores evaluados, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos, el examen practicado y su resultado, para que el Congreso designe a quien deba ocupar el cargo de titular del Órgano Interno de Control.
+
+El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
+
+TERCERO. El Poder Judicial del Estado de Michoacán, el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
