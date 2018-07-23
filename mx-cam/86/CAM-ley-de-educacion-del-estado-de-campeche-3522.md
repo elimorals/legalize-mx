@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2017-12-08"
+last_updated: "2018-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -220,6 +220,10 @@ XXIX. Procurar que la educación estatal básica, en sus tres niveles, cuente co
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 XXX.- Fomentar la educación y la cultura vial dentro de los programas de estudio de las instituciones públicas y privadas, a fin de enseñar entre los educandos conocimientos, hábitos, valores cívicos y éticos que tengan como finalidad la prevención de accidentes viales.
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2018)</small>
+
+XXXI. Impulsar programas y campañas de difusión tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas y los efectos nocivos que éstas generan en su salud, vida personal y en la sociedad.
 
 ### CAPITULO III. AMBITO DE APLICACION
 
@@ -1430,3 +1434,11 @@ P.O. 8 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
+
+P.O. 23 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 283 POR EL QUE "SE ADICIONA UNA FRACCIÓN XXXI AL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE."]
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2019, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la implementación de los programas y campañas de difusión a que se refiere el presente decreto, la Secretaría de Finanzas del Gobierno del Estado, de requerirse, tomará las previsiones presupuestales necesarias en el ejercicio fiscal 2019.
