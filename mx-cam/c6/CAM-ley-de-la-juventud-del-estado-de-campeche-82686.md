@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2013-12-20"
+last_updated: "2018-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -161,9 +163,11 @@ El Instituto se deberá coordinar con las instancias competentes para brindar lo
 
 El Instituto coadyuvará con las autoridades competentes en la divulgación de información sobre temas de salud de interés para la juventud tales como: adicciones, enfermedades venéreas, nutrición, suicidio, salud pública y comunitaria, entre otros.
 
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2018)</small>
+
 ###### Artículo 9.
 
-El Instituto es responsable de coadyuvar con la difusión de los derechos sexuales y reproductivos de los jóvenes, así como para establecer los mecanismos que permitan el acceso expedito de la juventud a los servicios de información y atención, relacionados con el ejercicio de sus derechos sexuales y reproductivos.
+El Instituto es responsable de coadyuvar con la difusión de los derechos sexuales, reproductivos y de planificación familiar de los jóvenes, así como para establecer los mecanismos que permitan el acceso expedito de la juventud a los servicios de información y atención, relacionados con el ejercicio de sus derechos sexuales y reproductivos, teniendo como objetivo la prevención del embarazo en adolescentes, difundiendo ampliamente información oportuna, eficaz y completa entre los jóvenes sobre los riesgos para la vida y la salud.
 
 #### Sección Quinta. Del fortalecimiento de las identidades juveniles
 
@@ -854,3 +858,11 @@ PRIMERO.- El presente decreto entrará en vigor quince días después de su publ
 SEGUNDO.- La primera encuesta de las que se refiere la fracción XXVI del artículo 44 que se reforma, deberá realizarse en el periodo que no exceda del día 31 de diciembre de 2014, para lo cual se tomarán las previsiones presupuestales necesarias al efecto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 23 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 282 POR EL QUE “SE REFORMA EL ARTÍCULO 9 DE LA LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial el Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
