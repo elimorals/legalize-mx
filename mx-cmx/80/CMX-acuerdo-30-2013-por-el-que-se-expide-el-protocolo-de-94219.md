@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-30-2013-por-el-que-se-expide-el-protocolo-de-94219"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-05-17"
-last_updated: "2013-05-17"
+last_updated: "2018-07-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94219&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,352 +20,316 @@ issue_date: "2013-05-15"
 ---
 # ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACION POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL EN LOS ESPECTACULOS DEPORTIVOS EN LA CIUDAD DE MEXICO "ESTADIO SEGURO", EN COORDINACION CON LA PROCURADURIA GENERAL DE JUSTICIA Y LA SECRETARIA DE PROTECCION CIVIL, AMBAS DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL DEL ESTADO DE MÉXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO 35/2018 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO EN LOS ESPECTÁCULOS DEPORTIVOS "ESTADIO SEGURO", PUBLICADO EN LA G.O. DE 24 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE DICIEMBRE DE 2014.
+ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL EN LOS ESPECTÁCULOS DEPORTIVOS EN LA CIUDAD DE MÉXICO "ESTADIO SEGURO", EN COORDINACIÓN CON LA PROCURADURÍA GENERAL DE JUSTICIA Y LA SECRETARÍA DE PROTECCIÓN CIVIL, AMBAS DEL DISTRITO FEDERAL
 
-Reglamento publicado en la Sección Séptima de la Gaceta del Estado de México, el miércoles 14 de septiembre de 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO DE LA CIUDAD DE MÉXICO: 24 DE JULIO DE 2018 (SIN EFECTOS).
 
-LICENCIADO ENRIQUE PEÑA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 77 FRACCIONES IV, XXVIII, XXXVIII Y XLVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y
+Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el viernes 17 de mayo de 2013.
 
-C O N S I D E R A N D O.
+ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL EN LOS ESPECTÁCULOS DEPORTIVOS EN LA CIUDAD DE MÉXICO "ESTADIO SEGURO", EN COORDINACIÓN CON LA PROCURADURÍA GENERAL DE JUSTICIA Y LA SECRETARÍA DE PROTECCIÓN CIVIL, AMBAS DEL DISTRITO FEDERAL.
 
-En mérito de lo anterior, se expide el siguiente:
+DR. JESÚS RODRÍGUEZ ALMEIDA, Secretario de Seguridad Pública del Distrito Federal con fundamento en los artículos 21, sexto párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 12, fracciones I, IV, VII y VIII, 87 y 115, fracciones II y III, del Estatuto de Gobierno del Distrito Federal; 2°, 7°, 8°, 15, fracción X, y párrafo segundo, 16 fracción IV, y 17 de la Ley Orgánica de la Administración Pública del Distrito Federal; 1°, 3°, 4º, 5º, 6°, 8° fracciones II, III, VI y XVIII, 17, 18, 24, fracciones I, II y III, 37, 38 44, y 45, fracción X de la Ley Orgánica de la Secretaría de Segundad (sic) Pública del Distrito Federal; 1°, 2°, 5º, 7º, 8°, 9°, 16, 17 fracción XIII, 18 y 29 de la Ley de Seguridad Pública del Distrito Federal; y 3º, 8°, fracción II, del Reglamento Interior de la Secretaría de Seguridad Pública del Distrito Federal; y
 
-REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+CONSIDERANDO
 
-### CAPÍTULO I. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+Que la Secretaría de Seguridad Pública del Distrito Federal, rige su actuación por los principios de legalidad, eficiencia, objetividad, profesionalismo, honradez y respeto a los derechos humanos, atento a lo dispuesto en el párrafo noveno del artículo 21 Constitucional y 1º y 2º de la Ley de Seguridad Pública del Distrito Federal, y en cuanto al régimen jurídico de sus elementos, la fracción XIII del apartado B del artículo 123 de la Carta Magna establece que los miembros de las instituciones policiales se regirán por sus propias leyes.
 
-#### Sección Primera. De la competencia y organización de la Coordinación General
+Que los principios de actuación de los cuerpos de seguridad pública, de conformidad con la Ley de Seguridad Pública del Distrito Federal, establecen que los elementos policiales deben observar invariablemente en su actuación, entre otros, el servicio a la comunidad y la disciplina; el respeto a los derechos humanos y a la legalidad, y el orden jurídico; sirviendo con fidelidad y honradez a la sociedad, obedeciendo las órdenes de sus superiores jerárquicos; actuando con decisión y sin demora, a la protección de las personas y sus bienes; observando las normas de disciplina y orden que establezcan las disposiciones reglamentarias y administrativas internas.
 
-###### Artículo 1.
+Que en cumplimiento de las funciones que le competen a la Secretaría de Seguridad Pública del Distrito Federal acorde al marco normativo que la rige, se hace necesario que las corporaciones policiales actúen en forma ordenada y sistematizada en todos sus protocolos, lo que garantiza además del cumplimiento del orden legal y la preservación de los derechos humanos, la implementación del modelo de conducta y actuación uniforme para todo el personal policial lo que mejora sus niveles de eficiencia y eficacia en el desarrollo de la función, y elimina los riesgos de discrecionalidad que pueden derivar en fuente directa del incumplimiento a lo establecido por las leyes o de violación a los derechos humanos.
 
-El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Coordinación General de Comunicación Social.
+Que de acuerdo con la reforma constitucional en materia de Derechos Humanos del año 2011, en especifico, el artículo 1º párrafo tercero, todas las autoridades están obligadas al respeto y garantía de los derechos humanos contenidos en la Constitución, los tratados internacionales pactados por México en esa materia y las leyes que emanen de ella, así como del marco convencional y constitucional, las obligaciones de los servidores públicos en la protección de derechos humanos se amplían conforme al principio pro persona.
 
-###### Artículo 2.
+Que de acuerdo con la Ley de Seguridad Pública del Distrito Federal, en su artículo 2º, la seguridad pública es un servicio cuya prestación, en el marco de respeto a las garantías individuales, corresponde en forma exclusiva al Estado, y tiene por objeto mantener el orden público; proteger la integridad física de las personas, así como de sus bienes; prevenir la comisión de delitos e infracciones a los reglamentos gubernativos y de policía; colaborar en la investigación y persecución de los delitos, y auxiliar en colaboración con las brigadas de protección civil, a la población en casos de siniestros y desastres.
 
-La Coordinación General de Comunicación Social tiene a su cargo el despacho de los asuntos que le encomienda su Acuerdo de creación, los decretos, reglamentos, acuerdos y órdenes que expida el Gobernador del Estado y los demás que le son aplicables en razón de sus atribuciones.
+Que dentro de las obligaciones de la Policía se encuentran las de vigilar y proteger los espacios públicos y de acceso al público en el Distrito Federal, así como los lugares estratégicos para la seguridad pública y de realizar funciones de control, supervisión y regulación del tránsito de personas y vehículos en la vía pública.
 
-Cuando en este ordenamiento se haga referencia a la Coordinación General, se entenderá a la Coordinación General de Comunicación Social y Coordinador General, al Coordinador General de Comunicación Social.
+Que la Ley para Prevenir la Violencia en los Espectáculos Deportivos en el Distrito Federal establece que compete a la Secretaría de Seguridad Pública del Distrito Federal implementar, coordinar, controlar, supervisar y evaluar en coordinación con la Secretaría de Gobierno del Distrito Federal, los operativos de seguridad que se realicen con motivo de la celebración de espectáculos deportivos; monitorear el desarrollo de espectáculos deportivos y disolver en su caso, todo acto de violencia cometido en torno a la celebración de estos; así como prevenir, en coordinación con la Secretaría de Gobierno, los Clubes Deportivos y la Federación o Asociación de pertenencia, los actos de violencia, discriminación e intolerancia cometidos en torno a la Celebración de Espectáculos Deportivos;
 
-###### Artículo 3.
+Que derivado del cumplimiento de las funciones que le competen a la Secretaría de Seguridad Pública del Distrito Federal, se ha elaborado ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL EN LOS ESPECTÁCULOS DEPORTIVOS EN LA CIUDAD DE MÉXICO “ESTADIO SEGURO”, EN COORDINACIÓN CON LA PROCURADURÍA GENERAL DE JUSTICIA Y LA SECRETARÍA DE PROTECCIÓN CIVIL, AMBAS DEL DISTRITO FEDERAL.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Coordinación General contará con un Coordinador General, quien se auxiliará de las unidades administrativas básicas siguientes:
+Que derivado de lo anterior, he tenido a bien expedir el siguiente:
 
-I. Dirección General de Información y de Servicios a Medios de Comunicación.
+ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL EN LOS ESPECTÁCULOS DEPORTIVOS EN LA CIUDAD DE MÉXICO “ESTADIO SEGURO”, EN COORDINACIÓN CON LA PROCURADURÍA GENERAL DE JUSTICIA Y LA SECRETARÍA DE PROTECCIÓN CIVIL, AMBAS DEL DISTRITO FEDERAL.
 
-II. Dirección General de Publicidad.
+Primero. El objeto del presente Acuerdo consiste en establecer el Protocolo de Actuación Policial de la Secretaría de Seguridad Pública del Distrito Federal en los espectáculos deportivos en la Ciudad de México “Estadio Seguro”, en Coordinación con la Procuraduría General de Justicia del Distrito Federal y la Secretaría de Protección Civil, conforme a lo dispuesto en la Ley para Prevenir la Violencia en los Espectáculos Deportivos en el Distrito Federal, la normatividad aplicable en materia de uso de la fuerza y el respeto a los derechos humanos.
 
-III. Dirección General de Seguimiento de Medios e Investigación.
+Segundo. Se expide el Protocolo de Actuación Policial de la Secretaría de Seguridad Pública del Distrito Federal en los espectáculos deportivos en la Ciudad de México “Estadio Seguro”, en Coordinación con la Procuraduría General de Justicia y la Secretaría de Protección Civil, ambas del Distrito Federal, el cual forma parte integrante del presente Acuerdo como Anexo Único.
 
-IV. Dirección General de Mercadotecnia.
+Tercero. Para los efectos del presente Acuerdo y del Protocolo se entenderá por:
 
-V. (DEROGADA, G.G. 5 DE DICIEMBRE DE 2014)
+Barra de apoyo.- Término utilizado en América del Sur, para referirse al grupo organizado, compuesto por aficionados, o hinchas de un determinado deporte, fanáticos, simpatizantes o parciales a un equipo o cuadro, jugador o deportista o selección de un país determinado. Su actuación se caracteriza por el uso de canticos de aliento;
 
-VI. Dirección Regional Valle de México.
+Brigadas de protección civil.- Se refiere al grupo de personas, capacitadas y entrenadas en procedimientos y acciones de protección civil, de acuerdo con el programa interno del estadio. Son personas que generalmente tienen la mayor permanencia dentro de la organización administrativa en el inmueble;
 
-VII. Dirección Regional Zona Oriente.
+Club Deportivo.- Persona moral que tiene por objeto promover y financiar la práctica de un deporte;
 
-VIII. Coordinación Administrativa.
+Conducción.- Es la acción de guiar, seguir, llevar de un lugar a otro, de manera pacífica un grupo de manifestantes cuidando su integridad física, moral y psicológica;
 
-La Coordinación General contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicables.
+Delegaciones.- Las demarcaciones territoriales y los órganos político-administrativos con los que en cada una de aquellas cuenta la Administración Pública del Distrito Federal;
 
-###### Artículo 4.
+Dispositivo.- Forma en que el personal operativo es distribuido sobre el terreno, en grupos o unidades constitutivas y de magnitud adecuada, para poner en práctica una idea de maniobra;
 
-La Coordinación General, sus Direcciones Generales, Direcciones Regionales, Coordinación Administrativa y demás unidades administrativas que la integran, conducirán sus actividades en forma coordinada y programada, con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales, y especiales a su cargo o en los que participen, de acuerdo con la normatividad aplicable.
+Emergencia.- Situación anormal generada por la inminencia o la presencia de un fenómeno perturbador que altera o ponen en peligro la continuidad de las condiciones ordinarias del espectáculo deportivo y de no atenderse puede generar un desastre;
 
-#### Sección Segunda. De las atribuciones del Coordinador General
+Espectáculo deportivo.- Competencia entre deportistas, llevada a cabo conforme a las reglas establecidas para la práctica de esa disciplina deportiva, y realizada en un recinto deportivo con la presencia de espectadores;
 
-###### Artículo 5.
+Espectador.- Persona que asiste a un Recinto Deportivo a presenciar un espectáculo de la misma naturaleza;
 
-El estudio, planeación, trámite y resolución de los asuntos competencia de la Coordinación General, así como su representación legal, corresponden originalmente al Coordinador General, quien para su mejor atención y despacho, podrá delegar sus atribuciones en los servidores públicos subalternos, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de ley, deban ser ejercidas en forma directa por él.
+Esquema de maniobra.- Acciones policiales a seguir a través de una línea de mando jerarquizada;
 
-###### Artículo 6.
+Fenómeno perturbador.- También llamado agente destructivo, son fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico y socio-organizativo, que podría producir un riesgo, emergencia o un desastre;
 
-El Coordinador General tendrá las atribuciones siguientes:
+Federación.- Personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, cuyo ámbito de actuación se desarrolla a nivel estatal y que conforme su objeto social promuevan, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos. Podrán estar compuestas de clubes y/o ligas deportivas;
 
-I. Fijar, dirigir y controlar la política general de la Coordinación General.
+Grupo de Animación.- Grupo de espectadores debidamente registrados por un Club Deportivo o Asociación Deportiva, cuyo objeto es alentar durante el desarrollo de un espectáculo deportivo de la misma naturaleza, al Club Deportivo de pertenencia;
 
-II. Representar legalmente a la Coordinación General con las facultades de un apoderado general para pleitos y cobranzas, en actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que la ejerzan individualmente o conjuntamente. Para actos de dominio requerirá la autorización expresa de la Secretaría de Finanzas, de acuerdo con la legislación vigente.
+Inmediaciones.- Áreas aledañas al Recinto Deportivo que comprende el estacionamiento y áreas contiguas por las que circulan los espectadores para ingresar y abandonar el Recinto Deportivo;
 
-III. Establecer las políticas y estrategias de comunicación social que permitan captar las demandas y necesidades de la sociedad.
+Ley.- A la Ley para Prevenir la Violencia en los Espectáculos Deportivos en el Distrito Federal;
 
-IV. Autorizar las normas y políticas sobre la imagen institucional del Gobierno del Estado.
+Orden General de Operaciones.- Es la orden escrita, en la cual se establecen las responsabilidades de cada unidad policial, en la que se contempla la hora del espectáculo, fecha, lugar, número de asistentes y las estrategias a seguir por parte de la Policía de la Secretaría de Seguridad Pública del Distrito Federal, así como el responsable designado para asumir el mando único;
 
-V. Autorizar las publicaciones y materiales promocionales para la difusión de las acciones gubernamentales.
+Orden público.- Situación o estado de paz y de respeto a la Ley de una comunidad;
 
-VI. Establecer normas, lineamientos y programas para promover la realización de campañas de comunicación social.
+Participantes.- Todo persona que intervenga en un espectáculo deportivo ante los espectadores;
 
-VII. Promover la coordinación y colaboración del Poder Ejecutivo Estatal con los medios de comunicación.
+Policía.- A la Policía del Distrito Federal, integrada por la Policía Preventiva, con todas las unidades y agrupamientos que prevea el Reglamento respectivo, así como por la Policía Complementaria integrada por la Policía Auxiliar, la Policía Bancaria e Industrial y demás que determine el Reglamento correspondiente;
 
-VIII. Coordinar con el apoyo de las dependencias y organismos auxiliares de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación social.
+Procedimiento Sistemático de Operación.- Se refiere al procedimiento escrito específico para un espectáculo deportivo, el cual presenta condiciones de riesgo medio, alto o bajo; en el cuerpo del mismo se consideran el análisis de riesgos, las condiciones de organización del espectáculo, los permisos, trámites y autorizaciones; las actividades de coordinación entre todas las dependencias, instituciones y clubes que participan, las responsabilidades y corresponsabilidades de actuación antes, durante y después de un espectáculo deportivo;
 
-IX. Proponer al Gobernador del Estado, a través de la Secretaría General de Gobierno, iniciativas de ley o decretos, así como proyectos de reglamentos, acuerdos y convenios sobre los asuntos competencia de la Coordinación General, cuando la normatividad así lo establezca.
+Protección Civil.- Conjunto de disposiciones, planes, programas, medidas y acciones, destinados a salvaguardar la vida de los asistentes al estadio, incluyendo la participación de las autoridades en acciones de prevención, auxilio y recuperación ante la presencia de fenómenos perturbadores de origen natural o antropogénico que representen un riesgo;
 
-X. Aprobar los programas anuales de actividades y los anteproyectos de presupuesto de egresos de la Coordinación General y disponer las acciones necesarias para su cumplimiento.
+Protocolo.- Protocolo de Actuación Policial de la Secretaría de Seguridad Pública del Distrito Federal en los espectáculos deportivos en el Distrito Federal “Estadio Seguro”, en coordinación con la Procuraduría General de Justicia y la Secretaría de Protección Civil, ambas del Distrito Federal.
 
-XI. Validar la estructura de organización y los manuales administrativos de la Coordinación General y someterlos a la autorización de la Secretaría de Finanzas.
+Punto Estratégico.- Lugar con determinada importancia, que permita tener capacidad de reacción de manera eficaz ante cualquier eventualidad;
 
-XII. Establecer normas, lineamientos, criterios y demás instrucciones de carácter técnico que permitan el cumplimiento de las atribuciones de la Coordinación General y de las unidades administrativas bajo su adscripción.
+Recinto Deportivo.- Instalación abierta al público a la que acuden espectadores con objeto de presenciar un espectáculo deportivo, organizado por una persona física o moral, de conformidad con la Ley para la celebración de Espectáculos Públicos del Distrito Federal, a cambio de una contraprestación económica; y
 
-XIII. Promover la modernización administrativa, mejora regulatoria, gestión de la calidad y transparencia de los trámites y servicios de la Coordinación General.
+Seguridad.- Conjunto de acciones, métodos, principios, técnicas y tácticas para la reducción de riesgos, que brinda el Estado por medio de los cuerpos policiales.
 
-XIV. Suscribir acuerdos, convenios y contratos con los sectores público, social y privado en las materias competencia de la Coordinación General y disponer las acciones para su ejecución.
+Cuarto. Para la implementación de acciones para brindar seguridad al interior y exterior de los Estadios, se deberán aplicar los principios siguientes:
 
-XV. Acordar con el Gobernador del Estado el nombramiento, licencia y remoción de los servidores públicos de mando superior de la Coordinación General y resolver, en el ámbito de su competencia, lo relativo al ingreso, nombramiento y promoción de los demás servidores públicos.
+a) Corresponsabilidad entre las autoridades involucradas;
 
-XVI. Integrar comités y grupos de trabajo necesarios para el cumplimiento de los programas institucionales y designar a los servidores públicos que participarán en aquéllos en los que la Coordinación General sea parte.
+b) Garantizar la seguridad de los espectadores, titulares y participantes en la celebración del espectáculo deportivo;
 
-XVII. Someter al acuerdo del Gobernador del Estado los asuntos a su cargo que requieran de su intervención e informarle sobre el desempeño de la Coordinación General.
+c) Respeto a las ideas, creencias o prácticas de los demás cuando son diferentes o contrarias a las propias; y
 
-XVIII. Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera y mantenerlo informado sobre su desarrollo y cumplimiento.
+d) Deberá de prevalecer el interés público.
 
-XIX. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellas que le sean señalados por delegación o los que le correspondan por suplencia.
+Quinto. Para el diseño de planes, procedimientos sistemáticos de operación y estrategias operativas, que se deberán aplicar conforme a lo dispuesto en Capítulo II denominado Orden General de Operaciones del presente Protocolo, tomando en consideración la clasificación del espectáculo deportivo, los posibles factores de riesgo conforme a la normatividad vigente del respeto a los derechos humanos, así como estricto apego a las disposiciones en materia del uso de la fuerza pública.
 
-XX. Expedir constancias y copias certificadas de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
+Sexto. Para llevar a cabo el plan y la estrategia operativa, se deberá aplicar lo dispuesto en el Capítulo III denominado Acciones Previas a la Realización del Espectáculo Deportivo, con el objeto de garantizar la llegada de los participantes y asistentes al recinto, así como para prevenir las infracciones administrativas y/o la comisión de un hecho delictivo.
 
-XXI. Resolver, en el ámbito administrativo, las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así los casos no previstos en el mismo.
+Séptimo. Para efectuar el plan y la estrategia operativa a la llegada de los participantes y asistentes al recinto, se deberá aplicar lo dispuesto por el Capítulo IV, denominado Acciones durante el Espectáculo Deportivo, con la finalidad preservar la libertad y la paz pública.
 
-XXII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el titular del Poder Ejecutivo del Estado.
+Octavo. Una vez concluido el espectáculo, con la intención de mantener el orden en el entorno del estadio durante la salida de los asistentes, se deberá aplicar lo dispuesto en el Capítulo V, denominado Acciones al finalizar el espectáculo deportivo, para efecto de restablecer el orden.
 
-### CAPÍTULO II. DE LOS DIRECTORES GENERALES Y DIRECTORES REGIONALES
+Noveno. La Jefatura del Estado Mayor Policial, así como las Subsecretarías de Operación Policial y Control de Tránsito, establecerán los mecanismos para la verificación del cumplimiento del Presente Acuerdo con la participación que corresponda a la Dirección General de Derechos Humanos y la Dirección General de Inspección Policial.
 
-###### Artículo 7.
+## TRANSITORIOS
 
-Al frente de cada Dirección General y de cada Dirección Regional habrá un Director General y un Director Regional, respectivamente, quienes se auxiliarán de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura orgánica, presupuesto y normatividad aplicables.
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-###### Artículo 8.
+SEGUNDO. Se instruye a la Jefatura del Estado Mayor Policial, a las Subsecretarías de Operación Policial, de Control de Tránsito, de Desarrollo Institucional, de Participación Ciudadana y Prevención del Delito, y a la Oficialía Mayor, todas de esta Dependencia, para que en el ámbito de sus atribuciones provean lo necesario para la implementación del presente Acuerdo y la actualización dela (sic) normatividad institucional.
 
-Corresponde a los Directores Generales y a los Directores Regionales:
+Dado en la sede de la Secretaría de Seguridad Pública del Distrito Federal el día quince de mayo de dos mil trece.
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar las tareas encomendadas a la unidad administrativa a su cargo.
+EL SECRETARIO DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-II. Acordar con el Coordinador General el despacho de los asuntos a su cargo que requieran de su intervención.
+(Firma)
 
-III. Formular y proponer al Coordinador General los programas anuales de actividades y los anteproyectos de presupuesto de la unidad administrativa a su cargo y disponer las acciones necesarias para su cumplimiento.
+DR. JESÚS RODRÍGUEZ ALMEIDA
 
-IV. Elaborar, actualizar y aplicar, en el ámbito de su competencia, los reglamentos, manuales administrativos y demás disposiciones que rijan a la Coordinación General.
+PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL EN LOS ESPECTÁCULOS DEPORTIVOS EN LA CIUDAD DE MÉXICO "ESTADIO SEGURO", EN COORDINACIÓN CON LA PROCURADURÍA GENERAL DE JUSTICIA Y LA SECRETARÍA DE PROTECCIÓN CIVIL, AMBAS DEL DISTRITO FEDERAL.
 
-V. Suscribir, previo acuerdo del Coordinador General, acuerdos y convenios en las materias de su competencia e informarle sobre su cumplimiento.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-VI. Emitir los dictámenes, opiniones, estudios, proyectos e informes que les sean solicitados por el Coordinador General o los que les correspondan en razón de sus atribuciones.
+El presente Protocolo es de observancia general y obligatoria para los integrantes de la Policía del Distrito Federal, en Coordinación con la Procuraduría General de Justicia y la Secretaría de Protección Civil, ambas del Distrito Federal, con el objeto de determinar reglas y mecanismos que permitan garantizar, que con motivo del desarrollo de espectáculos deportivos, no se altere el orden público, ni se ponga en riesgo la integridad física de los participantes y espectadores.
 
-VII. Proporcionar, en el ámbito de su competencia, la información, datos y apoyo técnico que les sea requerido.
+### CAPÍTULO II. ORDEN GENERAL DE OPERACIONES
 
-VIII. Promover la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios a su cargo.
+Para el ejercicio de sus atribuciones la Policía del Distrito Federal, diseñará los planes, procedimientos sistemáticos de operación y estrategias operativas a seguir, que permitan garantizar la seguridad pública antes, durante y después de la celebración del espectáculo deportivo.
 
-IX. Someter a la consideración del Coordinador General el ingreso, licencia, promoción y remoción del personal de la unidad administrativa a su cargo, de conformidad con las disposiciones aplicables.
+En la elaboración de la Orden General de Operaciones, se establecerá la coordinación que corresponda, tanto para la operatividad como para la captación de información, tomando en consideración a las distintas autoridades, entre las que se encuentran: la Secretaría de Gobierno, Consejería Jurídica y de Servicios Legales, Procuraduría General de Justicia, Secretaría de Protección Civil, todas las anteriores del Gobierno del Distrito Federal, el Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, la Secretaría de Seguridad Pública del Distrito Federal, a través del Centro Computarizado de Control Vial y Puesto de Mando, la Jefatura del Estado Mayor Policial, la Dirección General de Enlace Institucional, la Subsecretaría de Operación Policial, la Subsecretaría de Control de Tránsito, las Direcciones Generales de Policía, la Subsecretaría de Participación Ciudadana y Prevención del Delito, la Dirección General de Derechos Humanos, la Dirección General de Operación de Tránsito, la Subsecretaría de Información e Inteligencia Policial, la Dirección General de Inteligencia Policial, la Dirección General de Asuntos Jurídicos y las Delegaciones Políticas del Distrito Federal; además, los Clubes Deportivos involucrados y su Federación o Asociación de pertenencia.
 
-X. Delegar, previa autorización del Coordinador General, sus atribuciones en unidades administrativas a su cargo, a fin de mejorar los trámites y servicios de su competencia.
+En la elaboración de la Orden General de Operaciones, también se tomará en consideración los apoyos necesarios a petición expresa del organizador del espectáculo deportivo y los grupos de animación o barras de apoyo futbolístico.
 
-XI. Coordinar sus actividades con los titulares de las demás unidades administrativas de la Coordinación General, cuando la ejecución de los programas, proyectos y acciones así lo requieran.
+Con el objeto de diseñar los planes, procedimientos sistemáticos de operación y estrategias, se llevarán a cabo reuniones interinstitucionales presididas por la Jefatura del Estado Mayor Policial y las Subsecretarías de Operación Policial, Control de Tránsito, así como la Direcciones Generales de Policía Metropolitana, de Zona, de Policías Complementarias o Mandos Designados, que permitan identificar el tipo de espectáculo deportivo, para ello estos se clasificarán en:
 
-XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les correspondan por delegación o suplencia.
+I. Riesgo Alto;
 
-XIII. Desempeñar las comisiones y atender los asuntos que les encomiende el Coordinador General y mantenerlo informado sobre su desarrollo y cumplimiento.
+II. Riesgo Medio, y
 
-XIV. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones en materia de transparencia y acceso a la información pública.
+III. Riesgo Bajo.
 
-XV. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten.
+Para determinar el tipo de riesgo se considerarán los siguientes factores:
 
-XVI. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se trate de asuntos relacionados con sus atribuciones.
+I. Ubicación geográfica del recinto;
 
-XVII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Coordinador General.
+II. Infraestructura con la que cuenta;
 
-### CAPÍTULO III. DE LAS UNIDADES ADMINISTRATIVAS DE LA COORDINACIÓN GENERAL
+III. Número máximo autorizado de ingreso de personas;
 
-###### Artículo 9.
+IV. Horario del espectáculo deportivo;
 
-Corresponde a la Dirección General de Información y de Servicios a Medios de Comunicación:
+V. Características de los participantes y asistentes, y
 
-I. Integrar, procesar y proporcionar información a los medios de comunicación sobre las actividades que realizan las dependencias y organismos auxiliares del Poder Ejecutivo Estatal.
+VI. Antecedente histórico de enfrentamientos previos.
 
-II. Fomentar el libre ejercicio de la prensa en el Estado y promover el respeto a la actividad periodística de los medios de comunicación impresos, radiofónicos, televisivos y demás relativos.
+Una vez identificado el tipo de espectáculo, se establecerán las líneas de acción y decisión que consisten en utilizar las técnicas y tácticas policiales, es decir, los dispositivos de vigilancia, seguridad, regulación del tránsito vehicular, el control de estacionamiento en las vías de acceso e inmediaciones del estadio; todo lo anterior, para dar cumplimiento a la misión relativa a garantizar la integridad física y patrimonial de los participantes y espectadores del espectáculo deportivo.
 
-III. Aplicar y vigilar el cumplimiento de las normas y lineamientos en materia de comunicación, de conformidad con los objetivos y estrategias estatales en la materia.
+Asimismo, se determinará el número de personal operativo para cada unidad de policía; asignando el equipamiento necesario de acuerdo a sus funciones, tomando en consideración para su realización, la Ley que Regula el Uso de la Fuerza de los Cuerpos de Seguridad Pública del Distrito Federal, su Reglamento y demás normatividad aplicable.
 
-IV. Apoyar a las dependencias y organismos auxiliares del Poder Ejecutivo Estatal, en la elaboración de comunicados oficiales para prensa, radio y televisión.
+En la Orden General de Operaciones, se contempla un esquema de maniobra, implementado por el Subsecretario de Operación Policial o Mando Designado, al cual quedarán subordinadas todas las unidades operativas y de servicios participantes; asimismo, organizará, coordinará y supervisará todas las acciones policiales, manteniendo una estrecha comunicación con las autoridades del Gobierno del Distrito Federal participantes y los Organizadores del Espectáculo Deportivo, a fin de que las actividades se desarrollen conforme a la naturaleza del espectáculo.
 
-V. Elaborar documentos informativos sobre las actividades gubernamentales, así como coordinar la producción de materiales audiovisuales y determinar su distribución entre los medios de comunicación.
+De acuerdo a la clasificación del tipo de espectáculo deportivo, se establecerá el Centro de Mando Móvil o Fijo, identificando las zonas de seguridad, puntos estratégicos en los que se ubicarán equipos de trabajo, considerando las vialidades, zonas e inmuebles que se consideren vulnerables y que puedan significar un riesgo para los participantes y asistentes, así como para las acciones establecidas en la Orden General de Operaciones, lo anterior con el fin atender de manera oportuna cualquier eventualidad.
 
-VI. Reseñar sucesos relevantes que se susciten en el Estado, a fin de mantener informada a la población.
+### CAPÍTULO III. ACCIONES PREVIAS A LA REALIZACIÓN DEL ESPECTÁCULO DEPORTIVO
 
-VII. Fortalecer las relaciones entre el Gobierno del Estado y los medios de comunicación, a fin de difundir el quehacer del Poder Ejecutivo Estatal.
+La Subsecretaria de Control de Tránsito, tendrá la responsabilidad de realizar las acciones pertinentes para garantizar la seguridad física y el pronto arribo de los participantes de acuerdo a los siguientes supuestos:
 
-VIII. Integrar y resguardar el acervo documental generado por la cobertura informativa de las actividades de la administración pública estatal.
+I. Aeropuerto-Hotel;
 
-IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+II. Hotel-Recinto deportivo;
 
-###### Artículo 10.
+III. Recinto deportivo-Hotel;
 
-Corresponde a la Dirección General de Publicidad:
+IV. Hotel-Aeropuerto;
 
-I. Formular, ejecutar y evaluar programas, proyectos y estudios de publicidad.
+V. Hotel-Destino Carretero;
 
-II. Programar los servicios de comunicación necesarios para difundir las actividades del Poder Ejecutivo Estatal.
+VI. Recinto deportivo-Aeropuerto;
 
-III. Programar el desarrollo de las campañas de difusión de las dependencias y organismos auxiliares de la administración pública estatal.
+VII. Recinto deportivo-Destino Carretero;
 
-IV. Establecer mecanismos administrativos y operativos para mantener en óptimas condiciones la comunicación exterior destinada a difundir la acción gubernamental.
+VIII. Arribo Carretero-Hotel;
 
-V. Promover y, en su caso, realizar investigaciones en materia de comunicación social.
+IX. Arribo Carretero-Recinto deportivo.
 
-VI. Coordinar la instalación y mantenimiento de estructuras metálicas que difundan mensajes de acción de los programas gubernamentales, conforme a las disposiciones legales y reglamentarias en la materia.
+Una vez que se conozca el itinerario de los participantes, así como el número de vehículos a escoltar, se establecerá la ruta principal, alterna y de emergencia, en coordinación con las distintas Direcciones de Operación Vial involucradas en la conducción.
 
-VII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+La Subsecretaría de Operación Policial, a través de la Dirección General de la Policía Metropolitana, tendrá la responsabilidad de garantizar la seguridad en el traslado de los participantes del espectáculo, en los supuestos referidos con anterioridad.
 
-###### Artículo 11.
+Se asignarán células de rastreo preventivo, para la detección de artefactos explosivos en el interior e inmediaciones del recinto deportivo.
 
-Corresponde a la Dirección General de Seguimiento de Medios e Investigación:
+La Subsecretaría de Control de Tránsito, establecerá personal o grúas para el retiro o sanción de vehículos que incurran en infracciones administrativas, tanto en las vías de acceso como en las inmediaciones del recinto deportivo.
 
-I. Planear, organizar y coordinar la aplicación de encuestas y sondeos entre la población del Estado, a fin de conocer la tendencia de opinión respecto de los programas del quehacer gubernamental.
+La Dirección General de Policía de Proximidad responsable, implementará el dispositivo de seguridad, días previos al espectáculo y durante el mismo; con la finalidad de detectar y evitar la reventa de boletos en las inmediaciones del recinto deportivo; lo anterior, de conformidad con la normatividad aplicable.
 
-II. Realizar el análisis y evaluación de la información que emitan los medios de comunicación, la sociedad y los servidores públicos responsables de los programas gubernamentales.
+En la concentración de los grupos de animación o barras de apoyo, la Policía del Distrito Federal realizará las revisiones pertinentes con la finalidad de evitar que porten: Armas de fuego o aparentes, objetos contundentes, metales o maderas con punta o filo, punzantes, cortantes, punzocortantes, palos de madera o metal, spray, petardos, bombas de humo, clavos, ácidos corrosivos, marcadores de tinta permanente, papel picado o cualquier otro tipo de objeto que por su material, forma y composición sea considerado como un instrumento, aparato, máquina o artefacto, que pueda causar daño físico y pueda poner en riesgo la seguridad e integridad física de los espectadores y participantes, así como bebidas embriagantes, estupefacientes o psicotrópicos.
 
-III. Realizar de manera conjunta con otras áreas de comunicación, encuestas y sondeos respecto de los compromisos en materia de información del quehacer gubernamental.
+Con el objeto de controlar y vigilar la concentración de un grupo de animación en su desplazamiento, ya sea de origen a destino, la Policía del Distrito Federal coordinará con los representantes o líderes de cada uno de los grupos, evitando que se trasladen en los toldos y ventanas de los vehículos, manteniendo las puertas cerradas, con el objeto de brindar en todo momento protección a la integridad personal, así como de los bienes muebles e inmuebles en las zonas por las cuales transiten, manteniendo el orden del contingente, evitando que desciendan del transporte y ocasionen asentamientos o interrupciones viales.
 
-IV. Establecer criterios y técnicas para analizar y evaluar los programas de comunicación y la información, a fin de mejorar las estrategias de comunicación institucional del Gobierno del Estado.
+Ante la eventualidad de la decisión de los grupos de animación o barras de apoyo de descender del vehículo para continuar el trayecto a pie hacia su destino, se aplicará lo previsto en el Protocolo de Control de Multitudes en su Capítulo III, denominado Conducción de Multitudes.
 
-V. Monitorear, captar y analizar la información que difundan los medios de comunicación masiva sobre las actividades del titulardel (sic) Ejecutivo Estatal, así como de las dependencias y organismos auxiliares.
+En la conducción y de acuerdo al número de integrantes de los grupos de animación o barras de apoyo, participarán los mandos de las Unidades de Policía involucradas, tomando en consideración el equipamiento, capacitación y cantidad de policías, en función del tipo de espectáculo.
 
-VI. Elaborar y entregar oportunamente al Gobernador del Estado y a los titulares de las dependencias, una síntesis informativa de las acciones relevantes.
+La Subsecretaría de Control de Tránsito, agilizará las vías de acceso realizando los cortes viales pertinentes para el traslado de los grupos de animación o barras de apoyo, desde su origen a su destino, previamente con conocimiento de cuales serán los accesos y salidas del recinto deportivo.
 
-VII. Identificar información relativa a problemas que plantea la sociedad a través de los medios de comunicación y canalizarla para su atención.
+De igual forma se establecerá el dispositivo de seguridad y vigilancia en las entradas y salidas de las estaciones del Sistema de Transporte Colectivo Metro, Transportes Eléctricos, Metrobus y CETRAM, principalmente las que se encuentran próximas al recinto deportivo, coordinando las acciones con las autoridades de dichos sistemas de transporte público.
 
-VIII. Integrar y mantener para su consulta, el acervo documental con información generada por las dependencias del Poder Ejecutivo Estatal, así como la recopilada a través de notas periodísticas, radiofónicas y televisivas.
+La Subsecretaría de Control de Tránsito, de acuerdo a la afluencia de arribo de espectadores por los distintos medios de transporte, implementará dispositivos de vialidad para regular el tránsito peatonal y vehicular, sobre todo en los horarios próximos al inicio del espectáculo deportivo.
 
-IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+Se establecerá el Puesto de Mando en un área segura y de fácil acceso, visible para todas las autoridades involucradas. En donde también se ubicará al Juzgado Cívico y a las unidades móviles del Ministerio Público, así como los servicios de emergencias especializados.
 
-###### Artículo 12.
+La Policía de Proximidad y Policía Metropolitana establecerán personal y vehículos en los puntos de concentración previa de los grupos de animación o barras de apoyo, como pueden ser de manera enunciativa mas no limitativa: Estaciones del Sistema de Transporte Colectivo Metro, planteles escolares o en cualquier otro lugar que se designe, debiendo diseñar las rutas de origen y destino, manteniendo las vialidades expeditas y utilizando las vías primarias de acceso controlado.
 
-Corresponde a la Dirección General de Mercadotecnia:
+En los casos en que durante la conducción, el mando designado identifique alguna persona con actitud agresiva se dará la orden de ingresar al contingente encauzando y separando del grupo de animación o barra de apoyo a las personas con dicha actitud, como medida de prevención para proteger su integridad personal.
 
-I. Diseñar y proponer al Coordinador Generalla (sic) imagen institucional del Gobierno del Estado.
+Si las personas en actitud agresiva cometieron un acto ilícito o infracción administrativa, los policías detendrán a los probables responsables y se coordinará su inmediata puesta a disposición ante la autoridad correspondiente y activarán los servicios de emergencia para el caso en que haya lesionados o siniestro.
 
-II. Formular proyectos y programas para difundir la imagen institucional del Gobierno del Estado y promover su cumplimiento.
+Ante la ocurrencia de un fenómeno perturbador, el policía informará de inmediato a través de las frecuencias operativas autorizadas o cualquier medio a su alcance, la situación de la emergencia, solicitando el apoyo necesario de los equipos especializados, en coordinación con los equipos de la Procuraduría General de Justicia y la Secretaría de Protección Civil, ambas del Distrito Federal.
 
-III. Realizar el diseño gráfico de materiales promocionales e informativos para difundir la acción gubernamental.
+En caso de enfrentamientos, riñas colectivas e incidentes, se actuará conforme al Protocolo de Actuación Policial para el Control de Multitudes en su Capítulo VI, denominado “Restablecimiento del Orden Público”.
 
-IV. Apoyar la realización de investigaciones, así como la selección, diseño y producción de materiales impresos y audiovisuales para divulgar los valores históricos y culturales que constituyen la identidad estatal.
+Para la realización de las acciones previamente descritas, se mantendrá de forma permanente en comunicación y monitoreo con el Centro de Atención a Emergencias y Protección Ciudadana, el Centro Computarizado de Control Vial y Puesto de Mando.
 
-V. Diseñar y promover estrategias de comunicación para los medios e instrumentos informativos de los programas gubernamentales.
+### CAPÍTULO IV. ACCIONES DURANTE EL ESPECTÁCULO DEPORTIVO
 
-VI. Asesorar técnicamente en la elaboración de los materiales impresos y audiovisuales que pretendan emitir las dependencias y organismos auxiliares de la administración pública estatal.
+De acuerdo a la agenda de actividades, el arribo al recinto deportivo del grupo de animación o barra de apoyo, local o visitante se considerarán los horarios designados a cada uno de estos, con la finalidad de que no coincidan en la llegada, y de ser así, se establecerán puntos estratégicos para encausarlos a los accesos designados, coordinando con los responsables de la seguridad interna del inmueble, a efecto de que no alteren el orden público antes, durante y después del espectáculo deportivo.
 
-VII. Elaborar textos para guiones radiofónicos y televisivos sobre programas, obras y servicios gubernamentales.
+Se establecerán los filtros de revisión en los accesos de los estadios, a la que se sujetarán los espectadores previamente a su ingreso, con la finalidad de detectar que traigan consigo:
 
-VIII. Someter a la consideración del Coordinador General los mensajes en las campañas de difusión del quehacer gubernamental, así como los medios de comunicación que podrían utilizarse.
+- Armas de fuego, imitaciones o réplicas, objetos contundentes, cortantes, punzantes o punzocortantes como son: metales o maderas con punta o filo, palos de madera o metal, spray, petardos, bombas de humo, clavos, ácidos corrosivos, marcadores de tinta permanente, papel picado o cualquier otro tipo de objetoque (sic) por su material, forma y composición sea considerado como un instrumento, aparato, máquina o artefacto, que pueda causar daño físico y pueda poner en riesgo la seguridad e integridad de los espectadores y participantes.
 
-IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+- Restringiéndose el acceso a personas en notorio estado de ebriedad o que porten algún estupefaciente o psicotrópico, o se encuentren bajo el influjo de este.
 
-###### Artículo 13.
+Durante el desarrollo de las acciones, se deberá informar en todo momento al mando responsable o designado, las situaciones que prevalecen durante el desarrollo del espectáculo desde el inicio y hasta la conclusión del mismo.
 
-(DEROGADO, G.G. 5 DE DICIEMBRE DE 2014)
+En la implementación de las acciones de seguridad y vialidad, los Directores de Área o Mandos Designados, las realizarán con estricto apego a lo establecido en la Orden General de Operaciones.
 
-###### Artículo 14.
+Para el desarrollo de las acciones contempladas en la Orden General de Operaciones, se implementarán los mecanismos de coordinación con las distintas autoridades del Gobierno del Distrito Federal participantes en el espectáculo.
 
-Corresponde a las Direcciones Regionales, en el ámbito de su competencia:
+El mando designado conforme a su responsabilidad asignada en la Orden General de Operaciones, informará e instruirá a policías participantes en el espectáculo las acciones a seguir para establecer los dispositivos de seguridad con las diferentes formaciones y evoluciones requeridas.
 
-I. Informar a los medios de comunicación de su región, sobre las actividades relevantes que realizan las dependencias y organismos auxiliares del Poder Ejecutivo Estatal.
+La Policía, permanecerá durante los dispositivos; disciplinados, firmes y tolerantes a órdenes del mando en espera de ejecutar las formaciones y evoluciones requeridas, trabajando en equipo y con espíritu de cuerpo.
 
-II. Fomentar el libre ejercicio de la prensa en su región, así como promover el respeto a la actividad periodística en los medios de comunicación impresos, radiofónicos y televisivos.
+La Policía Complementaria, implementará su dispositivo de seguridad al interior del estadio antes, durante y después del arribo de los asistentes, colocando al personal en las zonas estratégicas para encausar la entrada y salida, así como delimitar los grupos de animación o barras de apoyo, con el objeto de evitar las confrontaciones, alteración al orden público y la comisión de un hecho delictivo.
 
-III. Elaborar y distribuir comunicados oficiales para prensa, radio y televisión, sobre las actividades relevantes realizadas en su región por las autoridades estatales.
+Durante el espectáculo, la Policía Complementaria observará e identificará, dentro de los asistentes a personas con actitud agresiva, debiendo informar a su mando inmediato la situación que prevalece.
 
-IV. Reseñar sucesos relevantes que se presenten en su región, a fin de mantener informada a la sociedad y a los medios de comunicación.
+Si las condiciones de actitud agresiva rebasarán la capacidad del Mando asignado de la seguridad interior, se solicitará la intervención de las Unidades de Policía del Distrito Federal participantes, previa autorización del Mando Único, para el restablecimiento del orden público, tal como lo establece el Protocolo de Actuación Policial para el Control de Multitudes.
 
-V. Coadyuvar, en su región, en el cumplimiento de los programas, estudios y proyectos que promuevan las Direcciones Generales y demás unidades administrativas de la Coordinación General.
+Una vez autorizada la intervención de las Unidades de Policía, los Directores de Área o Mando designados ingresarán al recinto deportivo, y previa identificación de las personas en actitud agresiva, encauzarán y separarán del resto de los asistentes como medida de prevención para proteger su integridad personal de espectadores.
 
-VI. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Coordinador General.
+Si las personas en actitud agresiva, cometieran un acto ilícito o infracción administrativa, los policías detendrán a los probables responsables y coordinarán su inmediata puesta a disposición ante la Autoridad competente y en los casos que con motivo de la detención haya lesionados, activarán los servicios de emergencia.
 
-###### Artículo 15.
+De no presentarse ninguna otra eventualidad durante el desarrollo del espectáculo deportivo, se mantendrá el personal en sus áreas de responsabilidad con los dispositivos de seguridad y vialidad, en espera de las órdenes del Mando Único, para coordinar las acciones a seguir una vez que concluya el espectáculo deportivo.
 
-Corresponde a la Coordinación Administrativa:
+En los espectáculos clasificados de riesgo alto y medio, se contemplará la posibilidad de llevar a cabo patrullaje aéreo de seguridad, vialidad, emergencias y de ambulancia, en apoyo al desarrollo de las acciones policiales implementadas en tierra.
 
-I. Planear, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Coordinación General, de acuerdo con la normatividad aplicable.
+### CAPÍTULO V. ACCIONES AL FINALIZAR EL ESPECTÁCULO DEPORTIVO
 
-II. Cumplir y hacer cumplir las normas y políticas en materia de administración de recursos humanos, financieros y materiales.
+Previo a la finalización del encuentro deportivo, el Mando Único ordenará se activen los dispositivos de seguridad y vialidad contemplados en la Orden General de Operaciones; lo anterior, con el objeto de poner en alerta al personal para la salida de los participantes y asistentes.
 
-III. Integrar el anteproyecto de presupuesto de egresos de la Coordinación General, así como someterlo a la consideración de su titular y remitirlo a la Secretaría de Finanzas.
+Una vez terminado el espectáculo se iniciará la contención de los grupos de animación visitantes encausándolos a sus respectivos transportes y por la salida o puerta designada, mientras se contiene a las barras de apoyo locales; asimismo, se les proporcionará protección en las inmediaciones del recinto deportivo y durante su trayecto final.
 
-IV. Registrar y controlar el presupuesto autorizado a la Coordinación General, así como certificar la suficiencia presupuestaria cuando las disposiciones legales así lo exijan.
+Al retirarse los grupos de animación o barras de apoyo visitantes y aficionados que de ambulan en las inmediaciones del recinto deportivo, se procederá al retiro de aquellos que aún se encuentren al interior, tomando en consideración el nivel de riesgo que representen cada una de ellas.
 
-V. Calendarizar los recursos del presupuesto autorizado a la Coordinación General.
+En los casos, en que algunos espectadores aún se encuentren ambulando por las diferentes áreas del recinto, se procederá al retiro de los mismos a petición expresa de la autoridad encargada del recinto deportivo.
 
-VI. Informar al Coordinador General sobre el avance del presupuesto autorizado a la Coordinación General.
+Con la finalidad de mantener el orden público, se dará puntual seguimiento al dispositivo de seguridad y vigilancia, de manera enunciativa más no limitativa en las entradas y salidas de las estaciones del Sistema de Transporte Colectivo Metro, Transportes Eléctricos, Metrobus, CETRAM y demás sitios que cuenten con mayor afluencia de público usuario.
 
-VII. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto e informar al Coordinador General sobre el comportamiento del mismo.
+Asimismo, para agilizar la afluencia en las vías de salida próximas al recito deportivo, se coordinarán las acciones con las autoridades responsables de los sistemas de transporte público.
 
-VIII. Integrar el programa anual de adquisiciones, arrendamientos y servicios de la Coordinación General, en comunicación con las unidades administrativas competentes.
+Para llevar a cabo la acción anterior, la Subsecretaría de Control de Tránsito, dará puntual seguimiento a los dispositivos de vialidad para regular el tránsito peatonal y vehicular, considerando principalmente los corredores viales y avenidas principales hasta restablecer la condición normal de la circulación.
 
-IX. Presidir los Comités de Adquisiciones y Servicios y de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones de la Coordinación General, de acuerdo con la normatividad aplicable.
+El personal participante en la Orden General de Operaciones, quedará en espera de las instrucciones del Mando Único o Mando designado.
 
-X. Llevar a cabo los procesos adquisitivos de bienes y de contratación de servicios de la Coordinación General.
+### CAPÍTULO VI. DE LAS ACCIONES COORDINADAS
 
-XI. Rescindir administrativamente los contratos de adquisición de bienes y de prestación de servicios que haya celebrado la Coordinación General e imponer las sanciones que prevé la legislación en la materia a los proveedores que incurran en el cumplimiento de dichos contratos.
+Cuando de conformidad con el CAPITULO II, resulte necesaria la coordinación con otras Dependencias del Gobierno del Distrito Federal, tanto para la operatividad como para la captación de información y la Protección Civil, se deberá observar lo que al respecto señalen los Convenios de Colaboración celebrados para tal efecto, lo que dispone la Ley que Regula el Uso de la Fuerza del Distrito Federal y su Reglamento y la Ley para Prevenir la Violencia en los Espectáculos Deportivos en el Distrito Federal, con absoluto respeto a las atribuciones contempladas en sus respectivos Manuales y Protocolos.
 
-XII. Promover y supervisar el registro, control, mantenimiento y conservación de los bienes muebles e inmuebles de la Coordinación General.
+### CAPÍTULO VII. ACCIONES EN CASO DE EMERGENCIA
 
-XIII. Coordinar las acciones de protección civil de la Coordinación General, con base en las normas y políticas aplicables.
+En caso de ocurrir una situación de emergencia el mando de operaciones de combate y control de la emergencia recaerá en el personal de la Secretaría de Protección Civil y la Delegación Política.
 
-XIV. Programar, organizar y coordinar las acciones de actualización y capacitación general y técnica especializada del personal de la Coordinación General, así como la evaluación de su desempeño y proponer los perfiles profesionales conforme a las necesidades institucionales.
+Las prioridades de atención de cualquier tipo de emergencia serán:
 
-> <small>(REFORMADA, G.G. 5 DE DICIEMBRE DE 2014)</small>
+a) Salvar y proteger vidas;
 
-XV. Expedir constancias o copias certificadas de los documentos existentes en sus archivos, cuando se trate de asuntos relacionados con sus atribuciones.
+b) Salvar y proteger bienes; y
 
-> <small>(ADICIONADA, G.G. 5 DE DICIEMBRE DE 2014)</small>
+c) Combate y control de la emergencia.
 
-XVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Coordinador General.
+La primera acción defensiva se aplicará con apoyo y coordinación de los Mandos de la Secretaría de Seguridad Pública, consistiendo en la evacuación del inmueble, simultáneamente se mantendrán los accesos libres para el ingreso de los cuerpos de emergencia para el combate y control de la situación de emergencia, debiendo observar lo que al respecto señalen la normatividad vigente en materia de protección civil.
 
-### CAPÍTULO IV. DE LA SUPLENCIA DE LOS TITULARES
+En caso de sismo en el cual se active el Sistema de Alerta Sísmica, el personal de Protección Civil de la Secretaría entregará el mensaje pregrabado que debe transmitirse, para dicha situación.
 
-###### Artículo 16.
+Si el sismo es superior a 6.5 grados en la escala de Ritcher se deberá suspender el espectáculo y proceder a revisar el inmueble, posteriormente el administrador del estadio, deberá presentar copia certificada de la constancia de seguridad estructural ante la Secretaría de Protección Civil del Distrito Federal, antes de volver a realizar un espectáculo, esto de conformidad con el reglamento de construcciones del Distrito Federal.
 
-El Coordinador General será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Director General que aquél designe. En las mayores de 15 días hábiles, por quien designe el Gobernador del Estado.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-En ausencias definitivas del Coordinador General, el Gobernador del Estado, en su caso, nombrará al servidor público que ocupe provisionalmente el cargo, hasta en tanto designa al nuevo titular.
+G.O. 24 DE JULIO DE 2018.
 
-###### Artículo 17.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 35/2018 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO EN LOS ESPECTÁCULOS DEPORTIVOS "ESTADIO SEGURO"".]
 
-Los Directores Generales serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por quien designe el Coordinador General.
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México;
 
-###### Artículo 18.
+SEGUNDO. Se deja sin efectos el “ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL EN LOS ESPECTÁCULOS DEPORTIVOS EN LA CIUDAD DE MÉXICO “ESTADIO SEGURO”, EN COORDINACIÓN CON LA PROCURADURÍA GENERAL DE JUSTICIA Y LA SECRETARÍA DE PROTECCIÓN CIVIL, AMBAS DEL DISTRITO FEDERAL”, publicado en la Gaceta Oficial del Distrito Federal el 17 de mayo de 2013.
 
-Los directores, subdirectores y jefes de departamento serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por quien designe su superior inmediato.
-
-T R A N S I T O R I O S
-
-PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO.- Se abroga el Reglamento Interior de la Coordinación General de Comunicación Social, publicado en el Periódico Oficial "Gaceta del Gobierno", el 12 de noviembre de 2001.
-
-CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Reglamento.
-
-Dado en el Palacio del Poder Ejecutivo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los catorce días de mes de septiembre de dos mil once.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN
-
-GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO
-
-LIC. ENRIQUE PEÑA NIETO
-
-(RUBRICA).
-
-SECRETARIO GENERAL DE GOBIERNO
-
-LIC. LUIS ENRIQUE MIRANDA NAVA
-
-(RUBRICA).
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-G.G. 5 DE DICIEMBRE DE 2014.
-
-PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Acuerdo.
+TERCERO. Se instruye a la Jefatura del Estado Mayor Policial, a las Subsecretarías de Operación Policial, de Control de Tránsito, de Desarrollo Institucional, de Participación Ciudadana y Prevención del Delito, y a la Oficialía Mayor, todas de esta dependencia, para que en el ámbito de sus atribuciones provean lo necesario para la implementación del presente Acuerdo y la actualización de la normatividad institucional que resulte necesaria.
