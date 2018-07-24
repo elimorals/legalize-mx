@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2018-03-29"
+last_updated: "2018-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2018.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -341,7 +341,7 @@ El Estado puede arreglar con las entidades federativas limítrofes, por convenio
 
 El Estado tendrá como base de su división territorial y de su organización política y administrativa el Municipio Libre.
 
-El Estado de Michoacán está conformado por los siguientes municipios: Acuitzio, Aguililla, Álvaro Obregón, Angamacutiro, Angangueo, Apatzingán, Áporo, Aquila, Ario, Arteaga, Briseñas, Buenavista, Carácuaro, Coahuayana, Coalcomán, Coeneo, CojumatIán, Contepec, Copándaro, Cotija, Cuitzeo, Charapan, Charo, Chavinda, Cherán, Chilchota, Chinicuila, Chucándiro, Churintzio, Churumuco, Ecuandureo, Epitacio Huerta, Erongarícuaro, Gabriel Zamora, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Ixtlán, Jacona, Jiménez, JiquiIpan, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Lázaro Cárdenas, Los Reyes, Madero, Maravatío, Marcos Castellanos, MoreIia, Morelos, Múgica, Nahuatzen, Nocupétaro, Nuevo Parangaricutiro, Nuevo Urecho, Numarán, Ocampo, Pajacuarán, Panindícuaro, Parácuaro, Paracho, Pátzcuaro, Penjamillo, Peribán, Purépero, Puruándiro, Queréndaro, Quiroga, Sahuayo, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tarímbaro, Tepalcatepec, Tingambato, Tingüindín, Tiquicheo, Tlalpujahua, TlazazaIca, Tocumbo, Tumbiscatío, Turicato, Tuxpan, TuzantIa, Tzintzuntzan, Tzitzio, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro, Ziracuaretiro y Zitácuaro.
+El Estado de Michoacán está conformado por los siguientes municipios: Acuitzio, Aguililla, Álvaro Obregón, Angamacutiro, Angangueo, Apatzingán, Áporo, Aquila, Ario, Arteaga, Briseñas, Buenavista, Carácuaro, Coahuayana, Coalcomán, Coeneo, Cojumatlán, Contepec, Copándaro, Cotija, Cuitzeo, Charapan, Charo, Chavinda, Cherán, Chilchota, Chinicuila, Chucándiro, Churintzio, Churumuco, Ecuandureo, Epitacio Huerta, Erongarícuaro, Gabriel Zamora, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Ixtlán, Jacona, Jiménez, Jiquilpan, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Lázaro Cárdenas, Los Reyes, Madero, Maravatío, Marcos Castellanos, Morelia, Morelos, Múgica, Nahuatzen, Nocupétaro, Nuevo Parangaricutiro, Nuevo Urecho, Numarán, Ocampo, Pajacuarán, Panindícuaro, Parácuaro, Paracho, Pátzcuaro, Penjamillo, Peribán, Purépero, Puruándiro, Queréndaro, Quiroga, Sahuayo, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tarímbaro, Tepalcatepec, Tingambato, Tingüindín, Tiquicheo, Tlalpujahua, Tlazazalca, Tocumbo, Tumbiscatío, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro, Ziracuaretiro y Zitácuaro.
 
 Cada Municipio conservará la extensión y límites que le señale la legislación correspondiente.
 
@@ -479,15 +479,13 @@ Los ciudadanos enumerados en las fracciones I, II y III pueden ser electos, siem
 
 (DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2018)</small>
 
 ###### Artículo 27.
 
-Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos por ellas.
+Los diputados no podrán ser reconvenidos ni serán sujetos de responsabilidad por las opiniones, propuestas legislativas o votos que emitan en el ejercicio de su encargo.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
-
-El Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del mismo y por la inviolabilidad del recinto en donde se reúnan a sesionar.
+El Presidente del Congreso velará por la inviolabilidad del recinto en donde se reúnan a sesionar. Toda fuerza pública está impedida de tener acceso al Recinto Legislativo, salvo con permiso del Presidente del Congreso, bajo cuyo mando quedará la seguridad del mismo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -863,11 +861,11 @@ XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus 
 
 XXV.- Designar Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 106 de esta Constitución."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 106 de esta Constitución.
+XXVI.- (DEROGADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2018)</small>
 
 Conocer de las imputaciones que se hagan a los servidores públicos y erigirse en Jurado de Sentencia, para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 108 de esta Constitución.
 
@@ -1661,6 +1659,10 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 Se procurará que los agentes del Ministerio Público, los Jueces y Defensores Públicos tengan conocimientos en lenguas, culturas y sistemas normativos indígenas.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2018)</small>
+
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Artículo 94 bis.- Los organismos autónomos contarán con un órgano de control interno, cuyo titular será electo por el Congreso del Estado, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
@@ -1887,29 +1889,37 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 III. Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, Auditoría Superior de Michoacán o los órganos de control respecto de las conductas a las que se refiere el presente artículo. La ley establecerá los mecanismos para incentivar la denuncia pública y su salvaguarda.
 
+(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 106.- Para proceder penalmente por la comisión de delitos del orden común, contra el Gobernador, el Secretario de Gobierno, el Procurador General de Justicia, los Diputados al Congreso, los Magistrados, los Consejeros Electorales y del Poder Judicial, así como el Auditor Superior; el Congreso del Estado erigido en Jurado de Sentencia, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría absoluta, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo, el servidor público podrá ser separado de su encargo y sujeto a la acción de los tribunales comunes."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 106.
+
+EN EL ESTADO DE MICHOACÁN, NO SE REQUERIRÁ DECLARATORIA DE PROCEDENCIA PARA EL INICIO DE PROCESO PENAL CONTRA FUNCIONARIOS Y SERVIDORES PÚBLICOS, PARA LO CUAL SE ESTARÁ A LO ESTABLECIDO POR LAS LEYES PENALES CORRESPONDIENTES.
+
+(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito realizado dentro de su función o que con motivo de ella viole la ley que señala las atribuciones inherentes al cargo que desempeña. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde el día en que inicie su encargo, hasta el momento en que concluya por cualquier motivo su mandato."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE JULIO DE 2018)</small>
+
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-###### Artículo 106.
-
-Para proceder penalmente por la comisión de delitos del orden común, contra el Gobernador, el Secretario de Gobierno, el Procurador General de Justicia, los Diputados al Congreso, los Magistrados, los Consejeros Electorales y del Poder Judicial, así como el Auditor Superior; el Congreso del Estado erigido en Jurado de Sentencia, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría absoluta, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo, el servidor público podrá ser separado de su encargo y sujeto a la acción de los tribunales comunes.
-
-Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito realizado dentro de su función o que con motivo de ella viole la ley que señala las atribuciones inherentes al cargo que desempeña. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde el día en que inicie su encargo, hasta el momento en que concluya por cualquier motivo su mandato.
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente a aquel servidor público al que se le haya acreditado la comisión del delito de enriquecimiento ilícito. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2018)</small>
 
 ###### Artículo 107.
 
-En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la resolución o declaración emitida por el Senado de la República, deberá conocerse por el Congreso, para que éste proceda en la primera sesión que se celebre después de recibida, conforme a las disposiciones de la Constitución Federal, de la Constitución Estatal y las leyes correspondientes.
+En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la resolución o declaración emitidas por el Congreso de la Unión, deberá conocerse por el Congreso, para que éste proceda en la primera sesión que se celebre después de recibida, conforme a las disposiciones de la Constitución Federal, de la Constitución Estatal y las leyes correspondientes, considerándose un procedimiento autónomo a la declaración de procedencia antes prevista en esta Constitución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)</small>
 
 ###### Artículo 108.
 
-Podrán ser sujetos de juicio político, el Gobernador, los Diputados al Congreso, el Auditor Superior, los Magistrados, los Consejeros del Poder Judicial, los Jueces de Primera Instancia, Jueces Menores, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal, y los integrantes o titulares de los organismos a los que esta Constitución otorgue autonomía, asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho públicos (sic) o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales. No procede juicio político por mera expresión de ideas.
+El juicio político es el procedimiento para fincar responsabilidad política a un servidor público. Implica el ejercicio material de una función jurisdiccional llevada a cabo por el Congreso del Estado y sus sanciones serán de carácter eminentemente político y administrativo.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Podrán ser sujetos de juicio político, el Gobernador, los Diputados al Congreso, el Auditor Superior, los Magistrados, los Consejeros del Poder Judicial, los Jueces de Primera Instancia, Jueces Menores, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal, y los integrantes o titulares de los organismos a los que esta Constitución otorgue autonomía, asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho públicos (sic) o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales. No procede juicio político por mera expresión de ideas.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -1969,11 +1979,11 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 El Procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+(NOTA: EL 23 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII, SUBAPARTADO VIII.1 Y IX, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 165/2018, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 7 DE JULIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 106 de esta Constitución."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 106 de esta Constitución.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2018)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+LA RESPONSABILIDAD POR DELITOS COMETIDOS DURANTE EL TIEMPO DEL ENCARGO POR CUALQUIER SERVIDOR PÚBLICO, SERÁ EXIGIBLE DE ACUERDO CON LOS PLAZOS DE PRESCRIPCIÓN CONSIGNADOS EN LA LEY PENAL, QUE NUNCA SERÁN INFERIORES A TRES AÑOS.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2570,6 +2580,14 @@ El Ejecutivo deberá proceder al establecimiento de escuelas rurales, de artes y
 ###### Artículo 143.
 
 Las Universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este Título, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas, fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales tanto del personal académico como del administrativo, se normarán conforme lo dispone la fracción VII del artículo 3o. de la Constitución General de la República.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2018)</small>
+
+La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo es una institución de servicio, con personalidad jurídica y patrimonio propio; dedicada a la educación media-superior y superior, en sus diversos niveles y modalidades, la investigación científica, la difusión de la cultura y la extensión universitaria.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2018)</small>
+
+La Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo contará con un presupuesto para el desarrollo de sus funciones, el cual no podrá ser inferior al otorgado en el ejercicio inmediato anterior.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -3429,7 +3447,7 @@ DECRETO NÚMERO 76 POR EL QUE SE ADICIONA LA FRACCIÓN II, REORDENANDO CONSECUTI
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre Soberano de Michoacán de Ocampo.
+SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 P.O. 6 DE DICIEMBRE DE 2007.
 
@@ -3822,3 +3840,37 @@ SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamient
 TERCERO. Si transcurrido el plazo marcado por la normativa vigente, la Ley o Decreto aprobado no fuera publicado, será considerado promulgado y el Presidente de la Mesa Directiva del Congreso del Estado ordenará al titular del Periódico Oficial del Estado, su publicación, sin que se requiera refrendo alguno.
 
 CUARTO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 24 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 403 POR EL QUE “SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 94 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase a los Ayuntamientos del Estado y al Concejo Mayor de Cherán, la Minuta con proyecto de Decreto, en materia constitucional para que en el término de un mes después de recibirla, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Transcurrido el mes concedido a los Ayuntamientos y al Concejo Mayor de Cherán, se dará cuenta al Pleno con el resultado de su votación, para efectuar la declaratoria correspondiente.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 425 POR EL QUE “SE REFORMA EL ARTÍCULO 27, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XXVI DEL ARTÍCULO 44, EL PRIMER PÁRRAFO DEL ARTÍCULO 106, EL ARTÍCULO 107, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 110; SE DEROGA EL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVI DEL ARTÍCULO 44, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 106 Y SE ADICIONA UN PRIMER PÁRRAFO AL ARTÍCULO 108 RECORRIÉNDOSE EN EL ORDEN LOS SIGUIENTES, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida envíen, al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 24 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 584.- SE ADICIONAN DIVERSOS PÁRRAFOS AL ARTÍCULO 143 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. En caso de que el Presupuesto de Egresos del Estado se vea disminuido, ya sea en las participaciones federales o en algún otro concepto y que haga necesaria la atención prioritaria de esta soberanía para atender necesidades específicas, se hará un ejercicio ponderativo del monto equivalente proporcional al asignado al año inmediato anterior.
+
+SEGUNDO. En el entendido de que una de las variables para determinar el presupuesto que se asigna a la Benemérita y Centenaria Universidad Michoacana de San Nicolás de Hidalgo es la propia matrícula de alumnos de dicha institución, cuando ésta se vea reducida, se deberán realizar ajustes necesarios con base a la disminución de la matrícula.
+
+TERCERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cheran, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
+
+QUINTO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
