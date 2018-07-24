@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2018-04-12"
+last_updated: "2018-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -443,13 +443,17 @@ LVI. En coordinación con las diferentes instancias y organismos de gobierno, pr
 
 LVII. Implementar el programa para promover, impulsar la creación de los Centros TruEco-Alimentarios, y vigilar que adquieran exclusivamente los productos que serán canjeados por residuos sólidos urbanos reciclables, a los productores locales, a excepción de aquellos productos que no se logren obtener en la misma zona;
 
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2018)</small>
+
+LVIII. Fomentar y promover la capacitación para la pequeña producción campesina en cultivos de hortalizas básicos y de traspatio con tecnologías de agricultura sustentable;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2018)</small>
+
+LIX. Promover y fomentar los productos de nuestra agroindustria a fin de que puedan obtener la denominación de origen, y
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
 
-LVIII. Fomentar y promover la capacitación para la pequeña producción campesina en cultivos de hortalizas básicos y de traspatio con tecnologías de agricultura sustentable, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2017)</small>
-
-LIX. Las demás que señalen las leyes y reglamentos aplicables en la materia.
+LX. Las demás que señalen las leyes y reglamentos aplicables en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2017)</small>
 
@@ -1294,3 +1298,11 @@ P.O. 12 DE ABRIL DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se deroga todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1021.- SE REFORMA Y ADICIONA EL ARTÍCULO 14 DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ.”]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
