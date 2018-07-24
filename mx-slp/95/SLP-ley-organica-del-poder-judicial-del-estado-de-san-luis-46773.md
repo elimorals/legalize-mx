@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2018-05-24"
+last_updated: "2018-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -107,8 +109,6 @@ I. El Supremo Tribunal de Justicia;
 
 II. (DEROGADA, P.O. 30 DE JUNIO DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 III. Los Juzgados de Primera Instancia:
@@ -123,11 +123,7 @@ d) Juzgados de Justicia para Menores.
 
 e) Juzgados Penales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 f) Juzgados de Control.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 g) Tribunales de Juicio Oral.
 
@@ -505,8 +501,6 @@ II. De los demás asuntos que expresamente les encomiende la ley.
 
 (DEROGADO, P.O. 30 DE JUNIO DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2013)</small>
 
 ### CAPITULO VI. De los Juzgados y Tribunales de Primera Instancia
@@ -586,8 +580,6 @@ IX. Las demás que les encomienden las leyes.
 ###### ARTICULO 52.
 
 Los jueces del Ramo Civil conocerán, tramitarán y resolverán todos los negocios del orden civil, con exclusión de aquéllos cuyo conocimiento corresponda específicamente a los jueces de lo familiar y, en su caso, a los jueces menores; así como de los juicios mercantiles cuya competencia y atribuciones que en esta materia les confiere el Código de Comercio y demás leyes relativas en los asuntos que conozcan en jurisdicción concurrente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
 
@@ -717,8 +709,6 @@ XXI. Conocer y resolver las peticiones o quejas que los internos formulen en rel
 
 XXII. Las demás que otros ordenamientos le confieran.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
 ARTICULO 54 TER. Los jueces que operen el sistema penal acusatorio y oral podrán ejercer como:
@@ -732,8 +722,6 @@ Los jueces a que se refiere este artículo, tendrán fe pública en ejercicio de
 Los Jueces de Control integrarán los tribunales del juicio oral en asuntos en donde no hayan intervenido previamente.
 
 Los Jueces de Control y del tribunal de juicio oral, durante el desarrollo de las audiencias deberán portar toga, la cual contará con las características que determine el Pleno del Supremo Tribunal de Justicia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -761,29 +749,41 @@ X. Conceder las técnicas de la investigación que requieren autorización judic
 
 XI. Las demás que le asignen las leyes o reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
+ARTICULO 54 QUINQUE. El Tribunal de Juicio Oral estará conformado por un Juez de Enjuiciamiento y, solamente en casos de excepción, por determinación del Juez de Control que dicte el auto de apertura de juicio, será integrado por tres jueces, debiendo tomar en cuenta la relevancia, complejidad, e impacto social del asunto; y tendrá las siguientes atribuciones:
 
-ARTICULO 54 QUINQUE. El Tribunal de Juicio Oral estará conformado por tres jueces, y tendrá las siguientes atribuciones:
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 I. Integrar el tribunal del juicio oral, asumiendo las funciones que les otorgue la ley;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
 II. Desahogar la audiencia del juicio oral desde el momento en que se declare legalmente instalado el tribunal, hasta la lectura integral de sentencia;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 III. Intervenir en las deliberaciones para determinar si se considera o no probada la culpabilidad del inculpado y, en su caso, la determinación de la sanción aplicable;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
 IV. Emitir su voto respecto al sentido de la sentencia, la naturaleza y magnitud de la punición;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 V. Estar presentes en la audiencia en la que sean leídos los puntos resolutivos de la sentencia, y dicha resolución sea explicada por el presidente del tribunal del juicio oral;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
+
 VI. Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a ellos y a los demás intervinientes de la audiencia, corrigiendo en el acto las faltas que se cometieren;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 VII. Fijar las sanciones penales con base en las disposiciones que la ley señale, y
 
-VIII. Las demás que le asignen las leyes o reglamentos.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Las demás que le asignen las leyes o reglamentos.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -818,8 +818,6 @@ XIII. Instruir los recursos que se promuevan en contra de la sentencia pronuncia
 XIV. Las demás que le asignen las leyes o reglamentos.
 
 Los Jueces de Control, y del Tribunal de Juicio Oral, además de las atribuciones ya establecidas en los artículos anteriores, tendrán las señaladas para los jueces del Ramo Penal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -1314,8 +1312,6 @@ XLIII. Dictar los acuerdos generales para regular el turno de los asuntos de la 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
 XLIV. Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -2403,7 +2399,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE MARZO DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 737.- SE REFORMA LOS ARTÍCULOS, 97 EN SU PÁRRAFO TERCERO, 99 EN SU FRACCIÓN II, Y 102 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2458,6 +2454,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 958.- SE REFORMAN LOS ARTÍCULOS 97 Y 124 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1020.- SE REFORMA EL ARTÍCULO 54 QUINQUE EN SU PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
