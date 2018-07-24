@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-30-2013-por-el-que-se-expide-el-protocolo-de-94219"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-05-17"
-last_updated: "2013-05-17"
+last_updated: "2018-07-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94219&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2013-05-15"
 ---
 # ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACION POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL EN LOS ESPECTACULOS DEPORTIVOS EN LA CIUDAD DE MEXICO "ESTADIO SEGURO", EN COORDINACION CON LA PROCURADURIA GENERAL DE JUSTICIA Y LA SECRETARIA DE PROTECCION CIVIL, AMBAS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO 35/2018 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO EN LOS ESPECTÁCULOS DEPORTIVOS "ESTADIO SEGURO", PUBLICADO EN LA G.O. DE 24 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL EN LOS ESPECTÁCULOS DEPORTIVOS EN LA CIUDAD DE MÉXICO "ESTADIO SEGURO", EN COORDINACIÓN CON LA PROCURADURÍA GENERAL DE JUSTICIA Y LA SECRETARÍA DE PROTECCIÓN CIVIL, AMBAS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO DE LA CIUDAD DE MÉXICO: 24 DE JULIO DE 2018 (SIN EFECTOS).
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el viernes 17 de mayo de 2013.
 
@@ -319,3 +321,15 @@ La primera acción defensiva se aplicará con apoyo y coordinación de los Mando
 En caso de sismo en el cual se active el Sistema de Alerta Sísmica, el personal de Protección Civil de la Secretaría entregará el mensaje pregrabado que debe transmitirse, para dicha situación.
 
 Si el sismo es superior a 6.5 grados en la escala de Ritcher se deberá suspender el espectáculo y proceder a revisar el inmueble, posteriormente el administrador del estadio, deberá presentar copia certificada de la constancia de seguridad estructural ante la Secretaría de Protección Civil del Distrito Federal, antes de volver a realizar un espectáculo, esto de conformidad con el reglamento de construcciones del Distrito Federal.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 35/2018 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE LA CIUDAD DE MÉXICO EN LOS ESPECTÁCULOS DEPORTIVOS "ESTADIO SEGURO"".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México;
+
+SEGUNDO. Se deja sin efectos el “ACUERDO 30/2013 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL EN LOS ESPECTÁCULOS DEPORTIVOS EN LA CIUDAD DE MÉXICO “ESTADIO SEGURO”, EN COORDINACIÓN CON LA PROCURADURÍA GENERAL DE JUSTICIA Y LA SECRETARÍA DE PROTECCIÓN CIVIL, AMBAS DEL DISTRITO FEDERAL”, publicado en la Gaceta Oficial del Distrito Federal el 17 de mayo de 2013.
+
+TERCERO. Se instruye a la Jefatura del Estado Mayor Policial, a las Subsecretarías de Operación Policial, de Control de Tránsito, de Desarrollo Institucional, de Participación Ciudadana y Prevención del Delito, y a la Oficialía Mayor, todas de esta dependencia, para que en el ámbito de sus atribuciones provean lo necesario para la implementación del presente Acuerdo y la actualización de la normatividad institucional que resulte necesaria.
