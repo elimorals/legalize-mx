@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-07-12"
+last_updated: "2018-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2401,9 +2401,9 @@ Además de la pena señalada en el párrafo anterior, se impondrá la destituci�
 
 Comete el delito de incumplimiento de las obligaciones de asistencia familiar, quien:
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2018)</small>
 
-I. Sin motivo justificado abandona a sus ascendientes; hijas o hijos, o a su cónyuge, dejándolos sin recursos para atender a sus necesidades de subsistencia;
+I. Sin motivo justificado abandona a sus ascendientes, hijas o hijos, su cónyuge, su concubina o concubinario, dejándolos sin recursos para atender a sus necesidades de subsistencia;
 
 II. Intencionalmente eluda el cumplimiento de las obligaciones alimentarias que la ley determina, o
 
@@ -5126,6 +5126,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1011.- SE REFORMAN LOS ARTÍCULOS, 237, 239, 241, Y 242 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1019.- SE REFORMA EL ARTÍCULO 202 EN SU FRACCIÓN I, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
