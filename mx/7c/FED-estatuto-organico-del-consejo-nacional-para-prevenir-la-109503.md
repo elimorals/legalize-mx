@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-109503"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-08-21"
-last_updated: "2018-02-02"
+last_updated: "2018-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109503&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-08-13"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 2019 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2018.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2015.
 
@@ -229,11 +231,13 @@ XI. Ejercer la representación legal del Consejo, conforme lo señalan los artí
 
 XII. Cualquier otra prevista en la Ley, el presente Estatuto y en los ordenamientos jurídicos que resulten aplicables.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2018)</small>
+
 ###### Artículo 19.
 
-Las ausencias de carácter temporal de la persona titular de la Presidencia del Consejo serán suplidas en primer lugar por la persona titular de la Dirección General Adjunta de Vinculación, Cultura y Educación; en su ausencia, por la persona titular de la Dirección General Adjunta de Quejas, en ausencia de las dos anteriores, por la persona titular de la Dirección General Adjunta de Estudios, Legislación y Políticas Públicas, en ausencia de las precedentes por la persona titular de la Dirección de Planeación, Administración y Finanzas, y ante la ausencia de todas las personas precedentes la persona titular de la Dirección de Asuntos Jurídicos.
+Las ausencias de carácter temporal de la persona titular de la Presidencia del Consejo serán suplidas de conformidad con la designación que realice mediante oficio, de entre las personas titulares de las Direcciones Generales Adjuntas y Direcciones del Consejo.
 
-En el supuesto en el que la persona titular de la Presidencia, no pudiera nombrar a la persona servidora pública encargado del despacho del Consejo, se atenderá la suplencia de conformidad con el párrafo que antecede, lo anterior de forma interina, en tanto se reincorpore la persona titular de la Presidencia del Consejo.
+En el supuesto en el que la persona titular de la Presidencia no pudiera nombrar a la persona servidora pública encargada del despacho del Consejo, la suplencia será atendida en primer lugar por la persona titular de la Dirección General Adjunta de Vinculación, Cultura y Educación; en su ausencia, por la persona titular de la Dirección General Adjunta de Quejas, en ausencia de las dos anteriores, por la persona titular de la Dirección General Adjunta de Estudios, Legislación y Políticas Públicas, en ausencia de las precedentes por la persona titular de la Dirección de Planeación, Administración y Finanzas, y ante la ausencia de todas las personas precedentes la persona titular de la Dirección de Asuntos Jurídicos.
 
 ## TÍTULO CUARTO. DE LA ASAMBLEA CONSULTIVA
 
@@ -479,7 +483,9 @@ V. Delegar facultades a las personas servidoras públicas adscritas a la unidad 
 
 VI. Suscribir los documentos relativos al ejercicio de sus facultades, y los que les correspondan por delegación o suplencia;
 
-VII. Proporcionar la información solicitada que le sea requerida por autoridad competente, o por las unidades administrativas del Consejo;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+VII. Dar seguimiento en el marco de sus atribuciones, a los convenios de colaboración que celebre el Consejo.
 
 VIII. Proponer a la persona titular de la Presidencia del Consejo la modificación de la estructura orgánico-funcional de la unidad administrativa a su cargo;
 
@@ -497,9 +503,13 @@ XIII. Las demás establecidas en la Ley y en este Estatuto.
 
 La Dirección General Adjunta de Estudios, Legislación y Políticas Públicas tendrá las siguientes atribuciones:
 
-I. Promover la adecuación de la normatividad y procedimientos en programas y servicios que brinda la Administración Pública Federal con el objetivo de prevenir y eliminar conductas y/o efectos discriminatorios, así como para garantizar la igualdad de trato y de oportunidades;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-II. Construir e impulsar propuestas de políticas públicas antidiscriminatorias, a través de programas, proyectos o acciones, que contribuyan a la prevención y eliminación de la discriminación y a fomentar la igualdad, a efecto de presentarlas a la persona titular de la Presidencia del Consejo, para su aprobación por parte de la Junta de Gobierno, y promover la adopción e implementación de las políticas autorizadas;
+I. Promover la adecuación de la normatividad, políticas y programas públicos, herramientas y procedimientos de programas y servicios que brinda la Administración Pública Federal con el objetivo de prevenir y eliminar prácticas, y/o efectos discriminatorios, así como para garantizar la igualdad de trato y de oportunidades;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+II. Construir e impulsar propuestas de políticas públicas antidiscriminatorias, a través de programas, proyectos o acciones, que contribuyan a la prevención y eliminación de la discriminación y a fomentar la igualdad, a efecto de someterlas a aprobación de la persona titular de la Presidencia del Consejo;
 
 III. Proponer a la persona titular de la Presidencia del Consejo, conjuntamente con las demás unidades administrativas, las acciones con perspectiva antidiscriminatoria que se propongan para el Plan Nacional de Desarrollo y en los programas que de él se deriven;
 
@@ -509,17 +519,39 @@ V. Coordinar con las diversas instancias públicas involucradas, la instrumentac
 
 VI. Impulsar y coadyuvar en la adopción de medidas de nivelación, medidas de inclusión y acciones afirmativas instrumentadas por parte de los poderes públicos federales, a través de un mecanismo de registro y monitoreo de las mismas, operado por la Dirección General Adjunta;
 
-VII. Formular acciones que contribuyan al diseño de las medidas de nivelación, inclusión y acciones afirmativas, a fin de que se implementen en todas las dependencias de la Administración Pública Federal, y se prevean los recursos necesarios en el anteproyecto del presupuesto de egresos de las dependencias;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+VII. Formular acciones que contribuyan al diseño de las medidas de nivelación, inclusión y acciones afirmativas, a fin de que se implementen en la Administración Pública Federal;
 
 VIII. Emitir opinión sobre las consultas formuladas al Consejo acerca de políticas públicas en materia de no discriminación; medidas de nivelación, medidas de inclusión y acciones afirmativas;
 
-IX. Proponer y coordinar estudios y consultorías especializadas que desarrollen herramientas para incorporar la perspectiva de la no discriminación en el ciclo de las políticas públicas;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-X. Proponer y/o coordinar proyectos y estudios que promuevan el desarrollo de la perspectiva antidiscriminatoria en el ámbito académico;
+IX. Proponer, promover, elaborar y coordinar estudios y consultorías especializadas que desarrollen herramientas para incorporar la perspectiva de la no discriminación en el ciclo de las políticas públicas;
 
-XI. Impulsar la generación de información estadística desagregada por sexo, territorialmente y en función de los grupos de población discriminados;
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XII. Coordinar y fomentar los estudios y propuestas técnicas y metodológicas para la generación de indicadores de evaluación de las políticas públicas con perspectiva antidiscriminatoria;
+IX BIS. Impulsar la generación de lineamientos, metodologías e instrumentos de estudio de la discriminación;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+X. Proponer, elaborar y/o coordinar proyectos y estudios que promuevan el desarrollo de la perspectiva antidiscriminatoria en el ámbito académico;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XI. Promover, elaborar y coordinar la generación y sistematización de información estadística desagregada por sexo, territorialmente y en función de los grupos de población discriminados;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XI BIS. Contribuir a que los procedimientos de captura y procesamiento de los registros administrativos sobre quejas del Consejo generen información estadística confiable y periódica.
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XII. Promover, proponer, coordinar y elaborar estudios y propuestas técnicas y metodológicas para la generación de indicadores de evaluación de las políticas públicas con perspectiva antidiscriminatoria;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XII BIS. Proponer y promover espacios y mecanismos de colaboración con administraciones públicas, organismos civiles, instituciones académicas y agencias internacionales en materia de estudios sobre discriminación;
 
 XIII. Instruir a la persona responsable del CEDOC sobre su funcionamiento, así como propiciar el incremento de su acervo especializado y el uso por parte de la ciudadanía del mismo;
 
@@ -555,7 +587,7 @@ III. Formular estrategias y acciones de promoción cultural que incentiven la pa
 
 IV. Coordinar la estrategia territorial del Consejo para divulgar el Programa y promover la formulación de programas estatales y municipales e impulsar políticas y medidas específicas a favor de la igualdad;
 
-V. Coordinar un registro histórico/estadístico de los convenios elaborados por las diferentes áreas del Consejo;
+V. (DEROGADA, D.O.F. 24 DE JULIO DE 2018)
 
 VI. Impulsar las relaciones interinstitucionales del Consejo con los poderes públicos federales, los gobiernos estatales y municipales, así como con organizaciones de la sociedad civil, academia e iniciativa privada que incidan en los objetivos del Consejo;
 
@@ -581,43 +613,75 @@ XIV. Las demás que le confiera la persona titular de la Presidencia del Consejo
 
 La Dirección General Adjunta de Quejas tendrá las siguientes atribuciones:
 
-I. Brindar orientación a toda persona, organización de la sociedad civil o colectividades que formulen una petición al Consejo, al referir la existencia de presuntos actos, omisiones o prácticas sociales discriminatorias, de acuerdo a la Ley y a los Lineamientos;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-II. Analizar las peticiones que se reciben para determinar si resulta procedente la radicación del expediente y, por consiguiente, emitir la admisión de la instancia;
+I. Orientar a las personas peticionarias que refieran haber sufrido presuntos actos, omisiones o prácticas sociales discriminatorias;
 
-III. Proporcionar orientación a las personas peticionarias respecto a la naturaleza de su asunto y las posibles formas de solución y, en su caso, canalizarlas a la institución correspondiente, en aquellos supuestos en que no se surta la competencia del Consejo, de acuerdo a la Ley y a los Lineamientos;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-IV. Orientar a las personas peticionarias para que realicen con toda claridad y precisión la narración de los hechos y desprender su naturaleza y circunstancias de modo, tiempo y lugar en el que ocurrieron los hechos, a fin de evitar cualquier desvío de interpretación, y en su caso, se procederá a efectuar la suplencia de la deficiencia de la queja;
+II. Canalizar a las personas peticionarias, cuando proceda, a las instancias que correspondan.
 
-V. Iniciar, a petición de parte, o de oficio en los casos que así lo considere la Presidencia del Consejo, los procedimientos de queja por una presunta conducta de discriminación;
+III. (DEROGADA, D.O.F. 24 DE JULIO DE 2018)
 
-VI. Practicar las investigaciones y estudios para fundar y motivar los acuerdos de conclusión de los procedimientos de queja;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-VII. Efectuar diligencias y visitas urgentes, cuando puedan servir para aclarar los hechos presuntamente discriminatorios y que no requieran de conocimientos especiales, debiendo comunicarlo por cualquier vía o medio de notificación, o solicitar a las y los particulares, sean personas físicas o morales, a las personas servidoras públicas federales, a los poderes públicos federales, así como a las autoridades estatales, la adopción de las medidas cautelares que le sean impuestas, para evitar consecuencias de imposible o difícil reparación;
+IV. Admitir la instancia cuando se considere que existe un presunto acto, omisión o práctica social discriminatoria;
 
-VIII. Proponer a las personas involucradas en el asunto, cuando sea procedente, la tramitación del procedimiento conciliatorio;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-IX. Elaborar las resoluciones por disposición e informes especiales, para que sean aprobados y suscritos por la persona titular de la Presidencia del Consejo o, en su caso, por la persona titular de la Dirección General Adjunta de Quejas.
+V. Realizar las notificaciones correspondientes a través de cualquier medio que brinde certeza, privilegiando los medios electrónicos.
 
-X. Establecer medidas administrativas y de reparación a las personas servidoras públicas federales, los poderes públicos federales o las y los particulares, sean personas físicas o morales, en caso de comprobarse su responsabilidad en la comisión de actos, omisiones o prácticas sociales discriminatorias imputadas;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XI. Llevar a cabo el seguimiento y verificación del cumplimiento de las medidas administrativas y de reparación señaladas en la fracción anterior;
+VI. Requerir a la parte a quien se le atribuyen los presuntos actos, omisiones o prácticas sociales discriminatorias;
 
-XII. Aprobar y suscribir los recursos de revisión que se presenten contra las resoluciones y actos que tengan por concluido el procedimiento de queja;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XIII. Coordinar la implementación del Mecanismo de Gestión Pública sin Discriminación en la Administración Pública Federal;
+VII. Privilegiar, cuando proceda, la conciliación y en caso avenimiento entre las partes, proponer a éstas la suscripción del convenio conciliatorio;
 
-XIV. Generar información estadística sobre las orientaciones, procedimientos de queja, y el seguimiento del cumplimiento de las medidas administrativas y de reparación;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XV. Delegar las facultades correspondientes a las personas titulares de las direcciones y subdirecciones, para realizar las acciones y firmar los documentos que se requieran para la debida atención de las personas peticionarias, y
+VIII. Solicitar informes, estudios o dictámenes y practicar las diligencias e investigaciones que considere convenientes a fin de fundar y motivar sus determinaciones;
 
-> <small>(REFORMADA, D.O.F 20 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XVI. Atender los requerimientos de la Comisión Nacional de los Derechos Humanos que se desprendan con motivo de quejas presentadas en contra del Consejo por actos u omisiones que vulneren los derechos humanos, presuntamente materializados durante la atención brindada a las personas usuarias por parte del personal adscrito a la Dirección General Adjunta de Quejas.
+IX. Dictar, de manera fundada y motivada, las medidas cautelares que considere pertinentes para evitar la consumación de actos con consecuencias de imposible o difícil reparación o para restablecer las cosas al estado que guardaban antes de la alegada violación, así como supervisar dichas medidas y en caso de incumplimiento de las mismas dar vista a las autoridades correspondientes;
 
-> <small>(ADICIONADA, D.O.F 20 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XVII. Las demás que le confiera la persona titular de la Presidencia del Consejo.
+X. Proponer a la persona titular de la Presidencia del Consejo los proyectos de resolución por disposición e informes especiales para que, en su caso, sean aprobados y suscritos por ésta;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XI. Aprobar y suscribir, en caso de ausencia de la persona titular de la Presidencia del Consejo, los proyectos de resolución por disposición e informes especiales;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XII. Verificar la ejecución de las medidas administrativas y promover ante los tribunales competentes, la ejecución de las medidas de reparación que se establezcan en las resoluciones por disposición y en los convenios conciliatorios;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XIII. Resolver los recursos de revisión que se presenten contra las resoluciones y actos que tengan por concluido el procedimiento de queja;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XIV. Coadyuvar en la implementación del Mecanismo de Gestión Pública sin Discriminación en la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XV. Generar la información estadística a fin de elaborar los informes a los que se encuentra obligada la Dirección;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XVI. Delegar las facultades correspondientes a las personas titulares de las direcciones y subdirecciones;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XVII. Resguardar y administrar el archivo de los expedientes en trámite y transferir la documentación bajo su resguardo a la Dirección de Planeación, Administración y Finanzas, al fenecer el periodo de conservación, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XVIII. Las demás que le confiera la persona titular de la Presidencia del Consejo;
 
 (REPUBLICADO PRIMER PÁRRAFO, D.O.F 20 DE JUNIO DE 2017)
 
@@ -653,49 +717,115 @@ IV. Formular, presentar y, en su caso, ratificar denuncias y querellas por condu
 
 V. Representar a la persona titular de la Presidencia del Consejo cuando sea señalado como autoridad responsable dentro de los juicios de amparo, sin perjuicio del ejercicio directo de las atribuciones que correspondan;
 
-VI. Opinar la procedencia jurídica de los manuales de organización, de procedimientos y de servicios al público y demás instrumentos jurídicos emitidos por el Consejo;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-VII. Dictaminar la procedencia jurídica de convenios y contratos de arrendamiento, adquisiciones o servicios, o cualquier otro instrumento jurídico en esta materia que celebre el Consejo;
+VI. Apoyar a la persona Titular del Consejo en la instrumentación de sanciones administrativas o resoluciones, a través de las cuales determiné el Tribunal Federal de Justicia Administrativa y/ el Órgano Interno de Control del Consejo que deban imponerse o aplicarse a las personas servidoras públicas del CONAPRED;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL D.O.F. DE 25 DE AGOSTO DE 2016, PÁGINA 62.]</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F 25 DE AGOSTO DE 2016)</small>
+VII. Establecer, cuando así se requiera, los criterios de interpretación y de aplicación de las leyes y de otras disposiciones jurídicas que normen el funcionamiento del Consejo;
 
-VIII. Registrar y resguardar los instrumentos jurídicos a que se refieren la fracción VII, XVII y XVIII del presente artículo;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-"VII. Dictaminar la procedencia jurídica de convenios y contratos de arrendamiento, adquisiciones o servicios, o cualquier otro instrumento jurídico en esta materia que celebre el Consejo;
+VIII. Dirigir las acciones que en materia jurídica interna lleva a cabo el Consejo, a fin de prevenir y atender posibles conflictos normativos;
 
-XVII. Opinar a solicitud de las unidades administrativas sobre la procedencia de los instrumentos jurídicos que suscriba la persona titular de la Presidencia del Consejo en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XVIII. Realizar y tramitar, a solicitud de las unidades administrativas, los registros relativos ante las autoridades e instancias tales como la Comisión Nacional de Mejora Regulatoria (COFEMER) Y EL Instituto Nacional del Derecho de Autor (INDAUTOR), el Diario Oficial entre otras, y."
+IX. Expedir Lineamientos para el desarrollo de la Función Jurídica Institucional en los que se establezcan los criterios, parámetros y procedimientos para el desarrollo de la función a cargo de las diversas áreas del Consejo;
 
-IX. Emitir opinión respecto a las consultas que en materia jurídica formulen las unidades administrativas del Consejo;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-X. Revisar y emitir opinión sobre los anteproyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos, circulares y demás ordenamientos jurídicos, cuyas disposiciones sean competencia del Consejo;
+X. Opinar la procedencia jurídica de los manuales de organización, de procedimientos y de servicios al público y demás instrumentos jurídicos emitidos por el Consejo;
 
-XI. Sistematizar y difundir la normativa y criterios de interpretación y aplicación de las disposiciones normativas que regulen la operación del Consejo;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADA, D.O.F 20 DE JUNIO DE 2017)</small>
+XI. Auxiliar a la persona Titular del Consejo, a la Persona Titular de la Dirección de Planeación, Administración y Finanzas del Consejo y a las unidades administrativas competentes en los procedimientos de licitación y adjudicación de contratos;
 
-XII. Ser el enlace del Consejo ante la Comisión Nacional de los Derechos Humanos para atender las solicitudes de información que se desprendan de quejas presentadas en contra del Consejo por actos u omisiones que violen los derechos humanos, así como las recomendaciones realizadas por dicha Comisión, con excepción de lo previsto en el caso del artículo 54, fracción XVI del presente Estatuto.
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XIII. Sustanciar, conforme a las disposiciones jurídicas aplicables, los recursos que interpongan las y los particulares contra actos y resoluciones del Consejo y, en su caso, emitir las resoluciones que correspondan;
+XII. Dictaminar la procedencia jurídica de convenios y contratos de arrendamiento, adquisiciones o servicios, o cualquier otro instrumento jurídico en esta materia que celebre el Consejo;
 
-XIV. Fungir como enlace institucional en materia de transparencia, vigilar y coordinar con las unidades administrativas que las disposiciones previstas por la legislación en materia de transparencia se atiendan en los términos y plazos establecidos, así como cualquier otro ordenamiento legal relacionado con la materia;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XV. Asesorar el funcionamiento de los cuerpos colegiados que operen en el Consejo;
+XIII. Coordinar y actuar como enlace con la Consejería Jurídica del Ejecutivo Federal y con otras áreas jurídicas de las dependencias y entidades de la Administración Pública Federal, en la elaboración de los instrumentos jurídicos, convencionales en el ámbito de competencia del Consejo. Asimismo, fungirá como enlace con las unidades jurídicas de instituciones privadas y sociales para los mismos fines.
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XVI. Llevar a cabo el registro interno de firmas y presentar a la Secretaría de Gobernación los registros correspondientes, para que ésta realice el trámite de legalización procedente de los documentos públicos del Consejo. Así como el registro de los poderes de los servidores públicos, que por sus funciones lo requieran, ante la Secretaría de Hacienda y Crédito Público.
+XIV. Auxiliar a la persona Titular del Consejo en la conducción de las relaciones del CONAPRED con el Tribunal Federal de Conciliación y Arbitraje y el Tribunal Federal de Justicia Administrativa, o cualquier organismo análogo en la defensa de los intereses del Consejo o para fortalecer la vinculación del mismo con dichos órganos;
 
-XVII. Opinar a solicitud de las unidades administrativas sobre la procedencia de los instrumentos jurídicos que suscriba la persona titular de la Presidencia del Consejo en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes;
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XVIII. Realizar y tramitar, a solicitud de las unidades administrativas, los registros relativos ante las autoridades e instancias tales como la Comisión Federal de Mejora Regulatoria (COFEMER), el Instituto Nacional del Derecho de Autor (INDAUTOR), el Diario Oficial entre otras, y
+XV. Registrar y resguardar los instrumentos jurídicos a que se refieren la fracción XII, XXVIII, XIX, XXX del presente artículo;
 
-(REPUBLICADA, D.O.F 20 DE JUNIO DE 2017)
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
 
-XIX. Las demás que le confiera la persona titular de la Presidencia del Consejo.
+XVI. Emitir opinión respecto a las consultas que en materia jurídica formulen las unidades administrativas del Consejo;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XVII. Revisar y emitir opinión sobre los anteproyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos, circulares y demás ordenamientos jurídicos, cuyas disposiciones sean competencia del Consejo;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XVIII. Sistematizar y difundir la normativa y criterios de interpretación y aplicación de las disposiciones normativas que regulen la operación del Consejo;
+
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XIX. Ser el enlace del Consejo ante la Comisión Nacional de los Derechos Humanos para atender las solicitudes de información que se desprendan de quejas presentadas en contra del Consejo por actos u omisiones que violen los derechos humanos, así como las recomendaciones realizadas por dicha Comisión.
+
+Para los efectos del párrafo anterior, la Dirección de Asuntos Jurídicos, estará facultada para solicitar a las áreas del Consejo, toda la información que resulte necesaria para atender dichos requerimientos.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XX. Sustanciar, conforme a las disposiciones jurídicas aplicables, los recursos jurisdiccionales que interpongan las y los particulares contra actos y resoluciones del Consejo;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXI. Coordinar las políticas, estrategias y acciones del Consejo en materia de transparencia.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXII. Planear, fomentar, orientar, verificar y evaluar la instrumentación de las políticas, estrategias y acciones de carácter preventivo y correctivo, así como de las disposiciones jurídicas y administrativas aplicables en materia de transparencia, combate a la corrupción y acceso a la información pública gubernamental, por parte de las unidades administrativas.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXIII. Fungir como enlace institucional en materia de transparencia, vigilar y coordinar con las unidades administrativas que las disposiciones previstas por la legislación en materia de transparencia se atiendan en los términos y plazos establecidos, así como cualquier otro ordenamiento legal relacionado con la materia;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXIV. Coordinar y asesorar a todas las Unidades Administrativas del Consejo en la carga de información pública a los sistemas informáticos de transparencia que instruya el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXV. Asesorar el funcionamiento de los cuerpos colegiados que operen en el Consejo.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXVI. Llevar a cabo el registro interno de firmas y presentar a la Secretaría de Gobernación los registros correspondientes, para que ésta realice el trámite de legalización procedente de los documentos públicos del Consejo. Así como el registro de los poderes de los servidores públicos, que por sus funciones lo requieran, ante la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXVII. Opinar a solicitud de las unidades administrativas sobre la procedencia de los instrumentos jurídicos que suscriba la persona titular de la Presidencia del Consejo en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes.
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXVIII. Realizar y tramitar, a solicitud de las unidades administrativas, las publicaciones necesarias ante el Diario Oficial de la Federación para el buen funcionamiento del Consejo;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXIX. Llevar a cabo las acciones necesarias para cumplir con los registros necesarios en materia de derechos de autor y propiedad intelectual e industrial;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXX. Fungir como enlace ante la Comisión Federal de Mejora Regulatoria a fin de que el Consejo cumpla con las obligaciones derivadas de los Programas de Mejora Regulatoria y la simplificación de trámites y servicios;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXXI. Requerir a las personas servidoras públicas y unidades administrativas, la documentación e información que requiera para el cumplimiento de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 24 DE JULIO DE 2018)</small>
+
+XXXII. Las demás que le confiera la persona titular de la Presidencia del Consejo;
 
 ###### Artículo 56.
 
@@ -829,423 +959,253 @@ VI. Las demás que le confiera la persona titular de la Presidencia del Consejo.
 
 El Órgano Interno de Control forma parte de la estructura orgánica del Consejo, y su organización y funcionamiento estará normado conforme lo señalan la Ley Orgánica de la Administración Pública Federal, el Reglamento Interior de la Secretaría de la Función Pública, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal de las Entidades Paraestatales y su Reglamento, y demás disposiciones jurídicas aplicables.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE JULIO DE 2018)</small>
+
 ## TÍTULO SÉPTIMO. DEL PROCEDIMIENTO DE QUEJA
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE JULIO DE 2018)</small>
 
 ### Capítulo I. Disposiciones generales
 
 ###### Artículo 61.
 
-Para los efectos de la tramitación de los expedientes de queja se entenderá por:
-
-I. Acta circunstanciada: Documento elaborado por el personal de la Dirección General Adjunta de Quejas, en el que se hace constar, uno o varios hechos o actos jurídicos, y que se glosa al expediente correspondiente;
-
-II. Acuerdo de conclusión: Resolución fundada y motivada mediante la cual se resuelve el procedimiento de queja;
-
-III. Buena fe: Creencia o persuasión personal de que las manifestaciones hechas por las partes, durante la tramitación del procedimiento, son ciertas, salvo prueba en contrario;
-
-IV. Estrado: Es la lista de notificaciones emitida por la Dirección General Adjunta de Quejas, donde se asienta el número de expediente, las partes y un extracto de la determinación;
-
-V. Falta de interés: Omisión injustificada de la persona peticionaria o agraviada para aportar los elementos necesarios en el trámite del procedimiento;
-
-VI. Medidas cautelares: Son aquellas que podrá solicitar, por cualquier vía o medio de notificación, la persona titular de la Presidencia del Consejo, el personal que éste designe, o las personas adscritas a la Dirección General Adjunta de Quejas que proporcionan la orientación, tramitan el procedimiento de queja o efectúan el seguimiento de medidas administrativas y de reparación, a las y los particulares, personas físicas o morales, a las personas servidoras públicas federales, a los poderes públicos federales, así como a las autoridades estatales:
-
-Las medidas cautelares se dividen en medidas precautorias, de conservación y restitutorias:
-
-a. Medidas precautorias: Pedimento que se efectúa para evitar la consumación de actos con consecuencias de imposible o difícil reparación;
-
-b. Medidas de conservación: Son aquellas que se solicitan para que las cosas permanezcan en el estado en el que se encuentren, evitando la consumación irreparable de las presuntas violaciones a los derechos humanos denunciadas, o la producción de daños de difícil reparación; y
-
-c. Medidas restitutorias: Son aquellas que tienden a que los derechos de la persona agraviada regresen al estado en que se encontraban hasta antes de la comisión de los presuntos hechos discriminatorios, o de la producción de daños de difícil reparación.
-
-VII. Notificación: Acto mediante el cual se hace saber a las personas peticionarias, a las y los particulares, personas físicas o morales, a las personas servidoras públicas federales, a los poderes públicos federales, así como a las autoridades estatales y terceros relacionados de cualquier diligencia, actuación, solicitud o resolución vinculada con la orientación, procedimiento de queja o seguimiento de medidas administrativas y de reparación;
-
-VIII. Persona agraviada: Aquella a la que presuntamente se le ha vulnerado su derecho a la no discriminación y otros derechos, por actos, omisiones o prácticas presuntamente discriminatorias cometidas en su contra;
-
-IX. Persona peticionaria: Persona, organizaciones de la sociedad civil o colectividades que acuden ante el Consejo solicitando su intervención, para que conozca de presuntos actos, omisiones o prácticas sociales discriminatorias materia de su competencia;
-
-X. Petición: Acto por el que una persona solicita la intervención del Consejo por considerar que un asunto es del ámbito de su competencia, con la finalidad de que personal de la Dirección General Adjunta de Quejas proceda a su valoración y, en su caso, realice las acciones pertinentes para salvaguardar sus derechos;
-
-XI Queja: Petición formulada ante el Consejo, por los presuntos actos, omisiones o prácticas sociales discriminatorias atribuidas a las y los particulares, personas físicas o morales, a las personas servidoras públicas federales, o a los poderes públicos federales;
-
-XII Ratificación: Acto de la persona peticionaria o agraviada por el que, por cualquier vía, reconoce como suyo la queja o petición de intervención;
-
-XIII Suplencia de la deficiencia de la queja: Deber del Consejo de recibir de la persona peticionaria, con toda claridad y fidelidad, la narración de los hechos para precisarlos y desprender su naturaleza, modo y circunstancias en que ocurrieron, a fin de evitar cualquier desvío de interpretación, y
-
-XIV. Vía o medio de notificación: Formas de comunicación a través de las cuales el Consejo remitirá o solicitará algún tipo de información, entre las que se incluyen los escritos, las llamadas telefónicas, la mensajería, los instructivos, estrados, las electrónicas como el fax y correo electrónico, y en general, cualquier otra que resulte pertinente, atendiendo a las circunstancias del caso.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 62.
 
-El personal de la Dirección General Adjunta de Quejas valorará las peticiones que se reciban para determinar si se expone un acto, omisión o práctica social discriminatoria del ámbito de la competencia del Consejo. De no surtirse ésta o no narrarse un caso de una presunta conducta de discriminación, se brindará la orientación a la persona peticionaria y, en su caso, se realizará la canalización a la instancia correspondiente.
-
-En caso de resultar un asunto de competencia del Consejo y, de ser procedente, se realizará la suplencia de la deficiencia de la queja, a fin de que ésta sea del conocimiento de la Dirección General Adjunta de Quejas, a través del procedimiento previsto por este Título.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 63.
 
-Se considerará que una queja es evidentemente improcedente o infundada cuando se advierta carencia de fundamento, cuando la persona peticionaria se conduzca con falsedad o mala fe, o tenga por finalidad vulnerar la autonomía o autoridad moral del Consejo.
-
-También será una queja improcedente, por haber transcurrido el plazo señalado en el artículo 44 de la Ley, cuando los mismos hechos hayan sido admitidos en queja ante la Comisión Nacional de los Derechos Humanos, porque el Consejo haya conocido y resuelto un expediente de queja por los mismos hechos, o por cualquier otro caso señalado en el presente Estatuto.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 64.
 
-Si algún Consejo local para prevenir y eliminar la discriminación o su equivalente, conoce de los mismos hechos que el Consejo, para no duplicar procedimientos, podrá consultarse con la persona peticionaria o agraviada en qué instancia continuará el proceso por así convenir a sus intereses.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 65.
 
-Todas las actuaciones del personal del Consejo serán gratuitas. Esta circunstancia deberá informarse expresamente a las personas peticionarias desde su primer contacto con el personal de la Dirección General Adjunta de Quejas.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 66.
 
-Los términos y plazos que se señalan en el artículo 44 de la Ley se entenderán que concluyen el mismo número de día del mes, del año calendario que corresponda.
-
-El resto de los términos y plazos que se mencionan en la Ley y en este Estatuto se entenderán como días hábiles, salvo que expresamente se señale que son días naturales.
-
-Si el último día del plazo o la fecha determinada, es inhábil, se prorrogará el plazo hasta el siguiente día hábil.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 67.
 
-El personal adscrito a la Dirección General Adjunta de Quejas no estará obligado a rendir testimonio cuando dicha prueba haya sido ofrecida en procesos civiles, penales, administrativos o cualquier otro, y el testimonio se encuentre relacionado con su intervención en el tratamiento de los asuntos radicados en el Consejo.
-
-En aquellos casos en los que se reciba un citatorio para comparecer ante alguna autoridad administrativa, judicial o ministerial, la persona titular de la Dirección General Adjunta de Quejas comisionará al personal citado para que comparezca y haga del conocimiento de la autoridad aquella limitación legal y, en su caso, previo acuerdo de la persona titular de la Presidencia del Consejo, enviará un informe por escrito sobre la actuación del Consejo en el asunto de que se trate.
-
-El personal del Consejo deberá manejar la información o documentación relativa a los asuntos de su competencia de manera reservada y confidencial, en los términos de legislación aplicable en materia de Transparencia y Acceso a la Información Pública.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 68.
 
-Las partes en los procedimientos de queja podrán solicitar copias simples o certificadas de las actuaciones, conforme a la normatividad vigente.
-
-Cuando dichas copias sean requeridas por alguna autoridad judicial o administrativa, previo requerimiento formal de éstas, se extenderán directamente a dichas autoridades.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 69.
 
-Las quejas que se presenten ante el Consejo sólo podrán admitirse dentro del plazo de un año, contado a partir de que se hayan iniciado los presuntos actos, omisiones o prácticas sociales discriminatorias, o de que la persona peticionaria tenga conocimiento de éstos.
-
-En casos excepcionales, y tratándose de actos, omisiones o prácticas sociales discriminatorias graves a juicio del Consejo, éste podrá ampliar dicho plazo mediante un acuerdo fundado y motivado.
-
-Se considera un acto, omisión o práctica social discriminatoria grave, aquella que obstaculice, restrinja, impida, menoscabe o anule el reconocimiento, goce o ejercicio del derecho a la vida, a la salud, a la integridad personal, a la libertad, a la seguridad, así como aquella que pueda afectar a una colectividad o grupo de personas.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 70.
 
-Las quejas tendrán como datos mínimos de identificación, el nombre y apellidos, domicilio, y en su caso, número telefónico o correo electrónico de la persona peticionaria, así como de la persona presunta agraviada, en caso de no ser la misma persona.
-
-Asimismo, la queja incluirá un relato claro de los hechos imputados, atendiendo a circunstancias de modo, tiempo y lugar en que ocurrieron, la información que se considere relevante, y aquella que permita la identificación del autor o autora del presunto acto, omisión o práctica social discriminatoria.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 71.
 
-Ante la falta de alguno de los datos o requisitos de procedibilidad establecidos en el artículo anterior, se requerirá por cualquier vía o medio de notificación a la persona peticionaria o a su representante, que los aclare dentro del plazo de cinco días hábiles siguientes a la solicitud.
-
-Si concluido el plazo, la persona peticionaria o su representante, omite cumplir con el requerimiento, se le solicitará por segunda ocasión que efectúe las aclaraciones correspondientes, dentro del plazo de cinco días hábiles contados a partir del día siguiente en que se haga la segunda notificación. De persistir en la omisión, la queja se concluirá por falta de interés.
-
-En el supuesto de que no sea posible localizar o ubicar a la persona peticionaria, a la agraviada o a su representante para esos requerimientos, se dictará acuerdo de conclusión al tener por no presentada la queja. No obstante lo anterior, no será impedimento para que el Consejo, de manera discrecional, determine continuar de oficio con el trámite de la misma, si considera graves o trascendentes los hechos planteados en ella.
-
-Dicha omisión tampoco será impedimento para que la persona peticionaria vuelva a presentar la queja, siempre y cuando se encuentre dentro de los plazos que la Ley dispone.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 72.
 
-La ratificación de las quejas presentadas de conformidad al artículo 49 de la Ley, podrá efectuarse por vía telefónica o medios electrónicos, a cuyo efecto se asentará acta circunstanciada en la que constarán los elementos de los que se desprenda que se realizaron las diligencias necesarias para tal requerimiento.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 73.
 
-Cuando la persona peticionaria o agraviada solicite que su nombre no se dé a conocer al presunto agente discriminador por temor a represalias, la queja no se considerará anónima, siempre y cuando proporcione su nombre y demás elementos de identificación con el fin de tenerla ubicada y poder realizar las gestiones necesarias para la preservación de sus derechos.
-
-La reserva de datos procederá sólo en los casos en que con ello no se imposibilite la investigación de la queja o la actuación del Consejo.
-
-De no proceder la reserva de datos, el Consejo podrá determinar de oficio continuar con la queja si se desprende que se trata de hechos graves o estructurales, así como que impacten no sólo a la persona peticionaria, sino a un grupo o colectivo social en situación de discriminación.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 74.
 
-La persona titular de la Presidencia del Consejo, el personal que éste designe, o las personas adscritas a la Dirección General Adjunta de Quejas que proporcionan la orientación, tramitan el procedimiento de queja, o efectúan el seguimiento de medidas administrativas y de reparación, podrán solicitar la adopción de cualquier tipo de medidas cautelares, previstas en la fracción VI del artículo 61 del presente Estatuto, fijándoles un plazo para su cumplimiento.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 75.
 
-Las y los particulares, personas físicas o morales, las personas servidoras públicas federales, los poderes públicos federales, así como las autoridades estatales a quienes se haya solicitado una medida cautelar, contarán con un plazo máximo de tres días hábiles, contados a partir del mismo día en que recibieron la notificación, para informar por escrito al Consejo con relación a las medidas adoptadas. Este plazo puede ser reducido en casos especialmente urgentes.
-
-Tal informe podrá ser remitido por algún medio electrónico, a reserva de que posteriormente se formalice a través del envío de un documento oficial, en los casos de las personas servidoras públicas, de los poderes públicos federales y de las autoridades estatales, o mediante el envío de un escrito en formato físico en el caso de las y los particulares. De omitir informar se practicará nuevo requerimiento, por cualquiera de las vías o medios de notificación previstos en este Estatuto, para que satisfagan la petición formulada. En esta última hipótesis, tendrán máximo dos días, contado a partir de su notificación, para rendir el informe correspondiente.
-
-En caso de que no se reciba respuesta por parte de las personas servidoras públicas federales o de los poderes públicos federales, el personal del Consejo deberá dar vista al Órgano Interno de Control u organismo análogo, a efecto de que dentro de su ámbito legal de competencia conozca de la referida omisión.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 76.
 
-Cuando a quien se haya solicitado la adopción de cualquier tipo de medida cautelar no lo hiciere por cualquier razón, o argumente la inexistencia de los hechos presuntamente discriminatorios y éstos, resultaren ciertos, tales circunstancias se harán notar en la resolución final para que, en su caso, se califique la conducta y finquen las responsabilidades correspondientes, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
-
-Si los presuntos hechos que motivaron la solicitud de medidas cautelares resultaren falsos, las medidas adoptadas quedarán sin efecto.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 77.
 
-La radicación de la queja se registrará asignándole el número cardinal de expediente que le corresponda, y se turnará, a más tardar al día hábil siguiente, para que se proceda a su calificación.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 78.
 
-El personal de la Dirección General Adjunta de Quejas a cargo de la tramitación de expedientes realizará la calificación correspondiente dentro de un plazo de cinco días hábiles contados a partir del siguiente en que le fue turnado el expediente de queja.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 79.
 
-La queja podrá calificarse como:
-
-I. Un presunto acto, omisión o práctica social discriminatoria;
-
-II. Un caso en el que no se surte la competencia del Consejo;
-
-III. Pendiente, cuando no haya suficientes elementos para calificar;
-
-IV. Un caso de no discriminación, y
-
-V. Un caso de improcedencia.
-
-Cuando aparezcan nuevos elementos aportados por la persona peticionaria, por la persona agraviada, por las y los particulares, sean personas físicas o morales, por las personas servidoras públicas federales, por los poderes públicos federales, por las autoridades estatales, o sean recabados de oficio por el Consejo, la calificación original podrá ser modificada.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 80.
 
-Cuando la queja haya sido calificada como un presunto acto, omisión o práctica social discriminatoria, dentro de los cinco días hábiles siguientes a su calificación se comunicará a la persona peticionaria, por cualquier vía o medio de notificación, la correspondiente admisión de la instancia, informándole el nombre de la persona servidora pública a cargo del expediente, así como el número telefónico de esta última, invitándola a mantener comunicación con ella durante la tramitación del procedimiento.
-
-Asimismo, se le informará que la presentación de su queja no interrumpe la prescripción de las acciones judiciales o recursos administrativos que las leyes establecen.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 81.
 
-Cuando la queja haya sido calificada como un caso en el que no se surte la competencia del Consejo, a la brevedad posible y sin admitir la instancia, se comunicará este acto a la persona peticionaria, haciéndole saber la causa por la que no se surtió la competencia del Consejo y sus fundamentos.
-
-Asimismo, se le orientará de manera breve y sencilla respecto a la naturaleza de su asunto y las posibles formas de solución. En su caso, se precisará el nombre de la dependencia pública competente para atenderlo, a la que se podrá enviar un oficio en el que se le hará saber que el Consejo ha orientado a la persona peticionaria hacia ella y le solicitará que la reciba para la atención de su caso. Hecho lo anterior, se dará por concluido el procedimiento.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 82.
 
-Cuando la queja haya sido calificada como pendiente, por ser confusa o se requiera aportar mayor información, la persona servidora pública a cargo del procedimiento deberá realizar las gestiones pertinentes para que sea aclarada, entre ellas, solicitará informes de colaboración a las y los particulares, personas físicas o morales, a las personas servidoras públicas federales, a los poderes públicos federales, así como a las autoridades estatales, quienes contarán con un plazo de cinco días hábiles contados a partir del día siguiente en que reciban la solicitud.
-
-Si lo que se requiere es que la persona peticionaria proporcione mayor información para estar en condiciones de deducir los elementos que permitan la intervención del Consejo, se le notificará tal hecho para que la provea en un plazo de cinco días hábiles posteriores a la notificación. En caso de omisión, después de un segundo requerimiento por igual plazo, se emitirá el acuerdo de conclusión del expediente por falta de interés.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 83.
 
-Cuando la queja haya sido calificada como un caso de no discriminación, se emitirá acuerdo en el que se tendrá por concluido el expediente, notificándose dicha resolución a la persona peticionaria.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 84.
 
-Cuando la queja haya sido calificada como improcedente, se emitirá acuerdo en el que se tendrá por concluido el expediente, notificándose dicha resolución a la persona peticionaria.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 85.
 
-Los escritos o peticiones que se reciban con posterioridad al inicio de un procedimiento de queja, y se refieran a los mismos hechos que motivaron su apertura, se analizarán, para que, en su caso, se acumulen al mismo expediente, o se glosen al ya radicado como aportaciones.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 86.
 
-En los casos en que alguna de las partes solicite expresamente la reapertura de un procedimiento, o que con posterioridad a su conclusión o archivo, se reciba información o documentación superveniente relacionada con los hechos que le dieron origen y que pudiesen motivar su reapertura, la persona titular de la Dirección General Adjunta de Quejas estudiará la solicitud o información superveniente, y resolverá lo conducente.
-
-En caso afirmativo, hará del conocimiento esta decisión a la persona peticionaria y a la persona presuntamente responsable del acto, omisión o práctica social discriminatoria, para los fines legales a que haya lugar.
-
-A juicio del Consejo se podrá decretar la reapertura del expediente con motivo del incumplimiento total o parcial del convenio de conciliación suscrito en los expedientes de queja.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 87.
 
-Cuando se presenten dos o más quejas que se refieran al mismo acto, omisión o práctica social presuntamente discriminatoria, el Consejo podrá acumular los asuntos para su trámite en un solo procedimiento. En este caso, el último se acumulará al primero, salvo que, resulte más conveniente acumularlos de manera inversa.
-
-La persona peticionaria del procedimiento acumulado continuará siendo parte en el asunto.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 88.
 
-Todas las actuaciones practicadas por el personal de la Dirección General Adjunta de Quejas, deberán constar en actas circunstanciadas, de conformidad con el artículo 63 bis, párrafo tercero de la Ley.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 89.
 
-Cuando el domicilio señalado por las partes sea inexistente, inexacto, o a pesar de las gestiones realizadas no sea posible su localización, esta circunstancia se hará constar en las actuaciones, y cualquier diligencia, acto o resolución relacionada con el trámite del procedimiento, se notificará por medio del estrado de la Dirección General Adjunta de Quejas. Este aviso permanecerá por el plazo que el propio documento establezca.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE JULIO DE 2018)</small>
 
 ### Capítulo II. Del procedimiento de Queja
 
 ###### Artículo 90.
 
-Dentro de los cinco días hábiles siguientes a la admisión de la queja, el Consejo emitirá la notificación a las y los particulares, personas físicas o morales, a las personas servidoras públicas federales, así como a los poderes públicos federales señalados como presuntamente responsables, y les solicitará que en un plazo no mayor a diez días, contados a partir del día siguiente a la notificación, rindan un informe por escrito con relación a los actos, omisiones o prácticas sociales discriminatorias que se les atribuyan, apercibiéndolos que se tendrán por ciertos los mismos de no rendir el informe solicitado en el plazo establecido, salvo prueba en contrario.
-
-En casos de urgencia, se podrá establecer de inmediato comunicación por cualquier vía o medio de comunicación con las y los particulares, personas físicas o morales, con las personas servidoras públicas federales, o con los poderes públicos federales señalados como responsables, o con su superior jerárquico, de ser el caso, para darle a conocer la gravedad del asunto, y de resultar procedente, solicitar las medidas cautelares necesarias para evitar la consumación irreparable de la violación a los derechos fundamentales.
-
-La notificación también podrá hacerse a través del superior jerárquico, en su caso, del representante legal de la institución a la que se encuentren adscritas, o por medio de las unidades administrativas jurídicas, de derechos humanos o de las que se estimen pertinentes por el Consejo. Asimismo, la notificación deberá hacerse del conocimiento de la persona titular del órgano o institución de la que dependan.
-
-Adicionalmente, en la solicitud del informe, se le notificará la apertura del Procedimiento Conciliatorio cuando así proceda, para efectos de que se pronuncie sobre su aceptación.
-
-En caso de que no se reciba la respuesta por parte de las personas servidoras públicas federales, o de los poderes públicos federales, el personal del Consejo deberá dar vista al Órgano Interno de Control u organismo análogo, a efecto de que dentro de su ámbito legal de competencia conozca de la referida omisión.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 91.
 
-El plazo señalado para rendir el informe podrá ser ampliado por el número de días que el propio Consejo determine, cuando a su juicio, se proporcionen razones suficientes para ello.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 92.
 
-El informe del particular, persona física o moral, persona servidora pública o poder público federal deberá afirmar, refutar o negar todos y cada uno de los hechos, actos, omisiones o prácticas sociales discriminatorias imputadas, además de incluir un informe detallado y documentado de los antecedentes del asunto, sus fundamentos y motivaciones y, en su caso, los elementos jurídicos o de otra naturaleza que lo sustenten, y demás que considere necesarios.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 93.
 
-Si del contenido del informe se desprende que se requiere de información adicional, ésta será solicitada a las y los particulares, personas físicas o morales, a las personas servidoras públicas federales, o a los poderes públicos federales, debiendo ser aportada en un plazo no mayor de tres días hábiles, contados a partir del día siguiente al de su notificación.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 94.
 
-De no recibirse el informe o dar respuesta parcial, se tendrán por ciertos los hechos, salvo prueba en contrario, de conformidad con el artículo 63 Séptimus de la Ley.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 95.
 
-Toda la documentación que remitan las personas servidoras públicas o los poderes públicos federales, deberá estar certificada y debidamente foliada.
-
-La documentación presentada por las y los particulares, personas físicas o morales, que por su propia naturaleza lo amerite, a juicio del personal del Consejo se requerirá en copia, junto con el original para su cotejo; de no ser posible, se deberá indicar el lugar o archivo donde se encuentre el original para tal fin.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 96.
 
-La respuesta del particular, persona física o moral, de la persona servidora pública federal o del poder público federal podrá hacerse del conocimiento de la persona peticionaria o agraviada en todos los casos en que a juicio del personal a cargo del procedimiento de queja se considere necesario. En tal supuesto, se concederá a la persona peticionaria o agraviada un plazo de diez días hábiles, contados a partir del acuse de recibo de tal información, para que manifieste lo que a su derecho convenga.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE JULIO DE 2018)</small>
 
 ### Capítulo III. De la Conciliación en el Procedimiento de Queja
 
 ###### Artículo 97.
 
-Si previo requerimiento, ambas partes manifiestan su interés para participar en el procedimiento conciliatorio, se les notificará la fecha en que deberán comparecer a la celebración de la audiencia de conciliación, dentro de los plazos establecidos en el artículo 65 bis de la Ley.
-
-El Consejo podrá realizar la conciliación sin la presencia de la parte peticionaria o agraviada, siempre y cuando se cuente con la anuencia de cualquiera de éstas, o bien, cuando se trate de alguna cuestión estructural, cuyos puntos a conciliar pudieran beneficiar al ejercicio de los derechos de otras personas.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 98.
 
-Las audiencias de conciliación se celebrarán observando las siguientes reglas:
-
-I. Serán presididas por el personal del Consejo;
-
-II. Serán privadas, por lo que sólo podrán encontrarse en el recinto en el que se lleven a cabo las personas que legítimamente deban intervenir.
-
-En el caso de que las partes hayan solicitado al Consejo comparecer acompañadas, y su petición se acuerde positivamente, sus acompañantes no podrán intervenir en la audiencia, pero sí podrán asistir o asesorar a la o el interesado en la procedencia y efectos de la conciliación a que se llegare;
-
-III. Las personas intervinientes serán asistidas por una persona traductora o intérprete, previa determinación del Consejo, lo cual se asentará en el acta respectiva;
-
-IV. Las personas intervinientes en la audiencia de conciliación estarán obligadas a identificarse, y
-
-V. Las personas que intervengan en la audiencia de conciliación deberán comportarse respetuosamente, quedando prohibida toda alteración del orden en la audiencia, apercibiéndose, por una sola ocasión, que de reincidir en ello, se suspenderá la misma.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 99.
 
-La audiencia principal de conciliación podrá ser diferida por única ocasión, y se fijará nueva fecha para su celebración, dentro de los cinco días hábiles siguientes cuando se presenten las circunstancias señaladas en el artículo 67 de la Ley.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 100.
 
-La audiencia de conciliación se realizará en las instalaciones del Consejo, pero de manera excepcional, a juicio de éste, podrá realizarse en lugar diverso.
-
-Cuando la naturaleza del asunto lo permita, la conciliación podrá tramitarse por cualquier vía.
-
-En el caso de que la audiencia de conciliación se celebre en términos de lo dispuesto por el artículo 65 Bis de la Ley, el personal del Consejo, después de escuchar a la persona peticionaria o agraviada, presentará a la parte presuntamente responsable del acto, omisión o práctica social discriminatoria, la propuesta de conciliación del caso, a fin de que ésta se pronuncie al respecto en un plazo que no exceda de cinco días hábiles, contados a partir del día siguiente a esa notificación.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 101.
 
-De no llegarse a una conciliación, se levantará acta circunstanciada en la que se hará constar el día, lugar y hora en que inicie y termine la audiencia, las propuestas de conciliación y las posturas adoptadas al respecto. Dicha acta, a juicio del personal del Consejo, podrá ser firmada por las partes o únicamente por personal de la Dirección General Adjunta de Quejas, de conformidad con el artículo 63 bis de la Ley.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
-En caso de incumplimiento del convenio suscrito, el personal del Consejo podrá orientar o canalizar a la parte interesada en promover la ejecución del mismo ante la instancia competente para que le proporcione asesoría o representación para tal efecto.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE JULIO DE 2018)</small>
 
 ### Capítulo IV. De la investigación y conclusión de la queja
 
 ###### Artículo 102.
 
-Cuando la queja no se resuelva en la etapa de conciliación, el Consejo continuará con la etapa de investigación, o se concluirá la queja, de considerar que se cuenta con elementos o pruebas para ello.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 103.
 
-Para realizar la investigación no será impedimento el carácter confidencial o reservado de la información; sin embargo, el Consejo deberá manejar ésta en la más estricta confidencialidad y con apego a la legislación en materia de transparencia y acceso a la información pública gubernamental.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 104.
 
-Para documentar debidamente la investigación de una queja, el Consejo podrá solicitar la rendición y desahogo de todas aquellas pruebas que estime necesarias, con la única condición de que éstas se encuentren previstas como tales por el orden jurídico mexicano.
-
-El plazo para rendir las pruebas requeridas será fijado por el personal del Consejo, de acuerdo a la complejidad de las mismas, pero nunca podrá exceder de los diez días hábiles siguientes a la notificación del requerimiento.
-
-Tal plazo, únicamente podrá ser ampliado por el número de días que el propio Consejo determine, cuando a su juicio, se proporcionen razones suficientes para ello.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 105.
 
-El personal del Consejo podrá presentarse en cualquier oficina pública, establecimiento, institución privada que brinde servicios al público, centro laboral o centro de reclusión, para comprobar todos aquellos datos que estime necesarios, llevar a cabo las entrevistas personales pertinentes, o para mejor proveer, proceder a la revisión y estudio de aquellos expedientes o documentación oportuna, pudiendo obtener las copias certificadas que se requiriesen, para agregarse al expediente.
-
-Las y los particulares, personas físicas o morales, las personas servidoras públicas federales, los poderes públicos federales y las autoridades estatales en su caso, deberán otorgar las facilidades que se requieran para el buen desempeño de las labores de integración e investigación del Consejo, y permitir el acceso a los lugares, a la documentación, o a los archivos respectivos.
-
-Para el cumplimiento de lo dispuesto en este artículo, los verificadores deberán estar provistos de un oficio con firma autógrafa emitida por la persona titular de la Dirección General Adjunta de Quejas, en la que se precisen los alcances de la verificación y el personal a intervenir en ella, además, deberá instrumentarse el acta correspondiente en la que se señalen los hallazgos del acto practicado, misma que deberán suscribir el personal del Consejo que realice la verificación y todas las personas que en ella intervengan.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 106.
 
-El procedimiento de queja podrá concluir por:
-
-I. No surtirse la competencia del Consejo;
-
-II. Tratarse de un caso de no discriminación;
-
-III. No existir elementos suficientes que permitan acreditar, en el ámbito de su competencia del Consejo, la existencia de actos, omisiones o prácticas sociales discriminatorias;
-
-IV. Haberse dictado la resolución por disposición correspondiente, en los términos del artículo 79 de la Ley, quedando abierto el caso exclusivamente para los efectos de su seguimiento;
-
-V. Desistimiento de la persona peticionaria o de la agraviada, expresado por medio de escrito libre y ratificado ante la presencia del personal de la Dirección General Adjunta de Quejas que lo atendió;
-
-VI. Falta de interés de la persona peticionaria o de la presunta agraviada en la continuación del procedimiento;
-
-VII. Haberse acumulado el expediente a otro que continúe en trámite;
-
-VIII. Solucionarse la queja en las etapas de conciliación, o durante el trámite del procedimiento;
-
-IX. Carecer de elementos que permitan la identificación de la persona a la que se le imputan los actos, omisiones o prácticas discriminatorias;
-
-X. Tratarse de un caso de improcedencia;
-
-XI. No existir materia para seguir conociendo del expediente de queja;
-
-XII. Haberse emitido un informe especial, y
-
-XIII. Haberse orientado jurídicamente a la persona peticionaria o agraviada.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 107.
 
-Si finalizada la investigación el Consejo tiene elementos fehacientes de que no se hayan cometido los actos, omisiones o prácticas sociales discriminatorias motivo de queja, se emitirá el acuerdo de no discriminación, que contendrá con toda claridad los fundamentos y motivaciones que den lugar a su emisión.
-
-###### Artículo 108.
-
-Si finalizada la investigación, el Consejo comprueba que las o los particulares, personas físicas o morales, las personas servidoras públicas federales o los poderes públicos federales denunciados, cometieron algún acto, omisión o práctica social discriminatoria, formulará la correspondiente resolución por disposición.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 109.
 
-La resolución por disposición deberá ser aprobada y suscrita por la persona titular de la Presidencia del Consejo, teniendo el carácter de vinculante.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
-Contendrá una síntesis de los hechos motivo de queja, de las diligencias realizadas en la tramitación del expediente de queja y de las evidencias que constan en éste, las motivaciones y los fundamentos que correspondan, y los resolutivos en los que con toda claridad se precisará su alcance, así como las medidas administrativas y de reparación que procedan conforme a lo establecido en el Capítulo VI de la Ley.
+###### Artículo 109.
 
-En la construcción de los argumentos que funden y motiven la resolución por disposición se atenderá a los criterios y principios de interpretación previstos en la Ley.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 110.
 
-Todo convenio, acuerdo o resolución que se formule con motivo de la culminación del procedimiento, además del formato tradicional en que se emita, se hará constar en lenguaje y formato accesible en los casos que así lo considere el Consejo, siendo entregada a la persona peticionaria a la brevedad posible.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 111.
 
-En el acuerdo en el que se tenga por concluido un procedimiento de queja, se establecerá con toda claridad la causa de terminación, su fundamento legal y motivación.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 112.
 
-Los acuerdos de conclusión se notificarán tanto a la persona peticionaria como a la persona particular, persona servidora pública federal o poder público federal involucrado. Asimismo, se les informará con relación a su derecho de interponer el recurso de revisión previsto en el artículo 88 de la Ley, salvo en aquellos casos concluidos, por haberse solucionado la queja en la etapa de conciliación.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 113.
 
-Con la finalidad de visibilizar y hacer del conocimiento de la opinión pública aquellos casos relacionados con presuntos actos, omisiones o prácticas sociales discriminatorias que a juicio del Consejo sean graves, reiterativos, o que tengan una especial trascendencia, dicho organismo podrá emitir, a través de la persona titular de la Presidencia, informes especiales en los que se expondrán los resultados de las investigaciones, así como las omisiones u obstáculos atribuibles a particulares y personas servidoras públicas en su caso; estableciendo propuestas de acciones y medidas para lograr condiciones de igualdad y no discriminación.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 114.
 
-El Consejo tendrá a su cargo la aplicación de las medidas administrativas y de reparación previstas en los artículos 83 y 83 bis de la Ley.
-
-Tales medidas se regirán por lo dispuesto en la Ley, el presente Estatuto, así como en los lineamientos que regulan la aplicación de las medidas administrativas y de reparación del daño en casos de discriminación.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 115.
 
-El personal del Consejo realizará el seguimiento y verificación del cumplimiento de las medidas administrativas y de reparación previstas en la Ley, para lo cual podrá solicitar a las y los particulares, personas físicas o morales, a las personas servidoras públicas federales, así como a los poderes públicos federales, la información y documentación que estime necesaria.
-
-El plazo para rendir dicha información será fijado por el personal del Consejo, de acuerdo a la complejidad de la misma, pero nunca podrá exceder de los diez días hábiles siguientes a la notificación del requerimiento.
-
-Dicho plazo únicamente podrá ser ampliado por el número de días que el propio Consejo determine, cuando a su juicio, se proporcionen razones suficientes para ello.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 116.
 
-El personal del Consejo, para llevar a cabo el seguimiento y verificación del cumplimiento de las medidas administrativas y de reparación, también podrá efectuar inspecciones, realizar entrevistas, así como practicar las acciones que juzgue convenientes para tal efecto.
-
-Las y los particulares, personas físicas o morales, las personas servidoras públicas federales, y los poderes públicos federales deberán otorgar las facilidades que se requieran para el buen desempeño de las labores del personal del Consejo, y permitir el acceso a los lugares, a la documentación, o a los archivos respectivos.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ###### Artículo 117.
 
-El seguimiento de una resolución por disposición, convenio conciliatorio o acuerdo podrá concluir, mediante acuerdo de trámite, por las siguientes causas:
-
-I. Haberse cumplido todas las medidas administrativas y de reparación acordadas;
-
-II. Porque los puntos de la resolución por disposición o los acordados se refieran concretamente a la parte peticionaria o agraviada y éstas manifiesten expresamente su desistimiento, se acredite su falta de interés, o resulte imposible su localización, y que, después de haber hecho todas las gestiones necesarias por el Consejo para allegarse información sobre las medidas, sea imposible obtenerla;
-
-III. Quedarse sin materia, y
-
-IV. Haberse dictado un acuerdo de reapertura, o haber acudido ante la autoridad jurisdiccional para exigir su cumplimiento.
+(DEROGADO, D.O.F. 24 DE JULIO DE 2018)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1272,3 +1232,17 @@ D.O.F 20 DE JUNIO DE 2017.
 D.O.F. 2 DE FEBRERO DE 2018.
 
 > <small>[N. DE E. EL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 24 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EL VEINTIUNO DE AGOSTO DE DOS MIL QUINCE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de los treinta días hábiles siguientes a la entrada en vigor de la reforma a la fracción XIX del artículo 55 del Estatuto, la Dirección General Adjunta de Quejas deberá remitir a la Dirección de Asuntos Jurídicos, todas las carpetas administrativas en trámite formadas en los términos de dicho numeral.
+
+TERCERO. A partir de la entrada en vigor de las reformas al artículo 55, se instruye al titular de la Dirección de Planeación, Administración y Finanzas para que realice todas las gestiones necesarias ante las Autoridades correspondientes a fin de que se provea de forma inmediata respecto de la ampliación estructural requerida para el funcionamiento de la Dirección de Asuntos Jurídicos.
+
+CUARTO. La reforma por la que se deroga el Título Séptimo del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación entrará en vigor al día hábil siguiente de la fecha en que se publique en el Diario Oficial de la Federación el Reglamento que regule (sic) Procedimiento de Queja del Consejo Nacional para Prevenir la Discriminación.
+
+QUINTO. Los procedimientos de queja iniciados antes de la entrada en vigor del presente Acuerdo por el que se deroga el Título Séptimo del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos o actos que le dieron origen.
