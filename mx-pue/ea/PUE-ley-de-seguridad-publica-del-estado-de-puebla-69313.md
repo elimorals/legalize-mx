@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2017-12-29"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -85,41 +85,69 @@ II.- Ayuntamiento: Gobierno colegiado de los Municipios del Estado;
 
 III.- Comisión: La instancia colegiada para el Servicio de Carrera Policial de los distintos cuerpos de seguridad pública;
 
-IV.- Consejo Estatal: Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2018)</small>
 
-V.- Ejecutivo: Poder Ejecutivo del Estado;
+IV.- Consejo Ciudadano: Consejo Ciudadano de Seguridad y Justicia del Estado de Puebla;
 
-VI.- Estado: El Estado Libre y Soberano de Puebla;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-VII.- Federación: Poder Ejecutivo de la Federación;
+V.- Consejo Estatal: Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública;
 
-VIII.- Ley: La Ley de Seguridad Pública del Estado de Puebla;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-IX.- Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+VI.- Ejecutivo: Poder Ejecutivo del Estado;
 
-X.- Instituciones de Seguridad Pública: Las encargadas de la seguridad pública estatal y municipales;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-XI.- Instituciones Policiales: La policía ministerial y los cuerpos de seguridad pública estatal y municipales;
+VII.- Estado: El Estado Libre y Soberano de Puebla;
 
-XII.- Instituto: Instancia de la Procuraduría General de Justicia del Estado encargada de la formación, capacitación y profesionalización de los agentes del Ministerio Público, peritos y policías ministeriales;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-XIII.- Municipio: Entidad de derecho público, base de la división territorial que integra el Estado;
+VIII.- Fiscalía General: Fiscalía General del Estado de Puebla;
 
-XIV.- Procuraduría: La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-XV.- Policía de Carrera: La persona integrante de las Instituciones de Seguridad Pública que cumpla con todos los requisitos que establece el Servicio Profesional de Carrera Policial;
+IX.- Federación: Poder Ejecutivo de la Federación;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-XVI.- Policía Ministerial: Unidad policial encargada de la investigación científica de los delitos, ubicada en la estructura orgánica de la Procuraduría General de Justicia del Estado;
+X.- Ley: La Ley de Seguridad Pública del Estado de Puebla;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-XVII.- Proximidad social: conjunto de acciones que permitan generar mayor confianza y cercanía entre la ciudadanía y las Instituciones Policiales, atendiendo a la necesidad de brindar una respuesta eficaz y personalizada a la demanda social; y
+XI.- Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-XVIII.- Sistema: El Sistema de Seguridad Pública del Estado.
+XII.- Instituciones de Seguridad Pública: Las encargadas de la seguridad pública estatal y municipal;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
+
+XIII.- Instituciones Policiales: La policía ministerial y los cuerpos de seguridad pública estatal y municipal;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
+
+XIV.- Instituto: Instancia de la Fiscalía General encargada de la formación, capacitación y profesionalización de los agentes del Ministerio Público, peritos y policías ministeriales;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
+
+XV.- Municipio: Entidad de derecho público, base de la división territorial que integra el Estado;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
+
+XVI.- Policía de Carrera: La persona integrante de las Instituciones de Seguridad Pública que cumpla con todos los requisitos que establece el Servicio Profesional de Carrera Policial;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
+
+XVII.- Policía Ministerial: Unidad policial encargada de la investigación científica de los delitos, ubicada en la estructura orgánica de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
+
+XVIII.- Proximidad social: Conjunto de acciones que permitan generar mayor confianza y cercanía entre la ciudadanía y las Instituciones Policiales, atendiendo a la necesidad de brindar una respuesta eficaz y personalizada a la demanda social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JULIO DE 2018)</small>
+
+XIX.- Sistema: El Sistema de Seguridad Pública del Estado.
 
 ###### Artículo 4.
 
@@ -1723,13 +1751,19 @@ V.- Proponer reconocimientos por méritos o estímulos para las personas integra
 
 VI.- Realizar denuncias o quejas sobre irregularidades en la prestación de la función de seguridad pública.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
+
 ###### Artículo 131.
 
-Asimismo se podrán establecer instancias ciudadanas que impulsen el análisis y emitan opiniones sobre políticas públicas y acciones de las Instituciones de Seguridad Pública.
+Para efectos de impulsar el análisis y opinión sobre las políticas públicas y acciones de las Instituciones de Seguridad Pública, de Procuración e Impartición de Justicia en el Estado, se crea el Consejo Ciudadano de Seguridad y Justicia del Estado de Puebla como un Organismo de Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
 
 ###### Artículo 132.
 
-Las instancias de participación ciudadanas referidas en los artículos anteriores, se integrarán conforme a la legislación estatal aplicable y los cargos de sus integrantes serán honoríficos, debiendo garantizar la integración de representantes de las universidades con mayor antigüedad, organizaciones civiles orientadas al tema de seguridad, representantes de cámaras empresariales y especialistas en la materia.
+El Consejo Ciudadano se integrará conforme a las disposiciones contenidas en el Título Undécimo de esta Ley, la Ley Orgánica de la Administración Pública del Estado de Puebla, y demás disposiciones legales aplicables.
+
+Los cargos de sus integrantes serán honoríficos, debiendo garantizar la integración de representantes de las instituciones educativas, organizaciones civiles orientadas al tema de seguridad, representantes de cámaras empresariales y especialistas en la materia.
 
 ### CAPÍTULO SEGUNDO. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
@@ -1820,6 +1854,314 @@ Para el eficaz desempeño de la prestación de los servicios de seguridad person
 ###### Artículo 143.
 
 El Secretario de Seguridad Pública podrá solicitar el apoyo de la Procuraduría General de Justicia y demás instancias estatales que tengan a su cargo funciones de seguridad, para que en el ámbito de su competencia, colaboren en el otorgamiento de las medidas de seguridad personal al ex servidor público a que se refiere este Capítulo.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2018)</small>
+
+## TÍTULO UNDÉCIMO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2018)</small>
+
+### CAPÍTULO ÚNICO. DEL CONSEJO CIUDADANO DE SEGURIDAD Y JUSTICIA DEL ESTADO DE PUEBLA
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 144.
+
+El Consejo Ciudadano de Seguridad y Justicia del Estado de Puebla es un organismo de participación ciudadana, con autonomía de gestión, operativa y técnica, representativo de las siete regiones del Estado.
+
+El Consejo Ciudadano tendrá su domicilio en la Ciudad de Puebla, Puebla, no siendo obstáculo lo anterior para que puedan sesionar en lugar distinto en el interior del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 145.
+
+El objeto del Consejo Ciudadano es analizar y opinar en materia de seguridad pública, procuración e impartición de justicia, cultura cívica, prevención y atención a las víctimas del delito y reinserción social, con base en la promoción de la participación ciudadana.
+
+El Consejo Ciudadano podrá colaborar con las autoridades federales, estatales y municipales, así como con las organizaciones de la sociedad civil y Consejos Ciudadanos que en materia de seguridad y justicia estén establecidos en la República Mexicana, en aquellas acciones que no sean propias de la Seguridad Nacional o pongan en riesgo el buen desempeño en la función de la seguridad pública y procuración de justicia.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 146.
+
+El Consejo Ciudadano, para el cumplimiento de su objeto, tendrá las siguientes funciones:
+
+I.- Establecer vínculos con organizaciones del sector social y privado que desarrollen actividades relacionadas con las materias de seguridad pública, procuración e impartición de justicia, cultura cívica, prevención y atención a las víctimas del delito y reinserción social, a fin de integrar los esfuerzos ciudadanos en el objetivo común de coadyuvar al mejoramiento de la seguridad pública en el Estado de Puebla;
+
+II.- Evaluar las políticas públicas en materia de seguridad, justicia y prevención del delito de los distintos órdenes de gobierno y proponer acciones para mejorar la seguridad pública en el Estado, con el objetivo de fortalecer la participación ciudadana en la materia;
+
+III.- Impulsar la participación ciudadana en las acciones encaminadas a prevenir y evitar conflictos que alteren el ambiente social;
+
+IV.- Colaborar con la Secretaría de Seguridad Pública, la Fiscalía General, el Consejo Estatal y demás instancias de procuración, administración de justicia y seguridad pública, en la implementación, evaluación, organización, desarrollo y seguimiento de cualquier forma o esquema de participación ciudadana, que permita una visión integral de los requerimientos o necesidades que, en materia de seguridad pública y justicia, tengan los habitantes del Estado;
+
+V.- Coadyuvar con la Secretaría General de Gobierno, la Secretaría de Seguridad Pública, así como con la Fiscalía General, y demás instancias federales, estatales y municipales, en la realización de eventos de carácter informativo y formativo, tendientes a dar a conocer y apoyar los programas en materia de prevención del delito y fomento a la cultura ciudadana de la legalidad y seguridad; así como para la constitución de comités, con base en sistemas de alerta y prevención;
+
+VI.- Proponer a las autoridades competentes, de conformidad con sus atribuciones, programas de participación ciudadana en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública y procuración de justicia;
+
+VII.- Dar seguimiento a la actuación de las autoridades federales, estatales y municipales, que en materia de seguridad y justicia ejercen sus funciones dentro del Estado;
+
+VIII.- Realizar recomendaciones y brindar apoyo al fortalecimiento y restauración de las dependencias, entidades y organismos autónomos en materia de seguridad pública, procuración e impartición de justicia, cultura cívica, prevención y atención a las víctimas del delito y reinserción social;
+
+IX.- Promover el diálogo permanente entre los sectores sociales y las autoridades, como un factor de mejora en materia de seguridad pública y procuración de justicia;
+
+X.- Integrar comités y subcomités técnicos o ejecutivos, para apoyar la supervisión del correcto funcionamiento del Consejo Ciudadano, así como comisiones o grupos de trabajo, que considere necesarios para el cumplimiento de su objeto;
+
+XI.- Solicitar a las autoridades que sean competentes en la prevención y combate al delito, así como a la procuración e impartición de justicia, sus estadísticas, información y documentos necesarios para la evaluación;
+
+XII.- Formular su Reglamento interior, y someterlo a la consideración del Ejecutivo del Estado para su aprobación y publicación de conformidad con la normatividad aplicable; y
+
+XIII.- Las demás que se consideren convenientes conforme a su naturaleza de órgano de análisis y opinión ciudadana.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 147.
+
+El Consejo Ciudadano estará integrado por:
+
+I.- Un Presidente Honorario que será el Gobernador del Estado, quien en caso de ausencia será suplido por el Secretario General de Gobierno;
+
+II.- Un Presidente Ejecutivo que será designado entre los Consejeros Ciudadanos;
+
+III.- El número de Consejeros Ciudadanos necesarios para el cumplimiento de su objeto, el que no podrá exceder de veintiún integrantes;
+
+IV.- Un Director Ejecutivo, que tendrá derecho a voz pero sin voto; y
+
+V.- Un Secretario Técnico, designado por el Consejo Ciudadano por mayoría de votos, que tendrá derecho a voz, pero sin voto.
+
+Los cargos de los integrantes del Consejo Ciudadano, a excepción del Director Ejecutivo y el Secretario Técnico, serán honoríficos, por tanto, no recibirán retribución o emolumento alguno.
+
+Los Consejeros Ciudadanos no serán considerados servidores públicos y serán nombrados por el Gobernador del Estado a propuesta del Consejo Ciudadano, quienes deberán reunir los requisitos establecidos en la Ley.
+
+El Presidente Ejecutivo será sustituido en sus ausencias por el Consejero que él mismo designe.
+
+Los Consejeros Ciudadanos durarán en el ejercicio de su encargo por el periodo de seis años. La mitad de los miembros del Consejo Ciudadano será renovada de manera escalonada cada tres años.
+
+El Consejo Ciudadano podrá invitar a sus sesiones por conducto del Director Ejecutivo, a representantes de las instituciones educativas en el Estado, organizaciones civiles, autoridades de los tres órdenes de gobierno, representantes de cámaras empresariales y especialistas en la materia de seguridad y justicia, quienes podrán externar sus opiniones.
+
+Para la vigilancia, control y evaluación de sus funciones el Consejo Ciudadano contará con una Contraloría Social que será designada en términos de lo que para tal efecto disponga la Secretaría de la Contraloría del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 148.
+
+Para ser Consejero Ciudadano deberán cumplirse los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- No haber desempeñado en los últimos tres años cargo, comisión o empleo alguno en el servicio público de los municipios, entidades federativas o la federación, o en partido político alguno, ni realizar actividades partidistas;
+
+III.- No haber sido condenado por sentencia definitiva como responsable por delito doloso, o por delito culposo calificado como grave por la ley, ni estar sujeto a procedimiento penal o procedimiento administrativo disciplinario;
+
+IV.- Ser ciudadano reconocido públicamente por sus actividades en beneficio de la sociedad; y
+
+V.- Ser residente del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 149.
+
+Los Consejeros Ciudadanos tendrán las siguientes atribuciones:
+
+I.- Asistir a las sesiones ordinarias, extraordinarias y plenarias, así como a aquellas sesiones en las que sea convocado el Consejo Ciudadano por las comisiones y demás instituciones y autoridades estatales, municipales y de la federación;
+
+II.- Proponer la suscripción de acuerdos y la celebración de convenios para mejorar la seguridad pública y la impartición de justicia en el Estado;
+
+III.- Participar en la elaboración del programa anual de trabajo;
+
+IV.- Integrar las Comisiones de Trabajo que se conformen para el cumplimiento del objeto y facultades del Consejo;
+
+V.- Realizar las actividades que les sean encomendadas para el cumplimiento de las atribuciones del Consejo y del Presidente Ejecutivo;
+
+VI.- Cumplir con los acuerdos o compromisos que se adquieran en el pleno del Consejo y en las comisiones que participen;
+
+VII.- Aportar al contenido de la información que se publique en la página electrónica del Consejo y demás medios electrónicos utilizados;
+
+VIII.- Intervenir en las sesiones del Consejo o Comisión que integran para manifestar en el tiempo que le otorgue el Presidente Ejecutivo o Presidente de la Comisión de que se trate, a fin de exponer el trabajo que realice, el soporte de sus opiniones o el sentido de su voto en los asuntos que lo requieran;
+
+IX.- Presentar inconformidades, quejas o denuncias por la actuación indebida de servidores públicos, que obren en perjuicio de la sociedad; y
+
+X.- Las demás que se establezcan en la presente Ley, en el Reglamento Interior del Consejo Ciudadano, y demás disposiciones legales vigentes en el Estado y aquellas asignadas por el propio Consejo.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 150.
+
+El cargo de Consejero Ciudadano es intransferible.
+
+En caso de remoción, renuncia u otra causa que impida el desempeño de sus funciones, se nombrará un nuevo Consejero Ciudadano siguiendo el procedimiento establecido para tal efecto.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 151.
+
+Serán causas de remoción del cargo de Consejero Ciudadano, las siguientes:
+
+I.- La inasistencia a más de tres sesiones ordinarias o extraordinarias en un año calendario sin causa justificada;
+
+II.- Dejar de residir en el Estado;
+
+III.- Estar sujeto a procedimiento penal o procedimiento administrativo disciplinario;
+
+IV.- Ser condenado por sentencia definitiva en materia penal;
+
+V.- Ostentarse como servidor público o representante de cualquier autoridad;
+
+VI.- Faltar a la confidencialidad y reserva de los asuntos que lo ameriten;
+
+VII.- Desempeñar algún cargo o comisión remunerados por la federación, entidades federativas o municipios;
+
+VIII.- Por contender a un cargo de elección popular;
+
+IX.- Actuar en forma contraria a los intereses o fines del Consejo; y
+
+X.- Las demás que a consideración del Presidente Honorario o del Consejo Ciudadano se estimen graves.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 152.
+
+El Director Ejecutivo será designado por el Gobernador del Estado a propuesta del Presidente Ejecutivo y por el voto de la mayoría simple de los Consejeros Ciudadanos, y deberá reunir, además de los requisitos señalados para ser Consejero Ciudadano, los siguientes:
+
+I.- Contar con conocimientos en materia de seguridad pública y justicia, con experiencia en materia administrativa; y
+
+II.- Contar con título profesional, con al menos cinco años de experiencia en labores relacionadas con los fines de este Consejo Ciudadano.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 153.
+
+El Presidente Honorario tendrá las siguientes atribuciones:
+
+I.- Presidir las sesiones del Consejo Ciudadano;
+
+II.- Someter a consulta del Consejo Ciudadano los asuntos de su competencia que se consideren de relevancia para la sociedad;
+
+III.- Establecer las vías de comunicación e información institucional adecuadas, para la retroalimentación del Consejo Ciudadano, así como para coadyuvar, entre otros en los procesos de evaluación de las políticas de prevención del delito y de las instituciones de seguridad pública; y
+
+IV.- Las demás que se establezcan en la presente Ley, en el Reglamento Interior del Consejo Ciudadano, y demás disposiciones legales vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 154.
+
+El Presidente Ejecutivo tendrá las siguientes funciones:
+
+I.- Presidir las sesiones del Consejo Ciudadano, en ausencia del Presidente Honorario, con excepción de las sesiones plenarias;
+
+II.- Representar al Consejo Ciudadano;
+
+III.- Vigilar el cumplimiento de los acuerdos del Consejo Ciudadano;
+
+IV.- Someter a la consideración del Consejo Ciudadano los temas a tratar en cada sesión;
+
+V.- Revisar periódicamente los informes de actividades de las Comisiones y el Consejo Ciudadano;
+
+VI.- Proponer al Consejo Ciudadano, para su autorización, la celebración de convenios y demás instrumentos jurídicos para el cumplimiento de sus atribuciones;
+
+VII.- Determinar, a propuesta de los Consejeros Ciudadanos, el contenido de la información que deba publicarse en la página electrónica del Consejo Ciudadano y demás medios empleados para la comunicación entre el Consejo Ciudadano y la ciudadanía;
+
+VIII.- Presentar en dos tantos en la última sesión ordinaria del año un informe impreso y digital de las labores del Consejo Ciudadano y extender un tanto igual al Presidente Honorario signado por todos los Consejeros;
+
+IX.- Someter a la aprobación del Pleno el informe anual;
+
+X.- Someter a votación del Consejo Ciudadano la propuesta de remoción de algún consejero; y
+
+XI.- Las demás que le asigne el Reglamento Interior del Consejo Ciudadano y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 155.
+
+El Director Ejecutivo tendrá las siguientes funciones:
+
+I.- Ejecutar los acuerdos del Consejo Ciudadano;
+
+II.- Convocar a las sesiones del Consejo Ciudadano;
+
+III.- Elaborar el orden del día de las sesiones;
+
+IV.- Asistir a las sesiones del Consejo Ciudadano y apoyar al Presidente Ejecutivo en la conducción de las mismas, en las que tendrá derecho de voz, sin voto;
+
+V.- Preparar y entregar de manera oportuna a los Consejeros Ciudadanos la documentación y el material necesarios para el estudio y discusión de los asuntos contenidos en el orden del día;
+
+VI.- Verificar la asistencia de los integrantes del Consejo Ciudadano y llevar el registro;
+
+VII.- Declarar la existencia de quórum legal;
+
+VIII.- Formular las actas de cada sesión y llevar su registro;
+
+IX.- Registrar las votaciones de los integrantes del Consejo Ciudadano, y dar a conocer el resultado de las mismas;
+
+X.- Dar fe de lo actuado en las sesiones;
+
+XI.- Dar seguimiento a los acuerdos adoptados en cada sesión para su cumplimiento;
+
+XII.- Instrumentar las medidas necesarias para el resguardo del archivo impreso y digital del Consejo Ciudadano;
+
+XIII.- Recibir la correspondencia dirigida al Consejo Ciudadano y mantener informado al Presidente sobre el trámite que se dé a la misma;
+
+XIV.- Fungir como enlace del Consejo Ciudadano ante las instancias públicas y privadas para el adecuado desarrollo de sus actividades;
+
+XV.- Elaborar el programa anual de trabajo, tornando (sic) en consideración las propuestas de los Consejeros Ciudadanos, y someterlo a la consideración del Presidente Ejecutivo, y a votación del Consejo Ciudadano;
+
+XVI.- Coordinar las actividades al interior de las comisiones de trabajo e informar al Consejo Ciudadano sobre el desarrollo y resultados de las mismas;
+
+XVII.- Coadyuvar con el Presidente Ejecutivo en la formulación del informe anual; y
+
+XVIII.- Las demás que se establezcan en la presente Ley, en el Reglamento Interior del Consejo Ciudadano y demás disposiciones legales vigentes en el Estado.
+
+Para el ejercicio de sus atribuciones el Director Ejecutivo será auxiliado por el Secretario Técnico.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 156.
+
+El Consejo Ciudadano sesionará ordinariamente una vez al mes y extraordinariamente cuantas veces fuere necesario para el cumplimiento de su objeto, previa convocatoria por escrito y por solicitud de tres o más Consejeros Ciudadanos, del Presidente Ejecutivo o del Presidente Honorario.
+
+En la primera sesión ordinaria del año, los Consejeros Ciudadanos deberán aprobar un plan de trabajo anual en el que se establezcan los objetivos, metas y estrategias para el desempeño de sus actividades; así como acciones que corresponderán a las comisiones y grupos respectivos.
+
+El Consejo Ciudadano sesionará de manera plenaria cada tres meses, contando con la presencia del Presidente Honorario y los titulares de las dependencias, entidades y organismos autónomos competentes en materia de seguridad pública, procuración e impartición de justicia, cultura cívica, prevención y atención a las víctimas del delito y reinserción social.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 157.
+
+Las sesiones plenarias, ordinarias y extraordinarias se celebrarán previa convocatoria emitida por el Director Ejecutivo.
+
+Para las sesiones plenarias, se expedirá la convocatoria respectiva con cinco días de anticipación; para las sesiones ordinarias, se expedirán las convocatorias con tres días hábiles de anticipación, y para el caso de las extraordinarias con un día hábil de anticipación, con la salvedad de que en estas últimas pueda convocarse el mismo día en situaciones emergentes.
+
+La convocatoria deberá ser notificada mediante oficio a través de los medios electrónicos que los Consejeros autoricen en sesión del Consejo, a todos los integrantes del Consejo Ciudadano; y deberá especificar el lugar, fecha y hora previstos para la celebración de las sesiones y se deberá hacer acompañar por el orden del día respectivo y la documentación de apoyo de los temas a tratar.
+
+Para que las sesiones sean válidas se requerirá la asistencia de la mayoría de los integrantes del Consejo Ciudadano.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 158.
+
+Los acuerdos o resoluciones del Consejo Ciudadano que se tomen en las sesiones serán válidos, siempre que haya quórum legal y que los acuerdos tomados sean aprobados por mayoría de votos de los miembros asistentes.
+
+El Presidente Ejecutivo tendrá voto de calidad en caso de empate.
+
+Si la sesión no pudiera celebrarse el día señalado por falta de quórum, el Director Ejecutivo emitirá una nueva convocatoria, en la cual se indicará tal circunstancia.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 159.
+
+El Consejo Ciudadano, para el desarrollo de sus actividades y cumplimiento de sus obligaciones podrá integrar comisiones, comités y subcomités técnicos o ejecutivos para apoyar la supervisión de la marcha normal del órgano, los cuales se establecerán en su Reglamento interior.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 160.
+
+Para su mejor funcionamiento, el Consejo podrá contar con personal de apoyo, bienes y recursos que, en su caso, y en términos de las disposiciones aplicables, le comisionen, adscriban, asignen o destinen las autoridades estatales y demás instancias gubernamentales y de los sectores social y privado.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2018)</small>
+
+###### Artículo 161.
+
+El Consejo Ciudadano para realizar cabalmente sus funciones, contará con el personal necesario.
+
+Las relaciones laborales entre el organismo y sus trabajadores, se regirán por la normatividad que resulte aplicable.
 
 ## TRANSITORIOS
 
@@ -1936,3 +2278,27 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Consejeros Ciudadanos nombrados por el Ejecutivo del Estado de conformidad al Acuerdo del Ejecutivo del Estado por el que crea el Consejo Ciudadano de Seguridad y Justicia del Estado de Puebla, como un Organismo de Participación Ciudadana, publicado en el Periódico Oficial del Estado el veintiocho de febrero del dos mil diecisiete, se considerarán ratificados en su cargo dentro del Consejo Ciudadano de Seguridad y Justicia del Estado de Puebla, de conformidad con lo señalado en el presente Decreto.
+
+TERCERO. La mitad de los integrantes del Consejo Ciudadano por única ocasión, se renovará transcurridos tres años en su encargo, contados a partir de la publicación del presente Decreto.
+
+Para cumplir con la renovación, se considerará en primer lugar a aquéllos que por voluntad propia decidan separarse del cargo; en caso de no alcanzar el número necesario establecido para la renovación, se realizará un sorteo entre los miembros restantes.
+
+En todos los periodos subsecuentes se atendrá a lo establecido en el artículo 147 de la presente Ley y a las disposiciones contendidas en el Reglamento Interior del Consejo Ciudadano.
+
+CUARTO. El Consejo Ciudadano celebrará sesión de instalación dentro de los 20 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. El Ejecutivo del Estado expedirá el Reglamento Interior del Organismo, mismo que deberá publicarse en el Periódico Oficial del Estado en un plazo que no excederá de 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Hasta en tanto no se expida y publique el reglamento a que se refiere el párrafo anterior, será aplicable, el Reglamento Interior del Consejo Ciudadano de Seguridad y Justicia del Estado de Puebla, publicado el 6 de septiembre de 2013, en el Periódico Oficial del Estado, en lo que no se oponga al presente Decreto.
+
+SEXTO. Todas las referencias a la Procuraduría General de Justicia del Estado se entenderán realizadas a la Fiscalía General del Estado de Puebla, en términos de lo establecido por (sic) Ley Orgánica de la Fiscalía General del Estado de Puebla.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
