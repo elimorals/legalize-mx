@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-las-personas-adultas-mayores-del-72940"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2017-02-22"
+last_updated: "2018-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO DÉCIMO DE LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 25 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de febrero de 2010.
 
@@ -774,3 +774,47 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXV/EXLEY/0760/2018 II P.O. LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley, dentro de los 180 días naturales posteriores a su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo de Protección de los Derechos de las Personas Mayores, deberá quedar instalado dentro de los noventa días naturales posteriores a la publicación del Reglamento de la Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los ayuntamientos deberán instalar los Consejos Municipales, dentro de los noventa días naturales posteriores a la instalación del Consejo de Protección de los Derechos de las Personas Mayores.
+
+###### ARTÍCULO QUINTO.
+
+La Dirección de Grupos Vulnerables y Prevención a la Discriminación, dependiente de la Secretaría de Desarrollo Social, publicará los lineamientos y emitirá las reglas de operación para la organización, funcionamiento, otorgamiento y control de la pensión a que se refiere el artículo 94 de la Ley, con anterioridad al inicio del ejercicio fiscal 2019 en el que se disponga de este apoyo.
+
+###### ARTÍCULO SEXTO.
+
+Las autoridades y demás organismos públicos que presten servicios a personas mayores deberán, dentro de los 360 días naturales posteriores a la entrada en vigor de la Ley, adecuar sus manuales de procedimientos, lineamientos y demás aspectos necesarios para la correcta aplicación de la misma.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen, salvo que las contenidas en la presente Ley sean más favorables para las personas mayores, en cuyo caso se privilegiará la aplicación de las disposiciones contenidas en el presente ordenamiento.
+
+###### ARTÍCULO OCTAVO.
+
+Todo ordenamiento que haga referencia a personas adultas mayores, se entenderá que se refiere a personas mayores, en tanto se realizan las adecuaciones legislativas conducentes.
+
+###### ARTÍCULO NOVENO.
+
+Las autoridades responsables deberán prever sus nuevas obligaciones con los recursos humanos, materiales y financieros actualmente asignados. El Poder Ejecutivo Estatal deberá, atendiendo al principio de progresividad, incluir en los subsecuentes Presupuestos de Egresos del Estado, los recursos necesarios para lograr la plena vigencia de la presente Ley.
+
+###### ARTICULO DECIMO.
+
+Se abroga la Ley de los Derechos de las Personas Adultas Mayores del Estado de Chihuahua, aprobada mediante Decreto número 752/09 I P.O., publicado en el Periódico Oficial del Estado No. 10, de fecha 3 de febrero de 2010.
