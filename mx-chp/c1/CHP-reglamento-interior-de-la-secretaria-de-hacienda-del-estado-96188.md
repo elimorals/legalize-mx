@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-961
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-04"
-last_updated: "2018-03-14"
+last_updated: "2018-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MARZO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico oficial del Estado de Chiapas, el miércoles 4 de septiembre de 2013.
 
@@ -4148,3 +4148,23 @@ Artículo Tercero.- Se derogan los acuerdos y demás disposiciones de menor jera
 Artículo Cuarto.- La Unidad de Apoyo Administrativo de la Secretaría llevará a cabo las acciones conducentes para la actualización del manual de Organización en un plazo no mayor a 60 días hábiles contados a partir de la publicación del presente Reglamento.
 
 Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2719-A-2018 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA”.]
+
+Artículo Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Hacienda, publicado en el Periódico Oficial número 053, Tomo III, de fecha 04 de septiembre de 2013; así como todas las reformas al mismo, así como las disposiciones de menor o igual jerarquía que se opongan al presente Reglamento Interior.
+
+Artículo Tercero. En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario de Hacienda resolverá lo conducente.
+
+Artículo Cuarto. Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario de Hacienda resolverá lo conducente.
+
+Artículo Quinto. El Manual de Organización de la Secretaría de Hacienda, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la entrada en vigor el (sic) presente Reglamento Interior.
+
+Artículo Sexto. En tanto se expide el Manual de Organización respectivo, el Secretario de Hacienda resolverá las incidencias de operación que se originen por la aplicación del presente Reglamento Interior.
+
+Artículo Séptimo. La Secretaría de Hacienda deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del mismo, en términos de la Ley de Protección Civil del Estado de Chiapas y demás ordenamientos legales aplicables.
+
+Artículo Octavo. En cumplimiento a lo dispuesto por el artículo 13 párrafo segundo, en correlación al artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas; y 13 fracción V de la Ley Estatal de (sic) Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
