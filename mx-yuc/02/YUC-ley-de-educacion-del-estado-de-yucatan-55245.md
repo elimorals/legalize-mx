@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2018-04-30"
+last_updated: "2018-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2018.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -321,13 +321,21 @@ XIII.- Impulsar la investigación educativa que permita la planeación y la mejo
 
 XIV.- Promover y desarrollar programas y actividades que fortalezcan la identidad yucateca;
 
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2018)</small>
+
+XV.- Diseñar y ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas en los términos de la Ley General de Educación;
+
+> <small>(ADICIONADA, D.O. 25 DE JULIO DE 2018)</small>
+
+XVI.- Garantizar que, en las instituciones educativas de nivel básico y media superior, la integración por aula escolar no exceda de los 30 alumnos;
+
+> <small>(ADICIONADA, D.O. 25 DE JULIO DE 2018)</small>
+
+XVII.- Garantizar en las instituciones educativas públicas de nivel básico o media superior, la inscripción a todas aquellas personas que deseen recibir educación, lo anterior, sin que el número máximo de 30 alumnos instaurado por aula escolar sea motivo alguno para negar dicha inscripción, y
+
 > <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-XV.- Diseñar y ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas en los términos de la Ley General de Educación, y
-
-> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
-
-XVI.- Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación, de la Constitución Política del Estado y de esta Ley.
+XVIII.- Las demás que emanen del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación, de la Constitución Política del Estado y de esta Ley.
 
 > <small>(ADICIONADO, D.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -514,6 +522,10 @@ El Gobierno del Estado, en concurrencia con la Federación, llevará a cabo prog
 ###### Artículo 26.
 
 La Secretaría de Educación diseñará y operará un Programa Estatal de Educación que tome en cuenta todos los tipos, niveles y modalidades educativos y que considere tanto los aspectos cuantitativos como los cualitativos de las actividades educativas presentes y futuras. El Programa Estatal de Educación se apoyará en los diagnósticos y evaluaciones del Sistema Estatal de Educación, que deberá contar con un sistema de información educativa que contenga bases actualizadas de alumnos, profesores y escuelas, así como de la demanda potencial a partir de la dinámica cultural, científica, demográfica y económica.
+
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2018)</small>
+
+En el Programa Estatal de Educación, se contemplará que las aulas escolares de las instituciones educativas de nivel básico y media superior, así como las que cuenten con validez oficial, no podrán exceder de 30 alumnos.
 
 ###### Artículo 27.
 
@@ -767,11 +779,17 @@ VII.- Haga conciencia de la necesidad del aprovechamiento racional de los recurs
 
 VIII.- Preste especial atención a la formación fundamental en valores tanto morales como cívicos de los educandos y promueva el establecimiento de una nueva y adecuada cultura vial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JULIO DE 2018)</small>
+
 ###### Artículo 42.
 
-Los métodos de enseñanza deberán ser congruentes con los objetivos de la educación y asegurar la participación activa del educando, así como estimular su iniciativa y su sentido de responsabilidad social. Consecuentemente, se procurará que el número de alumnos en los grupos sea adecuado a cada nivel escolar o tipo educativo.
+Los métodos de enseñanza deberán ser congruentes con los objetivos de la educación y asegurar la participación activa del educando, así como estimular su iniciativa y su sentido de responsabilidad social. Consecuentemente, el número de alumnos en los grupos de nivel básico y media superior por aula escolar será máximo de treinta y los demás niveles serán de acuerdo a la capacidad e infraestructura de cada nivel escolar o tipo educativo.
 
 El maestro es el responsable de la conducción del proceso educativo en el aula; por lo tanto, los métodos de enseñanza deberán propiciar su iniciativa para la innovación pedagógica.
+
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2018)</small>
+
+Es responsabilidad del docente, fungir como guía y formador del alumno durante el proceso educativo en el aula, vigilando y apoyando los conocimientos adquiridos, así como orientándolos a obtener el perfil requerido en cada grado, a fin de terminar la educación básica con alto nivel de desarrollo educativo.
 
 ### CAPÍTULO III. De la Evaluación
 
@@ -2344,3 +2362,15 @@ D.O. 30 DE ABRIL DE 2018.
 Artículo único. Entrada en vigor
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el diario oficial del estado.
+
+D.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 632/2018 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN DE CALIDAD".]
+
+Artículo primero. Este decreto entrará en vigor a partir del 15 de agosto de 2019, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. El Poder Ejecutivo del Estado de forma gradual desde la entrada en vigor de este decreto hasta el año 2022, preverá en su Presupuesto de Egresos del Estado las partidas presupuestales necesarias para cubrir con la infraestructura escolar que se requiera para dar cumplimiento a lo establecido.
+
+Artículo tercero. Las escuelas de educación básica y nivel medio superior, que cuente con infraestructura reducida y solo puedan prestar atención educativa a 20 o 25 alumnos, estas seguirán funcionando de la misma forma sin aumento de alumnos, en tanto estas, no sean ampliadas en cuanto a su infraestructura y equipamiento adecuado para la atención de hasta 30 alumnos.
+
+Artículo cuarto. Se derogan todas las disposiciones que se opongan a este decreto.
