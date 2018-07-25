@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2018-02-14"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2018.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -1213,6 +1213,10 @@ V. El Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Te
 
 VI. El Registro Estatal del Delito de Tortura.
 
+> <small>(ADICIONADA, D.O. 25 DE JULIO DE 2018)</small>
+
+VII. El Registro Estatal de Videovigilancia.
+
 ### Capítulo II. Registros administrativos
 
 #### Sección primera. Registro Estatal de Detenciones
@@ -1399,6 +1403,16 @@ III. El estado de las investigaciones.
 
 IV. La información referente a la víctima, como su situación jurídica, edad, sexo, o cualquier otra condición relevante para los efectos estadísticos, en su caso.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 25 DE JULIO DE 2018)</small>
+
+#### Sección séptima. Registro Estatal de Videovigilancia
+
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2018)</small>
+
+Artículo 109 quinquies. Integración
+
+El Registro Estatal de Videovigilancia estará integrado por la información prevista en el artículo 46 de la Ley de Videovigilancia del Estado de Yucatán y se regulará por lo dispuesto en el capítulo IX de la misma ley.
+
 ## TÍTULO SEXTO. Servicios de seguridad privada
 
 ### Capítulo único
@@ -1546,3 +1560,27 @@ Se abroga la Ley para Prevenir y Sancionar la Tortura del Estado de Yucatán, pu
 Tercero. Delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes
 
 El fiscal general deberá ajustar la normativa interna de la Fiscalía General del Estado para adscribir la función de persecución e investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes a una fiscalía investigadora.
+
+D.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 634/2018 POR EL QUE SE EMITE LA LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Registro de cámaras de videovigilancia
+
+Las instituciones de seguridad pública y empresas de seguridad privada que, a la entrada en vigor de este decreto, utilicen cámaras de videovigilancia, contarán con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor, para proporcionar a la Secretaría de Seguridad Pública la información de su competencia que permita integrar el Registro Estatal de Videovigilancia.
+
+Tercero. Difusión de cámaras de videovigilancia
+
+Las instituciones de seguridad pública y empresas de seguridad privada que, a la entrada en vigor de este decreto, utilicen cámaras de videovigilancia, contarán con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor, para cumplir con la obligación dispuesta en el artículo 37 de la Ley de Videovigilancia del Estado de Yucatán.
+
+Cuarto. Emisión de lineamientos
+
+La Secretaría de Seguridad Pública deberá emitir los lineamientos en los cuales se definan, como mínimo, el criterio que determine el número de cámaras de videovigilancia a instalar en los desarrollos inmobiliarios de tipo fraccionamiento, sus características técnicas y los procedimientos en la materia en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Aplicación de norma técnica
+
+En tanto se emiten los lineamientos previstos en el artículo transitorio anterior de este decreto, la Secretaría de Seguridad Pública aplicará, en lo conducente, la Norma Técnica para Estandarizar las Características Técnicas y de Interoperabilidad de los Sistemas de Video-vigilancia para la Seguridad Pública.
