@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-comunicacion-social-77605"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-20"
-last_updated: "2010-10-20"
+last_updated: "2018-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,17 @@ state: "CHP"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE COMUNICACIÓN SOCIAL DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE COMUNICACION SOCIAL DEL ESTADO DE CHIAPAS
+REGLAMENTO INTERIOR DEL INSTITUTO DE COMUNICACIÓN SOCIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 20 de octubre de 2010.
 
 Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 42 y 44, de la Constitución Política del Estado de Chiapas; 5°, 8°, 13 y 23, de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones antes expuestos, el Ejecutivo a mi cargo, tiene a bien expedir el siguiente:
 
@@ -440,3 +442,23 @@ Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; el 26 de agosto de 2010.
 
 Juan Sabines Guerrero, Gobernador del Estado de Chiapas.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2722-A-2018 REGLAMENTO INTERIOR DEL INSTITUTO DE COMUNICACIÓN SOCIAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto de Comunicación Social del Estado, publicado en el Periódico Oficial número 257, Tomo III, mediante publicación número 1907-A-2010, de fecha 20 de octubre de 2010; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al Presente Reglamento Interior.
+
+Artículo Tercero.- En caso de controversia en cuando (sic) a la aplicación de este Reglamento Interior, y de las cuestiones no previstas respecto al funcionamiento de los Órganos Administrativos, el Director General resolverá lo conducente.
+
+Artículo Cuarto. El Manual de Organización del Instituto, deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Quinto. En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto. El Instituto deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Ley de Protección Civil del Estado de Chiapas y demás normatividad aplicable.
+
+Artículo Séptimo. En cumplimiento a lo dispuesto por los artículos 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas, y 13 Fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
