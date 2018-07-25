@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-chihuahua-4729"
 country: "mx"
 rank: "ley"
 publication_date: "1981-11-11"
-last_updated: "2016-10-03"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY QUE CREA EL PREMIO CHIHUAHUA
 
-LEY QUE CREA EL "PREMIO CHIHUAHUA"
+LEY QUE CREA EL "PREMIO CHIHUAHUA" DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 11 de noviembre de 1981.
 
@@ -57,9 +57,9 @@ III.- Sociales.
 
 IV.- Literarias.
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-V.- Artes Visuales, y
+V.- Artes Visuales.
 
 > <small>(ADICIONADA, P.O. 23 DE ABRIL DE 1994)</small>
 
@@ -97,13 +97,15 @@ II. En Sociales y Literarias, de la misma manera con un mínimo de sesenta cuart
 
 III. En Artes Visuales, se presentará la obra original sin firmas y tres fotografías a color de siete por once pulgadas, dentro de las manifestaciones de: Escritura, óleo y acrílico, gráfica, gouache y fotografía.
 
-En éste caso, al (sic) Dirección General de Desarrollo Social determinará anualmente, la manifestación sujeta a concurso.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
+
+En este caso, la Secretaría de Cultura del Gobierno del Estado determinará anualmente, la manifestación sujeta a concurso.
 
 IV. En Música, la partitura en original y dos copias, con un mínimo de ocho compases y un máximo de treinta y dos en cualquiera de sus géneros. En el caso de canción, deberá incluirse la letra respectiva; y en el de música de concierto, podrá ser con un máximo de tres movimientos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2018)</small>
 
-V. En periodismo se premiará a quien acredite o sea propuesto como la persona con mejor trayectoria periodística; los documentos que avalen su labor se entregarán en original y dos copias.
+V. En periodismo se deberá presentar un trabajo del género reportaje, publicado durante el año inmediato anterior al de la fecha de cierre de la convocatoria.
 
 VI. Podrán acompañarse adicionalmente fotografías, diapositivas, gráficas, planos, diagramas o cualquier otro elemento complementario o explicativo a juicio del autor.
 
@@ -111,23 +113,25 @@ VII. Los participantes deberán suscribirse con seudónimo, enviando adjunto al 
 
 En el sobre, se anotará el seudónimo, el título de la obra y el área en la que participa.
 
-Las placas de identificación, serán depositadas por la Dirección General de Desarrollo Social, en una Notaría Pública de la Ciudad de Chihuahua; el Notario abrirá únicamente las que el Jurado señale.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
+
+Las placas de identificación, serán depositadas por la Secretaría de Cultura del Gobierno del Estado, en una Notaría Pública de la Ciudad de Chihuahua; el Notario abrirá únicamente las que el Jurado señale.
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE AGOSTO DE 2011)</small>
 
 VIII. El certamen quedará abierto a partir de la publicación de la convocatoria respectiva, cerrándose el treinta y uno de agosto del año correspondiente.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 7°.
 
-Para cada área, la Dirección General de Desarrollo Social designará un jurado integrado por tres personas de reconocido prestigio en los campos respectivos y cuyos nombres serán dados a conocer en el momento oportuno.
+Para cada área, la Secretaría de Cultura del Gobierno del Estado designará un jurado integrado por tres personas de reconocido prestigio en los campos respectivos y cuyos nombres serán dados a conocer en el momento oportuno.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 8°.
 
-Los miembros del Jurado desempeñarán su cargo personalmente y en caso necesario podrán solicitar a la Dirección General de Desarrollo Social la autorización para asesorarse de una o varias personas de la especialidad de que se trate, quienes al aceptar dicha asesoría observarán el sigilo que exige la Convocatoria.
+Los miembros del jurado desempeñarán su cargo personalmente y en caso necesario podrán solicitar a la Secretaría de Cultura del Gobierno del Estado la autorización para asesorarse de una o varias personas de la especialidad de que se trate, quienes al aceptar dicha asesoría observarán el sigilo que exige la Convocatoria.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
@@ -260,3 +264,11 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXV/RFLEY/0817/2018 XIII P.E., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL PREMIO CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
