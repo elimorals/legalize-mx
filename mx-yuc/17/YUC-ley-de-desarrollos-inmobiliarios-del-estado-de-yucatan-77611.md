@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollos-inmobiliarios-del-estado-de-yucatan-77611"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-07"
-last_updated: "2017-12-22"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2018.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 7 de diciembre de 2010.
 
@@ -257,7 +257,13 @@ Todos los desarrollos inmobiliarios de tipo Fraccionamiento contarán con áreas
 
 El Desarrollador Inmobiliario presentará a la autoridad municipal su propuesta de la Urbanización para las áreas de destino siempre que cumpla con lo establecido en el artículo 25, quien podrá aprobar o rechazar esta propuesta o en su caso modificarla con base en las disposiciones aplicables.
 
-El Área de destino a que se refiere el párrafo anterior, nunca podrá ser menor al 10% del Área bruta.
+> <small>(ADICIONADO, D.O. 25 DE JULIO DE 2018)</small>
+
+La aprobación, rechazo o, en su caso, modificación del requisito previsto en la fracción VII del artículo 25 de esta Ley estará a cargo de la autoridad municipal de seguridad pública o de la Secretaría de Seguridad Pública, en aquellos municipios donde el ejercicio de la función de seguridad pública o, exclusivamente, la función de videovigilancia se haya transferido al Gobierno del estado mediante convenio.
+
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2018)</small>
+
+El Área de destino a que se refiere el párrafo segundo de este artículo, nunca podrá ser menor al 10% del Área bruta.
 
 > <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -267,13 +273,17 @@ Dentro del área de donación, el 30% será destinado a área verde y se privile
 
 Las áreas de destino a que se refiere este artículo no pueden ser residuales ni estar ubicadas en zonas inundables o de riesgos, o presentar condiciones topológicas más complicadas que el promedio del fraccionamiento o conjunto urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JULIO DE 2018)</small>
+
 ###### Artículo 17.
 
-Las áreas de destino aprobadas deberán ser enajenadas ya urbanizadas a título gratuito a favor de la autoridad municipal, con excepción de los casos que por el tipo de Desarrollo Inmobiliario éstas deban seguir a cargo del Desarrollador Inmobiliario.
+Las áreas de destino aprobadas deberán ser enajenadas, ya urbanizadas, a título gratuito a favor de la autoridad municipal, con excepción del equipamiento de Infraestructura Urbana previsto en la fracción VII del artículo 25 de esta Ley, que deberá ser enajenado a título gratuito a favor del Gobierno del estado, cuando el ejercicio de la función de seguridad pública o, exclusivamente, la función de videovigilancia se haya transferido a este mediante convenio, y de los casos que, por el tipo de Desarrollo Inmobiliario, estas deban seguir a cargo del Desarrollador Inmobiliario.
 
 Estas últimas, serán enajenadas por el Desarrollador Inmobiliario al momento de su municipalización.
 
-Finalizado el proceso de enajenación previsto en los párrafos anteriores, la autoridad municipal podrá concesionar o enajenar la superficie necesaria a las instituciones o entidades encargadas de la prestación de los servicios urbanos correspondientes.
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2018)</small>
+
+La autoridad municipal, una vez finalizado el proceso de enajenación, podrá concesionar o enajenar la superficie necesaria a las instituciones o entidades encargadas de la prestación de los servicios urbanos correspondientes.
 
 El procedimiento de municipalización estará sujeto a lo establecido en la legislación aplicable, en los reglamentos municipales, programas de desarrollo municipal y, a falta de éstos últimos, en el Reglamento de esta Ley.
 
@@ -331,9 +341,15 @@ IV. El sistema recolector de aguas pluviales y sistema de tratamiento de aguas n
 
 V. Nomenclatura de las calles y lotes;
 
-VI. Determinar la ubicación del Área verde y jardinería, y
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2018)</small>
 
-VII. Los demás que establezcan las disposiciones legales aplicables.
+VI. Determinar la ubicación del Área verde y jardinería;
+
+> <small>(ADICIONADA, D.O. 25 DE JULIO DE 2018)</small>
+
+VII. El sistema de videovigilancia, aprobado por la autoridad de seguridad pública competente, que considerará las cámaras así como la infraestructura y los sistemas o equipos tecnológicos complementarios, necesarios para su instalación y funcionamiento, en términos de los artículos 23 y 24 de la Ley de Videovigilancia del Estado de Yucatán, y
+
+VIII. Los demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 26.
 
@@ -486,3 +502,27 @@ D.O. 22 DE DICIEMBRE DE 2017.
 Único. Entrada en vigor.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 634/2018 POR EL QUE SE EMITE LA LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Registro de cámaras de videovigilancia
+
+Las instituciones de seguridad pública y empresas de seguridad privada que, a la entrada en vigor de este decreto, utilicen cámaras de videovigilancia, contarán con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor, para proporcionar a la Secretaría de Seguridad Pública la información de su competencia que permita integrar el Registro Estatal de Videovigilancia.
+
+Tercero. Difusión de cámaras de videovigilancia
+
+Las instituciones de seguridad pública y empresas de seguridad privada que, a la entrada en vigor de este decreto, utilicen cámaras de videovigilancia, contarán con un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor, para cumplir con la obligación dispuesta en el artículo 37 de la Ley de Videovigilancia del Estado de Yucatán.
+
+Cuarto. Emisión de lineamientos
+
+La Secretaría de Seguridad Pública deberá emitir los lineamientos en los cuales se definan, como mínimo, el criterio que determine el número de cámaras de videovigilancia a instalar en los desarrollos inmobiliarios de tipo fraccionamiento, sus características técnicas y los procedimientos en la materia en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Aplicación de norma técnica
+
+En tanto se emiten los lineamientos previstos en el artículo transitorio anterior de este decreto, la Secretaría de Seguridad Pública aplicará, en lo conducente, la Norma Técnica para Estandarizar las Características Técnicas y de Interoperabilidad de los Sistemas de Video-vigilancia para la Seguridad Pública.
