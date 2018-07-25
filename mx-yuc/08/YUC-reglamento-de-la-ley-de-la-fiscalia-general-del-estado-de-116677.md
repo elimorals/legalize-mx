@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-la-fiscalia-general-del-estado-de-11667
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-30"
-last_updated: "2018-03-21"
+last_updated: "2018-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2018.
 
 Reglamento publicado en el Suplemento al Número 33,203 del Diario Oficial del Estado de Yucatán, el viernes 30 de septiembre de 2016.
 
@@ -115,9 +115,9 @@ IV. Vicefiscalía Especializada en Justicia para Adolescentes.
 
 V. Vicefiscalía Especializada en Delitos Electorales y Contra el Medio Ambiente.
 
-> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 25 DE JULIO DE 2018)</small>
 
-VI. Vicefiscalía Especializada en Combate a la Corrupción.
+VI. Vicefiscalía Especializada en Combate a la Corrupción, que contará con la estructura orgánica que establezca el Reglamento de la Fiscalía General del Estado, en materia de la Vicefiscalía Especializada en Combate a la Corrupción.
 
 VII. Dirección de Capacitación y Servicio Profesional de Carrera.
 
@@ -613,69 +613,15 @@ Los fiscales especializados en delitos electorales y contra el medioambiente ten
 
 ### Capítulo XI bis. Vicefiscalía Especializada en Combate a la Corrupción
 
-> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 25 DE JULIO DE 2018)</small>
 
-Artículo 30 bis. Facultades y obligaciones del vicefiscal
+Artículo 30 bis. Facultades y organización
 
-El vicefiscal especializado en Combate a la Corrupción tendrá las siguientes facultades y obligaciones:
+Las atribuciones tanto del vicefiscal especializado como de sus unidades administrativas, así como la organización interna de la Vicefiscalía Especializada en Combate a la Corrupción se establecerán en el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán, en materia de la Vicefiscalía Especializada en Combate a la Corrupción.
 
-I. Ejercer las atribuciones establecidas en el artículo 16 de este reglamento, así como las que la Constitución y demás normativa aplicable confieren al Ministerio Público del estado en lo relativo a los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
+Artículo 30 ter. (DEROGADO, D.O. 25 DE JULIO DE 2018)
 
-II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en el artículo 101 Bis de la Constitución Política del Estado de Yucatán y en la Ley del Sistema Estatal Anticorrupción de Yucatán.
-
-III. Presentar anualmente al fiscal general un informe sobre sus actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la normativa en materia de transparencia. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso.
-
-IV. Nombrar y remover, previo acuerdo con el fiscal general, a los titulares de las unidades administrativas a su cargo.
-
-V. Ejercer mando directo sobre los fiscales especializados y demás personal, que estén adscritos a la vicefiscalía especializada.
-
-VI. Proponer al titular de la Dirección de Capacitación y Servicio Profesional de Carrera el contenido teórico-práctico de los programas de capacitación, actualización y especialización respecto de los agentes del Ministerio Público adscritos a la vicefiscalía especializada.
-
-VII. Coordinar y supervisar la actuación de la policía de investigación en los términos de lo dispuesto en el artículo 62 de la Constitución Política del Estado de Yucatán.
-
-VIII. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
-
-IX. Implementar planes y programas destinados a detectar la comisión de los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción en el ámbito de su competencia. Dichos planes y programas deberán ser aprobados por el fiscal general.
-
-X. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
-
-XI. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
-
-XII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
-
-XIII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones.
-
-XIV. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza.
-
-XV. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por esta y otras unidades competentes de la fiscalía general, en especial la relacionada con la investigación de los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
-
-XVI. Coadyuvar con otras áreas competentes de la fiscalía general, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
-
-XVII. Generar sus propias herramientas metodológicas a fin de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita.
-
-XVIII. Emitir guías y manuales técnicos para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los agentes del Ministerio Público local en el cumplimiento de sus funciones de investigación y persecución de los hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
-
-XIX. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que el Código Penal del Estado de Yucatán considera como delitos en materia de corrupción.
-
-XX. Dirigir, coordinar y realizar la investigación de los hechos que presuntamente constituyan delitos en materia de corrupción, en términos de las disposiciones jurídicas aplicables.
-
-XXI. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando estos hayan desaparecido o no se localicen por causa atribuible al imputado.
-
-XXII. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades.
-
-> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
-
-Artículo 30 ter. Facultades y obligaciones de los fiscales especializados
-
-Los fiscales especializados en combate a la corrupción tendrán las facultades y obligaciones establecidas en el artículo 18 de este reglamento, las cuales desempeñarán en su respectivo ámbito de competencia.
-
-> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
-
-Artículo 30 quater. Responsabilidades
-
-El vicefiscal especializado en Combate a la Corrupción, su personal de confianza, los fiscales especializados en combate a la corrupción, los peritos y demás personal adscrito a la vicefiscalía, estarán sujetos a la normativa en materia de responsabilidades administrativas, así como al régimen especial de la materia previsto en esta ley. Su actuación será fiscalizada por la Auditoría Superior del Estado y la Visitaduría General, conforme a sus respectivas competencias.
-
-El vicefiscal especializado en Combate a la Corrupción podrá solicitar a la Dirección de Capacitación y Servicio Profesional de Carrera, fundada y motivadamente, la destitución de los agentes del Ministerio Público y de la policía que le estén adscritos cuando no cumplan con los requisitos para permanecer bajo su cargo.
+Artículo 30 quater. (DEROGADO, D.O. 25 DE JULIO DE 2018)
 
 ### Capítulo XII. Dirección de Capacitación y Servicio Profesional de Carrera
 
@@ -1100,3 +1046,11 @@ D.O. 21 DE MARZO DE 2018.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente de su publicación en el diario oficial del estado.
+
+D.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 639/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, SOBRE LA VICEFISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
