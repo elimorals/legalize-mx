@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-infraestructura-del-885
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-30"
-last_updated: "2012-05-30"
+last_updated: "2018-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2012.
 
@@ -33,7 +33,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 Juan Sabines Guerrero, Gobernador del Estado, en ejercicio de las facultades que me confieren los artículos 44 fracción I y 47 de la Constitución Política del Estado de Chiapas; 5°, 8°,13 y 23 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por los fundamentos y consideraciones antes expuestos, el Ejecutivo a mi cargo tiene a bien expedir el siguiente:
 
@@ -2576,3 +2578,25 @@ Artículo Octavo.- En cumplimiento a lo dispuesto por el Artículo 8° de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; el cuatro de abril del año dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Alfonso Fong Dubón, Secretario de Infraestructura.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2721-A-2018 REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRA PÚBLICA Y COMUNICACIONES”.]
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Infraestructura, publicado en el Periódico Oficial número 372, Tomo III, de fecha 30 de Mayo de 2012, así como las disposiciones que del mismo emanen y se derogan aquellas otras de igual o menor jerarquía que se opongan a lo dispuesto en el presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a 90 días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Ley de Protección Civil del Estado de Chiapas.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 13 párrafo segundo, en correlación al artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas; 4 de la Ley de Procedimientos Administrativos para el Estado de Chiapas y 13 fracción V de la Ley Estatal de Periódico Oficial, publíquese el presente Reglamento Interior en el Periódico Oficial.
