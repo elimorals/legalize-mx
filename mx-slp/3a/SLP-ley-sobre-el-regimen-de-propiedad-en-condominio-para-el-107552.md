@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-el-regimen-de-propiedad-en-condominio-para-el-107552"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-09"
-last_updated: "2015-04-09"
+last_updated: "2018-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 9 de abril de 2015.
 
@@ -1003,9 +1003,11 @@ Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa má
 
 Las sanciones establecidas en la presente Ley, se aplicarán independientemente de las que se impongan por la violación de otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 139.
 
-Para la imposición de las sanciones y para emitir sus resoluciones, la autoridad municipal competente, deberá seguir el procedimiento previsto al efecto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí. En contra de esas resoluciones, los afectados podrán intentar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado de San Luis Potosí.
+Para la imposición de las sanciones y para emitir sus resoluciones, la autoridad municipal competente deberá seguir el procedimiento previsto al efecto en el Código Procesal Administrativo para el Estado de San Luis Potosí. En contra de esas resoluciones los afectados podrán intentar el juicio de nulidad, ante el Tribunal Estatal de Justicia Administrativa de San Luis Potosí.
 
 Las multas se calcularán tomando como base el Salario Mínimo General vigente, correspondiente al momento de imponer la sanción; asimismo, el pago de éstas no podrá exceder de un plazo de treinta días al momento de haber sido impuesta la sanción.
 
@@ -1052,3 +1054,13 @@ El Secretario General de Gobierno
 Lic. José Eduardo González Sierra
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1029.- SE REFORMA EL ARTÍCULO 139 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
