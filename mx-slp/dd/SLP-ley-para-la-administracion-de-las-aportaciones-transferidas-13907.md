@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2018-07-03"
+last_updated: "2018-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -805,9 +805,11 @@ La Contraloría General del Estado y los Organos de Control y Supervisión Inter
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 86.
 
-Las infracciones a las disposiciones de esta Ley y a su normatividad, se sancionarán en el ámbito de su competencia por la Contraloría General del Estado, el Organo de Control y Supervisión Interno de los gobiernos municipales donde esté constituido y por el Congreso del Estado, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
+Las infracciones a las disposiciones de esta Ley y a su normatividad se sancionarán, en el ámbito de su competencia, por la Contraloría General del Estado, el Órgano de Control y Supervisión Interno de los gobiernos municipales donde esté constituido, y por el Congreso del Estado, de conformidad con la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, y demás ordenamientos aplicables.
 
 Las autoridades estatales y municipales que incurran en responsabilidades administrativas, civiles o penales como consecuencia de la desviación de los recursos a que se refiere esta Ley, serán sancionadas en términos de la legislación aplicable.
 
@@ -833,9 +835,9 @@ El financiamiento que le dé origen a las obligaciones señaladas en el párrafo
 
 Para atender las obligaciones que el Estado o los municipios contraigan al amparo de este artículo, no podrán destinar más del veinticinco por ciento de los recursos que anualmente les corresponden, por concepto de los fondos que reciben.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2018)</small>
 
-El Estado y los municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les corresponden de los Fondos a que el mismo se refiere, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos, en su caso, en la Ley de Deuda Pública del Estado de San Luis Potosí, y en la Ley de Deuda Pública Municipal del Estado de San Luis Potosí.
+El Estado y los municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les corresponden de los Fondos a que el mismo se refiere, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos, en su caso, en la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -845,9 +847,9 @@ El Estado y los municipios, que en el ejercicio de sus atribuciones de control y
 
 Cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato a la Auditorí a (sic) Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2018)</small>
 
-Se faculta a la Contraloría General del Estado, a la Auditoría Superior del Estado y a los órganos del control y supervisión internos de los gobiernos municipales, donde estén constituidos, para que en términos de lo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás leyes aplicables, se finquen los pliegos de responsabilidades de los servidores públicos estatales y municipales, por el uso inadecuado de los recursos correspondientes a los Fondos Estatales y Municipales que conforme a esta Ley les corresponda administrar; los que constituirán créditos fiscales a favor del Estado o municipios, según el caso, pudiéndose hacer efectivos en caso necesario, a través del procedimiento administrativo de ejecución.
+Se faculta a la Contraloría General del Estado, a la Auditoría Superior del Estado, y a los órganos de Control y Supervisión Internos de los gobiernos municipales, donde estén constituidos, para que en términos de lo previsto por la Ley (sic) Responsabilidades Administrativas para el Estado de San Luis Potosí, y demás leyes aplicables, se finquen los pliegos de responsabilidades de los servidores públicos estatales y municipales, por el uso inadecuado de los recursos correspondientes a los Fondos Estatales y Municipales que conforme a esta Ley les corresponda administrar; los que constituirán créditos fiscales a favor del Estado o Municipios, según el caso, pudiéndose hacer efectivos en caso necesario, a través del procedimiento administrativo de ejecución.
 
 Lo anterior, sin perjuicio de las responsabilidades administrativas, civiles o penales en que pudieran incurrir.
 
@@ -980,3 +982,11 @@ P.O. 3 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1028.- SE REFORMAN LOS ARTÍCULOS 86, 87 BIS Y 88 DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
