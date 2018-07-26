@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2018-07-11"
+last_updated: "2018-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -715,13 +715,19 @@ XI. Impulsar la participación de los municipios;
 
 XII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas;
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2018)</small>
 
-XIII. Elaborar en coordinación con los ayuntamientos, el Padrón Empresarial Digital del Estado, y
+XIII. Elaborar en coordinación con los ayuntamientos, el Padrón Empresarial Digital del Estado, y;
 
-> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2018)</small>
 
-XIV. Las demás que emanen de las atribuciones del Consejo y el reglamento.
+XIV. Promover el uso de tecnologías de información y comunicación en las MIPYMES;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2018)</small>
+
+XV. Promover la diferenciación y la explotación de nichos de mercado por parte de las MIPYMES, y
+
+XVI. Las demás que emanen de las atribuciones del Consejo y el reglamento.
 
 ###### ARTÍCULO 65.
 
@@ -910,3 +916,11 @@ P.O. 11 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 26 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1027.- SE REFORMA EL ARTÍCULO 64 DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
