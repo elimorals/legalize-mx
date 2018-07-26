@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2018-07-03"
+last_updated: "2018-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -384,6 +384,14 @@ VI.- Existan razones justificadas para la adquisición y arrendamiento de bienes
 VII.- Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios, básicos o semiprocesados, semovientes, y bienes usados; y
 
 VIII.- Se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice con campesinos o grupos urbanos marginados.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 26 Bis.
+
+La selección del procedimiento de adjudicación directa deberá fundarse y motivarse según las circunstancias de cada caso, en criterios de, economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para el Estado, municipio o institución, según corresponda.
+
+La acreditación del o los criterios en los que se funde la justificación de las razones en las que se sustente el ejercicio de la opción, deberá constar por escrito y ser firmada por el titular de la unidad requirente de los bienes o servicios, y por el titular de la institución contratante.
 
 ### CAPITULO II. De las Convocatorias y Bases
 
@@ -868,5 +876,13 @@ P.O. 3 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 994.- SE REFORMA Y ADICIONA EL ARTÍCULO 5° DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1023.- SE ADICIONA EL ARTÍCULO 26 BIS, A LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
