@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2017-06-03"
+last_updated: "2018-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -95,13 +95,45 @@ V. Los titulares de los órganos de control, soporte técnico y de apoyo del Con
 
 Corresponde a la Comisión de Puntos Constitucionales, en lo no previsto en este Reglamento, proponer al Pleno la determinación que resulte procedente, por cuanto a medidas y disposiciones pertinentes; asimismo, deberá desahogar las dudas y consultas respecto a su interpretación legal y correcta aplicación.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 6°.
 
-Toda comunicación que haga el Congreso a los demas poderes del Estado y de la federación, a los ayuntamientos, entidades de la República y demas autoridades, organismos e instituciones, así como las notificaciones que correspondan, deberán hacerse por escrito en los términos que señala el párrafo siguiente.
+Toda comunicación que realice el Congreso a los demás poderes del Estado y de la Federación; a los ayuntamientos; entidades de la República; organismos; instituciones; y demás autoridades, deberá hacerse mediante oficio.
 
-Tratándose de notificaciones que contengan apercibimiento o, de aquéllas derivadas de los procedimientos de responsabilidad, se aplicará de manera supletoria el capítulo V del Título II del Código de Procedimientos Civiles del Estado de San Luis Potosí.
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2018)</small>
+
+ARTICULO 6° BIS. Tratándose de notificaciones en los procedimientos substanciados por el Congreso, se harán en forma personal, por cédula en los estrados del Congreso tanto físicos como electrónicos o por correo certificado con acuse de recibo, de acuerdo con las reglas establecidas en este precepto, aplicando, en su caso, de manera supletoria lo dispuesto por el Código Procesal Administrativo para el Estado de San Luis Potosí.
+
+Asimismo, se podrán practicar por medios electrónicos, en los términos establecidos en el Código Procesal Administrativo para el Estado de San Luis Potosí.
+
+En todos los procedimientos iniciados ante el Congreso, los interesados deberán señalar en su primer escrito domicilio para oír y recibir notificaciones; en los municipios de, San Luis Potosí y Soledad de Graciano Sánchez, el domicilio deberá indicar calle, número exterior y en su caso interior, colonia o fraccionamiento, código postal, así como entre qué calles se encuentra. De no hacerlo así, todas las notificaciones, aun las que deban tener el carácter de personal, se practicarán mediante cédula que se fijará en los estrados del Congreso.
+
+En el caso de las autoridades cuyo domicilio se encuentre fuera de los municipios de San Luis Potosí o Soledad de Graciano Sánchez, las notificaciones se practicarán por medio de correo certificado, incluso las de carácter personal, a menos de que éstas señalen dentro de cada procedimiento domicilio para que se practiquen en los municipios de San Luis Potosí o Soledad de Graciano Sánchez, en los términos previstos en este artículo.
+
+En todos los casos cuando se acuerde que la primera notificación se practique en forma personal, y en caso de que no se haya señalado domicilio para oír y recibir notificaciones en los municipios de San Luis Potosí o Soledad de Graciano Sánchez, deberá requerirse al interesado para que señale domicilio en los términos previstos en este artículo dentro de los tres días hábiles siguientes a que surta efectos, apercibiéndolo para el caso de no hacerlo así, las subsecuentes notificaciones, aun las de carácter personal, se practicarán por cédula en los estrados del Congreso.
+
+Las notificaciones efectuadas por el Congreso, en todos los casos surtirán sus efectos a partir del día hábil siguiente al que fueran practicadas, o recibidas en el caso de hacerse por correo certificado.
+
+Las notificaciones deberán ser practicadas dentro de los diez días hábiles siguientes a la fecha en que le sean turnadas al notificador, para ello quien la solicite deberá acompañar a la misma, el documento a notificarse impreso y en forma electrónica, para que se elabore la cédula que, en su caso, corresponda, señalando el domicilio en el que ha de practicarse con los datos de calle, número exterior y, en su caso, interior, colonia o fraccionamiento y código postal.
+
+Las notificaciones deberán ser practicadas entre las ocho y las dieciocho horas de los días hábiles. Quien ordene la notificación, atendiendo a la urgencia de cada caso, podrá solicitar su práctica en días y horas inhábiles.
+
+Las notificaciones practicadas en forma distinta a la establecida en este Reglamento, estará afectada de nulidad. La petición de declaratoria de nulidad de una notificación podrá ser solicitada ante el Congreso o ante el Tribunal Estatal de Justicia Administrativa del Estado, a elección del interesado.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2018)</small>
+
+ARTICULO 6° TER. Las notificaciones personales se practicarán con el interesado o con su representante legal, siempre y cuando el domicilio señalado se encuentre en los municipios de San Luis Potosí o Soledad de Graciano Sánchez, de acuerdo con el siguiente procedimiento:
+
+I. El notificador se constituirá en el domicilio señalado por el interesado, buscará a la persona que deba ser notificada o a su representante legal, y cerciorado de la identidad hará entrega de la copia completa del documento motivo de la notificación, levantando la razón circunstanciada, la que se deberá anexar al expediente de que se trate;
+
+II. En caso de que en la primera búsqueda no encuentre al interesado o a su representante legal, el notificador deberá dejar citatorio en el que se especifique que el interesado o su representante legal deberán acudir dentro de los dos días hábiles siguientes a la Coordinación de Asuntos Jurídicos del Congreso a notificarse, apercibido de que, en caso de no hacerlo, la notificación se practicará por medio de cédula que se fijará en los estrados del Congreso, y
+
+III. En caso de que el domicilio se encuentre cerrado, y cerciorado de que es el correcto, el notificador fijará en la puerta del mismo el aviso para que el interesado o su representante legal, acudan dentro de los dos días hábiles siguientes a la Coordinación de Asuntos Jurídicos del Congreso a notificarse, apercibido de que, en caso de no hacerlo, la notificación se practicará por medio de cédula que se fijará en los estrados del Congreso.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2018)</small>
+
+ARTICULO 6° QUÁTER. En el caso de las notificaciones practicadas en los estrados del Congreso, la cédula correspondiente deberá contener los datos de identificación del expediente o procedimiento de que se trate, una síntesis del documento que se notifique y la fecha en que se fija en los estrados. De ello el notificador levantará razón circunstanciada, la que se anexará al expediente.
 
 ## TITULO SEGUNDO. DE LA INSTALACION DEL CONGRESO Y DE LA DIRECTIVA
 
@@ -1953,7 +1985,9 @@ III. Actualizar el registro en el que se asienten en orden, los decretos expedid
 
 IV. Recibir, dar cuenta a la Directiva, y contestar la correspondencia del Congreso que no sea de la competencia de las comisiones, comités y demás órganos del mismo; así como elaborar la que le indiquen;
 
-V. Notificar en tiempo y forma a las autoridades municipales, estatales, federales, u organismos e instituciones que corresponda, los puntos de acuerdo aprobados por el Congreso, conforme se determine en los mismos;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2018)</small>
+
+V. Comunicar en tiempo y forma a las autoridades municipales, estatales, federales, u organismos e instituciones que corresponda, los puntos de acuerdo aprobados por el Congreso, conforme se determine en los mismos;
 
 VI. Supervisar la elaboración de las actas de las sesiones; y verificar que estén actualizados los expedientes de las sesiones;
 
@@ -1995,9 +2029,15 @@ XIV. Elaborar las certificaciones de documentos propios del proceso legislativo;
 
 XV. Apoyar a los secretarios de la Directiva para verificar el quórum de asistencia, así como para levantar el cómputo y registro de las votaciones;
 
-XVI. Proponer habitualmente a la Directiva, o a la Diputación Permanente, el programa de sesiones plenarias; y de la Diputación Permanente, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2018)</small>
 
-XVII. Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
+XVI. Proponer habitualmente a la Directiva, o a la Diputación Permanente, el programa de sesiones plenarias; y de la Diputación Permanente;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2018)</small>
+
+XVII. Solicitar a la Coordinación de Asuntos Jurídicos llevar a cabo las notificaciones que, en su caso, se requieran, y
+
+XVIII. Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
 
 ### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
 
@@ -2103,9 +2143,17 @@ Corresponde a la Coordinación de Asuntos Jurídicos:
 
 I. La atención y seguimiento hasta su total conclusión, de los asuntos jurídicos en los que el Congreso sea parte;
 
-II. Con acuerdo de la Presidencia de la Directiva, tendrá la representación jurídica del Congreso en asuntos y procedimientos laborales, administrativos, mercantiles, civiles y penales ante todos los tribunales estatales y federales; con las atribuciones de presentar y contestar demandas, absolver posiciones, interponer los recursos que la ley permita, presentar y tachar testigos, ofrecer y desahogar pruebas así como la representación jurídica del Congreso en asuntos determinados, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2018)</small>
 
-III. La asesoría en los asuntos de orden constitucional, administrativo, laboral, mercantil, civil, penal y en los demás aspectos legales que atañen al Congreso.
+II. Con acuerdo de la Presidencia de la Directiva, tendrá la representación jurídica del Congreso en asuntos y procedimientos laborales, administrativos, mercantiles, civiles y penales ante todos los tribunales estatales y federales; con las atribuciones de presentar y contestar demandas, absolver posiciones, interponer los recursos que la ley permita, presentar y tachar testigos, ofrecer y desahogar pruebas así como la representación jurídica del Congreso en asuntos determinados;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2018)</small>
+
+III. La asesoría en los asuntos de orden constitucional, administrativo, laboral, mercantil, civil, penal y en los demás aspectos legales que atañen al Congreso, y
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2018)</small>
+
+IV. Acordar y resolver todo lo concerniente a la práctica de las notificaciones, así como resolver, en su caso, las solicitudes de habilitación de días y horas inhábiles; y la nulidad a que se refiere este Reglamento.
 
 ###### ARTICULO 193.
 
@@ -2598,3 +2646,11 @@ QUINTO. Una vez en vigor la presente Ley y hasta en tanto el Comité Coordinador
 SEXTO. Los servidores públicos que deban rendir declaración patrimonial, de intereses y, en su caso, fiscal, en términos de esta Ley, y que antes de la entrada en vigor de la misma no la hubieren presentado en virtud de que no estaban obligados a ello, con independencia de su antigüedad en el empleo, cargo o comisión que desempeña, deberán presentar su declaración inicial en términos de lo dispuesto en el artículo 33 fracción I inciso a) de este Ordenamiento, corriendo el término de los sesenta días a partir del inicio de vigencia del presente Decreto.
 
 SÉPTIMO. Las referencias contenidas en esta Ley respecto de la Fiscalía General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado, en tanto se emite la legislación correspondiente.
+
+P.O. 26 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1030.- SE REFORMAN LOS ARTÍCULOS 6°, 186 Y 192; Y ADICIONAN LOS ARTÍCULOS 6° BIS, 6° TER, Y 6° QUÁTER, Y FRACCIONES A LOS ARTÍCULOS 186 Y 192 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
