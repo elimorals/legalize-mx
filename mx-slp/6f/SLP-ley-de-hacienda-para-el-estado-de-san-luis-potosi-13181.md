@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2017-12-31"
+last_updated: "2018-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -483,9 +483,13 @@ a) Las instituciones de asistencia o de beneficencia autorizadas por las leyes d
 
 1. Atención a personas que, por sus carencias socioeconómicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
 
-2. Atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo y discapacitados de escasos recursos.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2018)</small>
 
-3. La prestación de asistencia médica o jurídica, de orientación social, y de servicios funerarios a personas de escasos recursos, especialmente a menores, ancianos o discapacitados.
+2. Atención en establecimientos especializados a menores, adultos mayores en estado de abandono o desamparo, y personas con discapacidad de escasos recursos.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2018)</small>
+
+3. La prestación de asistencia médica o jurídica, de orientación social, y de servicios funerarios a personas de escasos recursos, especialmente a menores, adultos mayores, y personas con discapacidad.
 
 4. La reinserción social de personas que han llevado a cabo conductas ilícitas.
 
@@ -3308,6 +3312,14 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 31 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 767.- SE REFORMAN LOS ARTÍCULOS, 14, 21, 38, 40, 68 Y 120, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1025.- SE REFORMA EL ARTÍCULO 27 DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
