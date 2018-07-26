@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2017-06-15"
+last_updated: "2018-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -35,7 +35,7 @@ DECRETO 533
 
 LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSI
 
@@ -669,9 +669,11 @@ VI.- Recibir perjuicio en sus herramientas o útiles de trabajo, causados por la
 
 VII.- Las que sean análogas a las fracciones anteriores e igualmente graves y de consecuencias semejantes, en lo que al trabajo se refiere.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 63.
 
-El trabajador podrá separarse del servicio dentro del termino de treinta días contados a partir de la fecha en que se dé cualquiera de las causas mencionadas en el artículo anterior, pudiendo reclamar el pago de las prestaciones que le correspondan conforme a la ley.
+El trabajador podrá separarse del servicio dentro del término de treinta días contados a partir de la fecha en que se dé cualquiera de las causas mencionadas en el artículo anterior, teniendo derecho al pago de una indemnización conforme al artículo 61 de esta Ley, así como de las prestaciones que le correspondan conforme a la ley.
 
 ## TITULO OCTAVO.
 
@@ -1852,3 +1854,11 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Los juicios iniciados con las disposiciones anteriores a la vigencia del presente Decreto, deberán concluirse de conformidad con ellas.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 26 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1026.- SE REFORMA EL ARTÍCULO 63 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
