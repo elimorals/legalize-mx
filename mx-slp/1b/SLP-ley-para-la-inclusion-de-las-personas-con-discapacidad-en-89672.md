@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2016-12-20"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -319,9 +319,19 @@ XV. Elaborar el catálogo de medidas técnicas en materia de salud, y manuales p
 
 XVI. Procurar la participación activa de las personas con discapacidad en las acciones de prevención, educación para la salud, rehabilitación y atención médica;
 
-XVII. Inscribir al seguro popular a la población con discapacidad, y
+(NOTA: EL 27 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 68/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 1033 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTE EFECTOS A PARTIR DE LOS CIENTO OCHENTA DIAS NATURALES SIGUIENTES AL DIA EN QUE SE PUBLICAN LOS PUNTOS RESOLUTIVOS DE LA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-XVIII. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+XVII. INSCRIBIR AL SEGURO POPULAR A LA POBLACIÓN CON DISCAPACIDAD;
+
+(NOTA: EL 27 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 68/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 1033 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTE EFECTOS A PARTIR DE LOS CIENTO OCHENTA DIAS NATURALES SIGUIENTES AL DIA EN QUE SE PUBLICAN LOS PUNTOS RESOLUTIVOS DE LA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2018)</small>
+
+XVIII. EXTENDER LA CONSTANCIA QUE ACREDITE LA DISCAPACIDAD TEMPORAL DE LAS PERSONAS QUE ASÍ LO SOLICITEN, PARA ACCEDER AL DERECHO DE USO EXCLUSIVO DE LAS PERSONAS CON DISCAPACIDAD, Y
+
+XIX. Las demás que le confiere esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 12.
 
@@ -817,7 +827,11 @@ Los organismos públicos de vivienda otorgarán facilidades a las personas con d
 
 El Ejecutivo del Estado y los ayuntamientos de la Entidad deberán estipular, en sus reglamentos respectivos, en materia de estacionamientos para personas con discapacidad, los siguientes aspectos básicos:
 
-I. La expedición a las personas con discapacidad, certificadas por la autoridad competente que utilicen vehículo automotor, de placas con el logotipo internacional distintivo, que les permita hacer uso de los estacionamientos exclusivos;
+(NOTA: EL 27 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 68/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 1033 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTE EFECTOS A PARTIR DE LOS CIENTO OCHENTA DIAS NATURALES SIGUIENTES AL DIA EN QUE SE PUBLICAN LOS PUNTOS RESOLUTIVOS DE LA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+I. LA EXPEDICIÓN A LAS PERSONAS CON DISCAPACIDAD ASÍ CERTIFICADAS POR LA AUTORIDAD COMPETENTE, QUE UTILICEN VEHÍCULO AUTOMOTOR, DE PLACAS CON EL LOGOTIPO INTERNACIONAL DISTINTIVO, PARA AQUELLAS PERSONAS CON DISCAPACIDAD PERMANENTE; Y DE PERMISOS PROVISIONALES CON EL LOGOTIPO INTERNACIONAL DISTINTIVO, PARA AQUELLAS PERSONAS CON DISCAPACIDAD TEMPORAL, QUE LES PERMITA HACER USO DE LOS CAJONES DE ESTACIONAMIENTO EXCLUSIVOS;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -1118,3 +1132,11 @@ P.O. 20 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1033.- SE REFORMAN LOS ARTÍCULOS 11 Y 40 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
