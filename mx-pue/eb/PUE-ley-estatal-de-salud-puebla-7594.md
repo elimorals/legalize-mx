@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2017-12-29"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -223,6 +223,12 @@ El Sistema Estatal de Salud está constituido por las dependencias y entidades d
 
 El sistema estatal de salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración, en materia de planeación de los servicios de salud en el Estado de conformidad con las disposiciones de esta Ley y las que al respecto sean aplicables.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTICULO 5º Bis.
+
+En las poblaciones o comunidades indígenas donde se encuentren habitantes que no hablen español, las autoridades sanitarias podrán promover la participación de sus miembros y darán a conocer las acciones y campañas a las que se hace referencia en las disposiciones previstas en esta Ley, en la lengua o lenguas de uso en la región o comunidad.
+
 ###### ARTICULO 6º.
 
 El sistema estatal de salud tiene los siguientes objetivos:
@@ -245,13 +251,17 @@ VI. Impulsar en el ámbito estatal un sistema racional de administración y desa
 
 VII. Promover el conocimiento, desarrollo e investigación de la Medicina Tradicional, así como su práctica en condiciones adecuadas en los espacios físicos e infraestructura proporcionados por el Estado en materia de atención a la salud, y aquellos que el Sistema Estatal de Salud reconozca; respetando la dignidad humana y el ejercicio adecuado de los conocimientos específicos en la materia;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
-VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+VIII. Coadyuvar en la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
 
-> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
-IX. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud.
+IX. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud, y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2018)</small>
+
+X. Elaborar y promover programas y servicios de salud especialmente dirigidos a las comunidades indígenas de acuerdo a sus tradiciones, usos y costumbres, respetando sus derechos humanos.
 
 ###### ARTICULO 7º.
 
@@ -585,7 +595,9 @@ Las cuotas de recuperación que en su caso se recauden por la prestación de ser
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socio-económicas del usuario.
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
+
+Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, en las zonas de menor desarrollo económico y social, o en las comunidades y pueblos indígenas, conforme a las disposiciones del Gobierno del Estado.
 
 ###### ARTICULO 37.
 
@@ -669,9 +681,17 @@ IV. Notificación de la existencia de personas que requieran de servicios de sal
 
 V. Formulación de sugerencias para mejorar los servicios de salud.
 
-VI. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
-VII. Otras actividades que coadyuven a la protección de la salud.
+VI. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+VII. Otras actividades que coadyuven a la protección de la salud, y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2018)</small>
+
+VIII. En las poblaciones o comunidades indígenas, las autoridades sanitarias promoverán la participación de sus miembros brindando asesoría, misma que podrá efectuarse de ser necesario en la lengua o lenguas de uso en la región o comunidad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -698,6 +718,10 @@ ARTICULO 52 QUÁTER.- Ninguna persona, o agrupación, que se dedique a la práct
 ###### ARTICULO 53.
 
 Para los efectos del artículo anterior, en las cabeceras municipales, se constituirán comités de salud que podrán ser integrados por representantes de población urbana, rural o indígena, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezca la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+En las comunidades y pueblos indígenas que no hablen el español, las autoridades municipales procurarán en los comités de salud, la participación de integrantes que hablen la lengua o lenguas de uso en la región.
 
 ###### ARTICULO 54.
 
@@ -1203,11 +1227,13 @@ Salvo tratándose de la sangre, componentes sanguíneos y células progenitoras 
 
 La selección del disponente originario y del receptor de órganos, tejidos incluyendo sus componentes y células, para transplante o transfusión, se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 101.
 
-Para efectuar la toma de órganos y tejidos se requiere el consentimiento expreso y por escrito del disponente originario, libre de coacción física o moral, otorgado ante Notario o en documento expedido ante dos testigos idóneos y con las demás formalidades que al efecto señalen las disposiciones aplicables.
+Para efectuar la toma de órganos y tejidos se requiere el consentimiento expreso y por escrito del disponente originario, libre de coacción física o moral, otorgado ante Notario o en documento expedido ante dos testigos idóneos y con las demás formalidades que al efecto señalen las disposiciones aplicables. En el caso de que el disponente originario no hable ni escriba en idioma español, en el escrito en el que exprese su consentimiento expreso, deberá asentarse la asistencia de un intérprete plenamente identificado que asegure la comprensión de los alcances del consentimiento otorgado.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
 
 Tratándose de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, bastará el simple consentimiento por escrito del donante.
 
@@ -1717,17 +1743,17 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 Asimismo, dentro del presupuesto aporbado (sic) para tal efecto, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados para fomentar su aplicación.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 164.
 
-Los menores, ancianos y mujeres en estado de desamparo y desprotección social tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+Los menores, ancianos, mujeres e indígenas en estado de desamparo y desprotección social tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 165.
 
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores y ancianos sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático y sexual de las personas.
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a mujeres, menores, ancianos e indígenas sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático y sexual de las personas.
 
 En estos casos, las Instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
 
@@ -3280,3 +3306,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA; DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; DE LA LEY ESTATAL DE SALUD, Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
