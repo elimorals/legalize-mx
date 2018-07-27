@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2017-12-29"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -69,7 +69,9 @@ Las autoridades estatales y municipales, de conformidad con los principios estab
 
 I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
-II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, étnicos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
 
 III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de Tratados Internacionales en la materia.
 
@@ -257,7 +259,9 @@ VIII. Derecho al descanso, cultura, esparcimiento y la práctica del deporte;
 
 IX. Derecho a la no discriminación;
 
-X. Derecho a participar;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+X. Derecho a participar, tomando en cuenta su edad, origen étnico, desarrollo evolutivo, cognoscitivo y madurez;
 
 XI. Derecho a la igualdad sustantiva;
 
@@ -295,6 +299,10 @@ IV. Asignar mayores recursos a las instituciones encargadas de proteger sus dere
 
 En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y órganos legislativos, se tomará en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+Cuando las niñas, niños y adolescentes, sean integrantes de pueblos o comunidades indígenas y no comprendan el idioma español, a fin de que puedan expresarse en su propia lengua se les asignará un traductor o intérprete.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 ### CAPÍTULO III. DEL DERECHO A LA VIDA, A LA PAZ, A LA SUPERVIVENCIA Y AL DESARROLLO
@@ -309,9 +317,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Toda niña y niño desde la primera infancia recibirá la estimulación temprana que les permita desarrollar de manera óptima su sistema nervioso, a fin de garantizar el máximo de conexiones neuronales que contribuya al desarrollo de las capacidades cognoscitivas, físicas, emocionales, sociales, afectivas y lingüísticas.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 16.
 
-Las niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
+Las niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral sin discriminación de ningún tipo.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -695,9 +705,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 No deberá discriminarse a las niñas, niños y adolescentes ni limitar o restringir sus derechos. Las autoridades estatales y municipales están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la discriminación de la que son objeto niñas, niños y adolescentes, en razón de su origen étnico, nacional o social, idioma o lengua, sexo, edad, discapacidades, condición económica, estado de salud, religión, opiniones, preferencia sexual, estado civil, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 55.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad, o que promuevan cualquier tipo de discriminación, a través de acciones afirmativas.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad, dignidad, derechos humanos o que promuevan cualquier tipo de discriminación, a través de acciones afirmativas.
 
 La adopción de estas medidas formará parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, instrumentación y evaluación de las políticas públicas.
 
@@ -713,6 +725,10 @@ Dichos reportes deberán desagregar la información, al menos en razón de edad,
 
 Niñas, niños y adolescentes tienen derecho a ser escuchados y participar en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez; a participar y ser escuchados en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+En el caso de que sean integrantes de pueblos o comunidades indígenas, tienen derecho a que se les asigne un traductor o intérprete, cuando no comprendan el idioma español, a fin de que puedan expresarse en su propia lengua.
+
 ###### ARTÍCULO 58.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
@@ -720,6 +736,10 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### ARTÍCULO 59.
 
 Niñas, niños y adolescentes tienen derecho a que las autoridades estatales y municipales les informen la manera en que su opinión ha sido valorada y tomada en cuenta su solicitud.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+Cuando no hablen el idioma español, por ser integrantes de pueblos o comunidades indígenas, se les asignará un traductor o intérprete quien les dé a conocer la respuesta en su propia lengua.
 
 ### CAPÍTULO XII. DEL DERECHO A LA IGUALDAD SUSTANTIVA
 
@@ -733,7 +753,9 @@ I. Diseñar, implementar y evaluar políticas públicas a través de acciones af
 
 II. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad;
 
-III. Establecer medidas dirigidas de manera preferente a niñas, niños y adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en esta Ley, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+III. Establecer medidas dirigidas de manera preferente a niñas, niños y adolescentes que pertenezcan a grupos, pueblos o comunidades indígenas, con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en esta Ley, y
 
 IV. Desarrollar campañas permanentes de sensibilización de los derechos de niñas, niños y adolescentes.
 
@@ -851,9 +873,11 @@ Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por e
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 71.
 
-Niñas, niños y adolescentes tienen derecho a utilizar libremente su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
+Niñas, niños y adolescentes tienen derecho a utilizar libremente su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural, sin discriminación étnica alguna.
 
 ### CAPÍTULO XVI. DE LOS DERECHOS A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
 
@@ -1011,9 +1035,11 @@ No podrá declararse la caducidad, ni la prescripción en perjuicio de niñas, n
 
 ### CAPÍTULO XX. DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 88.
 
-Las autoridades estatales y municipales deberán proporcionar, de conformidad a sus competencias, los servicios de atención inmediata a niñas, niños y adolescentes en situación de migración, independientemente de su nacionalidad o situación migratoria.
+Las autoridades estatales y municipales deberán proporcionar, de conformidad a sus competencias, los servicios de atención inmediata a niñas, niños y adolescentes en situación de migración, independientemente de su nacionalidad o situación migratoria. Los servicios indicados deberán prever los de un traductor o interprete tratándose de niños, niñas o adolescentes pertenecientes a comunidades o pueblos indígenas.
 
 En tanto el Instituto Nacional de Migración determine la condición migratoria de la niña, niño o adolescente, el Sistema Estatal DIF, deberá brindar la protección que prevé esta Ley y demás disposiciones aplicables.
 
@@ -1085,7 +1111,9 @@ VI. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, arm
 
 VII. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos para su desarrollo integral;
 
-VIII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, trata de personas y explotación;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+VIII. Protegerles contra toda forma de violencia, maltrato, discriminación, perjuicio, daño, agresión, abuso, trata de personas y explotación;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -1485,13 +1513,25 @@ VI. El Secretario de Salud;
 
 VII. El Secretario de Competitividad, Trabajo y Desarrollo Económico;
 
-VIII. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
-IX. El Presidente de la Comisión de Derechos Humanos del Estado de Puebla;
+VIII. El Fiscal General del Estado;
 
-X. El Director General del Sistema Estatal DIF, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2018)</small>
 
-XI. Representantes de la sociedad civil que serán nombrados por el Sistema, en los términos del Reglamento de esta Ley.
+IX. El Secretario de Seguridad Pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2018)</small>
+
+X. El Presidente de la Comisión de Derechos Humanos del Estado de Puebla;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2018)</small>
+
+XI. El Director General del Sistema Estatal DIF, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2018)</small>
+
+XII. Representantes de la sociedad civil que serán nombrados por el Sistema, en los términos del Reglamento de esta Ley.
 
 Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente, se reunirá al menos dos veces al año, sus decisiones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -1850,3 +1890,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA; DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; DE LA LEY ESTATAL DE SALUD, Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
