@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2018-07-12"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -530,6 +530,10 @@ ART. 114.- Cuando no se conociere el lugar en que la persona que debe notificars
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere, si ésta no supiese firmar, lo hará a su ruego, un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo la multa de uno a tres días del valor de la unidad de medida y actualización vigente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+Se exceptúa de llevar a cabo el emplazamiento en el domicilio del demandado; del tercero llamado a juicio; de tutores; curadores; apoderados; mandatarios; o peritos, si el propio interesado ocurre para tal efecto ante el Tribunal, cerciorándose el notificador sobre la identidad y consentimiento del compareciente, de todo lo cual asentará constancia pormenorizada, debiendo practicarlo con las demás formalidades procesales. No será necesario que se autorice expresamente realizarlo en los términos indicados.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5848,6 +5852,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1013.- SE REFORMAN LOS ARTÍCULOS 112, 113, Y 114 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1035.- SE ADICIONA UN APÁRRAFO (SIC) AL ARTÍCULO 114 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
