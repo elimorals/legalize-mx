@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2017-09-14"
+last_updated: "2018-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -961,7 +961,9 @@ II.- Coadyuvar con las autoridades Federales en la aplicación y vigilancia de l
 
 III.- Integrar, coordinar y vigilar el debido funcionamiento de la Procuraduría de la Defensa del Trabajo del Estado;
 
-IV.- Coordinar la integración y establecimiento de la Junta Local de Conciliación y Arbitraje, de las Comisiones que se formen para regular las relaciones obrero patronales y del Tribunal de Arbitraje de los Trabajadores al Servicio de los Poderes del Estado, así como vigilar el funcionamiento de los mismos;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+IV.- Coordinar la integración y establecimiento del Centro de Conciliación Laboral del Estado de Puebla, y del Tribunal de Arbitraje de los Trabajadores al Servicio de los Poderes del Estado, así como vigilar el funcionamiento de los mismos;
 
 V.- Fomentar el incremento de la productividad en el trabajo entre los sectores de la producción; así como en coordinación con la Secretaría de Educación Pública, promover el desarrollo de la capacitación y adiestramiento del trabajo;
 
@@ -975,7 +977,7 @@ IX.- Promover la formación y el desarrollo integral del trabajador, como elemen
 
 X.- Otorgar reconocimientos al desempeño de la calidad en la gestión del capital humano;
 
-XI.- Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+XI.- (DEROGADA, P.O. 27 DE JULIO DE 2018)
 
 XII.- Mediar y conciliar, a petición de parte, en los conflictos que surjan de presuntas violaciones a la ley o a los contratos colectivos de trabajo;
 
@@ -985,7 +987,7 @@ XIV.- Vigilar el cumplimiento de las normas relativas a la capacitación, adiest
 
 XV.- Elaborar y desarrollar programas de trabajo y empleo, de acuerdo con el Plan Estatal de Desarrollo;
 
-XVI.- Llevar el registro de las asociaciones obreras, patronales y profesionales que funcionen en la Entidad a través de la Junta Local de Conciliación y Arbitraje o entidad correspondiente;
+XVI.- (DEROGADA, P.O. 27 DE JULIO DE 2018)
 
 XVII.- Prestar asistencia jurídica gratuita a los trabajadores y a sus sindicatos cuando así lo soliciten;
 
@@ -2656,3 +2658,17 @@ OCTAVO. El Ejecutivo del Estado dentro de los noventa días naturales siguientes
 En tanto no se realicen las reformas a que se refiere el párrafo anterior, las Dependencias señaladas en este Decreto, seguirán aplicando los Reglamentos vigentes en todo aquello que no la contravengan.
 
 NOVENO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 38, Y DEROGA LAS FRACCIONES XI Y XVI DEL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Junta Local de Conciliación y Arbitraje funcionará en los términos que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones que se emitan para regular su funcionamiento.
+
+TERCERO. Las funciones de conciliación, registro de los contratos colectivos de trabajo y de las organizaciones sindicales, y su consecuente atención a los procesos administrativos derivados de estas materias, y que sean competencia Estatal, continuarán tramitándose ante la Junta Local de Conciliación y Arbitraje hasta en tanto entren en funciones los Organismos Públicos Descentralizados competentes encargados de dichos asuntos.
+
+CUARTO. La Junta Local de Conciliación y Arbitraje continuará conociendo y atendiendo de los conflictos en materia laboral hasta que se instituya e inicie su funcionamiento el órgano judicial competente.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
