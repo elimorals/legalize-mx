@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2017-12-29"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -495,9 +497,13 @@ Las reglas sobre domicilio establecidas en los artículos que preceden, no priva
 
 El nombre de las personas físicas se forma con el nombre propio y los apellidos.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
+
 ###### Artículo 64.
 
-El nombre propio será puesto libremente por quien declare el nacimiento de una persona, y los apellidos serán el del padre y el de la madre, o en su caso, sólo los de aquél o los de ésta, sean tales apellidos simples o compuestos.
+El nombre propio será puesto libremente por quien declare el nacimiento de una persona, y los apellidos, serán el del padre y el de la madre, en el orden que de común acuerdo determinen, o en su caso, sólo los de aquél o los de ésta, sean tales apellidos simples o compuestos.
+
+En caso de no existir acuerdo entre los padres, el orden de los apellidos se determinará por orden alfabético de los mismos.
 
 ###### Artículo 65.
 
@@ -11471,9 +11477,17 @@ VI.- El incumplimiento de las obligaciones;
 
 VII.- La recepción dolosa de lo indebido;
 
-VIII.- Los hechos ejecutados con mala fe; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
-IX.- Los demás que sean contrarios a la ley.
+VIII.- Los hechos ejecutados con mala fe;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2018)</small>
+
+IX.- La violencia por razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2018)</small>
+
+X.- Los demás que sean contrarios a la ley.
 
 ###### Artículo 1962.
 
@@ -11676,6 +11690,14 @@ En estos casos, resulta también aplicable lo dispuesto en el artículo anterior
 No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 En ningún caso se considerarán ofensas al honor las opiniones de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones realizadas en cumplimiento de un deber o ejerciendo un derecho, cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### Artículo 1996 Quáter.
+
+En caso de que el hecho ilícito que generó el daño fuese la violencia por razón de género, el Juez ordenará, a petición de la persona afectada y a costa del condenado, se publique la sentencia que imponga la reparación.
+
+Asimismo, si el daño tuvo difusión en los medios informativos el Juez ordenará al condenado publique una disculpa con la misma relevancia que hubiere tenido la difusión original, con independencia de los costos que esto origine.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -20518,3 +20540,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 64, LAS FRACCIONES VIII Y IX DEL 1961, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 1961 Y EL 1996 QUATER, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
