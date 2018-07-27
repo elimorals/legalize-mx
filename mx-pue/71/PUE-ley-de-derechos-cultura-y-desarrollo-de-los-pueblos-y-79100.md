@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-derechos-cultura-y-desarrollo-de-los-pueblos-y-79100"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2018-04-13"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de enero de 2011.
 
@@ -257,9 +257,11 @@ Los Pueblos y Comunidades Indígenas asentados en el Estado de Puebla, gozan del
 
 Los Pueblos y Comunidades Indígenas tienen derecho social a conservar, proteger, mantener y desarrollar sus propias identidades; así como todas sus manifestaciones culturales; por tanto las autoridades deberán proteger y conservar sus artesanías, vestimenta tradicional y expresiones musicales, con arreglo a las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 32.
 
-Los Pueblos y Comunidades Indígenas, en el marco del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y la Ley de Educación del Estado de Puebla, tienen el derecho a fortalecer, utilizar, desarrollar y transmitir a las generaciones futuras, por medio de la educación formal e informal, sus historias, lenguas, tecnologías, tradiciones orales, filosofías, sistemas de escritura y literatura, así como a utilizar su toponimia propia en la designación de los nombres de sus Comunidades, lugares y personas en sus propias lenguas y todo aquéllo que forme parte de su cultura. El Estado y los Municipios protegerán y fomentarán su preservación y práctica.
+Los Pueblos y Comunidades Indígenas, en el marco de los artículos 2° y 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y la Ley de Educación del Estado de Puebla, tienen el derecho a fortalecer, utilizar, desarrollar y transmitir a las generaciones futuras, por medio de la educación formal e informal, sus historias, lenguas, tecnologías, tradiciones orales, filosofías, sistemas de escritura y literatura, así como a utilizar su toponimia propia en la designación de los nombres de sus Comunidades, lugares y personas en sus propias lenguas y todo aquello que forme parte de su cultura. El Estado y los Municipios protegerán y fomentarán su preservación y práctica.
 
 ###### ARTÍCULO 33.
 
@@ -538,3 +540,11 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Dentro del año siguiente a la entrada en vigor del presente Decreto, todos los órganos del Poder Legislativo, Judicial y Ejecutivo del Estado de Puebla, así como los órganos constitucionalmente autónomos, de acuerdo a su disponibilidad presupuestal, deberán contar con la certificación de la norma mexicana vigente en igualdad laboral y no discriminación.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA; DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; DE LA LEY ESTATAL DE SALUD, Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
