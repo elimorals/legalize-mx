@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2017-12-29"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -101,9 +101,17 @@ IX.- Víctimas de la comisión de delitos en estado de abandono;
 
 X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
 
-XI.- Habitantes de los medios rural o urbano que carezcan de lo indispensable para su subsistencia; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
-XII.- Personas afectadas por desastres.
+XI.- Habitantes de los medios rural o urbano que carezcan de lo indispensable para su subsistencia;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+XII.- Personas afectadas por desastres, y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2018)</small>
+
+XIII.- Personas en estado de desamparo o marginación que sean integrantes de pueblos o comunidades indígenas que no hablen el idioma español.
 
 ###### ARTICULO 5º.
 
@@ -272,6 +280,10 @@ IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñ
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 V.- Coordinarse con instituciones afines para la realización de actividades y elaboración de programas de asistencia social, vigilando su aplicación;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2018)</small>
+
+V Bis.- Elaborar programas de asistencia social, que aseguren la inclusión y atención de los integrantes de comunidades indígenas que no hablen el idioma español vigilando su aplicación;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -651,9 +663,9 @@ XXII.- Elaborar los proyectos de planes y programas de trabajo del Organismo y s
 
 XXIII.- Actuar como Presidente del Consejo Técnico de adopciones del Organismo, en lo relativo a la tutela legítima a cargo de la Presidencia del Patronato del Organismo;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
-XXIV.- Promover las acciones correspondientes para actuar en el ámbito territorial del Estado, en defensa del menor, la mujer y la familia;
+XXIV.- Promover las acciones correspondientes para actuar en el ámbito territorial del Estado, en defensa del menor, la mujer, la familia así como de las personas integrantes de etnias indígenas que no hablen el idioma español;
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 1996)</small>
 
@@ -799,7 +811,9 @@ A propuesta del Organismo, el Gobierno del Estado a través de la Secretaría de
 
 La Secretaría de Salud del Estado a través del Organismo, promoverá la organización y participación activa de la comunidad en la atención a aquellos casos de salud, que por sus características requieran de acciones de asistencia social, sea pública o privada, basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
 
-La Secretaría de Salud del Estado y el Organismo pondrán especial atención a los casos de menores en estado de abandono, personas con discapacidad o incapaces.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
+
+La Secretaría de Salud del Estado y el Organismo pondrán especial atención a los casos de menores en estado de abandono, personas con discapacidad, incapaces, o integrantes de etnias indígenas que no hablen el idioma español.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -900,3 +914,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA; DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA; DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; DE LA LEY ESTATAL DE SALUD, Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
