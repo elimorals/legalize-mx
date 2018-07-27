@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-07-24"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2466,6 +2466,10 @@ IV. La conducta sea reiterada, es decir, se tengan documentados antecedentes o d
 V. Cuando se cometa con la participación de dos o más personas.
 
 La autoridad competente deberá de canalizar a la víctima u ofendido del delito de violencia familiar, para que reciba la atención médica y psicológica de urgencia.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+En el supuesto descrito en la fracción I, cuando la violencia sea ejercida por ambos progenitores hacia el hijo o la hija menor de edad, la autoridad competente procederá en los términos del artículo 43 fracción II inciso f) de la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 206.
 
@@ -5134,6 +5138,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1019.- SE REFORMA EL ARTÍCULO 202 EN SU FRACCIÓN I, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1034.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 205 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EN EL ARTÍCULO 43 UNA FRACCIÓN A LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
