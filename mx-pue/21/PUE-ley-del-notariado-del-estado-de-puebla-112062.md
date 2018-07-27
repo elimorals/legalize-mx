@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-112062"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2017-12-29"
+last_updated: "2018-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en la Vigésima Novena Sección del Periódico Oficial del Estado de Puebla, el jueves 31 de diciembre de 2015.
 
@@ -121,7 +121,7 @@ XV. Hacer del conocimiento de las autoridades competentes, las irregularidades q
 
 XVI. Actuar de conformidad con lo que instruya el interventor, en su caso;
 
-XVII. Fungir, en su caso, como interventor cuando sea designado por la Secretaría General de Gobierno, en términos de las disposiciones aplicables; y
+XVII. (DEROGADA, P.O. 27 DE JULIO DE 2018)
 
 XVIII. Las demás que se establezcan en esta Ley y demás disposiciones legales aplicables.
 
@@ -1737,11 +1737,15 @@ La Secretaría General de Gobierno y el Consejo de Notarios deberán, en su caso
 
 Las multas que se impongan en términos de esta Ley, se constituirán en créditos fiscales a favor del erario estatal y se harán efectivas por la Secretaría de Finanzas y Administración mediante el procedimiento administrativo de ejecución que establecen las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 177.
 
-En los casos en que el Notario incurra reiteradamente en las causales establecidas en el artículo 175 de esta Ley, sin perjuicio del procedimiento que se le instruya y la sanción que corresponda, la Secretaría General de Gobierno por conducto de la Dirección General de Archivos y Notarías con el objeto de regularizar los instrumentos que sean materia de las quejas o aquellos que presenten irregularidades observadas en las visitas podrá designar un interventor durante el procedimiento o dictada la resolución de éstas, a efecto de que asuma el control administrativo de la Notaría, sujetándose a lo siguiente:
+En los casos en que existan quejas reiteradas contra un Notario por hechos que pudieran constituir alguna de las faltas establecidas en el artículo 175 de esta Ley, o cuando de la práctica de visitas resulten varios hechos que pudieran constituir tales faltas, el Secretario General de Gobierno podrá ordenar por escrito la intervención de la Notaría, designando a un interventor que asuma el control administrativo de esta, sujetándose a lo siguiente:
 
-I. El interventor deberá ser un Notario Titular, Auxiliar o Suplente designado por el Consejo de Notarios por acuerdo de la Secretaría General de Gobierno a solicitud de la Dirección General de Archivos y Notarías, quien por su encargo percibirá del Notario intervenido la remuneración que establezca el arancel previsto por esta Ley;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+I. El interventor deberá ser un abogado o licenciado en derecho con patente de aspirante al Ejercicio del Notariado, expedida y registrada en términos de esta Ley, el cual percibirá del Notario intervenido la remuneración que establezca el arancel previsto por esta Ley;
 
 II. La función del interventor consistirá en:
 
@@ -1776,6 +1780,10 @@ VIII. Una vez notificada la intervención al Notario, este último deberá proce
 IX. El Notario proporcionará por escrito al interventor, bajo protesta de decir verdad, los datos que éste le solicite por el mismo medio para el desempeño de su encargo debiendo, en su caso proporcionar los documentos que éste le requiera, incluyendo la información que se genere en ausencia del interventor; y
 
 X. El interventor podrá implementar las medidas y horario que estime convenientes para la correcta administración de la Notaría.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+La intervención de la Notaría cesará mediante acuerdo que emita el Secretario General de Gobierno, una vez que se hayan regularizado todos los instrumentos y trámites a que se refiere la fracción VIII del presente artículo.
 
 ###### ARTÍCULO 178.
 
@@ -2112,3 +2120,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE Y LA FRACCIÓN I DEL ARTÍCULO 177; ADICIONA UN ÚLTIMO PÁRRAFO AL 177, Y DEROGA LA FRACCIÓN XVII DEL ARTÍCULO 8, TODOS DE LA LEY DEL NOTARIADO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
