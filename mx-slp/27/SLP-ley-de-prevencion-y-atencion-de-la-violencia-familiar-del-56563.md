@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-56563
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2017-02-28"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de julio de 2007.
 
@@ -35,7 +35,7 @@ LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO D
 
 EXPOSICION DE MOTIVOS
 
-.
+[...]
 
 ###### ARTICULO 1°.
 
@@ -631,7 +631,7 @@ Las niñas, niños y adolescentes podrán ser citados a fin de recabar su opini�
 
 ###### ARTICULO 41.
 
-Las diligencias sobre notificaciones y citatorios podrán practicarse personalmente, por conducto del servidor público autorizado de las Unidades de Atención, o por la (sic) policías Estatal, Ministerial o municipal, y según las circunstancias podrá efectuarse por correo, telégrafo u otro medio, previa constancia razonada del medio empleado.
+Las diligencias sobre notificaciones y citatorios podrán practicarse personalmente, por conducto del servidor público autorizado de las Unidades de Atención, o por la (sic) policías Estatal, Ministerial o municipal y, según las circunstancias podrá efectuarse por correo, telégrafo u otro medio, previa constancia razonada del medio empleado.
 
 ### CAPITULO II. Medidas de Protección Inmediata y Cautelares
 
@@ -682,6 +682,10 @@ d) El embargo preventivo de bienes de la persona generadora de violencia, que de
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
 
 e) La obligación de proporcionar alimentos de manera provisional e inmediata.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+f) Designación por la autoridad competente de familiar idóneo que asuma la responsabilidad del o la menor, cuando la violencia se ejerza por ambos progenitores hacia una hija o un hijo menor.
 
 Las medidas cautelares serán tramitadas ante los juzgados de lo Familiar; y en los lugares en que no los hubiere, ante los juzgados civiles de Primera Instancia, Mixtos o Menores.
 
@@ -846,3 +850,11 @@ P.O. 28 DE FEBRERO DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1034.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 205 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EN EL ARTÍCULO 43 UNA FRACCIÓN A LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
