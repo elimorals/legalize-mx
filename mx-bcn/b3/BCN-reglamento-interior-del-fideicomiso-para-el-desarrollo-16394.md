@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-fideicomiso-para-el-desarrollo-16394"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-11"
-last_updated: "2018-06-15"
+last_updated: "2018-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO PARA EL DESARROLLO URBANO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de febrero de 2000.
 
@@ -52,6 +52,10 @@ I.- FIDUM.- Fideicomiso para el Desarrollo Urbano de Mexicali.
 II.- COMITÉ TÉCNICO.- Órgano de gobierno del FIDUM, y
 
 III.- MUNICIPIO.- El Municipio de Mexicali, Baja California.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2018)</small>
+
+IV.- COMITÉ DE ADQUISICIONES.- El Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del FIDUM.
 
 ###### ARTÍCULO 3.
 
@@ -427,6 +431,124 @@ En las ausencias temporales del Director, por motivo de comisión, incapacidad o
 
 En las ausencias temporales de los jefes de departamento, por motivo de comisión, incapacidad o vacaciones, el despacho y resolución de los asuntos correspondientes al cargo serán cubiertas por el servidor público que el Director designe, previa notificación por escrito, en la que se establezcan las atribuciones específicas para resolver sobre las materias que se le señalen y el ámbito que se determine en cada caso.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2018)</small>
+
+### CAPITULO VIII. DEL COMITE DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL FIDUM
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 17.
+
+El Comité de Adquisiciones es el órgano técnico del FIDUM, de consulta, análisis, opinión y orientación, que tiene por objeto intervenir en el procedimiento administrativo de adquisiciones, arrendamientos y contratación de servicios, a fin de determinar las acciones necesarias que permitan optimizar los recursos que se destinen a los fines del Fideicomiso, coadyuvando al cumplimiento de los mismos.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 18.
+
+El Comité de Adquisiciones se integrará con los miembros siguientes:
+
+I.- Con derecho de voz y voto:
+
+a) El Director del FIDUM, quien lo presidirá;
+
+b) El Jefe del Departamento Técnico del FIDUM, como Vocal;
+
+c) El Regidor Coordinador de la Comisión de Desarrollo Urbano y Control Ecológico, como Vocal.
+
+II.- Con derecho de voz, pero sin voto:
+
+a) El Síndico Procurador, como invitado;
+
+b) El Tesorero Municipal, como invitado;
+
+c) El Oficial Mayor, como invitado.
+
+El Jefe del Departamento de Administración y Finanzas del FIDUM fungirá como Secretario Técnico del Comité de Adquisiciones.
+
+Los integrantes señalados en los incisos a) y b) de la fracción I y a), b) y c) de la fracción II, podrán ser representados por el suplente que designen para tal efecto, quien contará con las mismas facultades que el presente Reglamento confiere a los titulares del Comité de Adquisiciones.
+
+El integrante referido en el inciso c) de la fracción I de este artículo, podrá ser representado por otro Regidor que integre la Comisión aludida, quien actuará en suplencia de aquél, con las mismas atribuciones que le otorga este Reglamento.
+
+Podrán ser invitados los servidores públicos cuya intervención se considere necesaria, para aclarar aspectos técnicos o administrativos relacionados con los asuntos sometidos a la consideración del Comité de Adquisiciones.
+
+Podrán ser invitados, además, sin derecho a voz ni voto, las asociaciones, organismos camarales y público en general interesados en la adjudicación.
+
+Para que las sesiones del Comité de Adquisiciones sean válidas, se requiere que sean citados por escrito o en forma indubitable todos sus miembros y se constituya el quórum por lo menos con dos de sus integrantes con voz y voto, entre ellos el Presidente. Los acuerdos se tomarán por mayoría de votos de los presentes en la sesión, teniendo el Presidente del Comité de Adquisiciones, voto de calidad en caso de empate. La persona facultada para convocar y presidir las sesiones es el Director del FIDUM.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 19.
+
+El Comité de Adquisiciones tendrá las siguientes facultades:
+
+I. Convocar y adjudicar las adquisiciones, arrendamientos de bienes muebles y contratación de servicios, en los casos que la normatividad vigente lo estipule;
+
+II. Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular las observaciones y recomendaciones convenientes;
+
+III. Dictaminar, previamente a la iniciación del procedimiento de adjudicación, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 28 del Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el Gobierno Municipal de Mexicali, Baja California, salvo en el caso de la fracción II de (sic) citado precepto, siempre y cuando el Comité de Adquisiciones no pueda funcionar, en cuyo caso se deberá informar al propio Comité una vez concluida la contratación respectiva. Dicha función también podrá ser ejercida directamente por el titular de la dependencia o entidad;
+
+IV. Proponer las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y contratación de servicios, así como autorizar los supuestos no previstos en éstos ante el Comité Técnico del FIDUM;
+
+V. Analizar el informe que emita trimestralmente el Departamento de Administración y Finanzas del FIDUM, respecto de la conclusión de los casos dictaminados conforme a la fracción III anterior, así como de las licitaciones públicas que se realicen y los resultados generales de las adquisiciones, arrendamientos y contratación de servicios, y en su caso, recomendar las medidas necesarias para evitar el probable incumplimiento de alguna disposición jurídica o administrativa;
+
+VI. Analizar exclusivamente para su opinión, cuando se le solicité, los dictámenes y fallos emitidos;
+
+VII. Autorizar los casos de reducción del plazo para la presentación y apertura de proposiciones en licitaciones públicas; y
+
+VIII. Coadyuvar al cumplimiento del Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el Gobierno Municipal de Mexicali Baja California y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 20.
+
+Las sesiones del Comité de Adquisiciones se realizarán de manera ordinaria trimestralmente, debiendo ser convocados sus integrantes, con cuando menos cuarenta y ocho horas de anticipación. Es facultad del Presidente del Comité de Adquisiciones emitir la convocatoria que contendrá lugar y fecha en que se deberá celebrar la sesión y el orden del día. Para que el Comité de Adquisiciones sesione válidamente, se requerirá la presencia de cuando menos dos de sus integrantes con derecho de voto, siempre y cuando esté presente el Presidente del Comité.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 21.
+
+Las sesiones extraordinarias podrán ser convocadas por el Presidente del Comité de Adquisiciones o a petición de la mayoría de los integrantes, en cualquier tiempo, y en la misma se deberán tratar sólo los asuntos para los que fue convocada.
+
+Las decisiones del Comité de Adquisiciones se tomarán por mayoría de votos de los integrantes presentes en la sesión.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 22.
+
+El Presidente del Comité de Adquisiciones tendrá las siguientes facultades:
+
+I. Representar al Comité de Adquisiciones;
+
+II. Presentar las opiniones y observaciones del Comité de Adquisiciones, y
+
+Ser el moderador en las juntas que realice el Comité de Adquisiciones
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 23.
+
+El Secretario Técnico del Comité de Adquisiciones tendrá las siguientes facultades:
+
+I. Convocar a sesiones a propuesta del Presidente;
+
+II. Tomar lista de asistencia de las sesiones;
+
+III. Elaborar las actas correspondientes de las sesiones que se lleven a cabo;
+
+IV. Participar en la elaboración de los proyectos, programas y dictámenes que lleve a cabo el Comité de Adquisiciones, y
+
+V. Conservar los archivos del Comité de Adquisiciones.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+
+###### ARTÍCULO 24.
+
+Los Vocales del Comité de Adquisiciones tendrán las siguientes facultades:
+
+I. Participar activamente en las juntas del Comité de Adquisiciones, opinando respecto a los temas a tratar, y
+
+II. Realizar propuestas en los temas inherentes a sus atribuciones.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO UNICO.
@@ -490,3 +612,11 @@ P.O. 15 DE JUNIO DE 2018.
 ###### ARTÍCULO PRIMERO.
 
 Las reformas realizadas al presente Reglamento Interior, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE AUTORIZA (SIC) REFORMAS AL REGLAMENTO INTERIOR DEL FIDEICOMISO PARA EL DESARROLLO URBANO DE MEXICALI, BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
