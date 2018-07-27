@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-entidades-paraestatales-del-estado-de-puebla-37228"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2015-10-19"
+last_updated: "2018-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el Viernes 19 de diciembre de 2003.
 
@@ -539,7 +539,9 @@ IV.- Aprobar conforme a la legislación aplicable, la contratación de financiam
 
 V.- Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la Entidad que no correspondan a las operaciones propias del objeto de la misma;
 
-VI.- Aprobar previo informe de los comisarios, los estados financieros de la Entidad Paraestatal y remitirlos al Congreso del Estado mediante la presentación de la Cuenta Pública;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+VI.- Aprobar previo informe de los titulares de los órganos internos de control, los estados financieros de la Entidad Paraestatal y remitirlos al Congreso del Estado mediante la presentación de la Cuenta Pública;
 
 VII.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Entidad Paraestatal con terceros en obras públicas y servicios relacionados con ésta, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles.
 
@@ -559,7 +561,9 @@ XII.- Aprobar la constitución de reservas y aplicación de las utilidades de la
 
 XIII.- Aprobar la adquisición, arrendamiento y enajenación de inmuebles que la Entidad Paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la ley considere como del dominio público, de conformidad con la legislación aplicable;
 
-XIV.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+XIV.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los titulares de los órganos internos de control; y
 
 XV.- Acordar los pagos o donativos extraordinarios, de conformidad con las disposiciones legales aplicables; así como verificar que los mismos se destinen a sus fines señalados.
 
@@ -589,7 +593,9 @@ IX.- Establecer los sistemas de control necesarios para alcanzar las metas u obj
 
 X.- Presentar periódicamente al Órgano de Gobierno el informe del desempeño de las actividades de la Entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección con las realizaciones alcanzadas;
 
-XI.- Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeñe la Entidad y presentar al Órgano de Gobierno por lo menos dos veces al año la evaluación de gestión con el detalle que previamente se acuerde con el Órgano y escuchando al Comisario Público;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
+
+XI.- Establecer los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeñe la Entidad y presentar al Órgano de Gobierno por lo menos dos veces al año la evaluación de gestión con el detalle que previamente se acuerde con el Órgano y escuchando al titular del órgano interno de control;
 
 XII.- Ejecutar los acuerdos que dicte el Órgano de Gobierno;
 
@@ -601,17 +607,15 @@ XV.- Tramitar la inscripción de la Entidad Paraestatal en el Registro Federal d
 
 ### CAPÍTULO VIII. DEL CONTROL Y EVALUACIÓN
 
-> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
 
-###### ARTICULO 54.
+###### ARTÍCULO 54.
 
-El Órgano de Vigilancia de las Entidades Paraestatales estará integrado por un Comisario Público, designado por la Secretaría de la Contraloría.
+El Órgano de Vigilancia de las Entidades Paraestatales estará integrado por un titular del órgano interno de control, el cual será designado por la Secretaría de la Contraloría.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+Los titulares de los órganos internos de control evaluarán el desempeño general y funciones del Organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requieran el adecuado cumplimiento de sus atribuciones, sin perjuicio de las tareas que la Secretaría de la Contraloría les asigne específicamente conforme a la legislación aplicable.
 
-Los Comisarios Públicos evaluarán el desempeño general y funciones del Organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requieran el adecuado cumplimiento de sus atribuciones, sin perjuicio de las tareas que la Secretaría de la Contraloría les asigne específicamente conforme a la legislación aplicable.
-
-Los Comisarios Públicos participarán en las sesiones de los Órganos de Gobierno de las Entidades Paraestatales, con voz pero sin voto.
+Los titulares de los órganos internos de control, participarán en las sesiones de los Órganos de Gobierno de las Entidades Paraestatales, con voz pero sin voto.
 
 ###### ARTÍCULO 55.
 
@@ -641,9 +645,11 @@ De igual forma, la Secretaría de la Contraloría podrá revisar, auditar o eval
 
 En aquellos casos en los que el Órgano de Gobierno o el Director General de la Entidad Paraestatal, no dieren cumplimiento a las obligaciones legales que se les atribuyen en este Ordenamiento, el Ejecutivo del Estado por conducto de las dependencias competentes, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2018)</small>
+
 ###### ARTÍCULO 58.
 
-En aquellas empresas en que el Gobierno del Estado participe con la suscripción del veinticinco al cincuenta por ciento (25 al 50%) del capital, las inversiones estatales se vigilarán a través del Comisario.
+En aquellas empresas en que el Gobierno del Estado participe con la suscripción del veinticinco al cincuenta por ciento (25 al 50%) del capital, las inversiones estatales se vigilarán a través del titular del órgano interno de control.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
@@ -718,5 +724,13 @@ Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decret
 P.O. 19 DE OCTUBRE DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y XIV DEL ARTÍCULO 52, LA FRACCIÓN XI DEL 53, EL 54 Y EL 58, TODOS DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
