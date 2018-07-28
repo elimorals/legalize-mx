@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-95429"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2015-08-26"
+last_updated: "2018-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO Y TURISMO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y TURISMO, PUBLICADO EN EL P.O. DE FECHA 28 DE JULIO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y TURISMO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018 (ABROGADO).
 
 Reglamento publicado en el Suplemento H del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
@@ -187,7 +189,7 @@ El Secretario instrumentará los manuales de organización y de procedimientos d
 
 Son facultades del Secretario:
 
-I. Regular, conducir, ejecutar y evaluar las políticas y programas de promoción y fomento económico en materia industrial, de comercio interior, abasto, servicios, turismo, minería de superficie, artesanías y exportaciones, de acuerdo con las directrices que Gobernador (sic) le dicte y con base en la legislación y normatividad estatal y federal aplicable, impulsar esquemas de participación de la inversión privada o pública, nacional o extranjera en proyectos de infraestructura, en el ramo de su competencia;
+I. Regular, conducir, ejecutar y evaluar las políticas y programas de promoción y fomento económico en materia industrial, de comercio interior, abasto, servicios, turismo, minería de superficie, artesanías y exportaciones, de acuerdo con las directrices que (sic) Gobernador le dicte y con base en la legislación y normatividad estatal y federal aplicable, impulsar esquemas de participación de la inversión privada o pública, nacional o extranjera en proyectos de infraestructura, en el ramo de su competencia;
 
 II. Fomentar y coordinar los programas de promoción de las exportaciones y la inversión extranjera en los distintos sectores económicos de la Entidad, con base en la legislación y normatividad aplicable. Asimismo promover y fortalecer la participación de los productores para la realización de programas y acciones orientados al desarrollo de los sectores económicos;
 
@@ -499,7 +501,7 @@ VI. Aprobar y suscribir, en su caso, y previo a la elaboración del dictamen res
 
 VII. Aprobar y suscribir los dictámenes recaídos a los proyectos de regulación y los estudios que hubieren enviado las dependencias a la Unidad, para su presentación al Secretario;
 
-VlII. Presentar al Secretario el consolidado de dictámenes recaídos a los proyectos de regulación y sus estudios, que hubieren presentado las dependencias, previo conocimiento de las mismas para que, en su caso, realicen las adecuaciones propuestas por la Unidad;
+VIII. Presentar al Secretario el consolidado de dictámenes recaídos a los proyectos de regulación y sus estudios, que hubieren presentado las dependencias, previo conocimiento de las mismas para que, en su caso, realicen las adecuaciones propuestas por la Unidad;
 
 IX. Presentar el informe Anual de Avance para su presentación al Secretario;
 
@@ -713,11 +715,11 @@ V. Elaborar y tramitar los contratos de prestación de servicios, previa autoriz
 
 VI. Asistir a la Dirección General de Administración en la conducción de los recursos de acuerdo al presupuesto autorizado de la Dirección a su cargo, así como de las áreas y unidades de la Secretaría que la Dirección General de Administración le señale;
 
-VIl. Cumplir la normatividad vigente en materia de suministro de servicios y adquisición de bienes inmuebles;
+VII. Cumplir la normatividad vigente en materia de suministro de servicios y adquisición de bienes inmuebles;
 
 VIII. Elaborar los tramites de los movimientos del personal de las unidades administrativas de la Secretaría, previa la autorización de la Dirección General de Administración;
 
-lX. Gestionar y llevar el control en la asignación de los recursos materiales, equipo informático, de oficina y consumibles; los servicios del archivo y correspondencia, servicios de conservación de los bienes muebles e inmuebles y de transporte que le instruya la Dirección General de Administración;
+IX. Gestionar y llevar el control en la asignación de los recursos materiales, equipo informático, de oficina y consumibles; los servicios del archivo y correspondencia, servicios de conservación de los bienes muebles e inmuebles y de transporte que le instruya la Dirección General de Administración;
 
 X. Supervisar el funcionamiento y operación del almacén de la Secretaría a como lo instruya la Dirección General de Administración;
 
@@ -727,7 +729,7 @@ XII. Promover el cumplimiento y observancia de las normas, políticas, procedimi
 
 XIII. Tener actualizado los formatos de entrega recepción, en lo relativo a la información de esta Dirección y, coordinar las actualizaciones de la entrega-recepción de las unidades administrativas de la Secretaría que le instruya la Dirección General de Administración;
 
-XlV. Elaborar el programa anual de adquisiciones de bienes y servicios de la Secretaría que le instruya la Dirección General de Administración;
+XIV. Elaborar el programa anual de adquisiciones de bienes y servicios de la Secretaría que le instruya la Dirección General de Administración;
 
 XV. Analizar y proponer a la Dirección General de Administración, las acciones, procedimientos y sistemas que busquen mejorar y agilizar el suministro y control de materiales de la Secretaría;
 
@@ -901,7 +903,7 @@ XXIX. Difundir por cualquier medio, previa autorización del Coordinador, los re
 
 XXX. Impulsar la innovación y el desarrollo tecnológico de las instituciones y empresas que conforman el sector;
 
-XXXI. Procurar en coordinación, con la Dirección de Asuntos Jurídicos y de Acceso a la Información de la Secretaría, la elaboración y suscripción convenios (sic), acuerdos, para préstamos e intercambios de material documental, así como todos aquellos acuerdos, bases y otros instrumentos jurídicos con los sectores público, privado y social, incluso a nivel internacional para cumplir con sus funciones;
+XXXI. Procurar en coordinación, con la Dirección de Asuntos Jurídicos y de Acceso a la Información de la Secretaría, la elaboración y suscripción (sic) convenios, acuerdos, para préstamos e intercambios de material documental, así como todos aquellos acuerdos, bases y otros instrumentos jurídicos con los sectores público, privado y social, incluso a nivel internacional para cumplir con sus funciones;
 
 XXXII. Evaluar y Coordinar la política de promoción y mercadotecnia turística, sus objetivos, metas, estrategias y evaluar su ejecución;
 
@@ -917,7 +919,7 @@ XXXVII. Elaborar presentaciones de eventos especiales dentro del Estado, municip
 
 XXXVIII. Supervisar que se cumplan los acuerdos que se establezcan en cada reunión de los programas relacionadas (sic) con las actividades del sector;
 
-XXXIX. Coordinar las relaciones interinstitucionales con Municipios, Seguridad Pública, Sistema Estatal de Urgencias, Policía Estatal de Caminos, Transporte y Vialidad, Procuraduría General Justicia (sic), Protección Civil, Secretaría de Administración, Instituto Estatal de Cultura, y otras dependencias e instituciones que intervengan, para la realización de eventos;
+XXXIX. Coordinar las relaciones interinstitucionales con Municipios, Seguridad Pública, Sistema Estatal de Urgencias, Policía Estatal de Caminos, Transporte y Vialidad, Procuraduría General (sic) Justicia, Protección Civil, Secretaría de Administración, Instituto Estatal de Cultura, y otras dependencias e instituciones que intervengan, para la realización de eventos;
 
 XL. Fungir como enlace con Secretaría de Turismo Federal para la organización y seguimiento a los programas y eventos que realizan en el estado; y
 
@@ -1575,7 +1577,7 @@ VIII. Promover los parques y corredores industriales establecidos en el Estado, 
 
 IX. Proponer la celebración de convenios con los tres órdenes de gobierno y organismos que contribuyan, a la promoción de inversiones y el desarrollo económico de la Entidad;
 
-X. Promover la integración equipos (sic) de trabajo interinstitucionales, en la cual, participen dependencias federales, estatales y municipales, con el objetivo de facilitar la instalación de nuevas empresas en la entidad;
+X. Promover la integración (sic) equipos de trabajo interinstitucionales, en la cual, participen dependencias federales, estatales y municipales, con el objetivo de facilitar la instalación de nuevas empresas en la entidad;
 
 XI. Apoyar en las gestiones que realicen las empresas, locales, nacionales y extranjeras de los diversos sectores, que tengan interés en establecerse en el Estado;
 
@@ -1704,3 +1706,15 @@ P.O. 26 DE AGOSTO DE 2015.
 PRIMERO.- La presente reforma al Reglamento Interior de la Secretaría de Desarrollo Económico y Turismo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Todo trámite, documento o cualquiera (sic) asunto realizado en los términos previstos en esta reforma, antes de la entrada en vigor, quedan validados de acuerdo a la aprobación de la estructura orgánica de la administración pública 2013-2018.
+
+P.O. 28 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y TURISMO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico y Turismo que con fecha 30 de marzo de (sic) año 2013 fue publicado en el Suplemento “H", al Periódico Oficial número 7363; así como las reformas que el día 26 de agosto de 2015 fueron publicadas en el Suplemento "F” al Periódico Oficial número 7614; y las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. Los asuntos pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas Unidades a las que se les haya atribuido la competencia en este Reglamento.
+
+CUARTO. Para su mejor desempeño, la Secretaría deberá expedir los manuales de organización y procedimientos respectivos, con base en su competencia, en tanto se expiden los manuales en mención, en caso de duda sobre la interpretación del presente Reglamento, el Secretario resolverá lo conducente.
