@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2018-07-03"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -63,7 +63,9 @@ II. Eficiencia de gestión;
 
 III. Calidad del servicio, y
 
-IV. Formación del elemento humano.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+
+IV. Formación del elemento humano con perspectiva de género.
 
 ###### ARTICULO 3°.
 
@@ -145,9 +147,11 @@ IV. Impulsar la implementación de la infraestructura y equipamiento urbano, que
 
 V. Los sistemas de transporte público, en coordinación con las autoridades correspondientes, desarrollarán programas de seguridad pública y protección civil; así como de sensibilización para el respeto y trato digno de las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 6°.
 
-Se entiende como formación del elemento humano, la capacitación para la prestación del servicio de transporte público de pasajeros, y las acciones que tengan como fin impulsar el desarrollo de los conocimientos, habilidades y destrezas, dirigidas a los concesionarios, permisionarios, operadores, usuarios y ciudadanos en general, bajo los siguientes lineamientos:
+Se entiende como formación del elemento humano, la capacitación para la prestación del servicio de transporte público de pasajeros, y las acciones que tengan como fin impulsar el desarrollo de los conocimientos, habilidades y destrezas, dirigidas a los concesionarios, permisionarios, operadores, usuarios y ciudadanos en general, con perspectiva de género, bajo los siguientes lineamientos:
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
 
@@ -157,17 +161,17 @@ I. Las autoridades del transporte público deberán impulsar de manera semestral
 
 II. Los concesionarios y permisionarios deberán conocer y actualizar los derechos y obligaciones derivados de la concesión o permiso otorgado cada seis meses. Asimismo, mantenerse actualizados en el conocimiento de los avances tecnológicos y administrativos en la materia, cuando sea necesario;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
 
-III. Los usuarios deberán conocer, en beneficio de ellos mismos y de la sociedad en general, los derechos y obligaciones inherentes al uso de cualquier sistema de transporte público;
+III. Los usuarios deberán conocer, en beneficio de ellos mismos y de la sociedad en general, los derechos y obligaciones inherentes al uso de cualquier sistema de transporte público, así como los protocolos de prevención y seguridad dirigidos principalmente a mujeres y niñas;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
 
 IV. Las autoridades correspondientes, estatales y municipales, deberán implementar programas y acciones de difusión sobre las disposiciones aplicables en materia de tránsito y transporte público, así como el uso responsable de vehículos particulares y de las vialidades, propiciando el fomento de la cultura del respeto, para una mejor convivencia urbana, y preferencia vial a, las personas con discapacidad, al peatón y al transporte colectivo, y
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
 
-V. Las autoridades de transporte público, los concesionarios y permisionarios deben implementar en sus cursos de capacitación, la sensibilización acerca de las personas con discapacidad.
+V. Las autoridades de transporte público, los concesionarios y permisionarios deben implementar en sus cursos de capacitación, la sensibilización acerca de las personas con discapacidad, y la perspectiva de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -285,6 +289,10 @@ XXIII. Permisionario: persona física o moral que, al amparo de un permiso tempo
 
 XXIII Bis. Persona con discapacidad: toda aquélla que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en igualdad de condiciones con las demás;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2018)</small>
+
+XXIII Ter. Protocolos de prevención y seguridad: manuales de prevención y seguridad que consisten en la protección de los usuarios de trasporte público, dirigidos principalmente a mujeres y niñas, de los posibles riesgos que se pueden encontrar al transitar por las distintas rutas de dicho trasporte;
+
 XXIV. Ramal: a la extensión al itinerario de una ruta, que se autoriza a partir de puntos intermedios del recorrido;
 
 XXV. Refrendo: al acto administrativo por medio del cual la Secretaría confirma la vigencia de la concesión o permiso correspondiente, previa verificación del cumplimiento de las condiciones y requisitos que dieron origen a su expedición;
@@ -341,11 +349,11 @@ XLVII. Vialidad: al conjunto integrado de vías de comunicación terrestre, fede
 
 XLVIII. Vías públicas: a las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, caminos de acceso, ciclopistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 13.
 
-La Secretaría coordinará y llevará a cabo, en los términos de esta Ley, programas de información, orientación y asesorías a transportistas, permisionarios, concesionarios y usuarios del transporte público, en todas sus modalidades, en relación con los servicios del transporte, así como sobre los derechos y obligaciones de unos y otros; asimismo, realizará campañas de orientación y de concientización a usuarios, personas con discapacidad, y prestadores del servicio, para la prevención de accidentes.
+La Secretaría coordinará y llevará a cabo en los términos de esta Ley, programas de información, orientación y asesorías a transportistas, permisionarios, concesionarios y usuarios del transporte público, en todas sus modalidades, en relación con los servicios del transporte, así como sobre los derechos y obligaciones de unos y otros; asimismo, realizará campañas, con perspectiva de género, de orientación y de concientización a usuarios, personas con discapacidad, y prestadores del servicio, para la prevención de accidentes.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -417,9 +425,9 @@ I. Aplicar la política general dictada por el Ejecutivo, y los programas en mat
 
 II. Desahogar el procedimiento para otorgar, revocar, modificar, suspender, o declarar la nulidad de concesiones y permisos para la prestación del servicio de transporte público en cualquiera de sus modalidades; así como emitir opinión al titular del Ejecutivo del Estado, para autorizar las cesiones de derechos de las concesiones previstos (sic) por esta Ley;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
 
-III. Autorizar y revisar, por sí o a través de las direcciones generales de, Comunicaciones y Transportes; o la del Transporte Colectivo Metropolitano, según corresponda, con acuerdo del titular del Ejecutivo y, en su caso, previo análisis y recomendación del Consejo, las rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos, y todo aquéllo relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación que no sean de jurisdicción federal;
+III. Autorizar y revisar, por sí o a través de las direcciones generales de, Comunicaciones y Transportes; o la del Transporte Colectivo Metropolitano, según corresponda, con acuerdo del titular del Ejecutivo y, en su caso, previo análisis y recomendación del Consejo, las rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos, protocolos de prevención y seguridad dirigidos principalmente a mujeres y niñas, y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación que no sean de jurisdicción federal;
 
 IV. Ordenar los procedimientos de inspección y vigilancia del servicio del transporte público, en los términos de esta Ley y demás disposiciones aplicables;
 
@@ -2808,5 +2816,13 @@ P.O. 3 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 999.- SE ADICIONA AL ARTÍCULO 15 LA FRACCIÓN VIII DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1037.- SE REFORMAN LOS ARTÍCULOS 2, 6, 13 Y 17; Y ADICIONA AL ARTÍCULO 12 LA FRACCIÓN XXIII TER, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
