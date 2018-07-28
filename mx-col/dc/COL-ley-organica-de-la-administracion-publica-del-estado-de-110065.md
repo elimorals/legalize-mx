@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-110065"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-01"
-last_updated: "2017-11-25"
+last_updated: "2018-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el jueves 1 de octubre de 2015.
 
@@ -161,7 +161,13 @@ XV.- Secretaría del Trabajo y Previsión Social;
 
 XVI.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2017)
 
-XVII.- Consejería Jurídica del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+
+XVII.- Consejería Jurídica del Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2018)</small>
+
+XVIII.- Contraloría General del Estado.
 
 ###### Artículo 14.
 
@@ -1063,7 +1069,9 @@ Las entidades que integran la Administración Pública Paraestatal, por acuerdo 
 
 El control interno de las dependencias y entidades de la Administración Pública del Estado estará a cargo de la Contraloría General del Estado, sin perjuicio de que las entidades paraestatales que por su estructura y funciones así lo requieran, cuenten con sus propios órganos internos de control.
 
-La Contraloría General del Estado es la unidad administrativa, adscrita a la Oficina del Gobernador, dotada de autonomía técnica y de gestión, responsable del control, evaluación, auditoría y fiscalización interna de la Administración Pública Centralizada y Paraestatal del Estado, competente para vigilar la actuación de los servidores públicos que la integran y en su caso aplicar las sanciones que correspondan derivadas de responsabilidad administrativa; cuya organización, procedimientos y atribuciones serán las que determinen las leyes, su reglamento interior y demás disposiciones jurídicas aplicables en la materia.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
+
+La Contraloría General del Estado es la dependencia centralizada de la Administración Pública, con rango de Secretaría, responsable del control, evaluación, auditoría y fiscalización interna de la Administración Pública Centralizada y Paraestatal del Estado, competente para vigilar la actuación de los servidores públicos que la integran y en su caso aplicar las sanciones que correspondan derivadas de responsabilidad administrativa; cuya organización, procedimientos y atribuciones serán las que determinen las leyes, su reglamento interior y demás disposiciones jurídicas aplicables en la materia.
 
 A la Contraloría General del Estado, además de las funciones previstas en el párrafo anterior, le corresponderá el despacho de los siguientes asuntos:
 
@@ -1085,9 +1093,13 @@ VIII. Fiscalizar que la Administración Pública Centralizada y Paraestatal del 
 
 IX. Designar y remover a los auditores externos de la Administración Pública del Estado, así como normar y controlar su desempeño;
 
-X. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental, a los supervisores y comisarios de la propia Contraloría General del Estado ante las dependencias y entidades de la Administración Pública del Estado centralizada; así como normar y controlar su desempeño;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
 
-XI. Designar y remover a los titulares de los órganos internos de control de la Administración Pública del Estado quienes dependerán de la Contraloría General del Estado; así mismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Órganos Jurisdiccionales competentes de acuerdo a la legislación aplicable;
+X. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental, a los supervisores, comisarios y equivalentes de la propia Contraloría General del Estado ante las dependencias y entidades de la Administración Pública del Estado; así como normar y controlar su desempeño;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+
+XI. Designar y remover a los titulares de los órganos internos de control de la Administración Pública del Estado quienes dependerán de la Contraloría General del Estado; así mismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Órganos Jurisdiccionales competentes de acuerdo a la legislación aplicable, así como normar y controlar su desempeño;
 
 XII. Colaborar en el marco del Sistema Estatal Anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
 
@@ -1099,7 +1111,9 @@ XV. Recibir y registrar las declaraciones patrimoniales y de intereses que deban
 
 XVI. Atender las quejas, denuncias y sugerencias que presenten los particulares, por actos u omisiones que pudieran ser constitutivas de faltas administrativas con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública del Estado;
 
-XVII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública del Estado que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables a la materia, por sí, o por conducto de los órganos internos de control de la Administración Pública Paraestatal del Estado; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+
+XVII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública del Estado que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables a la materia, por sí, o por conducto de los órganos internos de control de la Administración pública del Estado; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en combate a la corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
 XVIII. Establecer mecanismos internos para la Administración Pública del Estado que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
@@ -1137,7 +1151,9 @@ Los titulares de las unidades encargadas de la función de auditoría de la Cont
 
 Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, tanto las dependencias y entidades, así como la Contraloría General del Estado, implementarán las acciones pertinentes para mejora de la gestión.
 
-Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, la Contraloría General del Estado y, en su caso, los órganos internos de control de la Administración Pública Paraestatal integrarán comités de control y desempeño institucional en la Administración Pública del Estado, para el seguimiento y evaluación.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
+
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, la Contraloría General del Estado y, en su caso, los órganos internos de control de la Administración Pública del Estado, integrarán comités de control y desempeño institucional para el seguimiento y evaluación.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -1145,7 +1161,9 @@ Conforme a lo dispuesto en las leyes en la materia, así como en las bases y pri
 
 Las relaciones entre la Administración Pública Centralizada y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de la Secretaría de Planeación y Finanzas y de la Contraloría General del Estado, en el ámbito de sus respectivas competencias.
 
-La Secretaría de Administración y Gestión Pública y la Contraloría General del Estado, estarán facultadas para emitir criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
+
+La Secretaría de Administración y Gestión Pública y la Contraloría General del Estado, estarán facultadas para emitir criterios para la clasificación de las entidades paraestatales, así como de los órganos desconcentrados, conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 ## TRANSITORIOS
 
@@ -1230,3 +1248,13 @@ IV. En los procesos pendientes de dictarse sentencia en primera y segunda instan
 V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
 
 SEXTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+P.O. 28 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 517 POR EL QUE SE REFORMAN LOS ARTÍCULOS 13 FRACCIÓN XVII; 47 PÁRRAFO SEGUNDO Y LAS FRACCIONES X, XI Y XVII; 48 PÁRRAFO SÉPTIMO Y 49 PÁRRAFO SEGUNDO; Y ASIMISMO SE ADICIONA LA FRACCIÓN XVIII DEL ARTICULO 13 DE LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las adecuaciones al Reglamento Interior de la Contraloría General del Estado derivadas de lo previsto en el presente Decreto, deberán realizarse dentro del plazo de noventa días a partir de su entrada en vigor.
+
+TERCERO.- La Contraloría General del Estado, continuará funcionando con los recursos previstos en el Presupuesto de Egresos del Estado de Colima para el ejercicio fiscal 2018, debiéndose hacer las adecuaciones presupuestales pertinentes en los sucesivos ejercicios fiscales, así como la adecuación estructural, que permitan el debido funcionamiento de sus procesos sustantivos en su carácter de Secretaría.
