@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2018-03-24"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1695,7 +1695,17 @@ Por los conceptos a que se refiere esta fracción, las personas que acrediten se
 
 Los adultos en plenitud acreditarán ser de escasos recursos económicos, mediante constancia expedida por el Director del Instituto para la Atención de Adultos en Plenitud.
 
-V. - (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA CON LOS INCISOS QUE LA INTEGRAN], P.O. 28 DE JULIO DE 2018)</small>
+
+V.- Por la expedición, modificación, refrendo y reposición del permiso otorgado a las personas físicas y morales para la apertura, instalación y funcionamiento de las llamadas casas de empeño, o cualquier otro nombre equivalente, a través de las cuales oferten al público la celebración de contratos de mutuo con interés y contratos de prenda:
+
+a) Por la expedición del permiso 122.000
+
+b) Por la modificación del permiso 15.000
+
+c) Por el refrendo del permiso 122.000
+
+d) Por la reposición del permiso 8.000
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2708,6 +2718,74 @@ más, por cada unidad que integre el condominio 25.000
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ARTÍCULO 55 A.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
+
+Artículo 55 A Bis.- Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción estatal, se pagarán derechos conforme a las siguientes cuotas:
+
+UNIDADES DE
+
+MEDIDA Y
+
+ACTUALIZACIÓN
+
+I.- Estudios técnicos de planos, proyectos y memorias de obra,
+
+para obras e instalaciones marginales dentro del derecho de
+
+vía en carreteras y puentes de jurisdicción estatal, por cada
+
+100 metros o fracción que exceda de dicha longitud 30.4
+
+II.- Estudios técnicos de planos, proyectos y memorias de
+
+obra para construcción de obras por cruzamientos superficiales,
+
+subterráneos o aéreos que atraviesen carreteras y puentes de
+
+jurisdicción estatal 30.4
+
+III.- Por la autorización para la construcción de accesos
+
+que afecten el derecho de vía de una carretera, incluyendo la
+
+supervisión de la obra, el 14% sobre el costo de la misma.
+
+IV.- Por el estudio técnico del proyecto, supervisión y autorización
+
+de obras para paradores el 1% sobre el costo total de la obra.
+
+V.- Por el estudio técnico de planos, proyectos y memorias de
+
+obra y expedición de la autorización para la construcción de obras
+
+e instalaciones marginales subterráneas, superficiales o aéreas
+
+que se realicen dentro de los derechos de vía de carreteras o
+
+puentes, por kilómetro o fracción. 18.2
+
+VI.- Por la revisión, autorización y supervisión de instalación
+
+de anuncios y señales publicitarias de información o comunicación,
+
+que afecten el derecho de vía de una carretera, 14% sobre
+
+el costo total del presupuesto de la obra.
+
+a).- Por cada cambio de leyenda o figura en un anuncio
+
+instalado en la zona de derecho de vía de las carreteras,
+
+el 14% sobre el costo total del presupuesto de la obra.
+
+VII.- Por concepto de revalidación anual de los anuncios u
+
+obras publicitarias instaladas en las zonas del derecho de vías
+
+de las carreteras, se pagará durante los primeros dos meses
+
+del ejercicio fiscal correspondiente, la cantidad de 11.9
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -6626,3 +6704,9 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 464 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LEY DE HACIENDA DEL ESTADO DE COLIMA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 519 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN V DEL ARTÍCULO 53 Y SE ADICIONA EL ARTÍCULO 55 A BIS DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA".]
+
+ÚNICO. - El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
