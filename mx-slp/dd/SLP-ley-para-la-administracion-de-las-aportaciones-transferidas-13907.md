@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2018-07-26"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -35,7 +35,7 @@ DECRETO 265
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
@@ -47,9 +47,9 @@ LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPI
 
 La presente Ley es de orden público e interés social y tiene por objeto:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2018)</small>
 
-I. Regular y coordinar las acciones relativas al ejercicio, control y evaluación de los Recursos Federales del Ramo 33, que para efectos de su operación se constituyen en Fondos Estatales, al momento de ser recibidos por el Ejecutivo del Estado; distribuyéndose de la siguiente forma: Fondo Estatal para la Educación Básica y Normal; Fondo Estatal para los Servicios de Salud; Fondo Estatal de Aportaciones Múltiples; Fondo Estatal para la Educación Tecnológica y de Adultos; Fondo Estatal para la Seguridad Pública; Fondo Estatal para la Infraestructura Social; y Fondo para el Fortalecimiento del Estado.
+I. Regular y coordinar las acciones relativas al ejercicio, control y evaluación de los Recursos Federales del Ramo 33 que para efectos de su operación se constituyen en Fondos Estatales, al momento de ser recibidos por el Ejecutivo del Estado, distribuyéndose de la siguiente forma: Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo; Fondo Estatal para los Servicios de Salud; Fondo Estatal de Aportaciones Múltiples; Fondo Estatal para la Educación Tecnológica y de Adultos; Fondo Estatal para la Seguridad Pública; Fondo Estatal para la Infraestructura Social; y Fondo para el Fortalecimiento del Estado.
 
 Los Fondos que complementan este Ramo 33 son el Fondo para la Infraestructura Social Municipal y el Fondo para el Fortalecimiento de los Municipios, que para efectos de su operación se constituyen en Fondos Municipales;
 
@@ -61,9 +61,9 @@ III. Promover la creación de los Consejos de Desarrollo Social Municipal como l
 
 Para efectos de esta Ley se entiende por:
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
 
-l. Fondos Estatales: Fondo Estatal para la Educación Básica y Normal; Fondo Estatal para los Servicios de Salud; Fondo Estatal de Aportaciones Múltiples; Fondo Estatal para la Educación Tecnológica y de Adultos; Fondo Estatal para Seguridad Pública; Fondo Estatal para la Infraestructura Social del Estado; y Fondo para el Fortalecimiento del Estado;
+I. Fondos Estatales: Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo; Fondo Estatal para los Servicios de Salud; Fondo Estatal de Aportaciones Múltiples; Fondo Estatal para la Educación Tecnológica y de Adultos; Fondo Estatal para Seguridad Pública; Fondo para la Infraestructura Social del Estado; y Fondo para el Fortalecimiento del Estado;
 
 II. Fondos Municipales: Fondo para la Infraestructura Social Municipal, y Fondo para el Fortalecimiento de los Municipios;
 
@@ -97,7 +97,9 @@ Las aportaciones federales a que se refiere el artículo anterior, para efectos 
 
 Los recursos de las aportaciones a que se refiere el artículo 4o. de esta Ley, se considerarán dentro de las respectivas Leyes de Ingresos y Presupuestos de Egresos del Estado de San Luis Potosí y de sus municipios, distribuidos en Fondos para impulsar el desarrollo social del Estado, que serán:
 
-I. Fondo Estatal para la Educación Básica y Normal;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+
+I. Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
 
 II. Fondo Estatal para los Servicios de Salud;
 
@@ -125,25 +127,15 @@ IX. Fondo para el Fortalecimiento del Estado.
 
 En el caso de los municipios, los ayuntamientos, en sus respectivas Leyes de Ingresos y Presupuestos de Egresos, reflejarán los Fondos para la Infraestructura Social Municipal y para el Fortalecimiento de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2018)</small>
 
-###### ARTICULO 7°.
+###### ARTICULO 7o.
 
-Los Fondos Estatales para la Educación Básica y Normal, y para la Educación Tecnológica y de Adultos, serán administrados por la Secretaría de Educación de Gobierno del Estado; el Fondo Estatal para los Servicios de Salud será administrado por los Servicios de Salud en el Estado; el Fondo Estatal de Aportaciones Múltiples será administrado por el Sistema Estatal para el Desarrollo Integral de la Familia y por la Secretaría de Educación de Gobierno del Estado en coordinación con el Instituto Estatal de Infraestructura Física Educativa, de conformidad con el recurso que señale cada año el Presupuesto de Egresos del Estado; el Fondo Estatal para la Seguridad Pública será administrado por la Secretaría de Seguridad Pública; y el Fondo para el Fortalecimiento del Estado será administrado por la Secretaría de Finanzas de Gobierno del Estado.
+Los Fondos Estatales, para la Nómina Educativa y Gasto Operativo, y para la Educación Tecnológica y de Adultos, serán administrados por la Secretaría de Educación de (sic) Gobierno del Estado; el Fondo Estatal para los Servicios de Salud será administrado por los Servicios de Salud en el Estado; el Fondo Estatal de Aportaciones Múltiples será administrado por el Sistema Estatal para el Desarrollo Integral de la Familia, y por la Secretaría de Educación de (sic) Gobierno del Estado, en coordinación con el Instituto Estatal de Infraestructura Física Educativa, de conformidad con el recurso que señale cada año el Presupuesto de Egresos del Estado; el Fondo Estatal para la Seguridad Pública será administrado por el Consejo Estatal de Seguridad Pública; y el Fondo para el Fortalecimiento del Estado será administrado por la Secretaría de Finanzas de (sic) Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2015)</small>
 
 El Fondo para la Infraestructura Social del Estado será administrado por el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, y ejercido por las entidades ejecutoras.
-
-El Fondo para la Infraestructura Social Municipal y el Fondo para el Fortalecimiento de los Municipios serán operados y administrados directamente por los ayuntamientos, debiéndolos incorporar a la cuenta pública municipal.
-
-###### ARTICULO 7o.
-
-Los Fondos Estatales para la Educación Básica y Normal, y para la Educación Tecnológica y de Adultos, serán administrados por la Secretaría de Educación de Gobierno del Estado; el Fondo Estatal para los Servicios de Salud será administrado por los Servicios de Salud en el Estado; el Fondo Estatal de Aportaciones Múltiples será administrado por el Sistema Estatal para el Desarrollo Integral de la Familia, y por la Secretaría de Educación de Gobierno del Estado, en coordinación con el Instituto Estatal de Construcción de Escuelas, de conformidad con el recurso que señale cada año el Presupuesto de Egresos del Estado; el Fondo Estatal para la Seguridad Pública será administrado por la Secretaría General de Gobierno; y el Fondo para el Fortalecimiento del Estado será administrado por la Secretaría de Finanzas de Gobierno del Estado.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
-
-El Fondo Estatal para la Infraestructura Social será administrado por el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, y ejercido por las entidades ejecutoras, atendiendo fundamentalmente a criterios de equilibrio y beneficio regional; y se integrará en la cuenta pública correspondiente.
 
 El Fondo para la Infraestructura Social Municipal y el Fondo para el Fortalecimiento de los Municipios serán operados y administrados directamente por los ayuntamientos, debiéndolos incorporar a la cuenta pública municipal.
 
@@ -169,7 +161,9 @@ En el ejercicio de los recursos de los Fondos Estatales y Municipales, el Estado
 
 Las obras, acciones sociales básicas e inversiones a que se destinen los recursos de los Fondos que señala el artículo 6o. de esta Ley, deberán ser compatibles con la preservación y protección del medio ambiente e impulsar el desarrollo sustentable.
 
-### CAPITULO II. Del Fondo Estatal para la Educación Básica y Normal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2018)</small>
+
+### CAPITULO II. Del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -177,21 +171,27 @@ Las obras, acciones sociales básicas e inversiones a que se destinen los recurs
 
 El Ejecutivo del Estado promoverá los programas orientados a mejorar la calidad, y la cobertura de la educación básica y normal en la Entidad, en cumplimiento a los compromisos establecidos en el Acuerdo Nacional para la Educación Básica y Normal, así como en la Ley General de Educación, en la Ley de Educación del Estado, y en las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 13.
 
-Para cumplir lo dispuesto en el artículo anterior, el Ejecutivo del Estado destinará los recursos del Fondo Estatal para la Educación Básica y Normal a programas y acciones que permitan la cobertura de los salarios y prestaciones de la plantilla del sector educativo del Estado, así como a incrementar la capacitación y actualización del magisterio.
+Para cumplir lo dispuesto en el artículo anterior, el Ejecutivo del Estado destinará los recursos del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, a programas y acciones que permitan la cobertura de los gastos de operación, y los gastos de servicios personales del sector educativo del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 14.
 
-El Ejecutivo del Estado, a través de la Secretaría de Educación, programará y ejercerá las partidas presupuestales derivadas del Fondo Estatal para la Educación Básica y Normal, de acuerdo a las necesidades que en materia de educación sean prioritarias y conforme a los lineamientos de los órganos de planeación y educación del Estado.
+El Ejecutivo del Estado, a través de la Secretaría de Educación, programará y ejercerá las partidas presupuestales derivadas del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, de acuerdo a las necesidades que en materia de educación sean prioritarias, y conforme a los lineamientos de los órganos de planeación y educación del Estado.
 
 ###### ARTICULO 15.
 
 Las autoridades estatales responsables del ejercicio presupuestal, así como las educativas, en forma coordinada y de manera periódica, se reunirán con las autoridades federales del ramo, para informar sobre el ejercicio del gasto del sector educativo y para analizar fórmulas que permitan la optimización de los recursos para los programas de educación pública en el Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
+
 ###### ARTICULO 16.
 
-Para la administración del Fondo Estatal para la Educación Básica y Normal, la Secretaría de Educación del Gobierno del Estado ejercerá las atribuciones que le confieren la Ley Orgánica de la Administración Pública Estatal, la Ley de Educación del Estado y las demás disposiciones aplicables.
+Para la administración del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, la Secretaría de Educación del Gobierno del Estado ejercerá las atribuciones que le confieren la Ley Orgánica de la Administración Pública Estatal, la Ley de Educación del Estado y las demás disposiciones aplicables.
 
 ### CAPITULO III. Del Fondo Estatal para los Servicios de Salud
 
@@ -227,11 +227,13 @@ Para la administración del Fondo Estatal para los Servicios de Salud, la Direcc
 
 El Ejecutivo del Estado destinará los recursos del Fondo Estatal de Aportaciones Múltiples, a los programas de asistencia social en apoyo a la población en desamparo; así como el fortalecimiento de la infraestructura educativa pública básica y superior, en su modalidad universitaria.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 23.
 
-El Ejecutivo del Estado, a través del Sistema Estatal para el Desarrollo Integral de la Familia, instrumentará con recursos del Fondo Estatal de Aportaciones Múltiples acciones para el fortalecimiento de la asistencia social en el Estado, a través de desayunos escolares, apoyos alimentarios y programas de asistencia social, dirigidos a la población en condiciones de pobreza extrema y marginación, particularmente mujeres, menores de edad, personas con discapacidad y senectos, en el marco de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí.
+El Ejecutivo del Estado, a través del Sistema Estatal para el Desarrollo Integral de la Familia, instrumentará con recursos del Fondo Estatal de Aportaciones Múltiples acciones para el fortalecimiento de la asistencia social en el Estado, a través de desayunos escolares, apoyos alimentarios y programas de asistencia social, dirigidos a la población en condiciones de pobreza extrema y marginación, particularmente mujeres, menores de edad, personas con discapacidad y personas adultas mayores, en el marco de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 Por otra parte, la Secretaría de Educación de Gobierno del Estado, en coordinación con el Instituto Estatal de Infraestructura Física Educativa, instrumentará con recursos de este Fondo, las acciones necesarias para destinarlos a la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica y superior en su modalidad universitaria. Los recursos transferidos a instituciones de educación superior, en su modalidad universitaria, se aplicarán conforme las leyes estatales que correspondan.
 
@@ -285,39 +287,41 @@ Para cumplir lo dispuesto en el artículo anterior, el Ejecutivo del Estado dest
 
 I. Al reclutamiento, selección, depuración, evaluación y formación de los recursos humanos vinculados con tareas de seguridad pública;
 
-II. A mejorar la capacidad y recursos de Agentes del Ministerio Público, Policías ministeriales y Peritos adscritos a la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
+II. A mejorar la capacidad y recursos de agentes del Ministerio Público, policías ministeriales y peritos adscritos a la Fiscalía General del Estado;
 
-III. Al equipamiento de la Policía Ministerial o sus equivalentes, los peritos, Ministerios Públicos, Policías Preventivas, Custodios de los Centros Penitenciarios y de Menores Infractores;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
+
+III. Al equipamiento de la Policía Ministerial o sus equivalentes, los peritos, ministerios públicos, policías preventivas, custodios de los centros de Prevención y Reinserción Social, y de los centros de Internamiento Juvenil;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
 
 IV. Al establecimiento y operación de la Red Nacional de Telecomunicaciones e Informática para la Seguridad Pública, y el servicio telefónico nacional de emergencia;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
 
-V. A la construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los Centros de Readaptación Social y de Menores Infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación;
+V. A la construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los centros de Prevención y Reinserción Social, y de los centros de Internamiento Juvenil, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación;
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2018)</small>
 
-VI. Al otorgamiento de percepciones extraordinarias para los Agentes del Ministerio Público, los Peritos, los Policías Ministeriales o sus equivalentes de la Procuraduría General de Justicia del Estado, los Policías Preventivos, o de Custodia de los Centros Penitenciarios y de Menores Infractores, y
+VI. Al otorgamiento de percepciones extraordinarias para los agentes del Ministerio Público, los peritos, los policías ministeriales o sus equivalentes de la Fiscalía General del Estado, los policías preventivos, o de custodia de los centros de Prevención y Reinserción Social, y de los Centros de Internamiento Juvenil, y
 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2007)</small>
 
 VII. Al seguimiento y evaluación de los programas señalados.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 33.
 
-El Ejecutivo del Estado, a través de la Secretaría de Seguridad Pública, programará y ejercerá las partidas presupuestales derivadas del Fondo Estatal para la Seguridad Pública, de acuerdo a las necesidades que en materia de seguridad pública sean prioritarias, de conformidad con lo señalado en la presente Ley, en la Ley Estatal de Seguridad Pública y de acuerdo a los lineamientos que emita el Consejo Estatal de Seguridad Pública.
+El Ejecutivo del Estado, a través del Consejo Estatal de Seguridad Pública, programará y ejercerá las partidas presupuestales derivadas del Fondo Estatal para la Seguridad Pública, de acuerdo a las necesidades que en materia de seguridad pública sean prioritarias, de conformidad con lo señalado en la presente Ley, en la Ley Estatal de Seguridad Pública, y de acuerdo a los lineamientos que emita el Consejo Estatal de Seguridad Pública.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2018)</small>
 
 ###### ARTICULO 34.
 
-El Ejecutivo del Estado por conducto de la Secretaría de Seguridad Pública, proporcionará al Ejecutivo Federal, a través de la Secretaría de Gobernación, la información financiera, operativa y estadística que le sea requerida relativa a la administración del Fondo Estatal para la Seguridad Pública.
+El Ejecutivo del Estado, por conducto del Consejo Estatal de Seguridad Pública, proporcionará al Ejecutivo Federal, a través de la Secretaría de Gobernación, la información financiera, operativa y estadística que le sea requerida, relativa a la administración del Fondo Estatal para la Seguridad Pública.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2015)</small>
 
@@ -640,6 +644,10 @@ Asimismo, se impulsará la participación social de manera intensiva y permanent
 ###### ARTICULO 66.
 
 En cada uno de los ayuntamientos se constituirá un Consejo de Desarrollo Social Municipal, el cual deberá estar en funciones desde su instalación y hasta que no sea constituido el siguiente, en los términos que establezca la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JULIO DE 2018)</small>
+
+El Consejo estará integrado por:
 
 I. Un Presidente del Consejo, que será el Presidente Municipal;
 
@@ -988,5 +996,13 @@ P.O. 26 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1028.- SE REFORMAN LOS ARTÍCULOS 86, 87 BIS Y 88 DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1036.- SE REFORMAN LOS ARTÍCULOS 1º, 2º, 6º, 7º, 13, 14, 16, 23, 32, 33, Y 34; Y ADICIONA AL ARTÍCULO 66 PÁRRAFO SEGUNDO, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
