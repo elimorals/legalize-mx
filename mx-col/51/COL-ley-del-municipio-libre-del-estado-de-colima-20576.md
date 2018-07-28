@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2018-03-24"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1489,6 +1489,22 @@ Los ayuntamientos vigilarán que la prestación de los servicios públicos se re
 
 Las Unidades Municipales de Protección Civil funcionarán como un órgano con autonomía de operación financiera y administrativa, dependiente del Ayuntamiento, las cuales coordinarán todas las acciones públicas municipales a favor de la protección civil, así como promover, apoyar, fomentar, vigilar y evaluar las estrategias y programas que se deriven de una gestión integral de riesgos en concordancia con los criterios que establezca la Unidad Estatal de Protección Civil.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
+
+Las Unidades Municipales de Protección Civil, además de las funciones señaladas en el párrafo anterior y de las atribuciones consignadas en la Ley de Protección Civil del Estado de Colima, en coordinación con la dependencia encargada de emitir las licencias municipales de funcionamiento, deberán elaborar y mantener actualizado un registro de riesgos de siniestros de los establecimientos comerciales, industriales y de servicios que operen en su municipio, clasificándolos en: bajo, medio y alto.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
+
+Al respecto, atenderán a los criterios establecidos por la Unidad (sic) Protección Civil, teniendo en cuenta lo dispuesto en el artículo 23 de la Ley de Protección Civil del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
+
+Lo señalado en el presente artículo, servirá a las Unidades Municipales de Protección Civil para promover que en los establecimientos comerciales, industriales y de servicios que operen en su municipio, de acuerdo a la clasificación de riesgo de siniestralidad, exista un Programa Interno o Específico de Protección Civil, mediante el cual se pueden prevenir o evitar la incidencia de hechos o actos que pongan en peligro la vida o los bienes.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
+
+La opinión derivada de las visitas o inspecciones que realicen las Unidades Municipales de Protección Civil será un requisito para que se autorice la expedición o refrendo de licencias de funcionamiento de establecimientos comerciales, industriales y de servicios que operen en su municipio.
+
 ###### ARTICULO 87.
 
 El ayuntamiento prestará los servicios públicos de la siguiente forma:
@@ -2348,3 +2364,9 @@ P.O. 24 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 465 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 87 Y 95 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 518 POR EL QUE SE APRUEBA ADICIONAR LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 86 BIS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
