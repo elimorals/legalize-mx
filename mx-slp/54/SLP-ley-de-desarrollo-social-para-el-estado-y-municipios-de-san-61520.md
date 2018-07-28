@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2018-07-03"
+last_updated: "2018-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -229,7 +229,11 @@ I) El Instituto de la Vivienda del Estado.
 
 m) La Junta Estatal de Caminos.
 
-n) Los secretarios del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde el Presidente del Sistema.
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
+
+n) Quien presida la Comisión de Desarrollo Económico y Social del Congreso del Estado.
+
+ñ) Los secretarios del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde el Presidente del Sistema.
 
 Los titulares que formen parte del Sistema Estatal, podrán nombrar representantes para participar en las comisiones de trabajo que se formen.
 
@@ -866,6 +870,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1000.- SE REFORMA EL ARTÍCULO 1° EN SU FRACCIÓN VII, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 28 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1038.- SE ADICIONA UN INCISO A LA FRACCIÓN III DEL ARTÍCULO 8 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
