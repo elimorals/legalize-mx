@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2018-06-11"
+last_updated: "2018-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -387,7 +387,9 @@ IV.- Elaborar, aplicar y evaluar, con la participación de la Secretaría, el Pr
 
 V.- Atender los asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley, u otros ordenamientos legales en concordancia con ella;
 
-VI.- Constituir el Consejo Municipal;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
+
+VI.- Constituir el Consejo Municipal de Turismo, el cual deberá sesionar cada trimestre.
 
 VII.- Consensuar con los sectores privado y social, acciones tendientes a detonar programas en el sector con el impulso de las micro, pequeñas y medianas empresas turísticas;
 
@@ -397,7 +399,7 @@ IX.- Participar en el diseño, instrumentación, ejecución y evaluación de los
 
 X.- Apoyar y participar con el Gobierno Estatal, en las acciones de promoción turística del Municipio;
 
-XI- Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
+XI.- Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
 
 XII.- Emitir opinión ante las instancias correspondientes, y ejecutar las acciones que conforme al marco jurídico vigente le correspondan, cuando concurran dentro de su territorio proyectos de desarrollo turístico o relacionados con el sector;
 
@@ -1062,3 +1064,9 @@ P.O. 11 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 30 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 461 QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 9 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
