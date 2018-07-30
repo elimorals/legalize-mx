@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-archivo-general-de-la-nacion-102646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-06"
-last_updated: "2014-10-06"
+last_updated: "2018-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-09-24"
 ---
 # ESTATUTO ORGANICO DEL ARCHIVO GENERAL DE LA NACION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JULIO DE 2018 EN EL DIARIO OFICIAL DE LA FEDERACIÓN., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 30 DE JULIO DE 2018.]</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de octubre de 2014.
 
@@ -953,4 +953,6 @@ SEXTO. Las referencias que se hacen y las atribuciones que se otorgan en lineami
 
 SÉPTIMO. El presente Estatuto fue aprobado por Acuerdo No. (R) OG-O-2-14-6.- en la Segunda Sesión Ordinaria del Órgano de Gobierno del Organismo, celebrada el 15 de julio de dos mil catorce.- Presidente Suplente, Lic. Faride Rodríguez Velasco, Titular de la Unidad para el Desarrollo Político y Fomento Cívico; Prosecretaria, Lic. Alba Alicia Mora Castellanos, Directora General Adjunta del Archivo General de la Nación; Miembros, Lic. Martín Hernández Roa, Director General de Programación y Presupuesto de la Secretaría de Gobernación; Lic. Gerardo Moreno Resendiz, Director General Adjunto de Adquisiciones y Contratación de Servicios, de la Secretaría de Hacienda y Crédito Público; Dr. Francisco Burgoa Perea, Director General Adjunto de Promoción a la Historia del INEHRM, de la Secretaría de Educación Pública.
 
-México, D.F., a 24 de septiembre de 2012.- Hace constar lo anterior la Directora General del Archivo General de la Nación, María de las Mercedes de Vega Armijo, en ejercicio de la atribución que le confiere lo dispuesto por el Acuerdo (R) OG-O-2-14-6.- en la Segunda Sesión Ordinaria del Órgano de Gobierno del Archivo General de la Nación, celebrada el 15 de julio de dos mil catorce.- Rúbrica.
+> <small>(F. DE E., D.O.F. 30 DE JULIO DE 2018)</small>
+
+México, D.F., a 24 de septiembre de 2014.- Hace constar lo anterior la Directora General del Archivo General de la Nación, María de las Mercedes de Vega Armijo en ejercicio de la atribución que le confiere lo dispuesto por el Acuerdo (R) OG-O-2-14-6.- en la Segunda Sesión Ordinaria del Órgano de Gobierno del Archivo General de la Nación, celebrada el 15 de julio de dos mil catorce.- Rúbrica.
